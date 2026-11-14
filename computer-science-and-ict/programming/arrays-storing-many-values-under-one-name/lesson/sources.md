@@ -1,12 +1,18 @@
 # Sources — Arrays — Storing Many Values Under One Name
 
-countries: Iraq, Sudan, Uzbekistan
+countries: Iraq, Sudan, Uzbekistan, Sri Lanka
 
 **Book 1:** *الحاسوب Computer — للصف الخامس الإعدادي (Computer, Fifth Preparatory Grade), Grade 11* (student book, Arabic) — Iraq, Republic of Iraq, Ministry of Education, General Directorate of Curricula. Year 2023 (1445H), second edition. No ISBN printed. 144 PDF pages. Verdict: COMPLETE. Read in full. Printed page numbers equal the PDF page numbers in this series. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/iraq-placements.md.
 
 **Book 2:** *مقدمة في نظم معالجة البيانات والبرمجة (Introduction to Data Processing Systems and Programming), Grade 11 — Second Secondary* (student book, Arabic; the record's علوم الحاسوب (Computer Science) is the subject name on the wrapper cover) — Sudan, Republic of Sudan, Ministry of Education and General Education, National Centre for Curriculum and Educational Research — Bakht Al-Ruda; prepared by Dr Awad Haj Ali. Year 2008, second edition (legal deposit 2008/769). ISBN 978-99942-53-26-5. 74 PDF pages. Verdict: COMPLETE — the PDF's text layer is garbled, so the book was read visually from 100-DPI contact sheets; the PDF carries a third-party student-site wrapper cover around the official book. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sudan-placements.md.
 
 **Book 3:** *Основы информатики и вычислительной техники — учебник для 9 класса (Basics of Informatics and Computer Technology, Grade 9)* (student book, Russian edition) — Uzbekistan, Издательско-полиграфический творческий дом имени Чулпана (Chulpan Publishing), Tashkent. Authors: А. Абдукадыров, И. Тайлаков, Б. Болтаев, М. Махкамов, А. Азаматов, С. Хафизов. 2006. No ISBN printed on the colophon page. 129 PDF pages. Verdict: COMPLETE. Scanned image-only; the first grab was silently truncated by the Contents API route and the file was re-fetched complete via the Git Blob API, matching the repo blob size exactly; read via title/imprint renders and the book's complete printed contents, with body spot-checks. Russian translation edition of the Uzbek textbook. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/uzbekistan-placements.md.
+
+**Book 4:** *Information and Communication Technology — Reading Book, Grade 9* (student book, English) — Sri Lanka, Educational Publications Department; year 2019 (second print, first 2018); ISBN 978-955-25-0172-2. 111 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
+**Book 5:** *Information and Communication Technology — Teachers' Guide, Grade 9 (Effective from 2018)* (teacher guide, English; parallel Sinhala and Tamil editions spot-checked) — Sri Lanka, National Institute of Education (Department of Information Technology); year 2018 (first print); no ISBN printed (blank on copyright page). 95 PDF pages (English edition; the parallel Sinhala edition has 112 and the Tamil edition 116 PDF pages). Verdict: COMPLETE (English read fully; Sinhala and Tamil are parallel editions of the same guide, spot-checked). Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md. (teacher guide — evidence)
+
+**Book 6:** *தகவல் தொடர்பாடல் தொழில்நுட்பம் (Information and Communication Technology), Grade 11* (student book, Tamil) — Sri Lanka, Educational Publications Department; year 2010 (second print, first 2009); no ISBN printed. 268 PDF pages. Verdict: COMPLETE (image-only scan read via 100-DPI 4-up contact sheets; the TSV release record and the books.json record are the same book, cited once). Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -15,8 +21,11 @@ countries: Iraq, Sudan, Uzbekistan
 | Unit 3 Ch.1 Lesson 3 Solved examples on one-dimensional arrays | Iraq, *Computer, Grade 11*, printed p. 83 |
 | Unit 4, 4-5: Arrays in BASIC and declaring them with DIM (filed as programming/arrays-a-group-of-values-under-one-name; stocked into this lesson as the closest existing lesson covering this thing) | Sudan, *Computer Science, Grade 11*, printed p. 40 |
 | Урок 41 "Табличные величины" (tabular quantities) (filed as programming/tables-and-arrays-of-values; stocked into this lesson as the closest existing lesson covering this thing) | Uzbekistan, *Basics of Informatics, Grade 9*, printed p. 84 |
+| Ch.3 Programming with arrays (filed as NEW LESSON NEEDED; the slug already exists live as this lesson, so it is stocked here as an existing lesson) | Sri Lanka Grade 9 G9 ICT Textbook, printed p. 41 |
+| Competency 3.4: develops programs with array variables (filed as NEW LESSON NEEDED; the slug already exists live as this lesson, so it is stocked here as an existing lesson) (teacher guide — evidence) | Sri Lanka Grade 9 G9 ICT Teacher Guide (NIE 2018), printed p. 58 (teacher guide — evidence) |
+| Ch.1 Arrays in VB (Dim Marks (0 to 9) As Integer; totalling 10 numbers with an array) (filed as NEW LESSON NEEDED; the slug already exists live as this lesson, so it is stocked here as an existing lesson) | Sri Lanka Grade 11 G11 ICT Textbook (Tamil), printed p. 52 |
 
-**Acceptance count: taught in 3 countries (Iraq, Sudan, Uzbekistan).**
+**Acceptance count: taught in 4 countries (Iraq, Sudan, Uzbekistan, Sri Lanka).**
 
 Placement choice: this lesson was built new for the ICT expansion (Iraq, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — programming/arrays-storing-many-values-under-one-name). It sits in the Programming title (programming/), following the book's own order. The placements file names this slug 3 times (Grade 11, printed p. 75; Grade 11, printed p. 79; Grade 11, printed p. 83); the lesson is built ONCE, with a provenance row per placement.
 
@@ -27,4 +36,10 @@ Sudan's own way (Grade 11): a university-style secondary text (single named auth
 
 Uzbekistan's own way (Grade 9): grade 9 is the capstone — computer graphics, Access, Excel, then a nine-lesson algorithms block and a 28-lesson Turbo Pascal 7.0 course that runs from the alphabet of the language to files, procedures and graphics mode, closing with the Internet. Every chapter ends with a dedicated repetition lesson, placed here to that chapter's main lesson.
 
-Searchable tags: arrays, vectors, one-dimensional arrays, data structures, programming, iraq, grade 11, sudan, grade 11, uzbekistan, grade 9
+Sri Lanka's own way (Grade 9 Reading Book): it opens with preparing a computer specification for a real buyer (user needs, peripherals, processor/HDD/monitor/VGA specs, after-sales service); microcontrollers are taught with BBC micro:bit and Arduino and local sensor examples (solar lamp, washing machine, microwave).
+
+Sri Lanka's own way (Grade 9 Teachers' Guide): a competency-based NIE guide (6 competencies, 30 periods) that unpacks the student book with CPU internal detail (input unit, ALU, memory unit, control unit, output unit), spreadsheet charts and sorting, and a named careers list (Software QA Engineer, Database Administrator, Software Architect, System Analyst, Web Application Developer, Graphic Designer). (teacher guide — evidence)
+
+Sri Lanka's own way (Grade 11, Tamil): a full Visual Basic 6.0 programming course inside the O/L book (IDE, controls, data types, Select Case, arrays), an SDLC chapter, Photoshop-based multimedia, hand-coded HTML with Sri Lankan examples (the Sinharaja rainforest page, ucsc.cmb.ac.lk addresses, sltnet.lk domains), and sector chapters (agriculture, industry, government, commerce) before malware and health.
+
+Searchable tags: arrays, vectors, one-dimensional arrays, data structures, programming, iraq, grade 11, sudan, grade 11, uzbekistan, grade 9, sri lanka, grade 9 reading book, sri lanka, grade 9 teachers guide, sri lanka, grade 11 tamil

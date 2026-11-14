@@ -1,6 +1,6 @@
 # Sources — HTML links — linking to other pages
 
-countries: Ethiopia, Belarus, Libya, Malaysia, Mongolia
+countries: Ethiopia, Belarus, Libya, Malaysia, Mongolia, Sri Lanka
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Belarus, Libya, Malaysia, Mongolia
 
 **Book 8:** *Мэдээллийн технологи XI (Information Technology XI)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia (Боловсрол, Соёл, Шинжлэх Ухаан, Спортын Яам), Ulaanbaatar; year 2019 (2nd edition); ISBN 978-99978-61-84-9. 151 PDF pages (printed book 148 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page, in place from phase3-staging (the record size_bytes 85,065,156 does not match the file on disk, 76,263,379 bytes — see the placements file's log debt). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
 
+**Book 9:** *தகவல் தொடர்பாடல் தொழில்நுட்பம் (Information and Communication Technology), Grade 11* (student book, Tamil) — Sri Lanka, Educational Publications Department; year 2010 (second print, first 2009); no ISBN printed. 268 PDF pages. Verdict: COMPLETE (image-only scan read via 100-DPI 4-up contact sheets; the TSV release record and the books.json record are the same book, cited once). Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The anchor element — reference and clickable text | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 4, printed pp. 87–89 |
@@ -30,8 +32,9 @@ countries: Ethiopia, Belarus, Libya, Malaysia, Mongolia
 | Guide Ch 4, editing hypertext (links) (teacher guide — evidence) | Libya Grade 11 IT teacher guide Term 2, printed p. 23 (teacher guide — evidence) |
 | 4.2.5 Pautan Teks dan Imej dalam HTML | Malaysia Grade 7 ASK Tingkatan 1, printed p. 128 |
 | 2.2.3 Links and their types (links between pages, anchors inside a page, mailto links, target, link colours) (filed as NEW LESSON NEEDED — programming/html-links-and-anchors; stocked in this lesson because this lesson teaches HTML links and the anchor element as its own lesson) | Mongolia Grade 11 IT XI, printed p. 82 |
+| Ch.5 Links: anchors within a document, image buttons as links | Sri Lanka Grade 11 G11 ICT Textbook (Tamil), printed p. 196 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Belarus, Libya, Malaysia, Mongolia).**
+**Acceptance count: taught in 6 countries (Ethiopia, Belarus, Libya, Malaysia, Mongolia, Sri Lanka).**
 
 Belarus's own way (Grade 11): grade 11 is a web-and-data year — hand-written HTML in Notepad, then the same site rebuilt in FrontPage, a long PascalABC graphics practicum borrowed from other school subjects, and a full Access database course (tables, links, forms, queries, sorting, reports).
 
@@ -47,4 +50,6 @@ Malaysia's own way (Grade 7, ASK Tingkatan 1): the KSSM Asas Sains Komputer (ASK
 
 Mongolia's own way (Grade 11): a deep, engineering-style systems book (CPU registers, disk access-time calculations) that turns practical fast — pupils price up a computer from Mongolian web shops (pc-mall.mn, bsb.mn, itzone.mn); the web chapter builds a real "Our School" site and an "Animals of the Mongolian Red Book" page; programming is Microsoft Small Basic, and its loops-and-graphics work draws Mongolian ornament — the alkhan khee meander, the khaan buguivch knot and the ulzii endless knot — with code; the book closes by comparing every Small Basic construct with Python and C side by side.
 
-Searchable tags: HTML links, anchor, href reference, target, URL, Ethiopian Airlines, Ethio-telecom, Commercial Bank of Ethiopia, Grade 11 ICT Ethiopia, belarus, libya, grade 9 computer, grade 11 it student term 2, grade 11 it teacher guide term 2, malaysia, grade 7 ask tingkatan 1, mongolia, grade 11 it xi
+Sri Lanka's own way (Grade 11, Tamil): a full Visual Basic 6.0 programming course inside the O/L book (IDE, controls, data types, Select Case, arrays), an SDLC chapter, Photoshop-based multimedia, hand-coded HTML with Sri Lankan examples (the Sinharaja rainforest page, ucsc.cmb.ac.lk addresses, sltnet.lk domains), and sector chapters (agriculture, industry, government, commerce) before malware and health.
+
+Searchable tags: HTML links, anchor, href reference, target, URL, Ethiopian Airlines, Ethio-telecom, Commercial Bank of Ethiopia, Grade 11 ICT Ethiopia, belarus, libya, grade 9 computer, grade 11 it student term 2, grade 11 it teacher guide term 2, malaysia, grade 7 ask tingkatan 1, mongolia, grade 11 it xi, sri lanka, grade 11 tamil

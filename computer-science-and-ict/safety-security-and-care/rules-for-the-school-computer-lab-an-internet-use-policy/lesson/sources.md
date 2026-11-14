@@ -1,6 +1,6 @@
 # Sources — Rules for the school computer lab — an Internet-use policy
 
-countries: Ethiopia, Turkmenistan, Azerbaijan, Bhutan
+countries: Ethiopia, Turkmenistan, Azerbaijan, Bhutan, Sri Lanka
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -14,6 +14,10 @@ countries: Ethiopia, Turkmenistan, Azerbaijan, Bhutan
 
 **Book 6:** *Literacy with ICT — A Textbook for Class 7* (title page: Class VII) (student book, English) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019. ISBN 978-99936-0-442-6. 164 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
 
+**Book 7:** *Information & Communication Technology — Reading Book, Grade 6* (student book, English) — Sri Lanka, Educational Publications Department; year 2019 (second print, first 2018); ISBN 978-955-25-0088-6. 108 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
+**Book 8:** *Information and Communication Technology — Workbook, Grade 6* (student book, English) — Sri Lanka, Educational Publications Department; year 2019 (second print, first 2018); ISBN 978-955-25-0090-9. 64 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Internet use and laboratory conduct are governed in the student book's Unit 5 securing and awareness sections | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 5, printed pp. 207–209 |
@@ -22,8 +26,10 @@ countries: Ethiopia, Turkmenistan, Azerbaijan, Bhutan
 | Lesson 18 "Kompüter sinfində davranış qaydaları" (Behaviour rules in the computer classroom) | Azerbaijan, *İnformatika 2*, printed p. 46 |
 | 2.2 Computer laboratory rules (class agrees and posters its own rules) | Bhutan, *Literacy with ICT, Class IV*, printed p. 15 |
 | 5.5 Acceptable Use Policy | Bhutan, *Literacy with ICT, Class VII*, printed p. 76 |
+| Ch.2 Use the computer laboratory safely: lab rules for pupil and device safety | Sri Lanka Grade 6 G6 ICT Textbook, printed p. 14 |
+| Workbook Ch.2 Activities 2.1-2.7: lab safety, ethics, posture, e-waste, passwords exercises | Sri Lanka Grade 6 G6 ICT Workbook, printed p. 9 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Turkmenistan, Azerbaijan, Bhutan).**
+**Acceptance count: taught in 5 countries (Ethiopia, Turkmenistan, Azerbaijan, Bhutan, Sri Lanka).**
 
 This lesson stands mainly on teacher-guide evidence: the policy text is the guide's ready-made model (Activity 5.4 answer, part three), labelled as evidence in the parts table; the student book's own awareness and securing sections cover the same ground without printing a policy.
 
@@ -33,4 +39,8 @@ Bhutan's own way (Class IV, Literacy with ICT student book): Competency-based "L
 
 Bhutan's own way (Class VII, Literacy with ICT student book): Social media is taught hands-on — learners create a Facebook account, post with audience settings, and follow netiquette and an Acceptable Use Policy; backup is taught to Google Drive, and the end-of-year experience is shared on Facebook.
 
-Searchable tags: internet use policy, school laboratory, rules, plagiarism, passwords, Grade 9 ICT Ethiopia Unit 5 teacher evidence, turkmenistan, azerbaijan, bhutan, class iv, class vii
+Sri Lanka's own way (Grade 6 Reading Book): a story/dialogue-led "Reading Book" with a talking computer character; every chapter cross-refers to numbered Workbook activities; local sectors (school office, ATM, ICU, factories, agriculture) and the 3R e-waste method are taught from Grade 6.
+
+Sri Lanka's own way (Grade 6 Workbook): a companion workbook whose numbered activities (1.1–6.2) are referenced activity-by-activity from the Reading Book; fill-in, labelling and categorising exercises rather than separate theory.
+
+Searchable tags: internet use policy, school laboratory, rules, plagiarism, passwords, Grade 9 ICT Ethiopia Unit 5 teacher evidence, turkmenistan, azerbaijan, bhutan, class iv, class vii, sri lanka, grade 6 reading book, sri lanka, grade 6 workbook

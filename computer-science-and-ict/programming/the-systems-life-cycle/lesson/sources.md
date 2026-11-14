@@ -1,6 +1,6 @@
 # Sources — The Systems Life Cycle
 
-countries: Fiji, Malaysia, Mongolia
+countries: Fiji, Malaysia, Mongolia, Sri Lanka
 
 **Book 1:** *Computer Education — Year 13* (student book, English) — Fiji, Technology and Employment Skills Training (TEST), Ministry of Education, Heritage and Arts, Republic of Fiji, Suva; 2015 (12 December 2015; for the Year 13 syllabus trialled in 2016). No ISBN printed. 153 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
 
@@ -8,14 +8,17 @@ countries: Fiji, Malaysia, Mongolia
 
 **Book 3:** *Мэдээллийн технологи XII (Information Technology XII)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar; year 2019 (2nd edition; bibliographic entry УБ.2018); ISBN 978-99978-61-88-7. Authors: Д.Цэдэвсүрэн, С.Уянга, Л.Мөнхтуяа, Э.Оюунбилэг, Б.Золзаяа. No PDF of this book is held — the books.json record is not on disk and not pushed, and every securing route failed; read in full instead from a public FlipHTML5 copy of the same edition (fliphtml5.com/nhpep/qwmp), whose text layer covers every page (148 printed pages); cover and title/imprint pages verified from the flipbook's first pages against the record title. Verdict: COMPLETE (read in full via the flipbook copy; no library PDF held — a library debt, carried exactly as filed in the placements file, not a merge problem). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
 
+**Book 4:** *தகவல் தொடர்பாடல் தொழில்நுட்பம் (Information and Communication Technology), Grade 11* (student book, Tamil) — Sri Lanka, Educational Publications Department; year 2010 (second print, first 2009); no ISBN printed. 268 PDF pages. Verdict: COMPLETE (image-only scan read via 100-DPI 4-up contact sheets; the TSV release record and the books.json record are the same book, cited once). Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | 2.1 Systems Life Cycle | Fiji, *Computer Education, Year 13*, printed p. 17 |
 | 1.7.1 Kitaran Hayat Pembangunan Sistem (SDLC) (filed as programming/system-development-life-cycle; stocked into this lesson as the closest existing lesson covering this thing) | Malaysia Grade 10 SK Tingkatan 4, printed p. 169 |
 | 2.4.2 Membangunkan Sistem Pangkalan Data dengan Antara Muka Bergrafik Mengikut SDLC (filed as databases/developing-a-database-system-with-sdlc; stocked into this lesson as the closest existing lesson covering this thing) | Malaysia Grade 10 SK Tingkatan 4, printed p. 302 |
 | 3.3.2 The information-system development life cycle (build it yourself, outsourcing, buying a ready-made system; analysis, design, coding, testing, implementation; a school information system worked through all five stages) (filed as NEW LESSON NEEDED — programming/the-system-development-life-cycle; stocked in this lesson because this lesson teaches the systems life cycle and its phases — analysis, design, development, implementation, maintenance — as its own lesson) | Mongolia Grade 12 IT XII, printed p. 100 |
+| Ch.2 System Development Life Cycle: problem definition, feasibility (technical/operational/economic), analysis, functional and non-functional requirements, SRS, design, language choice, testing (unit/integration/acceptance), implementation (direct/parallel/pilot/phased), maintenance (filed as computers-in-society/system-development-life-cycle; stocked into this lesson as the closest existing lesson covering this thing) | Sri Lanka Grade 11 G11 ICT Textbook (Tamil), printed p. 61 |
 
-**Acceptance count: taught in 3 countries (Fiji, Malaysia, Mongolia).**
+**Acceptance count: taught in 4 countries (Fiji, Malaysia, Mongolia, Sri Lanka).**
 
 Placement choice: this lesson was built new for the ICT expansion (Fiji, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — programming/the-systems-life-cycle). It sits in the Programming title (programming/), following the book's own order. Provenance scope note: every placement stocked here is from a Fiji student book (all counted placements in this expansion are student books); duplicate catalogue records of the same book are cited once. Media slots in lesson/lesson.md are described slots only ([Picture — …]); no picture numbers are invented. Systems-life-cycle call: Fiji's Year 13 book teaches the life cycle phase by phase, each phase as its own section with its own content (notably development and implementation as separate phases, and maintenance as a full phase). The course's existing overviews — Papua New Guinea's Models of the Software Development Process, China's Developing an Information System — the Four Stages and Sudan's Systems Analysis and Design — the Eight Steps — compress the journey and do not stock Fiji's phase-by-phase treatment, so the phases are built as their own lessons, as Fiji teaches them.
 
@@ -25,4 +28,6 @@ Malaysia's own way (Grade 10, SK Tingkatan 4): the upper-secondary Sains Kompute
 
 Mongolia's own way (Grade 12): the final book measures everything against Mongolia itself — the ITU index and Mongolia's slipping rank in it, 36,760 km of fibre to 299 soums, the Mongolsat-1 satellite, IoT chips on livestock, telemedicine at the State Central Hospital, the ХУР state data-exchange and ТҮЦ service machines, nano-products from horse bone and ger covers — and its chapter projects are real Mongolian systems: a school ICT-development survey, a study of the ebarimt VAT-receipt system, and a Small Basic "Bouncing Ball" game; programming examples draw the alkhan khee meander with a Turtle subprogram.
 
-Searchable tags: the, systems, life, cycle, programming, fiji, year 13, malaysia, grade 10 sk tingkatan 4, mongolia, grade 12 it xii
+Sri Lanka's own way (Grade 11, Tamil): a full Visual Basic 6.0 programming course inside the O/L book (IDE, controls, data types, Select Case, arrays), an SDLC chapter, Photoshop-based multimedia, hand-coded HTML with Sri Lankan examples (the Sinharaja rainforest page, ucsc.cmb.ac.lk addresses, sltnet.lk domains), and sector chapters (agriculture, industry, government, commerce) before malware and health.
+
+Searchable tags: the, systems, life, cycle, programming, fiji, year 13, malaysia, grade 10 sk tingkatan 4, mongolia, grade 12 it xii, sri lanka, grade 11 tamil

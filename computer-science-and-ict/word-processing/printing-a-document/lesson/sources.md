@@ -1,6 +1,6 @@
 # Sources — Printing a Document
 
-countries: Sudan, Uzbekistan, Cuba
+countries: Sudan, Uzbekistan, Cuba, Sri Lanka
 
 **Book 1:** *INFORMATIQUE — GUIDE DU PROFESSEUR 1AS* (teacher guide, French) — Mauritania, République Islamique de Mauritanie, Ministère de l'Éducation et de la Réforme du Système d'Enseignement, Institut Pédagogique National (IPN); year 2025; no ISBN printed. 68 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave; read in place at phase3-staging/grade-07/gov/mauritania/guide-inf-1as.pdf (byte size 3,704,543 matches the books.json record exactly). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mauritania-placements.md. (teacher guide — evidence)
 
@@ -10,14 +10,17 @@ countries: Sudan, Uzbekistan, Cuba
 
 **Book 4:** *Informática, séptimo grado* (student book, Spanish; title as printed: Informática, séptimo grado) — Cuba, Editorial Pueblo y Educación. 2023. ISBN 978-959-13-3796-2 (print) / 978-959-13-4108-2 (digital). 185 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/cuba-placements.md.
 
+**Book 5:** *தொழில்நுட்பவியலிற்கான விஞ்ஞானம் — தகவல் மற்றும் தொடர்பாடல் தொழில்நுட்பவியல் (Science for Technology — Information and Communication Technology), G.C.E. Advanced Level technology stream, Grade 12* (student book, Tamil) — Sri Lanka, Educational Publications Department; year 2015 (first print; print code 2014/T); no ISBN printed (EPD sales stock barcode only). 252 PDF pages. Verdict: COMPLETE (image-only Noolaham scan read via 100-DPI 4-up contact sheets; printed pages run to 242). Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Lesson 19 Printing (teacher guide — evidence) | Mauritania, *Guide-INF-1AS, Grade 7*, printed p. 33 (teacher guide — evidence) |
 | Unit 4 Lesson 6: Printing the document | Sudan, *ICT, Grade 5*, printed p. 50 |
 | Урок 16 "Распечатка документа Word" (printing the document) | Uzbekistan, *Informatika, Grade 6*, printed p. 62 |
 | Capítulo 3.5 Impresión de documentos — filed as NEW LESSON NEEDED — word-processing/printing-a-document; already live in the tree, stocked here | Cuba, *Informática, Grade 7*, printed p. 131 |
+| Ch.3 Printing in Word 2010 and Writer 4.1; retrieving/opening saved documents (filed as word-processing/printing-and-print-preview; stocked into this lesson as the closest existing lesson covering this thing) | Sri Lanka Grade 12 G12 Science for Technology ICT (Tamil), printed p. 106 |
 
-**Acceptance count: taught in 3 countries (Sudan, Uzbekistan, Cuba).**
+**Acceptance count: taught in 4 countries (Sudan, Uzbekistan, Cuba, Sri Lanka).**
 
 Stocked again in the ICT expansion (Sudan, 2026-11-14) from Sudan's student book — Sudan counts toward this lesson's acceptance count; the Mauritania teacher guide above remains teacher-guide evidence, named here and counted nowhere.
 
@@ -32,4 +35,6 @@ Uzbekistan's own way (Grade 6): the whole of grade 6 is one application taught t
 
 Cuba's own way (Grade 7): Secondary Informática opens by contrasting proprietary Windows with Cuba's free operating system Nova; programming continues the primary Scratch line, here centred on the Scratch pen tool for drawing geometric figures and the linear function; word-processor work ends by exporting documents to HTML for the web.
 
-Searchable tags: printing, print preview, print queue, copies, page range, word, word processing, mauritania, grade 7, sudan, grade 5, uzbekistan, grade 6, cuba, grade 7
+Sri Lanka's own way (Grade 12 Science for Technology, Tamil): the A/L technology-stream ICT volume teaches every office skill twice — once in Microsoft Office 2010 and once in LibreOffice (Writer/Calc/Impress 4.1) — and closes with creating a real Gmail account, mailbox folders, attachments and password safety; hardware goes down to cache levels L1/L2/L3, ROM types and file systems (FAT/NTFS/ext4).
+
+Searchable tags: printing, print preview, print queue, copies, page range, word, word processing, mauritania, grade 7, sudan, grade 5, uzbekistan, grade 6, cuba, grade 7, sri lanka, grade 12 science for technology tamil

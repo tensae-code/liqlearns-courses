@@ -1,6 +1,6 @@
 # Sources — The structure of an HTML document
 
-countries: Ethiopia, Belarus, North Macedonia, Iraq, Egypt, Fiji, Libya, Mongolia
+countries: Ethiopia, Belarus, North Macedonia, Iraq, Egypt, Fiji, Libya, Mongolia, Sri Lanka
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -18,6 +18,10 @@ countries: Ethiopia, Belarus, North Macedonia, Iraq, Egypt, Fiji, Libya, Mongoli
 
 **Book 8:** *Мэдээллийн технологи XI (Information Technology XI)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia (Боловсрол, Соёл, Шинжлэх Ухаан, Спортын Яам), Ulaanbaatar; year 2019 (2nd edition); ISBN 978-99978-61-84-9. 151 PDF pages (printed book 148 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page, in place from phase3-staging (the record size_bytes 85,065,156 does not match the file on disk, 76,263,379 bytes — see the placements file's log debt). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
 
+**Book 9:** *Information & Communication Technology — Reading Book, Grade 7* (student book, English) — Sri Lanka, Educational Publications Department; year 2019 (second print, first 2018); ISBN 978-955-25-0114-2. 136 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
+**Book 10:** *Information and Communication Technology — Reading Book, Grade 8* (student book, English) — Sri Lanka, Educational Publications Department; year 2019 (second print, first 2018); ISBN 978-955-25-0142-5. 100 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The four parts of the skeleton | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 4, printed pp. 83–84 |
@@ -29,8 +33,10 @@ countries: Ethiopia, Belarus, North Macedonia, Iraq, Egypt, Fiji, Libya, Mongoli
 | 5.3 Creating a Simple Page | Fiji, *Computer Education, Year 13*, printed p. 119 |
 | Ch 2, how HTML programs are written; the HTML file structure: head, title, meta tag, body tag | Libya Grade 11 IT student Term 2, printed p. 29 |
 | 2.2.1 Basic structure of an HTML document (tags; headings, paragraphs, text formatting and FONT; lists; tables; images; embedding video and audio) | Mongolia Grade 11 IT XI, printed p. 67 |
+| Ch.7 Develop webpages using HTML; create a simple web page | Sri Lanka Grade 7 G7 ICT Textbook, printed p. 96 |
+| Ch.6 Creating a web page / developing websites | Sri Lanka Grade 8 G8 ICT Textbook, printed p. 66 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Belarus, North Macedonia, Iraq, Egypt, Fiji, Libya, Mongolia).**
+**Acceptance count: taught in 9 countries (Ethiopia, Belarus, North Macedonia, Iraq, Egypt, Fiji, Libya, Mongolia, Sri Lanka).**
 
 Belarus's own way (Grade 11): grade 11 is a web-and-data year — hand-written HTML in Notepad, then the same site rebuilt in FrontPage, a long PascalABC graphics practicum borrowed from other school subjects, and a full Access database course (tables, links, forms, queries, sorting, reports).
 
@@ -48,4 +54,8 @@ Libya's own way (Grade 11 Term 2, Information Technology student book): Term 2 i
 
 Mongolia's own way (Grade 11): a deep, engineering-style systems book (CPU registers, disk access-time calculations) that turns practical fast — pupils price up a computer from Mongolian web shops (pc-mall.mn, bsb.mn, itzone.mn); the web chapter builds a real "Our School" site and an "Animals of the Mongolian Red Book" page; programming is Microsoft Small Basic, and its loops-and-graphics work draws Mongolian ornament — the alkhan khee meander, the khaan buguivch knot and the ulzii endless knot — with code; the book closes by comparing every Small Basic construct with Python and C side by side.
 
-Searchable tags: HTML document structure, doctype, html root, head, body, Grade 11 ICT Ethiopia, belarus, north macedonia, grade 11, iraq, grade 10, egypt, grade 8, fiji, year 13, libya, grade 11 it student term 2, mongolia, grade 11 it xi
+Sri Lanka's own way (Grade 7 Reading Book): the CPU is taught through a hotel-kitchen/chef analogy; programme development (decomposition, flowcharts, variables, bugs) precedes presentation software; HTML page-building is already in Grade 7.
+
+Sri Lanka's own way (Grade 8 Reading Book): number systems and binary conversion open Grade 8; "physical computing" is logic gates taught through water-valve and street-lamp analogies; Scratch selection structures and mobile/smart-device apps sit in the Programming chapter.
+
+Searchable tags: HTML document structure, doctype, html root, head, body, Grade 11 ICT Ethiopia, belarus, north macedonia, grade 11, iraq, grade 10, egypt, grade 8, fiji, year 13, libya, grade 11 it student term 2, mongolia, grade 11 it xi, sri lanka, grade 7 reading book, sri lanka, grade 8 reading book

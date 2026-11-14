@@ -1,6 +1,6 @@
 # Sources — The internet — a network of networks
 
-countries: Ethiopia, Djibouti, Turkmenistan, Cambodia, Mozambique, Nepal, China, Afghanistan, Yemen, North Macedonia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Libya, Mongolia
+countries: Ethiopia, Djibouti, Turkmenistan, Cambodia, Mozambique, Nepal, China, Afghanistan, Yemen, North Macedonia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -56,6 +56,16 @@ countries: Ethiopia, Djibouti, Turkmenistan, Cambodia, Mozambique, Nepal, China,
 
 **Book 27:** *Мэдээллийн технологи VI (Information Technology VI)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture and Science of Mongolia (Боловсрол, соёл, шинжлэх ухааны яам), Ulaanbaatar; year 2015; ISBN 978-99962-74-19-0. 59 PDF pages (printed book 56 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
 
+**Book 28:** *Information & Communication Technology — Reading Book, Grade 6* (student book, English) — Sri Lanka, Educational Publications Department; year 2019 (second print, first 2018); ISBN 978-955-25-0088-6. 108 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
+**Book 29:** *Information & Communication Technology — Reading Book, Grade 7* (student book, English) — Sri Lanka, Educational Publications Department; year 2019 (second print, first 2018); ISBN 978-955-25-0114-2. 136 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
+**Book 30:** *Information and Communication Technology — Workbook, Grade 7* (student book, English) — Sri Lanka, Educational Publications Department; year 2019; ISBN 978-955-25-0116-6. 72 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
+**Book 31:** *தகவல் தொடர்பாடல் தொழில்நுட்பம் (Information and Communication Technology), Grade 11* (student book, Tamil) — Sri Lanka, Educational Publications Department; year 2010 (second print, first 2009); no ISBN printed. 268 PDF pages. Verdict: COMPLETE (image-only scan read via 100-DPI 4-up contact sheets; the TSV release record and the books.json record are the same book, cited once). Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
+**Book 32:** *தொழில்நுட்பவியலிற்கான விஞ்ஞானம் — தகவல் மற்றும் தொடர்பாடல் தொழில்நுட்பவியல் (Science for Technology — Information and Communication Technology), G.C.E. Advanced Level technology stream, Grade 12* (student book, Tamil) — Sri Lanka, Educational Publications Department; year 2015 (first print; print code 2014/T); no ISBN printed (EPD sales stock barcode only). 252 PDF pages. Verdict: COMPLETE (image-only Noolaham scan read via 100-DPI 4-up contact sheets; printed pages run to 242). Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The internet — a network of networks; private, public, government; sharing globally | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 4, printed p.47 |
@@ -75,6 +85,11 @@ countries: Ethiopia, Djibouti, Turkmenistan, Cambodia, Mozambique, Nepal, China,
 | Ch 1, introduction to website development: history of the Internet and the services it offers (WWW, email, chat rooms, newsgroups, file transfer) | Libya Grade 11 IT student Term 2, printed p. 9 |
 | Guide Ch 1, introduction to website development (outcomes, summary, lesson steps, answers) (teacher guide — evidence) | Libya Grade 11 IT teacher guide Term 2, printed p. 7 (teacher guide — evidence) |
 | 2.3.1 The Internet and why it is needed (networks, history, Internet use in Mongolia) | Mongolia Grade 6 IT VI, printed p. 47 |
+| Ch.6 Internet, accessing it, web browsers and their use | Sri Lanka Grade 6 G6 ICT Textbook, printed p. 64 |
+| Ch.7 Internet, World Wide Web and URL | Sri Lanka Grade 7 G7 ICT Textbook, printed p. 87 |
+| Workbook Ch.7 Internet for Information and Communication exercises | Sri Lanka Grade 7 G7 ICT Workbook, printed p. 50 |
+| Ch.3 History of the internet; exchanging information over the internet | Sri Lanka Grade 11 G11 ICT Textbook (Tamil), printed p. 72 |
+| Ch.6 Origin of the internet: ARPANET, ISOC and standards; connecting via ADSL, router or USB wireless modem (dongle) | Sri Lanka Grade 12 G12 Science for Technology ICT (Tamil), printed p. 223 |
 
 | Sub lesson 2 — Internet services — WWW, email, Telnet, FTP (Grade 8 depth) | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 4, printed p. 64 |
 | Sub lesson 2 — a modem joins a computer to the internet (Grade 8 depth) | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 4 text, printed p. 64, and glossary, printed pp. 104–107 (wording corrected — see the honesty note below) |
@@ -92,7 +107,7 @@ countries: Ethiopia, Djibouti, Turkmenistan, Cambodia, Mozambique, Nepal, China,
 | 5-3 Internet and Communication | Egypt, *Programming and Artificial Intelligence, Grade 10 Term 1*, printed p. 50 |
 | Unit 3 Lesson 3 Internet Services | Egypt, *ICT, Grade 5 Term 2 (Arabic)*, printed p. 13 |
 
-**Acceptance count: taught in 18 countries (Ethiopia, Turkmenistan, Cambodia, Mozambique, Nepal, China, Afghanistan, Yemen, North Macedonia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Libya, Mongolia).**
+**Acceptance count: taught in 19 countries (Ethiopia, Turkmenistan, Cambodia, Mozambique, Nepal, China, Afghanistan, Yemen, North Macedonia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -133,4 +148,14 @@ Libya's own way (Grade 11 Term 2, Information Technology teacher guide): each we
 
 Mongolia's own way (Grade 6): ICT is built on Mongolian examples throughout — information and objects taught through the Mazaalai (Gobi bear), the ger (with a paper origami model), Mongolian pattern (khee) motifs and the national flag; touch typing is taught on the Mongolian Cyrillic keyboard layout with local tutor programs (MonTT, Fast type); web work uses Mongolian sites (surguuli.edu.mn, kids.gogo.mn, tsag-agaar.mn).
 
-Searchable tags: internet, network of networks, computer network, global, Grade 7 ICT Ethiopia, djibouti, turkmenistan, cambodia, mozambique, nepal, china, afghanistan, yemen, grade 11, north macedonia, grade 10, iraq, grade 7, sudan, grade 7, uzbekistan, grade 9, cuba, grade 7, cuba, grade 12, egypt, grade 10, grade 5, fiji, year 12, bhutan, class iv, class vi, libya, grade 9 computer, grade 11 it student term 2, grade 11 it teacher guide term 2, mongolia, grade 6 it vi
+Sri Lanka's own way (Grade 6 Reading Book): a story/dialogue-led "Reading Book" with a talking computer character; every chapter cross-refers to numbered Workbook activities; local sectors (school office, ATM, ICU, factories, agriculture) and the 3R e-waste method are taught from Grade 6.
+
+Sri Lanka's own way (Grade 7 Reading Book): the CPU is taught through a hotel-kitchen/chef analogy; programme development (decomposition, flowcharts, variables, bugs) precedes presentation software; HTML page-building is already in Grade 7.
+
+Sri Lanka's own way (Grade 7 Workbook): a companion workbook mirroring the Reading Book chapter-for-chapter (CPU, OS, security, word processing, program development, presentations, internet).
+
+Sri Lanka's own way (Grade 11, Tamil): a full Visual Basic 6.0 programming course inside the O/L book (IDE, controls, data types, Select Case, arrays), an SDLC chapter, Photoshop-based multimedia, hand-coded HTML with Sri Lankan examples (the Sinharaja rainforest page, ucsc.cmb.ac.lk addresses, sltnet.lk domains), and sector chapters (agriculture, industry, government, commerce) before malware and health.
+
+Sri Lanka's own way (Grade 12 Science for Technology, Tamil): the A/L technology-stream ICT volume teaches every office skill twice — once in Microsoft Office 2010 and once in LibreOffice (Writer/Calc/Impress 4.1) — and closes with creating a real Gmail account, mailbox folders, attachments and password safety; hardware goes down to cache levels L1/L2/L3, ROM types and file systems (FAT/NTFS/ext4).
+
+Searchable tags: internet, network of networks, computer network, global, Grade 7 ICT Ethiopia, djibouti, turkmenistan, cambodia, mozambique, nepal, china, afghanistan, yemen, grade 11, north macedonia, grade 10, iraq, grade 7, sudan, grade 7, uzbekistan, grade 9, cuba, grade 7, cuba, grade 12, egypt, grade 10, grade 5, fiji, year 12, bhutan, class iv, class vi, libya, grade 9 computer, grade 11 it student term 2, grade 11 it teacher guide term 2, mongolia, grade 6 it vi, sri lanka, grade 6 reading book, sri lanka, grade 7 reading book, sri lanka, grade 7 workbook, sri lanka, grade 11 tamil, sri lanka, grade 12 science for technology tamil

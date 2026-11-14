@@ -1,6 +1,6 @@
 # Sources — The parts of a web address
 
-countries: Ethiopia, Germany, China, Sudan, Fiji, Bhutan, Libya, Mongolia
+countries: Ethiopia, Germany, China, Sudan, Fiji, Bhutan, Libya, Mongolia, Sri Lanka
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Germany, China, Sudan, Fiji, Bhutan, Libya, Mongolia
 
 **Book 9:** *Мэдээллийн технологи VI (Information Technology VI)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture and Science of Mongolia (Боловсрол, соёл, шинжлэх ухааны яам), Ulaanbaatar; year 2015; ISBN 978-99962-74-19-0. 59 PDF pages (printed book 56 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
 
+**Book 10:** *தகவல் தொடர்பாடல் தொழில்நுட்பம் (Information and Communication Technology), Grade 11* (student book, Tamil) — Sri Lanka, Educational Publications Department; year 2010 (second print, first 2009); no ISBN printed. 268 PDF pages. Verdict: COMPLETE (image-only scan read via 100-DPI 4-up contact sheets; the TSV release record and the books.json record are the same book, cited once). Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Four parts of an address — protocol, www, domain name, extension; the google example | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 4, printed p.52 |
@@ -32,8 +34,9 @@ countries: Ethiopia, Germany, China, Sudan, Fiji, Bhutan, Libya, Mongolia
 | 3.4 Web Address | Bhutan, *Literacy with ICT, Class VI*, printed p. 54 |
 | Unit 2 Ch 1, website addresses on the Internet | Libya Grade 9 Computer, printed p. 71 |
 | 2.3.2 The web browser program and web information (URL parts, IP address, domain types, hypertext, saving web text and pictures) | Mongolia Grade 6 IT VI, printed p. 49 |
+| Ch.3 Web addresses; finding an unknown address with search engines (Google, Yahoo, Ask, Altavista) | Sri Lanka Grade 11 G11 ICT Textbook (Tamil), printed p. 111 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Germany, China, Sudan, Fiji, Bhutan, Libya, Mongolia).**
+**Acceptance count: taught in 9 countries (Ethiopia, Germany, China, Sudan, Fiji, Bhutan, Libya, Mongolia, Sri Lanka).**
 
 Germany's book is held only as a PARTIAL copy (see the book entry above); this placement rests on the book's verified complete contents and sampled pages, and Germany is counted from that partially-held copy.
 
@@ -50,4 +53,6 @@ Libya's own way (Grade 9, Computer student book): the whole year is networks and
 
 Mongolia's own way (Grade 6): ICT is built on Mongolian examples throughout — information and objects taught through the Mazaalai (Gobi bear), the ger (with a paper origami model), Mongolian pattern (khee) motifs and the national flag; touch typing is taught on the Mongolian Cyrillic keyboard layout with local tutor programs (MonTT, Fast type); web work uses Mongolian sites (surguuli.edu.mn, kids.gogo.mn, tsag-agaar.mn).
 
-Searchable tags: web address, URL, protocol, http, domain name, domain extension, .gov .et .edu .org .net, Grade 7 ICT Ethiopia, germany, china, sudan, grade 7, fiji, year 12, bhutan, class iv, class vi, libya, grade 9 computer, mongolia, grade 6 it vi
+Sri Lanka's own way (Grade 11, Tamil): a full Visual Basic 6.0 programming course inside the O/L book (IDE, controls, data types, Select Case, arrays), an SDLC chapter, Photoshop-based multimedia, hand-coded HTML with Sri Lankan examples (the Sinharaja rainforest page, ucsc.cmb.ac.lk addresses, sltnet.lk domains), and sector chapters (agriculture, industry, government, commerce) before malware and health.
+
+Searchable tags: web address, URL, protocol, http, domain name, domain extension, .gov .et .edu .org .net, Grade 7 ICT Ethiopia, germany, china, sudan, grade 7, fiji, year 12, bhutan, class iv, class vi, libya, grade 9 computer, mongolia, grade 6 it vi, sri lanka, grade 11 tamil

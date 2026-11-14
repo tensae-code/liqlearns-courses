@@ -1,6 +1,6 @@
 # Sources — What an information system is
 
-countries: Ethiopia, China, Belarus, Sudan, Uzbekistan, Egypt, Fiji, Mongolia
+countries: Ethiopia, China, Belarus, Sudan, Uzbekistan, Egypt, Fiji, Mongolia, Sri Lanka
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE. 170 PDF pages, 162 printed pp. Printed page = PDF page \u2212 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -23,6 +23,8 @@ countries: Ethiopia, China, Belarus, Sudan, Uzbekistan, Egypt, Fiji, Mongolia
 **Book 10:** *Мэдээллийн технологи X (Information Technology X)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar; year 2019 (2nd edition; bibliographic entry УБ.2018); ISBN 978-99978-61-82-5. 151 PDF pages (printed book 148 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page, from the release mid-size-books-8 asset (the books.json record's size_bytes does not match the secured asset — see the placements file's log debt). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
 **Book 11:** *Мэдээллийн технологи XII (Information Technology XII)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar; year 2019 (2nd edition; bibliographic entry УБ.2018); ISBN 978-99978-61-88-7. Authors: Д.Цэдэвсүрэн, С.Уянга, Л.Мөнхтуяа, Э.Оюунбилэг, Б.Золзаяа. No PDF of this book is held — the books.json record is not on disk and not pushed, and every securing route failed; read in full instead from a public FlipHTML5 copy of the same edition (fliphtml5.com/nhpep/qwmp), whose text layer covers every page (148 printed pages); cover and title/imprint pages verified from the flipbook's first pages against the record title. Verdict: COMPLETE (read in full via the flipbook copy; no library PDF held — a library debt, carried exactly as filed in the placements file, not a merge problem). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
 
+**Book 12:** *தகவல் தொடர்பாடல் தொழில்நுட்பம் (Information and Communication Technology), Grade 11* (student book, Tamil) — Sri Lanka, Educational Publications Department; year 2010 (second print, first 2009); no ISBN printed. 268 PDF pages. Verdict: COMPLETE (image-only scan read via 100-DPI 4-up contact sheets; the TSV release record and the books.json record are the same book, cited once). Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | What an information system is (whole lesson) | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 1, printed p. 6 (student placement item 7) |
@@ -36,8 +38,9 @@ countries: Ethiopia, China, Belarus, Sudan, Uzbekistan, Egypt, Fiji, Mongolia
 | 1.1 Parts of an Information System (six parts: people, procedures, software, hardware, data and the Internet) | Fiji, *Computer Education, Year 13*, printed p. 2 |
 | 4.1.1 Information systems and databases (Mongolia's unified state registration system) | Mongolia Grade 10 IT X, printed p. 115 |
 | 3.1.2 The information system (IS development by decade; the system's basic activities; six checks on entered data; information products and choosing an output method; storage, backup and integrity) | Mongolia Grade 12 IT XII, printed p. 78 |
+| Ch.2 Information systems: what a system is, subsystems, input/processing/output, business management system | Sri Lanka Grade 11 G11 ICT Textbook (Tamil), printed p. 55 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, China, Belarus, Sudan, Uzbekistan, Egypt, Fiji, Mongolia).**
+**Acceptance count: taught in 9 countries (Ethiopia, China, Belarus, Sudan, Uzbekistan, Egypt, Fiji, Mongolia, Sri Lanka).**
 
 Belarus's own way (Grade 11): grade 11 is a web-and-data year — hand-written HTML in Notepad, then the same site rebuilt in FrontPage, a long PascalABC graphics practicum borrowed from other school subjects, and a full Access database course (tables, links, forms, queries, sorting, reports).
 
@@ -60,4 +63,6 @@ Mongolia's own way (Grade 10): Grade 10 is the "citizen" book — ICT ethics, la
 
 Mongolia's own way (Grade 12): the final book measures everything against Mongolia itself — the ITU index and Mongolia's slipping rank in it, 36,760 km of fibre to 299 soums, the Mongolsat-1 satellite, IoT chips on livestock, telemedicine at the State Central Hospital, the ХУР state data-exchange and ТҮЦ service machines, nano-products from horse bone and ger covers — and its chapter projects are real Mongolian systems: a school ICT-development survey, a study of the ebarimt VAT-receipt system, and a Small Basic "Bouncing Ball" game; programming examples draw the alkhan khee meander with a Turtle subprogram.
 
-Searchable tags: information system, collect process store share, school marks, reports, Ethiopia Grade 11 IT, china, belarus, mauritania, grade 7, papua new guinea, grade 11, sudan, grade 11, uzbekistan, grade 9, egypt, grade 10, fiji, year 13, mongolia, grade 10 it x, grade 12 it xii
+Sri Lanka's own way (Grade 11, Tamil): a full Visual Basic 6.0 programming course inside the O/L book (IDE, controls, data types, Select Case, arrays), an SDLC chapter, Photoshop-based multimedia, hand-coded HTML with Sri Lankan examples (the Sinharaja rainforest page, ucsc.cmb.ac.lk addresses, sltnet.lk domains), and sector chapters (agriculture, industry, government, commerce) before malware and health.
+
+Searchable tags: information system, collect process store share, school marks, reports, Ethiopia Grade 11 IT, china, belarus, mauritania, grade 7, papua new guinea, grade 11, sudan, grade 11, uzbekistan, grade 9, egypt, grade 10, fiji, year 13, mongolia, grade 10 it x, grade 12 it xii, sri lanka, grade 11 tamil

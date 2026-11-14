@@ -1,6 +1,6 @@
 # Sources — Bugs and debugging — turning on [DEBUG ON]
 
-countries: Ethiopia, Nepal, North Macedonia, Egypt, Fiji, Malaysia
+countries: Ethiopia, Nepal, North Macedonia, Egypt, Fiji, Malaysia, Sri Lanka
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked), writers Teshome Alemu Wedajo, Wendwesen Endale Workneh, August 2023, GEQIP-E, no ISBN, 210 PDF pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -24,6 +24,8 @@ countries: Ethiopia, Nepal, North Macedonia, Egypt, Fiji, Malaysia
 
 **Book 11:** *Sains Komputer Tingkatan 4* (student book, Bahasa Melayu) — Malaysia, Oxford Fajar Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2016; ISBN 978-983-47-2013-1. 355 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/malaysia-placements.md.
 
+**Book 12:** *Information & Communication Technology — Reading Book, Grade 7* (student book, English) — Sri Lanka, Educational Publications Department; year 2019 (second print, first 2018); ISBN 978-955-25-0114-2. 136 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Test first — run it and compare with the expected output | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 6, printed p. 191 (student placement item 134) |
@@ -39,8 +41,9 @@ countries: Ethiopia, Nepal, North Macedonia, Egypt, Fiji, Malaysia
 | 3.1.4 Mengesan dan Membaiki Ralat pada Segmen Kod | Malaysia Grade 8 ASK Tingkatan 2, printed p. 102 |
 | 4.2.5 Menguji Atur Cara dan Membaiki Ralat | Malaysia Grade 9 ASK Tingkatan 3, printed p. 189 |
 | 1.5.2 Pengesanan, Pengenalpastian dan Penterjemahan Mesej Ralat serta Pembaikan Ralat | Malaysia Grade 10 SK Tingkatan 4, printed p. 119 |
+| Ch.5 Bugs and debugging (programme with/without bugs compared) | Sri Lanka Grade 7 G7 ICT Textbook, printed p. 62 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Nepal, North Macedonia, Egypt, Fiji, Malaysia).**
+**Acceptance count: taught in 7 countries (Ethiopia, Nepal, North Macedonia, Egypt, Fiji, Malaysia, Sri Lanka).**
 
 No book error touches this lesson. Teacher-guide evidence (item 38, in part) is filed in Sub lesson 1: the quality-assurance framing of testing, and the §6.4 teacher tip pointing to what a good Python coding environment requires (guide printed p. 150). The divide-by-zero behaviour in Do it first was run in Python 3: it raises ZeroDivisionError: division by zero. All other code behaviour matches the runs recorded for this band. The teacher guide's answer keys were used as the verified answer source for this lesson's questions (guide item 40).
 
@@ -60,4 +63,6 @@ Malaysia's own way (Grade 9, ASK Tingkatan 3): Tingkatan 3 is unusually advanced
 
 Malaysia's own way (Grade 10, SK Tingkatan 4): the upper-secondary Sains Komputer (SK — Computer Science) elective switches language to Java (NetBeans) and is organised as three big project-style chapters — Programming, Relational Databases (Access, ERD, normalisation to 3NF, macros/switchboard, a full SDLC database project), and Human-Computer Interaction with screen-design prototyping and quantitative evaluation (prototypes built in Java NetBeans).
 
-Searchable tags: debugging, bug, testing, DEBUG ON, IDLE debugger, Grade 12 ICT Ethiopia, Unit 6 programming, nepal, north macedonia, grade 10, papua new guinea, grade 10, egypt, grade 9, fiji, year 12, malaysia, grade 7 ask tingkatan 1, malaysia, grade 8 ask tingkatan 2, malaysia, grade 9 ask tingkatan 3, malaysia, grade 10 sk tingkatan 4
+Sri Lanka's own way (Grade 7 Reading Book): the CPU is taught through a hotel-kitchen/chef analogy; programme development (decomposition, flowcharts, variables, bugs) precedes presentation software; HTML page-building is already in Grade 7.
+
+Searchable tags: debugging, bug, testing, DEBUG ON, IDLE debugger, Grade 12 ICT Ethiopia, Unit 6 programming, nepal, north macedonia, grade 10, papua new guinea, grade 10, egypt, grade 9, fiji, year 12, malaysia, grade 7 ask tingkatan 1, malaysia, grade 8 ask tingkatan 2, malaysia, grade 9 ask tingkatan 3, malaysia, grade 10 sk tingkatan 4, sri lanka, grade 7 reading book

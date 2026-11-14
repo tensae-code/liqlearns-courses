@@ -1,6 +1,6 @@
 # Sources — Presentation software — slides that show your ideas
 
-countries: Ethiopia, Yemen, Sudan, Cuba, Egypt, Fiji, Bhutan, Mongolia
+countries: Ethiopia, Yemen, Sudan, Cuba, Egypt, Fiji, Bhutan, Mongolia, Sri Lanka
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -28,6 +28,12 @@ countries: Ethiopia, Yemen, Sudan, Cuba, Egypt, Fiji, Bhutan, Mongolia
 
 **Book 13:** *Мэдээллийн технологи VII (Information Technology VII)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar; year 2019 (3rd edition; bibliographic entry УБ.2015); ISBN 978-99962-74-24-4. 75 PDF pages (printed book 72 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
 
+**Book 14:** *Information & Communication Technology — Reading Book, Grade 7* (student book, English) — Sri Lanka, Educational Publications Department; year 2019 (second print, first 2018); ISBN 978-955-25-0114-2. 136 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
+**Book 15:** *Information and Communication Technology — Workbook, Grade 7* (student book, English) — Sri Lanka, Educational Publications Department; year 2019; ISBN 978-955-25-0116-6. 72 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
+**Book 16:** *தொழில்நுட்பவியலிற்கான விஞ்ஞானம் — தகவல் மற்றும் தொடர்பாடல் தொழில்நுட்பவியல் (Science for Technology — Information and Communication Technology), G.C.E. Advanced Level technology stream, Grade 12* (student book, Tamil) — Sri Lanka, Educational Publications Department; year 2015 (first print; print code 2014/T); no ISBN printed (EPD sales stock barcode only). 252 PDF pages. Verdict: COMPLETE (image-only Noolaham scan read via 100-DPI 4-up contact sheets; printed pages run to 242). Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Presentation software — displays slides; MS PowerPoint, Google Slides, LibreOffice Impress named | Ethiopia, Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed p. 121 |
@@ -44,8 +50,11 @@ countries: Ethiopia, Yemen, Sudan, Cuba, Egypt, Fiji, Bhutan, Mongolia
 | 2.2.4 Presentation Graphics | Fiji, *Computer Education, Year 11*, printed p. 53 |
 | 7.1 Introduction to Presentation and 7.2 Features of Presentation Software | Bhutan, *Literacy with ICT, Class VII*, printed p. 98 |
 | 2.3.1 Presentation structure and features (MS PowerPoint; a presentation as slides made of objects) | Mongolia Grade 7 IT VII, printed p. 50 |
+| Ch.6 Presentation software: learn about and design a presentation | Sri Lanka Grade 7 G7 ICT Textbook, printed p. 69 |
+| Workbook Ch.6 Presentation Software exercises | Sri Lanka Grade 7 G7 ICT Workbook, printed p. 37 |
+| Ch.5 Creating Presentations: what a presentation is — presenter, audience, medium, contents (filed as presentations/what-presentation-software-is-for; stocked into this lesson as the closest existing lesson covering this thing) | Sri Lanka Grade 12 G12 Science for Technology ICT (Tamil), printed p. 176 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Yemen, Sudan, Cuba, Egypt, Fiji, Bhutan, Mongolia).**
+**Acceptance count: taught in 9 countries (Ethiopia, Yemen, Sudan, Cuba, Egypt, Fiji, Bhutan, Mongolia, Sri Lanka).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -71,4 +80,10 @@ Bhutan's own way (Class VII, Literacy with ICT student book): Social media is ta
 
 Mongolia's own way (Grade 7): the whole applications half is one long project — research and produce a printed booklet "Усаа хайрлая" (Cherish the Water) in Word, a Paint.NET layered picture, and a class PowerPoint; image work uses the free Paint.NET (downloaded from getpaint.net) rather than MS Paint; the e-communication chapter teaches Yahoo mail and Yahoo Messenger, Mongolian history of the örtöö relay post and the @ sign, and makes correct Latin transliteration of Mongolian Cyrillic (standard MNS 5217:2003) an ethics topic in its own right.
 
-Searchable tags: presentation software, slides, PowerPoint, Google Slides, LibreOffice Impress, Ethiopia Grade 9, yemen, grade 11, mauritania, grade 9, papua new guinea, grade 9, sudan, grade 6, cuba, grade 6, cuba, grade 8, egypt, grade 5, fiji, years 7-8, year 11, bhutan, class vii, mongolia, grade 7 it vii
+Sri Lanka's own way (Grade 7 Reading Book): the CPU is taught through a hotel-kitchen/chef analogy; programme development (decomposition, flowcharts, variables, bugs) precedes presentation software; HTML page-building is already in Grade 7.
+
+Sri Lanka's own way (Grade 7 Workbook): a companion workbook mirroring the Reading Book chapter-for-chapter (CPU, OS, security, word processing, program development, presentations, internet).
+
+Sri Lanka's own way (Grade 12 Science for Technology, Tamil): the A/L technology-stream ICT volume teaches every office skill twice — once in Microsoft Office 2010 and once in LibreOffice (Writer/Calc/Impress 4.1) — and closes with creating a real Gmail account, mailbox folders, attachments and password safety; hardware goes down to cache levels L1/L2/L3, ROM types and file systems (FAT/NTFS/ext4).
+
+Searchable tags: presentation software, slides, PowerPoint, Google Slides, LibreOffice Impress, Ethiopia Grade 9, yemen, grade 11, mauritania, grade 9, papua new guinea, grade 9, sudan, grade 6, cuba, grade 6, cuba, grade 8, egypt, grade 5, fiji, years 7-8, year 11, bhutan, class vii, mongolia, grade 7 it vii, sri lanka, grade 7 reading book, sri lanka, grade 7 workbook, sri lanka, grade 12 science for technology tamil

@@ -1,6 +1,6 @@
 # Sources — HTML attributes — and the img element
 
-countries: Ethiopia, Belarus, Iraq, Malaysia
+countries: Ethiopia, Belarus, Iraq, Malaysia, Sri Lanka
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Belarus, Iraq, Malaysia
 
 **Book 5:** *Asas Sains Komputer Tingkatan 1* (student book, Bahasa Melayu) — Malaysia, Percetakan Rina Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2016; ISBN 978-967-14509-0-1. 164 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/malaysia-placements.md.
 
+**Book 6:** *தகவல் தொடர்பாடல் தொழில்நுட்பம் (Information and Communication Technology), Grade 11* (student book, Tamil) — Sri Lanka, Educational Publications Department; year 2010 (second print, first 2009); no ISBN printed. 268 PDF pages. Verdict: COMPLETE (image-only scan read via 100-DPI 4-up contact sheets; the TSV release record and the books.json record are the same book, cited once). Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Attributes — name=value inside the start tag; the alignment example | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 4, printed pp. 84–85 |
@@ -20,8 +22,9 @@ countries: Ethiopia, Belarus, Iraq, Malaysia
 | § 3.2 "Відарысы на вэб-старонках" (images on web pages) | Belarus, *Інфарматыка. 11 клас*, § 3.2, printed p. 24 |
 | Unit 4 Ch.1 Lesson 2 Controlling web pages (attributes and elements) | Iraq, *Computer, Grade 10*, printed p. 111 |
 | 4.2.6 Memasukkan Imej dalam HTML | Malaysia Grade 7 ASK Tingkatan 1, printed p. 130 |
+| Ch.5 Inserting graphics and photos in HTML: IMG SRC and ALT (Sinharaja rainforest example) | Sri Lanka Grade 11 G11 ICT Textbook (Tamil), printed p. 182 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Belarus, Iraq, Malaysia).**
+**Acceptance count: taught in 5 countries (Ethiopia, Belarus, Iraq, Malaysia, Sri Lanka).**
 
 Belarus's own way (Grade 11): grade 11 is a web-and-data year — hand-written HTML in Notepad, then the same site rebuilt in FrontPage, a long PascalABC graphics practicum borrowed from other school subjects, and a full Access database course (tables, links, forms, queries, sorting, reports).
 
@@ -31,4 +34,6 @@ Iraq's own way (Grade 10): the preparatory stage turns practical and examinable 
 
 Malaysia's own way (Grade 7, ASK Tingkatan 1): the KSSM Asas Sains Komputer (ASK — Foundations of Computer Science) course is built on the four computational-thinking techniques (decomposition, pattern recognition, abstraction, generalisation) introduced through a local food example (making popia basah); programming is done in Scratch 2.0, then learners build a real interactive website in HTML in the same year; every chapter ends with a mind map, self-check list and self-practice.
 
-Searchable tags: HTML attributes, name=value, align, img, src, Grade 11 ICT Ethiopia, belarus, iraq, grade 10, malaysia, grade 7 ask tingkatan 1
+Sri Lanka's own way (Grade 11, Tamil): a full Visual Basic 6.0 programming course inside the O/L book (IDE, controls, data types, Select Case, arrays), an SDLC chapter, Photoshop-based multimedia, hand-coded HTML with Sri Lankan examples (the Sinharaja rainforest page, ucsc.cmb.ac.lk addresses, sltnet.lk domains), and sector chapters (agriculture, industry, government, commerce) before malware and health.
+
+Searchable tags: HTML attributes, name=value, align, img, src, Grade 11 ICT Ethiopia, belarus, iraq, grade 10, malaysia, grade 7 ask tingkatan 1, sri lanka, grade 11 tamil

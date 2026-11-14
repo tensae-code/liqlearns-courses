@@ -1,6 +1,6 @@
 # Sources — Passwords — making a strong one
 
-countries: Ethiopia, China, Sudan, Cuba, Bhutan
+countries: Ethiopia, China, Sudan, Cuba, Bhutan, Sri Lanka
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -16,6 +16,10 @@ countries: Ethiopia, China, Sudan, Cuba, Bhutan
 
 **Book 7:** *Literacy with ICT — A Textbook for Class 5* (title page: Class V) (student book, English, with Dzongkha typing chapter) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019 (copyright 2016). ISBN 978-99936-0-429-7. 110 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
 
+**Book 8:** *Information & Communication Technology — Reading Book, Grade 6* (student book, English) — Sri Lanka, Educational Publications Department; year 2019 (second print, first 2018); ISBN 978-955-25-0088-6. 108 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
+**Book 9:** *தொழில்நுட்பவியலிற்கான விஞ்ஞானம் — தகவல் மற்றும் தொடர்பாடல் தொழில்நுட்பவியல் (Science for Technology — Information and Communication Technology), G.C.E. Advanced Level technology stream, Grade 12* (student book, Tamil) — Sri Lanka, Educational Publications Department; year 2015 (first print; print code 2014/T); no ISBN printed (EPD sales stock barcode only). 252 PDF pages. Verdict: COMPLETE (image-only Noolaham scan read via 100-DPI 4-up contact sheets; printed pages run to 242). Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Password defined — verifies identity; first line of defence | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 5, printed p.68 |
@@ -26,8 +30,10 @@ countries: Ethiopia, China, Sudan, Cuba, Bhutan
 | Unit 1, 1-7: Protecting files — secret passwords and guarding against viruses and environmental damage | Sudan, *Computer Science, Grade 11*, printed p. 6 |
 | Capítulo 3.3 Contraseñas y autenticación multifactor | Cuba, *Informática, Grade 9*, printed p. 50 |
 | 3.3 Choosing and keeping a password | Bhutan, *Literacy with ICT, Class V*, printed p. 39 |
+| Ch.2 Use passwords to protect computers | Sri Lanka Grade 6 G6 ICT Textbook, printed p. 24 |
+| Ch.6 E-mail account password safety: strong passwords, changing them, different passwords for different services (filed as safety-security-and-care/keeping-your-password-private; stocked into this lesson as the closest existing lesson covering this thing) | Sri Lanka Grade 12 G12 Science for Technology ICT (Tamil), printed p. 241 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, China, Sudan, Cuba, Bhutan).**
+**Acceptance count: taught in 6 countries (Ethiopia, China, Sudan, Cuba, Bhutan, Sri Lanka).**
 
 Sudan's own way (Grade 6): the final primary book is built around real Sudanese systems — networks and cloud first, then a full security unit taught through named children's everyday internet dilemmas, and a worked example of the ipSchools school-management system (with a real Bakht Al-Ruda school results table) before closing with computers in banks and police work.
 
@@ -37,4 +43,8 @@ Cuba's own way (Grade 9): Grade 9 is the formal programming-foundations year —
 
 Bhutan's own way (Class V, Literacy with ICT student book): Word is taught together with typing in Dzongkha, the national language (Dzongkha keyboard software and fonts); communication is taught on the school LAN with Qualia LAN Messenger (chat, file sharing and broadcast with no Internet connection), and the end-of-year folder is sent to the teacher as a LAN-messenger attachment.
 
-Searchable tags: password, strong password, authentication, security, 8 characters, Grade 7 ICT Ethiopia, china, sudan, grade 6, grade 11, cuba, grade 9, bhutan, class v
+Sri Lanka's own way (Grade 6 Reading Book): a story/dialogue-led "Reading Book" with a talking computer character; every chapter cross-refers to numbered Workbook activities; local sectors (school office, ATM, ICU, factories, agriculture) and the 3R e-waste method are taught from Grade 6.
+
+Sri Lanka's own way (Grade 12 Science for Technology, Tamil): the A/L technology-stream ICT volume teaches every office skill twice — once in Microsoft Office 2010 and once in LibreOffice (Writer/Calc/Impress 4.1) — and closes with creating a real Gmail account, mailbox folders, attachments and password safety; hardware goes down to cache levels L1/L2/L3, ROM types and file systems (FAT/NTFS/ext4).
+
+Searchable tags: password, strong password, authentication, security, 8 characters, Grade 7 ICT Ethiopia, china, sudan, grade 6, grade 11, cuba, grade 9, bhutan, class v, sri lanka, grade 6 reading book, sri lanka, grade 12 science for technology tamil

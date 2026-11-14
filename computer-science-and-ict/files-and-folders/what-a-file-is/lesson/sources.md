@@ -1,6 +1,6 @@
 # Sources — What a file is
 
-countries: Ethiopia, Djibouti, Uganda, Yemen, Bhutan
+countries: Ethiopia, Djibouti, Uganda, Yemen, Bhutan, Sri Lanka
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pages. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -20,6 +20,12 @@ countries: Ethiopia, Djibouti, Uganda, Yemen, Bhutan
 
 **Book 9:** *Literacy with ICT — A Textbook for Class IV* (student book, English) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019 (copyright 2016). ISBN 978-99936-0-428-0. 90 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
 
+**Book 10:** *Information & Communication Technology — Reading Book, Grade 6* (student book, English) — Sri Lanka, Educational Publications Department; year 2019 (second print, first 2018); ISBN 978-955-25-0088-6. 108 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
+**Book 11:** *Information and Communication Technology — Workbook, Grade 6* (student book, English) — Sri Lanka, Educational Publications Department; year 2019 (second print, first 2018); ISBN 978-955-25-0090-9. 64 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
+**Book 12:** *Information & Communication Technology — Reading Book, Grade 7* (student book, English) — Sri Lanka, Educational Publications Department; year 2019 (second print, first 2018); ISBN 978-955-25-0114-2. 136 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What a file is | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, §1.1, printed pp. 2–3 |
@@ -35,8 +41,11 @@ countries: Ethiopia, Djibouti, Uganda, Yemen, Bhutan
 | "The concept of files and folders" | Yemen, *Computer, Grade 10*, printed p. 58 |
 | U.D.4 Séance 1 Les dossiers et les fichiers (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 1 (ma-g1)*, printed p. 27 (teacher guide — evidence) |
 | 4.1 Introduction to Files and filename | Bhutan, *Literacy with ICT, Class IV*, printed p. 32 |
+| Ch.3 User interface, file, file name and extension | Sri Lanka Grade 6 G6 ICT Textbook, printed p. 28 |
+| Workbook Ch.3 Activities 3.1-3.5: OS and file management exercises | Sri Lanka Grade 6 G6 ICT Workbook, printed p. 18 |
+| Ch.2 File and folder concepts | Sri Lanka Grade 7 G7 ICT Textbook, printed p. 15 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Yemen, Bhutan).**
+**Acceptance count: taught in 4 countries (Ethiopia, Yemen, Bhutan, Sri Lanka).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -48,4 +57,10 @@ Morocco's own way (Grade 1): ICT from age 6 built entirely on handling real hard
 
 Bhutan's own way (Class IV, Literacy with ICT student book): Competency-based "Literacy with ICT" (not procedure drill): every chapter opens with learning objectives, mixes off-machine "Try This" with "Try This On Machine", and closes with Now You Know / Check Your Progress / Explore Further; content is localised (Bhutanese names, kuenselonline, education.gov.bt, Bhutan's 1999 Internet start) and one class per week across the year.
 
-Searchable tags: what is a file, file icon, file extension, docx, pptx, xlsx, mp3, mp4, course road map, six units, files and folders, grade 9, information technology, ict, ethiopia, djibouti, uganda, yemen, grade 10, morocco, grade 1, bhutan, class iv
+Sri Lanka's own way (Grade 6 Reading Book): a story/dialogue-led "Reading Book" with a talking computer character; every chapter cross-refers to numbered Workbook activities; local sectors (school office, ATM, ICU, factories, agriculture) and the 3R e-waste method are taught from Grade 6.
+
+Sri Lanka's own way (Grade 6 Workbook): a companion workbook whose numbered activities (1.1–6.2) are referenced activity-by-activity from the Reading Book; fill-in, labelling and categorising exercises rather than separate theory.
+
+Sri Lanka's own way (Grade 7 Reading Book): the CPU is taught through a hotel-kitchen/chef analogy; programme development (decomposition, flowcharts, variables, bugs) precedes presentation software; HTML page-building is already in Grade 7.
+
+Searchable tags: what is a file, file icon, file extension, docx, pptx, xlsx, mp3, mp4, course road map, six units, files and folders, grade 9, information technology, ict, ethiopia, djibouti, uganda, yemen, grade 10, morocco, grade 1, bhutan, class iv, sri lanka, grade 6 reading book, sri lanka, grade 6 workbook, sri lanka, grade 7 reading book

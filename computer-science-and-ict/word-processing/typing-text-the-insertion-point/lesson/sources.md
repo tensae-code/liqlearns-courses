@@ -1,6 +1,6 @@
 # Sources — Typing text — the blinking insertion point
 
-countries: Ethiopia, Afghanistan, Uzbekistan, Cuba
+countries: Ethiopia, Afghanistan, Uzbekistan, Cuba, Sri Lanka
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Chala Diriba (Assistant Professor), Workineh Tesema (Assistant Professor). Content editor: Mamo Fideno (MSc). Instructional design: Mehadi Abdo (MA, MPhil, Assistant Professor). Language editor: Lemma Kassaye (PhD). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed (blank on cover); no year printed on the title pages read. 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Afghanistan, Uzbekistan, Cuba
 
 **Book 6:** *Mi Mundo Digital, quinto grado* (student book, Spanish; title as printed: Mi Mundo Digital, quinto grado) — Cuba, Ministerio de Educación / Editorial Pueblo y Educación. 2024. ISBN 978-959-13-4709-1 (print) / 978-959-13-4710-7 (digital). 129 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/cuba-placements.md.
 
+**Book 7:** *Information & Communication Technology — Reading Book, Grade 7* (student book, English) — Sri Lanka, Educational Publications Department; year 2019 (second print, first 2018); ISBN 978-955-25-0114-2. 136 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Click the word processor icon to open it; the blinking cursor (insertion point) sits in the text area below the ribbon | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 3, printed p. 46 |
@@ -24,8 +26,9 @@ countries: Ethiopia, Afghanistan, Uzbekistan, Cuba
 | Урок 3 "Правила ввода текста в Word" (rules for entering text) | Uzbekistan, *Informatika, Grade 6*, printed p. 15 |
 | Unidad 3.4 Ambiente de trabajo del procesador de texto para escribir textos sencillos (teacher guide — evidence) | Cuba, *Orientaciones Metodológicas — Mi Mundo Digital I, Grade 2*, printed p. 21 (teacher guide — evidence) |
 | Capítulo 2.3 Construyo, organizo y completo mis ideas | Cuba, *Mi Mundo Digital, Grade 5*, printed p. 50 |
+| Ch.4 Create a document using the keyboard | Sri Lanka Grade 7 G7 ICT Textbook, printed p. 42 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Afghanistan, Uzbekistan, Cuba).**
+**Acceptance count: taught in 5 countries (Ethiopia, Afghanistan, Uzbekistan, Cuba, Sri Lanka).**
 
 Afghanistan's own way (Grade 10): a Windows XP-era office apprenticeship — one full chapter per application, taught menu by menu (File, Edit, Insert, Format), with the Dari keyboard language added as its own lesson; networks arrive only in the final chapter.
 
@@ -38,4 +41,6 @@ Cuba's own way (Grade 2): Play-based (lúdico) introduction through the graficad
 
 Cuba's own way (Grade 5): Student text mirrors the programme in four chapters; word-processing is taught as a research workflow (synonyms, symbols, searching, copying texts and images from sources), and Scratch is introduced through its paint editor before movement/appearance/control blocks.
 
-Searchable tags: typing text, insertion point, blinking cursor, text area, ribbon, Spacebar, Enter, Tab, Ethiopia Grade 8, afghanistan, saudi arabia, grade 4, uzbekistan, grade 6, cuba, grade 2, cuba, grade 5
+Sri Lanka's own way (Grade 7 Reading Book): the CPU is taught through a hotel-kitchen/chef analogy; programme development (decomposition, flowcharts, variables, bugs) precedes presentation software; HTML page-building is already in Grade 7.
+
+Searchable tags: typing text, insertion point, blinking cursor, text area, ribbon, Spacebar, Enter, Tab, Ethiopia Grade 8, afghanistan, saudi arabia, grade 4, uzbekistan, grade 6, cuba, grade 2, cuba, grade 5, sri lanka, grade 7 reading book

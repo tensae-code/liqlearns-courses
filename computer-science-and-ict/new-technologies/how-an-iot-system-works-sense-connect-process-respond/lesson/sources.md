@@ -8,6 +8,8 @@ countries: Ethiopia, China, Iraq
 
 **Book 3:** *الحاسوب Computer — للصف الخامس الإعدادي (Computer, Fifth Preparatory Grade), Grade 11* (student book, Arabic) — Iraq, Republic of Iraq, Ministry of Education, General Directorate of Curricula. Year 2023 (1445H), second edition. No ISBN printed. 144 PDF pages. Verdict: COMPLETE. Read in full. Printed page numbers equal the PDF page numbers in this series. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/iraq-placements.md.
 
+**Book 4:** *Information and Communication Technology — Teachers' Guide, Grade 9 (Effective from 2018)* (teacher guide, English; parallel Sinhala and Tamil editions spot-checked) — Sri Lanka, National Institute of Education (Department of Information Technology); year 2018 (first print); no ISBN printed (blank on copyright page). 95 PDF pages (English edition; the parallel Sinhala edition has 112 and the Tamil edition 116 PDF pages). Verdict: COMPLETE (English read fully; Sinhala and Tamil are parallel editions of the same guide, spot-checked). Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | The four components in order: sensors/devices (phone sensors — camera, accelerometer; sensor types — temperature, proximity, humidity, smoke, water quality, infrared, motion) | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 2, printed pp. 51–52 |
@@ -15,9 +17,12 @@ countries: Ethiopia, China, Iraq
 | User interface: alerts by email, text or notification; user action (adjusting temperature by app) or automatic action by predefined rules (notifying authorities about an intruder) | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 2, printed pp. 51–52 |
 | Information Acquisition and Control: IoT, Sensors and Control Mechanisms | China, *IT Compulsory 2*, Chapter 3 §3.4, printed p. 104 |
 | Unit 1 Ch.2 Lesson 1 Principles of the Internet of Things | Iraq, *Computer, Grade 11*, printed p. 19 |
+| Competency 4: physical computing — programs for detecting sensor inputs and controlling actuators (microcontroller kit) (teacher guide — evidence) | Sri Lanka Grade 9 G9 ICT Teacher Guide (NIE 2018), printed p. 66 (teacher guide — evidence) |
 
 **Acceptance count: taught in 3 countries (Ethiopia, China, Iraq).**
 
 Iraq's own way (Grade 11): the final preparatory year is the most forward-looking of the series — smart devices and the Internet of Things (with a lesson on choosing a computer or smartphone by its specifications), a full Excel unit ending in AutoSum, one- and two-dimensional arrays with nested loops (the series' first data structures), and electronic services: e-government, email and cloud computing with its applications.
 
-Searchable tags: how IoT works, sensors, connectivity, data processing, user interface, IoT components, Grade 12 ICT Ethiopia, china, iraq, grade 11
+Sri Lanka's own way (Grade 9 Teachers' Guide): a competency-based NIE guide (6 competencies, 30 periods) that unpacks the student book with CPU internal detail (input unit, ALU, memory unit, control unit, output unit), spreadsheet charts and sorting, and a named careers list (Software QA Engineer, Database Administrator, Software Architect, System Analyst, Web Application Developer, Graphic Designer). (teacher guide — evidence)
+
+Searchable tags: how IoT works, sensors, connectivity, data processing, user interface, IoT components, Grade 12 ICT Ethiopia, china, iraq, grade 11, sri lanka, grade 9 teachers guide

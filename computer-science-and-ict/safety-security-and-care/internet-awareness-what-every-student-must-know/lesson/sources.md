@@ -1,6 +1,6 @@
 # Sources — Internet awareness — what every student must know
 
-countries: Ethiopia, Cambodia, Mozambique, Bulgaria, North Macedonia, Iraq, Sudan, Cuba, Fiji, Mongolia
+countries: Ethiopia, Cambodia, Mozambique, Bulgaria, North Macedonia, Iraq, Sudan, Cuba, Fiji, Mongolia, Sri Lanka
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -30,6 +30,10 @@ countries: Ethiopia, Cambodia, Mozambique, Bulgaria, North Macedonia, Iraq, Suda
 
 **Book 14:** *Мэдээллийн технологи VI (Information Technology VI)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture and Science of Mongolia (Боловсрол, соёл, шинжлэх ухааны яам), Ulaanbaatar; year 2015; ISBN 978-99962-74-19-0. 59 PDF pages (printed book 56 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
 
+**Book 15:** *Information & Communication Technology — Reading Book, Grade 6* (student book, English) — Sri Lanka, Educational Publications Department; year 2019 (second print, first 2018); ISBN 978-955-25-0088-6. 108 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
+**Book 16:** *Information & Communication Technology — Reading Book, Grade 7* (student book, English) — Sri Lanka, Educational Publications Department; year 2019 (second print, first 2018); ISBN 978-955-25-0114-2. 136 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The awareness list — the tool, invalid content, predators, footprints, photos, gaming, downloads, adult help | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 5, printed pp. 207–208 |
@@ -46,8 +50,10 @@ countries: Ethiopia, Cambodia, Mozambique, Bulgaria, North Macedonia, Iraq, Suda
 | Capítulo 3.4 Buenas prácticas para el uso seguro de internet | Cuba, *Informática, Grade 9*, printed p. 51 |
 | Unit 5.6 DO's and DON'Ts of Internet use | Fiji, *Computer Education, Years 7–8* (PARTIAL — front matter missing), printed p. 165 |
 | 2.3.3 Culture of working in the Internet environment (netiquette, copyright, strangers, not sharing personal information) | Mongolia Grade 6 IT VI, printed p. 52 |
+| Ch.6 Use the internet safely: e-mail safety and safe online transactions | Sri Lanka Grade 6 G6 ICT Textbook, printed p. 74 |
+| Ch.7 Use the internet safely (hacking protection) and ethically | Sri Lanka Grade 7 G7 ICT Textbook, printed p. 102 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Cambodia, Mozambique, Bulgaria, North Macedonia, Iraq, Sudan, Cuba, Fiji, Mongolia).**
+**Acceptance count: taught in 11 countries (Ethiopia, Cambodia, Mozambique, Bulgaria, North Macedonia, Iraq, Sudan, Cuba, Fiji, Mongolia, Sri Lanka).**
 
 North Macedonia's own way (Year 1): five themes move from modern digital technology and online living into a full structured-programming course taught in C++ (with Scratch/C++/Java/Python/PHP/Lisp compared), then advanced Word work (styles, contents, templates) and spreadsheets up to pivot tables.
 
@@ -69,4 +75,8 @@ Fiji's own way (Years 7–8 Computer Education student book): A practical, exerc
 
 Mongolia's own way (Grade 6): ICT is built on Mongolian examples throughout — information and objects taught through the Mazaalai (Gobi bear), the ger (with a paper origami model), Mongolian pattern (khee) motifs and the national flag; touch typing is taught on the Mongolian Cyrillic keyboard layout with local tutor programs (MonTT, Fast type); web work uses Mongolian sites (surguuli.edu.mn, kids.gogo.mn, tsag-agaar.mn).
 
-Searchable tags: internet awareness, safety, predators, footprints, downloads, Grade 9 ICT Ethiopia Unit 5, cambodia, mozambique, bulgaria, north macedonia, grade 10, mauritania, grade 7, mauritania, grade 8, mauritania, grade 9, iraq, grade 7, sudan, grade 6, grade 7, cuba, grade 9, fiji, years 7-8, mongolia, grade 6 it vi
+Sri Lanka's own way (Grade 6 Reading Book): a story/dialogue-led "Reading Book" with a talking computer character; every chapter cross-refers to numbered Workbook activities; local sectors (school office, ATM, ICU, factories, agriculture) and the 3R e-waste method are taught from Grade 6.
+
+Sri Lanka's own way (Grade 7 Reading Book): the CPU is taught through a hotel-kitchen/chef analogy; programme development (decomposition, flowcharts, variables, bugs) precedes presentation software; HTML page-building is already in Grade 7.
+
+Searchable tags: internet awareness, safety, predators, footprints, downloads, Grade 9 ICT Ethiopia Unit 5, cambodia, mozambique, bulgaria, north macedonia, grade 10, mauritania, grade 7, mauritania, grade 8, mauritania, grade 9, iraq, grade 7, sudan, grade 6, grade 7, cuba, grade 9, fiji, years 7-8, mongolia, grade 6 it vi, sri lanka, grade 6 reading book, sri lanka, grade 7 reading book

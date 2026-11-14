@@ -1,6 +1,6 @@
 # Sources — Loops — and the for loop over a sequence
 
-countries: Ethiopia, North Macedonia, Iraq, Sudan, Uzbekistan, Egypt, Fiji, Libya, Malaysia, Mongolia
+countries: Ethiopia, North Macedonia, Iraq, Sudan, Uzbekistan, Egypt, Fiji, Libya, Malaysia, Mongolia, Sri Lanka
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked), writers Teshome Alemu Wedajo, Wendwesen Endale Workneh, August 2023, GEQIP-E, no ISBN, 210 PDF pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -30,6 +30,8 @@ countries: Ethiopia, North Macedonia, Iraq, Sudan, Uzbekistan, Egypt, Fiji, Liby
 
 **Book 14:** *Мэдээллийн технологи XI (Information Technology XI)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia (Боловсрол, Соёл, Шинжлэх Ухаан, Спортын Яам), Ulaanbaatar; year 2019 (2nd edition); ISBN 978-99978-61-84-9. 151 PDF pages (printed book 148 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page, in place from phase3-staging (the record size_bytes 85,065,156 does not match the file on disk, 76,263,379 bytes — see the placements file's log debt). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
 
+**Book 15:** *தகவல் தொடர்பாடல் தொழில்நுட்பம் (Information and Communication Technology), Grade 11* (student book, Tamil) — Sri Lanka, Educational Publications Department; year 2010 (second print, first 2009); no ISBN printed. 268 PDF pages. Verdict: COMPLETE (image-only scan read via 100-DPI 4-up contact sheets; the TSV release record and the books.json record are the same book, cited once). Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Why loops exist — 50 students, one grading block | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 6, printed pp. 178–179 (student placement item 124) |
@@ -47,8 +49,9 @@ countries: Ethiopia, North Macedonia, Iraq, Sudan, Uzbekistan, Egypt, Fiji, Liby
 | 4.1.3 Atur Cara Struktur Kawalan Ulangan (Scratch 2.0) | Malaysia Grade 7 ASK Tingkatan 1, printed p. 99 |
 | 1.4.3 Struktur Kawalan Ulangan (Java) | Malaysia Grade 10 SK Tingkatan 4, printed p. 91 |
 | 3.5.1 The counting loop (For–To–Step–EndFor) | Mongolia Grade 11 IT XI, printed p. 119 |
+| Ch.1 Looping: For...Next structure and how it runs | Sri Lanka Grade 11 G11 ICT Textbook (Tamil), printed p. 48 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, North Macedonia, Iraq, Sudan, Uzbekistan, Egypt, Fiji, Libya, Malaysia, Mongolia).**
+**Acceptance count: taught in 11 countries (Ethiopia, North Macedonia, Iraq, Sudan, Uzbekistan, Egypt, Fiji, Libya, Malaysia, Mongolia, Sri Lanka).**
 
 No book error touches this lesson. Teacher-guide evidence (item 36, in part) is filed in Sub lesson 1: counting introduced as the real-world looping problem — start at 1, add 1, repeat until 100 (guide printed pp. 134–139). All code shapes in this lesson were checked in Python 3. The teacher guide's answer keys were used as the verified answer source for this lesson's questions (guide item 40).
 
@@ -77,4 +80,6 @@ Malaysia's own way (Grade 10, SK Tingkatan 4): the upper-secondary Sains Kompute
 
 Mongolia's own way (Grade 11): a deep, engineering-style systems book (CPU registers, disk access-time calculations) that turns practical fast — pupils price up a computer from Mongolian web shops (pc-mall.mn, bsb.mn, itzone.mn); the web chapter builds a real "Our School" site and an "Animals of the Mongolian Red Book" page; programming is Microsoft Small Basic, and its loops-and-graphics work draws Mongolian ornament — the alkhan khee meander, the khaan buguivch knot and the ulzii endless knot — with code; the book closes by comparing every Small Basic construct with Python and C side by side.
 
-Searchable tags: loops, for loop, iteration, sequence, temporary variable, Grade 12 ICT Ethiopia, Unit 6 programming, north macedonia, grade 10, mauritania, grade 9, iraq, grade 10, sudan, grade 11, uzbekistan, grade 9, egypt, grade 8, fiji, year 12, year 13, libya, grade 11 it student term 1, malaysia, grade 7 ask tingkatan 1, malaysia, grade 10 sk tingkatan 4, mongolia, grade 11 it xi
+Sri Lanka's own way (Grade 11, Tamil): a full Visual Basic 6.0 programming course inside the O/L book (IDE, controls, data types, Select Case, arrays), an SDLC chapter, Photoshop-based multimedia, hand-coded HTML with Sri Lankan examples (the Sinharaja rainforest page, ucsc.cmb.ac.lk addresses, sltnet.lk domains), and sector chapters (agriculture, industry, government, commerce) before malware and health.
+
+Searchable tags: loops, for loop, iteration, sequence, temporary variable, Grade 12 ICT Ethiopia, Unit 6 programming, north macedonia, grade 10, mauritania, grade 9, iraq, grade 10, sudan, grade 11, uzbekistan, grade 9, egypt, grade 8, fiji, year 12, year 13, libya, grade 11 it student term 1, malaysia, grade 7 ask tingkatan 1, malaysia, grade 10 sk tingkatan 4, mongolia, grade 11 it xi, sri lanka, grade 11 tamil

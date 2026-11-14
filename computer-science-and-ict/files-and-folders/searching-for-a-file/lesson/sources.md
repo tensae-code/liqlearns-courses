@@ -1,6 +1,6 @@
 # Sources — Searching for a file
 
-countries: Ethiopia, Cuba
+countries: Ethiopia, Cuba, Sri Lanka
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pages. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Cuba
 
 **Book 6:** *Mi Mundo Digital, quinto grado* (student book, Spanish; title as printed: Mi Mundo Digital, quinto grado) — Cuba, Ministerio de Educación / Editorial Pueblo y Educación. 2024. ISBN 978-959-13-4709-1 (print) / 978-959-13-4710-7 (digital). 129 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/cuba-placements.md.
 
+**Book 7:** *Information and Communication Technology — Reading Book, Grade 8* (student book, English) — Sri Lanka, Educational Publications Department; year 2019 (second print, first 2018); ISBN 978-955-25-0142-5. 100 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Searching for a file | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, §1.2, printed pp. 23–24 |
@@ -22,8 +24,9 @@ countries: Ethiopia, Cuba
 | Unidad 2.6 Mecanismos de búsqueda, búsqueda automática; guardar/abrir/modificar; archivos y carpetas (teacher programme — evidence) | Cuba, *Programa — Mi Mundo Digital III, Grade 5*, printed p. 13 (teacher programme — evidence) |
 | Unidad 2 Búsqueda de información, búsqueda automática; guardar/abrir/modificar; archivos y carpetas (teacher guide — evidence) | Cuba, *Orientaciones Metodológicas — Mi Mundo Digital III, Grade 5*, printed p. 13 (teacher guide — evidence) |
 | Capítulo 2.4 Buscando información | Cuba, *Mi Mundo Digital, Grade 5*, printed p. 55 |
+| Ch.2 File attributes configuration and searching files | Sri Lanka Grade 8 G8 ICT Textbook, printed p. 14 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Cuba).**
+**Acceptance count: taught in 3 countries (Ethiopia, Cuba, Sri Lanka).**
 
 No book error touches this lesson's content. Question answers were checked against the teacher guide's Unit 1 answer keys (printed pp. 17–19) (teacher guide — evidence).
 
@@ -37,4 +40,6 @@ Cuba's own way (Grade 5): Same Grade 5 content as the Programa, recast as per-un
 
 Cuba's own way (Grade 5): Student text mirrors the programme in four chapters; word-processing is taught as a research workflow (synonyms, symbols, searching, copying texts and images from sources), and Scratch is introduced through its paint editor before movement/appearance/control blocks.
 
-Searchable tags: search for a file, Windows key search, Search field, This PC, part of name, files and folders, grade 9, information technology, ict, ethiopia, saudi arabia, grade 4, morocco, grade 1, cuba, grade 5, cuba, grade 5, cuba, grade 5
+Sri Lanka's own way (Grade 8 Reading Book): number systems and binary conversion open Grade 8; "physical computing" is logic gates taught through water-valve and street-lamp analogies; Scratch selection structures and mobile/smart-device apps sit in the Programming chapter.
+
+Searchable tags: search for a file, Windows key search, Search field, This PC, part of name, files and folders, grade 9, information technology, ict, ethiopia, saudi arabia, grade 4, morocco, grade 1, cuba, grade 5, cuba, grade 5, cuba, grade 5, sri lanka, grade 8 reading book

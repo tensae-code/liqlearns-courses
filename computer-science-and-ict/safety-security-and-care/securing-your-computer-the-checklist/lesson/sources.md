@@ -1,6 +1,6 @@
 # Sources — Securing your computer — the checklist
 
-countries: Ethiopia, Uganda, Iraq, Fiji
+countries: Ethiopia, Uganda, Iraq, Fiji, Sri Lanka
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Uganda, Iraq, Fiji
 
 **Book 10:** *Computer Studies — A textbook for Year 12* (cover title; title page: *Computer Education, Year 12*) (student book, English) — Fiji, Technology and Employment Skills Training (TEST), Ministry of Education, Fiji, Suva; 2015 (copyright 28 November 2014). No ISBN printed. 145 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
 
+**Book 11:** *Information & Communication Technology — Reading Book, Grade 7* (student book, English) — Sri Lanka, Educational Publications Department; year 2019 (second print, first 2018); ISBN 978-955-25-0114-2. 136 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The securing steps — software, firewall, updates, attachments, passwords, caution, scans and backups | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 5, printed pp. 208–209 |
@@ -31,12 +33,13 @@ countries: Ethiopia, Uganda, Iraq, Fiji
 | Unidad 2 Conservación en almacenamiento externo y protección de la información digital (teacher guide — evidence) | Cuba, *Orientaciones Metodológicas — Mi Mundo Digital III, Grade 5*, printed p. 14 (teacher guide — evidence) |
 | Unit 9.2 Adopt security measures when using the computer | Fiji, *Computer Education, Years 7–8* (PARTIAL — front matter missing), printed p. 222 |
 | 3.5 Measures to Protect Computer Security | Fiji, *Computer Studies, Year 12*, printed p. 38 |
+| Ch.3 Protect computer software components | Sri Lanka Grade 7 G7 ICT Textbook, printed p. 27 |
 
 | The two families; the technical table of seven measures (Grade 10 growth) | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 5, printed pp. 188–189 |
 | Copy protection's components; seven ways to protect programs and data; non-technical prevention keyed (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 10*, Unit 5 (Activity 5.7 key), printed pp. 96–97 |
 | Unit 4 Ch.2 Lesson 2 Protection measures against cyber attacks | Iraq, *Computer, Grade 10*, printed p. 134 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Uganda, Iraq, Fiji).**
+**Acceptance count: taught in 5 countries (Ethiopia, Uganda, Iraq, Fiji, Sri Lanka).**
 
 Book error, taught corrected: the student book numbers two different activities 5.4 in this unit; both are taught in this build, in the book's order, and the duplicate number is flagged here rather than silently renumbered. The teacher guide prints "treats" for threats throughout its Unit 5; the build teaches 'threats'.
 
@@ -52,4 +55,6 @@ Fiji's own way (Years 7–8 Computer Education student book): A practical, exerc
 
 Fiji's own way (Year 12 Computer Studies student book): Written locally by the same TEST/USP panel for the trialled Year 12 syllabus; the Internet chapter is grounded in Fiji (fiji.gov.fj URL anatomy with the .fj country code, and Fiji ISPs Connect Fiji, Unwired Fiji, Vodafone, Digicel and Kidanet by Fintel), programming is a full Visual Basic course with hands-on examples, and data management is taught as a move to cloud storage (Google Drive, Dropbox, SpiderOak).
 
-Searchable tags: securing, antivirus, firewall, updates, backup, passwords 15 characters, think before you click, Grade 9 ICT Ethiopia Unit 5, uganda, iraq, grade 10, cuba, grade 5, cuba, grade 5, fiji, years 7-8, year 12
+Sri Lanka's own way (Grade 7 Reading Book): the CPU is taught through a hotel-kitchen/chef analogy; programme development (decomposition, flowcharts, variables, bugs) precedes presentation software; HTML page-building is already in Grade 7.
+
+Searchable tags: securing, antivirus, firewall, updates, backup, passwords 15 characters, think before you click, Grade 9 ICT Ethiopia Unit 5, uganda, iraq, grade 10, cuba, grade 5, cuba, grade 5, fiji, years 7-8, year 12, sri lanka, grade 7 reading book

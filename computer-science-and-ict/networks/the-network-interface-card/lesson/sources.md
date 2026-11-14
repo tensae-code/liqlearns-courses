@@ -1,21 +1,31 @@
 # Sources — The network interface card
 
-countries: Ethiopia, Mongolia
+countries: Ethiopia, Mongolia, Sri Lanka
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
 **Book 2:** *Мэдээллийн технологи XII (Information Technology XII)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar; year 2019 (2nd edition; bibliographic entry УБ.2018); ISBN 978-99978-61-88-7. Authors: Д.Цэдэвсүрэн, С.Уянга, Л.Мөнхтуяа, Э.Оюунбилэг, Б.Золзаяа. No PDF of this book is held — the books.json record is not on disk and not pushed, and every securing route failed; read in full instead from a public FlipHTML5 copy of the same edition (fliphtml5.com/nhpep/qwmp), whose text layer covers every page (148 printed pages); cover and title/imprint pages verified from the flipbook's first pages against the record title. Verdict: COMPLETE (read in full via the flipbook copy; no library PDF held — a library debt, carried exactly as filed in the placements file, not a merge problem). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
+
+**Book 3:** *Information & Communication Technology — Reading Book, Grade 6* (student book, English) — Sri Lanka, Educational Publications Department; year 2019 (second print, first 2018); ISBN 978-955-25-0088-6. 108 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
+**Book 4:** *Information and Communication Technology — Teachers' Guide, Grade 9 (Effective from 2018)* (teacher guide, English; parallel Sinhala and Tamil editions spot-checked) — Sri Lanka, National Institute of Education (Department of Information Technology); year 2018 (first print); no ISBN printed (blank on copyright page). 95 PDF pages (English edition; the parallel Sinhala edition has 112 and the Tamil edition 116 PDF pages). Verdict: COMPLETE (English read fully; Sinhala and Tamil are parallel editions of the same guide, spot-checked). Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md. (teacher guide — evidence)
 
 | Lesson part | Where it comes from |
 |---|---|
 | The card that connects a computer to a network | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 2, printed pp. 39–40 |
 | The socket | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 2, printed pp. 39–40 |
 | 2.2.1 Computer network hardware I: connecting devices (network types PAN, LAN, CAN, MAN, WAN and topologies; the network card and MAC addresses; hub, switch, router, firewall) | Mongolia Grade 12 IT XII, printed p. 57 |
+| Ch.1 Components: communication devices NIC, modem, router | Sri Lanka Grade 6 G6 ICT Textbook, printed p. 7 |
+| Competency 5.1: main components of the school lab network (computers, NIC, switches) (teacher guide — evidence) | Sri Lanka Grade 9 G9 ICT Teacher Guide (NIE 2018), printed p. 72 (teacher guide — evidence) |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Mongolia).**
+**Acceptance count: taught in 3 countries (Ethiopia, Mongolia, Sri Lanka).**
 
 The Grade 9 teacher guide's closing answer keys (guide placement item 27; Unit 2 keys at guide printed pp. 36–37) were used as the verified-answer check for this lesson's question files.
 
 Mongolia's own way (Grade 12): the final book measures everything against Mongolia itself — the ITU index and Mongolia's slipping rank in it, 36,760 km of fibre to 299 soums, the Mongolsat-1 satellite, IoT chips on livestock, telemedicine at the State Central Hospital, the ХУР state data-exchange and ТҮЦ service machines, nano-products from horse bone and ger covers — and its chapter projects are real Mongolian systems: a school ICT-development survey, a study of the ebarimt VAT-receipt system, and a Small Basic "Bouncing Ball" game; programming examples draw the alkhan khee meander with a Turtle subprogram.
 
-Searchable tags: NIC, network interface card, hardware, cable socket, Grade 9 ICT Ethiopia, mongolia, grade 12 it xii
+Sri Lanka's own way (Grade 6 Reading Book): a story/dialogue-led "Reading Book" with a talking computer character; every chapter cross-refers to numbered Workbook activities; local sectors (school office, ATM, ICU, factories, agriculture) and the 3R e-waste method are taught from Grade 6.
+
+Sri Lanka's own way (Grade 9 Teachers' Guide): a competency-based NIE guide (6 competencies, 30 periods) that unpacks the student book with CPU internal detail (input unit, ALU, memory unit, control unit, output unit), spreadsheet charts and sorting, and a named careers list (Software QA Engineer, Database Administrator, Software Architect, System Analyst, Web Application Developer, Graphic Designer). (teacher guide — evidence)
+
+Searchable tags: NIC, network interface card, hardware, cable socket, Grade 9 ICT Ethiopia, mongolia, grade 12 it xii, sri lanka, grade 6 reading book, sri lanka, grade 9 teachers guide

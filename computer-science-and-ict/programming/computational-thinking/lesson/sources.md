@@ -1,6 +1,6 @@
 # Sources — Computational thinking
 
-countries: Ethiopia, Djibouti, North Macedonia, Cuba, Egypt, Malaysia
+countries: Ethiopia, Djibouti, North Macedonia, Cuba, Egypt, Malaysia, Sri Lanka
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -24,6 +24,16 @@ countries: Ethiopia, Djibouti, North Macedonia, Cuba, Egypt, Malaysia
 
 **Book 11:** *Asas Sains Komputer Tingkatan 3* (student book, Bahasa Melayu) — Malaysia, Pan Asia Publications Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2018; ISBN 978-967-466-319-3. 244 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/malaysia-placements.md.
 
+**Book 12:** *Information & Communication Technology — Reading Book, Grade 7* (student book, English) — Sri Lanka, Educational Publications Department; year 2019 (second print, first 2018); ISBN 978-955-25-0114-2. 136 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
+**Book 13:** *Information and Communication Technology — Workbook, Grade 7* (student book, English) — Sri Lanka, Educational Publications Department; year 2019; ISBN 978-955-25-0116-6. 72 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
+**Book 14:** *Information and Communication Technology — Reading Book, Grade 8* (student book, English) — Sri Lanka, Educational Publications Department; year 2019 (second print, first 2018); ISBN 978-955-25-0142-5. 100 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
+**Book 15:** *Information and Communication Technology — Reading Book, Grade 9* (student book, English) — Sri Lanka, Educational Publications Department; year 2019 (second print, first 2018); ISBN 978-955-25-0172-2. 111 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
+**Book 16:** *Information and Communication Technology — Teachers' Guide, Grade 9 (Effective from 2018)* (teacher guide, English; parallel Sinhala and Tamil editions spot-checked) — Sri Lanka, National Institute of Education (Department of Information Technology); year 2018 (first print); no ISBN printed (blank on copyright page). 95 PDF pages (English edition; the parallel Sinhala edition has 112 and the Tamil edition 116 PDF pages). Verdict: COMPLETE (English read fully; Sinhala and Tamil are parallel editions of the same guide, spot-checked). Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Computational thinking defined; 21st-century skills set as research; Polya introduced | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed p. 219 |
@@ -37,8 +47,13 @@ countries: Ethiopia, Djibouti, North Macedonia, Cuba, Egypt, Malaysia
 | Unit 1 Lesson 1 Computational Thinking and Problem Solving (decomposition, pattern recognition, abstraction, algorithm) | Egypt, *Computer and ICT, Grade 9 Term 1 (Arabic)*, printed p. 5 |
 | Bab 1 Konsep Asas Pemikiran Komputasional, 1.1.1 Teknik dalam Pemikiran Komputasional | Malaysia Grade 7 ASK Tingkatan 1, printed p. 2 |
 | Bab 1 Konsep Asas Pemikiran Komputasional, 1.1.1 Menggunakan Konsep Pemikiran Komputasional dalam Pembangunan Atur Cara | Malaysia Grade 9 ASK Tingkatan 3, printed p. 2 |
+| Ch.5 Programme development: decomposing problems | Sri Lanka Grade 7 G7 ICT Textbook, printed p. 46 |
+| Workbook Ch.5 Program Development exercises | Sri Lanka Grade 7 G7 ICT Workbook, printed p. 28 |
+| Ch.4 Programming: problem analysis | Sri Lanka Grade 8 G8 ICT Textbook, printed p. 39 |
+| Ch.3 Programming with problem analysis | Sri Lanka Grade 9 G9 ICT Textbook, printed p. 44 |
+| Competency 3.5: evaluates the solution; proper decomposition of the problem (teacher guide — evidence) | Sri Lanka Grade 9 G9 ICT Teacher Guide (NIE 2018), printed p. 62 (teacher guide — evidence) |
 
-**Acceptance count: taught in 5 countries (Ethiopia, North Macedonia, Cuba, Egypt, Malaysia).**
+**Acceptance count: taught in 6 countries (Ethiopia, North Macedonia, Cuba, Egypt, Malaysia, Sri Lanka).**
 
 Teacher-guide answers for this lesson's review items were checked against the guide's closing answer keys (teacher guide — evidence; student book Unit review answers keyed in the guide, Unit 5 printed p. 82 and Unit 6 printed pp. 112–113).
 
@@ -58,4 +73,14 @@ Malaysia's own way (Grade 7, ASK Tingkatan 1): the KSSM Asas Sains Komputer (ASK
 
 Malaysia's own way (Grade 9, ASK Tingkatan 3): Tingkatan 3 is unusually advanced for Grade 9 — a full cryptography unit (ciphers taught, compared and chosen), search and sort algorithms in pseudocode/flowchart, and a full databases-and-SQL unit built in Microsoft Access (entities, keys, cardinality, forms, SQL with Boolean expressions, reports) before returning to Python functions and procedures.
 
-Searchable tags: computational thinking, 21st century skills, 4Cs, IMT, FLIPS, Grade 9 ICT Ethiopia Unit 6, djibouti, north macedonia, grade 10, saudi arabia, grade 4, papua new guinea, grade 10, papua new guinea, grade 11, cuba, grade 11, egypt, grade 9, malaysia, grade 7 ask tingkatan 1, malaysia, grade 9 ask tingkatan 3
+Sri Lanka's own way (Grade 7 Reading Book): the CPU is taught through a hotel-kitchen/chef analogy; programme development (decomposition, flowcharts, variables, bugs) precedes presentation software; HTML page-building is already in Grade 7.
+
+Sri Lanka's own way (Grade 7 Workbook): a companion workbook mirroring the Reading Book chapter-for-chapter (CPU, OS, security, word processing, program development, presentations, internet).
+
+Sri Lanka's own way (Grade 8 Reading Book): number systems and binary conversion open Grade 8; "physical computing" is logic gates taught through water-valve and street-lamp analogies; Scratch selection structures and mobile/smart-device apps sit in the Programming chapter.
+
+Sri Lanka's own way (Grade 9 Reading Book): it opens with preparing a computer specification for a real buyer (user needs, peripherals, processor/HDD/monitor/VGA specs, after-sales service); microcontrollers are taught with BBC micro:bit and Arduino and local sensor examples (solar lamp, washing machine, microwave).
+
+Sri Lanka's own way (Grade 9 Teachers' Guide): a competency-based NIE guide (6 competencies, 30 periods) that unpacks the student book with CPU internal detail (input unit, ALU, memory unit, control unit, output unit), spreadsheet charts and sorting, and a named careers list (Software QA Engineer, Database Administrator, Software Architect, System Analyst, Web Application Developer, Graphic Designer). (teacher guide — evidence)
+
+Searchable tags: computational thinking, 21st century skills, 4Cs, IMT, FLIPS, Grade 9 ICT Ethiopia Unit 6, djibouti, north macedonia, grade 10, saudi arabia, grade 4, papua new guinea, grade 10, papua new guinea, grade 11, cuba, grade 11, egypt, grade 9, malaysia, grade 7 ask tingkatan 1, malaysia, grade 9 ask tingkatan 3, sri lanka, grade 7 reading book, sri lanka, grade 7 workbook, sri lanka, grade 8 reading book, sri lanka, grade 9 reading book, sri lanka, grade 9 teachers guide

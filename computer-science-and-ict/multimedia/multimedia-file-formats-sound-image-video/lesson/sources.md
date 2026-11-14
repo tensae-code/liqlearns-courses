@@ -1,6 +1,6 @@
 # Sources — Multimedia file formats — sound, image, video
 
-countries: Ethiopia, Nepal, Egypt, Libya, Mongolia
+countries: Ethiopia, Nepal, Egypt, Libya, Mongolia, Sri Lanka
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 234 PDF pages; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Nepal, Egypt, Libya, Mongolia
 
 **Book 6:** *Мэдээллийн технологи VIII (Information Technology VIII)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar; year 2019 (3rd edition; bibliographic entry УБ.2015); ISBN 978-99962-74-29-9. 75 PDF pages (printed book 72 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
 
+**Book 7:** *தகவல் தொடர்பாடல் தொழில்நுட்பம் (Information and Communication Technology), Grade 11* (student book, Tamil) — Sri Lanka, Educational Publications Department; year 2010 (second print, first 2009); no ISBN printed. 268 PDF pages. Verdict: COMPLETE (image-only scan read via 100-DPI 4-up contact sheets; the TSV release record and the books.json record are the same book, cited once). Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | What a file format is; The three shelves | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 4, printed pp. 148–149 |
@@ -22,8 +24,9 @@ countries: Ethiopia, Nepal, Egypt, Libya, Mongolia
 | 6-7 Digitalization of Sound | Egypt, *Programming and Artificial Intelligence, Grade 10 Term 1*, printed p. 69 |
 | Ch 4, types of multimedia file | Libya Grade 12 IT Humanities, printed p. 50 |
 | 2.2.3 The types of image (image file formats PSD, PDN, BMP, PDF, GIF, JPEG, PNG, TIFF, EPS and what each is for; raster and vector extensions) | Mongolia Grade 8 IT VIII, printed p. 43 |
+| Ch.4 Image file formats BMP, TIFF, TGA, JPG compression and GIF; colour depth and image file size | Sri Lanka Grade 11 G11 ICT Textbook (Tamil), printed p. 140 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Nepal, Egypt, Libya, Mongolia).**
+**Acceptance count: taught in 6 countries (Ethiopia, Nepal, Egypt, Libya, Mongolia, Sri Lanka).**
 
 Nothing in this lesson claims a page the placements do not give; the lesson's content is the placements' content, re-expressed for the learner, with the book's own step orders, examples and practicals kept exactly as printed.
 
@@ -35,4 +38,6 @@ Libya's own way (Grade 12 Humanities, Information Technology student book): the 
 
 Mongolia's own way (Grade 8): Grade 8 is built around two long projects — a folded leaflet on Ulaanbaatar's air pollution (Word templates, styles, WordArt, charts and SmartArt) that then becomes a PowerPoint presentation with its own master slide and hyperlink buttons, and a Paint.NET collage of the five-snout livestock (таван хошуу мал) in a steppe landscape. Models are taught on Mongolian material (the livestock, Rutherford's atom, a virus-growth formula); spreadsheets open with the chessboard-and-wheat legend and count Mongolia's real 2014 livestock by aimag; social networks are taught on Facebook and Twitter ("жиргээ") with Mongolian examples.
 
-Searchable tags: file formats, WAV, MIDI, WMA, TIFF, JPEG, GIF, PNG, BMP, AVI, MPEG, Ethiopia Grade 10, nepal, saudi arabia, grade 8, egypt, grade 10, libya, grade 12 it humanities, mongolia, grade 8 it viii
+Sri Lanka's own way (Grade 11, Tamil): a full Visual Basic 6.0 programming course inside the O/L book (IDE, controls, data types, Select Case, arrays), an SDLC chapter, Photoshop-based multimedia, hand-coded HTML with Sri Lankan examples (the Sinharaja rainforest page, ucsc.cmb.ac.lk addresses, sltnet.lk domains), and sector chapters (agriculture, industry, government, commerce) before malware and health.
+
+Searchable tags: file formats, WAV, MIDI, WMA, TIFF, JPEG, GIF, PNG, BMP, AVI, MPEG, Ethiopia Grade 10, nepal, saudi arabia, grade 8, egypt, grade 10, libya, grade 12 it humanities, mongolia, grade 8 it viii, sri lanka, grade 11 tamil

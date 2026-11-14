@@ -1,6 +1,6 @@
 # Sources — Flowchart or pseudocode — two notations for one algorithm
 
-countries: Ethiopia, North Macedonia, Iraq, Uzbekistan, Cuba, Malaysia
+countries: Ethiopia, North Macedonia, Iraq, Uzbekistan, Cuba, Malaysia, Sri Lanka
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -20,11 +20,14 @@ countries: Ethiopia, North Macedonia, Iraq, Uzbekistan, Cuba, Malaysia
 
 **Book 9:** *Asas Sains Komputer Tingkatan 1* (student book, Bahasa Melayu) — Malaysia, Percetakan Rina Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2016; ISBN 978-967-14509-0-1. 164 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/malaysia-placements.md.
 
+**Book 10:** *தகவல் தொடர்பாடல் தொழில்நுட்பம் (Information and Communication Technology), Grade 11* (student book, Tamil) — Sri Lanka, Educational Publications Department; year 2010 (second print, first 2009); no ISBN printed. 268 PDF pages. Verdict: COMPLETE (image-only scan read via 100-DPI 4-up contact sheets; the TSV release record and the books.json record are the same book, cited once). Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Flowcharts and pseudocode defined and compared; conversion both ways | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed p. 223 |
 | Capítulo 1.2 Formas de expresión de algoritmos | Cuba, *Informática, Grade 9*, printed p. 3 |
 | Capítulo 2.7.2 Expresión de algoritmos mediante pseudocódigo | Cuba, *Informática, Grade 9*, printed p. 24 |
+| Ch.1 Pseudocode | Sri Lanka Grade 11 G11 ICT Textbook (Tamil), printed p. 11 |
 
 | Pseudocode — the algorithm in structured English; the sum-of-two worked example; the circle exercise (Grade 10 growth) | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 6, printed pp. 216–217 |
 | Pseudocode's benefits; the worked circle (p = 2πr, A = πr²); sum of the first 10; pseudocode vs flowchart keyed (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 10*, Unit 6 (Activity 6.4 key), printed pp. 110–113 |
@@ -34,7 +37,7 @@ countries: Ethiopia, North Macedonia, Iraq, Uzbekistan, Cuba, Malaysia
 | Урок 33 "Способы представления алгоритмов" (ways of representing algorithms) | Uzbekistan, *Basics of Informatics, Grade 9*, printed p. 70 |
 | Bab 3 Algoritma, 3.1.1 Pseudokod dan Carta Alir Struktur Kawalan Pilihan | Malaysia Grade 7 ASK Tingkatan 1, printed p. 73 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, North Macedonia, Iraq, Uzbekistan, Cuba, Malaysia).**
+**Acceptance count: taught in 7 countries (Ethiopia, North Macedonia, Iraq, Uzbekistan, Cuba, Malaysia, Sri Lanka).**
 
 North Macedonia's own way (Year 1): five themes move from modern digital technology and online living into a full structured-programming course taught in C++ (with Scratch/C++/Java/Python/PHP/Lisp compared), then advanced Word work (styles, contents, templates) and spreadsheets up to pivot tables.
 
@@ -49,4 +52,6 @@ Cuba's own way (Grade 9): Grade 9 is the formal programming-foundations year —
 
 Malaysia's own way (Grade 7, ASK Tingkatan 1): the KSSM Asas Sains Komputer (ASK — Foundations of Computer Science) course is built on the four computational-thinking techniques (decomposition, pattern recognition, abstraction, generalisation) introduced through a local food example (making popia basah); programming is done in Scratch 2.0, then learners build a real interactive website in HTML in the same year; every chapter ends with a mind map, self-check list and self-practice.
 
-Searchable tags: flowchart, pseudocode, notation, algorithm, Grade 9 ICT Ethiopia Unit 6, north macedonia, grade 10, iraq, grade 7, papua new guinea, grade 11, uzbekistan, grade 9, cuba, grade 9, malaysia, grade 7 ask tingkatan 1
+Sri Lanka's own way (Grade 11, Tamil): a full Visual Basic 6.0 programming course inside the O/L book (IDE, controls, data types, Select Case, arrays), an SDLC chapter, Photoshop-based multimedia, hand-coded HTML with Sri Lankan examples (the Sinharaja rainforest page, ucsc.cmb.ac.lk addresses, sltnet.lk domains), and sector chapters (agriculture, industry, government, commerce) before malware and health.
+
+Searchable tags: flowchart, pseudocode, notation, algorithm, Grade 9 ICT Ethiopia Unit 6, north macedonia, grade 10, iraq, grade 7, papua new guinea, grade 11, uzbekistan, grade 9, cuba, grade 9, malaysia, grade 7 ask tingkatan 1, sri lanka, grade 11 tamil

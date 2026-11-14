@@ -1,6 +1,6 @@
 # Sources — System software and the operating system
 
-countries: Ethiopia, Djibouti, Tanzania, Eritrea, Cambodia, Afghanistan, Yemen, North Macedonia, Saudi Arabia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Libya, Mongolia
+countries: Ethiopia, Djibouti, Tanzania, Eritrea, Cambodia, Afghanistan, Yemen, North Macedonia, Saudi Arabia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -57,6 +57,14 @@ countries: Ethiopia, Djibouti, Tanzania, Eritrea, Cambodia, Afghanistan, Yemen, 
 **Book 27:** *Мэдээллийн технологи VI (Information Technology VI)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture and Science of Mongolia (Боловсрол, соёл, шинжлэх ухааны яам), Ulaanbaatar; year 2015; ISBN 978-99962-74-19-0. 59 PDF pages (printed book 56 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
 **Book 28:** *Мэдээллийн технологи XI (Information Technology XI)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia (Боловсрол, Соёл, Шинжлэх Ухаан, Спортын Яам), Ulaanbaatar; year 2019 (2nd edition); ISBN 978-99978-61-84-9. 151 PDF pages (printed book 148 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page, in place from phase3-staging (the record size_bytes 85,065,156 does not match the file on disk, 76,263,379 bytes — see the placements file's log debt). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
 
+**Book 29:** *Information & Communication Technology — Reading Book, Grade 6* (student book, English) — Sri Lanka, Educational Publications Department; year 2019 (second print, first 2018); ISBN 978-955-25-0088-6. 108 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
+**Book 30:** *Information & Communication Technology — Reading Book, Grade 7* (student book, English) — Sri Lanka, Educational Publications Department; year 2019 (second print, first 2018); ISBN 978-955-25-0114-2. 136 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
+**Book 31:** *Information and Communication Technology — Workbook, Grade 7* (student book, English) — Sri Lanka, Educational Publications Department; year 2019; ISBN 978-955-25-0116-6. 72 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
+**Book 32:** *தொழில்நுட்பவியலிற்கான விஞ்ஞானம் — தகவல் மற்றும் தொடர்பாடல் தொழில்நுட்பவியல் (Science for Technology — Information and Communication Technology), G.C.E. Advanced Level technology stream, Grade 12* (student book, Tamil) — Sri Lanka, Educational Publications Department; year 2015 (first print; print code 2014/T); no ISBN printed (EPD sales stock barcode only). 252 PDF pages. Verdict: COMPLETE (image-only Noolaham scan read via 100-DPI 4-up contact sheets; printed pages run to 242). Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | System software — controls, integrates, manages; not the user's tasks | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 3, printed pp.31–32 |
@@ -90,8 +98,14 @@ countries: Ethiopia, Djibouti, Tanzania, Eritrea, Cambodia, Afghanistan, Yemen, 
 | Unit 1 Ch 1.3, operating systems and the functions of an operating system | Libya Grade 8 Computer, printed p. 36 |
 | 1.2.3 The operating system working environment (desktop, Start menu, shutting down) | Mongolia Grade 6 IT VI, printed p. 18 |
 | 1.2.1 The operating system program (kernel and shell, command-line and graphical interfaces, DOS, Windows, Mac OS, UNIX, Linux) | Mongolia Grade 11 IT XI, printed p. 44 |
+| Ch.3 Operating system and its functions | Sri Lanka Grade 6 G6 ICT Textbook, printed p. 27 |
+| Ch.2 Operating system | Sri Lanka Grade 7 G7 ICT Textbook, printed p. 8 |
+| Workbook Ch.2 Operating System exercises | Sri Lanka Grade 7 G7 ICT Workbook, printed p. 4 |
+| Ch.2 Computer Operating Systems: booting, POST, CMOS; Windows 7 and Ubuntu desktops (filed as software/what-an-operating-system-does; stocked into this lesson as the closest existing lesson covering this thing) | Sri Lanka Grade 12 G12 Science for Technology ICT (Tamil), printed p. 30 |
+| Ch.2 Virtual memory and ReadyBoost (OS functions) (filed as software/what-virtual-memory-is; stocked into this lesson as the closest existing lesson covering this thing) | Sri Lanka Grade 12 G12 Science for Technology ICT (Tamil), printed p. 36 |
+| Ch.2 Classifying operating systems: single-tasking (MS-DOS), multitasking, timesharing, real-time, batch; popular OS — Windows, Mac OS X, Linux (filed as software/kinds-of-operating-system-real-time-multi-user-embedded; stocked into this lesson as the closest existing lesson covering this thing) | Sri Lanka Grade 12 G12 Science for Technology ICT (Tamil), printed p. 44 |
 
-**Acceptance count: taught in 17 countries (Ethiopia, Tanzania, Eritrea, Cambodia, Afghanistan, Yemen, North Macedonia, Saudi Arabia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Libya, Mongolia).**
+**Acceptance count: taught in 18 countries (Ethiopia, Tanzania, Eritrea, Cambodia, Afghanistan, Yemen, North Macedonia, Saudi Arabia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -138,4 +152,12 @@ Mongolia's own way (Grade 6): ICT is built on Mongolian examples throughout — 
 
 Mongolia's own way (Grade 11): a deep, engineering-style systems book (CPU registers, disk access-time calculations) that turns practical fast — pupils price up a computer from Mongolian web shops (pc-mall.mn, bsb.mn, itzone.mn); the web chapter builds a real "Our School" site and an "Animals of the Mongolian Red Book" page; programming is Microsoft Small Basic, and its loops-and-graphics work draws Mongolian ornament — the alkhan khee meander, the khaan buguivch knot and the ulzii endless knot — with code; the book closes by comparing every Small Basic construct with Python and C side by side.
 
-Searchable tags: system software, operating system, Windows, managing hardware, file management, memory management, process management, peripheral devices, Mac OS, Ubuntu, Unix, Linux, Grade 7 ICT Ethiopia, Grade 8 ICT Ethiopia, djibouti, tanzania, eritrea, cambodia, afghanistan, yemen, grade 10, north macedonia, grade 10, mauritania, grade 7, saudi arabia, grade 3, iraq, grade 7, papua new guinea, grade 9, sudan, grade 6, uzbekistan, grade 5, grade 8, cuba, grade 7, egypt, grade 7, fiji, year 11, bhutan, class iv, class vii, libya, grade 8 computer, mongolia, grade 6 it vi, grade 11 it xi
+Sri Lanka's own way (Grade 6 Reading Book): a story/dialogue-led "Reading Book" with a talking computer character; every chapter cross-refers to numbered Workbook activities; local sectors (school office, ATM, ICU, factories, agriculture) and the 3R e-waste method are taught from Grade 6.
+
+Sri Lanka's own way (Grade 7 Reading Book): the CPU is taught through a hotel-kitchen/chef analogy; programme development (decomposition, flowcharts, variables, bugs) precedes presentation software; HTML page-building is already in Grade 7.
+
+Sri Lanka's own way (Grade 7 Workbook): a companion workbook mirroring the Reading Book chapter-for-chapter (CPU, OS, security, word processing, program development, presentations, internet).
+
+Sri Lanka's own way (Grade 12 Science for Technology, Tamil): the A/L technology-stream ICT volume teaches every office skill twice — once in Microsoft Office 2010 and once in LibreOffice (Writer/Calc/Impress 4.1) — and closes with creating a real Gmail account, mailbox folders, attachments and password safety; hardware goes down to cache levels L1/L2/L3, ROM types and file systems (FAT/NTFS/ext4).
+
+Searchable tags: system software, operating system, Windows, managing hardware, file management, memory management, process management, peripheral devices, Mac OS, Ubuntu, Unix, Linux, Grade 7 ICT Ethiopia, Grade 8 ICT Ethiopia, djibouti, tanzania, eritrea, cambodia, afghanistan, yemen, grade 10, north macedonia, grade 10, mauritania, grade 7, saudi arabia, grade 3, iraq, grade 7, papua new guinea, grade 9, sudan, grade 6, uzbekistan, grade 5, grade 8, cuba, grade 7, egypt, grade 7, fiji, year 11, bhutan, class iv, class vii, libya, grade 8 computer, mongolia, grade 6 it vi, grade 11 it xi, sri lanka, grade 6 reading book, sri lanka, grade 7 reading book, sri lanka, grade 7 workbook, sri lanka, grade 12 science for technology tamil

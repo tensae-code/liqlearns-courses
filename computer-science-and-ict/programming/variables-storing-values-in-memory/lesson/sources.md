@@ -1,6 +1,6 @@
 # Sources - Variables - storing values in memory
 
-countries: Ethiopia, Bulgaria, China, North Macedonia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Libya, Malaysia
+countries: Ethiopia, Bulgaria, China, North Macedonia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Libya, Malaysia, Sri Lanka
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23.* (student textbook) - 170 PDF pages. Printed page = PDF page - 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -42,6 +42,10 @@ countries: Ethiopia, Bulgaria, China, North Macedonia, Iraq, Sudan, Uzbekistan, 
 
 **Book 20:** *Asas Sains Komputer Tingkatan 1* (student book, Bahasa Melayu) — Malaysia, Percetakan Rina Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2016; ISBN 978-967-14509-0-1. 164 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/malaysia-placements.md.
 
+**Book 21:** *Information & Communication Technology — Reading Book, Grade 7* (student book, English) — Sri Lanka, Educational Publications Department; year 2019 (second print, first 2018); ISBN 978-955-25-0114-2. 136 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
+**Book 22:** *தகவல் தொடர்பாடல் தொழில்நுட்பம் (Information and Communication Technology), Grade 11* (student book, Tamil) — Sri Lanka, Educational Publications Department; year 2010 (second print, first 2009); no ISBN printed. 268 PDF pages. Verdict: COMPLETE (image-only scan read via 100-DPI 4-up contact sheets; the TSV release record and the books.json record are the same book, cited once). Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 - What a variable is (memory location for storing data; user data and intermediate results) | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 6, printed pp. 139-140 |
@@ -70,8 +74,10 @@ countries: Ethiopia, Bulgaria, China, North Macedonia, Iraq, Sudan, Uzbekistan, 
 | Ch 3, assigning data to variables in memory | Libya Grade 11 IT student Term 1, printed p. 33 |
 | Guide Ch 3, programming basics: memory storage, constants, variables and their types, precedence, parentheses, assignment (teacher guide — evidence) | Libya Grade 11 IT teacher guide Term 1, printed p. 17 (teacher guide — evidence) |
 | Bab 4 Kod Arahan, 4.1.1 Pemboleh Ubah dan Operator Matematik dalam Pengaturcaraan (Scratch 2.0) | Malaysia Grade 7 ASK Tingkatan 1, printed p. 94 |
+| Ch.5 Use of a variable | Sri Lanka Grade 7 G7 ICT Textbook, printed p. 58 |
+| Ch.1 Variables in VB programs | Sri Lanka Grade 11 G11 ICT Textbook (Tamil), printed p. 33 |
 
-**Acceptance count: taught in 13 countries (Ethiopia, Bulgaria, China, North Macedonia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Libya, Malaysia).**
+**Acceptance count: taught in 14 countries (Ethiopia, Bulgaria, China, North Macedonia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Libya, Malaysia, Sri Lanka).**
 
 No book error touches this lesson. The teacher guide's worked model solutions for this section (guide item 25) are filed above as verified expected outputs (teacher guide - evidence); they confirm the practice answers but are not counted as pupil-taught content. The teacher guide's answer keys for this unit (teacher guide - evidence) were used as the verified answer source for this lesson's questions, as the guide's course-level placement directs (guide item 26; Unit 6 keys at guide printed pp. 118-121).
 
@@ -108,4 +114,8 @@ Libya's own way (Grade 11 Term 1, Information Technology teacher guide): the gui
 
 Malaysia's own way (Grade 7, ASK Tingkatan 1): the KSSM Asas Sains Komputer (ASK — Foundations of Computer Science) course is built on the four computational-thinking techniques (decomposition, pattern recognition, abstraction, generalisation) introduced through a local food example (making popia basah); programming is done in Scratch 2.0, then learners build a real interactive website in HTML in the same year; every chapter ends with a mind map, self-check list and self-practice.
 
-Searchable tags: variables, assignment operator, memory location, reassignment, Grade 11 ICT Ethiopia, Unit 6 programming, bulgaria, china, north macedonia, grade 10, mauritania, grade 9, saudi arabia, grade 8, iraq, grade 7, morocco, grade 6, sudan, grade 9, grade 11, uzbekistan, grade 9, cuba, grade 9, egypt, grade 7, fiji, year 12, year 13, bhutan, class vii, libya, grade 11 it student term 1, grade 11 it teacher guide term 1, malaysia, grade 7 ask tingkatan 1
+Sri Lanka's own way (Grade 7 Reading Book): the CPU is taught through a hotel-kitchen/chef analogy; programme development (decomposition, flowcharts, variables, bugs) precedes presentation software; HTML page-building is already in Grade 7.
+
+Sri Lanka's own way (Grade 11, Tamil): a full Visual Basic 6.0 programming course inside the O/L book (IDE, controls, data types, Select Case, arrays), an SDLC chapter, Photoshop-based multimedia, hand-coded HTML with Sri Lankan examples (the Sinharaja rainforest page, ucsc.cmb.ac.lk addresses, sltnet.lk domains), and sector chapters (agriculture, industry, government, commerce) before malware and health.
+
+Searchable tags: variables, assignment operator, memory location, reassignment, Grade 11 ICT Ethiopia, Unit 6 programming, bulgaria, china, north macedonia, grade 10, mauritania, grade 9, saudi arabia, grade 8, iraq, grade 7, morocco, grade 6, sudan, grade 9, grade 11, uzbekistan, grade 9, cuba, grade 9, egypt, grade 7, fiji, year 12, year 13, bhutan, class vii, libya, grade 11 it student term 1, grade 11 it teacher guide term 1, malaysia, grade 7 ask tingkatan 1, sri lanka, grade 7 reading book, sri lanka, grade 11 tamil

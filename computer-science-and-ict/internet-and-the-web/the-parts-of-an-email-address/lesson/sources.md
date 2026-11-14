@@ -1,6 +1,6 @@
 # Sources — The parts of an email address
 
-countries: Ethiopia, Afghanistan, Egypt, Bhutan, Libya
+countries: Ethiopia, Afghanistan, Egypt, Bhutan, Libya, Sri Lanka
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, no year printed (no ISBN printed), 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Afghanistan, Egypt, Bhutan, Libya
 
 **Book 7:** *الحاسوب للصف التاسع من مرحلة التعليم الأساسي (Computer, Grade 9, basic education)* (student book, Arabic) — Libya, Libya Ministry of Education, Centre for Educational Curricula and Research (مركز المناهج التعليمية والبحوث التربوية). Year 2019-2020 (1440-1441 AH); no ISBN printed. 137 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/libya-placements.md.
 
+**Book 8:** *தகவல் தொடர்பாடல் தொழில்நுட்பம் (Information and Communication Technology), Grade 11* (student book, Tamil) — Sri Lanka, Educational Publications Department; year 2010 (second print, first 2009); no ISBN printed. 268 PDF pages. Verdict: COMPLETE (image-only scan read via 100-DPI 4-up contact sheets; the TSV release record and the books.json record are the same book, cited once). Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The standard format — username@domainname; the abdisa.aga@gmail.com split | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 4, printed p. 69 |
@@ -26,8 +28,9 @@ countries: Ethiopia, Afghanistan, Egypt, Bhutan, Libya
 | Lesson 5 Email (components of an email) | Egypt, *Computer & ICT, Grade 7 Term 1*, printed p. 42 |
 | 4.3 Email Basics (the email address) | Bhutan, *Literacy with ICT, Class VI*, printed p. 71 |
 | Unit 3 Ch 1, the email address | Libya Grade 9 Computer, printed p. 115 |
+| Ch.3 E-mail: how mail moves (SMTP/POP3 servers), parts of an e-mail address, domain names .com/.edu/.org/.gov/.mil/.int/.net and .lk | Sri Lanka Grade 11 G11 ICT Textbook (Tamil), printed p. 90 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Afghanistan, Egypt, Bhutan, Libya).**
+**Acceptance count: taught in 6 countries (Ethiopia, Afghanistan, Egypt, Bhutan, Libya, Sri Lanka).**
 
 Afghanistan's own way (Grade 12): the final year turns outward — computers in society (e-commerce, communications, even military systems), system software and virus protection, then Excel for the first time and a closing block on the Web, e-mail and browsers (taught through Internet Explorer).
 
@@ -43,4 +46,6 @@ Bhutan's own way (Class VI, Literacy with ICT student book): School computing ru
 
 Libya's own way (Grade 9, Computer student book): the whole year is networks and the internet — a full networks unit (types, cables, topology, components), then Internet Explorer and Google search taught as named skills, then email and a closing tour of social sites (Facebook, YouTube, Twitter, Instagram, Yahoo) with practical activities.
 
-Searchable tags: email address, username, domain name, @ symbol, abdisa.aga@gmail.com, Ethiopia Grade 8 ICT, afghanistan, mauritania, grade 8, mauritania, grade 9, egypt, grade 7, bhutan, class vi, libya, grade 9 computer
+Sri Lanka's own way (Grade 11, Tamil): a full Visual Basic 6.0 programming course inside the O/L book (IDE, controls, data types, Select Case, arrays), an SDLC chapter, Photoshop-based multimedia, hand-coded HTML with Sri Lankan examples (the Sinharaja rainforest page, ucsc.cmb.ac.lk addresses, sltnet.lk domains), and sector chapters (agriculture, industry, government, commerce) before malware and health.
+
+Searchable tags: email address, username, domain name, @ symbol, abdisa.aga@gmail.com, Ethiopia Grade 8 ICT, afghanistan, mauritania, grade 8, mauritania, grade 9, egypt, grade 7, bhutan, class vi, libya, grade 9 computer, sri lanka, grade 11 tamil

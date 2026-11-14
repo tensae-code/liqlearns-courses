@@ -1,6 +1,6 @@
 # Sources — Internet of Things — everyday things that send and receive data
 
-countries: Ethiopia, Nepal, Iraq, Sudan, Egypt
+countries: Ethiopia, Nepal, Iraq, Sudan, Egypt, Sri Lanka
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked for development). Writers: Teshome Alemu Wedajo, Wendwesen Endale Workneh. Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN printed. PDF 210 pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Nepal, Iraq, Sudan, Egypt
 
 **Book 5:** *Computer & Information and Communication Technology — Second Grade Preparatory, First Term 2025/2026* (student book, English; parallel Arabic and French editions) — Egypt, Egypt Ministry of Education and Technical Education, 2025/2026. No ISBN printed. 86 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/egypt-placements.md.
 
+**Book 6:** *Information and Communication Technology — Workbook, Grade 9* (student book, English) — Sri Lanka, Educational Publications Department; year 2019; ISBN 978-955-25-0174-6. 67 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | IoT defined: a network of physical objects or people equipped with software, electronics, networks and sensors to collect and exchange data; connectivity beyond computers and smartphones; remote control; cutting human effort; virtually smart through data, AI and networks | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 2, printed pp. 48–49 |
@@ -20,8 +22,9 @@ countries: Ethiopia, Nepal, Iraq, Sudan, Egypt
 | Unit 1 Ch.2 Lesson 1 Smart devices and the concept of the Internet of Things | Iraq, *Computer, Grade 11*, printed p. 19 |
 | Unit 4 Lesson 4: Internet of Things and its benefits | Sudan, *ICT, Grade 7*, printed p. 78 |
 | Unit 1 Lesson 1 Intelligent Systems and Their Impact on Climate Change (IoT, AI, robotics) | Egypt, *Computer & ICT, Grade 8 Term 1*, printed p. 6 |
+| Workbook Ch.4 Use of Microcontrollers exercises | Sri Lanka Grade 9 G9 ICT Workbook, printed p. 30 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Nepal, Iraq, Sudan, Egypt).**
+**Acceptance count: taught in 6 countries (Ethiopia, Nepal, Iraq, Sudan, Egypt, Sri Lanka).**
 
 Printed p. 48 frames the Internet as “created in the late 1990s and is now more than 30 years old” — the book's own inconsistent framing (a late-1990s creation would not yet be 30 years old at the book's writing, and the framing sits oddly against the internet's longer history). This lesson teaches the IoT topics as the book teaches them and flags the inconsistency here rather than silently rewriting the book, exactly as the placements direct.
 
@@ -31,4 +34,6 @@ Sudan's own way (Grade 7): the middle-stage book spends half its length on one d
 
 Egypt's own way (Grade 8, Term 1 student book): Two units — "Artificial Intelligence and Protecting Our Digital Data" and "Website Design and Creation" — ending with pupils creating their own school website with AI help.
 
-Searchable tags: Internet of Things, IoT, smart things, sensors, connected devices, Grade 12 ICT Ethiopia, nepal, iraq, grade 11, sudan, grade 7, egypt, grade 8
+Sri Lanka's own way (Grade 9 Workbook): a companion workbook mirroring the Reading Book chapter-for-chapter.
+
+Searchable tags: Internet of Things, IoT, smart things, sensors, connected devices, Grade 12 ICT Ethiopia, nepal, iraq, grade 11, sudan, grade 7, egypt, grade 8, sri lanka, grade 9 workbook

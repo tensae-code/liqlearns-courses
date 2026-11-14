@@ -1,6 +1,6 @@
 # Sources - Machine language and assembly language
 
-countries: Ethiopia, Sudan
+countries: Ethiopia, Sudan, Sri Lanka
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23.* (student textbook) - 170 PDF pages. Printed page = PDF page - 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Sudan
 
 **Book 5:** *تكنولوجيا المعلومات والاتصالات — المرحلة المتوسطة، الصف الثالث (Information and Communication Technology, Intermediate Stage, Third Year), Grade 9* (student book, Arabic) — Sudan, Sudan Ministry of Education, National Centre for Curricula and Educational Research, Bakht al-Ruda. First edition (year not legible on the cover page). No ISBN printed. 92 PDF pages. Verdict: COMPLETE — read from an external link and staged under the push-don't-delete rule on 2026-11-14 (byte size 10,225,235 matches the staging record exactly); the PDF's text layer is glyph-garbled, so the book was read visually from 55-DPI contact sheets. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sudan-placements.md.
 
+**Book 6:** *தகவல் தொடர்பாடல் தொழில்நுட்பம் (Information and Communication Technology), Grade 11* (student book, Tamil) — Sri Lanka, Educational Publications Department; year 2010 (second print, first 2009); no ISBN printed. 268 PDF pages. Verdict: COMPLETE (image-only scan read via 100-DPI 4-up contact sheets; the TSV release record and the books.json record are the same book, cited once). Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 - Machine language (program; binary; direct understanding; fast, memory-efficient, very hard to write) | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 6, printed pp. 132-133 |
@@ -19,8 +21,9 @@ countries: Ethiopia, Sudan
 | Unit 2, Topic Machine Learning, Lesson 2: Some types of Machine Language (filed as programming/machine-language; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence, PARTIAL) | Papua New Guinea, *PNG Grade 10 Computer Technology TG*, printed p. 62 (teacher guide — evidence, PARTIAL) |
 | Unit 4 Lesson 3: Low-level languages — assembly language | Sudan, *ICT, Grade 6*, printed p. 34 |
 | Unit 2 Lesson 1: Generations of programming languages | Sudan, *ICT, Grade 9*, printed p. 20 |
+| Ch.1 Evolution of computer languages: machine, assembly, high-level, natural/artificial generations | Sri Lanka Grade 11 G11 ICT Textbook (Tamil), printed p. 1 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Sudan).**
+**Acceptance count: taught in 3 countries (Ethiopia, Sudan, Sri Lanka).**
 
 No book error touches this lesson. The teacher guide's answer keys for this unit (teacher guide - evidence) were used as the verified answer source for this lesson's questions, as the guide's course-level placement directs (guide item 26; Unit 6 keys at guide printed pp. 118-121).
 
@@ -30,4 +33,6 @@ Sudan's own way (Grade 6): the final primary book is built around real Sudanese 
 
 Sudan's own way (Grade 9): the whole Grade 9 book is programming — concepts and Pascal-style examples first, then algorithms and flowcharts, then a full Scratch course ending in a designed project. The Bakht Al-Ruda ICT series runs in the same pattern from Grade 4 to Grade 9.
 
-Searchable tags: machine language, assembly language, binary, mnemonics, assembler, low-level languages, Grade 11 ICT Ethiopia, Unit 6 programming, papua new guinea, grade 10, sudan, grade 6, grade 9
+Sri Lanka's own way (Grade 11, Tamil): a full Visual Basic 6.0 programming course inside the O/L book (IDE, controls, data types, Select Case, arrays), an SDLC chapter, Photoshop-based multimedia, hand-coded HTML with Sri Lankan examples (the Sinharaja rainforest page, ucsc.cmb.ac.lk addresses, sltnet.lk domains), and sector chapters (agriculture, industry, government, commerce) before malware and health.
+
+Searchable tags: machine language, assembly language, binary, mnemonics, assembler, low-level languages, Grade 11 ICT Ethiopia, Unit 6 programming, papua new guinea, grade 10, sudan, grade 6, grade 9, sri lanka, grade 11 tamil

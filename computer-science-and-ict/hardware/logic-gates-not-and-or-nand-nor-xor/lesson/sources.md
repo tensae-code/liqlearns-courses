@@ -1,6 +1,6 @@
 # Sources — Logic Gates — NOT, AND, OR, NAND, NOR, XOR
 
-countries: Montenegro, Egypt, Malaysia
+countries: Montenegro, Egypt, Malaysia, Sri Lanka
 
 **Book 1:** *Digitalna Elektronika — udžbenik za treći razred elektrotehničke škole* (textbook for the third grade of electrotechnical school; programmes: Elektrotehničar elektronike, Elektrotehničar elektronskih komunikacija, Elektrotehničar računarskih sistema i mreža) (student book) — Montenegro, Zavod za udžbenike i nastavna sredstva, Podgorica. Authors: Ranko Vojinović, Vladica Avramović. Year 2026 (approved by the National Education Council, decision 08/2-119/25-13070/3 of 29.12.2025). ISBN 978-86-303-2578-6. 300 PDF pages. Verdict: COMPLETE — with a scope note: this is a vocational digital-electronics book; its computing-foundation content (number systems and codes, Boolean algebra, logic gates, flip-flops, registers, counters, binary arithmetic, A/D conversion) is placed in this course, and the pure-electronics parts (§2.2 MOS/CMOS transistor realisation, §3.2 multivibrators, and the laboratory practicum with bench instruments, printed pp. 57–95 and 220–283) are electronics, not ICT, and are not placed. Read in full (text layer) in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/montenegro-placements.md.
 
@@ -11,6 +11,10 @@ countries: Montenegro, Egypt, Malaysia
 **Book 4:** *Information and Communication Technology — The Programming Projects, Third Secondary, Unit Two 2025-2026* (student book, English; inner title page: "Second Term – Student Book") — Egypt, Egypt Ministry of Education, General Directory for Developing Curriculums / Centre for Curriculum Development, 2025-2026. No ISBN printed. 87 PDF pages. Verdict: PARTIAL — the English file contains only Unit Two (logic-gates simulation project). The Arabic file behind the paired record is not a parallel edition: it contains Unit One (number-systems conversion project) and is filed separately as Book 11; together the two files make the complete Programming Projects book. Record mismatch: the record and its source folder say Term 1, the book's inner title page says Second Term — carried exactly as filed. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/egypt-placements.md.
 
 **Book 5:** *Sains Komputer Tingkatan 5* (student book, Bahasa Melayu) — Malaysia, Oxford Fajar Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2017; ISBN 978-983-47-2375-0. 372 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/malaysia-placements.md.
+
+**Book 6:** *Information and Communication Technology — Reading Book, Grade 8* (student book, English) — Sri Lanka, Educational Publications Department; year 2019 (second print, first 2018); ISBN 978-955-25-0142-5. 100 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
+**Book 7:** *Information and Communication Technology — Workbook, Grade 8* (student book, English) — Sri Lanka, Educational Publications Department; year 2019; ISBN 978-955-25-0144-9. 68 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -24,8 +28,10 @@ countries: Montenegro, Egypt, Malaysia
 | Seventh Subject: The Logic NOT Gate (filed as hardware/and-or-not-logic-gates; stocked into this lesson as the closest existing lesson covering this thing) | Egypt, *ICT — Programming Projects, Unit Two: Logic Gates Simulation, Grade 12 (English file)*, printed p. 65 |
 | 1.3 Get Logik: Pengenalan dan Simbol Get Logik (filed as hardware/logic-gates-and-their-symbols; stocked into this lesson as the closest existing lesson covering this thing) | Malaysia Grade 11 SK Tingkatan 5, printed p. 39 |
 | 1.3 Membina Litar Get Logik dan Jadual Kebenaran (filed as hardware/building-logic-gate-circuits; stocked into this lesson as the closest existing lesson covering this thing) | Malaysia Grade 11 SK Tingkatan 5, printed p. 50 |
+| Ch.5 Physical computing: basic logic gates AND, OR, NOT, truth tables, connecting gates in circuits (filed as hardware/basic-logic-gates-and-or-not; stocked into this lesson as the closest existing lesson covering this thing) | Sri Lanka Grade 8 G8 ICT Textbook, printed p. 55 |
+| Workbook Ch.5 Activities 5.1-5.5: physical computing / logic gate exercises (filed as hardware/basic-logic-gates-and-or-not; stocked into this lesson as the closest existing lesson covering this thing) | Sri Lanka Grade 8 G8 ICT Workbook, printed p. 34 |
 
-**Acceptance count: taught in 3 countries (Montenegro, Egypt, Malaysia).**
+**Acceptance count: taught in 4 countries (Montenegro, Egypt, Malaysia, Sri Lanka).**
 
 Placement choice: this lesson was built new for the ICT expansion (Montenegro, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and for near matches before building. It sits in the Hardware title (hardware/), alongside the course's other hardware-and-logic lessons, following the book's own order: Montenegro's book teaches this material as one climb from number systems to converters, and the expansion keeps that climb.
 
@@ -39,4 +45,8 @@ Egypt's own way (Grade 12 Programming Projects student book, Unit Two (English f
 
 Malaysia's own way (Grade 11, SK Tingkatan 5): the final-year elective is exam-level computer science — computer architecture (fetch-decode-execute, Von Neumann, pipelining) and logic gates with Boolean expressions, a 57-page advanced SQL chapter that starts from ERD and normalisation, and a full web-programming chapter pair: client-side JavaScript (including sorting/searching, standard library, arrays) and server-side PHP working with text files, validation, queries, sign-up/login, ending in an interactive website build.
 
-Searchable tags: logic gates, not gate, inverter, and, or, nand, nor, xor, xnor, complex gates, universal gate, hardware, montenegro, digitalna elektronika, vocational, tvet, electrotechnical school, papua new guinea, grade 9, egypt, grade 10, grade 12, malaysia, grade 11 sk tingkatan 5
+Sri Lanka's own way (Grade 8 Reading Book): number systems and binary conversion open Grade 8; "physical computing" is logic gates taught through water-valve and street-lamp analogies; Scratch selection structures and mobile/smart-device apps sit in the Programming chapter.
+
+Sri Lanka's own way (Grade 8 Workbook): a companion workbook mirroring the Reading Book (Activities 1.1–6.3), with worked conversion drills for number systems.
+
+Searchable tags: logic gates, not gate, inverter, and, or, nand, nor, xor, xnor, complex gates, universal gate, hardware, montenegro, digitalna elektronika, vocational, tvet, electrotechnical school, papua new guinea, grade 9, egypt, grade 10, grade 12, malaysia, grade 11 sk tingkatan 5, sri lanka, grade 8 reading book, sri lanka, grade 8 workbook

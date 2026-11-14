@@ -1,6 +1,6 @@
 # Sources — if…else — one action or the other
 
-countries: Ethiopia, Finland, North Macedonia, Iraq, Uzbekistan, Fiji, Libya, Mongolia
+countries: Ethiopia, Finland, North Macedonia, Iraq, Uzbekistan, Fiji, Libya, Mongolia, Sri Lanka
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked), writers Teshome Alemu Wedajo, Wendwesen Endale Workneh, August 2023, GEQIP-E, no ISBN, 210 PDF pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -25,6 +25,10 @@ countries: Ethiopia, Finland, North Macedonia, Iraq, Uzbekistan, Fiji, Libya, Mo
 **Book 11:** *Мэдээллийн технологи IX (Information Technology IX)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar; year 2019 (3rd edition; bibliographic entry УБ.2016); ISBN 978-99962-74-38-1. 75 PDF pages (printed book 72 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
 **Book 12:** *Мэдээллийн технологи VIII (Information Technology VIII)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar; year 2019 (3rd edition; bibliographic entry УБ.2015); ISBN 978-99962-74-29-9. 75 PDF pages (printed book 72 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
 
+**Book 13:** *Information and Communication Technology — Reading Book, Grade 9* (student book, English) — Sri Lanka, Educational Publications Department; year 2019 (second print, first 2018); ISBN 978-955-25-0172-2. 111 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
+**Book 14:** *தகவல் தொடர்பாடல் தொழில்நுட்பம் (Information and Communication Technology), Grade 11* (student book, Tamil) — Sri Lanka, Educational Publications Department; year 2010 (second print, first 2009); no ISBN printed. 268 PDF pages. Verdict: COMPLETE (image-only scan read via 100-DPI 4-up contact sheets; the TSV release record and the books.json record are the same book, cited once). Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Two roads — if runs on true, else runs on false | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 6, printed pp. 170–171 (student placement item 120) |
@@ -43,8 +47,10 @@ countries: Ethiopia, Finland, North Macedonia, Iraq, Uzbekistan, Fiji, Libya, Mo
 | Guide Ch 7, conditional and repetition control (IF, SELECT CASE, FOR…NEXT, DO..WHILE, DO..UNTIL) with worked exercise solutions (teacher guide — evidence) | Libya Grade 11 IT teacher guide Term 1, printed p. 35 (teacher guide — evidence) |
 | 1.3.3 The branching algorithm (full and incomplete branching in flowcharts; comparison operators) | Mongolia Grade 9 IT IX, printed p. 21 |
 | 1.3.2 The branching algorithm (crossing the road safely; the save-a-file algorithm; even or odd) | Mongolia Grade 8 IT VIII, printed p. 23 |
+| Ch.3 Programming: simple selection | Sri Lanka Grade 9 G9 ICT Textbook, printed p. 29 |
+| Ch.1 If...Then...Else in VB (even/odd number program) | Sri Lanka Grade 11 G11 ICT Textbook (Tamil), printed p. 44 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Finland, North Macedonia, Iraq, Uzbekistan, Fiji, Libya, Mongolia).**
+**Acceptance count: taught in 9 countries (Ethiopia, Finland, North Macedonia, Iraq, Uzbekistan, Fiji, Libya, Mongolia, Sri Lanka).**
 
 BOOK ERROR flagged: the student book's if…else example on printed p. 171 carries a printed Word cross-reference failure — the words 'error: reference source not found' appear where a figure reference belongs. The lesson teaches the if…else content itself, which is complete and correct; the broken reference is named here, not reproduced as teaching. All code in this lesson was run in Python 3 and its output matches the lesson text. The teacher guide's answer keys were used as the verified answer source for this lesson's questions (guide item 40).
 
@@ -67,4 +73,8 @@ Mongolia's own way (Grade 9): Grade 9 turns outward to society and real tools �
 
 Mongolia's own way (Grade 8): Grade 8 is built around two long projects — a folded leaflet on Ulaanbaatar's air pollution (Word templates, styles, WordArt, charts and SmartArt) that then becomes a PowerPoint presentation with its own master slide and hyperlink buttons, and a Paint.NET collage of the five-snout livestock (таван хошуу мал) in a steppe landscape. Models are taught on Mongolian material (the livestock, Rutherford's atom, a virus-growth formula); spreadsheets open with the chessboard-and-wheat legend and count Mongolia's real 2014 livestock by aimag; social networks are taught on Facebook and Twitter ("жиргээ") with Mongolian examples.
 
-Searchable tags: if else, even odd, remainder, modulo, Grade 12 ICT Ethiopia, Unit 6 programming, finland, north macedonia, grade 10, iraq, grade 8, morocco, grade 5, uzbekistan, grade 9, fiji, year 12, libya, grade 11 it student term 1, grade 11 it teacher guide term 1, mongolia, grade 9 it ix, grade 8 it viii
+Sri Lanka's own way (Grade 9 Reading Book): it opens with preparing a computer specification for a real buyer (user needs, peripherals, processor/HDD/monitor/VGA specs, after-sales service); microcontrollers are taught with BBC micro:bit and Arduino and local sensor examples (solar lamp, washing machine, microwave).
+
+Sri Lanka's own way (Grade 11, Tamil): a full Visual Basic 6.0 programming course inside the O/L book (IDE, controls, data types, Select Case, arrays), an SDLC chapter, Photoshop-based multimedia, hand-coded HTML with Sri Lankan examples (the Sinharaja rainforest page, ucsc.cmb.ac.lk addresses, sltnet.lk domains), and sector chapters (agriculture, industry, government, commerce) before malware and health.
+
+Searchable tags: if else, even odd, remainder, modulo, Grade 12 ICT Ethiopia, Unit 6 programming, finland, north macedonia, grade 10, iraq, grade 8, morocco, grade 5, uzbekistan, grade 9, fiji, year 12, libya, grade 11 it student term 1, grade 11 it teacher guide term 1, mongolia, grade 9 it ix, grade 8 it viii, sri lanka, grade 9 reading book, sri lanka, grade 11 tamil

@@ -1,6 +1,6 @@
 # Sources — Keyboard and mouse
 
-countries: Ethiopia, Eritrea, Azerbaijan, Sudan, Fiji, Bhutan, Mongolia
+countries: Ethiopia, Eritrea, Azerbaijan, Sudan, Fiji, Bhutan, Mongolia, Sri Lanka
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -24,6 +24,12 @@ countries: Ethiopia, Eritrea, Azerbaijan, Sudan, Fiji, Bhutan, Mongolia
 
 **Book 11:** *Мэдээллийн технологи VI (Information Technology VI)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture and Science of Mongolia (Боловсрол, соёл, шинжлэх ухааны яам), Ulaanbaatar; year 2015; ISBN 978-99962-74-19-0. 59 PDF pages (printed book 56 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
 
+**Book 12:** *Information & Communication Technology — Reading Book, Grade 6* (student book, English) — Sri Lanka, Educational Publications Department; year 2019 (second print, first 2018); ISBN 978-955-25-0088-6. 108 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
+**Book 13:** *Information and Communication Technology — Workbook, Grade 6* (student book, English) — Sri Lanka, Educational Publications Department; year 2019 (second print, first 2018); ISBN 978-955-25-0090-9. 64 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
+**Book 14:** *Information & Communication Technology — Reading Book, Grade 7* (student book, English) — Sri Lanka, Educational Publications Department; year 2019 (second print, first 2018); ISBN 978-955-25-0114-2. 136 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The keyboard | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 2, printed p. 17 |
@@ -38,8 +44,11 @@ countries: Ethiopia, Eritrea, Azerbaijan, Sudan, Fiji, Bhutan, Mongolia
 | Unit 1.7 Mouse techniques | Fiji, *Computer Education, Years 7–8* (PARTIAL — front matter missing), printed p. 24 |
 | 1.3 Keyboard and Mouse (incl. wireless) | Bhutan, *Literacy with ICT, Class IV*, printed p. 5 |
 | 1.2.2 Input devices: working with the keyboard and the mouse | Mongolia Grade 6 IT VI, printed p. 17 |
+| Ch.4 Using the mouse and keyboard: parts, types, functions, correct use | Sri Lanka Grade 6 G6 ICT Textbook, printed p. 43 |
+| Workbook Ch.4 Activities 4.1-4.8: mouse/keyboard and application-software practical exercises | Sri Lanka Grade 6 G6 ICT Workbook, printed p. 28 |
+| Ch.4 Keyboard: learn about it and use it correctly | Sri Lanka Grade 7 G7 ICT Textbook, printed p. 38 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Eritrea, Azerbaijan, Sudan, Fiji, Bhutan, Mongolia).**
+**Acceptance count: taught in 8 countries (Ethiopia, Eritrea, Azerbaijan, Sudan, Fiji, Bhutan, Mongolia, Sri Lanka).**
 
 No book error touches this lesson's content.
 
@@ -59,4 +68,10 @@ Bhutan's own way (Class IV, Literacy with ICT student book): Competency-based "L
 
 Mongolia's own way (Grade 6): ICT is built on Mongolian examples throughout — information and objects taught through the Mazaalai (Gobi bear), the ger (with a paper origami model), Mongolian pattern (khee) motifs and the national flag; touch typing is taught on the Mongolian Cyrillic keyboard layout with local tutor programs (MonTT, Fast type); web work uses Mongolian sites (surguuli.edu.mn, kids.gogo.mn, tsag-agaar.mn).
 
-Searchable tags: keyboard and mouse, hardware, grade 7, information technology, ict, ethiopia, the keyboard, the mouse, eritrea, azerbaijan, mauritania, grade 7, sudan, grade 4, cuba, grade 2, cuba, grade 5, cuba, grade 5, fiji, years 7-8, bhutan, class iv, mongolia, grade 6 it vi
+Sri Lanka's own way (Grade 6 Reading Book): a story/dialogue-led "Reading Book" with a talking computer character; every chapter cross-refers to numbered Workbook activities; local sectors (school office, ATM, ICU, factories, agriculture) and the 3R e-waste method are taught from Grade 6.
+
+Sri Lanka's own way (Grade 6 Workbook): a companion workbook whose numbered activities (1.1–6.2) are referenced activity-by-activity from the Reading Book; fill-in, labelling and categorising exercises rather than separate theory.
+
+Sri Lanka's own way (Grade 7 Reading Book): the CPU is taught through a hotel-kitchen/chef analogy; programme development (decomposition, flowcharts, variables, bugs) precedes presentation software; HTML page-building is already in Grade 7.
+
+Searchable tags: keyboard and mouse, hardware, grade 7, information technology, ict, ethiopia, the keyboard, the mouse, eritrea, azerbaijan, mauritania, grade 7, sudan, grade 4, cuba, grade 2, cuba, grade 5, cuba, grade 5, fiji, years 7-8, bhutan, class iv, mongolia, grade 6 it vi, sri lanka, grade 6 reading book, sri lanka, grade 6 workbook, sri lanka, grade 7 reading book

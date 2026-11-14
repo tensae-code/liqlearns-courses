@@ -1,6 +1,6 @@
 # Sources — Adding slides
 
-countries: Ethiopia, Yemen, Bhutan
+countries: Ethiopia, Yemen, Bhutan, Sri Lanka
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Yemen, Bhutan
 
 **Book 5:** *Literacy with ICT — A Textbook for Class 7* (title page: Class VII) (student book, English) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019. ISBN 978-99936-0-442-6. 164 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
 
+**Book 6:** *Information & Communication Technology — Reading Book, Grade 7* (student book, English) — Sri Lanka, Educational Publications Department; year 2019 (second print, first 2018); ISBN 978-955-25-0114-2. 136 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The Title Slide — "Click to Add Title" and "Click to Add Subtitle" placeholders; click inside and type | Ethiopia, Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed pp. 122–123 |
@@ -19,8 +21,9 @@ countries: Ethiopia, Yemen, Bhutan
 | "Working with presentation slides" | Yemen, *Computer, Grade 11*, printed p. 35 |
 | Lesson 04 Inserting and managing slides (teacher guide — evidence) | Mauritania, *Guide-INF-3AS, Grade 9*, printed p. 20 (teacher guide — evidence) |
 | 7.4 Creating a Presentation | Bhutan, *Literacy with ICT, Class VII*, printed p. 101 |
+| Ch.6 Add new slides; slide designs, transitions, delete/copy/move/hide slides | Sri Lanka Grade 7 G7 ICT Textbook, printed p. 74 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Yemen, Bhutan).**
+**Acceptance count: taught in 4 countries (Ethiopia, Yemen, Bhutan, Sri Lanka).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -30,4 +33,6 @@ Mauritania's own way (Grade 9): The final secondary year is five practical block
 
 Bhutan's own way (Class VII, Literacy with ICT student book): Social media is taught hands-on — learners create a Facebook account, post with audience settings, and follow netiquette and an Acceptable Use Policy; backup is taught to Google Drive, and the end-of-year experience is shared on Facebook.
 
-Searchable tags: title slide, placeholder, New Slide button, layout gallery, Ctrl+M, Ethiopia Grade 9, yemen, grade 11, mauritania, grade 9, bhutan, class vii
+Sri Lanka's own way (Grade 7 Reading Book): the CPU is taught through a hotel-kitchen/chef analogy; programme development (decomposition, flowcharts, variables, bugs) precedes presentation software; HTML page-building is already in Grade 7.
+
+Searchable tags: title slide, placeholder, New Slide button, layout gallery, Ctrl+M, Ethiopia Grade 9, yemen, grade 11, mauritania, grade 9, bhutan, class vii, sri lanka, grade 7 reading book

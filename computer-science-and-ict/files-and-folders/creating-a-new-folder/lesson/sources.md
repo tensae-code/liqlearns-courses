@@ -1,6 +1,6 @@
 # Sources — Creating a new folder
 
-countries: Ethiopia, Uganda, Saudi Arabia, Sudan, Bhutan
+countries: Ethiopia, Uganda, Saudi Arabia, Sudan, Bhutan, Sri Lanka
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pages. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -18,6 +18,10 @@ countries: Ethiopia, Uganda, Saudi Arabia, Sudan, Bhutan
 
 **Book 8:** *Literacy with ICT — A Textbook for Class 5* (title page: Class V) (student book, English, with Dzongkha typing chapter) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019 (copyright 2016). ISBN 978-99936-0-429-7. 110 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
 
+**Book 9:** *Information & Communication Technology — Reading Book, Grade 7* (student book, English) — Sri Lanka, Educational Publications Department; year 2019 (second print, first 2018); ISBN 978-955-25-0114-2. 136 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
+**Book 10:** *தொழில்நுட்பவியலிற்கான விஞ்ஞானம் — தகவல் மற்றும் தொடர்பாடல் தொழில்நுட்பவியல் (Science for Technology — Information and Communication Technology), G.C.E. Advanced Level technology stream, Grade 12* (student book, Tamil) — Sri Lanka, Educational Publications Department; year 2015 (first print; print code 2014/T); no ISBN printed (EPD sales stock barcode only). 252 PDF pages. Verdict: COMPLETE (image-only Noolaham scan read via 100-DPI 4-up contact sheets; printed pages run to 242). Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Creating a new folder | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, §1.2, printed p. 11 |
@@ -28,8 +32,10 @@ countries: Ethiopia, Uganda, Saudi Arabia, Sudan, Bhutan
 | U.D.4 Séance 2 Créer et renommer des fichiers et des dossiers (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 1 (ma-g1)*, printed p. 28 (teacher guide — evidence) |
 | Unit 2 Lesson 3: File management — creating files and folders | Sudan, *ICT, Grade 5*, printed p. 18 |
 | 3.1 Creating Folder | Bhutan, *Literacy with ICT, Class V*, printed p. 36 |
+| Ch.2 Create and edit a folder; file/folder characteristics | Sri Lanka Grade 7 G7 ICT Textbook, printed p. 17 |
+| Ch.2 File management: creating/deleting/renaming/moving files and folders, back up; folder-tree practical (filed as files-and-folders/creating-and-organising-folders; stocked into this lesson as the closest existing lesson covering this thing) | Sri Lanka Grade 12 G12 Science for Technology ICT (Tamil), printed p. 38 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Uganda, Saudi Arabia, Sudan, Bhutan).**
+**Acceptance count: taught in 6 countries (Ethiopia, Uganda, Saudi Arabia, Sudan, Bhutan, Sri Lanka).**
 
 No book error touches this lesson's content. The guide's keyed Test1/Test2 run (printed pp. 5–7) is the verified model for this unit's doing-lessons; its own slips in that key — "yoxxur desktop" (p. 5) and "testfile1.text" for testfile1.txt (p. 7) — are misprints, taught as nothing. Question answers were checked against the teacher guide's Unit 1 answer keys (printed pp. 17–19) (teacher guide — evidence).
 
@@ -43,4 +49,8 @@ Sudan's own way (Grade 5): a short, highly practical Arabic primary series that 
 
 Bhutan's own way (Class V, Literacy with ICT student book): Word is taught together with typing in Dzongkha, the national language (Dzongkha keyboard software and fonts); communication is taught on the school LAN with Qualia LAN Messenger (chat, file sharing and broadcast with no Internet connection), and the end-of-year folder is sent to the teacher as a LAN-messenger attachment.
 
-Searchable tags: create new folder, Home menu, New folder button, Test1 Test2, files and folders, grade 9, information technology, ict, ethiopia, uganda, mauritania, grade 7, saudi arabia, grade 3, morocco, grade 1, sudan, grade 5, bhutan, class v
+Sri Lanka's own way (Grade 7 Reading Book): the CPU is taught through a hotel-kitchen/chef analogy; programme development (decomposition, flowcharts, variables, bugs) precedes presentation software; HTML page-building is already in Grade 7.
+
+Sri Lanka's own way (Grade 12 Science for Technology, Tamil): the A/L technology-stream ICT volume teaches every office skill twice — once in Microsoft Office 2010 and once in LibreOffice (Writer/Calc/Impress 4.1) — and closes with creating a real Gmail account, mailbox folders, attachments and password safety; hardware goes down to cache levels L1/L2/L3, ROM types and file systems (FAT/NTFS/ext4).
+
+Searchable tags: create new folder, Home menu, New folder button, Test1 Test2, files and folders, grade 9, information technology, ict, ethiopia, uganda, mauritania, grade 7, saudi arabia, grade 3, morocco, grade 1, sudan, grade 5, bhutan, class v, sri lanka, grade 7 reading book, sri lanka, grade 12 science for technology tamil

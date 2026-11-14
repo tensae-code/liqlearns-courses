@@ -34,6 +34,8 @@ countries: Ethiopia, Eritrea, Nepal, China, Belarus, Yemen, North Macedonia, Uzb
 
 **Book 16:** *Мэдээллийн технологи IX (Information Technology IX)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar; year 2019 (3rd edition; bibliographic entry УБ.2016); ISBN 978-99962-74-38-1. 75 PDF pages (printed book 72 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
 
+**Book 17:** *Information and Communication Technology — Teachers' Guide, Grade 9 (Effective from 2018)* (teacher guide, English; parallel Sinhala and Tamil editions spot-checked) — Sri Lanka, National Institute of Education (Department of Information Technology); year 2018 (first print); no ISBN printed (blank on copyright page). 95 PDF pages (English edition; the parallel Sinhala edition has 112 and the Tamil edition 116 PDF pages). Verdict: COMPLETE (English read fully; Sinhala and Tamil are parallel editions of the same guide, spot-checked). Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — charts display data visually; the eight types named; creation in order: select source cells including titles and labels, Insert → Chart, choose type or Recommended Charts, chart appears | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 3, printed pp. 113–115 |
@@ -58,6 +60,7 @@ countries: Ethiopia, Eritrea, Nepal, China, Belarus, Yemen, North Macedonia, Uzb
 | Unit 3.8 Produce simple graphs and charts from a spreadsheet | Fiji, *Computer Education, Years 7–8* (PARTIAL — front matter missing), printed p. 97 |
 | Unit 3 Ch 3.5, advanced skills: adding a text box and inserting a chart | Libya Grade 8 Computer, printed p. 123 |
 | 2.3.6 Building graphs and diagrams from numeric data (scatter plots of functions; column, bar and pie charts; chart formatting) | Mongolia Grade 9 IT IX, printed p. 53 |
+| Competency 2.5: chart types (column, bar, line, pie) and chart formatting (teacher guide — evidence) | Sri Lanka Grade 9 G9 ICT Teacher Guide (NIE 2018), printed p. 40 (teacher guide — evidence) |
 
 **Acceptance count: taught in 13 countries (Ethiopia, Eritrea, Nepal, China, Belarus, Yemen, North Macedonia, Uzbekistan, Cuba, Egypt, Fiji, Libya, Mongolia).**
 
@@ -84,4 +87,6 @@ Libya's own way (Grade 8, Computer student book): a three-unit arc — computer 
 
 Mongolia's own way (Grade 9): Grade 9 turns outward to society and real tools — the information society taught through Mongolia's own shift, open-source software through Soyombo Linux (Mongolia's own Linux) and Mongolian OpenOffice, copyright through Mongolia's 2006 copyright law; algorithms are drawn as flowcharts and run in Turtle Art; the long spreadsheet unit grades pupils with nested IFs, builds Fibonacci sequences, grows a 500,000-tögrög bank deposit, and charts the depth and area of Mongolia's great lakes (Khuvsgul, Uvs, Khar-Us); e-services are the real Mongolian ones — the ТҮЦ service kiosk, bookstore.mn and internet banking.
 
-Searchable tags: Excel charts, pie column line bar, Recommended Charts, Add Chart Element, Quick Layout, Chart Styles, Student Grade Record, Ethiopia Grade 10, eritrea, nepal, china, belarus, yemen, grade 11, north macedonia, grade 10, mauritania, grade 8, saudi arabia, grade 8, uzbekistan, grade 9, cuba, grade 6, egypt, grade 10, fiji, years 7-8, libya, grade 8 computer, mongolia, grade 9 it ix
+Sri Lanka's own way (Grade 9 Teachers' Guide): a competency-based NIE guide (6 competencies, 30 periods) that unpacks the student book with CPU internal detail (input unit, ALU, memory unit, control unit, output unit), spreadsheet charts and sorting, and a named careers list (Software QA Engineer, Database Administrator, Software Architect, System Analyst, Web Application Developer, Graphic Designer). (teacher guide — evidence)
+
+Searchable tags: Excel charts, pie column line bar, Recommended Charts, Add Chart Element, Quick Layout, Chart Styles, Student Grade Record, Ethiopia Grade 10, eritrea, nepal, china, belarus, yemen, grade 11, north macedonia, grade 10, mauritania, grade 8, saudi arabia, grade 8, uzbekistan, grade 9, cuba, grade 6, egypt, grade 10, fiji, years 7-8, libya, grade 8 computer, mongolia, grade 9 it ix, sri lanka, grade 9 teachers guide

@@ -1,6 +1,6 @@
 # Sources — Scratch loops and conditions
 
-countries: Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Cuba, Bhutan
+countries: Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Cuba, Bhutan, Sri Lanka
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -44,6 +44,16 @@ countries: Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Cuba, Bhutan
 
 **Book 21:** *Literacy with ICT — A Textbook for Class 7* (title page: Class VII) (student book, English) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019. ISBN 978-99936-0-442-6. 164 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
 
+**Book 22:** *Information and Communication Technology — Reading Book, Grade 8* (student book, English) — Sri Lanka, Educational Publications Department; year 2019 (second print, first 2018); ISBN 978-955-25-0142-5. 100 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
+**Book 23:** *Information and Communication Technology — Workbook, Grade 8* (student book, English) — Sri Lanka, Educational Publications Department; year 2019; ISBN 978-955-25-0144-9. 68 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
+**Book 24:** *Information and Communication Technology — Reading Book, Grade 9* (student book, English) — Sri Lanka, Educational Publications Department; year 2019 (second print, first 2018); ISBN 978-955-25-0172-2. 111 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
+**Book 25:** *Information and Communication Technology — Workbook, Grade 9* (student book, English) — Sri Lanka, Educational Publications Department; year 2019; ISBN 978-955-25-0174-6. 67 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
+**Book 26:** *Information and Communication Technology — Teachers' Guide, Grade 9 (Effective from 2018)* (teacher guide, English; parallel Sinhala and Tamil editions spot-checked) — Sri Lanka, National Institute of Education (Department of Information Technology); year 2018 (first print); no ISBN printed (blank on copyright page). 95 PDF pages (English edition; the parallel Sinhala edition has 112 and the Tamil edition 116 PDF pages). Verdict: COMPLETE (English read fully; Sinhala and Tamil are parallel editions of the same guide, spot-checked). Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | The graduated exercise set — modify, Move 100 and the edge, the if…else comparison | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed pp. 232–233 |
@@ -74,8 +84,14 @@ countries: Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Cuba, Bhutan
 | 6.2 Control and Decision Making | Bhutan, *Literacy with ICT, Class V*, printed p. 78 |
 | 7.1 More Control Blocks | Bhutan, *Literacy with ICT, Class VI*, printed p. 104 |
 | 9.5 Nested Loop Condition | Bhutan, *Literacy with ICT, Class VII*, printed p. 127 |
+| Ch.4 Developing Scratch programs with selection control (if-then, comparison and logical blocks) | Sri Lanka Grade 8 G8 ICT Textbook, printed p. 48 |
+| Workbook Ch.4 Activities 4.1-4.10: programming / Scratch control exercises | Sri Lanka Grade 8 G8 ICT Workbook, printed p. 29 |
+| Ch.3 Repetition control structures in Scratch; developing visual programs with repetition | Sri Lanka Grade 9 G9 ICT Textbook, printed p. 33 |
+| Ch.3 Programming with nested repetition; repetition with selection (Snakes and Ladders) | Sri Lanka Grade 9 G9 ICT Textbook, printed p. 38 |
+| Workbook Ch.3 Programming exercises | Sri Lanka Grade 9 G9 ICT Workbook, printed p. 26 |
+| Competency 3.2-3.3: Scratch selection/iteration and nested iteration programs (teacher guide — evidence) | Sri Lanka Grade 9 G9 ICT Teacher Guide (NIE 2018), printed p. 50 (teacher guide — evidence) |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Cuba, Bhutan).**
+**Acceptance count: taught in 9 countries (Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Cuba, Bhutan, Sri Lanka).**
 
 Book error note: the teacher guide prints "sprint" for sprite throughout its Unit 6 Scratch answers; the build teaches 'sprite'. A second GIF for this lesson, showing Solution A's edge bounce, is filed as GIF 20956 — see the add-on list in lesson-plan.md.
 
@@ -111,4 +127,14 @@ Bhutan's own way (Class VI, Literacy with ICT student book): School computing ru
 
 Bhutan's own way (Class VII, Literacy with ICT student book): Social media is taught hands-on — learners create a Facebook account, post with audience settings, and follow netiquette and an Acceptable Use Policy; backup is taught to Google Drive, and the end-of-year experience is shared on Facebook.
 
-Searchable tags: Scratch, if else, forever, repeat, repeat until, edge, loops, doing lesson, Grade 9 ICT Ethiopia Unit 6, finland, bulgaria, palestine, iraq, grade 8, grade 10, morocco, grade 5, sudan, grade 9, cuba, grade 5, cuba, grade 5, cuba, grade 5, cuba, grade 6, cuba, grade 8, bhutan, class v, class vi, class vii
+Sri Lanka's own way (Grade 8 Reading Book): number systems and binary conversion open Grade 8; "physical computing" is logic gates taught through water-valve and street-lamp analogies; Scratch selection structures and mobile/smart-device apps sit in the Programming chapter.
+
+Sri Lanka's own way (Grade 8 Workbook): a companion workbook mirroring the Reading Book (Activities 1.1–6.3), with worked conversion drills for number systems.
+
+Sri Lanka's own way (Grade 9 Reading Book): it opens with preparing a computer specification for a real buyer (user needs, peripherals, processor/HDD/monitor/VGA specs, after-sales service); microcontrollers are taught with BBC micro:bit and Arduino and local sensor examples (solar lamp, washing machine, microwave).
+
+Sri Lanka's own way (Grade 9 Workbook): a companion workbook mirroring the Reading Book chapter-for-chapter.
+
+Sri Lanka's own way (Grade 9 Teachers' Guide): a competency-based NIE guide (6 competencies, 30 periods) that unpacks the student book with CPU internal detail (input unit, ALU, memory unit, control unit, output unit), spreadsheet charts and sorting, and a named careers list (Software QA Engineer, Database Administrator, Software Architect, System Analyst, Web Application Developer, Graphic Designer). (teacher guide — evidence)
+
+Searchable tags: Scratch, if else, forever, repeat, repeat until, edge, loops, doing lesson, Grade 9 ICT Ethiopia Unit 6, finland, bulgaria, palestine, iraq, grade 8, grade 10, morocco, grade 5, sudan, grade 9, cuba, grade 5, cuba, grade 5, cuba, grade 5, cuba, grade 6, cuba, grade 8, bhutan, class v, class vi, class vii, sri lanka, grade 8 reading book, sri lanka, grade 8 workbook, sri lanka, grade 9 reading book, sri lanka, grade 9 workbook, sri lanka, grade 9 teachers guide

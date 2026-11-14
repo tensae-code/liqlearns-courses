@@ -1,18 +1,23 @@
 # Sources — Keyboard Trainer Practice
 
-countries: Uzbekistan
+countries: Uzbekistan, Sri Lanka
 
 **Book 1:** *Информатика — учебник для 5 класса средней общеобразовательной школы (Informatika, Grade 5)* (student book, Russian edition) — Uzbekistan, Издательско-полиграфический творческий дом имени Чулпана (Chulpan Publishing), Tashkent. Authors: Б. Болтаев, М. Махкамов, А. Азаматов, С. Рахманкулова. 2008. ISBN 978-9943-05-161-4. 73 PDF pages. Verdict: COMPLETE. Scanned image-only; read via title/imprint/cover renders and the book's complete printed contents at reading resolution, with body spot-checks. Russian translation edition of the Uzbek textbook, translated by Muxtor Mahkamov. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/uzbekistan-placements.md.
+
+**Book 2:** *Information & Communication Technology — Reading Book, Grade 7* (student book, English) — Sri Lanka, Educational Publications Department; year 2019 (second print, first 2018); ISBN 978-955-25-0114-2. 136 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Урок 7 "Упражнения на клавиатурном тренажере" (keyboard trainer exercises) | Uzbekistan, *Informatika, Grade 5*, printed p. 26 |
 | Урок 8 "Упражнения на клавиатурном тренажере (продолжение)" | Uzbekistan, *Informatika, Grade 5*, printed p. 27 |
+| Ch.4 Use of typing tutor software (filed as word-processing/typing-tutor-software-practice; stocked into this lesson as the closest existing lesson covering this thing) | Sri Lanka Grade 7 G7 ICT Textbook, printed p. 44 |
 
-**Acceptance count: taught in 1 country (Uzbekistan).**
+**Acceptance count: taught in 2 countries (Uzbekistan, Sri Lanka).**
 
 Placement choice: this lesson was built new for the ICT expansion (Uzbekistan, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — hardware/keyboard-trainer-practice). It sits in the Hardware title (hardware/), following the book's own order. The placements file names this slug 2 times (Grade 5, printed p. 26; Grade 5, printed p. 27); the lesson is built ONCE, with a provenance row per placement.
 
 Uzbekistan's own way (Grade 5): informatics opens with a full lesson of safety and hygiene before the machine is even described, and Paint gets five of the seventeen lessons — drawing is the grade-5 child's main creative tool, with keyboard training on a typing trainer in between. The Boltaev-team informatics line runs from keyboard trainers and Paint in Grades 5–6 to a full Pascal course in Grades 8–9; this book is its Russian-language edition.
 
-Searchable tags: keyboard trainer, typing practice, keyboard, hardware, uzbekistan, grade 5
+Sri Lanka's own way (Grade 7 Reading Book): the CPU is taught through a hotel-kitchen/chef analogy; programme development (decomposition, flowcharts, variables, bugs) precedes presentation software; HTML page-building is already in Grade 7.
+
+Searchable tags: keyboard trainer, typing practice, keyboard, hardware, uzbekistan, grade 5, sri lanka, grade 7 reading book

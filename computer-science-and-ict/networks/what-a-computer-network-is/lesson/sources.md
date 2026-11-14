@@ -1,6 +1,6 @@
 # Sources — What a computer network is
 
-countries: Ethiopia, Djibouti, Mozambique, Afghanistan, Yemen, North Macedonia, Iraq, Sudan, Cuba, Egypt, Fiji, Bhutan, Libya, Mongolia
+countries: Ethiopia, Djibouti, Mozambique, Afghanistan, Yemen, North Macedonia, Iraq, Sudan, Cuba, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -44,6 +44,12 @@ countries: Ethiopia, Djibouti, Mozambique, Afghanistan, Yemen, North Macedonia, 
 
 **Book 21:** *Мэдээллийн технологи IX (Information Technology IX)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar; year 2019 (3rd edition; bibliographic entry УБ.2016); ISBN 978-99962-74-38-1. 75 PDF pages (printed book 72 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
 
+**Book 22:** *Information and Communication Technology — Reading Book, Grade 9* (student book, English) — Sri Lanka, Educational Publications Department; year 2019 (second print, first 2018); ISBN 978-955-25-0172-2. 111 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
+**Book 23:** *Information and Communication Technology — Workbook, Grade 9* (student book, English) — Sri Lanka, Educational Publications Department; year 2019; ISBN 978-955-25-0174-6. 67 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
+**Book 24:** *தொழில்நுட்பவியலிற்கான விஞ்ஞானம் — தகவல் மற்றும் தொடர்பாடல் தொழில்நுட்பவியல் (Science for Technology — Information and Communication Technology), G.C.E. Advanced Level technology stream, Grade 12* (student book, Tamil) — Sri Lanka, Educational Publications Department; year 2015 (first print; print code 2014/T); no ISBN printed (EPD sales stock barcode only). 252 PDF pages. Verdict: COMPLETE (image-only Noolaham scan read via 100-DPI 4-up contact sheets; printed pages run to 242). Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Two or more computers, linked to share | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 2, printed p. 37 |
@@ -69,8 +75,11 @@ countries: Ethiopia, Djibouti, Mozambique, Afghanistan, Yemen, North Macedonia, 
 | 3.1 Computer Network | Bhutan, *Literacy with ICT, Class VI*, printed p. 50 |
 | Unit 1 Ch 1, introduction to computer networks: beginnings, definition, network terminology | Libya Grade 9 Computer, printed p. 11 |
 | 1.2.1 The computer network (LAN, MAN, WAN; protocols and TCP/IP; peer-to-peer and client–server; network card, UTP cable, switch, Wi-Fi, modem; transmission speed; bus, star, ring and hybrid topologies) | Mongolia Grade 9 IT IX, printed p. 13 |
+| Ch.5 Computer networks: advantages, connection types, cabling and wireless media, basic device requirements | Sri Lanka Grade 9 G9 ICT Textbook, printed p. 66 |
+| Workbook Ch.5 Computer Networks exercises | Sri Lanka Grade 9 G9 ICT Workbook, printed p. 39 |
+| Ch.6 Internet and e-mail: what a computer network is; what the internet is; ISP (filed as networks/what-a-network-is-two-or-more-computers-connected; stocked into this lesson as the closest existing lesson covering this thing) | Sri Lanka Grade 12 G12 Science for Technology ICT (Tamil), printed p. 221 |
 
-**Acceptance count: taught in 13 countries (Ethiopia, Mozambique, Afghanistan, Yemen, North Macedonia, Iraq, Sudan, Cuba, Egypt, Fiji, Bhutan, Libya, Mongolia).**
+**Acceptance count: taught in 14 countries (Ethiopia, Mozambique, Afghanistan, Yemen, North Macedonia, Iraq, Sudan, Cuba, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -110,4 +119,10 @@ Libya's own way (Grade 9, Computer student book): the whole year is networks and
 
 Mongolia's own way (Grade 9): Grade 9 turns outward to society and real tools — the information society taught through Mongolia's own shift, open-source software through Soyombo Linux (Mongolia's own Linux) and Mongolian OpenOffice, copyright through Mongolia's 2006 copyright law; algorithms are drawn as flowcharts and run in Turtle Art; the long spreadsheet unit grades pupils with nested IFs, builds Fibonacci sequences, grows a 500,000-tögrög bank deposit, and charts the depth and area of Mongolia's great lakes (Khuvsgul, Uvs, Khar-Us); e-services are the real Mongolian ones — the ТҮЦ service kiosk, bookstore.mn and internet banking.
 
-Searchable tags: computer network, sharing resources, Bluetooth, Internet, ISP, Ethio-telecom, Grade 9 ICT Ethiopia, djibouti, mozambique, afghanistan, yemen, grade 11, north macedonia, grade 10, mauritania, grade 7, mauritania, grade 9, iraq, grade 7, papua new guinea, grade 9, sudan, grade 4, grade 6, cuba, grade 7, cuba, grade 12, egypt, grade 10, fiji, years 7-8, year 12, bhutan, class vi, libya, grade 9 computer, mongolia, grade 9 it ix
+Sri Lanka's own way (Grade 9 Reading Book): it opens with preparing a computer specification for a real buyer (user needs, peripherals, processor/HDD/monitor/VGA specs, after-sales service); microcontrollers are taught with BBC micro:bit and Arduino and local sensor examples (solar lamp, washing machine, microwave).
+
+Sri Lanka's own way (Grade 9 Workbook): a companion workbook mirroring the Reading Book chapter-for-chapter.
+
+Sri Lanka's own way (Grade 12 Science for Technology, Tamil): the A/L technology-stream ICT volume teaches every office skill twice — once in Microsoft Office 2010 and once in LibreOffice (Writer/Calc/Impress 4.1) — and closes with creating a real Gmail account, mailbox folders, attachments and password safety; hardware goes down to cache levels L1/L2/L3, ROM types and file systems (FAT/NTFS/ext4).
+
+Searchable tags: computer network, sharing resources, Bluetooth, Internet, ISP, Ethio-telecom, Grade 9 ICT Ethiopia, djibouti, mozambique, afghanistan, yemen, grade 11, north macedonia, grade 10, mauritania, grade 7, mauritania, grade 9, iraq, grade 7, papua new guinea, grade 9, sudan, grade 4, grade 6, cuba, grade 7, cuba, grade 12, egypt, grade 10, fiji, years 7-8, year 12, bhutan, class vi, libya, grade 9 computer, mongolia, grade 9 it ix, sri lanka, grade 9 reading book, sri lanka, grade 9 workbook, sri lanka, grade 12 science for technology tamil

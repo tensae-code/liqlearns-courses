@@ -1,6 +1,6 @@
 # Sources — if…elif…else — a chain of choices
 
-countries: Ethiopia, North Macedonia, Iraq, Egypt, Fiji, Malaysia
+countries: Ethiopia, North Macedonia, Iraq, Egypt, Fiji, Malaysia, Sri Lanka
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked), writers Teshome Alemu Wedajo, Wendwesen Endale Workneh, August 2023, GEQIP-E, no ISBN, 210 PDF pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -18,6 +18,10 @@ countries: Ethiopia, North Macedonia, Iraq, Egypt, Fiji, Malaysia
 
 **Book 8:** *Asas Sains Komputer Tingkatan 1* (student book, Bahasa Melayu) — Malaysia, Percetakan Rina Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2016; ISBN 978-967-14509-0-1. 164 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/malaysia-placements.md.
 
+**Book 9:** *Information and Communication Technology — Reading Book, Grade 9* (student book, English) — Sri Lanka, Educational Publications Department; year 2019 (second print, first 2018); ISBN 978-955-25-0172-2. 111 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
+**Book 10:** *தகவல் தொடர்பாடல் தொழில்நுட்பம் (Information and Communication Technology), Grade 11* (student book, Tamil) — Sri Lanka, Educational Publications Department; year 2010 (second print, first 2009); no ISBN printed. 268 PDF pages. Verdict: COMPLETE (image-only scan read via 100-DPI 4-up contact sheets; the TSV release record and the books.json record are the same book, cited once). Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The chain — first true block wins | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 6, printed pp. 173–176 (student placement item 122) |
@@ -30,8 +34,10 @@ countries: Ethiopia, North Macedonia, Iraq, Egypt, Fiji, Malaysia
 | Unit 4 Lesson 2 Conditional Statements in Python | Egypt, *Computer and ICT, Grade 8 Term 2 (Arabic)*, printed p. 52 |
 | 6.2 Selection statements in C++ (if, else if: grade from a mark) | Fiji, *Computer Education, Year 13*, printed p. 139 |
 | 4.1.2 Atur Cara Struktur Kawalan Pelbagai Pilihan (Scratch 2.0) | Malaysia Grade 7 ASK Tingkatan 1, printed p. 96 |
+| Ch.3 Selection out of many options | Sri Lanka Grade 9 G9 ICT Textbook, printed p. 31 |
+| Ch.1 Select...Case in VB | Sri Lanka Grade 11 G11 ICT Textbook (Tamil), printed p. 46 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, North Macedonia, Iraq, Egypt, Fiji, Malaysia).**
+**Acceptance count: taught in 7 countries (Ethiopia, North Macedonia, Iraq, Egypt, Fiji, Malaysia, Sri Lanka).**
 
 No book error touches this lesson. Teacher-guide evidence (item 35, in part) is filed in Sub lesson 2: the type-puzzle key — a variable holding a string makes only the string-type comparison true (guide printed pp. 122–128). NOTE on the marks chain: the student review question asks pass at 50 or above (≥ 50); this lesson's chain follows the student wording (Satisfactory from 50). The teacher guide's keyed review program uses mark > 50 — a guide fault, flagged fully in the breakpoints/debugging lesson's sources and NOT followed here. All code in this lesson was run in Python 3 and its output matches the lesson text. The teacher guide's answer keys were used as the verified answer source for this lesson's questions (guide item 40).
 
@@ -47,4 +53,8 @@ Fiji's own way (Year 13 Computer Education student book): The senior book is bui
 
 Malaysia's own way (Grade 7, ASK Tingkatan 1): the KSSM Asas Sains Komputer (ASK — Foundations of Computer Science) course is built on the four computational-thinking techniques (decomposition, pattern recognition, abstraction, generalisation) introduced through a local food example (making popia basah); programming is done in Scratch 2.0, then learners build a real interactive website in HTML in the same year; every chapter ends with a mind map, self-check list and self-practice.
 
-Searchable tags: elif, chain of choices, type(), grade chain, Grade 12 ICT Ethiopia, Unit 6 programming, north macedonia, grade 10, iraq, grade 8, egypt, grade 10, grade 8, fiji, year 13, malaysia, grade 7 ask tingkatan 1
+Sri Lanka's own way (Grade 9 Reading Book): it opens with preparing a computer specification for a real buyer (user needs, peripherals, processor/HDD/monitor/VGA specs, after-sales service); microcontrollers are taught with BBC micro:bit and Arduino and local sensor examples (solar lamp, washing machine, microwave).
+
+Sri Lanka's own way (Grade 11, Tamil): a full Visual Basic 6.0 programming course inside the O/L book (IDE, controls, data types, Select Case, arrays), an SDLC chapter, Photoshop-based multimedia, hand-coded HTML with Sri Lankan examples (the Sinharaja rainforest page, ucsc.cmb.ac.lk addresses, sltnet.lk domains), and sector chapters (agriculture, industry, government, commerce) before malware and health.
+
+Searchable tags: elif, chain of choices, type(), grade chain, Grade 12 ICT Ethiopia, Unit 6 programming, north macedonia, grade 10, iraq, grade 8, egypt, grade 10, grade 8, fiji, year 13, malaysia, grade 7 ask tingkatan 1, sri lanka, grade 9 reading book, sri lanka, grade 11 tamil

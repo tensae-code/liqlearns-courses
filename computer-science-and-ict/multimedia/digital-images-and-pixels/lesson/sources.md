@@ -1,6 +1,6 @@
 # Sources — Digital images — made of pixels
 
-countries: Ethiopia, Djibouti, Nepal, Uzbekistan, Egypt, Mongolia
+countries: Ethiopia, Djibouti, Nepal, Uzbekistan, Egypt, Mongolia, Sri Lanka
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pages; printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -26,6 +26,8 @@ countries: Ethiopia, Djibouti, Nepal, Uzbekistan, Egypt, Mongolia
 
 **Book 12:** *Мэдээллийн технологи X (Information Technology X)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar; year 2019 (2nd edition; bibliographic entry УБ.2018); ISBN 978-99978-61-82-5. 151 PDF pages (printed book 148 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page, from the release mid-size-books-8 asset (the books.json record's size_bytes does not match the secured asset — see the placements file's log debt). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
 
+**Book 13:** *தகவல் தொடர்பாடல் தொழில்நுட்பம் (Information and Communication Technology), Grade 11* (student book, Tamil) — Sri Lanka, Educational Publications Department; year 2010 (second print, first 2009); no ISBN printed. 268 PDF pages. Verdict: COMPLETE (image-only scan read via 100-DPI 4-up contact sheets; the TSV release record and the books.json record are the same book, cited once). Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Pixels — the smallest element of an image | Ethiopia, *Information Technology*, Student textbook, Grade 9, Unit 4 §4.1, printed pp. 145–146 |
@@ -42,8 +44,9 @@ countries: Ethiopia, Djibouti, Nepal, Uzbekistan, Egypt, Mongolia
 | Unidad 3 Creación de dibujos: brocha, línea, rectángulo, elipse, bote de pintura (teacher guide — evidence) | Cuba, *Orientaciones Metodológicas — Mi Mundo Digital III, Grade 5*, printed p. 16 (teacher guide — evidence) |
 | 6-8 Digitization of Images | Egypt, *Programming and Artificial Intelligence, Grade 10 Term 1*, printed p. 73 |
 | 3.2 Processing picture information (image formats; resolution and file-size calculations; an MS Publisher CD/DVD cover project) | Mongolia Grade 10 IT X, printed p. 83 |
+| Ch.4 Multimedia for communicating ideas: pictures vs graphics, black/white, grey shades and colour images, scanning images in | Sri Lanka Grade 11 G11 ICT Textbook (Tamil), printed p. 121 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Nepal, Uzbekistan, Egypt, Mongolia).**
+**Acceptance count: taught in 6 countries (Ethiopia, Nepal, Uzbekistan, Egypt, Mongolia, Sri Lanka).**
 
 Nothing in this lesson claims a page the placements do not give; the lesson's content is the placements' content, re-expressed for the learner, with the book's own step orders, examples and Ethiopian practicals kept. Procedures are taught exactly as the book teaches them — Photoshop first, with the GIMP alternative where the book notes it.
 
@@ -64,4 +67,6 @@ Egypt's own way (Grade 10, Term 1 Programming and Artificial Intelligence studen
 
 Mongolia's own way (Grade 10): Grade 10 is the "citizen" book — ICT ethics, law and intellectual property first, taught with Mongolian digital content as the examples (the Nogun comic, the Chinggis Khaan animation, GoGo Kids, Maamuu and YoLo; the CRC's black-list.mn), then a distinctive "package information" chapter — collecting, storing, merging and presenting information as one whole, worked through a 24-slide presentation on the sights of Bayankhongor aimag — multimedia production with free tools (Pencil2D, Pivot Animator, Unfreez, Audacity), and a full MS Access database chapter built around a Mongolian phone-book database and the state's unified registration system.
 
-Searchable tags: digital image, pixel, bits, binary, digitise, RGB, red green blue, logo, logotype, tagline, Ethiopia Grade 9, djibouti, nepal, mauritania, grade 8, saudi arabia, grade 8, papua new guinea, grade 11, uzbekistan, grade 9, cuba, grade 5, cuba, grade 5, egypt, grade 10, mongolia, grade 10 it x
+Sri Lanka's own way (Grade 11, Tamil): a full Visual Basic 6.0 programming course inside the O/L book (IDE, controls, data types, Select Case, arrays), an SDLC chapter, Photoshop-based multimedia, hand-coded HTML with Sri Lankan examples (the Sinharaja rainforest page, ucsc.cmb.ac.lk addresses, sltnet.lk domains), and sector chapters (agriculture, industry, government, commerce) before malware and health.
+
+Searchable tags: digital image, pixel, bits, binary, digitise, RGB, red green blue, logo, logotype, tagline, Ethiopia Grade 9, djibouti, nepal, mauritania, grade 8, saudi arabia, grade 8, papua new guinea, grade 11, uzbekistan, grade 9, cuba, grade 5, cuba, grade 5, egypt, grade 10, mongolia, grade 10 it x, sri lanka, grade 11 tamil

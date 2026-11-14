@@ -1,6 +1,6 @@
 # Sources — Inserting pictures and screenshots
 
-countries: Ethiopia, Iraq, Uzbekistan, Cuba, Bhutan, Mongolia
+countries: Ethiopia, Iraq, Uzbekistan, Cuba, Bhutan, Mongolia, Sri Lanka
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Iraq, Uzbekistan, Cuba, Bhutan, Mongolia
 
 **Book 9:** *Мэдээллийн технологи VII (Information Technology VII)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar; year 2019 (3rd edition; bibliographic entry УБ.2015); ISBN 978-99962-74-24-4. 75 PDF pages (printed book 72 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
 
+**Book 10:** *தொழில்நுட்பவியலிற்கான விஞ்ஞானம் — தகவல் மற்றும் தொடர்பாடல் தொழில்நுட்பவியல் (Science for Technology — Information and Communication Technology), G.C.E. Advanced Level technology stream, Grade 12* (student book, Tamil) — Sri Lanka, Educational Publications Department; year 2015 (first print; print code 2014/T); no ISBN printed (EPD sales stock barcode only). 252 PDF pages. Verdict: COMPLETE (image-only Noolaham scan read via 100-DPI 4-up contact sheets; printed pages run to 242). Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — illustrations and what can be done to them; embedded objects; the insertion route in order; the Green Legacy worked document | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 3, printed pp. 93–94 |
@@ -33,8 +35,9 @@ countries: Ethiopia, Iraq, Uzbekistan, Cuba, Bhutan, Mongolia
 | Capítulo 2.6 Las imágenes en el documento | Cuba, *Mi Mundo Digital, Grade 5*, printed p. 67 |
 | 2.4 Inserting Pictures | Bhutan, *Literacy with ICT, Class VI*, printed p. 31 |
 | 2.1.3 Inserting pictures and shapes into a document (Insert Picture, shapes, text wrapping) | Mongolia Grade 7 IT VII, printed p. 26 |
+| Ch.3 Inserting external pictures (Writer 4.1 Insert Picture) (filed as word-processing/adding-pictures-to-a-document; stocked into this lesson as the closest existing lesson covering this thing) | Sri Lanka Grade 12 G12 Science for Technology ICT (Tamil), printed p. 105 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Iraq, Uzbekistan, Cuba, Bhutan, Mongolia).**
+**Acceptance count: taught in 7 countries (Ethiopia, Iraq, Uzbekistan, Cuba, Bhutan, Mongolia, Sri Lanka).**
 
 Mauritania's own way (Grade 7): Informatics is taught for the first time in 1AS as thirty 30-minute teacher fiches moving hardware → information systems (illustrated with Mauritanian systems Bankily, Masrvi, Houwiyeti and the Ministry's Sirage platform) → a long Microsoft Word sequence → a full unit on internet ethics before browsers and search are even introduced.
 
@@ -51,4 +54,6 @@ Bhutan's own way (Class VI, Literacy with ICT student book): School computing ru
 
 Mongolia's own way (Grade 7): the whole applications half is one long project — research and produce a printed booklet "Усаа хайрлая" (Cherish the Water) in Word, a Paint.NET layered picture, and a class PowerPoint; image work uses the free Paint.NET (downloaded from getpaint.net) rather than MS Paint; the e-communication chapter teaches Yahoo mail and Yahoo Messenger, Mongolian history of the örtöö relay post and the @ sign, and makes correct Latin transliteration of Mongolian Cyrillic (standard MNS 5217:2003) an ethics topic in its own right.
 
-Searchable tags: Insert Pictures, Illustrations group, embedded object, Screenshot, Screen Clipping, Green Legacy, Haile G/Silase, Ethiopia Grade 10, mauritania, grade 7, iraq, grade 8, uzbekistan, grade 6, grade 8, cuba, grade 5, bhutan, class vi, mongolia, grade 7 it vii
+Sri Lanka's own way (Grade 12 Science for Technology, Tamil): the A/L technology-stream ICT volume teaches every office skill twice — once in Microsoft Office 2010 and once in LibreOffice (Writer/Calc/Impress 4.1) — and closes with creating a real Gmail account, mailbox folders, attachments and password safety; hardware goes down to cache levels L1/L2/L3, ROM types and file systems (FAT/NTFS/ext4).
+
+Searchable tags: Insert Pictures, Illustrations group, embedded object, Screenshot, Screen Clipping, Green Legacy, Haile G/Silase, Ethiopia Grade 10, mauritania, grade 7, iraq, grade 8, uzbekistan, grade 6, grade 8, cuba, grade 5, bhutan, class vi, mongolia, grade 7 it vii, sri lanka, grade 12 science for technology tamil

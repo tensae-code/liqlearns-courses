@@ -1,6 +1,6 @@
 # Sources — Opening PowerPoint and starting blank
 
-countries: Ethiopia, Afghanistan, Iraq, Sudan, Egypt, Bhutan, Libya
+countries: Ethiopia, Afghanistan, Iraq, Sudan, Egypt, Bhutan, Libya, Sri Lanka
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Afghanistan, Iraq, Sudan, Egypt, Bhutan, Libya
 
 **Book 9:** *تقنية المعلومات للسنة الثالثة بمرحلة التعليم الثانوي — القسم الأدبي (Information Technology, third year of secondary = Grade 12, Humanities section)* (student book, Arabic) — Libya, Libya Ministry of Education, Centre for Educational Curricula and Research (مركز المناهج التعليمية والبحوث التربوية). Year 2019-2020 (1440-1441 AH); no ISBN printed. 112 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/libya-placements.md. Image-only PDF — read from rendered contents pages at 200 DPI plus body spot-checks; printed p. = PDF p.
 
+**Book 10:** *தொழில்நுட்பவியலிற்கான விஞ்ஞானம் — தகவல் மற்றும் தொடர்பாடல் தொழில்நுட்பவியல் (Science for Technology — Information and Communication Technology), G.C.E. Advanced Level technology stream, Grade 12* (student book, Tamil) — Sri Lanka, Educational Publications Department; year 2015 (first print; print code 2014/T); no ISBN printed (EPD sales stock barcode only). 252 PDF pages. Verdict: COMPLETE (image-only Noolaham scan read via 100-DPI 4-up contact sheets; printed pages run to 242). Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The File tab — New, Open, Recent and what each does | Ethiopia, Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed pp. 121–122 |
@@ -31,8 +33,9 @@ countries: Ethiopia, Afghanistan, Iraq, Sudan, Egypt, Bhutan, Libya
 | Unit 4 Lesson 4 How Do I Prepare a Distinctive Presentation Using PowerPoint? | Egypt, *ICT, Grade 5 Term 2 (Arabic)*, printed p. 35 |
 | 7.3 Introduction to MS PowerPoint | Bhutan, *Literacy with ICT, Class VII*, printed p. 99 |
 | Ch 5, using multimedia in producing presentations: starting the PowerPoint program | Libya Grade 12 IT Humanities, printed p. 61 |
+| Ch.5 Opening/closing/creating a presentation in PowerPoint 2010 and Impress 4.1 (templates, Presentation Wizard) (filed as presentations/creating-a-new-presentation; stocked into this lesson as the closest existing lesson covering this thing) | Sri Lanka Grade 12 G12 Science for Technology ICT (Tamil), printed p. 198 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Afghanistan, Iraq, Sudan, Egypt, Bhutan, Libya).**
+**Acceptance count: taught in 8 countries (Ethiopia, Afghanistan, Iraq, Sudan, Egypt, Bhutan, Libya, Sri Lanka).**
 
 Afghanistan's own way (Grade 11): grade 11 is the health-and-PowerPoint year — a full chapter on computer health and strain-relief exercises, then Word finished off (Format, Insert, Edit) before a five-lesson PowerPoint block and a first step onto the Web.
 
@@ -50,4 +53,6 @@ Bhutan's own way (Class VII, Literacy with ICT student book): Social media is ta
 
 Libya's own way (Grade 12 Humanities, Information Technology student book): the Humanities final year pairs the social/legal side of ICT (data security, e-government, computer law and software licences) with a long multimedia-and-PowerPoint practical; the closing projects are Libyan — a deck about Libyan dishes and a deck about Libya's archaeological cities and landmarks.
 
-Searchable tags: PowerPoint, File tab, New, Open, Recent, blank presentation, Create, Ethiopia Grade 9, afghanistan, mauritania, grade 9, iraq, grade 10, sudan, grade 6, egypt, grade 5, bhutan, class vii, libya, grade 12 it humanities
+Sri Lanka's own way (Grade 12 Science for Technology, Tamil): the A/L technology-stream ICT volume teaches every office skill twice — once in Microsoft Office 2010 and once in LibreOffice (Writer/Calc/Impress 4.1) — and closes with creating a real Gmail account, mailbox folders, attachments and password safety; hardware goes down to cache levels L1/L2/L3, ROM types and file systems (FAT/NTFS/ext4).
+
+Searchable tags: PowerPoint, File tab, New, Open, Recent, blank presentation, Create, Ethiopia Grade 9, afghanistan, mauritania, grade 9, iraq, grade 10, sudan, grade 6, egypt, grade 5, bhutan, class vii, libya, grade 12 it humanities, sri lanka, grade 12 science for technology tamil

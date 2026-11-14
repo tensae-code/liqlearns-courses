@@ -1,6 +1,6 @@
 # Sources — Input devices — putting data in
 
-countries: Ethiopia, Tanzania, Yemen, North Macedonia, Iraq, Fiji, Bhutan, Mongolia
+countries: Ethiopia, Tanzania, Yemen, North Macedonia, Iraq, Fiji, Bhutan, Mongolia, Sri Lanka
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -22,6 +22,12 @@ countries: Ethiopia, Tanzania, Yemen, North Macedonia, Iraq, Fiji, Bhutan, Mongo
 
 **Book 10:** *Мэдээллийн технологи XI (Information Technology XI)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia (Боловсрол, Соёл, Шинжлэх Ухаан, Спортын Яам), Ulaanbaatar; year 2019 (2nd edition); ISBN 978-99978-61-84-9. 151 PDF pages (printed book 148 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page, in place from phase3-staging (the record size_bytes 85,065,156 does not match the file on disk, 76,263,379 bytes — see the placements file's log debt). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
 
+**Book 11:** *Information & Communication Technology — Reading Book, Grade 6* (student book, English) — Sri Lanka, Educational Publications Department; year 2019 (second print, first 2018); ISBN 978-955-25-0088-6. 108 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
+**Book 12:** *Information and Communication Technology — Reading Book, Grade 9* (student book, English) — Sri Lanka, Educational Publications Department; year 2019 (second print, first 2018); ISBN 978-955-25-0172-2. 111 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
+**Book 13:** *தொழில்நுட்பவியலிற்கான விஞ்ஞானம் — தகவல் மற்றும் தொடர்பாடல் தொழில்நுட்பவியல் (Science for Technology — Information and Communication Technology), G.C.E. Advanced Level technology stream, Grade 12* (student book, Tamil) — Sri Lanka, Educational Publications Department; year 2015 (first print; print code 2014/T); no ISBN printed (EPD sales stock barcode only). 252 PDF pages. Verdict: COMPLETE (image-only Noolaham scan read via 100-DPI 4-up contact sheets; printed pages run to 242). Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Input devices — putting data in | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 2, printed p. 16 |
@@ -34,8 +40,11 @@ countries: Ethiopia, Tanzania, Yemen, North Macedonia, Iraq, Fiji, Bhutan, Mongo
 | 1.2.1 Input Devices (keyboard, mouse, scanners, readers, light pen, stylus, cameras, microphones) | Fiji, *Computer Education, Year 11*, printed p. 9 |
 | 1.1 Peripheral input devices: scanner, webcam, microphone | Bhutan, *Literacy with ICT, Class V*, printed p. 2 |
 | 1.1.3 Input and output devices (output side: hardware/output-devices) (keyboard and mouse types, scanner and OCR, barcode/QR/OMR and magnetic-card readers, microphone and speech recognition, monitors CRT/LCD/LED/OLED, printers, projectors, speakers) | Mongolia Grade 11 IT XI, printed p. 23 |
+| Ch.1 Components: input devices | Sri Lanka Grade 6 G6 ICT Textbook, printed p. 5 |
+| Ch.1 Computer peripheral devices | Sri Lanka Grade 9 G9 ICT Textbook, printed p. 6 |
+| Ch.1 Input devices: keyboard special keys, mouse and its actions, trackball, MICR (filed as hardware/input-devices-and-what-each-one-does; stocked into this lesson as the closest existing lesson covering this thing) | Sri Lanka Grade 12 G12 Science for Technology ICT (Tamil), printed p. 3 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Tanzania, Yemen, North Macedonia, Iraq, Fiji, Bhutan, Mongolia).**
+**Acceptance count: taught in 9 countries (Ethiopia, Tanzania, Yemen, North Macedonia, Iraq, Fiji, Bhutan, Mongolia, Sri Lanka).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -55,4 +64,10 @@ Bhutan's own way (Class V, Literacy with ICT student book): Word is taught toget
 
 Mongolia's own way (Grade 11): a deep, engineering-style systems book (CPU registers, disk access-time calculations) that turns practical fast — pupils price up a computer from Mongolian web shops (pc-mall.mn, bsb.mn, itzone.mn); the web chapter builds a real "Our School" site and an "Animals of the Mongolian Red Book" page; programming is Microsoft Small Basic, and its loops-and-graphics work draws Mongolian ornament — the alkhan khee meander, the khaan buguivch knot and the ulzii endless knot — with code; the book closes by comparing every Small Basic construct with Python and C side by side.
 
-Searchable tags: input devices — putting data in, hardware, grade 7, information technology, ict, ethiopia, tanzania, yemen, grade 10, north macedonia, grade 10, saudi arabia, grade 4, iraq, grade 7, morocco, grade 1, fiji, year 11, bhutan, class v, mongolia, grade 11 it xi
+Sri Lanka's own way (Grade 6 Reading Book): a story/dialogue-led "Reading Book" with a talking computer character; every chapter cross-refers to numbered Workbook activities; local sectors (school office, ATM, ICU, factories, agriculture) and the 3R e-waste method are taught from Grade 6.
+
+Sri Lanka's own way (Grade 9 Reading Book): it opens with preparing a computer specification for a real buyer (user needs, peripherals, processor/HDD/monitor/VGA specs, after-sales service); microcontrollers are taught with BBC micro:bit and Arduino and local sensor examples (solar lamp, washing machine, microwave).
+
+Sri Lanka's own way (Grade 12 Science for Technology, Tamil): the A/L technology-stream ICT volume teaches every office skill twice — once in Microsoft Office 2010 and once in LibreOffice (Writer/Calc/Impress 4.1) — and closes with creating a real Gmail account, mailbox folders, attachments and password safety; hardware goes down to cache levels L1/L2/L3, ROM types and file systems (FAT/NTFS/ext4).
+
+Searchable tags: input devices — putting data in, hardware, grade 7, information technology, ict, ethiopia, tanzania, yemen, grade 10, north macedonia, grade 10, saudi arabia, grade 4, iraq, grade 7, morocco, grade 1, fiji, year 11, bhutan, class v, mongolia, grade 11 it xi, sri lanka, grade 6 reading book, sri lanka, grade 9 reading book, sri lanka, grade 12 science for technology tamil

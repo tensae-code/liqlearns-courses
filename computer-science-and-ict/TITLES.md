@@ -1105,3 +1105,11 @@ Grown by band E4 (Grade 11 depth added, not duplicated): `internet-and-the-web/i
 **Computers in Society** (ICT expansion, from Mongolia): Electronic Services — E-Government, E-Learning and E-Banking · ICT in Daily Life and at Work · Measuring a Country's ICT Development · Mongolia's ICT Development · Why Organisations Build Information Systems
 
 **New Technologies** (ICT expansion, from Mongolia): Biotechnology and Information Technology · Electronics — Development and Use · Nanotechnology — What It Is · The Fourth Industrial Revolution · Ubiquitous Computing — Computers Everywhere
+
+**First Steps** (ICT expansion, from Sri Lanka): Embedded Computers in Everyday Devices
+
+**Files and Folders** (ICT expansion, from Sri Lanka): File Systems — FAT, NTFS and ext
+
+**Computers in Society** (ICT expansion, from Sri Lanka): Buying a Computer and After-Sales Service
+
+**New Technologies** (ICT expansion, from Sri Lanka): Microcontrollers and Sensors — micro:bit and Arduino

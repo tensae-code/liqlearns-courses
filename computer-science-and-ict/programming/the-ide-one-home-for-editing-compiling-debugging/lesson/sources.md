@@ -1,6 +1,6 @@
 # Sources — The IDE — one home for editing, compiling, debugging
 
-countries: Ethiopia, North Macedonia, Uzbekistan, Fiji, Libya
+countries: Ethiopia, North Macedonia, Uzbekistan, Fiji, Libya, Sri Lanka
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, North Macedonia, Uzbekistan, Fiji, Libya
 
 **Book 7:** *تقنية المعلومات للسنة الثالثة بمرحلة التعليم الثانوي — القسم العلمي (Information Technology, third year of secondary = Grade 12, Science section)* (student book, Arabic) — Libya, Libya Ministry of Education, Centre for Educational Curricula and Research (مركز المناهج التعليمية والبحوث التربوية). Year 2019-2020 (1440-1441 AH); no ISBN printed. 124 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/libya-placements.md. Image-only PDF — read from rendered contents pages plus body spot-checks; printed p. = PDF p.
 
+**Book 8:** *தகவல் தொடர்பாடல் தொழில்நுட்பம் (Information and Communication Technology), Grade 11* (student book, Tamil) — Sri Lanka, Educational Publications Department; year 2010 (second print, first 2009); no ISBN printed. 268 PDF pages. Verdict: COMPLETE (image-only scan read via 100-DPI 4-up contact sheets; the TSV release record and the books.json record are the same book, cited once). Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | What an IDE is | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 6, printed pp. 218–220 |
@@ -26,8 +28,9 @@ countries: Ethiopia, North Macedonia, Uzbekistan, Fiji, Libya
 | 6.2 Installing C++ IDE | Fiji, *Computer Education, Year 13*, printed p. 128 |
 | Ch 5, running the Visual Basic environment and executing a simple program; writing the program | Libya Grade 11 IT student Term 1, printed p. 47 |
 | Ch 4, the Visual Basic interface: the toolbox and its tools on a form, the project explorer window, the form-layout window, the menu bar, the toolbar, the properties window, the form window | Libya Grade 12 IT Science, printed p. 47 |
+| Ch.1 Preparing programs in Visual Basic: the VB IDE (Form Design, Project Explorer, Properties, Tool Box, Form Layout, Main Menu) | Sri Lanka Grade 11 G11 ICT Textbook (Tamil), printed p. 12 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, North Macedonia, Uzbekistan, Fiji, Libya).**
+**Acceptance count: taught in 6 countries (Ethiopia, North Macedonia, Uzbekistan, Fiji, Libya, Sri Lanka).**
 
 North Macedonia's own way (Year 1): five themes move from modern digital technology and online living into a full structured-programming course taught in C++ (with Scratch/C++/Java/Python/PHP/Lisp compared), then advanced Word work (styles, contents, templates) and spreadsheets up to pivot tables.
 
@@ -42,4 +45,6 @@ Libya's own way (Grade 11 Term 1, Information Technology student book): a progra
 
 Libya's own way (Grade 12 Science, Information Technology student book): the Science section shares the Humanities book's first three chapters (security, e-government, computer law) word-for-structure, then diverges into a full second Visual Basic course — the VB environment and form controls, arrays, subroutines and built-in functions, and the remaining toolbox controls. Visual Basic is the Grade 12 programming language in both sections.
 
-Searchable tags: IDE, integrated development environment, code editor, compiler, interpreter, debugger, build automation, Grade 10 ICT Ethiopia, north macedonia, grade 10, uzbekistan, grade 9, fiji, year 12, year 13, libya, grade 11 it student term 1, grade 12 it science
+Sri Lanka's own way (Grade 11, Tamil): a full Visual Basic 6.0 programming course inside the O/L book (IDE, controls, data types, Select Case, arrays), an SDLC chapter, Photoshop-based multimedia, hand-coded HTML with Sri Lankan examples (the Sinharaja rainforest page, ucsc.cmb.ac.lk addresses, sltnet.lk domains), and sector chapters (agriculture, industry, government, commerce) before malware and health.
+
+Searchable tags: IDE, integrated development environment, code editor, compiler, interpreter, debugger, build automation, Grade 10 ICT Ethiopia, north macedonia, grade 10, uzbekistan, grade 9, fiji, year 12, year 13, libya, grade 11 it student term 1, grade 12 it science, sri lanka, grade 11 tamil

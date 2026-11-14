@@ -1,6 +1,6 @@
 # Sources — Application software — programs for particular jobs
 
-countries: Ethiopia, Tanzania, Yemen, Iraq, Sudan, Fiji, Libya, Mongolia
+countries: Ethiopia, Tanzania, Yemen, Iraq, Sudan, Fiji, Libya, Mongolia, Sri Lanka
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -26,6 +26,8 @@ countries: Ethiopia, Tanzania, Yemen, Iraq, Sudan, Fiji, Libya, Mongolia
 
 **Book 16:** *Мэдээллийн технологи VI (Information Technology VI)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture and Science of Mongolia (Боловсрол, соёл, шинжлэх ухааны яам), Ulaanbaatar; year 2015; ISBN 978-99962-74-19-0. 59 PDF pages (printed book 56 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
 
+**Book 17:** *Information & Communication Technology — Reading Book, Grade 6* (student book, English) — Sri Lanka, Educational Publications Department; year 2019 (second print, first 2018); ISBN 978-955-25-0088-6. 108 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Application software — made for a particular need; end-user software | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 3, printed pp.32–34 |
@@ -40,6 +42,7 @@ countries: Ethiopia, Tanzania, Yemen, Iraq, Sudan, Fiji, Libya, Mongolia
 | 2.2 Application Software | Fiji, *Computer Education, Year 11*, printed p. 49 |
 | Ch 6, interacting with the computer: special-purpose and general-purpose programs | Libya Grade 11 IT student Term 1, printed p. 63 |
 | 1.2.5 Simple application programs (Calculator, Media Player, Paint, games, Snipping Tool) | Mongolia Grade 6 IT VI, printed p. 20 |
+| Ch.4 Application software and its types (general / special purpose) | Sri Lanka Grade 6 G6 ICT Textbook, printed p. 41 |
 
 **Book 5:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page - 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -57,7 +60,7 @@ countries: Ethiopia, Tanzania, Yemen, Iraq, Sudan, Fiji, Libya, Mongolia
 | Unit 2, Topic Computer Aided Programs, Lesson 2: Produce graphical products (CAD software) (filed as multimedia/computer-aided-design-cad; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence) | Papua New Guinea, *PNG Grade 12 Computer Technology TG*, printed p. 61 (teacher guide — evidence) |
 | Unit 4 Lesson 1: Application software, general and special | Sudan, *ICT, Grade 6*, printed p. 32 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Tanzania, Yemen, Iraq, Sudan, Fiji, Libya, Mongolia).**
+**Acceptance count: taught in 9 countries (Ethiopia, Tanzania, Yemen, Iraq, Sudan, Fiji, Libya, Mongolia, Sri Lanka).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -81,4 +84,6 @@ Libya's own way (Grade 11 Term 1, Information Technology student book): a progra
 
 Mongolia's own way (Grade 6): ICT is built on Mongolian examples throughout — information and objects taught through the Mazaalai (Gobi bear), the ger (with a paper origami model), Mongolian pattern (khee) motifs and the national flag; touch typing is taught on the Mongolian Cyrillic keyboard layout with local tutor programs (MonTT, Fast type); web work uses Mongolian sites (surguuli.edu.mn, kids.gogo.mn, tsag-agaar.mn).
 
-Searchable tags: application software, single program, package, suite, Microsoft Office Suite, LibreOffice, desktop publishing, word processing, spreadsheet, database, graphics, presentation, Word, Excel, Access, AutoCAD, PowerPoint, photo editing, web browser, media player, flight simulator, traffic lights, ATM, Grade 7 ICT Ethiopia, Grade 8 ICT Ethiopia, tanzania, yemen, grade 10, iraq, grade 11, papua new guinea, grade 12, morocco, grade 1, sudan, grade 6, cuba, grade 2, fiji, year 11, libya, grade 11 it student term 1, mongolia, grade 6 it vi
+Sri Lanka's own way (Grade 6 Reading Book): a story/dialogue-led "Reading Book" with a talking computer character; every chapter cross-refers to numbered Workbook activities; local sectors (school office, ATM, ICU, factories, agriculture) and the 3R e-waste method are taught from Grade 6.
+
+Searchable tags: application software, single program, package, suite, Microsoft Office Suite, LibreOffice, desktop publishing, word processing, spreadsheet, database, graphics, presentation, Word, Excel, Access, AutoCAD, PowerPoint, photo editing, web browser, media player, flight simulator, traffic lights, ATM, Grade 7 ICT Ethiopia, Grade 8 ICT Ethiopia, tanzania, yemen, grade 10, iraq, grade 11, papua new guinea, grade 12, morocco, grade 1, sudan, grade 6, cuba, grade 2, fiji, year 11, libya, grade 11 it student term 1, mongolia, grade 6 it vi, sri lanka, grade 6 reading book

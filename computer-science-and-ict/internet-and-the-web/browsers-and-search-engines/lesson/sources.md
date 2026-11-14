@@ -1,6 +1,6 @@
 # Sources — Browsers and search engines
 
-countries: Ethiopia, Djibouti, Afghanistan, North Macedonia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Libya, Mongolia
+countries: Ethiopia, Djibouti, Afghanistan, North Macedonia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -36,6 +36,14 @@ countries: Ethiopia, Djibouti, Afghanistan, North Macedonia, Iraq, Sudan, Uzbeki
 
 **Book 17:** *Мэдээллийн технологи IX (Information Technology IX)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar; year 2019 (3rd edition; bibliographic entry УБ.2016); ISBN 978-99962-74-38-1. 75 PDF pages (printed book 72 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
 
+**Book 18:** *Information & Communication Technology — Reading Book, Grade 6* (student book, English) — Sri Lanka, Educational Publications Department; year 2019 (second print, first 2018); ISBN 978-955-25-0088-6. 108 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
+**Book 19:** *Information and Communication Technology — Workbook, Grade 6* (student book, English) — Sri Lanka, Educational Publications Department; year 2019 (second print, first 2018); ISBN 978-955-25-0090-9. 64 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
+**Book 20:** *Information and Communication Technology — Reading Book, Grade 8* (student book, English) — Sri Lanka, Educational Publications Department; year 2019 (second print, first 2018); ISBN 978-955-25-0142-5. 100 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
+**Book 21:** *Information and Communication Technology — Workbook, Grade 8* (student book, English) — Sri Lanka, Educational Publications Department; year 2019; ISBN 978-955-25-0144-9. 68 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Browser — exploring, locating, viewing, moving page to page | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 4, printed p.48 |
@@ -59,8 +67,12 @@ countries: Ethiopia, Djibouti, Afghanistan, North Macedonia, Iraq, Sudan, Uzbeki
 | Unit 2 Ch 3, search engines: searching with Google and the basics of Google search | Libya Grade 9 Computer, printed p. 98 |
 | Unit 2 Ch 3, advanced search methods in Google; file types | Libya Grade 9 Computer, printed p. 102 |
 | 2.4.3 The search system and how it works (crawler robot, index, query processor; exact-phrase, minus, OR, AND and wildcard searches) | Mongolia Grade 9 IT IX, printed p. 67 |
+| Ch.6 Search engines and effective search tips; educational websites | Sri Lanka Grade 6 G6 ICT Textbook, printed p. 68 |
+| Workbook Ch.6 Activities 6.1-6.2: internet information and communication exercises | Sri Lanka Grade 6 G6 ICT Workbook, printed p. 52 |
+| Ch.6 Internet: search engines and bookmarks/favourites | Sri Lanka Grade 8 G8 ICT Textbook, printed p. 63 |
+| Workbook Ch.6 Activities 6.1-6.3: internet exercises | Sri Lanka Grade 8 G8 ICT Workbook, printed p. 44 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Afghanistan, North Macedonia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Libya, Mongolia).**
+**Acceptance count: taught in 13 countries (Ethiopia, Afghanistan, North Macedonia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka).**
 
 Afghanistan's own way (Grade 11): grade 11 is the health-and-PowerPoint year — a full chapter on computer health and strain-relief exercises, then Word finished off (Format, Insert, Edit) before a five-lesson PowerPoint block and a first step onto the Web.
 
@@ -93,4 +105,12 @@ Libya's own way (Grade 9, Computer student book): the whole year is networks and
 
 Mongolia's own way (Grade 9): Grade 9 turns outward to society and real tools — the information society taught through Mongolia's own shift, open-source software through Soyombo Linux (Mongolia's own Linux) and Mongolian OpenOffice, copyright through Mongolia's 2006 copyright law; algorithms are drawn as flowcharts and run in Turtle Art; the long spreadsheet unit grades pupils with nested IFs, builds Fibonacci sequences, grows a 500,000-tögrög bank deposit, and charts the depth and area of Mongolia's great lakes (Khuvsgul, Uvs, Khar-Us); e-services are the real Mongolian ones — the ТҮЦ service kiosk, bookstore.mn and internet banking.
 
-Searchable tags: browser, search engine, Google, Yahoo, exploring the internet, Grade 7 ICT Ethiopia, djibouti, afghanistan, north macedonia, grade 10, mauritania, grade 7, mauritania, grade 8, iraq, grade 8, morocco, grade 2, sudan, grade 7, uzbekistan, grade 9, cuba, grade 6, egypt, grade 5, fiji, year 12, bhutan, class iv, class v, libya, grade 9 computer, mongolia, grade 9 it ix
+Sri Lanka's own way (Grade 6 Reading Book): a story/dialogue-led "Reading Book" with a talking computer character; every chapter cross-refers to numbered Workbook activities; local sectors (school office, ATM, ICU, factories, agriculture) and the 3R e-waste method are taught from Grade 6.
+
+Sri Lanka's own way (Grade 6 Workbook): a companion workbook whose numbered activities (1.1–6.2) are referenced activity-by-activity from the Reading Book; fill-in, labelling and categorising exercises rather than separate theory.
+
+Sri Lanka's own way (Grade 8 Reading Book): number systems and binary conversion open Grade 8; "physical computing" is logic gates taught through water-valve and street-lamp analogies; Scratch selection structures and mobile/smart-device apps sit in the Programming chapter.
+
+Sri Lanka's own way (Grade 8 Workbook): a companion workbook mirroring the Reading Book (Activities 1.1–6.3), with worked conversion drills for number systems.
+
+Searchable tags: browser, search engine, Google, Yahoo, exploring the internet, Grade 7 ICT Ethiopia, djibouti, afghanistan, north macedonia, grade 10, mauritania, grade 7, mauritania, grade 8, iraq, grade 8, morocco, grade 2, sudan, grade 7, uzbekistan, grade 9, cuba, grade 6, egypt, grade 5, fiji, year 12, bhutan, class iv, class v, libya, grade 9 computer, mongolia, grade 9 it ix, sri lanka, grade 6 reading book, sri lanka, grade 6 workbook, sri lanka, grade 8 reading book, sri lanka, grade 8 workbook

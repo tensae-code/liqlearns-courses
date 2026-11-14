@@ -1,6 +1,6 @@
 # Sources — How information systems change society — gains and problems
 
-countries: Ethiopia, Mozambique, Bulgaria, Afghanistan, Yemen, Iraq, Uzbekistan, Fiji, Malaysia
+countries: Ethiopia, Mozambique, Bulgaria, Afghanistan, Yemen, Iraq, Uzbekistan, Fiji, Malaysia, Sri Lanka
 
 **Book 1:** *Information Technology, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education / Hawassa University (with Addis Ababa University, Bahir Dar University and Jimma University thanked for development). Writers: Teshome Alemu Wedajo (MSc), Wendwesen Endale Workneh (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN printed. 210 PDF pages, 200 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -34,6 +34,16 @@ countries: Ethiopia, Mozambique, Bulgaria, Afghanistan, Yemen, Iraq, Uzbekistan,
 
 **Book 16:** *Sains Komputer Tingkatan 5* (student book, Bahasa Melayu) — Malaysia, Oxford Fajar Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2017; ISBN 978-983-47-2375-0. 372 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/malaysia-placements.md.
 
+**Book 17:** *Information & Communication Technology — Reading Book, Grade 6* (student book, English) — Sri Lanka, Educational Publications Department; year 2019 (second print, first 2018); ISBN 978-955-25-0088-6. 108 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
+**Book 18:** *Information and Communication Technology — Reading Book, Grade 9* (student book, English) — Sri Lanka, Educational Publications Department; year 2019 (second print, first 2018); ISBN 978-955-25-0172-2. 111 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
+**Book 19:** *Information and Communication Technology — Workbook, Grade 9* (student book, English) — Sri Lanka, Educational Publications Department; year 2019; ISBN 978-955-25-0174-6. 67 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
+**Book 20:** *Information and Communication Technology — Teachers' Guide, Grade 9 (Effective from 2018)* (teacher guide, English; parallel Sinhala and Tamil editions spot-checked) — Sri Lanka, National Institute of Education (Department of Information Technology); year 2018 (first print); no ISBN printed (blank on copyright page). 95 PDF pages (English edition; the parallel Sinhala edition has 112 and the Tamil edition 116 PDF pages). Verdict: COMPLETE (English read fully; Sinhala and Tamil are parallel editions of the same guide, spot-checked). Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md. (teacher guide — evidence)
+
+**Book 21:** *தகவல் தொடர்பாடல் தொழில்நுட்பம் (Information and Communication Technology), Grade 11* (student book, Tamil) — Sri Lanka, Educational Publications Department; year 2010 (second print, first 2009); no ISBN printed. 268 PDF pages. Verdict: COMPLETE (image-only scan read via 100-DPI 4-up contact sheets; the TSV release record and the books.json record are the same book, cited once). Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The good side first | Ethiopia, *Information Technology, Student Textbook, Grade 12*, Unit 1, printed pp. 5–6 (student placement item 7) |
@@ -53,8 +63,13 @@ countries: Ethiopia, Mozambique, Bulgaria, Afghanistan, Yemen, Iraq, Uzbekistan,
 | Unit 8.1 Computers in the workplace and society (computerisation of society) | Fiji, *Computer Education, Years 7–8* (PARTIAL — front matter missing), printed p. 204 |
 | 3.1 Computerization of Society | Fiji, *Computer Studies, Year 12*, printed p. 24 |
 | Bab 1 Pengkomputeran, 1.1 Kesan Inovasi dalam Pengkomputeran | Malaysia Grade 11 SK Tingkatan 5, printed p. 2 |
+| Ch.1 Applications in schools, banking, hospitals, factories, agriculture | Sri Lanka Grade 6 G6 ICT Textbook, printed p. 9 |
+| Ch.6 ICT and society: impact of ICT (education, e-health, commerce, public services, Sri Lanka map examples) | Sri Lanka Grade 9 G9 ICT Textbook, printed p. 75 |
+| Workbook Ch.6 ICT and Society exercises | Sri Lanka Grade 9 G9 ICT Workbook, printed p. 53 |
+| Competency 6.1: impact of ICT on society — office automation, e-learning, e-commerce/m-commerce, e-health, e-government, digital divide, safe e-waste disposal (teacher guide — evidence) | Sri Lanka Grade 9 G9 ICT Teacher Guide (NIE 2018), printed p. 80 (teacher guide — evidence) |
+| Ch.6 ICT and society: internet in commerce, government, home service, mobile communication, information, health care, education (sector diagram) | Sri Lanka Grade 11 G11 ICT Textbook (Tamil), printed p. 232 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Mozambique, Bulgaria, Afghanistan, Yemen, Iraq, Uzbekistan, Fiji, Malaysia).**
+**Acceptance count: taught in 10 countries (Ethiopia, Mozambique, Bulgaria, Afghanistan, Yemen, Iraq, Uzbekistan, Fiji, Malaysia, Sri Lanka).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -83,4 +98,14 @@ Fiji's own way (Year 12 Computer Studies student book): Written locally by the s
 
 Malaysia's own way (Grade 11, SK Tingkatan 5): the final-year elective is exam-level computer science — computer architecture (fetch-decode-execute, Von Neumann, pipelining) and logic gates with Boolean expressions, a 57-page advanced SQL chapter that starts from ERD and normalisation, and a full web-programming chapter pair: client-side JavaScript (including sorting/searching, standard library, arrays) and server-side PHP working with text files, validation, queries, sign-up/login, ending in an interactive website build.
 
-Searchable tags: social issues, digital divide, social gains, unmanaged time, anonymity, Ethiopia Grade 12 IT, mozambique, bulgaria, afghanistan, yemen, grade 10, grade 11, iraq, grade 7, papua new guinea, grade 9, papua new guinea, grade 12, uzbekistan, grade 8, fiji, years 7-8, year 12, malaysia, grade 11 sk tingkatan 5
+Sri Lanka's own way (Grade 6 Reading Book): a story/dialogue-led "Reading Book" with a talking computer character; every chapter cross-refers to numbered Workbook activities; local sectors (school office, ATM, ICU, factories, agriculture) and the 3R e-waste method are taught from Grade 6.
+
+Sri Lanka's own way (Grade 9 Reading Book): it opens with preparing a computer specification for a real buyer (user needs, peripherals, processor/HDD/monitor/VGA specs, after-sales service); microcontrollers are taught with BBC micro:bit and Arduino and local sensor examples (solar lamp, washing machine, microwave).
+
+Sri Lanka's own way (Grade 9 Workbook): a companion workbook mirroring the Reading Book chapter-for-chapter.
+
+Sri Lanka's own way (Grade 9 Teachers' Guide): a competency-based NIE guide (6 competencies, 30 periods) that unpacks the student book with CPU internal detail (input unit, ALU, memory unit, control unit, output unit), spreadsheet charts and sorting, and a named careers list (Software QA Engineer, Database Administrator, Software Architect, System Analyst, Web Application Developer, Graphic Designer). (teacher guide — evidence)
+
+Sri Lanka's own way (Grade 11, Tamil): a full Visual Basic 6.0 programming course inside the O/L book (IDE, controls, data types, Select Case, arrays), an SDLC chapter, Photoshop-based multimedia, hand-coded HTML with Sri Lankan examples (the Sinharaja rainforest page, ucsc.cmb.ac.lk addresses, sltnet.lk domains), and sector chapters (agriculture, industry, government, commerce) before malware and health.
+
+Searchable tags: social issues, digital divide, social gains, unmanaged time, anonymity, Ethiopia Grade 12 IT, mozambique, bulgaria, afghanistan, yemen, grade 10, grade 11, iraq, grade 7, papua new guinea, grade 9, papua new guinea, grade 12, uzbekistan, grade 8, fiji, years 7-8, year 12, malaysia, grade 11 sk tingkatan 5, sri lanka, grade 6 reading book, sri lanka, grade 9 reading book, sri lanka, grade 9 workbook, sri lanka, grade 9 teachers guide, sri lanka, grade 11 tamil

@@ -1,6 +1,6 @@
 # Sources — Units of data storage — bit, byte, KB, MB, GB, TB
 
-countries: Ethiopia, Uganda, Uzbekistan, Cuba, Egypt, Bhutan, Malaysia, Mongolia
+countries: Ethiopia, Uganda, Uzbekistan, Cuba, Egypt, Bhutan, Malaysia, Mongolia, Sri Lanka
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Uganda, Uzbekistan, Cuba, Egypt, Bhutan, Malaysia, Mongolia
 
 **Book 9:** *Мэдээллийн технологи VII (Information Technology VII)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar; year 2019 (3rd edition; bibliographic entry УБ.2015); ISBN 978-99962-74-24-4. 75 PDF pages (printed book 72 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
 
+**Book 10:** *Information and Communication Technology — Reading Book, Grade 8* (student book, English) — Sri Lanka, Educational Publications Department; year 2019 (second print, first 2018); ISBN 978-955-25-0142-5. 100 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Units of data storage — bit, byte, KB, MB, GB, TB | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 2, printed p. 27 |
@@ -31,8 +33,9 @@ countries: Ethiopia, Uganda, Uzbekistan, Cuba, Egypt, Bhutan, Malaysia, Mongolia
 | 1.1 Bits, bytes and storage units (KB, MB, GB, TB) | Bhutan, *Literacy with ICT, Class VIII*, printed p. 2 |
 | 2.2.6 Penukaran Saiz Data dari Bit ke Bait, Kilobait, Megabait, Gigabait dan Terabait | Malaysia Grade 7 ASK Tingkatan 1, printed p. 60 |
 | 1.1.6 Units for measuring information (bit, byte, kilobyte, megabyte, gigabyte, terabyte; working out the size of a text) | Mongolia Grade 7 IT VII, printed p. 13 |
+| Ch.1 Number systems on computers (bits, capacities) | Sri Lanka Grade 8 G8 ICT Textbook, printed p. 9 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Uganda, Uzbekistan, Cuba, Egypt, Bhutan, Malaysia, Mongolia).**
+**Acceptance count: taught in 9 countries (Ethiopia, Uganda, Uzbekistan, Cuba, Egypt, Bhutan, Malaysia, Mongolia, Sri Lanka).**
 
 No book error touches this lesson's content.
 
@@ -49,4 +52,6 @@ Malaysia's own way (Grade 7, ASK Tingkatan 1): the KSSM Asas Sains Komputer (ASK
 
 Mongolia's own way (Grade 7): the whole applications half is one long project — research and produce a printed booklet "Усаа хайрлая" (Cherish the Water) in Word, a Paint.NET layered picture, and a class PowerPoint; image work uses the free Paint.NET (downloaded from getpaint.net) rather than MS Paint; the e-communication chapter teaches Yahoo mail and Yahoo Messenger, Mongolian history of the örtöö relay post and the @ sign, and makes correct Latin transliteration of Mongolian Cyrillic (standard MNS 5217:2003) an ethics topic in its own right.
 
-Searchable tags: units of data storage — bit, byte, kb, mb, gb, tb, hardware, grade 7, information technology, ict, ethiopia, uganda, uzbekistan, grade 8, cuba, grade 7, egypt, grade 10, bhutan, class viii, malaysia, grade 7 ask tingkatan 1, mongolia, grade 7 it vii
+Sri Lanka's own way (Grade 8 Reading Book): number systems and binary conversion open Grade 8; "physical computing" is logic gates taught through water-valve and street-lamp analogies; Scratch selection structures and mobile/smart-device apps sit in the Programming chapter.
+
+Searchable tags: units of data storage — bit, byte, kb, mb, gb, tb, hardware, grade 7, information technology, ict, ethiopia, uganda, uzbekistan, grade 8, cuba, grade 7, egypt, grade 10, bhutan, class viii, malaysia, grade 7 ask tingkatan 1, mongolia, grade 7 it vii, sri lanka, grade 8 reading book

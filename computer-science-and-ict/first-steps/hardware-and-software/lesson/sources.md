@@ -1,6 +1,6 @@
 # Sources — Hardware and software — the two parts of a computer system
 
-countries: Ethiopia, Iraq, Cuba, Fiji, Bhutan
+countries: Ethiopia, Iraq, Cuba, Fiji, Bhutan, Sri Lanka
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Iraq, Cuba, Fiji, Bhutan
 
 **Book 6:** *Literacy with ICT — A Textbook for Class 5* (title page: Class V) (student book, English, with Dzongkha typing chapter) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019 (copyright 2016). ISBN 978-99936-0-429-7. 110 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
 
+**Book 7:** *Information & Communication Technology — Reading Book, Grade 6* (student book, English) — Sri Lanka, Educational Publications Department; year 2019 (second print, first 2018); ISBN 978-955-25-0088-6. 108 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Hardware and software — the two parts of a computer system | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 1, printed p. 11 |
@@ -22,8 +24,9 @@ countries: Ethiopia, Iraq, Cuba, Fiji, Bhutan
 | Capítulo 1.2 Hardware y Software de un sistema informático | Cuba, *Informática, Grade 7*, printed p. 25 |
 | 1.1 A computer system is hardware plus software | Fiji, *Computer Education, Year 11*, printed p. 7 |
 | 1.1 Computer Hardware (hardware and software together) | Bhutan, *Literacy with ICT, Class V*, printed p. 2 |
+| Ch.1 Importance of software; hardware vs software, user | Sri Lanka Grade 6 G6 ICT Textbook, printed p. 8 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Iraq, Cuba, Fiji, Bhutan).**
+**Acceptance count: taught in 6 countries (Ethiopia, Iraq, Cuba, Fiji, Bhutan, Sri Lanka).**
 
 No book error touches this lesson's content.
 
@@ -37,4 +40,6 @@ Fiji's own way (Year 11 Computer Education student book): The first locally writ
 
 Bhutan's own way (Class V, Literacy with ICT student book): Word is taught together with typing in Dzongkha, the national language (Dzongkha keyboard software and fonts); communication is taught on the school LAN with Qualia LAN Messenger (chat, file sharing and broadcast with no Internet connection), and the end-of-year folder is sent to the teacher as a LAN-messenger attachment.
 
-Searchable tags: hardware and software — the two parts of a computer system, first steps, grade 7, information technology, ict, ethiopia, iraq, grade 7, papua new guinea, grade 9, cuba, grade 7, fiji, year 11, bhutan, class v
+Sri Lanka's own way (Grade 6 Reading Book): a story/dialogue-led "Reading Book" with a talking computer character; every chapter cross-refers to numbered Workbook activities; local sectors (school office, ATM, ICU, factories, agriculture) and the 3R e-waste method are taught from Grade 6.
+
+Searchable tags: hardware and software — the two parts of a computer system, first steps, grade 7, information technology, ict, ethiopia, iraq, grade 7, papua new guinea, grade 9, cuba, grade 7, fiji, year 11, bhutan, class v, sri lanka, grade 6 reading book

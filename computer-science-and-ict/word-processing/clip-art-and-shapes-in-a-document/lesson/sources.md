@@ -1,6 +1,6 @@
 # Sources — Clip art and shapes in a document
 
-countries: Ethiopia, Uganda, Yemen, Sudan, Uzbekistan, Cuba, Bhutan
+countries: Ethiopia, Uganda, Yemen, Sudan, Uzbekistan, Cuba, Bhutan, Sri Lanka
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Uganda, Yemen, Sudan, Uzbekistan, Cuba, Bhutan
 
 **Book 10:** *Literacy with ICT — A Textbook for Class VI* (student book, English) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019 (copyright 2016). ISBN 978-99936-0-428-0 as printed (note: the same ISBN is printed in the Class IV book — the duplication is carried exactly as printed, never "corrected"). 151 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
 
+**Book 11:** *Information and Communication Technology — Reading Book, Grade 8* (student book, English) — Sri Lanka, Educational Publications Department; year 2019 (second print, first 2018); ISBN 978-955-25-0142-5. 100 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — clip art defined; Insert → Clip Art, search a category, double-click; Insert Online Pictures filtered to clip art | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 3, printed pp. 95–97 |
@@ -40,8 +42,9 @@ countries: Ethiopia, Uganda, Yemen, Sudan, Uzbekistan, Cuba, Bhutan
 | Capítulo 2.2 Empleo de símbolos del procesador de textos | Cuba, *Mi Mundo Digital, Grade 5*, printed p. 46 |
 | 2.5 Inserting Clip Art | Bhutan, *Literacy with ICT, Class VI*, printed p. 36 |
 | 2.7 Inserting Shapes | Bhutan, *Literacy with ICT, Class VI*, printed p. 38 |
+| Ch.3 Pictures, tables, shapes, text boxes, Clip Art and Word Art | Sri Lanka Grade 8 G8 ICT Textbook, printed p. 36 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Uganda, Yemen, Sudan, Uzbekistan, Cuba, Bhutan).**
+**Acceptance count: taught in 8 countries (Ethiopia, Uganda, Yemen, Sudan, Uzbekistan, Cuba, Bhutan, Sri Lanka).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -58,4 +61,6 @@ Cuba's own way (Grade 5): Student text mirrors the programme in four chapters; w
 
 Bhutan's own way (Class VI, Literacy with ICT student book): School computing runs on Google's G Suite for Education — email is Gmail on the school account, collaboration is Google Classroom, and the end-of-year food-chain project is agreed in Classroom, built in Word, password-protected, cited, filed in folders and reported to the teacher by email.
 
-Searchable tags: clip art, Insert Online Pictures, shapes, Shift perfect shape, Lock Drawing Mode, Eagle practical, Ethiopia Grade 10, uganda, yemen, sudan, grade 5, uzbekistan, grade 6, grade 8, cuba, grade 5, bhutan, class vi
+Sri Lanka's own way (Grade 8 Reading Book): number systems and binary conversion open Grade 8; "physical computing" is logic gates taught through water-valve and street-lamp analogies; Scratch selection structures and mobile/smart-device apps sit in the Programming chapter.
+
+Searchable tags: clip art, Insert Online Pictures, shapes, Shift perfect shape, Lock Drawing Mode, Eagle practical, Ethiopia Grade 10, uganda, yemen, sudan, grade 5, uzbekistan, grade 6, grade 8, cuba, grade 5, bhutan, class vi, sri lanka, grade 8 reading book
