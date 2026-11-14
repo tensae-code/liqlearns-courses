@@ -1,6 +1,6 @@
 # Sources — Grouping animals: by young, by movement, by food and by body
 
-countries: Ethiopia, Sweden, Nauru, Tuvalu, Niue, Albania (teacher-guide evidence only), Guyana, Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Pakistan (Punjab), Samoa, Egypt, Cambodia, Seychelles, Ecuador, Sudan, Venezuela, Mauritania, Angola, Bhutan, Dominican Republic, Kuwait, Syria, Laos, Sri Lanka, Rwanda, North Macedonia, Bangladesh, Fiji (teacher-guide evidence only), Yemen, Saudi Arabia, Vietnam, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), South Sudan, Iraq, El Salvador, Colombia, Nepal, Papua New Guinea
+countries: Ethiopia, Sweden, Nauru, Tuvalu, Niue, Albania (teacher-guide evidence only), Guyana, Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Pakistan (Punjab), Samoa, Egypt, Cambodia, Seychelles, Ecuador, Sudan, Venezuela, Mauritania, Angola, Bhutan, Dominican Republic, Kuwait, Syria, Laos, Sri Lanka, Rwanda, North Macedonia, Bangladesh, Fiji (teacher-guide evidence only), Yemen, Saudi Arabia, Vietnam, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), South Sudan, Iraq, El Salvador, Colombia, Nepal, Papua New Guinea, Libya
 
 **Book 2:** *Grade 1 Environmental Science Teacher Guide* (አካባቢ ሳይንስ አንድኛ ክፍል የመምህር መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. TRUNCATED scan: the file holds printed pp. 1–54 (Units 1–3 complete); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-teacher-placements.md.
 
@@ -860,3 +860,24 @@ Guide evidence: the rows below are cited as the evidence they are. Teacher guide
 **Acceptance count: taught in 36 countries — Papua New Guinea added.** Papua New Guinea counts through its student books above; its teacher guides/manuals in this section are guide evidence only, counted nowhere beyond that one count.
 
 Papua New Guinea's own way — its Department of Education National Science Textbooks and teacher guides/manuals (JICA QUIS-ME and Standards Based series) teaching this thing in the order and at the places named in the rows above, with Papua New Guinea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+
+## Libya growth (2026-11-14, General Science expansion)
+
+**Book (Libya — Science, Grade 3, Student Book Part 1 (Libya)):** Title as printed: العلوم للصف الثالث من مرحلة التعليم الأساسي — الجزء الأول (Science for the Third Grade of Basic Education, Part 1) Grade / kind: Grade 3, student book, Part 1 of 2 Publisher: State of Libya, Ministry of Education, Centre for Educational Curricula and Educational Research (مركز المناهج التعليمية والبحوث التربوية), school year 2019–2020 / 1440–1441 H as printed on the imprint page; no ISBN printed PDF pages: 83 (printed pages to 72, then notes pages). Size 10,509,079 bytes via release mid-size-books-3 — matches the books.json twin record (grade-03/gov/libya/science/student-book-part-1.pdf); same book, cited once here. Verdict: COMPLETE. One topic (Topic 1: Diversity / التنوع) in 6 lessons, each closed by a summary board. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Classifying animals: groups share special features (hair + bearing young; feathers + laying eggs) — scientists group animals as mammals, birds, fish, insects and more (Libya, G3 SB Pt1) | Libya, *Science, Grade 3, Student Book Part 1*, printed p. 42 |
+
+**Book (Libya — Science, Grade 3, Teacher Guide (Libya)):** Title as printed: دليل المعلم — العلوم للصف الثالث من مرحلة التعليم الأساسي (teacher guide to the "Science Friends!" programme, يحبون العلوم الأصدقاء!) Grade / kind: Grade 3, teacher guide (covers both student-book parts) Publisher: State of Libya, Ministry of Education, Centre for Educational Curricula and Educational Research (مركز المناهج التعليمية والبحوث التربوية), school year 2018–2019 / 1439–1440 H as printed on the guide's own title page (the student books print 2019–2020); no ISBN printed PDF pages: 239. Size 43,317,683 bytes via release mid-size-books-3. Verdict: COMPLETE. The PDF has no text layer, so it was read in full from 100-DPI page renders: scheme of work (printed pp. 1–31), lesson plans with teacher background notes (printed pp. 32–192), overhead-transparency and coloured-slide masters (printed pp. 193–229), then blank trailing pages. Every placement below is guide evidence — extra teaching content the guide adds; the student-book content itself is already placed under Books 1 and 3 and is not re-placed here. Every placement from this book is guide evidence — extra teaching content the guide adds — cited as the evidence it is, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| (guide evidence) The scientists' first split of the animal kingdom: vertebrates, which have a backbone, and invertebrates, which have none; the vertebrates are then split into smaller groups by their shared features (Libya, G3 TG) | Libya, *Science, Grade 3, Teacher Guide*, printed p. 65 |
+
+**Acceptance count: taught in 37 countries — Libya added.** Libya's Grade 3 teacher-guide rows in this section are guide evidence only, counted nowhere beyond that one count.
+
+Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: libya, libya science, centre for educational curricula and educational research, animals grouping-animals

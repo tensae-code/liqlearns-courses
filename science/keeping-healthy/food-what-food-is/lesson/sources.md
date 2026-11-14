@@ -1,6 +1,6 @@
 # Sources — Food — what food is
 
-countries: Ethiopia, Cook Islands, Canada (teacher-guide evidence only), India, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Cambodia, Ecuador, Afghanistan, Sudan, Mauritania, Angola, Bhutan, Kuwait, Syria, Laos, Eritrea, Sri Lanka, Zimbabwe (teacher-guide evidence only), Indonesia, Yemen, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), South Sudan (teacher-guide evidence only), El Salvador, Colombia, Nepal
+countries: Ethiopia, Cook Islands, Canada (teacher-guide evidence only), India, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Cambodia, Ecuador, Afghanistan, Sudan, Mauritania, Angola, Bhutan, Kuwait, Syria, Laos, Eritrea, Sri Lanka, Zimbabwe (teacher-guide evidence only), Indonesia, Yemen, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), South Sudan (teacher-guide evidence only), El Salvador, Colombia, Nepal, Libya
 
 **Book 1:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -464,3 +464,18 @@ Searchable tags: colombia, colombia science, ciencias naturales, ministerio de e
 Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nepal, curriculum development centre, keeping-healthy/food-what-food-is
+
+
+## Libya growth (2026-11-14, General Science expansion)
+
+**Book (Libya — Science, Grade 5, Student Book, Term 1 (Libya)):** Title as printed: العلوم للصف الخامس من مرحلة التعليم الأساسي — الفصل الدراسي الأول (Science for the Fifth Grade of Basic Education, First Term) Grade / kind: Grade 5, student book, Term 1 Publisher: State of Libya, Ministry of Education, Centre for Educational Curricula and Educational Research (مركز المناهج التعليمية والبحوث التربوية), school year 2019–2020 / 1440–1441 H as printed; no ISBN printed PDF pages: 81 (printed pages to 72, then notes pages). Printed page = PDF page − 8. Size 8,878,569 bytes via release mid-size-books-3 — the books.json twin record (grade-05/gov/libya/science/student-book-term-1.pdf) is the same book, cited once here. Verdict: COMPLETE. The text layer is sparse (most pages image-only), so it was read in full from 100-DPI page renders. Topic 1 الدورات (Cycles), lessons 1–5, then Topic 2 الطاقة (Energy), lessons 6–7. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Topic 2, Energy — opener: what happens when you are hungry? You feel weak and tired; hunger tells you your body needs food to supply it with energy; all living things need energy to stay alive and need food to supply that energy — plants make their own food; animals and fungi get their energy from plants and from other living things; the food you eat contains energy, and this energy is used in doing the different systems' jobs in your body properly (Libya, G5 SB T1) | Libya, *Science, Grade 5, Student Book, Term 1*, printed p. 58 |
+
+**Acceptance count: taught in 23 countries — Libya added.**
+
+Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: libya, libya science, centre for educational curricula and educational research, keeping-healthy food-what-food-is

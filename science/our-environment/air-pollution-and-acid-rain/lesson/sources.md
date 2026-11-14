@@ -1,6 +1,6 @@
 # Sources — Air pollution and acid rain
 
-countries: Ethiopia, Nauru, Tuvalu, Niue, Pakistan (Punjab), Samoa, Cambodia, Rwanda, North Macedonia, Indonesia, Bangladesh, Fiji, Yemen, Saudi Arabia, Nicaragua, Malaysia, El Salvador, Nepal, Papua New Guinea (teacher-guide evidence only)
+countries: Ethiopia, Nauru, Tuvalu, Niue, Pakistan (Punjab), Samoa, Cambodia, Rwanda, North Macedonia, Indonesia, Bangladesh, Fiji, Yemen, Saudi Arabia, Nicaragua, Malaysia, El Salvador, Nepal, Papua New Guinea (teacher-guide evidence only), Libya
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -288,3 +288,18 @@ Guide evidence: the rows below are cited as the evidence they are. Teacher guide
 **Acceptance count: taught in 18 countries — unchanged: Papua New Guinea's rows above are guide evidence only, named here, counted nowhere.**
 
 Papua New Guinea's own way — its Department of Education National Science Textbooks and teacher guides/manuals (JICA QUIS-ME and Standards Based series) teaching this thing in the order and at the places named in the rows above, with Papua New Guinea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+
+## Libya growth (2026-11-14, General Science expansion)
+
+**Book (Libya — Science, Grade 6, Student Book, Term 2 (Libya)):** Title as printed: العلوم للصف السادس من مرحلة التعليم الأساسي — الفصل الدراسي الثاني (Science for the Sixth Grade of Basic Education — Second Term) Grade / type: Grade 6, Student Book, Term 2 Publisher: State of Libya, Ministry of Education, Centre for Educational Curricula and Educational Research, Libya; school year 2019–2020 / 1440–1441 H (copyright page); no ISBN printed PDF pages: 104 (12,047,196 bytes, fetched from the GitHub repo tree at grade-06/gov/libya/science/student-book-term-2.pdf). Printed page = PDF page − 7; printed numbering runs to p. 96, followed by notes pages. The book's text layer is too garbled to read reliably, so the book was read in full from 100-DPI page renders; renders deleted after filing. Verdict: COMPLETE. Topic 3 التفاعلات (Interactions): Lesson 5 القوى Forces (printed p. 2), Lesson 6 الحياة معاً Living Together (p. 24), Lesson 7 خواص البيئة Properties of the Environment (p. 40), Lesson 8 السلاسل الغذائية والشبكات الغذائية Food Chains and Food Webs (p. 54), Lesson 9 تأثيرنا على البيئة Our Effect on the Environment (p. 69). The TSV twin record is the same book; its content is cited once, here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Acid rain (المطر الحمضي) and smoke: the smoke rising from factories and vehicles contains harmful chemicals; some of these dissolve in rain water to form weak acids, called acid rain; an acid is a chemical with a sour taste that can react with other materials (acids occur in fruits such as oranges and lemons, and in drinks such as tea); acid rain can react with trees and materials — it erodes materials such as the stone of old buildings and statues (تمثال تالف بسبب المطر الحمضي), can be very harmful to living creatures, kills trees, and when it reaches rivers and lakes can kill the creatures living in the water and pollute water sources; smoke: the air we breathe may look clean but that does not mean it is free of pollutants — it may contain dust, dirt and harmful chemical fumes and gases we cannot see; most of these pollutants come from factories, machines and vehicles, and burning oil, coal and wood; smoke can irritate the eyes and damage our breathing system, cigarette smoke contains many harmful materials and harms the health of smokers and non-smokers alike, and smoky fog (الضباب الدخاني) forms when plant material burns; sidebar: smoking is banned in all public places in Libya, especially air-conditioned places (Libya, G6 SB T2) | Libya, *Science, Grade 6, Student Book, Term 2*, printed pp. 85–86 |
+
+**Acceptance count: taught in 19 countries — Libya added.**
+
+Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: libya, libya science, centre for educational curricula and educational research, our-environment air-pollution-and-acid-rain

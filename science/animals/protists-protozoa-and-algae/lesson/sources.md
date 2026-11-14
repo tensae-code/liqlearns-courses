@@ -1,6 +1,6 @@
 # Sources — Protists — protozoa and algae under the microscope
 
-countries: Ethiopia, Uganda, Kuwait, Yemen, Nicaragua, Malaysia, Iraq, Colombia, Nepal
+countries: Ethiopia, Uganda, Kuwait, Yemen, Nicaragua, Malaysia, Iraq, Colombia, Nepal, Libya
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -161,3 +161,24 @@ Searchable tags: colombia, colombia science, ciencias naturales, ministerio de e
 Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nepal, curriculum development centre, animals/protists-protozoa-and-algae
+
+
+## Libya growth (2026-11-14, General Science expansion)
+
+**Book (Libya — Science, Grade 3, Student Book Part 1 (Libya)):** Title as printed: العلوم للصف الثالث من مرحلة التعليم الأساسي — الجزء الأول (Science for the Third Grade of Basic Education, Part 1) Grade / kind: Grade 3, student book, Part 1 of 2 Publisher: State of Libya, Ministry of Education, Centre for Educational Curricula and Educational Research (مركز المناهج التعليمية والبحوث التربوية), school year 2019–2020 / 1440–1441 H as printed on the imprint page; no ISBN printed PDF pages: 83 (printed pages to 72, then notes pages). Size 10,509,079 bytes via release mid-size-books-3 — matches the books.json twin record (grade-03/gov/libya/science/student-book-part-1.pdf); same book, cited once here. Verdict: COMPLETE. One topic (Topic 1: Diversity / التنوع) in 6 lessons, each closed by a summary board. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Microorganisms introduced as living things too small to see unaided, some animal-like and some plant-like (Libya, G3 SB Pt1) | Libya, *Science, Grade 3, Student Book Part 1*, printed p. 17 |
+
+**Book (Libya — Science, Grade 5, Student Book, Term 1 (Libya)):** Title as printed: العلوم للصف الخامس من مرحلة التعليم الأساسي — الفصل الدراسي الأول (Science for the Fifth Grade of Basic Education, First Term) Grade / kind: Grade 5, student book, Term 1 Publisher: State of Libya, Ministry of Education, Centre for Educational Curricula and Educational Research (مركز المناهج التعليمية والبحوث التربوية), school year 2019–2020 / 1440–1441 H as printed; no ISBN printed PDF pages: 81 (printed pages to 72, then notes pages). Printed page = PDF page − 8. Size 8,878,569 bytes via release mid-size-books-3 — the books.json twin record (grade-05/gov/libya/science/student-book-term-1.pdf) is the same book, cited once here. Verdict: COMPLETE. The text layer is sparse (most pages image-only), so it was read in full from 100-DPI page renders. Topic 1 الدورات (Cycles), lessons 1–5, then Topic 2 الطاقة (Energy), lessons 6–7. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Some living things are made of fewer cells (pond algae, lichens on rocks, sea anemones), and some living things are made of a single cell only — bacteria, yeast and paramecium — called single-celled living things, seen only under the microscope (Libya, G5 SB T1) | Libya, *Science, Grade 5, Student Book, Term 1*, printed p. 21 |
+
+**Acceptance count: taught in 10 countries — Libya added.**
+
+Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: libya, libya science, centre for educational curricula and educational research, animals protists-protozoa-and-algae

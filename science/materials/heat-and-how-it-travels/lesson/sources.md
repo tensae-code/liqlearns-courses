@@ -1,6 +1,6 @@
 # Sources — Heat and how it travels
 
-countries: Ethiopia, Australia, India, Gabon (teacher-guide evidence only), United States, Cuba, Egypt, Cambodia, Seychelles, Ecuador, Sudan, Venezuela, Angola, Dominican Republic, Kuwait, Laos, Eritrea, Sri Lanka, North Macedonia, Bangladesh, Yemen, Saudi Arabia, Vietnam, Malaysia, South Sudan, Iraq, Colombia, Nepal, Papua New Guinea
+countries: Ethiopia, Australia, India, Gabon (teacher-guide evidence only), United States, Cuba, Egypt, Cambodia, Seychelles, Ecuador, Sudan, Venezuela, Angola, Dominican Republic, Kuwait, Laos, Eritrea, Sri Lanka, North Macedonia, Bangladesh, Yemen, Saudi Arabia, Vietnam, Malaysia, South Sudan, Iraq, Colombia, Nepal, Papua New Guinea, Libya
 
 **Book 12:** *Environmental Science Student Textbook, Grade 6* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Mulugeta Awayehu (MA, Assoc. Prof.), Belete Kebede (MSc), Melese Sinu (MSc), Minilk Belay (MSc), Neqiqneh Zewdie (MSc). COMPLETE: 177 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g06-student-placements.md.
 
@@ -473,3 +473,27 @@ Guide evidence: the rows below are cited as the evidence they are. Teacher guide
 **Acceptance count: taught in 28 countries — Papua New Guinea added.** Papua New Guinea counts through its student books above; its teacher guides/manuals in this section are guide evidence only, counted nowhere beyond that one count.
 
 Papua New Guinea's own way — its Department of Education National Science Textbooks and teacher guides/manuals (JICA QUIS-ME and Standards Based series) teaching this thing in the order and at the places named in the rows above, with Papua New Guinea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+
+## Libya growth (2026-11-14, General Science expansion)
+
+**Book (Libya — Science, Grade 4, Student Book, Term 2 (Libya)):** Title as printed: العلوم للصف الرابع من مرحلة التعليم الأساسي — الفصل الدراسي الثاني, holding the rest of Topic 2 الأجهزة (Systems) and Topic 3 الطاقة (Energy) Grade / kind: Grade 4, student book, Term 2 Publisher: State of Libya, Ministry of Education, Centre for Educational Curricula and Educational Research (مركز المناهج التعليمية والبحوث التربوية), school year 2019–2020 / 1440–1441 H; no ISBN printed PDF pages: 72. Size 7,160,654 bytes via release mid-size-books-3 — the books.json twin record (grade-04/gov/libya/science/student-book-term-2.pdf) is the same book, cited once here. Verdict: COMPLETE. Read in full from 100-DPI page renders (most pages are image-only); the book ends with blank notes pages. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Heat is a form of energy and the sun is its main source: the sun's heat keeps the Earth and its creatures warm — the side facing the sun is day and warm, and at night the ground keeps some of the day's heat so living things do not freeze; animals and plants also produce their own heat to feel warm (Libya, G4 SB T2) | Libya, *Science, Grade 4, Student Book, Term 2*, printed p. 44 |
+| Temperature changes when heat is gained or lost: Omar's milk was too hot and Hind's too cold, but mixed together the milk ends at a temperature in between — the mixture's temperature is the proof that heat moved between them (Libya, G4 SB T2) | Libya, *Science, Grade 4, Student Book, Term 2*, printed p. 48 |
+
+**Book (Libya — Science, Grade 4, Activity Workbook, Term 2 (Libya)):** Title as printed: العلوم للصف الرابع من مرحلة التعليم الأساسي — الفصل الدراسي الثاني, كراسة الأنشطة (Activity Workbook), Activities 17–29, closing Topic 2 الأجهزة (Systems) and covering Topic 3 الطاقة (Energy) Grade / kind: Grade 4, activity workbook, Term 2 Publisher: State of Libya, Ministry of Education, Centre for Educational Curricula and Educational Research (مركز المناهج التعليمية والبحوث التربوية), school year 2019–2020 / 1440–1441 H; no ISBN printed PDF pages: 44. Size 1,421,149 bytes, fetched by repo tree path (grade-04/gov/libya/science/activity-workbook-term-2.pdf) — the books.json record is the same book, cited once here. Verdict: COMPLETE. Read in full from 100-DPI page renders (the text layer is garbled presentation-form Arabic); printed pp. 1–38 of activities plus front matter. It counts in the acceptance count (activity workbook — pupil-facing, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Activity 24, Heat and Its Uses: map the ways heat is used around us — ironing clothes is the worked example — and for three uses name the heat source each one depends on (Libya, G4 WB T2) | Libya, *Science, Grade 4, Activity Workbook, Term 2*, printed p. 21 |
+| Activity 24 continued: not all heat is useful — name three electrical devices that give out unwanted heat, and three cases where heat is harmful (Libya, G4 WB T2) | Libya, *Science, Grade 4, Activity Workbook, Term 2*, printed p. 22 |
+| Activity 26, The Flow of Heat: two beakers, one large and one small, filled halfway; the small beaker is set inside the large and both temperatures are recorded every minute — heat flows from the hotter water to the colder until the two settle (Libya, G4 WB T2) | Libya, *Science, Grade 4, Activity Workbook, Term 2*, printed pp. 25–26 |
+
+**Acceptance count: taught in 29 countries — Libya added.**
+
+Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: libya, libya science, centre for educational curricula and educational research, materials heat-and-how-it-travels

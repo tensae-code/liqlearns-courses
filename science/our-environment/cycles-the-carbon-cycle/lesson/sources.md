@@ -1,6 +1,6 @@
 # Sources — Cycles — the carbon cycle
 
-countries: Ethiopia, United States, Samoa, Sudan, Yemen, Nicaragua, Malaysia
+countries: Ethiopia, United States, Samoa, Sudan, Yemen, Nicaragua, Malaysia, Libya
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed ("ISBN No –"). COMPLETE: 207 PDF pp (199 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -106,3 +106,18 @@ Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicarag
 Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: malaysia, malaysia science, sains, kssr, kssm, our-environment cycles-the-carbon-cycle
+
+
+## Libya growth (2026-11-14, General Science expansion)
+
+**Book (Libya — Science, Grade 9, Student Book, Term 2 (Libya)):** Title as printed: العلوم للصف التاسع من مرحلة التعليم الأساسي — الفصل الدراسي الثاني, holding Part 3 التفاعلات (Interactions) and Part 4 الدورات (Cycles) Grade / kind: Grade 9, student book, Term 2 Publisher: State of Libya, Ministry of Education, Centre for Educational Curricula and Educational Research (مركز المناهج التعليمية والبحوث التربوية), school year 2019–2020 / 1440–1441 H; no ISBN printed PDF pages: 105. Size 14,801,866 bytes via release mid-size-books-3 — the books.json twin record (grade-09/gov/libya/science/student-book-term-2.pdf) is the same book, cited once here. Verdict: COMPLETE. Read in full through the book's Arabic text layer; the closing pages (PDF pp. 97–105) are end matter with no further teaching text. Chapters 1–2 are split-subject (Chemistry, Physics) and are filed as chapter lines; Chapters 3–4 (ecology and cycles) are general science and are placed item by item. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The carbon cycle: carbon dioxide moves between air, living things and back again through photosynthesis, respiration, feeding, death and decay (Libya, G9 SB T2) | Libya, *Science, Grade 9, Student Book, Term 2*, printed pp. 91–92 |
+
+**Acceptance count: taught in 8 countries — Libya added.**
+
+Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: libya, libya science, centre for educational curricula and educational research, our-environment cycles-the-carbon-cycle

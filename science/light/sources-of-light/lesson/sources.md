@@ -1,6 +1,6 @@
 # Sources — Sources of light: lamps people make and light from nature
 
-countries: Ethiopia, Ecuador, Slovenia, Morocco (teacher-guide evidence only), Bulgaria, Belarus, Uzbekistan, Moldova, Mauritania, Serbia, Albania (teacher-guide evidence only), Guyana, Barbados (curriculum evidence only), United States, Pakistan (Punjab), Afghanistan, Cabo Verde, Angola, Bhutan, Kuwait, China, Laos, Eritrea, Sri Lanka, Rwanda, North Macedonia, Indonesia, Fiji (teacher-guide evidence only), Yemen, Saudi Arabia, Nicaragua, Malaysia, South Sudan, Iraq, El Salvador, Colombia, Nepal, Papua New Guinea (teacher-guide evidence only)
+countries: Ethiopia, Ecuador, Slovenia, Morocco (teacher-guide evidence only), Bulgaria, Belarus, Uzbekistan, Moldova, Mauritania, Serbia, Albania (teacher-guide evidence only), Guyana, Barbados (curriculum evidence only), United States, Pakistan (Punjab), Afghanistan, Cabo Verde, Angola, Bhutan, Kuwait, China, Laos, Eritrea, Sri Lanka, Rwanda, North Macedonia, Indonesia, Fiji (teacher-guide evidence only), Yemen, Saudi Arabia, Nicaragua, Malaysia, South Sudan, Iraq, El Salvador, Colombia, Nepal, Papua New Guinea (teacher-guide evidence only), Libya
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -576,3 +576,18 @@ Guide evidence: the rows below are cited as the evidence they are. Teacher guide
 **Acceptance count: taught in 33 countries — unchanged: Papua New Guinea's rows above are guide evidence only, named here, counted nowhere.**
 
 Papua New Guinea's own way — its Department of Education National Science Textbooks and teacher guides/manuals (JICA QUIS-ME and Standards Based series) teaching this thing in the order and at the places named in the rows above, with Papua New Guinea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+
+## Libya growth (2026-11-14, General Science expansion)
+
+**Book (Libya — Science, Grade 4, Student Book, Term 2 (Libya)):** Title as printed: العلوم للصف الرابع من مرحلة التعليم الأساسي — الفصل الدراسي الثاني, holding the rest of Topic 2 الأجهزة (Systems) and Topic 3 الطاقة (Energy) Grade / kind: Grade 4, student book, Term 2 Publisher: State of Libya, Ministry of Education, Centre for Educational Curricula and Educational Research (مركز المناهج التعليمية والبحوث التربوية), school year 2019–2020 / 1440–1441 H; no ISBN printed PDF pages: 72. Size 7,160,654 bytes via release mid-size-books-3 — the books.json twin record (grade-04/gov/libya/science/student-book-term-2.pdf) is the same book, cited once here. Verdict: COMPLETE. Read in full from 100-DPI page renders (most pages are image-only); the book ends with blank notes pages. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| You need light to see: the sun is the main source by day; the stars are sources of light too, giving off their own light, but the moon is not a source — it only looks bright because sunlight falling on it is reflected to us, and the sun is always shining in space even when we cannot see it at night (Libya, G4 SB T2) | Libya, *Science, Grade 4, Student Book, Term 2*, printed p. 29 |
+
+**Acceptance count: taught in 34 countries — Libya added.**
+
+Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: libya, libya science, centre for educational curricula and educational research, light sources-of-light

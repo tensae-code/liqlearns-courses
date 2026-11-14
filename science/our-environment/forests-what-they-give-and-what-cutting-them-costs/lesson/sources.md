@@ -1,6 +1,6 @@
 # Sources — Forests — what they give and what cutting them costs
 
-countries: Ethiopia, Palau (teacher's-edition evidence only), Iceland (teacher-guide evidence only), Micronesia, India, Gabon (teacher-guide evidence only), Cambodia, Sudan, Angola, Bhutan, Laos, Sri Lanka, Rwanda, Vietnam, Nicaragua, Nepal
+countries: Ethiopia, Palau (teacher's-edition evidence only), Iceland (teacher-guide evidence only), Micronesia, India, Gabon (teacher-guide evidence only), Cambodia, Sudan, Angola, Bhutan, Laos, Sri Lanka, Rwanda, Vietnam, Nicaragua, Nepal, Libya
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -251,3 +251,18 @@ Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicarag
 Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nepal, curriculum development centre, our-environment/forests-what-they-give-and-what-cutting-them-costs
+
+
+## Libya growth (2026-11-14, General Science expansion)
+
+**Book (Libya — Science, Grade 6, Student Book, Term 2 (Libya)):** Title as printed: العلوم للصف السادس من مرحلة التعليم الأساسي — الفصل الدراسي الثاني (Science for the Sixth Grade of Basic Education — Second Term) Grade / type: Grade 6, Student Book, Term 2 Publisher: State of Libya, Ministry of Education, Centre for Educational Curricula and Educational Research, Libya; school year 2019–2020 / 1440–1441 H (copyright page); no ISBN printed PDF pages: 104 (12,047,196 bytes, fetched from the GitHub repo tree at grade-06/gov/libya/science/student-book-term-2.pdf). Printed page = PDF page − 7; printed numbering runs to p. 96, followed by notes pages. The book's text layer is too garbled to read reliably, so the book was read in full from 100-DPI page renders; renders deleted after filing. Verdict: COMPLETE. Topic 3 التفاعلات (Interactions): Lesson 5 القوى Forces (printed p. 2), Lesson 6 الحياة معاً Living Together (p. 24), Lesson 7 خواص البيئة Properties of the Environment (p. 40), Lesson 8 السلاسل الغذائية والشبكات الغذائية Food Chains and Food Webs (p. 54), Lesson 9 تأثيرنا على البيئة Our Effect on the Environment (p. 69). The TSV twin record is the same book; its content is cited once, here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| §3-9, Our negative effect: deforestation (إزالة الغابات) — with the world's population growing, more food, space and materials are needed; trees are cut to increase crop land and grassland, and at the same time the need for fuel and minerals grows, so forests are also destroyed to extract fuel and minerals from the ground; cutting or burning trees is called deforestation, and although trees can be replanted, restoring a forest takes a very long time because other living and non-living things are destroyed when a forest is removed; artificial materials have helped protect the environment by preventing the felling of many trees (leather substitutes reduced the animals killed for their skins, and plastic reduced the trees cut for paper and wooden products); farming and raising livestock are useful activities for plants and animals around us — if we stopped growing plants and raising animals for food, plants could die out, so we grow plants and keep livestock in pastures; the dinosaurs died out as a whole species — no living creature should ever again vanish from the Earth (Libya, G6 SB T2) | Libya, *Science, Grade 6, Student Book, Term 2*, printed pp. 75–76 |
+
+**Acceptance count: taught in 14 countries — Libya added.**
+
+Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: libya, libya science, centre for educational curricula and educational research, our-environment forests-what-they-give-and-what-cutting-them-costs

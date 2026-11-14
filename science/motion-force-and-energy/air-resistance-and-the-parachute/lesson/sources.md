@@ -1,6 +1,6 @@
 # Sources — Air resistance and the parachute
 
-countries: Finland (instructor-pack evidence only), Vietnam, Armenia, Barbados (curriculum evidence only), Seychelles, Ecuador, Dominican Republic, Kuwait, China, North Macedonia, Malaysia
+countries: Finland (instructor-pack evidence only), Vietnam, Armenia, Barbados (curriculum evidence only), Seychelles, Ecuador, Dominican Republic, Kuwait, China, North Macedonia, Malaysia, Libya
 
 **Book 1:** *Fysiikkaa: Tutkitaan ilmaa ja lämpöä (Physics: Investigating air and heat)* (instructor pack with pupil instruction sheets — recorded student; in substance a teacher/instructor pack) — Finland, Grade 1 (recorded grade; the material itself is an adult-led experiment pack for young children), compiled by Merike Kesler, Kehittämiskeskus Opinkirjo. Repo path: grade-01/gov/finland/physics/student/finland-g01-aoe1072-opinkirjo-teemakokonaisuus-fysiikka-1.pdf. Bytes: 1,120,626 (exact match). PDF pages: 19. Printed pagination: none — page references are PDF pages. Verdict: COMPLETE read (full text layer, all 19 pages) in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/finland-placements.md.
 
@@ -136,3 +136,18 @@ Searchable tags: north macedonia, north macedonia science, prirodni nauki, minis
 Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: malaysia, malaysia science, sains, kssr, kssm, motion-force-and-energy air-resistance-and-the-parachute
+
+
+## Libya growth (2026-11-14, General Science expansion)
+
+**Book (Libya — Science, Grade 6, Student Book, Term 2 (Libya)):** Title as printed: العلوم للصف السادس من مرحلة التعليم الأساسي — الفصل الدراسي الثاني (Science for the Sixth Grade of Basic Education — Second Term) Grade / type: Grade 6, Student Book, Term 2 Publisher: State of Libya, Ministry of Education, Centre for Educational Curricula and Educational Research, Libya; school year 2019–2020 / 1440–1441 H (copyright page); no ISBN printed PDF pages: 104 (12,047,196 bytes, fetched from the GitHub repo tree at grade-06/gov/libya/science/student-book-term-2.pdf). Printed page = PDF page − 7; printed numbering runs to p. 96, followed by notes pages. The book's text layer is too garbled to read reliably, so the book was read in full from 100-DPI page renders; renders deleted after filing. Verdict: COMPLETE. Topic 3 التفاعلات (Interactions): Lesson 5 القوى Forces (printed p. 2), Lesson 6 الحياة معاً Living Together (p. 24), Lesson 7 خواص البيئة Properties of the Environment (p. 40), Lesson 8 السلاسل الغذائية والشبكات الغذائية Food Chains and Food Webs (p. 54), Lesson 9 تأثيرنا على البيئة Our Effect on the Environment (p. 69). The TSV twin record is the same book; its content is cited once, here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Friction in fluids: friction also acts on bodies moving through water or air and slows them (a parachute slows a falling body); a hovercraft moves on a cushion of air above the water, which reduces the friction of movement through water so the hovercraft moves faster than ordinary boats (Libya, G6 SB T2) | Libya, *Science, Grade 6, Student Book, Term 2*, printed p. 9 |
+
+**Acceptance count: taught in 10 countries — Libya added.**
+
+Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: libya, libya science, centre for educational curricula and educational research, motion-force-and-energy air-resistance-and-the-parachute

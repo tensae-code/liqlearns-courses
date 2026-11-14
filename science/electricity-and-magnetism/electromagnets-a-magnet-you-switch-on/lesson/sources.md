@@ -1,6 +1,6 @@
 # Sources — Electromagnets — a magnet you switch on
 
-countries: Ethiopia, Slovenia, Afghanistan, Uzbekistan, North Macedonia, Moldova, Mozambique, China, Greece, Armenia, Kazakhstan, Mongolia, Barbados (curriculum evidence only), India, Pakistan (Punjab), Venezuela, Kuwait, Sri Lanka, Fiji, Nicaragua, Morocco (teacher-guide evidence only), South Sudan, El Salvador, Colombia, Papua New Guinea
+countries: Ethiopia, Slovenia, Afghanistan, Uzbekistan, North Macedonia, Moldova, Mozambique, China, Greece, Armenia, Kazakhstan, Mongolia, Barbados (curriculum evidence only), India, Pakistan (Punjab), Venezuela, Kuwait, Sri Lanka, Fiji, Nicaragua, Morocco (teacher-guide evidence only), South Sudan, El Salvador, Colombia, Papua New Guinea, Libya (teacher-guide evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -349,3 +349,18 @@ It counts in the acceptance count (student book, not evidence-only), except wher
 **Acceptance count: taught in 23 countries — Papua New Guinea added.** Papua New Guinea counts through its student books above; its teacher guides/manuals in this section are guide evidence only, counted nowhere beyond that one count.
 
 Papua New Guinea's own way — its Department of Education National Science Textbooks and teacher guides/manuals (JICA QUIS-ME and Standards Based series) teaching this thing in the order and at the places named in the rows above, with Papua New Guinea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+
+## Libya growth (2026-11-14, General Science expansion)
+
+**Book (Libya — Science, Grade 3, Teacher Guide (Libya)):** Title as printed: دليل المعلم — العلوم للصف الثالث من مرحلة التعليم الأساسي (teacher guide to the "Science Friends!" programme, يحبون العلوم الأصدقاء!) Grade / kind: Grade 3, teacher guide (covers both student-book parts) Publisher: State of Libya, Ministry of Education, Centre for Educational Curricula and Educational Research (مركز المناهج التعليمية والبحوث التربوية), school year 2018–2019 / 1439–1440 H as printed on the guide's own title page (the student books print 2019–2020); no ISBN printed PDF pages: 239. Size 43,317,683 bytes via release mid-size-books-3. Verdict: COMPLETE. The PDF has no text layer, so it was read in full from 100-DPI page renders: scheme of work (printed pp. 1–31), lesson plans with teacher background notes (printed pp. 32–192), overhead-transparency and coloured-slide masters (printed pp. 193–229), then blank trailing pages. Every placement below is guide evidence — extra teaching content the guide adds; the student-book content itself is already placed under Books 1 and 3 and is not re-placed here. Every placement from this book is guide evidence — extra teaching content the guide adds — cited as the evidence it is, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| (guide evidence) Four ways to make a magnet: stroking with one pole at least twenty times in one direction (the end where the stroking lifts off takes the opposite pole); induction, which lasts only while the magnet is near; heating and hammering in the Earth's field, which makes only a weak magnet; and the electric way — wire coiled round iron with a battery, stronger with more turns or more current, where soft iron loses its magnetism when the current stops but steel keeps it — plus keeping magnets stored in unlike-pole pairs with iron keepers, away from knocks and heat (Libya, G3 TG) | Libya, *Science, Grade 3, Teacher Guide*, printed pp. 184–185 |
+
+**Acceptance count unchanged: taught in 23 countries.** Libya is named as teacher-guide evidence only (the Grade 3 teacher guide above), not added to this count.
+
+Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: libya, libya science, centre for educational curricula and educational research, electricity-and-magnetism electromagnets-a-magnet-you-switch-on

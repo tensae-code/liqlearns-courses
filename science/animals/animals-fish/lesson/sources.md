@@ -1,6 +1,6 @@
 # Sources — Animals — fish
 
-countries: Ethiopia, Vanuatu (teacher-guide evidence only), Sweden, Nauru, Tuvalu, Niue, Bulgaria, Moldova, Cabo Verde (teacher-guide evidence only), Sudan, Bhutan, Kuwait, Eritrea, Sri Lanka, North Macedonia, Fiji (teacher-guide evidence only), Yemen, Saudi Arabia, Nicaragua, Malaysia, El Salvador, Colombia, Nepal, Papua New Guinea
+countries: Ethiopia, Vanuatu (teacher-guide evidence only), Sweden, Nauru, Tuvalu, Niue, Bulgaria, Moldova, Cabo Verde (teacher-guide evidence only), Sudan, Bhutan, Kuwait, Eritrea, Sri Lanka, North Macedonia, Fiji (teacher-guide evidence only), Yemen, Saudi Arabia, Nicaragua, Malaysia, El Salvador, Colombia, Nepal, Papua New Guinea, Libya
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -358,3 +358,30 @@ Guide evidence: the rows below are cited as the evidence they are. Teacher guide
 **Acceptance count: taught in 21 countries — Papua New Guinea added.** Papua New Guinea counts through its student books above; its teacher guides/manuals in this section are guide evidence only, counted nowhere beyond that one count.
 
 Papua New Guinea's own way — its Department of Education National Science Textbooks and teacher guides/manuals (JICA QUIS-ME and Standards Based series) teaching this thing in the order and at the places named in the rows above, with Papua New Guinea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+
+## Libya growth (2026-11-14, General Science expansion)
+
+**Book (Libya — Science, Grade 3, Student Book Part 1 (Libya)):** Title as printed: العلوم للصف الثالث من مرحلة التعليم الأساسي — الجزء الأول (Science for the Third Grade of Basic Education, Part 1) Grade / kind: Grade 3, student book, Part 1 of 2 Publisher: State of Libya, Ministry of Education, Centre for Educational Curricula and Educational Research (مركز المناهج التعليمية والبحوث التربوية), school year 2019–2020 / 1440–1441 H as printed on the imprint page; no ISBN printed PDF pages: 83 (printed pages to 72, then notes pages). Size 10,509,079 bytes via release mid-size-books-3 — matches the books.json twin record (grade-03/gov/libya/science/student-book-part-1.pdf); same book, cited once here. Verdict: COMPLETE. One topic (Topic 1: Diversity / التنوع) in 6 lessons, each closed by a summary board. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fish: all live in water, fresh or salt; fins for swimming, gills for breathing, most bodies covered in scales; some fish lay eggs and others bear live young; mudskipper sidebar — a fish that walks on mud with special fins and stays out of water for days (Libya, G3 SB Pt1) | Libya, *Science, Grade 3, Student Book Part 1*, printed pp. 47–48 |
+
+**Book (Libya — Science, Grade 3, Teacher Guide (Libya)):** Title as printed: دليل المعلم — العلوم للصف الثالث من مرحلة التعليم الأساسي (teacher guide to the "Science Friends!" programme, يحبون العلوم الأصدقاء!) Grade / kind: Grade 3, teacher guide (covers both student-book parts) Publisher: State of Libya, Ministry of Education, Centre for Educational Curricula and Educational Research (مركز المناهج التعليمية والبحوث التربوية), school year 2018–2019 / 1439–1440 H as printed on the guide's own title page (the student books print 2019–2020); no ISBN printed PDF pages: 239. Size 43,317,683 bytes via release mid-size-books-3. Verdict: COMPLETE. The PDF has no text layer, so it was read in full from 100-DPI page renders: scheme of work (printed pp. 1–31), lesson plans with teacher background notes (printed pp. 32–192), overhead-transparency and coloured-slide masters (printed pp. 193–229), then blank trailing pages. Every placement below is guide evidence — extra teaching content the guide adds; the student-book content itself is already placed under Books 1 and 3 and is not re-placed here. Every placement from this book is guide evidence — extra teaching content the guide adds — cited as the evidence it is, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| (guide evidence) Fish background: the gills take oxygen out of the water, so a fish cannot live long out of water; the scales both protect the fish and let it slip easily through the water, and they do not soak up water (Libya, G3 TG) | Libya, *Science, Grade 3, Teacher Guide*, printed pp. 58, 66 |
+
+**Book (Libya — Science, Grade 4, Student Book, Term 1 (Libya)):** Title as printed: العلوم للصف الرابع من مرحلة التعليم الأساسي — الفصل الدراسي الأول, holding Topic 1 الدورات (Cycles) and the opening of Topic 2 الأجهزة (Systems) Grade / kind: Grade 4, student book, Term 1 Publisher: State of Libya, Ministry of Education, Centre for Educational Curricula and Educational Research (مركز المناهج التعليمية والبحوث التربوية), school year 2019–2020 / 1440–1441 H; no ISBN printed PDF pages: 89. Size 9,711,869 bytes via release mid-size-books-3 — the books.json twin record (grade-04/gov/libya/science/student-book-term-1.pdf) is the same book, cited once here. Verdict: COMPLETE. Read in full — the Arabic text layer plus 100-DPI page renders for the many image-only pages; the book ends with a blank notes page. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| How fish breathe: a fish's gills are feather-like structures rich in blood vessels, lying under gill covers; water taken in at the mouth flows over the gills, oxygen dissolved in the water passes through the gill walls into the blood, and carbon dioxide passes out the same way and is carried away as the water leaves under the covers (Libya, G4 SB T1) | Libya, *Science, Grade 4, Student Book, Term 1*, printed pp. 74–75 |
+
+**Acceptance count: taught in 22 countries — Libya added.** Libya's Grade 3 teacher-guide rows in this section are guide evidence only, counted nowhere beyond that one count.
+
+Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: libya, libya science, centre for educational curricula and educational research, animals animals-fish

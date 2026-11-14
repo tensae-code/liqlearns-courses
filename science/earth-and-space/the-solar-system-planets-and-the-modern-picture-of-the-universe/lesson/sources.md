@@ -1,6 +1,6 @@
 # Sources — The Solar system — planets and the modern picture of the Universe
 
-countries: Uzbekistan, Haiti, Jamaica (curriculum-guide evidence only), Ghana (curriculum evidence only), Guyana, Iceland (teacher-guide evidence only), Costa Rica, India, Bulgaria, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Pakistan (Punjab), Armenia, Cuba, Samoa (curriculum evidence only), Egypt, Cambodia, Ecuador, Afghanistan, Venezuela, Angola, Bhutan, Dominican Republic, Kuwait, China, Laos, Eritrea, Sri Lanka, North Macedonia, Indonesia, Bangladesh, Fiji, Yemen, Saudi Arabia, Vietnam, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), South Sudan, Iraq, El Salvador, Colombia, Nepal, Papua New Guinea (teacher-guide evidence only)
+countries: Uzbekistan, Haiti, Jamaica (curriculum-guide evidence only), Ghana (curriculum evidence only), Guyana, Iceland (teacher-guide evidence only), Costa Rica, India, Bulgaria, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Pakistan (Punjab), Armenia, Cuba, Samoa (curriculum evidence only), Egypt, Cambodia, Ecuador, Afghanistan, Venezuela, Angola, Bhutan, Dominican Republic, Kuwait, China, Laos, Eritrea, Sri Lanka, North Macedonia, Indonesia, Bangladesh, Fiji, Yemen, Saudi Arabia, Vietnam, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), South Sudan, Iraq, El Salvador, Colombia, Nepal, Papua New Guinea (teacher-guide evidence only), Libya
 
 **Book 1:** *ФИЗИКА 9 (Fizika 9)* (student textbook) — Uzbekistan, Учебник для учащихся 9-х классов средней школы — N. Sh. Turdiev; Izdatelstvo «Turon-Iqbol», Tashkent 2006 (Russian edition; imprint: 160 printed pp., print run 26,000). Grade: 9 · Student book (Russian-medium edition) · Repo path: grade-09/gov/uzbekistan/physics/full-year.pdf. Byte size: 65,699,691. PDF pages: 161. Offset: printed p. N = PDF p. N+1 approx. (printed p. 3 = PDF p. 4; contents at printed pp. 157–158). Verdict: COMPLETE — identity proven by cover/title/imprint; complete contents read (printed pp. 157–158) and chapter content verified against it. Read basis stated honestly: contents-anchored full-structure read with chapter-level verification, not a line-by-line read of all 161 pages. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/uzbekistan-placements.md.
 
@@ -785,3 +785,18 @@ Guide evidence: the rows below are cited as the evidence they are. Teacher guide
 **Acceptance count: taught in 37 countries — unchanged: Papua New Guinea's rows above are guide evidence only, named here, counted nowhere.**
 
 Papua New Guinea's own way — its Department of Education National Science Textbooks and teacher guides/manuals (JICA QUIS-ME and Standards Based series) teaching this thing in the order and at the places named in the rows above, with Papua New Guinea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+
+## Libya growth (2026-11-14, General Science expansion)
+
+**Book (Libya — Science, Grade 5, Student Book, Term 1 (Libya)):** Title as printed: العلوم للصف الخامس من مرحلة التعليم الأساسي — الفصل الدراسي الأول (Science for the Fifth Grade of Basic Education, First Term) Grade / kind: Grade 5, student book, Term 1 Publisher: State of Libya, Ministry of Education, Centre for Educational Curricula and Educational Research (مركز المناهج التعليمية والبحوث التربوية), school year 2019–2020 / 1440–1441 H as printed; no ISBN printed PDF pages: 81 (printed pages to 72, then notes pages). Printed page = PDF page − 8. Size 8,878,569 bytes via release mid-size-books-3 — the books.json twin record (grade-05/gov/libya/science/student-book-term-1.pdf) is the same book, cited once here. Verdict: COMPLETE. The text layer is sparse (most pages image-only), so it was read in full from 100-DPI page renders. Topic 1 الدورات (Cycles), lessons 1–5, then Topic 2 الطاقة (Energy), lessons 6–7. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The solar system: the sun, the Earth and the moon are part of one system; the sun is a star at the centre of the solar system giving out light and heat; the planets go round it and do not give out light — they only reflect the sun's light (Libya, G5 SB T1) | Libya, *Science, Grade 5, Student Book, Term 1*, printed p. 5 |
+
+**Acceptance count: taught in 38 countries — Libya added.**
+
+Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: libya, libya science, centre for educational curricula and educational research, earth-and-space the-solar-system-planets-and-the-modern-picture-of-the-universe

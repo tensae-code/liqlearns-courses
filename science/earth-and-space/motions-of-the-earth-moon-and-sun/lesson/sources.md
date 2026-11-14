@@ -1,6 +1,6 @@
 # Sources — Motions of the Earth, Moon and Sun
 
-countries: Mongolia, Haiti, Albania (teacher-guide evidence only), Costa Rica, Gabon (teacher-guide evidence only), Cuba, Egypt, Cambodia, Ecuador, Venezuela, China, Eritrea, North Macedonia, Indonesia, Bangladesh, Fiji, Yemen, Malaysia, El Salvador
+countries: Mongolia, Haiti, Albania (teacher-guide evidence only), Costa Rica, Gabon (teacher-guide evidence only), Cuba, Egypt, Cambodia, Ecuador, Venezuela, China, Eritrea, North Macedonia, Indonesia, Bangladesh, Fiji, Yemen, Malaysia, El Salvador, Libya
 
 **Book 1:** *Физик VII* (student textbook) — Mongolia. Title as printed: ФИЗИК VII — Ерөнхий боловсролын 12 жилийн сургуулийн 7 дугаар ангийн сурах бичиг (Grade 7 textbook of the 12-year general education school); authors M. Ganbat, B. Burmaa, Ts. Amartaivan et al.; Ministry of Education, Culture, Science and Sports approval; 2nd edition (Хоёр дахь хэвлэл) Grade: Grade 7 · student · recorded size 16,057,825 bytes — **download matched EXACTLY; pdfinfo 142 pages**. Route used: https://econtent.edu.mn/content/7rangi/fizik/fizik-291.pdf (beside the recorded flipbook page https://econtent.edu.mn/pages/more.php?id=291, whose viewer config lists the same 142 page images). Verdict: COMPLETE (full text read; contents at PDF p. 5, body sampled throughout). Phantom-push debt, on the record: this book is recorded as pushed in books.json/push-state with the exact byte size above, but no file exists in the GitHub textbooks repo — it was read from the ministry source econtent.edu.mn at that exact recorded byte size, and the repo copy still needs re-securing from that source. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/mongolia-placements.md.
 
@@ -273,3 +273,20 @@ Searchable tags: malaysia, malaysia science, sains, kssr, kssm, earth-and-space 
 El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, earth-and-space/motions-of-the-earth-moon-and-sun
+
+
+## Libya growth (2026-11-14, General Science expansion)
+
+**Book (Libya — Science, Grade 5, Activity Workbook, Term 1 (كراسة النشاط، الفصل الدراسي الأول)):** Title as printed: العلوم للصف الخامس من مرحلة التعليم الأساسي — الفصل الدراسي الأول — كراسة النشاط (Science for the Fifth Grade of Basic Education — First Term — Activity Workbook) Grade / type: Grade 5, Activity Workbook (student practical book), Term 1 Publisher: State of Libya, Ministry of Education, Centre for Educational Curricula and Educational Research, Libya; school year 2019–2020 / 1440–1441 H (copyright page); no ISBN printed PDF pages: 55 (1,237,668 bytes, fetched from the GitHub repo tree at grade-05/gov/libya/science/activity-workbook-term-1.pdf). Printed page = PDF page − 6; printed numbering runs to p. 49. Read in full from 100-DPI page renders after the book's own text layer proved too garbled to read reliably; renders deleted after filing. Verdict: COMPLETE. 18 numbered activities matching Term 1 of the student book (الدورات Cycles activities 1–14, الطاقة Energy activities 15–18), each with a skills guide (دليل المهارات) naming the process skill taught. This is the same book as the TSV record "Science G5 Activity Workbook Term 1"; its content is cited once, here. It counts in the acceptance count (activity workbook — pupil-facing, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Activity 2, The position of the Sun, the Earth and the Moon: use a basketball, a table-tennis ball and a lit lamp to build a simple model showing the arrangement of the Sun, Earth and Moon in the solar system, giving reasons for each choice; use your model to show the movement of the Earth and the Moon in the solar system, then draw a diagram of the movement of the Earth and the Moon around the Sun (a computer program may be used, with dotted lines to show how the Earth and Moon move) (Libya, G5 WB T1) — placement filed as earth-and-space/the-solar-system-the-sun-earth-and-moon; that slug does not exist in the live course, so it is stocked into this lesson, the closest existing lesson covering that thing, and the original slug is recorded here | Libya, *Science, Grade 5, Activity Workbook, Term 1 (كراسة النشاط، الفصل الدراسي الأول)*, printed pp. 4–6 |
+
+Placement choice, on the record: the Libya placement(s) above filed as earth-and-space/the-solar-system-the-sun-earth-and-moon are stocked into this existing lesson (`earth-and-space/motions-of-the-earth-moon-and-sun`), which already covers that thing as its own lesson (checked the live repo at merge time); no second lesson was built for them, and the original slug is recorded in each row above.
+
+**Acceptance count: taught in 18 countries — Libya added.**
+
+Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: libya, libya science, centre for educational curricula and educational research, earth-and-space motions-of-the-earth-moon-and-sun

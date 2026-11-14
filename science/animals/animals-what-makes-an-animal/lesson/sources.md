@@ -1,6 +1,6 @@
 # Sources — Animals — what makes an animal
 
-countries: Ethiopia, Vanuatu (teacher-guide evidence only), Guyana, Bahamas (curriculum evidence only), Egypt, Seychelles, Cabo Verde (teacher-guide evidence only), Venezuela, Mauritania, Angola, Syria, Laos, Sri Lanka, Zimbabwe (teacher-guide evidence only), North Macedonia, Bangladesh, Yemen, Vietnam, Nicaragua, South Sudan, Iraq, El Salvador, Colombia, Nepal, Papua New Guinea
+countries: Ethiopia, Vanuatu (teacher-guide evidence only), Guyana, Bahamas (curriculum evidence only), Egypt, Seychelles, Cabo Verde (teacher-guide evidence only), Venezuela, Mauritania, Angola, Syria, Laos, Sri Lanka, Zimbabwe (teacher-guide evidence only), North Macedonia, Bangladesh, Yemen, Vietnam, Nicaragua, South Sudan, Iraq, El Salvador, Colombia, Nepal, Papua New Guinea, Libya
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -510,3 +510,36 @@ Guide evidence: the rows below are cited as the evidence they are. Teacher guide
 **Acceptance count: taught in 21 countries — Papua New Guinea added.** Papua New Guinea counts through its student books above; its teacher guides/manuals in this section are guide evidence only, counted nowhere beyond that one count.
 
 Papua New Guinea's own way — its Department of Education National Science Textbooks and teacher guides/manuals (JICA QUIS-ME and Standards Based series) teaching this thing in the order and at the places named in the rows above, with Papua New Guinea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+
+## Libya growth (2026-11-14, General Science expansion)
+
+**Book (Libya — Science, Grade 3, Student Book Part 1 (Libya)):** Title as printed: العلوم للصف الثالث من مرحلة التعليم الأساسي — الجزء الأول (Science for the Third Grade of Basic Education, Part 1) Grade / kind: Grade 3, student book, Part 1 of 2 Publisher: State of Libya, Ministry of Education, Centre for Educational Curricula and Educational Research (مركز المناهج التعليمية والبحوث التربوية), school year 2019–2020 / 1440–1441 H as printed on the imprint page; no ISBN printed PDF pages: 83 (printed pages to 72, then notes pages). Size 10,509,079 bytes via release mid-size-books-3 — matches the books.json twin record (grade-03/gov/libya/science/student-book-part-1.pdf); same book, cited once here. Verdict: COMPLETE. One topic (Topic 1: Diversity / التنوع) in 6 lessons, each closed by a summary board. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| What makes an animal: every animal feeds on other living things or parts of them (Libya, G3 SB Pt1) | Libya, *Science, Grade 3, Student Book Part 1*, printed pp. 18–19 |
+| Animals differ in size, shape and colour (ant to blue whale; silhouette guessing game) — the six ways animals may differ are listed (size/shape/colour, home, movement, body covering, food, reproduction) (Libya, G3 SB Pt1) | Libya, *Science, Grade 3, Student Book Part 1*, printed pp. 20–22 |
+| Animals live in different places: on land, up trees, under the ground, in water only, or on land and in water (frog, turtle, fish) (Libya, G3 SB Pt1) | Libya, *Science, Grade 3, Student Book Part 1*, printed pp. 26–27 |
+| Animals move in different ways with different body parts: legs for running and hopping, wings for flying, fins for swimming, the whole body for crawling; fastest animal on land / in water / in air (Libya, G3 SB Pt1) | Libya, *Science, Grade 3, Student Book Part 1*, printed pp. 28–33 |
+| Body coverings differ (fur/hair, scales, feathers, shells) and protect the body, keep its temperature, and help birds fly (Libya, G3 SB Pt1) | Libya, *Science, Grade 3, Student Book Part 1*, printed pp. 34–36 |
+| Animals eat different foods: plants only, other animals only, or animals and plants together (simple food chain picture: plant → caterpillar → bird → snake → hawk) (Libya, G3 SB Pt1) | Libya, *Science, Grade 3, Student Book Part 1*, printed pp. 37–38 |
+| Animals reproduce in different ways: live young that grow inside the mother (camel, cow, whale) vs eggs that hatch (hen brooding eggs, turtle burying eggs in sand, jelly-covered fish and frog eggs); longest pregnancy sidebar (elephant 22 months) (Libya, G3 SB Pt1) | Libya, *Science, Grade 3, Student Book Part 1*, printed pp. 39–40 |
+
+**Book (Libya — Science, Grade 3, Student Book Part 2 (Libya)):** Title as printed: العلوم للصف الثالث من مرحلة التعليم الأساسي — الجزء الثاني (Science for the Third Grade of Basic Education, Part 2) Grade / kind: Grade 3, student book, Part 2 of 2 Publisher: State of Libya, Ministry of Education, Centre for Educational Curricula and Educational Research, school year 2019–2020 / 1440–1441 H as printed on the imprint page; no ISBN printed PDF pages: 95 (printed pages to 85, then notes pages). Size 37,312,961 bytes via release mid-size-books-3 — matches the books.json twin record (grade-03/gov/libya/science/student-book-part-2.pdf); same book, cited once here. Verdict: COMPLETE. Topics 1 (continued)–4: Diversity lessons 7–8, Cycles lessons 9–11, Systems lessons 12–17, Interactions lesson 18. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Animal organs serve the animal's needs: an eagle's sharp eyes spot prey from far away, a bat's strong hearing finds its way in the dark, and fine hairs on a mole's nose feel movement as it travels its dark tunnels (Libya, G3 SB Pt2) | Libya, *Science, Grade 3, Student Book Part 2*, printed p. 37 |
+
+**Book (Libya — Science, Grade 3, Teacher Guide (Libya)):** Title as printed: دليل المعلم — العلوم للصف الثالث من مرحلة التعليم الأساسي (teacher guide to the "Science Friends!" programme, يحبون العلوم الأصدقاء!) Grade / kind: Grade 3, teacher guide (covers both student-book parts) Publisher: State of Libya, Ministry of Education, Centre for Educational Curricula and Educational Research (مركز المناهج التعليمية والبحوث التربوية), school year 2018–2019 / 1439–1440 H as printed on the guide's own title page (the student books print 2019–2020); no ISBN printed PDF pages: 239. Size 43,317,683 bytes via release mid-size-books-3. Verdict: COMPLETE. The PDF has no text layer, so it was read in full from 100-DPI page renders: scheme of work (printed pp. 1–31), lesson plans with teacher background notes (printed pp. 32–192), overhead-transparency and coloured-slide masters (printed pp. 193–229), then blank trailing pages. Every placement below is guide evidence — extra teaching content the guide adds; the student-book content itself is already placed under Books 1 and 3 and is not re-placed here. Every placement from this book is guide evidence — extra teaching content the guide adds — cited as the evidence it is, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| (guide evidence) Colour can be camouflage: some animals' colours match their surroundings so enemies cannot pick them out — the flatfish against the sea floor — while others are bright, like the guppy and butterflies; and the insect's hard outer case is named an exoskeleton (Libya, G3 TG) | Libya, *Science, Grade 3, Teacher Guide*, printed pp. 49–50 |
+
+**Acceptance count: taught in 22 countries — Libya added.** Libya's Grade 3 teacher-guide rows in this section are guide evidence only, counted nowhere beyond that one count.
+
+Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: libya, libya science, centre for educational curricula and educational research, animals animals-what-makes-an-animal

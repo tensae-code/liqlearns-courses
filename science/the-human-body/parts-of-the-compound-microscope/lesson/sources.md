@@ -1,6 +1,6 @@
 # Sources — The microscope — parts and what each does
 
-countries: Ethiopia, Samoa, Seychelles, Cabo Verde, Mauritania, Syria, Sri Lanka, Vietnam
+countries: Ethiopia, Samoa, Seychelles, Cabo Verde, Mauritania, Syria, Sri Lanka, Vietnam, Libya
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed (printed "ISBN No –"). COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -113,3 +113,19 @@ Vietnam's own way — the Kết nối tri thức với cuộc sống (Connecting
 
 Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, the-human-body parts-of-the-compound-microscope
 
+
+## Libya growth (2026-11-14, General Science expansion)
+
+**Book (Libya — Science, Grade 5, Activity Workbook, Term 1 (كراسة النشاط، الفصل الدراسي الأول)):** Title as printed: العلوم للصف الخامس من مرحلة التعليم الأساسي — الفصل الدراسي الأول — كراسة النشاط (Science for the Fifth Grade of Basic Education — First Term — Activity Workbook) Grade / type: Grade 5, Activity Workbook (student practical book), Term 1 Publisher: State of Libya, Ministry of Education, Centre for Educational Curricula and Educational Research, Libya; school year 2019–2020 / 1440–1441 H (copyright page); no ISBN printed PDF pages: 55 (1,237,668 bytes, fetched from the GitHub repo tree at grade-05/gov/libya/science/activity-workbook-term-1.pdf). Printed page = PDF page − 6; printed numbering runs to p. 49. Read in full from 100-DPI page renders after the book's own text layer proved too garbled to read reliably; renders deleted after filing. Verdict: COMPLETE. 18 numbered activities matching Term 1 of the student book (الدورات Cycles activities 1–14, الطاقة Energy activities 15–18), each with a skills guide (دليل المهارات) naming the process skill taught. This is the same book as the TSV record "Science G5 Activity Workbook Term 1"; its content is cited once, here. It counts in the acceptance count (activity workbook — pupil-facing, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Activity 4, part 1, Understanding the microscope: skills guide — "100:" when we cannot see very small things clearly with our eyes we use a tool like the microscope; find the microscope's parts on the given tool (eyepiece lens, objective lenses, two clips, focus adjusters, light source, stage) and match each part to its job — the part that can be turned to see things more clearly and bigger, the part you look through to see the thing magnified, the place you put the thing to view it (Libya, G5 WB T1) — placement filed as how-living-things-work/lenses-that-magnify-and-the-microscope; that slug does not exist in the live course, so it is stocked into this lesson, the closest existing lesson covering that thing, and the original slug is recorded here | Libya, *Science, Grade 5, Activity Workbook, Term 1 (كراسة النشاط، الفصل الدراسي الأول)*, printed p. 13 |
+
+Placement choice, on the record: the Libya placement(s) above filed as how-living-things-work/lenses-that-magnify-and-the-microscope are stocked into this existing lesson (`the-human-body/parts-of-the-compound-microscope`), which already covers that thing as its own lesson (checked the live repo at merge time); no second lesson was built for them, and the original slug is recorded in each row above.
+
+**Acceptance count: taught in 9 countries — Libya added.**
+
+Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: libya, libya science, centre for educational curricula and educational research, the-human-body parts-of-the-compound-microscope

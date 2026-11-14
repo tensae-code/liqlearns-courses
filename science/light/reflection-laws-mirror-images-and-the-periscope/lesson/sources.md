@@ -494,3 +494,27 @@ Guide evidence: the rows below are cited as the evidence they are. Teacher guide
 **Acceptance count: taught in 33 countries — Papua New Guinea added.** Papua New Guinea counts through its student books above; its teacher guides/manuals in this section are guide evidence only, counted nowhere beyond that one count.
 
 Papua New Guinea's own way — its Department of Education National Science Textbooks and teacher guides/manuals (JICA QUIS-ME and Standards Based series) teaching this thing in the order and at the places named in the rows above, with Papua New Guinea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+
+## Libya growth (2026-11-14, General Science expansion)
+
+**Book (Libya — Science, Grade 4, Student Book, Term 2 (Libya)):** Title as printed: العلوم للصف الرابع من مرحلة التعليم الأساسي — الفصل الدراسي الثاني, holding the rest of Topic 2 الأجهزة (Systems) and Topic 3 الطاقة (Energy) Grade / kind: Grade 4, student book, Term 2 Publisher: State of Libya, Ministry of Education, Centre for Educational Curricula and Educational Research (مركز المناهج التعليمية والبحوث التربوية), school year 2019–2020 / 1440–1441 H; no ISBN printed PDF pages: 72. Size 7,160,654 bytes via release mid-size-books-3 — the books.json twin record (grade-04/gov/libya/science/student-book-term-2.pdf) is the same book, cited once here. Verdict: COMPLETE. Read in full from 100-DPI page renders (most pages are image-only); the book ends with blank notes pages. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Reflection that keeps cyclists safe: the safety reflectors fitted to bicycles catch vehicle headlights at night so drivers can see the riders on the road (Libya, G4 SB T2) | Libya, *Science, Grade 4, Student Book, Term 2*, printed p. 31 |
+| Reflection is how we see most things: many bodies around you are not light sources, yet you see them because they reflect light into your eyes — shine a torch at a wall and the light bounces off it; a mirror reflects Hind's body-light so that Omar, standing behind her, can see her in the mirror without turning round (Libya, G4 SB T2) | Libya, *Science, Grade 4, Student Book, Term 2*, printed pp. 30–31 |
+
+**Book (Libya — Science, Grade 4, Activity Workbook, Term 2 (Libya)):** Title as printed: العلوم للصف الرابع من مرحلة التعليم الأساسي — الفصل الدراسي الثاني, كراسة الأنشطة (Activity Workbook), Activities 17–29, closing Topic 2 الأجهزة (Systems) and covering Topic 3 الطاقة (Energy) Grade / kind: Grade 4, activity workbook, Term 2 Publisher: State of Libya, Ministry of Education, Centre for Educational Curricula and Educational Research (مركز المناهج التعليمية والبحوث التربوية), school year 2019–2020 / 1440–1441 H; no ISBN printed PDF pages: 44. Size 1,421,149 bytes, fetched by repo tree path (grade-04/gov/libya/science/activity-workbook-term-2.pdf) — the books.json record is the same book, cited once here. Verdict: COMPLETE. Read in full from 100-DPI page renders (the text layer is garbled presentation-form Arabic); printed pp. 1–38 of activities plus front matter. It counts in the acceptance count (activity workbook — pupil-facing, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Activity 21 continued: with two cardboard tubes and an eraser hidden behind a book, a mirror placed above lets you see the eraser down the second tube — draw the path of the light from the eraser to your eye (Libya, G4 WB T2) | Libya, *Science, Grade 4, Activity Workbook, Term 2*, printed p. 12 |
+| Activity 21 summary: bodies can be seen when light from them reaches our eyes, and bodies like the mirror can reflect light and change its path (Libya, G4 WB T2) | Libya, *Science, Grade 4, Activity Workbook, Term 2*, printed p. 15 |
+| Activity 21 continued: a mirror stood on a dotted line forms the mirror image of a letter — predict what the image will look like, remove the mirror and draw it on the other side of the line (Libya, G4 WB T2) | Libya, *Science, Grade 4, Activity Workbook, Term 2*, printed pp. 13–14 |
+
+**Acceptance count unchanged: taught in 33 countries.** Libya was already counted in this lesson through an earlier wave's Libya book; the General Science books above are further Libya books teaching this thing, not a second count for Libya.
+
+Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: libya, libya science, centre for educational curricula and educational research, light reflection-laws-mirror-images-and-the-periscope

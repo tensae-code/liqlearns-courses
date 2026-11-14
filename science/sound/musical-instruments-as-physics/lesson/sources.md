@@ -1,6 +1,6 @@
 # Sources — Musical instruments as physics
 
-countries: Nigeria (teacher-guide evidence only), Barbados (curriculum evidence only), China, Sri Lanka, Bangladesh, Fiji (teacher-guide evidence only), Malaysia
+countries: Nigeria (teacher-guide evidence only), Barbados (curriculum evidence only), China, Sri Lanka, Bangladesh, Fiji (teacher-guide evidence only), Malaysia, Libya
 
 **Book 1:** *Excellence in Physics for Senior Secondary — Teacher's Guide Book 2* (teacher's guide — a TEACHER'S GUIDE written to the Nigerian Educational Research and Development Council (NERDC) curriculum, NOT a student book, cited as it is) — Nigeria, Cambridge University Press. Title as printed: Excellence in Physics for Senior Secondary Schools — Teacher's Guide Book 2. Grade: SS2 (Grade 11) · Teacher's guide · Repo path: grade-11/approved-private/nigeria/physics-teacher-guide-cambridge.pdf (Contents API route) · Byte size: 2,350,466 (Contents API meta = downloaded) · PDF pages: 80 · Offset: guide printed p. 1 ≈ PDF p. 11. Verdict: COMPLETE as published — Introduction and scheme of work, then Themes 1, 2, 3, 5 and 6; Theme 4 is expressly not included per the NERDC curriculum for this book. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/nigeria-placements.md.
 
@@ -105,3 +105,18 @@ Searchable tags: fiji, fiji science, ministry of education fiji, sound musical-i
 Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: malaysia, malaysia science, sains, kssr, kssm, sound musical-instruments-as-physics
+
+
+## Libya growth (2026-11-14, General Science expansion)
+
+**Book (Libya — Science, Grade 6, Student Book, Term 1):** Title as printed: العلوم للصف السادس من مرحلة التعليم الأساسي — الفصل الدراسي الأول (Science for the Sixth Grade of Basic Education — First Term) Grade / type: Grade 6, Student Book, Term 1 Publisher: State of Libya, Ministry of Education, Centre for Educational Curricula and Educational Research, Libya; school year 2019–2020 / 1440–1441 H (copyright page); no ISBN printed PDF pages: 88 (9,812,612 bytes, fetched from release mid-size-books-4). Printed page = PDF page − 7; printed numbering runs to p. 80, followed by notes pages. The book's text layer is too garbled to read reliably, so the book was read in full from 100-DPI page renders; renders deleted after filing. Verdict: COMPLETE. Contents: Topic 1 التنوع (Diversity) — Lesson 1 Classification (التصنيف, printed p. 2), Lesson 2 Classifying materials (تصنيف المواد, p. 18); Topic 2 الطاقة (Energy) — Lesson 3 Forms of energy (أشكال الطاقة, p. 40), Lesson 4 Sources of energy (مصادر الطاقة, p. 64). The books.json twin record (grade-06/gov/libya/science/student-book-term-1.pdf) is the same book; its content is cited once, here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Musical instruments: music is made of sounds produced when singing or playing musical instruments, and music is used mainly for entertainment; the different musical instruments produce sounds in different ways — some need hitting, some blowing into them, and some plucking their strings or blowing air into them (photographs of an oud player, a trumpet and drums — how do these instruments produce sounds?); sidebar (life science): ultrasound is a sound of such high pitch that we cannot hear it — ultrasound is used in hospitals to obtain pictures of the internal parts of the body, and doctors use ultrasound to follow a fetus's development and discover tumours inside the human body (an ultrasound picture shown); sidebar: we do not hear the sounds bats produce because they are of very high pitch that humans cannot hear — the bat's sound is reflected from the bodies around it, and the bat picks up the echo to discover the place of those bodies; this helps the bat avoid obstacles in the dark and also catch insects; using sound echo in "seeing" is called echolocation (الرؤية بالتحديد الصدوي) (Libya, G6 SB T1) | Libya, *Science, Grade 6, Student Book, Term 1*, printed p. 47 |
+
+**Acceptance count: taught in 5 countries — Libya added.**
+
+Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: libya, libya science, centre for educational curricula and educational research, sound musical-instruments-as-physics

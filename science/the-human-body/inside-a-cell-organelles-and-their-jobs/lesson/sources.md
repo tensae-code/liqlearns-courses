@@ -1,6 +1,6 @@
 # Sources — Cells — inside a cell: organelles and their jobs
 
-countries: Ethiopia, Guatemala (teacher-guide evidence only), Ghana (curriculum evidence only), India, Cuba, Samoa, Egypt, Ecuador, Cabo Verde, Venezuela, Dominican Republic, Kuwait, Laos, Eritrea, Sri Lanka (teacher-guide evidence only), Yemen, Nicaragua, El Salvador, Colombia, Nepal, Papua New Guinea (teacher-guide evidence only)
+countries: Ethiopia, Guatemala (teacher-guide evidence only), Ghana (curriculum evidence only), India, Cuba, Samoa, Egypt, Ecuador, Cabo Verde, Venezuela, Dominican Republic, Kuwait, Laos, Eritrea, Sri Lanka (teacher-guide evidence only), Yemen, Nicaragua, El Salvador, Colombia, Nepal, Papua New Guinea (teacher-guide evidence only), Libya
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed (printed "ISBN No –"). COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -378,3 +378,21 @@ Guide evidence: the rows below are cited as the evidence they are. Teacher guide
 **Acceptance count: taught in 17 countries — unchanged: Papua New Guinea's rows above are guide evidence only, named here, counted nowhere.**
 
 Papua New Guinea's own way — its Department of Education National Science Textbooks and teacher guides/manuals (JICA QUIS-ME and Standards Based series) teaching this thing in the order and at the places named in the rows above, with Papua New Guinea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+
+## Libya growth (2026-11-14, General Science expansion)
+
+**Book (Libya — Science, Grade 5, Student Book, Term 1 (Libya)):** Title as printed: العلوم للصف الخامس من مرحلة التعليم الأساسي — الفصل الدراسي الأول (Science for the Fifth Grade of Basic Education, First Term) Grade / kind: Grade 5, student book, Term 1 Publisher: State of Libya, Ministry of Education, Centre for Educational Curricula and Educational Research (مركز المناهج التعليمية والبحوث التربوية), school year 2019–2020 / 1440–1441 H as printed; no ISBN printed PDF pages: 81 (printed pages to 72, then notes pages). Printed page = PDF page − 8. Size 8,878,569 bytes via release mid-size-books-3 — the books.json twin record (grade-05/gov/libya/science/student-book-term-1.pdf) is the same book, cited once here. Verdict: COMPLETE. The text layer is sparse (most pages image-only), so it was read in full from 100-DPI page renders. Topic 1 الدورات (Cycles), lessons 1–5, then Topic 2 الطاقة (Energy), lessons 6–7. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Parts of the (animal) cell: the cytoplasm — all cells are made of a jelly-like material called cytoplasm, which lets materials such as food and oxygen move inside the cell, and many cell activities happen in it (Libya, G5 SB T1) | Libya, *Science, Grade 5, Student Book, Term 1*, printed p. 26 |
+| The cell membrane: the cytoplasm is wrapped in a thin, soft membrane that holds the cytoplasm inside the cell and also controls the entry of materials into the cell and their exit from it (Libya, G5 SB T1) | Libya, *Science, Grade 5, Student Book, Term 1*, printed p. 26 |
+| The nucleus: every plant and animal cell has a nucleus inside the cytoplasm; the nucleus is a very important part of the cell because it controls everything that happens inside the cell (Libya, G5 SB T1) | Libya, *Science, Grade 5, Student Book, Term 1*, printed p. 26 |
+| The plant cell's extra parts: a cell wall outside the membrane, made of a stiff material that gives the plant cell its own shape (animal cells have no wall); chloroplasts — very small green bodies holding the chlorophyll that traps sunlight energy for making food (none in animal cells); and the sap vacuole, a cavity filled with liquid in the centre of most plant cells that keeps the cell firm and upright (no such cavity in animal cells) (Libya, G5 SB T1) | Libya, *Science, Grade 5, Student Book, Term 1*, printed p. 27 |
+
+**Acceptance count: taught in 18 countries — Libya added.**
+
+Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: libya, libya science, centre for educational curricula and educational research, the-human-body inside-a-cell-organelles-and-their-jobs

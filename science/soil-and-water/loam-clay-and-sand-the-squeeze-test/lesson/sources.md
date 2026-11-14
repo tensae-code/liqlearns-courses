@@ -1,6 +1,6 @@
 # Sources — Loam, clay and sand — the squeeze test
 
-countries: Ethiopia, Uganda, Samoa, Seychelles, Sudan, China, Laos (teacher-guide evidence only), Eritrea, Rwanda, Zimbabwe (teacher-guide evidence only), Bangladesh, Saudi Arabia, Vietnam, South Sudan, Iraq, El Salvador, Colombia, Papua New Guinea
+countries: Ethiopia, Uganda, Samoa, Seychelles, Sudan, China, Laos (teacher-guide evidence only), Eritrea, Rwanda, Zimbabwe (teacher-guide evidence only), Bangladesh, Saudi Arabia, Vietnam, South Sudan, Iraq, El Salvador, Colombia, Papua New Guinea, Libya
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -302,3 +302,18 @@ Guide evidence: the rows below are cited as the evidence they are. Teacher guide
 **Acceptance count: taught in 15 countries — Papua New Guinea added.** Papua New Guinea counts through its student books above; its teacher guides/manuals in this section are guide evidence only, counted nowhere beyond that one count.
 
 Papua New Guinea's own way — its Department of Education National Science Textbooks and teacher guides/manuals (JICA QUIS-ME and Standards Based series) teaching this thing in the order and at the places named in the rows above, with Papua New Guinea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+
+## Libya growth (2026-11-14, General Science expansion)
+
+**Book (Libya — Science, Grade 6, Student Book, Term 2 (Libya)):** Title as printed: العلوم للصف السادس من مرحلة التعليم الأساسي — الفصل الدراسي الثاني (Science for the Sixth Grade of Basic Education — Second Term) Grade / type: Grade 6, Student Book, Term 2 Publisher: State of Libya, Ministry of Education, Centre for Educational Curricula and Educational Research, Libya; school year 2019–2020 / 1440–1441 H (copyright page); no ISBN printed PDF pages: 104 (12,047,196 bytes, fetched from the GitHub repo tree at grade-06/gov/libya/science/student-book-term-2.pdf). Printed page = PDF page − 7; printed numbering runs to p. 96, followed by notes pages. The book's text layer is too garbled to read reliably, so the book was read in full from 100-DPI page renders; renders deleted after filing. Verdict: COMPLETE. Topic 3 التفاعلات (Interactions): Lesson 5 القوى Forces (printed p. 2), Lesson 6 الحياة معاً Living Together (p. 24), Lesson 7 خواص البيئة Properties of the Environment (p. 40), Lesson 8 السلاسل الغذائية والشبكات الغذائية Food Chains and Food Webs (p. 54), Lesson 9 تأثيرنا على البيئة Our Effect on the Environment (p. 69). The TSV twin record is the same book; its content is cited once, here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Soil as an environmental property: the kind of soil in a habitat decides which creatures can live there, and soil matters to plants because they take water and mineral salts from it; the three commonest soil kinds — sandy soil (large particles, big air gaps, a poor source of oxygen, dry), clay soil (very small particles that stick together when wet, a poor source of oxygen, wet), and garden soil/loam (التربة الحدائقية: contains much plant and animal remains, very fertile, not too dry or wet); plant pests belong here too: aphids (حشرات المن) suck the sap of buds and spread plant diseases, and weevils are small beetles that damage crops and grains with their long snouts; sidebar: algae are tiny creatures containing chlorophyll that usually grow in water or on wet surfaces — when they multiply fast at sea they colour the water red (the "red tide", المد الأحمر), which can kill many fish, and algae are useful to humans as food and medicine (Libya, G6 SB T2) | Libya, *Science, Grade 6, Student Book, Term 2*, printed pp. 49–50 |
+
+**Acceptance count: taught in 16 countries — Libya added.**
+
+Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: libya, libya science, centre for educational curricula and educational research, soil-and-water loam-clay-and-sand-the-squeeze-test

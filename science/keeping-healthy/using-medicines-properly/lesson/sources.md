@@ -1,6 +1,6 @@
 # Sources — Using medicines properly
 
-countries: Ethiopia, Samoa, Yemen, Vietnam, Nicaragua, South Sudan, Colombia
+countries: Ethiopia, Samoa, Yemen, Vietnam, Nicaragua, South Sudan, Colombia, Libya
 
 **Book 9:** *Grade 4 Environmental Science Teacher Guide — Oromia Education Bureau edition* (የአካባቢ ሳይንስ የመምህራን መምሪያ አራተኛ ክፍል) (teacher's guide) — Ethiopia, Oromia Education Bureau, © 2014 E.C. (2022), prepared with Asella Teachers' Training College. COMPLETE: printed pp. 1–95 (all 5 units + syllabus). Printed page = PDF page − 6. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-teacher-placements.md.
 
@@ -138,3 +138,18 @@ South Sudan's own way — its Ministry of General Education and Instruction Prim
 Colombia's own way — its Ministerio de Educación Nacional *Ciencias Naturales* books (the Escuela Nueva cartillas for Grades 1–5, the Secundaria Activa modules and the Postprimaria Rural guides for Grades 6–9) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Colombia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: colombia, colombia science, ciencias naturales, ministerio de educación nacional colombia, keeping-healthy/using-medicines-properly
+
+
+## Libya growth (2026-11-14, General Science expansion)
+
+**Book (Libya — Science, Grade 8, Student Book, Term 1 (Libya)):** Title as printed: العلوم للصف الثامن من مرحلة التعليم الأساسي — الفصل الدراسي الأول (Science for the Eighth Grade of Basic Education — First Term) Grade / type: Grade 8, Student Book, Term 1 Publisher: State of Libya, Ministry of Education, Centre for Educational Curricula and Educational Research, Libya; school year 2019–2020 / 1440–1441 H; no ISBN printed PDF pages: 102 (10,789,995 bytes, fetched from the GitHub repo tree at grade-08/gov/libya/science/student-book-term-1.pdf). Printed page = PDF page (body footers match PDF pagination). Cover rendered and verified. Read in full from the book's text layer. Verdict: COMPLETE. Part 1 الطاقة (Energy): Ch. 1 مصادر الطاقة وتخزينها Sources of Energy and their Storage (printed p. 8), Ch. 2 الحرارة وتأثيراتها Heat and its Effects (p. 24), Ch. 3 انتقال الحرارة Heat Transfer (p. 36), Ch. 4 القوة والضغط Force and Pressure (p. 50), Ch. 5 عزم القوة Moment of a Force (p. 60), Ch. 6 شغل تبذله قوة Work Done by a Force (p. 69). Part 2 التفاعل (Interaction): Ch. 7 إساءة استخدام عمليات الحياة (1) Misuse of Life Processes (1) — drugs (p. 77), Ch. 8 إساءة استخدام عمليات الحياة (2) — smoking and alcohol (p. 86). Glossary (مسرد) p. 98. All eight chapters are general/integrated science and are placed in full; there are no split-subject chapter lines in this book. The TSV twin record is the same book; its content is cited once, here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| §7-1/7-2, What are drugs, and why do people use drugs (ما العقاقير؟ / مالذا يستخدم الناس العقاقير؟): drugs (العقاقير) are chemical substances which, when taken, have an effect on the form or function of the human body; a very wide variety of substances are called drugs (Fig. 7-1): medical drugs such as penicillin and paludrine (البالودرين); drugs that are misused such as heroin and morphine; and socially acceptable drugs such as caffeine; most drugs are used to treat the symptoms of diseases and infections, and those drugs are called medicines (أدوية): penicillin, which is produced by a fungus, is used widely in treating bacterial infections; other medical drugs called narcotics (مخدرات) are used to reduce the feeling of pain in patients — examples are cocaine and morphine, used to reduce the pain suffered by cancer patients; analgesics (المسكنات) are drugs used to relieve pain without anaesthesia and without affecting consciousness, such as aspirin; sleeping drugs and tranquillisers (الأدوية المنومة والمهدئة) have a calming effect and are used to soothe the body — doctors prescribe them for patients suffering anxiety, high blood pressure, insomnia and stomach ulcers, and they can be very useful in helping to face emergency crises provided they are used only for a short period under close medical supervision, to avoid their dangers and complications — most people use drugs wisely and consciously, and using a drug in a wrong way is called drug misuse (Libya, G8 SB T1) | Libya, *Science, Grade 8, Student Book, Term 1*, printed pp. 78–79 |
+
+**Acceptance count: taught in 7 countries — Libya added.**
+
+Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: libya, libya science, centre for educational curricula and educational research, keeping-healthy using-medicines-properly

@@ -1,6 +1,6 @@
 # Sources — Exploring space — how technology extends what we know
 
-countries: Bhutan, Moldova, Pakistan (Punjab), Samoa, Dominican Republic, Kuwait, China, Eritrea, Sri Lanka, Indonesia, Bangladesh, Fiji, Yemen, Vietnam, Nicaragua, Malaysia, Iraq, Colombia, Papua New Guinea (teacher-guide evidence only)
+countries: Bhutan, Moldova, Pakistan (Punjab), Samoa, Dominican Republic, Kuwait, China, Eritrea, Sri Lanka, Indonesia, Bangladesh, Fiji, Yemen, Vietnam, Nicaragua, Malaysia, Iraq, Colombia, Papua New Guinea (teacher-guide evidence only), Libya
 
 **Book 1:** *Physics, Class Nine* (student textbook) — Bhutan, Kinley Gyaltshen & Sumitra Subba; Kuensel Corporation Limited, Thimphu; Edition 2014, Reprint 2019; ISBN 978-99936-53-25-7. Grade: 9 · Student book · Repo path: grade-09/gov/bhutan/physics/full-year.pdf (release copy: releases/download/mid-size-books-3/grade-09-gov-bhutan-physics-full-year.pdf). Byte size: 6,011,247 (exact match). PDF pages: 227 (record: 227). Offset: printed p. = PDF p. − 27 (printed p. 1 is PDF p. 28); front matter in roman numerals. Verdict: COMPLETE — full text layer, all 227 pages; contents and every chapter opener read, interiors sampled throughout. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bhutan-placements.md.
 
@@ -302,3 +302,19 @@ Guide evidence: the rows below are cited as the evidence they are. Teacher guide
 **Acceptance count: taught in 18 countries — unchanged: Papua New Guinea's rows above are guide evidence only, named here, counted nowhere.**
 
 Papua New Guinea's own way — its Department of Education National Science Textbooks and teacher guides/manuals (JICA QUIS-ME and Standards Based series) teaching this thing in the order and at the places named in the rows above, with Papua New Guinea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+
+## Libya growth (2026-11-14, General Science expansion)
+
+**Book (Libya — Science, Grade 5, Student Book, Term 1 (Libya)):** Title as printed: العلوم للصف الخامس من مرحلة التعليم الأساسي — الفصل الدراسي الأول (Science for the Fifth Grade of Basic Education, First Term) Grade / kind: Grade 5, student book, Term 1 Publisher: State of Libya, Ministry of Education, Centre for Educational Curricula and Educational Research (مركز المناهج التعليمية والبحوث التربوية), school year 2019–2020 / 1440–1441 H as printed; no ISBN printed PDF pages: 81 (printed pages to 72, then notes pages). Printed page = PDF page − 8. Size 8,878,569 bytes via release mid-size-books-3 — the books.json twin record (grade-05/gov/libya/science/student-book-term-1.pdf) is the same book, cited once here. Verdict: COMPLETE. The text layer is sparse (most pages image-only), so it was read in full from 100-DPI page renders. Topic 1 الدورات (Cycles), lessons 1–5, then Topic 2 الطاقة (Energy), lessons 6–7. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Satellites (التوابع): any body that goes round another body in space is called a satellite; the planets are satellites of the sun, and planets and moons are natural satellites (Libya, G5 SB T1) | Libya, *Science, Grade 5, Student Book, Term 1*, printed p. 14 |
+| Artificial satellites: man-made satellites were sent into space by rockets and more than 8,000 of them circle the Earth; they relay phone calls and radio and TV programmes, let us watch live broadcasts, talk to a friend far away by phone, help forecast the weather and collect information about the other planets; the largest artificial satellites are space stations where people can work and live (Libya, G5 SB T1) | Libya, *Science, Grade 5, Student Book, Term 1*, printed pp. 14–15 |
+
+**Acceptance count: taught in 19 countries — Libya added.**
+
+Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: libya, libya science, centre for educational curricula and educational research, earth-and-space exploring-space-how-technology-extends-what-we-know

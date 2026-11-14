@@ -1,6 +1,6 @@
 # Sources — Chemical change: burning and gas-making
 
-countries: Ethiopia, Serbia, Djibouti (teacher-guide evidence only), Costa Rica, Uganda, Samoa, Seychelles, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Angola, Bhutan, Dominican Republic, Kuwait, China, Syria, Sri Lanka, North Macedonia, Indonesia (teacher-guide evidence only), Fiji (teacher-guide evidence only), Yemen, Saudi Arabia, Vietnam, Morocco (teacher-guide evidence only), South Sudan, Iraq, El Salvador, Colombia, Nepal, Papua New Guinea
+countries: Ethiopia, Serbia, Djibouti (teacher-guide evidence only), Costa Rica, Uganda, Samoa, Seychelles, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Angola, Bhutan, Dominican Republic, Kuwait, China, Syria, Sri Lanka, North Macedonia, Indonesia (teacher-guide evidence only), Fiji (teacher-guide evidence only), Yemen, Saudi Arabia, Vietnam, Morocco (teacher-guide evidence only), South Sudan, Iraq, El Salvador, Colombia, Nepal, Papua New Guinea, Libya
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -545,3 +545,18 @@ Guide evidence: the rows below are cited as the evidence they are. Teacher guide
 **Acceptance count: taught in 25 countries — Papua New Guinea added.** Papua New Guinea counts through its student books above; its teacher guides/manuals in this section are guide evidence only, counted nowhere beyond that one count.
 
 Papua New Guinea's own way — its Department of Education National Science Textbooks and teacher guides/manuals (JICA QUIS-ME and Standards Based series) teaching this thing in the order and at the places named in the rows above, with Papua New Guinea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+
+## Libya growth (2026-11-14, General Science expansion)
+
+**Book (Libya — Science, Grade 4, Student Book, Term 1 (Libya)):** Title as printed: العلوم للصف الرابع من مرحلة التعليم الأساسي — الفصل الدراسي الأول, holding Topic 1 الدورات (Cycles) and the opening of Topic 2 الأجهزة (Systems) Grade / kind: Grade 4, student book, Term 1 Publisher: State of Libya, Ministry of Education, Centre for Educational Curricula and Educational Research (مركز المناهج التعليمية والبحوث التربوية), school year 2019–2020 / 1440–1441 H; no ISBN printed PDF pages: 89. Size 9,711,869 bytes via release mid-size-books-3 — the books.json twin record (grade-04/gov/libya/science/student-book-term-1.pdf) is the same book, cited once here. Verdict: COMPLETE. Read in full — the Arabic text layer plus 100-DPI page renders for the many image-only pages; the book ends with a blank notes page. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Oxygen is needed for burning too: a candle, paper or wood burning uses up oxygen, so a fire needs a continuous supply of fresh, oxygen-rich air to keep burning (Libya, G4 SB T1) | Libya, *Science, Grade 4, Student Book, Term 1*, printed p. 66 |
+
+**Acceptance count: taught in 26 countries — Libya added.**
+
+Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: libya, libya science, centre for educational curricula and educational research, materials chemical-change-burning-and-gas-making

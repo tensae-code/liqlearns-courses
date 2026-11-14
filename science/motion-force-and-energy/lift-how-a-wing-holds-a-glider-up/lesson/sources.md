@@ -1,6 +1,6 @@
 # Sources — Lift — how a wing's pressure difference holds a glider up
 
-countries: Finland (instructor-pack evidence only), Vietnam, Moldova, South Sudan
+countries: Finland (instructor-pack evidence only), Vietnam, Moldova, South Sudan, Libya
 
 **Book 1:** *Fysiikkaa: Tutkitaan ilmaa ja lämpöä (Physics: Investigating air and heat)* (instructor pack with pupil instruction sheets — recorded student; in substance a teacher/instructor pack) — Finland, Grade 1 (recorded grade; the material itself is an adult-led experiment pack for young children), compiled by Merike Kesler, Kehittämiskeskus Opinkirjo. Repo path: grade-01/gov/finland/physics/student/finland-g01-aoe1072-opinkirjo-teemakokonaisuus-fysiikka-1.pdf. Bytes: 1,120,626 (exact match). PDF pages: 19. Printed pagination: none — page references are PDF pages. Verdict: COMPLETE read (full text layer, all 19 pages) in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/finland-placements.md.
 
@@ -60,3 +60,18 @@ Teacher's guide — evidence only: cited as the evidence it is, outside the acce
 **Acceptance count: taught in 3 countries — South Sudan added.** South Sudan counts through its Primary pupil's books above; its Teacher's Guides in this section are guide evidence only, counted nowhere beyond that one count.
 
 South Sudan's own way — its Ministry of General Education and Instruction Primary Science books (©2018, effect from 4th February 2019) teaching this thing in the unit order and at the places named in the rows above, with South Sudan's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+
+## Libya growth (2026-11-14, General Science expansion)
+
+**Book (Libya — Science, Grade 4, Activity Workbook, Term 1 (Libya)):** Title as printed: العلوم للصف الرابع من مرحلة التعليم الأساسي — الفصل الدراسي الأول — كراسة الأنشطة (Science for the Fourth Grade of Basic Education, First Term, Activity Workbook) Grade / kind: Grade 4, activity workbook, Term 1 (companion to the Grade 4 student book Term 1) Publisher: State of Libya, Ministry of Education, Centre for Educational Curricula and Educational Research, school year 2019–2020 / 1440–1441 H; no ISBN printed PDF pages: 43 (printed pages to 35, then notes pages). 1,862,261 bytes, fetched by repo tree path grade-04/gov/libya/science/activity-workbook-term-1.pdf. No TSV twin. Verdict: COMPLETE. 16 numbered practical activities in two units (Cycles / الدورات, then Devices / الأجهزة from Activity 13). It counts in the acceptance count (activity workbook — pupil-facing, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Activity 13, Air around us in every place: folding a paper aerofoil (curved lifting surface) and listing everything that can make it move — only moving air counts (Libya, G4 WB T1) | Libya, *Science, Grade 4, Activity Workbook, Term 1*, printed pp. 29–30 |
+
+**Acceptance count: taught in 4 countries — Libya added.**
+
+Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: libya, libya science, centre for educational curricula and educational research, motion-force-and-energy lift-how-a-wing-holds-a-glider-up

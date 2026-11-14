@@ -1,6 +1,6 @@
 # Sources — Light travels in straight lines
 
-countries: Ethiopia, Haiti (programme evidence only), Slovenia, Fiji, Morocco (teacher-guide evidence only), Kenya, Iraq, Cambodia, Egypt, Bulgaria, Yemen, Afghanistan, Belarus, Uzbekistan, North Macedonia, Laos, Moldova, South Sudan, Mozambique, Cuba, Mauritania, Greece, Armenia, Kazakhstan, Mongolia, Pakistan (Punjab), Sudan, Bhutan, China, Eritrea, Sri Lanka, Rwanda, Indonesia, Saudi Arabia, Vietnam, Malaysia, Colombia, Nepal, Papua New Guinea
+countries: Ethiopia, Haiti (programme evidence only), Slovenia, Fiji, Morocco (teacher-guide evidence only), Kenya, Iraq, Cambodia, Egypt, Bulgaria, Yemen, Afghanistan, Belarus, Uzbekistan, North Macedonia, Laos, Moldova, South Sudan, Mozambique, Cuba, Mauritania, Greece, Armenia, Kazakhstan, Mongolia, Pakistan (Punjab), Sudan, Bhutan, China, Eritrea, Sri Lanka, Rwanda, Indonesia, Saudi Arabia, Vietnam, Malaysia, Colombia, Nepal, Papua New Guinea, Libya
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -509,3 +509,24 @@ Guide evidence: the rows below are cited as the evidence they are. Teacher guide
 **Acceptance count: taught in 37 countries — Papua New Guinea added.** Papua New Guinea counts through its student books above; its teacher guides/manuals in this section are guide evidence only, counted nowhere beyond that one count.
 
 Papua New Guinea's own way — its Department of Education National Science Textbooks and teacher guides/manuals (JICA QUIS-ME and Standards Based series) teaching this thing in the order and at the places named in the rows above, with Papua New Guinea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+
+## Libya growth (2026-11-14, General Science expansion)
+
+**Book (Libya — Science, Grade 4, Student Book, Term 2 (Libya)):** Title as printed: العلوم للصف الرابع من مرحلة التعليم الأساسي — الفصل الدراسي الثاني, holding the rest of Topic 2 الأجهزة (Systems) and Topic 3 الطاقة (Energy) Grade / kind: Grade 4, student book, Term 2 Publisher: State of Libya, Ministry of Education, Centre for Educational Curricula and Educational Research (مركز المناهج التعليمية والبحوث التربوية), school year 2019–2020 / 1440–1441 H; no ISBN printed PDF pages: 72. Size 7,160,654 bytes via release mid-size-books-3 — the books.json twin record (grade-04/gov/libya/science/student-book-term-2.pdf) is the same book, cited once here. Verdict: COMPLETE. Read in full from 100-DPI page renders (most pages are image-only); the book ends with blank notes pages. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Because light travels in straight lines, a shadow always forms on the side of the body opposite the light source, it cannot bend round things, and a body with straight edges casts a straight-edged shadow; bodies that let some light through cast paler shadows (Libya, G4 SB T2) | Libya, *Science, Grade 4, Student Book, Term 2*, printed p. 37 |
+
+**Book (Libya — Science, Grade 4, Activity Workbook, Term 2 (Libya)):** Title as printed: العلوم للصف الرابع من مرحلة التعليم الأساسي — الفصل الدراسي الثاني, كراسة الأنشطة (Activity Workbook), Activities 17–29, closing Topic 2 الأجهزة (Systems) and covering Topic 3 الطاقة (Energy) Grade / kind: Grade 4, activity workbook, Term 2 Publisher: State of Libya, Ministry of Education, Centre for Educational Curricula and Educational Research (مركز المناهج التعليمية والبحوث التربوية), school year 2019–2020 / 1440–1441 H; no ISBN printed PDF pages: 44. Size 1,421,149 bytes, fetched by repo tree path (grade-04/gov/libya/science/activity-workbook-term-2.pdf) — the books.json record is the same book, cited once here. Verdict: COMPLETE. Read in full from 100-DPI page renders (the text layer is garbled presentation-form Arabic); printed pp. 1–38 of activities plus front matter. It counts in the acceptance count (activity workbook — pupil-facing, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Activity 21, How Light Travels: look at things through a straight 30 cm rubber or plastic tube — you can see them; bend the tube and the same body can no longer be seen, because light does not bend but travels in straight lines (Libya, G4 WB T2) | Libya, *Science, Grade 4, Activity Workbook, Term 2*, printed pp. 10–11 |
+
+**Acceptance count: taught in 38 countries — Libya added.**
+
+Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: libya, libya science, centre for educational curricula and educational research, light light-travels-in-straight-lines

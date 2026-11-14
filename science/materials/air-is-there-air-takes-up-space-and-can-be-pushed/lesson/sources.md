@@ -1,6 +1,6 @@
 # Sources — Air is there — air takes up space and can be pushed
 
-countries: Gabon (teacher-guide evidence only), Jamaica (curriculum-guide evidence only), Djibouti (teacher-guide evidence only), India, Uganda, Bulgaria, Moldova, Cuba, Cambodia (guide evidence only), Seychelles, Cabo Verde (teacher-guide evidence only), Sudan, Mauritania, Angola, China, Laos, Eritrea, Sri Lanka, Rwanda, Bangladesh, Fiji (teacher-guide evidence only), Yemen, Saudi Arabia, Vietnam, Malaysia, Morocco (teacher-guide evidence only), South Sudan, Papua New Guinea
+countries: Gabon (teacher-guide evidence only), Jamaica (curriculum-guide evidence only), Djibouti (teacher-guide evidence only), India, Uganda, Bulgaria, Moldova, Cuba, Cambodia (guide evidence only), Seychelles, Cabo Verde (teacher-guide evidence only), Sudan, Mauritania, Angola, China, Laos, Eritrea, Sri Lanka, Rwanda, Bangladesh, Fiji (teacher-guide evidence only), Yemen, Saudi Arabia, Vietnam, Malaysia, Morocco (teacher-guide evidence only), South Sudan, Papua New Guinea, Libya
 
 **Book 1:** *Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année* (teacher guide) — Gabon, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Title as printed: Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Grade 3. Teacher guide. Repo path: grade-03/gov/gabon/sciences/teacher/gabon-g03-sciences-teacher.pdf. Byte size: 1,385,512 (no size in record). PDF pages: 64. Offset: printed pp. 3–64 (sommaire: paliers at pp. 3–16, 17–29, 30–42, 43–53, 54–64). Verdict: COMPLETE — full text read (36,970 words); sommaire and palier competence statements prove identity and scope. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -489,3 +489,27 @@ Guide evidence: the rows below are cited as the evidence they are. Teacher guide
 **Acceptance count: taught in 20 countries — Papua New Guinea added.** Papua New Guinea counts through its student books above; its teacher guides/manuals in this section are guide evidence only, counted nowhere beyond that one count.
 
 Papua New Guinea's own way — its Department of Education National Science Textbooks and teacher guides/manuals (JICA QUIS-ME and Standards Based series) teaching this thing in the order and at the places named in the rows above, with Papua New Guinea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+
+## Libya growth (2026-11-14, General Science expansion)
+
+**Book (Libya — Science, Grade 4, Activity Workbook, Term 1 (Libya)):** Title as printed: العلوم للصف الرابع من مرحلة التعليم الأساسي — الفصل الدراسي الأول — كراسة الأنشطة (Science for the Fourth Grade of Basic Education, First Term, Activity Workbook) Grade / kind: Grade 4, activity workbook, Term 1 (companion to the Grade 4 student book Term 1) Publisher: State of Libya, Ministry of Education, Centre for Educational Curricula and Educational Research, school year 2019–2020 / 1440–1441 H; no ISBN printed PDF pages: 43 (printed pages to 35, then notes pages). 1,862,261 bytes, fetched by repo tree path grade-04/gov/libya/science/activity-workbook-term-1.pdf. No TSV twin. Verdict: COMPLETE. 16 numbered practical activities in two units (Cycles / الدورات, then Devices / الأجهزة from Activity 13). It counts in the acceptance count (activity workbook — pupil-facing, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Activity 5, Air is matter (part 2): prove air has mass — two balloons balanced on a beam, then inflating one tips the balance (Libya, G4 WB T1) | Libya, *Science, Grade 4, Activity Workbook, Term 1*, printed p. 11 |
+| Activity 5, Air is matter (part 1): prove air takes up space — a sponge sunk in water without wetting it, and an inverted plastic cup pushed into a basin stays unfilled (Libya, G4 WB T1) | Libya, *Science, Grade 4, Activity Workbook, Term 1*, printed pp. 9–10 |
+
+**Book (Libya — Science, Grade 4, Student Book, Term 1 (Libya)):** Title as printed: العلوم للصف الرابع من مرحلة التعليم الأساسي — الفصل الدراسي الأول, holding Topic 1 الدورات (Cycles) and the opening of Topic 2 الأجهزة (Systems) Grade / kind: Grade 4, student book, Term 1 Publisher: State of Libya, Ministry of Education, Centre for Educational Curricula and Educational Research (مركز المناهج التعليمية والبحوث التربوية), school year 2019–2020 / 1440–1441 H; no ISBN printed PDF pages: 89. Size 9,711,869 bytes via release mid-size-books-3 — the books.json twin record (grade-04/gov/libya/science/student-book-term-1.pdf) is the same book, cited once here. Verdict: COMPLETE. Read in full — the Arabic text layer plus 100-DPI page renders for the many image-only pages; the book ends with a blank notes page. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Matter you cannot see: air — in soap bubbles and inside bicycle tyres — is tested by the same two questions, does it have mass and does it take up space? (Libya, G4 SB T1) | Libya, *Science, Grade 4, Student Book, Term 1*, printed p. 8 |
+| Proving air has mass: an empty plastic ball and the same ball blown up with air are put on the two pans — the blown-up ball is heavier, so air has mass and takes up space, and air is matter (Libya, G4 SB T1) | Libya, *Science, Grade 4, Student Book, Term 1*, printed p. 9 |
+| Air is all around us: it is everywhere though we cannot see it; we know it is there because we feel it when it moves — moving air is wind — and we can see things move when the wind blows (Libya, G4 SB T1) | Libya, *Science, Grade 4, Student Book, Term 1*, printed pp. 64–65 |
+
+**Acceptance count: taught in 21 countries — Libya added.**
+
+Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: libya, libya science, centre for educational curricula and educational research, materials air-is-there-air-takes-up-space-and-can-be-pushed

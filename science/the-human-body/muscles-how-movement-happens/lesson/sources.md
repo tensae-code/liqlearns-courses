@@ -1,6 +1,6 @@
 # Sources — Muscles — how movement happens
 
-countries: Ethiopia, Djibouti (teacher-guide evidence only), Mongolia, Bulgaria, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Cuba, Cambodia, Ecuador, Afghanistan, Cabo Verde, Sudan, Mauritania, Angola, Dominican Republic, Kuwait, Syria, Sri Lanka, Rwanda, North Macedonia, Yemen, Vietnam, Nicaragua, Morocco (teacher-guide evidence only), South Sudan, Iraq, El Salvador, Colombia, Papua New Guinea
+countries: Ethiopia, Djibouti (teacher-guide evidence only), Mongolia, Bulgaria, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Cuba, Cambodia, Ecuador, Afghanistan, Cabo Verde, Sudan, Mauritania, Angola, Dominican Republic, Kuwait, Syria, Sri Lanka, Rwanda, North Macedonia, Yemen, Vietnam, Nicaragua, Morocco (teacher-guide evidence only), South Sudan, Iraq, El Salvador, Colombia, Papua New Guinea, Libya
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank as printed (printed “ISBN No –”). PDF 241 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -521,3 +521,25 @@ Guide evidence: the rows below are cited as the evidence they are. Teacher guide
 **Acceptance count: taught in 26 countries — Papua New Guinea added.** Papua New Guinea counts through its student books above; its teacher guides/manuals in this section are guide evidence only, counted nowhere beyond that one count.
 
 Papua New Guinea's own way — its Department of Education National Science Textbooks and teacher guides/manuals (JICA QUIS-ME and Standards Based series) teaching this thing in the order and at the places named in the rows above, with Papua New Guinea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+
+## Libya growth (2026-11-14, General Science expansion)
+
+**Book (Libya — Science, Grade 3, Student Book Part 2 (Libya)):** Title as printed: العلوم للصف الثالث من مرحلة التعليم الأساسي — الجزء الثاني (Science for the Third Grade of Basic Education, Part 2) Grade / kind: Grade 3, student book, Part 2 of 2 Publisher: State of Libya, Ministry of Education, Centre for Educational Curricula and Educational Research, school year 2019–2020 / 1440–1441 H as printed on the imprint page; no ISBN printed PDF pages: 95 (printed pages to 85, then notes pages). Size 37,312,961 bytes via release mid-size-books-3 — matches the books.json twin record (grade-03/gov/libya/science/student-book-part-2.pdf); same book, cited once here. Verdict: COMPLETE. Topics 1 (continued)–4: Diversity lessons 7–8, Cycles lessons 9–11, Systems lessons 12–17, Interactions lesson 18. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bones cannot move by themselves: muscles — thick, stretchy bands that cover the skeleton and are attached to the bones — pull the bones so you can walk, run and jump; muscles mostly work in pairs, one contracting to pull a bone while its partner relaxes (Libya, G3 SB Pt2) | Libya, *Science, Grade 3, Student Book Part 2*, printed p. 63 |
+| Most activities need hundreds of different muscles working together, all pulling the bones this way and that — skeleton and muscles must work together or no movement is possible (Libya, G3 SB Pt2) | Libya, *Science, Grade 3, Student Book Part 2*, printed p. 64 |
+
+**Book (Libya — Science, Grade 3, Teacher Guide (Libya)):** Title as printed: دليل المعلم — العلوم للصف الثالث من مرحلة التعليم الأساسي (teacher guide to the "Science Friends!" programme, يحبون العلوم الأصدقاء!) Grade / kind: Grade 3, teacher guide (covers both student-book parts) Publisher: State of Libya, Ministry of Education, Centre for Educational Curricula and Educational Research (مركز المناهج التعليمية والبحوث التربوية), school year 2018–2019 / 1439–1440 H as printed on the guide's own title page (the student books print 2019–2020); no ISBN printed PDF pages: 239. Size 43,317,683 bytes via release mid-size-books-3. Verdict: COMPLETE. The PDF has no text layer, so it was read in full from 100-DPI page renders: scheme of work (printed pp. 1–31), lesson plans with teacher background notes (printed pp. 32–192), overhead-transparency and coloured-slide masters (printed pp. 193–229), then blank trailing pages. Every placement below is guide evidence — extra teaching content the guide adds; the student-book content itself is already placed under Books 1 and 3 and is not re-placed here. Every placement from this book is guide evidence — extra teaching content the guide adds — cited as the evidence it is, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| (guide evidence) Muscle facts: the body has more than 650 muscles, tied to the bones by tendons; they come in three kinds — skeletal muscles we control, smooth muscles in the gut and blood vessels that work on their own, and heart muscle; and because a muscle can only pull and never push, muscles must work in opposing pairs (Libya, G3 TG) | Libya, *Science, Grade 3, Teacher Guide*, printed p. 161 |
+
+**Acceptance count: taught in 27 countries — Libya added.** Libya's Grade 3 teacher-guide rows in this section are guide evidence only, counted nowhere beyond that one count.
+
+Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: libya, libya science, centre for educational curricula and educational research, the-human-body muscles-how-movement-happens

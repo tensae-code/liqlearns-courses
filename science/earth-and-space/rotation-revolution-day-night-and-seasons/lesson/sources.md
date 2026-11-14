@@ -1,6 +1,6 @@
 # Sources — The Earth — rotation, revolution, day-night and seasons
 
-countries: Ethiopia, Finland (teacher-training evidence only), Uzbekistan, Vietnam, Cuba, Kazakhstan, Suriname, Albania (teacher-guide evidence only), Mongolia, Costa Rica, Bulgaria, Bahamas (curriculum evidence only), Moldova, United States, Pakistan (Punjab), Armenia, Samoa, Egypt, Cambodia, Ecuador, Afghanistan, Bhutan, Dominican Republic, China, Laos, Sri Lanka, North Macedonia, Indonesia, Bangladesh, Fiji, Yemen, Saudi Arabia, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), South Sudan, Iraq, El Salvador, Colombia, Nepal, Papua New Guinea
+countries: Ethiopia, Finland (teacher-training evidence only), Uzbekistan, Vietnam, Cuba, Kazakhstan, Suriname, Albania (teacher-guide evidence only), Mongolia, Costa Rica, Bulgaria, Bahamas (curriculum evidence only), Moldova, United States, Pakistan (Punjab), Armenia, Samoa, Egypt, Cambodia, Ecuador, Afghanistan, Bhutan, Dominican Republic, China, Laos, Sri Lanka, North Macedonia, Indonesia, Bangladesh, Fiji, Yemen, Saudi Arabia, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), South Sudan, Iraq, El Salvador, Colombia, Nepal, Papua New Guinea, Libya
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed ("ISBN No –"). COMPLETE: 207 PDF pp (199 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -755,3 +755,33 @@ Guide evidence: the rows below are cited as the evidence they are. Teacher guide
 **Acceptance count: taught in 37 countries — Papua New Guinea added.** Papua New Guinea counts through its student books above; its teacher guides/manuals in this section are guide evidence only, counted nowhere beyond that one count.
 
 Papua New Guinea's own way — its Department of Education National Science Textbooks and teacher guides/manuals (JICA QUIS-ME and Standards Based series) teaching this thing in the order and at the places named in the rows above, with Papua New Guinea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+
+## Libya growth (2026-11-14, General Science expansion)
+
+**Book (Libya — Science, Grade 3, Student Book Part 2 (Libya)):** Title as printed: العلوم للصف الثالث من مرحلة التعليم الأساسي — الجزء الثاني (Science for the Third Grade of Basic Education, Part 2) Grade / kind: Grade 3, student book, Part 2 of 2 Publisher: State of Libya, Ministry of Education, Centre for Educational Curricula and Educational Research, school year 2019–2020 / 1440–1441 H as printed on the imprint page; no ISBN printed PDF pages: 95 (printed pages to 85, then notes pages). Size 37,312,961 bytes via release mid-size-books-3 — matches the books.json twin record (grade-03/gov/libya/science/student-book-part-2.pdf); same book, cited once here. Verdict: COMPLETE. Topics 1 (continued)–4: Diversity lessons 7–8, Cycles lessons 9–11, Systems lessons 12–17, Interactions lesson 18. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The seasons form a cycle too, but a slow one: spring to summer to autumn to winter takes a whole year (Libya, G3 SB Pt2) | Libya, *Science, Grade 3, Student Book Part 2*, printed p. 19 |
+| A cycle is a pattern that repeats again and again so the next step can be predicted; the day is a cycle of morning, noon and night that repeats every day (Libya, G3 SB Pt2) | Libya, *Science, Grade 3, Student Book Part 2*, printed pp. 18–19 |
+
+**Book (Libya — Science, Grade 4, Student Book, Term 2 (Libya)):** Title as printed: العلوم للصف الرابع من مرحلة التعليم الأساسي — الفصل الدراسي الثاني, holding the rest of Topic 2 الأجهزة (Systems) and Topic 3 الطاقة (Energy) Grade / kind: Grade 4, student book, Term 2 Publisher: State of Libya, Ministry of Education, Centre for Educational Curricula and Educational Research (مركز المناهج التعليمية والبحوث التربوية), school year 2019–2020 / 1440–1441 H; no ISBN printed PDF pages: 72. Size 7,160,654 bytes via release mid-size-books-3 — the books.json twin record (grade-04/gov/libya/science/student-book-term-2.pdf) is the same book, cited once here. Verdict: COMPLETE. Read in full from 100-DPI page renders (most pages are image-only); the book ends with blank notes pages. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Where sunlight is scarce: some places on Earth receive little of the sun's light and heat and stay dark and cold for long periods; the animals there are less active, many sleep through the long winter, and they grow active again when the light and heat increase (Libya, G4 SB T2) | Libya, *Science, Grade 4, Student Book, Term 2*, printed p. 23 |
+
+**Book (Libya — Science, Grade 5, Student Book, Term 1 (Libya)):** Title as printed: العلوم للصف الخامس من مرحلة التعليم الأساسي — الفصل الدراسي الأول (Science for the Fifth Grade of Basic Education, First Term) Grade / kind: Grade 5, student book, Term 1 Publisher: State of Libya, Ministry of Education, Centre for Educational Curricula and Educational Research (مركز المناهج التعليمية والبحوث التربوية), school year 2019–2020 / 1440–1441 H as printed; no ISBN printed PDF pages: 81 (printed pages to 72, then notes pages). Printed page = PDF page − 8. Size 8,878,569 bytes via release mid-size-books-3 — the books.json twin record (grade-05/gov/libya/science/student-book-term-1.pdf) is the same book, cited once here. Verdict: COMPLETE. The text layer is sparse (most pages image-only), so it was read in full from 100-DPI page renders. Topic 1 الدورات (Cycles), lessons 1–5, then Topic 2 الطاقة (Energy), lessons 6–7. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Revolution and the year: we celebrate the new year every 1 January, evidence that the Earth has completed one full orbit around the sun; the orbit takes about 365 days (one solar year) (Libya, G5 SB T1) | Libya, *Science, Grade 5, Student Book, Term 1*, printed p. 11 |
+| Rotation and day/night: while orbiting the sun the Earth also spins around its axis (an imaginary line drawn through the centre of the ball); one full spin takes about 24 hours (one day); the side facing the sun is lit and has day while the other side stays dark in night (Libya, G5 SB T1) | Libya, *Science, Grade 5, Student Book, Term 1*, printed pp. 9–10 |
+| The sun seems to change its place through the day — it rises in the morning, sets in the evening and is not seen at night — but these changes are not the sun moving; they are part of a natural cycle caused by the Earth spinning; living things are more active in daylight and rest when darkness falls (Libya, G5 SB T1) | Libya, *Science, Grade 5, Student Book, Term 1*, printed pp. 9–11 |
+
+**Acceptance count: taught in 38 countries — Libya added.**
+
+Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: libya, libya science, centre for educational curricula and educational research, earth-and-space rotation-revolution-day-night-and-seasons

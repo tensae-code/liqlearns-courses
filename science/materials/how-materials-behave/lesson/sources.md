@@ -1,6 +1,6 @@
 # Sources — How materials behave: stretchy, breakable, shapable
 
-countries: Ethiopia, North Macedonia, Mauritania, United States, Samoa, Laos, Eritrea, Fiji, Saudi Arabia, Malaysia, Morocco (teacher-guide evidence only), El Salvador
+countries: Ethiopia, North Macedonia, Mauritania, United States, Samoa, Laos, Eritrea, Fiji, Saudi Arabia, Malaysia, Morocco (teacher-guide evidence only), El Salvador, Libya
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -186,3 +186,29 @@ Searchable tags: morocco, morocco science, al moufid, explora, dalil, materials 
 El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, materials/how-materials-behave
+
+
+## Libya growth (2026-11-14, General Science expansion)
+
+**Book (Libya — Science, Grade 4, Student Book, Term 2 (Libya)):** Title as printed: العلوم للصف الرابع من مرحلة التعليم الأساسي — الفصل الدراسي الثاني, holding the rest of Topic 2 الأجهزة (Systems) and Topic 3 الطاقة (Energy) Grade / kind: Grade 4, student book, Term 2 Publisher: State of Libya, Ministry of Education, Centre for Educational Curricula and Educational Research (مركز المناهج التعليمية والبحوث التربوية), school year 2019–2020 / 1440–1441 H; no ISBN printed PDF pages: 72. Size 7,160,654 bytes via release mid-size-books-3 — the books.json twin record (grade-04/gov/libya/science/student-book-term-2.pdf) is the same book, cited once here. Verdict: COMPLETE. Read in full from 100-DPI page renders (most pages are image-only); the book ends with blank notes pages. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Solids expand and contract: Omar's metal ball passes through a ring when cool, but after heating it is too big to pass — the increase in size on gaining heat is expansion (التمدد); left to cool, the ball shrinks back to its old size and passes again — the decrease on losing heat is contraction (الانكماش) (Libya, G4 SB T2) | Libya, *Science, Grade 4, Student Book, Term 2*, printed p. 55 |
+| Liquids expand and contract too: coloured water in a sealed flask with a thin tube climbs the tube when the flask sits in hot water and sinks when it sits in iced water — which is the working principle inside a thermometer (Libya, G4 SB T2) | Libya, *Science, Grade 4, Student Book, Term 2*, printed p. 56 |
+| Gases expand and contract too: an ink drop trapped in Abqariño's boiling tube is pushed up the tube by the warmth of a hand or hot water as the air inside expands, and slides down in iced water as the air contracts (Libya, G4 SB T2) | Libya, *Science, Grade 4, Student Book, Term 2*, printed p. 57 |
+| Expansion in daily life in Libya: the electric cables overhead are strung between steel pylons — in cold weather they contract and shorten, in summer heat they expand and sag, so they are hung loose with insulators at both ends so the pull never snaps them; likewise small gaps are left between railway rails so the rails can expand without bending (Libya, G4 SB T2) | Libya, *Science, Grade 4, Student Book, Term 2*, printed pp. 58–59 |
+
+**Book (Libya — Science, Grade 4, Activity Workbook, Term 2 (Libya)):** Title as printed: العلوم للصف الرابع من مرحلة التعليم الأساسي — الفصل الدراسي الثاني, كراسة الأنشطة (Activity Workbook), Activities 17–29, closing Topic 2 الأجهزة (Systems) and covering Topic 3 الطاقة (Energy) Grade / kind: Grade 4, activity workbook, Term 2 Publisher: State of Libya, Ministry of Education, Centre for Educational Curricula and Educational Research (مركز المناهج التعليمية والبحوث التربوية), school year 2019–2020 / 1440–1441 H; no ISBN printed PDF pages: 44. Size 1,421,149 bytes, fetched by repo tree path (grade-04/gov/libya/science/activity-workbook-term-2.pdf) — the books.json record is the same book, cited once here. Verdict: COMPLETE. Read in full from 100-DPI page renders (the text layer is garbled presentation-form Arabic); printed pp. 1–38 of activities plus front matter. It counts in the acceptance count (activity workbook — pupil-facing, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Activity 29, Expansion and Contraction — solids: a metal ball passes through its ring when cool; heat the ring over a candle and judge whether the ball can pass, then cool the ring in water — heating a solid makes it expand, cooling makes it contract (Libya, G4 WB T2) | Libya, *Science, Grade 4, Activity Workbook, Term 2*, printed pp. 33–34 |
+| Activity 29 — liquids: besides solid bodies, liquids expand when heated and contract when cooled — coloured water in a conical flask with a thin tube climbs when the flask stands in hot water and sinks in iced water (Libya, G4 WB T2) | Libya, *Science, Grade 4, Activity Workbook, Term 2*, printed pp. 35–36 |
+| Activity 29 — gases: gases expand and contract too — an ink drop sealed in a thin tube over a boiling tube moves as the air inside is warmed by the hand and falls back when the hand is taken away (Libya, G4 WB T2) | Libya, *Science, Grade 4, Activity Workbook, Term 2*, printed pp. 37–38 |
+
+**Acceptance count: taught in 12 countries — Libya added.**
+
+Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: libya, libya science, centre for educational curricula and educational research, materials how-materials-behave

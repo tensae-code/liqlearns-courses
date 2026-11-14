@@ -1,6 +1,6 @@
 # Sources — The flower and the fruit
 
-countries: Nicaragua, El Salvador, Colombia
+countries: Nicaragua, El Salvador, Colombia, Libya
 
 **Book (Nicaragua — Grade 9):** (student book) — Nicaragua. Title as printed: Ciencias Naturales, Noveno Grado, Serie Educativa "Educación Gratuita y de Calidad". Publisher: Ministerio de Educación (MINED), República de Nicaragua. Author: Thelma del Carmen Corea Sánchez; general coordination María Elsa Guillén and Rosalía Ríos Rivas. PDF 304 pages, 88,888,898 bytes. Verdict: COMPLETE (printed pp. 2–296, Units I–XI plus glossary and bibliography). Twin records: TSV release record (mid-size-books-2), TSV blob record and books.json record grade-09/gov/nicaragua/natural-sciences/student/full-year.pdf are the same book; cited once here. Not the same as the Grade 9 Módulo Autoformativo, filed separately below. Scope note: Unit II (cell cycle, meiosis, gametogenesis) is the Biology wave's strand, Unit IX (chemical bonding and nomenclature) the Chemistry wave's strand, and Units X–XI (varied rectilinear motion, Newton's laws, electric-current magnitudes) the Physics wave's strand — chapter-level lines for those, with single placements only where a general-science target slug exists. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nicaragua-placements.md.
 
@@ -62,3 +62,20 @@ Placement choice, on the record: the Colombia placement(s) above filed as “par
 Colombia's own way — its Ministerio de Educación Nacional *Ciencias Naturales* books (the Escuela Nueva cartillas for Grades 1–5, the Secundaria Activa modules and the Postprimaria Rural guides for Grades 6–9) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Colombia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: colombia, colombia science, ciencias naturales, ministerio de educación nacional colombia, plants/the-flower-and-the-fruit
+
+
+## Libya growth (2026-11-14, General Science expansion)
+
+**Book (Libya — Science, Grade 5, Activity Workbook, Term 1 (كراسة النشاط، الفصل الدراسي الأول)):** Title as printed: العلوم للصف الخامس من مرحلة التعليم الأساسي — الفصل الدراسي الأول — كراسة النشاط (Science for the Fifth Grade of Basic Education — First Term — Activity Workbook) Grade / type: Grade 5, Activity Workbook (student practical book), Term 1 Publisher: State of Libya, Ministry of Education, Centre for Educational Curricula and Educational Research, Libya; school year 2019–2020 / 1440–1441 H (copyright page); no ISBN printed PDF pages: 55 (1,237,668 bytes, fetched from the GitHub repo tree at grade-05/gov/libya/science/activity-workbook-term-1.pdf). Printed page = PDF page − 6; printed numbering runs to p. 49. Read in full from 100-DPI page renders after the book's own text layer proved too garbled to read reliably; renders deleted after filing. Verdict: COMPLETE. 18 numbered activities matching Term 1 of the student book (الدورات Cycles activities 1–14, الطاقة Energy activities 15–18), each with a skills guide (دليل المهارات) naming the process skill taught. This is the same book as the TSV record "Science G5 Activity Workbook Term 1"; its content is cited once, here. It counts in the acceptance count (activity workbook — pupil-facing, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Activity 12, Examining a flower: a flower is made of different parts — what are they, and what are the jobs of these parts? Examine the flower your teacher gave you and, using figure 12-1, identify parts أ–هـ and name them from the word list (petal, stigma, stamen, style, ovary): name the part of the flower that produces the pollen grains (Libya, G5 WB T1) — placement filed as plants/parts-of-a-flower-petals-stamens-and-the-carpel; that slug does not exist in the live course, so it is stocked into this lesson, the closest existing lesson covering that thing, and the original slug is recorded here | Libya, *Science, Grade 5, Activity Workbook, Term 1 (كراسة النشاط، الفصل الدراسي الأول)*, printed p. 31 |
+
+Placement choice, on the record: the Libya placement(s) above filed as plants/parts-of-a-flower-petals-stamens-and-the-carpel are stocked into this existing lesson (`plants/the-flower-and-the-fruit`), which already covers that thing as its own lesson (checked the live repo at merge time); no second lesson was built for them, and the original slug is recorded in each row above.
+
+**Acceptance count: taught in 4 countries — Libya added.**
+
+Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: libya, libya science, centre for educational curricula and educational research, plants the-flower-and-the-fruit

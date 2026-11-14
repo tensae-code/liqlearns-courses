@@ -1,6 +1,6 @@
 # Sources — Treating water to make it safe — filtering and settling
 
-countries: Gabon (teacher-guide evidence only), Zambia (teacher-module evidence only), Vanuatu (teacher-guide evidence only), India, Pakistan (Punjab), Cuba, Egypt, Seychelles, Ecuador, Cabo Verde, Mauritania, Bhutan, Laos, Eritrea, Sri Lanka, Rwanda, Bangladesh, Fiji (teacher-guide evidence only), Yemen, Vietnam, Malaysia, Morocco (teacher-guide evidence only), South Sudan, El Salvador, Colombia, Nepal, Papua New Guinea
+countries: Gabon (teacher-guide evidence only), Zambia (teacher-module evidence only), Vanuatu (teacher-guide evidence only), India, Pakistan (Punjab), Cuba, Egypt, Seychelles, Ecuador, Cabo Verde, Mauritania, Bhutan, Laos, Eritrea, Sri Lanka, Rwanda, Bangladesh, Fiji (teacher-guide evidence only), Yemen, Vietnam, Malaysia, Morocco (teacher-guide evidence only), South Sudan, El Salvador, Colombia, Nepal, Papua New Guinea, Libya
 
 **Book 1:** *Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année* (teacher guide) — Gabon, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Title as printed: Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Grade 3. Teacher guide. Repo path: grade-03/gov/gabon/sciences/teacher/gabon-g03-sciences-teacher.pdf. Byte size: 1,385,512 (no size in record). PDF pages: 64. Offset: printed pp. 3–64 (sommaire: paliers at pp. 3–16, 17–29, 30–42, 43–53, 54–64). Verdict: COMPLETE — full text read (36,970 words); sommaire and palier competence statements prove identity and scope. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -484,3 +484,19 @@ It counts in the acceptance count (student book, not evidence-only), except wher
 **Acceptance count: taught in 21 countries — Papua New Guinea added.** Papua New Guinea counts through its student books above; its teacher guides/manuals in this section are guide evidence only, counted nowhere beyond that one count.
 
 Papua New Guinea's own way — its Department of Education National Science Textbooks and teacher guides/manuals (JICA QUIS-ME and Standards Based series) teaching this thing in the order and at the places named in the rows above, with Papua New Guinea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+
+## Libya growth (2026-11-14, General Science expansion)
+
+**Book (Libya — Science, Grade 4, Student Book, Term 1 (Libya)):** Title as printed: العلوم للصف الرابع من مرحلة التعليم الأساسي — الفصل الدراسي الأول, holding Topic 1 الدورات (Cycles) and the opening of Topic 2 الأجهزة (Systems) Grade / kind: Grade 4, student book, Term 1 Publisher: State of Libya, Ministry of Education, Centre for Educational Curricula and Educational Research (مركز المناهج التعليمية والبحوث التربوية), school year 2019–2020 / 1440–1441 H; no ISBN printed PDF pages: 89. Size 9,711,869 bytes via release mid-size-books-3 — the books.json twin record (grade-04/gov/libya/science/student-book-term-1.pdf) is the same book, cited once here. Verdict: COMPLETE. Read in full — the Arabic text layer plus 100-DPI page renders for the many image-only pages; the book ends with a blank notes page. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Tap water is treated water: collected water is sent from reservoirs to treatment stations and cleaned before it reaches homes fit for drinking, cooking and washing (Libya, G4 SB T1) | Libya, *Science, Grade 4, Student Book, Term 1*, printed p. 40 |
+| Desalination, Libya's way of adding water: Libya also removes the salt from sea water at desalination plants — sea water holds too much dissolved salt to drink or use until the salt is taken out; most home water, though, begins as groundwater treated at water stations (Libya, G4 SB T1) | Libya, *Science, Grade 4, Student Book, Term 1*, printed pp. 53–54 |
+
+**Acceptance count: taught in 22 countries — Libya added.**
+
+Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: libya, libya science, centre for educational curricula and educational research, soil-and-water treating-water-to-make-it-safe-filtering-and-settling

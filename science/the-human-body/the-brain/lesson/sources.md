@@ -1,6 +1,6 @@
 # Sources — The brain
 
-countries: Ethiopia, Australia, Guyana, India, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Armenia, Cuba, Samoa, Egypt, Seychelles, Afghanistan, Cabo Verde, Venezuela, Mauritania, Angola, Dominican Republic, Kuwait, China, Syria, Laos, Sri Lanka, Bangladesh, Yemen, Vietnam, Nicaragua, Morocco (teacher-guide evidence only), South Sudan, Iraq, El Salvador, Colombia
+countries: Ethiopia, Australia, Guyana, India, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Armenia, Cuba, Samoa, Egypt, Seychelles, Afghanistan, Cabo Verde, Venezuela, Mauritania, Angola, Dominican Republic, Kuwait, China, Syria, Laos, Sri Lanka, Bangladesh, Yemen, Vietnam, Nicaragua, Morocco (teacher-guide evidence only), South Sudan, Iraq, El Salvador, Colombia, Libya
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -511,3 +511,18 @@ Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, the-human-
 Colombia's own way — its Ministerio de Educación Nacional *Ciencias Naturales* books (the Escuela Nueva cartillas for Grades 1–5, the Secundaria Activa modules and the Postprimaria Rural guides for Grades 6–9) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Colombia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: colombia, colombia science, ciencias naturales, ministerio de educación nacional colombia, the-human-body/the-brain
+
+
+## Libya growth (2026-11-14, General Science expansion)
+
+**Book (Libya — Science, Grade 3, Student Book Part 2 (Libya)):** Title as printed: العلوم للصف الثالث من مرحلة التعليم الأساسي — الجزء الثاني (Science for the Third Grade of Basic Education, Part 2) Grade / kind: Grade 3, student book, Part 2 of 2 Publisher: State of Libya, Ministry of Education, Centre for Educational Curricula and Educational Research, school year 2019–2020 / 1440–1441 H as printed on the imprint page; no ISBN printed PDF pages: 95 (printed pages to 85, then notes pages). Size 37,312,961 bytes via release mid-size-books-3 — matches the books.json twin record (grade-03/gov/libya/science/student-book-part-2.pdf); same book, cited once here. Verdict: COMPLETE. Topics 1 (continued)–4: Diversity lessons 7–8, Cycles lessons 9–11, Systems lessons 12–17, Interactions lesson 18. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sense organs send their information along special pathways, the nerves, to the brain; the brain helps you understand what is happening around you and decide what to do (Libya, G3 SB Pt2) | Libya, *Science, Grade 3, Student Book Part 2*, printed p. 40 |
+
+**Acceptance count: taught in 30 countries — Libya added.**
+
+Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: libya, libya science, centre for educational curricula and educational research, the-human-body the-brain

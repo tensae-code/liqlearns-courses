@@ -324,3 +324,18 @@ Guide evidence: the rows below are cited as the evidence they are. Teacher guide
 **Acceptance count: taught in 24 countries — unchanged: Papua New Guinea's rows above are guide evidence only, named here, counted nowhere.**
 
 Papua New Guinea's own way — its Department of Education National Science Textbooks and teacher guides/manuals (JICA QUIS-ME and Standards Based series) teaching this thing in the order and at the places named in the rows above, with Papua New Guinea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+
+## Libya growth (2026-11-14, General Science expansion)
+
+**Book (Libya — Science, Grade 6, Student Book, Term 1):** Title as printed: العلوم للصف السادس من مرحلة التعليم الأساسي — الفصل الدراسي الأول (Science for the Sixth Grade of Basic Education — First Term) Grade / type: Grade 6, Student Book, Term 1 Publisher: State of Libya, Ministry of Education, Centre for Educational Curricula and Educational Research, Libya; school year 2019–2020 / 1440–1441 H (copyright page); no ISBN printed PDF pages: 88 (9,812,612 bytes, fetched from release mid-size-books-4). Printed page = PDF page − 7; printed numbering runs to p. 80, followed by notes pages. The book's text layer is too garbled to read reliably, so the book was read in full from 100-DPI page renders; renders deleted after filing. Verdict: COMPLETE. Contents: Topic 1 التنوع (Diversity) — Lesson 1 Classification (التصنيف, printed p. 2), Lesson 2 Classifying materials (تصنيف المواد, p. 18); Topic 2 الطاقة (Energy) — Lesson 3 Forms of energy (أشكال الطاقة, p. 40), Lesson 4 Sources of energy (مصادر الطاقة, p. 64). The books.json twin record (grade-06/gov/libya/science/student-book-term-1.pdf) is the same book; its content is cited once, here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sound energy: sound is a form of the energy we can hear; sounds are all around us everywhere and can be very loud like thunder or soft like a whisper; we use sounds in communication — we produce sounds when we speak; why do animals produce sounds? The sounds whose warning whistles alarm us and fire-alarm devices warn us of emergencies or possible dangers (an ambulance pictured — what must a vehicle driver do on hearing an ambulance or fire-engine siren behind him?); sidebar: sounds are produced by things that move or vibrate — when any body vibrates, the air around it vibrates, and these vibrations are called sound waves; we hear sounds when the sound waves travel through the air or another material to our ears (Libya, G6 SB T1) | Libya, *Science, Grade 6, Student Book, Term 1*, printed p. 46 |
+
+**Acceptance count unchanged: taught in 24 countries.** Libya was already counted in this lesson through an earlier wave's Libya book; the General Science books above are further Libya books teaching this thing, not a second count for Libya.
+
+Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: libya, libya science, centre for educational curricula and educational research, sound echoes-at-work-echolocation-and-ultrasound

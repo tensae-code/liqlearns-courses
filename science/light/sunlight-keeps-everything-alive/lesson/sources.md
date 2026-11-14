@@ -1,6 +1,6 @@
 # Sources — Sunlight keeps everything alive, and what light is used for
 
-countries: Ethiopia, Albania (teacher-guide evidence only), Greece, Cuba, Egypt, Ecuador, Laos, Eritrea, Rwanda, Bangladesh, Vietnam, Morocco (teacher-guide evidence only), El Salvador, Colombia, Nepal
+countries: Ethiopia, Albania (teacher-guide evidence only), Greece, Cuba, Egypt, Ecuador, Laos, Eritrea, Rwanda, Bangladesh, Vietnam, Morocco (teacher-guide evidence only), El Salvador, Colombia, Nepal, Libya
 
 **Book 5:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -226,3 +226,18 @@ Searchable tags: colombia, colombia science, ciencias naturales, ministerio de e
 Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nepal, curriculum development centre, light/sunlight-keeps-everything-alive
+
+
+## Libya growth (2026-11-14, General Science expansion)
+
+**Book (Libya — Science, Grade 4, Student Book, Term 2 (Libya)):** Title as printed: العلوم للصف الرابع من مرحلة التعليم الأساسي — الفصل الدراسي الثاني, holding the rest of Topic 2 الأجهزة (Systems) and Topic 3 الطاقة (Energy) Grade / kind: Grade 4, student book, Term 2 Publisher: State of Libya, Ministry of Education, Centre for Educational Curricula and Educational Research (مركز المناهج التعليمية والبحوث التربوية), school year 2019–2020 / 1440–1441 H; no ISBN printed PDF pages: 72. Size 7,160,654 bytes via release mid-size-books-3 — the books.json twin record (grade-04/gov/libya/science/student-book-term-2.pdf) is the same book, cited once here. Verdict: COMPLETE. Read in full from 100-DPI page renders (most pages are image-only); the book ends with blank notes pages. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The sun is the main source of light and heat: its light lets us see and its heat keeps our bodies warm; plants use the energy of sunlight to make their food — photosynthesis turns carbon dioxide and water into sugar, and the sugar is changed into starch and stored in the plant (Libya, G4 SB T2) | Libya, *Science, Grade 4, Student Book, Term 2*, printed pp. 23–24 |
+
+**Acceptance count: taught in 14 countries — Libya added.**
+
+Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: libya, libya science, centre for educational curricula and educational research, light sunlight-keeps-everything-alive
