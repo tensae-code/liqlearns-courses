@@ -1,6 +1,6 @@
 # Sources — Magnets — poles attract and repel; what is magnetic
 
-countries: Ethiopia, Samoa, Gabon (teacher-guide evidence only), Barbados, Slovenia, Fiji, Kenya, Cambodia (private-booklet evidence only), Kuwait, Afghanistan, Iran, North Macedonia, Moldova, South Sudan, Mozambique, China, Mauritania, Guyana, Djibouti (teacher-guide evidence only), Mongolia, India, Bulgaria, Bahamas (curriculum evidence only), United States, Egypt, Cabo Verde, Sudan, Bhutan, Dominican Republic, Syria, Eritrea
+countries: Ethiopia, Samoa, Gabon (teacher-guide evidence only), Barbados, Slovenia, Fiji, Kenya, Cambodia (private-booklet evidence only), Kuwait, Afghanistan, Iran, North Macedonia, Moldova, South Sudan, Mozambique, China, Mauritania, Guyana, Djibouti (teacher-guide evidence only), Mongolia, India, Bulgaria, Bahamas (curriculum evidence only), United States, Egypt, Cabo Verde, Sudan, Bhutan, Dominican Republic, Syria, Eritrea, Sri Lanka
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -392,3 +392,25 @@ Searchable tags: syria, syria science, ministry of education syria, nccd, magnet
 Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: eritrea, eritrea science, ministry of education eritrea, magnets poles and magnetic materials
+
+## Sri Lanka growth (2026-11-14, General Science expansion)
+
+**Book (Sri Lanka — Grade 6 Science (English medium)):** Title as printed: Science, Grade 6. Publisher: Educational Publications Department, Sri Lanka. First print 2014, sixth print 2019. ISBN 978-955-25-0079-4. PDF 190 pages, 16,555,739 bytes. Verdict: COMPLETE (Chapters 1–11, printed pp. 1–177 plus front matter). Twin records: TSV blob record grade-06/gov/sri-lanka/science/textbook/full-year.pdf and books.json record with the same file field are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+**Book (Sri Lanka — Grade 8 Science Part 1 (English medium)):** Title as printed: Science Part – I, Grade 8. Publisher: Educational Publications Department, Sri Lanka. First print 2016, fourth print 2019. ISBN 978-955-25-0132-6. PDF 137 pages, 5,185,614 bytes. Verdict: COMPLETE for Part 1 (Chapters 1–8, printed pp. 1–126). Twin records: TSV blob record and books.json record grade-08/gov/sri-lanka/science/textbook/part-1.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+**Book (Sri Lanka — Grade 8 New Science (Tamil medium, 1988)):** Title as printed: புதிய விஞ்ஞானம் (New Science), ஆண்டு 8 (Year 8). Publisher: Educational Publications Department, Sri Lanka; first edition 1986, second 1987, third 1988; digitised by the Noolaham Foundation. PDF 178 pages, 48,018,150 bytes, image-only scan (read from page renders). Verdict: COMPLETE (Chapters 1–11, printed pp. 1–162 plus front matter). Older integrated curriculum, distinct from the modern Grade 8 books above. Twin records: TSV release record (mid-size-books-4) and books.json record grade-08/gov/sri-lanka/science/textbook/full-year-1988.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| effects of magnets and different types of magnets (G6 Science (Eng)) | Sri Lanka, *Science, Grade 6*, printed p. 100 |
+| magnetic poles; behaviour of a freely suspended magnet (G6 Science (Eng)) | Sri Lanka, *Science, Grade 6*, printed pp. 101–102 |
+| interactions between poles: like poles repel, unlike attract (G6 Science (Eng)) | Sri Lanka, *Science, Grade 6*, printed p. 103 |
+| poles of a magnet (G8 Science Part 1 (Eng)) | Sri Lanka, *Science Part – I, Grade 8*, printed p. 79 |
+| Chapter 8 Electricity and Magnetism: magnetic poles, making magnets and uses of magnets (G8 New Science 1988 (Tamil)) | Sri Lanka, *புதிய விஞ்ஞானம் (New Science), Grade 8*, printed pp. 118–121 |
+
+**Acceptance count: taught in 28 countries (Ethiopia, Samoa, Barbados, Slovenia, Fiji, Kenya, Kuwait, Afghanistan, Iran, North Macedonia, Moldova, South Sudan, Mozambique, China, Mauritania, Guyana, Mongolia, India, Bulgaria, United States, Egypt, Cabo Verde, Sudan, Bhutan, Dominican Republic, Syria, Eritrea, Sri Lanka).**
+
+Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: sri lanka, sri lanka science, magnets poles and magnetic materials

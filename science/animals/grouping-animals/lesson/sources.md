@@ -1,6 +1,6 @@
 # Sources — Grouping animals: by young, by movement, by food and by body
 
-countries: Ethiopia, Sweden, Nauru, Tuvalu, Niue, Albania (teacher-guide evidence only), Guyana, Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Pakistan (Punjab), Samoa, Egypt, Cambodia, Seychelles, Ecuador, Sudan, Venezuela, Mauritania, Angola, Bhutan, Dominican Republic, Kuwait, Syria, Laos
+countries: Ethiopia, Sweden, Nauru, Tuvalu, Niue, Albania (teacher-guide evidence only), Guyana, Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Pakistan (Punjab), Samoa, Egypt, Cambodia, Seychelles, Ecuador, Sudan, Venezuela, Mauritania, Angola, Bhutan, Dominican Republic, Kuwait, Syria, Laos, Sri Lanka
 
 **Book 2:** *Grade 1 Environmental Science Teacher Guide* (አካባቢ ሳይንስ አንድኛ ክፍል የመምህር መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. TRUNCATED scan: the file holds printed pp. 1–54 (Units 1–3 complete); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-teacher-placements.md.
 
@@ -417,3 +417,24 @@ Searchable tags: syria, syria science, ministry of education syria, nccd, groupi
 Laos's own way in this lesson — as carried in the rows above, exactly as filed — is itself course content.
 
 Searchable tags: laos, lao pdr, science and environment grade 2, science and environment grade 3
+
+## Sri Lanka growth (2026-11-14, General Science expansion)
+
+**Book (Sri Lanka — Grade 7 Science Part 1 (English medium)):** Title as printed: Science Part – I, Grade 7. Publisher: Educational Publications Department, Sri Lanka. First print 2015, fifth print 2019. ISBN 978-955-25-0106-7. PDF 160 pages, 6,071,745 bytes. Verdict: COMPLETE for Part 1 (Chapters 1–10, printed pp. 1–149); Part 2 of Grade 7 is not among the target records — library debt, see group log. Twin records: TSV blob record and books.json record grade-07/gov/sri-lanka/science/textbook/part-1.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+**Book (Sri Lanka — Grade 8 Science Part 1 (English medium)):** Title as printed: Science Part – I, Grade 8. Publisher: Educational Publications Department, Sri Lanka. First print 2016, fourth print 2019. ISBN 978-955-25-0132-6. PDF 137 pages, 5,185,614 bytes. Verdict: COMPLETE for Part 1 (Chapters 1–8, printed pp. 1–126). Twin records: TSV blob record and books.json record grade-08/gov/sri-lanka/science/textbook/part-1.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+**Book (Sri Lanka — Grade 9 New Science (Tamil medium, 1996)):** Title as printed: புதிய விஞ்ஞானம் (New Science), 9 ஆம் ஆண்டு (Year 9). Publisher: Educational Publications Department, Sri Lanka; first edition 1988, tenth edition 1996; digitised by the Noolaham Foundation. PDF 280 pages, 61,227,888 bytes, image-only scan (read from page renders). Verdict: COMPLETE (Chapters 1–14, printed pp. 1–256, plus syllabus appendix). Older integrated curriculum, distinct from the modern Grade 9 book and guides above. Twin records: TSV release record (mid-size-books-5) and books.json record grade-09/gov/sri-lanka/science/textbook/full-year-1996.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| vertebrates and invertebrates (G7 Science Part 1 (Eng)) | Sri Lanka, *Science Part – I, Grade 7*, printed p. 72 |
+| adaptations of organisms to their environment (G7 Science Part 1 (Eng)) | Sri Lanka, *Science Part – I, Grade 7*, printed p. 78 |
+| animal classification: main vertebrate groups (G8 Science Part 1 (Eng)) | Sri Lanka, *Science Part – I, Grade 8*, printed p. 17 |
+| Chapter 5 Diversity of Animals: the main features distinguishing animals and plants (G9 New Science 1996 (Tamil)) | Sri Lanka, *புதிய விஞ்ஞானம் (New Science), Grade 9*, printed p. 78 |
+
+**Acceptance count: taught in 22 countries (Ethiopia, Sweden, Nauru, Tuvalu, Niue, Guyana, Pakistan (Punjab), Samoa, Egypt, Cambodia, Seychelles, Ecuador, Sudan, Venezuela, Mauritania, Angola, Bhutan, Dominican Republic, Kuwait, Syria, Laos, Sri Lanka).**
+
+Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: sri lanka, sri lanka science, grouping animals

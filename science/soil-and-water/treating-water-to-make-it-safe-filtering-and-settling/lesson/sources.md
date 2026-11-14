@@ -1,6 +1,6 @@
 # Sources — Treating water to make it safe — filtering and settling
 
-countries: Gabon (teacher-guide evidence only), Zambia (teacher-module evidence only), Vanuatu (teacher-guide evidence only), India, Pakistan (Punjab), Cuba, Egypt, Seychelles, Ecuador, Cabo Verde, Mauritania, Bhutan, Laos, Eritrea
+countries: Gabon (teacher-guide evidence only), Zambia (teacher-module evidence only), Vanuatu (teacher-guide evidence only), India, Pakistan (Punjab), Cuba, Egypt, Seychelles, Ecuador, Cabo Verde, Mauritania, Bhutan, Laos, Eritrea, Sri Lanka
 
 **Book 1:** *Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année* (teacher guide) — Gabon, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Title as printed: Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Grade 3. Teacher guide. Repo path: grade-03/gov/gabon/sciences/teacher/gabon-g03-sciences-teacher.pdf. Byte size: 1,385,512 (no size in record). PDF pages: 64. Offset: printed pp. 3–64 (sommaire: paliers at pp. 3–16, 17–29, 30–42, 43–53, 54–64). Verdict: COMPLETE — full text read (36,970 words); sommaire and palier competence statements prove identity and scope. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -228,3 +228,20 @@ Searchable tags: laos, lao pdr, natural sciences grade 6, science and environmen
 Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: eritrea, eritrea science, ministry of education eritrea, treating water to make it safe filtering and settling
+
+## Sri Lanka growth (2026-11-14, General Science expansion)
+
+**Book (Sri Lanka — Grade 7 Science Part 1 (English medium)):** Title as printed: Science Part – I, Grade 7. Publisher: Educational Publications Department, Sri Lanka. First print 2015, fifth print 2019. ISBN 978-955-25-0106-7. PDF 160 pages, 6,071,745 bytes. Verdict: COMPLETE for Part 1 (Chapters 1–10, printed pp. 1–149); Part 2 of Grade 7 is not among the target records — library debt, see group log. Twin records: TSV blob record and books.json record grade-07/gov/sri-lanka/science/textbook/part-1.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+**Book (Sri Lanka — Grade 8 New Science (Tamil medium, 1988)):** Title as printed: புதிய விஞ்ஞானம் (New Science), ஆண்டு 8 (Year 8). Publisher: Educational Publications Department, Sri Lanka; first edition 1986, second 1987, third 1988; digitised by the Noolaham Foundation. PDF 178 pages, 48,018,150 bytes, image-only scan (read from page renders). Verdict: COMPLETE (Chapters 1–11, printed pp. 1–162 plus front matter). Older integrated curriculum, distinct from the modern Grade 8 books above. Twin records: TSV release record (mid-size-books-4) and books.json record grade-08/gov/sri-lanka/science/textbook/full-year-1988.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| water as a solvent: dissolving and solutions in daily life (G7 Science Part 1 (Eng)) | Sri Lanka, *Science Part – I, Grade 7*, printed p. 54 |
+| setting up water-treatment arrangements (G8 New Science 1988 (Tamil)) | Sri Lanka, *புதிய விஞ்ஞானம் (New Science), Grade 8*, printed p. 96 |
+
+**Acceptance count: taught in 11 countries (India, Pakistan (Punjab, Eritrea, Sri Lanka).**
+
+Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: sri lanka, sri lanka science, treating water to make it safe filtering and settling

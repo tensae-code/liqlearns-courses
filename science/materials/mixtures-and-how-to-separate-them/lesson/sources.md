@@ -1,6 +1,6 @@
 # Sources — Mixtures and how to separate them
 
-countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Zambia (teacher-module evidence only), Vanuatu (teacher-guide evidence only), Costa Rica, Bulgaria, Moldova, Ecuador, Afghanistan, Sudan, Venezuela, Bhutan, Kuwait, Laos
+countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Zambia (teacher-module evidence only), Vanuatu (teacher-guide evidence only), Costa Rica, Bulgaria, Moldova, Ecuador, Afghanistan, Sudan, Venezuela, Bhutan, Kuwait, Laos, Sri Lanka
 
 **Book 12:** *Environmental Science Student Textbook, Grade 6* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Mulugeta Awayehu (MA, Assoc. Prof.), Belete Kebede (MSc), Melese Sinu (MSc), Minilk Belay (MSc), Neqiqneh Zewdie (MSc). COMPLETE: 177 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g06-student-placements.md.
 
@@ -249,3 +249,20 @@ Searchable tags: kuwait, aloom, ministry of education kuwait, mixtures and how t
 Laos's own way in this lesson — as carried in the rows above, exactly as filed — is itself course content.
 
 Searchable tags: laos, lao pdr, natural sciences grade 7
+
+## Sri Lanka growth (2026-11-14, General Science expansion)
+
+**Book (Sri Lanka — Grade 6 New Science (Tamil medium, 1986)):** Title as printed: புதிய விஞ்ஞானம் (New Science), ஆண்டு 6 (Year 6). Publisher: Educational Publications Department, Sri Lanka (கல்வி வெளியீட்டுத் திணைக்களம்), first edition 1986, printed at the Ayurvedic press, Colombo; digitised by the Noolaham Foundation. PDF 128 pages, 30,261,052 bytes, image-only scan (read from page renders). Verdict: COMPLETE (Units 1–8, printed pp. 1–115 plus front matter). This is the older 1980s integrated curriculum, distinct in content and order from the modern Grade 6 book above — not a parallel edition of it. Twin records: TSV release record (mid-size-books-4) and books.json record grade-06/gov/sri-lanka/science/textbook/full-year-1986.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+**Book (Sri Lanka — Grade 8 New Science (Tamil medium, 1988)):** Title as printed: புதிய விஞ்ஞானம் (New Science), ஆண்டு 8 (Year 8). Publisher: Educational Publications Department, Sri Lanka; first edition 1986, second 1987, third 1988; digitised by the Noolaham Foundation. PDF 178 pages, 48,018,150 bytes, image-only scan (read from page renders). Verdict: COMPLETE (Chapters 1–11, printed pp. 1–162 plus front matter). Older integrated curriculum, distinct from the modern Grade 8 books above. Twin records: TSV release record (mid-size-books-4) and books.json record grade-08/gov/sri-lanka/science/textbook/full-year-1988.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| things used daily at home: substances dissolving in water (G6 New Science 1986 (Tamil)) | Sri Lanka, *புதிய விஞ்ஞானம் (New Science), Grade 6*, printed p. 38 |
+| mixtures: separating the parts of a mixture (G8 New Science 1988 (Tamil)) | Sri Lanka, *புதிய விஞ்ஞானம் (New Science), Grade 8*, printed p. 104 |
+
+**Acceptance count: taught in 12 countries (Ethiopia, Costa Rica, Bulgaria, Moldova, Ecuador, Afghanistan, Sudan, Venezuela, Bhutan, Kuwait, Laos, Sri Lanka).**
+
+Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: sri lanka, sri lanka science, mixtures and how to separate them

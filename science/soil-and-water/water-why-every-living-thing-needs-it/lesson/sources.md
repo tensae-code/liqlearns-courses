@@ -1,6 +1,6 @@
 # Sources — Water: why every living thing needs it
 
-countries: Ethiopia, Jamaica (curriculum-guide evidence only), Mexico, Vanuatu (teacher-guide evidence only), Guyana, Micronesia, Barbados (curriculum evidence only), India, Uganda, Moldova, Cuba, Samoa, Egypt, Cambodia, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Mauritania, Angola, China, Syria, Laos, Eritrea
+countries: Ethiopia, Jamaica (curriculum-guide evidence only), Mexico, Vanuatu (teacher-guide evidence only), Guyana, Micronesia, Barbados (curriculum evidence only), India, Uganda, Moldova, Cuba, Samoa, Egypt, Cambodia, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Mauritania, Angola, China, Syria, Laos, Eritrea, Sri Lanka
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -360,3 +360,23 @@ Searchable tags: laos, lao pdr, natural sciences grade 6, science and environmen
 Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: eritrea, eritrea science, ministry of education eritrea, water why every living thing needs it
+
+## Sri Lanka growth (2026-11-14, General Science expansion)
+
+**Book (Sri Lanka — Grade 6 Science (English medium)):** Title as printed: Science, Grade 6. Publisher: Educational Publications Department, Sri Lanka. First print 2014, sixth print 2019. ISBN 978-955-25-0079-4. PDF 190 pages, 16,555,739 bytes. Verdict: COMPLETE (Chapters 1–11, printed pp. 1–177 plus front matter). Twin records: TSV blob record grade-06/gov/sri-lanka/science/textbook/full-year.pdf and books.json record with the same file field are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+**Book (Sri Lanka — Grade 7 Science Part 1 (English medium)):** Title as printed: Science Part – I, Grade 7. Publisher: Educational Publications Department, Sri Lanka. First print 2015, fifth print 2019. ISBN 978-955-25-0106-7. PDF 160 pages, 6,071,745 bytes. Verdict: COMPLETE for Part 1 (Chapters 1–10, printed pp. 1–149); Part 2 of Grade 7 is not among the target records — library debt, see group log. Twin records: TSV blob record and books.json record grade-07/gov/sri-lanka/science/textbook/part-1.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+**Book (Sri Lanka — Grade 8 New Science (Tamil medium, 1988)):** Title as printed: புதிய விஞ்ஞானம் (New Science), ஆண்டு 8 (Year 8). Publisher: Educational Publications Department, Sri Lanka; first edition 1986, second 1987, third 1988; digitised by the Noolaham Foundation. PDF 178 pages, 48,018,150 bytes, image-only scan (read from page renders). Verdict: COMPLETE (Chapters 1–11, printed pp. 1–162 plus front matter). Older integrated curriculum, distinct from the modern Grade 8 books above. Twin records: TSV release record (mid-size-books-4) and books.json record grade-08/gov/sri-lanka/science/textbook/full-year-1988.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| states of water and types of water by availability (G6 Science (Eng)) | Sri Lanka, *Science, Grade 6*, printed pp. 36–38 |
+| water as a medium of life (G7 Science Part 1 (Eng)) | Sri Lanka, *Science Part – I, Grade 7*, printed p. 60 |
+| Chapter 6 Water and Living Beings: importance of water to plants — uptake, growth and support (G8 New Science 1988 (Tamil)) | Sri Lanka, *புதிய விஞ்ஞானம் (New Science), Grade 8*, printed pp. 89–92 |
+
+**Acceptance count: taught in 22 countries (Ethiopia, Mexico, Guyana, Micronesia, India, Uganda, Moldova, Cuba, Samoa, Egypt, Cambodia, Seychelles, Ecuador, Sudan, Venezuela, Mauritania, Angola, China, Syria, Laos, Eritrea, Sri Lanka).**
+
+Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: sri lanka, sri lanka science, water why every living thing needs it

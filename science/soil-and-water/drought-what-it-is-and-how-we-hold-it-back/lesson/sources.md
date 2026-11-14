@@ -1,6 +1,6 @@
 # Sources — Drought: what it is and how we hold it back
 
-countries: Ethiopia, Sudan, Angola
+countries: Ethiopia, Sudan, Angola, Sri Lanka
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -54,3 +54,21 @@ Searchable tags: sudan, sudan grade 8, soil-and-water/drought-what-it-is-and-how
 Angola's own way — *Estudo do Meio* (Grades 1–4) is Angola's integrated studies book: science, health, family, school and the local environment taught as one subject, so one grade book carries body, food, home, plants and animals side by side, in the order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: angola, estudo do meio 4, grade 4
+
+## Sri Lanka growth (2026-11-14, General Science expansion)
+
+**Book (Sri Lanka — Grade 8 Science Part 2 (English medium)):** Title as printed: Science Part – II, Grade 8. Publisher: Educational Publications Department, Sri Lanka. First print 2016, fourth print 2019. ISBN 978-955-25-0133-3. PDF 152 pages, 19,865,511 bytes. Verdict: COMPLETE for Part 2 (Chapters 9–15, printed pp. 1–141, pagination restarting at 1). Twin records: TSV blob record and books.json record grade-08/gov/sri-lanka/science/textbook/part-2.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+**Book (Sri Lanka — Grade 9 Teacher's Guide, NIE 2018 (English / Sinhala / Tamil parallel editions)):** Title as printed: Science, Grade 9, Teachers' Guide (Implemented from 2018). Publisher: Department of Science, Faculty of Science and Technology, National Institute of Education, Sri Lanka. English PDF 40 pages, 1,105,364 bytes; Sinhala PDF 45 pages, 1,123,913 bytes; Tamil PDF 44 pages, 923,786 bytes. Verdict: COMPLETE as issued — this 2018 guide is a syllabus-and-learning-outcomes guide for the whole Grade 9 year (competencies 1.1–4.6), not a page-by-page lesson manual; all three language editions verified by cover, title page and syllabus tables, and cited once here as parallel editions. Records: TSV record grade-09/gov/sri-lanka/science/teacher-guide.pdf is byte-identical in size (1,105,364 bytes) and content to the books.json English 2018 record — the same file, cited once. Books.json records: science-2018-english.pdf, sgr09tg-science-sinhala.pdf, science-2018-tamil.pdf. Guide evidence below covers the Grade 9 units for which no student textbook is in the target set (the student Part II), plus guide-only detail for Part I units. Placements are marked guide evidence. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| natural disasters: drought (G8 Science Part 2 (Eng)) | Sri Lanka, *Science Part – II, Grade 8*, printed p. 129 |
+| guide evidence: the scientific background of natural disasters and reducing their effects (G9 TG 2018 (Eng/Si/Ta)) | Sri Lanka, *Science, Grade 9, Teachers' Guide (Implemented from 2018)*, competency 4.3 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Sudan, Angola, Sri Lanka).**
+The teacher-guide rows above are guide evidence, carried as filed; the count rises on the student books above, not on the guides.
+
+Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: sri lanka, sri lanka science, drought what it is and how we hold it back

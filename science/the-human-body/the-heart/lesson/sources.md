@@ -1,6 +1,6 @@
 # Sources — The heart
 
-countries: Ethiopia, Cook Islands, Trinidad and Tobago (curriculum-guide evidence only), Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), India, Moldova, Gabon (teacher-guide evidence only), Pakistan (Punjab), Armenia, Cuba, Seychelles, Afghanistan, Cabo Verde, Sudan, Mauritania, Angola, Bhutan, Kuwait, Syria, Laos, Eritrea
+countries: Ethiopia, Cook Islands, Trinidad and Tobago (curriculum-guide evidence only), Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), India, Moldova, Gabon (teacher-guide evidence only), Pakistan (Punjab), Armenia, Cuba, Seychelles, Afghanistan, Cabo Verde, Sudan, Mauritania, Angola, Bhutan, Kuwait, Syria, Laos, Eritrea, Sri Lanka
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -341,3 +341,25 @@ Searchable tags: laos, lao pdr, natural sciences grade 8
 Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: eritrea, eritrea science, ministry of education eritrea, the heart
+
+## Sri Lanka growth (2026-11-14, General Science expansion)
+
+**Book (Sri Lanka — Grade 9 Science Part I (English medium)):** Title as printed: Science Part – I, Grade 9. Publisher: Educational Publications Department, Sri Lanka. First print 2017, third print 2019. ISBN 978-955-25-0162-3. PDF 122 pages, 12,471,706 bytes. Verdict: COMPLETE for Part I (Chapters 1–9, printed pp. 1–111); Part II of Grade 9 is not among the target records — library debt, see group log. Record: TSV blob record only; no books.json twin. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+**Book (Sri Lanka — Grade 10 New Science (Tamil medium, 1998)):** Title as printed: புதிய விஞ்ஞானம் 10 (New Science 10), 10 ஆம் ஆண்டு (Year 10). Publisher: Educational Publications Department, Sri Lanka; first edition 1986, thirteenth edition 1998; digitised by the Noolaham Foundation. PDF as downloaded 56,290,176 bytes with a broken cross-reference structure (repaired with Ghostscript before reading; content pages verified against the printed contents); repaired PDF 336 pages, image-only scan (read from page renders). Verdict: COMPLETE (Chapters 1–16, printed pp. 1–258 plus front matter). This is the senior GCE O/L integrated book of the older curriculum; most of its chapters are pure Physics / Chemistry / Biology in treatment and are named as split-subject lines below. Twin records: TSV release record (mid-size-books-5) and books.json record grade-10/gov/sri-lanka/science/textbook/full-year-1998.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the human circulatory system: structure of the heart (G9 Science Part I (Eng)) | Sri Lanka, *Science Part – I, Grade 9*, printed p. 72 |
+| arteries, veins and capillaries (G9 Science Part I (Eng)) | Sri Lanka, *Science Part – I, Grade 9*, printed p. 73 |
+| components of blood and their functions (G9 Science Part I (Eng)) | Sri Lanka, *Science Part – I, Grade 9*, printed p. 75 |
+| blood transfusion and blood groups (G9 Science Part I (Eng)) | Sri Lanka, *Science Part – I, Grade 9*, printed p. 76 |
+| Chapter 4 Transport of Substances in the Human Body: blood and its components (red cells, white cells, platelets, plasma) (G10 New Science 1998 (Tamil)) | Sri Lanka, *புதிய விஞ்ஞானம் (New Science 10)*, printed pp. 24–26 |
+| the human heart and its functions; blood circulation through arteries and veins; exchange of substances between capillaries and tissues (G10 New Science 1998 (Tamil)) | Sri Lanka, *புதிய விஞ்ஞானம் (New Science 10)*, printed pp. 26–35 |
+| blood transfusion, blood groups, and blood-related diseases (G10 New Science 1998 (Tamil)) | Sri Lanka, *புதிய விஞ்ஞானம் (New Science 10)*, printed p. 37 |
+
+**Acceptance count: taught in 19 countries (Ethiopia, Cook Islands, India, Moldova, Pakistan (Punjab, Eritrea, Sri Lanka).**
+
+Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: sri lanka, sri lanka science, the heart

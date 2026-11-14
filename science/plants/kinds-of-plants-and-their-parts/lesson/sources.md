@@ -1,6 +1,6 @@
 # Sources — Kinds of plants and their parts
 
-countries: Ethiopia, Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Sweden, Guyana, Micronesia (teaching-tips guide evidence only), Mongolia, Barbados (curriculum evidence only), India, Greece, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Pakistan (Punjab), Armenia, Cuba, Samoa, Egypt, Seychelles, Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Angola, Bhutan, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea
+countries: Ethiopia, Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Sweden, Guyana, Micronesia (teaching-tips guide evidence only), Mongolia, Barbados (curriculum evidence only), India, Greece, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Pakistan (Punjab), Armenia, Cuba, Samoa, Egypt, Seychelles, Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Angola, Bhutan, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -673,3 +673,26 @@ Searchable tags: laos, lao pdr, natural sciences grade 6, science and environmen
 Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: eritrea, eritrea science, ministry of education eritrea, kinds of plants and their parts
+
+## Sri Lanka growth (2026-11-14, General Science expansion)
+
+**Book (Sri Lanka — Grade 7 Science Part 1 (English medium)):** Title as printed: Science Part – I, Grade 7. Publisher: Educational Publications Department, Sri Lanka. First print 2015, fifth print 2019. ISBN 978-955-25-0106-7. PDF 160 pages, 6,071,745 bytes. Verdict: COMPLETE for Part 1 (Chapters 1–10, printed pp. 1–149); Part 2 of Grade 7 is not among the target records — library debt, see group log. Twin records: TSV blob record and books.json record grade-07/gov/sri-lanka/science/textbook/part-1.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+**Book (Sri Lanka — Grade 8 Science Part 1 (English medium)):** Title as printed: Science Part – I, Grade 8. Publisher: Educational Publications Department, Sri Lanka. First print 2016, fourth print 2019. ISBN 978-955-25-0132-6. PDF 137 pages, 5,185,614 bytes. Verdict: COMPLETE for Part 1 (Chapters 1–8, printed pp. 1–126). Twin records: TSV blob record and books.json record grade-08/gov/sri-lanka/science/textbook/part-1.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+**Book (Sri Lanka — Grade 9 Science Part I (English medium)):** Title as printed: Science Part – I, Grade 9. Publisher: Educational Publications Department, Sri Lanka. First print 2017, third print 2019. ISBN 978-955-25-0162-3. PDF 122 pages, 12,471,706 bytes. Verdict: COMPLETE for Part I (Chapters 1–9, printed pp. 1–111); Part II of Grade 9 is not among the target records — library debt, see group log. Record: TSV blob record only; no books.json twin. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| morphological features and main parts of a flowering plant (G7 Science Part 1 (Eng)) | Sri Lanka, *Science Part – I, Grade 7*, printed pp. 1–3 |
+| diversity of the parts of flowering plants (roots, stems, leaves, flowers, fruits) (G7 Science Part 1 (Eng)) | Sri Lanka, *Science Part – I, Grade 7*, printed p. 4 |
+| diversity and functions of plant leaves (G8 Science Part 1 (Eng)) | Sri Lanka, *Science Part – I, Grade 8*, printed p. 25 |
+| diversity and functions of plant stems (G8 Science Part 1 (Eng)) | Sri Lanka, *Science Part – I, Grade 8*, printed p. 30 |
+| diversity and functions of plant roots (G8 Science Part 1 (Eng)) | Sri Lanka, *Science Part – I, Grade 8*, printed p. 33 |
+| support and movements of plants (G9 Science Part I (Eng)) | Sri Lanka, *Science Part – I, Grade 9*, printed p. 92 |
+
+**Acceptance count: taught in 28 countries (Ethiopia, Sweden, Guyana, Mongolia, India, Greece, Moldova, Pakistan (Punjab, Eritrea, Sri Lanka).**
+
+Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: sri lanka, sri lanka science, kinds of plants and their parts

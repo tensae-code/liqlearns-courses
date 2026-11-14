@@ -1,6 +1,6 @@
 # Sources — The Moon — Earth's natural satellite and its phases
 
-countries: Gabon (teacher-guide evidence only), Palestine, Armenia, Kazakhstan, Suriname, Vanuatu (teacher-guide evidence only), Albania (teacher-guide evidence only), Guyana, Mongolia, Bulgaria, Bahamas (curriculum evidence only), Moldova, United States, Pakistan (Punjab), Cuba, Samoa, Cambodia, Ecuador, Afghanistan, Sudan, Venezuela, Bhutan, Dominican Republic, China, Laos, Eritrea
+countries: Gabon (teacher-guide evidence only), Palestine, Armenia, Kazakhstan, Suriname, Vanuatu (teacher-guide evidence only), Albania (teacher-guide evidence only), Guyana, Mongolia, Bulgaria, Bahamas (curriculum evidence only), Moldova, United States, Pakistan (Punjab), Cuba, Samoa, Cambodia, Ecuador, Afghanistan, Sudan, Venezuela, Bhutan, Dominican Republic, China, Laos, Eritrea, Sri Lanka
 
 **Book 1:** *Super Efficace — Sciences, Guide pédagogique, 4e année* (teacher guide) — Gabon, © EDIG/EDICEF 2024. Title as printed: Super Efficace — Sciences, Guide pédagogique, 4e année, © EDIG/EDICEF 2024. Grade 4. Teacher guide. Repo path: grade-04/gov/gabon/sciences/teacher/gabon-g04-sciences-teacher.pdf. Byte size: 1,366,088 (no size in record). PDF pages: 60. Offset: printed pp. 3–60 (sommaire: paliers at pp. 3–15, 16–27, 28–39, 40–50, 51–60). Verdict: COMPLETE — full text read (32,604 words); sommaire and palier statements prove identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -400,3 +400,20 @@ Searchable tags: laos, lao pdr, natural sciences grade 8, science and environmen
 Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: eritrea, eritrea science, ministry of education eritrea, the moon earths natural satellite and its phases
+
+## Sri Lanka growth (2026-11-14, General Science expansion)
+
+**Book (Sri Lanka — Grade 8 Science Part 2 (English medium)):** Title as printed: Science Part – II, Grade 8. Publisher: Educational Publications Department, Sri Lanka. First print 2016, fourth print 2019. ISBN 978-955-25-0133-3. PDF 152 pages, 19,865,511 bytes. Verdict: COMPLETE for Part 2 (Chapters 9–15, printed pp. 1–141, pagination restarting at 1). Twin records: TSV blob record and books.json record grade-08/gov/sri-lanka/science/textbook/part-2.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+**Book (Sri Lanka — Grade 6 New Science (Tamil medium, 1986)):** Title as printed: புதிய விஞ்ஞானம் (New Science), ஆண்டு 6 (Year 6). Publisher: Educational Publications Department, Sri Lanka (கல்வி வெளியீட்டுத் திணைக்களம்), first edition 1986, printed at the Ayurvedic press, Colombo; digitised by the Noolaham Foundation. PDF 128 pages, 30,261,052 bytes, image-only scan (read from page renders). Verdict: COMPLETE (Units 1–8, printed pp. 1–115 plus front matter). This is the older 1980s integrated curriculum, distinct in content and order from the modern Grade 6 book above — not a parallel edition of it. Twin records: TSV release record (mid-size-books-4) and books.json record grade-06/gov/sri-lanka/science/textbook/full-year-1986.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| occurrence of the phases of the Moon (G8 Science Part 2 (Eng)) | Sri Lanka, *Science Part – II, Grade 8*, printed p. 104 |
+| the Moon (G6 New Science 1986 (Tamil)) | Sri Lanka, *புதிய விஞ்ஞானம் (New Science), Grade 6*, printed p. 114 |
+
+**Acceptance count: taught in 23 countries (Palestine, Armenia, Kazakhstan, Suriname, Guyana, Mongolia, Bulgaria, Moldova, United States, Pakistan (Punjab, Dominican Republic, China, Laos, Eritrea, Sri Lanka).**
+
+Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: sri lanka, sri lanka science, the moon earths natural satellite and its phases

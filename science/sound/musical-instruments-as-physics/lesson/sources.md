@@ -1,6 +1,6 @@
 # Sources — Musical instruments as physics
 
-countries: Nigeria (teacher-guide evidence only), Barbados (curriculum evidence only), China
+countries: Nigeria (teacher-guide evidence only), Barbados (curriculum evidence only), China, Sri Lanka
 
 **Book 1:** *Excellence in Physics for Senior Secondary — Teacher's Guide Book 2* (teacher's guide — a TEACHER'S GUIDE written to the Nigerian Educational Research and Development Council (NERDC) curriculum, NOT a student book, cited as it is) — Nigeria, Cambridge University Press. Title as printed: Excellence in Physics for Senior Secondary Schools — Teacher's Guide Book 2. Grade: SS2 (Grade 11) · Teacher's guide · Repo path: grade-11/approved-private/nigeria/physics-teacher-guide-cambridge.pdf (Contents API route) · Byte size: 2,350,466 (Contents API meta = downloaded) · PDF pages: 80 · Offset: guide printed p. 1 ≈ PDF p. 11. Verdict: COMPLETE as published — Introduction and scheme of work, then Themes 1, 2, 3, 5 and 6; Theme 4 is expressly not included per the NERDC curriculum for this book. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/nigeria-placements.md.
 
@@ -47,3 +47,19 @@ Searchable tags: barbados, barbados primary science syllabus, class one-four, cu
 China's own way — its 科学 (Science) textbooks teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with China's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: china, china science, pep, people's education press, musical instruments as physics
+
+## Sri Lanka growth (2026-11-14, General Science expansion)
+
+**Book (Sri Lanka — Grade 8 Science Part 1 (English medium)):** Title as printed: Science Part – I, Grade 8. Publisher: Educational Publications Department, Sri Lanka. First print 2016, fourth print 2019. ISBN 978-955-25-0132-6. PDF 137 pages, 5,185,614 bytes. Verdict: COMPLETE for Part 1 (Chapters 1–8, printed pp. 1–126). Twin records: TSV blob record and books.json record grade-08/gov/sri-lanka/science/textbook/part-1.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| musical instruments producing sound by vibrating membranes (G8 Science Part 1 (Eng)) | Sri Lanka, *Science Part – I, Grade 8*, printed p. 65 |
+| musical instruments producing sound by vibrating air columns (G8 Science Part 1 (Eng)) | Sri Lanka, *Science Part – I, Grade 8*, printed p. 67 |
+| musical instruments producing sound by vibrating strings / rods (G8 Science Part 1 (Eng)) | Sri Lanka, *Science Part – I, Grade 8*, printed p. 69 |
+
+**Acceptance count: taught in 2 countries (China, Sri Lanka).**
+
+Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: sri lanka, sri lanka science, musical instruments as physics

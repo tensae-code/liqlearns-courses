@@ -1,6 +1,6 @@
 # Sources — The human reproductive system
 
-countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Guyana, Mongolia, India, Gabon (teacher-guide evidence only), Cuba, Samoa, Cambodia, Seychelles, Cabo Verde, Venezuela, Angola, Dominican Republic, Kuwait, Syria, Eritrea
+countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Guyana, Mongolia, India, Gabon (teacher-guide evidence only), Cuba, Samoa, Cambodia, Seychelles, Cabo Verde, Venezuela, Angola, Dominican Republic, Kuwait, Syria, Eritrea, Sri Lanka (teacher-guide evidence only)
 
 **Book 12:** *Environmental Science Student Textbook, Grade 6* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Mulugeta Awayehu (MA, Assoc. Prof.), Belete Kebede (MSc), Melese Sinu (MSc), Minilk Belay (MSc), Neqiqneh Zewdie (MSc). COMPLETE: 177 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g06-student-placements.md.
 
@@ -264,3 +264,17 @@ Searchable tags: syria, syria science, ministry of education syria, nccd, the hu
 Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: eritrea, eritrea science, ministry of education eritrea, the human reproductive system
+
+## Sri Lanka growth (2026-11-14, General Science expansion)
+
+**Book (Sri Lanka — Grade 10 Teacher's Guide, NIE 2015):** Title as printed: Science, Teacher's Guide, Grade 10 (Implemented from 2015). Publisher: Department of Science, Faculty of Science and Technology, National Institute of Education, Sri Lanka. PDF 84 pages, 1,413,364 bytes. Verdict: PARTIAL as a guide — the file carries the full Grade 10 syllabus / competency tables with learning outcomes (competencies 1.1–3.9) but not page-by-page lesson plans; read in full as issued. No Grade 10 English student textbook is in the target set — library debt, see group log. Record: TSV blob record only; no books.json twin. Guide evidence below covers only the guide's general / life-science competencies; its chemistry and physics competencies are named as split-subject lines. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: reproduction and the continuity of life (G10 TG (NIE 2015)) | Sri Lanka, *Science, Teacher's Guide, Grade 10 (Implemented from 2015)*, competency 1.6 |
+
+**Acceptance count unchanged: taught in 15 countries (Ethiopia, Guyana, Mongolia, India, Cuba, Samoa, Cambodia, Seychelles, Cabo Verde, Venezuela, Angola, Dominican Republic, Kuwait, Syria, Eritrea).** Sri Lanka is named as teacher-guide evidence only in the rows above (its Grade 9 / Grade 10 NIE guides), not added to this count.
+
+Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: sri lanka, sri lanka science, the human reproductive system

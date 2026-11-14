@@ -1,6 +1,6 @@
 # Sources — Galaxies and the structure and evolution of the Universe
 
-countries: Bulgaria, Yemen, Albania (teacher-guide evidence only), Pakistan (Punjab), Armenia, Cabo Verde (teacher-guide evidence only), Dominican Republic, Kuwait
+countries: Bulgaria, Yemen, Albania (teacher-guide evidence only), Pakistan (Punjab), Armenia, Cabo Verde (teacher-guide evidence only), Dominican Republic, Kuwait, Sri Lanka (teacher-guide evidence only)
 
 **Book 1:** *Физика и астрономия за 7. клас (Педагог 6, 2024)* (student textbook) — Bulgaria, Gradinarova M., Benova E., Velchev N.; Pedagog 6, 2024. Grade 7 · Student book · Repo: release `mid-size-books-8`, asset `grade-07-gov-bulgaria-physics-and-astronomy-fizika-7-klas-pedagog6-2024.pdf` — 98,056,293 bytes (matched books.json/release) · PDF pages: 114 · Printed page = PDF page (folios 6–9 verified) · Verdict: COMPLETE (exit test printed p. 109, glossary p. 110, answers p. 112). Read from rendered pages (image-only PDF) in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bulgaria-placements.md.
 
@@ -119,3 +119,17 @@ Searchable tags: dominican republic, ciencias de la naturaleza, minerd, libro ab
 Kuwait's own way — its Ministry of Education *Science* (العلوم) books, in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own unit order (life sciences, the human body, then matter and energy in the primary years; branch-built units with the 5E learning cycle and STEAM inquiry projects in the intermediate years) — is itself course content, carried exactly as filed.
 
 Searchable tags: kuwait, aloom, ministry of education kuwait, galaxies and the structure and evolution of the universe
+
+## Sri Lanka growth (2026-11-14, General Science expansion)
+
+**Book (Sri Lanka — Grade 9 Teacher's Instructional Manual, NIE 2010 (English / Sinhala / Tamil parallel editions)):** Title as printed: Science, Grade 9, Teacher's Instructional Manual (Implemented in 2010). Publisher: Department of Science, Health and Physical Education, Faculty of Science and Technology, National Institute of Education, Sri Lanka. English PDF 268 pages, 2,976,743 bytes; Sinhala PDF 264 pages, 2,251,364 bytes; Tamil PDF 302 pages, 2,134,270 bytes (page counts differ by language typesetting; covers, title pages and competency structure verified the same manual). Verdict: COMPLETE — a full lesson-by-lesson manual for the older (2010) Grade 9 syllabus, whose unit order and several units differ from the 2018 syllabus, so its distinct general-science guidance is placed below; units that duplicate Book 5 / Book 7 content in substance are not re-placed. Records: books.json science-2010-english.pdf, s9tim16-sinhala.pdf, science-2010-tamil.pdf — cited once here as parallel editions. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: existence of stars and galaxies (G9 TG 2010 (Eng/Si/Ta)) | Sri Lanka, *Science, Grade 9, Teacher's Instructional Manual (Implemented in 2010)*, competency 2.3 |
+
+**Acceptance count unchanged: taught in 6 countries (Bulgaria, Yemen, Pakistan (Punjab, Dominican Republic, Kuwait).** Sri Lanka is named as teacher-guide evidence only in the rows above (its Grade 9 / Grade 10 NIE guides), not added to this count.
+
+Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: sri lanka, sri lanka science, galaxies and the structure and evolution of the universe

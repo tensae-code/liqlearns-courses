@@ -1,6 +1,6 @@
 # Sources — Reflection, refraction and splitting light
 
-countries: Ethiopia, Iran, China, Cuba, Australia, Pakistan (Punjab), Samoa, Cabo Verde (teacher-guide evidence only), Angola, Dominican Republic, Syria
+countries: Ethiopia, Iran, China, Cuba, Australia, Pakistan (Punjab), Samoa, Cabo Verde (teacher-guide evidence only), Angola, Dominican Republic, Syria, Sri Lanka (teacher-guide evidence only)
 
 **Book 12:** *Environmental Science Student Textbook, Grade 6* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Mulugeta Awayehu (MA, Assoc. Prof.), Belete Kebede (MSc), Melese Sinu (MSc), Minilk Belay (MSc), Neqiqneh Zewdie (MSc). COMPLETE: 177 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g06-student-placements.md.
 
@@ -118,3 +118,17 @@ Searchable tags: dominican republic, ciencias de la naturaleza, minerd, libro ab
 Syria's own way — its Ministry of Education science books (كتاب العلوم), in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own semester and unit order, with Syria's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: syria, syria science, ministry of education syria, nccd, reflection refraction and splitting light
+
+## Sri Lanka growth (2026-11-14, General Science expansion)
+
+**Book (Sri Lanka — Grade 9 Teacher's Guide, NIE 2018 (English / Sinhala / Tamil parallel editions)):** Title as printed: Science, Grade 9, Teachers' Guide (Implemented from 2018). Publisher: Department of Science, Faculty of Science and Technology, National Institute of Education, Sri Lanka. English PDF 40 pages, 1,105,364 bytes; Sinhala PDF 45 pages, 1,123,913 bytes; Tamil PDF 44 pages, 923,786 bytes. Verdict: COMPLETE as issued — this 2018 guide is a syllabus-and-learning-outcomes guide for the whole Grade 9 year (competencies 1.1–4.6), not a page-by-page lesson manual; all three language editions verified by cover, title page and syllabus tables, and cited once here as parallel editions. Records: TSV record grade-09/gov/sri-lanka/science/teacher-guide.pdf is byte-identical in size (1,105,364 bytes) and content to the books.json English 2018 record — the same file, cited once. Books.json records: science-2018-english.pdf, sgr09tg-science-sinhala.pdf, science-2018-tamil.pdf. Guide evidence below covers the Grade 9 units for which no student textbook is in the target set (the student Part II), plus guide-only detail for Part I units. Placements are marked guide evidence. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: reflection and refraction of light applied in day-to-day tasks (G9 TG 2018 (Eng/Si/Ta)) | Sri Lanka, *Science, Grade 9, Teachers' Guide (Implemented from 2018)*, competency 3.3 |
+
+**Acceptance count unchanged: taught in 10 countries (Ethiopia, Iran, China, Cuba, Australia, Pakistan (Punjab), Samoa, Angola, Dominican Republic, Syria).** Sri Lanka is named as teacher-guide evidence only in the rows above (its Grade 9 / Grade 10 NIE guides), not added to this count.
+
+Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: sri lanka, sri lanka science, reflection refraction and splitting light

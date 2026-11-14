@@ -1,6 +1,6 @@
 # Sources — What air is made of
 
-countries: Angola, China, Eritrea
+countries: Angola, China, Eritrea, Sri Lanka
 
 **Book 5 (Angola):** *Ciências da Natureza — Manual do Aluno, 5ª Classe* (student book) — Angola. Title as printed: Ciências da Natureza | Manual da 5.ª classe (content: Maria Milagre de Freitas, Piedade Silissóli Agostinho, Adriano Albano Manuel Tandela). Grade: 5, student book. Publisher: Texto Editores, Lda. for the Ministério da Educação, 2021, 2nd edition; ISBN 978-989-8884-83-1. PDF pages: 104 (cover/title page matches the record title). Verdict: COMPLETE. Record: books.json only. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/angola-placements.md.
 
@@ -48,3 +48,20 @@ Placement choice, on the record: the Eritrea placement(s) above filed as "NEW LE
 Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: eritrea, eritrea science, ministry of education eritrea, what air is made of
+
+## Sri Lanka growth (2026-11-14, General Science expansion)
+
+**Book (Sri Lanka — Grade 9 New Science (Tamil medium, 1996)):** Title as printed: புதிய விஞ்ஞானம் (New Science), 9 ஆம் ஆண்டு (Year 9). Publisher: Educational Publications Department, Sri Lanka; first edition 1988, tenth edition 1996; digitised by the Noolaham Foundation. PDF 280 pages, 61,227,888 bytes, image-only scan (read from page renders). Verdict: COMPLETE (Chapters 1–14, printed pp. 1–256, plus syllabus appendix). Older integrated curriculum, distinct from the modern Grade 9 book and guides above. Twin records: TSV release record (mid-size-books-5) and books.json record grade-09/gov/sri-lanka/science/textbook/full-year-1996.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Chapter 1 Air: composition of air found by experiment (Lavoisier-type burning experiments; about one fifth is oxygen) (G9 New Science 1996 (Tamil)) (placement filed as NEW LESSON NEEDED — air-and-its-composition; this lesson already exists and covers that thing, so the placement stocks into it and the original slug is recorded here) | Sri Lanka, *புதிய விஞ்ஞானம் (New Science), Grade 9*, printed pp. 1–4 |
+| the other gases in air: nitrogen and the remaining gases, and dust in air (G9 New Science 1996 (Tamil)) (placement filed as NEW LESSON NEEDED — air-and-its-composition; this lesson already exists and covers that thing, so the placement stocks into it and the original slug is recorded here) | Sri Lanka, *புதிய விஞ்ஞானம் (New Science), Grade 9*, printed pp. 4–6 |
+
+**Acceptance count: taught in 4 countries (Angola, China, Eritrea, Sri Lanka).**
+
+Placement choice, on the record: the Sri Lanka placement(s) above filed as NEW LESSON NEEDED — air-and-its-composition — sri-lanka-placements.md — are stocked into this existing lesson, which already covers that thing as its own lesson, so no second lesson was built for them; the original slug is recorded in each row above.
+
+Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: sri lanka, sri lanka science, what air is made of

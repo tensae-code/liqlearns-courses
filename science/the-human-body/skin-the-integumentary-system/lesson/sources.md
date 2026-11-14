@@ -1,6 +1,6 @@
 # Sources — Skin — the integumentary system
 
-countries: Ethiopia, Barbados (curriculum evidence only), Moldova, Seychelles, Cabo Verde, Sudan, Mauritania, Angola, Syria, Laos, Eritrea
+countries: Ethiopia, Barbados (curriculum evidence only), Moldova, Seychelles, Cabo Verde, Sudan, Mauritania, Angola, Syria, Laos, Eritrea, Sri Lanka
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank as printed (printed “ISBN No –”). PDF 241 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -152,3 +152,20 @@ Searchable tags: laos, lao pdr, science and environment grade 2, science and env
 Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: eritrea, eritrea science, ministry of education eritrea, skin the integumentary system
+
+## Sri Lanka growth (2026-11-14, General Science expansion)
+
+**Book (Sri Lanka — Grade 8 Science Part 2 (English medium)):** Title as printed: Science Part – II, Grade 8. Publisher: Educational Publications Department, Sri Lanka. First print 2016, fourth print 2019. ISBN 978-955-25-0133-3. PDF 152 pages, 19,865,511 bytes. Verdict: COMPLETE for Part 2 (Chapters 9–15, printed pp. 1–141, pagination restarting at 1). Twin records: TSV blob record and books.json record grade-08/gov/sri-lanka/science/textbook/part-2.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+**Book (Sri Lanka — Grade 10 New Science (Tamil medium, 1998)):** Title as printed: புதிய விஞ்ஞானம் 10 (New Science 10), 10 ஆம் ஆண்டு (Year 10). Publisher: Educational Publications Department, Sri Lanka; first edition 1986, thirteenth edition 1998; digitised by the Noolaham Foundation. PDF as downloaded 56,290,176 bytes with a broken cross-reference structure (repaired with Ghostscript before reading; content pages verified against the printed contents); repaired PDF 336 pages, image-only scan (read from page renders). Verdict: COMPLETE (Chapters 1–16, printed pp. 1–258 plus front matter). This is the senior GCE O/L integrated book of the older curriculum; most of its chapters are pure Physics / Chemistry / Biology in treatment and are named as split-subject lines below. Twin records: TSV release record (mid-size-books-5) and books.json record grade-10/gov/sri-lanka/science/textbook/full-year-1998.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| human skin: structure and functions (G8 Science Part 2 (Eng)) | Sri Lanka, *Science Part – II, Grade 8*, printed p. 11 |
+| the lungs and the skin as organs that also remove waste (G10 New Science 1998 (Tamil)) | Sri Lanka, *புதிய விஞ்ஞானம் (New Science 10)*, printed p. 118 |
+
+**Acceptance count: taught in 11 countries (Ethiopia, Moldova, Seychelles, Cabo Verde, Sudan, Mauritania, Angola, Syria, Laos, Eritrea, Sri Lanka).**
+
+Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: sri lanka, sri lanka science, skin the integumentary system

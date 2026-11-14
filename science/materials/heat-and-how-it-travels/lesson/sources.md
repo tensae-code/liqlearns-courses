@@ -1,6 +1,6 @@
 # Sources — Heat and how it travels
 
-countries: Ethiopia, Australia, India, Gabon (teacher-guide evidence only), United States, Cuba, Egypt, Cambodia, Seychelles, Ecuador, Sudan, Venezuela, Angola, Dominican Republic, Kuwait, Laos, Eritrea
+countries: Ethiopia, Australia, India, Gabon (teacher-guide evidence only), United States, Cuba, Egypt, Cambodia, Seychelles, Ecuador, Sudan, Venezuela, Angola, Dominican Republic, Kuwait, Laos, Eritrea, Sri Lanka
 
 **Book 12:** *Environmental Science Student Textbook, Grade 6* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Mulugeta Awayehu (MA, Assoc. Prof.), Belete Kebede (MSc), Melese Sinu (MSc), Minilk Belay (MSc), Neqiqneh Zewdie (MSc). COMPLETE: 177 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g06-student-placements.md.
 
@@ -245,3 +245,17 @@ Searchable tags: laos, lao pdr, natural sciences grade 7, natural sciences grade
 Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: eritrea, eritrea science, ministry of education eritrea, heat and how it travels
+
+## Sri Lanka growth (2026-11-14, General Science expansion)
+
+**Book (Sri Lanka — Grade 8 Science Part 2 (English medium)):** Title as printed: Science Part – II, Grade 8. Publisher: Educational Publications Department, Sri Lanka. First print 2016, fourth print 2019. ISBN 978-955-25-0133-3. PDF 152 pages, 19,865,511 bytes. Verdict: COMPLETE for Part 2 (Chapters 9–15, printed pp. 1–141, pagination restarting at 1). Twin records: TSV blob record and books.json record grade-08/gov/sri-lanka/science/textbook/part-2.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| heating effect of electric current (G8 Science Part 2 (Eng)) | Sri Lanka, *Science Part – II, Grade 8*, printed p. 32 |
+
+**Acceptance count: taught in 16 countries (Ethiopia, Australia, India, United States, Cuba, Egypt, Cambodia, Ecuador, Sudan, Venezuela, Angola, Dominican Republic, Kuwait, Laos, Eritrea, Sri Lanka).**
+
+Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: sri lanka, sri lanka science, heat and how it travels

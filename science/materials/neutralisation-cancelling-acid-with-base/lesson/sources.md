@@ -1,6 +1,6 @@
 # Sources — Neutralisation — cancelling acid with base
 
-countries: Ethiopia, Seychelles, Dominican Republic
+countries: Ethiopia, Seychelles, Dominican Republic, Sri Lanka
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank as printed. PDF 241 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -39,3 +39,17 @@ Searchable tags: neutralisation, acid + base salt + water, NaOH HCl corrected eq
 Dominican Republic's own way — its *Libro Abierto* Ciencias de la Naturaleza books (MINERD, Serie 1 Proyecto Libro Abierto) teach this thing at the places and in the order named in the rows above, with the country's own examples where the rows name them (Hispaniola, the island's coasts and its tropical climate among them) — is itself course content, carried exactly as filed.
 
 Searchable tags: dominican republic, ciencias de la naturaleza, minerd, libro abierto, neutralisation cancelling acid with base
+
+## Sri Lanka growth (2026-11-14, General Science expansion)
+
+**Book (Sri Lanka — Grade 8 Science Part 1 (English medium)):** Title as printed: Science Part – I, Grade 8. Publisher: Educational Publications Department, Sri Lanka. First print 2016, fourth print 2019. ISBN 978-955-25-0132-6. PDF 137 pages, 5,185,614 bytes. Verdict: COMPLETE for Part 1 (Chapters 1–8, printed pp. 1–126). Twin records: TSV blob record and books.json record grade-08/gov/sri-lanka/science/textbook/part-1.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| neutralisation of acids by bases (G8 Science Part 1 (Eng)) | Sri Lanka, *Science Part – I, Grade 8*, printed p. 122 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Seychelles, Dominican Republic, Sri Lanka).**
+
+Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: sri lanka, sri lanka science, neutralisation cancelling acid with base

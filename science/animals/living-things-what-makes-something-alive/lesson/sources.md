@@ -1,6 +1,6 @@
 # Sources — Living things — what makes something alive
 
-countries: Ethiopia, Cook Islands, Trinidad and Tobago (curriculum-guide evidence only), Zambia (teacher-module evidence only), Guatemala (teacher-guide evidence only), Albania (teacher-guide evidence only), Barbados (curriculum evidence only), Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Moldova, Pakistan (Punjab), Cuba, Samoa (curriculum evidence only), Egypt, Seychelles, Ecuador, Afghanistan, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Mauritania, Angola, Bhutan, Dominican Republic, Kuwait, Syria, Laos, Eritrea
+countries: Ethiopia, Cook Islands, Trinidad and Tobago (curriculum-guide evidence only), Zambia (teacher-module evidence only), Guatemala (teacher-guide evidence only), Albania (teacher-guide evidence only), Barbados (curriculum evidence only), Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Moldova, Pakistan (Punjab), Cuba, Samoa (curriculum evidence only), Egypt, Seychelles, Ecuador, Afghanistan, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Mauritania, Angola, Bhutan, Dominican Republic, Kuwait, Syria, Laos, Eritrea, Sri Lanka
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -479,3 +479,27 @@ Searchable tags: laos, lao pdr, science and environment grade 2
 Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: eritrea, eritrea science, ministry of education eritrea, living things what makes something alive
+
+## Sri Lanka growth (2026-11-14, General Science expansion)
+
+**Book (Sri Lanka — Grade 6 Science (English medium)):** Title as printed: Science, Grade 6. Publisher: Educational Publications Department, Sri Lanka. First print 2014, sixth print 2019. ISBN 978-955-25-0079-4. PDF 190 pages, 16,555,739 bytes. Verdict: COMPLETE (Chapters 1–11, printed pp. 1–177 plus front matter). Twin records: TSV blob record grade-06/gov/sri-lanka/science/textbook/full-year.pdf and books.json record with the same file field are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+**Book (Sri Lanka — Grade 8 Science Part 2 (English medium)):** Title as printed: Science Part – II, Grade 8. Publisher: Educational Publications Department, Sri Lanka. First print 2016, fourth print 2019. ISBN 978-955-25-0133-3. PDF 152 pages, 19,865,511 bytes. Verdict: COMPLETE for Part 2 (Chapters 9–15, printed pp. 1–141, pagination restarting at 1). Twin records: TSV blob record and books.json record grade-08/gov/sri-lanka/science/textbook/part-2.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+**Book (Sri Lanka — Grade 10 Teacher's Guide, NIE 2015):** Title as printed: Science, Teacher's Guide, Grade 10 (Implemented from 2015). Publisher: Department of Science, Faculty of Science and Technology, National Institute of Education, Sri Lanka. PDF 84 pages, 1,413,364 bytes. Verdict: PARTIAL as a guide — the file carries the full Grade 10 syllabus / competency tables with learning outcomes (competencies 1.1–3.9) but not page-by-page lesson plans; read in full as issued. No Grade 10 English student textbook is in the target set — library debt, see group log. Record: TSV blob record only; no books.json twin. Guide evidence below covers only the guide's general / life-science competencies; its chemistry and physics competencies are named as split-subject lines. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| living vs non-living components of the environment, sorted from classroom and school garden (G6 Science (Eng)) | Sri Lanka, *Science, Grade 6*, printed p. 1 |
+| characteristics of organisms: growth, measured by germinating green-gram seedlings over two weeks (G6 Science (Eng)) | Sri Lanka, *Science, Grade 6*, printed p. 6 |
+| characteristics of organisms: nutrition, autotrophic plants making food by photosynthesis vs heterotrophic animals (G6 Science (Eng)) | Sri Lanka, *Science, Grade 6*, printed p. 8 |
+| characteristics of organisms: movement and locomotion appendages; plant movements (Mimosa sleeping movement, bending to light) (G6 Science (Eng)) | Sri Lanka, *Science, Grade 6*, printed p. 9 |
+| importance of learning the life cycles of organisms (G8 Science Part 2 (Eng)) | Sri Lanka, *Science Part – II, Grade 8*, printed p. 72 |
+| guide evidence: characteristics of living things used to differentiate living from non-living (cellular organisation, nutrition, respiration, sensitivity, excretion, movement, reproduction, growth) (G10 TG (NIE 2015)) | Sri Lanka, *Science, Teacher's Guide, Grade 10 (Implemented from 2015)*, competency 1.3 |
+
+**Acceptance count: taught in 23 countries (Ethiopia, Cook Islands, Uganda, Bulgaria, Greece, Moldova, Pakistan (Punjab, Eritrea, Sri Lanka).**
+The teacher-guide rows above are guide evidence, carried as filed; the count rises on the student books above, not on the guides.
+
+Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: sri lanka, sri lanka science, living things what makes something alive

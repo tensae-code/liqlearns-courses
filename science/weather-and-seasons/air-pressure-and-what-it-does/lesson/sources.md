@@ -1,6 +1,6 @@
 # Sources — Air pressure and what it does
 
-countries: Armenia, Seychelles, Angola, Kuwait, Eritrea
+countries: Armenia, Seychelles, Angola, Kuwait, Eritrea, Sri Lanka
 
 **Book (Armenia — Grade 6, student book):** Title as printed: ԲՆՈՒԹՅՈՒՆ (Nature) — textbook for Grade 6 of general school; authors E. Ghazaryan, G. Melikyan, T. Vardanyan, L. Hakobyan Grade: 6 (student/teacher: STUDENT book) Publisher: Astghik Gratun (Աստղիկ Գրատուն), Yerevan, 2024; ISBN 978-9939-74-171-0; printed on the order of the RA Ministry of Education, Science, Culture and Sport PDF pages: 178 (printed 176 pages; byte size 247,728,579 for the full-quality release copy; imprint page verified against the record title; the text layer uses a legacy font encoding, decoded for the headings and contents) Verdict: COMPLETE Armenia's own way: «Բնություն» (Nature) in Grades 5–6 and «Բնագիտություն» (Natural Science) in Grade 10 are one integrated subject — the whole of nature in its large structural units (Earth, water, air, life, the human, the Universe), deliberately not split into separate sciences at this age (stated in both teacher guides). Records: Armenia's set holds 8 records for 5 distinct books — the Grade 5, Grade 6 and Grade 10 student books each appear twice (TSV release record and books.json record), the same books, verified by title/publisher/year and cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/armenia-placements.md.
 
@@ -73,3 +73,19 @@ Placement choice, on the record: the Eritrea placement(s) above filed as "NEW LE
 Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: eritrea, eritrea science, ministry of education eritrea, air pressure and what it does
+
+## Sri Lanka growth (2026-11-14, General Science expansion)
+
+**Book (Sri Lanka — Grade 6 New Science (Tamil medium, 1986)):** Title as printed: புதிய விஞ்ஞானம் (New Science), ஆண்டு 6 (Year 6). Publisher: Educational Publications Department, Sri Lanka (கல்வி வெளியீட்டுத் திணைக்களம்), first edition 1986, printed at the Ayurvedic press, Colombo; digitised by the Noolaham Foundation. PDF 128 pages, 30,261,052 bytes, image-only scan (read from page renders). Verdict: COMPLETE (Units 1–8, printed pp. 1–115 plus front matter). This is the older 1980s integrated curriculum, distinct in content and order from the modern Grade 6 book above — not a parallel edition of it. Twin records: TSV release record (mid-size-books-4) and books.json record grade-06/gov/sri-lanka/science/textbook/full-year-1986.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| air exerts pressure (G6 New Science 1986 (Tamil)) (placement filed as NEW LESSON NEEDED — air-pressure; this lesson already exists and covers that thing, so the placement stocks into it and the original slug is recorded here) | Sri Lanka, *புதிய விஞ்ஞானம் (New Science), Grade 6*, printed p. 73 |
+
+**Acceptance count: taught in 6 countries (Armenia, Seychelles, Angola, Kuwait, Eritrea, Sri Lanka).**
+
+Placement choice, on the record: the Sri Lanka placement(s) above filed as NEW LESSON NEEDED — air-pressure — sri-lanka-placements.md — are stocked into this existing lesson, which already covers that thing as its own lesson, so no second lesson was built for them; the original slug is recorded in each row above.
+
+Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: sri lanka, sri lanka science, air pressure and what it does

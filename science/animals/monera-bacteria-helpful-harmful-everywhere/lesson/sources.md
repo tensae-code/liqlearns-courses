@@ -1,6 +1,6 @@
 # Sources — Monera — bacteria: helpful, harmful, everywhere
 
-countries: Ethiopia, Peru, Uganda, Gabon (teacher-guide evidence only), Pakistan (Punjab), Samoa, Egypt, Afghanistan, Cabo Verde (teacher-guide evidence only), Venezuela, Mauritania, Bhutan, Dominican Republic, Kuwait
+countries: Ethiopia, Peru, Uganda, Gabon (teacher-guide evidence only), Pakistan (Punjab), Samoa, Egypt, Afghanistan, Cabo Verde (teacher-guide evidence only), Venezuela, Mauritania, Bhutan, Dominican Republic, Kuwait, Sri Lanka
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -202,3 +202,27 @@ Searchable tags: dominican republic, ciencias de la naturaleza, minerd, libro ab
 Kuwait's own way — its Ministry of Education *Science* (العلوم) books, in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own unit order (life sciences, the human body, then matter and energy in the primary years; branch-built units with the 5E learning cycle and STEAM inquiry projects in the intermediate years) — is itself course content, carried exactly as filed.
 
 Searchable tags: kuwait, aloom, ministry of education kuwait, monera bacteria helpful harmful everywhere
+
+## Sri Lanka growth (2026-11-14, General Science expansion)
+
+**Book (Sri Lanka — Grade 8 Science Part 1 (English medium)):** Title as printed: Science Part – I, Grade 8. Publisher: Educational Publications Department, Sri Lanka. First print 2016, fourth print 2019. ISBN 978-955-25-0132-6. PDF 137 pages, 5,185,614 bytes. Verdict: COMPLETE for Part 1 (Chapters 1–8, printed pp. 1–126). Twin records: TSV blob record and books.json record grade-08/gov/sri-lanka/science/textbook/part-1.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+**Book (Sri Lanka — Grade 9 Science Part I (English medium)):** Title as printed: Science Part – I, Grade 9. Publisher: Educational Publications Department, Sri Lanka. First print 2017, third print 2019. ISBN 978-955-25-0162-3. PDF 122 pages, 12,471,706 bytes. Verdict: COMPLETE for Part I (Chapters 1–9, printed pp. 1–111); Part II of Grade 9 is not among the target records — library debt, see group log. Record: TSV blob record only; no books.json twin. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+**Book (Sri Lanka — Grade 9 Teacher's Guide, NIE 2018 (English / Sinhala / Tamil parallel editions)):** Title as printed: Science, Grade 9, Teachers' Guide (Implemented from 2018). Publisher: Department of Science, Faculty of Science and Technology, National Institute of Education, Sri Lanka. English PDF 40 pages, 1,105,364 bytes; Sinhala PDF 45 pages, 1,123,913 bytes; Tamil PDF 44 pages, 923,786 bytes. Verdict: COMPLETE as issued — this 2018 guide is a syllabus-and-learning-outcomes guide for the whole Grade 9 year (competencies 1.1–4.6), not a page-by-page lesson manual; all three language editions verified by cover, title page and syllabus tables, and cited once here as parallel editions. Records: TSV record grade-09/gov/sri-lanka/science/teacher-guide.pdf is byte-identical in size (1,105,364 bytes) and content to the books.json English 2018 record — the same file, cited once. Books.json records: science-2018-english.pdf, sgr09tg-science-sinhala.pdf, science-2018-tamil.pdf. Guide evidence below covers the Grade 9 units for which no student textbook is in the target set (the student Part II), plus guide-only detail for Part I units. Placements are marked guide evidence. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| micro-organisms: kinds and where they live (G8 Science Part 1 (Eng)) | Sri Lanka, *Science Part – I, Grade 8*, printed p. 1 |
+| impact of micro-organisms on humans and their activities, helpful and harmful (G8 Science Part 1 (Eng)) | Sri Lanka, *Science Part – I, Grade 8*, printed p. 6 |
+| applications of micro-organisms: kinds and groups (G9 Science Part I (Eng)) | Sri Lanka, *Science Part – I, Grade 9*, printed p. 1 |
+| environments and substrates where micro-organisms live (G9 Science Part I (Eng)) | Sri Lanka, *Science Part – I, Grade 9*, printed p. 3 |
+| effects of micro-organisms, favourable and unfavourable (food production, decomposition, disease, spoilage) (G9 Science Part I (Eng)) | Sri Lanka, *Science Part – I, Grade 9*, printed p. 4 |
+| guide evidence: micro-organisms used in environmental conservation (decomposing oil spilled on ocean water, absorbing heavy metals, recycling plastics) (G9 TG 2018 (Eng/Si/Ta)) | Sri Lanka, *Science, Grade 9, Teachers' Guide (Implemented from 2018)*, syllabus competency 1.1 |
+
+**Acceptance count: taught in 13 countries (Ethiopia, Peru, Uganda, Pakistan (Punjab, Samoa, Egypt, Afghanistan, Venezuela, Mauritania, Bhutan, Dominican Republic, Kuwait, Sri Lanka).**
+The teacher-guide rows above are guide evidence, carried as filed; the count rises on the student books above, not on the guides.
+
+Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: sri lanka, sri lanka science, monera bacteria helpful harmful everywhere

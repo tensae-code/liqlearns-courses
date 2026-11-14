@@ -1,6 +1,6 @@
 # Sources — Food — a balanced diet
 
-countries: Ethiopia, Cook Islands, Trinidad and Tobago (curriculum-guide evidence only), Djibouti (teacher-guide evidence only), Uganda, Bulgaria, Greece, Moldova, Pakistan (Punjab), Cuba, Cambodia, Seychelles, Ecuador, Afghanistan, Venezuela, Mauritania, Angola, Bhutan, Dominican Republic, Kuwait, China, Syria, Laos
+countries: Ethiopia, Cook Islands, Trinidad and Tobago (curriculum-guide evidence only), Djibouti (teacher-guide evidence only), Uganda, Bulgaria, Greece, Moldova, Pakistan (Punjab), Cuba, Cambodia, Seychelles, Ecuador, Afghanistan, Venezuela, Mauritania, Angola, Bhutan, Dominican Republic, Kuwait, China, Syria, Laos, Sri Lanka
 
 **Book 1:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -403,3 +403,18 @@ Searchable tags: syria, syria science, ministry of education syria, nccd, food a
 Laos's own way in this lesson — as carried in the rows above, exactly as filed — is itself course content.
 
 Searchable tags: laos, lao pdr, natural sciences grade 6, science and environment grade 1, science and environment grade 1 teacher guide, science and environment grade 2, science and environment grade 3
+
+## Sri Lanka growth (2026-11-14, General Science expansion)
+
+**Book (Sri Lanka — Grade 8 New Science (Tamil medium, 1988)):** Title as printed: புதிய விஞ்ஞானம் (New Science), ஆண்டு 8 (Year 8). Publisher: Educational Publications Department, Sri Lanka; first edition 1986, second 1987, third 1988; digitised by the Noolaham Foundation. PDF 178 pages, 48,018,150 bytes, image-only scan (read from page renders). Verdict: COMPLETE (Chapters 1–11, printed pp. 1–162 plus front matter). Older integrated curriculum, distinct from the modern Grade 8 books above. Twin records: TSV release record (mid-size-books-4) and books.json record grade-08/gov/sri-lanka/science/textbook/full-year-1988.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| what happens when needed nutrients are not obtained; how vitamins and minerals serve the body (G8 New Science 1988 (Tamil)) | Sri Lanka, *புதிய விஞ்ஞானம் (New Science), Grade 8*, printed pp. 68–70 |
+| nutrition problems affecting local people and malnutrition: causes and prevention — a Sri Lankan framing (G8 New Science 1988 (Tamil)) | Sri Lanka, *புதிய விஞ்ஞானம் (New Science), Grade 8*, printed pp. 73–77 |
+
+**Acceptance count: taught in 22 countries (Ethiopia, Cook Islands, Uganda, Bulgaria, Greece, Moldova, Pakistan (Punjab), Cuba, Cambodia, Seychelles, Ecuador, Afghanistan, Venezuela, Mauritania, Angola, Bhutan, Dominican Republic, Kuwait, China, Syria, Laos, Sri Lanka).**
+
+Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: sri lanka, sri lanka science, food a balanced diet

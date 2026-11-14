@@ -1,6 +1,6 @@
 # Sources — Circuits — source, load, wires, and open vs closed
 
-countries: Ethiopia, Samoa, Djibouti (teacher-guide evidence only), Haiti (programme evidence only), Morocco (teacher-guide evidence only), Kenya, Kuwait, Moldova, South Sudan, Mozambique, China, Mauritania, Vanuatu (teacher-guide evidence only), Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Mongolia, India, Gabon (teacher-guide evidence only), Pakistan (Punjab), Armenia, Egypt, Cambodia, Afghanistan, Sudan, Venezuela, Bhutan, Dominican Republic, Syria, Laos, Eritrea
+countries: Ethiopia, Samoa, Djibouti (teacher-guide evidence only), Haiti (programme evidence only), Morocco (teacher-guide evidence only), Kenya, Kuwait, Moldova, South Sudan, Mozambique, China, Mauritania, Vanuatu (teacher-guide evidence only), Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Mongolia, India, Gabon (teacher-guide evidence only), Pakistan (Punjab), Armenia, Egypt, Cambodia, Afghanistan, Sudan, Venezuela, Bhutan, Dominican Republic, Syria, Laos, Eritrea, Sri Lanka
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -458,3 +458,23 @@ Searchable tags: laos, lao pdr, natural sciences grade 8, science and environmen
 Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: eritrea, eritrea science, ministry of education eritrea, circuits source load wires open and closed
+
+## Sri Lanka growth (2026-11-14, General Science expansion)
+
+**Book (Sri Lanka — Grade 6 Science (English medium)):** Title as printed: Science, Grade 6. Publisher: Educational Publications Department, Sri Lanka. First print 2014, sixth print 2019. ISBN 978-955-25-0079-4. PDF 190 pages, 16,555,739 bytes. Verdict: COMPLETE (Chapters 1–11, printed pp. 1–177 plus front matter). Twin records: TSV blob record grade-06/gov/sri-lanka/science/textbook/full-year.pdf and books.json record with the same file field are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+**Book (Sri Lanka — Grade 8 Science Part 2 (English medium)):** Title as printed: Science Part – II, Grade 8. Publisher: Educational Publications Department, Sri Lanka. First print 2016, fourth print 2019. ISBN 978-955-25-0133-3. PDF 152 pages, 19,865,511 bytes. Verdict: COMPLETE for Part 2 (Chapters 9–15, printed pp. 1–141, pagination restarting at 1). Twin records: TSV blob record and books.json record grade-08/gov/sri-lanka/science/textbook/part-2.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| electricity in day-to-day life and generating electricity (G6 Science (Eng)) | Sri Lanka, *Science, Grade 6*, printed pp. 110–111 |
+| preparing simple circuits with cell, bulb and switch (G6 Science (Eng)) | Sri Lanka, *Science, Grade 6*, printed p. 117 |
+| conductors and insulators tested in a circuit (G6 Science (Eng)) | Sri Lanka, *Science, Grade 6*, printed p. 121 |
+| simple electric circuits (G8 Science Part 2 (Eng)) | Sri Lanka, *Science Part – II, Grade 8*, printed p. 23 |
+| household electrical appliances and their safe use (G8 Science Part 2 (Eng)) | Sri Lanka, *Science Part – II, Grade 8*, printed p. 30 |
+
+**Acceptance count: taught in 25 countries (Ethiopia, Samoa, Kenya, Kuwait, Moldova, South Sudan, Mozambique, China, Mauritania, Guyana, Mongolia, India, Pakistan (Punjab, Eritrea, Sri Lanka).**
+
+Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: sri lanka, sri lanka science, circuits source load wires open and closed

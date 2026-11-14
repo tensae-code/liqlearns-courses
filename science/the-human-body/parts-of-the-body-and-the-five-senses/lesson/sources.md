@@ -1,6 +1,6 @@
 # Sources — Parts of the body and the five senses
 
-countries: Ethiopia, Zambia (teacher-module evidence only), Suriname, Ghana (curriculum evidence only), Guyana, Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Moldova, United States, Pakistan (Punjab), Armenia, Egypt, Cambodia, Seychelles, Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Angola, Kuwait, China, Syria, Laos, Eritrea
+countries: Ethiopia, Zambia (teacher-module evidence only), Suriname, Ghana (curriculum evidence only), Guyana, Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Moldova, United States, Pakistan (Punjab), Armenia, Egypt, Cambodia, Seychelles, Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Angola, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka
 
 **Book 1:** *Environmental Science Teacher's Guide, Grade 1* (አካባቢ ሳይንስ የመምህራን መምሪያ 1ኛ ክፍል) (teacher's guide — the file held in the library as the Grade 1 "student" book; the Grade 1 student textbook itself is NOT held) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. The held file is damaged and truncated: it holds guide printed pp. i–v and 1–27 only, of a guide running to at least printed p. 85. Guide printed page = PDF page − 8 in the genuine pages. Read visually, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-student-placements.md.
 
@@ -502,3 +502,20 @@ Searchable tags: laos, lao pdr, natural sciences grade 8, science and environmen
 Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: eritrea, eritrea science, ministry of education eritrea, parts of the body and the five senses
+
+## Sri Lanka growth (2026-11-14, General Science expansion)
+
+**Book (Sri Lanka — Grade 9 Science Part I (English medium)):** Title as printed: Science Part – I, Grade 9. Publisher: Educational Publications Department, Sri Lanka. First print 2017, third print 2019. ISBN 978-955-25-0162-3. PDF 122 pages, 12,471,706 bytes. Verdict: COMPLETE for Part I (Chapters 1–9, printed pp. 1–111); Part II of Grade 9 is not among the target records — library debt, see group log. Record: TSV blob record only; no books.json twin. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+**Book (Sri Lanka — Grade 8 New Science (Tamil medium, 1988)):** Title as printed: புதிய விஞ்ஞானம் (New Science), ஆண்டு 8 (Year 8). Publisher: Educational Publications Department, Sri Lanka; first edition 1986, second 1987, third 1988; digitised by the Noolaham Foundation. PDF 178 pages, 48,018,150 bytes, image-only scan (read from page renders). Verdict: COMPLETE (Chapters 1–11, printed pp. 1–162 plus front matter). Older integrated curriculum, distinct from the modern Grade 8 books above. Twin records: TSV release record (mid-size-books-4) and books.json record grade-08/gov/sri-lanka/science/textbook/full-year-1988.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| structure and function of the human eye (G9 Science Part I (Eng)) | Sri Lanka, *Science Part – I, Grade 9*, printed p. 16 |
+| the eye: structure of the eye and how vision happens (G8 New Science 1988 (Tamil)) | Sri Lanka, *புதிய விஞ்ஞானம் (New Science), Grade 8*, printed pp. 56–59 |
+
+**Acceptance count: taught in 24 countries (Ethiopia, Suriname, Guyana, Mongolia, Moldova, United States, Pakistan (Punjab, Eritrea, Sri Lanka).**
+
+Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: sri lanka, sri lanka science, parts of the body and the five senses

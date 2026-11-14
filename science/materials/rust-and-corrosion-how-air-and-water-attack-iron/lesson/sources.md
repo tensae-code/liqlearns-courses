@@ -1,6 +1,6 @@
 # Sources — Rust and corrosion — how air and water attack iron
 
-countries: Gabon (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Uganda, Cuba, China
+countries: Gabon (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Uganda, Cuba, China, Sri Lanka
 
 **Book 1:** *Super Efficace — Sciences, Guide pédagogique, 4e année* (teacher guide) — Gabon, © EDIG/EDICEF 2024. Title as printed: Super Efficace — Sciences, Guide pédagogique, 4e année, © EDIG/EDICEF 2024. Grade 4. Teacher guide. Repo path: grade-04/gov/gabon/sciences/teacher/gabon-g04-sciences-teacher.pdf. Byte size: 1,366,088 (no size in record). PDF pages: 60. Offset: printed pp. 3–60 (sommaire: paliers at pp. 3–15, 16–27, 28–39, 40–50, 51–60). Verdict: COMPLETE — full text read (32,604 words); sommaire and palier statements prove identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -76,3 +76,21 @@ Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, rust an
 China's own way — its 科学 (Science) textbooks teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with China's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: china, china science, pep, people's education press, rust and corrosion how air and water attack iron
+
+## Sri Lanka growth (2026-11-14, General Science expansion)
+
+**Book (Sri Lanka — Grade 8 Science Part 1 (English medium)):** Title as printed: Science Part – I, Grade 8. Publisher: Educational Publications Department, Sri Lanka. First print 2016, fourth print 2019. ISBN 978-955-25-0132-6. PDF 137 pages, 5,185,614 bytes. Verdict: COMPLETE for Part 1 (Chapters 1–8, printed pp. 1–126). Twin records: TSV blob record and books.json record grade-08/gov/sri-lanka/science/textbook/part-1.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+**Book (Sri Lanka — Grade 9 New Science (Tamil medium, 1996)):** Title as printed: புதிய விஞ்ஞானம் (New Science), 9 ஆம் ஆண்டு (Year 9). Publisher: Educational Publications Department, Sri Lanka; first edition 1988, tenth edition 1996; digitised by the Noolaham Foundation. PDF 280 pages, 61,227,888 bytes, image-only scan (read from page renders). Verdict: COMPLETE (Chapters 1–14, printed pp. 1–256, plus syllabus appendix). Older integrated curriculum, distinct from the modern Grade 9 book and guides above. Twin records: TSV release record (mid-size-books-5) and books.json record grade-09/gov/sri-lanka/science/textbook/full-year-1996.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| tarnishing of metals (G8 Science Part 1 (Eng)) | Sri Lanka, *Science Part – I, Grade 8*, printed p. 119 |
+| iron rusting: causes of rusting, which gas in air is needed, the damage rusting does, and how to prevent it (G9 New Science 1996 (Tamil)) | Sri Lanka, *புதிய விஞ்ஞானம் (New Science), Grade 9*, printed pp. 12–15 |
+| tarnishing of other metals (G9 New Science 1996 (Tamil)) | Sri Lanka, *புதிய விஞ்ஞானம் (New Science), Grade 9*, printed p. 15 |
+
+**Acceptance count: taught in 4 countries (Uganda, Cuba, China, Sri Lanka).**
+
+Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: sri lanka, sri lanka science, rust and corrosion how air and water attack iron

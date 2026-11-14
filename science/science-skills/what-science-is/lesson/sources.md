@@ -1,6 +1,6 @@
 # Sources — What science is — evidence, inference and tentative knowledge
 
-countries: Ethiopia, Afghanistan, Trinidad and Tobago (curriculum-guide evidence only), Canada (teacher-guide evidence only), Uganda, Moldova, United States, Armenia, Samoa (curriculum evidence only), Cambodia (guide evidence only), Cabo Verde, Sudan, Dominican Republic, Syria, Laos, Eritrea
+countries: Ethiopia, Afghanistan, Trinidad and Tobago (curriculum-guide evidence only), Canada (teacher-guide evidence only), Uganda, Moldova, United States, Armenia, Samoa (curriculum evidence only), Cambodia (guide evidence only), Cabo Verde, Sudan, Dominican Republic, Syria, Laos, Eritrea, Sri Lanka
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -246,3 +246,17 @@ Searchable tags: laos, lao pdr, natural sciences grade 6
 Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: eritrea, eritrea science, ministry of education eritrea, what science is
+
+## Sri Lanka growth (2026-11-14, General Science expansion)
+
+**Book (Sri Lanka — Grade 6 New Science (Tamil medium, 1986)):** Title as printed: புதிய விஞ்ஞானம் (New Science), ஆண்டு 6 (Year 6). Publisher: Educational Publications Department, Sri Lanka (கல்வி வெளியீட்டுத் திணைக்களம்), first edition 1986, printed at the Ayurvedic press, Colombo; digitised by the Noolaham Foundation. PDF 128 pages, 30,261,052 bytes, image-only scan (read from page renders). Verdict: COMPLETE (Units 1–8, printed pp. 1–115 plus front matter). This is the older 1980s integrated curriculum, distinct in content and order from the modern Grade 6 book above — not a parallel edition of it. Twin records: TSV release record (mid-size-books-4) and books.json record grade-06/gov/sri-lanka/science/textbook/full-year-1986.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 1 Our Environment: identifying and listing the objects around us, classroom and school surroundings (G6 New Science 1986 (Tamil)) | Sri Lanka, *புதிய விஞ்ஞானம் (New Science), Grade 6*, printed p. 1 |
+
+**Acceptance count: taught in 13 countries (Ethiopia, Afghanistan, Uganda, Moldova, United States, Armenia, Cabo Verde, Sudan, Dominican Republic, Syria, Laos, Eritrea, Sri Lanka).**
+
+Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: sri lanka, sri lanka science, what science is

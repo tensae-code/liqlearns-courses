@@ -1,6 +1,6 @@
 # Sources — Matter — the particle theory
 
-countries: Ethiopia, Barbados, Nigeria (teacher-guide evidence only), Morocco (teacher-guide evidence only), Uganda, Kenya, Bulgaria, Belarus, Uzbekistan, India, North Macedonia, Laos, Moldova, South Sudan, Cuba, Kazakhstan, Mongolia, United States, Pakistan (Punjab), Armenia, Samoa, Egypt, Seychelles, Ecuador, Bhutan, Kuwait, Syria
+countries: Ethiopia, Barbados, Nigeria (teacher-guide evidence only), Morocco (teacher-guide evidence only), Uganda, Kenya, Bulgaria, Belarus, Uzbekistan, India, North Macedonia, Laos, Moldova, South Sudan, Cuba, Kazakhstan, Mongolia, United States, Pakistan (Punjab), Armenia, Samoa, Egypt, Seychelles, Ecuador, Bhutan, Kuwait, Syria, Sri Lanka
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 **Book 2:** *General Science Teacher's Guide, Grade 7* (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2023. Authors: Andualem Beka, Sagni Megersa, Goshu Asab, Michael Getachew, Gemechis Nemera, Diriba Kebede. PDF 236 pp. Printed page = PDF page − 15. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-teacher-placements.md.
@@ -314,3 +314,17 @@ Searchable tags: syria, syria science, ministry of education syria, nccd, matter
 Laos's own way in this lesson — as carried in the rows above, exactly as filed — is itself course content.
 
 Searchable tags: laos, lao pdr, natural sciences grade 6
+
+## Sri Lanka growth (2026-11-14, General Science expansion)
+
+**Book (Sri Lanka — Grade 8 Science Part 1 (English medium)):** Title as printed: Science Part – I, Grade 8. Publisher: Educational Publications Department, Sri Lanka. First print 2016, fourth print 2019. ISBN 978-955-25-0132-6. PDF 137 pages, 5,185,614 bytes. Verdict: COMPLETE for Part 1 (Chapters 1–8, printed pp. 1–126). Twin records: TSV blob record and books.json record grade-08/gov/sri-lanka/science/textbook/part-1.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| discontinuous (particle) nature of matter (G8 Science Part 1 (Eng)) | Sri Lanka, *Science Part – I, Grade 8*, printed p. 39 |
+
+**Acceptance count: taught in 26 countries (Ethiopia, Barbados, Uganda, Kenya, Bulgaria, Belarus, Uzbekistan, India, North Macedonia, Laos, Moldova, South Sudan, Cuba, Kazakhstan, Mongolia, United States, Pakistan (Punjab), Armenia, Samoa, Egypt, Seychelles, Ecuador, Bhutan, Kuwait, Syria, Sri Lanka).**
+
+Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: sri lanka, sri lanka science, matter the particle theory

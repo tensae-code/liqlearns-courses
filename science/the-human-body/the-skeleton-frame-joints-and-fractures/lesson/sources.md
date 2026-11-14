@@ -1,6 +1,6 @@
 # Sources — The skeleton — frame, joints and fractures
 
-countries: Ethiopia, Guyana, Djibouti (teacher-guide evidence only), Mongolia, India, Bulgaria, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Pakistan (Punjab), Cuba, Samoa, Cambodia, Seychelles, Ecuador, Afghanistan, Cabo Verde, Sudan, Mauritania, Angola, Bhutan, Dominican Republic, Kuwait, Syria, Laos, Eritrea
+countries: Ethiopia, Guyana, Djibouti (teacher-guide evidence only), Mongolia, India, Bulgaria, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Pakistan (Punjab), Cuba, Samoa, Cambodia, Seychelles, Ecuador, Afghanistan, Cabo Verde, Sudan, Mauritania, Angola, Bhutan, Dominican Republic, Kuwait, Syria, Laos, Eritrea, Sri Lanka
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank as printed (printed “ISBN No –”). PDF 241 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -377,3 +377,17 @@ Searchable tags: laos, lao pdr, natural sciences grade 8
 Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: eritrea, eritrea science, ministry of education eritrea, the skeleton frame joints and fractures
+
+## Sri Lanka growth (2026-11-14, General Science expansion)
+
+**Book (Sri Lanka — Grade 9 Science Part I (English medium)):** Title as printed: Science Part – I, Grade 9. Publisher: Educational Publications Department, Sri Lanka. First print 2017, third print 2019. ISBN 978-955-25-0162-3. PDF 122 pages, 12,471,706 bytes. Verdict: COMPLETE for Part I (Chapters 1–9, printed pp. 1–111); Part II of Grade 9 is not among the target records — library debt, see group log. Record: TSV blob record only; no books.json twin. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| support and movements of animals: bones, muscles and joints (G9 Science Part I (Eng)) | Sri Lanka, *Science Part – I, Grade 9*, printed p. 89 |
+
+**Acceptance count: taught in 24 countries (Ethiopia, Guyana, Mongolia, India, Bulgaria, Moldova, Pakistan (Punjab, Eritrea, Sri Lanka).**
+
+Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: sri lanka, sri lanka science, the skeleton frame joints and fractures

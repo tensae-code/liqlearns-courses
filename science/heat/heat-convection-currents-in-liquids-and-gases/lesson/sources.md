@@ -1,6 +1,6 @@
 # Sources — Heat — convection currents in liquids and gases
 
-countries: Ethiopia, Fiji, Uganda, Kenya, Afghanistan, Belarus, Iran, Laos, South Sudan, Mauritania, Greece, Armenia, Serbia, Cuba, Samoa, Egypt, Seychelles, Venezuela, China
+countries: Ethiopia, Fiji, Uganda, Kenya, Afghanistan, Belarus, Iran, Laos, South Sudan, Mauritania, Greece, Armenia, Serbia, Cuba, Samoa, Egypt, Seychelles, Venezuela, China, Sri Lanka
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -153,3 +153,17 @@ Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, heat hea
 China's own way — its 科学 (Science) textbooks teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with China's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: china, china science, pep, people's education press, heat convection currents in liquids and gases
+
+## Sri Lanka growth (2026-11-14, General Science expansion)
+
+**Book (Sri Lanka — Grade 8 New Science (Tamil medium, 1988)):** Title as printed: புதிய விஞ்ஞானம் (New Science), ஆண்டு 8 (Year 8). Publisher: Educational Publications Department, Sri Lanka; first edition 1986, second 1987, third 1988; digitised by the Noolaham Foundation. PDF 178 pages, 48,018,150 bytes, image-only scan (read from page renders). Verdict: COMPLETE (Chapters 1–11, printed pp. 1–162 plus front matter). Older integrated curriculum, distinct from the modern Grade 8 books above. Twin records: TSV release record (mid-size-books-4) and books.json record grade-08/gov/sri-lanka/science/textbook/full-year-1988.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| how heat travels: conduction in solids, convection in liquids and gases, radiation (G8 New Science 1988 (Tamil)) | Sri Lanka, *புதிய விஞ்ஞானம் (New Science), Grade 8*, printed pp. 136–146 |
+
+**Acceptance count: taught in 19 countries (Ethiopia, Fiji, Uganda, Kenya, Afghanistan, Belarus, Iran, Laos, South Sudan, Mauritania, Greece, Armenia, Serbia, Cuba, Samoa, Egypt, Venezuela, China, Sri Lanka).**
+
+Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: sri lanka, sri lanka science, heat convection currents in liquids and gases

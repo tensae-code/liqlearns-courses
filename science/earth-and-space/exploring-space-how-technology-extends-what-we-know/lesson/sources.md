@@ -1,6 +1,6 @@
 # Sources — Exploring space — how technology extends what we know
 
-countries: Bhutan, Moldova, Pakistan (Punjab), Samoa, Dominican Republic, Kuwait, China, Eritrea
+countries: Bhutan, Moldova, Pakistan (Punjab), Samoa, Dominican Republic, Kuwait, China, Eritrea, Sri Lanka
 
 **Book 1:** *Physics, Class Nine* (student textbook) — Bhutan, Kinley Gyaltshen & Sumitra Subba; Kuensel Corporation Limited, Thimphu; Edition 2014, Reprint 2019; ISBN 978-99936-53-25-7. Grade: 9 · Student book · Repo path: grade-09/gov/bhutan/physics/full-year.pdf (release copy: releases/download/mid-size-books-3/grade-09-gov-bhutan-physics-full-year.pdf). Byte size: 6,011,247 (exact match). PDF pages: 227 (record: 227). Offset: printed p. = PDF p. − 27 (printed p. 1 is PDF p. 28); front matter in roman numerals. Verdict: COMPLETE — full text layer, all 227 pages; contents and every chapter opener read, interiors sampled throughout. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bhutan-placements.md.
 
@@ -120,3 +120,17 @@ Searchable tags: china, china science, pep, people's education press, exploring 
 Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: eritrea, eritrea science, ministry of education eritrea, exploring space how technology extends what we know
+
+## Sri Lanka growth (2026-11-14, General Science expansion)
+
+**Book (Sri Lanka — Grade 8 Science Part 2 (English medium)):** Title as printed: Science Part – II, Grade 8. Publisher: Educational Publications Department, Sri Lanka. First print 2016, fourth print 2019. ISBN 978-955-25-0133-3. PDF 152 pages, 19,865,511 bytes. Verdict: COMPLETE for Part 2 (Chapters 9–15, printed pp. 1–141, pagination restarting at 1). Twin records: TSV blob record and books.json record grade-08/gov/sri-lanka/science/textbook/part-2.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| important incidents associated with the solar system and exploring the universe (G8 Science Part 2 (Eng)) | Sri Lanka, *Science Part – II, Grade 8*, printed pp. 106–111 |
+
+**Acceptance count: taught in 9 countries (Bhutan, Moldova, Pakistan (Punjab, Samoa, Dominican Republic, Kuwait, China, Eritrea, Sri Lanka).**
+
+Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: sri lanka, sri lanka science, exploring space how technology extends what we know

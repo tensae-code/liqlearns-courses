@@ -556,6 +556,8 @@ solar-system comparison lessons.
 
 87. **Design and build a powered toy car** (`materials/design-and-build-a-powered-toy-car`) — studying propeller, motor and sail toy cars, choosing a power strong enough to run at least 1 metre, building the car, then testing its distance and time and improving weak power (a thicker rubber band, a bigger balloon) (China, Grade 3 — *科学三年级下册 (Science, Grade 3, second volume)*, printed pp. 57, 59; built for the China placements, expansion-science-2026-11-13/china-placements.md)
 
+88. **Nanotechnology and its uses** (`materials/nanotechnology-and-its-uses`) — nanotechnology introduced by its applications — working with matter at the nanometre scale, where materials behave in new ways — teacher-guide evidence only, acceptance 0 (Sri Lanka, Grade 9 — *Science, Grade 9, Teachers' Guide (Implemented from 2018)*, competency 4.1; built for the Sri Lanka placements, expansion-science-2026-11-13/sri-lanka-placements.md)
+
 ## Unit 5 — Light
 
 1. **Light and dark: what light is** (`light/light-and-dark`) — light and dark are a pair: where there is no light, there is darkness — ጨለማ
@@ -640,6 +642,11 @@ solar-system comparison lessons.
 25. **Water management — dams and distribution** (`soil-and-water/water-management-dams-and-distribution`) — reservoirs (embalses) behind named Venezuelan dams, controlled discharge, and distribution networks carrying water stored high down to the people (Venezuela, Grade 2 — *Comunidad con Ciencia (Colección Bicentenario)*, printed pp. 54–62; built for the Venezuela placements, expansion-science-2026-11-13/venezuela-placements.md)
 
 26. **Hard and soft water** (`soil-and-water/hard-and-soft-water`) — the lather test that tells hard water from soft, how hardness is removed, and hard water's advantages and disadvantages weighed on both sides (Bhutan, Class VI — *Science, Class VI*, §§2.3–2.5, printed pp. 24, 28, 31; built for the Bhutan placements, expansion-science-2026-11-13/bhutan-placements.md)
+
+27. **Water as a coolant** (`soil-and-water/water-as-a-coolant`) — water carrying heat away — the coolant circulated through engines, and the body's own water cooling in blood and sweat (Sri Lanka, Grade 7 — *Science Part – I, Grade 7*, printed p. 58; built for the Sri Lanka placements, expansion-science-2026-11-13/sri-lanka-placements.md)
+
+28. **Landslides and earth slips** (`soil-and-water/landslides-and-earth-slips`) — a mass of soil and rock breaking loose and sliding downhill — its causes in soaked, cleared and cut slopes, and staying safe from it (Sri Lanka, Grade 8 — *Science Part – II, Grade 8*, printed p. 135; built for the Sri Lanka placements, expansion-science-2026-11-13/sri-lanka-placements.md)
+
 ## Unit 8 — Plants
 
 1. **Fallen leaves feed the soil; plants hold the soil** (`plants/fallen-leaves-feed-the-soil`) — fallen leaves and grass rot into the topsoil and raise its fertility; plants stop soil erosion, shelter wild animals and give recreation — and cutt…
@@ -682,6 +689,12 @@ solar-system comparison lessons.
 32. **How water moves through a plant** (`plants/how-water-moves-through-a-plant`) — water's journey through a plant: in through the roots, up along the stem, out through the leaves into the air — the plant a through-road from soil to sky, proved with coloured water (China, Grade 3 — *科学三年级下册 (Science, Grade 3, second volume)*, printed p. 20; built for the China placements, expansion-science-2026-11-13/china-placements.md)
 
 33. **The plant factory — growing plants indoors** (`plants/the-plant-factory-growing-plants-indoors`) — plants grown indoors with every need supplied by machines — light from lamps, water and food measured in — and the learner's own plant factory designed and built (China, Grade 6 — *科学六年级上册 (Science, Grade 6, first volume)*, printed p. 62; built for the China placements, expansion-science-2026-11-13/china-placements.md)
+
+34. **Transport in plants** (`plants/transport-in-plants`) — the plant's two journeys — water up from the roots, food out from the leaves — taught as one transport system (Sri Lanka, Grade 8 — *Science Part – II, Grade 8*, printed p. 51; built for the Sri Lanka placements, expansion-science-2026-11-13/sri-lanka-placements.md)
+
+35. **Plant growth substances** (`plants/plant-growth-substances`) — the plant's own hormones — chemicals made in one part that steer growth in another: germination, flowering, ripening and leaf fall timed by their effects (Sri Lanka, Grade 9 — *Science Part – I, Grade 9*, printed p. 83; built for the Sri Lanka placements, expansion-science-2026-11-13/sri-lanka-placements.md)
+
+36. **Artificial plant growth substances in farming** (`plants/artificial-plant-growth-substances-in-farming`) — growth substances made by people and applied to crops — rooting cuttings, setting and ripening fruit, timing growth to the farmer's calendar (Sri Lanka, Grade 9 — *Science Part – I, Grade 9*, printed p. 86; built for the Sri Lanka placements, expansion-science-2026-11-13/sri-lanka-placements.md)
 
 ## Unit 9 — Animals
 
@@ -740,6 +753,8 @@ solar-system comparison lessons.
 45. **The life cycle of a silkworm** (`animals/the-life-cycle-of-a-silkworm`) — the whole life of a silkworm: eggs hatching, the larva growing through its moults, the pupa in its silk cocoon, and the moth laying the eggs that begin again — China's own sericulture way (China, Grade 4 — *科学四年级下册 (Science, Grade 4, second volume)*, printed pp. 15, 20, 24; built for the China placements, expansion-science-2026-11-13/china-placements.md)
 
 46. **Animal behaviour — instinct and learned** (`animals/animal-behaviour-instinct-and-learned`) — behaviour and its two kinds: innate behaviour (fighting, seeking shelter, feeding, reproduction, social life, caring for the young, exploring, escaping enemies) against learned behaviour picked up through training (a parrot riding a bicycle, trained dolphins, a cat that learns to open a door) (Syria, Grade 8 — *Biology and Earth (علم الأحياء والأرض), Eighth Basic Grade*, Unit 4, printed pp. 218–221; built for the Syria placements, expansion-science-2026-11-13/syria-placements.md)
+
+47. **Evolution and the origin of life** (`animals/evolution-and-the-origin-of-life`) — the evolutionary process as one arc — the origin of the Earth, then the origin of life, then the evolution of living organisms as a continuing process (Sri Lanka, Grade 9 — *Science Part – I, Grade 9*, printed pp. 98–102; built for the Sri Lanka placements, expansion-science-2026-11-13/sri-lanka-placements.md)
 
 ## Unit 10 — Natural Resources
 
@@ -1041,6 +1056,8 @@ solar-system comparison lessons.
 53. **Venezuelan popular inventors** (`science-skills/venezuelan-popular-inventors`) — the popular inventor of the Grade 2 book's complementary readings, and community technology (Venezuela, Grade 2 — *Comunidad con Ciencia (Colección Bicentenario)*, printed pp. 147–156; built for the Venezuela placements, expansion-science-2026-11-13/venezuela-placements.md)
 
 54. **DNA as evidence — forensic identification** (`science-skills/dna-as-evidence-forensic-identification`) — DNA's pattern differs from person to person, so a trace's pattern can be matched to identify whose it is; the book's closing project reading, in which a DNA match identifies a murderer, carried as a summary only (Dominican Republic, Grade 6 — *Ciencias de la Naturaleza 6*, printed p. 158; built for the Dominican Republic placements, expansion-science-2026-11-13/dominican-republic-placements.md)
+
+55. **Standards and quality marks** (`science-skills/standards-and-quality-marks`) — criteria and standards a product must meet, and the marks that certify it — Sri Lanka's own SLS mark and the international ISO marks — teacher-guide evidence only, acceptance 0 (Sri Lanka, Grade 9 — *Science, Grade 9, Teacher's Instructional Manual (Implemented in 2010)*, competency 4.7; built for the Sri Lanka placements, expansion-science-2026-11-13/sri-lanka-placements.md)
 
 ## Unit 16 — Biology
 
@@ -2911,6 +2928,8 @@ solar-system comparison lessons.
 
 89. **Rockets — and how they fly** (`earth-and-space/rockets-and-how-they-fly`) — the machine that carries its push with it: burning gases thrown down at great speed thrust the rocket up, by Newton's third law, even in empty space (Eritrea, Grade 8 — *Science for Grade 8 Textbook*, printed p. 151; built for the Eritrea placements, expansion-science-2026-11-13/eritrea-placements.md)
 
+90. **Artificial satellites** (`earth-and-space/artificial-satellites`) — the machines people put into orbit and what they are used for — weather watching, communications, navigation and observing the Earth (Sri Lanka, Grade 8 — *Science Part – II, Grade 8*, printed p. 114, and Grade 6 New Science (Tamil, 1986), printed p. 115; built for the Sri Lanka placements, expansion-science-2026-11-13/sri-lanka-placements.md)
+
 ## Unit 20 — Motion, Force and Energy
 
 1. **Motion — motion needs a reference point** (`motion-force-and-energy/motion-needs-a-reference-point`) — motion is a change of position against a chosen reference point or frame — the same body can be moving and at rest at once, depending on the frame chosen (Grade 7 General Science)
@@ -2997,3 +3016,6 @@ solar-system comparison lessons.
 17. **Materials that conduct electricity** (`electricity-and-magnetism/materials-that-conduct-electricity`) — metals conduct and rubber, plastic, wood and glass insulate — tested with a gap circuit and a lamp, and why every wire needs both kinds (Kuwait, Grade 3, Term 2 — *Science, Grade 3, Term 2 (Student Book)*, printed p. 25; built for the Kuwait placements, expansion-science-2026-11-13/kuwait-placements.md)
 
 18. **Finding circuit faults with a tester** (`electricity-and-magnetism/finding-circuit-faults-with-a-tester`) — why the torch will not light: guessing the fault part by part, building a simple circuit tester, and cornering the break in the loop (China, Grade 3 — *科学三年级上册 (Science, Grade 3, first volume)*, printed p. 33; built for the China placements, expansion-science-2026-11-13/china-placements.md)
+
+19. **Electronic appliances and LEDs** (`electricity-and-magnetism/electronic-appliances-and-leds`) — the electronic appliances of daily life and the components inside them, such as LEDs — met at the close of the electricity chapter (Sri Lanka, Grade 6 — *Science, Grade 6*, printed p. 122; built for the Sri Lanka placements, expansion-science-2026-11-13/sri-lanka-placements.md)
+

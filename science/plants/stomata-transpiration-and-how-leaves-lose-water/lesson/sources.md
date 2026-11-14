@@ -1,6 +1,6 @@
 # Sources — Stomata, transpiration and how leaves lose water
 
-countries: Seychelles, Syria
+countries: Seychelles, Syria, Sri Lanka
 
 **Book (Seychelles — Unit 7: Food and Growth (P8)):** *Seychelles Integrated Science — Food and Growth*, Unit 7 (student booklet + teaching notes combined, ERIC scan) — Seychelles, Science Section, National Institute of Pedagogy, Ministry of Education and Information, 1983. Grade: P8 (Grade 8). Records: TSV release record and books.json `grade-08/gov/seychelles/integrated-science/student/unit-07-food-and-growth.pdf` — same book, cited once. Size verified 11,230,281 bytes = record size_bytes; PDF 63 pages = record pages. Verdict: COMPLETE (teaching notes and full pupil booklet: Topics 1–11 and both Projects present). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/seychelles-placements.md.
 
@@ -38,3 +38,19 @@ Placement choice, on the record: placement filed as NEW LESSON NEEDED — leaves
 Syria's own way — its Ministry of Education science books (كتاب العلوم), in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own semester and unit order, with Syria's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: syria, syria science, ministry of education syria, nccd, stomata transpiration and how leaves lose water
+
+## Sri Lanka growth (2026-11-14, General Science expansion)
+
+**Book (Sri Lanka — Grade 8 Science Part 2 (English medium)):** Title as printed: Science Part – II, Grade 8. Publisher: Educational Publications Department, Sri Lanka. First print 2016, fourth print 2019. ISBN 978-955-25-0133-3. PDF 152 pages, 19,865,511 bytes. Verdict: COMPLETE for Part 2 (Chapters 9–15, printed pp. 1–141, pagination restarting at 1). Twin records: TSV blob record and books.json record grade-08/gov/sri-lanka/science/textbook/part-2.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| transpiration and guttation in plants (G8 Science Part 2 (Eng)) (placement filed as NEW LESSON NEEDED — transpiration-and-guttation; this lesson already exists and covers that thing, so the placement stocks into it and the original slug is recorded here) | Sri Lanka, *Science Part – II, Grade 8*, printed pp. 55–57 |
+
+**Acceptance count: taught in 3 countries (Seychelles, Syria, Sri Lanka).**
+
+Placement choice, on the record: the Sri Lanka placement(s) above filed as NEW LESSON NEEDED — transpiration-and-guttation — sri-lanka-placements.md — are stocked into this existing lesson, which already covers that thing as its own lesson, so no second lesson was built for them; the original slug is recorded in each row above.
+
+Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: sri lanka, sri lanka science, stomata transpiration and how leaves lose water

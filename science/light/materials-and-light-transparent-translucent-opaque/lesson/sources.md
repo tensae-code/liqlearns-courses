@@ -1,6 +1,6 @@
 # Sources — Materials and light — transparent, translucent, opaque
 
-countries: Ethiopia, Moldova, Mozambique, Mauritania, Albania (teacher-guide evidence only), Barbados (curriculum evidence only), United States, Pakistan (Punjab), Ecuador, Sudan, Kuwait, Syria
+countries: Ethiopia, Moldova, Mozambique, Mauritania, Albania (teacher-guide evidence only), Barbados (curriculum evidence only), United States, Pakistan (Punjab), Ecuador, Sudan, Kuwait, Syria, Sri Lanka
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -140,3 +140,17 @@ Searchable tags: kuwait, aloom, ministry of education kuwait, materials and ligh
 Syria's own way — its Ministry of Education science books (كتاب العلوم), in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own semester and unit order, with Syria's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: syria, syria science, ministry of education syria, nccd, materials and light transparent translucent opaque
+
+## Sri Lanka growth (2026-11-14, General Science expansion)
+
+**Book (Sri Lanka — Grade 6 Science (English medium)):** Title as printed: Science, Grade 6. Publisher: Educational Publications Department, Sri Lanka. First print 2014, sixth print 2019. ISBN 978-955-25-0079-4. PDF 190 pages, 16,555,739 bytes. Verdict: COMPLETE (Chapters 1–11, printed pp. 1–177 plus front matter). Twin records: TSV blob record grade-06/gov/sri-lanka/science/textbook/full-year.pdf and books.json record with the same file field are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| transmission of light through objects: transparent, translucent, opaque (G6 Science (Eng)) | Sri Lanka, *Science, Grade 6*, printed p. 70 |
+
+**Acceptance count: taught in 11 countries (Ethiopia, Moldova, Mozambique, Mauritania, United States, Pakistan (Punjab), Ecuador, Sudan, Kuwait, Syria, Sri Lanka).**
+
+Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: sri lanka, sri lanka science, materials and light transparent translucent opaque

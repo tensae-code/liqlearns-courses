@@ -1,6 +1,6 @@
 # Sources — Magnetic fields — field lines, Earth's field and the compass
 
-countries: Ethiopia, Gabon (teacher-guide evidence only), Bahamas (curriculum evidence only), Kenya, Cambodia (private-booklet evidence only), India, South Sudan, Mozambique, Mauritania, Italy, Serbia, Djibouti (teacher-guide evidence only), Mongolia, Pakistan (Punjab), Armenia, Cabo Verde (teacher-guide evidence only), Bhutan, China, Syria
+countries: Ethiopia, Gabon (teacher-guide evidence only), Bahamas (curriculum evidence only), Kenya, Cambodia (private-booklet evidence only), India, South Sudan, Mozambique, Mauritania, Italy, Serbia, Djibouti (teacher-guide evidence only), Mongolia, Pakistan (Punjab), Armenia, Cabo Verde (teacher-guide evidence only), Bhutan, China, Syria, Sri Lanka
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -193,3 +193,22 @@ Searchable tags: china, china science, pep, people's education press, magnetic f
 Syria's own way — its Ministry of Education science books (كتاب العلوم), in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own semester and unit order, with Syria's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: syria, syria science, ministry of education syria, nccd, magnetic fields earths field and the compass
+
+## Sri Lanka growth (2026-11-14, General Science expansion)
+
+**Book (Sri Lanka — Grade 6 Science (English medium)):** Title as printed: Science, Grade 6. Publisher: Educational Publications Department, Sri Lanka. First print 2014, sixth print 2019. ISBN 978-955-25-0079-4. PDF 190 pages, 16,555,739 bytes. Verdict: COMPLETE (Chapters 1–11, printed pp. 1–177 plus front matter). Twin records: TSV blob record grade-06/gov/sri-lanka/science/textbook/full-year.pdf and books.json record with the same file field are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+**Book (Sri Lanka — Grade 8 Science Part 1 (English medium)):** Title as printed: Science Part – I, Grade 8. Publisher: Educational Publications Department, Sri Lanka. First print 2016, fourth print 2019. ISBN 978-955-25-0132-6. PDF 137 pages, 5,185,614 bytes. Verdict: COMPLETE for Part 1 (Chapters 1–8, printed pp. 1–126). Twin records: TSV blob record and books.json record grade-08/gov/sri-lanka/science/textbook/part-1.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| magnetic forces acting at a distance (G6 Science (Eng)) | Sri Lanka, *Science, Grade 6*, printed p. 105 |
+| magnetic field of a magnet, shown with iron filings (G8 Science Part 1 (Eng)) | Sri Lanka, *Science Part – I, Grade 8*, printed p. 81 |
+| the compass and how it works (G8 Science Part 1 (Eng)) | Sri Lanka, *Science Part – I, Grade 8*, printed p. 83 |
+| geomagnetism: the Earth as a magnet (G8 Science Part 1 (Eng)) | Sri Lanka, *Science Part – I, Grade 8*, printed p. 85 |
+
+**Acceptance count: taught in 15 countries (Ethiopia, Kenya, India, South Sudan, Mozambique, Mauritania, Italy, Serbia, Mongolia, Pakistan (Punjab), Armenia, Bhutan, China, Syria, Sri Lanka).**
+
+Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: sri lanka, sri lanka science, magnetic fields earths field and the compass

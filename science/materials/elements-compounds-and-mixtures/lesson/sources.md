@@ -1,6 +1,6 @@
 # Sources — Elements, compounds and mixtures
 
-countries: Ethiopia, Costa Rica, Uganda, Armenia, Samoa, Cambodia, Seychelles, Ecuador, Afghanistan, Sudan, Venezuela, Bhutan, Dominican Republic, Kuwait, Syria, Laos
+countries: Ethiopia, Costa Rica, Uganda, Armenia, Samoa, Cambodia, Seychelles, Ecuador, Afghanistan, Sudan, Venezuela, Bhutan, Dominican Republic, Kuwait, Syria, Laos, Sri Lanka
 
 **Book 10:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minilk Belay Akalu (MSc), Getachew Dilnesa Gedebe (MA), Melese Sinu W/Mariam (MSc). COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
 
@@ -299,3 +299,23 @@ Searchable tags: syria, syria science, ministry of education syria, nccd, elemen
 Laos's own way in this lesson — as carried in the rows above, exactly as filed — is itself course content.
 
 Searchable tags: laos, lao pdr, natural sciences grade 6
+
+## Sri Lanka growth (2026-11-14, General Science expansion)
+
+**Book (Sri Lanka — Grade 9 Science Part I (English medium)):** Title as printed: Science Part – I, Grade 9. Publisher: Educational Publications Department, Sri Lanka. First print 2017, third print 2019. ISBN 978-955-25-0162-3. PDF 122 pages, 12,471,706 bytes. Verdict: COMPLETE for Part I (Chapters 1–9, printed pp. 1–111); Part II of Grade 9 is not among the target records — library debt, see group log. Record: TSV blob record only; no books.json twin. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+**Book (Sri Lanka — Grade 8 New Science (Tamil medium, 1988)):** Title as printed: புதிய விஞ்ஞானம் (New Science), ஆண்டு 8 (Year 8). Publisher: Educational Publications Department, Sri Lanka; first edition 1986, second 1987, third 1988; digitised by the Noolaham Foundation. PDF 178 pages, 48,018,150 bytes, image-only scan (read from page renders). Verdict: COMPLETE (Chapters 1–11, printed pp. 1–162 plus front matter). Older integrated curriculum, distinct from the modern Grade 8 books above. Twin records: TSV release record (mid-size-books-4) and books.json record grade-08/gov/sri-lanka/science/textbook/full-year-1988.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| nature and properties of matter: elements (G9 Science Part I (Eng)) | Sri Lanka, *Science Part – I, Grade 9*, printed p. 39 |
+| compounds (G9 Science Part I (Eng)) | Sri Lanka, *Science Part – I, Grade 9*, printed p. 44 |
+| mixtures and their separation in daily life (G9 Science Part I (Eng)) | Sri Lanka, *Science Part – I, Grade 9*, printed p. 46 |
+| Chapter 7 Materials: what a material is and how materials are arranged (particles) (G8 New Science 1988 (Tamil)) | Sri Lanka, *புதிய விஞ்ஞானம் (New Science), Grade 8*, printed pp. 100–102 |
+| elements and compounds: separating a compound and making compounds (G8 New Science 1988 (Tamil)) | Sri Lanka, *புதிய விஞ்ஞானம் (New Science), Grade 8*, printed pp. 107–108 |
+
+**Acceptance count: taught in 17 countries (Ethiopia, Costa Rica, Uganda, Armenia, Samoa, Cambodia, Seychelles, Ecuador, Afghanistan, Sudan, Venezuela, Bhutan, Dominican Republic, Kuwait, Syria, Laos, Sri Lanka).**
+
+Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: sri lanka, sri lanka science, elements compounds and mixtures

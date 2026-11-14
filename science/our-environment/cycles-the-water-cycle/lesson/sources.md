@@ -1,6 +1,6 @@
 # Sources — Cycles — the water cycle
 
-countries: Ethiopia, Cuba, Finland, Mexico, Suriname, Guatemala (teacher-guide evidence only), Italy, Serbia, Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Mongolia, Costa Rica, Barbados (curriculum evidence only), Uganda, Bulgaria, Bahamas (curriculum evidence only), Moldova, United States, Pakistan (Punjab), Armenia, Egypt, Cambodia (teacher-guide evidence only), Seychelles, Ecuador, Afghanistan, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Angola, Dominican Republic, China, Laos, Eritrea
+countries: Ethiopia, Cuba, Finland, Mexico, Suriname, Guatemala (teacher-guide evidence only), Italy, Serbia, Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Mongolia, Costa Rica, Barbados (curriculum evidence only), Uganda, Bulgaria, Bahamas (curriculum evidence only), Moldova, United States, Pakistan (Punjab), Armenia, Egypt, Cambodia (teacher-guide evidence only), Seychelles, Ecuador, Afghanistan, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Angola, Dominican Republic, China, Laos, Eritrea, Sri Lanka
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed ("ISBN No –"). COMPLETE: 207 PDF pp (199 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -478,3 +478,17 @@ Searchable tags: laos, lao pdr, natural sciences grade 8, science and environmen
 Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: eritrea, eritrea science, ministry of education eritrea, cycles the water cycle
+
+## Sri Lanka growth (2026-11-14, General Science expansion)
+
+**Book (Sri Lanka — Grade 8 New Science (Tamil medium, 1988)):** Title as printed: புதிய விஞ்ஞானம் (New Science), ஆண்டு 8 (Year 8). Publisher: Educational Publications Department, Sri Lanka; first edition 1986, second 1987, third 1988; digitised by the Noolaham Foundation. PDF 178 pages, 48,018,150 bytes, image-only scan (read from page renders). Verdict: COMPLETE (Chapters 1–11, printed pp. 1–162 plus front matter). Older integrated curriculum, distinct from the modern Grade 8 books above. Twin records: TSV release record (mid-size-books-4) and books.json record grade-08/gov/sri-lanka/science/textbook/full-year-1988.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| water conservation: water sources and the water cycle (G8 New Science 1988 (Tamil)) | Sri Lanka, *புதிய விஞ்ஞானம் (New Science), Grade 8*, printed pp. 93–94 |
+
+**Acceptance count: taught in 26 countries (Ethiopia, Cuba, Finland, Mexico, Suriname, Italy, Serbia, Mongolia, Costa Rica, Uganda, Bulgaria, Moldova, United States, Pakistan (Punjab, Dominican Republic, China, Laos, Eritrea, Sri Lanka).**
+
+Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: sri lanka, sri lanka science, cycles the water cycle

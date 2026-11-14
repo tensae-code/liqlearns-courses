@@ -1,6 +1,6 @@
 # Sources — Life cycles of plants and animals
 
-countries: Sweden, Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Mongolia, Barbados (curriculum evidence only), India, Bulgaria, Gabon (teacher-guide evidence only), United States, Seychelles, Cabo Verde (teacher-guide evidence only), Bhutan, Syria
+countries: Sweden, Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Mongolia, Barbados (curriculum evidence only), India, Bulgaria, Gabon (teacher-guide evidence only), United States, Seychelles, Cabo Verde (teacher-guide evidence only), Bhutan, Syria, Sri Lanka
 
 **Book (Sweden):** *Samtalsbilder, Tio små kryp* (student) — Sweden, SPSM. Title as printed: "Samtalsbilder, Tio små kryp" (Conversation pictures, Ten small creeping things), filed as Grade 1. Records: TSV + books.json — the same file, cited once here. PDF: 4,399,499 bytes, 20 PDF pages. Verdict: COMPLETE. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sweden-placements.md.
 
@@ -235,3 +235,19 @@ Placement choice, on the record: placement filed as NEW LESSON NEEDED — baby-a
 Syria's own way — its Ministry of Education science books (كتاب العلوم), in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own semester and unit order, with Syria's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: syria, syria science, ministry of education syria, nccd, life cycles of plants and animals
+
+## Sri Lanka growth (2026-11-14, General Science expansion)
+
+**Book (Sri Lanka — Grade 8 Science Part 2 (English medium)):** Title as printed: Science Part – II, Grade 8. Publisher: Educational Publications Department, Sri Lanka. First print 2016, fourth print 2019. ISBN 978-955-25-0133-3. PDF 152 pages, 19,865,511 bytes. Verdict: COMPLETE for Part 2 (Chapters 9–15, printed pp. 1–141, pagination restarting at 1). Twin records: TSV blob record and books.json record grade-08/gov/sri-lanka/science/textbook/part-2.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| life cycles of animals (frog, butterfly and others) (G8 Science Part 2 (Eng)) (placement filed as NEW LESSON NEEDED — life-cycles-of-animals; this lesson already exists and covers that thing, so the placement stocks into it and the original slug is recorded here) | Sri Lanka, *Science Part – II, Grade 8*, printed p. 64 |
+
+**Acceptance count: taught in 10 countries (Sweden, Guyana, Mongolia, India, Bulgaria, United States, Seychelles, Bhutan, Syria, Sri Lanka).**
+
+Placement choice, on the record: the Sri Lanka placement(s) above filed as NEW LESSON NEEDED — life-cycles-of-animals — sri-lanka-placements.md — are stocked into this existing lesson, which already covers that thing as its own lesson, so no second lesson was built for them; the original slug is recorded in each row above.
+
+Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: sri lanka, sri lanka science, life cycles of plants and animals

@@ -1,6 +1,6 @@
 # Sources — The microscope — seeing the unseen
 
-countries: Ethiopia, Iceland (teacher-guide evidence only), Pakistan (Punjab), Cuba, Egypt, Seychelles, Cabo Verde (teacher-guide evidence only), Venezuela, Angola, Kuwait
+countries: Ethiopia, Iceland (teacher-guide evidence only), Pakistan (Punjab), Cuba, Egypt, Seychelles, Cabo Verde (teacher-guide evidence only), Venezuela, Angola, Kuwait, Sri Lanka
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed (printed "ISBN No –"). COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -136,3 +136,21 @@ Searchable tags: angola, ciências da natureza 6, grade 6
 Kuwait's own way — its Ministry of Education *Science* (العلوم) books, in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own unit order (life sciences, the human body, then matter and energy in the primary years; branch-built units with the 5E learning cycle and STEAM inquiry projects in the intermediate years) — is itself course content, carried exactly as filed.
 
 Searchable tags: kuwait, aloom, ministry of education kuwait, the microscope seeing the unseen
+
+## Sri Lanka growth (2026-11-14, General Science expansion)
+
+**Book (Sri Lanka — Grade 6 Science (English medium)):** Title as printed: Science, Grade 6. Publisher: Educational Publications Department, Sri Lanka. First print 2014, sixth print 2019. ISBN 978-955-25-0079-4. PDF 190 pages, 16,555,739 bytes. Verdict: COMPLETE (Chapters 1–11, printed pp. 1–177 plus front matter). Twin records: TSV blob record grade-06/gov/sri-lanka/science/textbook/full-year.pdf and books.json record with the same file field are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+**Book (Sri Lanka — Grade 7 Science Part 1 (English medium)):** Title as printed: Science Part – I, Grade 7. Publisher: Educational Publications Department, Sri Lanka. First print 2015, fifth print 2019. ISBN 978-955-25-0106-7. PDF 160 pages, 6,071,745 bytes. Verdict: COMPLETE for Part 1 (Chapters 1–10, printed pp. 1–149); Part 2 of Grade 7 is not among the target records — library debt, see group log. Twin records: TSV blob record and books.json record grade-07/gov/sri-lanka/science/textbook/part-1.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| first use of the compound microscope to see micro-organisms in pond and hay water (G6 Science (Eng)) | Sri Lanka, *Science, Grade 6*, printed p. 4 |
+| magnification and resolving power of a microscope (G7 Science Part 1 (Eng)) | Sri Lanka, *Science Part – I, Grade 7*, printed p. 139 |
+| the electron microscope (G7 Science Part 1 (Eng)) | Sri Lanka, *Science Part – I, Grade 7*, printed p. 147 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Pakistan (Punjab), Cuba, Egypt, Venezuela, Angola, Kuwait, Sri Lanka).**
+
+Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: sri lanka, sri lanka science, the microscope seeing the unseen

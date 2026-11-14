@@ -1,6 +1,6 @@
 # Sources — The digestive system
 
-countries: Ethiopia, Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), India, Uganda, Bulgaria, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Armenia, Cuba, Samoa, Egypt, Cambodia, Seychelles, Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Angola, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea
+countries: Ethiopia, Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), India, Uganda, Bulgaria, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Armenia, Cuba, Samoa, Egypt, Cambodia, Seychelles, Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Angola, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -458,3 +458,18 @@ Searchable tags: laos, lao pdr, natural sciences grade 8
 Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: eritrea, eritrea science, ministry of education eritrea, the digestive system
+
+## Sri Lanka growth (2026-11-14, General Science expansion)
+
+**Book (Sri Lanka — Grade 9 New Science (Tamil medium, 1996)):** Title as printed: புதிய விஞ்ஞானம் (New Science), 9 ஆம் ஆண்டு (Year 9). Publisher: Educational Publications Department, Sri Lanka; first edition 1988, tenth edition 1996; digitised by the Noolaham Foundation. PDF 280 pages, 61,227,888 bytes, image-only scan (read from page renders). Verdict: COMPLETE (Chapters 1–14, printed pp. 1–256, plus syllabus appendix). Older integrated curriculum, distinct from the modern Grade 9 book and guides above. Twin records: TSV release record (mid-size-books-5) and books.json record grade-09/gov/sri-lanka/science/textbook/full-year-1996.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Chapter 13 Digestion: what happens to the food we eat and why food must be digested (G9 New Science 1996 (Tamil)) | Sri Lanka, *புதிய விஞ்ஞானம் (New Science), Grade 9*, printed pp. 232–236 |
+| the work of the digestive organs, the digestion process, and absorption of digested food (G9 New Science 1996 (Tamil)) | Sri Lanka, *புதிய விஞ்ஞானம் (New Science), Grade 9*, printed pp. 236–240 |
+
+**Acceptance count: taught in 25 countries (Ethiopia, Guyana, India, Uganda, Bulgaria, Armenia, Cuba, Samoa, Egypt, Cambodia, Seychelles, Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Angola, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka).**
+
+Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: sri lanka, sri lanka science, the digestive system

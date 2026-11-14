@@ -1,6 +1,6 @@
 # Sources — Light travels in straight lines
 
-countries: Ethiopia, Haiti (programme evidence only), Slovenia, Fiji, Morocco (teacher-guide evidence only), Kenya, Iraq, Cambodia, Egypt, Bulgaria, Yemen, Afghanistan, Belarus, Uzbekistan, North Macedonia, Laos, Moldova, South Sudan, Mozambique, Cuba, Mauritania, Greece, Armenia, Kazakhstan, Mongolia, Pakistan (Punjab), Sudan, Bhutan, China, Eritrea
+countries: Ethiopia, Haiti (programme evidence only), Slovenia, Fiji, Morocco (teacher-guide evidence only), Kenya, Iraq, Cambodia, Egypt, Bulgaria, Yemen, Afghanistan, Belarus, Uzbekistan, North Macedonia, Laos, Moldova, South Sudan, Mozambique, Cuba, Mauritania, Greece, Armenia, Kazakhstan, Mongolia, Pakistan (Punjab), Sudan, Bhutan, China, Eritrea, Sri Lanka
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -238,3 +238,17 @@ Searchable tags: laos, lao pdr, science and environment grade 3
 Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: eritrea, eritrea science, ministry of education eritrea, light travels in straight lines
+
+## Sri Lanka growth (2026-11-14, General Science expansion)
+
+**Book (Sri Lanka — Grade 6 Science (English medium)):** Title as printed: Science, Grade 6. Publisher: Educational Publications Department, Sri Lanka. First print 2014, sixth print 2019. ISBN 978-955-25-0079-4. PDF 190 pages, 16,555,739 bytes. Verdict: COMPLETE (Chapters 1–11, printed pp. 1–177 plus front matter). Twin records: TSV blob record grade-06/gov/sri-lanka/science/textbook/full-year.pdf and books.json record with the same file field are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| light rays and light beams travel in straight lines (G6 Science (Eng)) | Sri Lanka, *Science, Grade 6*, printed p. 74 |
+
+**Acceptance count: taught in 29 countries (Ethiopia, Slovenia, Fiji, Kenya, Iraq, Cambodia, Egypt, Bulgaria, Yemen, Afghanistan, Belarus, Uzbekistan, North Macedonia, Laos, Moldova, South Sudan, Mozambique, Cuba, Mauritania, Greece, Armenia, Kazakhstan, Mongolia, Pakistan (Punjab, Sudan, Bhutan, China, Eritrea, Sri Lanka).**
+
+Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: sri lanka, sri lanka science, light travels in straight lines

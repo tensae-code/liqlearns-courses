@@ -1,6 +1,6 @@
 # Sources — Voltage, resistance and Ohm's law — V = IR
 
-countries: Ethiopia, Bahamas (curriculum evidence only), Fiji, Morocco (teacher-guide evidence only), Afghanistan, Uzbekistan, Mozambique, China, Samoa
+countries: Ethiopia, Bahamas (curriculum evidence only), Fiji, Morocco (teacher-guide evidence only), Afghanistan, Uzbekistan, Mozambique, China, Samoa, Sri Lanka
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -63,3 +63,17 @@ Searchable tags: voltage, resistance, Ohms law, V=IR, ampere, volt, ohm, Ethiopi
 Rows whose unit the filing describes as pure Biology, Chemistry or Physics, with its items not placed individually, are carried exactly as filed: the Samoa book is cited here at unit level for the topic that unit covers, and the unit's detailed items are stocked by the Biology / Chemistry / Physics waves in their own folders.
 
 Searchable tags: samoa, samoa mesc, electricity and magnetism voltage resistance and ohms law
+
+## Sri Lanka growth (2026-11-14, General Science expansion)
+
+**Book (Sri Lanka — Grade 8 Science Part 2 (English medium)):** Title as printed: Science Part – II, Grade 8. Publisher: Educational Publications Department, Sri Lanka. First print 2016, fourth print 2019. ISBN 978-955-25-0133-3. PDF 152 pages, 19,865,511 bytes. Verdict: COMPLETE for Part 2 (Chapters 9–15, printed pp. 1–141, pagination restarting at 1). Twin records: TSV blob record and books.json record grade-08/gov/sri-lanka/science/textbook/part-2.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| current-controlling components (resistors, switches) in circuits (G8 Science Part 2 (Eng)) | Sri Lanka, *Science Part – II, Grade 8*, printed p. 24 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Fiji, Afghanistan, Uzbekistan, Mozambique, China, Samoa, Sri Lanka).**
+
+Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: sri lanka, sri lanka science, voltage resistance and ohms law

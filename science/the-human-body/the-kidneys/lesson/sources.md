@@ -1,6 +1,6 @@
 # Sources — The kidneys
 
-countries: Ethiopia, Gabon (teacher-guide evidence only), Armenia, Cuba, Samoa, Egypt, Cambodia, Seychelles, Afghanistan, Cabo Verde, Sudan, Mauritania, Angola, Dominican Republic, Kuwait, Syria, Laos
+countries: Ethiopia, Gabon (teacher-guide evidence only), Armenia, Cuba, Samoa, Egypt, Cambodia, Seychelles, Afghanistan, Cabo Verde, Sudan, Mauritania, Angola, Dominican Republic, Kuwait, Syria, Laos, Sri Lanka
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -252,3 +252,20 @@ Searchable tags: syria, syria science, ministry of education syria, nccd, the ki
 Laos's own way in this lesson — as carried in the rows above, exactly as filed — is itself course content.
 
 Searchable tags: laos, lao pdr, natural sciences grade 8, science and environment grade 3
+
+## Sri Lanka growth (2026-11-14, General Science expansion)
+
+**Book (Sri Lanka — Grade 8 Science Part 2 (English medium)):** Title as printed: Science Part – II, Grade 8. Publisher: Educational Publications Department, Sri Lanka. First print 2016, fourth print 2019. ISBN 978-955-25-0133-3. PDF 152 pages, 19,865,511 bytes. Verdict: COMPLETE for Part 2 (Chapters 9–15, printed pp. 1–141, pagination restarting at 1). Twin records: TSV blob record and books.json record grade-08/gov/sri-lanka/science/textbook/part-2.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+**Book (Sri Lanka — Grade 10 New Science (Tamil medium, 1998)):** Title as printed: புதிய விஞ்ஞானம் 10 (New Science 10), 10 ஆம் ஆண்டு (Year 10). Publisher: Educational Publications Department, Sri Lanka; first edition 1986, thirteenth edition 1998; digitised by the Noolaham Foundation. PDF as downloaded 56,290,176 bytes with a broken cross-reference structure (repaired with Ghostscript before reading; content pages verified against the printed contents); repaired PDF 336 pages, image-only scan (read from page renders). Verdict: COMPLETE (Chapters 1–16, printed pp. 1–258 plus front matter). This is the senior GCE O/L integrated book of the older curriculum; most of its chapters are pure Physics / Chemistry / Biology in treatment and are named as split-subject lines below. Twin records: TSV release record (mid-size-books-5) and books.json record grade-10/gov/sri-lanka/science/textbook/full-year-1998.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| human excretory system and excretory products (G8 Science Part 2 (Eng)) | Sri Lanka, *Science Part – II, Grade 8*, printed p. 1 |
+| Chapter 9 Removing Waste Products from the Human Body: excretion and the excretory organs; structure of the kidney and kidney diseases (G10 New Science 1998 (Tamil)) | Sri Lanka, *புதிய விஞ்ஞானம் (New Science 10)*, printed pp. 112–118 |
+
+**Acceptance count: taught in 17 countries (Ethiopia, Armenia, Cuba, Samoa, Egypt, Cambodia, Seychelles, Afghanistan, Cabo Verde, Sudan, Mauritania, Angola, Dominican Republic, Kuwait, Syria, Laos, Sri Lanka).**
+
+Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: sri lanka, sri lanka science, the kidneys

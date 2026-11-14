@@ -1,6 +1,6 @@
 # Sources — Work and Livelihood — Farming: Crops and Animals
 
-countries: Ethiopia, Nauru, Tuvalu, Niue, Serbia, Ghana (curriculum evidence only), Iceland (teacher-guide evidence only), Micronesia, Barbados (curriculum evidence only), India, Uganda, Gabon (teacher-guide evidence only), Pakistan (Punjab), Cambodia, Angola, Dominican Republic, Laos, Eritrea
+countries: Ethiopia, Nauru, Tuvalu, Niue, Serbia, Ghana (curriculum evidence only), Iceland (teacher-guide evidence only), Micronesia, Barbados (curriculum evidence only), India, Uganda, Gabon (teacher-guide evidence only), Pakistan (Punjab), Cambodia, Angola, Dominican Republic, Laos, Eritrea, Sri Lanka
 
 **Book 5:** *አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል — Environmental Science Student Textbook, Grade 3* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md
 
@@ -305,3 +305,17 @@ Searchable tags: laos, lao pdr, science and environment grade 2
 Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: eritrea, eritrea science, ministry of education eritrea, farming crops and animals
+
+## Sri Lanka growth (2026-11-14, General Science expansion)
+
+**Book (Sri Lanka — Grade 8 New Science (Tamil medium, 1988)):** Title as printed: புதிய விஞ்ஞானம் (New Science), ஆண்டு 8 (Year 8). Publisher: Educational Publications Department, Sri Lanka; first edition 1986, second 1987, third 1988; digitised by the Noolaham Foundation. PDF 178 pages, 48,018,150 bytes, image-only scan (read from page renders). Verdict: COMPLETE (Chapters 1–11, printed pp. 1–162 plus front matter). Older integrated curriculum, distinct from the modern Grade 8 books above. Twin records: TSV release record (mid-size-books-4) and books.json record grade-08/gov/sri-lanka/science/textbook/full-year-1988.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| obtaining the maximum use of water in agricultural work (G8 New Science 1988 (Tamil)) | Sri Lanka, *புதிய விஞ்ஞானம் (New Science), Grade 8*, printed p. 97 |
+
+**Acceptance count: taught in 15 countries (Ethiopia, Nauru, Tuvalu, Niue, Serbia, Micronesia, India, Uganda, Pakistan (Punjab, Dominican Republic, Laos, Eritrea, Sri Lanka).**
+
+Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: sri lanka, sri lanka science, farming crops and animals

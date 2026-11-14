@@ -1,6 +1,6 @@
 # Sources — Classification — sorting the living world
 
-countries: Ethiopia, Suriname, Sweden (teacher-guide evidence only), Uganda, Moldova, Pakistan (Punjab), Samoa, Seychelles, Ecuador, Cabo Verde, Venezuela, Mauritania, Dominican Republic, Kuwait, China
+countries: Ethiopia, Suriname, Sweden (teacher-guide evidence only), Uganda, Moldova, Pakistan (Punjab), Samoa, Seychelles, Ecuador, Cabo Verde, Venezuela, Mauritania, Dominican Republic, Kuwait, China, Sri Lanka
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -242,3 +242,21 @@ Searchable tags: kuwait, aloom, ministry of education kuwait, classification sor
 China's own way — its 科学 (Science) textbooks teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with China's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: china, china science, pep, people's education press, classification sorting the living world
+
+## Sri Lanka growth (2026-11-14, General Science expansion)
+
+**Book (Sri Lanka — Grade 7 Science Part 1 (English medium)):** Title as printed: Science Part – I, Grade 7. Publisher: Educational Publications Department, Sri Lanka. First print 2015, fifth print 2019. ISBN 978-955-25-0106-7. PDF 160 pages, 6,071,745 bytes. Verdict: COMPLETE for Part 1 (Chapters 1–10, printed pp. 1–149); Part 2 of Grade 7 is not among the target records — library debt, see group log. Twin records: TSV blob record and books.json record grade-07/gov/sri-lanka/science/textbook/part-1.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+**Book (Sri Lanka — Grade 10 Teacher's Guide, NIE 2015):** Title as printed: Science, Teacher's Guide, Grade 10 (Implemented from 2015). Publisher: Department of Science, Faculty of Science and Technology, National Institute of Education, Sri Lanka. PDF 84 pages, 1,413,364 bytes. Verdict: PARTIAL as a guide — the file carries the full Grade 10 syllabus / competency tables with learning outcomes (competencies 1.1–3.9) but not page-by-page lesson plans; read in full as issued. No Grade 10 English student textbook is in the target set — library debt, see group log. Record: TSV blob record only; no books.json twin. Guide evidence below covers only the guide's general / life-science competencies; its chemistry and physics competencies are named as split-subject lines. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| using a dichotomous key to classify organisms (G7 Science Part 1 (Eng)) | Sri Lanka, *Science Part – I, Grade 7*, printed p. 83 |
+| guide evidence: classifying organisms by suitable natural and artificial methods, domains introduced (G10 TG (NIE 2015)) | Sri Lanka, *Science, Teacher's Guide, Grade 10 (Implemented from 2015)*, competency 1.4 |
+
+**Acceptance count: taught in 14 countries (Ethiopia, Suriname, Uganda, Moldova, Pakistan (Punjab, Dominican Republic, Kuwait, China, Sri Lanka).**
+The teacher-guide rows above are guide evidence, carried as filed; the count rises on the student books above, not on the guides.
+
+Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: sri lanka, sri lanka science, classification sorting the living world

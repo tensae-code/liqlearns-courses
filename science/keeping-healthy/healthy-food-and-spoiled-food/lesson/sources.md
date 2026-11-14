@@ -1,6 +1,6 @@
 # Sources — Healthy food and spoiled food
 
-countries: Ethiopia, Turkey, Uganda, Cambodia, Mauritania, Angola
+countries: Ethiopia, Turkey, Uganda, Cambodia, Mauritania, Angola, Sri Lanka
 
 **Book 4:** *Grade 2 Environmental Science Teacher Guide* (አካባቢ ሳይንስ ሁለተኛ ክፍል የመምህር መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C. TRUNCATED scan: the file holds printed pp. 1–61 (Units 1–3); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-teacher-placements.md.
 
@@ -97,3 +97,17 @@ Searchable tags: ipn, mauritania, sciences naturelles, sn 4af, sn 5af, sn 5as-lm
 Angola's own way — *Estudo do Meio* (Grades 1–4) is Angola's integrated studies book: science, health, family, school and the local environment taught as one subject, so one grade book carries body, food, home, plants and animals side by side, in the order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: angola, estudo do meio 1, estudo do meio 2, grade 1, grade 2
+
+## Sri Lanka growth (2026-11-14, General Science expansion)
+
+**Book (Sri Lanka — Grade 8 Science Part 2 (English medium)):** Title as printed: Science Part – II, Grade 8. Publisher: Educational Publications Department, Sri Lanka. First print 2016, fourth print 2019. ISBN 978-955-25-0133-3. PDF 152 pages, 19,865,511 bytes. Verdict: COMPLETE for Part 2 (Chapters 9–15, printed pp. 1–141, pagination restarting at 1). Twin records: TSV blob record and books.json record grade-08/gov/sri-lanka/science/textbook/part-2.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| food preservatives: kinds, advantages and disadvantages (G8 Science Part 2 (Eng)) | Sri Lanka, *Science Part – II, Grade 8*, printed pp. 87–91 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Turkey, Uganda, Cambodia, Mauritania, Angola, Sri Lanka).**
+
+Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: sri lanka, sri lanka science, healthy food and spoiled food

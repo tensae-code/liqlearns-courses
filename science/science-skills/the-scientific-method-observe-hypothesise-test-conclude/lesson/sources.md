@@ -1,6 +1,6 @@
 # Sources — The scientific method — observe, hypothesise, test, conclude
 
-countries: Ethiopia, Cambodia, North Macedonia, Peru, Cook Islands, Jamaica (curriculum-guide evidence only), Uganda (teacher-guide evidence only), Greece, Moldova, Armenia, Cuba (teacher-guide evidence only), Samoa (curriculum evidence only), Egypt, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Dominican Republic, Syria, Laos, Eritrea
+countries: Ethiopia, Cambodia, North Macedonia, Peru, Cook Islands, Jamaica (curriculum-guide evidence only), Uganda (teacher-guide evidence only), Greece, Moldova, Armenia, Cuba (teacher-guide evidence only), Samoa (curriculum evidence only), Egypt, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Dominican Republic, Syria, Laos, Eritrea, Sri Lanka (teacher-guide evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). COMPLETE: 241 PDF pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -286,3 +286,17 @@ Searchable tags: laos, lao pdr, natural sciences grade 6, science and environmen
 Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: eritrea, eritrea science, ministry of education eritrea, the scientific method observe hypothesise test conclude
+
+## Sri Lanka growth (2026-11-14, General Science expansion)
+
+**Book (Sri Lanka — Grade 9 Teacher's Instructional Manual, NIE 2010 (English / Sinhala / Tamil parallel editions)):** Title as printed: Science, Grade 9, Teacher's Instructional Manual (Implemented in 2010). Publisher: Department of Science, Health and Physical Education, Faculty of Science and Technology, National Institute of Education, Sri Lanka. English PDF 268 pages, 2,976,743 bytes; Sinhala PDF 264 pages, 2,251,364 bytes; Tamil PDF 302 pages, 2,134,270 bytes (page counts differ by language typesetting; covers, title pages and competency structure verified the same manual). Verdict: COMPLETE — a full lesson-by-lesson manual for the older (2010) Grade 9 syllabus, whose unit order and several units differ from the 2018 syllabus, so its distinct general-science guidance is placed below; units that duplicate Book 5 / Book 7 content in substance are not re-placed. Records: books.json science-2010-english.pdf, s9tim16-sinhala.pdf, science-2010-tamil.pdf — cited once here as parallel editions. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: using the steps of the scientific method in Grade 9 investigations (G9 TG 2010 (Eng/Si/Ta)) | Sri Lanka, *Science, Grade 9, Teacher's Instructional Manual (Implemented in 2010)*, competency 1.1 |
+
+**Acceptance count unchanged: taught in 15 countries (Ethiopia, Cambodia, North Macedonia, Peru, Cook Islands, Greece, Moldova, Armenia, Egypt, Sudan, Venezuela, Dominican Republic, Syria, Laos, Eritrea).** Sri Lanka is named as teacher-guide evidence only in the rows above (its Grade 9 / Grade 10 NIE guides), not added to this count.
+
+Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: sri lanka, sri lanka science, the scientific method observe hypothesise test conclude

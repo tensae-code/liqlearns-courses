@@ -1,6 +1,6 @@
 # Sources — Soil — types, formation and loss
 
-countries: Ethiopia, Iceland (teacher-guide evidence only), Egypt, Sudan, Mauritania, Laos, Eritrea
+countries: Ethiopia, Iceland (teacher-guide evidence only), Egypt, Sudan, Mauritania, Laos, Eritrea, Sri Lanka
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -100,3 +100,18 @@ Searchable tags: laos, lao pdr, natural sciences grade 7, science and environmen
 Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: eritrea, eritrea science, ministry of education eritrea, soil types formation and loss
+
+## Sri Lanka growth (2026-11-14, General Science expansion)
+
+**Book (Sri Lanka — Grade 9 New Science (Tamil medium, 1996)):** Title as printed: புதிய விஞ்ஞானம் (New Science), 9 ஆம் ஆண்டு (Year 9). Publisher: Educational Publications Department, Sri Lanka; first edition 1988, tenth edition 1996; digitised by the Noolaham Foundation. PDF 280 pages, 61,227,888 bytes, image-only scan (read from page renders). Verdict: COMPLETE (Chapters 1–14, printed pp. 1–256, plus syllabus appendix). Older integrated curriculum, distinct from the modern Grade 9 book and guides above. Twin records: TSV release record (mid-size-books-5) and books.json record grade-09/gov/sri-lanka/science/textbook/full-year-1996.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Chapter 2 Soil: the diversity of soils and the components of soil (G9 New Science 1996 (Tamil)) | Sri Lanka, *புதிய விஞ்ஞானம் (New Science), Grade 9*, printed pp. 27–33 |
+| how soil was formed: weathering of rocks (G9 New Science 1996 (Tamil)) | Sri Lanka, *புதிய விஞ்ஞானம் (New Science), Grade 9*, printed pp. 35–37 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Egypt, Sudan, Mauritania, Laos, Eritrea, Sri Lanka).**
+
+Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: sri lanka, sri lanka science, soil types formation and loss

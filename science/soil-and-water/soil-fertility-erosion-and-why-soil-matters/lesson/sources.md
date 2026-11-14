@@ -1,6 +1,6 @@
 # Sources — Soil fertility, erosion, and why soil matters
 
-countries: Ethiopia, Mexico, Suriname, Guatemala (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Barbados (curriculum evidence only), Uganda, Bulgaria, Gabon (teacher-guide evidence only), Cuba, Seychelles, Venezuela, Angola, Dominican Republic, China, Eritrea
+countries: Ethiopia, Mexico, Suriname, Guatemala (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Barbados (curriculum evidence only), Uganda, Bulgaria, Gabon (teacher-guide evidence only), Cuba, Seychelles, Venezuela, Angola, Dominican Republic, China, Eritrea, Sri Lanka
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -269,3 +269,18 @@ Searchable tags: china, china science, pep, people's education press, soil ferti
 Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: eritrea, eritrea science, ministry of education eritrea, soil fertility erosion and why soil matters
+
+## Sri Lanka growth (2026-11-14, General Science expansion)
+
+**Book (Sri Lanka — Grade 9 New Science (Tamil medium, 1996)):** Title as printed: புதிய விஞ்ஞானம் (New Science), 9 ஆம் ஆண்டு (Year 9). Publisher: Educational Publications Department, Sri Lanka; first edition 1988, tenth edition 1996; digitised by the Noolaham Foundation. PDF 280 pages, 61,227,888 bytes, image-only scan (read from page renders). Verdict: COMPLETE (Chapters 1–14, printed pp. 1–256, plus syllabus appendix). Older integrated curriculum, distinct from the modern Grade 9 book and guides above. Twin records: TSV release record (mid-size-books-5) and books.json record grade-09/gov/sri-lanka/science/textbook/full-year-1996.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| soil suited to cultivation and why soil matters for crops (G9 New Science 1996 (Tamil)) | Sri Lanka, *புதிய விஞ்ஞானம் (New Science), Grade 9*, printed p. 31 |
+| harmful effects arising from soil erosion (G9 New Science 1996 (Tamil)) | Sri Lanka, *புதிய விஞ்ஞானம் (New Science), Grade 9*, printed p. 40 |
+
+**Acceptance count: taught in 16 countries (Ethiopia, Mexico, Suriname, Nauru, Tuvalu, Niue, Serbia, Uganda, Bulgaria, Cuba, Venezuela, Angola, Dominican Republic, China, Eritrea, Sri Lanka).**
+
+Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: sri lanka, sri lanka science, soil fertility erosion and why soil matters

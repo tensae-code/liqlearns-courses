@@ -1,6 +1,6 @@
 # Sources — Plants — seed plants: gymnosperms and angiosperms
 
-countries: Ethiopia, Iceland (teacher-guide evidence only), Bahamas (curriculum evidence only), Pakistan (Punjab), Samoa, Seychelles, Ecuador, Kuwait
+countries: Ethiopia, Iceland (teacher-guide evidence only), Bahamas (curriculum evidence only), Pakistan (Punjab), Samoa, Seychelles, Ecuador, Kuwait, Sri Lanka
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -109,3 +109,20 @@ Searchable tags: ecuador, ecuador ciencias naturales, ministerio de educacion ec
 Kuwait's own way — its Ministry of Education *Science* (العلوم) books, in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own unit order (life sciences, the human body, then matter and energy in the primary years; branch-built units with the 5E learning cycle and STEAM inquiry projects in the intermediate years) — is itself course content, carried exactly as filed.
 
 Searchable tags: kuwait, aloom, ministry of education kuwait, seed plants gymnosperms and angiosperms
+
+## Sri Lanka growth (2026-11-14, General Science expansion)
+
+**Book (Sri Lanka — Grade 7 Science Part 1 (English medium)):** Title as printed: Science Part – I, Grade 7. Publisher: Educational Publications Department, Sri Lanka. First print 2015, fifth print 2019. ISBN 978-955-25-0106-7. PDF 160 pages, 6,071,745 bytes. Verdict: COMPLETE for Part 1 (Chapters 1–10, printed pp. 1–149); Part 2 of Grade 7 is not among the target records — library debt, see group log. Twin records: TSV blob record and books.json record grade-07/gov/sri-lanka/science/textbook/part-1.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+**Book (Sri Lanka — Grade 9 New Science (Tamil medium, 1996)):** Title as printed: புதிய விஞ்ஞானம் (New Science), 9 ஆம் ஆண்டு (Year 9). Publisher: Educational Publications Department, Sri Lanka; first edition 1988, tenth edition 1996; digitised by the Noolaham Foundation. PDF 280 pages, 61,227,888 bytes, image-only scan (read from page renders). Verdict: COMPLETE (Chapters 1–14, printed pp. 1–256, plus syllabus appendix). Older integrated curriculum, distinct from the modern Grade 9 book and guides above. Twin records: TSV release record (mid-size-books-5) and books.json record grade-09/gov/sri-lanka/science/textbook/full-year-1996.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| monocotyledonous and dicotyledonous plants compared (G7 Science Part 1 (Eng)) | Sri Lanka, *Science Part – I, Grade 7*, printed p. 17 |
+| diversity of plants: flowering and non-flowering plants (G9 New Science 1996 (Tamil)) | Sri Lanka, *புதிய விஞ்ஞானம் (New Science), Grade 9*, printed pp. 93–96 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Pakistan (Punjab), Samoa, Ecuador, Kuwait, Sri Lanka).**
+
+Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: sri lanka, sri lanka science, seed plants gymnosperms and angiosperms

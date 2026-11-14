@@ -1,6 +1,6 @@
 # Sources — Animals — invertebrates: insects and earthworms
 
-countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Sweden, Nauru, Tuvalu, Niue, Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Uganda, Bulgaria, Bahamas (curriculum evidence only), Pakistan (Punjab), Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Mauritania, Kuwait, Syria, Laos, Eritrea
+countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Sweden, Nauru, Tuvalu, Niue, Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Uganda, Bulgaria, Bahamas (curriculum evidence only), Pakistan (Punjab), Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Mauritania, Kuwait, Syria, Laos, Eritrea, Sri Lanka
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -363,3 +363,20 @@ Searchable tags: laos, lao pdr, science and environment grade 3, science and env
 Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: eritrea, eritrea science, ministry of education eritrea, invertebrates insects and earthworms
+
+## Sri Lanka growth (2026-11-14, General Science expansion)
+
+**Book (Sri Lanka — Grade 8 Science Part 1 (English medium)):** Title as printed: Science Part – I, Grade 8. Publisher: Educational Publications Department, Sri Lanka. First print 2016, fourth print 2019. ISBN 978-955-25-0132-6. PDF 137 pages, 5,185,614 bytes. Verdict: COMPLETE for Part 1 (Chapters 1–8, printed pp. 1–126). Twin records: TSV blob record and books.json record grade-08/gov/sri-lanka/science/textbook/part-1.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+**Book (Sri Lanka — Grade 9 New Science (Tamil medium, 1996)):** Title as printed: புதிய விஞ்ஞானம் (New Science), 9 ஆம் ஆண்டு (Year 9). Publisher: Educational Publications Department, Sri Lanka; first edition 1988, tenth edition 1996; digitised by the Noolaham Foundation. PDF 280 pages, 61,227,888 bytes, image-only scan (read from page renders). Verdict: COMPLETE (Chapters 1–14, printed pp. 1–256, plus syllabus appendix). Older integrated curriculum, distinct from the modern Grade 9 book and guides above. Twin records: TSV release record (mid-size-books-5) and books.json record grade-09/gov/sri-lanka/science/textbook/full-year-1996.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| animal classification: main invertebrate groups (G8 Science Part 1 (Eng)) | Sri Lanka, *Science Part – I, Grade 8*, printed p. 13 |
+| invertebrates: the main groups without backbones (G9 New Science 1996 (Tamil)) | Sri Lanka, *புதிய விஞ்ஞானம் (New Science), Grade 9*, printed pp. 90–91 |
+
+**Acceptance count: taught in 20 countries (Ethiopia, Sweden, Nauru, Tuvalu, Niue, Guyana, Mongolia, Uganda, Bulgaria, Pakistan (Punjab, Eritrea, Sri Lanka).**
+
+Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: sri lanka, sri lanka science, invertebrates insects and earthworms

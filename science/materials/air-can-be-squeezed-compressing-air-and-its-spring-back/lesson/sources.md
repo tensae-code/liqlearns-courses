@@ -1,6 +1,6 @@
 # Sources — Air can be squeezed — compressing air and its spring back
 
-countries: Gabon (teacher-guide evidence only), Cuba (programme evidence only), Cabo Verde (teacher-guide evidence only), Sudan
+countries: Gabon (teacher-guide evidence only), Cuba (programme evidence only), Cabo Verde (teacher-guide evidence only), Sudan, Sri Lanka
 
 **Book 1:** *Super Efficace — Sciences, Guide pédagogique, 5e année* (teacher guide) — Gabon, © EDIG/EDICEF 2024 (guide team led by Assengone Menvie Edith Olga épouse Kebila, Inspecteur Pédagogique). Title as printed: Super Efficace — Sciences, Guide pédagogique, 5e année, © EDIG/EDICEF 2024 (guide team led by Assengone Menvie Edith Olga épouse Kebila, Inspecteur Pédagogique). Grade 5. Teacher guide. Repo path: grade-05/gov/gabon/sciences/teacher/gabon-g05-sciences-teacher.pdf. Byte size: 1,435,808 (no size in record). PDF pages: 60. Offset: printed pp. 3–60 (sommaire: paliers at pp. 3–13, 14–24, 25–36, 37–47, 48–60). Verdict: COMPLETE — full text read (33,276 words); sommaire and lesson structure prove identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -51,3 +51,17 @@ Searchable tags: cabo verde, ciencias integradas, atividades cientificas, minist
 
 **Acceptance count: taught in 1 country (Sudan).** — Sudan's student book(s) are this lesson's first counted country; the earlier rows remain evidence only, counted nowhere.
 Searchable tags: sudan, sudan grade 4, materials/air-can-be-squeezed-compressing-air-and-its-spring-back
+
+## Sri Lanka growth (2026-11-14, General Science expansion)
+
+**Book (Sri Lanka — Grade 6 New Science (Tamil medium, 1986)):** Title as printed: புதிய விஞ்ஞானம் (New Science), ஆண்டு 6 (Year 6). Publisher: Educational Publications Department, Sri Lanka (கல்வி வெளியீட்டுத் திணைக்களம்), first edition 1986, printed at the Ayurvedic press, Colombo; digitised by the Noolaham Foundation. PDF 128 pages, 30,261,052 bytes, image-only scan (read from page renders). Verdict: COMPLETE (Units 1–8, printed pp. 1–115 plus front matter). This is the older 1980s integrated curriculum, distinct in content and order from the modern Grade 6 book above — not a parallel edition of it. Twin records: TSV release record (mid-size-books-4) and books.json record grade-06/gov/sri-lanka/science/textbook/full-year-1986.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| air spread out can be squeezed (compressed) (G6 New Science 1986 (Tamil)) | Sri Lanka, *புதிய விஞ்ஞானம் (New Science), Grade 6*, printed p. 75 |
+
+**Acceptance count: taught in 2 countries (Sudan).** — Sudan's student book(s, Sri Lanka).**
+
+Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: sri lanka, sri lanka science, air can be squeezed compressing air and its spring back

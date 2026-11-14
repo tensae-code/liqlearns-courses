@@ -1,6 +1,6 @@
 # Sources — Cells — respiration: releasing energy from food
 
-countries: Ethiopia, Afghanistan, Venezuela, Kuwait, Syria
+countries: Ethiopia, Afghanistan, Venezuela, Kuwait, Syria, Sri Lanka
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed (printed "ISBN No –"). COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -78,3 +78,17 @@ Searchable tags: kuwait, aloom, ministry of education kuwait, respiration releas
 Syria's own way — its Ministry of Education science books (كتاب العلوم), in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own semester and unit order, with Syria's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: syria, syria science, ministry of education syria, nccd, respiration releasing energy from food
+
+## Sri Lanka growth (2026-11-14, General Science expansion)
+
+**Book (Sri Lanka — Grade 10 New Science (Tamil medium, 1998)):** Title as printed: புதிய விஞ்ஞானம் 10 (New Science 10), 10 ஆம் ஆண்டு (Year 10). Publisher: Educational Publications Department, Sri Lanka; first edition 1986, thirteenth edition 1998; digitised by the Noolaham Foundation. PDF as downloaded 56,290,176 bytes with a broken cross-reference structure (repaired with Ghostscript before reading; content pages verified against the printed contents); repaired PDF 336 pages, image-only scan (read from page renders). Verdict: COMPLETE (Chapters 1–16, printed pp. 1–258 plus front matter). This is the senior GCE O/L integrated book of the older curriculum; most of its chapters are pure Physics / Chemistry / Biology in treatment and are named as split-subject lines below. Twin records: TSV release record (mid-size-books-5) and books.json record grade-10/gov/sri-lanka/science/textbook/full-year-1998.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| cellular respiration, plant respiration, and anaerobic respiration and its products (G10 New Science 1998 (Tamil)) | Sri Lanka, *புதிய விஞ்ஞானம் (New Science 10)*, printed pp. 104–108 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Afghanistan, Venezuela, Kuwait, Syria, Sri Lanka).**
+
+Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: sri lanka, sri lanka science, respiration releasing energy from food

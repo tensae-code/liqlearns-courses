@@ -1,6 +1,6 @@
 # Sources — What a plant needs to grow
 
-countries: Ethiopia, Albania (teacher-guide evidence only), Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), United States, Armenia, Samoa, Egypt, Cambodia, Seychelles, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Mauritania, Angola, Bhutan, Dominican Republic, China, Syria, Laos, Eritrea
+countries: Ethiopia, Albania (teacher-guide evidence only), Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), United States, Armenia, Samoa, Egypt, Cambodia, Seychelles, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Mauritania, Angola, Bhutan, Dominican Republic, China, Syria, Laos, Eritrea, Sri Lanka
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -446,3 +446,17 @@ Searchable tags: laos, lao pdr, natural sciences grade 6, science and environmen
 Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: eritrea, eritrea science, ministry of education eritrea, what a plant needs to grow
+
+## Sri Lanka growth (2026-11-14, General Science expansion)
+
+**Book (Sri Lanka — Grade 8 Science Part 2 (English medium)):** Title as printed: Science Part – II, Grade 8. Publisher: Educational Publications Department, Sri Lanka. First print 2016, fourth print 2019. ISBN 978-955-25-0133-3. PDF 152 pages, 19,865,511 bytes. Verdict: COMPLETE for Part 2 (Chapters 9–15, printed pp. 1–141, pagination restarting at 1). Twin records: TSV blob record and books.json record grade-08/gov/sri-lanka/science/textbook/part-2.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| life cycles of plants (G8 Science Part 2 (Eng)) | Sri Lanka, *Science Part – II, Grade 8*, printed p. 71 |
+
+**Acceptance count: taught in 21 countries (Ethiopia, Guyana, Mongolia, Moldova, United States, Armenia, Samoa, Egypt, Cambodia, Seychelles, Sudan, Venezuela, Mauritania, Angola, Bhutan, Dominican Republic, China, Syria, Laos, Eritrea, Sri Lanka).**
+
+Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: sri lanka, sri lanka science, what a plant needs to grow

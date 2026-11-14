@@ -1,6 +1,6 @@
 # Sources — Global warming — the greenhouse effect
 
-countries: Ethiopia, Uganda, North Macedonia, Jamaica (curriculum-guide evidence only), Palau (teacher's-edition evidence only), Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Italy, Nauru, Tuvalu, Niue, Ghana (curriculum evidence only), Costa Rica, Moldova, Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Samoa, Egypt, Cambodia, Ecuador, Cabo Verde (teacher-guide evidence only), Venezuela (curriculum/proposal evidence only), Mauritania, Dominican Republic, Eritrea
+countries: Ethiopia, Uganda, North Macedonia, Jamaica (curriculum-guide evidence only), Palau (teacher's-edition evidence only), Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Italy, Nauru, Tuvalu, Niue, Ghana (curriculum evidence only), Costa Rica, Moldova, Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Samoa, Egypt, Cambodia, Ecuador, Cabo Verde (teacher-guide evidence only), Venezuela (curriculum/proposal evidence only), Mauritania, Dominican Republic, Eritrea, Sri Lanka
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -350,3 +350,17 @@ Searchable tags: dominican republic, ciencias de la naturaleza, minerd, libro ab
 Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: eritrea, eritrea science, ministry of education eritrea, global warming the greenhouse effect
+
+## Sri Lanka growth (2026-11-14, General Science expansion)
+
+**Book (Sri Lanka — Grade 6 Science (English medium)):** Title as printed: Science, Grade 6. Publisher: Educational Publications Department, Sri Lanka. First print 2014, sixth print 2019. ISBN 978-955-25-0079-4. PDF 190 pages, 16,555,739 bytes. Verdict: COMPLETE (Chapters 1–11, printed pp. 1–177 plus front matter). Twin records: TSV blob record grade-06/gov/sri-lanka/science/textbook/full-year.pdf and books.json record with the same file field are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| effects of heat on the environment (G6 Science (Eng)) | Sri Lanka, *Science, Grade 6*, printed p. 144 |
+
+**Acceptance count: taught in 19 countries (Ethiopia, Uganda, North Macedonia, Italy, Nauru, Tuvalu, Niue, Costa Rica, Moldova, United States, Pakistan (Punjab, Dominican Republic, Eritrea, Sri Lanka).**
+
+Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: sri lanka, sri lanka science, global warming the greenhouse effect

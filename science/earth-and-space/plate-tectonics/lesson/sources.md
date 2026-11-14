@@ -1,6 +1,6 @@
 # Sources — Plate tectonics
 
-countries: Mexico, Australia, Italy, Cambodia, Ecuador, Mauritania, Dominican Republic, Kuwait
+countries: Mexico, Australia, Italy, Cambodia, Ecuador, Mauritania, Dominican Republic, Kuwait, Sri Lanka
 
 **Book 1:** *Ética, naturaleza y sociedades, Primer grado de secundaria* (student, Grade 7; Colección Ximhai, SEP) — Mexico, Secretaría de Educación Pública (SEP), Mexico (Nueva Escuela Mexicana free textbook). Title as printed: Ética, naturaleza y sociedades, Primer grado de secundaria. Publisher: Secretaría de Educación Pública (SEP), Mexico (Nueva Escuela Mexicana free textbook). Accessible PDF 311 pages (print edition 351 pp.). Verdict: COMPLETE. Distinct book cited once from its several records, as filed: the TSV file is a Braille/ink transcription of the same free textbook (258 PDF pages, its own note says it transcribes the printed book); the two books.json files are the Colección Ximhai accessible editions for secundaria and telesecundaria (both 311 PDF pages, text identical apart from a few front-matter lines). Scope note, carried as filed: this book mixes ethics, history, geography and civics with nature study — only the nature/science parts are placed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mexico-placements.md.
 
@@ -108,3 +108,19 @@ Searchable tags: dominican republic, ciencias de la naturaleza, minerd, libro ab
 Kuwait's own way — its Ministry of Education *Science* (العلوم) books, in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own unit order (life sciences, the human body, then matter and energy in the primary years; branch-built units with the 5E learning cycle and STEAM inquiry projects in the intermediate years) — is itself course content, carried exactly as filed.
 
 Searchable tags: kuwait, aloom, ministry of education kuwait, plate tectonics
+
+## Sri Lanka growth (2026-11-14, General Science expansion)
+
+**Book (Sri Lanka — Grade 7 Science Part 1 (English medium)):** Title as printed: Science Part – I, Grade 7. Publisher: Educational Publications Department, Sri Lanka. First print 2015, fifth print 2019. ISBN 978-955-25-0106-7. PDF 160 pages, 6,071,745 bytes. Verdict: COMPLETE for Part 1 (Chapters 1–10, printed pp. 1–149); Part 2 of Grade 7 is not among the target records — library debt, see group log. Twin records: TSV blob record and books.json record grade-07/gov/sri-lanka/science/textbook/part-1.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| tectonic plates and plate tectonics (G7 Science Part 1 (Eng)) (placement filed as NEW LESSON NEEDED — plate-tectonics-and-moving-plates; this lesson already exists and covers that thing, so the placement stocks into it and the original slug is recorded here) | Sri Lanka, *Science Part – I, Grade 7*, printed p. 109 |
+
+**Acceptance count: taught in 9 countries (Mexico, Australia, Italy, Cambodia, Ecuador, Mauritania, Dominican Republic, Kuwait, Sri Lanka).**
+
+Placement choice, on the record: the Sri Lanka placement(s) above filed as NEW LESSON NEEDED — plate-tectonics-and-moving-plates — sri-lanka-placements.md — are stocked into this existing lesson, which already covers that thing as its own lesson, so no second lesson was built for them; the original slug is recorded in each row above.
+
+Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: sri lanka, sri lanka science, plate tectonics

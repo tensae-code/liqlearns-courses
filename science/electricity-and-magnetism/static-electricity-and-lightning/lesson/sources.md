@@ -1,6 +1,6 @@
 # Sources — Static electricity and lightning
 
-countries: Pakistan (Punjab), Afghanistan, Sudan, Bhutan, Syria
+countries: Pakistan (Punjab), Afghanistan, Sudan, Bhutan, Syria, Sri Lanka
 
 **Book (Pakistan (Punjab) — Grade 5):** *General Science 5* (Urdu-medium edition) (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore (cover and imprint pages). Grade 5, student book, in Urdu with English section titles. Records: TSV blob record + books.json `grade-05/gov/pakistan/general-science/student/full-year.pdf` — the same book (one title, two records), cited once here. Fetched copy: 35,264,002 bytes, 104 PDF pages, image-only (the complete copy was verified by cover, contents and final index page). Printed pagination runs 1–102 (printed p. = PDF p. − 2). Verdict: COMPLETE — read in full from 100-DPI page renders. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/pakistan-placements.md.
 
@@ -88,3 +88,23 @@ Placement choice, on the record: placement filed as NEW LESSON NEEDED — static
 Syria's own way — its Ministry of Education science books (كتاب العلوم), in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own semester and unit order, with Syria's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: syria, syria science, ministry of education syria, nccd, static electricity and lightning
+
+## Sri Lanka growth (2026-11-14, General Science expansion)
+
+**Book (Sri Lanka — Grade 8 Science Part 2 (English medium)):** Title as printed: Science Part – II, Grade 8. Publisher: Educational Publications Department, Sri Lanka. First print 2016, fourth print 2019. ISBN 978-955-25-0133-3. PDF 152 pages, 19,865,511 bytes. Verdict: COMPLETE for Part 2 (Chapters 9–15, printed pp. 1–141, pagination restarting at 1). Twin records: TSV blob record and books.json record grade-08/gov/sri-lanka/science/textbook/part-2.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+**Book (Sri Lanka — Grade 9 Teacher's Guide, NIE 2018 (English / Sinhala / Tamil parallel editions)):** Title as printed: Science, Grade 9, Teachers' Guide (Implemented from 2018). Publisher: Department of Science, Faculty of Science and Technology, National Institute of Education, Sri Lanka. English PDF 40 pages, 1,105,364 bytes; Sinhala PDF 45 pages, 1,123,913 bytes; Tamil PDF 44 pages, 923,786 bytes. Verdict: COMPLETE as issued — this 2018 guide is a syllabus-and-learning-outcomes guide for the whole Grade 9 year (competencies 1.1–4.6), not a page-by-page lesson manual; all three language editions verified by cover, title page and syllabus tables, and cited once here as parallel editions. Records: TSV record grade-09/gov/sri-lanka/science/teacher-guide.pdf is byte-identical in size (1,105,364 bytes) and content to the books.json English 2018 record — the same file, cited once. Books.json records: science-2018-english.pdf, sgr09tg-science-sinhala.pdf, science-2018-tamil.pdf. Guide evidence below covers the Grade 9 units for which no student textbook is in the target set (the student Part II), plus guide-only detail for Part I units. Placements are marked guide evidence. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| lightning and thundering: science and safety (G8 Science Part 2 (Eng)) (placement filed as NEW LESSON NEEDED — lightning-and-thunder-safety; this lesson already exists and covers that thing, so the placement stocks into it and the original slug is recorded here) | Sri Lanka, *Science Part – II, Grade 8*, printed p. 137 |
+| guide evidence: preventing accidents due to lightning, and how lightning is caused (G9 TG 2018 (Eng/Si/Ta)) (placement filed as NEW LESSON NEEDED — lightning-and-thunder-safety; this lesson already exists and covers that thing, so the placement stocks into it and the original slug is recorded here) | Sri Lanka, *Science, Grade 9, Teachers' Guide (Implemented from 2018)*, competency 4.2 |
+
+**Acceptance count: taught in 6 countries (Pakistan (Punjab), Afghanistan, Sudan, Bhutan, Syria, Sri Lanka).**
+The teacher-guide rows above are guide evidence, carried as filed; the count rises on the student books above, not on the guides.
+
+Placement choice, on the record: the Sri Lanka placement(s) above filed as NEW LESSON NEEDED — lightning-and-thunder-safety — sri-lanka-placements.md — are stocked into this existing lesson, which already covers that thing as its own lesson, so no second lesson was built for them; the original slug is recorded in each row above.
+
+Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: sri lanka, sri lanka science, static electricity and lightning

@@ -1,6 +1,6 @@
 # Sources — How living things affect each other
 
-countries: Ethiopia, Australia, Palau (teacher's-edition evidence only), Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Italy, Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Micronesia, Uganda, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Armenia, Cuba, Samoa, Egypt, Cambodia, Ecuador, Sudan, Mauritania, Angola, Bhutan, Dominican Republic, Kuwait, Syria, Laos, Eritrea
+countries: Ethiopia, Australia, Palau (teacher's-edition evidence only), Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Italy, Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Micronesia, Uganda, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Armenia, Cuba, Samoa, Egypt, Cambodia, Ecuador, Sudan, Mauritania, Angola, Bhutan, Dominican Republic, Kuwait, Syria, Laos, Eritrea, Sri Lanka
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -476,3 +476,17 @@ Searchable tags: laos, lao pdr, natural sciences grade 7, science and environmen
 Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: eritrea, eritrea science, ministry of education eritrea, how living things affect each other
+
+## Sri Lanka growth (2026-11-14, General Science expansion)
+
+**Book (Sri Lanka — Grade 8 New Science (Tamil medium, 1988)):** Title as printed: புதிய விஞ்ஞானம் (New Science), ஆண்டு 8 (Year 8). Publisher: Educational Publications Department, Sri Lanka; first edition 1986, second 1987, third 1988; digitised by the Noolaham Foundation. PDF 178 pages, 48,018,150 bytes, image-only scan (read from page renders). Verdict: COMPLETE (Chapters 1–11, printed pp. 1–162 plus front matter). Older integrated curriculum, distinct from the modern Grade 8 books above. Twin records: TSV release record (mid-size-books-4) and books.json record grade-08/gov/sri-lanka/science/textbook/full-year-1988.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Chapter 1 Man and Environment: interrelations between humans and the natural environment — water, air and organisms (G8 New Science 1988 (Tamil)) | Sri Lanka, *புதிய விஞ்ஞானம் (New Science), Grade 8*, printed p. 1 |
+
+**Acceptance count: taught in 27 countries (Ethiopia, Australia, Italy, Nauru, Tuvalu, Niue, Micronesia, Uganda, Moldova, United States, Pakistan (Punjab, Eritrea, Sri Lanka).**
+
+Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: sri lanka, sri lanka science, how living things affect each other

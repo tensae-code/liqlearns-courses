@@ -1,6 +1,6 @@
 # Sources — Air is there — air takes up space and can be pushed
 
-countries: Gabon (teacher-guide evidence only), Jamaica (curriculum-guide evidence only), Djibouti (teacher-guide evidence only), India, Uganda, Bulgaria, Moldova, Cuba, Cambodia (guide evidence only), Seychelles, Cabo Verde (teacher-guide evidence only), Sudan, Mauritania, Angola, China, Laos, Eritrea
+countries: Gabon (teacher-guide evidence only), Jamaica (curriculum-guide evidence only), Djibouti (teacher-guide evidence only), India, Uganda, Bulgaria, Moldova, Cuba, Cambodia (guide evidence only), Seychelles, Cabo Verde (teacher-guide evidence only), Sudan, Mauritania, Angola, China, Laos, Eritrea, Sri Lanka
 
 **Book 1:** *Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année* (teacher guide) — Gabon, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Title as printed: Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Grade 3. Teacher guide. Repo path: grade-03/gov/gabon/sciences/teacher/gabon-g03-sciences-teacher.pdf. Byte size: 1,385,512 (no size in record). PDF pages: 64. Offset: printed pp. 3–64 (sommaire: paliers at pp. 3–16, 17–29, 30–42, 43–53, 54–64). Verdict: COMPLETE — full text read (36,970 words); sommaire and palier competence statements prove identity and scope. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -244,3 +244,18 @@ Searchable tags: laos, lao pdr, science and environment grade 2
 Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: eritrea, eritrea science, ministry of education eritrea, air is there air takes up space and can be pushed
+
+## Sri Lanka growth (2026-11-14, General Science expansion)
+
+**Book (Sri Lanka — Grade 6 New Science (Tamil medium, 1986)):** Title as printed: புதிய விஞ்ஞானம் (New Science), ஆண்டு 6 (Year 6). Publisher: Educational Publications Department, Sri Lanka (கல்வி வெளியீட்டுத் திணைக்களம்), first edition 1986, printed at the Ayurvedic press, Colombo; digitised by the Noolaham Foundation. PDF 128 pages, 30,261,052 bytes, image-only scan (read from page renders). Verdict: COMPLETE (Units 1–8, printed pp. 1–115 plus front matter). This is the older 1980s integrated curriculum, distinct in content and order from the modern Grade 6 book above — not a parallel edition of it. Twin records: TSV release record (mid-size-books-4) and books.json record grade-06/gov/sri-lanka/science/textbook/full-year-1986.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the air around us: does air fill a place / take up space? (G6 New Science 1986 (Tamil)) | Sri Lanka, *புதிய விஞ்ஞானம் (New Science), Grade 6*, printed p. 69 |
+| does air have mass? (G6 New Science 1986 (Tamil)) | Sri Lanka, *புதிய விஞ்ஞானம் (New Science), Grade 6*, printed p. 72 |
+
+**Acceptance count: taught in 12 countries (India, Uganda, Bulgaria, Moldova, Cuba, Sudan, Mauritania, Angola, China, Laos, Eritrea, Sri Lanka).**
+
+Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: sri lanka, sri lanka science, air is there air takes up space and can be pushed

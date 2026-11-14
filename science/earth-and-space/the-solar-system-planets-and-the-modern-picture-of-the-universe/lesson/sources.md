@@ -1,6 +1,6 @@
 # Sources — The Solar system — planets and the modern picture of the Universe
 
-countries: Uzbekistan, Haiti, Jamaica (curriculum-guide evidence only), Ghana (curriculum evidence only), Guyana, Iceland (teacher-guide evidence only), Costa Rica, India, Bulgaria, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Pakistan (Punjab), Armenia, Cuba, Samoa (curriculum evidence only), Egypt, Cambodia, Ecuador, Afghanistan, Venezuela, Angola, Bhutan, Dominican Republic, Kuwait, China, Laos, Eritrea
+countries: Uzbekistan, Haiti, Jamaica (curriculum-guide evidence only), Ghana (curriculum evidence only), Guyana, Iceland (teacher-guide evidence only), Costa Rica, India, Bulgaria, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Pakistan (Punjab), Armenia, Cuba, Samoa (curriculum evidence only), Egypt, Cambodia, Ecuador, Afghanistan, Venezuela, Angola, Bhutan, Dominican Republic, Kuwait, China, Laos, Eritrea, Sri Lanka
 
 **Book 1:** *ФИЗИКА 9 (Fizika 9)* (student textbook) — Uzbekistan, Учебник для учащихся 9-х классов средней школы — N. Sh. Turdiev; Izdatelstvo «Turon-Iqbol», Tashkent 2006 (Russian edition; imprint: 160 printed pp., print run 26,000). Grade: 9 · Student book (Russian-medium edition) · Repo path: grade-09/gov/uzbekistan/physics/full-year.pdf. Byte size: 65,699,691. PDF pages: 161. Offset: printed p. N = PDF p. N+1 approx. (printed p. 3 = PDF p. 4; contents at printed pp. 157–158). Verdict: COMPLETE — identity proven by cover/title/imprint; complete contents read (printed pp. 157–158) and chapter content verified against it. Read basis stated honestly: contents-anchored full-structure read with chapter-level verification, not a line-by-line read of all 161 pages. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/uzbekistan-placements.md.
 
@@ -390,3 +390,20 @@ Searchable tags: laos, lao pdr, natural sciences grade 8
 Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: eritrea, eritrea science, ministry of education eritrea, the solar system planets and the modern picture of the universe
+
+## Sri Lanka growth (2026-11-14, General Science expansion)
+
+**Book (Sri Lanka — Grade 8 Science Part 2 (English medium)):** Title as printed: Science Part – II, Grade 8. Publisher: Educational Publications Department, Sri Lanka. First print 2016, fourth print 2019. ISBN 978-955-25-0133-3. PDF 152 pages, 19,865,511 bytes. Verdict: COMPLETE for Part 2 (Chapters 9–15, printed pp. 1–141, pagination restarting at 1). Twin records: TSV blob record and books.json record grade-08/gov/sri-lanka/science/textbook/part-2.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+**Book (Sri Lanka — Grade 8 New Science (Tamil medium, 1988)):** Title as printed: புதிய விஞ்ஞானம் (New Science), ஆண்டு 8 (Year 8). Publisher: Educational Publications Department, Sri Lanka; first edition 1986, second 1987, third 1988; digitised by the Noolaham Foundation. PDF 178 pages, 48,018,150 bytes, image-only scan (read from page renders). Verdict: COMPLETE (Chapters 1–11, printed pp. 1–162 plus front matter). Older integrated curriculum, distinct from the modern Grade 8 books above. Twin records: TSV release record (mid-size-books-4) and books.json record grade-08/gov/sri-lanka/science/textbook/full-year-1988.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| phenomena of the solar system (G8 Science Part 2 (Eng)) | Sri Lanka, *Science Part – II, Grade 8*, printed p. 97 |
+| Chapter 3: the Sun and its family — planets, satellites, comets and meteors, asteroids (G8 New Science 1988 (Tamil)) | Sri Lanka, *புதிய விஞ்ஞானம் (New Science), Grade 8*, printed pp. 34–39 |
+
+**Acceptance count: taught in 23 countries (Uzbekistan, Haiti, Guyana, Costa Rica, India, Bulgaria, Moldova, Pakistan (Punjab, Dominican Republic, Kuwait, China, Laos, Eritrea, Sri Lanka).**
+
+Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: sri lanka, sri lanka science, the solar system planets and the modern picture of the universe

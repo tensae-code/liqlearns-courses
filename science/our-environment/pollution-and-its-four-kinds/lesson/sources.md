@@ -1,6 +1,6 @@
 # Sources — Pollution and its four kinds
 
-countries: Ethiopia, Mexico, Trinidad and Tobago (curriculum-guide evidence only), Guatemala (teacher-guide evidence only), Djibouti (teacher-guide evidence only), India, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Samoa, Cambodia, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Mauritania, Angola, Kuwait, Syria, Eritrea
+countries: Ethiopia, Mexico, Trinidad and Tobago (curriculum-guide evidence only), Guatemala (teacher-guide evidence only), Djibouti (teacher-guide evidence only), India, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Samoa, Cambodia, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Mauritania, Angola, Kuwait, Syria, Eritrea, Sri Lanka
 
 **Book 10:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minilk Belay Akalu (MSc), Getachew Dilnesa Gedebe (MA), Melese Sinu W/Mariam (MSc). COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
 
@@ -299,3 +299,17 @@ Searchable tags: syria, syria science, ministry of education syria, nccd, pollut
 Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: eritrea, eritrea science, ministry of education eritrea, pollution and its four kinds
+
+## Sri Lanka growth (2026-11-14, General Science expansion)
+
+**Book (Sri Lanka — Grade 6 Science (English medium)):** Title as printed: Science, Grade 6. Publisher: Educational Publications Department, Sri Lanka. First print 2014, sixth print 2019. ISBN 978-955-25-0079-4. PDF 190 pages, 16,555,739 bytes. Verdict: COMPLETE (Chapters 1–11, printed pp. 1–177 plus front matter). Twin records: TSV blob record grade-06/gov/sri-lanka/science/textbook/full-year.pdf and books.json record with the same file field are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| natural disasters occurring due to climatic changes (G6 Science (Eng)) | Sri Lanka, *Science, Grade 6*, printed p. 170 |
+
+**Acceptance count: taught in 16 countries (Ethiopia, Mexico, India, Pakistan (Punjab, Eritrea, Sri Lanka).**
+
+Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: sri lanka, sri lanka science, pollution and its four kinds

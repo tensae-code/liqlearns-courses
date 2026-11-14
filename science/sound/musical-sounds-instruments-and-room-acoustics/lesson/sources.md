@@ -1,6 +1,6 @@
 # Sources — Musical sounds, instruments and room acoustics
 
-countries: Uzbekistan, Venezuela, Bhutan, China
+countries: Uzbekistan, Venezuela, Bhutan, China, Sri Lanka
 
 **Book 1:** *ФИЗИКА 6 (Fizika 6)* (student textbook) — Uzbekistan, N. Sh. Turdiev; recommended by the Ministry of Public Education of Uzbekistan; Izdatelsko-poligraficheskiy tvorcheskiy dom imeni Chulpana, Tashkent 2009; ISBN 978-9943-05-282-6 (imprint: 160 printed pp., print run 32,765). Grade: 6 · Student book (Russian-medium edition) · Repo path: grade-06/gov/uzbekistan/physics/full-year.pdf. Byte size: 53,761,071. PDF pages: 161. Offset: printed p. N = PDF p. N+1. Verdict: COMPLETE — read page by page in full from page images (41 sheets); contents (printed pp. 156–157) confirm all 57 temas present; back cover seen. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/uzbekistan-placements.md.
 
@@ -57,3 +57,17 @@ Searchable tags: bhutan, bhutan science, science class v
 China's own way — its 科学 (Science) textbooks teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with China's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: china, china science, pep, people's education press, musical sounds instruments and room acoustics
+
+## Sri Lanka growth (2026-11-14, General Science expansion)
+
+**Book (Sri Lanka — Grade 6 Science (English medium)):** Title as printed: Science, Grade 6. Publisher: Educational Publications Department, Sri Lanka. First print 2014, sixth print 2019. ISBN 978-955-25-0079-4. PDF 190 pages, 16,555,739 bytes. Verdict: COMPLETE (Chapters 1–11, printed pp. 1–177 plus front matter). Twin records: TSV blob record grade-06/gov/sri-lanka/science/textbook/full-year.pdf and books.json record with the same file field are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| creating equipment to produce sound (home-made instruments) (G6 Science (Eng)) | Sri Lanka, *Science, Grade 6*, printed p. 93 |
+
+**Acceptance count: taught in 5 countries (Uzbekistan, Venezuela, Bhutan, China, Sri Lanka).**
+
+Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: sri lanka, sri lanka science, musical sounds instruments and room acoustics

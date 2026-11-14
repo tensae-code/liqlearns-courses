@@ -1,6 +1,6 @@
 # Sources — Food — the six nutrients
 
-countries: Ethiopia, Cook Islands, Suriname, Guatemala (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), India, Uganda, Bulgaria, Bahamas (curriculum evidence only), Samoa, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Venezuela, Mauritania, Bhutan, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea
+countries: Ethiopia, Cook Islands, Suriname, Guatemala (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), India, Uganda, Bulgaria, Bahamas (curriculum evidence only), Samoa, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Venezuela, Mauritania, Bhutan, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka
 
 **Book 1:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -356,3 +356,24 @@ Searchable tags: laos, lao pdr, natural sciences grade 6, science and environmen
 Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: eritrea, eritrea science, ministry of education eritrea, food the six nutrients
+
+## Sri Lanka growth (2026-11-14, General Science expansion)
+
+**Book (Sri Lanka — Grade 9 Teacher's Instructional Manual, NIE 2010 (English / Sinhala / Tamil parallel editions)):** Title as printed: Science, Grade 9, Teacher's Instructional Manual (Implemented in 2010). Publisher: Department of Science, Health and Physical Education, Faculty of Science and Technology, National Institute of Education, Sri Lanka. English PDF 268 pages, 2,976,743 bytes; Sinhala PDF 264 pages, 2,251,364 bytes; Tamil PDF 302 pages, 2,134,270 bytes (page counts differ by language typesetting; covers, title pages and competency structure verified the same manual). Verdict: COMPLETE — a full lesson-by-lesson manual for the older (2010) Grade 9 syllabus, whose unit order and several units differ from the 2018 syllabus, so its distinct general-science guidance is placed below; units that duplicate Book 5 / Book 7 content in substance are not re-placed. Records: books.json science-2010-english.pdf, s9tim16-sinhala.pdf, science-2010-tamil.pdf — cited once here as parallel editions. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+**Book (Sri Lanka — Grade 10 Teacher's Guide, NIE 2015):** Title as printed: Science, Teacher's Guide, Grade 10 (Implemented from 2015). Publisher: Department of Science, Faculty of Science and Technology, National Institute of Education, Sri Lanka. PDF 84 pages, 1,413,364 bytes. Verdict: PARTIAL as a guide — the file carries the full Grade 10 syllabus / competency tables with learning outcomes (competencies 1.1–3.9) but not page-by-page lesson plans; read in full as issued. No Grade 10 English student textbook is in the target set — library debt, see group log. Record: TSV blob record only; no books.json twin. Guide evidence below covers only the guide's general / life-science competencies; its chemistry and physics competencies are named as split-subject lines. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+**Book (Sri Lanka — Grade 8 New Science (Tamil medium, 1988)):** Title as printed: புதிய விஞ்ஞானம் (New Science), ஆண்டு 8 (Year 8). Publisher: Educational Publications Department, Sri Lanka; first edition 1986, second 1987, third 1988; digitised by the Noolaham Foundation. PDF 178 pages, 48,018,150 bytes, image-only scan (read from page renders). Verdict: COMPLETE (Chapters 1–11, printed pp. 1–162 plus front matter). Older integrated curriculum, distinct from the modern Grade 8 books above. Twin records: TSV release record (mid-size-books-4) and books.json record grade-08/gov/sri-lanka/science/textbook/full-year-1988.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: experiments on the major types of nutrients (G9 TG 2010 (Eng/Si/Ta)) | Sri Lanka, *Science, Grade 9, Teacher's Instructional Manual (Implemented in 2010)*, competency 4.6 |
+| guide evidence: the chemical basis of life — carbohydrates, proteins, lipids, nucleic acids, minerals, vitamins and water, and the unique life-related properties of water (G10 TG (NIE 2015)) | Sri Lanka, *Science, Teacher's Guide, Grade 10 (Implemented from 2015)*, competency 1.1 |
+| energy-giving foods in our diet and other nutrient types (G8 New Science 1988 (Tamil)) | Sri Lanka, *புதிய விஞ்ஞானம் (New Science), Grade 8*, printed pp. 65–66 |
+
+**Acceptance count: taught in 19 countries (Ethiopia, Cook Islands, Suriname, India, Uganda, Bulgaria, Samoa, Seychelles, Ecuador, Venezuela, Mauritania, Bhutan, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka).**
+The teacher-guide rows above are guide evidence, carried as filed; the count rises on the student books above, not on the guides.
+
+Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: sri lanka, sri lanka science, food the six nutrients

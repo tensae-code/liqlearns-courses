@@ -1,6 +1,6 @@
 # Sources — Animals — what makes an animal
 
-countries: Ethiopia, Vanuatu (teacher-guide evidence only), Guyana, Bahamas (curriculum evidence only), Egypt, Seychelles, Cabo Verde (teacher-guide evidence only), Venezuela, Mauritania, Angola, Syria, Laos
+countries: Ethiopia, Vanuatu (teacher-guide evidence only), Guyana, Bahamas (curriculum evidence only), Egypt, Seychelles, Cabo Verde (teacher-guide evidence only), Venezuela, Mauritania, Angola, Syria, Laos, Sri Lanka
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -198,3 +198,17 @@ Searchable tags: syria, syria science, ministry of education syria, nccd, animal
 Laos's own way in this lesson — as carried in the rows above, exactly as filed — is itself course content.
 
 Searchable tags: laos, lao pdr, science and environment grade 1, science and environment grade 1 teacher guide, science and environment grade 2, science and environment grade 3
+
+## Sri Lanka growth (2026-11-14, General Science expansion)
+
+**Book (Sri Lanka — Grade 6 Science (English medium)):** Title as printed: Science, Grade 6. Publisher: Educational Publications Department, Sri Lanka. First print 2014, sixth print 2019. ISBN 978-955-25-0079-4. PDF 190 pages, 16,555,739 bytes. Verdict: COMPLETE (Chapters 1–11, printed pp. 1–177 plus front matter). Twin records: TSV blob record grade-06/gov/sri-lanka/science/textbook/full-year.pdf and books.json record with the same file field are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| differences between plants and animals (G6 Science (Eng)) | Sri Lanka, *Science, Grade 6*, printed p. 13 |
+
+**Acceptance count: taught in 10 countries (Ethiopia, Guyana, Egypt, Seychelles, Venezuela, Mauritania, Angola, Syria, Laos, Sri Lanka).**
+
+Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: sri lanka, sri lanka science, animals what makes an animal

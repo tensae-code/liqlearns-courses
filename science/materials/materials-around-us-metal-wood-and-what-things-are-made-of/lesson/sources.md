@@ -1,6 +1,6 @@
 # Sources — Materials around us — metal, wood and what things are made of
 
-countries: Gabon (teacher-guide evidence only), Zambia (teacher-module evidence only), Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, India, Bulgaria, Moldova, Samoa, Afghanistan, Sudan, Bhutan, China, Syria, Laos, Eritrea
+countries: Gabon (teacher-guide evidence only), Zambia (teacher-module evidence only), Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, India, Bulgaria, Moldova, Samoa, Afghanistan, Sudan, Bhutan, China, Syria, Laos, Eritrea, Sri Lanka
 
 **Book 1:** *Super Efficace — Sciences, Guide pédagogique, 5e année* (teacher guide) — Gabon, © EDIG/EDICEF 2024 (guide team led by Assengone Menvie Edith Olga épouse Kebila, Inspecteur Pédagogique). Title as printed: Super Efficace — Sciences, Guide pédagogique, 5e année, © EDIG/EDICEF 2024 (guide team led by Assengone Menvie Edith Olga épouse Kebila, Inspecteur Pédagogique). Grade 5. Teacher guide. Repo path: grade-05/gov/gabon/sciences/teacher/gabon-g05-sciences-teacher.pdf. Byte size: 1,435,808 (no size in record). PDF pages: 60. Offset: printed pp. 3–60 (sommaire: paliers at pp. 3–13, 14–24, 25–36, 37–47, 48–60). Verdict: COMPLETE — full text read (33,276 words); sommaire and lesson structure prove identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -251,3 +251,17 @@ Searchable tags: laos, lao pdr, natural sciences grade 6, science and environmen
 Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: eritrea, eritrea science, ministry of education eritrea, materials around us metal wood and what things are made of
+
+## Sri Lanka growth (2026-11-14, General Science expansion)
+
+**Book (Sri Lanka — Grade 6 New Science (Tamil medium, 1986)):** Title as printed: புதிய விஞ்ஞானம் (New Science), ஆண்டு 6 (Year 6). Publisher: Educational Publications Department, Sri Lanka (கல்வி வெளியீட்டுத் திணைக்களம்), first edition 1986, printed at the Ayurvedic press, Colombo; digitised by the Noolaham Foundation. PDF 128 pages, 30,261,052 bytes, image-only scan (read from page renders). Verdict: COMPLETE (Units 1–8, printed pp. 1–115 plus front matter). This is the older 1980s integrated curriculum, distinct in content and order from the modern Grade 6 book above — not a parallel edition of it. Twin records: TSV release record (mid-size-books-4) and books.json record grade-06/gov/sri-lanka/science/textbook/full-year-1986.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| metals and non-metals among everyday materials (G6 New Science 1986 (Tamil)) | Sri Lanka, *புதிய விஞ்ஞானம் (New Science), Grade 6*, printed p. 16 |
+
+**Acceptance count: taught in 13 countries (Guyana, India, Bulgaria, Moldova, Samoa, Afghanistan, Sudan, Bhutan, China, Syria, Laos, Eritrea, Sri Lanka).**
+
+Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: sri lanka, sri lanka science, materials around us metal wood and what things are made of

@@ -1,6 +1,6 @@
 # Sources — Energy — sources, and using energy wisely
 
-countries: Ethiopia, Argentina, Gabon (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Slovenia, Sudan, Fiji, Iraq, Kuwait, Yemen, Belarus, Bhutan, North Macedonia, Moldova, Vietnam, Libya, South Sudan, Mozambique, China, Cuba, Jordan, Mauritania, Greece, Pakistan (Punjab), Armenia, Vanuatu (teacher-guide evidence only), Ghana (curriculum evidence only), Costa Rica, Barbados (curriculum evidence only), India, Bahamas (curriculum evidence only), Egypt, Ecuador, Afghanistan, Venezuela, Angola, Syria, Laos
+countries: Ethiopia, Argentina, Gabon (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Slovenia, Sudan, Fiji, Iraq, Kuwait, Yemen, Belarus, Bhutan, North Macedonia, Moldova, Vietnam, Libya, South Sudan, Mozambique, China, Cuba, Jordan, Mauritania, Greece, Pakistan (Punjab), Armenia, Vanuatu (teacher-guide evidence only), Ghana (curriculum evidence only), Costa Rica, Barbados (curriculum evidence only), India, Bahamas (curriculum evidence only), Egypt, Ecuador, Afghanistan, Venezuela, Angola, Syria, Laos, Sri Lanka
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -439,3 +439,21 @@ Searchable tags: syria, syria science, ministry of education syria, nccd, energy
 Laos's own way in this lesson — as carried in the rows above, exactly as filed — is itself course content.
 
 Searchable tags: laos, lao pdr, natural sciences grade 9
+
+## Sri Lanka growth (2026-11-14, General Science expansion)
+
+**Book (Sri Lanka — Grade 6 Science (English medium)):** Title as printed: Science, Grade 6. Publisher: Educational Publications Department, Sri Lanka. First print 2014, sixth print 2019. ISBN 978-955-25-0079-4. PDF 190 pages, 16,555,739 bytes. Verdict: COMPLETE (Chapters 1–11, printed pp. 1–177 plus front matter). Twin records: TSV blob record grade-06/gov/sri-lanka/science/textbook/full-year.pdf and books.json record with the same file field are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+**Book (Sri Lanka — Grade 6 New Science (Tamil medium, 1986)):** Title as printed: புதிய விஞ்ஞானம் (New Science), ஆண்டு 6 (Year 6). Publisher: Educational Publications Department, Sri Lanka (கல்வி வெளியீட்டுத் திணைக்களம்), first edition 1986, printed at the Ayurvedic press, Colombo; digitised by the Noolaham Foundation. PDF 128 pages, 30,261,052 bytes, image-only scan (read from page renders). Verdict: COMPLETE (Units 1–8, printed pp. 1–115 plus front matter). This is the older 1980s integrated curriculum, distinct in content and order from the modern Grade 6 book above — not a parallel edition of it. Twin records: TSV release record (mid-size-books-4) and books.json record grade-06/gov/sri-lanka/science/textbook/full-year-1986.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| energy sources and their applications in day-to-day life (G6 Science (Eng)) | Sri Lanka, *Science, Grade 6*, printed p. 53 |
+| energy stored in running water (G6 New Science 1986 (Tamil)) | Sri Lanka, *புதிய விஞ்ஞானம் (New Science), Grade 6*, printed p. 104 |
+| work done by the wind (G6 New Science 1986 (Tamil)) | Sri Lanka, *புதிய விஞ்ஞானம் (New Science), Grade 6*, printed p. 106 |
+
+**Acceptance count: taught in 33 countries (Ethiopia, Argentina, Slovenia, Sudan, Fiji, Iraq, Kuwait, Yemen, Belarus, Bhutan, North Macedonia, Moldova, Vietnam, Libya, South Sudan, Mozambique, China, Cuba, Jordan, Mauritania, Greece, Pakistan (Punjab), Armenia, Costa Rica, India, Egypt, Ecuador, Afghanistan, Venezuela, Angola, Syria, Laos, Sri Lanka).**
+
+Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: sri lanka, sri lanka science, energy sources and using energy wisely

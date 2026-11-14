@@ -1,6 +1,6 @@
 # Sources — The daily motion of the Sun, Moon and stars
 
-countries: Mongolia, Vietnam, Albania (teacher-guide evidence only), United States, China, Laos
+countries: Mongolia, Vietnam, Albania (teacher-guide evidence only), United States, China, Laos, Sri Lanka
 
 **Book 1:** *Физик VII* (student textbook) — Mongolia. Title as printed: ФИЗИК VII — Ерөнхий боловсролын 12 жилийн сургуулийн 7 дугаар ангийн сурах бичиг (Grade 7 textbook of the 12-year general education school); authors M. Ganbat, B. Burmaa, Ts. Amartaivan et al.; Ministry of Education, Culture, Science and Sports approval; 2nd edition (Хоёр дахь хэвлэл) Grade: Grade 7 · student · recorded size 16,057,825 bytes — **download matched EXACTLY; pdfinfo 142 pages**. Route used: https://econtent.edu.mn/content/7rangi/fizik/fizik-291.pdf (beside the recorded flipbook page https://econtent.edu.mn/pages/more.php?id=291, whose viewer config lists the same 142 page images). Verdict: COMPLETE (full text read; contents at PDF p. 5, body sampled throughout). Phantom-push debt, on the record: this book is recorded as pushed in books.json/push-state with the exact byte size above, but no file exists in the GitHub textbooks repo — it was read from the ministry source econtent.edu.mn at that exact recorded byte size, and the repo copy still needs re-securing from that source. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/mongolia-placements.md.
 
@@ -87,3 +87,24 @@ Searchable tags: china, china science, pep, people's education press, the daily 
 Laos's own way in this lesson — as carried in the rows above, exactly as filed — is itself course content.
 
 Searchable tags: laos, lao pdr, science and environment grade 1
+
+## Sri Lanka growth (2026-11-14, General Science expansion)
+
+**Book (Sri Lanka — Grade 8 Science Part 2 (English medium)):** Title as printed: Science Part – II, Grade 8. Publisher: Educational Publications Department, Sri Lanka. First print 2016, fourth print 2019. ISBN 978-955-25-0133-3. PDF 152 pages, 19,865,511 bytes. Verdict: COMPLETE for Part 2 (Chapters 9–15, printed pp. 1–141, pagination restarting at 1). Twin records: TSV blob record and books.json record grade-08/gov/sri-lanka/science/textbook/part-2.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+**Book (Sri Lanka — Grade 6 New Science (Tamil medium, 1986)):** Title as printed: புதிய விஞ்ஞானம் (New Science), ஆண்டு 6 (Year 6). Publisher: Educational Publications Department, Sri Lanka (கல்வி வெளியீட்டுத் திணைக்களம்), first edition 1986, printed at the Ayurvedic press, Colombo; digitised by the Noolaham Foundation. PDF 128 pages, 30,261,052 bytes, image-only scan (read from page renders). Verdict: COMPLETE (Units 1–8, printed pp. 1–115 plus front matter). This is the older 1980s integrated curriculum, distinct in content and order from the modern Grade 6 book above — not a parallel edition of it. Twin records: TSV release record (mid-size-books-4) and books.json record grade-06/gov/sri-lanka/science/textbook/full-year-1986.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+**Book (Sri Lanka — Grade 9 Teacher's Instructional Manual, NIE 2010 (English / Sinhala / Tamil parallel editions)):** Title as printed: Science, Grade 9, Teacher's Instructional Manual (Implemented in 2010). Publisher: Department of Science, Health and Physical Education, Faculty of Science and Technology, National Institute of Education, Sri Lanka. English PDF 268 pages, 2,976,743 bytes; Sinhala PDF 264 pages, 2,251,364 bytes; Tamil PDF 302 pages, 2,134,270 bytes (page counts differ by language typesetting; covers, title pages and competency structure verified the same manual). Verdict: COMPLETE — a full lesson-by-lesson manual for the older (2010) Grade 9 syllabus, whose unit order and several units differ from the 2018 syllabus, so its distinct general-science guidance is placed below; units that duplicate Book 5 / Book 7 content in substance are not re-placed. Records: books.json science-2010-english.pdf, s9tim16-sinhala.pdf, science-2010-tamil.pdf — cited once here as parallel editions. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| constellations (G8 Science Part 2 (Eng)) | Sri Lanka, *Science Part – II, Grade 8*, printed p. 118 |
+| the stars (G6 New Science 1986 (Tamil)) | Sri Lanka, *புதிய விஞ்ஞானம் (New Science), Grade 6*, printed p. 114 |
+| guide evidence: identifying constellations (G9 TG 2010 (Eng/Si/Ta)) | Sri Lanka, *Science, Grade 9, Teacher's Instructional Manual (Implemented in 2010)*, competency 2.2 |
+
+**Acceptance count: taught in 6 countries (Mongolia, Vietnam, United States, China, Laos, Sri Lanka).**
+The teacher-guide rows above are guide evidence, carried as filed; the count rises on the student books above, not on the guides.
+
+Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: sri lanka, sri lanka science, the daily motion of the sun moon and stars

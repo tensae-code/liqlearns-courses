@@ -1,6 +1,6 @@
 # Sources — Gases in the air — oxygen and carbon dioxide
 
-countries: Seychelles, Syria
+countries: Seychelles, Syria, Sri Lanka
 
 **Book (Seychelles — Unit 2: Air and Weather (P7)):** *Seychelles Integrated Science — Air and Weather*, Unit 2 (student booklet + teaching notes combined, ERIC scan) — Seychelles, Science Section, National Institute of Pedagogy, Ministry of Education and Information, 1983 programme. Grade: P7 (Grade 7). Records: TSV release record and books.json `grade-07/gov/seychelles/integrated-science/student/unit-02-air-and-weather.pdf` — same book, cited once. Size verified 7,038,795 bytes = record size_bytes; PDF 55 pages = record pages. Verdict: COMPLETE (teaching notes for Topics 1–7 + Project, and full pupil booklet present). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/seychelles-placements.md.
 
@@ -32,3 +32,20 @@ Placement choice, on the record: placement filed as NEW LESSON NEEDED — gases-
 Syria's own way — its Ministry of Education science books (كتاب العلوم), in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own semester and unit order, with Syria's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: syria, syria science, ministry of education syria, nccd, gases in the air oxygen and carbon dioxide
+
+## Sri Lanka growth (2026-11-14, General Science expansion)
+
+**Book (Sri Lanka — Grade 9 New Science (Tamil medium, 1996)):** Title as printed: புதிய விஞ்ஞானம் (New Science), 9 ஆம் ஆண்டு (Year 9). Publisher: Educational Publications Department, Sri Lanka; first edition 1988, tenth edition 1996; digitised by the Noolaham Foundation. PDF 280 pages, 61,227,888 bytes, image-only scan (read from page renders). Verdict: COMPLETE (Chapters 1–14, printed pp. 1–256, plus syllabus appendix). Older integrated curriculum, distinct from the modern Grade 9 book and guides above. Twin records: TSV release record (mid-size-books-5) and books.json record grade-09/gov/sri-lanka/science/textbook/full-year-1996.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| oxygen: its properties and uses (G9 New Science 1996 (Tamil)) (placement filed as NEW LESSON NEEDED — oxygen-and-carbon-dioxide; this lesson already exists and covers that thing, so the placement stocks into it and the original slug is recorded here) | Sri Lanka, *புதிய விஞ்ஞானம் (New Science), Grade 9*, printed pp. 16–21 |
+| carbon dioxide: its properties and uses (G9 New Science 1996 (Tamil)) (placement filed as NEW LESSON NEEDED — oxygen-and-carbon-dioxide; this lesson already exists and covers that thing, so the placement stocks into it and the original slug is recorded here) | Sri Lanka, *புதிய விஞ்ஞானம் (New Science), Grade 9*, printed pp. 22–24 |
+
+**Acceptance count: taught in 3 countries (Seychelles, Syria, Sri Lanka).**
+
+Placement choice, on the record: the Sri Lanka placement(s) above filed as NEW LESSON NEEDED — oxygen-and-carbon-dioxide — sri-lanka-placements.md — are stocked into this existing lesson, which already covers that thing as its own lesson, so no second lesson was built for them; the original slug is recorded in each row above.
+
+Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: sri lanka, sri lanka science, gases in the air oxygen and carbon dioxide

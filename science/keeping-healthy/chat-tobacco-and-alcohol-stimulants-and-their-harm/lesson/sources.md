@@ -1,6 +1,6 @@
 # Sources — Chat, tobacco and alcohol: stimulants and their harm
 
-countries: Ethiopia, Jamaica (curriculum-guide evidence only), Gabon (teacher-guide evidence only), Egypt, Cambodia, Seychelles, Afghanistan, Cabo Verde (teacher-guide evidence only), Angola
+countries: Ethiopia, Jamaica (curriculum-guide evidence only), Gabon (teacher-guide evidence only), Egypt, Cambodia, Seychelles, Afghanistan, Cabo Verde (teacher-guide evidence only), Angola, Sri Lanka
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -150,3 +150,17 @@ Searchable tags: cabo verde, ciencias integradas, atividades cientificas, minist
 Angola's own way — *Ciências da Natureza* (Grades 5–6) is Angola's nature-science book: the same child who met the world whole in *Estudo do Meio* now meets air, water, soil, energy and the body as nature science, in the order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: angola, ciências da natureza 6, grade 6
+
+## Sri Lanka growth (2026-11-14, General Science expansion)
+
+**Book (Sri Lanka — Grade 10 New Science (Tamil medium, 1998)):** Title as printed: புதிய விஞ்ஞானம் 10 (New Science 10), 10 ஆம் ஆண்டு (Year 10). Publisher: Educational Publications Department, Sri Lanka; first edition 1986, thirteenth edition 1998; digitised by the Noolaham Foundation. PDF as downloaded 56,290,176 bytes with a broken cross-reference structure (repaired with Ghostscript before reading; content pages verified against the printed contents); repaired PDF 336 pages, image-only scan (read from page renders). Verdict: COMPLETE (Chapters 1–16, printed pp. 1–258 plus front matter). This is the senior GCE O/L integrated book of the older curriculum; most of its chapters are pure Physics / Chemistry / Biology in treatment and are named as split-subject lines below. Twin records: TSV release record (mid-size-books-5) and books.json record grade-10/gov/sri-lanka/science/textbook/full-year-1998.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| diseases of the respiratory system, including how smoking harms it (G10 New Science 1998 (Tamil)) | Sri Lanka, *புதிய விஞ்ஞானம் (New Science 10)*, printed pp. 108–109 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Egypt, Cambodia, Afghanistan, Angola, Sri Lanka).**
+
+Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: sri lanka, sri lanka science, chat tobacco and alcohol stimulants and their harm

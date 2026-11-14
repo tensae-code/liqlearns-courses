@@ -1,6 +1,6 @@
 # Sources — Things that block light, and shadows
 
-countries: Ethiopia, Gabon (teacher-guide evidence only), Slovenia, Morocco (teacher-guide evidence only), Uganda, Kenya, North Macedonia, Moldova, South Sudan, Mozambique, Mauritania, Zambia (teacher-module evidence only), Albania (teacher-guide evidence only), Mongolia, India, Pakistan (Punjab), Ecuador, Afghanistan, Cabo Verde (teacher-guide evidence only), Sudan, Angola, Bhutan, Kuwait, China, Syria, Laos, Eritrea
+countries: Ethiopia, Gabon (teacher-guide evidence only), Slovenia, Morocco (teacher-guide evidence only), Uganda, Kenya, North Macedonia, Moldova, South Sudan, Mozambique, Mauritania, Zambia (teacher-module evidence only), Albania (teacher-guide evidence only), Mongolia, India, Pakistan (Punjab), Ecuador, Afghanistan, Cabo Verde (teacher-guide evidence only), Sudan, Angola, Bhutan, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -316,3 +316,17 @@ Searchable tags: laos, lao pdr, science and environment grade 3, science and env
 Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: eritrea, eritrea science, ministry of education eritrea, things that block light and shadows
+
+## Sri Lanka growth (2026-11-14, General Science expansion)
+
+**Book (Sri Lanka — Grade 7 Science Part 1 (English medium)):** Title as printed: Science Part – I, Grade 7. Publisher: Educational Publications Department, Sri Lanka. First print 2015, fifth print 2019. ISBN 978-955-25-0106-7. PDF 160 pages, 6,071,745 bytes. Verdict: COMPLETE for Part 1 (Chapters 1–10, printed pp. 1–149); Part 2 of Grade 7 is not among the target records — library debt, see group log. Twin records: TSV blob record and books.json record grade-07/gov/sri-lanka/science/textbook/part-1.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| formation of umbra and penumbra shadows (G7 Science Part 1 (Eng)) | Sri Lanka, *Science Part – I, Grade 7*, printed p. 115 |
+
+**Acceptance count: taught in 23 countries (Ethiopia, Slovenia, Uganda, Kenya, North Macedonia, Moldova, South Sudan, Mozambique, Mauritania, Mongolia, India, Pakistan (Punjab, Eritrea, Sri Lanka).**
+
+Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: sri lanka, sri lanka science, things that block light and shadows

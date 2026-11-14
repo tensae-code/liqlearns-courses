@@ -1,6 +1,6 @@
 # Sources — Measuring temperature, rain and wind
 
-countries: Ethiopia, Italy, Vanuatu (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Uganda, Bulgaria, Armenia, Egypt, Seychelles, Ecuador, Venezuela, China, Laos, Eritrea
+countries: Ethiopia, Italy, Vanuatu (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Uganda, Bulgaria, Armenia, Egypt, Seychelles, Ecuador, Venezuela, China, Laos, Eritrea, Sri Lanka
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -216,3 +216,17 @@ Searchable tags: laos, lao pdr, natural sciences grade 7, science and environmen
 Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: eritrea, eritrea science, ministry of education eritrea, measuring temperature rain and wind
+
+## Sri Lanka growth (2026-11-14, General Science expansion)
+
+**Book (Sri Lanka — Grade 6 Science (English medium)):** Title as printed: Science, Grade 6. Publisher: Educational Publications Department, Sri Lanka. First print 2014, sixth print 2019. ISBN 978-955-25-0079-4. PDF 190 pages, 16,555,739 bytes. Verdict: COMPLETE (Chapters 1–11, printed pp. 1–177 plus front matter). Twin records: TSV blob record grade-06/gov/sri-lanka/science/textbook/full-year.pdf and books.json record with the same file field are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| studying weather data: temperature, rainfall and humidity tables for Sri Lankan towns (G6 Science (Eng)) | Sri Lanka, *Science, Grade 6*, printed p. 161 |
+
+**Acceptance count: taught in 13 countries (Ethiopia, Italy, Mongolia, Uganda, Bulgaria, Armenia, Egypt, Ecuador, Venezuela, China, Laos, Eritrea, Sri Lanka).**
+
+Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: sri lanka, sri lanka science, measuring temperature rain and wind
