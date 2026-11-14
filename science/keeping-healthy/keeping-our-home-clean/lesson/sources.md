@@ -1,6 +1,6 @@
 # Sources — Keeping our home clean
 
-countries: Ethiopia, Uganda, Afghanistan, Venezuela, Angola
+countries: Ethiopia, Uganda, Afghanistan, Venezuela, Angola, Syria
 
 **Book 1:** *አካባቢ ሳይንስ አንድኛ ክፍል የመምህር መምሪያ መጽሐፍ — Environmental Science Teacher Guide, Grade 1* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. TRUNCATED scan: the file holds printed pp. 1–54 (Units 1–3); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-teacher-placements.md
 
@@ -82,3 +82,17 @@ Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, keeping-
 Angola's own way — *Estudo do Meio* (Grades 1–4) is Angola's integrated studies book (science, health, family, school and the local environment as one subject), and *Ciências da Natureza* (Grades 5–6) carries the same child into nature science — the rows above follow each book's own order — is itself course content, carried exactly as filed.
 
 Searchable tags: angola, ciências da natureza 5, estudo do meio 1, estudo do meio 2, grade 1, grade 2, grade 5
+
+## Syria growth (2026-11-14, General Science expansion)
+
+**Book (Syria — Science Grade 1, Semester 2 (student book)):** Title as printed: كتاب العلوم /1/ — الصف الأول الأساسي — الفصل الثاني (Science Book 1, First Basic Grade, Second Semester) Grade: 1, student book. Publisher: Syrian Arab Republic, Ministry of Education and Teaching / National Centre for Curriculum Development, school year 2025–2026. No ISBN printed on the pages read. Records: books.json `grade-01/gov/syria/science/student/semester-2.pdf`, on_disk=false, in_pushed=true — fetched via the mid-size-books release asset (tree route 404; release asset size matches the record exactly). Size verified 75,890,874 bytes = record size_bytes; PDF 72 pages = record pages. Verdict: COMPLETE (contents through the Unit 2 project, printed p. 71). The same file was also downloaded and staged by the links wave from the record's Wayback capture of the ministry PDF (same bytes and pages) and placed lesson by lesson by a second reader; the two readers' placements are stocked together in this merge, with placements of the same book lesson into the same lesson deduped to a single row (see the merge log). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/syria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| my beautiful world, I love it to be…: my tasks at school and at home that keep my health and my family's health (Syria G1S2) | Syria, *Science Book 1, First Basic Grade, Second Semester*, printed pp. 46–49 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Uganda, Afghanistan, Venezuela, Angola, Syria).**
+
+Syria's own way — its Ministry of Education science books (كتاب العلوم), in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own semester and unit order, with Syria's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: syria, syria science, ministry of education syria, nccd, keeping our home clean

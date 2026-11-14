@@ -1,6 +1,6 @@
 # Sources — How animals move — swim, walk, fly
 
-countries: Sudan, Mauritania, Kuwait
+countries: Sudan, Mauritania, Kuwait, Syria
 
 **Book (Sudan — Grade 4):** Title as printed: العلوم الطبيعية ٤ (Natural Sciences 4), primary stage. Publisher: Republic of Sudan, Ministry of Education, National Centre for Curricula and Educational Research — Bakht al-Ruda (المركز القومي للمناهج والبحث التربوي – بخت الرضا). No ISBN on the pages read. Student book, Arabic. Source: external link — staged under the 2026-11-13 rule Record: links-wave download from the record's Google Drive link; 23,042,366 bytes, PDF 97 pages (= the books.json record's 97 pages). Staged at phase3-staging/grade-04/gov/sudan/science/student/full-year.pdf (books.json record updated with size/pages). Verdict: COMPLETE (contents PDF pp. 4–5, eight units, through printed p. 90). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sudan-placements.md.
 
@@ -43,3 +43,19 @@ Searchable tags: ipn, mauritania, sciences naturelles, sn 4af, svt
 Kuwait's own way — its Ministry of Education *Science* (العلوم) books, in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own unit order (life sciences, the human body, then matter and energy in the primary years; branch-built units with the 5E learning cycle and STEAM inquiry projects in the intermediate years) — is itself course content, carried exactly as filed.
 
 Searchable tags: kuwait, aloom, ministry of education kuwait, how animals move swim walk fly
+
+## Syria growth (2026-11-14, General Science expansion)
+
+**Book (Syria — Science Grade 2, Semester 2 (student book)):** Title as printed: كتاب العلوم /2/ — الصف الثاني الأساسي — الفصل الثاني (Science Book 2, Second Basic Grade, Second Semester; Units 3–4) Grade: 2, student book. Publisher: Syrian Arab Republic, Ministry of Education and Teaching / National Centre for Curriculum Development, school year 2025–2026. No ISBN printed on the pages read. Records: books.json `grade-02/gov/syria/science/student/semester-2.pdf`, on_disk=false, in_pushed=true — fetched via the mid-size-books release asset (size matches the record exactly). Size verified 87,990,498 bytes = record size_bytes; PDF 100 pages = record pages. Verdict: COMPLETE (contents through the final lesson, printed p. 88, with unit activities/projects closing the book). The same file was also downloaded and staged by the links wave from the record's Wayback capture of the ministry PDF (same bytes and pages) and placed lesson by lesson by a second reader; the two readers' placements are stocked together in this merge, with placements of the same book lesson into the same lesson deduped to a single row (see the merge log). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/syria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| it walks… it jumps… it swims: ways animals move about (التنقل) (Syria G2S2) (placement filed as NEW LESSON NEEDED — how-animals-move-walking-jumping-swimming-flying; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) | Syria, *Science Book 2, Second Basic Grade, Second Semester*, printed pp. 54–59 |
+
+**Acceptance count: taught in 4 countries (Sudan, Mauritania, Kuwait, Syria).**
+
+Placement choice, on the record: placement filed as NEW LESSON NEEDED — how-animals-move-walking-jumping-swimming-flying; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here.
+
+Syria's own way — its Ministry of Education science books (كتاب العلوم), in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own semester and unit order, with Syria's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: syria, syria science, ministry of education syria, nccd, how animals move swim walk fly

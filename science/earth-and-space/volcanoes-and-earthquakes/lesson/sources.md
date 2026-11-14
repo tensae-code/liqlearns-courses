@@ -1,6 +1,6 @@
 # Sources — Volcanoes and earthquakes
 
-countries: Australia, Gabon (teacher-guide evidence only), Cambodia, Cabo Verde (teacher-guide evidence only), Mauritania, Kuwait, China
+countries: Australia, Gabon (teacher-guide evidence only), Cambodia, Cabo Verde (teacher-guide evidence only), Mauritania, Kuwait, China, Syria
 
 **Book 1:** *Pearson Science 9, 2nd Edition (Australian Curriculum), Student Book* (student book) — Australia, Pearson Australia, first published 2016, © Pearson Australia 2017. Title as printed: Pearson Science 9, 2nd Edition (Australian Curriculum), Student Book. Grade: 9, student book · PDF pages: 485 (verified: byte size 91,801,564; cover and contents pages match the record title; the PDF runs past the printed index into the publisher's eBook end-matter) · Verdict: COMPLETE. Scope note, carried as filed: this book's Chapter 2 (Materials) and Chapter 3 (Reaction types) are Chemistry chapters, Chapter 6 (Electricity) is a Physics chapter and Chapter 7 (Body coordination) is a Biology chapter — record-only under the wave scope rule, covered by the earlier split-subject waves; only the general-science chapters are placed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/australia-placements.md.
 
@@ -121,3 +121,19 @@ Placement choice, on the record: the China placement(s) above filed as NEW LESSO
 China's own way — its 科学 (Science) textbooks teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with China's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: china, china science, pep, people's education press, volcanoes and earthquakes
+
+## Syria growth (2026-11-14, General Science expansion)
+
+**Book (Syria — Science Grade 5, Part 2 (student book)):** Title as printed: كتاب العلوم — الصف الخامس الأساسي — الجزء الثاني (Science Book, Fifth Basic Grade, Part Two; Units 5–7) Grade: 5, student book. Publisher: Syrian Arab Republic, Ministry of Education and Teaching, school year 2025–2026. No ISBN printed on the pages read. Records: TSV release record and books.json `grade-05/gov/syria/science/student/part-2.pdf`, on_disk=true — same book, cited once, read in place at phase3-staging. Size verified 44,029,863 bytes = record size_bytes; PDF 108 pages = record pages. Verdict: COMPLETE (contents through the final worksheet/projects, printed p. 105). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/syria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the flaming cone: building a volcano model (plaster, a plastic bottle, bicarbonate of soda and dish liquid) and hot springs (Syria G5P2) (placement filed as NEW LESSON NEEDED — volcanoes-and-hot-springs; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) | Syria, *Science Book, Fifth Basic Grade, Part Two*, printed pp. 78–83 |
+
+**Acceptance count: taught in 6 countries (Australia, Cambodia, Mauritania, Kuwait, China, Syria).**
+
+Placement choice, on the record: placement filed as NEW LESSON NEEDED — volcanoes-and-hot-springs; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here.
+
+Syria's own way — its Ministry of Education science books (كتاب العلوم), in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own semester and unit order, with Syria's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: syria, syria science, ministry of education syria, nccd, volcanoes and earthquakes

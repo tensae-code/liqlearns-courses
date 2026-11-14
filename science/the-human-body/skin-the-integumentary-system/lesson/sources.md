@@ -1,6 +1,6 @@
 # Sources — Skin — the integumentary system
 
-countries: Ethiopia, Barbados (curriculum evidence only), Moldova, Seychelles, Cabo Verde, Sudan, Mauritania, Angola
+countries: Ethiopia, Barbados (curriculum evidence only), Moldova, Seychelles, Cabo Verde, Sudan, Mauritania, Angola, Syria
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank as printed (printed “ISBN No –”). PDF 241 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -106,3 +106,18 @@ Searchable tags: ipn, mauritania, sciences naturelles, sn 5af, svt
 Angola's own way — *Estudo do Meio* (Grades 1–4) is Angola's integrated studies book: science, health, family, school and the local environment taught as one subject, so one grade book carries body, food, home, plants and animals side by side, in the order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: angola, estudo do meio 4, grade 4
+
+## Syria growth (2026-11-14, General Science expansion)
+
+**Book (Syria — Science Grade 6, Semester 1 (student book)):** Title as printed: كتاب العلوم — الصف السادس الأساسي — الفصل الأول (Science Book, Sixth Basic Grade, First Semester) Grade: 6, student book. Publisher: Syrian Arab Republic, Ministry of Education and Teaching / National Centre for Curriculum Development, school year 2025–2026 (first printed 2019–2020). No ISBN printed on the pages read. Records: TSV release record and books.json `grade-06/gov/syria/science/student/semester-1.pdf`, on_disk=true — same book, cited once, read in place at phase3-staging. Size verified 87,322,161 bytes = record size_bytes; PDF 120 pages = record pages. Verdict: COMPLETE (contents through the final worksheet/projects, printed p. 119). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/syria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| my protective garment: the skin and the marks studied on it (Syria G6S1) | Syria, *Science Book, Sixth Basic Grade, First Semester*, printed pp. 70–75 |
+| the health of my protective garment: caring for the skin (Syria G6S1) | Syria, *Science Book, Sixth Basic Grade, First Semester*, printed pp. 76–79 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Moldova, Seychelles, Cabo Verde, Sudan, Mauritania, Angola, Syria).**
+
+Syria's own way — its Ministry of Education science books (كتاب العلوم), in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own semester and unit order, with Syria's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: syria, syria science, ministry of education syria, nccd, skin the integumentary system

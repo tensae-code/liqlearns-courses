@@ -1,6 +1,6 @@
 # Sources — Food chains, food webs and energy pyramids
 
-countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Canada (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Serbia, Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Bulgaria, Greece, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Armenia, Cuba, Samoa, Egypt, Cambodia, Seychelles, Ecuador, Cabo Verde, Sudan, Venezuela, Mauritania, Bhutan, Dominican Republic, Kuwait, China
+countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Canada (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Serbia, Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Bulgaria, Greece, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Armenia, Cuba, Samoa, Egypt, Cambodia, Seychelles, Ecuador, Cabo Verde, Sudan, Venezuela, Mauritania, Bhutan, Dominican Republic, Kuwait, China, Syria
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -449,3 +449,29 @@ Searchable tags: kuwait, aloom, ministry of education kuwait, food chains food w
 China's own way — its 科学 (Science) textbooks teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with China's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: china, china science, pep, people's education press, food chains food webs and energy pyramids
+
+## Syria growth (2026-11-14, General Science expansion)
+
+**Book (Syria — Science Grade 3, Semester 1 (student book)):** Title as printed: كتاب العلوم /3/ — الصف الثالث الأساسي — الفصل الأول (Science Book 3, Third Basic Grade, First Semester) Grade: 3, student book. Publisher: Syrian Arab Republic, Ministry of Education and Teaching / National Centre for Curriculum Development, school year 2025–2026. No ISBN printed on the pages read. Records: TSV release record and books.json `grade-03/gov/syria/science/student/semester-1.pdf`, on_disk=true — same book, cited once, read in place at phase3-staging. Size verified 113,352,168 bytes = record size_bytes; PDF 96 pages = record pages. Verdict: COMPLETE (contents through the final lesson, printed p. 87, with unit activities closing the 96-page PDF). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/syria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the food chain: producer, first consumer and second consumer (Syria G3S1) | Syria, *Science Book 3, Third Basic Grade, First Semester*, printed pp. 15–20 |
+
+**Book (Syria — Science Grade 2, Semester 2 (student book)):** Title as printed: كتاب العلوم /2/ — الصف الثاني الأساسي — الفصل الثاني (Science Book 2, Second Basic Grade, Second Semester; Units 3–4) Grade: 2, student book. Publisher: Syrian Arab Republic, Ministry of Education and Teaching / National Centre for Curriculum Development, school year 2025–2026. No ISBN printed on the pages read. Records: books.json `grade-02/gov/syria/science/student/semester-2.pdf`, on_disk=false, in_pushed=true — fetched via the mid-size-books release asset (size matches the record exactly). Size verified 87,990,498 bytes = record size_bytes; PDF 100 pages = record pages. Verdict: COMPLETE (contents through the final lesson, printed p. 88, with unit activities/projects closing the book). The same file was also downloaded and staged by the links wave from the record's Wayback capture of the ministry PDF (same bytes and pages) and placed lesson by lesson by a second reader; the two readers' placements are stocked together in this merge, with placements of the same book lesson into the same lesson deduped to a single row (see the merge log). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/syria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| food chains: the food chain, producer, consumer and prey (Syria G2S2) | Syria, *Science Book 2, Second Basic Grade, Second Semester*, printed pp. 81–87 |
+
+**Book (Syria — Science Grade 6, Semester 1 (student book)):** Title as printed: كتاب العلوم — الصف السادس الأساسي — الفصل الأول (Science Book, Sixth Basic Grade, First Semester) Grade: 6, student book. Publisher: Syrian Arab Republic, Ministry of Education and Teaching / National Centre for Curriculum Development, school year 2025–2026 (first printed 2019–2020). No ISBN printed on the pages read. Records: TSV release record and books.json `grade-06/gov/syria/science/student/semester-1.pdf`, on_disk=true — same book, cited once, read in place at phase3-staging. Size verified 87,322,161 bytes = record size_bytes; PDF 120 pages = record pages. Verdict: COMPLETE (contents through the final worksheet/projects, printed p. 119). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/syria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| nature's puzzle: the food web (الشبكة الغذائية) (Syria G6S1) | Syria, *Science Book, Sixth Basic Grade, First Semester*, printed pp. 15–19 |
+
+**Acceptance count: taught in 23 countries (Ethiopia, Serbia, Mongolia, Bulgaria, Greece, United States, Pakistan (Punjab), Armenia, Cuba, Samoa, Egypt, Cambodia, Seychelles, Ecuador, Cabo Verde, Sudan, Venezuela, Mauritania, Bhutan, Dominican Republic, Kuwait, China, Syria).**
+
+Syria's own way — its Ministry of Education science books (كتاب العلوم), in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own semester and unit order, with Syria's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: syria, syria science, ministry of education syria, nccd, food chains food webs and energy pyramids

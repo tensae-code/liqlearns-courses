@@ -1,6 +1,6 @@
 # Sources — Sound — vibration, volume and pitch
 
-countries: Ethiopia, Zambia (teacher-module evidence only), Finland, Papua New Guinea (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Bahamas (curriculum evidence only), Fiji, United States, Cambodia (private-booklet evidence only), Uzbekistan, North Macedonia, Moldova, Vietnam, Cuba, Kazakhstan, Australia, Serbia, Guyana, Barbados (curriculum evidence only), India, Pakistan (Punjab), Samoa, Ecuador, Afghanistan, Cabo Verde (teacher-guide evidence only), Sudan, Bhutan, Dominican Republic, Kuwait, China
+countries: Ethiopia, Zambia (teacher-module evidence only), Finland, Papua New Guinea (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Bahamas (curriculum evidence only), Fiji, United States, Cambodia (private-booklet evidence only), Uzbekistan, North Macedonia, Moldova, Vietnam, Cuba, Kazakhstan, Australia, Serbia, Guyana, Barbados (curriculum evidence only), India, Pakistan (Punjab), Samoa, Ecuador, Afghanistan, Cabo Verde (teacher-guide evidence only), Sudan, Bhutan, Dominican Republic, Kuwait, China, Syria
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -318,3 +318,29 @@ Searchable tags: kuwait, aloom, ministry of education kuwait, sound vibration vo
 China's own way — its 科学 (Science) textbooks teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with China's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: china, china science, pep, people's education press, sound vibration volume and pitch
+
+## Syria growth (2026-11-14, General Science expansion)
+
+**Book (Syria — Science Grade 2, Semester 1 (student book)):** Title as printed: كتاب العلوم /2/ — الصف الثاني الأساسي — الفصل الأول (Science Book 2, Second Basic Grade, First Semester) Grade: 2, student book. Publisher: Syrian Arab Republic, Ministry of Education and Teaching / National Centre for Curriculum Development, school year 2025–2026 (first printed 2018–2019). No ISBN printed on the pages read. Records: books.json `grade-02/gov/syria/science/student/semester-1.pdf`, on_disk=true, read in place at phase3-staging. Size verified 96,926,896 bytes = record size_bytes; PDF 96 pages = record pages. Verdict: COMPLETE (contents to the Unit 2 project, printed p. 95, PDF 96 pp.). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/syria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| my voice changes: loudness of sound, the rough (low) voice and the thin (high) voice (Syria G2S1) | Syria, *Science Book 2, Second Basic Grade, First Semester*, printed pp. 39–44 |
+
+**Book (Syria — Science Grade 1, Semester 2 (student book)):** Title as printed: كتاب العلوم /1/ — الصف الأول الأساسي — الفصل الثاني (Science Book 1, First Basic Grade, Second Semester) Grade: 1, student book. Publisher: Syrian Arab Republic, Ministry of Education and Teaching / National Centre for Curriculum Development, school year 2025–2026. No ISBN printed on the pages read. Records: books.json `grade-01/gov/syria/science/student/semester-2.pdf`, on_disk=false, in_pushed=true — fetched via the mid-size-books release asset (tree route 404; release asset size matches the record exactly). Size verified 75,890,874 bytes = record size_bytes; PDF 72 pages = record pages. Verdict: COMPLETE (contents through the Unit 2 project, printed p. 71). The same file was also downloaded and staged by the links wave from the record's Wayback capture of the ministry PDF (same bytes and pages) and placed lesson by lesson by a second reader; the two readers' placements are stocked together in this merge, with placements of the same book lesson into the same lesson deduped to a single row (see the merge log). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/syria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the journey of sound: how sound reaches us, loudness of sound and vibratory movement; making things produce sound and matching imitated sounds to pictures (Syria G1S2) | Syria, *Science Book 1, First Basic Grade, Second Semester*, printed pp. 34–41 |
+
+**Book (Syria — Science Grade 5, Part 2 (student book)):** Title as printed: كتاب العلوم — الصف الخامس الأساسي — الجزء الثاني (Science Book, Fifth Basic Grade, Part Two; Units 5–7) Grade: 5, student book. Publisher: Syrian Arab Republic, Ministry of Education and Teaching, school year 2025–2026. No ISBN printed on the pages read. Records: TSV release record and books.json `grade-05/gov/syria/science/student/part-2.pdf`, on_disk=true — same book, cited once, read in place at phase3-staging. Size verified 44,029,863 bytes = record size_bytes; PDF 108 pages = record pages. Verdict: COMPLETE (contents through the final worksheet/projects, printed p. 105). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/syria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the journey of sound: sound as a means of communication in the life of humans and animals (Syria G5P2) | Syria, *Science Book, Fifth Basic Grade, Part Two*, printed pp. 62–65 |
+
+**Acceptance count: taught in 24 countries (Ethiopia, Finland, Fiji, United States, Uzbekistan, North Macedonia, Moldova, Vietnam, Cuba, Kazakhstan, Australia, Serbia, Guyana, India, Pakistan (Punjab), Samoa, Ecuador, Afghanistan, Sudan, Bhutan, Dominican Republic, Kuwait, China, Syria).**
+
+Syria's own way — its Ministry of Education science books (كتاب العلوم), in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own semester and unit order, with Syria's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: syria, syria science, ministry of education syria, nccd, sound vibration volume and pitch

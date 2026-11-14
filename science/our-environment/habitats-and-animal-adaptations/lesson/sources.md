@@ -1,6 +1,6 @@
 # Sources — Habitats — where a living thing lives
 
-countries: Guatemala (teacher-guide evidence only), Albania (teacher-guide evidence only), Guyana, Mongolia, India, Seychelles, Angola, Bhutan, Dominican Republic
+countries: Guatemala (teacher-guide evidence only), Albania (teacher-guide evidence only), Guyana, Mongolia, India, Seychelles, Angola, Bhutan, Dominican Republic, Syria
 
 **Book 1:** *Ciencias Naturales I — Guía de orientaciones metodológicas para docentes, Primero Básico* (teacher guide) — Guatemala, Ministerio de Educación (MINEDUC), Guatemala. Title as printed: Ciencias Naturales I, Guía de orientaciones metodológicas, Para docentes de primero básico. Publisher: Ministerio de Educación (MINEDUC), Guatemala. Grade: Primero Básico (Grade 7), teacher guide ("Guía de orientaciones metodológicas para docentes" — methodological orientations guide for teachers). Fetched copy: 12,813,442 bytes, PDF 88 pages. Verdict: COMPLETE (4 learning experiences). TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/guatemala-placements.md.
 
@@ -134,3 +134,25 @@ Searchable tags: bhutan, bhutan science, science class iv, science class v, scie
 Dominican Republic's own way — its *Libro Abierto* Ciencias de la Naturaleza books (MINERD, Serie 1 Proyecto Libro Abierto) teach this thing at the places and in the order named in the rows above, with the country's own examples where the rows name them (Hispaniola, the island's coasts and its tropical climate among them) — is itself course content, carried exactly as filed.
 
 Searchable tags: dominican republic, ciencias de la naturaleza, minerd, libro abierto, habitats and animal adaptations
+
+## Syria growth (2026-11-14, General Science expansion)
+
+**Book (Syria — Science Grade 1, Semester 1 (student book)):** Title as printed: كتاب العلوم /1/ — الصف الأول الأساسي — الفصل الأول (Science Book 1, First Basic Grade, First Semester) Grade: 1, student book. Publisher: Syrian Arab Republic, Ministry of Education and Teaching / National Centre for Curriculum Development (المركز الوطني لتطوير المناهج التربوية), school year 2025–2026 (first printed 2017–2018). No ISBN printed on the pages read. Records: books.json `grade-01/gov/syria/science/student/semester-1.pdf`, on_disk=true, read in place at phase3-staging. Size verified 71,905,166 bytes = record size_bytes; PDF 84 pages = record pages. Verdict: COMPLETE (cover to final unit project, printed pp. 1–84). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/syria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| where we live: the environment is everything around us, divided into land and water environments, hot or cold; living things find food, water, air, warmth, light and soil there (Syria G1S1) (placement filed as NEW LESSON NEEDED — land-and-water-environments-where-things-live; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) | Syria, *Science Book 1, First Basic Grade, First Semester*, printed pp. 32–35 |
+
+**Book (Syria — Science Grade 2, Semester 2 (student book)):** Title as printed: كتاب العلوم /2/ — الصف الثاني الأساسي — الفصل الثاني (Science Book 2, Second Basic Grade, Second Semester; Units 3–4) Grade: 2, student book. Publisher: Syrian Arab Republic, Ministry of Education and Teaching / National Centre for Curriculum Development, school year 2025–2026. No ISBN printed on the pages read. Records: books.json `grade-02/gov/syria/science/student/semester-2.pdf`, on_disk=false, in_pushed=true — fetched via the mid-size-books release asset (size matches the record exactly). Size verified 87,990,498 bytes = record size_bytes; PDF 100 pages = record pages. Verdict: COMPLETE (contents through the final lesson, printed p. 88, with unit activities/projects closing the book). The same file was also downloaded and staged by the links wave from the record's Wayback capture of the ministry PDF (same bytes and pages) and placed lesson by lesson by a second reader; the two readers' placements are stocked together in this merge, with placements of the same book lesson into the same lesson deduped to a single row (see the merge log). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/syria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the environmental habitat (الموطن البيئي) and the living things in it (Syria G2S2) (placement filed as NEW LESSON NEEDED — habitats-where-living-things-live; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) | Syria, *Science Book 2, Second Basic Grade, Second Semester*, printed pp. 66–70 |
+
+**Acceptance count: taught in 8 countries (Guyana, Mongolia, India, Seychelles, Angola, Bhutan, Dominican Republic, Syria).**
+
+Placement choice, on the record: placement filed as NEW LESSON NEEDED — land-and-water-environments-where-things-live; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here; placement filed as NEW LESSON NEEDED — habitats-where-living-things-live; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here.
+
+Syria's own way — its Ministry of Education science books (كتاب العلوم), in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own semester and unit order, with Syria's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: syria, syria science, ministry of education syria, nccd, habitats and animal adaptations

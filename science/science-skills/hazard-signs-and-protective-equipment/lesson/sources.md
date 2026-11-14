@@ -1,6 +1,6 @@
 # Sources — Laboratory safety — hazard signs and protective equipment
 
-countries: Ethiopia, Uganda, Cabo Verde (teacher-guide evidence only)
+countries: Ethiopia, Uganda, Cabo Verde (teacher-guide evidence only), Syria
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -42,3 +42,17 @@ Cabo Verde's own way — science in the first school years is taught as hands-on
 **Acceptance count unchanged: taught in 2 countries (Ethiopia, Uganda).** Cabo Verde is named as teacher-guide evidence only, not added to this count.
 
 Searchable tags: cabo verde, ciencias integradas, atividades cientificas, ministerio da educacao cabo verde, science-skills hazard-signs-and-protective-equipment
+
+## Syria growth (2026-11-14, General Science expansion)
+
+**Book (Syria — Science Grade 5, Part 1 (NCCD developed-curriculum edition) (student book)):** Title as printed: كتاب العلوم — الصف الخامس الأساسي — الجزء الأول (Science Book, Fifth Basic Grade, Part One) Grade: 5, student book. Publisher: Syrian Arab Republic, Ministry of Education / National Centre for Curriculum Development (NCCD), developed-curriculum edition, school year 2021–2022 (first printed 2018–2019). No ISBN printed on the pages read. Records: TSV release record and books.json `grade-05/gov/syria/science/student/part-1.pdf`, on_disk=true — same book, cited once, read in place at phase3-staging. Size verified 118,308,262 bytes = record size_bytes; PDF 164 pages = record pages. Verdict: COMPLETE (contents through the final worksheet/projects, printed p. 160). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/syria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| safety and security guidance for science activities: follow the teacher, wear goggles and gloves when asked, never taste or sniff, wash hands afterwards — and heed warning signs, including the landmine danger sign, on field visits (Syria G5P1) | Syria, *Science Book, Fifth Basic Grade, Part One*, printed p. 6 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Uganda, Syria).**
+
+Syria's own way — its Ministry of Education science books (كتاب العلوم), in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own semester and unit order, with Syria's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: syria, syria science, ministry of education syria, nccd, hazard signs and protective equipment

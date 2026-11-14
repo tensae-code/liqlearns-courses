@@ -1,6 +1,6 @@
 # Sources — HIV and AIDS: how it spreads and how it does not
 
-countries: Ethiopia, Guyana, Gabon (teacher-guide evidence only), Samoa, Afghanistan, Angola, Dominican Republic
+countries: Ethiopia, Guyana, Gabon (teacher-guide evidence only), Samoa, Afghanistan, Angola, Dominican Republic, Syria
 
 **Book 5:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -120,3 +120,17 @@ Searchable tags: angola, ciências da natureza 6, grade 6
 Dominican Republic's own way — its *Libro Abierto* Ciencias de la Naturaleza books (MINERD, Serie 1 Proyecto Libro Abierto) teach this thing at the places and in the order named in the rows above, with the country's own examples where the rows name them (Hispaniola, the island's coasts and its tropical climate among them) — is itself course content, carried exactly as filed.
 
 Searchable tags: dominican republic, ciencias de la naturaleza, minerd, libro abierto, hiv and aids
+
+## Syria growth (2026-11-14, General Science expansion)
+
+**Book (Syria — Science Grade 6, Semester 2 (student book)):** Title as printed: كتاب العلوم — الصف السادس الأساسي — الفصل الثاني (Science Book, Sixth Basic Grade, Second Semester) Grade: 6, student book. Publisher: Syrian Arab Republic, Ministry of Education and Teaching / National Centre for Curriculum Development, school year 2025–2026 (first printed 2019–2020). No ISBN printed on the pages read. Records: TSV release record and books.json `grade-06/gov/syria/science/student/semester-2.pdf`, on_disk=true — same book, cited once, read in place at phase3-staging. Size verified 49,268,267 bytes = record size_bytes; PDF 132 pages = record pages. Verdict: COMPLETE (contents through the final worksheet/projects, printed p. 130). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/syria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| health and family organisation: opened with the first of December, the world day of the acquired-immunity disease (AIDS) (Syria G6S2) | Syria, *Science Book, Sixth Basic Grade, Second Semester*, printed pp. 100–105 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Guyana, Samoa, Afghanistan, Angola, Dominican Republic, Syria).**
+
+Syria's own way — its Ministry of Education science books (كتاب العلوم), in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own semester and unit order, with Syria's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: syria, syria science, ministry of education syria, nccd, hiv and aids

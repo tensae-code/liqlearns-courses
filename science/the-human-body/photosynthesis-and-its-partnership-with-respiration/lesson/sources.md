@@ -1,6 +1,6 @@
 # Sources — Cells — photosynthesis and its partnership with respiration
 
-countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Albania (teacher-guide evidence only), Guyana, Djibouti (teacher-guide evidence only), India, Bulgaria, United States, Samoa, Egypt, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Dominican Republic, Kuwait, China
+countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Albania (teacher-guide evidence only), Guyana, Djibouti (teacher-guide evidence only), India, Bulgaria, United States, Samoa, Egypt, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Dominican Republic, Kuwait, China, Syria
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed (printed "ISBN No –"). COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -254,3 +254,18 @@ Searchable tags: kuwait, aloom, ministry of education kuwait, photosynthesis and
 China's own way — its 科学 (Science) textbooks teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with China's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: china, china science, pep, people's education press, photosynthesis and its partnership with respiration
+
+## Syria growth (2026-11-14, General Science expansion)
+
+**Book (Syria — Science Grade 4, Semester 2 (student book)):** Title as printed: كتاب العلوم /4/ — الصف الرابع الأساسي — الفصل الثاني (Science Book 4, Fourth Basic Grade, Second Semester; Units 4–6) Grade: 4, student book. Publisher: Syrian Arab Republic, Ministry of Education / National Centre for Curriculum Development, school year 2025–2026. No ISBN printed on the pages read. Records: books.json `grade-04/gov/syria/science/student/semester-2.pdf`, on_disk=false, in_pushed=true — fetched via the mid-size-books release asset (size matches the record exactly). Size verified 68,945,791 bytes = record size_bytes; PDF 84 pages = record pages. Verdict: COMPLETE (contents through the Unit 6 worksheet/projects, printed p. 82). The same file was also downloaded and staged by the links wave from the record's Wayback capture of the ministry PDF (same bytes and pages) and placed lesson by lesson by a second reader; the two readers' placements are stocked together in this merge, with placements of the same book lesson into the same lesson deduped to a single row (see the merge log). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/syria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 2: The energy of life (gas exchange during respiration, paired with photosynthesis) (Syria G4S2) | Syria, *Science Book 4, Fourth Basic Grade, Second Semester*, printed p. 10 |
+| my plant feeds: photosynthesis (التركيب الضوئي), opened with a boy helping his mother prepare healthy food (Syria G4S2) | Syria, *Science Book 4, Fourth Basic Grade, Second Semester*, printed pp. 4–9 |
+
+**Acceptance count: taught in 15 countries (Ethiopia, Guyana, India, Bulgaria, United States, Samoa, Egypt, Seychelles, Ecuador, Sudan, Venezuela, Dominican Republic, Kuwait, China, Syria).**
+
+Syria's own way — its Ministry of Education science books (كتاب العلوم), in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own semester and unit order, with Syria's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: syria, syria science, ministry of education syria, nccd, photosynthesis and its partnership with respiration

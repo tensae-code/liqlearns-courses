@@ -1,6 +1,6 @@
 # Sources — What a plant needs to grow
 
-countries: Ethiopia, Albania (teacher-guide evidence only), Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), United States, Armenia, Samoa, Egypt, Cambodia, Seychelles, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Mauritania, Angola, Bhutan, Dominican Republic, China
+countries: Ethiopia, Albania (teacher-guide evidence only), Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), United States, Armenia, Samoa, Egypt, Cambodia, Seychelles, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Mauritania, Angola, Bhutan, Dominican Republic, China, Syria
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -374,3 +374,30 @@ Searchable tags: dominican republic, ciencias de la naturaleza, minerd, libro ab
 China's own way — its 科学 (Science) textbooks teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with China's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: china, china science, pep, people's education press, what a plant needs to grow
+
+## Syria growth (2026-11-14, General Science expansion)
+
+**Book (Syria — Science Grade 2, Semester 1 (student book)):** Title as printed: كتاب العلوم /2/ — الصف الثاني الأساسي — الفصل الأول (Science Book 2, Second Basic Grade, First Semester) Grade: 2, student book. Publisher: Syrian Arab Republic, Ministry of Education and Teaching / National Centre for Curriculum Development, school year 2025–2026 (first printed 2018–2019). No ISBN printed on the pages read. Records: books.json `grade-02/gov/syria/science/student/semester-1.pdf`, on_disk=true, read in place at phase3-staging. Size verified 96,926,896 bytes = record size_bytes; PDF 96 pages = record pages. Verdict: COMPLETE (contents to the Unit 2 project, printed p. 95, PDF 96 pp.). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/syria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| I care for my plants: caring for plants and fertilising them, with Syria's fertile forests as the setting (Syria G2S1) | Syria, *Science Book 2, Second Basic Grade, First Semester*, printed pp. 72–77 |
+
+**Book (Syria — Science Grade 3, Semester 1 (student book)):** Title as printed: كتاب العلوم /3/ — الصف الثالث الأساسي — الفصل الأول (Science Book 3, Third Basic Grade, First Semester) Grade: 3, student book. Publisher: Syrian Arab Republic, Ministry of Education and Teaching / National Centre for Curriculum Development, school year 2025–2026. No ISBN printed on the pages read. Records: TSV release record and books.json `grade-03/gov/syria/science/student/semester-1.pdf`, on_disk=true — same book, cited once, read in place at phase3-staging. Size verified 113,352,168 bytes = record size_bytes; PDF 96 pages = record pages. Verdict: COMPLETE (contents through the final lesson, printed p. 87, with unit activities closing the 96-page PDF). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/syria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| I grow, but with conditions: a fair experiment with sound, boiled and crushed seeds, testing moisture, heat and light for germination (Syria G3S1) | Syria, *Science Book 3, Third Basic Grade, First Semester*, printed pp. 62–64 |
+
+**Book (Syria — Science Grade 1, Semester 2 (student book)):** Title as printed: كتاب العلوم /1/ — الصف الأول الأساسي — الفصل الثاني (Science Book 1, First Basic Grade, Second Semester) Grade: 1, student book. Publisher: Syrian Arab Republic, Ministry of Education and Teaching / National Centre for Curriculum Development, school year 2025–2026. No ISBN printed on the pages read. Records: books.json `grade-01/gov/syria/science/student/semester-2.pdf`, on_disk=false, in_pushed=true — fetched via the mid-size-books release asset (tree route 404; release asset size matches the record exactly). Size verified 75,890,874 bytes = record size_bytes; PDF 72 pages = record pages. Verdict: COMPLETE (contents through the Unit 2 project, printed p. 71). The same file was also downloaded and staged by the links wave from the record's Wayback capture of the ministry PDF (same bytes and pages) and placed lesson by lesson by a second reader; the two readers' placements are stocked together in this merge, with placements of the same book lesson into the same lesson deduped to a single row (see the merge log). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/syria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| it grows and moves: the direction of plant growth and the needs a plant must have to grow (Syria G1S2) | Syria, *Science Book 1, First Basic Grade, Second Semester*, printed pp. 54–57 |
+| the plant's needs: water, air, light, soil and warmth wherever the environment (Syria G1S2) | Syria, *Science Book 1, First Basic Grade, Second Semester*, printed pp. 66–68 |
+
+**Acceptance count: taught in 18 countries (Ethiopia, Guyana, Mongolia, Moldova, United States, Armenia, Samoa, Egypt, Cambodia, Seychelles, Sudan, Venezuela, Mauritania, Angola, Bhutan, Dominican Republic, China, Syria).**
+
+Syria's own way — its Ministry of Education science books (كتاب العلوم), in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own semester and unit order, with Syria's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: syria, syria science, ministry of education syria, nccd, what a plant needs to grow

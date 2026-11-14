@@ -1,6 +1,6 @@
 # Sources — Reactions — conservation of mass
 
-countries: Ethiopia, United States, Dominican Republic
+countries: Ethiopia, United States, Dominican Republic, Syria
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -42,3 +42,17 @@ Searchable tags: united states, utah, seed standards, utah oer, reactions conser
 Dominican Republic's own way — its *Libro Abierto* Ciencias de la Naturaleza books (MINERD, Serie 1 Proyecto Libro Abierto) teach this thing at the places and in the order named in the rows above, with the country's own examples where the rows name them (Hispaniola, the island's coasts and its tropical climate among them) — is itself course content, carried exactly as filed.
 
 Searchable tags: dominican republic, ciencias de la naturaleza, minerd, libro abierto, reactions conservation of mass
+
+## Syria growth (2026-11-14, General Science expansion)
+
+**Book (Syria — Science Grade 6, Semester 2 (student book)):** Title as printed: كتاب العلوم — الصف السادس الأساسي — الفصل الثاني (Science Book, Sixth Basic Grade, Second Semester) Grade: 6, student book. Publisher: Syrian Arab Republic, Ministry of Education and Teaching / National Centre for Curriculum Development, school year 2025–2026 (first printed 2019–2020). No ISBN printed on the pages read. Records: TSV release record and books.json `grade-06/gov/syria/science/student/semester-2.pdf`, on_disk=true — same book, cited once, read in place at phase3-staging. Size verified 49,268,267 bytes = record size_bytes; PDF 132 pages = record pages. Verdict: COMPLETE (contents through the final worksheet/projects, printed p. 130). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/syria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| constant, it does not change: does the mass of water change after it freezes? — taking a cup of frozen water out of the fridge (Syria G6S2) | Syria, *Science Book, Sixth Basic Grade, Second Semester*, printed pp. 39–46 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, United States, Dominican Republic, Syria).**
+
+Syria's own way — its Ministry of Education science books (كتاب العلوم), in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own semester and unit order, with Syria's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: syria, syria science, ministry of education syria, nccd, reactions conservation of mass

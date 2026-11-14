@@ -1,6 +1,6 @@
 # Sources — Energy sources around us
 
-countries: Ethiopia, Suriname, Costa Rica, Greece, Bahamas (curriculum evidence only), Samoa, Seychelles, Ecuador, Venezuela, Mauritania, Bhutan, Dominican Republic, China
+countries: Ethiopia, Suriname, Costa Rica, Greece, Bahamas (curriculum evidence only), Samoa, Seychelles, Ecuador, Venezuela, Mauritania, Bhutan, Dominican Republic, China, Syria
 
 **Book 10:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minilk Belay Akalu (MSc), Getachew Dilnesa Gedebe (MA), Melese Sinu W/Mariam (MSc). COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
 
@@ -214,3 +214,17 @@ Searchable tags: dominican republic, ciencias de la naturaleza, minerd, libro ab
 China's own way — its 科学 (Science) textbooks teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with China's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: china, china science, pep, people's education press, energy sources around us
+
+## Syria growth (2026-11-14, General Science expansion)
+
+**Book (Syria — Science Grade 4, Semester 1 (student book)):** Title as printed: كتاب العلوم /4/ — الصف الرابع الأساسي — الفصل الأول (Science Book 4, Fourth Basic Grade, First Semester) Grade: 4, student book. Publisher: Syrian Arab Republic, Ministry of Education / National Centre for Curriculum Development, school year 2025–2026. No ISBN printed on the pages read. Records: books.json `grade-04/gov/syria/science/student/semester-1.pdf`, on_disk=true, read in place at phase3-staging. Size verified 68,999,667 bytes = record size_bytes; PDF 108 pages = record pages. Verdict: COMPLETE (contents through the Unit 3 worksheet/projects, printed p. 106). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/syria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the air wheel (pinwheel): wind energy; winds form from temperature differences between seasons; the water cycle in nature named (Syria G4S1) | Syria, *Science Book 4, Fourth Basic Grade, First Semester*, printed pp. 98–105 |
+
+**Acceptance count: taught in 13 countries (Ethiopia, Suriname, Costa Rica, Greece, Samoa, Seychelles, Ecuador, Venezuela, Mauritania, Bhutan, Dominican Republic, China, Syria).**
+
+Syria's own way — its Ministry of Education science books (كتاب العلوم), in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own semester and unit order, with Syria's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: syria, syria science, ministry of education syria, nccd, energy sources around us

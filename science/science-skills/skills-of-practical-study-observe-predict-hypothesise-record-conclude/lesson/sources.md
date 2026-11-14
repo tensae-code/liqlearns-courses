@@ -1,6 +1,6 @@
 # Sources — Skills of practical study — observe, predict, hypothesise, record, conclude
 
-countries: Kuwait, Finland, Turkey, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only), Australia, Vanuatu (teacher-guide evidence only), Iceland (teacher-guide evidence only), Micronesia (teaching-tips guide evidence only), Mongolia, Barbados (curriculum evidence only), Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Moldova, United States, Armenia, Cuba (teacher-guide evidence only), Samoa, Cambodia (guide evidence only), Ecuador, Cabo Verde (teacher-guide evidence only), Venezuela, Mauritania (teacher-guide evidence only), Bhutan, China
+countries: Kuwait, Finland, Turkey, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only), Australia, Vanuatu (teacher-guide evidence only), Iceland (teacher-guide evidence only), Micronesia (teaching-tips guide evidence only), Mongolia, Barbados (curriculum evidence only), Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Moldova, United States, Armenia, Cuba (teacher-guide evidence only), Samoa, Cambodia (guide evidence only), Ecuador, Cabo Verde (teacher-guide evidence only), Venezuela, Mauritania (teacher-guide evidence only), Bhutan, China, Syria
 
 **Book 1:** *الفيزياء، الصف الحادي عشر، الفصل الدراسي الأول — كتاب التطبيقات (Physics, Grade 11, Term 1 — applications workbook)* — Kuwait. Grade 11, applications (workbook) companion to the Grade 11 Term 1 student book, Term 1. Edition: 1448H / 2026–2027, Ministry of Education, Kuwait; ISBN 978-9921-33-021-2 (Pearson Scott Foresman series, per back cover). Repo path: grade-11/gov/kuwait/physics/student/term-1-workbook.pdf (release mid-size-books-8). Bytes: 36,421,985 (exact vs record). PDF pages: 34. Offset: PDF page = printed page + 1 (proven: front-matter pages PDF 9–12 carry printed folios 8–11). Verdict: COMPLETE read (all 7 numbered lab activities read visually). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kuwait-placements.md.
 
@@ -354,3 +354,23 @@ Searchable tags: bhutan, bhutan science, science class iv, science class v, scie
 China's own way — its 科学 (Science) textbooks teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with China's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: china, china science, pep, people's education press, skills of practical study observe predict hypothesise record conclude
+
+## Syria growth (2026-11-14, General Science expansion)
+
+**Book (Syria — Science Grade 1, Semester 1 (student book)):** Title as printed: كتاب العلوم /1/ — الصف الأول الأساسي — الفصل الأول (Science Book 1, First Basic Grade, First Semester) Grade: 1, student book. Publisher: Syrian Arab Republic, Ministry of Education and Teaching / National Centre for Curriculum Development (المركز الوطني لتطوير المناهج التربوية), school year 2025–2026 (first printed 2017–2018). No ISBN printed on the pages read. Records: books.json `grade-01/gov/syria/science/student/semester-1.pdf`, on_disk=true, read in place at phase3-staging. Size verified 71,905,166 bytes = record size_bytes; PDF 84 pages = record pages. Verdict: COMPLETE (cover to final unit project, printed pp. 1–84). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/syria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| skills that help you learn: observe and compare, predict and measure, hypothesise and plan a study, infer and draw conclusions (Syria G1S1) | Syria, *Science Book 1, First Basic Grade, First Semester*, printed pp. 4–6 |
+
+**Book (Syria — Science Grade 2, Semester 1 (student book)):** Title as printed: كتاب العلوم /2/ — الصف الثاني الأساسي — الفصل الأول (Science Book 2, Second Basic Grade, First Semester) Grade: 2, student book. Publisher: Syrian Arab Republic, Ministry of Education and Teaching / National Centre for Curriculum Development, school year 2025–2026 (first printed 2018–2019). No ISBN printed on the pages read. Records: books.json `grade-02/gov/syria/science/student/semester-1.pdf`, on_disk=true, read in place at phase3-staging. Size verified 96,926,896 bytes = record size_bytes; PDF 96 pages = record pages. Verdict: COMPLETE (contents to the Unit 2 project, printed p. 95, PDF 96 pp.). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/syria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| how I use the scientific skills: observe, draw what I observe, ask questions, observe and measure to get the answer (Syria G2S1) | Syria, *Science Book 2, Second Basic Grade, First Semester*, printed p. 5 |
+
+**Acceptance count: taught in 17 countries (Kuwait, Finland, Turkey, Australia, Mongolia, Uganda, Bulgaria, Greece, Moldova, United States, Armenia, Samoa, Ecuador, Venezuela, Bhutan, China, Syria).**
+
+Syria's own way — its Ministry of Education science books (كتاب العلوم), in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own semester and unit order, with Syria's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: syria, syria science, ministry of education syria, nccd, skills of practical study observe predict hypothesise record conclude

@@ -1,6 +1,6 @@
 # Sources — Measuring: traditional and modern measures
 
-countries: Ethiopia, Zambia (teacher-module evidence only), Bahamas (curriculum evidence only), Cambodia
+countries: Ethiopia, Zambia (teacher-module evidence only), Bahamas (curriculum evidence only), Cambodia, Syria
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -71,3 +71,17 @@ Searchable tags: bahamas, primary science curriculum guidelines, ministry of edu
 Cambodia's own way — the MoEYS វិទ្យាសាស្ត្រ (Science) student books teach this thing at Grade 5, in the chapter and lesson order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: cambodia, moeys, measuring traditional and modern measures
+
+## Syria growth (2026-11-14, General Science expansion)
+
+**Book (Syria — Science Grade 2, Semester 2 (student book)):** Title as printed: كتاب العلوم /2/ — الصف الثاني الأساسي — الفصل الثاني (Science Book 2, Second Basic Grade, Second Semester; Units 3–4) Grade: 2, student book. Publisher: Syrian Arab Republic, Ministry of Education and Teaching / National Centre for Curriculum Development, school year 2025–2026. No ISBN printed on the pages read. Records: books.json `grade-02/gov/syria/science/student/semester-2.pdf`, on_disk=false, in_pushed=true — fetched via the mid-size-books release asset (size matches the record exactly). Size verified 87,990,498 bytes = record size_bytes; PDF 100 pages = record pages. Verdict: COMPLETE (contents through the final lesson, printed p. 88, with unit activities/projects closing the book). The same file was also downloaded and staged by the links wave from the record's Wayback capture of the ministry PDF (same bytes and pages) and placed lesson by lesson by a second reader; the two readers' placements are stocked together in this merge, with placements of the same book lesson into the same lesson deduped to a single row (see the merge log). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/syria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 8: Longer, shorter… bigger, smaller (measurement as the key word) (Syria G2S2) | Syria, *Science Book 2, Second Basic Grade, Second Semester*, printed p. 88 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Cambodia, Syria).**
+
+Syria's own way — its Ministry of Education science books (كتاب العلوم), in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own semester and unit order, with Syria's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: syria, syria science, ministry of education syria, nccd, measuring traditional and modern measures

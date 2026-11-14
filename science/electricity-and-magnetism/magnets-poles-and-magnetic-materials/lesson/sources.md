@@ -1,6 +1,6 @@
 # Sources — Magnets — poles attract and repel; what is magnetic
 
-countries: Ethiopia, Samoa, Gabon (teacher-guide evidence only), Barbados, Slovenia, Fiji, Kenya, Cambodia (private-booklet evidence only), Kuwait, Afghanistan, Iran, North Macedonia, Moldova, South Sudan, Mozambique, China, Mauritania, Guyana, Djibouti (teacher-guide evidence only), Mongolia, India, Bulgaria, Bahamas (curriculum evidence only), United States, Egypt, Cabo Verde, Sudan, Bhutan, Dominican Republic
+countries: Ethiopia, Samoa, Gabon (teacher-guide evidence only), Barbados, Slovenia, Fiji, Kenya, Cambodia (private-booklet evidence only), Kuwait, Afghanistan, Iran, North Macedonia, Moldova, South Sudan, Mozambique, China, Mauritania, Guyana, Djibouti (teacher-guide evidence only), Mongolia, India, Bulgaria, Bahamas (curriculum evidence only), United States, Egypt, Cabo Verde, Sudan, Bhutan, Dominican Republic, Syria
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -354,3 +354,24 @@ Searchable tags: kuwait, aloom, ministry of education kuwait, magnets poles and 
 China's own way — its 科学 (Science) textbooks teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with China's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: china, china science, pep, people's education press, magnets poles and magnetic materials
+
+## Syria growth (2026-11-14, General Science expansion)
+
+**Book (Syria — Science Grade 1, Semester 1 (student book)):** Title as printed: كتاب العلوم /1/ — الصف الأول الأساسي — الفصل الأول (Science Book 1, First Basic Grade, First Semester) Grade: 1, student book. Publisher: Syrian Arab Republic, Ministry of Education and Teaching / National Centre for Curriculum Development (المركز الوطني لتطوير المناهج التربوية), school year 2025–2026 (first printed 2017–2018). No ISBN printed on the pages read. Records: books.json `grade-01/gov/syria/science/student/semester-1.pdf`, on_disk=true, read in place at phase3-staging. Size verified 71,905,166 bytes = record size_bytes; PDF 84 pages = record pages. Verdict: COMPLETE (cover to final unit project, printed pp. 1–84). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/syria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the hidden force: a magnet attracts iron objects such as pins, and attracts them through other materials such as paper (Syria G1S1) | Syria, *Science Book 1, First Basic Grade, First Semester*, printed pp. 76–77 |
+| attraction and repulsion: a magnet has two poles at its ends (north N red, south S blue); like poles repel and unlike poles attract (Syria G1S1) | Syria, *Science Book 1, First Basic Grade, First Semester*, printed pp. 78–81 |
+
+**Book (Syria — Science Grade 3, Semester 1 (student book)):** Title as printed: كتاب العلوم /3/ — الصف الثالث الأساسي — الفصل الأول (Science Book 3, Third Basic Grade, First Semester) Grade: 3, student book. Publisher: Syrian Arab Republic, Ministry of Education and Teaching / National Centre for Curriculum Development, school year 2025–2026. No ISBN printed on the pages read. Records: TSV release record and books.json `grade-03/gov/syria/science/student/semester-1.pdf`, on_disk=true — same book, cited once, read in place at phase3-staging. Size verified 113,352,168 bytes = record size_bytes; PDF 96 pages = record pages. Verdict: COMPLETE (contents through the final lesson, printed p. 87, with unit activities closing the 96-page PDF). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/syria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| a force of attraction and effect: magnetic force and the strength of attraction, retrieving pins from a glass of water with a magnet without wetting a hand (Syria G3S1) | Syria, *Science Book 3, Third Basic Grade, First Semester*, printed pp. 32–38 |
+
+**Acceptance count: taught in 26 countries (Ethiopia, Samoa, Barbados, Slovenia, Fiji, Kenya, Kuwait, Afghanistan, Iran, North Macedonia, Moldova, South Sudan, Mozambique, China, Mauritania, Guyana, Mongolia, India, Bulgaria, United States, Egypt, Cabo Verde, Sudan, Bhutan, Dominican Republic, Syria).**
+
+Syria's own way — its Ministry of Education science books (كتاب العلوم), in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own semester and unit order, with Syria's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: syria, syria science, ministry of education syria, nccd, magnets poles and magnetic materials

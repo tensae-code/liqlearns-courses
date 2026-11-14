@@ -1,6 +1,6 @@
 # Sources — Seed dispersal — how seeds travel
 
-countries: Albania (teacher-guide evidence only), Guyana, United States, Seychelles, Cabo Verde (teacher-guide evidence only), Kuwait
+countries: Albania (teacher-guide evidence only), Guyana, United States, Seychelles, Cabo Verde (teacher-guide evidence only), Kuwait, Syria
 
 **Book (Albania):** *Libër mësuesi — Dituri natyre 5* (teacher guide) — Albania, Shtëpia Botuese Mediaprint, first edition 2019; ISBN 978-9928-08-396-8. Title as printed: Libër mësuesi — Dituri natyre 5 (author Laureta Shkoza; textbook translated/adapted by Prof. Dr. Ethem Ruka). Grade 5, TEACHER guide — yearly plan, worked learning situations with answers, and term tests; all placements from it are guide evidence. PDF: 73 pages, 2,560,136 bytes (verified: byte size and 73 pages match the books.json record exactly; title page matches the record title). Verdict: COMPLETE. TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/albania-placements.md.
 
@@ -84,3 +84,19 @@ Searchable tags: cabo verde, ciencias integradas, atividades cientificas, minist
 Kuwait's own way — its Ministry of Education *Science* (العلوم) books, in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own unit order (life sciences, the human body, then matter and energy in the primary years; branch-built units with the 5E learning cycle and STEAM inquiry projects in the intermediate years) — is itself course content, carried exactly as filed.
 
 Searchable tags: kuwait, aloom, ministry of education kuwait, seed dispersal how seeds travel
+
+## Syria growth (2026-11-14, General Science expansion)
+
+**Book (Syria — Science Grade 3, Semester 1 (student book)):** Title as printed: كتاب العلوم /3/ — الصف الثالث الأساسي — الفصل الأول (Science Book 3, Third Basic Grade, First Semester) Grade: 3, student book. Publisher: Syrian Arab Republic, Ministry of Education and Teaching / National Centre for Curriculum Development, school year 2025–2026. No ISBN printed on the pages read. Records: TSV release record and books.json `grade-03/gov/syria/science/student/semester-1.pdf`, on_disk=true — same book, cited once, read in place at phase3-staging. Size verified 113,352,168 bytes = record size_bytes; PDF 96 pages = record pages. Verdict: COMPLETE (contents through the final lesson, printed p. 87, with unit activities closing the 96-page PDF). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/syria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| they spread to live: seed dispersal — how did these trees grow on the mountain slopes? (Syria G3S1) (placement filed as NEW LESSON NEEDED — seed-dispersal-how-seeds-spread-to-live; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) | Syria, *Science Book 3, Third Basic Grade, First Semester*, printed pp. 52–56 |
+
+**Acceptance count: taught in 5 countries (Guyana, United States, Seychelles, Kuwait, Syria).**
+
+Placement choice, on the record: placement filed as NEW LESSON NEEDED — seed-dispersal-how-seeds-spread-to-live; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here.
+
+Syria's own way — its Ministry of Education science books (كتاب العلوم), in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own semester and unit order, with Syria's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: syria, syria science, ministry of education syria, nccd, seed dispersal how seeds travel

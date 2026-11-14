@@ -1,6 +1,6 @@
 # Sources — Food — how food gets spoiled
 
-countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Costa Rica (guide evidence only), Pakistan (Punjab), Samoa, Cambodia, Seychelles, Ecuador, Afghanistan, Cabo Verde (teacher-guide evidence only), Venezuela, Mauritania, Angola, Kuwait
+countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Costa Rica (guide evidence only), Pakistan (Punjab), Samoa, Cambodia, Seychelles, Ecuador, Afghanistan, Cabo Verde (teacher-guide evidence only), Venezuela, Mauritania, Angola, Kuwait, Syria
 
 **Book 1:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -226,3 +226,17 @@ Searchable tags: angola, estudo do meio 1, estudo do meio 2, grade 1, grade 2
 Kuwait's own way — its Ministry of Education *Science* (العلوم) books, in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own unit order (life sciences, the human body, then matter and energy in the primary years; branch-built units with the 5E learning cycle and STEAM inquiry projects in the intermediate years) — is itself course content, carried exactly as filed.
 
 Searchable tags: kuwait, aloom, ministry of education kuwait, food how food gets spoiled
+
+## Syria growth (2026-11-14, General Science expansion)
+
+**Book (Syria — Science Grade 2, Semester 1 (student book)):** Title as printed: كتاب العلوم /2/ — الصف الثاني الأساسي — الفصل الأول (Science Book 2, Second Basic Grade, First Semester) Grade: 2, student book. Publisher: Syrian Arab Republic, Ministry of Education and Teaching / National Centre for Curriculum Development, school year 2025–2026 (first printed 2018–2019). No ISBN printed on the pages read. Records: books.json `grade-02/gov/syria/science/student/semester-1.pdf`, on_disk=true, read in place at phase3-staging. Size verified 96,926,896 bytes = record size_bytes; PDF 96 pages = record pages. Verdict: COMPLETE (contents to the Unit 2 project, printed p. 95, PDF 96 pp.). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/syria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| clean food: food contamination, pollutants and insecticides/pesticides as food contaminants (Syria G2S1) | Syria, *Science Book 2, Second Basic Grade, First Semester*, printed pp. 27–30 |
+
+**Acceptance count: taught in 12 countries (Ethiopia, Pakistan (Punjab), Samoa, Cambodia, Seychelles, Ecuador, Afghanistan, Venezuela, Mauritania, Angola, Kuwait, Syria).**
+
+Syria's own way — its Ministry of Education science books (كتاب العلوم), in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own semester and unit order, with Syria's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: syria, syria science, ministry of education syria, nccd, food how food gets spoiled

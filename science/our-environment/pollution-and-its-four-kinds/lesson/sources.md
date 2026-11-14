@@ -1,6 +1,6 @@
 # Sources — Pollution and its four kinds
 
-countries: Ethiopia, Mexico, Trinidad and Tobago (curriculum-guide evidence only), Guatemala (teacher-guide evidence only), Djibouti (teacher-guide evidence only), India, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Samoa, Cambodia, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Mauritania, Angola, Kuwait
+countries: Ethiopia, Mexico, Trinidad and Tobago (curriculum-guide evidence only), Guatemala (teacher-guide evidence only), Djibouti (teacher-guide evidence only), India, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Samoa, Cambodia, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Mauritania, Angola, Kuwait, Syria
 
 **Book 10:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minilk Belay Akalu (MSc), Getachew Dilnesa Gedebe (MA), Melese Sinu W/Mariam (MSc). COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
 
@@ -265,3 +265,23 @@ Searchable tags: angola, ciências da natureza 5, estudo do meio 4, grade 4, gra
 Kuwait's own way — its Ministry of Education *Science* (العلوم) books, in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own unit order (life sciences, the human body, then matter and energy in the primary years; branch-built units with the 5E learning cycle and STEAM inquiry projects in the intermediate years) — is itself course content, carried exactly as filed.
 
 Searchable tags: kuwait, aloom, ministry of education kuwait, pollution and its four kinds
+
+## Syria growth (2026-11-14, General Science expansion)
+
+**Book (Syria — Science Grade 4, Semester 2 (student book)):** Title as printed: كتاب العلوم /4/ — الصف الرابع الأساسي — الفصل الثاني (Science Book 4, Fourth Basic Grade, Second Semester; Units 4–6) Grade: 4, student book. Publisher: Syrian Arab Republic, Ministry of Education / National Centre for Curriculum Development, school year 2025–2026. No ISBN printed on the pages read. Records: books.json `grade-04/gov/syria/science/student/semester-2.pdf`, on_disk=false, in_pushed=true — fetched via the mid-size-books release asset (size matches the record exactly). Size verified 68,945,791 bytes = record size_bytes; PDF 84 pages = record pages. Verdict: COMPLETE (contents through the Unit 6 worksheet/projects, printed p. 82). The same file was also downloaded and staged by the links wave from the record's Wayback capture of the ministry PDF (same bytes and pages) and placed lesson by lesson by a second reader; the two readers' placements are stocked together in this merge, with placements of the same book lesson into the same lesson deduped to a single row (see the merge log). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/syria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| pollution and recycling: pollution (Syria G4S2) | Syria, *Science Book 4, Fourth Basic Grade, Second Semester*, printed pp. 78–81 |
+
+**Book (Syria — Science Grade 9 (Biology and Earth) (student book)):** Title as printed: كتاب العلوم — الصف التاسع الأساسي (Science Book, Ninth Basic Grade) Grade: 9, student book. Publisher: Syrian Arab Republic, Ministry of Education and Teaching / National Centre for Curriculum Development, school year 2025–2026. No ISBN printed on the pages read. Records: books.json `grade-09/gov/syria/science/student/full-year.pdf`, on_disk=false, in_pushed=true — fetched via the mid-size-books release asset (size matches the record exactly). Size verified 90,466,584 bytes = record size_bytes; PDF 232 pages = record pages. Verdict: COMPLETE as a book (232 pp., contents through the Unit 4 project), but it is a Biology book (human anatomy and physiology, genetics, plant reproduction). The Biology lessons are named below as already covered by the earlier Biology wave; only the genuinely general parts (the two body-systems health lessons and the pollution lesson) are placed. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/syria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 4, second lesson: pollution — its forms — and some diseases linked to pollution (Syria G9) | Syria, *Science Book, Ninth Basic Grade*, printed pp. 226–229 |
+
+**Acceptance count: taught in 14 countries (Ethiopia, Mexico, India, Pakistan (Punjab), Samoa, Cambodia, Seychelles, Ecuador, Sudan, Venezuela, Mauritania, Angola, Kuwait, Syria).**
+
+Syria's own way — its Ministry of Education science books (كتاب العلوم), in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own semester and unit order, with Syria's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: syria, syria science, ministry of education syria, nccd, pollution and its four kinds

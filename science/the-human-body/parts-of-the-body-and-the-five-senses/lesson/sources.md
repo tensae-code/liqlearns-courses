@@ -1,6 +1,6 @@
 # Sources — Parts of the body and the five senses
 
-countries: Ethiopia, Zambia (teacher-module evidence only), Suriname, Ghana (curriculum evidence only), Guyana, Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Moldova, United States, Pakistan (Punjab), Armenia, Egypt, Cambodia, Seychelles, Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Angola, Kuwait, China
+countries: Ethiopia, Zambia (teacher-module evidence only), Suriname, Ghana (curriculum evidence only), Guyana, Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Moldova, United States, Pakistan (Punjab), Armenia, Egypt, Cambodia, Seychelles, Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Angola, Kuwait, China, Syria
 
 **Book 1:** *Environmental Science Teacher's Guide, Grade 1* (አካባቢ ሳይንስ የመምህራን መምሪያ 1ኛ ክፍል) (teacher's guide — the file held in the library as the Grade 1 "student" book; the Grade 1 student textbook itself is NOT held) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. The held file is damaged and truncated: it holds guide printed pp. i–v and 1–27 only, of a guide running to at least printed p. 85. Guide printed page = PDF page − 8 in the genuine pages. Read visually, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-student-placements.md.
 
@@ -416,3 +416,35 @@ Searchable tags: kuwait, aloom, ministry of education kuwait, parts of the body 
 China's own way — its 科学 (Science) textbooks teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with China's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: china, china science, pep, people's education press, parts of the body and the five senses
+
+## Syria growth (2026-11-14, General Science expansion)
+
+**Book (Syria — Science Grade 1, Semester 1 (student book)):** Title as printed: كتاب العلوم /1/ — الصف الأول الأساسي — الفصل الأول (Science Book 1, First Basic Grade, First Semester) Grade: 1, student book. Publisher: Syrian Arab Republic, Ministry of Education and Teaching / National Centre for Curriculum Development (المركز الوطني لتطوير المناهج التربوية), school year 2025–2026 (first printed 2017–2018). No ISBN printed on the pages read. Records: books.json `grade-01/gov/syria/science/student/semester-1.pdf`, on_disk=true, read in place at phase3-staging. Size verified 71,905,166 bytes = record size_bytes; PDF 84 pages = record pages. Verdict: COMPLETE (cover to final unit project, printed pp. 1–84). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/syria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| I grow and get bigger: the body's parts are the same in everyone — head, trunk, upper and lower limbs — and we grow and change as we age (Syria G1S1) | Syria, *Science Book 1, First Basic Grade, First Semester*, printed pp. 64–67 |
+
+**Book (Syria — Science Grade 2, Semester 1 (student book)):** Title as printed: كتاب العلوم /2/ — الصف الثاني الأساسي — الفصل الأول (Science Book 2, Second Basic Grade, First Semester) Grade: 2, student book. Publisher: Syrian Arab Republic, Ministry of Education and Teaching / National Centre for Curriculum Development, school year 2025–2026 (first printed 2018–2019). No ISBN printed on the pages read. Records: books.json `grade-02/gov/syria/science/student/semester-1.pdf`, on_disk=true, read in place at phase3-staging. Size verified 96,926,896 bytes = record size_bytes; PDF 96 pages = record pages. Verdict: COMPLETE (contents to the Unit 2 project, printed p. 95, PDF 96 pp.). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/syria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| I taste my food: flavours, the taste buds on the tongue, and which body organs are responsible for tasting (Syria G2S1) | Syria, *Science Book 2, Second Basic Grade, First Semester*, printed pp. 18–22 |
+
+**Book (Syria — Science Grade 1, Semester 2 (student book)):** Title as printed: كتاب العلوم /1/ — الصف الأول الأساسي — الفصل الثاني (Science Book 1, First Basic Grade, Second Semester) Grade: 1, student book. Publisher: Syrian Arab Republic, Ministry of Education and Teaching / National Centre for Curriculum Development, school year 2025–2026. No ISBN printed on the pages read. Records: books.json `grade-01/gov/syria/science/student/semester-2.pdf`, on_disk=false, in_pushed=true — fetched via the mid-size-books release asset (tree route 404; release asset size matches the record exactly). Size verified 75,890,874 bytes = record size_bytes; PDF 72 pages = record pages. Verdict: COMPLETE (contents through the Unit 2 project, printed p. 71). The same file was also downloaded and staged by the links wave from the record's Wayback capture of the ministry PDF (same bytes and pages) and placed lesson by lesson by a second reader; the two readers' placements are stocked together in this merge, with placements of the same book lesson into the same lesson deduped to a single row (see the merge log). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/syria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| my senses: a sense and its organ; how my senses help me; the five friends (the five senses) (Syria G1S2) | Syria, *Science Book 1, First Basic Grade, Second Semester*, printed pp. 4–15 |
+
+**Book (Syria — Science Grade 3, Semester 2 (student book)):** Title as printed: كتاب العلوم /3/ — الصف الثالث الأساسي — الفصل الثاني (Science Book 3, Third Basic Grade, Second Semester; Units 3–4) Grade: 3, student book. Publisher: Syrian Arab Republic, Ministry of Education and Teaching / National Centre for Curriculum Development, school year 2025–2026. No ISBN printed on the pages read. Records: books.json `grade-03/gov/syria/science/student/semester-2.pdf`, on_disk=false, in_pushed=true — fetched via the mid-size-books release asset (size matches the record exactly). Size verified 100,394,122 bytes = record size_bytes; PDF 132 pages = record pages. Verdict: COMPLETE (contents through the final lesson, printed p. 120, with unit activities closing the 132-page book). The same file was also downloaded and staged by the links wave from the record's Wayback capture of the ministry PDF (same bytes and pages) and placed lesson by lesson by a second reader; the two readers' placements are stocked together in this merge, with placements of the same book lesson into the same lesson deduped to a single row (see the merge log). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/syria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 11: A pure scent (the nose and the journey of smell) (Syria G3S2) | Syria, *Science Book 3, Third Basic Grade, Second Semester*, printed p. 64 |
+
+**Acceptance count: taught in 21 countries (Ethiopia, Suriname, Guyana, Mongolia, Moldova, United States, Pakistan (Punjab), Armenia, Egypt, Cambodia, Seychelles, Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Angola, Kuwait, China, Syria).**
+
+Syria's own way — its Ministry of Education science books (كتاب العلوم), in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own semester and unit order, with Syria's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: syria, syria science, ministry of education syria, nccd, parts of the body and the five senses

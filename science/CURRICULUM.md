@@ -735,6 +735,8 @@ solar-system comparison lessons.
 
 45. **The life cycle of a silkworm** (`animals/the-life-cycle-of-a-silkworm`) — the whole life of a silkworm: eggs hatching, the larva growing through its moults, the pupa in its silk cocoon, and the moth laying the eggs that begin again — China's own sericulture way (China, Grade 4 — *科学四年级下册 (Science, Grade 4, second volume)*, printed pp. 15, 20, 24; built for the China placements, expansion-science-2026-11-13/china-placements.md)
 
+46. **Animal behaviour — instinct and learned** (`animals/animal-behaviour-instinct-and-learned`) — behaviour and its two kinds: innate behaviour (fighting, seeking shelter, feeding, reproduction, social life, caring for the young, exploring, escaping enemies) against learned behaviour picked up through training (a parrot riding a bicycle, trained dolphins, a cat that learns to open a door) (Syria, Grade 8 — *Biology and Earth (علم الأحياء والأرض), Eighth Basic Grade*, Unit 4, printed pp. 218–221; built for the Syria placements, expansion-science-2026-11-13/syria-placements.md)
+
 ## Unit 10 — Natural Resources
 
 1. **Caring so they last: looking after natural resources** (`natural-resources/caring-so-they-last`) — the harms of loss — soil washed away, fertility and yields falling, wild animals fleeing and vanishing, climate disturbed — and the care that answe…
@@ -2927,6 +2929,8 @@ solar-system comparison lessons.
 26. **Building a gurrufío** (`motion-force-and-energy/building-a-gurrufio`) — building a gurrufío, the traditional Venezuelan spinning toy, and asking who supplies its energy (Venezuela, Grade 2 — *Comunidad con Ciencia (Colección Bicentenario)*, printed pp. 118–119; built for the Venezuela placements, expansion-science-2026-11-13/venezuela-placements.md)
 
 27. **Pressure in fluids — Pascal and Archimedes** (`motion-force-and-energy/pressure-in-fluids-pascal-and-archimedes`) — hydrostatics: pressure inside a fluid at rest, growing with depth; Pascal's principle — pressure passed through a closed fluid undiminished — and Archimedes' principle — upthrust equal to the weight of fluid displaced (Dominican Republic, Grade 6 — *Ciencias de la Naturaleza 6*, printed pp. 130, 132; built for the Dominican Republic placements, expansion-science-2026-11-13/dominican-republic-placements.md)
+
+28. **Work in science — when a force moves a thing** (`motion-force-and-energy/work-in-science-when-a-force-moves-a-thing`) — work as a science idea, opened with Syria's own question: who does the moving of the farmer's cart — the farmer or the horse? A force does work when it moves a thing; a push that moves nothing does no work in the science sense (Syria, Grade 6, Semester 1 — *Science Book (كتاب العلوم), Sixth Basic Grade, First Semester*, printed pp. 49–52; built for the Syria placements, expansion-science-2026-11-13/syria-placements.md)
 
 ## Unit 21 — Sound
 

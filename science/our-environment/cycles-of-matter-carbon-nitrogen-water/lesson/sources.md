@@ -1,6 +1,6 @@
 # Sources — Cycles of matter — carbon, nitrogen, water
 
-countries: Ethiopia, Jamaica (curriculum-guide evidence only), Palau (teacher's-edition evidence only), Iceland (teacher-guide evidence only), Bulgaria, United States, Pakistan (Punjab), Armenia, Ecuador, Sudan, Venezuela, Mauritania, Dominican Republic, Kuwait
+countries: Ethiopia, Jamaica (curriculum-guide evidence only), Palau (teacher's-edition evidence only), Iceland (teacher-guide evidence only), Bulgaria, United States, Pakistan (Punjab), Armenia, Ecuador, Sudan, Venezuela, Mauritania, Dominican Republic, Kuwait, Syria
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -179,3 +179,23 @@ Searchable tags: dominican republic, ciencias de la naturaleza, minerd, libro ab
 Kuwait's own way — its Ministry of Education *Science* (العلوم) books, in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own unit order (life sciences, the human body, then matter and energy in the primary years; branch-built units with the 5E learning cycle and STEAM inquiry projects in the intermediate years) — is itself course content, carried exactly as filed.
 
 Searchable tags: kuwait, aloom, ministry of education kuwait, cycles of matter carbon nitrogen water
+
+## Syria growth (2026-11-14, General Science expansion)
+
+**Book (Syria — Science Grade 5, Part 2 (student book)):** Title as printed: كتاب العلوم — الصف الخامس الأساسي — الجزء الثاني (Science Book, Fifth Basic Grade, Part Two; Units 5–7) Grade: 5, student book. Publisher: Syrian Arab Republic, Ministry of Education and Teaching, school year 2025–2026. No ISBN printed on the pages read. Records: TSV release record and books.json `grade-05/gov/syria/science/student/part-2.pdf`, on_disk=true — same book, cited once, read in place at phase3-staging. Size verified 44,029,863 bytes = record size_bytes; PDF 108 pages = record pages. Verdict: COMPLETE (contents through the final worksheet/projects, printed p. 105). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/syria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the secret of existence: the oxygen cycle and atmospheric oxygen (Syria G5P2) | Syria, *Science Book, Fifth Basic Grade, Part Two*, printed pp. 44–49 |
+
+**Book (Syria — Science Grade 6, Semester 2 (student book)):** Title as printed: كتاب العلوم — الصف السادس الأساسي — الفصل الثاني (Science Book, Sixth Basic Grade, Second Semester) Grade: 6, student book. Publisher: Syrian Arab Republic, Ministry of Education and Teaching / National Centre for Curriculum Development, school year 2025–2026 (first printed 2019–2020). No ISBN printed on the pages read. Records: TSV release record and books.json `grade-06/gov/syria/science/student/semester-2.pdf`, on_disk=true — same book, cited once, read in place at phase3-staging. Size verified 49,268,267 bytes = record size_bytes; PDF 132 pages = record pages. Verdict: COMPLETE (contents through the final worksheet/projects, printed p. 130). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/syria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the cycle of nitrogen (دورة الآزوت/النتروجين) (Syria G6S2) | Syria, *Science Book, Sixth Basic Grade, Second Semester*, printed pp. 122–129 |
+
+**Acceptance count: taught in 12 countries (Ethiopia, Bulgaria, United States, Pakistan (Punjab), Armenia, Ecuador, Sudan, Venezuela, Mauritania, Dominican Republic, Kuwait, Syria).**
+
+Syria's own way — its Ministry of Education science books (كتاب العلوم), in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own semester and unit order, with Syria's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: syria, syria science, ministry of education syria, nccd, cycles of matter carbon nitrogen water

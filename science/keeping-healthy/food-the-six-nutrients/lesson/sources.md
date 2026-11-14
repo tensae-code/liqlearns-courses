@@ -1,6 +1,6 @@
 # Sources — Food — the six nutrients
 
-countries: Ethiopia, Cook Islands, Suriname, Guatemala (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), India, Uganda, Bulgaria, Bahamas (curriculum evidence only), Samoa, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Venezuela, Mauritania, Bhutan, Dominican Republic, Kuwait, China
+countries: Ethiopia, Cook Islands, Suriname, Guatemala (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), India, Uganda, Bulgaria, Bahamas (curriculum evidence only), Samoa, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Venezuela, Mauritania, Bhutan, Dominican Republic, Kuwait, China, Syria
 
 **Book 1:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -301,3 +301,27 @@ Searchable tags: kuwait, aloom, ministry of education kuwait, food the six nutri
 China's own way — its 科学 (Science) textbooks teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with China's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: china, china science, pep, people's education press, food the six nutrients
+
+## Syria growth (2026-11-14, General Science expansion)
+
+**Book (Syria — Science Grade 3, Semester 2 (student book)):** Title as printed: كتاب العلوم /3/ — الصف الثالث الأساسي — الفصل الثاني (Science Book 3, Third Basic Grade, Second Semester; Units 3–4) Grade: 3, student book. Publisher: Syrian Arab Republic, Ministry of Education and Teaching / National Centre for Curriculum Development, school year 2025–2026. No ISBN printed on the pages read. Records: books.json `grade-03/gov/syria/science/student/semester-2.pdf`, on_disk=false, in_pushed=true — fetched via the mid-size-books release asset (size matches the record exactly). Size verified 100,394,122 bytes = record size_bytes; PDF 132 pages = record pages. Verdict: COMPLETE (contents through the final lesson, printed p. 120, with unit activities closing the 132-page book). The same file was also downloaded and staged by the links wave from the record's Wayback capture of the ministry PDF (same bytes and pages) and placed lesson by lesson by a second reader; the two readers' placements are stocked together in this merge, with placements of the same book lesson into the same lesson deduped to a single row (see the merge log). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/syria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| what is my food made of?: food groups — proteins, fats and vitamins (Syria G3S2) | Syria, *Science Book 3, Third Basic Grade, Second Semester*, printed pp. 26–31 |
+
+**Book (Syria — Science (Biology & Earth) Grade 8 (student book)):** Title as printed: علم الأحياء والأرض — الصف الثامن الأساسي (Biology and Earth — Eighth Basic Grade) Grade: 8, student book. Publisher: Syrian Arab Republic, Ministry of Education and Teaching; printing and distribution rights to the General Organisation for Printing; first printed 2018–2019, this edition school year 2025–2026. No ISBN printed on the pages read. Records: TSV release record and books.json `grade-08/gov/syria/science/student/full-year.pdf`, on_disk=false, in_pushed=true — same book, cited once; fetched via the grab route. Size verified 605,480,565 bytes = record size_bytes; PDF 224 pages = record pages. Printed page numbers = PDF page numbers throughout. Verdict: COMPLETE as a book (224 pp., contents through the Unit 4 project), but Units 1–2 are Biology throughout. The pure Biology lessons are named below as already covered by the earlier Biology wave; only the genuinely general parts (Unit 3 Food and Health, Unit 4 Adaptation and Behaviour) are placed. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/syria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 3 Food and Health, the basic food groups: the organic foods — fats (about 75 g a day), carbohydrates (about 400 g a day) and proteins (about 75 g a day) — each one's job in the body and its sources, and the harm of too much or too little (obesity and clogged arteries from excess fat; kwashiorkor from protein shortage) (Syria G8) | Syria, *Biology and Earth, Eighth Basic Grade*, printed p. 199 |
+| Unit 3: the vitamins A, D, B1, B12, C and K, each one's role in the body and what its shortage causes (night blindness, rickets and soft bones, nerve inflammation, anaemia, scurvy and gum bleeding, poor blood clotting) (Syria G8) (placement filed as NEW LESSON NEEDED — vitamins-and-mineral-salts; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) | Syria, *Biology and Earth, Eighth Basic Grade*, printed p. 200 |
+| Unit 3: the mineral salts — calcium, iron, sodium–potassium and iodine — what each does in the body (bones and teeth, blood pigment, nerve signals and fluid balance, the thyroid gland) and the foods that give it (Syria G8) (placement filed as NEW LESSON NEEDED — vitamins-and-mineral-salts; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) | Syria, *Biology and Earth, Eighth Basic Grade*, printed p. 202 |
+
+**Acceptance count: taught in 16 countries (Ethiopia, Cook Islands, Suriname, India, Uganda, Bulgaria, Samoa, Seychelles, Ecuador, Venezuela, Mauritania, Bhutan, Dominican Republic, Kuwait, China, Syria).**
+
+Placement choice, on the record: placement filed as NEW LESSON NEEDED — vitamins-and-mineral-salts; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here.
+
+Syria's own way — its Ministry of Education science books (كتاب العلوم), in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own semester and unit order, with Syria's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: syria, syria science, ministry of education syria, nccd, food the six nutrients

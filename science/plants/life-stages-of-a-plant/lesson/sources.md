@@ -1,6 +1,6 @@
 # Sources — Life stages of a plant
 
-countries: Djibouti (teacher-guide evidence only), Mongolia, Kuwait
+countries: Djibouti (teacher-guide evidence only), Mongolia, Kuwait, Syria
 
 **Book (Djibouti — Grade 3 guide):** *Guide du maître — Sciences Expérimentales, 3ème année* (teacher guide) — Djibouti, CRIPEN — Centre de Recherche, d'Information et de Production de l'Éducation Nationale, Ministère de l'Éducation Nationale. Title as printed: Guide du Maître — Sciences Expérimentales, 3e année (Découverte du Monde), CRIPEN. Grade 3, TEACHER guide. PDF as secured: 1,469,198 bytes; pdfinfo reports 80 pages but the file is DAMAGED (broken page tree, "Kid object wrong type" errors) and only the first 44 pages yield text or render — Verdict: PARTIAL. Read and placed: front matter, the CB1 competency statement, and Modules 1–3 as far as the plant-life lessons (guide sequence 70). Missing: everything after that point in the guide. Page numbers cited are PDF pages (the guide's printed folios are only partly legible in the damaged copy). TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/djibouti-placements.md.
 
@@ -42,3 +42,31 @@ Searchable tags: mongolia, life stages of a plant, khun ba orchin, khun ba baiga
 Kuwait's own way — its Ministry of Education *Science* (العلوم) books, in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own unit order (life sciences, the human body, then matter and energy in the primary years; branch-built units with the 5E learning cycle and STEAM inquiry projects in the intermediate years) — is itself course content, carried exactly as filed.
 
 Searchable tags: kuwait, aloom, ministry of education kuwait, life stages of a plant
+
+## Syria growth (2026-11-14, General Science expansion)
+
+**Book (Syria — Science Grade 3, Semester 1 (student book)):** Title as printed: كتاب العلوم /3/ — الصف الثالث الأساسي — الفصل الأول (Science Book 3, Third Basic Grade, First Semester) Grade: 3, student book. Publisher: Syrian Arab Republic, Ministry of Education and Teaching / National Centre for Curriculum Development, school year 2025–2026. No ISBN printed on the pages read. Records: TSV release record and books.json `grade-03/gov/syria/science/student/semester-1.pdf`, on_disk=true — same book, cited once, read in place at phase3-staging. Size verified 113,352,168 bytes = record size_bytes; PDF 96 pages = record pages. Verdict: COMPLETE (contents through the final lesson, printed p. 87, with unit activities closing the 96-page PDF). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/syria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| stages of plant growth: seedling, young plant and fruiting plant, followed in the broad bean (Syria G3S1) (placement filed as NEW LESSON NEEDED — stages-of-plant-growth-seedling-to-fruiting; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) | Syria, *Science Book 3, Third Basic Grade, First Semester*, printed pp. 65–69 |
+
+**Book (Syria — Science Grade 1, Semester 2 (student book)):** Title as printed: كتاب العلوم /1/ — الصف الأول الأساسي — الفصل الثاني (Science Book 1, First Basic Grade, Second Semester) Grade: 1, student book. Publisher: Syrian Arab Republic, Ministry of Education and Teaching / National Centre for Curriculum Development, school year 2025–2026. No ISBN printed on the pages read. Records: books.json `grade-01/gov/syria/science/student/semester-2.pdf`, on_disk=false, in_pushed=true — fetched via the mid-size-books release asset (tree route 404; release asset size matches the record exactly). Size verified 75,890,874 bytes = record size_bytes; PDF 72 pages = record pages. Verdict: COMPLETE (contents through the Unit 2 project, printed p. 71). The same file was also downloaded and staged by the links wave from the record's Wayback capture of the ministry PDF (same bytes and pages) and placed lesson by lesson by a second reader; the two readers' placements are stocked together in this merge, with placements of the same book lesson into the same lesson deduped to a single row (see the merge log). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/syria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| from seeds to the plant: seeds come from fruits and differ in shape, colour and size (finding the seed inside cherries) (Syria G1S2) (placement filed as NEW LESSON NEEDED — stages-of-plant-growth-seedling-to-fruiting; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) | Syria, *Science Book 1, First Basic Grade, Second Semester*, printed pp. 62–65 |
+
+**Book (Syria — Science Grade 5, Part 1 (NCCD developed-curriculum edition) (student book)):** Title as printed: كتاب العلوم — الصف الخامس الأساسي — الجزء الأول (Science Book, Fifth Basic Grade, Part One) Grade: 5, student book. Publisher: Syrian Arab Republic, Ministry of Education / National Centre for Curriculum Development (NCCD), developed-curriculum edition, school year 2021–2022 (first printed 2018–2019). No ISBN printed on the pages read. Records: TSV release record and books.json `grade-05/gov/syria/science/student/part-1.pdf`, on_disk=true — same book, cited once, read in place at phase3-staging. Size verified 118,308,262 bytes = record size_bytes; PDF 164 pages = record pages. Verdict: COMPLETE (contents through the final worksheet/projects, printed p. 160). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/syria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| my little gardener: the seedling (البذرية) and its care (Syria G5P1) (placement filed as NEW LESSON NEEDED — stages-of-plant-growth-seedling-to-fruiting; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) | Syria, *Science Book, Fifth Basic Grade, Part One*, printed pp. 136–139 |
+
+**Acceptance count: taught in 3 countries (Mongolia, Kuwait, Syria).**
+
+Placement choice, on the record: placement filed as NEW LESSON NEEDED — stages-of-plant-growth-seedling-to-fruiting; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here.
+
+Syria's own way — its Ministry of Education science books (كتاب العلوم), in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own semester and unit order, with Syria's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: syria, syria science, ministry of education syria, nccd, life stages of a plant

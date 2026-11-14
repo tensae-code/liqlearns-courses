@@ -1,6 +1,6 @@
 # Sources — Solar eclipses, lunar eclipses and tides
 
-countries: Vietnam, Costa Rica, Bahamas (curriculum evidence only), United States, Pakistan (Punjab), Cuba, Samoa, Cambodia, Ecuador, Sudan, Bhutan, Dominican Republic
+countries: Vietnam, Costa Rica, Bahamas (curriculum evidence only), United States, Pakistan (Punjab), Cuba, Samoa, Cambodia, Ecuador, Sudan, Bhutan, Dominican Republic, Syria
 
 **Book 1:** *Chuyên đề học tập Vật lí 10 (Physics 10 Study Topics) — Kết nối tri thức với cuộc sống (Connecting Knowledge with Life)* (student study-topics book — the elective in-depth companion to the main book) — Vietnam. Title as printed: Chuyên đề học tập VẬT LÍ 10 — Kết nối tri thức với cuộc sống. Grade 10 · Student study-topics book · 4th reprint · Authors: Vũ Văn Hùng (editor-in-chief), Nguyễn Quang Báu (editor) et al. · NXB Giáo dục Việt Nam (Vietnam Education Publishing House). Repo path: grade-10/gov/vietnam/physics/student/study-topics.pdf · Release: mid-size-books-2 (asset grade-10-gov-vietnam-physics-student-study-topics.pdf). Byte size: 18,708,177 (matches record). PDF pages: 82 (record 82). Offset: printed p. = PDF p. − 1. Verdict: COMPLETE (cover/title/TOC verified; Topic 1 opener read). Image-only PDF (no text layer); read visually from rendered page sheets. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/vietnam-placements.md.
 
@@ -173,3 +173,23 @@ Searchable tags: bhutan, bhutan science, science class vi
 Dominican Republic's own way — its *Libro Abierto* Ciencias de la Naturaleza books (MINERD, Serie 1 Proyecto Libro Abierto) teach this thing at the places and in the order named in the rows above, with the country's own examples where the rows name them (Hispaniola, the island's coasts and its tropical climate among them) — is itself course content, carried exactly as filed.
 
 Searchable tags: dominican republic, ciencias de la naturaleza, minerd, libro abierto, solar eclipses lunar eclipses and tides
+
+## Syria growth (2026-11-14, General Science expansion)
+
+**Book (Syria — Science Grade 5, Part 2 (student book)):** Title as printed: كتاب العلوم — الصف الخامس الأساسي — الجزء الثاني (Science Book, Fifth Basic Grade, Part Two; Units 5–7) Grade: 5, student book. Publisher: Syrian Arab Republic, Ministry of Education and Teaching, school year 2025–2026. No ISBN printed on the pages read. Records: TSV release record and books.json `grade-05/gov/syria/science/student/part-2.pdf`, on_disk=true — same book, cited once, read in place at phase3-staging. Size verified 44,029,863 bytes = record size_bytes; PDF 108 pages = record pages. Verdict: COMPLETE (contents through the final worksheet/projects, printed p. 105). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/syria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| wonders of water: the tide (المد والجزر) and the rise of water level (Syria G5P2) | Syria, *Science Book, Fifth Basic Grade, Part Two*, printed pp. 91–95 |
+
+**Book (Syria — Science Grade 6, Semester 2 (student book)):** Title as printed: كتاب العلوم — الصف السادس الأساسي — الفصل الثاني (Science Book, Sixth Basic Grade, Second Semester) Grade: 6, student book. Publisher: Syrian Arab Republic, Ministry of Education and Teaching / National Centre for Curriculum Development, school year 2025–2026 (first printed 2019–2020). No ISBN printed on the pages read. Records: TSV release record and books.json `grade-06/gov/syria/science/student/semester-2.pdf`, on_disk=true — same book, cited once, read in place at phase3-staging. Size verified 49,268,267 bytes = record size_bytes; PDF 132 pages = record pages. Verdict: COMPLETE (contents through the final worksheet/projects, printed p. 130). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/syria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| a sun, an earth and a moon: Majid reads news of a solar eclipse in a science magazine (Syria G6S2) | Syria, *Science Book, Sixth Basic Grade, Second Semester*, printed pp. 16–22 |
+
+**Acceptance count: taught in 12 countries (Vietnam, Costa Rica, United States, Pakistan (Punjab), Cuba, Samoa, Cambodia, Ecuador, Sudan, Bhutan, Dominican Republic, Syria).**
+
+Syria's own way — its Ministry of Education science books (كتاب العلوم), in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own semester and unit order, with Syria's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: syria, syria science, ministry of education syria, nccd, solar eclipses lunar eclipses and tides

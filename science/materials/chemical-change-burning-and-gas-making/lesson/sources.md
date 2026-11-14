@@ -1,6 +1,6 @@
 # Sources — Chemical change: burning and gas-making
 
-countries: Ethiopia, Serbia, Djibouti (teacher-guide evidence only), Costa Rica, Uganda, Samoa, Seychelles, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Angola, Bhutan, Dominican Republic, Kuwait, China
+countries: Ethiopia, Serbia, Djibouti (teacher-guide evidence only), Costa Rica, Uganda, Samoa, Seychelles, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Angola, Bhutan, Dominican Republic, Kuwait, China, Syria
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -233,3 +233,23 @@ Searchable tags: kuwait, aloom, ministry of education kuwait, chemical change bu
 China's own way — its 科学 (Science) textbooks teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with China's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: china, china science, pep, people's education press, chemical change burning and gas making
+
+## Syria growth (2026-11-14, General Science expansion)
+
+**Book (Syria — Science Grade 4, Semester 2 (student book)):** Title as printed: كتاب العلوم /4/ — الصف الرابع الأساسي — الفصل الثاني (Science Book 4, Fourth Basic Grade, Second Semester; Units 4–6) Grade: 4, student book. Publisher: Syrian Arab Republic, Ministry of Education / National Centre for Curriculum Development, school year 2025–2026. No ISBN printed on the pages read. Records: books.json `grade-04/gov/syria/science/student/semester-2.pdf`, on_disk=false, in_pushed=true — fetched via the mid-size-books release asset (size matches the record exactly). Size verified 68,945,791 bytes = record size_bytes; PDF 84 pages = record pages. Verdict: COMPLETE (contents through the Unit 6 worksheet/projects, printed p. 82). The same file was also downloaded and staged by the links wave from the record's Wayback capture of the ministry PDF (same bytes and pages) and placed lesson by lesson by a second reader; the two readers' placements are stocked together in this merge, with placements of the same book lesson into the same lesson deduped to a single row (see the merge log). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/syria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| chemical changes: what changes when my mother fries the egg (Syria G4S2) | Syria, *Science Book 4, Fourth Basic Grade, Second Semester*, printed pp. 28–32 |
+
+**Book (Syria — Science Grade 5, Part 1 (NCCD developed-curriculum edition) (student book)):** Title as printed: كتاب العلوم — الصف الخامس الأساسي — الجزء الأول (Science Book, Fifth Basic Grade, Part One) Grade: 5, student book. Publisher: Syrian Arab Republic, Ministry of Education / National Centre for Curriculum Development (NCCD), developed-curriculum edition, school year 2021–2022 (first printed 2018–2019). No ISBN printed on the pages read. Records: TSV release record and books.json `grade-05/gov/syria/science/student/part-1.pdf`, on_disk=true — same book, cited once, read in place at phase3-staging. Size verified 118,308,262 bytes = record size_bytes; PDF 164 pages = record pages. Verdict: COMPLETE (contents through the final worksheet/projects, printed p. 160). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/syria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| how does it change?: the chemical change, through bread — a basic food of the Syrian table (Syria G5P1) | Syria, *Science Book, Fifth Basic Grade, Part One*, printed pp. 118–123 |
+
+**Acceptance count: taught in 14 countries (Ethiopia, Serbia, Costa Rica, Uganda, Samoa, Seychelles, Sudan, Venezuela, Angola, Bhutan, Dominican Republic, Kuwait, China, Syria).**
+
+Syria's own way — its Ministry of Education science books (كتاب العلوم), in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own semester and unit order, with Syria's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: syria, syria science, ministry of education syria, nccd, chemical change burning and gas making

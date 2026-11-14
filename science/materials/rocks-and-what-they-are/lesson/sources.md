@@ -1,6 +1,6 @@
 # Sources — Rocks — and what they are
 
-countries: Albania (teacher-guide evidence only), Armenia, Afghanistan, Cabo Verde (teacher-guide evidence only), Angola
+countries: Albania (teacher-guide evidence only), Armenia, Afghanistan, Cabo Verde (teacher-guide evidence only), Angola, Syria
 
 **Book (Albania):** *Libër mësuesi — Dituri natyre 2* (teacher guide) — Albania, Shtëpia Botuese Mediaprint, first edition 2016; ISBN 978-9928-08-234-3. Title as printed: Libër mësuesi — Dituri natyre 2 (Albanian translation of Heinemann Explore Science, Teacher's Book, New International Edition, Grade 2; authors Tara Lievesley, Deborah Herridge, John Stringer; © Pearson Education Limited 2012; Albanian adaptation Laureta (Shkoza) Çako). Grade 2, TEACHER guide — all placements from it are guide evidence. PDF: 126 pages, 5,513,233 bytes (verified: byte size and 126 pages match the books.json record exactly; cover/title page matches the record title). Records: the Grade 2 teacher guide appears twice — TSV release record and books.json record — the same book, verified identical byte size 5,513,233, cited once here. Verdict: COMPLETE. TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/albania-placements.md.
 
@@ -93,3 +93,19 @@ Placement choice, on the record: the placement(s) above were filed as NEW LESSON
 Angola's own way — *Ciências da Natureza* (Grades 5–6) is Angola's nature-science book: the same child who met the world whole in *Estudo do Meio* now meets air, water, soil, energy and the body as nature science, in the order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: angola, ciências da natureza 5, grade 5
+
+## Syria growth (2026-11-14, General Science expansion)
+
+**Book (Syria — Science Grade 4, Semester 2 (student book)):** Title as printed: كتاب العلوم /4/ — الصف الرابع الأساسي — الفصل الثاني (Science Book 4, Fourth Basic Grade, Second Semester; Units 4–6) Grade: 4, student book. Publisher: Syrian Arab Republic, Ministry of Education / National Centre for Curriculum Development, school year 2025–2026. No ISBN printed on the pages read. Records: books.json `grade-04/gov/syria/science/student/semester-2.pdf`, on_disk=false, in_pushed=true — fetched via the mid-size-books release asset (size matches the record exactly). Size verified 68,945,791 bytes = record size_bytes; PDF 84 pages = record pages. Verdict: COMPLETE (contents through the Unit 6 worksheet/projects, printed p. 82). The same file was also downloaded and staged by the links wave from the record's Wayback capture of the ministry PDF (same bytes and pages) and placed lesson by lesson by a second reader; the two readers' placements are stocked together in this merge, with placements of the same book lesson into the same lesson deduped to a single row (see the merge log). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/syria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the rocks around us: stone, rock and marble (Syria G4S2) (placement filed as NEW LESSON NEEDED — rocks-around-us-stone-rock-and-marble; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) | Syria, *Science Book 4, Fourth Basic Grade, Second Semester*, printed pp. 38–44 |
+
+**Acceptance count: taught in 4 countries (Armenia, Afghanistan, Angola, Syria).**
+
+Placement choice, on the record: placement filed as NEW LESSON NEEDED — rocks-around-us-stone-rock-and-marble; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here.
+
+Syria's own way — its Ministry of Education science books (كتاب العلوم), in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own semester and unit order, with Syria's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: syria, syria science, ministry of education syria, nccd, rocks and what they are

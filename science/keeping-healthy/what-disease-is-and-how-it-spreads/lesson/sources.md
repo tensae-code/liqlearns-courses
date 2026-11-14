@@ -1,6 +1,6 @@
 # Sources — What disease is, and how it spreads
 
-countries: Ethiopia, Peru, Jamaica (curriculum-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Australia, Suriname, Serbia, Ghana (curriculum evidence only), Costa Rica, India, Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Samoa, Cambodia, Seychelles, Ecuador, Afghanistan, Sudan, Venezuela, Mauritania, Angola, Dominican Republic, Kuwait
+countries: Ethiopia, Peru, Jamaica (curriculum-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Australia, Suriname, Serbia, Ghana (curriculum evidence only), Costa Rica, India, Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Samoa, Cambodia, Seychelles, Ecuador, Afghanistan, Sudan, Venezuela, Mauritania, Angola, Dominican Republic, Kuwait, Syria
 
 **Book 1:** *Environmental Science Teacher's Guide, Grade 1* (አካባቢ ሳይንስ የመምህራን መምሪያ 1ኛ ክፍል) (teacher's guide — the file held in the library as the Grade 1 "student" book; the Grade 1 student textbook itself is NOT held) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. The held file is damaged and truncated: it holds guide printed pp. i–v and 1–27 only, of a guide running to at least printed p. 85. Guide printed page = PDF page − 8 in the genuine pages. Read visually, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-student-placements.md.
 
@@ -426,3 +426,23 @@ Searchable tags: dominican republic, ciencias de la naturaleza, minerd, libro ab
 Kuwait's own way — its Ministry of Education *Science* (العلوم) books, in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own unit order (life sciences, the human body, then matter and energy in the primary years; branch-built units with the 5E learning cycle and STEAM inquiry projects in the intermediate years) — is itself course content, carried exactly as filed.
 
 Searchable tags: kuwait, aloom, ministry of education kuwait, what disease is and how it spreads
+
+## Syria growth (2026-11-14, General Science expansion)
+
+**Book (Syria — Science Grade 5, Part 2 (student book)):** Title as printed: كتاب العلوم — الصف الخامس الأساسي — الجزء الثاني (Science Book, Fifth Basic Grade, Part Two; Units 5–7) Grade: 5, student book. Publisher: Syrian Arab Republic, Ministry of Education and Teaching, school year 2025–2026. No ISBN printed on the pages read. Records: TSV release record and books.json `grade-05/gov/syria/science/student/part-2.pdf`, on_disk=true — same book, cited once, read in place at phase3-staging. Size verified 44,029,863 bytes = record size_bytes; PDF 108 pages = record pages. Verdict: COMPLETE (contents through the final worksheet/projects, printed p. 105). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/syria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the health of my breathing: influenza, the cold, asthma and tuberculosis (السل) (Syria G5P2) | Syria, *Science Book, Fifth Basic Grade, Part Two*, printed pp. 50–55 |
+
+**Book (Syria — Science (Biology & Earth) Grade 7 (NCCD developed-curriculum edition, 2021–2022) (student book)):** Title as printed: العلوم (علم الأحياء والأرض) — الصف السابع الأساسي (Science — Biology and Earth — Seventh Basic Grade) Grade: 7, student book. Publisher: Syrian Arab Republic, Ministry of Education / National Centre for Curriculum Development (NCCD), developed-curriculum edition, 2021–2022. No ISBN printed on the pages read. Records: TSV release record and books.json `grade-07/gov/syria/science/student/full-year.pdf`, on_disk=true — same book, cited once, read in place at phase3-staging. Size verified 120,700,651 bytes = record size_bytes; PDF 172 pages = record pages. Verdict: COMPLETE as a book (172 pp., contents through the Unit 5 evaluation), but its content is Biology throughout — despite the "Biology and Earth" title the contents list no earth-science unit. The pure Biology lessons are named below as already covered by the earlier Biology wave; only the genuinely general parts (microscope skills, health and disease, levels of organisation, ecosystem and ecological balance) are placed. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/syria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 4, lesson 1 Health and disease (Syria G7) | Syria, *Science — Biology and Earth, Seventh Basic Grade*, printed pp. 116–123 |
+
+**Acceptance count: taught in 23 countries (Ethiopia, Peru, Australia, Suriname, Serbia, Costa Rica, India, Uganda, Bulgaria, Greece, Pakistan (Punjab), Samoa, Cambodia, Seychelles, Ecuador, Afghanistan, Sudan, Venezuela, Mauritania, Angola, Dominican Republic, Kuwait, Syria).**
+
+Syria's own way — its Ministry of Education science books (كتاب العلوم), in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own semester and unit order, with Syria's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: syria, syria science, ministry of education syria, nccd, what disease is and how it spreads

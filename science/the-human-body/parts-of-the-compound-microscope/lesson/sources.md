@@ -1,6 +1,6 @@
 # Sources — The microscope — parts and what each does
 
-countries: Ethiopia, Samoa, Seychelles, Cabo Verde, Mauritania
+countries: Ethiopia, Samoa, Seychelles, Cabo Verde, Mauritania, Syria
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed (printed "ISBN No –"). COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -71,3 +71,17 @@ Searchable tags: cabo verde, ciencias integradas, atividades cientificas, minist
 Mauritania's own way — its IPN Sciences Naturelles books teach primary science in Arabic in three fields (health and nutrition, environment, experimentation) and its collège/lycée SVT books teach life and earth science in French (Arabic for the Lettres Originales stream), book by book in the order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: ipn, mauritania, sciences naturelles, sn 4as, svt
+
+## Syria growth (2026-11-14, General Science expansion)
+
+**Book (Syria — Science (Biology & Earth) Grade 7 (NCCD developed-curriculum edition, 2021–2022) (student book)):** Title as printed: العلوم (علم الأحياء والأرض) — الصف السابع الأساسي (Science — Biology and Earth — Seventh Basic Grade) Grade: 7, student book. Publisher: Syrian Arab Republic, Ministry of Education / National Centre for Curriculum Development (NCCD), developed-curriculum edition, 2021–2022. No ISBN printed on the pages read. Records: TSV release record and books.json `grade-07/gov/syria/science/student/full-year.pdf`, on_disk=true — same book, cited once, read in place at phase3-staging. Size verified 120,700,651 bytes = record size_bytes; PDF 172 pages = record pages. Verdict: COMPLETE as a book (172 pp., contents through the Unit 5 evaluation), but its content is Biology throughout — despite the "Biology and Earth" title the contents list no earth-science unit. The pure Biology lessons are named below as already covered by the earlier Biology wave; only the genuinely general parts (microscope skills, health and disease, levels of organisation, ecosystem and ecological balance) are placed. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/syria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 1, lesson 1 The microscope: parts of the light microscope (eyepiece, objective lens, slide stage, condenser, coarse and fine focus knobs) and the function of each; comparing the light microscope and the electron microscope (Syria G7) | Syria, *Science — Biology and Earth, Seventh Basic Grade*, printed pp. 6–11 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Samoa, Seychelles, Cabo Verde, Mauritania, Syria).**
+
+Syria's own way — its Ministry of Education science books (كتاب العلوم), in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own semester and unit order, with Syria's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: syria, syria science, ministry of education syria, nccd, parts of the compound microscope

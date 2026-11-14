@@ -1,6 +1,6 @@
 # Sources — Earthquakes and living with seismic risk
 
-countries: Mexico
+countries: Mexico, Syria
 
 **Book 1:** *Ética, naturaleza y sociedades, Primer grado de secundaria* (student, Grade 7; Colección Ximhai, SEP) — Mexico, Secretaría de Educación Pública (SEP), Mexico (Nueva Escuela Mexicana free textbook). Title as printed: Ética, naturaleza y sociedades, Primer grado de secundaria. Publisher: Secretaría de Educación Pública (SEP), Mexico (Nueva Escuela Mexicana free textbook). Accessible PDF 311 pages (print edition 351 pp.). Verdict: COMPLETE. Distinct book cited once from its several records, as filed: the TSV file is a Braille/ink transcription of the same free textbook (258 PDF pages, its own note says it transcribes the printed book); the two books.json files are the Colección Ximhai accessible editions for secundaria and telesecundaria (both 311 PDF pages, text identical apart from a few front-matter lines). Scope note, carried as filed: this book mixes ethics, history, geography and civics with nature study — only the nature/science parts are placed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mexico-placements.md.
 
@@ -17,3 +17,19 @@ countries: Mexico
 Placement choice, on the record: This NEW LESSON was built for the Mexico placement "NEW LESSON NEEDED — earthquakes-and-living-with-seismic-risk" — mexico-placements.md, printed pp. 136–150. No existing general-science lesson covers living with seismic risk as its own thing (checked the live repo at merge time: the Physics title's seismic-waves lesson is a secondary-depth physics treatment of wave energy, a different treatment at a different depth, and was not grown), so it gets its own lesson. It sits in earth-and-space/ and is registered in CURRICULUM.md Unit 19 (Earth and Space). Mexico's own way — seismic risk taught through its own earthquakes of 19 September 1985 and 2017, with the Colegio Rébsamen tragedy carried as a safety lesson — IS this lesson's content, carried exactly as the placement describes it, in summary only.
 
 Searchable tags: earthquakes, seismic risk, tectonic plates, 19 september 1985, 2017, colegio rebsamen, safety lesson, mexico, grade 7, etica naturaleza y sociedades
+
+## Syria growth (2026-11-14, General Science expansion)
+
+**Book (Syria — Science Grade 6, Semester 2 (student book)):** Title as printed: كتاب العلوم — الصف السادس الأساسي — الفصل الثاني (Science Book, Sixth Basic Grade, Second Semester) Grade: 6, student book. Publisher: Syrian Arab Republic, Ministry of Education and Teaching / National Centre for Curriculum Development, school year 2025–2026 (first printed 2019–2020). No ISBN printed on the pages read. Records: TSV release record and books.json `grade-06/gov/syria/science/student/semester-2.pdf`, on_disk=true — same book, cited once, read in place at phase3-staging. Size verified 49,268,267 bytes = record size_bytes; PDF 132 pages = record pages. Verdict: COMPLETE (contents through the final worksheet/projects, printed p. 130). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/syria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| secrets of our Earth: the earthquake (الزلزال) and earth tremors, in an experiment (Syria G6S2) (placement filed as NEW LESSON NEEDED — earthquakes-and-earth-tremors; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) | Syria, *Science Book, Sixth Basic Grade, Second Semester*, printed pp. 5–10 |
+
+**Acceptance count: taught in 2 countries (Mexico, Syria).**
+
+Placement choice, on the record: placement filed as NEW LESSON NEEDED — earthquakes-and-earth-tremors; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here.
+
+Syria's own way — its Ministry of Education science books (كتاب العلوم), in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own semester and unit order, with Syria's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: syria, syria science, ministry of education syria, nccd, earthquakes and living with seismic risk
