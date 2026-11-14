@@ -40,7 +40,12 @@ The titles, in ladder order:
    cold water — Finland's own way, using a local berry), and sand
    flowing — and what changes it (dry sand pours grain over grain,
    and what affects its flowing is found by changing one thing at
-   a time and comparing pours) — 58 lessons in CURRICULUM.md Unit 4.
+   a time and comparing pours). The expansion also adds
+   Timor-Leste's lesson — making natural dyes from plants
+   (finding which plant parts make colour for materials, and how
+   those parts dissolve in water — the dye-making investigation
+   inside its Grade 3 mixtures unit — teacher-guide evidence
+   only, acceptance 0) — 59 lessons in CURRICULUM.md Unit 4.
 5. **Light** — things light passes through, things that block it,
    shadows, and where light comes from.
 6. **Weather and Seasons** — today's weather, the long pattern

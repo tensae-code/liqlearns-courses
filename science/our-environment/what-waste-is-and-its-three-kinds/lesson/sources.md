@@ -1,17 +1,22 @@
 # Sources — What waste is and its three kinds
 
-countries: Ethiopia
+countries: Ethiopia, Timor-Leste (teacher-guide evidence only)
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
+
+**Book 8:** *Ciências Naturais, Grade 3 Teacher Guide: Unit Lesson Plans, Period 2* (teacher guide) — Timor-Leste, Ministério da Educação, República Democrática de Timor-Leste. Title as printed: *Livru Planu Lisaun Klase 3 Períodu 2* — the Class 3 lesson-plan book for Period 2; lesson plans in Tetum with Portuguese technical terms. Grade: 3 · Teacher guide · Record: TSV release record · Fetched copy: 15,881,272 bytes, 829 PDF pages, full text layer; read in full. Verdict: COMPLETE for the Period 2 science component (Siénsia Naturál, printed pp. 512–623; lessons 31–60 — all three unit summaries and all 30 lesson plans read); the book is the whole-subject lesson-plan volume for Period 2 (literacy, mathematics, natural science, social science, arts, health, physical education), and only its Natural Science component is placed here; the Period 1 science units appear in the book only as rows of the year-plan table on printed p. 512 — they belong to the Period 1 volume, which is not held, and are not placed. All placements from this book are teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/timor-leste-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Left over after use — in three states | Ethiopia, *Grade 4 Student Textbook*, §3.7, printed pp. 89–90 |
 
 | Chapter 3 review — folded into questions | Ethiopia, *Environmental Science Student Textbook, Grade 4*, Chapter 3 summary + review, printed pp. 96–99 — the chapter review is folded into this lesson's questions as prove-it items (review items); it is not built as a separate lesson |
+| Starting from a mind-map of what the class already knows about waste, and sorting the waste of their own living place (teacher guide — evidence) (Timor-Leste, Grade 3) | Timor-Leste, *Ciências Naturais, Grade 3 Teacher Guide: Unit Lesson Plans, Period 2* (teacher guide — evidence), Unit: Lixu / Waste (Lessons 55–60), unit summary — printed p. 601 |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 
+Timor-Leste is named as teacher-guide evidence only (*Ciências Naturais, Grade 3 Teacher Guide: Unit Lesson Plans, Period 2* — teacher guide), not added to this count.
+
 The Grade 4 student book is COMPLETE (printed pp. 1–148); nothing in this lesson rests on the regional teacher guides.
 
-Searchable tags: waste, solid waste, liquid waste, polluted air, leftover, what waste is and its three kinds
+Searchable tags: waste, solid waste, liquid waste, polluted air, leftover, what waste is and its three kinds, timor-leste, timor-leste grade 3 teacher guide, livru planu lisaun

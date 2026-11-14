@@ -1,6 +1,6 @@
 # Sources — Fair tests — variables and control groups
 
-countries: Ethiopia, Barbados, Indonesia (teacher-guide evidence only), Uganda, Jamaica (curriculum-guide evidence only)
+countries: Ethiopia, Barbados, Indonesia (teacher-guide evidence only), Uganda, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). COMPLETE: 241 PDF pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Barbados, Indonesia (teacher-guide evidence only), Uganda, 
 
 
 **Book 5:** *National Standards Curriculum Guide: Science, Grades 7–9 — Integrated Science* (curriculum guide) — Jamaica, Ministry of Education, Youth and Information, Jamaica, 2018 (record dated Jan 2020). Title as printed: National Standards Curriculum Guide, Grades 7–9, Integrated Science. Publisher: Ministry of Education, Youth and Information, Jamaica, 2018. Grades: 7–9 · Kind as verified: curriculum guide (national standards curriculum guide — cited as the guide evidence it is, outside the acceptance count) · Repo path: grade-07/gov/jamaica/curriculum/grades-7-9-integrated-science.pdf · Byte size: 6,142,276 (on-disk staging copy, matching the books.json size_bytes) · PDF pages: 283 · Verdict: COMPLETE. Records: 2 (TSV release record + books.json record) = 1 distinct book — both records are the same file, cited ONCE here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jamaica-placements.md.
+**Book 6:** *Ciências Naturais, Grade 3 Teacher Guide: Unit Lesson Plans, Period 2* (teacher guide) — Timor-Leste, Ministério da Educação, República Democrática de Timor-Leste. Title as printed: *Livru Planu Lisaun Klase 3 Períodu 2* — the Class 3 lesson-plan book for Period 2; lesson plans in Tetum with Portuguese technical terms. Grade: 3 · Teacher guide · Record: TSV release record · Fetched copy: 15,881,272 bytes, 829 PDF pages, full text layer; read in full. Verdict: COMPLETE for the Period 2 science component (Siénsia Naturál, printed pp. 512–623; lessons 31–60 — all three unit summaries and all 30 lesson plans read); the book is the whole-subject lesson-plan volume for Period 2 (literacy, mathematics, natural science, social science, arts, health, physical education), and only its Natural Science component is placed here; the Period 1 science units appear in the book only as rows of the year-plan table on printed p. 512 — they belong to the Period 1 volume, which is not held, and are not placed. All placements from this book are teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/timor-leste-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The three variables | Ethiopia, *General Science Student Textbook, Grade 8*, printed pp. 6–8 |
@@ -21,8 +23,11 @@ countries: Ethiopia, Barbados, Indonesia (teacher-guide evidence only), Uganda, 
 
 | Ch 2: the scientific method inside the measurements chapter (Uganda, Senior One) | Uganda, *Physics Textbook — Senior One (NCDC Prototype)*, Ch 2 Measurements in Physics — printed p. 28 |
 | Working like a Scientist 3: planning and designing fair tests to solve problems (curriculum-guide evidence) (Jamaica, Grade 9) | Jamaica, *National Standards Curriculum Guide: Science, Grades 7–9 — Integrated Science*, Working like a Scientist 3 — printed p. 163 |
+| Using a table to run an investigation on mixtures, and predicting what heat does to a mixture before testing (teacher guide — evidence) (Timor-Leste, Grade 3) | Timor-Leste, *Ciências Naturais, Grade 3 Teacher Guide: Unit Lesson Plans, Period 2* (teacher guide — evidence), Unit: Matéria — mistura / Matter: mixtures, unit summary — printed p. 513 |
 
 **Acceptance count: taught in 3 countries (Ethiopia, Barbados, Uganda).** Indonesia is named as teacher-guide evidence only (*Buku Panduan Guru Fisika untuk SMA/MA Kelas XI* — teacher guide), not added to this count.
+
+Timor-Leste is named as teacher-guide evidence only (*Ciências Naturais, Grade 3 Teacher Guide: Unit Lesson Plans, Period 2* — teacher guide), not added to this count.
 
 Jamaica is named as curriculum-guide evidence only (*National Standards Curriculum Guide: Science, Grades 7–9 — Integrated Science* — curriculum guide), not added to this count.
 
@@ -30,4 +35,4 @@ Pairing warning (carried exactly): the Grade 8 teacher guide is a federal new-sy
 
 Student placement: Grade 8 student item 4 (Unit 1 §1.3, printed pp. 12–14), with the variable definitions it stands on at printed pp. 6–8 inside student item 2's section — both ranges are the student book's own Unit 1, cited as printed. The fertiliser-and-bean framing is the student book's own fair-test activity. No book errors inside this item were flagged by the placements.
 
-Searchable tags: fair test, independent variable, dependent variable, controlled variables, control group, constants, Grade 8 Unit 1, uganda, jamaica, jamaica nsc integrated science
+Searchable tags: fair test, independent variable, dependent variable, controlled variables, control group, constants, Grade 8 Unit 1, uganda, jamaica, jamaica nsc integrated science, timor-leste, timor-leste grade 3 teacher guide, livru planu lisaun

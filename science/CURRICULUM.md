@@ -483,6 +483,7 @@ solar-system comparison lessons.
 56. **Colours dancing in milk — surface tension** (`materials/colours-dancing-in-milk-surface-tension`) — drops of colour rest on milk's surface film, and a touch of soap breaks the film and chases the fat, so the colours swirl and dance (Finland — *Luova LUMA -hankkeen aktiviteettipankki*, activity 8, p. 14)
 57. **Heat paints colours — bilberry indicator** (`materials/heat-paints-colours-bilberry-indicator`) — bilberry juice changes colour in warm water and in cold water, so heat itself is read from a colour change — Finland's own way, using a local berry (Finland — *Luova LUMA -hankkeen aktiviteettipankki*, activity 11, p. 18)
 58. **Sand flowing — and what changes it** (`materials/sand-flowing-and-what-changes-it`) — dry sand pours grain over grain like a slow liquid, and what affects its flowing is found by changing one thing at a time and comparing pours (Finland — *Luova LUMA -hankkeen aktiviteettipankki*, activity 14, p. 22)
+59. **Making natural dyes from plants** (`materials/making-natural-dyes-from-plants`) — finding which plant parts make colour for materials, and how those parts dissolve in water — the dye-making investigation inside the mixtures unit — teacher-guide evidence only, acceptance 0 (Timor-Leste, Grade 3 — *Ciências Naturais, Grade 3 Teacher Guide: Unit Lesson Plans, Period 2*, printed p. 513)
 
 
 ## Unit 5 — Light

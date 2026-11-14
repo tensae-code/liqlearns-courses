@@ -1,19 +1,24 @@
 # Sources — Animals — invertebrates: insects and earthworms
 
-countries: Ethiopia
+countries: Ethiopia, Timor-Leste (teacher-guide evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
 **Book 2:** *General Science Teacher's Guide, Grade 7* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2023, authors Andualem Beka, Sagni Megersa, Goshu Asab, Michael Getachew, Gemechis Nemera, Diriba Kebede, 236 pp (PDF). Printed page = PDF page − 15. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-teacher-placements.md.
+
+**Book 3:** *Ciências Naturais, Grade 3 Teacher Guide: Unit Lesson Plans, Period 2* (teacher guide) — Timor-Leste, Ministério da Educação, República Democrática de Timor-Leste. Title as printed: *Livru Planu Lisaun Klase 3 Períodu 2* — the Class 3 lesson-plan book for Period 2; lesson plans in Tetum with Portuguese technical terms. Grade: 3 · Teacher guide · Record: TSV release record · Fetched copy: 15,881,272 bytes, 829 PDF pages, full text layer; read in full. Verdict: COMPLETE for the Period 2 science component (Siénsia Naturál, printed pp. 512–623; lessons 31–60 — all three unit summaries and all 30 lesson plans read); the book is the whole-subject lesson-plan volume for Period 2 (literacy, mathematics, natural science, social science, arts, health, physical education), and only its Natural Science component is placed here; the Period 1 science units appear in the book only as rows of the year-plan table on printed p. 512 — they belong to the Period 1 volume, which is not held, and are not placed. All placements from this book are teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/timor-leste-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Invertebrates and insects (doing) | Grade 7 Student Textbook, Unit 5, printed pp. 140–142 (student placement item 64) |
 | Sub lesson 2 — The earthworm | Grade 7 Student Textbook, Unit 5, printed pp. 140–142 (student placement item 64) |
 | Field-safety and specimen-handling guidance in the practical (teacher guide — evidence) | Grade 7 Teacher Guide, Unit 5, printed pp. 84–108 (teacher placement item 11) — syllabus-level teacher evidence only |
+| Observing the mosquito life cycle over two weeks — inside the waste unit, because standing waste breeds mosquitoes (teacher guide — evidence) (Timor-Leste, Grade 3) | Timor-Leste, *Ciências Naturais, Grade 3 Teacher Guide: Unit Lesson Plans, Period 2* (teacher guide — evidence), Unit: Lixu / Waste, unit summary — printed p. 601 |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 
+Timor-Leste is named as teacher-guide evidence only (*Ciências Naturais, Grade 3 Teacher Guide: Unit Lesson Plans, Period 2* — teacher guide), not added to this count.
+
 Pairing warning (carried exactly): the G7 guide is an ADDIS ABABA bureau book (2023), NOT edition-matched to the Amhara student book (©2015 E.C.) — guide material is filed as syllabus-level teacher evidence, never as a page-key. The guide's contents misprint "Living Things and their Tiversity" — not reproduced. Teacher-guide rows above are evidence only and never count as pupil-taught. No page is claimed beyond the placements. The student book's facts are taught as printed for this unit; no Unit 5 student-book error is flagged in the placements.
 
-Searchable tags: invertebrates, insects, earthworm, clitellum, Practical 5.3, Practical 5.4
+Searchable tags: invertebrates, insects, earthworm, clitellum, Practical 5.3, Practical 5.4, timor-leste, timor-leste grade 3 teacher guide, livru planu lisaun
