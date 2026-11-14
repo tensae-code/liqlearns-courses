@@ -1,6 +1,6 @@
 # Sources — The heart
 
-countries: Ethiopia, Cook Islands
+countries: Ethiopia, Cook Islands, Trinidad and Tobago (curriculum-guide evidence only)
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -11,6 +11,8 @@ countries: Ethiopia, Cook Islands
 **Book 14:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank as printed (printed “ISBN No –”). PDF 241 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
 **Book 15:** *Ko Au e Toku Aorangi: Kai No te Oraanga Meitaki — Me, Myself, My Environment: Nutrition* (student book) — Cook Islands, Jacquie Bay and Delaney Yaqona; © University of Auckland, Cook Islands Ministry of Health and Cook Islands Ministry of Education, 2015; published for the Liggins Institute by Read Pacific Publishing Ltd, Auckland; ISBN 978-0-9941267-7-1. As printed: *Ko Au e Toku Aorangi: Kai No te Oraanga Meitaki — Me, Myself, My Environment: Nutrition, Student Book, Cook Islands Edition*. Filed as Grade 8, student book, in Cook Islands Māori and English. Record: TSV release record (EPUB asset). Fetched copy: 59,156,535 bytes, EPUB with 102 pages (printed pp. i–96). Verdict: COMPLETE — read in full from the EPUB's text (every page's content checked against the printed contents and unit map). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cook-islands-placements.md.
+
+**Book 16:** *Secondary School Curriculum — Integrated Science, Forms One–Three* (curriculum guide) — Trinidad and Tobago, Ministry of Education, Curriculum Development Division, published 2014, Rudranath Capildeo Learning Resource Centre, Couva. Title as printed: *Secondary School Curriculum — Integrated Science, Forms One–Three*. Grades: Forms 1–3 (filed as Grade 8 / Forms 1–3) · Kind as verified: curriculum / teacher guide (NCSE Integrated Science Curriculum Guide — cited as the guide evidence it is, outside the acceptance count) · Repo path: grade-08/gov/trinidad-tobago/integrated-science/teacher/forms-1-3-curriculum-guide.pdf · Byte size: 1,804,607 · PDF pages: 118 · Verdict: COMPLETE — full text layer; read in full (framework, learning outcomes and the Form 1–3 content scopes, printed pp. 38–108; printed contents on PDF p. 3; topic framework on printed p. 33). Records: 1 = 1 distinct book — cited ONCE here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/trinidad-and-tobago-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -23,7 +25,11 @@ countries: Ethiopia, Cook Islands
 | Grade 8 — blood made in marrow; double circulation; the diseases | Ethiopia, *General Science Student Textbook, Grade 8*, Unit 4 (blood as plasma plus red cells, white cells and platelets, all made in bone marrow; double circulation — pulmonary vs systemic loops; hypertension, heart attack, stroke, heart failure; outdoor circuit game with petals as blood cells), printed pp. 99–110 |
 | Toku Pukuatu, Toku Kaveinga / My Heart, My Future: the heart, how it works, and keeping it healthy for the future (Cook Islands, Grade 8) | Cook Islands, *Ko Au e Toku Aorangi: Kai No te Oraanga Meitaki — Me, Myself, My Environment: Nutrition*, printed p. 74 |
 
+| Human Body Systems: the Circulatory System, including investigating exercise and pulse rate (curriculum-guide evidence) (Trinidad and Tobago, Form 2) | Trinidad and Tobago, *Secondary School Curriculum — Integrated Science, Forms One–Three*, Human Body Systems: the Circulatory System (framework, printed p. 33; Form 2 content from printed p. 65) — printed p. 33 |
+
 **Acceptance count: taught in 2 countries (Ethiopia, Cook Islands).**
+
+Trinidad and Tobago is named as curriculum-guide evidence only (*Secondary School Curriculum — Integrated Science, Forms One–Three* — curriculum guide), not added to this count.
 
 The Grade 4 student book is COMPLETE (printed pp. 1–148); nothing in this lesson rests on the regional teacher guides.
 
@@ -33,4 +39,4 @@ The Grade 6 teacher guide scan is TRUNCATED: printed pp. 1–63 (Units 1–3) ar
 
 Grade 8 extension (2026-11-12): the Grade 8 student book is COMPLETE. This extension rests on the student book only; no Grade 8 teacher-guide material is used in this lesson, so no pairing warning is needed here.
 
-Searchable tags: heart, heartbeat, muscle, pumps blood, contracting relaxing, the heart, cook islands, cook islands grade 8, ko au e toku aorangi
+Searchable tags: heart, heartbeat, muscle, pumps blood, contracting relaxing, the heart, cook islands, cook islands grade 8, ko au e toku aorangi, trinidad and tobago, trinidad and tobago ncse integrated science
