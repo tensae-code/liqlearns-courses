@@ -1,6 +1,6 @@
 # Sources — Air resistance and the parachute
 
-countries: Finland (instructor-pack evidence only), Vietnam, Armenia, Barbados (curriculum evidence only)
+countries: Finland (instructor-pack evidence only), Vietnam, Armenia, Barbados (curriculum evidence only), Seychelles
 
 **Book 1:** *Fysiikkaa: Tutkitaan ilmaa ja lämpöä (Physics: Investigating air and heat)* (instructor pack with pupil instruction sheets — recorded student; in substance a teacher/instructor pack) — Finland, Grade 1 (recorded grade; the material itself is an adult-led experiment pack for young children), compiled by Merike Kesler, Kehittämiskeskus Opinkirjo. Repo path: grade-01/gov/finland/physics/student/finland-g01-aoe1072-opinkirjo-teemakokonaisuus-fysiikka-1.pdf. Bytes: 1,120,626 (exact match). PDF pages: 19. Printed pagination: none — page references are PDF pages. Verdict: COMPLETE read (full text layer, all 19 pages) in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/finland-placements.md.
 
@@ -17,7 +17,15 @@ countries: Finland (instructor-pack evidence only), Vietnam, Armenia, Barbados (
 | Bài 19 — Drag force (the drag half of the drag-and-lift lesson) (Vietnam, Grade 10) | Vietnam, *Vật lí 10*, Bài 19, Drag force and lift force — the drag half: fluid drag depends on shape and speed (rocket, cyclist, parachute, ship); streamlining (Rumpler, Le Mans 1937) — Vietnam's student book makes Vietnam the first counted country in this lesson (Finland's instructor-pack evidence kept as evidence) — printed p. 77 |
 | Resistance (drag) forces | Armenia, *Ֆիզիկա 10 (Physics 10)*, Ch. VII §47, Resistance (drag) forces — printed p. 100 — a named §; no drag slug exists |
 
-**Acceptance count: taught in 2 countries (Vietnam, Armenia).** Finland is named as instructor-pack evidence only, not added to this count.
+**Book (Seychelles — Unit 2: Air and Weather (P7)):** *Seychelles Integrated Science — Air and Weather*, Unit 2 (student booklet + teaching notes combined, ERIC scan) — Seychelles, Science Section, National Institute of Pedagogy, Ministry of Education and Information, 1983 programme. Grade: P7 (Grade 7). Records: TSV release record and books.json `grade-07/gov/seychelles/integrated-science/student/unit-02-air-and-weather.pdf` — same book, cited once. Size verified 7,038,795 bytes = record size_bytes; PDF 55 pages = record pages. Verdict: COMPLETE (teaching notes for Topics 1–7 + Project, and full pupil booklet present). It counts in the acceptance count (student booklet, not evidence-only) except where a row below is marked guide evidence. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/seychelles-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Topic 3: planning and carrying out an experiment to find which of four paper "helicopters" falls through the air most slowly (Seychelles, Unit 2: Air and Weather) | Seychelles, *Seychelles Integrated Science — Air and Weather, Unit 2*, printed booklet pp. 8–10 |
+
+Seychelles' own way — the NIP Integrated Science unit booklets teach this thing in the topic order named in the rows above, through the school agriculture project, the laboratory and the islands' own examples — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 3 countries (Vietnam, Armenia, Seychelles).** Finland is named as instructor-pack evidence only, not added to this count.
 
 Placement choice, on the record: this NEW LESSON was built for the Finland placement "Air resistance and the parachute — falling slowly when drag balances weight" — finland-placements.md, Book 1, Lesson 4, PDF p. 13. It sits in motion-force-and-energy/, not physics/, because its content is forces in motion — weight against drag — and its register home is CURRICULUM.md Unit 20 (Motion, Force and Energy), beside the gravity and Newton's-laws lessons it builds on. The source is an instructor pack (an adult-led experiment pack with pupil sheets), so the lesson rests on instructor-pack evidence only and is counted nowhere.
 

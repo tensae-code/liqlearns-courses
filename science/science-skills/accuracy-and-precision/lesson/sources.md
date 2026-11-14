@@ -1,6 +1,6 @@
 # Sources — Measurement — accuracy and precision
 
-countries: Ethiopia, Barbados, Bulgaria, India, Moldova, Jordan, Uganda
+countries: Ethiopia, Barbados, Bulgaria, India, Moldova, Jordan, Uganda, Seychelles
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -29,7 +29,15 @@ countries: Ethiopia, Barbados, Bulgaria, India, Moldova, Jordan, Uganda
 | Laboratory section: elementary notions of error calculation — measurements and errors, errors of direct and indirect measurements, the error of a single measurement, graphical processing of experimental data; laboratory works (uniformly accelerated motion; a body's elastic constant) — Moldova's own way: the error primer is part of the pupil's physics book (Moldova, Grade 10) | Moldova, *Fizica, clasa a X-a (Physics, Grade 10)*, Laboratory section: elementary notions of error calculation — measurements and errors, errors of direct and indirect measurements, the error of a single measurement, graphical processing of experimental data; laboratory works (uniformly accelerated motion; a body's elastic constant) — Moldova's own way: the error primer is part of the pupil's physics book — printed pp. 165–172 |
 | Unit 1 Lesson 2, significant figures as honest precision | Jordan, *Physics — Grade 9, Term 1 (Student Book)*, Unit 1 Lesson 2, significant figures as honest precision — printed p. 20 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Barbados, Bulgaria, India, Moldova, Jordan).**
+**Book (Seychelles — Unit 1: Techniques and Measurements (P7)):** *Seychelles Integrated Science — Techniques and Measurements*, Unit 1 (teaching notes title: "Science in the Laboratory") (student booklet + teacher guide combined) — Seychelles, Science Section, National Institute of Pedagogy (NIP), Ministry of Education and Information, 1983 programme. Authors (ERIC resume): Brophy, M.; Fryars, M. Grade: P7 (Grade 7). Records: TSV release record and books.json `grade-07/gov/seychelles/integrated-science/student/unit-01-techniques-and-measurements.pdf` — same book, cited once. Size verified 8,753,515 bytes = record size_bytes; PDF 56 pages = record pages. Verdict: COMPLETE (ERIC resume page, teaching notes and full pupil booklet Topics 1–8 + Projects 1–2 present). It counts in the acceptance count (student booklet, not evidence-only) except where a row below is marked guide evidence. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/seychelles-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guessing versus measuring: optical-illusion lines look different lengths but measure the same; measuring is more accurate than… (Seychelles, Unit 1: Techniques and Measurements) | Seychelles, *Seychelles Integrated Science — Techniques and Measurements, Unit 1*, printed booklet pp. 5–7 |
+
+Seychelles' own way — the NIP Integrated Science unit booklets teach this thing in the topic order named in the rows above, through the school agriculture project, the laboratory and the islands' own examples — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 7 countries (Ethiopia, Barbados, Bulgaria, India, Moldova, Jordan, Seychelles).**
 
 Pairing note for this lesson: the teacher guide's Unit 1 has NO scientific-measurement section — this lesson stands on the STUDENT BOOK ALONE, and the guide carries no counterpart for it.
 

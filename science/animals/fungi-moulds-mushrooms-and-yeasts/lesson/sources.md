@@ -1,6 +1,6 @@
 # Sources — Fungi — moulds, mushrooms and yeasts
 
-countries: Ethiopia, Sweden, Iceland (teacher-guide evidence only), Uganda, Moldova, Pakistan (Punjab), Samoa
+countries: Ethiopia, Sweden, Iceland (teacher-guide evidence only), Uganda, Moldova, Pakistan (Punjab), Samoa, Seychelles
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -12,7 +12,15 @@ countries: Ethiopia, Sweden, Iceland (teacher-guide evidence only), Uganda, Mold
 | Sub lesson 2 — Growing moulds and dissecting a mushroom (doing) | Grade 7 Student Textbook, Unit 5, printed pp. 150–152 (student placement item 69) |
 | Field-safety and specimen-handling guidance in the practical (teacher guide — evidence) | Grade 7 Teacher Guide, Unit 5, printed pp. 84–108 (teacher placement item 11) — syllabus-level teacher evidence only |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Sweden).**
+**Book (Seychelles — Unit 2: Air and Weather (P7)):** *Seychelles Integrated Science — Air and Weather*, Unit 2 (student booklet + teaching notes combined, ERIC scan) — Seychelles, Science Section, National Institute of Pedagogy, Ministry of Education and Information, 1983 programme. Grade: P7 (Grade 7). Records: TSV release record and books.json `grade-07/gov/seychelles/integrated-science/student/unit-02-air-and-weather.pdf` — same book, cited once. Size verified 7,038,795 bytes = record size_bytes; PDF 55 pages = record pages. Verdict: COMPLETE (teaching notes for Topics 1–7 + Project, and full pupil booklet present). It counts in the acceptance count (student booklet, not evidence-only) except where a row below is marked guide evidence. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/seychelles-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Project Other things in the air: microbes in the air, and moulds on food growing from microbe spores that settle from the air (Seychelles, Unit 2: Air and Weather) | Seychelles, *Seychelles Integrated Science — Air and Weather, Unit 2*, printed booklet p. 20 |
+
+Seychelles' own way — the NIP Integrated Science unit booklets teach this thing in the topic order named in the rows above, through the school agriculture project, the laboratory and the islands' own examples — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 3 countries (Ethiopia, Sweden, Seychelles).**
 
 Pairing warning (carried exactly): the G7 guide is an ADDIS ABABA bureau book (2023), NOT edition-matched to the Amhara student book (©2015 E.C.) — guide material is filed as syllabus-level teacher evidence, never as a page-key. The guide's contents misprint "Living Things and their Tiversity" — not reproduced. Teacher-guide rows above are evidence only and never count as pupil-taught. No page is claimed beyond the placements. The student book's facts are taught as printed for this unit; no Unit 5 student-book error is flagged in the placements.
 

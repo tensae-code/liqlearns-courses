@@ -1,6 +1,6 @@
 # Sources — Caring for our surroundings, and reusing what we throw away
 
-countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Palau (teacher's-edition evidence only), Zambia (teacher-module evidence only), Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Mongolia, Barbados (curriculum evidence only), India, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only)
+countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Palau (teacher's-edition evidence only), Zambia (teacher-module evidence only), Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Mongolia, Barbados (curriculum evidence only), India, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Seychelles
 
 **Book 2:** *Grade 1 Environmental Science Teacher Guide* (አካባቢ ሳይንስ አንድኛ ክፍል የመምህር መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. TRUNCATED scan: the file holds printed pp. 1–54 (Units 1–3 complete); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-teacher-placements.md.
 
@@ -17,7 +17,15 @@ countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Palau (teacher's
 | Taking the needed actions to minimise waste's negative impact: caring for land, air and water when disposing of rubbish (curriculum link SN3.2.3) (teacher guide — evidence) (Timor-Leste, Grade 3) | Timor-Leste, *Ciências Naturais, Grade 3 Teacher Guide: Unit Lesson Plans, Period 2* (teacher guide — evidence), Unit: Lixu / Waste, unit summary — printed p. 601 |
 | The 3Rs with the 3R Hero: reduce (regular plates, not styrofoam; your own basket or bag), reuse, recycle (teacher's edition — evidence) (Palau, Grade 5) | Palau, *Ridge to Reef Education — Teacher's Edition* (teacher's edition — evidence), printed p. 73 |
 
-**Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (Ethiopia), named here, counted nowhere.**
+**Book (Seychelles — Unit 12: Conserving Our Health (P9)):** *Seychelles Integrated Science — Conserving Our Health*, Unit 12 (student booklet + teaching notes combined, ERIC scan) — Seychelles, Science Section, National Institute of Pedagogy, Ministry of Education and Information, 1983. Grade: P9 (Grade 9). Records: TSV release record and books.json `grade-09/gov/seychelles/integrated-science/student/unit-12-conserving-our-health.pdf` — same book, cited once. Size verified 13,390,511 bytes = record size_bytes; PDF 73 pages = record pages. Verdict: COMPLETE (teaching notes and full pupil booklet: all fourteen Topics, both Projects and the "Digestive Snap and Grab" game present). Pages cited are PDF scan pages, as this booklet's own pagination is not consistently printed. It counts in the acceptance count (student booklet, not evidence-only) except where a row below is marked guide evidence. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/seychelles-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Project 2 Putting waste to good use (Seychelles, Unit 12: Conserving Our Health) | Seychelles, *Seychelles Integrated Science — Conserving Our Health, Unit 12*, PDF scan p. 61 |
+
+Seychelles' own way — the NIP Integrated Science unit booklets teach this thing in the topic order named in the rows above, through the school agriculture project, the laboratory and the islands' own examples — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 1 country — this lesson stands on teacher-guide evidence only (Ethiopia), named here, counted nowhere.**
 
 Palau is named as teacher's-edition evidence only (*Ridge to Reef Education — Teacher's Edition: A 5th Grade Conservation Education Resource Book for Palau* — teacher's edition), not added to this count.
 

@@ -1,6 +1,6 @@
 # Sources — Treating water to make it safe — filtering and settling
 
-countries: Gabon (teacher-guide evidence only), Zambia (teacher-module evidence only), Vanuatu (teacher-guide evidence only), India, Pakistan (Punjab), Cuba, Egypt
+countries: Gabon (teacher-guide evidence only), Zambia (teacher-module evidence only), Vanuatu (teacher-guide evidence only), India, Pakistan (Punjab), Cuba, Egypt, Seychelles
 
 **Book 1:** *Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année* (teacher guide) — Gabon, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Title as printed: Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Grade 3. Teacher guide. Repo path: grade-03/gov/gabon/sciences/teacher/gabon-g03-sciences-teacher.pdf. Byte size: 1,385,512 (no size in record). PDF pages: 64. Offset: printed pp. 3–64 (sommaire: paliers at pp. 3–16, 17–29, 30–42, 43–53, 54–64). Verdict: COMPLETE — full text read (36,970 words); sommaire and palier competence statements prove identity and scope. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -12,7 +12,15 @@ countries: Gabon (teacher-guide evidence only), Zambia (teacher-module evidence 
 | Sub lesson 3 — Keeping treated water safe (teacher guide — evidence) | Gabon, *Super Efficace — Sciences, Guide pédagogique, 3e année*, Palier 1: Les techniques de traitement de l'eau, printed p. 10 |
 | Do it first; key ideas; Do It Yourself (teacher guide — evidence) | Gabon, *Super Efficace — Sciences, Guide pédagogique, 3e année*, Palier 1: Les techniques de traitement de l'eau, printed p. 10 |
 
-**Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (Gabon), named here, counted nowhere.**
+**Book (Seychelles — Unit 3: Water (P7)):** *Seychelles Integrated Science — Water*, Unit 3 (student booklet + teaching notes combined, ERIC scan) — Seychelles, National Institute of Pedagogy (NIP), Ministry of Education and Information, 1983. Authors (ERIC resume): Brophy, M.; Fryars, M. Grade: P7 (Grade 7). Records: TSV release record and books.json `grade-07/gov/seychelles/integrated-science/student/unit-03-water.pdf` — same book, cited once. Size verified 6,866,089 bytes = record size_bytes; PDF 44 pages = record pages. Verdict: COMPLETE (teaching notes and full pupil booklet: Topics 1–6, crystal Project and water-cycle Summary present). It counts in the acceptance count (student booklet, not evidence-only) except where a row below is marked guide evidence. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/seychelles-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Topic 3 Drinking water: why water must be treated before drinking; the three stages — settling, filtering and adding chlorine;… (Seychelles, Unit 3: Water) | Seychelles, *Seychelles Integrated Science — Water, Unit 3*, printed booklet pp. 7–9 |
+
+Seychelles' own way — the NIP Integrated Science unit booklets teach this thing in the topic order named in the rows above, through the school agriculture project, the laboratory and the islands' own examples — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 1 country — this lesson stands on teacher-guide evidence only (Gabon), named here, counted nowhere.**
 
 Placement choice, on the record: this NEW LESSON was built for the Gabon placement "Treating water to make it safe — filtering and settling" — gabon-placements.md, Book 1, Palier 1: Les techniques de traitement de l'eau, printed p. 10 — a topic no existing slug covers at this primary depth. It sits in soil-and-water/ and is registered in CURRICULUM.md Unit 7 (Soil and Water). The source is an integrated Sciences TEACHER GUIDE (Super Efficace, EDIG/EDICEF), so the lesson rests on teacher-guide evidence only and is counted nowhere. Only the guide's Sciences physiques thread is placed; its biology/technology/TIC lessons are not physics placements and are excluded by scope.
 

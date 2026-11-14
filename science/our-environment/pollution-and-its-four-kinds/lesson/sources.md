@@ -1,6 +1,6 @@
 # Sources — Pollution and its four kinds
 
-countries: Ethiopia, Mexico, Trinidad and Tobago (curriculum-guide evidence only), Guatemala (teacher-guide evidence only), Djibouti (teacher-guide evidence only), India, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Samoa, Cambodia
+countries: Ethiopia, Mexico, Trinidad and Tobago (curriculum-guide evidence only), Guatemala (teacher-guide evidence only), Djibouti (teacher-guide evidence only), India, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Samoa, Cambodia, Seychelles
 
 **Book 10:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minilk Belay Akalu (MSc), Getachew Dilnesa Gedebe (MA), Melese Sinu W/Mariam (MSc). COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
 
@@ -18,7 +18,15 @@ countries: Ethiopia, Mexico, Trinidad and Tobago (curriculum-guide evidence only
 
 | Environmental Impact of Human Activities (curriculum-guide evidence) (Trinidad and Tobago, Form 3) | Trinidad and Tobago, *Secondary School Curriculum — Integrated Science, Forms One–Three*, Environmental Impact of Human Activities (framework, printed p. 33; Form 3 content from printed p. 90) — printed p. 33 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Mexico).**
+**Book (Seychelles — Unit 13: Conserving Our Environment (P9)):** *Seychelles Integrated Science — Conserving Our Environment*, Unit 13 (student booklet + teaching notes combined, ERIC scan) — Seychelles, Science Section, National Institute of Pedagogy, Ministry of Education and Information, 1983. Grade: P9 (Grade 9). Records: TSV release record and books.json `grade-09/gov/seychelles/integrated-science/student/unit-13-conserving-our-environment.pdf` — same book, cited once. Size verified 10,820,376 bytes = record size_bytes; PDF 53 pages = record pages. Verdict: COMPLETE (teaching notes contents and lessons for Topics 1–6, the habitat Project and both Summaries present, with the pupil booklet). It counts in the acceptance count (student booklet, not evidence-only) except where a row below is marked guide evidence. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/seychelles-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Topic 5 Our environment and pollution (Seychelles, Unit 13: Conserving Our Environment) | Seychelles, *Seychelles Integrated Science — Conserving Our Environment, Unit 13*, printed p. 19 |
+
+Seychelles' own way — the NIP Integrated Science unit booklets teach this thing in the topic order named in the rows above, through the school agriculture project, the laboratory and the islands' own examples — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 3 countries (Ethiopia, Mexico, Seychelles).**
 
 Trinidad and Tobago is named as curriculum-guide evidence only (*Secondary School Curriculum — Integrated Science, Forms One–Three* — curriculum guide), not added to this count.
 

@@ -1,6 +1,6 @@
 # Sources — Measuring time — from shadows to clocks
 
-countries: Ethiopia, Moldova, Egypt
+countries: Ethiopia, Moldova, Egypt, Seychelles
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -10,7 +10,15 @@ countries: Ethiopia, Moldova, Egypt
 | Sub lesson 2 — Building the sundial | Ethiopia, *General Science Student Textbook, Grade 7*, printed p. 18 |
 | Sub lesson 3 — Sundial against clock | Ethiopia, *General Science Student Textbook, Grade 7*, printed p. 18 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Book (Seychelles — Unit 1: Techniques and Measurements (P7)):** *Seychelles Integrated Science — Techniques and Measurements*, Unit 1 (teaching notes title: "Science in the Laboratory") (student booklet + teacher guide combined) — Seychelles, Science Section, National Institute of Pedagogy (NIP), Ministry of Education and Information, 1983 programme. Authors (ERIC resume): Brophy, M.; Fryars, M. Grade: P7 (Grade 7). Records: TSV release record and books.json `grade-07/gov/seychelles/integrated-science/student/unit-01-techniques-and-measurements.pdf` — same book, cited once. Size verified 8,753,515 bytes = record size_bytes; PDF 56 pages = record pages. Verdict: COMPLETE (ERIC resume page, teaching notes and full pupil booklet Topics 1–8 + Projects 1–2 present). It counts in the acceptance count (student booklet, not evidence-only) except where a row below is marked guide evidence. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/seychelles-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Topic 6 Guessing and measuring time: counting seconds against the real count; making a 30 cm pendulum and timing 20 swings with… (Seychelles, Unit 1: Techniques and Measurements) | Seychelles, *Seychelles Integrated Science — Techniques and Measurements, Unit 1*, printed booklet p. 9 |
+
+Seychelles' own way — the NIP Integrated Science unit booklets teach this thing in the topic order named in the rows above, through the school agriculture project, the laboratory and the islands' own examples — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 2 countries (Ethiopia, Seychelles).**
 
 Pairing note for this lesson: the teacher guide's Unit 1 has NO scientific-measurement section — this lesson stands on the STUDENT BOOK ALONE, and the guide carries no counterpart for it.
 

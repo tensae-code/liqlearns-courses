@@ -1,6 +1,6 @@
 # Sources — Skin — the integumentary system
 
-countries: Ethiopia, Barbados (curriculum evidence only), Moldova
+countries: Ethiopia, Barbados (curriculum evidence only), Moldova, Seychelles
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank as printed (printed “ISBN No –”). PDF 241 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -13,7 +13,15 @@ countries: Ethiopia, Barbados (curriculum evidence only), Moldova
 | Sub lesson 3 — When skin is in trouble — and caring for it | Ethiopia, *General Science Student Textbook, Grade 8*, Unit 4 (burns, athlete's foot, UV and skin cancer, acne, eczema — each with cause and care), printed pp. 55–63 |
 | Sub lesson 3 — the inflamed-skin care routine, rosacea / chickenpox / latex allergy, and how hair insulates (teacher guide — evidence) | Ethiopia, *General Science Teacher Guide, Grade 8*, Unit 4, printed pp. 67–68 — syllabus-level teacher evidence only (see the pairing warning below): wash with cool water daily, cool compresses, limit contact with common allergens, wet wipes, avoid smoking and alcohol, keep the area covered and the skin moist, avoid long sun exposure; redness read as a possible sign of eczema or rosacea, clinic visit as follow-up; hair insulates as a physical barrier and by trapping warm air |
 
-**Acceptance count: taught in 1 country (Ethiopia).** The teacher-guide rows are evidence only and never count as pupil-taught.
+**Book (Seychelles — Unit 12: Conserving Our Health (P9)):** *Seychelles Integrated Science — Conserving Our Health*, Unit 12 (student booklet + teaching notes combined, ERIC scan) — Seychelles, Science Section, National Institute of Pedagogy, Ministry of Education and Information, 1983. Grade: P9 (Grade 9). Records: TSV release record and books.json `grade-09/gov/seychelles/integrated-science/student/unit-12-conserving-our-health.pdf` — same book, cited once. Size verified 13,390,511 bytes = record size_bytes; PDF 73 pages = record pages. Verdict: COMPLETE (teaching notes and full pupil booklet: all fourteen Topics, both Projects and the "Digestive Snap and Grab" game present). Pages cited are PDF scan pages, as this booklet's own pagination is not consistently printed. It counts in the acceptance count (student booklet, not evidence-only) except where a row below is marked guide evidence. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/seychelles-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Topic Sensing with your skin: the skin has many nerves in it to help you feel (Seychelles, Unit 12: Conserving Our Health) | Seychelles, *Seychelles Integrated Science — Conserving Our Health, Unit 12*, PDF scan pp. 62–63 |
+
+Seychelles' own way — the NIP Integrated Science unit booklets teach this thing in the topic order named in the rows above, through the school agriculture project, the laboratory and the islands' own examples — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 2 countries (Ethiopia, Seychelles).** The teacher-guide rows are evidence only and never count as pupil-taught.
 
 **Pairing warning (carried exactly as recorded in the placements):** the Grade 8 teacher guide is a federal new-syllabus book (implemented from 2014 E.C.; no bureau/publisher/year printed on it), NOT edition-matched to the Amhara student book (© 2015 E.C.) — guide material is syllabus-level teacher evidence only, never a page-key to the student book.
 

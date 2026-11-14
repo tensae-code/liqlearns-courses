@@ -1,6 +1,6 @@
 # Sources — What disease is, and how it spreads
 
-countries: Ethiopia, Peru, Jamaica (curriculum-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Australia, Suriname, Serbia, Ghana (curriculum evidence only), Costa Rica, India, Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Samoa, Cambodia
+countries: Ethiopia, Peru, Jamaica (curriculum-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Australia, Suriname, Serbia, Ghana (curriculum evidence only), Costa Rica, India, Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Samoa, Cambodia, Seychelles
 
 **Book 1:** *Environmental Science Teacher's Guide, Grade 1* (አካባቢ ሳይንስ የመምህራን መምሪያ 1ኛ ክፍል) (teacher's guide — the file held in the library as the Grade 1 "student" book; the Grade 1 student textbook itself is NOT held) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. The held file is damaged and truncated: it holds guide printed pp. i–v and 1–27 only, of a guide running to at least printed p. 85. Guide printed page = PDF page − 8 in the genuine pages. Read visually, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-student-placements.md.
 
@@ -31,7 +31,15 @@ countries: Ethiopia, Peru, Jamaica (curriculum-guide evidence only), Trinidad an
 
 | Communicable Diseases of the Reproductive System (curriculum-guide evidence) (Trinidad and Tobago, Form 3) | Trinidad and Tobago, *Secondary School Curriculum — Integrated Science, Forms One–Three*, Communicable Diseases of the Reproductive System (framework, printed p. 33; Form 3 content from printed p. 90) — printed p. 33 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Peru, Australia, Suriname).**
+**Book (Seychelles — Unit 12: Conserving Our Health (P9)):** *Seychelles Integrated Science — Conserving Our Health*, Unit 12 (student booklet + teaching notes combined, ERIC scan) — Seychelles, Science Section, National Institute of Pedagogy, Ministry of Education and Information, 1983. Grade: P9 (Grade 9). Records: TSV release record and books.json `grade-09/gov/seychelles/integrated-science/student/unit-12-conserving-our-health.pdf` — same book, cited once. Size verified 13,390,511 bytes = record size_bytes; PDF 73 pages = record pages. Verdict: COMPLETE (teaching notes and full pupil booklet: all fourteen Topics, both Projects and the "Digestive Snap and Grab" game present). Pages cited are PDF scan pages, as this booklet's own pagination is not consistently printed. It counts in the acceptance count (student booklet, not evidence-only) except where a row below is marked guide evidence. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/seychelles-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Project 1 The life cycle of a mosquito: dengue fever, malaria and elephantiasis are diseases in which the blood is infected, an… (Seychelles, Unit 12: Conserving Our Health) | Seychelles, *Seychelles Integrated Science — Conserving Our Health, Unit 12*, PDF scan pp. 54–55 |
+
+Seychelles' own way — the NIP Integrated Science unit booklets teach this thing in the topic order named in the rows above, through the school agriculture project, the laboratory and the islands' own examples — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 5 countries (Ethiopia, Peru, Australia, Suriname, Seychelles).**
 
 Trinidad and Tobago is named as curriculum-guide evidence only (*Secondary School Curriculum — Integrated Science, Forms One–Three* — curriculum guide), not added to this count.
 

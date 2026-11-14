@@ -1,6 +1,6 @@
 # Sources — Laboratory equipment — names, uses, and making your own
 
-countries: Ethiopia, Moldova, Cuba, Costa Rica
+countries: Ethiopia, Moldova, Cuba, Costa Rica, Seychelles
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -15,7 +15,15 @@ countries: Ethiopia, Moldova, Cuba, Costa Rica
 | Unit II §2.7: STEAM project — measuring instruments (pupils build/study their own) — Moldova's own way: a build-a-project inside the measurement unit (Moldova, Grade 6) | Moldova, *Fizică: Manual pentru clasa a 6-a (Physics: Textbook for Grade 6)*, Unit II §2.7: STEAM project — measuring instruments (pupils build/study their own) — Moldova's own way: a build-a-project inside the measurement unit — printed p. 26 |
 | Annex: a full illustrated inventory of the school lab equipment sets (mechanics, electromagnetism, optics, transformer kit, rheostat, spring sets, stopwatch…) — printed pp. 419–428 — Cuba prints the lab kit itself as book content (Cuba, Grade 9) | Cuba, *Física — noveno grado (Grade 9 student book, 2025)*, Annex: a full illustrated inventory of the school lab equipment sets (mechanics, electromagnetism, optics, transformer kit, rheostat, spring sets, stopwatch…) — printed pp. 419–428 — Cuba prints the lab kit itself as book content |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Moldova, Cuba).**
+**Book (Seychelles — Unit 1: Techniques and Measurements (P7)):** *Seychelles Integrated Science — Techniques and Measurements*, Unit 1 (teaching notes title: "Science in the Laboratory") (student booklet + teacher guide combined) — Seychelles, Science Section, National Institute of Pedagogy (NIP), Ministry of Education and Information, 1983 programme. Authors (ERIC resume): Brophy, M.; Fryars, M. Grade: P7 (Grade 7). Records: TSV release record and books.json `grade-07/gov/seychelles/integrated-science/student/unit-01-techniques-and-measurements.pdf` — same book, cited once. Size verified 8,753,515 bytes = record size_bytes; PDF 56 pages = record pages. Verdict: COMPLETE (ERIC resume page, teaching notes and full pupil booklet Topics 1–8 + Projects 1–2 present). It counts in the acceptance count (student booklet, not evidence-only) except where a row below is marked guide evidence. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/seychelles-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Topic 1 Looking around the laboratory: exploring and naming lab equipment and materials (steam engine, incubator, ring magnets,… (Seychelles, Unit 1: Techniques and Measurements) | Seychelles, *Seychelles Integrated Science — Techniques and Measurements, Unit 1*, printed booklet pp. 1–2 |
+
+Seychelles' own way — the NIP Integrated Science unit booklets teach this thing in the topic order named in the rows above, through the school agriculture project, the laboratory and the islands' own examples — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 4 countries (Ethiopia, Moldova, Cuba, Seychelles).**
 
 Pairing note (carried exactly): the Grade 7 teacher guide is an Addis Ababa bureau book (2023), NOT edition-matched to the Amhara student book (© 2015 E.C.) — same syllabus and unit order, but its activity/exercise numbering differs. Guide material is filed as syllabus-level teacher evidence, never as a page-key to the student book.
 

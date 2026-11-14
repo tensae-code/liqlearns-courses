@@ -1,6 +1,6 @@
 # Sources — Living things — what makes something alive
 
-countries: Ethiopia, Cook Islands, Trinidad and Tobago (curriculum-guide evidence only), Zambia (teacher-module evidence only), Guatemala (teacher-guide evidence only), Albania (teacher-guide evidence only), Barbados (curriculum evidence only), Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Moldova, Pakistan (Punjab), Cuba, Samoa (curriculum evidence only), Egypt
+countries: Ethiopia, Cook Islands, Trinidad and Tobago (curriculum-guide evidence only), Zambia (teacher-module evidence only), Guatemala (teacher-guide evidence only), Albania (teacher-guide evidence only), Barbados (curriculum evidence only), Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Moldova, Pakistan (Punjab), Cuba, Samoa (curriculum evidence only), Egypt, Seychelles
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -19,7 +19,15 @@ countries: Ethiopia, Cook Islands, Trinidad and Tobago (curriculum-guide evidenc
 
 | Characteristics of Living Things (outcome 1.4.1) (curriculum-guide evidence) (Trinidad and Tobago, Form 1) | Trinidad and Tobago, *Secondary School Curriculum — Integrated Science, Forms One–Three*, Characteristics of Living Things (framework, printed p. 33; Form 1 content from printed p. 38) — printed p. 33 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Cook Islands).**
+**Book (Seychelles — Unit 5: Different Living Things (P7)):** *Seychelles Integrated Science — Different Living Things*, Unit 5 (student booklet + teaching notes combined, ERIC scan) — Seychelles, Science Section, National Institute of Pedagogy, Ministry of Education and Information, 1983. Grade: P7 (Grade 7). Records: TSV release record and books.json `grade-07/gov/seychelles/integrated-science/student/unit-05-different-living-things.pdf` — same book, cited once. Size verified 7,090,273 bytes = record size_bytes; PDF 49 pages = record pages. Verdict: COMPLETE (teaching notes and full pupil booklet: Topics 1–6, two Projects and the Using a Key summary present). It counts in the acceptance count (student booklet, not evidence-only) except where a row below is marked guide evidence. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/seychelles-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Topic 1 Similarities and differences: five similarities and five differences between ourselves and a mammal, a fish, a lizard,… (Seychelles, Unit 5: Different Living Things) | Seychelles, *Seychelles Integrated Science — Different Living Things, Unit 5*, printed booklet pp. 1–2 |
+
+Seychelles' own way — the NIP Integrated Science unit booklets teach this thing in the topic order named in the rows above, through the school agriculture project, the laboratory and the islands' own examples — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 3 countries (Ethiopia, Cook Islands, Seychelles).**
 
 Trinidad and Tobago is named as curriculum-guide evidence only (*Secondary School Curriculum — Integrated Science, Forms One–Three* — curriculum guide), not added to this count.
 

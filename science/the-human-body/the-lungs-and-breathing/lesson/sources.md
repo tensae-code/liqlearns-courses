@@ -1,6 +1,6 @@
 # Sources — The lungs and breathing
 
-countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), India, Bulgaria, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Pakistan (Punjab), Armenia, Cuba
+countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), India, Bulgaria, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Pakistan (Punjab), Armenia, Cuba, Seychelles
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -27,7 +27,18 @@ countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Guyan
 | Grade 8 — COVID-19 added to the respiratory disease list (teacher guide — evidence) | Ethiopia, *General Science Teacher Guide, Grade 8*, Unit 4, printed p. 78 — syllabus-level teacher evidence only, dated to the guide (see the pairing warning below): COVID-19 named as a dangerous worldwide respiratory disease, transmitted by close contact with an infected person or contaminated objects and carried through the air in sneezing and coughing, the teacher directed to supply further current information. It is taught in the lesson as transmission-and-prevention and labelled as guide evidence, never presented as current |
 | Human Body Systems: the Respiratory System (curriculum-guide evidence) (Trinidad and Tobago, Form 2) | Trinidad and Tobago, *Secondary School Curriculum — Integrated Science, Forms One–Three*, Human Body Systems: the Respiratory System (framework, printed p. 33; Form 2 content from printed p. 65) — printed p. 33 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Book (Seychelles — Unit 2: Air and Weather (P7)):** *Seychelles Integrated Science — Air and Weather*, Unit 2 (student booklet + teaching notes combined, ERIC scan) — Seychelles, Science Section, National Institute of Pedagogy, Ministry of Education and Information, 1983 programme. Grade: P7 (Grade 7). Records: TSV release record and books.json `grade-07/gov/seychelles/integrated-science/student/unit-02-air-and-weather.pdf` — same book, cited once. Size verified 7,038,795 bytes = record size_bytes; PDF 55 pages = record pages. Verdict: COMPLETE (teaching notes for Topics 1–7 + Project, and full pupil booklet present). It counts in the acceptance count (student booklet, not evidence-only) except where a row below is marked guide evidence. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/seychelles-placements.md.
+
+**Book (Seychelles — Unit 12: Conserving Our Health (P9)):** *Seychelles Integrated Science — Conserving Our Health*, Unit 12 (student booklet + teaching notes combined, ERIC scan) — Seychelles, Science Section, National Institute of Pedagogy, Ministry of Education and Information, 1983. Grade: P9 (Grade 9). Records: TSV release record and books.json `grade-09/gov/seychelles/integrated-science/student/unit-12-conserving-our-health.pdf` — same book, cited once. Size verified 13,390,511 bytes = record size_bytes; PDF 73 pages = record pages. Verdict: COMPLETE (teaching notes and full pupil booklet: all fourteen Topics, both Projects and the "Digestive Snap and Grab" game present). Pages cited are PDF scan pages, as this booklet's own pagination is not consistently printed. It counts in the acceptance count (student booklet, not evidence-only) except where a row below is marked guide evidence. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/seychelles-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Topic 6 The air that we breathe: air is mainly nitrogen and oxygen with a little carbon dioxide and water vapour; breathing in… (Seychelles, Unit 2: Air and Weather) | Seychelles, *Seychelles Integrated Science — Air and Weather, Unit 2*, printed booklet pp. 17–19 |
+| Topic Breathing and health: where the lungs are; breathing in pushes out the ribs and lowers the diaphragm so air rushes in; fi… (Seychelles, Unit 12: Conserving Our Health) | Seychelles, *Seychelles Integrated Science — Conserving Our Health, Unit 12*, PDF scan pp. 47–49 |
+
+Seychelles' own way — the NIP Integrated Science unit booklets teach this thing in the topic order named in the rows above, through the school agriculture project, the laboratory and the islands' own examples — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 2 countries (Ethiopia, Seychelles).**
 
 Trinidad and Tobago is named as curriculum-guide evidence only (*Secondary School Curriculum — Integrated Science, Forms One–Three* — curriculum guide), not added to this count.
 

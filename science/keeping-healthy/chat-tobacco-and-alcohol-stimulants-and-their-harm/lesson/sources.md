@@ -1,6 +1,6 @@
 # Sources — Chat, tobacco and alcohol: stimulants and their harm
 
-countries: Ethiopia, Jamaica (curriculum-guide evidence only), Gabon (teacher-guide evidence only), Egypt, Cambodia
+countries: Ethiopia, Jamaica (curriculum-guide evidence only), Gabon (teacher-guide evidence only), Egypt, Cambodia, Seychelles
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -30,7 +30,16 @@ countries: Ethiopia, Jamaica (curriculum-guide evidence only), Gabon (teacher-gu
 | Chapter 5 review — folded into questions | Ethiopia, *Environmental Science Student Textbook, Grade 4*, Chapter 5 summary + review, printed pp. 146–148 — the chapter review is folded into this lesson's questions as prove-it items (review items); it is not built as a separate lesson |
 | Dangers of drug misuse, abuse and addiction; commonly abused drugs (curriculum-guide evidence) (Jamaica, Grade 7) | Jamaica, *National Standards Curriculum Guide: Science, Grades 7–9 — Integrated Science*, Sexually Transmitted Infections and Drug Abuse — printed p. 63 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Book (Seychelles — Unit 12: Conserving Our Health (P9)):** *Seychelles Integrated Science — Conserving Our Health*, Unit 12 (student booklet + teaching notes combined, ERIC scan) — Seychelles, Science Section, National Institute of Pedagogy, Ministry of Education and Information, 1983. Grade: P9 (Grade 9). Records: TSV release record and books.json `grade-09/gov/seychelles/integrated-science/student/unit-12-conserving-our-health.pdf` — same book, cited once. Size verified 13,390,511 bytes = record size_bytes; PDF 73 pages = record pages. Verdict: COMPLETE (teaching notes and full pupil booklet: all fourteen Topics, both Projects and the "Digestive Snap and Grab" game present). Pages cited are PDF scan pages, as this booklet's own pagination is not consistently printed. It counts in the acceptance count (student booklet, not evidence-only) except where a row below is marked guide evidence. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/seychelles-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Topic Breathing and health: smoking is bad for health because tar and smoke irritate and damage the lungs and may cause disease… (Seychelles, Unit 12: Conserving Our Health) | Seychelles, *Seychelles Integrated Science — Conserving Our Health, Unit 12*, PDF scan pp. 47–49 |
+| Topic What is your reaction? (unit goals, guide evidence): the effect alcohol may have on the body's reactions and some possibl… (Seychelles, Unit 12: Conserving Our Health) | Seychelles, *Seychelles Integrated Science — Conserving Our Health, Unit 12*, PDF scan p. 5 (guide evidence) (guide evidence) |
+
+Seychelles' own way — the NIP Integrated Science unit booklets teach this thing in the topic order named in the rows above, through the school agriculture project, the laboratory and the islands' own examples — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 2 countries (Ethiopia, Seychelles).**
 
 Jamaica is named as curriculum-guide evidence only (*National Standards Curriculum Guide: Science, Grades 7–9 — Integrated Science* — curriculum guide), not added to this count.
 

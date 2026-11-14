@@ -1,6 +1,6 @@
 # Sources — Energy sources around us
 
-countries: Ethiopia, Suriname, Costa Rica, Greece, Bahamas (curriculum evidence only), Samoa
+countries: Ethiopia, Suriname, Costa Rica, Greece, Bahamas (curriculum evidence only), Samoa, Seychelles
 
 **Book 10:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minilk Belay Akalu (MSc), Getachew Dilnesa Gedebe (MA), Melese Sinu W/Mariam (MSc). COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
 
@@ -15,7 +15,19 @@ countries: Ethiopia, Suriname, Costa Rica, Greece, Bahamas (curriculum evidence 
 | Energy — what it is; Ethiopia's sources (teacher guide — evidence) | Ethiopia, *Grade 6 Teacher Guide*, §2.5, printed pp. 32–33 |
 | The named assets | Ethiopia, *Grade 5 Student Textbook*, printed p. 123 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Suriname).**
+**Book (Seychelles — Unit 2: Air and Weather (P7)):** *Seychelles Integrated Science — Air and Weather*, Unit 2 (student booklet + teaching notes combined, ERIC scan) — Seychelles, Science Section, National Institute of Pedagogy, Ministry of Education and Information, 1983 programme. Grade: P7 (Grade 7). Records: TSV release record and books.json `grade-07/gov/seychelles/integrated-science/student/unit-02-air-and-weather.pdf` — same book, cited once. Size verified 7,038,795 bytes = record size_bytes; PDF 55 pages = record pages. Verdict: COMPLETE (teaching notes for Topics 1–7 + Project, and full pupil booklet present). It counts in the acceptance count (student booklet, not evidence-only) except where a row below is marked guide evidence. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/seychelles-placements.md.
+
+**Book (Seychelles — Unit 11: Conserving Our Energy (P9)):** *Seychelles Integrated Science — Conserving Our Energy*, Unit 11 (student booklet + teaching notes combined, ERIC scan) — Seychelles, Science Section, National Institute of Pedagogy, Ministry of Education and Information, 1983. Grade: P9 (Grade 9). Records: TSV release record and books.json `grade-09/gov/seychelles/integrated-science/student/unit-11-conserving-our-energy.pdf` — same book, cited once. Size verified 10,017,629 bytes = record size_bytes; PDF 47 pages = record pages. Verdict: COMPLETE (teaching notes and full pupil booklet: Topics 1–7 and the Sources of Energy summary present). It counts in the acceptance count (student booklet, not evidence-only) except where a row below is marked guide evidence. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/seychelles-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Topic 3 Using the air around us: wind turns a windmill and the windmill can do jobs such as pumping water (Seychelles, Unit 2: Air and Weather) | Seychelles, *Seychelles Integrated Science — Air and Weather, Unit 2*, printed booklet pp. 8–10 |
+| Topic 3 Sources of energy (Seychelles, Unit 11: Conserving Our Energy) | Seychelles, *Seychelles Integrated Science — Conserving Our Energy, Unit 11*, printed booklet pp. 6–8 |
+| Topic 7 Cheaper energy: using energy from the sun and the wind in Seychelles, including the windmill (Seychelles, Unit 11: Conserving Our Energy) | Seychelles, *Seychelles Integrated Science — Conserving Our Energy, Unit 11*, printed booklet pp. 18–19 |
+
+Seychelles' own way — the NIP Integrated Science unit booklets teach this thing in the topic order named in the rows above, through the school agriculture project, the laboratory and the islands' own examples — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 3 countries (Ethiopia, Suriname, Seychelles).**
 
 The Grade 5 student book is COMPLETE (printed pp. 1–178). Both teacher-guide rows are evidence from TRUNCATED scans (see below) and never count as pupil-taught. The pulsing GIF stands for a bulb lighting from dam power (the bulb is drawn as a pulsing light) — noted so it is not over-claimed.
 

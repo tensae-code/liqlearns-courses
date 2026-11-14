@@ -1,6 +1,6 @@
 # Sources — Ecosystems — populations, communities and their surroundings
 
-countries: Ethiopia, Australia, Palau (teacher's-edition evidence only), Suriname, Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Ghana (curriculum evidence only), Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Micronesia, India, Bulgaria, Greece, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Armenia, Cuba, Samoa, Egypt, Cambodia
+countries: Ethiopia, Australia, Palau (teacher's-edition evidence only), Suriname, Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Ghana (curriculum evidence only), Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Micronesia, India, Bulgaria, Greece, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Armenia, Cuba, Samoa, Egypt, Cambodia, Seychelles
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -16,7 +16,15 @@ countries: Ethiopia, Australia, Palau (teacher's-edition evidence only), Surinam
 | Types of seagrass in Palau; the seagrass bed as habitat (herons, sandfish, cowries, jellyfish, rabbit fish, starfish) (teacher's edition — evidence) (Palau, Grade 5) | Palau, *Ridge to Reef Education — Teacher's Edition* (teacher's edition — evidence), printed pp. 37–38 |
 | Closing synthesis (teacher's edition — evidence): every ecosystem is linked from ridge to reef (Palau, Grade 5) | Palau, *Ridge to Reef Education — Teacher's Edition* (teacher's edition — evidence), printed p. 74 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Australia, Suriname).**
+**Book (Seychelles — Unit 13: Conserving Our Environment (P9)):** *Seychelles Integrated Science — Conserving Our Environment*, Unit 13 (student booklet + teaching notes combined, ERIC scan) — Seychelles, Science Section, National Institute of Pedagogy, Ministry of Education and Information, 1983. Grade: P9 (Grade 9). Records: TSV release record and books.json `grade-09/gov/seychelles/integrated-science/student/unit-13-conserving-our-environment.pdf` — same book, cited once. Size verified 10,820,376 bytes = record size_bytes; PDF 53 pages = record pages. Verdict: COMPLETE (teaching notes contents and lessons for Topics 1–6, the habitat Project and both Summaries present, with the pupil booklet). It counts in the acceptance count (student booklet, not evidence-only) except where a row below is marked guide evidence. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/seychelles-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Topic 3 Life in an aquarium: animals and a plant living together (tilapia, snail and Canadian pondweed); planning and recording… (Seychelles, Unit 13: Conserving Our Environment) | Seychelles, *Seychelles Integrated Science — Conserving Our Environment, Unit 13*, printed p. 7 |
+
+Seychelles' own way — the NIP Integrated Science unit booklets teach this thing in the topic order named in the rows above, through the school agriculture project, the laboratory and the islands' own examples — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 4 countries (Ethiopia, Australia, Suriname, Seychelles).**
 
 Palau is named as teacher's-edition evidence only (*Ridge to Reef Education — Teacher's Edition: A 5th Grade Conservation Education Resource Book for Palau* — teacher's edition), not added to this count.
 

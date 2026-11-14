@@ -1,6 +1,6 @@
 # Sources — Elements, compounds and mixtures
 
-countries: Ethiopia, Costa Rica, Uganda, Armenia, Samoa, Cambodia
+countries: Ethiopia, Costa Rica, Uganda, Armenia, Samoa, Cambodia, Seychelles
 
 **Book 10:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minilk Belay Akalu (MSc), Getachew Dilnesa Gedebe (MA), Melese Sinu W/Mariam (MSc). COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
 
@@ -17,7 +17,15 @@ countries: Ethiopia, Costa Rica, Uganda, Armenia, Samoa, Cambodia
 
 | Matter (teacher guide — evidence) | Ethiopia, *Grade 5 Teacher Guide*, §2.2 Matter, printed pp. 16–21 (teacher guide — evidence) |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Book (Seychelles — Unit 10: Heat and Molecules (P8)):** *Seychelles Integrated Science — Heat and Molecules*, Unit 10 (student booklet + teaching notes combined, ERIC scan) — Seychelles, Science Section, National Institute of Pedagogy, Ministry of Education and Information, 1983. Grade: P8 (Grade 8). Records: TSV release record and books.json `grade-08/gov/seychelles/integrated-science/student/unit-10-heat-and-molecules.pdf` — same book, cited once. Size verified 12,540,761 bytes = record size_bytes; PDF 58 pages = record pages. Verdict: COMPLETE (teaching notes contents and lessons for Topics 1–9 and both Summaries present, with the pupil booklet). It counts in the acceptance count (student booklet, not evidence-only) except where a row below is marked guide evidence. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/seychelles-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Topic 9 (for the more academic streams): substances made of molecules with atoms of only one type are elements, of more than on… (Seychelles, Unit 10: Heat and Molecules) | Seychelles, *Seychelles Integrated Science — Heat and Molecules, Unit 10*, printed p. 31 |
+
+Seychelles' own way — the NIP Integrated Science unit booklets teach this thing in the topic order named in the rows above, through the school agriculture project, the laboratory and the islands' own examples — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 2 countries (Ethiopia, Seychelles).**
 
 Both student books are COMPLETE (Grade 5: 178 printed pp.; Grade 6: 177 printed pp.). The Grade 6 book's element classes and its fixed-ratio openers (builders 4:1, tella makers 2:1) are carried as the placements record them.
 

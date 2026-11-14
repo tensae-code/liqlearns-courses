@@ -1,6 +1,6 @@
 # Sources — Measuring: making and using a balance
 
-countries: Ethiopia, Finland, Uganda (teacher-guide evidence only)
+countries: Ethiopia, Finland, Uganda (teacher-guide evidence only), Seychelles
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -21,7 +21,15 @@ countries: Ethiopia, Finland, Uganda (teacher-guide evidence only)
 | Activity 1 — the forest animals' great weighing day: weighing natural materials with a balance (Finland) | Finland, *Luova LUMA -hankkeen aktiviteettipankki*, activity 1 — LUMA Activities, p. 3 |
 | Activity 12 — which one is heavier? the forest animals compare weights (Finland) | Finland, *Luova LUMA -hankkeen aktiviteettipankki*, activity 12 — LUMA Activities, p. 20 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Finland).**
+**Book (Seychelles — Unit 1: Techniques and Measurements (P7)):** *Seychelles Integrated Science — Techniques and Measurements*, Unit 1 (teaching notes title: "Science in the Laboratory") (student booklet + teacher guide combined) — Seychelles, Science Section, National Institute of Pedagogy (NIP), Ministry of Education and Information, 1983 programme. Authors (ERIC resume): Brophy, M.; Fryars, M. Grade: P7 (Grade 7). Records: TSV release record and books.json `grade-07/gov/seychelles/integrated-science/student/unit-01-techniques-and-measurements.pdf` — same book, cited once. Size verified 8,753,515 bytes = record size_bytes; PDF 56 pages = record pages. Verdict: COMPLETE (ERIC resume page, teaching notes and full pupil booklet Topics 1–8 + Projects 1–2 present). It counts in the acceptance count (student booklet, not evidence-only) except where a row below is marked guide evidence. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/seychelles-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Topic 4 Guessing and measuring weight: feeling a 500 g bag, guessing weights, then measuring exactly in grams on a balance; wha… (Seychelles, Unit 1: Techniques and Measurements) | Seychelles, *Seychelles Integrated Science — Techniques and Measurements, Unit 1*, printed booklet p. 6 |
+
+Seychelles' own way — the NIP Integrated Science unit booklets teach this thing in the topic order named in the rows above, through the school agriculture project, the laboratory and the islands' own examples — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 3 countries (Ethiopia, Finland, Seychelles).**
 
 The Grade 4 student book is COMPLETE (printed pp. 1–148), cited exactly as its placements header gives it. Carried item — see the honesty note in Measuring: traditional and modern measures.
 

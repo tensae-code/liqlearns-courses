@@ -1,6 +1,6 @@
 # Sources — Measuring: volume and displacement
 
-countries: Ethiopia, Slovenia, North Macedonia, Moldova, Finland
+countries: Ethiopia, Slovenia, North Macedonia, Moldova, Finland, Seychelles
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -21,7 +21,15 @@ countries: Ethiopia, Slovenia, North Macedonia, Moldova, Finland
 | Unit II §§2.4–2.6: area and volume; laboratory works measuring the volume of a rectangular block and of an irregular body (Moldova, Grade 6) | Moldova, *Fizică: Manual pentru clasa a 6-a (Physics: Textbook for Grade 6)*, Unit II §§2.4–2.6: area and volume; laboratory works measuring the volume of a rectangular block and of an irregular body — printed pp. 21, 24, 25 |
 | Activity 7 — measuring task: measuring amounts of liquid and the volumes of vessels (Finland) | Finland, *Luova LUMA -hankkeen aktiviteettipankki*, activity 7 — LUMA Activities, p. 13 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Slovenia, North Macedonia, Moldova, Finland).**
+**Book (Seychelles — Unit 1: Techniques and Measurements (P7)):** *Seychelles Integrated Science — Techniques and Measurements*, Unit 1 (teaching notes title: "Science in the Laboratory") (student booklet + teacher guide combined) — Seychelles, Science Section, National Institute of Pedagogy (NIP), Ministry of Education and Information, 1983 programme. Authors (ERIC resume): Brophy, M.; Fryars, M. Grade: P7 (Grade 7). Records: TSV release record and books.json `grade-07/gov/seychelles/integrated-science/student/unit-01-techniques-and-measurements.pdf` — same book, cited once. Size verified 8,753,515 bytes = record size_bytes; PDF 56 pages = record pages. Verdict: COMPLETE (ERIC resume page, teaching notes and full pupil booklet Topics 1–8 + Projects 1–2 present). It counts in the acceptance count (student booklet, not evidence-only) except where a row below is marked guide evidence. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/seychelles-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Topic 5 Guessing and measuring volume: volume is the space a thing takes up; measuring in millilitres and litres with a measuri… (Seychelles, Unit 1: Techniques and Measurements) | Seychelles, *Seychelles Integrated Science — Techniques and Measurements, Unit 1*, printed booklet p. 7 |
+
+Seychelles' own way — the NIP Integrated Science unit booklets teach this thing in the topic order named in the rows above, through the school agriculture project, the laboratory and the islands' own examples — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 6 countries (Ethiopia, Slovenia, North Macedonia, Moldova, Finland, Seychelles).**
 
 The Grade 4 student book is COMPLETE (printed pp. 1–148), cited exactly as its placements header gives it. Carried item — see the honesty note in Measuring: traditional and modern measures.
 

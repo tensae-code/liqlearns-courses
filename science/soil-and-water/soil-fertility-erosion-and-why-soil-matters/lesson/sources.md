@@ -1,6 +1,6 @@
 # Sources — Soil fertility, erosion, and why soil matters
 
-countries: Ethiopia, Mexico, Suriname, Guatemala (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Barbados (curriculum evidence only), Uganda, Bulgaria, Gabon (teacher-guide evidence only), Cuba
+countries: Ethiopia, Mexico, Suriname, Guatemala (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Barbados (curriculum evidence only), Uganda, Bulgaria, Gabon (teacher-guide evidence only), Cuba, Seychelles
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -24,7 +24,15 @@ countries: Ethiopia, Mexico, Suriname, Guatemala (teacher-guide evidence only), 
 | Grade 6 — why soil washes away: four causes; holding it: six methods | Ethiopia, *Grade 6 Student Textbook*, printed pp. 111–113 |
 | Grade 6 — why soil washes away: four causes; holding it: six methods (teacher guide — evidence) | Ethiopia, *Grade 6 Teacher Guide*, §3.3, printed pp. 49–51 and p. 63 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Mexico, Suriname).**
+**Book (Seychelles — Unit 13: Conserving Our Environment (P9)):** *Seychelles Integrated Science — Conserving Our Environment*, Unit 13 (student booklet + teaching notes combined, ERIC scan) — Seychelles, Science Section, National Institute of Pedagogy, Ministry of Education and Information, 1983. Grade: P9 (Grade 9). Records: TSV release record and books.json `grade-09/gov/seychelles/integrated-science/student/unit-13-conserving-our-environment.pdf` — same book, cited once. Size verified 10,820,376 bytes = record size_bytes; PDF 53 pages = record pages. Verdict: COMPLETE (teaching notes contents and lessons for Topics 1–6, the habitat Project and both Summaries present, with the pupil booklet). It counts in the acceptance count (student booklet, not evidence-only) except where a row below is marked guide evidence. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/seychelles-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Topic 6 Erosion in our environment (Seychelles, Unit 13: Conserving Our Environment) | Seychelles, *Seychelles Integrated Science — Conserving Our Environment, Unit 13*, printed p. 22 |
+
+Seychelles' own way — the NIP Integrated Science unit booklets teach this thing in the topic order named in the rows above, through the school agriculture project, the laboratory and the islands' own examples — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 4 countries (Ethiopia, Mexico, Suriname, Seychelles).**
 
 The Grade 4 student book is COMPLETE (printed pp. 1–148); nothing in this lesson rests on the regional teacher guides.
 

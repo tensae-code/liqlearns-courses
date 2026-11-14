@@ -1,6 +1,6 @@
 # Sources — Air is there — air takes up space and can be pushed
 
-countries: Gabon (teacher-guide evidence only), Jamaica (curriculum-guide evidence only), Djibouti (teacher-guide evidence only), India, Uganda, Bulgaria, Moldova, Cuba, Cambodia (guide evidence only)
+countries: Gabon (teacher-guide evidence only), Jamaica (curriculum-guide evidence only), Djibouti (teacher-guide evidence only), India, Uganda, Bulgaria, Moldova, Cuba, Cambodia (guide evidence only), Seychelles
 
 **Book 1:** *Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année* (teacher guide) — Gabon, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Title as printed: Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Grade 3. Teacher guide. Repo path: grade-03/gov/gabon/sciences/teacher/gabon-g03-sciences-teacher.pdf. Byte size: 1,385,512 (no size in record). PDF pages: 64. Offset: printed pp. 3–64 (sommaire: paliers at pp. 3–16, 17–29, 30–42, 43–53, 54–64). Verdict: COMPLETE — full text read (36,970 words); sommaire and palier competence statements prove identity and scope. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -14,7 +14,15 @@ countries: Gabon (teacher-guide evidence only), Jamaica (curriculum-guide eviden
 | Do it first; key ideas; Do It Yourself (teacher guide — evidence) | Gabon, *Super Efficace — Sciences, Guide pédagogique, 3e année*, Palier 2: La présence et l'usage de l'air; les propriétés de l'air, printed p. 17 |
 | Constituents of air and their properties and uses, in Water and the Earth's Atmosphere (curriculum-guide evidence) (Jamaica, Grade 8) | Jamaica, *National Standards Curriculum Guide: Science, Grades 7–9 — Integrated Science*, Water and the Earth's Atmosphere — printed p. 151 |
 
-**Acceptance count: taught in 0 countries — this lesson stands on guide evidence only (Gabon — teacher guide; Jamaica — curriculum guide), named here, counted nowhere.**
+**Book (Seychelles — Unit 2: Air and Weather (P7)):** *Seychelles Integrated Science — Air and Weather*, Unit 2 (student booklet + teaching notes combined, ERIC scan) — Seychelles, Science Section, National Institute of Pedagogy, Ministry of Education and Information, 1983 programme. Grade: P7 (Grade 7). Records: TSV release record and books.json `grade-07/gov/seychelles/integrated-science/student/unit-02-air-and-weather.pdf` — same book, cited once. Size verified 7,038,795 bytes = record size_bytes; PDF 55 pages = record pages. Verdict: COMPLETE (teaching notes for Topics 1–7 + Project, and full pupil booklet present). It counts in the acceptance count (student booklet, not evidence-only) except where a row below is marked guide evidence. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/seychelles-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Topic 1 Air is there: air inside "empty" beakers, bottles and shells; air dissolved in water is what fish breathe (Seychelles, Unit 2: Air and Weather) | Seychelles, *Seychelles Integrated Science — Air and Weather, Unit 2*, printed booklet pp. 1–3 |
+
+Seychelles' own way — the NIP Integrated Science unit booklets teach this thing in the topic order named in the rows above, through the school agriculture project, the laboratory and the islands' own examples — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 1 country — this lesson stands on guide evidence only (Gabon — teacher guide; Jamaica — curriculum guide), named here, counted nowhere.**
 
 Placement choice, on the record: this NEW LESSON was built for the Gabon placement "Air is there — air takes up space and can be pushed" — gabon-placements.md, Book 1, Palier 2: La présence et l'usage de l'air; les propriétés de l'air, printed p. 17 — a topic no existing slug covers at this primary depth. It sits in materials/ and is registered in CURRICULUM.md Unit 4 (Materials). The source is an integrated Sciences TEACHER GUIDE (Super Efficace, EDIG/EDICEF), so the lesson rests on teacher-guide evidence only and is counted nowhere. Only the guide's Sciences physiques thread is placed; its biology/technology/TIC lessons are not physics placements and are excluded by scope.
 

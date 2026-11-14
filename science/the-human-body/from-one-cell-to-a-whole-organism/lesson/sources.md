@@ -1,6 +1,6 @@
 # Sources — Cells — from one cell to a whole organism
 
-countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Uganda (teacher-guide evidence only), Cuba, Samoa, Egypt
+countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Uganda (teacher-guide evidence only), Cuba, Samoa, Egypt, Seychelles
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed (printed "ISBN No –"). COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -17,7 +17,15 @@ countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Ugand
 | Classify Life According to Cellular Structure: comparing plant and animal cells (outcome 1.5.1) (curriculum-guide evidence) (Trinidad and Tobago, Form 1) | Trinidad and Tobago, *Secondary School Curriculum — Integrated Science, Forms One–Three*, Classify Life According to Cellular Structure (framework, printed p. 33; Form 1 content from printed p. 38) — printed p. 33 |
 | Levels of Organization in Living Things (curriculum-guide evidence) (Trinidad and Tobago, Form 1) | Trinidad and Tobago, *Secondary School Curriculum — Integrated Science, Forms One–Three*, Levels of Organization in Living Things (framework, printed p. 33; Form 1 content from printed p. 38) — printed p. 33 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Book (Seychelles — Unit 4: Soil and Living Things (P7)):** *Seychelles Integrated Science — Soil and Living Things*, Unit 4 (student booklet + teaching notes combined, ERIC scan) — Seychelles, Science Section, National Institute of Pedagogy, Ministry of Education and Information, 1983. Grade: P7 (Grade 7). Records: TSV release record and books.json `grade-07/gov/seychelles/integrated-science/student/unit-04-soil-and-living-things.pdf` — same book, cited once. Size verified 7,283,104 bytes = record size_bytes; PDF 53 pages = record pages. Verdict: COMPLETE (teaching notes and full pupil booklet: Topics 1–6, Living Cells summary and Wormery project present). It counts in the acceptance count (student booklet, not evidence-only) except where a row below is marked guide evidence. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/seychelles-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Summary 1 Living cells: all living things are composed of cells; looking at onion-skin cells and cheek cells through a microsco… (Seychelles, Unit 4: Soil and Living Things) | Seychelles, *Seychelles Integrated Science — Soil and Living Things, Unit 4*, printed booklet p. 9 |
+
+Seychelles' own way — the NIP Integrated Science unit booklets teach this thing in the topic order named in the rows above, through the school agriculture project, the laboratory and the islands' own examples — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 2 countries (Ethiopia, Seychelles).**
 
 Trinidad and Tobago is named as curriculum-guide evidence only (*Secondary School Curriculum — Integrated Science, Forms One–Three* — curriculum guide), not added to this count.
 

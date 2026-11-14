@@ -1,6 +1,6 @@
 # Sources — Fruits and seeds
 
-countries: Albania (teacher-guide evidence only), Mongolia
+countries: Albania (teacher-guide evidence only), Mongolia, Seychelles
 
 **Book (Albania):** *Libër mësuesi — Dituri natyre 5* (teacher guide) — Albania, Shtëpia Botuese Mediaprint, first edition 2019; ISBN 978-9928-08-396-8. Title as printed: Libër mësuesi — Dituri natyre 5 (author Laureta Shkoza; textbook translated/adapted by Prof. Dr. Ethem Ruka). Grade 5, TEACHER guide — yearly plan, worked learning situations with answers, and term tests; all placements from it are guide evidence. PDF: 73 pages, 2,560,136 bytes (verified: byte size and 73 pages match the books.json record exactly; title page matches the record title). Verdict: COMPLETE. TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/albania-placements.md.
 
@@ -11,7 +11,15 @@ countries: Albania (teacher-guide evidence only), Mongolia
 | Sub lesson 2 — The seed — the next plant packed (Albania, Grade 5) | Albania, *Dituri natyre 5 TG*, printed p. 15 |
 | Do it first; key ideas; Do It Yourself | Albania, as cited in the rows above |
 
-**Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (Albania), named here, counted nowhere.**
+**Book (Seychelles — Unit 6: Living Things Reproduce (P8)):** *Seychelles Integrated Science — Living Things Reproduce*, Unit 6 (student booklet + teaching notes combined, ERIC scan) — Seychelles, Science Section, National Institute of Pedagogy, Ministry of Education and Information, 1983. Grade: P8 (Grade 8). Records: TSV release record and books.json `grade-08/gov/seychelles/integrated-science/student/unit-06-living-things-reproduce.pdf` — same book, cited once. Size verified 8,275,482 bytes = record size_bytes; PDF 48 pages = record pages. Verdict: COMPLETE (teaching notes and full pupil booklet: Topics 1–7 and summaries present). It counts in the acceptance count (student booklet, not evidence-only) except where a row below is marked guide evidence. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/seychelles-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Topic 4 After pollination: the petals wither, the ovules develop into seeds in the ovary, and fruits are the swollen ovary hold… (Seychelles, Unit 6: Living Things Reproduce) [placement slug as filed: the-fruit-protects-the-seed] | Seychelles, *Seychelles Integrated Science — Living Things Reproduce, Unit 6*, printed booklet pp. 6–7 |
+
+Seychelles' own way — the NIP Integrated Science unit booklets teach this thing in the topic order named in the rows above, through the school agriculture project, the laboratory and the islands' own examples — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 1 country — this lesson stands on teacher-guide evidence only (Albania), named here, counted nowhere.**
 
 Placement choice, on the record: this NEW LESSON was built for the Albania placement "NEW LESSON NEEDED — plants/fruits-and-seeds" — albania-placements.md, *Dituri natyre 5 TG*, printed p. 15. No existing general-science lesson covers fruits and seeds as its own thing at this level — the Biology fruit lessons are secondary-depth treatments of fruit formation and fruit types — so it gets its own lesson. It sits in plants/ and is registered in CURRICULUM.md Unit 8 (Plants). Albania's own way — the guide's own question / learning situation as described in the placement — IS part of this lesson's content, carried exactly as filed. Honesty: the book is a TEACHER GUIDE, so this lesson counts toward acceptance nowhere; its rows are guide evidence only.
 

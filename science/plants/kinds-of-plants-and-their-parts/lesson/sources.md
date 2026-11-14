@@ -1,6 +1,6 @@
 # Sources — Kinds of plants and their parts
 
-countries: Ethiopia, Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Sweden, Guyana, Micronesia (teaching-tips guide evidence only), Mongolia, Barbados (curriculum evidence only), India, Greece, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Pakistan (Punjab), Armenia, Cuba, Samoa, Egypt
+countries: Ethiopia, Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Sweden, Guyana, Micronesia (teaching-tips guide evidence only), Mongolia, Barbados (curriculum evidence only), India, Greece, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Pakistan (Punjab), Armenia, Cuba, Samoa, Egypt, Seychelles
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -21,7 +21,18 @@ countries: Ethiopia, Canada (teacher-guide evidence only), Guatemala (teacher-gu
 | Grade 5 — seedless plants: algae, fungi, mosses, ferns (teacher guide — evidence) | Ethiopia, *Grade 5 Teacher Guide*, §3.2.3, printed pp. 54–56 |
 | Grade 6 — seeded plants: cones, flowers, pollination, seeds | Ethiopia, *Grade 6 Student Textbook*, printed pp. 27–31 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Sweden).**
+**Book (Seychelles — Unit 4: Soil and Living Things (P7)):** *Seychelles Integrated Science — Soil and Living Things*, Unit 4 (student booklet + teaching notes combined, ERIC scan) — Seychelles, Science Section, National Institute of Pedagogy, Ministry of Education and Information, 1983. Grade: P7 (Grade 7). Records: TSV release record and books.json `grade-07/gov/seychelles/integrated-science/student/unit-04-soil-and-living-things.pdf` — same book, cited once. Size verified 7,283,104 bytes = record size_bytes; PDF 53 pages = record pages. Verdict: COMPLETE (teaching notes and full pupil booklet: Topics 1–6, Living Cells summary and Wormery project present). It counts in the acceptance count (student booklet, not evidence-only) except where a row below is marked guide evidence. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/seychelles-placements.md.
+
+**Book (Seychelles — Unit 5: Different Living Things (P7)):** *Seychelles Integrated Science — Different Living Things*, Unit 5 (student booklet + teaching notes combined, ERIC scan) — Seychelles, Science Section, National Institute of Pedagogy, Ministry of Education and Information, 1983. Grade: P7 (Grade 7). Records: TSV release record and books.json `grade-07/gov/seychelles/integrated-science/student/unit-05-different-living-things.pdf` — same book, cited once. Size verified 7,090,273 bytes = record size_bytes; PDF 49 pages = record pages. Verdict: COMPLETE (teaching notes and full pupil booklet: Topics 1–6, two Projects and the Using a Key summary present). It counts in the acceptance count (student booklet, not evidence-only) except where a row below is marked guide evidence. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/seychelles-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Topic 3 Looking at plants: identifying leaves, stem, roots, buds and flowers on a plant (Seychelles, Unit 4: Soil and Living Things) | Seychelles, *Seychelles Integrated Science — Soil and Living Things, Unit 4*, printed booklet p. 5 |
+| Project Different types of plants: collecting and sorting different types of plants (Seychelles, Unit 5: Different Living Things) | Seychelles, *Seychelles Integrated Science — Different Living Things, Unit 5*, printed booklet pp. 5–6 |
+
+Seychelles' own way — the NIP Integrated Science unit booklets teach this thing in the topic order named in the rows above, through the school agriculture project, the laboratory and the islands' own examples — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 3 countries (Ethiopia, Sweden, Seychelles).**
 
 Honesty: this teacher's guide scan is TRUNCATED — printed pp. 1–61 (Units 1–3) held; Units 4–5 are missing from the library file. Rows from it are teacher-guide evidence and never count as pupil-taught.
 

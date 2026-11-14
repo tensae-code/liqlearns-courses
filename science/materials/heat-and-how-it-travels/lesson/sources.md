@@ -1,6 +1,6 @@
 # Sources — Heat and how it travels
 
-countries: Ethiopia, Australia, India, Gabon (teacher-guide evidence only), United States, Cuba, Egypt, Cambodia
+countries: Ethiopia, Australia, India, Gabon (teacher-guide evidence only), United States, Cuba, Egypt, Cambodia, Seychelles
 
 **Book 12:** *Environmental Science Student Textbook, Grade 6* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Mulugeta Awayehu (MA, Assoc. Prof.), Belete Kebede (MSc), Melese Sinu (MSc), Minilk Belay (MSc), Neqiqneh Zewdie (MSc). COMPLETE: 177 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g06-student-placements.md.
 
@@ -13,7 +13,16 @@ countries: Ethiopia, Australia, India, Gabon (teacher-guide evidence only), Unit
 | Radiation — and Experiment 8 | Ethiopia, *Grade 6 Student Textbook*, printed pp. 87–88 |
 | Heat (4.1) — heat and how it travels, Australia's Grade 9 treatment (Australia, Grade 9) | Australia, *Pearson Science 9*, 4.1 Heat — printed p. 125 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Australia).**
+**Book (Seychelles — Unit 10: Heat and Molecules (P8)):** *Seychelles Integrated Science — Heat and Molecules*, Unit 10 (student booklet + teaching notes combined, ERIC scan) — Seychelles, Science Section, National Institute of Pedagogy, Ministry of Education and Information, 1983. Grade: P8 (Grade 8). Records: TSV release record and books.json `grade-08/gov/seychelles/integrated-science/student/unit-10-heat-and-molecules.pdf` — same book, cited once. Size verified 12,540,761 bytes = record size_bytes; PDF 58 pages = record pages. Verdict: COMPLETE (teaching notes contents and lessons for Topics 1–9 and both Summaries present, with the pupil booklet). It counts in the acceptance count (student booklet, not evidence-only) except where a row below is marked guide evidence. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/seychelles-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Topic 1 Some effects of heat: heat melts margarine and chars wood; a ball-and-ring apparatus shows metals expand when heated (Seychelles, Unit 10: Heat and Molecules) | Seychelles, *Seychelles Integrated Science — Heat and Molecules, Unit 10*, printed p. 2 |
+| Summary 2 Heat on the move: the three ways heat travels, drawn together (Seychelles, Unit 10: Heat and Molecules) | Seychelles, *Seychelles Integrated Science — Heat and Molecules, Unit 10*, printed p. 25 |
+
+Seychelles' own way — the NIP Integrated Science unit booklets teach this thing in the topic order named in the rows above, through the school agriculture project, the laboratory and the islands' own examples — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 3 countries (Ethiopia, Australia, Seychelles).**
 
 The Grade 6 student book is COMPLETE (printed pp. 1–177). Experiment 8 (focusing sunlight to burn paper) is carried in its SAFE form, per the build rules: a teacher-demonstration visual in the book's own framing, never set as a pupil task, and no GIF of it was made.
 

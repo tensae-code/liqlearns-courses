@@ -1,6 +1,6 @@
 # Sources — Reproducing plants — seeds and other ways
 
-countries: Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Gabon (teacher-guide evidence only)
+countries: Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Gabon (teacher-guide evidence only), Seychelles
 
 **Book (Djibouti — Grade 3 guide):** *Guide du maître — Sciences Expérimentales, 3ème année* (teacher guide) — Djibouti, CRIPEN — Centre de Recherche, d'Information et de Production de l'Éducation Nationale, Ministère de l'Éducation Nationale. Title as printed: Guide du Maître — Sciences Expérimentales, 3e année (Découverte du Monde), CRIPEN. Grade 3, TEACHER guide. PDF as secured: 1,469,198 bytes; pdfinfo reports 80 pages but the file is DAMAGED (broken page tree, "Kid object wrong type" errors) and only the first 44 pages yield text or render — Verdict: PARTIAL. Read and placed: front matter, the CB1 competency statement, and Modules 1–3 as far as the plant-life lessons (guide sequence 70). Missing: everything after that point in the guide. Page numbers cited are PDF pages (the guide's printed folios are only partly legible in the damaged copy). TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/djibouti-placements.md.
 
@@ -10,7 +10,15 @@ countries: Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculu
 | Sub lesson 2 — how a plant develops without starting from a seed (teacher guide — evidence) (Djibouti, Grade 3) | Djibouti, *Sciences Expérimentales G3 Guide*, printed p. 40 |
 | Do it first; key ideas; Do It Yourself | Djibouti, as cited in the rows above |
 
-**Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (Djibouti), named here, counted nowhere.**
+**Book (Seychelles — Unit 7: Food and Growth (P8)):** *Seychelles Integrated Science — Food and Growth*, Unit 7 (student booklet + teaching notes combined, ERIC scan) — Seychelles, Science Section, National Institute of Pedagogy, Ministry of Education and Information, 1983. Grade: P8 (Grade 8). Records: TSV release record and books.json `grade-08/gov/seychelles/integrated-science/student/unit-07-food-and-growth.pdf` — same book, cited once. Size verified 11,230,281 bytes = record size_bytes; PDF 63 pages = record pages. Verdict: COMPLETE (teaching notes and full pupil booklet: Topics 1–11 and both Projects present). It counts in the acceptance count (student booklet, not evidence-only) except where a row below is marked guide evidence. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/seychelles-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Project 2 Vegetative reproduction: growing plants from stem cuttings and tubers as well as seeds — cassava, pumpkin and sweet p… (Seychelles, Unit 7: Food and Growth) [placement slug as filed: growing-plants-without-seeds-cuttings-and-tubers] | Seychelles, *Seychelles Integrated Science — Food and Growth, Unit 7*, printed booklet p. 32 |
+
+Seychelles' own way — the NIP Integrated Science unit booklets teach this thing in the topic order named in the rows above, through the school agriculture project, the laboratory and the islands' own examples — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 1 country — this lesson stands on teacher-guide evidence only (Djibouti), named here, counted nowhere.**
 
 Placement choice, on the record: this NEW LESSON was built for the two Djibouti placements "NEW LESSON NEEDED — reproducing-plants-seeds-and-other-ways" — djibouti-placements.md, Djibouti Science G3 Guide, printed p. 29 and printed p. 40 (two placements, one lesson). No existing general-science lesson covers growing new plants from bulbs and cuttings as its own thing (checked the live repo at merge time: the Albania-built `plants/flowers-and-how-plants-reproduce` teaches the flower and pollination, and `plants/fruits-and-seeds` the seed as the next plant packed — neither teaches the non-seed ways), so it gets its own lesson. It sits in plants/ and is registered in CURRICULUM.md Unit 8 (Plants). Djibouti's own way — seed, bulb and cutting taught side by side in one module — IS part of this lesson's content, carried exactly as the placements describe it. Honesty: the source is a TEACHER GUIDE, and the held Grade 3 guide file is PARTIAL — DAMAGED (broken page tree; only the first 44 of a reported 80 pages readable; a clean copy is library debt, as filed) — so this lesson counts toward acceptance nowhere; its rows are guide evidence only.
 

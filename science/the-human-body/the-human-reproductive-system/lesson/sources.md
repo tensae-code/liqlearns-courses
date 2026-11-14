@@ -1,6 +1,6 @@
 # Sources — The human reproductive system
 
-countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Guyana, Mongolia, India, Gabon (teacher-guide evidence only), Cuba, Samoa, Cambodia
+countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Guyana, Mongolia, India, Gabon (teacher-guide evidence only), Cuba, Samoa, Cambodia, Seychelles
 
 **Book 12:** *Environmental Science Student Textbook, Grade 6* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Mulugeta Awayehu (MA, Assoc. Prof.), Belete Kebede (MSc), Melese Sinu (MSc), Minilk Belay (MSc), Neqiqneh Zewdie (MSc). COMPLETE: 177 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g06-student-placements.md.
 
@@ -13,7 +13,15 @@ countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Guyan
 
 | Human Body Systems: the Reproductive System — outline of the male and female systems (outcome 3.1.1) (curriculum-guide evidence) (Trinidad and Tobago, Form 3) | Trinidad and Tobago, *Secondary School Curriculum — Integrated Science, Forms One–Three*, Human Body Systems: the Reproductive System (framework, printed p. 33; Form 3 content from printed p. 90) — printed p. 33 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Book (Seychelles — Unit 6: Living Things Reproduce (P8)):** *Seychelles Integrated Science — Living Things Reproduce*, Unit 6 (student booklet + teaching notes combined, ERIC scan) — Seychelles, Science Section, National Institute of Pedagogy, Ministry of Education and Information, 1983. Grade: P8 (Grade 8). Records: TSV release record and books.json `grade-08/gov/seychelles/integrated-science/student/unit-06-living-things-reproduce.pdf` — same book, cited once. Size verified 8,275,482 bytes = record size_bytes; PDF 48 pages = record pages. Verdict: COMPLETE (teaching notes and full pupil booklet: Topics 1–7 and summaries present). It counts in the acceptance count (student booklet, not evidence-only) except where a row below is marked guide evidence. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/seychelles-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Topic 7 Human reproduction: ovaries produce egg cells; the egg travels down the oviduct to the uterus; an unfertilised egg pass… (Seychelles, Unit 6: Living Things Reproduce) | Seychelles, *Seychelles Integrated Science — Living Things Reproduce, Unit 6*, printed booklet pp. 14–17 (guide evidence) |
+
+Seychelles' own way — the NIP Integrated Science unit booklets teach this thing in the topic order named in the rows above, through the school agriculture project, the laboratory and the islands' own examples — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 2 countries (Ethiopia, Seychelles).**
 
 Trinidad and Tobago is named as curriculum-guide evidence only (*Secondary School Curriculum — Integrated Science, Forms One–Three* — curriculum guide), not added to this count.
 

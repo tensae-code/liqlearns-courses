@@ -1,6 +1,6 @@
 # Sources — Water — why it is precious and how to save it
 
-countries: Ethiopia, Canada (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Guyana, Micronesia, Costa Rica, India, Moldova, Cuba, Egypt, Cambodia
+countries: Ethiopia, Canada (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Guyana, Micronesia, Costa Rica, India, Moldova, Cuba, Egypt, Cambodia, Seychelles
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -12,7 +12,15 @@ countries: Ethiopia, Canada (teacher-guide evidence only), Nauru, Tuvalu, Niue, 
 | Sub lesson 2 — conservation as a practice: prevent pollution, reuse wastewater, plug leaks, harvest rainwater, dam and store, use irrigation water efficiently, protect groundwater, plant trees | Ethiopia, *General Science Student Textbook, Grade 8*, Unit 5, printed pp. 142–144 |
 | Sub lesson 2 (teacher guide — evidence) — pupils mark World Water Day, 22 March, around home and school | Ethiopia, *General Science Teacher Guide, Grade 8*, Unit 5, printed p. 96 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Book (Seychelles — Unit 3: Water (P7)):** *Seychelles Integrated Science — Water*, Unit 3 (student booklet + teaching notes combined, ERIC scan) — Seychelles, National Institute of Pedagogy (NIP), Ministry of Education and Information, 1983. Authors (ERIC resume): Brophy, M.; Fryars, M. Grade: P7 (Grade 7). Records: TSV release record and books.json `grade-07/gov/seychelles/integrated-science/student/unit-03-water.pdf` — same book, cited once. Size verified 6,866,089 bytes = record size_bytes; PDF 44 pages = record pages. Verdict: COMPLETE (teaching notes and full pupil booklet: Topics 1–6, crystal Project and water-cycle Summary present). It counts in the acceptance count (student booklet, not evidence-only) except where a row below is marked guide evidence. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/seychelles-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Topic 6 Saving water: reading a chart of water uses, water-meter readings and paying per unit in Seychelles, and ways to save w… (Seychelles, Unit 3: Water) | Seychelles, *Seychelles Integrated Science — Water, Unit 3*, printed booklet pp. 16–17 |
+
+Seychelles' own way — the NIP Integrated Science unit booklets teach this thing in the topic order named in the rows above, through the school agriculture project, the laboratory and the islands' own examples — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 2 countries (Ethiopia, Seychelles).**
 
 PAIRING WARNING: the Grade 8 teacher guide is a federal new-syllabus book (implemented from 2014 E.C.; no bureau/publisher/year printed on it), NOT edition-matched to the Amhara student book (© 2015 E.C.) — guide material is syllabus-level teacher evidence only, never a page-key to the student book. Guide rows above are labelled (teacher guide — evidence) and never count as pupil-taught.
 

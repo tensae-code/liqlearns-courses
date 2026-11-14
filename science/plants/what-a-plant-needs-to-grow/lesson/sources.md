@@ -1,6 +1,6 @@
 # Sources — What a plant needs to grow
 
-countries: Ethiopia, Albania (teacher-guide evidence only), Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), United States, Armenia, Samoa, Egypt, Cambodia
+countries: Ethiopia, Albania (teacher-guide evidence only), Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), United States, Armenia, Samoa, Egypt, Cambodia, Seychelles
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -11,7 +11,15 @@ countries: Ethiopia, Albania (teacher-guide evidence only), Guyana, Iceland (tea
 | The four needs and the four tins | Ethiopia, *Grade 2 Student Textbook*, Chapter 3, what plants need to grow; the four-tin experiment, printed pp. 39–42 |
 | The four needs and the four tins (teacher guide — evidence) | Ethiopia, *Grade 2 Teacher Guide (Addis Ababa Bureau)*, §3.2, what plants need to grow (teacher guide — evidence), printed pp. 48–51 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Book (Seychelles — Unit 7: Food and Growth (P8)):** *Seychelles Integrated Science — Food and Growth*, Unit 7 (student booklet + teaching notes combined, ERIC scan) — Seychelles, Science Section, National Institute of Pedagogy, Ministry of Education and Information, 1983. Grade: P8 (Grade 8). Records: TSV release record and books.json `grade-08/gov/seychelles/integrated-science/student/unit-07-food-and-growth.pdf` — same book, cited once. Size verified 11,230,281 bytes = record size_bytes; PDF 63 pages = record pages. Verdict: COMPLETE (teaching notes and full pupil booklet: Topics 1–11 and both Projects present). It counts in the acceptance count (student booklet, not evidence-only) except where a row below is marked guide evidence. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/seychelles-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Topic 11 Germinating seeds: experiments to decide whether a seed must have darkness, water and air to germinate (Seychelles, Unit 7: Food and Growth) | Seychelles, *Seychelles Integrated Science — Food and Growth, Unit 7*, printed booklet pp. 29–31 |
+
+Seychelles' own way — the NIP Integrated Science unit booklets teach this thing in the topic order named in the rows above, through the school agriculture project, the laboratory and the islands' own examples — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 2 countries (Ethiopia, Seychelles).**
 
 Honesty: this teacher's guide scan is TRUNCATED — printed pp. 1–61 (Units 1–3) held; Units 4–5 are missing from the library file. Rows from it are teacher-guide evidence and never count as pupil-taught.
 

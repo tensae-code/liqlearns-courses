@@ -1,6 +1,6 @@
 # Sources — Classification — sorting the living world
 
-countries: Ethiopia, Suriname, Sweden (teacher-guide evidence only), Uganda, Moldova, Pakistan (Punjab), Samoa
+countries: Ethiopia, Suriname, Sweden (teacher-guide evidence only), Uganda, Moldova, Pakistan (Punjab), Samoa, Seychelles
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -12,7 +12,15 @@ countries: Ethiopia, Suriname, Sweden (teacher-guide evidence only), Uganda, Mol
 | Sub lesson 2 — The compound survey (doing) | Grade 7 Student Textbook, Unit 5, printed pp. 128–130 (student placement item 55) |
 | Field safety in the survey (teacher guide — evidence) | Grade 7 Teacher Guide, Unit 5, printed pp. 84–108 (teacher placement item 11) — syllabus-level teacher evidence only |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Suriname).**
+**Book (Seychelles — Unit 5: Different Living Things (P7)):** *Seychelles Integrated Science — Different Living Things*, Unit 5 (student booklet + teaching notes combined, ERIC scan) — Seychelles, Science Section, National Institute of Pedagogy, Ministry of Education and Information, 1983. Grade: P7 (Grade 7). Records: TSV release record and books.json `grade-07/gov/seychelles/integrated-science/student/unit-05-different-living-things.pdf` — same book, cited once. Size verified 7,090,273 bytes = record size_bytes; PDF 49 pages = record pages. Verdict: COMPLETE (teaching notes and full pupil booklet: Topics 1–6, two Projects and the Using a Key summary present). It counts in the acceptance count (student booklet, not evidence-only) except where a row below is marked guide evidence. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/seychelles-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Topic 3 Animals and plants: devising a set of "rules" that distinguish animals from plants (Seychelles, Unit 5: Different Living Things) | Seychelles, *Seychelles Integrated Science — Different Living Things, Unit 5*, printed booklet p. 4 |
+
+Seychelles' own way — the NIP Integrated Science unit booklets teach this thing in the topic order named in the rows above, through the school agriculture project, the laboratory and the islands' own examples — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 3 countries (Ethiopia, Suriname, Seychelles).**
 
 Pairing warning (carried exactly): the G7 guide is an ADDIS ABABA bureau book (2023), NOT edition-matched to the Amhara student book (©2015 E.C.) — guide material is filed as syllabus-level teacher evidence, never as a page-key. The guide's contents misprint "Living Things and their Tiversity" — not reproduced. Teacher-guide rows above are evidence only and never count as pupil-taught. No page is claimed beyond the placements. The student book's facts are taught as printed for this unit; no Unit 5 student-book error is flagged in the placements.
 

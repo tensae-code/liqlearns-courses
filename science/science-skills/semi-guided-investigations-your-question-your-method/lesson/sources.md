@@ -1,6 +1,6 @@
 # Sources — Semi-guided investigations — your question, your method
 
-countries: Ethiopia, Slovenia, Bhutan, Moldova, Cook Islands, Bulgaria, Armenia, Samoa
+countries: Ethiopia, Slovenia, Bhutan, Moldova, Cook Islands, Bulgaria, Armenia, Samoa, Seychelles
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). COMPLETE: 241 PDF pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -28,6 +28,16 @@ countries: Ethiopia, Slovenia, Bhutan, Moldova, Cook Islands, Bulgaria, Armenia,
 | Front matter (assessment/project section): every pupil carries out a year-long individual project — question, hypothesis, variables and control, data from at least 3–4 sources, 2,000–2,500-word report in APA format — PDF pp. 14–20 — Bhutan's own way: project work is inside the physics textbook, not a separate course (Bhutan, Class IX (Grade 9)) | Bhutan, *Physics, Class Nine*, Front matter (assessment/project section): every pupil carries out a year-long individual project — question, hypothesis, variables and control, data from at least 3–4 sources, 2,000–2,500-word report in APA format — PDF pp. 14–20 — Bhutan's own way: project work is inside the physics textbook, not a separate course |
 
 | Parani'anga no te Kimikimi'anga Matatio / Planning A Scientific Study: planning the class study with the Growing Up in New Zealand study as the worked example, and recording scientific data (Cook Islands, Grade 8) | Cook Islands, *Ko Au e Toku Aorangi: Kai No te Oraanga Meitaki — Me, Myself, My Environment: Nutrition*, printed p. 40 |
+
+**Book (Seychelles — Unit 2: Air and Weather (P7)):** *Seychelles Integrated Science — Air and Weather*, Unit 2 (student booklet + teaching notes combined, ERIC scan) — Seychelles, Science Section, National Institute of Pedagogy, Ministry of Education and Information, 1983 programme. Grade: P7 (Grade 7). Records: TSV release record and books.json `grade-07/gov/seychelles/integrated-science/student/unit-02-air-and-weather.pdf` — same book, cited once. Size verified 7,038,795 bytes = record size_bytes; PDF 55 pages = record pages. Verdict: COMPLETE (teaching notes for Topics 1–7 + Project, and full pupil booklet present). It counts in the acceptance count (student booklet, not evidence-only) except where a row below is marked guide evidence. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/seychelles-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Topic 1 (guide evidence): pupils design and carry out their own experiment on whether people can taste a difference between tea… (Seychelles, Unit 2: Air and Weather) | Seychelles, *Seychelles Integrated Science — Air and Weather, Unit 2*, PDF scan p. 10 (guide evidence) (guide evidence) |
+
+Seychelles' own way — the NIP Integrated Science unit booklets teach this thing in the topic order named in the rows above, through the school agriculture project, the laboratory and the islands' own examples — is itself course content, carried exactly as filed.
+
+Seychelles note: the Seychelles placement for this lesson is teaching-notes (guide) evidence only, as filed — it is cited above as evidence and does not add to the acceptance count.
 
 **Acceptance count: taught in 5 countries (Ethiopia, Slovenia, Bhutan, Moldova, Cook Islands).** The teacher-guide parts are evidence inside a student-book lesson and do not add a country.
 

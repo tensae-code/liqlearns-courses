@@ -1,6 +1,6 @@
 # Sources — Habitats — where a living thing lives
 
-countries: Guatemala (teacher-guide evidence only), Albania (teacher-guide evidence only), Guyana, Mongolia, India
+countries: Guatemala (teacher-guide evidence only), Albania (teacher-guide evidence only), Guyana, Mongolia, India, Seychelles
 
 **Book 1:** *Ciencias Naturales I — Guía de orientaciones metodológicas para docentes, Primero Básico* (teacher guide) — Guatemala, Ministerio de Educación (MINEDUC), Guatemala. Title as printed: Ciencias Naturales I, Guía de orientaciones metodológicas, Para docentes de primero básico. Publisher: Ministerio de Educación (MINEDUC), Guatemala. Grade: Primero Básico (Grade 7), teacher guide ("Guía de orientaciones metodológicas para docentes" — methodological orientations guide for teachers). Fetched copy: 12,813,442 bytes, PDF 88 pages. Verdict: COMPLETE (4 learning experiences). TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/guatemala-placements.md.
 
@@ -9,7 +9,15 @@ countries: Guatemala (teacher-guide evidence only), Albania (teacher-guide evide
 | Sub lesson 1 — what a habitat is; Sub lesson 2 — our surroundings, a space for life (guide evidence) (Guatemala, Grade 7) | Guatemala, *Ciencias Naturales I* (teacher guide — evidence), Learning Experience 2 "Our surroundings, a space for life": what a habitat is, printed p. 38 |
 | Do it first; key ideas; Do It Yourself | Guatemala, as cited in the row above |
 
-**Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (Guatemala), named here, counted nowhere.**
+**Book (Seychelles — Unit 13: Conserving Our Environment (P9)):** *Seychelles Integrated Science — Conserving Our Environment*, Unit 13 (student booklet + teaching notes combined, ERIC scan) — Seychelles, Science Section, National Institute of Pedagogy, Ministry of Education and Information, 1983. Grade: P9 (Grade 9). Records: TSV release record and books.json `grade-09/gov/seychelles/integrated-science/student/unit-13-conserving-our-environment.pdf` — same book, cited once. Size verified 10,820,376 bytes = record size_bytes; PDF 53 pages = record pages. Verdict: COMPLETE (teaching notes contents and lessons for Topics 1–6, the habitat Project and both Summaries present, with the pupil booklet). It counts in the acceptance count (student booklet, not evidence-only) except where a row below is marked guide evidence. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/seychelles-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Topic 1 The world around us: the place where an animal or plant lives from day to day is its habitat; three animals in differen… (Seychelles, Unit 13: Conserving Our Environment) [placement slug as filed: habitats-where-living-things-live] | Seychelles, *Seychelles Integrated Science — Conserving Our Environment, Unit 13*, printed p. 3 |
+
+Seychelles' own way — the NIP Integrated Science unit booklets teach this thing in the topic order named in the rows above, through the school agriculture project, the laboratory and the islands' own examples — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 1 country — this lesson stands on teacher-guide evidence only (Guatemala), named here, counted nowhere.**
 
 Placement choice, on the record: this NEW LESSON was built for the Guatemala placement "NEW LESSON NEEDED — habitats-and-animal-adaptations" — guatemala-placements.md, printed p. 38 (one placement, one lesson). No existing general-science lesson covers what a habitat is as its own thing — the ecosystems lesson defines habitat only as one level inside its nesting of habitat/population/community/ecosystem, and the Biology adaptation lessons are secondary-depth treatments — so it gets its own lesson. It sits in our-environment/ and is registered in CURRICULUM.md Unit 11 (Our Environment). Guatemala's own way — each guide is organised as four "Experiencias de aprendizaje" (learning experiences) that weave the science content together with the knowledge of Guatemala's Maya, Garífuna, Xinka and Ladino peoples — that intercultural way of teaching is itself course content, carried exactly as filed.
 

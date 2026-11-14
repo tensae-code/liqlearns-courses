@@ -1,6 +1,6 @@
 # Sources — Water: why every living thing needs it
 
-countries: Ethiopia, Jamaica (curriculum-guide evidence only), Mexico, Vanuatu (teacher-guide evidence only), Guyana, Micronesia, Barbados (curriculum evidence only), India, Uganda, Moldova, Cuba, Samoa, Egypt, Cambodia
+countries: Ethiopia, Jamaica (curriculum-guide evidence only), Mexico, Vanuatu (teacher-guide evidence only), Guyana, Micronesia, Barbados (curriculum evidence only), India, Uganda, Moldova, Cuba, Samoa, Egypt, Cambodia, Seychelles
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -14,7 +14,15 @@ countries: Ethiopia, Jamaica (curriculum-guide evidence only), Mexico, Vanuatu (
 | Water and the Earth's Atmosphere: properties, sources and uses of water and air (curriculum-guide evidence) (Jamaica, Grade 8) | Jamaica, *National Standards Curriculum Guide: Science, Grades 7–9 — Integrated Science*, Water and the Earth's Atmosphere — printed p. 151 |
 | Forms of continental water: rivers, lakes, groundwater; their distribution (Mexico, Grade 7) | Mexico, *Ética, naturaleza y sociedades, Primer grado de secundaria*, printed pp. 48–51 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Mexico).**
+**Book (Seychelles — Unit 3: Water (P7)):** *Seychelles Integrated Science — Water*, Unit 3 (student booklet + teaching notes combined, ERIC scan) — Seychelles, National Institute of Pedagogy (NIP), Ministry of Education and Information, 1983. Authors (ERIC resume): Brophy, M.; Fryars, M. Grade: P7 (Grade 7). Records: TSV release record and books.json `grade-07/gov/seychelles/integrated-science/student/unit-03-water.pdf` — same book, cited once. Size verified 6,866,089 bytes = record size_bytes; PDF 44 pages = record pages. Verdict: COMPLETE (teaching notes and full pupil booklet: Topics 1–6, crystal Project and water-cycle Summary present). It counts in the acceptance count (student booklet, not evidence-only) except where a row below is marked guide evidence. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/seychelles-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Topic 1 Water, water everywhere: listing the places water is found around us (seas, rivers, ditches) and sampling it (Seychelles, Unit 3: Water) | Seychelles, *Seychelles Integrated Science — Water, Unit 3*, printed booklet pp. 2–4 |
+
+Seychelles' own way — the NIP Integrated Science unit booklets teach this thing in the topic order named in the rows above, through the school agriculture project, the laboratory and the islands' own examples — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 3 countries (Ethiopia, Mexico, Seychelles).**
 
 Jamaica is named as curriculum-guide evidence only (*National Standards Curriculum Guide: Science, Grades 7–9 — Integrated Science* — curriculum guide), not added to this count.
 

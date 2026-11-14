@@ -1,6 +1,6 @@
 # Sources — What soil is and what is in it
 
-countries: Ethiopia, Mexico, Suriname, Guatemala (teacher-guide evidence only), Italy, Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Iceland (teacher-guide evidence only), Micronesia, Barbados (curriculum evidence only), India, Bulgaria, Moldova, Cuba, Samoa, Cambodia
+countries: Ethiopia, Mexico, Suriname, Guatemala (teacher-guide evidence only), Italy, Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Iceland (teacher-guide evidence only), Micronesia, Barbados (curriculum evidence only), India, Bulgaria, Moldova, Cuba, Samoa, Cambodia, Seychelles
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -18,7 +18,15 @@ countries: Ethiopia, Mexico, Suriname, Guatemala (teacher-guide evidence only), 
 | Grade 6 — soil and its five ingredients | Ethiopia, *Grade 6 Student Textbook*, printed p. 110 |
 | Grade 6 — soil and its five ingredients (teacher guide — evidence) | Ethiopia, *Grade 6 Teacher Guide*, §3.3, printed pp. 49–51 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Mexico, Suriname, Italy).**
+**Book (Seychelles — Unit 4: Soil and Living Things (P7)):** *Seychelles Integrated Science — Soil and Living Things*, Unit 4 (student booklet + teaching notes combined, ERIC scan) — Seychelles, Science Section, National Institute of Pedagogy, Ministry of Education and Information, 1983. Grade: P7 (Grade 7). Records: TSV release record and books.json `grade-07/gov/seychelles/integrated-science/student/unit-04-soil-and-living-things.pdf` — same book, cited once. Size verified 7,283,104 bytes = record size_bytes; PDF 53 pages = record pages. Verdict: COMPLETE (teaching notes and full pupil booklet: Topics 1–6, Living Cells summary and Wormery project present). It counts in the acceptance count (student booklet, not evidence-only) except where a row below is marked guide evidence. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/seychelles-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Topic 1 Studying the soil: soil contains air; settling a soil sample in water in a jar to show its clay, silt, sand, gravel and… (Seychelles, Unit 4: Soil and Living Things) | Seychelles, *Seychelles Integrated Science — Soil and Living Things, Unit 4*, printed booklet p. 1 |
+
+Seychelles' own way — the NIP Integrated Science unit booklets teach this thing in the topic order named in the rows above, through the school agriculture project, the laboratory and the islands' own examples — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 5 countries (Ethiopia, Mexico, Suriname, Italy, Seychelles).**
 
 The Grade 4 student book is COMPLETE (printed pp. 1–148); nothing in this lesson rests on the regional teacher guides. This lesson opens the Soil and Water title, which Band A left unbuilt (no directly named Soil/Water placements exist in Grades 1–3); the Grade 4 book names them directly.
 

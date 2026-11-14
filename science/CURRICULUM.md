@@ -429,6 +429,8 @@ solar-system comparison lessons.
 
 31. **Reproductive health and hygiene** (`the-human-body/reproductive-health-and-hygiene`) — keeping the reproductive system healthy by daily hygiene, cleanliness and staying safe — closing the Grade 6 book's run on the reproductive organs, puberty and preventing pregnancy (Cambodia, Grade 6 — *វិទ្យាសាស្ត្រ ថ្នាក់ទី៦ (Science, Grade 6)*, Lesson 9, printed p. 52; built for the Cambodia placements, expansion-science-2026-11-13/cambodia-placements.md)
 
+32. **Measuring growth — height charts and averages** (`the-human-body/measuring-growth-height-charts-and-averages`) — measuring the heights of ten pupils, finding the average height, plotting a bar chart of height against age, and estimating P9 heights from a P1–P8 chart (Seychelles, Grade 8 (P8) — *Seychelles Integrated Science — Food and Growth*, Unit 7, Topic 1, printed booklet pp. 1–3; built for the Seychelles placements, expansion-science-2026-11-13/seychelles-placements.md)
+
 ## Unit 4 — Materials
 
 1. **Chemical change: burning and gas-making** (`materials/chemical-change-burning-and-gas-making`) — a chemical change makes a new body — proved by the book's Experiment 2 (paper burned to ash) and Experiment 3 (lemon and yeast filling a balloon wi…
@@ -500,6 +502,10 @@ solar-system comparison lessons.
 66. **Water droplets — adhesion and cohesion** (`materials/water-droplets-adhesion-and-cohesion`) — why a water drop is round on one surface and flat on another: cohesion, water holding to itself, against adhesion, water holding to the surface — drops on foil and on a coin, drops joining, the detergent test, and glass plates stuck together by a water film (Samoa, Year 10 — *Science — Year 10, Book 2 (MESC Samoa)*, printed pp. 51–52)
 
 67. **Physical changes of matter** (`materials/physical-changes-of-matter`) — changes of state that can be reversed — melting, freezing, evaporating, condensing — where the substance stays itself (Cambodia, Grade 6 — *វិទ្យាសាស្ត្រ ថ្នាក់ទី៦ (Science, Grade 6)*, Lesson 12, printed p. 74; built for the Cambodia placements, expansion-science-2026-11-13/cambodia-placements.md)
+
+68. **Gases in the air — oxygen and carbon dioxide** (`materials/gases-in-the-air-oxygen-and-carbon-dioxide`) — preparing oxygen by heating potassium permanganate; burning carbon makes carbon dioxide, which turns limewater milky; charcoal made by burning wood in a limited supply of air (Seychelles, Grade 7 (P7) — *Seychelles Integrated Science — Air and Weather*, Unit 2, Topic 5, printed booklet pp. 14–16; built for the Seychelles placements, expansion-science-2026-11-13/seychelles-placements.md)
+
+69. **Growing crystals** (`materials/growing-crystals`) — growing crystals of magnesium sulphate or copper sulphate from solution; crystals have regular shapes with straight edges (Seychelles, Grade 7 (P7) — *Seychelles Integrated Science — Water*, Unit 3, Project, printed booklet p. 12; built for the Seychelles placements, expansion-science-2026-11-13/seychelles-placements.md)
 
 ## Unit 5 — Light
 
@@ -600,6 +606,12 @@ solar-system comparison lessons.
 
 25. **Sorting fruits and vegetables** (`plants/sorting-fruits-and-vegetables`) — classifying vegetables and fruits: grouping by kind and saying the rule — a kindergarten activity-bank lesson — guide evidence only, acceptance 0 (Cambodia, Kindergarten — *សៀវភៅសិក្សាគោលសម្រាប់មត្តេយ្យសិក្សា — វិទ្យាសាស្ត្រ (Core Book for Kindergarten Education: Science)*, activity 2.7, printed p. 110; built for the Cambodia placements, expansion-science-2026-11-13/cambodia-placements.md)
 
+26. **Root kinds — tap, fibrous and storage** (`plants/root-kinds-tap-fibrous-and-storage`) — tap roots and fibrous roots, paired with net-veined and parallel-veined leaves in dicots and monocots; roots hold and support the plant (Seychelles, Grade 7 (P7) — *Seychelles Integrated Science — Soil and Living Things*, Unit 4, Topics 3–4, printed booklet pp. 5–8; built for the Seychelles placements, expansion-science-2026-11-13/seychelles-placements.md)
+
+27. **Pollination — by insects and by hand** (`plants/pollination-by-insects-and-by-hand`) — pollination is pollen reaching the stigma; bees and moths carry it on hooked grains caught in their fur; pumpkin and passion fruit flowers pollinated by hand with a brush (Seychelles, Grade 8 (P8) — *Seychelles Integrated Science — Living Things Reproduce*, Unit 6, Topic 3, printed booklet pp. 4–5; built for the Seychelles placements, expansion-science-2026-11-13/seychelles-placements.md)
+
+28. **Stomata, transpiration and how leaves lose water** (`plants/stomata-transpiration-and-how-leaves-lose-water`) — stomata are tiny holes in leaves through which plants take in air and transpire water; preparing a slide of stomata; timing how long an unwatered plant takes to wilt (Seychelles, Grade 8 (P8) — *Seychelles Integrated Science — Food and Growth*, Unit 7, Topic 10, printed booklet pp. 26–28; built for the Seychelles placements, expansion-science-2026-11-13/seychelles-placements.md)
+
 ## Unit 9 — Animals
 
 1. **Grouping animals: by young, by movement, by food and by body** (`animals/grouping-animals`) — animals sort into groups: egg-layers against milk-givers; by movement (flying, crawling, walking) and home (land, water, both); by food (meat-eater…
@@ -657,6 +669,8 @@ solar-system comparison lessons.
 11. **Oil as a raw material — more than fuel** (`natural-resources/oil-as-a-raw-material`) — oil's second life: not burned but built into products beyond fuels, with detergents as the book's feature example (Greece, Grade 6 — *«Φυσικά» ΣΤ΄ Δημοτικού*, Energy ch. 6, printed p. 24)
 12. **Natural gas — a precious gas** (`natural-resources/natural-gas-a-precious-gas`) — natural gas searched for underground and pumped up — the book calls it a precious gas, and gives its finding its own chapter before its use as an energy source (Greece, Grade 6 — *«Φυσικά» ΣΤ΄ Δημοτικού*, Energy ch. 9, printed p. 30)
 13. **Bioclimatic design of buildings** (`natural-resources/bioclimatic-design-of-buildings`) — houses designed around the Sun and water — the energy unit's closing feature spread, where technology meets the Sun and the water (Greece, Grade 6 — *«Φυσικά» ΣΤ΄ Δημοτικού*, Energy unit feature spread, printed p. 39)
+
+14. **Storing energy — fuels, batteries and food** (`natural-resources/storing-energy-fuels-batteries-and-food`) — stored chemical energy in Seychelles: petrol, gas, kerosene, charcoal, batteries and food (Seychelles, Grade 9 (P9) — *Seychelles Integrated Science — Conserving Our Energy*, Unit 11, Topic 4, printed booklet pp. 10–11; built for the Seychelles placements, expansion-science-2026-11-13/seychelles-placements.md)
 
 ## Unit 11 — Our Environment
 
@@ -728,6 +742,8 @@ solar-system comparison lessons.
 
 64. **The flooded forest and its problems** (`our-environment/the-flooded-forest-and-its-problems`) — Cambodia's flooded forest, living with the yearly flood on its waterway system, and the forest's environmental problems (Cambodia, Grade 7 — *វិទ្យាសាស្ត្រ ថ្នាក់ទី៧ (Science, Grade 7)*, Earth Ch. 3, Lesson 2, printed p. 294; built for the Cambodia placements, expansion-science-2026-11-13/cambodia-placements.md)
 65. **How people change the environment** (`our-environment/how-people-change-the-environment`) — human actions and their effect on the environment — the general lesson that opens its chapter, before environmental pollution in detail (Cambodia, Grade 9 — *វិទ្យាសាស្ត្រ ថ្នាក់ទី៩ (Science, Grade 9)*, Biology Ch. 5, Lesson 1, printed p. 244; built for the Cambodia placements, expansion-science-2026-11-13/cambodia-placements.md)
+
+66. **Exploring our local environment** (`our-environment/exploring-our-local-environment`) — studying a puddle habitat (temperature over forty minutes, surface area by chicken-wire grid) and the full habitat investigation: describe, measure, name three plants and two animals, draw a food chain (Seychelles, Grade 9 (P9) — *Seychelles Integrated Science — Conserving Our Environment*, Unit 13, Topic 2 + Project 1, printed pp. 5, 13; built for the Seychelles placements, expansion-science-2026-11-13/seychelles-placements.md)
 
 ## Unit 12 — Family, School and Community
 
@@ -818,6 +834,10 @@ solar-system comparison lessons.
 33. **Drugs and their effects** (`keeping-healthy/drugs-and-their-effects`) — what drugs are, then their effects on the body and on life — a two-lesson chapter closing the Grade 8 Biology health run after food and diet (Cambodia, Grade 8 — *វិទ្យាសាស្ត្រ ថ្នាក់ទី៨ (Science, Grade 8)*, Biology Ch. 6, Lessons 1–2, printed pp. 238, 242; built for the Cambodia placements, expansion-science-2026-11-13/cambodia-placements.md)
 34. **Diseases that do not spread** (`keeping-healthy/diseases-that-do-not-spread`) — non-infectious diseases, taught straight after pathogens and infectious diseases so the difference between the two kinds is learned whole (Cambodia, Grade 9 — *វិទ្យាសាស្ត្រ ថ្នាក់ទី៩ (Science, Grade 9)*, Biology Ch. 4, Lesson 3, printed p. 236; built for the Cambodia placements, expansion-science-2026-11-13/cambodia-placements.md)
 
+35. **Testing foods for sugar, fat and protein** (`keeping-healthy/testing-foods-for-sugar-fat-and-protein`) — testing foods for sugar with Benedict's reagent, for fat or oil by the grease-spot method, and for protein with Millon's reagent (Seychelles, Grade 8 (P8) — *Seychelles Integrated Science — Food and Growth*, Unit 7, Topic 6, printed booklet pp. 15–18; built for the Seychelles placements, expansion-science-2026-11-13/seychelles-placements.md)
+
+36. **Keeping our senses safe** (`keeping-healthy/keeping-our-senses-safe`) — looking after your eyes and the other senses you learn through: light, rest, glare and early help when sight changes (Seychelles, Grade 9 (P9) — *Seychelles Integrated Science — Conserving Our Health*, Unit 12, Topic 'Looking after your eyes', PDF scan p. 68; built for the Seychelles placements, expansion-science-2026-11-13/seychelles-placements.md)
+
 ## Unit 15 — Science Skills
 
 1. **Debating change: new foods or old ways?** (`science-skills/debating-change-new-foods-or-old-ways`) — the book prints a debate — 'The New One and the Old One' — over whether food culture must change: new productive crops against slow-changing habits…
@@ -870,6 +890,12 @@ solar-system comparison lessons.
 43. **Explaining and arguing in science** (`science-skills/explaining-and-arguing-in-science`) — scientific explanation skills: agree/disagree circles, discussion formats, odd-one-out, thought experiments — teacher-guide evidence only, acceptance 0 (Cambodia — *Student-Centred Science Teaching, Part 1*, Ch. 2, printed pp. 34–56; built for the Cambodia placements, expansion-science-2026-11-13/cambodia-placements.md)
 44. **Learning with analogies and models** (`science-skills/learning-with-analogies-and-models`) — teaching science with analogies and models: Focus-Action-Reflection, Synectics, role play, and learner-made analogies and models — teacher-guide evidence only, acceptance 0 (Cambodia — *Student-Centred Science Teaching, Part 3*, Ch. 5, printed pp. 3–20; built for the Cambodia placements, expansion-science-2026-11-13/cambodia-placements.md)
 45. **Science learning games** (`science-skills/science-learning-games`) — learning games for science: memory game, Jeopardy, last-winner, loop and domino games — a loop that will not close names the missing link — teacher-guide evidence only, acceptance 0 (Cambodia — *Student-Centred Science Teaching, Part 3*, Ch. 6, printed pp. 67–81; built for the Cambodia placements, expansion-science-2026-11-13/cambodia-placements.md)
+
+46. **Applied measurement problems in the school garden** (`science-skills/applied-measurement-problems-in-the-school-garden`) — solving measurement problems in the school agriculture project: watering-can volume, weighing a fruit without picking it, watering seed beds (Seychelles, Grade 7 (P7) — *Seychelles Integrated Science — Techniques and Measurements*, Unit 1, Project 1, printed booklet p. 8; built for the Seychelles placements, expansion-science-2026-11-13/seychelles-placements.md)
+
+47. **Using the gas burner safely** (`science-skills/using-the-gas-burner-safely`) — lighting a Bunsen burner step by step, opening the air hole, making a flame about 5 cm high, heating a test tube with a holder and never pointing it at anyone (Seychelles, Grade 7 (P7) — *Seychelles Integrated Science — Techniques and Measurements*, Unit 1, Topic 8, printed booklet p. 11; built for the Seychelles placements, expansion-science-2026-11-13/seychelles-placements.md)
+
+48. **Using a simple identification key** (`science-skills/using-a-simple-identification-key`) — using a simple three-stage key to identify an organism, and building a key from yes/no questions (Seychelles, Grade 7 (P7) — *Seychelles Integrated Science — Different Living Things*, Unit 5, Summary + Project, printed booklet pp. 9–11; built for the Seychelles placements, expansion-science-2026-11-13/seychelles-placements.md)
 
 ## Unit 16 — Biology
 
@@ -2770,6 +2796,9 @@ solar-system comparison lessons.
 4. **Insulation — slowing heat down** (`heat/insulation-slowing-heat-down`) — an insulator slows heat transfer in BOTH directions — the defended claim of the two ice cubes, one under a wool blanket — so food, houses and the gabi all use it (Grade 8 General Science)
 
 5. **Designing shade to reduce warming** (`heat/designing-shade-to-reduce-warming`) — designing, sketching/modelling and testing a shade solution that reduces sunlight warming of an area — eating tables, a dog, a toy (United States, Kindergarten — *Kindergarten — for Utah SEEd Standards, Revised 2025*, K.1.4, printed p. 39)
+
+6. **Expansion and contraction — when things heat and cool** (`heat/expansion-and-contraction-when-things-heat-and-cool`) — metals and liquids expand when heated and contract when cooled (the bar-breaking apparatus; how a thermometer works) (Seychelles, Grade 8 (P8) — *Seychelles Integrated Science — Heat and Molecules*, Unit 10, Topic 2, printed p. 4; built for the Seychelles placements, expansion-science-2026-11-13/seychelles-placements.md)
+
 ## Unit 23 — Electricity and Magnetism
 
 1. **Circuits — source, load, wires, and open vs closed** (`electricity-and-magnetism/circuits-source-load-wires-open-and-closed`) — open tinkering with battery, wire and bulb earns the concepts: current electricity is charge flowing continuously, and a circuit runs only when its loop is closed (Grade 8 General Science)
@@ -2785,3 +2814,6 @@ solar-system comparison lessons.
 11. **Using electricity safely at home** (`electricity-and-magnetism/using-electricity-safely-at-home`) — the dangers of electricity and how to protect yourself — teacher-guide evidence only, acceptance 0 (Djibouti, Grade 4 — *Guide de l'enseignant — Sciences Expérimentales, 4ème année*, Leçon 21, printed p. 76)
 12. **Fuses and circuit breakers — keeping circuits safe** (`electricity-and-magnetism/fuses-and-circuit-breakers-keeping-circuits-safe`) — the fuse and its uses: fuse ratings, and the circuit breaker doing the same job as a resettable switch (Pakistan (Punjab), Grade 5 — *General Science 5*, §7.3, printed p. 82)
 13. **Static electricity and lightning** (`electricity-and-magnetism/static-electricity-and-lightning`) — how static charges build up by rubbing, like charges repel and unlike attract, and lightning as a giant discharge (Pakistan (Punjab), Grade 5 — *General Science 5*, §7.4, printed p. 83)
+
+14. **Reading the electricity meter and the cost of units** (`electricity-and-magnetism/reading-the-electricity-meter-and-the-cost-of-units`) — reading an electricity meter, calculating the units used in a month and their cost, and measuring an appliance's power in watts (Seychelles, Grade 9 (P9) — *Seychelles Integrated Science — Conserving Our Energy*, Unit 11, Topic 5, printed booklet pp. 12–14; built for the Seychelles placements, expansion-science-2026-11-13/seychelles-placements.md)
+

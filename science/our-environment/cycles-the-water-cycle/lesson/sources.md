@@ -1,6 +1,6 @@
 # Sources — Cycles — the water cycle
 
-countries: Ethiopia, Cuba, Finland, Mexico, Suriname, Guatemala (teacher-guide evidence only), Italy, Serbia, Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Mongolia, Costa Rica, Barbados (curriculum evidence only), Uganda, Bulgaria, Bahamas (curriculum evidence only), Moldova, United States, Pakistan (Punjab), Armenia, Egypt, Cambodia (teacher-guide evidence only)
+countries: Ethiopia, Cuba, Finland, Mexico, Suriname, Guatemala (teacher-guide evidence only), Italy, Serbia, Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Mongolia, Costa Rica, Barbados (curriculum evidence only), Uganda, Bulgaria, Bahamas (curriculum evidence only), Moldova, United States, Pakistan (Punjab), Armenia, Egypt, Cambodia (teacher-guide evidence only), Seychelles
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed ("ISBN No –"). COMPLETE: 207 PDF pp (199 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -18,7 +18,15 @@ countries: Ethiopia, Cuba, Finland, Mexico, Suriname, Guatemala (teacher-guide e
 | Activity 15 — the water cycle: droplets form under the lid (Finland) | Finland, *Luova LUMA -hankkeen aktiviteettipankki*, activity 15 — LUMA Activities, p. 23 |
 | Distribution of continental waters in Mexico and the world: the water cycle and the world's water percentages (Mexico, Grade 7) | Mexico, *Ética, naturaleza y sociedades, Primer grado de secundaria*, printed p. 47 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Cuba, Finland, Mexico, Suriname, Italy).**
+**Book (Seychelles — Unit 3: Water (P7)):** *Seychelles Integrated Science — Water*, Unit 3 (student booklet + teaching notes combined, ERIC scan) — Seychelles, National Institute of Pedagogy (NIP), Ministry of Education and Information, 1983. Authors (ERIC resume): Brophy, M.; Fryars, M. Grade: P7 (Grade 7). Records: TSV release record and books.json `grade-07/gov/seychelles/integrated-science/student/unit-03-water.pdf` — same book, cited once. Size verified 6,866,089 bytes = record size_bytes; PDF 44 pages = record pages. Verdict: COMPLETE (teaching notes and full pupil booklet: Topics 1–6, crystal Project and water-cycle Summary present). It counts in the acceptance count (student booklet, not evidence-only) except where a row below is marked guide evidence. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/seychelles-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Summary The water cycle: clouds form from water evaporated from sea and land; rain falls when droplets join into larger drops;… (Seychelles, Unit 3: Water) | Seychelles, *Seychelles Integrated Science — Water, Unit 3*, printed booklet p. 15 |
+
+Seychelles' own way — the NIP Integrated Science unit booklets teach this thing in the topic order named in the rows above, through the school agriculture project, the laboratory and the islands' own examples — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 7 countries (Ethiopia, Cuba, Finland, Mexico, Suriname, Italy, Seychelles).**
 
 Placement decision, stated for the record: no water-cycle lesson exists in the Our Environment or Soil and Water titles (checked both trees at build time; Soil and Water teaches water's uses, drought and water bodies, not the cycle), so this is a NEW lesson in Our Environment, as the brief directs. A secondary-depth Biology lesson on the water cycle exists under the Biology title; it is a different treatment at a different depth and was not grown.
 

@@ -1,6 +1,6 @@
 # Sources — Accidents and staying safe
 
-countries: Ethiopia, Turkey, Suriname, Iceland (teacher-guide evidence only), Barbados (curriculum evidence only), Uganda, Bulgaria, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Cuba, Cambodia (guide evidence only)
+countries: Ethiopia, Turkey, Suriname, Iceland (teacher-guide evidence only), Barbados (curriculum evidence only), Uganda, Bulgaria, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Cuba, Cambodia (guide evidence only), Seychelles
 
 **Book 8:** *Grade 4 Environmental Science Teacher Guide — SNNP Regional State Education Bureau edition* (አካባቢ ሳይንስ የመምህሩ መምሪያ, 4ኛ ክፍል) (teacher's guide) — Ethiopia, SNNP Regional State Education Bureau. COMPLETE: printed pp. 1–143 (all 5 units + references + syllabus). Printed page = PDF page − 6. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-teacher-placements.md.
 
@@ -15,7 +15,15 @@ countries: Ethiopia, Turkey, Suriname, Iceland (teacher-guide evidence only), Ba
 | What to do in an emergency — the 112 Emergency Call Centre, staying calm, answering the operator's questions, and carrying a filled emergency information card (Turkey, Grade 2) | Turkey, *Hayat Bilgisi 2. Sınıf, 1. Kitap (Life Studies, Grade 2, Book 1)*, Acilse Ne Yaparım?: what do I do if it is an emergency? — printed p. 68 |
 
 
-**Acceptance count: taught in 2 countries (Turkey, Suriname).** — Ethiopia's rows stand on teacher-guide evidence only, as first built, named here and counted nowhere for Ethiopia; Turkey's row is pupil-taught from its Grade 2 student book and Suriname's row is pupil-taught from its Grade 6 student book, so this lesson's counted countries are Turkey and Suriname.
+**Book (Seychelles — Unit 2: Air and Weather (P7)):** *Seychelles Integrated Science — Air and Weather*, Unit 2 (student booklet + teaching notes combined, ERIC scan) — Seychelles, Science Section, National Institute of Pedagogy, Ministry of Education and Information, 1983 programme. Grade: P7 (Grade 7). Records: TSV release record and books.json `grade-07/gov/seychelles/integrated-science/student/unit-02-air-and-weather.pdf` — same book, cited once. Size verified 7,038,795 bytes = record size_bytes; PDF 55 pages = record pages. Verdict: COMPLETE (teaching notes for Topics 1–7 + Project, and full pupil booklet present). It counts in the acceptance count (student booklet, not evidence-only) except where a row below is marked guide evidence. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/seychelles-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Topic 4: never use naked flames near inflammable materials such as petrol and kerosene, store them safely, and put out a small… (Seychelles, Unit 2: Air and Weather) | Seychelles, *Seychelles Integrated Science — Air and Weather, Unit 2*, printed booklet pp. 11–13 |
+
+Seychelles' own way — the NIP Integrated Science unit booklets teach this thing in the topic order named in the rows above, through the school agriculture project, the laboratory and the islands' own examples — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 3 countries (Turkey, Suriname, Seychelles).** — Ethiopia's rows stand on teacher-guide evidence only, as first built, named here and counted nowhere for Ethiopia; Turkey's row is pupil-taught from its Grade 2 student book and Suriname's row is pupil-taught from its Grade 6 student book, so this lesson's counted countries are Turkey and Suriname.
 
 As first built, this lesson rested only on the two regional Grade 4 teacher guides (teacher guide — evidence); Turkey's Grade 2 student book now adds a pupil-taught emergency row (printed p. 68), so the counted country is Turkey, as the acceptance line states. The Amhara student book's Grade 4 safety teaching on chemicals stands in its own lesson. Both regional guides are COMPLETE in hand — no truncation note applies. The SNNP syllabus adds fire and flood among the hazards pupils must identify (SNNP printed pp. 113–115 and syllabus). There is no full national Grade 4 teacher guide in hand; nothing here claims it.
 

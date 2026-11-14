@@ -1,6 +1,6 @@
 # Sources — Food — the six nutrients
 
-countries: Ethiopia, Cook Islands, Suriname, Guatemala (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), India, Uganda, Bulgaria, Bahamas (curriculum evidence only), Samoa
+countries: Ethiopia, Cook Islands, Suriname, Guatemala (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), India, Uganda, Bulgaria, Bahamas (curriculum evidence only), Samoa, Seychelles
 
 **Book 1:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -15,7 +15,15 @@ countries: Ethiopia, Cook Islands, Suriname, Guatemala (teacher-guide evidence o
 
 | What's In the Food We Eat: the nutrients inside foods, found by sorting and testing (Cook Islands, Grade 8) | Cook Islands, *Ko Au e Toku Aorangi: Kai No te Oraanga Meitaki — Me, Myself, My Environment: Nutrition*, printed p. 52 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Cook Islands, Suriname).**
+**Book (Seychelles — Unit 7: Food and Growth (P8)):** *Seychelles Integrated Science — Food and Growth*, Unit 7 (student booklet + teaching notes combined, ERIC scan) — Seychelles, Science Section, National Institute of Pedagogy, Ministry of Education and Information, 1983. Grade: P8 (Grade 8). Records: TSV release record and books.json `grade-08/gov/seychelles/integrated-science/student/unit-07-food-and-growth.pdf` — same book, cited once. Size verified 11,230,281 bytes = record size_bytes; PDF 63 pages = record pages. Verdict: COMPLETE (teaching notes and full pupil booklet: Topics 1–11 and both Projects present). It counts in the acceptance count (student booklet, not evidence-only) except where a row below is marked guide evidence. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/seychelles-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Topic 5 The food that you eat: food gives energy, helps us grow and keeps us healthy; reading a block graph of body composition… (Seychelles, Unit 7: Food and Growth) | Seychelles, *Seychelles Integrated Science — Food and Growth, Unit 7*, printed booklet pp. 13–14 |
+
+Seychelles' own way — the NIP Integrated Science unit booklets teach this thing in the topic order named in the rows above, through the school agriculture project, the laboratory and the islands' own examples — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 4 countries (Ethiopia, Cook Islands, Suriname, Seychelles).**
 
 COMPLETE: contents promises 148 printed pp. and the book is held complete.
 

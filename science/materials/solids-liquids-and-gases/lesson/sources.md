@@ -1,6 +1,6 @@
 # Sources — Solids, liquids and gases
 
-countries: Ethiopia, Slovenia, Iraq, Afghanistan, Uzbekistan, North Macedonia, Moldova, Mozambique, Mauritania, Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Albania (teacher-guide evidence only), Mongolia, Costa Rica, Barbados (curriculum evidence only), India, Uganda, Bulgaria, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Cuba, Egypt, Cambodia
+countries: Ethiopia, Slovenia, Iraq, Afghanistan, Uzbekistan, North Macedonia, Moldova, Mozambique, Mauritania, Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Albania (teacher-guide evidence only), Mongolia, Costa Rica, Barbados (curriculum evidence only), India, Uganda, Bulgaria, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Cuba, Egypt, Cambodia, Seychelles
 
 **Book 5:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -58,7 +58,15 @@ countries: Ethiopia, Slovenia, Iraq, Afghanistan, Uzbekistan, North Macedonia, M
 
 | Unité II, Chapitre IV Etats Physiques de la matière (Mauritania, Grade 9) — NEW LESSON NEEDED tag in mauritania-placements.md, stocked into this lesson | Mauritania, *Sciences Physiques — 3ème AS*, Unité II, Chapitre IV Etats Physiques de la matière — printed p. 43 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Slovenia, Iraq, Afghanistan, Uzbekistan, North Macedonia, Moldova, Mozambique, Mauritania).**
+**Book (Seychelles — Unit 10: Heat and Molecules (P8)):** *Seychelles Integrated Science — Heat and Molecules*, Unit 10 (student booklet + teaching notes combined, ERIC scan) — Seychelles, Science Section, National Institute of Pedagogy, Ministry of Education and Information, 1983. Grade: P8 (Grade 8). Records: TSV release record and books.json `grade-08/gov/seychelles/integrated-science/student/unit-10-heat-and-molecules.pdf` — same book, cited once. Size verified 12,540,761 bytes = record size_bytes; PDF 58 pages = record pages. Verdict: COMPLETE (teaching notes contents and lessons for Topics 1–9 and both Summaries present, with the pupil booklet). It counts in the acceptance count (student booklet, not evidence-only) except where a row below is marked guide evidence. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/seychelles-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Topic 4 Solids, liquids and gases (Seychelles, Unit 10: Heat and Molecules) | Seychelles, *Seychelles Integrated Science — Heat and Molecules, Unit 10*, printed p. 11 |
+
+Seychelles' own way — the NIP Integrated Science unit booklets teach this thing in the topic order named in the rows above, through the school agriculture project, the laboratory and the islands' own examples — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 10 countries (Ethiopia, Slovenia, Iraq, Afghanistan, Uzbekistan, North Macedonia, Moldova, Mozambique, Mauritania, Seychelles).**
 
 Honesty: this teacher's guide scan is TRUNCATED mid-unit — printed pp. 1–66 held, stopping inside subtopic 3.3; the rest of Unit 3 and Units 4–5 are missing from the library file. Rows from it are teacher-guide evidence and never count as pupil-taught.
 

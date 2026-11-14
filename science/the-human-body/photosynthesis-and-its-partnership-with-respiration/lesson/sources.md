@@ -1,6 +1,6 @@
 # Sources — Cells — photosynthesis and its partnership with respiration
 
-countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Albania (teacher-guide evidence only), Guyana, Djibouti (teacher-guide evidence only), India, Bulgaria, United States, Samoa, Egypt
+countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Albania (teacher-guide evidence only), Guyana, Djibouti (teacher-guide evidence only), India, Bulgaria, United States, Samoa, Egypt, Seychelles
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed (printed "ISBN No –"). COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -16,7 +16,18 @@ countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Alban
 
 | Processes in Cellular Structures — the cell-processes topic (curriculum-guide evidence) (Trinidad and Tobago, Form 1) | Trinidad and Tobago, *Secondary School Curriculum — Integrated Science, Forms One–Three*, Processes in Cellular Structures (framework, printed p. 33; Form 1 content from printed p. 38) — printed p. 33 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Book (Seychelles — Unit 7: Food and Growth (P8)):** *Seychelles Integrated Science — Food and Growth*, Unit 7 (student booklet + teaching notes combined, ERIC scan) — Seychelles, Science Section, National Institute of Pedagogy, Ministry of Education and Information, 1983. Grade: P8 (Grade 8). Records: TSV release record and books.json `grade-08/gov/seychelles/integrated-science/student/unit-07-food-and-growth.pdf` — same book, cited once. Size verified 11,230,281 bytes = record size_bytes; PDF 63 pages = record pages. Verdict: COMPLETE (teaching notes and full pupil booklet: Topics 1–11 and both Projects present). It counts in the acceptance count (student booklet, not evidence-only) except where a row below is marked guide evidence. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/seychelles-placements.md.
+
+**Book (Seychelles — Unit 13: Conserving Our Environment (P9)):** *Seychelles Integrated Science — Conserving Our Environment*, Unit 13 (student booklet + teaching notes combined, ERIC scan) — Seychelles, Science Section, National Institute of Pedagogy, Ministry of Education and Information, 1983. Grade: P9 (Grade 9). Records: TSV release record and books.json `grade-09/gov/seychelles/integrated-science/student/unit-13-conserving-our-environment.pdf` — same book, cited once. Size verified 10,820,376 bytes = record size_bytes; PDF 53 pages = record pages. Verdict: COMPLETE (teaching notes contents and lessons for Topics 1–6, the habitat Project and both Summaries present, with the pupil booklet). It counts in the acceptance count (student booklet, not evidence-only) except where a row below is marked guide evidence. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/seychelles-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Topic 9 Testing leaves for starch: leaves of plants kept in sunlight contain starch, leaves of plants kept in darkness do not —… (Seychelles, Unit 7: Food and Growth) | Seychelles, *Seychelles Integrated Science — Food and Growth, Unit 7*, printed booklet pp. 23–25 |
+| Summary 1 A stable community: in photosynthesis plants use carbon dioxide and give out oxygen; without plants there would soon… (Seychelles, Unit 13: Conserving Our Environment) | Seychelles, *Seychelles Integrated Science — Conserving Our Environment, Unit 13*, printed p. 9 |
+
+Seychelles' own way — the NIP Integrated Science unit booklets teach this thing in the topic order named in the rows above, through the school agriculture project, the laboratory and the islands' own examples — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 2 countries (Ethiopia, Seychelles).**
 
 Trinidad and Tobago is named as curriculum-guide evidence only (*Secondary School Curriculum — Integrated Science, Forms One–Three* — curriculum guide), not added to this count.
 

@@ -1,6 +1,6 @@
 # Sources — Life cycles of plants and animals
 
-countries: Sweden, Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Mongolia, Barbados (curriculum evidence only), India, Bulgaria, Gabon (teacher-guide evidence only), United States
+countries: Sweden, Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Mongolia, Barbados (curriculum evidence only), India, Bulgaria, Gabon (teacher-guide evidence only), United States, Seychelles
 
 **Book (Sweden):** *Samtalsbilder, Tio små kryp* (student) — Sweden, SPSM. Title as printed: "Samtalsbilder, Tio små kryp" (Conversation pictures, Ten small creeping things), filed as Grade 1. Records: TSV + books.json — the same file, cited once here. PDF: 4,399,499 bytes, 20 PDF pages. Verdict: COMPLETE. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sweden-placements.md.
 
@@ -18,7 +18,18 @@ countries: Sweden, Albania (teacher-guide evidence only), Ghana (curriculum evid
 | Sub lesson 2 — spider life cycle, no larva/pupa: egg, cocoon, spider (Sweden, Grade 1) | Sweden, *Samtalsbilder, Tio små kryp*, PDF pp. 13–14 |
 | Do it first; key ideas; Do It Yourself | Sweden, as cited in the rows above |
 
-**Acceptance count: taught in 1 country (Sweden).**
+**Book (Seychelles — Unit 6: Living Things Reproduce (P8)):** *Seychelles Integrated Science — Living Things Reproduce*, Unit 6 (student booklet + teaching notes combined, ERIC scan) — Seychelles, Science Section, National Institute of Pedagogy, Ministry of Education and Information, 1983. Grade: P8 (Grade 8). Records: TSV release record and books.json `grade-08/gov/seychelles/integrated-science/student/unit-06-living-things-reproduce.pdf` — same book, cited once. Size verified 8,275,482 bytes = record size_bytes; PDF 48 pages = record pages. Verdict: COMPLETE (teaching notes and full pupil booklet: Topics 1–7 and summaries present). It counts in the acceptance count (student booklet, not evidence-only) except where a row below is marked guide evidence. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/seychelles-placements.md.
+
+**Book (Seychelles — Unit 12: Conserving Our Health (P9)):** *Seychelles Integrated Science — Conserving Our Health*, Unit 12 (student booklet + teaching notes combined, ERIC scan) — Seychelles, Science Section, National Institute of Pedagogy, Ministry of Education and Information, 1983. Grade: P9 (Grade 9). Records: TSV release record and books.json `grade-09/gov/seychelles/integrated-science/student/unit-12-conserving-our-health.pdf` — same book, cited once. Size verified 13,390,511 bytes = record size_bytes; PDF 73 pages = record pages. Verdict: COMPLETE (teaching notes and full pupil booklet: all fourteen Topics, both Projects and the "Digestive Snap and Grab" game present). Pages cited are PDF scan pages, as this booklet's own pagination is not consistently printed. It counts in the acceptance count (student booklet, not evidence-only) except where a row below is marked guide evidence. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/seychelles-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Summary: the life cycle of chickens, described in the pupil's own words from the cycle picture (Seychelles, Unit 6: Living Things Reproduce) [placement slug as filed: baby-animals-and-life-cycles] | Seychelles, *Seychelles Integrated Science — Living Things Reproduce, Unit 6*, printed booklet p. 13 |
+| Project 1: identifying the egg, larva, pupa and adult stages of the mosquito (Seychelles, Unit 12: Conserving Our Health) [placement slug as filed: baby-animals-and-life-cycles] | Seychelles, *Seychelles Integrated Science — Conserving Our Health, Unit 12*, PDF scan pp. 54–55 |
+
+Seychelles' own way — the NIP Integrated Science unit booklets teach this thing in the topic order named in the rows above, through the school agriculture project, the laboratory and the islands' own examples — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 2 countries (Sweden, Seychelles).**
 
 Placement choice, on the record: this NEW LESSON was built for the ten Sweden placements "NEW LESSON NEEDED — life-cycles-of-plants-and-animals" — sweden-placements.md, *Samtalsbilder, Tio små kryp*, PDF pp. 1–20 (ten placements, one lesson; the same shared slug is also proposed in the United States filing, which stocks into this lesson at its own merge). No existing general-science lesson covers the life cycle as its own thing at this level — the Biology folder's life-cycle lessons (the flowering plant, moss, Funaria) are secondary-depth treatments of single organisms and were not grown. It sits in animals/ because every founding placement is an animal cycle, and is registered in CURRICULUM.md Unit 9 (Animals). Sweden's own way — each animal gets a name-and-portrait page first, then its cycle page with the stages pictured and word-labelled, made for pupils who learn by naming and talking about pictures — IS part of this lesson's content, carried exactly as the placements describe it. The grasshopper's stages are carried exactly as printed (egg, pupa, larva, grasshopper), as filed.
 

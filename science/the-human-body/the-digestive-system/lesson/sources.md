@@ -1,6 +1,6 @@
 # Sources — The digestive system
 
-countries: Ethiopia, Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), India, Uganda, Bulgaria, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Armenia, Cuba, Samoa, Egypt, Cambodia
+countries: Ethiopia, Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), India, Uganda, Bulgaria, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Armenia, Cuba, Samoa, Egypt, Cambodia, Seychelles
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -25,7 +25,18 @@ countries: Ethiopia, Guyana, Iceland (teacher-guide evidence only), Djibouti (te
 | Grade 8 — the stomach's guards, chyme, villi — and the diseases | Ethiopia, *General Science Student Textbook, Grade 8*, Unit 4 (pepsin and acid; mucus coat; pepsin switched on only in place; chyme; bile; absorption through villi; water recovered in the large intestine; ulcers, constipation, dysentery (Entamoeba histolytica), liver cirrhosis, haemorrhoids), printed pp. 80–89 |
 | Chapter 2 review — folded into questions | Ethiopia, *Environmental Science Student Textbook, Grade 4*, Chapter 2 summary + review, printed pp. 62–65 — the chapter review is folded into this lesson's questions as prove-it items (review items); it is not built as a separate lesson |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Book (Seychelles — Unit 9: Acids and Alkalis (P8)):** *Seychelles Integrated Science — Acids and Alkalis*, Unit 9 (student booklet + teaching notes combined, ERIC scan) — Seychelles, National Institute of Pedagogy (NIP), Ministry of Education and Information, 1983. Authors (ERIC resume): Brophy, M.; Fryars, M. Grade: P8 (Grade 8). Records: TSV release record and books.json `grade-08/gov/seychelles/integrated-science/student/unit-09-acids-and-alkalis.pdf` — same book, cited once. Size verified 10,348,954 bytes = record size_bytes; PDF 49 pages = record pages. Verdict: COMPLETE (teaching notes and full pupil booklet: Topics 1–7 and the Chemical Reactions summary present). Pages cited are the PDF scan pages, as this booklet's own pagination is not consistently printed. It counts in the acceptance count (student booklet, not evidence-only) except where a row below is marked guide evidence. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/seychelles-placements.md.
+
+**Book (Seychelles — Unit 12: Conserving Our Health (P9)):** *Seychelles Integrated Science — Conserving Our Health*, Unit 12 (student booklet + teaching notes combined, ERIC scan) — Seychelles, Science Section, National Institute of Pedagogy, Ministry of Education and Information, 1983. Grade: P9 (Grade 9). Records: TSV release record and books.json `grade-09/gov/seychelles/integrated-science/student/unit-12-conserving-our-health.pdf` — same book, cited once. Size verified 13,390,511 bytes = record size_bytes; PDF 73 pages = record pages. Verdict: COMPLETE (teaching notes and full pupil booklet: all fourteen Topics, both Projects and the "Digestive Snap and Grab" game present). Pages cited are PDF scan pages, as this booklet's own pagination is not consistently printed. It counts in the acceptance count (student booklet, not evidence-only) except where a row below is marked guide evidence. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/seychelles-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Topic 6 Acids in your body: most of the body is near neutral (pH 7), but there are weak acids in the body, including stomach acid (Seychelles, Unit 9: Acids and Alkalis) | Seychelles, *Seychelles Integrated Science — Acids and Alkalis, Unit 9*, PDF scan pp. 43–44 |
+| Topic Digestion and health: naming the gullet, stomach, small intestine, large intestine and anus; food must be broken into sma… (Seychelles, Unit 12: Conserving Our Health) | Seychelles, *Seychelles Integrated Science — Conserving Our Health, Unit 12*, PDF scan pp. 56–58 |
+
+Seychelles' own way — the NIP Integrated Science unit booklets teach this thing in the topic order named in the rows above, through the school agriculture project, the laboratory and the islands' own examples — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 2 countries (Ethiopia, Seychelles).**
 
 The Grade 4 student book is COMPLETE (printed pp. 1–148). Both Grade 4 regional teacher guides are COMPLETE in hand — no truncation note applies to them. The teacher-guide rows are evidence for the same teaching and never count as pupil-taught. There is no full national Grade 4 teacher guide in hand; nothing here claims it.
 

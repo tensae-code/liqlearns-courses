@@ -1,6 +1,6 @@
 # Sources — Fair tests — variables and control groups
 
-countries: Ethiopia, Barbados, Indonesia (teacher-guide evidence only), Uganda, Cook Islands, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only), Australia, Micronesia (teaching-tips guide evidence only), Armenia (teacher-guide evidence only), Cuba (teacher-guide evidence only), Samoa
+countries: Ethiopia, Barbados, Indonesia (teacher-guide evidence only), Uganda, Cook Islands, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only), Australia, Micronesia (teaching-tips guide evidence only), Armenia (teacher-guide evidence only), Cuba (teacher-guide evidence only), Samoa, Seychelles
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). COMPLETE: 241 PDF pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -32,7 +32,15 @@ countries: Ethiopia, Barbados, Indonesia (teacher-guide evidence only), Uganda, 
 
 | Step 3, Decide on Variables, and Step 5, Collect Your Data: planning fair data collection for the class health study (Cook Islands, Grade 8) | Cook Islands, *Ko Au e Toku Aorangi: Kai No te Oraanga Meitaki — Me, Myself, My Environment: Nutrition*, printed p. 18 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Barbados, Uganda, Cook Islands, Australia).** Indonesia is named as teacher-guide evidence only (*Buku Panduan Guru Fisika untuk SMA/MA Kelas XI* — teacher guide), not added to this count.
+**Book (Seychelles — Unit 1: Techniques and Measurements (P7)):** *Seychelles Integrated Science — Techniques and Measurements*, Unit 1 (teaching notes title: "Science in the Laboratory") (student booklet + teacher guide combined) — Seychelles, Science Section, National Institute of Pedagogy (NIP), Ministry of Education and Information, 1983 programme. Authors (ERIC resume): Brophy, M.; Fryars, M. Grade: P7 (Grade 7). Records: TSV release record and books.json `grade-07/gov/seychelles/integrated-science/student/unit-01-techniques-and-measurements.pdf` — same book, cited once. Size verified 8,753,515 bytes = record size_bytes; PDF 56 pages = record pages. Verdict: COMPLETE (ERIC resume page, teaching notes and full pupil booklet Topics 1–8 + Projects 1–2 present). It counts in the acceptance count (student booklet, not evidence-only) except where a row below is marked guide evidence. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/seychelles-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Project 2: an experiment to find the temperature of boiling water, the time 50 ml of water takes to boil, and whether a blue or… (Seychelles, Unit 1: Techniques and Measurements) | Seychelles, *Seychelles Integrated Science — Techniques and Measurements, Unit 1*, printed booklet p. 12 |
+
+Seychelles' own way — the NIP Integrated Science unit booklets teach this thing in the topic order named in the rows above, through the school agriculture project, the laboratory and the islands' own examples — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 6 countries (Ethiopia, Barbados, Uganda, Cook Islands, Australia, Seychelles).** Indonesia is named as teacher-guide evidence only (*Buku Panduan Guru Fisika untuk SMA/MA Kelas XI* — teacher guide), not added to this count.
 
 Timor-Leste is named as teacher-guide evidence only (*Ciências Naturais, Grade 3 Teacher Guide: Unit Lesson Plans, Period 2* — teacher guide), not added to this count.
 
