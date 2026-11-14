@@ -1,6 +1,6 @@
 # Sources — Weather and climate
 
-countries: Ethiopia, Mexico, Palau (teacher's-edition evidence only), Zambia (teacher-module evidence only), Italy, Albania (teacher-guide evidence only)
+countries: Ethiopia, Mexico, Palau (teacher's-edition evidence only), Zambia (teacher-module evidence only), Italy, Albania (teacher-guide evidence only), Iceland (teacher-guide evidence only)
 
 **Book 2:** *Grade 1 Environmental Science Teacher Guide* (አካባቢ ሳይንስ አንድኛ ክፍል የመምህር መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. TRUNCATED scan: the file holds printed pp. 1–54 (Units 1–3 complete); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-teacher-placements.md.
 
@@ -109,3 +109,15 @@ Searchable tags: italy, il globo terrestre, zanichelli, lupia palmieri, parotto,
 **Acceptance count unchanged: taught in 3 countries (Ethiopia, Mexico, Italy).**
 
 Searchable tags: albania, dituri natyre, mediaprint, libër mësuesi, teacher guide, climate and weather, klima dhe moti
+
+## Iceland growth (2026-11-13, General Science expansion)
+
+**Book (Iceland — El Niño sheet):** *El Niño* (Í dagsins önn article sheet) — Iceland, Námsgagnastofnun 2007. Title as printed: "El Nino" — "Í dagsins önn" (In the day's term) current-affairs sheet, signed 1 March 2007 with a follow-up note. Grade 11 record (upper-secondary level sheet), teacher/article document. PDF pages: 2 (125,219 bytes, matches books.json size exactly). Verdict: COMPLETE — full article with three Pacific temperature maps read on both pages. Records: TSV blob record + books.json record `grade-11/gov/iceland/natural-science/teacher/elnino.pdf` — same book, cited once here. TEACHER/ARTICLE DOCUMENT — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iceland-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the normal Pacific pattern: trade winds blow west from South America, cold deep water wells up off the South American coast, so the east Pacific is about 20 °C and the west about 30 °C (teacher/article — evidence) (Iceland, Grade 11 record) | Iceland, *El Niño sheet*, printed p. 1 |
+
+**Acceptance count unchanged: taught in 3 countries (Ethiopia, Mexico, Italy).** Iceland is named as teacher-guide evidence only, not added to this count.
+
+Searchable tags: iceland, el niño, el nino, pacific, trade winds, upwelling, í dagsins önn, námsgagnastofnun, grade 11

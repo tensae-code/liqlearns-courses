@@ -1,6 +1,6 @@
 # Sources — Force — gravity, weight and the newton meter
 
-countries: Ethiopia, Finland (instructor-pack evidence only), Gabon (teacher-guide evidence only), Slovenia, Malaysia, Morocco (teacher-guide evidence only), Uganda, Belarus, Iran, North Macedonia, Moldova, Vietnam, South Sudan, China, Cuba, Jordan, Mauritania, Greece, Armenia, Kazakhstan, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only)
+countries: Ethiopia, Finland (instructor-pack evidence only), Gabon (teacher-guide evidence only), Slovenia, Malaysia, Morocco (teacher-guide evidence only), Uganda, Belarus, Iran, North Macedonia, Moldova, Vietnam, South Sudan, China, Cuba, Jordan, Mauritania, Greece, Armenia, Kazakhstan, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only), Iceland (teacher-guide evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -183,3 +183,15 @@ Jamaica is named as curriculum-guide evidence only (*National Standards Curricul
 Placement: Student item 83 — g07-student-placements.md (Unit 7). This lesson rests on the student book only. BOOK NOTE: the student book's contents lists §7.4.2 twice (gravity, then measuring force; the second should be §7.4.3) — a contents misprint only; the body sections are taught here in their true order.
 
 Searchable tags: gravity weight W=mg newton meter spring balance grade 7 unit 7 ethiopia, finland, uganda, iran, north macedonia, south sudan, jamaica, jamaica nsc integrated science, timor-leste, timor-leste grade 3 teacher guide, livru planu lisaun
+
+## Iceland growth (2026-11-13, General Science expansion)
+
+**Book (Iceland — Halló heimur 3, Ch.2):** *Halló heimur 3 — Markmið kafla 2: KRAFTUR OG HREYFING* (teacher chapter-aims poster sheet) — Iceland, Námsgagnastofnun (MMS) / klb.mms.is. Title as printed: "KRAFTUR OG HREYFING — Í kaflanum ætlum við að:" (Force and Motion). Grade 3, teacher chapter-aims poster sheet, Halló heimur 3 (integrated primary book). PDF pages: 1 (578,720 bytes). Verdict: COMPLETE — the whole sheet is the title plus its chapter aims. Records: TSV blob record + books.json record `grade-03/gov/iceland/natural-science/teacher/hh3_markmid-2.pdf` — same book, cited once here. TEACHER AIMS SHEET — guide evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iceland-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| getting to know gravity (chapter aim) (teacher guide — evidence) (Iceland, Grade 3) | Iceland, *Halló heimur 3 Ch.2 aims*, printed p. 1 |
+
+**Acceptance count unchanged: taught in 17 countries (Ethiopia, Slovenia, Malaysia, Uganda, Belarus, Iran, North Macedonia, Moldova, Vietnam, South Sudan, China, Cuba, Jordan, Mauritania, Greece, Armenia, Kazakhstan).** Iceland is named as teacher-guide evidence only, not added to this count.
+
+Searchable tags: iceland, halló heimur 3, kraftur og hreyfing, gravity, mms, teacher aims sheet, grade 3

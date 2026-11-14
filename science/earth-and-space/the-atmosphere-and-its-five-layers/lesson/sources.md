@@ -1,6 +1,6 @@
 # Sources — The Earth — the atmosphere and its five layers
 
-countries: Ethiopia (teacher-guide evidence only), Iraq, Cuba, Guatemala (teacher-guide evidence only), Italy
+countries: Ethiopia (teacher-guide evidence only), Iraq, Cuba, Guatemala (teacher-guide evidence only), Italy, Iceland (teacher-guide evidence only)
 
 **Book 2:** *General Science Teacher's Guide, Grade 7* (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2023. Authors: Andualem Beka, Sagni Megersa, Goshu Asab, Michael Getachew, Gemechis Nemera, Diriba Kebede. COMPLETE: 236 PDF pp (220 printed pp). Printed page = PDF page − 15. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-teacher-placements.md.
 
@@ -56,3 +56,15 @@ Searchable tags: guatemala, ciencias naturales, mineduc, ciclo basico, guia de o
 **Acceptance count: taught in 3 countries (Iraq, Cuba, Italy).**
 
 Searchable tags: italy, il globo terrestre, zanichelli, lupia palmieri, parotto, grade 9
+
+## Iceland growth (2026-11-13, General Science expansion)
+
+**Book (Iceland — Halló heimur 3, Ch.1):** *Halló heimur 3 — Markmið kafla 1: HIMINGEIMURINN* (teacher chapter-aims poster sheet) — Iceland, Námsgagnastofnun (MMS) / klb.mms.is. Title as printed: "HIMINGEIMURINN — Í kaflanum ætlum við að:" (The Sky and Space). Grade 3, teacher chapter-aims poster sheet, Halló heimur 3 (integrated primary book). PDF pages: 1 (605,223 bytes). Verdict: COMPLETE — the whole sheet is the title plus its chapter aims. Records: TSV blob record + books.json record `grade-03/gov/iceland/natural-science/teacher/hh3_markmid-1.pdf` — same book, cited once here. TEACHER AIMS SHEET — guide evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iceland-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| getting to know the role of the ozone layer (chapter aim) (teacher guide — evidence) (Iceland, Grade 3) | Iceland, *Halló heimur 3 Ch.1 aims*, printed p. 1 |
+
+**Acceptance count unchanged: taught in 3 countries (Iraq, Cuba, Italy).** Iceland is named as teacher-guide evidence only, not added to this count.
+
+Searchable tags: iceland, halló heimur 3, ozone layer, atmosphere, mms, teacher aims sheet, grade 3

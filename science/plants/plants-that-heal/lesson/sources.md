@@ -1,6 +1,6 @@
 # Sources — Plants that heal
 
-countries: Ethiopia, Canada (teacher-guide evidence only), Vanuatu (teacher-guide evidence only)
+countries: Ethiopia, Canada (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Iceland (teacher-guide evidence only)
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -46,3 +46,16 @@ Vanuatu is named as teacher-guide evidence only (*SAENS — Tija Gaed, Yia 3* �
 Vanuatu's own way — the guide's plant week pairs dangerous plants with backboned animals and with animals that bear babies or lay eggs, taught in Bislama in its Term 1 strand — is itself course content, carried exactly as filed.
 
 Searchable tags: vanuatu, saens tija gaed, bislama, year 3, dangerous plants
+
+## Iceland growth (2026-11-13, General Science expansion)
+
+**Book (Iceland):** *Líf á landi — Kennsluleiðbeiningar (Life on Land — Teacher Guide)* (teacher guide) — Iceland, Author Sólrún Harðardóttir; editors Hafdís Finnbogadóttir and Tryggvi Jakobsson; © Námsgagnastofnun 2012, 1st edition, book no. 09026, Kópavogur. Title as printed: "Líf á landi — KENNSLULEIÐBEININGAR". Grade 5 record; the book is for the middle stage of grunnskóli (about Grades 5–7). Teacher guide to the student book Líf á landi, one of a set of three on Iceland's nature (with Lífríkið í sjó / Life in the Sea and Lífríkið í fersku vatni / Life in Fresh Water). PDF pages: 62 (2,412,223 bytes); guide printed pp. 1–60. Verdict: COMPLETE — contents, foreword, curriculum-basis chapters, all 10 chapter guides, extra activities and references all present and read. Records: books.json only, `grade-05/gov/iceland/natural-science/teacher/lif_landi_klb.pdf`. TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. All placements from it are guide evidence: the guide's chapter notes, background and activity instructions for the student book (student-book page given where the guide states it). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iceland-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| heather and berries of the heath, and using wild plants sustainably (teacher guide — evidence) (Iceland, Grade 5) | Iceland, *Líf á landi guide*, printed pp. 42–43 (student pp. 58–59) |
+| fjallagrös (Iceland moss, a lichen) and the old gathering trips to the mountains (grasafjall) (teacher guide — evidence) (Iceland, Grade 5) | Iceland, *Líf á landi guide*, printed p. 51 (student p. 74) |
+
+**Acceptance count unchanged: taught in 1 country (Ethiopia).** Iceland is named as teacher-guide evidence only, not added to this count.
+
+Searchable tags: iceland, líf á landi, heather, berries, fjallagrös, iceland moss, grasafjall, teacher guide, grade 5

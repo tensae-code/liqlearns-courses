@@ -1,6 +1,6 @@
 # Sources — The heart
 
-countries: Ethiopia, Cook Islands, Trinidad and Tobago (curriculum-guide evidence only)
+countries: Ethiopia, Cook Islands, Trinidad and Tobago (curriculum-guide evidence only), Iceland (teacher-guide evidence only)
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -40,3 +40,15 @@ The Grade 6 teacher guide scan is TRUNCATED: printed pp. 1–63 (Units 1–3) ar
 Grade 8 extension (2026-11-12): the Grade 8 student book is COMPLETE. This extension rests on the student book only; no Grade 8 teacher-guide material is used in this lesson, so no pairing warning is needed here.
 
 Searchable tags: heart, heartbeat, muscle, pumps blood, contracting relaxing, the heart, cook islands, cook islands grade 8, ko au e toku aorangi, trinidad and tobago, trinidad and tobago ncse integrated science
+
+## Iceland growth (2026-11-13, General Science expansion)
+
+**Book (Iceland — Halló heimur 3, Ch.3):** *Halló heimur 3 — Markmið kafla 3: HEILBRIGÐ SÁL Í HRAUSTUM LÍKAMA* (teacher chapter-aims poster sheet) — Iceland, Námsgagnastofnun (MMS) / klb.mms.is. Title as printed: "HEILBRIGÐ SÁL Í HRAUSTUM LÍKAMA — Í kaflanum ætlum við að:" (A Healthy Mind in a Healthy Body). Grade 3, teacher chapter-aims poster sheet, Halló heimur 3 (integrated primary book). PDF pages: 1 (565,660 bytes). Verdict: COMPLETE — the whole sheet is the title plus its chapter aims. Records: TSV blob record + books.json record `grade-03/gov/iceland/natural-science/teacher/hh3_markmid-3.pdf` — same book, cited once here. TEACHER AIMS SHEET — guide evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iceland-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| examining how the heart works (chapter aim) (teacher guide — evidence) (Iceland, Grade 3) | Iceland, *Halló heimur 3 Ch.3 aims*, printed p. 1 |
+
+**Acceptance count unchanged: taught in 2 countries (Ethiopia, Cook Islands).** Iceland is named as teacher-guide evidence only, not added to this count.
+
+Searchable tags: iceland, halló heimur 3, heart, mms, teacher aims sheet, grade 3

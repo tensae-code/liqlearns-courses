@@ -1,6 +1,6 @@
 # Sources — The Solar system — planets and the modern picture of the Universe
 
-countries: Uzbekistan, Haiti, Jamaica (curriculum-guide evidence only), Ghana (curriculum evidence only), Guyana
+countries: Uzbekistan, Haiti, Jamaica (curriculum-guide evidence only), Ghana (curriculum evidence only), Guyana, Iceland (teacher-guide evidence only)
 
 **Book 1:** *ФИЗИКА 9 (Fizika 9)* (student textbook) — Uzbekistan, Учебник для учащихся 9-х классов средней школы — N. Sh. Turdiev; Izdatelstvo «Turon-Iqbol», Tashkent 2006 (Russian edition; imprint: 160 printed pp., print run 26,000). Grade: 9 · Student book (Russian-medium edition) · Repo path: grade-09/gov/uzbekistan/physics/full-year.pdf. Byte size: 65,699,691. PDF pages: 161. Offset: printed p. N = PDF p. N+1 approx. (printed p. 3 = PDF p. 4; contents at printed pp. 157–158). Verdict: COMPLETE — identity proven by cover/title/imprint; complete contents read (printed pp. 157–158) and chapter content verified against it. Read basis stated honestly: contents-anchored full-structure read with chapter-level verification, not a line-by-line read of all 161 pages. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/uzbekistan-placements.md.
 
@@ -54,3 +54,15 @@ Searchable tags: ghana, ghana nacca science curriculum, ghana five strands
 **Acceptance count: taught in 3 countries (Uzbekistan, Haiti, Guyana).**
 
 Searchable tags: guyana, science around us, ministry of education guyana, grade 1
+
+## Iceland growth (2026-11-13, General Science expansion)
+
+**Book (Iceland — Halló heimur 3, Ch.1):** *Halló heimur 3 — Markmið kafla 1: HIMINGEIMURINN* (teacher chapter-aims poster sheet) — Iceland, Námsgagnastofnun (MMS) / klb.mms.is. Title as printed: "HIMINGEIMURINN — Í kaflanum ætlum við að:" (The Sky and Space). Grade 3, teacher chapter-aims poster sheet, Halló heimur 3 (integrated primary book). PDF pages: 1 (605,223 bytes). Verdict: COMPLETE — the whole sheet is the title plus its chapter aims. Records: TSV blob record + books.json record `grade-03/gov/iceland/natural-science/teacher/hh3_markmid-1.pdf` — same book, cited once here. TEACHER AIMS SHEET — guide evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iceland-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| learning about our solar system (chapter aim) (teacher guide — evidence) (Iceland, Grade 3) | Iceland, *Halló heimur 3 Ch.1 aims*, printed p. 1 |
+
+**Acceptance count unchanged: taught in 3 countries (Uzbekistan, Haiti, Guyana).** Iceland is named as teacher-guide evidence only, not added to this count.
+
+Searchable tags: iceland, halló heimur 3, himingeimurinn, solar system, mms, teacher aims sheet, grade 3

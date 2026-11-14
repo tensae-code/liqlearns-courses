@@ -1,6 +1,6 @@
 # Sources — Protecting yourself: sexual violence and saying no
 
-countries: Ethiopia, Suriname
+countries: Ethiopia, Suriname, Iceland (teacher-guide evidence only)
 
 **Book 12:** *Environmental Science Student Textbook, Grade 6* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Mulugeta Awayehu (MA, Assoc. Prof.), Belete Kebede (MSc), Melese Sinu (MSc), Minilk Belay (MSc), Neqiqneh Zewdie (MSc). COMPLETE: 177 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g06-student-placements.md.
 
@@ -30,3 +30,17 @@ Searchable tags: sexual violence consent, gender-based violence kinds, protectin
 Suriname's own way — Suriname opens its Grade 6 book with the self and with saying no — Les 2, *Nee leren zeggen*, stands second in the book, right after the opening lesson on the self, before any body or nature lesson — is itself course content, carried exactly as filed.
 
 Searchable tags: suriname, nee leren zeggen, learning to say no, natuuronderwijs
+
+## Iceland growth (2026-11-13, General Science expansion)
+
+**Book (Iceland — Halló heimur 3, Ch.8):** *Halló heimur 3 — Markmið kafla 8: ÉG ER NÓG* (teacher chapter-aims poster sheet) — Iceland, Námsgagnastofnun (MMS) / klb.mms.is. Title as printed: "ÉG ER NÓG — Í kaflanum ætlum við að:" (I Am Enough). Grade 3, teacher chapter-aims poster sheet, Halló heimur 3 (integrated primary book). PDF pages: 1 (580,403 bytes). Verdict: COMPLETE — the whole sheet is the title plus its chapter aims. Records: TSV blob record + books.json record `grade-03/gov/iceland/natural-science/teacher/hh3_markmid-8.pdf` — same book, cited once here. TEACHER AIMS SHEET — guide evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iceland-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| learning about different kinds of violence and learning to set boundaries (chapter aim) (teacher guide — evidence) (Iceland, Grade 3) | Iceland, *Halló heimur 3 Ch.8 aims*, printed p. 1 |
+
+**Acceptance count unchanged: taught in 2 countries (Ethiopia, Suriname).** Iceland is named as teacher-guide evidence only, not added to this count.
+
+The chapter's first aim (what is alike and different in all of us) is social-studies content and was not placed, as filed.
+
+Searchable tags: iceland, halló heimur 3, ég er nóg, violence, boundaries, mms, teacher aims sheet, grade 3

@@ -1,6 +1,6 @@
 # Sources — Map Scale, Key and Symbols
 
-countries: Ethiopia, Serbia
+countries: Ethiopia, Serbia, Iceland (teacher-guide evidence only)
 
 **Book 1:** *አካባቢ ሳይንስ የተማሪ መጽሐፍ 6ኛ ክፍል — Environmental Science Student Textbook, Grade 6* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 177 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g06-student-placements.md
 
@@ -34,3 +34,15 @@ Searchable tags: map scale, መፍቻ, key, legend, colour code, map symbols, pu
 Serbia's own way in this lesson — as carried in the rows above, exactly as filed — is itself course content.
 
 Searchable tags: serbia, priroda i drustvo, nature and society, grade 3, nova skola, milica cuk
+
+## Iceland growth (2026-11-13, General Science expansion)
+
+**Book (Iceland — Halló heimur 3, Ch.6):** *Halló heimur 3 — Markmið kafla 6: ELDFJALLAEYJAN ÍSLAND* (teacher chapter-aims poster sheet) — Iceland, Námsgagnastofnun (MMS) / klb.mms.is. Title as printed: "ELDFJALLAEYJAN ÍSLAND — Í kaflanum ætlum við að:" (Iceland, the Volcanic Island). Grade 3, teacher chapter-aims poster sheet, Halló heimur 3 (integrated primary book). PDF pages: 1 (636,057 bytes). Verdict: COMPLETE — the whole sheet is the title plus its chapter aims. Records: TSV blob record + books.json record `grade-03/gov/iceland/natural-science/teacher/hh3_markmid-6.pdf` — same book, cited once here. TEACHER AIMS SHEET — guide evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iceland-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| learning about different kinds of maps (chapter aim) (teacher guide — evidence) (Iceland, Grade 3) | Iceland, *Halló heimur 3 Ch.6 aims*, printed p. 1 |
+
+**Acceptance count unchanged: taught in 2 countries (Ethiopia, Serbia).** Iceland is named as teacher-guide evidence only, not added to this count.
+
+Searchable tags: iceland, halló heimur 3, maps, kinds of maps, mms, teacher aims sheet, grade 3

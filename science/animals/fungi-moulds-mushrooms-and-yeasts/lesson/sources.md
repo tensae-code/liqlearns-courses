@@ -1,6 +1,6 @@
 # Sources — Fungi — moulds, mushrooms and yeasts
 
-countries: Ethiopia, Sweden
+countries: Ethiopia, Sweden, Iceland (teacher-guide evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -31,3 +31,15 @@ Searchable tags: Fungi, moulds, mushrooms, yeasts, ersho, chitin, lichens, Pract
 Sweden's own way — the forest fungi are taught inside the plants-around-us set, as portraits to name, with the fly agaric taught as the poisonous one to learn and never pick — is itself course content, carried exactly as filed.
 
 Searchable tags: sweden, spsm, vaxter omkring oss, fungi, chanterelle, cep, karljohan, fly agaric, hedgehog fungus, poisonous
+
+## Iceland growth (2026-11-13, General Science expansion)
+
+**Book (Iceland):** *Líf á landi — Kennsluleiðbeiningar (Life on Land — Teacher Guide)* (teacher guide) — Iceland, Author Sólrún Harðardóttir; editors Hafdís Finnbogadóttir and Tryggvi Jakobsson; © Námsgagnastofnun 2012, 1st edition, book no. 09026, Kópavogur. Title as printed: "Líf á landi — KENNSLULEIÐBEININGAR". Grade 5 record; the book is for the middle stage of grunnskóli (about Grades 5–7). Teacher guide to the student book Líf á landi, one of a set of three on Iceland's nature (with Lífríkið í sjó / Life in the Sea and Lífríkið í fersku vatni / Life in Fresh Water). PDF pages: 62 (2,412,223 bytes); guide printed pp. 1–60. Verdict: COMPLETE — contents, foreword, curriculum-basis chapters, all 10 chapter guides, extra activities and references all present and read. Records: books.json only, `grade-05/gov/iceland/natural-science/teacher/lif_landi_klb.pdf`. TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. All placements from it are guide evidence: the guide's chapter notes, background and activity instructions for the student book (student-book page given where the guide states it). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iceland-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| fungi are very varied, and the ways people have put fungi to use (teacher guide — evidence) (Iceland, Grade 5) | Iceland, *Líf á landi guide*, printed p. 23 |
+
+**Acceptance count unchanged: taught in 2 countries (Ethiopia, Sweden).** Iceland is named as teacher-guide evidence only, not added to this count.
+
+Searchable tags: iceland, líf á landi, fungi, uses of fungi, teacher guide, grade 5

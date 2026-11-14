@@ -1,6 +1,6 @@
 # Sources — Forests and what they give
 
-countries: Ethiopia, Palau (teacher's-edition evidence only), Canada (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia
+countries: Ethiopia, Palau (teacher's-edition evidence only), Canada (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Iceland (teacher-guide evidence only)
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -99,3 +99,15 @@ Searchable tags: niue, usp reader 4, what forests give, clean air, storm protect
 Serbia's own way in this lesson — as carried in the rows above, exactly as filed — is itself course content.
 
 Searchable tags: serbia, priroda i drustvo, nature and society, grade 3, nova skola, milica cuk
+
+## Iceland growth (2026-11-13, General Science expansion)
+
+**Book (Iceland):** *Líf á landi — Kennsluleiðbeiningar (Life on Land — Teacher Guide)* (teacher guide) — Iceland, Author Sólrún Harðardóttir; editors Hafdís Finnbogadóttir and Tryggvi Jakobsson; © Námsgagnastofnun 2012, 1st edition, book no. 09026, Kópavogur. Title as printed: "Líf á landi — KENNSLULEIÐBEININGAR". Grade 5 record; the book is for the middle stage of grunnskóli (about Grades 5–7). Teacher guide to the student book Líf á landi, one of a set of three on Iceland's nature (with Lífríkið í sjó / Life in the Sea and Lífríkið í fersku vatni / Life in Fresh Water). PDF pages: 62 (2,412,223 bytes); guide printed pp. 1–60. Verdict: COMPLETE — contents, foreword, curriculum-basis chapters, all 10 chapter guides, extra activities and references all present and read. Records: books.json only, `grade-05/gov/iceland/natural-science/teacher/lif_landi_klb.pdf`. TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. All placements from it are guide evidence: the guide's chapter notes, background and activity instructions for the student book (student-book page given where the guide states it). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iceland-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the forest chapter: what lives in Iceland's woods and what the forest gives (teacher guide — evidence) (Iceland, Grade 5) | Iceland, *Líf á landi guide*, printed pp. 20–26 (student pp. 16–29) |
+
+**Acceptance count unchanged: taught in 5 countries (Ethiopia, Nauru, Tuvalu, Niue, Serbia).** Iceland is named as teacher-guide evidence only, not added to this count.
+
+Searchable tags: iceland, líf á landi, skógur, forest, woods, teacher guide, grade 5

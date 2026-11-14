@@ -521,6 +521,8 @@ solar-system comparison lessons.
 5. **Today's weather** (`weather-and-seasons/todays-weather`) — weather is the air's condition now — sunny, rainy, cloudy, cold, hot, windy — changing hour by hour and morning to evening, and we observe and repo…
 6. **Weather and climate** (`weather-and-seasons/weather-and-climate`) — weather changes hour by hour; climate is the air's long pattern — the Grade 3 book says judging it needs at least 30 years of records — and its ele…
 7. **What controls a place's climate** (`weather-and-seasons/what-controls-a-places-climate`) — three things control a place's climate — height above sea level, distance from the equator, and distance from seas and oceans: near the equator is …
+8. **El Niño — when the Pacific warms** (`weather-and-seasons/el-nino-when-the-pacific-warms`) — every 3–7 years the trade winds weaken, the upwelling stops and the eastern Pacific warms — named "the Christmas child" by South American fishermen because it is noticed near Christmas — teacher/article evidence only, acceptance 0 (Iceland, Grade 11 record — *El Niño* (Í dagsins önn article sheet), printed p. 1)
+
 
 ## Unit 7 — Soil and Water
 
@@ -539,6 +541,8 @@ solar-system comparison lessons.
 13. **Treating water to make it safe — filtering and settling** (`soil-and-water/treating-water-to-make-it-safe-filtering-and-settling`) — dirty water is treated in a chain: settling lets the heavy dirt sink, filtering through cloth, sand and gravel traps the fine dirt that is left, and treated water is kept covered and drawn with a clean cup — with the honest limit that boiling is the surest final step — teacher-guide evidence only, acceptance 0 (Gabon, Grade 3 — Super Efficace, Guide pédagogique, 3e année)
 14. **River basins — watersheds** (`soil-and-water/river-basins-watersheds`) — hydrographic basins: what a basin is and its characteristics — the land a river system drains — the distribution of Mexico's basins, and basins in economic development (Mexico, Grade 7 — *Ética, naturaleza y sociedades, Primer grado de secundaria*, printed pp. 87–92)
 15. **Rivers and lakes — where water gathers and flows** (`soil-and-water/rivers-and-lakes-where-water-gathers-and-flows`) — surface waters: the parts of a river — source, course, bed, mouth and banks — lowland and mountain rivers, and lakes and ponds (Serbia, Grade 3 — *Природа и друштво 3*, printed p. 6)
+16. **Frost heave and þúfur mounds** (`soil-and-water/frost-heave-and-thufur-mounds`) — þúfur, the heath's little mounds, are frost-made: moist soil put in a freezer expands and lifts as it freezes, and that same lifting, winter after winter, raises the mounds — teacher-guide evidence only, acceptance 0 (Iceland, Grade 5 — *Líf á landi — Kennsluleiðbeiningar*, printed p. 41)
+
 
 ## Unit 8 — Plants
 
@@ -556,6 +560,11 @@ solar-system comparison lessons.
 12. **Flowers — and how plants reproduce** (`plants/flowers-and-how-plants-reproduce`) — the flower as the plant's seed-making part: petals, stamens making pollen, the pistil holding the future seeds; pollination as pollen's journey, then seeds form — teacher-guide evidence only, acceptance 0 (Albania, Grade 5 — *Libër mësuesi — Dituri natyre 5*, printed p. 13)
 13. **Fruits and seeds** (`plants/fruits-and-seeds`) — the fruit as the covering a flowering plant builds around its seeds, guarding them while they ripen; the seed inside as the next plant packed, with food for its first growth — teacher-guide evidence only, acceptance 0 (Albania, Grade 5 — *Libër mësuesi — Dituri natyre 5*, printed p. 15)
 14. **Seed dispersal — how seeds travel** (`plants/seed-dispersal-how-seeds-travel`) — seeds travelling away from their parent by shape: wings and parachutes on the wind, hooks on fur, fruit inside animals, floating on water — proved with paper-flyer seed models made and dropped by the pupils — teacher-guide evidence only, acceptance 0 (Albania, Grade 5 — *Libër mësuesi — Dituri natyre 5*, printed p. 17)
+15. **Life on lava fields — mosses and ferns first** (`plants/life-on-lava-fields-mosses-and-ferns`) — new lava is colonised first by mosses (hraungambri, the woolly fringe-moss) and ferns; counting the spore capsules on one fern frond as the counting activity — teacher-guide evidence only, acceptance 0 (Iceland, Grade 5 — *Líf á landi — Kennsluleiðbeiningar*, printed pp. 14–18)
+16. **Identifying trees by their leaves** (`plants/identifying-trees-by-their-leaves`) — naming tree species on a forest trip with the tree-key handbook (Ég greini tré) — teacher-guide evidence only, acceptance 0 (Iceland, Grade 5 — *Líf á landi — Kennsluleiðbeiningar*, printed p. 21)
+17. **Plant defences — thorns and poisons** (`plants/plant-defences-thorns-and-poisons`) — plants grown with thorns are unpopular with grazers; few such wild species in Iceland — teacher-guide evidence only, acceptance 0 (Iceland, Grade 5 — *Líf á landi — Kennsluleiðbeiningar*, printed p. 32)
+18. **Wetland plants — sedges and horsetails** (`plants/wetland-plants-sedges-and-horsetails`) — telling sedges and horsetails apart from other plant kinds, including the wintergreen horsetail relative vetrarkvíðastör with its long seed spikes — teacher-guide evidence only, acceptance 0 (Iceland, Grade 5 — *Líf á landi — Kennsluleiðbeiningar*, printed p. 38)
+
 
 ## Unit 9 — Animals
 
@@ -580,6 +589,8 @@ solar-system comparison lessons.
 19. **Animals — Who am I? vertebrate review game** (`animals/who-am-i-vertebrate-review-game`) — the five vertebrate groups can be told apart from clue cards — milk and fur, feathers and hard-shelled eggs, leathery scales, jelly eggs with gills-then-lungs, and gills with fins and scales (Grade 7 General Science)
 20. **Animal word–picture reading support** (`animals/animal-word-picture-reading-support`) — Sweden's "Lässtöd" (reading support): a picture–word table naming 24 animals, picture and name together, so pupils who cannot yet read can still name and work with the animals — the picture carries the animal until the word can be read (Sweden, Grade 1 — *Djur omkring oss B — kopieringsunderlag*, printed p. 97; PARTIAL copy pages only, as filed)
 21. **Life cycles of plants and animals** (`animals/life-cycles-of-plants-and-animals`) — the stages a living thing passes through from beginning to adult, in Sweden's set of ten small creeping things: the four-stage road egg, larva, pupa, adult (butterfly, bumblebee, fly, mosquito, ladybird, wasp, ant; the grasshopper's stages carried exactly as printed — egg, pupa, larva, grasshopper) and the simpler roads with no pupa (earthworm: jelly, cocoon, worm; spider: egg, cocoon, spider) (Sweden, Grade 1 — *Samtalsbilder, Tio små kryp*, PDF pp. 1–20)
+22. **Snails and slugs in the grassland** (`animals/snails-and-slugs-in-the-grassland`) — grassland snails: how the brekkubobbi may have reached Iceland (with birds or people), and the measure-a-snail's-speed activity — teacher-guide evidence only, acceptance 0 (Iceland, Grade 5 — *Líf á landi — Kennsluleiðbeiningar*, printed pp. 29–30)
+
 
 ## Unit 10 — Natural Resources
 
@@ -630,6 +641,11 @@ solar-system comparison lessons.
 34. **Plankton — the ocean's tiniest life** (`our-environment/plankton-the-oceans-tiniest-life`) — life began in the sea, and its tiniest life still anchors it: phytoplankton — tiny plants seen only with microscopes — drift on the currents, produce over half the world's oxygen by photosynthesis, and anchor the ocean food webs (Nauru, Years 5–6 — *Primary Reader 2 — Living Sustainably with the Pacific Ocean (Years 5–6, Science)*, USP ESD Reader 2, printed p. 2)
 35. **Pond and lake life** (`our-environment/pond-and-lake-life`) — the standing-water community, from reeds at the edge and water lilies on the surface to frogs, fish and water birds (Serbia, Grade 3 — *Природа и друштво 3*, printed p. 62)
 36. **River life — from source to mouth** (`our-environment/river-life-from-source-to-mouth`) — one river community changing down its course: trout in the fast cold upper course, catfish and carp in the slow lower course (Serbia, Grade 3 — *Природа и друштво 3*, printed p. 64)
+37. **Iceland's habitats and their living worlds** (`our-environment/iceland-habitats-and-their-living-worlds`) — a young volcanic island's living world organised by habitat (lava, forest, soil, grassland, wetland, heath, gravel plain, highland, human-made land, shore), each habitat known by its characteristic organism — teacher-guide evidence only, acceptance 0 (Iceland, Grade 5 — *Líf á landi — Kennsluleiðbeiningar*, printed pp. 3–13)
+38. **Decomposers — rotting and recycling in nature** (`our-environment/decomposers-rotting-and-recycling-in-nature`) — rotting and digestion in the forest floor: fungi and many-legged soil animals (millipedes) break dead matter down — teacher-guide evidence only, acceptance 0 (Iceland, Grade 5 — *Líf á landi — Kennsluleiðbeiningar*, printed p. 22)
+39. **Wetlands — and why they must not be drained** (`our-environment/wetlands-and-why-they-must-not-be-drained`) — draining wetlands badly shrank wader habitat (the water rail is nearly extinct in Iceland, the red-necked phalarope rare); restoring wetlands, and peat bogs binding carbon dioxide — teacher-guide evidence only, acceptance 0 (Iceland, Grade 5 — *Líf á landi — Kennsluleiðbeiningar*, printed pp. 39–40)
+40. **Invasive species — lupine and mink in Iceland** (`our-environment/invasive-species-lupine-and-mink-in-iceland`) — brought-in living things as a risk: the lupine (a relative of white clover, used to reclaim land) spreading, and the mink as an invasive predator at the top of its food web — teacher-guide evidence only, acceptance 0 (Iceland, Grade 5 — *Líf á landi — Kennsluleiðbeiningar*, printed pp. 47–48)
+
 
 ## Unit 12 — Family, School and Community
 
@@ -703,6 +719,9 @@ solar-system comparison lessons.
 23. **My first 1000 days** (`keeping-healthy/my-first-1000-days`) — Toku Tai Tauatinianga Ra Mua: how the first 1000 days shape later health, told through Professor Barker's discovery — the Hertfordshire birth records, the surprise finding, and the questions scientists still work on (Cook Islands, Grade 8 — *Ko Au e Toku Aorangi: Kai No te Oraanga Meitaki — Me, Myself, My Environment: Nutrition*, printed p. 60)
 
 24. **Environmental diseases and where they come from** (`keeping-healthy/environmental-diseases-and-where-they-come-from`) — diseases whose cause lies in the surroundings themselves — the air, the water, the substances and conditions people live among — sorted from infectious diseases by where they come from (Australia, Grade 9 — *Pearson Science 9*, 8.3, printed p. 328)
+25. **Water safety and harbour safety equipment** (`keeping-healthy/water-safety-and-harbour-safety-equipment`) — getting to know safety equipment on piers and docks — Iceland's harbour-side safety way — teacher-guide evidence only, acceptance 0 (Iceland, Grade 3 — *Halló heimur 3*, Ch.5 aims, printed p. 1)
+26. **Fireworks safety** (`keeping-healthy/fireworks-safety`) — learning how to handle fireworks — teacher-guide evidence only, acceptance 0 (Iceland, Grade 3 — *Halló heimur 3*, Ch.5 aims, printed p. 1)
+
 
 ## Unit 15 — Science Skills
 
@@ -2566,6 +2585,10 @@ solar-system comparison lessons.
 55. **Constellations and the stars we navigate by** (`earth-and-space/constellations-and-the-stars-we-navigate-by`) — the sky's named patterns, and the first stars island children learn: the Southern Cross (Saoten kros), the Morning Star and Evening Star (Moning sta mo Ivening sta), and Sirius — the stars people know the sky by and navigate by — teacher-guide evidence only, acceptance 0 (Vanuatu, Grade 3 — *SAENS — Tija Gaed, Yia 3*, Term 3 sky lessons, printed p. 125)
 56. **Landforms — hills, plains and valleys** (`earth-and-space/landforms-hills-plains-and-valleys`) — the relief of a region: what relief is and height above sea level, the high forms — hillocks, hills and mountains — and the hollows and flat lands — river beds, gorges, canyons, plains, basins, valleys and plateaus (Serbia, Grade 3 — *Природа и друштво 3*, printed p. 4)
 57. **Earth science — the Earth's materials** (`earth-and-space/earth-science-the-earths-materials`) — Earth science as the study of the Earth itself — its land, waters and air — and its four great materials, rock, soil, water and air, endlessly cycling — curriculum evidence only, acceptance 0 (Ghana, Basic 7 — *Science Curriculum for Junior High Schools*, Strand 2 Cycles: Earth science, printed p. 7)
+58. **Space junk and satellites** (`earth-and-space/space-junk-and-satellites`) — learning about space debris — Iceland's own way of opening space study with the debris problem — teacher-guide evidence only, acceptance 0 (Iceland, Grade 3 — *Halló heimur 3*, Ch.1 aims, printed p. 1)
+59. **Iceland — the volcanic island and its landscapes** (`earth-and-space/iceland-volcanic-island-and-its-landscapes`) — learning about Iceland the volcanic island — the country's own home-island opening — teacher-guide evidence only, acceptance 0 (Iceland, Grade 3 — *Halló heimur 3*, Ch.6 aims, printed p. 1)
+60. **Highlands and lowlands** (`earth-and-space/highlands-and-lowlands`) — getting to know the difference between highland and lowland — teacher-guide evidence only, acceptance 0 (Iceland, Grade 3 — *Halló heimur 3*, Ch.6 aims, printed p. 1)
+
 
 ## Unit 20 — Motion, Force and Energy
 
@@ -2588,6 +2611,7 @@ solar-system comparison lessons.
 17. **Air resistance and the parachute** (`motion-force-and-energy/air-resistance-and-the-parachute`) — drag, the air's push-back, grows with speed and with area facing the air; a tissue-paper parachute makes so much of it that drag balances weight and the fall settles slow and steady — bigger canopy, gentler descent — instructor-pack evidence only, acceptance 0 (Finland, Grade 1 recorded — Fysiikkaa: Tutkitaan ilmaa ja lämpöä)
 18. **Lift — how a wing's pressure difference holds a glider up** (`motion-force-and-energy/lift-how-a-wing-holds-a-glider-up`) — a wing's curved top leaves lower pressure above and higher below, and the difference is lift: paper-helicopter rotors and engineless gliders both fly on it, a glider paying with height at the rate of its glide ratio G = D/H — instructor-pack evidence only, acceptance 0 (Finland, Grade 1 recorded — Fysiikkaa: Tutkitaan ilmaa ja lämpöä)
 19. **Energy — first noticing** (`motion-force-and-energy/energy-first-noticing`) — energy met for the first time, by noticing it at work in the things around us — shining, warming, sounding, moving — inside a materials unit, before forms, sources or measuring — teacher-module evidence only, acceptance 0 (Zambia, Grade 1 — *Mathematics and Science Teaching Module, Grade 1, Module 2*, Topic 4, Sub-Topic 2, printed p. 28)
+20. **Air and water resistance — drag** (`motion-force-and-energy/air-and-water-resistance-drag`) — learning about water resistance and air resistance, taught as one pair — teacher-guide evidence only, acceptance 0 (Iceland, Grade 3 — *Halló heimur 3*, Ch.2 aims, printed p. 1)
 
 
 ## Unit 21 — Sound

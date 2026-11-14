@@ -1,6 +1,6 @@
 # Sources — Accidents and staying safe
 
-countries: Ethiopia, Turkey, Suriname
+countries: Ethiopia, Turkey, Suriname, Iceland (teacher-guide evidence only)
 
 **Book 8:** *Grade 4 Environmental Science Teacher Guide — SNNP Regional State Education Bureau edition* (አካባቢ ሳይንስ የመምህሩ መምሪያ, 4ኛ ክፍል) (teacher's guide) — Ethiopia, SNNP Regional State Education Bureau. COMPLETE: printed pp. 1–143 (all 5 units + references + syllabus). Printed page = PDF page − 6. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-teacher-placements.md.
 
@@ -35,3 +35,15 @@ Searchable tags: accidents, risk, vulnerability, hazards, fire, flood, accidents
 Suriname's own way — Suriname gives safety in the home its own lesson, *Veiligheid in huis*, straight after its fire-and-traffic-safety lesson — is itself course content, carried exactly as filed.
 
 Searchable tags: suriname, veiligheid in huis, safety in the home, natuuronderwijs
+
+## Iceland growth (2026-11-13, General Science expansion)
+
+**Book (Iceland — Halló heimur 3, Ch.5):** *Halló heimur 3 — Markmið kafla 5: ÖRUGG Í UMHVERFINU* (teacher chapter-aims poster sheet) — Iceland, Námsgagnastofnun (MMS) / klb.mms.is. Title as printed: "ÖRUGG Í UMHVERFINU — Í kaflanum ætlum við að:" (Safe in Our Surroundings). Grade 3, teacher chapter-aims poster sheet, Halló heimur 3 (integrated primary book). PDF pages: 1 (584,821 bytes). Verdict: COMPLETE — the whole sheet is the title plus its chapter aims. Records: TSV blob record + books.json record `grade-03/gov/iceland/natural-science/teacher/hh3_markmid-5.pdf` — same book, cited once here. TEACHER AIMS SHEET — guide evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iceland-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| examining dangers on playgrounds (chapter aim) (teacher guide — evidence) (Iceland, Grade 3) | Iceland, *Halló heimur 3 Ch.5 aims*, printed p. 1 |
+
+**Acceptance count unchanged: taught in 2 countries (Turkey, Suriname).** Iceland is named as teacher-guide evidence only, not added to this count.
+
+Searchable tags: iceland, halló heimur 3, playground dangers, safety, mms, teacher aims sheet, grade 3

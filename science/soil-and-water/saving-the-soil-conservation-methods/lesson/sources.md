@@ -1,6 +1,6 @@
 # Sources — Saving the soil — conservation methods
 
-countries: Ethiopia, Palau (teacher's-edition evidence only), Nauru, Tuvalu, Niue
+countries: Ethiopia, Palau (teacher's-edition evidence only), Nauru, Tuvalu, Niue, Iceland (teacher-guide evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -59,3 +59,15 @@ Searchable tags: tuvalu, usp reader 4, tonga soil fertility, intercropping, fall
 Niue’s own way — saving the soil taught through Pacific intercropping and fallow rest, in the adopted USP reader — is itself course content, carried exactly as filed.
 
 Searchable tags: niue, usp reader 4, tonga soil fertility, intercropping, fallow
+
+## Iceland growth (2026-11-13, General Science expansion)
+
+**Book (Iceland):** *Líf á landi — Kennsluleiðbeiningar (Life on Land — Teacher Guide)* (teacher guide) — Iceland, Author Sólrún Harðardóttir; editors Hafdís Finnbogadóttir and Tryggvi Jakobsson; © Námsgagnastofnun 2012, 1st edition, book no. 09026, Kópavogur. Title as printed: "Líf á landi — KENNSLULEIÐBEININGAR". Grade 5 record; the book is for the middle stage of grunnskóli (about Grades 5–7). Teacher guide to the student book Líf á landi, one of a set of three on Iceland's nature (with Lífríkið í sjó / Life in the Sea and Lífríkið í fersku vatni / Life in Fresh Water). PDF pages: 62 (2,412,223 bytes); guide printed pp. 1–60. Verdict: COMPLETE — contents, foreword, curriculum-basis chapters, all 10 chapter guides, extra activities and references all present and read. Records: books.json only, `grade-05/gov/iceland/natural-science/teacher/lif_landi_klb.pdf`. TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. All placements from it are guide evidence: the guide's chapter notes, background and activity instructions for the student book (student-book page given where the guide states it). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iceland-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| vegetation destruction on the gravel plains and the land-reclamation (landgræðsla) answer (teacher guide — evidence) (Iceland, Grade 5) | Iceland, *Líf á landi guide*, printed pp. 46–48 |
+
+**Acceptance count unchanged: taught in 4 countries (Ethiopia, Nauru, Tuvalu, Niue).** Iceland is named as teacher-guide evidence only, not added to this count.
+
+Searchable tags: iceland, líf á landi, landgræðsla, land reclamation, gravel plains, teacher guide, grade 5

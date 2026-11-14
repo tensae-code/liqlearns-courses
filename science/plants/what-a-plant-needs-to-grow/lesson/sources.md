@@ -1,6 +1,6 @@
 # Sources — What a plant needs to grow
 
-countries: Ethiopia, Albania (teacher-guide evidence only), Guyana
+countries: Ethiopia, Albania (teacher-guide evidence only), Guyana, Iceland (teacher-guide evidence only)
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -46,3 +46,18 @@ Searchable tags: albania, dituri natyre, mediaprint, libër mësuesi, teacher gu
 **Acceptance count: taught in 2 countries (Ethiopia, Guyana).**
 
 Searchable tags: guyana, science around us, ministry of education guyana, grade 1, grade 6
+
+## Iceland growth (2026-11-13, General Science expansion)
+
+**Book (Iceland — Halló heimur 3, Ch.4):** *Halló heimur 3 — Markmið kafla 4: Í BLÓMA LÍFSINS* (teacher chapter-aims poster sheet) — Iceland, Námsgagnastofnun (MMS) / klb.mms.is. Title as printed: "Í BLÓMA LÍFSINS — Í kaflanum ætlum við að:" (In the Bloom of Life). Grade 3, teacher chapter-aims poster sheet, Halló heimur 3 (integrated primary book). PDF pages: 1 (559,506 bytes). Verdict: COMPLETE — the whole sheet is the title plus its chapter aims. Records: TSV blob record + books.json record `grade-03/gov/iceland/natural-science/teacher/hh3_markmid-4.pdf` — same book, cited once here. TEACHER AIMS SHEET — guide evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iceland-placements.md.
+
+**Book (Iceland):** *Líf á landi — Kennsluleiðbeiningar (Life on Land — Teacher Guide)* (teacher guide) — Iceland, Author Sólrún Harðardóttir; editors Hafdís Finnbogadóttir and Tryggvi Jakobsson; © Námsgagnastofnun 2012, 1st edition, book no. 09026, Kópavogur. Title as printed: "Líf á landi — KENNSLULEIÐBEININGAR". Grade 5 record; the book is for the middle stage of grunnskóli (about Grades 5–7). Teacher guide to the student book Líf á landi, one of a set of three on Iceland's nature (with Lífríkið í sjó / Life in the Sea and Lífríkið í fersku vatni / Life in Fresh Water). PDF pages: 62 (2,412,223 bytes); guide printed pp. 1–60. Verdict: COMPLETE — contents, foreword, curriculum-basis chapters, all 10 chapter guides, extra activities and references all present and read. Records: books.json only, `grade-05/gov/iceland/natural-science/teacher/lif_landi_klb.pdf`. TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. All placements from it are guide evidence: the guide's chapter notes, background and activity instructions for the student book (student-book page given where the guide states it). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iceland-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| examining how vegetable growing is done (chapter aim) (teacher guide — evidence) (Iceland, Grade 3) | Iceland, *Halló heimur 3 Ch.4 aims*, printed p. 1 |
+| plants need mineral nutrients from the soil as well as the raw materials of photosynthesis (teacher guide — evidence) (Iceland, Grade 5) | Iceland, *Líf á landi guide*, printed p. 17 |
+
+**Acceptance count unchanged: taught in 2 countries (Ethiopia, Guyana).** Iceland is named as teacher-guide evidence only, not added to this count.
+
+Searchable tags: iceland, halló heimur 3, líf á landi, vegetable growing, mineral nutrients, soil, mms, teacher guide, grade 3, grade 5

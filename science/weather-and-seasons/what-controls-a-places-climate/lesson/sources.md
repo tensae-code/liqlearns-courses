@@ -1,6 +1,6 @@
 # Sources — What controls a place's climate
 
-countries: Ethiopia, Italy
+countries: Ethiopia, Italy, Iceland (teacher-guide evidence only)
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -36,3 +36,15 @@ Grade 5/6 extension (2026-11-12): both student books are COMPLETE. The teacher-g
 The Grade 5 teacher guide scan is TRUNCATED: printed pp. 1–75 (Units 1–3) are held; Units 4–5 (printed pp. 76–106) are missing from the library file. Rows from it are teacher-guide evidence and never count as pupil-taught.
 
 Searchable tags: controls of climate, height above sea level, distance from the equator, distance from the sea, what controls a places climate
+
+## Iceland growth (2026-11-13, General Science expansion)
+
+**Book (Iceland — El Niño sheet):** *El Niño* (Í dagsins önn article sheet) — Iceland, Námsgagnastofnun 2007. Title as printed: "El Nino" — "Í dagsins önn" (In the day's term) current-affairs sheet, signed 1 March 2007 with a follow-up note. Grade 11 record (upper-secondary level sheet), teacher/article document. PDF pages: 2 (125,219 bytes, matches books.json size exactly). Verdict: COMPLETE — full article with three Pacific temperature maps read on both pages. Records: TSV blob record + books.json record `grade-11/gov/iceland/natural-science/teacher/elnino.pdf` — same book, cited once here. TEACHER/ARTICLE DOCUMENT — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iceland-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the 1996–98 event as the worked example: winds reversed, the east warmed by up to 8 °C by January 1998, 1998 became the warmest year on record, with floods in some places, droughts in others, about 24,000 deaths and 6 million people left homeless (WMO figures); the small 2006/07 event tracked to its fade in February 2007 (teacher/article — evidence) (Iceland, Grade 11 record) | Iceland, *El Niño sheet*, printed pp. 1–2 |
+
+**Acceptance count unchanged: taught in 2 countries (Ethiopia, Italy).** Iceland is named as teacher-guide evidence only, not added to this count.
+
+Searchable tags: iceland, el niño, el nino, 1996-98 event, 1998 warmest year, wmo, climate, í dagsins önn, grade 11
