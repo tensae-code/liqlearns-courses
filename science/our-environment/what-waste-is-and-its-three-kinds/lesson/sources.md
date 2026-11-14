@@ -1,6 +1,6 @@
 # Sources — What waste is and its three kinds
 
-countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Palau (teacher's-edition evidence only)
+countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Palau (teacher's-edition evidence only), Zambia (teacher-module evidence only)
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -25,3 +25,20 @@ Timor-Leste is named as teacher-guide evidence only (*Ciências Naturais, Grade 
 The Grade 4 student book is COMPLETE (printed pp. 1–148); nothing in this lesson rests on the regional teacher guides.
 
 Searchable tags: waste, solid waste, liquid waste, polluted air, leftover, what waste is and its three kinds, timor-leste, timor-leste grade 3 teacher guide, livru planu lisaun, palau, ridge to reef palau, palau grade 5
+
+## Zambia growth (2026-11-13, General Science expansion)
+
+**Book (Zambia):** *Mathematics and Science Teaching Module, Grade 1, Module 3 / Term 3* (teacher module) — Zambia, Ministry of Education, Curriculum Development Centre, © CDC 2025. Record: Grade 1 record (`full-year-2.pdf`). Fetched copy: 2,818,201 bytes, 56 PDF pages, full text layer, read in full. Verdict: COMPLETE (Term 3 module). Shapes and number sub-topics are mathematics — not placed. All placements from this book are teacher-module evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/zambia-placements.md.
+
+**Book (Zambia):** *Mathematics & Science Teaching Module, Grade 2, Term 3* (teacher module) — Zambia, Ministry of Education, Curriculum Development Centre, © CDC 2026. Record: Grade 2 Term 3 record. Fetched copy: 2,721,016 bytes, 96 PDF pages, full text layer, read in full. Verdict: COMPLETE. The bulk of the book (Sub-Topic 2.5.1, printed pp. 12–81) is mathematics operations — not placed; the science content placed is the domestic-waste sub-topic. All placements from this book are teacher-module evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/zambia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Topic 5, Sub-Topic 3: domestic waste (teacher module — evidence) (Zambia, Grade 1) | Zambia, *Mathematics and Science Teaching Module, Grade 1, Module 3* (teacher module — evidence), Topic 5, Sub-Topic 3 — printed p. 37 |
+| Topic 2.5 Exploring Mixtures, Sub-Topic 2.5.2: domestic waste (teacher module — evidence) (Zambia, Grade 2) | Zambia, *Mathematics & Science Teaching Module, Grade 2, Term 3* (teacher module — evidence), Topic 2.5, Sub-Topic 2.5.2 — printed p. 82 |
+
+**Acceptance count unchanged: taught in 1 country (Ethiopia).**
+
+Zambia is named as teacher-module evidence only (its ECE and Grade 1–2 *Pre-Mathematics and Science* / *Mathematics and Science* teaching modules, Ministry of Education, Curriculum Development Centre, 2025–2026 — teacher modules), not added to this count. Zambia's own way — teaching this thing inside its early-years and Grade 1–2 modules, at the places and in the topic order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: zambia, zambia teacher module, curriculum development centre zambia

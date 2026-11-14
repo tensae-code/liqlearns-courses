@@ -1,6 +1,6 @@
 # Sources — Living things — what makes something alive
 
-countries: Ethiopia, Cook Islands, Trinidad and Tobago (curriculum-guide evidence only)
+countries: Ethiopia, Cook Islands, Trinidad and Tobago (curriculum-guide evidence only), Zambia (teacher-module evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -26,3 +26,17 @@ Trinidad and Tobago is named as curriculum-guide evidence only (*Secondary Schoo
 Pairing warning (carried exactly): the G7 guide is an ADDIS ABABA bureau book (2023), NOT edition-matched to the Amhara student book (©2015 E.C.) — guide material is filed as syllabus-level teacher evidence, never as a page-key. The guide's contents misprint "Living Things and their Tiversity" — not reproduced. Teacher-guide rows above are evidence only and never count as pupil-taught. No page is claimed beyond the placements. The student book's facts are taught as printed for this unit; no Unit 5 student-book error is flagged in the placements.
 
 Searchable tags: living things, non-living things, characteristics of life, sensitivity, homeostasis, metabolism, cook islands, cook islands grade 8, ko au e toku aorangi, trinidad and tobago, trinidad and tobago ncse integrated science
+
+## Zambia growth (2026-11-13, General Science expansion)
+
+**Book (Zambia):** *Intellectual Disability ECE Teaching Module, Level 1, Term 2* (teacher module) — Zambia, Ministry of Education, Curriculum Development Centre, © CDC 2025. Record: KG2 Intellectual Disabilities record. Fetched copy: 1,739,926 bytes, 32 PDF pages, full text layer, read in full. Verdict: COMPLETE. Topics 5 (addition/subtraction) and 7 (shapes) are mathematics — not placed. All placements from this book are teacher-module evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/zambia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Topic 6 The Environment, Sub-Topic 6.1: living things (teacher module — evidence) (Zambia, ECE Intellectual Disability Level 1, Term 2) | Zambia, *Intellectual Disability ECE Teaching Module, Level 1, Term 2* (teacher module — evidence), Topic 6, Sub-Topic 6.1 — printed p. 6 |
+
+**Acceptance count unchanged: taught in 2 countries (Ethiopia, Cook Islands).**
+
+Zambia is named as teacher-module evidence only (its ECE and Grade 1–2 *Pre-Mathematics and Science* / *Mathematics and Science* teaching modules, Ministry of Education, Curriculum Development Centre, 2025–2026 — teacher modules), not added to this count. Zambia's own way — teaching this thing inside its early-years and Grade 1–2 modules, at the places and in the topic order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: zambia, zambia teacher module, curriculum development centre zambia

@@ -1,6 +1,6 @@
 # Sources — Things that block light, and shadows
 
-countries: Ethiopia, Gabon (teacher-guide evidence only), Slovenia, Morocco (teacher-guide evidence only), Uganda, Kenya, North Macedonia, Moldova, South Sudan, Mozambique, Mauritania
+countries: Ethiopia, Gabon (teacher-guide evidence only), Slovenia, Morocco (teacher-guide evidence only), Uganda, Kenya, North Macedonia, Moldova, South Sudan, Mozambique, Mauritania, Zambia (teacher-module evidence only)
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -61,3 +61,23 @@ countries: Ethiopia, Gabon (teacher-guide evidence only), Slovenia, Morocco (tea
 Grade 4 extension (2026-11-12): the Grade 4 student book is COMPLETE (printed pp. 1–148) and both Grade 4 regional teacher guides are COMPLETE in hand — no truncation note applies to the Grade 4 rows. Teacher-guide rows are evidence and never count as pupil-taught.
 
 Searchable tags: light blocking, opaque, shadow, shade, ብርሃን ከልካይ, opaque body ብርሃን ከል, Experiment 5, shadow formation, uganda, kenya, north macedonia, south sudan, mozambique
+
+## Zambia growth (2026-11-13, General Science expansion)
+
+**Book (Zambia):** *Intellectual Disability ECE Pre-Mathematics and Science module, Topics 8–10* (teacher module) — Zambia, Ministry of Education, Curriculum Development Centre, © 2025. Cover reads "Intellectual Disability — Early Childhood Education — Pre-Mathematics and Science". Record: KG1 student record (`full-year-3.pdf`) — the record label does not match the file it delivers, carried as filed: the fetched copy is this Intellectual Disability teacher module's Topics 8–10 document, not a KG1 student book. Fetched copy: 2,566,343 bytes, 30 PDF pages, full text layer, read in full. Verdict: PARTIAL as a module (the file holds only Topics 8–10 plus appendices), COMPLETE as delivered. Topic 10 (Money) is mathematics — out of scope, not placed. All placements from this book are teacher-module evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/zambia-placements.md.
+
+**Book (Zambia):** *Pre-Mathematics and Science Teaching Module, Level 1 (3–4 years), Term 2* (teacher module) — Zambia, Ministry of Education, Curriculum Development Centre, © CDC 2025. Record: KG1 teacher record (`full-year.pdf`). Fetched copy: 1,624,150 bytes, 78 PDF pages, full text layer, read in full. Verdict: COMPLETE. Topic 4's shapes-and-patterns sub-topic is mathematics — not placed. All placements from this book are teacher-module evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/zambia-placements.md.
+
+**Book (Zambia):** *Pre-Mathematics and Science Teaching Module, Level 2* (teacher module) — Zambia, Ministry of Education, Curriculum Development Centre, © CDC 2026. Record: KG2 Level 2 Term 3 record — the delivered module covers Topics 1, 3, 4 and 5, a fuller module than the record's "Term 3" label, carried as filed. Fetched copy: 1,013,396 bytes, 58 PDF pages, full text layer, read in full. Verdict: COMPLETE as delivered. All placements from this book are teacher-module evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/zambia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Topic 9, Sub-Topic 3.3: light and shadows (teacher module — evidence) (Zambia, ECE Intellectual Disability) | Zambia, *Intellectual Disability ECE Pre-Mathematics and Science module, Topics 8–10* (teacher module — evidence), Topic 9, Sub-Topic 3.3 — printed p. 6 |
+| Topic 4 Understanding Materials, Sub-Topic 2: light and shadows (teacher module — evidence) (Zambia, ECE Level 1, Term 2) | Zambia, *Pre-Mathematics and Science Teaching Module, Level 1, Term 2* (teacher module — evidence), Topic 4, Sub-Topic 2 — printed p. 58 |
+| Topic 4 Understanding Materials, Sub-Topic 2: light and shadows (teacher module — evidence) (Zambia, ECE Level 2) | Zambia, *Pre-Mathematics and Science Teaching Module, Level 2* (teacher module — evidence), Topic 4, Sub-Topic 2 — printed p. 30 |
+
+**Acceptance count unchanged: taught in 9 countries (Ethiopia, Slovenia, Uganda, Kenya, North Macedonia, Moldova, South Sudan, Mozambique, Mauritania).**
+
+Zambia is named as teacher-module evidence only (its ECE and Grade 1–2 *Pre-Mathematics and Science* / *Mathematics and Science* teaching modules, Ministry of Education, Curriculum Development Centre, 2025–2026 — teacher modules), not added to this count. Zambia's own way — teaching this thing inside its early-years and Grade 1–2 modules, at the places and in the topic order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: zambia, zambia teacher module, curriculum development centre zambia

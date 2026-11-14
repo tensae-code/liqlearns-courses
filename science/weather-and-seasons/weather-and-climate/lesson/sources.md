@@ -1,6 +1,6 @@
 # Sources — Weather and climate
 
-countries: Ethiopia, Mexico, Palau (teacher's-edition evidence only)
+countries: Ethiopia, Mexico, Palau (teacher's-edition evidence only), Zambia (teacher-module evidence only)
 
 **Book 2:** *Grade 1 Environmental Science Teacher Guide* (አካባቢ ሳይንስ አንድኛ ክፍል የመምህር መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. TRUNCATED scan: the file holds printed pp. 1–54 (Units 1–3 complete); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-teacher-placements.md.
 
@@ -71,3 +71,17 @@ Grade 5/6 extension (2026-11-12): the Grade 5 student book is COMPLETE. Both tea
 The Grade 5 teacher guide scan is TRUNCATED: printed pp. 1–75 (Units 1–3) are held; Units 4–5 (printed pp. 76–106) are missing from the library file. Rows from it are teacher-guide evidence and never count as pupil-taught.
 
 Searchable tags: weather, climate, elements of weather, temperature, rain, 30 years, የአየር ንብረት, long-term average, Debre Berhan station, 25 years, mexico, etica naturaleza y sociedades, palau, ridge to reef palau, palau grade 5
+
+## Zambia growth (2026-11-13, General Science expansion)
+
+**Book (Zambia):** *Mathematics and Science Teaching Module, Grade 1, Module 2 / Term 2* (teacher module) — Zambia, Ministry of Education, Curriculum Development Centre, © CDC 2025. Record: Grade 1 record (`full-year.pdf`). Cover and contents both read "Grade 1 Mathematics and Science Teaching Module 2". Fetched copy: 10,094,605 bytes, 44 PDF pages, full text layer, read in full. Verdict: COMPLETE (Term 2 module). The numbers/addition sub-topics are mathematics — not placed. All placements from this book are teacher-module evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/zambia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Topic 3, Sub-Topic 3: weather and climate change — the module's own pairing of the two words at Grade 1 (teacher module — evidence) (Zambia, Grade 1) | Zambia, *Mathematics and Science Teaching Module, Grade 1, Module 2* (teacher module — evidence), Topic 3, Sub-Topic 3 — printed p. 16 |
+
+**Acceptance count unchanged: taught in 2 countries (Ethiopia, Mexico).**
+
+Zambia is named as teacher-module evidence only (its ECE and Grade 1–2 *Pre-Mathematics and Science* / *Mathematics and Science* teaching modules, Ministry of Education, Curriculum Development Centre, 2025–2026 — teacher modules), not added to this count. Zambia's own way — teaching this thing inside its early-years and Grade 1–2 modules, at the places and in the topic order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: zambia, zambia teacher module, curriculum development centre zambia

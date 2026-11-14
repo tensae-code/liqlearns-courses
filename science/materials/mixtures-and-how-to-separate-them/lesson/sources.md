@@ -1,6 +1,6 @@
 # Sources — Mixtures and how to separate them
 
-countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only)
+countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Zambia (teacher-module evidence only)
 
 **Book 12:** *Environmental Science Student Textbook, Grade 6* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Mulugeta Awayehu (MA, Assoc. Prof.), Belete Kebede (MSc), Melese Sinu (MSc), Minilk Belay (MSc), Neqiqneh Zewdie (MSc). COMPLETE: 177 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g06-student-placements.md.
 
@@ -44,3 +44,26 @@ Searchable tags: mixtures heterogeneous ልይ ዘር homogeneous ዋህድ ዘ�
 | Grade 7 choosing the method — separation purifies; method follows the differing property; tea, butter, cotton-ginning openings | Ethiopia, *General Science Student Textbook, Grade 7*, Unit 2, printed p. 50 |
 
 Acceptance count unchanged: taught in 1 country (Ethiopia).
+
+## Zambia growth (2026-11-13, General Science expansion)
+
+**Book (Zambia):** *Intellectual Disability ECE Pre-Mathematics and Science module, Topics 8–10* (teacher module) — Zambia, Ministry of Education, Curriculum Development Centre, © 2025. Cover reads "Intellectual Disability — Early Childhood Education — Pre-Mathematics and Science". Record: KG1 student record (`full-year-3.pdf`) — the record label does not match the file it delivers, carried as filed: the fetched copy is this Intellectual Disability teacher module's Topics 8–10 document, not a KG1 student book. Fetched copy: 2,566,343 bytes, 30 PDF pages, full text layer, read in full. Verdict: PARTIAL as a module (the file holds only Topics 8–10 plus appendices), COMPLETE as delivered. Topic 10 (Money) is mathematics — out of scope, not placed. All placements from this book are teacher-module evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/zambia-placements.md.
+
+**Book (Zambia):** *Pre-Mathematics and Science Teaching Module, Level 1, Terms 2–3: Topic 5* (teacher module) — Zambia, Ministry of Education, Curriculum Development Centre, © CDC 2025. Record: KG1 teacher record (`full-year-2.pdf`). Fetched copy: 791,667 bytes, 28 PDF pages, full text layer, read in full. Verdict: COMPLETE as delivered (the file holds Topic 5 only, plus a sample lesson plan). All placements from this book are teacher-module evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/zambia-placements.md.
+
+**Book (Zambia):** *Pre-Mathematics and Science Teaching Module, Level 2* (teacher module) — Zambia, Ministry of Education, Curriculum Development Centre, © CDC 2026. Record: KG2 Level 2 Term 3 record — the delivered module covers Topics 1, 3, 4 and 5, a fuller module than the record's "Term 3" label, carried as filed. Fetched copy: 1,013,396 bytes, 58 PDF pages, full text layer, read in full. Verdict: COMPLETE as delivered. All placements from this book are teacher-module evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/zambia-placements.md.
+
+**Book (Zambia):** *Mathematics and Science Teaching Module, Grade 1, Module 3 / Term 3* (teacher module) — Zambia, Ministry of Education, Curriculum Development Centre, © CDC 2025. Record: Grade 1 record (`full-year-2.pdf`). Fetched copy: 2,818,201 bytes, 56 PDF pages, full text layer, read in full. Verdict: COMPLETE (Term 3 module). Shapes and number sub-topics are mathematics — not placed. All placements from this book are teacher-module evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/zambia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Topic 9 Materials, Sub-Topic 3.1: mixtures (teacher module — evidence) (Zambia, ECE Intellectual Disability) | Zambia, *Intellectual Disability ECE Pre-Mathematics and Science module, Topics 8–10* (teacher module — evidence), Topic 9, Sub-Topic 3.1 — printed p. 5 |
+| Topic 5 Exploring Mixtures — framed for this age as adding and subtracting things (teacher module — evidence) (Zambia, ECE Level 1) | Zambia, *Pre-Mathematics and Science Teaching Module, Level 1, Terms 2–3: Topic 5* (teacher module — evidence), Topic 5 — printed p. 1 |
+| Topic 5 Exploring Mixtures (teacher module — evidence) (Zambia, ECE Level 2) | Zambia, *Pre-Mathematics and Science Teaching Module, Level 2* (teacher module — evidence), Topic 5 — printed p. 35 |
+| Topic 5 Exploring Mixtures, Sub-Topic 1: mixtures (teacher module — evidence) (Zambia, Grade 1) | Zambia, *Mathematics and Science Teaching Module, Grade 1, Module 3* (teacher module — evidence), Topic 5, Sub-Topic 1 — printed p. 28 |
+
+**Acceptance count unchanged: taught in 1 country (Ethiopia).**
+
+Zambia is named as teacher-module evidence only (its ECE and Grade 1–2 *Pre-Mathematics and Science* / *Mathematics and Science* teaching modules, Ministry of Education, Curriculum Development Centre, 2025–2026 — teacher modules), not added to this count. Zambia's own way — teaching this thing inside its early-years and Grade 1–2 modules, at the places and in the topic order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: zambia, zambia teacher module, curriculum development centre zambia

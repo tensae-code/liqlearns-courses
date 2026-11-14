@@ -1,6 +1,6 @@
 # Sources — Parts of the body and the five senses
 
-countries: Ethiopia
+countries: Ethiopia, Zambia (teacher-module evidence only)
 
 **Book 1:** *Environmental Science Teacher's Guide, Grade 1* (አካባቢ ሳይንስ የመምህራን መምሪያ 1ኛ ክፍል) (teacher's guide — the file held in the library as the Grade 1 "student" book; the Grade 1 student textbook itself is NOT held) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. The held file is damaged and truncated: it holds guide printed pp. i–v and 1–27 only, of a guide running to at least printed p. 85. Guide printed page = PDF page − 8 in the genuine pages. Read visually, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-student-placements.md.
 
@@ -32,3 +32,17 @@ Honesty: this teacher's guide scan is TRUNCATED — printed pp. 1–61 (Units 1�
 The Grade 1 student book carries a printed poem about the senses (Grade 1 guide, printed pp. 13–21). Following the standing song/poem rule, the poem is placed as theme only — it is named and summarised in the lesson, never transcribed.
 
 Searchable tags: human body, body parts, sense organs, five senses, eyes ears nose tongue skin, አካባቢ ሳይንስ
+
+## Zambia growth (2026-11-13, General Science expansion)
+
+**Book (Zambia):** *Pre-Mathematics and Science Teaching Module, Level 1 (3–4 years), Term 2* (teacher module) — Zambia, Ministry of Education, Curriculum Development Centre, © CDC 2025. Record: KG1 teacher record (`full-year.pdf`). Fetched copy: 1,624,150 bytes, 78 PDF pages, full text layer, read in full. Verdict: COMPLETE. Topic 4's shapes-and-patterns sub-topic is mathematics — not placed. All placements from this book are teacher-module evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/zambia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Topic 2 Understanding My Body: the external parts of the human body (teacher module — evidence) (Zambia, ECE Level 1, Term 2) | Zambia, *Pre-Mathematics and Science Teaching Module, Level 1, Term 2* (teacher module — evidence), Topic 2 — printed p. 2 |
+
+**Acceptance count unchanged: taught in 1 country (Ethiopia).**
+
+Zambia is named as teacher-module evidence only (its ECE and Grade 1–2 *Pre-Mathematics and Science* / *Mathematics and Science* teaching modules, Ministry of Education, Curriculum Development Centre, 2025–2026 — teacher modules), not added to this count. Zambia's own way — teaching this thing inside its early-years and Grade 1–2 modules, at the places and in the topic order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: zambia, zambia teacher module, curriculum development centre zambia
