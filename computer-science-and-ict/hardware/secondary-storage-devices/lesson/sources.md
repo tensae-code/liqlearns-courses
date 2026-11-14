@@ -1,6 +1,6 @@
 # Sources — Hard disk, optical disk, flash disk and SD card
 
-countries: Ethiopia, Yemen, Saudi Arabia, Iraq, Sudan, Uzbekistan, Fiji, Bhutan, Sri Lanka
+countries: Ethiopia, Yemen, Saudi Arabia, Iraq, Sudan, Uzbekistan, Fiji, Bhutan, Sri Lanka, Laos
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Yemen, Saudi Arabia, Iraq, Sudan, Uzbekistan, Fiji, Bhutan,
 
 **Book 10:** *Information and Communication Technology — Reading Book, Grade 9* (student book, English) — Sri Lanka, Educational Publications Department; year 2019 (second print, first 2018); ISBN 978-955-25-0172-2. 111 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
 
+**Book 11:** *ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ (ICT) — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 2 (ICT, Secondary Year 2)* (student book, Lao) — Laos, Ministry of Education, Research Institute of Educational Sciences (ສ.ວ.ສ); year 2011; ISBN: no ISBN printed. 107 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Hard disk, optical disk, flash disk and SD card | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 2, printed pp. 24–26 (teacher evidence: guide printed pp. 31–32, 34) |
@@ -34,8 +36,9 @@ countries: Ethiopia, Yemen, Saudi Arabia, Iraq, Sudan, Uzbekistan, Fiji, Bhutan,
 | 1.2.4 Secondary Storage | Fiji, *Computer Education, Year 11*, printed p. 26 |
 | 1.3 Storage Devices | Bhutan, *Literacy with ICT, Class VIII*, printed p. 5 |
 | Ch.1 Specifications: hard disk | Sri Lanka Grade 9 G9 ICT Textbook, printed p. 13 |
+| Ch.1 §5 Permanent (secondary) memory | Laos Grade 7 ICT student, printed p. 11 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Yemen, Saudi Arabia, Iraq, Sudan, Uzbekistan, Fiji, Bhutan, Sri Lanka).**
+**Acceptance count: taught in 10 countries (Ethiopia, Yemen, Saudi Arabia, Iraq, Sudan, Uzbekistan, Fiji, Bhutan, Sri Lanka, Laos).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -56,4 +59,6 @@ Bhutan's own way (Class VIII, Literacy with ICT student book): The final primary
 
 Sri Lanka's own way (Grade 9 Reading Book): it opens with preparing a computer specification for a real buyer (user needs, peripherals, processor/HDD/monitor/VGA specs, after-sales service); microcontrollers are taught with BBC micro:bit and Arduino and local sensor examples (solar lamp, washing machine, microwave).
 
-Searchable tags: hard disk, optical disk, flash disk and sd card, hardware, grade 7, information technology, ict, ethiopia, yemen, grade 10, saudi arabia, grade 3, iraq, grade 8, sudan, grade 5, uzbekistan, grade 8, fiji, year 11, bhutan, class viii, sri lanka, grade 9 reading book
+Laos's own way (Grade 7 ICT student book): the hardware year is taught through the von Neumann model (the book pictures John von Neumann beside an early machine) and the software chapter ends with a full comparison table of real compilers (Visual Basic, Turbo Pascal, C++, Fortran…) by platform and licence.
+
+Searchable tags: hard disk, optical disk, flash disk and sd card, hardware, grade 7, information technology, ict, ethiopia, yemen, grade 10, saudi arabia, grade 3, iraq, grade 8, sudan, grade 5, uzbekistan, grade 8, fiji, year 11, bhutan, class viii, sri lanka, grade 9 reading book, laos, grade 7 ict student

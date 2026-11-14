@@ -10,6 +10,8 @@ countries: Ethiopia, Libya
 
 **Book 4:** *تقنية المعلومات للسنة الثانية بمرحلة التعليم الثانوي «للقسمين العلمي والأدبي» — الفصل الدراسي الأول (Information Technology, Grade 11, for the Science and Humanities sections, Term 1)* (student book, Arabic) — Libya, Libya Ministry of Education, Centre for Educational Curricula and Research (مركز المناهج التعليمية والبحوث التربوية). Year 2019-2020 (1440-1441 AH); no ISBN printed. 120 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/libya-placements.md. The printed cover says the book is for both the Science and Humanities sections, although the record labels it Humanities only — cited as printed.
 
+**Book 5:** *ຄູ່ມືຄູ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ (ICT) — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 2 (Teacher's handbook, ICT, Secondary Year 2)* (teacher guide, Lao) — Laos, Ministry of Education, Research Institute of Educational Sciences (ສ.ວ.ສ); year 2012; ISBN: no ISBN printed. 121 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Programming languages defined; C++, Python, Java, LOGO named | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 6, printed p.73 |
@@ -17,6 +19,7 @@ countries: Ethiopia, Libya
 | Natural vs programming language, and the purpose of a programming language (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher Guide, Grade 7*, Unit 6, printed pp.83–84 |
 | Introduction à la programmation visuelle §1 (what programming/coding is; kinds of programming language and method) (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 1 (ma-g1)*, printed p. 7 (teacher guide — evidence) |
 | Ch 3, programming basics: the concept of programming, a programming language, the program, algorithm vs program | Libya Grade 11 IT student Term 1, printed p. 23 |
+| Activities 19–20: The Logo language (teacher guide — evidence) | Laos Grade 7 ICT teacher guide, printed p. 85 (teacher guide — evidence) |
 
 **Acceptance count: taught in 2 countries (Ethiopia, Libya).**
 
@@ -26,4 +29,6 @@ Morocco's own way (Grade 1): ICT from age 6 built entirely on handling real hard
 
 Libya's own way (Grade 11 Term 1, Information Technology student book): a programming year taught in old-school order — problem solving and algorithms, flowcharts, memory/variables, then Visual Basic statement by statement (LET, PRINT, INPUTBOX, IF, SELECT CASE, FOR…NEXT, DO…WHILE, DO…UNTIL), every chapter ending in graded exercises. The book is printed for BOTH the Science and Humanities sections (للقسمين العلمي والأدبي), although the records label it Humanities only — cited as printed, and taught to Science and Humanities together.
 
-Searchable tags: programming language, LOGO, turtle graphics, MSW Logo, Python, Java, Grade 7 ICT Ethiopia, morocco, grade 1, libya, grade 11 it student term 1
+Laos's own way (Grade 7 ICT teacher guide): uniquely, this guide — not the student book — carries the real software syllabus: separate activities for DOS, Windows/Linux, Unix/Mac, translators, BASIC and C, Logo, Java, and one activity per application family — a teacher-only expanded software syllabus. (teacher guide — evidence)
+
+Searchable tags: programming language, LOGO, turtle graphics, MSW Logo, Python, Java, Grade 7 ICT Ethiopia, morocco, grade 1, libya, grade 11 it student term 1, laos, grade 7 ict teacher guide

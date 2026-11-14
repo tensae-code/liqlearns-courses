@@ -1,6 +1,6 @@
 # Sources — Reports from a Database in Access
 
-countries: Belarus, Sudan, Libya, Malaysia, Mongolia
+countries: Belarus, Sudan, Libya, Malaysia, Mongolia, Laos
 
 **Book 1:** *Інфарматыка — вучэбны дапаможнік для 11 класа агульнаадукацыйных устаноў з беларускай мовай навучання (Інфарматыка. 11 клас)* (student book, Belarusian) — Belarus, Народная асвета, Мінск. Authors: Г. А. Забароўскі, А. Я. Пупцаў. 2010. ISBN 978-985-03-1371-3. 152 PDF pages. Verdict: COMPLETE. Read in full (full text layer). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/belarus-placements.md.
 
@@ -16,6 +16,8 @@ countries: Belarus, Sudan, Libya, Malaysia, Mongolia
 
 **Book 7:** *Мэдээллийн технологи X (Information Technology X)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar; year 2019 (2nd edition; bibliographic entry УБ.2018); ISBN 978-99978-61-82-5. 151 PDF pages (printed book 148 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page, from the release mid-size-books-8 asset (the books.json record's size_bytes does not match the secured asset — see the placements file's log debt). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
 
+**Book 8:** *ແບບຮຽນ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 6 (Textbook, ICT, Secondary Year 6)* (student book, Lao) — Laos, Ministry of Education and Sports, Research Institute of Educational Sciences; year 2015; ISBN: no ISBN printed. 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | § 15 "Стварэнне справаздач" (creating reports) | Belarus, *Інфарматыка. 11 клас*, § 15, printed p. 131 |
@@ -25,8 +27,9 @@ countries: Belarus, Sudan, Libya, Malaysia, Mongolia
 | 4.1.9 Menjana Laporan Berdasarkan Hasil Pertanyaan (Query) (filed as databases/reports-from-query-results; stocked into this lesson as the closest existing lesson covering this thing) | Malaysia Grade 9 ASK Tingkatan 3, printed p. 161 |
 | 2.3.5 Penjanaan Laporan Berdasarkan Hasil Query (filed as databases/reports-from-query-results; stocked into this lesson as the closest existing lesson covering this thing) | Malaysia Grade 10 SK Tingkatan 4, printed p. 262 |
 | 4.5 Preparing database reports (the Report Wizard; grouping records by school) (filed as NEW LESSON NEEDED — databases/making-a-report-in-access; stocked in this lesson because this lesson teaches creating Access reports — grouped and printed — as its own lesson) | Mongolia Grade 10 IT X, printed p. 140 |
+| Ch.2 §9 Creating a report (Report) (filed as NEW LESSON NEEDED — databases/creating-a-report-in-access; stocked in this lesson because this lesson teaches creating a report in Access — choosing source records, fields, grouping, order and layout — the same thing Laos's section teaches) | Laos Grade 11 ICT student, printed p. 94 |
 
-**Acceptance count: taught in 5 countries (Belarus, Sudan, Libya, Malaysia, Mongolia).**
+**Acceptance count: taught in 6 countries (Belarus, Sudan, Libya, Malaysia, Mongolia, Laos).**
 
 Placement choice: this lesson was built new for the ICT expansion (Belarus, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and for near matches before building. It sits in the Databases title (databases/), following the book's own order.
 
@@ -44,4 +47,6 @@ Malaysia's own way (Grade 10, SK Tingkatan 4): the upper-secondary Sains Kompute
 
 Mongolia's own way (Grade 10): Grade 10 is the "citizen" book — ICT ethics, law and intellectual property first, taught with Mongolian digital content as the examples (the Nogun comic, the Chinggis Khaan animation, GoGo Kids, Maamuu and YoLo; the CRC's black-list.mn), then a distinctive "package information" chapter — collecting, storing, merging and presenting information as one whole, worked through a 24-slide presentation on the sights of Bayankhongor aimag — multimedia production with free tools (Pencil2D, Pivot Animator, Unfreez, Audacity), and a full MS Access database chapter built around a Mongolian phone-book database and the state's unified registration system.
 
-Searchable tags: access, report, grouping, totals, print, database, belarus, grade 11, sudan, grade 7, libya, grade 10 it student, grade 10 it teacher guide, malaysia, grade 9 ask tingkatan 3, malaysia, grade 10 sk tingkatan 4, mongolia, grade 10 it x
+Laos's own way (Grade 11 ICT student book): a single-topic year — databases from first principles (the data hierarchy is taught as a Lao glossary table: Bit, Byte/Character, Field, Record, Files, Database) into a complete MS Access 2007 build: tables, relationships, forms, queries, reports.
+
+Searchable tags: access, report, grouping, totals, print, database, belarus, grade 11, sudan, grade 7, libya, grade 10 it student, grade 10 it teacher guide, malaysia, grade 9 ask tingkatan 3, malaysia, grade 10 sk tingkatan 4, mongolia, grade 10 it x, laos, grade 11 ict student

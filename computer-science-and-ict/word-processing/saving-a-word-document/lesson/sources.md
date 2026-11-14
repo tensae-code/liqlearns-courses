@@ -1,6 +1,6 @@
 # Sources — Saving a word document
 
-countries: Ethiopia, Cambodia, Uganda, Yemen, Sudan, Sri Lanka, Rwanda
+countries: Ethiopia, Cambodia, Uganda, Yemen, Sudan, Sri Lanka, Rwanda, Laos
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Cambodia, Uganda, Yemen, Sudan, Sri Lanka, Rwanda
 
 **Book 11:** *Information and Communication Technology for Rwandan Schools — Secondary 1, Students' Book* (student book, English) — Rwanda, Kenya Literature Bureau, Nairobi; year 2016; ISBN 978-9966-10-505-9. 264 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/rwanda-placements.md.
 
+**Book 12:** *ແບບຮຽນ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ (ICT) — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 4 (Textbook, ICT, Secondary Year 4)* (student book, Lao) — Laos, Ministry of Education and Sports, Research Institute of Educational Sciences; year 2013; ISBN: no ISBN printed. 104 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | First save — File → Save As; choose location/drive | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 3, printed pp.40–41 |
@@ -36,8 +38,9 @@ countries: Ethiopia, Cambodia, Uganda, Yemen, Sudan, Sri Lanka, Rwanda
 | Unit 4 Lesson 2: Saving the file | Sudan, *ICT, Grade 5*, printed p. 41 |
 | Ch.3 Saving documents: Save vs Save As, file name, save location, file type (Word 2010 and Writer 4.1) (filed as files-and-folders/saving-and-opening-files; stocked into this lesson as the closest existing lesson covering this thing) | Sri Lanka Grade 12 G12 Science for Technology ICT (Tamil), printed p. 71 |
 | Working with documents | Rwanda Grade 7 S1 ICT Student Book, printed p. 107 |
+| Ch.2 §2.2 Creating and saving documents | Laos Grade 9 ICT student, printed p. 12 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Cambodia, Uganda, Yemen, Sudan, Sri Lanka, Rwanda).**
+**Acceptance count: taught in 8 countries (Ethiopia, Cambodia, Uganda, Yemen, Sudan, Sri Lanka, Rwanda, Laos).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -51,4 +54,6 @@ Sri Lanka's own way (Grade 12 Science for Technology, Tamil): the A/L technology
 
 Rwanda's own way (S1 ICT Student Book, KLB): competency-based units each opening with a Key Unit Competency and keywords; a full GIS/ArcGIS unit and a Scratch music-making unit sit inside the first secondary year, and ICT use is grounded in Rwandan daily life.
 
-Searchable tags: saving, Save As, File, Documents, Browse, Desktop, docx, Word, Grade 7 ICT Ethiopia, Grade 8 ICT Ethiopia, cambodia, uganda, yemen, grade 10, saudi arabia, grade 4, sudan, grade 5, sri lanka, grade 12 science for technology tamil, rwanda, grade 7 s1 ict student book
+Laos's own way (Grade 9 ICT student book): the first fully practical year — a screenshot-led Windows XP, Word and Excel course where every numbered topic is a click-by-click procedure (the Excel half even teaches the Chart Wizard and worksheet Page Setup with its Orientation/Paper Size/Page Numbering table in English). Windows XP-era office teaching runs through the middle years.
+
+Searchable tags: saving, Save As, File, Documents, Browse, Desktop, docx, Word, Grade 7 ICT Ethiopia, Grade 8 ICT Ethiopia, cambodia, uganda, yemen, grade 10, saudi arabia, grade 4, sudan, grade 5, sri lanka, grade 12 science for technology tamil, rwanda, grade 7 s1 ict student book, laos, grade 9 ict student

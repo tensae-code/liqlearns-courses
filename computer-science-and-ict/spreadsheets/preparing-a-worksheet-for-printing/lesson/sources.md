@@ -1,6 +1,6 @@
 # Sources — Preparing a Worksheet for Printing
 
-countries: Iraq, Sri Lanka
+countries: Iraq, Sri Lanka, Laos
 
 **Book 1:** *Guide du Professeur d'Informatique 2AS* (teacher guide, French) — Mauritania, République Islamique de Mauritanie, Ministère de l'Éducation et de la Réforme du Système d'Enseignement, Institut Pédagogique National (IPN); year 2026; no ISBN printed. 87 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave; read in place at phase3-staging/grade-08/gov/mauritania/guide-inf-2as.pdf (byte size 1,693,767 matches the books.json record exactly). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mauritania-placements.md. (teacher guide — evidence)
 
@@ -8,13 +8,16 @@ countries: Iraq, Sri Lanka
 
 **Book 3:** *தொழில்நுட்பவியலிற்கான விஞ்ஞானம் — தகவல் மற்றும் தொடர்பாடல் தொழில்நுட்பவியல் (Science for Technology — Information and Communication Technology), G.C.E. Advanced Level technology stream, Grade 12* (student book, Tamil) — Sri Lanka, Educational Publications Department; year 2015 (first print; print code 2014/T); no ISBN printed (EPD sales stock barcode only). 252 PDF pages. Verdict: COMPLETE (image-only Noolaham scan read via 100-DPI 4-up contact sheets; printed pages run to 242). Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
 
+**Book 4:** *ແບບຮຽນ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ (ICT) — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 4 (Textbook, ICT, Secondary Year 4)* (student book, Lao) — Laos, Ministry of Education and Sports, Research Institute of Educational Sciences; year 2013; ISBN: no ISBN printed. 104 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Unit 3 Lesson 20 Preparing to print (teacher guide — evidence) | Mauritania, *Guide-INF-2AS, Grade 8*, printed p. 49 (teacher guide — evidence) |
 | Unit 2 Ch.2 Lesson 4 Page layout | Iraq, *Computer, Grade 11*, printed p. 65 |
 | Ch.4 Printing a worksheet: page setup (margins, orientation, size, print area, breaks, print titles) in Excel 2010 and Calc 4.1 (filed as spreadsheets/printing-spreadsheet-page-setup-print-area-titles; stocked into this lesson as the closest existing lesson covering this thing) | Sri Lanka Grade 12 G12 Science for Technology ICT (Tamil), printed p. 173 |
+| Ch.7 §7.4 Worksheet page setup (orientation, paper size, page numbering, margins, header/footer) (filed as NEW LESSON NEEDED — spreadsheets/page-setup-for-a-worksheet; stocked in this lesson because this lesson teaches worksheet Page Setup as its first sub lesson — paper size, orientation, margins and fitting to the page — the same setup Laos's section teaches with its page-numbering and header/footer table) | Laos Grade 9 ICT student, printed p. 90 |
 
-**Acceptance count: taught in 2 countries (Iraq, Sri Lanka).**
+**Acceptance count: taught in 3 countries (Iraq, Sri Lanka, Laos).**
 
 Stocked again in the ICT expansion (Iraq, 2026-11-14) from Iraq's student book — Iraq counts toward this lesson's acceptance count; the Mauritania teacher guide above remains teacher-guide evidence, named here and counted nowhere.
 
@@ -26,4 +29,6 @@ Iraq's own way (Grade 11): the final preparatory year is the most forward-lookin
 
 Sri Lanka's own way (Grade 12 Science for Technology, Tamil): the A/L technology-stream ICT volume teaches every office skill twice — once in Microsoft Office 2010 and once in LibreOffice (Writer/Calc/Impress 4.1) — and closes with creating a real Gmail account, mailbox folders, attachments and password safety; hardware goes down to cache levels L1/L2/L3, ROM types and file systems (FAT/NTFS/ext4).
 
-Searchable tags: page setup, print preview, fit to page, orientation, print area, spreadsheets, excel, mauritania, grade 8, iraq, grade 11, sri lanka, grade 12 science for technology tamil
+Laos's own way (Grade 9 ICT student book): the first fully practical year — a screenshot-led Windows XP, Word and Excel course where every numbered topic is a click-by-click procedure (the Excel half even teaches the Chart Wizard and worksheet Page Setup with its Orientation/Paper Size/Page Numbering table in English). Windows XP-era office teaching runs through the middle years.
+
+Searchable tags: page setup, print preview, fit to page, orientation, print area, spreadsheets, excel, mauritania, grade 8, iraq, grade 11, sri lanka, grade 12 science for technology tamil, laos, grade 9 ict student

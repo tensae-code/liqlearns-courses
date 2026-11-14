@@ -1,6 +1,6 @@
 # Sources — Antivirus software — scan, detect, remove
 
-countries: Ethiopia, Afghanistan, Saudi Arabia, Iraq, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda
+countries: Ethiopia, Afghanistan, Saudi Arabia, Iraq, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda, Laos
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -26,6 +26,9 @@ countries: Ethiopia, Afghanistan, Saudi Arabia, Iraq, Bhutan, Libya, Mongolia, S
 
 **Book 12:** *Information and Communication Technology for Rwandan Schools — Secondary 2, Student's Book* (student book, English) — Rwanda, Kenya Literature Bureau, Nairobi; year 2017; ISBN 978-9966-10-596-7. 320 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/rwanda-placements.md.
 
+**Book 13:** *ແບບຮຽນ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ (ICT) — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 5 (Textbook, ICT, Secondary Year 5)* (student book, Lao) — Laos, Ministry of Education and Sports, Research Institute of Educational Sciences; year 2013; ISBN: no ISBN printed. 114 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
+**Book 14:** *ແບບຮຽນ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 7 (Textbook, ICT, Secondary Year 7)* (student book, Lao) — Laos, Ministry of Education and Sports, Research Institute of Educational Sciences; year 2016; ISBN: no ISBN printed. 274 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | What antivirus software is for; the malware list including botnets, rootkits, keyloggers | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 5, printed p. 192 |
@@ -41,8 +44,10 @@ countries: Ethiopia, Afghanistan, Saudi Arabia, Iraq, Bhutan, Libya, Mongolia, S
 | Ch.6 Removing viruses with antivirus programs (Norton, McAfee, Sophos, Panda, AVG, Kaspersky, Avira, Avast); protection: firewall, backups, updates, admin/user accounts, original software | Sri Lanka Grade 11 G11 ICT Textbook (Tamil), printed p. 246 |
 | Measures to prevent harmful programs: antivirus, scanning, backup and restore (teacher guide — evidence) | Rwanda Grade 8 S2 ICT Teacher Guide, printed p. 24 (teacher guide — evidence) |
 | Measures to prevent harmful programs | Rwanda Grade 8 S2 ICT Student Book, printed p. 15 |
+| Ch.3 §2.2 Preventing and removing viruses | Laos Grade 10 ICT student, printed p. 47 |
+| Ch.6 §III Choosing a computer security system (how viruses get in, symptoms of infection, preventing and removing viruses) | Laos Grade 12 ICT student, printed p. 251 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Afghanistan, Saudi Arabia, Iraq, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda).**
+**Acceptance count: taught in 10 countries (Ethiopia, Afghanistan, Saudi Arabia, Iraq, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda, Laos).**
 
 Afghanistan's own way (Grade 12): the final year turns outward — computers in society (e-commerce, communications, even military systems), system software and virus protection, then Excel for the first time and a closing block on the Web, e-mail and browsers (taught through Internet Explorer).
 
@@ -66,4 +71,8 @@ Rwanda's own way (S2 ICT Teacher Guide, KLB): S2 moves to data protection, ICT i
 
 Rwanda's own way (S2 ICT Student Book, KLB): the student companion to the S2 guide — the same nine units, taught through Rwandan financial life (mobile banking, ATMs, stock exchange) and Scratch game projects (Helicopter Game, Moving Eyes Game).
 
-Searchable tags: antivirus, scan detect remove, botnets, rootkits, keyloggers, malware protection, Grade 10 ICT Ethiopia, afghanistan, mauritania, grade 8, saudi arabia, grade 3, iraq, grade 10, bhutan, class viii, libya, grade 12 it humanities, grade 12 it science, mongolia, grade 7 it vii, sri lanka, grade 11 tamil, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book
+Laos's own way (Grade 10 ICT student book): the upper-secondary course turns conceptual — a full information-systems syllabus (organisations, TPS/MIS/DSS/EIS/expert/office systems, the development life cycle), then the series' deepest security chapter (firewalls, cookies, spyware, spam, employee monitoring, privacy law), closing with artificial intelligence, with DOS and Unix taught alongside Windows in the senior years' background.
+
+Laos's own way (Grade 12 ICT student book): the final year is a modern, applied course — problem-solving method, a long English-titled internet-safety sequence (Internet Safety, Email Tips for Scams and Spam, Smart Social Networking, Cyber harassment/Stalking/Addiction), data summaries and PivotTables for decision-making, copyright and Creative Commons licensing, a full PowerPoint course, and choosing technology for your future occupation.
+
+Searchable tags: antivirus, scan detect remove, botnets, rootkits, keyloggers, malware protection, Grade 10 ICT Ethiopia, afghanistan, mauritania, grade 8, saudi arabia, grade 3, iraq, grade 10, bhutan, class viii, libya, grade 12 it humanities, grade 12 it science, mongolia, grade 7 it vii, sri lanka, grade 11 tamil, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, laos, grade 10 ict student, grade 12 ict student

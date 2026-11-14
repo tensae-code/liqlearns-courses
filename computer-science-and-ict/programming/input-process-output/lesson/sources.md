@@ -1,6 +1,6 @@
 # Sources — Input, process, output
 
-countries: Ethiopia, North Macedonia, Saudi Arabia, Iraq, Sudan, Fiji, Bhutan, Mongolia
+countries: Ethiopia, North Macedonia, Saudi Arabia, Iraq, Sudan, Fiji, Bhutan, Mongolia, Laos
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -24,6 +24,8 @@ countries: Ethiopia, North Macedonia, Saudi Arabia, Iraq, Sudan, Fiji, Bhutan, M
 
 **Book 11:** *Мэдээллийн технологи XII (Information Technology XII)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar; year 2019 (2nd edition; bibliographic entry УБ.2018); ISBN 978-99978-61-88-7. Authors: Д.Цэдэвсүрэн, С.Уянга, Л.Мөнхтуяа, Э.Оюунбилэг, Б.Золзаяа. No PDF of this book is held — the books.json record is not on disk and not pushed, and every securing route failed; read in full instead from a public FlipHTML5 copy of the same edition (fliphtml5.com/nhpep/qwmp), whose text layer covers every page (148 printed pages); cover and title/imprint pages verified from the flipbook's first pages against the record title. Verdict: COMPLETE (read in full via the flipbook copy; no library PDF held — a library debt, carried exactly as filed in the placements file, not a merge problem). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
 
+**Book 12:** *ແບບຮຽນ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 7 (Textbook, ICT, Secondary Year 7)* (student book, Lao) — Laos, Ministry of Education and Sports, Research Institute of Educational Sciences; year 2016; ISBN: no ISBN printed. 274 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The input–process–output model; its sources of input and forms of output | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed p. 222 |
@@ -32,6 +34,7 @@ countries: Ethiopia, North Macedonia, Saudi Arabia, Iraq, Sudan, Fiji, Bhutan, M
 | 1.1 Components and their functions: input, processor, output, storage | Fiji, *Computer Education, Year 11*, printed p. 8 |
 | 1.2 Information Processing by a Computer (IPO model) | Bhutan, *Literacy with ICT, Class V*, printed p. 6 |
 | 3.1.1 The system and the "Input–Process–Output" model (open and closed systems; the information life cycle — collect, organise and check, store, process, analyse, transmit, present; Mongolia's labour-force survey worked through every stage) | Mongolia Grade 12 IT XII, printed p. 73 |
+| Ch.1 §I The data-handling system (input, processing, storage, presenting data and information) (filed as first-steps/input-process-output; stocked in this lesson because this lesson teaches the input–process–output model as its whole thing — data in, processing, results out, with storage in the journey — the same data-handling system Laos's section teaches; the placements file filed it under First Steps, and the live lesson of this exact name sits in Programming) | Laos Grade 12 ICT student, printed p. 1 |
 
 | Solving problems with a computer — the seven steps; A + B = C; the everyday-algorithm activity (Grade 10 growth) | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 6, printed pp. 204–205 |
 | The five problem-solving steps; the input–process–output skeleton; the 15-period budget (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 10*, Unit 6, printed pp. 103–104, 107 |
@@ -40,7 +43,7 @@ countries: Ethiopia, North Macedonia, Saudi Arabia, Iraq, Sudan, Fiji, Bhutan, M
 | Strand 5 Unit 1 Computer Architecture, Topic Computer System, Lesson 1: Information Processing Cycle (filed as first-steps/the-information-processing-cycle-cake; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence, PARTIAL) | Papua New Guinea, *PNG Grade 9 Computer Technology TG*, printed p. 46 (teacher guide — evidence, PARTIAL) |
 | Unit 4, 4-6: Input and output in BASIC — INPUT, PRINT and LPRINT, READ and DATA | Sudan, *Computer Science, Grade 11*, printed p. 41 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, North Macedonia, Saudi Arabia, Iraq, Sudan, Fiji, Bhutan, Mongolia).**
+**Acceptance count: taught in 9 countries (Ethiopia, North Macedonia, Saudi Arabia, Iraq, Sudan, Fiji, Bhutan, Mongolia, Laos).**
 
 Book errors taught corrected, flagged here as this growth teaches the unit's opening outcomes: the Grade 10 student book's Unit 6 outcomes header spells the unit “FUNDAMENTALS OF PROGRAMING” with one M (a misprint) — the lessons use the correct spelling, Fundamentals of Programming. In the teacher guide, the §6.8 answer key defines an algorithm as a sequence of “ambiguous” step-by-step instructions — the opposite of both books' wording everywhere else (unambiguous); the worked-problems lesson teaches the corrected word and flags the slip there too. The guide's keys for every unit's objective items (Unit 5 printed p. 101; Unit 6 printed p. 116) were used as the verified answer source for this build's Grade 10 question files.
 
@@ -60,4 +63,6 @@ Bhutan's own way (Class V, Literacy with ICT student book): Word is taught toget
 
 Mongolia's own way (Grade 12): the final book measures everything against Mongolia itself — the ITU index and Mongolia's slipping rank in it, 36,760 km of fibre to 299 soums, the Mongolsat-1 satellite, IoT chips on livestock, telemedicine at the State Central Hospital, the ХУР state data-exchange and ТҮЦ service machines, nano-products from horse bone and ger covers — and its chapter projects are real Mongolian systems: a school ICT-development survey, a study of the ebarimt VAT-receipt system, and a Small Basic "Bouncing Ball" game; programming examples draw the alkhan khee meander with a Turtle subprogram.
 
-Searchable tags: input process output, IPO model, CPU, Grade 9 ICT Ethiopia Unit 6, north macedonia, grade 10, saudi arabia, grade 3, iraq, grade 7, papua new guinea, grade 9, sudan, grade 11, fiji, year 11, bhutan, class v, mongolia, grade 12 it xii
+Laos's own way (Grade 12 ICT student book): the final year is a modern, applied course — problem-solving method, a long English-titled internet-safety sequence (Internet Safety, Email Tips for Scams and Spam, Smart Social Networking, Cyber harassment/Stalking/Addiction), data summaries and PivotTables for decision-making, copyright and Creative Commons licensing, a full PowerPoint course, and choosing technology for your future occupation.
+
+Searchable tags: input process output, IPO model, CPU, Grade 9 ICT Ethiopia Unit 6, north macedonia, grade 10, saudi arabia, grade 3, iraq, grade 7, papua new guinea, grade 9, sudan, grade 11, fiji, year 11, bhutan, class v, mongolia, grade 12 it xii, laos, grade 12 ict student

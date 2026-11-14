@@ -1,6 +1,6 @@
 # Sources — ORDER BY — ascending and descending results
 
-countries: Ethiopia, Belarus, Libya
+countries: Ethiopia, Belarus, Libya, Laos
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (AAU, Bahir Dar, Jimma thanked). Writers: Teshome Alemu Wedajo, Wendwesen Endale Workneh. Aug 2023, GEQIP-E, no ISBN. PDF 210 pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -9,6 +9,8 @@ countries: Ethiopia, Belarus, Libya
 **Book 3:** *Інфарматыка — вучэбны дапаможнік для 11 класа агульнаадукацыйных устаноў з беларускай мовай навучання (Інфарматыка. 11 клас)* (student book, Belarusian) — Belarus, Народная асвета, Мінск. Authors: Г. А. Забароўскі, А. Я. Пупцаў. 2010. ISBN 978-985-03-1371-3. 152 PDF pages. Verdict: COMPLETE. Read in full (full text layer). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/belarus-placements.md.
 
 **Book 4:** *تقنية المعلومات للسنة الأولى بمرحلة التعليم الثانوي — كتاب الطالب (Information Technology, first year of secondary education = Grade 10, student book)* (student book, Arabic) — Libya, Libya Ministry of Education, Centre for Educational Curricula and Research (مركز المناهج التعليمية والبحوث التربوية). Year 2019-2020 (1440-1441 AH); no ISBN printed. 144 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/libya-placements.md.
+
+**Book 5:** *ແບບຮຽນ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 6 (Textbook, ICT, Secondary Year 6)* (student book, Lao) — Laos, Ministry of Education and Sports, Research Institute of Educational Sciences; year 2015; ISBN: no ISBN printed. 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -19,8 +21,9 @@ countries: Ethiopia, Belarus, Libya
 | § 14 "Сартаванне запісаў у табліцы" (sorting records in a table) | Belarus, *Інфарматыка. 11 клас*, § 14, printed p. 129 |
 | Ch 7, sorting records; viewing summary statistics; printing a datasheet | Libya Grade 10 IT student, printed p. 88 |
 | Ch 9, setting field sorting in a query | Libya Grade 10 IT student, printed p. 112 |
+| Ch.2 §7 Searching and sorting data | Laos Grade 11 ICT student, printed p. 87 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Belarus, Libya).**
+**Acceptance count: taught in 4 countries (Ethiopia, Belarus, Libya, Laos).**
 
 Belarus's own way (Grade 11): grade 11 is a web-and-data year — hand-written HTML in Notepad, then the same site rebuilt in FrontPage, a long PascalABC graphics practicum borrowed from other school subjects, and a full Access database course (tables, links, forms, queries, sorting, reports).
 
@@ -28,4 +31,6 @@ Honesty: the sorting teaching is pupil-taught from the student book; the both-di
 
 Libya's own way (Grade 10, Information Technology student book): the entire Grade 10 year is databases — theory first (concepts, ER modelling, the relational model, mapping ER to tables), then a long Microsoft Access 2007 practical (environment, tables, data entry, relationships, queries, forms, reports) and three set projects at the end. The secondary line is تقنية المعلومات (Information Technology).
 
-Searchable tags: ORDER BY, ASC, DESC, sorting, ascending, descending, DQL, Ethiopia Grade 12, belarus, libya, grade 10 it student
+Laos's own way (Grade 11 ICT student book): a single-topic year — databases from first principles (the data hierarchy is taught as a Lao glossary table: Bit, Byte/Character, Field, Record, Files, Database) into a complete MS Access 2007 build: tables, relationships, forms, queries, reports.
+
+Searchable tags: ORDER BY, ASC, DESC, sorting, ascending, descending, DQL, Ethiopia Grade 12, belarus, libya, grade 10 it student, laos, grade 11 ict student

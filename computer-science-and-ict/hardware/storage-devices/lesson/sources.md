@@ -1,6 +1,6 @@
 # Sources — Storage devices — keeping data
 
-countries: Ethiopia, Tanzania, Saudi Arabia, Iraq, Fiji, Bhutan, Mongolia, Sri Lanka
+countries: Ethiopia, Tanzania, Saudi Arabia, Iraq, Fiji, Bhutan, Mongolia, Sri Lanka, Laos
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -25,6 +25,8 @@ countries: Ethiopia, Tanzania, Saudi Arabia, Iraq, Fiji, Bhutan, Mongolia, Sri L
 
 **Book 12:** *Information & Communication Technology — Reading Book, Grade 7* (student book, English) — Sri Lanka, Educational Publications Department; year 2019 (second print, first 2018); ISBN 978-955-25-0114-2. 136 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
 
+**Book 13:** *ແບບຮຽນ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 3 (Textbook, ICT, Secondary Year 3)* (student book, Lao) — Laos, Ministry of Education and Sports, Research Institute of Educational Sciences; year 2012; ISBN: no ISBN printed. 114 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Storage devices — keeping data | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 2, printed p. 23 |
@@ -39,8 +41,9 @@ countries: Ethiopia, Tanzania, Saudi Arabia, Iraq, Fiji, Bhutan, Mongolia, Sri L
 | 1.2.3 Information storage devices (RAM, hard disk, CD/DVD/Blu-ray, flash disk, memory cards compared) | Mongolia Grade 7 IT VII, printed p. 21 |
 | Ch.1 Components: internal/external storage devices | Sri Lanka Grade 6 G6 ICT Textbook, printed p. 7 |
 | Ch.2 Computer storage devices and capacities | Sri Lanka Grade 7 G7 ICT Textbook, printed p. 12 |
+| Ch.1 §1.4 Storage devices | Laos Grade 8 ICT student, printed p. 10 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Tanzania, Saudi Arabia, Iraq, Fiji, Bhutan, Mongolia, Sri Lanka).**
+**Acceptance count: taught in 9 countries (Ethiopia, Tanzania, Saudi Arabia, Iraq, Fiji, Bhutan, Mongolia, Sri Lanka, Laos).**
 
 No book error touches this lesson's content.
 
@@ -64,4 +67,6 @@ Sri Lanka's own way (Grade 6 Reading Book): a story/dialogue-led "Reading Book" 
 
 Sri Lanka's own way (Grade 7 Reading Book): the CPU is taught through a hotel-kitchen/chef analogy; programme development (decomposition, flowcharts, variables, bugs) precedes presentation software; HTML page-building is already in Grade 7.
 
-Searchable tags: storage devices — keeping data, hardware, grade 7, information technology, ict, ethiopia, tanzania, mauritania, grade 7, saudi arabia, grade 3, iraq, grade 8, cuba, grade 2, fiji, years 7-8, bhutan, class v, mongolia, grade 11 it xi, grade 7 it vii, sri lanka, grade 6 reading book, sri lanka, grade 7 reading book
+Laos's own way (Grade 8 ICT student book): a full PC-technician year in full colour — learners take a computer apart and rebuild it (CPU, RAM, board, cards, drives), install Windows XP and drivers, fix install faults by BIOS beep codes, then finish with networks and the internet.
+
+Searchable tags: storage devices — keeping data, hardware, grade 7, information technology, ict, ethiopia, tanzania, mauritania, grade 7, saudi arabia, grade 3, iraq, grade 8, cuba, grade 2, fiji, years 7-8, bhutan, class v, mongolia, grade 11 it xi, grade 7 it vii, sri lanka, grade 6 reading book, sri lanka, grade 7 reading book, laos, grade 8 ict student

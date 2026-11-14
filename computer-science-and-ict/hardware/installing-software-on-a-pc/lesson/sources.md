@@ -1,6 +1,6 @@
 # Sources — Installing software on a PC
 
-countries: Ethiopia, Mozambique, Egypt, Fiji, Mongolia, Rwanda
+countries: Ethiopia, Mozambique, Egypt, Fiji, Mongolia, Rwanda, Laos
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked). Writers: Teshome Alemu Wedajo, Wendwesen Endale Workneh. August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN. PDF 210 pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Mozambique, Egypt, Fiji, Mongolia, Rwanda
 
 **Book 10:** *Information and Communication Technology (ICT) for Rwanda Schools — Teacher's Guide, Senior Three* (teacher guide, English) — Rwanda, Fountain Publishers Rwanda Ltd, Kigali (author Isaac K. Kiwanuka); year 2017; ISBN 978-9970-19-422-3. 244 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/rwanda-placements.md. (teacher guide — evidence)
 
+**Book 11:** *ແບບຮຽນ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 3 (Textbook, ICT, Secondary Year 3)* (student book, Lao) — Laos, Ministry of Education and Sports, Research Institute of Educational Sciences; year 2012; ISBN: no ISBN printed. 114 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Trusted sources first | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 5, printed pp. 137–138 |
@@ -39,8 +41,9 @@ countries: Ethiopia, Mozambique, Egypt, Fiji, Mongolia, Rwanda
 | Installation of software and system requirements; installing an operating system (disk partitioning, FAT32/NTFS file systems, Windows 10 fresh install) | Rwanda Grade 9 S3 ICT Student Book, printed p. 10 |
 | Installing application software: MS Office 2016 and Skype, product keys and activation | Rwanda Grade 9 S3 ICT Student Book, printed p. 18 |
 | Downloading software and installation of software (application and utility) (teacher guide — evidence) | Rwanda Grade 9 S3 ICT Teacher Guide, printed p. 1 (teacher guide — evidence) |
+| Ch.3 §3.3 Installing basic programs | Laos Grade 8 ICT student, printed p. 66 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Mozambique, Egypt, Fiji, Mongolia, Rwanda).**
+**Acceptance count: taught in 7 countries (Ethiopia, Mozambique, Egypt, Fiji, Mongolia, Rwanda, Laos).**
 
 Teacher-guide material is labelled (teacher guide — evidence) where it appears and never counts as pupil-taught. The student book uses the number "Activity 5.2" twice in this unit (for the uninstalling activity and again for the software-troubleshooting activity); the lesson teaches the procedures themselves, not the activity numbers.
 
@@ -58,4 +61,6 @@ Rwanda's own way (S3 ICT Learner's Book, Fountain): the same ten units as the S3
 
 Rwanda's own way (S3 ICT Teacher Guide, Fountain): the S3 guide (a different publisher from the KLB S1/S2 set) organises the year into four study areas — application software, GIS/spreadsheets/presentations, graphics and multimedia, networks and programming — ending in platform game programming in Scratch. (teacher guide — evidence)
 
-Searchable tags: installing software, seven steps, AutoPlay, User Account Control, serial number, trusted sources, Grade 12 ICT Ethiopia, mozambique, papua new guinea, grade 10, egypt, grade 7, fiji, year 13, mongolia, grade 8 it viii, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide
+Laos's own way (Grade 8 ICT student book): a full PC-technician year in full colour — learners take a computer apart and rebuild it (CPU, RAM, board, cards, drives), install Windows XP and drivers, fix install faults by BIOS beep codes, then finish with networks and the internet.
+
+Searchable tags: installing software, seven steps, AutoPlay, User Account Control, serial number, trusted sources, Grade 12 ICT Ethiopia, mozambique, papua new guinea, grade 10, egypt, grade 7, fiji, year 13, mongolia, grade 8 it viii, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, laos, grade 8 ict student

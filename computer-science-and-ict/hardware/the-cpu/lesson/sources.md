@@ -1,6 +1,6 @@
 # Sources — The CPU — the brain of the computer
 
-countries: Ethiopia, Afghanistan, Yemen, Sudan, Sri Lanka
+countries: Ethiopia, Afghanistan, Yemen, Sudan, Sri Lanka, Laos
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Afghanistan, Yemen, Sudan, Sri Lanka
 
 **Book 7:** *Information and Communication Technology — Workbook, Grade 7* (student book, English) — Sri Lanka, Educational Publications Department; year 2019; ISBN 978-955-25-0116-6. 72 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
 
+**Book 8:** *ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ (ICT) — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 2 (ICT, Secondary Year 2)* (student book, Lao) — Laos, Ministry of Education, Research Institute of Educational Sciences (ສ.ວ.ສ); year 2011; ISBN: no ISBN printed. 107 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The CPU — the brain of the computer | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 2, printed p. 20 |
@@ -25,8 +27,9 @@ countries: Ethiopia, Afghanistan, Yemen, Sudan, Sri Lanka
 | Ch.1 Components: CPU inside the system unit | Sri Lanka Grade 6 G6 ICT Textbook, printed p. 6 |
 | Ch.1 Central Processing Unit: identify CPU, kitchen/chef analogy | Sri Lanka Grade 7 G7 ICT Textbook, printed p. 1 |
 | Workbook Ch.1 Central Processing Unit exercises | Sri Lanka Grade 7 G7 ICT Workbook, printed p. 1 |
+| Ch.1 §3 The central processing unit | Laos Grade 7 ICT student, printed p. 4 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Afghanistan, Yemen, Sudan, Sri Lanka).**
+**Acceptance count: taught in 6 countries (Ethiopia, Afghanistan, Yemen, Sudan, Sri Lanka, Laos).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -42,4 +45,6 @@ Sri Lanka's own way (Grade 7 Reading Book): the CPU is taught through a hotel-ki
 
 Sri Lanka's own way (Grade 7 Workbook): a companion workbook mirroring the Reading Book chapter-for-chapter (CPU, OS, security, word processing, program development, presentations, internet).
 
-Searchable tags: the cpu — the brain of the computer, hardware, grade 7, information technology, ict, ethiopia, afghanistan, yemen, grade 10, sudan, grade 5, sri lanka, grade 6 reading book, sri lanka, grade 7 reading book, sri lanka, grade 7 workbook
+Laos's own way (Grade 7 ICT student book): the hardware year is taught through the von Neumann model (the book pictures John von Neumann beside an early machine) and the software chapter ends with a full comparison table of real compilers (Visual Basic, Turbo Pascal, C++, Fortran…) by platform and licence.
+
+Searchable tags: the cpu — the brain of the computer, hardware, grade 7, information technology, ict, ethiopia, afghanistan, yemen, grade 10, sudan, grade 5, sri lanka, grade 6 reading book, sri lanka, grade 7 reading book, sri lanka, grade 7 workbook, laos, grade 7 ict student

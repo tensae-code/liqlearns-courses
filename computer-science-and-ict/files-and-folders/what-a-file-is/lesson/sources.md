@@ -1,6 +1,6 @@
 # Sources — What a file is
 
-countries: Ethiopia, Djibouti, Uganda, Yemen, Bhutan, Sri Lanka
+countries: Ethiopia, Djibouti, Uganda, Yemen, Bhutan, Sri Lanka, Laos
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pages. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -26,6 +26,8 @@ countries: Ethiopia, Djibouti, Uganda, Yemen, Bhutan, Sri Lanka
 
 **Book 12:** *Information & Communication Technology — Reading Book, Grade 7* (student book, English) — Sri Lanka, Educational Publications Department; year 2019 (second print, first 2018); ISBN 978-955-25-0114-2. 136 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
 
+**Book 13:** *ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ (ICT) — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 1 (Information and Communication Technology, Secondary Year 1)* (student book, Lao) — Laos, Ministry of Education, Research Institute of Educational Sciences (ສ.ວ.ສ); year 2010; ISBN: no ISBN printed. 102 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What a file is | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, §1.1, printed pp. 2–3 |
@@ -44,8 +46,9 @@ countries: Ethiopia, Djibouti, Uganda, Yemen, Bhutan, Sri Lanka
 | Ch.3 User interface, file, file name and extension | Sri Lanka Grade 6 G6 ICT Textbook, printed p. 28 |
 | Workbook Ch.3 Activities 3.1-3.5: OS and file management exercises | Sri Lanka Grade 6 G6 ICT Workbook, printed p. 18 |
 | Ch.2 File and folder concepts | Sri Lanka Grade 7 G7 ICT Textbook, printed p. 15 |
+| Ch.2 §10 Data files (file, record, field, shown with a Word table) | Laos Grade 6 ICT student, printed p. 36 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Yemen, Bhutan, Sri Lanka).**
+**Acceptance count: taught in 5 countries (Ethiopia, Yemen, Bhutan, Sri Lanka, Laos).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -63,4 +66,6 @@ Sri Lanka's own way (Grade 6 Workbook): a companion workbook whose numbered acti
 
 Sri Lanka's own way (Grade 7 Reading Book): the CPU is taught through a hotel-kitchen/chef analogy; programme development (decomposition, flowcharts, variables, bugs) precedes presentation software; HTML page-building is already in Grade 7.
 
-Searchable tags: what is a file, file icon, file extension, docx, pptx, xlsx, mp3, mp4, course road map, six units, files and folders, grade 9, information technology, ict, ethiopia, djibouti, uganda, yemen, grade 10, morocco, grade 1, bhutan, class iv, sri lanka, grade 6 reading book, sri lanka, grade 6 workbook, sri lanka, grade 7 reading book
+Laos's own way (Grade 6 ICT student book): a theory-only foundation year — no hands-on computer practicals at all; ICT is introduced through Lao daily-life examples (TV remote, household appliances) and every chapter opens with objectives, guiding questions and a discussion activity (ກິດຈະກໍາ) before the exposition. The RIES ICT line runs ມ.1–ມ.7 (Grades 6–12).
+
+Searchable tags: what is a file, file icon, file extension, docx, pptx, xlsx, mp3, mp4, course road map, six units, files and folders, grade 9, information technology, ict, ethiopia, djibouti, uganda, yemen, grade 10, morocco, grade 1, bhutan, class iv, sri lanka, grade 6 reading book, sri lanka, grade 6 workbook, sri lanka, grade 7 reading book, laos, grade 6 ict student

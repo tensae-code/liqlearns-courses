@@ -1,6 +1,6 @@
 # Sources — AI at work — eleven application areas
 
-countries: Ethiopia, Germany, Nepal, China, Egypt
+countries: Ethiopia, Germany, Nepal, China, Egypt, Laos
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Germany, Nepal, China, Egypt
 
 **Book 9:** *Computer and Information Technology — Second grade preparatory, Second Term 2025-2026* (student book, Arabic) — Egypt, Egypt Ministry of Education and Technical Education, 2025-2026. No ISBN printed. 80 PDF pages. Verdict: COMPLETE (Term 2 book: Units 3-4). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/egypt-placements.md.
 
+**Book 10:** *ແບບຮຽນ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ (ICT) — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 5 (Textbook, ICT, Secondary Year 5)* (student book, Lao) — Laos, Ministry of Education and Sports, Research Institute of Educational Sciences; year 2013; ISBN: no ISBN printed. 114 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The eleven application fields with their named examples — Tesla autopilot, RankBrain, Robonaut | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 2, printed pp. 32–38 |
@@ -31,8 +33,9 @@ countries: Ethiopia, Germany, Nepal, China, Egypt
 | Lesson 1, AI applications in daily life | Egypt, *Computer & ICT, Grade 7 Term 2*, printed p. 5 |
 | Unit 1 Lesson 1, intelligent systems against air pollution and drought | Egypt, *Computer & ICT, Grade 8 Term 1*, printed p. 6 |
 | Unit 3 Lesson 3 AI Around Us Everywhere | Egypt, *Computer and ICT, Grade 8 Term 2 (Arabic)*, printed p. 20 |
+| Ch.4 §6.7 Using AI and expert systems in business | Laos Grade 10 ICT student, printed p. 99 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Germany, Nepal, China, Egypt).**
+**Acceptance count: taught in 6 countries (Ethiopia, Germany, Nepal, China, Egypt, Laos).**
 
 Germany's book is held only as a PARTIAL copy (see the book entry above); this placement rests on the book's verified complete contents and sampled pages, and Germany is counted from that partially-held copy.
 
@@ -47,4 +50,6 @@ Egypt's own way (Grade 8, Term 1 student book): Two units — "Artificial Intell
 
 Egypt's own way (Grade 8, Term 2 student book (Arabic)): Term 2 teaches AI from the neuron up — artificial neuron, its role in AI — then Python for data analysis and even encryption with XOR, a depth most countries save for secondary school.
 
-Searchable tags: AI applications, Tesla autopilot, RankBrain, Robonaut, chatbots, precision farming, smart homes, Grade 11 ICT Ethiopia, germany, nepal, china, papua new guinea, grade 10, egypt, grade 7, grade 8
+Laos's own way (Grade 10 ICT student book): the upper-secondary course turns conceptual — a full information-systems syllabus (organisations, TPS/MIS/DSS/EIS/expert/office systems, the development life cycle), then the series' deepest security chapter (firewalls, cookies, spyware, spam, employee monitoring, privacy law), closing with artificial intelligence, with DOS and Unix taught alongside Windows in the senior years' background.
+
+Searchable tags: AI applications, Tesla autopilot, RankBrain, Robonaut, chatbots, precision farming, smart homes, Grade 11 ICT Ethiopia, germany, nepal, china, papua new guinea, grade 10, egypt, grade 7, grade 8, laos, grade 10 ict student

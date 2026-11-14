@@ -1,6 +1,6 @@
 # Sources — Animating slide content — entrance, emphasis, the Animation Pane
 
-countries: Ethiopia, Afghanistan, Iraq, Bhutan, Libya, Mongolia, Rwanda
+countries: Ethiopia, Afghanistan, Iraq, Bhutan, Libya, Mongolia, Rwanda, Laos
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Afghanistan, Iraq, Bhutan, Libya, Mongolia, Rwanda
 
 **Book 9:** *Information and Communication Technology (ICT) for Rwanda Schools — Teacher's Guide, Senior Three* (teacher guide, English) — Rwanda, Fountain Publishers Rwanda Ltd, Kigali (author Isaac K. Kiwanuka); year 2017; ISBN 978-9970-19-422-3. 244 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/rwanda-placements.md. (teacher guide — evidence)
 
+**Book 10:** *ແບບຮຽນ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 7 (Textbook, ICT, Secondary Year 7)* (student book, Lao) — Laos, Ministry of Education and Sports, Research Institute of Educational Sciences; year 2016; ISBN: no ISBN printed. 274 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — animations reveal items one at a time; the worked route on a bulleted slide: Animations tab, select bullets, hover to preview, More for the full list, Fade, Effect Options | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 3, printed pp. 127–128 |
@@ -32,8 +34,9 @@ countries: Ethiopia, Afghanistan, Iraq, Bhutan, Libya, Mongolia, Rwanda
 | 2.3.4 Animating objects in a presentation (entrance, emphasis, exit and motion-path effects; the Animation Pane; printing a presentation) | Mongolia Grade 7 IT VII, printed p. 56 |
 | Animation of a presentation; apply a slide transition effect | Rwanda Grade 9 S3 ICT Student Book, printed p. 185 |
 | Animation of a presentation (teacher guide — evidence) | Rwanda Grade 9 S3 ICT Teacher Guide, printed p. 103 (teacher guide — evidence) |
+| Ch.5 §VII.1 Creating animation in PowerPoint | Laos Grade 12 ICT student, printed p. 239 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Afghanistan, Iraq, Bhutan, Libya, Mongolia, Rwanda).**
+**Acceptance count: taught in 8 countries (Ethiopia, Afghanistan, Iraq, Bhutan, Libya, Mongolia, Rwanda, Laos).**
 
 Afghanistan's own way (Grade 11): grade 11 is the health-and-PowerPoint year — a full chapter on computer health and strain-relief exercises, then Word finished off (Format, Insert, Edit) before a five-lesson PowerPoint block and a first step onto the Web.
 
@@ -51,4 +54,6 @@ Rwanda's own way (S3 ICT Learner's Book, Fountain): the same ten units as the S3
 
 Rwanda's own way (S3 ICT Teacher Guide, Fountain): the S3 guide (a different publisher from the KLB S1/S2 set) organises the year into four study areas — application software, GIS/spreadsheets/presentations, graphics and multimedia, networks and programming — ending in platform game programming in Scratch. (teacher guide — evidence)
 
-Searchable tags: animations, Animations tab, Fade, Animation Pane, entrance, emphasis, Effect Options, Ethiopia Grade 10, afghanistan, iraq, grade 10, bhutan, class viii, libya, grade 12 it humanities, mongolia, grade 7 it vii, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide
+Laos's own way (Grade 12 ICT student book): the final year is a modern, applied course — problem-solving method, a long English-titled internet-safety sequence (Internet Safety, Email Tips for Scams and Spam, Smart Social Networking, Cyber harassment/Stalking/Addiction), data summaries and PivotTables for decision-making, copyright and Creative Commons licensing, a full PowerPoint course, and choosing technology for your future occupation.
+
+Searchable tags: animations, Animations tab, Fade, Animation Pane, entrance, emphasis, Effect Options, Ethiopia Grade 10, afghanistan, iraq, grade 10, bhutan, class viii, libya, grade 12 it humanities, mongolia, grade 7 it vii, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, laos, grade 12 ict student

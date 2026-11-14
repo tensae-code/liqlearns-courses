@@ -1,6 +1,6 @@
 # Sources - High-level languages - compilers and interpreters
 
-countries: Ethiopia, North Macedonia, Sudan, Uzbekistan, Cuba, Fiji, Libya, Malaysia, Mongolia, Sri Lanka, Kuwait
+countries: Ethiopia, North Macedonia, Sudan, Uzbekistan, Cuba, Fiji, Libya, Malaysia, Mongolia, Sri Lanka, Kuwait, Laos
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23.* (student textbook) - 170 PDF pages. Printed page = PDF page - 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -34,6 +34,9 @@ countries: Ethiopia, North Macedonia, Sudan, Uzbekistan, Cuba, Fiji, Libya, Mala
 
 **Book 16:** *تقنية المعلومات (Information Technology), Grade 10, Term 1* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: third edition 2026/2027 (first edition 2024/2025); ISBN: no ISBN printed. 162 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md.
 
+**Book 17:** *ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ (ICT) — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 2 (ICT, Secondary Year 2)* (student book, Lao) — Laos, Ministry of Education, Research Institute of Educational Sciences (ສ.ວ.ສ); year 2011; ISBN: no ISBN printed. 107 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
+**Book 18:** *ຄູ່ມືຄູ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ (ICT) — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 2 (Teacher's handbook, ICT, Secondary Year 2)* (teacher guide, Lao) — Laos, Ministry of Education, Research Institute of Educational Sciences (ສ.ວ.ສ); year 2012; ISBN: no ISBN printed. 121 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 - High-level languages (close to human language; concentrate on the problem; C, C++, Java, C#, Python, Perl, Ruby) | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 6, printed pp. 133-134 |
@@ -53,8 +56,10 @@ countries: Ethiopia, North Macedonia, Sudan, Uzbekistan, Cuba, Fiji, Libya, Mala
 | Translators inside 1.2.2 (assembler, compiler, interpreter; machine code and object programs) | Mongolia Grade 11 IT XI, printed p. 51 |
 | Ch.1 Programming language translation: assemblers, compilers, interpreters; source/object code; bugs | Sri Lanka Grade 11 G11 ICT Textbook (Tamil), printed p. 5 |
 | Unit 2, Lesson 1: the Python language, and compiler vs interpreter | Kuwait Grade 10 Information Technology T1, printed p. 39 |
+| Ch.2 §2 Software and computer language (machine language, compiler, interpreter, compiler comparison table) | Laos Grade 7 ICT student, printed p. 47 |
+| Activity 17: Translator software and programming languages (teacher guide — evidence) | Laos Grade 7 ICT teacher guide, printed p. 78 (teacher guide — evidence) |
 
-**Acceptance count: taught in 11 countries (Ethiopia, North Macedonia, Sudan, Uzbekistan, Cuba, Fiji, Libya, Malaysia, Mongolia, Sri Lanka, Kuwait).**
+**Acceptance count: taught in 12 countries (Ethiopia, North Macedonia, Sudan, Uzbekistan, Cuba, Fiji, Libya, Malaysia, Mongolia, Sri Lanka, Kuwait, Laos).**
 
 No book error touches this lesson. The teacher guide's answer keys for this unit (teacher guide - evidence) were used as the verified answer source for this lesson's questions, as the guide's course-level placement directs (guide item 26; Unit 6 keys at guide printed pp. 118-121).
 
@@ -87,4 +92,8 @@ Sri Lanka's own way (Grade 11, Tamil): a full Visual Basic 6.0 programming cours
 
 Kuwait's own way (Grade 10 Information Technology Term 1): secondary school switches to the subject name Information Technology and a more academic register: a full cyber-security unit built on the CIA triad (with hands-on two-factor authentication in Google Authenticator and the Ministry app), then a complete first Python course in PyCharm — variables, strings, conditions, loops, debugging and exceptions — and a team-built digital product.
 
-Searchable tags: high-level languages, compiler, interpreter, translation, C, Java, Python, Grade 11 ICT Ethiopia, Unit 6 programming, north macedonia, grade 10, papua new guinea, grade 10, papua new guinea, grade 12, sudan, grade 6, grade 9, grade 11, uzbekistan, grade 9, cuba, grade 9, fiji, year 13, libya, grade 11 it student term 1, malaysia, grade 11 sk tingkatan 5, mongolia, grade 11 it xi, sri lanka, grade 11 tamil, kuwait, grade 10 information technology term 1
+Laos's own way (Grade 7 ICT student book): the hardware year is taught through the von Neumann model (the book pictures John von Neumann beside an early machine) and the software chapter ends with a full comparison table of real compilers (Visual Basic, Turbo Pascal, C++, Fortran…) by platform and licence.
+
+Laos's own way (Grade 7 ICT teacher guide): uniquely, this guide — not the student book — carries the real software syllabus: separate activities for DOS, Windows/Linux, Unix/Mac, translators, BASIC and C, Logo, Java, and one activity per application family — a teacher-only expanded software syllabus. (teacher guide — evidence)
+
+Searchable tags: high-level languages, compiler, interpreter, translation, C, Java, Python, Grade 11 ICT Ethiopia, Unit 6 programming, north macedonia, grade 10, papua new guinea, grade 10, papua new guinea, grade 12, sudan, grade 6, grade 9, grade 11, uzbekistan, grade 9, cuba, grade 9, fiji, year 13, libya, grade 11 it student term 1, malaysia, grade 11 sk tingkatan 5, mongolia, grade 11 it xi, sri lanka, grade 11 tamil, kuwait, grade 10 information technology term 1, laos, grade 7 ict student, grade 7 ict teacher guide

@@ -1,6 +1,6 @@
 # Sources — What security and computer security mean
 
-countries: Ethiopia, Tanzania, China, Sudan
+countries: Ethiopia, Tanzania, China, Sudan, Laos
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -16,12 +16,15 @@ countries: Ethiopia, Tanzania, China, Sudan
 
 **Book 7:** *تكنولوجيا المعلومات والاتصالات — الصف السادس، المرحلة الابتدائية (Information and Communication Technology, Sixth Grade, Primary Stage), Grade 6* (student book, Arabic) — Sudan, Republic of Sudan, Ministry of Education, National Center for Curricula and Educational Research (NCCER), Bakht Al-Ruda; printed by Sudan Currency Printing Press. Year 2020, first edition. No ISBN printed. 56 PDF pages. Verdict: COMPLETE — an image-only CamScanner scan, read in full from 100-DPI contact sheets. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sudan-placements.md.
 
+**Book 8:** *ແບບຮຽນ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ (ICT) — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 5 (Textbook, ICT, Secondary Year 5)* (student book, Lao) — Laos, Ministry of Education and Sports, Research Institute of Educational Sciences; year 2013; ISBN: no ISBN printed. 114 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Security defined; INSA introduced | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 5, printed p. 192 |
 | Computer security defined; authorised vs unauthorised (the textbook example) | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 5, printed p. 192 |
 | Information System Security Risks | China, *IT Compulsory 2*, Chapter 4 §4.1.1, printed p. 115 |
 | Data Security | China, *IT Compulsory 1 (Grade 11 record)*, Chapter 3 §3.2.3, printed p. 100 |
+| Ch.3 §1 Concepts of keeping computers secure | Laos Grade 10 ICT student, printed p. 38 |
 
 | Information security — the nine-act definition (Grade 10 growth) | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 5, printed pp. 182–183 |
 | Computer security — devices, networks, the whole internet; the three protection reasons; exposure by connection; hackers (Grade 10 growth) | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 5, printed pp. 182–183, 185 |
@@ -29,10 +32,12 @@ countries: Ethiopia, Tanzania, China, Sudan
 | Computer security | Tanzania, *Information and Computer Studies, Form One Student's Book*, printed p. 127 |
 | Unit 2 Lesson 2: Information security | Sudan, *ICT, Grade 6*, printed p. 14 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Tanzania, China, Sudan).**
+**Acceptance count: taught in 5 countries (Ethiopia, Tanzania, China, Sudan, Laos).**
 
 Grade 10 growth added 2026-11-12 from the Grade 10 student book, Unit 5, and the Grade 10 teacher guide's Unit 5 review key (printed pp. 101–102), which also served as a verified answer source for this build's Grade 10 Unit 5 question files (the guide keys every unit's objective items — Unit 5 at printed p. 101, Unit 6 at printed p. 116). Book error flagged in the unit's student placements and handled here: the Unit 5 figure sequence in the student book jumps to “Figure 5.14” for its cyber-attack picture; no lesson in this growth cites that figure number — the picture's content is taught, the wrong number is not.
 
 Sudan's own way (Grade 6): the final primary book is built around real Sudanese systems — networks and cloud first, then a full security unit taught through named children's everyday internet dilemmas, and a worked example of the ipSchools school-management system (with a real Bakht Al-Ruda school results table) before closing with computers in banks and police work.
 
-Searchable tags: security, computer security, INSA, unauthorised use, Grade 9 ICT Ethiopia Unit 5, tanzania, china, sudan, grade 6
+Laos's own way (Grade 10 ICT student book): the upper-secondary course turns conceptual — a full information-systems syllabus (organisations, TPS/MIS/DSS/EIS/expert/office systems, the development life cycle), then the series' deepest security chapter (firewalls, cookies, spyware, spam, employee monitoring, privacy law), closing with artificial intelligence, with DOS and Unix taught alongside Windows in the senior years' background.
+
+Searchable tags: security, computer security, INSA, unauthorised use, Grade 9 ICT Ethiopia Unit 5, tanzania, china, sudan, grade 6, laos, grade 10 ict student

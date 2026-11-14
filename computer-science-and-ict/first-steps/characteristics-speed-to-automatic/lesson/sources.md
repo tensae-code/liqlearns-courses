@@ -1,6 +1,6 @@
 # Sources — Characteristics of computers — speed, accuracy, diligence, versatility, reliability, automatic
 
-countries: Ethiopia, Saudi Arabia, Fiji
+countries: Ethiopia, Saudi Arabia, Fiji, Laos
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, no year printed (no ISBN printed), 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -8,13 +8,16 @@ countries: Ethiopia, Saudi Arabia, Fiji
 
 **Book 3:** *Computer Education Textbook for Primary School Years 7-8* (student book, English) — Fiji, Fiji Ministry of Education (source: education.gov.fj via the record's source_url; no imprint page in the PDF as received — the PDF contains no cover, title page, contents or imprint). Year not printed in the PDF as received; no ISBN printed in the PDF as received. 229 PDF pages. Verdict: PARTIAL — front matter missing: the PDF begins at Unit 1 (printed p. 1) with no cover, title page, contents or imprint; all 9 units are present through printed p. 229. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
 
+**Book 4:** *ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ (ICT) — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 1 (Information and Communication Technology, Secondary Year 1)* (student book, Lao) — Laos, Ministry of Education, Research Institute of Educational Sciences (ສ.ວ.ສ); year 2010; ISBN: no ISBN printed. 102 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson | Ethiopia, *Information Technology*, Student textbook, Unit 1 §1.4, printed pp. 14–15 |
 | Lesson 2: Features of the computer (storage capacity, speed measured in GHz, accuracy, easy data exchange, multitasking; what to look for when buying a new device) | Saudi Arabia, *Al-Hasib wa Tiqniyat al-Ma'lumat (Computer and Information Technology), Grade 3 Term 1*, printed p. 12 |
 | Unit 1.2 Features that make the computer powerful (speed, reliability, storage) | Fiji, *Computer Education, Years 7–8* (PARTIAL — front matter missing), printed p. 3 |
+| Ch.4 §2 Capabilities of computers | Laos Grade 6 ICT student, printed p. 67 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Saudi Arabia, Fiji).**
+**Acceptance count: taught in 4 countries (Ethiopia, Saudi Arabia, Fiji, Laos).**
 
 Nothing in this lesson claims a page the placements do not give; the lesson's content is the placements' content, re-expressed for the learner, with the book's own examples kept.
 
@@ -22,4 +25,6 @@ Saudi Arabia's own way (Grade 3, continuing education): a workbook-style book fo
 
 Fiji's own way (Years 7–8 Computer Education student book): A practical, exercise-driven primary book built around a class "students folder" of set files (work is saved as U<unit>-Ex<n>-<FirstName>); local Fijian names and schools throughout (e.g. Babasiga Secondary School), Internet searching is practised on the "Map of Fiji" with kids' search engines, and a full unit covers computers in Fijian society including Braille keyboards for blind learners. PARTIAL: the PDF as received has no cover, title page, contents or imprint — the PARTIAL label travels with every citation of this book.
 
-Searchable tags: characteristics of a computer, speed, accuracy, diligence, versatility, reliability, automatic, Ethiopia Grade 8, saudi arabia, grade 3, fiji, years 7-8
+Laos's own way (Grade 6 ICT student book): a theory-only foundation year — no hands-on computer practicals at all; ICT is introduced through Lao daily-life examples (TV remote, household appliances) and every chapter opens with objectives, guiding questions and a discussion activity (ກິດຈະກໍາ) before the exposition. The RIES ICT line runs ມ.1–ມ.7 (Grades 6–12).
+
+Searchable tags: characteristics of a computer, speed, accuracy, diligence, versatility, reliability, automatic, Ethiopia Grade 8, saudi arabia, grade 3, fiji, years 7-8, laos, grade 6 ict student

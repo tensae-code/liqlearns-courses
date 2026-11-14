@@ -1,6 +1,6 @@
 # Sources — Polya's four steps
 
-countries: Ethiopia, China, Uzbekistan, Egypt, Libya, Malaysia, Mongolia, Sri Lanka
+countries: Ethiopia, China, Uzbekistan, Egypt, Libya, Malaysia, Mongolia, Sri Lanka, Laos
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, China, Uzbekistan, Egypt, Libya, Malaysia, Mongolia, Sri La
 
 **Book 10:** *தகவல் தொடர்பாடல் தொழில்நுட்பம் (Information and Communication Technology), Grade 11* (student book, Tamil) — Sri Lanka, Educational Publications Department; year 2010 (second print, first 2009); no ISBN printed. 268 PDF pages. Verdict: COMPLETE (image-only scan read via 100-DPI 4-up contact sheets; the TSV release record and the books.json record are the same book, cited once). Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
 
+**Book 11:** *ແບບຮຽນ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 7 (Textbook, ICT, Secondary Year 7)* (student book, Lao) — Laos, Ministry of Education and Sports, Research Institute of Educational Sciences; year 2016; ISBN: no ISBN printed. 274 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Polya's four steps with their contents; the back-and-forth note | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed pp. 219–220 |
@@ -34,8 +36,9 @@ countries: Ethiopia, China, Uzbekistan, Egypt, Libya, Malaysia, Mongolia, Sri La
 | 1.1.3 Proses Penyelesaian Masalah | Malaysia Grade 10 SK Tingkatan 4, printed p. 14 |
 | 4.1 Problem solving (understand the problem, analyse it with the IPO model, design the algorithm, test, improve; divide and conquer and subproblems; top-down and bottom-up; syntax, runtime and logic errors; documentation — the user manual and the program manual; three pupils' solutions to one problem compared) | Mongolia Grade 12 IT XII, printed p. 110 |
 | Ch.1 Steps of solving problems with a computer: analysis, algorithm, coding, debugging with test data, execution | Sri Lanka Grade 11 G11 ICT Textbook (Tamil), printed p. 7 |
+| Ch.1 §II.1 Steps in solving a problem with ICT systems | Laos Grade 12 ICT student, printed p. 7 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, China, Uzbekistan, Egypt, Libya, Malaysia, Mongolia, Sri Lanka).**
+**Acceptance count: taught in 9 countries (Ethiopia, China, Uzbekistan, Egypt, Libya, Malaysia, Mongolia, Sri Lanka, Laos).**
 
 Book error, taught corrected: the student book's Polya table prints the typo "2tep 2" for Step 2; the lesson teaches Step 2 and flags the misprint here.
 
@@ -56,4 +59,6 @@ Mongolia's own way (Grade 12): the final book measures everything against Mongol
 
 Sri Lanka's own way (Grade 11, Tamil): a full Visual Basic 6.0 programming course inside the O/L book (IDE, controls, data types, Select Case, arrays), an SDLC chapter, Photoshop-based multimedia, hand-coded HTML with Sri Lankan examples (the Sinharaja rainforest page, ucsc.cmb.ac.lk addresses, sltnet.lk domains), and sector chapters (agriculture, industry, government, commerce) before malware and health.
 
-Searchable tags: Polya, four steps, problem solving, How to Solve It, Grade 9 ICT Ethiopia Unit 6, china, papua new guinea, grade 12, uzbekistan, grade 9, egypt, grade 9, libya, grade 11 it student term 1, grade 12 it science, malaysia, grade 10 sk tingkatan 4, mongolia, grade 12 it xii, sri lanka, grade 11 tamil
+Laos's own way (Grade 12 ICT student book): the final year is a modern, applied course — problem-solving method, a long English-titled internet-safety sequence (Internet Safety, Email Tips for Scams and Spam, Smart Social Networking, Cyber harassment/Stalking/Addiction), data summaries and PivotTables for decision-making, copyright and Creative Commons licensing, a full PowerPoint course, and choosing technology for your future occupation.
+
+Searchable tags: Polya, four steps, problem solving, How to Solve It, Grade 9 ICT Ethiopia Unit 6, china, papua new guinea, grade 12, uzbekistan, grade 9, egypt, grade 9, libya, grade 11 it student term 1, grade 12 it science, malaysia, grade 10 sk tingkatan 4, mongolia, grade 12 it xii, sri lanka, grade 11 tamil, laos, grade 12 ict student

@@ -1,6 +1,6 @@
 # Sources — INSERT — adding a record to a table
 
-countries: Ethiopia, Nepal, Malaysia, Kuwait
+countries: Ethiopia, Nepal, Malaysia, Kuwait, Laos
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (AAU, Bahir Dar, Jimma thanked). Writers: Teshome Alemu Wedajo, Wendwesen Endale Workneh. Aug 2023, GEQIP-E, no ISBN. PDF 210 pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -13,6 +13,8 @@ countries: Ethiopia, Nepal, Malaysia, Kuwait
 **Book 5:** *تقنية المعلومات (Information Technology), Grade 11, Term 1* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: second edition 2026/2027 (first edition 2025/2026); ISBN: no ISBN printed. 142 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md.
 **Book 6:** *تقنية المعلومات (Information Technology), Grade 11, Term 2* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: first edition 2025/2026; ISBN: no ISBN printed. 130 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md.
 
+**Book 7:** *ແບບຮຽນ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 6 (Textbook, ICT, Secondary Year 6)* (student book, Lao) — Laos, Ministry of Education and Sports, Research Institute of Educational Sciences; year 2015; ISBN: no ISBN printed. 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — INSERT form 1: values for all fields in table order | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 3, printed p. 79 |
@@ -23,8 +25,9 @@ countries: Ethiopia, Nepal, Malaysia, Kuwait
 | 2.1 SQL: Memanipulasi Data | Malaysia Grade 11 SK Tingkatan 5, printed p. 89 |
 | Unit 1, Lesson 4 Inserting Data: INSERT INTO with the (?) placeholder | Kuwait Grade 11 Information Technology T1, printed p. 53 |
 | Unit 1, Lesson 3 Inserting Data into Related Tables: adding rows to the classes and students tables with parameterised queries, and stopping a child row with no parent | Kuwait Grade 11 Information Technology T2, printed p. 39 |
+| Ch.2 §5 Adding and editing data in a table | Laos Grade 11 ICT student, printed p. 71 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Nepal, Malaysia, Kuwait).**
+**Acceptance count: taught in 5 countries (Ethiopia, Nepal, Malaysia, Kuwait, Laos).**
 
 Honesty: sub lessons 1–3 are pupil-taught from the student book; the diagnosis shapes in sub lesson 3 are teacher-guide evidence, labelled as such. No book error touches these statements as taught.
 
@@ -34,4 +37,6 @@ Kuwait's own way (Grade 11 Information Technology Term 1): Grade 11 does databas
 
 Kuwait's own way (Grade 11 Information Technology Term 2): Term 2 completes the database course with genuinely relational work — ERDs, parent/child tables, referential actions (ON UPDATE CASCADE, ON DELETE SET NULL) switched on with PRAGMA foreign_keys — still practised on the school_data.db and Kuwait_landmarks.db examples, and the AI project grows into an employee face-log system with programmatic reports (ReportLab).
 
-Searchable tags: INSERT, INSERT INTO, VALUES, form 1, form 2, quoting, DML, Ethiopia Grade 12, nepal, malaysia, grade 11 sk tingkatan 5, kuwait, grade 11 information technology term 1, grade 11 information technology term 2
+Laos's own way (Grade 11 ICT student book): a single-topic year — databases from first principles (the data hierarchy is taught as a Lao glossary table: Bit, Byte/Character, Field, Record, Files, Database) into a complete MS Access 2007 build: tables, relationships, forms, queries, reports.
+
+Searchable tags: INSERT, INSERT INTO, VALUES, form 1, form 2, quoting, DML, Ethiopia Grade 12, nepal, malaysia, grade 11 sk tingkatan 5, kuwait, grade 11 information technology term 1, grade 11 information technology term 2, laos, grade 11 ict student

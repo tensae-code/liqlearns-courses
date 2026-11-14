@@ -20,6 +20,8 @@ countries: Ethiopia, Sudan, Cuba, Bhutan, Libya, Kuwait
 
 **Book 9:** *المستكشف الرقمي (Digital Explorer), Grade 4, Term 2* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: first edition 2025/2026 (1447H); ISBN: no ISBN printed. 151 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md. Title mismatch carried as filed: both records (the TSV release asset and the books.json record) name this book 'Our Digital World / عالمنا الرقمي', but the cover and title page of the file itself print المستكشف الرقمي (Digital Explorer) — it is cited under its printed title, with the record mismatch noted. The front 'Digital Classroom' section repeats the Term 1 book's front section and is placed there, not double-counted here.
 
+**Book 10:** *ຄູ່ມືຄູ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ (ICT) — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 5 (Teacher's handbook, ICT, Secondary Year 5)* (teacher guide, Lao) — Laos, Ministry of Education and Sports, Research Institute of Educational Sciences; year 2014; ISBN: no ISBN printed. 125 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Practical Exercise 3.7 — the group presentation and its set tasks; saved in a Presentation Project folder in Documents | Ethiopia, Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed pp. 132, 135 |
@@ -31,6 +33,7 @@ countries: Ethiopia, Sudan, Cuba, Bhutan, Libya, Kuwait
 | 8 End of the Year Activity, Task 1: presentation with animation and multimedia elements | Bhutan, *Literacy with ICT, Class VIII*, printed p. 105 |
 | Ch 7, applications: a personal-introduction presentation, a presentation about a sample of Libyan kitchen dishes, a presentation about Libya's archaeological cities and landmarks | Libya Grade 12 IT Humanities, printed p. 101 |
 | Unit 2, Lesson 6 Project (2): design a presentation about the State of Kuwait; a presentation about science and light | Kuwait Grade 4 Digital Explorer T2, printed p. 139 |
+| Appendix ຄ: Creating and organising a presentation (teacher guide — evidence) | Laos Grade 10 ICT teacher guide, printed p. 105 (teacher guide — evidence) |
 
 **Acceptance count: taught in 6 countries (Ethiopia, Sudan, Cuba, Bhutan, Libya, Kuwait).**
 
@@ -50,4 +53,6 @@ Libya's own way (Grade 12 Humanities, Information Technology student book): the 
 
 Kuwait's own way (Grade 4 Digital Explorer Term 2, printed title — records name it 'Our Digital World'): the Digital World unit mixes identity (pride in Arabic language and identity online), cloud storage on the national platform (OneDrive inside Teams), and a three-lesson AI arc (data → training a machine → AI decisions) before the tool unit; PowerPoint is taught as a five-step 'Exciting Presentation' journey ending in presentations about Kuwait itself.
 
-Searchable tags: project, group presentation, Tourism Resources of Ethiopia, Damask, Integral theme, SmartArt, Ethiopia Grade 9, mauritania, grade 9, sudan, grade 6, cuba, grade 6, bhutan, class vii, class viii, libya, grade 12 it humanities, kuwait, grade 4 digital explorer term 2
+Laos's own way (Grade 10 ICT teacher guide): the guide quietly carries the year's only practical work as a supplementary appendix (ແນະນໍາເພີ່ມ, printed pp. 82–118) the student book does not contain — Google searching with Internet Explorer/Firefox, hand-coding a web page in Notepad (with w3schools named as the reference), a full PowerPoint 2007 course, and a DOS command-prompt practical. (teacher guide — evidence)
+
+Searchable tags: project, group presentation, Tourism Resources of Ethiopia, Damask, Integral theme, SmartArt, Ethiopia Grade 9, mauritania, grade 9, sudan, grade 6, cuba, grade 6, bhutan, class vii, class viii, libya, grade 12 it humanities, kuwait, grade 4 digital explorer term 2, laos, grade 10 ict teacher guide

@@ -1,0 +1,23 @@
+# Unix and Mac Operating Systems — matching
+
+Match each item on the left with the one it belongs to on the right.
+
+**1. (Sub lesson 1) Which two systems complete the guide's map?** → **Unix and the Macintosh system**
+
+**2. (Sub lesson 1) What is Unix built for?** → **Many users and many tasks at once on one machine**
+
+**3. (Sub lesson 1) How does Unix mainly work?** → **By the command line**
+
+**4. (Sub lesson 1) What is Unix famous for?** → **Stability on servers and large machines**
+
+**5. (Sub lesson 1) Which later system was made in Unix's image?** → **Linux**
+
+**6. (Sub lesson 2) Name two Unix ideas in modern systems.** → **Files in a tree, and permissions for each user**
+
+**7. (Sub lesson 2) Whose system is the Mac system?** → **Apple's — for its own computers**
+
+**8. (Sub lesson 2) What work is the Mac known for?** → **Design, publishing, picture and sound work**
+
+**9. (Sub lesson 2) How are Unix and Mac a family?** → **The modern Mac system is built on a Unix heart**
+
+**10. (Sub lesson 2) Which source teaches this lesson?** → **Laos Grade 7 ICT teacher guide, Activity 16 (teacher guide — evidence)**

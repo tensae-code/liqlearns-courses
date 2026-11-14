@@ -1,12 +1,14 @@
 # Sources — Page Setup — Margins and Orientation
 
-countries: Uganda, Rwanda
+countries: Uganda, Rwanda, Laos
 
 **Book 1:** *Information Communication Technology Textbook — Senior One* (NCDC Prototype, Lower Secondary Curriculum) (student book) — Uganda, National Curriculum Development Centre (NCDC), Kampala, 2020 (prototype). Grade 8 (Senior One). No ISBN printed. 52 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/uganda-placements.md.
 
 **Book 2:** *Information and Communication Technology for Rwandan Schools — Secondary 1, Students' Book* (student book, English) — Rwanda, Kenya Literature Bureau, Nairobi; year 2016; ISBN 978-9966-10-505-9. 264 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/rwanda-placements.md.
 
 **Book 3:** *Information and Communication Technology for Rwandan Schools — Secondary 1, Teacher's Guide* (teacher guide, English) — Rwanda, Kenya Literature Bureau, Nairobi; year 2017; ISBN 978-9966-10-478-6. 208 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/rwanda-placements.md. (teacher guide — evidence)
+
+**Book 4:** *ແບບຮຽນ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ (ICT) — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 4 (Textbook, ICT, Secondary Year 4)* (student book, Lao) — Laos, Ministry of Education and Sports, Research Institute of Educational Sciences; year 2013; ISBN: no ISBN printed. 104 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -16,8 +18,9 @@ countries: Uganda, Rwanda
 | Sub lesson 3 — Using columns in text | Uganda, *ICT Textbook Senior One*, printed p. 26 |
 | Manipulating a document: Page Setup group | Rwanda Grade 7 S1 ICT Student Book, printed p. 131 |
 | Unit 6 guide: word processing basics II (teacher guide — evidence) | Rwanda Grade 7 S1 ICT Teacher Guide, printed p. 82 (teacher guide — evidence) |
+| Ch.3 §3.2 Setting up the document page | Laos Grade 9 ICT student, printed p. 33 |
 
-**Acceptance count: taught in 2 countries (Uganda, Rwanda).**
+**Acceptance count: taught in 3 countries (Uganda, Rwanda, Laos).**
 
 Placement choice: this lesson was built new for the ICT expansion (Uganda, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked first: Word Processing holds lessons on opening, typing, formatting and tables, but none teaches page setup — orientation, margins and columns — as its own lesson. The placements file named this slug directly (NEW LESSON NEEDED — word-processing/page-setup-margins-and-orientation). It sits in the Word Processing title (word-processing/). It has three sub lessons: orientation first, then margins, then columns — three distinct sequential parts of setting up one page, each opening by proving the one before.
 
@@ -27,4 +30,6 @@ Rwanda's own way (S1 ICT Student Book, KLB): competency-based units each opening
 
 Rwanda's own way (S1 ICT Teacher Guide, KLB): the guide mirrors the student units with content maps, additional teacher content per unit, SEN/multi-ability support, sample lesson plans (Appendix 1) and a glossary (Appendix 2); assessment is framed by Rwanda's competence-based curriculum. (teacher guide — evidence)
 
-Searchable tags: page setup, margins, orientation, portrait, landscape, columns, word processing, uganda, grade 8, ncdc, rwanda, grade 7 s1 ict student book, rwanda, grade 7 s1 ict teacher guide
+Laos's own way (Grade 9 ICT student book): the first fully practical year — a screenshot-led Windows XP, Word and Excel course where every numbered topic is a click-by-click procedure (the Excel half even teaches the Chart Wizard and worksheet Page Setup with its Orientation/Paper Size/Page Numbering table in English). Windows XP-era office teaching runs through the middle years.
+
+Searchable tags: page setup, margins, orientation, portrait, landscape, columns, word processing, uganda, grade 8, ncdc, rwanda, grade 7 s1 ict student book, rwanda, grade 7 s1 ict teacher guide, laos, grade 9 ict student

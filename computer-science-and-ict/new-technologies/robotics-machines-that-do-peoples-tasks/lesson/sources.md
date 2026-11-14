@@ -1,6 +1,6 @@
 # Sources — Robotics — machines that do people's tasks
 
-countries: Ethiopia, Nepal, North Macedonia, Egypt, Mongolia, Kuwait
+countries: Ethiopia, Nepal, North Macedonia, Egypt, Mongolia, Kuwait, Laos
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -17,6 +17,8 @@ countries: Ethiopia, Nepal, North Macedonia, Egypt, Mongolia, Kuwait
 **Book 7:** *المستكشف الرقمي (Digital Explorer), Grade 5, Term 2* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: first edition 2025/2026 (1447H); ISBN: no ISBN printed. 170 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md. Title mismatch carried as filed: both records name this book 'Our Digital World / عالمنا الرقمي', but the cover and title page print المستكشف الرقمي (Digital Explorer), Grade 5, Term 2 — it is cited under its printed title, with the record mismatch noted. The front 'Digital Classroom' section repeats the series front section placed from Book 1 (Grade 4 Term 1).
 **Book 8:** *المستكشف الرقمي (Digital Explorer), Grade 5, Term 1* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: first edition 2025/2026 (1447H); ISBN: no ISBN printed. 202 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md. This record was books.json-only (in_pushed, not on disk) and its tree route 404s; the file was found as the release asset grade-05-gov-kuwait-digital-explorer-student-term-1.pdf in release mid-size-books-8, byte size exactly 87,921,309 as recorded, and read from there. This section supersedes both L2 drafts of the same book in the placements file. The front 'Digital Classroom' section repeats Book 1's front section and is placed there, not double-counted here.
 
+**Book 9:** *ແບບຮຽນ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ (ICT) — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 5 (Textbook, ICT, Secondary Year 5)* (student book, Lao) — Laos, Ministry of Education and Sports, Research Institute of Educational Sciences; year 2013; ISBN: no ISBN printed. 114 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Robotics defined; factory routine work, dangerous work, underwater and space work; home work and the robot vacuum | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 2, printed p. 30 |
@@ -28,8 +30,9 @@ countries: Ethiopia, Nepal, North Macedonia, Egypt, Mongolia, Kuwait
 | 1.2.2 Development and use of robot technology (robot definitions RIA and ISO 8373; robot classes — sense, move, energy, intelligence; LEGO Mindstorms; a history of artificial intelligence from Turing to Deep Learning) | Mongolia Grade 12 IT XII, printed p. 23 |
 | Unit 2 (MakeCode for micro:bit), Lesson 6 The Robot: robots in our lives — what a robot is, how it works, its parts (programming, electronics, mechanics) | Kuwait Grade 5 Digital Explorer T2, printed p. 91 |
 | Unit 1, Artificial Intelligence (2): let's meet the robot — its components, and robots all around us | Kuwait Grade 5 Digital Explorer T1, printed p. 43 |
+| Ch.4 §6.1 Robotics | Laos Grade 10 ICT student, printed p. 88 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Nepal, North Macedonia, Egypt, Mongolia, Kuwait).**
+**Acceptance count: taught in 7 countries (Ethiopia, Nepal, North Macedonia, Egypt, Mongolia, Kuwait, Laos).**
 
 No book error touches this lesson.
 
@@ -45,4 +48,6 @@ Kuwait's own way (Grade 5 Digital Explorer Term 2, printed title — records nam
 
 Kuwait's own way (Grade 5 Digital Explorer Term 1): Grade 5 leaves ScratchJr for full Scratch (installed and online), but first comes a values-and-AI unit — citizenship, smart vs non-smart devices, what AI is, robots and their parts — and programming itself is taught as a four-stage craft (set the goal, the smart plan, the flowchart, then the code) before a single block is dragged.
 
-Searchable tags: robotics, robots, assembly line, radioactive waste, robot vacuum, space exploration, Grade 11 ICT Ethiopia, nepal, north macedonia, grade 11, papua new guinea, grade 10, egypt, grade 7, mongolia, grade 12 it xii, kuwait, grade 5 digital explorer term 2, grade 5 digital explorer term 1
+Laos's own way (Grade 10 ICT student book): the upper-secondary course turns conceptual — a full information-systems syllabus (organisations, TPS/MIS/DSS/EIS/expert/office systems, the development life cycle), then the series' deepest security chapter (firewalls, cookies, spyware, spam, employee monitoring, privacy law), closing with artificial intelligence, with DOS and Unix taught alongside Windows in the senior years' background.
+
+Searchable tags: robotics, robots, assembly line, radioactive waste, robot vacuum, space exploration, Grade 11 ICT Ethiopia, nepal, north macedonia, grade 11, papua new guinea, grade 10, egypt, grade 7, mongolia, grade 12 it xii, kuwait, grade 5 digital explorer term 2, grade 5 digital explorer term 1, laos, grade 10 ict student

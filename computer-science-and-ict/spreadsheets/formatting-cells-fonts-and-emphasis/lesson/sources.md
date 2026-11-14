@@ -1,6 +1,6 @@
 # Sources — Formatting cells — fonts and emphasis
 
-countries: Ethiopia, Yemen, Iraq, Libya, Rwanda
+countries: Ethiopia, Yemen, Iraq, Libya, Rwanda, Laos
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Yemen, Iraq, Libya, Rwanda
 
 **Book 8:** *Information and Communication Technology for Rwandan Schools — Secondary 2, Student's Book* (student book, English) — Rwanda, Kenya Literature Bureau, Nairobi; year 2017; ISBN 978-9966-10-596-7. 320 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/rwanda-placements.md.
 
+**Book 9:** *ແບບຮຽນ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ (ICT) — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 4 (Textbook, ICT, Secondary Year 4)* (student book, Lao) — Laos, Ministry of Education and Sports, Research Institute of Educational Sciences; year 2013; ISBN: no ISBN printed. 104 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — cells start in Calibri; the title cell worked through font (live preview), size (dropdown / Increase–Decrease / typed), Font Color, and Bold/Italic/Underline with Ctrl+B, Ctrl+I, Ctrl+U | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 3, printed pp. 117–119 |
@@ -29,8 +31,9 @@ countries: Ethiopia, Yemen, Iraq, Libya, Rwanda
 | Unit 3 Ch 3.4, cell formatting: the font | Libya Grade 8 Computer, printed p. 110 |
 | Formatting a cell: font, alignment, borders, fill, number formats (teacher guide — evidence) | Rwanda Grade 8 S2 ICT Teacher Guide, printed p. 75 (teacher guide — evidence) |
 | Formatting a cell: font, alignment, borders, fill colours, number formats | Rwanda Grade 8 S2 ICT Student Book, printed p. 116 |
+| Ch.6 §6.2/6.4 Changing fonts; changing font colour and fill colour | Laos Grade 9 ICT student, printed p. 76 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Yemen, Iraq, Libya, Rwanda).**
+**Acceptance count: taught in 6 countries (Ethiopia, Yemen, Iraq, Libya, Rwanda, Laos).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -44,4 +47,6 @@ Rwanda's own way (S2 ICT Teacher Guide, KLB): S2 moves to data protection, ICT i
 
 Rwanda's own way (S2 ICT Student Book, KLB): the student companion to the S2 guide — the same nine units, taught through Rwandan financial life (mobile banking, ATMs, stock exchange) and Scratch game projects (Helicopter Game, Moving Eyes Game).
 
-Searchable tags: formatting cells, font, font size, Font Color, Bold Italic Underline, Ctrl+B, Calibri, Ethiopia Grade 10, yemen, grade 11, mauritania, grade 8, iraq, grade 11, libya, grade 8 computer, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book
+Laos's own way (Grade 9 ICT student book): the first fully practical year — a screenshot-led Windows XP, Word and Excel course where every numbered topic is a click-by-click procedure (the Excel half even teaches the Chart Wizard and worksheet Page Setup with its Orientation/Paper Size/Page Numbering table in English). Windows XP-era office teaching runs through the middle years.
+
+Searchable tags: formatting cells, font, font size, Font Color, Bold Italic Underline, Ctrl+B, Calibri, Ethiopia Grade 10, yemen, grade 11, mauritania, grade 8, iraq, grade 11, libya, grade 8 computer, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, laos, grade 9 ict student

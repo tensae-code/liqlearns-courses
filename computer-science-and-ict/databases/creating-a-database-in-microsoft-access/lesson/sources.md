@@ -1,6 +1,6 @@
 # Sources — Creating a database in Microsoft Access
 
-countries: Ethiopia, Sudan, Uzbekistan, Fiji, Libya, Malaysia, Mongolia
+countries: Ethiopia, Sudan, Uzbekistan, Fiji, Libya, Malaysia, Mongolia, Laos
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -24,6 +24,8 @@ countries: Ethiopia, Sudan, Uzbekistan, Fiji, Libya, Malaysia, Mongolia
 
 **Book 11:** *Мэдээллийн технологи X (Information Technology X)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar; year 2019 (2nd edition; bibliographic entry УБ.2018); ISBN 978-99978-61-82-5. 151 PDF pages (printed book 148 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page, from the release mid-size-books-8 asset (the books.json record's size_bytes does not match the secured asset — see the placements file's log debt). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
 
+**Book 12:** *ແບບຮຽນ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 6 (Textbook, ICT, Secondary Year 6)* (student book, Lao) — Laos, Ministry of Education and Sports, Research Institute of Educational Sciences; year 2015; ISBN: no ISBN printed. 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lessons 1–2 — in Access (Access 2010) a database is the container for objects such as tables, forms, queries and reports; creating one comes first: open MS Access, click Blank database, type the database name in the File Name box (a name that describes the stored data), click Create; a new window opens where objects can be built | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 3, printed p. 63 |
@@ -36,6 +38,8 @@ countries: Ethiopia, Sudan, Uzbekistan, Fiji, Libya, Malaysia, Mongolia
 | Ch 6, creating a database; closing and opening a database | Libya Grade 10 IT student, printed p. 57 |
 | Guide Ch 5, the Access 2007 environment (teacher guide — evidence) | Libya Grade 10 IT teacher guide, printed p. 25 (teacher guide — evidence) |
 | 4.2.2 The database management system and the database table (creating myphone.accdb in Design View; field properties and validation — the 8-digit Mongolian phone range, e-mail Like "*@*") | Mongolia Grade 10 IT X, printed p. 119 |
+| Ch.2 §1 Getting to know MS Office Access 2007 (filed as NEW LESSON NEEDED — databases/meeting-microsoft-access-2007; stocked in this lesson because this lesson is the course's meeting with Microsoft Access — opening Access (2010 in the live lesson; Laos meets the 2007 edition of the same program) and what a database holds — the same first meeting Laos's section teaches) | Laos Grade 11 ICT student, printed p. 19 |
+| Ch.2 §2 Creating a database | Laos Grade 11 ICT student, printed p. 40 |
 
 | Sub lesson 4 — Access is the default relational database program in the Microsoft Office package; check it is installed and its version (Start → All apps → Microsoft Office → Access with its year); launch by typing “access” in the Search box and name the new database | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 3, printed pp. 65–67 |
 | Sub lesson 4 — create the database from a template or blank (blank chosen, from scratch); a table can be created three ways — Design View, Datasheet View, or SQL — and the unit teaches the SQL way | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 3, printed pp. 65–67 |
@@ -44,7 +48,7 @@ countries: Ethiopia, Sudan, Uzbekistan, Fiji, Libya, Malaysia, Mongolia
 | Урок 12 "Создание базы данных в MS Access" | Uzbekistan, *Basics of Informatics, Grade 9*, printed p. 28 |
 | 4.1.5 Membina Pangkalan Data (Microsoft Access) | Malaysia Grade 9 ASK Tingkatan 3, printed p. 127 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Sudan, Uzbekistan, Fiji, Libya, Malaysia, Mongolia).**
+**Acceptance count: taught in 8 countries (Ethiopia, Sudan, Uzbekistan, Fiji, Libya, Malaysia, Mongolia, Laos).**
 
 Honesty: all parts are pupil-taught from the student book, in Access 2010 exactly as the book teaches; no modernising has been done — the one Tip-style guidance (naming for the next person) is the book's own “describes the stored data” rule in plainer words. No book error touches this page.
 
@@ -69,4 +73,6 @@ Malaysia's own way (Grade 9, ASK Tingkatan 3): Tingkatan 3 is unusually advanced
 
 Mongolia's own way (Grade 10): Grade 10 is the "citizen" book — ICT ethics, law and intellectual property first, taught with Mongolian digital content as the examples (the Nogun comic, the Chinggis Khaan animation, GoGo Kids, Maamuu and YoLo; the CRC's black-list.mn), then a distinctive "package information" chapter — collecting, storing, merging and presenting information as one whole, worked through a 24-slide presentation on the sights of Bayankhongor aimag — multimedia production with free tools (Pencil2D, Pivot Animator, Unfreez, Audacity), and a full MS Access database chapter built around a Mongolian phone-book database and the state's unified registration system.
 
-Searchable tags: Microsoft Access, Access 2010, Blank database, File Name, Create, database objects, Ethiopia Grade 11, sudan, grade 7, uzbekistan, grade 9, fiji, years 7-8, year 11, year 13, libya, grade 10 it student, grade 10 it teacher guide, malaysia, grade 9 ask tingkatan 3, mongolia, grade 10 it x
+Laos's own way (Grade 11 ICT student book): a single-topic year — databases from first principles (the data hierarchy is taught as a Lao glossary table: Bit, Byte/Character, Field, Record, Files, Database) into a complete MS Access 2007 build: tables, relationships, forms, queries, reports.
+
+Searchable tags: Microsoft Access, Access 2010, Blank database, File Name, Create, database objects, Ethiopia Grade 11, sudan, grade 7, uzbekistan, grade 9, fiji, years 7-8, year 11, year 13, libya, grade 10 it student, grade 10 it teacher guide, malaysia, grade 9 ask tingkatan 3, mongolia, grade 10 it x, laos, grade 11 ict student

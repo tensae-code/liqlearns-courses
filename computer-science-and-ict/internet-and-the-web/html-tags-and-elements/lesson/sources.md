@@ -26,6 +26,8 @@ countries: Ethiopia, North Macedonia, Iraq, Egypt, Fiji, Libya, Malaysia, Sri La
 
 **Book 12:** *தகவல் தொடர்பாடல் தொழில்நுட்பம் (Information and Communication Technology), Grade 11* (student book, Tamil) — Sri Lanka, Educational Publications Department; year 2010 (second print, first 2009); no ISBN printed. 268 PDF pages. Verdict: COMPLETE (image-only scan read via 100-DPI 4-up contact sheets; the TSV release record and the books.json record are the same book, cited once). Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
 
+**Book 13:** *ຄູ່ມືຄູ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ (ICT) — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 5 (Teacher's handbook, ICT, Secondary Year 5)* (teacher guide, Lao) — Laos, Ministry of Education and Sports, Research Institute of Educational Sciences; year 2014; ISBN: no ISBN printed. 125 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | HTML, tags and the .html file | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 4, printed pp. 80–81 |
@@ -41,6 +43,7 @@ countries: Ethiopia, North Macedonia, Iraq, Egypt, Fiji, Libya, Malaysia, Sri La
 | Guide Ch 2, introduction to HTML (teacher guide — evidence) | Libya Grade 11 IT teacher guide Term 2, printed p. 13 (teacher guide — evidence) |
 | 4.2.2 Tag dalam HTML | Malaysia Grade 7 ASK Tingkatan 1, printed p. 116 |
 | Ch.5 HTML for web pages: FONT tag size/colour/face, hexadecimal RGB colours, PRE and ADDRESS tags | Sri Lanka Grade 11 G11 ICT Textbook (Tamil), printed p. 155 |
+| Appendix ຂ: Creating a website using the HTML language (writing the page in Notepad) (teacher guide — evidence) | Laos Grade 10 ICT teacher guide, printed p. 87 (teacher guide — evidence) |
 
 **Acceptance count: taught in 8 countries (Ethiopia, North Macedonia, Iraq, Egypt, Fiji, Libya, Malaysia, Sri Lanka).**
 
@@ -66,4 +69,6 @@ Malaysia's own way (Grade 7, ASK Tingkatan 1): the KSSM Asas Sains Komputer (ASK
 
 Sri Lanka's own way (Grade 11, Tamil): a full Visual Basic 6.0 programming course inside the O/L book (IDE, controls, data types, Select Case, arrays), an SDLC chapter, Photoshop-based multimedia, hand-coded HTML with Sri Lankan examples (the Sinharaja rainforest page, ucsc.cmb.ac.lk addresses, sltnet.lk domains), and sector chapters (agriculture, industry, government, commerce) before malware and health.
 
-Searchable tags: HTML, HTML5, tags, elements, start tag, end tag, .html, Grade 11 ICT Ethiopia, north macedonia, grade 11, iraq, grade 10, egypt, grade 10, grade 11, grade 8, fiji, year 13, libya, grade 11 it student term 2, grade 11 it teacher guide term 2, malaysia, grade 7 ask tingkatan 1, sri lanka, grade 11 tamil
+Laos's own way (Grade 10 ICT teacher guide): the guide quietly carries the year's only practical work as a supplementary appendix (ແນະນໍາເພີ່ມ, printed pp. 82–118) the student book does not contain — Google searching with Internet Explorer/Firefox, hand-coding a web page in Notepad (with w3schools named as the reference), a full PowerPoint 2007 course, and a DOS command-prompt practical. (teacher guide — evidence)
+
+Searchable tags: HTML, HTML5, tags, elements, start tag, end tag, .html, Grade 11 ICT Ethiopia, north macedonia, grade 11, iraq, grade 10, egypt, grade 10, grade 11, grade 8, fiji, year 13, libya, grade 11 it student term 2, grade 11 it teacher guide term 2, malaysia, grade 7 ask tingkatan 1, sri lanka, grade 11 tamil, laos, grade 10 ict teacher guide

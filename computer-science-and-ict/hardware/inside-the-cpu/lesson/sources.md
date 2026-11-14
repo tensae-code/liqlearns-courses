@@ -1,6 +1,6 @@
 # Sources — Inside the CPU — ALU, control unit, registers
 
-countries: Ethiopia, Fiji, Bhutan, Mongolia, Sri Lanka
+countries: Ethiopia, Fiji, Bhutan, Mongolia, Sri Lanka, Laos
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Fiji, Bhutan, Mongolia, Sri Lanka
 
 **Book 6:** *Information & Communication Technology — Reading Book, Grade 7* (student book, English) — Sri Lanka, Educational Publications Department; year 2019 (second print, first 2018); ISBN 978-955-25-0114-2. 136 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
 
+**Book 7:** *ແບບຮຽນ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 3 (Textbook, ICT, Secondary Year 3)* (student book, Lao) — Laos, Ministry of Education and Sports, Research Institute of Educational Sciences; year 2012; ISBN: no ISBN printed. 114 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The ALU — works out and compares | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 2, printed p. 21 (teacher evidence: guide printed pp. 31–34) |
@@ -24,8 +26,9 @@ countries: Ethiopia, Fiji, Bhutan, Mongolia, Sri Lanka
 | 1.1 Internal Hardware: CPU/processor | Bhutan, *Literacy with ICT, Class VI*, printed p. 2 |
 | 2.1.1 Computer architecture (the von Neumann model; standard and non-standard architectures; open and closed standards) | Mongolia Grade 12 IT XII, printed p. 44 |
 | Ch.1 Components of the CPU | Sri Lanka Grade 7 G7 ICT Textbook, printed p. 3 |
+| Ch.1 §1.1 The CPU (its components, choosing a CPU, heat) | Laos Grade 8 ICT student, printed p. 1 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Fiji, Bhutan, Mongolia, Sri Lanka).**
+**Acceptance count: taught in 6 countries (Ethiopia, Fiji, Bhutan, Mongolia, Sri Lanka, Laos).**
 
 No book error touches this lesson's content.
 
@@ -37,4 +40,6 @@ Mongolia's own way (Grade 12): the final book measures everything against Mongol
 
 Sri Lanka's own way (Grade 7 Reading Book): the CPU is taught through a hotel-kitchen/chef analogy; programme development (decomposition, flowcharts, variables, bugs) precedes presentation software; HTML page-building is already in Grade 7.
 
-Searchable tags: inside the cpu — alu, control unit, registers, hardware, grade 7, information technology, ict, ethiopia, the alu — works out and compares, the control unit — directs everything, fiji, year 11, bhutan, class vi, mongolia, grade 12 it xii, sri lanka, grade 7 reading book
+Laos's own way (Grade 8 ICT student book): a full PC-technician year in full colour — learners take a computer apart and rebuild it (CPU, RAM, board, cards, drives), install Windows XP and drivers, fix install faults by BIOS beep codes, then finish with networks and the internet.
+
+Searchable tags: inside the cpu — alu, control unit, registers, hardware, grade 7, information technology, ict, ethiopia, the alu — works out and compares, the control unit — directs everything, fiji, year 11, bhutan, class vi, mongolia, grade 12 it xii, sri lanka, grade 7 reading book, laos, grade 8 ict student

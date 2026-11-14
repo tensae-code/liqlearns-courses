@@ -1,6 +1,6 @@
 # Sources — Creating and saving a document file
 
-countries: Ethiopia, Belarus, Uzbekistan, Bhutan, Libya
+countries: Ethiopia, Belarus, Uzbekistan, Bhutan, Libya, Laos
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pages. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -24,6 +24,8 @@ countries: Ethiopia, Belarus, Uzbekistan, Bhutan, Libya
 
 **Book 12:** *الحاسوب للصف الثامن من مرحلة التعليم الأساسي (Computer, Grade 8, basic education)* (student book, Arabic) — Libya, Libya Ministry of Education, Centre for Educational Curricula and Research (مركز المناهج التعليمية والبحوث التربوية). Year 2019-2020 (1440-1441 AH); no ISBN printed. 136 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/libya-placements.md.
 
+**Book 13:** *ແບບຮຽນ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ (ICT) — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 4 (Textbook, ICT, Secondary Year 4)* (student book, Lao) — Laos, Ministry of Education and Sports, Research Institute of Educational Sciences; year 2013; ISBN: no ISBN printed. 104 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Creating the document | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, §1.2, printed pp. 8–10 |
@@ -40,8 +42,9 @@ countries: Ethiopia, Belarus, Uzbekistan, Bhutan, Libya
 | Unidad 3 Guardar/abrir archivos; archivos y carpetas; protección de la información (teacher guide — evidence) | Cuba, *Orientaciones Metodológicas — Mi Mundo Digital III, Grade 5*, printed p. 16 (teacher guide — evidence) |
 | 4.2 Creating and Saving Your Drawing | Bhutan, *Literacy with ICT, Class IV*, printed p. 32 |
 | Unit 2 Ch 2.2, saving the scanned image | Libya Grade 8 Computer, printed p. 55 |
+| Ch.5 §5.7 Saving a workbook | Laos Grade 9 ICT student, printed p. 63 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Belarus, Uzbekistan, Bhutan, Libya).**
+**Acceptance count: taught in 6 countries (Ethiopia, Belarus, Uzbekistan, Bhutan, Libya, Laos).**
 
 Belarus's own way (Grade 10): the Zabaroŭski–Pupcaŭ course treats informatics as applied mathematics with office tools — a full-year arc from data archiving through Pascal strings and information modelling to Excel and 2010-era Internet communication (NetMeeting, Skype, blogs).
 
@@ -64,4 +67,6 @@ Bhutan's own way (Class IV, Literacy with ICT student book): Competency-based "L
 
 Libya's own way (Grade 8, Computer student book): a three-unit arc — computer history/generations and number systems first, then a whole practical unit built around the scanner (scan, save, copy, delete, scan via Paint), then Microsoft Excel 2007 taught step by step with screenshots. The basic-education line is الحاسوب (Computer) in Grades 8–9.
 
-Searchable tags: create document, word processor, WordPad, MS Word, LibreOffice Writer, Save, Save As, Ethiopian Cultural Foods, files and folders, grade 9, information technology, ict, ethiopia, belarus, uzbekistan, grade 6, grade 8, cuba, grade 2, cuba, grade 5, cuba, grade 5, bhutan, class iv, libya, grade 8 computer
+Laos's own way (Grade 9 ICT student book): the first fully practical year — a screenshot-led Windows XP, Word and Excel course where every numbered topic is a click-by-click procedure (the Excel half even teaches the Chart Wizard and worksheet Page Setup with its Orientation/Paper Size/Page Numbering table in English). Windows XP-era office teaching runs through the middle years.
+
+Searchable tags: create document, word processor, WordPad, MS Word, LibreOffice Writer, Save, Save As, Ethiopian Cultural Foods, files and folders, grade 9, information technology, ict, ethiopia, belarus, uzbekistan, grade 6, grade 8, cuba, grade 2, cuba, grade 5, cuba, grade 5, bhutan, class iv, libya, grade 8 computer, laos, grade 9 ict student

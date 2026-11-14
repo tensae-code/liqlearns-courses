@@ -1,6 +1,6 @@
 # Sources — Input devices — putting data in
 
-countries: Ethiopia, Tanzania, Yemen, North Macedonia, Iraq, Fiji, Bhutan, Mongolia, Sri Lanka
+countries: Ethiopia, Tanzania, Yemen, North Macedonia, Iraq, Fiji, Bhutan, Mongolia, Sri Lanka, Laos
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -28,6 +28,8 @@ countries: Ethiopia, Tanzania, Yemen, North Macedonia, Iraq, Fiji, Bhutan, Mongo
 
 **Book 13:** *தொழில்நுட்பவியலிற்கான விஞ்ஞானம் — தகவல் மற்றும் தொடர்பாடல் தொழில்நுட்பவியல் (Science for Technology — Information and Communication Technology), G.C.E. Advanced Level technology stream, Grade 12* (student book, Tamil) — Sri Lanka, Educational Publications Department; year 2015 (first print; print code 2014/T); no ISBN printed (EPD sales stock barcode only). 252 PDF pages. Verdict: COMPLETE (image-only Noolaham scan read via 100-DPI 4-up contact sheets; printed pages run to 242). Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
 
+**Book 14:** *ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ (ICT) — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 2 (ICT, Secondary Year 2)* (student book, Lao) — Laos, Ministry of Education, Research Institute of Educational Sciences (ສ.ວ.ສ); year 2011; ISBN: no ISBN printed. 107 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Input devices — putting data in | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 2, printed p. 16 |
@@ -43,8 +45,9 @@ countries: Ethiopia, Tanzania, Yemen, North Macedonia, Iraq, Fiji, Bhutan, Mongo
 | Ch.1 Components: input devices | Sri Lanka Grade 6 G6 ICT Textbook, printed p. 5 |
 | Ch.1 Computer peripheral devices | Sri Lanka Grade 9 G9 ICT Textbook, printed p. 6 |
 | Ch.1 Input devices: keyboard special keys, mouse and its actions, trackball, MICR (filed as hardware/input-devices-and-what-each-one-does; stocked into this lesson as the closest existing lesson covering this thing) | Sri Lanka Grade 12 G12 Science for Technology ICT (Tamil), printed p. 3 |
+| Ch.1 §6 Input devices | Laos Grade 7 ICT student, printed p. 29 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Tanzania, Yemen, North Macedonia, Iraq, Fiji, Bhutan, Mongolia, Sri Lanka).**
+**Acceptance count: taught in 10 countries (Ethiopia, Tanzania, Yemen, North Macedonia, Iraq, Fiji, Bhutan, Mongolia, Sri Lanka, Laos).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -70,4 +73,6 @@ Sri Lanka's own way (Grade 9 Reading Book): it opens with preparing a computer s
 
 Sri Lanka's own way (Grade 12 Science for Technology, Tamil): the A/L technology-stream ICT volume teaches every office skill twice — once in Microsoft Office 2010 and once in LibreOffice (Writer/Calc/Impress 4.1) — and closes with creating a real Gmail account, mailbox folders, attachments and password safety; hardware goes down to cache levels L1/L2/L3, ROM types and file systems (FAT/NTFS/ext4).
 
-Searchable tags: input devices — putting data in, hardware, grade 7, information technology, ict, ethiopia, tanzania, yemen, grade 10, north macedonia, grade 10, saudi arabia, grade 4, iraq, grade 7, morocco, grade 1, fiji, year 11, bhutan, class v, mongolia, grade 11 it xi, sri lanka, grade 6 reading book, sri lanka, grade 9 reading book, sri lanka, grade 12 science for technology tamil
+Laos's own way (Grade 7 ICT student book): the hardware year is taught through the von Neumann model (the book pictures John von Neumann beside an early machine) and the software chapter ends with a full comparison table of real compilers (Visual Basic, Turbo Pascal, C++, Fortran…) by platform and licence.
+
+Searchable tags: input devices — putting data in, hardware, grade 7, information technology, ict, ethiopia, tanzania, yemen, grade 10, north macedonia, grade 10, saudi arabia, grade 4, iraq, grade 7, morocco, grade 1, fiji, year 11, bhutan, class v, mongolia, grade 11 it xi, sri lanka, grade 6 reading book, sri lanka, grade 9 reading book, sri lanka, grade 12 science for technology tamil, laos, grade 7 ict student

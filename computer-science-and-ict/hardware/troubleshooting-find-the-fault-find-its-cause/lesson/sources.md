@@ -1,6 +1,6 @@
 # Sources — Troubleshooting — find the fault, find its cause
 
-countries: Ethiopia, Iraq, Fiji, Sri Lanka
+countries: Ethiopia, Iraq, Fiji, Sri Lanka, Laos
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked). Writers: Teshome Alemu Wedajo, Wendwesen Endale Workneh. August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN. PDF 210 pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Iraq, Fiji, Sri Lanka
 
 **Book 8:** *Information and Communication Technology — Workbook, Grade 8* (student book, English) — Sri Lanka, Educational Publications Department; year 2019; ISBN 978-955-25-0144-9. 68 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
 
+**Book 9:** *ແບບຮຽນ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 3 (Textbook, ICT, Secondary Year 3)* (student book, Lao) — Laos, Ministry of Education and Sports, Research Institute of Educational Sciences; year 2012; ISBN: no ISBN printed. 114 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | A systematic approach — hardware and software | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 5, printed pp. 142–143 |
@@ -28,8 +30,9 @@ countries: Ethiopia, Iraq, Fiji, Sri Lanka
 | 4.6 Utilities and Basic Computer Troubleshooting | Fiji, *Computer Education, Year 13*, printed p. 88 |
 | Ch.2 Troubleshooting and maintenance: hardware problems | Sri Lanka Grade 8 G8 ICT Textbook, printed p. 17 |
 | Workbook Ch.2 Activities 2.1-2.5: configuring/formatting and troubleshooting exercises | Sri Lanka Grade 8 G8 ICT Workbook, printed p. 3 |
+| Ch.2 §2.9 Solving the problems that arise from installing a computer | Laos Grade 8 ICT student, printed p. 44 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Iraq, Fiji, Sri Lanka).**
+**Acceptance count: taught in 5 countries (Ethiopia, Iraq, Fiji, Sri Lanka, Laos).**
 
 The student book sets the black-screen investigation as an activity with no printed solution (printed p. 143); the lesson teaches the systematic approach for it and invents no book answer. The book uses the number "Activity 5.2" for this troubleshooting activity as well as for the earlier uninstalling activity; the lesson teaches the skill, not the activity number.
 
@@ -45,4 +48,6 @@ Sri Lanka's own way (Grade 8 Reading Book): number systems and binary conversion
 
 Sri Lanka's own way (Grade 8 Workbook): a companion workbook mirroring the Reading Book (Activities 1.1–6.3), with worked conversion drills for number systems.
 
-Searchable tags: troubleshooting, systematic approach, fault, cause, hardware problems, software problems, Grade 12 ICT Ethiopia, iraq, grade 10, papua new guinea, grade 9, papua new guinea, grade 11, fiji, year 13, sri lanka, grade 8 reading book, sri lanka, grade 8 workbook
+Laos's own way (Grade 8 ICT student book): a full PC-technician year in full colour — learners take a computer apart and rebuild it (CPU, RAM, board, cards, drives), install Windows XP and drivers, fix install faults by BIOS beep codes, then finish with networks and the internet.
+
+Searchable tags: troubleshooting, systematic approach, fault, cause, hardware problems, software problems, Grade 12 ICT Ethiopia, iraq, grade 10, papua new guinea, grade 9, papua new guinea, grade 11, fiji, year 13, sri lanka, grade 8 reading book, sri lanka, grade 8 workbook, laos, grade 8 ict student

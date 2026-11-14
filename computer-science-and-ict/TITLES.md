@@ -1147,3 +1147,29 @@ Grown by band E4 (Grade 11 depth added, not duplicated): `internet-and-the-web/i
 **Safety, Security and Care** (ICT expansion, from Kuwait): Authentication — Proving Who You Are, and Two-Factor Authentication · Encryption — Scrambling a Message So Only the Receiver Can Read It
 
 **New Technologies** (ICT expansion, from Kuwait): Data Analysis — from Collecting to Conclusions · How AI Makes Decisions · Project — Train Your Own AI · Prompt Engineering — Writing Prompts for AI Images · Prompt Design — Writing Instructions for Generative AI · AI Ethics — Safe and Responsible Use · Computer Vision — Face Recognition with OpenCV · Computer Vision — Detecting Faces and Motion in Video · 3D Printing — Turning a Design into a Real Object
+
+**First Steps** (ICT expansion, from Laos): Characteristics and Importance of ICT · Early Counting Devices · Checking Data — Verification and Validation
+
+**Computers in Society** (ICT expansion, from Laos): Managing Information — Collecting, Storing, Retrieving · Organisations and Their Structure · Office Automation Systems · Employee Monitoring
+
+**Hardware** (ICT expansion, from Laos): Cache Memory · The Motherboard — Chipset, Sockets and Slots · The Display Adapter and the GPU · Audio Devices — Sound Card, Speaker, Headphone · Tools for Installing and Repairing a Computer · Installing the CPU · Installing Main Memory · Installing the Motherboard · Installing an Expansion Card · Installing a Hard Disk · Installing an Optical Drive · Installing Other Devices · Installing an Operating System
+
+**Software** (ICT expansion, from Laos): DOS — the Disk Operating System · Windows and Linux Operating Systems · Unix and Mac Operating Systems · Using DOS Commands
+
+**Programming** (ICT expansion, from Laos): The BASIC Language and the C Language · The Java Language
+
+**Multimedia** (ICT expansion, from Laos): Graphics Software and Its Uses
+
+**Word Processing** (ICT expansion, from Laos): Merging Cells in a Word Table · Entering Text in a Table
+
+**Spreadsheets** (ICT expansion, from Laos): Merging Cells in Excel · Using Undo in Excel
+
+**Presentations** (ICT expansion, from Laos): Linking with Hyperlinks
+
+**Databases** (ICT expansion, from Laos): Charts from Access Data
+
+**Networks** (ICT expansion, from Laos): The Domain Name System
+
+**Safety, Security and Care** (ICT expansion, from Laos): Access Control · Security When the System Fails · Server Security · Computer Security in the Public Sector · Spam · Browsing the Web Safely · Protecting Your Work and Business Online · Wireless and Mobile Device Security
+
+**New Technologies** (ICT expansion, from Laos): Fuzzy Logic · Intelligent Agents

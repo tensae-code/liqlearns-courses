@@ -1,6 +1,6 @@
 # Sources — Themes and readable slide design
 
-countries: Ethiopia, Yemen, Iraq, Sudan, Egypt, Bhutan, Mongolia, Rwanda, Kuwait
+countries: Ethiopia, Yemen, Iraq, Sudan, Egypt, Bhutan, Mongolia, Rwanda, Kuwait, Laos
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -24,6 +24,8 @@ countries: Ethiopia, Yemen, Iraq, Sudan, Egypt, Bhutan, Mongolia, Rwanda, Kuwait
 
 **Book 11:** *المستكشف الرقمي (Digital Explorer), Grade 4, Term 2* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: first edition 2025/2026 (1447H); ISBN: no ISBN printed. 151 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md. Title mismatch carried as filed: both records (the TSV release asset and the books.json record) name this book 'Our Digital World / عالمنا الرقمي', but the cover and title page of the file itself print المستكشف الرقمي (Digital Explorer) — it is cited under its printed title, with the record mismatch noted. The front 'Digital Classroom' section repeats the Term 1 book's front section and is placed there, not double-counted here.
 
+**Book 12:** *ແບບຮຽນ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 7 (Textbook, ICT, Secondary Year 7)* (student book, Lao) — Laos, Ministry of Education and Sports, Research Institute of Educational Sciences; year 2016; ISBN: no ISBN printed. 274 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Applying a theme — Design tab, thumbnail; scroll bar, down-arrow, Microsoft Office Online | Ethiopia, Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed pp. 125–126 |
@@ -37,8 +39,9 @@ countries: Ethiopia, Yemen, Iraq, Sudan, Egypt, Bhutan, Mongolia, Rwanda, Kuwait
 | Formatting a slide (font formatting, slide background, slide layout) | Rwanda Grade 9 S3 ICT Student Book, printed p. 183 |
 | Formatting a slide (teacher guide — evidence) | Rwanda Grade 9 S3 ICT Teacher Guide, printed p. 103 (teacher guide — evidence) |
 | Unit 2, Lesson 5 The Exciting Presentation (5): designing the slides — choosing a design theme and its colour variants | Kuwait Grade 4 Digital Explorer T2, printed p. 133 |
+| Ch.5 §VIII Presenting information effectively (importance; arranging slides so an audience follows) | Laos Grade 12 ICT student, printed p. 246 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Yemen, Iraq, Sudan, Egypt, Bhutan, Mongolia, Rwanda, Kuwait).**
+**Acceptance count: taught in 10 countries (Ethiopia, Yemen, Iraq, Sudan, Egypt, Bhutan, Mongolia, Rwanda, Kuwait, Laos).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -60,4 +63,6 @@ Rwanda's own way (S3 ICT Teacher Guide, Fountain): the S3 guide (a different pub
 
 Kuwait's own way (Grade 4 Digital Explorer Term 2, printed title — records name it 'Our Digital World'): the Digital World unit mixes identity (pride in Arabic language and identity online), cloud storage on the national platform (OneDrive inside Teams), and a three-lesson AI arc (data → training a machine → AI decisions) before the tool unit; PowerPoint is taught as a five-step 'Exciting Presentation' journey ending in presentations about Kuwait itself.
 
-Searchable tags: theme, Design tab, contrast, sans-serif, font sizes, slide design, Ethiopia Grade 9, yemen, grade 11, iraq, grade 10, sudan, grade 6, egypt, grade 5, bhutan, class vii, mongolia, grade 8 it viii, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, kuwait, grade 4 digital explorer term 2
+Laos's own way (Grade 12 ICT student book): the final year is a modern, applied course — problem-solving method, a long English-titled internet-safety sequence (Internet Safety, Email Tips for Scams and Spam, Smart Social Networking, Cyber harassment/Stalking/Addiction), data summaries and PivotTables for decision-making, copyright and Creative Commons licensing, a full PowerPoint course, and choosing technology for your future occupation.
+
+Searchable tags: theme, Design tab, contrast, sans-serif, font sizes, slide design, Ethiopia Grade 9, yemen, grade 11, iraq, grade 10, sudan, grade 6, egypt, grade 5, bhutan, class vii, mongolia, grade 8 it viii, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, kuwait, grade 4 digital explorer term 2, laos, grade 12 ict student

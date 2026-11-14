@@ -8,11 +8,14 @@ countries: Yemen, Uzbekistan, Egypt
 
 **Book 3:** *Programming and Artificial Intelligence — An Introduction to Information and Communication Technology, For First Year of Secondary School 2025–2026* (student book, English; parallel Arabic edition) — Egypt, Egypt Ministry of Education and Technical Education, 2025–2026. No ISBN printed. 202 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/egypt-placements.md.
 
+**Book 4:** *ຄູ່ມືຄູ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ (ICT) — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 1 (Teacher's handbook, ICT, Secondary Year 1)* (teacher guide, Lao) — Laos, Ministry of Education, Research Institute of Educational Sciences (ສ.ວ.ສ); year 2012; ISBN: no ISBN printed. 117 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | "Coding systems for representing data" | Yemen, *Computer, Grade 11*, printed p. 27 |
 | Урок 9 "Кодирование информации в двоичной системе счисления" | Uzbekistan, *Basics of Informatics, Grade 8*, printed p. 41 |
 | 6-4 Digital Representation of Characters (filed as first-steps/character-codes-how-text-becomes-numbers; stocked into this lesson as the closest existing lesson covering this thing) | Egypt, *Programming and Artificial Intelligence, Grade 10 Term 1*, printed p. 61 |
+| Activity 7: Representing data with ASCII code (data stored as 0s and 1s) (filed as NEW LESSON NEEDED — first-steps/representing-data-with-codes-ascii; stocked in this lesson because this lesson teaches representing data with codes — every character given its own binary pattern of 0s and 1s, ASCII being the named code the guide's activity teaches) (teacher guide — evidence) | Laos Grade 6 ICT teacher guide, printed p. 45 (teacher guide — evidence) |
 
 **Acceptance count: taught in 3 countries (Yemen, Uzbekistan, Egypt).**
 
@@ -25,4 +28,6 @@ Uzbekistan's own way (Grade 8): grade 8 is theory-first — number systems, codi
 
 Egypt's own way (Grade 10, Term 1 Programming and Artificial Intelligence student book): A full Japanese-style "Information Study" course adopted for Egypt's new secondary track: 13 chapters running from information theory, ethics and security through number systems, data analysis (frequency, variance, correlation, regression in spreadsheets), simulation and queues, Python, and a final AI-programming project chapter building web pages, a quiz app and a block-breaker game with generative AI.
 
-Searchable tags: coding systems, data representation, binary patterns, characters, first steps, yemen, grade 11, uzbekistan, grade 8, egypt, grade 10
+Laos's own way (Grade 6 ICT teacher guide): the guide organises teaching as numbered classroom activities (ກິດຈະກໍາ) with objectives, media lists and model answers, and it adds one topic the student book never names: representing data in ASCII code. (teacher guide — evidence)
+
+Searchable tags: coding systems, data representation, binary patterns, characters, first steps, yemen, grade 11, uzbekistan, grade 8, egypt, grade 10, laos, grade 6 ict teacher guide
