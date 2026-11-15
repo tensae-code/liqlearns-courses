@@ -1,6 +1,6 @@
 # Sources — What geography is
 
-countries: Ethiopia, Saudi Arabia, Turkey, Bolivia, Angola, Dominican Republic, Slovenia, Vietnam, Uganda
+countries: Ethiopia, Saudi Arabia, Turkey, Bolivia, Angola, Dominican Republic, Slovenia, Vietnam, Uganda, Sudan
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -26,6 +26,10 @@ countries: Ethiopia, Saudi Arabia, Turkey, Bolivia, Angola, Dominican Republic, 
 
 **Book 12:** *Geography Teacher's Guide — Senior One (Lower Secondary Curriculum, Prototype)* (teacher guide, English) — National Curriculum Development Centre (NCDC), Kampala; year 2020 (prototype); ISBN no ISBN printed. Title as printed: Geography Teacher's Guide — Senior One (Lower Secondary Curriculum, Prototype). Grade: Senior One = Grade 8 (student/teacher: TEACHER). PDF pages: 134 (cover verified: "GEOGRAPHY TEACHER'S GUIDE SENIOR ONE", NCDC Prototype — matches record; read via the record's books.json source_url at ncdc.go.ug after grab.py routes failed with RemoteDisconnected from api.github.com). Verdict: COMPLETE. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/uganda-placements.md.
 
+**Book 13:** *الجغرافيا والدراسات البيئية — Geography and Environmental Studies, First Year Secondary (الصف الأول الثانوي) [record title omits "and Environmental Studies"]* (student book, Arabic) — Republic of Sudan, Ministry of Education and National Education, National Centre for Curricula and Educational Research (Bakht al-Ruda); year not printed on cover/title pages seen; no ISBN printed. Title as printed: الجغرافيا والدراسات البيئية — Geography and Environmental Studies, First Year Secondary (الصف الأول الثانوي) [record title omits "and Environmental Studies"]. Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 195 (cover verified against the record title; byte size 31,004,701 and page count match the staging books.json record exactly). Verdict: COMPLETE. How read: PDF text layer is font-garbled, so read visually from rendered pages — cover, preface (4-unit structure), unit objectives and interior spreads across all four units. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sudan-placements.md.
+
+**Book 14:** *الجغرافيا — Geography, Fifth Grade Primary (الصف الخامس الابتدائي)* (student book, Arabic) — Republic of Sudan, Ministry of Education, National Centre for Curricula and Educational Research (Bakht al-Ruda); first edition 2021; no ISBN printed. Title as printed: الجغرافيا — Geography, Fifth Grade Primary (الصف الخامس الابتدائي). Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 37 (cover verified against the record title; byte size 7,554,967 and page count match the staging books.json record exactly; read via the recorded Drive source_url after grab.py failed/truncated — GitHub-secured book, download deleted after filing). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The word | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 1, printed pp. 3–4 |
@@ -42,8 +46,10 @@ countries: Ethiopia, Saudi Arabia, Turkey, Bolivia, Angola, Dominican Republic, 
 | Vietnam part — Bài 1: The Geography subject at school — its character and role, and Geography for career orientation (the lesson slug was proposed as NEW in this group's Pakistan file; counted here as an existing target) [placement slug: first-steps/what-geography-is] | Vietnam, *Vietnam Grade 10 Địa lí 10*, Bài 1: The Geography subject at school — its character and role, and Geography for career orientation (the lesson slug was proposed as NEW in this group's Pakistan file; counted here as an existing target) — printed pp. 5–6 |
 | Uganda part — Ch.1 What is Geography?; meaning and environment | Uganda, *Uganda Grade 8 UG S1 Geography Student*, Ch.1 What is Geography?; meaning and environment — printed p. 2 |
 | Uganda part — Ch.1 Introduction to Geography (teaching guidance) (teacher guide — evidence) | Uganda, *Uganda Grade 8 UG S1 Geography TG* (teacher guide), Ch.1 Introduction to Geography (teaching guidance) — printed p. 1 |
+| Sudan part — Definition of geography and its branches (physical, human, geographic techniques) | Sudan, *Sudan Grade 10 SD Geography 10*, Definition of geography and its branches (physical, human, geographic techniques) — printed p. 7 |
+| Sudan part — What is geography? (Unit 1: The environment around us) | Sudan, *Sudan Grade 5 SD Geography 5*, What is geography? (Unit 1: The environment around us) — printed p. 6 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Saudi Arabia, Turkey, Bolivia, Angola, Dominican Republic, Slovenia, Vietnam, Uganda).**
+**Acceptance count: taught in 10 countries (Ethiopia, Saudi Arabia, Turkey, Bolivia, Angola, Dominican Republic, Slovenia, Vietnam, Uganda, Sudan).**
 
 Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
@@ -64,3 +70,7 @@ Vietnam's own way (Vietnam Grade 10 Địa lí 10): a single Grade 10 course tha
 Uganda's own way (Uganda Grade 8 UG S1 Geography Student): Competency-based lower-secondary course taught entirely through East Africa: every skill (maps, fieldwork, photographs) is practised on Ugandan/East African places (Tororo topographic map, Uganda lat/long map), and the physical half is East Africa's relief, landform formation, climate and vegetation rather than world coverage.
 
 Uganda's own way (Uganda Grade 8 UG S1 Geography TG) (teacher guide — evidence): The guide mirrors the learner book chapter for chapter, adding teacher instructions, possible responses and assessment for every activity — the same East-Africa-first, activity-led pedagogy, plus teacher-only content on plotting weather on maps and making simple weather instruments. That evidence is stocked here as the way Uganda teaches this thing; it is cited as evidence only — Uganda is counted in this lesson through its student book(s).
+
+Sudan's own way (Sudan Grade 10 SD Geography 10): A second-edition foundations book (the preface says necessity forced this 2nd edition): physical geography first (universe to rivers), then climate and vegetation, then a long practical cartography unit, closing with GIS — geography taught as a skills subject, with an activity (نشاط) box on most spreads.
+
+Sudan's own way (Sudan Grade 5 SD Geography 5): The first-ever Geography book in the post-2019 curriculum starts from the child's own classroom and school: directions are learned by standing facing the sunrise, map elements through a pupil's-house map, and only then does the book step out to Sudan, Africa and the world — a local-to-global ladder.

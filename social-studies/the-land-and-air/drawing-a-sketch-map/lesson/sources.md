@@ -1,6 +1,6 @@
 # Sources — Drawing a sketch map
 
-countries: Ethiopia, Myanmar, Haiti, Palestine, Bangladesh, Samoa, Colombia, Malaysia, India, Rwanda, Papua New Guinea, Uganda
+countries: Ethiopia, Myanmar, Haiti, Palestine, Bangladesh, Samoa, Colombia, Malaysia, India, Rwanda, Papua New Guinea, Uganda, Sudan
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -34,6 +34,8 @@ countries: Ethiopia, Myanmar, Haiti, Palestine, Bangladesh, Samoa, Colombia, Mal
 
 **Book 16:** *Home-Study Learning — Senior 3 Geography (August 2020)* (student book, English) — Ministry of Education and Sports / National Curriculum Development Centre (NCDC); year 2020; ISBN no ISBN printed. Title as printed: Home-Study Learning — Senior 3 Geography (August 2020). Grade: Senior Three = Grade 10 (student/teacher: STUDENT). PDF pages: 108 (cover verified: "HOME-STUDY LEARNING SENIOR 3 GEOGRAPHY", NCDC, August 2020 — matches record page count 108 exactly; read via the record's books.json source_url, fresh-teacher.github.io mirror of the NCDC booklet, after grab.py routes failed with RemoteDisconnected from api.github.com). Verdict: COMPLETE (the booklet as published starts at Lesson 2; Lesson 1 is not in this home-study package). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/uganda-placements.md.
 
+**Book 17:** *الجغرافيا — Geography, Fifth Grade Primary (الصف الخامس الابتدائي)* (student book, Arabic) — Republic of Sudan, Ministry of Education, National Centre for Curricula and Educational Research (Bakht al-Ruda); first edition 2021; no ISBN printed. Title as printed: الجغرافيا — Geography, Fifth Grade Primary (الصف الخامس الابتدائي). Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 37 (cover verified against the record title; byte size 7,554,967 and page count match the staging books.json record exactly; read via the recorded Drive source_url after grab.py failed/truncated — GitHub-secured book, download deleted after filing). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What a sketch map is | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 8, printed pp. 218–220 |
@@ -53,8 +55,10 @@ countries: Ethiopia, Myanmar, Haiti, Palestine, Bangladesh, Samoa, Colombia, Mal
 | Uganda part — Ch.2 Mapping a Local Area; showing the local area on a map | Uganda, *Uganda Grade 8 UG S1 Geography Student*, Ch.2 Mapping a Local Area; showing the local area on a map — printed p. 10 |
 | Uganda part — Ch.2 Showing the Local Area on a Map (teacher guide — evidence) | Uganda, *Uganda Grade 8 UG S1 Geography TG* (teacher guide), Ch.2 Showing the Local Area on a Map — printed p. 9 |
 | Uganda part — Lesson 8: Drawing a sketch of a topographical map | Uganda, *Uganda Grade 10 UG S3 Geography Home-Study*, Lesson 8: Drawing a sketch of a topographical map — printed p. 39 |
+| Sudan part — Drawing a map of something using symbols and map elements (activity) | Sudan, *Sudan Grade 5 SD Geography 5*, Drawing a map of something using symbols and map elements (activity) — printed p. 10 |
+| Sudan part — My classroom (1–3) and drawing the classroom map, route from seat to door | Sudan, *Sudan Grade 5 SD Geography 5*, My classroom (1–3) and drawing the classroom map, route from seat to door — printed p. 17 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Palestine, Bangladesh, Samoa, Colombia, Malaysia, India, Uganda). Myanmar is named here as teacher-guide evidence only, counted nowhere. Haiti is named here as teacher-sequence evidence only, counted nowhere. Rwanda is named here as teacher-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 9 countries (Ethiopia, Palestine, Bangladesh, Samoa, Colombia, Malaysia, India, Uganda, Sudan). Myanmar is named here as teacher-guide evidence only, counted nowhere. Haiti is named here as teacher-sequence evidence only, counted nowhere. Rwanda is named here as teacher-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Haiti's own way (teacher sequence — evidence): Geography begins as a daily practice, not a chapter: pupils draw the landscape around their school, the plan of their quarter and Haiti with their school placed on it, read landscape forms and functions from their own croquis, then trace one everyday object (a coffee cup, a phone) from raw material to shop shelf to see the world from the local. That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
@@ -85,3 +89,5 @@ Uganda's own way (Uganda Grade 8 UG S1 Geography Student): Competency-based lowe
 Uganda's own way (Uganda Grade 8 UG S1 Geography TG) (teacher guide — evidence): The guide mirrors the learner book chapter for chapter, adding teacher instructions, possible responses and assessment for every activity — the same East-Africa-first, activity-led pedagogy, plus teacher-only content on plotting weather on maps and making simple weather instruments. That evidence is stocked here as the way Uganda teaches this thing; it is cited as evidence only — Uganda is counted in this lesson through its student book(s).
 
 Uganda's own way (Uganda Grade 10 UG S3 Geography Home-Study): COVID-era self-study booklet: first half is East Africa's human geography (towns/ports, transport, trade) plus heavy practical map-work and photograph interpretation on Ugandan survey-map extracts (Tororo, Kakuto, Samia); second half is a "studies in development" comparison — the Rhinelands and landlocked Switzerland held up as models against East Africa.
+
+Sudan's own way (Sudan Grade 5 SD Geography 5): The first-ever Geography book in the post-2019 curriculum starts from the child's own classroom and school: directions are learned by standing facing the sunrise, map elements through a pupil's-house map, and only then does the book step out to Sudan, Africa and the world — a local-to-global ladder.

@@ -1,6 +1,6 @@
 # Sources — Continents — The Seven in Place
 
-countries: Ethiopia, Ecuador, Dominican Republic, Eritrea, India, North Macedonia, Slovenia
+countries: Ethiopia, Ecuador, Dominican Republic, Eritrea, India, North Macedonia, Slovenia, Sudan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -26,6 +26,8 @@ countries: Ethiopia, Ecuador, Dominican Republic, Eritrea, India, North Macedoni
 
 **Book 12:** *Geografija 8* (student book, Slovenian) — Slovenia, Zavod RS za šolstvo, Ljubljana; year 2015; ISBN 978-961-03-0282-7 (html5). Title as printed: Geografija 8 (i-učbenik / interactive textbook). Grade: Grade 8 (student/teacher: STUDENT). PDF pages: not a PDF — ZIP package (interactive e-textbook) of 444,693,805 bytes; book pagination runs to printed p. 177+ (Kazalo); all 202 content HTML pages read — every extracted file's decompressed size verified against the ZIP central directory (203/203 files OK). Verdict: COMPLETE (text content; the package's videos/images were not individually viewed — the teaching text, headings, summaries and tasks were read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/slovenia-placements.md.
 
+**Book 13:** *كتاب الجغرافيا — Geography Book, First Year Intermediate (الصف الأول المتوسط)* (student book, Arabic) — Republic of Sudan, Ministry of Education, National Centre for Curricula and Educational Research (Bakht al-Ruda); first edition 2021; no ISBN printed. Title as printed: كتاب الجغرافيا — Geography Book, First Year Intermediate (الصف الأول المتوسط). Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 104 (cover verified against the record title; byte size 18,445,877 and page count match the staging books.json record exactly; read via the recorded Drive source_url after grab.py failed/truncated — GitHub-secured book, download deleted after filing). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Asia — the largest | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 3–4 |
@@ -39,6 +41,7 @@ countries: Ethiopia, Ecuador, Dominican Republic, Eritrea, India, North Macedoni
 | North Macedonia part (Grade 9 mk-g9) — Тема II Африка: Географска положба, граници и откривање | North Macedonia, *North Macedonia Grade 9 mk-g9*, Тема II Африка: Географска положба, граници и откривање — printed p. 48 |
 | North Macedonia part (Grade 9 mk-g9) — Тема III Америка: Географска положба, големина и откривање | North Macedonia, *North Macedonia Grade 9 mk-g9*, Тема III Америка: Географска положба, големина и откривање — printed p. 82 |
 | Slovenia part — Amerika in njena delitev: Lega Amerike / Delitev Amerike (the Americas' position and division) | Slovenia, *Slovenia Grade 8 Geografija 8*, Amerika in njena delitev: Lega Amerike / Delitev Amerike (the Americas' position and division) — printed p. 84 |
+| Sudan part — The world's continents: old world and new world (Unit 1 opener) | Sudan, *Sudan Grade 7 SD Geography 7*, The world's continents: old world and new world (Unit 1 opener) — printed p. 4 |
 
 | Sub lesson 4 — Africa and Antarctica — Grade 11 portraits (Grade 11 depth) | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 1, printed pp. 17–18 |
 | Sub lesson 5 — Asia, Europe and Australia — Grade 11 portraits (Grade 11 depth) | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 1, printed pp. 17–18 |
@@ -48,7 +51,7 @@ countries: Ethiopia, Ecuador, Dominican Republic, Eritrea, India, North Macedoni
 | Dominican Republic part (Grade 6) — The continents of the Earth: how they formed (Unidad 2) | Dominican Republic, *Ciencias Sociales, Sexto Grado, Primaria (Libro Abierto)*, Grade 6, The continents of the Earth: how they formed (Unidad 2) — printed p. 29 |
 | Dominican Republic part (Grade 3) — I know the continents: I live on a continent | Dominican Republic, *Ciencias Sociales, Tercer Grado, Primaria (Libro Abierto)*, Grade 3, I know the continents: I live on a continent — printed p. 18 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Ecuador, Dominican Republic, Eritrea, India, North Macedonia, Slovenia).**
+**Acceptance count: taught in 8 countries (Ethiopia, Ecuador, Dominican Republic, Eritrea, India, North Macedonia, Slovenia, Sudan).**
 
 Pairing warning: the Grade 8 teacher guide is an Addis Ababa bureau book and the student book is an Amhara bureau book; they are NOT edition-matched, and the guide in hand is truncated (printed pp. 1–47 only, Units 1–3). Pupil content in this lesson comes from the Amhara student book; anything from the guide is labelled (teacher guide — evidence) and never presented as pupil-taught.
 
@@ -71,3 +74,5 @@ North Macedonia's own way (Grade 7 mk-g7): regional geography taught continent b
 North Macedonia's own way (Grade 9 mk-g9): Grade 9 finishes the regional-geography cycle with the non-European continents — Asia again in greater depth (climate factors and phenomena, monsoons and typhoons, air pollution), then Africa, the Americas, and Australia with Oceania and the polar regions — each continent in the same pattern: position and coastline, relief, climate, hydrography, natural wealth and economy, population, a regional review, one or two spotlight countries (China, India; South Africa; USA, Brazil) and one problem lesson (food and water shortage in Africa; air pollution in Asia; global warming in the polar regions).
 
 Slovenia's own way (Slovenia Grade 8 Geografija 8): Grade 8 is pure world regional geography, continent by continent (Africa, Australia/Oceania, the Americas and polar regions), each region worked through the same grid — position/relief/waters, climate/vegetation, population, economy — and the book closes with two world-problems units (rainforest loss, desert spread, water conflicts, the Aral Sea).
+
+Sudan's own way (Sudan Grade 7 SD Geography 7): A continents book: after a world opener (continents, oceans, relief, world environments), each continent — Africa, Asia, Europe — gets the same treatment in the same order (relief, drainage, climate, vegetation, population, economic activity, environmental problems), closing with a British Isles case study; Sudan and Africa anchor the examples throughout.

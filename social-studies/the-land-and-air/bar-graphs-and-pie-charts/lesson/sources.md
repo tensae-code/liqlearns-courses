@@ -1,6 +1,6 @@
 # Sources — Bar graphs and pie charts
 
-countries: Ethiopia, Samoa, Malaysia, Uganda
+countries: Ethiopia, Samoa, Malaysia, Uganda, Sudan
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Samoa, Malaysia, Uganda
 
 **Book 6:** *Home-Study Learning — Senior 1 Geography (August 2020)* (student book, English) — Ministry of Education and Sports / National Curriculum Development Centre (NCDC); year 2020; ISBN no ISBN printed. Title as printed: Home-Study Learning — Senior 1 Geography (August 2020). Grade: Senior One = Grade 8 (student/teacher: STUDENT). PDF pages: 38 (cover verified: "HOME-STUDY LEARNING SENIOR 1 GEOGRAPHY", NCDC, August 2020 — matches record page count 38 exactly; read via the record's books.json source_url at f.openpdfs.org, mirror of the NCDC booklet, after grab.py routes failed with RemoteDisconnected from api.github.com). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/uganda-placements.md.
 
+**Book 7:** *الجغرافيا والدراسات البيئية — Geography and Environmental Studies, Second Year Secondary (الصف الثاني الثانوي)* (student book, Arabic) — Republic of Sudan, National Centre for Curricula and Educational Research (Bakht al-Ruda); revised edition 2012; no ISBN printed (file is the Rowad Al-Tamayoz distribution copy, verified cover + title page against the record). Title as printed: الجغرافيا والدراسات البيئية — Geography and Environmental Studies, Second Year Secondary (الصف الثاني الثانوي). Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 238 (cover verified against the record title; byte size 66,750,855 and page count match the staging books.json record exactly; read via the recorded Drive source_url after grab.py failed/truncated — GitHub-secured book, download deleted after filing). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Bar graphs | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 8, printed pp. 224–226 |
@@ -23,8 +25,9 @@ countries: Ethiopia, Samoa, Malaysia, Uganda
 | Malaysia part (MY T3 Geografi Tingkatan 3) — Bab 1 Jadual dan Graf: features and uses of tables and graphs; building tables; building simple bar, line and combined graphs; interpreting them (placement slug: population-transport-and-maps/geography-data-tables-graphs-and-charts) | Malaysia, *MY T3 Geografi*, Bab 1 Jadual dan Graf: features and uses of tables and graphs; building tables; building simple bar, line and combined graphs; interpreting them — printed pp. 2-19 |
 | Malaysia part (MY T5 Geografi Tingkatan 5) — Bab 1: multiple bar graphs, multiple line graphs and pie charts — their uses, how to produce them, and how to analyse them (placement slug: population-transport-and-maps/geography-data-tables-graphs-and-charts) | Malaysia, *MY T5 Geografi*, Bab 1: multiple bar graphs, multiple line graphs and pie charts — their uses, how to produce them, and how to analyse them — printed pp. 2-18 |
 | Uganda part — Lesson 4: Finding out information from statistics, charts and graphs (Kilembe Mines) | Uganda, *Uganda Grade 8 UG S1 Geography Home-Study*, Lesson 4: Finding out information from statistics, charts and graphs (Kilembe Mines) — printed p. 11 |
+| Sudan part — Graphical forms: bars, circles and lines for geographic data (Unit 2) | Sudan, *Sudan Grade 11 SD Geography 11*, Graphical forms: bars, circles and lines for geographic data (Unit 2) — printed p. 33 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Samoa, Malaysia, Uganda).**
+**Acceptance count: taught in 5 countries (Ethiopia, Samoa, Malaysia, Uganda, Sudan).**
 
 Searchable tags: bar graphs, pie charts, kokosa rainfall, export destinations, percentages, social studies
 
@@ -35,3 +38,5 @@ Malaysia's own way (MY T3 Geografi Tingkatan 3): Form 3 turns from skills (table
 Malaysia's own way (MY T5 Geografi Tingkatan 5): the final form is the world's systems book — advanced graphs and photo interpretation, then weather and climate at world scale, vegetation and wildlife by climate zone, energy, and the environmental bill for economic activity.
 
 Uganda's own way (Uganda Grade 8 UG S1 Geography Home-Study): A home-based compression of the Senior One course: fieldwork is done around the learner's own home, photographs and statistics (Kilembe Mines data) replace classroom map work, and the booklet ends on East Africa's location, size and relief.
+
+Sudan's own way (Sudan Grade 11 SD Geography 11): The human-geography year: population first (races, religions, census, density, dynamics, structure), then a full practical unit on distribution maps and graphs, then regional geography — the world studied continent by continent as regions — and a closing full unit on Sudan itself, natural basis to environmental problems.

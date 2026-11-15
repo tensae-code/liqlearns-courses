@@ -1,6 +1,6 @@
 # Sources — Globalization — gains and costs
 
-countries: Ethiopia, Haiti, Costa Rica, Bolivia, Samoa, Colombia, Malaysia, North Macedonia, Cambodia, Fiji
+countries: Ethiopia, Haiti, Costa Rica, Bolivia, Samoa, Colombia, Malaysia, North Macedonia, Cambodia, Fiji, Sudan
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -28,6 +28,8 @@ countries: Ethiopia, Haiti, Costa Rica, Bolivia, Samoa, Colombia, Malaysia, Nort
 
 **Book 13:** *Exploring the World — Year 8 Pupil's Book* (student book, English) — Fiji, Ministry of Education, Fiji (Curriculum Development Unit); year 2015; ISBN no ISBN printed. Title as printed: Exploring the World — Year 8 Pupil's Book. Grade: Year 8 (student/teacher: STUDENT). PDF pages: 73 (title page verified against the record title — the title page itself notes the cover page is held separately; all teaching content present). Verdict: PARTIAL — cover art page absent from the file; all teaching content present. Acquisition note: read from the books.json record's own Wayback source_url (ministry original) after the grab.py GitHub API route failed as in Book 1. Non-Geography parts named, not placed: Unit 1 Social Organisation and Processes — world organisations, personal/social groups, cultural identity and cohesion (printed pp. 7–24); Unit 2 Time, Continuity and Change — understanding the past and continuity and change in world history (pp. 25–36). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
 
+**Book 14:** *الجغرافيا والدراسات البيئية — Geography and Environmental Studies, Third Year Secondary (الصف الثالث الثانوي)* (student book, Arabic) — Republic of Sudan, Ministry of General Education, National Centre for Curricula and Educational Research (Bakht al-Ruda); revised edition 2009; ISBN 978-99942-53-4-3 (file is the Rowad Al-Tamayoz reprint/distribution copy, verified cover + title page against the record). Title as printed: الجغرافيا والدراسات البيئية — Geography and Environmental Studies, Third Year Secondary (الصف الثالث الثانوي). Grade: Grade 12 (student/teacher: STUDENT). PDF pages: 230 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The connected world | G12 student #56, printed pp. 129–134 |
@@ -44,8 +46,9 @@ countries: Ethiopia, Haiti, Costa Rica, Bolivia, Samoa, Colombia, Malaysia, Nort
 | Cambodia part — Ch.5 L1 ពិភពូបនីយកម្មនៃបណ្តាញ (globalisation of the trading networks — GATT and world trade growth) | Cambodia, *Cambodia Grade 11 Geography*, Ch.5 L1 ពិភពូបនីយកម្មនៃបណ្តាញ (globalisation of the trading networks — GATT and world trade growth) — printed p. 120 |
 | Cambodia part — Ch.5 L2 អំណាចសេដ្ឋកិច្ចពិភពលោក (the world's economic powers) | Cambodia, *Cambodia Grade 12 Geography*, Ch.5 L2 អំណាចសេដ្ឋកិច្ចពិភពលោក (the world's economic powers) — printed p. 126 |
 | Fiji part — 4.2 People and Work, 4.2A Globalisation (international integration through trade, capital, migration and knowledge; transport and communications shrinking the world; globalisation and the environment) | Fiji, *Fiji Year 8 Social Science*, 4.2 People and Work, 4.2A Globalisation (international integration through trade, capital, migration and knowledge; transport and communications shrinking the world; globalisation and the environment) — printed p. 65 |
+| Sudan part — Globalisation and its economic faces | Sudan, *Sudan Grade 12 SD Geography 12*, Globalisation and its economic faces — printed p. 140 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Costa Rica, Bolivia, Samoa, Colombia, Malaysia, North Macedonia, Cambodia, Fiji). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 10 countries (Ethiopia, Costa Rica, Bolivia, Samoa, Colombia, Malaysia, North Macedonia, Cambodia, Fiji, Sudan). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
 
 Haiti's own way (teacher sequence — evidence): Geography begins as a daily practice, not a chapter: pupils draw the landscape around their school, the plan of their quarter and Haiti with their school placed on it, read landscape forms and functions from their own croquis, then trace one everyday object (a coffee cup, a phone) from raw material to shop shelf to see the world from the local. That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
@@ -72,3 +75,5 @@ Cambodia's own way (Cambodia Grade 11 Geography): the standalone upper-secondary
 Cambodia's own way (Cambodia Grade 12 Geography): the final Geography year is economic geography — Cambodia's population, inequalities, farm/industry/energy/trade/tourism economy and urbanisation first, then the world's economic poles studied one by one: the USA, Japan and the European Union.
 
 Fiji's own way (Fiji Year 8 Social Science): Year 8 turns fully outward — "Exploring the World": world climate zones read from Fiji's tropical position, then global warming, resource management (including money and time) and globalisation from a Fiji/Pacific viewpoint.
+
+Sudan's own way (Sudan Grade 12 SD Geography 12): The final-year book is organised as applied geography: it opens with a full revision exercise on a Port Sudan contour map (contours, scale, cross-sections, watershed lines), then remote sensing and photo interpretation, then world economic geography, and closes on human–environment global problems, repeatedly pulling Sudanese examples (Gezira scheme, gum arabic, Sudanese oil, farming systems of Sudan) into the world treatment.

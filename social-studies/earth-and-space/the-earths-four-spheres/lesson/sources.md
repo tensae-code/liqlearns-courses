@@ -1,6 +1,6 @@
 # Sources — The Earth's Four Spheres
 
-countries: Ethiopia, Myanmar, Nauru, Tuvalu, Niue, Palestine, Angola, Dominican Republic, Malaysia, India, Fiji
+countries: Ethiopia, Myanmar, Nauru, Tuvalu, Niue, Palestine, Angola, Dominican Republic, Malaysia, India, Fiji, Sudan
 
 **Book 3:** *Social Studies Teacher's Guide, Grade 7* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, first edition 2022 (© 2014 E.C.), 142 printed pp. Printed page = PDF page - 5. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-teacher-placements.md.
 
@@ -24,6 +24,8 @@ countries: Ethiopia, Myanmar, Nauru, Tuvalu, Niue, Palestine, Angola, Dominican 
 
 **Book 13:** *Rediscovering Society — Social Science Year 9* (student book, English) — Fiji, Curriculum Development Unit, Ministry of Education, National Heritage, Culture & Arts, Suva; year 2013 (copyright 2011); ISBN no ISBN printed. Title as printed: Rediscovering Society — Social Science Year 9. Grade: Year 9 (student/teacher: STUDENT). PDF pages: 162 (cover/title page verified against the record title). Verdict: COMPLETE. Acquisition note: read from the books.json record's own Wayback source_url (ministry original; download resumed after a first timed-out partial file) after the grab.py GitHub API route failed as in Book 1. Non-Geography parts named, not placed: Chapter 1 Social Organisation and Processes — Unit 1 Society and culture (printed pp. 7–36), Unit 2 Community living (pp. 37–62), Unit 3 NGOs and regional organisations (pp. 64–74); Chapter 2 Time, Continuity and Change — Unit 1 History of Fiji, pre-contact to cession (pp. 77–97), Unit 2 Current affairs (pp. 99–100). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
 
+**Book 14:** *الجغرافيا والدراسات البيئية — Geography and Environmental Studies, First Year Secondary (الصف الأول الثانوي) [record title omits "and Environmental Studies"]* (student book, Arabic) — Republic of Sudan, Ministry of Education and National Education, National Centre for Curricula and Educational Research (Bakht al-Ruda); year not printed on cover/title pages seen; no ISBN printed. Title as printed: الجغرافيا والدراسات البيئية — Geography and Environmental Studies, First Year Secondary (الصف الأول الثانوي) [record title omits "and Environmental Studies"]. Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 195 (cover verified against the record title; byte size 31,004,701 and page count match the staging books.json record exactly). Verdict: COMPLETE. How read: PDF text layer is font-garbled, so read visually from rendered pages — cover, preface (4-unit structure), unit objectives and interior spreads across all four units. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson (teacher guide — evidence) | Ethiopia, *Social Studies Teacher's Guide, Grade 7*, Unit 1 (§1.3), printed pp. 8–10 |
@@ -39,8 +41,9 @@ countries: Ethiopia, Myanmar, Nauru, Tuvalu, Niue, Palestine, Angola, Dominican 
 | Malaysia part (MY T1 Geografi Tingkatan 1) — Bab 5.1 Bumi: the Earth's physical system (four systems) | Malaysia, *MY T1 Geografi*, Bab 5.1 Bumi: the Earth's physical system (four systems) — printed pp. 42-45 |
 | India part (Grade 6 The Earth Our Habitat) — Ch.5 Major Domains of the Earth: lithosphere, hydrosphere, atmosphere, biosphere and how they interact | India, *India Grade 6 The Earth Our Habitat*, Ch.5 Major Domains of the Earth: lithosphere, hydrosphere, atmosphere, biosphere and how they interact — printed p. 30 |
 | Fiji part — Unit 3 Environment and its Uses: types of environment (physical and cultural environment; the biosphere) | Fiji, *Fiji Year 9 Social Science*, Unit 3 Environment and its Uses: types of environment (physical and cultural environment; the biosphere) — printed p. 145 |
+| Sudan part — The Earth's spheres, including the biosphere (الغلاف الحيوي) | Sudan, *Sudan Grade 10 SD Geography 10*, The Earth's spheres, including the biosphere (الغلاف الحيوي) — printed p. 38 |
 
-**Acceptance count: taught in 9 countries (Nauru, Tuvalu, Niue, Palestine, Angola, Dominican Republic, Malaysia, India, Fiji). Ethiopia and Myanmar are named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 10 countries (Nauru, Tuvalu, Niue, Palestine, Angola, Dominican Republic, Malaysia, India, Fiji, Sudan). Ethiopia and Myanmar are named here as teacher-guide evidence only, counted nowhere.**
 
 Niue's own way: Niue uses the shared Pacific ESD reader suite (Niue advisor Birtha Togahai) — land Geography is taught through Pacific farming itself: taro, pulaka and the coconut "tree of life", with Niue's own crops, exports and name-story ("behold the coconut") as anchor examples, and shifting cultivation/fallowing taught as sound science. That way is stocked here as the way Niue teaches this thing.
 
@@ -65,3 +68,5 @@ Malaysia's own way (MY T1 Geografi Tingkatan 1): a pure Geography textbook organ
 India's own way (Grade 6 The Earth Our Habitat): The first Geography year goes planet → globe → motions → maps → Earth's domains → landforms, and only then turns home: the last two chapters are India itself (location, neighbours, physical divisions, monsoon climate, vegetation and wildlife), so world basics are immediately applied to the home country.
 
 Fiji's own way (Fiji Year 9 Social Science): Secondary geography opens with a full map-skills chapter — grid references, contours and cross-sections practised on Fiji maps — before environment use and conservation, including Pacific methods (shifting cultivation, rotational grazing, appropriate fishing methods).
+
+Sudan's own way (Sudan Grade 10 SD Geography 10): A second-edition foundations book (the preface says necessity forced this 2nd edition): physical geography first (universe to rivers), then climate and vegetation, then a long practical cartography unit, closing with GIS — geography taught as a skills subject, with an activity (نشاط) box on most spreads.

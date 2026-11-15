@@ -1,6 +1,6 @@
 # Sources — Materials of the Crust — Elements, Minerals and Rocks
 
-countries: Ethiopia, Barbados, Malaysia, India, North Macedonia, Slovenia, Vietnam, Papua New Guinea, Uganda
+countries: Ethiopia, Barbados, Malaysia, India, North Macedonia, Slovenia, Vietnam, Papua New Guinea, Uganda, Sudan
 
 **Book 3:** *Social Studies Teacher's Guide, Grade 7* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, first edition 2022 (© 2014 E.C.), 142 printed pp. Printed page = PDF page - 5. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-teacher-placements.md.
 
@@ -26,6 +26,8 @@ countries: Ethiopia, Barbados, Malaysia, India, North Macedonia, Slovenia, Vietn
 
 **Book 14:** *Geography Textbook — Senior One (Lower Secondary Curriculum, Prototype)* (student book, English) — National Curriculum Development Centre (NCDC), Kampala; year 2020 (prototype); ISBN no ISBN printed. Title as printed: Geography Textbook — Senior One (Lower Secondary Curriculum, Prototype). Grade: Senior One = Grade 8 (student/teacher: STUDENT). PDF pages: 126 (cover verified: "GEOGRAPHY TEXTBOOK SENIOR ONE", NCDC Prototype — matches record; read via the record's books.json source_url at ncdc.go.ug after grab.py release and tree routes both failed with RemoteDisconnected from api.github.com, 3 attempts). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/uganda-placements.md.
 
+**Book 15:** *الجغرافيا والدراسات البيئية — Geography and Environmental Studies, First Year Secondary (الصف الأول الثانوي) [record title omits "and Environmental Studies"]* (student book, Arabic) — Republic of Sudan, Ministry of Education and National Education, National Centre for Curricula and Educational Research (Bakht al-Ruda); year not printed on cover/title pages seen; no ISBN printed. Title as printed: الجغرافيا والدراسات البيئية — Geography and Environmental Studies, First Year Secondary (الصف الأول الثانوي) [record title omits "and Environmental Studies"]. Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 195 (cover verified against the record title; byte size 31,004,701 and page count match the staging books.json record exactly). Verdict: COMPLETE. How read: PDF text layer is font-garbled, so read visually from rendered pages — cover, preface (4-unit structure), unit objectives and interior spreads across all four units. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Eight elements, and what a mineral is (teacher guide — evidence) | Ethiopia, *Social Studies Teacher's Guide, Grade 7*, Unit 1, printed pp. 11–14 |
@@ -41,8 +43,9 @@ countries: Ethiopia, Barbados, Malaysia, India, North Macedonia, Slovenia, Vietn
 | Papua New Guinea part — Strand 5 Unit 2, Topic 2: Minerals (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 10 Social Science TG* (teacher guide), Strand 5 Unit 2, Topic 2: Minerals — printed p. 258 |
 | Papua New Guinea part — Unit 11.1: rock and soil properties studied in the surrounding environment, soil profiles (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 11 Geography TG OBE* (teacher guide), Unit 11.1: rock and soil properties studied in the surrounding environment, soil profiles — printed p. 32 |
 | Uganda part — Ch.8 Rocks and Landforms: three rock types, igneous intrusive/extrusive | Uganda, *Uganda Grade 8 UG S1 Geography Student*, Ch.8 Rocks and Landforms: three rock types, igneous intrusive/extrusive — printed p. 80 |
+| Sudan part — Crustal rocks and their kinds (Unit 1) | Sudan, *Sudan Grade 10 SD Geography 10*, Crustal rocks and their kinds (Unit 1) — printed p. 45 |
 
-**Acceptance count: taught in 7 countries (Barbados, Malaysia, India, North Macedonia, Slovenia, Vietnam, Uganda). Ethiopia is named here as teacher-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 8 countries (Barbados, Malaysia, India, North Macedonia, Slovenia, Vietnam, Uganda, Sudan). Ethiopia is named here as teacher-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Barbados's own way: this is the shared Caribbean CSEC examination textbook used in Barbados — every world process is re-taught through Caribbean case studies (the Caribbean plate, Montserrat's volcano, Jamaica's coasts and Kingston's urban problems, St Lucia's reefs, Bahamas/Jamaica/Puerto Rico karst, Guyana's rivers), map and field skills are folded into the chapters, and the course ends in a School-Based Assessment fieldwork project. That way is stocked here as the way Barbados teaches this thing; it does not change the acceptance count above.
 
@@ -69,3 +72,5 @@ Papua New Guinea's own way (Papua New Guinea Grade 10 Social Science TG) (teache
 Papua New Guinea's own way (Papua New Guinea Grades 11–12 Geography TG OBE) (teacher guide — evidence): an outcomes-based guide — it prescribes no lesson scripts; for each syllabus unit it lists suggested learning activities and assessment tasks built around the local environment (soil profiles, local hazard sites, a PNG mine and logging case study, a transect along latitude 6°S), with fieldwork and geographical inquiry as the core skills. That evidence is stocked here as the way Papua New Guinea teaches this thing; it does not change the acceptance count above.
 
 Uganda's own way (Uganda Grade 8 UG S1 Geography Student): Competency-based lower-secondary course taught entirely through East Africa: every skill (maps, fieldwork, photographs) is practised on Ugandan/East African places (Tororo topographic map, Uganda lat/long map), and the physical half is East Africa's relief, landform formation, climate and vegetation rather than world coverage.
+
+Sudan's own way (Sudan Grade 10 SD Geography 10): A second-edition foundations book (the preface says necessity forced this 2nd edition): physical geography first (universe to rivers), then climate and vegetation, then a long practical cartography unit, closing with GIS — geography taught as a skills subject, with an activity (نشاط) box on most spreads.

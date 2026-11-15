@@ -1,6 +1,6 @@
 # Sources — Primary activities — forest products and their uses
 
-countries: Ethiopia, Bolivia, Slovenia, Uganda
+countries: Ethiopia, Bolivia, Slovenia, Uganda, Sudan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 2 — Population Studies and Socio-Economic Activities, printed pp. 44–76).
 
@@ -10,6 +10,10 @@ countries: Ethiopia, Bolivia, Slovenia, Uganda
 
 **Book 4:** *Home-Study Learning — Senior 4 Geography (August 2020)* (student book, English) — Ministry of Education and Sports / National Curriculum Development Centre (NCDC); year 2020; ISBN no ISBN printed. Title as printed: Home-Study Learning — Senior 4 Geography (August 2020). Grade: Senior Four = Grade 11 (student/teacher: STUDENT). PDF pages: 22 (cover verified: "HOME-STUDY LEARNING SENIOR 4 GEOGRAPHY", NCDC, August 2020 — matches record page count 22 exactly; read via the record's books.json source_url, fresh-teacher.github.io mirror of the NCDC booklet, after grab.py routes failed with RemoteDisconnected from api.github.com). Verdict: PARTIAL — the home-study booklet as published contains only three lessons (Lessons 1, 6 and 7); the rest of the Senior Four course is not in this package. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/uganda-placements.md.
 
+**Book 5:** *الجغرافيا والدراسات البيئية — Geography and Environmental Studies, Third Year Secondary (الصف الثالث الثانوي)* (student book, Arabic) — Republic of Sudan, Ministry of General Education, National Centre for Curricula and Educational Research (Bakht al-Ruda); revised edition 2009; ISBN 978-99942-53-4-3 (file is the Rowad Al-Tamayoz reprint/distribution copy, verified cover + title page against the record). Title as printed: الجغرافيا والدراسات البيئية — Geography and Environmental Studies, Third Year Secondary (الصف الثالث الثانوي). Grade: Grade 12 (student/teacher: STUDENT). PDF pages: 230 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sudan-placements.md.
+
+**Book 6:** *الجغرافيا — Geography, Third Year Intermediate (الصف الثالث المتوسط)* (student book, Arabic) — Republic of Sudan, Ministry of Education, National Centre for Curricula and Educational Research (Bakht al-Ruda); year not printed on cover/title pages seen; no ISBN printed. Title as printed: الجغرافيا — Geography, Third Year Intermediate (الصف الثالث المتوسط). Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 160 (cover verified against the record title; byte size 13,733,766 and page count match the staging books.json record exactly). Verdict: COMPLETE. How read: PDF text layer is font-garbled, so read visually from rendered pages — cover, preface (3-unit structure), unit objectives and a full spread of interior pages across all three units. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Two streams from the forest | Ethiopia, *Social Studies Student Textbook, Grade 8* (Amhara Bureau), printed pp. 56–57 |
@@ -17,8 +21,10 @@ countries: Ethiopia, Bolivia, Slovenia, Uganda
 | Bolivia part — The rubber boom (auge de la goma) in the Bolivian Amazon | Bolivia, *Texto de Aprendizaje — Ciencias Sociales, Secundaria 4*, Grade 10, The rubber boom (auge de la goma) in the Bolivian Amazon — printed p. 67 |
 | Slovenia part — Vinogradništvo, sadjarstvo in gozdarstvo (viticulture, fruit growing and forestry) inside Kmetijstvo | Slovenia, *Slovenia Grade 9 Geografija 9*, Vinogradništvo, sadjarstvo in gozdarstvo (viticulture, fruit growing and forestry) inside Kmetijstvo — printed p. 87 |
 | Uganda part — Lesson 6: Forestry Industry in Gabon (factors, importance, problems) | Uganda, *Uganda Grade 11 UG S4 Geography Home-Study*, Lesson 6: Forestry Industry in Gabon (factors, importance, problems) — printed p. 5 |
+| Sudan part — Forest production | Sudan, *Sudan Grade 12 SD Geography 12*, Forest production — printed p. 66 |
+| Sudan part — Forestry production in Sudan and the economic and environmental benefits of forests | Sudan, *Sudan Grade 9 SD Geography 9*, Forestry production in Sudan and the economic and environmental benefits of forests — printed p. 70 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Bolivia, Slovenia, Uganda).**
+**Acceptance count: taught in 5 countries (Ethiopia, Bolivia, Slovenia, Uganda, Sudan).**
 
 Honesty: pupil content comes from the Amhara student book. The Addis Ababa Grade 8 teacher guide is NOT edition-matched to this student book and is truncated (only printed pp. 1–47, Units 1–3, in hand); no guide coverage is claimed for this lesson beyond what its sources rows name.
 
@@ -29,3 +35,7 @@ Searchable tags: primary activities: forest products and their uses, culture and
 Slovenia's own way (Slovenia Grade 9 Geografija 9): Grade 9 turns home — the whole book is Slovenia itself: first the country as a system (position and borders, relief and rocks, climate/vegetation/waters, settlement, population, settlements, economy, transport, environment), then its five natural regions one by one (Alpine, Pre-Alpine with the Ljubljana basin, Dinaric-Karst, Mediterranean, Pannonian). Named, not placed: the EU unit's history of the European Union and Slovenia-in-EU pros/cons (printed p. 7, Civics/History) and the state symbols inside the opening unit (p. 1, Civics).
 
 Uganda's own way (Uganda Grade 11 UG S4 Geography Home-Study): Africa-wide resource geography taught through single-country industry case studies (Gabon's forestry, Africa's fishing grounds with catch/export tables) that Ugandan learners compare with home.
+
+Sudan's own way (Sudan Grade 12 SD Geography 12): The final-year book is organised as applied geography: it opens with a full revision exercise on a Port Sudan contour map (contours, scale, cross-sections, watershed lines), then remote sensing and photo interpretation, then world economic geography, and closes on human–environment global problems, repeatedly pulling Sudanese examples (Gezira scheme, gum arabic, Sudanese oil, farming systems of Sudan) into the world treatment.
+
+Sudan's own way (Sudan Grade 9 SD Geography 9): A single-country book: the whole of Sudan taught in three units — its physical geography, its human geography, then its environmental problems — with map-work activities on Sudan's own maps (states, roads, the Nile) and an infographic "resources of Sudan" spread; the preface warns its statistics change and are only indicators.

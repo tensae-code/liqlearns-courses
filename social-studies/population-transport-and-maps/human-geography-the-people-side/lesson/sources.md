@@ -1,6 +1,6 @@
 # Sources — Human geography — the people side
 
-countries: Ethiopia, Myanmar, Ukraine, Bolivia, Fiji, Uganda
+countries: Ethiopia, Myanmar, Ukraine, Bolivia, Fiji, Uganda, Sudan
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Myanmar, Ukraine, Bolivia, Fiji, Uganda
 
 **Book 7:** *Geography Textbook — Senior One (Lower Secondary Curriculum, Prototype)* (student book, English) — National Curriculum Development Centre (NCDC), Kampala; year 2020 (prototype); ISBN no ISBN printed. Title as printed: Geography Textbook — Senior One (Lower Secondary Curriculum, Prototype). Grade: Senior One = Grade 8 (student/teacher: STUDENT). PDF pages: 126 (cover verified: "GEOGRAPHY TEXTBOOK SENIOR ONE", NCDC Prototype — matches record; read via the record's books.json source_url at ncdc.go.ug after grab.py release and tree routes both failed with RemoteDisconnected from api.github.com, 3 attempts). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/uganda-placements.md.
 
+**Book 8:** *الجغرافيا والدراسات البيئية — Geography and Environmental Studies, Second Year Secondary (الصف الثاني الثانوي)* (student book, Arabic) — Republic of Sudan, National Centre for Curricula and Educational Research (Bakht al-Ruda); revised edition 2012; no ISBN printed (file is the Rowad Al-Tamayoz distribution copy, verified cover + title page against the record). Title as printed: الجغرافيا والدراسات البيئية — Geography and Environmental Studies, Second Year Secondary (الصف الثاني الثانوي). Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 238 (cover verified against the record title; byte size 66,750,855 and page count match the staging books.json record exactly; read via the recorded Drive source_url after grab.py failed/truncated — GitHub-secured book, download deleted after filing). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The people side | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 1, printed pp. 7–8 |
@@ -26,8 +28,9 @@ countries: Ethiopia, Myanmar, Ukraine, Bolivia, Fiji, Uganda
 | Bolivia part — The importance of human geography | Bolivia, *Texto de Aprendizaje — Ciencias Sociales, Secundaria 1*, Grade 7, The importance of human geography — printed p. 9 |
 | Fiji part — Chapter 1 Population and Settlement, 1.1.1 Nature of Population (with the book's human-geography overview) | Fiji, *Fiji Years 11–12 Geography*, Chapter 1 Population and Settlement, 1.1.1 Nature of Population (with the book's human-geography overview) — printed p. 7 |
 | Uganda part — Ch.1 Branches of Geography: human geography | Uganda, *Uganda Grade 8 UG S1 Geography Student*, Ch.1 Branches of Geography: human geography — printed p. 3 |
+| Sudan part — The human foundations of geography: what human geography is and its fields (Unit 1) | Sudan, *Sudan Grade 11 SD Geography 11*, The human foundations of geography: what human geography is and its fields (Unit 1) — printed p. 1 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Ukraine, Bolivia, Fiji, Uganda). Myanmar is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 6 countries (Ethiopia, Ukraine, Bolivia, Fiji, Uganda, Sudan). Myanmar is named here as teacher-guide evidence only, counted nowhere.**
 
 Ukraine's own way: A "Geography: Regions and Countries" course — every region is done in the same order (position, nature/resources, population, primary/secondary/tertiary sectors) then typological country studies with rubrics (country visiting-card, capital, pride of the country, unique experience), ending with Ukraine's own place in the world; research tasks (Дослідження) embedded in chapters. That way is stocked here as the way Ukraine teaches this thing.
 
@@ -40,3 +43,5 @@ Searchable tags: human geography, population, settlement, economic activity, cul
 Fiji's own way (Fiji Years 11–12 Geography): Senior geography splits into Human and Physical volumes; the human volume is organised as four issue-chapters (population/settlement, tourism, agriculture, marine resources), each run the same way — nature, problems, ways of minimising, contemporary issues, future — with Pacific/Fiji theme-country cases.
 
 Uganda's own way (Uganda Grade 8 UG S1 Geography Student): Competency-based lower-secondary course taught entirely through East Africa: every skill (maps, fieldwork, photographs) is practised on Ugandan/East African places (Tororo topographic map, Uganda lat/long map), and the physical half is East Africa's relief, landform formation, climate and vegetation rather than world coverage.
+
+Sudan's own way (Sudan Grade 11 SD Geography 11): The human-geography year: population first (races, religions, census, density, dynamics, structure), then a full practical unit on distribution maps and graphs, then regional geography — the world studied continent by continent as regions — and a closing full unit on Sudan itself, natural basis to environmental problems.

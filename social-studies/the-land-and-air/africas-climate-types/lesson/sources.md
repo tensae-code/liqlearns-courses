@@ -1,6 +1,6 @@
 # Sources — Africa's climate types
 
-countries: Ethiopia, Colombia, Rwanda
+countries: Ethiopia, Colombia, Rwanda, Sudan
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). First published 2023 under GEQIP-E. ISBN: 978-99990-0-049-9. 205 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Colombia, Rwanda
 
 **Book 4:** *Social Studies for Rwanda Schools — Primary 6, Pupil's Book, Revised Edition 2019* (student book, English) — Rwanda, Rwanda Education Board (REB); year ©2019, Revised Edition 2019; ISBN no ISBN printed. Title as printed: Social Studies for Rwanda Schools — Primary 6, Pupil's Book, Revised Edition 2019. Grade: Grade 6 (Primary 6) (student/teacher: STUDENT). PDF pages: 157 (condensed-layout copy; printed pagination runs to p. 277 — cover verified against the record title; byte size 143,704,475 matches the edufeeds source's Content-Length exactly, the assembled file's prefix matches an independently downloaded sequential partial, and the PDF EOF sits at the file end; read from the record's own source URL after grab.py failed with GitHub API RemoteDisconnected; the TSV release record is the same book). Verdict: COMPLETE. Non-Geography parts named, not placed: Unit 2 Civics and governance apart from regional co-operation — national unity and Ndi Umunyarwanda, international co-operation and the UN, government and non-governmental organisations, heroism, risky behaviour, citizenship, leadership and organs of government (Civics), printed pp. 8–95; Unit 3 Hygiene — puberty, menstrual hygiene, chronic diseases (diabetes, cancer) (Health), pp. 96–113; Unit 11 Post independent Rwanda (History), pp. 230–243; Unit 12 The 1994 Genocide Against the Tutsi, incl. the Holocaust and other genocides (History), pp. 244–262; Unit 13 Effects of foreigners on East Africa — explorers, missionaries, traders, colonialists (History), pp. 263–277. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/rwanda-placements.md.
 
+**Book 5:** *كتاب الجغرافيا — Geography Book, First Year Intermediate (الصف الأول المتوسط)* (student book, Arabic) — Republic of Sudan, Ministry of Education, National Centre for Curricula and Educational Research (Bakht al-Ruda); first edition 2021; no ISBN printed. Title as printed: كتاب الجغرافيا — Geography Book, First Year Intermediate (الصف الأول المتوسط). Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 104 (cover verified against the record title; byte size 18,445,877 and page count match the staging books.json record exactly; read via the recorded Drive source_url after grab.py failed/truncated — GitHub-secured book, download deleted after filing). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The list — six African climate types | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 2, printed pp. 32–36 |
@@ -17,8 +19,9 @@ countries: Ethiopia, Colombia, Rwanda
 | Colombia part (CS_Grado4_02) — Guía 10 regional climate comparison method (each natural region described by climate, relief and vegetation) | Colombia, *Ciencias Sociales 4 — Segunda Cartilla, Escuela Nueva*, Guía 10 regional climate comparison method (each natural region described by climate, relief and vegetation) — printed pp. 50–68 |
 | Rwanda part — Climate of Rwanda, East Africa and Africa (Unit 6, Lesson 3) (teacher guide — evidence) | Rwanda, *Rwanda Grade 6 Social Studies TG*, Climate of Rwanda, East Africa and Africa (Unit 6, Lesson 3) — printed p. 112 |
 | Rwanda part — 6.3.1 Types of climate, with the characteristics of Rwanda's climate (Unit 6) | Rwanda, *Rwanda Grade 6 Social Studies SB*, 6.3.1 Types of climate, with the characteristics of Rwanda's climate (Unit 6) — printed p. 166 |
+| Sudan part — Africa's climatic regions | Sudan, *Sudan Grade 7 SD Geography 7*, Africa's climatic regions — printed p. 26 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Colombia, Rwanda).**
+**Acceptance count: taught in 4 countries (Ethiopia, Colombia, Rwanda, Sudan).**
 
 Pairing: the teacher guide was first published in 2022 and the student textbook in 2023, with the same writers and the same eight units in the same order; the student book is the learner text of record, and teacher-guide rows above are evidence only.
 
@@ -29,3 +32,5 @@ Colombia's own way (CS_Grado4_02): the second Grade 4 cartilla is almost pure ph
 Rwanda's own way (Rwanda Grade 6 Social Studies TG) (teacher guide — evidence): P6 widens the frame from the province to the country, then to East Africa and Africa — Rwanda is located by latitude and longitude (1°S–3°S, 28°E–31°E), its landlocked position is taught as the reason for regional co-operation, and every unit is built around a problem statement with the pupil's book activities answered in the guide. That book is a teacher guide, cited as evidence only; Rwanda is counted in this lesson for its student book(s) named here, not for this guide.
 
 Rwanda's own way (Rwanda Grade 6 Social Studies SB): the P6 pupil's book is the fullest Geography book of the set — a whole unit on direction and location works Rwanda onto the East African and African maps by latitude and longitude and time zones, then physical features and climate, and a climate-change sequence (types, change, effects, overcoming) sits inside it; regional co-operation is taught bloc by bloc (COMESA, CEPGL, ECCAS, AU, NEPAD).
+
+Sudan's own way (Sudan Grade 7 SD Geography 7): A continents book: after a world opener (continents, oceans, relief, world environments), each continent — Africa, Asia, Europe — gets the same treatment in the same order (relief, drainage, climate, vegetation, population, economic activity, environmental problems), closing with a British Isles case study; Sudan and Africa anchor the examples throughout.

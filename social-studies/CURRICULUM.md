@@ -4174,3 +4174,94 @@ Between Features On Survey Maps (printed p. 59) — every
 new lesson is taught in 1 country (Uganda), 8 questions
 each.
 Geography lessons: 1704 → 1719.
+
+
+## Sudan — Geography expansion (merged 2026-11-14)
+164 placement lines stocked from Sudan's 8 placed books
+(8 records / 8 distinct books — 5 read via grab.py from
+TSV GitHub releases (Grades 5, 6, 7, 8, 11) and 3 from
+external Google Drive links via the alktab24.com index
+(Grades 9, 10, 12; books.json records already in
+phase3-staging, the Grades 9 and 10 files staged under
+the push-don't-delete rule); all pure Geography,
+Arabic) — the primary Geography books for Grades 5
+(2021) and 6 (2020), the intermediate Geography books
+for Grades 7 (2021), 8 (2022) and 9, and the secondary
+Geography and Environmental Studies books for Grades
+10, 11 (revised 2012) and 12 (revised 2009), all
+Republic of Sudan, Ministry of Education / Ministry of
+General Education, National Centre for Curricula and
+Educational Research (Bakht al-Ruda). The placements
+file's own per-book tallies (38 + 20 + 18 + 11 + 11 +
+27 + 19 + 20) sum to 164 and agree with the
+line-by-line count — no tally discrepancy; all 164
+lines were stocked as written. All 8 books are student
+books, counted in acceptance counts; every book is
+COMPLETE. Stocked into standing lessons (106 placements
+across 72 lessons, every one counting Sudan — the 103
+existing-flagged placements across 69 lessons, plus 3
+NEW-flagged placements whose slugs already stood:
+Africa — A Regional Study, Asia — A Regional Study and
+Europe — A Regional Study, built by the Dominican
+Republic merge, stocked there instead of building
+duplicates, with the original placement slug recorded
+in each provenance row). No placement was excluded. 52
+NEW lessons built (58 placements) — **The Land and
+Air**: Africa Location And Climate Introduction
+(printed p. 12), Asia Climate Regions And Natural
+Vegetation (printed p. 45), Asia Relief Mountains
+Plains And Island Arcs (printed p. 38), Australia Land
+And Relief (printed p. 104), Australia Water And
+Climate (printed p. 109), Brazil A Country Study
+(printed p. 96), Canada A Country Study (printed p.
+45), Drawing A Continent Map With Grid Squares (printed
+p. 35), Europe Climate And Vegetation Regions (printed
+p. 70), Europe Relief And Rivers (printed p. 61), Layer
+Tinting Colouring Height On Maps (printed p. 140), My
+School Map And Its Surroundings (printed p. 22), North
+America A Regional Study (printed p. 127), North
+America Climate (printed p. 16), North America Location
+Area And Peoples (printed p. 1), North America Natural
+Vegetation (printed p. 21), North America Relief
+(printed p. 6), North America Rivers And Drainage
+(printed p. 10), Red Sea Environment Coral Reefs And
+Mangroves (printed p. 12), Regional Geography Studying
+The World Region By Region (printed p. 87), Selected
+Geographic Regions Of The World (printed p. 93), Soils
+Of Sudan Clay Qoz And Desert Soils (printed p. 10),
+South America A Regional Study (printed p. 152), South
+America Climate And Vegetation (printed p. 76), South
+America Location (printed p. 65), South America Relief
+(printed p. 69), South America Water Resources (printed
+p. 83), Sudan Location Area And Its States (printed p.
+2; printed p. 32; printed p. 5), Sudan Relief And
+Climate (printed p. 7; printed p. 163), Sudans
+Environments Desert To Savanna (printed p. 2), The
+British Isles (printed p. 96), Tides The Sea Breathing
+In And Out (printed p. 20); **Population, Transport and
+Maps**: Aerial Photographs Reading The Land From The
+Air (printed p. 16), Cities Of Sudan (printed p. 55),
+Distribution Maps Dots Shading And Symbols (printed p.
+43), Public Services In Town And Village (printed p.
+44), Remote Sensing Sensing The Earth From Above
+(printed p. 10), Satellite Images And What They Show
+(printed p. 37), The Peoples Of The World (printed p.
+8); **People and Resources**: Petroleum In Sudan
+Discovery And Production (printed p. 80), Petroleum
+Where Oil Is Made And Sold (printed p. 86), Sources Of
+Energy Coal Oil Gas And Power (printed p. 80), Sudans
+Resources At A Glance (printed p. 40; printed p. 188),
+World Crops Food Grains And Raw Material Crops (printed
+p. 58); **Culture and Work**: Primary Activities
+Livestock And Animal Production (printed p. 68; printed
+p. 29; printed p. 34); **Resources and Conflict**: War
+Displacement And The Environment (printed p. 150);
+**Global Issues**: Asia Environmental Problems (printed
+p. 56), Disasters Natural And Human Made (printed p.
+183), Europe Environmental Problems (printed p. 93),
+International Agreements To Protect The Environment
+(printed p. 160), Sudans Environmental Problems
+(printed p. 227), The Waste Problem Household To
+Electronic (printed p. 140) — every new lesson is
+taught in 1 country (Sudan), 8 questions each.
+Geography lessons: 1719 → 1771.

@@ -1,6 +1,6 @@
 # Sources — When cities outrun their plans
 
-countries: Ethiopia, Dominican Republic, Malaysia, Cambodia, Fiji, Slovenia, Papua New Guinea, Uganda
+countries: Ethiopia, Dominican Republic, Malaysia, Cambodia, Fiji, Slovenia, Papua New Guinea, Uganda, Sudan
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). Editors: Sintayehu Teka (MSc) (Content Editor), Kassie Molla (MA) (Language Editor), Hirut Woldemichael (MA) (Curriculum Editor). Illustrator: Agenchw Nega (MSc). Designer: Geda Hoka (MA). Evaluators: Dereje Guteta (PhD), Tesfaye Shiferaw (PhD), Abebe Yibeltie (MA), Hussein Seid (MA). First published 2023 under GEQIP-E. ISBN 978-99990-0-049-9. Printed by Gravity Group IND LLC, 13th Industrial Area, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. Printed page = PDF page − 6 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md
 
@@ -30,6 +30,8 @@ countries: Ethiopia, Dominican Republic, Malaysia, Cambodia, Fiji, Slovenia, Pap
 
 **Book 14:** *Home-Study Learning — Senior 3 Geography (August 2020)* (student book, English) — Ministry of Education and Sports / National Curriculum Development Centre (NCDC); year 2020; ISBN no ISBN printed. Title as printed: Home-Study Learning — Senior 3 Geography (August 2020). Grade: Senior Three = Grade 10 (student/teacher: STUDENT). PDF pages: 108 (cover verified: "HOME-STUDY LEARNING SENIOR 3 GEOGRAPHY", NCDC, August 2020 — matches record page count 108 exactly; read via the record's books.json source_url, fresh-teacher.github.io mirror of the NCDC booklet, after grab.py routes failed with RemoteDisconnected from api.github.com). Verdict: COMPLETE (the booklet as published starts at Lesson 2; Lesson 1 is not in this home-study package). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/uganda-placements.md.
 
+**Book 15:** *الجغرافيا والدراسات البيئية — Geography and Environmental Studies, Third Year Secondary (الصف الثالث الثانوي)* (student book, Arabic) — Republic of Sudan, Ministry of General Education, National Centre for Curricula and Educational Research (Bakht al-Ruda); revised edition 2009; ISBN 978-99942-53-4-3 (file is the Rowad Al-Tamayoz reprint/distribution copy, verified cover + title page against the record). Title as printed: الجغرافيا والدراسات البيئية — Geography and Environmental Studies, Third Year Secondary (الصف الثالث الثانوي). Grade: Grade 12 (student/teacher: STUDENT). PDF pages: 230 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The colonial legacy and urban primacy | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 7, printed pp. 161–167 |
@@ -48,8 +50,9 @@ countries: Ethiopia, Dominican Republic, Malaysia, Cambodia, Fiji, Slovenia, Pap
 | Papua New Guinea part — Strand 1 Unit 3: Impacts of urbanization in Papua New Guinea and neighbouring countries (unit topic, content overview) (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 7 Social Science TG* (teacher guide), Strand 1 Unit 3: Impacts of urbanization in Papua New Guinea and neighbouring countries (unit topic, content overview) — printed p. 11 |
 | Papua New Guinea part — Strand 1 Unit 3: Impacts of global urbanization — water shortages, housing and sanitation pressures, Lessons 29–32 (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 8 Social Science TG* (teacher guide), Strand 1 Unit 3: Impacts of global urbanization — water shortages, housing and sanitation pressures, Lessons 29–32 — printed p. 42 |
 | Uganda part — Lesson 4: Problems of Urbanization and their solutions | Uganda, *Uganda Grade 10 UG S3 Geography Home-Study*, Lesson 4: Problems of Urbanization and their solutions — printed p. 11 |
+| Sudan part — Some problems of cities | Sudan, *Sudan Grade 12 SD Geography 12*, Some problems of cities — printed p. 207 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Dominican Republic, Malaysia, Cambodia, Fiji, Slovenia, Uganda). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 8 countries (Ethiopia, Dominican Republic, Malaysia, Cambodia, Fiji, Slovenia, Uganda, Sudan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 No book error is flagged for this lesson's pages in the placements. The student book's §7.3 outcome prints "dentify" for "identify"; the misprint is in a neighbouring section's outcome line, is taught nowhere, and is recorded here because the placements flag it for this unit.
 
@@ -78,3 +81,5 @@ Papua New Guinea's own way (Papua New Guinea Grade 7 Social Science TG) (teacher
 Papua New Guinea's own way (Papua New Guinea Grade 8 Social Science TG) (teacher guide — evidence): the local-to-global ladder completes — after province (G5), nation (G7), Grade 8's Environment and Resources strand is global: global climate, global settlement and population, global farming, urbanization and logging impacts, global hazards and disaster resilience. That evidence is stocked here as the way Papua New Guinea teaches this thing; it does not change the acceptance count above.
 
 Uganda's own way (Uganda Grade 10 UG S3 Geography Home-Study): COVID-era self-study booklet: first half is East Africa's human geography (towns/ports, transport, trade) plus heavy practical map-work and photograph interpretation on Ugandan survey-map extracts (Tororo, Kakuto, Samia); second half is a "studies in development" comparison — the Rhinelands and landlocked Switzerland held up as models against East Africa.
+
+Sudan's own way (Sudan Grade 12 SD Geography 12): The final-year book is organised as applied geography: it opens with a full revision exercise on a Port Sudan contour map (contours, scale, cross-sections, watershed lines), then remote sensing and photo interpretation, then world economic geography, and closes on human–environment global problems, repeatedly pulling Sudanese examples (Gezira scheme, gum arabic, Sudanese oil, farming systems of Sudan) into the world treatment.

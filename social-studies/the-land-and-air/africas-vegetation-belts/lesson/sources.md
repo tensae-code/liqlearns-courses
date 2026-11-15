@@ -1,6 +1,6 @@
 # Sources — Africa's vegetation belts
 
-countries: Ethiopia, Slovenia, Uganda
+countries: Ethiopia, Slovenia, Uganda, Sudan
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). First published 2023 under GEQIP-E. ISBN: 978-99990-0-049-9. 205 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md.
 
@@ -8,14 +8,17 @@ countries: Ethiopia, Slovenia, Uganda
 
 **Book 3:** *Excel Standard Social Studies, Pupil's Book 5 (First Edition)* (student book, English) — Excel Publishers, Kampala; year not printed (First Edition); ISBN no ISBN printed. Title as printed: Excel Standard Social Studies, Pupil's Book 5 (First Edition). Grade: Primary Five = Grade 5 (student/teacher: STUDENT). PDF pages: 213 (title page verified: "EXCEL STANDARD SOCIAL STUDIES PUPIL'S BOOK 5 — EXCEL PUBLISHERS" — matches record page count 213 exactly; read via the record's books.json source_url at exoticnotes.com after grab.py routes failed with RemoteDisconnected from api.github.com). Commercial book built on the NCDC Primary Five SST syllabus, filed in the library under gov/uganda — see library debts in the group log.. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/uganda-placements.md.
 
+**Book 4:** *كتاب الجغرافيا — Geography Book, First Year Intermediate (الصف الأول المتوسط)* (student book, Arabic) — Republic of Sudan, Ministry of Education, National Centre for Curricula and Educational Research (Bakht al-Ruda); first edition 2021; no ISBN printed. Title as printed: كتاب الجغرافيا — Geography Book, First Year Intermediate (الصف الأول المتوسط). Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 104 (cover verified against the record title; byte size 18,445,877 and page count match the staging books.json record exactly; read via the recorded Drive source_url after grab.py failed/truncated — GitHub-secured book, download deleted after filing). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Vegetation follows climate — the master control | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 3, printed pp. 73–78 |
 | Sub lesson 2 — The belts in order | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 3, printed pp. 73–78 |
 | Slovenia part — Rastlinstvo (Africa's vegetation) inside Podnebje in rastlinstvo Afrike | Slovenia, *Slovenia Grade 8 Geografija 8*, Rastlinstvo (Africa's vegetation) inside Podnebje in rastlinstvo Afrike — printed p. 8 |
 | Uganda part — Topic 4: Vegetation Zones of Uganda | Uganda, *Uganda Grade 5 UG Excel P5 SST*, Topic 4: Vegetation Zones of Uganda — printed p. 62 |
+| Sudan part — Africa's vegetation regions, matched to climate | Sudan, *Sudan Grade 7 SD Geography 7*, Africa's vegetation regions, matched to climate — printed p. 26 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Slovenia, Uganda).**
+**Acceptance count: taught in 4 countries (Ethiopia, Slovenia, Uganda, Sudan).**
 
 Pairing: the teacher guide was first published in 2022 and the student textbook in 2023, with the same writers and the same eight units in the same order; the student book is the learner text of record, and teacher-guide rows above are evidence only.
 
@@ -24,3 +27,5 @@ Searchable tags: vegetation belts, flora, climate control of vegetation, biotic 
 Slovenia's own way (Slovenia Grade 8 Geografija 8): Grade 8 is pure world regional geography, continent by continent (Africa, Australia/Oceania, the Americas and polar regions), each region worked through the same grid — position/relief/waters, climate/vegetation, population, economy — and the book closes with two world-problems units (rainforest loss, desert spread, water conflicts, the Aral Sea).
 
 Uganda's own way (Uganda Grade 5 UG Excel P5 SST): A full-year commercial companion to the NCDC syllabus, far more detailed than the home-study booklet: Uganda's districts/regions are listed sub-region by sub-region, and each Uganda topic (physical features, climate, vegetation, resources, population) gets its own full treatment. Non-Geography parts named, not placed: Topic 6 The People of Pre-colonial Uganda — origins, ethnic groups, political/social/economic organisation (History, printed pp. 89–117, except its migration and settlement sections, placed below); Topic 7 Foreign Influence — traders, explorers, missionaries, colonial administrators (History, pp. 118–142); Topic 8 How Uganda Became a Nation (History, pp. 143–148); Topic 9 The Road to Independence (History, pp. 149–158); Topic 10 Uganda as an Independent Nation — presidents, national symbols, democracy, elections (Civics, pp. 159–173); Topic 11 The Government of Uganda — levels, organs, constitution, revenue, budgeting, citizens' rights (Civics, pp. 174–193).
+
+Sudan's own way (Sudan Grade 7 SD Geography 7): A continents book: after a world opener (continents, oceans, relief, world environments), each continent — Africa, Asia, Europe — gets the same treatment in the same order (relief, drainage, climate, vegetation, population, economic activity, environmental problems), closing with a British Isles case study; Sudan and Africa anchor the examples throughout.

@@ -1,6 +1,6 @@
 # Sources — Transport — choosing a mode
 
-countries: Ethiopia, Guatemala, Bahamas, Zimbabwe, Slovenia
+countries: Ethiopia, Guatemala, Bahamas, Zimbabwe, Slovenia, Sudan
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 2, placements 27–43).
 **Book 2:** *Social Studies Teacher's Guide, Grade 7* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, first edition 2022 (2014 E.C.). Printed page = PDF page − 5. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-teacher-placements.md (Unit 2, and §3.2 for the optimum-population lesson).
@@ -17,6 +17,8 @@ countries: Ethiopia, Guatemala, Bahamas, Zimbabwe, Slovenia
 
 **Book 8:** *Geografija 9* (student book, Slovenian) — Slovenia, Zavod RS za šolstvo, Ljubljana; year 2015; ISBN 978-961-03-0283-4. Title as printed: Geografija 9 (i-učbenik / interactive textbook). Grade: Grade 9 (student/teacher: STUDENT). PDF pages: not a PDF — ZIP package (interactive e-textbook) of 785,080,227 bytes; book pagination runs to printed p. 241 (Kazalo); all 296 content HTML pages extracted by range request and size-verified against the ZIP central directory, and read. Verdict: COMPLETE (text content; the package's videos/images were not individually viewed — the teaching text, headings, summaries and tasks were read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/slovenia-placements.md.
 
+**Book 9:** *الجغرافيا والدراسات البيئية — Geography and Environmental Studies, Third Year Secondary (الصف الثالث الثانوي)* (student book, Arabic) — Republic of Sudan, Ministry of General Education, National Centre for Curricula and Educational Research (Bakht al-Ruda); revised edition 2009; ISBN 978-99942-53-4-3 (file is the Rowad Al-Tamayoz reprint/distribution copy, verified cover + title page against the record). Title as printed: الجغرافيا والدراسات البيئية — Geography and Environmental Studies, Third Year Secondary (الصف الثالث الثانوي). Grade: Grade 12 (student/teacher: STUDENT). PDF pages: 230 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The judgement table | Ethiopia, *Social Studies Student Textbook, Grade 7* (Amhara Bureau), printed p. 41 |
@@ -28,8 +30,9 @@ countries: Ethiopia, Guatemala, Bahamas, Zimbabwe, Slovenia
 | Zimbabwe part (Grade 7) — Unit 14: Factors that influence the choice of mode of transport and communication (teacher guide — evidence) | Zimbabwe, *PlusOne Social Science Grade 7 Teacher's Guide* (teacher guide), Unit 14: Factors that influence the choice of mode of transport and communication — printed p. 32 |
 | Zimbabwe part (Grade 6) — Unit 19: Modes of transport and communication (teacher guide — evidence) | Zimbabwe, *PlusOne Social Science Grade 6 Teacher's Guide* (teacher guide), Unit 19: Modes of transport and communication — printed p. 41 |
 | Slovenia part — Promet in njegov vpliv na okolje (transport and its effect on the environment) inside Promet | Slovenia, *Slovenia Grade 9 Geografija 9*, Promet in njegov vpliv na okolje (transport and its effect on the environment) inside Promet — printed p. 97 |
+| Sudan part — Transport routes and modes | Sudan, *Sudan Grade 12 SD Geography 12*, Transport routes and modes — printed p. 121 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Guatemala, Bahamas, Slovenia). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 5 countries (Ethiopia, Guatemala, Bahamas, Slovenia, Sudan). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
 
 Pairing warning (honesty): Book 2 is an Addis Ababa bureau guide in English; Book 1 is an Amhara bureau student book in Amharic. They are NOT edition-matched companions — the guide's unit order differs and whole student topics (maps, globes, GPS) have no guide counterpart, so no guide coverage is claimed for them. Guide material is used only as labelled teacher evidence.
 
@@ -46,3 +49,5 @@ Zimbabwe's own way (Grade 7) (teacher guide — evidence): Grade 7 turns analyti
 Zimbabwe's own way (Grade 6) (teacher guide — evidence): Grade 6 shelter becomes settlement geography — development of settlements in Zimbabwe, siting of shelter in rural and urban areas, and disaster and risk management; transport adds road signs/signals/markings and Zimbabwe's transport and communication links with other countries, plus ICT development. That evidence is stocked here as the way Zimbabwe teaches this thing; it does not change the acceptance count above.
 
 Slovenia's own way (Slovenia Grade 9 Geografija 9): Grade 9 turns home — the whole book is Slovenia itself: first the country as a system (position and borders, relief and rocks, climate/vegetation/waters, settlement, population, settlements, economy, transport, environment), then its five natural regions one by one (Alpine, Pre-Alpine with the Ljubljana basin, Dinaric-Karst, Mediterranean, Pannonian). Named, not placed: the EU unit's history of the European Union and Slovenia-in-EU pros/cons (printed p. 7, Civics/History) and the state symbols inside the opening unit (p. 1, Civics).
+
+Sudan's own way (Sudan Grade 12 SD Geography 12): The final-year book is organised as applied geography: it opens with a full revision exercise on a Port Sudan contour map (contours, scale, cross-sections, watershed lines), then remote sensing and photo interpretation, then world economic geography, and closes on human–environment global problems, repeatedly pulling Sudanese examples (Gezira scheme, gum arabic, Sudanese oil, farming systems of Sudan) into the world treatment.

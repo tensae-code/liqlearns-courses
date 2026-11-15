@@ -1,6 +1,6 @@
 # Sources — Crude Density
 
-countries: Ethiopia, Morocco, Eritrea, Slovenia, Uganda
+countries: Ethiopia, Morocco, Eritrea, Slovenia, Uganda, Sudan
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (placement 48).
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Morocco, Eritrea, Slovenia, Uganda
 
 **Book 6:** *Excel Standard Social Studies, Pupil's Book 6 (First Edition)* (student book, English) — Excel Publishers, Kampala; year not printed (First Edition); ISBN no ISBN printed. Title as printed: Excel Standard Social Studies, Pupil's Book 6 (First Edition). Grade: Primary Six = Grade 6 (student/teacher: STUDENT). PDF pages: 210 (title page verified: "EXCEL STANDARD SOCIAL STUDIES PUPIL'S BOOK 6 — EXCEL PUBLISHERS" — matches record page count 210 exactly; read via the record's books.json source_url at exoticnotes.com after grab.py routes failed with RemoteDisconnected from api.github.com). Commercial book built on the NCDC Primary Six SST syllabus, filed in the library under gov/uganda — see library debts in the group log.. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/uganda-placements.md.
 
+**Book 7:** *الجغرافيا والدراسات البيئية — Geography and Environmental Studies, Second Year Secondary (الصف الثاني الثانوي)* (student book, Arabic) — Republic of Sudan, National Centre for Curricula and Educational Research (Bakht al-Ruda); revised edition 2012; no ISBN printed (file is the Rowad Al-Tamayoz distribution copy, verified cover + title page against the record). Title as printed: الجغرافيا والدراسات البيئية — Geography and Environmental Studies, Second Year Secondary (الصف الثاني الثانوي). Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 238 (cover verified against the record title; byte size 66,750,855 and page count match the staging books.json record exactly; read via the recorded Drive source_url after grab.py failed/truncated — GitHub-secured book, download deleted after filing). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Density and the four bands — density is people per km²: over 100 high, 21–100 medium, 5–20 low, under 5 counted as uninhabited | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 3, printed p. 65 |
@@ -24,8 +26,9 @@ countries: Ethiopia, Morocco, Eritrea, Slovenia, Uganda
 | Slovenia part — Dejavniki vpliva na prebivalstvo: Gostota poselitve (settlement density and its natural/social factors) | Slovenia, *Slovenia Grade 10 Geografija 1 (gimnazija)*, Dejavniki vpliva na prebivalstvo: Gostota poselitve (settlement density and its natural/social factors) — printed p. 197 |
 | Uganda part — Topic 12: Population density | Uganda, *Uganda Grade 5 UG Excel P5 SST*, Topic 12: Population density — printed p. 199 |
 | Uganda part — Population density | Uganda, *Uganda Grade 6 UG Excel P6 SST*, Population density — printed p. 70 |
+| Sudan part — Population density: why it varies, high- and low-density regions of the world | Sudan, *Sudan Grade 11 SD Geography 11*, Population density: why it varies, high- and low-density regions of the world — printed p. 13 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Eritrea, Slovenia, Uganda). Morocco is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 5 countries (Ethiopia, Eritrea, Slovenia, Uganda, Sudan). Morocco is named here as teacher-guide evidence only, counted nowhere.**
 
 Morocco's own way (teacher guide — evidence): in Morocco's Year 5 guide, population density is met inside "Population in my homeland — distribution and structure", where the meaning of population density belongs to reading the homeland's own population — its distribution read from Morocco's density map is stocked as its own lesson (Morocco's Population Distribution). That evidence is stocked here as the way Morocco teaches this thing; it does not change the acceptance count above.
 
@@ -40,3 +43,5 @@ Slovenia's own way (Slovenia Grade 10 Geografija 1 (gimnazija)): the gimnazija f
 Uganda's own way (Uganda Grade 5 UG Excel P5 SST): A full-year commercial companion to the NCDC syllabus, far more detailed than the home-study booklet: Uganda's districts/regions are listed sub-region by sub-region, and each Uganda topic (physical features, climate, vegetation, resources, population) gets its own full treatment. Non-Geography parts named, not placed: Topic 6 The People of Pre-colonial Uganda — origins, ethnic groups, political/social/economic organisation (History, printed pp. 89–117, except its migration and settlement sections, placed below); Topic 7 Foreign Influence — traders, explorers, missionaries, colonial administrators (History, pp. 118–142); Topic 8 How Uganda Became a Nation (History, pp. 143–148); Topic 9 The Road to Independence (History, pp. 149–158); Topic 10 Uganda as an Independent Nation — presidents, national symbols, democracy, elections (Civics, pp. 159–173); Topic 11 The Government of Uganda — levels, organs, constitution, revenue, budgeting, citizens' rights (Civics, pp. 174–193).
 
 Uganda's own way (Uganda Grade 6 UG Excel P6 SST): The P6 course widens from Uganda to the whole East African Community: location by latitude/longitude, resources, transport and communication are all taught at EAC scale. Non-Geography parts named, not placed: Topic 1 — historical background, formation, revival, organs and symbols of the EAC (Civics); The People of East Africa — origin of human beings, sources of history, archaeological sites, Stone Age, ethnic groups and their political/social/economic organisation (History, printed pp. 25–54); Early visitors — Arab traders, long-distance and slave trade, European traders, Christian missionaries (History, pp. 55–64); Topic 4 The Road to Independence in East Africa — explorers, scramble and partition, colonial rule and reactions, independence struggle, post-independence leaders and democratic rule (History/Civics, pp. 140–188).
+
+Sudan's own way (Sudan Grade 11 SD Geography 11): The human-geography year: population first (races, religions, census, density, dynamics, structure), then a full practical unit on distribution maps and graphs, then regional geography — the world studied continent by continent as regions — and a closing full unit on Sudan itself, natural basis to environmental problems.

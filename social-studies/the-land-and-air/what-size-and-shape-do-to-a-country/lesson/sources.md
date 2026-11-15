@@ -1,6 +1,6 @@
 # Sources — What size and shape do to a country
 
-countries: Ethiopia, Turkmenistan, Eritrea, India
+countries: Ethiopia, Turkmenistan, Eritrea, India, Sudan
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Turkmenistan, Eritrea, India
 
 **Book 5:** *Contemporary India-I — Textbook in Geography for Class IX (Social Science)* (student book, English) — India, NCERT, New Delhi; first edition March 2006, this copy reprint 2020-21; ISBN 81-7450-520-2. Title as printed: Contemporary India-I — Textbook in Geography for Class IX (Social Science). Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 76 (cover render verified: "Contemporary India-I, Textbook in Geography for Class IX, NCERT 2020-21"; grabbed via grab.py release route, 21,811,274 bytes; duplicate TSV + books.json records grade-09/gov/india/class9-social-science-geography.pdf counted once). Verdict: COMPLETE — 6 chapters, printed pp. 1-62 + glossary. Records note: 34 records / 17 distinct books (17 TSV records in grades 6-10 + 17 books.json records that are the same books by grade/subject — duplicate records of the same NCERT titles); the 5 Geography books were read full page-by-page via pdftotext -layout after cover verification; the other 12 books are record-only (History, Civics, Economics) with no Geography content, filed for later waves. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/india-placements.md.
 
+**Book 6:** *الجغرافيا — Geography, Third Year Intermediate (الصف الثالث المتوسط)* (student book, Arabic) — Republic of Sudan, Ministry of Education, National Centre for Curricula and Educational Research (Bakht al-Ruda); year not printed on cover/title pages seen; no ISBN printed. Title as printed: الجغرافيا — Geography, Third Year Intermediate (الصف الثالث المتوسط). Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 160 (cover verified against the record title; byte size 13,733,766 and page count match the staging books.json record exactly). Verdict: COMPLETE. How read: PDF text layer is font-garbled, so read visually from rendered pages — cover, preface (3-unit structure), unit objectives and a full spread of interior pages across all three units. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Effects of size | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 1, printed pp. 15–17 |
@@ -20,8 +22,9 @@ countries: Ethiopia, Turkmenistan, Eritrea, India
 | Turkmenistan part — §3 Territory and structure of the state | Turkmenistan, *Dünýäniň ykdysady we durmuş geografiýasy (World Economic and Social Geography)*, Grade 10, §3 Territory and structure of the state — printed p. 17 |
 | Eritrea part (ER G8 Social Studies) — Unit 4: 4.2 Size and Shape | Eritrea, *ER G8 Social Studies*, Unit 4: 4.2 Size and Shape — printed p. 55 |
 | India part (Grade 9 Contemporary India-I) — Ch.1: why India's size and central position matter | India, *India Grade 9 Contemporary India-I*, Ch.1: why India's size and central position matter — printed p. 3 |
+| Sudan part — Sudan's area (1,882,000 km²) and what a large area gives a country | Sudan, *Sudan Grade 9 SD Geography 9*, Sudan's area (1,882,000 km²) and what a large area gives a country — printed p. 5 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Turkmenistan, Eritrea, India).**
+**Acceptance count: taught in 5 countries (Ethiopia, Turkmenistan, Eritrea, India, Sudan).**
 
 Searchable tags: size and shape effects, administration, defence, national integration, compact state, social studies
 
@@ -30,3 +33,5 @@ Turkmenistan's own way (Grade 10): A classic post-Soviet economic-and-social geo
 Eritrea's own way (ER G8 Social Studies): Grade 8 is the Eritrea-physical-geography year — relief, hydrology and water shortage, people-environment adaptation and Eritrea's strategic Red Sea location are taught as four full Geography units before the History units begin.
 
 India's own way (Grade 9 Contemporary India-I): From Grade 9 the Geography book is India alone, in depth — Contemporary India-I is the physical book: size and location, physiography built from plate tectonics, drainage, the monsoon system, vegetation and wildlife, and population, each chapter working from India's own maps and census data.
+
+Sudan's own way (Sudan Grade 9 SD Geography 9): A single-country book: the whole of Sudan taught in three units — its physical geography, its human geography, then its environmental problems — with map-work activities on Sudan's own maps (states, roads, the Nile) and an infographic "resources of Sudan" spread; the preface warns its statistics change and are only indicators.

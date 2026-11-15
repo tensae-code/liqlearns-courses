@@ -1,6 +1,6 @@
 # Sources — Map Scale — The Three Ways of Stating Scale
 
-countries: Ethiopia, Bangladesh, Malaysia, Eritrea, Fiji, Papua New Guinea, Uganda
+countries: Ethiopia, Bangladesh, Malaysia, Eritrea, Fiji, Papua New Guinea, Uganda, Sudan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Bangladesh, Malaysia, Eritrea, Fiji, Papua New Guinea, Ugan
 
 **Book 10:** *Geography Textbook — Senior One (Lower Secondary Curriculum, Prototype)* (student book, English) — National Curriculum Development Centre (NCDC), Kampala; year 2020 (prototype); ISBN no ISBN printed. Title as printed: Geography Textbook — Senior One (Lower Secondary Curriculum, Prototype). Grade: Senior One = Grade 8 (student/teacher: STUDENT). PDF pages: 126 (cover verified: "GEOGRAPHY TEXTBOOK SENIOR ONE", NCDC Prototype — matches record; read via the record's books.json source_url at ncdc.go.ug after grab.py release and tree routes both failed with RemoteDisconnected from api.github.com, 3 attempts). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/uganda-placements.md.
 
+**Book 11:** *الجغرافيا والدراسات البيئية — Geography and Environmental Studies, Third Year Secondary (الصف الثالث الثانوي)* (student book, Arabic) — Republic of Sudan, Ministry of General Education, National Centre for Curricula and Educational Research (Bakht al-Ruda); revised edition 2009; ISBN 978-99942-53-4-3 (file is the Rowad Al-Tamayoz reprint/distribution copy, verified cover + title page against the record). Title as printed: الجغرافيا والدراسات البيئية — Geography and Environmental Studies, Third Year Secondary (الصف الثالث الثانوي). Grade: Grade 12 (student/teacher: STUDENT). PDF pages: 230 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What scale is | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 27–29 |
@@ -35,8 +37,9 @@ countries: Ethiopia, Bangladesh, Malaysia, Eritrea, Fiji, Papua New Guinea, Ugan
 | Fiji part — Unit 2 Scales and distances (statement, representative fraction, ratio; converting scale distances) | Fiji, *Fiji Year 9 Social Science*, Unit 2 Scales and distances (statement, representative fraction, ratio; converting scale distances) — printed p. 118 |
 | Papua New Guinea part — Strand 4 Unit 3: Reading and using maps — the scale; what scale is and scale on a map, Lessons 156–157 (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 4 Social Science TG* (teacher guide), Strand 4 Unit 3: Reading and using maps — the scale; what scale is and scale on a map, Lessons 156–157 — printed p. 69 |
 | Uganda part — Ch.3 Map Scale; Types of Scale | Uganda, *Uganda Grade 8 UG S1 Geography Student*, Ch.3 Map Scale; Types of Scale — printed p. 14 |
+| Sudan part — Revision exercise: converting map scale (statement, linear), latitude/longitude and time | Sudan, *Sudan Grade 12 SD Geography 12*, Revision exercise: converting map scale (statement, linear), latitude/longitude and time — printed p. 3 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Bangladesh, Malaysia, Eritrea, Fiji, Uganda). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 7 countries (Ethiopia, Bangladesh, Malaysia, Eritrea, Fiji, Uganda, Sudan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Pairing warning: the Grade 8 teacher guide is an Addis Ababa bureau book and the student book is an Amhara bureau book; they are NOT edition-matched, and the guide in hand is truncated (printed pp. 1–47 only, Units 1–3). Pupil content in this lesson comes from the Amhara student book; anything from the guide is labelled (teacher guide — evidence) and never presented as pupil-taught.
 
@@ -57,3 +60,5 @@ Fiji's own way (Fiji Year 9 Social Science): Secondary geography opens with a fu
 Papua New Guinea's own way (Papua New Guinea Grade 4 Social Science TG) (teacher guide — evidence): the same five-strand structure as Grade 3, widening the child's world from the local area to the district — district features, renewable versus non-renewable resources, and map scale. That evidence is stocked here as the way Papua New Guinea teaches this thing; it does not change the acceptance count above.
 
 Uganda's own way (Uganda Grade 8 UG S1 Geography Student): Competency-based lower-secondary course taught entirely through East Africa: every skill (maps, fieldwork, photographs) is practised on Ugandan/East African places (Tororo topographic map, Uganda lat/long map), and the physical half is East Africa's relief, landform formation, climate and vegetation rather than world coverage.
+
+Sudan's own way (Sudan Grade 12 SD Geography 12): The final-year book is organised as applied geography: it opens with a full revision exercise on a Port Sudan contour map (contours, scale, cross-sections, watershed lines), then remote sensing and photo interpretation, then world economic geography, and closes on human–environment global problems, repeatedly pulling Sudanese examples (Gezira scheme, gum arabic, Sudanese oil, farming systems of Sudan) into the world treatment.

@@ -1,6 +1,6 @@
 # Sources — The Solar System — the Sun and the Planets
 
-countries: Ethiopia, Haiti, Jamaica, Angola, Bahamas, India, Cambodia
+countries: Ethiopia, Haiti, Jamaica, Angola, Bahamas, India, Cambodia, Sudan
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page - 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Haiti, Jamaica, Angola, Bahamas, India, Cambodia
 
 **Book 8:** *ផែនដីវិទ្យា ថ្នាក់ទី១១ (Earth Science, Grade 11)* (student book, Khmer) — Cambodia, MoEYS Publishing and Distribution House; year 2020 (11th printing); ISBN 978-995-001-049 (printed as 9-789-995-001-049). Title as printed: ផែនដីវិទ្យា ថ្នាក់ទី១១ (Earth Science, Grade 11) — Sala 00004283. Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 208. Verdict: COMPLETE. All books are Khmer-language MoEYS textbooks whose embedded text layer uses a legacy font encoding (pdftotext output is garbled), so every book was read visually page-by-page from rendered pages (cover, full contents, every chapter/lesson opening, and spreads through each Geography part); Tesseract khm OCR was attempted first and abandoned (>2 min/page on this host). Read in place from phase3-staging (on_disk) except the Grade 9 Geography excerpt and the Grades 10-12 Geography combined record, grabbed from the textbooks repo with grab.py. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cambodia-placements.md.
 
+**Book 9:** *الجغرافيا والدراسات البيئية — Geography and Environmental Studies, First Year Secondary (الصف الأول الثانوي) [record title omits "and Environmental Studies"]* (student book, Arabic) — Republic of Sudan, Ministry of Education and National Education, National Centre for Curricula and Educational Research (Bakht al-Ruda); year not printed on cover/title pages seen; no ISBN printed. Title as printed: الجغرافيا والدراسات البيئية — Geography and Environmental Studies, First Year Secondary (الصف الأول الثانوي) [record title omits "and Environmental Studies"]. Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 195 (cover verified against the record title; byte size 31,004,701 and page count match the staging books.json record exactly). Verdict: COMPLETE. How read: PDF text layer is font-garbled, so read visually from rendered pages — cover, preface (4-unit structure), unit objectives and interior spreads across all four units. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The Sun: the star at the centre | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 1, printed pp. 7–8 |
@@ -30,8 +32,9 @@ countries: Ethiopia, Haiti, Jamaica, Angola, Bahamas, India, Cambodia
 | Bahamas part (Grade 3) — The Earth: Earth is the third planet from the sun; the sun sits in the middle of the solar system | Bahamas, *Social Science, Grade 3*, Grade 3, The Earth: Earth is the third planet from the sun; the sun sits in the middle of the solar system — printed p. 53 |
 | India part (Grade 6 The Earth Our Habitat) — Ch.1: the sun, eight planets in order, Earth as the unique life-bearing planet | India, *India Grade 6 The Earth Our Habitat*, Ch.1: the sun, eight planets in order, Earth as the unique life-bearing planet — printed p. 3 |
 | Cambodia part — Ch.1 L1 ភពផែនដី (planet Earth — its place among the planets) [placement slug: earth-and-space/the-earth-spinning-in-space] | Cambodia, *Cambodia Grade 11 Earth Science*, Ch.1 L1 ភពផែនដី (planet Earth — its place among the planets) — printed p. 4 |
+| Sudan part — The solar system; Earth as one of its planets | Sudan, *Sudan Grade 10 SD Geography 10*, The solar system; Earth as one of its planets — printed p. 12 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Angola, Bahamas, India, Cambodia). Haiti is named here as teacher-sequence evidence only, counted nowhere. Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 6 countries (Ethiopia, Angola, Bahamas, India, Cambodia, Sudan). Haiti is named here as teacher-sequence evidence only, counted nowhere. Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grade 4 Exploratory Core, curriculum guide — evidence): Social Studies is one of four subjects fused into a single Exploratory Core guide, organised by four attainment themes; Geography enters through Jamaica itself — Taino settlement maps, cardinal points, Jamaica's physical features, parishes, weather and the Earth in the Solar System — always with hands-on map and model work. That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 Jamaica's own way (Grade 5 Exploratory Core, curriculum guide — evidence): Grade 5 Social Studies pairs a heritage year (Europeans and Africans, national heroes, Caribbean culture) with a physical-environment year — erosion, locating Jamaica and the Caribbean by compass and latitude/longitude, types of rainfall, the Solar System, plants and water pollution. That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
@@ -49,3 +52,5 @@ Bahamas' own way (Grade 3): The integrated Social Science pattern continues, but
 India's own way (Grade 6 The Earth Our Habitat): The first Geography year goes planet → globe → motions → maps → Earth's domains → landforms, and only then turns home: the last two chapters are India itself (location, neighbours, physical divisions, monsoon climate, vegetation and wildlife), so world basics are immediately applied to the home country.
 
 Cambodia's own way (Cambodia Grade 11 Earth Science): Earth Science is Cambodia's physical-geography strand — planet Earth and plate tectonics, water, a full atmosphere-and-climate course (ending with Cambodia's own weather and climate change), and the environment.
+
+Sudan's own way (Sudan Grade 10 SD Geography 10): A second-edition foundations book (the preface says necessity forced this 2nd edition): physical geography first (universe to rivers), then climate and vegetation, then a long practical cartography unit, closing with GIS — geography taught as a skills subject, with an activity (نشاط) box on most spreads.

@@ -103,7 +103,7 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **1719**
+Geography lessons across the eight Geography titles: **1771**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -1133,3 +1133,44 @@ Features On Survey Maps.
 (Every new lesson is taught in 1 country (Uganda);
 teacher-guide placements inside two of them are cited
 as evidence only.)
+
++52 for Sudan, 2026-11-14 — The Land and Air: Africa
+Location And Climate Introduction, Asia Climate Regions
+And Natural Vegetation, Asia Relief Mountains Plains
+And Island Arcs, Australia Land And Relief, Australia
+Water And Climate, Brazil A Country Study, Canada A
+Country Study, Drawing A Continent Map With Grid
+Squares, Europe Climate And Vegetation Regions, Europe
+Relief And Rivers, Layer Tinting Colouring Height On
+Maps, My School Map And Its Surroundings, North America
+A Regional Study, North America Climate, North America
+Location Area And Peoples, North America Natural
+Vegetation, North America Relief, North America Rivers
+And Drainage, Red Sea Environment Coral Reefs And
+Mangroves, Regional Geography Studying The World Region
+By Region, Selected Geographic Regions Of The World,
+Soils Of Sudan Clay Qoz And Desert Soils, South America
+A Regional Study, South America Climate And Vegetation,
+South America Location, South America Relief, South
+America Water Resources, Sudan Location Area And Its
+States, Sudan Relief And Climate, Sudans Environments
+Desert To Savanna, The British Isles and Tides The Sea
+Breathing In And Out; Population, Transport and Maps:
+Aerial Photographs Reading The Land From The Air,
+Cities Of Sudan, Distribution Maps Dots Shading And
+Symbols, Public Services In Town And Village, Remote
+Sensing Sensing The Earth From Above, Satellite Images
+And What They Show and The Peoples Of The World; People
+and Resources: Petroleum In Sudan Discovery And
+Production, Petroleum Where Oil Is Made And Sold,
+Sources Of Energy Coal Oil Gas And Power, Sudans
+Resources At A Glance and World Crops Food Grains And
+Raw Material Crops; Culture and Work: Primary
+Activities Livestock And Animal Production; Resources
+and Conflict: War Displacement And The Environment;
+Global Issues: Asia Environmental Problems, Disasters
+Natural And Human Made, Europe Environmental Problems,
+International Agreements To Protect The Environment,
+Sudans Environmental Problems and The Waste Problem
+Household To Electronic.
+(Every new lesson is taught in 1 country (Sudan).)
