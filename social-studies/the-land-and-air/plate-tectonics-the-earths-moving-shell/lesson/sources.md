@@ -1,6 +1,6 @@
 # Sources — Plate tectonics — the Earth's moving shell
 
-countries: Ethiopia, Micronesia, Barbados, Guatemala, Costa Rica
+countries: Ethiopia, Micronesia, Barbados, Guatemala, Costa Rica, Indonesia
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Micronesia, Barbados, Guatemala, Costa Rica
 
 **Book 5:** *Antología CONED — Estudios Sociales 8* (student book, Spanish) — Costa Rica, CONED / UNED; year 2017 (© 2017 as printed); ISBN no ISBN printed. Title as printed: Antología CONED — Materia: Estudios Sociales, Código 80017, Nivel: Octavo año. Grade: Grade 8 (student). 96 PDF pp. (title page is PDF p. 3, verified against the record title; size 3,313,970 bytes = record). Verdict: COMPLETE. Read from the recorded public source URLs (CONED site and archive.org) after the GitHub grab route failed with RemoteDisconnected/timeouts on 2026-11-14; every downloaded file matched its books.json record byte-for-byte (size_bytes) and page count. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/costa-rica-placements.md.
 
+**Book 6:** *Geografi untuk SMA Kelas XI* (student book, Indonesian) — Indonesia, Pusat Perbukuan, Badan Standar, Kurikulum, dan Asesmen Pendidikan, Kemendikbudristek; year 2021 (Cetakan Pertama); ISBN 978-602-244-846-4 (jil. 1); author Budi Handoyo. Title as printed: Geografi untuk SMA Kelas XI. Grade 11 / SMA Kelas XI (student). 248 PDF pp. (cover verified: "Geografi — SMA Kelas XI", Budi Handoyo, Kemendikbudristek). Verdict: COMPLETE. Records: 8 records / 4 distinct books in total for Indonesia (4 TSV release records + 4 books.json records that are the same 4 books by grade/kind — duplicate records, taught once). Library debts carried exactly as the placements state: the books.json records for all 4 Indonesia Geografi titles carry tree paths (grade-XX/gov/indonesia/geografi/…) that return 404 in the repo tree — the files actually live in GitHub releases mid-size-books-2 and mid-size-books-7, so the in_pushed tree records are misleading; the books.json source_url for both student books is truncated with "…" (penerbitcmedia.com/download1/BSE/.../g11_geografi.pdf) and cannot be used as recorded. Read full page-by-page via pdftotext -layout after cover verification; grabbed via grab.py (GitHub Releases API route for the TSV records; the books.json tree paths return 404 because the files live in releases, not the tree). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/indonesia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Lithosphere on asthenosphere | G12 student #6, printed pp. 5–7 |
@@ -20,8 +22,11 @@ countries: Ethiopia, Micronesia, Barbados, Guatemala, Costa Rica
 | Barbados part — theory of plate tectonics, types of plate boundary, the Caribbean plate and adjacent plate boundaries | Barbados, *Geography for CSEC — 2nd Edition*, Grade 10, Ch. 1: theory of plate tectonics, types of plate boundary, the Caribbean plate and adjacent plate boundaries — printed p. 5 |
 | Guatemala part — Placas tectónicas y terremotos | Guatemala, *Ciencias Sociales y Formación Ciudadana*, Grade 4, Placas tectónicas y terremotos (Unit 3) — printed pp. 135–136 |
 | Costa Rica part — earth dynamics and the spatial dimension of seismic activity on the planet | Costa Rica, *Antología CONED 8*, Grade 8, Unit 1 Tema 1 A — printed p. 8 |
+| Indonesia part (Grade 11) — Bab 1 I.C Letak geologis: three tectonic plates, two continental shelves | Indonesia, *Geografi untuk SMA Kelas XI*, Grade 11, Bab 1 I.C Letak geologis: three tectonic plates, two continental shelves — printed p. 13 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Micronesia, Barbados, Guatemala, Costa Rica).**
+**Acceptance count: taught in 6 countries (Ethiopia, Micronesia, Barbados, Guatemala, Costa Rica, Indonesia).**
+
+Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
 Barbados's own way: this is the shared Caribbean CSEC examination textbook used in Barbados — every world process is re-taught through Caribbean case studies (the Caribbean plate, Montserrat's volcano, Jamaica's coasts and Kingston's urban problems, St Lucia's reefs, Bahamas/Jamaica/Puerto Rico karst, Guyana's rivers), map and field skills are folded into the chapters, and the course ends in a School-Based Assessment fieldwork project. That way is stocked here as the way Barbados teaches this thing; it does not change the acceptance count above.
 

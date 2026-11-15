@@ -103,7 +103,7 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **934**
+Geography lessons across the eight Geography titles: **964**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -478,3 +478,47 @@ Regions, South Africa — A Country Study (Turkmenistan's
 Book), Australia — A Country Study and Oceania and New
 Zealand — A Country Study. (All 45 stand on
 Turkmenistan's student book, counted in acceptance.)
+
++30 for Indonesia, 2026-11-14 — First
+Steps: Teaching Geography in the Merdeka Curriculum
+— Fase F Outcomes (teacher-guide evidence only,
+counted nowhere); Earth and Space: Indonesia's
+Geographic Position at the World Crossroads; The Land
+and Air: Indonesia's Geological Position — Effects
+and Resource Management, World Biome Systems and
+Their Distribution, Wallace's Eight Biogeographic
+Regions and Indonesia's Flora and Fauna Distribution
+and Its Factors; Population, Transport and Maps:
+Population Quality — Health, Education and Human
+Resource Development, Indonesia's Population Problems
+and Their Solutions, Regional Development and
+Regionalisation in Indonesia, Indonesian Villages —
+Development Stages and Problems, City Types and
+Spatial Structure Theories, Spatial Planning (Tata
+Ruang) and Its Dynamics and Indonesia's Demography
+and Urbanisation Towards 2045; People and Resources:
+Indonesia's Natural Resource Potential and
+Distribution, The Happiness Index as a Result of
+Regional Development, How Regional Development and
+Spatial Planning Affect People's Happiness,
+Development — Meanings, Paradigms, Approaches and
+Indicators, Population Welfare as the Outcome of
+Development and How Regional Development and
+Industrial Revolution Change Welfare; Culture and
+Work: Industrial Revolution 4.0 and Society 5.0;
+Resources and Conflict: Conservation Good Practice
+and Success in Indonesia; Global Issues: Environment,
+Ecosystems and Environmental Ethics, Environmental
+Quality and the Environmental Quality Index,
+Disasters — Vulnerability, Threat, Capacity and
+Kinds, The Distribution of Disasters in Indonesia,
+Disaster Mitigation for Each Kind of Disaster,
+International Cooperation — Forms, Fields and
+Actors, Indonesia's Geopolitics as the Basis for
+International Cooperation, Indonesia in International
+Cooperation and International Cooperation and
+Indonesia's Territorial Resilience. (All 30 stand on
+Indonesia's student books, counted in acceptance,
+except Teaching Geography in the Merdeka Curriculum
+— Fase F Outcomes, which stands on Indonesia's
+teacher guides only, counted nowhere.)

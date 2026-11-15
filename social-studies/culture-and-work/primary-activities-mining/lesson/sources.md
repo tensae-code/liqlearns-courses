@@ -1,6 +1,6 @@
 # Sources — Primary activities — mining
 
-countries: Ethiopia, Bolivia, Angola, Turkmenistan
+countries: Ethiopia, Bolivia, Angola, Turkmenistan, Indonesia
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 2 — Population Studies and Socio-Economic Activities, printed pp. 44–76).
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Bolivia, Angola, Turkmenistan
 
 **Book 5:** *Dünýäniň ykdysady we durmuş geografiýasy (World Economic and Social Geography)* (student book, Turkmen) — Turkmenistan, Türkmen döwlet neşirýat gullugy (Turkmen State Publishing Service), Aşgabat; year 2022; no ISBN printed (UDC 373:911.3; order no. 2149). Title as printed: Dünýäniň ykdysady we durmuş geografiýasy (Umumy orta bilim berýän mekdepleriň X synpy üçin okuw kitaby). Grade 10 (X synp) (student). 264 PDF pp. (cover/title page verified against the record title; 264 pages exact match to the books.json record; read via grab.py url (GitHub release; byte size 7,680,130 exact match to the books.json record), verified by pdfinfo + title page; contents read from the printed Mazmuny (pp. 260-262)). Verdict: COMPLETE. Records: 2 records / 1 distinct book (TSV release URL + books.json record are the same book). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/turkmenistan-placements.md.
 
+**Book 6:** *Geografi untuk SMA Kelas XI* (student book, Indonesian) — Indonesia, Pusat Perbukuan, Badan Standar, Kurikulum, dan Asesmen Pendidikan, Kemendikbudristek; year 2021 (Cetakan Pertama); ISBN 978-602-244-846-4 (jil. 1); author Budi Handoyo. Title as printed: Geografi untuk SMA Kelas XI. Grade 11 / SMA Kelas XI (student). 248 PDF pp. (cover verified: "Geografi — SMA Kelas XI", Budi Handoyo, Kemendikbudristek). Verdict: COMPLETE. Records: 8 records / 4 distinct books in total for Indonesia (4 TSV release records + 4 books.json records that are the same 4 books by grade/kind — duplicate records, taught once). Library debts carried exactly as the placements state: the books.json records for all 4 Indonesia Geografi titles carry tree paths (grade-XX/gov/indonesia/geografi/…) that return 404 in the repo tree — the files actually live in GitHub releases mid-size-books-2 and mid-size-books-7, so the in_pushed tree records are misleading; the books.json source_url for both student books is truncated with "…" (penerbitcmedia.com/download1/BSE/.../g11_geografi.pdf) and cannot be used as recorded. Read full page-by-page via pdftotext -layout after cover verification; grabbed via grab.py (GitHub Releases API route for the TSV records; the books.json tree paths return 404 because the files live in releases, not the tree). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/indonesia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What minerals are | Ethiopia, *Social Studies Student Textbook, Grade 8* (Amhara Bureau), printed pp. 57–58 |
@@ -20,8 +22,11 @@ countries: Ethiopia, Bolivia, Angola, Turkmenistan
 | Bolivia part — Mining in Bolivia and workers' control after 1952 (stocked here from the placements' named target people-and-resources/the-mining-sector, which does not exist in the course; this is the closest existing lesson covering that thing) | Bolivia, *Ciencias Sociales, Sexto Año de Secundaria*, Grade 12, Mining in Bolivia and workers' control after 1952 — printed p. 47 |
 | Angola part — 1.2.7 Recursos minerais | Angola, *Geografia 6ª Classe*, Grade 6, 1.2.7 Recursos minerais — printed p. 18 |
 | Turkmenistan part — §21 Mining industry; metallurgy | Turkmenistan, *Dünýäniň ykdysady we durmuş geografiýasy (World Economic and Social Geography)*, Grade 10, §21 Mining industry; metallurgy — printed p. 85 |
+| Indonesia part (Grade 11) — Bab 1 II.B Sebaran mineral dan tambang Indonesia (mineral distribution maps) | Indonesia, *Geografi untuk SMA Kelas XI*, Grade 11, Bab 1 II.B Sebaran mineral dan tambang Indonesia (mineral distribution maps) — printed p. 40 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Bolivia, Angola, Turkmenistan).**
+**Acceptance count: taught in 5 countries (Ethiopia, Bolivia, Angola, Turkmenistan, Indonesia).**
+
+Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
 Honesty: pupil content comes from the Amhara student book. The Addis Ababa Grade 8 teacher guide is NOT edition-matched to this student book and is truncated (only printed pp. 1–47, Units 1–3, in hand); no guide coverage is claimed for this lesson beyond what its sources rows name.
 

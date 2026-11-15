@@ -1,16 +1,21 @@
 # Sources — Climate change — what it is and what causes it
 
-countries: Ethiopia
+countries: Ethiopia, Indonesia
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
+
+**Book 2:** *Panduan Guru Geografi untuk SMA/MA Kelas XI (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Pusat Perbukuan, Kemendikbudristek; year 2024 (Edisi Revisi); ISBN 978-623-388-485-3 (jil. 1 PDF); authors Budi Handoyo, Nisa Maulia. Title as printed: Panduan Guru Geografi untuk SMA/MA Kelas XI (Edisi Revisi). Grade 11 / SMA/MA Kelas XI (teacher). 288 PDF pp. (cover verified: "PANDUAN GURU — GEOGRAFI — EDISI REVISI — SMA/MA Kelas XI", 2024). Verdict: COMPLETE. Records: 8 records / 4 distinct books in total for Indonesia (4 TSV release records + 4 books.json records that are the same 4 books by grade/kind — duplicate records, taught once). Library debt carried exactly as the placements state: the books.json records for all 4 Indonesia Geografi titles carry tree paths (grade-XX/gov/indonesia/geografi/…) that return 404 in the repo tree — the files actually live in GitHub releases, so the in_pushed tree records are misleading. Read full page-by-page via pdftotext -layout after cover verification; grabbed via grab.py (GitHub Releases API route for the TSV records). This is a teacher guide — cited as teacher-guide evidence only, outside acceptance counts except where the same lesson also stands on an Indonesian student book. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/indonesia-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — A persistent shift, not weather | Ethiopia, *Economics, Student Textbook, Grade 12*, Unit 8 — Economy, Environment and Climate Change, printed pp. 191–192 |
 | Sub lesson 2 — The shares — CO2 77% | Ethiopia, *Economics, Student Textbook, Grade 12*, Unit 8 — Economy, Environment and Climate Change, printed pp. 191–192 |
 | Sub lesson 3 — The projection — 1.5 to 4 degrees | Ethiopia, *Economics, Student Textbook, Grade 12*, Unit 8 — Economy, Environment and Climate Change, printed pp. 191–192 |
+| Indonesia part (Grade 11, teacher guide — evidence) — Bab IV Panduan pembelajaran: Perubahan Iklim (climate-change teaching added in the revised guide) | Indonesia, *Panduan Guru Geografi untuk SMA/MA Kelas XI (Edisi Revisi)* (teacher guide), Grade 11, Bab IV Panduan pembelajaran: Perubahan Iklim (climate-change teaching added in the revised guide) — printed p. 228 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 1 country (Ethiopia). Indonesia is named here as teacher-guide evidence only, counted nowhere.**
+
+Indonesia's own way (Grade 11 teacher guide — evidence): a Kurikulum Merdeka teacher guide — a general part sets out the Fase F learning outcomes (Capaian Pembelajaran), Pancasila-student-profile targets per chapter, teaching strategies and assessment design; a special part then guides each student-book chapter activity by activity, with prerequisite concepts, pre-learning assessment, competence + character scoring rubrics for every activity, answer keys and reflection. Note: its Bab IV is retitled "Perubahan Iklim dan Kebencanaan" (climate change and disasters), widening the student book's disaster chapter. That way is stocked here as the way Indonesia teaches this thing. It does not change the acceptance count above.
 
 No matching teacher guide exists in this band: the book recorded as this text's teacher guide proved to be the 2011 GEQIP Grade 12 teacher's guide for the old syllabus, not this book's companion, and supplies no answer keys for it (proof in the placements file's verification block).
 

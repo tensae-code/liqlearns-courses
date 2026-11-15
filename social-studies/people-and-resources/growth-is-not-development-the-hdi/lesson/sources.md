@@ -1,6 +1,6 @@
 # Sources — Growth is not development — the HDI
 
-countries: Ethiopia, Argentina, Brazil, France, Barbados, Haiti, Costa Rica, Mongolia
+countries: Ethiopia, Argentina, Brazil, France, Barbados, Haiti, Costa Rica, Mongolia, Indonesia
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Argentina, Brazil, France, Barbados, Haiti, Costa Rica, Mon
 
 **Book 10:** *Нийгэм судлал XI (Social Studies XI)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports, Ulaanbaatar; year 2019; ISBN no ISBN printed on the pages checked. Title as printed: Нийгэм судлал XI (Social Studies XI). Grade: Grade 11 (student). ~196 PDF pp. (printed book to p. 191+) (cover verified against the record title via the ministry econtent flipbook — the same book as the secured GitHub release asset; note the release asset is 131,050,983 bytes under a doubled-prefix asset name while the books.json record says 86,546,502 bytes: a library debt, see group log). Verdict: COMPLETE for Geography scope (contents page and chapter structure read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mongolia-placements.md.
 
+**Book 11:** *Geografi untuk SMA/MA Kelas XII* (student book, Indonesian) — Indonesia, Pusat Perbukuan, Kemendikbudristek; year 2022 (Cetakan Pertama); ISBN 978-602-427-914-1 (jil. 2); author Budi Handoyo. Title as printed: Geografi untuk SMA/MA Kelas XII. Grade 12 / SMA/MA Kelas XII (student). 288 PDF pp. (cover verified: "GEOGRAFI — SMA/MA Kelas XII", Kemendikbudristek 2022; xii + 276 printed pages). Verdict: COMPLETE. Records: 8 records / 4 distinct books in total for Indonesia (4 TSV release records + 4 books.json records that are the same 4 books by grade/kind — duplicate records, taught once). Library debts carried exactly as the placements state: the books.json records for all 4 Indonesia Geografi titles carry tree paths (grade-XX/gov/indonesia/geografi/…) that return 404 in the repo tree — the files actually live in GitHub releases mid-size-books-2 and mid-size-books-7, so the in_pushed tree records are misleading; the books.json source_url for both student books is truncated with "…" and cannot be used as recorded. Read full page-by-page via pdftotext -layout after cover verification; grabbed via grab.py (GitHub Releases API route for the TSV records). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/indonesia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Growth versus development | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 5, printed pp. 125 |
@@ -37,8 +39,11 @@ countries: Ethiopia, Argentina, Brazil, France, Barbados, Haiti, Costa Rica, Mon
 | Costa Rica part — inequalities between countries in a globalised world | Costa Rica, *Antología CONED 11*, Grade 11, Unit 1 Tema 1 D — printed p. 32 |
 | Costa Rica part — inequalities between countries in a globalised world; differences in the population's social and economic conditions at world scale (richest/poorest country tables, illiteracy map) | Costa Rica, *Estudios Sociales 11 (Porras y Gamboa)*, Grade 11, Unit 1 D — printed p. 44 |
 | Mongolia part — Economic development | Mongolia, *Нийгэм судлал XI (Social Studies XI)*, Grade 11, Chapter IV Economics: Topic 4.5 Economic development — printed p. 129 |
+| Indonesia part (Grade 12) — Bab 2 A Indikator pembangunan (incl. HDI-type measures) | Indonesia, *Geografi untuk SMA/MA Kelas XII*, Grade 12, Bab 2 A Indikator pembangunan (incl. HDI-type measures) — printed p. 97 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Brazil, France, Barbados, Costa Rica, Mongolia). Argentina is named here as teacher-guide evidence only, counted nowhere. Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 7 countries (Ethiopia, Brazil, France, Barbados, Costa Rica, Mongolia, Indonesia). Argentina is named here as teacher-guide evidence only, counted nowhere. Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+
+Indonesia's own way (Grade 12): Grade 12 is applied human geography built entirely on Indonesian cases — regional development and spatial planning (tata ruang) measured against a Happiness Index, Industry 4.0 / Society 5.0, and Indonesia's own geopolitics and ASEAN-era cooperation as pillars of national resilience. That way is stocked here as the way Indonesia teaches this thing.
 
 Mongolia's own way (Grade 11): the final year is the state-and-world year — cultural globalization and freedom, monetary policy, foreign trade and investment, and Mongolia's signature “third neighbour” and soft-power policies taught as named topics. The book's Sociology part (Chapter I Topic 1.2, printed p. 29) and Law/Civics parts (Chapter III, printed pp. 71–103; Chapter V, printed pp. 139–165; Chapter VI except the placed topics, printed pp. 167–176) are named in the placements, not placed. That way is stocked here as the way Mongolia teaches this thing.
 

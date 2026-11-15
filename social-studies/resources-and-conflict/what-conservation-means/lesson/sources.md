@@ -1,6 +1,6 @@
 # Sources — Conservation — What Conservation Means
 
-countries: Ethiopia, Zambia, Guatemala, Bolivia, Angola
+countries: Ethiopia, Zambia, Guatemala, Bolivia, Angola, Indonesia
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (placement 66).
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Zambia, Guatemala, Bolivia, Angola
 
 **Book 7:** *Geografia 5ª Classe* (student book, Portuguese) — Angola, Ministério da Educação / Mensagem Editora, Luanda; year 2021 (3.ª Edição); ISBN 978-989-54802-4-1. Title as printed: Geografia | Manual da 5.ª Classe. Grade 5 (student). 88 PDF pp. (cover/title page verified against the record title; read from the record's own recorded source_url (Portal do Professor de Língua Portuguesa) after the GitHub API grab route repeatedly failed with RemoteDisconnected on 2026-11-14 — so the repo copy was not byte-verified against this read). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/angola-placements.md.
 
+**Book 8:** *Geografi untuk SMA Kelas XI* (student book, Indonesian) — Indonesia, Pusat Perbukuan, Badan Standar, Kurikulum, dan Asesmen Pendidikan, Kemendikbudristek; year 2021 (Cetakan Pertama); ISBN 978-602-244-846-4 (jil. 1); author Budi Handoyo. Title as printed: Geografi untuk SMA Kelas XI. Grade 11 / SMA Kelas XI (student). 248 PDF pp. (cover verified: "Geografi — SMA Kelas XI", Budi Handoyo, Kemendikbudristek). Verdict: COMPLETE. Records: 8 records / 4 distinct books in total for Indonesia (4 TSV release records + 4 books.json records that are the same 4 books by grade/kind — duplicate records, taught once). Library debts carried exactly as the placements state: the books.json records for all 4 Indonesia Geografi titles carry tree paths (grade-XX/gov/indonesia/geografi/…) that return 404 in the repo tree — the files actually live in GitHub releases mid-size-books-2 and mid-size-books-7, so the in_pushed tree records are misleading; the books.json source_url for both student books is truncated with "…" (penerbitcmedia.com/download1/BSE/.../g11_geografi.pdf) and cannot be used as recorded. Read full page-by-page via pdftotext -layout after cover verification; grabbed via grab.py (GitHub Releases API route for the TSV records; the books.json tree paths return 404 because the files live in releases, not the tree). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/indonesia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Whole lesson opening — pupils name a local act of keeping for later | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 3, printed pp. 86–87 |
@@ -26,8 +28,11 @@ countries: Ethiopia, Zambia, Guatemala, Bolivia, Angola
 | Guatemala part — Áreas protegidas: Reserva de la Biosfera Maya and the Biotopo Chocón-Machacas | Guatemala, *Ciencias Sociales y Formación Ciudadana*, Grade 4, Áreas protegidas: Reserva de la Biosfera Maya and the Biotopo Chocón-Machacas (Unit 4) — printed pp. 181–182 |
 | Bolivia part — Protection of natural resources and recycling | Bolivia, *Texto de Aprendizaje — Ciencias Sociales, Secundaria 4*, Grade 10, Protection of natural resources and recycling — printed p. 81 |
 | Angola part — 3.4 A protecção das espécies vegetais e animais | Angola, *Geografia 5ª Classe*, Grade 5, 3.4 A protecção das espécies vegetais e animais — printed p. 39 |
+| Indonesia part (Grade 11) — Bab 2 D Manfaat flora dan fauna, pelestarian dan metode pelestarian (in-situ/ex-situ) | Indonesia, *Geografi untuk SMA Kelas XI*, Grade 11, Bab 2 D Manfaat flora dan fauna, pelestarian dan metode pelestarian (in-situ/ex-situ) — printed p. 96 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Guatemala, Bolivia, Angola). Zambia is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 5 countries (Ethiopia, Guatemala, Bolivia, Angola, Indonesia). Zambia is named here as teacher-guide evidence only, counted nowhere.**
+
+Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
 Zambia's own way (teacher guide — evidence): Grade 4's Competence-Based Curriculum module teaches managing resources by doing — planting trees, grass and flowers, sorting and disposing of waste, controlling pollution and running a clean-up campaign, inside a topic taught through observation walks, a community map and role-play, with Zambian examples (Zambezi and Kafue rivers, copper, maize soil, charcoal burning); Grade 8's Geography module, built around Zambia itself, follows degradation with a sub-topic on environmental protection. That evidence is stocked here as the way Zambia teaches this thing; it does not change the acceptance count above.
 

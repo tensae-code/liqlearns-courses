@@ -2511,3 +2511,104 @@ p. 226) and Oceania and New Zealand — A Country
 Study (§60, p. 229) — the new lessons taught in
 1 country (Turkmenistan), 8 questions each.
 Geography lessons: 889 → 934.
+
+## Geography expansion — Indonesia — built 2026-11-14
+
+Indonesia — 69 placements stocked from 8 records / 4
+distinct books (4 TSV release records + 4 books.json
+records that are the same 4 books by grade/kind —
+duplicate records, taught once, every distinct book
+cited), all COMPLETE, read full page-by-page via
+pdftotext -layout after cover verification, grabbed
+via grab.py (GitHub Releases API route). Placed books:
+*Geografi untuk SMA Kelas XI* (Grade 11 student book,
+2021, ISBN 978-602-244-846-4, 248 PDF pp.; 33
+placements), *Geografi untuk SMA/MA Kelas XII* (Grade
+12 student book, 2022, ISBN 978-602-427-914-1, 288 PDF
+pp.; 22 placements), *Panduan Guru Geografi untuk
+SMA/MA Kelas XI (Edisi Revisi)* (Grade 11 teacher
+guide, 2024, ISBN 978-623-388-485-3, 288 PDF pp.; 9
+placements) and *Buku Panduan Guru Geografi untuk
+SMA/MA Kelas XII* (Grade 12 teacher guide, 2022, ISBN
+978-602-427-913-4, 200 PDF pp.; 5 placements). The two
+teacher guides are cited as teacher-guide evidence
+only, outside acceptance counts except where the same
+lesson also stands on an Indonesian student book.
+Library debts carried exactly as the placements state:
+the books.json records for all 4 titles carry tree
+paths that return 404 — the files actually live in
+GitHub releases mid-size-books-2 and mid-size-books-7,
+so the in_pushed tree records are misleading; and the
+books.json source_url for both student books is
+truncated with "…" and cannot be used as recorded.
+Indonesia's own way (Grade 11): the whole book is
+organised around Indonesia itself — its strategic
+position first, then its own biodiversity
+(Wallace/Wallacea), its own environment-and-population
+problems, and its own disaster map; every concept is
+taught through Indonesian examples, maps and
+infographics, with a chapter-end knowledge assessment
+(Asesmen) per chapter. (Grade 12): applied human
+geography built entirely on Indonesian cases —
+regional development and spatial planning (tata ruang)
+measured against a Happiness Index, Industry 4.0 /
+Society 5.0, and Indonesia's own geopolitics and
+ASEAN-era cooperation as pillars of national
+resilience. Stocked into standing lessons (30
+placements) across Earth and Space, The Land and Air,
+Population, Transport and Maps, People and Resources,
+Culture and Work, Resources and Conflict and Global
+Issues. 30 NEW lessons built (39 placements) —
+**First Steps**: Teaching Geography in the Merdeka
+Curriculum — Fase F Outcomes (Grades 11-12 teacher
+guides, printed pp. 2 and 1 — teacher-guide evidence
+only, counted nowhere); **Earth and Space**:
+Indonesia's Geographic Position at the World
+Crossroads (G11, p. 7; G11 guide, p. 67); **The Land
+and Air**: Indonesia's Geological Position — Effects
+and Resource Management (G11, p. 21), World Biome
+Systems and Their Distribution (G11, p. 73), Wallace's
+Eight Biogeographic Regions (G11, p. 79; G11 guide,
+p. 139) and Indonesia's Flora and Fauna Distribution
+and Its Factors (G11, p. 84); **Population, Transport
+and Maps**: Population Quality — Health, Education and
+Human Resource Development (G11, p. 145), Indonesia's
+Population Problems and Their Solutions (G11, p. 155),
+Regional Development and Regionalisation in Indonesia
+(G12, p. 6; G12 guide, p. 34), Indonesian Villages —
+Development Stages and Problems (G12, p. 35), City
+Types and Spatial Structure Theories (G12, p. 44),
+Spatial Planning (Tata Ruang) and Its Dynamics (G12,
+p. 63; G12 guide, p. 34) and Indonesia's Demography and
+Urbanisation Towards 2045 (G12, p. 121); **People and
+Resources**: Indonesia's Natural Resource Potential
+and Distribution (G11, p. 28), The Happiness Index as a
+Result of Regional Development (G12, p. 75), How
+Regional Development and Spatial Planning Affect
+People's Happiness (G12, p. 82), Development —
+Meanings, Paradigms, Approaches and Indicators (G12,
+p. 97), Population Welfare as the Outcome of
+Development (G12, p. 140) and How Regional Development
+and Industrial Revolution Change Welfare (G12,
+p. 148); **Culture and Work**: Industrial Revolution
+4.0 and Society 5.0 (G12, p. 126; G12 guide, p. 92);
+**Resources and Conflict**: Conservation Good Practice
+and Success in Indonesia (G11, p. 103); **Global
+Issues**: Environment, Ecosystems and Environmental
+Ethics (G11, p. 113; G11 guide, p. 183), Environmental
+Quality and the Environmental Quality Index (G11,
+p. 120), Disasters — Vulnerability, Threat, Capacity
+and Kinds (G11, p. 167), The Distribution of Disasters
+in Indonesia (G11, p. 186), Disaster Mitigation for
+Each Kind of Disaster (G11, p. 196; G11 guide, p. 228),
+International Cooperation — Forms, Fields and Actors
+(G12, p. 164), Indonesia's Geopolitics as the Basis
+for International Cooperation (G12, p. 171), Indonesia
+in International Cooperation (G12, p. 175; G12 guide,
+p. 137) and International Cooperation and Indonesia's
+Territorial Resilience (G12, p. 235) — the new lessons
+taught in 1 country (Indonesia), 8 questions each,
+except Teaching Geography in the Merdeka Curriculum —
+Fase F Outcomes, which stands on teacher-guide
+evidence only, counted nowhere.
+Geography lessons: 934 → 964.

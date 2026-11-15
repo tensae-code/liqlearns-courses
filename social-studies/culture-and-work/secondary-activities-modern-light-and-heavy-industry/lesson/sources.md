@@ -1,6 +1,6 @@
 # Sources — Secondary activities — modern light and heavy industry
 
-countries: Ethiopia, Bangladesh, Turkmenistan
+countries: Ethiopia, Bangladesh, Turkmenistan, Indonesia
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 2 — Population Studies and Socio-Economic Activities, printed pp. 44–76).
 
@@ -8,14 +8,19 @@ countries: Ethiopia, Bangladesh, Turkmenistan
 
 **Book 3:** *Dünýäniň ykdysady we durmuş geografiýasy (World Economic and Social Geography)* (student book, Turkmen) — Turkmenistan, Türkmen döwlet neşirýat gullugy (Turkmen State Publishing Service), Aşgabat; year 2022; no ISBN printed (UDC 373:911.3; order no. 2149). Title as printed: Dünýäniň ykdysady we durmuş geografiýasy (Umumy orta bilim berýän mekdepleriň X synpy üçin okuw kitaby). Grade 10 (X synp) (student). 264 PDF pp. (cover/title page verified against the record title; 264 pages exact match to the books.json record; read via grab.py url (GitHub release; byte size 7,680,130 exact match to the books.json record), verified by pdfinfo + title page; contents read from the printed Mazmuny (pp. 260-262)). Verdict: COMPLETE. Records: 2 records / 1 distinct book (TSV release URL + books.json record are the same book). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/turkmenistan-placements.md.
 
+**Book 4:** *Geografi untuk SMA/MA Kelas XII* (student book, Indonesian) — Indonesia, Pusat Perbukuan, Kemendikbudristek; year 2022 (Cetakan Pertama); ISBN 978-602-427-914-1 (jil. 2); author Budi Handoyo. Title as printed: Geografi untuk SMA/MA Kelas XII. Grade 12 / SMA/MA Kelas XII (student). 288 PDF pp. (cover verified: "GEOGRAFI — SMA/MA Kelas XII", Kemendikbudristek 2022; xii + 276 printed pages). Verdict: COMPLETE. Records: 8 records / 4 distinct books in total for Indonesia (4 TSV release records + 4 books.json records that are the same 4 books by grade/kind — duplicate records, taught once). Library debts carried exactly as the placements state: the books.json records for all 4 Indonesia Geografi titles carry tree paths (grade-XX/gov/indonesia/geografi/…) that return 404 in the repo tree — the files actually live in GitHub releases mid-size-books-2 and mid-size-books-7, so the in_pushed tree records are misleading; the books.json source_url for both student books is truncated with "…" and cannot be used as recorded. Read full page-by-page via pdftotext -layout after cover verification; grabbed via grab.py (GitHub Releases API route for the TSV records). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/indonesia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Modern manufacturing | Ethiopia, *Social Studies Student Textbook, Grade 8* (Amhara Bureau), printed pp. 63–64 |
 | Sub lesson 2 — Light and heavy | Ethiopia, *Social Studies Student Textbook, Grade 8* (Amhara Bureau), printed pp. 63–64 |
 | Bangladesh part (Grade 6) — Visiting a small industry; how production was done in past ages and places | Bangladesh, *History and Social Science, Class Six*, Grade 6, Visiting a small industry; how production was done in past ages and places — printed pp. 163-165 |
 | Turkmenistan part — §22 Machine building; chemical industry | Turkmenistan, *Dünýäniň ykdysady we durmuş geografiýasy (World Economic and Social Geography)*, Grade 10, §22 Machine building; chemical industry — printed p. 89 |
+| Indonesia part (Grade 12) — Bab 2 B Industrial change under the industrial revolutions | Indonesia, *Geografi untuk SMA/MA Kelas XII*, Grade 12, Bab 2 B Industrial change under the industrial revolutions — printed p. 126 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Bangladesh, Turkmenistan).**
+**Acceptance count: taught in 4 countries (Ethiopia, Bangladesh, Turkmenistan, Indonesia).**
+
+Indonesia's own way (Grade 12): Grade 12 is applied human geography built entirely on Indonesian cases — regional development and spatial planning (tata ruang) measured against a Happiness Index, Industry 4.0 / Society 5.0, and Indonesia's own geopolitics and ASEAN-era cooperation as pillars of national resilience. That way is stocked here as the way Indonesia teaches this thing.
 
 Honesty: pupil content comes from the Amhara student book. The Addis Ababa Grade 8 teacher guide is NOT edition-matched to this student book and is truncated (only printed pp. 1–47, Units 1–3, in hand); no guide coverage is claimed for this lesson beyond what its sources rows name.
 

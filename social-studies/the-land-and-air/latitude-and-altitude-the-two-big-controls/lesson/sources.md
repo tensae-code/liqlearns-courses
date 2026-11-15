@@ -1,6 +1,6 @@
 # Sources — Latitude and altitude — the two big controls
 
-countries: Ethiopia, Jamaica
+countries: Ethiopia, Jamaica, Indonesia
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -8,14 +8,19 @@ countries: Ethiopia, Jamaica
 
 **Book 3:** *National Standards Curriculum — Exploratory Core, Grade 6 (Language Arts / Mathematics / Science / Social Studies), FINAL Jan 08 2020* (curriculum guide, English) — Jamaica, Ministry of Education, Youth & Information, Jamaica; year 2020; ISBN no ISBN printed. Title as printed: National Standards Curriculum — Exploratory Core, Grade 6 (Language Arts / Mathematics / Science / Social Studies), FINAL Jan 08 2020. Grade: Grade 6 (student/teacher: TEACHER — curriculum guide). 373 PDF pp. (cover verified against the record title; 5,913,507 bytes, matches record size_bytes). Social Studies section printed pp. 162–226. Verdict: COMPLETE for the Social Studies section (Geography scope). Guides read IN PLACE in phase3-staging where on disk, covers verified by render, full text read via pdftotext -layout. History parts (named, not placed): Term 1 Unit 2 How Jamaica achieved independence, printed p. 173. Civics parts (named, not placed): Term 1 Unit 3 How we show respect and loyalty for our country (national symbols), printed p. 178; Term 2 Unit 3 How decisions are made at the national level, printed p. 193. Cited as curriculum-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jamaica-placements.md.
 
+**Book 4:** *Geografi untuk SMA Kelas XI* (student book, Indonesian) — Indonesia, Pusat Perbukuan, Badan Standar, Kurikulum, dan Asesmen Pendidikan, Kemendikbudristek; year 2021 (Cetakan Pertama); ISBN 978-602-244-846-4 (jil. 1); author Budi Handoyo. Title as printed: Geografi untuk SMA Kelas XI. Grade 11 / SMA Kelas XI (student). 248 PDF pp. (cover verified: "Geografi — SMA Kelas XI", Budi Handoyo, Kemendikbudristek). Verdict: COMPLETE. Records: 8 records / 4 distinct books in total for Indonesia (4 TSV release records + 4 books.json records that are the same 4 books by grade/kind — duplicate records, taught once). Library debts carried exactly as the placements state: the books.json records for all 4 Indonesia Geografi titles carry tree paths (grade-XX/gov/indonesia/geografi/…) that return 404 in the repo tree — the files actually live in GitHub releases mid-size-books-2 and mid-size-books-7, so the in_pushed tree records are misleading; the books.json source_url for both student books is truncated with "…" (penerbitcmedia.com/download1/BSE/.../g11_geografi.pdf) and cannot be used as recorded. Read full page-by-page via pdftotext -layout after cover verification; grabbed via grab.py (GitHub Releases API route for the TSV records; the books.json tree paths return 404 because the files live in releases, not the tree). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/indonesia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Latitude | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 2, printed pp. 41–43 |
 | Sub lesson 2 — Altitude and the lapse rate | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 2, printed pp. 41–43 |
 | Teaching pattern and answer keys (teacher guide — evidence) — Grade 9 Unit 2 | Ethiopia, *Geography, Teacher Guide, Grade 9*, Unit 2, guide printed pp. 35–60 |
 | Jamaica part — Term 3 Unit 1: how latitude and altitude influence climate (curriculum guide — evidence) | Jamaica, *Jamaica Grade 6 JM G6 Exploratory Core*, Term 3 Unit 1: how latitude and altitude influence climate — printed p. 200 |
+| Indonesia part (Grade 11) — Bab 1 I.A Pengaruh letak astronomis terhadap iklim tropis | Indonesia, *Geografi untuk SMA Kelas XI*, Grade 11, Bab 1 I.A Pengaruh letak astronomis terhadap iklim tropis — printed p. 4 |
 
-**Acceptance count: taught in 1 country (Ethiopia). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 2 countries (Ethiopia, Indonesia). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
+
+Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
 Jamaica's own way (Grade 6 Exploratory Core, curriculum guide — evidence): the Grade 6 Social Studies year is built as three paired terms — culture and independence first, then the physical world (mountains, landmasses and water bodies), then climate, Earth movements and the atmosphere, closing on Caribbean cooperation. That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 

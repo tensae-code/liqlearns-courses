@@ -1,6 +1,6 @@
 # Sources — Air Pollution
 
-countries: Ethiopia, Jamaica, Palestine, Angola
+countries: Ethiopia, Jamaica, Palestine, Angola, Indonesia
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (placement 109).
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Jamaica, Palestine, Angola
 
 **Book 4:** *Geografia 6ª Classe* (student book, Portuguese) — Angola, Ministério da Educação / Mensagem Editora, Luanda; year 2021 (3.ª Edição); ISBN 978-989-54802-5-8. Title as printed: Geografia | Manual da 6.ª Classe. Grade 6 (student). 96 PDF pp. (cover/title page verified against the record title; read from the record's own recorded source_url (Portal do Professor de Língua Portuguesa) after the GitHub API grab route repeatedly failed with RemoteDisconnected on 2026-11-14 — so the repo copy was not byte-verified against this read). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/angola-placements.md.
 
+**Book 5:** *Geografi untuk SMA Kelas XI* (student book, Indonesian) — Indonesia, Pusat Perbukuan, Badan Standar, Kurikulum, dan Asesmen Pendidikan, Kemendikbudristek; year 2021 (Cetakan Pertama); ISBN 978-602-244-846-4 (jil. 1); author Budi Handoyo. Title as printed: Geografi untuk SMA Kelas XI. Grade 11 / SMA Kelas XI (student). 248 PDF pp. (cover verified: "Geografi — SMA Kelas XI", Budi Handoyo, Kemendikbudristek). Verdict: COMPLETE. Records: 8 records / 4 distinct books in total for Indonesia (4 TSV release records + 4 books.json records that are the same 4 books by grade/kind — duplicate records, taught once). Library debts carried exactly as the placements state: the books.json records for all 4 Indonesia Geografi titles carry tree paths (grade-XX/gov/indonesia/geografi/…) that return 404 in the repo tree — the files actually live in GitHub releases mid-size-books-2 and mid-size-books-7, so the in_pushed tree records are misleading; the books.json source_url for both student books is truncated with "…" (penerbitcmedia.com/download1/BSE/.../g11_geografi.pdf) and cannot be used as recorded. Read full page-by-page via pdftotext -layout after cover verification; grabbed via grab.py (GitHub Releases API route for the TSV records; the books.json tree paths return 404 because the files live in releases, not the tree). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/indonesia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What clean air is, and what spoils it: air without smell, taste or colour; pollution as natural or human-made toxic substances mixing into the air against living things; the bad smell of wastes as its everyday sign | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 7, printed p. 149 |
@@ -22,8 +24,11 @@ countries: Ethiopia, Jamaica, Palestine, Angola
 | Angola part — 2.3 O combate à poluição do ar (consequences of polluted air; measures against it) | Angola, *Geografia 6ª Classe*, Grade 6, 2.3 O combate à poluição do ar (consequences of polluted air; measures against it) — printed p. 28 |
 
 | Sub lesson 3 — Smog and ground-level ozone — the Grade 12 chemistry | Ethiopia, *Geography, Student Textbook, Grade 12*, Unit 6, printed pp. 159–161 (G12 student placement #64) |
+| Indonesia part (Grade 11) — Bab 3 I.E Pencemaran udara | Indonesia, *Geografi untuk SMA Kelas XI*, Grade 11, Bab 3 I.E Pencemaran udara — printed p. 126 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Palestine, Angola). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 4 countries (Ethiopia, Palestine, Angola, Indonesia). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
+
+Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
 Jamaica's own way (Grade 6 Exploratory Core, curriculum guide — evidence): the Grade 6 Social Studies year is built as three paired terms — culture and independence first, then the physical world (mountains, landmasses and water bodies), then climate, Earth movements and the atmosphere, closing on Caribbean cooperation. That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
