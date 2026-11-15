@@ -1,6 +1,6 @@
 # Sources — Africa, cradle of humankind — Chad, Afar and Lucy
 
-countries: Ethiopia, Angola, Costa Rica, Australia
+countries: Ethiopia, Angola, Costa Rica, Australia, Ecuador
 
 **Book 1:** *History, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, Addis Ababa, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-064-2, 210 printed pp. Printed page = PDF page − 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g09-student-placements.md
 
@@ -103,3 +103,16 @@ Costa Rica's own way (Costa Rica Grade 7 CONED Antología): The CONED distance-e
 Australia's own way (Australia Retroactive 1 (Stage 4)): The NSW Stage 4 course is built as depth studies around source work: every topic opens with an overview, works through sources and a research project (a virtual site study, a debate in the ecclesia, an interview with Genghis Khan), and Australia's own past enters through ancient-Australia sources and the closing colonisation-and-contact study, where Aboriginal dispossession is taught beside America's Trail of Tears. That way is stocked here as the way Australia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 4 countries (Ethiopia, Angola, Costa Rica, Australia).**
+
+
+## History expansion (2026-11-15) — Ecuador stocked
+
+**Book (Ecuador EC-G11):** Title as printed: Historia 1 — Bachillerato General, Primero de Bachillerato, Texto del estudiante para la transición curricular Grade: 11 (student/teacher: STUDENT) Publisher: Ministerio de Educación del Ecuador; year 2024 (Primera edición); ISBN 978-9942-662-32-3 PDF pages: 386 (cover/title page verified against the record title; grabbed via grab.py release route, byte size 15,030,093 matches the books.json record) Verdict: COMPLETE Tally: 32 placements — 22 to existing lessons, 10 NEW LESSON NEEDED Ecuador's own way: the Bachillerato Historia course runs the whole human story — evolution, river civilisations, Greece/Rome/Byzantium, faiths, pre-Columbian America, colony, revolutions, economic systems — but keeps bending it home: Ecuadorian Indigenous women, the Inca legacy and dollarised 21st-century Ecuador close the arc. Placements at liqlearns-courses-work/expansion-history-2026-11-15/ecuador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Ecuador part — Sección 1 Tema 2: hominización — story beats: in Africa ape-like ancestors walk upright, make tools and become human across the Palaeolithic (History expansion, 2026-11-15; original placement slug: africa-to-1500/africa-cradle-of-humankind) | Ecuador, *Historia 1*, printed p. 20 |
+
+Ecuador's own way (Ecuador Grade 11 EC-G11): the Bachillerato Historia course runs the whole human story — evolution, river civilisations, Greece/Rome/Byzantium, faiths, pre-Columbian America, colony, revolutions, economic systems — but keeps bending it home: Ecuadorian Indigenous women, the Inca legacy and dollarised 21st-century Ecuador close the arc. That way is stocked here as the way Ecuador teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 5 countries (Ethiopia, Angola, Costa Rica, Australia, Ecuador).**

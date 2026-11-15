@@ -1,6 +1,6 @@
 # Sources — The Maya
 
-countries: Ethiopia, Guatemala, Costa Rica
+countries: Ethiopia, Guatemala, Costa Rica, Ecuador
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -86,3 +86,16 @@ Guatemala's own way (Ciencias Sociales y Formación Ciudadana III — Guía de o
 Costa Rica's own way (Costa Rica Grade 7 CONED Antología): The CONED distance-education anthologies compile source readings around a guiding question per theme, fusing History with Geography in one Estudios Sociales course: the ancient world is read as "the human footprint on geographic space", and Costa Rica's own past enters through its indigenous peoples before any national narrative. That way is stocked here as the way Costa Rica teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 3 countries (Ethiopia, Guatemala, Costa Rica).**
+
+
+## History expansion (2026-11-15) — Ecuador stocked
+
+**Book (Ecuador EC-G11):** Title as printed: Historia 1 — Bachillerato General, Primero de Bachillerato, Texto del estudiante para la transición curricular Grade: 11 (student/teacher: STUDENT) Publisher: Ministerio de Educación del Ecuador; year 2024 (Primera edición); ISBN 978-9942-662-32-3 PDF pages: 386 (cover/title page verified against the record title; grabbed via grab.py release route, byte size 15,030,093 matches the books.json record) Verdict: COMPLETE Tally: 32 placements — 22 to existing lessons, 10 NEW LESSON NEEDED Ecuador's own way: the Bachillerato Historia course runs the whole human story — evolution, river civilisations, Greece/Rome/Byzantium, faiths, pre-Columbian America, colony, revolutions, economic systems — but keeps bending it home: Ecuadorian Indigenous women, the Inca legacy and dollarised 21st-century Ecuador close the arc. Placements at liqlearns-courses-work/expansion-history-2026-11-15/ecuador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Ecuador part — Sección 3 Tema 1: Los Mayas — story beats: the Maya raise pyramid cities in Mexico and Guatemala and master calendars and mathematics (History expansion, 2026-11-15; original placement slug: ancient-world/the-maya) | Ecuador, *Historia 1*, printed p. 182 |
+
+Ecuador's own way (Ecuador Grade 11 EC-G11): the Bachillerato Historia course runs the whole human story — evolution, river civilisations, Greece/Rome/Byzantium, faiths, pre-Columbian America, colony, revolutions, economic systems — but keeps bending it home: Ecuadorian Indigenous women, the Inca legacy and dollarised 21st-century Ecuador close the arc. That way is stocked here as the way Ecuador teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 4 countries (Ethiopia, Guatemala, Costa Rica, Ecuador).**

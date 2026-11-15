@@ -2581,7 +2581,7 @@ Plants and Animals.
 
 ## History expansion totals
 
-History lessons across the History titles: **656**
+History lessons across the History titles: **676**
 (248 before the expansion; +1 for Guyana, 2026-11-15 —
 Modern World: Guyana — our nation: independence and
 symbols. All 3 Guyana placements stand on Guyana's
@@ -3427,3 +3427,88 @@ Malaysia on the World Stage, all Civics/current
 affairs) stay named in the placements file and in
 the stocked sources, not placed — except the
 Bab 9.8 OIC placement, which is placed.
+
++20 for Ecuador, 2026-11-15 — Ancient World:
+Ecuador's first peoples and chiefdoms, Inca
+expansion into Ecuador and Atahualpa, From bands
+to states — how power grew, and The Incas and the
+Qhapaq Ñan; Modern World: Conquest and colony in
+Ecuador, Ecuador — independence and Gran
+Colombia, Ecuador founded, 1830, Ecuador in the
+1800s, Ecuador — Liberal Revolution to banana
+boom, Ecuador — oil boom and return to democracy,
+Latin America after independence, Women through
+history, Social movements, media and women,
+Conquest and colony in Latin America, Colonial
+art of Spanish America, Latin American social
+movements and revolutions, Latin America —
+crisis, migration and development, Ecuador in
+the 21st century, and History of economic
+thought; Africa after 1500: Maroon resistance
+and Queen Nanny. All 68 Ecuador placements stand
+on Ecuador's seven placed student books
+(*Estudios Sociales 2*, Ministerio de Educación
+del Ecuador, 2024, ISBN 978-9942-662-16-3, 4
+placements; *Estudios Sociales 5*, 2024, ISBN
+978-9942-662-22-4, 9 placements; *Estudios
+Sociales 8*, 2024, ISBN 978-9942-662-28-6, 9
+placements; *Historia 1 — Primero de
+Bachillerato*, 2024, ISBN 978-9942-662-32-3, 32
+placements; *Estudios Sociales 3*, Ministerio de
+Educación / SM Ediciones Ecuador, 2016, no ISBN
+printed, 11 placements; and the two 2019
+*¡Leer enciende tu imaginación!* Acápite de
+lectura booklets, Séptimo grado, 1 placement, and
+Octavo grado, 2 placements), counted in
+acceptance — all are student books. The 47
+placements stocked into 30 existing lessons rise
+with Ecuador added: Find history in your own
+locality 7 → 8, Historiography — the history of
+history writing 3 → 4, What history is 11 → 12,
+Slavery before the Atlantic trade 1 → 2,
+Medieval world — the dark age and feudalism
+5 → 6, Capitalism — private ownership, factories,
+new classes 3 → 4, The French Revolution breaks
+out, 1789 3 → 4, Nationalism — the feeling that
+made nation-states 5 → 6, American independence
+3 → 4, Africa — cradle of humankind 4 → 5, From
+stone tools to farming 7 → 8, Ancient
+civilisations — Mesopotamia 6 → 7, Ancient Egypt
+— the Nile kingdom 8 → 9, Ancient civilisations
+— China 3 → 4, Ancient civilisations — India
+4 → 5, Ancient civilisations — Greece-Crete
+7 → 8, Ancient civilisations — Rome 8 → 9,
+Medieval world — Byzantium and Justinian 3 → 4,
+The rise and expansion of Islam 6 → 7,
+Christianity — from persecuted sect to state
+religion 3 → 4, Faiths that shaped states 2 → 3,
+The Renaissance — what it was 4 → 5, Scientific
+Revolution and Enlightenment 3 → 4, The Maya
+3 → 4, The Aztecs — Tenochtitlan 4 → 5,
+Exploration — Columbus, Vespucci and Magellan
+4 → 5, Exploration — Portugal and the sea routes
+4 → 5, The Industrial Revolution — what changed
+and why England first 4 → 5, and The Cold War —
+what it was and what it did to Africa 4 → 5.
+Heritage — what it is and why it matters stays
+24: Ecuador was already named and counted there
+from an earlier stocking, so its 12 Ecuador
+History placements add depth, not a new country.
+Five records are RECORD-ONLY and not placed:
+the Grade 6 file is the Grade 5 interior under a
+Grade 6 cover (mismatch), and the Grade 7,
+Grade 9, Grade 10 and Tercero de Bachillerato
+files carry the Grade 5, Grade 8, Grade 8 and
+Grade 11 interiors respectively — placed once
+under the book they actually are; Ecuador's real
+Grade 6, 7, 9 and 10 Estudios Sociales books and
+its distinct 2do and 3ro Bachillerato Historia
+books are not in hand (library debt, named in
+the placements file). The books' non-History
+parts (Geography, Civics, Economics and
+language/literature readings named in the
+placements file and in the stocked sources) stay
+named, not placed. Stories and readings —
+La Dama Tapada, La Princesa Súa, the Cochasquí
+legend and Nanny de los Cimarrones — are stocked
+as plot summaries only, never transcribed.

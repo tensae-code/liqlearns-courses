@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — Greece: Crete
 
-countries: Ethiopia, France, Poland, Bangladesh, Costa Rica, Australia, Malaysia
+countries: Ethiopia, France, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 6, placements 92–106).
 
@@ -120,3 +120,24 @@ Australia's own way (Australia Retroactive 1 (Stage 4)): The NSW Stage 4 course 
 Malaysia's own way (Sejarah Tingkatan 1): Secondary history opens as "Our History and the World's": method first, then the deep past, then a world-civilisations tour (Mesopotamia to Islam) in which Malaysia's own prehistory (Gua Niah, 40,000 years) is placed inside the world story. That way is stocked here as the way Malaysia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 7 countries (Ethiopia, France, Poland, Bangladesh, Costa Rica, Australia, Malaysia).**
+
+
+## History expansion (2026-11-15) — Ecuador stocked
+
+**Book (Ecuador EC-G11):** Title as printed: Historia 1 — Bachillerato General, Primero de Bachillerato, Texto del estudiante para la transición curricular Grade: 11 (student/teacher: STUDENT) Publisher: Ministerio de Educación del Ecuador; year 2024 (Primera edición); ISBN 978-9942-662-32-3 PDF pages: 386 (cover/title page verified against the record title; grabbed via grab.py release route, byte size 15,030,093 matches the books.json record) Verdict: COMPLETE Tally: 32 placements — 22 to existing lessons, 10 NEW LESSON NEEDED Ecuador's own way: the Bachillerato Historia course runs the whole human story — evolution, river civilisations, Greece/Rome/Byzantium, faiths, pre-Columbian America, colony, revolutions, economic systems — but keeps bending it home: Ecuadorian Indigenous women, the Inca legacy and dollarised 21st-century Ecuador close the arc. Placements at liqlearns-courses-work/expansion-history-2026-11-15/ecuador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Ecuador part — Sección 2 Tema 1: antigua Grecia — story beats: Greek city-states invent democracy, philosophy and theatre and spread them around the Mediterranean (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-greece-crete) | Ecuador, *Historia 1*, printed p. 87 |
+
+Ecuador's own way (Ecuador Grade 11 EC-G11): the Bachillerato Historia course runs the whole human story — evolution, river civilisations, Greece/Rome/Byzantium, faiths, pre-Columbian America, colony, revolutions, economic systems — but keeps bending it home: Ecuadorian Indigenous women, the Inca legacy and dollarised 21st-century Ecuador close the arc. That way is stocked here as the way Ecuador teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book (Ecuador EC-G8-Acapite):** Title as printed: ¡Leer enciende tu imaginación! — Plan Nacional del Libro y la Lectura José de la Cuadra, "Yo Leo" / Aprender a tiempo reading booklet, Educación General Básica, Octavo grado, Estudios Sociales Grade: 8 (student/teacher: STUDENT) Publisher: Ministerio de Educación del Ecuador / Ministerio de Cultura y Patrimonio; year 2019 (no year printed; PDF produced April 2019); no ISBN printed PDF pages: 20 (cover verified visually against the record title; grabbed via grab.py url route from the repo blob record, 195,992 bytes; no books.json duplicate — TSV record only) Verdict: COMPLETE Tally: 2 placements — 2 to existing lessons, 0 NEW LESSON NEEDED Ecuador's own way: as in Grade 7, a reading-plan anthology attached to Estudios Sociales; its History-bearing pieces are an Ecuadorian oral-tradition legend from the Conquest coast and a Greek-mythology account of the Amazons. Its Nanny de los Cimarrones reading (booklet pp. 9–10) is the same Favilli & Cavallo retelling already placed under Book 5 (EC-G8 main book) — not placed again. Non-History parts named (not placed): Los dos reyes y los dos laberintos (Jorge Luis Borges, literary tale); Unos niños (Aquiles Nazoa, poem); El autocar y el ferrocarril (Esteve Pujol i Pons, story); Samaniego's shepherd-and-wolf fable; El banquete, fragment (Julio Ramón Ribeyro); the puppeteer's child (story fragment); Preguntas (Federico García Lorca, poem); El país del exilio (Jorge Carrera Andrade, poem) — all language/literature readings. Placements at liqlearns-courses-work/expansion-history-2026-11-15/ecuador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Ecuador part — Las Amazonas (Mitología griega) — story beats: a women-only warrior people ruled by a queen worship Artemis and are credited with founding Ephesus and its great temple; Heracles seizes Queen Hippolyta's belt and kills her, Theseus carries off Antiope and Athens defeats the Amazons' revenge war, and Queen Penthesilea dies aiding Troy against Achilles (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-greece-crete) | Ecuador, *¡Leer enciende tu imaginación! — Acápite de lectura, Estudios Sociales, Octavo grado*, booklet p. 17 |
+
+Ecuador's own way (Ecuador Grade 8 EC-G8-Acapite): as in Grade 7, a reading-plan anthology attached to Estudios Sociales; its History-bearing pieces are an Ecuadorian oral-tradition legend from the Conquest coast and a Greek-mythology account of the Amazons. Its Nanny de los Cimarrones reading (booklet pp. 9–10) is the same Favilli & Cavallo retelling already placed under Book 5 (EC-G8 main book) — not placed again. That way is stocked here as the way Ecuador teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 8 countries (Ethiopia, France, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador).**

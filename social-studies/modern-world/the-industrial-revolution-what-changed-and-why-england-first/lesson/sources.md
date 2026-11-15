@@ -1,6 +1,6 @@
 # Sources — The Industrial Revolution — what changed and why England first
 
-countries: Ethiopia, Brazil, Costa Rica, Australia
+countries: Ethiopia, Brazil, Costa Rica, Australia, Ecuador
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 130).
 
@@ -91,3 +91,16 @@ Costa Rica's own way (Costa Rica Grade 9 CONED Antología): The Noveno anthology
 Australia's own way (Australia Retroactive 2 (Stage 5)): Stage 5 turns the same depth-study method onto the modern world, but Australia is now the protagonist: convicts and settlers, nation-making, Gallipoli and the Anzac legend, conscription's division, the Darwin bombing the government hushed up, the Freedom Ride, Mabo, the Apology, Maralinga — world events are always landed on Australian soil. That way is stocked here as the way Australia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 4 countries (Ethiopia, Brazil, Costa Rica, Australia).**
+
+
+## History expansion (2026-11-15) — Ecuador stocked
+
+**Book (Ecuador EC-G11):** Title as printed: Historia 1 — Bachillerato General, Primero de Bachillerato, Texto del estudiante para la transición curricular Grade: 11 (student/teacher: STUDENT) Publisher: Ministerio de Educación del Ecuador; year 2024 (Primera edición); ISBN 978-9942-662-32-3 PDF pages: 386 (cover/title page verified against the record title; grabbed via grab.py release route, byte size 15,030,093 matches the books.json record) Verdict: COMPLETE Tally: 32 placements — 22 to existing lessons, 10 NEW LESSON NEEDED Ecuador's own way: the Bachillerato Historia course runs the whole human story — evolution, river civilisations, Greece/Rome/Byzantium, faiths, pre-Columbian America, colony, revolutions, economic systems — but keeps bending it home: Ecuadorian Indigenous women, the Inca legacy and dollarised 21st-century Ecuador close the arc. Placements at liqlearns-courses-work/expansion-history-2026-11-15/ecuador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Ecuador part — Sección 5 Tema 2: La revolución industrial, el capitalismo y el imperialismo — story beats: factories and steam start in England, capitalism industrialises the world, and empires seize colonies for markets and raw materials (History expansion, 2026-11-15; original placement slug: modern-world/the-industrial-revolution-what-changed-and-why-england-first) | Ecuador, *Historia 1*, printed p. 340 |
+
+Ecuador's own way (Ecuador Grade 11 EC-G11): the Bachillerato Historia course runs the whole human story — evolution, river civilisations, Greece/Rome/Byzantium, faiths, pre-Columbian America, colony, revolutions, economic systems — but keeps bending it home: Ecuadorian Indigenous women, the Inca legacy and dollarised 21st-century Ecuador close the arc. That way is stocked here as the way Ecuador teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 5 countries (Ethiopia, Brazil, Costa Rica, Australia, Ecuador).**

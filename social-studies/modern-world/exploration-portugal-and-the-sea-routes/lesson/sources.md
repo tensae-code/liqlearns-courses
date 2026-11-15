@@ -1,6 +1,6 @@
 # Sources — Exploration — Portugal and the sea routes to India
 
-countries: Ethiopia, Palestine, Nigeria, United States
+countries: Ethiopia, Palestine, Nigeria, United States, Ecuador
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -84,3 +84,16 @@ This book is a teacher guide, not a pupil text. The part(s) below stand on it as
 Gabon's own way (Grade 4): the year runs as one long Gabon-centred arc — prehistory, the making of the Gabonese people, explorers and Brazza, the slave trade, French Congo/AÉF, resistance and decolonisation — each topic taught through documents in the pupil manual. That way is stocked here as the way Gabon teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 4 countries (Ethiopia, Palestine, Nigeria, United States) — unchanged; the Gabon placement(s) above are teacher-guide evidence only, counted nowhere. Gabon is not added to this lesson's countries line.**
+
+
+## History expansion (2026-11-15) — Ecuador stocked
+
+**Book (Ecuador EC-G11):** Title as printed: Historia 1 — Bachillerato General, Primero de Bachillerato, Texto del estudiante para la transición curricular Grade: 11 (student/teacher: STUDENT) Publisher: Ministerio de Educación del Ecuador; year 2024 (Primera edición); ISBN 978-9942-662-32-3 PDF pages: 386 (cover/title page verified against the record title; grabbed via grab.py release route, byte size 15,030,093 matches the books.json record) Verdict: COMPLETE Tally: 32 placements — 22 to existing lessons, 10 NEW LESSON NEEDED Ecuador's own way: the Bachillerato Historia course runs the whole human story — evolution, river civilisations, Greece/Rome/Byzantium, faiths, pre-Columbian America, colony, revolutions, economic systems — but keeps bending it home: Ecuadorian Indigenous women, the Inca legacy and dollarised 21st-century Ecuador close the arc. Placements at liqlearns-courses-work/expansion-history-2026-11-15/ecuador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Ecuador part — Sección 3 Tema 3: La expansión portuguesa en América — story beats: Portugal takes Brazil, and the Portuguese sea routes tie America into a world trading system (History expansion, 2026-11-15; original placement slug: modern-world/exploration-portugal-and-the-sea-routes) | Ecuador, *Historia 1*, printed p. 229 |
+
+Ecuador's own way (Ecuador Grade 11 EC-G11): the Bachillerato Historia course runs the whole human story — evolution, river civilisations, Greece/Rome/Byzantium, faiths, pre-Columbian America, colony, revolutions, economic systems — but keeps bending it home: Ecuadorian Indigenous women, the Inca legacy and dollarised 21st-century Ecuador close the arc. That way is stocked here as the way Ecuador teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 5 countries (Ethiopia, Palestine, Nigeria, United States, Ecuador).**

@@ -1,0 +1,15 @@
+# Sources — Ecuador — oil boom and return to democracy
+
+countries: Ecuador
+
+**Book (Ecuador EC-G5):** Title as printed: Estudios Sociales 5 — Educación General Básica, Subnivel Media, Quinto de Básica, Texto del estudiante para la transición curricular Grade: 5 (student/teacher: STUDENT) Publisher: Ministerio de Educación del Ecuador; year 2024 (Primera edición); ISBN 978-9942-662-22-4 PDF pages: 210 (cover/title page verified against the record title; grabbed via grab.py release route, byte size 17,844,404 matches the books.json record; TSV record is the same book) Verdict: COMPLETE Tally: 9 placements — 1 to existing lessons, 8 NEW LESSON NEEDED Ecuador's own way: Grade 5 is one continuous national story told in period blocks — aboriginal roots, Conquest, Gran Colombia, then República I, II and III — each block closing with a reading (Lectura), a challenge (Reto) and an evaluation; world history enters only as Ecuador's frame. Non-History parts named (not placed): Sección 5 Ecuador in the Andean space and natural regions (printed pp. 112–129, Geography); Sección 6 population diversity and territorial organisation (pp. 132–163, Civics/Geography — its historical settlement notes are inside the diversity tema and are covered by the República III placement's migration beats); Sección 7 protected areas (pp. 166–181, Geography/environment); Sección 8 social organisation and participation (pp. 184–194, Civics). Placements at liqlearns-courses-work/expansion-history-2026-11-15/ecuador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — Sección 4 Tema 1: República del Ecuador III — story beats: the 1964 agrarian reform bans the huasipungo, oil money booms in the 1970s, democracy returns in 1979, then debt crisis, mass migration and Indigenous movements challenge the neoliberal republic (History expansion, 2026-11-15; original placement slug: modern-world/ecuador-oil-boom-and-return-to-democracy) | Ecuador, *Estudios Sociales 5*, printed p. 92 |
+
+Ecuador's own way (Ecuador Grade 5 EC-G5): Grade 5 is one continuous national story told in period blocks — aboriginal roots, Conquest, Gran Colombia, then República I, II and III — each block closing with a reading (Lectura), a challenge (Reto) and an evaluation; world history enters only as Ecuador's frame. That way is stocked here as the way Ecuador teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 1 country (Ecuador).**
+
+Searchable tags: Ecuador, Ecuador — oil boom and return to democracy, modern-world, History expansion 2026-11-15

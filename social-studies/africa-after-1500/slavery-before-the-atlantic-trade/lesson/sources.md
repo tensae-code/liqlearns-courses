@@ -1,6 +1,6 @@
 # Sources — Africa after 1500 — slavery before the Atlantic trade
 
-countries: Ethiopia
+countries: Ethiopia, Ecuador
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -48,3 +48,16 @@ History fix note (2026-11-12): the History coverage audit found this lesson's co
 Djibouti's own way: History is taught entirely as Africa's own story, organised in 9 learning units (UA) that all feed one base competence — arguing for continental integration from Africa's past; every unit is planned twice (elementary and middle band) and then re-taught through sample lesson fiches (PDF pp. 31–69). That way is stocked here as the way Djibouti teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed. Library debt, carried as filed: the Djibouti shelf holds this continental guide, not a Djibouti national curriculum book — Djibouti's own primary history/social-studies book is still missing.
 
 **Acceptance count: taught in 1 country (Ethiopia) — unchanged; the Djibouti placement(s) above are teacher-guide evidence only, counted nowhere. Djibouti is not added to this lesson's countries line.**
+
+
+## History expansion (2026-11-15) — Ecuador stocked
+
+**Book (Ecuador EC-G8):** Title as printed: Estudios Sociales 8 — Educación General Básica, Subnivel Superior, Octavo de Básica, Texto del estudiante para la transición curricular Grade: 8 (student/teacher: STUDENT) Publisher: Ministerio de Educación del Ecuador; year 2024 (Primera edición); ISBN 978-9942-662-28-6 PDF pages: 194 (cover/title page verified against the record title; grabbed via grab.py release route, byte size 18,079,356 matches the books.json record) Verdict: COMPLETE Tally: 9 placements — 7 to existing lessons, 2 NEW LESSON NEEDED Ecuador's own way: the Superior book abandons the national chronology for a thematic, work-centred reading of world and Latin American history — history-and-labour, class societies, revolutions, liberation — taught through stories like Queen Nanny and through Ecuador's own contemporary challenges. Non-History parts named (not placed): Sección 2 Tema 2 Estudios cartográficos (printed pp. 99–120, Geography); Sección 2 Tema 3 Sectores económicos en Ecuador (pp. 121–132, Economics/Geography); Sección 2 Tema 4 Nuevas propuestas de organización social y estatal (pp. 133–142, Civics); Sección 3 Diversidad cultural mundial / Democracia, interculturalidad y derechos humanos / Derechos y responsabilidades (pp. 143–194, Civics). Placements at liqlearns-courses-work/expansion-history-2026-11-15/ecuador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Ecuador part — Sección 1 Tema 2: Origen de las sociedades divididas en clases — la esclavitud antigua — story beats: ancient empires build their wealth on enslaved people, and pupils judge whether abolition in the 1800s really ended slavery or only changed its forms (History expansion, 2026-11-15; original placement slug: africa-after-1500/slavery-before-the-atlantic-trade) | Ecuador, *Estudios Sociales 8*, printed p. 18 |
+
+Ecuador's own way (Ecuador Grade 8 EC-G8): the Superior book abandons the national chronology for a thematic, work-centred reading of world and Latin American history — history-and-labour, class societies, revolutions, liberation — taught through stories like Queen Nanny and through Ecuador's own contemporary challenges. That way is stocked here as the way Ecuador teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 2 countries (Ethiopia, Ecuador).**

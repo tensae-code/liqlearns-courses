@@ -10416,3 +10416,142 @@ Civics/current affairs) stay named in the stocked
 sources, not placed, except the Bab 9.8 OIC
 placement, which is placed.
 History lessons: 635 → 656.
+
+## History expansion — Ecuador — built 2026-11-15
+
+20 new lessons, 84 questions: **The Ancient World**:
+Ecuador's first peoples and chiefdoms
+(ancient-world/ecuadors-first-peoples-and-chiefdoms),
+Inca expansion into Ecuador and Atahualpa
+(ancient-world/inca-expansion-into-ecuador-and-atahualpa),
+From bands to states — how power grew
+(ancient-world/from-bands-to-states-how-power-grew),
+and The Incas and the Qhapaq Ñan
+(ancient-world/the-incas-and-the-qhapaq-nan);
+**The Modern World**: Conquest and colony in Ecuador
+(modern-world/conquest-and-colony-in-ecuador),
+Ecuador — independence and Gran Colombia
+(modern-world/ecuador-independence-and-gran-colombia),
+Ecuador founded, 1830 (modern-world/ecuador-founded-1830),
+Ecuador in the 1800s (modern-world/ecuador-in-the-1800s),
+Ecuador — Liberal Revolution to banana boom
+(modern-world/ecuador-liberal-revolution-to-banana-boom),
+Ecuador — oil boom and return to democracy
+(modern-world/ecuador-oil-boom-and-return-to-democracy),
+Latin America after independence
+(modern-world/latin-america-after-independence),
+Women through history (modern-world/women-through-history),
+Social movements, media and women
+(modern-world/social-movements-media-and-women),
+Conquest and colony in Latin America
+(modern-world/conquest-and-colony-in-latin-america),
+Colonial art of Spanish America
+(modern-world/colonial-art-of-spanish-america),
+Latin American social movements and revolutions
+(modern-world/latin-american-social-movements-and-revolutions),
+Latin America — crisis, migration and development
+(modern-world/latin-america-crisis-migration-and-development),
+Ecuador in the 21st century
+(modern-world/ecuador-in-the-21st-century), and
+History of economic thought
+(modern-world/history-of-economic-thought);
+**Africa after 1500**: Maroon resistance and Queen Nanny
+(africa-after-1500/maroon-resistance-and-queen-nanny)
+— 68 placements stocked in all from Ecuador's seven
+placed student books: *Estudios Sociales 2* (Ministerio
+de Educación del Ecuador, 2024 (Primera Edición), ISBN
+978-9942-662-16-3, 114 PDF pp.; 4 placements),
+*Estudios Sociales 5* (2024 (Primera edición), ISBN
+978-9942-662-22-4, 210 PDF pp.; 9 placements),
+*Estudios Sociales 8* (2024 (Primera edición), ISBN
+978-9942-662-28-6, 194 PDF pp.; 9 placements),
+*Historia 1 — Primero de Bachillerato* (2024 (Primera
+edición), ISBN 978-9942-662-32-3, 386 PDF pp.; 32
+placements), *Estudios Sociales 3* (Ministerio de
+Educación / SM Ediciones Ecuador, 2016, no ISBN printed,
+176 PDF pp.; 11 placements), and the two *¡Leer
+enciende tu imaginación!* Acápite de lectura booklets
+(Ministerio de Educación / Ministerio de Cultura y
+Patrimonio, 2019, no ISBN printed, 20 PDF pp. each;
+Séptimo grado 1 placement, Octavo grado 2 placements).
+47 placements were stocked into 30 existing lessons
+(Find history in your own locality — four placements;
+Heritage — what it is and why it matters — twelve;
+Historiography — the history of history writing;
+What history is — two; Slavery before the Atlantic
+trade; Medieval world — the dark age and feudalism;
+Capitalism — private ownership, factories, new classes
+— two; The French Revolution breaks out, 1789;
+Nationalism — the feeling that made nation-states;
+American independence; Africa — cradle of humankind;
+From stone tools to farming; Ancient civilisations —
+Mesopotamia; Ancient Egypt — the Nile kingdom; Ancient
+civilisations — China; Ancient civilisations — India;
+Ancient civilisations — Greece-Crete — two; Ancient
+civilisations — Rome; Medieval world — Byzantium and
+Justinian; The rise and expansion of Islam; Christianity
+— from persecuted sect to state religion; Faiths that
+shaped states; The Renaissance — what it was; Scientific
+Revolution and Enlightenment; The Maya; The Aztecs —
+Tenochtitlan; Exploration — Columbus, Vespucci and
+Magellan; Exploration — Portugal and the sea routes;
+The Industrial Revolution — what changed and why England
+first; and The Cold War — what it was and what it did to
+Africa). All seven placed books are student books, so
+Ecuador counts normally everywhere it is stocked: every
+stocked lesson's countries line names Ecuador and its
+acceptance count rises by one (Find history in your own
+locality 7 → 8, Historiography 3 → 4, What history is
+11 → 12, Slavery before the Atlantic trade 1 → 2,
+Medieval world — feudalism 5 → 6, Capitalism 3 → 4,
+The French Revolution 3 → 4, Nationalism 5 → 6, American
+independence 3 → 4, Africa — cradle of humankind 4 → 5,
+From stone tools to farming 7 → 8, Mesopotamia 6 → 7,
+Ancient Egypt 8 → 9, China 3 → 4, India 4 → 5,
+Greece-Crete 7 → 8, Rome 8 → 9, Byzantium 3 → 4, The rise
+and expansion of Islam 6 → 7, Christianity 3 → 4, Faiths
+that shaped states 2 → 3, The Renaissance 4 → 5,
+Scientific Revolution and Enlightenment 3 → 4, The Maya
+3 → 4, The Aztecs 4 → 5, Columbus, Vespucci and Magellan
+4 → 5, Portugal and the sea routes 4 → 5, The Industrial
+Revolution 4 → 5, The Cold War 4 → 5) — except Heritage
+— what it is and why it matters, which stays 24: Ecuador
+was already named and counted there from an earlier
+(Geography) stocking, so its twelve Ecuador History
+placements add depth, not a new country. No placement
+slug needed remapping: every non-new slug exists, and
+the twenty NEW LESSON NEEDED slugs were checked against
+the current tree — the closest general lessons (The Inca
+— the Andean civilisation, From tribe to state — the
+first kingdoms, Spanish conquest of the Americas,
+Colonial societies in the Americas, Latin American
+independence — ideas and processes, and Latin America in
+contemporary geopolitics) each teach a different single
+thing from the Ecuador placements' own things (the
+Qhapaq Ñan road network, bands-to-ranked-states, the
+three-century conquest-and-colony arc for Latin America
+and for Ecuador itself, and Ecuador's own period-by-period
+national story), so the new lessons were built as the
+placements direct. Five records are RECORD-ONLY and not
+placed again: Grade 6 (the Grade 5 interior under a
+Grade 6 cover — a mismatch), Grade 7 (Grade 5 interior),
+Grade 9 and Grade 10 (Grade 8 interior) and Tercero de
+Bachillerato (Grade 11 interior); Ecuador's real books
+for those grades are not in hand — a library debt named
+in the placements file. Ecuador's own way is stocked
+inside the lessons: History enters at age 7 only as the
+child's own past (Grade 2), Grade 5 tells one continuous
+national story in period blocks (aboriginal roots,
+Conquest, Gran Colombia, República I, II and III), the
+Superior book (Grade 8) turns thematic and work-centred,
+the Bachillerato Historia course bends the whole human
+story home to Ecuadorian Indigenous women, the Inca
+legacy and dollarised 21st-century Ecuador, the older
+Grade 3 SM edition builds identity from the parish
+outward, and the Acápite booklets pair the course with
+Ecuadorian legends told as plot summaries only, never
+transcribed. The books' non-History parts (Geography,
+Civics, Economics and language/literature readings named
+in the placements file) stay named in the stocked
+sources, not placed.
+History lessons: 656 → 676.

@@ -1,6 +1,6 @@
 # Sources — Faiths that shaped states
 
-countries: Ethiopia, Saudi Arabia
+countries: Ethiopia, Saudi Arabia, Ecuador
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -20,3 +20,16 @@ No book error flagged by the placements touches this lesson. The lesson teaches 
 Saudi Arabia's own way (History expansion, 2026-11-15): Saudi Arabia's own way: History enters in Grade 4 as method first — what history is, sources, cause and effect, timelines — practised on Saudi examples, and only then as content: the Arabian Peninsula as the Arabs' homeland and cradle of civilisations, and the prophets' stories as the land's sacred past. National days (Founding Day 1727, National Day 1932) are taught inside the Citizenship unit as national symbols. That way is stocked here as the way Saudi Arabia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 Searchable tags: faiths, that, shaped, states, Grade 11 History, Cross-cutting — religions as historical actors (Units 2–8), prophets, Adam, Noah, Ibrahim, Hajar, Safa and Marwa, Musa, Madyan, Tabuk, Isa, Saudi Arabia Grade 4
+
+
+## History expansion (2026-11-15) — Ecuador stocked
+
+**Book (Ecuador EC-G11):** Title as printed: Historia 1 — Bachillerato General, Primero de Bachillerato, Texto del estudiante para la transición curricular Grade: 11 (student/teacher: STUDENT) Publisher: Ministerio de Educación del Ecuador; year 2024 (Primera edición); ISBN 978-9942-662-32-3 PDF pages: 386 (cover/title page verified against the record title; grabbed via grab.py release route, byte size 15,030,093 matches the books.json record) Verdict: COMPLETE Tally: 32 placements — 22 to existing lessons, 10 NEW LESSON NEEDED Ecuador's own way: the Bachillerato Historia course runs the whole human story — evolution, river civilisations, Greece/Rome/Byzantium, faiths, pre-Columbian America, colony, revolutions, economic systems — but keeps bending it home: Ecuadorian Indigenous women, the Inca legacy and dollarised 21st-century Ecuador close the arc. Placements at liqlearns-courses-work/expansion-history-2026-11-15/ecuador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Ecuador part — Sección 2 Tema 3: Encuentros y desafíos — historia interreligiosa en Oriente Medio — story beats: three monotheisms share one holy land and alternate between coexistence, debate and conflict (History expansion, 2026-11-15; original placement slug: ancient-world/faiths-that-shaped-states) | Ecuador, *Historia 1*, printed p. 126 |
+
+Ecuador's own way (Ecuador Grade 11 EC-G11): the Bachillerato Historia course runs the whole human story — evolution, river civilisations, Greece/Rome/Byzantium, faiths, pre-Columbian America, colony, revolutions, economic systems — but keeps bending it home: Ecuadorian Indigenous women, the Inca legacy and dollarised 21st-century Ecuador close the arc. That way is stocked here as the way Ecuador teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 3 countries (Ethiopia, Saudi Arabia, Ecuador).**

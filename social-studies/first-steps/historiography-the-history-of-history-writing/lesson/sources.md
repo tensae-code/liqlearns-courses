@@ -1,6 +1,6 @@
 # Sources — Historiography — history of history-writing
 
-countries: Ethiopia, Gambia, Bangladesh
+countries: Ethiopia, Gambia, Bangladesh, Ecuador
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -50,3 +50,16 @@ Bangladesh's own way (Grade 8): Class Eight turns to social and cultural history
 Bangladesh's own way (Grade 9): Class Nine is the political-history year — Bengal's political path is traced janapada to republic, world political forms (pharaohs, Sparta, Athens, nation-states) are set beside it, and Bangabandhu is studied as the bearer of Bengal's thousand-year humanitarian and secular spirit, honoured by the World Peace Council as 'Bishwabandhu', Friend of the World. That way is stocked here as the way Bangladesh teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 3 countries (Ethiopia, Gambia, Bangladesh).**
+
+
+## History expansion (2026-11-15) — Ecuador stocked
+
+**Book (Ecuador EC-G5):** Title as printed: Estudios Sociales 5 — Educación General Básica, Subnivel Media, Quinto de Básica, Texto del estudiante para la transición curricular Grade: 5 (student/teacher: STUDENT) Publisher: Ministerio de Educación del Ecuador; year 2024 (Primera edición); ISBN 978-9942-662-22-4 PDF pages: 210 (cover/title page verified against the record title; grabbed via grab.py release route, byte size 17,844,404 matches the books.json record; TSV record is the same book) Verdict: COMPLETE Tally: 9 placements — 1 to existing lessons, 8 NEW LESSON NEEDED Ecuador's own way: Grade 5 is one continuous national story told in period blocks — aboriginal roots, Conquest, Gran Colombia, then República I, II and III — each block closing with a reading (Lectura), a challenge (Reto) and an evaluation; world history enters only as Ecuador's frame. Non-History parts named (not placed): Sección 5 Ecuador in the Andean space and natural regions (printed pp. 112–129, Geography); Sección 6 population diversity and territorial organisation (pp. 132–163, Civics/Geography — its historical settlement notes are inside the diversity tema and are covered by the República III placement's migration beats); Sección 7 protected areas (pp. 166–181, Geography/environment); Sección 8 social organisation and participation (pp. 184–194, Civics). Placements at liqlearns-courses-work/expansion-history-2026-11-15/ecuador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Ecuador part — Sección 1 Tema 1: Juan de Velasco's Historia del Reino de Quito — story beats: Jesuit Juan de Velasco writes Ecuador's first history in exile, later critics argue parts read as legend, and pupils must weigh an "official history" against its critics (History expansion, 2026-11-15; original placement slug: first-steps/historiography-the-history-of-history-writing) | Ecuador, *Estudios Sociales 5*, printed p. 12 |
+
+Ecuador's own way (Ecuador Grade 5 EC-G5): Grade 5 is one continuous national story told in period blocks — aboriginal roots, Conquest, Gran Colombia, then República I, II and III — each block closing with a reading (Lectura), a challenge (Reto) and an evaluation; world history enters only as Ecuador's frame. That way is stocked here as the way Ecuador teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 4 countries (Ethiopia, Gambia, Bangladesh, Ecuador).**
