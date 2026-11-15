@@ -1,6 +1,6 @@
 # Sources — Human geography — the people side
 
-countries: Ethiopia, Myanmar, Ukraine, Bolivia, Fiji, Uganda, Sudan, Mauritania, Afghanistan, Iran, Honduras, Mozambique, Iraq, Armenia
+countries: Ethiopia, Myanmar, Ukraine, Bolivia, Fiji, Uganda, Sudan, Mauritania, Afghanistan, Iran, Honduras, Mozambique, Iraq, Armenia, Cuba
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -42,6 +42,8 @@ countries: Ethiopia, Myanmar, Ukraine, Bolivia, Fiji, Uganda, Sudan, Mauritania,
 
 **Book 20:** *Աշխարհագրություն — Դասագիրք 7-րդ դասարանի համար (Geography, textbook for grade 7)* (student book, Armenian) — «Աստղիկ Գրատուն» (Astghik Gratun), Yerevan; year 2023; ISBN 978-9939-74-142-0. Authors: T. Vardanyan, A. Potosyan, V. Asatryan, L. Hakobyan. Title as printed: Աշխարհագրություն — Դասագիրք 7-րդ դասարանի համար (Geography, textbook for grade 7). Grade: 7 (student/teacher: STUDENT). PDF pages: 176 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). The book's legacy-font text layer was decoded with the standard Armenian font-encoding table and verified against its printed contents page. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
 
+**Book 21:** *Orientaciones metodológicas — Geografía Económica y Social, octavo grado* (teacher guide, Spanish) — Editorial Pueblo y Educación / Ministerio de Educación, Cuba; year 2024; ISBN 978-959-13-4748-0 (print) / 978-959-13-4749-7 (digital). Title as printed: Orientaciones metodológicas — Geografía Económica y Social, octavo grado. Grade: Grade 8 (student/teacher: TEACHER). PDF pages: 84 (cover/title page verified against the record title; grabbed via grab.py tree route, 4,317,183 bytes; full text read via pdftotext -layout). Verdict: COMPLETE. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The people side | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 1, printed pp. 7–8 |
@@ -66,8 +68,9 @@ countries: Ethiopia, Myanmar, Ukraine, Bolivia, Fiji, Uganda, Sudan, Mauritania,
 | Iraq part — Ch. 1: Human phenomena — city, factory, house, cultivated land (photograph sorting activity) | Iraq, *Iraq Grade 4 Social Studies*, Ch. 1: Human phenomena — city, factory, house, cultivated land (photograph sorting activity) — printed p. 7 |
 | Iraq part — Ch. 5: Fields of human geography — population geography and its problems of collecting population data | Iraq, *Iraq Grade 10 Geography*, Ch. 5: Fields of human geography — population geography and its problems of collecting population data — printed p. 124 |
 | Armenia part — Lesson 5.8 Theme summary "Geography of the world's population" | Armenia, *Armenia Grade 7 Geography student*, Lesson 5.8 Theme summary "Geography of the world's population" — printed p. 126 |
+| Cuba part — Unidad 1 Introducción: qué estudia la Geografía Económica y Social; el espacio geográfico y la producción material (teacher guide — evidence) | Cuba, *Cuba Grade 8 OM Geografía Económica y Social G8* (teacher guide), Unidad 1 Introducción: qué estudia la Geografía Económica y Social; el espacio geográfico y la producción material — printed p. 31 |
 
-**Acceptance count: taught in 13 countries (Ethiopia, Ukraine, Bolivia, Fiji, Uganda, Sudan, Mauritania, Afghanistan, Iran, Honduras, Mozambique, Iraq, Armenia). Myanmar is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 13 countries (Ethiopia, Ukraine, Bolivia, Fiji, Uganda, Sudan, Mauritania, Afghanistan, Iran, Honduras, Mozambique, Iraq, Armenia). Myanmar is named here as teacher-guide evidence only, counted nowhere. Cuba is named here as teacher-guide evidence only, counted nowhere.**
 
 Ukraine's own way: A "Geography: Regions and Countries" course — every region is done in the same order (position, nature/resources, population, primary/secondary/tertiary sectors) then typological country studies with rubrics (country visiting-card, capital, pride of the country, unique experience), ending with Ukraine's own place in the world; research tasks (Дослідження) embedded in chapters. That way is stocked here as the way Ukraine teaches this thing.
 
@@ -106,3 +109,5 @@ Iraq's own way (Iraq Grade 4 Social Studies): geography enters inside "Social St
 Iraq's own way (Iraq Grade 10 Geography): the literary track opens geography as a discipline in its own right — its thought from the Sumerians to GIS, how a geographer researches, where geographical data come from and how they are drawn, and only then the fields of the science; Iraq supplies the worked examples throughout (Baghdad research problem, Iraqi topographic maps, Iraq's gas time series, the Baghdad–Basra distance exercise).
 
 Armenia's own way (Armenia Grade 7 Geography student): opens school geography with the geographic map itself (plan, scale, azimuth, projections) before any Earth science, and runs every theme to a summary lesson plus practical work; world economy is taught branch by branch with Armenia (ՀՀ) used as the worked example in the closing questions.
+
+Cuba's own way (Cuba Grade 8 OM Geografía Económica y Social G8) (teacher guide — evidence): The guide's distinctive Cuban layer is territorial identity — learners characterise their own municipality's resources and the environmental problems of its economic sectors, and the world material (political map, population, resources, production) is always closed by comparison with Cuba. That evidence is stocked here as the way Cuba teaches this thing; it does not change the acceptance count above.

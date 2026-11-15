@@ -1,0 +1,30 @@
+# Primary Activities Livestock Raising
+
+## Do it first
+
+Before you read on, say in your mind what you already think this is about: Unidad 5 La ganadería: importancia, factores de localización y principales producciones; Capítulo 3 Producción pecuaria: importancia y principales productores; Capítulo 2 La ganadería cubana: ganado vacuno, equino, porcino, ovino-caprino, avicultura, cunicultura y apicultura; Capítulo 3.2 La producción ganadera: vacuna, porcina, equina, ovina y avícola; Capítulo 4.3 La ganadería dentro del sector primario — as Cuba's book teaches it. Hold your idea; the lesson will test it.
+
+## Sub lesson 1 — Primary Activities Livestock Raising
+
+Cuba's book, the *Cuba Grade 8 OM Geografía Económica y Social G8* (printed p. 67), teaches: Unidad 5 La ganadería: importancia, factores de localización y principales producciones. (teacher guide — evidence) Cuba's book, the *Cuba Grade 8 Geografía 2 G8* (printed p. 49), teaches: Capítulo 3 Producción pecuaria: importancia y principales productores. Cuba's book, the *Cuba Grade 6 Geografía de Cuba G6* (printed p. 55), teaches: Capítulo 2 La ganadería cubana: ganado vacuno, equino, porcino, ovino-caprino, avicultura, cunicultura y apicultura. Cuba's book, the *Cuba Grade 9 Geografía de Cuba G9 (2012)* (printed p. 68), teaches: Capítulo 3.2 La producción ganadera: vacuna, porcina, equina, ovina y avícola. Cuba's book, the *Cuba Grade 9 Geografía de Cuba G9 (2025)* (printed p. 170), teaches: Capítulo 4.3 La ganadería dentro del sector primario. This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
+
+## Sub lesson 2 — Cuba's way — the book's own teaching way
+
+Cuba's own way (Cuba Grade 8 OM Geografía Económica y Social G8) (teacher guide — evidence): The guide's distinctive Cuban layer is territorial identity — learners characterise their own municipality's resources and the environmental problems of its economic sectors, and the world material (political map, population, resources, production) is always closed by comparison with Cuba. That book is a teacher guide, cited as evidence only; Cuba is counted in this lesson for its student book(s) named here, not for this guide.
+
+Cuba's own way (Cuba Grade 8 Geografía 2 G8): This older edition teaches world economic geography as a story — first the political map's dynamics through history (colonial empires, independences, 1914, post-1945, the 1960s, the 1990s), then resources, then production, and it closes with full regional studies; Latin America is studied first and in most depth, and every world topic is measured against Cuba's own sugar, tobacco, nickel and trade.
+
+Cuba's own way (Cuba Grade 6 Geografía de Cuba G6): The child's first geography book is the home country itself — one chapter of tools (coordinates, orientation, scale), then Cuba whole (situation, relief, coasts, climate, population, economy), then its two great regions landscape by landscape; the political-administrative division taught is the pre-2011 one (Ciudad de La Habana appears as a province), and History episodes woven into the regional chapters (the Santa Clara battle, the Granma landing) are named here but not placed — they belong to the History course.
+
+Cuba's own way (Cuba Grade 9 Geografía de Cuba G9 (2012)): The 2012 edition follows the G9 programme chapter for chapter (archipiélago → naturaleza → panorama económico → desarrollo social → situación medioambiental → regiones) and is explicit about its own dating: data before 31 Dec 2010 use the 1975 provincial division, while Chapter 6 teaches the new 16-province organisation of 1 Jan 2011. NOTE — this is NOT the same book as the Biblioteca copy filed next (Book 16): that copy is the wholly rewritten 2025 Tercer Perfeccionamiento edition, so the two are placed separately.
+
+Cuba's own way (Cuba Grade 9 Geografía de Cuba G9 (2025)): The 2025 rewrite keeps the home-country arc but rebuilds it for the Tercer Perfeccionamiento: Chapter 2 now profiles every province inside the political-administrative division itself, the climate chapter adds the Tarea Vida state plan by name, the economy chapter is organised by primary/secondary/tertiary sectors with self-employment (trabajo por cuenta propia) and the Mariel development zone, and the social chapter faces an ageing, shrinking population (life expectancy 73.7 years, a "Vivir 120" programme) and closes with Cuba's Human Development Index. It is a different book from the 2012 edition (Book 15), not a parallel copy, and is placed separately. This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
+
+## Say it to your companion
+
+Explain this lesson to your companion in your own words. Your companion asks you one hard question about it — answer from the lesson.
+
+## Do It Yourself
+
+1. The book's topic: do the activity in hands-on.md under this name.
+2. Cuba's way: do the activity in hands-on.md under this name.

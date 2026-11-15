@@ -1,6 +1,6 @@
 # Sources — The elements we measure
 
-countries: Ethiopia, Turkey, Eritrea, Fiji, Papua New Guinea, Venezuela, Mauritania, Pakistan, Libya, Moldova, Mozambique, Jordan
+countries: Ethiopia, Turkey, Eritrea, Fiji, Papua New Guinea, Venezuela, Mauritania, Pakistan, Libya, Moldova, Mozambique, Jordan, Cuba
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -38,6 +38,12 @@ countries: Ethiopia, Turkey, Eritrea, Fiji, Papua New Guinea, Venezuela, Maurita
 
 **Book 18:** *الجغرافيا — الصف الثاني عشر / المسار الأكاديمي — الفصل الدراسي الثاني (Geography, Grade 12 Academic Track, Term 2)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-950-2. Title as printed: الجغرافيا — الصف الثاني عشر / المسار الأكاديمي — الفصل الدراسي الثاني (Geography, Grade 12 Academic Track, Term 2). Grade: 12 (student/teacher: STUDENT). PDF pages: 136 (cover verified; byte size 118,626,340 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
 
+**Book 19:** *Geografía Física, séptimo grado* (student book, Spanish) — Editorial Pueblo y Educación, Cuba; year 2023; ISBN 978-959-13-4069-6 (print) / 978-959-13-4330-7 (digital). Title as printed: Geografía Física, séptimo grado. Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 239 (cover/title page verified against the record title; grabbed via grab.py release-asset route, 39,829,077 bytes; the duplicate TSV↔books.json pair is the same book, read once; full text read via pdftotext -layout; structure and printed pages from the book's Índice). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
+
+**Book 20:** *Cuaderno de actividades — Geografía de Cuba, sexto grado* (workbook, Spanish) — Editorial Pueblo y Educación, Cuba; tercera edición 2011; ISBN 978-959-13-2296-8. Title as printed: Cuaderno de actividades — Geografía de Cuba, sexto grado. Grade: Grade 6 (student/teacher: STUDENT workbook). PDF pages: 41 (cover verified against the record title; grabbed via grab.py url route, 2,267,874 bytes; full text read via pdftotext -layout; printed pagination runs to p. 34 + outline maps). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
+
+**Book 21:** *Geografía de Cuba, noveno grado* (student book, 2025 edition, Spanish) — Editorial Pueblo y Educación, Cuba; year 2025 (Tercer Perfeccionamiento del Sistema Nacional de Educación); ISBN 978-959-13-4930-9 (print) / 978-959-13-5003-9 (digital). Title as printed: Geografía de Cuba, noveno grado. Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 298 (cover verified against the record title; grabbed via grab.py release-asset route from the Biblioteca record's release, 62,728,642 bytes; full text read via pdftotext -layout; structure and printed pages from the book's Índice). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The seven elements | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 2, printed pp. 39–41 |
@@ -60,8 +66,11 @@ countries: Ethiopia, Turkey, Eritrea, Fiji, Papua New Guinea, Venezuela, Maurita
 | Jordan part — Unit 7 Lesson 1: Elements of Climate 1 (عناصر المناخ: الحرارة والضغط الجوي والتكاثف والتساقط) | Jordan, *Jordan G6 SS T2*, Unit 7 Lesson 1: Elements of Climate 1 (عناصر المناخ: الحرارة والضغط الجوي والتكاثف والتساقط) — printed p. 26 |
 | Jordan part — Unit 6 Lesson 1: Measuring the Elements of Weather (قياس عناصر الطقس) | Jordan, *Jordan G12 ES T2*, Unit 6 Lesson 1: Measuring the Elements of Weather (قياس عناصر الطقس) — printed p. 54 |
 | Jordan part — Unit 4 Lesson 2: Elements of Climate 1 (عناصر المناخ 1) | Jordan, *Jordan G12 Geography T2*, Unit 4 Lesson 2: Elements of Climate 1 (عناصر المناخ 1) — printed p. 16 |
+| Cuba part — Capítulo 5 La temperatura: factores que inciden en su variación y distribución geográfica | Cuba, *Cuba Grade 7 Geografía Física G7*, Capítulo 5 La temperatura: factores que inciden en su variación y distribución geográfica — printed p. 110 |
+| Cuba part — Unidad 2 Nuestro país socialista: dónde llueve más en Cuba y comentario de un parte meteorológico recortado de la prensa | Cuba, *Cuba Grade 6 Cuaderno de actividades G6*, Unidad 2 Nuestro país socialista: dónde llueve más en Cuba y comentario de un parte meteorológico recortado de la prensa — printed p. 8 |
+| Cuba part — Capítulo 3.4.1 Variables meteorológicas | Cuba, *Cuba Grade 9 Geografía de Cuba G9 (2025)*, Capítulo 3.4.1 Variables meteorológicas — printed p. 61 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Turkey, Eritrea, Fiji, Venezuela, Mauritania, Pakistan, Libya, Moldova, Mozambique, Jordan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 12 countries (Ethiopia, Turkey, Eritrea, Fiji, Venezuela, Mauritania, Pakistan, Libya, Moldova, Mozambique, Jordan, Cuba). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
@@ -96,3 +105,9 @@ Jordan's own way (Jordan G6 SS T2): Term 2's geography is climate done properly 
 Jordan's own way (Jordan G12 ES T2): the last term spans galaxies and the origin of the universe, severe weather and how to stay safe in it, and the history of the Earth — with geological tourism in Jordan as the closing enrichment.
 
 Jordan's own way (Jordan G12 Geography T2): the final Geography term is climate (atmosphere, elements, classifications, change), environment (components, problems, protection, Jordanian ecotourism), and economic geography (production, agriculture, industry, services, development).
+
+Cuba's own way (Cuba Grade 7 Geografía Física G7): Physical geography is taught sphere by sphere (lithosphere → atmosphere → hydrosphere → biosphere) but every sphere chapter closes on rational use and sustainability — wind energy, rational water use, soil protection — and Cuban evidence runs through it (Cuba's forest cover fell from ~95 % at the Spanish arrival to 16 % by 1959 and was recovered by policy).
+
+Cuba's own way (Cuba Grade 6 Cuaderno de actividades G6): The workbook is the practice twin of the G6 student book and the Atlas Escolar — nearly every activity is done ON a map (tracing coordinates, shading the insular shelf, locating features on outline maps) — and it is where the programme's fifth unit, "El paisaje de la localidad", actually lives: the student book has no locality chapter, but the workbook closes with sketching, describing and defending the child's own locality. Section 2 is pure tools: outline maps of the world and of Cuba plus graph paper.
+
+Cuba's own way (Cuba Grade 9 Geografía de Cuba G9 (2025)): The 2025 rewrite keeps the home-country arc but rebuilds it for the Tercer Perfeccionamiento: Chapter 2 now profiles every province inside the political-administrative division itself, the climate chapter adds the Tarea Vida state plan by name, the economy chapter is organised by primary/secondary/tertiary sectors with self-employment (trabajo por cuenta propia) and the Mariel development zone, and the social chapter faces an ageing, shrinking population (life expectancy 73.7 years, a "Vivir 120" programme) and closes with Cuba's Human Development Index. It is a different book from the 2012 edition (Book 15), not a parallel copy, and is placed separately.

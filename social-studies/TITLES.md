@@ -103,7 +103,7 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **3133**
+Geography lessons across the eight Geography titles: **3180**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -2198,3 +2198,42 @@ And Protection Of Animal Resources.
 (All 135 new lessons are taught in 1 country (Armenia),
 each standing on student book(s); two also cite a
 teacher guide as evidence only.)
+
++47 for Cuba, 2026-11-15 — First Steps: How Geography
+Grew From Ancient Maps To A Science; Earth and Space:
+The International Date Line and The Moon Phases And Its
+Influence On Life; The Land and Air: Air Masses And
+Weather Fronts, Air Pressure And Its Geographic
+Distribution, Algeria A Country Study, Anglo America A
+Regional Study, Angola A Country Study, Antarctica The
+Frozen Continent, Australia And Oceania A Regional
+Study, Bolivia A Country Study, China A Country Study,
+Coasts And Coastal Features, Cuba The Archipelago A
+Home Country Study, Cuba's Central Region, Cuba's
+Occidental Central Region, Cuba's Oriental Region,
+Cuba's Provinces And Their Capitals, Egypt A Country
+Study, Eurasia A Regional Study, France A Country
+Study, India A Country Study, Karst Landscapes Caves
+And Sinkholes, Latin America And The Caribbean A
+Regional Study, Mexico A Country Study, Russia A
+Country Study, South Africa A Country Study, South And
+East Asia A Regional Study, Southern Africa A Regional
+Study, Sub Saharan Africa A Regional Study, The
+Americas A Regional Study, The Middle East A Regional
+Study, The United States A Country Study, Venezuela A
+Country Study, Western Europe A Regional Study and Wind
+Origin Trade Winds And Local Winds; Population,
+Transport and Maps: Communications From Post To
+Satellites, Cuba's Population Composition Growth And
+Distribution and How The World Political Map Changes;
+People and Resources: Energy Resources And Renewable
+Energy Sources and Fishing And The Insular Shelf;
+Culture and Work: Cuba's Foreign Trade And Its
+Geographic Orientation and Primary Activities Livestock
+Raising; Global Issues: Cuba's Tarea Vida State Plan
+Against Climate Change, El Niño When The Pacific Warms,
+Human Development Measuring A Good Life and Wind Energy
+And Sustainable Development.
+(All 47 new lessons are taught in 1 country (Cuba),
+each standing on student book(s)/workbook(s); 24 also
+cite a teacher guide as evidence only.)

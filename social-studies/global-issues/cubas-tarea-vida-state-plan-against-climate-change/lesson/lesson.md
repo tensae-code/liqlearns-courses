@@ -1,0 +1,26 @@
+# Cuba's Tarea Vida State Plan Against Climate Change
+
+## Do it first
+
+Before you read on, say in your mind what you already think this is about: Materiales complementarios: Enfrentamiento al cambio climático — la Tarea Vida; Anexo 15 La Tarea Vida en el Ministerio de Educación; Capítulo 3.4.5 El impacto del cambio climático en Cuba: medidas de mitigación y adaptación y la Tarea Vida; Capítulo 4.1 La conservación de los recursos naturales para el desarrollo sostenible y la Tarea Vida — as Cuba's book teaches it. Hold your idea; the lesson will test it.
+
+## Sub lesson 1 — Cuba's Tarea Vida State Plan Against Climate Change
+
+Cuba's book, the *Cuba Grade 5 OM Geografía G5* (printed p. 126), teaches: Materiales complementarios: Enfrentamiento al cambio climático — la Tarea Vida. (teacher guide — evidence) Cuba's book, the *Cuba Grade 11 OM Geografía Regional G11* (printed p. 227), teaches: Anexo 15 La Tarea Vida en el Ministerio de Educación. (teacher guide — evidence) Cuba's book, the *Cuba Grade 9 Geografía de Cuba G9 (2025)* (printed p. 83), teaches: Capítulo 3.4.5 El impacto del cambio climático en Cuba: medidas de mitigación y adaptación y la Tarea Vida. Cuba's book, the *Cuba Grade 9 Geografía de Cuba G9 (2025)* (printed p. 133), teaches: Capítulo 4.1 La conservación de los recursos naturales para el desarrollo sostenible y la Tarea Vida. This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
+
+## Sub lesson 2 — Cuba's way — the book's own teaching way
+
+Cuba's own way (Cuba Grade 5 OM Geografía G5) (teacher guide — evidence): The teacher guide teaches the same four units as the programme/student book but adds Cuba-specific complementary materials no other country set carries: the Tarea Vida state climate-change plan as classroom content, project-based-learning orientation, and a long section on mastering the changing world political map through country cases (Congo, Belarus, the Yugoslav successor states). That book is a teacher guide, cited as evidence only; Cuba is counted in this lesson for its student book(s) named here, not for this guide.
+
+Cuba's own way (Cuba Grade 11 OM Geografía Regional G11) (teacher guide — evidence): Regional geography is taught with a fixed "plan tipo" (situation → physical character → socio-economic character → regions → political map → country studies) and heavy statistical work — the annexes teach teachers to build statistical materials, read demographic-indicator ranges and the HDI, and close the world tour with the Cuban archipelago and the Tarea Vida climate plan in schools. That book is a teacher guide, cited as evidence only; Cuba is counted in this lesson for its student book(s) named here, not for this guide.
+
+Cuba's own way (Cuba Grade 9 Geografía de Cuba G9 (2025)): The 2025 rewrite keeps the home-country arc but rebuilds it for the Tercer Perfeccionamiento: Chapter 2 now profiles every province inside the political-administrative division itself, the climate chapter adds the Tarea Vida state plan by name, the economy chapter is organised by primary/secondary/tertiary sectors with self-employment (trabajo por cuenta propia) and the Mariel development zone, and the social chapter faces an ageing, shrinking population (life expectancy 73.7 years, a "Vivir 120" programme) and closes with Cuba's Human Development Index. It is a different book from the 2012 edition (Book 15), not a parallel copy, and is placed separately. This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
+
+## Say it to your companion
+
+Explain this lesson to your companion in your own words. Your companion asks you one hard question about it — answer from the lesson.
+
+## Do It Yourself
+
+1. The book's topic: do the activity in hands-on.md under this name.
+2. Cuba's way: do the activity in hands-on.md under this name.

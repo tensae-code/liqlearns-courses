@@ -1,6 +1,6 @@
 # Sources — Water Bodies — The Five Oceans
 
-countries: Ethiopia, Nauru, Tuvalu, Guatemala, Angola, Dominican Republic, Bahamas, Eritrea, India, Slovenia, Papua New Guinea, Sudan, Mauritania, Yemen, Pakistan, Moldova, Mozambique, Laos
+countries: Ethiopia, Nauru, Tuvalu, Guatemala, Angola, Dominican Republic, Bahamas, Eritrea, India, Slovenia, Papua New Guinea, Sudan, Mauritania, Yemen, Pakistan, Moldova, Mozambique, Laos, Cuba
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -50,6 +50,12 @@ countries: Ethiopia, Nauru, Tuvalu, Guatemala, Angola, Dominican Republic, Baham
 
 **Book 24:** *ແບບຮຽນ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 1 (Textbook, Geography, Secondary Year 1)* (student book, Lao) — Ministry of Education, Educational Science Research Institute; year 2010; ISBN no ISBN printed. Title as printed: ແບບຮຽນ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 1 (Textbook, Geography, Secondary Year 1). Grade: Grade 6 (ມ.1) (student/teacher: STUDENT). PDF pages: 102 (title page verified against the record title; byte size 47,303,229 exact match to the books.json record, read via the release asset — the tree copy is not in the repo). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/laos-placements.md.
 
+**Book 25:** *Orientaciones metodológicas — Geografía, quinto grado* (teacher guide, Spanish) — Editorial Pueblo y Educación / Ministerio de Educación, Cuba; year 2024; ISBN 978-959-13-4693-3 (print) / 978-959-13-4694-0 (digital). Title as printed: Orientaciones metodológicas — Geografía, quinto grado. Grade: Grade 5 (student/teacher: TEACHER). PDF pages: 150 (cover/title page verified against the record title; grabbed via grab.py tree route, 816,401 bytes). Verdict: COMPLETE. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
+
+**Book 26:** *Geografía, quinto grado* (student book, Spanish) — Editorial Pueblo y Educación / Ministerio de Educación, Cuba; year 2024; ISBN 978-959-13-4717-6 (print) / 978-959-13-4718-3 (digital). Title as printed: Geografía, quinto grado. Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 174 (cover/title page verified against the record title; grabbed via grab.py release-asset route, 7,092,429 bytes; the duplicate TSV↔books.json pair is the same book, read once; full text read via pdftotext -layout). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
+
+**Book 27:** *Geografía Física, séptimo grado* (student book, Spanish) — Editorial Pueblo y Educación, Cuba; year 2023; ISBN 978-959-13-4069-6 (print) / 978-959-13-4330-7 (digital). Title as printed: Geografía Física, séptimo grado. Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 239 (cover/title page verified against the record title; grabbed via grab.py release-asset route, 39,829,077 bytes; the duplicate TSV↔books.json pair is the same book, read once; full text read via pdftotext -layout; structure and printed pages from the book's Índice). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The largest water bodies | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed p. 6 |
@@ -71,6 +77,9 @@ countries: Ethiopia, Nauru, Tuvalu, Guatemala, Angola, Dominican Republic, Baham
 | Mozambique part — Lição 10: Oceanos e Mares (salinity 35‰, freezing at −2 °C, ¾ of Earth's surface) | Mozambique, *Mozambique Grade 10 PESD II Mod 4*, Lição 10: Oceanos e Mares (salinity 35‰, freezing at −2 °C, ¾ of Earth's surface) — printed p. 61 |
 | Laos part — Part IV Lesson 9: Seas and oceans of the world | Laos, *Laos Grade 6 laos-g06-geography-teacher*, Part IV Lesson 9: Seas and oceans of the world — printed p. 29 (teacher-guide evidence) |
 | Laos part — Part IV Lesson 9: Seas and oceans of the world | Laos, *Laos Grade 6 laos-g06-geography-student*, Part IV Lesson 9: Seas and oceans of the world — printed p. 44 |
+| Cuba part — Unidad 4 ep. 4.12 Localización en el mapa de contorno de los océanos y ejemplos de mares (teacher guide — evidence) | Cuba, *Cuba Grade 5 OM Geografía G5* (teacher guide), Unidad 4 ep. 4.12 Localización en el mapa de contorno de los océanos y ejemplos de mares — printed p. 73 |
+| Cuba part — Capítulo 4 ep. 4.10 Los océanos del planeta y ejemplos de mares | Cuba, *Cuba Grade 5 Geografía G5*, Capítulo 4 ep. 4.10 Los océanos del planeta y ejemplos de mares — printed p. 125 |
+| Cuba part — Capítulo 6 El océano mundial y los mares: características y movimientos | Cuba, *Cuba Grade 7 Geografía Física G7*, Capítulo 6 El océano mundial y los mares: características y movimientos — printed p. 183 |
 
 | Sub lesson 4 — Arctic and Atlantic — Grade 11 portraits (Grade 11 depth) | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 1, printed pp. 18–20 |
 | Sub lesson 5 — Indian and Pacific — Grade 11 portraits (Grade 11 depth) | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 1, printed pp. 18–20 |
@@ -81,7 +90,7 @@ countries: Ethiopia, Nauru, Tuvalu, Guatemala, Angola, Dominican Republic, Baham
 | Guatemala part — Mares y océanos: Atlántico/Mar Caribe and Pacífico around the isthmus | Guatemala, *Ciencias Sociales y Formación Ciudadana*, Grade 4, Mares y océanos: Atlántico/Mar Caribe and Pacífico around the isthmus (Unit 2) — printed p. 83 |
 | Dominican Republic part (Grade 3) — Seas and oceans, and the impact of human actions on them | Dominican Republic, *Ciencias Sociales, Tercer Grado, Primaria (Libro Abierto)*, Grade 3, Seas and oceans, and the impact of human actions on them — printed p. 16 |
 
-**Acceptance count: taught in 17 countries (Ethiopia, Nauru, Tuvalu, Guatemala, Angola, Dominican Republic, Bahamas, Eritrea, India, Slovenia, Sudan, Mauritania, Yemen, Pakistan, Moldova, Mozambique, Laos). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 18 countries (Ethiopia, Nauru, Tuvalu, Guatemala, Angola, Dominican Republic, Bahamas, Eritrea, India, Slovenia, Sudan, Mauritania, Yemen, Pakistan, Moldova, Mozambique, Laos, Cuba). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Nauru's own way: Nauru uses the shared Pacific ESD reader suite (local advisors Fay Itaia & Sharon Kam for Nauru) — Geography is taught as ocean stewardship: the Pacific as a connected "sea of islands", its animals, and the traditional fishing knowledge of Tonga, Tuvalu and Niue, ending in a plastic-waste action plan. That way is stocked here as the way Nauru teaches this thing.
 
@@ -128,3 +137,9 @@ Mozambique's own way (Mozambique Grade 10 PESD II Mod 4): two half-courses bound
 Laos's own way (Laos Grade 6 laos-g06-geography-teacher): a world-foundations year taught zone by zone — after Earth, maps, movements, atmosphere and waters, the last five lessons walk through how people live in each climate zone (hot, desert, savanna, temperate, cold); closes with a teaching-techniques section (printed p. 66) and a Q&A additional-knowledge appendix (printed p. 75), not placed separately.
 
 Laos's own way (Laos Grade 6 laos-g06-geography-student): the student twin of Book 2 — same 9 parts / 16 lessons with full illustrated text, a reading passage (printed p. 90) and a glossary of terms (printed p. 95), not placed separately.
+
+Cuba's own way (Cuba Grade 5 OM Geografía G5) (teacher guide — evidence): The teacher guide teaches the same four units as the programme/student book but adds Cuba-specific complementary materials no other country set carries: the Tarea Vida state climate-change plan as classroom content, project-based-learning orientation, and a long section on mastering the changing world political map through country cases (Congo, Belarus, the Yugoslav successor states). That evidence is stocked here as the way Cuba teaches this thing; it is cited as evidence only — Cuba is counted in this lesson through its student book(s).
+
+Cuba's own way (Cuba Grade 5 Geografía G5): The first Geography book a Cuban child meets opens with the history of geography itself (cuneiform maps, Hecataeus), builds all map skills before any content, and ends the planet tour with world population, the world political map and world heritage — with Cuba's own places (Llanura del Cauto, Trinidad) woven in as examples throughout.
+
+Cuba's own way (Cuba Grade 7 Geografía Física G7): Physical geography is taught sphere by sphere (lithosphere → atmosphere → hydrosphere → biosphere) but every sphere chapter closes on rational use and sustainability — wind energy, rational water use, soil protection — and Cuban evidence runs through it (Cuba's forest cover fell from ~95 % at the Spanish arrival to 16 % by 1959 and was recovered by policy).

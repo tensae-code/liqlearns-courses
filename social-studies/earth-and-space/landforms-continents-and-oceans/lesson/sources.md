@@ -1,6 +1,6 @@
 # Sources — Landforms, Continents and Oceans
 
-countries: Ethiopia, Saudi Arabia, France, Guatemala, Ecuador, Malaysia, Eritrea, Rwanda, Papua New Guinea, Afghanistan, Yemen, Pakistan, Moldova, Honduras, Nepal, Jordan, Laos, Bhutan, Armenia
+countries: Ethiopia, Saudi Arabia, France, Guatemala, Ecuador, Malaysia, Eritrea, Rwanda, Papua New Guinea, Afghanistan, Yemen, Pakistan, Moldova, Honduras, Nepal, Jordan, Laos, Bhutan, Armenia, Cuba
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page - 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md.
 
@@ -70,6 +70,12 @@ countries: Ethiopia, Saudi Arabia, France, Guatemala, Ecuador, Malaysia, Eritrea
 
 **Book 34:** *ԱՇԽԱՐՀԱԳՐՈՒԹՅՈՒՆ 10 (Geography 10)* (student book, Armenian) — Էդիթ Պրինտ (Edit Print), Yerevan; year 2023 (title page 2024); ISBN 978-9939-969-06-0. Authors: Ashot Khachatryan, Yurik Muradyan. Title as printed: ԱՇԽԱՐՀԱԳՐՈՒԹՅՈՒՆ 10 (Geography 10). Grade: 10 (student/teacher: STUDENT). PDF pages: 194 (printed 192; cover/title page verified against the record title). Verdict: COMPLETE — the senior Geography course in 7 themes: methods & cartography, lithosphere, atmosphere & climate, river hydrology, the political map of the world, world population, world natural resources. Read in full from contact sheets; every lesson opener and the printed contents (pp. 190-191) checked. Read in full from 100-DPI contact sheets (image-only book); every lesson opener and the printed contents (pp. 190-191) checked. Also read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
 
+**Book 35:** *Orientaciones metodológicas — Geografía Regional, onceno grado* (teacher guide, Spanish) — Editorial Pueblo y Educación / Ministerio de Educación, Cuba; year 2024; ISBN 978-959-13-4801-2 (print) / 978-959-13-4802-9 (digital). Title as printed: Orientaciones metodológicas — Geografía Regional, onceno grado. Grade: Grade 11 (student/teacher: TEACHER). PDF pages: 239 (cover/title page verified against the record title; grabbed via grab.py tree route, 1,386,801 bytes; full text read via pdftotext -layout). Verdict: COMPLETE. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
+
+**Book 36:** *Geografía Regional, onceno grado* (student book, Spanish) — Editorial Pueblo y Educación / Ministerio de Educación, Cuba; year 2024; ISBN 978-959-13-4815-9 (print) / 978-959-13-4816-6 (digital). Title as printed: Geografía Regional, onceno grado. Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 442 (cover/title page verified against the record title; the grab.py tree route returned 404 twice for the recorded repo path, so the book was taken from the repo's own release asset — mid-size-books-7, grade-11-gov-cuba-geografia-student-full-year.pdf — byte-verified by grab.py at 89,851,088 bytes; full text read via pdftotext -layout; structure and printed pages from the book's Índice). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
+
+**Book 37:** *Geografía Física, séptimo grado* (student book, Spanish) — Editorial Pueblo y Educación, Cuba; year 2023; ISBN 978-959-13-4069-6 (print) / 978-959-13-4330-7 (digital). Title as printed: Geografía Física, séptimo grado. Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 239 (cover/title page verified against the record title; grabbed via grab.py release-asset route, 39,829,077 bytes; the duplicate TSV↔books.json pair is the same book, read once; full text read via pdftotext -layout; structure and printed pages from the book's Índice). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Landforms: how the Earth's face is made | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 1, printed p. 26 |
@@ -105,12 +111,15 @@ countries: Ethiopia, Saudi Arabia, France, Guatemala, Ecuador, Malaysia, Eritrea
 | Bhutan part — 1.3 Continents and Oceans | Bhutan, *Bhutan Grade 5 Social Studies*, 1.3 Continents and Oceans — printed p. 3 |
 | Armenia part — Lesson 2.3 Continents | Armenia, *Armenia Grade 7 Geography student*, Lesson 2.3 Continents — printed p. 34 |
 | Armenia part — 2.5 The relief of the Earth's surface | Armenia, *Armenia Grade 10 Geography student*, 2.5 The relief of the Earth's surface — printed p. 72 |
+| Cuba part — Unidad 1 Origen y distribución de los continentes y océanos (teacher guide — evidence) | Cuba, *Cuba Grade 11 OM Geografía Regional G11* (teacher guide), Unidad 1 Origen y distribución de los continentes y océanos — printed p. 23 |
+| Cuba part — Capítulo 1 ep. 1.3 Distribución de los continentes y océanos | Cuba, *Cuba Grade 11 Geografía Regional G11*, Capítulo 1 ep. 1.3 Distribución de los continentes y océanos — printed p. 8 |
+| Cuba part — Capítulo 4 Masas continentales: continentes y océanos | Cuba, *Cuba Grade 7 Geografía Física G7*, Capítulo 4 Masas continentales: continentes y océanos — printed p. 68 |
 
 | France part — Thème 1 Entrer dans le thème: Continents et océans, les repères spatiaux | France, *Géographie 2de GT, Manuel Libre de Géographie, Seconde*, Grade 10, Sommaire Thème 1 |
 | Ecuador part — El relieve (Unit 2, Las irregularidades de la Tierra) | Ecuador, *Estudios Sociales 3ro EGB (SM 2016)*, Grade 3, El relieve (Unit 2, Las irregularidades de la Tierra) — printed p. 34 |
 | Ecuador part — Formación de la Tierra; características de continentes, océanos y mares (inside the cartography tema, per its evaluation criterion) | Ecuador, *Estudios Sociales 8vo EGB*, Grade 8, Formación de la Tierra; características de continentes, océanos y mares (inside the cartography tema, per its evaluation criterion) — printed p. 99 |
 
-**Acceptance count: taught in 18 countries (Ethiopia, Saudi Arabia, France, Guatemala, Ecuador, Malaysia, Eritrea, Rwanda, Afghanistan, Yemen, Pakistan, Moldova, Honduras, Nepal, Jordan, Laos, Bhutan, Armenia). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 19 countries (Ethiopia, Saudi Arabia, France, Guatemala, Ecuador, Malaysia, Eritrea, Rwanda, Afghanistan, Yemen, Pakistan, Moldova, Honduras, Nepal, Jordan, Laos, Bhutan, Armenia, Cuba). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 No book errors are flagged by the placements for these pages. Areas are the book's printed table figures (Table 2).
 
@@ -179,3 +188,9 @@ Bhutan's own way (Bhutan Grade 5 Social Studies): Grade 5 spirals from the Earth
 Armenia's own way (Armenia Grade 7 Geography student): opens school geography with the geographic map itself (plan, scale, azimuth, projections) before any Earth science, and runs every theme to a summary lesson plus practical work; world economy is taught branch by branch with Armenia (ՀՀ) used as the worked example in the closing questions.
 
 Armenia's own way (Armenia Grade 10 Geography student): grade-10 Geography is a methods-first course — it opens with the science's history, branches and GIS/GPS/aerospace methods, works through the lithosphere with a full natural-disasters lesson, and closes with resources measured by endowment; Armenia's own rivers fill the hydrology tables and Armenia's place in modern geopolitics closes the political-map theme.
+
+Cuba's own way (Cuba Grade 11 OM Geografía Regional G11) (teacher guide — evidence): Regional geography is taught with a fixed "plan tipo" (situation → physical character → socio-economic character → regions → political map → country studies) and heavy statistical work — the annexes teach teachers to build statistical materials, read demographic-indicator ranges and the HDI, and close the world tour with the Cuban archipelago and the Tarea Vida climate plan in schools. That evidence is stocked here as the way Cuba teaches this thing; it is cited as evidence only — Cuba is counted in this lesson through its student book(s).
+
+Cuba's own way (Cuba Grade 11 Geografía Regional G11): The capstone of Cuban school geography: five continents studied with one fixed plan (situation → physical character → socio-economic character → regions → political-map changes → countries-and-capitals → deep country monographs), then a full closing chapter on the Cuban archipelago longer than any continent chapter — the world tour exists to bring the learner home with the tools to characterise their own country.
+
+Cuba's own way (Cuba Grade 7 Geografía Física G7): Physical geography is taught sphere by sphere (lithosphere → atmosphere → hydrosphere → biosphere) but every sphere chapter closes on rational use and sustainability — wind energy, rational water use, soil protection — and Cuban evidence runs through it (Cuba's forest cover fell from ~95 % at the Spanish arrival to 16 % by 1959 and was recovered by policy).

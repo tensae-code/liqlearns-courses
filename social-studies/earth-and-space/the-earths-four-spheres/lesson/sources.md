@@ -1,6 +1,6 @@
 # Sources — The Earth's Four Spheres
 
-countries: Ethiopia, Myanmar, Nauru, Tuvalu, Niue, Palestine, Angola, Dominican Republic, Malaysia, India, Fiji, Sudan, Venezuela, Kuwait, Iran, Yemen, Moldova, Honduras, Mozambique, Jordan, Iraq, Bhutan
+countries: Ethiopia, Myanmar, Nauru, Tuvalu, Niue, Palestine, Angola, Dominican Republic, Malaysia, India, Fiji, Sudan, Venezuela, Kuwait, Iran, Yemen, Moldova, Honduras, Mozambique, Jordan, Iraq, Bhutan, Cuba
 
 **Book 3:** *Social Studies Teacher's Guide, Grade 7* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, first edition 2022 (© 2014 E.C.), 142 printed pp. Printed page = PDF page - 5. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-teacher-placements.md.
 
@@ -52,6 +52,12 @@ countries: Ethiopia, Myanmar, Nauru, Tuvalu, Niue, Palestine, Angola, Dominican 
 
 **Book 27:** *SOCIAL STUDIES CLASS VI* (student book, English) — Center for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; year Provisional Edition 2021, Revised 2025; ISBN no ISBN printed. Title as printed: SOCIAL STUDIES CLASS VI. Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 68 (cover/title page verified against the record title; byte size 1,628,115 and page count match the books.json record exactly — read via the record's ministry source URL after the grab.py tree route hung over 5 minutes on this book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
 
+**Book 28:** *Orientaciones metodológicas — Geografía, quinto grado* (teacher guide, Spanish) — Editorial Pueblo y Educación / Ministerio de Educación, Cuba; year 2024; ISBN 978-959-13-4693-3 (print) / 978-959-13-4694-0 (digital). Title as printed: Orientaciones metodológicas — Geografía, quinto grado. Grade: Grade 5 (student/teacher: TEACHER). PDF pages: 150 (cover/title page verified against the record title; grabbed via grab.py tree route, 816,401 bytes). Verdict: COMPLETE. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
+
+**Book 29:** *Geografía, quinto grado* (student book, Spanish) — Editorial Pueblo y Educación / Ministerio de Educación, Cuba; year 2024; ISBN 978-959-13-4717-6 (print) / 978-959-13-4718-3 (digital). Title as printed: Geografía, quinto grado. Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 174 (cover/title page verified against the record title; grabbed via grab.py release-asset route, 7,092,429 bytes; the duplicate TSV↔books.json pair is the same book, read once; full text read via pdftotext -layout). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
+
+**Book 30:** *Geografía Física, séptimo grado* (student book, Spanish) — Editorial Pueblo y Educación, Cuba; year 2023; ISBN 978-959-13-4069-6 (print) / 978-959-13-4330-7 (digital). Title as printed: Geografía Física, séptimo grado. Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 239 (cover/title page verified against the record title; grabbed via grab.py release-asset route, 39,829,077 bytes; the duplicate TSV↔books.json pair is the same book, read once; full text read via pdftotext -layout; structure and printed pages from the book's Índice). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson (teacher guide — evidence) | Ethiopia, *Social Studies Teacher's Guide, Grade 7*, Unit 1 (§1.3), printed pp. 8–10 |
@@ -81,8 +87,14 @@ countries: Ethiopia, Myanmar, Nauru, Tuvalu, Niue, Palestine, Angola, Dominican 
 | Iraq part — Ch. 1: Earth's envelopes (أغلفة الأرض) — gaseous, liquid and solid | Iraq, *Iraq Grade 11 Physical Geography*, Ch. 1: Earth's envelopes (أغلفة الأرض) — gaseous, liquid and solid — printed p. 5 |
 | Iraq part — Ch. 1 The atmosphere: the Earth system (النظام الأرضي) — a set of interacting sub-systems (envelopes) | Iraq, *Iraq Grade 11 Earth Science*, Ch. 1 The atmosphere: the Earth system (النظام الأرضي) — a set of interacting sub-systems (envelopes) — printed p. 2 |
 | Bhutan part — 1.3 The Spheres of the Earth | Bhutan, *Bhutan Grade 6 Social Studies*, 1.3 The Spheres of the Earth — printed p. 3 |
+| Cuba part — Unidad 4 ep. 4.1 Presentación de las esferas del planeta Tierra: litosfera, atmósfera, hidrosfera y biosfera (teacher guide — evidence) | Cuba, *Cuba Grade 5 OM Geografía G5* (teacher guide), Unidad 4 ep. 4.1 Presentación de las esferas del planeta Tierra: litosfera, atmósfera, hidrosfera y biosfera — printed p. 71 |
+| Cuba part — Unidad 4 ep. 4.16 La biosfera: desarrollo de la vida (teacher guide — evidence) | Cuba, *Cuba Grade 5 OM Geografía G5* (teacher guide), Unidad 4 ep. 4.16 La biosfera: desarrollo de la vida — printed p. 74 |
+| Cuba part — Capítulo 4 ep. 4.1 Presentación de las esferas del planeta Tierra: litosfera, atmósfera, hidrosfera y biosfera | Cuba, *Cuba Grade 5 Geografía G5*, Capítulo 4 ep. 4.1 Presentación de las esferas del planeta Tierra: litosfera, atmósfera, hidrosfera y biosfera — printed p. 79 |
+| Cuba part — Capítulo 4 ep. 4.12 La biosfera: desarrollo de la vida | Cuba, *Cuba Grade 5 Geografía G5*, Capítulo 4 ep. 4.12 La biosfera: desarrollo de la vida — printed p. 142 |
+| Cuba part — Capítulo 4 Características generales de la litosfera | Cuba, *Cuba Grade 7 Geografía Física G7*, Capítulo 4 Características generales de la litosfera — printed p. 64 |
+| Cuba part — Capítulo 7 La biosfera: sus características | Cuba, *Cuba Grade 7 Geografía Física G7*, Capítulo 7 La biosfera: sus características — printed p. 201 |
 
-**Acceptance count: taught in 20 countries (Nauru, Tuvalu, Niue, Palestine, Angola, Dominican Republic, Malaysia, India, Fiji, Sudan, Venezuela, Kuwait, Iran, Yemen, Moldova, Honduras, Mozambique, Jordan, Iraq, Bhutan). Ethiopia and Myanmar are named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 21 countries (Nauru, Tuvalu, Niue, Palestine, Angola, Dominican Republic, Malaysia, India, Fiji, Sudan, Venezuela, Kuwait, Iran, Yemen, Moldova, Honduras, Mozambique, Jordan, Iraq, Bhutan, Cuba). Ethiopia and Myanmar are named here as teacher-guide evidence only, counted nowhere.**
 
 Niue's own way: Niue uses the shared Pacific ESD reader suite (Niue advisor Birtha Togahai) — land Geography is taught through Pacific farming itself: taro, pulaka and the coconut "tree of life", with Niue's own crops, exports and name-story ("behold the coconut") as anchor examples, and shifting cultivation/fallowing taught as sound science. That way is stocked here as the way Niue teaches this thing.
 
@@ -135,3 +147,9 @@ Iraq's own way (Iraq Grade 11 Physical Geography): a pure physical-geography cou
 Iraq's own way (Iraq Grade 11 Earth Science): the scientific track's earth-science course — atmosphere, earthquakes and volcanoes, weathering and soil, environment and pollution, and fossils and geological time — bilingual with English technical terms throughout, and Iraqi touches kept (the air masses over Iraq, the yellow dust storms, Iraq's Natural History Museum).
 
 Bhutan's own way (Bhutan Grade 6 Social Studies): Grade 6 turns to Bhutan's own climate zones, population and signature environment topics — hydropower, urbanisation and glacial lake outburst floods (GLOF) — a hazard set specific to a Himalayan kingdom.
+
+Cuba's own way (Cuba Grade 5 OM Geografía G5) (teacher guide — evidence): The teacher guide teaches the same four units as the programme/student book but adds Cuba-specific complementary materials no other country set carries: the Tarea Vida state climate-change plan as classroom content, project-based-learning orientation, and a long section on mastering the changing world political map through country cases (Congo, Belarus, the Yugoslav successor states). That evidence is stocked here as the way Cuba teaches this thing; it is cited as evidence only — Cuba is counted in this lesson through its student book(s).
+
+Cuba's own way (Cuba Grade 5 Geografía G5): The first Geography book a Cuban child meets opens with the history of geography itself (cuneiform maps, Hecataeus), builds all map skills before any content, and ends the planet tour with world population, the world political map and world heritage — with Cuba's own places (Llanura del Cauto, Trinidad) woven in as examples throughout.
+
+Cuba's own way (Cuba Grade 7 Geografía Física G7): Physical geography is taught sphere by sphere (lithosphere → atmosphere → hydrosphere → biosphere) but every sphere chapter closes on rational use and sustainability — wind energy, rational water use, soil protection — and Cuban evidence runs through it (Cuba's forest cover fell from ~95 % at the Spanish arrival to 16 % by 1959 and was recovered by policy).

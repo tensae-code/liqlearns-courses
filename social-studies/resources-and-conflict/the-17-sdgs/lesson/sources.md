@@ -1,6 +1,6 @@
 # Sources — The 17 SDGs
 
-countries: Ethiopia, Papua New Guinea, Moldova, Armenia
+countries: Ethiopia, Papua New Guinea, Moldova, Armenia, Cuba
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Papua New Guinea, Moldova, Armenia
 
 **Book 4:** *Աշխարհագրություն 12 — Հանրակրթական ավագ դպրոցի 12-րդ դասարանի դասագիրք (Geography 12, senior-school textbook)* (student book, Armenian) — «Զանգակ» (Zangak), Yerevan; year 2025; ISBN 978-9939-99-290-7. Authors: M. Manasyan, A. Hovsepyan, A. Potosyan. Title as printed: Աշխարհագրություն 12 — Հանրակրթական ավագ դպրոցի 12-րդ դասարանի դասագիրք (Geography 12, senior-school textbook). Grade: 12 (student/teacher: STUDENT). PDF pages: 132 (printed 128; cover/title page verified against the record title). Verdict: COMPLETE. Read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
 
+**Book 5:** *Geografía Regional, onceno grado* (student book, Spanish) — Editorial Pueblo y Educación / Ministerio de Educación, Cuba; year 2024; ISBN 978-959-13-4815-9 (print) / 978-959-13-4816-6 (digital). Title as printed: Geografía Regional, onceno grado. Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 442 (cover/title page verified against the record title; the grab.py tree route returned 404 twice for the recorded repo path, so the book was taken from the repo's own release asset — mid-size-books-7, grade-11-gov-cuba-geografia-student-full-year.pdf — byte-verified by grab.py at 89,851,088 bytes; full text read via pdftotext -layout; structure and printed pages from the book's Índice). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The goals, whole | G12 student #38, printed pp. 66–68 |
@@ -17,8 +19,9 @@ countries: Ethiopia, Papua New Guinea, Moldova, Armenia
 | Papua New Guinea part — Strand 5 Unit 4, Topic 4: Sustainable Development Goals 2030 (with Topic 3 of Unit 3, Sustainability) (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 9 Social Science TG* (teacher guide), Strand 5 Unit 4, Topic 4: Sustainable Development Goals 2030 (with Topic 3 of Unit 3, Sustainability) — printed p. 257 |
 | Moldova part — §29 The Republic of Moldova in the context of regional cooperation, globalisation and sustainable development [placement slug: global-issues/sustainable-development-goals] | Moldova, *Moldova Grade 9 Geography*, §29 The Republic of Moldova in the context of regional cooperation, globalisation and sustainable development — printed p. 122 |
 | Armenia part — §14 Millennium Development Goals and the sustainable-development agenda | Armenia, *Armenia Grade 12 Geography student*, §14 Millennium Development Goals and the sustainable-development agenda — printed p. 115 |
+| Cuba part — Capítulo 1 ep. 1.2 Importancia de la Geografía Regional para el desarrollo sostenible: la Agenda 2030 y la Tarea Vida | Cuba, *Cuba Grade 11 Geografía Regional G11*, Capítulo 1 ep. 1.2 Importancia de la Geografía Regional para el desarrollo sostenible: la Agenda 2030 y la Tarea Vida — printed p. 4 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Moldova, Armenia). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 4 countries (Ethiopia, Moldova, Armenia, Cuba). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 No book error in the placements for this lesson is taught here. The goal list is taught exactly as the placements print it.
 
@@ -29,3 +32,5 @@ Papua New Guinea's own way (Papua New Guinea Grade 9 Social Science TG) (teacher
 Moldova's own way (Moldova Grade 9 Geography): the human-geography year of one's own country, written as a citizen's handbook — it opens with the Constitution's own words on territory, weighs the advantages and disadvantages of the country's economic-geographic position (including EU candidate status, June 2022), and treats the wine industry as national patrimony with roots in the Cucuteni-Tripolie civilisation; every theme carries "current problems", case studies and debates about the pupils' own locality, and the two practical works study the home locality itself (its population; its tourist sights).
 
 Armenia's own way (Armenia Grade 12 Geography student): the final Geography year is thematic, not regional-by-continent: first "distinctive" region types (fast-growing, urbanised, mountain, arid-agrarian, integrating Western Europe), then humanity's global problems one by one, closing on sustainable development — with mountain-country development read through Armenia's own case.
+
+Cuba's own way (Cuba Grade 11 Geografía Regional G11): The capstone of Cuban school geography: five continents studied with one fixed plan (situation → physical character → socio-economic character → regions → political-map changes → countries-and-capitals → deep country monographs), then a full closing chapter on the Cuban archipelago longer than any continent chapter — the world tour exists to bring the learner home with the tools to characterise their own country.

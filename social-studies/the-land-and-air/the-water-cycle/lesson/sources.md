@@ -1,6 +1,6 @@
 # Sources — The Water Cycle
 
-countries: India, Cambodia, Vietnam, Pakistan, Moldova, Mozambique, Laos, Iraq
+countries: India, Cambodia, Vietnam, Pakistan, Moldova, Mozambique, Laos, Iraq, Cuba
 
 **Book 1:** *Our Environment — Textbook in Geography for Class VII (Social Science)* (student book, English) — India, NCERT, New Delhi; first edition March 2007, this copy reprint 2020-21; ISBN 81-7450-714-0. Title as printed: Our Environment — Textbook in Geography for Class VII (Social Science). Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 84 (cover render verified: "Our Environment, Textbook in Geography for Class VII, NCERT 2020-21"; grabbed via grab.py release route, 23,494,641 bytes; duplicate TSV + books.json records grade-07/gov/india/our-environment.pdf counted once). Verdict: COMPLETE — 9 chapters, printed pp. 1-71 + appendix p. 72. Records note: 34 records / 17 distinct books (17 TSV records in grades 6-10 + 17 books.json records that are the same books by grade/subject — duplicate records of the same NCERT titles); the 5 Geography books were read full page-by-page via pdftotext -layout after cover verification; the other 12 books are record-only (History, Civics, Economics) with no Geography content, filed for later waves. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/india-placements.md.
 
@@ -22,6 +22,8 @@ countries: India, Cambodia, Vietnam, Pakistan, Moldova, Mozambique, Laos, Iraq
 
 **Book 10:** *الجغرافية الطبيعية للصف الخامس الأدبي (Natural Geography for the Fifth Literary Grade) — the record's "Geography (Literary Track)" is the same book: same grade and track, verified by cover and contents* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; revised by a committee in the Ministry of Education; year 1445 AH / 2023 CE, revised 13th edition (الطبعة الثالثة عشرة / المنقحة); ISBN no ISBN printed on the title pages. Title as printed: الجغرافية الطبيعية للصف الخامس الأدبي (Natural Geography for the Fifth Literary Grade) — the record's "Geography (Literary Track)" is the same book: same grade and track, verified by cover and contents. Grade: 11 (fifth secondary, literary track) (student/teacher: STUDENT). PDF pages: 162 (cover/title page verified as above; read via the books.json record's own Google Drive source file — same book, cover and contents verified — after the GitHub route failed). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iraq-placements.md.
 
+**Book 11:** *Geografía Física, séptimo grado* (student book, Spanish) — Editorial Pueblo y Educación, Cuba; year 2023; ISBN 978-959-13-4069-6 (print) / 978-959-13-4330-7 (digital). Title as printed: Geografía Física, séptimo grado. Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 239 (cover/title page verified against the record title; grabbed via grab.py release-asset route, 39,829,077 bytes; the duplicate TSV↔books.json pair is the same book, read once; full text read via pdftotext -layout; structure and printed pages from the book's Índice). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Ch.5: the water cycle (hydrological cycle) | India, *India Grade 7 Our Environment*, Ch.5: the water cycle (hydrological cycle) — printed p. 30 |
@@ -35,8 +37,9 @@ countries: India, Cambodia, Vietnam, Pakistan, Moldova, Mozambique, Laos, Iraq
 | Laos part — Part I Lesson 6: The water cycle | Laos, *Laos Grade 10 laos-g10-geography-teacher*, Part I Lesson 6: The water cycle — printed p. 64 (teacher-guide evidence) |
 | Laos part — Part I Lesson 6: The water cycle | Laos, *Laos Grade 10 laos-g10-geography-student*, Part I Lesson 6: The water cycle — printed p. 53 |
 | Iraq part — Ch. 3 Hydrology (علم المياه): the water cycle in nature, and Earth's waters — only about 2% fresh [placement slug: the-land-and-air/the-water-cycle-and-earths-waters] | Iraq, *Iraq Grade 11 Physical Geography*, Ch. 3 Hydrology (علم المياه): the water cycle in nature, and Earth's waters — only about 2% fresh — printed p. 66 |
+| Cuba part — Capítulo 6 El ciclo hidrológico (placement slug: the-land-and-air/the-water-cycle — already standing, stocked here) | Cuba, *Cuba Grade 7 Geografía Física G7*, Capítulo 6 El ciclo hidrológico — printed p. 158 |
 
-**Acceptance count: taught in 8 countries (India, Cambodia, Vietnam, Pakistan, Moldova, Mozambique, Laos, Iraq).**
+**Acceptance count: taught in 9 countries (India, Cambodia, Vietnam, Pakistan, Moldova, Mozambique, Laos, Iraq, Cuba).**
 
 India's own way (Grade 7 Our Environment): Grade 7 is organised around "environment" in widening rings — the concept itself, then inside/changing Earth, air and water, world vegetation belts, human settlement and transport, and finally three lived-in region studies (Amazon basin, Ganga-Brahmaputra basin, Sahara and Ladakh deserts) where all the strands meet in real places.
 
@@ -59,3 +62,5 @@ Laos's own way (Laos Grade 10 laos-g10-geography-teacher): a second world-geogra
 Laos's own way (Laos Grade 10 laos-g10-geography-student): the student twin of Book 6 — same 6 parts / 20 lessons with full illustrated text, opening with a concept map of the whole year (Earth, life zones, population and quality of life, humans and environment, organisation of geographic space, rural and urban geography).
 
 Iraq's own way (Iraq Grade 11 Physical Geography): a pure physical-geography course in six chapters — landforms, weather and climate, water, the biosphere, soil, and the environment — with Iraqi anchors kept throughout (flood visits to Iraq's rivers, the hills of northern Iraq, groundwater and the desert caravans, soil salinity in the alluvial plain).
+
+Cuba's own way (Cuba Grade 7 Geografía Física G7): Physical geography is taught sphere by sphere (lithosphere → atmosphere → hydrosphere → biosphere) but every sphere chapter closes on rational use and sustainability — wind energy, rational water use, soil protection — and Cuban evidence runs through it (Cuba's forest cover fell from ~95 % at the Spanish arrival to 16 % by 1959 and was recovered by policy).

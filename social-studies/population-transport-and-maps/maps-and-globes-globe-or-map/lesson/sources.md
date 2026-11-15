@@ -1,6 +1,6 @@
 # Sources — Maps and globes — globe or map?
 
-countries: Ethiopia, Colombia, Honduras
+countries: Ethiopia, Colombia, Honduras, Cuba
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 2, placements 27–43).
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Colombia, Honduras
 
 **Book 6:** *Guía para Docentes del área de Ciencias Sociales — Séptimo grado de Educación Básica (cover: 'Ciencias Sociales — Séptimo grado — Guía para Docentes')* (teacher guide, Spanish) — Universidad Pedagógica Nacional Francisco Morazán (UPNFM), elaborated for the Secretaría de Estado en el Despacho de Educación de Honduras; preliminary edition (Edición Preliminar) 2020 as printed on the credits page; no ISBN printed. Title as printed: Guía para Docentes del área de Ciencias Sociales — Séptimo grado de Educación Básica (cover: 'Ciencias Sociales — Séptimo grado — Guía para Docentes'). Grade: Grade 7 (student/teacher: TEACHER). PDF pages: 166 (cover/title page verified against the record title; read from the recorded ministry source educatrachos.hn, 47,501,446 bytes, SHA-256 prefix 34265da9bd5e82c7). Verdict: COMPLETE. History/Civics parts NOT placed (named for later waves): Bloque 1 'La persona y su ser social' (printed pp. 7–42 in the guide); Bloque 3 'Las sociedades y el tiempo social' (History, printed pp. 83–122 in the guide); Bloque 4 lessons not placed above (Civics/social organisation, printed pp. 123 onwards in the guide). Duplicate resolved: a second recorded copy (Book 15 in the placements file, books.json full-year-alt.pdf, source educatrachos.hn GD-CCSS7-2020.pdf) is byte-identical to this book (47,501,446 bytes, same SHA-256 prefix 34265da9bd5e82c7, identical extracted text, cover and table of contents) — it is the same book, not a distinct edition, and is filed once, under this book. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/honduras-placements.md.
 
+**Book 7:** *Geografía, quinto grado* (student book, Spanish) — Editorial Pueblo y Educación / Ministerio de Educación, Cuba; year 2024; ISBN 978-959-13-4717-6 (print) / 978-959-13-4718-3 (digital). Title as printed: Geografía, quinto grado. Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 174 (cover/title page verified against the record title; grabbed via grab.py release-asset route, 7,092,429 bytes; the duplicate TSV↔books.json pair is the same book, read once; full text read via pdftotext -layout). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson | Ethiopia, *Social Studies Student Textbook, Grade 7* (Amhara Bureau), printed p. 47 |
@@ -22,8 +24,9 @@ countries: Ethiopia, Colombia, Honduras
 | Honduras part — Lección 10: La Tierra y sus representaciones — the Earth and its representations (globe and maps) (teacher guide — evidence) | Honduras, *Honduras Grade 3 Teacher Guide* (teacher guide), Lección 10: La Tierra y sus representaciones — the Earth and its representations (globe and maps) — printed p. 43 |
 | Honduras part — Lección 12: La Tierra y su representación — the Earth and its representation | Honduras, *Honduras Grade 7 Student Book*, Lección 12: La Tierra y su representación — the Earth and its representation — printed p. 76 |
 | Honduras part — Lección 12: La Tierra y su representación — the Earth and its representation (teacher guide — evidence) | Honduras, *Honduras Grade 7 Teacher Guide* (teacher guide), Lección 12: La Tierra y su representación — the Earth and its representation — printed p. 51 |
+| Cuba part — Capítulo 2 ep. 2.1 Las representaciones geográficas: la esfera y el mapa | Cuba, *Cuba Grade 5 Geografía G5*, Capítulo 2 ep. 2.1 Las representaciones geográficas: la esfera y el mapa — printed p. 14 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Colombia, Honduras).**
+**Acceptance count: taught in 4 countries (Ethiopia, Colombia, Honduras, Cuba).**
 
 Pairing warning (honesty): Book 2 is an Addis Ababa bureau guide in English; Book 1 is an Amhara bureau student book in Amharic. They are NOT edition-matched companions — the guide's unit order differs and whole student topics (maps, globes, GPS) have no guide counterpart, so no guide coverage is claimed for them. Guide material is used only as labelled teacher evidence.
 
@@ -38,3 +41,5 @@ Honduras's own way (Honduras Grade 3 Teacher Guide) (teacher guide — evidence)
 Honduras's own way (Honduras Grade 7 Student Book): widening-circles design — Honduras in depth at secondary level — geographic science and location first, then the country's mountains, hydrography, national population and economic sectors. Every lesson runs the same 'Sembrar y cosechar' activity cycle.
 
 Honduras's own way (Honduras Grade 7 Teacher Guide) (teacher guide — evidence): widening-circles design — Honduras in depth at secondary level — geographic science and location first, then the country's mountains, hydrography, national population and economic sectors — the teacher guide mirrors the student book lesson-for-lesson (same 38 lessons and blocks) and adds didactics, theory summaries and answer keys; its geography lessons are placed here at the guide's own printed pages. Every lesson runs the same 'Sembrar y cosechar' activity cycle. That evidence is stocked here as the way Honduras teaches this thing; it is cited as evidence only — Honduras is counted in this lesson through its student book(s).
+
+Cuba's own way (Cuba Grade 5 Geografía G5): The first Geography book a Cuban child meets opens with the history of geography itself (cuneiform maps, Hecataeus), builds all map skills before any content, and ends the planet tour with world population, the world political map and world heritage — with Cuba's own places (Llanura del Cauto, Trinidad) woven in as examples throughout.

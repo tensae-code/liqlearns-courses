@@ -1,6 +1,6 @@
 # Sources — Sorting the world's climates — three ways
 
-countries: Ethiopia, Ecuador, Colombia, Malaysia, Cambodia, Fiji, Slovenia, Papua New Guinea, Uganda, Syria, Sri Lanka, Mauritania, Afghanistan, Moldova, Nepal, Mozambique, Jordan, Laos, Iraq, Nicaragua, Bhutan, Armenia
+countries: Ethiopia, Ecuador, Colombia, Malaysia, Cambodia, Fiji, Slovenia, Papua New Guinea, Uganda, Syria, Sri Lanka, Mauritania, Afghanistan, Moldova, Nepal, Mozambique, Jordan, Laos, Iraq, Nicaragua, Bhutan, Armenia, Cuba
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -72,6 +72,10 @@ countries: Ethiopia, Ecuador, Colombia, Malaysia, Cambodia, Fiji, Slovenia, Papu
 
 **Book 35:** *Աշխարհագրություն — Դասագիրք 7-րդ դասարանի համար (Geography, textbook for grade 7)* (student book, Armenian) — «Աստղիկ Գրատուն» (Astghik Gratun), Yerevan; year 2023; ISBN 978-9939-74-142-0. Authors: T. Vardanyan, A. Potosyan, V. Asatryan, L. Hakobyan. Title as printed: Աշխարհագրություն — Դասագիրք 7-րդ դասարանի համար (Geography, textbook for grade 7). Grade: 7 (student/teacher: STUDENT). PDF pages: 176 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). The book's legacy-font text layer was decoded with the standard Armenian font-encoding table and verified against its printed contents page. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
 
+**Book 36:** *Orientaciones metodológicas — Geografía, quinto grado* (teacher guide, Spanish) — Editorial Pueblo y Educación / Ministerio de Educación, Cuba; year 2024; ISBN 978-959-13-4693-3 (print) / 978-959-13-4694-0 (digital). Title as printed: Orientaciones metodológicas — Geografía, quinto grado. Grade: Grade 5 (student/teacher: TEACHER). PDF pages: 150 (cover/title page verified against the record title; grabbed via grab.py tree route, 816,401 bytes). Verdict: COMPLETE. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
+
+**Book 37:** *Geografía, quinto grado* (student book, Spanish) — Editorial Pueblo y Educación / Ministerio de Educación, Cuba; year 2024; ISBN 978-959-13-4717-6 (print) / 978-959-13-4718-3 (digital). Title as printed: Geografía, quinto grado. Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 174 (cover/title page verified against the record title; grabbed via grab.py release-asset route, 7,092,429 bytes; the duplicate TSV↔books.json pair is the same book, read once; full text read via pdftotext -layout). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Why classify at all | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 2, printed pp. 28–29 |
@@ -111,8 +115,10 @@ countries: Ethiopia, Ecuador, Colombia, Malaysia, Cambodia, Fiji, Slovenia, Papu
 | Nicaragua part — Clima de los continentes | Nicaragua, *Nicaragua Grade 9 CCSS Geografía Módulo G9*, Clima de los continentes — printed p. 85 |
 | Bhutan part — Ch.8 8.2 Classification of the climatic zones | Bhutan, *Bhutan Grade 11 Geography*, Ch.8 8.2 Classification of the climatic zones — printed p. 101 |
 | Armenia part — Lesson 3.6 Main climate types: climate diagrams (climographs) | Armenia, *Armenia Grade 7 Geography student*, Lesson 3.6 Main climate types: climate diagrams (climographs) — printed p. 70 |
+| Cuba part — Unidad 4 ep. 4.10 Las zonas climáticas: influencia del hombre en el clima y medidas para su protección (teacher guide — evidence) | Cuba, *Cuba Grade 5 OM Geografía G5* (teacher guide), Unidad 4 ep. 4.10 Las zonas climáticas: influencia del hombre en el clima y medidas para su protección — printed p. 73 |
+| Cuba part — Capítulo 4 ep. 4.9 Las zonas climáticas: influencia del hombre en el clima y medidas para su protección | Cuba, *Cuba Grade 5 Geografía G5*, Capítulo 4 ep. 4.9 Las zonas climáticas: influencia del hombre en el clima y medidas para su protección — printed p. 121 |
 
-**Acceptance count: taught in 21 countries (Ethiopia, Ecuador, Colombia, Malaysia, Cambodia, Fiji, Slovenia, Uganda, Syria, Sri Lanka, Mauritania, Afghanistan, Moldova, Nepal, Mozambique, Jordan, Laos, Iraq, Nicaragua, Bhutan, Armenia). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 22 countries (Ethiopia, Ecuador, Colombia, Malaysia, Cambodia, Fiji, Slovenia, Uganda, Syria, Sri Lanka, Mauritania, Afghanistan, Moldova, Nepal, Mozambique, Jordan, Laos, Iraq, Nicaragua, Bhutan, Armenia, Cuba). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 No book error is flagged for this lesson's pages in the placements. The student book's body numbering for Unit Two drifts from its own contents (regions printed as 2.4, factors as 2.5, local classification as 2.6, where the contents and the teacher guide's contents agree on 2.3, 2.4 and 2.5); this lesson follows the contents numbering and teaches no misprint.
 
@@ -183,3 +189,7 @@ Nicaragua's own way (Nicaragua Grade 9 CCSS Geografía Módulo G9): A pure-Geogr
 Bhutan's own way (Bhutan Grade 11 Geography): The Advanced level (XI–XII) is full academic geography — map projections, remote sensing and GIS, insolation and pressure belts, climate classification — with Bhutan applied chapters on agriculture, manufacturing and tourism, the last taught on Bhutan's own sustainability principle ("high value, low volume" in the Bhutan Tourism Monitor data the book uses).
 
 Armenia's own way (Armenia Grade 7 Geography student): opens school geography with the geographic map itself (plan, scale, azimuth, projections) before any Earth science, and runs every theme to a summary lesson plus practical work; world economy is taught branch by branch with Armenia (ՀՀ) used as the worked example in the closing questions.
+
+Cuba's own way (Cuba Grade 5 OM Geografía G5) (teacher guide — evidence): The teacher guide teaches the same four units as the programme/student book but adds Cuba-specific complementary materials no other country set carries: the Tarea Vida state climate-change plan as classroom content, project-based-learning orientation, and a long section on mastering the changing world political map through country cases (Congo, Belarus, the Yugoslav successor states). That evidence is stocked here as the way Cuba teaches this thing; it is cited as evidence only — Cuba is counted in this lesson through its student book(s).
+
+Cuba's own way (Cuba Grade 5 Geografía G5): The first Geography book a Cuban child meets opens with the history of geography itself (cuneiform maps, Hecataeus), builds all map skills before any content, and ends the planet tour with world population, the world political map and world heritage — with Cuba's own places (Llanura del Cauto, Trinidad) woven in as examples throughout.

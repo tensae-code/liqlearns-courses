@@ -1,6 +1,6 @@
 # Sources — Measuring temperature and rainfall
 
-countries: Ethiopia, Turkey, Dominican Republic, Colombia, Eritrea, India, Cambodia, Rwanda, Slovenia, Vietnam, Papua New Guinea, Uganda, Sri Lanka, Mauritania, Pakistan, Libya, Moldova, Mozambique, Iraq, Bhutan, Armenia
+countries: Ethiopia, Turkey, Dominican Republic, Colombia, Eritrea, India, Cambodia, Rwanda, Slovenia, Vietnam, Papua New Guinea, Uganda, Sri Lanka, Mauritania, Pakistan, Libya, Moldova, Mozambique, Iraq, Bhutan, Armenia, Cuba
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -68,6 +68,8 @@ countries: Ethiopia, Turkey, Dominican Republic, Colombia, Eritrea, India, Cambo
 
 **Book 33:** *Աշխարհագրություն — Դասագիրք 7-րդ դասարանի համար (Geography, textbook for grade 7)* (student book, Armenian) — «Աստղիկ Գրատուն» (Astghik Gratun), Yerevan; year 2023; ISBN 978-9939-74-142-0. Authors: T. Vardanyan, A. Potosyan, V. Asatryan, L. Hakobyan. Title as printed: Աշխարհագրություն — Դասագիրք 7-րդ դասարանի համար (Geography, textbook for grade 7). Grade: 7 (student/teacher: STUDENT). PDF pages: 176 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). The book's legacy-font text layer was decoded with the standard Armenian font-encoding table and verified against its printed contents page. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
 
+**Book 34:** *Geografía Física, séptimo grado* (student book, Spanish) — Editorial Pueblo y Educación, Cuba; year 2023; ISBN 978-959-13-4069-6 (print) / 978-959-13-4330-7 (digital). Title as printed: Geografía Física, séptimo grado. Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 239 (cover/title page verified against the record title; grabbed via grab.py release-asset route, 39,829,077 bytes; the duplicate TSV↔books.json pair is the same book, read once; full text read via pdftotext -layout; structure and printed pages from the book's Índice). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Thermometers | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 2, printed pp. 53–55 |
@@ -109,8 +111,9 @@ countries: Ethiopia, Turkey, Dominican Republic, Colombia, Eritrea, India, Cambo
 | Bhutan part — Ch.6 6.4 Weather instruments | Bhutan, *Bhutan Grade 9 Geography*, Ch.6 6.4 Weather instruments — printed p. 52 |
 | Bhutan part — Ch.6 6.2 Temperature (measurement) | Bhutan, *Bhutan Grade 12 Geography*, Ch.6 6.2 Temperature (measurement) — printed p. 56 |
 | Armenia part — Lesson 3.1 Measuring air temperature and its course; uneven distribution of heat on Earth | Armenia, *Armenia Grade 7 Geography student*, Lesson 3.1 Measuring air temperature and its course; uneven distribution of heat on Earth — printed p. 51 |
+| Cuba part — Capítulo 5 La humedad absoluta y relativa; fenómenos de condensación (nubosidad, niebla, rocío) y las precipitaciones | Cuba, *Cuba Grade 7 Geografía Física G7*, Capítulo 5 La humedad absoluta y relativa; fenómenos de condensación (nubosidad, niebla, rocío) y las precipitaciones — printed p. 134 |
 
-**Acceptance count: taught in 20 countries (Ethiopia, Turkey, Dominican Republic, Colombia, Eritrea, India, Cambodia, Rwanda, Slovenia, Vietnam, Uganda, Sri Lanka, Mauritania, Pakistan, Libya, Moldova, Mozambique, Iraq, Bhutan, Armenia). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 21 countries (Ethiopia, Turkey, Dominican Republic, Colombia, Eritrea, India, Cambodia, Rwanda, Slovenia, Vietnam, Uganda, Sri Lanka, Mauritania, Pakistan, Libya, Moldova, Mozambique, Iraq, Bhutan, Armenia, Cuba). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
@@ -175,3 +178,5 @@ Bhutan's own way (Bhutan Grade 9 Geography): The Intermediate level (IX–X) tre
 Bhutan's own way (Bhutan Grade 12 Geography): Class XII closes the Advanced course with specialist topics (surveying, geospatial technologies, glaciers and the "Third Pole", Köppen in full, fluvial processes, Davis's cycle of erosion) and Bhutan data chapters — fertility and mortality trends in Bhutan, migration trends, hydropower in Bhutan, and creative industries including Bhutanese film.
 
 Armenia's own way (Armenia Grade 7 Geography student): opens school geography with the geographic map itself (plan, scale, azimuth, projections) before any Earth science, and runs every theme to a summary lesson plus practical work; world economy is taught branch by branch with Armenia (ՀՀ) used as the worked example in the closing questions.
+
+Cuba's own way (Cuba Grade 7 Geografía Física G7): Physical geography is taught sphere by sphere (lithosphere → atmosphere → hydrosphere → biosphere) but every sphere chapter closes on rational use and sustainability — wind energy, rational water use, soil protection — and Cuban evidence runs through it (Cuba's forest cover fell from ~95 % at the Spanish arrival to 16 % by 1959 and was recovered by policy).

@@ -1,6 +1,6 @@
 # Sources — Water Bodies — Lakes
 
-countries: Ethiopia, Belarus, Guatemala, Eritrea, India, Rwanda, Slovenia, Uganda, Afghanistan, Iran, Mozambique, Iraq, Nicaragua
+countries: Ethiopia, Belarus, Guatemala, Eritrea, India, Rwanda, Slovenia, Uganda, Afghanistan, Iran, Mozambique, Iraq, Nicaragua, Cuba
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -44,6 +44,8 @@ countries: Ethiopia, Belarus, Guatemala, Eritrea, India, Rwanda, Slovenia, Ugand
 
 **Book 21:** *Estudios Sociales 4 — Libro de Texto (Dirección General de Educación Primaria)* (student book, Spanish) — Ministerio de Educación (MINED), Nicaragua; year 2016 (Edición 2016); ISBN no ISBN printed. Title as printed: Estudios Sociales 4 — Libro de Texto (Dirección General de Educación Primaria). Grade: Grade 4 (student/teacher: STUDENT). PDF pages: 238 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nicaragua-placements.md.
 
+**Book 22:** *Orientaciones metodológicas — Geografía, quinto grado* (teacher guide, Spanish) — Editorial Pueblo y Educación / Ministerio de Educación, Cuba; year 2024; ISBN 978-959-13-4693-3 (print) / 978-959-13-4694-0 (digital). Title as printed: Orientaciones metodológicas — Geografía, quinto grado. Grade: Grade 5 (student/teacher: TEACHER). PDF pages: 150 (cover/title page verified against the record title; grabbed via grab.py tree route, 816,401 bytes). Verdict: COMPLETE. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Land on every side | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 7–8 |
@@ -70,8 +72,9 @@ countries: Ethiopia, Belarus, Guatemala, Eritrea, India, Rwanda, Slovenia, Ugand
 | Mozambique part — Lição 9: Lagos (tectonic vs glacial origin; emission vs transmission lakes — Lake Constance crossed by the Rhine) | Mozambique, *Mozambique Grade 10 PESD II Mod 4*, Lição 9: Lagos (tectonic vs glacial origin; emission vs transmission lakes — Lake Constance crossed by the Rhine) — printed p. 55 |
 | Iraq part — Ch. 3: Lakes (البحيرات), including volcanic lakes in craters | Iraq, *Iraq Grade 11 Physical Geography*, Ch. 3: Lakes (البحيرات), including volcanic lakes in craters — printed p. 72 |
 | Nicaragua part — Hidrografía de Nicaragua: lagos, lagunas y ríos | Nicaragua, *Nicaragua Grade 4 Estudios Sociales G4*, Hidrografía de Nicaragua: lagos, lagunas y ríos — printed p. 47 |
+| Cuba part — Unidad 4 ep. 4.14 Localización en el mapa de contorno de ríos, lagos y pantanos (teacher guide — evidence) | Cuba, *Cuba Grade 5 OM Geografía G5* (teacher guide), Unidad 4 ep. 4.14 Localización en el mapa de contorno de ríos, lagos y pantanos — printed p. 74 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Belarus, Guatemala, Eritrea, India, Slovenia, Uganda, Afghanistan, Iran, Mozambique, Iraq, Nicaragua). Rwanda is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 12 countries (Ethiopia, Belarus, Guatemala, Eritrea, India, Slovenia, Uganda, Afghanistan, Iran, Mozambique, Iraq, Nicaragua). Rwanda is named here as teacher-guide evidence only, counted nowhere. Cuba is named here as teacher-guide evidence only, counted nowhere.**
 
 Pairing warning: the Grade 8 teacher guide is an Addis Ababa bureau book and the student book is an Amhara bureau book; they are NOT edition-matched, and the guide in hand is truncated (printed pp. 1–47 only, Units 1–3). Pupil content in this lesson comes from the Amhara student book; anything from the guide is labelled (teacher guide — evidence) and never presented as pupil-taught.
 
@@ -114,3 +117,5 @@ Mozambique's own way (Mozambique Grade 10 PESD II Mod 4): two half-courses bound
 Iraq's own way (Iraq Grade 11 Physical Geography): a pure physical-geography course in six chapters — landforms, weather and climate, water, the biosphere, soil, and the environment — with Iraqi anchors kept throughout (flood visits to Iraq's rivers, the hills of northern Iraq, groundwater and the desert caravans, soil salinity in the alluvial plain).
 
 Nicaragua's own way (Nicaragua Grade 4 Estudios Sociales G4): Units I–V are a full national Geography of Nicaragua — coordinates, time zones and seasons first, then the country's position, borders, political division and hydrography, and a closing landscape unit on climate, natural resources, relief by region, earthquakes and hurricanes; the second half of the book is national History. Non-Geography parts named, not placed: Unit VI first settlers' history and culture (printed pp. 120–137, History, except the geography-influence topic placed below); Unit VII European presence and colonisation (printed pp. 140–164, History); Unit VIII Independence and the National War (printed pp. 168–183, History); Unit IX Nicaragua 1857–1909 (printed pp. 186–197, History); Unit X Nicaragua in the 20th century (printed pp. 200–221, History).
+
+Cuba's own way (Cuba Grade 5 OM Geografía G5) (teacher guide — evidence): The teacher guide teaches the same four units as the programme/student book but adds Cuba-specific complementary materials no other country set carries: the Tarea Vida state climate-change plan as classroom content, project-based-learning orientation, and a long section on mastering the changing world political map through country cases (Congo, Belarus, the Yugoslav successor states). That evidence is stocked here as the way Cuba teaches this thing; it does not change the acceptance count above.

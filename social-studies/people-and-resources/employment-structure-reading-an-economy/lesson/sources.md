@@ -1,6 +1,6 @@
 # Sources — Employment structure — reading an economy
 
-countries: Ethiopia, Mongolia, Cambodia, Venezuela, Moldova, Mozambique, Armenia
+countries: Ethiopia, Mongolia, Cambodia, Venezuela, Moldova, Mozambique, Armenia, Cuba
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). Editors: Sintayehu Teka (MSc) (Content Editor), Kassie Molla (MA) (Language Editor), Hirut Woldemichael (MA) (Curriculum Editor). Illustrator: Agenchw Nega (MSc). Designer: Geda Hoka (MA). Evaluators: Dereje Guteta (PhD), Tesfaye Shiferaw (PhD), Abebe Yibeltie (MA), Hussein Seid (MA). First published 2023 under GEQIP-E. ISBN 978-99990-0-049-9. Printed by Gravity Group IND LLC, 13th Industrial Area, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. Printed page = PDF page − 6 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Mongolia, Cambodia, Venezuela, Moldova, Mozambique, Armenia
 
 **Book 8:** *Աշխարհագրություն 11 — Հանրակրթական ավագ դպրոցի 11-րդ դասարանի դասագիրք (Geography 11, senior-school textbook)* (student book, Armenian) — «Զանգակ» (Zangak), Yerevan; year 2025; ISBN 978-9939-99-284-6. Authors: A. Hovsepyan, M. Manasyan, A. Potosyan, V. Asatryan. Title as printed: Աշխարհագրություն 11 — Հանրակրթական ավագ դպրոցի 11-րդ դասարանի դասագիրք (Geography 11, senior-school textbook). Grade: 11 (student/teacher: STUDENT). PDF pages: 192 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
 
+**Book 9:** *Orientaciones metodológicas — Geografía Económica y Social, octavo grado* (teacher guide, Spanish) — Editorial Pueblo y Educación / Ministerio de Educación, Cuba; year 2024; ISBN 978-959-13-4748-0 (print) / 978-959-13-4749-7 (digital). Title as printed: Orientaciones metodológicas — Geografía Económica y Social, octavo grado. Grade: Grade 8 (student/teacher: TEACHER). PDF pages: 84 (cover/title page verified against the record title; grabbed via grab.py tree route, 4,317,183 bytes; full text read via pdftotext -layout). Verdict: COMPLETE. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Primary, secondary, tertiary | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 5, printed pp. 121–123 |
@@ -31,8 +33,9 @@ countries: Ethiopia, Mongolia, Cambodia, Venezuela, Moldova, Mozambique, Armenia
 | Moldova part — 18. Socioeconomic structure of population; human resources | Moldova, *Moldova Grade 11 G11 Geography*, 18. Socioeconomic structure of population; human resources — printed p. 46 |
 | Mozambique part — Lição 10: Estrutura Profissional e Sectorial da População (population by activity sectors; USA advanced-technology shift) | Mozambique, *Mozambique Grade 10 PESD II Mod 5*, Lição 10: Estrutura Profissional e Sectorial da População (population by activity sectors; USA advanced-technology shift) — printed p. 71 |
 | Armenia part — §2 Reading an economy by its employment/output structure | Armenia, *Armenia Grade 11 Geography student*, §2 Reading an economy by its employment/output structure — printed p. 10 |
+| Cuba part — Unidad 5 El Producto Interno Bruto y el PIB per cápita para comparar la producción de los países (teacher guide — evidence) | Cuba, *Cuba Grade 8 OM Geografía Económica y Social G8* (teacher guide), Unidad 5 El Producto Interno Bruto y el PIB per cápita para comparar la producción de los países — printed p. 67 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Mongolia, Cambodia, Venezuela, Moldova, Mozambique, Armenia).**
+**Acceptance count: taught in 7 countries (Ethiopia, Mongolia, Cambodia, Venezuela, Moldova, Mozambique, Armenia). Cuba is named here as teacher-guide evidence only, counted nowhere.**
 
 Mongolia's own way (Grade 8): the Grade 8 year is the LOCAL year — every chapter is re-anchored to the child's own орон нутаг (local area/homeland): its environment and problems, its heritage, its economy and market, its governance. The book's Law/Civics parts (Chapters IV–V, printed pp. 63–94) are named in the placements, not placed. That way is stocked here as the way Mongolia teaches this thing.
 
@@ -49,3 +52,5 @@ Moldova's own way (Moldova Grade 11 G11 Geography): a human geography of the wor
 Mozambique's own way (Mozambique Grade 10 PESD II Mod 5): population geography taught as a developed-world/developing-world contrast throughout — distribution factors, growth, Malthus and the transition, then the two evolutions (developed countries; the "Terceiro Mundo" set) with their opposite population policies, closing on structures, demographic problems (incl. HIV cutting life expectancy below 50) and population–economy/environment relations.
 
 Armenia's own way (Armenia Grade 11 Geography student): the senior Geography course is two big themes only — the world economy in depth (structure, division of labour, every branch, transport systems, trade) and then the environment (ecological balance, pollution of air and water, land degradation, biodiversity, ecosystem services), i.e. economy first, its ecological bill second.
+
+Cuba's own way (Cuba Grade 8 OM Geografía Económica y Social G8) (teacher guide — evidence): The guide's distinctive Cuban layer is territorial identity — learners characterise their own municipality's resources and the environmental problems of its economic sectors, and the world material (political map, population, resources, production) is always closed by comparison with Cuba. That evidence is stocked here as the way Cuba teaches this thing; it does not change the acceptance count above.

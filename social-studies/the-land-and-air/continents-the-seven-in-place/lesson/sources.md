@@ -1,6 +1,6 @@
 # Sources — Continents — The Seven in Place
 
-countries: Ethiopia, Ecuador, Dominican Republic, Eritrea, India, North Macedonia, Slovenia, Sudan, Venezuela, Mauritania, Yemen, Pakistan, Honduras, Nicaragua
+countries: Ethiopia, Ecuador, Dominican Republic, Eritrea, India, North Macedonia, Slovenia, Sudan, Venezuela, Mauritania, Yemen, Pakistan, Honduras, Nicaragua, Cuba
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -54,6 +54,8 @@ countries: Ethiopia, Ecuador, Dominican Republic, Eritrea, India, North Macedoni
 
 **Book 26:** *Módulo Autoformativo de Ciencias Sociales — Geografía, 9no Grado (Educación Secundaria a Distancia en el Campo)* (student book, Spanish) — Ministerio de Educación (MINED), Nicaragua, PROSEN; year 2017; ISBN no ISBN printed. Title as printed: Módulo Autoformativo de Ciencias Sociales — Geografía, 9no Grado (Educación Secundaria a Distancia en el Campo). Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 300 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nicaragua-placements.md.
 
+**Book 27:** *Orientaciones metodológicas — Geografía, quinto grado* (teacher guide, Spanish) — Editorial Pueblo y Educación / Ministerio de Educación, Cuba; year 2024; ISBN 978-959-13-4693-3 (print) / 978-959-13-4694-0 (digital). Title as printed: Orientaciones metodológicas — Geografía, quinto grado. Grade: Grade 5 (student/teacher: TEACHER). PDF pages: 150 (cover/title page verified against the record title; grabbed via grab.py tree route, 816,401 bytes). Verdict: COMPLETE. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Asia — the largest | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 3–4 |
@@ -81,6 +83,7 @@ countries: Ethiopia, Ecuador, Dominican Republic, Eritrea, India, North Macedoni
 | Nicaragua part — Posición geográfica y astronómica de América | Nicaragua, *Nicaragua Grade 8 CCSS Módulo Autoformativo G8*, Posición geográfica y astronómica de América — printed p. 23 |
 | Nicaragua part — Posición geográfica-astronómica de los continentes (Asia, Europa, África, Oceanía) | Nicaragua, *Nicaragua Grade 9 Estudios Sociales G9 full-year*, Posición geográfica-astronómica de los continentes (Asia, Europa, África, Oceanía) — printed p. 6 |
 | Nicaragua part — Posición geográfica y astronómica de los continentes | Nicaragua, *Nicaragua Grade 9 CCSS Geografía Módulo G9*, Posición geográfica y astronómica de los continentes — printed p. 10 |
+| Cuba part — Unidad 4 ep. 4.6 Localización en el mapa de contorno de masas continentales, montañas, alturas y llanuras (teacher guide — evidence) | Cuba, *Cuba Grade 5 OM Geografía G5* (teacher guide), Unidad 4 ep. 4.6 Localización en el mapa de contorno de masas continentales, montañas, alturas y llanuras — printed p. 73 |
 
 | Sub lesson 4 — Africa and Antarctica — Grade 11 portraits (Grade 11 depth) | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 1, printed pp. 17–18 |
 | Sub lesson 5 — Asia, Europe and Australia — Grade 11 portraits (Grade 11 depth) | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 1, printed pp. 17–18 |
@@ -90,7 +93,7 @@ countries: Ethiopia, Ecuador, Dominican Republic, Eritrea, India, North Macedoni
 | Dominican Republic part (Grade 6) — The continents of the Earth: how they formed (Unidad 2) | Dominican Republic, *Ciencias Sociales, Sexto Grado, Primaria (Libro Abierto)*, Grade 6, The continents of the Earth: how they formed (Unidad 2) — printed p. 29 |
 | Dominican Republic part (Grade 3) — I know the continents: I live on a continent | Dominican Republic, *Ciencias Sociales, Tercer Grado, Primaria (Libro Abierto)*, Grade 3, I know the continents: I live on a continent — printed p. 18 |
 
-**Acceptance count: taught in 14 countries (Ethiopia, Ecuador, Dominican Republic, Eritrea, India, North Macedonia, Slovenia, Sudan, Venezuela, Mauritania, Yemen, Pakistan, Honduras, Nicaragua).**
+**Acceptance count: taught in 14 countries (Ethiopia, Ecuador, Dominican Republic, Eritrea, India, North Macedonia, Slovenia, Sudan, Venezuela, Mauritania, Yemen, Pakistan, Honduras, Nicaragua). Cuba is named here as teacher-guide evidence only, counted nowhere.**
 
 Pairing warning: the Grade 8 teacher guide is an Addis Ababa bureau book and the student book is an Amhara bureau book; they are NOT edition-matched, and the guide in hand is truncated (printed pp. 1–47 only, Units 1–3). Pupil content in this lesson comes from the Amhara student book; anything from the guide is labelled (teacher guide — evidence) and never presented as pupil-taught.
 
@@ -141,3 +144,5 @@ Nicaragua's own way (Nicaragua Grade 8 CCSS Módulo Autoformativo G8): The dista
 Nicaragua's own way (Nicaragua Grade 9 Estudios Sociales G9 full-year): The classroom parallel of the Grade 9 Geography module (Book 12): five world-Geography units working continent by continent (Asia, Europe, Africa and Oceania in turn for position, relief, climate, hydrography, population and economies), closing on risk prevention with disaster impact in Nicaragua and the world; the second half is world History from human evolution to the modern age. Non-Geography parts named, not placed: Unit VI evolution of human beings (printed pp. 137–144, History); Unit VII first agricultural civilisations (printed pp. 147–164, History, except the geographical-setting topics placed below); Unit VIII classical civilisations (printed pp. 165–189, History, except the topic placed below); Unit IX the medieval world (printed pp. 191–205, History); Unit X age of great changes (printed pp. 209–223, History, except the geographical discoveries placed below).
 
 Nicaragua's own way (Nicaragua Grade 9 CCSS Geografía Módulo G9): A pure-Geography self-study module (no History/Civics in this book): the Grade 9 world-Geography course taught continent by continent — position and political organisation, physical landscape, human diversity, production and consumption, and a closing planet-care unit on prevention and mitigation — with Nicaragua used as the home reference point throughout.
+
+Cuba's own way (Cuba Grade 5 OM Geografía G5) (teacher guide — evidence): The teacher guide teaches the same four units as the programme/student book but adds Cuba-specific complementary materials no other country set carries: the Tarea Vida state climate-change plan as classroom content, project-based-learning orientation, and a long section on mastering the changing world political map through country cases (Congo, Belarus, the Yugoslav successor states). That evidence is stocked here as the way Cuba teaches this thing; it does not change the acceptance count above.

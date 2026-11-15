@@ -1,0 +1,27 @@
+# Sources — Cuba's Oriental Region
+
+countries: Cuba
+
+**Book 1:** *Geografía de Cuba, sexto grado* (student book, Spanish) — Editorial Pueblo y Educación, Cuba; segunda edición corregida y aumentada 2002, oncena reimpresión 2019; ISBN 978-959-13-0835-1. Title as printed: Geografía de Cuba, sexto grado. Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 127 (image-only scan — no text layer; fetched via a resumable Contents-API raw download after grab.py's blob route cut twice, 21,973,328 bytes, git blob SHA-1 verified; read in full from 100-DPI 4-up contact sheets, all 127 pages; cover/title page verified against the record title; printed pagination runs to p. 119 + Vocabulario). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
+
+**Book 2:** *Cuaderno de actividades — Geografía de Cuba, sexto grado* (workbook, Spanish) — Editorial Pueblo y Educación, Cuba; tercera edición 2011; ISBN 978-959-13-2296-8. Title as printed: Cuaderno de actividades — Geografía de Cuba, sexto grado. Grade: Grade 6 (student/teacher: STUDENT workbook). PDF pages: 41 (cover verified against the record title; grabbed via grab.py url route, 2,267,874 bytes; full text read via pdftotext -layout; printed pagination runs to p. 34 + outline maps). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
+
+**Book 3:** *Geografía de Cuba, noveno grado* (student book, 2025 edition, Spanish) — Editorial Pueblo y Educación, Cuba; year 2025 (Tercer Perfeccionamiento del Sistema Nacional de Educación); ISBN 978-959-13-4930-9 (print) / 978-959-13-5003-9 (digital). Title as printed: Geografía de Cuba, noveno grado. Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 298 (cover verified against the record title; grabbed via grab.py release-asset route from the Biblioteca record's release, 62,728,642 bytes; full text read via pdftotext -layout; structure and printed pages from the book's Índice). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — Capítulo 4 Región Oriental: principales características físico-económico-geográficas e histórico-sociales | Cuba, *Cuba Grade 6 Geografía de Cuba G6*, Capítulo 4 Región Oriental: principales características físico-económico-geográficas e histórico-sociales — printed p. 103 |
+| Sub lesson 1 — Capítulo 4 Paisajes notables de la región Oriental: las Montañas de la Sierra Maestra y la repoblación forestal | Cuba, *Cuba Grade 6 Geografía de Cuba G6*, Capítulo 4 Paisajes notables de la región Oriental: las Montañas de la Sierra Maestra y la repoblación forestal — printed p. 112 |
+| Sub lesson 1 — Unidad 4 Región Oriental: paisajes de la región, bahías de Nipe, Guantánamo y Santiago, zonas más lluviosa y más seca, ríos Toa y Contramaestre y yacimientos de níquel, hierro y manganeso | Cuba, *Cuba Grade 6 Cuaderno de actividades G6*, Unidad 4 Región Oriental: paisajes de la región, bahías de Nipe, Guantánamo y Santiago, zonas más lluviosa y más seca, ríos Toa y Contramaestre y yacimientos de níquel, hierro y manganeso — printed p. 24 |
+| Sub lesson 1 — Capítulo 6.1.3 Región oriental de Cuba | Cuba, *Cuba Grade 9 Geografía de Cuba G9 (2025)*, Capítulo 6.1.3 Región oriental de Cuba — printed p. 271 |
+| Sub lesson 2 — Cuba's way — the book's own teaching way | Cuba — the book's own way of teaching (see below) |
+
+**Acceptance count: taught in 1 country (Cuba).**
+
+Cuba's own way (Cuba Grade 6 Geografía de Cuba G6): The child's first geography book is the home country itself — one chapter of tools (coordinates, orientation, scale), then Cuba whole (situation, relief, coasts, climate, population, economy), then its two great regions landscape by landscape; the political-administrative division taught is the pre-2011 one (Ciudad de La Habana appears as a province), and History episodes woven into the regional chapters (the Santa Clara battle, the Granma landing) are named here but not placed — they belong to the History course.
+
+Cuba's own way (Cuba Grade 6 Cuaderno de actividades G6): The workbook is the practice twin of the G6 student book and the Atlas Escolar — nearly every activity is done ON a map (tracing coordinates, shading the insular shelf, locating features on outline maps) — and it is where the programme's fifth unit, "El paisaje de la localidad", actually lives: the student book has no locality chapter, but the workbook closes with sketching, describing and defending the child's own locality. Section 2 is pure tools: outline maps of the world and of Cuba plus graph paper.
+
+Cuba's own way (Cuba Grade 9 Geografía de Cuba G9 (2025)): The 2025 rewrite keeps the home-country arc but rebuilds it for the Tercer Perfeccionamiento: Chapter 2 now profiles every province inside the political-administrative division itself, the climate chapter adds the Tarea Vida state plan by name, the economy chapter is organised by primary/secondary/tertiary sectors with self-employment (trabajo por cuenta propia) and the Mariel development zone, and the social chapter faces an ageing, shrinking population (life expectancy 73.7 years, a "Vivir 120" programme) and closes with Cuba's Human Development Index. It is a different book from the 2012 edition (Book 15), not a parallel copy, and is placed separately.
+
+Searchable tags: cubas oriental region, Cuba, social studies, the-land-and-air

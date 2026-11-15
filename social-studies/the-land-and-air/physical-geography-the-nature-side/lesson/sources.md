@@ -1,6 +1,6 @@
 # Sources — Physical geography — the nature side
 
-countries: Ethiopia, Turkey, Dominican Republic, Slovenia, Uganda, Mauritania, Iran, Mozambique, Iraq
+countries: Ethiopia, Turkey, Dominican Republic, Slovenia, Uganda, Mauritania, Iran, Mozambique, Iraq, Cuba
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -24,6 +24,8 @@ countries: Ethiopia, Turkey, Dominican Republic, Slovenia, Uganda, Mauritania, I
 
 **Book 11:** *الجغرافية الطبيعية للصف الخامس الأدبي (Natural Geography for the Fifth Literary Grade) — the record's "Geography (Literary Track)" is the same book: same grade and track, verified by cover and contents* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; revised by a committee in the Ministry of Education; year 1445 AH / 2023 CE, revised 13th edition (الطبعة الثالثة عشرة / المنقحة); ISBN no ISBN printed on the title pages. Title as printed: الجغرافية الطبيعية للصف الخامس الأدبي (Natural Geography for the Fifth Literary Grade) — the record's "Geography (Literary Track)" is the same book: same grade and track, verified by cover and contents. Grade: 11 (fifth secondary, literary track) (student/teacher: STUDENT). PDF pages: 162 (cover/title page verified as above; read via the books.json record's own Google Drive source file — same book, cover and contents verified — after the GitHub route failed). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iraq-placements.md.
 
+**Book 12:** *Geografía Física, séptimo grado* (student book, Spanish) — Editorial Pueblo y Educación, Cuba; year 2023; ISBN 978-959-13-4069-6 (print) / 978-959-13-4330-7 (digital). Title as printed: Geografía Física, séptimo grado. Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 239 (cover/title page verified against the record title; grabbed via grab.py release-asset route, 39,829,077 bytes; the duplicate TSV↔books.json pair is the same book, read once; full text read via pdftotext -layout; structure and printed pages from the book's Índice). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The nature side | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 1, printed pp. 6–7 |
@@ -38,8 +40,9 @@ countries: Ethiopia, Turkey, Dominican Republic, Slovenia, Uganda, Mauritania, I
 | Mozambique part — Lição 1: Geografia Física branch | Mozambique, *Mozambique Grade 7 PESD I Mod 1*, Lição 1: Geografia Física branch — printed p. 12 |
 | Iraq part — Ch. 1: Natural phenomena — mountain, waterfall, lightning, natural plants (photograph sorting activity) | Iraq, *Iraq Grade 4 Social Studies*, Ch. 1: Natural phenomena — mountain, waterfall, lightning, natural plants (photograph sorting activity) — printed p. 6 |
 | Iraq part — Ch. 1: Introduction to physical geography — what it studies | Iraq, *Iraq Grade 11 Physical Geography*, Ch. 1: Introduction to physical geography — what it studies — printed p. 4 |
+| Cuba part — Capítulo 1 Objeto de estudio de la Geografía Física: el medio geográfico natural y la relación Hombre-Tierra | Cuba, *Cuba Grade 7 Geografía Física G7*, Capítulo 1 Objeto de estudio de la Geografía Física: el medio geográfico natural y la relación Hombre-Tierra — printed p. 2 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Turkey, Dominican Republic, Slovenia, Uganda, Mauritania, Iran, Mozambique, Iraq).**
+**Acceptance count: taught in 10 countries (Ethiopia, Turkey, Dominican Republic, Slovenia, Uganda, Mauritania, Iran, Mozambique, Iraq, Cuba).**
 
 Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
@@ -60,3 +63,5 @@ Mozambique's own way (Mozambique Grade 7 PESD I Mod 1): distance-learning self-s
 Iraq's own way (Iraq Grade 4 Social Studies): geography enters inside "Social Studies" through the child's own surroundings — phenomena are sorted from photographs first, then the local environment, then the map of Iraq's governorates, and only then the wider geographical environments (city, countryside); history and homeland/civics chapters follow in the same book.
 
 Iraq's own way (Iraq Grade 11 Physical Geography): a pure physical-geography course in six chapters — landforms, weather and climate, water, the biosphere, soil, and the environment — with Iraqi anchors kept throughout (flood visits to Iraq's rivers, the hills of northern Iraq, groundwater and the desert caravans, soil salinity in the alluvial plain).
+
+Cuba's own way (Cuba Grade 7 Geografía Física G7): Physical geography is taught sphere by sphere (lithosphere → atmosphere → hydrosphere → biosphere) but every sphere chapter closes on rational use and sustainability — wind energy, rational water use, soil protection — and Cuban evidence runs through it (Cuba's forest cover fell from ~95 % at the Spanish arrival to 16 % by 1959 and was recovered by policy).

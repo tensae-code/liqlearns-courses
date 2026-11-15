@@ -1,6 +1,6 @@
 # Sources — Forests — Shrinking and Care
 
-countries: Ethiopia, Costa Rica, Angola, Bangladesh, Samoa, Zimbabwe, Malaysia, India, Cambodia, Slovenia, Uganda, Sudan, Venezuela, Afghanistan
+countries: Ethiopia, Costa Rica, Angola, Bangladesh, Samoa, Zimbabwe, Malaysia, India, Cambodia, Slovenia, Uganda, Sudan, Venezuela, Afghanistan, Cuba
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (placements 146–147, with the chapter assessment stock of placement 148).
 
@@ -38,6 +38,8 @@ countries: Ethiopia, Costa Rica, Angola, Bangladesh, Samoa, Zimbabwe, Malaysia, 
 
 **Book 18:** *جغرافيه صنف ١٢ (Geography, Grade 12)* (student book, Dari) — Ministry of Education, Afghanistan; year 1397 HS (2018/19) as indicated in the minister's message; ISBN no ISBN printed. Title as printed: جغرافيه صنف ١٢ (Geography, Grade 12). Grade: 12 (student/teacher: STUDENT). PDF pages: 216 (cover verified against the record title; 7,917,508 bytes, grabbed from the repo tree; the PDF's text layer uses a legacy font encoding, so the contents were read from the printed pages). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/afghanistan-placements.md.
 
+**Book 19:** *Geografía 2 — Octavo grado (the repo copy is the 2002 edition of the Grade 8 book; the 2024 programme and methodological orientations above belong to the newer edition of the same subject)* (student book, Spanish) — Editorial Pueblo y Educación / Ministerio de Educación, Cuba; year 2002; ISBN 959-13-0925-2. Title as printed: Geografía 2 — Octavo grado (the repo copy is the 2002 edition of the Grade 8 book; the 2024 programme and methodological orientations above belong to the newer edition of the same subject). Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 148 (cover/title page verified against the record title; grabbed via grab.py tree route, 4,803,285 bytes; full text read via pdftotext -layout; structure and printed pages taken from the book's own Índice). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Why forests fall, and what follows: forests as gatherings of vegetation where trees abound; former wide cover, present remnant; farm and grazing expansion, city growth, cutting for services; the listed results — climate disturbance, accelerated soil degradation, faster silt accumulation, heavy flooding, fuel-wood shortage, loss of individual plant species, forests failing as breeding places | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 7, printed pp. 190–191 |
@@ -59,8 +61,9 @@ countries: Ethiopia, Costa Rica, Angola, Bangladesh, Samoa, Zimbabwe, Malaysia, 
 | Venezuela part — Defender la selva tropical es salvar a la humanidad: the Amazon hydrographic basin and its protection | Venezuela, *Venezuela Grade 9 G9 Geography Venezuela*, Defender la selva tropical es salvar a la humanidad: the Amazon hydrographic basin and its protection — printed p. 170 |
 | Afghanistan part — Ch. 4 Lesson 33: protecting the forests | Afghanistan, *Afghanistan Grade 10 Geography (Dari)*, Ch. 4 Lesson 33: protecting the forests — printed p. 121 |
 | Afghanistan part — Ch. 8 Lesson 57: the cutting of forests [placement slug: global-issues/deforestation-and-desertification] | Afghanistan, *Afghanistan Grade 12 Geography (Dari)*, Ch. 8 Lesson 57: the cutting of forests — printed p. 203 |
+| Cuba part — Capítulo 2 Deforestación: un problema medioambiental en los países subdesarrollados | Cuba, *Cuba Grade 8 Geografía 2 G8*, Capítulo 2 Deforestación: un problema medioambiental en los países subdesarrollados — printed p. 34 |
 
-**Acceptance count: taught in 13 countries (Ethiopia, Costa Rica, Angola, Bangladesh, Samoa, Malaysia, India, Cambodia, Slovenia, Uganda, Sudan, Venezuela, Afghanistan). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 14 countries (Ethiopia, Costa Rica, Angola, Bangladesh, Samoa, Malaysia, India, Cambodia, Slovenia, Uganda, Sudan, Venezuela, Afghanistan, Cuba). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
 
 Chapter assessment stock carried as the book keys it (placement 148): 'which factor drives deforestation in developing countries' keyed to all of city growth, grazing expansion and farm-land hunger; 'farming the land bare' keyed as the soil-care method that does not belong; groundwater increasing keyed as NOT a result of forest shrinking. The pest name 'qinqin' is carried as printed in the placement. There is NO Grade 8 teacher-guide coverage for Chapter 7: the Grade 8 guide in hand holds only Units 1–3, so no teacher evidence is claimed for any Grade 8 part of this lesson.
 
@@ -99,3 +102,5 @@ Venezuela's own way (Venezuela Grade 9 G9 Geography Venezuela): a full national 
 Afghanistan's own way (Afghanistan Grade 10 Geography (Dari)): the upper-secondary pattern changes from continent tours to themes studied in depth through Afghanistan itself: a full map-skills chapter (map types, scale, colour, projection, satellite photos), Afghanistan's climate and each of its river basins one by one (Amu, Kabul, Helmand–Sistan, Harirud, the closed basins), an environment-protection chapter aimed at Kabul's air and streets, a natural-hazards chapter, then earth-and-space and atmosphere chapters.
 
 Afghanistan's own way (Afghanistan Grade 12 Geography (Dari)): the final year is pure human geography — Afghanistan's borders side by side (north, north-east, east/south, west), its population and ethnic make-up, religion and language, transport and communications, then the same themes for the world: population, races, religions, languages, global communications, and global environmental problems to close the whole twelve-year course.
+
+Cuba's own way (Cuba Grade 8 Geografía 2 G8): This older edition teaches world economic geography as a story — first the political map's dynamics through history (colonial empires, independences, 1914, post-1945, the 1960s, the 1990s), then resources, then production, and it closes with full regional studies; Latin America is studied first and in most depth, and every world topic is measured against Cuba's own sugar, tobacco, nickel and trade.

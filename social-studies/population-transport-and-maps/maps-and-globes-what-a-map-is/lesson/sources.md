@@ -1,6 +1,6 @@
 # Sources — Maps and globes — what a map is
 
-countries: Ethiopia, Palestine, Egypt, Dominican Republic, Colombia, Eritrea, India, Cambodia, Fiji, Papua New Guinea, Syria, Kuwait, Afghanistan, Yemen, Pakistan, Honduras, Jordan, Nicaragua, Armenia
+countries: Ethiopia, Palestine, Egypt, Dominican Republic, Colombia, Eritrea, India, Cambodia, Fiji, Papua New Guinea, Syria, Kuwait, Afghanistan, Yemen, Pakistan, Honduras, Jordan, Nicaragua, Armenia, Cuba
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 2, placements 27–43).
 
@@ -66,6 +66,12 @@ countries: Ethiopia, Palestine, Egypt, Dominican Republic, Colombia, Eritrea, In
 
 **Book 32:** *ԱՇԽԱՐՀԱԳՐՈՒԹՅՈՒՆ 10 (Geography 10)* (student book, Armenian) — Էդիթ Պրինտ (Edit Print), Yerevan; year 2023 (title page 2024); ISBN 978-9939-969-06-0. Authors: Ashot Khachatryan, Yurik Muradyan. Title as printed: ԱՇԽԱՐՀԱԳՐՈՒԹՅՈՒՆ 10 (Geography 10). Grade: 10 (student/teacher: STUDENT). PDF pages: 194 (printed 192; cover/title page verified against the record title). Verdict: COMPLETE — the senior Geography course in 7 themes: methods & cartography, lithosphere, atmosphere & climate, river hydrology, the political map of the world, world population, world natural resources. Read in full from contact sheets; every lesson opener and the printed contents (pp. 190-191) checked. Read in full from 100-DPI contact sheets (image-only book); every lesson opener and the printed contents (pp. 190-191) checked. Also read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
 
+**Book 33:** *Orientaciones metodológicas — Geografía, quinto grado* (teacher guide, Spanish) — Editorial Pueblo y Educación / Ministerio de Educación, Cuba; year 2024; ISBN 978-959-13-4693-3 (print) / 978-959-13-4694-0 (digital). Title as printed: Orientaciones metodológicas — Geografía, quinto grado. Grade: Grade 5 (student/teacher: TEACHER). PDF pages: 150 (cover/title page verified against the record title; grabbed via grab.py tree route, 816,401 bytes). Verdict: COMPLETE. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
+
+**Book 34:** *Geografía, quinto grado* (student book, Spanish) — Editorial Pueblo y Educación / Ministerio de Educación, Cuba; year 2024; ISBN 978-959-13-4717-6 (print) / 978-959-13-4718-3 (digital). Title as printed: Geografía, quinto grado. Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 174 (cover/title page verified against the record title; grabbed via grab.py release-asset route, 7,092,429 bytes; the duplicate TSV↔books.json pair is the same book, read once; full text read via pdftotext -layout). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
+
+**Book 35:** *Geografía Física, séptimo grado* (student book, Spanish) — Editorial Pueblo y Educación, Cuba; year 2023; ISBN 978-959-13-4069-6 (print) / 978-959-13-4330-7 (digital). Title as printed: Geografía Física, séptimo grado. Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 239 (cover/title page verified against the record title; grabbed via grab.py release-asset route, 39,829,077 bytes; the duplicate TSV↔books.json pair is the same book, read once; full text read via pdftotext -layout; structure and printed pages from the book's Índice). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What a map is | Ethiopia, *Social Studies Student Textbook, Grade 7* (Amhara Bureau), printed pp. 46–47 |
@@ -101,8 +107,11 @@ countries: Ethiopia, Palestine, Egypt, Dominican Republic, Colombia, Eritrea, In
 | Nicaragua part — Representaciones cartográficas | Nicaragua, *Nicaragua Grade 10 Ciencias Sociales G10 full-year*, Representaciones cartográficas — printed p. 2 |
 | Armenia part — Lesson 1.8 Theme summary "The geographic map" | Armenia, *Armenia Grade 7 Geography student*, Lesson 1.8 Theme summary "The geographic map" — printed p. 27 |
 | Armenia part — 1.4 Cartography: geographical maps | Armenia, *Armenia Grade 10 Geography student*, 1.4 Cartography: geographical maps — printed p. 16 |
+| Cuba part — Unidad 2 ep. 2.4 El mapa geográfico: elementos y símbolos convencionales (teacher guide — evidence) | Cuba, *Cuba Grade 5 OM Geografía G5* (teacher guide), Unidad 2 ep. 2.4 El mapa geográfico: elementos y símbolos convencionales — printed p. 33 |
+| Cuba part — Capítulo 2 ep. 2.4 El mapa geográfico: elementos y símbolos convencionales | Cuba, *Cuba Grade 5 Geografía G5*, Capítulo 2 ep. 2.4 El mapa geográfico: elementos y símbolos convencionales — printed p. 29 |
+| Cuba part — Capítulo 2 Importancia de los mapas para el trabajo de la geografía | Cuba, *Cuba Grade 7 Geografía Física G7*, Capítulo 2 Importancia de los mapas para el trabajo de la geografía — printed p. 30 |
 
-**Acceptance count: taught in 18 countries (Ethiopia, Palestine, Egypt, Dominican Republic, Colombia, Eritrea, India, Cambodia, Fiji, Syria, Kuwait, Afghanistan, Yemen, Pakistan, Honduras, Jordan, Nicaragua, Armenia). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 19 countries (Ethiopia, Palestine, Egypt, Dominican Republic, Colombia, Eritrea, India, Cambodia, Fiji, Syria, Kuwait, Afghanistan, Yemen, Pakistan, Honduras, Jordan, Nicaragua, Armenia, Cuba). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Pairing warning (honesty): Book 2 is an Addis Ababa bureau guide in English; Book 1 is an Amhara bureau student book in Amharic. They are NOT edition-matched companions — the guide's unit order differs and whole student topics (maps, globes, GPS) have no guide counterpart, so no guide coverage is claimed for them. Guide material is used only as labelled teacher evidence.
 
@@ -169,3 +178,9 @@ Nicaragua's own way (Nicaragua Grade 10 Ciencias Sociales G10 full-year): The fu
 Armenia's own way (Armenia Grade 7 Geography student): opens school geography with the geographic map itself (plan, scale, azimuth, projections) before any Earth science, and runs every theme to a summary lesson plus practical work; world economy is taught branch by branch with Armenia (ՀՀ) used as the worked example in the closing questions.
 
 Armenia's own way (Armenia Grade 10 Geography student): grade-10 Geography is a methods-first course — it opens with the science's history, branches and GIS/GPS/aerospace methods, works through the lithosphere with a full natural-disasters lesson, and closes with resources measured by endowment; Armenia's own rivers fill the hydrology tables and Armenia's place in modern geopolitics closes the political-map theme.
+
+Cuba's own way (Cuba Grade 5 OM Geografía G5) (teacher guide — evidence): The teacher guide teaches the same four units as the programme/student book but adds Cuba-specific complementary materials no other country set carries: the Tarea Vida state climate-change plan as classroom content, project-based-learning orientation, and a long section on mastering the changing world political map through country cases (Congo, Belarus, the Yugoslav successor states). That evidence is stocked here as the way Cuba teaches this thing; it is cited as evidence only — Cuba is counted in this lesson through its student book(s).
+
+Cuba's own way (Cuba Grade 5 Geografía G5): The first Geography book a Cuban child meets opens with the history of geography itself (cuneiform maps, Hecataeus), builds all map skills before any content, and ends the planet tour with world population, the world political map and world heritage — with Cuba's own places (Llanura del Cauto, Trinidad) woven in as examples throughout.
+
+Cuba's own way (Cuba Grade 7 Geografía Física G7): Physical geography is taught sphere by sphere (lithosphere → atmosphere → hydrosphere → biosphere) but every sphere chapter closes on rational use and sustainability — wind energy, rational water use, soil protection — and Cuban evidence runs through it (Cuba's forest cover fell from ~95 % at the Spanish arrival to 16 % by 1959 and was recovered by policy).

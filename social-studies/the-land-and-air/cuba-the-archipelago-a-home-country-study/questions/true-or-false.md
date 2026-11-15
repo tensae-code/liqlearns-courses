@@ -1,0 +1,9 @@
+# Cuba The Archipelago A Home Country Study — true or false
+
+Say True or False, and why.
+
+**1. (Sub lesson 1)** This lesson's first part teaches: Unidad 6 El archipiélago cubano: situación, Estado y división político-administrativa, evolución geológica y sismicidad; Unidad 6 La población cubana y las principales ramas económicas: turismo, biotecnología y níquel; el comercio exterior de Cuba; Capítulo 6 ep. 6.1 Situación geográfica de Cuba: consideraciones históricas, económicas y políticas; Capítulo 6 ep. 6.2 El Estado cubano y la división político-administrativa de la República de Cuba; Capítulo 6 ep. 6.4 Características físico-geográficas del archipiélago cubano: costas, relieve, clima, hidrología, suelos, vegetación y fauna; Capítulo 6 ep. 6.5 Características socioeconómico-geográficas del archipiélago cubano: recursos naturales y su conservación; Capítulo 6 ep. 6.7 Principales renglones de la economía cubana: turismo, biotecnología y níquel; Capítulo 2 Situación geográfica del archipiélago cubano y sus consecuencias: puntos extremos, dimensiones y la «llave del Golfo»; Unidad 2 Nuestro país socialista: localizar los puntos extremos de Cuba, trazar su mayor y menor ancho y situar los canales y tierras próximas; Capítulo 1.1 El archipiélago cubano: situación geográfica y matemática, extensión y límites; Capítulo 1.2 Cuba en Las Américas y en el Caribe; Capítulo 2.1 El archipiélago cubano: situación geográfica y posición matemática, límites, tierras y mares próximos y el mar Caribe; Capítulo 2.1.1 Importancia de la situación geográfica de Cuba; El archipiélago cubano: mapas de contorno del país.
+**Answer: True**
+
+**2. (Sub lesson 2)** This lesson stands on a teacher guide only, with no student book.
+**Answer: False — it stands on Cuba's student book(s), named in lesson/sources.md; its teacher guide(s), where named, are cited as evidence only.**

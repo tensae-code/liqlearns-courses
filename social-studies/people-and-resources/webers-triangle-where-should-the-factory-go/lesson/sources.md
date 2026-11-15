@@ -1,6 +1,6 @@
 # Sources — Weber's triangle — where should the factory go?
 
-countries: Ethiopia, Barbados, Indonesia, India, Cambodia, Fiji, Slovenia, Venezuela, Afghanistan, Moldova, Mozambique, Iraq, Bhutan, Armenia
+countries: Ethiopia, Barbados, Indonesia, India, Cambodia, Fiji, Slovenia, Venezuela, Afghanistan, Moldova, Mozambique, Iraq, Bhutan, Armenia, Cuba
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -40,6 +40,10 @@ countries: Ethiopia, Barbados, Indonesia, India, Cambodia, Fiji, Slovenia, Venez
 
 **Book 19:** *Աշխարհագրություն 11 — Հանրակրթական ավագ դպրոցի 11-րդ դասարանի դասագիրք (Geography 11, senior-school textbook)* (student book, Armenian) — «Զանգակ» (Zangak), Yerevan; year 2025; ISBN 978-9939-99-284-6. Authors: A. Hovsepyan, M. Manasyan, A. Potosyan, V. Asatryan. Title as printed: Աշխարհագրություն 11 — Հանրակրթական ավագ դպրոցի 11-րդ դասարանի դասագիրք (Geography 11, senior-school textbook). Grade: 11 (student/teacher: STUDENT). PDF pages: 192 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
 
+**Book 20:** *Orientaciones metodológicas — Geografía Económica y Social, octavo grado* (teacher guide, Spanish) — Editorial Pueblo y Educación / Ministerio de Educación, Cuba; year 2024; ISBN 978-959-13-4748-0 (print) / 978-959-13-4749-7 (digital). Title as printed: Orientaciones metodológicas — Geografía Económica y Social, octavo grado. Grade: Grade 8 (student/teacher: TEACHER). PDF pages: 84 (cover/title page verified against the record title; grabbed via grab.py tree route, 4,317,183 bytes; full text read via pdftotext -layout). Verdict: COMPLETE. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
+
+**Book 21:** *Geografía 2 — Octavo grado (the repo copy is the 2002 edition of the Grade 8 book; the 2024 programme and methodological orientations above belong to the newer edition of the same subject)* (student book, Spanish) — Editorial Pueblo y Educación / Ministerio de Educación, Cuba; year 2002; ISBN 959-13-0925-2. Title as printed: Geografía 2 — Octavo grado (the repo copy is the 2002 edition of the Grade 8 book; the 2024 programme and methodological orientations above belong to the newer edition of the same subject). Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 148 (cover/title page verified against the record title; grabbed via grab.py tree route, 4,803,285 bytes; full text read via pdftotext -layout; structure and printed pages taken from the book's own Índice). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The least-cost idea | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 5, printed pp. 129–131 |
@@ -63,8 +67,10 @@ countries: Ethiopia, Barbados, Indonesia, India, Cambodia, Fiji, Slovenia, Venez
 | Bhutan part — Ch.11 11.4 Factors affecting location of an industry | Bhutan, *Bhutan Grade 10 Geography*, Ch.11 11.4 Factors affecting location of an industry — printed p. 97 |
 | Armenia part — Lesson 7.4 Location of industry | Armenia, *Armenia Grade 7 Geography student*, Lesson 7.4 Location of industry — printed p. 143 |
 | Armenia part — §§4-5 Factors of industry location | Armenia, *Armenia Grade 11 Geography student*, §§4-5 Factors of industry location — printed p. 25 |
+| Cuba part — Unidad 5 Factores de localización de la industria (teacher guide — evidence) | Cuba, *Cuba Grade 8 OM Geografía Económica y Social G8* (teacher guide), Unidad 5 Factores de localización de la industria — printed p. 67 |
+| Cuba part — Capítulo 3 Factores que intervienen en la localización industrial; el complejo territorial de producción | Cuba, *Cuba Grade 8 Geografía 2 G8*, Capítulo 3 Factores que intervienen en la localización industrial; el complejo territorial de producción — printed p. 54 |
 
-**Acceptance count: taught in 14 countries (Ethiopia, Barbados, Indonesia, India, Cambodia, Fiji, Slovenia, Venezuela, Afghanistan, Moldova, Mozambique, Iraq, Bhutan, Armenia).**
+**Acceptance count: taught in 15 countries (Ethiopia, Barbados, Indonesia, India, Cambodia, Fiji, Slovenia, Venezuela, Afghanistan, Moldova, Mozambique, Iraq, Bhutan, Armenia, Cuba).**
 
 Indonesia's own way (Grade 12): Grade 12 is applied human geography built entirely on Indonesian cases — regional development and spatial planning (tata ruang) measured against a Happiness Index, Industry 4.0 / Society 5.0, and Indonesia's own geopolitics and ASEAN-era cooperation as pillars of national resilience. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -103,3 +109,7 @@ Bhutan's own way (Bhutan Grade 10 Geography): Class X pairs deep physical theory
 Armenia's own way (Armenia Grade 7 Geography student): opens school geography with the geographic map itself (plan, scale, azimuth, projections) before any Earth science, and runs every theme to a summary lesson plus practical work; world economy is taught branch by branch with Armenia (ՀՀ) used as the worked example in the closing questions.
 
 Armenia's own way (Armenia Grade 11 Geography student): the senior Geography course is two big themes only — the world economy in depth (structure, division of labour, every branch, transport systems, trade) and then the environment (ecological balance, pollution of air and water, land degradation, biodiversity, ecosystem services), i.e. economy first, its ecological bill second.
+
+Cuba's own way (Cuba Grade 8 OM Geografía Económica y Social G8) (teacher guide — evidence): The guide's distinctive Cuban layer is territorial identity — learners characterise their own municipality's resources and the environmental problems of its economic sectors, and the world material (political map, population, resources, production) is always closed by comparison with Cuba. That evidence is stocked here as the way Cuba teaches this thing; it is cited as evidence only — Cuba is counted in this lesson through its student book(s).
+
+Cuba's own way (Cuba Grade 8 Geografía 2 G8): This older edition teaches world economic geography as a story — first the political map's dynamics through history (colonial empires, independences, 1914, post-1945, the 1960s, the 1990s), then resources, then production, and it closes with full regional studies; Latin America is studied first and in most depth, and every world topic is measured against Cuba's own sugar, tobacco, nickel and trade.

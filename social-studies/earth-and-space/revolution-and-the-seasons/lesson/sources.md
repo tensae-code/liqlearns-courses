@@ -1,6 +1,6 @@
 # Sources — Revolution and the Seasons
 
-countries: Ethiopia, Myanmar, Turkey, Jamaica, Palestine, Bahamas, Malaysia, Eritrea, India, Rwanda, Vietnam, Uganda, Syria, Sri Lanka, Mauritania, Kuwait, Afghanistan, Yemen, Libya, Moldova, Honduras, Mozambique, Laos, Nicaragua, Bhutan, Armenia
+countries: Ethiopia, Myanmar, Turkey, Jamaica, Palestine, Bahamas, Malaysia, Eritrea, India, Rwanda, Vietnam, Uganda, Syria, Sri Lanka, Mauritania, Kuwait, Afghanistan, Yemen, Libya, Moldova, Honduras, Mozambique, Laos, Nicaragua, Bhutan, Armenia, Cuba
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page - 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md.
 
@@ -68,6 +68,10 @@ countries: Ethiopia, Myanmar, Turkey, Jamaica, Palestine, Bahamas, Malaysia, Eri
 
 **Book 33:** *Աշխարհագրություն — Դասագիրք 7-րդ դասարանի համար (Geography, textbook for grade 7)* (student book, Armenian) — «Աստղիկ Գրատուն» (Astghik Gratun), Yerevan; year 2023; ISBN 978-9939-74-142-0. Authors: T. Vardanyan, A. Potosyan, V. Asatryan, L. Hakobyan. Title as printed: Աշխարհագրություն — Դասագիրք 7-րդ դասարանի համար (Geography, textbook for grade 7). Grade: 7 (student/teacher: STUDENT). PDF pages: 176 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). The book's legacy-font text layer was decoded with the standard Armenian font-encoding table and verified against its printed contents page. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
 
+**Book 34:** *Orientaciones metodológicas — Geografía, quinto grado* (teacher guide, Spanish) — Editorial Pueblo y Educación / Ministerio de Educación, Cuba; year 2024; ISBN 978-959-13-4693-3 (print) / 978-959-13-4694-0 (digital). Title as printed: Orientaciones metodológicas — Geografía, quinto grado. Grade: Grade 5 (student/teacher: TEACHER). PDF pages: 150 (cover/title page verified against the record title; grabbed via grab.py tree route, 816,401 bytes). Verdict: COMPLETE. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
+
+**Book 35:** *Geografía, quinto grado* (student book, Spanish) — Editorial Pueblo y Educación / Ministerio de Educación, Cuba; year 2024; ISBN 978-959-13-4717-6 (print) / 978-959-13-4718-3 (digital). Title as printed: Geografía, quinto grado. Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 174 (cover/title page verified against the record title; grabbed via grab.py release-asset route, 7,092,429 bytes; the duplicate TSV↔books.json pair is the same book, read once; full text read via pdftotext -layout). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — what revolution causes: the Sun's apparent journey, day length, seasons | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 1, printed pp. 21–23 |
@@ -103,8 +107,10 @@ countries: Ethiopia, Myanmar, Turkey, Jamaica, Palestine, Bahamas, Malaysia, Eri
 | Bhutan part — Ch.1 1.2 Characteristics of Revolution | Bhutan, *Bhutan Grade 8 Geography*, Ch.1 1.2 Characteristics of Revolution — printed p. 2 |
 | Bhutan part — Ch.2 2.3 Revolution | Bhutan, *Bhutan Grade 9 Geography*, Ch.2 2.3 Revolution — printed p. 13 |
 | Armenia part — Lesson 3.7 The Earth's annual revolution: formation of the climatic seasons | Armenia, *Armenia Grade 7 Geography student*, Lesson 3.7 The Earth's annual revolution: formation of the climatic seasons — printed p. 73 |
+| Cuba part — Unidad 3 Las estaciones del año y su influencia en la vida social (teacher guide — evidence) | Cuba, *Cuba Grade 5 OM Geografía G5* (teacher guide), Unidad 3 Las estaciones del año y su influencia en la vida social — printed p. 51 |
+| Cuba part — Capítulo 3 ep. 3.4 Las estaciones del año y su influencia en la vida social | Cuba, *Cuba Grade 5 Geografía G5*, Capítulo 3 ep. 3.4 Las estaciones del año y su influencia en la vida social — printed p. 68 |
 
-**Acceptance count: taught in 24 countries (Ethiopia, Turkey, Palestine, Bahamas, Malaysia, Eritrea, India, Rwanda, Vietnam, Uganda, Syria, Sri Lanka, Mauritania, Kuwait, Afghanistan, Yemen, Libya, Moldova, Honduras, Mozambique, Laos, Nicaragua, Bhutan, Armenia). Myanmar is named here as teacher-guide evidence only, counted nowhere. Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 25 countries (Ethiopia, Turkey, Palestine, Bahamas, Malaysia, Eritrea, India, Rwanda, Vietnam, Uganda, Syria, Sri Lanka, Mauritania, Kuwait, Afghanistan, Yemen, Libya, Moldova, Honduras, Mozambique, Laos, Nicaragua, Bhutan, Armenia, Cuba). Myanmar is named here as teacher-guide evidence only, counted nowhere. Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grade 6 Exploratory Core, curriculum guide — evidence): the Grade 6 Social Studies year is built as three paired terms — culture and independence first, then the physical world (mountains, landmasses and water bodies), then climate, Earth movements and the atmosphere, closing on Caribbean cooperation. That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
@@ -173,3 +179,7 @@ Bhutan's own way (Bhutan Grade 8 Geography): Class VIII deepens the same three s
 Bhutan's own way (Bhutan Grade 9 Geography): The Intermediate level (IX–X) treats each world topic at full textbook depth and keeps the Bhutan case inside it — Soils of Bhutan, agro-ecological zones and farming practices of Bhutan, and common disasters in Bhutan (including GLOF) alongside the world disaster survey.
 
 Armenia's own way (Armenia Grade 7 Geography student): opens school geography with the geographic map itself (plan, scale, azimuth, projections) before any Earth science, and runs every theme to a summary lesson plus practical work; world economy is taught branch by branch with Armenia (ՀՀ) used as the worked example in the closing questions.
+
+Cuba's own way (Cuba Grade 5 OM Geografía G5) (teacher guide — evidence): The teacher guide teaches the same four units as the programme/student book but adds Cuba-specific complementary materials no other country set carries: the Tarea Vida state climate-change plan as classroom content, project-based-learning orientation, and a long section on mastering the changing world political map through country cases (Congo, Belarus, the Yugoslav successor states). That evidence is stocked here as the way Cuba teaches this thing; it is cited as evidence only — Cuba is counted in this lesson through its student book(s).
+
+Cuba's own way (Cuba Grade 5 Geografía G5): The first Geography book a Cuban child meets opens with the history of geography itself (cuneiform maps, Hecataeus), builds all map skills before any content, and ends the planet tour with world population, the world political map and world heritage — with Cuba's own places (Llanura del Cauto, Trinidad) woven in as examples throughout.

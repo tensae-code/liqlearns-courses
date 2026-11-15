@@ -1,6 +1,6 @@
 # Sources — What makes populations change
 
-countries: Ethiopia, Colombia, India, Rwanda, Fiji, Papua New Guinea, Uganda, Venezuela, Mauritania, Kuwait, Iran, Pakistan, Libya, Nepal, Mozambique, Bhutan, Armenia
+countries: Ethiopia, Colombia, India, Rwanda, Fiji, Papua New Guinea, Uganda, Venezuela, Mauritania, Kuwait, Iran, Pakistan, Libya, Nepal, Mozambique, Bhutan, Armenia, Cuba
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). Editors: Sintayehu Teka (MSc) (Content Editor), Kassie Molla (MA) (Language Editor), Hirut Woldemichael (MA) (Curriculum Editor). Illustrator: Agenchw Nega (MSc). Designer: Geda Hoka (MA). Evaluators: Dereje Guteta (PhD), Tesfaye Shiferaw (PhD), Abebe Yibeltie (MA), Hussein Seid (MA). First published 2023 under GEQIP-E. ISBN 978-99990-0-049-9. Printed by Gravity Group IND LLC, 13th Industrial Area, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. Printed page = PDF page − 6 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md
 
@@ -66,6 +66,8 @@ countries: Ethiopia, Colombia, India, Rwanda, Fiji, Papua New Guinea, Uganda, Ve
 
 **Book 32:** *Հայաստանի աշխարհագրություն — 9-րդ դասարանի դասագիրք (Geography of Armenia, textbook for grade 9)* (student book, Armenian) — «Տիգրան Մեծ» (Tigran Mets), Yerevan; year 2025; ISBN 978-9939-976-05-1. Authors: M. Manasyan, A. Hovsepyan. Title as printed: Հայաստանի աշխարհագրություն — 9-րդ դասարանի դասագիրք (Geography of Armenia, textbook for grade 9). Grade: 9 (student/teacher: STUDENT). PDF pages: 176 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
 
+**Book 33:** *Orientaciones metodológicas — Geografía Económica y Social, octavo grado* (teacher guide, Spanish) — Editorial Pueblo y Educación / Ministerio de Educación, Cuba; year 2024; ISBN 978-959-13-4748-0 (print) / 978-959-13-4749-7 (digital). Title as printed: Orientaciones metodológicas — Geografía Económica y Social, octavo grado. Grade: Grade 8 (student/teacher: TEACHER). PDF pages: 84 (cover/title page verified against the record title; grabbed via grab.py tree route, 4,317,183 bytes; full text read via pdftotext -layout). Verdict: COMPLETE. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Births, deaths and migration | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 6, printed pp. 146–149 |
@@ -102,8 +104,9 @@ countries: Ethiopia, Colombia, India, Rwanda, Fiji, Papua New Guinea, Uganda, Ve
 | Bhutan part — Ch.8 8.4 Factors affecting population growth | Bhutan, *Bhutan Grade 10 Geography*, Ch.8 8.4 Factors affecting population growth — printed p. 65 |
 | Armenia part — Lesson 5.1 World population number and movement | Armenia, *Armenia Grade 7 Geography student*, Lesson 5.1 World population number and movement — printed p. 105 |
 | Armenia part — §26 Natural movement of the population number | Armenia, *Armenia Grade 9 Geography of Armenia student*, §26 Natural movement of the population number — printed p. 72 |
+| Cuba part — Unidad 3 Crecimiento natural y mecánico; refugiados y desplazados (teacher guide — evidence) | Cuba, *Cuba Grade 8 OM Geografía Económica y Social G8* (teacher guide), Unidad 3 Crecimiento natural y mecánico; refugiados y desplazados — printed p. 47 |
 
-**Acceptance count: taught in 16 countries (Ethiopia, Colombia, India, Rwanda, Fiji, Uganda, Venezuela, Mauritania, Kuwait, Iran, Pakistan, Libya, Nepal, Mozambique, Bhutan, Armenia). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 16 countries (Ethiopia, Colombia, India, Rwanda, Fiji, Uganda, Venezuela, Mauritania, Kuwait, Iran, Pakistan, Libya, Nepal, Mozambique, Bhutan, Armenia). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere. Cuba is named here as teacher-guide evidence only, counted nowhere.**
 
 No book error is flagged for this lesson's pages in the placements. The teacher guide was first published in 2022 against the student book's 2023; the student book is the learner text of record, and the guide is cited as evidence only.
 
@@ -168,3 +171,5 @@ Bhutan's own way (Bhutan Grade 10 Geography): Class X pairs deep physical theory
 Armenia's own way (Armenia Grade 7 Geography student): opens school geography with the geographic map itself (plan, scale, azimuth, projections) before any Earth science, and runs every theme to a summary lesson plus practical work; world economy is taught branch by branch with Armenia (ՀՀ) used as the worked example in the closing questions.
 
 Armenia's own way (Armenia Grade 9 Geography of Armenia student): the whole grade-9 year is the home country — first the Armenian Highlands as a physical whole, then the Republic section by section (nature, population, economy), finishing marz by marz (all 10 provinces) so every learner ends by studying their own province.
+
+Cuba's own way (Cuba Grade 8 OM Geografía Económica y Social G8) (teacher guide — evidence): The guide's distinctive Cuban layer is territorial identity — learners characterise their own municipality's resources and the environmental problems of its economic sectors, and the world material (political map, population, resources, production) is always closed by comparison with Cuba. That evidence is stocked here as the way Cuba teaches this thing; it does not change the acceptance count above.

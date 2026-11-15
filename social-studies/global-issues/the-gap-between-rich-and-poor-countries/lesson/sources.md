@@ -1,6 +1,6 @@
 # Sources — The gap between rich and poor countries
 
-countries: Ethiopia, Haiti, Palestine, Cambodia, Syria, Venezuela, Yemen, Mozambique, Armenia
+countries: Ethiopia, Haiti, Palestine, Cambodia, Syria, Venezuela, Yemen, Mozambique, Armenia, Cuba
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -24,6 +24,8 @@ countries: Ethiopia, Haiti, Palestine, Cambodia, Syria, Venezuela, Yemen, Mozamb
 
 **Book 11:** *ՀԱՍԱՐԱԿԱԳԻՏՈՒԹՅՈՒՆ 11-րդ դասարան — Հանրակրթական ավագ դպրոցի դասագիրք (Social Science 11, senior-school textbook)* (student book, Armenian) — «Զանգակ» (Zangak), Yerevan; year 2025; ISBN 978-9939-99-280-8. Authors: N. Galstyan, T. Simonyan, A. Manucharyan. Title as printed: ՀԱՍԱՐԱԿԱԳԻՏՈՒԹՅՈՒՆ 11-րդ դասարան — Հանրակրթական ավագ դպրոցի դասագիրք (Social Science 11, senior-school textbook). Grade: 11 (student/teacher: STUDENT). PDF pages: 192 (cover/title page verified against the record title). Read from the record's armedu.am source_url: the GitHub release copy of this book is corrupt (no xref/trailer, unopenable) — see the log's library debts.. Verdict: COMPLETE — combined Social Science. Geography-scope part placed below: Theme 2 "The state's role in the economy" (printed pp. 46-76). NOT placed (named for later waves): Theme 1 "State system and mechanisms of rights protection" (pp. 5-45), Theme 3 "Political participation and elections" (pp. 77-108), Theme 4 "Parties and interest groups" (pp. 109-132), Theme 5 "International law" (pp. 133-165), Theme 6 "International relations and foreign policy" (pp. 166-191). Read from the record's own armedu.am source_url (cover + text verified as the same book): the GitHub release copy of this book is corrupt (no xref/trailer, unopenable) — library debt carried exactly as the placements file records it. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
 
+**Book 12:** *Geografía 2 — Octavo grado (the repo copy is the 2002 edition of the Grade 8 book; the 2024 programme and methodological orientations above belong to the newer edition of the same subject)* (student book, Spanish) — Editorial Pueblo y Educación / Ministerio de Educación, Cuba; year 2002; ISBN 959-13-0925-2. Title as printed: Geografía 2 — Octavo grado (the repo copy is the 2002 edition of the Grade 8 book; the 2024 programme and methodological orientations above belong to the newer edition of the same subject). Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 148 (cover/title page verified against the record title; grabbed via grab.py tree route, 4,803,285 bytes; full text read via pdftotext -layout; structure and printed pages taken from the book's own Índice). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The gap and its causes | G12 student #57, printed pp. 134–138 |
@@ -40,8 +42,9 @@ countries: Ethiopia, Haiti, Palestine, Cambodia, Syria, Venezuela, Yemen, Mozamb
 | Yemen part — Unit 6 Lesson 1 Disparity in Global Economic Development | Yemen, *Yemen Grade 8 G8 Geography of the Continents*, Unit 6 Lesson 1 Disparity in Global Economic Development — printed p. 96 |
 | Mozambique part — Lição 9: A Desigualdade no Comércio Mundial (raw-material producers forced to negotiate with the great trading companies) | Mozambique, *Mozambique Grade 10 PESD II Mod 7*, Lição 9: A Desigualdade no Comércio Mundial (raw-material producers forced to negotiate with the great trading companies) — printed p. 61 |
 | Armenia part — 2.1 The gap between rich and poor countries | Armenia, *Armenia Grade 11 Social Science student*, 2.1 The gap between rich and poor countries — printed p. 46 |
+| Cuba part — Capítulo 1 Desigual desarrollo de los países en el mundo: un problema medioambiental global | Cuba, *Cuba Grade 8 Geografía 2 G8*, Capítulo 1 Desigual desarrollo de los países en el mundo: un problema medioambiental global — printed p. 19 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Palestine, Cambodia, Syria, Venezuela, Yemen, Mozambique, Armenia). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 9 countries (Ethiopia, Palestine, Cambodia, Syria, Venezuela, Yemen, Mozambique, Armenia, Cuba). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
 
 Haiti's own way (teacher sequence — evidence): World inequality is questioned through the words used for it (Nord/Sud, développé/sous-développé) and through Haiti's own case — a rich-country/poor-country comparison (Canada or USA vs Haiti), the independence debt, food insecurity and Covid vaccination in Haiti — with every claim built from authenticated statistics, graphs and maps crossed from local to world scale. That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
@@ -66,3 +69,5 @@ Yemen's own way (Yemen Grade 8 G8 Geography of the Continents): Grade 8 tours th
 Mozambique's own way (Mozambique Grade 10 PESD II Mod 7): industry taught as a long history — from Palaeolithic tool-making through manufacture and mercantilism to the Industrial Revolution and its consequences — before location, types and industrial landscapes; commerce likewise from barter and the invention of coin to trade blocs and unequal world flows.
 
 Armenia's own way (Armenia Grade 11 Social Science student): grade-11 Social Science is the state year — law, the economy's state, elections, parties, international law and relations — with the economy theme measuring countries by GDP, growth, inflation and unemployment before judging state intervention.
+
+Cuba's own way (Cuba Grade 8 Geografía 2 G8): This older edition teaches world economic geography as a story — first the political map's dynamics through history (colonial empires, independences, 1914, post-1945, the 1960s, the 1990s), then resources, then production, and it closes with full regional studies; Latin America is studied first and in most depth, and every world topic is measured against Cuba's own sugar, tobacco, nickel and trade.

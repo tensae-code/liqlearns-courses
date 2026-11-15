@@ -1,0 +1,22 @@
+# The Americas A Regional Study
+
+## Do it first
+
+Before you read on, say in your mind what you already think this is about: Capítulo 5 Estudio de las Américas: presentación geográfica y particularidades físico- y socioeconómico-geográficas — as Cuba's book teaches it. Hold your idea; the lesson will test it.
+
+## Sub lesson 1 — The Americas A Regional Study
+
+Cuba's book, the *Cuba Grade 11 Geografía Regional G11* (printed p. 203), teaches: Capítulo 5 Estudio de las Américas: presentación geográfica y particularidades físico- y socioeconómico-geográficas. This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
+
+## Sub lesson 2 — Cuba's way — the book's own teaching way
+
+Cuba's own way (Cuba Grade 11 Geografía Regional G11): The capstone of Cuban school geography: five continents studied with one fixed plan (situation → physical character → socio-economic character → regions → political-map changes → countries-and-capitals → deep country monographs), then a full closing chapter on the Cuban archipelago longer than any continent chapter — the world tour exists to bring the learner home with the tools to characterise their own country. This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
+
+## Say it to your companion
+
+Explain this lesson to your companion in your own words. Your companion asks you one hard question about it — answer from the lesson.
+
+## Do It Yourself
+
+1. The book's topic: do the activity in hands-on.md under this name.
+2. Cuba's way: do the activity in hands-on.md under this name.

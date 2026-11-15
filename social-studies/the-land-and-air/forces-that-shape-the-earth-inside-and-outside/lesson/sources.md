@@ -1,6 +1,6 @@
 # Sources — Forces that shape the Earth — inside and outside
 
-countries: Ethiopia, Cambodia, Rwanda, Vietnam, Papua New Guinea, Syria, Iran, Yemen, Pakistan, Libya, Nepal, Mozambique, Jordan, Nicaragua, Bhutan, Armenia
+countries: Ethiopia, Cambodia, Rwanda, Vietnam, Papua New Guinea, Syria, Iran, Yemen, Pakistan, Libya, Nepal, Mozambique, Jordan, Nicaragua, Bhutan, Armenia, Cuba
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -46,6 +46,12 @@ countries: Ethiopia, Cambodia, Rwanda, Vietnam, Papua New Guinea, Syria, Iran, Y
 
 **Book 22:** *ԱՇԽԱՐՀԱԳՐՈՒԹՅՈՒՆ 10 (Geography 10)* (student book, Armenian) — Էդիթ Պրինտ (Edit Print), Yerevan; year 2023 (title page 2024); ISBN 978-9939-969-06-0. Authors: Ashot Khachatryan, Yurik Muradyan. Title as printed: ԱՇԽԱՐՀԱԳՐՈՒԹՅՈՒՆ 10 (Geography 10). Grade: 10 (student/teacher: STUDENT). PDF pages: 194 (printed 192; cover/title page verified against the record title). Verdict: COMPLETE — the senior Geography course in 7 themes: methods & cartography, lithosphere, atmosphere & climate, river hydrology, the political map of the world, world population, world natural resources. Read in full from contact sheets; every lesson opener and the printed contents (pp. 190-191) checked. Read in full from 100-DPI contact sheets (image-only book); every lesson opener and the printed contents (pp. 190-191) checked. Also read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
 
+**Book 23:** *Orientaciones metodológicas — Geografía, quinto grado* (teacher guide, Spanish) — Editorial Pueblo y Educación / Ministerio de Educación, Cuba; year 2024; ISBN 978-959-13-4693-3 (print) / 978-959-13-4694-0 (digital). Title as printed: Orientaciones metodológicas — Geografía, quinto grado. Grade: Grade 5 (student/teacher: TEACHER). PDF pages: 150 (cover/title page verified against the record title; grabbed via grab.py tree route, 816,401 bytes). Verdict: COMPLETE. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
+
+**Book 24:** *Geografía, quinto grado* (student book, Spanish) — Editorial Pueblo y Educación / Ministerio de Educación, Cuba; year 2024; ISBN 978-959-13-4717-6 (print) / 978-959-13-4718-3 (digital). Title as printed: Geografía, quinto grado. Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 174 (cover/title page verified against the record title; grabbed via grab.py release-asset route, 7,092,429 bytes; the duplicate TSV↔books.json pair is the same book, read once; full text read via pdftotext -layout). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
+
+**Book 25:** *Geografía Física, séptimo grado* (student book, Spanish) — Editorial Pueblo y Educación, Cuba; year 2023; ISBN 978-959-13-4069-6 (print) / 978-959-13-4330-7 (digital). Title as printed: Geografía Física, séptimo grado. Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 239 (cover/title page verified against the record title; grabbed via grab.py release-asset route, 39,829,077 bytes; the duplicate TSV↔books.json pair is the same book, read once; full text read via pdftotext -layout; structure and printed pages from the book's Índice). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Two families of forces | G12 student #9, printed pp. 11–12, 24 |
@@ -71,8 +77,11 @@ countries: Ethiopia, Cambodia, Rwanda, Vietnam, Papua New Guinea, Syria, Iran, Y
 | Bhutan part — Ch.1 Earth's Movement (endogenic and exogenic forces) | Bhutan, *Bhutan Grade 11 Geography*, Ch.1 Earth's Movement (endogenic and exogenic forces) — printed p. 6 |
 | Armenia part — Lesson 2.8 Theme summary "Formation of the Earth's surface: geographic features of the World Ocean" | Armenia, *Armenia Grade 7 Geography student*, Lesson 2.8 Theme summary "Formation of the Earth's surface: geographic features of the World Ocean" — printed p. 50 |
 | Armenia part — 2.10 Internal and external forces in relief formation | Armenia, *Armenia Grade 10 Geography student*, 2.10 Internal and external forces in relief formation — printed p. 97 |
+| Cuba part — Unidad 4 ep. 4.3 El relieve: origen, fuerzas internas y externas, grandes masas continentales (teacher guide — evidence) | Cuba, *Cuba Grade 5 OM Geografía G5* (teacher guide), Unidad 4 ep. 4.3 El relieve: origen, fuerzas internas y externas, grandes masas continentales — printed p. 73 |
+| Cuba part — Capítulo 4 ep. 4.3 El relieve: origen, fuerzas internas y externas, grandes masas continentales | Cuba, *Cuba Grade 5 Geografía G5*, Capítulo 4 ep. 4.3 El relieve: origen, fuerzas internas y externas, grandes masas continentales — printed p. 93 |
+| Cuba part — Capítulo 4 El relieve terrestre: origen y evolución; procesos endógenos y exógenos | Cuba, *Cuba Grade 7 Geografía Física G7*, Capítulo 4 El relieve terrestre: origen y evolución; procesos endógenos y exógenos — printed p. 77 |
 
-**Acceptance count: taught in 15 countries (Ethiopia, Cambodia, Rwanda, Vietnam, Syria, Iran, Yemen, Pakistan, Libya, Nepal, Mozambique, Jordan, Nicaragua, Bhutan, Armenia). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 16 countries (Ethiopia, Cambodia, Rwanda, Vietnam, Syria, Iran, Yemen, Pakistan, Libya, Nepal, Mozambique, Jordan, Nicaragua, Bhutan, Armenia, Cuba). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Placement honesty carried: the placements place the eruption-style / Krakatoa passage before the 1.4.2 heading, inside the flow of 1.4.1's closing pages (printed p. 24) — a layout slip in the book, named here; the content itself is taught as the placements give it.
 
@@ -119,3 +128,9 @@ Bhutan's own way (Bhutan Grade 11 Geography): The Advanced level (XI–XII) is f
 Armenia's own way (Armenia Grade 7 Geography student): opens school geography with the geographic map itself (plan, scale, azimuth, projections) before any Earth science, and runs every theme to a summary lesson plus practical work; world economy is taught branch by branch with Armenia (ՀՀ) used as the worked example in the closing questions.
 
 Armenia's own way (Armenia Grade 10 Geography student): grade-10 Geography is a methods-first course — it opens with the science's history, branches and GIS/GPS/aerospace methods, works through the lithosphere with a full natural-disasters lesson, and closes with resources measured by endowment; Armenia's own rivers fill the hydrology tables and Armenia's place in modern geopolitics closes the political-map theme.
+
+Cuba's own way (Cuba Grade 5 OM Geografía G5) (teacher guide — evidence): The teacher guide teaches the same four units as the programme/student book but adds Cuba-specific complementary materials no other country set carries: the Tarea Vida state climate-change plan as classroom content, project-based-learning orientation, and a long section on mastering the changing world political map through country cases (Congo, Belarus, the Yugoslav successor states). That evidence is stocked here as the way Cuba teaches this thing; it is cited as evidence only — Cuba is counted in this lesson through its student book(s).
+
+Cuba's own way (Cuba Grade 5 Geografía G5): The first Geography book a Cuban child meets opens with the history of geography itself (cuneiform maps, Hecataeus), builds all map skills before any content, and ends the planet tour with world population, the world political map and world heritage — with Cuba's own places (Llanura del Cauto, Trinidad) woven in as examples throughout.
+
+Cuba's own way (Cuba Grade 7 Geografía Física G7): Physical geography is taught sphere by sphere (lithosphere → atmosphere → hydrosphere → biosphere) but every sphere chapter closes on rational use and sustainability — wind energy, rational water use, soil protection — and Cuban evidence runs through it (Cuba's forest cover fell from ~95 % at the Spanish arrival to 16 % by 1959 and was recovered by policy).

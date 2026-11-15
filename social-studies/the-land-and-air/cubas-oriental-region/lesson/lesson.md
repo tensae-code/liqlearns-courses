@@ -1,0 +1,26 @@
+# Cuba's Oriental Region
+
+## Do it first
+
+Before you read on, say in your mind what you already think this is about: Capítulo 4 Región Oriental: principales características físico-económico-geográficas e histórico-sociales; Capítulo 4 Paisajes notables de la región Oriental: las Montañas de la Sierra Maestra y la repoblación forestal; Unidad 4 Región Oriental: paisajes de la región, bahías de Nipe, Guantánamo y Santiago, zonas más lluviosa y más seca, ríos Toa y Contramaestre y yacimientos de níquel, hierro y manganeso; Capítulo 6.1.3 Región oriental de Cuba — as Cuba's book teaches it. Hold your idea; the lesson will test it.
+
+## Sub lesson 1 — Cuba's Oriental Region
+
+Cuba's book, the *Cuba Grade 6 Geografía de Cuba G6* (printed p. 103), teaches: Capítulo 4 Región Oriental: principales características físico-económico-geográficas e histórico-sociales. Cuba's book, the *Cuba Grade 6 Geografía de Cuba G6* (printed p. 112), teaches: Capítulo 4 Paisajes notables de la región Oriental: las Montañas de la Sierra Maestra y la repoblación forestal. Cuba's book, the *Cuba Grade 6 Cuaderno de actividades G6* (printed p. 24), teaches: Unidad 4 Región Oriental: paisajes de la región, bahías de Nipe, Guantánamo y Santiago, zonas más lluviosa y más seca, ríos Toa y Contramaestre y yacimientos de níquel, hierro y manganeso. Cuba's book, the *Cuba Grade 9 Geografía de Cuba G9 (2025)* (printed p. 271), teaches: Capítulo 6.1.3 Región oriental de Cuba. This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
+
+## Sub lesson 2 — Cuba's way — the book's own teaching way
+
+Cuba's own way (Cuba Grade 6 Geografía de Cuba G6): The child's first geography book is the home country itself — one chapter of tools (coordinates, orientation, scale), then Cuba whole (situation, relief, coasts, climate, population, economy), then its two great regions landscape by landscape; the political-administrative division taught is the pre-2011 one (Ciudad de La Habana appears as a province), and History episodes woven into the regional chapters (the Santa Clara battle, the Granma landing) are named here but not placed — they belong to the History course.
+
+Cuba's own way (Cuba Grade 6 Cuaderno de actividades G6): The workbook is the practice twin of the G6 student book and the Atlas Escolar — nearly every activity is done ON a map (tracing coordinates, shading the insular shelf, locating features on outline maps) — and it is where the programme's fifth unit, "El paisaje de la localidad", actually lives: the student book has no locality chapter, but the workbook closes with sketching, describing and defending the child's own locality. Section 2 is pure tools: outline maps of the world and of Cuba plus graph paper.
+
+Cuba's own way (Cuba Grade 9 Geografía de Cuba G9 (2025)): The 2025 rewrite keeps the home-country arc but rebuilds it for the Tercer Perfeccionamiento: Chapter 2 now profiles every province inside the political-administrative division itself, the climate chapter adds the Tarea Vida state plan by name, the economy chapter is organised by primary/secondary/tertiary sectors with self-employment (trabajo por cuenta propia) and the Mariel development zone, and the social chapter faces an ageing, shrinking population (life expectancy 73.7 years, a "Vivir 120" programme) and closes with Cuba's Human Development Index. It is a different book from the 2012 edition (Book 15), not a parallel copy, and is placed separately. This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
+
+## Say it to your companion
+
+Explain this lesson to your companion in your own words. Your companion asks you one hard question about it — answer from the lesson.
+
+## Do It Yourself
+
+1. The book's topic: do the activity in hands-on.md under this name.
+2. Cuba's way: do the activity in hands-on.md under this name.

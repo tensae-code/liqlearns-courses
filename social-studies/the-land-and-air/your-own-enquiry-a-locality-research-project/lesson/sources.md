@@ -1,6 +1,6 @@
 # Sources — Your own enquiry — a locality research project
 
-countries: Ethiopia, Bangladesh, Samoa, Syria, Venezuela, Moldova, Armenia
+countries: Ethiopia, Bangladesh, Samoa, Syria, Venezuela, Moldova, Armenia, Cuba
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -26,6 +26,8 @@ countries: Ethiopia, Bangladesh, Samoa, Syria, Venezuela, Moldova, Armenia
 
 **Book 12:** *ԱՇԽԱՐՀԱԳՐՈՒԹՅՈՒՆ 10 — ՄԵԹՈԴԱԿԱՆ ՈՒՂԵՑՈՒՅՑ (Geography 10 — methodological guide)* (teacher guide, Armenian) — Էդիթ Պրինտ (Edit Print), Yerevan; year 2023; ISBN 978-9939-969-05-3. Author: Ashot Khachatryan. Title as printed: ԱՇԽԱՐՀԱԳՐՈՒԹՅՈՒՆ 10 — ՄԵԹՈԴԱԿԱՆ ՈՒՂԵՑՈՒՅՑ (Geography 10 — methodological guide). Grade: 10 (student/teacher: TEACHER). PDF pages: 67 (printed 65; cover/title page verified against the record title). Verdict: COMPLETE — methodological guide for Book 15: the aims of Geography teaching, the methods of geographical cognition (observation, experiment, description, modelling), types of learning activity, and assessment criteria for oral answers and practical work. Subject content mirrors Book 15; only the distinct method content is placed here. Cited as teacher-guide evidence only, outside acceptance counts. Read from 100-DPI contact sheets (image-only book). Also read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
 
+**Book 13:** *Orientaciones metodológicas — Geografía, quinto grado* (teacher guide, Spanish) — Editorial Pueblo y Educación / Ministerio de Educación, Cuba; year 2024; ISBN 978-959-13-4693-3 (print) / 978-959-13-4694-0 (digital). Title as printed: Orientaciones metodológicas — Geografía, quinto grado. Grade: Grade 5 (student/teacher: TEACHER). PDF pages: 150 (cover/title page verified against the record title; grabbed via grab.py tree route, 816,401 bytes). Verdict: COMPLETE. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The course funnels into one project | G12 student #87, printed pp. 216–217, 246–248 |
@@ -41,8 +43,9 @@ countries: Ethiopia, Bangladesh, Samoa, Syria, Venezuela, Moldova, Armenia
 | Armenia part — §5.3 Learning-project template and learners' independent research activity (teacher guide — evidence) | Armenia, *Armenia Grade 11 Social Science teacher guide* (teacher guide), §5.3 Learning-project template and learners' independent research activity — printed p. 170 |
 | Armenia part — §5.3 Learning-project template within the project-based learning chapter (teacher guide — evidence) | Armenia, *Armenia Grade 12 Social Science teacher guide* (teacher guide), §5.3 Learning-project template within the project-based learning chapter — printed p. 131 |
 | Armenia part — Assessment criteria for learners' practical work (teacher guide — evidence) | Armenia, *Armenia Grade 10 Geography teacher guide* (teacher guide), Assessment criteria for learners' practical work — printed p. 7 |
+| Cuba part — Materiales complementarios: la orientación en el trabajo por proyectos (aprendizaje basado en proyectos) (teacher guide — evidence) | Cuba, *Cuba Grade 5 OM Geografía G5* (teacher guide), Materiales complementarios: la orientación en el trabajo por proyectos (aprendizaje basado en proyectos) — printed p. 128 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Bangladesh, Samoa, Syria, Venezuela, Moldova, Armenia).**
+**Acceptance count: taught in 7 countries (Ethiopia, Bangladesh, Samoa, Syria, Venezuela, Moldova, Armenia). Cuba is named here as teacher-guide evidence only, counted nowhere.**
 
 No book error in the placements for this lesson is taught here. Figures and dates are taught exactly as the placements report them, as the book's own record.
 
@@ -69,3 +72,5 @@ Armenia's own way (Armenia Grade 11 Social Science teacher guide) (teacher guide
 Armenia's own way (Armenia Grade 12 Social Science teacher guide) (teacher guide — evidence): the final-year guide keeps the same method spine as grade 11 — content map first, then lesson schemes and a project template — so the philosophy/psychology/globalisation mix is taught as one planned course. That evidence is stocked here as the way Armenia teaches this thing; it is cited as evidence only — Armenia is counted in this lesson through its student book(s).
 
 Armenia's own way (Armenia Grade 10 Geography teacher guide) (teacher guide — evidence): the guide grades Geography by demonstrated skills — its rubrics score practical map and field work separately from oral answers, against published criteria. That evidence is stocked here as the way Armenia teaches this thing; it is cited as evidence only — Armenia is counted in this lesson through its student book(s).
+
+Cuba's own way (Cuba Grade 5 OM Geografía G5) (teacher guide — evidence): The teacher guide teaches the same four units as the programme/student book but adds Cuba-specific complementary materials no other country set carries: the Tarea Vida state climate-change plan as classroom content, project-based-learning orientation, and a long section on mastering the changing world political map through country cases (Congo, Belarus, the Yugoslav successor states). That evidence is stocked here as the way Cuba teaches this thing; it does not change the acceptance count above.

@@ -1,6 +1,6 @@
 # Sources — The Universe and Space
 
-countries: Ethiopia, Dominican Republic, Colombia, India, Sudan, Syria, Kuwait, Afghanistan, Yemen, Mozambique, Jordan, Bhutan
+countries: Ethiopia, Dominican Republic, Colombia, India, Sudan, Syria, Kuwait, Afghanistan, Yemen, Mozambique, Jordan, Bhutan, Cuba
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page - 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md.
 
@@ -28,6 +28,10 @@ countries: Ethiopia, Dominican Republic, Colombia, India, Sudan, Syria, Kuwait, 
 
 **Book 13:** *ADVANCED GEOGRAPHY CLASS XI* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Thimphu; year Provisional Edition 2022, Copyright 2023, Reprint 2024; ISBN no ISBN printed. Title as printed: ADVANCED GEOGRAPHY CLASS XI. Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 182 (cover/title page verified against the record title; byte size 19,627,789 and page count match the books.json record exactly — read via the record's ministry source URL; this book is also the TSV release record grade-11-gov-bhutan-geography-full-year.pdf, same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
 
+**Book 14:** *Orientaciones metodológicas — Geografía, quinto grado* (teacher guide, Spanish) — Editorial Pueblo y Educación / Ministerio de Educación, Cuba; year 2024; ISBN 978-959-13-4693-3 (print) / 978-959-13-4694-0 (digital). Title as printed: Orientaciones metodológicas — Geografía, quinto grado. Grade: Grade 5 (student/teacher: TEACHER). PDF pages: 150 (cover/title page verified against the record title; grabbed via grab.py tree route, 816,401 bytes). Verdict: COMPLETE. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
+
+**Book 15:** *Geografía, quinto grado* (student book, Spanish) — Editorial Pueblo y Educación / Ministerio de Educación, Cuba; year 2024; ISBN 978-959-13-4717-6 (print) / 978-959-13-4718-3 (digital). Title as printed: Geografía, quinto grado. Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 174 (cover/title page verified against the record title; grabbed via grab.py release-asset route, 7,092,429 bytes; the duplicate TSV↔books.json pair is the same book, read once; full text read via pdftotext -layout). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The universe: boundless space holding all matter | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 1, printed p. 4 |
@@ -50,8 +54,10 @@ countries: Ethiopia, Dominican Republic, Colombia, India, Sudan, Syria, Kuwait, 
 | Jordan part — Unit 5 Lessons 2–3: The Expansion of the Universe and Its Acceleration (توسع الكون وتسارع توسعه) | Jordan, *Jordan G12 ES T2*, Unit 5 Lessons 2–3: The Expansion of the Universe and Its Acceleration (توسع الكون وتسارع توسعه) — printed p. 21 |
 | Jordan part — Unit 5 Lesson 4 + Enrichment: Theories of the Origin of the Universe; the James Webb Space Telescope (نظريات نشأة الكون؛ مقراب جيمس ويب الفضائي) | Jordan, *Jordan G12 ES T2*, Unit 5 Lesson 4 + Enrichment: Theories of the Origin of the Universe; the James Webb Space Telescope (نظريات نشأة الكون؛ مقراب جيمس ويب الفضائي) — printed p. 36 |
 | Bhutan part — Ch.2 The Origin of the Universe (Big Bang and Solar Nebula theories) | Bhutan, *Bhutan Grade 11 Geography*, Ch.2 The Origin of the Universe (Big Bang and Solar Nebula theories) — printed p. 25 |
+| Cuba part — Unidad 3 El Universo: componentes — estrellas, galaxias, constelaciones, nebulosas; la "gran explosión" (teacher guide — evidence) | Cuba, *Cuba Grade 5 OM Geografía G5* (teacher guide), Unidad 3 El Universo: componentes — estrellas, galaxias, constelaciones, nebulosas; la "gran explosión" — printed p. 51 |
+| Cuba part — Capítulo 3 ep. 3.1 Universo y componentes: estrellas, galaxias, constelaciones (las 88 constelaciones) y nebulosas | Cuba, *Cuba Grade 5 Geografía G5*, Capítulo 3 ep. 3.1 Universo y componentes: estrellas, galaxias, constelaciones (las 88 constelaciones) y nebulosas — printed p. 46 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Dominican Republic, Colombia, India, Sudan, Syria, Kuwait, Afghanistan, Yemen, Mozambique, Jordan, Bhutan).**
+**Acceptance count: taught in 13 countries (Ethiopia, Dominican Republic, Colombia, India, Sudan, Syria, Kuwait, Afghanistan, Yemen, Mozambique, Jordan, Bhutan, Cuba).**
 
 No book errors are flagged by the placements for these pages.
 
@@ -80,3 +86,7 @@ Jordan's own way (Jordan G12 ES T2 Workbook): the final-term activities book spa
 Jordan's own way (Jordan G12 ES T2): the last term spans galaxies and the origin of the universe, severe weather and how to stay safe in it, and the history of the Earth — with geological tourism in Jordan as the closing enrichment.
 
 Bhutan's own way (Bhutan Grade 11 Geography): The Advanced level (XI–XII) is full academic geography — map projections, remote sensing and GIS, insolation and pressure belts, climate classification — with Bhutan applied chapters on agriculture, manufacturing and tourism, the last taught on Bhutan's own sustainability principle ("high value, low volume" in the Bhutan Tourism Monitor data the book uses).
+
+Cuba's own way (Cuba Grade 5 OM Geografía G5) (teacher guide — evidence): The teacher guide teaches the same four units as the programme/student book but adds Cuba-specific complementary materials no other country set carries: the Tarea Vida state climate-change plan as classroom content, project-based-learning orientation, and a long section on mastering the changing world political map through country cases (Congo, Belarus, the Yugoslav successor states). That evidence is stocked here as the way Cuba teaches this thing; it is cited as evidence only — Cuba is counted in this lesson through its student book(s).
+
+Cuba's own way (Cuba Grade 5 Geografía G5): The first Geography book a Cuban child meets opens with the history of geography itself (cuneiform maps, Hecataeus), builds all map skills before any content, and ends the planet tour with world population, the world political map and world heritage — with Cuba's own places (Llanura del Cauto, Trinidad) woven in as examples throughout.

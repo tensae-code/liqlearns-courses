@@ -1,6 +1,6 @@
 # Sources — Planning a geography field trip
 
-countries: Ethiopia, Samoa, Papua New Guinea, Armenia
+countries: Ethiopia, Samoa, Papua New Guinea, Armenia, Cuba
 
 **Book 4:** *Geography, Teacher's Guide, Grade 10* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. First published 2022 under GEQIP-E. Read in full in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-teacher-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Samoa, Papua New Guinea, Armenia
 
 **Book 7:** *Հայաստանի աշխարհագրություն — 9-րդ դասարանի դասագիրք (Geography of Armenia, textbook for grade 9)* (student book, Armenian) — «Տիգրան Մեծ» (Tigran Mets), Yerevan; year 2025; ISBN 978-9939-976-05-1. Authors: M. Manasyan, A. Hovsepyan. Title as printed: Հայաստանի աշխարհագրություն — 9-րդ դասարանի դասագիրք (Geography of Armenia, textbook for grade 9). Grade: 9 (student/teacher: STUDENT). PDF pages: 176 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
 
+**Book 8:** *Orientaciones metodológicas — Geografía Regional, onceno grado* (teacher guide, Spanish) — Editorial Pueblo y Educación / Ministerio de Educación, Cuba; year 2024; ISBN 978-959-13-4801-2 (print) / 978-959-13-4802-9 (digital). Title as printed: Orientaciones metodológicas — Geografía Regional, onceno grado. Grade: Grade 11 (student/teacher: TEACHER). PDF pages: 239 (cover/title page verified against the record title; grabbed via grab.py tree route, 1,386,801 bytes; full text read via pdftotext -layout). Verdict: COMPLETE. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Steps 1–6 — decide, schedule, ask, move, eat | G10 teacher guide #6, printed p. XXII (teacher guide — evidence) |
@@ -17,8 +19,9 @@ countries: Ethiopia, Samoa, Papua New Guinea, Armenia
 | Samoa part (Year 13 Geography) — Part 6 Unit 13 Field Work Techniques | Samoa, *Geography, Year 13*, Part 6 Unit 13 Field Work Techniques — printed p. 219 |
 | Papua New Guinea part — Sample assessment task: field trip and associated report (fieldwork as an essential Geography tool) (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grades 11–12 Geography TG OBE* (teacher guide), Sample assessment task: field trip and associated report (fieldwork as an essential Geography tool) — printed p. 27 |
 | Armenia part — §23 Excursion into nature | Armenia, *Armenia Grade 9 Geography of Armenia student*, §23 Excursion into nature — printed p. 68 |
+| Cuba part — Anexo 10 Algunas consideraciones para la excursión docente (teacher guide — evidence) | Cuba, *Cuba Grade 11 OM Geografía Regional G11* (teacher guide), Anexo 10 Algunas consideraciones para la excursión docente — printed p. 191 |
 
-**Acceptance count: taught in 2 countries (Samoa, Armenia). Ethiopia is named here as teacher-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 2 countries (Samoa, Armenia). Ethiopia is named here as teacher-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere. Cuba is named here as teacher-guide evidence only, counted nowhere.**
 
 Teacher-guide evidence only (Grade 10 guide, printed p. XXII): the guide gives planning only, with no separate field-trip safety guide — safety content stands in the Grade 9 guide's fieldwork lessons, not claimed here. Samoa note (merged 2026-11-14): the Samoa Year 13 Geography student book now stocks this lesson as pupil content (Field Work Techniques, printed p. 219), so the lesson is pupil-taught in 1 country (Samoa); the Ethiopia material above remains teacher-guide evidence only, exactly as labelled.
 
@@ -29,3 +32,5 @@ Samoa's own way (Year 13 Geography): The final-year course is hazard- and water-
 Papua New Guinea's own way (Papua New Guinea Grades 11–12 Geography TG OBE) (teacher guide — evidence): an outcomes-based guide — it prescribes no lesson scripts; for each syllabus unit it lists suggested learning activities and assessment tasks built around the local environment (soil profiles, local hazard sites, a PNG mine and logging case study, a transect along latitude 6°S), with fieldwork and geographical inquiry as the core skills. That evidence is stocked here as the way Papua New Guinea teaches this thing; it does not change the acceptance count above.
 
 Armenia's own way (Armenia Grade 9 Geography of Armenia student): the whole grade-9 year is the home country — first the Armenian Highlands as a physical whole, then the Republic section by section (nature, population, economy), finishing marz by marz (all 10 provinces) so every learner ends by studying their own province.
+
+Cuba's own way (Cuba Grade 11 OM Geografía Regional G11) (teacher guide — evidence): Regional geography is taught with a fixed "plan tipo" (situation → physical character → socio-economic character → regions → political map → country studies) and heavy statistical work — the annexes teach teachers to build statistical materials, read demographic-indicator ranges and the HDI, and close the world tour with the Cuban archipelago and the Tarea Vida climate plan in schools. That evidence is stocked here as the way Cuba teaches this thing; it does not change the acceptance count above.

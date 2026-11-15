@@ -1,6 +1,6 @@
 # Sources — Trains, planes and boats
 
-countries: Ethiopia, Guatemala, Bahamas, Zimbabwe, Malaysia, India, Slovenia, Uganda, Venezuela, Kuwait, Iran, Yemen, Libya, Moldova, Mozambique, Laos, Iraq
+countries: Ethiopia, Guatemala, Bahamas, Zimbabwe, Malaysia, India, Slovenia, Uganda, Venezuela, Kuwait, Iran, Yemen, Libya, Moldova, Mozambique, Laos, Iraq, Cuba
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -48,6 +48,8 @@ countries: Ethiopia, Guatemala, Bahamas, Zimbabwe, Malaysia, India, Slovenia, Ug
 
 **Book 23:** *الجغرافية البشرية للصف السادس الأدبي (Human Geography for the Sixth Literary Grade) — the record's "Geography (Literary Track)" is the same book: same grade and track, verified by cover and contents* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; revised by a committee in the Ministry of Education; year 1445 AH / 2023 CE, revised 13th edition (الطبعة الثالثة عشرة / المنقحة); ISBN no ISBN printed on the title pages. Title as printed: الجغرافية البشرية للصف السادس الأدبي (Human Geography for the Sixth Literary Grade) — the record's "Geography (Literary Track)" is the same book: same grade and track, verified by cover and contents. Grade: 12 (sixth secondary, literary track) (student/teacher: STUDENT). PDF pages: 172 (cover/title page verified as above; read via the books.json record's own Google Drive source file — same book, cover and contents verified — after the GitHub route failed). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iraq-placements.md.
 
+**Book 24:** *Orientaciones metodológicas — Geografía Económica y Social, octavo grado* (teacher guide, Spanish) — Editorial Pueblo y Educación / Ministerio de Educación, Cuba; year 2024; ISBN 978-959-13-4748-0 (print) / 978-959-13-4749-7 (digital). Title as printed: Orientaciones metodológicas — Geografía Económica y Social, octavo grado. Grade: Grade 8 (student/teacher: TEACHER). PDF pages: 84 (cover/title page verified against the record title; grabbed via grab.py tree route, 4,317,183 bytes; full text read via pdftotext -layout). Verdict: COMPLETE. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Rail and air | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 5, printed pp. 140–143 |
@@ -74,8 +76,9 @@ countries: Ethiopia, Guatemala, Bahamas, Zimbabwe, Malaysia, India, Slovenia, Ug
 | Laos part — Part I Lesson 10: Transport and communications in the world | Laos, *Laos Grade 11 laos-g11-geography-student*, Part I Lesson 10: Transport and communications in the world — printed p. 72 |
 | Iraq part — Unit 1 Ch. 2: Air routes, helped by Iraq's strategic position and clear dry skies; and sea transport through the Arab Gulf on a coast of about 60 km (Umm Qasr and Abu Flus ports) | Iraq, *Iraq Grade 9 Social Studies*, Unit 1 Ch. 2: Air routes, helped by Iraq's strategic position and clear dry skies; and sea transport through the Arab Gulf on a coast of about 60 km (Umm Qasr and Abu Flus ports) — printed p. 72 |
 | Iraq part — Ch. 5: Water transport — what makes a river fit for navigation (rainfall through the year or seasonal), and the hazards of sea navigation (fog lessened by radio, lights and radar; winds and storms) [placement slug: population-transport-and-maps/water-transport-rivers-canals-and-seas] | Iraq, *Iraq Grade 12 Human Geography*, Ch. 5: Water transport — what makes a river fit for navigation (rainfall through the year or seasonal), and the hazards of sea navigation (fog lessened by radio, lights and radar; winds and storms) — printed p. 114 |
+| Cuba part — Unidad 5 El transporte: tipos y factores que condicionan su distribución (teacher guide — evidence) | Cuba, *Cuba Grade 8 OM Geografía Económica y Social G8* (teacher guide), Unidad 5 El transporte: tipos y factores que condicionan su distribución — printed p. 67 |
 
-**Acceptance count: taught in 16 countries (Ethiopia, Guatemala, Bahamas, Malaysia, India, Slovenia, Uganda, Venezuela, Kuwait, Iran, Yemen, Libya, Moldova, Mozambique, Laos, Iraq). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 16 countries (Ethiopia, Guatemala, Bahamas, Malaysia, India, Slovenia, Uganda, Venezuela, Kuwait, Iran, Yemen, Libya, Moldova, Mozambique, Laos, Iraq). Zimbabwe is named here as teacher-guide evidence only, counted nowhere. Cuba is named here as teacher-guide evidence only, counted nowhere.**
 
 The airline destination figures (62+ African, 127+ international) are taught as printed in the student book (Unit 5, printed pp. 140–143), in the book’s own "as printed" framing.
 
@@ -122,3 +125,5 @@ Laos's own way (Laos Grade 11 laos-g11-geography-student): the student twin of B
 Iraq's own way (Iraq Grade 9 Social Studies): Grade 9 returns to Iraq for the fullest treatment yet — the same national geography as Grade 5 but measured: the plain is 24% and about 600 km long, the desert plateau about 55%, the desert plant belt about 70%, two-thirds of the people live on the central and southern plain; every topic is pinned to numbered maps of Iraq.
 
 Iraq's own way (Iraq Grade 12 Human Geography): a human-geography course in six chapters — population, cities and countryside, agriculture, industry and mining, transport and trade, political geography and tourism — and every chapter closes with an applied study of Iraq itself, so the world pattern is always brought home.
+
+Cuba's own way (Cuba Grade 8 OM Geografía Económica y Social G8) (teacher guide — evidence): The guide's distinctive Cuban layer is territorial identity — learners characterise their own municipality's resources and the environmental problems of its economic sectors, and the world material (political map, population, resources, production) is always closed by comparison with Cuba. That evidence is stocked here as the way Cuba teaches this thing; it does not change the acceptance count above.

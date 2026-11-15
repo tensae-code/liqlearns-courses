@@ -1,0 +1,27 @@
+# Sources — Cuba's Tarea Vida State Plan Against Climate Change
+
+countries: Cuba
+
+**Book 1:** *Orientaciones metodológicas — Geografía, quinto grado* (teacher guide, Spanish) — Editorial Pueblo y Educación / Ministerio de Educación, Cuba; year 2024; ISBN 978-959-13-4693-3 (print) / 978-959-13-4694-0 (digital). Title as printed: Orientaciones metodológicas — Geografía, quinto grado. Grade: Grade 5 (student/teacher: TEACHER). PDF pages: 150 (cover/title page verified against the record title; grabbed via grab.py tree route, 816,401 bytes). Verdict: COMPLETE. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
+
+**Book 2:** *Orientaciones metodológicas — Geografía Regional, onceno grado* (teacher guide, Spanish) — Editorial Pueblo y Educación / Ministerio de Educación, Cuba; year 2024; ISBN 978-959-13-4801-2 (print) / 978-959-13-4802-9 (digital). Title as printed: Orientaciones metodológicas — Geografía Regional, onceno grado. Grade: Grade 11 (student/teacher: TEACHER). PDF pages: 239 (cover/title page verified against the record title; grabbed via grab.py tree route, 1,386,801 bytes; full text read via pdftotext -layout). Verdict: COMPLETE. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
+
+**Book 3:** *Geografía de Cuba, noveno grado* (student book, 2025 edition, Spanish) — Editorial Pueblo y Educación, Cuba; year 2025 (Tercer Perfeccionamiento del Sistema Nacional de Educación); ISBN 978-959-13-4930-9 (print) / 978-959-13-5003-9 (digital). Title as printed: Geografía de Cuba, noveno grado. Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 298 (cover verified against the record title; grabbed via grab.py release-asset route from the Biblioteca record's release, 62,728,642 bytes; full text read via pdftotext -layout; structure and printed pages from the book's Índice). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — Materiales complementarios: Enfrentamiento al cambio climático — la Tarea Vida (teacher guide — evidence) | Cuba, *Cuba Grade 5 OM Geografía G5* (teacher guide), Materiales complementarios: Enfrentamiento al cambio climático — la Tarea Vida — printed p. 126 |
+| Sub lesson 1 — Anexo 15 La Tarea Vida en el Ministerio de Educación (teacher guide — evidence) | Cuba, *Cuba Grade 11 OM Geografía Regional G11* (teacher guide), Anexo 15 La Tarea Vida en el Ministerio de Educación — printed p. 227 |
+| Sub lesson 1 — Capítulo 3.4.5 El impacto del cambio climático en Cuba: medidas de mitigación y adaptación y la Tarea Vida | Cuba, *Cuba Grade 9 Geografía de Cuba G9 (2025)*, Capítulo 3.4.5 El impacto del cambio climático en Cuba: medidas de mitigación y adaptación y la Tarea Vida — printed p. 83 |
+| Sub lesson 1 — Capítulo 4.1 La conservación de los recursos naturales para el desarrollo sostenible y la Tarea Vida | Cuba, *Cuba Grade 9 Geografía de Cuba G9 (2025)*, Capítulo 4.1 La conservación de los recursos naturales para el desarrollo sostenible y la Tarea Vida — printed p. 133 |
+| Sub lesson 2 — Cuba's way — the book's own teaching way | Cuba — the book's own way of teaching (see below) |
+
+**Acceptance count: taught in 1 country (Cuba).**
+
+Cuba's own way (Cuba Grade 5 OM Geografía G5) (teacher guide — evidence): The teacher guide teaches the same four units as the programme/student book but adds Cuba-specific complementary materials no other country set carries: the Tarea Vida state climate-change plan as classroom content, project-based-learning orientation, and a long section on mastering the changing world political map through country cases (Congo, Belarus, the Yugoslav successor states). That book is a teacher guide, cited as evidence only; Cuba is counted in this lesson for its student book(s) named here, not for this guide.
+
+Cuba's own way (Cuba Grade 11 OM Geografía Regional G11) (teacher guide — evidence): Regional geography is taught with a fixed "plan tipo" (situation → physical character → socio-economic character → regions → political map → country studies) and heavy statistical work — the annexes teach teachers to build statistical materials, read demographic-indicator ranges and the HDI, and close the world tour with the Cuban archipelago and the Tarea Vida climate plan in schools. That book is a teacher guide, cited as evidence only; Cuba is counted in this lesson for its student book(s) named here, not for this guide.
+
+Cuba's own way (Cuba Grade 9 Geografía de Cuba G9 (2025)): The 2025 rewrite keeps the home-country arc but rebuilds it for the Tercer Perfeccionamiento: Chapter 2 now profiles every province inside the political-administrative division itself, the climate chapter adds the Tarea Vida state plan by name, the economy chapter is organised by primary/secondary/tertiary sectors with self-employment (trabajo por cuenta propia) and the Mariel development zone, and the social chapter faces an ageing, shrinking population (life expectancy 73.7 years, a "Vivir 120" programme) and closes with Cuba's Human Development Index. It is a different book from the 2012 edition (Book 15), not a parallel copy, and is placed separately.
+
+Searchable tags: cubas tarea vida state plan against climate change, Cuba, social studies, global-issues

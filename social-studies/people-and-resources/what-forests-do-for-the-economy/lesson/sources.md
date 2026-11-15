@@ -1,6 +1,6 @@
 # Sources — What forests do for the economy
 
-countries: Ethiopia, Angola, Venezuela, Pakistan, Bhutan, Armenia
+countries: Ethiopia, Angola, Venezuela, Pakistan, Bhutan, Armenia, Cuba
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -20,6 +20,10 @@ countries: Ethiopia, Angola, Venezuela, Pakistan, Bhutan, Armenia
 
 **Book 9:** *ԱՇԽԱՐՀԱԳՐՈՒԹՅՈՒՆ 10 (Geography 10)* (student book, Armenian) — Էդիթ Պրինտ (Edit Print), Yerevan; year 2023 (title page 2024); ISBN 978-9939-969-06-0. Authors: Ashot Khachatryan, Yurik Muradyan. Title as printed: ԱՇԽԱՐՀԱԳՐՈՒԹՅՈՒՆ 10 (Geography 10). Grade: 10 (student/teacher: STUDENT). PDF pages: 194 (printed 192; cover/title page verified against the record title). Verdict: COMPLETE — the senior Geography course in 7 themes: methods & cartography, lithosphere, atmosphere & climate, river hydrology, the political map of the world, world population, world natural resources. Read in full from contact sheets; every lesson opener and the printed contents (pp. 190-191) checked. Read in full from 100-DPI contact sheets (image-only book); every lesson opener and the printed contents (pp. 190-191) checked. Also read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
 
+**Book 10:** *Orientaciones metodológicas — Geografía Económica y Social, octavo grado* (teacher guide, Spanish) — Editorial Pueblo y Educación / Ministerio de Educación, Cuba; year 2024; ISBN 978-959-13-4748-0 (print) / 978-959-13-4749-7 (digital). Title as printed: Orientaciones metodológicas — Geografía Económica y Social, octavo grado. Grade: Grade 8 (student/teacher: TEACHER). PDF pages: 84 (cover/title page verified against the record title; grabbed via grab.py tree route, 4,317,183 bytes; full text read via pdftotext -layout). Verdict: COMPLETE. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
+
+**Book 11:** *Geografía 2 — Octavo grado (the repo copy is the 2002 edition of the Grade 8 book; the 2024 programme and methodological orientations above belong to the newer edition of the same subject)* (student book, Spanish) — Editorial Pueblo y Educación / Ministerio de Educación, Cuba; year 2002; ISBN 959-13-0925-2. Title as printed: Geografía 2 — Octavo grado (the repo copy is the 2002 edition of the Grade 8 book; the 2024 programme and methodological orientations above belong to the newer edition of the same subject). Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 148 (cover/title page verified against the record title; grabbed via grab.py tree route, 4,803,285 bytes; full text read via pdftotext -layout; structure and printed pages taken from the book's own Índice). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Products | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 5, printed pp. 126–128 |
@@ -33,8 +37,10 @@ countries: Ethiopia, Angola, Venezuela, Pakistan, Bhutan, Armenia
 | Bhutan part — 4.2 Importance of Community Forests | Bhutan, *Bhutan Grade 5 Social Studies*, 4.2 Importance of Community Forests — printed p. 18 |
 | Bhutan part — Ch.9 9.3 Importance of Forest | Bhutan, *Bhutan Grade 7 Geography*, Ch.9 9.3 Importance of Forest — printed p. 46 |
 | Armenia part — 7.7 Biological resources | Armenia, *Armenia Grade 10 Geography student*, 7.7 Biological resources — printed p. 182 |
+| Cuba part — Unidad 4 Recursos forestales: distribución y uso (teacher guide — evidence) | Cuba, *Cuba Grade 8 OM Geografía Económica y Social G8* (teacher guide), Unidad 4 Recursos forestales: distribución y uso — printed p. 55 |
+| Cuba part — Capítulo 2 Recursos forestales | Cuba, *Cuba Grade 8 Geografía 2 G8*, Capítulo 2 Recursos forestales — printed p. 30 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Angola, Venezuela, Pakistan, Bhutan, Armenia).**
+**Acceptance count: taught in 7 countries (Ethiopia, Angola, Venezuela, Pakistan, Bhutan, Armenia, Cuba).**
 
 Searchable tags: forestry, fuelwood, timber, watershed protection, forest economy, social studies
 
@@ -51,3 +57,7 @@ Bhutan's own way (Bhutan Grade 5 Social Studies): Grade 5 spirals from the Earth
 Bhutan's own way (Bhutan Grade 7 Geography): From Class VII Geography becomes a standalone subject organised in three strands (Time and Space; Physical Environment; People and Environment), every world topic closed with its Bhutan case — climate of Bhutan, vegetation types of Bhutan, minerals of Bhutan, and Bhutan's Himalayan disaster set (earthquake, flood, windstorm, fire, GLOF).
 
 Armenia's own way (Armenia Grade 10 Geography student): grade-10 Geography is a methods-first course — it opens with the science's history, branches and GIS/GPS/aerospace methods, works through the lithosphere with a full natural-disasters lesson, and closes with resources measured by endowment; Armenia's own rivers fill the hydrology tables and Armenia's place in modern geopolitics closes the political-map theme.
+
+Cuba's own way (Cuba Grade 8 OM Geografía Económica y Social G8) (teacher guide — evidence): The guide's distinctive Cuban layer is territorial identity — learners characterise their own municipality's resources and the environmental problems of its economic sectors, and the world material (political map, population, resources, production) is always closed by comparison with Cuba. That evidence is stocked here as the way Cuba teaches this thing; it is cited as evidence only — Cuba is counted in this lesson through its student book(s).
+
+Cuba's own way (Cuba Grade 8 Geografía 2 G8): This older edition teaches world economic geography as a story — first the political map's dynamics through history (colonial empires, independences, 1914, post-1945, the 1960s, the 1990s), then resources, then production, and it closes with full regional studies; Latin America is studied first and in most depth, and every world topic is measured against Cuba's own sugar, tobacco, nickel and trade.

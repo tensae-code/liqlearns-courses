@@ -1,6 +1,6 @@
 # Sources — Counting people — censuses and surveys
 
-countries: Ethiopia, Bolivia, Dominican Republic, Samoa, India, Rwanda, Fiji, Papua New Guinea, Uganda, Sudan, Sri Lanka, Iran, Pakistan, Nepal, Mozambique, Jordan, Iraq, Bhutan, Armenia
+countries: Ethiopia, Bolivia, Dominican Republic, Samoa, India, Rwanda, Fiji, Papua New Guinea, Uganda, Sudan, Sri Lanka, Iran, Pakistan, Nepal, Mozambique, Jordan, Iraq, Bhutan, Armenia, Cuba
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -58,6 +58,8 @@ countries: Ethiopia, Bolivia, Dominican Republic, Samoa, India, Rwanda, Fiji, Pa
 
 **Book 28:** *Հայաստանի աշխարհագրություն — 9-րդ դասարանի դասագիրք (Geography of Armenia, textbook for grade 9)* (student book, Armenian) — «Տիգրան Մեծ» (Tigran Mets), Yerevan; year 2025; ISBN 978-9939-976-05-1. Authors: M. Manasyan, A. Hovsepyan. Title as printed: Հայաստանի աշխարհագրություն — 9-րդ դասարանի դասագիրք (Geography of Armenia, textbook for grade 9). Grade: 9 (student/teacher: STUDENT). PDF pages: 176 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
 
+**Book 29:** *Orientaciones metodológicas — Geografía Regional, onceno grado* (teacher guide, Spanish) — Editorial Pueblo y Educación / Ministerio de Educación, Cuba; year 2024; ISBN 978-959-13-4801-2 (print) / 978-959-13-4802-9 (digital). Title as printed: Orientaciones metodológicas — Geografía Regional, onceno grado. Grade: Grade 11 (student/teacher: TEACHER). PDF pages: 239 (cover/title page verified against the record title; grabbed via grab.py tree route, 1,386,801 bytes; full text read via pdftotext -layout). Verdict: COMPLETE. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What population means | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 4, printed pp. 86–88 |
@@ -89,8 +91,9 @@ countries: Ethiopia, Bolivia, Dominican Republic, Samoa, India, Rwanda, Fiji, Pa
 | Bhutan part — Ch.10 10.2 Population Census | Bhutan, *Bhutan Grade 11 Geography*, Ch.10 10.2 Population Census — printed p. 111 |
 | Armenia part — Lesson 5.7 Practical work (population data) | Armenia, *Armenia Grade 7 Geography student*, Lesson 5.7 Practical work (population data) — printed p. 125 |
 | Armenia part — §31 Practical work (population data of the home district) | Armenia, *Armenia Grade 9 Geography of Armenia student*, §31 Practical work (population data of the home district) — printed p. 89 |
+| Cuba part — Anexos 1–3 Cómo elaborar un material estadístico; rangos en los indicadores demográficos; otros indicadores económicos (teacher guide — evidence) | Cuba, *Cuba Grade 11 OM Geografía Regional G11* (teacher guide), Anexos 1–3 Cómo elaborar un material estadístico; rangos en los indicadores demográficos; otros indicadores económicos — printed p. 162 |
 
-**Acceptance count: taught in 18 countries (Ethiopia, Bolivia, Dominican Republic, Samoa, India, Rwanda, Fiji, Uganda, Sudan, Sri Lanka, Iran, Pakistan, Nepal, Mozambique, Jordan, Iraq, Bhutan, Armenia). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 18 countries (Ethiopia, Bolivia, Dominican Republic, Samoa, India, Rwanda, Fiji, Uganda, Sudan, Sri Lanka, Iran, Pakistan, Nepal, Mozambique, Jordan, Iraq, Bhutan, Armenia). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere. Cuba is named here as teacher-guide evidence only, counted nowhere.**
 
 Bolivia's own way (Grade 8, Secundaria 2): Secundaria 2 is the colonial-history year, so geography enters through the land itself: the Tawantinsuyo's territorial division into suyos, the Amazonian hydraulic cultures who farmed a flooding landscape with raised beds and purified water, the ayllu-versus-hacienda struggle over communal land, and where Afro-Bolivian communities settled in the Yungas.
 
@@ -145,3 +148,5 @@ Bhutan's own way (Bhutan Grade 11 Geography): The Advanced level (XI–XII) is f
 Armenia's own way (Armenia Grade 7 Geography student): opens school geography with the geographic map itself (plan, scale, azimuth, projections) before any Earth science, and runs every theme to a summary lesson plus practical work; world economy is taught branch by branch with Armenia (ՀՀ) used as the worked example in the closing questions.
 
 Armenia's own way (Armenia Grade 9 Geography of Armenia student): the whole grade-9 year is the home country — first the Armenian Highlands as a physical whole, then the Republic section by section (nature, population, economy), finishing marz by marz (all 10 provinces) so every learner ends by studying their own province.
+
+Cuba's own way (Cuba Grade 11 OM Geografía Regional G11) (teacher guide — evidence): Regional geography is taught with a fixed "plan tipo" (situation → physical character → socio-economic character → regions → political map → country studies) and heavy statistical work — the annexes teach teachers to build statistical materials, read demographic-indicator ranges and the HDI, and close the world tour with the Cuban archipelago and the Tarea Vida climate plan in schools. That evidence is stocked here as the way Cuba teaches this thing; it does not change the acceptance count above.

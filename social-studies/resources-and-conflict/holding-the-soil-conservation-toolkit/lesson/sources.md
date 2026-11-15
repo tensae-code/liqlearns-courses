@@ -1,6 +1,6 @@
 # Sources — Holding the soil — conservation toolkit
 
-countries: Ethiopia, Angola, Eritrea, India, Sri Lanka, Mozambique, Bhutan, Armenia
+countries: Ethiopia, Angola, Eritrea, India, Sri Lanka, Mozambique, Bhutan, Armenia, Cuba
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -24,6 +24,8 @@ countries: Ethiopia, Angola, Eritrea, India, Sri Lanka, Mozambique, Bhutan, Arme
 
 **Book 11:** *Աշխարհագրություն 11 — Հանրակրթական ավագ դպրոցի 11-րդ դասարանի դասագիրք (Geography 11, senior-school textbook)* (student book, Armenian) — «Զանգակ» (Zangak), Yerevan; year 2025; ISBN 978-9939-99-284-6. Authors: A. Hovsepyan, M. Manasyan, A. Potosyan, V. Asatryan. Title as printed: Աշխարհագրություն 11 — Հանրակրթական ավագ դպրոցի 11-րդ դասարանի դասագիրք (Geography 11, senior-school textbook). Grade: 11 (student/teacher: STUDENT). PDF pages: 192 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
 
+**Book 12:** *Geografía de Cuba, 9no. grado* (student book, 2012 edition, Spanish) — Editorial Pueblo y Educación, Cuba; year 2012; ISBN 978-959-13-2159-6. Title as printed: Geografía de Cuba, 9no. grado. Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 173 (cover verified against the record title; grabbed via grab.py release-asset route from the MINED record's release, 49,574,273 bytes; full text read via pdftotext -layout; structure and printed pages from the book's Índice). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Biological measures | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 7, printed pp. 182–185 |
@@ -38,8 +40,9 @@ countries: Ethiopia, Angola, Eritrea, India, Sri Lanka, Mozambique, Bhutan, Arme
 | Bhutan part — Ch.5 5.6 Soil conservation | Bhutan, *Bhutan Grade 9 Geography*, Ch.5 5.6 Soil conservation — printed p. 42 |
 | Bhutan part — Ch.5 5.5 Soil conservation | Bhutan, *Bhutan Grade 12 Geography*, Ch.5 5.5 Soil conservation — printed p. 53 |
 | Armenia part — §24 Land protection and restoration | Armenia, *Armenia Grade 11 Geography student*, §24 Land protection and restoration — printed p. 157 |
+| Cuba part — Capítulo 2.5.1 Protección y conservación de los suelos [placement slug: resources-and-conflict/land-degradation-when-soil-wears-out] | Cuba, *Cuba Grade 9 Geografía de Cuba G9 (2012)*, Capítulo 2.5.1 Protección y conservación de los suelos — printed p. 54 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Angola, Eritrea, India, Sri Lanka, Mozambique, Bhutan, Armenia).**
+**Acceptance count: taught in 9 countries (Ethiopia, Angola, Eritrea, India, Sri Lanka, Mozambique, Bhutan, Armenia, Cuba).**
 
 Searchable tags: soil conservation, afforestation, reforestation, terracing, contour ploughing, area closure, social studies
 
@@ -60,3 +63,5 @@ Bhutan's own way (Bhutan Grade 9 Geography): The Intermediate level (IX–X) tre
 Bhutan's own way (Bhutan Grade 12 Geography): Class XII closes the Advanced course with specialist topics (surveying, geospatial technologies, glaciers and the "Third Pole", Köppen in full, fluvial processes, Davis's cycle of erosion) and Bhutan data chapters — fertility and mortality trends in Bhutan, migration trends, hydropower in Bhutan, and creative industries including Bhutanese film.
 
 Armenia's own way (Armenia Grade 11 Geography student): the senior Geography course is two big themes only — the world economy in depth (structure, division of labour, every branch, transport systems, trade) and then the environment (ecological balance, pollution of air and water, land degradation, biodiversity, ecosystem services), i.e. economy first, its ecological bill second.
+
+Cuba's own way (Cuba Grade 9 Geografía de Cuba G9 (2012)): The 2012 edition follows the G9 programme chapter for chapter (archipiélago → naturaleza → panorama económico → desarrollo social → situación medioambiental → regiones) and is explicit about its own dating: data before 31 Dec 2010 use the 1975 provincial division, while Chapter 6 teaches the new 16-province organisation of 1 Jan 2011. NOTE — this is NOT the same book as the Biblioteca copy filed next (Book 16): that copy is the wholly rewritten 2025 Tercer Perfeccionamiento edition, so the two are placed separately.

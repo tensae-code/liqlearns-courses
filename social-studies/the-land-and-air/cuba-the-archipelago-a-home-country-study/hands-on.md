@@ -1,0 +1,9 @@
+# Hands-on — Cuba The Archipelago A Home Country Study
+
+The lesson with your hands and your feet, not only your eyes.
+
+## The book's topic
+Work through this lesson's topic with your hands: Unidad 6 El archipiélago cubano: situación, Estado y división político-administrativa, evolución geológica y sismicidad; Unidad 6 La población cubana y las principales ramas económicas: turismo, biotecnología y níquel; el comercio exterior de Cuba; Capítulo 6 ep. 6.1 Situación geográfica de Cuba: consideraciones históricas, económicas y políticas; Capítulo 6 ep. 6.2 El Estado cubano y la división político-administrativa de la República de Cuba; Capítulo 6 ep. 6.4 Características físico-geográficas del archipiélago cubano: costas, relieve, clima, hidrología, suelos, vegetación y fauna; Capítulo 6 ep. 6.5 Características socioeconómico-geográficas del archipiélago cubano: recursos naturales y su conservación; Capítulo 6 ep. 6.7 Principales renglones de la economía cubana: turismo, biotecnología y níquel; Capítulo 2 Situación geográfica del archipiélago cubano y sus consecuencias: puntos extremos, dimensiones y la «llave del Golfo»; Unidad 2 Nuestro país socialista: localizar los puntos extremos de Cuba, trazar su mayor y menor ancho y situar los canales y tierras próximas; Capítulo 1.1 El archipiélago cubano: situación geográfica y matemática, extensión y límites; Capítulo 1.2 Cuba en Las Américas y en el Caribe; Capítulo 2.1 El archipiélago cubano: situación geográfica y posición matemática, límites, tierras y mares próximos y el mar Caribe; Capítulo 2.1.1 Importancia de la situación geográfica de Cuba; El archipiélago cubano: mapas de contorno del país. Say each part out loud as you do it, from the lesson.
+
+## Cuba's way
+Say how Cuba's book teaches this thing, in your own words, from the lesson.

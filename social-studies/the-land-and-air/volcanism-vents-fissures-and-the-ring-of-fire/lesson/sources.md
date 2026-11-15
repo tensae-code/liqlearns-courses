@@ -1,6 +1,6 @@
 # Sources — Volcanism — vents, fissures and the Ring of Fire
 
-countries: Ethiopia, Dominican Republic, Samoa, Slovenia, Mozambique, Jordan, Iraq, Bhutan, Armenia
+countries: Ethiopia, Dominican Republic, Samoa, Slovenia, Mozambique, Jordan, Iraq, Bhutan, Armenia, Cuba
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -24,6 +24,8 @@ countries: Ethiopia, Dominican Republic, Samoa, Slovenia, Mozambique, Jordan, Ir
 
 **Book 11:** *ԱՇԽԱՐՀԱԳՐՈՒԹՅՈՒՆ 10 (Geography 10)* (student book, Armenian) — Էդիթ Պրինտ (Edit Print), Yerevan; year 2023 (title page 2024); ISBN 978-9939-969-06-0. Authors: Ashot Khachatryan, Yurik Muradyan. Title as printed: ԱՇԽԱՐՀԱԳՐՈՒԹՅՈՒՆ 10 (Geography 10). Grade: 10 (student/teacher: STUDENT). PDF pages: 194 (printed 192; cover/title page verified against the record title). Verdict: COMPLETE — the senior Geography course in 7 themes: methods & cartography, lithosphere, atmosphere & climate, river hydrology, the political map of the world, world population, world natural resources. Read in full from contact sheets; every lesson opener and the printed contents (pp. 190-191) checked. Read in full from 100-DPI contact sheets (image-only book); every lesson opener and the printed contents (pp. 190-191) checked. Also read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
 
+**Book 12:** *Geografía, quinto grado* (student book, Spanish) — Editorial Pueblo y Educación / Ministerio de Educación, Cuba; year 2024; ISBN 978-959-13-4717-6 (print) / 978-959-13-4718-3 (digital). Title as printed: Geografía, quinto grado. Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 174 (cover/title page verified against the record title; grabbed via grab.py release-asset route, 7,092,429 bytes; the duplicate TSV↔books.json pair is the same book, read once; full text read via pdftotext -layout). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Vents and fissures | G12 student #16, printed pp. 19–20 |
@@ -39,8 +41,9 @@ countries: Ethiopia, Dominican Republic, Samoa, Slovenia, Mozambique, Jordan, Ir
 | Bhutan part — Ch.5 5.7 Causes of volcanic eruption | Bhutan, *Bhutan Grade 8 Geography*, Ch.5 5.7 Causes of volcanic eruption — printed p. 37 |
 | Bhutan part — Ch.1 Causes of Volcanoes | Bhutan, *Bhutan Grade 11 Geography*, Ch.1 Causes of Volcanoes — printed p. 10 |
 | Armenia part — 2.9 Volcanism: structure, distribution and significance in nature | Armenia, *Armenia Grade 10 Geography student*, 2.9 Volcanism: structure, distribution and significance in nature — printed p. 94 |
+| Cuba part — Capítulo 4 ep. 4.3–4.5 El vulcanismo y las zonas sísmicas y volcánicas del planeta | Cuba, *Cuba Grade 5 Geografía G5*, Capítulo 4 ep. 4.3–4.5 El vulcanismo y las zonas sísmicas y volcánicas del planeta — printed p. 99 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Dominican Republic, Samoa, Slovenia, Mozambique, Jordan, Iraq, Bhutan, Armenia).**
+**Acceptance count: taught in 10 countries (Ethiopia, Dominican Republic, Samoa, Slovenia, Mozambique, Jordan, Iraq, Bhutan, Armenia, Cuba).**
 
 No book error in the placements for this lesson is taught here. Counts and examples are taught exactly as the placements report them.
 
@@ -65,3 +68,5 @@ Bhutan's own way (Bhutan Grade 8 Geography): Class VIII deepens the same three s
 Bhutan's own way (Bhutan Grade 11 Geography): The Advanced level (XI–XII) is full academic geography — map projections, remote sensing and GIS, insolation and pressure belts, climate classification — with Bhutan applied chapters on agriculture, manufacturing and tourism, the last taught on Bhutan's own sustainability principle ("high value, low volume" in the Bhutan Tourism Monitor data the book uses).
 
 Armenia's own way (Armenia Grade 10 Geography student): grade-10 Geography is a methods-first course — it opens with the science's history, branches and GIS/GPS/aerospace methods, works through the lithosphere with a full natural-disasters lesson, and closes with resources measured by endowment; Armenia's own rivers fill the hydrology tables and Armenia's place in modern geopolitics closes the political-map theme.
+
+Cuba's own way (Cuba Grade 5 Geografía G5): The first Geography book a Cuban child meets opens with the history of geography itself (cuneiform maps, Hecataeus), builds all map skills before any content, and ends the planet tour with world population, the world political map and world heritage — with Cuba's own places (Llanura del Cauto, Trinidad) woven in as examples throughout.

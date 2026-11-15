@@ -1,16 +1,26 @@
 # Sources — Climographs — Reading a Place's Climate
 
-countries: Dominican Republic
+countries: Dominican Republic, Cuba
 
 **Book 1:** *Ciencias Sociales — Quinto Grado, Segundo Ciclo, Educación Primaria (Libro Abierto, Serie 1, segunda edición)* (student book, Spanish) — Dominican Republic, Ministerio de Educación (MINERD), República Dominicana; Libro Abierto Serie 1, second edition; ISBN 978-9945-646-02-3 (printed in the book). Title as printed: Ciencias Sociales — Quinto Grado, Segundo Ciclo, Educación Primaria (Libro Abierto, Serie 1, segunda edición). Grade 5 (student). 192 PDF pp. (cover verified against the record title; byte size 95,210,417 matches the GitHub release asset exactly and page count matches the record). Verdict: COMPLETE (combined book — Geography parts placed below; History/Civics parts named in the placements, not placed: Unidad 4 La historia como ciencia, printed p. 58; Unidad 5 Historia de América, p. 74; Unidad 6 América y el Caribe en el siglo XIX, p. 90; Unidad 7 Historia dominicana, p. 106; Unidad 8 Nacionalidad y ciudadanía (Civics), p. 124; Unidad 9 Organización de la sociedad (Civics), p. 142; Unidad 10 Convivencia humana (Civics), p. 158). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/dominican-republic-placements.md.
+
+**Book 2:** *Geografía de Cuba, sexto grado* (student book, Spanish) — Editorial Pueblo y Educación, Cuba; segunda edición corregida y aumentada 2002, oncena reimpresión 2019; ISBN 978-959-13-0835-1. Title as printed: Geografía de Cuba, sexto grado. Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 127 (image-only scan — no text layer; fetched via a resumable Contents-API raw download after grab.py's blob route cut twice, 21,973,328 bytes, git blob SHA-1 verified; read in full from 100-DPI 4-up contact sheets, all 127 pages; cover/title page verified against the record title; printed pagination runs to p. 119 + Vocabulario). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
+
+**Book 3:** *Geografía de Cuba, 9no. grado* (student book, 2012 edition, Spanish) — Editorial Pueblo y Educación, Cuba; year 2012; ISBN 978-959-13-2159-6. Title as printed: Geografía de Cuba, 9no. grado. Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 173 (cover verified against the record title; grabbed via grab.py release-asset route from the MINED record's release, 49,574,273 bytes; full text read via pdftotext -layout; structure and printed pages from the book's Índice). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — We make and read climographs (group activity) | Dominican Republic, *Ciencias Sociales, Quinto Grado, Primaria (Libro Abierto)*, Grade 5, We make and read climographs (group activity) — printed p. 36 |
 | Sub lesson 2 — Dominican Republic's way — the book's own teaching way | Dominican Republic — the books' own way of teaching (see below) |
+| Cuba part — Capítulo 2 Clima de Cuba y factores que influyen: temperatura, lluvias y el climograma [placement slug: the-land-and-air/reading-and-drawing-climate-graphs] | Cuba, *Cuba Grade 6 Geografía de Cuba G6*, Capítulo 2 Clima de Cuba y factores que influyen: temperatura, lluvias y el climograma — printed p. 32 |
+| Cuba part — Capítulo 2.3 Clima de Cuba: variables y factores que lo determinan [placement slug: the-land-and-air/reading-and-drawing-climate-graphs] | Cuba, *Cuba Grade 9 Geografía de Cuba G9 (2012)*, Capítulo 2.3 Clima de Cuba: variables y factores que lo determinan — printed p. 33 |
 
-**Acceptance count: taught in 1 country (Dominican Republic).**
+**Acceptance count: taught in 2 countries (Dominican Republic, Cuba).**
 
 Dominican Republic's own way (Grade 5): Three geography units climb from the planet to the country: general geography and the American continent's location, then how climate varies across the continents — with climographs the children draw and read themselves — then the Dominican Republic's own climate, activities and population, ending with a “discovering the geography of my country” field activity.
 
 Searchable tags: climographs, reading a places climate, Dominican Republic, Ciencias Sociales, social studies, the-land-and-air
+
+Cuba's own way (Cuba Grade 6 Geografía de Cuba G6): The child's first geography book is the home country itself — one chapter of tools (coordinates, orientation, scale), then Cuba whole (situation, relief, coasts, climate, population, economy), then its two great regions landscape by landscape; the political-administrative division taught is the pre-2011 one (Ciudad de La Habana appears as a province), and History episodes woven into the regional chapters (the Santa Clara battle, the Granma landing) are named here but not placed — they belong to the History course.
+
+Cuba's own way (Cuba Grade 9 Geografía de Cuba G9 (2012)): The 2012 edition follows the G9 programme chapter for chapter (archipiélago → naturaleza → panorama económico → desarrollo social → situación medioambiental → regiones) and is explicit about its own dating: data before 31 Dec 2010 use the 1975 provincial division, while Chapter 6 teaches the new 16-province organisation of 1 Jan 2011. NOTE — this is NOT the same book as the Biblioteca copy filed next (Book 16): that copy is the wholly rewritten 2025 Tercer Perfeccionamiento edition, so the two are placed separately.

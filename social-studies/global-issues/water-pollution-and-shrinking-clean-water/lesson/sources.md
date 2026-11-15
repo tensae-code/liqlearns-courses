@@ -1,6 +1,6 @@
 # Sources — Water — Pollution and Shrinking Clean Water
 
-countries: Ethiopia, Jamaica, Bolivia, Bangladesh, Indonesia, Cambodia, Papua New Guinea, Sudan, Syria, Libya, Jordan, Iraq, Armenia
+countries: Ethiopia, Jamaica, Bolivia, Bangladesh, Indonesia, Cambodia, Papua New Guinea, Sudan, Syria, Libya, Jordan, Iraq, Armenia, Cuba
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (placement 110).
 
@@ -40,6 +40,8 @@ countries: Ethiopia, Jamaica, Bolivia, Bangladesh, Indonesia, Cambodia, Papua Ne
 
 **Book 19:** *Աշխարհագրություն 12 — Հանրակրթական ավագ դպրոցի 12-րդ դասարանի դասագիրք (Geography 12, senior-school textbook)* (student book, Armenian) — «Զանգակ» (Zangak), Yerevan; year 2025; ISBN 978-9939-99-290-7. Authors: M. Manasyan, A. Hovsepyan, A. Potosyan. Title as printed: Աշխարհագրություն 12 — Հանրակրթական ավագ դպրոցի 12-րդ դասարանի դասագիրք (Geography 12, senior-school textbook). Grade: 12 (student/teacher: STUDENT). PDF pages: 132 (printed 128; cover/title page verified against the record title). Verdict: COMPLETE. Read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
 
+**Book 20:** *Geografía 2 — Octavo grado (the repo copy is the 2002 edition of the Grade 8 book; the 2024 programme and methodological orientations above belong to the newer edition of the same subject)* (student book, Spanish) — Editorial Pueblo y Educación / Ministerio de Educación, Cuba; year 2002; ISBN 959-13-0925-2. Title as printed: Geografía 2 — Octavo grado (the repo copy is the 2002 edition of the Grade 8 book; the 2024 programme and methodological orientations above belong to the newer edition of the same subject). Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 148 (cover/title page verified against the record title; grabbed via grab.py tree route, 4,803,285 bytes; full text read via pdftotext -layout; structure and printed pages taken from the book's own Índice). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Water pollution (Grade 7 depth): pollution of lakes, rivers, seas, oceans and groundwater; polluted water changes nature, cannot renew itself, loses physical quality, biological content and economic use; the kebele audit task | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 7, printed pp. 150–151 |
@@ -62,8 +64,9 @@ countries: Ethiopia, Jamaica, Bolivia, Bangladesh, Indonesia, Cambodia, Papua Ne
 | Iraq part — Ch. 4: Water pollution (تلوث المياه) — oxygen-demanding wastes among its kinds, and the table of pollution factors, their sources and their consequences | Iraq, *Iraq Grade 11 Earth Science*, Ch. 4: Water pollution (تلوث المياه) — oxygen-demanding wastes among its kinds, and the table of pollution factors, their sources and their consequences — printed p. 91 |
 | Armenia part — §§21-22 Water-use sectors, sources of water-basin pollution, features of water protection | Armenia, *Armenia Grade 11 Geography student*, §§21-22 Water-use sectors, sources of water-basin pollution, features of water protection — printed p. 139 |
 | Armenia part — §13 The problem of the World Ocean | Armenia, *Armenia Grade 12 Geography student*, §13 The problem of the World Ocean — printed p. 106 |
+| Cuba part — Capítulo 2 Principales daños en la utilización de los recursos: contaminación de las aguas (derrames petroleros, Amoco Cádiz) | Cuba, *Cuba Grade 8 Geografía 2 G8*, Capítulo 2 Principales daños en la utilización de los recursos: contaminación de las aguas (derrames petroleros, Amoco Cádiz) — printed p. 32 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Bolivia, Bangladesh, Indonesia, Cambodia, Sudan, Syria, Libya, Jordan, Iraq, Armenia). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 12 countries (Ethiopia, Bolivia, Bangladesh, Indonesia, Cambodia, Sudan, Syria, Libya, Jordan, Iraq, Armenia, Cuba). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -102,3 +105,5 @@ Iraq's own way (Iraq Grade 11 Earth Science): the scientific track's earth-scien
 Armenia's own way (Armenia Grade 11 Geography student): the senior Geography course is two big themes only — the world economy in depth (structure, division of labour, every branch, transport systems, trade) and then the environment (ecological balance, pollution of air and water, land degradation, biodiversity, ecosystem services), i.e. economy first, its ecological bill second.
 
 Armenia's own way (Armenia Grade 12 Geography student): the final Geography year is thematic, not regional-by-continent: first "distinctive" region types (fast-growing, urbanised, mountain, arid-agrarian, integrating Western Europe), then humanity's global problems one by one, closing on sustainable development — with mountain-country development read through Armenia's own case.
+
+Cuba's own way (Cuba Grade 8 Geografía 2 G8): This older edition teaches world economic geography as a story — first the political map's dynamics through history (colonial empires, independences, 1914, post-1945, the 1960s, the 1990s), then resources, then production, and it closes with full regional studies; Latin America is studied first and in most depth, and every world topic is measured against Cuba's own sugar, tobacco, nickel and trade.

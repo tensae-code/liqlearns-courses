@@ -1,6 +1,6 @@
 # Sources — Köppen's five letters — A B C D E
 
-countries: Ethiopia, Turkey, Sri Lanka, Mozambique, Jordan, Nicaragua, Bhutan
+countries: Ethiopia, Turkey, Sri Lanka, Mozambique, Jordan, Nicaragua, Bhutan, Cuba
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -22,6 +22,10 @@ countries: Ethiopia, Turkey, Sri Lanka, Mozambique, Jordan, Nicaragua, Bhutan
 
 **Book 10:** *ADVANCED GEOGRAPHY CLASS XII* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Thimphu; year Provisional Edition 2023, Copyright 2023, Reprint 2024; ISBN no ISBN printed. Title as printed: ADVANCED GEOGRAPHY CLASS XII. Grade: Grade 12 (student/teacher: STUDENT). PDF pages: 144 (title page verified against the record title — PDF p.3, after a royal-message frontispiece; byte size 4,875,259 and page count match the books.json record exactly — read via the record's ministry source URL). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
 
+**Book 11:** *Geografía, quinto grado* (student book, Spanish) — Editorial Pueblo y Educación / Ministerio de Educación, Cuba; year 2024; ISBN 978-959-13-4717-6 (print) / 978-959-13-4718-3 (digital). Title as printed: Geografía, quinto grado. Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 174 (cover/title page verified against the record title; grabbed via grab.py release-asset route, 7,092,429 bytes; the duplicate TSV↔books.json pair is the same book, read once; full text read via pdftotext -layout). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
+
+**Book 12:** *Geografía Física, séptimo grado* (student book, Spanish) — Editorial Pueblo y Educación, Cuba; year 2023; ISBN 978-959-13-4069-6 (print) / 978-959-13-4330-7 (digital). Title as printed: Geografía Física, séptimo grado. Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 239 (cover/title page verified against the record title; grabbed via grab.py release-asset route, 39,829,077 bytes; the duplicate TSV↔books.json pair is the same book, read once; full text read via pdftotext -layout; structure and printed pages from the book's Índice). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Built on vegetation | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 2, printed pp. 30–33 |
@@ -36,8 +40,10 @@ countries: Ethiopia, Turkey, Sri Lanka, Mozambique, Jordan, Nicaragua, Bhutan
 | Nicaragua part — Zonas climáticas | Nicaragua, *Nicaragua Grade 9 CCSS Geografía Módulo G9*, Zonas climáticas — printed p. 97 |
 | Bhutan part — Ch.8 8.4 Empirical approach (Köppen) | Bhutan, *Bhutan Grade 11 Geography*, Ch.8 8.4 Empirical approach (Köppen) — printed p. 104 |
 | Bhutan part — Ch.8 8.2 Koppen climate classification | Bhutan, *Bhutan Grade 12 Geography*, Ch.8 8.2 Koppen climate classification — printed p. 78 |
+| Cuba part — Capítulo 4 ep. 4.8–4.9 La clasificación de los climas según Köppen | Cuba, *Cuba Grade 5 Geografía G5*, Capítulo 4 ep. 4.8–4.9 La clasificación de los climas según Köppen — printed p. 119 |
+| Cuba part — Capítulo 5 Los distintos tipos de clima según la clasificación de Köppen y su distribución geográfica | Cuba, *Cuba Grade 7 Geografía Física G7*, Capítulo 5 Los distintos tipos de clima según la clasificación de Köppen y su distribución geográfica — printed p. 144 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Turkey, Sri Lanka, Mozambique, Jordan, Nicaragua, Bhutan).**
+**Acceptance count: taught in 8 countries (Ethiopia, Turkey, Sri Lanka, Mozambique, Jordan, Nicaragua, Bhutan, Cuba).**
 
 Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
@@ -58,3 +64,7 @@ Nicaragua's own way (Nicaragua Grade 9 CCSS Geografía Módulo G9): A pure-Geogr
 Bhutan's own way (Bhutan Grade 11 Geography): The Advanced level (XI–XII) is full academic geography — map projections, remote sensing and GIS, insolation and pressure belts, climate classification — with Bhutan applied chapters on agriculture, manufacturing and tourism, the last taught on Bhutan's own sustainability principle ("high value, low volume" in the Bhutan Tourism Monitor data the book uses).
 
 Bhutan's own way (Bhutan Grade 12 Geography): Class XII closes the Advanced course with specialist topics (surveying, geospatial technologies, glaciers and the "Third Pole", Köppen in full, fluvial processes, Davis's cycle of erosion) and Bhutan data chapters — fertility and mortality trends in Bhutan, migration trends, hydropower in Bhutan, and creative industries including Bhutanese film.
+
+Cuba's own way (Cuba Grade 5 Geografía G5): The first Geography book a Cuban child meets opens with the history of geography itself (cuneiform maps, Hecataeus), builds all map skills before any content, and ends the planet tour with world population, the world political map and world heritage — with Cuba's own places (Llanura del Cauto, Trinidad) woven in as examples throughout.
+
+Cuba's own way (Cuba Grade 7 Geografía Física G7): Physical geography is taught sphere by sphere (lithosphere → atmosphere → hydrosphere → biosphere) but every sphere chapter closes on rational use and sustainability — wind energy, rational water use, soil protection — and Cuban evidence runs through it (Cuba's forest cover fell from ~95 % at the Spanish arrival to 16 % by 1959 and was recovered by policy).

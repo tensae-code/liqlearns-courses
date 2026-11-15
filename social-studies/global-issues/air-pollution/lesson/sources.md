@@ -1,6 +1,6 @@
 # Sources — Air Pollution
 
-countries: Ethiopia, Jamaica, Palestine, Angola, Indonesia, India, North Macedonia, Cambodia, Papua New Guinea, Sudan, Sri Lanka, Afghanistan, Yemen, Libya, Mozambique, Jordan, Iraq, Armenia
+countries: Ethiopia, Jamaica, Palestine, Angola, Indonesia, India, North Macedonia, Cambodia, Papua New Guinea, Sudan, Sri Lanka, Afghanistan, Yemen, Libya, Mozambique, Jordan, Iraq, Armenia, Cuba
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (placement 109).
 
@@ -52,6 +52,8 @@ countries: Ethiopia, Jamaica, Palestine, Angola, Indonesia, India, North Macedon
 
 **Book 24:** *Աշխարհագրություն 11 — Հանրակրթական ավագ դպրոցի 11-րդ դասարանի դասագիրք (Geography 11, senior-school textbook)* (student book, Armenian) — «Զանգակ» (Zangak), Yerevan; year 2025; ISBN 978-9939-99-284-6. Authors: A. Hovsepyan, M. Manasyan, A. Potosyan, V. Asatryan. Title as printed: Աշխարհագրություն 11 — Հանրակրթական ավագ դպրոցի 11-րդ դասարանի դասագիրք (Geography 11, senior-school textbook). Grade: 11 (student/teacher: STUDENT). PDF pages: 192 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
 
+**Book 25:** *Geografía Física, séptimo grado* (student book, Spanish) — Editorial Pueblo y Educación, Cuba; year 2023; ISBN 978-959-13-4069-6 (print) / 978-959-13-4330-7 (digital). Title as printed: Geografía Física, séptimo grado. Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 239 (cover/title page verified against the record title; grabbed via grab.py release-asset route, 39,829,077 bytes; the duplicate TSV↔books.json pair is the same book, read once; full text read via pdftotext -layout; structure and printed pages from the book's Índice). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What clean air is, and what spoils it: air without smell, taste or colour; pollution as natural or human-made toxic substances mixing into the air against living things; the bad smell of wastes as its everyday sign | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 7, printed p. 149 |
@@ -79,11 +81,12 @@ countries: Ethiopia, Jamaica, Palestine, Angola, Indonesia, India, North Macedon
 | Iraq part — Ch. 6: Air pollution (تلوث الهواء) in the cities — power stations among its sources, and how climate factors concentrate or scatter air pollutants | Iraq, *Iraq Grade 11 Physical Geography*, Ch. 6: Air pollution (تلوث الهواء) in the cities — power stations among its sources, and how climate factors concentrate or scatter air pollutants — printed p. 141 |
 | Iraq part — Ch. 4: Pollution of the atmosphere — its natural and human sources, suspended fine particles, lead (from gasoline in exhaust gases), ground-level ozone and asbestos among the pollutants listed | Iraq, *Iraq Grade 11 Earth Science*, Ch. 4: Pollution of the atmosphere — its natural and human sources, suspended fine particles, lead (from gasoline in exhaust gases), ground-level ozone and asbestos among the pollutants listed — printed p. 77 |
 | Armenia part — §§19-20 Sources and types of atmospheric pollution, their consequences and prevention | Armenia, *Armenia Grade 11 Geography student*, §§19-20 Sources and types of atmospheric pollution, their consequences and prevention — printed p. 131 |
+| Cuba part — Capítulo 5 Importancia de la conservación de la atmósfera para el desarrollo sostenible | Cuba, *Cuba Grade 7 Geografía Física G7*, Capítulo 5 Importancia de la conservación de la atmósfera para el desarrollo sostenible — printed p. 149 |
 
 | Sub lesson 3 — Smog and ground-level ozone — the Grade 12 chemistry | Ethiopia, *Geography, Student Textbook, Grade 12*, Unit 6, printed pp. 159–161 (G12 student placement #64) |
 | Indonesia part (Grade 11) — Bab 3 I.E Pencemaran udara | Indonesia, *Geografi untuk SMA Kelas XI*, Grade 11, Bab 3 I.E Pencemaran udara — printed p. 126 |
 
-**Acceptance count: taught in 16 countries (Ethiopia, Palestine, Angola, Indonesia, India, North Macedonia, Cambodia, Sudan, Sri Lanka, Afghanistan, Yemen, Libya, Mozambique, Jordan, Iraq, Armenia). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 17 countries (Ethiopia, Palestine, Angola, Indonesia, India, North Macedonia, Cambodia, Sudan, Sri Lanka, Afghanistan, Yemen, Libya, Mozambique, Jordan, Iraq, Armenia, Cuba). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -136,3 +139,5 @@ Iraq's own way (Iraq Grade 11 Physical Geography): a pure physical-geography cou
 Iraq's own way (Iraq Grade 11 Earth Science): the scientific track's earth-science course — atmosphere, earthquakes and volcanoes, weathering and soil, environment and pollution, and fossils and geological time — bilingual with English technical terms throughout, and Iraqi touches kept (the air masses over Iraq, the yellow dust storms, Iraq's Natural History Museum).
 
 Armenia's own way (Armenia Grade 11 Geography student): the senior Geography course is two big themes only — the world economy in depth (structure, division of labour, every branch, transport systems, trade) and then the environment (ecological balance, pollution of air and water, land degradation, biodiversity, ecosystem services), i.e. economy first, its ecological bill second.
+
+Cuba's own way (Cuba Grade 7 Geografía Física G7): Physical geography is taught sphere by sphere (lithosphere → atmosphere → hydrosphere → biosphere) but every sphere chapter closes on rational use and sustainability — wind energy, rational water use, soil protection — and Cuban evidence runs through it (Cuba's forest cover fell from ~95 % at the Spanish arrival to 16 % by 1959 and was recovered by policy).

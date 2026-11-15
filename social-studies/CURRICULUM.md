@@ -7065,3 +7065,187 @@ all 135 new lessons are taught in 1 country (Armenia),
 book(s) (two also cite an Armenia teacher guide as
 evidence only).
 Geography lessons: 2998 → 3133.
+
+
+## Cuba — Geography expansion (merged 2026-11-15)
+383 placement lines stocked from Cuba's 25 records / 17
+distinct books (8 records are duplicate TSV-books.json
+pairs of the same book, each read once). All books are
+in Spanish. The placements file's per-book tallies sum
+to exactly 383, matching the placement-line count book
+by book, and its existing/NEW split (227/156) agrees
+with the line flags (227 existing-flagged / 156
+NEW-flagged, 51 distinct NEW slugs) — no discrepancy.
+By lesson dir, 240 placements land in 96 standing
+lessons and 143 in the 47 new lessons. Four NEW-flagged
+slugs already stand as lessons
+(the-land-and-air/africa-a-regional-study, 2
+placements; the-land-and-air/brazil-a-country-study, 3;
+the-land-and-air/regional-geography-studying-the-world-region-by-region,
+7; the-land-and-air/the-water-cycle, 1 — 13 placements
+in all) and their placements are stocked there, not
+rebuilt. Forty-three placements are remapped from 17
+existing-flagged slugs that do not stand to the closest
+standing lesson covering the thing (original slug
+recorded in each provenance row):
+culture-and-work/primary-activities-farming-the-land ->
+culture-and-work/primary-activities-agriculture (4);
+culture-and-work/secondary-activities ->
+culture-and-work/secondary-activities-modern-light-and-heavy-industry
+(4);
+culture-and-work/tertiary-and-quaternary-activities ->
+culture-and-work/tertiary-activities-services-transport-tourism
+(5); first-steps/drawing-your-own-map-a-sketch-map ->
+the-land-and-air/drawing-a-sketch-map (1);
+first-steps/my-locality-where-i-live ->
+the-land-and-air/studying-my-own-locality (1);
+global-issues/when-nature-strikes-hurricanes-and-volcanoes
+-> global-issues/tropical-cyclones-as-natural-hazards
+(4);
+people-and-resources/resources-that-run-out-and-resources-that-renew
+->
+people-and-resources/renewable-non-renewable-and-using-sustainably
+(1);
+population-transport-and-maps/direction-and-bearing-compass-points
+-> the-land-and-air/compass-points-direction-on-a-map
+(1);
+population-transport-and-maps/maps-and-globes-latitude
+(2), maps-and-globes-longitude (2) and
+maps-and-globes-the-map-grid (2) ->
+population-transport-and-maps/maps-and-globes-latitude-and-longitude;
+population-transport-and-maps/maps-and-globes-scale-and-measuring-distance
+-> the-land-and-air/map-work-measuring-distance (3);
+population-transport-and-maps/political-maps-and-boundaries
+->
+population-transport-and-maps/political-map-of-the-world
+(6);
+population-transport-and-maps/transport-networks-nodes-and-links
+->
+population-transport-and-maps/national-transport-systems-compared
+(2);
+population-transport-and-maps/using-map-indexes-and-gazetteers
+->
+population-transport-and-maps/maps-and-globes-reading-a-maps-margins
+(2);
+resources-and-conflict/land-degradation-when-soil-wears-out
+->
+resources-and-conflict/holding-the-soil-conservation-toolkit
+(1);
+the-land-and-air/reading-and-drawing-climate-graphs ->
+the-land-and-air/climographs-reading-a-places-climate
+(2). Books 1-5 are MINED Programa curriculum
+programmes, filed RECORD-ONLY per the placements file's
+scope rule (0 placements; their full unit structures
+are named in their headers) — the taught content is
+placed from the matching student books and workbooks.
+Three books are Orientaciones metodologicas teacher
+guides (Books 6, 8 and 10; 93 placements), cited as
+teacher-guide evidence only, outside acceptance counts;
+every destination takes at least one
+student-book/workbook placement except 15 standing
+lessons that take 1 teacher-guide placement each only —
+Cuba is added to their countries lines and named there
+as teacher-guide evidence only, count unchanged. No new
+lesson is teacher-only. Cuba's own way: Geography is
+taught as one integrated Man-Earth science — Grade 5
+opens with the planet as a whole (globe and map skills
+first, then the Universe and the Earth's four spheres);
+Grade 6 is the home country whole, then region by
+region, then the learner's own locality; Grade 7 is
+physical geography sphere by sphere, every sphere
+closing on rational use and sustainability; Grade 8 is
+world economic and social geography (political map,
+population, resources, production), every unit closing
+with a practical tied to the learner's own
+municipality, with Cuba as the comparison case; Grade 9
+systematises the home country (archipelago, nature,
+economic panorama, social development, environment,
+regions, provinces and municipalities); Grade 11 is the
+regional capstone — continents studied with one fixed
+plan tipo (situation, physical character,
+socio-economic character, regions, political map,
+selected country studies); the workbooks are pure map
+practice, nearly every activity done on an outline map.
+Stocked into standing lessons (240 placements across 96
+lessons). 47 NEW lessons built (143 placements) —
+**First Steps**: How Geography Grew From Ancient Maps
+To A Science (printed p. 2; printed p. 8; printed p.
+1); **Earth and Space**: The International Date Line
+(printed p. 44), The Moon Phases And Its Influence On
+Life (printed p. 51; printed p. 71; printed p. 51);
+**The Land and Air**: Air Masses And Weather Fronts
+(printed p. 131; printed p. 34; printed p. 9; printed
+p. 39; printed p. 66), Air Pressure And Its Geographic
+Distribution (printed p. 116), Algeria A Country Study
+(printed p. 35), Anglo America A Regional Study
+(printed p. 94; printed p. 106; printed p. 236; printed
+p. 29), Angola A Country Study (printed p. 70; printed
+p. 167), Antarctica The Frozen Continent (printed p.
+90; printed p. 197), Australia And Oceania A Regional
+Study (printed p. 90; printed p. 184), Bolivia A
+Country Study (printed p. 36), China A Country Study
+(printed p. 35; printed p. 107; printed p. 38), Coasts
+And Coastal Features (printed p. 25; printed p. 7;
+printed p. 26; printed p. 47), Cuba The Archipelago A
+Home Country Study (printed p. 146; printed p. 146;
+printed p. 326; printed p. 332; printed p. 346; printed
+p. 376; printed p. 406; printed p. 15; printed p. 6;
+printed p. 1; printed p. 6; printed p. 9; printed p.
+16; printed p. 44), Cuba's Central Region (printed p.
+264), Cuba's Occidental Central Region (printed p. 84;
+printed p. 91; printed p. 17; printed p. 20; printed p.
+254), Cuba's Oriental Region (printed p. 103; printed
+p. 112; printed p. 24; printed p. 271), Cuba's
+Provinces And Their Capitals (printed p. 19; printed p.
+46), Egypt A Country Study (printed p. 70; printed p.
+158), Eurasia A Regional Study (printed p. 35; printed
+p. 20), France A Country Study (printed p. 35; printed
+p. 89; printed p. 40), India A Country Study (printed
+p. 41), Karst Landscapes Caves And Sinkholes (printed
+p. 24; printed p. 43), Latin America And The Caribbean
+A Regional Study (printed p. 78; printed p. 106;
+printed p. 244; printed p. 24), Mexico A Country Study
+(printed p. 106; printed p. 281), Russia A Country
+Study (printed p. 35; printed p. 98; printed p. 42),
+South Africa A Country Study (printed p. 70; printed p.
+176; printed p. 43), South And East Asia A Regional
+Study (printed p. 130; printed p. 35; printed p. 64;
+printed p. 34), Southern Africa A Regional Study
+(printed p. 102), Sub Saharan Africa A Regional Study
+(printed p. 137; printed p. 30), The Americas A
+Regional Study (printed p. 203), The Middle East A
+Regional Study (printed p. 115; printed p. 35; printed
+p. 52; printed p. 33), The United States A Country
+Study (printed p. 106; printed p. 269; printed p. 39),
+Venezuela A Country Study (printed p. 106; printed p.
+291), Western Europe A Regional Study (printed p. 122;
+printed p. 35; printed p. 41; printed p. 32), Wind
+Origin Trade Winds And Local Winds (printed p. 73;
+printed p. 116; printed p. 120; printed p. 73);
+**Population, Transport and Maps**: Communications From
+Post To Satellites (printed p. 69; printed p. 81),
+Cuba's Population Composition Growth And Distribution
+(printed p. 400; printed p. 45; printed p. 13; printed
+p. 93; printed p. 224), How The World Political Map
+Changes (printed p. 132; printed p. 41; printed p. 1;
+printed p. 6; printed p. 14; printed p. 17; printed p.
+18; printed p. 78; printed p. 153; printed p. 265);
+**People and Resources**: Energy Resources And
+Renewable Energy Sources (printed p. 55; printed p. 22;
+printed p. 88; printed p. 133), Fishing And The Insular
+Shelf (printed p. 30; printed p. 7); **Culture and
+Work**: Cuba's Foreign Trade And Its Geographic
+Orientation (printed p. 418; printed p. 86; printed p.
+219), Primary Activities Livestock Raising (printed p.
+67; printed p. 49; printed p. 55; printed p. 68;
+printed p. 170); **Global Issues**: Cuba's Tarea Vida
+State Plan Against Climate Change (printed p. 126;
+printed p. 227; printed p. 83; printed p. 133), El Niño
+When The Pacific Warms (printed p. 125), Human
+Development Measuring A Good Life (printed p. 250),
+Wind Energy And Sustainable Development (printed p.
+130) — all 47 new lessons are taught in 1 country
+(Cuba), 8 questions each, each standing on Cuba student
+book(s)/workbook(s) (24 of them also cite a Cuba
+teacher guide as evidence only).
+Geography lessons: 3133 → 3180.

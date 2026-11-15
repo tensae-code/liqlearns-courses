@@ -1,6 +1,6 @@
 # Sources — Small Bodies and the Morning Star
 
-countries: Ethiopia, India, Syria, Sri Lanka, Kuwait, Jordan, Nicaragua
+countries: Ethiopia, India, Syria, Sri Lanka, Kuwait, Jordan, Nicaragua, Cuba
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page - 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, India, Syria, Sri Lanka, Kuwait, Jordan, Nicaragua
 
 **Book 8:** *Estudios Sociales 3 (Libro de Texto)* (student book, Spanish) — Ministerio de Educación (MINED), Nicaragua; year 2016 (Edición 2016); ISBN no ISBN printed. Title as printed: Estudios Sociales 3 (Libro de Texto). Grade: Grade 3 (student/teacher: STUDENT). PDF pages: 118 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nicaragua-placements.md.
 
+**Book 9:** *Geografía, quinto grado* (student book, Spanish) — Editorial Pueblo y Educación / Ministerio de Educación, Cuba; year 2024; ISBN 978-959-13-4717-6 (print) / 978-959-13-4718-3 (digital). Title as printed: Geografía, quinto grado. Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 174 (cover/title page verified against the record title; grabbed via grab.py release-asset route, 7,092,429 bytes; the duplicate TSV↔books.json pair is the same book, read once; full text read via pdftotext -layout). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Comets, meteors and asteroids | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 1, printed p. 10 |
@@ -29,8 +31,9 @@ countries: Ethiopia, India, Syria, Sri Lanka, Kuwait, Jordan, Nicaragua
 | Kuwait part — Part Two, Chapter 1: meteors are rocky or metallic bodies that burn against the air on entering Earth's atmosphere, rising in heat with speed until they show as lines of light and vanish; meteorites are the large solid iron-stone pieces that pierce the atmosphere and crash onto the surface, sometimes cutting great craters; a comet is a dark body whose nucleus of frozen gases — ammonia, methane, ice — wears a glowing cloud, and near the Sun grows a tail millions of kilometres long | Kuwait, *Kuwait Grade 11 Geography Principles G11 T1*, Part Two, Chapter 1: meteors are rocky or metallic bodies that burn against the air on entering Earth's atmosphere, rising in heat with speed until they show as lines of light and vanish; meteorites are the large solid iron-stone pieces that pierce the atmosphere and crash onto the surface, sometimes cutting great craters; a comet is a dark body whose nucleus of frozen gases — ammonia, methane, ice — wears a glowing cloud, and near the Sun grows a tail millions of kilometres long — printed p. 48 |
 | Jordan part — Unit 3 Enrichment: Comets (المذنبات) | Jordan, *Jordan G9 ES T2*, Unit 3 Enrichment: Comets (المذنبات) — printed p. 27 |
 | Nicaragua part — Conociendo la Luna y su influencia en la vida diaria | Nicaragua, *Nicaragua Grade 3 Estudios Sociales G3*, Conociendo la Luna y su influencia en la vida diaria — printed p. 29 |
+| Cuba part — Capítulo 3 ep. 3.1–3.2 Cuerpos menores del Sistema solar: asteroides, meteoritos y cometas | Cuba, *Cuba Grade 5 Geografía G5*, Capítulo 3 ep. 3.1–3.2 Cuerpos menores del Sistema solar: asteroides, meteoritos y cometas — printed p. 55 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, India, Syria, Sri Lanka, Kuwait, Jordan, Nicaragua).**
+**Acceptance count: taught in 8 countries (Ethiopia, India, Syria, Sri Lanka, Kuwait, Jordan, Nicaragua, Cuba).**
 
 The Kirubel story is taught as a plot summary only; no text of the book is transcribed.
 
@@ -49,3 +52,5 @@ Kuwait's own way (Kuwait Grade 11 Geography Principles G11 T1): Geography is tau
 Jordan's own way (Jordan G9 ES T2): Term 2 runs solar system, then solid waste — Jordan generates 2.7 million tons a year — then the atmosphere and its heating.
 
 Nicaragua's own way (Nicaragua Grade 3 Estudios Sociales G3): The first formal Geography course in the set: Units I–II teach what Geography is, map types, scale, orientation and the Earth, then every later unit works at three nested scales — comunidad, municipio, departamento — ending with Nicaragua's three regions, its volcanic chain and a Köppen climate map of the country. Non-Geography parts named, not placed: Unit VI municipality origins, customs and citizen participation (printed pp. 72–80, History/Civics, except the geography-influence topic placed below); Unit VII first settlers' history and culture (printed pp. 82–93, History); Unit VIII historical celebrations and heroes (printed pp. 94–109, History).
+
+Cuba's own way (Cuba Grade 5 Geografía G5): The first Geography book a Cuban child meets opens with the history of geography itself (cuneiform maps, Hecataeus), builds all map skills before any content, and ends the planet tour with world population, the world political map and world heritage — with Cuba's own places (Llanura del Cauto, Trinidad) woven in as examples throughout.

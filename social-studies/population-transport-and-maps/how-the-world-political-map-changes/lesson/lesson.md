@@ -1,0 +1,28 @@
+# How The World Political Map Changes
+
+## Do it first
+
+Before you read on, say in your mind what you already think this is about: Materiales complementarios: el dominio del mapa político del mundo — cambios con casos (Congo, Belarús, estados sucesores de Yugoslavia); Unidad 2 Cambios en el mapa político del mundo desde 1940 y el desarrollo desigual de los países; Capítulo 1 El espacio geográfico latinoamericano antes y después de la primera independencia; Capítulo 1 Principales cambios en el mapa político del mundo en el siglo XX: antes y después de la Primera Guerra Mundial; Capítulo 1 El espacio geográfico del mundo después de la Segunda Guerra Mundial; Capítulo 1 La década del sesenta: desintegración de los imperios coloniales y nacimiento de nuevos estados; Capítulo 1 La década del noventa: desintegración e integración de países; Capítulo 2 ep. 2.5 Cambios en el mapa político de Eurasia a partir del siglo XX; Capítulo 3 ep. 3.5 Cambios en el mapa político de África a partir del siglo XX; Capítulo 5 ep. 5.6 Cambios en el mapa político de las Américas a partir del siglo XX — as Cuba's book teaches it. Hold your idea; the lesson will test it.
+
+## Sub lesson 1 — How The World Political Map Changes
+
+Cuba's book, the *Cuba Grade 5 OM Geografía G5* (printed p. 132), teaches: Materiales complementarios: el dominio del mapa político del mundo — cambios con casos (Congo, Belarús, estados sucesores de Yugoslavia). (teacher guide — evidence) Cuba's book, the *Cuba Grade 8 OM Geografía Económica y Social G8* (printed p. 41), teaches: Unidad 2 Cambios en el mapa político del mundo desde 1940 y el desarrollo desigual de los países. (teacher guide — evidence) Cuba's book, the *Cuba Grade 8 Geografía 2 G8* (printed p. 1), teaches: Capítulo 1 El espacio geográfico latinoamericano antes y después de la primera independencia. Cuba's book, the *Cuba Grade 8 Geografía 2 G8* (printed p. 6), teaches: Capítulo 1 Principales cambios en el mapa político del mundo en el siglo XX: antes y después de la Primera Guerra Mundial. Cuba's book, the *Cuba Grade 8 Geografía 2 G8* (printed p. 14), teaches: Capítulo 1 El espacio geográfico del mundo después de la Segunda Guerra Mundial. Cuba's book, the *Cuba Grade 8 Geografía 2 G8* (printed p. 17), teaches: Capítulo 1 La década del sesenta: desintegración de los imperios coloniales y nacimiento de nuevos estados. Cuba's book, the *Cuba Grade 8 Geografía 2 G8* (printed p. 18), teaches: Capítulo 1 La década del noventa: desintegración e integración de países. Cuba's book, the *Cuba Grade 11 Geografía Regional G11* (printed p. 78), teaches: Capítulo 2 ep. 2.5 Cambios en el mapa político de Eurasia a partir del siglo XX. Cuba's book, the *Cuba Grade 11 Geografía Regional G11* (printed p. 153), teaches: Capítulo 3 ep. 3.5 Cambios en el mapa político de África a partir del siglo XX. Cuba's book, the *Cuba Grade 11 Geografía Regional G11* (printed p. 265), teaches: Capítulo 5 ep. 5.6 Cambios en el mapa político de las Américas a partir del siglo XX. This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
+
+## Sub lesson 2 — Cuba's way — the book's own teaching way
+
+Cuba's own way (Cuba Grade 5 OM Geografía G5) (teacher guide — evidence): The teacher guide teaches the same four units as the programme/student book but adds Cuba-specific complementary materials no other country set carries: the Tarea Vida state climate-change plan as classroom content, project-based-learning orientation, and a long section on mastering the changing world political map through country cases (Congo, Belarus, the Yugoslav successor states). That book is a teacher guide, cited as evidence only; Cuba is counted in this lesson for its student book(s) named here, not for this guide.
+
+Cuba's own way (Cuba Grade 8 OM Geografía Económica y Social G8) (teacher guide — evidence): The guide's distinctive Cuban layer is territorial identity — learners characterise their own municipality's resources and the environmental problems of its economic sectors, and the world material (political map, population, resources, production) is always closed by comparison with Cuba. That book is a teacher guide, cited as evidence only; Cuba is counted in this lesson for its student book(s) named here, not for this guide.
+
+Cuba's own way (Cuba Grade 8 Geografía 2 G8): This older edition teaches world economic geography as a story — first the political map's dynamics through history (colonial empires, independences, 1914, post-1945, the 1960s, the 1990s), then resources, then production, and it closes with full regional studies; Latin America is studied first and in most depth, and every world topic is measured against Cuba's own sugar, tobacco, nickel and trade.
+
+Cuba's own way (Cuba Grade 11 Geografía Regional G11): The capstone of Cuban school geography: five continents studied with one fixed plan (situation → physical character → socio-economic character → regions → political-map changes → countries-and-capitals → deep country monographs), then a full closing chapter on the Cuban archipelago longer than any continent chapter — the world tour exists to bring the learner home with the tools to characterise their own country. This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
+
+## Say it to your companion
+
+Explain this lesson to your companion in your own words. Your companion asks you one hard question about it — answer from the lesson.
+
+## Do It Yourself
+
+1. The book's topic: do the activity in hands-on.md under this name.
+2. Cuba's way: do the activity in hands-on.md under this name.

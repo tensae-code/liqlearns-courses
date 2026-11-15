@@ -1,6 +1,6 @@
 # Sources — Time Zones and the Date Line
 
-countries: Ethiopia, Barbados, Haiti, Indonesia, Dominican Republic, India, Rwanda, Vietnam, Uganda, Sri Lanka, Kuwait, Afghanistan, Yemen, Pakistan, Libya, Mozambique, Nicaragua, Bhutan
+countries: Ethiopia, Barbados, Haiti, Indonesia, Dominican Republic, India, Rwanda, Vietnam, Uganda, Sri Lanka, Kuwait, Afghanistan, Yemen, Pakistan, Libya, Mozambique, Nicaragua, Bhutan, Cuba
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page - 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md.
 
@@ -52,6 +52,8 @@ countries: Ethiopia, Barbados, Haiti, Indonesia, Dominican Republic, India, Rwan
 
 **Book 25:** *An Introduction to GEOGRAPHY Class VIII* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Royal Government of Bhutan, Thimphu; year Provisional Edition 2019, Copyright 2023, Reprint 2024; ISBN no ISBN printed. Title as printed: An Introduction to GEOGRAPHY Class VIII. Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 120 (cover/title page verified against the record title; byte size 9,992,518 and page count match the books.json record exactly — read via the record's ministry source URL). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
 
+**Book 26:** *Geografía Física, séptimo grado* (student book, Spanish) — Editorial Pueblo y Educación, Cuba; year 2023; ISBN 978-959-13-4069-6 (print) / 978-959-13-4330-7 (digital). Title as printed: Geografía Física, séptimo grado. Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 239 (cover/title page verified against the record title; grabbed via grab.py release-asset route, 39,829,077 bytes; the duplicate TSV↔books.json pair is the same book, read once; full text read via pdftotext -layout; structure and printed pages from the book's Índice). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Why the world needed zones | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 1, printed pp. 23–24 |
@@ -81,8 +83,9 @@ countries: Ethiopia, Barbados, Haiti, Indonesia, Dominican Republic, India, Rwan
 | Nicaragua part — Huso horario | Nicaragua, *Nicaragua Grade 9 CCSS Geografía Módulo G9*, Huso horario — printed p. 23 |
 | Bhutan part — Ch.3 3.4 Finding Time | Bhutan, *Bhutan Grade 7 Geography*, Ch.3 3.4 Finding Time — printed p. 11 |
 | Bhutan part — Ch.2 2.3 Time Zone | Bhutan, *Bhutan Grade 8 Geography*, Ch.2 2.3 Time Zone — printed p. 8 |
+| Cuba part — Capítulo 3 Los husos horarios y su importancia | Cuba, *Cuba Grade 7 Geografía Física G7*, Capítulo 3 Los husos horarios y su importancia — printed p. 41 |
 
-**Acceptance count: taught in 17 countries (Ethiopia, Barbados, Indonesia, Dominican Republic, India, Rwanda, Vietnam, Uganda, Sri Lanka, Kuwait, Afghanistan, Yemen, Pakistan, Libya, Mozambique, Nicaragua, Bhutan). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 18 countries (Ethiopia, Barbados, Indonesia, Dominican Republic, India, Rwanda, Vietnam, Uganda, Sri Lanka, Kuwait, Afghanistan, Yemen, Pakistan, Libya, Mozambique, Nicaragua, Bhutan, Cuba). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
 
 Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -135,3 +138,5 @@ Nicaragua's own way (Nicaragua Grade 9 CCSS Geografía Módulo G9): A pure-Geogr
 Bhutan's own way (Bhutan Grade 7 Geography): From Class VII Geography becomes a standalone subject organised in three strands (Time and Space; Physical Environment; People and Environment), every world topic closed with its Bhutan case — climate of Bhutan, vegetation types of Bhutan, minerals of Bhutan, and Bhutan's Himalayan disaster set (earthquake, flood, windstorm, fire, GLOF).
 
 Bhutan's own way (Bhutan Grade 8 Geography): Class VIII deepens the same three strands with real map-work (scale conversion, grid references, contours and profiles) and Bhutan-specific hazard and resource content, including the Rubesa wind turbine and hydroelectric dams as national resource examples.
+
+Cuba's own way (Cuba Grade 7 Geografía Física G7): Physical geography is taught sphere by sphere (lithosphere → atmosphere → hydrosphere → biosphere) but every sphere chapter closes on rational use and sustainability — wind energy, rational water use, soil protection — and Cuban evidence runs through it (Cuba's forest cover fell from ~95 % at the Spanish arrival to 16 % by 1959 and was recovered by policy).

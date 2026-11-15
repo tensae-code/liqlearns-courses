@@ -1,6 +1,6 @@
 # Sources — The Earth's Story in Four Eras
 
-countries: Ethiopia, Bolivia, North Macedonia, Mozambique, Armenia
+countries: Ethiopia, Bolivia, North Macedonia, Mozambique, Armenia, Cuba
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page - 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md.
 
@@ -14,6 +14,10 @@ countries: Ethiopia, Bolivia, North Macedonia, Mozambique, Armenia
 
 **Book 6:** *Աշխարհագրություն — Դասագիրք 7-րդ դասարանի համար (Geography, textbook for grade 7)* (student book, Armenian) — «Աստղիկ Գրատուն» (Astghik Gratun), Yerevan; year 2023; ISBN 978-9939-74-142-0. Authors: T. Vardanyan, A. Potosyan, V. Asatryan, L. Hakobyan. Title as printed: Աշխարհագրություն — Դասագիրք 7-րդ դասարանի համար (Geography, textbook for grade 7). Grade: 7 (student/teacher: STUDENT). PDF pages: 176 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). The book's legacy-font text layer was decoded with the standard Armenian font-encoding table and verified against its printed contents page. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
 
+**Book 7:** *Geografía Física, séptimo grado* (student book, Spanish) — Editorial Pueblo y Educación, Cuba; year 2023; ISBN 978-959-13-4069-6 (print) / 978-959-13-4330-7 (digital). Title as printed: Geografía Física, séptimo grado. Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 239 (cover/title page verified against the record title; grabbed via grab.py release-asset route, 39,829,077 bytes; the duplicate TSV↔books.json pair is the same book, read once; full text read via pdftotext -layout; structure and printed pages from the book's Índice). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
+
+**Book 8:** *Geografía de Cuba, sexto grado* (student book, Spanish) — Editorial Pueblo y Educación, Cuba; segunda edición corregida y aumentada 2002, oncena reimpresión 2019; ISBN 978-959-13-0835-1. Title as printed: Geografía de Cuba, sexto grado. Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 127 (image-only scan — no text layer; fetched via a resumable Contents-API raw download after grab.py's blob route cut twice, 21,973,328 bytes, git blob SHA-1 verified; read in full from 100-DPI 4-up contact sheets, all 127 pages; cover/title page verified against the record title; printed pagination runs to p. 119 + Vocabulario). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — the four eras | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 1, printed pp. 13–14 |
@@ -22,8 +26,10 @@ countries: Ethiopia, Bolivia, North Macedonia, Mozambique, Armenia
 | North Macedonia part (Grade 10 mk-g10) — Тема 1 Литосфера, 1. Геолошка еволуција на Земјата | North Macedonia, *North Macedonia Grade 10 mk-g10*, Тема 1 Литосфера, 1. Геолошка еволуција на Земјата — printed p. 6 |
 | Mozambique part — Lição 6: Geologia (formation of Mozambique's geological structure by internal geodynamics) | Mozambique, *Mozambique Grade 7 PESD I Mod 3*, Lição 6: Geologia (formation of Mozambique's geological structure by internal geodynamics) — printed p. 30 |
 | Armenia part — Lesson 2.2 Geological eras | Armenia, *Armenia Grade 7 Geography student*, Lesson 2.2 Geological eras — printed p. 31 |
+| Cuba part — Capítulo 4 Evolución geológica de la Tierra | Cuba, *Cuba Grade 7 Geografía Física G7*, Capítulo 4 Evolución geológica de la Tierra — printed p. 56 |
+| Cuba part — Capítulo 2 Configuración de Cuba: la evolución geológica del archipiélago por eras y períodos | Cuba, *Cuba Grade 6 Geografía de Cuba G6*, Capítulo 2 Configuración de Cuba: la evolución geológica del archipiélago por eras y períodos — printed p. 19 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Bolivia, North Macedonia, Mozambique, Armenia).**
+**Acceptance count: taught in 6 countries (Ethiopia, Bolivia, North Macedonia, Mozambique, Armenia, Cuba).**
 
 No book errors are flagged by the placements for these pages.
 
@@ -38,3 +44,7 @@ North Macedonia's own way (Grade 10 mk-g10): the gymnasium course restarts Geogr
 Mozambique's own way (Mozambique Grade 7 PESD I Mod 3): after world/economic geography in Modules 1–2, Module 3 turns to Mozambique itself as a complete regional study — cities, then the country's location, coast, geology, minerals, soils, relief, climate, plant and animal geography, hydrography — and closes with Southern Africa and Mozambique's SADC integration.
 
 Armenia's own way (Armenia Grade 7 Geography student): opens school geography with the geographic map itself (plan, scale, azimuth, projections) before any Earth science, and runs every theme to a summary lesson plus practical work; world economy is taught branch by branch with Armenia (ՀՀ) used as the worked example in the closing questions.
+
+Cuba's own way (Cuba Grade 7 Geografía Física G7): Physical geography is taught sphere by sphere (lithosphere → atmosphere → hydrosphere → biosphere) but every sphere chapter closes on rational use and sustainability — wind energy, rational water use, soil protection — and Cuban evidence runs through it (Cuba's forest cover fell from ~95 % at the Spanish arrival to 16 % by 1959 and was recovered by policy).
+
+Cuba's own way (Cuba Grade 6 Geografía de Cuba G6): The child's first geography book is the home country itself — one chapter of tools (coordinates, orientation, scale), then Cuba whole (situation, relief, coasts, climate, population, economy), then its two great regions landscape by landscape; the political-administrative division taught is the pre-2011 one (Ciudad de La Habana appears as a province), and History episodes woven into the regional chapters (the Santa Clara battle, the Granma landing) are named here but not placed — they belong to the History course.

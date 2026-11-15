@@ -1,6 +1,6 @@
 # Sources — The Solar System — the Sun and the Planets
 
-countries: Ethiopia, Haiti, Jamaica, Angola, Bahamas, India, Cambodia, Sudan, Syria, Venezuela, Sri Lanka, Mauritania, Kuwait, Afghanistan, Yemen, Libya, Nepal, Mozambique, Jordan, Nicaragua, Bhutan
+countries: Ethiopia, Haiti, Jamaica, Angola, Bahamas, India, Cambodia, Sudan, Syria, Venezuela, Sri Lanka, Mauritania, Kuwait, Afghanistan, Yemen, Libya, Nepal, Mozambique, Jordan, Nicaragua, Bhutan, Cuba
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page - 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md.
 
@@ -62,6 +62,10 @@ countries: Ethiopia, Haiti, Jamaica, Angola, Bahamas, India, Cambodia, Sudan, Sy
 
 **Book 30:** *AN INTRODUCTION TO GEOGRAPHY CLASS VII* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Royal Government of Bhutan, Thimphu; year Provisional edition 2018, Copyright 2023, Reprint 2024; ISBN 975-99936-0-455-8 (as printed). Title as printed: AN INTRODUCTION TO GEOGRAPHY CLASS VII. Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 86 (cover/title page verified against the record title; byte size 5,663,043 and page count match the books.json record exactly — read via the record's ministry source URL after the grab.py route proved unreliable for this group). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
 
+**Book 31:** *Orientaciones metodológicas — Geografía, quinto grado* (teacher guide, Spanish) — Editorial Pueblo y Educación / Ministerio de Educación, Cuba; year 2024; ISBN 978-959-13-4693-3 (print) / 978-959-13-4694-0 (digital). Title as printed: Orientaciones metodológicas — Geografía, quinto grado. Grade: Grade 5 (student/teacher: TEACHER). PDF pages: 150 (cover/title page verified against the record title; grabbed via grab.py tree route, 816,401 bytes). Verdict: COMPLETE. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
+
+**Book 32:** *Geografía, quinto grado* (student book, Spanish) — Editorial Pueblo y Educación / Ministerio de Educación, Cuba; year 2024; ISBN 978-959-13-4717-6 (print) / 978-959-13-4718-3 (digital). Title as printed: Geografía, quinto grado. Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 174 (cover/title page verified against the record title; grabbed via grab.py release-asset route, 7,092,429 bytes; the duplicate TSV↔books.json pair is the same book, read once; full text read via pdftotext -layout). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The Sun: the star at the centre | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 1, printed pp. 7–8 |
@@ -100,8 +104,10 @@ countries: Ethiopia, Haiti, Jamaica, Angola, Bahamas, India, Cambodia, Sudan, Sy
 | Nicaragua part — El sistema solar; la Luna y su relación con la Tierra | Nicaragua, *Nicaragua Grade 4 Estudios Sociales G4*, El sistema solar; la Luna y su relación con la Tierra — printed p. 33 |
 | Bhutan part — 1.1 The Solar System | Bhutan, *Bhutan Grade 6 Social Studies*, 1.1 The Solar System — printed p. 2 |
 | Bhutan part — Ch.2 2.2 Solar System | Bhutan, *Bhutan Grade 7 Geography*, Ch.2 2.2 Solar System — printed p. 5 |
+| Cuba part — Unidad 3 El Sistema solar: los planetas (teacher guide — evidence) | Cuba, *Cuba Grade 5 OM Geografía G5* (teacher guide), Unidad 3 El Sistema solar: los planetas — printed p. 51 |
+| Cuba part — Capítulo 3 ep. 3.2 El Sistema solar: los planetas y su clasificación | Cuba, *Cuba Grade 5 Geografía G5*, Capítulo 3 ep. 3.2 El Sistema solar: los planetas y su clasificación — printed p. 55 |
 
-**Acceptance count: taught in 18 countries (Ethiopia, Angola, Bahamas, India, Cambodia, Sudan, Syria, Venezuela, Sri Lanka, Mauritania, Kuwait, Afghanistan, Yemen, Libya, Mozambique, Jordan, Nicaragua, Bhutan). Haiti is named here as teacher-sequence evidence only, counted nowhere. Jamaica is named here as curriculum-guide evidence only, counted nowhere. Nepal is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 19 countries (Ethiopia, Angola, Bahamas, India, Cambodia, Sudan, Syria, Venezuela, Sri Lanka, Mauritania, Kuwait, Afghanistan, Yemen, Libya, Mozambique, Jordan, Nicaragua, Bhutan, Cuba). Haiti is named here as teacher-sequence evidence only, counted nowhere. Jamaica is named here as curriculum-guide evidence only, counted nowhere. Nepal is named here as teacher-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grade 4 Exploratory Core, curriculum guide — evidence): Social Studies is one of four subjects fused into a single Exploratory Core guide, organised by four attainment themes; Geography enters through Jamaica itself — Taino settlement maps, cardinal points, Jamaica's physical features, parishes, weather and the Earth in the Solar System — always with hands-on map and model work. That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 Jamaica's own way (Grade 5 Exploratory Core, curriculum guide — evidence): Grade 5 Social Studies pairs a heritage year (Europeans and Africans, national heroes, Caribbean culture) with a physical-environment year — erosion, locating Jamaica and the Caribbean by compass and latitude/longitude, types of rainfall, the Solar System, plants and water pollution. That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
@@ -163,3 +169,7 @@ Nicaragua's own way (Nicaragua Grade 4 Estudios Sociales G4): Units I–V are a 
 Bhutan's own way (Bhutan Grade 6 Social Studies): Grade 6 turns to Bhutan's own climate zones, population and signature environment topics — hydropower, urbanisation and glacial lake outburst floods (GLOF) — a hazard set specific to a Himalayan kingdom.
 
 Bhutan's own way (Bhutan Grade 7 Geography): From Class VII Geography becomes a standalone subject organised in three strands (Time and Space; Physical Environment; People and Environment), every world topic closed with its Bhutan case — climate of Bhutan, vegetation types of Bhutan, minerals of Bhutan, and Bhutan's Himalayan disaster set (earthquake, flood, windstorm, fire, GLOF).
+
+Cuba's own way (Cuba Grade 5 OM Geografía G5) (teacher guide — evidence): The teacher guide teaches the same four units as the programme/student book but adds Cuba-specific complementary materials no other country set carries: the Tarea Vida state climate-change plan as classroom content, project-based-learning orientation, and a long section on mastering the changing world political map through country cases (Congo, Belarus, the Yugoslav successor states). That evidence is stocked here as the way Cuba teaches this thing; it is cited as evidence only — Cuba is counted in this lesson through its student book(s).
+
+Cuba's own way (Cuba Grade 5 Geografía G5): The first Geography book a Cuban child meets opens with the history of geography itself (cuneiform maps, Hecataeus), builds all map skills before any content, and ends the planet tour with world population, the world political map and world heritage — with Cuba's own places (Llanura del Cauto, Trinidad) woven in as examples throughout.
