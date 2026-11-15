@@ -1,6 +1,6 @@
 # Sources — Napoleon — reformer, conqueror, fallen
 
-countries: Ethiopia
+countries: Ethiopia, Belarus
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under GEQIP-E, ISBN 978-99990-0-066-6. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -56,3 +56,18 @@ History fix note (2026-11-12): the History coverage audit found this lesson's co
 Iceland's own way: a Norwegian textbook re-rooted in Iceland — every world chapter is doubled with Icelandic source work: the 1703 census, tenant farmers and servants under the vistarband, Jørgen Jørgensen's 1809 coup, emigration to Canada, Jón Sigurðsson, the Spanish flu and the road to the 1944 republic; pupils judge sources, role-play strikes and suffrage debates, and keep asking "was Iceland a colony?" That way is stocked here as the way Iceland teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 1 country (Ethiopia) — unchanged; the Iceland placement above is teacher-guide evidence only, counted nowhere. Iceland is not added to this lesson's countries line.**
+
+---
+
+## History expansion (2026-11-15) — Belarus stocked
+
+**Book 3:** *Контурныя карты. Гісторыя Беларусі. Канец XVIII — пачатак XX ст. (Outline Maps: History of Belarus, end of the 18th — beginning of the 20th century)* (student book, Belarusian) — Belarus. Title as printed: Контурныя карты. Гісторыя Беларусі. Канец XVIII — пачатак XX ст. (Outline Maps: History of Belarus, end of the 18th — beginning of the 20th century). Grade: 9 (student/teacher: STUDENT). Publisher: RUP Belkartografia, Minsk; year 2016 (maps compiled 2007, corrected 2016; contents and practical tasks by A. M. Lukashevich, A. G. Kakhanouski); ISBN 978-985-508-364-2. PDF pages: 20 (cover verified against the record title; printed pp. 3–19 of outline maps + contents; companion workbook to the Grade 9 atlas "History of Belarus, end of XVIII — beginning of XX c.", Belkartografia 2016). Verdict: COMPLETE. Tally: 17 placements — 2 to existing lessons, 15 NEW LESSON NEEDED. Records: TSV release record (mid-size-books-7) + books.json record grade-09/gov/belarus/history/student/contour-maps.pdf — same book, counted once. Placements at liqlearns-courses-work/expansion-history-2026-11-15/belarus-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Belarus part — Outline map: Belarus during the war of 1812 — Napoleon's invasion of Russia (June–October 1812) and the expulsion of his army (October–December 1812) (exercise) (Grade 9) — story beats: pupils draw the Grande Armée's road east across Belarus and its frozen road back, marking the battles won by each side (History expansion, 2026-11-15; original placement slug: modern-world/napoleon-reformer-conqueror-fallen) | Belarus, *Contour Maps: History of Belarus, Grade 9*, printed p. 4 |
+| Belarus part — Outline map: Events of the war of 1812 on the Belarusian lands (exercise) (Grade 9) — story beats: pupils mark the GDL Provisional Government Commission in Vilnius, the French control zone and the districts where GDL regiments formed (History expansion, 2026-11-15; original placement slug: modern-world/napoleon-reformer-conqueror-fallen) | Belarus, *Contour Maps: History of Belarus, Grade 9*, printed p. 5 |
+
+Belarus's own way (Contour Maps: History of Belarus, Grade 9, Grade 9): The nineteenth century is drilled as map work — every theme of the course is an empty outline map the pupil must fill, shade and sign (mark, label, answer under the map), so the national story is learned by drawing it: partitions, invasions, uprisings, reforms and revolutions all become lines the pupil draws personally. That way is stocked here as the way Belarus teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 2 countries (Ethiopia, Belarus).** The Iceland placement above in this file stands as teacher-guide evidence only, counted nowhere, as before this stocking.

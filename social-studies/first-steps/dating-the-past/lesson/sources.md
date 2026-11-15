@@ -1,6 +1,6 @@
 # Sources — Dating the past — calendars, timelines and periods
 
-countries: Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal
+countries: Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -274,3 +274,17 @@ Non-History parts of this book, named in the placements, not placed here: The gu
 Nepal's own way (Shikshak Nirdeshika, Social Studies, Class 10 (teacher's guide), Grade 10 (teacher guide)): Grade 10's "Our Past" unit is wholly modern — the political event-chain from the 2007 BS revolution to the present, the two World Wars with Nepal's role in each, and local heritage fieldwork — and the guide teaches it through timelines, event charts, photographs, video clips and documentary film. That way is stocked here as the way Nepal teaches this thing. This book is a teacher guide: its rows stand as teacher-guide evidence only, counted nowhere in acceptance. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 11 countries (Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal).**
+
+---
+
+## History expansion (2026-11-15) — Belarus stocked
+
+**Book 5:** *Гісторыя Беларусі. Другая палова 1940-х гг. — пачатак XXI ст. (History of Belarus: second half of the 1940s — beginning of the 21st century)* (student book, Belarusian) — Belarus. Title as printed: Гісторыя Беларусі. Другая палова 1940-х гг. — пачатак XXI ст. (History of Belarus: second half of the 1940s — beginning of the 21st century). Grade: 11 (student/teacher: STUDENT). Publisher: National Institute of Education, Minsk; year 2013; ISBN 978-985-559-258-8. Authors V. M. Famin, S. V. Panou, N. M. Hanushchanka, ed. V. M. Famin. PDF pages: 232 (cover/title page verified against the record title). Verdict: COMPLETE. Tally: 28 placements — 4 to existing lessons, 24 NEW LESSON NEEDED. Records: this book is the books.json record grade-11/gov/belarus/history-belarus/student/full-year.pdf (no TSV twin). Placements at liqlearns-courses-work/expansion-history-2026-11-15/belarus-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Belarus part — Back matter: glossary of concepts, chronological table and synchronic (Belarus/world) table (Grade 11) — story beats: Belarusian dates are lined up against world dates so the national story is read inside world time (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Belarus, *History of Belarus, Grade 11 (Famin)*, printed p. 208 |
+
+Belarus's own way (History of Belarus, Grade 11 (Famin), Grade 11): The whole senior course is the national story told in three acts — war-ruined Soviet republic, industrial Soviet republic, sovereign state — with every section opening on a timeline strip and a learning task, closing with document work, a "Historical portrait" / "Cultural-historical environment" box, and local-history ("Our Region") lessons where pupils research their own town's part in each period. That way is stocked here as the way Belarus teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 12 countries (Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus).**

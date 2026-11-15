@@ -1,6 +1,6 @@
 # Sources — Scientific Revolution and Enlightenment
 
-countries: Ethiopia, France, Costa Rica, Ecuador
+countries: Ethiopia, France, Costa Rica, Ecuador, Belarus
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -57,3 +57,17 @@ Costa Rica's own way (Costa Rica Grade 9 CONED Antología): The Noveno anthology
 Ecuador's own way (Ecuador Grade 11 EC-G11): the Bachillerato Historia course runs the whole human story — evolution, river civilisations, Greece/Rome/Byzantium, faiths, pre-Columbian America, colony, revolutions, economic systems — but keeps bending it home: Ecuadorian Indigenous women, the Inca legacy and dollarised 21st-century Ecuador close the arc. That way is stocked here as the way Ecuador teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 4 countries (Ethiopia, France, Costa Rica, Ecuador).**
+
+---
+
+## History expansion (2026-11-15) — Belarus stocked
+
+**Book 2:** *Атлас. Гісторыя Беларусі. Другая палова XVI — XVIII ст. (Atlas: History of Belarus, second half of the 16th — 18th centuries)* (student book, Belarusian) — Belarus. Title as printed: Атлас. Гісторыя Беларусі. Другая палова XVI — XVIII ст. (Atlas: History of Belarus, second half of the 16th — 18th centuries). Grade: 8 (student/teacher: STUDENT). Publisher: RUP Belkartografia, Minsk; year 2016 (atlas compiled 2008; content by I. A. Audzeeu, A. V. Perzashkevich, sci. ed. P. F. Dzmitrachkou); ISBN 978-985-508-387-1. PDF pages: 28 (cover/title page verified against the record title; printed pp. 2–23 of maps + contents; printed p. 1 is the address to the reader and the legend). Verdict: COMPLETE. Tally: 22 placements — 2 to existing lessons, 20 NEW LESSON NEEDED. Records: TSV release record (mid-size-books-7) + books.json record grade-08/gov/belarus/history/student/atlas.pdf — same book, counted once. Placements at liqlearns-courses-work/expansion-history-2026-11-15/belarus-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Belarus part — The Enlightenment in Europe (Grade 8) — story beats: Voltaire, Diderot and Montesquieu preach reason and freedom from church tutelage, "enlightened" monarchs take up science, and in the GDL the Education Commission answers (History expansion, 2026-11-15; original placement slug: modern-world/scientific-revolution-and-enlightenment) | Belarus, *Atlas: History of Belarus, Grade 8*, printed p. 19 |
+
+Belarus's own way (Atlas: History of Belarus, Grade 8, Grade 8): The same paired design as the Grade 6 atlas — a narrative text and symbol-picture open each map, Belarusian-land maps alternate with Commonwealth/European-stage maps, so the Grand Duchy of Lithuania is always read as a European state, not a province. That way is stocked here as the way Belarus teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 5 countries (Ethiopia, France, Costa Rica, Ecuador, Belarus).**

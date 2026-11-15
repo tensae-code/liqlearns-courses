@@ -1,6 +1,6 @@
 # Sources — Find history in your own locality
 
-countries: Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala, Malaysia, Ecuador, Bahamas, Eritrea, Nepal
+countries: Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala, Malaysia, Ecuador, Bahamas, Eritrea, Nepal, Belarus
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -368,3 +368,18 @@ Non-History parts of this book, named in the placements, not placed here: Unit 1
 Nepal's own way (Samajik Adhyayan, Class 10, Grade 10): Grade 10 history is the modern political story told as one dated chain — the 2007 BS revolution and the Delhi Compromise, the democratic decade, the Panchayat years, the movements of 2046 and 2062/63 BS, the civil-war peace and the republic — followed by the two World Wars, each with Nepal's own role in it, and a closing fieldwork lesson on finding and preserving local historical sites. That way is stocked here as the way Nepal teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 11 countries (Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala, Malaysia, Ecuador, Bahamas, Eritrea, Nepal).**
+
+---
+
+## History expansion (2026-11-15) — Belarus stocked
+
+**Book 5:** *Гісторыя Беларусі. Другая палова 1940-х гг. — пачатак XXI ст. (History of Belarus: second half of the 1940s — beginning of the 21st century)* (student book, Belarusian) — Belarus. Title as printed: Гісторыя Беларусі. Другая палова 1940-х гг. — пачатак XXI ст. (History of Belarus: second half of the 1940s — beginning of the 21st century). Grade: 11 (student/teacher: STUDENT). Publisher: National Institute of Education, Minsk; year 2013; ISBN 978-985-559-258-8. Authors V. M. Famin, S. V. Panou, N. M. Hanushchanka, ed. V. M. Famin. PDF pages: 232 (cover/title page verified against the record title). Verdict: COMPLETE. Tally: 28 placements — 4 to existing lessons, 24 NEW LESSON NEEDED. Records: this book is the books.json record grade-11/gov/belarus/history-belarus/student/full-year.pdf (no TSV twin). Placements at liqlearns-courses-work/expansion-history-2026-11-15/belarus-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Belarus part — "Our Region" lesson after §16 (Grade 11) — story beats: pupils interview and survey their own locality to name its heroes and achievements of 1950s–1980s (History expansion, 2026-11-15; original placement slug: first-steps/find-history-in-your-own-locality) | Belarus, *History of Belarus, Grade 11 (Famin)*, printed p. 111 |
+| Belarus part — "Our Region" lesson after §§26–27 (Grade 11) — story beats: pupils build their region's brand from its historical experience at the turn of the centuries (History expansion, 2026-11-15; original placement slug: first-steps/find-history-in-your-own-locality) | Belarus, *History of Belarus, Grade 11 (Famin)*, printed p. 200 |
+
+Belarus's own way (History of Belarus, Grade 11 (Famin), Grade 11): The whole senior course is the national story told in three acts — war-ruined Soviet republic, industrial Soviet republic, sovereign state — with every section opening on a timeline strip and a learning task, closing with document work, a "Historical portrait" / "Cultural-historical environment" box, and local-history ("Our Region") lessons where pupils research their own town's part in each period. That way is stocked here as the way Belarus teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 12 countries (Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala, Malaysia, Ecuador, Bahamas, Eritrea, Nepal, Belarus).**

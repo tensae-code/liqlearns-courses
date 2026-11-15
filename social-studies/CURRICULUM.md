@@ -11301,3 +11301,175 @@ and becomes a continuous national story from Grade 6
 federal republic — taught through stories, research
 reports and then/now charts, in BS dates throughout.
 History lessons: 815 → 835.
+
+## History expansion — Belarus — built 2026-11-15
+
+56 new lessons, 444 questions. **The Ancient World** +11:
+Belarus on the map of Europe
+(ancient-world/belarus-on-the-map-of-europe),
+Belarus — Stone Age: the first people
+(ancient-world/belarus-stone-age-first-people),
+Europe in the Ice Age
+(ancient-world/europe-in-the-ice-age),
+Belarus — the Bronze Age: metal arrives
+(ancient-world/belarus-bronze-age-metal-arrives),
+The Indo-Europeans spread across Europe
+(ancient-world/indo-europeans-spread-across-europe),
+The Balts on the Belarusian lands
+(ancient-world/balts-on-belarusian-lands),
+The first Slavs on the Belarusian lands
+(ancient-world/first-slavs-on-belarusian-lands),
+Belarus — tribal unions: Krivichi, Dregovichi and Radimichi
+(ancient-world/belarus-tribal-unions-krivichi-dregovichi-radimichi),
+Polotsk and Turov — the first Belarusian principalities
+(ancient-world/polotsk-and-turov-first-belarusian-principalities),
+Belarus — the principalities fragment, 12th century
+(ancient-world/belarus-principalities-fragmentation-12th-century),
+Christianity comes to the Belarusian lands
+(ancient-world/christianity-comes-to-the-belarusian-lands),
+**The Modern World** +45:
+The Union of Lublin — the Commonwealth is born
+(modern-world/union-of-lublin-the-commonwealth-is-born),
+The Livonian War and the GDL, 1558–1583
+(modern-world/livonian-war-and-the-gdl-1558-1583),
+Reformation and the Brest Union on the Belarusian lands
+(modern-world/reformation-and-the-brest-union-on-belarusian-lands),
+The Khmelnytsky uprising reaches Belarus, 1648–1651
+(modern-world/khmelnytsky-uprising-reaches-belarus-1648-1651),
+The Commonwealth's foreign policy, 1600–1648
+(modern-world/commonwealth-foreign-policy-1600-1648),
+Belarus — the GDL in the second half of the 17th century
+(modern-world/belarus-gdl-in-the-second-half-of-the-17th-century),
+The Commonwealth's foreign policy, 1648–1699
+(modern-world/commonwealth-foreign-policy-1648-1699),
+GDL towns and trade, 16th–17th centuries
+(modern-world/gdl-towns-and-trade-16th-17th-centuries),
+Magnate estates — Radziwiłł, Sapieha, Ostrogski
+(modern-world/magnate-estates-radzivill-sapieha-ostrogski),
+Belarusian culture in the 17th century — printing and schools
+(modern-world/belarusian-culture-17th-century-printing-and-schools),
+The GDL in the first half of the 18th century
+(modern-world/gdl-in-the-first-half-of-the-18th-century),
+The Great Northern War on the Belarusian lands
+(modern-world/great-northern-war-on-the-belarusian-lands),
+The GDL in the mid-18th century
+(modern-world/gdl-in-the-mid-18th-century),
+The Commonwealth's foreign policy in the mid-18th century
+(modern-world/commonwealth-foreign-policy-in-the-mid-18th-century),
+Belarusian culture in the 18th century — palaces and schools
+(modern-world/belarusian-culture-18th-century-palaces-and-schools),
+GDL trade in the second half of the 18th century
+(modern-world/gdl-trade-in-the-second-half-of-the-18th-century),
+Manufactories on the Belarusian lands, 18th century
+(modern-world/manufactories-on-the-belarusian-lands-18th-century),
+The partitions of the Commonwealth — Belarus to Russia
+(modern-world/partitions-of-the-commonwealth-belarus-to-russia),
+The Kościuszko uprising of 1794 on the Belarusian lands
+(modern-world/kosciuszko-uprising-1794-on-belarusian-lands),
+Belarus — the gubernias after the partitions
+(modern-world/belarus-gubernias-after-the-partitions),
+The uprising of 1830–1831 on the Belarusian lands
+(modern-world/uprising-1830-1831-on-belarusian-lands),
+Belarus — economy in the first half of the 19th century
+(modern-world/belarus-economy-in-the-first-half-of-the-19th-century),
+Belarus — culture in the first half of the 19th century
+(modern-world/belarus-culture-in-the-first-half-of-the-19th-century),
+The abolition of serfdom in Belarus, 1861–1867
+(modern-world/abolition-of-serfdom-in-belarus-1861-1867),
+The Kalinowski uprising, 1863–1864, in Belarus
+(modern-world/kalinowski-uprising-1863-1864-in-belarus),
+The Stolypin reforms in Belarus
+(modern-world/stolypin-reforms-in-belarus),
+Belarus — agriculture and the peasant movement after the reform
+(modern-world/belarus-agriculture-and-peasant-movement-after-the-reform),
+Belarus — industry and the workers' movement, 1861–1914
+(modern-world/belarus-industry-and-workers-movement-1861-1914),
+Belarus — the social movement in the second half of the 19th century
+(modern-world/belarus-social-movement-in-the-second-half-of-the-19th-century),
+The revolution of 1905–1907 in Belarus
+(modern-world/revolution-1905-1907-in-belarus),
+Belarus in the First World War and February 1917
+(modern-world/belarus-in-the-first-world-war-and-february-1917),
+Belarusian culture and language, 1860s–1917
+(modern-world/belarusian-culture-and-language-1860s-1917),
+Belarus — the BSSR's postwar recovery, 1945–1953
+(modern-world/belarus-bssr-postwar-recovery-1945-1953),
+Belarus — BSSR politics and repression after the war
+(modern-world/belarus-bssr-politics-and-repression-postwar),
+Belarus — culture, education and science after the war
+(modern-world/belarus-culture-education-science-postwar),
+Belarus — the BSSR in the Thaw and reform, 1950s–1960s
+(modern-world/belarus-bssr-thaw-and-reform-1950s-1960s),
+Belarus — the BSSR in the stagnation era, 1960s–1980s
+(modern-world/belarus-bssr-stagnation-era-1960s-1980s),
+Belarus — perestroika and the road to 1991
+(modern-world/belarus-perestroika-and-the-road-to-1991),
+Belarus — culture, education and science, 1950s–1980s
+(modern-world/belarus-culture-education-science-1950s-1980s),
+Belarus — sovereignty and independence, 1990–1994
+(modern-world/belarus-sovereignty-and-independence-1990-1994),
+Belarus — political life, late 1990s–2000s
+(modern-world/belarus-political-life-late-1990s-2000s),
+Belarus — the socially oriented market model
+(modern-world/belarus-socially-oriented-market-model),
+Belarus — a multi-vector foreign policy
+(modern-world/belarus-foreign-policy-multi-vector),
+Belarus — education, science and culture in the sovereign era
+(modern-world/belarus-education-science-culture-sovereign-era),
+Belarus — results of the sovereign state
+(modern-world/belarus-sovereign-state-results).
+All 86 Belarus placements are stocked (12 into 9
+existing lessons — Find history in your own locality
+2, Heritage — what it is and why it matters 1, Dating
+the past 1, From stone tools to farming 1, The
+Reformation — Luther and Protestantism 1, Scientific
+Revolution and Enlightenment 1, Napoleon — reformer,
+conqueror, fallen 2, The Slavs settle and found Kyiv
+2, Rus-Ukraine — a state is born 1 — and 74 into the
+56 new lessons) on 4 placed books: the Grade 6 Atlas
+(History of Belarus from ancient times to the middle
+of the 13th century, RUP Belkartografia, 2017), the
+Grade 8 Atlas (History of Belarus, second half of the
+16th — 18th centuries, RUP Belkartografia, 2016), the
+Grade 9 Contour Maps (History of Belarus, end of the
+18th — beginning of the 20th century, RUP
+Belkartografia, 2016) and the Grade 11 History of
+Belarus (Famin, National Institute of Education,
+Minsk, 2013) — all student books. HONESTY: every
+placed book is a student book, so Belarus is added to
+the countries line and the acceptance count together
+in every lesson stocked from them; no teacher guides
+or programmes are placed for Belarus. Three
+placements naming Rus'-era slugs that do not exist as
+single lessons (ancient-world/slavs-settle-eastern-europe,
+2 placements, and
+ancient-world/kievan-rus-and-the-belarusian-lands, 1
+placement) are stocked into the closest existing
+lessons of the Ukraine-built Rus' sequence — The
+Slavs settle and found Kyiv and Rus-Ukraine — a state
+is born — with the original slugs recorded in their
+provenance rows; Belarus there is depth in a shared
+Rus' story, counted normally as a student-book
+stocking. RECORD-ONLY, NOT PLACED, as filed in the
+placements: Book 4, Man. Society. State, Grade 9,
+Book 2 "World of People" (Narodnaya Asveta, 2001) —
+the Grade 9 Civics / social-philosophy course book,
+not a History book, and a PARTIAL scan (about 166 of
+239 printed pages, in shuffled order): filed
+record-only under the pure-Civics rule with NO
+placements; all of its parts are named in the
+placements file, not placed here, and its two
+History-adjacent parts (§1 human origins/prehistory,
+printed pp. 15–17; §20 the three generations of human
+rights, printed pp. 164–165) are noted there for the
+Civics folder work. Belarus's own way is stocked
+inside the lessons: the atlases teach history as
+paired map spreads — the East-European stage on the
+left, the Belarusian lands on the right — the Grade 9
+contour maps drill the nineteenth century as outline
+maps the pupil must fill, shade and sign, and the
+Grade 11 course tells the national story in three
+acts (war-ruined Soviet republic, industrial Soviet
+republic, sovereign state) with timeline strips,
+document work and "Our Region" local-history lessons.
+History lessons: 835 → 891.

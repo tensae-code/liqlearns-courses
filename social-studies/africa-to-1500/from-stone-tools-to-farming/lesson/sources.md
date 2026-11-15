@@ -1,6 +1,6 @@
 # Sources — From stone tools to farming — the Neolithic Revolution
 
-countries: Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India
+countries: Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -280,3 +280,17 @@ Zimbabwe's own way (Grade 4): Zimbabwe's deep past enters at Grade 4 — the Kho
 India's own way (Our Pasts-I, Grade 6): NCERT teaches history as a story journey — every chapter opens with a present-day child (Rasheeda, Tushar, Jaspal…) whose question starts the chapter, primary sources are quoted in boxes (the Rigveda dialogue, Ashoka's own inscription, Fa Xian, Banabhatta), an "Elsewhere" box sets India beside the wider world each chapter, and kings are taught alongside ordinary people — farmers, fishers, weavers, slaves — with the book's title itself plural: Our Pasts, because different groups lived different pasts. That way is stocked here as the way India teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 12 countries (Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India).**
+
+---
+
+## History expansion (2026-11-15) — Belarus stocked
+
+**Book 1:** *Атлас. Гісторыя Беларусі са старажытных часоў да сярэдзіны XIII ст. (Atlas: History of Belarus from ancient times to the middle of the 13th century)* (student book, Belarusian) — Belarus. Title as printed: Атлас. Гісторыя Беларусі са старажытных часоў да сярэдзіны XIII ст. (Atlas: History of Belarus from ancient times to the middle of the 13th century). Grade: 6 (student/teacher: STUDENT). Publisher: RUP Belkartografia, Minsk; year 2017 (atlas compiled 2011; content by I. A. Audzeeu, A. V. Perzashkevich); ISBN 978-985-508-463-2. PDF pages: 24 (cover/title page verified against the record title; printed pp. 1–19 of maps + contents). Verdict: COMPLETE. Tally: 19 placements — 1 to existing lessons, 18 NEW LESSON NEEDED. Records: TSV release record (mid-size-books-7) + books.json record grade-06/gov/belarus/history/student/atlas.pdf — same book, counted once. Placements at liqlearns-courses-work/expansion-history-2026-11-15/belarus-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Belarus part — The beginning of farming and herding in Europe (Grade 6) — story beats: farming creeps north-west across Europe over millennia until grain and tame animals reach the forest zone (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Belarus, *Atlas: History of Belarus, Grade 6*, printed p. 5 |
+
+Belarus's own way (Atlas: History of Belarus, Grade 6, Grade 6): History is taught as paired map spreads — the left page puts the same centuries on the East-European stage with a timeline strip, the right page zooms to the Belarusian lands; every theme opens with a symbol-picture and a short narrative text, so the national story is always read inside the regional one. That way is stocked here as the way Belarus teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 13 countries (Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus).**

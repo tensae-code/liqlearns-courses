@@ -1,6 +1,6 @@
 # Sources — Heritage — what it is and why it matters
 
-countries: Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivia, Zimbabwe, Eritrea, Cambodia, Fiji, Slovenia, Syria, Mauritania, Jordan, Bhutan, Cuba, Greece, Nauru, Niue, Tuvalu, Saudi Arabia, Rwanda, Poland, Guatemala, Australia, Bahamas, Nepal
+countries: Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivia, Zimbabwe, Eritrea, Cambodia, Fiji, Slovenia, Syria, Mauritania, Jordan, Bhutan, Cuba, Greece, Nauru, Niue, Tuvalu, Saudi Arabia, Rwanda, Poland, Guatemala, Australia, Bahamas, Nepal, Belarus
 
 **Book 1:** *History, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, Addis Ababa, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-064-2, 210 printed pp. Printed page = PDF page − 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g09-student-placements.md
 
@@ -538,3 +538,17 @@ Non-History parts of this book, named in the placements, not placed here: Unit 1
 Nepal's own way (Samajik Adhyayan tatha Manav Mulya Shiksha, Kaksha 4 [Parikshan] (trial edition), Grade 4 (trial)): The newer trial curriculum replaces the older book's national martyrs unit at this grade with a purely local "Our Past" (Hamro Bigat): family and neighbour migration histories, good people of the community, how the home village got its name, and ancestors honoured for social service — history as remembered community service. That way is stocked here as the way Nepal teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 26 countries (Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivia, Eritrea, Cambodia, Fiji, Slovenia, Syria, Mauritania, Jordan, Bhutan, Cuba, Greece, Nauru, Niue, Tuvalu, Saudi Arabia, Rwanda, Poland, Guatemala, Australia, Bahamas, Nepal).** Zimbabwe stays named in this lesson's countries line as teacher-guide evidence only, counted nowhere, as before this stocking.
+
+---
+
+## History expansion (2026-11-15) — Belarus stocked
+
+**Book 5:** *Гісторыя Беларусі. Другая палова 1940-х гг. — пачатак XXI ст. (History of Belarus: second half of the 1940s — beginning of the 21st century)* (student book, Belarusian) — Belarus. Title as printed: Гісторыя Беларусі. Другая палова 1940-х гг. — пачатак XXI ст. (History of Belarus: second half of the 1940s — beginning of the 21st century). Grade: 11 (student/teacher: STUDENT). Publisher: National Institute of Education, Minsk; year 2013; ISBN 978-985-559-258-8. Authors V. M. Famin, S. V. Panou, N. M. Hanushchanka, ed. V. M. Famin. PDF pages: 232 (cover/title page verified against the record title). Verdict: COMPLETE. Tally: 28 placements — 4 to existing lessons, 24 NEW LESSON NEEDED. Records: this book is the books.json record grade-11/gov/belarus/history-belarus/student/full-year.pdf (no TSV twin). Placements at liqlearns-courses-work/expansion-history-2026-11-15/belarus-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Belarus part — §29 Our historical heritage and development prospects in the 21st century (final summary) (Grade 11) — story beats: pupils present the heritage they choose to carry forward — from legal statehood to national-cultural revival — as the course's closing argument (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Belarus, *History of Belarus, Grade 11 (Famin)*, printed p. 205 |
+
+Belarus's own way (History of Belarus, Grade 11 (Famin), Grade 11): The whole senior course is the national story told in three acts — war-ruined Soviet republic, industrial Soviet republic, sovereign state — with every section opening on a timeline strip and a learning task, closing with document work, a "Historical portrait" / "Cultural-historical environment" box, and local-history ("Our Region") lessons where pupils research their own town's part in each period. That way is stocked here as the way Belarus teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 27 countries (Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivia, Eritrea, Cambodia, Fiji, Slovenia, Syria, Mauritania, Jordan, Bhutan, Cuba, Greece, Nauru, Niue, Tuvalu, Saudi Arabia, Rwanda, Poland, Guatemala, Australia, Bahamas, Nepal, Belarus).** Zimbabwe stays named in this lesson's countries line as teacher-guide evidence only, counted nowhere, as before this stocking.

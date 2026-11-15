@@ -2581,7 +2581,7 @@ Plants and Animals.
 
 ## History expansion totals
 
-History lessons across the History titles: **835**
+History lessons across the History titles: **891**
 (248 before the expansion; +1 for Guyana, 2026-11-15 —
 Modern World: Guyana — our nation: independence and
 symbols. All 3 Guyana placements stand on Guyana's
@@ -3748,3 +3748,21 @@ Kathmandu Valley civilisation — from lake to Licchavi
 carries acceptance 0. Books 11 and 16 are filed
 record-only in the placements (file mismatches) and
 are not placed.
+
++56 for Belarus, 2026-11-15 — The Ancient World:
+Belarus on the map of Europe, Belarus — Stone Age: the first people, Europe in the Ice Age, Belarus — the Bronze Age: metal arrives, The Indo-Europeans spread across Europe, The Balts on the Belarusian lands, The first Slavs on the Belarusian lands, Belarus — tribal unions: Krivichi, Dregovichi and Radimichi, Polotsk and Turov — the first Belarusian principalities, Belarus — the principalities fragment, 12th century, Christianity comes to the Belarusian lands; The Modern World:
+The Union of Lublin — the Commonwealth is born, The Livonian War and the GDL, 1558–1583, Reformation and the Brest Union on the Belarusian lands, The Khmelnytsky uprising reaches Belarus, 1648–1651, The Commonwealth's foreign policy, 1600–1648, Belarus — the GDL in the second half of the 17th century, The Commonwealth's foreign policy, 1648–1699, GDL towns and trade, 16th–17th centuries, Magnate estates — Radziwiłł, Sapieha, Ostrogski, Belarusian culture in the 17th century — printing and schools, The GDL in the first half of the 18th century, The Great Northern War on the Belarusian lands, The GDL in the mid-18th century, The Commonwealth's foreign policy in the mid-18th century, Belarusian culture in the 18th century — palaces and schools, GDL trade in the second half of the 18th century, Manufactories on the Belarusian lands, 18th century, The partitions of the Commonwealth — Belarus to Russia, The Kościuszko uprising of 1794 on the Belarusian lands, Belarus — the gubernias after the partitions, The uprising of 1830–1831 on the Belarusian lands, Belarus — economy in the first half of the 19th century, Belarus — culture in the first half of the 19th century, The abolition of serfdom in Belarus, 1861–1867, The Kalinowski uprising, 1863–1864, in Belarus, The Stolypin reforms in Belarus, Belarus — agriculture and the peasant movement after the reform, Belarus — industry and the workers' movement, 1861–1914, Belarus — the social movement in the second half of the 19th century, The revolution of 1905–1907 in Belarus, Belarus in the First World War and February 1917, Belarusian culture and language, 1860s–1917, Belarus — the BSSR's postwar recovery, 1945–1953, Belarus — BSSR politics and repression after the war, Belarus — culture, education and science after the war, Belarus — the BSSR in the Thaw and reform, 1950s–1960s, Belarus — the BSSR in the stagnation era, 1960s–1980s, Belarus — perestroika and the road to 1991, Belarus — culture, education and science, 1950s–1980s, Belarus — sovereignty and independence, 1990–1994, Belarus — political life, late 1990s–2000s, Belarus — the socially oriented market model, Belarus — a multi-vector foreign policy, Belarus — education, science and culture in the sovereign era, Belarus — results of the sovereign state. All 86 Belarus placements are stocked (12 into
+9 existing lessons, 74 into the 56 new lessons) on
+4 placed student books — the Grade 6 and Grade 8
+History of Belarus atlases and the Grade 9 Contour
+Maps (RUP Belkartografia) and the Grade 11 History
+of Belarus (Famin, National Institute of Education,
+Minsk, 2013). All placed books are student books, so
+Belarus counts normally everywhere it is stocked.
+Three Rus'-era placements are stocked into the
+Ukraine-built Rus' lessons (The Slavs settle and
+found Kyiv; Rus-Ukraine — a state is born) with
+their original slugs recorded. Book 4 (Man. Society.
+State, Grade 9, Book 2) is filed record-only in the
+placements — a pure-Civics book and a partial scan —
+and is not placed.

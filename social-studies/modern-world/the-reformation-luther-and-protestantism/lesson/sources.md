@@ -1,6 +1,6 @@
 # Sources — The Reformation — Luther and the spread of Protestantism
 
-countries: Ethiopia, France, Costa Rica
+countries: Ethiopia, France, Costa Rica, Belarus
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -65,3 +65,17 @@ France's own way: the Seconde year is built as four themes that keep returning t
 Costa Rica's own way (Costa Rica Grade 9 CONED Antología): The Noveno anthology runs one long arc — "the journey of humanity from the Middle Ages to 19th-century Costa Rica" — in which every world process (feudalism, Renaissance, conquest, Enlightenment, independence, industrialisation) is landed in Costa Rica: colonial institutions, the coffee state and banana enclave, and everyday Costa Rican life close the book. That way is stocked here as the way Costa Rica teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 3 countries (Ethiopia, France, Costa Rica).**
+
+---
+
+## History expansion (2026-11-15) — Belarus stocked
+
+**Book 2:** *Атлас. Гісторыя Беларусі. Другая палова XVI — XVIII ст. (Atlas: History of Belarus, second half of the 16th — 18th centuries)* (student book, Belarusian) — Belarus. Title as printed: Атлас. Гісторыя Беларусі. Другая палова XVI — XVIII ст. (Atlas: History of Belarus, second half of the 16th — 18th centuries). Grade: 8 (student/teacher: STUDENT). Publisher: RUP Belkartografia, Minsk; year 2016 (atlas compiled 2008; content by I. A. Audzeeu, A. V. Perzashkevich, sci. ed. P. F. Dzmitrachkou); ISBN 978-985-508-387-1. PDF pages: 28 (cover/title page verified against the record title; printed pp. 2–23 of maps + contents; printed p. 1 is the address to the reader and the legend). Verdict: COMPLETE. Tally: 22 placements — 2 to existing lessons, 20 NEW LESSON NEEDED. Records: TSV release record (mid-size-books-7) + books.json record grade-08/gov/belarus/history/student/atlas.pdf — same book, counted once. Placements at liqlearns-courses-work/expansion-history-2026-11-15/belarus-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Belarus part — Renaissance and Reformation in Europe (Grade 8) — story beats: Luther, Zwingli and Calvin split Western Christianity while Skaryna prints the first East Slavic Bible and presses open at Nesvizh, Brest and Losk (History expansion, 2026-11-15; original placement slug: modern-world/the-reformation-luther-and-protestantism) | Belarus, *Atlas: History of Belarus, Grade 8*, printed p. 5 |
+
+Belarus's own way (Atlas: History of Belarus, Grade 8, Grade 8): The same paired design as the Grade 6 atlas — a narrative text and symbol-picture open each map, Belarusian-land maps alternate with Commonwealth/European-stage maps, so the Grand Duchy of Lithuania is always read as a European state, not a province. That way is stocked here as the way Belarus teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 4 countries (Ethiopia, France, Costa Rica, Belarus).**
