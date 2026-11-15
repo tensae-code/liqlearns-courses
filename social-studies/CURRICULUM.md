@@ -1194,3 +1194,87 @@ planet — environmental degradation (Ch. 14, printed
 p. 335) — the new lessons taught in 1 country
 (Barbados), 8 questions each. Geography lessons:
 661 → 672.
+
+## Geography expansion — Turkey — built 2026-11-14
+
+Turkey — 33 placements stocked from 2 distinct books
+(3 records / 2 distinct books — the Coğrafya 9 TSV
+record and books.json record are the same repo path,
+one book): *Hayat Bilgisi 2. Sınıf, 1. Kitap* (student
+book, Turkish, COMPLETE (for Book 1 / Semester 1);
+Millî Eğitim Bakanlığı (MEB), Devlet Kitapları;
+printed 2025; ISBN 978-975-11-8768-0; 126 PDF pp.) and
+*Ortaöğretim Coğrafya 9. Sınıf Ders Kitabı* (student
+book, Turkish, COMPLETE; Millî Eğitim Bakanlığı
+(MEB), Devlet Kitapları; year 2017 (Birinci Baskı);
+ISBN 978-975-11-4324-2; 240 PDF pp.). Turkey's own
+way: Hayat Bilgisi (Life Studies) carries almost no
+Geography in its Grade 2 semester book — self/school,
+health/safety and family/society — except road signs
+and the two end-of-book maps; the Grade 9 Coğrafya is
+a systems course — Natural Systems first (nature–human
+interaction, coordinates, maps, Earth's motions,
+climate), then Human Systems (settlements), then
+Regions and Countries, then Environment and Society
+— with a Turkey case closing most chapters (Turkey's
+location, Turkey's climate, settlements in Turkey).
+Stocked into standing lessons — **Population,
+Transport and Maps**: Road safety — signs and
+crossings (Grade 2 Hayat Bilgisi, printed p. 60 — now
+taught in 2 countries, Ethiopia and Turkey), Maps and
+globes — latitude and longitude (2A, printed p. 37 —
+now 3 countries, Ethiopia, Barbados and Turkey;
+Myanmar stays teacher-guide evidence only), Contours
+— lines of equal height (3C, printed p. 72 — now 2),
+Temporary homes and what makes a town (II-A, printed
+p. 163 — now 2), Rural settlement patterns (II-B1,
+printed p. 168 — now 2) and Cities — growing
+footprint and promise (II-B2, printed p. 171 — now
+2); **People and Resources**: Does geography decide?
+Determinism versus possibilism (1A, printed p. 15 —
+now 2); **The Land and Air**: Physical geography —
+the nature side (1B, printed p. 19 — now 2), What
+geography is (1C, printed p. 25 — now 3 countries,
+Ethiopia, Saudi Arabia and Turkey), Two ways to say
+where a place is (2B1, printed p. 38 — now 4
+countries, Ethiopia, Guyana, Saudi Arabia and
+Turkey), What a map is (3A, printed p. 57 — now 3),
+Maps through history (3B, printed p. 68 — now 3
+countries, Ethiopia, Belarus and Turkey), Latitude —
+why the equator is hot and the poles are not (4C,
+printed p. 95 — now 2), The atmosphere — its gases
+and layers (5A, printed p. 105 — now 2; Myanmar stays
+teacher-guide evidence only), Weather and climate —
+the difference and the elements (5B, printed p. 109 —
+now 3 countries, Ethiopia, Barbados and Turkey), The
+elements we measure (5C1, printed p. 111 — now 2),
+Coasts, winds and pressure belts — the other climate
+controls (5C2, printed p. 119 — now 2), Measuring
+temperature and rainfall (5C3, printed p. 128 — now
+2) and Koppen's five letters — A B C D E (5Ç, printed
+p. 135 — now 2); **Earth and Space**: Earth — place,
+shape and size (4A, printed p. 83 — now 3 countries,
+Ethiopia, Saudi Arabia and Turkey; Myanmar stays
+teacher-guide evidence only), Movements — rotation
+and revolution (4B1, printed p. 86 — now 3 countries,
+Ethiopia, Saudi Arabia and Turkey) and Revolution
+and the seasons (4B2, printed p. 88 — now 2; Myanmar
+stays teacher-guide evidence only); **Resources and
+Conflict**: Using resources well (IV-A, printed
+p. 209 — now 3 countries, Ethiopia, United Arab
+Emirates and Turkey) and How people change the land
+and pollute it (IV-B, printed p. 211 — now 2) — and
+6 new lessons built — in **Population, Transport and
+Maps**: Turkey's administrative units (2 placements
+— Grade 2 Hayat Bilgisi end map, printed p. 123, and
+Grade 9 Coğrafya II-Ç, printed p. 180) and
+Settlements in Turkey (II-C, printed p. 176); in
+**The Land and Air**: The Turkish world on a map
+(Grade 2 Hayat Bilgisi end map, printed p. 124),
+Turkey's geographic location (2B2–2C, printed
+p. 45), Turkey's climate (5D, printed p. 144) and
+Regions — what they are and their kinds (3
+placements — III-A, printed p. 191; III-B, printed
+p. 200; III-C, printed p. 201) — the new lessons
+taught in 1 country (Turkey), 8 questions each.
+Geography lessons: 672 → 678.

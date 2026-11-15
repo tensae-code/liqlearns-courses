@@ -103,7 +103,7 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **672**
+Geography lessons across the eight Geography titles: **678**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -223,3 +223,8 @@ People and Resources: Trends in commercial arable
 farming in the Caribbean; Global Issues: Natural
 hazards and managing their risk and Our threatened
 planet — environmental degradation.
++6 for Turkey, 2026-11-14 — Population, Transport and
+Maps: Turkey's administrative units and Settlements
+in Turkey; The Land and Air: The Turkish world on a
+map, Turkey's geographic location, Turkey's climate
+and Regions — what they are and their kinds.

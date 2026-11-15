@@ -1,12 +1,14 @@
 # Sources — Natural Resources — Using Resources Well
 
-countries: Ethiopia, United Arab Emirates
+countries: Ethiopia, United Arab Emirates, Turkey
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (placement 63).
 
 **Book 2:** *Social Studies Teacher's Guide, Grade 8* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, Addis Ababa, first edition 2022 (cover dated 2015 E.C.), 47 printed pp. present in the copy in hand (contents promise 109 printed pp.; Units 4–7 are missing — truncated). Printed page = PDF page − 5. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-teacher-placements.md (placements 15 and 18).
 
 **Book 3:** *Social Studies & National Education, Student Book, Grade 1, Term 3* (student book, Arabic) — United Arab Emirates, Ministry of Education, United Arab Emirates; year 2025-2026 (1446-1447 AH); no ISBN printed. Title as printed: الدراسات الاجتماعية والتربية الوطنية — كتاب الطالب — الصف الأول — المجلد الثالث (Social Studies and National Education, Student Book, Grade 1, Volume/Term 3). Grade 1. 119 PDF pp. (printed pagination to p. 97 plus an unpaginated desert-wildlife reader appendix). Verdict: COMPLETE. Read via grab.py url, verified by pdfinfo + cover render; image-only book read page-by-page on 80 DPI contact sheets. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/united-arab-emirates-placements.md.
+
+**Book 4:** *Ortaöğretim Coğrafya 9. Sınıf Ders Kitabı* (student book, Turkish) — Turkey, Millî Eğitim Bakanlığı (MEB), Devlet Kitapları; year 2017 (Birinci Baskı); ISBN 978-975-11-4324-2. Title as printed: Ortaöğretim Coğrafya 9 — Ders Kitabı (authors İsmail Özdoğan, Kenan Türkez, Mutlu Karakoç). Grade 9 (student). 240 PDF pp. (cover/title page verified against the record title; read from the record's archive.org source_url copy — the repo copy later landed by git sparse checkout at exactly the same byte size, 25,904,697 bytes, confirming the same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/turkey-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -16,8 +18,11 @@ countries: Ethiopia, United Arab Emirates
 | Sub lesson 2 — the guide's measures list (teacher guide — evidence): solar and wind energy, plant more trees, treat and recycle industrial sewage and waste, reduce emissions, crop rotation | Ethiopia, *Social Studies Teacher's Guide, Grade 8*, Unit 3, §3.1, printed pp. 34–36 (teacher guide — evidence) |
 | Sub lesson 3 — Unwise use, counted as one bill (teacher guide — evidence): water shortages, forest loss, mineral depletion, species extinction, pollution, ecosystem degradation, desertification, global warming, drought, ozone depletion, climate change | Ethiopia, *Social Studies Teacher's Guide, Grade 8*, Unit 3, §3.3 and keys, printed pp. 42–43, 45–46 (teacher guide — evidence) |
 | UAE Grade 1 way — protecting my environment and recycling (Unit 5 Lesson 2, part 3) | United Arab Emirates, *Social Studies & National Education, Student Book, Grade 1, Term 3*, Unit 5, Lesson 2 (part 3), printed p. 26 (lesson spans printed pp. 26–39) |
+| Turkey part — IV-A Doğal Çevreyi Nasıl Kullanıyoruz? (how we use the natural environment) | Turkey, *Ortaöğretim Coğrafya 9. Sınıf Ders Kitabı*, Grade 9, IV-A Doğal Çevreyi Nasıl Kullanıyoruz? (how we use the natural environment) — printed p. 209 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, United Arab Emirates).**
+**Acceptance count: taught in 3 countries (Ethiopia, United Arab Emirates, Turkey).**
+
+Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
 The teacher guide used for the parts labelled (teacher guide — evidence) is NOT edition-matched to the student book: the guide is an Addis Ababa bureau book (2022, in English) and the student book is an Amhara bureau book (© 2015 E.C., in Amharic); they follow the same national syllabus family but are not companions, and the guide's activity numbers key to its own companion textbook. The guide in hand is also truncated — only printed pp. 1–47 (Units 1–3) are present; Units 4–7 (printed pp. 48–109) are missing. Guide material is therefore used only as labelled teacher evidence folded into this pupil lesson; it never counts as pupil-taught on its own. The guide's Unit 3 numbering disagrees with itself (contents/body §3.2 is conservation, while the unit organisation lists 3.2 as consequences of unwise use) — flagged in the guide placements, error 4; the build cites guide sections by their body headings and printed pages, not by the organisation list. No student-book error flagged by the placements touches this lesson.
 
