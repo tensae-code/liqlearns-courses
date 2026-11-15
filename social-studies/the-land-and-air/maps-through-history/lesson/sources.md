@@ -1,6 +1,6 @@
 # Sources — Maps through history
 
-countries: Ethiopia, Belarus, Turkey, Haiti, Bolivia
+countries: Ethiopia, Belarus, Turkey, Haiti, Bolivia, Egypt
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Belarus, Turkey, Haiti, Bolivia
 
 **Book 6:** *Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024 — Secundaria Comunitaria Productiva, Área Ciencias Sociales* (teacher guide, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; 2023–2024; no ISBN printed. Title as printed: Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024 — Secundaria Comunitaria Productiva, Área Ciencias Sociales. Grade 7 (record grade; the compendium in fact carries teacher guidance for Secundaria years 1–6) (teacher). 332 PDF pp. (cover verified against the record title; byte size 22,986,155 and page count match the staging books.json record exactly; read from the recorded direct source_url). Verdict: COMPLETE (combined teacher compendium — Geography guidance placed below; its own index pagination does not match the PDF's internal order, noted as a library debt; the compendium's remaining units mirror the student books' History and Civics units for Secundaria 1–6, named in the placements in bulk, not placed). Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bolivia-placements.md.
 
+**Book 7:** *الدراسات الاجتماعية — مصر في قلب العالم (Social Studies — Egypt at the Heart of the World)* (student book, Arabic) — Egypt, Ministry of Education and Technical Education, Egypt; year 2026/2027; no ISBN printed. Title as printed: الدراسات الاجتماعية — مصر في قلب العالم (Social Studies — Egypt at the Heart of the World). Grade 4, Primary 4, Term 1 (student). 114 PDF pp. (cover verified against the record title; 64,334,888 bytes = record size exactly, from the recorded Azure source; staged in phase3-staging/grade-04/gov/egypt/Social_studies_prim4_t1.pdf under the push-don't-delete rule — its books.json record already existed there). Verdict: COMPLETE. Combined Social Studies book: Geography parts placed below; Civics/History parts named in the placements, not placed. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/egypt-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Primitive maps | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 8, printed pp. 197–198 |
@@ -23,8 +25,9 @@ countries: Ethiopia, Belarus, Turkey, Haiti, Bolivia
 | Turkey part — 3B Geçmişten Günümüze Bilgilerin Haritalara Aktarılması (putting information on maps, past to present) | Turkey, *Ortaöğretim Coğrafya 9. Sınıf Ders Kitabı*, Grade 9, 3B Geçmişten Günümüze Bilgilerin Haritalara Aktarılması (putting information on maps, past to present) — printed p. 68 |
 | Haiti part — Séance 9 De l'importance de la cartographie et de la carte (histoire des cartes, cartes océaniennes, arabes, chinoises, japonaises) (teacher sequence — evidence) | Haiti, *Du rond au plat, représenter le globe terrestre ?* (teacher sequence), Grade 7, Séance 9 De l'importance de la cartographie et de la carte (histoire des cartes, cartes océaniennes, arabes, chinoises, japonaises) — printed p. 18 |
 | Bolivia part — Development and importance of cartography; the value of cartographic materials for representing our territory (teacher guide — evidence) | Bolivia, *Compendio para Maestras y Maestros, Área Ciencias Sociales* (teacher guide), Grade 7 (record grade; teacher guidance), Development and importance of cartography; the value of cartographic materials for representing our territory — printed p. 91 |
+| Egypt part (Grade 4) — Unit 1 Lesson 3: How the map developed | Egypt, *Social Studies, Grade 4, Term 1*, Grade 4, Unit 1 Lesson 3: How the map developed — printed p. 25 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Belarus, Turkey). Haiti is named here as teacher-sequence evidence only, counted nowhere. Bolivia is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 4 countries (Ethiopia, Belarus, Turkey, Egypt). Haiti is named here as teacher-sequence evidence only, counted nowhere. Bolivia is named here as teacher-guide evidence only, counted nowhere.**
 
 Haiti's own way (teacher sequence — evidence): Geography opens with representing the Earth itself — globe-to-flat projection problems, orientation practised on the ground with compass/GPS/Google Maps, and time-zone puzzles worked on Haiti's own links (midday shared with Québec, 18h in Paris, Port-au-Prince–Paris flights); every séance ends in a croquis, a glossary and field observation. That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
@@ -33,3 +36,5 @@ Turkey's own way: a systems course — Natural Systems first (nature–human int
 Bolivia's own way (teacher guide — evidence): The teacher compendium teaches the same four-moment lesson shape (Práctica, Teoría, Valoración, Producción) with QR-linked videos and local openings — a La Paz landslide video opens the geography unit — and it adds two geography units the sampled student books do not carry at those grades: the scientific development of geographic science with cartography and coordinates (year 3), and water as a human right with Andean water management (year 4). That evidence is stocked here as the way Bolivia teaches this thing; it does not change the acceptance count above.
 
 Searchable tags: history of maps, primitive maps, cartography, survey, social studies, Haiti, Du rond au plat, teacher sequence evidence, Bolivia, Ciencias Sociales Bolivia, teacher guide evidence
+
+Egypt's own way (Grade 4 Term 1): the very first Social Studies book starts from the child's own space — drawing a plan of the home and school, comparing walking routes by length and landmarks — before maps in general, then the child's own city and governorate, and only then Egypt as homeland; a robot mascot teaches alongside named child guides from different governorates.

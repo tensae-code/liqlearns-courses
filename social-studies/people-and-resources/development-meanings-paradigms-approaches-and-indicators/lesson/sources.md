@@ -1,16 +1,22 @@
 # Sources — Development — Meanings, Paradigms, Approaches and Indicators
 
-countries: Indonesia
+countries: Indonesia, Egypt
 
 **Book 1:** *Geografi untuk SMA/MA Kelas XII* (student book, Indonesian) — Indonesia, Pusat Perbukuan, Kemendikbudristek; year 2022 (Cetakan Pertama); ISBN 978-602-427-914-1 (jil. 2); author Budi Handoyo. Title as printed: Geografi untuk SMA/MA Kelas XII. Grade 12 / SMA/MA Kelas XII (student). 288 PDF pp. (cover verified: "GEOGRAFI — SMA/MA Kelas XII", Kemendikbudristek 2022; xii + 276 printed pages). Verdict: COMPLETE. Records: 8 records / 4 distinct books in total for Indonesia (4 TSV release records + 4 books.json records that are the same 4 books by grade/kind — duplicate records, taught once). Library debts carried exactly as the placements state: the books.json records for all 4 Indonesia Geografi titles carry tree paths (grade-XX/gov/indonesia/geografi/…) that return 404 in the repo tree — the files actually live in GitHub releases mid-size-books-2 and mid-size-books-7, so the in_pushed tree records are misleading; the books.json source_url for both student books is truncated with "…" and cannot be used as recorded. Read full page-by-page via pdftotext -layout after cover verification; grabbed via grab.py (GitHub Releases API route for the TSV records). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/indonesia-placements.md.
+
+**Book 2:** *جغرافية التنمية — نماذج عالمية وتطبيقات عربية (Development Geography — World Models and Arab Applications)* (student book, Arabic) — Egypt, Ministry of Education and Technical Education, Egypt; edition 2025/2026; no ISBN printed. Title as printed: جغرافية التنمية — نماذج عالمية وتطبيقات عربية (Development Geography — World Models and Arab Applications). Grade 11, Second Secondary, Term 1 (student). 169 PDF pp. (cover verified against the record title; 64,632,284 bytes = record size exactly, from the recorded Azure source; staged in phase3-staging/grade-11/gov/egypt/Geography_Sec2_Tr1.pdf under the push-don't-delete rule — its books.json record already existed there). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/egypt-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Bab 2 A Pengertian, paradigma, pendekatan dan indikator pembangunan | Indonesia, *Geografi untuk SMA/MA Kelas XII*, Grade 12, Bab 2 A Pengertian, paradigma, pendekatan dan indikator pembangunan — printed p. 97 |
 | Sub lesson 2 — Indonesia's way — the book's own teaching way | Indonesia — the book's own way of teaching (see below) |
+| Egypt part (Grade 11) — Unit 3 Lesson 1: What economic development is | Egypt, *Development Geography, Grade 11*, Grade 11, Unit 3 Lesson 1: What economic development is — printed p. 48 (the placements name the target as global-issues/development-and-its-measures; that slug does not exist, so this placement is stocked in this closest covering lesson, with the original slug recorded here) |
+| Egypt part (Grade 11) — Unit 4 Lesson 2: Human development indicators | Egypt, *Development Geography, Grade 11*, Grade 11, Unit 4 Lesson 2: Human development indicators — printed p. 94 (the placements name the target as global-issues/development-and-its-measures; that slug does not exist, so this placement is stocked in this closest covering lesson, with the original slug recorded here) |
 
-**Acceptance count: taught in 1 country (Indonesia).**
+**Acceptance count: taught in 2 countries (Indonesia, Egypt).**
 
 Indonesia's own way (Grade 12): Grade 12 is applied human geography built entirely on Indonesian cases — regional development and spatial planning (tata ruang) measured against a Happiness Index, Industry 4.0 / Society 5.0, and Indonesia's own geopolitics and ASEAN-era cooperation as pillars of national resilience.
 
 Searchable tags: development — meanings, paradigms, approaches and indicators, Indonesia, Geografi untuk SMA/MA Kelas XII, social studies, people and resources
+
+Egypt's own way (Grade 11): a whole secondary book on development geography alone, built as concept → resources → economy → people: the idea of development traced as it widened (economic, then human, then sustainable development, with its principles of comprehensiveness, integration and sustainability), resources always paired with how to manage them, and the human-development unit closing with full worked country models (Malaysia profiled in depth — position, poverty fall, education, health, electronics and car industries — and Brazil) before the future of development in the Arab homeland.

@@ -1,6 +1,6 @@
 # Sources — Temporary homes, and what makes a town
 
-countries: Ethiopia, Turkey, Palestine, Bangladesh
+countries: Ethiopia, Turkey, Palestine, Bangladesh, Egypt
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Turkey, Palestine, Bangladesh
 
 **Book 5:** *History and Social Science, Class Seven* (student book, English + Bangla parallel editions) — Bangladesh, National Curriculum and Textbook Board (NCTB), Dhaka, Bangladesh; year 2022 (first published December 2022, reprint 2023; National Curriculum 2022); no ISBN printed. Title as printed: History and Social Science, Class Seven (Experimental version). Grade 7 (student). 184 PDF pp. (cover/title page verified against the record title; printed p. = PDF p. - 7). Verdict: COMPLETE. Editions: English read fully; Bangla parallel edition spot-checked (cover, contents with identical chapter page spans 1-175, spreads at the Bedey river community and the delta experiment) — same content, placed once for both editions. Read via grab.py from the GitHub textbooks repo. (Combined History and Social Science book — Geography parts placed below; non-Geography parts named in the placements, not placed: How to Make Logical Decisions — thinking/inquiry, printed pp. 1-19; Ways to know Economic History — method, pp. 20-31; Similarities and Differences between People — community/gender parts, pp. 39-48 (Bedey river-community part placed); Emergence of Independent Bangladesh and Bangabandhu — history, pp. 65-74; Foreign Friends of Liberation War — history, pp. 75-92; Socio-political Structures and Customs — civics/sociology, pp. 93-118; Individual's Stand and Role in a Changing Context — sociology, pp. 119-131; About Wealth — economics of production, pp. 159-175; present-day development survey (GDP, Dhaka metro, power plants) inside the economic-history chapter — economics/history, pp. 60-64.) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bangladesh-placements.md.
 
+**Book 6:** *الدراسات الاجتماعية — مصر في قلب العالم (Social Studies — Egypt at the Heart of the World)* (student book, Arabic) — Egypt, Ministry of Education and Technical Education, Egypt; year 2026/2027; no ISBN printed. Title as printed: الدراسات الاجتماعية — مصر في قلب العالم (Social Studies — Egypt at the Heart of the World). Grade 4, Primary 4, Term 1 (student). 114 PDF pp. (cover verified against the record title; 64,334,888 bytes = record size exactly, from the recorded Azure source; staged in phase3-staging/grade-04/gov/egypt/Social_studies_prim4_t1.pdf under the push-don't-delete rule — its books.json record already existed there). Verdict: COMPLETE. Combined Social Studies book: Geography parts placed below; Civics/History parts named in the placements, not placed. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/egypt-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Temporary settlements | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 4, printed pp. 106–109 |
@@ -20,8 +22,9 @@ countries: Ethiopia, Turkey, Palestine, Bangladesh
 | Turkey part — II-A Yerleşme ve Yerleşmenin Gelişimi (settlement and how settlements develop) | Turkey, *Ortaöğretim Coğrafya 9. Sınıf Ders Kitabı*, Grade 9, II-A Yerleşme ve Yerleşmenin Gelişimi (settlement and how settlements develop) — printed p. 163 |
 | Palestine part — Lesson 5: the city — its concept, why cities arose, their features, and Palestinian cities located on the map | Palestine, *Social Studies, Grade 5, Part Two*, Grade 5, Lesson 5: the city — its concept, why cities arose, their features, and Palestinian cities located on the map — printed p. 33 |
 | Bangladesh part (Grade 7) — The Bedey river community: twenty-five families whose house is a boat on the river | Bangladesh, *History and Social Science, Class Seven*, Grade 7, The Bedey river community: twenty-five families whose house is a boat on the river — printed pp. 32-38 |
+| Egypt part (Grade 4) — Unit 2 Lesson 1: What does our city look like? | Egypt, *Social Studies, Grade 4, Term 1*, Grade 4, Unit 2 Lesson 1: What does our city look like? — printed p. 40 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Turkey, Palestine, Bangladesh).**
+**Acceptance count: taught in 5 countries (Ethiopia, Turkey, Palestine, Bangladesh, Egypt).**
 
 Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
@@ -30,3 +33,5 @@ Searchable tags: temporary settlement, pastoral camp, urban definition, urbanisa
 Palestine's own way (Grade 5, PS G5P2): the settlement story is told as a ladder — farming, animal domestication, the agricultural village, the Palestinian village of today, then the city located on the map — and the year closes with the road itself: what a road is, its parts, and how to cross it safely.
 
 Bangladesh's own way (Grade 7): Geography thins into economic history and a long Sustainable Development inquiry: pupils build a delta in a sand tray, trace the rivers that enter Bangladesh from other countries, map the country's new maritime boundary and its minerals, and audit groundwater and fossil fuels — the delta and the sea are the classroom.
+
+Egypt's own way (Grade 4 Term 1): the very first Social Studies book starts from the child's own space — drawing a plan of the home and school, comparing walking routes by length and landmarks — before maps in general, then the child's own city and governorate, and only then Egypt as homeland; a robot mascot teaches alongside named child guides from different governorates.

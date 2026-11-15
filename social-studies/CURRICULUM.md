@@ -2612,3 +2612,81 @@ except Teaching Geography in the Merdeka Curriculum —
 Fase F Outcomes, which stands on teacher-guide
 evidence only, counted nowhere.
 Geography lessons: 934 → 964.
+
+
+## Egypt — Geography expansion (merged 2026-11-14)
+
+76 placements stocked from Egypt's 9 placed student books
+(Grades 4, 5, 6, 7 Terms 1–2, 8, 9 Term 1 Social Studies;
+Grade 11 Development Geography; Grade 12 Political
+Geography — all COMPLETE, Arabic, Ministry of Education
+and Technical Education). The recorded Grade 9 Term 2
+link serves the OLD-curriculum combined both-terms book
+(وطني حياتي), not the new-curriculum Term 2 companion —
+filed record-only, 0 placements, and the new-curriculum
+Grade 9 Term 2 book remains un-obtained (library debt
+carried in the placements). Stocked into standing
+lessons (34 placements) across The Land and Air,
+Population, Transport and Maps, People and Resources,
+Culture and Work and Global Issues. 15 of those
+placements name slugs that do not exist (all from the
+Grade 11 and Grade 12 books); each is stocked in the
+closest covering lesson with its original slug recorded
+in the provenance row (GIS → GIS — Maps That Answer
+Questions; environment/resources → Renewable,
+Non-Renewable and Using Sustainably; water management →
+Water Under Pressure; minerals/energy → World Mineral
+Resources; development and its measures ×2 → Development
+— Meanings, Paradigms, Approaches and Indicators;
+industry → Secondary Activities — Modern Light and Heavy
+Industry; political geography, state power and the new
+world order → Geopolitics and Geopolitical Thought;
+borders → No Entry — Borders and Excluded Spaces; the
+world map's evolution → Periods of Formation of the
+World's Political Map; economic blocs → Regional Blocs —
+Does Union Make Strength?; military alliances → NATO
+Countries in Europe 2022). 41 NEW lessons built (42
+placements) — **The Land and Air**: The Nile River and
+Its Valley (G7 T1, p. 20), Africa's Aquatic Ecosystems
+(G7 T1, p. 68), Egypt — Surface Features (G5, p. 14;
+G4, p. 84), Egypt — Climate (G5, p. 22), Egypt — Natural
+Vegetation and Wildlife (G5, p. 30), Egypt on the World
+Map (G4, p. 78), Where My Governorate Is (G4, p. 62),
+Eurasia — Position, Size and Coasts (G8, p. 8), Forest
+Systems of Asia and Europe (G8, p. 58), Grassland and
+Desert Systems of Asia and Europe (G8, p. 64), Aquatic
+Ecosystems of Asia and Europe (G8, p. 70), The Arab
+World — Location and Importance (G6, p. 8), Relief of
+the Arab World (G6, p. 16), Climate and Natural
+Vegetation of the Arab World (G6, p. 24), The New World
+Continents — Position and Surface (G9, p. 10), The
+Great Geographic Discoveries (G9, p. 26), Forest and
+Grassland Systems of the New World (G9, p. 64) and
+Desert and Aquatic Ecosystems of the New World (G9,
+p. 72); **Population, Transport and Maps**: How Our City
+Grows and Changes (G4, p. 46), Our City in the Future
+(G4, p. 58) and Characteristics of Africa's Population
+(G7 T2, p. 16); **People and Resources**: Egypt —
+Mineral Wealth and Energy Sources (G5, p. 68), Egypt —
+Water Resources (G5, p. 76), Egypt — Natural and Human
+Resources (G4, p. 90), Eurasia — Minerals and Energy
+Sources (G8, p. 16) and Minerals and Energy in the Arab
+World (G6, p. 92); **Culture and Work**: Service Places
+in Our City (G4, p. 52), Livestock and Fisheries in the
+Arab World (G6, p. 84) and Mining, Energy and Industry
+in Africa (G7 T2, p. 54); **Resources and Conflict**:
+Types of Political Borders (G12, p. 51); **Global
+Issues**: Egypt's National Projects — Vision for the
+Future (G5, p. 83), Environmental Challenges in the Arab
+World (G6, p. 30), Development Geography and Its Fields
+(G11, p. 2), Human Development — What It Is (G11,
+p. 88), Leading Development Models — Malaysia and Brazil
+(G11, p. 102), The Future of Development in the Arab
+World (G11, p. 111), The State — Definition and Types
+(G12, p. 10), Political and Electoral Systems of the
+State (G12, p. 39), Economic Problems with a Political
+Dimension (G12, p. 70), Social Problems with a Political
+Dimension (G12, p. 74) and International Relations —
+What They Are (G12, p. 104) — the new lessons taught in
+1 country (Egypt), 8 questions each.
+Geography lessons: 964 → 1005.

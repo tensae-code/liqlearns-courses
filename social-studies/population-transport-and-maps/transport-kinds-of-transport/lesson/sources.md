@@ -1,6 +1,6 @@
 # Sources — Transport — kinds of transport
 
-countries: Ethiopia, Belarus, Guatemala, Ecuador, Turkmenistan
+countries: Ethiopia, Belarus, Guatemala, Ecuador, Turkmenistan, Egypt
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 2, placements 27–43).
 **Book 2:** *Social Studies Teacher's Guide, Grade 7* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, first edition 2022 (2014 E.C.). Printed page = PDF page − 5. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-teacher-placements.md (Unit 2, and §3.2 for the optimum-population lesson).
@@ -13,6 +13,8 @@ countries: Ethiopia, Belarus, Guatemala, Ecuador, Turkmenistan
 
 **Book 6:** *Dünýäniň ykdysady we durmuş geografiýasy (World Economic and Social Geography)* (student book, Turkmen) — Turkmenistan, Türkmen döwlet neşirýat gullugy (Turkmen State Publishing Service), Aşgabat; year 2022; no ISBN printed (UDC 373:911.3; order no. 2149). Title as printed: Dünýäniň ykdysady we durmuş geografiýasy (Umumy orta bilim berýän mekdepleriň X synpy üçin okuw kitaby). Grade 10 (X synp) (student). 264 PDF pp. (cover/title page verified against the record title; 264 pages exact match to the books.json record; read via grab.py url (GitHub release; byte size 7,680,130 exact match to the books.json record), verified by pdfinfo + title page; contents read from the printed Mazmuny (pp. 260-262)). Verdict: COMPLETE. Records: 2 records / 1 distinct book (TSV release URL + books.json record are the same book). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/turkmenistan-placements.md.
 
+**Book 7:** *الدراسات الاجتماعية — إفريقيا ومصر معًا على طريق التنمية والحضارة (Social Studies — Africa and Egypt Together on the Path of Development and Civilisation)* (student book, Arabic) — Egypt, Ministry of Education and Technical Education, Egypt (Educational Content Administration / Salah El-Din printing); year 2026; no ISBN printed. Title as printed: الدراسات الاجتماعية — إفريقيا ومصر معًا على طريق التنمية والحضارة. Grade 7, First Preparatory, Term 2 (student). 104 PDF pp. (cover verified against the record title; 71,438,198 bytes = record size exactly, read from the recorded Azure source; already in GitHub per its record, so no staging). Verdict: COMPLETE. Combined Social Studies book: Geography parts placed below; History parts named in the placements, not placed. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/egypt-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — How transport began (teacher guide — evidence) | Ethiopia, *Social Studies Teacher's Guide, Grade 7* (Addis Ababa Bureau), printed pp. 32–33 |
@@ -23,8 +25,9 @@ countries: Ethiopia, Belarus, Guatemala, Ecuador, Turkmenistan
 | Guatemala part — Medios de transporte: terrestres, acuáticos y aéreos | Guatemala, *Ciencias Sociales y Formación Ciudadana*, Grade 4, Medios de transporte: terrestres, acuáticos y aéreos (Unit 2) — printed p. 90 |
 | Ecuador part — Medios de transporte y vías de comunicación | Ecuador, *Estudios Sociales 3ro EGB (SM 2016)*, Grade 3, Medios de transporte y vías de comunicación — printed p. 128 |
 | Turkmenistan part — §27 Geography of the world transport system | Turkmenistan, *Dünýäniň ykdysady we durmuş geografiýasy (World Economic and Social Geography)*, Grade 10, §27 Geography of the world transport system — printed p. 106 |
+| Egypt part (Grade 7) — Unit 3 Lesson 4: Transport and trade in Africa — transport types, the trans-African highway network, exports and imports, weak intra-African trade and the AfCFTA, and Egypt's chambers of commerce with African states | Egypt, *Social Studies, Grade 7, Term 2*, Grade 7, Unit 3 Lesson 4: Transport and trade in Africa — printed p. 70 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Belarus, Guatemala, Ecuador, Turkmenistan).**
+**Acceptance count: taught in 6 countries (Ethiopia, Belarus, Guatemala, Ecuador, Turkmenistan, Egypt).**
 
 Pairing warning (honesty): Book 2 is an Addis Ababa bureau guide in English; Book 1 is an Amhara bureau student book in Amharic. They are NOT edition-matched companions — the guide's unit order differs and whole student topics (maps, globes, GPS) have no guide counterpart, so no guide coverage is claimed for them. Guide material is used only as labelled teacher evidence.
 
@@ -35,3 +38,5 @@ Ecuador's own way (Grade 3 book): the older SM edition is a classic skills-first
 Searchable tags: transport, donkey, mule, camel, land transport, water transport, air transport, crude oil, perishable goods, Guatemala, Ecuador
 
 Turkmenistan's own way (Grade 10): A classic post-Soviet economic-and-social geography of the whole world in one book: Part I general world (political map, resources, population, world economy by sector), Part II the same template region by region and country by country, Part III global problems — with Turkmenistan's own memberships and ecological policy woven into the questions.
+
+Egypt's own way (Grade 7 Term 2): Term 2 turns from Africa's nature to its people and economy — population growth worked from real birth/death-rate charts (1970–2023) with illegal migration treated through Egypt's own 2016 anti-smuggling law, then Africa's economic activities and the practical machinery of integration (trans-African highways, the AfCFTA, chambers of commerce between Egypt and African states).

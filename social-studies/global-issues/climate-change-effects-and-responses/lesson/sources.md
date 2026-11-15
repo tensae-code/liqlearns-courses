@@ -1,6 +1,6 @@
 # Sources — Climate Change — Effects and Responses
 
-countries: Ethiopia, Costa Rica, Ecuador, Bangladesh
+countries: Ethiopia, Costa Rica, Ecuador, Bangladesh, Egypt
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (placement 142).
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Costa Rica, Ecuador, Bangladesh
 
 **Book 4:** *History and Social Science, Class Six* (student book, English + Bangla parallel editions) — Bangladesh, National Curriculum and Textbook Board (NCTB), Dhaka, Bangladesh; year 2022 (published December 2022, reprint 2023; National Curriculum 2022); no ISBN printed. Title as printed: History and Social Science, Class Six (Experimental version). Grade 6 (student). 184 PDF pp. (cover/title page verified against the record title; printed pagination runs 1-175 plus front matter, printed p. = PDF p. - 7). Verdict: COMPLETE. Editions: English read fully; Bangla parallel edition spot-checked (cover, contents with identical chapter page spans 1-175, spreads at the Bengal landform maps and Landforms of Bangladesh) — same content, placed once for both editions. Read via grab.py from the GitHub textbooks repo. (Combined History and Social Science book — Geography parts placed below; non-Geography parts named in the placements, not placed: My Different Identity — identity/biography parts, printed pp. 1-25 (map parts placed); Active Citizens Club — civics/rules, pp. 26-31; Ways of Knowing History — history method, pp. 32-35; Looking Around through the Lens of Science — inquiry/science method, pp. 36-49; Muktijuddha in Our Locality — history, pp. 82-104; The Emergence of Independent Bangladesh — history, pp. 105-113; Book Reading Programme — literacy, pp. 114-116; social-structure parts of Natural and Social Structures (family, values, status, state) — civics/sociology, pp. 125-133.) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bangladesh-placements.md.
 
+**Book 5:** *الدراسات الاجتماعية — مصر وقارات العالم الجديد (Social Studies — Egypt and the Continents of the New World)* (student book, Arabic) — Egypt, Ministry of Education and Technical Education, Egypt; year 2026/2027; no ISBN printed. Title as printed: الدراسات الاجتماعية — مصر وقارات العالم الجديد (Social Studies — Egypt and the Continents of the New World). Grade 9, Third Preparatory, Term 1 (student). 113 PDF pp. (cover verified against the record title; 28,827,806 bytes = record size exactly, from the recorded Azure source; staged in phase3-staging/grade-09/gov/egypt/Social_studies_prep3_t1.pdf under the push-don't-delete rule — its books.json record already existed there). Verdict: COMPLETE. Combined Social Studies book: Geography parts placed below; History parts named in the placements, not placed. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/egypt-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Four harms that cross borders: (a) falling farm output — farming majority, fast population growth, environment pressed, productivity falls; (b) soil degradation — erosion-prone terrain, soil washing into neighbouring countries by running water and dry-season whirlwinds, worsened drought, spreading desert, unbalanced nature | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 7, printed pp. 183–186 |
@@ -17,8 +19,9 @@ countries: Ethiopia, Costa Rica, Ecuador, Bangladesh
 | Costa Rica part — actions to adapt to and mitigate climate change in the world context | Costa Rica, *Antología CONED 8*, Grade 8, Unit 3 Tema 1 D — printed p. 82 |
 | Ecuador part — Calentamiento global y cambio climático: estrategias locales de reducción de efectos (framing of the protected-areas section) | Ecuador, *Estudios Sociales 5to EGB*, Grade 5, Calentamiento global y cambio climático: estrategias locales de reducción de efectos (framing of the protected-areas section) — printed p. 166 |
 | Bangladesh part (Grade 6) — Melting poles, pollution and what pupils can do about climate change | Bangladesh, *History and Social Science, Class Six*, Grade 6, Melting poles, pollution and what pupils can do about climate change — printed pp. 144-150 |
+| Egypt part (Grade 9) — Unit 3 Lesson 3: Climate change and its effect on ecosystems — greenhouse gases and their shares, human factors (industry, deforestation, urban expansion) and natural factors (forest fires, volcanoes, polar ice melt), effects on ecosystems and water resources, agriculture, transport and trade | Egypt, *Social Studies, Grade 9, Term 1*, Grade 9, Unit 3 Lesson 3: Climate change and its effect on ecosystems — printed p. 80 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Costa Rica, Ecuador, Bangladesh).**
+**Acceptance count: taught in 5 countries (Ethiopia, Costa Rica, Ecuador, Bangladesh, Egypt).**
 
 There is NO Grade 8 teacher-guide coverage for Chapter 7: the Grade 8 guide in hand holds only Units 1–3, so no teacher evidence is claimed for any Grade 8 part of this lesson.
 
@@ -31,3 +34,5 @@ Honesty note: the ministry's 2024 transición-curricular PDFs, as held, reuse on
 Searchable tags: climate change effects, farm output, soil degradation, malaria, trypanosomiasis, groundwater, remedies, planting trees, Ethiopia Grade 8 Social Studies Chapter 7, Costa Rica, CONED Antología, Estudios Sociales, Ecuador
 
 Bangladesh's own way (Grade 6): an inquiry-based combined History and Social Science course built around a class teacher character and group investigations; Geography is taught through the landform of Bengal itself — rivers, silt and hills explaining settlement, ancient states, ports and even the 1971 war — plus hands-on map-making (home-to-school route maps, a world-tour board game) and a pupil-run nature conservation club.
+
+Egypt's own way (Grade 9 Term 1): preparatory school closes with the “New World” — the Americas and Australia taught continent by continent (position, then surface: Rockies and Appalachians, Andes and the Amazon plain), the ecosystem sequence once more, and for the first time a full lesson on climate change itself (greenhouse-gas shares from a pie chart, human and natural causes, effects on ecosystems, water, farming and transport) — with the Panama Canal read against Suez as the strategic-position comparison.

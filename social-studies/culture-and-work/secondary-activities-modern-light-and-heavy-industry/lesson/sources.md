@@ -1,6 +1,6 @@
 # Sources — Secondary activities — modern light and heavy industry
 
-countries: Ethiopia, Bangladesh, Turkmenistan, Indonesia
+countries: Ethiopia, Bangladesh, Turkmenistan, Indonesia, Egypt
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 2 — Population Studies and Socio-Economic Activities, printed pp. 44–76).
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Bangladesh, Turkmenistan, Indonesia
 
 **Book 4:** *Geografi untuk SMA/MA Kelas XII* (student book, Indonesian) — Indonesia, Pusat Perbukuan, Kemendikbudristek; year 2022 (Cetakan Pertama); ISBN 978-602-427-914-1 (jil. 2); author Budi Handoyo. Title as printed: Geografi untuk SMA/MA Kelas XII. Grade 12 / SMA/MA Kelas XII (student). 288 PDF pp. (cover verified: "GEOGRAFI — SMA/MA Kelas XII", Kemendikbudristek 2022; xii + 276 printed pages). Verdict: COMPLETE. Records: 8 records / 4 distinct books in total for Indonesia (4 TSV release records + 4 books.json records that are the same 4 books by grade/kind — duplicate records, taught once). Library debts carried exactly as the placements state: the books.json records for all 4 Indonesia Geografi titles carry tree paths (grade-XX/gov/indonesia/geografi/…) that return 404 in the repo tree — the files actually live in GitHub releases mid-size-books-2 and mid-size-books-7, so the in_pushed tree records are misleading; the books.json source_url for both student books is truncated with "…" and cannot be used as recorded. Read full page-by-page via pdftotext -layout after cover verification; grabbed via grab.py (GitHub Releases API route for the TSV records). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/indonesia-placements.md.
 
+**Book 5:** *جغرافية التنمية — نماذج عالمية وتطبيقات عربية (Development Geography — World Models and Arab Applications)* (student book, Arabic) — Egypt, Ministry of Education and Technical Education, Egypt; edition 2025/2026; no ISBN printed. Title as printed: جغرافية التنمية — نماذج عالمية وتطبيقات عربية (Development Geography — World Models and Arab Applications). Grade 11, Second Secondary, Term 1 (student). 169 PDF pp. (cover verified against the record title; 64,632,284 bytes = record size exactly, from the recorded Azure source; staged in phase3-staging/grade-11/gov/egypt/Geography_Sec2_Tr1.pdf under the push-don't-delete rule — its books.json record already existed there). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/egypt-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Modern manufacturing | Ethiopia, *Social Studies Student Textbook, Grade 8* (Amhara Bureau), printed pp. 63–64 |
@@ -17,8 +19,9 @@ countries: Ethiopia, Bangladesh, Turkmenistan, Indonesia
 | Bangladesh part (Grade 6) — Visiting a small industry; how production was done in past ages and places | Bangladesh, *History and Social Science, Class Six*, Grade 6, Visiting a small industry; how production was done in past ages and places — printed pp. 163-165 |
 | Turkmenistan part — §22 Machine building; chemical industry | Turkmenistan, *Dünýäniň ykdysady we durmuş geografiýasy (World Economic and Social Geography)*, Grade 10, §22 Machine building; chemical industry — printed p. 89 |
 | Indonesia part (Grade 12) — Bab 2 B Industrial change under the industrial revolutions | Indonesia, *Geografi untuk SMA/MA Kelas XII*, Grade 12, Bab 2 B Industrial change under the industrial revolutions — printed p. 126 |
+| Egypt part (Grade 11) — Unit 3 Lesson 3: Industrial development | Egypt, *Development Geography, Grade 11*, Grade 11, Unit 3 Lesson 3: Industrial development — printed p. 70 (the placements name the target as culture-and-work/secondary-activities-industry; that slug does not exist, so this placement is stocked in this closest covering lesson, with the original slug recorded here) |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Bangladesh, Turkmenistan, Indonesia).**
+**Acceptance count: taught in 5 countries (Ethiopia, Bangladesh, Turkmenistan, Indonesia, Egypt).**
 
 Indonesia's own way (Grade 12): Grade 12 is applied human geography built entirely on Indonesian cases — regional development and spatial planning (tata ruang) measured against a Happiness Index, Industry 4.0 / Society 5.0, and Indonesia's own geopolitics and ASEAN-era cooperation as pillars of national resilience. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -29,3 +32,5 @@ Searchable tags: secondary activities: modern light and heavy industry, culture 
 Bangladesh's own way (Grade 6): an inquiry-based combined History and Social Science course built around a class teacher character and group investigations; Geography is taught through the landform of Bengal itself — rivers, silt and hills explaining settlement, ancient states, ports and even the 1971 war — plus hands-on map-making (home-to-school route maps, a world-tour board game) and a pupil-run nature conservation club.
 
 Turkmenistan's own way (Grade 10): A classic post-Soviet economic-and-social geography of the whole world in one book: Part I general world (political map, resources, population, world economy by sector), Part II the same template region by region and country by country, Part III global problems — with Turkmenistan's own memberships and ecological policy woven into the questions.
+
+Egypt's own way (Grade 11): a whole secondary book on development geography alone, built as concept → resources → economy → people: the idea of development traced as it widened (economic, then human, then sustainable development, with its principles of comprehensiveness, integration and sustainability), resources always paired with how to manage them, and the human-development unit closing with full worked country models (Malaysia profiled in depth — position, poverty fall, education, health, electronics and car industries — and Brazil) before the future of development in the Arab homeland.

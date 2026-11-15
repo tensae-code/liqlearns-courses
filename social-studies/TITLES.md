@@ -103,7 +103,7 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **964**
+Geography lessons across the eight Geography titles: **1005**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -522,3 +522,42 @@ Indonesia's student books, counted in acceptance,
 except Teaching Geography in the Merdeka Curriculum
 — Fase F Outcomes, which stands on Indonesia's
 teacher guides only, counted nowhere.)
+
++41 for Egypt, 2026-11-14 — The Land
+and Air: The Nile River and Its Valley, Africa's
+Aquatic Ecosystems, Egypt — Surface Features,
+Egypt — Climate, Egypt — Natural Vegetation and
+Wildlife, Egypt on the World Map, Where My
+Governorate Is, Eurasia — Position, Size and
+Coasts, Forest Systems of Asia and Europe,
+Grassland and Desert Systems of Asia and
+Europe, Aquatic Ecosystems of Asia and Europe,
+The Arab World — Location and Importance, Relief
+of the Arab World, Climate and Natural Vegetation
+of the Arab World, The New World Continents —
+Position and Surface, The Great Geographic
+Discoveries, Forest and Grassland Systems of the
+New World and Desert and Aquatic Ecosystems of
+the New World; Population, Transport and Maps:
+How Our City Grows and Changes, Our City in the
+Future and Characteristics of Africa's Population;
+People and Resources: Egypt — Mineral Wealth and
+Energy Sources, Egypt — Water Resources, Egypt —
+Natural and Human Resources, Eurasia — Minerals
+and Energy Sources and Minerals and Energy in the
+Arab World; Culture and Work: Service Places in
+Our City, Livestock and Fisheries in the Arab
+World and Mining, Energy and Industry in Africa;
+Resources and Conflict: Types of Political
+Borders; Global Issues: Egypt's National Projects
+— Vision for the Future, Environmental Challenges
+in the Arab World, Development Geography and Its
+Fields, Human Development — What It Is, Leading
+Development Models — Malaysia and Brazil, The
+Future of Development in the Arab World, The State
+— Definition and Types, Political and Electoral
+Systems of the State, Economic Problems with a
+Political Dimension, Social Problems with a
+Political Dimension and International Relations —
+What They Are. (All 41 stand on Egypt's student
+books, counted in acceptance.)
