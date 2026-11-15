@@ -1,6 +1,6 @@
 # Sources — From stone tools to farming — the Neolithic Revolution
 
-countries: Ethiopia, Angola
+countries: Ethiopia, Angola, Poland
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -67,3 +67,17 @@ Angola's own way (History expansion, 2026-11-15): A pupil in Angola learns Afric
 Djibouti's own way: History is taught entirely as Africa's own story, organised in 9 learning units (UA) that all feed one base competence — arguing for continental integration from Africa's past; every unit is planned twice (elementary and middle band) and then re-taught through sample lesson fiches (PDF pp. 31–69). That way is stocked here as the way Djibouti teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed. Library debt, carried as filed: the Djibouti shelf holds this continental guide, not a Djibouti national curriculum book — Djibouti's own primary history/social-studies book is still missing.
 
 **Acceptance count: taught in 2 countries (Ethiopia, Angola) — unchanged; the Djibouti placement(s) above are teacher-guide evidence only, counted nowhere. Djibouti is not added to this lesson's countries line.**
+
+---
+
+**Poland — History expansion (2026-11-15):**
+
+**Book (Poland):** *Ars longa. Przemiany sztuki. Tom I — od Wenus z Willendorfu do Ogrodu rozkoszy ziemskich (Ars Longa: Transformations of Art, Vol. I — from the Venus of Willendorf to The Garden of Earthly Delights)* (student book) — Poland. Title as printed: Ars longa. Przemiany sztuki. Tom I — od Wenus z Willendorfu do Ogrodu rozkoszy ziemskich (Ars Longa: Transformations of Art, Vol. I — from the Venus of Willendorf to The Garden of Earthly Delights). Grade: 9 (STUDENT). Publisher/year/ISBN: Centrum Edukacji Artystycznej, Warszawa, 2021; authors Beata Lewińska & Wojciech Jerzy Kieler; ISBN 978-83-62156-42-9 (print), 978-83-62156-43-6 (electronic). PDF pages: 163 (printed pagination runs to ~p. 290; cited pages are the book's printed pages from its table of contents). Verdict: READ in full via its complete text layer (all 12 chapters' structure, historical-background sections and contents verified page by page through the text). Tally: 16 placements — 10 existing, 6 NEW. Placements at liqlearns-courses-work/expansion-history-2026-11-15/poland-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Poland — Chapter I: Prehistoric art, historical background and the Palaeolithic and Neolithic: the first artists are hunters who paint the animals they chase on cave walls; then farming settles people down and the art changes from painted hunts to carved Venus figures, pottery and stone monuments — the same stone-tool-to-farming road, told through the pictures the travellers left (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Poland, *Ars longa. Przemiany sztuki. Tom I*, Grade 9 — printed p. 29 |
+
+Poland's own way: Poland teaches art history as a school subject in its own right in art schools; every world period chapter closes by bringing the story home — prehistoric art on Polish lands, pre-Romanesque art in Poland, Romanesque art in Poland — so Polish learners meet each world style again in their own soil. That way is stocked here as the way Poland teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 3 countries (Ethiopia, Angola, Poland).**

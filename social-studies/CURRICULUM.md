@@ -9327,3 +9327,99 @@ Education teacher guide, not the Social Studies guide;
 not placed, and the true P3 Social Studies teacher guide
 is still missing from the library. History lessons:
 407 → 418.
+
+## History expansion — Poland — built 2026-11-15
+
+28 new lessons, 224 questions: 6 in **Ancient World** —
+Prehistoric art on Polish lands
+(ancient-world/prehistoric-art-on-polish-lands),
+Greek art — temples, statues and painted vases
+(ancient-world/greek-art-temples-statues-and-painted-vases),
+The Etruscans — Rome's teachers
+(ancient-world/the-etruscans-romes-teachers),
+Pre-Romanesque and Romanesque art in Poland
+(ancient-world/pre-romanesque-and-romanesque-art-in-poland),
+Romanesque art — churches of stone
+(ancient-world/romanesque-art-churches-of-stone) and
+Gothic art — cathedrals and towns
+(ancient-world/gothic-art-cathedrals-and-towns);
+and 22 in **Modern World** —
+Mannerism — Italy's restless art after the Renaissance
+(modern-world/mannerism-italys-restless-art-after-the-renaissance),
+The Renaissance spreads north — France, Germany and the Netherlands
+(modern-world/the-renaissance-spreads-north-france-germany-and-the-netherlands),
+Poland's Renaissance — Kraków and the Jagiellonian court
+(modern-world/polands-renaissance-krakow-and-the-jagiellonian-court),
+Baroque Rome — art of the Counter-Reformation
+(modern-world/baroque-rome-art-of-the-counter-reformation),
+Baroque Spain — art of a golden-age court
+(modern-world/baroque-spain-art-of-a-golden-age-court),
+Baroque France — Versailles and the art of absolute monarchy
+(modern-world/baroque-france-versailles-and-the-art-of-absolute-monarchy),
+Dutch Golden Age — art of a republic of traders
+(modern-world/dutch-golden-age-art-of-a-republic-of-traders),
+Rococo — the aristocracy's playful art
+(modern-world/rococo-the-aristocracys-playful-art),
+Baroque and Rococo across central Europe
+(modern-world/baroque-and-rococo-across-central-europe),
+Poland's Baroque — churches and Sarmatian culture
+(modern-world/polands-baroque-churches-and-sarmatian-culture),
+Classicism — art looks back to Rome in the age of revolution
+(modern-world/classicism-art-looks-back-to-rome-in-the-age-of-revolution),
+Poland's last king and classicist Warsaw
+(modern-world/polands-last-king-and-classicist-warsaw),
+Historicism and iron architecture in the industrial century
+(modern-world/historicism-and-iron-architecture-in-the-industrial-century),
+Romanticism — art of feeling and nation
+(modern-world/romanticism-art-of-feeling-and-nation),
+Realism — painting ordinary life
+(modern-world/realism-painting-ordinary-life),
+Academic art — the official salons
+(modern-world/academic-art-the-official-salons),
+Poland's painters under partition — Matejko and history painting
+(modern-world/polands-painters-under-partition-matejko-and-history-painting),
+Impressionism — Paris paints modern life
+(modern-world/impressionism-paris-paints-modern-life),
+Post-impressionism — four rebels after the Impressionists
+(modern-world/post-impressionism-four-rebels-after-the-impressionists),
+Symbolism and Munch — art of dreams and anxiety
+(modern-world/symbolism-and-munch-art-of-dreams-and-anxiety),
+Art Nouveau — Secession, a total style for 1900
+(modern-world/art-nouveau-secession-a-total-style-for-1900) and
+Young Poland — art under the partitions
+(modern-world/young-poland-art-under-the-partitions)
+— 43 placements stocked in all: the 28 placements in the
+28 new lessons above (Grade 9 Ars longa Tom I, printed
+pp. 34, 72, 97, 163, 165 and 203; Grade 10 Ars longa
+Tom II, printed pp. 97, 111, 149, 187, 219, 237, 263,
+305, 333 and 353; Grade 11 Ars longa Tom III, printed
+pp. 10, 45, 82, 99, 133, 159, 177, 217, 245, 279, 311
+and 351) and 15 stocked into existing lessons (First
+Steps Heritage — what it is and why it matters, Tom I
+printed p. 27, now taught in 22 countries; Africa to
+1500 From stone tools to farming, Tom I printed p. 29,
+now taught in 3 countries, and Ancient Egypt — the
+Nile kingdom, Tom I printed p. 45, now taught in 3
+countries; Ancient World Ancient civilisations —
+Mesopotamia, Tom I printed p. 37, now taught in 2
+countries, Ancient civilisations — Greece-Crete, Tom I
+printed p. 63, now taught in 3 countries, Ancient
+civilisations — Athens and democracy, Tom I printed
+p. 69, now taught in 3 countries, Ancient civilisations
+— Rome, Tom I printed p. 101, now taught in 4 countries,
+Christianity — from persecuted sect to state religion,
+Tom I printed p. 123, now taught in 2 countries,
+Medieval world — Byzantium and Justinian, Tom I printed
+p. 133, now taught in 3 countries, and Medieval world —
+the Dark Age and feudalism, Tom I printed p. 149, now
+taught in 3 countries; Modern World The Renaissance —
+what it was, Tom II printed p. 7, now taught in 2
+countries, The Renaissance — its great figures, Tom II
+printed p. 35, now taught in 3 countries, The
+Reformation — the Catholic response, Tom II printed
+p. 179, now taught in 2 countries, The French
+Revolution breaks out — 1789, Tom III printed p. 7, now
+taught in 2 countries, and The Industrial Revolution —
+its two stages, Tom III printed p. 75, now taught in 2
+countries). All three Poland books are student books,
+counted in acceptance. History lessons: 418 → 446.

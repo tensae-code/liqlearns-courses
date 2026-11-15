@@ -1,0 +1,35 @@
+# Romanesque art — churches of stone
+
+## Do it first
+
+Before you read on, picture the scene this lesson is about, from its title alone: Romanesque art — churches of stone. What do you expect to happen, and what do you expect to change? Hold your ideas; the story will test them.
+
+## Sub lesson 1 — Europe covers itself in stone
+
+Around the year 1000 Europe covers itself in stone churches.
+
+This is a real turn in the story, not a detail at its edge: hold it by its place in the order — what came before it, and what it makes possible next.
+
+## Sub lesson 2 — Thick walls and carved portals
+
+Thick walls, round arches and carved portals preach the Bible to people who cannot read.
+
+This is a real turn in the story, not a detail at its edge: hold it by its place in the order — what came before it, and what it makes possible next.
+
+[Picture slot — a picture of a Romanesque church with thick walls, round arches and a carved portal — the student points to each feature and says what it did.]
+
+## Sub lesson 3 — Pilgrims' roads and monasteries
+
+The churches are built by pilgrims' roads and rich monasteries, from France to Poland.
+
+This is a real turn in the story, not a detail at its edge: hold it by its place in the order — what came before it, and what it makes possible next.
+
+## Say it to your companion
+
+Tell your companion the story as three beats: Around the year 1000 Europe covers itself in stone churches. Then: Thick walls, round arches and carved portals preach the Bible to people who cannot read. And finally: The churches are built by pilgrims' roads and rich monasteries, from France to Poland. Then let your companion ask you one hard question about it — answer from the lesson.
+
+## Do It Yourself
+
+1. Write the three parts of the story in order, from memory: Europe covers itself in stone; Thick walls and carved portals; Pilgrims' roads and monasteries.
+2. Write the one thing this lesson teaches, in your own words.
+3. Write one sentence on Poland's way of teaching this story — the world style first, then the story brought home, or, for partitioned Poland, art keeping a stateless nation visible to itself.

@@ -1,6 +1,6 @@
 # Sources — The Renaissance — what it was
 
-countries: Ethiopia
+countries: Ethiopia, Poland
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -37,3 +37,16 @@ History fix note (2026-11-12): the History coverage audit found this lesson's co
 
 History fix note (2026-11-12): the History coverage audit found this lesson's content standing but cited to another grade's book. The rows above cite the placement's own book at its own printed pages for the parts of this lesson that teach that placement's story; the lesson text was already teaching it, so no text change was needed — the provenance was the gap, and it is now closed.
 
+---
+
+**Poland — History expansion (2026-11-15):**
+
+**Book (Poland):** *Ars longa. Przemiany sztuki. Tom II (Ars Longa: Transformations of Art, Vol. II — Renaissance, Mannerism, Baroque and Rococo, 15th century to mid-18th century)* (student book) — Poland. Title as printed: Ars longa. Przemiany sztuki. Tom II (Ars Longa: Transformations of Art, Vol. II — Renaissance, Mannerism, Baroque and Rococo, 15th century to mid-18th century). Grade: 10 (STUDENT). Publisher/year/ISBN: Centrum Edukacji Artystycznej, Warszawa, 2022; authors Beata Lewińska & Wojciech Jerzy Kieler; ISBN 978-83-62156-50-4 (print), 978-83-62156-51-1 (electronic). PDF pages: 207 (printed pagination runs to ~p. 390). Verdict: READ in full via its complete text layer (grabbed from the GitHub tree on the second attempt; the first blob grab failed with an incomplete read). Tally: 13 placements — 3 existing, 10 NEW. Placements at liqlearns-courses-work/expansion-history-2026-11-15/poland-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Poland — Chapter I: Renaissance art in Italy, historical background: rich Italian city-states, proud of Rome's ruins under their feet, decide the Middle Ages were a long sleep — scholars dig out ancient books, bankers and popes pay for beauty, and art wakes up measuring the world with new eyes (History expansion, 2026-11-15; original placement slug: modern-world/the-renaissance-what-it-was) | Poland, *Ars longa. Przemiany sztuki. Tom II*, Grade 10 — printed p. 7 |
+
+Poland's own way: the volume keeps the series pattern — the world styles first (Italy, then the other countries), then a full chapter bringing each age home to Poland. That way is stocked here as the way Poland teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 2 countries (Ethiopia, Poland).**

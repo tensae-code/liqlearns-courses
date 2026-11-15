@@ -1,6 +1,6 @@
 # Sources — Ancient Egypt — the Nile Kingdom
 
-countries: Ethiopia, Angola
+countries: Ethiopia, Angola, Poland
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -55,3 +55,17 @@ Myanmar's own way: The year is split in two arcs — Myanmar's own past first (p
 Angola's own way (History expansion, 2026-11-15): A pupil in Angola learns African history as one rising arc — Africa as humanity's cradle, its ancient civilisations and great kingdoms, the slave-trade era, colonisation, and the liberation struggles — with Angola's own past carried inside the continental story rather than in a separate national book. That way is stocked here as the way Angola teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 2 countries (Ethiopia, Angola).**
+
+---
+
+**Poland — History expansion (2026-11-15):**
+
+**Book (Poland):** *Ars longa. Przemiany sztuki. Tom I — od Wenus z Willendorfu do Ogrodu rozkoszy ziemskich (Ars Longa: Transformations of Art, Vol. I — from the Venus of Willendorf to The Garden of Earthly Delights)* (student book) — Poland. Title as printed: Ars longa. Przemiany sztuki. Tom I — od Wenus z Willendorfu do Ogrodu rozkoszy ziemskich (Ars Longa: Transformations of Art, Vol. I — from the Venus of Willendorf to The Garden of Earthly Delights). Grade: 9 (STUDENT). Publisher/year/ISBN: Centrum Edukacji Artystycznej, Warszawa, 2021; authors Beata Lewińska & Wojciech Jerzy Kieler; ISBN 978-83-62156-42-9 (print), 978-83-62156-43-6 (electronic). PDF pages: 163 (printed pagination runs to ~p. 290; cited pages are the book's printed pages from its table of contents). Verdict: READ in full via its complete text layer (all 12 chapters' structure, historical-background sections and contents verified page by page through the text). Tally: 16 placements — 10 existing, 6 NEW. Placements at liqlearns-courses-work/expansion-history-2026-11-15/poland-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Poland — Chapter III: The art of ancient Egypt: the Nile kingdom builds for eternity — pyramids and temples raised to gods and god-kings, statues carved to a strict canon so a pharaoh's face outlives him by three thousand years, and tomb paintings that pack a whole life's food, servants and boats for the journey after death (History expansion, 2026-11-15; original placement slug: africa-to-1500/ancient-egypt-the-nile-kingdom) | Poland, *Ars longa. Przemiany sztuki. Tom I*, Grade 9 — printed p. 45 |
+
+Poland's own way: Poland teaches art history as a school subject in its own right in art schools; every world period chapter closes by bringing the story home — prehistoric art on Polish lands, pre-Romanesque art in Poland, Romanesque art in Poland — so Polish learners meet each world style again in their own soil. That way is stocked here as the way Poland teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 3 countries (Ethiopia, Angola, Poland).**

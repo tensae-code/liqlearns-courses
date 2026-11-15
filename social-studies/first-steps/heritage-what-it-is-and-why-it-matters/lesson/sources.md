@@ -1,6 +1,6 @@
 # Sources — Heritage — what it is and why it matters
 
-countries: Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivia, Zimbabwe, Eritrea, Cambodia, Fiji, Slovenia, Syria, Mauritania, Jordan, Bhutan, Cuba, Greece, Nauru, Niue, Tuvalu, Saudi Arabia, Rwanda
+countries: Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivia, Zimbabwe, Eritrea, Cambodia, Fiji, Slovenia, Syria, Mauritania, Jordan, Bhutan, Cuba, Greece, Nauru, Niue, Tuvalu, Saudi Arabia, Rwanda, Poland
 
 **Book 1:** *History, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, Addis Ababa, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-064-2, 210 printed pp. Printed page = PDF page − 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g09-student-placements.md
 
@@ -245,3 +245,17 @@ Rwanda's own way (B7): The final primary year is Rwanda's own modern story told 
 Rwanda's Book 4 (rw-p3-tg) is RECORD ONLY — MISMATCH, not placed: the file behind the record is *Inyoborabarezi y'isomo Ry'ubumenyi mbonezamubano — Igice cy'iyobokamana rya gikirisitu, Umwaka wa 3* (Teacher guide for the Christian Religious Education part of Social Studies & Religious Education), Primary 3, Rwanda Education Board (REB), Kigali, 2019, no ISBN printed, 166 PDF pages — it does NOT match the record's Social Studies teacher-guide title, contains no Social Studies Unit 9 (Amateka / timeline) guidance, and its prophet-story lessons are Religious Education, not History. Library debt, as filed: the true P3 Social Studies teacher guide is still missing from the library; this slot holds the RE guide instead.
 
 **Acceptance count: taught in 21 countries (Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivia, Eritrea, Cambodia, Fiji, Slovenia, Syria, Mauritania, Jordan, Bhutan, Cuba, Greece, Nauru, Niue, Tuvalu, Saudi Arabia, Rwanda). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
+
+---
+
+**Poland — History expansion (2026-11-15):**
+
+**Book (Poland):** *Ars longa. Przemiany sztuki. Tom I — od Wenus z Willendorfu do Ogrodu rozkoszy ziemskich (Ars Longa: Transformations of Art, Vol. I — from the Venus of Willendorf to The Garden of Earthly Delights)* (student book) — Poland. Title as printed: Ars longa. Przemiany sztuki. Tom I — od Wenus z Willendorfu do Ogrodu rozkoszy ziemskich (Ars Longa: Transformations of Art, Vol. I — from the Venus of Willendorf to The Garden of Earthly Delights). Grade: 9 (STUDENT). Publisher/year/ISBN: Centrum Edukacji Artystycznej, Warszawa, 2021; authors Beata Lewińska & Wojciech Jerzy Kieler; ISBN 978-83-62156-42-9 (print), 978-83-62156-43-6 (electronic). PDF pages: 163 (printed pagination runs to ~p. 290; cited pages are the book's printed pages from its table of contents). Verdict: READ in full via its complete text layer (all 12 chapters' structure, historical-background sections and contents verified page by page through the text). Tally: 16 placements — 10 existing, 6 NEW. Placements at liqlearns-courses-work/expansion-history-2026-11-15/poland-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Poland — Introduction: museums, galleries and collections: before any period, the book asks what art is (Tatarkiewicz, Read, Estreicher argue it out in quotations) and where old art lives now — the museum as the house where a people's memory is kept (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Poland, *Ars longa. Przemiany sztuki. Tom I*, Grade 9 — printed p. 27 |
+
+Poland's own way: Poland teaches art history as a school subject in its own right in art schools; every world period chapter closes by bringing the story home — prehistoric art on Polish lands, pre-Romanesque art in Poland, Romanesque art in Poland — so Polish learners meet each world style again in their own soil. That way is stocked here as the way Poland teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 22 countries (Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivia, Eritrea, Cambodia, Fiji, Slovenia, Syria, Mauritania, Jordan, Bhutan, Cuba, Greece, Nauru, Niue, Tuvalu, Saudi Arabia, Rwanda, Poland). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
