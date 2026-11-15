@@ -25,8 +25,9 @@ the one title at rising depth wherever a title spans both books
 ## The titles
 
 - `first-steps/` — what Social Studies is, our neighbourhood,
-  my house, my home, my town, my district and my village, and
-  how this course works (the books' own way: geography →
+  my house, my home, my town, my district and my village,
+  Ibn Battuta — traveller and explorer, and how this course
+  works (the books' own way: geography →
   history → today, activity first).
 - `earth-and-space/` — the universe, the solar system, the
   Earth: shape, size, movements, seasons, time.
@@ -42,7 +43,9 @@ the one title at rising depth wherever a title spans both books
 - `ancient-world/` — the ancient civilisations and the medieval
   world beyond Africa.
 - `the-land-and-air/` — continents and oceans, the forces that
-  shape the land, the atmosphere, weather and climate, map work.
+  shape the land, the atmosphere, weather and climate, map work
+  (including the UAE's location and emirates map and desert
+  wildlife of the UAE).
 - `culture-and-work/` — culture, economic activities, trade,
   and tax.
 - `resources-and-conflict/` — natural resources, their care,
@@ -61,9 +64,12 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **553**
+Geography lessons across the eight Geography titles: **556**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
 village; Population, Transport and Maps: Colouring Suriname's
-map and flag).
+map and flag; +3 for United Arab Emirates, 2026-11-14 — First
+Steps: Ibn Battuta — traveller and explorer; The Land and Air:
+The Emirates, my country — location and the emirates map and
+Desert wildlife of the UAE).

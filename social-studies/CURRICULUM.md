@@ -570,3 +570,20 @@ Ik-boek PDF pp. 8–9, 8 questions); in **Population, Transport
 and Maps**: Colouring Suriname's map and flag (1 placement,
 workbook Les 5, printed p. 8, 8 questions). Geography lessons:
 550 → 553.
+
+## Geography expansion — United Arab Emirates — built 2026-11-14
+
+United Arab Emirates — 7 placements stocked from *Social Studies
+& National Education, Student Book, Grade 1, Term 3* (student
+book, Arabic, COMPLETE). 4 stocked into standing lessons
+(Polluting air and water and Using resources well — Unit 5
+Lesson 2, printed p. 26; Heritage — what it is and why it
+matters — Unit 6 Lesson 1 part 2, printed p. 56; Plants of the
+dry lands and riverbanks — Unit 6 Lesson 3, printed p. 82; all
+now taught in 2 countries) and 3 new lessons built — in **First
+Steps**: Ibn Battuta — traveller and explorer (1 placement,
+printed p. 70, 8 questions); in **The Land and Air**: The
+Emirates, my country — location and the emirates map (1
+placement, printed p. 56, 8 questions) and Desert wildlife of
+the UAE (1 placement, appendix reader, printed p. 97, 8
+questions). Geography lessons: 553 → 556.
