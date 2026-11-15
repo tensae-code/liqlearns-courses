@@ -8887,3 +8887,71 @@ the new Ukraine in medieval Europe lesson, exactly as
 the placements file them. All 25 placements stand on
 the student book, counted in acceptance (the 25 new
 lessons). History lessons: 314 → 339.
+
+## History expansion — Nigeria — built 2026-11-15
+
+12 new lessons, 96 questions, in **Africa to 1500**:
+Ethiopia — kingdoms and faiths before 1800
+(africa-to-1500/ethiopia-kingdoms-and-faiths-before-1800)
+and Southern Africa's first peoples — San, Khoikhoi
+and Bantu
+(africa-to-1500/southern-africas-first-peoples-san-khoikhoi-and-bantu);
+and in **Africa after 1500**: East African coast —
+Portuguese conquest and rule
+(africa-after-1500/east-african-coast-portuguese-conquest-and-rule),
+Buganda — kingdom, clans, Kabaka and trade
+(africa-after-1500/buganda-kingdom-clans-kabaka-and-trade),
+Buganda — religious wars and British occupation
+(africa-after-1500/buganda-religious-wars-and-british-occupation),
+Ethiopia — Era of the Princes (Zemene Mesafint)
+(africa-after-1500/ethiopia-era-of-the-princes-zemene-mesafint),
+Ethiopia — Tewodros II the unifier
+(africa-after-1500/ethiopia-tewodros-ii-the-unifier),
+Ethiopia — Yohannes IV against Egypt and Italy
+(africa-after-1500/ethiopia-yohannes-iv-against-egypt-and-italy),
+Northern Nguni revolution before Shaka
+(africa-after-1500/northern-nguni-revolution-before-shaka),
+Mfecane — new states: Moshoeshoe, Mzilikazi and the
+Ngoni
+(africa-after-1500/mfecane-new-states-moshoeshoe-mzilikazi-and-the-ngoni),
+Cape Colony and the frontier wars
+(africa-after-1500/cape-colony-and-the-frontier-wars)
+and South Africa — diamonds, gold and the road to
+union
+(africa-after-1500/south-africa-diamonds-gold-and-the-road-to-union)
+— 27 placements stocked from Nigeria's 1 distinct
+book read here: the Grade 11 (SS 2) student book
+*Africa and the Wider World 2* (Longman Nigeria Plc,
+1992, ISBN 978-139-6741): Ch. 1 (printed pp. 1, 5
+and 9), into the existing Africa to 1500 Swahili
+cities and Ancient World Trade routes lessons and
+the new Portuguese conquest lesson; Ch. 2 (printed
+pp. 13 and 21), into the existing Omani turn lesson;
+Ch. 3 (printed pp. 28 and 38), into the existing
+Indian Ocean slave trades and Partition and Fashoda
+lessons; Ch. 4 (printed pp. 43 and 50), into the new
+Buganda kingdom lesson; Ch. 5 (printed pp. 58, 59,
+63 and 70), into the existing Exploration — Portugal
+and Explorers and missionaries lessons and the new
+Buganda religious wars lesson; Ch. 6 (printed
+pp. 73 and 81), into the new Ethiopia kingdoms and
+Era of the Princes lessons; Ch. 7 (printed p. 90),
+into the new Tewodros II lesson; Ch. 8 (printed
+p. 105), into the new Yohannes IV lesson; Ch. 9
+(printed pp. 115 and 124), into the new Southern
+Africa's first peoples and Northern Nguni lessons;
+Ch. 10 (printed pp. 129 and 137), into the existing
+Shaka lesson and the new Mfecane lesson; Ch. 11
+(printed pp. 145 and 152), into the new Cape Colony
+lesson; Ch. 12 (printed pp. 158, 161 and 168), into
+the existing Great Trek lesson and the new Diamonds,
+gold and union lesson; and the Preface (printed
+p. vi), into the existing First Steps Comparing
+states lesson. All 27 placements stand on the
+student book, counted in acceptance (the twelve new
+lessons; and the ten existing lessons stocked, whose
+counts rise with Nigeria added, as listed in
+TITLES.md). Nigeria's 18 other records are Learn
+Africa Plc approved-list catalog-only entries with
+no file held — UNREAD, record-only, with no
+placements. History lessons: 339 → 351.

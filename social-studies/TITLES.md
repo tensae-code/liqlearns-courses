@@ -57,7 +57,9 @@ the one title at rising depth wherever a title spans both books
 - `ethiopia-ancient-and-medieval/` — Ethiopia from the earliest
   times through the medieval kingdoms and sultanates.
 - `africa-to-1500/` — Africa's peoples, states and trade to
-  about 1500 (including Islam in West Africa).
+  about 1500 (including Islam in West Africa, and Ethiopia —
+  kingdoms and faiths before 1800, and Southern Africa's
+  first peoples — San, Khoikhoi and Bantu).
 - `ancient-world/` — the ancient civilisations and the medieval
   world beyond Africa (including Ibn Battuta — traveller
   of the Islamic world, and the Arabian Peninsula —
@@ -126,7 +128,16 @@ the one title at rising depth wherever a title spans both books
   end of the slave society, liberation and independence, and
   the two Republics, and problems of independent West
   African states, women and authority in West African
-  history, and the environment in West African history).
+  history, and the environment in West African history, and
+  East African coast — Portuguese conquest and rule,
+  Buganda — kingdom, clans, Kabaka and trade, Buganda —
+  religious wars and British occupation, Ethiopia — Era
+  of the Princes (Zemene Mesafint), Ethiopia — Tewodros II
+  the unifier, Ethiopia — Yohannes IV against Egypt and
+  Italy, Northern Nguni revolution before Shaka, Mfecane —
+  new states: Moshoeshoe, Mzilikazi and the Ngoni, Cape
+  Colony and the frontier wars, and South Africa —
+  diamonds, gold and the road to union).
   (No teacher evidence yet.)
 - `modern-world/` — the early-modern and modern world
   (including Guyana — our nation: independence and symbols,
@@ -2562,7 +2573,7 @@ Plants and Animals.
 
 ## History expansion totals
 
-History lessons across the History titles: **339**
+History lessons across the History titles: **351**
 (248 before the expansion; +1 for Guyana, 2026-11-15 —
 Modern World: Guyana — our nation: independence and
 symbols. All 3 Guyana placements stand on Guyana's
@@ -2783,3 +2794,37 @@ new lessons). The book's generalisation paragraphs
 they close and the course generalisation (§31) as
 the new Ukraine in medieval Europe lesson, as the
 placements file them.
+
++12 for Nigeria, 2026-11-15 — Africa to 1500:
+Ethiopia — kingdoms and faiths before 1800, and
+Southern Africa's first peoples — San, Khoikhoi and
+Bantu; Africa after 1500: East African coast —
+Portuguese conquest and rule, Buganda — kingdom,
+clans, Kabaka and trade, Buganda — religious wars
+and British occupation, Ethiopia — Era of the
+Princes (Zemene Mesafint), Ethiopia — Tewodros II
+the unifier, Ethiopia — Yohannes IV against Egypt
+and Italy, Northern Nguni revolution before Shaka,
+Mfecane — new states: Moshoeshoe, Mzilikazi and the
+Ngoni, Cape Colony and the frontier wars, and South
+Africa — diamonds, gold and the road to union. All
+27 Nigeria placements stand on Nigeria's Grade 11
+student book (Africa and the Wider World 2, Longman
+Nigeria Plc, 1992, ISBN 978-139-6741), counted in
+acceptance (the twelve new lessons; and the ten
+existing lessons stocked, whose counts rise with
+Nigeria added — Africa to 1500 East African coast —
+the Swahili cities 1 → 2; Ancient World Trade routes
+that linked the old world 1 → 2; Africa after 1500
+East Africa and the Omani turn 1 → 2, The Indian
+Ocean and trans-Saharan slave trades 1 → 2,
+Colonisation — the partition and Fashoda 2 → 3,
+Explorers and missionaries map the interior 2 → 3,
+Shaka and the Zulu kingdom 1 → 2 and White settlement
+and the Great Trek in South Africa 1 → 2; Modern
+World Exploration — Portugal and the sea routes
+2 → 3; and First Steps Comparing states — how
+kingdoms hold together 2 → 3). Nigeria's 18 other
+records are Learn Africa Plc approved-list
+catalog-only entries with no file held — UNREAD,
+record-only, with no placements.
