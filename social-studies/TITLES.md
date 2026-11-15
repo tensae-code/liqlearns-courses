@@ -25,12 +25,14 @@ the one title at rising depth wherever a title spans both books
 ## The titles
 
 - `first-steps/` — what Social Studies is, our neighbourhood,
-  and how this course works (the books' own way: geography →
+  my house, my home, my town, my district and my village, and
+  how this course works (the books' own way: geography →
   history → today, activity first).
 - `earth-and-space/` — the universe, the solar system, the
   Earth: shape, size, movements, seasons, time.
 - `population-transport-and-maps/` — people on the Earth:
-  distribution, movement, transport, and reading maps.
+  distribution, movement, transport, and reading maps
+  (including colouring Suriname's map and flag).
 - `people-and-resources/` — settlement, natural resources,
   economic activities, and looking after the land.
 - `ethiopia-ancient-and-medieval/` — Ethiopia from the earliest
@@ -59,6 +61,9 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **550**
+Geography lessons across the eight Geography titles: **553**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
-Steps: Our neighbourhood).
+Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
+Steps: My house, my home and My town, my district and my
+village; Population, Transport and Maps: Colouring Suriname's
+map and flag).

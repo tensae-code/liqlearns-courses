@@ -555,3 +555,18 @@ today, climate in general — printed p. 39; both now taught in
 2 countries) and 1 new lesson built in **First Steps** — Our
 neighbourhood (3 placements, printed pp. 20–22, 12 questions).
 Geography lessons: 549 → 550.
+
+## Geography expansion — Suriname — built 2026-11-14
+
+Suriname — 5 placements stocked from 2 Grade 3 OJW books (both
+student books, COMPLETE): *Ik-boek* (2 placements) and
+*Leerlingenwerkboek OJW, Leerjaar 3* (3 placements). 1 stocked
+into a standing lesson (Trade — what trade is — Les 21 Buying and
+selling, printed p. 25; now taught in 2 countries) and 3 new
+lessons built — in **First Steps**: My house, my home (2
+placements, Ik-boek PDF p. 6 + workbook printed p. 4, 8
+questions) and My town, my district and my village (1 placement,
+Ik-boek PDF pp. 8–9, 8 questions); in **Population, Transport
+and Maps**: Colouring Suriname's map and flag (1 placement,
+workbook Les 5, printed p. 8, 8 questions). Geography lessons:
+550 → 553.
