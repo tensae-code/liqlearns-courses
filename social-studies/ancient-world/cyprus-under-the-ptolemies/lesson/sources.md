@@ -1,0 +1,18 @@
+# Sources — Cyprus under the Ptolemies
+
+countries: Cyprus
+
+**Book 3 — cy-g4-student:** *Ο άνθρωπος και η ιστορία του: από την Κυπρογεωμετρική μέχρι την Ελληνιστική Εποχή (Man and his history: from the Cypro-Geometric to the Hellenistic Age)* (student book, Greek) — Cyprus. Title as printed: Ο άνθρωπος και η ιστορία του: από την Κυπρογεωμετρική μέχρι την Ελληνιστική Εποχή (Man and his history: from the Cypro-Geometric to the Hellenistic Age). Grade: 4 (student/teacher: STUDENT). Publisher: Παιδαγωγικό Ινστιτούτο, Υπηρεσία Ανάπτυξης Προγραμμάτων, Λευκωσία; year 2004; ISBN 9963-0-1253-1. PDF pages: 129 (cover verified visually against the record title; byte size 9,807,917 and page count match both records — TSV release record and books.json record are the same book, read once). Verdict: COMPLETE. Tally: 25 placements — 7 to existing lessons, 18 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/cyprus-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — The end of the Cypriot kingdoms; administration — the koina (325–30 BC): Unit 4 ch. 22–23: The end of the Cypriot kingdoms; administration — the koina (325–30 BC) — story beats: Alexander's successors abolish Cyprus's kings, and Ptolemaic governors rule the island as one province of an Egyptian empire (History expansion, 2026-11-15; original placement slug: ancient-world/cyprus-under-the-ptolemies) | Cyprus, *Ο άνθρωπος και η ιστορία του: από την Κυπρογεωμετρική μέχρι την Ελληνιστική Εποχή (cy-g4-student)*, Grade 4 — printed p. 88 |
+| Sub lesson 2 — The importance of Cyprus for the Ptolemaic kingdom — the Kyrenia ship: Unit 4 ch. 24: The importance of Cyprus for the Ptolemaic kingdom — the Kyrenia ship — story beats: Cypriot copper, timber, wine and harbours feed Ptolemaic power, and a merchant ship sunk off Kyrenia still tells the trade story (History expansion, 2026-11-15; original placement slug: ancient-world/cyprus-under-the-ptolemies) | Cyprus, *Ο άνθρωπος και η ιστορία του: από την Κυπρογεωμετρική μέχρι την Ελληνιστική Εποχή (cy-g4-student)*, Grade 4 — printed p. 92 |
+| Sub lesson 3 — Daily life; art — theatre of the Hellenistic age: Unit 4 ch. 25–26: Daily life; art — theatre of the Hellenistic age — story beats: Hellenistic Cypriots live in Greek-style cities, watch plays in stone theatres and fill houses with new fashions (History expansion, 2026-11-15; original placement slug: ancient-world/cyprus-under-the-ptolemies) | Cyprus, *Ο άνθρωπος και η ιστορία του: από την Κυπρογεωμετρική μέχρι την Ελληνιστική Εποχή (cy-g4-student)*, Grade 4 — printed p. 95 |
+| Sub lesson 4 — The religion of the Cypriots in the Hellenistic age: Unit 4 ch. 28: The religion of the Cypriots in the Hellenistic age — story beats: old Cypriot cults blend with Greek gods and ruler worship under Ptolemaic rule (History expansion, 2026-11-15; original placement slug: ancient-world/cyprus-under-the-ptolemies) | Cyprus, *Ο άνθρωπος και η ιστορία του: από την Κυπρογεωμετρική μέχρι την Ελληνιστική Εποχή (cy-g4-student)*, Grade 4 — printed p. 104 |
+
+Cyprus's own way (Grade 4): the island's whole ancient story is told through two child guides, a boy archaeologist and Aphrodite herself, period by period (Geometric, Archaic, Classical, Hellenistic), each unit ending in a play-and-check review; Cyprus is never a footnote to Greece — Greek, Phoenician, Persian, Macedonian and Roman actors all arrive on Cypriot ground. That way is stocked here as the way Cyprus teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 1 country (Cyprus).**
+
+Searchable tags: Cyprus, Cyprus under the Ptolemies, History expansion 2026-11-15

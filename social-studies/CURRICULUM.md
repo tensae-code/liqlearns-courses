@@ -10779,3 +10779,80 @@ Economics, Culture, Health and environment parts
 named in the placements file) stay named in the
 stocked sources, not placed.
 History lessons: 689 → 712.
+
+
+## History expansion — Cyprus — built 2026-11-15
+
+12 new lessons, 84 questions, all in **The Ancient World**:
+Palaeolithic minds and cave art
+(ancient-world/palaeolithic-minds-and-cave-art),
+Cyprus Neolithic — Choirokoitia and the first villages
+(ancient-world/cyprus-neolithic-choirokoitia-and-the-first-villages),
+Neolithic beliefs and symbols
+(ancient-world/neolithic-beliefs-and-symbols),
+Cyprus Bronze Age — copper and the first cities
+(ancient-world/cyprus-bronze-age-copper-and-the-first-cities),
+Bronze Age — myth and history
+(ancient-world/bronze-age-myth-and-history),
+Cyprus Geometric Age — the city-kingdoms are founded
+(ancient-world/cyprus-geometric-age-the-city-kingdoms-are-founded),
+Phoenicians in Cyprus
+(ancient-world/phoenicians-in-cyprus),
+Cyprus Archaic Age — kingdoms and conquerors
+(ancient-world/cyprus-archaic-age-kingdoms-and-conquerors),
+Salamis of Cyprus and King Onesilos
+(ancient-world/salamis-of-cyprus-and-king-onesilos),
+Cyprus Classical Age — Evagoras of Salamis
+(ancient-world/cyprus-classical-age-evagoras-of-salamis),
+Alexander the Great and Cyprus
+(ancient-world/alexander-the-great-and-cyprus), and
+Cyprus under the Ptolemies
+(ancient-world/cyprus-under-the-ptolemies).
+All 71 Cyprus placements are stocked: 41 into 10
+existing lessons and 30 into the 12 new lessons. The
+placed books are the Grade 3 teacher guide
+*Διδακτικές προτάσεις και ιδέες για εκπαιδευτικούς που
+διδάσκουν Ιστορία — Τάξη Γ΄ Δημοτικού* (cy-g3-proposals,
+2013, ISBN 978-9963-0-1391-3, 36 placements), the Grade 3
+work cards (cy-g3-cards, 2013, ISBN 978-9963-0-1363-0,
+5 placements), the Grade 4 student book *Ο άνθρωπος και
+η ιστορία του* (cy-g4-student, 2004, ISBN 9963-0-1253-1,
+25 placements) and the Grade 4 work cards (cy-g4-cards,
+2013, ISBN 978-9963-0-1411-8, 5 placements). Honesty:
+the Grade 3 proposals book is a TEACHER GUIDE — its 36
+placements stand as teacher-guide evidence only, counted
+nowhere in acceptance. Five of the new lessons stand on
+it alone (Palaeolithic minds and cave art, Cyprus
+Neolithic — Choirokoitia, Neolithic beliefs and symbols,
+Cyprus Bronze Age — copper and the first cities, Bronze
+Age — myth and history) and carry acceptance 0, Cyprus
+named, counted nowhere; three existing lessons take
+Cyprus guide evidence only and stay unchanged (From
+evidence to a written history 10, Find history in your
+own locality 10, Who studies prehistory 7). Cyprus is
+counted where its student books and work cards teach:
+What history is 13 → 14, Dating the past 8 → 9,
+Comparing states — how kingdoms hold together 4 → 5,
+From stone tools to farming 9 → 10, Ancient
+civilisations — Greece: Crete 8 → 9, World religions —
+the five main faiths 2 → 3, Ancient civilisations —
+Rome 9 → 10, and the seven student-built new lessons
+carry acceptance 1 (Cyprus). Three Cyprus records are
+RECORD ONLY, not placed: the 2016–17 and 2017–18
+teaching-media catalogues (wall-map inventories) and
+the Agios Dometios school-maps project report — no
+History teaching content. No placement slug needed
+remapping: every non-new slug exists, and the 12 NEW
+LESSON NEEDED slugs were checked against the current
+tree — no existing lesson teaches Choirokoitia,
+Cyprus's Bronze Age copper cities, its Geometric
+city-kingdoms, Phoenicians in Cyprus, Onesilos,
+Evagoras or Ptolemaic Cyprus, so the new lessons were
+built as the placements direct. Cyprus's own way is
+stocked inside the lessons: four enquiry questions
+asked of every age, one comparison grid from the
+Palaeolithic to the imagined 31st century, and the
+island's ancient story told through Hector the boy
+archaeologist and Aphrodite, Cyprus never a footnote
+to Greece.
+History lessons: 712 → 724.

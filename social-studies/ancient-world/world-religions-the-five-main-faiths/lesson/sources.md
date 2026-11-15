@@ -1,6 +1,6 @@
 # Sources — World religions — the five main faiths
 
-countries: Ethiopia, Bhutan
+countries: Ethiopia, Bhutan, Cyprus
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 6, placements 92–106).
 
@@ -31,3 +31,15 @@ Searchable tags: five religions, Christianity, Islam, Judaism, Hinduism, Buddhis
 Bhutan's own way (Bhutan Social Studies Class IV): History enters inside integrated Social Studies as the story of the child's own home, country and faith — first what history is, then why the land itself has had many names, then the two founding spiritual figures. That way is stocked here as the way Bhutan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 2 countries (Ethiopia, Bhutan).**
+
+## History expansion (2026-11-15) — Cyprus stocked
+
+**Book 3 — cy-g4-student:** *Ο άνθρωπος και η ιστορία του: από την Κυπρογεωμετρική μέχρι την Ελληνιστική Εποχή (Man and his history: from the Cypro-Geometric to the Hellenistic Age)* (student book, Greek) — Cyprus. Title as printed: Ο άνθρωπος και η ιστορία του: από την Κυπρογεωμετρική μέχρι την Ελληνιστική Εποχή (Man and his history: from the Cypro-Geometric to the Hellenistic Age). Grade: 4 (student/teacher: STUDENT). Publisher: Παιδαγωγικό Ινστιτούτο, Υπηρεσία Ανάπτυξης Προγραμμάτων, Λευκωσία; year 2004; ISBN 9963-0-1253-1. PDF pages: 129 (cover verified visually against the record title; byte size 9,807,917 and page count match both records — TSV release record and books.json record are the same book, read once). Verdict: COMPLETE. Tally: 25 placements — 7 to existing lessons, 18 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/cyprus-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cyprus part — Unit 3 ch. 20: Worship in the Cypro-Classical age — story beats: Aphrodite above all, with Greek and Phoenician gods beside her, receives Cypriot worship in sanctuaries across the island (History expansion, 2026-11-15; original placement slug: ancient-world/world-religions-the-five-main-faiths) | Cyprus, *Ο άνθρωπος και η ιστορία του: από την Κυπρογεωμετρική μέχρι την Ελληνιστική Εποχή (cy-g4-student)*, Grade 4 — printed p. 79 |
+
+Cyprus's own way (Grade 4): the island's whole ancient story is told through two child guides, a boy archaeologist and Aphrodite herself, period by period (Geometric, Archaic, Classical, Hellenistic), each unit ending in a play-and-check review; Cyprus is never a footnote to Greece — Greek, Phoenician, Persian, Macedonian and Roman actors all arrive on Cypriot ground. That way is stocked here as the way Cyprus teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 3 countries (Ethiopia, Bhutan, Cyprus).**

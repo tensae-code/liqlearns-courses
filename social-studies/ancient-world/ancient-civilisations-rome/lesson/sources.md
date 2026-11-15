@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — Rome
 
-countries: Ethiopia, Brazil, France, Poland, Turkey, Costa Rica, Australia, Malaysia, Ecuador
+countries: Ethiopia, Brazil, France, Poland, Turkey, Costa Rica, Australia, Malaysia, Ecuador, Cyprus
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -156,3 +156,15 @@ Malaysia's own way (Sejarah Tingkatan 1): Secondary history opens as "Our Histor
 Ecuador's own way (Ecuador Grade 11 EC-G11): the Bachillerato Historia course runs the whole human story — evolution, river civilisations, Greece/Rome/Byzantium, faiths, pre-Columbian America, colony, revolutions, economic systems — but keeps bending it home: Ecuadorian Indigenous women, the Inca legacy and dollarised 21st-century Ecuador close the arc. That way is stocked here as the way Ecuador teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 9 countries (Ethiopia, Brazil, France, Poland, Turkey, Costa Rica, Australia, Malaysia, Ecuador).**
+
+## History expansion (2026-11-15) — Cyprus stocked
+
+**Book 3 — cy-g4-student:** *Ο άνθρωπος και η ιστορία του: από την Κυπρογεωμετρική μέχρι την Ελληνιστική Εποχή (Man and his history: from the Cypro-Geometric to the Hellenistic Age)* (student book, Greek) — Cyprus. Title as printed: Ο άνθρωπος και η ιστορία του: από την Κυπρογεωμετρική μέχρι την Ελληνιστική Εποχή (Man and his history: from the Cypro-Geometric to the Hellenistic Age). Grade: 4 (student/teacher: STUDENT). Publisher: Παιδαγωγικό Ινστιτούτο, Υπηρεσία Ανάπτυξης Προγραμμάτων, Λευκωσία; year 2004; ISBN 9963-0-1253-1. PDF pages: 129 (cover verified visually against the record title; byte size 9,807,917 and page count match both records — TSV release record and books.json record are the same book, read once). Verdict: COMPLETE. Tally: 25 placements — 7 to existing lessons, 18 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/cyprus-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cyprus part — Unit 4 ch. 29: The Romans conquer Cyprus — story beats: Rome annexes the island in 58 BC, ending the Hellenistic age and starting Cyprus's Roman centuries (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-rome) | Cyprus, *Ο άνθρωπος και η ιστορία του: από την Κυπρογεωμετρική μέχρι την Ελληνιστική Εποχή (cy-g4-student)*, Grade 4 — printed p. 106 |
+
+Cyprus's own way (Grade 4): the island's whole ancient story is told through two child guides, a boy archaeologist and Aphrodite herself, period by period (Geometric, Archaic, Classical, Hellenistic), each unit ending in a play-and-check review; Cyprus is never a footnote to Greece — Greek, Phoenician, Persian, Macedonian and Roman actors all arrive on Cypriot ground. That way is stocked here as the way Cyprus teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 10 countries (Ethiopia, Brazil, France, Poland, Turkey, Costa Rica, Australia, Malaysia, Ecuador, Cyprus).**

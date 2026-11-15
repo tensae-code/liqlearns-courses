@@ -1,6 +1,6 @@
 # Sources — Dating the past — calendars, timelines and periods
 
-countries: Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea
+countries: Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -187,3 +187,31 @@ Eritrea's own way (Grade 4): a Tigrinya-medium Social Studies book that teaches 
 Eritrea's own way (Grade 6): an integrated Social Studies book that starts from method — sources first, then measuring time — and only then tells Eritrea's own story in strict order: migrations, ancient trading towns, Beja kingdoms, the Bahri Negestat, each unit closing with timeline and map-skills work. That way is stocked here as the way Eritrea teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 8 countries (Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea).**
+
+## History expansion (2026-11-15) — Cyprus stocked
+
+**Book 1 — cy-g3-proposals:** *Διδακτικές προτάσεις και ιδέες για εκπαιδευτικούς που διδάσκουν Ιστορία — Τάξη Γ΄ Δημοτικού (Teaching proposals and ideas for teachers who teach History — Grade 3 primary)* (teacher guide, Greek) — Cyprus. Title as printed: Διδακτικές προτάσεις και ιδέες για εκπαιδευτικούς που διδάσκουν Ιστορία — Τάξη Γ΄ Δημοτικού (Teaching proposals and ideas for teachers who teach History — Grade 3 primary). Grade: 3 (student/teacher: TEACHER). Publisher: Υπουργείο Παιδείας και Πολιτισμού, Παιδαγωγικό Ινστιτούτο Κύπρου, Υπηρεσία Ανάπτυξης Προγραμμάτων; year 2013 (preliminary edition); ISBN 978-9963-0-1391-3. PDF pages: 243 (cover/title page verified against the record title; byte size 6,136,113 matches both records — the TSV release record and the books.json record are the same book, read once). Verdict: COMPLETE. Tally: 36 placements — 25 to existing lessons, 11 NEW LESSON NEEDED. Teacher guide — every placement from this book stands as teacher-guide evidence only, counted nowhere in acceptance. Placements at liqlearns-courses-work/expansion-history-2026-11-15/cyprus-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cyprus part — Intro unit proposal 3: Who was I? Who will I be? — story beats: past, present and future selves are placed on one line, and the child sees a single life changing over time (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Cyprus, *Διδακτικές προτάσεις και ιδέες για εκπαιδευτικούς που διδάσκουν Ιστορία — Τάξη Γ΄ Δημοτικού (cy-g3-proposals)* (teacher guide — evidence), printed p. 40 |
+
+**Book 2 — cy-g3-cards:** *«Τι αλλάζει και τι μένει το ίδιο από την Παλαιολιθική Εποχή μέχρι σήμερα;» – Κάρτες Εργασίας (What changes and what stays the same from the Palaeolithic Age to today? — Work Cards)* (work cards, Greek) — Cyprus. Title as printed: «Τι αλλάζει και τι μένει το ίδιο από την Παλαιολιθική Εποχή μέχρι σήμερα;» – Κάρτες Εργασίας (What changes and what stays the same from the Palaeolithic Age to today? — Work Cards). Grade: 3 (student/teacher: STUDENT). Publisher: Υπουργείο Παιδείας και Πολιτισμού, Παιδαγωγικό Ινστιτούτο Κύπρου; year 2013; ISBN 978-9963-0-1363-0. PDF pages: 27 (title page verified against the record title; byte size 1,899,186 and page count match the record). Verdict: COMPLETE. Tally: 5 placements — 5 to existing lessons, 0 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/cyprus-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cyprus part — Introduction: what changes and what stays the same — story beats: children learn the year's master question — across every age, some things change and some stay the same, and spotting both is the historian's job (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Cyprus, *«Τι αλλάζει και τι μένει το ίδιο από την Παλαιολιθική Εποχή μέχρι σήμερα;» – Κάρτες Εργασίας (cy-g3-cards)*, Grade 3 — printed p. 2 |
+
+**Book 4 — cy-g4-cards:** *«Τι αλλάζει και τι μένει το ίδιο από τη Γεωμετρική Εποχή μέχρι Σήμερα;» – Κάρτες Εργασίας (What changes and what stays the same from the Geometric Age to today? — Work Cards)* (work cards, Greek; two postings, one book) — Cyprus. Title as printed: «Τι αλλάζει και τι μένει το ίδιο από τη Γεωμετρική Εποχή μέχρι Σήμερα;» – Κάρτες Εργασίας (What changes and what stays the same from the Geometric Age to today? — Work Cards). Grade: 4 (student/teacher: STUDENT). Publisher: Υπουργείο Παιδείας και Πολιτισμού, Παιδαγωγικό Ινστιτούτο Κύπρου; year 2013; ISBN 978-9963-0-1411-8 (later posting). PDF pages: 30 (later posting, d_taxi_kartes_ergasias.pdf, 1,939,204 bytes) and 27 (earlier posting, kartes_ergasias_d_taxi.pdf, 1,816,415 bytes) — cover/title pages of both verified; contents and all 11 card headings spot-checked identical, so placed once for both editions. Verdict: COMPLETE. Tally: 5 placements — 4 to existing lessons, 1 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/cyprus-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cyprus part — Introduction: what changes and what stays the same — story beats: the grid's columns are whole ages of Cyprus, and the child's task is to watch one island change across a thousand years and into an imagined future (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Cyprus, *«Τι αλλάζει και τι μένει το ίδιο από τη Γεωμετρική Εποχή μέχρι Σήμερα;» – Κάρτες Εργασίας (cy-g4-cards)*, Grade 4 — printed p. 2 |
+
+Cyprus's own way (Grade 3 teacher guide): History is built through four recurring enquiry questions — How and why do we move? How do we spend our day? What do we think? How do we organise ourselves? — asked identically of the child's own life and of the Palaeolithic, Neolithic and Bronze Age, so change-and-continuity is felt, not memorised; evidence work (sources, questions, graded-certainty language) comes before any period content. That way is stocked here as the way Cyprus teaches this thing. This book is a teacher guide: its rows stand as teacher-guide evidence only, counted nowhere in acceptance. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Cyprus's own way (Grade 3 work cards): the child fills in the same comparison card for every age — Palaeolithic, Neolithic, Bronze Age, the 21st century and even the imagined 31st century — so change-and-continuity is a habit of filling one grid, and the future is treated as history-in-waiting. That way is stocked here as the way Cyprus teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Cyprus's own way (Grade 4 work cards): the Grade 3 comparison grid grows up with the child — the same 11 cards now run Geometric, Archaic, Classical, Hellenistic, today and the imagined 31st century side by side. That way is stocked here as the way Cyprus teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 9 countries (Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus).** Cyprus is counted in this lesson through its student work cards (Books 2 and 4); the Book 1 row above stands on the Grade 3 teacher guide as teacher-guide evidence only and adds no count beyond it.

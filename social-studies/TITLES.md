@@ -2581,7 +2581,7 @@ Plants and Animals.
 
 ## History expansion totals
 
-History lessons across the History titles: **712**
+History lessons across the History titles: **724**
 (248 before the expansion; +1 for Guyana, 2026-11-15 —
 Modern World: Guyana — our nation: independence and
 symbols. All 3 Guyana placements stand on Guyana's
@@ -3616,3 +3616,34 @@ parts (Geography, Civics, Economics, Culture,
 Health and environment parts named in the
 placements file and in the stocked sources) stay
 named, not placed.
+
++12 for Cyprus, 2026-11-15 — Ancient World:
+Palaeolithic minds and cave art, Cyprus Neolithic —
+Choirokoitia and the first villages, Neolithic beliefs
+and symbols, Cyprus Bronze Age — copper and the first
+cities, Bronze Age — myth and history, Cyprus Geometric
+Age — the city-kingdoms are founded, Phoenicians in
+Cyprus, Cyprus Archaic Age — kingdoms and conquerors,
+Salamis of Cyprus and King Onesilos, Cyprus Classical
+Age — Evagoras of Salamis, Alexander the Great and
+Cyprus, and Cyprus under the Ptolemies. All 71 Cyprus
+placements are stocked (41 into 10 existing lessons, 30
+into the 12 new lessons) on four placed books: the
+Grade 4 student book *Ο άνθρωπος και η ιστορία του*
+(cy-g4-student, 2004, ISBN 9963-0-1253-1, 25 placements)
+and the Grade 3 and Grade 4 work cards (cy-g3-cards,
+ISBN 978-9963-0-1363-0, 5 placements; cy-g4-cards, ISBN
+978-9963-0-1411-8, 5 placements), counted in acceptance;
+and the Grade 3 teacher guide (cy-g3-proposals, 2013,
+ISBN 978-9963-0-1391-3, 36 placements), cited as
+teacher-guide evidence only, counted nowhere — the
+five new lessons standing on it alone carry acceptance
+0, and From evidence to a written history, Find history
+in your own locality and Who studies prehistory take
+Cyprus guide evidence without a count change. Counted
+rises on student evidence: What history is 13 → 14,
+Dating the past 8 → 9, Comparing states 4 → 5, From
+stone tools to farming 9 → 10, Greece: Crete 8 → 9,
+World religions 2 → 3, Rome 9 → 10. Three Cyprus
+records (two teaching-media catalogues and a school
+maps project report) are record only, not placed.
