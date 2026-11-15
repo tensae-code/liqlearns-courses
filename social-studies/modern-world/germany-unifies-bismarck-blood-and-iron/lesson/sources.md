@@ -1,6 +1,6 @@
 # Sources — Germany unifies — Bismarck, Blood and Iron, Versailles 1871
 
-countries: Ethiopia
+countries: Ethiopia, Cambodia
 
 **Book 1:** *History, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN 978-99990-0-065-9, printed by GRAVITY GROUP IND LLC, Sharjah, UAE. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g10-student-placements.md
 
@@ -45,3 +45,28 @@ History fix note (2026-11-12): the History coverage audit found this lesson's co
 Iceland's own way: a Norwegian textbook re-rooted in Iceland — every world chapter is doubled with Icelandic source work: the 1703 census, tenant farmers and servants under the vistarband, Jørgen Jørgensen's 1809 coup, emigration to Canada, Jón Sigurðsson, the Spanish flu and the road to the 1944 republic; pupils judge sources, role-play strikes and suffrage debates, and keep asking "was Iceland a colony?" That way is stocked here as the way Iceland teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 1 country (Ethiopia) — unchanged; the Iceland placement above is teacher-guide evidence only, counted nowhere. Iceland is not added to this lesson's countries line.**
+
+---
+
+## History expansion (2026-11-15) — Cambodia stocked
+
+**Book 4 — History Grade 11 (student book, Khmer)**
+- Title as printed: ប្រវត្តិវិទ្យា ថ្នាក់ទី១១ (History, Grade 11)
+- Grade: Grade 11 (student/teacher: STUDENT)
+- Publisher: MoEYS, Publishing and Distribution House; 11th printing 2020, 26,000 copies, approved by MoEYS letter 1981 of 2 June 2010; built on the 2009 history curriculum (3 chapters, 28 lessons, per the preface); ISBN 978-9995-001-02-5 (printed 9-789-995-001-025)
+- PDF pages: 208 (title page verified against the record title; printed pp. 1–204, printed p. = PDF p. − 4)
+- Verdict: COMPLETE (contents read in full; every lesson's opening and argument read; History-only book, no combined parts)
+- Tally: 28 placements — 12 to existing lessons, 16 NEW LESSON NEEDED
+- Cambodia's own way: world history is told country by country in two passes (to 1914, then 1919–1939), Cambodia's own post-Angkor centuries get a short separate chapter, and the year closes by touring the neighbours — Indonesia to Australia — so a Cambodian school-leaver knows the region state by state.
+- Erratum noticed: the contents page lists Ch. 3 Lesson 5 as Burma and Lesson 6 as Vietnam, but the printed lessons are Korea (p. 186) and New Zealand (p. 192); there is no Burma or Vietnam lesson in the book.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cambodia part — Ch. 1 Lesson 4, The German Empire (1871–1914) — story beats: the empire is proclaimed at Versailles on 18 January 1871 — 25 states under one Kaiser, Bundesrat and Reichstag — and by 1914 Germany stands as Europe's second industrial power (History expansion, 2026-11-15; original placement slug: modern-world/germany-unifies-bismarck-blood-and-iron) | Cambodia, *ប្រវត្តិវិទ្យា ថ្នាក់ទី១១ (History, Grade 11)*, printed p. 22 |
+
+Cambodia's own way (Book 4 — ប្រវត្តិវិទ្យា ថ្នាក់ទី១១ (History, Grade 11), Grade 11 (student/teacher: STUDENT)): world history is told country by country in two passes (to 1914, then 1919–1939), Cambodia's own post-Angkor centuries get a short separate chapter, and the year closes by touring the neighbours — Indonesia to Australia — so a Cambodian school-leaver knows the region state by state. That way is stocked here as the way Cambodia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 2 countries (Ethiopia, Cambodia).**
+
+Searchable tags: Cambodia, Germany unifies — Bismarck, Blood and Iron, Versailles 1871, modern-world, History expansion 2026-11-15

@@ -1,6 +1,6 @@
 # Sources — 1789 — the French Revolution breaks out
 
-countries: Ethiopia, Poland, Costa Rica, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan
+countries: Ethiopia, Poland, Costa Rica, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Cambodia
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under GEQIP-E, ISBN 978-99990-0-066-6. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -172,3 +172,28 @@ Searchable tags: Pakistan, 1789 — the French Revolution breaks out, modern-wor
 Bolivia's own way (Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Secundaria Comunitaria Productiva, Área Ciencias Sociales, teacher guide): The teachers' compendium binds the whole six-year Ciencias Sociales course in one volume: teachers hold the full arc — Abya Yala's civilisations, colony, independence (with its revisionist debate and its women), oligarchic republic, Chaco, 1952, dictatorships, neoliberalism and the democratic-cultural revolution — framed throughout by decolonisation ("breaking the mental structures that think there are superior thoughts") and Vivir Bien. That way is stocked here as the way Bolivia teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 8 countries (Ethiopia, Poland, Costa Rica, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan) — unchanged; the Bolivia placement(s) above stand on the teacher compendium only, cited as evidence only, counted nowhere. Bolivia is not added to this lesson's countries line.**
+
+---
+
+## History expansion (2026-11-15) — Cambodia stocked
+
+**Book 9 — Social Studies Grade 8 (student book, Khmer; combined book: Geography + History + Morality-Civics + Home Economics)**
+- Title as printed: សិក្សាសង្គម ថ្នាក់ទី៨ (Social Studies, Grade 8)
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: MoEYS, Publishing and Distribution House; 11th printing 2020, 40,000 copies, approved by MoEYS letter 2228 of 25 June 2010; built on the 2009 curriculum; ISBN 978-9995-001-24-7 (printed 9-789-995-001-247)
+- PDF pages: 305 (cover and title page verified against the record title; printed pp. 1–300, printed p. = PDF p. − 5)
+- Verdict: COMPLETE (contents read in full; every History lesson's opening and argument read; non-History parts surveyed by contents)
+- Tally: 14 placements — 5 to existing lessons, 9 NEW LESSON NEEDED
+- Cambodia's own way: Grade 8 pairs Europe's revolutions with the neighbour states a Cambodian must know — Champa, Dai Viet, Ayutthaya, Lan Xang, the Malay world — each told with its Khmer connection (Fa Ngum raised at Angkor; "Syam" named in Angkor's inscriptions).
+- Non-History parts (named, not placed): Geography, printed pp. 1–73 (the Southeast Asian countries one by one; developing and developed countries); Morality-Civics, printed pp. 152–245 (living with others, family relations, living in society); Home Economics, printed pp. 246–300 (sewing and garment work).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cambodia part — History Ch. 1 Lesson 4, The French Revolution — story beats: Louis XVI summons the Estates-General to Versailles (5 May 1789); the Third Estate declares itself the National Assembly (17 June) and the old order begins to fall (History expansion, 2026-11-15; original placement slug: modern-world/the-french-revolution-liberty-equality-terror) | Cambodia, *សិក្សាសង្គម ថ្នាក់ទី៨ (Social Studies, Grade 8)*, printed p. 90 |
+
+Cambodia's own way (Book 9 — សិក្សាសង្គម ថ្នាក់ទី៨ (Social Studies, Grade 8), Grade 8 (student/teacher: STUDENT)): Grade 8 pairs Europe's revolutions with the neighbour states a Cambodian must know — Champa, Dai Viet, Ayutthaya, Lan Xang, the Malay world — each told with its Khmer connection (Fa Ngum raised at Angkor; "Syam" named in Angkor's inscriptions). That way is stocked here as the way Cambodia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 9 countries (Ethiopia, Poland, Costa Rica, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Cambodia).**
+
+Searchable tags: Cambodia, 1789 — the French Revolution breaks out, modern-world, History expansion 2026-11-15

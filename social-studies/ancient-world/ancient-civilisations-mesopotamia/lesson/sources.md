@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — Mesopotamia
 
-countries: Ethiopia, Poland, Turkey, Bangladesh, Costa Rica, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Iran
+countries: Ethiopia, Poland, Turkey, Bangladesh, Costa Rica, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Iran, Cambodia
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -251,3 +251,28 @@ Iran's own way (Book 1 — History 1, Grade 10 (student book, Persian)): a full 
 **Acceptance count: taught in 13 countries (Ethiopia, Poland, Turkey, Bangladesh, Costa Rica, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Iran).**
 
 Searchable tags: Iran, Ancient civilisations — Mesopotamia, ancient-world, History expansion 2026-11-15
+
+---
+
+## History expansion (2026-11-15) — Cambodia stocked
+
+**Book 8 — Social Studies Grade 7 (student book, Khmer; combined book: Geography + History + Morality-Civics)**
+- Title as printed: សិក្សាសង្គម ថ្នាក់ទី៧ (Social Studies, Grade 7)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: MoEYS, Publishing and Distribution House; 14th printing 2020, 100,000 copies, approved by MoEYS letter 2211 of 15 July 2009; ISBN 978-9995-000-82-0 (printed 9-789-995-000-820)
+- PDF pages: 304 (cover and title page verified against the record title; printed pp. 1–300, printed p. = PDF p. − 4)
+- Verdict: COMPLETE (contents read in full; every History lesson's opening and argument read; non-History parts surveyed by contents)
+- Tally: 15 placements — 11 to existing lessons, 4 NEW LESSON NEEDED
+- Cambodia's own way: secondary history starts from what history itself is, tours the ancient river civilisations, then grounds everything at home — prehistoric Cambodia, Funan, Chenla — and in the neighbours (China, India, Java, the Mon).
+- Non-History parts (named, not placed): Geography, printed pp. 1–75 (people and life in the hot, temperate and cold zones; world climate zones); Morality-Civics, printed pp. 152–300 (time and the individual, group life, family, living with the public, organising work, customs, professions and the law, traffic safety).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cambodia part — History Ch. 1 Lesson 3, The states of Mesopotamia — story beats: between the Tigris and the Euphrates, falling from the Armenian mountains, Sumerian cities invent writing, law and the wheel (map, p. 86) (History expansion, 2026-11-15; original placement slug: ancient-world/mesopotamia-between-two-rivers) | Cambodia, *សិក្សាសង្គម ថ្នាក់ទី៧ (Social Studies, Grade 7)*, printed p. 86 |
+
+Cambodia's own way (Book 8 — សិក្សាសង្គម ថ្នាក់ទី៧ (Social Studies, Grade 7), Grade 7 (student/teacher: STUDENT)): secondary history starts from what history itself is, tours the ancient river civilisations, then grounds everything at home — prehistoric Cambodia, Funan, Chenla — and in the neighbours (China, India, Java, the Mon). That way is stocked here as the way Cambodia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 14 countries (Ethiopia, Poland, Turkey, Bangladesh, Costa Rica, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Iran, Cambodia).**
+
+Searchable tags: Cambodia, Ancient civilisations — Mesopotamia, ancient-world, History expansion 2026-11-15

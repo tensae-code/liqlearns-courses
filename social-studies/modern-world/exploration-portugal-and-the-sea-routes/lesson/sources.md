@@ -1,6 +1,6 @@
 # Sources — Exploration — Portugal and the sea routes to India
 
-countries: Ethiopia, Palestine, Nigeria, United States, Ecuador, Kuwait, Indonesia, Montenegro, Pakistan, Suriname
+countries: Ethiopia, Palestine, Nigeria, United States, Ecuador, Kuwait, Indonesia, Montenegro, Pakistan, Suriname, Cambodia
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -195,3 +195,28 @@ Suriname's own way (Book 6 — Wij en ons verleden — Nieuwe Editie, 7, Grade 7
 Suriname's own way (Book 7 — Leerkrachtenboek — Wij en ons verleden, Nieuwe Editie, 7, Grade 7 (student/teacher: TEACHER)): The guide mirrors the student book's 8 themes and adds the full teaching apparatus: lesson goals per lesson, a didactic model with differentiation and 21st-century skills, copy sheets, and quarterly projects (wall newspaper, collage, researcher, object table; local-environment history, quartet card game, drama; museum visit, monument artwork, world map, timeline) — history is explicitly taught to form citizenship for Suriname, the Caricom community and the world. That way is stocked here as the way Suriname teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 10 countries (Ethiopia, Palestine, Nigeria, United States, Ecuador, Kuwait, Indonesia, Montenegro, Pakistan, Suriname).**
+
+---
+
+## History expansion (2026-11-15) — Cambodia stocked
+
+**Book 9 — Social Studies Grade 8 (student book, Khmer; combined book: Geography + History + Morality-Civics + Home Economics)**
+- Title as printed: សិក្សាសង្គម ថ្នាក់ទី៨ (Social Studies, Grade 8)
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: MoEYS, Publishing and Distribution House; 11th printing 2020, 40,000 copies, approved by MoEYS letter 2228 of 25 June 2010; built on the 2009 curriculum; ISBN 978-9995-001-24-7 (printed 9-789-995-001-247)
+- PDF pages: 305 (cover and title page verified against the record title; printed pp. 1–300, printed p. = PDF p. − 5)
+- Verdict: COMPLETE (contents read in full; every History lesson's opening and argument read; non-History parts surveyed by contents)
+- Tally: 14 placements — 5 to existing lessons, 9 NEW LESSON NEEDED
+- Cambodia's own way: Grade 8 pairs Europe's revolutions with the neighbour states a Cambodian must know — Champa, Dai Viet, Ayutthaya, Lan Xang, the Malay world — each told with its Khmer connection (Fa Ngum raised at Angkor; "Syam" named in Angkor's inscriptions).
+- Non-History parts (named, not placed): Geography, printed pp. 1–73 (the Southeast Asian countries one by one; developing and developed countries); Morality-Civics, printed pp. 152–245 (living with others, family relations, living in society); Home Economics, printed pp. 246–300 (sewing and garment work).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cambodia part — History Ch. 1 Lesson 2, The explorations of the Europeans — story beats: Henry the Navigator's school sends Dias around the Cape (1488) and Vasco da Gama (portrait, p. 80) to Calicut in 1498 — the sea road to India changes the world's trade (History expansion, 2026-11-15; original placement slug: modern-world/the-voyages-of-discovery-columbus-da-gama-magellan) | Cambodia, *សិក្សាសង្គម ថ្នាក់ទី៨ (Social Studies, Grade 8)*, printed p. 80 |
+
+Cambodia's own way (Book 9 — សិក្សាសង្គម ថ្នាក់ទី៨ (Social Studies, Grade 8), Grade 8 (student/teacher: STUDENT)): Grade 8 pairs Europe's revolutions with the neighbour states a Cambodian must know — Champa, Dai Viet, Ayutthaya, Lan Xang, the Malay world — each told with its Khmer connection (Fa Ngum raised at Angkor; "Syam" named in Angkor's inscriptions). That way is stocked here as the way Cambodia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 11 countries (Ethiopia, Palestine, Nigeria, United States, Ecuador, Kuwait, Indonesia, Montenegro, Pakistan, Suriname, Cambodia).**
+
+Searchable tags: Cambodia, Exploration — Portugal and the sea routes to India, modern-world, History expansion 2026-11-15

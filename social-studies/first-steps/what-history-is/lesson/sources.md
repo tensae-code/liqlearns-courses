@@ -1,6 +1,6 @@
 # Sources — What history is
 
-countries: Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname
+countries: Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Cambodia
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -601,3 +601,28 @@ Suriname's own way (Book 3 — Wij en ons verleden — Nieuwe Editie, 5, Grade 5
 Suriname's own way (Book 4 — Leerkrachtenboek — Wij en ons verleden, Nieuwe Editie, 5, Grade 5 (student/teacher: TEACHER)): The guide mirrors the student book lesson for lesson and states the method plainly: beginning history is historical empathy (inleving), not memorising dates — every lesson is listened to, read, discussed through its pictures and evaluated, with a timeline drawn on the board (1 metre = 10 years), role-play for the slavery stories, and a background glossary for the teacher; history is also framed as citizenship-building (burgerschapszin) for nation formation. That way is stocked here as the way Suriname teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 28 countries (Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname).**
+
+---
+
+## History expansion (2026-11-15) — Cambodia stocked
+
+**Book 8 — Social Studies Grade 7 (student book, Khmer; combined book: Geography + History + Morality-Civics)**
+- Title as printed: សិក្សាសង្គម ថ្នាក់ទី៧ (Social Studies, Grade 7)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: MoEYS, Publishing and Distribution House; 14th printing 2020, 100,000 copies, approved by MoEYS letter 2211 of 15 July 2009; ISBN 978-9995-000-82-0 (printed 9-789-995-000-820)
+- PDF pages: 304 (cover and title page verified against the record title; printed pp. 1–300, printed p. = PDF p. − 4)
+- Verdict: COMPLETE (contents read in full; every History lesson's opening and argument read; non-History parts surveyed by contents)
+- Tally: 15 placements — 11 to existing lessons, 4 NEW LESSON NEEDED
+- Cambodia's own way: secondary history starts from what history itself is, tours the ancient river civilisations, then grounds everything at home — prehistoric Cambodia, Funan, Chenla — and in the neighbours (China, India, Java, the Mon).
+- Non-History parts (named, not placed): Geography, printed pp. 1–75 (people and life in the hot, temperate and cold zones; world climate zones); Morality-Civics, printed pp. 152–300 (time and the individual, group life, family, living with the public, organising work, customs, professions and the law, traffic safety).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cambodia part — History Ch. 1 Lesson 1, Foundations of history — story beats: history begins with evidence — broken pots, inscriptions (photo: a Khmer inscription stone), things handed down by word of mouth — and divides into prehistory and history (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Cambodia, *សិក្សាសង្គម ថ្នាក់ទី៧ (Social Studies, Grade 7)*, printed p. 76 |
+
+Cambodia's own way (Book 8 — សិក្សាសង្គម ថ្នាក់ទី៧ (Social Studies, Grade 7), Grade 7 (student/teacher: STUDENT)): secondary history starts from what history itself is, tours the ancient river civilisations, then grounds everything at home — prehistoric Cambodia, Funan, Chenla — and in the neighbours (China, India, Java, the Mon). That way is stocked here as the way Cambodia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 29 countries (Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Cambodia).**
+
+Searchable tags: Cambodia, What history is, first-steps, History expansion 2026-11-15

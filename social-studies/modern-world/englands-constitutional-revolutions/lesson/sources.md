@@ -1,6 +1,6 @@
 # Sources — England's constitutional revolutions
 
-countries: France, Kuwait
+countries: France, Kuwait, Cambodia
 
 **Book 1:** *Histoire 2de — Manuel Libre d'Histoire, Seconde (Les Manuels Libres)* (student book, French) — France. Title as printed: Histoire 2de — Manuel Libre d'Histoire, Seconde (Les Manuels Libres). Grade: Grade 10 (Seconde) (student/teacher: STUDENT). Publisher: Les Manuels Libres, Région académique Île-de-France; year not printed in the manual; licence CC BY-NC-SA 4.0; ISBN no ISBN printed. PDF pages: no printed pagination — HTML manual read chapter by chapter (cover/contents page "Contenu du manuel" verified against the record title); placements therefore cite theme/chapter instead of printed pages. Verdict: COMPLETE. Tally: 28 placements — 15 to existing lessons, 13 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/france-placements.md. The other France record, *Géographie 2de GT — Manuel Libre de Géographie, Seconde* (Grade 10, student book), is RECORD ONLY — pure Geography, not placed, with 0 placements.
 
@@ -28,3 +28,28 @@ Non-History parts of this book, named in the placements, not placed here: none �
 Kuwait's own way (Grade 12 Term 1): Grade 12 world history is a Europe-outward arc in six chapters across the year — Renaissance, discoveries, colonialism, industry, revolutions, world wars — each chapter split into concept, causes, course and results, with the same introduction carried in both term books. That way is stocked here as the way Kuwait teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 2 countries (France, Kuwait).**
+
+---
+
+## History expansion (2026-11-15) — Cambodia stocked
+
+**Book 9 — Social Studies Grade 8 (student book, Khmer; combined book: Geography + History + Morality-Civics + Home Economics)**
+- Title as printed: សិក្សាសង្គម ថ្នាក់ទី៨ (Social Studies, Grade 8)
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: MoEYS, Publishing and Distribution House; 11th printing 2020, 40,000 copies, approved by MoEYS letter 2228 of 25 June 2010; built on the 2009 curriculum; ISBN 978-9995-001-24-7 (printed 9-789-995-001-247)
+- PDF pages: 305 (cover and title page verified against the record title; printed pp. 1–300, printed p. = PDF p. − 5)
+- Verdict: COMPLETE (contents read in full; every History lesson's opening and argument read; non-History parts surveyed by contents)
+- Tally: 14 placements — 5 to existing lessons, 9 NEW LESSON NEEDED
+- Cambodia's own way: Grade 8 pairs Europe's revolutions with the neighbour states a Cambodian must know — Champa, Dai Viet, Ayutthaya, Lan Xang, the Malay world — each told with its Khmer connection (Fa Ngum raised at Angkor; "Syam" named in Angkor's inscriptions).
+- Non-History parts (named, not placed): Geography, printed pp. 1–73 (the Southeast Asian countries one by one; developing and developed countries); Morality-Civics, printed pp. 152–245 (living with others, family relations, living in society); Home Economics, printed pp. 246–300 (sewing and garment work).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cambodia part — History Ch. 1 Lesson 3, The revolution in England in the 17th century — story beats: England (map, p. 86) cuts off its king's head, tries Cromwell's republic (to 1658), and learns to bind its monarchs by law (History expansion, 2026-11-15; original placement slug: modern-world/englands-revolutions-a-king-beheaded-then-a-glorious-revolution) | Cambodia, *សិក្សាសង្គម ថ្នាក់ទី៨ (Social Studies, Grade 8)*, printed p. 86 |
+
+Cambodia's own way (Book 9 — សិក្សាសង្គម ថ្នាក់ទី៨ (Social Studies, Grade 8), Grade 8 (student/teacher: STUDENT)): Grade 8 pairs Europe's revolutions with the neighbour states a Cambodian must know — Champa, Dai Viet, Ayutthaya, Lan Xang, the Malay world — each told with its Khmer connection (Fa Ngum raised at Angkor; "Syam" named in Angkor's inscriptions). That way is stocked here as the way Cambodia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 3 countries (France, Kuwait, Cambodia).**
+
+Searchable tags: Cambodia, England's constitutional revolutions, modern-world, History expansion 2026-11-15

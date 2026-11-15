@@ -1,6 +1,6 @@
 # Sources — The Great Depression — 1929 and the world it broke
 
-countries: Ethiopia, United States, Costa Rica, Australia, Indonesia, United Kingdom, Suriname
+countries: Ethiopia, United States, Costa Rica, Australia, Indonesia, United Kingdom, Suriname, Cambodia
 
 **Book 1:** *History, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN 978-99990-0-065-9. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g10-student-placements.md
 
@@ -136,3 +136,45 @@ Suriname's own way (Book 8 — Wij en ons verleden — Nieuwe Editie, 8, Grade 8
 Suriname's own way (Book 9 — Leerkrachtenboek — Wij en ons verleden, Nieuwe Editie, 8, Grade 8 (student/teacher: TEACHER)): The guide mirrors the student book's 7 themes (its education theme splits the student Les 1 into an overview plus three guidance lessons) and adds lesson goals, differentiation, copy sheets and quarterly projects (collage, quartet game, role-play, class talk; wall newspaper, artwork, educational trip, quiz); its introduction states the post-1975 purpose plainly — history teaching develops the Surinamese people's own identity and emancipatory citizenship, as Caricom members and world citizens. That way is stocked here as the way Suriname teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 7 countries (Ethiopia, United States, Costa Rica, Australia, Indonesia, United Kingdom, Suriname).**
+
+---
+
+## History expansion (2026-11-15) — Cambodia stocked
+
+**Book 4 — History Grade 11 (student book, Khmer)**
+- Title as printed: ប្រវត្តិវិទ្យា ថ្នាក់ទី១១ (History, Grade 11)
+- Grade: Grade 11 (student/teacher: STUDENT)
+- Publisher: MoEYS, Publishing and Distribution House; 11th printing 2020, 26,000 copies, approved by MoEYS letter 1981 of 2 June 2010; built on the 2009 history curriculum (3 chapters, 28 lessons, per the preface); ISBN 978-9995-001-02-5 (printed 9-789-995-001-025)
+- PDF pages: 208 (title page verified against the record title; printed pp. 1–204, printed p. = PDF p. − 4)
+- Verdict: COMPLETE (contents read in full; every lesson's opening and argument read; History-only book, no combined parts)
+- Tally: 28 placements — 12 to existing lessons, 16 NEW LESSON NEEDED
+- Cambodia's own way: world history is told country by country in two passes (to 1914, then 1919–1939), Cambodia's own post-Angkor centuries get a short separate chapter, and the year closes by touring the neighbours — Indonesia to Australia — so a Cambodian school-leaver knows the region state by state.
+- Erratum noticed: the contents page lists Ch. 3 Lesson 5 as Burma and Lesson 6 as Vietnam, but the printed lessons are Korea (p. 186) and New Zealand (p. 192); there is no Burma or Vietnam lesson in the book.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cambodia part — Ch. 1 Lesson 11, The United States (1919–1939) — story beats: prosperity shadowed by the Red Scare — Palmer's raids, Sacco and Vanzetti, the Scopes trial — then the 1929 crash turns the richest country into the Depression's epicentre (History expansion, 2026-11-15; original placement slug: modern-world/the-great-depression-1929) | Cambodia, *ប្រវត្តិវិទ្យា ថ្នាក់ទី១១ (History, Grade 11)*, printed p. 70 |
+
+Cambodia's own way (Book 4 — ប្រវត្តិវិទ្យា ថ្នាក់ទី១១ (History, Grade 11), Grade 11 (student/teacher: STUDENT)): world history is told country by country in two passes (to 1914, then 1919–1939), Cambodia's own post-Angkor centuries get a short separate chapter, and the year closes by touring the neighbours — Indonesia to Australia — so a Cambodian school-leaver knows the region state by state. That way is stocked here as the way Cambodia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 5 — History Grade 12 (student book, Khmer)**
+- Title as printed: ប្រវត្តិវិទ្យា ថ្នាក់ទី១២ (History, Grade 12)
+- Grade: Grade 12 (student/teacher: STUDENT)
+- Publisher: MoEYS, Publishing and Distribution House; 11th printing 2020, 15,000 copies, approved by MoEYS letter 1481 of 5 May 2011; built on the 2005–2009 curriculum framework (3 chapters, 22 lessons, per the preface); ISBN 978-9995-001-40-7 (printed 9-789-995-001-407)
+- PDF pages: 209 (cover and title page verified against the record title; printed pp. 1–204, printed p. = PDF p. − 5; the books.json record left the page count null — the file has 209 pages)
+- Verdict: COMPLETE (contents read in full; every lesson's opening and argument read; History-only book, no combined parts)
+- Tally: 22 placements — 4 to existing lessons, 18 NEW LESSON NEEDED
+- Cambodia's own way: the final school year runs the world 1945–1991 state by state (including East Germany, Czechoslovakia, Poland and Yugoslavia, which few curricula keep), then tells Cambodia's own story as five regimes in a row — protectorate, Sangkum, republic, Democratic Kampuchea, rebuilding — the exact sequence the baccalaureate examines.
+- Contents-page caution: at contents resolution the Ch. 1 lessons 7–9 are easy to misread; the lesson headings themselves are: L.7 German Democratic Republic, L.8 Czechoslovakia, L.9 Poland.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cambodia part — Ch. 1 Lesson 1, The United States (1860–1990) — story beats: from independence (4 July 1776) and the 1787 constitution through continental growth to the 1929 crisis and its worldwide consequences — the long arc of the republic the lesson keeps returning to (History expansion, 2026-11-15; original placement slug: modern-world/the-great-depression-1929) | Cambodia, *ប្រវត្តិវិទ្យា ថ្នាក់ទី១២ (History, Grade 12)*, printed p. 2 |
+
+Cambodia's own way (Book 5 — ប្រវត្តិវិទ្យា ថ្នាក់ទី១២ (History, Grade 12), Grade 12 (student/teacher: STUDENT)): the final school year runs the world 1945–1991 state by state (including East Germany, Czechoslovakia, Poland and Yugoslavia, which few curricula keep), then tells Cambodia's own story as five regimes in a row — protectorate, Sangkum, republic, Democratic Kampuchea, rebuilding — the exact sequence the baccalaureate examines. That way is stocked here as the way Cambodia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 8 countries (Ethiopia, United States, Costa Rica, Australia, Indonesia, United Kingdom, Suriname, Cambodia).**
+
+Searchable tags: Cambodia, The Great Depression — 1929 and the world it broke, modern-world, History expansion 2026-11-15

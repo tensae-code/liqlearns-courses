@@ -1,6 +1,6 @@
 # Sources — Dating the past — calendars, timelines and periods
 
-countries: Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria
+countries: Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -536,3 +536,28 @@ Bulgaria's own way (Book 1 — История и цивилизации за с�
 **Acceptance count: taught in 22 countries (Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria).**
 
 Searchable tags: Bulgaria, Dating the past — calendars, timelines and periods, first-steps, History expansion 2026-11-15
+
+---
+
+## History expansion (2026-11-15) — Cambodia stocked
+
+**Book 3 — Social Studies Grade 4 (student book, Khmer)**
+- Title as printed: សិក្សាសង្គម ថ្នាក់ទី៤ (Social Studies, Grade 4)
+- Grade: Grade 4 (student/teacher: STUDENT)
+- Publisher: MoEYS, Publishing and Distribution House (គ្រឹះស្ថានបោះពុម្ពនិងចែកចាយ); 2nd printing 2020, 140,000 copies, approved by MoEYS letter 2205 of 17 June 2020; ISBN 978-9995-001-20-9 (printed 9-789-995-001-209)
+- PDF pages: 113 (cover verified against the record title; printed pp. 1–108, printed p. = PDF p. − 5)
+- Verdict: COMPLETE (History chapter read in full page by page; other chapters identified from the contents and spot-checked — combined book)
+- Tally: 5 placements — 4 to existing lessons, 1 NEW LESSON NEEDED
+- Cambodia's own way: in a book otherwise about manners, safety and today's society, the past arrives last and through things you can touch — old buildings still standing, stone tools in a museum case, and the first kingdom, Nokor Phnom, told from its founding marriage.
+- Non-History parts named, not placed: Ch. 1 Good behaviour (printed pp. 1–36: goal-setting at home and in study, honesty, children's rights, art and change); Ch. 2 Keeping personal safety (pp. 37–52: traffic, illness); Ch. 3 Society today (pp. 53–94: traditional festivals, national festivals, value of work, executive power, territorial authorities, land use by region — Civics/Geography).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cambodia part — Ch. 4 Lesson 2 §3, Timeline of Nokor Phnom's kings — story beats: children lay the kings end to end — Hun Tien in the 1st century, the Hun Pan line (225–243), the Srei line (430–484), Kaundinya Jayavarman (484–514) who raised Hinduism high — six centuries on one arrow (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Cambodia, *សិក្សាសង្គម ថ្នាក់ទី៤ (Social Studies, Grade 4)*, printed p. 105 |
+
+Cambodia's own way (Book 3 — សិក្សាសង្គម ថ្នាក់ទី៤ (Social Studies, Grade 4), Grade 4 (student/teacher: STUDENT)): in a book otherwise about manners, safety and today's society, the past arrives last and through things you can touch — old buildings still standing, stone tools in a museum case, and the first kingdom, Nokor Phnom, told from its founding marriage. That way is stocked here as the way Cambodia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 23 countries (Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia).**
+
+Searchable tags: Cambodia, Dating the past — calendars, timelines and periods, first-steps, History expansion 2026-11-15

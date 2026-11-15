@@ -1,6 +1,6 @@
 # Sources — The Cold War — what it was and what it did to Africa
 
-countries: Ethiopia, Turkey, Costa Rica, Australia, Ecuador, Indonesia, Bolivia
+countries: Ethiopia, Turkey, Costa Rica, Australia, Ecuador, Indonesia, Bolivia, Cambodia
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 139).
 
@@ -134,3 +134,45 @@ Bolivia's own way (Texto de Aprendizaje — Ciencias Sociales, 6to Año de Educa
 Bolivia's own way (Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Secundaria Comunitaria Productiva, Área Ciencias Sociales, teacher guide): The teachers' compendium binds the whole six-year Ciencias Sociales course in one volume: teachers hold the full arc — Abya Yala's civilisations, colony, independence (with its revisionist debate and its women), oligarchic republic, Chaco, 1952, dictatorships, neoliberalism and the democratic-cultural revolution — framed throughout by decolonisation ("breaking the mental structures that think there are superior thoughts") and Vivir Bien. That way is stocked here as the way Bolivia teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 7 countries (Ethiopia, Turkey, Costa Rica, Australia, Ecuador, Indonesia, Bolivia).**
+
+---
+
+## History expansion (2026-11-15) — Cambodia stocked
+
+**Book 2 — History Q&A 2014–2022 for Baccalaureate Preparation (student exam-prep compilation, Khmer)**
+- Title as printed: ប្រវត្តិវិទ្យា សំណួរ និងចម្លើយ ឆ្នាំ២០១៤ ដល់ ២០២២ — ត្រៀមប្រឡងសញ្ញាបត្រមធ្យមសិក្សាទុតិយភូមិ (History Questions and Answers 2014–2022, for the upper-secondary diploma exam)
+- Grade: Grade 12 (student/teacher: STUDENT)
+- Publisher: no publisher printed — teacher compilation by Met Jivin (ម៉េត ជីវិន), lessons "extracted from Ministry of Education teaching"; year 2023 edition (preparing for Bac 2023); ISBN no ISBN printed
+- PDF pages: 105 (cover verified against the record title; printed pagination 1–~102, printed p. = PDF p. − 3)
+- Verdict: COMPLETE
+- Tally: 10 placements — 2 to existing lessons, 8 NEW LESSON NEEDED
+- Cambodia's own way: the whole modern national story is drilled as past-paper questions with model answers, one regime at a time — protectorate, Sangkum, republic, Democratic Kampuchea, rebuilding, second kingdom — so a school-leaver's history of Cambodia is exactly the sequence of regimes since 1863.
+- Note: this is a teacher-compiled exam-prep book, not a MoEYS textbook; its six lessons mirror the official Grade 12 textbook (Book 11 in this file).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cambodia part — Section, Regional and World History, Cold War question — story beats: the Soviet and American blocs race in arms, ideology and technology while the UN is blocked and new nations are split by the rivalry (History expansion, 2026-11-15; original placement slug: modern-world/the-cold-war-what-it-was-and-what-it-did-to-africa) | Cambodia, *ប្រវត្តិវិទ្យា សំណួរ និងចម្លើយ ឆ្នាំ២០១៤ ដល់ ២០២២ — ត្រៀមប្រឡងសញ្ញាបត្រមធ្យមសិក្សាទុតិយភូមិ (History Questions and Answers 2014–2022, for the upper-secondary diploma exam)*, printed p. 55 |
+
+Cambodia's own way (Book 2 — ប្រវត្តិវិទ្យា សំណួរ និងចម្លើយ ឆ្នាំ២០១៤ ដល់ ២០២២ — ត្រៀមប្រឡងសញ្ញាបត្រមធ្យមសិក្សាទុតិយភូមិ (History Questions and Answers 2014–2022, for the upper-secondary diploma exam), Grade 12 (student/teacher: STUDENT)): the whole modern national story is drilled as past-paper questions with model answers, one regime at a time — protectorate, Sangkum, republic, Democratic Kampuchea, rebuilding, second kingdom — so a school-leaver's history of Cambodia is exactly the sequence of regimes since 1863. That way is stocked here as the way Cambodia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 5 — History Grade 12 (student book, Khmer)**
+- Title as printed: ប្រវត្តិវិទ្យា ថ្នាក់ទី១២ (History, Grade 12)
+- Grade: Grade 12 (student/teacher: STUDENT)
+- Publisher: MoEYS, Publishing and Distribution House; 11th printing 2020, 15,000 copies, approved by MoEYS letter 1481 of 5 May 2011; built on the 2005–2009 curriculum framework (3 chapters, 22 lessons, per the preface); ISBN 978-9995-001-40-7 (printed 9-789-995-001-407)
+- PDF pages: 209 (cover and title page verified against the record title; printed pp. 1–204, printed p. = PDF p. − 5; the books.json record left the page count null — the file has 209 pages)
+- Verdict: COMPLETE (contents read in full; every lesson's opening and argument read; History-only book, no combined parts)
+- Tally: 22 placements — 4 to existing lessons, 18 NEW LESSON NEEDED
+- Cambodia's own way: the final school year runs the world 1945–1991 state by state (including East Germany, Czechoslovakia, Poland and Yugoslavia, which few curricula keep), then tells Cambodia's own story as five regimes in a row — protectorate, Sangkum, republic, Democratic Kampuchea, rebuilding — the exact sequence the baccalaureate examines.
+- Contents-page caution: at contents resolution the Ch. 1 lessons 7–9 are easy to misread; the lesson headings themselves are: L.7 German Democratic Republic, L.8 Czechoslovakia, L.9 Poland.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cambodia part — Ch. 1 Lesson 6, The Soviet Union (1945–1991) — story beats: the USSR, which lost some 25 million people, answers Truman's containment doctrine (12 March 1947) and the Marshall Plan by building its own bloc — until the bloc and the union dissolve in 1991 (History expansion, 2026-11-15; original placement slug: modern-world/the-cold-war-what-it-was-and-what-it-did-to-africa) | Cambodia, *ប្រវត្តិវិទ្យា ថ្នាក់ទី១២ (History, Grade 12)*, printed p. 44 |
+
+Cambodia's own way (Book 5 — ប្រវត្តិវិទ្យា ថ្នាក់ទី១២ (History, Grade 12), Grade 12 (student/teacher: STUDENT)): the final school year runs the world 1945–1991 state by state (including East Germany, Czechoslovakia, Poland and Yugoslavia, which few curricula keep), then tells Cambodia's own story as five regimes in a row — protectorate, Sangkum, republic, Democratic Kampuchea, rebuilding — the exact sequence the baccalaureate examines. That way is stocked here as the way Cambodia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 8 countries (Ethiopia, Turkey, Costa Rica, Australia, Ecuador, Indonesia, Bolivia, Cambodia).**
+
+Searchable tags: Cambodia, The Cold War — what it was and what it did to Africa, modern-world, History expansion 2026-11-15

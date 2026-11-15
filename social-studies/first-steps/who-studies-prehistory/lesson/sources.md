@@ -1,6 +1,6 @@
 # Sources — Archaeology, palaeontology, anthropology — who studies prehistory
 
-countries: Ethiopia, Gambia, Turkey, Bangladesh, Australia, Bhutan, Eritrea, India, Finland, Dominican Republic, Iran, Suriname
+countries: Ethiopia, Gambia, Turkey, Bangladesh, Australia, Bhutan, Eritrea, India, Finland, Dominican Republic, Iran, Suriname, Cambodia
 
 **Book 1:** *History, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, Addis Ababa, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-064-2, 210 printed pp. Printed page = PDF page − 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g09-student-placements.md
 
@@ -234,3 +234,62 @@ Suriname's own way (Book 6 — Wij en ons verleden — Nieuwe Editie, 7, Grade 7
 Suriname's own way (Book 7 — Leerkrachtenboek — Wij en ons verleden, Nieuwe Editie, 7, Grade 7 (student/teacher: TEACHER)): The guide mirrors the student book's 8 themes and adds the full teaching apparatus: lesson goals per lesson, a didactic model with differentiation and 21st-century skills, copy sheets, and quarterly projects (wall newspaper, collage, researcher, object table; local-environment history, quartet card game, drama; museum visit, monument artwork, world map, timeline) — history is explicitly taught to form citizenship for Suriname, the Caricom community and the world. That way is stocked here as the way Suriname teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 12 countries (Ethiopia, Gambia, Turkey, Bangladesh, Australia, Bhutan, Eritrea, India, Finland, Dominican Republic, Iran, Suriname).**
+
+---
+
+## History expansion (2026-11-15) — Cambodia stocked
+
+**Book 3 — Social Studies Grade 4 (student book, Khmer)**
+- Title as printed: សិក្សាសង្គម ថ្នាក់ទី៤ (Social Studies, Grade 4)
+- Grade: Grade 4 (student/teacher: STUDENT)
+- Publisher: MoEYS, Publishing and Distribution House (គ្រឹះស្ថានបោះពុម្ពនិងចែកចាយ); 2nd printing 2020, 140,000 copies, approved by MoEYS letter 2205 of 17 June 2020; ISBN 978-9995-001-20-9 (printed 9-789-995-001-209)
+- PDF pages: 113 (cover verified against the record title; printed pp. 1–108, printed p. = PDF p. − 5)
+- Verdict: COMPLETE (History chapter read in full page by page; other chapters identified from the contents and spot-checked — combined book)
+- Tally: 5 placements — 4 to existing lessons, 1 NEW LESSON NEEDED
+- Cambodia's own way: in a book otherwise about manners, safety and today's society, the past arrives last and through things you can touch — old buildings still standing, stone tools in a museum case, and the first kingdom, Nokor Phnom, told from its founding marriage.
+- Non-History parts named, not placed: Ch. 1 Good behaviour (printed pp. 1–36: goal-setting at home and in study, honesty, children's rights, art and change); Ch. 2 Keeping personal safety (pp. 37–52: traffic, illness); Ch. 3 Society today (pp. 53–94: traditional festivals, national festivals, value of work, executive power, territorial authorities, land use by region — Civics/Geography).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cambodia part — Ch. 4 Lesson 2 §1, Cambodia's prehistory and its sites — story beats: before any writing, people left stone axes, pottery and bronze at Samrong Sen, Mlu Prei, Anlong Phdao and the Kampot caves — the dug-up things are the only witnesses (History expansion, 2026-11-15; original placement slug: first-steps/who-studies-prehistory) | Cambodia, *សិក្សាសង្គម ថ្នាក់ទី៤ (Social Studies, Grade 4)*, printed p. 101 |
+
+Cambodia's own way (Book 3 — សិក្សាសង្គម ថ្នាក់ទី៤ (Social Studies, Grade 4), Grade 4 (student/teacher: STUDENT)): in a book otherwise about manners, safety and today's society, the past arrives last and through things you can touch — old buildings still standing, stone tools in a museum case, and the first kingdom, Nokor Phnom, told from its founding marriage. That way is stocked here as the way Cambodia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 8 — Social Studies Grade 7 (student book, Khmer; combined book: Geography + History + Morality-Civics)**
+- Title as printed: សិក្សាសង្គម ថ្នាក់ទី៧ (Social Studies, Grade 7)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: MoEYS, Publishing and Distribution House; 14th printing 2020, 100,000 copies, approved by MoEYS letter 2211 of 15 July 2009; ISBN 978-9995-000-82-0 (printed 9-789-995-000-820)
+- PDF pages: 304 (cover and title page verified against the record title; printed pp. 1–300, printed p. = PDF p. − 4)
+- Verdict: COMPLETE (contents read in full; every History lesson's opening and argument read; non-History parts surveyed by contents)
+- Tally: 15 placements — 11 to existing lessons, 4 NEW LESSON NEEDED
+- Cambodia's own way: secondary history starts from what history itself is, tours the ancient river civilisations, then grounds everything at home — prehistoric Cambodia, Funan, Chenla — and in the neighbours (China, India, Java, the Mon).
+- Non-History parts (named, not placed): Geography, printed pp. 1–75 (people and life in the hot, temperate and cold zones; world climate zones); Morality-Civics, printed pp. 152–300 (time and the individual, group life, family, living with the public, organising work, customs, professions and the law, traffic safety).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cambodia part — History Ch. 2 Lesson 1, Prehistoric Cambodia — story beats: people have lived on this land since deep prehistory; Khmer origins are traced through Southeast Asia's caves and early villages toward the first kingdoms (History expansion, 2026-11-15; original placement slug: first-steps/who-studies-prehistory) | Cambodia, *សិក្សាសង្គម ថ្នាក់ទី៧ (Social Studies, Grade 7)*, printed p. 116 |
+
+Cambodia's own way (Book 8 — សិក្សាសង្គម ថ្នាក់ទី៧ (Social Studies, Grade 7), Grade 7 (student/teacher: STUDENT)): secondary history starts from what history itself is, tours the ancient river civilisations, then grounds everything at home — prehistoric Cambodia, Funan, Chenla — and in the neighbours (China, India, Java, the Mon). That way is stocked here as the way Cambodia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 11 — Social Studies Grade 10 (student book, Khmer; combined book: Geography + History + Morality-Civics + Home Economics)**
+- Title as printed: សិក្សាសង្គម ថ្នាក់ទី១០ (Social Studies, Grade 10)
+- Grade: Grade 10 (student/teacher: STUDENT)
+- Publisher: MoEYS, Publishing and Distribution House; 11th printing 2020, 35,000 copies, approved by MoEYS letter 1357 of 5 May 2010; ISBN 978-9995-000-98-1 (printed 9-789-995-000-981)
+- PDF pages: 385 (cover and title page verified against the record title; printed pp. 1–380, printed p. = PDF p. − 5)
+- Verdict: COMPLETE (chapter contents read in full; the whole History span, printed pp. 97–194, scanned page by page and every lesson's opening and argument read; non-History parts surveyed by contents)
+- Tally: 14 placements — 2 to existing lessons, 12 NEW LESSON NEEDED
+- Cambodia's own way: Grade 10 gives Cambodia the deepest ancient treatment of any year — seven lessons from prehistory to the abandonment of Angkor, king by king and inscription by inscription — framed by the industrial revolution abroad and Asia's empires at home.
+- Non-History parts (named, not placed): Geography, printed pp. 1–96 (industrial location, world agriculture, the new industrial countries of Asia-Pacific, population growth, natural resources); Morality-Civics, printed pp. 195–288 (human values, culture of peace, community development); Home Economics, printed pp. 289–380 (household welfare, careers, family business).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cambodia part — History Ch. 2 Lesson 1, Prehistoric Cambodia — story beats: from the first humans on earth to the Mon-Khmer peoples of this land — how archaeologists and linguists rebuild a past with no writing (History expansion, 2026-11-15; original placement slug: first-steps/who-studies-prehistory) | Cambodia, *សិក្សាសង្គម ថ្នាក់ទី១០ (Social Studies, Grade 10)*, printed p. 124 |
+
+Cambodia's own way (Book 11 — សិក្សាសង្គម ថ្នាក់ទី១០ (Social Studies, Grade 10), Grade 10 (student/teacher: STUDENT)): Grade 10 gives Cambodia the deepest ancient treatment of any year — seven lessons from prehistory to the abandonment of Angkor, king by king and inscription by inscription — framed by the industrial revolution abroad and Asia's empires at home. That way is stocked here as the way Cambodia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 13 countries (Ethiopia, Gambia, Turkey, Bangladesh, Australia, Bhutan, Eritrea, India, Finland, Dominican Republic, Iran, Suriname, Cambodia).**
+
+Searchable tags: Cambodia, Archaeology, palaeontology, anthropology — who studies prehistory, first-steps, History expansion 2026-11-15

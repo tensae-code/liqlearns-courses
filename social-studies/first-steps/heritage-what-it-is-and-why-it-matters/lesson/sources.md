@@ -761,3 +761,82 @@ Suriname's own way (Book 3 — Wij en ons verleden — Nieuwe Editie, 5, Grade 5
 Suriname's own way (Book 4 — Leerkrachtenboek — Wij en ons verleden, Nieuwe Editie, 5, Grade 5 (student/teacher: TEACHER)): The guide mirrors the student book lesson for lesson and states the method plainly: beginning history is historical empathy (inleving), not memorising dates — every lesson is listened to, read, discussed through its pictures and evaluated, with a timeline drawn on the board (1 metre = 10 years), role-play for the slavery stories, and a background glossary for the teacher; history is also framed as citizenship-building (burgerschapszin) for nation formation. That way is stocked here as the way Suriname teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 32 countries (Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivia, Eritrea, Cambodia, Fiji, Slovenia, Syria, Mauritania, Jordan, Bhutan, Cuba, Greece, Nauru, Niue, Tuvalu, Saudi Arabia, Rwanda, Poland, Guatemala, Australia, Bahamas, Nepal, Belarus, Dominican Republic, Egypt, Pakistan, Iran, Suriname).**
+
+---
+
+## History expansion (2026-11-15) — Cambodia stocked
+
+**Book 1 — KG Social Studies core book (teacher-facing core textbook, Khmer)**
+- Title as printed: សៀវភៅសិក្សាគោលសម្រាប់មត្តេយ្យសិក្សា សិក្សាសង្គម (Core textbook for kindergarten — Social Studies)
+- Grade: Kindergarten (kg1) (student/teacher: TEACHER — core book for teachers, Dept. of Early Childhood Education)
+- Publisher: Ministry of Education, Youth and Sport (MoEYS), Dept. of Early Childhood Education; year 2022 (B.E. 2566); ISBN no ISBN printed
+- PDF pages: 157 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 3 placements — 1 to existing lessons, 2 NEW LESSON NEEDED
+- Cambodia's own way: kindergarten social studies is taught to teachers as pedagogy first (Ch. 1 concepts, Ch. 2 twelve learning goals, Ch. 3 methods, Ch. 4 learning environment, Ch. 5 assessment, printed pp. 3–70), then an appendix of classroom stories, songs and festival texts (printed pp. 71–128) carries the content — Cambodia's past reaches the youngest children as festival stories, not lessons.
+- Non-History parts named, not placed: Ch. 1–5 pedagogy/assessment (printed pp. 3–70); appendix moral/family stories, Pchum Ben and Visak Bochea festival texts, drawing/modelling/song activities (Civics/culture/arts, printed pp. 71–128).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/cambodia-placements.md.
+NOTE: this book is teacher-facing (marked TEACHER in the placements file); its placements are cited here as the evidence they are, OUTSIDE the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cambodia part — Appendix story 2, History of the Om Touk festival — story beats: a grandfather tells Nari and Bonna how the boat-race festival began, so children inherit the story behind the races, the moon salutation and the flattened-rice offering (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Cambodia, *សៀវភៅសិក្សាគោលសម្រាប់មត្តេយ្យសិក្សា សិក្សាសង្គម (Core textbook for kindergarten — Social Studies)*, printed p. 72 |
+
+Cambodia's own way (Book 1 — សៀវភៅសិក្សាគោលសម្រាប់មត្តេយ្យសិក្សា សិក្សាសង្គម (Core textbook for kindergarten — Social Studies), Kindergarten (kg1) (student/teacher: TEACHER — core book for teachers, Dept. of Early Childhood Education)): kindergarten social studies is taught to teachers as pedagogy first (Ch. 1 concepts, Ch. 2 twelve learning goals, Ch. 3 methods, Ch. 4 learning environment, Ch. 5 assessment, printed pp. 3–70), then an appendix of classroom stories, songs and festival texts (printed pp. 71–128) carries the content — Cambodia's past reaches the youngest children as festival stories, not lessons. That way is stocked here as the way Cambodia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 3 — Social Studies Grade 4 (student book, Khmer)**
+- Title as printed: សិក្សាសង្គម ថ្នាក់ទី៤ (Social Studies, Grade 4)
+- Grade: Grade 4 (student/teacher: STUDENT)
+- Publisher: MoEYS, Publishing and Distribution House (គ្រឹះស្ថានបោះពុម្ពនិងចែកចាយ); 2nd printing 2020, 140,000 copies, approved by MoEYS letter 2205 of 17 June 2020; ISBN 978-9995-001-20-9 (printed 9-789-995-001-209)
+- PDF pages: 113 (cover verified against the record title; printed pp. 1–108, printed p. = PDF p. − 5)
+- Verdict: COMPLETE (History chapter read in full page by page; other chapters identified from the contents and spot-checked — combined book)
+- Tally: 5 placements — 4 to existing lessons, 1 NEW LESSON NEEDED
+- Cambodia's own way: in a book otherwise about manners, safety and today's society, the past arrives last and through things you can touch — old buildings still standing, stone tools in a museum case, and the first kingdom, Nokor Phnom, told from its founding marriage.
+- Non-History parts named, not placed: Ch. 1 Good behaviour (printed pp. 1–36: goal-setting at home and in study, honesty, children's rights, art and change); Ch. 2 Keeping personal safety (pp. 37–52: traffic, illness); Ch. 3 Society today (pp. 53–94: traditional festivals, national festivals, value of work, executive power, territorial authorities, land use by region — Civics/Geography).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cambodia part — Ch. 4 Lesson 1, Old buildings — story beats: the old National Assembly hall (opened 1920), the National Museum (built 1917) and high wooden stilt houses survive as evidence; children learn to read a building's age and to draw the stilt house their ancestors built (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Cambodia, *សិក្សាសង្គម ថ្នាក់ទី៤ (Social Studies, Grade 4)*, printed p. 96 |
+
+Cambodia's own way (Book 3 — សិក្សាសង្គម ថ្នាក់ទី៤ (Social Studies, Grade 4), Grade 4 (student/teacher: STUDENT)): in a book otherwise about manners, safety and today's society, the past arrives last and through things you can touch — old buildings still standing, stone tools in a museum case, and the first kingdom, Nokor Phnom, told from its founding marriage. That way is stocked here as the way Cambodia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 6 — Social Studies Grade 5 (student book, Khmer; combined book)**
+- Title as printed: សិក្សាសង្គម ថ្នាក់ទី៥ (Social Studies, Grade 5)
+- Grade: Grade 5 (student/teacher: STUDENT)
+- Publisher: MoEYS, Publishing and Distribution House; 11th printing 2020, 130,000 copies, approved by MoEYS letter 611 of 5 April 2011; ISBN 978-9995-001-32-2 (printed 9-789-995-001-322)
+- PDF pages: 129 (cover and title page verified against the record title; printed pp. 1–124, printed p. = PDF p. − 5)
+- Verdict: COMPLETE (contents read in full; History chapter read in full; non-History chapters surveyed by contents and spot openings)
+- Tally: 5 placements — 3 to existing lessons, 2 NEW LESSON NEEDED
+- Cambodia's own way: the past is approached through things a child can touch — carved ornament patterns to copy, old instruments to keep alive, the palace in the capital — before the named eras arrive: Chenla, then Angkor.
+- Non-History parts (named, not placed): Ch. 1 Good behaviour (printed pp. 1–38); Ch. 2 Safe behaviour (pp. 39–52); Ch. 3 Life today — Khmer traditions and festivals, daily work, executive power (civics), use of land (geography) (pp. 53–88).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cambodia part — Ch. 4 Lesson 1, Models of ancient Khmer ornament — story beats: three mother-patterns — bodhi leaf, swan's tail, snail spiral — grow by rule into the carved borders (kbach) on temples, pagodas and silk; children learn the geometry step by step and draw it themselves (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Cambodia, *សិក្សាសង្គម ថ្នាក់ទី៥ (Social Studies, Grade 5)*, printed p. 90 |
+| Cambodia part — Ch. 4 Lesson 2, Preserving traditional musical instruments — story beats: the mohori and pinpeat orchestras — roneat xylophones, tro fiddles, khim — survive only if each generation keeps, repairs and plays them (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Cambodia, *សិក្សាសង្គម ថ្នាក់ទី៥ (Social Studies, Grade 5)*, printed p. 96 |
+| Cambodia part — Ch. 4 Lesson 3, Old buildings — story beats: Phnom Penh's Royal Palace, first built by Ponhea Yat in 1432 and rebuilt by Norodom in 1866 — eleven buildings inside walls 465 by 402 metres — is a national treasure children must know and protect (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Cambodia, *សិក្សាសង្គម ថ្នាក់ទី៥ (Social Studies, Grade 5)*, printed p. 102 |
+
+Cambodia's own way (Book 6 — សិក្សាសង្គម ថ្នាក់ទី៥ (Social Studies, Grade 5), Grade 5 (student/teacher: STUDENT)): the past is approached through things a child can touch — carved ornament patterns to copy, old instruments to keep alive, the palace in the capital — before the named eras arrive: Chenla, then Angkor. That way is stocked here as the way Cambodia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 7 — Social Studies Grade 6 (student book, Khmer; combined book)**
+- Title as printed: សិក្សាសង្គម ថ្នាក់ទី៦ (Social Studies, Grade 6)
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: MoEYS, Publishing and Distribution House; 11th printing 2020, 100,000 copies, approved by MoEYS letter 2722 of 26 December 2011; ISBN 978-9995-001-46-9 (printed 9-789-995-001-469)
+- PDF pages: 129 (cover and title page verified against the record title; printed pp. 1–124, printed p. = PDF p. − 5)
+- Verdict: COMPLETE (contents read in full; History chapter read in full; non-History chapters surveyed by contents and spot openings)
+- Tally: 4 placements — 1 to an existing lesson, 3 NEW LESSON NEEDED
+- Cambodia's own way: the last primary year walks the capitals in order — Chaktomuk, Longvek, Oudong — each move forced by war with Siam, so a child learns the post-Angkor centuries as a story of capitals rising and falling.
+- Non-History parts (named, not placed): Ch. 1 Good behaviour (printed pp. 1–32); Ch. 2 Safe behaviour (pp. 33–50); Ch. 3 Life today — Khmer song and dance, national festivals, work in society, quality, the capital's and the country's location (geography) (pp. 51–92).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cambodia part — Ch. 4 Lesson 1, Traditional musical instruments — story beats: from temple-wall carvings to today's yike theatre (photo: drums, tro fiddle, sralai oboe), Khmer instruments — skor drums, roneat, tro, khim — carry the sound of the ancestors and must be learned to be kept (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Cambodia, *សិក្សាសង្គម ថ្នាក់ទី៦ (Social Studies, Grade 6)*, printed p. 94 |
+
+Cambodia's own way (Book 7 — សិក្សាសង្គម ថ្នាក់ទី៦ (Social Studies, Grade 6), Grade 6 (student/teacher: STUDENT)): the last primary year walks the capitals in order — Chaktomuk, Longvek, Oudong — each move forced by war with Siam, so a child learns the post-Angkor centuries as a story of capitals rising and falling. That way is stocked here as the way Cambodia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 32 countries — unchanged; Cambodia was already named and counted in this lesson, so the Cambodia placements above are stocked as depth without raising the count.**
+
+Searchable tags: Cambodia, Heritage — what it is and why it matters, first-steps, History expansion 2026-11-15

@@ -1,6 +1,6 @@
 # Sources — From stone tools to farming — the Neolithic Revolution
 
-countries: Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus, Fiji, Dominican Republic, Pakistan, Syria, Bolivia, Iran, Bulgaria
+countries: Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus, Fiji, Dominican Republic, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -421,3 +421,28 @@ Bulgaria's own way (Book 3 — История и цивилизации, 10. к�
 **Acceptance count: taught in 20 countries (Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus, Fiji, Dominican Republic, Pakistan, Syria, Bolivia, Iran, Bulgaria).**
 
 Searchable tags: Bulgaria, From stone tools to farming — the Neolithic Revolution, africa-to-1500, History expansion 2026-11-15
+
+---
+
+## History expansion (2026-11-15) — Cambodia stocked
+
+**Book 3 — Social Studies Grade 4 (student book, Khmer)**
+- Title as printed: សិក្សាសង្គម ថ្នាក់ទី៤ (Social Studies, Grade 4)
+- Grade: Grade 4 (student/teacher: STUDENT)
+- Publisher: MoEYS, Publishing and Distribution House (គ្រឹះស្ថានបោះពុម្ពនិងចែកចាយ); 2nd printing 2020, 140,000 copies, approved by MoEYS letter 2205 of 17 June 2020; ISBN 978-9995-001-20-9 (printed 9-789-995-001-209)
+- PDF pages: 113 (cover verified against the record title; printed pp. 1–108, printed p. = PDF p. − 5)
+- Verdict: COMPLETE (History chapter read in full page by page; other chapters identified from the contents and spot-checked — combined book)
+- Tally: 5 placements — 4 to existing lessons, 1 NEW LESSON NEEDED
+- Cambodia's own way: in a book otherwise about manners, safety and today's society, the past arrives last and through things you can touch — old buildings still standing, stone tools in a museum case, and the first kingdom, Nokor Phnom, told from its founding marriage.
+- Non-History parts named, not placed: Ch. 1 Good behaviour (printed pp. 1–36: goal-setting at home and in study, honesty, children's rights, art and change); Ch. 2 Keeping personal safety (pp. 37–52: traffic, illness); Ch. 3 Society today (pp. 53–94: traditional festivals, national festivals, value of work, executive power, territorial authorities, land use by region — Civics/Geography).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cambodia part — Ch. 4 Lesson 2 §1, How prehistoric people lived — story beats: cave-dwellers hunt, gather and fish with stone tools; then they settle, farm, keep animals and honour the neak ta spirits — the turn from wandering to village life (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Cambodia, *សិក្សាសង្គម ថ្នាក់ទី៤ (Social Studies, Grade 4)*, printed p. 102 |
+
+Cambodia's own way (Book 3 — សិក្សាសង្គម ថ្នាក់ទី៤ (Social Studies, Grade 4), Grade 4 (student/teacher: STUDENT)): in a book otherwise about manners, safety and today's society, the past arrives last and through things you can touch — old buildings still standing, stone tools in a museum case, and the first kingdom, Nokor Phnom, told from its founding marriage. That way is stocked here as the way Cambodia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 21 countries (Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus, Fiji, Dominican Republic, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia).**
+
+Searchable tags: Cambodia, From stone tools to farming — the Neolithic Revolution, africa-to-1500, History expansion 2026-11-15

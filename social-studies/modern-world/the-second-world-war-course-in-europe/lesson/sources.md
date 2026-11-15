@@ -1,6 +1,6 @@
 # Sources — The Second World War — course in Europe
 
-countries: Ethiopia, United States, Turkey, Australia, Kuwait, Montenegro, Finland, Dominican Republic, Pakistan, Bolivia, Iran
+countries: Ethiopia, United States, Turkey, Australia, Kuwait, Montenegro, Finland, Dominican Republic, Pakistan, Bolivia, Iran, Cambodia
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 137).
 
@@ -209,3 +209,28 @@ Iran's own way (Book 4 — History 3, Grade 12 (student book, Persian)): the Hum
 **Acceptance count: taught in 11 countries (Ethiopia, United States, Turkey, Australia, Kuwait, Montenegro, Finland, Dominican Republic, Pakistan, Bolivia, Iran).**
 
 Searchable tags: Iran, The Second World War — course in Europe, modern-world, History expansion 2026-11-15
+
+---
+
+## History expansion (2026-11-15) — Cambodia stocked
+
+**Book 4 — History Grade 11 (student book, Khmer)**
+- Title as printed: ប្រវត្តិវិទ្យា ថ្នាក់ទី១១ (History, Grade 11)
+- Grade: Grade 11 (student/teacher: STUDENT)
+- Publisher: MoEYS, Publishing and Distribution House; 11th printing 2020, 26,000 copies, approved by MoEYS letter 1981 of 2 June 2010; built on the 2009 history curriculum (3 chapters, 28 lessons, per the preface); ISBN 978-9995-001-02-5 (printed 9-789-995-001-025)
+- PDF pages: 208 (title page verified against the record title; printed pp. 1–204, printed p. = PDF p. − 4)
+- Verdict: COMPLETE (contents read in full; every lesson's opening and argument read; History-only book, no combined parts)
+- Tally: 28 placements — 12 to existing lessons, 16 NEW LESSON NEEDED
+- Cambodia's own way: world history is told country by country in two passes (to 1914, then 1919–1939), Cambodia's own post-Angkor centuries get a short separate chapter, and the year closes by touring the neighbours — Indonesia to Australia — so a Cambodian school-leaver knows the region state by state.
+- Erratum noticed: the contents page lists Ch. 3 Lesson 5 as Burma and Lesson 6 as Vietnam, but the printed lessons are Korea (p. 186) and New Zealand (p. 192); there is no Burma or Vietnam lesson in the book.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cambodia part — Ch. 1 Lesson 16, The Second World War (1939–1945) — story beats: the Munich photograph of 29 September 1938 — Chamberlain, Daladier, Hitler, Mussolini — opens a lesson that runs from the mandate system's grievances and Wilson's self-determination promise to total war (History expansion, 2026-11-15; original placement slug: modern-world/the-second-world-war-course-in-europe) | Cambodia, *ប្រវត្តិវិទ្យា ថ្នាក់ទី១១ (History, Grade 11)*, printed p. 106 |
+
+Cambodia's own way (Book 4 — ប្រវត្តិវិទ្យា ថ្នាក់ទី១១ (History, Grade 11), Grade 11 (student/teacher: STUDENT)): world history is told country by country in two passes (to 1914, then 1919–1939), Cambodia's own post-Angkor centuries get a short separate chapter, and the year closes by touring the neighbours — Indonesia to Australia — so a Cambodian school-leaver knows the region state by state. That way is stocked here as the way Cambodia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 12 countries (Ethiopia, United States, Turkey, Australia, Kuwait, Montenegro, Finland, Dominican Republic, Pakistan, Bolivia, Iran, Cambodia).**
+
+Searchable tags: Cambodia, The Second World War — course in Europe, modern-world, History expansion 2026-11-15
