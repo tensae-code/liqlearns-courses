@@ -1,6 +1,6 @@
 # Sources — The decolonisation of Asia and Africa
 
-countries: Bolivia, Cambodia, Palestine, Nicaragua
+countries: Bolivia, Cambodia, Palestine, Nicaragua, Honduras
 
 **Book 4 (bol-g12-student-sec6):** *Texto de Aprendizaje — Ciencias Sociales, 6to Año de Educación Secundaria Comunitaria Productiva* (student book, Spanish) — Bolivia. Title as printed: Texto de Aprendizaje — Ciencias Sociales, 6to Año de Educación Secundaria Comunitaria Productiva (cover: Área Ciencias Sociales). Grade: Grade 12 (student/teacher: STUDENT). Publisher: Ministerio de Educación de Bolivia; year not printed in the held portion; no ISBN printed. PDF pages: 126 (cover verified against the record title; the held file carries printed pp. 350–474, the later portion of the year's text as released, read in full). Verdict: PARTIAL — printed pp. 350–474 of the Secundaria 6 text; earlier printed pages are not in this file. Tally: 15 placements — 3 to existing lessons, 12 NEW LESSON NEEDED. Non-History parts (named, not placed): the Census (printed pp. 350–354 — Civics); globalisation and McLuhan's global village (printed p. 375 — Geography/media); geographic theory and scales (printed pp. 385–391 — Geography); identity, discrimination, youth political rights, human trafficking and child/adolescent labour law (printed pp. 447–463 — Civics); currency, inflation and monetary policy (printed pp. 467–473 — economics). Placements at liqlearns-courses-work/expansion-history-2026-11-15/bolivia-placements.md.
 
@@ -91,3 +91,51 @@ Searchable tags: Palestine, The decolonisation of Asia and Africa, modern-world,
 Nicaragua's own way (Book 11 — G9 Estudios Sociales, full-year textbook (student book, Spanish)): Grade 9 splits the book in two — five Geography units on the continents (printed pp. 1-136), then a headed "Historia" half (Units VI-XI) that is pure world history: human evolution and first societies, the four river civilisations studied one by one under identical headings (geography, politics, society, economy, culture), Greece and Rome, the medieval world, the modern age, and contemporary society ending with ALBA and the GRUN's social achievements in Nicaragua. That way is stocked here as the way Nicaragua teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 4 countries (Bolivia, Cambodia, Palestine, Nicaragua).**
+
+## History expansion (2026-11-15) — Honduras stocked
+
+**Book 17 — Ciencias Sociales, Noveno Grado (STUDENT)**
+- Title as printed: Libro para Estudiantes, Ciencias Sociales — Noveno Grado de Educación Básica
+- Publisher: Secretaría de Educación de Honduras / UPNFM; Edición Preliminar 2020; source file LE-CCSS9-2020.pdf
+- PDF pages: 254 — Verdict: COMPLETE (read in full, page by page)
+- Tally: 18 placements — 12 existing, 6 NEW
+- Honduras's own way: Grade 9 closes the cycle with the world survey (lessons 20–29): the two rival periodisations (traditional ages vs Marx's historical materialism) taught side by side, the ancient civilisations' legacies, the medieval world, the three great revolutions, both world wars, decolonisation, the Cold War — with Honduras's own place noted inside it (bordering three civil-war states; a member of the 1991 Gulf coalition) — and the Gulf War taught as "immediate history", the first war broadcast live.
+- Non-History parts (named, not placed): Block 1 lessons 1–9 (vocation, life project, human rights generations — Civics); Block 2 lessons 10–19 (world geography tour: Europe, Asia, Africa, Oceania, global warming — Geography); Block 4 lessons 30–38 (organisations, economy and development — Civics/Economics).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Gandhi and the end of the Raj — story beats: Britain recruited Indian soldiers for its war fronts, then jailed Gandhi and the Congress leadership as Japan neared Burma — and met general strikes, bombs and over 100,000 arrests; Israel and Burma followed in 1948, Indonesia in 1949, Vietnam under Ho Chi Minh (History expansion, 2026-11-15; original placement slug: africa-after-1500/decolonization-africa-and-asia) | Honduras, *Libro para Estudiantes, Ciencias Sociales — Noveno Grado de Educación Básica*, printed p. 162 |
+
+Honduras's own way (Book 17 — Ciencias Sociales, Noveno Grado (STUDENT)): Grade 9 closes the cycle with the world survey (lessons 20–29): the two rival periodisations (traditional ages vs Marx's historical materialism) taught side by side, the ancient civilisations' legacies, the medieval world, the three great revolutions, both world wars, decolonisation, the Cold War — with Honduras's own place noted inside it (bordering three civil-war states; a member of the 1991 Gulf coalition) — and the Gulf War taught as "immediate history", the first war broadcast live. That way is stocked here as the way Honduras teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 18 — Ciencias Sociales, Noveno Grado (TEACHER, 2020 edition)**
+This book is a teacher guide. The Honduras rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+- Title as printed: Guía para Docentes, Ciencias Sociales — Noveno Grado de Educación Básica
+- Publisher: Secretaría de Educación de Honduras / UPNFM; Edición Preliminar 2020; source file GD-CCSS9-2020.pdf
+- PDF pages: 166 — Verdict: COMPLETE (read in full, page by page)
+- Tally: 18 placements — 12 existing, 6 NEW
+- Honduras's own way: the guide mirrors the student book lesson-for-lesson (same 38 lessons, same world-history block 20–29, same two-periodisations approach), adding the teacher's framing, answer keys and project guidance.
+- Non-History parts (named, not placed): Block 1 lessons 1–9 (Civics); Block 2 lessons 10–19 (Geography); Block 4 lessons 30–38 (Civics/Economics) — same split as the student book.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Gandhi and the end of the Raj — story beats: the guide's key covers the recruitment grievance, Gandhi's jailing, the strikes and the 1948–49 independence wave (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: africa-after-1500/decolonization-africa-and-asia) | Honduras, *Guía para Docentes, Ciencias Sociales — Noveno Grado de Educación Básica* (teacher guide — evidence), printed p. 162 |
+
+Honduras's own way (Book 18 — Ciencias Sociales, Noveno Grado (TEACHER, 2020 edition)): the guide mirrors the student book lesson-for-lesson (same 38 lessons, same world-history block 20–29, same two-periodisations approach), adding the teacher's framing, answer keys and project guidance. That way is stocked here as the way Honduras teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 19 — Ciencias Sociales, Noveno Grado (TEACHER, 2022 edition)**
+This book is a teacher guide. The Honduras rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+- Title as printed: Ciencias Sociales 9 — Guía para Docentes, Noveno grado, III Ciclo
+- Publisher: Secretaría de Educación de Honduras; 2022 edition (source file GD-CCSS9-2022.pdf)
+- PDF pages: 168 — Verdict: COMPLETE (parallel edition of Book 18: the 2020 guide was read in full; this 2022 re-issue was verified against it — identical 38-lesson index and titles, same student-book content embedded page-for-page with model answers, equivalent teacher notes; spot-checked visually across the history block because this PDF has NO text layer, its pages are images)
+- Tally: 18 placements — 12 existing, 6 NEW
+- Honduras's own way: the 2022 guide re-presents the same world-history block (lessons 20–29) in a new design, embedding the student workbook pages with blue model answers and a teacher note under each; its Lesson 20 opens the periodisation lesson from a 2010 article on the 2008 financial crisis, asking how that hecho histórico affected the world and Honduras.
+- Non-History parts (named, not placed): Block 1 lessons 1–9 (Civics); Block 2 lessons 10–19 (Geography); Block 4 lessons 30–38 (Civics/Economics) — same split as the 2020 edition.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Gandhi and the end of the Raj — story beats: the 2022 guide's key covers Gandhi's jailing, the strikes and the 1948–49 wave (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: africa-after-1500/decolonization-africa-and-asia) | Honduras, *Ciencias Sociales 9 — Guía para Docentes, Noveno grado, III Ciclo* (teacher guide — evidence), printed p. 107 |
+
+Honduras's own way (Book 19 — Ciencias Sociales, Noveno Grado (TEACHER, 2022 edition)): the 2022 guide re-presents the same world-history block (lessons 20–29) in a new design, embedding the student workbook pages with blue model answers and a teacher note under each; its Lesson 20 opens the periodisation lesson from a 2010 article on the 2008 financial crisis, asking how that hecho histórico affected the world and Honduras. That way is stocked here as the way Honduras teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 5 countries (Bolivia, Cambodia, Palestine, Nicaragua, Honduras).**

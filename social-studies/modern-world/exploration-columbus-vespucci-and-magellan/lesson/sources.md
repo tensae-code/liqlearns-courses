@@ -1,6 +1,6 @@
 # Sources — Exploration — Columbus, Vespucci and Magellan
 
-countries: Ethiopia, France, Guatemala, Micronesia, Ecuador, Bahamas, Kuwait, Montenegro, Dominican Republic, Egypt, Pakistan, Suriname, Colombia, Mauritania, South Sudan, Mongolia, Sudan, Uzbekistan, North Macedonia, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua
+countries: Ethiopia, France, Guatemala, Micronesia, Ecuador, Bahamas, Kuwait, Montenegro, Dominican Republic, Egypt, Pakistan, Suriname, Colombia, Mauritania, South Sudan, Mongolia, Sudan, Uzbekistan, North Macedonia, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 124).
 
@@ -662,3 +662,139 @@ Nicaragua's own way (Book 7 — G7 Estudios Sociales, full-year textbook (studen
 Nicaragua's own way (Book 8 — G8 Estudios Sociales, full-year textbook (student book, Spanish)): the lens widens from Nicaragua to all the Americas — five Geography units on the continent's territory, landscape, peoples, economy and environment (printed pp. 1-124), then History as a single American story: first peoples and the three great civilisations, European arrival and colonial domination by three empires, emancipation, the troubled century after independence, and the Americas in the 20th century, always ending back in Nicaragua (Somoza, the FSLN, the 1979 triumph and the GRUN model). That way is stocked here as the way Nicaragua teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 26 countries (Ethiopia, France, Guatemala, Micronesia, Ecuador, Bahamas, Kuwait, Montenegro, Dominican Republic, Egypt, Pakistan, Suriname, Colombia, Mauritania, South Sudan, Mongolia, Sudan, Uzbekistan, North Macedonia, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua).**
+
+## History expansion (2026-11-15) — Honduras stocked
+
+**Book 3 — G2 student (student book, Spanish)**
+- Title as printed: Libro para Estudiantes, Ciencias Sociales, Segundo grado
+- Grade: Grade 2 (student/teacher: STUDENT)
+- Publisher: Secretaría de Estado en el Despacho de Educación de Honduras / UPNFM; year 2020 (Edición Preliminar, abril 2020); ISBN no ISBN printed in front matter seen (imprint page carries no ISBN)
+- PDF pages: 182 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 24 placements — 15 to existing lessons, 9 NEW LESSON NEEDED
+- Honduras's own way: Grade 2 gives History its own block, Las sociedades y el tiempo social: what History is, its sources (archaeological, written, oral), then the child's municipality and department through time — first peoples and the Maya of Copán, the making of the 18 departments, fortresses, monuments and tangible/intangible heritage, much of it learned by interviewing elders and dramatising local events.
+- Non-History parts (named, not placed): Lessons 1–3, 5–7 (living in harmony, rights, democracy — Civics, printed pp. 10–37); Block 2 Lessons 10–15, 17–19 (maps, relief, economic activities, services, transport — Geography, printed pp. 50–93, except Lesson 16 placed below); Lessons 30–32, 34–35 (municipal norms, authorities, local development — Civics, printed pp. 138–161, except the historical opening of Lesson 33 placed below).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lección 26 El departamento a través del tiempo: Colón en Trujillo — story beats: Columbus lands at Trujillo on 14 August 1502 and names it Punta Caxinas (today Puerto Castilla) — the department of Colón still tells the event as its own founding story (History expansion, 2026-11-15; original placement slug: modern-world/exploration-columbus-vespucci-and-magellan) | Honduras, *Libro para Estudiantes, Ciencias Sociales, Segundo grado*, printed p. 118 |
+
+Honduras's own way (Book 3 — G2 student (student book, Spanish)): Grade 2 gives History its own block, Las sociedades y el tiempo social: what History is, its sources (archaeological, written, oral), then the child's municipality and department through time — first peoples and the Maya of Copán, the making of the 18 departments, fortresses, monuments and tangible/intangible heritage, much of it learned by interviewing elders and dramatising local events. That way is stocked here as the way Honduras teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 4 — G2 teacher (teacher guide, Spanish)**
+This book is a teacher guide. The Honduras rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+- Title as printed: Guía para Docentes, Ciencias Sociales, Segundo grado
+- Grade: Grade 2 (student/teacher: TEACHER)
+- Publisher: Secretaría de Estado en el Despacho de Educación de Honduras / UPNFM; year 2020 (Edición Preliminar, abril 2020); ISBN no ISBN printed in front matter seen
+- PDF pages: 166 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 24 placements — 15 to existing lessons, 9 NEW LESSON NEEDED
+- Honduras's own way: The guide mirrors the student book's 38 lessons and adds the method: children narrate a remembered event aloud and in drawing, music and theatre; elders are interviewed as oral sources; local history is dramatised in three theatre groups.
+- Non-History parts (named, not placed): same Civics/Geography lessons as the student book (Lessons 1–3, 5–7, 10–15, 17–19, 30–32, 34–35).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lección 26 (guide) — story beats: Columbus's 1502 landing at Trujillo is the entry event for the department-by-department historical record (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: modern-world/exploration-columbus-vespucci-and-magellan) | Honduras, *Guía para Docentes, Ciencias Sociales, Segundo grado* (teacher guide — evidence), printed p. 107 |
+
+Honduras's own way (Book 4 — G2 teacher (teacher guide, Spanish)): The guide mirrors the student book's 38 lessons and adds the method: children narrate a remembered event aloud and in drawing, music and theatre; elders are interviewed as oral sources; local history is dramatised in three theatre groups. That way is stocked here as the way Honduras teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 5 — G3 student (student book, Spanish)**
+- Title as printed: Libro para Estudiantes, Ciencias Sociales, Tercer grado
+- Grade: Grade 3 (student/teacher: STUDENT)
+- Publisher: Secretaría de Estado en el Despacho de Educación de Honduras / UPNFM; year 2020 (Edición Preliminar, abril 2020); ISBN no ISBN printed in front matter seen
+- PDF pages: 182 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 23 placements — 5 to existing lessons, 18 NEW LESSON NEEDED
+- Honduras's own way: Grade 3 is the first full national-history survey, organised in the book's own three periods — prehispánico, colonial, independiente — running Copán and the pre-Hispanic peoples, discovery and the naming of Honduras, conquest, colonial classes and mestizaje, independence, Morazán and the Federation, the Liberal Reform and foreign enclaves, and the democratic era to the 2009 crisis; each figure is taught by one deed (Valle wrote the Acta, Herrera decreed the first constitution, Reyes founded the university).
+- Non-History parts (named, not placed): Lessons 1–7 (feelings, decisions, rights — Civics, printed pp. 10–37); Block 2 Lessons 10–19 (Earth, orientation, political organisation, population, occupations, natural wealth, services, transport — Geography, printed pp. 50–93); Lessons 30–32, 34–38 (authorities, laws, social classes, economic activities, trade — Civics/economics, printed pp. 138–179, except Lesson 33 placed below).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lección 22 El descubrimiento de nuestro territorio — story beats: backed by Ferdinand and Isabella, Columbus sails for the Indies in 1492 with paper, compass and caravels; only on the fourth voyage (1502) does he reach Guanaja, the Island of Pines, and Punta Caxinas, where the first mass on the mainland is celebrated (History expansion, 2026-11-15; original placement slug: modern-world/exploration-columbus-vespucci-and-magellan) | Honduras, *Libro para Estudiantes, Ciencias Sociales, Tercer grado*, printed p. 102 |
+
+Honduras's own way (Book 5 — G3 student (student book, Spanish)): Grade 3 is the first full national-history survey, organised in the book's own three periods — prehispánico, colonial, independiente — running Copán and the pre-Hispanic peoples, discovery and the naming of Honduras, conquest, colonial classes and mestizaje, independence, Morazán and the Federation, the Liberal Reform and foreign enclaves, and the democratic era to the 2009 crisis; each figure is taught by one deed (Valle wrote the Acta, Herrera decreed the first constitution, Reyes founded the university). That way is stocked here as the way Honduras teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 6 — G3 teacher (teacher guide, Spanish)**
+This book is a teacher guide. The Honduras rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+- Title as printed: Guía para Docentes, Ciencias Sociales, Tercer grado
+- Grade: Grade 3 (student/teacher: TEACHER)
+- Publisher: Secretaría de Estado en el Despacho de Educación de Honduras / UPNFM; year 2020 (Edición Preliminar, abril 2020); ISBN no ISBN printed in front matter seen
+- PDF pages: 166 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 23 placements — 5 to existing lessons, 18 NEW LESSON NEEDED
+- Honduras's own way: The guide mirrors the student survey lesson for lesson and frames the teaching: the national story is built from the local one (Comayagua's founding opens the periods lesson), figures are fixed by their single defining deed, and children are sent to research the pre-Hispanic group nearest their own locality for an album.
+- Non-History parts (named, not placed): same Civics/Geography lessons as the student book (Lessons 1–7, 10–19, 30–32, 34–38) plus a rivers-of-Honduras map annex (Geography).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lección 22 El descubrimiento (guide) — story beats: the four voyages are mapped from Iberia; the fourth reaches Guanaja and Punta Caxinas in 1502 (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: modern-world/exploration-columbus-vespucci-and-magellan) | Honduras, *Guía para Docentes, Ciencias Sociales, Tercer grado* (teacher guide — evidence), printed p. 91 |
+
+Honduras's own way (Book 6 — G3 teacher (teacher guide, Spanish)): The guide mirrors the student survey lesson for lesson and frames the teaching: the national story is built from the local one (Comayagua's founding opens the periods lesson), figures are fixed by their single defining deed, and children are sent to research the pre-Hispanic group nearest their own locality for an album. That way is stocked here as the way Honduras teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 7 — G4 student (student book, Spanish)**
+- Title as printed: Libro para Estudiantes, Ciencias Sociales, Cuarto grado
+- Grade: Grade 4 (student/teacher: STUDENT)
+- Publisher: Secretaría de Estado en el Despacho de Educación de Honduras / UPNFM; year 2020 (Edición Preliminar 2020); ISBN no ISBN printed in front matter seen
+- PDF pages: 222 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 26 placements — 10 to existing lessons, 16 NEW LESSON NEEDED
+- Honduras's own way: Grade 4 widens the lens from Honduras to Central America as one historical region — the "patria grande": method first (what History is, Herodotus, source typologies, auxiliary sciences, periodisation), then pre-Hispanic cultures, discovery, a conquest made hard by many unconquered peoples, colonisation, independence and Federation, dictatorship, civil war and the Esquipulas peace — integration (SICA, PARLACEN) is taught as Morazán's unfinished dream.
+- Non-History parts (named, not placed): Lessons 1–9 (rights, media, political system — Civics, printed pp. 10–54); Block 2 Lessons 10–13, 16–19 (planet, coordinates, natural wealth, trade, tourism — Geography, printed pp. 58–107, except Lessons 14–15 placed below); Lessons 31, 33–34, 37–38 (organisations, population, economic activities, capitalism and globalisation — Civics/economics, printed pp. 171–210, except Lessons 30, 32, 35, 36 placed below); Annexes 1–4 (maps of Central America, national symbols, roads, volcanoes — Geography reference).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lección 23 La llegada de los españoles — story beats: a Spain unified under Castile and Aragon, Granada taken and Constantinople fallen (1453), backs Columbus; the four voyages are told ship by ship — Rodrigo de Triana's "¡Tierra!" at Guanahaní, 17 ships and 1,500 men on the second — and the Treaty of Tordesillas splits the world between Spain and Portugal (History expansion, 2026-11-15; original placement slug: modern-world/exploration-columbus-vespucci-and-magellan) | Honduras, *Libro para Estudiantes, Ciencias Sociales, Cuarto grado*, printed p. 127 |
+
+Honduras's own way (Book 7 — G4 student (student book, Spanish)): Grade 4 widens the lens from Honduras to Central America as one historical region — the "patria grande": method first (what History is, Herodotus, source typologies, auxiliary sciences, periodisation), then pre-Hispanic cultures, discovery, a conquest made hard by many unconquered peoples, colonisation, independence and Federation, dictatorship, civil war and the Esquipulas peace — integration (SICA, PARLACEN) is taught as Morazán's unfinished dream. That way is stocked here as the way Honduras teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 8 — G4 teacher (teacher guide, Spanish)**
+This book is a teacher guide. The Honduras rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+- Title as printed: Guía para Docentes, Ciencias Sociales, Cuarto grado
+- Grade: Grade 4 (student/teacher: TEACHER)
+- Publisher: Secretaría de Estado en el Despacho de Educación de Honduras / UPNFM; year 2020 (Edición Preliminar 2020); ISBN no ISBN printed in front matter seen
+- PDF pages: 166 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 26 placements — 10 to existing lessons, 16 NEW LESSON NEEDED
+- Honduras's own way: The guide mirrors the student book's 38 lessons in condensed form; its history teaching is source-first — children classify sources, work a legend as a source, and close the Central America block by building the regional timeline themselves.
+- Non-History parts (named, not placed): same Civics/Geography lessons as the student book (Lessons 1–13, 16–19, 31, 33–34, 37–38).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lección 23 La llegada de los españoles (guide) — story beats: 15th-century Spain is summarised, one main idea extracted per voyage, and Tordesillas closes the lesson (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: modern-world/exploration-columbus-vespucci-and-magellan) | Honduras, *Guía para Docentes, Ciencias Sociales, Cuarto grado* (teacher guide — evidence), printed p. 95 |
+
+Honduras's own way (Book 8 — G4 teacher (teacher guide, Spanish)): The guide mirrors the student book's 38 lessons in condensed form; its history teaching is source-first — children classify sources, work a legend as a source, and close the Central America block by building the regional timeline themselves. That way is stocked here as the way Honduras teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 11 — G6 student (student book, Spanish)**
+- Title as printed: Libro para Estudiantes, Ciencias Sociales, Sexto grado
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Secretaría de Estado en el Despacho de Educación de Honduras / UPNFM; year 2020 (Edición Preliminar 2020); ISBN no ISBN printed in front matter seen
+- PDF pages: 222 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 27 placements — 26 to existing lessons, 1 NEW LESSON NEEDED
+- Honduras's own way: Grade 6 is a world-history survey run on two rival periodisations at once — the traditional ages and the historical-materialist sequence (primitive community, slavery, feudalism, capitalism) — from prehistory and the river civilisations through Greece, Rome, feudalism and Arab culture to Renaissance, Enlightenment, French Revolution and the world wars; Honduras returns at the end as national identity and civic dates.
+- Non-History parts (named, not placed): Lessons 1–9 (values, gender equity, media, State norms, rights — Civics, printed pp. 10–54); Block 2 Lessons 10–19 (world geography, continents, population, resources, tourism — Geography, printed pp. 58–107); Lessons 28–29 (social inequality; science and technology in the 21st century — sociology, printed pp. 152–161); Lessons 31–34, 36–38 (international organisms, UN agencies, migration, population growth, climate change, Honduras's social problems — Civics/current affairs, printed pp. 171–210, except Lessons 30 and 35 placed below).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lección 26: la era de los descubrimientos — story beats: compass, caravel, astrolabe and printing open the age of Columbus, Vasco da Gama and Magellan; the world is mapped, the first world economy forms, and colonialism's bases are laid (History expansion, 2026-11-15; original placement slug: modern-world/exploration-columbus-vespucci-and-magellan) | Honduras, *Libro para Estudiantes, Ciencias Sociales, Sexto grado*, printed p. 146 |
+
+Honduras's own way (Book 11 — G6 student (student book, Spanish)): Grade 6 is a world-history survey run on two rival periodisations at once — the traditional ages and the historical-materialist sequence (primitive community, slavery, feudalism, capitalism) — from prehistory and the river civilisations through Greece, Rome, feudalism and Arab culture to Renaissance, Enlightenment, French Revolution and the world wars; Honduras returns at the end as national identity and civic dates. That way is stocked here as the way Honduras teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 12 — G6 teacher (teacher guide, Spanish)**
+This book is a teacher guide. The Honduras rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+- Title as printed: Guía para Docentes, Ciencias Sociales, Sexto grado
+- Grade: Grade 6 (student/teacher: TEACHER)
+- Publisher: Secretaría de Estado en el Despacho de Educación de Honduras / UPNFM; year 2020 (Edición Preliminar 2020); ISBN no ISBN printed in front matter seen
+- PDF pages: 166 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 27 placements — 26 to existing lessons, 1 NEW LESSON NEEDED
+- Honduras's own way: The guide mirrors the student survey; its signature task is the double timeline — pupils complete both the traditional and the materialist periodisation lines and state one difference between them, so periodisation itself is taught as an argument, not a fact.
+- Non-History parts (named, not placed): same Civics/Geography lessons as the student book (Lessons 1–19, 28–29, 31–34, 36–38).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lección 26: descubrimientos (guide) — story beats: pupils identify which invention made America's discovery possible (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: modern-world/exploration-columbus-vespucci-and-magellan) | Honduras, *Guía para Docentes, Ciencias Sociales, Sexto grado* (teacher guide — evidence), printed p. 107 |
+
+Honduras's own way (Book 12 — G6 teacher (teacher guide, Spanish)): The guide mirrors the student survey; its signature task is the double timeline — pupils complete both the traditional and the materialist periodisation lines and state one difference between them, so periodisation itself is taught as an argument, not a fact. That way is stocked here as the way Honduras teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 27 countries (Ethiopia, France, Guatemala, Micronesia, Ecuador, Bahamas, Kuwait, Montenegro, Dominican Republic, Egypt, Pakistan, Suriname, Colombia, Mauritania, South Sudan, Mongolia, Sudan, Uzbekistan, North Macedonia, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras).**

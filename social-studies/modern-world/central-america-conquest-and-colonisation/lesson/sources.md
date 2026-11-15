@@ -1,6 +1,6 @@
 # Sources — Central America Conquest And Colonisation
 
-countries: Nicaragua
+countries: Nicaragua, Honduras
 
 **Book 4 — G5 Estudios Sociales (student book, Spanish)**
 - Title as printed: Estudios Sociales — Primaria Regular, 5to Grado
@@ -35,3 +35,42 @@ Nicaragua's own way (Book 8 — G8 Estudios Sociales, full-year textbook (studen
 **Acceptance count: taught in 1 country (Nicaragua).**
 
 Searchable tags: Nicaragua, Central America Conquest And Colonisation, modern-world/central-america-conquest-and-colonisation, History expansion 2026-11-15
+
+## History expansion (2026-11-15) — Honduras stocked
+
+**Book 7 — G4 student (student book, Spanish)**
+- Title as printed: Libro para Estudiantes, Ciencias Sociales, Cuarto grado
+- Grade: Grade 4 (student/teacher: STUDENT)
+- Publisher: Secretaría de Estado en el Despacho de Educación de Honduras / UPNFM; year 2020 (Edición Preliminar 2020); ISBN no ISBN printed in front matter seen
+- PDF pages: 222 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 26 placements — 10 to existing lessons, 16 NEW LESSON NEEDED
+- Honduras's own way: Grade 4 widens the lens from Honduras to Central America as one historical region — the "patria grande": method first (what History is, Herodotus, source typologies, auxiliary sciences, periodisation), then pre-Hispanic cultures, discovery, a conquest made hard by many unconquered peoples, colonisation, independence and Federation, dictatorship, civil war and the Esquipulas peace — integration (SICA, PARLACEN) is taught as Morazán's unfinished dream.
+- Non-History parts (named, not placed): Lessons 1–9 (rights, media, political system — Civics, printed pp. 10–54); Block 2 Lessons 10–13, 16–19 (planet, coordinates, natural wealth, trade, tourism — Geography, printed pp. 58–107, except Lessons 14–15 placed below); Lessons 31, 33–34, 37–38 (organisations, population, economic activities, capitalism and globalisation — Civics/economics, printed pp. 171–210, except Lessons 30, 32, 35, 36 placed below); Annexes 1–4 (maps of Central America, national symbols, roads, volcanoes — Geography reference).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lección 24 Conquista de Centroamérica — story beats: unlike Mexico, the isthmus has no single power whose fall delivers the rest — many tribes in jungle and mountains make the conquest long and hard against firearms, war dogs, horses and disease; it proceeds in three kinds (military, economic, spiritual) and two thrusts, from Mexico and from Panama (1524–1540) (History expansion, 2026-11-15; original placement slug: modern-world/central-america-conquest-and-colonisation) | Honduras, *Libro para Estudiantes, Ciencias Sociales, Cuarto grado*, printed p. 132 |
+| Honduras part — Lección 25 Colonización de Centroamérica — story beats: the Captaincy General of Guatemala rules five provinces through governors, alcaldías mayores, cabildos and bishoprics; encomienda assigns natives to an encomendero to work, be protected and be Christianised, repartimiento drafts their labour, and society stratifies under peninsulares and criollos (History expansion, 2026-11-15; original placement slug: modern-world/central-america-conquest-and-colonisation) | Honduras, *Libro para Estudiantes, Ciencias Sociales, Cuarto grado*, printed p. 137 |
+
+Honduras's own way (Book 7 — G4 student (student book, Spanish)): Grade 4 widens the lens from Honduras to Central America as one historical region — the "patria grande": method first (what History is, Herodotus, source typologies, auxiliary sciences, periodisation), then pre-Hispanic cultures, discovery, a conquest made hard by many unconquered peoples, colonisation, independence and Federation, dictatorship, civil war and the Esquipulas peace — integration (SICA, PARLACEN) is taught as Morazán's unfinished dream. That way is stocked here as the way Honduras teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 8 — G4 teacher (teacher guide, Spanish)**
+This book is a teacher guide. The Honduras rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+- Title as printed: Guía para Docentes, Ciencias Sociales, Cuarto grado
+- Grade: Grade 4 (student/teacher: TEACHER)
+- Publisher: Secretaría de Estado en el Despacho de Educación de Honduras / UPNFM; year 2020 (Edición Preliminar 2020); ISBN no ISBN printed in front matter seen
+- PDF pages: 166 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 26 placements — 10 to existing lessons, 16 NEW LESSON NEEDED
+- Honduras's own way: The guide mirrors the student book's 38 lessons in condensed form; its history teaching is source-first — children classify sources, work a legend as a source, and close the Central America block by building the regional timeline themselves.
+- Non-History parts (named, not placed): same Civics/Geography lessons as the student book (Lessons 1–13, 16–19, 31, 33–34, 37–38).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lección 24 Conquista (guide) — story beats: conqueror is matched to country (Balboa, the Alvarados, Hernández de Córdoba, Olid) and the three conquest types distinguished (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: modern-world/central-america-conquest-and-colonisation) | Honduras, *Guía para Docentes, Ciencias Sociales, Cuarto grado* (teacher guide — evidence), printed p. 99 |
+| Honduras part — Lección 25 Colonización (guide) — story beats: encomienda and repartimiento are defined from the pupils' own questions, with the Captaincy's political ladder drawn out (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: modern-world/central-america-conquest-and-colonisation) | Honduras, *Guía para Docentes, Ciencias Sociales, Cuarto grado* (teacher guide — evidence), printed p. 103 |
+
+Honduras's own way (Book 8 — G4 teacher (teacher guide, Spanish)): The guide mirrors the student book's 38 lessons in condensed form; its history teaching is source-first — children classify sources, work a legend as a source, and close the Central America block by building the regional timeline themselves. That way is stocked here as the way Honduras teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 2 countries (Nicaragua, Honduras).**

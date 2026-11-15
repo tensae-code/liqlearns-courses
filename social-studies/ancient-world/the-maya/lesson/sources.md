@@ -1,6 +1,6 @@
 # Sources — The Maya
 
-countries: Ethiopia, Guatemala, Costa Rica, Ecuador, Egypt, Bolivia, Suriname, Cambodia, Colombia, South Sudan, Mongolia, Yemen, Jordan, Afghanistan, Cuba, China, Venezuela, Armenia, Nicaragua
+countries: Ethiopia, Guatemala, Costa Rica, Ecuador, Egypt, Bolivia, Suriname, Cambodia, Colombia, South Sudan, Mongolia, Yemen, Jordan, Afghanistan, Cuba, China, Venezuela, Armenia, Nicaragua, Honduras
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -547,3 +547,139 @@ Nicaragua's own way (Book 4 — G5 Estudios Sociales (student book, Spanish)): t
 Nicaragua's own way (Book 8 — G8 Estudios Sociales, full-year textbook (student book, Spanish)): the lens widens from Nicaragua to all the Americas — five Geography units on the continent's territory, landscape, peoples, economy and environment (printed pp. 1-124), then History as a single American story: first peoples and the three great civilisations, European arrival and colonial domination by three empires, emancipation, the troubled century after independence, and the Americas in the 20th century, always ending back in Nicaragua (Somoza, the FSLN, the 1979 triumph and the GRUN model). That way is stocked here as the way Nicaragua teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 19 countries (Ethiopia, Guatemala, Costa Rica, Ecuador, Egypt, Bolivia, Suriname, Cambodia, Colombia, South Sudan, Mongolia, Yemen, Jordan, Afghanistan, Cuba, China, Venezuela, Armenia, Nicaragua).**
+
+## History expansion (2026-11-15) — Honduras stocked
+
+**Book 3 — G2 student (student book, Spanish)**
+- Title as printed: Libro para Estudiantes, Ciencias Sociales, Segundo grado
+- Grade: Grade 2 (student/teacher: STUDENT)
+- Publisher: Secretaría de Estado en el Despacho de Educación de Honduras / UPNFM; year 2020 (Edición Preliminar, abril 2020); ISBN no ISBN printed in front matter seen (imprint page carries no ISBN)
+- PDF pages: 182 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 24 placements — 15 to existing lessons, 9 NEW LESSON NEEDED
+- Honduras's own way: Grade 2 gives History its own block, Las sociedades y el tiempo social: what History is, its sources (archaeological, written, oral), then the child's municipality and department through time — first peoples and the Maya of Copán, the making of the 18 departments, fortresses, monuments and tangible/intangible heritage, much of it learned by interviewing elders and dramatising local events.
+- Non-History parts (named, not placed): Lessons 1–3, 5–7 (living in harmony, rights, democracy — Civics, printed pp. 10–37); Block 2 Lessons 10–15, 17–19 (maps, relief, economic activities, services, transport — Geography, printed pp. 50–93, except Lesson 16 placed below); Lessons 30–32, 34–35 (municipal norms, authorities, local development — Civics, printed pp. 138–161, except the historical opening of Lesson 33 placed below).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lección 25 Pueblos originarios: los primeros pobladores y los mayas — story beats: small hunter bands cross into the continent chasing herds and settle at La Esperanza; thousands of years later the Maya flourish at Copán, extend over the west, bring maize farming and advances in astronomy, mathematics and art, and play Pok-ta-pok (History expansion, 2026-11-15; original placement slug: ancient-world/the-maya) | Honduras, *Libro para Estudiantes, Ciencias Sociales, Segundo grado*, printed p. 114 |
+
+Honduras's own way (Book 3 — G2 student (student book, Spanish)): Grade 2 gives History its own block, Las sociedades y el tiempo social: what History is, its sources (archaeological, written, oral), then the child's municipality and department through time — first peoples and the Maya of Copán, the making of the 18 departments, fortresses, monuments and tangible/intangible heritage, much of it learned by interviewing elders and dramatising local events. That way is stocked here as the way Honduras teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 4 — G2 teacher (teacher guide, Spanish)**
+This book is a teacher guide. The Honduras rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+- Title as printed: Guía para Docentes, Ciencias Sociales, Segundo grado
+- Grade: Grade 2 (student/teacher: TEACHER)
+- Publisher: Secretaría de Estado en el Despacho de Educación de Honduras / UPNFM; year 2020 (Edición Preliminar, abril 2020); ISBN no ISBN printed in front matter seen
+- PDF pages: 166 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 24 placements — 15 to existing lessons, 9 NEW LESSON NEEDED
+- Honduras's own way: The guide mirrors the student book's 38 lessons and adds the method: children narrate a remembered event aloud and in drawing, music and theatre; elders are interviewed as oral sources; local history is dramatised in three theatre groups.
+- Non-History parts (named, not placed): same Civics/Geography lessons as the student book (Lessons 1–3, 5–7, 10–15, 17–19, 30–32, 34–35).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lección 25 Pueblos originarios (guide) — story beats: first hunters at La Esperanza, then Copán's Maya flowering with maize, astronomy and the ball game (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: ancient-world/the-maya) | Honduras, *Guía para Docentes, Ciencias Sociales, Segundo grado* (teacher guide — evidence), printed p. 103 |
+
+Honduras's own way (Book 4 — G2 teacher (teacher guide, Spanish)): The guide mirrors the student book's 38 lessons and adds the method: children narrate a remembered event aloud and in drawing, music and theatre; elders are interviewed as oral sources; local history is dramatised in three theatre groups. That way is stocked here as the way Honduras teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 5 — G3 student (student book, Spanish)**
+- Title as printed: Libro para Estudiantes, Ciencias Sociales, Tercer grado
+- Grade: Grade 3 (student/teacher: STUDENT)
+- Publisher: Secretaría de Estado en el Despacho de Educación de Honduras / UPNFM; year 2020 (Edición Preliminar, abril 2020); ISBN no ISBN printed in front matter seen
+- PDF pages: 182 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 23 placements — 5 to existing lessons, 18 NEW LESSON NEEDED
+- Honduras's own way: Grade 3 is the first full national-history survey, organised in the book's own three periods — prehispánico, colonial, independiente — running Copán and the pre-Hispanic peoples, discovery and the naming of Honduras, conquest, colonial classes and mestizaje, independence, Morazán and the Federation, the Liberal Reform and foreign enclaves, and the democratic era to the 2009 crisis; each figure is taught by one deed (Valle wrote the Acta, Herrera decreed the first constitution, Reyes founded the university).
+- Non-History parts (named, not placed): Lessons 1–7 (feelings, decisions, rights — Civics, printed pp. 10–37); Block 2 Lessons 10–19 (Earth, orientation, political organisation, population, occupations, natural wealth, services, transport — Geography, printed pp. 50–93); Lessons 30–32, 34–38 (authorities, laws, social classes, economic activities, trade — Civics/economics, printed pp. 138–179, except Lesson 33 placed below).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lección 21 Raíces prehispánicas: Copán — story beats: Copán, UNESCO World Heritage, was a Maya city of plazas, stelae, altars and tombs — Acropolis, Ball Court, Hieroglyphic Stairway, Rosalila temple — across the preclassic, classic and postclassic periods (History expansion, 2026-11-15; original placement slug: ancient-world/the-maya) | Honduras, *Libro para Estudiantes, Ciencias Sociales, Tercer grado*, printed p. 98 |
+
+Honduras's own way (Book 5 — G3 student (student book, Spanish)): Grade 3 is the first full national-history survey, organised in the book's own three periods — prehispánico, colonial, independiente — running Copán and the pre-Hispanic peoples, discovery and the naming of Honduras, conquest, colonial classes and mestizaje, independence, Morazán and the Federation, the Liberal Reform and foreign enclaves, and the democratic era to the 2009 crisis; each figure is taught by one deed (Valle wrote the Acta, Herrera decreed the first constitution, Reyes founded the university). That way is stocked here as the way Honduras teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 6 — G3 teacher (teacher guide, Spanish)**
+This book is a teacher guide. The Honduras rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+- Title as printed: Guía para Docentes, Ciencias Sociales, Tercer grado
+- Grade: Grade 3 (student/teacher: TEACHER)
+- Publisher: Secretaría de Estado en el Despacho de Educación de Honduras / UPNFM; year 2020 (Edición Preliminar, abril 2020); ISBN no ISBN printed in front matter seen
+- PDF pages: 166 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 23 placements — 5 to existing lessons, 18 NEW LESSON NEEDED
+- Honduras's own way: The guide mirrors the student survey lesson for lesson and frames the teaching: the national story is built from the local one (Comayagua's founding opens the periods lesson), figures are fixed by their single defining deed, and children are sent to research the pre-Hispanic group nearest their own locality for an album.
+- Non-History parts (named, not placed): same Civics/Geography lessons as the student book (Lessons 1–7, 10–19, 30–32, 34–38) plus a rivers-of-Honduras map annex (Geography).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lección 21 Raíces prehispánicas: Copán (guide) — story beats: Copán's plazas, stelae and Hieroglyphic Stairway are the evidence lesson for Maya development across three periods (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: ancient-world/the-maya) | Honduras, *Guía para Docentes, Ciencias Sociales, Tercer grado* (teacher guide — evidence), printed p. 87 |
+
+Honduras's own way (Book 6 — G3 teacher (teacher guide, Spanish)): The guide mirrors the student survey lesson for lesson and frames the teaching: the national story is built from the local one (Comayagua's founding opens the periods lesson), figures are fixed by their single defining deed, and children are sent to research the pre-Hispanic group nearest their own locality for an album. That way is stocked here as the way Honduras teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 7 — G4 student (student book, Spanish)**
+- Title as printed: Libro para Estudiantes, Ciencias Sociales, Cuarto grado
+- Grade: Grade 4 (student/teacher: STUDENT)
+- Publisher: Secretaría de Estado en el Despacho de Educación de Honduras / UPNFM; year 2020 (Edición Preliminar 2020); ISBN no ISBN printed in front matter seen
+- PDF pages: 222 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 26 placements — 10 to existing lessons, 16 NEW LESSON NEEDED
+- Honduras's own way: Grade 4 widens the lens from Honduras to Central America as one historical region — the "patria grande": method first (what History is, Herodotus, source typologies, auxiliary sciences, periodisation), then pre-Hispanic cultures, discovery, a conquest made hard by many unconquered peoples, colonisation, independence and Federation, dictatorship, civil war and the Esquipulas peace — integration (SICA, PARLACEN) is taught as Morazán's unfinished dream.
+- Non-History parts (named, not placed): Lessons 1–9 (rights, media, political system — Civics, printed pp. 10–54); Block 2 Lessons 10–13, 16–19 (planet, coordinates, natural wealth, trade, tourism — Geography, printed pp. 58–107, except Lessons 14–15 placed below); Lessons 31, 33–34, 37–38 (organisations, population, economic activities, capitalism and globalisation — Civics/economics, printed pp. 171–210, except Lessons 30, 32, 35, 36 placed below); Annexes 1–4 (maps of Central America, national symbols, roads, volcanoes — Geography reference).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lección 22 Población prehispánica de Centroamérica: los mayas — story beats: the Maya, oldest and most outstanding, build Tikal, Palenque, Chichén Itzá and Copán as ceremonial cities under king, nobles, priests and warriors; they leave hieroglyphic writing (three surviving codices), the zero, vigesimal numbers and exact calendars, then decline — land exhaustion, pests and climate are the theories offered (History expansion, 2026-11-15; original placement slug: ancient-world/the-maya) | Honduras, *Libro para Estudiantes, Ciencias Sociales, Cuarto grado*, printed p. 122 |
+
+Honduras's own way (Book 7 — G4 student (student book, Spanish)): Grade 4 widens the lens from Honduras to Central America as one historical region — the "patria grande": method first (what History is, Herodotus, source typologies, auxiliary sciences, periodisation), then pre-Hispanic cultures, discovery, a conquest made hard by many unconquered peoples, colonisation, independence and Federation, dictatorship, civil war and the Esquipulas peace — integration (SICA, PARLACEN) is taught as Morazán's unfinished dream. That way is stocked here as the way Honduras teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 8 — G4 teacher (teacher guide, Spanish)**
+This book is a teacher guide. The Honduras rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+- Title as printed: Guía para Docentes, Ciencias Sociales, Cuarto grado
+- Grade: Grade 4 (student/teacher: TEACHER)
+- Publisher: Secretaría de Estado en el Despacho de Educación de Honduras / UPNFM; year 2020 (Edición Preliminar 2020); ISBN no ISBN printed in front matter seen
+- PDF pages: 166 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 26 placements — 10 to existing lessons, 16 NEW LESSON NEEDED
+- Honduras's own way: The guide mirrors the student book's 38 lessons in condensed form; its history teaching is source-first — children classify sources, work a legend as a source, and close the Central America block by building the regional timeline themselves.
+- Non-History parts (named, not placed): same Civics/Geography lessons as the student book (Lessons 1–13, 16–19, 31, 33–34, 37–38).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lección 22: los mayas (guide) — story beats: Maya social pyramid, cities, glyphs, zero and calendars are completed as exercises, ending on the rulers of Copán (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: ancient-world/the-maya) | Honduras, *Guía para Docentes, Ciencias Sociales, Cuarto grado* (teacher guide — evidence), printed p. 91 |
+
+Honduras's own way (Book 8 — G4 teacher (teacher guide, Spanish)): The guide mirrors the student book's 38 lessons in condensed form; its history teaching is source-first — children classify sources, work a legend as a source, and close the Central America block by building the regional timeline themselves. That way is stocked here as the way Honduras teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 9 — G5 student (student book, Spanish)**
+- Title as printed: Libro para Estudiantes, Ciencias Sociales, Quinto grado
+- Grade: Grade 5 (student/teacher: STUDENT)
+- Publisher: Secretaría de Estado en el Despacho de Educación de Honduras / UPNFM; year 2020 (Edición Preliminar 2020); ISBN no ISBN printed in front matter seen
+- PDF pages: 222 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 27 placements — 11 to existing lessons, 16 NEW LESSON NEEDED
+- Honduras's own way: Grade 5 scales to the Americas: History-as-science with Honduras's own historians, the peopling debate (Ameghino against Hrdlicka and Rivet), pre-Hispanic cultural stages, the three great civilisations plus all the others, three colonial empires side by side, the independence wave country by country, the continental Liberal Reform (Morazán named its first wave), the Cold War, the lost decade and neoliberal Honduras.
+- Non-History parts (named, not placed): Lessons 1–9 (life project, gender, media, democracy — Civics, printed pp. 10–54); Block 2 Lessons 10–19 (geography of America, population, resources, transport, tourism — Geography, printed pp. 58–107); Lessons 30, 32–34, 38 (social organisation, Latin American transformation, student government, social problems — Civics/sociology, printed pp. 166–210, except Lessons 31, 35, 36, 37 placed below).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lección 23 Principales culturas: la maya — story beats: city-states under a hereditary Halach Uinic and a theocratic priesthood, nobles, people and slaves, maize-bean-chile farming, cacao for the elite, 31 Maya languages still a patrimony of humanity (History expansion, 2026-11-15; original placement slug: ancient-world/the-maya) | Honduras, *Libro para Estudiantes, Ciencias Sociales, Quinto grado*, printed p. 127 |
+
+Honduras's own way (Book 9 — G5 student (student book, Spanish)): Grade 5 scales to the Americas: History-as-science with Honduras's own historians, the peopling debate (Ameghino against Hrdlicka and Rivet), pre-Hispanic cultural stages, the three great civilisations plus all the others, three colonial empires side by side, the independence wave country by country, the continental Liberal Reform (Morazán named its first wave), the Cold War, the lost decade and neoliberal Honduras. That way is stocked here as the way Honduras teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 10 — G5 teacher (teacher guide, Spanish)**
+This book is a teacher guide. The Honduras rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+- Title as printed: Guía para Docentes, Ciencias Sociales, Quinto grado
+- Grade: Grade 5 (student/teacher: TEACHER)
+- Publisher: Secretaría de Estado en el Despacho de Educación de Honduras / UPNFM; year 2020 (Edición Preliminar 2020); ISBN no ISBN printed in front matter seen
+- PDF pages: 166 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 27 placements — 11 to existing lessons, 16 NEW LESSON NEEDED
+- Honduras's own way: The guide mirrors the student book's 38 lessons; its distinctive moves are comparative — the three civilisations in one comparison chart, the three empires' social pyramids organised side by side, and every class sent to research a pre-Hispanic group of Honduras itself.
+- Non-History parts (named, not placed): same Civics/Geography lessons as the student book (Lessons 1–19, 30, 32–34, 38).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lección 23: cultura maya (guide) — story beats: the comparison chart fixes Maya government, economy and the zero against its peers (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: ancient-world/the-maya) | Honduras, *Guía para Docentes, Ciencias Sociales, Quinto grado* (teacher guide — evidence), printed p. 93 |
+
+Honduras's own way (Book 10 — G5 teacher (teacher guide, Spanish)): The guide mirrors the student book's 38 lessons; its distinctive moves are comparative — the three civilisations in one comparison chart, the three empires' social pyramids organised side by side, and every class sent to research a pre-Hispanic group of Honduras itself. That way is stocked here as the way Honduras teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 20 countries (Ethiopia, Guatemala, Costa Rica, Ecuador, Egypt, Bolivia, Suriname, Cambodia, Colombia, South Sudan, Mongolia, Yemen, Jordan, Afghanistan, Cuba, China, Venezuela, Armenia, Nicaragua, Honduras).**

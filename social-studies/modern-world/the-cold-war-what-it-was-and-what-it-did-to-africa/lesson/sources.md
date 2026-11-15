@@ -1,6 +1,6 @@
 # Sources — The Cold War — what it was and what it did to Africa
 
-countries: Ethiopia, Turkey, Costa Rica, Australia, Ecuador, Indonesia, Bolivia, Cambodia, Colombia, South Sudan, Mongolia, Mozambique, Yemen, Sudan, Jordan, Laos, China, Venezuela, Moldova, Armenia, Nicaragua
+countries: Ethiopia, Turkey, Costa Rica, Australia, Ecuador, Indonesia, Bolivia, Cambodia, Colombia, South Sudan, Mongolia, Mozambique, Yemen, Sudan, Jordan, Laos, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 139).
 
@@ -554,3 +554,84 @@ Searchable tags: Armenia, History expansion 2026-11-15, modern-world/the-cold-wa
 Nicaragua's own way (Book 11 — G9 Estudios Sociales, full-year textbook (student book, Spanish)): Grade 9 splits the book in two — five Geography units on the continents (printed pp. 1-136), then a headed "Historia" half (Units VI-XI) that is pure world history: human evolution and first societies, the four river civilisations studied one by one under identical headings (geography, politics, society, economy, culture), Greece and Rome, the medieval world, the modern age, and contemporary society ending with ALBA and the GRUN's social achievements in Nicaragua. That way is stocked here as the way Nicaragua teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 21 countries (Ethiopia, Turkey, Costa Rica, Australia, Ecuador, Indonesia, Bolivia, Cambodia, Colombia, South Sudan, Mongolia, Mozambique, Yemen, Sudan, Jordan, Laos, China, Venezuela, Moldova, Armenia, Nicaragua).**
+
+## History expansion (2026-11-15) — Honduras stocked
+
+**Book 9 — G5 student (student book, Spanish)**
+- Title as printed: Libro para Estudiantes, Ciencias Sociales, Quinto grado
+- Grade: Grade 5 (student/teacher: STUDENT)
+- Publisher: Secretaría de Estado en el Despacho de Educación de Honduras / UPNFM; year 2020 (Edición Preliminar 2020); ISBN no ISBN printed in front matter seen
+- PDF pages: 222 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 27 placements — 11 to existing lessons, 16 NEW LESSON NEEDED
+- Honduras's own way: Grade 5 scales to the Americas: History-as-science with Honduras's own historians, the peopling debate (Ameghino against Hrdlicka and Rivet), pre-Hispanic cultural stages, the three great civilisations plus all the others, three colonial empires side by side, the independence wave country by country, the continental Liberal Reform (Morazán named its first wave), the Cold War, the lost decade and neoliberal Honduras.
+- Non-History parts (named, not placed): Lessons 1–9 (life project, gender, media, democracy — Civics, printed pp. 10–54); Block 2 Lessons 10–19 (geography of America, population, resources, transport, tourism — Geography, printed pp. 58–107); Lessons 30, 32–34, 38 (social organisation, Latin American transformation, student government, social problems — Civics/sociology, printed pp. 166–210, except Lessons 31, 35, 36, 37 placed below).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lección 29 América en el último cuarto del siglo XX y XXI: la guerra fría — story beats: the US–USSR ideological confrontation without direct war shapes Latin America as allied ground and ends with the USSR's disintegration at the close of the 1980s (History expansion, 2026-11-15; original placement slug: modern-world/the-cold-war-what-it-was-and-what-it-did-to-africa) | Honduras, *Libro para Estudiantes, Ciencias Sociales, Quinto grado*, printed p. 157 |
+
+Honduras's own way (Book 9 — G5 student (student book, Spanish)): Grade 5 scales to the Americas: History-as-science with Honduras's own historians, the peopling debate (Ameghino against Hrdlicka and Rivet), pre-Hispanic cultural stages, the three great civilisations plus all the others, three colonial empires side by side, the independence wave country by country, the continental Liberal Reform (Morazán named its first wave), the Cold War, the lost decade and neoliberal Honduras. That way is stocked here as the way Honduras teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 10 — G5 teacher (teacher guide, Spanish)**
+This book is a teacher guide. The Honduras rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+- Title as printed: Guía para Docentes, Ciencias Sociales, Quinto grado
+- Grade: Grade 5 (student/teacher: TEACHER)
+- Publisher: Secretaría de Estado en el Despacho de Educación de Honduras / UPNFM; year 2020 (Edición Preliminar 2020); ISBN no ISBN printed in front matter seen
+- PDF pages: 166 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 27 placements — 11 to existing lessons, 16 NEW LESSON NEEDED
+- Honduras's own way: The guide mirrors the student book's 38 lessons; its distinctive moves are comparative — the three civilisations in one comparison chart, the three empires' social pyramids organised side by side, and every class sent to research a pre-Hispanic group of Honduras itself.
+- Non-History parts (named, not placed): same Civics/Geography lessons as the student book (Lessons 1–19, 30, 32–34, 38).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lección 29: guerra fría (guide) — story beats: the Cold War is built as a concept map — two models, no direct war, a divided continent (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: modern-world/the-cold-war-what-it-was-and-what-it-did-to-africa) | Honduras, *Guía para Docentes, Ciencias Sociales, Quinto grado* (teacher guide — evidence), printed p. 119 |
+
+Honduras's own way (Book 10 — G5 teacher (teacher guide, Spanish)): The guide mirrors the student book's 38 lessons; its distinctive moves are comparative — the three civilisations in one comparison chart, the three empires' social pyramids organised side by side, and every class sent to research a pre-Hispanic group of Honduras itself. That way is stocked here as the way Honduras teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 17 — Ciencias Sociales, Noveno Grado (STUDENT)**
+- Title as printed: Libro para Estudiantes, Ciencias Sociales — Noveno Grado de Educación Básica
+- Publisher: Secretaría de Educación de Honduras / UPNFM; Edición Preliminar 2020; source file LE-CCSS9-2020.pdf
+- PDF pages: 254 — Verdict: COMPLETE (read in full, page by page)
+- Tally: 18 placements — 12 existing, 6 NEW
+- Honduras's own way: Grade 9 closes the cycle with the world survey (lessons 20–29): the two rival periodisations (traditional ages vs Marx's historical materialism) taught side by side, the ancient civilisations' legacies, the medieval world, the three great revolutions, both world wars, decolonisation, the Cold War — with Honduras's own place noted inside it (bordering three civil-war states; a member of the 1991 Gulf coalition) — and the Gulf War taught as "immediate history", the first war broadcast live.
+- Non-History parts (named, not placed): Block 1 lessons 1–9 (vocation, life project, human rights generations — Civics); Block 2 lessons 10–19 (world geography tour: Europe, Asia, Africa, Oceania, global warming — Geography); Block 4 lessons 30–38 (organisations, economy and development — Civics/Economics).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Baruch names the cold war — story beats: the term was coined by Bernard Baruch in April 1947 and popularised by Walter Lippmann; the Marshall Plan answered the Warsaw Pact, proxy wars burned in Vietnam, Cuba and Nicaragua, and Honduras lived the conflict as the bordered neighbour of three civil wars without fighting one itself (History expansion, 2026-11-15; original placement slug: modern-world/the-cold-war-what-it-was-and-what-it-did-to-africa) | Honduras, *Libro para Estudiantes, Ciencias Sociales — Noveno Grado de Educación Básica*, printed p. 168 |
+
+Honduras's own way (Book 17 — Ciencias Sociales, Noveno Grado (STUDENT)): Grade 9 closes the cycle with the world survey (lessons 20–29): the two rival periodisations (traditional ages vs Marx's historical materialism) taught side by side, the ancient civilisations' legacies, the medieval world, the three great revolutions, both world wars, decolonisation, the Cold War — with Honduras's own place noted inside it (bordering three civil-war states; a member of the 1991 Gulf coalition) — and the Gulf War taught as "immediate history", the first war broadcast live. That way is stocked here as the way Honduras teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 18 — Ciencias Sociales, Noveno Grado (TEACHER, 2020 edition)**
+This book is a teacher guide. The Honduras rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+- Title as printed: Guía para Docentes, Ciencias Sociales — Noveno Grado de Educación Básica
+- Publisher: Secretaría de Educación de Honduras / UPNFM; Edición Preliminar 2020; source file GD-CCSS9-2020.pdf
+- PDF pages: 166 — Verdict: COMPLETE (read in full, page by page)
+- Tally: 18 placements — 12 existing, 6 NEW
+- Honduras's own way: the guide mirrors the student book lesson-for-lesson (same 38 lessons, same world-history block 20–29, same two-periodisations approach), adding the teacher's framing, answer keys and project guidance.
+- Non-History parts (named, not placed): Block 1 lessons 1–9 (Civics); Block 2 lessons 10–19 (Geography); Block 4 lessons 30–38 (Civics/Economics) — same split as the student book.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Baruch names the cold war — story beats: the guide's key gives Baruch's 1947 coinage, Marshall Plan vs Warsaw Pact, the proxy wars and Honduras's bordered-neighbour experience (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: modern-world/the-cold-war-what-it-was-and-what-it-did-to-africa) | Honduras, *Guía para Docentes, Ciencias Sociales — Noveno Grado de Educación Básica* (teacher guide — evidence), printed p. 168 |
+
+Honduras's own way (Book 18 — Ciencias Sociales, Noveno Grado (TEACHER, 2020 edition)): the guide mirrors the student book lesson-for-lesson (same 38 lessons, same world-history block 20–29, same two-periodisations approach), adding the teacher's framing, answer keys and project guidance. That way is stocked here as the way Honduras teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 19 — Ciencias Sociales, Noveno Grado (TEACHER, 2022 edition)**
+This book is a teacher guide. The Honduras rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+- Title as printed: Ciencias Sociales 9 — Guía para Docentes, Noveno grado, III Ciclo
+- Publisher: Secretaría de Educación de Honduras; 2022 edition (source file GD-CCSS9-2022.pdf)
+- PDF pages: 168 — Verdict: COMPLETE (parallel edition of Book 18: the 2020 guide was read in full; this 2022 re-issue was verified against it — identical 38-lesson index and titles, same student-book content embedded page-for-page with model answers, equivalent teacher notes; spot-checked visually across the history block because this PDF has NO text layer, its pages are images)
+- Tally: 18 placements — 12 existing, 6 NEW
+- Honduras's own way: the 2022 guide re-presents the same world-history block (lessons 20–29) in a new design, embedding the student workbook pages with blue model answers and a teacher note under each; its Lesson 20 opens the periodisation lesson from a 2010 article on the 2008 financial crisis, asking how that hecho histórico affected the world and Honduras.
+- Non-History parts (named, not placed): Block 1 lessons 1–9 (Civics); Block 2 lessons 10–19 (Geography); Block 4 lessons 30–38 (Civics/Economics) — same split as the 2020 edition.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Baruch names the cold war — story beats: the 2022 guide's key gives the 1947 coinage, the rival plans and the Central American spillover (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: modern-world/the-cold-war-what-it-was-and-what-it-did-to-africa) | Honduras, *Ciencias Sociales 9 — Guía para Docentes, Noveno grado, III Ciclo* (teacher guide — evidence), printed p. 111 |
+
+Honduras's own way (Book 19 — Ciencias Sociales, Noveno Grado (TEACHER, 2022 edition)): the 2022 guide re-presents the same world-history block (lessons 20–29) in a new design, embedding the student workbook pages with blue model answers and a teacher note under each; its Lesson 20 opens the periodisation lesson from a 2010 article on the 2008 financial crisis, asking how that hecho histórico affected the world and Honduras. That way is stocked here as the way Honduras teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 22 countries (Ethiopia, Turkey, Costa Rica, Australia, Ecuador, Indonesia, Bolivia, Cambodia, Colombia, South Sudan, Mongolia, Mozambique, Yemen, Sudan, Jordan, Laos, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras).**

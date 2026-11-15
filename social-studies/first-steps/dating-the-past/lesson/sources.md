@@ -1,6 +1,6 @@
 # Sources — Dating the past — calendars, timelines and periods
 
-countries: Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia
+countries: Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Honduras
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -1929,3 +1929,110 @@ Armenia's own way (Book B11 — G12 World History Student (student book, Armenia
 **Acceptance count: taught in 44 countries (Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia).**
 
 Searchable tags: Armenia, History expansion 2026-11-15, first-steps/dating-the-past
+
+## History expansion (2026-11-15) — Honduras stocked
+
+**Book 1 — G1 student (student book, Spanish)**
+- Title as printed: Libro para Estudiantes, Ciencias Sociales, Primer grado
+- Grade: Grade 1 (student/teacher: STUDENT)
+- Publisher: Secretaría de Estado en el Despacho de Educación de Honduras / UPNFM; year 2020 (Edición Preliminar, abril 2020); ISBN 978-99979-59-14-0 (barcode on imprint page)
+- PDF pages: 182 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 13 placements — 8 to existing lessons, 5 NEW LESSON NEEDED
+- Honduras's own way: History starts from the child's own time, family and community — yesterday/today/tomorrow, a family tree, the founding date of your own town — and the nation enters through its symbols, its anthem (which itself narrates the national story) and one hero, Francisco Morazán; every lesson follows the same four moments (¡A recordar! / Sabías que / Sembrar y cosechar / El valor de lo que sé) with mascot Kinich, the scarlet macaw.
+- Non-History parts (named, not placed): Block 1 La persona y su ser social, Lessons 1–7 (feelings, aspirations, coexistence, rights and duties — Civics/personal, printed pp. 10–37); Block 2 Las sociedades y los espacios geográficos, Lessons 10–19 (space, orientation, work, nature, public services, transport — Geography, printed pp. 50–93); Lesson 24 Esto sucede en la comunidad (community authorities and elections — Civics, printed pp. 110–113); Block 4 Las sociedades organizadas, Lessons 30–38 (family roles, school behaviour and authorities — Civics, printed pp. 138–179).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lección 20 Ayer, hoy y mañana — story beats: a fallen leaf was on the branch yesterday, dreams today and is blown away tomorrow; time is measured in hours, days and years, and Comayagua, founded 8 December 1537, turns 482 in 2019 (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Honduras, *Libro para Estudiantes, Ciencias Sociales, Primer grado*, printed p. 94 |
+| Honduras part — Lección 21 Lo que pasó y lo que está pasando — story beats: birthdays and civic feasts return on the same date each year with a duration and a sequence; September becomes the Mes de la Patria because it holds the acts commemorating independence (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Honduras, *Libro para Estudiantes, Ciencias Sociales, Primer grado*, printed p. 98 |
+| Honduras part — Lección 22: El árbol genealógico — story beats: grandparents, parents, brothers and sisters are placed on a drawn family tree so the child can see where their own story joins the family's (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Honduras, *Libro para Estudiantes, Ciencias Sociales, Primer grado*, printed p. 104 |
+
+Honduras's own way (Book 1 — G1 student (student book, Spanish)): History starts from the child's own time, family and community — yesterday/today/tomorrow, a family tree, the founding date of your own town — and the nation enters through its symbols, its anthem (which itself narrates the national story) and one hero, Francisco Morazán; every lesson follows the same four moments (¡A recordar! / Sabías que / Sembrar y cosechar / El valor de lo que sé) with mascot Kinich, the scarlet macaw. That way is stocked here as the way Honduras teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 2 — G1 teacher (teacher guide, Spanish)**
+This book is a teacher guide. The Honduras rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+- Title as printed: Guía para Docentes, Ciencias Sociales, Primer grado
+- Grade: Grade 1 (student/teacher: TEACHER)
+- Publisher: Secretaría de Estado en el Despacho de Educación de Honduras / UPNFM; year 2020 (Edición preliminar, abril 2020); ISBN 978-99979-59-15-7 (barcode on imprint page)
+- PDF pages: 166 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 13 placements — 8 to existing lessons, 5 NEW LESSON NEEDED
+- Honduras's own way: The guide mirrors the student book lesson for lesson (same 38 lessons, same four moments) and adds the teaching moves: elders are brought in as living sources, children interview parents and grandparents, and each History lesson ends in a made thing — a family tree, a recycled-material monument, a mural.
+- Non-History parts (named, not placed): same Civics/Geography lessons as the student book (Lessons 1–7, 10–19, 24, 30–38) plus Anexo: Normas de Convivencia en nuestra Aula, a classroom-coexistence story (Civics).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lección 20 Ayer, hoy y mañana (guide) — story beats: past, present and future are taught through clocks and calendars and the founding date of the children's own community, then and now (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Honduras, *Guía para Docentes, Ciencias Sociales, Primer grado* (teacher guide — evidence), printed p. 83 |
+| Honduras part — Lección 21 Lo que pasó y lo que está pasando (guide) — story beats: duration and sequence are taught through recurring feasts, ending on Morazán's portrait and the question of which event his month celebrates (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Honduras, *Guía para Docentes, Ciencias Sociales, Primer grado* (teacher guide — evidence), printed p. 87 |
+| Honduras part — Lección 22: árbol genealógico (guide) — story beats: the teacher has each child build the family tree and relate their own events to the events of each relative (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Honduras, *Guía para Docentes, Ciencias Sociales, Primer grado* (teacher guide — evidence), printed p. 91 |
+
+Honduras's own way (Book 2 — G1 teacher (teacher guide, Spanish)): The guide mirrors the student book lesson for lesson (same 38 lessons, same four moments) and adds the teaching moves: elders are brought in as living sources, children interview parents and grandparents, and each History lesson ends in a made thing — a family tree, a recycled-material monument, a mural. That way is stocked here as the way Honduras teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 3 — G2 student (student book, Spanish)**
+- Title as printed: Libro para Estudiantes, Ciencias Sociales, Segundo grado
+- Grade: Grade 2 (student/teacher: STUDENT)
+- Publisher: Secretaría de Estado en el Despacho de Educación de Honduras / UPNFM; year 2020 (Edición Preliminar, abril 2020); ISBN no ISBN printed in front matter seen (imprint page carries no ISBN)
+- PDF pages: 182 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 24 placements — 15 to existing lessons, 9 NEW LESSON NEEDED
+- Honduras's own way: Grade 2 gives History its own block, Las sociedades y el tiempo social: what History is, its sources (archaeological, written, oral), then the child's municipality and department through time — first peoples and the Maya of Copán, the making of the 18 departments, fortresses, monuments and tangible/intangible heritage, much of it learned by interviewing elders and dramatising local events.
+- Non-History parts (named, not placed): Lessons 1–3, 5–7 (living in harmony, rights, democracy — Civics, printed pp. 10–37); Block 2 Lessons 10–15, 17–19 (maps, relief, economic activities, services, transport — Geography, printed pp. 50–93, except Lesson 16 placed below); Lessons 30–32, 34–35 (municipal norms, authorities, local development — Civics, printed pp. 138–161, except the historical opening of Lesson 33 placed below).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lección 20: la línea de tiempo — story beats: a life — first steps 1990, bicycle 1998, sister born 2004, graduation 2009 — is laid on a timeline so important facts stand in the order they happened (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Honduras, *Libro para Estudiantes, Ciencias Sociales, Segundo grado*, printed p. 96 |
+
+Honduras's own way (Book 3 — G2 student (student book, Spanish)): Grade 2 gives History its own block, Las sociedades y el tiempo social: what History is, its sources (archaeological, written, oral), then the child's municipality and department through time — first peoples and the Maya of Copán, the making of the 18 departments, fortresses, monuments and tangible/intangible heritage, much of it learned by interviewing elders and dramatising local events. That way is stocked here as the way Honduras teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 4 — G2 teacher (teacher guide, Spanish)**
+This book is a teacher guide. The Honduras rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+- Title as printed: Guía para Docentes, Ciencias Sociales, Segundo grado
+- Grade: Grade 2 (student/teacher: TEACHER)
+- Publisher: Secretaría de Estado en el Despacho de Educación de Honduras / UPNFM; year 2020 (Edición Preliminar, abril 2020); ISBN no ISBN printed in front matter seen
+- PDF pages: 166 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 24 placements — 15 to existing lessons, 9 NEW LESSON NEEDED
+- Honduras's own way: The guide mirrors the student book's 38 lessons and adds the method: children narrate a remembered event aloud and in drawing, music and theatre; elders are interviewed as oral sources; local history is dramatised in three theatre groups.
+- Non-History parts (named, not placed): same Civics/Geography lessons as the student book (Lessons 1–3, 5–7, 10–15, 17–19, 30–32, 34–35).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lección 20: línea de tiempo (guide) — story beats: each child builds a personal timeline of important dates, the guide's model for ordering any past (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Honduras, *Guía para Docentes, Ciencias Sociales, Segundo grado* (teacher guide — evidence), printed p. 83 |
+
+Honduras's own way (Book 4 — G2 teacher (teacher guide, Spanish)): The guide mirrors the student book's 38 lessons and adds the method: children narrate a remembered event aloud and in drawing, music and theatre; elders are interviewed as oral sources; local history is dramatised in three theatre groups. That way is stocked here as the way Honduras teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 11 — G6 student (student book, Spanish)**
+- Title as printed: Libro para Estudiantes, Ciencias Sociales, Sexto grado
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Secretaría de Estado en el Despacho de Educación de Honduras / UPNFM; year 2020 (Edición Preliminar 2020); ISBN no ISBN printed in front matter seen
+- PDF pages: 222 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 27 placements — 26 to existing lessons, 1 NEW LESSON NEEDED
+- Honduras's own way: Grade 6 is a world-history survey run on two rival periodisations at once — the traditional ages and the historical-materialist sequence (primitive community, slavery, feudalism, capitalism) — from prehistory and the river civilisations through Greece, Rome, feudalism and Arab culture to Renaissance, Enlightenment, French Revolution and the world wars; Honduras returns at the end as national identity and civic dates.
+- Non-History parts (named, not placed): Lessons 1–9 (values, gender equity, media, State norms, rights — Civics, printed pp. 10–54); Block 2 Lessons 10–19 (world geography, continents, population, resources, tourism — Geography, printed pp. 58–107); Lessons 28–29 (social inequality; science and technology in the 21st century — sociology, printed pp. 152–161); Lessons 31–34, 36–38 (international organisms, UN agencies, migration, population growth, climate change, Honduras's social problems — Civics/current affairs, printed pp. 171–210, except Lessons 30 and 35 placed below).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lección 21: la Edad de Piedra y los metales — story beats: Palaeolithic, Mesolithic, Neolithic in sequence, then copper, bronze (copper plus tin) and iron — each metal making stronger tools and weapons and speeding civilisation (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Honduras, *Libro para Estudiantes, Ciencias Sociales, Sexto grado*, printed p. 120 |
+
+Honduras's own way (Book 11 — G6 student (student book, Spanish)): Grade 6 is a world-history survey run on two rival periodisations at once — the traditional ages and the historical-materialist sequence (primitive community, slavery, feudalism, capitalism) — from prehistory and the river civilisations through Greece, Rome, feudalism and Arab culture to Renaissance, Enlightenment, French Revolution and the world wars; Honduras returns at the end as national identity and civic dates. That way is stocked here as the way Honduras teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 12 — G6 teacher (teacher guide, Spanish)**
+This book is a teacher guide. The Honduras rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+- Title as printed: Guía para Docentes, Ciencias Sociales, Sexto grado
+- Grade: Grade 6 (student/teacher: TEACHER)
+- Publisher: Secretaría de Estado en el Despacho de Educación de Honduras / UPNFM; year 2020 (Edición Preliminar 2020); ISBN no ISBN printed in front matter seen
+- PDF pages: 166 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 27 placements — 26 to existing lessons, 1 NEW LESSON NEEDED
+- Honduras's own way: The guide mirrors the student survey; its signature task is the double timeline — pupils complete both the traditional and the materialist periodisation lines and state one difference between them, so periodisation itself is taught as an argument, not a fact.
+- Non-History parts (named, not placed): same Civics/Geography lessons as the student book (Lessons 1–19, 28–29, 31–34, 36–38).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lección 21: piedra y metales (guide) — story beats: the Stone Age stages and the copper–bronze–iron sequence are drawn as one line (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Honduras, *Guía para Docentes, Ciencias Sociales, Sexto grado* (teacher guide — evidence), printed p. 87 |
+
+Honduras's own way (Book 12 — G6 teacher (teacher guide, Spanish)): The guide mirrors the student survey; its signature task is the double timeline — pupils complete both the traditional and the materialist periodisation lines and state one difference between them, so periodisation itself is taught as an argument, not a fact. That way is stocked here as the way Honduras teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 45 countries (Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Honduras).**

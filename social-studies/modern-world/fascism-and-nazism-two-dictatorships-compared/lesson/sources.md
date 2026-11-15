@@ -1,6 +1,6 @@
 # Sources — Fascism and Nazism — two dictatorships compared
 
-countries: Ethiopia, Australia, Montenegro, Dominican Republic, Cambodia, Mauritania, Samoa, Iraq, Mozambique, North Macedonia, Laos, Cuba, China, Venezuela, Moldova, Armenia
+countries: Ethiopia, Australia, Montenegro, Dominican Republic, Cambodia, Mauritania, Samoa, Iraq, Mozambique, North Macedonia, Laos, Cuba, China, Venezuela, Moldova, Armenia, Honduras
 
 **Book 1:** *History, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN 978-99990-0-065-9. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g10-student-placements.md
 
@@ -408,3 +408,40 @@ Armenia's own way (Book B1 — G9 World History Teacher (teacher guide, Armenian
 **Acceptance count: taught in 16 countries (Ethiopia, Australia, Montenegro, Dominican Republic, Cambodia, Mauritania, Samoa, Iraq, Mozambique, North Macedonia, Laos, Cuba, China, Venezuela, Moldova, Armenia).**
 
 Searchable tags: Armenia, History expansion 2026-11-15, modern-world/fascism-and-nazism-two-dictatorships-compared
+
+## History expansion (2026-11-15) — Honduras stocked
+
+**Book 11 — G6 student (student book, Spanish)**
+- Title as printed: Libro para Estudiantes, Ciencias Sociales, Sexto grado
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Secretaría de Estado en el Despacho de Educación de Honduras / UPNFM; year 2020 (Edición Preliminar 2020); ISBN no ISBN printed in front matter seen
+- PDF pages: 222 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 27 placements — 26 to existing lessons, 1 NEW LESSON NEEDED
+- Honduras's own way: Grade 6 is a world-history survey run on two rival periodisations at once — the traditional ages and the historical-materialist sequence (primitive community, slavery, feudalism, capitalism) — from prehistory and the river civilisations through Greece, Rome, feudalism and Arab culture to Renaissance, Enlightenment, French Revolution and the world wars; Honduras returns at the end as national identity and civic dates.
+- Non-History parts (named, not placed): Lessons 1–9 (values, gender equity, media, State norms, rights — Civics, printed pp. 10–54); Block 2 Lessons 10–19 (world geography, continents, population, resources, tourism — Geography, printed pp. 58–107); Lessons 28–29 (social inequality; science and technology in the 21st century — sociology, printed pp. 152–161); Lessons 31–34, 36–38 (international organisms, UN agencies, migration, population growth, climate change, Honduras's social problems — Civics/current affairs, printed pp. 171–210, except Lessons 30 and 35 placed below).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lección 27: nazismo y fascismo — story beats: parties preaching the supremacy of their own people and excessive love of country turn ambition into the second war's trigger (History expansion, 2026-11-15; original placement slug: modern-world/fascism-and-nazism-two-dictatorships-compared) | Honduras, *Libro para Estudiantes, Ciencias Sociales, Sexto grado*, printed p. 150 |
+
+Honduras's own way (Book 11 — G6 student (student book, Spanish)): Grade 6 is a world-history survey run on two rival periodisations at once — the traditional ages and the historical-materialist sequence (primitive community, slavery, feudalism, capitalism) — from prehistory and the river civilisations through Greece, Rome, feudalism and Arab culture to Renaissance, Enlightenment, French Revolution and the world wars; Honduras returns at the end as national identity and civic dates. That way is stocked here as the way Honduras teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 12 — G6 teacher (teacher guide, Spanish)**
+This book is a teacher guide. The Honduras rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+- Title as printed: Guía para Docentes, Ciencias Sociales, Sexto grado
+- Grade: Grade 6 (student/teacher: TEACHER)
+- Publisher: Secretaría de Estado en el Despacho de Educación de Honduras / UPNFM; year 2020 (Edición Preliminar 2020); ISBN no ISBN printed in front matter seen
+- PDF pages: 166 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 27 placements — 26 to existing lessons, 1 NEW LESSON NEEDED
+- Honduras's own way: The guide mirrors the student survey; its signature task is the double timeline — pupils complete both the traditional and the materialist periodisation lines and state one difference between them, so periodisation itself is taught as an argument, not a fact.
+- Non-History parts (named, not placed): same Civics/Geography lessons as the student book (Lessons 1–19, 28–29, 31–34, 36–38).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lección 27: fascismo y nazismo (guide) — story beats: supremacist parties are named as the second war's ideological cause (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: modern-world/fascism-and-nazism-two-dictatorships-compared) | Honduras, *Guía para Docentes, Ciencias Sociales, Sexto grado* (teacher guide — evidence), printed p. 111 |
+
+Honduras's own way (Book 12 — G6 teacher (teacher guide, Spanish)): The guide mirrors the student survey; its signature task is the double timeline — pupils complete both the traditional and the materialist periodisation lines and state one difference between them, so periodisation itself is taught as an argument, not a fact. That way is stocked here as the way Honduras teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 17 countries (Ethiopia, Australia, Montenegro, Dominican Republic, Cambodia, Mauritania, Samoa, Iraq, Mozambique, North Macedonia, Laos, Cuba, China, Venezuela, Moldova, Armenia, Honduras).**

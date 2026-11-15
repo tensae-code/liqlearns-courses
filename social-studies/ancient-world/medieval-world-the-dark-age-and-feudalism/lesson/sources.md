@@ -1,6 +1,6 @@
 # Sources — Medieval world — the Dark Age and feudalism
 
-countries: Ethiopia, Brazil, Poland, Costa Rica, Australia, Ecuador, Eritrea, Montenegro, Dominican Republic, Pakistan, Iran, Bulgaria, Cambodia, Colombia, Sri Lanka, Mongolia, Sudan, North Macedonia, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua
+countries: Ethiopia, Brazil, Poland, Costa Rica, Australia, Ecuador, Eritrea, Montenegro, Dominican Republic, Pakistan, Iran, Bulgaria, Cambodia, Colombia, Sri Lanka, Mongolia, Sudan, North Macedonia, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -731,3 +731,84 @@ Nicaragua's own way (Book 11 — G9 Estudios Sociales, full-year textbook (stude
 Nicaragua's own way (Book 13 — G10 Estudios Sociales, full-year textbook (student book, Spanish)): Grade 10 closes secondary social studies with Geography of Nicaragua and then Economics; History survives only as the frame that opens the Economics half — human society marched through five socioeconomic formations, from the primitive community to 21st-century socialism, before prices, markets and banks are studied. That way is stocked here as the way Nicaragua teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 26 countries (Ethiopia, Brazil, Poland, Costa Rica, Australia, Ecuador, Eritrea, Montenegro, Dominican Republic, Pakistan, Iran, Bulgaria, Cambodia, Colombia, Sri Lanka, Mongolia, Sudan, North Macedonia, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua).**
+
+## History expansion (2026-11-15) — Honduras stocked
+
+**Book 11 — G6 student (student book, Spanish)**
+- Title as printed: Libro para Estudiantes, Ciencias Sociales, Sexto grado
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Secretaría de Estado en el Despacho de Educación de Honduras / UPNFM; year 2020 (Edición Preliminar 2020); ISBN no ISBN printed in front matter seen
+- PDF pages: 222 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 27 placements — 26 to existing lessons, 1 NEW LESSON NEEDED
+- Honduras's own way: Grade 6 is a world-history survey run on two rival periodisations at once — the traditional ages and the historical-materialist sequence (primitive community, slavery, feudalism, capitalism) — from prehistory and the river civilisations through Greece, Rome, feudalism and Arab culture to Renaissance, Enlightenment, French Revolution and the world wars; Honduras returns at the end as national identity and civic dates.
+- Non-History parts (named, not placed): Lessons 1–9 (values, gender equity, media, State norms, rights — Civics, printed pp. 10–54); Block 2 Lessons 10–19 (world geography, continents, population, resources, tourism — Geography, printed pp. 58–107); Lessons 28–29 (social inequality; science and technology in the 21st century — sociology, printed pp. 152–161); Lessons 31–34, 36–38 (international organisms, UN agencies, migration, population growth, climate change, Honduras's social problems — Civics/current affairs, printed pp. 171–210, except Lessons 30 and 35 placed below).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lección 25 La Edad Media — story beats: from Rome's fall (476) to Constantinople's (1453), a rural world of feudal lords, villains and unfree serfs bound by vassalage, with the Church holding education in its monasteries and raising Gothic cathedrals — Notre Dame, Milan, Cologne — and Dante and Boccaccio writing (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-dark-age-and-feudalism) | Honduras, *Libro para Estudiantes, Ciencias Sociales, Sexto grado*, printed p. 137 |
+
+Honduras's own way (Book 11 — G6 student (student book, Spanish)): Grade 6 is a world-history survey run on two rival periodisations at once — the traditional ages and the historical-materialist sequence (primitive community, slavery, feudalism, capitalism) — from prehistory and the river civilisations through Greece, Rome, feudalism and Arab culture to Renaissance, Enlightenment, French Revolution and the world wars; Honduras returns at the end as national identity and civic dates. That way is stocked here as the way Honduras teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 12 — G6 teacher (teacher guide, Spanish)**
+This book is a teacher guide. The Honduras rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+- Title as printed: Guía para Docentes, Ciencias Sociales, Sexto grado
+- Grade: Grade 6 (student/teacher: TEACHER)
+- Publisher: Secretaría de Estado en el Despacho de Educación de Honduras / UPNFM; year 2020 (Edición Preliminar 2020); ISBN no ISBN printed in front matter seen
+- PDF pages: 166 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 27 placements — 26 to existing lessons, 1 NEW LESSON NEEDED
+- Honduras's own way: The guide mirrors the student survey; its signature task is the double timeline — pupils complete both the traditional and the materialist periodisation lines and state one difference between them, so periodisation itself is taught as an argument, not a fact.
+- Non-History parts (named, not placed): same Civics/Geography lessons as the student book (Lessons 1–19, 28–29, 31–34, 36–38).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lección 25 Edad Media (guide) — story beats: the feudal pyramid is completed tier by tier with a comment on each (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-dark-age-and-feudalism) | Honduras, *Guía para Docentes, Ciencias Sociales, Sexto grado* (teacher guide — evidence), printed p. 103 |
+
+Honduras's own way (Book 12 — G6 teacher (teacher guide, Spanish)): The guide mirrors the student survey; its signature task is the double timeline — pupils complete both the traditional and the materialist periodisation lines and state one difference between them, so periodisation itself is taught as an argument, not a fact. That way is stocked here as the way Honduras teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 17 — Ciencias Sociales, Noveno Grado (STUDENT)**
+- Title as printed: Libro para Estudiantes, Ciencias Sociales — Noveno Grado de Educación Básica
+- Publisher: Secretaría de Educación de Honduras / UPNFM; Edición Preliminar 2020; source file LE-CCSS9-2020.pdf
+- PDF pages: 254 — Verdict: COMPLETE (read in full, page by page)
+- Tally: 18 placements — 12 existing, 6 NEW
+- Honduras's own way: Grade 9 closes the cycle with the world survey (lessons 20–29): the two rival periodisations (traditional ages vs Marx's historical materialism) taught side by side, the ancient civilisations' legacies, the medieval world, the three great revolutions, both world wars, decolonisation, the Cold War — with Honduras's own place noted inside it (bordering three civil-war states; a member of the 1991 Gulf coalition) — and the Gulf War taught as "immediate history", the first war broadcast live.
+- Non-History parts (named, not placed): Block 1 lessons 1–9 (vocation, life project, human rights generations — Civics); Block 2 lessons 10–19 (world geography tour: Europe, Asia, Africa, Oceania, global warming — Geography); Block 4 lessons 30–38 (organisations, economy and development — Civics/Economics).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — High and Low Middle Ages — story beats: Germanic peoples filled Rome's power vacuum; the feudal order of exploiting lords and exploited serfs rested on land, the Church held a fierce grip on monarchies in the High Middle Ages, and science slept in the monasteries (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-dark-age-and-feudalism) | Honduras, *Libro para Estudiantes, Ciencias Sociales — Noveno Grado de Educación Básica*, printed p. 138 |
+
+Honduras's own way (Book 17 — Ciencias Sociales, Noveno Grado (STUDENT)): Grade 9 closes the cycle with the world survey (lessons 20–29): the two rival periodisations (traditional ages vs Marx's historical materialism) taught side by side, the ancient civilisations' legacies, the medieval world, the three great revolutions, both world wars, decolonisation, the Cold War — with Honduras's own place noted inside it (bordering three civil-war states; a member of the 1991 Gulf coalition) — and the Gulf War taught as "immediate history", the first war broadcast live. That way is stocked here as the way Honduras teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 18 — Ciencias Sociales, Noveno Grado (TEACHER, 2020 edition)**
+This book is a teacher guide. The Honduras rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+- Title as printed: Guía para Docentes, Ciencias Sociales — Noveno Grado de Educación Básica
+- Publisher: Secretaría de Educación de Honduras / UPNFM; Edición Preliminar 2020; source file GD-CCSS9-2020.pdf
+- PDF pages: 166 — Verdict: COMPLETE (read in full, page by page)
+- Tally: 18 placements — 12 existing, 6 NEW
+- Honduras's own way: the guide mirrors the student book lesson-for-lesson (same 38 lessons, same world-history block 20–29, same two-periodisations approach), adding the teacher's framing, answer keys and project guidance.
+- Non-History parts (named, not placed): Block 1 lessons 1–9 (Civics); Block 2 lessons 10–19 (Geography); Block 4 lessons 30–38 (Civics/Economics) — same split as the student book.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — High and Low Middle Ages — story beats: the guide's key covers the Germanic successor kingdoms, the lord–serf order and the Church's grip on monarchies (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-dark-age-and-feudalism) | Honduras, *Guía para Docentes, Ciencias Sociales — Noveno Grado de Educación Básica* (teacher guide — evidence), printed p. 138 |
+
+Honduras's own way (Book 18 — Ciencias Sociales, Noveno Grado (TEACHER, 2020 edition)): the guide mirrors the student book lesson-for-lesson (same 38 lessons, same world-history block 20–29, same two-periodisations approach), adding the teacher's framing, answer keys and project guidance. That way is stocked here as the way Honduras teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 19 — Ciencias Sociales, Noveno Grado (TEACHER, 2022 edition)**
+This book is a teacher guide. The Honduras rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+- Title as printed: Ciencias Sociales 9 — Guía para Docentes, Noveno grado, III Ciclo
+- Publisher: Secretaría de Educación de Honduras; 2022 edition (source file GD-CCSS9-2022.pdf)
+- PDF pages: 168 — Verdict: COMPLETE (parallel edition of Book 18: the 2020 guide was read in full; this 2022 re-issue was verified against it — identical 38-lesson index and titles, same student-book content embedded page-for-page with model answers, equivalent teacher notes; spot-checked visually across the history block because this PDF has NO text layer, its pages are images)
+- Tally: 18 placements — 12 existing, 6 NEW
+- Honduras's own way: the 2022 guide re-presents the same world-history block (lessons 20–29) in a new design, embedding the student workbook pages with blue model answers and a teacher note under each; its Lesson 20 opens the periodisation lesson from a 2010 article on the 2008 financial crisis, asking how that hecho histórico affected the world and Honduras.
+- Non-History parts (named, not placed): Block 1 lessons 1–9 (Civics); Block 2 lessons 10–19 (Geography); Block 4 lessons 30–38 (Civics/Economics) — same split as the 2020 edition.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — High and Low Middle Ages — story beats: the 2022 guide's key covers the feudal lord–serf order and the Church's grip (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-dark-age-and-feudalism) | Honduras, *Ciencias Sociales 9 — Guía para Docentes, Noveno grado, III Ciclo* (teacher guide — evidence), printed p. 91 |
+
+Honduras's own way (Book 19 — Ciencias Sociales, Noveno Grado (TEACHER, 2022 edition)): the 2022 guide re-presents the same world-history block (lessons 20–29) in a new design, embedding the student workbook pages with blue model answers and a teacher note under each; its Lesson 20 opens the periodisation lesson from a 2010 article on the 2008 financial crisis, asking how that hecho histórico affected the world and Honduras. That way is stocked here as the way Honduras teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 27 countries (Ethiopia, Brazil, Poland, Costa Rica, Australia, Ecuador, Eritrea, Montenegro, Dominican Republic, Pakistan, Iran, Bulgaria, Cambodia, Colombia, Sri Lanka, Mongolia, Sudan, North Macedonia, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras).**

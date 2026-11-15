@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — Rome divides
 
-countries: Ethiopia, Brazil, France, Costa Rica, Australia, Montenegro, Dominican Republic, Pakistan, Colombia, South Sudan, Sri Lanka, Iraq, Uzbekistan, North Macedonia, Cuba, Venezuela, Armenia
+countries: Ethiopia, Brazil, France, Costa Rica, Australia, Montenegro, Dominican Republic, Pakistan, Colombia, South Sudan, Sri Lanka, Iraq, Uzbekistan, North Macedonia, Cuba, Venezuela, Armenia, Honduras
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 6, placements 92–106).
 
@@ -320,3 +320,40 @@ Armenia's own way (Book A1 — G7 World History student (student book, Armenian)
 **Acceptance count: taught in 17 countries (Ethiopia, Brazil, France, Costa Rica, Australia, Montenegro, Dominican Republic, Pakistan, Colombia, South Sudan, Sri Lanka, Iraq, Uzbekistan, North Macedonia, Cuba, Venezuela, Armenia).**
 
 Searchable tags: Armenia, History expansion 2026-11-15, ancient-world/ancient-civilisations-rome-divides
+
+## History expansion (2026-11-15) — Honduras stocked
+
+**Book 11 — G6 student (student book, Spanish)**
+- Title as printed: Libro para Estudiantes, Ciencias Sociales, Sexto grado
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Secretaría de Estado en el Despacho de Educación de Honduras / UPNFM; year 2020 (Edición Preliminar 2020); ISBN no ISBN printed in front matter seen
+- PDF pages: 222 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 27 placements — 26 to existing lessons, 1 NEW LESSON NEEDED
+- Honduras's own way: Grade 6 is a world-history survey run on two rival periodisations at once — the traditional ages and the historical-materialist sequence (primitive community, slavery, feudalism, capitalism) — from prehistory and the river civilisations through Greece, Rome, feudalism and Arab culture to Renaissance, Enlightenment, French Revolution and the world wars; Honduras returns at the end as national identity and civic dates.
+- Non-History parts (named, not placed): Lessons 1–9 (values, gender equity, media, State norms, rights — Civics, printed pp. 10–54); Block 2 Lessons 10–19 (world geography, continents, population, resources, tourism — Geography, printed pp. 58–107); Lessons 28–29 (social inequality; science and technology in the 21st century — sociology, printed pp. 152–161); Lessons 31–34, 36–38 (international organisms, UN agencies, migration, population growth, climate change, Honduras's social problems — Civics/current affairs, printed pp. 171–210, except Lessons 30 and 35 placed below).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lección 24: el imperio se divide y cae — story beats: from Augustus (29 BC) the empire reaches three continents and must split into East and West under absolute emperors, until Romulus Augustulus closes the West in the 5th century (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-rome-divides) | Honduras, *Libro para Estudiantes, Ciencias Sociales, Sexto grado*, printed p. 136 |
+
+Honduras's own way (Book 11 — G6 student (student book, Spanish)): Grade 6 is a world-history survey run on two rival periodisations at once — the traditional ages and the historical-materialist sequence (primitive community, slavery, feudalism, capitalism) — from prehistory and the river civilisations through Greece, Rome, feudalism and Arab culture to Renaissance, Enlightenment, French Revolution and the world wars; Honduras returns at the end as national identity and civic dates. That way is stocked here as the way Honduras teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 12 — G6 teacher (teacher guide, Spanish)**
+This book is a teacher guide. The Honduras rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+- Title as printed: Guía para Docentes, Ciencias Sociales, Sexto grado
+- Grade: Grade 6 (student/teacher: TEACHER)
+- Publisher: Secretaría de Estado en el Despacho de Educación de Honduras / UPNFM; year 2020 (Edición Preliminar 2020); ISBN no ISBN printed in front matter seen
+- PDF pages: 166 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 27 placements — 26 to existing lessons, 1 NEW LESSON NEEDED
+- Honduras's own way: The guide mirrors the student survey; its signature task is the double timeline — pupils complete both the traditional and the materialist periodisation lines and state one difference between them, so periodisation itself is taught as an argument, not a fact.
+- Non-History parts (named, not placed): same Civics/Geography lessons as the student book (Lessons 1–19, 28–29, 31–34, 36–38).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lección 24: imperio (guide) — story beats: Augustus to Romulus Augustulus, East against West, closes the ancient world (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-rome-divides) | Honduras, *Guía para Docentes, Ciencias Sociales, Sexto grado* (teacher guide — evidence), printed p. 99 |
+
+Honduras's own way (Book 12 — G6 teacher (teacher guide, Spanish)): The guide mirrors the student survey; its signature task is the double timeline — pupils complete both the traditional and the materialist periodisation lines and state one difference between them, so periodisation itself is taught as an argument, not a fact. That way is stocked here as the way Honduras teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 18 countries (Ethiopia, Brazil, France, Costa Rica, Australia, Montenegro, Dominican Republic, Pakistan, Colombia, South Sudan, Sri Lanka, Iraq, Uzbekistan, North Macedonia, Cuba, Venezuela, Armenia, Honduras).**

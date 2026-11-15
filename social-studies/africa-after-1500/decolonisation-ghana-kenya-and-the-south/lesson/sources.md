@@ -1,6 +1,6 @@
 # Sources — Decolonisation — Ghana, Kenya and the south
 
-countries: Ethiopia, Angola, Libya, Uganda, Mozambique, Sudan, North Macedonia, Cuba, Moldova
+countries: Ethiopia, Angola, Libya, Uganda, Mozambique, Sudan, North Macedonia, Cuba, Moldova, Honduras
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 5, placements 110–122).
 
@@ -241,3 +241,51 @@ Moldova's own way (Book 8 — moldova-g12-history (student book, Romanian)): the
 **Acceptance count: taught in 9 countries (Ethiopia, Angola, Libya, Uganda, Mozambique, Sudan, North Macedonia, Cuba, Moldova).**
 
 Searchable tags: Moldova, History expansion 2026-11-15, africa-after-1500/decolonisation-ghana-kenya-and-the-south
+
+## History expansion (2026-11-15) — Honduras stocked
+
+**Book 17 — Ciencias Sociales, Noveno Grado (STUDENT)**
+- Title as printed: Libro para Estudiantes, Ciencias Sociales — Noveno Grado de Educación Básica
+- Publisher: Secretaría de Educación de Honduras / UPNFM; Edición Preliminar 2020; source file LE-CCSS9-2020.pdf
+- PDF pages: 254 — Verdict: COMPLETE (read in full, page by page)
+- Tally: 18 placements — 12 existing, 6 NEW
+- Honduras's own way: Grade 9 closes the cycle with the world survey (lessons 20–29): the two rival periodisations (traditional ages vs Marx's historical materialism) taught side by side, the ancient civilisations' legacies, the medieval world, the three great revolutions, both world wars, decolonisation, the Cold War — with Honduras's own place noted inside it (bordering three civil-war states; a member of the 1991 Gulf coalition) — and the Gulf War taught as "immediate history", the first war broadcast live.
+- Non-History parts (named, not placed): Block 1 lessons 1–9 (vocation, life project, human rights generations — Civics); Block 2 lessons 10–19 (world geography tour: Europe, Asia, Africa, Oceania, global warming — Geography); Block 4 lessons 30–38 (organisations, economy and development — Civics/Economics).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — liberation movements and the neocolonial warning — story beats: Africa freed itself through organised anticolonial movements, above all the liberation struggles against Portugal in Angola, Mozambique, Guinea and Cape Verde — but the book warns political sovereignty arrived chained to economic and cultural dependence, "a new modality of colonialism" (History expansion, 2026-11-15; original placement slug: africa-after-1500/decolonisation-ghana-kenya-and-the-south) | Honduras, *Libro para Estudiantes, Ciencias Sociales — Noveno Grado de Educación Básica*, printed p. 164 |
+
+Honduras's own way (Book 17 — Ciencias Sociales, Noveno Grado (STUDENT)): Grade 9 closes the cycle with the world survey (lessons 20–29): the two rival periodisations (traditional ages vs Marx's historical materialism) taught side by side, the ancient civilisations' legacies, the medieval world, the three great revolutions, both world wars, decolonisation, the Cold War — with Honduras's own place noted inside it (bordering three civil-war states; a member of the 1991 Gulf coalition) — and the Gulf War taught as "immediate history", the first war broadcast live. That way is stocked here as the way Honduras teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 18 — Ciencias Sociales, Noveno Grado (TEACHER, 2020 edition)**
+This book is a teacher guide. The Honduras rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+- Title as printed: Guía para Docentes, Ciencias Sociales — Noveno Grado de Educación Básica
+- Publisher: Secretaría de Educación de Honduras / UPNFM; Edición Preliminar 2020; source file GD-CCSS9-2020.pdf
+- PDF pages: 166 — Verdict: COMPLETE (read in full, page by page)
+- Tally: 18 placements — 12 existing, 6 NEW
+- Honduras's own way: the guide mirrors the student book lesson-for-lesson (same 38 lessons, same world-history block 20–29, same two-periodisations approach), adding the teacher's framing, answer keys and project guidance.
+- Non-History parts (named, not placed): Block 1 lessons 1–9 (Civics); Block 2 lessons 10–19 (Geography); Block 4 lessons 30–38 (Civics/Economics) — same split as the student book.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — liberation movements and the neocolonial warning — story beats: the guide teaches the anti-Portuguese liberation movements and the dependence that outlived political independence (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: africa-after-1500/decolonisation-ghana-kenya-and-the-south) | Honduras, *Guía para Docentes, Ciencias Sociales — Noveno Grado de Educación Básica* (teacher guide — evidence), printed p. 164 |
+
+Honduras's own way (Book 18 — Ciencias Sociales, Noveno Grado (TEACHER, 2020 edition)): the guide mirrors the student book lesson-for-lesson (same 38 lessons, same world-history block 20–29, same two-periodisations approach), adding the teacher's framing, answer keys and project guidance. That way is stocked here as the way Honduras teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 19 — Ciencias Sociales, Noveno Grado (TEACHER, 2022 edition)**
+This book is a teacher guide. The Honduras rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+- Title as printed: Ciencias Sociales 9 — Guía para Docentes, Noveno grado, III Ciclo
+- Publisher: Secretaría de Educación de Honduras; 2022 edition (source file GD-CCSS9-2022.pdf)
+- PDF pages: 168 — Verdict: COMPLETE (parallel edition of Book 18: the 2020 guide was read in full; this 2022 re-issue was verified against it — identical 38-lesson index and titles, same student-book content embedded page-for-page with model answers, equivalent teacher notes; spot-checked visually across the history block because this PDF has NO text layer, its pages are images)
+- Tally: 18 placements — 12 existing, 6 NEW
+- Honduras's own way: the 2022 guide re-presents the same world-history block (lessons 20–29) in a new design, embedding the student workbook pages with blue model answers and a teacher note under each; its Lesson 20 opens the periodisation lesson from a 2010 article on the 2008 financial crisis, asking how that hecho histórico affected the world and Honduras.
+- Non-History parts (named, not placed): Block 1 lessons 1–9 (Civics); Block 2 lessons 10–19 (Geography); Block 4 lessons 30–38 (Civics/Economics) — same split as the 2020 edition.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — liberation movements and the neocolonial warning — story beats: the 2022 guide teaches the anti-Portuguese movements and post-independence dependence (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: africa-after-1500/decolonisation-ghana-kenya-and-the-south) | Honduras, *Ciencias Sociales 9 — Guía para Docentes, Noveno grado, III Ciclo* (teacher guide — evidence), printed p. 107 |
+
+Honduras's own way (Book 19 — Ciencias Sociales, Noveno Grado (TEACHER, 2022 edition)): the 2022 guide re-presents the same world-history block (lessons 20–29) in a new design, embedding the student workbook pages with blue model answers and a teacher note under each; its Lesson 20 opens the periodisation lesson from a 2010 article on the 2008 financial crisis, asking how that hecho histórico affected the world and Honduras. That way is stocked here as the way Honduras teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 10 countries (Ethiopia, Angola, Libya, Uganda, Mozambique, Sudan, North Macedonia, Cuba, Moldova, Honduras).**

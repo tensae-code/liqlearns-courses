@@ -1,6 +1,6 @@
 # Sources — The Renaissance — what it was
 
-countries: Ethiopia, Poland, Costa Rica, Australia, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Iran, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia, Mozambique, Sudan, Uzbekistan, North Macedonia, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua
+countries: Ethiopia, Poland, Costa Rica, Australia, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Iran, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia, Mozambique, Sudan, Uzbekistan, North Macedonia, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -745,3 +745,40 @@ Nicaragua's own way (Book 5 — G6 Estudios Sociales (student book, Spanish)): p
 Nicaragua's own way (Book 11 — G9 Estudios Sociales, full-year textbook (student book, Spanish)): Grade 9 splits the book in two — five Geography units on the continents (printed pp. 1-136), then a headed "Historia" half (Units VI-XI) that is pure world history: human evolution and first societies, the four river civilisations studied one by one under identical headings (geography, politics, society, economy, culture), Greece and Rome, the medieval world, the modern age, and contemporary society ending with ALBA and the GRUN's social achievements in Nicaragua. That way is stocked here as the way Nicaragua teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 27 countries (Ethiopia, Poland, Costa Rica, Australia, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Iran, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia, Mozambique, Sudan, Uzbekistan, North Macedonia, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua).**
+
+## History expansion (2026-11-15) — Honduras stocked
+
+**Book 11 — G6 student (student book, Spanish)**
+- Title as printed: Libro para Estudiantes, Ciencias Sociales, Sexto grado
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Secretaría de Estado en el Despacho de Educación de Honduras / UPNFM; year 2020 (Edición Preliminar 2020); ISBN no ISBN printed in front matter seen
+- PDF pages: 222 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 27 placements — 26 to existing lessons, 1 NEW LESSON NEEDED
+- Honduras's own way: Grade 6 is a world-history survey run on two rival periodisations at once — the traditional ages and the historical-materialist sequence (primitive community, slavery, feudalism, capitalism) — from prehistory and the river civilisations through Greece, Rome, feudalism and Arab culture to Renaissance, Enlightenment, French Revolution and the world wars; Honduras returns at the end as national identity and civic dates.
+- Non-History parts (named, not placed): Lessons 1–9 (values, gender equity, media, State norms, rights — Civics, printed pp. 10–54); Block 2 Lessons 10–19 (world geography, continents, population, resources, tourism — Geography, printed pp. 58–107); Lessons 28–29 (social inequality; science and technology in the 21st century — sociology, printed pp. 152–161); Lessons 31–34, 36–38 (international organisms, UN agencies, migration, population growth, climate change, Honduras's social problems — Civics/current affairs, printed pp. 171–210, except Lessons 30 and 35 placed below).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lección 26 La Edad Moderna: el Renacimiento — story beats: Italy puts the human back at the centre — humanism trusts observation and experience, printing spreads knowledge, and Michelangelo and Leonardo da Vinci remake art (History expansion, 2026-11-15; original placement slug: modern-world/the-renaissance-what-it-was) | Honduras, *Libro para Estudiantes, Ciencias Sociales, Sexto grado*, printed p. 142 |
+
+Honduras's own way (Book 11 — G6 student (student book, Spanish)): Grade 6 is a world-history survey run on two rival periodisations at once — the traditional ages and the historical-materialist sequence (primitive community, slavery, feudalism, capitalism) — from prehistory and the river civilisations through Greece, Rome, feudalism and Arab culture to Renaissance, Enlightenment, French Revolution and the world wars; Honduras returns at the end as national identity and civic dates. That way is stocked here as the way Honduras teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 12 — G6 teacher (teacher guide, Spanish)**
+This book is a teacher guide. The Honduras rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+- Title as printed: Guía para Docentes, Ciencias Sociales, Sexto grado
+- Grade: Grade 6 (student/teacher: TEACHER)
+- Publisher: Secretaría de Estado en el Despacho de Educación de Honduras / UPNFM; year 2020 (Edición Preliminar 2020); ISBN no ISBN printed in front matter seen
+- PDF pages: 166 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 27 placements — 26 to existing lessons, 1 NEW LESSON NEEDED
+- Honduras's own way: The guide mirrors the student survey; its signature task is the double timeline — pupils complete both the traditional and the materialist periodisation lines and state one difference between them, so periodisation itself is taught as an argument, not a fact.
+- Non-History parts (named, not placed): same Civics/Geography lessons as the student book (Lessons 1–19, 28–29, 31–34, 36–38).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lección 26: Renacimiento (guide) — story beats: humanism and the printing press are the guide's twin engines of the age (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: modern-world/the-renaissance-what-it-was) | Honduras, *Guía para Docentes, Ciencias Sociales, Sexto grado* (teacher guide — evidence), printed p. 107 |
+
+Honduras's own way (Book 12 — G6 teacher (teacher guide, Spanish)): The guide mirrors the student survey; its signature task is the double timeline — pupils complete both the traditional and the materialist periodisation lines and state one difference between them, so periodisation itself is taught as an argument, not a fact. That way is stocked here as the way Honduras teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 28 countries (Ethiopia, Poland, Costa Rica, Australia, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Iran, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia, Mozambique, Sudan, Uzbekistan, North Macedonia, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras).**

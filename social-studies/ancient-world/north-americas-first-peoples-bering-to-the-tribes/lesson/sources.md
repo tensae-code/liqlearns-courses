@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations in North America
 
-countries: Yemen, Cuba, Nicaragua
+countries: Yemen, Cuba, Nicaragua, Honduras
 
 **Book 8 — G10 History Part 1 (student book, Arabic)**
 - Title as printed: تاريخ — حضارات العالم القديم — للصف الأول الثانوي (History: Civilisations of the Ancient World, for the First Secondary Grade)
@@ -112,3 +112,69 @@ Nicaragua's own way (Book 7 — G7 Estudios Sociales, full-year textbook (studen
 Nicaragua's own way (Book 8 — G8 Estudios Sociales, full-year textbook (student book, Spanish)): the lens widens from Nicaragua to all the Americas — five Geography units on the continent's territory, landscape, peoples, economy and environment (printed pp. 1-124), then History as a single American story: first peoples and the three great civilisations, European arrival and colonial domination by three empires, emancipation, the troubled century after independence, and the Americas in the 20th century, always ending back in Nicaragua (Somoza, the FSLN, the 1979 triumph and the GRUN model). That way is stocked here as the way Nicaragua teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 3 countries (Yemen, Cuba, Nicaragua).**
+
+## History expansion (2026-11-15) — Honduras stocked
+
+**Book 9 — G5 student (student book, Spanish)**
+- Title as printed: Libro para Estudiantes, Ciencias Sociales, Quinto grado
+- Grade: Grade 5 (student/teacher: STUDENT)
+- Publisher: Secretaría de Estado en el Despacho de Educación de Honduras / UPNFM; year 2020 (Edición Preliminar 2020); ISBN no ISBN printed in front matter seen
+- PDF pages: 222 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 27 placements — 11 to existing lessons, 16 NEW LESSON NEEDED
+- Honduras's own way: Grade 5 scales to the Americas: History-as-science with Honduras's own historians, the peopling debate (Ameghino against Hrdlicka and Rivet), pre-Hispanic cultural stages, the three great civilisations plus all the others, three colonial empires side by side, the independence wave country by country, the continental Liberal Reform (Morazán named its first wave), the Cold War, the lost decade and neoliberal Honduras.
+- Non-History parts (named, not placed): Lessons 1–9 (life project, gender, media, democracy — Civics, printed pp. 10–54); Block 2 Lessons 10–19 (geography of America, population, resources, transport, tourism — Geography, printed pp. 58–107); Lessons 30, 32–34, 38 (social organisation, Latin American transformation, student government, social problems — Civics/sociology, printed pp. 166–210, except Lessons 31, 35, 36, 37 placed below).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lección 21 Primeros pobladores de América — story beats: three explanations compete — Ameghino's autochthonous Americans (rejected for lacking scientific base), Hrdlicka's single Bering crossing on the ice-age land bridge, Rivet's multiple origins adding an Oceanic sea route — for people who arrived some 50,000 years ago (History expansion, 2026-11-15; original placement slug: ancient-world/americas-first-peoples-peopling-theories) | Honduras, *Libro para Estudiantes, Ciencias Sociales, Quinto grado*, printed p. 117 |
+
+Honduras's own way (Book 9 — G5 student (student book, Spanish)): Grade 5 scales to the Americas: History-as-science with Honduras's own historians, the peopling debate (Ameghino against Hrdlicka and Rivet), pre-Hispanic cultural stages, the three great civilisations plus all the others, three colonial empires side by side, the independence wave country by country, the continental Liberal Reform (Morazán named its first wave), the Cold War, the lost decade and neoliberal Honduras. That way is stocked here as the way Honduras teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 10 — G5 teacher (teacher guide, Spanish)**
+This book is a teacher guide. The Honduras rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+- Title as printed: Guía para Docentes, Ciencias Sociales, Quinto grado
+- Grade: Grade 5 (student/teacher: TEACHER)
+- Publisher: Secretaría de Estado en el Despacho de Educación de Honduras / UPNFM; year 2020 (Edición Preliminar 2020); ISBN no ISBN printed in front matter seen
+- PDF pages: 166 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 27 placements — 11 to existing lessons, 16 NEW LESSON NEEDED
+- Honduras's own way: The guide mirrors the student book's 38 lessons; its distinctive moves are comparative — the three civilisations in one comparison chart, the three empires' social pyramids organised side by side, and every class sent to research a pre-Hispanic group of Honduras itself.
+- Non-History parts (named, not placed): same Civics/Geography lessons as the student book (Lessons 1–19, 30, 32–34, 38).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lección 21 Primeros pobladores (guide) — story beats: Ameghino, Hrdlicka and Rivet are matched to their theories in the workbook scheme (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: ancient-world/americas-first-peoples-peopling-theories) | Honduras, *Guía para Docentes, Ciencias Sociales, Quinto grado* (teacher guide — evidence), printed p. 85 |
+
+Honduras's own way (Book 10 — G5 teacher (teacher guide, Spanish)): The guide mirrors the student book's 38 lessons; its distinctive moves are comparative — the three civilisations in one comparison chart, the three empires' social pyramids organised side by side, and every class sent to research a pre-Hispanic group of Honduras itself. That way is stocked here as the way Honduras teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 15 — Ciencias Sociales, Octavo Grado (STUDENT)**
+- Title as printed: Libro para Estudiantes, Ciencias Sociales — Octavo Grado de Educación Básica
+- Publisher: Secretaría de Educación de Honduras / UPNFM; Edición Preliminar 2020; ISBN not printed in front matter; source file LE-CCSS8-2020.pdf
+- PDF pages: 254 — Verdict: COMPLETE (read in full, page by page)
+- Tally: 20 placements — 4 existing, 16 NEW
+- Honduras's own way: Grade 8 widens the lens to the whole continent: the history block (lessons 20–29) runs from how history itself is written (chronicle to the Annales school) through pre-Hispanic cultural areas, colonial government, the independence processes, the Central American Federation told in depth (annexation politics, the 1824 elections, Morazán's testament in full), the Liberal Reform across America — including why Honduras's stalled — to 20th-century border settlements, revolutions and the neoliberal turn.
+- Non-History parts (named, not placed): Block 1 lessons 1–9 (values, rule of law, State powers — Civics); Block 2 lessons 10–19 (geography of America, maps, resources, population, migration — Geography); Block 4 lessons 30–38 (society, economy and development of America — Civics/Economics).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — the named theorists compared — story beats: Ameghino's autochthonous claim from pampas bones faces Hrdlicka's single Asian origin via Bering (~12,000 BCE) and Paul Rivet's multiple origin — four routes including Antarctica (Méndez Correa) and the transoceanic Polynesian-Melanesian crossing (History expansion, 2026-11-15; original placement slug: ancient-world/americas-first-peoples-peopling-theories) | Honduras, *Libro para Estudiantes, Ciencias Sociales — Octavo Grado de Educación Básica*, printed p. 138 |
+
+Honduras's own way (Book 15 — Ciencias Sociales, Octavo Grado (STUDENT)): Grade 8 widens the lens to the whole continent: the history block (lessons 20–29) runs from how history itself is written (chronicle to the Annales school) through pre-Hispanic cultural areas, colonial government, the independence processes, the Central American Federation told in depth (annexation politics, the 1824 elections, Morazán's testament in full), the Liberal Reform across America — including why Honduras's stalled — to 20th-century border settlements, revolutions and the neoliberal turn. That way is stocked here as the way Honduras teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 16 — Ciencias Sociales, Octavo Grado (TEACHER)**
+This book is a teacher guide. The Honduras rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+- Title as printed: Guía para Docentes, Ciencias Sociales — Octavo Grado de Educación Básica
+- Publisher: Secretaría de Educación de Honduras / UPNFM; Edición Preliminar 2020; source file GD-CCSS8-2020.pdf
+- PDF pages: 166 — Verdict: COMPLETE (read in full, page by page)
+- Tally: 20 placements — 4 existing, 16 NEW
+- Honduras's own way: the guide mirrors the student book lesson-for-lesson (same 38 lessons, same Americas history block 20–29), adding the teacher's framing, answer keys and project guidance for the same continental narrative.
+- Non-History parts (named, not placed): Block 1 lessons 1–9 (Civics); Block 2 lessons 10–19 (Geography); Block 4 lessons 30–38 (Civics/Economics) — same split as the student book.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — the named theorists compared — story beats: the guide's key compares Ameghino, Hrdlicka's Bering route and Rivet's four-route multiple origin (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: ancient-world/americas-first-peoples-peopling-theories) | Honduras, *Guía para Docentes, Ciencias Sociales — Octavo Grado de Educación Básica* (teacher guide — evidence), printed p. 138 |
+
+Honduras's own way (Book 16 — Ciencias Sociales, Octavo Grado (TEACHER)): the guide mirrors the student book lesson-for-lesson (same 38 lessons, same Americas history block 20–29), adding the teacher's framing, answer keys and project guidance for the same continental narrative. That way is stocked here as the way Honduras teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 4 countries (Yemen, Cuba, Nicaragua, Honduras).**

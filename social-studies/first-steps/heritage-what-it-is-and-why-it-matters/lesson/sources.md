@@ -1,6 +1,6 @@
 # Sources — Heritage — what it is and why it matters
 
-countries: Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivia, Zimbabwe, Eritrea, Cambodia, Fiji, Slovenia, Syria, Mauritania, Jordan, Bhutan, Cuba, Greece, Nauru, Niue, Tuvalu, Saudi Arabia, Rwanda, Poland, Guatemala, Australia, Bahamas, Nepal, Belarus, Dominican Republic, Egypt, Pakistan, Iran, Suriname, Palestine, Colombia, South Sudan, Samoa, Yemen, North Macedonia, Laos, China, Venezuela, Moldova, Nicaragua
+countries: Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivia, Zimbabwe, Eritrea, Cambodia, Fiji, Slovenia, Syria, Mauritania, Jordan, Bhutan, Cuba, Greece, Nauru, Niue, Tuvalu, Saudi Arabia, Rwanda, Poland, Guatemala, Australia, Bahamas, Nepal, Belarus, Dominican Republic, Egypt, Pakistan, Iran, Suriname, Palestine, Colombia, South Sudan, Samoa, Yemen, North Macedonia, Laos, China, Venezuela, Moldova, Nicaragua, Honduras
 
 **Book 1:** *History, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, Addis Ababa, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-064-2, 210 printed pp. Printed page = PDF page − 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g09-student-placements.md
 
@@ -1836,3 +1836,260 @@ Nicaragua's own way (Book 7 — G7 Estudios Sociales, full-year textbook (studen
 Nicaragua's own way (Book 11 — G9 Estudios Sociales, full-year textbook (student book, Spanish)): Grade 9 splits the book in two — five Geography units on the continents (printed pp. 1-136), then a headed "Historia" half (Units VI-XI) that is pure world history: human evolution and first societies, the four river civilisations studied one by one under identical headings (geography, politics, society, economy, culture), Greece and Rome, the medieval world, the modern age, and contemporary society ending with ALBA and the GRUN's social achievements in Nicaragua. That way is stocked here as the way Nicaragua teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 44 countries (Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivia, Zimbabwe, Eritrea, Cambodia, Fiji, Slovenia, Syria, Mauritania, Jordan, Bhutan, Cuba, Greece, Nauru, Niue, Tuvalu, Saudi Arabia, Rwanda, Poland, Guatemala, Australia, Bahamas, Nepal, Belarus, Dominican Republic, Egypt, Pakistan, Iran, Suriname, Palestine, Colombia, South Sudan, Samoa, Yemen, North Macedonia, Laos, China, Venezuela, Moldova, Nicaragua).**
+
+## History expansion (2026-11-15) — Honduras stocked
+
+**Book 1 — G1 student (student book, Spanish)**
+- Title as printed: Libro para Estudiantes, Ciencias Sociales, Primer grado
+- Grade: Grade 1 (student/teacher: STUDENT)
+- Publisher: Secretaría de Estado en el Despacho de Educación de Honduras / UPNFM; year 2020 (Edición Preliminar, abril 2020); ISBN 978-99979-59-14-0 (barcode on imprint page)
+- PDF pages: 182 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 13 placements — 8 to existing lessons, 5 NEW LESSON NEEDED
+- Honduras's own way: History starts from the child's own time, family and community — yesterday/today/tomorrow, a family tree, the founding date of your own town — and the nation enters through its symbols, its anthem (which itself narrates the national story) and one hero, Francisco Morazán; every lesson follows the same four moments (¡A recordar! / Sabías que / Sembrar y cosechar / El valor de lo que sé) with mascot Kinich, the scarlet macaw.
+- Non-History parts (named, not placed): Block 1 La persona y su ser social, Lessons 1–7 (feelings, aspirations, coexistence, rights and duties — Civics/personal, printed pp. 10–37); Block 2 Las sociedades y los espacios geográficos, Lessons 10–19 (space, orientation, work, nature, public services, transport — Geography, printed pp. 50–93); Lesson 24 Esto sucede en la comunidad (community authorities and elections — Civics, printed pp. 110–113); Block 4 Las sociedades organizadas, Lessons 30–38 (family roles, school behaviour and authorities — Civics, printed pp. 138–179).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lección 25: Formas en que el pasado se manifiesta — story beats: the past survives in the present as people read about heroes, practise traditions, visit Copán and museums, and guard places like Fuerte San Cristóbal at Gracias, where President Juan Lindo lies buried (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Honduras, *Libro para Estudiantes, Ciencias Sociales, Primer grado*, printed p. 115 |
+| Honduras part — Lección 29 Costumbres y tradiciones — story beats: Comayagua's sawdust carpets at Holy Week, sopa de caracol, colaciones and folk songs are what the society is; the song Conozca a Honduras asks where the Ruins of Copán and Morazán's cradle are (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Honduras, *Libro para Estudiantes, Ciencias Sociales, Primer grado*, printed p. 130 |
+
+Honduras's own way (Book 1 — G1 student (student book, Spanish)): History starts from the child's own time, family and community — yesterday/today/tomorrow, a family tree, the founding date of your own town — and the nation enters through its symbols, its anthem (which itself narrates the national story) and one hero, Francisco Morazán; every lesson follows the same four moments (¡A recordar! / Sabías que / Sembrar y cosechar / El valor de lo que sé) with mascot Kinich, the scarlet macaw. That way is stocked here as the way Honduras teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 2 — G1 teacher (teacher guide, Spanish)**
+This book is a teacher guide. The Honduras rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+- Title as printed: Guía para Docentes, Ciencias Sociales, Primer grado
+- Grade: Grade 1 (student/teacher: TEACHER)
+- Publisher: Secretaría de Estado en el Despacho de Educación de Honduras / UPNFM; year 2020 (Edición preliminar, abril 2020); ISBN 978-99979-59-15-7 (barcode on imprint page)
+- PDF pages: 166 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 13 placements — 8 to existing lessons, 5 NEW LESSON NEEDED
+- Honduras's own way: The guide mirrors the student book lesson for lesson (same 38 lessons, same four moments) and adds the teaching moves: elders are brought in as living sources, children interview parents and grandparents, and each History lesson ends in a made thing — a family tree, a recycled-material monument, a mural.
+- Non-History parts (named, not placed): same Civics/Geography lessons as the student book (Lessons 1–7, 10–19, 24, 30–38) plus Anexo: Normas de Convivencia en nuestra Aula, a classroom-coexistence story (Civics).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lección 25: el pasado en el presente (guide) — story beats: traditions still kept, the Festival de las Flores at Siguatepeque and the Guancasco ceremonies at Gracias show the past alive in present practice (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Honduras, *Guía para Docentes, Ciencias Sociales, Primer grado* (teacher guide — evidence), printed p. 103 |
+| Honduras part — Lección 29 Costumbres y tradiciones (guide) — story beats: typical foods, dances and religious feasts, regional and national, are collected as the manifestations of what Honduran society is (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Honduras, *Guía para Docentes, Ciencias Sociales, Primer grado* (teacher guide — evidence), printed p. 119 |
+
+Honduras's own way (Book 2 — G1 teacher (teacher guide, Spanish)): The guide mirrors the student book lesson for lesson (same 38 lessons, same four moments) and adds the teaching moves: elders are brought in as living sources, children interview parents and grandparents, and each History lesson ends in a made thing — a family tree, a recycled-material monument, a mural. That way is stocked here as the way Honduras teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 3 — G2 student (student book, Spanish)**
+- Title as printed: Libro para Estudiantes, Ciencias Sociales, Segundo grado
+- Grade: Grade 2 (student/teacher: STUDENT)
+- Publisher: Secretaría de Estado en el Despacho de Educación de Honduras / UPNFM; year 2020 (Edición Preliminar, abril 2020); ISBN no ISBN printed in front matter seen (imprint page carries no ISBN)
+- PDF pages: 182 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 24 placements — 15 to existing lessons, 9 NEW LESSON NEEDED
+- Honduras's own way: Grade 2 gives History its own block, Las sociedades y el tiempo social: what History is, its sources (archaeological, written, oral), then the child's municipality and department through time — first peoples and the Maya of Copán, the making of the 18 departments, fortresses, monuments and tangible/intangible heritage, much of it learned by interviewing elders and dramatising local events.
+- Non-History parts (named, not placed): Lessons 1–3, 5–7 (living in harmony, rights, democracy — Civics, printed pp. 10–37); Block 2 Lessons 10–15, 17–19 (maps, relief, economic activities, services, transport — Geography, printed pp. 50–93, except Lesson 16 placed below); Lessons 30–32, 34–35 (municipal norms, authorities, local development — Civics, printed pp. 138–161, except the historical opening of Lesson 33 placed below).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lección 8 Nuestras costumbres y tradiciones — story beats: traditions pass from generation to generation — patronal fairs, the Baile de los Diablitos, typical foods — and oral transmission is named living history to be guarded jealously (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Honduras, *Libro para Estudiantes, Ciencias Sociales, Segundo grado*, printed p. 38 |
+| Honduras part — Lección 22: los escudos cuentan historia — story beats: coats of arms, old or new, are full of history; Honduras's shield, conceived in 1840, speaks of natural wealth, liberty and sovereignty, and children design a shield for their own family or town (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Honduras, *Libro para Estudiantes, Ciencias Sociales, Segundo grado*, printed p. 105 |
+| Honduras part — Lección 23 Raíces culturales — story beats: the fortresses of San Cristóbal (Gracias) and San Fernando (Omoa) were raised for defence against an enemy; around them live legends, fairs and traditions that are the legacy of the past to conserve (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Honduras, *Libro para Estudiantes, Ciencias Sociales, Segundo grado*, printed p. 106 |
+| Honduras part — Lección 27 El aporte cultural — story beats: crafts handed down for centuries, the Baile de los Diablitos danced in Comayagua for over 370 years, and the Guancasco pact-feast between Ilama, Gualala and Chinda are intangible heritage carried by oral tradition (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Honduras, *Libro para Estudiantes, Ciencias Sociales, Segundo grado*, printed p. 122 |
+| Honduras part — Lección 28 El valor de nuestros monumentos — story beats: before-and-after photographs of the National Post Office open the idea of tangible heritage — fortresses, historic centres, the Talgua Caves, Copán — against intangible heritage of customs, dances, foods and legends (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Honduras, *Libro para Estudiantes, Ciencias Sociales, Segundo grado*, printed p. 126 |
+| Honduras part — Lección 29 Participo y construyo identidad — story beats: elders transmit intangible heritage by example and story; Lempira's death is commemorated every 20 July, and oral tradition is defined as culture passed verbally from generation to generation (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Honduras, *Libro para Estudiantes, Ciencias Sociales, Segundo grado*, printed p. 130 |
+| Honduras part — Lección 38 Diversidad del patrimonio — story beats: Honduras's historical patrimony is the fruit of pre-Hispanic Indigenous heritage and the republican era together; old buildings are faithful witnesses — if they vanish, the memory of who we are vanishes with them (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Honduras, *Libro para Estudiantes, Ciencias Sociales, Segundo grado*, printed p. 170 |
+
+Honduras's own way (Book 3 — G2 student (student book, Spanish)): Grade 2 gives History its own block, Las sociedades y el tiempo social: what History is, its sources (archaeological, written, oral), then the child's municipality and department through time — first peoples and the Maya of Copán, the making of the 18 departments, fortresses, monuments and tangible/intangible heritage, much of it learned by interviewing elders and dramatising local events. That way is stocked here as the way Honduras teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 4 — G2 teacher (teacher guide, Spanish)**
+This book is a teacher guide. The Honduras rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+- Title as printed: Guía para Docentes, Ciencias Sociales, Segundo grado
+- Grade: Grade 2 (student/teacher: TEACHER)
+- Publisher: Secretaría de Estado en el Despacho de Educación de Honduras / UPNFM; year 2020 (Edición Preliminar, abril 2020); ISBN no ISBN printed in front matter seen
+- PDF pages: 166 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 24 placements — 15 to existing lessons, 9 NEW LESSON NEEDED
+- Honduras's own way: The guide mirrors the student book's 38 lessons and adds the method: children narrate a remembered event aloud and in drawing, music and theatre; elders are interviewed as oral sources; local history is dramatised in three theatre groups.
+- Non-History parts (named, not placed): same Civics/Geography lessons as the student book (Lessons 1–3, 5–7, 10–15, 17–19, 30–32, 34–35).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lección 8 Nuestras costumbres y tradiciones (guide) — story beats: traditions are taught as practices transmitted generation to generation, with a community celebration planned by the class itself (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Honduras, *Guía para Docentes, Ciencias Sociales, Segundo grado* (teacher guide — evidence), printed p. 35 |
+| Honduras part — Lección 22: escudos (guide) — story beats: municipal shields are decoded for the values and events they express, then each team designs its own (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Honduras, *Guía para Docentes, Ciencias Sociales, Segundo grado* (teacher guide — evidence), printed p. 91 |
+| Honduras part — Lección 23 Raíces culturales (guide) — story beats: fortresses, legends tied to real or imagined persons, and patronal fairs are gathered as the municipality's cultural roots (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Honduras, *Guía para Docentes, Ciencias Sociales, Segundo grado* (teacher guide — evidence), printed p. 95 |
+| Honduras part — Lección 27 El aporte cultural (guide) — story beats: a legend is read aloud by the teacher and the heritage-protection law's articles are summarised by the class (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Honduras, *Guía para Docentes, Ciencias Sociales, Segundo grado* (teacher guide — evidence), printed p. 111 |
+| Honduras part — Lección 28 El valor de nuestros monumentos (guide) — story beats: monuments before and now — children explain why each was conserved and what it represents to those who live around it (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Honduras, *Guía para Docentes, Ciencias Sociales, Segundo grado* (teacher guide — evidence), printed p. 115 |
+| Honduras part — Lección 29 Participo y construyo identidad (guide) — story beats: grandparents tell their stories and teach their songs; the class copies the song, poem or legend that represents its culture (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Honduras, *Guía para Docentes, Ciencias Sociales, Segundo grado* (teacher guide — evidence), printed p. 119 |
+| Honduras part — Lección 38 Diversidad del patrimonio (guide) — story beats: Comayagua's historic centre — cathedral, plaza, colonial houses — is the case study of patrimony accumulated over time (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Honduras, *Guía para Docentes, Ciencias Sociales, Segundo grado* (teacher guide — evidence), printed p. 155 |
+
+Honduras's own way (Book 4 — G2 teacher (teacher guide, Spanish)): The guide mirrors the student book's 38 lessons and adds the method: children narrate a remembered event aloud and in drawing, music and theatre; elders are interviewed as oral sources; local history is dramatised in three theatre groups. That way is stocked here as the way Honduras teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 5 — G3 student (student book, Spanish)**
+- Title as printed: Libro para Estudiantes, Ciencias Sociales, Tercer grado
+- Grade: Grade 3 (student/teacher: STUDENT)
+- Publisher: Secretaría de Estado en el Despacho de Educación de Honduras / UPNFM; year 2020 (Edición Preliminar, abril 2020); ISBN no ISBN printed in front matter seen
+- PDF pages: 182 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 23 placements — 5 to existing lessons, 18 NEW LESSON NEEDED
+- Honduras's own way: Grade 3 is the first full national-history survey, organised in the book's own three periods — prehispánico, colonial, independiente — running Copán and the pre-Hispanic peoples, discovery and the naming of Honduras, conquest, colonial classes and mestizaje, independence, Morazán and the Federation, the Liberal Reform and foreign enclaves, and the democratic era to the 2009 crisis; each figure is taught by one deed (Valle wrote the Acta, Herrera decreed the first constitution, Reyes founded the university).
+- Non-History parts (named, not placed): Lessons 1–7 (feelings, decisions, rights — Civics, printed pp. 10–37); Block 2 Lessons 10–19 (Earth, orientation, political organisation, population, occupations, natural wealth, services, transport — Geography, printed pp. 50–93); Lessons 30–32, 34–38 (authorities, laws, social classes, economic activities, trade — Civics/economics, printed pp. 138–179, except Lesson 33 placed below).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lección 8 El orgullo de ser hondureño y hondureña — story beats: Froylán Turcios's Prayer of the Honduran opens a lesson on culture's elements — customs, beliefs, values, language, dress, crafts — kept alive in patronal feasts, Comayagua's sawdust carpets and the Guancasco (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Honduras, *Libro para Estudiantes, Ciencias Sociales, Tercer grado*, printed p. 38 |
+| Honduras part — Lección 33: patrimonio cultural hondureño — story beats: heritage is what the peoples have been, are and will be — Maya temples, the Hieroglyphic Stairway, Comayagua's Holy Week carpets — an inheritance passed generation to generation that all must preserve and know (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Honduras, *Libro para Estudiantes, Ciencias Sociales, Tercer grado*, printed p. 152 |
+
+Honduras's own way (Book 5 — G3 student (student book, Spanish)): Grade 3 is the first full national-history survey, organised in the book's own three periods — prehispánico, colonial, independiente — running Copán and the pre-Hispanic peoples, discovery and the naming of Honduras, conquest, colonial classes and mestizaje, independence, Morazán and the Federation, the Liberal Reform and foreign enclaves, and the democratic era to the 2009 crisis; each figure is taught by one deed (Valle wrote the Acta, Herrera decreed the first constitution, Reyes founded the university). That way is stocked here as the way Honduras teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 6 — G3 teacher (teacher guide, Spanish)**
+This book is a teacher guide. The Honduras rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+- Title as printed: Guía para Docentes, Ciencias Sociales, Tercer grado
+- Grade: Grade 3 (student/teacher: TEACHER)
+- Publisher: Secretaría de Estado en el Despacho de Educación de Honduras / UPNFM; year 2020 (Edición Preliminar, abril 2020); ISBN no ISBN printed in front matter seen
+- PDF pages: 166 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 23 placements — 5 to existing lessons, 18 NEW LESSON NEEDED
+- Honduras's own way: The guide mirrors the student survey lesson for lesson and frames the teaching: the national story is built from the local one (Comayagua's founding opens the periods lesson), figures are fixed by their single defining deed, and children are sent to research the pre-Hispanic group nearest their own locality for an album.
+- Non-History parts (named, not placed): same Civics/Geography lessons as the student book (Lessons 1–7, 10–19, 30–32, 34–38) plus a rivers-of-Honduras map annex (Geography).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lección 8 El orgullo de ser hondureño (guide) — story beats: Turcios's prayer is read aloud and culture's elements are sorted by the class into customs, traditions, beliefs and feasts (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Honduras, *Guía para Docentes, Ciencias Sociales, Tercer grado* (teacher guide — evidence), printed p. 35 |
+| Honduras part — Lección 33: patrimonio (guide) — story beats: heritage is defined as the inheritance travelling from past generations to future ones, temples and carpets alike (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Honduras, *Guía para Docentes, Ciencias Sociales, Tercer grado* (teacher guide — evidence), printed p. 135 |
+
+Honduras's own way (Book 6 — G3 teacher (teacher guide, Spanish)): The guide mirrors the student survey lesson for lesson and frames the teaching: the national story is built from the local one (Comayagua's founding opens the periods lesson), figures are fixed by their single defining deed, and children are sent to research the pre-Hispanic group nearest their own locality for an album. That way is stocked here as the way Honduras teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 7 — G4 student (student book, Spanish)**
+- Title as printed: Libro para Estudiantes, Ciencias Sociales, Cuarto grado
+- Grade: Grade 4 (student/teacher: STUDENT)
+- Publisher: Secretaría de Estado en el Despacho de Educación de Honduras / UPNFM; year 2020 (Edición Preliminar 2020); ISBN no ISBN printed in front matter seen
+- PDF pages: 222 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 26 placements — 10 to existing lessons, 16 NEW LESSON NEEDED
+- Honduras's own way: Grade 4 widens the lens from Honduras to Central America as one historical region — the "patria grande": method first (what History is, Herodotus, source typologies, auxiliary sciences, periodisation), then pre-Hispanic cultures, discovery, a conquest made hard by many unconquered peoples, colonisation, independence and Federation, dictatorship, civil war and the Esquipulas peace — integration (SICA, PARLACEN) is taught as Morazán's unfinished dream.
+- Non-History parts (named, not placed): Lessons 1–9 (rights, media, political system — Civics, printed pp. 10–54); Block 2 Lessons 10–13, 16–19 (planet, coordinates, natural wealth, trade, tourism — Geography, printed pp. 58–107, except Lessons 14–15 placed below); Lessons 31, 33–34, 37–38 (organisations, population, economic activities, capitalism and globalisation — Civics/economics, printed pp. 171–210, except Lessons 30, 32, 35, 36 placed below); Annexes 1–4 (maps of Central America, national symbols, roads, volcanoes — Geography reference).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lección 21: patrimonio y lugares de la memoria — story beats: material heritage (San Fernando de Omoa) and immaterial heritage (oral traditions, rituals, crafts) pass from generation to generation; museums, archives and newspaper libraries — and mining San Juancito and port Amapala — keep a society's memory (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Honduras, *Libro para Estudiantes, Ciencias Sociales, Cuarto grado*, printed p. 120 |
+| Honduras part — Lección 35 Legado cultural de los pueblos indígenas — story beats: most Central Americans are mestizo or Indigenous in origin, and the region's foods, myths, legends, customs and dress descend from the peoples who held the land in pre-Hispanic times (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Honduras, *Libro para Estudiantes, Ciencias Sociales, Cuarto grado*, printed p. 191 |
+| Honduras part — Lección 36 Nuestras tradiciones — story beats: humanity leaves its mark from cave engravings to books, but oral tradition — the headless horseman, the cart, la sucia, the duende — is the commonest carrier; every community has its storytellers (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Honduras, *Libro para Estudiantes, Ciencias Sociales, Cuarto grado*, printed p. 196 |
+
+Honduras's own way (Book 7 — G4 student (student book, Spanish)): Grade 4 widens the lens from Honduras to Central America as one historical region — the "patria grande": method first (what History is, Herodotus, source typologies, auxiliary sciences, periodisation), then pre-Hispanic cultures, discovery, a conquest made hard by many unconquered peoples, colonisation, independence and Federation, dictatorship, civil war and the Esquipulas peace — integration (SICA, PARLACEN) is taught as Morazán's unfinished dream. That way is stocked here as the way Honduras teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 8 — G4 teacher (teacher guide, Spanish)**
+This book is a teacher guide. The Honduras rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+- Title as printed: Guía para Docentes, Ciencias Sociales, Cuarto grado
+- Grade: Grade 4 (student/teacher: TEACHER)
+- Publisher: Secretaría de Estado en el Despacho de Educación de Honduras / UPNFM; year 2020 (Edición Preliminar 2020); ISBN no ISBN printed in front matter seen
+- PDF pages: 166 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 26 placements — 10 to existing lessons, 16 NEW LESSON NEEDED
+- Honduras's own way: The guide mirrors the student book's 38 lessons in condensed form; its history teaching is source-first — children classify sources, work a legend as a source, and close the Central America block by building the regional timeline themselves.
+- Non-History parts (named, not placed): same Civics/Geography lessons as the student book (Lessons 1–13, 16–19, 31, 33–34, 37–38).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lección 21: patrimonio (guide) — story beats: pupils write a community legend into the workbook as intangible heritage and explain why Copán is world heritage (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Honduras, *Guía para Docentes, Ciencias Sociales, Cuarto grado* (teacher guide — evidence), printed p. 87 |
+| Honduras part — Lección 35 Legado indígena (guide) — story beats: Indigenous dress, food and story are collected as the living legacy of pre-Hispanic peoples (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Honduras, *Guía para Docentes, Ciencias Sociales, Cuarto grado* (teacher guide — evidence), printed p. 143 |
+| Honduras part — Lección 36 Nuestras tradiciones (guide) — story beats: the community's storytellers are named and its legends written down as oral tradition (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Honduras, *Guía para Docentes, Ciencias Sociales, Cuarto grado* (teacher guide — evidence), printed p. 147 |
+
+Honduras's own way (Book 8 — G4 teacher (teacher guide, Spanish)): The guide mirrors the student book's 38 lessons in condensed form; its history teaching is source-first — children classify sources, work a legend as a source, and close the Central America block by building the regional timeline themselves. That way is stocked here as the way Honduras teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 9 — G5 student (student book, Spanish)**
+- Title as printed: Libro para Estudiantes, Ciencias Sociales, Quinto grado
+- Grade: Grade 5 (student/teacher: STUDENT)
+- Publisher: Secretaría de Estado en el Despacho de Educación de Honduras / UPNFM; year 2020 (Edición Preliminar 2020); ISBN no ISBN printed in front matter seen
+- PDF pages: 222 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 27 placements — 11 to existing lessons, 16 NEW LESSON NEEDED
+- Honduras's own way: Grade 5 scales to the Americas: History-as-science with Honduras's own historians, the peopling debate (Ameghino against Hrdlicka and Rivet), pre-Hispanic cultural stages, the three great civilisations plus all the others, three colonial empires side by side, the independence wave country by country, the continental Liberal Reform (Morazán named its first wave), the Cold War, the lost decade and neoliberal Honduras.
+- Non-History parts (named, not placed): Lessons 1–9 (life project, gender, media, democracy — Civics, printed pp. 10–54); Block 2 Lessons 10–19 (geography of America, population, resources, transport, tourism — Geography, printed pp. 58–107); Lessons 30, 32–34, 38 (social organisation, Latin American transformation, student government, social problems — Civics/sociology, printed pp. 166–210, except Lessons 31, 35, 36, 37 placed below).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lección 22: lo prehispánico que prevalece — story beats: maize survives the millennia onto today's table as tortilla, atol and tamales, and pupils hunt the pre-Hispanic buildings, traditions, dress, foods and words still alive in Honduras (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Honduras, *Libro para Estudiantes, Ciencias Sociales, Quinto grado*, printed p. 125 |
+| Honduras part — Lección 35 Características culturales de América — story beats: Anglo-Saxon against Latin American culture, and the American Capital of Culture award (Valdivia 2016) as a device for knowing each city's patrimony (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Honduras, *Libro para Estudiantes, Ciencias Sociales, Quinto grado*, printed p. 191 |
+| Honduras part — Lección 37 Manifestaciones culturales — story beats: every society builds a general culture from subcultures distinguished by features, language, dress, foods, beliefs and organisation — pupils draw one manifestation of their own community (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Honduras, *Libro para Estudiantes, Ciencias Sociales, Quinto grado*, printed p. 201 |
+
+Honduras's own way (Book 9 — G5 student (student book, Spanish)): Grade 5 scales to the Americas: History-as-science with Honduras's own historians, the peopling debate (Ameghino against Hrdlicka and Rivet), pre-Hispanic cultural stages, the three great civilisations plus all the others, three colonial empires side by side, the independence wave country by country, the continental Liberal Reform (Morazán named its first wave), the Cold War, the lost decade and neoliberal Honduras. That way is stocked here as the way Honduras teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 10 — G5 teacher (teacher guide, Spanish)**
+This book is a teacher guide. The Honduras rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+- Title as printed: Guía para Docentes, Ciencias Sociales, Quinto grado
+- Grade: Grade 5 (student/teacher: TEACHER)
+- Publisher: Secretaría de Estado en el Despacho de Educación de Honduras / UPNFM; year 2020 (Edición Preliminar 2020); ISBN no ISBN printed in front matter seen
+- PDF pages: 166 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 27 placements — 11 to existing lessons, 16 NEW LESSON NEEDED
+- Honduras's own way: The guide mirrors the student book's 38 lessons; its distinctive moves are comparative — the three civilisations in one comparison chart, the three empires' social pyramids organised side by side, and every class sent to research a pre-Hispanic group of Honduras itself.
+- Non-History parts (named, not placed): same Civics/Geography lessons as the student book (Lessons 1–19, 30, 32–34, 38).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lección 22: prevalencias (guide) — story beats: pre-Hispanic survivals in Honduran building, dress, food and language are the lesson's research question (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Honduras, *Guía para Docentes, Ciencias Sociales, Quinto grado* (teacher guide — evidence), printed p. 89 |
+| Honduras part — Lección 35 Características culturales (guide) — story beats: American capitals of culture frame the continent's varied expressions (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Honduras, *Guía para Docentes, Ciencias Sociales, Quinto grado* (teacher guide — evidence), printed p. 143 |
+| Honduras part — Lección 37 Manifestaciones culturales (guide) — story beats: one community manifestation is drawn and explained as the class's culture sample (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Honduras, *Guía para Docentes, Ciencias Sociales, Quinto grado* (teacher guide — evidence), printed p. 151 |
+
+Honduras's own way (Book 10 — G5 teacher (teacher guide, Spanish)): The guide mirrors the student book's 38 lessons; its distinctive moves are comparative — the three civilisations in one comparison chart, the three empires' social pyramids organised side by side, and every class sent to research a pre-Hispanic group of Honduras itself. That way is stocked here as the way Honduras teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 11 — G6 student (student book, Spanish)**
+- Title as printed: Libro para Estudiantes, Ciencias Sociales, Sexto grado
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Secretaría de Estado en el Despacho de Educación de Honduras / UPNFM; year 2020 (Edición Preliminar 2020); ISBN no ISBN printed in front matter seen
+- PDF pages: 222 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 27 placements — 26 to existing lessons, 1 NEW LESSON NEEDED
+- Honduras's own way: Grade 6 is a world-history survey run on two rival periodisations at once — the traditional ages and the historical-materialist sequence (primitive community, slavery, feudalism, capitalism) — from prehistory and the river civilisations through Greece, Rome, feudalism and Arab culture to Renaissance, Enlightenment, French Revolution and the world wars; Honduras returns at the end as national identity and civic dates.
+- Non-History parts (named, not placed): Lessons 1–9 (values, gender equity, media, State norms, rights — Civics, printed pp. 10–54); Block 2 Lessons 10–19 (world geography, continents, population, resources, tourism — Geography, printed pp. 58–107); Lessons 28–29 (social inequality; science and technology in the 21st century — sociology, printed pp. 152–161); Lessons 31–34, 36–38 (international organisms, UN agencies, migration, population growth, climate change, Honduras's social problems — Civics/current affairs, printed pp. 171–210, except Lessons 30 and 35 placed below).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lección 30: costumbres y tradiciones — story beats: patronal fairs with folk dances, palo encebado, toro fuego and ribbon races, horchata, chicha and atol de elote are customs transmitted generation to generation, orally or in writing (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Honduras, *Libro para Estudiantes, Ciencias Sociales, Sexto grado*, printed p. 167 |
+| Honduras part — Lección 35 Diversidad de culturas en el mundo — story beats: the world's cultures are surveyed as one diverse human patrimony of arts, languages, beliefs and ways of life (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Honduras, *Libro para Estudiantes, Ciencias Sociales, Sexto grado*, printed p. 191 |
+
+Honduras's own way (Book 11 — G6 student (student book, Spanish)): Grade 6 is a world-history survey run on two rival periodisations at once — the traditional ages and the historical-materialist sequence (primitive community, slavery, feudalism, capitalism) — from prehistory and the river civilisations through Greece, Rome, feudalism and Arab culture to Renaissance, Enlightenment, French Revolution and the world wars; Honduras returns at the end as national identity and civic dates. That way is stocked here as the way Honduras teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 12 — G6 teacher (teacher guide, Spanish)**
+This book is a teacher guide. The Honduras rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+- Title as printed: Guía para Docentes, Ciencias Sociales, Sexto grado
+- Grade: Grade 6 (student/teacher: TEACHER)
+- Publisher: Secretaría de Estado en el Despacho de Educación de Honduras / UPNFM; year 2020 (Edición Preliminar 2020); ISBN no ISBN printed in front matter seen
+- PDF pages: 166 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 27 placements — 26 to existing lessons, 1 NEW LESSON NEEDED
+- Honduras's own way: The guide mirrors the student survey; its signature task is the double timeline — pupils complete both the traditional and the materialist periodisation lines and state one difference between them, so periodisation itself is taught as an argument, not a fact.
+- Non-History parts (named, not placed): same Civics/Geography lessons as the student book (Lessons 1–19, 28–29, 31–34, 36–38).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lección 30: costumbres (guide) — story beats: patronal-fair customs are collected as identity's living material (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Honduras, *Guía para Docentes, Ciencias Sociales, Sexto grado* (teacher guide — evidence), printed p. 123 |
+| Honduras part — Lección 35 Diversidad de culturas (guide) — story beats: world cultural diversity is presented as shared human wealth (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Honduras, *Guía para Docentes, Ciencias Sociales, Sexto grado* (teacher guide — evidence), printed p. 143 |
+
+Honduras's own way (Book 12 — G6 teacher (teacher guide, Spanish)): The guide mirrors the student survey; its signature task is the double timeline — pupils complete both the traditional and the materialist periodisation lines and state one difference between them, so periodisation itself is taught as an argument, not a fact. That way is stocked here as the way Honduras teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 15 — Ciencias Sociales, Octavo Grado (STUDENT)**
+- Title as printed: Libro para Estudiantes, Ciencias Sociales — Octavo Grado de Educación Básica
+- Publisher: Secretaría de Educación de Honduras / UPNFM; Edición Preliminar 2020; ISBN not printed in front matter; source file LE-CCSS8-2020.pdf
+- PDF pages: 254 — Verdict: COMPLETE (read in full, page by page)
+- Tally: 20 placements — 4 existing, 16 NEW
+- Honduras's own way: Grade 8 widens the lens to the whole continent: the history block (lessons 20–29) runs from how history itself is written (chronicle to the Annales school) through pre-Hispanic cultural areas, colonial government, the independence processes, the Central American Federation told in depth (annexation politics, the 1824 elections, Morazán's testament in full), the Liberal Reform across America — including why Honduras's stalled — to 20th-century border settlements, revolutions and the neoliberal turn.
+- Non-History parts (named, not placed): Block 1 lessons 1–9 (values, rule of law, State powers — Civics); Block 2 lessons 10–19 (geography of America, maps, resources, population, migration — Geography); Block 4 lessons 30–38 (society, economy and development of America — Civics/Economics).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — heritage you cannot touch — story beats: UNESCO's widened idea of heritage covers living traditions passed down generations — oral tales (Honduras's La Sucia, Costa Rica's Llorona, Chile's Pincoya), dances (Bolivia's Morenada), great museums and kitchens (Nicaragua's gallo pinto, Venezuela's arepa) — community-created and community-kept (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Honduras, *Libro para Estudiantes, Ciencias Sociales — Octavo Grado de Educación Básica*, printed p. 180 |
+
+Honduras's own way (Book 15 — Ciencias Sociales, Octavo Grado (STUDENT)): Grade 8 widens the lens to the whole continent: the history block (lessons 20–29) runs from how history itself is written (chronicle to the Annales school) through pre-Hispanic cultural areas, colonial government, the independence processes, the Central American Federation told in depth (annexation politics, the 1824 elections, Morazán's testament in full), the Liberal Reform across America — including why Honduras's stalled — to 20th-century border settlements, revolutions and the neoliberal turn. That way is stocked here as the way Honduras teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 16 — Ciencias Sociales, Octavo Grado (TEACHER)**
+This book is a teacher guide. The Honduras rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+- Title as printed: Guía para Docentes, Ciencias Sociales — Octavo Grado de Educación Básica
+- Publisher: Secretaría de Educación de Honduras / UPNFM; Edición Preliminar 2020; source file GD-CCSS8-2020.pdf
+- PDF pages: 166 — Verdict: COMPLETE (read in full, page by page)
+- Tally: 20 placements — 4 existing, 16 NEW
+- Honduras's own way: the guide mirrors the student book lesson-for-lesson (same 38 lessons, same Americas history block 20–29), adding the teacher's framing, answer keys and project guidance for the same continental narrative.
+- Non-History parts (named, not placed): Block 1 lessons 1–9 (Civics); Block 2 lessons 10–19 (Geography); Block 4 lessons 30–38 (Civics/Economics) — same split as the student book.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — heritage you cannot touch — story beats: the guide teaches UNESCO's living-heritage idea — La Sucia, the Morenada, gallo pinto and the arepa as community-kept patrimony (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Honduras, *Guía para Docentes, Ciencias Sociales — Octavo Grado de Educación Básica* (teacher guide — evidence), printed p. 180 |
+
+Honduras's own way (Book 16 — Ciencias Sociales, Octavo Grado (TEACHER)): the guide mirrors the student book lesson-for-lesson (same 38 lessons, same Americas history block 20–29), adding the teacher's framing, answer keys and project guidance for the same continental narrative. That way is stocked here as the way Honduras teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 45 countries (Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivia, Zimbabwe, Eritrea, Cambodia, Fiji, Slovenia, Syria, Mauritania, Jordan, Bhutan, Cuba, Greece, Nauru, Niue, Tuvalu, Saudi Arabia, Rwanda, Poland, Guatemala, Australia, Bahamas, Nepal, Belarus, Dominican Republic, Egypt, Pakistan, Iran, Suriname, Palestine, Colombia, South Sudan, Samoa, Yemen, North Macedonia, Laos, China, Venezuela, Moldova, Nicaragua, Honduras).**

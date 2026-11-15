@@ -1,6 +1,6 @@
 # Sources — The Crusades — two centuries for Jerusalem
 
-countries: Pakistan, Bulgaria, Mauritania, Sri Lanka, Mongolia, North Macedonia, Afghanistan
+countries: Pakistan, Bulgaria, Mauritania, Sri Lanka, Mongolia, North Macedonia, Afghanistan, Honduras
 
 **Book (Pakistan — History 7 (PCTB, SNC 2022)):** *تاریخ — History 7* (student book, Urdu) — Pakistan. Title as printed: تاریخ — History 7 — based on the Single National Curriculum 2022 ("One Nation, One Curriculum"). Grade: Grade 7 / Class 7 (student/teacher: STUDENT). Publisher: Punjab Curriculum and Textbook Board (PCTB), Lahore; year: SNC 2022 edition (no year printed on cover); no ISBN printed. PDF pages: 96 (printed pp. 1–94; read IN PLACE at phase3-staging; image-only scan — the only text layer is the "Web version of PCTB Textbook Not for Sale" watermark — read in full from page renders; cover and title page verified against the record). Verdict: COMPLETE — with a library-debt note: the on-disk file is 81,665,509 bytes against the record's 80,223,717 bytes; the copy read is complete and coherent at the recorded 96 pages, but the size mismatch should be reconciled by the library team. Tally: 31 placements — 14 to existing lessons, 17 NEW LESSON NEEDED (including a reuse of a NEW slug created in Book 5 of this file). Placements at liqlearns-courses-work/expansion-history-2026-11-15/pakistan-placements.md.
 
@@ -189,3 +189,51 @@ Afghanistan's own way (Book 8 — History G11 (student book, Dari)): Grade 11 re
 **Acceptance count: taught in 7 countries (Pakistan, Bulgaria, Mauritania, Sri Lanka, Mongolia, North Macedonia, Afghanistan).**
 
 Searchable tags: Afghanistan, History expansion 2026-11-15, ancient-world/the-crusades-two-centuries-for-jerusalem
+
+## History expansion (2026-11-15) — Honduras stocked
+
+**Book 17 — Ciencias Sociales, Noveno Grado (STUDENT)**
+- Title as printed: Libro para Estudiantes, Ciencias Sociales — Noveno Grado de Educación Básica
+- Publisher: Secretaría de Educación de Honduras / UPNFM; Edición Preliminar 2020; source file LE-CCSS9-2020.pdf
+- PDF pages: 254 — Verdict: COMPLETE (read in full, page by page)
+- Tally: 18 placements — 12 existing, 6 NEW
+- Honduras's own way: Grade 9 closes the cycle with the world survey (lessons 20–29): the two rival periodisations (traditional ages vs Marx's historical materialism) taught side by side, the ancient civilisations' legacies, the medieval world, the three great revolutions, both world wars, decolonisation, the Cold War — with Honduras's own place noted inside it (bordering three civil-war states; a member of the 1991 Gulf coalition) — and the Gulf War taught as "immediate history", the first war broadcast live.
+- Non-History parts (named, not placed): Block 1 lessons 1–9 (vocation, life project, human rights generations — Civics); Block 2 lessons 10–19 (world geography tour: Europe, Asia, Africa, Oceania, global warming — Geography); Block 4 lessons 30–38 (organisations, economy and development — Civics/Economics).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — two centuries of crusading — story beats: Pope Urban II launched the campaigns to recover the Holy Land, but over 200 years crusades were also waged against pagan Slavs, Jews, Orthodox Christians, Mongols, Cathars, Hussites, Waldensians, Prussians and the popes' political enemies, their soldiers earning indulgences (History expansion, 2026-11-15; original placement slug: ancient-world/crusades-holy-wars) | Honduras, *Libro para Estudiantes, Ciencias Sociales — Noveno Grado de Educación Básica*, printed p. 141 |
+
+Honduras's own way (Book 17 — Ciencias Sociales, Noveno Grado (STUDENT)): Grade 9 closes the cycle with the world survey (lessons 20–29): the two rival periodisations (traditional ages vs Marx's historical materialism) taught side by side, the ancient civilisations' legacies, the medieval world, the three great revolutions, both world wars, decolonisation, the Cold War — with Honduras's own place noted inside it (bordering three civil-war states; a member of the 1991 Gulf coalition) — and the Gulf War taught as "immediate history", the first war broadcast live. That way is stocked here as the way Honduras teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 18 — Ciencias Sociales, Noveno Grado (TEACHER, 2020 edition)**
+This book is a teacher guide. The Honduras rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+- Title as printed: Guía para Docentes, Ciencias Sociales — Noveno Grado de Educación Básica
+- Publisher: Secretaría de Educación de Honduras / UPNFM; Edición Preliminar 2020; source file GD-CCSS9-2020.pdf
+- PDF pages: 166 — Verdict: COMPLETE (read in full, page by page)
+- Tally: 18 placements — 12 existing, 6 NEW
+- Honduras's own way: the guide mirrors the student book lesson-for-lesson (same 38 lessons, same world-history block 20–29, same two-periodisations approach), adding the teacher's framing, answer keys and project guidance.
+- Non-History parts (named, not placed): Block 1 lessons 1–9 (Civics); Block 2 lessons 10–19 (Geography); Block 4 lessons 30–38 (Civics/Economics) — same split as the student book.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — two centuries of crusading — story beats: the guide teaches Urban II's call and the crusades' widening targets over 200 years (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: ancient-world/crusades-holy-wars) | Honduras, *Guía para Docentes, Ciencias Sociales — Noveno Grado de Educación Básica* (teacher guide — evidence), printed p. 141 |
+
+Honduras's own way (Book 18 — Ciencias Sociales, Noveno Grado (TEACHER, 2020 edition)): the guide mirrors the student book lesson-for-lesson (same 38 lessons, same world-history block 20–29, same two-periodisations approach), adding the teacher's framing, answer keys and project guidance. That way is stocked here as the way Honduras teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 19 — Ciencias Sociales, Noveno Grado (TEACHER, 2022 edition)**
+This book is a teacher guide. The Honduras rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+- Title as printed: Ciencias Sociales 9 — Guía para Docentes, Noveno grado, III Ciclo
+- Publisher: Secretaría de Educación de Honduras; 2022 edition (source file GD-CCSS9-2022.pdf)
+- PDF pages: 168 — Verdict: COMPLETE (parallel edition of Book 18: the 2020 guide was read in full; this 2022 re-issue was verified against it — identical 38-lesson index and titles, same student-book content embedded page-for-page with model answers, equivalent teacher notes; spot-checked visually across the history block because this PDF has NO text layer, its pages are images)
+- Tally: 18 placements — 12 existing, 6 NEW
+- Honduras's own way: the 2022 guide re-presents the same world-history block (lessons 20–29) in a new design, embedding the student workbook pages with blue model answers and a teacher note under each; its Lesson 20 opens the periodisation lesson from a 2010 article on the 2008 financial crisis, asking how that hecho histórico affected the world and Honduras.
+- Non-History parts (named, not placed): Block 1 lessons 1–9 (Civics); Block 2 lessons 10–19 (Geography); Block 4 lessons 30–38 (Civics/Economics) — same split as the 2020 edition.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — two centuries of crusading — story beats: the 2022 guide teaches Urban II's campaigns and their widening targets (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: ancient-world/crusades-holy-wars) | Honduras, *Ciencias Sociales 9 — Guía para Docentes, Noveno grado, III Ciclo* (teacher guide — evidence), printed p. 93 |
+
+Honduras's own way (Book 19 — Ciencias Sociales, Noveno Grado (TEACHER, 2022 edition)): the 2022 guide re-presents the same world-history block (lessons 20–29) in a new design, embedding the student workbook pages with blue model answers and a teacher note under each; its Lesson 20 opens the periodisation lesson from a 2010 article on the 2008 financial crisis, asking how that hecho histórico affected the world and Honduras. That way is stocked here as the way Honduras teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 8 countries (Pakistan, Bulgaria, Mauritania, Sri Lanka, Mongolia, North Macedonia, Afghanistan, Honduras).**

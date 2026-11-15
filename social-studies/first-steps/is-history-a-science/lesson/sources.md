@@ -1,6 +1,6 @@
 # Sources — Is history a science?
 
-countries: Ethiopia, Indonesia, Iran, Mozambique
+countries: Ethiopia, Indonesia, Iran, Mozambique, Honduras
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -92,3 +92,69 @@ Mozambique's own way (Book 4 — PESD II Mod 1 (student book, Portuguese)): The 
 **Acceptance count: taught in 4 countries (Ethiopia, Indonesia, Iran, Mozambique).**
 
 Searchable tags: Mozambique, History expansion 2026-11-15, first-steps/is-history-a-science
+
+## History expansion (2026-11-15) — Honduras stocked
+
+**Book 9 — G5 student (student book, Spanish)**
+- Title as printed: Libro para Estudiantes, Ciencias Sociales, Quinto grado
+- Grade: Grade 5 (student/teacher: STUDENT)
+- Publisher: Secretaría de Estado en el Despacho de Educación de Honduras / UPNFM; year 2020 (Edición Preliminar 2020); ISBN no ISBN printed in front matter seen
+- PDF pages: 222 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 27 placements — 11 to existing lessons, 16 NEW LESSON NEEDED
+- Honduras's own way: Grade 5 scales to the Americas: History-as-science with Honduras's own historians, the peopling debate (Ameghino against Hrdlicka and Rivet), pre-Hispanic cultural stages, the three great civilisations plus all the others, three colonial empires side by side, the independence wave country by country, the continental Liberal Reform (Morazán named its first wave), the Cold War, the lost decade and neoliberal Honduras.
+- Non-History parts (named, not placed): Lessons 1–9 (life project, gender, media, democracy — Civics, printed pp. 10–54); Block 2 Lessons 10–19 (geography of America, population, resources, transport, tourism — Geography, printed pp. 58–107); Lessons 30, 32–34, 38 (social organisation, Latin American transformation, student government, social problems — Civics/sociology, printed pp. 166–210, except Lessons 31, 35, 36, 37 placed below).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lección 20 La historia como ciencia — story beats: history earns the name science by method — a systematised knowledge of the human past, interpreted in time and space with causes and consequences, so societies can set future goals and not repeat errors (History expansion, 2026-11-15; original placement slug: first-steps/is-history-a-science) | Honduras, *Libro para Estudiantes, Ciencias Sociales, Quinto grado*, printed p. 112 |
+
+Honduras's own way (Book 9 — G5 student (student book, Spanish)): Grade 5 scales to the Americas: History-as-science with Honduras's own historians, the peopling debate (Ameghino against Hrdlicka and Rivet), pre-Hispanic cultural stages, the three great civilisations plus all the others, three colonial empires side by side, the independence wave country by country, the continental Liberal Reform (Morazán named its first wave), the Cold War, the lost decade and neoliberal Honduras. That way is stocked here as the way Honduras teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 10 — G5 teacher (teacher guide, Spanish)**
+This book is a teacher guide. The Honduras rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+- Title as printed: Guía para Docentes, Ciencias Sociales, Quinto grado
+- Grade: Grade 5 (student/teacher: TEACHER)
+- Publisher: Secretaría de Estado en el Despacho de Educación de Honduras / UPNFM; year 2020 (Edición Preliminar 2020); ISBN no ISBN printed in front matter seen
+- PDF pages: 166 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 27 placements — 11 to existing lessons, 16 NEW LESSON NEEDED
+- Honduras's own way: The guide mirrors the student book's 38 lessons; its distinctive moves are comparative — the three civilisations in one comparison chart, the three empires' social pyramids organised side by side, and every class sent to research a pre-Hispanic group of Honduras itself.
+- Non-History parts (named, not placed): same Civics/Geography lessons as the student book (Lessons 1–19, 30, 32–34, 38).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lección 20 La historia como ciencia (guide) — story beats: the guide frames history's scientific claim — systematic knowledge, method, objectivity demanded of the historian (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/is-history-a-science) | Honduras, *Guía para Docentes, Ciencias Sociales, Quinto grado* (teacher guide — evidence), printed p. 81 |
+
+Honduras's own way (Book 10 — G5 teacher (teacher guide, Spanish)): The guide mirrors the student book's 38 lessons; its distinctive moves are comparative — the three civilisations in one comparison chart, the three empires' social pyramids organised side by side, and every class sent to research a pre-Hispanic group of Honduras itself. That way is stocked here as the way Honduras teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 13 — Ciencias Sociales, Séptimo Grado (STUDENT)**
+- Title as printed: Libro para Estudiantes, Ciencias Sociales — Séptimo Grado de Educación Básica
+- Publisher: Secretaría de Educación de Honduras / UPNFM; Edición Preliminar 2020; source file LE-CCSS7-2020.pdf
+- PDF pages: 254 — Verdict: COMPLETE (read in full, page by page)
+- Tally: 20 placements — 2 existing, 18 NEW
+- Honduras's own way: the Grade 7 history block (lessons 20–29) is the deep national narrative: history as a science with Honduran historians' rival periodisations (Muñoz Lara's three periods; Medardo Mejía, Edgardo Quiñónez, Longino Becerra, Darío Euraque, Mario Argueta), the prolonged conquest (1502–1573) with named resistance zones, the TWO independence actas (1821 and the "more forceful" 1 July 1823), the Federal Republic's achievements and failure causes, the Liberal Reform's enclave concessions, and a 20th century told from Carías to the 1982 democratic return — read through Galeano's "Las venas abiertas" excerpts, plot-summarised only.
+- Non-History parts (named, not placed): Block 1 lessons 1–8 (family, friendship, courtship, values, peace — Civics); Block 2 lessons 10–19 (geographic science, maps, Honduras's mountains, hydrography, population — Geography); Block 4 lessons 31, 33–38 (State powers, economy, indicators, globalisation, cooperating agencies — Civics/Economics).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Honduras: history as a science — story beats: the fortress of San Fernando de Omoa opens the question of what history is: the science that studies humanity's past to understand the present and not repeat errors, building national identity (History expansion, 2026-11-15; original placement slug: first-steps/is-history-a-science) | Honduras, *Libro para Estudiantes, Ciencias Sociales — Séptimo Grado de Educación Básica*, printed p. 126 |
+
+Honduras's own way (Book 13 — Ciencias Sociales, Séptimo Grado (STUDENT)): the Grade 7 history block (lessons 20–29) is the deep national narrative: history as a science with Honduran historians' rival periodisations (Muñoz Lara's three periods; Medardo Mejía, Edgardo Quiñónez, Longino Becerra, Darío Euraque, Mario Argueta), the prolonged conquest (1502–1573) with named resistance zones, the TWO independence actas (1821 and the "more forceful" 1 July 1823), the Federal Republic's achievements and failure causes, the Liberal Reform's enclave concessions, and a 20th century told from Carías to the 1982 democratic return — read through Galeano's "Las venas abiertas" excerpts, plot-summarised only. That way is stocked here as the way Honduras teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 14 — Ciencias Sociales, Séptimo Grado (TEACHER)**
+This book is a teacher guide. The Honduras rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+- Title as printed: Guía para Docentes, Ciencias Sociales — Séptimo Grado de Educación Básica
+- Publisher: Secretaría de Educación de Honduras / UPNFM; Edición Preliminar 2020; source file GD-CCSS7-2020.pdf
+- PDF pages: 166 — Verdict: COMPLETE (read in full, page by page). NOTE: this single guide covers BOTH Grade 7 teacher records in the targets — the release copy and the books.json "teacher-alt" record are byte-identical files (same MD5), so they are filed once here.
+- Tally: 20 placements — 2 existing, 18 NEW
+- Honduras's own way: the guide mirrors the student book lesson-for-lesson (same 38 lessons, same history block 20–29, same Honduran periodisation debate), adding the teacher's framing, answer keys and project guidance for the same national narrative.
+- Non-History parts (named, not placed): Block 1 lessons 1–8 (Civics); Block 2 lessons 10–19 (Geography); Block 4 lessons 31, 33–38 (Civics/Economics) — same split as the student book.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Honduras: history as a science — story beats: the guide frames the Omoa fortress opening: history studies the human past to understand the present, avoid repeating errors and consolidate national identity (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/is-history-a-science) | Honduras, *Guía para Docentes, Ciencias Sociales — Séptimo Grado de Educación Básica* (teacher guide — evidence), printed p. 126 |
+
+Honduras's own way (Book 14 — Ciencias Sociales, Séptimo Grado (TEACHER)): the guide mirrors the student book lesson-for-lesson (same 38 lessons, same history block 20–29, same Honduran periodisation debate), adding the teacher's framing, answer keys and project guidance for the same national narrative. That way is stocked here as the way Honduras teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 5 countries (Ethiopia, Indonesia, Iran, Mozambique, Honduras).**

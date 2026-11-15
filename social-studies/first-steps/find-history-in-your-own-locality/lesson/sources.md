@@ -1,6 +1,6 @@
 # Sources — Find history in your own locality
 
-countries: Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala, Malaysia, Ecuador, Bahamas, Eritrea, Nepal, Belarus, Fiji, Indonesia, Finland, Egypt, Syria, Suriname, Colombia, South Sudan, Samoa, Iraq, Mozambique, Yemen, Jordan, Laos, Cuba, China, Moldova, Armenia
+countries: Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala, Malaysia, Ecuador, Bahamas, Eritrea, Nepal, Belarus, Fiji, Indonesia, Finland, Egypt, Syria, Suriname, Colombia, South Sudan, Samoa, Iraq, Mozambique, Yemen, Jordan, Laos, Cuba, China, Moldova, Armenia, Honduras
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -1335,3 +1335,75 @@ Nicaragua's own way (Book 1 — G2 Conociendo mi Mundo (student book, Spanish)):
 Nicaragua's own way (Book 2 — G3 Estudios Sociales (student book, Spanish)): a Geography-first year — the whole first semester is maps, orientation and landscape — then History arrives as the child's own municipality and department: first indigenous settlers, then the department's historical celebrations and hero stories. That way is stocked here as the way Nicaragua teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 30 countries (Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala, Malaysia, Ecuador, Bahamas, Eritrea, Nepal, Belarus, Fiji, Indonesia, Finland, Egypt, Syria, Suriname, Colombia, South Sudan, Samoa, Iraq, Mozambique, Yemen, Jordan, Laos, Cuba, China, Moldova, Armenia) — unchanged; Nicaragua was already counted in this lesson (Geography expansion), and the History placements above are stocked as depth.**
+
+## History expansion (2026-11-15) — Honduras stocked
+
+**Book 1 — G1 student (student book, Spanish)**
+- Title as printed: Libro para Estudiantes, Ciencias Sociales, Primer grado
+- Grade: Grade 1 (student/teacher: STUDENT)
+- Publisher: Secretaría de Estado en el Despacho de Educación de Honduras / UPNFM; year 2020 (Edición Preliminar, abril 2020); ISBN 978-99979-59-14-0 (barcode on imprint page)
+- PDF pages: 182 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 13 placements — 8 to existing lessons, 5 NEW LESSON NEEDED
+- Honduras's own way: History starts from the child's own time, family and community — yesterday/today/tomorrow, a family tree, the founding date of your own town — and the nation enters through its symbols, its anthem (which itself narrates the national story) and one hero, Francisco Morazán; every lesson follows the same four moments (¡A recordar! / Sabías que / Sembrar y cosechar / El valor de lo que sé) with mascot Kinich, the scarlet macaw.
+- Non-History parts (named, not placed): Block 1 La persona y su ser social, Lessons 1–7 (feelings, aspirations, coexistence, rights and duties — Civics/personal, printed pp. 10–37); Block 2 Las sociedades y los espacios geográficos, Lessons 10–19 (space, orientation, work, nature, public services, transport — Geography, printed pp. 50–93); Lesson 24 Esto sucede en la comunidad (community authorities and elections — Civics, printed pp. 110–113); Block 4 Las sociedades organizadas, Lessons 30–38 (family roles, school behaviour and authorities — Civics, printed pp. 138–179).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lección 23 Esta es nuestra comunidad: historia de La Ceiba — story beats: La Ceiba begins as a hamlet of 20 Pech families sheltering under a great sacred ceiba tree, is then settled by Garífuna and others, and grows into the city of the Carnival of Friendship (History expansion, 2026-11-15; original placement slug: first-steps/find-history-in-your-own-locality) | Honduras, *Libro para Estudiantes, Ciencias Sociales, Primer grado*, printed p. 106 |
+| Honduras part — Lección 25 El pasado de nuestra comunidad — story beats: Morazán's statue in Tegucigalpa and José Cecilio del Valle's house in Choluteca open a hunt for each town's own monuments, historic places and important people (History expansion, 2026-11-15; original placement slug: first-steps/find-history-in-your-own-locality) | Honduras, *Libro para Estudiantes, Ciencias Sociales, Primer grado*, printed p. 114 |
+
+Honduras's own way (Book 1 — G1 student (student book, Spanish)): History starts from the child's own time, family and community — yesterday/today/tomorrow, a family tree, the founding date of your own town — and the nation enters through its symbols, its anthem (which itself narrates the national story) and one hero, Francisco Morazán; every lesson follows the same four moments (¡A recordar! / Sabías que / Sembrar y cosechar / El valor de lo que sé) with mascot Kinich, the scarlet macaw. That way is stocked here as the way Honduras teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 2 — G1 teacher (teacher guide, Spanish)**
+This book is a teacher guide. The Honduras rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+- Title as printed: Guía para Docentes, Ciencias Sociales, Primer grado
+- Grade: Grade 1 (student/teacher: TEACHER)
+- Publisher: Secretaría de Estado en el Despacho de Educación de Honduras / UPNFM; year 2020 (Edición preliminar, abril 2020); ISBN 978-99979-59-15-7 (barcode on imprint page)
+- PDF pages: 166 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 13 placements — 8 to existing lessons, 5 NEW LESSON NEEDED
+- Honduras's own way: The guide mirrors the student book lesson for lesson (same 38 lessons, same four moments) and adds the teaching moves: elders are brought in as living sources, children interview parents and grandparents, and each History lesson ends in a made thing — a family tree, a recycled-material monument, a mural.
+- Non-History parts (named, not placed): same Civics/Geography lessons as the student book (Lessons 1–7, 10–19, 24, 30–38) plus Anexo: Normas de Convivencia en nuestra Aula, a classroom-coexistence story (Civics).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lección 23 Esta es nuestra comunidad (guide) — story beats: La Ceiba's Pech-and-ceiba-tree origin story is the model; every town's song, name and patronal fair is treated as its history (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/find-history-in-your-own-locality) | Honduras, *Guía para Docentes, Ciencias Sociales, Primer grado* (teacher guide — evidence), printed p. 95 |
+| Honduras part — Lección 25 El pasado de nuestra comunidad (guide) — story beats: children list their community's historic places and people, then build one monument from recycled material (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/find-history-in-your-own-locality) | Honduras, *Guía para Docentes, Ciencias Sociales, Primer grado* (teacher guide — evidence), printed p. 103 |
+
+Honduras's own way (Book 2 — G1 teacher (teacher guide, Spanish)): The guide mirrors the student book lesson for lesson (same 38 lessons, same four moments) and adds the teaching moves: elders are brought in as living sources, children interview parents and grandparents, and each History lesson ends in a made thing — a family tree, a recycled-material monument, a mural. That way is stocked here as the way Honduras teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 3 — G2 student (student book, Spanish)**
+- Title as printed: Libro para Estudiantes, Ciencias Sociales, Segundo grado
+- Grade: Grade 2 (student/teacher: STUDENT)
+- Publisher: Secretaría de Estado en el Despacho de Educación de Honduras / UPNFM; year 2020 (Edición Preliminar, abril 2020); ISBN no ISBN printed in front matter seen (imprint page carries no ISBN)
+- PDF pages: 182 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 24 placements — 15 to existing lessons, 9 NEW LESSON NEEDED
+- Honduras's own way: Grade 2 gives History its own block, Las sociedades y el tiempo social: what History is, its sources (archaeological, written, oral), then the child's municipality and department through time — first peoples and the Maya of Copán, the making of the 18 departments, fortresses, monuments and tangible/intangible heritage, much of it learned by interviewing elders and dramatising local events.
+- Non-History parts (named, not placed): Lessons 1–3, 5–7 (living in harmony, rights, democracy — Civics, printed pp. 10–37); Block 2 Lessons 10–15, 17–19 (maps, relief, economic activities, services, transport — Geography, printed pp. 50–93, except Lesson 16 placed below); Lessons 30–32, 34–35 (municipal norms, authorities, local development — Civics, printed pp. 138–161, except the historical opening of Lesson 33 placed below).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lección 22 El municipio a través del tiempo — story beats: old photographs (Comayagüela 1928, the old Presidential House) show buildings changed by weather and neglect; the class dramatises three municipal stories — independence, Morazán's birth, the capital's move from Comayagua to Tegucigalpa (History expansion, 2026-11-15; original placement slug: first-steps/find-history-in-your-own-locality) | Honduras, *Libro para Estudiantes, Ciencias Sociales, Segundo grado*, printed p. 102 |
+
+Honduras's own way (Book 3 — G2 student (student book, Spanish)): Grade 2 gives History its own block, Las sociedades y el tiempo social: what History is, its sources (archaeological, written, oral), then the child's municipality and department through time — first peoples and the Maya of Copán, the making of the 18 departments, fortresses, monuments and tangible/intangible heritage, much of it learned by interviewing elders and dramatising local events. That way is stocked here as the way Honduras teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 4 — G2 teacher (teacher guide, Spanish)**
+This book is a teacher guide. The Honduras rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+- Title as printed: Guía para Docentes, Ciencias Sociales, Segundo grado
+- Grade: Grade 2 (student/teacher: TEACHER)
+- Publisher: Secretaría de Estado en el Despacho de Educación de Honduras / UPNFM; year 2020 (Edición Preliminar, abril 2020); ISBN no ISBN printed in front matter seen
+- PDF pages: 166 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 24 placements — 15 to existing lessons, 9 NEW LESSON NEEDED
+- Honduras's own way: The guide mirrors the student book's 38 lessons and adds the method: children narrate a remembered event aloud and in drawing, music and theatre; elders are interviewed as oral sources; local history is dramatised in three theatre groups.
+- Non-History parts (named, not placed): same Civics/Geography lessons as the student book (Lessons 1–3, 5–7, 10–15, 17–19, 30–32, 34–35).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lección 22 El municipio a través del tiempo (guide) — story beats: the municipality's illustrious people — painters, poets, merchants, singers — are named, and its relevant events dramatised (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/find-history-in-your-own-locality) | Honduras, *Guía para Docentes, Ciencias Sociales, Segundo grado* (teacher guide — evidence), printed p. 91 |
+
+Honduras's own way (Book 4 — G2 teacher (teacher guide, Spanish)): The guide mirrors the student book's 38 lessons and adds the method: children narrate a remembered event aloud and in drawing, music and theatre; elders are interviewed as oral sources; local history is dramatised in three theatre groups. That way is stocked here as the way Honduras teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 31 countries (Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala, Malaysia, Ecuador, Bahamas, Eritrea, Nepal, Belarus, Fiji, Indonesia, Finland, Egypt, Syria, Suriname, Colombia, South Sudan, Samoa, Iraq, Mozambique, Yemen, Jordan, Laos, Cuba, China, Moldova, Armenia, Honduras).**

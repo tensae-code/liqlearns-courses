@@ -1,6 +1,6 @@
 # Sources — From stone tools to farming — the Neolithic Revolution
 
-countries: Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus, Fiji, Dominican Republic, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, South Sudan, Libya, Mongolia, Iraq, Uganda, Mozambique, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua
+countries: Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus, Fiji, Dominican Republic, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, South Sudan, Libya, Mongolia, Iraq, Uganda, Mozambique, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -1147,3 +1147,73 @@ Nicaragua's own way (Book 11 — G9 Estudios Sociales, full-year textbook (stude
 Nicaragua's own way (Book 13 — G10 Estudios Sociales, full-year textbook (student book, Spanish)): Grade 10 closes secondary social studies with Geography of Nicaragua and then Economics; History survives only as the frame that opens the Economics half — human society marched through five socioeconomic formations, from the primitive community to 21st-century socialism, before prices, markets and banks are studied. That way is stocked here as the way Nicaragua teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 40 countries (Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus, Fiji, Dominican Republic, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, South Sudan, Libya, Mongolia, Iraq, Uganda, Mozambique, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua).**
+
+## History expansion (2026-11-15) — Honduras stocked
+
+**Book 9 — G5 student (student book, Spanish)**
+- Title as printed: Libro para Estudiantes, Ciencias Sociales, Quinto grado
+- Grade: Grade 5 (student/teacher: STUDENT)
+- Publisher: Secretaría de Estado en el Despacho de Educación de Honduras / UPNFM; year 2020 (Edición Preliminar 2020); ISBN no ISBN printed in front matter seen
+- PDF pages: 222 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 27 placements — 11 to existing lessons, 16 NEW LESSON NEEDED
+- Honduras's own way: Grade 5 scales to the Americas: History-as-science with Honduras's own historians, the peopling debate (Ameghino against Hrdlicka and Rivet), pre-Hispanic cultural stages, the three great civilisations plus all the others, three colonial empires side by side, the independence wave country by country, the continental Liberal Reform (Morazán named its first wave), the Cold War, the lost decade and neoliberal Honduras.
+- Non-History parts (named, not placed): Lessons 1–9 (life project, gender, media, democracy — Civics, printed pp. 10–54); Block 2 Lessons 10–19 (geography of America, population, resources, transport, tourism — Geography, printed pp. 58–107); Lessons 30, 32–34, 38 (social organisation, Latin American transformation, student government, social problems — Civics/sociology, printed pp. 166–210, except Lessons 31, 35, 36, 37 placed below).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lección 21: de nómadas a sedentarios — story beats: bands of hunters, fishers and gatherers who know fire, bury their dead and paint caves become, with the discovery of agriculture (maize, beans, potato, yuca) and domesticated dog, turkey, alpaca and llama, settled farming tribes (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Honduras, *Libro para Estudiantes, Ciencias Sociales, Quinto grado*, printed p. 120 |
+
+Honduras's own way (Book 9 — G5 student (student book, Spanish)): Grade 5 scales to the Americas: History-as-science with Honduras's own historians, the peopling debate (Ameghino against Hrdlicka and Rivet), pre-Hispanic cultural stages, the three great civilisations plus all the others, three colonial empires side by side, the independence wave country by country, the continental Liberal Reform (Morazán named its first wave), the Cold War, the lost decade and neoliberal Honduras. That way is stocked here as the way Honduras teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 10 — G5 teacher (teacher guide, Spanish)**
+This book is a teacher guide. The Honduras rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+- Title as printed: Guía para Docentes, Ciencias Sociales, Quinto grado
+- Grade: Grade 5 (student/teacher: TEACHER)
+- Publisher: Secretaría de Estado en el Despacho de Educación de Honduras / UPNFM; year 2020 (Edición Preliminar 2020); ISBN no ISBN printed in front matter seen
+- PDF pages: 166 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 27 placements — 11 to existing lessons, 16 NEW LESSON NEEDED
+- Honduras's own way: The guide mirrors the student book's 38 lessons; its distinctive moves are comparative — the three civilisations in one comparison chart, the three empires' social pyramids organised side by side, and every class sent to research a pre-Hispanic group of Honduras itself.
+- Non-History parts (named, not placed): same Civics/Geography lessons as the student book (Lessons 1–19, 30, 32–34, 38).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lección 21: sedentarios (guide) — story beats: the class hunts evidence of first settlers around its own community and describes what it finds (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Honduras, *Guía para Docentes, Ciencias Sociales, Quinto grado* (teacher guide — evidence), printed p. 85 |
+
+Honduras's own way (Book 10 — G5 teacher (teacher guide, Spanish)): The guide mirrors the student book's 38 lessons; its distinctive moves are comparative — the three civilisations in one comparison chart, the three empires' social pyramids organised side by side, and every class sent to research a pre-Hispanic group of Honduras itself. That way is stocked here as the way Honduras teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 11 — G6 student (student book, Spanish)**
+- Title as printed: Libro para Estudiantes, Ciencias Sociales, Sexto grado
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Secretaría de Estado en el Despacho de Educación de Honduras / UPNFM; year 2020 (Edición Preliminar 2020); ISBN no ISBN printed in front matter seen
+- PDF pages: 222 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 27 placements — 26 to existing lessons, 1 NEW LESSON NEEDED
+- Honduras's own way: Grade 6 is a world-history survey run on two rival periodisations at once — the traditional ages and the historical-materialist sequence (primitive community, slavery, feudalism, capitalism) — from prehistory and the river civilisations through Greece, Rome, feudalism and Arab culture to Renaissance, Enlightenment, French Revolution and the world wars; Honduras returns at the end as national identity and civic dates.
+- Non-History parts (named, not placed): Lessons 1–9 (values, gender equity, media, State norms, rights — Civics, printed pp. 10–54); Block 2 Lessons 10–19 (world geography, continents, population, resources, tourism — Geography, printed pp. 58–107); Lessons 28–29 (social inequality; science and technology in the 21st century — sociology, printed pp. 152–161); Lessons 31–34, 36–38 (international organisms, UN agencies, migration, population growth, climate change, Honduras's social problems — Civics/current affairs, printed pp. 171–210, except Lessons 30 and 35 placed below).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lección 22: de la piedra al fuego y la agricultura — story beats: a 2.5-million-year timeline runs first humans, stone tools, fire (400,000), cave painting (20,000), then agriculture and herding (10,000) — cooking, warmth and light from fire change the species' life (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Honduras, *Libro para Estudiantes, Ciencias Sociales, Sexto grado*, printed p. 124 |
+
+Honduras's own way (Book 11 — G6 student (student book, Spanish)): Grade 6 is a world-history survey run on two rival periodisations at once — the traditional ages and the historical-materialist sequence (primitive community, slavery, feudalism, capitalism) — from prehistory and the river civilisations through Greece, Rome, feudalism and Arab culture to Renaissance, Enlightenment, French Revolution and the world wars; Honduras returns at the end as national identity and civic dates. That way is stocked here as the way Honduras teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 12 — G6 teacher (teacher guide, Spanish)**
+This book is a teacher guide. The Honduras rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+- Title as printed: Guía para Docentes, Ciencias Sociales, Sexto grado
+- Grade: Grade 6 (student/teacher: TEACHER)
+- Publisher: Secretaría de Estado en el Despacho de Educación de Honduras / UPNFM; year 2020 (Edición Preliminar 2020); ISBN no ISBN printed in front matter seen
+- PDF pages: 166 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 27 placements — 26 to existing lessons, 1 NEW LESSON NEEDED
+- Honduras's own way: The guide mirrors the student survey; its signature task is the double timeline — pupils complete both the traditional and the materialist periodisation lines and state one difference between them, so periodisation itself is taught as an argument, not a fact.
+- Non-History parts (named, not placed): same Civics/Geography lessons as the student book (Lessons 1–19, 28–29, 31–34, 36–38).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part — Lección 22: aportes prehistóricos (guide) — story beats: fire, farming, herding, tools and houses are listed as prehistory's still-used inheritance (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Honduras, *Guía para Docentes, Ciencias Sociales, Sexto grado* (teacher guide — evidence), printed p. 91 |
+
+Honduras's own way (Book 12 — G6 teacher (teacher guide, Spanish)): The guide mirrors the student survey; its signature task is the double timeline — pupils complete both the traditional and the materialist periodisation lines and state one difference between them, so periodisation itself is taught as an argument, not a fact. That way is stocked here as the way Honduras teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 41 countries (Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus, Fiji, Dominican Republic, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, South Sudan, Libya, Mongolia, Iraq, Uganda, Mozambique, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras).**
