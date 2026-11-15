@@ -1,0 +1,22 @@
+# The Moon Phases Eclipses And Tides
+
+## Do it first
+
+Before you read on, say in your mind what you already think this is about: Part Two, Chapter 3: the Moon is Earth's only satellite, orbiting in an elliptical path once in about 27.32 days — the same time it takes to spin — so one face always fronts the Earth and 41% of its surface stays forever hidden, its visible face pitted with circular craters from meteorite strikes; as it circles, its lit shape changes through the phases: new moon, first crescent, first quarter, waxing gibbous, full moon, waning gibbous, last quarter and last crescent; Part Two, Chapter 3: eclipses and tides — a lunar eclipse comes when the Earth stands between the Sun and the Moon, total in Earth's full shadow and partial in the half-shadow; a solar eclipse when the Moon stands between the Sun and the Earth and blocks its light, total in the full shadow, partial in the half-shadow (a partial solar eclipse was seen in Kuwait in March 2006, set as a research task), and annular when a ring of the Sun's light shows around the Moon; and the ebb and flow of the tides are two opposite natural phenomena raised by the differing pull of the Sun's and Moon's gravity and their positions against the Earth — as Kuwait's book teaches it. Hold your idea; the lesson will test it.
+
+## Sub lesson 1 — The Moon Phases Eclipses And Tides
+
+Kuwait's book, the *Kuwait Grade 11 Geography Principles G11 T1* (printed p. 68), teaches: Part Two, Chapter 3: the Moon is Earth's only satellite, orbiting in an elliptical path once in about 27.32 days — the same time it takes to spin — so one face always fronts the Earth and 41% of its surface stays forever hidden, its visible face pitted with circular craters from meteorite strikes; as it circles, its lit shape changes through the phases: new moon, first crescent, first quarter, waxing gibbous, full moon, waning gibbous, last quarter and last crescent. Kuwait's book, the *Kuwait Grade 11 Geography Principles G11 T1* (printed pp. 68–69), teaches: Part Two, Chapter 3: eclipses and tides — a lunar eclipse comes when the Earth stands between the Sun and the Moon, total in Earth's full shadow and partial in the half-shadow; a solar eclipse when the Moon stands between the Sun and the Earth and blocks its light, total in the full shadow, partial in the half-shadow (a partial solar eclipse was seen in Kuwait in March 2006, set as a research task), and annular when a ring of the Sun's light shows around the Moon; and the ebb and flow of the tides are two opposite natural phenomena raised by the differing pull of the Sun's and Moon's gravity and their positions against the Earth. This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
+
+## Sub lesson 2 — Kuwait's way — the book's own teaching way
+
+Kuwait's own way (Kuwait Grade 11 Geography Principles G11 T1): Geography is taught at Grade 11 (literary track) as one half of a combined "Principles" book, in depth and from first principles: the science defined and related to seven other sciences, its information sources treated as a subject in themselves (map, field study, official statistics, previous studies, remote sensing), then the Earth in the universe, then physical geography organised by the four spheres — of which this Term 1 volume carries only the lithosphere chapter; the hydrosphere, atmosphere and biosphere chapters announced in the introduction and on the Part Three opener belong to the course's later volume. Kuwaiti anchors run through it: the worked time-zone example is a Kuwait–Canary Islands football broadcast, a partial solar eclipse "in Kuwait, March 2006" is set as a research task, and the statistics chapter is built on Kuwait's own census, annual abstract (issued since 1964) and civil-information guide. Dated content to note: the astronomy still counts nine planets — Pluto is listed among the planets (printed p. 53) and "2003-UB313 Xena" is taught as the ninth planet, discovered recently (printed p. 56) — content surviving from the book's 2016 first editions. This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
+
+## Say it to your companion
+
+Explain this lesson to your companion in your own words. Your companion asks you one hard question about it — answer from the lesson.
+
+## Do It Yourself
+
+1. The book's topic: do the activity in hands-on.md under this name.
+2. Kuwait's way: do the activity in hands-on.md under this name.

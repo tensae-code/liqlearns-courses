@@ -1,0 +1,51 @@
+# Lesson plan — Food And Water Security In The Dry Gulf
+
+**Course:** Social Studies · **Title:** Global Issues · **Lesson:** Food And Water Security In The Dry Gulf
+**Place in the curriculum:** Global Issues (CURRICULUM.md) — built in the Geography expansion (Kuwait, 2026-11-15).
+**The one thing this lesson teaches:** Unit 3 Lesson 5, Economic Challenges and Ways to Achieve Development: food security — the Gulf States depend on imports for their food needs (population growth, heat harming farm production, moving sand and urban expansion), so food security is fragile; water security — fresh water is a rare wealth in the Gulf States, limited by the dry desert location and the absence of fresh water sources; Unit 1 Lesson 5: among Kuwait's sustainable-development work is ending hunger — providing healthy, sustainable food and supporting local agriculture to achieve food security and reduce dependence on imports; the lesson's map shows Kuwait's agricultural areas, with the northern agricultural area and the Al-Sulaibiya farms — this extends Book 2's NEW food-and-water-security lesson; Unit 4 Lesson 5: Kuwait's model against the food crisis, despite its limited farm and water resources — the Public Authority for Agriculture Affairs and Fish Resources (at Al-Omariya, Farwaniya) supporting farmers and encouraging farming of all kinds to develop local production; a strategic stockpile of basic foods (wheat, rice, sugar and oils) to cover the people's needs in world crises; and a share in international humanitarian relief for peoples suffering famine, through the charities and the Kuwait Fund; the world's organisations work on solutions — the FAO developing smart farming techniques such as vertical farming and biotechnology to help poor states reach self-sufficiency, the World Food Programme (headquarters Rome) giving urgent food aid to regions stricken by wars and disasters, and Sustainable Development Goal 2, "zero hunger" by 2030 — this extends Book 2's NEW food-and-water-security lesson — as Kuwait's book teaches it (see lesson/sources.md for the book and printed page).
+**This lesson's own level:** it stands on nothing but the lesson itself — Unit 3 Lesson 5, Economic Challenges and Ways to Achieve Development: food security — the Gulf States depend on imports for their food needs (population growth, heat harming farm production, moving sand and urban expansion), so food security is fragile; water security — fresh water is a rare wealth in the Gulf States, limited by the dry desert location and the absence of fresh water sources; Unit 1 Lesson 5: among Kuwait's sustainable-development work is ending hunger — providing healthy, sustainable food and supporting local agriculture to achieve food security and reduce dependence on imports; the lesson's map shows Kuwait's agricultural areas, with the northern agricultural area and the Al-Sulaibiya farms — this extends Book 2's NEW food-and-water-security lesson; Unit 4 Lesson 5: Kuwait's model against the food crisis, despite its limited farm and water resources — the Public Authority for Agriculture Affairs and Fish Resources (at Al-Omariya, Farwaniya) supporting farmers and encouraging farming of all kinds to develop local production; a strategic stockpile of basic foods (wheat, rice, sugar and oils) to cover the people's needs in world crises; and a share in international humanitarian relief for peoples suffering famine, through the charities and the Kuwait Fund; the world's organisations work on solutions — the FAO developing smart farming techniques such as vertical farming and biotechnology to help poor states reach self-sufficiency, the World Food Programme (headquarters Rome) giving urgent food aid to regions stricken by wars and disasters, and Sustainable Development Goal 2, "zero hunger" by 2030 — this extends Book 2's NEW food-and-water-security lesson.
+
+A lesson plan also says **what goes on top of the lesson**: at the exact places marked below, the lesson page carries an add-on — an image, a GIF, a video, an audio. Every slot is written as **"a picture of ..." in words, plus one little line saying what the student does with it**. The words carry the picture while the course is built; on the website the real add-on is dropped into that slot and the little explanation stays as the student's guide.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees from the start, locked ahead, each opening when the one before it is proved:
+
+1. **Food And Water Security In The Dry Gulf**
+2. **Kuwait's way — the book's own teaching way**
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
+
+## Before this lesson
+- Recommended first: the lessons named in this lesson's own level line above. Recommended, never forced.
+
+## What the learner can do when it ends
+1. Answer, from the lesson alone: Food And Water Security In The Dry Gulf — and the rest of this lesson's question set.
+2. Answer, from the lesson alone: Kuwait's way — the book's own teaching way — and the rest of this lesson's question set.
+
+## What you need
+Paper and a pencil. Nothing else, beyond what hands-on.md names for its activities.
+
+## The run of the lesson (in order)
+1. **Do it first** — the learner does the opening task in lesson/lesson.md before any explanation.
+2. **The explanation** — lesson/lesson.md, with these slots at their exact places:
+   - ADD IMAGE: a picture of Unit 3 Lesson 5, Economic Challenges and Ways to Achieve Development: food security — the Gulf States depend on imports for their food needs (population growth, heat harming farm production, moving sand and urban expansion), so food security is fragile; water security — fresh water is a rare wealth in the Gulf States, limited by the dry desert location and the absence of fresh water sources; Unit 1 Lesson 5: among Kuwait's sustainable-development work is ending hunger — providing healthy, sustainable food and supporting local agriculture to achieve food security and reduce dependence on imports; the lesson's map shows Kuwait's agricultural areas, with the northern agricultural area and the Al-Sulaibiya farms — this extends Book 2's NEW food-and-water-security lesson; Unit 4 Lesson 5: Kuwait's model against the food crisis, despite its limited farm and water resources — the Public Authority for Agriculture Affairs and Fish Resources (at Al-Omariya, Farwaniya) supporting farmers and encouraging farming of all kinds to develop local production; a strategic stockpile of basic foods (wheat, rice, sugar and oils) to cover the people's needs in world crises; and a share in international humanitarian relief for peoples suffering famine, through the charities and the Kuwait Fund; the world's organisations work on solutions — the FAO developing smart farming techniques such as vertical farming and biotechnology to help poor states reach self-sufficiency, the World Food Programme (headquarters Rome) giving urgent food aid to regions stricken by wars and disasters, and Sustainable Development Goal 2, "zero hunger" by 2030 — this extends Book 2's NEW food-and-water-security lesson — the student studies it and points to what the lesson describes. (Described slot only; no picture file is made in this build.)
+   - ADD AUDIO: a voice reading the lesson's key words aloud — the student listens and repeats them. (Described slot only; no audio file is made in this build.)
+3. **Say it to your companion** — lesson/lesson.md.
+   - ADD VIDEO: the script in video-script.md, filmed (made later, when videos are made).
+4. **Questions** — from questions/, served at the learner's level (levels.md).
+5. **Hands-on** — hands-on.md.
+6. **Do It Yourself** — lesson/lesson.md.
+
+## Add-ons for this lesson (the full list)
+- IMAGE — a picture of Unit 3 Lesson 5, Economic Challenges and Ways to Achieve Development: food security — the Gulf States depend on imports for their food needs (population growth, heat harming farm production, moving sand and urban expansion), so food security is fragile; water security — fresh water is a rare wealth in the Gulf States, limited by the dry desert location and the absence of fresh water sources; Unit 1 Lesson 5: among Kuwait's sustainable-development work is ending hunger — providing healthy, sustainable food and supporting local agriculture to achieve food security and reduce dependence on imports; the lesson's map shows Kuwait's agricultural areas, with the northern agricultural area and the Al-Sulaibiya farms — this extends Book 2's NEW food-and-water-security lesson; Unit 4 Lesson 5: Kuwait's model against the food crisis, despite its limited farm and water resources — the Public Authority for Agriculture Affairs and Fish Resources (at Al-Omariya, Farwaniya) supporting farmers and encouraging farming of all kinds to develop local production; a strategic stockpile of basic foods (wheat, rice, sugar and oils) to cover the people's needs in world crises; and a share in international humanitarian relief for peoples suffering famine, through the charities and the Kuwait Fund; the world's organisations work on solutions — the FAO developing smart farming techniques such as vertical farming and biotechnology to help poor states reach self-sufficiency, the World Food Programme (headquarters Rome) giving urgent food aid to regions stricken by wars and disasters, and Sustainable Development Goal 2, "zero hunger" by 2030 — this extends Book 2's NEW food-and-water-security lesson (described slot only).
+- AUDIO — the lesson's key words read aloud → the student listens and repeats. (Described slot only.)
+- VIDEO — the video-script filmed (made later) → the student watches and follows the walk-through.
+
+A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
+
+## If the learner is stuck
+- Go back to the Do it first task and do it again slowly, out loud; then re-read only the part that answers it.
+- Every question in questions/ is answerable from lesson/lesson.md alone — if one feels impossible, the learner has skipped a part; find it together.
+
+## Teacher note
+The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md.

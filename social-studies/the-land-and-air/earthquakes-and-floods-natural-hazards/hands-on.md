@@ -1,0 +1,9 @@
+# Hands-on — Earthquakes And Floods Natural Hazards
+
+The lesson with your hands and your feet, not only your eyes.
+
+## The book's topic
+Work through this lesson's topic with your hands: Unit 3 Lesson 1: earthquakes are sudden shaking from the collision of the Earth's plates — seismic activity in the Atlas range, and Morocco's destructive 2023 earthquake; floods follow heavy rain with cyclones — Oman's floods from cyclone Shaheen in 2021; the Richter scale measures earthquake strength; the effects are deaths, injuries and homelessness, heavy economic losses, and grief, fear and anxiety; Values unit, "Al-Faz'a in the Year of the First Haddama, 1934": in December 1934 unusual heavy rains fell on Kuwait — Al-Haddama, "the Demolisher" — collapsing many mud houses and displacing many families; people opened their homes to the affected families, the government made the few schools shelters, and all cooperated in providing food, water and clothing and repairing what could be repaired; the values unit's national-unity station dates the Haddama floods to 1934 and 1954; Unit 2 Lesson 4, Natural Disasters and their Effect on Humans: a natural disaster is a sudden event, with or without warning, causing heavy losses; its types are earthquakes, floods, hurricanes, volcanic eruptions and landslides; human losses — the 2004 Indian Ocean tsunami earthquake killed more than 230,000 people; economic losses — Hurricane Harvey in Texas in 2017 cost about 125 billion dollars; and recovery takes long, in material and psychological damage alike — Turkey's answer to the 1999 Izmit earthquake was quake-resistant buildings, evacuation points and psychological support. Say each part out loud as you do it, from the lesson.
+
+## Kuwait's way
+Say how Kuwait's book teaches this thing, in your own words, from the lesson.

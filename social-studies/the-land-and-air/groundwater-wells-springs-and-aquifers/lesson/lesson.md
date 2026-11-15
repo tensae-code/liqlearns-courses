@@ -1,0 +1,22 @@
+# Groundwater Wells Springs And Aquifers
+
+## Do it first
+
+Before you read on, say in your mind what you already think this is about: Part Three, Chapter 1: groundwater is of three kinds by source — fresh, from rain on the land, melted snow and water seeping from river channels; mineral, the hot water that comes with volcanic eruptions; and salty, seeped in from neighbouring seas and oceans; rain is the greatest source of all: part of it sinks, and the greater part of what sinks fills the gaps and pores of sedimentary rocks and the cracks of igneous rocks, gathering in reservoirs inside the water-bearing layers called aquifers; Part Three, Chapter 1: people reach groundwater at wells and springs — ordinary wells are dug down to the reservoir, and artesian wells once threw their water up unaided, though after over-use thousands of them now need machines to lift it; a spring is groundwater issuing by itself at the surface, steadily or in spells, cold or hot, fresh or salty, and springs appear where a river has cut its valley below the water level, where streams lost in limestone country come back to the surface, and where water sunk in the gravels of desert wadis is dammed by a barrier into a natural store — as Kuwait's book teaches it. Hold your idea; the lesson will test it.
+
+## Sub lesson 1 — Groundwater Wells Springs And Aquifers
+
+Kuwait's book, the *Kuwait Grade 11 Geography Principles G11 T1* (printed p. 97), teaches: Part Three, Chapter 1: groundwater is of three kinds by source — fresh, from rain on the land, melted snow and water seeping from river channels; mineral, the hot water that comes with volcanic eruptions; and salty, seeped in from neighbouring seas and oceans; rain is the greatest source of all: part of it sinks, and the greater part of what sinks fills the gaps and pores of sedimentary rocks and the cracks of igneous rocks, gathering in reservoirs inside the water-bearing layers called aquifers. Kuwait's book, the *Kuwait Grade 11 Geography Principles G11 T1* (printed p. 98), teaches: Part Three, Chapter 1: people reach groundwater at wells and springs — ordinary wells are dug down to the reservoir, and artesian wells once threw their water up unaided, though after over-use thousands of them now need machines to lift it; a spring is groundwater issuing by itself at the surface, steadily or in spells, cold or hot, fresh or salty, and springs appear where a river has cut its valley below the water level, where streams lost in limestone country come back to the surface, and where water sunk in the gravels of desert wadis is dammed by a barrier into a natural store. This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
+
+## Sub lesson 2 — Kuwait's way — the book's own teaching way
+
+Kuwait's own way (Kuwait Grade 11 Geography Principles G11 T1): Geography is taught at Grade 11 (literary track) as one half of a combined "Principles" book, in depth and from first principles: the science defined and related to seven other sciences, its information sources treated as a subject in themselves (map, field study, official statistics, previous studies, remote sensing), then the Earth in the universe, then physical geography organised by the four spheres — of which this Term 1 volume carries only the lithosphere chapter; the hydrosphere, atmosphere and biosphere chapters announced in the introduction and on the Part Three opener belong to the course's later volume. Kuwaiti anchors run through it: the worked time-zone example is a Kuwait–Canary Islands football broadcast, a partial solar eclipse "in Kuwait, March 2006" is set as a research task, and the statistics chapter is built on Kuwait's own census, annual abstract (issued since 1964) and civil-information guide. Dated content to note: the astronomy still counts nine planets — Pluto is listed among the planets (printed p. 53) and "2003-UB313 Xena" is taught as the ninth planet, discovered recently (printed p. 56) — content surviving from the book's 2016 first editions. This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
+
+## Say it to your companion
+
+Explain this lesson to your companion in your own words. Your companion asks you one hard question about it — answer from the lesson.
+
+## Do It Yourself
+
+1. The book's topic: do the activity in hands-on.md under this name.
+2. Kuwait's way: do the activity in hands-on.md under this name.

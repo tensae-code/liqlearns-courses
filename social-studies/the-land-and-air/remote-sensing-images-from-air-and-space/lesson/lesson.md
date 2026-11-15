@@ -1,0 +1,22 @@
+# Remote Sensing Images From Air And Space
+
+## Do it first
+
+Before you read on, say in your mind what you already think this is about: Part One, Chapter 2: remote sensing is "seeing what the naked eye cannot see" — a science that wins information and measurements about an area or a natural or human phenomenon by analysing data from a device that never touches the thing studied; satellites, aircraft, cameras and radar record Earth's phenomena by the waves they give off, from ultraviolet to radio waves, and the data are sent to ground stations and processed by computer into maps, images and digital data; Part One, Chapter 2: remote sensing at work — it eases the study of soil types, rock types and river drainage patterns and the search for mineral ores, petroleum and groundwater; it monitors the polluted water factories discharge into rivers, lakes and seas, the gases that harm the ozone layer, and oil-leak areas on coasts and in deep water, mapping the slicks and their movement; and its data are the fastest way to size up damage after hurricanes, floods, oil leaks and volcanoes, to map stricken places no one can reach, and to guide rescue and emergency services — as Kuwait's book teaches it. Hold your idea; the lesson will test it.
+
+## Sub lesson 1 — Remote Sensing Images From Air And Space
+
+Kuwait's book, the *Kuwait Grade 11 Geography Principles G11 T1* (printed p. 41), teaches: Part One, Chapter 2: remote sensing is "seeing what the naked eye cannot see" — a science that wins information and measurements about an area or a natural or human phenomenon by analysing data from a device that never touches the thing studied; satellites, aircraft, cameras and radar record Earth's phenomena by the waves they give off, from ultraviolet to radio waves, and the data are sent to ground stations and processed by computer into maps, images and digital data. Kuwait's book, the *Kuwait Grade 11 Geography Principles G11 T1* (printed p. 42), teaches: Part One, Chapter 2: remote sensing at work — it eases the study of soil types, rock types and river drainage patterns and the search for mineral ores, petroleum and groundwater; it monitors the polluted water factories discharge into rivers, lakes and seas, the gases that harm the ozone layer, and oil-leak areas on coasts and in deep water, mapping the slicks and their movement; and its data are the fastest way to size up damage after hurricanes, floods, oil leaks and volcanoes, to map stricken places no one can reach, and to guide rescue and emergency services. This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
+
+## Sub lesson 2 — Kuwait's way — the book's own teaching way
+
+Kuwait's own way (Kuwait Grade 11 Geography Principles G11 T1): Geography is taught at Grade 11 (literary track) as one half of a combined "Principles" book, in depth and from first principles: the science defined and related to seven other sciences, its information sources treated as a subject in themselves (map, field study, official statistics, previous studies, remote sensing), then the Earth in the universe, then physical geography organised by the four spheres — of which this Term 1 volume carries only the lithosphere chapter; the hydrosphere, atmosphere and biosphere chapters announced in the introduction and on the Part Three opener belong to the course's later volume. Kuwaiti anchors run through it: the worked time-zone example is a Kuwait–Canary Islands football broadcast, a partial solar eclipse "in Kuwait, March 2006" is set as a research task, and the statistics chapter is built on Kuwait's own census, annual abstract (issued since 1964) and civil-information guide. Dated content to note: the astronomy still counts nine planets — Pluto is listed among the planets (printed p. 53) and "2003-UB313 Xena" is taught as the ninth planet, discovered recently (printed p. 56) — content surviving from the book's 2016 first editions. This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
+
+## Say it to your companion
+
+Explain this lesson to your companion in your own words. Your companion asks you one hard question about it — answer from the lesson.
+
+## Do It Yourself
+
+1. The book's topic: do the activity in hands-on.md under this name.
+2. Kuwait's way: do the activity in hands-on.md under this name.

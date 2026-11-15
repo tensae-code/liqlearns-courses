@@ -1,0 +1,22 @@
+# The Islamic World Its Extent States And Location
+
+## Do it first
+
+Before you read on, say in your mind what you already think this is about: Unit 3 Lesson 1, The Geographic Location of the Islamic World States: the Islamic world holds 58 states on four continents — 27 in Asia, 27 in Africa, 2 in Europe (Albania and Bosnia-Herzegovina) and 2 recently in South America (Suriname and Guyana) — covering 22.2% of the world's land; Kazakhstan is the largest Islamic state by area and the Maldives the smallest; its location's traits are the meeting of the old world's continents and civilizations, control of many important waterways, diverse natural and economic resources, and diverse climate regions — as Kuwait's book teaches it. Hold your idea; the lesson will test it.
+
+## Sub lesson 1 — The Islamic World Its Extent States And Location
+
+Kuwait's book, the *Kuwait Grade 8 Social Studies G8 T1* (printed pp. 48–49), teaches: Unit 3 Lesson 1, The Geographic Location of the Islamic World States: the Islamic world holds 58 states on four continents — 27 in Asia, 27 in Africa, 2 in Europe (Albania and Bosnia-Herzegovina) and 2 recently in South America (Suriname and Guyana) — covering 22.2% of the world's land; Kazakhstan is the largest Islamic state by area and the Maldives the smallest; its location's traits are the meeting of the old world's continents and civilizations, control of many important waterways, diverse natural and economic resources, and diverse climate regions. This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
+
+## Sub lesson 2 — Kuwait's way — the book's own teaching way
+
+Kuwait's own way (Kuwait Grade 8 Social Studies G8 T1): Grade 8 widens the region a second time — from the Arab homeland (Grade 7) to the whole Islamic world — and reverses the balance: two History-led units on the Islamic state's rise and civilization come first, then two full Geography units (the natural environment; its effect on economy and society), a Civics unit on law in Kuwait, and the values unit "Stations with Good Kuwait". Non-Geography parts (named, not placed): History/religion — Unit 1, a historical glimpse of the Islamic state and its civilization: the heavenly religions and the Arab world's old civilizations, printed pp. 14–15; the rise of the Islamic state and the conquests movement, pp. 16–18; the concept and foundations of Islamic civilization, pp. 19–22 (the culture definition is placed below); its characteristics — faith and work, universality, tolerance, moderation — pp. 23–24. Civics/History — Unit 2 Lesson 1, the political and administrative manifestations: the caliphate, the ministry, the governorship, the diwans and the police, pp. 30–32. History of science — Unit 2 Lesson 4, the social, cultural and scientific manifestations: society's classes by profession, the status of women, the people of the covenant in farming, industry and trade, the scientific centres (the two Holy Mosques, Al-Azhar, Baghdad's House of Wisdom) and the translation of Muslim scholars' works in Europe, pp. 40–43 (the al-Idrisi map part is placed below). Civics — Unit 5, law as the basis of stability and building society in Kuwait: the definition, rules and aims of law; law and morality; the characteristics of the legal rule, pp. 85–96. Values — the values unit "Stations with Good Kuwait": the founding of Al-Mubarakiya school in 1911, Kuwait's first regular school, pp. 100–101; the etiquette of replies, pp. 102–103; the fragrance of neighbourliness, pp. 104–105; "What do you say, folks?" — consultation (shura) under Sheikh Salem Al-Mubarak, pp. 106–107 (the customs part is placed below). This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
+
+## Say it to your companion
+
+Explain this lesson to your companion in your own words. Your companion asks you one hard question about it — answer from the lesson.
+
+## Do It Yourself
+
+1. The book's topic: do the activity in hands-on.md under this name.
+2. Kuwait's way: do the activity in hands-on.md under this name.

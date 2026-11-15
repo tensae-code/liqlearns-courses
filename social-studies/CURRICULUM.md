@@ -4687,3 +4687,92 @@ stands on the teacher guide alone (where the Grade 7
 guide is among a new lesson's books it is cited as
 evidence alongside the student book(s)).
 Geography lessons: 1914 → 1943.
+
+
+## Kuwait — Geography expansion (merged 2026-11-15)
+186 placement lines stocked from Kuwait's 9 distinct
+books (17 records in the placements file's header count
+— 7 TSV release records duplicate 7 of the books.json
+records; books.json adds Grade 7 Term 1 and Grade 6
+Term 1; the Grade 6 Term 1 tsv-link record via Google
+Drive is the same book as the books.json Grade 6 Term 1
+record, counted once) — the eight Arabic combined
+Social Studies student books (Ministry of Education,
+State of Kuwait): Grades 6, 7, 8 and 9, Terms 1 and 2,
+and the Grade 11 Term 1 combined Principles of
+Geography and Economics student book (Geography parts
+placed; the Economics half, printed pp. 101–156, is
+named in the placements file's Book 9 header only, not
+placed). All 9 books are COMPLETE student books — there
+are no teacher guides, so every placed book counts
+toward acceptance. Read basis, carried exactly as the
+placements file records it: grab.py via the GitHub API
+failed repeatedly on 2026-11-14 (RemoteDisconnected /
+hangs — proxy latency ~30s per API call), so the books
+were read from their recorded mirror sources
+(kw.afedne.com / Google Drive download_url recorded in
+the staging books.json, or elibrary.moe.edu.kw),
+verified by byte size against the books.json
+file_size_bytes and by cover — the read-basis is not
+upgraded. Carried exactly as the placements file labels
+them: Book 1's Drive file (50,971,017 bytes) is
+slightly larger than the staging record (50,767,798
+bytes) — a slightly different build of the same book,
+title page, contents and all four units matching the
+record; Book 9's staging record title ("Geography
+Principles") names only the Geography half of the
+combined book; Book 9 is a scanned-image book read from
+100-DPI renders, its astronomy still counting nine
+planets (Pluto listed among the planets, printed p. 53;
+"2003-UB313 Xena" taught as the ninth planet, printed
+p. 56) — dated content surviving from the book's 2016
+first editions, taught as filed; Book 5's text layer
+carries duplicated overlapping text runs on printed pp.
+68 and 79 in the ministry's file; Book 6 counts the OIC
+at 57 member states while Book 5 counted 58 Islamic
+states — organisation membership against a geographic
+count. History, Civics and values parts are named in
+each book's header in the placements file and are NOT
+placed. The placements file's own per-book tallies (16
++ 15 + 11 + 26 + 19 + 15 + 20 + 15 + 49) sum to 186 and
+agree with the line-by-line count book by book — no
+tally discrepancy; all 186 lines were stocked, none
+excluded. Stocked into standing lessons (150 placements
+across 64 lessons), every one at the slug the
+placements file names — no slug remappings. 18 NEW
+lessons built (36 placements) — **Earth and Space**:
+The Moon Phases Eclipses And Tides (printed p. 68;
+printed pp. 68–69); **The Land and Air**:
+Desertification And How Land Becomes Desert (printed
+pp. 51–52; printed pp. 75–76), Earthquakes And Floods
+Natural Hazards (printed pp. 52–53; printed pp. 98,
+102; printed pp. 44–47), Fieldwork And Official
+Statistics Geographic Sources (printed p. 38; printed
+pp. 39–40), Groundwater Wells Springs And Aquifers
+(printed p. 97; printed p. 98), Remote Sensing Images
+From Air And Space (printed p. 41; printed p. 42),
+Vegetation And Animal Life Of The Arab World (printed
+pp. 26–27); **Population, Transport and Maps**: Arab
+Gulf States Location And Strategic Importance (printed
+pp. 18–21; printed pp. 18–20; printed p. 31), Arab
+World Strategic Waterways Suez Hormuz Bab El Mandeb
+(printed pp. 41–42; printed p. 55; printed p. 49), Gulf
+Population Structure Imbalance And Its Effects (printed
+pp. 43–45), Political Borders Land And Sea (printed pp.
+40–41), The Arab World Its Extent States And Shared
+Traits (printed pp. 21–22), The Islamic World Its
+Extent States And Location (printed pp. 48–49);
+**People and Resources**: Gulf Water Resources
+Groundwater Desalination And Treated Wastewater
+(printed pp. 33–35; printed pp. 78–79), Oil And Natural
+Gas In The Gulf (printed pp. 60–63; printed pp. 34–35;
+printed pp. 43–44; printed pp. 67–68; printed pp.
+59–60), Shared Groundwater Aquifers The Nubian
+Reservoir (printed p. 42); **Culture and Work**: Pearl
+Diving In The Gulf (printed pp. 93–96); **Global
+Issues**: Food And Water Security In The Dry Gulf
+(printed p. 72; printed p. 26; printed pp. 81–82) — all
+18 of the new lessons are taught in 1 country (Kuwait),
+8 questions each; all stand on student books (Kuwait
+has no teacher guides in this wave).
+Geography lessons: 1943 → 1961.

@@ -1,0 +1,19 @@
+# Vegetation And Animal Life Of The Arab World — multiple choice
+
+Pick the one right answer.
+
+**1. (Sub lesson 1)** The first part of this lesson is —
+a) Vegetation And Animal Life Of The Arab World  b) learning the alphabet  c) counting to ten
+**Answer: a) Vegetation And Animal Life Of The Arab World**
+
+**2. (Sub lesson 1)** This lesson is mainly about —
+a) Unit 1 Lesson 3, Plant Life and its Effect on Animal Life in the Arab Homeland: the vegetation belts — tropical forests (huge trees with broad dense leaves, ebony; Yemen and Somalia) and temperate forests (oak; Lebanon and Tunisia, shedding leaves in winter); hot savanna grasses (long grasses where livestock are raised; Sudan) and temperate steppe grasses (shorter grasses used for ropes and mats; Morocco); desert plants (arfaj, ramth, athal) spread over most Arab states, used for grazing animals and herbal medicine; and the animal life matched to each cover — monkeys, squirrels and the lynx climbing in the forests, giraffes, elephants and lions ranging the grasslands, wolves, gazelles and lizards hiding and enduring drought among the desert plants  b) ancient kings only  c) the Moon's phases
+**Answer: a) Unit 1 Lesson 3, Plant Life and its Effect on Animal Life in the Arab Homeland: the vegetation belts — tropical forests (huge trees with broad dense leaves, ebony; Yemen and Somalia) and temperate forests (oak; Lebanon and Tunisia, shedding leaves in winter); hot savanna grasses (long grasses where livestock are raised; Sudan) and temperate steppe grasses (shorter grasses used for ropes and mats; Morocco); desert plants (arfaj, ramth, athal) spread over most Arab states, used for grazing animals and herbal medicine; and the animal life matched to each cover — monkeys, squirrels and the lynx climbing in the forests, giraffes, elephants and lions ranging the grasslands, wolves, gazelles and lizards hiding and enduring drought among the desert plants**
+
+**3. (Sub lesson 2)** The second part of this lesson is —
+a) Kuwait's way — the book's own teaching way  b) learning to swim  c) telling the time
+**Answer: a) Kuwait's way — the book's own teaching way**
+
+**4. (Sub lesson 2)** Which of these is true, from the lesson?
+a) This lesson teaches Unit 1 Lesson 3, Plant Life and its Effect on Animal Life in the Arab Homeland: the vegetation belts — tropical forests (huge trees with broad dense leaves, ebony; Yemen and Somalia) and temperate forests (oak; Lebanon and Tunisia, shedding leaves in winter); hot savanna grasses (long grasses where livestock are raised; Sudan) and temperate steppe grasses (shorter grasses used for ropes and mats; Morocco); desert plants (arfaj, ramth, athal) spread over most Arab states, used for grazing animals and herbal medicine; and the animal life matched to each cover — monkeys, squirrels and the lynx climbing in the forests, giraffes, elephants and lions ranging the grasslands, wolves, gazelles and lizards hiding and enduring drought among the desert plants.  b) Kuwait's book never studies this thing.  c) This lesson teaches nothing about its topic
+**Answer: a) This lesson teaches Unit 1 Lesson 3, Plant Life and its Effect on Animal Life in the Arab Homeland: the vegetation belts — tropical forests (huge trees with broad dense leaves, ebony; Yemen and Somalia) and temperate forests (oak; Lebanon and Tunisia, shedding leaves in winter); hot savanna grasses (long grasses where livestock are raised; Sudan) and temperate steppe grasses (shorter grasses used for ropes and mats; Morocco); desert plants (arfaj, ramth, athal) spread over most Arab states, used for grazing animals and herbal medicine; and the animal life matched to each cover — monkeys, squirrels and the lynx climbing in the forests, giraffes, elephants and lions ranging the grasslands, wolves, gazelles and lizards hiding and enduring drought among the desert plants.**

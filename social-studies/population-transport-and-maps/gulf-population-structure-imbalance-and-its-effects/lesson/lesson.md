@@ -1,0 +1,22 @@
+# Gulf Population Structure Imbalance And Its Effects
+
+## Do it first
+
+Before you read on, say in your mind what you already think this is about: Unit 2 Lesson 2, Population Challenges in the Arab Gulf States: the imbalance in population structure — a large gap between groups of the population by nationality, age and sex; in 2022–2023 citizens were about 47% and non-citizens about 53% of the Gulf's people; its effects are security, social, economic (draining financial resources, unemployment among national workers), health and cultural (weakening of the Arabic language); the states' efforts — training citizens, linking education outputs to the labour market, drawing the private sector into employing national labour — as Kuwait's book teaches it. Hold your idea; the lesson will test it.
+
+## Sub lesson 1 — Gulf Population Structure Imbalance And Its Effects
+
+Kuwait's book, the *Kuwait Grade 6 Social Studies G6 T2* (printed pp. 43–45), teaches: Unit 2 Lesson 2, Population Challenges in the Arab Gulf States: the imbalance in population structure — a large gap between groups of the population by nationality, age and sex; in 2022–2023 citizens were about 47% and non-citizens about 53% of the Gulf's people; its effects are security, social, economic (draining financial resources, unemployment among national workers), health and cultural (weakening of the Arabic language); the states' efforts — training citizens, linking education outputs to the labour market, drawing the private sector into employing national labour. This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
+
+## Sub lesson 2 — Kuwait's way — the book's own teaching way
+
+Kuwait's own way (Kuwait Grade 6 Social Studies G6 T2): Term 2 turns from the region's nature (Term 1) to its people and its wealth. Unit 1 is History-led — colonialism to independence — with a single Geography lesson on the economic importance of the Gulf's location; Unit 2 (Geography/Civics) covers population growth, the population-structure imbalance and cultural similarity; Unit 3 (Geography) covers the economic resources — energy, agriculture, animal and fish wealth, industry and trade — and the challenges of development; Unit 4 (Civics) covers GCC cooperation. The same architecture as Term 1: a standards page per unit, lessons, a unit project and a full assessment, a values unit ("Stations with Good Kuwait") and a maps appendix. Non-Geography parts (named, not placed): History — Unit 1 Lesson 2, European colonial rivalry over the Gulf (Portuguese, Dutch, British), printed pp. 21–23; Lesson 3, the 1899 protection agreement between Kuwait and Britain, pp. 24–25; Lesson 4, the independence of Kuwait (19 June 1961) and the Gulf States, pp. 26–28. Civics — Unit 1 Lesson 5, the development of political life in Kuwait: the 1962 constitution, sovereignty, democracy, human rights, women's political rights, pp. 29–31. ICT/digital skills (outside this wave's scope) — Unit 2 Lesson 4, the digital culture of the Gulf person: artificial intelligence and its uses, cybersecurity and Kuwait's national cybersecurity centre, pp. 49–51. Civics/media — Unit 2 Lesson 5, cultural awareness: cultural invasion, social media's benefits and harms, the cybercrime law, pp. 52–53. Civics — Unit 4 Lesson 1, the Gulf Cooperation Council: six member states, founded 25 May 1981 in Abu Dhabi, headquarters Riyadh, pp. 82–83; Lesson 2, joint security and defence cooperation (Peninsula Shield), pp. 84–85; Lesson 4, joint cultural and educational cooperation (Arab Bureau of Education, Riyadh; Joint Programme Production Institution, Kuwait), pp. 89–91; Lesson 5, future aspirations of the GCC states and Kuwait Vision 2035, pp. 92–94. Values — the values unit "Stations with Good Kuwait": Bu Tbeila, the Ramadan drummer of old Kuwait, pp. 100–101; etiquette of sitting in the diwaniya, pp. 102–103; a helping hand and a reassured heart, pp. 104–105; a kind word and a gentle reply, pp. 106–107. The maps appendix (p. 108) is present only as instructions for fitting a transparent sleeve over the appendix maps. This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
+
+## Say it to your companion
+
+Explain this lesson to your companion in your own words. Your companion asks you one hard question about it — answer from the lesson.
+
+## Do It Yourself
+
+1. The book's topic: do the activity in hands-on.md under this name.
+2. Kuwait's way: do the activity in hands-on.md under this name.

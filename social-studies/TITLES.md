@@ -103,7 +103,7 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **1943**
+Geography lessons across the eight Geography titles: **1961**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -1326,3 +1326,25 @@ Countries.
 (All 29 of the new lessons are taught in 1 country
 (Mauritania); none stands on Mauritania's teacher guide
 alone.)
+
++18 for Kuwait, 2026-11-15 — Earth and Space: The Moon
+Phases Eclipses And Tides; The Land and Air:
+Desertification And How Land Becomes Desert,
+Earthquakes And Floods Natural Hazards, Fieldwork And
+Official Statistics Geographic Sources, Groundwater
+Wells Springs And Aquifers, Remote Sensing Images From
+Air And Space and Vegetation And Animal Life Of The
+Arab World; Population, Transport and Maps: Arab Gulf
+States Location And Strategic Importance, Arab World
+Strategic Waterways Suez Hormuz Bab El Mandeb, Gulf
+Population Structure Imbalance And Its Effects,
+Political Borders Land And Sea, The Arab World Its
+Extent States And Shared Traits and The Islamic World
+Its Extent States And Location; People and Resources:
+Gulf Water Resources Groundwater Desalination And
+Treated Wastewater, Oil And Natural Gas In The Gulf and
+Shared Groundwater Aquifers The Nubian Reservoir;
+Culture and Work: Pearl Diving In The Gulf; Global
+Issues: Food And Water Security In The Dry Gulf.
+(All 18 of the new lessons are taught in 1 country
+(Kuwait); all stand on student books.)
