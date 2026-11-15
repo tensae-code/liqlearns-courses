@@ -1,6 +1,6 @@
 # Sources — Archaeology, palaeontology, anthropology — who studies prehistory
 
-countries: Ethiopia, Gambia, Turkey, Bangladesh, Australia
+countries: Ethiopia, Gambia, Turkey, Bangladesh, Australia, Bhutan
 
 **Book 1:** *History, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, Addis Ababa, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-064-2, 210 printed pp. Printed page = PDF page − 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g09-student-placements.md
 
@@ -93,3 +93,15 @@ Haiti's own way (Grade 7, Nomades et sédentaires): prehistory is taught as live
 Australia's own way (Australia Retroactive 1 (Stage 4)): The NSW Stage 4 course is built as depth studies around source work: every topic opens with an overview, works through sources and a research project (a virtual site study, a debate in the ecclesia, an interview with Genghis Khan), and Australia's own past enters through ancient-Australia sources and the closing colonisation-and-contact study, where Aboriginal dispossession is taught beside America's Trail of Tears. That way is stocked here as the way Australia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 5 countries (Ethiopia, Gambia, Turkey, Bangladesh, Australia).**
+
+## History expansion (2026-11-15) — Bhutan stocked
+
+**Book (Bhutan bt-g07):** Title as printed: Bhutan HISTORY — Civics & Citizenship Education, Class VII Grade: Class VII (student: STUDENT) Publisher: Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Royal Government of Bhutan, Thimphu; Provisional Edition 2021, Copyright 2023, Reprint 2024; ISBN 978-99936-0-530-0 PDF pages: 82 (cover/title page verified against the record title; byte size 9,332,795 and page count match the books.json record exactly) Route note: the books.json tree path returned HTTP 404 via grab.py tree; the same book was read via its TSV twin record, the mid-size-books-5 release asset — a library debt (see log). Verdict: COMPLETE Tally: 15 placements — 2 to existing lessons, 13 NEW LESSON NEEDED Bhutan's own way: from Class VII History becomes a subject of its own, told as a single national story in chronological order — prehistory from stones and spoken tales, then heritage, then saint and hero biographies, then the foreign encounter — with Civics appended as the present-day frame. Non-History parts named, not placed: Chapter Seven State and Government (Civics, printed pp.61-66), Chapter Eight Civics and Citizenship (Civics, pp.67-76) Placements at liqlearns-courses-work/expansion-history-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter One, Material Culture — story beats: with no written records before the 7th century, Bhutan's first people are traced through namchag stone adzes dated 2000-1500 BC, household fossils and megaliths like the Nabji oath pillar, sorting the finds into Stone, Bronze and Iron Age periods (History expansion, 2026-11-15; original placement slug: first-steps/who-studies-prehistory) | Bhutan, *Bhutan HISTORY — Civics & Citizenship Education, Class VII*, printed p. 2 |
+
+Bhutan's own way (Bhutan History, Civics & Citizenship Education Class VII): from Class VII History becomes a subject of its own, told as a single national story in chronological order — prehistory from stones and spoken tales, then heritage, then saint and hero biographies, then the foreign encounter — with Civics appended as the present-day frame. That way is stocked here as the way Bhutan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 6 countries (Ethiopia, Gambia, Turkey, Bangladesh, Australia, Bhutan).**

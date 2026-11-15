@@ -10209,3 +10209,84 @@ conscription's division, the hushed-up Darwin
 bombing, the Freedom Ride, Mabo, the Apology and
 Maralinga.
 History lessons: 570 → 594.
+
+## History expansion — Bhutan — built 2026-11-15
+
+41 new lessons, 212 questions: **The Ancient World**:
+Bhutan — the many names of the land
+(ancient-world/bhutan-the-many-names-of-the-land), Bhutan — Guru Rinpoche brings Buddhism
+(ancient-world/bhutan-guru-rinpoche-brings-buddhism), Bhutan — oral tradition and earliest stories
+(ancient-world/bhutan-oral-tradition-and-earliest-stories), Bhutan — first Buddhist temples
+(ancient-world/bhutan-first-buddhist-temples), Bhutan — early inhabitants, clans and livelihoods
+(ancient-world/bhutan-early-inhabitants-clans-and-livelihoods), Bhutan — Zorig Chusum, the thirteen arts
+(ancient-world/bhutan-zorig-chusum-thirteen-arts), Bhutan — Pema Lingpa, the treasure revealer
+(ancient-world/bhutan-pema-lingpa-treasure-revealer), Bhutan — Pema Lingpa, terma and legacy
+(ancient-world/bhutan-pema-lingpa-terma-and-legacy), Bhutan — pre-Buddhist Bon and animism
+(ancient-world/bhutan-pre-buddhist-bon-and-animism), Bhutan — Buddhist schools arrive
+(ancient-world/bhutan-buddhist-schools-arrive), Bhutan — the dzong system begins
+(ancient-world/bhutan-dzong-system-begins), Bhutan — Pema Lingpa lineages
+(ancient-world/bhutan-pema-lingpa-lineages);
+**The Modern World**: Bhutan — the Zhabdrung arrives and unifies
+(modern-world/bhutan-zhabdrung-arrives-and-unifies), Bhutan — the Zhabdrung's dual system and dzongs
+(modern-world/bhutan-zhabdrung-dual-system-and-dzongs), Bhutan — the Zhabdrung's legal legacy
+(modern-world/bhutan-zhabdrung-legal-legacy), Bhutan — the Zhabdrung repels Tibetan invasions
+(modern-world/bhutan-zhabdrung-repels-tibetan-invasions), Bhutan — dzongs, fortresses of unification
+(modern-world/bhutan-dzongs-fortresses-of-unification), Bhutan — Jigme Namgyel's rise to Trongsa
+(modern-world/bhutan-jigme-namgyel-rise-to-trongsa), Bhutan — Jigme Namgyel the unifier
+(modern-world/bhutan-jigme-namgyel-unifier), Bhutan — Jigme Namgyel becomes Druk Desi
+(modern-world/bhutan-jigme-namgyel-druk-desi), Bhutan — Cooch Behar and first British contact
+(modern-world/bhutan-cooch-behar-and-first-british-contact), Bhutan — British missions
+(modern-world/bhutan-british-missions), Bhutan — the Duar War, 1864–65
+(modern-world/bhutan-duar-war-1864-65), Bhutan — the Treaty of Sinchula, 1865
+(modern-world/bhutan-treaty-of-sinchula-1865), Bhutan — Ugyen Wangchuck and the Battle of Changlimithang
+(modern-world/bhutan-ugyen-wangchuck-battle-of-changlimithang), Bhutan — Ugyen Wangchuck, diplomat and knight
+(modern-world/bhutan-ugyen-wangchuck-diplomat-and-knight), Bhutan — hereditary monarchy begins, 1907
+(modern-world/bhutan-hereditary-monarchy-begins-1907), Bhutan — the Treaty of Punakha, 1910
+(modern-world/bhutan-treaty-of-punakha-1910), Bhutan — Jigme Wangchuck the consolidator
+(modern-world/bhutan-jigme-wangchuck-the-consolidator), Bhutan — Jigme Wangchuck's tax reforms
+(modern-world/bhutan-jigme-wangchuck-tax-reforms), Bhutan — the Indo-Bhutan Treaty, 1949
+(modern-world/bhutan-indo-bhutan-treaty-1949), Bhutan — Jigme Dorji Wangchuck's reforms
+(modern-world/bhutan-jigme-dorji-wangchuck-reforms), Bhutan — Nehru's visit, 1958, and the opening
+(modern-world/bhutan-nehru-visit-1958-and-the-opening), Bhutan — the first Five-Year Plan, 1961
+(modern-world/bhutan-first-five-year-plan-1961), Bhutan — joins the United Nations, 1971
+(modern-world/bhutan-joins-the-united-nations-1971), Bhutan — the Fourth King and Gross National Happiness
+(modern-world/bhutan-fourth-king-and-gnh), Bhutan — decentralisation, 1981
+(modern-world/bhutan-decentralisation-1981), Bhutan — Operation All Clear, 2003
+(modern-world/bhutan-operation-all-clear-2003), Bhutan — constitution and democracy, 2008
+(modern-world/bhutan-constitution-and-democracy-2008), Bhutan — democratic constitutional monarchy, 2008
+(modern-world/bhutan-democratic-constitutional-monarchy-2008), Bhutan — the India friendship treaty, 2007
+(modern-world/bhutan-india-friendship-treaty-2007)
+— 61 placements stocked in all from Bhutan's seven
+student books: *SOCIAL STUDIES CLASS IV* (CSCD, Provisional Edition 2019, Reprint 2025, ISBN 978-99936-0-485-5, 80 PDF pp.; 4 placements), *SOCIAL STUDIES CLASS V* (CSCD, Provisional Edition 2020, Reprint 2025, ISBN 978-99936-0-493-6, 78 PDF pp.; 3 placements), *SOCIAL STUDIES CLASS VI* (CSCD, Provisional Edition 2021, Revised 2025, ISBN not legible in the scan, 68 PDF pp.; 2 placements), *Bhutan HISTORY — Civics & Citizenship Education, Class VII* (DSE/MoESD, Provisional Edition 2021, Copyright 2023, Reprint 2024, ISBN 978-99936-0-530-0, 82 PDF pp.; 15 placements), *Bhutan HISTORY — Civics & Citizenship Education, Class VIII* (DSE/MoESD, Provisional Edition 2021, Copyright 2023, Reprint 2023, no ISBN printed, 88 PDF pp.; 14 placements), *Bhutan HISTORY — Civics and Citizenship Education, Class IX* (DSE/MoESD, Provisional Edition 2023, Copyright 2023, Reprint 2024, no ISBN printed, 78 PDF pp.; 11 placements) and *Bhutan HISTORY — Civics and Citizenship Education, Class X* (DSE/MoESD, Provisional Edition 2024, Copyright 2024, no ISBN printed, 116 PDF pp.; 12 placements).
+8 placements were stocked into 4 existing lessons
+(What history is — two placements, from Classes IV
+and VIII; Heritage — what it is and why it matters
+— four placements, from Classes VI, VII, IX and X;
+Who studies prehistory, and World religions — the
+five main faiths). All seven books are student
+books, so Bhutan counts normally everywhere it is
+newly stocked: What history is rises 9 → 10, Who
+studies prehistory 5 → 6, and World religions — the
+five main faiths 1 → 2. Heritage — what it is and
+why it matters already named and counted Bhutan
+from an earlier stocking, so its acceptance count
+stays 24; the four new placements add Bhutanese
+depth, not a new country. Bhutan's own way is
+stocked inside the lessons: History enters inside
+integrated Social Studies as the story of the
+child's own home, country and faith, becomes a
+subject of its own from Class VII as a single
+national story in chronological order — prehistory
+from stones and spoken tales, heritage, saint and
+hero biographies, the foreign encounter — is
+re-told at Class VIII with open source-criticism,
+turns at Class IX to kings as reformers judged by
+what they dismantled or built, and closes at
+Class X with law codes, Gross National Happiness,
+a king who gives away his own power, and the
+constitution signed in 2008. The books'
+non-History parts (Geography, Civics, Economics
+and environment chapters named in the placements
+file) stay named in the stocked sources, not
+placed.
+History lessons: 594 → 635.

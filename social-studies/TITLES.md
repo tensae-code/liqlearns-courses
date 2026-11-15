@@ -2581,7 +2581,7 @@ Plants and Animals.
 
 ## History expansion totals
 
-History lessons across the History titles: **594**
+History lessons across the History titles: **635**
 (248 before the expansion; +1 for Guyana, 2026-11-15 —
 Modern World: Guyana — our nation: independence and
 symbols. All 3 Guyana placements stand on Guyana's
@@ -3322,3 +3322,38 @@ Australia — making a nation carries two placements
 as its two sub lessons (nation-making, printed
 p. 111; Indigenous contact and non-European
 experiences, printed p. 118).
+
++41 for Bhutan, 2026-11-15 — Ancient World:
+the many names of the land, Guru Rinpoche brings Buddhism, oral tradition and earliest stories, first Buddhist temples, early inhabitants, clans and livelihoods, Zorig Chusum, the thirteen arts, Pema Lingpa, the treasure revealer, Pema Lingpa, terma and legacy, pre-Buddhist Bon and animism, Buddhist schools arrive, the dzong system begins, Pema Lingpa lineages; Modern
+World: the Zhabdrung arrives and unifies, the Zhabdrung's dual system and dzongs, the Zhabdrung's legal legacy, the Zhabdrung repels Tibetan invasions, dzongs, fortresses of unification, Jigme Namgyel's rise to Trongsa, Jigme Namgyel the unifier, Jigme Namgyel becomes Druk Desi, Cooch Behar and first British contact, British missions, the Duar War, 1864–65, the Treaty of Sinchula, 1865, Ugyen Wangchuck and the Battle of Changlimithang, Ugyen Wangchuck, diplomat and knight, hereditary monarchy begins, 1907, the Treaty of Punakha, 1910, Jigme Wangchuck the consolidator, Jigme Wangchuck's tax reforms, the Indo-Bhutan Treaty, 1949, Jigme Dorji Wangchuck's reforms, Nehru's visit, 1958, and the opening, the first Five-Year Plan, 1961, joins the United Nations, 1971, the Fourth King and Gross National Happiness, decentralisation, 1981, Operation All Clear, 2003, constitution and democracy, 2008, democratic constitutional monarchy, 2008, the India friendship treaty, 2007. All 61 Bhutan placements stand
+on Bhutan's seven student books (*SOCIAL STUDIES
+CLASS IV*, CSCD, 2019/Reprint 2025, ISBN
+978-99936-0-485-5, 4 placements; *SOCIAL STUDIES
+CLASS V*, CSCD, 2020/Reprint 2025, ISBN
+978-99936-0-493-6, 3 placements; *SOCIAL STUDIES
+CLASS VI*, CSCD, 2021/Revised 2025, 2 placements;
+*Bhutan HISTORY — Civics & Citizenship Education,
+Class VII*, DSE/MoESD, 2021/Copyright 2023, ISBN
+978-99936-0-530-0, 15 placements; *Class VIII*,
+2021/Copyright 2023, 14 placements; *Class IX*,
+2023, 11 placements; *Class X*, 2024, 12
+placements), counted in acceptance. The 8
+placements stocked into 4 existing lessons rise
+with Bhutan added: What history is 9 → 10 (two
+placements, Classes IV and VIII), Who studies
+prehistory 5 → 6, and World religions — the five
+main faiths 1 → 2. Heritage — what it is and why
+it matters keeps its count at 24: Bhutan was
+already named and counted there from an earlier
+stocking, and its four new placements (Classes
+VI, VII, IX and X) add depth, not a new country.
+Ten new lessons carry more than one placement as
+their sub lessons: the many names of the land
+(2), Guru Rinpoche brings Buddhism (2), the
+Zhabdrung arrives and unifies (3), the
+Zhabdrung's dual system and dzongs (3), hereditary
+monarchy begins, 1907 (2), democratic
+constitutional monarchy, 2008 (2), first Buddhist
+temples (2), Jigme Namgyel's rise to Trongsa (2),
+Cooch Behar and first British contact (2), and
+the Treaty of Sinchula, 1865 (2).

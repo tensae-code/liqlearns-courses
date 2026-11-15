@@ -1,6 +1,6 @@
 # Sources — What history is
 
-countries: Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia
+countries: Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -180,3 +180,23 @@ Haiti's own way (Grade 7, Faire de l'histoire): History opens not with dates but
 Australia's own way (Australia Retroactive 1 (Stage 4)): The NSW Stage 4 course is built as depth studies around source work: every topic opens with an overview, works through sources and a research project (a virtual site study, a debate in the ecclesia, an interview with Genghis Khan), and Australia's own past enters through ancient-Australia sources and the closing colonisation-and-contact study, where Aboriginal dispossession is taught beside America's Trail of Tears. That way is stocked here as the way Australia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 9 countries (Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia).**
+
+## History expansion (2026-11-15) — Bhutan stocked
+
+**Book (Bhutan bt-g04):** Title as printed: SOCIAL STUDIES CLASS IV Grade: Class IV (student: STUDENT) Publisher: Center for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Provisional Edition 2019, Reprint 2025; ISBN 978-99936-0-485-5 PDF pages: 80 (cover/title page verified against the record title) Verdict: COMPLETE Tally: 4 placements — 2 to existing lessons, 2 NEW LESSON NEEDED Bhutan's own way: History enters inside integrated Social Studies as the story of the child's own home, country and faith — first what history is, then why the land itself has had many names, then the two founding spiritual figures. Non-History parts named, not placed: Ch.1 My Home / family (Civics/social, printed pp.1-8), Ch.2 Landforms (Geography, pp.9-14), Ch.3 Weather (Geography, pp.15-22), Ch.4 Forest (Geography/environment, pp.23-26), Ch.7 Local Government (Civics, pp.37-40), Ch.8 People and Social Well-being (Civics/health, pp.41-46), Ch.9 People and the Environment (pp.47-52), Ch.10 Hazard and Disaster (Geography, pp.53-60), Ch.11 Earning a Living (Economics, pp.61-70) Placements at liqlearns-courses-work/expansion-history-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Chapter 5 introduction, Our Country — story beats: history is introduced as the tool that explains what happened, when, why and how, so the present can be understood and the future planned (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Bhutan, *SOCIAL STUDIES CLASS IV*, printed p. 27 |
+
+Bhutan's own way (Bhutan Social Studies Class IV): History enters inside integrated Social Studies as the story of the child's own home, country and faith — first what history is, then why the land itself has had many names, then the two founding spiritual figures. That way is stocked here as the way Bhutan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book (Bhutan bt-g08):** Title as printed: Bhutan HISTORY — Civics & Citizenship Education, Class VIII Grade: Class VIII (student: STUDENT) Publisher: Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Royal Government of Bhutan, Thimphu; Provisional Edition 2021, Copyright 2023, Reprint 2023; no ISBN printed PDF pages: 88 (cover/title page verified against the record title; byte size 13,074,449 and page count match the books.json record exactly) Route note: the books.json tree path returned HTTP 404 via grab.py tree; the same book was read via its TSV twin record, the mid-size-books-5 release asset — a library debt (see log). Verdict: COMPLETE Tally: 14 placements — 1 to existing lessons, 13 NEW LESSON NEEDED Bhutan's own way: Class VIII re-tells the national story at greater depth and with open source-criticism — rival incarnation claims, competing etymologies and oral accounts are weighed, not just narrated — before the story reaches the first King. Non-History parts named, not placed: Chapter Six Good Citizenship (Civics, printed pp.75-87) Placements at liqlearns-courses-work/expansion-history-2026-11-15/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan part — Introduction — story beats: history is defined as the living past, an attempt by people through the centuries to reconstruct, describe and interpret their own past from sources, historiography and multiple interpretations (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Bhutan, *Bhutan HISTORY — Civics & Citizenship Education, Class VIII*, printed p. vii (Introduction) |
+
+Bhutan's own way (Bhutan History, Civics & Citizenship Education Class VIII): Class VIII re-tells the national story at greater depth and with open source-criticism — rival incarnation claims, competing etymologies and oral accounts are weighed, not just narrated — before the story reaches the first King. That way is stocked here as the way Bhutan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 10 countries (Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan).**
