@@ -9555,3 +9555,108 @@ War — causes 1 → 2, The Second World War — causes
 2 → 3, The Second World War — the Pacific and the
 results 2 → 3, and The Cold War 1 → 2. Turkey is a
 partial-class country. History lessons: 446 → 472.
+
+## History expansion — Bangladesh — built 2026-11-15
+
+13 new lessons, 104 questions: in **The Ancient
+World**: Bengal — a river land and its old names
+(ancient-world/bengal-a-river-land-and-its-old-names),
+Ancient Bengal — Pandu Rajar Dhibi and
+Mahasthangarh
+(ancient-world/ancient-bengal-pandu-rajar-dhibi-and-mahasthangarh),
+The Urban Revolution — the first cities
+(ancient-world/the-urban-revolution-the-first-cities),
+Bengal's textiles, boats and ports
+(ancient-world/bengals-textiles-boats-and-ports),
+Bengal's social and cultural history
+(ancient-world/bengals-social-and-cultural-history)
+and Bengal's political history — from the Mauryas to
+the Palas
+(ancient-world/bengals-political-history-from-the-mauryas-to-the-palas);
+in **The Modern World**: Bangladesh Liberation War
+1971 — in our locality
+(modern-world/bangladesh-liberation-war-1971-in-our-locality),
+The emergence of Bangladesh, 1971
+(modern-world/the-emergence-of-bangladesh-1971),
+Bangabandhu and the road to 1971
+(modern-world/bangabandhu-and-the-road-to-1971),
+Foreign friends of the Liberation War
+(modern-world/foreign-friends-of-the-liberation-war),
+British rule in Bengal — two verdicts
+(modern-world/british-rule-in-bengal-two-verdicts),
+Bengal — Sultanate, Mughals and the Baro Bhuiyans
+(modern-world/bengal-sultanate-mughals-and-the-baro-bhuiyans)
+and Bengal resists the Company and the Raj
+(modern-world/bengal-resists-the-company-and-the-raj)
+— 46 placements stocked in all from Bangladesh's
+four student books (each in English and Bangla
+parallel editions, National Curriculum 2022, NCTB,
+Dhaka; the English editions read in full, the Bangla
+editions spot-checked and confirmed identical in
+content, each book placed once with both editions
+named): *History and Social Science, Class Six*
+(2022, reprint 2023; 15 placements: what history is,
+the ruined building, centuries/BC/AD and the
+neighbourhood inquiry, printed pp. 32–35, into What
+history is, From evidence to a written history,
+Dating the past and Find history in your own
+locality; Bengal as a region and its landforms,
+pp. 50–58, fossils, stone tools and the Agricultural
+Revolution, pp. 64–65, the Urban Revolution and the
+peoples of South Asia, p. 66, into new lessons, Who
+studies prehistory, From stone tools to farming and
+Ancient civilisations — India; the killing field and
+Azad, p. 82, the locality inquiry project, p. 90,
+and the emergence of Bangladesh, p. 105, into new
+lessons and Find history in your own locality);
+*History and Social Science, Class Seven* (2023; 10
+placements: economic history — what it is, its
+periodisation and its sources, pp. 20–26, into What
+history is, Dating the past and From evidence to a
+written history; Bengal's agricultural economy,
+p. 49, textiles, boats, trade and money, pp. 56–59,
+the long arc, p. 65, Bangabandhu, p. 70, and the
+foreign friends — journalists, p. 75, and refugees,
+diplomacy and song, p. 84, into new lessons);
+*History and Social Science, Class Eight* (2023; 10
+placements: Mujib's early struggle, p. 32, the
+spirit, homecoming and rebuilding, p. 44, into new
+lessons; sources of social and cultural history,
+p. 49, and deciphering, p. 55, into From evidence to
+a written history and Historiography; the peoples
+who made Bengal's culture, p. 63, festivals, faith,
+food and building, p. 70, and the two verdicts on
+British rule, p. 80, into new lessons; and Egypt,
+Mesopotamia and Greece read through society and
+culture, pp. 109–119, into Ancient Egypt — the Nile
+kingdom, Ancient civilisations — Mesopotamia and
+Ancient civilisations — Greece-Crete); and *History
+and Social Science, Class Nine* (2023; 11 placements:
+from Banga to Bangladesh, p. 27, Mujib's humanitarian
+ideals, p. 35, and from Pakistan to the Language
+Movement, p. 112, into new lessons; the Pharaohs,
+p. 74, Sparta and Athens, p. 77, and the nation-state,
+p. 82, into Ancient Egypt — the Nile kingdom, Ancient
+civilisations — Sparta, and Athens against Sparta,
+and Nationalism; era division, p. 84, and methods,
+p. 88, into Dating the past and Historiography; and
+the Mauryas to the Palas, p. 93, Sultanate, Mughals
+and the Baro Bhuiyans, p. 102, and resistance to the
+Company and the Raj, p. 108, into new lessons). The
+Grade 10 records are the Class Nine book shelved
+twice — one shared Class 9–10 (shared SSC) book,
+byte-size-identical files — DUPLICATE SHELVING, read
+and placed once as Class Nine; 0 additional
+placements. The thirteen existing lessons stocked
+rise with Bangladesh added: What history is 7 → 8,
+From evidence to a written history 4 → 5, Dating the
+past 4 → 5, Find history in your own locality 4 → 5,
+Who studies prehistory 3 → 4, Historiography — the
+history of history writing 2 → 3, From stone tools to
+farming 3 → 4, Ancient Egypt — the Nile kingdom
+4 → 5, Ancient civilisations — India 1 → 2, Ancient
+civilisations — Mesopotamia 3 → 4, Ancient
+civilisations — Greece-Crete 3 → 4, Ancient
+civilisations — Sparta, and Athens against Sparta
+1 → 2, and Nationalism — the feeling that made
+nation-states 2 → 3. History lessons: 472 → 485.

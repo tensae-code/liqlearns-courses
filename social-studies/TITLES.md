@@ -2573,7 +2573,7 @@ Plants and Animals.
 
 ## History expansion totals
 
-History lessons across the History titles: **472**
+History lessons across the History titles: **485**
 (248 before the expansion; +1 for Guyana, 2026-11-15 —
 Modern World: Guyana — our nation: independence and
 symbols. All 3 Guyana placements stand on Guyana's
@@ -3044,3 +3044,38 @@ ottoman-turkish-republic) were built new at the
 placements' own slugs rather than stocked into
 lessons on different things. Turkey is a
 partial-class country.
+
++13 for Bangladesh, 2026-11-15 — Ancient World:
+Bengal — a river land and its old names, Ancient
+Bengal — Pandu Rajar Dhibi and Mahasthangarh, The
+Urban Revolution — the first cities, Bengal's
+textiles, boats and ports, Bengal's social and
+cultural history, and Bengal's political history —
+from the Mauryas to the Palas; Modern World:
+Bangladesh Liberation War 1971 — in our locality,
+The emergence of Bangladesh, 1971, Bangabandhu and
+the road to 1971, Foreign friends of the Liberation
+War, British rule in Bengal — two verdicts, Bengal —
+Sultanate, Mughals and the Baro Bhuiyans, and Bengal
+resists the Company and the Raj. All 46 Bangladesh
+placements stand on Bangladesh's four student books
+(History and Social Science, Classes Six, Seven,
+Eight and Nine, National Curriculum 2022, NCTB —
+each in English and Bangla parallel editions, placed
+once with both editions named), counted in
+acceptance. The Grade 10 records are the Class Nine
+book shelved twice (one shared Class 9–10 book,
+byte-size-identical files) — duplicate shelving, 0
+additional placements. The thirteen existing lessons
+stocked rise with Bangladesh added: What history is
+7 → 8, From evidence to a written history 4 → 5,
+Dating the past 4 → 5, Find history in your own
+locality 4 → 5, Who studies prehistory 3 → 4,
+Historiography 2 → 3, From stone tools to farming
+3 → 4, Ancient Egypt — the Nile kingdom 4 → 5,
+Ancient civilisations — India 1 → 2, Ancient
+civilisations — Mesopotamia 3 → 4, Ancient
+civilisations — Greece-Crete 3 → 4, Ancient
+civilisations — Sparta, and Athens against Sparta
+1 → 2, and Nationalism — the feeling that made
+nation-states 2 → 3.

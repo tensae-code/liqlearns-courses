@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — Greece: Crete
 
-countries: Ethiopia, France, Poland
+countries: Ethiopia, France, Poland, Bangladesh
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 6, placements 92–106).
 
@@ -57,3 +57,16 @@ France's own way: the Seconde year is built as four themes that keep returning t
 Poland's own way: Poland teaches art history as a school subject in its own right in art schools; every world period chapter closes by bringing the story home — prehistoric art on Polish lands, pre-Romanesque art in Poland, Romanesque art in Poland — so Polish learners meet each world style again in their own soil. That way is stocked here as the way Poland teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 3 countries (Ethiopia, France, Poland).**
+
+
+## History expansion (2026-11-15) — Bangladesh stocked
+
+**Book (Bangladesh bd8):** *History and Social Science, Class Eight* (student book, English + Bangla parallel editions) — Bangladesh. Title as printed: History and Social Science, Class Eight (Experimental version, National Curriculum 2022, academic year 2024). Grade: 8 (student/teacher: STUDENT). Publisher: National Curriculum and Textbook Board (NCTB), Dhaka; year 2023; no ISBN printed. PDF pages: 188 in each edition (English edition grabbed via the full-quality-oversized-books release, 131,203,853 bytes; cover verified visually; Bangla edition 188 pp, spot-checked — same chapters). Verdict: COMPLETE. Tally: 10 placements — 5 to existing lessons, 5 NEW LESSON NEEDED. The English edition was read in full; the Bangla edition was spot-checked and confirmed identical in content, so the book is placed once with both editions named. Combined-book rule: History parts are placed; the other parts are named here only. Non-History parts (named, not placed): 'Society through the Lens of Science' (science method, printed pp. 1–12); 'Uniqueness in Unity' (social diversity, pp. 13–31); 'Socialization, Social Control, and Social Change' (sociology, pp. 87–101); 'Context Changes and the Role of the Individual' (pp. 102–108); 'Let Us Protect Nature and Human Bonds' (environment/society, pp. 125–159); 'Principles of Wealth Production and Equality' (economics, pp. 160–179). Placements at liqlearns-courses-work/expansion-history-2026-11-15/bangladesh-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bangladesh part — Diversified Path of Social and Cultural History on a Global Scale: ancient Greece — story beats: a privileged class rules a divided society while Greek gods, myths and thinkers shape mathematics, philosophy and science for everyone after (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-greece-crete) | Bangladesh, *History and Social Science, Class Eight*, printed p. 119 |
+
+Bangladesh's own way (Grade 8): Class Eight turns to social and cultural history — how ordinary people's language, faith, food, festivals and art change over centuries — and reads even Egypt, Mesopotamia and Greece through society and culture rather than kings and battles. That way is stocked here as the way Bangladesh teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 4 countries (Ethiopia, France, Poland, Bangladesh).**

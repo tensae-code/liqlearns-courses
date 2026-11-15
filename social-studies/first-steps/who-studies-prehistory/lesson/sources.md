@@ -1,6 +1,6 @@
 # Sources — Archaeology, palaeontology, anthropology — who studies prehistory
 
-countries: Ethiopia, Gambia, Turkey
+countries: Ethiopia, Gambia, Turkey, Bangladesh
 
 **Book 1:** *History, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, Addis Ababa, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-064-2, 210 printed pp. Printed page = PDF page − 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g09-student-placements.md
 
@@ -55,3 +55,16 @@ Iceland's own way: the Viking Age is taught from Iceland's own ground — childr
 Turkey's own way: world history is told with the Turks walked through it — prehistory and the first civilisations, then the medieval world, then a whole unit on the Turks of the first and middle ages (steppe, kut, the Orhun stones), before Islam's birth and the Turks' own entry into Islam close the book with the Seljuks. That way is stocked here as the way Turkey teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 3 countries (Ethiopia, Gambia, Turkey).**
+
+
+## History expansion (2026-11-15) — Bangladesh stocked
+
+**Book (Bangladesh bd6):** *History and Social Science, Class Six* (student book, English + Bangla parallel editions) — Bangladesh. Title as printed: History and Social Science, Class Six (Experimental version, National Curriculum 2022, academic year 2023/2024). Grade: 6 (student/teacher: STUDENT). Publisher: National Curriculum and Textbook Board (NCTB), Dhaka; year 2022 (reprint 2023); no ISBN printed. PDF pages: 184 in each edition (English cover verified visually — Somapura Mahavihara, Paharpur, on the cover; Bangla edition 184 pp, same chapters and classroom story, spot-checked at printed pp. 3 and 82–83). Verdict: COMPLETE. Tally: 15 placements — 9 to existing lessons, 6 NEW LESSON NEEDED. The English edition was read in full; the Bangla edition was spot-checked (cover + contents + two spreads) and confirmed identical in content, so the book is placed once with both editions named. Combined-book rule: this is a "History and Social Science" book — History parts are placed; the other parts are named here only. Non-History parts (named, not placed): 'My Different Identity' (identity/social, printed pp. 1–25); 'Active Citizens Club' (civics, pp. 26–31); 'Looking Around through the Lens of Science' (science method, pp. 36–49); 'Nature Conservation Activity' (environment, pp. 74–81); 'Book Reading Programme' (reading club, pp. 114–116); 'Natural and Social Structures' (geography/social, pp. 117–133); 'The interrelation between natural and social structures, and our responsibilities' (pp. 134–154); 'Society and Resources' (pp. 155–165); Appendix (pp. 166–175). Placements at liqlearns-courses-work/expansion-history-2026-11-15/bangladesh-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bangladesh part — Influence of Landform on South Asian and World History: fossils and palaeontologists — story beats: hardened bones dug from the ground are read in laboratories by palaeontologists and historians working together to rebuild the earliest humans (History expansion, 2026-11-15; original placement slug: first-steps/who-studies-prehistory) | Bangladesh, *History and Social Science, Class Six*, printed p. 64 |
+
+Bangladesh's own way (Grade 6): history is learned by inquiry through one continuing classroom story — teacher Khushi Apa and her Class Six pupils investigate their own locality, interview elders under strict consent rules, and only then widen out to Bengal, South Asia and the world; the Liberation War is first met as a killing field in the children's own village, not as a date. That way is stocked here as the way Bangladesh teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 4 countries (Ethiopia, Gambia, Turkey, Bangladesh).**

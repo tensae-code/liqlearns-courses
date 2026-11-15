@@ -1,0 +1,16 @@
+# Sources — Bengal's textiles, boats and ports
+
+countries: Bangladesh
+
+**Book (Bangladesh bd7):** *History and Social Science, Class Seven* (student book, English + Bangla parallel editions) — Bangladesh. Title as printed: History and Social Science, Class Seven (Experimental version, National Curriculum 2022, academic year 2024). Grade: 7 (student/teacher: STUDENT). Publisher: National Curriculum and Textbook Board (NCTB), Dhaka; year 2023; no ISBN printed. PDF pages: 184 in each edition (English cover verified visually — the Sixty Dome Mosque, Bagerhat; Bangla edition 184 pp, spot-checked at printed pp. 1 and 76 — same classroom story and Foreign Friends chapter). Verdict: COMPLETE. Tally: 10 placements — 3 to existing lessons, 7 NEW LESSON NEEDED. The English edition was read in full; the Bangla edition was spot-checked and confirmed identical in content, so the book is placed once with both editions named. Combined-book rule: History parts are placed; the other parts are named here only. Non-History parts (named, not placed): 'How to Make Logical Decisions' (reasoning/social, printed pp. 1–19); 'Similarities and Differences between People' (social, pp. 32–48); 'Socio-political Structures and Customs' (civics/social, pp. 93–118); 'Individual's Stand and Role in a Changing Context' (pp. 119–131); 'Sustainable Development and Our Role' (pp. 132–158); 'About Wealth' (economics, pp. 159–175). Placements at liqlearns-courses-work/expansion-history-2026-11-15/bangladesh-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — Industry — fine textiles and river-forged boats: The Bengal Region and Independent Bangladesh: industry — story beats: Bengal's famed fine textiles, praised by the 9th-century Arab merchant Sulaiman and coveted by Europeans into the 1600s, and its river-forged boatbuilding industry clothe and carry a trading people (original placement slug: ancient-world/bengals-textiles-boats-and-ports) | Bangladesh, *History and Social Science, Class Seven*, printed p. 56 |
+| Sub lesson 2 — Trade, commerce and money — coins and ports: The Bengal Region and Independent Bangladesh: trade, commerce and money — story beats: from barter to punch-marked and Gupta, Gauda and Harikela coins, and through the ports of Tamralipti, Chandraketugarh and Samandar, Bengal traded with the Mediterranean, Arabia, Africa and Southeast Asia 2,000 years ago (original placement slug: ancient-world/bengals-textiles-boats-and-ports) | Bangladesh, *History and Social Science, Class Seven*, printed p. 59 |
+
+Bangladesh's own way (Grade 7): Class Seven re-reads the whole past through one lens — economics. Khushi Apa's class asks how people earned, ate, traded and were exploited, from stone tools to colonial extraction, before returning to Bangabandhu and to the foreigners who helped in 1971. That way is stocked here as the way Bangladesh teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 1 country (Bangladesh).**
+
+Searchable tags: Bengal textiles, Sulaiman, boatbuilding, Tamralipti Chandraketugarh Samandar, punch-marked coins, Bangladesh Grade 7, ancient-world
