@@ -6436,3 +6436,156 @@ questions each, each standing on Laos student book(s),
 with Laos teacher-guide placements also cited as
 evidence in their rows.
 Geography lessons: 2685 → 2767.
+
+
+## Iraq — Geography expansion (merged 2026-11-15)
+312 placement lines stocked from Iraq's 17 records / 10
+distinct books (each grade+subject appears in both a
+TSV record and a books.json record — the 17 records
+collapse to 10 distinct books, duplicates taught once,
+every distinct book cited). All 10 books are Arabic
+student books of the Republic of Iraq, Ministry of
+Education, General Directorate of Curricula, 1445 AH /
+2023 CE, COMPLETE (Book 4 is a History book whose
+Geography setting sections only are placed), read from
+the files recorded in the books.json records' own
+Google Drive source files after the GitHub route failed
+repeatedly with RemoteDisconnected — same books, covers
+and contents verified; printed page = PDF page except
+Book 10 (Earth Science), whose printed pagination runs
+6 behind. The placements file's tallies sum to exactly
+312, matching the line count — no tally discrepancy.
+The file's split is 163 existing-flagged / 149
+NEW-flagged; by lesson dir, 183 placements land in 114
+standing lessons and 129 in the 92 new lessons: 3
+NEW-flagged slugs already stand as lessons
+(culture-and-work/tourism-geography,
+global-issues/noise-pollution and
+global-issues/states-location-shape-and-borders) and
+are stocked there, not rebuilt; 38 placements are
+remapped from 31 slugs that do not stand, or
+NEW-flagged slugs a standing lesson already teaches
+under another slug, to the closest standing lesson
+covering the thing, with the original slug recorded in
+every remapped provenance row (see iraq_common.REMAP);
+and the one existing-flagged placement for Iraq's
+governorates lands in the new governorates lesson at
+its own slug, that slug being overwhelmingly
+NEW-flagged (20 of its 21 placements). Iraq's own way:
+geography enters inside Social Studies through the
+child's own surroundings (G4), then Iraq itself
+location-first and region by region (G5), then
+governorate by governorate in one fixed pattern (G6);
+the ancient civilisations are each opened through their
+land (G7), the whole Arab world follows as one
+geographical unit (G8), and G9 returns to Iraq
+measured; the literary track then treats geography as a
+discipline (G10 foundations and techniques, G11
+physical geography, G12 human geography, every chapter
+closing with an applied study of Iraq), with the
+scientific track's Earth Science at G11. Stocked into
+standing lessons (183 placements across 114 lessons).
+92 NEW lessons built (129 placements) — **First
+Steps**: Arab And Muslim Geography (printed p. 16),
+Greek And Roman Geography (printed p. 13), Modern And
+Contemporary Geography (printed p. 23); **Earth and
+Space**: Air Pressure And How It Falls With Height
+(printed p. 4), Eras Of Earths History (printed p.
+114), Fossils And How They Are Preserved (printed p.
+102), Heating The Earth And Atmosphere (printed p. 6),
+Inside The Earth Crust Mantle Core (printed p. 29),
+Solar Radiation And The Earths Heat (printed p. 33),
+The Geological Time Scale (printed p. 111), The Ozone
+Layer And Its Damage (printed p. 86); **The Land and
+Air**: Arabias Land Plateau Mountains And Coasts
+(printed p. 70; printed p. 89), Clouds And How They
+Form (printed p. 5), Dams And Storage Projects On The
+Tigris (printed p. 27; printed p. 38), Depressions And
+Anticyclones (printed p. 53), Egypts Land The Nile
+Valley And Delta (printed p. 52), Evaporation
+Condensation And Clouds (printed p. 56), Field
+Measurements In Geography (printed p. 47), Finding
+Direction By Sun Stars And Compass (printed p. 20),
+Folds And Faults (printed p. 39), Geographical Data And
+Its Sources (printed p. 38), Geographical Variables And
+Data Errors (printed p. 51), Glaciers And Ice Sheets
+(printed p. 74), Greeces Mountainous Land And Islands
+(printed p. 109), Gulfs Straits And Coasts (printed p.
+88), Hills And How They Differ From Mountains (printed
+p. 22), Inland Seas The Caspian (printed p. 93), Iraq's
+Climatic Regions (printed p. 28; printed p. 23; printed
+p. 22), Iraq's Location Neighbours And Importance
+(printed p. 6; printed p. 5; printed p. 6), Iraq's
+Marshes The Ahwar (printed p. 37), Iraq's Natural
+Vegetation (printed p. 29; printed p. 24; printed p.
+26), Iraq's Relief Mountains Plateaus And The Alluvial
+Plain (printed p. 18; printed p. 5; printed p. 19;
+printed p. 8; printed p. 10; printed p. 11; printed p.
+12), Italys Land Alps Apennines And Plains (printed p.
+119), My Local Environment Home School And Garden
+(printed p. 9), Persias Land Four Natural Regions
+(printed p. 101), Settlement Man And His Environment
+(printed p. 34), Shatt Al Arab Where The Two Rivers
+Meet (printed p. 36), Soils Of The World (printed p.
+127; printed p. 62), Spatial Variation The Heart Of
+Geography (printed p. 31), The Arab World's Climatic
+Regions (printed p. 22), The Arab World's Position And
+Seas (printed p. 5), The Nile And Its Dams (printed p.
+28), Why The Arab World's Relief Matters (printed p.
+18), Winds Permanent Monsoon Local And Daily (printed
+p. 44); **Population, Transport and Maps**: Births
+Deaths And Natural Growth (printed p. 15), City
+Functions Iraq's Cities At Work (printed p. 27),
+Communications Telegraph To Internet (printed p. 126),
+Iraq's Governorates And Administrative Divisions
+(printed p. 60; printed p. 8; printed p. 10; printed p.
+15; printed p. 20; printed p. 25; printed p. 32;
+printed p. 37; printed p. 43; printed p. 48; printed p.
+53; printed p. 58; printed p. 62; printed p. 67;
+printed p. 71; printed p. 76; printed p. 80; printed p.
+84; printed p. 88; printed p. 92; printed p. 26), Map
+Projections Turning The Sphere Flat (printed p. 91),
+Migration Causes Effects And Measuring (printed p. 17),
+Population Distribution And Density (printed p. 7),
+Population Pyramids And Composition (printed p. 20),
+Ships And Container Shipping (printed p. 119), The
+Citys Region And Commuting (printed p. 43), Transport
+And Trade In Iraq (printed p. 130), What A City Is And
+What Cities Do (printed p. 24); **People and
+Resources**: Agriculture In Iraq (printed p. 73), Crops
+And Land Use Measurement (printed p. 67), Farming
+Systems Of The World (printed p. 69), Industry In Iraq
+(printed p. 98), Iraq's Oil Wealth (printed p. 39;
+printed p. 61), Iraq's Phosphate And Other Minerals
+(printed p. 66), Minerals Metallic And Non Metallic
+(printed p. 90), Phosphates And Nitrogen Fertilisers
+(printed p. 95), Sulphur (printed p. 97), The Arab
+World's Oil (printed p. 53), The Car Industry And
+Global Production (printed p. 87), What Agriculture
+Needs Climate Soil And Markets (printed p. 62);
+**Culture and Work**: Date Palms Of Iraq (printed p.
+56), Inside The City Land Use And Models (printed p.
+40), International Tourism (printed p. 160), Iraq's
+City Network And The Iraqi City (printed p. 53),
+Livestock And Rangelands Of Iraq (printed p. 30;
+printed p. 57), Megacities And City Growth (printed p.
+36), Population Density Inside Cities (printed p. 46),
+The Rural Landscape (printed p. 50), Tourism In Iraq
+(printed p. 163); **Resources and Conflict**: Political
+Geography States And Resources (printed p. 134);
+**Global Issues**: Chemical Pollution Oil And
+Fertilisers (printed p. 88), Earthquake Safety (printed
+p. 36), Iraq's Political Geography (printed p. 153),
+Light Pollution (printed p. 98), Medical Geography
+Disease And Environment (printed p. 137), Population
+And Resources The Optimum (printed p. 24), Problems Of
+Farming Overgrazing (printed p. 77), Radiation
+Pollution (printed p. 95), Rivers And State Power
+(printed p. 145), Severe Weather Thunderstorms And Dust
+Storms (printed p. 20), Smog And Acid Rain (printed p.
+83), Soil Erosion And Depletion (printed p. 67), The
+Economic Bases Of State Power (printed p. 149), Waste
+And How To Dispose Of It (printed p. 158) — all 92 new
+lessons are taught in 1 country (Iraq), 8 questions
+each, each standing on Iraq student book(s).
+Geography lessons: 2767 → 2859.

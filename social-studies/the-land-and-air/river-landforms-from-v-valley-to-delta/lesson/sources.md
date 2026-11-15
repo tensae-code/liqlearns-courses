@@ -1,6 +1,6 @@
 # Sources — River landforms — from V-valley to delta
 
-countries: Ethiopia, Barbados, Malaysia, India, United Kingdom, Fiji, Slovenia, Sudan, Sri Lanka, Pakistan, Libya, Mozambique
+countries: Ethiopia, Barbados, Malaysia, India, United Kingdom, Fiji, Slovenia, Sudan, Sri Lanka, Pakistan, Libya, Mozambique, Iraq
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -30,6 +30,8 @@ countries: Ethiopia, Barbados, Malaysia, India, United Kingdom, Fiji, Slovenia, 
 
 **Book 14:** *Módulo 3 de Geografia — Geomorfologia* (student book, Portuguese) — Ministério da Educação / IEDA; year not printed (uploaded to IEDA site 2022); no ISBN printed. Title as printed: Módulo 3 de Geografia — Geomorfologia. Grade: Grades 10–12 cycle (2º Ciclo), filed as Grade 10 (student/teacher: STUDENT). PDF pages: 138 (title page verified against the record title; byte size 5,627,754 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE (the book's own contents page omits Lição 2 "Rochas" — it is present in the body at printed p. 10; contents-page error in the book itself). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
 
+**Book 15:** *الجغرافية الطبيعية للصف الخامس الأدبي (Natural Geography for the Fifth Literary Grade) — the record's "Geography (Literary Track)" is the same book: same grade and track, verified by cover and contents* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; revised by a committee in the Ministry of Education; year 1445 AH / 2023 CE, revised 13th edition (الطبعة الثالثة عشرة / المنقحة); ISBN no ISBN printed on the title pages. Title as printed: الجغرافية الطبيعية للصف الخامس الأدبي (Natural Geography for the Fifth Literary Grade) — the record's "Geography (Literary Track)" is the same book: same grade and track, verified by cover and contents. Grade: 11 (fifth secondary, literary track) (student/teacher: STUDENT). PDF pages: 162 (cover/title page verified as above; read via the books.json record's own Google Drive source file — same book, cover and contents verified — after the GitHub route failed). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iraq-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Upper and middle courses | G12 student #22, printed pp. 28–29 |
@@ -47,8 +49,9 @@ countries: Ethiopia, Barbados, Malaysia, India, United Kingdom, Fiji, Slovenia, 
 | Pakistan part — Mountain valleys of Pakistan (Swat, Chitral, Dir, Gilgit, Hunza, Kaghan) and U-shaped (glacier) vs V-shaped (river) valleys | Pakistan, *Pakistan Grade 6 Geography 6*, Mountain valleys of Pakistan (Swat, Chitral, Dir, Gilgit, Hunza, Kaghan) and U-shaped (glacier) vs V-shaped (river) valleys — printed p. 27 |
 | Libya part — Book 2 Ch.2: تعرية المياه الجارية — Running-water erosion: transport, cutting and deposition, and depositional landforms (Nile delta) [placement slug: the-land-and-air/rivers-shape-the-land-erosion-and-deposition] | Libya, *Libya Grade 10 LY G10 Principles*, Book 2 Ch.2: تعرية المياه الجارية — Running-water erosion: transport, cutting and deposition, and depositional landforms (Nile delta) — printed p. 48 |
 | Mozambique part — Lição 18: Modelado das regiões temperadas (river erosion, giant's kettles/marmitas, fluvial terraces, fairy chimneys) | Mozambique, *Mozambique Grade 10 PESD II Mod 3*, Lição 18: Modelado das regiões temperadas (river erosion, giant's kettles/marmitas, fluvial terraces, fairy chimneys) — printed p. 101 |
+| Iraq part — Ch. 1: Valleys and rivers — river erosion, transport and deposition, and the conditions for a delta to form | Iraq, *Iraq Grade 11 Physical Geography*, Ch. 1: Valleys and rivers — river erosion, transport and deposition, and the conditions for a delta to form — printed p. 25 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Barbados, Malaysia, India, United Kingdom, Fiji, Slovenia, Sudan, Sri Lanka, Pakistan, Libya, Mozambique).**
+**Acceptance count: taught in 13 countries (Ethiopia, Barbados, Malaysia, India, United Kingdom, Fiji, Slovenia, Sudan, Sri Lanka, Pakistan, Libya, Mozambique, Iraq).**
 
 Barbados's own way: this is the shared Caribbean CSEC examination textbook used in Barbados — every world process is re-taught through Caribbean case studies (the Caribbean plate, Montserrat's volcano, Jamaica's coasts and Kingston's urban problems, St Lucia's reefs, Bahamas/Jamaica/Puerto Rico karst, Guyana's rivers), map and field skills are folded into the chapters, and the course ends in a School-Based Assessment fieldwork project. That way is stocked here as the way Barbados teaches this thing; it does not change the acceptance count above.
 
@@ -79,3 +82,5 @@ Pakistan's own way (Pakistan Grade 6 Geography 6): world physical Geography taug
 Libya's own way (Libya Grade 10 LY G10 Principles): Secondary geography opens as a two-part systematic course — physical geography first (astronomy, surface-shaping factors, climate, vegetation and wild animals), then human geography (population and settlement, economic resources) — and closes with a whole book on spatial-data technology: remote sensing, GPS and GIS, then the history of maps from Babylon and Ibn Hawqal.
 
 Mozambique's own way (Mozambique Grade 10 PESD II Mod 3): a systematic geomorphology course — rocks and Earth's interior first, then isostasy, continental drift and plate tectonics, then internal agents (folds, faults, earthquakes, volcanoes in four lessons), then external agents and the modelled landscapes of hot, temperate, cold and coastal environments, closing with the geological cycle.
+
+Iraq's own way (Iraq Grade 11 Physical Geography): a pure physical-geography course in six chapters — landforms, weather and climate, water, the biosphere, soil, and the environment — with Iraqi anchors kept throughout (flood visits to Iraq's rivers, the hills of northern Iraq, groundwater and the desert caravans, soil salinity in the alluvial plain).

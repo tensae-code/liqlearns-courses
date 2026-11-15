@@ -1,6 +1,6 @@
 # Sources — The Earth — Place, Shape and Size
 
-countries: Ethiopia, Saudi Arabia, Myanmar, Turkey, Haiti, Palestine, Angola, Dominican Republic, Bahamas, Colombia, Uganda, Venezuela, Sri Lanka, Mauritania, Kuwait, Afghanistan, Yemen, Libya, Moldova, Honduras, Nepal, Mozambique, Laos
+countries: Ethiopia, Saudi Arabia, Myanmar, Turkey, Haiti, Palestine, Angola, Dominican Republic, Bahamas, Colombia, Uganda, Venezuela, Sri Lanka, Mauritania, Kuwait, Afghanistan, Yemen, Libya, Moldova, Honduras, Nepal, Mozambique, Laos, Iraq
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page - 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md.
 
@@ -68,6 +68,8 @@ countries: Ethiopia, Saudi Arabia, Myanmar, Turkey, Haiti, Palestine, Angola, Do
 
 **Book 33:** *ແບບຮຽນ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 1 (Textbook, Geography, Secondary Year 1)* (student book, Lao) — Ministry of Education, Educational Science Research Institute; year 2010; ISBN no ISBN printed. Title as printed: ແບບຮຽນ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 1 (Textbook, Geography, Secondary Year 1). Grade: Grade 6 (ມ.1) (student/teacher: STUDENT). PDF pages: 102 (title page verified against the record title; byte size 47,303,229 exact match to the books.json record, read via the release asset — the tree copy is not in the repo). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/laos-placements.md.
 
+**Book 34:** *الاجتماعيات للصف الأول المتوسط (Social Studies for the First Intermediate Grade)* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 1445 AH / 2023 CE, 5th edition (الطبعة الخامسة); ISBN no ISBN printed on the title pages. Title as printed: الاجتماعيات للصف الأول المتوسط (Social Studies for the First Intermediate Grade). Grade: 7 (student/teacher: STUDENT). PDF pages: 132 (cover/title page verified against the record title; read via the books.json record's own Google Drive source file — same book, cover and contents verified — after the GitHub route failed). Verdict: COMPLETE — the book is a History book (ancient civilisations); only its Geography setting sections are placed, per the scope rule. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iraq-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Earth's place | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 1, printed p. 15 |
@@ -106,8 +108,9 @@ countries: Ethiopia, Saudi Arabia, Myanmar, Turkey, Haiti, Palestine, Angola, Do
 | Mozambique part — Lição 12: A Terra, forma e dimensões (revolution ellipsoid, age ~4.5 billion years, rotation/revolution periods) | Mozambique, *Mozambique Grade 10 PESD II Mod 1*, Lição 12: A Terra, forma e dimensões (revolution ellipsoid, age ~4.5 billion years, rotation/revolution periods) — printed p. 61 |
 | Laos part — Part I Lesson 1: The Earth (universe and solar system, Earth's shape and size, grid lines, coordinates) | Laos, *Laos Grade 6 laos-g06-geography-teacher*, Part I Lesson 1: The Earth (universe and solar system, Earth's shape and size, grid lines, coordinates) — printed p. 1 (teacher-guide evidence) |
 | Laos part — Part I Lesson 1: The Earth | Laos, *Laos Grade 6 laos-g06-geography-student*, Part I Lesson 1: The Earth — printed p. 3 |
+| Iraq part — Ch. 5 enrichment: Eratosthenes' steps for calculating the circumference of the Earth from the sun's angle at Alexandria and Aswan | Iraq, *Iraq Grade 7 Social Studies*, Ch. 5 enrichment: Eratosthenes' steps for calculating the circumference of the Earth from the sun's angle at Alexandria and Aswan — printed p. 128 |
 
-**Acceptance count: taught in 21 countries (Ethiopia, Saudi Arabia, Turkey, Palestine, Angola, Dominican Republic, Bahamas, Colombia, Uganda, Venezuela, Sri Lanka, Mauritania, Kuwait, Afghanistan, Yemen, Libya, Moldova, Honduras, Nepal, Mozambique, Laos). Myanmar is named here as teacher-guide evidence only, counted nowhere. Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 22 countries (Ethiopia, Saudi Arabia, Turkey, Palestine, Angola, Dominican Republic, Bahamas, Colombia, Uganda, Venezuela, Sri Lanka, Mauritania, Kuwait, Afghanistan, Yemen, Libya, Moldova, Honduras, Nepal, Mozambique, Laos, Iraq). Myanmar is named here as teacher-guide evidence only, counted nowhere. Haiti is named here as teacher-sequence evidence only, counted nowhere.**
 
 Haiti's own way (teacher sequence — evidence): Geography opens with representing the Earth itself — globe-to-flat projection problems, orientation practised on the ground with compass/GPS/Google Maps, and time-zone puzzles worked on Haiti's own links (midday shared with Québec, 18h in Paris, Port-au-Prince–Paris flights); every séance ends in a croquis, a glossary and field observation. That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
@@ -174,3 +177,5 @@ Mozambique's own way (Mozambique Grade 10 PESD II Mod 1): the second cycle opens
 Laos's own way (Laos Grade 6 laos-g06-geography-teacher): a world-foundations year taught zone by zone — after Earth, maps, movements, atmosphere and waters, the last five lessons walk through how people live in each climate zone (hot, desert, savanna, temperate, cold); closes with a teaching-techniques section (printed p. 66) and a Q&A additional-knowledge appendix (printed p. 75), not placed separately.
 
 Laos's own way (Laos Grade 6 laos-g06-geography-student): the student twin of Book 2 — same 9 parts / 16 lessons with full illustrated text, a reading passage (printed p. 90) and a glossary of terms (printed p. 95), not placed separately.
+
+Iraq's own way (Iraq Grade 7 Social Studies): at intermediate level Social Studies becomes the history of ancient civilisations, and every civilisation is opened through its land — relief, climate, soil and rivers are taught as the stage on which each civilisation arose, starting with Iraq's own four relief regions.

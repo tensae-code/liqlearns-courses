@@ -1,6 +1,6 @@
 # Sources — Bar graphs and pie charts
 
-countries: Ethiopia, Samoa, Malaysia, Uganda, Sudan, Venezuela
+countries: Ethiopia, Samoa, Malaysia, Uganda, Sudan, Venezuela, Iraq
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Samoa, Malaysia, Uganda, Sudan, Venezuela
 
 **Book 8:** *El espacio geográfico de Venezuela — Geografía, 3er Año* (student book, Spanish) — Ministerio del Poder Popular para la Educación / Colección Bicentenario; year 2014 (third edition, April 2014); ISBN 978-980-218-337-1. Title as printed: El espacio geográfico de Venezuela — Geografía, 3er Año. Grade: Grade 9 (3er Año de Educación Media) (student/teacher: STUDENT). PDF pages: 178 (printed pages run to 176, Bibliografía; cover/title page verified against the record title; release grab size-verified by grab.py). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/venezuela-placements.md.
 
+**Book 9:** *أُسُس الجغرافية وتقنياتها (Foundations of Geography and Its Techniques) للصف الرابع الأدبي — the record's shorter title "Geography (Literary Track)" is the same book: same grade, track and subject, verified by cover and contents* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; revised by a committee in the Ministry of Education; year 1445 AH / 2023 CE, revised 13th edition (الطبعة الثالثة عشرة / المنقحة); ISBN no ISBN printed on the title pages. Title as printed: أُسُس الجغرافية وتقنياتها (Foundations of Geography and Its Techniques) للصف الرابع الأدبي — the record's shorter title "Geography (Literary Track)" is the same book: same grade, track and subject, verified by cover and contents. Grade: 10 (fourth secondary, literary track) (student/teacher: STUDENT). PDF pages: 144 (cover/title page verified as above; read via the books.json record's own Google Drive source file — same book, cover and contents verified — after the GitHub route failed). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iraq-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Bar graphs | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 8, printed pp. 224–226 |
@@ -29,8 +31,9 @@ countries: Ethiopia, Samoa, Malaysia, Uganda, Sudan, Venezuela
 | Uganda part — Lesson 4: Finding out information from statistics, charts and graphs (Kilembe Mines) | Uganda, *Uganda Grade 8 UG S1 Geography Home-Study*, Lesson 4: Finding out information from statistics, charts and graphs (Kilembe Mines) — printed p. 11 |
 | Sudan part — Graphical forms: bars, circles and lines for geographic data (Unit 2) | Sudan, *Sudan Grade 11 SD Geography 11*, Graphical forms: bars, circles and lines for geographic data (Unit 2) — printed p. 33 |
 | Venezuela part — Venezuela Petrolera: organisation and analysis of statistical data | Venezuela, *Venezuela Grade 9 G9 Geography Venezuela*, Venezuela Petrolera: organisation and analysis of statistical data — printed p. 115 |
+| Iraq part — Ch. 3: The histogram, the frequency polygon and the frequency curve | Iraq, *Iraq Grade 10 Geography*, Ch. 3: The histogram, the frequency polygon and the frequency curve — printed p. 67 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Samoa, Malaysia, Uganda, Sudan, Venezuela).**
+**Acceptance count: taught in 7 countries (Ethiopia, Samoa, Malaysia, Uganda, Sudan, Venezuela, Iraq).**
 
 Searchable tags: bar graphs, pie charts, kokosa rainfall, export destinations, percentages, social studies
 
@@ -45,3 +48,5 @@ Uganda's own way (Uganda Grade 8 UG S1 Geography Home-Study): A home-based compr
 Sudan's own way (Sudan Grade 11 SD Geography 11): The human-geography year: population first (races, religions, census, density, dynamics, structure), then a full practical unit on distribution maps and graphs, then regional geography — the world studied continent by continent as regions — and a closing full unit on Sudan itself, natural basis to environmental problems.
 
 Venezuela's own way (Venezuela Grade 9 G9 Geography Venezuela): a full national geography written as Geohistoria — every physical topic (position, climate, relief, hydrography) is paired with the historical stages that organised the same space (agrarian Venezuela, oil Venezuela, 21st-century Venezuela), and the Amazon rainforest closes the book as a defence-of-life argument.
+
+Iraq's own way (Iraq Grade 10 Geography): the literary track opens geography as a discipline in its own right — its thought from the Sumerians to GIS, how a geographer researches, where geographical data come from and how they are drawn, and only then the fields of the science; Iraq supplies the worked examples throughout (Baghdad research problem, Iraqi topographic maps, Iraq's gas time series, the Baghdad–Basra distance exercise).

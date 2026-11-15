@@ -1,6 +1,6 @@
 # Sources — Why People Settle Where They Do
 
-countries: Ethiopia, Bangladesh, Zimbabwe, Malaysia, Eritrea, Slovenia, Uganda, Syria, Pakistan, Mozambique
+countries: Ethiopia, Bangladesh, Zimbabwe, Malaysia, Eritrea, Slovenia, Uganda, Syria, Pakistan, Mozambique, Iraq
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (placement 47).
 
@@ -30,6 +30,8 @@ countries: Ethiopia, Bangladesh, Zimbabwe, Malaysia, Eritrea, Slovenia, Uganda, 
 
 **Book 14:** *Módulo 5 de Geografia — População* (student book, Portuguese) — Ministério da Educação / IEDA; year not printed (uploaded to IEDA site 2022); no ISBN printed. Title as printed: Módulo 5 de Geografia — População. Grade: Grades 10–12 cycle (2º Ciclo), filed as Grade 10 (student/teacher: STUDENT). PDF pages: 109 (title page verified against the record title; byte size 5,447,158 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
 
+**Book 15:** *الاجتماعيات للصف الأول المتوسط (Social Studies for the First Intermediate Grade)* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 1445 AH / 2023 CE, 5th edition (الطبعة الخامسة); ISBN no ISBN printed on the title pages. Title as printed: الاجتماعيات للصف الأول المتوسط (Social Studies for the First Intermediate Grade). Grade: 7 (student/teacher: STUDENT). PDF pages: 132 (cover/title page verified against the record title; read via the books.json record's own Google Drive source file — same book, cover and contents verified — after the GitHub route failed). Verdict: COMPLETE — the book is a History book (ancient civilisations); only its Geography setting sections are placed, per the scope rule. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iraq-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Whole lesson frame — population distribution is uneven because settlement is tied directly to resources; the controllers named are water, soil, vegetation and climate | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 3, printed pp. 63–65 |
@@ -48,8 +50,9 @@ countries: Ethiopia, Bangladesh, Zimbabwe, Malaysia, Eritrea, Slovenia, Uganda, 
 | Pakistan part — Lifestyle of the people living in different regions (mountainous, plateau, plain, desert, coastal) | Pakistan, *Pakistan Grade 5 SS5*, Lifestyle of the people living in different regions (mountainous, plateau, plain, desert, coastal) — printed pp. 69–70 |
 | Mozambique part — Lição 7: industry, commerce and mining as settlement magnets | Mozambique, *Mozambique Grade 7 PESD I Mod 2*, Lição 7: industry, commerce and mining as settlement magnets — printed p. 39 |
 | Mozambique part — Lição 2: coal attracting industry and towns; railways as urban growth axes | Mozambique, *Mozambique Grade 10 PESD II Mod 5*, Lição 2: coal attracting industry and towns; railways as urban growth axes — printed p. 16 |
+| Iraq part — Ch. 2: Fertile soil and the river channels — why the first farming villages arose in the undulating region and spread to the alluvial plain between the Tigris and Euphrates | Iraq, *Iraq Grade 7 Social Studies*, Ch. 2: Fertile soil and the river channels — why the first farming villages arose in the undulating region and spread to the alluvial plain between the Tigris and Euphrates — printed p. 24 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Bangladesh, Malaysia, Eritrea, Slovenia, Uganda, Syria, Pakistan, Mozambique). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 10 countries (Ethiopia, Bangladesh, Malaysia, Eritrea, Slovenia, Uganda, Syria, Pakistan, Mozambique, Iraq). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
 
 Guide-evidence note (not taught above as pupil content): the Addis Ababa teacher guide's §2.2.1 (printed pp. 28–31) keys Ethiopia's own population concentration in the highlands to altitude, climate and soil (moderate temperatures, rich soil, adequate rainfall) — the same controller frame, recorded here as teacher evidence that the frame is the syllabus's own; the lesson itself rests wholly on the student book. The equator puzzle is the book's own set question ("to be explained"); the lesson poses it and coaches an answer from the four controllers rather than printing a keyed answer the placements do not give. No book error flagged by the placements touches this lesson.
 
@@ -80,3 +83,5 @@ Pakistan's own way (Pakistan Grade 5 SS5): the Class 5 Geography chapter (Ch.5, 
 Mozambique's own way (Mozambique Grade 7 PESD I Mod 2): human/economic geography organised sector by sector — population first, then each economic activity taught world-then-Mozambique (agriculture, livestock, fishing, forestry, industry, commerce, tourism, transport), with Mozambique's own distribution tables, ports and exports as the local evidence.
 
 Mozambique's own way (Mozambique Grade 10 PESD II Mod 5): population geography taught as a developed-world/developing-world contrast throughout — distribution factors, growth, Malthus and the transition, then the two evolutions (developed countries; the "Terceiro Mundo" set) with their opposite population policies, closing on structures, demographic problems (incl. HIV cutting life expectancy below 50) and population–economy/environment relations.
+
+Iraq's own way (Iraq Grade 7 Social Studies): at intermediate level Social Studies becomes the history of ancient civilisations, and every civilisation is opened through its land — relief, climate, soil and rivers are taught as the stage on which each civilisation arose, starting with Iraq's own four relief regions.

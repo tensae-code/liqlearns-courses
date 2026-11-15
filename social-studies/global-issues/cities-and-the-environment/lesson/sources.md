@@ -1,6 +1,6 @@
 # Sources — Cities and the environment
 
-countries: Ethiopia, Dominican Republic, Vietnam, Pakistan
+countries: Ethiopia, Dominican Republic, Vietnam, Pakistan, Iraq
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Dominican Republic, Vietnam, Pakistan
 
 **Book 4:** *GEOGRAPHY 7 — Based on Single National Curriculum 2022 (ONE NATION, ONE CURRICULUM)* (student book, English) — Punjab Curriculum and Textbook Board (PCTB), Lahore; SNC 2022, Experimental Edition; author Muhammad Ramzan Khan; ISBN no ISBN printed. Title as printed: GEOGRAPHY 7 — Based on Single National Curriculum 2022 (ONE NATION, ONE CURRICULUM). Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 93 (read in place from phase3-staging; image-only scan, read page by page from contact sheets; cover and contents verified against the record). Verdict: COMPLETE. Read in place from phase3-staging; image-only scan, read page by page from contact sheets; cover and contents verified against the record. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/pakistan-placements.md.
 
+**Book 5:** *الاجتماعيات للصف الرابع الابتدائي (Social Studies for the Fourth Primary Grade)* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula (المديرية العامة للمناهج); year 1445 AH / 2023 CE, 13th edition (الطبعة الثالثة عشرة); ISBN no ISBN printed on the title pages. Title as printed: الاجتماعيات للصف الرابع الابتدائي (Social Studies for the Fourth Primary Grade). Grade: 4 (student/teacher: STUDENT). PDF pages: 64 (cover/title page verified against the record title; read via the books.json record's own Google Drive source file after the GitHub release and tree grabs failed with RemoteDisconnected three times — same book, cover and contents verified). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iraq-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The urban majority grows | Ethiopia, *Economics, Student Textbook, Grade 12*, Unit 8 — Economy, Environment and Climate Change, printed pp. 186–187 |
@@ -18,8 +20,9 @@ countries: Ethiopia, Dominican Republic, Vietnam, Pakistan
 | Dominican Republic part (Grade 12) — Environmental effects of modernisation in Cibao, Suroeste and Sureste (group activity) | Dominican Republic, *Ciencias Sociales, Sexto Grado, Secundaria (Libro Abierto)*, Grade 12, Environmental effects of modernisation in Cibao, Suroeste and Sureste (group activity) — printed p. 172 |
 | Vietnam part — Topic 10.2 (part): Impacts of urbanisation in developing countries — on the economy, on population and society, and on the environment, with remedies; and urbanisation in Vietnam itself (Hanoi and Ho Chi Minh City) | Vietnam, *Vietnam Grade 10 Chuyên đề 10*, Topic 10.2 (part): Impacts of urbanisation in developing countries — on the economy, on population and society, and on the environment, with remedies; and urbanisation in Vietnam itself (Hanoi and Ho Chi Minh City) — printed pp. 25–27 |
 | Pakistan part — Advantages and disadvantages of urban settlements (pollution, congestion, cost); the eco-city; the green agenda and the brown agenda | Pakistan, *Pakistan Grade 7 Geography 7*, Advantages and disadvantages of urban settlements (pollution, congestion, cost); the eco-city; the green agenda and the brown agenda — printed pp. 38–39 |
+| Iraq part — Ch. 2: Problems of the cities (مشكلات المدن) — air pollution from factories and cars, crowding and traffic, noise | Iraq, *Iraq Grade 4 Social Studies*, Ch. 2: Problems of the cities (مشكلات المدن) — air pollution from factories and cars, crowding and traffic, noise — printed p. 29 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Dominican Republic, Vietnam, Pakistan).**
+**Acceptance count: taught in 5 countries (Ethiopia, Dominican Republic, Vietnam, Pakistan, Iraq).**
 
 No matching teacher guide exists in this band: the book recorded as this text's teacher guide proved to be the 2011 GEQIP Grade 12 teacher's guide for the old syllabus, not this book's companion, and supplies no answer keys for it (proof in the placements file's verification block).
 
@@ -30,3 +33,5 @@ Dominican Republic's own way (Grade 12): The final secondary year turns from nat
 Vietnam's own way (Vietnam Grade 10 Chuyên đề 10): the elective companion goes deep on just three things — climate change, urbanisation, and how to write a geography report — and keeps pulling the world material back to Vietnam (a metre of sea-level rise would flood 10–12% of Vietnam's area; Hanoi and Ho Chi Minh City as the home examples of developing-world urbanisation).
 
 Pakistan's own way (Pakistan Grade 7 Geography 7): a dedicated English-medium Geography book built entirely on Pakistan's own physical and economic geography — the Indus plain and delta, the canal system, Rabi/Kharif crops, Sui gas, Thar coal, Khewra salt and Tarbela power — with world concepts (river courses, settlement hierarchy, greenhouse effect, mining types) taught through Pakistani examples first.
+
+Iraq's own way (Iraq Grade 4 Social Studies): geography enters inside "Social Studies" through the child's own surroundings — phenomena are sorted from photographs first, then the local environment, then the map of Iraq's governorates, and only then the wider geographical environments (city, countryside); history and homeland/civics chapters follow in the same book.

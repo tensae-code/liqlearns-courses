@@ -1,6 +1,6 @@
 # Sources — Volcanism — vents, fissures and the Ring of Fire
 
-countries: Ethiopia, Dominican Republic, Samoa, Slovenia, Mozambique, Jordan
+countries: Ethiopia, Dominican Republic, Samoa, Slovenia, Mozambique, Jordan, Iraq
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -14,6 +14,10 @@ countries: Ethiopia, Dominican Republic, Samoa, Slovenia, Mozambique, Jordan
 
 **Book 6:** *علوم الأرض والبيئة — الصف الحادي عشر — كتاب الطالب — الفصل الدراسي الثاني (Earth Science and Environment, Grade 11, Term 2)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-635-8. Title as printed: علوم الأرض والبيئة — الصف الحادي عشر — كتاب الطالب — الفصل الدراسي الثاني (Earth Science and Environment, Grade 11, Term 2). Grade: 11 (student/teacher: STUDENT). PDF pages: 78 (cover verified; byte size 41,973,359 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
 
+**Book 7:** *الجغرافية الطبيعية للصف الخامس الأدبي (Natural Geography for the Fifth Literary Grade) — the record's "Geography (Literary Track)" is the same book: same grade and track, verified by cover and contents* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; revised by a committee in the Ministry of Education; year 1445 AH / 2023 CE, revised 13th edition (الطبعة الثالثة عشرة / المنقحة); ISBN no ISBN printed on the title pages. Title as printed: الجغرافية الطبيعية للصف الخامس الأدبي (Natural Geography for the Fifth Literary Grade) — the record's "Geography (Literary Track)" is the same book: same grade and track, verified by cover and contents. Grade: 11 (fifth secondary, literary track) (student/teacher: STUDENT). PDF pages: 162 (cover/title page verified as above; read via the books.json record's own Google Drive source file — same book, cover and contents verified — after the GitHub route failed). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iraq-placements.md.
+
+**Book 8:** *علم الأرض للصف الخامس العلمي (Earth Science / Geology for the Fifth Scientific Grade) — matches the record's "Earth Science (Scientific Track)"* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; authors named on the title page (Saad Salami Jassim, Waleed Abdul-Majeed Ahmed, Salam Ismail Marhoon, Nasha'a Majeed Jassim, Thaer Abd Ruomi, Loay Adnan Hassoun, Kholoud Mahdi Salem); year 1445 AH / 2023 CE, 7th edition (الطبعة السابعة); ISBN no ISBN printed on the title pages. Title as printed: علم الأرض للصف الخامس العلمي (Earth Science / Geology for the Fifth Scientific Grade) — matches the record's "Earth Science (Scientific Track)". Grade: 11 (fifth secondary, scientific track) (student/teacher: STUDENT). PDF pages: 132 (printed pagination runs 6 behind the PDF pages: printed p. 1 = PDF p. 7; cover/title page verified as above; read via the books.json record's own Google Drive source file — same book, cover and contents verified — after the GitHub route failed). Verdict: COMPLETE. Printed pagination runs 6 behind the PDF pages (printed p. 1 = PDF p. 7), as its header records. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iraq-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Vents and fissures | G12 student #16, printed pp. 19–20 |
@@ -24,8 +28,10 @@ countries: Ethiopia, Dominican Republic, Samoa, Slovenia, Mozambique, Jordan
 | Mozambique part — Lição 13: Vulcanismo — materiais expelidos pelos vulcões (solids, liquids, gases; geyser formation; negative impacts) | Mozambique, *Mozambique Grade 10 PESD II Mod 3*, Lição 13: Vulcanismo — materiais expelidos pelos vulcões (solids, liquids, gases; geyser formation; negative impacts) — printed p. 73 |
 | Mozambique part — Lição 14: Distribuição Geográfica das Regiões Vulcânicas (Pacific, Indian Ocean islands; Africa — Cameroon, Cape Verde, Rift Valley: Kilimanjaro, Nyiragongo; prevention) | Mozambique, *Mozambique Grade 10 PESD II Mod 3*, Lição 14: Distribuição Geográfica das Regiões Vulcânicas (Pacific, Indian Ocean islands; Africa — Cameroon, Cape Verde, Rift Valley: Kilimanjaro, Nyiragongo; prevention) — printed p. 79 |
 | Jordan part — Unit 4 Lesson 2: Volcanoes (البراكين) | Jordan, *Jordan G11 ES T2*, Unit 4 Lesson 2: Volcanoes (البراكين) — printed p. 59 |
+| Iraq part — Ch. 1: Volcanoes and lava types — activity: compare the world distribution of earthquakes and volcanoes | Iraq, *Iraq Grade 11 Physical Geography*, Ch. 1: Volcanoes and lava types — activity: compare the world distribution of earthquakes and volcanoes — printed p. 18 |
+| Iraq part — Ch. 2: The volcano (البركان) — eruptions mostly at divergent and convergent plate boundaries; the make-up of volcanic ejecta, solid materials first | Iraq, *Iraq Grade 11 Earth Science*, Ch. 2: The volcano (البركان) — eruptions mostly at divergent and convergent plate boundaries; the make-up of volcanic ejecta, solid materials first — printed p. 37 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Dominican Republic, Samoa, Slovenia, Mozambique, Jordan).**
+**Acceptance count: taught in 7 countries (Ethiopia, Dominican Republic, Samoa, Slovenia, Mozambique, Jordan, Iraq).**
 
 No book error in the placements for this lesson is taught here. Counts and examples are taught exactly as the placements report them.
 
@@ -40,3 +46,7 @@ Slovenia's own way (Slovenia Grade 10 Geografija 1 (gimnazija)): the gimnazija f
 Mozambique's own way (Mozambique Grade 10 PESD II Mod 3): a systematic geomorphology course — rocks and Earth's interior first, then isostasy, continental drift and plate tectonics, then internal agents (folds, faults, earthquakes, volcanoes in four lessons), then external agents and the modelled landscapes of hot, temperate, cold and coastal environments, closing with the geological cycle.
 
 Jordan's own way (Jordan G11 ES T2): Term 2 is fossil fuels — their origin, kinds, and Jordan's own (oil shale, gas) with the petrochemical industry — then earthquakes and volcanoes.
+
+Iraq's own way (Iraq Grade 11 Physical Geography): a pure physical-geography course in six chapters — landforms, weather and climate, water, the biosphere, soil, and the environment — with Iraqi anchors kept throughout (flood visits to Iraq's rivers, the hills of northern Iraq, groundwater and the desert caravans, soil salinity in the alluvial plain).
+
+Iraq's own way (Iraq Grade 11 Earth Science): the scientific track's earth-science course — atmosphere, earthquakes and volcanoes, weathering and soil, environment and pollution, and fossils and geological time — bilingual with English technical terms throughout, and Iraqi touches kept (the air masses over Iraq, the yellow dust storms, Iraq's Natural History Museum).

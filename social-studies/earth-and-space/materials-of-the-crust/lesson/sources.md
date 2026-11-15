@@ -1,6 +1,6 @@
 # Sources — Materials of the Crust — Elements, Minerals and Rocks
 
-countries: Ethiopia, Barbados, Malaysia, India, North Macedonia, Slovenia, Vietnam, Papua New Guinea, Uganda, Sudan, Syria, Kuwait, Pakistan, Libya, Mozambique, Jordan
+countries: Ethiopia, Barbados, Malaysia, India, North Macedonia, Slovenia, Vietnam, Papua New Guinea, Uganda, Sudan, Syria, Kuwait, Pakistan, Libya, Mozambique, Jordan, Iraq
 
 **Book 3:** *Social Studies Teacher's Guide, Grade 7* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, first edition 2022 (© 2014 E.C.), 142 printed pp. Printed page = PDF page - 5. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-teacher-placements.md.
 
@@ -50,6 +50,8 @@ countries: Ethiopia, Barbados, Malaysia, India, North Macedonia, Slovenia, Vietn
 
 **Book 26:** *دليل المعلم — علوم الأرض والبيئة — الصف العاشر — الفصل الدراسي الأول (Teacher's Guide, Earth Science and Environment, Grade 10, Term 1)* (teacher guide, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-126-1. Title as printed: دليل المعلم — علوم الأرض والبيئة — الصف العاشر — الفصل الدراسي الأول (Teacher's Guide, Earth Science and Environment, Grade 10, Term 1). Grade: 10 (student/teacher: TEACHER). PDF pages: 106 (cover verified; byte size 48,517,066 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
 
+**Book 27:** *الجغرافية الطبيعية للصف الخامس الأدبي (Natural Geography for the Fifth Literary Grade) — the record's "Geography (Literary Track)" is the same book: same grade and track, verified by cover and contents* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; revised by a committee in the Ministry of Education; year 1445 AH / 2023 CE, revised 13th edition (الطبعة الثالثة عشرة / المنقحة); ISBN no ISBN printed on the title pages. Title as printed: الجغرافية الطبيعية للصف الخامس الأدبي (Natural Geography for the Fifth Literary Grade) — the record's "Geography (Literary Track)" is the same book: same grade and track, verified by cover and contents. Grade: 11 (fifth secondary, literary track) (student/teacher: STUDENT). PDF pages: 162 (cover/title page verified as above; read via the books.json record's own Google Drive source file — same book, cover and contents verified — after the GitHub route failed). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iraq-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Eight elements, and what a mineral is (teacher guide — evidence) | Ethiopia, *Social Studies Teacher's Guide, Grade 7*, Unit 1, printed pp. 11–14 |
@@ -85,8 +87,9 @@ countries: Ethiopia, Barbados, Malaysia, India, North Macedonia, Slovenia, Vietn
 | Jordan part — Unit 1 Enrichment: Rock Wool (الصوف الصخري) | Jordan, *Jordan G10 ES T1*, Unit 1 Enrichment: Rock Wool (الصوف الصخري) — printed p. 34 |
 | Jordan part — Unit 1 Rocks practicals: classifying rocks, cooling rate and crystal size, chemical sedimentary rocks, identifying rocks | Jordan, *Jordan G10 ES T1 Workbook*, Unit 1 Rocks practicals: classifying rocks, cooling rate and crystal size, chemical sedimentary rocks, identifying rocks — printed p. 4 |
 | Jordan part — Unit 1 Rocks: teacher guidance for the igneous, sedimentary and metamorphic lessons and their practicals | Jordan, *Jordan G10 ES T1 Teacher Guide*, Unit 1 Rocks: teacher guidance for the igneous, sedimentary and metamorphic lessons and their practicals — printed p. 10 (teacher-guide evidence) |
+| Iraq part — Ch. 1: The lithosphere and its rocks — igneous rocks by silica content, and metamorphic rocks | Iraq, *Iraq Grade 11 Physical Geography*, Ch. 1: The lithosphere and its rocks — igneous rocks by silica content, and metamorphic rocks — printed p. 6 |
 
-**Acceptance count: taught in 14 countries (Barbados, Malaysia, India, North Macedonia, Slovenia, Vietnam, Uganda, Sudan, Syria, Kuwait, Pakistan, Libya, Mozambique, Jordan). Ethiopia is named here as teacher-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 15 countries (Barbados, Malaysia, India, North Macedonia, Slovenia, Vietnam, Uganda, Sudan, Syria, Kuwait, Pakistan, Libya, Mozambique, Jordan, Iraq). Ethiopia is named here as teacher-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Barbados's own way: this is the shared Caribbean CSEC examination textbook used in Barbados — every world process is re-taught through Caribbean case studies (the Caribbean plate, Montserrat's volcano, Jamaica's coasts and Kingston's urban problems, St Lucia's reefs, Bahamas/Jamaica/Puerto Rico karst, Guyana's rivers), map and field skills are folded into the chapters, and the course ends in a School-Based Assessment fieldwork project. That way is stocked here as the way Barbados teaches this thing; it does not change the acceptance count above.
 
@@ -137,3 +140,5 @@ Jordan's own way (Jordan G10 ES T1): Grade 10 Earth Science is rocks first (igne
 Jordan's own way (Jordan G10 ES T1 Workbook): bench versions of the rock and star units — classifying rocks, cooling rate against crystal size, star colours and brightness, and modelling how a black hole works.
 
 Jordan's own way (Jordan G10 ES T1 Teacher Guide): the guide walks the teacher through the student book and the activities book together — overviews of both, then lesson-by-lesson teaching notes, answers and enrichment for Rocks and Stars.
+
+Iraq's own way (Iraq Grade 11 Physical Geography): a pure physical-geography course in six chapters — landforms, weather and climate, water, the biosphere, soil, and the environment — with Iraqi anchors kept throughout (flood visits to Iraq's rivers, the hills of northern Iraq, groundwater and the desert caravans, soil salinity in the alluvial plain).

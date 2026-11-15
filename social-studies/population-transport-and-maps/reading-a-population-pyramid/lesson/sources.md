@@ -1,6 +1,6 @@
 # Sources — Reading a population pyramid
 
-countries: Ethiopia, Barbados, Haiti, Turkmenistan, Indonesia, Dominican Republic, Malaysia, India, United Kingdom, Cambodia, Fiji, Slovenia, Vietnam, Papua New Guinea, Sudan, Mauritania, Yemen, Moldova, Nepal, Mozambique, Jordan, Laos
+countries: Ethiopia, Barbados, Haiti, Turkmenistan, Indonesia, Dominican Republic, Malaysia, India, United Kingdom, Cambodia, Fiji, Slovenia, Vietnam, Papua New Guinea, Sudan, Mauritania, Yemen, Moldova, Nepal, Mozambique, Jordan, Laos, Iraq
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -66,6 +66,8 @@ countries: Ethiopia, Barbados, Haiti, Turkmenistan, Indonesia, Dominican Republi
 
 **Book 32:** *ແບບຮຽນ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາປີທີ 5 (Textbook, Geography, Secondary Year 5)* (student book, Lao) — Ministry of Education and Sports, Educational Science Research Institute; year 2014 (printed by Eastern Printing Public Co. Ltd., Thailand; print run 27,685); ISBN no ISBN printed. Title as printed: ແບບຮຽນ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາປີທີ 5 (Textbook, Geography, Secondary Year 5). Grade: Grade 10 (ມ.5) (student/teacher: STUDENT). PDF pages: 205 (cover verified against the record title — full cover spread with world climate map; byte size 25,276,102 exact match to the books.json record, read via the release asset). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/laos-placements.md.
 
+**Book 33:** *الاجتماعيات للصف الثالث المتوسط (Social Studies for the Third Intermediate Grade)* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 1445 AH / 2023 CE, 2nd edition (الطبعة الثانية); ISBN no ISBN printed on the title pages. Title as printed: الاجتماعيات للصف الثالث المتوسط (Social Studies for the Third Intermediate Grade). Grade: 9 (student/teacher: STUDENT). PDF pages: 160 (cover/title page verified against the record title; read via the books.json record's own Google Drive source file — same book, cover and contents verified — after the GitHub route failed). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iraq-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The pyramid’s shape | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 4, printed pp. 91–94 |
@@ -102,8 +104,9 @@ countries: Ethiopia, Barbados, Haiti, Turkmenistan, Indonesia, Dominican Republi
 | Jordan part — Unit 3 Lesson 3: Population Structure (التركيب السكاني) | Jordan, *Jordan G12 Geography T1*, Unit 3 Lesson 3: Population Structure (التركيب السكاني) — printed p. 118 |
 | Laos part — Part III Lesson 12: Population structure/composition | Laos, *Laos Grade 10 laos-g10-geography-teacher*, Part III Lesson 12: Population structure/composition — printed p. 90 (teacher-guide evidence) |
 | Laos part — Part III Lesson 12: Population structure/composition | Laos, *Laos Grade 10 laos-g10-geography-student*, Part III Lesson 12: Population structure/composition — printed p. 104 |
+| Iraq part — Unit 1 Ch. 2: Population composition (تركيب السكان) — the age composition | Iraq, *Iraq Grade 9 Social Studies*, Unit 1 Ch. 2: Population composition (تركيب السكان) — the age composition — printed p. 48 |
 
-**Acceptance count: taught in 20 countries (Ethiopia, Barbados, Turkmenistan, Indonesia, Dominican Republic, Malaysia, India, United Kingdom, Cambodia, Fiji, Slovenia, Vietnam, Sudan, Mauritania, Yemen, Moldova, Nepal, Mozambique, Jordan, Laos). Haiti is named here as teacher-sequence evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 21 countries (Ethiopia, Barbados, Turkmenistan, Indonesia, Dominican Republic, Malaysia, India, United Kingdom, Cambodia, Fiji, Slovenia, Vietnam, Sudan, Mauritania, Yemen, Moldova, Nepal, Mozambique, Jordan, Laos, Iraq). Haiti is named here as teacher-sequence evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -166,3 +169,5 @@ Jordan's own way (Jordan G12 Geography T1): the final-year Geography book is bui
 Laos's own way (Laos Grade 10 laos-g10-geography-teacher): a second world-geography pass at a higher level — Earth and map projection first, then life in the climate zones (hot, temperate, cold, mountain/coastal), population characteristics and problems, humans and environment, and a distinctive closing block on how geographic space is organised (agricultural areas, industrial areas, tourism areas, rural and urban geography).
 
 Laos's own way (Laos Grade 10 laos-g10-geography-student): the student twin of Book 6 — same 6 parts / 20 lessons with full illustrated text, opening with a concept map of the whole year (Earth, life zones, population and quality of life, humans and environment, organisation of geographic space, rural and urban geography).
+
+Iraq's own way (Iraq Grade 9 Social Studies): Grade 9 returns to Iraq for the fullest treatment yet — the same national geography as Grade 5 but measured: the plain is 24% and about 600 km long, the desert plateau about 55%, the desert plant belt about 70%, two-thirds of the people live on the central and southern plain; every topic is pinned to numbered maps of Iraq.

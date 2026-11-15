@@ -1,6 +1,6 @@
 # Sources — The Water Cycle
 
-countries: India, Cambodia, Vietnam, Pakistan, Moldova, Mozambique, Laos
+countries: India, Cambodia, Vietnam, Pakistan, Moldova, Mozambique, Laos, Iraq
 
 **Book 1:** *Our Environment — Textbook in Geography for Class VII (Social Science)* (student book, English) — India, NCERT, New Delhi; first edition March 2007, this copy reprint 2020-21; ISBN 81-7450-714-0. Title as printed: Our Environment — Textbook in Geography for Class VII (Social Science). Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 84 (cover render verified: "Our Environment, Textbook in Geography for Class VII, NCERT 2020-21"; grabbed via grab.py release route, 23,494,641 bytes; duplicate TSV + books.json records grade-07/gov/india/our-environment.pdf counted once). Verdict: COMPLETE — 9 chapters, printed pp. 1-71 + appendix p. 72. Records note: 34 records / 17 distinct books (17 TSV records in grades 6-10 + 17 books.json records that are the same books by grade/subject — duplicate records of the same NCERT titles); the 5 Geography books were read full page-by-page via pdftotext -layout after cover verification; the other 12 books are record-only (History, Civics, Economics) with no Geography content, filed for later waves. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/india-placements.md.
 
@@ -20,6 +20,8 @@ countries: India, Cambodia, Vietnam, Pakistan, Moldova, Mozambique, Laos
 
 **Book 9:** *ແບບຮຽນ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາປີທີ 5 (Textbook, Geography, Secondary Year 5)* (student book, Lao) — Ministry of Education and Sports, Educational Science Research Institute; year 2014 (printed by Eastern Printing Public Co. Ltd., Thailand; print run 27,685); ISBN no ISBN printed. Title as printed: ແບບຮຽນ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາປີທີ 5 (Textbook, Geography, Secondary Year 5). Grade: Grade 10 (ມ.5) (student/teacher: STUDENT). PDF pages: 205 (cover verified against the record title — full cover spread with world climate map; byte size 25,276,102 exact match to the books.json record, read via the release asset). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/laos-placements.md.
 
+**Book 10:** *الجغرافية الطبيعية للصف الخامس الأدبي (Natural Geography for the Fifth Literary Grade) — the record's "Geography (Literary Track)" is the same book: same grade and track, verified by cover and contents* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; revised by a committee in the Ministry of Education; year 1445 AH / 2023 CE, revised 13th edition (الطبعة الثالثة عشرة / المنقحة); ISBN no ISBN printed on the title pages. Title as printed: الجغرافية الطبيعية للصف الخامس الأدبي (Natural Geography for the Fifth Literary Grade) — the record's "Geography (Literary Track)" is the same book: same grade and track, verified by cover and contents. Grade: 11 (fifth secondary, literary track) (student/teacher: STUDENT). PDF pages: 162 (cover/title page verified as above; read via the books.json record's own Google Drive source file — same book, cover and contents verified — after the GitHub route failed). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iraq-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Ch.5: the water cycle (hydrological cycle) | India, *India Grade 7 Our Environment*, Ch.5: the water cycle (hydrological cycle) — printed p. 30 |
@@ -32,8 +34,9 @@ countries: India, Cambodia, Vietnam, Pakistan, Moldova, Mozambique, Laos
 | Mozambique part — Lição 11: Ciclo da água (infiltration, groundwater sheets, surface runoff; man's interference) [placement slug: the-land-and-air/the-water-cycle] | Mozambique, *Mozambique Grade 10 PESD II Mod 2*, Lição 11: Ciclo da água (infiltration, groundwater sheets, surface runoff; man's interference) — printed p. 71 |
 | Laos part — Part I Lesson 6: The water cycle | Laos, *Laos Grade 10 laos-g10-geography-teacher*, Part I Lesson 6: The water cycle — printed p. 64 (teacher-guide evidence) |
 | Laos part — Part I Lesson 6: The water cycle | Laos, *Laos Grade 10 laos-g10-geography-student*, Part I Lesson 6: The water cycle — printed p. 53 |
+| Iraq part — Ch. 3 Hydrology (علم المياه): the water cycle in nature, and Earth's waters — only about 2% fresh [placement slug: the-land-and-air/the-water-cycle-and-earths-waters] | Iraq, *Iraq Grade 11 Physical Geography*, Ch. 3 Hydrology (علم المياه): the water cycle in nature, and Earth's waters — only about 2% fresh — printed p. 66 |
 
-**Acceptance count: taught in 7 countries (India, Cambodia, Vietnam, Pakistan, Moldova, Mozambique, Laos).**
+**Acceptance count: taught in 8 countries (India, Cambodia, Vietnam, Pakistan, Moldova, Mozambique, Laos, Iraq).**
 
 India's own way (Grade 7 Our Environment): Grade 7 is organised around "environment" in widening rings — the concept itself, then inside/changing Earth, air and water, world vegetation belts, human settlement and transport, and finally three lived-in region studies (Amazon basin, Ganga-Brahmaputra basin, Sahara and Ladakh deserts) where all the strands meet in real places.
 
@@ -54,3 +57,5 @@ Mozambique's own way (Mozambique Grade 10 PESD II Mod 2): a full physical-climat
 Laos's own way (Laos Grade 10 laos-g10-geography-teacher): a second world-geography pass at a higher level — Earth and map projection first, then life in the climate zones (hot, temperate, cold, mountain/coastal), population characteristics and problems, humans and environment, and a distinctive closing block on how geographic space is organised (agricultural areas, industrial areas, tourism areas, rural and urban geography).
 
 Laos's own way (Laos Grade 10 laos-g10-geography-student): the student twin of Book 6 — same 6 parts / 20 lessons with full illustrated text, opening with a concept map of the whole year (Earth, life zones, population and quality of life, humans and environment, organisation of geographic space, rural and urban geography).
+
+Iraq's own way (Iraq Grade 11 Physical Geography): a pure physical-geography course in six chapters — landforms, weather and climate, water, the biosphere, soil, and the environment — with Iraqi anchors kept throughout (flood visits to Iraq's rivers, the hills of northern Iraq, groundwater and the desert caravans, soil salinity in the alluvial plain).

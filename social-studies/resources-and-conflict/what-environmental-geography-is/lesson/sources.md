@@ -1,16 +1,21 @@
 # Sources — What Environmental Geography Is
 
-countries: Myanmar
+countries: Myanmar, Iraq
 
 **Book 1:** *Teacher Guide — Geography — Grade 6* (teacher guide, English) — Myanmar, Government of the Republic of the Union of Myanmar, Ministry of Education; publisher: Basic Education Curriculum, Syllabus and School Textbook Committee, Ministry of Education; year 2019 (printed Feb 2019, 2019-2020 academic year, 325,000 copies); ISBN no ISBN printed. Title as printed: Teacher Guide — Geography — Grade 6. Grade 6 (teacher). 93 PDF pp. (cover/title page verified against the record title). Verdict: COMPLETE. Read via grabcurl (curl-resume Contents route, byte size 715,373 + blob SHA verified SHA-OK). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/myanmar-placements.md.
+
+**Book 2:** *أُسُس الجغرافية وتقنياتها (Foundations of Geography and Its Techniques) للصف الرابع الأدبي — the record's shorter title "Geography (Literary Track)" is the same book: same grade, track and subject, verified by cover and contents* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; revised by a committee in the Ministry of Education; year 1445 AH / 2023 CE, revised 13th edition (الطبعة الثالثة عشرة / المنقحة); ISBN no ISBN printed on the title pages. Title as printed: أُسُس الجغرافية وتقنياتها (Foundations of Geography and Its Techniques) للصف الرابع الأدبي — the record's shorter title "Geography (Literary Track)" is the same book: same grade, track and subject, verified by cover and contents. Grade: 10 (fourth secondary, literary track) (student/teacher: STUDENT). PDF pages: 144 (cover/title page verified as above; read via the books.json record's own Google Drive source file — same book, cover and contents verified — after the GitHub route failed). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iraq-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The definition of environmental geography and its field of study (teacher guide — evidence) | Myanmar, *Teacher Guide — Geography — Grade 6* (teacher guide), §3.1: The definition of environmental geography and its field of study — printed p. 33 |
 | Sub lesson 2 — Myanmar's way — a strand of its own (teacher guide — evidence) | Myanmar, *Teacher Guide — Geography — Grade 6* (teacher guide), §3.1, printed p. 33, and the book's stated way of working (The year is split into five parallel strands revisited week by week — physical geography, social geography, environmental geography, neighbouring countries and cartography — each lesson plan built student-centred (Bloom steps, key questions, classroom assessment) around Myanmar and its five neighbours.) |
+| Iraq part — Ch. 5: Environmental geography (جغرافية البيئة) — the environment in which all living things live [placement slug: global-issues/environmental-geography] | Iraq, *Iraq Grade 10 Geography*, Ch. 5: Environmental geography (جغرافية البيئة) — the environment in which all living things live — printed p. 138 |
 
-**Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (Myanmar), named here, counted nowhere.**
+**Acceptance count: taught in 1 country (Iraq). Myanmar is named here as teacher-guide evidence only, counted nowhere.**
 
 Myanmar's own way (teacher guide — evidence): the year is split into five parallel strands revisited week by week — physical geography, social geography, environmental geography, neighbouring countries and cartography — each lesson plan built student-centred (Bloom steps, key questions, classroom assessment) around Myanmar and its five neighbours. This lesson stands on that teacher guide as evidence: it teaches the guide's thing in the course's own words — the book's text itself is never transcribed.
 
 Searchable tags: environmental geography, definition, field of study, environment, Myanmar, Teacher Guide Geography Grade 6, teacher guide evidence, Myanmar Grade 6, social studies, resources and conflict
+
+Iraq's own way (Iraq Grade 10 Geography): the literary track opens geography as a discipline in its own right — its thought from the Sumerians to GIS, how a geographer researches, where geographical data come from and how they are drawn, and only then the fields of the science; Iraq supplies the worked examples throughout (Baghdad research problem, Iraqi topographic maps, Iraq's gas time series, the Baghdad–Basra distance exercise).

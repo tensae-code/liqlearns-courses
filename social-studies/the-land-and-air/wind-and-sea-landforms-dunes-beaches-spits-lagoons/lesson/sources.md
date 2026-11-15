@@ -1,6 +1,6 @@
 # Sources — Wind and sea landforms — dunes, beaches, spits, lagoons
 
-countries: Ethiopia, Malaysia, United Kingdom, Slovenia, Mauritania, Kuwait, Libya, Mozambique, Jordan
+countries: Ethiopia, Malaysia, United Kingdom, Slovenia, Mauritania, Kuwait, Libya, Mozambique, Jordan, Iraq
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Malaysia, United Kingdom, Slovenia, Mauritania, Kuwait, Lib
 
 **Book 9:** *الجغرافيا — الصف الثاني عشر / المسار الأكاديمي — الفصل الدراسي الأول (Geography, Grade 12 Academic Track, Term 1; this PDF is the NCCD preparation copy, نسخة قيد الإعداد, 1446هـ/2025م)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; year 2025; ISBN 978-9923-41-949-6. Title as printed: الجغرافيا — الصف الثاني عشر / المسار الأكاديمي — الفصل الدراسي الأول (Geography, Grade 12 Academic Track, Term 1; this PDF is the NCCD preparation copy, نسخة قيد الإعداد, 1446هـ/2025م). Grade: 12 (student/teacher: STUDENT). PDF pages: 145 (cover verified; byte size 121,517,865 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
 
+**Book 10:** *الجغرافية الطبيعية للصف الخامس الأدبي (Natural Geography for the Fifth Literary Grade) — the record's "Geography (Literary Track)" is the same book: same grade and track, verified by cover and contents* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; revised by a committee in the Ministry of Education; year 1445 AH / 2023 CE, revised 13th edition (الطبعة الثالثة عشرة / المنقحة); ISBN no ISBN printed on the title pages. Title as printed: الجغرافية الطبيعية للصف الخامس الأدبي (Natural Geography for the Fifth Literary Grade) — the record's "Geography (Literary Track)" is the same book: same grade and track, verified by cover and contents. Grade: 11 (fifth secondary, literary track) (student/teacher: STUDENT). PDF pages: 162 (cover/title page verified as above; read via the books.json record's own Google Drive source file — same book, cover and contents verified — after the GitHub route failed). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iraq-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Wind at work | G12 student #23, printed pp. 29–30 |
@@ -35,8 +37,9 @@ countries: Ethiopia, Malaysia, United Kingdom, Slovenia, Mauritania, Kuwait, Lib
 | Mozambique part — Lição 19: A Costa e o Modelado Litoral (marine abrasion, dissolution, deltas, coast types) | Mozambique, *Mozambique Grade 10 PESD II Mod 3*, Lição 19: A Costa e o Modelado Litoral (marine abrasion, dissolution, deltas, coast types) — printed p. 111 |
 | Jordan part — Unit 1 Lesson 5: The Role of Wind in Shaping the Earth's Surface (دور الرياح) | Jordan, *Jordan G12 Geography T1*, Unit 1 Lesson 5: The Role of Wind in Shaping the Earth's Surface (دور الرياح) — printed p. 38 |
 | Jordan part — Unit 1 Lesson 6: The Role of Waves in Shaping the Earth's Surface (دور الأمواج) | Jordan, *Jordan G12 Geography T1*, Unit 1 Lesson 6: The Role of Waves in Shaping the Earth's Surface (دور الأمواج) — printed p. 44 |
+| Iraq part — Ch. 1: Wind action — activity: build a model crescent (barchan) dune | Iraq, *Iraq Grade 11 Physical Geography*, Ch. 1: Wind action — activity: build a model crescent (barchan) dune — printed p. 12 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Malaysia, United Kingdom, Slovenia, Mauritania, Kuwait, Libya, Mozambique, Jordan).**
+**Acceptance count: taught in 10 countries (Ethiopia, Malaysia, United Kingdom, Slovenia, Mauritania, Kuwait, Libya, Mozambique, Jordan, Iraq).**
 
 Figure-reference correction carried from the placements: the spit and lagoon text in the book points to 'Figure 1.31', but the sea-work figure is captioned Figure 1.32 (1.31 is the wind-action figure) — taught with the corrected figure numbers and named here only.
 
@@ -57,3 +60,5 @@ Libya's own way (Libya Grade 6 LY G6 Social Studies): The geography half is "Pri
 Mozambique's own way (Mozambique Grade 10 PESD II Mod 3): a systematic geomorphology course — rocks and Earth's interior first, then isostasy, continental drift and plate tectonics, then internal agents (folds, faults, earthquakes, volcanoes in four lessons), then external agents and the modelled landscapes of hot, temperate, cold and coastal environments, closing with the geological cycle.
 
 Jordan's own way (Jordan G12 Geography T1): the final-year Geography book is built in three blocks — the forces that shape Earth's surface, political geography (state power, borders, alliances, Jordan's national security), and population geography.
+
+Iraq's own way (Iraq Grade 11 Physical Geography): a pure physical-geography course in six chapters — landforms, weather and climate, water, the biosphere, soil, and the environment — with Iraqi anchors kept throughout (flood visits to Iraq's rivers, the hills of northern Iraq, groundwater and the desert caravans, soil salinity in the alluvial plain).

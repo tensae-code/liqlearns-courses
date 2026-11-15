@@ -1,6 +1,6 @@
 # Sources — Making things — craft and factory
 
-countries: Ethiopia, Kuwait, Afghanistan, Iran
+countries: Ethiopia, Kuwait, Afghanistan, Iran, Iraq
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Kuwait, Afghanistan, Iran
 
 **Book 6:** *جغرافیا (۲) جغرافیای ناحیه‌ای ـ پایه یازدهم دوره دوم متوسطه (Geography (2): Regional Geography, Grade 11 of the second secondary cycle)* (student book, Persian) — Ministry of Education, Organization for Educational Research and Planning (سازمان پژوهش و برنامه‌ریزی آموزشی); printed by the Iran Textbook Printing and Publishing Company (شرکت چاپ و نشر کتاب‌های درسی ایران); ISBN 978-964-05-2800-6; book code 111218 (matches the record's C111218). Title as printed: جغرافیا (۲) جغرافیای ناحیه‌ای ـ پایه یازدهم دوره دوم متوسطه (Geography (2): Regional Geography, Grade 11 of the second secondary cycle). Grade: 11 (student/teacher: STUDENT). PDF pages: 176 (printed pagination runs 8 behind the PDF pages: printed p. 1 = PDF p. 9; title page verified as above; read via the books.json record's own ministry source file at chap.sch.ir — same book, exact byte size and page count as the record — after the GitHub route failed). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iran-placements.md.
 
+**Book 7:** *الجغرافية البشرية للصف السادس الأدبي (Human Geography for the Sixth Literary Grade) — the record's "Geography (Literary Track)" is the same book: same grade and track, verified by cover and contents* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; revised by a committee in the Ministry of Education; year 1445 AH / 2023 CE, revised 13th edition (الطبعة الثالثة عشرة / المنقحة); ISBN no ISBN printed on the title pages. Title as printed: الجغرافية البشرية للصف السادس الأدبي (Human Geography for the Sixth Literary Grade) — the record's "Geography (Literary Track)" is the same book: same grade and track, verified by cover and contents. Grade: 12 (sixth secondary, literary track) (student/teacher: STUDENT). PDF pages: 172 (cover/title page verified as above; read via the books.json record's own Google Drive source file — same book, cover and contents verified — after the GitHub route failed). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iraq-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Craft and factory | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 5, printed pp. 128–130 |
@@ -24,8 +26,9 @@ countries: Ethiopia, Kuwait, Afghanistan, Iran
 | Afghanistan part — Afghanistan Ch. 3 Lesson 22: industries and their importance in Afghanistan — handicraft industries, machine industries, statistics of machine production | Afghanistan, *Afghanistan Grade 11 Geography (Dari)*, Afghanistan Ch. 3 Lesson 22: industries and their importance in Afghanistan — handicraft industries, machine industries, statistics of machine production — printed p. 71 |
 | Afghanistan part — Lessons 31–42: the importance of industries; handicrafts — carpet weaving, leatherwork, embroidery; machine industries — textile and weaving factory, pharmaceutical industry, cement factories; heavy and light industries; ferrous and coloured metals; carpentry and stonework | Afghanistan, *Afghanistan Grade 5 Social Studies (Dari)*, Lessons 31–42: the importance of industries; handicrafts — carpet weaving, leatherwork, embroidery; machine industries — textile and weaving factory, pharmaceutical industry, cement factories; heavy and light industries; ferrous and coloured metals; carpentry and stonework — printed p. 61 |
 | Iran part — Lesson 7: Industry (صنعت) — most of the goods we use daily are made in factories; modern human life depends on many kinds of industry [placement slug: people-and-resources/industry-making-things] | Iran, *Iran Grade 11 Geography (2)*, Lesson 7: Industry (صنعت) — most of the goods we use daily are made in factories; modern human life depends on many kinds of industry — printed p. 95 |
+| Iraq part — Ch. 4 Geography of industry: classifying industries — by the use of their products (consumer industries such as food and textiles, and producer industries) [placement slug: people-and-resources/industry-making-things] | Iraq, *Iraq Grade 12 Human Geography*, Ch. 4 Geography of industry: classifying industries — by the use of their products (consumer industries such as food and textiles, and producer industries) — printed p. 81 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Kuwait, Afghanistan, Iran).**
+**Acceptance count: taught in 5 countries (Ethiopia, Kuwait, Afghanistan, Iran, Iraq).**
 
 Searchable tags: secondary activities, manufacturing, crafts, weaving, textile factory, social studies
 
@@ -36,3 +39,5 @@ Afghanistan's own way (Afghanistan Grade 11 Geography (Dari)): an economic-geogr
 Afghanistan's own way (Afghanistan Grade 5 Social Studies (Dari)): Grade 5 social studies is an economic tour of Afghanistan for children — public services first (water, electricity, telecom, post, transport), then farming crop by crop, livestock animal by animal, industries craft by craft and factory by factory, trade and the country's (dry) ports, ending with environment, climate and mines.
 
 Iran's own way (Iran Grade 11 Geography (2)): the whole book is built on one organising idea — the region (ناحیه). Four chapters divide the world into regions four ways: what a region is, natural regions (climate, landforms, living, coasts, mountains — with Nepal as the highland case study), human regions (cultural, economic), and political regions (the state, borders, geopolitics — with the Persian Gulf and the European Union as case studies).
+
+Iraq's own way (Iraq Grade 12 Human Geography): a human-geography course in six chapters — population, cities and countryside, agriculture, industry and mining, transport and trade, political geography and tourism — and every chapter closes with an applied study of Iraq itself, so the world pattern is always brought home.

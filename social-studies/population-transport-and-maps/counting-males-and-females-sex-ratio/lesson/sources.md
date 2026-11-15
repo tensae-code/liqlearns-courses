@@ -1,6 +1,6 @@
 # Sources — Counting males and females — sex ratio
 
-countries: Ethiopia, India, Sri Lanka, Mauritania
+countries: Ethiopia, India, Sri Lanka, Mauritania, Iraq
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). Editors: Sintayehu Teka (MSc) (Content Editor), Kassie Molla (MA) (Language Editor), Hirut Woldemichael (MA) (Curriculum Editor). Illustrator: Agenchw Nega (MSc). Designer: Geda Hoka (MA). Evaluators: Dereje Guteta (PhD), Tesfaye Shiferaw (PhD), Abebe Yibeltie (MA), Hussein Seid (MA). First published 2023 under GEQIP-E. ISBN 978-99990-0-049-9. Printed by Gravity Group IND LLC, 13th Industrial Area, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. Printed page = PDF page − 6 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md
 
@@ -12,6 +12,8 @@ countries: Ethiopia, India, Sri Lanka, Mauritania
 
 **Book 5:** *Kitab al-Jughrafia lilsana al-Sadisa Adab 'Asriya (Geography Book, Sixth Year — Modern Letters; the printed title page reads Modern Letters although the file suffix is -cd)* (student book, Arabic) — Institut Pédagogique National (IPN), Mauritania; year no year printed on title page; ISBN no ISBN printed. Title as printed: Kitab al-Jughrafia lilsana al-Sadisa Adab 'Asriya (Geography Book, Sixth Year — Modern Letters; the printed title page reads Modern Letters although the file suffix is -cd). Grade: Grade 12 (6e année secondaire) (student/teacher: STUDENT). PDF pages: 124 (cover/title page verified against the record title; fetched from the record's source URL docs.bsimr.com/pdfs/secondaire2s/GEO-6AS-CD.pdf, 3,072,802 bytes). Verdict: COMPLETE. The printed title page reads Modern Letters although the file suffix is -cd, as the placements file labels it — carried exactly as filed. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mauritania-placements.md.
 
+**Book 6:** *الاجتماعيات للصف الثالث المتوسط (Social Studies for the Third Intermediate Grade)* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 1445 AH / 2023 CE, 2nd edition (الطبعة الثانية); ISBN no ISBN printed on the title pages. Title as printed: الاجتماعيات للصف الثالث المتوسط (Social Studies for the Third Intermediate Grade). Grade: 9 (student/teacher: STUDENT). PDF pages: 160 (cover/title page verified against the record title; read via the books.json record's own Google Drive source file — same book, cover and contents verified — after the GitHub route failed). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iraq-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The ratio itself | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 4, printed pp. 108–109 |
@@ -20,8 +22,9 @@ countries: Ethiopia, India, Sri Lanka, Mauritania
 | India part (Grade 9 Contemporary India-I) — Ch.6: population composition — sex ratio, literacy rates, occupational structure | India, *India Grade 9 Contemporary India-I*, Ch.6: population composition — sex ratio, literacy rates, occupational structure — printed p. 58 |
 | Sri Lanka part — Ch. 2 Composition of Sri Lanka's population: sex ratio 1981–2012, ageing age structure, ethnic and religious composition | Sri Lanka, *Sri Lanka Grade 9 G9 English*, Ch. 2 Composition of Sri Lanka's population: sex ratio 1981–2012, ageing age structure, ethnic and religious composition — printed p. 52 |
 | Mauritania part — Unit 1 Lesson 5: the structure of the world's population | Mauritania, *Mauritania Grade 12 geo-6as-cd*, Unit 1 Lesson 5: the structure of the world's population — printed p. 41 |
+| Iraq part — Unit 1 Ch. 2: The sex composition — males per hundred females, and how it is calculated | Iraq, *Iraq Grade 9 Social Studies*, Unit 1 Ch. 2: The sex composition — males per hundred females, and how it is calculated — printed p. 49 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, India, Sri Lanka, Mauritania).**
+**Acceptance count: taught in 5 countries (Ethiopia, India, Sri Lanka, Mauritania, Iraq).**
 
 Carried exactly as the placements flag it: the book's formula frames the sex ratio as females per males, which reverses the males-per-females wording many other books use; the lesson teaches the book's own framing and names it, so learners are not tripped when they meet the other form. The placements give the measure and the regional comparison but no regional figures, so this lesson claims no sub-region numbers.
 
@@ -32,3 +35,5 @@ India's own way (Grade 9 Contemporary India-I): From Grade 9 the Geography book 
 Sri Lanka's own way (Sri Lanka Grade 9 G9 English): the student companion to Book 1 — five chapters moving from the whole Asian region down to Sri Lanka's own landscape, its district-by-district development contrasts, environmental balance, and a closing practical chapter reading the 1:50,000 topographic maps.
 
 Mauritania's own way (Mauritania Grade 12 geo-6as-cd): A human-geography year in three units — world population (growth, distribution, migration, structure, with an applications lesson on the age pyramid and demographic projections), urbanisation and its problems, and economic activities from traditional farming to modern industry, transport, trade, craft industry and tourism.
+
+Iraq's own way (Iraq Grade 9 Social Studies): Grade 9 returns to Iraq for the fullest treatment yet — the same national geography as Grade 5 but measured: the plain is 24% and about 600 km long, the desert plateau about 55%, the desert plant belt about 70%, two-thirds of the people live on the central and southern plain; every topic is pinned to numbered maps of Iraq.

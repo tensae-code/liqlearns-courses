@@ -1,6 +1,6 @@
 # Sources — Secondary activities — modern light and heavy industry
 
-countries: Ethiopia, Bangladesh, Turkmenistan, Indonesia, Egypt, Eritrea, India, North Macedonia, United Kingdom, Uzbekistan, Slovenia, Papua New Guinea, Sudan, Syria, Venezuela, Sri Lanka, Mauritania, Afghanistan, Yemen, Pakistan, Libya, Moldova, Nepal, Mozambique, Jordan
+countries: Ethiopia, Bangladesh, Turkmenistan, Indonesia, Egypt, Eritrea, India, North Macedonia, United Kingdom, Uzbekistan, Slovenia, Papua New Guinea, Sudan, Syria, Venezuela, Sri Lanka, Mauritania, Afghanistan, Yemen, Pakistan, Libya, Moldova, Nepal, Mozambique, Jordan, Iraq
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 2 — Population Studies and Socio-Economic Activities, printed pp. 44–76).
 
@@ -86,6 +86,12 @@ countries: Ethiopia, Bangladesh, Turkmenistan, Indonesia, Egypt, Eritrea, India,
 
 **Book 42:** *الجغرافيا — الصف الثاني عشر / المسار الأكاديمي — الفصل الدراسي الثاني (Geography, Grade 12 Academic Track, Term 2)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-950-2. Title as printed: الجغرافيا — الصف الثاني عشر / المسار الأكاديمي — الفصل الدراسي الثاني (Geography, Grade 12 Academic Track, Term 2). Grade: 12 (student/teacher: STUDENT). PDF pages: 136 (cover verified; byte size 118,626,340 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
 
+**Book 43:** *الاجتماعيات للصف الخامس الابتدائي (Social Studies for the Fifth Primary Grade)* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 1445 AH / 2023 CE, 10th edition (الطبعة العاشرة); ISBN no ISBN printed on the title pages. Title as printed: الاجتماعيات للصف الخامس الابتدائي (Social Studies for the Fifth Primary Grade). Grade: 5 (student/teacher: STUDENT). PDF pages: 104 (cover/title page verified against the record title; read via the books.json record's own Google Drive source file — same book, cover and contents verified — after the GitHub route failed). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iraq-placements.md.
+
+**Book 44:** *الاجتماعيات للصف الثاني المتوسط (Social Studies for the Second Intermediate Grade)* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 1445 AH / 2023 CE, 4th edition (الطبعة الرابعة); ISBN no ISBN printed on the title pages. Title as printed: الاجتماعيات للصف الثاني المتوسط (Social Studies for the Second Intermediate Grade). Grade: 8 (student/teacher: STUDENT). PDF pages: 140 (cover/title page verified against the record title; read via the books.json record's own Google Drive source file — same book, cover and contents verified — after the GitHub route failed). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iraq-placements.md.
+
+**Book 45:** *الاجتماعيات للصف الثالث المتوسط (Social Studies for the Third Intermediate Grade)* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 1445 AH / 2023 CE, 2nd edition (الطبعة الثانية); ISBN no ISBN printed on the title pages. Title as printed: الاجتماعيات للصف الثالث المتوسط (Social Studies for the Third Intermediate Grade). Grade: 9 (student/teacher: STUDENT). PDF pages: 160 (cover/title page verified against the record title; read via the books.json record's own Google Drive source file — same book, cover and contents verified — after the GitHub route failed). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iraq-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Modern manufacturing | Ethiopia, *Social Studies Student Textbook, Grade 8* (Amhara Bureau), printed pp. 63–64 |
@@ -135,8 +141,11 @@ countries: Ethiopia, Bangladesh, Turkmenistan, Indonesia, Egypt, Eritrea, India,
 | Jordan part — Unit 4 Lesson 2: Industry (الصناعة) | Jordan, *Jordan G4 SS T1*, Unit 4 Lesson 2: Industry (الصناعة) — printed p. 65 |
 | Jordan part — Unit 3 Enrichment: Petrochemical Industries (الصناعات البتروكيماوية) | Jordan, *Jordan G11 ES T2*, Unit 3 Enrichment: Petrochemical Industries (الصناعات البتروكيماوية) — printed p. 40 |
 | Jordan part — Unit 6 Lesson 3: Industry (الصناعة) | Jordan, *Jordan G12 Geography T2*, Unit 6 Lesson 3: Industry (الصناعة) — printed p. 108 |
+| Iraq part — Unit 1 Ch. 2: Animal products and the food industries (الصناعات الغذائية) | Iraq, *Iraq Grade 5 Social Studies*, Unit 1 Ch. 2: Animal products and the food industries (الصناعات الغذائية) — printed p. 37 |
+| Iraq part — Part 1 Ch. 2: The main industries of the Arab world — extractive, chemical and textile industries and where they spread | Iraq, *Iraq Grade 8 Social Studies*, Part 1 Ch. 2: The main industries of the Arab world — extractive, chemical and textile industries and where they spread — printed p. 57 |
+| Iraq part — Unit 1 Ch. 2: Manufacturing industries (الصناعات التحويلية) — food industries and chemical industries (oil refining, petrochemicals) | Iraq, *Iraq Grade 9 Social Studies*, Unit 1 Ch. 2: Manufacturing industries (الصناعات التحويلية) — food industries and chemical industries (oil refining, petrochemicals) — printed p. 67 |
 
-**Acceptance count: taught in 24 countries (Ethiopia, Bangladesh, Turkmenistan, Indonesia, Egypt, Eritrea, India, North Macedonia, United Kingdom, Uzbekistan, Slovenia, Sudan, Syria, Venezuela, Sri Lanka, Mauritania, Afghanistan, Yemen, Pakistan, Libya, Moldova, Nepal, Mozambique, Jordan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 25 countries (Ethiopia, Bangladesh, Turkmenistan, Indonesia, Egypt, Eritrea, India, North Macedonia, United Kingdom, Uzbekistan, Slovenia, Sudan, Syria, Venezuela, Sri Lanka, Mauritania, Afghanistan, Yemen, Pakistan, Libya, Moldova, Nepal, Mozambique, Jordan, Iraq). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Indonesia's own way (Grade 12): Grade 12 is applied human geography built entirely on Indonesian cases — regional development and spatial planning (tata ruang) measured against a Happiness Index, Industry 4.0 / Society 5.0, and Indonesia's own geopolitics and ASEAN-era cooperation as pillars of national resilience. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -223,3 +232,9 @@ Jordan's own way (Jordan G4 SS T1): Grade 4 Term 1 grounds the child in Jordania
 Jordan's own way (Jordan G11 ES T2): Term 2 is fossil fuels — their origin, kinds, and Jordan's own (oil shale, gas) with the petrochemical industry — then earthquakes and volcanoes.
 
 Jordan's own way (Jordan G12 Geography T2): the final Geography term is climate (atmosphere, elements, classifications, change), environment (components, problems, protection, Jordanian ecotourism), and economic geography (production, agriculture, industry, services, development).
+
+Iraq's own way (Iraq Grade 5 Social Studies): the whole first unit is Iraq's own geography — location first (world, region, locality, then the astronomical location), then the land itself region by region off the relief map, then people and economic activity; history and national education follow as separate units.
+
+Iraq's own way (Iraq Grade 8 Social Studies): the intermediate sequence widens ring by ring — after Iraq itself (G5–G6) and the ancient world (G7), Grade 8 gives the whole Arab world as one geographical unit (its position between two continents, relief, climates, waters, people and economy), worked constantly off outline maps of the Arab world; the history of the Arab world follows as Part 2.
+
+Iraq's own way (Iraq Grade 9 Social Studies): Grade 9 returns to Iraq for the fullest treatment yet — the same national geography as Grade 5 but measured: the plain is 24% and about 600 km long, the desert plateau about 55%, the desert plant belt about 70%, two-thirds of the people live on the central and southern plain; every topic is pinned to numbered maps of Iraq.

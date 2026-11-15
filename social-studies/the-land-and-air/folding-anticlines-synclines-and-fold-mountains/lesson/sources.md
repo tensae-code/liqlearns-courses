@@ -1,6 +1,6 @@
 # Sources — Folding — anticlines, synclines and fold mountains
 
-countries: Ethiopia, Colombia, Slovenia, Sri Lanka, Kuwait, Iran, Pakistan, Mozambique, Jordan
+countries: Ethiopia, Colombia, Slovenia, Sri Lanka, Kuwait, Iran, Pakistan, Mozambique, Jordan, Iraq
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Colombia, Slovenia, Sri Lanka, Kuwait, Iran, Pakistan, Moza
 
 **Book 10:** *علوم الأرض والبيئة — الصف الثاني عشر — المسار الأكاديمي — كتاب الطالب — الفصل الدراسي الأول (Earth Science and Environment, Grade 12 Academic Track, Term 1)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-807-9. Title as printed: علوم الأرض والبيئة — الصف الثاني عشر — المسار الأكاديمي — كتاب الطالب — الفصل الدراسي الأول (Earth Science and Environment, Grade 12 Academic Track, Term 1). Grade: 12 (student/teacher: STUDENT). PDF pages: 162 (cover verified; byte size 62,271,187 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
 
+**Book 11:** *الاجتماعيات للصف الثاني المتوسط (Social Studies for the Second Intermediate Grade)* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 1445 AH / 2023 CE, 4th edition (الطبعة الرابعة); ISBN no ISBN printed on the title pages. Title as printed: الاجتماعيات للصف الثاني المتوسط (Social Studies for the Second Intermediate Grade). Grade: 8 (student/teacher: STUDENT). PDF pages: 140 (cover/title page verified against the record title; read via the books.json record's own Google Drive source file — same book, cover and contents verified — after the GitHub route failed). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iraq-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Anticlines and synclines | G12 student #10, printed pp. 12–14 |
@@ -35,8 +37,9 @@ countries: Ethiopia, Colombia, Slovenia, Sri Lanka, Kuwait, Iran, Pakistan, Moza
 | Mozambique part — Lição 8: Estruturas — evolução do relevo enrugado (fold elements, anticline, axial plane, mountain chains) | Mozambique, *Mozambique Grade 10 PESD II Mod 3*, Lição 8: Estruturas — evolução do relevo enrugado (fold elements, anticline, axial plane, mountain chains) — printed p. 45 |
 | Jordan part — Unit 2: Parts of a Fold activity | Jordan, *Jordan G12 ES T1 Workbook (10385)*, Unit 2: Parts of a Fold activity — printed p. 27 |
 | Jordan part — Unit 2 Lesson 3: Folds (الطيات) | Jordan, *Jordan G12 ES T1*, Unit 2 Lesson 3: Folds (الطيات) — printed p. 64 |
+| Iraq part — Part 1 Ch. 1: The mountain chains of Iraq and the Levant and of the Red Sea | Iraq, *Iraq Grade 8 Social Studies*, Part 1 Ch. 1: The mountain chains of Iraq and the Levant and of the Red Sea — printed p. 12 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Colombia, Slovenia, Sri Lanka, Kuwait, Iran, Pakistan, Mozambique, Jordan).**
+**Acceptance count: taught in 10 countries (Ethiopia, Colombia, Slovenia, Sri Lanka, Kuwait, Iran, Pakistan, Mozambique, Jordan, Iraq).**
 
 No book error in the placements for this lesson is taught here. Ranges and ages are taught exactly as the placements report them.
 
@@ -59,3 +62,5 @@ Mozambique's own way (Mozambique Grade 10 PESD II Mod 3): a systematic geomorpho
 Jordan's own way (Jordan G12 ES T1 Workbook (10385)): the activities book opens the final year with the greenhouse effect modelled on the bench and acid rain simulated, then structures, plate tectonics through the Dead Sea transform, and geological exploration with Jordan-flavoured map work.
 
 Jordan's own way (Jordan G12 ES T1): the final year opens with fossil fuels and climate action, then structures and plate tectonics, closing with geological exploration — ending on uranium exploration in Jordan.
+
+Iraq's own way (Iraq Grade 8 Social Studies): the intermediate sequence widens ring by ring — after Iraq itself (G5–G6) and the ancient world (G7), Grade 8 gives the whole Arab world as one geographical unit (its position between two continents, relief, climates, waters, people and economy), worked constantly off outline maps of the Arab world; the history of the Arab world follows as Part 2.

@@ -1,6 +1,6 @@
 # Sources — Water under pressure
 
-countries: Ethiopia, Brazil, France, Haiti, Costa Rica, Palestine, Angola, Bangladesh, Egypt, Samoa, Malaysia, India, Cambodia, Slovenia, Sudan, Syria, Venezuela, Sri Lanka, Afghanistan, Yemen, Mozambique, Jordan
+countries: Ethiopia, Brazil, France, Haiti, Costa Rica, Palestine, Angola, Bangladesh, Egypt, Samoa, Malaysia, India, Cambodia, Slovenia, Sudan, Syria, Venezuela, Sri Lanka, Afghanistan, Yemen, Mozambique, Jordan, Iraq
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -60,6 +60,8 @@ countries: Ethiopia, Brazil, France, Haiti, Costa Rica, Palestine, Angola, Bangl
 
 **Book 29:** *الجغرافيا — الصف التاسع — الفصل الدراسي الأول (Geography, Grade 9, Term 1)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; year 2025; ISBN 978-9923-41-859-8. Title as printed: الجغرافيا — الصف التاسع — الفصل الدراسي الأول (Geography, Grade 9, Term 1). Grade: 9 (student/teacher: STUDENT). PDF pages: 80 (cover verified; byte size 60,522,837 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
 
+**Book 30:** *الاجتماعيات للصف الخامس الابتدائي (Social Studies for the Fifth Primary Grade)* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 1445 AH / 2023 CE, 10th edition (الطبعة العاشرة); ISBN no ISBN printed on the title pages. Title as printed: الاجتماعيات للصف الخامس الابتدائي (Social Studies for the Fifth Primary Grade). Grade: 5 (student/teacher: STUDENT). PDF pages: 104 (cover/title page verified against the record title; read via the books.json record's own Google Drive source file — same book, cover and contents verified — after the GitHub route failed). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iraq-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The squeeze on freshwater | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 3, printed pp. 65–67 |
@@ -90,12 +92,13 @@ countries: Ethiopia, Brazil, France, Haiti, Costa Rica, Palestine, Angola, Bangl
 | Yemen part — Unit 6 Lesson 1 The Water Problem in the Arab Homeland | Yemen, *Yemen Grade 11 G11 Geography of Yemen and the Arab World*, Unit 6 Lesson 1 The Water Problem in the Arab Homeland — printed p. 160 |
 | Mozambique part — Lição 20: O uso, protecção e conservação da hidrosfera | Mozambique, *Mozambique Grade 7 PESD I Mod 1*, Lição 20: O uso, protecção e conservação da hidrosfera — printed p. 107 |
 | Jordan part — Unit 2 Lesson 3: Managing Water Resources (إدارة الموارد المائية) | Jordan, *Jordan G9 Geography T1*, Unit 2 Lesson 3: Managing Water Resources (إدارة الموارد المائية) — printed p. 48 |
+| Iraq part — Unit 1 Ch. 2: Water problems in Iraq (مشاكل المياه في العراق) | Iraq, *Iraq Grade 5 Social Studies*, Unit 1 Ch. 2: Water problems in Iraq (مشاكل المياه في العراق) — printed p. 33 |
 
 | France part — Thème 1: L'eau douce, une ressource essentielle (stress hydrique, usages, perspectives) | France, *Géographie 2de GT, Manuel Libre de Géographie, Seconde*, Grade 10, Sommaire Thème 1 |
 | Haiti part — Séance 2, Temps 3-4 Le problème de l'eau en Haïti (bassins versants, état du réseau hydrographique, accès à l'eau potable; Rivière Froide, Rivière Grise, Rivière du Haut du Cap) (teacher sequence — evidence) | Haiti, *Haïti verte. Préserver et valoriser les ressources et l'environnement, protéger les hommes.* (teacher sequence), Grade 7, Séance 2, Temps 3-4 Le problème de l'eau en Haïti (bassins versants, état du réseau hydrographique, accès à l'eau potable; Rivière Froide, Rivière Grise, Rivière du Haut du Cap) — printed p. 8 |
 | Costa Rica part — debates on the use of water as a resource today | Costa Rica, *Antología CONED 8*, Grade 8, Unit 1 Tema 2 B — printed p. 38 |
 
-**Acceptance count: taught in 21 countries (Ethiopia, Brazil, France, Costa Rica, Palestine, Angola, Bangladesh, Egypt, Samoa, Malaysia, India, Cambodia, Slovenia, Sudan, Syria, Venezuela, Sri Lanka, Afghanistan, Yemen, Mozambique, Jordan). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 22 countries (Ethiopia, Brazil, France, Costa Rica, Palestine, Angola, Bangladesh, Egypt, Samoa, Malaysia, India, Cambodia, Slovenia, Sudan, Syria, Venezuela, Sri Lanka, Afghanistan, Yemen, Mozambique, Jordan, Iraq). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
 
 Haiti's own way (teacher sequence — evidence): The environment is studied from the schoolyard outward — a field diagnosis of the local environment (bare soils, dried springs, waste, noise), scaled up to a map and graph of the whole territory's problems (deforestation, erosion, water), then turned into a pupil-designed sustainable land-use project for a greener Haiti. That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
@@ -150,3 +153,5 @@ Yemen's own way (Yemen Grade 11 G11 Geography of Yemen and the Arab World): Grad
 Mozambique's own way (Mozambique Grade 7 PESD I Mod 1): distance-learning self-study module — every lesson follows the same rhythm (introduction, development with worked examples, exercises, answer key, lesson summary); the four Earth spheres are the organising spine of the whole module, each sphere closed by a "use, protection and conservation" lesson; local anchors throughout (Maputo temperature worked example, Zambezi delta, Moma/Namialo weather contrast).
 
 Jordan's own way (Jordan G9 Geography T1): From Grade 9 Geography stands alone as its own book: the Earth's rock and water spheres first, then the geography of the Arab homeland — its natural features, its human features and its challenges.
+
+Iraq's own way (Iraq Grade 5 Social Studies): the whole first unit is Iraq's own geography — location first (world, region, locality, then the astronomical location), then the land itself region by region off the relief map, then people and economic activity; history and national education follow as separate units.

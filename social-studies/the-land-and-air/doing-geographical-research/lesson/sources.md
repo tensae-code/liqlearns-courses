@@ -1,6 +1,6 @@
 # Sources — Doing geographical research
 
-countries: Ethiopia, Bangladesh, Samoa, Malaysia, Papua New Guinea, Uganda, Syria, Mauritania, Iran, Nepal, Mozambique
+countries: Ethiopia, Bangladesh, Samoa, Malaysia, Papua New Guinea, Uganda, Syria, Mauritania, Iran, Nepal, Mozambique, Iraq
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -42,6 +42,8 @@ countries: Ethiopia, Bangladesh, Samoa, Malaysia, Papua New Guinea, Uganda, Syri
 
 **Book 20:** *Módulo 1 de Geografia — Introdução ao Pensamento Geográfico e Cosmografia* (student book, Portuguese) — Ministério da Educação / Instituto de Educação Aberta e à Distância (IEDA); year not printed (uploaded to IEDA site 2022); no ISBN printed. Title as printed: Módulo 1 de Geografia — Introdução ao Pensamento Geográfico e Cosmografia. Grade: Grades 10–12 cycle (2º Ciclo), filed as Grade 10 (student/teacher: STUDENT). PDF pages: 85 (title page verified against the record title; byte size 904,542 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
 
+**Book 21:** *أُسُس الجغرافية وتقنياتها (Foundations of Geography and Its Techniques) للصف الرابع الأدبي — the record's shorter title "Geography (Literary Track)" is the same book: same grade, track and subject, verified by cover and contents* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; revised by a committee in the Ministry of Education; year 1445 AH / 2023 CE, revised 13th edition (الطبعة الثالثة عشرة / المنقحة); ISBN no ISBN printed on the title pages. Title as printed: أُسُس الجغرافية وتقنياتها (Foundations of Geography and Its Techniques) للصف الرابع الأدبي — the record's shorter title "Geography (Literary Track)" is the same book: same grade, track and subject, verified by cover and contents. Grade: 10 (fourth secondary, literary track) (student/teacher: STUDENT). PDF pages: 144 (cover/title page verified as above; read via the books.json record's own Google Drive source file — same book, cover and contents verified — after the GitHub route failed). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iraq-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Research — the deepest possible look | G12 student #81, printed pp. 217–222 |
@@ -65,8 +67,9 @@ countries: Ethiopia, Bangladesh, Samoa, Malaysia, Papua New Guinea, Uganda, Syri
 | Iran part — Method of study and research in geography (the research steps) | Iran, *Iran Grade 10 Geography of Iran*, Method of study and research in geography (the research steps) — printed p. 8 |
 | Nepal part — Unit 2 Lesson 7: Analysis and presentation of data and information / Lesson 9: Ways of presenting qualitative information | Nepal, *Nepal Grade 12 np-g12*, Unit 2 Lesson 7: Analysis and presentation of data and information / Lesson 9: Ways of presenting qualitative information — printed p. 31 |
 | Mozambique part — Lição 3: Métodos Geográficos (observation, description, comparative and statistical methods; research phases) | Mozambique, *Mozambique Grade 10 PESD II Mod 1*, Lição 3: Métodos Geográficos (observation, description, comparative and statistical methods; research phases) — printed p. 15 |
+| Iraq part — Ch. 2 Scientific research in geography: the steps of research, worked on an Iraqi problem (high population densities pressing on Baghdad's farmland) | Iraq, *Iraq Grade 10 Geography*, Ch. 2 Scientific research in geography: the steps of research, worked on an Iraqi problem (high population densities pressing on Baghdad's farmland) — printed p. 27 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Bangladesh, Samoa, Malaysia, Uganda, Syria, Mauritania, Iran, Nepal, Mozambique). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 11 countries (Ethiopia, Bangladesh, Samoa, Malaysia, Uganda, Syria, Mauritania, Iran, Nepal, Mozambique, Iraq). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Pairing honesty: the 2023 student book's own teacher guide is still unsecured; the secured Grade 12 teacher guide is the 2010–11 edition for a different student book (see the action-research lesson's sources). No teacher evidence is claimed for this lesson.
 
@@ -109,3 +112,5 @@ Iran's own way (Iran Grade 10 Geography of Iran): the whole of Grade 10 geograph
 Nepal's own way (Nepal Grade 12 np-g12): Grade 12 geography is federal and applied — each of Nepal's provinces studied four ways (administration, population, social-cultural life, economy) plus inter-provincial relations; disasters in Nepal with the national disaster-management system and plan-making; GIS/geo-information in social mapping; and a full urbanisation-and-migration unit (village–city relations, safe and dignified migration, migration effects).
 
 Mozambique's own way (Mozambique Grade 10 PESD II Mod 1): the second cycle opens with the discipline itself — geographic thought, its history from Greek antiquity to the determinist/possibilist schools, then cosmography (celestial sphere, solar system, Earth's shape and revolution) before any regional content.
+
+Iraq's own way (Iraq Grade 10 Geography): the literary track opens geography as a discipline in its own right — its thought from the Sumerians to GIS, how a geographer researches, where geographical data come from and how they are drawn, and only then the fields of the science; Iraq supplies the worked examples throughout (Baghdad research problem, Iraqi topographic maps, Iraq's gas time series, the Baghdad–Basra distance exercise).

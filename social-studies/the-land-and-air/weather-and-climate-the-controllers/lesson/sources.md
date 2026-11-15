@@ -1,6 +1,6 @@
 # Sources — Weather and Climate — The Controllers
 
-countries: Ethiopia, Jamaica, Dominican Republic, Papua New Guinea, Sudan, Venezuela, Mauritania, Afghanistan, Pakistan, Nepal, Mozambique, Laos
+countries: Ethiopia, Jamaica, Dominican Republic, Papua New Guinea, Sudan, Venezuela, Mauritania, Afghanistan, Pakistan, Nepal, Mozambique, Laos, Iraq
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -42,6 +42,8 @@ countries: Ethiopia, Jamaica, Dominican Republic, Papua New Guinea, Sudan, Venez
 
 **Book 20:** *ແບບຮຽນ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາປີທີ 5 (Textbook, Geography, Secondary Year 5)* (student book, Lao) — Ministry of Education and Sports, Educational Science Research Institute; year 2014 (printed by Eastern Printing Public Co. Ltd., Thailand; print run 27,685); ISBN no ISBN printed. Title as printed: ແບບຮຽນ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາປີທີ 5 (Textbook, Geography, Secondary Year 5). Grade: Grade 10 (ມ.5) (student/teacher: STUDENT). PDF pages: 205 (cover verified against the record title — full cover spread with world climate map; byte size 25,276,102 exact match to the books.json record, read via the release asset). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/laos-placements.md.
 
+**Book 21:** *الاجتماعيات للصف الثاني المتوسط (Social Studies for the Second Intermediate Grade)* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 1445 AH / 2023 CE, 4th edition (الطبعة الرابعة); ISBN no ISBN printed on the title pages. Title as printed: الاجتماعيات للصف الثاني المتوسط (Social Studies for the Second Intermediate Grade). Grade: 8 (student/teacher: STUDENT). PDF pages: 140 (cover/title page verified against the record title; read via the books.json record's own Google Drive source file — same book, cover and contents verified — after the GitHub route failed). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iraq-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Controllers against elements | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 25–26 |
@@ -62,6 +64,7 @@ countries: Ethiopia, Jamaica, Dominican Republic, Papua New Guinea, Sudan, Venez
 | Mozambique part — Lição 11: Factores de clima (latitude and temperature distribution maps) | Mozambique, *Mozambique Grade 7 PESD I Mod 1*, Lição 11: Factores de clima (latitude and temperature distribution maps) — printed p. 61 |
 | Laos part — Part I Lesson 5: Atmosphere and climate | Laos, *Laos Grade 10 laos-g10-geography-teacher*, Part I Lesson 5: Atmosphere and climate — printed p. 56 (teacher-guide evidence) |
 | Laos part — Part I Lesson 5: Atmosphere and climate | Laos, *Laos Grade 10 laos-g10-geography-student*, Part I Lesson 5: Atmosphere and climate — printed p. 43 |
+| Iraq part — Part 1 Ch. 1: The factors affecting the Arab world's climate, including the vegetation cover's softening of temperatures | Iraq, *Iraq Grade 8 Social Studies*, Part 1 Ch. 1: The factors affecting the Arab world's climate, including the vegetation cover's softening of temperatures — printed p. 20 |
 
 | Sub lesson 4 — Latitude and the Earth–Sun geometry (Grade 11 depth) (Grade 11 depth) | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 2, printed pp. 45–46 |
 | Sub lesson 5 — Water, winds and pressure (Grade 11 depth) (Grade 11 depth) | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 2, printed pp. 47–50 |
@@ -69,7 +72,7 @@ countries: Ethiopia, Jamaica, Dominican Republic, Papua New Guinea, Sudan, Venez
 | Teaching sequence and answer keys for the Grade 11 depth (teacher guide — evidence) | Ethiopia, *Geography, Teacher Guide, Grade 11*, guide printed pp. 40–63 |
 | Dominican Republic part (Grade 5) — Climate, its elements and factors (Unidad 2: Variación climática de los continentes) | Dominican Republic, *Ciencias Sociales, Quinto Grado, Primaria (Libro Abierto)*, Grade 5, Climate, its elements and factors (Unidad 2: Variación climática de los continentes) — printed p. 26 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Dominican Republic, Sudan, Venezuela, Mauritania, Afghanistan, Pakistan, Nepal, Mozambique, Laos). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 11 countries (Ethiopia, Dominican Republic, Sudan, Venezuela, Mauritania, Afghanistan, Pakistan, Nepal, Mozambique, Laos, Iraq). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grade 6 Exploratory Core, curriculum guide — evidence): the Grade 6 Social Studies year is built as three paired terms — culture and independence first, then the physical world (mountains, landmasses and water bodies), then climate, Earth movements and the atmosphere, closing on Caribbean cooperation. That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
@@ -108,3 +111,5 @@ Mozambique's own way (Mozambique Grade 7 PESD I Mod 1): distance-learning self-s
 Laos's own way (Laos Grade 10 laos-g10-geography-teacher): a second world-geography pass at a higher level — Earth and map projection first, then life in the climate zones (hot, temperate, cold, mountain/coastal), population characteristics and problems, humans and environment, and a distinctive closing block on how geographic space is organised (agricultural areas, industrial areas, tourism areas, rural and urban geography).
 
 Laos's own way (Laos Grade 10 laos-g10-geography-student): the student twin of Book 6 — same 6 parts / 20 lessons with full illustrated text, opening with a concept map of the whole year (Earth, life zones, population and quality of life, humans and environment, organisation of geographic space, rural and urban geography).
+
+Iraq's own way (Iraq Grade 8 Social Studies): the intermediate sequence widens ring by ring — after Iraq itself (G5–G6) and the ancient world (G7), Grade 8 gives the whole Arab world as one geographical unit (its position between two continents, relief, climates, waters, people and economy), worked constantly off outline maps of the Arab world; the history of the Arab world follows as Part 2.

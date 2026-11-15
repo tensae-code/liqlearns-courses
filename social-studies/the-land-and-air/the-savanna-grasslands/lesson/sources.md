@@ -1,6 +1,6 @@
 # Sources — The Savanna grasslands
 
-countries: Ethiopia, Egypt, Venezuela, Pakistan
+countries: Ethiopia, Egypt, Venezuela, Pakistan, Iraq
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). First published 2023 under GEQIP-E. ISBN: 978-99990-0-049-9. 205 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Egypt, Venezuela, Pakistan
 
 **Book 4:** *جغرافیہ 8 (Geography 8), Punjab Curriculum and Textbook Board, Lahore (record title: "Geography Class 8 SNC — Punjab Board (PCTB)")* (student book, Urdu) — Punjab Curriculum and Textbook Board (PCTB), Lahore; Urdu-medium edition with English topic glosses throughout; ISBN no ISBN printed in the scanned copy. Title as printed: جغرافیہ 8 (Geography 8), Punjab Curriculum and Textbook Board, Lahore (record title: "Geography Class 8 SNC — Punjab Board (PCTB)"). Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 88 (39,114,330 bytes — exactly the record size; the GitHub release/tree copies could not be found, so the book was re-downloaded from the record's own source, the freebooks.pk Google Drive file, and verified byte-for-byte against the record; image-only scan, read page by page from contact sheets). Verdict: COMPLETE. The GitHub release/tree copies could not be found, so the book was re-downloaded from the record's own source, the freebooks.pk Google Drive file, and verified byte-for-byte against the record (39,114,330 bytes — exactly the record size); image-only scan, read page by page from contact sheets. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/pakistan-placements.md.
 
+**Book 5:** *الجغرافية الطبيعية للصف الخامس الأدبي (Natural Geography for the Fifth Literary Grade) — the record's "Geography (Literary Track)" is the same book: same grade and track, verified by cover and contents* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; revised by a committee in the Ministry of Education; year 1445 AH / 2023 CE, revised 13th edition (الطبعة الثالثة عشرة / المنقحة); ISBN no ISBN printed on the title pages. Title as printed: الجغرافية الطبيعية للصف الخامس الأدبي (Natural Geography for the Fifth Literary Grade) — the record's "Geography (Literary Track)" is the same book: same grade and track, verified by cover and contents. Grade: 11 (fifth secondary, literary track) (student/teacher: STUDENT). PDF pages: 162 (cover/title page verified as above; read via the books.json record's own Google Drive source file — same book, cover and contents verified — after the GitHub route failed). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iraq-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The grassland belt and its place | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 1, printed pp. 13–14 |
@@ -17,8 +19,9 @@ countries: Ethiopia, Egypt, Venezuela, Pakistan
 | Egypt part (Grade 7) — Unit 3 Lesson 2: Grassland systems (hot and temperate) and the hot deserts in Africa | Egypt, *Social Studies, Grade 7, Term 1*, Grade 7, Unit 3 Lesson 2: Grassland systems (hot and temperate) and the hot deserts in Africa — printed p. 60 |
 | Venezuela part — Dos llaneritos discuten / La sabana sin alpargatas (Los Llanos) | Venezuela, *Venezuela Grade 3 G3 CS Viva Venezuela*, Dos llaneritos discuten / La sabana sin alpargatas (Los Llanos) — printed p. 152 |
 | Pakistan part — Steppe Region: the temperate grasslands (Ukraine, Central Asia, North America, Argentina), their climate and grain-growing human activities | Pakistan, *Pakistan Grade 8 Geography 8*, Steppe Region: the temperate grasslands (Ukraine, Central Asia, North America, Argentina), their climate and grain-growing human activities — printed pp. 52–53 |
+| Iraq part — Ch. 4: The grassland region (إقليم الحشائش) — savanna and steppe and their world distribution | Iraq, *Iraq Grade 11 Physical Geography*, Ch. 4: The grassland region (إقليم الحشائش) — savanna and steppe and their world distribution — printed p. 110 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Egypt, Venezuela, Pakistan).**
+**Acceptance count: taught in 5 countries (Ethiopia, Egypt, Venezuela, Pakistan, Iraq).**
 
 Pairing: the teacher guide was first published in 2022 and the student textbook in 2023, with the same writers and the same eight units in the same order; the student book is the learner text of record, and teacher-guide rows above are evidence only.
 
@@ -29,3 +32,5 @@ Egypt's own way (Grade 7 Term 1): Social Studies is rebuilt around “Africa and
 Venezuela's own way (Venezuela Grade 3 G3 CS Viva Venezuela): the second half is a state-by-state tour of Venezuela (territorial organisation, Nueva Esparta, Sucre, the Capital, Vargas, Zulia, the Andean states, the Llanos, Guayana) taught through local stories and children of each region — regional geography as a journey around the child's own country.
 
 Pakistan's own way (Pakistan Grade 8 Geography 8): the Urdu-medium twin of the English Geography course — deep map-and-graph craft first (dot and choropleth maps of Pakistan itself), then landform agents, oceans, a full Pakistan-anchored disaster chapter, the world's natural regions, Pakistan's own climate, its four neighbouring regions and strategic place, underdevelopment with Pakistan's own causes, and modern techniques down to Pak Sat-1.
+
+Iraq's own way (Iraq Grade 11 Physical Geography): a pure physical-geography course in six chapters — landforms, weather and climate, water, the biosphere, soil, and the environment — with Iraqi anchors kept throughout (flood visits to Iraq's rivers, the hills of northern Iraq, groundwater and the desert caravans, soil salinity in the alluvial plain).

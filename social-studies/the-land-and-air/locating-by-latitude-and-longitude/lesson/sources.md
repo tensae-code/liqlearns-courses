@@ -1,6 +1,6 @@
 # Sources — Locating by latitude and longitude
 
-countries: Ethiopia, Bahamas, Venezuela, Iran, Pakistan, Moldova
+countries: Ethiopia, Bahamas, Venezuela, Iran, Pakistan, Moldova, Iraq
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -16,6 +16,12 @@ countries: Ethiopia, Bahamas, Venezuela, Iran, Pakistan, Moldova
 
 **Book 7:** *GEOGRAFIE — Manual pentru clasa a VII-a (Vitalie Sochircă, Natalia Cozma)* (student book, Romanian) — Editura ARC; year not legible on the title page as extracted; ISBN 978-9975-0-0706-1. Title as printed: GEOGRAFIE — Manual pentru clasa a VII-a (Vitalie Sochircă, Natalia Cozma). Grade: 7 (student/teacher: STUDENT). PDF pages: 130 (title page verified against the record title; 36,965,973 bytes = record size exactly, via the GitHub release asset — the repo tree path returned 404 and the eduresurse.gov.md download truncated twice at ~20 MB). Verdict: COMPLETE. 12 records / 6 distinct books (TSV + books.json duplicates of the same 6 manuals) — read from the recorded ministry source URLs (eduresurse.gov.md / ctice.md) after the GitHub API route disconnected twice; byte size and page count verified against each record before reading; full text-layer page-by-page reads, as the placements file header records. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/moldova-placements.md.
 
+**Book 8:** *الاجتماعيات للصف الخامس الابتدائي (Social Studies for the Fifth Primary Grade)* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 1445 AH / 2023 CE, 10th edition (الطبعة العاشرة); ISBN no ISBN printed on the title pages. Title as printed: الاجتماعيات للصف الخامس الابتدائي (Social Studies for the Fifth Primary Grade). Grade: 5 (student/teacher: STUDENT). PDF pages: 104 (cover/title page verified against the record title; read via the books.json record's own Google Drive source file — same book, cover and contents verified — after the GitHub route failed). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iraq-placements.md.
+
+**Book 9:** *الاجتماعيات للصف الثاني المتوسط (Social Studies for the Second Intermediate Grade)* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 1445 AH / 2023 CE, 4th edition (الطبعة الرابعة); ISBN no ISBN printed on the title pages. Title as printed: الاجتماعيات للصف الثاني المتوسط (Social Studies for the Second Intermediate Grade). Grade: 8 (student/teacher: STUDENT). PDF pages: 140 (cover/title page verified against the record title; read via the books.json record's own Google Drive source file — same book, cover and contents verified — after the GitHub route failed). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iraq-placements.md.
+
+**Book 10:** *الاجتماعيات للصف الثالث المتوسط (Social Studies for the Third Intermediate Grade)* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 1445 AH / 2023 CE, 2nd edition (الطبعة الثانية); ISBN no ISBN printed on the title pages. Title as printed: الاجتماعيات للصف الثالث المتوسط (Social Studies for the Third Intermediate Grade). Grade: 9 (student/teacher: STUDENT). PDF pages: 160 (cover/title page verified against the record title; read via the books.json record's own Google Drive source file — same book, cover and contents verified — after the GitHub route failed). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iraq-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Parallels and meridians | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 8, printed pp. 210–212 |
@@ -27,8 +33,11 @@ countries: Ethiopia, Bahamas, Venezuela, Iran, Pakistan, Moldova
 | Pakistan part — Important lines of latitude (Equator, Tropics of Cancer/Capricorn 23½°, Arctic/Antarctic circles 66½°) and the Prime Meridian at Greenwich | Pakistan, *Pakistan Grade 5 SS5*, Important lines of latitude (Equator, Tropics of Cancer/Capricorn 23½°, Arctic/Antarctic circles 66½°) and the Prime Meridian at Greenwich — printed pp. 57–58 |
 | Moldova part — 3. Geographic coordinates | Moldova, *Moldova Grade 7 G7 Geography*, 3. Geographic coordinates — printed p. 12 |
 | Moldova part — 5. Practical work no. 1: the degree network applied to determining geographic coordinates | Moldova, *Moldova Grade 7 G7 Geography*, 5. Practical work no. 1: the degree network applied to determining geographic coordinates — printed p. 19 |
+| Iraq part — Unit 1 Ch. 1: The astronomical location of Iraq (الموقع الفلكي) — its latitude and longitude circles | Iraq, *Iraq Grade 5 Social Studies*, Unit 1 Ch. 1: The astronomical location of Iraq (الموقع الفلكي) — its latitude and longitude circles — printed p. 11 |
+| Iraq part — Part 1 Ch. 1: The Arab world's astronomical location (الموقع الفلكي) | Iraq, *Iraq Grade 8 Social Studies*, Part 1 Ch. 1: The Arab world's astronomical location (الموقع الفلكي) — printed p. 5 |
+| Iraq part — Unit 1 Ch. 1 Natural characteristics of Iraq's geography: Iraq's location | Iraq, *Iraq Grade 9 Social Studies*, Unit 1 Ch. 1 Natural characteristics of Iraq's geography: Iraq's location — printed p. 5 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Bahamas, Venezuela, Iran, Pakistan, Moldova).**
+**Acceptance count: taught in 7 countries (Ethiopia, Bahamas, Venezuela, Iran, Pakistan, Moldova, Iraq).**
 
 Searchable tags: latitude, longitude, graticule, parallels, meridians, point C, social studies
 
@@ -41,3 +50,9 @@ Iran's own way (Iran Grade 10 Geography of Iran): the whole of Grade 10 geograph
 Pakistan's own way (Pakistan Grade 5 SS5): the Class 5 Geography chapter (Ch.5, printed pp. 51–85) deepens the Class 4 spiral — same BOLTS, landforms, weather and population topics, but now with scale types, latitude/longitude and time-zone arithmetic, worked population-density calculations, and graph-drawing exercises from real Pakistani city data.
 
 Moldova's own way (Moldova Grade 7 G7 Geography): the northern continents year (North America, then Eurasia) taught with the same continent template as Grade 6, opened by a full unit on the degree network (latitude, longitude, coordinates, distances) with practical work, and closed by a whole unit on the World Ocean taken ocean by ocean; climate zones are described "by algorithm" in a set practical.
+
+Iraq's own way (Iraq Grade 5 Social Studies): the whole first unit is Iraq's own geography — location first (world, region, locality, then the astronomical location), then the land itself region by region off the relief map, then people and economic activity; history and national education follow as separate units.
+
+Iraq's own way (Iraq Grade 8 Social Studies): the intermediate sequence widens ring by ring — after Iraq itself (G5–G6) and the ancient world (G7), Grade 8 gives the whole Arab world as one geographical unit (its position between two continents, relief, climates, waters, people and economy), worked constantly off outline maps of the Arab world; the history of the Arab world follows as Part 2.
+
+Iraq's own way (Iraq Grade 9 Social Studies): Grade 9 returns to Iraq for the fullest treatment yet — the same national geography as Grade 5 but measured: the plain is 24% and about 600 km long, the desert plateau about 55%, the desert plant belt about 70%, two-thirds of the people live on the central and southern plain; every topic is pinned to numbered maps of Iraq.

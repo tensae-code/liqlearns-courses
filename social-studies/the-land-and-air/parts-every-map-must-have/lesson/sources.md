@@ -1,6 +1,6 @@
 # Sources — Parts every map must have
 
-countries: Ethiopia, Palestine, Samoa, Eritrea, Rwanda, Fiji, Papua New Guinea, Sudan, Pakistan, Mozambique, Jordan
+countries: Ethiopia, Palestine, Samoa, Eritrea, Rwanda, Fiji, Papua New Guinea, Sudan, Pakistan, Mozambique, Jordan, Iraq
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -36,6 +36,10 @@ countries: Ethiopia, Palestine, Samoa, Eritrea, Rwanda, Fiji, Papua New Guinea, 
 
 **Book 17:** *الدراسات الاجتماعية — الصف الرابع — الفصل الدراسي الثاني (Social Studies, Grade 4, Term 2)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; year 2023 (MoE decision 2023/280); ISBN 978-9923-41-542-9. Title as printed: الدراسات الاجتماعية — الصف الرابع — الفصل الدراسي الثاني (Social Studies, Grade 4, Term 2). Grade: 4 (student/teacher: STUDENT). PDF pages: 92 (cover verified; byte size 18,311,632 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
 
+**Book 18:** *الاجتماعيات للصف الرابع الابتدائي (Social Studies for the Fourth Primary Grade)* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula (المديرية العامة للمناهج); year 1445 AH / 2023 CE, 13th edition (الطبعة الثالثة عشرة); ISBN no ISBN printed on the title pages. Title as printed: الاجتماعيات للصف الرابع الابتدائي (Social Studies for the Fourth Primary Grade). Grade: 4 (student/teacher: STUDENT). PDF pages: 64 (cover/title page verified against the record title; read via the books.json record's own Google Drive source file after the GitHub release and tree grabs failed with RemoteDisconnected three times — same book, cover and contents verified). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iraq-placements.md.
+
+**Book 19:** *أُسُس الجغرافية وتقنياتها (Foundations of Geography and Its Techniques) للصف الرابع الأدبي — the record's shorter title "Geography (Literary Track)" is the same book: same grade, track and subject, verified by cover and contents* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; revised by a committee in the Ministry of Education; year 1445 AH / 2023 CE, revised 13th edition (الطبعة الثالثة عشرة / المنقحة); ISBN no ISBN printed on the title pages. Title as printed: أُسُس الجغرافية وتقنياتها (Foundations of Geography and Its Techniques) للصف الرابع الأدبي — the record's shorter title "Geography (Literary Track)" is the same book: same grade, track and subject, verified by cover and contents. Grade: 10 (fourth secondary, literary track) (student/teacher: STUDENT). PDF pages: 144 (cover/title page verified as above; read via the books.json record's own Google Drive source file — same book, cover and contents verified — after the GitHub route failed). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iraq-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The checklist | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 8, printed pp. 199–201 |
@@ -56,8 +60,10 @@ countries: Ethiopia, Palestine, Samoa, Eritrea, Rwanda, Fiji, Papua New Guinea, 
 | Pakistan part — BOLTS in depth (border, orientation with intermediate directions, legend/conventional signs incl. contours, title, scale) | Pakistan, *Pakistan Grade 5 SS5*, BOLTS in depth (border, orientation with intermediate directions, legend/conventional signs incl. contours, title, scale) — printed pp. 51–53 |
 | Mozambique part — Lição 3: Elementos de um Mapa | Mozambique, *Mozambique Grade 7 PESD I Mod 1*, Lição 3: Elementos de um Mapa — printed p. 22 |
 | Jordan part — Unit 8 Lesson 1: The Map and Its Elements (الخريطة وعناصرها) | Jordan, *Jordan G4 SS T2*, Unit 8 Lesson 1: The Map and Its Elements (الخريطة وعناصرها) — printed p. 70 |
+| Iraq part — Ch. 1: Elements of the map on Iraq's administrative map: title, scale, key, north direction, frame | Iraq, *Iraq Grade 4 Social Studies*, Ch. 1: Elements of the map on Iraq's administrative map: title, scale, key, north direction, frame — printed p. 12 |
+| Iraq part — Ch. 4: The map's elements — the key of conventional symbols and the coordinate grid (the graticule of latitude and longitude) | Iraq, *Iraq Grade 10 Geography*, Ch. 4: The map's elements — the key of conventional symbols and the coordinate grid (the graticule of latitude and longitude) — printed p. 84 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Palestine, Samoa, Eritrea, Rwanda, Fiji, Sudan, Pakistan, Mozambique, Jordan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 11 countries (Ethiopia, Palestine, Samoa, Eritrea, Rwanda, Fiji, Sudan, Pakistan, Mozambique, Jordan, Iraq). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Searchable tags: map components, title, scale, north point, legend, declination, social studies
 
@@ -90,3 +96,7 @@ Pakistan's own way (Pakistan Grade 5 SS5): the Class 5 Geography chapter (Ch.5, 
 Mozambique's own way (Mozambique Grade 7 PESD I Mod 1): distance-learning self-study module — every lesson follows the same rhythm (introduction, development with worked examples, exercises, answer key, lesson summary); the four Earth spheres are the organising spine of the whole module, each sphere closed by a "use, protection and conservation" lesson; local anchors throughout (Maputo temperature worked example, Zambezi delta, Moma/Namialo weather contrast).
 
 Jordan's own way (Jordan G4 SS T2): Term 2 ends with Jordan's region — the world around me (solar system, Earth's movement, the world's heat zones), geographic maps, then Bilad al-Sham and Iraq and the Arabian Peninsula as Jordan's neighbourhood.
+
+Iraq's own way (Iraq Grade 4 Social Studies): geography enters inside "Social Studies" through the child's own surroundings — phenomena are sorted from photographs first, then the local environment, then the map of Iraq's governorates, and only then the wider geographical environments (city, countryside); history and homeland/civics chapters follow in the same book.
+
+Iraq's own way (Iraq Grade 10 Geography): the literary track opens geography as a discipline in its own right — its thought from the Sumerians to GIS, how a geographer researches, where geographical data come from and how they are drawn, and only then the fields of the science; Iraq supplies the worked examples throughout (Baghdad research problem, Iraqi topographic maps, Iraq's gas time series, the Baghdad–Basra distance exercise).

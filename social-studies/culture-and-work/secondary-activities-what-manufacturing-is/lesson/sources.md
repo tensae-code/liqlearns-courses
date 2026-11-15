@@ -1,6 +1,6 @@
 # Sources — Secondary activities — what manufacturing is
 
-countries: Ethiopia, Ukraine, Bolivia, Bangladesh, Dominican Republic, Bahamas, India, Cambodia, Sudan, Syria, Kuwait, Iran, Yemen, Mozambique, Jordan
+countries: Ethiopia, Ukraine, Bolivia, Bangladesh, Dominican Republic, Bahamas, India, Cambodia, Sudan, Syria, Kuwait, Iran, Yemen, Mozambique, Jordan, Iraq
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 2 — Population Studies and Socio-Economic Activities, printed pp. 44–76).
 
@@ -44,6 +44,8 @@ countries: Ethiopia, Ukraine, Bolivia, Bangladesh, Dominican Republic, Bahamas, 
 
 **Book 21:** *الدراسات الاجتماعية — الصف الثاني — الفصل الدراسي الثاني (Social Studies, Grade 2, Term 2)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; year 2025; ISBN 978-9923-41-850-5. Title as printed: الدراسات الاجتماعية — الصف الثاني — الفصل الدراسي الثاني (Social Studies, Grade 2, Term 2). Grade: 2 (student/teacher: STUDENT). PDF pages: 112 (cover verified; byte size 66,244,418 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
 
+**Book 22:** *الاجتماعيات للصف الخامس الابتدائي (Social Studies for the Fifth Primary Grade)* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 1445 AH / 2023 CE, 10th edition (الطبعة العاشرة); ISBN no ISBN printed on the title pages. Title as printed: الاجتماعيات للصف الخامس الابتدائي (Social Studies for the Fifth Primary Grade). Grade: 5 (student/teacher: STUDENT). PDF pages: 104 (cover/title page verified against the record title; read via the books.json record's own Google Drive source file — same book, cover and contents verified — after the GitHub route failed). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iraq-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — From raw material to useful goods | Ethiopia, *Social Studies Student Textbook, Grade 8* (Amhara Bureau), printed p. 60 |
@@ -68,8 +70,9 @@ countries: Ethiopia, Ukraine, Bolivia, Bangladesh, Dominican Republic, Bahamas, 
 | Mozambique part — Lição 19: Indústria mundial e de Moçambique (industry as secondary sector, its importance) | Mozambique, *Mozambique Grade 7 PESD I Mod 2*, Lição 19: Indústria mundial e de Moçambique (industry as secondary sector, its importance) — printed p. 84 |
 | Mozambique part — Lição 1: craft transformation as industry's remote origin [placement slug: culture-and-work/making-things-craft-and-factory] | Mozambique, *Mozambique Grade 10 PESD II Mod 7*, Lição 1: craft transformation as industry's remote origin — printed p. 6 |
 | Jordan part — Unit 5 Lesson 5: Made in My Homeland (صنع في وطني) — stages of making juice, Jordanian-made products | Jordan, *Jordan G2 SS T2*, Unit 5 Lesson 5: Made in My Homeland (صنع في وطني) — stages of making juice, Jordanian-made products — printed p. 83 |
+| Iraq part — Unit 1 Ch. 2: Industry (الصناعة) in Iraq and where it concentrates | Iraq, *Iraq Grade 5 Social Studies*, Unit 1 Ch. 2: Industry (الصناعة) in Iraq and where it concentrates — printed p. 38 |
 
-**Acceptance count: taught in 15 countries (Ethiopia, Ukraine, Bolivia, Bangladesh, Dominican Republic, Bahamas, India, Cambodia, Sudan, Syria, Kuwait, Iran, Yemen, Mozambique, Jordan).**
+**Acceptance count: taught in 16 countries (Ethiopia, Ukraine, Bolivia, Bangladesh, Dominican Republic, Bahamas, India, Cambodia, Sudan, Syria, Kuwait, Iran, Yemen, Mozambique, Jordan, Iraq).**
 
 Ukraine's own way: A "Geography: Regions and Countries" course — every region is done in the same order (position, nature/resources, population, primary/secondary/tertiary sectors) then typological country studies with rubrics (country visiting-card, capital, pride of the country, unique experience), ending with Ukraine's own place in the world; research tasks (Дослідження) embedded in chapters. That way is stocked here as the way Ukraine teaches this thing.
 
@@ -114,3 +117,5 @@ Mozambique's own way (Mozambique Grade 7 PESD I Mod 2): human/economic geography
 Mozambique's own way (Mozambique Grade 10 PESD II Mod 7): industry taught as a long history — from Palaeolithic tool-making through manufacture and mercantilism to the Industrial Revolution and its consequences — before location, types and industrial landscapes; commerce likewise from barter and the invention of coin to trade blocs and unequal world flows.
 
 Jordan's own way (Jordan G2 SS T2): Term 2 teaches change over time (transport, housing, writing) and the child's economy (production, consumption, recycling, Jordanian-made goods), closing with the blue planet, Earth's surface shapes and a first map of Jordan.
+
+Iraq's own way (Iraq Grade 5 Social Studies): the whole first unit is Iraq's own geography — location first (world, region, locality, then the astronomical location), then the land itself region by region off the relief map, then people and economic activity; history and national education follow as separate units.

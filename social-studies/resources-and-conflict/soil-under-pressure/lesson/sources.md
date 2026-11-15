@@ -1,6 +1,6 @@
 # Sources — Soil under pressure
 
-countries: Ethiopia, Angola, Cambodia, Fiji, Slovenia, Papua New Guinea, Mozambique
+countries: Ethiopia, Angola, Cambodia, Fiji, Slovenia, Papua New Guinea, Mozambique, Iraq
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Angola, Cambodia, Fiji, Slovenia, Papua New Guinea, Mozambi
 
 **Book 8:** *Módulo 6 de Geografia — Agricultura e Pecuária (title page misprints the subject word as "Gografia")* (student book, Portuguese) — Ministério da Educação / IEDA; year not printed (uploaded to IEDA site 2022); no ISBN printed. Title as printed: Módulo 6 de Geografia — Agricultura e Pecuária (title page misprints the subject word as "Gografia"). Grade: Grades 10–12 cycle (2º Ciclo), filed as Grade 10 (student/teacher: STUDENT). PDF pages: 80 (title page verified against the record title; byte size 3,049,875 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
 
+**Book 9:** *الاجتماعيات للصف الثالث المتوسط (Social Studies for the Third Intermediate Grade)* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 1445 AH / 2023 CE, 2nd edition (الطبعة الثانية); ISBN no ISBN printed on the title pages. Title as printed: الاجتماعيات للصف الثالث المتوسط (Social Studies for the Third Intermediate Grade). Grade: 9 (student/teacher: STUDENT). PDF pages: 160 (cover/title page verified against the record title; read via the books.json record's own Google Drive source file — same book, cover and contents verified — after the GitHub route failed). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iraq-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — A resource open to all | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 3, printed pp. 63–64 |
@@ -30,8 +32,9 @@ countries: Ethiopia, Angola, Cambodia, Fiji, Slovenia, Papua New Guinea, Mozambi
 | Slovenia part — Tipi prsti in njihova razširjenost (soil types and their spread on Earth; soil degradation and protection) | Slovenia, *Slovenia Grade 10 Geografija 1 (gimnazija)*, Tipi prsti in njihova razširjenost (soil types and their spread on Earth; soil degradation and protection) — printed p. 120 |
 | Papua New Guinea part — Strand 5 Unit 4, Topic 2: Soil degradation (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 9 Social Science TG* (teacher guide), Strand 5 Unit 4, Topic 2: Soil degradation — printed p. 257 |
 | Mozambique part — Lição 8: problemas (years of the same crop without land protection — falling yields, expanding cultivated area) | Mozambique, *Mozambique Grade 10 PESD II Mod 6*, Lição 8: problemas (years of the same crop without land protection — falling yields, expanding cultivated area) — printed p. 65 |
+| Iraq part — Unit 1 Ch. 2: Salinisation and waterlogging of farmland — about 75% of the irrigated land of centre and south suffers salinity | Iraq, *Iraq Grade 9 Social Studies*, Unit 1 Ch. 2: Salinisation and waterlogging of farmland — about 75% of the irrigated land of centre and south suffers salinity — printed p. 58 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Angola, Cambodia, Fiji, Slovenia, Mozambique). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 7 countries (Ethiopia, Angola, Cambodia, Fiji, Slovenia, Mozambique, Iraq). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 No book error is flagged for this lesson's pages in the placements. The student book's body numbering for Unit Two drifts from its own contents (regions printed as 2.4, factors as 2.5, local classification as 2.6, where the contents and the teacher guide's contents agree on 2.3, 2.4 and 2.5); this lesson follows the contents numbering and teaches no misprint.
 
@@ -48,3 +51,5 @@ Slovenia's own way (Slovenia Grade 10 Geografija 1 (gimnazija)): the gimnazija f
 Papua New Guinea's own way (Papua New Guinea Grade 9 Social Science TG) (teacher guide — evidence): at secondary level Social Science splits into five strands — Geography, History, Political Science, Economics, Environment. The Geography strand is a weather-and-climate skills course (instruments, data, graphs — with Port Moresby and Kokopo data) moving to world climate/vegetation, migration, and land use; the Environment strand carries Earth systems, resources and sustainability. That evidence is stocked here as the way Papua New Guinea teaches this thing; it does not change the acceptance count above.
 
 Mozambique's own way (Mozambique Grade 10 PESD II Mod 6): farming taught historically first — the Neolithic revolution, the Iron civilisation, and what the Industrial Revolution gave agriculture — then agrarian space and its natural/human factors, farming systems by development level, and the tropical systems (dryland, oasis, monsoon rice) before modern farming and livestock.
+
+Iraq's own way (Iraq Grade 9 Social Studies): Grade 9 returns to Iraq for the fullest treatment yet — the same national geography as Grade 5 but measured: the plain is 24% and about 600 km long, the desert plateau about 55%, the desert plant belt about 70%, two-thirds of the people live on the central and southern plain; every topic is pinned to numbered maps of Iraq.

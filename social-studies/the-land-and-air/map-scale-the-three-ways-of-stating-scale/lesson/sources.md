@@ -1,6 +1,6 @@
 # Sources — Map Scale — The Three Ways of Stating Scale
 
-countries: Ethiopia, Bangladesh, Malaysia, Eritrea, Fiji, Papua New Guinea, Uganda, Sudan, Venezuela, Sri Lanka, Iran, Yemen, Pakistan, Libya, Mozambique
+countries: Ethiopia, Bangladesh, Malaysia, Eritrea, Fiji, Papua New Guinea, Uganda, Sudan, Venezuela, Sri Lanka, Iran, Yemen, Pakistan, Libya, Mozambique, Iraq
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -46,6 +46,8 @@ countries: Ethiopia, Bangladesh, Malaysia, Eritrea, Fiji, Papua New Guinea, Ugan
 
 **Book 22:** *Módulo 1 de Geografia (GEOGRAFIA — MÓDULO 1, PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo)* (student book, Portuguese) — Ministério da Educação e Desenvolvimento Humano (MINEDH) / Instituto de Educação Aberta e à Distância (IEDA); year 2023; no ISBN printed. Title as printed: Módulo 1 de Geografia (GEOGRAFIA — MÓDULO 1, PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo). Grade: Grades 7–9 cycle, filed as Grade 7 (student/teacher: STUDENT). PDF pages: 143 (cover/title page verified against the record title; byte size 10,033,146 matches the books.json record exactly; read via the record's IEDA source URL after grab.py failed twice on both routes with RemoteDisconnected — GitHub API unreachable from this host). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
 
+**Book 23:** *الاجتماعيات للصف الرابع الابتدائي (Social Studies for the Fourth Primary Grade)* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula (المديرية العامة للمناهج); year 1445 AH / 2023 CE, 13th edition (الطبعة الثالثة عشرة); ISBN no ISBN printed on the title pages. Title as printed: الاجتماعيات للصف الرابع الابتدائي (Social Studies for the Fourth Primary Grade). Grade: 4 (student/teacher: STUDENT). PDF pages: 64 (cover/title page verified against the record title; read via the books.json record's own Google Drive source file after the GitHub release and tree grabs failed with RemoteDisconnected three times — same book, cover and contents verified). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iraq-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What scale is | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 27–29 |
@@ -71,8 +73,9 @@ countries: Ethiopia, Bangladesh, Malaysia, Eritrea, Fiji, Papua New Guinea, Ugan
 | Pakistan part — Scale (1 cm = 1 km, scale bar) | Pakistan, *Pakistan Grade 4 SS4*, Scale (1 cm = 1 km, scale bar) — printed p. 65 |
 | Libya part — الخريطة ومقياس الرسم: The map and drawing scale | Libya, *Libya Grade 5 LY G5 Social Studies*, الخريطة ومقياس الرسم: The map and drawing scale — printed p. 93 |
 | Mozambique part — Lição 3: Escala (numerical, graphic; worked conversions) | Mozambique, *Mozambique Grade 7 PESD I Mod 1*, Lição 3: Escala (numerical, graphic; worked conversions) — printed p. 23 |
+| Iraq part — Ch. 1: Map scale — the bar scale and measuring the real Baghdad–Karbala distance | Iraq, *Iraq Grade 4 Social Studies*, Ch. 1: Map scale — the bar scale and measuring the real Baghdad–Karbala distance — printed p. 13 |
 
-**Acceptance count: taught in 14 countries (Ethiopia, Bangladesh, Malaysia, Eritrea, Fiji, Uganda, Sudan, Venezuela, Sri Lanka, Iran, Yemen, Pakistan, Libya, Mozambique). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 15 countries (Ethiopia, Bangladesh, Malaysia, Eritrea, Fiji, Uganda, Sudan, Venezuela, Sri Lanka, Iran, Yemen, Pakistan, Libya, Mozambique, Iraq). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Pairing warning: the Grade 8 teacher guide is an Addis Ababa bureau book and the student book is an Amhara bureau book; they are NOT edition-matched, and the guide in hand is truncated (printed pp. 1–47 only, Units 1–3). Pupil content in this lesson comes from the Amhara student book; anything from the guide is labelled (teacher guide — evidence) and never presented as pupil-taught.
 
@@ -117,3 +120,5 @@ Pakistan's own way (Pakistan Grade 4 SS4): one combined Social Studies book in U
 Libya's own way (Libya Grade 5 LY G5 Social Studies): Half the book is Islamic history; the geography half ("Principles of General Geography") is pure foundations — solar system, Earth's shape/movements, grid, compass/GPS, land-and-water, map scale and symbols — with the symbol lesson taught by reading Libya's own mineral, wind and road distribution maps. Non-Geography part named, not placed: Topic One, Islamic History — the Arabs before Islam (printed pp. 11–12), the Emergence of Islam (pp. 13–20), the Rashidun Caliphs (pp. 21–30), the Umayyad State (pp. 31–35), the Abbasid State (pp. 36–40), the Fatimid State (pp. 41–43), the Ayyubid State (pp. 44–45), the Crusades on the Arab Homeland (pp. 46–47), the Mamluks repelling the Mongols and Crusaders (pp. 48–51).
 
 Mozambique's own way (Mozambique Grade 7 PESD I Mod 1): distance-learning self-study module — every lesson follows the same rhythm (introduction, development with worked examples, exercises, answer key, lesson summary); the four Earth spheres are the organising spine of the whole module, each sphere closed by a "use, protection and conservation" lesson; local anchors throughout (Maputo temperature worked example, Zambezi delta, Moma/Namialo weather contrast).
+
+Iraq's own way (Iraq Grade 4 Social Studies): geography enters inside "Social Studies" through the child's own surroundings — phenomena are sorted from photographs first, then the local environment, then the map of Iraq's governorates, and only then the wider geographical environments (city, countryside); history and homeland/civics chapters follow in the same book.

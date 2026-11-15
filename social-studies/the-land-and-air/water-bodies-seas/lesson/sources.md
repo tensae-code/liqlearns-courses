@@ -1,6 +1,6 @@
 # Sources — Water Bodies — Seas
 
-countries: Ethiopia, Eritrea, Venezuela, Mauritania, Afghanistan, Iran, Mozambique, Jordan
+countries: Ethiopia, Eritrea, Venezuela, Mauritania, Afghanistan, Iran, Mozambique, Jordan, Iraq
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -28,6 +28,10 @@ countries: Ethiopia, Eritrea, Venezuela, Mauritania, Afghanistan, Iran, Mozambiq
 
 **Book 13:** *علوم الأرض والبيئة — الصف العاشر — كتاب الطالب — الفصل الدراسي الثاني (Earth Science and Environment, Grade 10, Term 2)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-290-9. Title as printed: علوم الأرض والبيئة — الصف العاشر — كتاب الطالب — الفصل الدراسي الثاني (Earth Science and Environment, Grade 10, Term 2). Grade: 10 (student/teacher: STUDENT). PDF pages: 92 (cover verified; byte size 87,975,922 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
 
+**Book 14:** *أُسُس الجغرافية وتقنياتها (Foundations of Geography and Its Techniques) للصف الرابع الأدبي — the record's shorter title "Geography (Literary Track)" is the same book: same grade, track and subject, verified by cover and contents* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; revised by a committee in the Ministry of Education; year 1445 AH / 2023 CE, revised 13th edition (الطبعة الثالثة عشرة / المنقحة); ISBN no ISBN printed on the title pages. Title as printed: أُسُس الجغرافية وتقنياتها (Foundations of Geography and Its Techniques) للصف الرابع الأدبي — the record's shorter title "Geography (Literary Track)" is the same book: same grade, track and subject, verified by cover and contents. Grade: 10 (fourth secondary, literary track) (student/teacher: STUDENT). PDF pages: 144 (cover/title page verified as above; read via the books.json record's own Google Drive source file — same book, cover and contents verified — after the GitHub route failed). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iraq-placements.md.
+
+**Book 15:** *الجغرافية الطبيعية للصف الخامس الأدبي (Natural Geography for the Fifth Literary Grade) — the record's "Geography (Literary Track)" is the same book: same grade and track, verified by cover and contents* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; revised by a committee in the Ministry of Education; year 1445 AH / 2023 CE, revised 13th edition (الطبعة الثالثة عشرة / المنقحة); ISBN no ISBN printed on the title pages. Title as printed: الجغرافية الطبيعية للصف الخامس الأدبي (Natural Geography for the Fifth Literary Grade) — the record's "Geography (Literary Track)" is the same book: same grade and track, verified by cover and contents. Grade: 11 (fifth secondary, literary track) (student/teacher: STUDENT). PDF pages: 162 (cover/title page verified as above; read via the books.json record's own Google Drive source file — same book, cover and contents verified — after the GitHub route failed). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iraq-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Smaller than an ocean, mostly land-ringed | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 6–7 |
@@ -45,8 +49,10 @@ countries: Ethiopia, Eritrea, Venezuela, Mauritania, Afghanistan, Iran, Mozambiq
 | Iran part — Iran's water resources (the seas and lakes of Iran: Caspian in the north, Persian Gulf and Sea of Oman in the south) | Iran, *Iran Grade 10 Geography of Iran*, Iran's water resources (the seas and lakes of Iran: Caspian in the north, Persian Gulf and Sea of Oman in the south) — printed p. 53 |
 | Mozambique part — Lição 15: os mares (types of seas) | Mozambique, *Mozambique Grade 7 PESD I Mod 1*, Lição 15: os mares (types of seas) — printed p. 79 |
 | Jordan part — Unit 4 Lesson 1: Properties of Ocean Water (خصائص مياه المحيطات) | Jordan, *Jordan G10 ES T2*, Unit 4 Lesson 1: Properties of Ocean Water (خصائص مياه المحيطات) — printed p. 28 |
+| Iraq part — Ch. 5: The geography of seas and oceans as a field | Iraq, *Iraq Grade 10 Geography*, Ch. 5: The geography of seas and oceans as a field — printed p. 123 |
+| Iraq part — Ch. 3: Seas and oceans — the origin of sea water, the blue planet, and the distribution of land and water | Iraq, *Iraq Grade 11 Physical Geography*, Ch. 3: Seas and oceans — the origin of sea water, the blue planet, and the distribution of land and water — printed p. 78 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Eritrea, Venezuela, Mauritania, Afghanistan, Iran, Mozambique, Jordan).**
+**Acceptance count: taught in 9 countries (Ethiopia, Eritrea, Venezuela, Mauritania, Afghanistan, Iran, Mozambique, Jordan, Iraq).**
 
 Pairing warning: the Grade 8 teacher guide is an Addis Ababa bureau book and the student book is an Amhara bureau book; they are NOT edition-matched, and the guide in hand is truncated (printed pp. 1–47 only, Units 1–3). Pupil content in this lesson comes from the Amhara student book; anything from the guide is labelled (teacher guide — evidence) and never presented as pupil-taught.
 
@@ -73,3 +79,7 @@ Iran's own way (Iran Grade 10 Geography of Iran): the whole of Grade 10 geograph
 Mozambique's own way (Mozambique Grade 7 PESD I Mod 1): distance-learning self-study module — every lesson follows the same rhythm (introduction, development with worked examples, exercises, answer key, lesson summary); the four Earth spheres are the organising spine of the whole module, each sphere closed by a "use, protection and conservation" lesson; local anchors throughout (Maputo temperature worked example, Zambezi delta, Moma/Namialo weather contrast).
 
 Jordan's own way (Jordan G10 ES T2): Term 2 is weather watching (air masses, fronts, pressure systems, weather balloons), the oceans (water, waves, currents, satellite study), and wastewater — what it is, its harms, and how Jordan treats it.
+
+Iraq's own way (Iraq Grade 10 Geography): the literary track opens geography as a discipline in its own right — its thought from the Sumerians to GIS, how a geographer researches, where geographical data come from and how they are drawn, and only then the fields of the science; Iraq supplies the worked examples throughout (Baghdad research problem, Iraqi topographic maps, Iraq's gas time series, the Baghdad–Basra distance exercise).
+
+Iraq's own way (Iraq Grade 11 Physical Geography): a pure physical-geography course in six chapters — landforms, weather and climate, water, the biosphere, soil, and the environment — with Iraqi anchors kept throughout (flood visits to Iraq's rivers, the hills of northern Iraq, groundwater and the desert caravans, soil salinity in the alluvial plain).

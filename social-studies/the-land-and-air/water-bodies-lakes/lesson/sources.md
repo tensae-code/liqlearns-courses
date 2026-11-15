@@ -1,6 +1,6 @@
 # Sources — Water Bodies — Lakes
 
-countries: Ethiopia, Belarus, Guatemala, Eritrea, India, Rwanda, Slovenia, Uganda, Afghanistan, Iran, Mozambique
+countries: Ethiopia, Belarus, Guatemala, Eritrea, India, Rwanda, Slovenia, Uganda, Afghanistan, Iran, Mozambique, Iraq
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -40,6 +40,8 @@ countries: Ethiopia, Belarus, Guatemala, Eritrea, India, Rwanda, Slovenia, Ugand
 
 **Book 19:** *Módulo 4 de Geografia — Pedogeografia e Hidrogeografia* (student book, Portuguese) — Ministério da Educação / IEDA; year not printed (uploaded to IEDA site 2022); no ISBN printed. Title as printed: Módulo 4 de Geografia — Pedogeografia e Hidrogeografia. Grade: Grades 10–12 cycle (2º Ciclo), filed as Grade 10 (student/teacher: STUDENT). PDF pages: 92 (title page verified against the record title; byte size 1,351,167 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE (the book mis-numbers its lessons: two different lessons are both headed "Lição 6" — Importância dos Solos at printed p. 28 and Conceito de Hidrogeografia at printed p. 36; there is no Lição 5 heading). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
 
+**Book 20:** *الجغرافية الطبيعية للصف الخامس الأدبي (Natural Geography for the Fifth Literary Grade) — the record's "Geography (Literary Track)" is the same book: same grade and track, verified by cover and contents* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; revised by a committee in the Ministry of Education; year 1445 AH / 2023 CE, revised 13th edition (الطبعة الثالثة عشرة / المنقحة); ISBN no ISBN printed on the title pages. Title as printed: الجغرافية الطبيعية للصف الخامس الأدبي (Natural Geography for the Fifth Literary Grade) — the record's "Geography (Literary Track)" is the same book: same grade and track, verified by cover and contents. Grade: 11 (fifth secondary, literary track) (student/teacher: STUDENT). PDF pages: 162 (cover/title page verified as above; read via the books.json record's own Google Drive source file — same book, cover and contents verified — after the GitHub route failed). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iraq-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Land on every side | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 7–8 |
@@ -64,8 +66,9 @@ countries: Ethiopia, Belarus, Guatemala, Eritrea, India, Rwanda, Slovenia, Ugand
 | Iran part — Iran's water resources (Iran's lakes, permanent and seasonal) | Iran, *Iran Grade 10 Geography of Iran*, Iran's water resources (Iran's lakes, permanent and seasonal) — printed p. 59 |
 | Mozambique part — Lição 18: Os Lagos (origin: tectonic/volcanic/external; types emissor/transmissor/receptor/isolado) | Mozambique, *Mozambique Grade 7 PESD I Mod 1*, Lição 18: Os Lagos (origin: tectonic/volcanic/external; types emissor/transmissor/receptor/isolado) — printed p. 99 |
 | Mozambique part — Lição 9: Lagos (tectonic vs glacial origin; emission vs transmission lakes — Lake Constance crossed by the Rhine) | Mozambique, *Mozambique Grade 10 PESD II Mod 4*, Lição 9: Lagos (tectonic vs glacial origin; emission vs transmission lakes — Lake Constance crossed by the Rhine) — printed p. 55 |
+| Iraq part — Ch. 3: Lakes (البحيرات), including volcanic lakes in craters | Iraq, *Iraq Grade 11 Physical Geography*, Ch. 3: Lakes (البحيرات), including volcanic lakes in craters — printed p. 72 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Belarus, Guatemala, Eritrea, India, Slovenia, Uganda, Afghanistan, Iran, Mozambique). Rwanda is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 11 countries (Ethiopia, Belarus, Guatemala, Eritrea, India, Slovenia, Uganda, Afghanistan, Iran, Mozambique, Iraq). Rwanda is named here as teacher-guide evidence only, counted nowhere.**
 
 Pairing warning: the Grade 8 teacher guide is an Addis Ababa bureau book and the student book is an Amhara bureau book; they are NOT edition-matched, and the guide in hand is truncated (printed pp. 1–47 only, Units 1–3). Pupil content in this lesson comes from the Amhara student book; anything from the guide is labelled (teacher guide — evidence) and never presented as pupil-taught.
 
@@ -104,3 +107,5 @@ Iran's own way (Iran Grade 10 Geography of Iran): the whole of Grade 10 geograph
 Mozambique's own way (Mozambique Grade 7 PESD I Mod 1): distance-learning self-study module — every lesson follows the same rhythm (introduction, development with worked examples, exercises, answer key, lesson summary); the four Earth spheres are the organising spine of the whole module, each sphere closed by a "use, protection and conservation" lesson; local anchors throughout (Maputo temperature worked example, Zambezi delta, Moma/Namialo weather contrast).
 
 Mozambique's own way (Mozambique Grade 10 PESD II Mod 4): two half-courses bound together — pedogeography (soil composition, profile, properties, pedogenesis, Dokuchaev classification, soil conservation with terrace/sucalco practice) then hydrogeography (basins and river regimes, groundwater, water balance, lakes, oceans, tides and currents).
+
+Iraq's own way (Iraq Grade 11 Physical Geography): a pure physical-geography course in six chapters — landforms, weather and climate, water, the biosphere, soil, and the environment — with Iraqi anchors kept throughout (flood visits to Iraq's rivers, the hills of northern Iraq, groundwater and the desert caravans, soil salinity in the alluvial plain).

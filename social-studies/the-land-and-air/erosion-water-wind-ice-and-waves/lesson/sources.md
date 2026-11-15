@@ -1,6 +1,6 @@
 # Sources — Erosion — Water, Wind, Ice and Waves
 
-countries: Ethiopia, Jamaica, India, North Macedonia, United Kingdom, Papua New Guinea, Mauritania, Kuwait, Yemen, Pakistan, Libya, Jordan
+countries: Ethiopia, Jamaica, India, North Macedonia, United Kingdom, Papua New Guinea, Mauritania, Kuwait, Yemen, Pakistan, Libya, Jordan, Iraq
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -30,6 +30,8 @@ countries: Ethiopia, Jamaica, India, North Macedonia, United Kingdom, Papua New 
 
 **Book 14:** *الجغرافيا — الصف التاسع — الفصل الدراسي الأول (Geography, Grade 9, Term 1)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; year 2025; ISBN 978-9923-41-859-8. Title as printed: الجغرافيا — الصف التاسع — الفصل الدراسي الأول (Geography, Grade 9, Term 1). Grade: 9 (student/teacher: STUDENT). PDF pages: 80 (cover verified; byte size 60,522,837 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
 
+**Book 15:** *الجغرافية الطبيعية للصف الخامس الأدبي (Natural Geography for the Fifth Literary Grade) — the record's "Geography (Literary Track)" is the same book: same grade and track, verified by cover and contents* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; revised by a committee in the Ministry of Education; year 1445 AH / 2023 CE, revised 13th edition (الطبعة الثالثة عشرة / المنقحة); ISBN no ISBN printed on the title pages. Title as printed: الجغرافية الطبيعية للصف الخامس الأدبي (Natural Geography for the Fifth Literary Grade) — the record's "Geography (Literary Track)" is the same book: same grade and track, verified by cover and contents. Grade: 11 (fifth secondary, literary track) (student/teacher: STUDENT). PDF pages: 162 (cover/title page verified as above; read via the books.json record's own Google Drive source file — same book, cover and contents verified — after the GitHub route failed). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iraq-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Worn rock, carried off | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 18–20 |
@@ -50,8 +52,9 @@ countries: Ethiopia, Jamaica, India, North Macedonia, United Kingdom, Papua New 
 | Pakistan part — Agents of landform change: the river's erosional landforms — V-shaped valley and gorge, waterfall, potholes, meanders and ox-bow lakes | Pakistan, *Pakistan Grade 8 Geography 8*, Agents of landform change: the river's erosional landforms — V-shaped valley and gorge, waterfall, potholes, meanders and ox-bow lakes — printed pp. 10–12 |
 | Libya part — Unit 1: العوامل الخارجية (السطحية) — External (surface) factors and their role in shaping the surface | Libya, *Libya Grade 6 LY G6 Social Studies*, Unit 1: العوامل الخارجية (السطحية) — External (surface) factors and their role in shaping the surface — printed p. 74 |
 | Jordan part — Unit 1 Lesson 2: Weathering and Erosion (التجوية والتعرية) | Jordan, *Jordan G9 Geography T1*, Unit 1 Lesson 2: Weathering and Erosion (التجوية والتعرية) — printed p. 14 |
+| Iraq part — Ch. 1: Erosion (التعرية) — wearing away, transport and deposition | Iraq, *Iraq Grade 11 Physical Geography*, Ch. 1: Erosion (التعرية) — wearing away, transport and deposition — printed p. 15 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, India, North Macedonia, United Kingdom, Mauritania, Kuwait, Yemen, Pakistan, Libya, Jordan). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 11 countries (Ethiopia, India, North Macedonia, United Kingdom, Mauritania, Kuwait, Yemen, Pakistan, Libya, Jordan, Iraq). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grade 5 Exploratory Core, curriculum guide — evidence): Grade 5 Social Studies pairs a heritage year (Europeans and Africans, national heroes, Caribbean culture) with a physical-environment year — erosion, locating Jamaica and the Caribbean by compass and latitude/longitude, types of rainfall, the Solar System, plants and water pollution. That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
@@ -80,3 +83,5 @@ Pakistan's own way (Pakistan Grade 8 Geography 8): the Urdu-medium twin of the E
 Libya's own way (Libya Grade 6 LY G6 Social Studies): The geography half is "Principles of Physical Geography" in four units — surface shaping, climate, water, pollution — with Libyan examples inside world content (the Haruj volcanic mountains, Libyan springs such as Ain al-Sharshara). Non-Geography part named, not placed: Topic One, History of Libya — the Ottoman State and Libya as an Ottoman province (printed pp. 12–18), Libya in the Ottoman era 1551–1912 including the Karamanli period (pp. 19–35), modern European colonialism and the Italian occupation of 1911 (pp. 36–43), Libyan resistance to the Italian occupation (pp. 44–54), Libya after the Italian era — liberation, the British/French military administrations, independence and the Libyan Kingdom (pp. 55–64).
 
 Jordan's own way (Jordan G9 Geography T1): From Grade 9 Geography stands alone as its own book: the Earth's rock and water spheres first, then the geography of the Arab homeland — its natural features, its human features and its challenges.
+
+Iraq's own way (Iraq Grade 11 Physical Geography): a pure physical-geography course in six chapters — landforms, weather and climate, water, the biosphere, soil, and the environment — with Iraqi anchors kept throughout (flood visits to Iraq's rivers, the hills of northern Iraq, groundwater and the desert caravans, soil salinity in the alluvial plain).

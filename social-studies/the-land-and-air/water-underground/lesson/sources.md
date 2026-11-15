@@ -1,6 +1,6 @@
 # Sources — Water underground
 
-countries: Ethiopia, Angola, Bangladesh, Eritrea, Fiji, Slovenia, Mauritania, Libya, Moldova, Mozambique, Jordan
+countries: Ethiopia, Angola, Bangladesh, Eritrea, Fiji, Slovenia, Mauritania, Libya, Moldova, Mozambique, Jordan, Iraq
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -32,6 +32,12 @@ countries: Ethiopia, Angola, Bangladesh, Eritrea, Fiji, Slovenia, Mauritania, Li
 
 **Book 15:** *علوم الأرض والبيئة — الصف التاسع — كتاب الطالب — الفصل الدراسي الأول (Earth Science and Environment, Grade 9, Term 1)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; year 2023 (reprint; originally prepared in English by HarperCollins Publishers 2022, translated/adapted by NCCD); ISBN 978-9923-41-484-2. Title as printed: علوم الأرض والبيئة — الصف التاسع — كتاب الطالب — الفصل الدراسي الأول (Earth Science and Environment, Grade 9, Term 1). Grade: 9 (student/teacher: STUDENT). PDF pages: 68 (cover verified; byte size 19,348,259 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
 
+**Book 16:** *الاجتماعيات للصف الثاني المتوسط (Social Studies for the Second Intermediate Grade)* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 1445 AH / 2023 CE, 4th edition (الطبعة الرابعة); ISBN no ISBN printed on the title pages. Title as printed: الاجتماعيات للصف الثاني المتوسط (Social Studies for the Second Intermediate Grade). Grade: 8 (student/teacher: STUDENT). PDF pages: 140 (cover/title page verified against the record title; read via the books.json record's own Google Drive source file — same book, cover and contents verified — after the GitHub route failed). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iraq-placements.md.
+
+**Book 17:** *الاجتماعيات للصف الثالث المتوسط (Social Studies for the Third Intermediate Grade)* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 1445 AH / 2023 CE, 2nd edition (الطبعة الثانية); ISBN no ISBN printed on the title pages. Title as printed: الاجتماعيات للصف الثالث المتوسط (Social Studies for the Third Intermediate Grade). Grade: 9 (student/teacher: STUDENT). PDF pages: 160 (cover/title page verified against the record title; read via the books.json record's own Google Drive source file — same book, cover and contents verified — after the GitHub route failed). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iraq-placements.md.
+
+**Book 18:** *الجغرافية الطبيعية للصف الخامس الأدبي (Natural Geography for the Fifth Literary Grade) — the record's "Geography (Literary Track)" is the same book: same grade and track, verified by cover and contents* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; revised by a committee in the Ministry of Education; year 1445 AH / 2023 CE, revised 13th edition (الطبعة الثالثة عشرة / المنقحة); ISBN no ISBN printed on the title pages. Title as printed: الجغرافية الطبيعية للصف الخامس الأدبي (Natural Geography for the Fifth Literary Grade) — the record's "Geography (Literary Track)" is the same book: same grade and track, verified by cover and contents. Grade: 11 (fifth secondary, literary track) (student/teacher: STUDENT). PDF pages: 162 (cover/title page verified as above; read via the books.json record's own Google Drive source file — same book, cover and contents verified — after the GitHub route failed). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iraq-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Aquifers, springs, wells | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 3, printed pp. 67–69 |
@@ -50,8 +56,11 @@ countries: Ethiopia, Angola, Bangladesh, Eritrea, Fiji, Slovenia, Mauritania, Li
 | Mozambique part — Lição 19: As águas subterrâneas (aquifers, artesian wells) | Mozambique, *Mozambique Grade 7 PESD I Mod 1*, Lição 19: As águas subterrâneas (aquifers, artesian wells) — printed p. 102 |
 | Mozambique part — Lição 7: Água Subterrânea, Nascentes e Poços Artesianos (groundwater origin in precipitation; water-table variation natural and human-caused) | Mozambique, *Mozambique Grade 10 PESD II Mod 4*, Lição 7: Água Subterrânea, Nascentes e Poços Artesianos (groundwater origin in precipitation; water-table variation natural and human-caused) — printed p. 45 |
 | Jordan part — Unit 2 Lesson 2: Groundwater (المياه الجوفية) | Jordan, *Jordan G9 ES T1*, Unit 2 Lesson 2: Groundwater (المياه الجوفية) — printed p. 49 |
+| Iraq part — Part 1 Ch. 1: Groundwater (المياه الجوفية) in the Arab world and its importance — desert reclamation projects and settling the Bedouin | Iraq, *Iraq Grade 8 Social Studies*, Part 1 Ch. 1: Groundwater (المياه الجوفية) in the Arab world and its importance — desert reclamation projects and settling the Bedouin — printed p. 34 |
+| Iraq part — Unit 1 Ch. 1: Groundwater (المياه الجوفية) — springs and eyes appearing naturally, and wells dug by people | Iraq, *Iraq Grade 9 Social Studies*, Unit 1 Ch. 1: Groundwater (المياه الجوفية) — springs and eyes appearing naturally, and wells dug by people — printed p. 42 |
+| Iraq part — Ch. 3: Groundwater — Iraq's people have used it since old times (caravan routes and tribal movement in the desert); springs (الينابيع) | Iraq, *Iraq Grade 11 Physical Geography*, Ch. 3: Groundwater — Iraq's people have used it since old times (caravan routes and tribal movement in the desert); springs (الينابيع) — printed p. 76 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Angola, Bangladesh, Eritrea, Fiji, Slovenia, Mauritania, Libya, Moldova, Mozambique, Jordan).**
+**Acceptance count: taught in 12 countries (Ethiopia, Angola, Bangladesh, Eritrea, Fiji, Slovenia, Mauritania, Libya, Moldova, Mozambique, Jordan, Iraq).**
 
 Searchable tags: groundwater, aquifer, springs, wells, water endowment, social studies
 
@@ -80,3 +89,9 @@ Mozambique's own way (Mozambique Grade 7 PESD I Mod 1): distance-learning self-s
 Mozambique's own way (Mozambique Grade 10 PESD II Mod 4): two half-courses bound together — pedogeography (soil composition, profile, properties, pedogenesis, Dokuchaev classification, soil conservation with terrace/sucalco practice) then hydrogeography (basins and river regimes, groundwater, water balance, lakes, oceans, tides and currents).
 
 Jordan's own way (Jordan G9 ES T1): Earth Science at Grade 9 is minerals and water, anchored in Jordan — the enrichment case is potash drilling in the Dead Sea.
+
+Iraq's own way (Iraq Grade 8 Social Studies): the intermediate sequence widens ring by ring — after Iraq itself (G5–G6) and the ancient world (G7), Grade 8 gives the whole Arab world as one geographical unit (its position between two continents, relief, climates, waters, people and economy), worked constantly off outline maps of the Arab world; the history of the Arab world follows as Part 2.
+
+Iraq's own way (Iraq Grade 9 Social Studies): Grade 9 returns to Iraq for the fullest treatment yet — the same national geography as Grade 5 but measured: the plain is 24% and about 600 km long, the desert plateau about 55%, the desert plant belt about 70%, two-thirds of the people live on the central and southern plain; every topic is pinned to numbered maps of Iraq.
+
+Iraq's own way (Iraq Grade 11 Physical Geography): a pure physical-geography course in six chapters — landforms, weather and climate, water, the biosphere, soil, and the environment — with Iraqi anchors kept throughout (flood visits to Iraq's rivers, the hills of northern Iraq, groundwater and the desert caravans, soil salinity in the alluvial plain).

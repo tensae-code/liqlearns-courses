@@ -1,6 +1,6 @@
 # Sources — What geography is
 
-countries: Ethiopia, Saudi Arabia, Turkey, Bolivia, Angola, Dominican Republic, Slovenia, Vietnam, Uganda, Sudan, Syria, Venezuela, Mauritania, Kuwait, Iran, Pakistan, Moldova, Honduras, Mozambique
+countries: Ethiopia, Saudi Arabia, Turkey, Bolivia, Angola, Dominican Republic, Slovenia, Vietnam, Uganda, Sudan, Syria, Venezuela, Mauritania, Kuwait, Iran, Pakistan, Moldova, Honduras, Mozambique, Iraq
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -68,6 +68,8 @@ countries: Ethiopia, Saudi Arabia, Turkey, Bolivia, Angola, Dominican Republic, 
 
 **Book 33:** *Módulo 1 de Geografia — Introdução ao Pensamento Geográfico e Cosmografia* (student book, Portuguese) — Ministério da Educação / Instituto de Educação Aberta e à Distância (IEDA); year not printed (uploaded to IEDA site 2022); no ISBN printed. Title as printed: Módulo 1 de Geografia — Introdução ao Pensamento Geográfico e Cosmografia. Grade: Grades 10–12 cycle (2º Ciclo), filed as Grade 10 (student/teacher: STUDENT). PDF pages: 85 (title page verified against the record title; byte size 904,542 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
 
+**Book 34:** *الاجتماعيات للصف الرابع الابتدائي (Social Studies for the Fourth Primary Grade)* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula (المديرية العامة للمناهج); year 1445 AH / 2023 CE, 13th edition (الطبعة الثالثة عشرة); ISBN no ISBN printed on the title pages. Title as printed: الاجتماعيات للصف الرابع الابتدائي (Social Studies for the Fourth Primary Grade). Grade: 4 (student/teacher: STUDENT). PDF pages: 64 (cover/title page verified against the record title; read via the books.json record's own Google Drive source file after the GitHub release and tree grabs failed with RemoteDisconnected three times — same book, cover and contents verified). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iraq-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The word | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 1, printed pp. 3–4 |
@@ -108,8 +110,9 @@ countries: Ethiopia, Saudi Arabia, Turkey, Bolivia, Angola, Dominican Republic, 
 | Honduras part — Lección 10: La ciencia geográfica — the geographic science (teacher guide — evidence) | Honduras, *Honduras Grade 7 Teacher Guide* (teacher guide), Lección 10: La ciencia geográfica — the geographic science — printed p. 43 |
 | Mozambique part — Lição 1: Introdução ao estudo da Geografia (concept, object of study, importance, landscape natural/humanised) | Mozambique, *Mozambique Grade 7 PESD I Mod 1*, Lição 1: Introdução ao estudo da Geografia (concept, object of study, importance, landscape natural/humanised) — printed p. 10 |
 | Mozambique part — Lição 1: Conceito de Pensamento Geográfico (Greek origin "descrição da Terra", object of study = the terrestrial space where nature and society coexist) | Mozambique, *Mozambique Grade 10 PESD II Mod 1*, Lição 1: Conceito de Pensamento Geográfico (Greek origin "descrição da Terra", object of study = the terrestrial space where nature and society coexist) — printed p. 5 |
+| Iraq part — Ch. 1 The local environment: What is geography? (the science that studies a place's natural and human phenomena and their mutual effect) | Iraq, *Iraq Grade 4 Social Studies*, Ch. 1 The local environment: What is geography? (the science that studies a place's natural and human phenomena and their mutual effect) — printed p. 5 |
 
-**Acceptance count: taught in 19 countries (Ethiopia, Saudi Arabia, Turkey, Bolivia, Angola, Dominican Republic, Slovenia, Vietnam, Uganda, Sudan, Syria, Venezuela, Mauritania, Kuwait, Iran, Pakistan, Moldova, Honduras, Mozambique).**
+**Acceptance count: taught in 20 countries (Ethiopia, Saudi Arabia, Turkey, Bolivia, Angola, Dominican Republic, Slovenia, Vietnam, Uganda, Sudan, Syria, Venezuela, Mauritania, Kuwait, Iran, Pakistan, Moldova, Honduras, Mozambique, Iraq).**
 
 Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
@@ -172,3 +175,5 @@ Honduras's own way (Honduras Grade 7 Teacher Guide) (teacher guide — evidence)
 Mozambique's own way (Mozambique Grade 7 PESD I Mod 1): distance-learning self-study module — every lesson follows the same rhythm (introduction, development with worked examples, exercises, answer key, lesson summary); the four Earth spheres are the organising spine of the whole module, each sphere closed by a "use, protection and conservation" lesson; local anchors throughout (Maputo temperature worked example, Zambezi delta, Moma/Namialo weather contrast).
 
 Mozambique's own way (Mozambique Grade 10 PESD II Mod 1): the second cycle opens with the discipline itself — geographic thought, its history from Greek antiquity to the determinist/possibilist schools, then cosmography (celestial sphere, solar system, Earth's shape and revolution) before any regional content.
+
+Iraq's own way (Iraq Grade 4 Social Studies): geography enters inside "Social Studies" through the child's own surroundings — phenomena are sorted from photographs first, then the local environment, then the map of Iraq's governorates, and only then the wider geographical environments (city, countryside); history and homeland/civics chapters follow in the same book.

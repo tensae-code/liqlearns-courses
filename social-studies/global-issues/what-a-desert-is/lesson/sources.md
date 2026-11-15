@@ -1,6 +1,6 @@
 # Sources — What a Desert Is
 
-countries: Ethiopia, Colombia, India, United Kingdom, Cambodia, Uzbekistan, Sri Lanka, Iran
+countries: Ethiopia, Colombia, India, United Kingdom, Cambodia, Uzbekistan, Sri Lanka, Iran, Iraq
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (placement 107).
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Colombia, India, United Kingdom, Cambodia, Uzbekistan, Sri 
 
 **Book 9:** *جغرافیا (۲) جغرافیای ناحیه‌ای ـ پایه یازدهم دوره دوم متوسطه (Geography (2): Regional Geography, Grade 11 of the second secondary cycle)* (student book, Persian) — Ministry of Education, Organization for Educational Research and Planning (سازمان پژوهش و برنامه‌ریزی آموزشی); printed by the Iran Textbook Printing and Publishing Company (شرکت چاپ و نشر کتاب‌های درسی ایران); ISBN 978-964-05-2800-6; book code 111218 (matches the record's C111218). Title as printed: جغرافیا (۲) جغرافیای ناحیه‌ای ـ پایه یازدهم دوره دوم متوسطه (Geography (2): Regional Geography, Grade 11 of the second secondary cycle). Grade: 11 (student/teacher: STUDENT). PDF pages: 176 (printed pagination runs 8 behind the PDF pages: printed p. 1 = PDF p. 9; title page verified as above; read via the books.json record's own ministry source file at chap.sch.ir — same book, exact byte size and page count as the record — after the GitHub route failed). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iran-placements.md.
 
+**Book 10:** *الجغرافية الطبيعية للصف الخامس الأدبي (Natural Geography for the Fifth Literary Grade) — the record's "Geography (Literary Track)" is the same book: same grade and track, verified by cover and contents* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; revised by a committee in the Ministry of Education; year 1445 AH / 2023 CE, revised 13th edition (الطبعة الثالثة عشرة / المنقحة); ISBN no ISBN printed on the title pages. Title as printed: الجغرافية الطبيعية للصف الخامس الأدبي (Natural Geography for the Fifth Literary Grade) — the record's "Geography (Literary Track)" is the same book: same grade and track, verified by cover and contents. Grade: 11 (fifth secondary, literary track) (student/teacher: STUDENT). PDF pages: 162 (cover/title page verified as above; read via the books.json record's own Google Drive source file — same book, cover and contents verified — after the GitHub route failed). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iraq-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Rain, not heat: a desert as under 250 mm of rain a year; about a third of the Earth's land is desert | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 7, printed pp. 145–147 |
@@ -33,8 +35,9 @@ countries: Ethiopia, Colombia, India, United Kingdom, Cambodia, Uzbekistan, Sri 
 | Uzbekistan part — §25 Africa: tropical deserts and subtropics | Uzbekistan, *Uzbekistan Grade 6 Geografiya (Soatov & Abdulqosimov)*, §25 Africa: tropical deserts and subtropics — printed p. 67 |
 | Sri Lanka part — Unit 3 Landscape VI — Desert: the Thar desert — sand sheets, <250 mm rain, oases and deep wells, camel transport, desert expansion | Sri Lanka, *Sri Lanka Grade 8 G8 English*, Unit 3 Landscape VI — Desert: the Thar desert — sand sheets, <250 mm rain, oases and deep wells, camel transport, desert expansion — printed p. 45 |
 | Iran part — Lesson 3: Deserts (بیابان‌ها) — in Köppen's division the dry group B; most of Iran is dry and desert; a desert is defined by two marks, little rainfall and high evaporation; the causes that make deserts (a region lacking rising air or moist air); group task: research the climate of a world desert (Lut, the Sahara, the Gobi) or Antarctica | Iran, *Iran Grade 11 Geography (2)*, Lesson 3: Deserts (بیابان‌ها) — in Köppen's division the dry group B; most of Iran is dry and desert; a desert is defined by two marks, little rainfall and high evaporation; the causes that make deserts (a region lacking rising air or moist air); group task: research the climate of a world desert (Lut, the Sahara, the Gobi) or Antarctica — printed p. 32 |
+| Iraq part — Ch. 4: The desert region — the hot deserts mostly between latitudes 20° and 35° | Iraq, *Iraq Grade 11 Physical Geography*, Ch. 4: The desert region — the hot deserts mostly between latitudes 20° and 35° — printed p. 113 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Colombia, India, United Kingdom, Cambodia, Uzbekistan, Sri Lanka, Iran).**
+**Acceptance count: taught in 9 countries (Ethiopia, Colombia, India, United Kingdom, Cambodia, Uzbekistan, Sri Lanka, Iran, Iraq).**
 
 Book error taught corrected: the book's list of the four desert types is numbered 1, 2, 2, 3 as printed; the lesson teaches the four types as a clean list of four and names the misprint here. The rainfall, area and table figures are the book's own figures as printed, including its UN-era table. There is NO Grade 8 teacher-guide coverage for Chapter 7: the Grade 8 guide in hand holds only Units 1–3, so no teacher evidence is claimed for any Grade 8 part of this lesson.
 
@@ -55,3 +58,5 @@ Uzbekistan's own way (Uzbekistan Grade 6 Geografiya): Geography in Grade 6 is th
 Sri Lanka's own way (Sri Lanka Grade 8 G8 English): a four-unit arc — Solar System, Earth's uniqueness, then regional geography taught as six South Asian "landscapes" (mountain, valley, coastal, rural, industrial-urban, desert), closing with Sri Lanka's own 1:50,000 topographic-sheet system (92 sheets) that Grade 9 continues.
 
 Iran's own way (Iran Grade 11 Geography (2)): the whole book is built on one organising idea — the region (ناحیه). Four chapters divide the world into regions four ways: what a region is, natural regions (climate, landforms, living, coasts, mountains — with Nepal as the highland case study), human regions (cultural, economic), and political regions (the state, borders, geopolitics — with the Persian Gulf and the European Union as case studies).
+
+Iraq's own way (Iraq Grade 11 Physical Geography): a pure physical-geography course in six chapters — landforms, weather and climate, water, the biosphere, soil, and the environment — with Iraqi anchors kept throughout (flood visits to Iraq's rivers, the hills of northern Iraq, groundwater and the desert caravans, soil salinity in the alluvial plain).

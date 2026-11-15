@@ -103,7 +103,7 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **2767**
+Geography lessons across the eight Geography titles: **2859**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -1951,3 +1951,67 @@ Environment and The Social Environment.
 (All 82 new lessons are taught in 1 country (Laos),
 each standing on student book(s), with teacher-guide
 placements also cited as evidence.)
+
++92 for Iraq, 2026-11-15 — First Steps: Arab And Muslim
+Geography, Greek And Roman Geography and Modern And
+Contemporary Geography; Earth and Space: Air Pressure
+And How It Falls With Height, Eras Of Earths History,
+Fossils And How They Are Preserved, Heating The Earth
+And Atmosphere, Inside The Earth Crust Mantle Core,
+Solar Radiation And The Earths Heat, The Geological
+Time Scale and The Ozone Layer And Its Damage; The Land
+and Air: Arabias Land Plateau Mountains And Coasts,
+Clouds And How They Form, Dams And Storage Projects On
+The Tigris, Depressions And Anticyclones, Egypts Land
+The Nile Valley And Delta, Evaporation Condensation And
+Clouds, Field Measurements In Geography, Finding
+Direction By Sun Stars And Compass, Folds And Faults,
+Geographical Data And Its Sources, Geographical
+Variables And Data Errors, Glaciers And Ice Sheets,
+Greeces Mountainous Land And Islands, Gulfs Straits And
+Coasts, Hills And How They Differ From Mountains,
+Inland Seas The Caspian, Iraq's Climatic Regions,
+Iraq's Location Neighbours And Importance, Iraq's
+Marshes The Ahwar, Iraq's Natural Vegetation, Iraq's
+Relief Mountains Plateaus And The Alluvial Plain,
+Italys Land Alps Apennines And Plains, My Local
+Environment Home School And Garden, Persias Land Four
+Natural Regions, Settlement Man And His Environment,
+Shatt Al Arab Where The Two Rivers Meet, Soils Of The
+World, Spatial Variation The Heart Of Geography, The
+Arab World's Climatic Regions, The Arab World's
+Position And Seas, The Nile And Its Dams, Why The Arab
+World's Relief Matters and Winds Permanent Monsoon
+Local And Daily; Population, Transport and Maps: Births
+Deaths And Natural Growth, City Functions Iraq's Cities
+At Work, Communications Telegraph To Internet, Iraq's
+Governorates And Administrative Divisions, Map
+Projections Turning The Sphere Flat, Migration Causes
+Effects And Measuring, Population Distribution And
+Density, Population Pyramids And Composition, Ships And
+Container Shipping, The Citys Region And Commuting,
+Transport And Trade In Iraq and What A City Is And What
+Cities Do; People and Resources: Agriculture In Iraq,
+Crops And Land Use Measurement, Farming Systems Of The
+World, Industry In Iraq, Iraq's Oil Wealth, Iraq's
+Phosphate And Other Minerals, Minerals Metallic And Non
+Metallic, Phosphates And Nitrogen Fertilisers, Sulphur,
+The Arab World's Oil, The Car Industry And Global
+Production and What Agriculture Needs Climate Soil And
+Markets; Culture and Work: Date Palms Of Iraq, Inside
+The City Land Use And Models, International Tourism,
+Iraq's City Network And The Iraqi City, Livestock And
+Rangelands Of Iraq, Megacities And City Growth,
+Population Density Inside Cities, The Rural Landscape
+and Tourism In Iraq; Resources and Conflict: Political
+Geography States And Resources; Global Issues: Chemical
+Pollution Oil And Fertilisers, Earthquake Safety,
+Iraq's Political Geography, Light Pollution, Medical
+Geography Disease And Environment, Population And
+Resources The Optimum, Problems Of Farming Overgrazing,
+Radiation Pollution, Rivers And State Power, Severe
+Weather Thunderstorms And Dust Storms, Smog And Acid
+Rain, Soil Erosion And Depletion, The Economic Bases Of
+State Power and Waste And How To Dispose Of It.
+(All 92 new lessons are taught in 1 country (Iraq),
+each standing on student book(s).)
