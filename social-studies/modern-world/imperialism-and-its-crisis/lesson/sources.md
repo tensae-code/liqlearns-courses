@@ -1,6 +1,6 @@
 # Sources — Imperialism and its crisis
 
-countries: Brazil, Dominican Republic
+countries: Brazil, Dominican Republic, Iraq
 
 **Book 1:** *História — Livro Didático Público — Ensino Médio* (student book, Portuguese) — brazil-historia-seed-pr. Title as printed: História — Livro Didático Público — Ensino Médio. Grade: Grade 10 / Ensino Médio (student/teacher: STUDENT). Publisher: Secretaria de Estado da Educação do Paraná (SEED-PR), Curitiba; year 2006 (2nd edition); ISBN 85-85380-36-5. PDF pages: 400 (cover/credits page verified against the record title). Verdict: COMPLETE. Records: 1 record / 1 distinct book / TSV release record grabbed via grab.py (url route, mid-size-books release), verified by pdfinfo + cover/credits render, read page by page with pdftotext -layout (full table of contents and chapter structure read; the book is a thematic public textbook written by Paraná state school teachers). Placements at liqlearns-courses-work/expansion-history-2026-11-15/brazil-placements.md.
 
@@ -30,3 +30,25 @@ Searchable tags: imperialism, empires, capitalism, rivalry, crisis, world war, B
 Dominican Republic's own way (Ciencias Sociales, Sexto Grado — Proyecto Libro Abierto, Grade 6 (student/teacher: STUDENT)): a full world-history sweep (civilisations, modernity, revolutions) is bolted to a detailed national second half — occupation, Trujillo, Bosch, the April 1965 revolution and the democratic decades — so a primary leaver holds both stories at once. That way is stocked here as the way the Dominican Republic teaches this thing. Combined-subject note: this is a combined Ciencias Sociales book — only its History units are placed; its Geography and Civics units are named in the book entry above, not placed. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 2 countries (Brazil, Dominican Republic).**
+
+## History expansion (2026-11-15) — Iraq stocked
+
+**Book 8 — iq-g11 History of Europe and America, Modern and Contemporary (student book, Arabic)**
+- Title as printed: تأريخ أوربا وأمريكا الحديث والمعاصر للصف الخامس الأدبي (Modern and Contemporary History of Europe and America, Fifth Literary Grade)
+- Grade: Grade 11 (student/teacher: STUDENT)
+- Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 2023 (1445H), 13th edition; ISBN no ISBN printed
+- PDF pages: 112 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 28 placements — 21 to existing lessons, 7 NEW LESSON NEEDED
+- Iraq's own way: A straight political narrative of the West from 1789 to 1945, told from outside it — revolutions, unifications, world wars — with the thinkers given first, before the crowds move.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iraq part — The age of modern colonialism — story beats: unified, industrial Europe turns outward; the "white man's" mission and the hunt for colonies become a system with a name (History expansion, 2026-11-15; original placement slug: modern-world/the-new-imperialism) | Iraq, *تأريخ أوربا وأمريكا الحديث والمعاصر للصف الخامس الأدبي (Modern and Contemporary History of Europe and America, Fifth Literary Grade)*, printed p. 70 |
+
+Iraq's own way (Book 8 — iq-g11 History of Europe and America, Modern and Contemporary (student book, Arabic)): A straight political narrative of the West from 1789 to 1945, told from outside it — revolutions, unifications, world wars — with the thinkers given first, before the crowds move. That way is stocked here as the way Iraq teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 3 countries (Brazil, Dominican Republic, Iraq).**
+
+Searchable tags: Iraq, History expansion 2026-11-15, modern-world/imperialism-and-its-crisis

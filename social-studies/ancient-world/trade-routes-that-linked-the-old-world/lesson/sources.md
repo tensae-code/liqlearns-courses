@@ -1,6 +1,6 @@
 # Sources — Trade routes that linked the old world
 
-countries: Ethiopia, Nigeria, France, Kuwait, India, Indonesia, Syria, Palestine, Colombia, Libya, Sri Lanka
+countries: Ethiopia, Nigeria, France, Kuwait, India, Indonesia, Syria, Palestine, Colombia, Libya, Sri Lanka, Iraq
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -276,3 +276,43 @@ Sri Lanka's own way (Book 4 — G10 Social Education and History Tamil 1999): a 
 **Acceptance count: taught in 11 countries (Ethiopia, Nigeria, France, Kuwait, India, Indonesia, Syria, Palestine, Colombia, Libya, Sri Lanka).**
 
 Searchable tags: Sri Lanka, History expansion 2026-11-15, ancient-world/trade-routes-that-linked-the-old-world
+
+## History expansion (2026-11-15) — Iraq stocked
+
+**Book 5 — iq-g08 Social Studies (student book, Arabic)**
+- Title as printed: الاجتماعيات للصف الثاني المتوسط (Social Studies for the Second Intermediate Grade)
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 2023 (1445H), 4th edition; ISBN no ISBN printed
+- PDF pages: 140 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 17 placements — 15 to existing lessons, 2 NEW LESSON NEEDED
+- Iraq's own way: Part 1 (printed pp.4–69) is Arab-world Geography, named here, not placed. Part 2 "History of the Arab World" (pp.70–139) slows right down for the Prophet's biography, teaching the battles as a dated table to be ordered, corrected and completed.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/iraq-placements.md.
+
+Non-History parts (named, not placed): Part 1 (printed pp.4–69) is Arab-world Geography — named in the placements file, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iraq part — Arabia's economy: herding, trade and the great markets — story beats: Meccan caravans carry Chinese silk east–west beyond the famous two journeys a year, and Arabs gather to trade and recite at Ukaz and Dhu al-Majaz by Arafat (History expansion, 2026-11-15; original placement slug: ancient-world/trade-routes-that-linked-the-old-world) | Iraq, *الاجتماعيات للصف الثاني المتوسط (Social Studies for the Second Intermediate Grade)*, printed p. 76 |
+
+Iraq's own way (Book 5 — iq-g08 Social Studies (student book, Arabic)): Part 1 (printed pp.4–69) is Arab-world Geography, named here, not placed. Part 2 "History of the Arab World" (pp.70–139) slows right down for the Prophet's biography, teaching the battles as a dated table to be ordered, corrected and completed. That way is stocked here as the way Iraq teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 7 — iq-g10 History of Arab-Islamic Civilisation (student book, Arabic)**
+- Title as printed: تاريخ الحضارة العربية الإسلامية للصف الرابع الأدبي (History of Arab-Islamic Civilisation, Fourth Literary Grade)
+- Grade: Grade 10 (student/teacher: STUDENT)
+- Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 2023 (1445H), 6th edition; ISBN no ISBN printed
+- PDF pages: 180 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 12 placements — 5 to existing lessons, 7 NEW LESSON NEEDED
+- Iraq's own way: The literary track's first History book is not events but a civilisation studied as a system — concept, administration, courts, economy, cities, scholarship — and how it met, taught and finally fell behind the wider world.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iraq part — Ch.8 How the civilisation travelled: trade and translation routes to Europe — story beats: Europe–Levant trade, al-Andalus and Sicily carry Arab-Islamic learning westward; even the Crusaders' two centuries (490–690 AH) become a channel (History expansion, 2026-11-15; original placement slug: ancient-world/trade-routes-that-linked-the-old-world) | Iraq, *تاريخ الحضارة العربية الإسلامية للصف الرابع الأدبي (History of Arab-Islamic Civilisation, Fourth Literary Grade)*, printed p. 161 |
+
+Iraq's own way (Book 7 — iq-g10 History of Arab-Islamic Civilisation (student book, Arabic)): The literary track's first History book is not events but a civilisation studied as a system — concept, administration, courts, economy, cities, scholarship — and how it met, taught and finally fell behind the wider world. That way is stocked here as the way Iraq teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 12 countries (Ethiopia, Nigeria, France, Kuwait, India, Indonesia, Syria, Palestine, Colombia, Libya, Sri Lanka, Iraq).**
+
+Searchable tags: Iraq, History expansion 2026-11-15, ancient-world/trade-routes-that-linked-the-old-world

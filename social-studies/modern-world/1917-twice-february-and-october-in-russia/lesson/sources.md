@@ -1,6 +1,6 @@
 # Sources — 1917 twice — February and October in Russia
 
-countries: Ethiopia, Costa Rica, Montenegro, Dominican Republic, United Kingdom, Cambodia, Colombia, Mauritania, South Sudan, Sri Lanka, Mongolia, Samoa
+countries: Ethiopia, Costa Rica, Montenegro, Dominican Republic, United Kingdom, Cambodia, Colombia, Mauritania, South Sudan, Sri Lanka, Mongolia, Samoa, Iraq
 
 **Book 1:** *History, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN 978-99990-0-065-9. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g10-student-placements.md
 
@@ -303,3 +303,25 @@ Samoa's own way (Book 10 — y12-history (History, Year 12)): A full senior Hist
 **Acceptance count: taught in 12 countries (Ethiopia, Costa Rica, Montenegro, Dominican Republic, United Kingdom, Cambodia, Colombia, Mauritania, South Sudan, Sri Lanka, Mongolia, Samoa).**
 
 Searchable tags: Samoa, History expansion 2026-11-15, modern-world/1917-twice-february-and-october-in-russia
+
+## History expansion (2026-11-15) — Iraq stocked
+
+**Book 8 — iq-g11 History of Europe and America, Modern and Contemporary (student book, Arabic)**
+- Title as printed: تأريخ أوربا وأمريكا الحديث والمعاصر للصف الخامس الأدبي (Modern and Contemporary History of Europe and America, Fifth Literary Grade)
+- Grade: Grade 11 (student/teacher: STUDENT)
+- Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 2023 (1445H), 13th edition; ISBN no ISBN printed
+- PDF pages: 112 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 28 placements — 21 to existing lessons, 7 NEW LESSON NEEDED
+- Iraq's own way: A straight political narrative of the West from 1789 to 1945, told from outside it — revolutions, unifications, world wars — with the thinkers given first, before the crowds move.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iraq part — The Soviet Union emerges a world power — story beats: war topples the Romanovs (1613–1917); a provisional government in March 1917 gives way to the Soviet state, recognised first by Germany, Italy and Britain (History expansion, 2026-11-15; original placement slug: modern-world/1917-twice-february-and-october-in-russia) | Iraq, *تأريخ أوربا وأمريكا الحديث والمعاصر للصف الخامس الأدبي (Modern and Contemporary History of Europe and America, Fifth Literary Grade)*, printed p. 90 |
+
+Iraq's own way (Book 8 — iq-g11 History of Europe and America, Modern and Contemporary (student book, Arabic)): A straight political narrative of the West from 1789 to 1945, told from outside it — revolutions, unifications, world wars — with the thinkers given first, before the crowds move. That way is stocked here as the way Iraq teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 13 countries (Ethiopia, Costa Rica, Montenegro, Dominican Republic, United Kingdom, Cambodia, Colombia, Mauritania, South Sudan, Sri Lanka, Mongolia, Samoa, Iraq).**
+
+Searchable tags: Iraq, History expansion 2026-11-15, modern-world/1917-twice-february-and-october-in-russia

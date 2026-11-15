@@ -1,6 +1,6 @@
 # Sources — Dating the past — calendars, timelines and periods
 
-countries: Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Samoa
+countries: Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -1295,3 +1295,28 @@ Samoa's own way (Book 11 — y13-history (History, Year 13)): The same six-part 
 **Acceptance count: taught in 31 countries (Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Samoa).**
 
 Searchable tags: Samoa, History expansion 2026-11-15, first-steps/dating-the-past
+
+## History expansion (2026-11-15) — Iraq stocked
+
+**Book 1 — iq-g04 Social Studies (student book, Arabic)**
+- Title as printed: الاجتماعيات للصف الرابع الابتدائي (Social Studies for the Fourth Primary Grade)
+- Grade: Grade 4 (student/teacher: STUDENT)
+- Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 2023 (1445H), 13th edition; ISBN no ISBN printed
+- PDF pages: 64 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 11 placements — 11 to existing lessons, 0 NEW LESSON NEEDED
+- Iraq's own way: History enters inside a combined Social Studies book (2 Geography chapters pp.5–33, 2 History chapters pp.34–47, 2 Civics chapters — School pp.48–54, Homeland pp.55–63, named here, not placed); it starts from the child's own yesterday/week/month/year and only then reaches ancient Iraq.
+- Combined parts named, not placed: Geography — Ch.1 The Local Environment (printed pp.5–23), Ch.2 Geographical Environments (pp.24–33); Civics — Ch.5 The School (pp.48–54), Ch.6 The Homeland (pp.55–63)
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/iraq-placements.md.
+
+Non-History parts (named, not placed): Geography — Ch.1 The Local Environment (printed pp.5–23), Ch.2 Geographical Environments (pp.24–33); Civics — Ch.5 The School (pp.48–54), Ch.6 The Homeland (pp.55–63) — named in the placements file, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iraq part — Historical concepts: yesterday, last week, last month, last year; Gregorian (solar) and Hijri (lunar) months — story beats: a boy is asked what he did yesterday, and the class counts back through his week, month and year to learn how the past is measured (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Iraq, *الاجتماعيات للصف الرابع الابتدائي (Social Studies for the Fourth Primary Grade)*, printed p. 34 |
+
+Iraq's own way (Book 1 — iq-g04 Social Studies (student book, Arabic)): History enters inside a combined Social Studies book (2 Geography chapters pp.5–33, 2 History chapters pp.34–47, 2 Civics chapters — School pp.48–54, Homeland pp.55–63, named here, not placed); it starts from the child's own yesterday/week/month/year and only then reaches ancient Iraq. That way is stocked here as the way Iraq teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 32 countries (Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq).**
+
+Searchable tags: Iraq, History expansion 2026-11-15, first-steps/dating-the-past

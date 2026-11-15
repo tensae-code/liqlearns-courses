@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — Mesopotamia
 
-countries: Ethiopia, Poland, Turkey, Bangladesh, Costa Rica, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Iran, Cambodia, Palestine, Colombia, Mauritania, Libya, Sri Lanka, Mongolia
+countries: Ethiopia, Poland, Turkey, Bangladesh, Costa Rica, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Iran, Cambodia, Palestine, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -483,3 +483,115 @@ Mongolia's own way (Book 2 — mn-g6h Түүх VI (History VI)): the child's fir
 **Acceptance count: taught in 20 countries (Ethiopia, Poland, Turkey, Bangladesh, Costa Rica, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Iran, Cambodia, Palestine, Colombia, Mauritania, Libya, Sri Lanka, Mongolia).**
 
 Searchable tags: Mongolia, History expansion 2026-11-15, ancient-world/ancient-civilisations-mesopotamia
+
+## History expansion (2026-11-15) — Iraq stocked
+
+**Book 1 — iq-g04 Social Studies (student book, Arabic)**
+- Title as printed: الاجتماعيات للصف الرابع الابتدائي (Social Studies for the Fourth Primary Grade)
+- Grade: Grade 4 (student/teacher: STUDENT)
+- Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 2023 (1445H), 13th edition; ISBN no ISBN printed
+- PDF pages: 64 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 11 placements — 11 to existing lessons, 0 NEW LESSON NEEDED
+- Iraq's own way: History enters inside a combined Social Studies book (2 Geography chapters pp.5–33, 2 History chapters pp.34–47, 2 Civics chapters — School pp.48–54, Homeland pp.55–63, named here, not placed); it starts from the child's own yesterday/week/month/year and only then reaches ancient Iraq.
+- Combined parts named, not placed: Geography — Ch.1 The Local Environment (printed pp.5–23), Ch.2 Geographical Environments (pp.24–33); Civics — Ch.5 The School (pp.48–54), Ch.6 The Homeland (pp.55–63)
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/iraq-placements.md.
+
+Non-History parts (named, not placed): Geography — Ch.1 The Local Environment (printed pp.5–23), Ch.2 Geographical Environments (pp.24–33); Civics — Ch.5 The School (pp.48–54), Ch.6 The Homeland (pp.55–63) — named in the placements file, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iraq part — Iraq's old cities: Ur and Hatra — story beats: Ur rises in the south in the 3rd millennium BC, remembered as Abraham's birthplace, its ziggurat still standing; Hatra, city of the sun south-west of Mosul, keeps its temples and statues (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-mesopotamia) | Iraq, *الاجتماعيات للصف الرابع الابتدائي (Social Studies for the Fourth Primary Grade)*, printed p. 39 |
+| Iraq part — Iraq, land of civilisations: the Sumerians — story beats: in the south, Sumer invents cuneiform writing, raises ziggurats above the flood plain and writes laws to protect people's rights (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-mesopotamia) | Iraq, *الاجتماعيات للصف الرابع الابتدائي (Social Studies for the Fourth Primary Grade)*, printed p. 43 |
+| Iraq part — The Babylonian civilisation and Hammurabi — story beats: Hammurabi of Babylon carves his many laws on his famous stele, guaranteeing property, court access and freedom of movement; Babylon builds temples, hanging gardens and excels in astronomy and maths (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-mesopotamia) | Iraq, *الاجتماعيات للصف الرابع الابتدائي (Social Studies for the Fourth Primary Grade)*, printed p. 44 |
+| Iraq part — The Assyrian civilisation — story beats: Assyria in the north, named for the god Ashur, imposes law, builds a strong central state and army, and leaves Nineveh's walls and winged bulls (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-mesopotamia) | Iraq, *الاجتماعيات للصف الرابع الابتدائي (Social Studies for the Fourth Primary Grade)*, printed p. 46 |
+
+Iraq's own way (Book 1 — iq-g04 Social Studies (student book, Arabic)): History enters inside a combined Social Studies book (2 Geography chapters pp.5–33, 2 History chapters pp.34–47, 2 Civics chapters — School pp.48–54, Homeland pp.55–63, named here, not placed); it starts from the child's own yesterday/week/month/year and only then reaches ancient Iraq. That way is stocked here as the way Iraq teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 2 — iq-g05 Social Studies (student book, Arabic)**
+- Title as printed: الاجتماعيات للصف الخامس الابتدائي (Social Studies for the Fifth Primary Grade)
+- Grade: Grade 5 (student/teacher: STUDENT)
+- Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 2023 (1445H), 10th edition; ISBN no ISBN printed
+- PDF pages: 104 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 14 placements — 10 to existing lessons, 4 NEW LESSON NEEDED
+- Iraq's own way: Unit 2 "Our History… Our Civilisation… Our Identity" (printed pp.41–79) teaches History as national identity in three chapters — ancient gifts, Iraq as seat of the caliphate, Iraq as home of scholars; Geography Unit 1 (pp.5–40) and Civics Unit 3 "National and Social Education" (pp.81–101) are named here, not placed.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/iraq-placements.md.
+
+Non-History parts (named, not placed): Geography Unit 1 (printed pp.5–40); Civics Unit 3 "National and Social Education" (pp.81–101) — named in the placements file, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iraq part — Mesopotamia, our homeland: the land's many names — story beats: Iraq is Babylon, the land between the two rivers and the Sawad; Sumer names the south, Akkad the centre, Assyria the north, and the Tigris and Euphrates are called the gift that drew the first farmers (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-mesopotamia) | Iraq, *الاجتماعيات للصف الخامس الابتدائي (Social Studies for the Fifth Primary Grade)*, printed p. 42 |
+| Iraq part — Iraq, cradle of laws and legislation: Hammurabi — story beats: King Hammurabi carves 282 laws on black stone, standing humbly before Shamash the sun god, to spread justice, stop the strong oppressing the weak and punish thieves thirty-fold (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-mesopotamia) | Iraq, *الاجتماعيات للصف الخامس الابتدائي (Social Studies for the Fifth Primary Grade)*, printed p. 47 |
+
+Iraq's own way (Book 2 — iq-g05 Social Studies (student book, Arabic)): Unit 2 "Our History… Our Civilisation… Our Identity" (printed pp.41–79) teaches History as national identity in three chapters — ancient gifts, Iraq as seat of the caliphate, Iraq as home of scholars; Geography Unit 1 (pp.5–40) and Civics Unit 3 "National and Social Education" (pp.81–101) are named here, not placed. That way is stocked here as the way Iraq teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 3 — iq-g06 Social Studies (student book, Arabic)**
+- Title as printed: الاجتماعيات للصف السادس الابتدائي (Social Studies for the Sixth Primary Grade)
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 2023 (1445H), 7th edition; ISBN no ISBN printed
+- PDF pages: 116 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 19 placements — 18 to existing lessons, 1 NEW LESSON NEEDED
+- Iraq's own way: Unit 1 "Our Homeland's Governorates, Geographically and Historically" (printed pp.4–98) walks all 18 governorates one by one, each chapter ending in a "historical sketch" of that governorate — History taught as the child's own province first. Unit 2 "Our Iraqi Society" (pp.99–114) is Civics, named here, not placed.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/iraq-placements.md.
+
+Non-History parts (named, not placed): Unit 2 "Our Iraqi Society" (Civics, printed pp.99–114) — named in the placements file, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iraq part — Map of the oldest civilisations in Iraq (unit introduction) — story beats: before the tour begins, a map pins Iraq's oldest civilisations to the land the pupils are about to cross province by province (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-mesopotamia) | Iraq, *الاجتماعيات للصف السادس الابتدائي (Social Studies for the Sixth Primary Grade)*, printed p. 9 |
+| Iraq part — Historical sketch: Erbil governorate — story beats: Erbil Citadel, inhabited for millennia and still standing over the modern city, heads a province full of remains that have survived to today (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-mesopotamia) | Iraq, *الاجتماعيات للصف السادس الابتدائي (Social Studies for the Sixth Primary Grade)*, printed p. 19 |
+| Iraq part — Historical sketch: Nineveh governorate — story beats: Mosul, a great civilisational centre facing ancient Nineveh across the Tigris, keeps its Great Mosque and leaning minaret as its historical landmarks (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-mesopotamia) | Iraq, *الاجتماعيات للصف السادس الابتدائي (Social Studies for the Sixth Primary Grade)*, printed p. 30 |
+| Iraq part — Historical sketch: Kirkuk governorate — story beats: Kirkuk's citadel and old quarters carry the province's long Assyrian-to-Islamic past into the present city (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-mesopotamia) | Iraq, *الاجتماعيات للصف السادس الابتدائي (Social Studies for the Sixth Primary Grade)*, printed p. 36 |
+| Iraq part — Historical sketch: Salah al-Din governorate — story beats: Tell al-Sawwan, settled in the 6th millennium BC before history was written, opens a province that later holds Assyrian, Roman and Islamic cities and Tikrit (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-mesopotamia) | Iraq, *الاجتماعيات للصف السادس الابتدائي (Social Studies for the Sixth Primary Grade)*, printed p. 40 |
+| Iraq part — Historical sketch: Diyala governorate — story beats: Diyala's people farm from the Ubaid age, some 6,000 years BC, and its old cities leave temples and palaces such as Tell Asmar (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-mesopotamia) | Iraq, *الاجتماعيات للصف السادس الابتدائي (Social Studies for the Sixth Primary Grade)*, printed p. 46 |
+| Iraq part — Historical sketch: Babylon governorate — story beats: Babylon city and Kish anchor a province whose kings and monuments the pupil is asked to picture on a wall chart (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-mesopotamia) | Iraq, *الاجتماعيات للصف السادس الابتدائي (Social Studies for the Sixth Primary Grade)*, printed p. 65 |
+| Iraq part — Historical sketch: al-Diwaniyah (al-Qadisiyah) governorate — story beats: Nippur (Nuffar), a Sumerian-Akkadian holy city and political hub of early Babylonian times around 2000 BC, yields thousands of clay tablets to the excavators (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-mesopotamia) | Iraq, *الاجتماعيات للصف السادس الابتدائي (Social Studies for the Sixth Primary Grade)*, printed p. 74 |
+| Iraq part — Historical sketch: Dhi Qar governorate — story beats: Ur of the Chaldees, King Shulgi's palace and the ziggurat of Ur-Nammu, founder of Ur's Third Dynasty four thousand years ago, make Dhi Qar Sumer's home province (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-mesopotamia) | Iraq, *الاجتماعيات للصف السادس الابتدائي (Social Studies for the Sixth Primary Grade)*, printed p. 87 |
+| Iraq part — Historical sketch: al-Muthanna governorate — story beats: Uruk (Warka) and its ziggurat are set as map-work: the pupil plots the province's historic cities on a blank map of Iraq (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-mesopotamia) | Iraq, *الاجتماعيات للصف السادس الابتدائي (Social Studies for the Sixth Primary Grade)*, printed p. 91 |
+
+Iraq's own way (Book 3 — iq-g06 Social Studies (student book, Arabic)): Unit 1 "Our Homeland's Governorates, Geographically and Historically" (printed pp.4–98) walks all 18 governorates one by one, each chapter ending in a "historical sketch" of that governorate — History taught as the child's own province first. Unit 2 "Our Iraqi Society" (pp.99–114) is Civics, named here, not placed. That way is stocked here as the way Iraq teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 4 — iq-g07 Social Studies (student book, Arabic)**
+- Title as printed: الاجتماعيات للصف الأول المتوسط (Social Studies for the First Intermediate Grade)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 2023 (1445H), 5th edition; ISBN no ISBN printed
+- PDF pages: 132 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 31 placements — 24 to existing lessons, 7 NEW LESSON NEEDED
+- Iraq's own way: From Grade 7 the combined book becomes a straight ancient-history course in two parts: Mesopotamia first and longest, then the Nile, then pre-Islamic Arabia's kingdoms in detail, then the neighbouring Persians, Greeks and Romans — Iraq's past as the centre the neighbours are measured against.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iraq part — Ch.2 Mesopotamia: land and the conditions that raised it — story beats: mountains, wavy uplands, the flat alluvial plain and the western plateau are walked in turn, with fertile soil and river channels explaining the first farming villages (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-mesopotamia) | Iraq, *الاجتماعيات للصف الأول المتوسط (Social Studies for the First Intermediate Grade)*, printed p. 16 |
+| Iraq part — The Sumerians — story beats: the south's oldest people found villages and cities and lay the foundation of civilisation in the land called Sumer (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-mesopotamia) | Iraq, *الاجتماعيات للصف الأول المتوسط (Social Studies for the First Intermediate Grade)*, printed p. 26 |
+| Iraq part — The Akkadians: Sargon founds the first empire — story beats: Sargon of Akkad (2371–2316 BC) conquers the city-states and builds the ancient world's first empire, lasting a century and a half (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-mesopotamia) | Iraq, *الاجتماعيات للصف الأول المتوسط (Social Studies for the First Intermediate Grade)*, printed p. 28 |
+| Iraq part — The Old Babylonian age and Hammurabi's peak — story beats: the land falls back into city-states, then Hammurabi raises Babylonian civilisation to its height; after his death foreigners press in and the Assyrians rise in the north (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-mesopotamia) | Iraq, *الاجتماعيات للصف الأول المتوسط (Social Studies for the First Intermediate Grade)*, printed p. 29 |
+| Iraq part — Political and social life in Mesopotamia — story beats: city-states give way to unified rule; classes from king to slaves live under customs that harden into written law, and cotton — "tree wool" — joins the crops (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-mesopotamia) | Iraq, *الاجتماعيات للصف الأول المتوسط (Social Studies for the First Intermediate Grade)*, printed p. 31 |
+| Iraq part — The laws: the oldest written codes — story beats: Ur-Nammu, Lipit-Ishtar and Hammurabi put law on stone, the feature the book says puts Iraq's civilisation first in the ancient world (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-mesopotamia) | Iraq, *الاجتماعيات للصف الأول المتوسط (Social Studies for the First Intermediate Grade)*, printed p. 37 |
+| Iraq part — Enrichment: Hammurabi's code read closely — story beats: on a 2.25-metre stele the code orders death for the caught thief and protects widows and minors' property through the judge (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-mesopotamia) | Iraq, *الاجتماعيات للصف الأول المتوسط (Social Studies for the First Intermediate Grade)*, printed p. 44 |
+
+Iraq's own way (Book 4 — iq-g07 Social Studies (student book, Arabic)): From Grade 7 the combined book becomes a straight ancient-history course in two parts: Mesopotamia first and longest, then the Nile, then pre-Islamic Arabia's kingdoms in detail, then the neighbouring Persians, Greeks and Romans — Iraq's past as the centre the neighbours are measured against. That way is stocked here as the way Iraq teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 7 — iq-g10 History of Arab-Islamic Civilisation (student book, Arabic)**
+- Title as printed: تاريخ الحضارة العربية الإسلامية للصف الرابع الأدبي (History of Arab-Islamic Civilisation, Fourth Literary Grade)
+- Grade: Grade 10 (student/teacher: STUDENT)
+- Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 2023 (1445H), 6th edition; ISBN no ISBN printed
+- PDF pages: 180 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 12 placements — 5 to existing lessons, 7 NEW LESSON NEEDED
+- Iraq's own way: The literary track's first History book is not events but a civilisation studied as a system — concept, administration, courts, economy, cities, scholarship — and how it met, taught and finally fell behind the wider world.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iraq part — Ch.1 The civilisations before: Mesopotamia, Egypt, the Levant and others — story beats: a survey runs from Mesopotamia and Egypt through the Levant to the Arabs before Islam, setting the stage the new civilisation inherits (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-mesopotamia) | Iraq, *تاريخ الحضارة العربية الإسلامية للصف الرابع الأدبي (History of Arab-Islamic Civilisation, Fourth Literary Grade)*, printed p. 5 |
+
+Iraq's own way (Book 7 — iq-g10 History of Arab-Islamic Civilisation (student book, Arabic)): The literary track's first History book is not events but a civilisation studied as a system — concept, administration, courts, economy, cities, scholarship — and how it met, taught and finally fell behind the wider world. That way is stocked here as the way Iraq teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 21 countries (Ethiopia, Poland, Turkey, Bangladesh, Costa Rica, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Iran, Cambodia, Palestine, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq).**
+
+Searchable tags: Iraq, History expansion 2026-11-15, ancient-world/ancient-civilisations-mesopotamia

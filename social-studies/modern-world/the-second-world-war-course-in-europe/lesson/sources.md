@@ -1,6 +1,6 @@
 # Sources — The Second World War — course in Europe
 
-countries: Ethiopia, United States, Turkey, Australia, Kuwait, Montenegro, Finland, Dominican Republic, Pakistan, Bolivia, Iran, Cambodia, Mauritania, South Sudan
+countries: Ethiopia, United States, Turkey, Australia, Kuwait, Montenegro, Finland, Dominican Republic, Pakistan, Bolivia, Iran, Cambodia, Mauritania, South Sudan, Iraq
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 137).
 
@@ -291,3 +291,25 @@ Mauritania's own way (mr-g12 — History, 6th year of secondary education (stude
 South Sudan's own way (Book 19 — S2 History Student's Book (student book, English)): World history (French Revolution to Cold War) is the frame, but the centre of the book is a source-based Unit 4 on South Sudan's own 20th century — condominium separation policy, Juba 1947, Anya-Nya, Addis Ababa and the SPLM/A, told with named southern actors like Clement Mboro, Joseph Lagu, Akuot Atem and John Garang. That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 14 countries (Ethiopia, United States, Turkey, Australia, Kuwait, Montenegro, Finland, Dominican Republic, Pakistan, Bolivia, Iran, Cambodia, Mauritania, South Sudan).**
+
+## History expansion (2026-11-15) — Iraq stocked
+
+**Book 8 — iq-g11 History of Europe and America, Modern and Contemporary (student book, Arabic)**
+- Title as printed: تأريخ أوربا وأمريكا الحديث والمعاصر للصف الخامس الأدبي (Modern and Contemporary History of Europe and America, Fifth Literary Grade)
+- Grade: Grade 11 (student/teacher: STUDENT)
+- Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 2023 (1445H), 13th edition; ISBN no ISBN printed
+- PDF pages: 112 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 28 placements — 21 to existing lessons, 7 NEW LESSON NEEDED
+- Iraq's own way: A straight political narrative of the West from 1789 to 1945, told from outside it — revolutions, unifications, world wars — with the thinkers given first, before the crowds move.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iraq part — The Second World War in Europe 1939–1945 — story beats: the European war runs its course from invasion to the Axis collapse (History expansion, 2026-11-15; original placement slug: modern-world/the-second-world-war-course-in-europe) | Iraq, *تأريخ أوربا وأمريكا الحديث والمعاصر للصف الخامس الأدبي (Modern and Contemporary History of Europe and America, Fifth Literary Grade)*, printed p. 102 |
+
+Iraq's own way (Book 8 — iq-g11 History of Europe and America, Modern and Contemporary (student book, Arabic)): A straight political narrative of the West from 1789 to 1945, told from outside it — revolutions, unifications, world wars — with the thinkers given first, before the crowds move. That way is stocked here as the way Iraq teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 15 countries (Ethiopia, United States, Turkey, Australia, Kuwait, Montenegro, Finland, Dominican Republic, Pakistan, Bolivia, Iran, Cambodia, Mauritania, South Sudan, Iraq).**
+
+Searchable tags: Iraq, History expansion 2026-11-15, modern-world/the-second-world-war-course-in-europe

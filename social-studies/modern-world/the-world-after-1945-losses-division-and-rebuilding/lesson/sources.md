@@ -1,6 +1,6 @@
 # Sources — The world after 1945 — losses, division and rebuilding
 
-countries: Ethiopia, Kuwait, Montenegro, Pakistan, Iran, Cambodia, Colombia, South Sudan, Libya
+countries: Ethiopia, Kuwait, Montenegro, Pakistan, Iran, Cambodia, Colombia, South Sudan, Libya, Iraq
 
 **Book 1:** *History, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-067-3. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g12-student-placements.md
 
@@ -261,3 +261,25 @@ This book is a teacher guide. The Papua New Guinea rows below stand on it as tea
 Papua New Guinea's own way (Book 11 — G12 History TG SBC (teacher guide, English)): Grade 12 turns the 7-unit architecture into critical history — sources and how religions spread, why empires fell, Christianity's reshaping of cultures, the UN and the SDGs judged, PNG's own constitutional National Goals, exploitation of Papua New Guineans, the disasters that remade PNG towns (Rabaul 1994), and a final inquiry unit on media, ideology and the powerful individuals — Gaddafi the worked example — who bend societies. That way is stocked here as the way Papua New Guinea teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 9 countries (Ethiopia, Kuwait, Montenegro, Pakistan, Iran, Cambodia, Colombia, South Sudan, Libya) — unchanged; the Papua New Guinea placement(s) above are teacher-guide evidence only, counted nowhere. Papua New Guinea is not added to this lesson's countries line.**
+
+## History expansion (2026-11-15) — Iraq stocked
+
+**Book 8 — iq-g11 History of Europe and America, Modern and Contemporary (student book, Arabic)**
+- Title as printed: تأريخ أوربا وأمريكا الحديث والمعاصر للصف الخامس الأدبي (Modern and Contemporary History of Europe and America, Fifth Literary Grade)
+- Grade: Grade 11 (student/teacher: STUDENT)
+- Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 2023 (1445H), 13th edition; ISBN no ISBN printed
+- PDF pages: 112 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 28 placements — 21 to existing lessons, 7 NEW LESSON NEEDED
+- Iraq's own way: A straight political narrative of the West from 1789 to 1945, told from outside it — revolutions, unifications, world wars — with the thinkers given first, before the crowds move.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iraq part — The world after 1945 — story beats: the book ends on the divided, rebuilding world the pupils' own century inherits (History expansion, 2026-11-15; original placement slug: modern-world/the-world-after-1945-losses-division-and-rebuilding) | Iraq, *تأريخ أوربا وأمريكا الحديث والمعاصر للصف الخامس الأدبي (Modern and Contemporary History of Europe and America, Fifth Literary Grade)*, printed p. 107 |
+
+Iraq's own way (Book 8 — iq-g11 History of Europe and America, Modern and Contemporary (student book, Arabic)): A straight political narrative of the West from 1789 to 1945, told from outside it — revolutions, unifications, world wars — with the thinkers given first, before the crowds move. That way is stocked here as the way Iraq teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 10 countries (Ethiopia, Kuwait, Montenegro, Pakistan, Iran, Cambodia, Colombia, South Sudan, Libya, Iraq).**
+
+Searchable tags: Iraq, History expansion 2026-11-15, modern-world/the-world-after-1945-losses-division-and-rebuilding

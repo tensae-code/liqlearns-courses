@@ -1,6 +1,6 @@
 # Sources — Find history in your own locality
 
-countries: Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala, Malaysia, Ecuador, Bahamas, Eritrea, Nepal, Belarus, Fiji, Indonesia, Finland, Egypt, Syria, Suriname, Colombia, South Sudan, Samoa
+countries: Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala, Malaysia, Ecuador, Bahamas, Eritrea, Nepal, Belarus, Fiji, Indonesia, Finland, Egypt, Syria, Suriname, Colombia, South Sudan, Samoa, Iraq
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -825,3 +825,46 @@ Samoa's own way (Book 9 — y11-book-2 (Social Studies, Year 11 Book Two)): Neig
 **Acceptance count: taught in 21 countries (Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala, Malaysia, Ecuador, Bahamas, Eritrea, Nepal, Belarus, Fiji, Indonesia, Finland, Egypt, Syria, Suriname, Colombia, South Sudan, Samoa).**
 
 Searchable tags: Samoa, History expansion 2026-11-15, first-steps/find-history-in-your-own-locality
+
+## History expansion (2026-11-15) — Iraq stocked
+
+**Book 1 — iq-g04 Social Studies (student book, Arabic)**
+- Title as printed: الاجتماعيات للصف الرابع الابتدائي (Social Studies for the Fourth Primary Grade)
+- Grade: Grade 4 (student/teacher: STUDENT)
+- Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 2023 (1445H), 13th edition; ISBN no ISBN printed
+- PDF pages: 64 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 11 placements — 11 to existing lessons, 0 NEW LESSON NEEDED
+- Iraq's own way: History enters inside a combined Social Studies book (2 Geography chapters pp.5–33, 2 History chapters pp.34–47, 2 Civics chapters — School pp.48–54, Homeland pp.55–63, named here, not placed); it starts from the child's own yesterday/week/month/year and only then reaches ancient Iraq.
+- Combined parts named, not placed: Geography — Ch.1 The Local Environment (printed pp.5–23), Ch.2 Geographical Environments (pp.24–33); Civics — Ch.5 The School (pp.48–54), Ch.6 The Homeland (pp.55–63)
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/iraq-placements.md.
+
+Non-History parts (named, not placed): Geography — Ch.1 The Local Environment (printed pp.5–23), Ch.2 Geographical Environments (pp.24–33); Civics — Ch.5 The School (pp.48–54), Ch.6 The Homeland (pp.55–63) — named in the placements file, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iraq part — Activity: collect pictures of historical remains and name them — story beats: the pupil becomes the historian, gathering photographs of antiquities and labelling each one in a personal notebook (History expansion, 2026-11-15; original placement slug: first-steps/find-history-in-your-own-locality) | Iraq, *الاجتماعيات للصف الرابع الابتدائي (Social Studies for the Fourth Primary Grade)*, printed p. 46 |
+
+Iraq's own way (Book 1 — iq-g04 Social Studies (student book, Arabic)): History enters inside a combined Social Studies book (2 Geography chapters pp.5–33, 2 History chapters pp.34–47, 2 Civics chapters — School pp.48–54, Homeland pp.55–63, named here, not placed); it starts from the child's own yesterday/week/month/year and only then reaches ancient Iraq. That way is stocked here as the way Iraq teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 3 — iq-g06 Social Studies (student book, Arabic)**
+- Title as printed: الاجتماعيات للصف السادس الابتدائي (Social Studies for the Sixth Primary Grade)
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 2023 (1445H), 7th edition; ISBN no ISBN printed
+- PDF pages: 116 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 19 placements — 18 to existing lessons, 1 NEW LESSON NEEDED
+- Iraq's own way: Unit 1 "Our Homeland's Governorates, Geographically and Historically" (printed pp.4–98) walks all 18 governorates one by one, each chapter ending in a "historical sketch" of that governorate — History taught as the child's own province first. Unit 2 "Our Iraqi Society" (pp.99–114) is Civics, named here, not placed.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/iraq-placements.md.
+
+Non-History parts (named, not placed): Unit 2 "Our Iraqi Society" (Civics, printed pp.99–114) — named in the placements file, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iraq part — Historical sketch: Duhok governorate — story beats: mountain Duhok's old towns and citadels are set before the pupil as the landmarks of home to be found and recorded (History expansion, 2026-11-15; original placement slug: first-steps/find-history-in-your-own-locality) | Iraq, *الاجتماعيات للصف السادس الابتدائي (Social Studies for the Sixth Primary Grade)*, printed p. 13 |
+
+Iraq's own way (Book 3 — iq-g06 Social Studies (student book, Arabic)): Unit 1 "Our Homeland's Governorates, Geographically and Historically" (printed pp.4–98) walks all 18 governorates one by one, each chapter ending in a "historical sketch" of that governorate — History taught as the child's own province first. Unit 2 "Our Iraqi Society" (pp.99–114) is Civics, named here, not placed. That way is stocked here as the way Iraq teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 22 countries (Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala, Malaysia, Ecuador, Bahamas, Eritrea, Nepal, Belarus, Fiji, Indonesia, Finland, Egypt, Syria, Suriname, Colombia, South Sudan, Samoa, Iraq).**
+
+Searchable tags: Iraq, History expansion 2026-11-15, first-steps/find-history-in-your-own-locality

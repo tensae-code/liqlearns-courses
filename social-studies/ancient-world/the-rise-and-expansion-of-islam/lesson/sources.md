@@ -1,6 +1,6 @@
 # Sources — The rise and expansion of Islam
 
-countries: Ethiopia, Saudi Arabia, Gambia, Turkey, Costa Rica, Malaysia, Ecuador, Kuwait, India, Montenegro, Egypt, Pakistan, Syria, Iran, Bulgaria, Palestine, Colombia, Mauritania, Libya, Sri Lanka, Mongolia
+countries: Ethiopia, Saudi Arabia, Gambia, Turkey, Costa Rica, Malaysia, Ecuador, Kuwait, India, Montenegro, Egypt, Pakistan, Syria, Iran, Bulgaria, Palestine, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under GEQIP-E, ISBN 978-99990-0-066-6. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -610,3 +610,123 @@ Mongolia's own way (Book 3 — mn-g7h Түүх VII (History VII)): the medieval 
 **Acceptance count: taught in 21 countries (Ethiopia, Saudi Arabia, Gambia, Turkey, Costa Rica, Malaysia, Ecuador, Kuwait, India, Montenegro, Egypt, Pakistan, Syria, Iran, Bulgaria, Palestine, Colombia, Mauritania, Libya, Sri Lanka, Mongolia).**
 
 Searchable tags: Mongolia, History expansion 2026-11-15, ancient-world/the-rise-and-expansion-of-islam
+
+## History expansion (2026-11-15) — Iraq stocked
+
+**Book 1 — iq-g04 Social Studies (student book, Arabic)**
+- Title as printed: الاجتماعيات للصف الرابع الابتدائي (Social Studies for the Fourth Primary Grade)
+- Grade: Grade 4 (student/teacher: STUDENT)
+- Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 2023 (1445H), 13th edition; ISBN no ISBN printed
+- PDF pages: 64 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 11 placements — 11 to existing lessons, 0 NEW LESSON NEEDED
+- Iraq's own way: History enters inside a combined Social Studies book (2 Geography chapters pp.5–33, 2 History chapters pp.34–47, 2 Civics chapters — School pp.48–54, Homeland pp.55–63, named here, not placed); it starts from the child's own yesterday/week/month/year and only then reaches ancient Iraq.
+- Combined parts named, not placed: Geography — Ch.1 The Local Environment (printed pp.5–23), Ch.2 Geographical Environments (pp.24–33); Civics — Ch.5 The School (pp.48–54), Ch.6 The Homeland (pp.55–63)
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/iraq-placements.md.
+
+Non-History parts (named, not placed): Geography — Ch.1 The Local Environment (printed pp.5–23), Ch.2 Geographical Environments (pp.24–33); Civics — Ch.5 The School (pp.48–54), Ch.6 The Homeland (pp.55–63) — named in the placements file, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iraq part — Islamic cities: Basra founded — story beats: Utba ibn Ghazwan founds Basra in 14 AH as an administrative and military base for the eastern conquests; it becomes Iraq's only seaport at the head of the Gulf (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Iraq, *الاجتماعيات للصف الرابع الابتدائي (Social Studies for the Fourth Primary Grade)*, printed p. 40 |
+| Iraq part — Islamic cities: Kufa becomes a capital — story beats: old Kufa beside al-Hira becomes the seat of the fourth caliph Ali ibn Abi Talib in 36 AH and stays a major religious centre (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Iraq, *الاجتماعيات للصف الرابع الابتدائي (Social Studies for the Fourth Primary Grade)*, printed p. 41 |
+| Iraq part — Islamic cities: Baghdad, the Round City — story beats: the Abbasid caliph Abu Jaafar al-Mansur builds round Baghdad, City of Peace, on the Tigris in 145 AH and makes it the Abbasid capital (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Iraq, *الاجتماعيات للصف الرابع الابتدائي (Social Studies for the Fourth Primary Grade)*, printed p. 42 |
+
+Iraq's own way (Book 1 — iq-g04 Social Studies (student book, Arabic)): History enters inside a combined Social Studies book (2 Geography chapters pp.5–33, 2 History chapters pp.34–47, 2 Civics chapters — School pp.48–54, Homeland pp.55–63, named here, not placed); it starts from the child's own yesterday/week/month/year and only then reaches ancient Iraq. That way is stocked here as the way Iraq teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 2 — iq-g05 Social Studies (student book, Arabic)**
+- Title as printed: الاجتماعيات للصف الخامس الابتدائي (Social Studies for the Fifth Primary Grade)
+- Grade: Grade 5 (student/teacher: STUDENT)
+- Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 2023 (1445H), 10th edition; ISBN no ISBN printed
+- PDF pages: 104 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 14 placements — 10 to existing lessons, 4 NEW LESSON NEEDED
+- Iraq's own way: Unit 2 "Our History… Our Civilisation… Our Identity" (printed pp.41–79) teaches History as national identity in three chapters — ancient gifts, Iraq as seat of the caliphate, Iraq as home of scholars; Geography Unit 1 (pp.5–40) and Civics Unit 3 "National and Social Education" (pp.81–101) are named here, not placed.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/iraq-placements.md.
+
+Non-History parts (named, not placed): Geography Unit 1 (printed pp.5–40); Civics Unit 3 "National and Social Education" (pp.81–101) — named in the placements file, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iraq part — Enrichment from our history: Imam Ali's covenant on equality — story beats: Ali ibn Abi Talib writes to his governor Malik al-Ashtar that people are either your brother in religion or your equal in creation — a charter the book sets beside the 1948 Universal Declaration (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Iraq, *الاجتماعيات للصف الخامس الابتدائي (Social Studies for the Fifth Primary Grade)*, printed p. 52 |
+| Iraq part — Iraq, seat of the Islamic caliphate: Kufa capital 36–41 AH — story beats: Ali makes Kufa his capital; the city of red sand by the Euphrates, with its great mosque, governs the caliphate for five years (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Iraq, *الاجتماعيات للصف الخامس الابتدائي (Social Studies for the Fifth Primary Grade)*, printed p. 54 |
+| Iraq part — Baghdad, seat of the Abbasid caliphate: the Round City — story beats: al-Mansur begins round Baghdad in 145 AH on the Tigris's west bank, ringed by two walls and four gates, finished with palace, mosque and treasury by 149 AH (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Iraq, *الاجتماعيات للصف الخامس الابتدائي (Social Studies for the Fifth Primary Grade)*, printed p. 56 |
+| Iraq part — Baghdad grows: al-Rusafa, schools and shrines — story beats: Baghdad spills across the river into al-Rusafa with its markets, palaces and the Mustansiriyya school, gathers the shrines of Kadhimiyya and Abu Hanifa, and is chosen Arab Capital of Culture in 2013 (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Iraq, *الاجتماعيات للصف الخامس الابتدائي (Social Studies for the Fifth Primary Grade)*, printed p. 58 |
+| Iraq part — Samarra, another Abbasid capital — story beats: al-Mu'tasim moves the capital to Samarra in 221 AH, builds palaces and the spiral Malwiyya minaret; eight Abbasid caliphs rule from it for some 58 years before the capital returns to Baghdad in 279 AH (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Iraq, *الاجتماعيات للصف الخامس الابتدائي (Social Studies for the Fifth Primary Grade)*, printed p. 60 |
+
+Iraq's own way (Book 2 — iq-g05 Social Studies (student book, Arabic)): Unit 2 "Our History… Our Civilisation… Our Identity" (printed pp.41–79) teaches History as national identity in three chapters — ancient gifts, Iraq as seat of the caliphate, Iraq as home of scholars; Geography Unit 1 (pp.5–40) and Civics Unit 3 "National and Social Education" (pp.81–101) are named here, not placed. That way is stocked here as the way Iraq teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 3 — iq-g06 Social Studies (student book, Arabic)**
+- Title as printed: الاجتماعيات للصف السادس الابتدائي (Social Studies for the Sixth Primary Grade)
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 2023 (1445H), 7th edition; ISBN no ISBN printed
+- PDF pages: 116 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 19 placements — 18 to existing lessons, 1 NEW LESSON NEEDED
+- Iraq's own way: Unit 1 "Our Homeland's Governorates, Geographically and Historically" (printed pp.4–98) walks all 18 governorates one by one, each chapter ending in a "historical sketch" of that governorate — History taught as the child's own province first. Unit 2 "Our Iraqi Society" (pp.99–114) is Civics, named here, not placed.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/iraq-placements.md.
+
+Non-History parts (named, not placed): Unit 2 "Our Iraqi Society" (Civics, printed pp.99–114) — named in the placements file, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iraq part — Historical sketch: Baghdad governorate — story beats: the capital's landmarks — the Abbasid palace world, the Mustansiriyya and the shrines — are listed as the pupil's own inheritance to name and count (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Iraq, *الاجتماعيات للصف السادس الابتدائي (Social Studies for the Sixth Primary Grade)*, printed p. 52 |
+| Iraq part — Historical sketch: Anbar governorate — story beats: the city of Anbar, built in the Sassanian age, gives the province its name; Ana appears already in Babylonian and Assyrian texts (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Iraq, *الاجتماعيات للصف السادس الابتدائي (Social Studies for the Sixth Primary Grade)*, printed p. 57 |
+| Iraq part — Historical sketch: Wasit governorate — story beats: al-Hajjaj's garrison city of Wasit, set midway between Kufa and Basra, rises and is later abandoned, leaving its ruins as the province's name and lesson (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Iraq, *الاجتماعيات للصف السادس الابتدائي (Social Studies for the Sixth Primary Grade)*, printed p. 61 |
+| Iraq part — Historical sketch: Karbala governorate — story beats: at Karbala in 61 AH Husayn ibn Ali and al-Abbas fall in the Battle of al-Taff; their gold-domed shrines make the city, later rebuilt and served by Suleiman the Magnificent's canal under the Ottomans (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Iraq, *الاجتماعيات للصف السادس الابتدائي (Social Studies for the Sixth Primary Grade)*, printed p. 69 |
+| Iraq part — Historical sketch: Najaf governorate — story beats: beside Kufa stand the Lakhmid palaces of al-Sadir and al-Khawarnaq; Najaf's hawza teaches jurisprudence, grammar, history and literature, ringed by churches and shrines (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Iraq, *الاجتماعيات للصف السادس الابتدائي (Social Studies for the Sixth Primary Grade)*, printed p. 78 |
+| Iraq part — Historical sketch: Maysan governorate — story beats: marsh-edge Maysan carries its older Arabic and Islamic past under later Turkish names for its army camps and districts (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Iraq, *الاجتماعيات للصف السادس الابتدائي (Social Studies for the Sixth Primary Grade)*, printed p. 83 |
+| Iraq part — Historical sketch: Basra governorate — story beats: Basra, founded as Islam's first garrison city in Iraq, reaches the height of its civilisational prosperity as port and learning centre (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Iraq, *الاجتماعيات للصف السادس الابتدائي (Social Studies for the Sixth Primary Grade)*, printed p. 95 |
+
+Iraq's own way (Book 3 — iq-g06 Social Studies (student book, Arabic)): Unit 1 "Our Homeland's Governorates, Geographically and Historically" (printed pp.4–98) walks all 18 governorates one by one, each chapter ending in a "historical sketch" of that governorate — History taught as the child's own province first. Unit 2 "Our Iraqi Society" (pp.99–114) is Civics, named here, not placed. That way is stocked here as the way Iraq teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 5 — iq-g08 Social Studies (student book, Arabic)**
+- Title as printed: الاجتماعيات للصف الثاني المتوسط (Social Studies for the Second Intermediate Grade)
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 2023 (1445H), 4th edition; ISBN no ISBN printed
+- PDF pages: 140 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 17 placements — 15 to existing lessons, 2 NEW LESSON NEEDED
+- Iraq's own way: Part 1 (printed pp.4–69) is Arab-world Geography, named here, not placed. Part 2 "History of the Arab World" (pp.70–139) slows right down for the Prophet's biography, teaching the battles as a dated table to be ordered, corrected and completed.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/iraq-placements.md.
+
+Non-History parts (named, not placed): Part 1 (printed pp.4–69) is Arab-world Geography — named in the placements file, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iraq part — Ch.4 Mecca before Islam: the city and the Kaaba — story beats: Mecca, "house of the Lord" in the old Yemeni telling, sits dry and water-poor yet holy, drawing all Arabia to its sanctuary (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Iraq, *الاجتماعيات للصف الثاني المتوسط (Social Studies for the Second Intermediate Grade)*, printed p. 88 |
+| Iraq part — Qusayy ibn Kilab gathers Quraysh — story beats: in the early 5th century Qusayy, the Prophet's fifth ancestor, settles Quraysh in Mecca and takes the city's offices — hijaba, siqaya and rifada — into his house (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Iraq, *الاجتماعيات للصف الثاني المتوسط (Social Studies for the Second Intermediate Grade)*, printed p. 91 |
+| Iraq part — Mecca's standing: Quraysh and the Hajj — story beats: Quraysh guard the Hajj rites so strictly that all the tribes look on them with reverence, and reverence becomes trade and power (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Iraq, *الاجتماعيات للصف الثاني المتوسط (Social Studies for the Second Intermediate Grade)*, printed p. 94 |
+| Iraq part — Ch.5 The Prophet in Mecca: birth and upbringing — story beats: Muhammad is born an orphan in the Year of the Elephant (571 AD), raised after his grandfather's death by his uncle Abu Talib, who makes up a father's tenderness (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Iraq, *الاجتماعيات للصف الثاني المتوسط (Social Studies for the Second Intermediate Grade)*, printed p. 99 |
+| Iraq part — The Black Stone and Hilf al-Fudul — story beats: the young Muhammad settles the clans' quarrel over the Black Stone, and joins the Pact of the Virtuous sworn to take the wronged man's right from his wrongdoer (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Iraq, *الاجتماعيات للصف الثاني المتوسط (Social Studies for the Second Intermediate Grade)*, printed p. 103 |
+| Iraq part — The call: secret then public, and persecution — story beats: commanded to preach openly, Muhammad refuses Quraysh's offers even were the sun put in his right hand and the moon in his left; the believers are mocked as sorcery and soothsaying (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Iraq, *الاجتماعيات للصف الثاني المتوسط (Social Studies for the Second Intermediate Grade)*, printed p. 105 |
+| Iraq part — The Abyssinia migration and the boycott — story beats: persecuted Muslims sail to the Negus, who refuses Quraysh's gift-laden envoys; at home Banu Hashim endure three years' boycott in Abu Talib's ravine (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Iraq, *الاجتماعيات للصف الثاني المتوسط (Social Studies for the Second Intermediate Grade)*, printed p. 109 |
+| Iraq part — Taif, the Aqaba pledges and the Hijra — story beats: rejected at Taif, Muhammad finds Yathrib's Aws and Khazraj at Aqaba; he leaves Mecca with Abu Bakr, hiding from Quraysh's trackers in Mount Thawr (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Iraq, *الاجتماعيات للصف الثاني المتوسط (Social Studies for the Second Intermediate Grade)*, printed p. 111 |
+| Iraq part — Ch.6 The Prophet in Medina: a new society — story beats: Yathrib becomes the City of the Prophet; mosque-building and the brothering of Emigrants and Helpers erase the ranks of colour and lineage (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Iraq, *الاجتماعيات للصف الثاني المتوسط (Social Studies for the Second Intermediate Grade)*, printed p. 118 |
+| Iraq part — Badr, Uhud and the Trench — story beats: Quraysh march with a thousand men to Badr though their caravan escaped; at Uhud victory turns, and at the Trench a confederacy besieges Medina in 5 AH (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Iraq, *الاجتماعيات للصف الثاني المتوسط (Social Studies for the Second Intermediate Grade)*, printed p. 125 |
+| Iraq part — Hudaybiyya and Khaybar — story beats: 1,400 Muslims set out for pilgrimage in 6 AH and accept a truce the book shows was no defeat; Khaybar's fortresses then open (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Iraq, *الاجتماعيات للصف الثاني المتوسط (Social Studies for the Second Intermediate Grade)*, printed p. 129 |
+| Iraq part — Mu'ta, the conquest of Mecca, Hunayn and Tabuk — story beats: at Mu'ta Muslims first face the Romans (8 AH); Mecca is taken the same year, Hunayn follows at once, and Tabuk (9 AH) is the Prophet's last expedition (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Iraq, *الاجتماعيات للصف الثاني المتوسط (Social Studies for the Second Intermediate Grade)*, printed p. 132 |
+| Iraq part — The Farewell Pilgrimage and the Prophet's death — story beats: in 10 AH Muhammad bids the people farewell on pilgrimage; in 11 AH (632 AD) he dies, the message delivered and Islam spread (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Iraq, *الاجتماعيات للصف الثاني المتوسط (Social Studies for the Second Intermediate Grade)*, printed p. 136 |
+
+Iraq's own way (Book 5 — iq-g08 Social Studies (student book, Arabic)): Part 1 (printed pp.4–69) is Arab-world Geography, named here, not placed. Part 2 "History of the Arab World" (pp.70–139) slows right down for the Prophet's biography, teaching the battles as a dated table to be ordered, corrected and completed. That way is stocked here as the way Iraq teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 7 — iq-g10 History of Arab-Islamic Civilisation (student book, Arabic)**
+- Title as printed: تاريخ الحضارة العربية الإسلامية للصف الرابع الأدبي (History of Arab-Islamic Civilisation, Fourth Literary Grade)
+- Grade: Grade 10 (student/teacher: STUDENT)
+- Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 2023 (1445H), 6th edition; ISBN no ISBN printed
+- PDF pages: 180 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 12 placements — 5 to existing lessons, 7 NEW LESSON NEEDED
+- Iraq's own way: The literary track's first History book is not events but a civilisation studied as a system — concept, administration, courts, economy, cities, scholarship — and how it met, taught and finally fell behind the wider world.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iraq part — Ch.6 The garrison cities (amsar) — story beats: Basra, Kufa, Fustat and their sisters are founded as camps and grow into the civilisation's great cities (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Iraq, *تاريخ الحضارة العربية الإسلامية للصف الرابع الأدبي (History of Arab-Islamic Civilisation, Fourth Literary Grade)*, printed p. 88 |
+| Iraq part — Ch.6 Cities beyond the amsar — story beats: older cities that Islam inherited and newer foundations alike are folded into one urban civilisation (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Iraq, *تاريخ الحضارة العربية الإسلامية للصف الرابع الأدبي (History of Arab-Islamic Civilisation, Fourth Literary Grade)*, printed p. 106 |
+
+Iraq's own way (Book 7 — iq-g10 History of Arab-Islamic Civilisation (student book, Arabic)): The literary track's first History book is not events but a civilisation studied as a system — concept, administration, courts, economy, cities, scholarship — and how it met, taught and finally fell behind the wider world. That way is stocked here as the way Iraq teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 22 countries (Ethiopia, Saudi Arabia, Gambia, Turkey, Costa Rica, Malaysia, Ecuador, Kuwait, India, Montenegro, Egypt, Pakistan, Syria, Iran, Bulgaria, Palestine, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq).**
+
+Searchable tags: Iraq, History expansion 2026-11-15, ancient-world/the-rise-and-expansion-of-islam

@@ -1,6 +1,6 @@
 # Sources — What history is
 
-countries: Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia
+countries: Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia, Iraq
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -953,3 +953,60 @@ Mongolia's own way (Book 6 — mn-g11mh Монголын түүх XI (History of
 **Acceptance count: taught in 35 countries (Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia).**
 
 Searchable tags: Mongolia, History expansion 2026-11-15, first-steps/what-history-is
+
+## History expansion (2026-11-15) — Iraq stocked
+
+**Book 1 — iq-g04 Social Studies (student book, Arabic)**
+- Title as printed: الاجتماعيات للصف الرابع الابتدائي (Social Studies for the Fourth Primary Grade)
+- Grade: Grade 4 (student/teacher: STUDENT)
+- Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 2023 (1445H), 13th edition; ISBN no ISBN printed
+- PDF pages: 64 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 11 placements — 11 to existing lessons, 0 NEW LESSON NEEDED
+- Iraq's own way: History enters inside a combined Social Studies book (2 Geography chapters pp.5–33, 2 History chapters pp.34–47, 2 Civics chapters — School pp.48–54, Homeland pp.55–63, named here, not placed); it starts from the child's own yesterday/week/month/year and only then reaches ancient Iraq.
+- Combined parts named, not placed: Geography — Ch.1 The Local Environment (printed pp.5–23), Ch.2 Geographical Environments (pp.24–33); Civics — Ch.5 The School (pp.48–54), Ch.6 The Homeland (pp.55–63)
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/iraq-placements.md.
+
+Non-History parts (named, not placed): Geography — Ch.1 The Local Environment (printed pp.5–23), Ch.2 Geographical Environments (pp.24–33); Civics — Ch.5 The School (pp.48–54), Ch.6 The Homeland (pp.55–63) — named in the placements file, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iraq part — The benefits of studying history; history is the time that has passed us — story beats: pupils learn that knowing why they passed last year teaches them how to succeed this year, and that others' mistakes are lessons not to repeat (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Iraq, *الاجتماعيات للصف الرابع الابتدائي (Social Studies for the Fourth Primary Grade)*, printed p. 38 |
+
+Iraq's own way (Book 1 — iq-g04 Social Studies (student book, Arabic)): History enters inside a combined Social Studies book (2 Geography chapters pp.5–33, 2 History chapters pp.34–47, 2 Civics chapters — School pp.48–54, Homeland pp.55–63, named here, not placed); it starts from the child's own yesterday/week/month/year and only then reaches ancient Iraq. That way is stocked here as the way Iraq teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 4 — iq-g07 Social Studies (student book, Arabic)**
+- Title as printed: الاجتماعيات للصف الأول المتوسط (Social Studies for the First Intermediate Grade)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 2023 (1445H), 5th edition; ISBN no ISBN printed
+- PDF pages: 132 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 31 placements — 24 to existing lessons, 7 NEW LESSON NEEDED
+- Iraq's own way: From Grade 7 the combined book becomes a straight ancient-history course in two parts: Mesopotamia first and longest, then the Nile, then pre-Islamic Arabia's kingdoms in detail, then the neighbouring Persians, Greeks and Romans — Iraq's past as the centre the neighbours are measured against.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iraq part — Ch.1 The rise of ancient civilisations: why study them — story beats: the pupil is told civilisation history recovers humanity's heritage and lets the present learn from past experiments before the story even begins (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Iraq, *الاجتماعيات للصف الأول المتوسط (Social Studies for the First Intermediate Grade)*, printed p. 7 |
+
+Iraq's own way (Book 4 — iq-g07 Social Studies (student book, Arabic)): From Grade 7 the combined book becomes a straight ancient-history course in two parts: Mesopotamia first and longest, then the Nile, then pre-Islamic Arabia's kingdoms in detail, then the neighbouring Persians, Greeks and Romans — Iraq's past as the centre the neighbours are measured against. That way is stocked here as the way Iraq teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 7 — iq-g10 History of Arab-Islamic Civilisation (student book, Arabic)**
+- Title as printed: تاريخ الحضارة العربية الإسلامية للصف الرابع الأدبي (History of Arab-Islamic Civilisation, Fourth Literary Grade)
+- Grade: Grade 10 (student/teacher: STUDENT)
+- Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 2023 (1445H), 6th edition; ISBN no ISBN printed
+- PDF pages: 180 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 12 placements — 5 to existing lessons, 7 NEW LESSON NEEDED
+- Iraq's own way: The literary track's first History book is not events but a civilisation studied as a system — concept, administration, courts, economy, cities, scholarship — and how it met, taught and finally fell behind the wider world.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iraq part — Ch.1 The concept of civilisation, urban life and culture — story beats: before any story, the pupil must separate civilisation from mere city life and culture, the frame for everything that follows (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Iraq, *تاريخ الحضارة العربية الإسلامية للصف الرابع الأدبي (History of Arab-Islamic Civilisation, Fourth Literary Grade)*, printed p. 4 |
+
+Iraq's own way (Book 7 — iq-g10 History of Arab-Islamic Civilisation (student book, Arabic)): The literary track's first History book is not events but a civilisation studied as a system — concept, administration, courts, economy, cities, scholarship — and how it met, taught and finally fell behind the wider world. That way is stocked here as the way Iraq teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 36 countries (Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia, Iraq).**
+
+Searchable tags: Iraq, History expansion 2026-11-15, first-steps/what-history-is

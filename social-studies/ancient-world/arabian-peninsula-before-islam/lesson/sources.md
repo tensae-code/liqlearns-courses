@@ -1,6 +1,6 @@
 # Sources — The Arabian Peninsula before Islam
 
-countries: Saudi Arabia, Turkey, Malaysia, Kuwait, Egypt
+countries: Saudi Arabia, Turkey, Malaysia, Kuwait, Egypt, Iraq
 
 **Book 1:** *الدراسات الاجتماعية — الصف الرابع الابتدائي — غير مجزأ (Social Studies, Grade 4 Primary, unabridged full-year edition)* (student book, Arabic) — Saudi Arabia. Title as printed: الدراسات الاجتماعية — الصف الرابع الابتدائي — غير مجزأ (Social Studies, Grade 4 Primary, unabridged full-year edition). Grade: Grade 4 (student/teacher: STUDENT). Publisher: المركز الوطني للمناهج (National Centre for Curricula), Riyadh; year 1446هـ; ISBN 978-603-8576-98-8. PDF pages: 228 (copyright/title page verified against the record title; text layer read in full). Verdict: COMPLETE. Records: 2 records / 1 distinct book (TSV release record + books.json record for the same repo path, counted once) / grabbed with grab.py url (release asset) into scratch-small-d/, verified by pdfinfo + copyright/title page, text layer read in full, PDF deleted after filing. Note: the record title gives the year as 1448هـ; the printed copyright page of the held copy reads 1446هـ (the 1446 edition, ISBN above). Placements at liqlearns-courses-work/expansion-history-2026-11-15/saudi-arabia-placements.md.
 
@@ -76,3 +76,27 @@ Egypt's own way (Prim6 T1 "The Arab World — a Homeland that Gathers Us", Grade
 Egypt's own way (Sec11 "Egypt and Islamic Civilisation", Grade 11 (Second Secondary) (student/teacher: STUDENT)): Islamic history told with Egypt at its centre — Arabia and the Prophet first, then the conquests, then the long Egyptian story from Amr's conquest through Tulunids, Fatimids, Ayyubids and Mamluks, closing with the civilisation's systems and gifts; the introduction quotes Gustave Le Bon on Europe's debt to Arab civilisation. That way is stocked here as the way Egypt teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 5 countries (Saudi Arabia, Turkey, Malaysia, Kuwait, Egypt).**
+
+## History expansion (2026-11-15) — Iraq stocked
+
+**Book 5 — iq-g08 Social Studies (student book, Arabic)**
+- Title as printed: الاجتماعيات للصف الثاني المتوسط (Social Studies for the Second Intermediate Grade)
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 2023 (1445H), 4th edition; ISBN no ISBN printed
+- PDF pages: 140 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 17 placements — 15 to existing lessons, 2 NEW LESSON NEEDED
+- Iraq's own way: Part 1 (printed pp.4–69) is Arab-world Geography, named here, not placed. Part 2 "History of the Arab World" (pp.70–139) slows right down for the Prophet's biography, teaching the battles as a dated table to be ordered, corrected and completed.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/iraq-placements.md.
+
+Non-History parts (named, not placed): Part 1 (printed pp.4–69) is Arab-world Geography — named in the placements file, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iraq part — Ch.3 Arabia before Islam: tribe, allies and women's place — story beats: the tribe is a state in miniature with its own land and sovereignty; women hold widely differing places from town to desert, and allies join the tribe without its blood (History expansion, 2026-11-15; original placement slug: ancient-world/arabia-before-islam-tribe-and-society) | Iraq, *الاجتماعيات للصف الثاني المتوسط (Social Studies for the Second Intermediate Grade)*, printed p. 71 |
+
+Iraq's own way (Book 5 — iq-g08 Social Studies (student book, Arabic)): Part 1 (printed pp.4–69) is Arab-world Geography, named here, not placed. Part 2 "History of the Arab World" (pp.70–139) slows right down for the Prophet's biography, teaching the battles as a dated table to be ordered, corrected and completed. That way is stocked here as the way Iraq teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 6 countries (Saudi Arabia, Turkey, Malaysia, Kuwait, Egypt, Iraq).**
+
+Searchable tags: Iraq, History expansion 2026-11-15, ancient-world/arabian-peninsula-before-islam

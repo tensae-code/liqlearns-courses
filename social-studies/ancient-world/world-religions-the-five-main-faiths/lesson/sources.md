@@ -1,6 +1,6 @@
 # Sources — World religions — the five main faiths
 
-countries: Ethiopia, Bhutan, Cyprus, India, Colombia, Mauritania, Sri Lanka, Samoa
+countries: Ethiopia, Bhutan, Cyprus, India, Colombia, Mauritania, Sri Lanka, Samoa, Iraq
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 6, placements 92–106).
 
@@ -211,3 +211,27 @@ Samoa's own way (Book 9 — y11-book-2 (Social Studies, Year 11 Book Two)): Neig
 **Acceptance count: taught in 8 countries (Ethiopia, Bhutan, Cyprus, India, Colombia, Mauritania, Sri Lanka, Samoa).**
 
 Searchable tags: Samoa, History expansion 2026-11-15, ancient-world/world-religions-the-five-main-faiths
+
+## History expansion (2026-11-15) — Iraq stocked
+
+**Book 5 — iq-g08 Social Studies (student book, Arabic)**
+- Title as printed: الاجتماعيات للصف الثاني المتوسط (Social Studies for the Second Intermediate Grade)
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 2023 (1445H), 4th edition; ISBN no ISBN printed
+- PDF pages: 140 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 17 placements — 15 to existing lessons, 2 NEW LESSON NEEDED
+- Iraq's own way: Part 1 (printed pp.4–69) is Arab-world Geography, named here, not placed. Part 2 "History of the Arab World" (pp.70–139) slows right down for the Prophet's biography, teaching the battles as a dated table to be ordered, corrected and completed.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/iraq-placements.md.
+
+Non-History parts (named, not placed): Part 1 (printed pp.4–69) is Arab-world Geography — named in the placements file, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iraq part — Arabia's religions before Islam — story beats: Hanifs, Jews and Christians live alongside idol-worship, each tribe keeping its own idol (History expansion, 2026-11-15; original placement slug: ancient-world/world-religions-the-five-main-faiths) | Iraq, *الاجتماعيات للصف الثاني المتوسط (Social Studies for the Second Intermediate Grade)*, printed p. 80 |
+
+Iraq's own way (Book 5 — iq-g08 Social Studies (student book, Arabic)): Part 1 (printed pp.4–69) is Arab-world Geography, named here, not placed. Part 2 "History of the Arab World" (pp.70–139) slows right down for the Prophet's biography, teaching the battles as a dated table to be ordered, corrected and completed. That way is stocked here as the way Iraq teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 9 countries (Ethiopia, Bhutan, Cyprus, India, Colombia, Mauritania, Sri Lanka, Samoa, Iraq).**
+
+Searchable tags: Iraq, History expansion 2026-11-15, ancient-world/world-religions-the-five-main-faiths

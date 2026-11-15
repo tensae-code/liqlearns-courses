@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — Greece: Crete
 
-countries: Ethiopia, France, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro, Dominican Republic, Egypt, Bolivia, Iran, Cambodia, Colombia, Mauritania, Libya, Sri Lanka, Mongolia
+countries: Ethiopia, France, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro, Dominican Republic, Egypt, Bolivia, Iran, Cambodia, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 6, placements 92–106).
 
@@ -429,3 +429,26 @@ Mongolia's own way (Book 2 — mn-g6h Түүх VI (History VI)): the child's fir
 **Acceptance count: taught in 20 countries (Ethiopia, France, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro, Dominican Republic, Egypt, Bolivia, Iran, Cambodia, Colombia, Mauritania, Libya, Sri Lanka, Mongolia).**
 
 Searchable tags: Mongolia, History expansion 2026-11-15, ancient-world/ancient-civilisations-greece-crete
+
+## History expansion (2026-11-15) — Iraq stocked
+
+**Book 4 — iq-g07 Social Studies (student book, Arabic)**
+- Title as printed: الاجتماعيات للصف الأول المتوسط (Social Studies for the First Intermediate Grade)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 2023 (1445H), 5th edition; ISBN no ISBN printed
+- PDF pages: 132 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 31 placements — 24 to existing lessons, 7 NEW LESSON NEEDED
+- Iraq's own way: From Grade 7 the combined book becomes a straight ancient-history course in two parts: Mesopotamia first and longest, then the Nile, then pre-Islamic Arabia's kingdoms in detail, then the neighbouring Persians, Greeks and Romans — Iraq's past as the centre the neighbours are measured against.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iraq part — Greece: land, people and city-states — story beats: Achaeans and Dorians in a mountainous, island-strewn land turn seaward toward Egypt, the Levant and Mesopotamia (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-greece-crete) | Iraq, *الاجتماعيات للصف الأول المتوسط (Social Studies for the First Intermediate Grade)*, printed p. 108 |
+| Iraq part — Greek achievements: philosophy and astronomy — story beats: from the 6th century BC the Greeks found philosophy — "love of wisdom" — and prove the earth a sphere turning on its axis (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-greece-crete) | Iraq, *الاجتماعيات للصف الأول المتوسط (Social Studies for the First Intermediate Grade)*, printed p. 116 |
+
+Iraq's own way (Book 4 — iq-g07 Social Studies (student book, Arabic)): From Grade 7 the combined book becomes a straight ancient-history course in two parts: Mesopotamia first and longest, then the Nile, then pre-Islamic Arabia's kingdoms in detail, then the neighbouring Persians, Greeks and Romans — Iraq's past as the centre the neighbours are measured against. That way is stocked here as the way Iraq teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 21 countries (Ethiopia, France, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro, Dominican Republic, Egypt, Bolivia, Iran, Cambodia, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq).**
+
+Searchable tags: Iraq, History expansion 2026-11-15, ancient-world/ancient-civilisations-greece-crete

@@ -1,6 +1,6 @@
 # Sources — Faiths that shaped states
 
-countries: Ethiopia, Saudi Arabia, Ecuador, India, Libya, Sri Lanka
+countries: Ethiopia, Saudi Arabia, Ecuador, India, Libya, Sri Lanka, Iraq
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -106,3 +106,43 @@ Sri Lanka's own way (Book 1 — G7 History Tamil 2011): world civilisations firs
 **Acceptance count: taught in 6 countries (Ethiopia, Saudi Arabia, Ecuador, India, Libya, Sri Lanka).**
 
 Searchable tags: Sri Lanka, History expansion 2026-11-15, ancient-world/faiths-that-shaped-states
+
+## History expansion (2026-11-15) — Iraq stocked
+
+**Book 2 — iq-g05 Social Studies (student book, Arabic)**
+- Title as printed: الاجتماعيات للصف الخامس الابتدائي (Social Studies for the Fifth Primary Grade)
+- Grade: Grade 5 (student/teacher: STUDENT)
+- Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 2023 (1445H), 10th edition; ISBN no ISBN printed
+- PDF pages: 104 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 14 placements — 10 to existing lessons, 4 NEW LESSON NEEDED
+- Iraq's own way: Unit 2 "Our History… Our Civilisation… Our Identity" (printed pp.41–79) teaches History as national identity in three chapters — ancient gifts, Iraq as seat of the caliphate, Iraq as home of scholars; Geography Unit 1 (pp.5–40) and Civics Unit 3 "National and Social Education" (pp.81–101) are named here, not placed.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/iraq-placements.md.
+
+Non-History parts (named, not placed): Geography Unit 1 (printed pp.5–40); Civics Unit 3 "National and Social Education" (pp.81–101) — named in the placements file, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iraq part — Our land, cradle of religions and temples — story beats: every Sumerian city raises its own temple on a flood-safe ziggurat; temples own farms and schools, Babylon alone holds 153 temples, and the Mandaeans still baptise in the southern rivers (History expansion, 2026-11-15; original placement slug: ancient-world/faiths-that-shaped-states) | Iraq, *الاجتماعيات للصف الخامس الابتدائي (Social Studies for the Fifth Primary Grade)*, printed p. 49 |
+
+Iraq's own way (Book 2 — iq-g05 Social Studies (student book, Arabic)): Unit 2 "Our History… Our Civilisation… Our Identity" (printed pp.41–79) teaches History as national identity in three chapters — ancient gifts, Iraq as seat of the caliphate, Iraq as home of scholars; Geography Unit 1 (pp.5–40) and Civics Unit 3 "National and Social Education" (pp.81–101) are named here, not placed. That way is stocked here as the way Iraq teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 4 — iq-g07 Social Studies (student book, Arabic)**
+- Title as printed: الاجتماعيات للصف الأول المتوسط (Social Studies for the First Intermediate Grade)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 2023 (1445H), 5th edition; ISBN no ISBN printed
+- PDF pages: 132 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 31 placements — 24 to existing lessons, 7 NEW LESSON NEEDED
+- Iraq's own way: From Grade 7 the combined book becomes a straight ancient-history course in two parts: Mesopotamia first and longest, then the Nile, then pre-Islamic Arabia's kingdoms in detail, then the neighbouring Persians, Greeks and Romans — Iraq's past as the centre the neighbours are measured against.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iraq part — The temple at the centre of the old city — story beats: the temple is at once shrine, treasury and economic centre, binding ritual to the people's daily bread (History expansion, 2026-11-15; original placement slug: ancient-world/faiths-that-shaped-states) | Iraq, *الاجتماعيات للصف الأول المتوسط (Social Studies for the First Intermediate Grade)*, printed p. 38 |
+
+Iraq's own way (Book 4 — iq-g07 Social Studies (student book, Arabic)): From Grade 7 the combined book becomes a straight ancient-history course in two parts: Mesopotamia first and longest, then the Nile, then pre-Islamic Arabia's kingdoms in detail, then the neighbouring Persians, Greeks and Romans — Iraq's past as the centre the neighbours are measured against. That way is stocked here as the way Iraq teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 7 countries (Ethiopia, Saudi Arabia, Ecuador, India, Libya, Sri Lanka, Iraq).**
+
+Searchable tags: Iraq, History expansion 2026-11-15, ancient-world/faiths-that-shaped-states

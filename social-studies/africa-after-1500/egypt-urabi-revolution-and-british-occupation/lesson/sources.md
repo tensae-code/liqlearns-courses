@@ -1,6 +1,6 @@
 # Sources — Egypt — the Urabi Revolution and the British occupation
 
-countries: Egypt, Syria
+countries: Egypt, Syria, Iraq
 
 **Book 5:** *الدراسات الاجتماعية — مصر وقارات العالم الجديد (Social Studies — Egypt and the Continents of the New World)* (student book, Arabic) — Egypt. Grade: Grade 9 (Third Preparatory), Term 1 (student book). Publisher: Ministry of Education and Technical Education, Egypt (Educational Content Administration; Salah al-Talameezh); year 2025/2026; ISBN: no ISBN printed in the front matter. PDF pages: 113 (read in place from phase3-staging; image-only scan read as 4-up page sheets; the History units read in full, Geography units identified from the contents). Verdict: COMPLETE (History parts). Tally: 9 placements — 2 to existing lessons, 7 NEW LESSON NEEDED. Non-History parts (named, not placed): Unit 1 Lesson 1 (location and surface features of the New World continents) and the whole of Unit 3, Environmental Systems in the Continents of the New World (forest and grassland systems, desert and water environmental systems, climate change and its effect on environmental systems) — Geography. Placements at liqlearns-courses-work/expansion-history-2026-11-15/egypt-placements.md.
 
@@ -37,3 +37,25 @@ Searchable tags: Egypt, Egypt — the Urabi Revolution and the British occupatio
 Syria's own way (التاريخ — الصف التاسع (History, Grade 9), Grade 9 (student/teacher: STUDENT)): the whole modern history of the Arab world is taught from Damascus outward — Syria's own road from the Arab government of 1918 through Maysalun, the Great Revolt and independence to the 2011 revolution and the fall of the regime on 8 December 2024 is the spine, and every other Arab country's struggle is told in the same frame of occupation, resistance and independence. That way is stocked here as the way Syria teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 2 countries (Egypt, Syria).**
+
+## History expansion (2026-11-15) — Iraq stocked
+
+**Book 9 — iq-g12 History of the Arab Countries, Modern and Contemporary (student book, Arabic)**
+- Title as printed: تاريخ البلاد العربية الحديث والمعاصر للصف السادس الأدبي (Modern and Contemporary History of the Arab Countries, Sixth Literary Grade)
+- Grade: Grade 12 (student/teacher: STUDENT)
+- Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 2023 (1445H), 7th edition; ISBN no ISBN printed
+- PDF pages: 204 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 24 placements — 3 to existing lessons, 21 NEW LESSON NEEDED
+- Iraq's own way: The final literary-track book returns home: four chapters on Iraq itself (Ottoman, war, monarchy, 1941–1958), then the whole Arab world under colonialism and in liberation — Iraq's story as the centre of the Arab story.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iraq part — Ch.6 European colonialism: Egypt — story beats: Khedive Ismail yields to a national ministry and constitutional promise; Ahmed Urabi leads the army's stand — and Britain occupies Egypt, disbands its army and fines its people (History expansion, 2026-11-15; original placement slug: modern-world/egypt-urabi-and-the-british-occupation) | Iraq, *تاريخ البلاد العربية الحديث والمعاصر للصف السادس الأدبي (Modern and Contemporary History of the Arab Countries, Sixth Literary Grade)*, printed p. 150 |
+
+Iraq's own way (Book 9 — iq-g12 History of the Arab Countries, Modern and Contemporary (student book, Arabic)): The final literary-track book returns home: four chapters on Iraq itself (Ottoman, war, monarchy, 1941–1958), then the whole Arab world under colonialism and in liberation — Iraq's story as the centre of the Arab story. That way is stocked here as the way Iraq teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 3 countries (Egypt, Syria, Iraq).**
+
+Searchable tags: Iraq, History expansion 2026-11-15, africa-after-1500/egypt-urabi-revolution-and-british-occupation

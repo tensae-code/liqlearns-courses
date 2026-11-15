@@ -1,6 +1,6 @@
 # Sources — The First World War — course of the war
 
-countries: Ethiopia, United States, Montenegro, Dominican Republic, Pakistan, Iran, Cambodia, South Sudan, Sri Lanka
+countries: Ethiopia, United States, Montenegro, Dominican Republic, Pakistan, Iran, Cambodia, South Sudan, Sri Lanka, Iraq
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 134).
 
@@ -180,3 +180,25 @@ Sri Lanka's own way (Book 7 — G11 History Tamil 1999): the old-syllabus Grade 
 **Acceptance count: taught in 9 countries (Ethiopia, United States, Montenegro, Dominican Republic, Pakistan, Iran, Cambodia, South Sudan, Sri Lanka).**
 
 Searchable tags: Sri Lanka, History expansion 2026-11-15, modern-world/the-first-world-war-course-of-the-war
+
+## History expansion (2026-11-15) — Iraq stocked
+
+**Book 8 — iq-g11 History of Europe and America, Modern and Contemporary (student book, Arabic)**
+- Title as printed: تأريخ أوربا وأمريكا الحديث والمعاصر للصف الخامس الأدبي (Modern and Contemporary History of Europe and America, Fifth Literary Grade)
+- Grade: Grade 11 (student/teacher: STUDENT)
+- Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 2023 (1445H), 13th edition; ISBN no ISBN printed
+- PDF pages: 112 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 28 placements — 21 to existing lessons, 7 NEW LESSON NEEDED
+- Iraq's own way: A straight political narrative of the West from 1789 to 1945, told from outside it — revolutions, unifications, world wars — with the thinkers given first, before the crowds move.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iraq part — The First World War: its course 1914–1918 — story beats: the war's fronts and turning points carry Europe's empires to collapse (History expansion, 2026-11-15; original placement slug: modern-world/the-first-world-war-course-of-the-war) | Iraq, *تأريخ أوربا وأمريكا الحديث والمعاصر للصف الخامس الأدبي (Modern and Contemporary History of Europe and America, Fifth Literary Grade)*, printed p. 80 |
+
+Iraq's own way (Book 8 — iq-g11 History of Europe and America, Modern and Contemporary (student book, Arabic)): A straight political narrative of the West from 1789 to 1945, told from outside it — revolutions, unifications, world wars — with the thinkers given first, before the crowds move. That way is stocked here as the way Iraq teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 10 countries (Ethiopia, United States, Montenegro, Dominican Republic, Pakistan, Iran, Cambodia, South Sudan, Sri Lanka, Iraq).**
+
+Searchable tags: Iraq, History expansion 2026-11-15, modern-world/the-first-world-war-course-of-the-war

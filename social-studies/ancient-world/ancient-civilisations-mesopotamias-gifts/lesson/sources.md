@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — Mesopotamia's gifts
 
-countries: Ethiopia, Egypt, Pakistan, Syria, Colombia, Libya, Sri Lanka
+countries: Ethiopia, Egypt, Pakistan, Syria, Colombia, Libya, Sri Lanka, Iraq
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 6, placements 92–106).
 
@@ -141,3 +141,64 @@ Sri Lanka's own way (Book 1 — G7 History Tamil 2011): world civilisations firs
 **Acceptance count: taught in 7 countries (Ethiopia, Egypt, Pakistan, Syria, Colombia, Libya, Sri Lanka).**
 
 Searchable tags: Sri Lanka, History expansion 2026-11-15, ancient-world/ancient-civilisations-mesopotamias-gifts
+
+## History expansion (2026-11-15) — Iraq stocked
+
+**Book 1 — iq-g04 Social Studies (student book, Arabic)**
+- Title as printed: الاجتماعيات للصف الرابع الابتدائي (Social Studies for the Fourth Primary Grade)
+- Grade: Grade 4 (student/teacher: STUDENT)
+- Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 2023 (1445H), 13th edition; ISBN no ISBN printed
+- PDF pages: 64 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 11 placements — 11 to existing lessons, 0 NEW LESSON NEEDED
+- Iraq's own way: History enters inside a combined Social Studies book (2 Geography chapters pp.5–33, 2 History chapters pp.34–47, 2 Civics chapters — School pp.48–54, Homeland pp.55–63, named here, not placed); it starts from the child's own yesterday/week/month/year and only then reaches ancient Iraq.
+- Combined parts named, not placed: Geography — Ch.1 The Local Environment (printed pp.5–23), Ch.2 Geographical Environments (pp.24–33); Civics — Ch.5 The School (pp.48–54), Ch.6 The Homeland (pp.55–63)
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/iraq-placements.md.
+
+Non-History parts (named, not placed): Geography — Ch.1 The Local Environment (printed pp.5–23), Ch.2 Geographical Environments (pp.24–33); Civics — Ch.5 The School (pp.48–54), Ch.6 The Homeland (pp.55–63) — named in the placements file, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iraq part — Sumer's gifts: writing, ziggurats, laws and the lyre — story beats: clay tablets and the Sumerian lyre show a people who turned wedge-shaped marks into records, music and law (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-mesopotamias-gifts) | Iraq, *الاجتماعيات للصف الرابع الابتدائي (Social Studies for the Fourth Primary Grade)*, printed p. 44 |
+
+Iraq's own way (Book 1 — iq-g04 Social Studies (student book, Arabic)): History enters inside a combined Social Studies book (2 Geography chapters pp.5–33, 2 History chapters pp.34–47, 2 Civics chapters — School pp.48–54, Homeland pp.55–63, named here, not placed); it starts from the child's own yesterday/week/month/year and only then reaches ancient Iraq. That way is stocked here as the way Iraq teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 2 — iq-g05 Social Studies (student book, Arabic)**
+- Title as printed: الاجتماعيات للصف الخامس الابتدائي (Social Studies for the Fifth Primary Grade)
+- Grade: Grade 5 (student/teacher: STUDENT)
+- Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 2023 (1445H), 10th edition; ISBN no ISBN printed
+- PDF pages: 104 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 14 placements — 10 to existing lessons, 4 NEW LESSON NEEDED
+- Iraq's own way: Unit 2 "Our History… Our Civilisation… Our Identity" (printed pp.41–79) teaches History as national identity in three chapters — ancient gifts, Iraq as seat of the caliphate, Iraq as home of scholars; Geography Unit 1 (pp.5–40) and Civics Unit 3 "National and Social Education" (pp.81–101) are named here, not placed.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/iraq-placements.md.
+
+Non-History parts (named, not placed): Geography Unit 1 (printed pp.5–40); Civics Unit 3 "National and Social Education" (pp.81–101) — named in the placements file, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iraq part — Masterpieces of our old civilisation: Sumer, Akkad, Babylon, Assyria — story beats: the Sumerian lyre and treasures, an Akkadian king's head, Babylon's tower and Assyria's winged bull parade past as proof in pictures (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-mesopotamias-gifts) | Iraq, *الاجتماعيات للصف الخامس الابتدائي (Social Studies for the Fifth Primary Grade)*, printed p. 43 |
+| Iraq part — The Iraqis were the first to invent writing and recording — story beats: temples need accounts, so Iraqis press clay tablets with a triangular reed pen and invent cuneiform, then roll cylinder seals that print their owner's name and picture (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-mesopotamias-gifts) | Iraq, *الاجتماعيات للصف الخامس الابتدائي (Social Studies for the Fifth Primary Grade)*, printed p. 45 |
+
+Iraq's own way (Book 2 — iq-g05 Social Studies (student book, Arabic)): Unit 2 "Our History… Our Civilisation… Our Identity" (printed pp.41–79) teaches History as national identity in three chapters — ancient gifts, Iraq as seat of the caliphate, Iraq as home of scholars; Geography Unit 1 (pp.5–40) and Civics Unit 3 "National and Social Education" (pp.81–101) are named here, not placed. That way is stocked here as the way Iraq teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 4 — iq-g07 Social Studies (student book, Arabic)**
+- Title as printed: الاجتماعيات للصف الأول المتوسط (Social Studies for the First Intermediate Grade)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 2023 (1445H), 5th edition; ISBN no ISBN printed
+- PDF pages: 132 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 31 placements — 24 to existing lessons, 7 NEW LESSON NEEDED
+- Iraq's own way: From Grade 7 the combined book becomes a straight ancient-history course in two parts: Mesopotamia first and longest, then the Nile, then pre-Islamic Arabia's kingdoms in detail, then the neighbouring Persians, Greeks and Romans — Iraq's past as the centre the neighbours are measured against.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iraq part — The marks of civilisation: writing invented — story beats: pictorial writing turns daily acts into records, and with writing human history proper begins (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-mesopotamias-gifts) | Iraq, *الاجتماعيات للصف الأول المتوسط (Social Studies for the First Intermediate Grade)*, printed p. 11 |
+| Iraq part — Mesopotamia's sciences: writing, medicine, astronomy, time — story beats: cuneiform spreads with the Akkadian language; doctors diagnose and prescribe; astronomers chart planets, split the day into twelve parts and the week into seven days (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-mesopotamias-gifts) | Iraq, *الاجتماعيات للصف الأول المتوسط (Social Studies for the First Intermediate Grade)*, printed p. 40 |
+
+Iraq's own way (Book 4 — iq-g07 Social Studies (student book, Arabic)): From Grade 7 the combined book becomes a straight ancient-history course in two parts: Mesopotamia first and longest, then the Nile, then pre-Islamic Arabia's kingdoms in detail, then the neighbouring Persians, Greeks and Romans — Iraq's past as the centre the neighbours are measured against. That way is stocked here as the way Iraq teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 8 countries (Ethiopia, Egypt, Pakistan, Syria, Colombia, Libya, Sri Lanka, Iraq).**
+
+Searchable tags: Iraq, History expansion 2026-11-15, ancient-world/ancient-civilisations-mesopotamias-gifts

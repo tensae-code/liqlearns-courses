@@ -1,0 +1,9 @@
+# Hands-on — Arabic poetry and culture before Islam
+
+The lesson with your hands and your feet, not only your eyes.
+
+## Task 1
+List the parts of this story in order — Arabic poetry and culture before Islam — and say what changed in each part.
+
+## Task 2
+Draw or write the key scene of the first part, Arabia's cultural life: poetry, prose and building, from the story as the book tells it, and label the people and the place in it.
