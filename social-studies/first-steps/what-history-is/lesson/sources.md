@@ -1,6 +1,6 @@
 # Sources — What history is
 
-countries: Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Cambodia
+countries: Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Cambodia, Palestine
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -626,3 +626,28 @@ Cambodia's own way (Book 8 — សិក្សាសង្គម ថ្នាក
 **Acceptance count: taught in 29 countries (Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Cambodia).**
 
 Searchable tags: Cambodia, What history is, first-steps, History expansion 2026-11-15
+
+---
+
+## History expansion (2026-11-15) — Palestine stocked
+
+**Book 3 — G6 Social Studies Part 1 (student book, Arabic)**
+- Title as printed: الدراسات الاجتماعية — الصف السادس الأساسي، الجزء الأول (Social Studies, Grade 6 Basic, Part 1)
+- Grade: 6 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, State of Palestine; year 2020 (third edition, 1441 AH); ISBN no ISBN printed
+- PDF pages: 96 (cover/title page verified against the record title; 1,796,736 bytes, size/SHA verified)
+- Verdict: COMPLETE
+- Tally: 14 placements — 10 to existing lessons, 4 NEW LESSON NEEDED
+- Palestine's own way: Grade 6 opens with method — what history is and where knowledge of it comes from — then walks the ancient civilisations region by region around the Arab homeland, always ending each story back in Palestine: Canaanite cities, stolen antiquities, and the 1948 displacement.
+- Non-History parts named (not placed): Unit 1 Lesson 1 — sources of geographical knowledge (printed pp. 4–15, Geography); Unit 3 Law and Order Protect Our Rights and Duties — constitution and political authorities, human rights (pp. 76–90, Civics).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/palestine-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Palestine part — Unit 1 Lesson 2: sources of historical knowledge — what history means — story beats: history is defined first as time itself, then as the study of the past that explains the present, connects pupils to their ancestors and teaches nations to guard their heritage (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Palestine, *الدراسات الاجتماعية — الصف السادس الأساسي، الجزء الأول (Social Studies, Grade 6 Basic, Part 1)*, printed p. 16 |
+
+Palestine's own way (Book 3 — G6 Social Studies Part 1, Grade 6 (student/teacher: STUDENT)): Grade 6 opens with method — what history is and where knowledge of it comes from — then walks the ancient civilisations region by region around the Arab homeland, always ending each story back in Palestine: Canaanite cities, stolen antiquities, and the 1948 displacement. That way is stocked here as the way Palestine teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 30 countries (Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Cambodia, Palestine).**
+
+Searchable tags: Palestine, What history is, first-steps, History expansion 2026-11-15

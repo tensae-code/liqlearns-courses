@@ -1,6 +1,6 @@
 # Sources — From stone tools to farming — the Neolithic Revolution
 
-countries: Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus, Fiji, Dominican Republic, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia
+countries: Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus, Fiji, Dominican Republic, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -446,3 +446,52 @@ Cambodia's own way (Book 3 — សិក្សាសង្គម ថ្នាក
 **Acceptance count: taught in 21 countries (Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus, Fiji, Dominican Republic, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia).**
 
 Searchable tags: Cambodia, From stone tools to farming — the Neolithic Revolution, africa-to-1500, History expansion 2026-11-15
+
+---
+
+## History expansion (2026-11-15) — Palestine stocked
+
+**Book 1 — G5 Social Studies Part 1 (student book, Arabic)**
+- Title as printed: الدراسات الاجتماعية — الصف الخامس الأساسي، الجزء الأول (Social Studies, Grade 5 Basic, Part 1)
+- Grade: 5 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, State of Palestine; year 2020 (third edition; adopted for schools from 2017/2018); ISBN no ISBN printed
+- PDF pages: 92 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 7 placements — 7 to existing lessons, 0 NEW LESSON NEEDED
+- Palestine's own way: History begins as the story of the first humans, told through pictures and "I learned" summaries, and is immediately rooted in Palestine itself — Natufian caves, Jericho, and living Bedouin and embroidered-dress heritage as the present-day tail of the ancient story.
+- Non-History parts named (not placed): Unit 1 Planet Earth — Earth's shape and movements, surface, conditions for life, natural and human disasters (printed pp. 2–39, Geography); Unit 3 The Society We Live In — the Palestinian family, the state (pp. 72–86, Civics).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/palestine-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Palestine part — Unit 2 Lesson 1: aspects of ancient human life — story beats: the first humans wander unsettled, hunting and gathering fruit, then farming settles them, barter gives way to coined money, and the Canaanites are already using coinage in Palestine five thousand years ago (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Palestine, *الدراسات الاجتماعية — الصف الخامس الأساسي، الجزء الأول (Social Studies, Grade 5 Basic, Part 1)*, printed p. 42 |
+| Palestine part — Unit 2 Lesson 2: the tools ancient humans used — story beats: need mothers invention as flint is knapped sharp for spears, axes, sickles and grain-pounders, so the age is named the Stone Age (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Palestine, *الدراسات الاجتماعية — الصف الخامس الأساسي، الجزء الأول (Social Studies, Grade 5 Basic, Part 1)*, printed p. 46 |
+| Palestine part — Unit 2 Lesson 2: discovering fire — story beats: lightning and volcanoes first show humans fire, then striking flint sparks it on demand, and the cave gains warmth, light, cooked food and a weapon against beasts (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Palestine, *الدراسات الاجتماعية — الصف الخامس الأساسي، الجزء الأول (Social Studies, Grade 5 Basic, Part 1)*, printed p. 48 |
+| Palestine part — Unit 2 Lesson 3: ancient dwelling and clothing — story beats: people move from rock caves and skin tents to built houses, and from plant roots and hunted skins to cotton, wool and silk clothing (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Palestine, *الدراسات الاجتماعية — الصف الخامس الأساسي، الجزء الأول (Social Studies, Grade 5 Basic, Part 1)*, printed p. 51 |
+| Palestine part — Unit 2 Lesson 4: Palestine, homeland of ancient humans — the Natufian culture and Jericho — story beats: in Wadi Natuf's caves and at Tell es-Sultan (ancient Jericho, called the world's oldest and first walled city) hunter-gatherers settle, farm and build round stone houses, taking the first step to village life (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Palestine, *الدراسات الاجتماعية — الصف الخامس الأساسي، الجزء الأول (Social Studies, Grade 5 Basic, Part 1)*, printed p. 58 |
+
+Palestine's own way (Book 1 — G5 Social Studies Part 1, Grade 5 (student/teacher: STUDENT)): History begins as the story of the first humans, told through pictures and "I learned" summaries, and is immediately rooted in Palestine itself — Natufian caves, Jericho, and living Bedouin and embroidered-dress heritage as the present-day tail of the ancient story. That way is stocked here as the way Palestine teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 2 — G5 Social Studies Part 2 (student book, Arabic)**
+- Title as printed: الدراسات الاجتماعية — الصف الخامس الأساسي، الجزء الثاني (Social Studies, Grade 5 Basic, Part 2)
+- Grade: 5 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, State of Palestine; year 2020 (third edition); ISBN no ISBN printed
+- PDF pages: 96 (cover/title page verified against the record title; file verified complete — byte size 22,801,057 and git blob SHA matched the repo record after grab.py's blob route failed twice with IncompleteRead and a curl raw route was used)
+- Verdict: COMPLETE
+- Tally: 12 placements — 10 to existing lessons, 2 NEW LESSON NEEDED
+- Palestine's own way: Settlement is told as one long Palestinian story — farming, villages and cities grow out of the Fertile Crescent, and the same village story runs unbroken to 1948, when over 500 villages were destroyed and their people made refugees.
+- Non-History parts named (not placed): Unit 5 Lessons 1 and 4 — social relations and political relations/UN (printed pp. 48–54, 70–75, Civics); Unit 6 The Safe Society — crossing the road safely, children's rights (pp. 76–91, Civics).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/palestine-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Palestine part — Unit 4 Lesson 1: humans turn to farming — story beats: Suad spots strange plants sprouting where seeds fell, retelling how humans noticed dropped seeds grow, planted them on purpose in the Fertile Crescent, settled beside their fields and built houses (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Palestine, *الدراسات الاجتماعية — الصف الخامس الأساسي، الجزء الثاني (Social Studies, Grade 5 Basic, Part 2)*, printed p. 4 |
+| Palestine part — Unit 4 Lesson 2: domesticating animals — story beats: settled humans tame animals for food, skins, wool and carrying loads, and the animals become part of the household that keeps people settled (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Palestine, *الدراسات الاجتماعية — الصف الخامس الأساسي، الجزء الثاني (Social Studies, Grade 5 Basic, Part 2)*, printed p. 14 |
+| Palestine part — Unit 4 Lesson 3: the farming villages — story beats: farming, safety and cooperation gather people into the first villages of fixed houses and grain stores, and ancient Jericho (Tell es-Sultan) is named the world's first farming village, with Jarmo in Iraq as its peer (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Palestine, *الدراسات الاجتماعية — الصف الخامس الأساسي، الجزء الثاني (Social Studies, Grade 5 Basic, Part 2)*, printed p. 21 |
+| Palestine part — Unit 4 Lesson 5: the city — story beats: some villages swell with people who leave farming for crafts, trade and government work, and the village turns into a city — Jerusalem, Jericho, Hebron, Gaza and Haifa among Palestine's ancient-grown cities (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Palestine, *الدراسات الاجتماعية — الصف الخامس الأساسي، الجزء الثاني (Social Studies, Grade 5 Basic, Part 2)*, printed p. 33 |
+
+Palestine's own way (Book 2 — G5 Social Studies Part 2, Grade 5 (student/teacher: STUDENT)): Settlement is told as one long Palestinian story — farming, villages and cities grow out of the Fertile Crescent, and the same village story runs unbroken to 1948, when over 500 villages were destroyed and their people made refugees. That way is stocked here as the way Palestine teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 22 countries (Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus, Fiji, Dominican Republic, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine).**
+
+Searchable tags: Palestine, From stone tools to farming — the Neolithic Revolution, africa-to-1500, History expansion 2026-11-15

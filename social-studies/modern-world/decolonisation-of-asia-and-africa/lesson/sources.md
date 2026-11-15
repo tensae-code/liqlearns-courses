@@ -1,6 +1,6 @@
 # Sources — The decolonisation of Asia and Africa
 
-countries: Bolivia, Cambodia
+countries: Bolivia, Cambodia, Palestine
 
 **Book 4 (bol-g12-student-sec6):** *Texto de Aprendizaje — Ciencias Sociales, 6to Año de Educación Secundaria Comunitaria Productiva* (student book, Spanish) — Bolivia. Title as printed: Texto de Aprendizaje — Ciencias Sociales, 6to Año de Educación Secundaria Comunitaria Productiva (cover: Área Ciencias Sociales). Grade: Grade 12 (student/teacher: STUDENT). Publisher: Ministerio de Educación de Bolivia; year not printed in the held portion; no ISBN printed. PDF pages: 126 (cover verified against the record title; the held file carries printed pp. 350–474, the later portion of the year's text as released, read in full). Verdict: PARTIAL — printed pp. 350–474 of the Secundaria 6 text; earlier printed pages are not in this file. Tally: 15 placements — 3 to existing lessons, 12 NEW LESSON NEEDED. Non-History parts (named, not placed): the Census (printed pp. 350–354 — Civics); globalisation and McLuhan's global village (printed p. 375 — Geography/media); geographic theory and scales (printed pp. 385–391 — Geography); identity, discrimination, youth political rights, human trafficking and child/adolescent labour law (printed pp. 447–463 — Civics); currency, inflation and monetary policy (printed pp. 467–473 — economics). Placements at liqlearns-courses-work/expansion-history-2026-11-15/bolivia-placements.md.
 
@@ -43,3 +43,31 @@ Cambodia's own way (Book 5 — ប្រវត្តិវិទ្យា ថ្
 **Acceptance count: taught in 2 countries (Bolivia, Cambodia).**
 
 Searchable tags: Cambodia, The decolonisation of Asia and Africa, modern-world, History expansion 2026-11-15
+
+---
+
+## History expansion (2026-11-15) — Palestine stocked
+
+**Book 9 — G9 Social Studies Part 1 (student book, Arabic)**
+- Title as printed: الدراسات الاجتماعية — الصف التاسع الأساسي، الجزء الأول (Social Studies, Grade 9 Basic, Part 1)
+- Grade: 9 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, State of Palestine; year 2020 (third edition, 1441 AH); ISBN no ISBN printed
+- PDF pages: 84 (cover/title page verified against the record title; 2,648,552 bytes, size/SHA verified)
+- Verdict: COMPLETE
+- Tally: 11 placements — 8 to existing lessons, 3 NEW LESSON NEEDED
+- Palestine's own way: Colonialism is taught as a system with named policies — partition, economic subordination, deliberate ignorance (tajhil), repression — and Palestine is the running case study inside every policy, from the 1856 Montefiore settlement to the Absentees' Property Law and the PLO's founding in Jerusalem.
+- Non-History parts named (not placed): Unit 3 Participation in Building Civil Society — political participation, elections, civil-society institutions (pp. 61–80, Civics).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/palestine-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Palestine part — Unit 2 Lesson 1: liberation movements emerge — story beats: resistance is as old as the occupation itself but surges after the Second World War on self-determination principles, new media and the example of Syria, Lebanon and Jordan winning independence; the UN General Assembly's Resolution 1514 declares colonialism a crime — with Palestine named the exception still under occupation (History expansion, 2026-11-15; original placement slug: modern-world/wars-of-decolonisation-algeria-vietnam-and-others) | Palestine, *الدراسات الاجتماعية — الصف التاسع الأساسي، الجزء الأول (Social Studies, Grade 9 Basic, Part 1)*, printed p. 32 |
+| Palestine part — Unit 2 Lesson 2: forms of resistance — story beats: resistance runs armed and peaceful side by side — the PLO adopts armed struggle from 1965 and the intifada renews it, while civil resistance boycotts goods, exposes the occupier's crimes in world forums and courts, and cuts economic dependence; everywhere it fights short of men, arms, unity and supply lines (History expansion, 2026-11-15; original placement slug: modern-world/wars-of-decolonisation-algeria-vietnam-and-others) | Palestine, *الدراسات الاجتماعية — الصف التاسع الأساسي، الجزء الأول (Social Studies, Grade 9 Basic, Part 1)*, printed p. 37 |
+| Palestine part — Unit 2 Lesson 3: models of Arab liberation — Libya, Syria, Iraq — story beats: Libya passes from Italy to Britain and France to a UN trusteeship and independence in 1951; Syria's Yusuf al-Azma falls with some 800 men at Maysalun (1920) against France, which splits Syria into Alawite, Druze and Aleppo statelets and meets revolts up to the Great Syrian Revolt; Iraq rises against Britain in 1920 after the San Remo mandate (History expansion, 2026-11-15; original placement slug: modern-world/wars-of-decolonisation-algeria-vietnam-and-others) | Palestine, *الدراسات الاجتماعية — الصف التاسع الأساسي، الجزء الأول (Social Studies, Grade 9 Basic, Part 1)*, printed p. 43 |
+| Palestine part — Unit 2 Lessons 4–5: independence and its challenges — story beats: independence shows itself in a national government, constitution, free elections, flag, currency and embassies — Palestine displays the trappings without the full thing — and after it come the hard parts: economic dependence and foreign debt, border amputations (Iran's seizure of Abu Musa and the Tunb islands from the Emirates), weak parties and constitutional life, and the fear of the chaos that swallowed Iraq, Syria, Yemen, Tunisia and Libya (History expansion, 2026-11-15; original placement slug: modern-world/colonialism-and-its-end) | Palestine, *الدراسات الاجتماعية — الصف التاسع الأساسي، الجزء الأول (Social Studies, Grade 9 Basic, Part 1)*, printed p. 50 |
+
+Palestine's own way (Book 9 — G9 Social Studies Part 1, Grade 9 (student/teacher: STUDENT)): Colonialism is taught as a system with named policies — partition, economic subordination, deliberate ignorance (tajhil), repression — and Palestine is the running case study inside every policy, from the 1856 Montefiore settlement to the Absentees' Property Law and the PLO's founding in Jerusalem. That way is stocked here as the way Palestine teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 3 countries (Bolivia, Cambodia, Palestine).**
+
+Searchable tags: Palestine, The decolonisation of Asia and Africa, modern-world, History expansion 2026-11-15

@@ -1,6 +1,6 @@
 # Sources — Napoleon — reformer, conqueror, fallen
 
-countries: Ethiopia, Belarus, Montenegro, Pakistan
+countries: Ethiopia, Belarus, Montenegro, Pakistan, Palestine
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under GEQIP-E, ISBN 978-99990-0-066-6. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -112,3 +112,28 @@ Searchable tags: Pakistan, Napoleon — reformer, conqueror, fallen, modern-worl
 Bolivia's own way (Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Secundaria Comunitaria Productiva, Área Ciencias Sociales, teacher guide): The teachers' compendium binds the whole six-year Ciencias Sociales course in one volume: teachers hold the full arc — Abya Yala's civilisations, colony, independence (with its revisionist debate and its women), oligarchic republic, Chaco, 1952, dictatorships, neoliberalism and the democratic-cultural revolution — framed throughout by decolonisation ("breaking the mental structures that think there are superior thoughts") and Vivir Bien. That way is stocked here as the way Bolivia teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 4 countries (Ethiopia, Belarus, Montenegro, Pakistan) — unchanged; the Bolivia placement(s) above stand on the teacher compendium only, cited as evidence only, counted nowhere. Bolivia is not added to this lesson's countries line.**
+
+---
+
+## History expansion (2026-11-15) — Palestine stocked
+
+**Book 8 — G8 Social Studies Part 2 (student book, Arabic)**
+- Title as printed: الدراسات الاجتماعية — الصف الثامن الأساسي، الجزء الثاني (Social Studies, Grade 8 Basic, Part 2)
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, State of Palestine; year 2020 (third edition, 1441 AH); ISBN no ISBN printed
+- PDF pages: 96 (cover/title page verified against the record title; 31,768,663 bytes, size/SHA verified)
+- Verdict: COMPLETE
+- Tally: 14 placements — 14 to existing lessons, 0 NEW LESSON NEEDED
+- Palestine's own way: World history is taught as the run-up to Palestine's own colonisation: the Renaissance is credited partly to Arab-Islamic civilisation, the discoveries are shown draining Mamluk ports, and Napoleon's campaign is followed street by street through Cairo's revolts and Acre's two-month stand.
+- Non-History parts named (not placed): Unit 6 Gender (social type) and Violence (pp. 73–90, Civics).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/palestine-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Palestine part — Unit 5 Lesson 3: the French campaign on Egypt and al-Sham — story beats: Napoleon seeks to cut Britain's road to India and seize Egypt's wealth; Cairo revolts twice (1798, 1800) and is shelled and burned; after Britain destroys his fleet at Abu Qir (1798) he marches on Palestine (1799) — Acre holds out over two months behind al-Jazzar with Palestinian help, Nablus fighters ambush his columns in the hills ("Mountain of Fire"), and the Jaffa massacre stains the campaign (History expansion, 2026-11-15; original placement slug: modern-world/the-french-revolution-and-napoleon) | Palestine, *الدراسات الاجتماعية — الصف الثامن الأساسي، الجزء الثاني (Social Studies, Grade 8 Basic, Part 2)*, printed p. 61 |
+
+Palestine's own way (Book 8 — G8 Social Studies Part 2, Grade 8 (student/teacher: STUDENT)): World history is taught as the run-up to Palestine's own colonisation: the Renaissance is credited partly to Arab-Islamic civilisation, the discoveries are shown draining Mamluk ports, and Napoleon's campaign is followed street by street through Cairo's revolts and Acre's two-month stand. That way is stocked here as the way Palestine teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 5 countries (Ethiopia, Belarus, Montenegro, Pakistan, Palestine).**
+
+Searchable tags: Palestine, Napoleon — reformer, conqueror, fallen, modern-world, History expansion 2026-11-15

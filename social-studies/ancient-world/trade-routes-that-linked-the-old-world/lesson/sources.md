@@ -1,6 +1,6 @@
 # Sources — Trade routes that linked the old world
 
-countries: Ethiopia, Nigeria, France, Kuwait, India, Indonesia, Syria
+countries: Ethiopia, Nigeria, France, Kuwait, India, Indonesia, Syria, Palestine
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -111,3 +111,63 @@ Syria's own way (كتاب التاريخ — سورية الحضارة — ال�
 Syria's own way (الدراسات الاجتماعية — الصف الرابع (Social Studies, Grade 4), Grade 4 (student/teacher: STUDENT)): Grade 4 carries a whole unit named “Syria and History” (سورية والتاريخ) — cradle of civilisation, historic sites, and transport and communication developing through the ages — and the book closes its citizenship unit with the martyrs of the Syrian revolution, told as the nation's own recent history. That way is stocked here as the way Syria teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 7 countries (Ethiopia, Nigeria, France, Kuwait, India, Indonesia, Syria).**
+
+---
+
+## History expansion (2026-11-15) — Palestine stocked
+
+**Book 2 — G5 Social Studies Part 2 (student book, Arabic)**
+- Title as printed: الدراسات الاجتماعية — الصف الخامس الأساسي، الجزء الثاني (Social Studies, Grade 5 Basic, Part 2)
+- Grade: 5 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, State of Palestine; year 2020 (third edition); ISBN no ISBN printed
+- PDF pages: 96 (cover/title page verified against the record title; file verified complete — byte size 22,801,057 and git blob SHA matched the repo record after grab.py's blob route failed twice with IncompleteRead and a curl raw route was used)
+- Verdict: COMPLETE
+- Tally: 12 placements — 10 to existing lessons, 2 NEW LESSON NEEDED
+- Palestine's own way: Settlement is told as one long Palestinian story — farming, villages and cities grow out of the Fertile Crescent, and the same village story runs unbroken to 1948, when over 500 villages were destroyed and their people made refugees.
+- Non-History parts named (not placed): Unit 5 Lessons 1 and 4 — social relations and political relations/UN (printed pp. 48–54, 70–75, Civics); Unit 6 The Safe Society — crossing the road safely, children's rights (pp. 76–91, Civics).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/palestine-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Palestine part — Unit 5 Lesson 2: economic relations between states in ancient times — story beats: Quraysh caravans journey to Yemen in winter and to al-Sham in summer, India trades spices with its neighbours, and Arabs and China trade silk across the old world's routes (History expansion, 2026-11-15; original placement slug: ancient-world/trade-routes-that-linked-the-old-world) | Palestine, *الدراسات الاجتماعية — الصف الخامس الأساسي، الجزء الثاني (Social Studies, Grade 5 Basic, Part 2)*, printed p. 62 |
+
+Palestine's own way (Book 2 — G5 Social Studies Part 2, Grade 5 (student/teacher: STUDENT)): Settlement is told as one long Palestinian story — farming, villages and cities grow out of the Fertile Crescent, and the same village story runs unbroken to 1948, when over 500 villages were destroyed and their people made refugees. That way is stocked here as the way Palestine teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 4 — G6 Social Studies Part 2 (student book, Arabic)**
+- Title as printed: الدراسات الاجتماعية — الصف السادس الأساسي، الجزء الثاني (Social Studies, Grade 6 Basic, Part 2)
+- Grade: 6 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, State of Palestine; year 2020 (third edition, 1441 AH); ISBN no ISBN printed
+- PDF pages: 104 (cover/title page verified against the record title; 17,399,163 bytes, size/SHA verified)
+- Verdict: COMPLETE
+- Tally: 18 placements — 13 to existing lessons, 5 NEW LESSON NEEDED
+- Palestine's own way: Pre-Islamic Arabia is taught whole — religion, family, kingdoms, trade fairs — so Islam's story lands in a known world; then the Islamic state is built lesson by lesson (call, charter, battles, caliphs, conquests) and the unit closes where it must: Jerusalem opening to Umar and the Umariyya Covenant as Palestine's own founding document.
+- Non-History parts named (not placed): Unit 6 The Safe Society — traffic safety, the active citizen (printed pp. 83–97, Civics).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/palestine-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Palestine part — Unit 4 Lesson 3: economic life — Arab trade routes — story beats: Arabs herd, farm oases and make swords and pottery, and their caravans link Persia, Rome, Abyssinia and India by the eastern and western land roads and the sea road to East Africa, Quraysh running the winter journey to Yemen and the summer journey to al-Sham (History expansion, 2026-11-15; original placement slug: ancient-world/trade-routes-that-linked-the-old-world) | Palestine, *الدراسات الاجتماعية — الصف السادس الأساسي، الجزء الثاني (Social Studies, Grade 6 Basic, Part 2)*, printed p. 17 |
+
+Palestine's own way (Book 4 — G6 Social Studies Part 2, Grade 6 (student/teacher: STUDENT)): Pre-Islamic Arabia is taught whole — religion, family, kingdoms, trade fairs — so Islam's story lands in a known world; then the Islamic state is built lesson by lesson (call, charter, battles, caliphs, conquests) and the unit closes where it must: Jerusalem opening to Umar and the Umariyya Covenant as Palestine's own founding document. That way is stocked here as the way Palestine teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 5 — G7 Social Studies Part 1 (student book, Arabic)**
+- Title as printed: الدراسات الاجتماعية — الصف السابع الأساسي، الجزء الأول (Social Studies, Grade 7 Basic, Part 1)
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, State of Palestine; year 2020 (third edition, 1441 AH); ISBN no ISBN printed
+- PDF pages: 100 (cover/title page verified against the record title; 2,492,248 bytes, size/SHA verified)
+- Verdict: COMPLETE
+- Tally: 14 placements — 13 to existing lessons, 1 NEW LESSON NEEDED
+- Palestine's own way: History and geography are fused — each continent is mapped first, then the Islamic state's spread across it is traced; and the achievements unit keeps landing in Palestine: Ramla's founding, Jerusalem's walls and mosques, coins minted in Ramla, and the Nabi Musa festival where the 1920 revolt began.
+- Non-History parts named (not placed): Unit 1 Lessons 4–6 — North America, South America, Oceania (printed pp. 28–39, Geography); the continent geography halves of Lessons 1–3 (Geography); Unit 3 Civil Society (pp. 74–89, Civics).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/palestine-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Palestine part — Unit 2 Lesson 4: how Islamic civilisation reached Europe — story beats: Europe borrows from the Muslims through the contact points of al-Andalus, Sicily, the Frankish (Crusader) wars, trade and scholarly missions (History expansion, 2026-11-15; original placement slug: ancient-world/trade-routes-that-linked-the-old-world) | Palestine, *الدراسات الاجتماعية — الصف السابع الأساسي، الجزء الأول (Social Studies, Grade 7 Basic, Part 1)*, printed p. 66 |
+| Palestine part — Unit 2 Lesson 5: trade and the Arabised coinage — story beats: honest Muslim merchants carry Islam itself to lands no army reached, such as Indonesia and Malaysia, while Abd al-Malik's reform and Harun al-Rashid's mint-master free the coinage from Byzantine and Persian dependence — and coins are struck in Palestine bearing Ramla's name (History expansion, 2026-11-15; original placement slug: ancient-world/trade-routes-that-linked-the-old-world) | Palestine, *الدراسات الاجتماعية — الصف السابع الأساسي، الجزء الأول (Social Studies, Grade 7 Basic, Part 1)*, printed p. 71 |
+
+Palestine's own way (Book 5 — G7 Social Studies Part 1, Grade 7 (student/teacher: STUDENT)): History and geography are fused — each continent is mapped first, then the Islamic state's spread across it is traced; and the achievements unit keeps landing in Palestine: Ramla's founding, Jerusalem's walls and mosques, coins minted in Ramla, and the Nabi Musa festival where the 1920 revolt began. That way is stocked here as the way Palestine teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 8 countries (Ethiopia, Nigeria, France, Kuwait, India, Indonesia, Syria, Palestine).**
+
+Searchable tags: Palestine, Trade routes that linked the old world, ancient-world, History expansion 2026-11-15

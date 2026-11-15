@@ -1,6 +1,6 @@
 # Sources — Medieval world — the Ottomans
 
-countries: Ethiopia, Turkey, Australia, Eritrea, Montenegro, Pakistan, Bulgaria
+countries: Ethiopia, Turkey, Australia, Eritrea, Montenegro, Pakistan, Bulgaria, Palestine
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -148,3 +148,47 @@ Bulgaria's own way (Book 3 — История и цивилизации, 10. к�
 **Acceptance count: taught in 7 countries (Ethiopia, Turkey, Australia, Eritrea, Montenegro, Pakistan, Bulgaria).**
 
 Searchable tags: Bulgaria, Medieval world — the Ottomans, ancient-world, History expansion 2026-11-15
+
+---
+
+## History expansion (2026-11-15) — Palestine stocked
+
+**Book 7 — G8 Social Studies Part 1 (student book, Arabic)**
+- Title as printed: الدراسات الاجتماعية — الصف الثامن الأساسي، الجزء الأول (Social Studies, Grade 8 Basic, Part 1)
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, State of Palestine; year 2020 (third edition, 1441 AH); ISBN no ISBN printed
+- PDF pages: 104 (cover/title page verified against the record title; 2,636,740 bytes, size/SHA verified)
+- Verdict: COMPLETE
+- Tally: 7 placements — 5 to existing lessons, 2 NEW LESSON NEEDED
+- Palestine's own way: The modern era is framed as a before-and-after: a divided Arab map (Mamluks, Safavids, Portuguese) invites the Ottoman takeover, and the Ottoman centuries are then judged from Palestine itself — its sanjaks, its breakaway rulers Zahir al-Umar and al-Jazzar, and Suleiman's Jerusalem works.
+- Non-History parts named (not placed): Unit 1 A Journey in the Arab Homeland — location, terrain, climate, population, economic activities, water security (printed pp. 4–53, Geography); Unit 3 Citizenship — rights and duties, citizenship against corruption (pp. 77–90, Civics).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/palestine-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Palestine part — Unit 2 Lesson 2: the Ottoman state arises — story beats: Sulayman, grandfather of Osman, migrates from Turkmenistan to Anatolia; his son Ertugrul wins Seljuk land by fighting the Romans, and Osman inherits and founds the state on Rome's frontier (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-ottomans) | Palestine, *الدراسات الاجتماعية — الصف الثامن الأساسي، الجزء الأول (Social Studies, Grade 8 Basic, Part 1)*, printed p. 60 |
+| Palestine part — Unit 2 Lesson 2: the Ottomans take the Arab homeland — story beats: Chaldiran (1514) breaks the Safavids, Marj Dabiq (1516) takes al-Sham from the Mamluks, Ridaniya (1517) makes Egypt an Ottoman province, and the Sharif of Mecca brings the Hijaz in the same year (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-ottomans) | Palestine, *الدراسات الاجتماعية — الصف الثامن الأساسي، الجزء الأول (Social Studies, Grade 8 Basic, Part 1)*, printed p. 63 |
+| Palestine part — Unit 2 Lesson 3: the Arab homeland under Ottoman rule — story beats: the system is sultan, grand vizier, sipahi and janissary army, defterdar over finance and Shaykh al-Islam over religion; in the late era feudal iltizam, heavy taxes, fleeing peasants and unsafe roads sink the Arab economy (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-ottomans) | Palestine, *الدراسات الاجتماعية — الصف الثامن الأساسي، الجزء الأول (Social Studies, Grade 8 Basic, Part 1)*, printed p. 65 |
+
+Palestine's own way (Book 7 — G8 Social Studies Part 1, Grade 8 (student/teacher: STUDENT)): The modern era is framed as a before-and-after: a divided Arab map (Mamluks, Safavids, Portuguese) invites the Ottoman takeover, and the Ottoman centuries are then judged from Palestine itself — its sanjaks, its breakaway rulers Zahir al-Umar and al-Jazzar, and Suleiman's Jerusalem works. That way is stocked here as the way Palestine teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 8 — G8 Social Studies Part 2 (student book, Arabic)**
+- Title as printed: الدراسات الاجتماعية — الصف الثامن الأساسي، الجزء الثاني (Social Studies, Grade 8 Basic, Part 2)
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, State of Palestine; year 2020 (third edition, 1441 AH); ISBN no ISBN printed
+- PDF pages: 96 (cover/title page verified against the record title; 31,768,663 bytes, size/SHA verified)
+- Verdict: COMPLETE
+- Tally: 14 placements — 14 to existing lessons, 0 NEW LESSON NEEDED
+- Palestine's own way: World history is taught as the run-up to Palestine's own colonisation: the Renaissance is credited partly to Arab-Islamic civilisation, the discoveries are shown draining Mamluk ports, and Napoleon's campaign is followed street by street through Cairo's revolts and Acre's two-month stand.
+- Non-History parts named (not placed): Unit 6 Gender (social type) and Violence (pp. 73–90, Civics).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/palestine-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Palestine part — Unit 5 Lesson 4: the end of Ottoman rule — story beats: weakness piles up — European colonial penetration, the Committee of Union and Progress's Turkification from 1908, and foreign capitulations; Germany becomes the ally (Berlin–Baghdad and Hijaz railways, with Daraa–Haifa and Jerusalem–Jaffa lines in Palestine), the empire fights the First World War beside the Central Powers, and defeat brings Sèvres, the Paris settlement backing the mandate and Zionism, and the fall of the last caliphate (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-ottomans) | Palestine, *الدراسات الاجتماعية — الصف الثامن الأساسي، الجزء الثاني (Social Studies, Grade 8 Basic, Part 2)*, printed p. 68 |
+
+Palestine's own way (Book 8 — G8 Social Studies Part 2, Grade 8 (student/teacher: STUDENT)): World history is taught as the run-up to Palestine's own colonisation: the Renaissance is credited partly to Arab-Islamic civilisation, the discoveries are shown draining Mamluk ports, and Napoleon's campaign is followed street by street through Cairo's revolts and Acre's two-month stand. That way is stocked here as the way Palestine teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 8 countries (Ethiopia, Turkey, Australia, Eritrea, Montenegro, Pakistan, Bulgaria, Palestine).**
+
+Searchable tags: Palestine, Medieval world — the Ottomans, ancient-world, History expansion 2026-11-15

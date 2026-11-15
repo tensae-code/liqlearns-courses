@@ -1,6 +1,6 @@
 # Sources — Exploration — causes and results
 
-countries: Ethiopia, United States, Guatemala, Costa Rica, Kuwait, Fiji, Indonesia, Montenegro, Dominican Republic, Suriname
+countries: Ethiopia, United States, Guatemala, Costa Rica, Kuwait, Fiji, Indonesia, Montenegro, Dominican Republic, Suriname, Palestine
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 125).
 
@@ -200,3 +200,29 @@ Suriname's own way (Book 6 — Wij en ons verleden — Nieuwe Editie, 7, Grade 7
 Suriname's own way (Book 7 — Leerkrachtenboek — Wij en ons verleden, Nieuwe Editie, 7, Grade 7 (student/teacher: TEACHER)): The guide mirrors the student book's 8 themes and adds the full teaching apparatus: lesson goals per lesson, a didactic model with differentiation and 21st-century skills, copy sheets, and quarterly projects (wall newspaper, collage, researcher, object table; local-environment history, quartet card game, drama; museum visit, monument artwork, world map, timeline) — history is explicitly taught to form citizenship for Suriname, the Caricom community and the world. That way is stocked here as the way Suriname teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 10 countries (Ethiopia, United States, Guatemala, Costa Rica, Kuwait, Fiji, Indonesia, Montenegro, Dominican Republic, Suriname).**
+
+---
+
+## History expansion (2026-11-15) — Palestine stocked
+
+**Book 8 — G8 Social Studies Part 2 (student book, Arabic)**
+- Title as printed: الدراسات الاجتماعية — الصف الثامن الأساسي، الجزء الثاني (Social Studies, Grade 8 Basic, Part 2)
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, State of Palestine; year 2020 (third edition, 1441 AH); ISBN no ISBN printed
+- PDF pages: 96 (cover/title page verified against the record title; 31,768,663 bytes, size/SHA verified)
+- Verdict: COMPLETE
+- Tally: 14 placements — 14 to existing lessons, 0 NEW LESSON NEEDED
+- Palestine's own way: World history is taught as the run-up to Palestine's own colonisation: the Renaissance is credited partly to Arab-Islamic civilisation, the discoveries are shown draining Mamluk ports, and Napoleon's campaign is followed street by street through Cairo's revolts and Acre's two-month stand.
+- Non-History parts named (not placed): Unit 6 Gender (social type) and Violence (pp. 73–90, Civics).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/palestine-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Palestine part — Unit 4 Lesson 2: the geographical discoveries — story beats: Portugal sails east — Diaz rounds the Cape of Good Hope and da Gama reaches India guided by the Arab pilot Ahmad ibn Majid — while Spain sails west with Columbus to San Salvador and Cuba, and Magellan's voyage circles the world (History expansion, 2026-11-15; original placement slug: modern-world/exploration-and-the-first-global-age) | Palestine, *الدراسات الاجتماعية — الصف الثامن الأساسي، الجزء الثاني (Social Studies, Grade 8 Basic, Part 2)*, printed p. 12 |
+| Palestine part — Unit 4 Lesson 2: results of the discoveries — story beats: world trade's centre shifts from Mediterranean ports to Atlantic ones; the Arab ports of Mamluk Egypt and al-Sham, and Venice with them, decline as the Cape route takes the India trade (History expansion, 2026-11-15; original placement slug: modern-world/exploration-and-the-first-global-age) | Palestine, *الدراسات الاجتماعية — الصف الثامن الأساسي، الجزء الثاني (Social Studies, Grade 8 Basic, Part 2)*, printed p. 18 |
+
+Palestine's own way (Book 8 — G8 Social Studies Part 2, Grade 8 (student/teacher: STUDENT)): World history is taught as the run-up to Palestine's own colonisation: the Renaissance is credited partly to Arab-Islamic civilisation, the discoveries are shown draining Mamluk ports, and Napoleon's campaign is followed street by street through Cairo's revolts and Acre's two-month stand. That way is stocked here as the way Palestine teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 11 countries (Ethiopia, United States, Guatemala, Costa Rica, Kuwait, Fiji, Indonesia, Montenegro, Dominican Republic, Suriname, Palestine).**
+
+Searchable tags: Palestine, Exploration — causes and results, modern-world, History expansion 2026-11-15

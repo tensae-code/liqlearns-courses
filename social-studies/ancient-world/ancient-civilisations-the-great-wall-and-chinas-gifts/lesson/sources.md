@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — the Great Wall and China's gifts
 
-countries: Ethiopia, Australia, India, Pakistan
+countries: Ethiopia, Australia, India, Pakistan, Palestine
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 6, placements 92–106).
 
@@ -53,3 +53,28 @@ Pakistan's own way (History 6 (PCTB, SNC 2022), Grade 6 / Class 6 (student/teach
 **Acceptance count: taught in 4 countries (Ethiopia, Australia, India, Pakistan).**
 
 Searchable tags: Pakistan, Ancient civilisations — the Great Wall and China's gifts, ancient-world, History expansion 2026-11-15
+
+---
+
+## History expansion (2026-11-15) — Palestine stocked
+
+**Book 2 — G5 Social Studies Part 2 (student book, Arabic)**
+- Title as printed: الدراسات الاجتماعية — الصف الخامس الأساسي، الجزء الثاني (Social Studies, Grade 5 Basic, Part 2)
+- Grade: 5 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, State of Palestine; year 2020 (third edition); ISBN no ISBN printed
+- PDF pages: 96 (cover/title page verified against the record title; file verified complete — byte size 22,801,057 and git blob SHA matched the repo record after grab.py's blob route failed twice with IncompleteRead and a curl raw route was used)
+- Verdict: COMPLETE
+- Tally: 12 placements — 10 to existing lessons, 2 NEW LESSON NEEDED
+- Palestine's own way: Settlement is told as one long Palestinian story — farming, villages and cities grow out of the Fertile Crescent, and the same village story runs unbroken to 1948, when over 500 villages were destroyed and their people made refugees.
+- Non-History parts named (not placed): Unit 5 Lessons 1 and 4 — social relations and political relations/UN (printed pp. 48–54, 70–75, Civics); Unit 6 The Safe Society — crossing the road safely, children's rights (pp. 76–91, Civics).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/palestine-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Palestine part — Unit 4 Lesson 6: ancient landmarks — the Great Wall of China — story beats: the Great Wall is named among the ancient world's civilisation landmarks pupils must know, beside Petra and the Roman theatre at Sebastia in Palestine (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-the-great-wall-and-chinas-gifts) | Palestine, *الدراسات الاجتماعية — الصف الخامس الأساسي، الجزء الثاني (Social Studies, Grade 5 Basic, Part 2)*, printed p. 42 |
+
+Palestine's own way (Book 2 — G5 Social Studies Part 2, Grade 5 (student/teacher: STUDENT)): Settlement is told as one long Palestinian story — farming, villages and cities grow out of the Fertile Crescent, and the same village story runs unbroken to 1948, when over 500 villages were destroyed and their people made refugees. That way is stocked here as the way Palestine teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 5 countries (Ethiopia, Australia, India, Pakistan, Palestine).**
+
+Searchable tags: Palestine, Ancient civilisations — the Great Wall and China's gifts, ancient-world, History expansion 2026-11-15

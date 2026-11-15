@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — Mesopotamia
 
-countries: Ethiopia, Poland, Turkey, Bangladesh, Costa Rica, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Iran, Cambodia
+countries: Ethiopia, Poland, Turkey, Bangladesh, Costa Rica, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Iran, Cambodia, Palestine
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -276,3 +276,64 @@ Cambodia's own way (Book 8 — សិក្សាសង្គម ថ្នាក
 **Acceptance count: taught in 14 countries (Ethiopia, Poland, Turkey, Bangladesh, Costa Rica, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Iran, Cambodia).**
 
 Searchable tags: Cambodia, Ancient civilisations — Mesopotamia, ancient-world, History expansion 2026-11-15
+
+---
+
+## History expansion (2026-11-15) — Palestine stocked
+
+**Book 1 — G5 Social Studies Part 1 (student book, Arabic)**
+- Title as printed: الدراسات الاجتماعية — الصف الخامس الأساسي، الجزء الأول (Social Studies, Grade 5 Basic, Part 1)
+- Grade: 5 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, State of Palestine; year 2020 (third edition; adopted for schools from 2017/2018); ISBN no ISBN printed
+- PDF pages: 92 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 7 placements — 7 to existing lessons, 0 NEW LESSON NEEDED
+- Palestine's own way: History begins as the story of the first humans, told through pictures and "I learned" summaries, and is immediately rooted in Palestine itself — Natufian caves, Jericho, and living Bedouin and embroidered-dress heritage as the present-day tail of the ancient story.
+- Non-History parts named (not placed): Unit 1 Planet Earth — Earth's shape and movements, surface, conditions for life, natural and human disasters (printed pp. 2–39, Geography); Unit 3 The Society We Live In — the Palestinian family, the state (pp. 72–86, Civics).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/palestine-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Palestine part — Unit 2 Lesson 5: communication between people, from drawings to cuneiform — story beats: early humans signal with grunts, gestures, drawings and fire-smoke, and writing arrives with the Sumerian cuneiform the lesson names, before pigeons, telegraph and telephone carry messages further (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-mesopotamia) | Palestine, *الدراسات الاجتماعية — الصف الخامس الأساسي، الجزء الأول (Social Studies, Grade 5 Basic, Part 1)*, printed p. 65 |
+
+Palestine's own way (Book 1 — G5 Social Studies Part 1, Grade 5 (student/teacher: STUDENT)): History begins as the story of the first humans, told through pictures and "I learned" summaries, and is immediately rooted in Palestine itself — Natufian caves, Jericho, and living Bedouin and embroidered-dress heritage as the present-day tail of the ancient story. That way is stocked here as the way Palestine teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 2 — G5 Social Studies Part 2 (student book, Arabic)**
+- Title as printed: الدراسات الاجتماعية — الصف الخامس الأساسي، الجزء الثاني (Social Studies, Grade 5 Basic, Part 2)
+- Grade: 5 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, State of Palestine; year 2020 (third edition); ISBN no ISBN printed
+- PDF pages: 96 (cover/title page verified against the record title; file verified complete — byte size 22,801,057 and git blob SHA matched the repo record after grab.py's blob route failed twice with IncompleteRead and a curl raw route was used)
+- Verdict: COMPLETE
+- Tally: 12 placements — 10 to existing lessons, 2 NEW LESSON NEEDED
+- Palestine's own way: Settlement is told as one long Palestinian story — farming, villages and cities grow out of the Fertile Crescent, and the same village story runs unbroken to 1948, when over 500 villages were destroyed and their people made refugees.
+- Non-History parts named (not placed): Unit 5 Lessons 1 and 4 — social relations and political relations/UN (printed pp. 48–54, 70–75, Civics); Unit 6 The Safe Society — crossing the road safely, children's rights (pp. 76–91, Civics).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/palestine-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Palestine part — Unit 4 Lesson 6: rise of states — Babylonian and Assyrian civilisations — story beats: the lesson's own test asks where the Babylonian and Assyrian civilisations rose — in Iraq, the Mesopotamian heartland of early states (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-mesopotamia) | Palestine, *الدراسات الاجتماعية — الصف الخامس الأساسي، الجزء الثاني (Social Studies, Grade 5 Basic, Part 2)*, printed p. 40 |
+| Palestine part — Unit 5 Lesson 3: the invention of writing — cuneiform in Iraq — story beats: in Iraq scribes press cuneiform wedges, a second ancient script the lesson sets beside Egypt's pictures (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-mesopotamia) | Palestine, *الدراسات الاجتماعية — الصف الخامس الأساسي، الجزء الثاني (Social Studies, Grade 5 Basic, Part 2)*, printed p. 66 |
+
+Palestine's own way (Book 2 — G5 Social Studies Part 2, Grade 5 (student/teacher: STUDENT)): Settlement is told as one long Palestinian story — farming, villages and cities grow out of the Fertile Crescent, and the same village story runs unbroken to 1948, when over 500 villages were destroyed and their people made refugees. That way is stocked here as the way Palestine teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 3 — G6 Social Studies Part 1 (student book, Arabic)**
+- Title as printed: الدراسات الاجتماعية — الصف السادس الأساسي، الجزء الأول (Social Studies, Grade 6 Basic, Part 1)
+- Grade: 6 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, State of Palestine; year 2020 (third edition, 1441 AH); ISBN no ISBN printed
+- PDF pages: 96 (cover/title page verified against the record title; 1,796,736 bytes, size/SHA verified)
+- Verdict: COMPLETE
+- Tally: 14 placements — 10 to existing lessons, 4 NEW LESSON NEEDED
+- Palestine's own way: Grade 6 opens with method — what history is and where knowledge of it comes from — then walks the ancient civilisations region by region around the Arab homeland, always ending each story back in Palestine: Canaanite cities, stolen antiquities, and the 1948 displacement.
+- Non-History parts named (not placed): Unit 1 Lesson 1 — sources of geographical knowledge (printed pp. 4–15, Geography); Unit 3 Law and Order Protect Our Rights and Duties — constitution and political authorities, human rights (pp. 76–90, Civics).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/palestine-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Palestine part — Unit 2 Lesson 4: Iraq (Land of the Two Rivers) — the Sumerians — story beats: between Tigris and Euphrates the Sumerians raise great cities like Ur, invent the plough and press cuneiform into clay tablets with square-headed pens (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-mesopotamia) | Palestine, *الدراسات الاجتماعية — الصف السادس الأساسي، الجزء الأول (Social Studies, Grade 6 Basic, Part 1)*, printed p. 61 |
+| Palestine part — Unit 2 Lesson 4: Babylonians, Assyrians and Amorites — story beats: Amorite tribes settle and take Babylon, Chaldean king Nebuchadnezzar rules from it, and the Assyrians move their capital from Ashur to Nineveh under Sennacherib, decorating palace gates with giant winged animals (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-mesopotamia) | Palestine, *الدراسات الاجتماعية — الصف السادس الأساسي، الجزء الأول (Social Studies, Grade 6 Basic, Part 1)*, printed p. 61 |
+
+Palestine's own way (Book 3 — G6 Social Studies Part 1, Grade 6 (student/teacher: STUDENT)): Grade 6 opens with method — what history is and where knowledge of it comes from — then walks the ancient civilisations region by region around the Arab homeland, always ending each story back in Palestine: Canaanite cities, stolen antiquities, and the 1948 displacement. That way is stocked here as the way Palestine teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 15 countries (Ethiopia, Poland, Turkey, Bangladesh, Costa Rica, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Iran, Cambodia, Palestine).**
+
+Searchable tags: Palestine, Ancient civilisations — Mesopotamia, ancient-world, History expansion 2026-11-15

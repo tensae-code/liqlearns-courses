@@ -1,6 +1,6 @@
 # Sources — European colonialism — what it is, what feeds it, its forms
 
-countries: Kuwait, Egypt
+countries: Kuwait, Egypt, Palestine
 
 **Book 13:** *تاريخ العالم الحديث والمعاصر — الصف الثاني عشر الأدبي، الفصل الدراسي الأول (History of the Modern and Contemporary World, Grade 12 Literary track, Term 1)* (student book, Arabic) — Kuwait. Title as printed: تاريخ العالم الحديث والمعاصر — الصف الثاني عشر الأدبي، الفصل الدراسي الأول (History of the Modern and Contemporary World, Grade 12 Literary track, Term 1) — cover verified visually. Grade: 12 (student/teacher: STUDENT). Publisher: Ministry of Education, Kuwait; no ISBN printed in the front matter. PDF pages: 78 (cover verified against the record title; grabbed via the TSV release record, 31,070,195 bytes, matching the books.json record size exactly; read from the printed contents and page renders — the text layer is font-garbled). Verdict: COMPLETE — Chapters 1–4 of the six-chapter modern-world course. Tally: 14 placements — 9 to existing lessons, 5 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/kuwait-placements.md.
 
@@ -35,3 +35,28 @@ Egypt's own way (Prep7 T2 "Africa and Egypt", Grade 7 (First Preparatory), Term 
 Egypt's own way (Sec12 "History of Egypt and the Arabs, Modern and Contemporary", Grade 12 (Third Secondary, Literary section) (student/teacher: STUDENT)): the final-year course is a university-style narrative (its chief author is a professor of modern history) — Egypt's two centuries told in depth, then the whole Arab world's colonisation and liberation, ending with the two revolutions of the pupils' own lifetimes. That way is stocked here as the way Egypt teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 2 countries (Kuwait, Egypt).**
+
+---
+
+## History expansion (2026-11-15) — Palestine stocked
+
+**Book 8 — G8 Social Studies Part 2 (student book, Arabic)**
+- Title as printed: الدراسات الاجتماعية — الصف الثامن الأساسي، الجزء الثاني (Social Studies, Grade 8 Basic, Part 2)
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, State of Palestine; year 2020 (third edition, 1441 AH); ISBN no ISBN printed
+- PDF pages: 96 (cover/title page verified against the record title; 31,768,663 bytes, size/SHA verified)
+- Verdict: COMPLETE
+- Tally: 14 placements — 14 to existing lessons, 0 NEW LESSON NEEDED
+- Palestine's own way: World history is taught as the run-up to Palestine's own colonisation: the Renaissance is credited partly to Arab-Islamic civilisation, the discoveries are shown draining Mamluk ports, and Napoleon's campaign is followed street by street through Cairo's revolts and Acre's two-month stand.
+- Non-History parts named (not placed): Unit 6 Gender (social type) and Violence (pp. 73–90, Civics).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/palestine-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Palestine part — Unit 5 Lesson 1: European colonialism in the Arab homeland — story beats: colonialism is defined as seizing land by force, plundering its wealth and enslaving its people; its shared motives are markets and raw materials (Britain forcing Egypt to grow cotton) and strategic positions, and its forms run from military occupation and settlement to protectorate (France in Tunisia, 1883), mandate after the First World War, economic control (the Suez Canal) and cultural invasion (History expansion, 2026-11-15; original placement slug: modern-world/colonialism-and-its-end) | Palestine, *الدراسات الاجتماعية — الصف الثامن الأساسي، الجزء الثاني (Social Studies, Grade 8 Basic, Part 2)*, printed p. 49 |
+
+Palestine's own way (Book 8 — G8 Social Studies Part 2, Grade 8 (student/teacher: STUDENT)): World history is taught as the run-up to Palestine's own colonisation: the Renaissance is credited partly to Arab-Islamic civilisation, the discoveries are shown draining Mamluk ports, and Napoleon's campaign is followed street by street through Cairo's revolts and Acre's two-month stand. That way is stocked here as the way Palestine teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 3 countries (Kuwait, Egypt, Palestine).**
+
+Searchable tags: Palestine, European colonialism — what it is, what feeds it, its forms, modern-world, History expansion 2026-11-15

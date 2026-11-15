@@ -1,6 +1,6 @@
 # Sources — Mamluk Egypt
 
-countries: Ethiopia, Egypt
+countries: Ethiopia, Egypt, Palestine
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -30,3 +30,46 @@ Searchable tags: mamluk, egypt, Grade 11 History, Unit 5 — Peoples and States 
 Egypt's own way (Sec11 "Egypt and Islamic Civilisation", Grade 11 (Second Secondary) (student/teacher: STUDENT)): Islamic history told with Egypt at its centre — Arabia and the Prophet first, then the conquests, then the long Egyptian story from Amr's conquest through Tulunids, Fatimids, Ayyubids and Mamluks, closing with the civilisation's systems and gifts; the introduction quotes Gustave Le Bon on Europe's debt to Arab civilisation. That way is stocked here as the way Egypt teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 2 countries (Ethiopia, Egypt).**
+
+---
+
+## History expansion (2026-11-15) — Palestine stocked
+
+**Book 6 — G7 Social Studies Part 2 (student book, Arabic)**
+- Title as printed: الدراسات الاجتماعية — الصف السابع الأساسي، الجزء الثاني (Social Studies, Grade 7 Basic, Part 2)
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, State of Palestine; year 2020 (third edition, 1441 AH); ISBN no ISBN printed
+- PDF pages: 76 (cover/title page verified against the record title; 13,990,646 bytes, size/SHA verified)
+- Verdict: COMPLETE
+- Tally: 11 placements — 6 to existing lessons, 5 NEW LESSON NEEDED
+- Palestine's own way: Decline is taught as diagnosis — internal rot first, then the Frankish and Mongol storms — and the decisive battles are deliberately the ones fought on Palestinian soil: Hattin, Jerusalem's liberation, and Ain Jalut above Beisan.
+- Non-History parts named (not placed): Unit 5 The Islamic World Lessons 1–2 and the geography halves of Lesson 3 (printed pp. 32–45, Geography); Unit 6 Human Rights — human rights in wars, international humanitarian law (pp. 54–75, Civics/Law).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/palestine-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Palestine part — Unit 4 Lesson 2: the Mamluks defend the Islamic state — story beats: slave-soldiers bought young by the Ayyubid sultans rise to rule Egypt and al-Sham, restore the Abbasid caliphate in Cairo after Baghdad's fall, and Sultan al-Ashraf Khalil ibn Qalawun expels the last Franks from Acre in 690 AH / 1291 CE, freeing Palestine for good (History expansion, 2026-11-15; original placement slug: africa-to-1500/mamluk-egypt) | Palestine, *الدراسات الاجتماعية — الصف السابع الأساسي، الجزء الثاني (Social Studies, Grade 7 Basic, Part 2)*, printed p. 16 |
+| Palestine part — Unit 4 Lesson 3: the Battle of Ain Jalut — story beats: Hulagu's Mongols take Damascus, Aleppo and Hama and threaten Egypt; Sultan Qutuz, with Baybars scouting ahead, meets them at Ain Jalut north-west of Beisan in Palestine and breaks the Mongol advance (History expansion, 2026-11-15; original placement slug: africa-to-1500/mamluk-egypt) | Palestine, *الدراسات الاجتماعية — الصف السابع الأساسي، الجزء الثاني (Social Studies, Grade 7 Basic, Part 2)*, printed p. 24 |
+
+Palestine's own way (Book 6 — G7 Social Studies Part 2, Grade 7 (student/teacher: STUDENT)): Decline is taught as diagnosis — internal rot first, then the Frankish and Mongol storms — and the decisive battles are deliberately the ones fought on Palestinian soil: Hattin, Jerusalem's liberation, and Ain Jalut above Beisan. That way is stocked here as the way Palestine teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 7 — G8 Social Studies Part 1 (student book, Arabic)**
+- Title as printed: الدراسات الاجتماعية — الصف الثامن الأساسي، الجزء الأول (Social Studies, Grade 8 Basic, Part 1)
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, State of Palestine; year 2020 (third edition, 1441 AH); ISBN no ISBN printed
+- PDF pages: 104 (cover/title page verified against the record title; 2,636,740 bytes, size/SHA verified)
+- Verdict: COMPLETE
+- Tally: 7 placements — 5 to existing lessons, 2 NEW LESSON NEEDED
+- Palestine's own way: The modern era is framed as a before-and-after: a divided Arab map (Mamluks, Safavids, Portuguese) invites the Ottoman takeover, and the Ottoman centuries are then judged from Palestine itself — its sanjaks, its breakaway rulers Zahir al-Umar and al-Jazzar, and Suleiman's Jerusalem works.
+- Non-History parts named (not placed): Unit 1 A Journey in the Arab Homeland — location, terrain, climate, population, economic activities, water security (printed pp. 4–53, Geography); Unit 3 Citizenship — rights and duties, citizenship against corruption (pp. 77–90, Civics).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/palestine-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Palestine part — Unit 2 Lesson 1: the powers ruling the Arab homeland before the Ottomans — story beats: three powers divide the map — Mamluks in Egypt, al-Sham and the Hijaz, Safavids in Iraq, Portuguese seizing Muscat, Bahrain and Hormuz — with local families in North Africa, and the lesson retells who the Mamluks were through the Ain Jalut campaign map (History expansion, 2026-11-15; original placement slug: africa-to-1500/mamluk-egypt) | Palestine, *الدراسات الاجتماعية — الصف الثامن الأساسي، الجزء الأول (Social Studies, Grade 8 Basic, Part 1)*, printed p. 54 |
+
+Palestine's own way (Book 7 — G8 Social Studies Part 1, Grade 8 (student/teacher: STUDENT)): The modern era is framed as a before-and-after: a divided Arab map (Mamluks, Safavids, Portuguese) invites the Ottoman takeover, and the Ottoman centuries are then judged from Palestine itself — its sanjaks, its breakaway rulers Zahir al-Umar and al-Jazzar, and Suleiman's Jerusalem works. That way is stocked here as the way Palestine teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 3 countries (Ethiopia, Egypt, Palestine).**
+
+Searchable tags: Palestine, Mamluk Egypt, africa-to-1500, History expansion 2026-11-15

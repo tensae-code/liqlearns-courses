@@ -1,6 +1,6 @@
 # Sources — The Industrial Revolution — what changed and why England first
 
-countries: Ethiopia, Brazil, Costa Rica, Australia, Ecuador, Kuwait, Fiji, Montenegro, Dominican Republic
+countries: Ethiopia, Brazil, Costa Rica, Australia, Ecuador, Kuwait, Fiji, Montenegro, Dominican Republic, Palestine
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 130).
 
@@ -176,3 +176,28 @@ Dominican Republic's own way (Ciencias Sociales, Sexto Grado — Proyecto Libro 
 Bolivia's own way (Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Secundaria Comunitaria Productiva, Área Ciencias Sociales, teacher guide): The teachers' compendium binds the whole six-year Ciencias Sociales course in one volume: teachers hold the full arc — Abya Yala's civilisations, colony, independence (with its revisionist debate and its women), oligarchic republic, Chaco, 1952, dictatorships, neoliberalism and the democratic-cultural revolution — framed throughout by decolonisation ("breaking the mental structures that think there are superior thoughts") and Vivir Bien. That way is stocked here as the way Bolivia teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 9 countries (Ethiopia, Brazil, Costa Rica, Australia, Ecuador, Kuwait, Fiji, Montenegro, Dominican Republic) — unchanged; the Bolivia placement(s) above stand on the teacher compendium only, cited as evidence only, counted nowhere. Bolivia is not added to this lesson's countries line.**
+
+---
+
+## History expansion (2026-11-15) — Palestine stocked
+
+**Book 8 — G8 Social Studies Part 2 (student book, Arabic)**
+- Title as printed: الدراسات الاجتماعية — الصف الثامن الأساسي، الجزء الثاني (Social Studies, Grade 8 Basic, Part 2)
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, State of Palestine; year 2020 (third edition, 1441 AH); ISBN no ISBN printed
+- PDF pages: 96 (cover/title page verified against the record title; 31,768,663 bytes, size/SHA verified)
+- Verdict: COMPLETE
+- Tally: 14 placements — 14 to existing lessons, 0 NEW LESSON NEEDED
+- Palestine's own way: World history is taught as the run-up to Palestine's own colonisation: the Renaissance is credited partly to Arab-Islamic civilisation, the discoveries are shown draining Mamluk ports, and Napoleon's campaign is followed street by street through Cairo's revolts and Acre's two-month stand.
+- Non-History parts named (not placed): Unit 6 Gender (social type) and Violence (pp. 73–90, Civics).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/palestine-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Palestine part — Unit 4 Lesson 3: the Industrial Revolution — story beats: from the later 1700s Britain replaces hand work with water- and steam-driven machines, helped by post-1688 political stability, capital, coal, cheap labour and empire; the revolution spreads to France, Germany, Italy and North America (History expansion, 2026-11-15; original placement slug: modern-world/the-industrial-revolution-what-changed) | Palestine, *الدراسات الاجتماعية — الصف الثامن الأساسي، الجزء الثاني (Social Studies, Grade 8 Basic, Part 2)*, printed p. 21 |
+
+Palestine's own way (Book 8 — G8 Social Studies Part 2, Grade 8 (student/teacher: STUDENT)): World history is taught as the run-up to Palestine's own colonisation: the Renaissance is credited partly to Arab-Islamic civilisation, the discoveries are shown draining Mamluk ports, and Napoleon's campaign is followed street by street through Cairo's revolts and Acre's two-month stand. That way is stocked here as the way Palestine teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 10 countries (Ethiopia, Brazil, Costa Rica, Australia, Ecuador, Kuwait, Fiji, Montenegro, Dominican Republic, Palestine).**
+
+Searchable tags: Palestine, The Industrial Revolution — what changed and why England first, modern-world, History expansion 2026-11-15

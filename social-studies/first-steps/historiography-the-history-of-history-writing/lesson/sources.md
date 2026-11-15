@@ -1,6 +1,6 @@
 # Sources — Historiography — history of history-writing
 
-countries: Ethiopia, Gambia, Bangladesh, Ecuador, Indonesia, Dominican Republic, United Kingdom, Bolivia, Iran
+countries: Ethiopia, Gambia, Bangladesh, Ecuador, Indonesia, Dominican Republic, United Kingdom, Bolivia, Iran, Palestine
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -180,3 +180,28 @@ Iran's own way (Book 4 — History 3, Grade 12 (student book, Persian)): the Hum
 **Acceptance count: taught in 9 countries (Ethiopia, Gambia, Bangladesh, Ecuador, Indonesia, Dominican Republic, United Kingdom, Bolivia, Iran).**
 
 Searchable tags: Iran, Historiography — history of history-writing, first-steps, History expansion 2026-11-15
+
+---
+
+## History expansion (2026-11-15) — Palestine stocked
+
+**Book 5 — G7 Social Studies Part 1 (student book, Arabic)**
+- Title as printed: الدراسات الاجتماعية — الصف السابع الأساسي، الجزء الأول (Social Studies, Grade 7 Basic, Part 1)
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, State of Palestine; year 2020 (third edition, 1441 AH); ISBN no ISBN printed
+- PDF pages: 100 (cover/title page verified against the record title; 2,492,248 bytes, size/SHA verified)
+- Verdict: COMPLETE
+- Tally: 14 placements — 13 to existing lessons, 1 NEW LESSON NEEDED
+- Palestine's own way: History and geography are fused — each continent is mapped first, then the Islamic state's spread across it is traced; and the achievements unit keeps landing in Palestine: Ramla's founding, Jerusalem's walls and mosques, coins minted in Ramla, and the Nabi Musa festival where the 1920 revolt began.
+- Non-History parts named (not placed): Unit 1 Lessons 4–6 — North America, South America, Oceania (printed pp. 28–39, Geography); the continent geography halves of Lessons 1–3 (Geography); Unit 3 Civil Society (pp. 74–89, Civics).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/palestine-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Palestine part — Unit 2 Lesson 4: Muslims write history and geography — story beats: Muslims begin by writing the Prophet's sira and campaigns, then produce al-Tabari's History of Nations and Kings, al-Ya'qubi's history, Yaqut's Mu'jam al-Buldan and al-Idrisi's world map — and Abd al-Hamid al-Katib's letter is read as a founding text of Arabic prose (History expansion, 2026-11-15; original placement slug: first-steps/historiography-the-history-of-history-writing) | Palestine, *الدراسات الاجتماعية — الصف السابع الأساسي، الجزء الأول (Social Studies, Grade 7 Basic, Part 1)*, printed p. 64 |
+
+Palestine's own way (Book 5 — G7 Social Studies Part 1, Grade 7 (student/teacher: STUDENT)): History and geography are fused — each continent is mapped first, then the Islamic state's spread across it is traced; and the achievements unit keeps landing in Palestine: Ramla's founding, Jerusalem's walls and mosques, coins minted in Ramla, and the Nabi Musa festival where the 1920 revolt began. That way is stocked here as the way Palestine teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 10 countries (Ethiopia, Gambia, Bangladesh, Ecuador, Indonesia, Dominican Republic, United Kingdom, Bolivia, Iran, Palestine).**
+
+Searchable tags: Palestine, Historiography — history of history-writing, first-steps, History expansion 2026-11-15

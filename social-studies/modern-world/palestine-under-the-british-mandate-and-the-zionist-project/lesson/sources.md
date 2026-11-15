@@ -1,6 +1,6 @@
 # Sources — Palestine under the British Mandate and the Zionist project
 
-countries: Egypt, Syria
+countries: Egypt, Syria, Palestine
 
 **Book 6:** *الدراسات الاجتماعية — جغرافية العالم وتاريخ مصر الحديث والمعاصر (Social Studies — Geography of the World and Modern and Contemporary History of Egypt)* (student book, Arabic) — Egypt. Grade: Grade 9 (Third Preparatory), both terms in one volume (student book). Publisher: Ministry of Education and Technical Education, Egypt (Central Administration for Curriculum Development; General Administration for Textbooks); printed 2025/2026; ISBN: no ISBN printed in the front matter. PDF pages: 186 (read in place from phase3-staging; image-only scan read as 4-up page sheets; all History units of both terms read, Geography units identified from the contents). Note: this is the older-curriculum full-year book, a different book from Book 5 (the new-curriculum Term 1 volume), covering some of the same ground in its own treatment. Verdict: COMPLETE (History parts). Tally: 13 placements — 0 to existing lessons, 13 NEW LESSON NEEDED. Non-History parts (named, not placed): Term 1 Units 1–2 (physical geography of the world — continents, terrain, climate and natural vegetation; population geography — human races, population distribution and characteristics) and Term 2 Units 1–2 (resources and economic activities in the world; models of developing and advanced countries — India, Brazil, Nigeria, Germany, the USA), plus Term 2 Unit 4 Lesson 2 (Egypt and the regional and international organisations) — Geography/Civics. Placements at liqlearns-courses-work/expansion-history-2026-11-15/egypt-placements.md.
 
@@ -31,3 +31,28 @@ Searchable tags: Egypt, Palestine under the British Mandate and the Zionist proj
 Syria's own way (التاريخ — الصف التاسع (History, Grade 9), Grade 9 (student/teacher: STUDENT)): the whole modern history of the Arab world is taught from Damascus outward — Syria's own road from the Arab government of 1918 through Maysalun, the Great Revolt and independence to the 2011 revolution and the fall of the regime on 8 December 2024 is the spine, and every other Arab country's struggle is told in the same frame of occupation, resistance and independence. That way is stocked here as the way Syria teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 2 countries (Egypt, Syria).**
+
+---
+
+## History expansion (2026-11-15) — Palestine stocked
+
+**Book 11 — G10 Geography and Modern & Contemporary History of Palestine Part 1 (student book, Arabic)**
+- Title as printed: جغرافية فلسطين وتاريخها الحديث والمعاصر — الصف العاشر الأساسي، الجزء الأول (Geography of Palestine and its Modern and Contemporary History, Grade 10 Basic, Part 1)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, State of Palestine; year 2020 (third edition, 1441 AH); ISBN no ISBN printed
+- PDF pages: 132 (cover/title page verified against the record title; 2,828,806 bytes, size/SHA verified)
+- Verdict: COMPLETE
+- Tally: 10 placements — 1 to an existing lesson, 9 NEW LESSON NEEDED
+- Palestine's own way: Grade 10 is a dedicated national-history course: Palestine is followed year by year from the Tanzimat through the Mandate to the 1947 partition resolution, with the documents (Basel 1897, Hussein–McMahon, Sykes–Picot, Balfour, Resolution 181) treated as the plot points of one continuous story.
+- Non-History parts named (not placed): Unit 1 The Land of Palestine — location and borders, terrain, climate, biodiversity, Palestinian cities (printed pp. 2–65, Geography).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/palestine-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Palestine part — Unit 3 Lesson 1: the British administration 1917–1922 — story beats: military rule gives way to civil administration in 1920; at San Remo the mandate is drafted and the League of Nations' instrument writes the Jewish national home into law over Palestinian protests and revolts; the Zionist Herbert Samuel becomes first High Commissioner and staffs the judiciary, trade, agriculture and immigration departments with Zionists and their sympathisers (History expansion, 2026-11-15; original placement slug: modern-world/palestine-from-montefiore-to-the-nakba-settlement-and-1948) | Palestine, *جغرافية فلسطين وتاريخها الحديث والمعاصر — الصف العاشر الأساسي، الجزء الأول (Geography of Palestine and its Modern and Contemporary History, Grade 10 Basic, Part 1)*, printed p. 98 |
+
+Palestine's own way (Book 11 — G10 Geography and Modern & Contemporary History of Palestine Part 1, Grade 10 (student/teacher: STUDENT)): Grade 10 is a dedicated national-history course: Palestine is followed year by year from the Tanzimat through the Mandate to the 1947 partition resolution, with the documents (Basel 1897, Hussein–McMahon, Sykes–Picot, Balfour, Resolution 181) treated as the plot points of one continuous story. That way is stocked here as the way Palestine teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 3 countries (Egypt, Syria, Palestine).**
+
+Searchable tags: Palestine, Palestine under the British Mandate and the Zionist project, modern-world, History expansion 2026-11-15

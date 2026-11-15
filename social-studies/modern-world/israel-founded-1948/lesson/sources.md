@@ -1,6 +1,6 @@
 # Sources — Israel — founded 1948
 
-countries: Cambodia
+countries: Cambodia, Palestine
 
 **Book 5 — History Grade 12 (student book, Khmer)**
 - Title as printed: ប្រវត្តិវិទ្យា ថ្នាក់ទី១២ (History, Grade 12)
@@ -22,3 +22,28 @@ Cambodia's own way (Book 5 — ប្រវត្តិវិទ្យា ថ្
 **Acceptance count: taught in 1 country (Cambodia).**
 
 Searchable tags: Cambodia, Israel — founded 1948, modern-world, History expansion 2026-11-15
+
+---
+
+## History expansion (2026-11-15) — Palestine stocked
+
+**Book 11 — G10 Geography and Modern & Contemporary History of Palestine Part 1 (student book, Arabic)**
+- Title as printed: جغرافية فلسطين وتاريخها الحديث والمعاصر — الصف العاشر الأساسي، الجزء الأول (Geography of Palestine and its Modern and Contemporary History, Grade 10 Basic, Part 1)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, State of Palestine; year 2020 (third edition, 1441 AH); ISBN no ISBN printed
+- PDF pages: 132 (cover/title page verified against the record title; 2,828,806 bytes, size/SHA verified)
+- Verdict: COMPLETE
+- Tally: 10 placements — 1 to an existing lesson, 9 NEW LESSON NEEDED
+- Palestine's own way: Grade 10 is a dedicated national-history course: Palestine is followed year by year from the Tanzimat through the Mandate to the 1947 partition resolution, with the documents (Basel 1897, Hussein–McMahon, Sykes–Picot, Balfour, Resolution 181) treated as the plot points of one continuous story.
+- Non-History parts named (not placed): Unit 1 The Land of Palestine — location and borders, terrain, climate, biodiversity, Palestinian cities (printed pp. 2–65, Geography).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/palestine-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Palestine part — Unit 3 Lesson 5: Partition Resolution 181 (1947) — story beats: on 29 November 1947 the UN recommends dividing Palestine into an Arab state (Upper Galilee, the central belt from Jenin to Beersheba, the southern coast with Gaza, parts of the Negev) and a Jewish state (eastern Galilee, Marj Ibn Amir, the central coastal plain), and the lesson weighs the Palestinian, Arab, Zionist and international positions on it (History expansion, 2026-11-15; original placement slug: modern-world/the-united-nations-and-the-postwar-order) | Palestine, *جغرافية فلسطين وتاريخها الحديث والمعاصر — الصف العاشر الأساسي، الجزء الأول (Geography of Palestine and its Modern and Contemporary History, Grade 10 Basic, Part 1)*, printed p. 120 |
+
+Palestine's own way (Book 11 — G10 Geography and Modern & Contemporary History of Palestine Part 1, Grade 10 (student/teacher: STUDENT)): Grade 10 is a dedicated national-history course: Palestine is followed year by year from the Tanzimat through the Mandate to the 1947 partition resolution, with the documents (Basel 1897, Hussein–McMahon, Sykes–Picot, Balfour, Resolution 181) treated as the plot points of one continuous story. That way is stocked here as the way Palestine teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 2 countries (Cambodia, Palestine).**
+
+Searchable tags: Palestine, Israel — founded 1948, modern-world, History expansion 2026-11-15

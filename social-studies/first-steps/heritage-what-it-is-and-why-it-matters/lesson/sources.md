@@ -1,6 +1,6 @@
 # Sources — Heritage — what it is and why it matters
 
-countries: Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivia, Zimbabwe, Eritrea, Cambodia, Fiji, Slovenia, Syria, Mauritania, Jordan, Bhutan, Cuba, Greece, Nauru, Niue, Tuvalu, Saudi Arabia, Rwanda, Poland, Guatemala, Australia, Bahamas, Nepal, Belarus, Dominican Republic, Egypt, Pakistan, Iran, Suriname
+countries: Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivia, Zimbabwe, Eritrea, Cambodia, Fiji, Slovenia, Syria, Mauritania, Jordan, Bhutan, Cuba, Greece, Nauru, Niue, Tuvalu, Saudi Arabia, Rwanda, Poland, Guatemala, Australia, Bahamas, Nepal, Belarus, Dominican Republic, Egypt, Pakistan, Iran, Suriname, Palestine
 
 **Book 1:** *History, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, Addis Ababa, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-064-2, 210 printed pp. Printed page = PDF page − 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g09-student-placements.md
 
@@ -840,3 +840,79 @@ Cambodia's own way (Book 7 — សិក្សាសង្គម ថ្នាក
 **Acceptance count: taught in 32 countries — unchanged; Cambodia was already named and counted in this lesson, so the Cambodia placements above are stocked as depth without raising the count.**
 
 Searchable tags: Cambodia, Heritage — what it is and why it matters, first-steps, History expansion 2026-11-15
+
+---
+
+## History expansion (2026-11-15) — Palestine stocked
+
+**Book 1 — G5 Social Studies Part 1 (student book, Arabic)**
+- Title as printed: الدراسات الاجتماعية — الصف الخامس الأساسي، الجزء الأول (Social Studies, Grade 5 Basic, Part 1)
+- Grade: 5 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, State of Palestine; year 2020 (third edition; adopted for schools from 2017/2018); ISBN no ISBN printed
+- PDF pages: 92 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 7 placements — 7 to existing lessons, 0 NEW LESSON NEEDED
+- Palestine's own way: History begins as the story of the first humans, told through pictures and "I learned" summaries, and is immediately rooted in Palestine itself — Natufian caves, Jericho, and living Bedouin and embroidered-dress heritage as the present-day tail of the ancient story.
+- Non-History parts named (not placed): Unit 1 Planet Earth — Earth's shape and movements, surface, conditions for life, natural and human disasters (printed pp. 2–39, Geography); Unit 3 The Society We Live In — the Palestinian family, the state (pp. 72–86, Civics).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/palestine-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Palestine part — Unit 2 Lesson 3: heritage dress of peoples — story beats: every community's traditional dress carries its identity, and Palestine's embroidered thobe for women and hatta, iqal and qumbaz for men are presented as living heritage to protect (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Palestine, *الدراسات الاجتماعية — الصف الخامس الأساسي، الجزء الأول (Social Studies, Grade 5 Basic, Part 1)*, printed p. 55 |
+
+Palestine's own way (Book 1 — G5 Social Studies Part 1, Grade 5 (student/teacher: STUDENT)): History begins as the story of the first humans, told through pictures and "I learned" summaries, and is immediately rooted in Palestine itself — Natufian caves, Jericho, and living Bedouin and embroidered-dress heritage as the present-day tail of the ancient story. That way is stocked here as the way Palestine teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 3 — G6 Social Studies Part 1 (student book, Arabic)**
+- Title as printed: الدراسات الاجتماعية — الصف السادس الأساسي، الجزء الأول (Social Studies, Grade 6 Basic, Part 1)
+- Grade: 6 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, State of Palestine; year 2020 (third edition, 1441 AH); ISBN no ISBN printed
+- PDF pages: 96 (cover/title page verified against the record title; 1,796,736 bytes, size/SHA verified)
+- Verdict: COMPLETE
+- Tally: 14 placements — 10 to existing lessons, 4 NEW LESSON NEEDED
+- Palestine's own way: Grade 6 opens with method — what history is and where knowledge of it comes from — then walks the ancient civilisations region by region around the Arab homeland, always ending each story back in Palestine: Canaanite cities, stolen antiquities, and the 1948 displacement.
+- Non-History parts named (not placed): Unit 1 Lesson 1 — sources of geographical knowledge (printed pp. 4–15, Geography); Unit 3 Law and Order Protect Our Rights and Duties — constitution and political authorities, human rights (pp. 76–90, Civics).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/palestine-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Palestine part — Unit 1 Lesson 2: threats to Palestine's antiquities and protecting them — story beats: Palestine's antiquities are looted and its history forged to erase Palestinian presence, so pupils must name historic sites near home and propose ways to protect them (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Palestine, *الدراسات الاجتماعية — الصف السادس الأساسي، الجزء الأول (Social Studies, Grade 6 Basic, Part 1)*, printed p. 20 |
+
+Palestine's own way (Book 3 — G6 Social Studies Part 1, Grade 6 (student/teacher: STUDENT)): Grade 6 opens with method — what history is and where knowledge of it comes from — then walks the ancient civilisations region by region around the Arab homeland, always ending each story back in Palestine: Canaanite cities, stolen antiquities, and the 1948 displacement. That way is stocked here as the way Palestine teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 5 — G7 Social Studies Part 1 (student book, Arabic)**
+- Title as printed: الدراسات الاجتماعية — الصف السابع الأساسي، الجزء الأول (Social Studies, Grade 7 Basic, Part 1)
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, State of Palestine; year 2020 (third edition, 1441 AH); ISBN no ISBN printed
+- PDF pages: 100 (cover/title page verified against the record title; 2,492,248 bytes, size/SHA verified)
+- Verdict: COMPLETE
+- Tally: 14 placements — 13 to existing lessons, 1 NEW LESSON NEEDED
+- Palestine's own way: History and geography are fused — each continent is mapped first, then the Islamic state's spread across it is traced; and the achievements unit keeps landing in Palestine: Ramla's founding, Jerusalem's walls and mosques, coins minted in Ramla, and the Nabi Musa festival where the 1920 revolt began.
+- Non-History parts named (not placed): Unit 1 Lessons 4–6 — North America, South America, Oceania (printed pp. 28–39, Geography); the continent geography halves of Lessons 1–3 (Geography); Unit 3 Civil Society (pp. 74–89, Civics).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/palestine-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Palestine part — Unit 2 Lesson 3: dangers facing Islamic antiquities in Jerusalem — story beats: since the gangs seized most of Palestine in 1948 and Jerusalem in 1967, a policy of erasing Arab-Islamic landmarks runs against Security Council Resolution 252 (1968), and even the al-Buraq Wall is renamed — heritage defence as a present duty (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Palestine, *الدراسات الاجتماعية — الصف السابع الأساسي، الجزء الأول (Social Studies, Grade 7 Basic, Part 1)*, printed p. 60 |
+
+Palestine's own way (Book 5 — G7 Social Studies Part 1, Grade 7 (student/teacher: STUDENT)): History and geography are fused — each continent is mapped first, then the Islamic state's spread across it is traced; and the achievements unit keeps landing in Palestine: Ramla's founding, Jerusalem's walls and mosques, coins minted in Ramla, and the Nabi Musa festival where the 1920 revolt began. That way is stocked here as the way Palestine teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 10 — G9 Social Studies Part 2 (student book, Arabic)**
+- Title as printed: الدراسات الاجتماعية — الصف التاسع الأساسي، الجزء الثاني (Social Studies, Grade 9 Basic, Part 2)
+- Grade: 9 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, State of Palestine; year 2020 (third edition, 1441 AH); ISBN no ISBN printed
+- PDF pages: 104 (cover/title page verified against the record title; 32,556,700 bytes, size/SHA verified)
+- Verdict: COMPLETE
+- Tally: 2 placements — 1 to an existing lesson, 1 NEW LESSON NEEDED
+- Palestine's own way: A mostly Geography/Civics half-year; where History surfaces it is again Palestine-centred — heritage protection is taught through al-Aqsa excavations and UNESCO membership, and racial discrimination through the 1948 catastrophe's own figures.
+- Non-History parts named (not placed): Unit 4 A Diverse and Changing World — natural-environment, population and economic diversity (printed pp. 4–45, Geography; its civilisational-diversity lesson, p. 28, is concepts only); Unit 5 Challenges of the Age and International Cooperation — wars as a general concept (p. 47), population explosion (p. 58), famines (p. 68) (Geography/concepts); Unit 6 Models of Global Citizenship — poverty (p. 89) (Civics).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/palestine-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Palestine part — Unit 5 Lesson 4: protecting the human cultural heritage — story beats: heritage faces natural dangers (climate cracking and eroding old buildings) and human ones — war, the excavations around al-Aqsa and the closure of Jerusalem's Orient House; the 1954 Hague Convention (Article 4) bans stealing or destroying cultural property, and after Palestine's full UNESCO membership on 13 October 2011 its sites, Jerusalem's Old Town first, enter the World Heritage list (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Palestine, *الدراسات الاجتماعية — الصف التاسع الأساسي، الجزء الثاني (Social Studies, Grade 9 Basic, Part 2)*, printed p. 76 |
+
+Palestine's own way (Book 10 — G9 Social Studies Part 2, Grade 9 (student/teacher: STUDENT)): A mostly Geography/Civics half-year; where History surfaces it is again Palestine-centred — heritage protection is taught through al-Aqsa excavations and UNESCO membership, and racial discrimination through the 1948 catastrophe's own figures. That way is stocked here as the way Palestine teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 34 countries (Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivia, Zimbabwe, Eritrea, Cambodia, Fiji, Slovenia, Syria, Mauritania, Jordan, Bhutan, Cuba, Greece, Nauru, Niue, Tuvalu, Saudi Arabia, Rwanda, Poland, Guatemala, Australia, Bahamas, Nepal, Belarus, Dominican Republic, Egypt, Pakistan, Iran, Suriname, Palestine).**
+
+Searchable tags: Palestine, Heritage — what it is and why it matters, first-steps, History expansion 2026-11-15

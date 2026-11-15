@@ -1,6 +1,6 @@
 # Sources — Ancient Egypt — What Egypt Gave
 
-countries: Ethiopia, Australia, Egypt, Pakistan, Syria
+countries: Ethiopia, Australia, Egypt, Pakistan, Syria, Palestine
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (placement 82).
 
@@ -91,3 +91,28 @@ Searchable tags: Pakistan, Ancient Egypt — What Egypt Gave, africa-to-1500, Hi
 Syria's own way (الدراسات الاجتماعية — الصف السادس (Social Studies, Grade 6), Grade 6 (student/teacher: STUDENT)): a combined Social Studies book whose History strand runs region by region across the Arab lands in Africa — ancient Egypt and Carthage first, then the Arab-Islamic liberation and civilisation of the Nile Valley, Libya, the Maghreb and al-Andalus, each region's Geography lessons interleaved with its History. That way is stocked here as the way Syria teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 5 countries (Ethiopia, Australia, Egypt, Pakistan, Syria).**
+
+---
+
+## History expansion (2026-11-15) — Palestine stocked
+
+**Book 3 — G6 Social Studies Part 1 (student book, Arabic)**
+- Title as printed: الدراسات الاجتماعية — الصف السادس الأساسي، الجزء الأول (Social Studies, Grade 6 Basic, Part 1)
+- Grade: 6 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, State of Palestine; year 2020 (third edition, 1441 AH); ISBN no ISBN printed
+- PDF pages: 96 (cover/title page verified against the record title; 1,796,736 bytes, size/SHA verified)
+- Verdict: COMPLETE
+- Tally: 14 placements — 10 to existing lessons, 4 NEW LESSON NEEDED
+- Palestine's own way: Grade 6 opens with method — what history is and where knowledge of it comes from — then walks the ancient civilisations region by region around the Arab homeland, always ending each story back in Palestine: Canaanite cities, stolen antiquities, and the 1948 displacement.
+- Non-History parts named (not placed): Unit 1 Lesson 1 — sources of geographical knowledge (printed pp. 4–15, Geography); Unit 3 Law and Order Protect Our Rights and Duties — constitution and political authorities, human rights (pp. 76–90, Civics).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/palestine-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Palestine part — Unit 2 Lesson 5: Egypt's gifts — coinage, sciences and mummification — story beats: Egyptians invent coinage that spreads worldwide, make paper from papyrus, and embalm their dead because they believe in life after death (History expansion, 2026-11-15; original placement slug: africa-to-1500/ancient-egypt-what-egypt-gave) | Palestine, *الدراسات الاجتماعية — الصف السادس الأساسي، الجزء الأول (Social Studies, Grade 6 Basic, Part 1)*, printed p. 71 |
+
+Palestine's own way (Book 3 — G6 Social Studies Part 1, Grade 6 (student/teacher: STUDENT)): Grade 6 opens with method — what history is and where knowledge of it comes from — then walks the ancient civilisations region by region around the Arab homeland, always ending each story back in Palestine: Canaanite cities, stolen antiquities, and the 1948 displacement. That way is stocked here as the way Palestine teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 6 countries (Ethiopia, Australia, Egypt, Pakistan, Syria, Palestine).**
+
+Searchable tags: Palestine, Ancient Egypt — What Egypt Gave, africa-to-1500, History expansion 2026-11-15

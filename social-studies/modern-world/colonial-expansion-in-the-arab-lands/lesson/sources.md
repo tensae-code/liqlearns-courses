@@ -1,6 +1,6 @@
 # Sources — Colonial expansion in the Arab lands
 
-countries: Egypt, Syria
+countries: Egypt, Syria, Palestine
 
 **Book 11:** *تاريخ مصر والعرب الحديث والمعاصر (History of Egypt and the Arabs, Modern and Contemporary)* (student book, Arabic) — Egypt. Grade: Grade 12 (Third Secondary, Literary section) (student book). Publisher: Ministry of Education and Technical Education, Egypt (Central Administration for Textbooks; Curriculum Development Centre), school year 2025/2026; chief author Prof. Abd al-Aziz Nawar (Professor of Modern History, Ain Shams University) with Prof. Asim al-Desouki and others; ISBN: no ISBN printed in the front matter. PDF pages: 152 (downloaded from the ministry source_url at the exact recorded size; read as 4-up page sheets; all eight chapters read). Verdict: COMPLETE. Tally: 9 placements — 1 to an existing lesson, 8 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/egypt-placements.md.
 
@@ -25,3 +25,45 @@ Searchable tags: Egypt, Colonial expansion in the Arab lands, modern-world, Hist
 Syria's own way (التاريخ — الصف التاسع (History, Grade 9), Grade 9 (student/teacher: STUDENT)): the whole modern history of the Arab world is taught from Damascus outward — Syria's own road from the Arab government of 1918 through Maysalun, the Great Revolt and independence to the 2011 revolution and the fall of the regime on 8 December 2024 is the spine, and every other Arab country's struggle is told in the same frame of occupation, resistance and independence. That way is stocked here as the way Syria teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 2 countries (Egypt, Syria).**
+
+---
+
+## History expansion (2026-11-15) — Palestine stocked
+
+**Book 8 — G8 Social Studies Part 2 (student book, Arabic)**
+- Title as printed: الدراسات الاجتماعية — الصف الثامن الأساسي، الجزء الثاني (Social Studies, Grade 8 Basic, Part 2)
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, State of Palestine; year 2020 (third edition, 1441 AH); ISBN no ISBN printed
+- PDF pages: 96 (cover/title page verified against the record title; 31,768,663 bytes, size/SHA verified)
+- Verdict: COMPLETE
+- Tally: 14 placements — 14 to existing lessons, 0 NEW LESSON NEEDED
+- Palestine's own way: World history is taught as the run-up to Palestine's own colonisation: the Renaissance is credited partly to Arab-Islamic civilisation, the discoveries are shown draining Mamluk ports, and Napoleon's campaign is followed street by street through Cairo's revolts and Acre's two-month stand.
+- Non-History parts named (not placed): Unit 6 Gender (social type) and Violence (pp. 73–90, Civics).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/palestine-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Palestine part — Unit 5 Lesson 2: the colonial rivalry over the Arab homeland — story beats: the homeland's straits, trade routes, resources and markets draw the powers from Portugal's 1500s Indian Ocean thrust onward, Ottoman weakness opening the way; the outcome is partition into small states behind artificial borders and a Zionist entity planted in Palestine to split Arab Asia from Arab Africa (History expansion, 2026-11-15; original placement slug: modern-world/empires-and-the-race-for-colonies) | Palestine, *الدراسات الاجتماعية — الصف الثامن الأساسي، الجزء الثاني (Social Studies, Grade 8 Basic, Part 2)*, printed p. 55 |
+
+Palestine's own way (Book 8 — G8 Social Studies Part 2, Grade 8 (student/teacher: STUDENT)): World history is taught as the run-up to Palestine's own colonisation: the Renaissance is credited partly to Arab-Islamic civilisation, the discoveries are shown draining Mamluk ports, and Napoleon's campaign is followed street by street through Cairo's revolts and Acre's two-month stand. That way is stocked here as the way Palestine teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 9 — G9 Social Studies Part 1 (student book, Arabic)**
+- Title as printed: الدراسات الاجتماعية — الصف التاسع الأساسي، الجزء الأول (Social Studies, Grade 9 Basic, Part 1)
+- Grade: 9 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, State of Palestine; year 2020 (third edition, 1441 AH); ISBN no ISBN printed
+- PDF pages: 84 (cover/title page verified against the record title; 2,648,552 bytes, size/SHA verified)
+- Verdict: COMPLETE
+- Tally: 11 placements — 8 to existing lessons, 3 NEW LESSON NEEDED
+- Palestine's own way: Colonialism is taught as a system with named policies — partition, economic subordination, deliberate ignorance (tajhil), repression — and Palestine is the running case study inside every policy, from the 1856 Montefiore settlement to the Absentees' Property Law and the PLO's founding in Jerusalem.
+- Non-History parts named (not placed): Unit 3 Participation in Building Civil Society — political participation, elections, civil-society institutions (pp. 61–80, Civics).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/palestine-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Palestine part — Unit 1 Lesson 1: political partition of the Arab homeland — story beats: the colonial powers slice the homeland into small states behind artificial borders to serve their interests and block Arab unity; Arabs answer with unity projects — the Arab League (charter 1945), the United Arab Republic, the Gulf Cooperation Council and the Maghreb Union (History expansion, 2026-11-15; original placement slug: modern-world/empires-and-the-race-for-colonies) | Palestine, *الدراسات الاجتماعية — الصف التاسع الأساسي، الجزء الأول (Social Studies, Grade 9 Basic, Part 1)*, printed p. 4 |
+
+Palestine's own way (Book 9 — G9 Social Studies Part 1, Grade 9 (student/teacher: STUDENT)): Colonialism is taught as a system with named policies — partition, economic subordination, deliberate ignorance (tajhil), repression — and Palestine is the running case study inside every policy, from the 1856 Montefiore settlement to the Absentees' Property Law and the PLO's founding in Jerusalem. That way is stocked here as the way Palestine teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 3 countries (Egypt, Syria, Palestine).**
+
+Searchable tags: Palestine, Colonial expansion in the Arab lands, modern-world, History expansion 2026-11-15

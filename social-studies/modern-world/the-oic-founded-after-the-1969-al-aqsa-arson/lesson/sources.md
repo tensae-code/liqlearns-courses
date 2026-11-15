@@ -1,6 +1,6 @@
 # Sources — The OIC — founded after the 1969 al-Aqsa arson
 
-countries: Malaysia, Kuwait
+countries: Malaysia, Kuwait, Palestine
 
 **Book (Malaysia — Sejarah Tingkatan 5):** *Sejarah Tingkatan 5* (student book, Malay) — Malaysia. Title as printed: Sejarah Tingkatan 5 (History Form 5). Grade: 11 (student/teacher: STUDENT). Publisher: Dewan Bahasa dan Pustaka, Kuala Lumpur, for the Ministry of Education Malaysia; year 2020 (KSSM); ISBN 978-983-49-2870-4. PDF pages: 268 (cover/title page verified against the record title; 68,795,570 bytes, release-asset size verified; records: TSV release URL + books.json tree path grade-11/gov/malaysia/sejarah/student/full-year.pdf — same book). Verdict: COMPLETE. Tally: 7 placements — 0 to existing lessons, 7 NEW LESSON NEEDED. Non-History parts named (not placed): Bab 1 Sovereignty concepts (pp. 2–18, Civics); Bab 3 Constitutional Monarchy and Parliamentary Democracy (pp. 36–62, Civics); Bab 4 The Federal System (pp. 64–86, Civics); Bab 9–10 Foreign Policy and Malaysia on the World Stage (pp. 192–250, Civics/current affairs — except the OIC placement, Bab 9.8, printed p. 214). Placements at liqlearns-courses-work/expansion-history-2026-11-15/malaysia-placements.md.
 
@@ -28,3 +28,28 @@ Non-History parts of this book, named in the placements, not placed here: Unit 1
 Kuwait's own way (Grade 8 Term 2): Term 2 is present-day challenges, but the Organisation of Islamic Cooperation is taught as a story with a wound at its start — Palestine — and Kuwait proudly chairs its fifth summit inside the telling. That way is stocked here as the way Kuwait teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 2 countries (Malaysia, Kuwait).**
+
+---
+
+## History expansion (2026-11-15) — Palestine stocked
+
+**Book 6 — G7 Social Studies Part 2 (student book, Arabic)**
+- Title as printed: الدراسات الاجتماعية — الصف السابع الأساسي، الجزء الثاني (Social Studies, Grade 7 Basic, Part 2)
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, State of Palestine; year 2020 (third edition, 1441 AH); ISBN no ISBN printed
+- PDF pages: 76 (cover/title page verified against the record title; 13,990,646 bytes, size/SHA verified)
+- Verdict: COMPLETE
+- Tally: 11 placements — 6 to existing lessons, 5 NEW LESSON NEEDED
+- Palestine's own way: Decline is taught as diagnosis — internal rot first, then the Frankish and Mongol storms — and the decisive battles are deliberately the ones fought on Palestinian soil: Hattin, Jerusalem's liberation, and Ain Jalut above Beisan.
+- Non-History parts named (not placed): Unit 5 The Islamic World Lessons 1–2 and the geography halves of Lesson 3 (printed pp. 32–45, Geography); Unit 6 Human Rights — human rights in wars, international humanitarian law (pp. 54–75, Civics/Law).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/palestine-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Palestine part — Unit 5 Lesson 3: Palestine and the Islamic world — the OIC is born — story beats: the burning of the al-Qibli mosque in al-Aqsa on 23 August 1969 triggers a general strike across the Arab and Islamic lands and the call for an Islamic summit, out of which the Organisation of Islamic Cooperation is founded with Jerusalem's liberation written into its charter (History expansion, 2026-11-15; original placement slug: modern-world/the-oic-founded-after-the-1969-al-aqsa-arson) | Palestine, *الدراسات الاجتماعية — الصف السابع الأساسي، الجزء الثاني (Social Studies, Grade 7 Basic, Part 2)*, printed p. 47 |
+
+Palestine's own way (Book 6 — G7 Social Studies Part 2, Grade 7 (student/teacher: STUDENT)): Decline is taught as diagnosis — internal rot first, then the Frankish and Mongol storms — and the decisive battles are deliberately the ones fought on Palestinian soil: Hattin, Jerusalem's liberation, and Ain Jalut above Beisan. That way is stocked here as the way Palestine teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 3 countries (Malaysia, Kuwait, Palestine).**
+
+Searchable tags: Palestine, The OIC — founded after the 1969 al-Aqsa arson, modern-world, History expansion 2026-11-15

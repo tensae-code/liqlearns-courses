@@ -1,0 +1,78 @@
+# Sources — Palestine from Montefiore to the Nakba — settlement and 1948
+
+countries: Palestine
+
+**Book 9 — G9 Social Studies Part 1 (student book, Arabic)**
+- Title as printed: الدراسات الاجتماعية — الصف التاسع الأساسي، الجزء الأول (Social Studies, Grade 9 Basic, Part 1)
+- Grade: 9 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, State of Palestine; year 2020 (third edition, 1441 AH); ISBN no ISBN printed
+- PDF pages: 84 (cover/title page verified against the record title; 2,648,552 bytes, size/SHA verified)
+- Verdict: COMPLETE
+- Tally: 11 placements — 8 to existing lessons, 3 NEW LESSON NEEDED
+- Palestine's own way: Colonialism is taught as a system with named policies — partition, economic subordination, deliberate ignorance (tajhil), repression — and Palestine is the running case study inside every policy, from the 1856 Montefiore settlement to the Absentees' Property Law and the PLO's founding in Jerusalem.
+- Non-History parts named (not placed): Unit 3 Participation in Building Civil Society — political participation, elections, civil-society institutions (pp. 61–80, Civics).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/palestine-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Palestine part — Unit 1 Lesson 1: partition inside Palestine — story beats: the Zionist movement plants its first settlement, Montefiore, south-west of Jerusalem's wall in 1856, and the settlements double as training camps and arms stores; after the 1948 Nakba the occupation holds over 78% of Palestine (History expansion, 2026-11-15; original placement slug: modern-world/palestine-from-montefiore-to-the-nakba-settlement-and-1948) | Palestine, *الدراسات الاجتماعية — الصف التاسع الأساسي، الجزء الأول (Social Studies, Grade 9 Basic, Part 1)*, printed p. 7 |
+
+Palestine's own way (Book 9 — G9 Social Studies Part 1, Grade 9 (student/teacher: STUDENT)): Colonialism is taught as a system with named policies — partition, economic subordination, deliberate ignorance (tajhil), repression — and Palestine is the running case study inside every policy, from the 1856 Montefiore settlement to the Absentees' Property Law and the PLO's founding in Jerusalem. That way is stocked here as the way Palestine teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 10 — G9 Social Studies Part 2 (student book, Arabic)**
+- Title as printed: الدراسات الاجتماعية — الصف التاسع الأساسي، الجزء الثاني (Social Studies, Grade 9 Basic, Part 2)
+- Grade: 9 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, State of Palestine; year 2020 (third edition, 1441 AH); ISBN no ISBN printed
+- PDF pages: 104 (cover/title page verified against the record title; 32,556,700 bytes, size/SHA verified)
+- Verdict: COMPLETE
+- Tally: 2 placements — 1 to an existing lesson, 1 NEW LESSON NEEDED
+- Palestine's own way: A mostly Geography/Civics half-year; where History surfaces it is again Palestine-centred — heritage protection is taught through al-Aqsa excavations and UNESCO membership, and racial discrimination through the 1948 catastrophe's own figures.
+- Non-History parts named (not placed): Unit 4 A Diverse and Changing World — natural-environment, population and economic diversity (printed pp. 4–45, Geography; its civilisational-diversity lesson, p. 28, is concepts only); Unit 5 Challenges of the Age and International Cooperation — wars as a general concept (p. 47), population explosion (p. 58), famines (p. 68) (Geography/concepts); Unit 6 Models of Global Citizenship — poverty (p. 89) (Civics).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/palestine-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Palestine part — Unit 6 Lesson 2: racial discrimination — the 1948 catastrophe — story beats: the lesson names 1948 the great racist catastrophe: armed Zionist gangs occupy 77% of Palestine, commit massacres, destroy 531 Palestinian villages and drive about a million Palestinians into refuge in what remains of Palestine and in Jordan, Syria, Lebanon and the wider diaspora; the rest of Palestine is occupied in June 1967 (History expansion, 2026-11-15; original placement slug: modern-world/palestine-from-montefiore-to-the-nakba-settlement-and-1948) | Palestine, *الدراسات الاجتماعية — الصف التاسع الأساسي، الجزء الثاني (Social Studies, Grade 9 Basic, Part 2)*, printed p. 95 |
+
+Palestine's own way (Book 10 — G9 Social Studies Part 2, Grade 9 (student/teacher: STUDENT)): A mostly Geography/Civics half-year; where History surfaces it is again Palestine-centred — heritage protection is taught through al-Aqsa excavations and UNESCO membership, and racial discrimination through the 1948 catastrophe's own figures. That way is stocked here as the way Palestine teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 11 — G10 Geography and Modern & Contemporary History of Palestine Part 1 (student book, Arabic)**
+- Title as printed: جغرافية فلسطين وتاريخها الحديث والمعاصر — الصف العاشر الأساسي، الجزء الأول (Geography of Palestine and its Modern and Contemporary History, Grade 10 Basic, Part 1)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, State of Palestine; year 2020 (third edition, 1441 AH); ISBN no ISBN printed
+- PDF pages: 132 (cover/title page verified against the record title; 2,828,806 bytes, size/SHA verified)
+- Verdict: COMPLETE
+- Tally: 10 placements — 1 to an existing lesson, 9 NEW LESSON NEEDED
+- Palestine's own way: Grade 10 is a dedicated national-history course: Palestine is followed year by year from the Tanzimat through the Mandate to the 1947 partition resolution, with the documents (Basel 1897, Hussein–McMahon, Sykes–Picot, Balfour, Resolution 181) treated as the plot points of one continuous story.
+- Non-History parts named (not placed): Unit 1 The Land of Palestine — location and borders, terrain, climate, biodiversity, Palestinian cities (printed pp. 2–65, Geography).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/palestine-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Palestine part — Unit 2 Lesson 3: colonialism and Zionism — story beats: the Zionist idea crystallises in Europe (Shaftesbury's "a land without a people" slogan dissected and refuted in class), the colonial powers back it for their own ends, Herzl organises the movement and the Basel Congress of 1897 resolves on a Jewish national home in Palestine — while Sultan Abdul Hamid II refuses to sell "even one foot" of an empire bought with his people's blood (History expansion, 2026-11-15; original placement slug: modern-world/palestine-from-montefiore-to-the-nakba-settlement-and-1948) | Palestine, *جغرافية فلسطين وتاريخها الحديث والمعاصر — الصف العاشر الأساسي، الجزء الأول (Geography of Palestine and its Modern and Contemporary History, Grade 10 Basic, Part 1)*, printed p. 80 |
+| Palestine part — Unit 2 Lesson 4: Zionist immigration and settlement colonisation in the late Ottoman era — story beats: the machinery is built — Jewish Colonial Trust (1899), Histadrut, the kibbutz — and the first settlements rise: a Jewish quarter outside Jerusalem's walls (1857), Petah Tikva on the lands of Mlabbis (1882), Zikhron Ya'akov on Zamarin; land is got by purchase and forged deeds through corrupt officials and consulates, the empire answers with the 1883 waqf law and the 1887 "red passport" three-month rule, and Palestinians answer in print — Ruhi al-Khalidi's History of Zionism and the papers al-Karmil and al-Manar (History expansion, 2026-11-15; original placement slug: modern-world/palestine-from-montefiore-to-the-nakba-settlement-and-1948) | Palestine, *جغرافية فلسطين وتاريخها الحديث والمعاصر — الصف العاشر الأساسي، الجزء الأول (Geography of Palestine and its Modern and Contemporary History, Grade 10 Basic, Part 1)*, printed p. 84 |
+| Palestine part — Unit 2 Lesson 5: the international conspiracies of the First World War — story beats: Britain promises Sharif Hussein (first letter 14 July 1915, on the Damascus Protocol's terms) a great Arab state, while secretly signing Sykes–Picot (1916) with France and Russia to divide the same lands, then issues the Balfour Declaration (2 November 1917) promising the Zionists a national home; Allenby enters Jerusalem on 9 December 1917 and Arab anger is met with fresh British reassurances (History expansion, 2026-11-15; original placement slug: modern-world/palestine-from-montefiore-to-the-nakba-settlement-and-1948) | Palestine, *جغرافية فلسطين وتاريخها الحديث والمعاصر — الصف العاشر الأساسي، الجزء الأول (Geography of Palestine and its Modern and Contemporary History, Grade 10 Basic, Part 1)*, printed p. 91 |
+| Palestine part — Unit 3 Lesson 2: mandate immigration and land takeover — story beats: immigration waves climb steeply across the mandate years (one period alone bringing some 215,000), the mandate's own text lets the administration work public projects with the Jewish Agency, and land passes steadily to the settlers (History expansion, 2026-11-15; original placement slug: modern-world/palestine-from-montefiore-to-the-nakba-settlement-and-1948) | Palestine, *جغرافية فلسطين وتاريخها الحديث والمعاصر — الصف العاشر الأساسي، الجزء الأول (Geography of Palestine and its Modern and Contemporary History, Grade 10 Basic, Part 1)*, printed p. 105 |
+
+Palestine's own way (Book 11 — G10 Geography and Modern & Contemporary History of Palestine Part 1, Grade 10 (student/teacher: STUDENT)): Grade 10 is a dedicated national-history course: Palestine is followed year by year from the Tanzimat through the Mandate to the 1947 partition resolution, with the documents (Basel 1897, Hussein–McMahon, Sykes–Picot, Balfour, Resolution 181) treated as the plot points of one continuous story. That way is stocked here as the way Palestine teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 12 — G10 Geography and Modern & Contemporary History of Palestine Part 2 (student book, Arabic)**
+- Title as printed: جغرافية فلسطين وتاريخها الحديث والمعاصر — الصف العاشر الأساسي، الجزء الثاني (Geography of Palestine and its Modern and Contemporary History, Grade 10 Basic, Part 2)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, State of Palestine; year 2020 (third edition, 1441 AH); ISBN no ISBN printed
+- PDF pages: 140 (cover/title page verified against the record title; 35,141,890 bytes, size/SHA verified)
+- Verdict: COMPLETE
+- Tally: 15 placements — 2 to existing lessons, 13 NEW LESSON NEEDED
+- Palestine's own way: The course closes with Palestine's own timeline carried to the present — Nakba, Karameh, October 1973, Lebanon, the two intifadas, Oslo and the Authority — each event taught with its dates, its named dead and its documents (Resolutions 194, 242, 338; the Ten Points; Oslo's articles).
+- Non-History parts named (not placed): Unit 7 The Palestinian People and their Economic Activities — population growth, agriculture, tourism, industry, trade, natural resources and energy (printed pp. 88–130, Geography).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/palestine-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Palestine part — Unit 4 Lesson 1: the 1948 War (the Nakba) — story beats: towns fall before any Arab army enters — Britain bars Arab intervention before 15 May 1948 and Abd al-Qadir al-Husseini is martyred at al-Qastal; some 15,000 Arab fighters (Egypt, Jordan, Iraq, Lebanon, Syria) then enter, the first truce (11 June 1948) is used by the Zionists to rearm with American and British help, and the war ends with about a million Palestinians displaced, over 60 massacres and 531 villages destroyed (al-Mansura, Saffuriyya, Deir Yassin, al-Faluja among them), Israel recognised and seated at the UN, and Resolution 194 affirming the refugees' right of return (History expansion, 2026-11-15; original placement slug: modern-world/palestine-from-montefiore-to-the-nakba-settlement-and-1948) | Palestine, *جغرافية فلسطين وتاريخها الحديث والمعاصر — الصف العاشر الأساسي، الجزء الثاني (Geography of Palestine and its Modern and Contemporary History, Grade 10 Basic, Part 2)*, printed p. 4 |
+
+Palestine's own way (Book 12 — G10 Geography and Modern & Contemporary History of Palestine Part 2, Grade 10 (student/teacher: STUDENT)): The course closes with Palestine's own timeline carried to the present — Nakba, Karameh, October 1973, Lebanon, the two intifadas, Oslo and the Authority — each event taught with its dates, its named dead and its documents (Resolutions 194, 242, 338; the Ten Points; Oslo's articles). That way is stocked here as the way Palestine teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 1 country (Palestine).**
+
+Searchable tags: Palestine, Palestine from Montefiore to the Nakba — settlement and 1948, modern-world, History expansion 2026-11-15

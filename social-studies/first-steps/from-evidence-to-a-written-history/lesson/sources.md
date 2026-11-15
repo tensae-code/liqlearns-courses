@@ -1,6 +1,6 @@
 # Sources — From evidence to a written history
 
-countries: Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Bulgaria
+countries: Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Bulgaria, Palestine
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -825,3 +825,28 @@ Bulgaria's own way (Book 2 — История и цивилизации за ш�
 **Acceptance count: taught in 26 countries (Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Bulgaria).**
 
 Searchable tags: Bulgaria, From evidence to a written history, first-steps, History expansion 2026-11-15
+
+---
+
+## History expansion (2026-11-15) — Palestine stocked
+
+**Book 3 — G6 Social Studies Part 1 (student book, Arabic)**
+- Title as printed: الدراسات الاجتماعية — الصف السادس الأساسي، الجزء الأول (Social Studies, Grade 6 Basic, Part 1)
+- Grade: 6 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, State of Palestine; year 2020 (third edition, 1441 AH); ISBN no ISBN printed
+- PDF pages: 96 (cover/title page verified against the record title; 1,796,736 bytes, size/SHA verified)
+- Verdict: COMPLETE
+- Tally: 14 placements — 10 to existing lessons, 4 NEW LESSON NEEDED
+- Palestine's own way: Grade 6 opens with method — what history is and where knowledge of it comes from — then walks the ancient civilisations region by region around the Arab homeland, always ending each story back in Palestine: Canaanite cities, stolen antiquities, and the 1948 displacement.
+- Non-History parts named (not placed): Unit 1 Lesson 1 — sources of geographical knowledge (printed pp. 4–15, Geography); Unit 3 Law and Order Protect Our Rights and Duties — constitution and political authorities, human rights (pp. 76–90, Civics).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/palestine-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Palestine part — Unit 1 Lesson 2: written historical sources — story beats: the past is rebuilt from written sources — scripture, histories like Ibn al-Athir's al-Kamil, official documents, land deeds (kawashin), travel books and personal memoirs (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Palestine, *الدراسات الاجتماعية — الصف السادس الأساسي، الجزء الأول (Social Studies, Grade 6 Basic, Part 1)*, printed p. 19 |
+
+Palestine's own way (Book 3 — G6 Social Studies Part 1, Grade 6 (student/teacher: STUDENT)): Grade 6 opens with method — what history is and where knowledge of it comes from — then walks the ancient civilisations region by region around the Arab homeland, always ending each story back in Palestine: Canaanite cities, stolen antiquities, and the 1948 displacement. That way is stocked here as the way Palestine teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 27 countries (Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Bulgaria, Palestine).**
+
+Searchable tags: Palestine, From evidence to a written history, first-steps, History expansion 2026-11-15
