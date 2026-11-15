@@ -131,7 +131,13 @@ the one title at rising depth wherever a title spans both books
   Paraná urbanisation and the Port of Paranaguá, state
   power and violence, imperialism and its crisis,
   domination and resistance in the modern West, and
-  contemporary social movements).
+  contemporary social movements, and Switzerland —
+  compulsory welfare measures: care or coercion?, the
+  Albin family dissolved, Uschi Waser and the Yenish
+  Children of the Road, Cornelia Studer and the Gott
+  hilft children's home, Florian Branger and
+  administrative detention, and Ruedi Hofer, the
+  Verdingkinder and reparation).
   (No teacher evidence yet.)
 - `global-issues/` — today's shared problems: population
   pressure, HIV/AIDS, climate, water, forests — and protecting
@@ -2536,7 +2542,7 @@ Plants and Animals.
 
 ## History expansion totals
 
-History lessons across the History titles: **308**
+History lessons across the History titles: **314**
 (248 before the expansion; +1 for Guyana, 2026-11-15 —
 Modern World: Guyana — our nation: independence and
 symbols. All 3 Guyana placements stand on Guyana's
@@ -2716,3 +2722,32 @@ missionaries 1 → 2, The Scramble and Berlin
 1 → 2, What colonial rule did to Africa 1 → 2,
 After the flag 1 → 2 and African unity — the
 founding of the OAU 1 → 2).
+
++6 for Switzerland, 2026-11-15 — Modern World:
+Switzerland — Compulsory welfare measures: care or
+coercion?, Switzerland — The Albin family dissolved,
+Switzerland — Uschi Waser and the Yenish Children of
+the Road, Switzerland — Cornelia Studer and the Gott
+hilft children's home, Switzerland — Florian Branger
+and administrative detention, and Switzerland — Ruedi
+Hofer, the Verdingkinder and reparation. Of
+Switzerland's 25 placements, 11 stand on the Grade 7
+student reader (Sorge oder Zwang? Leseheft, Kanton
+Graubünden, 2020) — 8 into the six new lessons and 3
+into existing lessons — counted in acceptance (the
+six new lessons; the existing First Steps From
+evidence to a written history lesson, whose count
+rises 3 → 4, and Fact or opinion, whose count rises
+2 → 3); the other 14 placements stand on the two
+teacher companions (Begleitband Sekundarstufe I and
+II) as evidence only — 11 into the six new lessons,
+adding no count beyond the student reader, and 3
+into existing lessons, of which the two lessons
+stocked from the companions alone (First Steps What
+history is and Heritage — what it is and why it
+matters) do not add Switzerland to their countries
+or counts, and the third (From evidence to a written
+history) adds no count beyond the student reader The set's
+6 parallel Italian/Romansh editions are placed under
+their 3 German originals with 0 placements of their
+own.

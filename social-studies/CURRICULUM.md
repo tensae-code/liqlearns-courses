@@ -8760,3 +8760,64 @@ All 23 Gambia placements stand on Gambia's Grade
 new lessons; and the eighteen existing lessons
 stocked, whose counts rise with Gambia added, as
 listed in TITLES.md). History lessons: 304 → 308.
+
+## History expansion — Switzerland — built 2026-11-15
+
+6 new lessons, 48 questions, in **The Modern World**:
+Switzerland — Compulsory welfare measures: care or
+coercion?
+(modern-world/switzerland-compulsory-welfare-measures-overview),
+Switzerland — The Albin family dissolved
+(modern-world/switzerland-albin-family-dissolved),
+Switzerland — Uschi Waser and the Yenish Children of
+the Road
+(modern-world/switzerland-uschi-waser-yenish-children-of-the-road),
+Switzerland — Cornelia Studer and the Gott hilft
+children's home
+(modern-world/switzerland-cornelia-studer-childrens-home-gott-hilft),
+Switzerland — Florian Branger and administrative
+detention
+(modern-world/switzerland-florian-branger-administrative-detention)
+and Switzerland — Ruedi Hofer, the Verdingkinder and
+reparation
+(modern-world/switzerland-ruedi-hofer-verdingkinder-and-reparation)
+— 25 placements stocked from Switzerland's 9 distinct
+books (3 German originals read in full; 6 parallel
+Italian/Romansh editions spot-checked and placed under
+their German originals with 0 placements of their own):
+the Grade 7 student reader *Sorge oder Zwang? Leseheft*
+(Kanton Graubünden, 2020, ISBN 978-3-03847-099-1):
+introduction (printed pp. 3–4), into the new Overview
+lesson; the Albin family (printed pp. 5–6) and its
+source pages (printed pp. 7–8), into the new Albin
+lesson and the existing First Steps From evidence to a
+written history lesson; Uschi Waser (printed
+pp. 9–10) and its source pages (printed pp. 11–12),
+into the new Waser lesson and the existing First Steps
+Fact or opinion lesson; Cornelia Studer (printed
+pp. 13–14) and its source pages (printed pp. 15–16),
+into the new Studer lesson and Fact or opinion;
+Florian Branger (printed pp. 17–18) and its source
+pages (printed pp. 19–20), into the new Branger
+lesson; and Ruedi Hofer (printed pp. 21–22) and its
+source pages (printed pp. 23–24), into the new Hofer
+lesson. The Grade 7 teacher companion *Begleitband
+Sekundarstufe I* (34 pp.) stands as teacher-guide
+evidence only: its introduction to working with the
+reader (printed p. 3), into the existing First Steps
+What history is lesson, whose count is unchanged; and
+its background briefings (printed pp. 4, 8, 14, 20, 25
+and 30), into the six new lessons. The Grade 10
+teacher companion *Begleitband Sekundarstufe II*
+(55 pp.) likewise stands as evidence only: its
+deepening documents (printed pp. 11–20, 24–29, 32–38,
+41–47 and 50–55), into five of the new lessons; its
+memoir document (printed p. 37), into From evidence to
+a written history; and its signs of remembrance
+(printed pp. 50, 55), into the existing First Steps
+Heritage lesson, whose count is unchanged. The six
+new lessons are counted in acceptance through the
+student reader; the two existing lessons stocked from
+the student reader rise with Switzerland added (From
+evidence to a written history 3 → 4; Fact or opinion
+2 → 3). History lessons: 308 → 314.

@@ -1,6 +1,6 @@
 # Sources — From evidence to a written history
 
-countries: Ethiopia, Saudi Arabia, Gambia
+countries: Ethiopia, Saudi Arabia, Gambia, Switzerland
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -18,7 +18,7 @@ countries: Ethiopia, Saudi Arabia, Gambia
 | Sub lesson 5 — Grade 11 depth: From evidence to a written history — interpretation and objectivity | Ethiopia, *History, Student Textbook, Grade 11*, printed pp. 7–8 |
 
 
-**Acceptance count: taught in 3 countries (Ethiopia, Saudi Arabia, Gambia).**
+**Acceptance count: taught in 4 countries (Ethiopia, Saudi Arabia, Gambia, Switzerland).**
 
 No book error flagged by the placements touches this lesson. The lesson stacks the student book's sources teaching (printed pp. 5–6) with its interpretation teaching (printed pp. 4–5) under the coordinator's lesson name, in the order a historian works: gather, test, interpret, write.
 
@@ -88,3 +88,20 @@ Morocco's own way: Moroccan History is one unbroken national line — the guide'
 Gambia's own way (History expansion, 2026-11-15): A free, scholar-written regional textbook built for the WAEC exam shared by the five Anglophone West African states — West Africa's whole story told by West African and diaspora historians, with two chapters (women and authority; the environment) the authors added beyond the syllabus, and Gambian historian Hassoum Ceesay on the author team. That way is stocked here as the way Gambia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 3 countries (Ethiopia, Saudi Arabia, Gambia).**
+
+## History expansion (2026-11-15) — Switzerland stocked
+
+**Book 1:** *Sorge oder Zwang? — Fürsorgerische Zwangsmassnahmen im Kanton Graubünden (Leseheft mit Originalquellen)* (student book, German; parallel editions: Italian quaderno, Book 3, and Romansh carnet da leger, Book 2) — Switzerland. Title as printed: Sorge oder Zwang? — Fürsorgerische Zwangsmassnahmen im Kanton Graubünden (Leseheft mit Originalquellen). Grade: Grade 7 record; the same reader is used at Sekundarstufe I and II (student/teacher: STUDENT). Publisher: Kanton Graubünden (Lehrmittel Graubünden); authors Tanja Rietmann, Hans Utz; year 2020 (1st edition); ISBN 978-3-03847-099-1. PDF pages: 28 (cover/title page verified against the record title). Verdict: COMPLETE. Tally: 11 placements — 3 to existing lessons, 8 NEW LESSON NEEDED. Parallel editions placed under this book: Book 2 — *Agid u sforz? carnet da leger* (student book, Romansh), ISBN 978-3-03847-100-4, 28 PDF pp., COMPLETE — parallel language edition, placed once under Book 1; Book 3 — *Assistenza o coercizione? quaderno* (student book, Italian), ISBN 978-3-03847-101-1, 28 PDF pp., COMPLETE — parallel language edition, placed once under Book 1. Placements at liqlearns-courses-work/expansion-history-2026-11-15/switzerland-placements.md.
+
+**Book 7:** *Sorge oder Zwang? — Fürsorgerische Zwangsmassnahmen im Kanton Graubünden, Begleitdokumentation Sekundarstufe II* (teacher guide, German; parallel editions: Italian, Book 9, and Romansh, Book 8) — Switzerland. Title as printed: Sorge oder Zwang? — Fürsorgerische Zwangsmassnahmen im Kanton Graubünden, Begleitdokumentation Sekundarstufe II. Grade: Grade 10 (Sekundarstufe II) (student/teacher: TEACHER). Publisher: Kanton Graubünden (Lehrmittel Graubünden, art. no. 01.2490); authors Tanja Rietmann, Hans Utz; year 2020 (1st edition); no ISBN printed. PDF pages: 55 (cover/title page verified against the record title; books.json record says 55). Verdict: COMPLETE — the Sek II companion repeats the Sek I background (already placed under Book 4) and adds a Vertiefung (deepening) plus extra documents per case; only those additions are placed here. Tally: 7 placements — 2 to existing lessons, 5 NEW LESSON NEEDED. Parallel editions placed under this book: Book 8 — *Agid u sforz? Begleitband Sekundarstufe II* (teacher guide, Romansh), 58 PDF pp., COMPLETE — parallel language edition, placed once under Book 7; Book 9 — *Assistenza o coercizione? Begleitband Sekundarstufe II* (teacher guide, Italian), 58 PDF pp., COMPLETE — parallel language edition, placed once under Book 7. Placements at liqlearns-courses-work/expansion-history-2026-11-15/switzerland-placements.md.
+
+This book set's second placement here stands on a teacher guide (Book 7). That row stands on it as teacher-guide evidence only, labelled as such; Switzerland is counted in this lesson through the student reader (Book 1), and the guide row adds no count beyond it.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Switzerland part — Case 1 source pages: Wie wohnte die Familie Albin? / Sophia Albin — eine Alkoholikerin? — story beats: two welfare visitors' home-visit reports, a psychiatric report and lawyer Gaudenz Canova's appeal are all that survives of the family, and the cantonal government still approves the dissolution in 1953 (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Switzerland, *Sorge oder Zwang? Leseheft*, printed pp. 7–8 |
+| Switzerland part — Case 3 Document D10: Über Erinnerungen — story beats: Cornelia Studer opens her memoir by admitting her lived and her merely heard episodes have merged, then finds the official files differ sharply from both, and pupils must judge what such a witness account can and cannot prove (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Switzerland, *Sorge oder Zwang? Begleitband Sekundarstufe II* (teacher guide — evidence), printed p. 37 |
+
+Switzerland's own way (whole set): History is taught as five true life-stories from one canton (Graubünden/Grischun/Grigioni). A slim pupil reader tells each fate as a story with facsimile original sources, and a teacher companion at each level (Sekundarstufe I ≈ Grade 7, Sekundarstufe II ≈ Grade 10) supplies the background, the worksheets and — at Sek II — extra documents and a deepening question per case. The question over the whole set is in its title: care, or coercion? Switzerland's own way (the reader): Five representative fates stand for over 100,000 people hit by compulsory welfare measures; each story is told first, then continued by the pupil from photographed original files, and each ends on an open judgement question, not a verdict.
+
+**Acceptance count: taught in 4 countries (Ethiopia, Saudi Arabia, Gambia, Switzerland).**
