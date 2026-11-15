@@ -1,6 +1,6 @@
 # Sources — River landforms — from V-valley to delta
 
-countries: Ethiopia, Barbados, Malaysia, India, United Kingdom, Fiji, Slovenia, Sudan, Sri Lanka, Pakistan, Libya, Mozambique, Iraq, Bhutan
+countries: Ethiopia, Barbados, Malaysia, India, United Kingdom, Fiji, Slovenia, Sudan, Sri Lanka, Pakistan, Libya, Mozambique, Iraq, Bhutan, South Sudan
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -38,6 +38,10 @@ countries: Ethiopia, Barbados, Malaysia, India, United Kingdom, Fiji, Slovenia, 
 
 **Book 18:** *INTERMEDIATE GEOGRAPHY CLASS IX* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu (title page; developed with the Royal Education Council, Paro); year Reprint 2024 (page footers); ISBN no ISBN printed (no imprint page in the PDF). Title as printed: INTERMEDIATE GEOGRAPHY CLASS IX. Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 123 (cover/title page verified against the record title; byte size 10,807,956 and page count match the books.json record exactly — read via the record's ministry source URL). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
 
+**Book 19:** *Secondary Geography 1 Student's Book* (student book, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 1 Student's Book. Grade: Secondary 1 / Grade 9 (student/teacher: STUDENT). PDF pages: 146 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
+
+**Book 20:** *Secondary Geography 2 Teacher's Guide* (teacher guide, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 2 Teacher's Guide. Grade: Secondary 2 / Grade 10 (student/teacher: TEACHER). PDF pages: 135 (cover/title page verified against the record title). Verdict: COMPLETE. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Upper and middle courses | G12 student #22, printed pp. 28–29 |
@@ -59,8 +63,10 @@ countries: Ethiopia, Barbados, Malaysia, India, United Kingdom, Fiji, Slovenia, 
 | Bhutan part — 3.2 Stages of Rivers | Bhutan, *Bhutan Grade 5 Social Studies*, 3.2 Stages of Rivers — printed p. 12 |
 | Bhutan part — Ch.4 4.2 Stages of River | Bhutan, *Bhutan Grade 8 Geography*, Ch.4 4.2 Stages of River — printed p. 26 |
 | Bhutan part — Ch.7 7.6 Features formed by a river | Bhutan, *Bhutan Grade 9 Geography*, Ch.7 7.6 Features formed by a river — printed p. 60 |
+| South Sudan part — River processes and landforms along the Nile (oxbow lakes, cataracts) | South Sudan, *South Sudan Grade 9 S1 Geography SB*, River processes and landforms along the Nile (oxbow lakes, cataracts) — printed p. 135 |
+| South Sudan part — Guide: river deltas, glaciation and underground rivers (teacher guide — evidence) | South Sudan, *South Sudan Grade 10 S2 Geography TG* (teacher guide), Guide: river deltas, glaciation and underground rivers — printed p. 34 |
 
-**Acceptance count: taught in 14 countries (Ethiopia, Barbados, Malaysia, India, United Kingdom, Fiji, Slovenia, Sudan, Sri Lanka, Pakistan, Libya, Mozambique, Iraq, Bhutan).**
+**Acceptance count: taught in 15 countries (Ethiopia, Barbados, Malaysia, India, United Kingdom, Fiji, Slovenia, Sudan, Sri Lanka, Pakistan, Libya, Mozambique, Iraq, Bhutan, South Sudan).**
 
 Barbados's own way: this is the shared Caribbean CSEC examination textbook used in Barbados — every world process is re-taught through Caribbean case studies (the Caribbean plate, Montserrat's volcano, Jamaica's coasts and Kingston's urban problems, St Lucia's reefs, Bahamas/Jamaica/Puerto Rico karst, Guyana's rivers), map and field skills are folded into the chapters, and the course ends in a School-Based Assessment fieldwork project. That way is stocked here as the way Barbados teaches this thing; it does not change the acceptance count above.
 
@@ -99,3 +105,7 @@ Bhutan's own way (Bhutan Grade 5 Social Studies): Grade 5 spirals from the Earth
 Bhutan's own way (Bhutan Grade 8 Geography): Class VIII deepens the same three strands with real map-work (scale conversion, grid references, contours and profiles) and Bhutan-specific hazard and resource content, including the Rubesa wind turbine and hydroelectric dams as national resource examples.
 
 Bhutan's own way (Bhutan Grade 9 Geography): The Intermediate level (IX–X) treats each world topic at full textbook depth and keeps the Bhutan case inside it — Soils of Bhutan, agro-ecological zones and farming practices of Bhutan, and common disasters in Bhutan (including GLOF) alongside the world disaster survey.
+
+South Sudan's own way (South Sudan Grade 9 S1 Geography SB): Geography is built around South Sudan itself — its own physical features, resources, floods/drought experience and the Nile — with paper-folding and paper-tearing practical experiments for folding, faulting and sea-floor spreading, and group discussion of local examples in nearly every topic.
+
+South Sudan's own way (South Sudan Grade 10 S2 Geography TG) (teacher guide — evidence): Mirrors the student's book's 8 units with content maps, expected answers and group-presentation case studies (agriculture solutions, fishing solutions, fold-mountain impacts), plus a field-observation exercise on the environment near the school. That evidence is stocked here as the way South Sudan teaches this thing; it is cited as evidence only — South Sudan is counted in this lesson through its student book(s).

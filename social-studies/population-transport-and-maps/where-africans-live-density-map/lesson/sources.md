@@ -1,6 +1,6 @@
 # Sources — Where Africans live — density map
 
-countries: Ethiopia, Slovenia, Yemen, Moldova, Laos, Armenia
+countries: Ethiopia, Slovenia, Yemen, Moldova, Laos, Armenia, South Sudan
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). First published 2023 under GEQIP-E. ISBN: 978-99990-0-049-9. 205 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md.
 
@@ -16,6 +16,10 @@ countries: Ethiopia, Slovenia, Yemen, Moldova, Laos, Armenia
 
 **Book 7:** *Աշխարհագրություն (Հասարակական աշխարհագրություն: Տարածաշրջաններ և պետություններ) — Geography (Social geography: Regions and states), textbook for grade 8* (student book, Armenian) — «ՄԱՆՄԱՐ» (Manmar), Yerevan; year 2024; ISBN 978-9939-62-281-1. Authors: A. Hovsepyan, R. Margaryan. Approved by the RA Ministry of Education, Science, Culture and Sport. Title as printed: Աշխարհագրություն (Հասարակական աշխարհագրություն: Տարածաշրջաններ և պետություններ) — Geography (Social geography: Regions and states), textbook for grade 8. Grade: 8 (student/teacher: STUDENT). PDF pages: 177 (printed 176; cover/title page verified against the record title). Verdict: COMPLETE. Read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
 
+**Book 8:** *Secondary Geography 4 Student's Book* (student book, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 4 Student's Book. Grade: Secondary 4 / Grade 12 (student/teacher: STUDENT). PDF pages: 200 (cover/title page verified against the record title). Image-only PDF: read via 100-DPI 4-up contact sheets; the full printed table of contents (printed pp. 2–194) was read and every unit spot-checked on the sheets.. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
+
+**Book 9:** *Primary Social Studies 3 Pupil's Book* (student book, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Primary Social Studies 3 Pupil's Book. Grade: Primary 3 / Grade 3 (student/teacher: STUDENT). PDF pages: 55 (cover/title page verified against the record title). Verdict: COMPLETE (combined Social Studies book — Geography parts placed; other-subject parts named here, not placed). Other subjects in this book (named, not placed): Unit 1 The People of Africa — community ceremonies past and present, past leaders, national symbols (History/Civics/culture), printed pp. 1–13; Unit 5 More Problem Solving — causes of conflict, keeping peace, reporting landmines (Civics/safety), printed pp. 43–49. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Distribution and density — two words for the map | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 4, printed pp. 112–113 |
@@ -26,8 +30,10 @@ countries: Ethiopia, Slovenia, Yemen, Moldova, Laos, Armenia
 | Laos part — Part II Lesson 5: Population in Africa | Laos, *Laos Grade 7 laos-g07-geography-teacher*, Part II Lesson 5: Population in Africa — printed p. 18 (teacher-guide evidence) |
 | Laos part — Part II Lesson 5: Population in Africa | Laos, *Laos Grade 7 laos-g07-geography-student*, Part II Lesson 5: Population in Africa — printed p. 28 |
 | Armenia part — Lesson 54 Africa: population | Armenia, *Armenia Grade 8 Geography student*, Lesson 54 Africa: population — printed p. 155 |
+| South Sudan part — East Africa: population distribution and settlement | South Sudan, *South Sudan Grade 12 S4 Geography SB*, East Africa: population distribution and settlement — printed p. 139 |
+| South Sudan part — Places on the map that have more people than others | South Sudan, *South Sudan Grade 3 P3 Social Studies SB*, Places on the map that have more people than others — printed p. 39 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Slovenia, Yemen, Moldova, Laos, Armenia).**
+**Acceptance count: taught in 7 countries (Ethiopia, Slovenia, Yemen, Moldova, Laos, Armenia, South Sudan).**
 
 Pairing: the teacher guide was first published in 2022 and the student textbook in 2023, with the same writers and the same eight units in the same order; the student book is the learner text of record, and teacher-guide rows above are evidence only.
 
@@ -44,3 +50,7 @@ Laos's own way (Laos Grade 7 laos-g07-geography-teacher): a continents year — 
 Laos's own way (Laos Grade 7 laos-g07-geography-student): the student twin of Book 3 — same 5 parts / 22 lessons (continents year) with full illustrated text and per-continent maps.
 
 Armenia's own way (Armenia Grade 8 Geography student): a pure regional-geography year — the world is divided into regions following the UN scheme, each region and chosen state is studied in the same fixed order (position, natural conditions and resources, population, economy), and Armenia's neighbours (Georgia, Azerbaijan, Turkey, Iran) get full country lessons of their own.
+
+South Sudan's own way (South Sudan Grade 12 S4 Geography SB): A global book (globalization, oceans, world energy, the development gap) that keeps returning to South Sudan — ARCISS signing photo in Juba for political globalization, South Sudan classroom progress-check scenarios, and a closing exercise asking learners, as citizens of South Sudan, how their nation can grow economically.
+
+South Sudan's own way (South Sudan Grade 3 P3 Social Studies SB): The land unit is anchored on the child's own payam — Mount Kinyeti, the River Nile and the Sudd Swamp are the named examples — and features are taught as double-sided: benefits to us, and problems they can cause, like rivers that fill and flood.

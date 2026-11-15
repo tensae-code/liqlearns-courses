@@ -1,6 +1,6 @@
 # Sources — Degradation in all its forms
 
-countries: Ethiopia, Zambia, Haiti, Angola, Eritrea, India, Papua New Guinea, Uganda, Venezuela, Yemen, Mozambique, Jordan, Nicaragua
+countries: Ethiopia, Zambia, Haiti, Angola, Eritrea, India, Papua New Guinea, Uganda, Venezuela, Yemen, Mozambique, Jordan, Nicaragua, South Sudan
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -34,6 +34,10 @@ countries: Ethiopia, Zambia, Haiti, Angola, Eritrea, India, Papua New Guinea, Ug
 
 **Book 16:** *Módulo Autoformativo de Ciencias Sociales — Geografía, 9no Grado (Educación Secundaria a Distancia en el Campo)* (student book, Spanish) — Ministerio de Educación (MINED), Nicaragua, PROSEN; year 2017; ISBN no ISBN printed. Title as printed: Módulo Autoformativo de Ciencias Sociales — Geografía, 9no Grado (Educación Secundaria a Distancia en el Campo). Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 300 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nicaragua-placements.md.
 
+**Book 17:** *Secondary Geography 2 Student's Book* (student book, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 2 Student's Book. Grade: Secondary 2 / Grade 10 (student/teacher: STUDENT). PDF pages: 217 (cover/title page verified against the record title). Image-only PDF: read via 100-DPI 4-up contact sheets; the full printed table of contents (printed pp. 1–208) was read and every unit spot-checked on the sheets, cross-checked against the teacher's guide text.. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
+
+**Book 18:** *Secondary Geography 2 Teacher's Guide* (teacher guide, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 2 Teacher's Guide. Grade: Secondary 2 / Grade 10 (student/teacher: TEACHER). PDF pages: 135 (cover/title page verified against the record title). Verdict: COMPLETE. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The types | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 6, printed pp. 177–179 |
@@ -54,8 +58,10 @@ countries: Ethiopia, Zambia, Haiti, Angola, Eritrea, India, Papua New Guinea, Ug
 | Mozambique part — Lição 16: Problemas ambientais decorrentes da actividade pecuária (vegetation removal, agro-toxics reaching groundwater and rivers) | Mozambique, *Mozambique Grade 7 PESD I Mod 2*, Lição 16: Problemas ambientais decorrentes da actividade pecuária (vegetation removal, agro-toxics reaching groundwater and rivers) — printed p. 74 |
 | Jordan part — Unit 5 Lesson 3: Environmental Problems (المشكلات البيئية) | Jordan, *Jordan G12 Geography T2*, Unit 5 Lesson 3: Environmental Problems (المشكلات البيئية) — printed p. 69 |
 | Nicaragua part — Causas y consecuencias de los desequilibrios ambientales | Nicaragua, *Nicaragua Grade 9 CCSS Geografía Módulo G9*, Causas y consecuencias de los desequilibrios ambientales — printed p. 269 |
+| South Sudan part — Environmental degradation and its causes: pollution (air, water, land, noise) | South Sudan, *South Sudan Grade 10 S2 Geography SB*, Environmental degradation and its causes: pollution (air, water, land, noise) — printed p. 191 |
+| South Sudan part — Guide: effects of environmental degradation on tourism; city pollution (teacher guide — evidence) | South Sudan, *South Sudan Grade 10 S2 Geography TG* (teacher guide), Guide: effects of environmental degradation on tourism; city pollution — printed p. 122 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Angola, Eritrea, India, Uganda, Venezuela, Yemen, Mozambique, Jordan, Nicaragua). Zambia is named here as teacher-guide evidence only, counted nowhere. Haiti is named here as teacher-sequence evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 11 countries (Ethiopia, Angola, Eritrea, India, Uganda, Venezuela, Yemen, Mozambique, Jordan, Nicaragua, South Sudan). Zambia is named here as teacher-guide evidence only, counted nowhere. Haiti is named here as teacher-sequence evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Haiti's own way (teacher sequence — evidence): The environment is studied from the schoolyard outward — a field diagnosis of the local environment (bare soils, dried springs, waste, noise), scaled up to a map and graph of the whole territory's problems (deforestation, erosion, water), then turned into a pupil-designed sustainable land-use project for a greener Haiti. That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
@@ -86,3 +92,7 @@ Mozambique's own way (Mozambique Grade 7 PESD I Mod 2): human/economic geography
 Jordan's own way (Jordan G12 Geography T2): the final Geography term is climate (atmosphere, elements, classifications, change), environment (components, problems, protection, Jordanian ecotourism), and economic geography (production, agriculture, industry, services, development).
 
 Nicaragua's own way (Nicaragua Grade 9 CCSS Geografía Módulo G9): A pure-Geography self-study module (no History/Civics in this book): the Grade 9 world-Geography course taught continent by continent — position and political organisation, physical landscape, human diversity, production and consumption, and a closing planet-care unit on prevention and mitigation — with Nicaragua used as the home reference point throughout.
+
+South Sudan's own way (South Sudan Grade 10 S2 Geography SB): Each general topic is immediately re-taught through South Sudan — its named rivers (Sobat, Adar, Yabus, Daga), the Sudd swamplands, its oil, fishing and transport problems, and case-study research tasks set by a mock ministry brief.
+
+South Sudan's own way (South Sudan Grade 10 S2 Geography TG) (teacher guide — evidence): Mirrors the student's book's 8 units with content maps, expected answers and group-presentation case studies (agriculture solutions, fishing solutions, fold-mountain impacts), plus a field-observation exercise on the environment near the school. That evidence is stocked here as the way South Sudan teaches this thing; it is cited as evidence only — South Sudan is counted in this lesson through its student book(s).

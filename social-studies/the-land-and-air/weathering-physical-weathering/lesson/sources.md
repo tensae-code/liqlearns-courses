@@ -1,6 +1,6 @@
 # Sources — Weathering — Physical Weathering
 
-countries: Ethiopia, Malaysia, Slovenia, Kuwait, Mozambique, Jordan
+countries: Ethiopia, Malaysia, Slovenia, Kuwait, Mozambique, Jordan, South Sudan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Malaysia, Slovenia, Kuwait, Mozambique, Jordan
 
 **Book 7:** *الجغرافيا — الصف الثاني عشر / المسار الأكاديمي — الفصل الدراسي الأول (Geography, Grade 12 Academic Track, Term 1; this PDF is the NCCD preparation copy, نسخة قيد الإعداد, 1446هـ/2025م)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; year 2025; ISBN 978-9923-41-949-6. Title as printed: الجغرافيا — الصف الثاني عشر / المسار الأكاديمي — الفصل الدراسي الأول (Geography, Grade 12 Academic Track, Term 1; this PDF is the NCCD preparation copy, نسخة قيد الإعداد, 1446هـ/2025م). Grade: 12 (student/teacher: STUDENT). PDF pages: 145 (cover verified; byte size 121,517,865 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
 
+**Book 8:** *Secondary Geography 4 Student's Book* (student book, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 4 Student's Book. Grade: Secondary 4 / Grade 12 (student/teacher: STUDENT). PDF pages: 200 (cover/title page verified against the record title). Image-only PDF: read via 100-DPI 4-up contact sheets; the full printed table of contents (printed pp. 2–194) was read and every unit spot-checked on the sheets.. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Denudation: weathering plus erosion | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 16–17 |
@@ -26,8 +28,9 @@ countries: Ethiopia, Malaysia, Slovenia, Kuwait, Mozambique, Jordan
 | Kuwait part — Part Three, Chapter 1: the outer forces level the Earth's surface, cutting down the high parts and filling the low, through weathering and erosion; weathering is the weather's work of breaking rock where it stands — mechanical (physical) weathering breaks and crumbles the rock with no change in its mineral make-up | Kuwait, *Kuwait Grade 11 Geography Principles G11 T1*, Part Three, Chapter 1: the outer forces level the Earth's surface, cutting down the high parts and filling the low, through weathering and erosion; weathering is the weather's work of breaking rock where it stands — mechanical (physical) weathering breaks and crumbles the rock with no change in its mineral make-up — printed pp. 88–89 |
 | Mozambique part — Lição 25: meteorização (crioclastia/frost shattering etc.) | Mozambique, *Mozambique Grade 7 PESD I Mod 1*, Lição 25: meteorização (crioclastia/frost shattering etc.) — printed p. 128 |
 | Jordan part — Unit 1 Lesson 3: The Role of Weathering in Shaping the Earth's Surface (دور التجوية) | Jordan, *Jordan G12 Geography T1*, Unit 1 Lesson 3: The Role of Weathering in Shaping the Earth's Surface (دور التجوية) — printed p. 21 |
+| South Sudan part — Weathering of rocks | South Sudan, *South Sudan Grade 12 S4 Geography SB*, Weathering of rocks — printed p. 105 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Malaysia, Slovenia, Kuwait, Mozambique, Jordan).**
+**Acceptance count: taught in 7 countries (Ethiopia, Malaysia, Slovenia, Kuwait, Mozambique, Jordan, South Sudan).**
 
 Pairing warning: the Grade 8 teacher guide is an Addis Ababa bureau book and the student book is an Amhara bureau book; they are NOT edition-matched, and the guide in hand is truncated (printed pp. 1–47 only, Units 1–3). Pupil content in this lesson comes from the Amhara student book; anything from the guide is labelled (teacher guide — evidence) and never presented as pupil-taught.
 
@@ -42,3 +45,5 @@ Kuwait's own way (Kuwait Grade 11 Geography Principles G11 T1): Geography is tau
 Mozambique's own way (Mozambique Grade 7 PESD I Mod 1): distance-learning self-study module — every lesson follows the same rhythm (introduction, development with worked examples, exercises, answer key, lesson summary); the four Earth spheres are the organising spine of the whole module, each sphere closed by a "use, protection and conservation" lesson; local anchors throughout (Maputo temperature worked example, Zambezi delta, Moma/Namialo weather contrast).
 
 Jordan's own way (Jordan G12 Geography T1): the final-year Geography book is built in three blocks — the forces that shape Earth's surface, political geography (state power, borders, alliances, Jordan's national security), and population geography.
+
+South Sudan's own way (South Sudan Grade 12 S4 Geography SB): A global book (globalization, oceans, world energy, the development gap) that keeps returning to South Sudan — ARCISS signing photo in Juba for political globalization, South Sudan classroom progress-check scenarios, and a closing exercise asking learners, as citizens of South Sudan, how their nation can grow economically.

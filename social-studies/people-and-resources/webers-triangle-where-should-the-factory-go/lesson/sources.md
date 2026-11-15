@@ -1,6 +1,6 @@
 # Sources — Weber's triangle — where should the factory go?
 
-countries: Ethiopia, Barbados, Indonesia, India, Cambodia, Fiji, Slovenia, Venezuela, Afghanistan, Moldova, Mozambique, Iraq, Bhutan, Armenia, Cuba
+countries: Ethiopia, Barbados, Indonesia, India, Cambodia, Fiji, Slovenia, Venezuela, Afghanistan, Moldova, Mozambique, Iraq, Bhutan, Armenia, Cuba, South Sudan
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -44,6 +44,8 @@ countries: Ethiopia, Barbados, Indonesia, India, Cambodia, Fiji, Slovenia, Venez
 
 **Book 21:** *Geografía 2 — Octavo grado (the repo copy is the 2002 edition of the Grade 8 book; the 2024 programme and methodological orientations above belong to the newer edition of the same subject)* (student book, Spanish) — Editorial Pueblo y Educación / Ministerio de Educación, Cuba; year 2002; ISBN 959-13-0925-2. Title as printed: Geografía 2 — Octavo grado (the repo copy is the 2002 edition of the Grade 8 book; the 2024 programme and methodological orientations above belong to the newer edition of the same subject). Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 148 (cover/title page verified against the record title; grabbed via grab.py tree route, 4,803,285 bytes; full text read via pdftotext -layout; structure and printed pages taken from the book's own Índice). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
 
+**Book 22:** *Secondary Geography 2 Student's Book* (student book, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 2 Student's Book. Grade: Secondary 2 / Grade 10 (student/teacher: STUDENT). PDF pages: 217 (cover/title page verified against the record title). Image-only PDF: read via 100-DPI 4-up contact sheets; the full printed table of contents (printed pp. 1–208) was read and every unit spot-checked on the sheets, cross-checked against the teacher's guide text.. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The least-cost idea | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 5, printed pp. 129–131 |
@@ -69,8 +71,9 @@ countries: Ethiopia, Barbados, Indonesia, India, Cambodia, Fiji, Slovenia, Venez
 | Armenia part — §§4-5 Factors of industry location | Armenia, *Armenia Grade 11 Geography student*, §§4-5 Factors of industry location — printed p. 25 |
 | Cuba part — Unidad 5 Factores de localización de la industria (teacher guide — evidence) | Cuba, *Cuba Grade 8 OM Geografía Económica y Social G8* (teacher guide), Unidad 5 Factores de localización de la industria — printed p. 67 |
 | Cuba part — Capítulo 3 Factores que intervienen en la localización industrial; el complejo territorial de producción | Cuba, *Cuba Grade 8 Geografía 2 G8*, Capítulo 3 Factores que intervienen en la localización industrial; el complejo territorial de producción — printed p. 54 |
+| South Sudan part — Factors influencing the location of an industry: geographical and non-geographical, site requirements | South Sudan, *South Sudan Grade 10 S2 Geography SB*, Factors influencing the location of an industry: geographical and non-geographical, site requirements — printed p. 112 |
 
-**Acceptance count: taught in 15 countries (Ethiopia, Barbados, Indonesia, India, Cambodia, Fiji, Slovenia, Venezuela, Afghanistan, Moldova, Mozambique, Iraq, Bhutan, Armenia, Cuba).**
+**Acceptance count: taught in 16 countries (Ethiopia, Barbados, Indonesia, India, Cambodia, Fiji, Slovenia, Venezuela, Afghanistan, Moldova, Mozambique, Iraq, Bhutan, Armenia, Cuba, South Sudan).**
 
 Indonesia's own way (Grade 12): Grade 12 is applied human geography built entirely on Indonesian cases — regional development and spatial planning (tata ruang) measured against a Happiness Index, Industry 4.0 / Society 5.0, and Indonesia's own geopolitics and ASEAN-era cooperation as pillars of national resilience. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -113,3 +116,5 @@ Armenia's own way (Armenia Grade 11 Geography student): the senior Geography cou
 Cuba's own way (Cuba Grade 8 OM Geografía Económica y Social G8) (teacher guide — evidence): The guide's distinctive Cuban layer is territorial identity — learners characterise their own municipality's resources and the environmental problems of its economic sectors, and the world material (political map, population, resources, production) is always closed by comparison with Cuba. That evidence is stocked here as the way Cuba teaches this thing; it is cited as evidence only — Cuba is counted in this lesson through its student book(s).
 
 Cuba's own way (Cuba Grade 8 Geografía 2 G8): This older edition teaches world economic geography as a story — first the political map's dynamics through history (colonial empires, independences, 1914, post-1945, the 1960s, the 1990s), then resources, then production, and it closes with full regional studies; Latin America is studied first and in most depth, and every world topic is measured against Cuba's own sugar, tobacco, nickel and trade.
+
+South Sudan's own way (South Sudan Grade 10 S2 Geography SB): Each general topic is immediately re-taught through South Sudan — its named rivers (Sobat, Adar, Yabus, Daga), the Sudd swamplands, its oil, fishing and transport problems, and case-study research tasks set by a mock ministry brief.

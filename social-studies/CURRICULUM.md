@@ -7249,3 +7249,320 @@ Wind Energy And Sustainable Development (printed p.
 book(s)/workbook(s) (24 of them also cite a Cuba
 teacher guide as evidence only).
 Geography lessons: 3133 → 3180.
+
+
+## South Sudan — Geography expansion (merged 2026-11-15)
+522 placement lines stocked from South Sudan's 44
+records / 24 distinct books (all English, Mountain Top
+Publishers for MoGEI, Republic of South Sudan, 2018, no
+ISBN printed). The placements file's per-book tallies
+sum to exactly 522, matching the placement-line count
+book by book, and its existing/NEW split (286/236)
+agrees with the line flags (286 existing-flagged / 236
+NEW-flagged, 134 distinct NEW slugs) — no discrepancy.
+By lesson dir, 291 placements land in 127 standing
+lessons and 231 in the 131 new lessons. Three
+NEW-flagged slugs already stand as lessons
+(the-land-and-air/problems-caused-by-physical-features,
+6 placements;
+global-issues/effects-of-natural-disasters, 1;
+culture-and-work/culture-globalisation-and-cultural-change,
+1 — 8 placements in all) and their placements are
+stocked there, not rebuilt. One slug
+(global-issues/floods-causes-impacts-and-control) is
+flagged NEW in Book 1 and existing in Book 18; it does
+not stand, so it is built once as a new lesson and both
+placements stock there. Ninety-eight placements are
+remapped from 38 existing-flagged slugs that do not
+stand to the closest standing lesson covering the thing
+(original slug recorded in each provenance row):
+culture-and-work/farming-crops-and-livestock ->
+culture-and-work/primary-activities-agriculture (6);
+culture-and-work/fishing-and-hunting ->
+culture-and-work/primary-activities-fishing-grounds
+(2);
+culture-and-work/from-raw-materials-to-finished-goods
+->
+culture-and-work/secondary-activities-what-manufacturing-is
+(2); culture-and-work/jobs-and-trades-around-us ->
+people-and-resources/four-kinds-of-work (2);
+culture-and-work/subsistence-and-commercial-farming ->
+culture-and-work/farming-systems (2);
+first-steps/my-neighbourhood-what-is-around-me ->
+first-steps/my-neighbourhood-and-its-places (2);
+first-steps/natural-things-and-man-made-things-in-our-neighbourhood
+->
+first-steps/the-local-environment-natural-and-man-made-features
+(1); global-issues/climate-change-and-our-planet ->
+global-issues/climate-change-what-it-is-and-what-causes-it
+(3); global-issues/deforestation-cutting-the-rainforest
+-> global-issues/deforestation-and-how-to-stop-it (2);
+global-issues/what-we-can-do-climate-action ->
+global-issues/climate-change-effects-and-responses (3);
+people-and-resources/places-tourists-love-to-see ->
+people-and-resources/tourism-selling-the-landscape (3);
+population-transport-and-maps/getting-around-long-ago-and-today
+->
+population-transport-and-maps/transport-kinds-of-transport
+(2);
+population-transport-and-maps/measuring-distance-and-area-on-a-map
+-> the-land-and-air/map-work-measuring-distance (2);
+population-transport-and-maps/reading-a-map-of-our-area
+-> the-land-and-air/drawing-a-sketch-map (7);
+population-transport-and-maps/symbols-for-things-on-a-map
+-> the-land-and-air/reading-map-symbols (3);
+population-transport-and-maps/the-compass-points ->
+the-land-and-air/compass-points-direction-on-a-map (2);
+population-transport-and-maps/the-parts-of-a-map ->
+the-land-and-air/parts-every-map-must-have (2);
+population-transport-and-maps/towns-grow-into-cities ->
+population-transport-and-maps/urbanisation-and-growth-of-cities
+(1);
+population-transport-and-maps/villages-farms-and-rural-life
+->
+population-transport-and-maps/village-and-town-two-kinds-of-settlement
+(3); population-transport-and-maps/what-a-map-is ->
+the-land-and-air/what-a-map-is (1);
+population-transport-and-maps/why-people-move-push-and-pull
+->
+population-transport-and-maps/push-and-pull-why-africans-move
+(4);
+resources-and-conflict/keeping-our-environment-clean ->
+global-issues/protecting-the-environment-where-you-live
+(5);
+resources-and-conflict/pollution-air-water-and-land ->
+global-issues/pollution-air-water-soil-and-noise (4);
+resources-and-conflict/protecting-endangered-animals ->
+global-issues/protecting-wildlife (1);
+resources-and-conflict/using-natural-resources-wisely
+-> resources-and-conflict/using-resources-well (4);
+resources-and-conflict/war-and-violence-effects-on-a-country
+->
+resources-and-conflict/war-displacement-and-the-environment
+(1);
+the-land-and-air/africa-a-continent-of-many-landscapes
+-> the-land-and-air/africa-its-nature-and-landscapes
+(4);
+the-land-and-air/desert-life-finding-water-and-shade ->
+the-land-and-air/humans-in-the-desert-zone (1);
+the-land-and-air/factors-that-affect-climate ->
+the-land-and-air/weather-and-climate-the-controllers
+(2);
+the-land-and-air/features-on-the-land-hills-valleys-plains
+-> first-steps/physical-features-in-our-district (11);
+the-land-and-air/fold-mountains-and-block-mountains ->
+the-land-and-air/folding-anticlines-synclines-and-fold-mountains
+(1);
+the-land-and-air/fold-mountains-and-block-mountains ->
+the-land-and-air/land-shaping-forces-faulting (1);
+the-land-and-air/the-elements-of-weather ->
+the-land-and-air/the-elements-we-measure (2);
+the-land-and-air/the-great-rift-valley ->
+the-land-and-air/land-shaping-forces-the-east-african-rift-valley
+(1); the-land-and-air/the-worlds-great-mountains ->
+the-land-and-air/major-and-minor-landforms-built-up-and-worn-down
+(1); the-land-and-air/volcanoes-and-volcanic-mountains
+-> the-land-and-air/formation-of-volcanic-mountains
+(2); the-land-and-air/weather-today-sun-rain-and-wind
+-> the-land-and-air/weather-today-and-climate (1);
+the-land-and-air/why-weather-forecasts-matter ->
+the-land-and-air/weather-forecasting (1). The 12
+even-numbered books are teacher guides (172
+placements), cited as teacher-guide evidence only,
+outside acceptance counts; every destination takes at
+least one student-book placement except 7 standing
+lessons that take 1 teacher-guide placement each only
+(culture-and-work/culture-globalisation-and-cultural-change,
+global-issues/cities-and-the-environment,
+global-issues/global-warming-and-greenhouse-gases,
+global-issues/mapping-corruption-and-the-remedies,
+people-and-resources/landlocked-countries-with-no-sea,
+the-land-and-air/locating-by-latitude-and-longitude,
+the-land-and-air/your-own-enquiry-a-locality-research-project)
+— South Sudan is added to their countries lines and
+named there as teacher-guide evidence only, count
+unchanged — and 7 new lessons that stand on a teacher
+guide only (acceptance count 0 countries). Books 5 and
+6 (S3 Geography student's book and teacher's guide,
+Grade 11) are NOT in GitHub (books.json in_pushed:
+false); they were read from the publisher source files
+at the records' own source_urls (byte sizes matching
+the records exactly) and staged at phase3-staging under
+the 2026-11-13 rule — carried exactly in their book
+entries. Book 24's PDF binds the same 72-page guide
+twice; its content is counted once. South Sudan's own
+way: Geography is built around South Sudan itself — its
+own physical features, resources, floods/drought
+experience and the Nile — in the secondary books, and
+in the primary Social Studies books the land is taught
+from the child's own payam outward (Mount Kinyeti, the
+River Nile and the Sudd swamps as the named examples),
+with paper-folding and paper-tearing practical
+experiments, hand-made weather instruments and a school
+weather station, and map work on the child's own
+classroom, area and country. Stocked into standing
+lessons (291 placements across 127 lessons). 131 NEW
+lessons built (231 placements) — **First Steps**:
+Changes in the Place Where We Live (printed p. 2;
+printed p. 7), Man Made Features Around Us (printed p.
+35); **The Land and Air**: Basins of South Sudan
+(printed p. 82), Boreal Forests (printed p. 101),
+Climatic Regions of South Sudan (printed p. 30; printed
+p. 24; printed p. 23), Erosional Coastal Landforms
+(printed p. 31), Fold Mountains Effects on People
+(printed p. 33; printed p. 18; printed p. 26),
+Formation of Volcanic Mountains (printed p. 4; printed
+p. 32; printed p. 22), How Climate Affects Human
+Activities (printed p. 25; printed p. 29), How Lakes
+Are Formed (printed p. 42; printed p. 38), How Physical
+Features Are Formed (printed p. 29; printed p. 25;
+printed p. 32; printed p. 33; printed p. 25; printed p.
+33), How Rivers Form (printed p. 29), How Seas and
+Oceans Affect Global Climate (printed p. 43), Igneous
+Rocks (printed p. 93), Importance of the River Nile
+(printed p. 138), Lakes of South Sudan (printed p. 46),
+Major Climatic Zones of Africa (printed p. 21),
+Measuring and Recording Weather (printed p. 22; printed
+p. 27), Metamorphic Rocks (printed p. 98), Mountains of
+South Sudan (printed p. 81; printed p. 56; printed p.
+23), Natural Ecosystems Introduction (printed p. 52;
+printed p. 43), Photography in Geography (printed p.
+152; printed p. 106), Physical Features and Plains of
+South Sudan (printed p. 74; printed p. 52; printed p.
+48; printed p. 39; printed p. 25; printed p. 23;
+printed p. 21; printed p. 29; printed p. 37), Physical
+Geography of East Africa (printed p. 133; printed p.
+67; printed p. 26), Plateaus of South Sudan (printed p.
+75; printed p. 37), Problems Caused by Bad Weather
+(printed p. 26; printed p. 29), Rainforests of South
+Sudan (printed p. 59), Reading and Interpreting
+Photographs (printed p. 158; printed p. 109), Residual
+Mountains (printed p. 80; printed p. 22), Rivers of
+South Sudan (printed p. 83; printed p. 58; printed p.
+38), Savannas and the Sudd of South Sudan (printed p.
+63; printed p. 51), Seasons of South Sudan (printed p.
+32; printed p. 36), Sedimentary Rocks (printed p. 95;
+printed p. 54), Significance of Plate Movements
+(printed p. 21), South Sudan an Introduction (printed
+p. 1), Southeast Asia Mainland and Maritime (printed p.
+118; printed p. 68), Temperate Rainforests (printed p.
+59; printed p. 99), The Central African Region (printed
+p. 72), The North African Region (printed p. 151), The
+River Nile Course From Source to Mouth (printed p.
+130), The Rock Cycle (printed p. 102), The Southern
+African Region (printed p. 152), The Tundra Ecosystem
+(printed p. 66), The West African Region (printed p.
+146), Volcanicity Effects on Human Activities (printed
+p. 50), What Rocks Are (printed p. 92); **Population,
+Transport and Maps**: Coastal Towns of East Africa
+(printed p. 67; printed p. 41), Communication and
+Economic Life (printed p. 11; printed p. 8; printed p.
+13), Development in Coastal Towns (printed p. 61),
+Population Distribution by Ethnicity in South Sudan
+(printed p. 107; printed p. 61), Population
+Distribution by Religion in South Sudan (printed p.
+108), Population Meaning and Classification (printed p.
+88), Population Trends of South Sudan (printed p. 97;
+printed p. 68), Reducing Unwanted Migration (printed p.
+44), Statistical and Distribution Maps (printed p.
+182), The Worlds Megacities (printed p. 82), Transport
+and Communication in South Sudan (printed p. 29),
+Transport and Economic Development (printed p. 31;
+printed p. 22); **People and Resources**: Challenges of
+the Fishing Industry (printed p. 81), Comparing Tourism
+in South Sudan and South Africa (printed p. 41; printed
+p. 53), Developing Tourism in South Sudan (printed p.
+91; printed p. 56; printed p. 39; printed p. 47;
+printed p. 75), Diamond Mining (printed p. 122),
+Economic Features Around Us (printed p. 27), Economy of
+the East African Region (printed p. 140), Education and
+Economic Development in Asia (printed p. 124), Emerging
+Economies (printed p. 34; printed p. 26), Fishing
+Grounds of South Sudan (printed p. 74; printed p. 90),
+Forest Products Bamboo Windbreaks and Oils (printed p.
+108), Forestry in South Sudan (printed p. 46; printed
+p. 50; printed p. 64), Global Energy Consumption
+(printed p. 88; printed p. 52), How Farming Changes the
+Land (printed p. 70; printed p. 38), Importance of
+Farming to the Economy (printed p. 50; printed p. 43),
+Importance of International Trade to Africa (printed p.
+92), Iron Mining (printed p. 128), Labour Supply in
+Southeast Asia (printed p. 123), Mineral Resources of
+South Sudan (printed p. 108; printed p. 79; printed p.
+65; printed p. 64; printed p. 49; printed p. 55;
+printed p. 55; printed p. 69), Oil in South Sudan
+(printed p. 76), Power and Electricity in South Sudan
+(printed p. 78), Tourism and Foreign Exchange the Nepal
+Case (printed p. 89), Uses of Diamonds (printed p.
+125), Uses of Gold (printed p. 117), Uses of Physical
+Features (printed p. 26; printed p. 24; printed p. 18;
+printed p. 26; printed p. 32; printed p. 43; printed p.
+28; printed p. 43), Water and Vegetation Resources of
+South Sudan (printed p. 111; printed p. 74), Why
+Southeast Asia Matters (printed p. 121; printed p. 65),
+World Tourism Destinations (printed p. 88); **Culture
+and Work**: Challenges Facing Farming in South Sudan
+(printed p. 65; printed p. 63), Climate and Farming
+Systems in Africa (printed p. 73; printed p. 46;
+printed p. 52; printed p. 33), Command Economies
+(printed p. 39), Factors That Influence Trade (printed
+p. 72; printed p. 88), Fish Farming in South Sudan
+(printed p. 78), Historic Trade Routes Spice and
+Incense (printed p. 20; printed p. 21; printed p. 20),
+How International Trade Evolved (printed p. 16),
+Industrialization in Europe (printed p. 116),
+Industrialization in South Sudan (printed p. 80),
+Industrialization Spreads and Modern Industry (printed
+p. 122), Iron Processing (printed p. 130), Labour and
+Taxation in South Sudan (printed p. 95), Land Tenure
+Systems (printed p. 130; printed p. 71), Market
+Economies (printed p. 41), Methods of Mining (printed
+p. 58; printed p. 62), Mixed Economies (printed p. 45),
+Rubber and Consumer Industries of Southeast Asia
+(printed p. 126), Salt Routes of Europe (printed p.
+24), Shifting Cultivation and Bush Fallowing (printed
+p. 42), The Amber Route (printed p. 23), The Currency
+of South Sudan (printed p. 73; printed p. 53), The
+Rural Economy in Africa (printed p. 129), The World
+Trade Organization (printed p. 184; printed p. 91),
+Traditional Economies (printed p. 37; printed p. 30),
+Trans Saharan Trade Routes (printed p. 26), Women in
+African Farming (printed p. 132; printed p. 76);
+**Resources and Conflict**: Challenges of Resource
+Utilisation in South Sudan (printed p. 120), Coastal
+Management (printed p. 69; printed p. 44), Mining and
+the Environment (printed p. 61; printed p. 63),
+Sustainable Use of Seas and Oceans (printed p. 54;
+printed p. 39); **Global Issues**: Bridging the
+Development Gap (printed p. 175), Cyclones Formation
+Effects and Mitigation (printed p. 65), Disaster
+Preparedness and Response Plans (printed p. 66; printed
+p. 41), Earthquake Safety and Mitigation (printed p.
+58), Ecosystem Management and Conservation (printed p.
+70; printed p. 47; printed p. 41; printed p. 50),
+Factors Driving Globalization (printed p. 6), Floods
+Causes Impacts and Control (printed p. 59; printed p.
+36), Forest Conservation Case Studies British Columbia
+and Gabon (printed p. 114), Global Challenges and the
+World At Risk (printed p. 53; printed p. 34),
+Industrial and Man Made Disasters (printed p. 71),
+Industrialisation and the Environment (printed p. 35;
+printed p. 45; printed p. 36), Natural Hazards and Man
+Made Disasters (printed p. 53; printed p. 38),
+Overdependence on Foreign Aid (printed p. 83),
+Sustainable Forest Management (printed p. 112), Types
+of Hazards (printed p. 54; printed p. 37), Why the
+Development Gap Is Growing (printed p. 163) — 124 of
+the 131 new lessons are taught in 1 country (South
+Sudan), 8 questions each, standing on South Sudan
+student book(s); 7 stand on a teacher guide only
+(teacher-guide evidence only, acceptance count 0
+countries):
+culture-and-work/industrialization-in-south-sudan,
+global-issues/overdependence-on-foreign-aid,
+people-and-resources/economic-features-around-us,
+people-and-resources/importance-of-international-trade-to-africa,
+population-transport-and-maps/reducing-unwanted-migration,
+the-land-and-air/significance-of-plate-movements,
+the-land-and-air/the-central-african-region.
+Geography lessons: 3180 → 3311.

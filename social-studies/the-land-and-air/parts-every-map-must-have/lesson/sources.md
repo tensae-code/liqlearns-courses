@@ -1,6 +1,6 @@
 # Sources — Parts every map must have
 
-countries: Ethiopia, Palestine, Samoa, Eritrea, Rwanda, Fiji, Papua New Guinea, Sudan, Pakistan, Mozambique, Jordan, Iraq, Bhutan
+countries: Ethiopia, Palestine, Samoa, Eritrea, Rwanda, Fiji, Papua New Guinea, Sudan, Pakistan, Mozambique, Jordan, Iraq, Bhutan, South Sudan
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -42,6 +42,14 @@ countries: Ethiopia, Palestine, Samoa, Eritrea, Rwanda, Fiji, Papua New Guinea, 
 
 **Book 20:** *AN INTRODUCTION TO GEOGRAPHY CLASS VII* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Royal Government of Bhutan, Thimphu; year Provisional edition 2018, Copyright 2023, Reprint 2024; ISBN 975-99936-0-455-8 (as printed). Title as printed: AN INTRODUCTION TO GEOGRAPHY CLASS VII. Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 86 (cover/title page verified against the record title; byte size 5,663,043 and page count match the books.json record exactly — read via the record's ministry source URL after the grab.py route proved unreliable for this group). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
 
+**Book 21:** *Secondary Geography 1 Student's Book* (student book, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 1 Student's Book. Grade: Secondary 1 / Grade 9 (student/teacher: STUDENT). PDF pages: 146 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
+
+**Book 22:** *Secondary Geography 2 Student's Book* (student book, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 2 Student's Book. Grade: Secondary 2 / Grade 10 (student/teacher: STUDENT). PDF pages: 217 (cover/title page verified against the record title). Image-only PDF: read via 100-DPI 4-up contact sheets; the full printed table of contents (printed pp. 1–208) was read and every unit spot-checked on the sheets, cross-checked against the teacher's guide text.. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
+
+**Book 23:** *Primary Social Studies 1 Pupil's Book* (student book, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Primary Social Studies 1 Pupil's Book. Grade: Primary 1 / Grade 1 (student/teacher: STUDENT). PDF pages: 80 (cover/title page verified against the record title). Verdict: COMPLETE (combined Social Studies book — Geography parts placed; other-subject parts named here, not placed). Other subjects in this book (named, not placed): Unit 1 Now and Then — family members, family history and ancestors (History/family), printed pp. 1–24; Unit 4 Working Together — jobs and people who help us, helping at home and school (Civics/work), printed pp. 50–63; Unit 5 Problem Solving — protecting property, stories, keeping peace (Civics/life skills), printed pp. 64–74. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
+
+**Book 24:** *Primary Social Studies 1 Teacher's Guide* (teacher guide, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Primary Social Studies 1 Teacher's Guide. Grade: Primary 1 / Grade 1 (student/teacher: TEACHER). PDF pages: 53 (cover/title page verified against the record title). Verdict: COMPLETE (combined Social Studies guide — Geography parts placed; Units 1, 4 and 5 are History/family, Civics/work and Civics/life skills, named in Book 9's header, not placed). Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The checklist | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 8, printed pp. 199–201 |
@@ -65,8 +73,12 @@ countries: Ethiopia, Palestine, Samoa, Eritrea, Rwanda, Fiji, Papua New Guinea, 
 | Iraq part — Ch. 1: Elements of the map on Iraq's administrative map: title, scale, key, north direction, frame | Iraq, *Iraq Grade 4 Social Studies*, Ch. 1: Elements of the map on Iraq's administrative map: title, scale, key, north direction, frame — printed p. 12 |
 | Iraq part — Ch. 4: The map's elements — the key of conventional symbols and the coordinate grid (the graticule of latitude and longitude) | Iraq, *Iraq Grade 10 Geography*, Ch. 4: The map's elements — the key of conventional symbols and the coordinate grid (the graticule of latitude and longitude) — printed p. 84 |
 | Bhutan part — Ch.3 3.2 Properties of map | Bhutan, *Bhutan Grade 7 Geography*, Ch.3 3.2 Properties of map — printed p. 8 |
+| South Sudan part — Essential elements of a map (title, north direction etc.) | South Sudan, *South Sudan Grade 9 S1 Geography SB*, Essential elements of a map (title, north direction etc.) — printed p. 125 |
+| South Sudan part — Map interpretation: what a map is; essentials of a map | South Sudan, *South Sudan Grade 10 S2 Geography SB*, Map interpretation: what a map is; essentials of a map — printed p. 162 |
+| South Sudan part — Elements of a good map: key, title, frame and symbols [placement slug: population-transport-and-maps/the-parts-of-a-map] | South Sudan, *South Sudan Grade 1 P1 Social Studies SB*, Elements of a good map: key, title, frame and symbols — printed p. 42 |
+| South Sudan part — Guide: Unit 3 Exploring Our World — elements of a good map while drawing symbols (teacher guide — evidence) [placement slug: population-transport-and-maps/the-parts-of-a-map] | South Sudan, *South Sudan Grade 1 P1 Social Studies TG* (teacher guide), Guide: Unit 3 Exploring Our World — elements of a good map while drawing symbols — printed p. 33 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Palestine, Samoa, Eritrea, Rwanda, Fiji, Sudan, Pakistan, Mozambique, Jordan, Iraq, Bhutan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 13 countries (Ethiopia, Palestine, Samoa, Eritrea, Rwanda, Fiji, Sudan, Pakistan, Mozambique, Jordan, Iraq, Bhutan, South Sudan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Searchable tags: map components, title, scale, north point, legend, declination, social studies
 
@@ -105,3 +117,11 @@ Iraq's own way (Iraq Grade 4 Social Studies): geography enters inside "Social St
 Iraq's own way (Iraq Grade 10 Geography): the literary track opens geography as a discipline in its own right — its thought from the Sumerians to GIS, how a geographer researches, where geographical data come from and how they are drawn, and only then the fields of the science; Iraq supplies the worked examples throughout (Baghdad research problem, Iraqi topographic maps, Iraq's gas time series, the Baghdad–Basra distance exercise).
 
 Bhutan's own way (Bhutan Grade 7 Geography): From Class VII Geography becomes a standalone subject organised in three strands (Time and Space; Physical Environment; People and Environment), every world topic closed with its Bhutan case — climate of Bhutan, vegetation types of Bhutan, minerals of Bhutan, and Bhutan's Himalayan disaster set (earthquake, flood, windstorm, fire, GLOF).
+
+South Sudan's own way (South Sudan Grade 9 S1 Geography SB): Geography is built around South Sudan itself — its own physical features, resources, floods/drought experience and the Nile — with paper-folding and paper-tearing practical experiments for folding, faulting and sea-floor spreading, and group discussion of local examples in nearly every topic.
+
+South Sudan's own way (South Sudan Grade 10 S2 Geography SB): Each general topic is immediately re-taught through South Sudan — its named rivers (Sobat, Adar, Yabus, Daga), the Sudd swamplands, its oil, fishing and transport problems, and case-study research tasks set by a mock ministry brief.
+
+South Sudan's own way (South Sudan Grade 1 P1 Social Studies SB): Geography begins at age six with the child's own neighbourhood and a hand-drawn map of their own classroom — symbols, key, title, frame and compass — before any wider world appears.
+
+South Sudan's own way (South Sudan Grade 1 P1 Social Studies TG) (teacher guide — evidence): The guide teaches features by walking — a class walk around the school to name natural features — and adds "economic features": features people use to earn money, such as fishing in a lake. That evidence is stocked here as the way South Sudan teaches this thing; it is cited as evidence only — South Sudan is counted in this lesson through its student book(s).

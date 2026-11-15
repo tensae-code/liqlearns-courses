@@ -1,6 +1,6 @@
 # Sources — Land-Shaping Forces — Folding
 
-countries: Ethiopia, Barbados, Sudan, Syria, Libya, Mozambique
+countries: Ethiopia, Barbados, Sudan, Syria, Libya, Mozambique, South Sudan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Barbados, Sudan, Syria, Libya, Mozambique
 
 **Book 8:** *Módulo 1 de Geografia (GEOGRAFIA — MÓDULO 1, PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo)* (student book, Portuguese) — Ministério da Educação e Desenvolvimento Humano (MINEDH) / Instituto de Educação Aberta e à Distância (IEDA); year 2023; no ISBN printed. Title as printed: Módulo 1 de Geografia (GEOGRAFIA — MÓDULO 1, PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo). Grade: Grades 7–9 cycle, filed as Grade 7 (student/teacher: STUDENT). PDF pages: 143 (cover/title page verified against the record title; byte size 10,033,146 matches the books.json record exactly; read via the record's IEDA source URL after grab.py failed twice on both routes with RemoteDisconnected — GitHub API unreachable from this host). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
 
+**Book 9:** *Secondary Geography 1 Student's Book* (student book, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 1 Student's Book. Grade: Secondary 1 / Grade 9 (student/teacher: STUDENT). PDF pages: 146 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — When the crust is squeezed | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 10–11 |
@@ -29,8 +31,9 @@ countries: Ethiopia, Barbados, Sudan, Syria, Libya, Mozambique
 | Libya part — Internal factors: الالتواءات — Folding | Libya, *Libya Grade 6 LY G6 Social Studies*, Internal factors: الالتواءات — Folding — printed p. 68 |
 | Libya part — Book 2 Ch.1: الالتواءات — Folds: elements, forms and the factors that shape them [placement slug: the-land-and-air/folded-and-faulted-mountains] | Libya, *Libya Grade 10 LY G10 Principles*, Book 2 Ch.1: الالتواءات — Folds: elements, forms and the factors that shape them — printed p. 32 |
 | Mozambique part — Lição 24: dobras e sua classificação | Mozambique, *Mozambique Grade 7 PESD I Mod 1*, Lição 24: dobras e sua classificação — printed p. 121 |
+| South Sudan part — Formation of fold mountains and inter-montane plateaus | South Sudan, *South Sudan Grade 9 S1 Geography SB*, Formation of fold mountains and inter-montane plateaus — printed p. 29 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Barbados, Sudan, Syria, Libya, Mozambique).**
+**Acceptance count: taught in 7 countries (Ethiopia, Barbados, Sudan, Syria, Libya, Mozambique, South Sudan).**
 
 Barbados's own way: this is the shared Caribbean CSEC examination textbook used in Barbados — every world process is re-taught through Caribbean case studies (the Caribbean plate, Montserrat's volcano, Jamaica's coasts and Kingston's urban problems, St Lucia's reefs, Bahamas/Jamaica/Puerto Rico karst, Guyana's rivers), map and field skills are folded into the chapters, and the course ends in a School-Based Assessment fieldwork project. That way is stocked here as the way Barbados teaches this thing; it does not change the acceptance count above.
 
@@ -47,3 +50,5 @@ Libya's own way (Libya Grade 6 LY G6 Social Studies): The geography half is "Pri
 Libya's own way (Libya Grade 10 LY G10 Principles): Secondary geography opens as a two-part systematic course — physical geography first (astronomy, surface-shaping factors, climate, vegetation and wild animals), then human geography (population and settlement, economic resources) — and closes with a whole book on spatial-data technology: remote sensing, GPS and GIS, then the history of maps from Babylon and Ibn Hawqal.
 
 Mozambique's own way (Mozambique Grade 7 PESD I Mod 1): distance-learning self-study module — every lesson follows the same rhythm (introduction, development with worked examples, exercises, answer key, lesson summary); the four Earth spheres are the organising spine of the whole module, each sphere closed by a "use, protection and conservation" lesson; local anchors throughout (Maputo temperature worked example, Zambezi delta, Moma/Namialo weather contrast).
+
+South Sudan's own way (South Sudan Grade 9 S1 Geography SB): Geography is built around South Sudan itself — its own physical features, resources, floods/drought experience and the Nile — with paper-folding and paper-tearing practical experiments for folding, faulting and sea-floor spreading, and group discussion of local examples in nearly every topic.

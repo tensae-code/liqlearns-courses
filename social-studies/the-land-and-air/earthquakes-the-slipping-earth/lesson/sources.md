@@ -1,6 +1,6 @@
 # Sources — Earthquakes — the slipping Earth
 
-countries: Ethiopia, Barbados, Costa Rica, Indonesia, Dominican Republic, Eritrea, North Macedonia, Cambodia, Slovenia, Kuwait, Afghanistan, Yemen, Pakistan, Nepal, Mozambique, Jordan, Iraq, Nicaragua, Bhutan, Cuba
+countries: Ethiopia, Barbados, Costa Rica, Indonesia, Dominican Republic, Eritrea, North Macedonia, Cambodia, Slovenia, Kuwait, Afghanistan, Yemen, Pakistan, Nepal, Mozambique, Jordan, Iraq, Nicaragua, Bhutan, Cuba, South Sudan
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -64,6 +64,10 @@ countries: Ethiopia, Barbados, Costa Rica, Indonesia, Dominican Republic, Eritre
 
 **Book 31:** *Geografía Regional, onceno grado* (student book, Spanish) — Editorial Pueblo y Educación / Ministerio de Educación, Cuba; year 2024; ISBN 978-959-13-4815-9 (print) / 978-959-13-4816-6 (digital). Title as printed: Geografía Regional, onceno grado. Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 442 (cover/title page verified against the record title; the grab.py tree route returned 404 twice for the recorded repo path, so the book was taken from the repo's own release asset — mid-size-books-7, grade-11-gov-cuba-geografia-student-full-year.pdf — byte-verified by grab.py at 89,851,088 bytes; full text read via pdftotext -layout; structure and printed pages from the book's Índice). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
 
+**Book 32:** *Secondary Geography 1 Student's Book* (student book, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 1 Student's Book. Grade: Secondary 1 / Grade 9 (student/teacher: STUDENT). PDF pages: 146 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
+
+**Book 33:** *Secondary Geography 1 Teacher's Guide* (teacher guide, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 1 Teacher's Guide. Grade: Secondary 1 / Grade 9 (student/teacher: TEACHER). PDF pages: 98 (cover/title page verified against the record title). Verdict: COMPLETE. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Strain and sudden slip | G12 student #12, printed pp. 15–16 |
@@ -98,8 +102,10 @@ countries: Ethiopia, Barbados, Costa Rica, Indonesia, Dominican Republic, Eritre
 | Cuba part — Unidad 4 ep. 4.5 Los sismos o terremotos: medidas para preservar la salud y las conquistas económicas (teacher guide — evidence) | Cuba, *Cuba Grade 5 OM Geografía G5* (teacher guide), Unidad 4 ep. 4.5 Los sismos o terremotos: medidas para preservar la salud y las conquistas económicas — printed p. 73 |
 | Cuba part — Capítulo 4 ep. 4.5 Los sismos y terremotos: medidas para preservar la salud y las conquistas económicas de la sociedad | Cuba, *Cuba Grade 5 Geografía G5*, Capítulo 4 ep. 4.5 Los sismos y terremotos: medidas para preservar la salud y las conquistas económicas de la sociedad — printed p. 102 |
 | Cuba part — Capítulo 6 ep. 6.3 Evolución geológica del archipiélago cubano: los sismos y las medidas de protección | Cuba, *Cuba Grade 11 Geografía Regional G11*, Capítulo 6 ep. 6.3 Evolución geológica del archipiélago cubano: los sismos y las medidas de protección — printed p. 336 |
+| South Sudan part — Earthquakes: causes (tectonic, volcanic, crustal dislocation) | South Sudan, *South Sudan Grade 9 S1 Geography SB*, Earthquakes: causes (tectonic, volcanic, crustal dislocation) — printed p. 54 |
+| South Sudan part — Guide: causes of earthquakes; practical on earthquake impact; liquefaction (teacher guide — evidence) | South Sudan, *South Sudan Grade 9 S1 Geography TG* (teacher guide), Guide: causes of earthquakes; practical on earthquake impact; liquefaction — printed p. 43 |
 
-**Acceptance count: taught in 20 countries (Ethiopia, Barbados, Costa Rica, Indonesia, Dominican Republic, Eritrea, North Macedonia, Cambodia, Slovenia, Kuwait, Afghanistan, Yemen, Pakistan, Nepal, Mozambique, Jordan, Iraq, Nicaragua, Bhutan, Cuba).**
+**Acceptance count: taught in 21 countries (Ethiopia, Barbados, Costa Rica, Indonesia, Dominican Republic, Eritrea, North Macedonia, Cambodia, Slovenia, Kuwait, Afghanistan, Yemen, Pakistan, Nepal, Mozambique, Jordan, Iraq, Nicaragua, Bhutan, Cuba, South Sudan).**
 
 Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -164,3 +170,7 @@ Cuba's own way (Cuba Grade 5 OM Geografía G5) (teacher guide — evidence): The
 Cuba's own way (Cuba Grade 5 Geografía G5): The first Geography book a Cuban child meets opens with the history of geography itself (cuneiform maps, Hecataeus), builds all map skills before any content, and ends the planet tour with world population, the world political map and world heritage — with Cuba's own places (Llanura del Cauto, Trinidad) woven in as examples throughout.
 
 Cuba's own way (Cuba Grade 11 Geografía Regional G11): The capstone of Cuban school geography: five continents studied with one fixed plan (situation → physical character → socio-economic character → regions → political-map changes → countries-and-capitals → deep country monographs), then a full closing chapter on the Cuban archipelago longer than any continent chapter — the world tour exists to bring the learner home with the tools to characterise their own country.
+
+South Sudan's own way (South Sudan Grade 9 S1 Geography SB): Geography is built around South Sudan itself — its own physical features, resources, floods/drought experience and the Nile — with paper-folding and paper-tearing practical experiments for folding, faulting and sea-floor spreading, and group discussion of local examples in nearly every topic.
+
+South Sudan's own way (South Sudan Grade 9 S1 Geography TG) (teacher guide — evidence): The guide mirrors the student's book unit by unit (its printed contents list the same 8 units) and adds content maps, key inquiry questions, expected answers and practical activities — including the sea-floor-spreading paper practical — for every topic. That evidence is stocked here as the way South Sudan teaches this thing; it is cited as evidence only — South Sudan is counted in this lesson through its student book(s).

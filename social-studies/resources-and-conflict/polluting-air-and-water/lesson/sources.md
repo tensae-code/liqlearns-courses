@@ -1,6 +1,6 @@
 # Sources — Polluting air and water
 
-countries: Ethiopia, United Arab Emirates, Jamaica, Palestine, Bangladesh, Turkmenistan, Dominican Republic, Bahamas, Zimbabwe, Fiji, Slovenia, Syria, Venezuela, Kuwait, Libya, Iraq, Bhutan
+countries: Ethiopia, United Arab Emirates, Jamaica, Palestine, Bangladesh, Turkmenistan, Dominican Republic, Bahamas, Zimbabwe, Fiji, Slovenia, Syria, Venezuela, Kuwait, Libya, Iraq, Bhutan, South Sudan
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -44,6 +44,8 @@ countries: Ethiopia, United Arab Emirates, Jamaica, Palestine, Bangladesh, Turkm
 
 **Book 21:** *SOCIAL STUDIES CLASS V* (student book, English) — Center for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; year Provisional Edition 2020, Reprint 2025; ISBN no ISBN printed (blank ISBN line on imprint page). Title as printed: SOCIAL STUDIES CLASS V. Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 78 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
 
+**Book 22:** *Secondary Geography 1 Student's Book* (student book, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 1 Student's Book. Grade: Secondary 1 / Grade 9 (student/teacher: STUDENT). PDF pages: 146 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Air pollution | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 6, printed pp. 172–175 |
@@ -71,8 +73,9 @@ countries: Ethiopia, United Arab Emirates, Jamaica, Palestine, Bangladesh, Turkm
 | Libya part — Unit 4: التلوث مشكلة عالمية — Pollution as a global problem: air circulation and ocean currents spread pollutants | Libya, *Libya Grade 6 LY G6 Social Studies*, Unit 4: التلوث مشكلة عالمية — Pollution as a global problem: air circulation and ocean currents spread pollutants — printed p. 115 |
 | Iraq part — Ch. 6: Pollution and pollutants (الملوثات) — organic and industrial (man-made) pollutants | Iraq, *Iraq Grade 11 Physical Geography*, Ch. 6: Pollution and pollutants (الملوثات) — organic and industrial (man-made) pollutants — printed p. 136 |
 | Bhutan part — 10.2 Impacts of Pollution | Bhutan, *Bhutan Grade 5 Social Studies*, 10.2 Impacts of Pollution — printed p. 55 |
+| South Sudan part — Utilisation and pollution: industrial effluents and energy use | South Sudan, *South Sudan Grade 9 S1 Geography SB*, Utilisation and pollution: industrial effluents and energy use — printed p. 118 |
 
-**Acceptance count: taught in 15 countries (Ethiopia, United Arab Emirates, Palestine, Bangladesh, Turkmenistan, Dominican Republic, Bahamas, Fiji, Slovenia, Syria, Venezuela, Kuwait, Libya, Iraq, Bhutan). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 16 countries (Ethiopia, United Arab Emirates, Palestine, Bangladesh, Turkmenistan, Dominican Republic, Bahamas, Fiji, Slovenia, Syria, Venezuela, Kuwait, Libya, Iraq, Bhutan, South Sudan). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grade 5 Exploratory Core, curriculum guide — evidence): Grade 5 Social Studies pairs a heritage year (Europeans and Africans, national heroes, Caribbean culture) with a physical-environment year — erosion, locating Jamaica and the Caribbean by compass and latitude/longitude, types of rainfall, the Solar System, plants and water pollution. That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
@@ -111,3 +114,5 @@ Libya's own way (Libya Grade 6 LY G6 Social Studies): The geography half is "Pri
 Iraq's own way (Iraq Grade 11 Physical Geography): a pure physical-geography course in six chapters — landforms, weather and climate, water, the biosphere, soil, and the environment — with Iraqi anchors kept throughout (flood visits to Iraq's rivers, the hills of northern Iraq, groundwater and the desert caravans, soil salinity in the alluvial plain).
 
 Bhutan's own way (Bhutan Grade 5 Social Studies): Grade 5 spirals from the Earth and lat/long straight into Bhutan itself — its location, three physical zones, neighbours, major rivers and protected areas — so world geography is anchored in the home country's map first.
+
+South Sudan's own way (South Sudan Grade 9 S1 Geography SB): Geography is built around South Sudan itself — its own physical features, resources, floods/drought experience and the Nile — with paper-folding and paper-tearing practical experiments for folding, faulting and sea-floor spreading, and group discussion of local examples in nearly every topic.

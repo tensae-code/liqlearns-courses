@@ -1,6 +1,6 @@
 # Sources — Locating by latitude and longitude
 
-countries: Ethiopia, Bahamas, Venezuela, Iran, Pakistan, Moldova, Iraq, Cuba
+countries: Ethiopia, Bahamas, Venezuela, Iran, Pakistan, Moldova, Iraq, Cuba, South Sudan
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -24,6 +24,8 @@ countries: Ethiopia, Bahamas, Venezuela, Iran, Pakistan, Moldova, Iraq, Cuba
 
 **Book 11:** *Orientaciones metodológicas — Geografía, quinto grado* (teacher guide, Spanish) — Editorial Pueblo y Educación / Ministerio de Educación, Cuba; year 2024; ISBN 978-959-13-4693-3 (print) / 978-959-13-4694-0 (digital). Title as printed: Orientaciones metodológicas — Geografía, quinto grado. Grade: Grade 5 (student/teacher: TEACHER). PDF pages: 150 (cover/title page verified against the record title; grabbed via grab.py tree route, 816,401 bytes). Verdict: COMPLETE. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
 
+**Book 12:** *Secondary Geography 2 Teacher's Guide* (teacher guide, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 2 Teacher's Guide. Grade: Secondary 2 / Grade 10 (student/teacher: TEACHER). PDF pages: 135 (cover/title page verified against the record title). Verdict: COMPLETE. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Parallels and meridians | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 8, printed pp. 210–212 |
@@ -39,8 +41,9 @@ countries: Ethiopia, Bahamas, Venezuela, Iran, Pakistan, Moldova, Iraq, Cuba
 | Iraq part — Part 1 Ch. 1: The Arab world's astronomical location (الموقع الفلكي) | Iraq, *Iraq Grade 8 Social Studies*, Part 1 Ch. 1: The Arab world's astronomical location (الموقع الفلكي) — printed p. 5 |
 | Iraq part — Unit 1 Ch. 1 Natural characteristics of Iraq's geography: Iraq's location | Iraq, *Iraq Grade 9 Social Studies*, Unit 1 Ch. 1 Natural characteristics of Iraq's geography: Iraq's location — printed p. 5 |
 | Cuba part — Unidad 2 ep. 2.8 La localización geográfica (teacher guide — evidence) | Cuba, *Cuba Grade 5 OM Geografía G5* (teacher guide), Unidad 2 ep. 2.8 La localización geográfica — printed p. 34 |
+| South Sudan part — Guide: map elements — latitude/longitude and grid reference (teacher guide — evidence) | South Sudan, *South Sudan Grade 10 S2 Geography TG* (teacher guide), Guide: map elements — latitude/longitude and grid reference — printed p. 113 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Bahamas, Venezuela, Iran, Pakistan, Moldova, Iraq). Cuba is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 7 countries (Ethiopia, Bahamas, Venezuela, Iran, Pakistan, Moldova, Iraq). Cuba is named here as teacher-guide evidence only, counted nowhere. South Sudan is named here as teacher-guide evidence only, counted nowhere.**
 
 Searchable tags: latitude, longitude, graticule, parallels, meridians, point C, social studies
 
@@ -61,3 +64,5 @@ Iraq's own way (Iraq Grade 8 Social Studies): the intermediate sequence widens r
 Iraq's own way (Iraq Grade 9 Social Studies): Grade 9 returns to Iraq for the fullest treatment yet — the same national geography as Grade 5 but measured: the plain is 24% and about 600 km long, the desert plateau about 55%, the desert plant belt about 70%, two-thirds of the people live on the central and southern plain; every topic is pinned to numbered maps of Iraq.
 
 Cuba's own way (Cuba Grade 5 OM Geografía G5) (teacher guide — evidence): The teacher guide teaches the same four units as the programme/student book but adds Cuba-specific complementary materials no other country set carries: the Tarea Vida state climate-change plan as classroom content, project-based-learning orientation, and a long section on mastering the changing world political map through country cases (Congo, Belarus, the Yugoslav successor states). That evidence is stocked here as the way Cuba teaches this thing; it does not change the acceptance count above.
+
+South Sudan's own way (South Sudan Grade 10 S2 Geography TG) (teacher guide — evidence): Mirrors the student's book's 8 units with content maps, expected answers and group-presentation case studies (agriculture solutions, fishing solutions, fold-mountain impacts), plus a field-observation exercise on the environment near the school. That evidence is stocked here as the way South Sudan teaches this thing; it does not change the acceptance count above.

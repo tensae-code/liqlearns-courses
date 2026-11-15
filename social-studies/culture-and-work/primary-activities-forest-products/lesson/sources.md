@@ -1,6 +1,6 @@
 # Sources — Primary activities — forest products and their uses
 
-countries: Ethiopia, Bolivia, Slovenia, Uganda, Sudan, Libya, Mozambique, Armenia
+countries: Ethiopia, Bolivia, Slovenia, Uganda, Sudan, Libya, Mozambique, Armenia, South Sudan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 2 — Population Studies and Socio-Economic Activities, printed pp. 44–76).
 
@@ -20,6 +20,10 @@ countries: Ethiopia, Bolivia, Slovenia, Uganda, Sudan, Libya, Mozambique, Armeni
 
 **Book 9:** *Աշխարհագրություն — Դասագիրք 7-րդ դասարանի համար (Geography, textbook for grade 7)* (student book, Armenian) — «Աստղիկ Գրատուն» (Astghik Gratun), Yerevan; year 2023; ISBN 978-9939-74-142-0. Authors: T. Vardanyan, A. Potosyan, V. Asatryan, L. Hakobyan. Title as printed: Աշխարհագրություն — Դասագիրք 7-րդ դասարանի համար (Geography, textbook for grade 7). Grade: 7 (student/teacher: STUDENT). PDF pages: 176 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). The book's legacy-font text layer was decoded with the standard Armenian font-encoding table and verified against its printed contents page. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
 
+**Book 10:** *Secondary Geography 3 Student's Book* (student book, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 3 Student's Book. Grade: Secondary 3 / Grade 11 (student/teacher: STUDENT). PDF pages: 137 (cover/title page verified against the record title). Verdict: COMPLETE — read from the publisher source file (cgatechnologies.org.uk, the record's own source_url) because the repo route 404s: this book is NOT in GitHub (books.json in_pushed: false). Downloaded file is 22,614,974 bytes, exactly the recorded size_bytes. Staged under the 2026-11-13 rule at phase3-staging/grade-11/gov/south-sudan/geography/student/full-year.pdf (books.json record already present there). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
+
+**Book 11:** *Secondary Geography 3 Teacher's Guide* (teacher guide, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 3 Teacher's Guide. Grade: Secondary 3 / Grade 11 (student/teacher: TEACHER). PDF pages: 77 (cover/title page verified against the record title). Verdict: COMPLETE — read from the publisher source file (record's own source_url) because the repo route 404s: NOT in GitHub (books.json in_pushed: false). Downloaded file is 8,806,788 bytes, exactly the recorded size_bytes. Staged under the 2026-11-13 rule at phase3-staging/grade-11/gov/south-sudan/geography/teacher/full-year.pdf (books.json record already present there). Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Two streams from the forest | Ethiopia, *Social Studies Student Textbook, Grade 8* (Amhara Bureau), printed pp. 56–57 |
@@ -32,8 +36,10 @@ countries: Ethiopia, Bolivia, Slovenia, Uganda, Sudan, Libya, Mozambique, Armeni
 | Libya part — Book 6 Ch.1: الموارد الغابية — Forest resources of the world [placement slug: people-and-resources/resources-renewable-and-non-renewable] | Libya, *Libya Grade 10 LY G10 Principles*, Book 6 Ch.1: الموارد الغابية — Forest resources of the world — printed p. 114 |
 | Mozambique part — Lição 18: Silvicultura (forestry's ecological roles, cultivated species, forest conservation) | Mozambique, *Mozambique Grade 7 PESD I Mod 2*, Lição 18: Silvicultura (forestry's ecological roles, cultivated species, forest conservation) — printed p. 80 |
 | Armenia part — Lesson 7.12 Forestry and hunting | Armenia, *Armenia Grade 7 Geography student*, Lesson 7.12 Forestry and hunting — printed p. 162 |
+| South Sudan part — Unit 6: forestry — what forestry is; natural and man-made forests | South Sudan, *South Sudan Grade 11 S3 Geography SB*, Unit 6: forestry — what forestry is; natural and man-made forests — printed p. 95 |
+| South Sudan part — Guide: Unit 6 Forestry Use and Conservation — content map (teacher guide — evidence) | South Sudan, *South Sudan Grade 11 S3 Geography TG* (teacher guide), Guide: Unit 6 Forestry Use and Conservation — content map — printed p. 58 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Bolivia, Slovenia, Uganda, Sudan, Libya, Mozambique, Armenia).**
+**Acceptance count: taught in 9 countries (Ethiopia, Bolivia, Slovenia, Uganda, Sudan, Libya, Mozambique, Armenia, South Sudan).**
 
 Honesty: pupil content comes from the Amhara student book. The Addis Ababa Grade 8 teacher guide is NOT edition-matched to this student book and is truncated (only printed pp. 1–47, Units 1–3, in hand); no guide coverage is claimed for this lesson beyond what its sources rows name.
 
@@ -54,3 +60,7 @@ Libya's own way (Libya Grade 10 LY G10 Principles): Secondary geography opens as
 Mozambique's own way (Mozambique Grade 7 PESD I Mod 2): human/economic geography organised sector by sector — population first, then each economic activity taught world-then-Mozambique (agriculture, livestock, fishing, forestry, industry, commerce, tourism, transport), with Mozambique's own distribution tables, ports and exports as the local evidence.
 
 Armenia's own way (Armenia Grade 7 Geography student): opens school geography with the geographic map itself (plan, scale, azimuth, projections) before any Earth science, and runs every theme to a summary lesson plus practical work; world economy is taught branch by branch with Armenia (ՀՀ) used as the worked example in the closing questions.
+
+South Sudan's own way (South Sudan Grade 11 S3 Geography SB): A world-geography book (trade routes, megacities, Southeast Asia) anchored back to South Sudan throughout — humanitarian airlift airfields, Thuraya satellite phones, a tourism plan for South Sudan, Juba as the urbanisation example.
+
+South Sudan's own way (South Sudan Grade 11 S3 Geography TG) (teacher guide — evidence): Mirrors the student's book's 8 units with content maps and expected answers; repeatedly localises world topics (domestic trade with South Sudan examples, what the South Sudan government should improve to sustain tourism). That evidence is stocked here as the way South Sudan teaches this thing; it is cited as evidence only — South Sudan is counted in this lesson through its student book(s).

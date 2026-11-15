@@ -1,6 +1,6 @@
 # Sources — Map Scale — The Three Ways of Stating Scale
 
-countries: Ethiopia, Bangladesh, Malaysia, Eritrea, Fiji, Papua New Guinea, Uganda, Sudan, Venezuela, Sri Lanka, Iran, Yemen, Pakistan, Libya, Mozambique, Iraq, Bhutan, Cuba
+countries: Ethiopia, Bangladesh, Malaysia, Eritrea, Fiji, Papua New Guinea, Uganda, Sudan, Venezuela, Sri Lanka, Iran, Yemen, Pakistan, Libya, Mozambique, Iraq, Bhutan, Cuba, South Sudan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -56,6 +56,8 @@ countries: Ethiopia, Bangladesh, Malaysia, Eritrea, Fiji, Papua New Guinea, Ugan
 
 **Book 27:** *Geografía, quinto grado* (student book, Spanish) — Editorial Pueblo y Educación / Ministerio de Educación, Cuba; year 2024; ISBN 978-959-13-4717-6 (print) / 978-959-13-4718-3 (digital). Title as printed: Geografía, quinto grado. Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 174 (cover/title page verified against the record title; grabbed via grab.py release-asset route, 7,092,429 bytes; the duplicate TSV↔books.json pair is the same book, read once; full text read via pdftotext -layout). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
 
+**Book 28:** *Secondary Geography 1 Student's Book* (student book, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 1 Student's Book. Grade: Secondary 1 / Grade 9 (student/teacher: STUDENT). PDF pages: 146 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What scale is | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 27–29 |
@@ -86,8 +88,9 @@ countries: Ethiopia, Bangladesh, Malaysia, Eritrea, Fiji, Papua New Guinea, Ugan
 | Bhutan part — Ch.3 3.5 Scale | Bhutan, *Bhutan Grade 11 Geography*, Ch.3 3.5 Scale — printed p. 49 |
 | Cuba part — Unidad 2 ep. 2.5 La escala gráfica: cálculo de distancias entre dos puntos (teacher guide — evidence) | Cuba, *Cuba Grade 5 OM Geografía G5* (teacher guide), Unidad 2 ep. 2.5 La escala gráfica: cálculo de distancias entre dos puntos — printed p. 34 |
 | Cuba part — Capítulo 2 ep. 2.5 La escala gráfica: cálculo de distancia entre dos puntos en el mapa | Cuba, *Cuba Grade 5 Geografía G5*, Capítulo 2 ep. 2.5 La escala gráfica: cálculo de distancia entre dos puntos en el mapa — printed p. 34 |
+| South Sudan part — Map scales and their uses (incl. gradient, vertical exaggeration) | South Sudan, *South Sudan Grade 9 S1 Geography SB*, Map scales and their uses (incl. gradient, vertical exaggeration) — printed p. 127 |
 
-**Acceptance count: taught in 17 countries (Ethiopia, Bangladesh, Malaysia, Eritrea, Fiji, Uganda, Sudan, Venezuela, Sri Lanka, Iran, Yemen, Pakistan, Libya, Mozambique, Iraq, Bhutan, Cuba). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 18 countries (Ethiopia, Bangladesh, Malaysia, Eritrea, Fiji, Uganda, Sudan, Venezuela, Sri Lanka, Iran, Yemen, Pakistan, Libya, Mozambique, Iraq, Bhutan, Cuba, South Sudan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Pairing warning: the Grade 8 teacher guide is an Addis Ababa bureau book and the student book is an Amhara bureau book; they are NOT edition-matched, and the guide in hand is truncated (printed pp. 1–47 only, Units 1–3). Pupil content in this lesson comes from the Amhara student book; anything from the guide is labelled (teacher guide — evidence) and never presented as pupil-taught.
 
@@ -142,3 +145,5 @@ Bhutan's own way (Bhutan Grade 11 Geography): The Advanced level (XI–XII) is f
 Cuba's own way (Cuba Grade 5 OM Geografía G5) (teacher guide — evidence): The teacher guide teaches the same four units as the programme/student book but adds Cuba-specific complementary materials no other country set carries: the Tarea Vida state climate-change plan as classroom content, project-based-learning orientation, and a long section on mastering the changing world political map through country cases (Congo, Belarus, the Yugoslav successor states). That evidence is stocked here as the way Cuba teaches this thing; it is cited as evidence only — Cuba is counted in this lesson through its student book(s).
 
 Cuba's own way (Cuba Grade 5 Geografía G5): The first Geography book a Cuban child meets opens with the history of geography itself (cuneiform maps, Hecataeus), builds all map skills before any content, and ends the planet tour with world population, the world political map and world heritage — with Cuba's own places (Llanura del Cauto, Trinidad) woven in as examples throughout.
+
+South Sudan's own way (South Sudan Grade 9 S1 Geography SB): Geography is built around South Sudan itself — its own physical features, resources, floods/drought experience and the Nile — with paper-folding and paper-tearing practical experiments for folding, faulting and sea-floor spreading, and group discussion of local examples in nearly every topic.

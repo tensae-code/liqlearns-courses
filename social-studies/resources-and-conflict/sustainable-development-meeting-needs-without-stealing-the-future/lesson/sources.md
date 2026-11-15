@@ -1,6 +1,6 @@
 # Sources — Sustainable development — meeting needs without stealing the future
 
-countries: Ethiopia, Haiti, Niue, China, Bangladesh, Vietnam, Libya, Armenia
+countries: Ethiopia, Haiti, Niue, China, Bangladesh, Vietnam, Libya, Armenia, South Sudan
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Haiti, Niue, China, Bangladesh, Vietnam, Libya, Armenia
 
 **Book 8:** *Աշխարհագրություն 11 — Հանրակրթական ավագ դպրոցի 11-րդ դասարանի դասագիրք (Geography 11, senior-school textbook)* (student book, Armenian) — «Զանգակ» (Zangak), Yerevan; year 2025; ISBN 978-9939-99-284-6. Authors: A. Hovsepyan, M. Manasyan, A. Potosyan, V. Asatryan. Title as printed: Աշխարհագրություն 11 — Հանրակրթական ավագ դպրոցի 11-րդ դասարանի դասագիրք (Geography 11, senior-school textbook). Grade: 11 (student/teacher: STUDENT). PDF pages: 192 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
 
+**Book 9:** *Secondary Geography 3 Student's Book* (student book, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 3 Student's Book. Grade: Secondary 3 / Grade 11 (student/teacher: STUDENT). PDF pages: 137 (cover/title page verified against the record title). Verdict: COMPLETE — read from the publisher source file (cgatechnologies.org.uk, the record's own source_url) because the repo route 404s: this book is NOT in GitHub (books.json in_pushed: false). Downloaded file is 22,614,974 bytes, exactly the recorded size_bytes. Staged under the 2026-11-13 rule at phase3-staging/grade-11/gov/south-sudan/geography/student/full-year.pdf (books.json record already present there). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The idea and its definition | G12 student #37, printed pp. 63–66 |
@@ -29,8 +31,9 @@ countries: Ethiopia, Haiti, Niue, China, Bangladesh, Vietnam, Libya, Armenia
 | Vietnam part — Bài 40 (part): Sustainable development — meeting today's needs without stealing the future's (the three overlapping circles), and why it has become necessary | Vietnam, *Vietnam Grade 10 Địa lí 10*, Bài 40 (part): Sustainable development — meeting today's needs without stealing the future's (the three overlapping circles), and why it has become necessary — printed pp. 111–112 |
 | Libya part — Ch.5: التنمية المستدامة — Sustainable development and its goals [placement slug: global-issues/sustainable-development-using-without-wasting] | Libya, *Libya Grade 12 LY G12 Environmental Geography*, Ch.5: التنمية المستدامة — Sustainable development and its goals — printed p. 121 |
 | Armenia part — §28 Summary of Theme Two (environment) | Armenia, *Armenia Grade 11 Geography student*, §28 Summary of Theme Two (environment) — printed p. 188 |
+| South Sudan part — Developing and using resources sustainably | South Sudan, *South Sudan Grade 11 S3 Geography SB*, Developing and using resources sustainably — printed p. 36 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, China, Bangladesh, Vietnam, Libya, Armenia). Haiti is named here as teacher-sequence evidence only, and Niue as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 7 countries (Ethiopia, China, Bangladesh, Vietnam, Libya, Armenia, South Sudan). Haiti is named here as teacher-sequence evidence only, and Niue as teacher-guide evidence only, counted nowhere.**
 
 Niue's own way (teacher guide — evidence): the guide localises the shared Pacific set country by country — its "Links to formal learning" section carries a dedicated Niue chapter (what sustainability means for Niueans; Niue curriculum links to SDG 4.7), the model other Pacific countries' sets follow. That evidence is stocked here as the way Niue teaches this thing; it does not change the acceptance count above.
 
@@ -49,3 +52,5 @@ Vietnam's own way (Vietnam Grade 10 Địa lí 10): a single Grade 10 course tha
 Libya's own way (Libya Grade 12 LY G12 Environmental Geography): The geography course closes with a full environmental-geography book: the environment as a system of living and non-living parts, the world's great environments (water, then land biome by biome), the social environment and its balance with nature, the problems of settlements, the five pollutions (air, water, soil, food, noise) — and protection ending in sustainable development.
 
 Armenia's own way (Armenia Grade 11 Geography student): the senior Geography course is two big themes only — the world economy in depth (structure, division of labour, every branch, transport systems, trade) and then the environment (ecological balance, pollution of air and water, land degradation, biodiversity, ecosystem services), i.e. economy first, its ecological bill second.
+
+South Sudan's own way (South Sudan Grade 11 S3 Geography SB): A world-geography book (trade routes, megacities, Southeast Asia) anchored back to South Sudan throughout — humanitarian airlift airfields, Thuraya satellite phones, a tourism plan for South Sudan, Juba as the urbanisation example.

@@ -1,6 +1,6 @@
 # Sources — Topographic maps — flat pictures of uneven land
 
-countries: Ethiopia, Samoa, Malaysia, Sri Lanka, Jordan, Bhutan, Armenia
+countries: Ethiopia, Samoa, Malaysia, Sri Lanka, Jordan, Bhutan, Armenia, South Sudan
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -30,6 +30,8 @@ countries: Ethiopia, Samoa, Malaysia, Sri Lanka, Jordan, Bhutan, Armenia
 
 **Book 14:** *ԱՇԽԱՐՀԱԳՐՈՒԹՅՈՒՆ 10 (Geography 10)* (student book, Armenian) — Էդիթ Պրինտ (Edit Print), Yerevan; year 2023 (title page 2024); ISBN 978-9939-969-06-0. Authors: Ashot Khachatryan, Yurik Muradyan. Title as printed: ԱՇԽԱՐՀԱԳՐՈՒԹՅՈՒՆ 10 (Geography 10). Grade: 10 (student/teacher: STUDENT). PDF pages: 194 (printed 192; cover/title page verified against the record title). Verdict: COMPLETE — the senior Geography course in 7 themes: methods & cartography, lithosphere, atmosphere & climate, river hydrology, the political map of the world, world population, world natural resources. Read in full from contact sheets; every lesson opener and the printed contents (pp. 190-191) checked. Read in full from 100-DPI contact sheets (image-only book); every lesson opener and the printed contents (pp. 190-191) checked. Also read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
 
+**Book 15:** *Secondary Geography 2 Student's Book* (student book, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 2 Student's Book. Grade: Secondary 2 / Grade 10 (student/teacher: STUDENT). PDF pages: 217 (cover/title page verified against the record title). Image-only PDF: read via 100-DPI 4-up contact sheets; the full printed table of contents (printed pp. 1–208) was read and every unit spot-checked on the sheets, cross-checked against the teacher's guide text.. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Relief and landforms | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 8, printed pp. 217–218 |
@@ -48,8 +50,9 @@ countries: Ethiopia, Samoa, Malaysia, Sri Lanka, Jordan, Bhutan, Armenia
 | Bhutan part — Ch.4 4.3 Topographical Map | Bhutan, *Bhutan Grade 9 Geography*, Ch.4 4.3 Topographical Map — printed p. 26 |
 | Bhutan part — Ch.4 4.2 Layout and Numbering of Topographic Map | Bhutan, *Bhutan Grade 10 Geography*, Ch.4 4.2 Layout and Numbering of Topographic Map — printed p. 22 |
 | Armenia part — 1.11 Topographic maps: azimuths and direction angles | Armenia, *Armenia Grade 10 Geography student*, 1.11 Topographic maps: azimuths and direction angles — printed p. 38 |
+| South Sudan part — Types of maps: topographic maps and their features | South Sudan, *South Sudan Grade 10 S2 Geography SB*, Types of maps: topographic maps and their features — printed p. 163 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Samoa, Malaysia, Sri Lanka, Jordan, Bhutan, Armenia).**
+**Acceptance count: taught in 8 countries (Ethiopia, Samoa, Malaysia, Sri Lanka, Jordan, Bhutan, Armenia, South Sudan).**
 
 No book error is flagged for this lesson's pages in the placements. The student book's body numbering for Unit Two drifts from its own contents (regions printed as 2.4, factors as 2.5, local classification as 2.6, where the contents and the teacher guide's contents agree on 2.3, 2.4 and 2.5); this lesson follows the contents numbering and teaches no misprint.
 
@@ -78,3 +81,5 @@ Bhutan's own way (Bhutan Grade 9 Geography): The Intermediate level (IX–X) tre
 Bhutan's own way (Bhutan Grade 10 Geography): Class X pairs deep physical theory (Big Bang, plate tectonics, the making of the Himalayas) with an applied Bhutan block — climate and vegetation zones of Bhutan, Bhutanese agriculture's challenges and advancement, industries and their distribution, and a Bhutan disaster chapter that adds Education in Emergency.
 
 Armenia's own way (Armenia Grade 10 Geography student): grade-10 Geography is a methods-first course — it opens with the science's history, branches and GIS/GPS/aerospace methods, works through the lithosphere with a full natural-disasters lesson, and closes with resources measured by endowment; Armenia's own rivers fill the hydrology tables and Armenia's place in modern geopolitics closes the political-map theme.
+
+South Sudan's own way (South Sudan Grade 10 S2 Geography SB): Each general topic is immediately re-taught through South Sudan — its named rivers (Sobat, Adar, Yabus, Daga), the Sudd swamplands, its oil, fishing and transport problems, and case-study research tasks set by a mock ministry brief.

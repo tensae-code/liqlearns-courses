@@ -1,6 +1,6 @@
 # Sources — Trading with neighbours — Africa's regional blocs
 
-countries: Ethiopia, Zimbabwe, Rwanda, Sudan, Mauritania, Nepal, Mozambique, Cuba
+countries: Ethiopia, Zimbabwe, Rwanda, Sudan, Mauritania, Nepal, Mozambique, Cuba, South Sudan
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -26,6 +26,10 @@ countries: Ethiopia, Zimbabwe, Rwanda, Sudan, Mauritania, Nepal, Mozambique, Cub
 
 **Book 12:** *Geografía 2 — Octavo grado (the repo copy is the 2002 edition of the Grade 8 book; the 2024 programme and methodological orientations above belong to the newer edition of the same subject)* (student book, Spanish) — Editorial Pueblo y Educación / Ministerio de Educación, Cuba; year 2002; ISBN 959-13-0925-2. Title as printed: Geografía 2 — Octavo grado (the repo copy is the 2002 edition of the Grade 8 book; the 2024 programme and methodological orientations above belong to the newer edition of the same subject). Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 148 (cover/title page verified against the record title; grabbed via grab.py tree route, 4,803,285 bytes; full text read via pdftotext -layout; structure and printed pages taken from the book's own Índice). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
 
+**Book 13:** *Secondary Geography 4 Student's Book* (student book, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 4 Student's Book. Grade: Secondary 4 / Grade 12 (student/teacher: STUDENT). PDF pages: 200 (cover/title page verified against the record title). Image-only PDF: read via 100-DPI 4-up contact sheets; the full printed table of contents (printed pp. 2–194) was read and every unit spot-checked on the sheets.. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
+
+**Book 14:** *Secondary Geography 4 Teacher's Guide* (teacher guide, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 4 Teacher's Guide. Grade: Secondary 4 / Grade 12 (student/teacher: TEACHER). PDF pages: 99 (cover/title page verified against the record title). Verdict: COMPLETE. Note: the guide states the Rocks unit (Unit 5) is "not included in the syllabus" but is kept for advanced students. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Africa's trade shape | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 5, printed pp. 150–151 |
@@ -43,8 +47,10 @@ countries: Ethiopia, Zimbabwe, Rwanda, Sudan, Mauritania, Nepal, Mozambique, Cub
 | Mozambique part — Lição 19: Moçambique e a SADC (SADCC origins, common political values, sustainable development aims) | Mozambique, *Mozambique Grade 7 PESD I Mod 3*, Lição 19: Moçambique e a SADC (SADCC origins, common political values, sustainable development aims) — printed p. 85 |
 | Mozambique part — Lição 8: trade blocs in commerce's modern evolution (CEE→UE, EFTA, Mercosul) | Mozambique, *Mozambique Grade 10 PESD II Mod 7*, Lição 8: trade blocs in commerce's modern evolution (CEE→UE, EFTA, Mercosul) — printed p. 56 |
 | Cuba part — Capítulo 3 Procesos de integración económica: las organizaciones de integración | Cuba, *Cuba Grade 8 Geografía 2 G8*, Capítulo 3 Procesos de integración económica: las organizaciones de integración — printed p. 74 |
+| South Sudan part — Global groupings: EU, COMESA, ECOWAS, AU, EAC | South Sudan, *South Sudan Grade 12 S4 Geography SB*, Global groupings: EU, COMESA, ECOWAS, AU, EAC — printed p. 16 |
+| South Sudan part — Guide: trade blocs in Africa map; comparing Africa's development with other regions (teacher guide — evidence) | South Sudan, *South Sudan Grade 12 S4 Geography TG* (teacher guide), Guide: trade blocs in Africa map; comparing Africa's development with other regions — printed p. 75 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Rwanda, Sudan, Mauritania, Mozambique, Cuba). Zimbabwe is named here as teacher-guide evidence only, counted nowhere. Nepal is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 7 countries (Ethiopia, Rwanda, Sudan, Mauritania, Mozambique, Cuba, South Sudan). Zimbabwe is named here as teacher-guide evidence only, counted nowhere. Nepal is named here as teacher-guide evidence only, counted nowhere.**
 
 No book error is flagged for this lesson's pages in the placements. The student book's body numbering for Unit Two drifts from its own contents (regions printed as 2.4, factors as 2.5, local classification as 2.6, where the contents and the teacher guide's contents agree on 2.3, 2.4 and 2.5); this lesson follows the contents numbering and teaches no misprint.
 
@@ -69,3 +75,7 @@ Mozambique's own way (Mozambique Grade 7 PESD I Mod 3): after world/economic geo
 Mozambique's own way (Mozambique Grade 10 PESD II Mod 7): industry taught as a long history — from Palaeolithic tool-making through manufacture and mercantilism to the Industrial Revolution and its consequences — before location, types and industrial landscapes; commerce likewise from barter and the invention of coin to trade blocs and unequal world flows.
 
 Cuba's own way (Cuba Grade 8 Geografía 2 G8): This older edition teaches world economic geography as a story — first the political map's dynamics through history (colonial empires, independences, 1914, post-1945, the 1960s, the 1990s), then resources, then production, and it closes with full regional studies; Latin America is studied first and in most depth, and every world topic is measured against Cuba's own sugar, tobacco, nickel and trade.
+
+South Sudan's own way (South Sudan Grade 12 S4 Geography SB): A global book (globalization, oceans, world energy, the development gap) that keeps returning to South Sudan — ARCISS signing photo in Juba for political globalization, South Sudan classroom progress-check scenarios, and a closing exercise asking learners, as citizens of South Sudan, how their nation can grow economically.
+
+South Sudan's own way (South Sudan Grade 12 S4 Geography TG) (teacher guide — evidence): Mirrors the student's book's 9 units and adds South Sudan case studies the student book only hints at — Mining in South Sudan, corruption and development in South Sudan, and the importance of international trade to South Sudan in particular. That evidence is stocked here as the way South Sudan teaches this thing; it is cited as evidence only — South Sudan is counted in this lesson through its student book(s).

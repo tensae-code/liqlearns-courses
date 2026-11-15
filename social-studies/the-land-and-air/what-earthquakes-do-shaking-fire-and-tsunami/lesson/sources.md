@@ -1,6 +1,6 @@
 # Sources — What earthquakes do — shaking, fire and tsunami
 
-countries: Ethiopia, Malaysia, United Kingdom, Sri Lanka, Kuwait, Libya, Mozambique, Bhutan
+countries: Ethiopia, Malaysia, United Kingdom, Sri Lanka, Kuwait, Libya, Mozambique, Bhutan, South Sudan
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -24,6 +24,8 @@ countries: Ethiopia, Malaysia, United Kingdom, Sri Lanka, Kuwait, Libya, Mozambi
 
 **Book 11:** *ADVANCED GEOGRAPHY CLASS XI* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Thimphu; year Provisional Edition 2022, Copyright 2023, Reprint 2024; ISBN no ISBN printed. Title as printed: ADVANCED GEOGRAPHY CLASS XI. Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 182 (cover/title page verified against the record title; byte size 19,627,789 and page count match the books.json record exactly — read via the record's ministry source URL; this book is also the TSV release record grade-11-gov-bhutan-geography-full-year.pdf, same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
 
+**Book 12:** *Secondary Geography 1 Student's Book* (student book, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 1 Student's Book. Grade: Secondary 1 / Grade 9 (student/teacher: STUDENT). PDF pages: 146 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Ground, works and fire | G12 student #14, printed p. 17 |
@@ -38,8 +40,9 @@ countries: Ethiopia, Malaysia, United Kingdom, Sri Lanka, Kuwait, Libya, Mozambi
 | Bhutan part — Ch.14 14.2 Types of Disaster: Earthquake | Bhutan, *Bhutan Grade 7 Geography*, Ch.14 14.2 Types of Disaster: Earthquake — printed p. 70 |
 | Bhutan part — Ch.5 5.3 Effects of Earthquake | Bhutan, *Bhutan Grade 8 Geography*, Ch.5 5.3 Effects of Earthquake — printed p. 34 |
 | Bhutan part — Ch.1 Consequences of Earthquake | Bhutan, *Bhutan Grade 11 Geography*, Ch.1 Consequences of Earthquake — printed p. 22 |
+| South Sudan part — Earthquake effects, incl. landslides, fires, submergence | South Sudan, *South Sudan Grade 9 S1 Geography SB*, Earthquake effects, incl. landslides, fires, submergence — printed p. 56 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Malaysia, United Kingdom, Sri Lanka, Kuwait, Libya, Mozambique, Bhutan).**
+**Acceptance count: taught in 9 countries (Ethiopia, Malaysia, United Kingdom, Sri Lanka, Kuwait, Libya, Mozambique, Bhutan, South Sudan).**
 
 No book error in the placements for this lesson is taught here. Figures and cases are taught exactly as the placements report them.
 
@@ -64,3 +67,5 @@ Bhutan's own way (Bhutan Grade 7 Geography): From Class VII Geography becomes a 
 Bhutan's own way (Bhutan Grade 8 Geography): Class VIII deepens the same three strands with real map-work (scale conversion, grid references, contours and profiles) and Bhutan-specific hazard and resource content, including the Rubesa wind turbine and hydroelectric dams as national resource examples.
 
 Bhutan's own way (Bhutan Grade 11 Geography): The Advanced level (XI–XII) is full academic geography — map projections, remote sensing and GIS, insolation and pressure belts, climate classification — with Bhutan applied chapters on agriculture, manufacturing and tourism, the last taught on Bhutan's own sustainability principle ("high value, low volume" in the Bhutan Tourism Monitor data the book uses).
+
+South Sudan's own way (South Sudan Grade 9 S1 Geography SB): Geography is built around South Sudan itself — its own physical features, resources, floods/drought experience and the Nile — with paper-folding and paper-tearing practical experiments for folding, faulting and sea-floor spreading, and group discussion of local examples in nearly every topic.

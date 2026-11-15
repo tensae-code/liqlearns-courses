@@ -1,6 +1,6 @@
 # Sources — Global warming and greenhouse gases
 
-countries: Ethiopia, Costa Rica, Bangladesh, Indonesia, Malaysia, Cambodia, Fiji, Papua New Guinea, Syria, Pakistan, Honduras, Mozambique, Jordan, Iraq, Armenia, Cuba
+countries: Ethiopia, Costa Rica, Bangladesh, Indonesia, Malaysia, Cambodia, Fiji, Papua New Guinea, Syria, Pakistan, Honduras, Mozambique, Jordan, Iraq, Armenia, Cuba, South Sudan
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -52,6 +52,8 @@ countries: Ethiopia, Costa Rica, Bangladesh, Indonesia, Malaysia, Cambodia, Fiji
 
 **Book 25:** *Orientaciones metodológicas — Geografía Económica y Social, octavo grado* (teacher guide, Spanish) — Editorial Pueblo y Educación / Ministerio de Educación, Cuba; year 2024; ISBN 978-959-13-4748-0 (print) / 978-959-13-4749-7 (digital). Title as printed: Orientaciones metodológicas — Geografía Económica y Social, octavo grado. Grade: Grade 8 (student/teacher: TEACHER). PDF pages: 84 (cover/title page verified against the record title; grabbed via grab.py tree route, 4,317,183 bytes; full text read via pdftotext -layout). Verdict: COMPLETE. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
 
+**Book 26:** *Secondary Geography 2 Teacher's Guide* (teacher guide, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 2 Teacher's Guide. Grade: Secondary 2 / Grade 10 (student/teacher: TEACHER). PDF pages: 135 (cover/title page verified against the record title). Verdict: COMPLETE. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The greenhouse effect | Ethiopia, *Economics, Student Textbook, Grade 12*, Unit 8 — Economy, Environment and Climate Change, printed pp. 189–191 |
@@ -82,8 +84,9 @@ countries: Ethiopia, Costa Rica, Bangladesh, Indonesia, Malaysia, Cambodia, Fiji
 | Armenia part — 3.4 The greenhouse effect and climate change | Armenia, *Armenia Grade 10 Geography student*, 3.4 The greenhouse effect and climate change — printed p. 116 |
 | Cuba part — Capítulo 4 ep. 4.9–4.13 El efecto invernadero y el deshielo de los polos | Cuba, *Cuba Grade 5 Geografía G5*, Capítulo 4 ep. 4.9–4.13 El efecto invernadero y el deshielo de los polos — printed p. 121 |
 | Cuba part — Materiales complementarios: el efecto invernadero (teacher guide — evidence) | Cuba, *Cuba Grade 8 OM Geografía Económica y Social G8* (teacher guide), Materiales complementarios: el efecto invernadero — printed p. 76 |
+| South Sudan part — Guide: case study debate — global warming and climate change (teacher guide — evidence) | South Sudan, *South Sudan Grade 10 S2 Geography TG* (teacher guide), Guide: case study debate — global warming and climate change — printed p. 96 |
 
-**Acceptance count: taught in 15 countries (Ethiopia, Costa Rica, Bangladesh, Indonesia, Malaysia, Cambodia, Fiji, Syria, Pakistan, Honduras, Mozambique, Jordan, Iraq, Armenia, Cuba). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 15 countries (Ethiopia, Costa Rica, Bangladesh, Indonesia, Malaysia, Cambodia, Fiji, Syria, Pakistan, Honduras, Mozambique, Jordan, Iraq, Armenia, Cuba). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere. South Sudan is named here as teacher-guide evidence only, counted nowhere.**
 
 Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -138,3 +141,5 @@ Armenia's own way (Armenia Grade 10 Geography student): grade-10 Geography is a 
 Cuba's own way (Cuba Grade 5 Geografía G5): The first Geography book a Cuban child meets opens with the history of geography itself (cuneiform maps, Hecataeus), builds all map skills before any content, and ends the planet tour with world population, the world political map and world heritage — with Cuba's own places (Llanura del Cauto, Trinidad) woven in as examples throughout.
 
 Cuba's own way (Cuba Grade 8 OM Geografía Económica y Social G8) (teacher guide — evidence): The guide's distinctive Cuban layer is territorial identity — learners characterise their own municipality's resources and the environmental problems of its economic sectors, and the world material (political map, population, resources, production) is always closed by comparison with Cuba. That evidence is stocked here as the way Cuba teaches this thing; it is cited as evidence only — Cuba is counted in this lesson through its student book(s).
+
+South Sudan's own way (South Sudan Grade 10 S2 Geography TG) (teacher guide — evidence): Mirrors the student's book's 8 units with content maps, expected answers and group-presentation case studies (agriculture solutions, fishing solutions, fold-mountain impacts), plus a field-observation exercise on the environment near the school. That evidence is stocked here as the way South Sudan teaches this thing; it does not change the acceptance count above.

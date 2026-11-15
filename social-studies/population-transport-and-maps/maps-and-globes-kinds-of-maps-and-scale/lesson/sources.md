@@ -1,6 +1,6 @@
 # Sources — Maps and globes — kinds of maps and scale
 
-countries: Ethiopia, France, Myanmar, Haiti, Costa Rica, Ecuador, Palestine, Bahamas, Zimbabwe, Colombia, India, Fiji, Uzbekistan, Papua New Guinea, Uganda, Mauritania, Kuwait, Afghanistan, Yemen, Pakistan, Moldova, Honduras, Nepal, Jordan, Iraq, Nicaragua, Bhutan, Armenia, Cuba
+countries: Ethiopia, France, Myanmar, Haiti, Costa Rica, Ecuador, Palestine, Bahamas, Zimbabwe, Colombia, India, Fiji, Uzbekistan, Papua New Guinea, Uganda, Mauritania, Kuwait, Afghanistan, Yemen, Pakistan, Moldova, Honduras, Nepal, Jordan, Iraq, Nicaragua, Bhutan, Armenia, Cuba, South Sudan
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 2, placements 27–43).
 
@@ -94,6 +94,8 @@ countries: Ethiopia, France, Myanmar, Haiti, Costa Rica, Ecuador, Palestine, Bah
 
 **Book 46:** *Geografía Física, séptimo grado* (student book, Spanish) — Editorial Pueblo y Educación, Cuba; year 2023; ISBN 978-959-13-4069-6 (print) / 978-959-13-4330-7 (digital). Title as printed: Geografía Física, séptimo grado. Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 239 (cover/title page verified against the record title; grabbed via grab.py release-asset route, 39,829,077 bytes; the duplicate TSV↔books.json pair is the same book, read once; full text read via pdftotext -layout; structure and printed pages from the book's Índice). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
 
+**Book 47:** *Secondary Geography 1 Student's Book* (student book, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 1 Student's Book. Grade: Secondary 1 / Grade 9 (student/teacher: STUDENT). PDF pages: 146 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Kinds of maps by message | Ethiopia, *Social Studies Student Textbook, Grade 7* (Amhara Bureau), printed pp. 49–50 |
@@ -138,6 +140,7 @@ countries: Ethiopia, France, Myanmar, Haiti, Costa Rica, Ecuador, Palestine, Bah
 | Armenia part — Lesson 1.4 Geographic maps: classification by content, scale and territorial coverage | Armenia, *Armenia Grade 7 Geography student*, Lesson 1.4 Geographic maps: classification by content, scale and territorial coverage — printed p. 13 |
 | Cuba part — Unidad 2 El mapa político-administrativo: concepto y lectura (teacher guide — evidence) | Cuba, *Cuba Grade 8 OM Geografía Económica y Social G8* (teacher guide), Unidad 2 El mapa político-administrativo: concepto y lectura — printed p. 41 |
 | Cuba part — Capítulo 2 Los mapas: tipos de mapas geográficos | Cuba, *Cuba Grade 7 Geografía Física G7*, Capítulo 2 Los mapas: tipos de mapas geográficos — printed p. 20 |
+| South Sudan part — Types of maps and the atlas | South Sudan, *South Sudan Grade 9 S1 Geography SB*, Types of maps and the atlas — printed p. 124 |
 
 | France part — Thème 2 Bilan/Évaluation: Cartographier — dessiner les dynamiques et les inégalités du territoire français (croquis, construire la légende) | France, *Géographie 2de GT, Manuel Libre de Géographie, Seconde*, Grade 10, Sommaire Thème 2 |
 | Different types of maps — Myanmar way: 5.1 (teacher guide — evidence) | Myanmar, *Teacher Guide — Geography — Grade 6* (teacher guide), §5.1, printed p. 78 |
@@ -145,7 +148,7 @@ countries: Ethiopia, France, Myanmar, Haiti, Costa Rica, Ecuador, Palestine, Bah
 | Costa Rica part — map-work — main sellers and buyers of timber in the world (flow map); production maps of Europe and Africa compared | Costa Rica, *Estudios Sociales 11 (Porras y Gamboa)*, Grade 11, Unit 1 B practicals — printed p. 24 |
 | Ecuador part — Estudios cartográficos para entender geografía (cartographic studies: map concepts and practice) | Ecuador, *Estudios Sociales 8vo EGB*, Grade 8, Estudios cartográficos para entender geografía (cartographic studies: map concepts and practice) — printed p. 99 |
 
-**Acceptance count: taught in 24 countries (Ethiopia, France, Costa Rica, Ecuador, Palestine, Bahamas, Colombia, India, Fiji, Uzbekistan, Mauritania, Kuwait, Afghanistan, Yemen, Pakistan, Moldova, Honduras, Nepal, Jordan, Iraq, Nicaragua, Bhutan, Armenia, Cuba). Myanmar is named here as teacher-guide evidence only, counted nowhere. Haiti is named here as teacher-sequence evidence only, counted nowhere. Zimbabwe is named here as teacher-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere. Uganda is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 25 countries (Ethiopia, France, Costa Rica, Ecuador, Palestine, Bahamas, Colombia, India, Fiji, Uzbekistan, Mauritania, Kuwait, Afghanistan, Yemen, Pakistan, Moldova, Honduras, Nepal, Jordan, Iraq, Nicaragua, Bhutan, Armenia, Cuba, South Sudan). Myanmar is named here as teacher-guide evidence only, counted nowhere. Haiti is named here as teacher-sequence evidence only, counted nowhere. Zimbabwe is named here as teacher-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere. Uganda is named here as teacher-guide evidence only, counted nowhere.**
 
 Haiti's own way (teacher sequence — evidence): Geography opens with representing the Earth itself — globe-to-flat projection problems, orientation practised on the ground with compass/GPS/Google Maps, and time-zone puzzles worked on Haiti's own links (midday shared with Québec, 18h in Paris, Port-au-Prince–Paris flights); every séance ends in a croquis, a glossary and field observation. That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
@@ -240,3 +243,5 @@ Armenia's own way (Armenia Grade 7 Geography student): opens school geography wi
 Cuba's own way (Cuba Grade 8 OM Geografía Económica y Social G8) (teacher guide — evidence): The guide's distinctive Cuban layer is territorial identity — learners characterise their own municipality's resources and the environmental problems of its economic sectors, and the world material (political map, population, resources, production) is always closed by comparison with Cuba. That evidence is stocked here as the way Cuba teaches this thing; it is cited as evidence only — Cuba is counted in this lesson through its student book(s).
 
 Cuba's own way (Cuba Grade 7 Geografía Física G7): Physical geography is taught sphere by sphere (lithosphere → atmosphere → hydrosphere → biosphere) but every sphere chapter closes on rational use and sustainability — wind energy, rational water use, soil protection — and Cuban evidence runs through it (Cuba's forest cover fell from ~95 % at the Spanish arrival to 16 % by 1959 and was recovered by policy).
+
+South Sudan's own way (South Sudan Grade 9 S1 Geography SB): Geography is built around South Sudan itself — its own physical features, resources, floods/drought experience and the Nile — with paper-folding and paper-tearing practical experiments for folding, faulting and sea-floor spreading, and group discussion of local examples in nearly every topic.

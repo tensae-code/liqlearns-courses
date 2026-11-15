@@ -1,6 +1,6 @@
 # Sources — The gap between rich and poor countries
 
-countries: Ethiopia, Haiti, Palestine, Cambodia, Syria, Venezuela, Yemen, Mozambique, Armenia, Cuba
+countries: Ethiopia, Haiti, Palestine, Cambodia, Syria, Venezuela, Yemen, Mozambique, Armenia, Cuba, South Sudan
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -26,6 +26,10 @@ countries: Ethiopia, Haiti, Palestine, Cambodia, Syria, Venezuela, Yemen, Mozamb
 
 **Book 12:** *Geografía 2 — Octavo grado (the repo copy is the 2002 edition of the Grade 8 book; the 2024 programme and methodological orientations above belong to the newer edition of the same subject)* (student book, Spanish) — Editorial Pueblo y Educación / Ministerio de Educación, Cuba; year 2002; ISBN 959-13-0925-2. Title as printed: Geografía 2 — Octavo grado (the repo copy is the 2002 edition of the Grade 8 book; the 2024 programme and methodological orientations above belong to the newer edition of the same subject). Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 148 (cover/title page verified against the record title; grabbed via grab.py tree route, 4,803,285 bytes; full text read via pdftotext -layout; structure and printed pages taken from the book's own Índice). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
 
+**Book 13:** *Secondary Geography 4 Student's Book* (student book, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 4 Student's Book. Grade: Secondary 4 / Grade 12 (student/teacher: STUDENT). PDF pages: 200 (cover/title page verified against the record title). Image-only PDF: read via 100-DPI 4-up contact sheets; the full printed table of contents (printed pp. 2–194) was read and every unit spot-checked on the sheets.. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
+
+**Book 14:** *Secondary Geography 4 Teacher's Guide* (teacher guide, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 4 Teacher's Guide. Grade: Secondary 4 / Grade 12 (student/teacher: TEACHER). PDF pages: 99 (cover/title page verified against the record title). Verdict: COMPLETE. Note: the guide states the Rocks unit (Unit 5) is "not included in the syllabus" but is kept for advanced students. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The gap and its causes | G12 student #57, printed pp. 134–138 |
@@ -43,8 +47,10 @@ countries: Ethiopia, Haiti, Palestine, Cambodia, Syria, Venezuela, Yemen, Mozamb
 | Mozambique part — Lição 9: A Desigualdade no Comércio Mundial (raw-material producers forced to negotiate with the great trading companies) | Mozambique, *Mozambique Grade 10 PESD II Mod 7*, Lição 9: A Desigualdade no Comércio Mundial (raw-material producers forced to negotiate with the great trading companies) — printed p. 61 |
 | Armenia part — 2.1 The gap between rich and poor countries | Armenia, *Armenia Grade 11 Social Science student*, 2.1 The gap between rich and poor countries — printed p. 46 |
 | Cuba part — Capítulo 1 Desigual desarrollo de los países en el mundo: un problema medioambiental global | Cuba, *Cuba Grade 8 Geografía 2 G8*, Capítulo 1 Desigual desarrollo de los países en el mundo: un problema medioambiental global — printed p. 19 |
+| South Sudan part — Unit 8: understanding the "development gap" (incl. the Brandt line) | South Sudan, *South Sudan Grade 12 S4 Geography SB*, Unit 8: understanding the "development gap" (incl. the Brandt line) — printed p. 155 |
+| South Sudan part — Guide: Unit 8 Bridging the Development Gap — content map (teacher guide — evidence) | South Sudan, *South Sudan Grade 12 S4 Geography TG* (teacher guide), Guide: Unit 8 Bridging the Development Gap — content map — printed p. 77 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Palestine, Cambodia, Syria, Venezuela, Yemen, Mozambique, Armenia, Cuba). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 10 countries (Ethiopia, Palestine, Cambodia, Syria, Venezuela, Yemen, Mozambique, Armenia, Cuba, South Sudan). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
 
 Haiti's own way (teacher sequence — evidence): World inequality is questioned through the words used for it (Nord/Sud, développé/sous-développé) and through Haiti's own case — a rich-country/poor-country comparison (Canada or USA vs Haiti), the independence debt, food insecurity and Covid vaccination in Haiti — with every claim built from authenticated statistics, graphs and maps crossed from local to world scale. That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
@@ -71,3 +77,7 @@ Mozambique's own way (Mozambique Grade 10 PESD II Mod 7): industry taught as a l
 Armenia's own way (Armenia Grade 11 Social Science student): grade-11 Social Science is the state year — law, the economy's state, elections, parties, international law and relations — with the economy theme measuring countries by GDP, growth, inflation and unemployment before judging state intervention.
 
 Cuba's own way (Cuba Grade 8 Geografía 2 G8): This older edition teaches world economic geography as a story — first the political map's dynamics through history (colonial empires, independences, 1914, post-1945, the 1960s, the 1990s), then resources, then production, and it closes with full regional studies; Latin America is studied first and in most depth, and every world topic is measured against Cuba's own sugar, tobacco, nickel and trade.
+
+South Sudan's own way (South Sudan Grade 12 S4 Geography SB): A global book (globalization, oceans, world energy, the development gap) that keeps returning to South Sudan — ARCISS signing photo in Juba for political globalization, South Sudan classroom progress-check scenarios, and a closing exercise asking learners, as citizens of South Sudan, how their nation can grow economically.
+
+South Sudan's own way (South Sudan Grade 12 S4 Geography TG) (teacher guide — evidence): Mirrors the student's book's 9 units and adds South Sudan case studies the student book only hints at — Mining in South Sudan, corruption and development in South Sudan, and the importance of international trade to South Sudan in particular. That evidence is stocked here as the way South Sudan teaches this thing; it is cited as evidence only — South Sudan is counted in this lesson through its student book(s).

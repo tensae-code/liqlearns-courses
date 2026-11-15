@@ -1,6 +1,6 @@
 # Sources — Volcanism — vents, fissures and the Ring of Fire
 
-countries: Ethiopia, Dominican Republic, Samoa, Slovenia, Mozambique, Jordan, Iraq, Bhutan, Armenia, Cuba
+countries: Ethiopia, Dominican Republic, Samoa, Slovenia, Mozambique, Jordan, Iraq, Bhutan, Armenia, Cuba, South Sudan
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -26,6 +26,14 @@ countries: Ethiopia, Dominican Republic, Samoa, Slovenia, Mozambique, Jordan, Ir
 
 **Book 12:** *Geografía, quinto grado* (student book, Spanish) — Editorial Pueblo y Educación / Ministerio de Educación, Cuba; year 2024; ISBN 978-959-13-4717-6 (print) / 978-959-13-4718-3 (digital). Title as printed: Geografía, quinto grado. Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 174 (cover/title page verified against the record title; grabbed via grab.py release-asset route, 7,092,429 bytes; the duplicate TSV↔books.json pair is the same book, read once; full text read via pdftotext -layout). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
 
+**Book 13:** *Secondary Geography 1 Student's Book* (student book, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 1 Student's Book. Grade: Secondary 1 / Grade 9 (student/teacher: STUDENT). PDF pages: 146 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
+
+**Book 14:** *Secondary Geography 1 Teacher's Guide* (teacher guide, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 1 Teacher's Guide. Grade: Secondary 1 / Grade 9 (student/teacher: TEACHER). PDF pages: 98 (cover/title page verified against the record title). Verdict: COMPLETE. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
+
+**Book 15:** *Secondary Geography 2 Student's Book* (student book, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 2 Student's Book. Grade: Secondary 2 / Grade 10 (student/teacher: STUDENT). PDF pages: 217 (cover/title page verified against the record title). Image-only PDF: read via 100-DPI 4-up contact sheets; the full printed table of contents (printed pp. 1–208) was read and every unit spot-checked on the sheets, cross-checked against the teacher's guide text.. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
+
+**Book 16:** *Secondary Geography 2 Teacher's Guide* (teacher guide, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 2 Teacher's Guide. Grade: Secondary 2 / Grade 10 (student/teacher: TEACHER). PDF pages: 135 (cover/title page verified against the record title). Verdict: COMPLETE. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Vents and fissures | G12 student #16, printed pp. 19–20 |
@@ -42,8 +50,13 @@ countries: Ethiopia, Dominican Republic, Samoa, Slovenia, Mozambique, Jordan, Ir
 | Bhutan part — Ch.1 Causes of Volcanoes | Bhutan, *Bhutan Grade 11 Geography*, Ch.1 Causes of Volcanoes — printed p. 10 |
 | Armenia part — 2.9 Volcanism: structure, distribution and significance in nature | Armenia, *Armenia Grade 10 Geography student*, 2.9 Volcanism: structure, distribution and significance in nature — printed p. 94 |
 | Cuba part — Capítulo 4 ep. 4.3–4.5 El vulcanismo y las zonas sísmicas y volcánicas del planeta | Cuba, *Cuba Grade 5 Geografía G5*, Capítulo 4 ep. 4.3–4.5 El vulcanismo y las zonas sísmicas y volcánicas del planeta — printed p. 99 |
+| South Sudan part — Volcanicity: intrusive (plutonic) and extrusive | South Sudan, *South Sudan Grade 9 S1 Geography SB*, Volcanicity: intrusive (plutonic) and extrusive — printed p. 44 |
+| South Sudan part — Guide: intrusive volcanicity and volcano activities with expected answers (teacher guide — evidence) | South Sudan, *South Sudan Grade 9 S1 Geography TG* (teacher guide), Guide: intrusive volcanicity and volcano activities with expected answers — printed p. 33 |
+| South Sudan part — Volcanic mountains, with clay-volcano making practical | South Sudan, *South Sudan Grade 10 S2 Geography SB*, Volcanic mountains, with clay-volcano making practical — printed p. 2 |
+| South Sudan part — Vulcanicity and volcanicity: intrusive vs extrusive features | South Sudan, *South Sudan Grade 10 S2 Geography SB*, Vulcanicity and volcanicity: intrusive vs extrusive features — printed p. 5 |
+| South Sudan part — Guide: volcanic features and their effects on communication lines and settlement (teacher guide — evidence) | South Sudan, *South Sudan Grade 10 S2 Geography TG* (teacher guide), Guide: volcanic features and their effects on communication lines and settlement — printed p. 23 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Dominican Republic, Samoa, Slovenia, Mozambique, Jordan, Iraq, Bhutan, Armenia, Cuba).**
+**Acceptance count: taught in 11 countries (Ethiopia, Dominican Republic, Samoa, Slovenia, Mozambique, Jordan, Iraq, Bhutan, Armenia, Cuba, South Sudan).**
 
 No book error in the placements for this lesson is taught here. Counts and examples are taught exactly as the placements report them.
 
@@ -70,3 +83,11 @@ Bhutan's own way (Bhutan Grade 11 Geography): The Advanced level (XI–XII) is f
 Armenia's own way (Armenia Grade 10 Geography student): grade-10 Geography is a methods-first course — it opens with the science's history, branches and GIS/GPS/aerospace methods, works through the lithosphere with a full natural-disasters lesson, and closes with resources measured by endowment; Armenia's own rivers fill the hydrology tables and Armenia's place in modern geopolitics closes the political-map theme.
 
 Cuba's own way (Cuba Grade 5 Geografía G5): The first Geography book a Cuban child meets opens with the history of geography itself (cuneiform maps, Hecataeus), builds all map skills before any content, and ends the planet tour with world population, the world political map and world heritage — with Cuba's own places (Llanura del Cauto, Trinidad) woven in as examples throughout.
+
+South Sudan's own way (South Sudan Grade 9 S1 Geography SB): Geography is built around South Sudan itself — its own physical features, resources, floods/drought experience and the Nile — with paper-folding and paper-tearing practical experiments for folding, faulting and sea-floor spreading, and group discussion of local examples in nearly every topic.
+
+South Sudan's own way (South Sudan Grade 9 S1 Geography TG) (teacher guide — evidence): The guide mirrors the student's book unit by unit (its printed contents list the same 8 units) and adds content maps, key inquiry questions, expected answers and practical activities — including the sea-floor-spreading paper practical — for every topic. That evidence is stocked here as the way South Sudan teaches this thing; it is cited as evidence only — South Sudan is counted in this lesson through its student book(s).
+
+South Sudan's own way (South Sudan Grade 10 S2 Geography SB): Each general topic is immediately re-taught through South Sudan — its named rivers (Sobat, Adar, Yabus, Daga), the Sudd swamplands, its oil, fishing and transport problems, and case-study research tasks set by a mock ministry brief.
+
+South Sudan's own way (South Sudan Grade 10 S2 Geography TG) (teacher guide — evidence): Mirrors the student's book's 8 units with content maps, expected answers and group-presentation case studies (agriculture solutions, fishing solutions, fold-mountain impacts), plus a field-observation exercise on the environment near the school. That evidence is stocked here as the way South Sudan teaches this thing; it is cited as evidence only — South Sudan is counted in this lesson through its student book(s).

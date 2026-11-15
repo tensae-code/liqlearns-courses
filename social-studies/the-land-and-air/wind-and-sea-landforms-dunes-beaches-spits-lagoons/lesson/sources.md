@@ -1,6 +1,6 @@
 # Sources — Wind and sea landforms — dunes, beaches, spits, lagoons
 
-countries: Ethiopia, Malaysia, United Kingdom, Slovenia, Mauritania, Kuwait, Libya, Mozambique, Jordan, Iraq, Nicaragua
+countries: Ethiopia, Malaysia, United Kingdom, Slovenia, Mauritania, Kuwait, Libya, Mozambique, Jordan, Iraq, Nicaragua, South Sudan
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -28,6 +28,10 @@ countries: Ethiopia, Malaysia, United Kingdom, Slovenia, Mauritania, Kuwait, Lib
 
 **Book 13:** *Ciencias Sociales 10 Grado, Educación Secundaria (PROSEN)* (student book, Spanish) — Ministerio de Educación (MINED), Nicaragua, with PROSEN / European Union support; year not printed (Primera Edición); ISBN no ISBN printed. Title as printed: Ciencias Sociales 10 Grado, Educación Secundaria (PROSEN). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 300 (cover/title page verified against the record title; byte size 106,780,055 matches the books.json record and the MINED source file). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nicaragua-placements.md.
 
+**Book 14:** *Secondary Geography 4 Student's Book* (student book, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 4 Student's Book. Grade: Secondary 4 / Grade 12 (student/teacher: STUDENT). PDF pages: 200 (cover/title page verified against the record title). Image-only PDF: read via 100-DPI 4-up contact sheets; the full printed table of contents (printed pp. 2–194) was read and every unit spot-checked on the sheets.. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
+
+**Book 15:** *Secondary Geography 4 Teacher's Guide* (teacher guide, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 4 Teacher's Guide. Grade: Secondary 4 / Grade 12 (student/teacher: TEACHER). PDF pages: 99 (cover/title page verified against the record title). Verdict: COMPLETE. Note: the guide states the Rocks unit (Unit 5) is "not included in the syllabus" but is kept for advanced students. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Wind at work | G12 student #23, printed pp. 29–30 |
@@ -47,8 +51,10 @@ countries: Ethiopia, Malaysia, United Kingdom, Slovenia, Mauritania, Kuwait, Lib
 | Nicaragua part — Modelados litorales en las costas de Nicaragua | Nicaragua, *Nicaragua Grade 10 CCSS Geografía 10*, Modelados litorales en las costas de Nicaragua — printed p. 55 |
 | Nicaragua part — Zonas costeras de América | Nicaragua, *Nicaragua Grade 8 Estudios Sociales G8 full-year*, Zonas costeras de América — printed p. 28 |
 | Nicaragua part — Litorales y costas de Nicaragua | Nicaragua, *Nicaragua Grade 10 Ciencias Sociales G10 full-year*, Litorales y costas de Nicaragua — printed p. 60 |
+| South Sudan part — Coasts and coastal landforms | South Sudan, *South Sudan Grade 12 S4 Geography SB*, Coasts and coastal landforms — printed p. 26 |
+| South Sudan part — Guide: coastal landform answers; 3D-model landform practical; tombolos and tides (teacher guide — evidence) | South Sudan, *South Sudan Grade 12 S4 Geography TG* (teacher guide), Guide: coastal landform answers; 3D-model landform practical; tombolos and tides — printed p. 31 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Malaysia, United Kingdom, Slovenia, Mauritania, Kuwait, Libya, Mozambique, Jordan, Iraq, Nicaragua).**
+**Acceptance count: taught in 12 countries (Ethiopia, Malaysia, United Kingdom, Slovenia, Mauritania, Kuwait, Libya, Mozambique, Jordan, Iraq, Nicaragua, South Sudan).**
 
 Figure-reference correction carried from the placements: the spit and lagoon text in the book points to 'Figure 1.31', but the sea-work figure is captioned Figure 1.32 (1.31 is the wind-action figure) — taught with the corrected figure numbers and named here only.
 
@@ -77,3 +83,7 @@ Nicaragua's own way (Nicaragua Grade 10 CCSS Geografía 10): A distance-learning
 Nicaragua's own way (Nicaragua Grade 8 Estudios Sociales G8 full-year): Grade 8 widens the lens to the whole American continent: five Geography units on America's territorial patrimony, physical landscape, ethnic-cultural diversity, space-and-economy and environmental protection (closing with Nicaragua's own SINAPRED disaster system), then five History units. Non-Geography parts named, not placed: Unit VI American origins (printed pp. 125–138, History); Unit VII arrival of the Europeans and colonial domination (printed pp. 145–165, History); Unit VIII emancipation processes (printed pp. 167–184, History); Unit IX changes in Latin American society (printed pp. 185–194, History); Unit X America in the 20th century (printed pp. 197–222, History).
 
 Nicaragua's own way (Nicaragua Grade 10 Ciencias Sociales G10 full-year): The full-year companion to the Grade 10 Geography module (Book 1): Units I–VI repeat and deepen the same national Geography (cartography, relief and geological provinces, climate and watersheds, population, economic sectors, territorial vulnerability and SINAPRED) in classroom form, and the book's second half is a full Economics course. Non-Geography parts named, not placed: Unit IV government anti-poverty programmes (printed p. 106, Civics/social policy); Units VII–XII Economics (printed pp. 156–285): utility of economics and socio-economic formations, what the country produces, price as market regulator, commercial exchange and the banking system, state economic policy, and integration in the face of globalisation.
+
+South Sudan's own way (South Sudan Grade 12 S4 Geography SB): A global book (globalization, oceans, world energy, the development gap) that keeps returning to South Sudan — ARCISS signing photo in Juba for political globalization, South Sudan classroom progress-check scenarios, and a closing exercise asking learners, as citizens of South Sudan, how their nation can grow economically.
+
+South Sudan's own way (South Sudan Grade 12 S4 Geography TG) (teacher guide — evidence): Mirrors the student's book's 9 units and adds South Sudan case studies the student book only hints at — Mining in South Sudan, corruption and development in South Sudan, and the importance of international trade to South Sudan in particular. That evidence is stocked here as the way South Sudan teaches this thing; it is cited as evidence only — South Sudan is counted in this lesson through its student book(s).

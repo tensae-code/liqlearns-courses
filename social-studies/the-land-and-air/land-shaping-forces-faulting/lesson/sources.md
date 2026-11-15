@@ -1,6 +1,6 @@
 # Sources — Land-Shaping Forces — Faulting
 
-countries: Ethiopia, Libya, Mozambique
+countries: Ethiopia, Libya, Mozambique, South Sudan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -14,6 +14,12 @@ countries: Ethiopia, Libya, Mozambique
 
 **Book 6:** *Módulo 3 de Geografia — Geomorfologia* (student book, Portuguese) — Ministério da Educação / IEDA; year not printed (uploaded to IEDA site 2022); no ISBN printed. Title as printed: Módulo 3 de Geografia — Geomorfologia. Grade: Grades 10–12 cycle (2º Ciclo), filed as Grade 10 (student/teacher: STUDENT). PDF pages: 138 (title page verified against the record title; byte size 5,627,754 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE (the book's own contents page omits Lição 2 "Rochas" — it is present in the body at printed p. 10; contents-page error in the book itself). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
 
+**Book 7:** *Secondary Geography 1 Student's Book* (student book, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 1 Student's Book. Grade: Secondary 1 / Grade 9 (student/teacher: STUDENT). PDF pages: 146 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
+
+**Book 8:** *Secondary Geography 2 Student's Book* (student book, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 2 Student's Book. Grade: Secondary 2 / Grade 10 (student/teacher: STUDENT). PDF pages: 217 (cover/title page verified against the record title). Image-only PDF: read via 100-DPI 4-up contact sheets; the full printed table of contents (printed pp. 1–208) was read and every unit spot-checked on the sheets, cross-checked against the teacher's guide text.. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
+
+**Book 9:** *Primary Social Studies 6 Pupil's Book* (student book, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Primary Social Studies 6 Pupil's Book. Grade: Primary 6 / Grade 6 (student/teacher: STUDENT). PDF pages: 90 (title page verified against the record title). Note: this record's repo file sits at the nonstandard flat path grade-06/gov/south-sudan/social-studies/full-year-student.pdf (see group log, library debts).. Verdict: COMPLETE (combined Social Studies book — Geography parts placed; other-subject parts named here, not placed). Other subjects in this book (named, not placed): Unit 1 The Challenge of Change — change, conflict and its causes, colonisation and the independence struggle (History/Civics), printed pp. 1–18; Unit 4 Valuing One Another — human rights, forced marriage, HIV and AIDS (Civics/health), printed pp. 52–65. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — When the crust breaks and shifts | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 11–12 |
@@ -23,8 +29,11 @@ countries: Ethiopia, Libya, Mozambique
 | Libya part — Book 2 Ch.1: الانكسارات — Faults: elements and forms (simple, reverse, thrust, step, graben and horst) and the role of folding and faulting in shaping the surface [placement slug: the-land-and-air/folded-and-faulted-mountains] | Libya, *Libya Grade 10 LY G10 Principles*, Book 2 Ch.1: الانكسارات — Faults: elements and forms (simple, reverse, thrust, step, graben and horst) and the role of folding and faulting in shaping the surface — printed p. 34 |
 | Mozambique part — Lição 24: falhas, horst e graben/fossa tectónica | Mozambique, *Mozambique Grade 7 PESD I Mod 1*, Lição 24: falhas, horst e graben/fossa tectónica — printed p. 122 |
 | Mozambique part — Lição 7: falhas normais e inversas (tecto/muro), parallel fault systems | Mozambique, *Mozambique Grade 10 PESD II Mod 3*, Lição 7: falhas normais e inversas (tecto/muro), parallel fault systems — printed p. 42 |
+| South Sudan part — Block mountains / horsts (Ruwenzori, Usambara, Pare) | South Sudan, *South Sudan Grade 9 S1 Geography SB*, Block mountains / horsts (Ruwenzori, Usambara, Pare) — printed p. 39 |
+| South Sudan part — Formation of block mountains | South Sudan, *South Sudan Grade 10 S2 Geography SB*, Formation of block mountains — printed p. 20 |
+| South Sudan part — Block (horst) mountains: Pare Mountain in Tanzania [placement slug: the-land-and-air/fold-mountains-and-block-mountains] | South Sudan, *South Sudan Grade 6 P6 Social Studies SB*, Block (horst) mountains: Pare Mountain in Tanzania — printed p. 24 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Libya, Mozambique).**
+**Acceptance count: taught in 4 countries (Ethiopia, Libya, Mozambique, South Sudan).**
 
 Pairing warning: the Grade 8 teacher guide is an Addis Ababa bureau book and the student book is an Amhara bureau book; they are NOT edition-matched, and the guide in hand is truncated (printed pp. 1–47 only, Units 1–3). Pupil content in this lesson comes from the Amhara student book; anything from the guide is labelled (teacher guide — evidence) and never presented as pupil-taught.
 
@@ -37,3 +46,9 @@ Libya's own way (Libya Grade 10 LY G10 Principles): Secondary geography opens as
 Mozambique's own way (Mozambique Grade 7 PESD I Mod 1): distance-learning self-study module — every lesson follows the same rhythm (introduction, development with worked examples, exercises, answer key, lesson summary); the four Earth spheres are the organising spine of the whole module, each sphere closed by a "use, protection and conservation" lesson; local anchors throughout (Maputo temperature worked example, Zambezi delta, Moma/Namialo weather contrast).
 
 Mozambique's own way (Mozambique Grade 10 PESD II Mod 3): a systematic geomorphology course — rocks and Earth's interior first, then isostasy, continental drift and plate tectonics, then internal agents (folds, faults, earthquakes, volcanoes in four lessons), then external agents and the modelled landscapes of hot, temperate, cold and coastal environments, closing with the geological cycle.
+
+South Sudan's own way (South Sudan Grade 9 S1 Geography SB): Geography is built around South Sudan itself — its own physical features, resources, floods/drought experience and the Nile — with paper-folding and paper-tearing practical experiments for folding, faulting and sea-floor spreading, and group discussion of local examples in nearly every topic.
+
+South Sudan's own way (South Sudan Grade 10 S2 Geography SB): Each general topic is immediately re-taught through South Sudan — its named rivers (Sobat, Adar, Yabus, Daga), the Sudd swamplands, its oil, fishing and transport problems, and case-study research tasks set by a mock ministry brief.
+
+South Sudan's own way (South Sudan Grade 6 P6 Social Studies SB): Tourism is taught as national homework — map the parks, weigh the landlocked disadvantage against South Africa, set up the anti-poaching unit — and the fishing unit ties grounds back to Unit 2's physical features and forward to roads that must be improved so fish can reach market.

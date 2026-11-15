@@ -1,6 +1,6 @@
 # Sources — Folding — anticlines, synclines and fold mountains
 
-countries: Ethiopia, Colombia, Slovenia, Sri Lanka, Kuwait, Iran, Pakistan, Mozambique, Jordan, Iraq
+countries: Ethiopia, Colombia, Slovenia, Sri Lanka, Kuwait, Iran, Pakistan, Mozambique, Jordan, Iraq, South Sudan
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -24,6 +24,14 @@ countries: Ethiopia, Colombia, Slovenia, Sri Lanka, Kuwait, Iran, Pakistan, Moza
 
 **Book 11:** *الاجتماعيات للصف الثاني المتوسط (Social Studies for the Second Intermediate Grade)* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 1445 AH / 2023 CE, 4th edition (الطبعة الرابعة); ISBN no ISBN printed on the title pages. Title as printed: الاجتماعيات للصف الثاني المتوسط (Social Studies for the Second Intermediate Grade). Grade: 8 (student/teacher: STUDENT). PDF pages: 140 (cover/title page verified against the record title; read via the books.json record's own Google Drive source file — same book, cover and contents verified — after the GitHub route failed). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iraq-placements.md.
 
+**Book 12:** *Secondary Geography 1 Student's Book* (student book, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 1 Student's Book. Grade: Secondary 1 / Grade 9 (student/teacher: STUDENT). PDF pages: 146 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
+
+**Book 13:** *Secondary Geography 1 Teacher's Guide* (teacher guide, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 1 Teacher's Guide. Grade: Secondary 1 / Grade 9 (student/teacher: TEACHER). PDF pages: 98 (cover/title page verified against the record title). Verdict: COMPLETE. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
+
+**Book 14:** *Secondary Geography 2 Student's Book* (student book, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 2 Student's Book. Grade: Secondary 2 / Grade 10 (student/teacher: STUDENT). PDF pages: 217 (cover/title page verified against the record title). Image-only PDF: read via 100-DPI 4-up contact sheets; the full printed table of contents (printed pp. 1–208) was read and every unit spot-checked on the sheets, cross-checked against the teacher's guide text.. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
+
+**Book 15:** *Primary Social Studies 5 Pupil's Book* (student book, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Primary Social Studies 5 Pupil's Book. Grade: Primary 5 / Grade 5 (student/teacher: STUDENT). PDF pages: 79 (cover/title page verified against the record title). Verdict: COMPLETE (combined Social Studies book — Geography parts placed; other-subject parts named here, not placed). Other subjects in this book (named, not placed): Unit 1 Past Kingdoms — pre-colonial kingdoms of Africa and South Sudan, sources of evidence, the Shilluk kingdom (History), printed pp. 1–20; Unit 3 Leaders and Decision Makers — good citizens and leaders, decision making, debate, HIV and AIDS (Civics/health), printed pp. 43–60. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Anticlines and synclines | G12 student #10, printed pp. 12–14 |
@@ -38,8 +46,12 @@ countries: Ethiopia, Colombia, Slovenia, Sri Lanka, Kuwait, Iran, Pakistan, Moza
 | Jordan part — Unit 2: Parts of a Fold activity | Jordan, *Jordan G12 ES T1 Workbook (10385)*, Unit 2: Parts of a Fold activity — printed p. 27 |
 | Jordan part — Unit 2 Lesson 3: Folds (الطيات) | Jordan, *Jordan G12 ES T1*, Unit 2 Lesson 3: Folds (الطيات) — printed p. 64 |
 | Iraq part — Part 1 Ch. 1: The mountain chains of Iraq and the Levant and of the Red Sea | Iraq, *Iraq Grade 8 Social Studies*, Part 1 Ch. 1: The mountain chains of Iraq and the Levant and of the Red Sea — printed p. 12 |
+| South Sudan part — Folding: paper experiment, parts and types of folds | South Sudan, *South Sudan Grade 9 S1 Geography SB*, Folding: paper experiment, parts and types of folds — printed p. 25 |
+| South Sudan part — Guide: teaching folding, anticlines and fold types with practicals (teacher guide — evidence) | South Sudan, *South Sudan Grade 9 S1 Geography TG* (teacher guide), Guide: teaching folding, anticlines and fold types with practicals — printed p. 25 |
+| South Sudan part — Fold mountains: symmetrical, asymmetrical, isoclinal and recumbent folds | South Sudan, *South Sudan Grade 10 S2 Geography SB*, Fold mountains: symmetrical, asymmetrical, isoclinal and recumbent folds — printed p. 14 |
+| South Sudan part — Fold mountains: paper-folding practical [placement slug: the-land-and-air/fold-mountains-and-block-mountains] | South Sudan, *South Sudan Grade 5 P5 Social Studies SB*, Fold mountains: paper-folding practical — printed p. 34 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Colombia, Slovenia, Sri Lanka, Kuwait, Iran, Pakistan, Mozambique, Jordan, Iraq).**
+**Acceptance count: taught in 11 countries (Ethiopia, Colombia, Slovenia, Sri Lanka, Kuwait, Iran, Pakistan, Mozambique, Jordan, Iraq, South Sudan).**
 
 No book error in the placements for this lesson is taught here. Ranges and ages are taught exactly as the placements report them.
 
@@ -64,3 +76,11 @@ Jordan's own way (Jordan G12 ES T1 Workbook (10385)): the activities book opens 
 Jordan's own way (Jordan G12 ES T1): the final year opens with fossil fuels and climate action, then structures and plate tectonics, closing with geological exploration — ending on uranium exploration in Jordan.
 
 Iraq's own way (Iraq Grade 8 Social Studies): the intermediate sequence widens ring by ring — after Iraq itself (G5–G6) and the ancient world (G7), Grade 8 gives the whole Arab world as one geographical unit (its position between two continents, relief, climates, waters, people and economy), worked constantly off outline maps of the Arab world; the history of the Arab world follows as Part 2.
+
+South Sudan's own way (South Sudan Grade 9 S1 Geography SB): Geography is built around South Sudan itself — its own physical features, resources, floods/drought experience and the Nile — with paper-folding and paper-tearing practical experiments for folding, faulting and sea-floor spreading, and group discussion of local examples in nearly every topic.
+
+South Sudan's own way (South Sudan Grade 9 S1 Geography TG) (teacher guide — evidence): The guide mirrors the student's book unit by unit (its printed contents list the same 8 units) and adds content maps, key inquiry questions, expected answers and practical activities — including the sea-floor-spreading paper practical — for every topic. That evidence is stocked here as the way South Sudan teaches this thing; it is cited as evidence only — South Sudan is counted in this lesson through its student book(s).
+
+South Sudan's own way (South Sudan Grade 10 S2 Geography SB): Each general topic is immediately re-taught through South Sudan — its named rivers (Sobat, Adar, Yabus, Daga), the Sudd swamplands, its oil, fishing and transport problems, and case-study research tasks set by a mock ministry brief.
+
+South Sudan's own way (South Sudan Grade 5 P5 Social Studies SB): Landforms are made, not just named — learners push a sheet of paper from both ends to make a fold mountain, and the home examples are the Ironstone Plateau and a farming landscape being changed by the farming itself.

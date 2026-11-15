@@ -1,6 +1,6 @@
 # Sources — Globalization — gains and costs
 
-countries: Ethiopia, Haiti, Costa Rica, Bolivia, Samoa, Colombia, Malaysia, North Macedonia, Cambodia, Fiji, Sudan, Syria, Venezuela, Kuwait, Honduras, Nicaragua, Armenia
+countries: Ethiopia, Haiti, Costa Rica, Bolivia, Samoa, Colombia, Malaysia, North Macedonia, Cambodia, Fiji, Sudan, Syria, Venezuela, Kuwait, Honduras, Nicaragua, Armenia, South Sudan
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -62,6 +62,10 @@ countries: Ethiopia, Haiti, Costa Rica, Bolivia, Samoa, Colombia, Malaysia, Nort
 
 **Book 30:** *Հասարակագիտություն 12: Մեթոդական ուղեցույց (Social Science 12: methodological guide)* (teacher guide, Armenian) — «Զանգակ» (Zangak), Yerevan; year 2025; ISBN not printed (the imprint carries placeholder classification codes). Author: A. Harutyunyan. Title as printed: Հասարակագիտություն 12: Մեթոդական ուղեցույց (Social Science 12: methodological guide). Grade: 12 (student/teacher: TEACHER). PDF pages: 196 (printed 196; cover/title page verified against the record title). Verdict: COMPLETE — methodology for Book 13, same series pattern as the grade-11 guide: teaching principles, thematic planning, per-theme content structure and content map, lesson-planning schemes, project-based learning with a project template, assessment rubrics and learner-needs guidance. Subject content mirrors Book 13; only the Globalisation theme's teaching treatment and the project template are placed here. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
 
+**Book 31:** *Secondary Geography 4 Student's Book* (student book, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 4 Student's Book. Grade: Secondary 4 / Grade 12 (student/teacher: STUDENT). PDF pages: 200 (cover/title page verified against the record title). Image-only PDF: read via 100-DPI 4-up contact sheets; the full printed table of contents (printed pp. 2–194) was read and every unit spot-checked on the sheets.. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
+
+**Book 32:** *Secondary Geography 4 Teacher's Guide* (teacher guide, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 4 Teacher's Guide. Grade: Secondary 4 / Grade 12 (student/teacher: TEACHER). PDF pages: 99 (cover/title page verified against the record title). Verdict: COMPLETE. Note: the guide states the Rocks unit (Unit 5) is "not included in the syllabus" but is kept for advanced students. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The connected world | G12 student #56, printed pp. 129–134 |
@@ -97,8 +101,10 @@ countries: Ethiopia, Haiti, Costa Rica, Bolivia, Samoa, Colombia, Malaysia, Nort
 | Armenia part — 4.1 The essence of globalisation and its basic definitions | Armenia, *Armenia Grade 12 Social Science student*, 4.1 The essence of globalisation and its basic definitions — printed p. 102 |
 | Armenia part — 4.1 Globalisation as a world-economic process [placement slug: culture-and-work/globalisation-and-the-world-economy] | Armenia, *Armenia Grade 12 Social Science student*, 4.1 Globalisation as a world-economic process — printed p. 102 |
 | Armenia part — Ch. 3 content-structure commentary for Theme 4 "Globalisation" (teacher guide — evidence) | Armenia, *Armenia Grade 12 Social Science teacher guide* (teacher guide), Ch. 3 content-structure commentary for Theme 4 "Globalisation" — printed p. 80 |
+| South Sudan part — Unit 1: understanding globalization; economic, cultural, political and technological types | South Sudan, *South Sudan Grade 12 S4 Geography SB*, Unit 1: understanding globalization; economic, cultural, political and technological types — printed p. 2 |
+| South Sudan part — Guide: Unit 1 Globalization — content map and key inquiry questions (teacher guide — evidence) | South Sudan, *South Sudan Grade 12 S4 Geography TG* (teacher guide), Guide: Unit 1 Globalization — content map and key inquiry questions — printed p. 18 |
 
-**Acceptance count: taught in 16 countries (Ethiopia, Costa Rica, Bolivia, Samoa, Colombia, Malaysia, North Macedonia, Cambodia, Fiji, Sudan, Syria, Venezuela, Kuwait, Honduras, Nicaragua, Armenia). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 17 countries (Ethiopia, Costa Rica, Bolivia, Samoa, Colombia, Malaysia, North Macedonia, Cambodia, Fiji, Sudan, Syria, Venezuela, Kuwait, Honduras, Nicaragua, Armenia, South Sudan). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
 
 Haiti's own way (teacher sequence — evidence): Geography begins as a daily practice, not a chapter: pupils draw the landscape around their school, the plan of their quarter and Haiti with their school placed on it, read landscape forms and functions from their own croquis, then trace one everyday object (a coffee cup, a phone) from raw material to shop shelf to see the world from the local. That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
@@ -159,3 +165,7 @@ Armenia's own way (Armenia Grade 11 Geography student): the senior Geography cou
 Armenia's own way (Armenia Grade 12 Social Science student): the final Social Science year fuses philosophy and psychology, and closes the whole six-year course with globalisation and global problems — including their impact on Armenia itself.
 
 Armenia's own way (Armenia Grade 12 Social Science teacher guide) (teacher guide — evidence): the final-year guide keeps the same method spine as grade 11 — content map first, then lesson schemes and a project template — so the philosophy/psychology/globalisation mix is taught as one planned course. That evidence is stocked here as the way Armenia teaches this thing; it is cited as evidence only — Armenia is counted in this lesson through its student book(s).
+
+South Sudan's own way (South Sudan Grade 12 S4 Geography SB): A global book (globalization, oceans, world energy, the development gap) that keeps returning to South Sudan — ARCISS signing photo in Juba for political globalization, South Sudan classroom progress-check scenarios, and a closing exercise asking learners, as citizens of South Sudan, how their nation can grow economically.
+
+South Sudan's own way (South Sudan Grade 12 S4 Geography TG) (teacher guide — evidence): Mirrors the student's book's 9 units and adds South Sudan case studies the student book only hints at — Mining in South Sudan, corruption and development in South Sudan, and the importance of international trade to South Sudan in particular. That evidence is stocked here as the way South Sudan teaches this thing; it is cited as evidence only — South Sudan is counted in this lesson through its student book(s).

@@ -1,6 +1,6 @@
 # Sources — Culture — globalisation and cultural change
 
-countries: Ethiopia, Brazil, Costa Rica, Mongolia, Ecuador, Jamaica, Samoa
+countries: Ethiopia, Brazil, Costa Rica, Mongolia, Ecuador, Jamaica, Samoa, South Sudan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 2 — Population Studies and Socio-Economic Activities, printed pp. 44–76).
 
@@ -24,6 +24,8 @@ countries: Ethiopia, Brazil, Costa Rica, Mongolia, Ecuador, Jamaica, Samoa
 
 **Book 11:** *Social Studies — Year 11, Book 2* (student book, English) — Ministry of Education, Sports and Culture, Samoa; year 2004; ISBN 982-517-052-2. Title as printed: Social Studies — Year 11, Book 2. Year 11 (student/teacher: STUDENT). PDF pages: 118 (cover/title page verified against the record title). Verdict: COMPLETE (Geography parts placed below). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/samoa-placements.md.
 
+**Book 12:** *Secondary Geography 4 Teacher's Guide* (teacher guide, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 4 Teacher's Guide. Grade: Secondary 4 / Grade 12 (student/teacher: TEACHER). PDF pages: 99 (cover/title page verified against the record title). Verdict: COMPLETE. Note: the guide states the Rocks unit (Unit 5) is "not included in the syllabus" but is kept for advanced students. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Globalisation | Ethiopia, *Social Studies Student Textbook, Grade 8* (Amhara Bureau), printed pp. 52–53 |
@@ -38,8 +40,9 @@ countries: Ethiopia, Brazil, Costa Rica, Mongolia, Ecuador, Jamaica, Samoa
 | Samoa part (Year 9, Book 3) — Unit 2 Topic 2 Technology and the Transfer of Culture | Samoa, *Social Studies, Year 9, Book 3*, Unit 2 Topic 2 Technology and the Transfer of Culture — printed p. 26 |
 | Samoa part (Year 10, Book 2) — Unit 2 Topic 2 Changes Caused by Cultural Interaction | Samoa, *Social Studies, Year 10, Book 2*, Unit 2 Topic 2 Changes Caused by Cultural Interaction — printed p. 38 |
 | Samoa part (Year 11, Book 2) — Unit 2 Our Changing World (cultural values, adaptation and change in a new place) | Samoa, *Social Studies, Year 11, Book 2*, Unit 2 Our Changing World (cultural values, adaptation and change in a new place) — printed p. 25 |
+| South Sudan part — Guide: case study debate — cultural erosion of African cultures through globalization (teacher guide — evidence) (placement slug: culture-and-work/culture-globalisation-and-cultural-change — already standing, stocked here) | South Sudan, *South Sudan Grade 12 S4 Geography TG* (teacher guide), Guide: case study debate — cultural erosion of African cultures through globalization — printed p. 24 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Brazil, Costa Rica, Mongolia, Ecuador, Samoa). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 6 countries (Ethiopia, Brazil, Costa Rica, Mongolia, Ecuador, Samoa). Jamaica is named here as curriculum-guide evidence only, counted nowhere. South Sudan is named here as teacher-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grades 7–9 Social Studies, curriculum guide — evidence): one guide carries all three secondary grades, each year mixing Civics, heritage and a strong resources-and-environment Geography spine — natural and human resources, movements of the Earth, Caribbean hazards, climate change, green technology and tourism — taught through Jamaican case material (bauxite communities, Caribbean disasters). That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
@@ -60,3 +63,5 @@ Samoa's own way (Year 9, Book 3): Culture and development are taught comparative
 Samoa's own way (Year 10, Book 2): Identity and cultural interaction are taught from the Samoan self outward, and place change is taught through one big Pacific-region case — deforestation in Indonesia, read off South-West Pacific maps.
 
 Samoa's own way (Year 11, Book 2): A single Pacific commodity carries the resources teaching — the coconut, from production factors to industry administration and national decision-making in Samoa — set against OPEC's oil, Pacific co-operation and Samoa's own development planning.
+
+South Sudan's own way (South Sudan Grade 12 S4 Geography TG) (teacher guide — evidence): Mirrors the student's book's 9 units and adds South Sudan case studies the student book only hints at — Mining in South Sudan, corruption and development in South Sudan, and the importance of international trade to South Sudan in particular. That evidence is stocked here as the way South Sudan teaches this thing; it does not change the acceptance count above.

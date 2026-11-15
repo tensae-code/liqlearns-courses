@@ -1,6 +1,6 @@
 # Sources — Mass wasting — when slopes give way
 
-countries: Ethiopia, Malaysia, Papua New Guinea, Mozambique, Bhutan
+countries: Ethiopia, Malaysia, Papua New Guinea, Mozambique, Bhutan, South Sudan
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -14,6 +14,10 @@ countries: Ethiopia, Malaysia, Papua New Guinea, Mozambique, Bhutan
 
 **Book 6:** *INTERMEDIATE GEOGRAPHY CLASS X* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu (title page; developed with the Royal Education Council, Paro); year Reprint 2024 (page footers); ISBN no ISBN printed (no imprint page in the PDF). Title as printed: INTERMEDIATE GEOGRAPHY CLASS X. Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 124 (cover/title page verified against the record title; byte size 12,820,771 and page count match the books.json record exactly — read via the record's ministry source URL; this book is also the TSV release record grade-10-gov-bhutan-geography-full-year.pdf, same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
 
+**Book 7:** *Secondary Geography 1 Student's Book* (student book, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 1 Student's Book. Grade: Secondary 1 / Grade 9 (student/teacher: STUDENT). PDF pages: 146 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
+
+**Book 8:** *Secondary Geography 1 Teacher's Guide* (teacher guide, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 1 Teacher's Guide. Grade: Secondary 1 / Grade 9 (student/teacher: TEACHER). PDF pages: 98 (cover/title page verified against the record title). Verdict: COMPLETE. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What holds a slope up | G12 student #24, printed pp. 30–31 |
@@ -23,8 +27,11 @@ countries: Ethiopia, Malaysia, Papua New Guinea, Mozambique, Bhutan
 | Mozambique part — Lição 16: Distribuição dos principais tipos de alteração; deslocamentos (reptação/creeping, landslides damming rivers) | Mozambique, *Mozambique Grade 10 PESD II Mod 3*, Lição 16: Distribuição dos principais tipos de alteração; deslocamentos (reptação/creeping, landslides damming rivers) — printed p. 88 |
 | Bhutan part — 11.3 Landslide | Bhutan, *Bhutan Grade 5 Social Studies*, 11.3 Landslide — printed p. 62 |
 | Bhutan part — Ch.12 Landslide (section printed as "2.3" in the book, inside Chapter 12) | Bhutan, *Bhutan Grade 10 Geography*, Ch.12 Landslide (section printed as "2.3" in the book, inside Chapter 12) — printed p. 108 |
+| South Sudan part — Landslides and avalanches: causes and impacts | South Sudan, *South Sudan Grade 9 S1 Geography SB*, Landslides and avalanches: causes and impacts — printed p. 67 |
+| South Sudan part — Landslide prevention (slope planting, monitoring mining, no encroachment) | South Sudan, *South Sudan Grade 9 S1 Geography SB*, Landslide prevention (slope planting, monitoring mining, no encroachment) — printed p. 70 |
+| South Sudan part — Guide: landslide/flood risk discussion and impacts (teacher guide — evidence) | South Sudan, *South Sudan Grade 9 S1 Geography TG* (teacher guide), Guide: landslide/flood risk discussion and impacts — printed p. 48 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Malaysia, Mozambique, Bhutan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 5 countries (Ethiopia, Malaysia, Mozambique, Bhutan, South Sudan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 No book error in the placements for this lesson is taught here. Angles and factors are taught exactly as the placements report them.
 
@@ -39,3 +46,7 @@ Mozambique's own way (Mozambique Grade 10 PESD II Mod 3): a systematic geomorpho
 Bhutan's own way (Bhutan Grade 5 Social Studies): Grade 5 spirals from the Earth and lat/long straight into Bhutan itself — its location, three physical zones, neighbours, major rivers and protected areas — so world geography is anchored in the home country's map first.
 
 Bhutan's own way (Bhutan Grade 10 Geography): Class X pairs deep physical theory (Big Bang, plate tectonics, the making of the Himalayas) with an applied Bhutan block — climate and vegetation zones of Bhutan, Bhutanese agriculture's challenges and advancement, industries and their distribution, and a Bhutan disaster chapter that adds Education in Emergency.
+
+South Sudan's own way (South Sudan Grade 9 S1 Geography SB): Geography is built around South Sudan itself — its own physical features, resources, floods/drought experience and the Nile — with paper-folding and paper-tearing practical experiments for folding, faulting and sea-floor spreading, and group discussion of local examples in nearly every topic.
+
+South Sudan's own way (South Sudan Grade 9 S1 Geography TG) (teacher guide — evidence): The guide mirrors the student's book unit by unit (its printed contents list the same 8 units) and adds content maps, key inquiry questions, expected answers and practical activities — including the sea-floor-spreading paper practical — for every topic. That evidence is stocked here as the way South Sudan teaches this thing; it is cited as evidence only — South Sudan is counted in this lesson through its student book(s).

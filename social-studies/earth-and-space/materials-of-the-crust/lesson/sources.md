@@ -1,6 +1,6 @@
 # Sources — Materials of the Crust — Elements, Minerals and Rocks
 
-countries: Ethiopia, Barbados, Malaysia, India, North Macedonia, Slovenia, Vietnam, Papua New Guinea, Uganda, Sudan, Syria, Kuwait, Pakistan, Libya, Mozambique, Jordan, Iraq, Bhutan, Armenia, Cuba
+countries: Ethiopia, Barbados, Malaysia, India, North Macedonia, Slovenia, Vietnam, Papua New Guinea, Uganda, Sudan, Syria, Kuwait, Pakistan, Libya, Mozambique, Jordan, Iraq, Bhutan, Armenia, Cuba, South Sudan
 
 **Book 3:** *Social Studies Teacher's Guide, Grade 7* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, first edition 2022 (© 2014 E.C.), 142 printed pp. Printed page = PDF page - 5. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-teacher-placements.md.
 
@@ -60,6 +60,8 @@ countries: Ethiopia, Barbados, Malaysia, India, North Macedonia, Slovenia, Vietn
 
 **Book 31:** *Geografía, quinto grado* (student book, Spanish) — Editorial Pueblo y Educación / Ministerio de Educación, Cuba; year 2024; ISBN 978-959-13-4717-6 (print) / 978-959-13-4718-3 (digital). Title as printed: Geografía, quinto grado. Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 174 (cover/title page verified against the record title; grabbed via grab.py release-asset route, 7,092,429 bytes; the duplicate TSV↔books.json pair is the same book, read once; full text read via pdftotext -layout). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
 
+**Book 32:** *Secondary Geography 4 Student's Book* (student book, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 4 Student's Book. Grade: Secondary 4 / Grade 12 (student/teacher: STUDENT). PDF pages: 200 (cover/title page verified against the record title). Image-only PDF: read via 100-DPI 4-up contact sheets; the full printed table of contents (printed pp. 2–194) was read and every unit spot-checked on the sheets.. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Eight elements, and what a mineral is (teacher guide — evidence) | Ethiopia, *Social Studies Teacher's Guide, Grade 7*, Unit 1, printed pp. 11–14 |
@@ -100,8 +102,9 @@ countries: Ethiopia, Barbados, Malaysia, India, North Macedonia, Slovenia, Vietn
 | Bhutan part — Ch.4 4.3 Classification of rocks | Bhutan, *Bhutan Grade 12 Geography*, Ch.4 4.3 Classification of rocks — printed p. 43 |
 | Armenia part — 2.4 Rocks: magmatic, sedimentary and metamorphic | Armenia, *Armenia Grade 10 Geography student*, 2.4 Rocks: magmatic, sedimentary and metamorphic — printed p. 68 |
 | Cuba part — Capítulo 4 ep. 4.2–4.3 Las rocas: sedimentarias, magmáticas y metamórficas | Cuba, *Cuba Grade 5 Geografía G5*, Capítulo 4 ep. 4.2–4.3 Las rocas: sedimentarias, magmáticas y metamórficas — printed p. 93 |
+| South Sudan part — Unit 5: rocks — formation, composition and texture of rocks compared to soils | South Sudan, *South Sudan Grade 12 S4 Geography SB*, Unit 5: rocks — formation, composition and texture of rocks compared to soils — printed p. 90 |
 
-**Acceptance count: taught in 18 countries (Barbados, Malaysia, India, North Macedonia, Slovenia, Vietnam, Uganda, Sudan, Syria, Kuwait, Pakistan, Libya, Mozambique, Jordan, Iraq, Bhutan, Armenia, Cuba). Ethiopia is named here as teacher-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 19 countries (Barbados, Malaysia, India, North Macedonia, Slovenia, Vietnam, Uganda, Sudan, Syria, Kuwait, Pakistan, Libya, Mozambique, Jordan, Iraq, Bhutan, Armenia, Cuba, South Sudan). Ethiopia is named here as teacher-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Barbados's own way: this is the shared Caribbean CSEC examination textbook used in Barbados — every world process is re-taught through Caribbean case studies (the Caribbean plate, Montserrat's volcano, Jamaica's coasts and Kingston's urban problems, St Lucia's reefs, Bahamas/Jamaica/Puerto Rico karst, Guyana's rivers), map and field skills are folded into the chapters, and the course ends in a School-Based Assessment fieldwork project. That way is stocked here as the way Barbados teaches this thing; it does not change the acceptance count above.
 
@@ -162,3 +165,5 @@ Bhutan's own way (Bhutan Grade 12 Geography): Class XII closes the Advanced cour
 Armenia's own way (Armenia Grade 10 Geography student): grade-10 Geography is a methods-first course — it opens with the science's history, branches and GIS/GPS/aerospace methods, works through the lithosphere with a full natural-disasters lesson, and closes with resources measured by endowment; Armenia's own rivers fill the hydrology tables and Armenia's place in modern geopolitics closes the political-map theme.
 
 Cuba's own way (Cuba Grade 5 Geografía G5): The first Geography book a Cuban child meets opens with the history of geography itself (cuneiform maps, Hecataeus), builds all map skills before any content, and ends the planet tour with world population, the world political map and world heritage — with Cuba's own places (Llanura del Cauto, Trinidad) woven in as examples throughout.
+
+South Sudan's own way (South Sudan Grade 12 S4 Geography SB): A global book (globalization, oceans, world energy, the development gap) that keeps returning to South Sudan — ARCISS signing photo in Juba for political globalization, South Sudan classroom progress-check scenarios, and a closing exercise asking learners, as citizens of South Sudan, how their nation can grow economically.

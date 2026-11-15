@@ -1,6 +1,6 @@
 # Sources — Africa's wildlife and its parks
 
-countries: Ethiopia, Angola, Eritrea, Uganda, Mauritania, Mozambique
+countries: Ethiopia, Angola, Eritrea, Uganda, Mauritania, Mozambique, South Sudan
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). First published 2023 under GEQIP-E. ISBN: 978-99990-0-049-9. 205 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Angola, Eritrea, Uganda, Mauritania, Mozambique
 
 **Book 8:** *Módulo 3 de Geografia (GEOGRAFIA — MÓDULO 3, PESD I)* (student book, Portuguese) — MINEDH / IEDA; year 2023; no ISBN printed. Title as printed: Módulo 3 de Geografia (GEOGRAFIA — MÓDULO 3, PESD I). Grade: Grades 7–9 cycle, filed as Grade 7 (student/teacher: STUDENT). PDF pages: 99 (cover verified against the record title; byte size 6,828,243 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
 
+**Book 9:** *Secondary Geography 1 Student's Book* (student book, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 1 Student's Book. Grade: Secondary 1 / Grade 9 (student/teacher: STUDENT). PDF pages: 146 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Mammals, endemic species and marine life | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 3, printed pp. 78–83 |
@@ -29,8 +31,9 @@ countries: Ethiopia, Angola, Eritrea, Uganda, Mauritania, Mozambique
 | Uganda part — Topic 4: The Influence of Vegetation on Animals; Game Parks in Uganda | Uganda, *Uganda Grade 5 UG Excel P5 SST*, Topic 4: The Influence of Vegetation on Animals; Game Parks in Uganda — printed p. 71 |
 | Mauritania part — Axis 3 Location: animals and birds | Mauritania, *Mauritania Grade 3 geo-3af-m*, Axis 3 Location: animals and birds — printed p. 27 |
 | Mozambique part — Lição 15: A zoogeografia (fauna) de Moçambique (distribution factors, coutadas table, Gorongosa National Park, Gilé Reserve) | Mozambique, *Mozambique Grade 7 PESD I Mod 3*, Lição 15: A zoogeografia (fauna) de Moçambique (distribution factors, coutadas table, Gorongosa National Park, Gilé Reserve) — printed p. 66 |
+| South Sudan part — National parks of South Sudan | South Sudan, *South Sudan Grade 9 S1 Geography SB*, National parks of South Sudan — printed p. 110 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Angola, Eritrea, Uganda, Mauritania, Mozambique).**
+**Acceptance count: taught in 7 countries (Ethiopia, Angola, Eritrea, Uganda, Mauritania, Mozambique, South Sudan).**
 
 Pairing: the teacher guide was first published in 2022 and the student textbook in 2023, with the same writers and the same eight units in the same order; the student book is the learner text of record, and teacher-guide rows above are evidence only.
 
@@ -49,3 +52,5 @@ Uganda's own way (Uganda Grade 5 UG Excel P5 SST): A full-year commercial compan
 Mauritania's own way (Mauritania Grade 3 geo-3af-m): The youngest geography book in the set is built on five axes worked through observation pictures (I observe / I discuss / I conclude): the map key, position, location, landmarks, and a "time landmark" axis. Geography scope placed below; the time-landmark axis is local HISTORY and is NOT placed: History of my village (printed p. 37), History of the founding of the mosque (p. 39), History of the founding of the mahadra (p. 41), History of the founding of the school (p. 43), History of the founding of the dispensary (p. 45).
 
 Mozambique's own way (Mozambique Grade 7 PESD I Mod 3): after world/economic geography in Modules 1–2, Module 3 turns to Mozambique itself as a complete regional study — cities, then the country's location, coast, geology, minerals, soils, relief, climate, plant and animal geography, hydrography — and closes with Southern Africa and Mozambique's SADC integration.
+
+South Sudan's own way (South Sudan Grade 9 S1 Geography SB): Geography is built around South Sudan itself — its own physical features, resources, floods/drought experience and the Nile — with paper-folding and paper-tearing practical experiments for folding, faulting and sea-floor spreading, and group discussion of local examples in nearly every topic.

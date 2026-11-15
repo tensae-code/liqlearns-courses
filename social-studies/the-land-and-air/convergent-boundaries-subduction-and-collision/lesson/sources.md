@@ -1,6 +1,6 @@
 # Sources — Convergent boundaries — subduction and collision
 
-countries: Ethiopia, Fiji, Mozambique, Jordan
+countries: Ethiopia, Fiji, Mozambique, Jordan, South Sudan
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Fiji, Mozambique, Jordan
 
 **Book 4:** *علوم الأرض والبيئة — الصف الثاني عشر — المسار الأكاديمي — كتاب الطالب — الفصل الدراسي الأول (Earth Science and Environment, Grade 12 Academic Track, Term 1)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-807-9. Title as printed: علوم الأرض والبيئة — الصف الثاني عشر — المسار الأكاديمي — كتاب الطالب — الفصل الدراسي الأول (Earth Science and Environment, Grade 12 Academic Track, Term 1). Grade: 12 (student/teacher: STUDENT). PDF pages: 162 (cover verified; byte size 62,271,187 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
 
+**Book 5:** *Secondary Geography 1 Student's Book* (student book, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 1 Student's Book. Grade: Secondary 1 / Grade 9 (student/teacher: STUDENT). PDF pages: 146 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Subduction — one plate dives | G12 student #7, printed pp. 8–9 |
@@ -17,8 +19,9 @@ countries: Ethiopia, Fiji, Mozambique, Jordan
 | Fiji part — Chapter 1: the three types of plate movement and plate boundaries; landforms created — folding and fold mountains (Andes case study), faulting, volcanoes | Fiji, *Fiji Year 13 Geography*, Chapter 1: the three types of plate movement and plate boundaries; landforms created — folding and fold mountains (Andes case study), faulting, volcanoes — printed p. 12 |
 | Mozambique part — Lição 6: convergence — oceanic crust sinking, volcanic island arcs (Tonga, Japan, Aleutians) | Mozambique, *Mozambique Grade 10 PESD II Mod 3*, Lição 6: convergence — oceanic crust sinking, volcanic island arcs (Tonga, Japan, Aleutians) — printed p. 36 |
 | Jordan part — Unit 3 Lesson 3: Plate Boundaries (حدود الصفائح) | Jordan, *Jordan G12 ES T1*, Unit 3 Lesson 3: Plate Boundaries (حدود الصفائح) — printed p. 96 |
+| South Sudan part — Convergent boundaries and subduction | South Sudan, *South Sudan Grade 9 S1 Geography SB*, Convergent boundaries and subduction — printed p. 22 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Fiji, Mozambique, Jordan).**
+**Acceptance count: taught in 5 countries (Ethiopia, Fiji, Mozambique, Jordan, South Sudan).**
 
 No book error in the placements for this lesson is taught here. Examples are taught exactly as the placements report them.
 
@@ -29,3 +32,5 @@ Fiji's own way (Fiji Year 13 Geography): The final year integrates everything at
 Mozambique's own way (Mozambique Grade 10 PESD II Mod 3): a systematic geomorphology course — rocks and Earth's interior first, then isostasy, continental drift and plate tectonics, then internal agents (folds, faults, earthquakes, volcanoes in four lessons), then external agents and the modelled landscapes of hot, temperate, cold and coastal environments, closing with the geological cycle.
 
 Jordan's own way (Jordan G12 ES T1): the final year opens with fossil fuels and climate action, then structures and plate tectonics, closing with geological exploration — ending on uranium exploration in Jordan.
+
+South Sudan's own way (South Sudan Grade 9 S1 Geography SB): Geography is built around South Sudan itself — its own physical features, resources, floods/drought experience and the Nile — with paper-folding and paper-tearing practical experiments for folding, faulting and sea-floor spreading, and group discussion of local examples in nearly every topic.

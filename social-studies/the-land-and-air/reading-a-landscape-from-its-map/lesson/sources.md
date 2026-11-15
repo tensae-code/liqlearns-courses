@@ -1,6 +1,6 @@
 # Sources — Reading a landscape from its map
 
-countries: Ethiopia, Bangladesh, Malaysia, Slovenia, Uganda, Nepal, Nicaragua, Bhutan
+countries: Ethiopia, Bangladesh, Malaysia, Slovenia, Uganda, Nepal, Nicaragua, Bhutan, South Sudan
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -28,6 +28,8 @@ countries: Ethiopia, Bangladesh, Malaysia, Slovenia, Uganda, Nepal, Nicaragua, B
 
 **Book 13:** *ADVANCED GEOGRAPHY CLASS XI* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Thimphu; year Provisional Edition 2022, Copyright 2023, Reprint 2024; ISBN no ISBN printed. Title as printed: ADVANCED GEOGRAPHY CLASS XI. Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 182 (cover/title page verified against the record title; byte size 19,627,789 and page count match the books.json record exactly — read via the record's ministry source URL; this book is also the TSV release record grade-11-gov-bhutan-geography-full-year.pdf, same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
 
+**Book 14:** *Secondary Geography 2 Student's Book* (student book, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 2 Student's Book. Grade: Secondary 2 / Grade 10 (student/teacher: STUDENT). PDF pages: 217 (cover/title page verified against the record title). Image-only PDF: read via 100-DPI 4-up contact sheets; the full printed table of contents (printed pp. 1–208) was read and every unit spot-checked on the sheets, cross-checked against the teacher's guide text.. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Contours into relief | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 8, printed pp. 220–223 |
@@ -44,8 +46,9 @@ countries: Ethiopia, Bangladesh, Malaysia, Slovenia, Uganda, Nepal, Nicaragua, B
 | Nicaragua part — Paisaje del municipio donde vive | Nicaragua, *Nicaragua Grade 2 Conociendo mi Mundo G2*, Paisaje del municipio donde vive — printed p. 149 |
 | Bhutan part — Ch.4 4.3 Interpretation of Topographical Map | Bhutan, *Bhutan Grade 10 Geography*, Ch.4 4.3 Interpretation of Topographical Map — printed p. 24 |
 | Bhutan part — Ch.3 3.7 Interpretation of Topographical Map | Bhutan, *Bhutan Grade 11 Geography*, Ch.3 3.7 Interpretation of Topographical Map — printed p. 52 |
+| South Sudan part — Features of physical / topographical maps | South Sudan, *South Sudan Grade 10 S2 Geography SB*, Features of physical / topographical maps — printed p. 179 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Bangladesh, Malaysia, Slovenia, Uganda, Nepal, Nicaragua, Bhutan).**
+**Acceptance count: taught in 9 countries (Ethiopia, Bangladesh, Malaysia, Slovenia, Uganda, Nepal, Nicaragua, Bhutan, South Sudan).**
 
 Searchable tags: contour interpretation, landscape reading, relief, drainage, settlement, land use, social studies
 
@@ -70,3 +73,5 @@ Nicaragua's own way (Nicaragua Grade 2 Conociendo mi Mundo G2): Geography begins
 Bhutan's own way (Bhutan Grade 10 Geography): Class X pairs deep physical theory (Big Bang, plate tectonics, the making of the Himalayas) with an applied Bhutan block — climate and vegetation zones of Bhutan, Bhutanese agriculture's challenges and advancement, industries and their distribution, and a Bhutan disaster chapter that adds Education in Emergency.
 
 Bhutan's own way (Bhutan Grade 11 Geography): The Advanced level (XI–XII) is full academic geography — map projections, remote sensing and GIS, insolation and pressure belts, climate classification — with Bhutan applied chapters on agriculture, manufacturing and tourism, the last taught on Bhutan's own sustainability principle ("high value, low volume" in the Bhutan Tourism Monitor data the book uses).
+
+South Sudan's own way (South Sudan Grade 10 S2 Geography SB): Each general topic is immediately re-taught through South Sudan — its named rivers (Sobat, Adar, Yabus, Daga), the Sudd swamplands, its oil, fishing and transport problems, and case-study research tasks set by a mock ministry brief.

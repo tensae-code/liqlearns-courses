@@ -1,6 +1,6 @@
 # Sources — What a map is
 
-countries: Ethiopia, Saudi Arabia, Turkey, Uganda, Venezuela, Mozambique, Iraq
+countries: Ethiopia, Saudi Arabia, Turkey, Uganda, Venezuela, Mozambique, Iraq, South Sudan
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -20,6 +20,14 @@ countries: Ethiopia, Saudi Arabia, Turkey, Uganda, Venezuela, Mozambique, Iraq
 
 **Book 9:** *الاجتماعيات للصف الرابع الابتدائي (Social Studies for the Fourth Primary Grade)* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula (المديرية العامة للمناهج); year 1445 AH / 2023 CE, 13th edition (الطبعة الثالثة عشرة); ISBN no ISBN printed on the title pages. Title as printed: الاجتماعيات للصف الرابع الابتدائي (Social Studies for the Fourth Primary Grade). Grade: 4 (student/teacher: STUDENT). PDF pages: 64 (cover/title page verified against the record title; read via the books.json record's own Google Drive source file after the GitHub release and tree grabs failed with RemoteDisconnected three times — same book, cover and contents verified). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iraq-placements.md.
 
+**Book 10:** *Secondary Geography 1 Student's Book* (student book, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 1 Student's Book. Grade: Secondary 1 / Grade 9 (student/teacher: STUDENT). PDF pages: 146 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
+
+**Book 11:** *Secondary Geography 1 Teacher's Guide* (teacher guide, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 1 Teacher's Guide. Grade: Secondary 1 / Grade 9 (student/teacher: TEACHER). PDF pages: 98 (cover/title page verified against the record title). Verdict: COMPLETE. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
+
+**Book 12:** *Secondary Geography 2 Teacher's Guide* (teacher guide, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 2 Teacher's Guide. Grade: Secondary 2 / Grade 10 (student/teacher: TEACHER). PDF pages: 135 (cover/title page verified against the record title). Verdict: COMPLETE. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
+
+**Book 13:** *Primary Social Studies 1 Pupil's Book* (student book, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Primary Social Studies 1 Pupil's Book. Grade: Primary 1 / Grade 1 (student/teacher: STUDENT). PDF pages: 80 (cover/title page verified against the record title). Verdict: COMPLETE (combined Social Studies book — Geography parts placed; other-subject parts named here, not placed). Other subjects in this book (named, not placed): Unit 1 Now and Then — family members, family history and ancestors (History/family), printed pp. 1–24; Unit 4 Working Together — jobs and people who help us, helping at home and school (Civics/work), printed pp. 50–63; Unit 5 Problem Solving — protecting property, stories, keeping peace (Civics/life skills), printed pp. 64–74. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The definition | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 8, printed pp. 196–197 |
@@ -32,8 +40,12 @@ countries: Ethiopia, Saudi Arabia, Turkey, Uganda, Venezuela, Mozambique, Iraq
 | Venezuela part — El espacio que vivo, siento y dibujo: maps and plans of everyday space | Venezuela, *Venezuela Grade 7 G7 Geography Humanidad*, El espacio que vivo, siento y dibujo: maps and plans of everyday space — printed p. 12 |
 | Mozambique part — Lição 3: map types (thematic, city plan), advantages/disadvantages of maps | Mozambique, *Mozambique Grade 7 PESD I Mod 1*, Lição 3: map types (thematic, city plan), advantages/disadvantages of maps — printed p. 25 |
 | Iraq part — Ch. 1: The map (الخريطة) — what a map is and the uses of maps in daily life | Iraq, *Iraq Grade 4 Social Studies*, Ch. 1: The map (الخريطة) — what a map is and the uses of maps in daily life — printed p. 11 |
+| South Sudan part — Unit 7: what a map is | South Sudan, *South Sudan Grade 9 S1 Geography SB*, Unit 7: what a map is — printed p. 122 |
+| South Sudan part — Guide: Unit 7 Map Reading — drawing/labelling maps, types of maps, scales (teacher guide — evidence) | South Sudan, *South Sudan Grade 9 S1 Geography TG* (teacher guide), Guide: Unit 7 Map Reading — drawing/labelling maps, types of maps, scales — printed p. 85 |
+| South Sudan part — Guide: Unit 1 Physical Features of South Sudan — describing physical features four ways (teacher guide — evidence) | South Sudan, *South Sudan Grade 10 S2 Geography TG* (teacher guide), Guide: Unit 1 Physical Features of South Sudan — describing physical features four ways — printed p. 20 |
+| South Sudan part — Unit 3 Exploring Our World: what a map is; a map of the class [placement slug: population-transport-and-maps/what-a-map-is] | South Sudan, *South Sudan Grade 1 P1 Social Studies SB*, Unit 3 Exploring Our World: what a map is; a map of the class — printed p. 38 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Saudi Arabia, Turkey, Uganda, Venezuela, Mozambique, Iraq).**
+**Acceptance count: taught in 8 countries (Ethiopia, Saudi Arabia, Turkey, Uganda, Venezuela, Mozambique, Iraq, South Sudan).**
 
 Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
@@ -48,3 +60,11 @@ Venezuela's own way (Venezuela Grade 7 G7 Geography Humanidad): a Geohistoria (R
 Mozambique's own way (Mozambique Grade 7 PESD I Mod 1): distance-learning self-study module — every lesson follows the same rhythm (introduction, development with worked examples, exercises, answer key, lesson summary); the four Earth spheres are the organising spine of the whole module, each sphere closed by a "use, protection and conservation" lesson; local anchors throughout (Maputo temperature worked example, Zambezi delta, Moma/Namialo weather contrast).
 
 Iraq's own way (Iraq Grade 4 Social Studies): geography enters inside "Social Studies" through the child's own surroundings — phenomena are sorted from photographs first, then the local environment, then the map of Iraq's governorates, and only then the wider geographical environments (city, countryside); history and homeland/civics chapters follow in the same book.
+
+South Sudan's own way (South Sudan Grade 9 S1 Geography SB): Geography is built around South Sudan itself — its own physical features, resources, floods/drought experience and the Nile — with paper-folding and paper-tearing practical experiments for folding, faulting and sea-floor spreading, and group discussion of local examples in nearly every topic.
+
+South Sudan's own way (South Sudan Grade 9 S1 Geography TG) (teacher guide — evidence): The guide mirrors the student's book unit by unit (its printed contents list the same 8 units) and adds content maps, key inquiry questions, expected answers and practical activities — including the sea-floor-spreading paper practical — for every topic. That evidence is stocked here as the way South Sudan teaches this thing; it is cited as evidence only — South Sudan is counted in this lesson through its student book(s).
+
+South Sudan's own way (South Sudan Grade 10 S2 Geography TG) (teacher guide — evidence): Mirrors the student's book's 8 units with content maps, expected answers and group-presentation case studies (agriculture solutions, fishing solutions, fold-mountain impacts), plus a field-observation exercise on the environment near the school. That evidence is stocked here as the way South Sudan teaches this thing; it is cited as evidence only — South Sudan is counted in this lesson through its student book(s).
+
+South Sudan's own way (South Sudan Grade 1 P1 Social Studies SB): Geography begins at age six with the child's own neighbourhood and a hand-drawn map of their own classroom — symbols, key, title, frame and compass — before any wider world appears.

@@ -1,6 +1,6 @@
 # Sources — Drought — when the rain fails
 
-countries: Ethiopia, Angola, Zimbabwe, Eritrea, Slovenia, Venezuela, Mauritania, Nicaragua
+countries: Ethiopia, Angola, Zimbabwe, Eritrea, Slovenia, Venezuela, Mauritania, Nicaragua, South Sudan
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -20,6 +20,10 @@ countries: Ethiopia, Angola, Zimbabwe, Eritrea, Slovenia, Venezuela, Mauritania,
 
 **Book 9:** *Ciencias Sociales — Geografía, Módulo Autoformativo, Décimo Grado (Educación Secundaria a Distancia en el Campo)* (student book, Spanish) — Ministerio de Educación (MINED), Nicaragua; year 2017 (Primera Edición); ISBN no ISBN printed. Title as printed: Ciencias Sociales — Geografía, Módulo Autoformativo, Décimo Grado (Educación Secundaria a Distancia en el Campo). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 188 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nicaragua-placements.md.
 
+**Book 10:** *Secondary Geography 1 Student's Book* (student book, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 1 Student's Book. Grade: Secondary 1 / Grade 9 (student/teacher: STUDENT). PDF pages: 146 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
+
+**Book 11:** *Secondary Geography 1 Teacher's Guide* (teacher guide, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 1 Teacher's Guide. Grade: Secondary 1 / Grade 9 (student/teacher: TEACHER). PDF pages: 98 (cover/title page verified against the record title). Verdict: COMPLETE. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Drought is temporary; aridity is permanent | G12 student #76, printed pp. 202–205 |
@@ -32,8 +36,10 @@ countries: Ethiopia, Angola, Zimbabwe, Eritrea, Slovenia, Venezuela, Mauritania,
 | Venezuela part — Defender la selva tropical: consequences of a prolonged drought; Venezuela prepares for climate change | Venezuela, *Venezuela Grade 9 G9 Geography Venezuela*, Defender la selva tropical: consequences of a prolonged drought; Venezuela prepares for climate change — printed p. 171 |
 | Mauritania part — Unit 3 Lesson 7: the Permanent Interstate Committee for Drought Control in the Sahel (CILSS) | Mauritania, *Mauritania Grade 6 geo-6af-m*, Unit 3 Lesson 7: the Permanent Interstate Committee for Drought Control in the Sahel (CILSS) — printed p. 27 |
 | Nicaragua part — Áreas expuestas a desastres; vulnerabilidad social/económica/política/cultural; prevención y SINAPRED (Unidad VI) | Nicaragua, *Nicaragua Grade 10 CCSS Geografía 10*, Áreas expuestas a desastres; vulnerabilidad social/económica/política/cultural; prevención y SINAPRED (Unidad VI) — printed p. 158 |
+| South Sudan part — Drought: meaning, South Sudan areas affected, precautions and mitigation | South Sudan, *South Sudan Grade 9 S1 Geography SB*, Drought: meaning, South Sudan areas affected, precautions and mitigation — printed p. 62 |
+| South Sudan part — Guide: floods and drought — progress check distinguishing drought from dry climate (teacher guide — evidence) | South Sudan, *South Sudan Grade 9 S1 Geography TG* (teacher guide), Guide: floods and drought — progress check distinguishing drought from dry climate — printed p. 46 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Angola, Eritrea, Slovenia, Venezuela, Mauritania, Nicaragua). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 8 countries (Ethiopia, Angola, Eritrea, Slovenia, Venezuela, Mauritania, Nicaragua, South Sudan). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
 
 No book error in the placements for this lesson is taught here. Figures and dates are taught exactly as the placements report them, as the book's own record.
 
@@ -54,3 +60,7 @@ Venezuela's own way (Venezuela Grade 9 G9 Geography Venezuela): a full national 
 Mauritania's own way (Mauritania Grade 6 geo-6af-m): The final primary book turns outward: five of its six units place Mauritania inside its organisations — the Arab Maghreb Union, the Senegal River organisation (OMVS), the Arab League, the African Union, the Sahel drought committee (CILSS), the Organisation of Islamic Cooperation — and inside the industrial world (Europe, North America, the industrial East), before a closing world unit on continents, oceans, seas, rivers and straits.
 
 Nicaragua's own way (Nicaragua Grade 10 CCSS Geografía 10): A distance-learning self-study module ("Geografía Dinámica") built entirely around Nicaragua itself — every physical topic (relief, climate, watersheds, coasts) is taught through Nicaraguan regions, and risk/vulnerability (hurricanes, Casita landslide, SINAPRED) closes the book. Non-Geography parts: Unit IV population-policy content (Hambre Cero, Usura Cero, housing projects) is Civics/social policy — named here, not placed beyond its population-geography topics.
+
+South Sudan's own way (South Sudan Grade 9 S1 Geography SB): Geography is built around South Sudan itself — its own physical features, resources, floods/drought experience and the Nile — with paper-folding and paper-tearing practical experiments for folding, faulting and sea-floor spreading, and group discussion of local examples in nearly every topic.
+
+South Sudan's own way (South Sudan Grade 9 S1 Geography TG) (teacher guide — evidence): The guide mirrors the student's book unit by unit (its printed contents list the same 8 units) and adds content maps, key inquiry questions, expected answers and practical activities — including the sea-floor-spreading paper practical — for every topic. That evidence is stocked here as the way South Sudan teaches this thing; it is cited as evidence only — South Sudan is counted in this lesson through its student book(s).

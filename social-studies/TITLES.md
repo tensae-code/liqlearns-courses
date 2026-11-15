@@ -103,7 +103,7 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **3180**
+Geography lessons across the eight Geography titles: **3311**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -2237,3 +2237,90 @@ And Sustainable Development.
 (All 47 new lessons are taught in 1 country (Cuba),
 each standing on student book(s)/workbook(s); 24 also
 cite a teacher guide as evidence only.)
+
++131 for South Sudan, 2026-11-15 — First Steps: Changes
+in the Place Where We Live and Man Made Features Around
+Us; The Land and Air: Basins of South Sudan, Boreal
+Forests, Climatic Regions of South Sudan, Erosional
+Coastal Landforms, Fold Mountains Effects on People,
+Formation of Volcanic Mountains, How Climate Affects
+Human Activities, How Lakes Are Formed, How Physical
+Features Are Formed, How Rivers Form, How Seas and
+Oceans Affect Global Climate, Igneous Rocks, Importance
+of the River Nile, Lakes of South Sudan, Major Climatic
+Zones of Africa, Measuring and Recording Weather,
+Metamorphic Rocks, Mountains of South Sudan, Natural
+Ecosystems Introduction, Photography in Geography,
+Physical Features and Plains of South Sudan, Physical
+Geography of East Africa, Plateaus of South Sudan,
+Problems Caused by Bad Weather, Rainforests of South
+Sudan, Reading and Interpreting Photographs, Residual
+Mountains, Rivers of South Sudan, Savannas and the Sudd
+of South Sudan, Seasons of South Sudan, Sedimentary
+Rocks, Significance of Plate Movements, South Sudan an
+Introduction, Southeast Asia Mainland and Maritime,
+Temperate Rainforests, The Central African Region, The
+North African Region, The River Nile Course From Source
+to Mouth, The Rock Cycle, The Southern African Region,
+The Tundra Ecosystem, The West African Region,
+Volcanicity Effects on Human Activities and What Rocks
+Are; Population, Transport and Maps: Coastal Towns of
+East Africa, Communication and Economic Life,
+Development in Coastal Towns, Population Distribution
+by Ethnicity in South Sudan, Population Distribution by
+Religion in South Sudan, Population Meaning and
+Classification, Population Trends of South Sudan,
+Reducing Unwanted Migration, Statistical and
+Distribution Maps, The Worlds Megacities, Transport and
+Communication in South Sudan and Transport and Economic
+Development; People and Resources: Challenges of the
+Fishing Industry, Comparing Tourism in South Sudan and
+South Africa, Developing Tourism in South Sudan,
+Diamond Mining, Economic Features Around Us, Economy of
+the East African Region, Education and Economic
+Development in Asia, Emerging Economies, Fishing
+Grounds of South Sudan, Forest Products Bamboo
+Windbreaks and Oils, Forestry in South Sudan, Global
+Energy Consumption, How Farming Changes the Land,
+Importance of Farming to the Economy, Importance of
+International Trade to Africa, Iron Mining, Labour
+Supply in Southeast Asia, Mineral Resources of South
+Sudan, Oil in South Sudan, Power and Electricity in
+South Sudan, Tourism and Foreign Exchange the Nepal
+Case, Uses of Diamonds, Uses of Gold, Uses of Physical
+Features, Water and Vegetation Resources of South
+Sudan, Why Southeast Asia Matters and World Tourism
+Destinations; Culture and Work: Challenges Facing
+Farming in South Sudan, Climate and Farming Systems in
+Africa, Command Economies, Factors That Influence
+Trade, Fish Farming in South Sudan, Historic Trade
+Routes Spice and Incense, How International Trade
+Evolved, Industrialization in Europe, Industrialization
+in South Sudan, Industrialization Spreads and Modern
+Industry, Iron Processing, Labour and Taxation in South
+Sudan, Land Tenure Systems, Market Economies, Methods
+of Mining, Mixed Economies, Rubber and Consumer
+Industries of Southeast Asia, Salt Routes of Europe,
+Shifting Cultivation and Bush Fallowing, The Amber
+Route, The Currency of South Sudan, The Rural Economy
+in Africa, The World Trade Organization, Traditional
+Economies, Trans Saharan Trade Routes and Women in
+African Farming; Resources and Conflict: Challenges of
+Resource Utilisation in South Sudan, Coastal
+Management, Mining and the Environment and Sustainable
+Use of Seas and Oceans; Global Issues: Bridging the
+Development Gap, Cyclones Formation Effects and
+Mitigation, Disaster Preparedness and Response Plans,
+Earthquake Safety and Mitigation, Ecosystem Management
+and Conservation, Factors Driving Globalization, Floods
+Causes Impacts and Control, Forest Conservation Case
+Studies British Columbia and Gabon, Global Challenges
+and the World At Risk, Industrial and Man Made
+Disasters, Industrialisation and the Environment,
+Natural Hazards and Man Made Disasters, Overdependence
+on Foreign Aid, Sustainable Forest Management, Types of
+Hazards and Why the Development Gap Is Growing.
+(124 of the 131 new lessons are taught in 1 country
+(South Sudan), each standing on student book(s); 7
+stand on a teacher guide only, as evidence only,
+acceptance count 0 countries.)

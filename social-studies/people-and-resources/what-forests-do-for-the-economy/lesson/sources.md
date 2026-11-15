@@ -1,6 +1,6 @@
 # Sources — What forests do for the economy
 
-countries: Ethiopia, Angola, Venezuela, Pakistan, Bhutan, Armenia, Cuba
+countries: Ethiopia, Angola, Venezuela, Pakistan, Bhutan, Armenia, Cuba, South Sudan
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -24,6 +24,8 @@ countries: Ethiopia, Angola, Venezuela, Pakistan, Bhutan, Armenia, Cuba
 
 **Book 11:** *Geografía 2 — Octavo grado (the repo copy is the 2002 edition of the Grade 8 book; the 2024 programme and methodological orientations above belong to the newer edition of the same subject)* (student book, Spanish) — Editorial Pueblo y Educación / Ministerio de Educación, Cuba; year 2002; ISBN 959-13-0925-2. Title as printed: Geografía 2 — Octavo grado (the repo copy is the 2002 edition of the Grade 8 book; the 2024 programme and methodological orientations above belong to the newer edition of the same subject). Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 148 (cover/title page verified against the record title; grabbed via grab.py tree route, 4,803,285 bytes; full text read via pdftotext -layout; structure and printed pages taken from the book's own Índice). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
 
+**Book 12:** *Secondary Geography 3 Student's Book* (student book, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 3 Student's Book. Grade: Secondary 3 / Grade 11 (student/teacher: STUDENT). PDF pages: 137 (cover/title page verified against the record title). Verdict: COMPLETE — read from the publisher source file (cgatechnologies.org.uk, the record's own source_url) because the repo route 404s: this book is NOT in GitHub (books.json in_pushed: false). Downloaded file is 22,614,974 bytes, exactly the recorded size_bytes. Staged under the 2026-11-13 rule at phase3-staging/grade-11/gov/south-sudan/geography/student/full-year.pdf (books.json record already present there). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Products | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 5, printed pp. 126–128 |
@@ -39,8 +41,9 @@ countries: Ethiopia, Angola, Venezuela, Pakistan, Bhutan, Armenia, Cuba
 | Armenia part — 7.7 Biological resources | Armenia, *Armenia Grade 10 Geography student*, 7.7 Biological resources — printed p. 182 |
 | Cuba part — Unidad 4 Recursos forestales: distribución y uso (teacher guide — evidence) | Cuba, *Cuba Grade 8 OM Geografía Económica y Social G8* (teacher guide), Unidad 4 Recursos forestales: distribución y uso — printed p. 55 |
 | Cuba part — Capítulo 2 Recursos forestales | Cuba, *Cuba Grade 8 Geografía 2 G8*, Capítulo 2 Recursos forestales — printed p. 30 |
+| South Sudan part — Economic and social benefits of forests | South Sudan, *South Sudan Grade 11 S3 Geography SB*, Economic and social benefits of forests — printed p. 106 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Angola, Venezuela, Pakistan, Bhutan, Armenia, Cuba).**
+**Acceptance count: taught in 8 countries (Ethiopia, Angola, Venezuela, Pakistan, Bhutan, Armenia, Cuba, South Sudan).**
 
 Searchable tags: forestry, fuelwood, timber, watershed protection, forest economy, social studies
 
@@ -61,3 +64,5 @@ Armenia's own way (Armenia Grade 10 Geography student): grade-10 Geography is a 
 Cuba's own way (Cuba Grade 8 OM Geografía Económica y Social G8) (teacher guide — evidence): The guide's distinctive Cuban layer is territorial identity — learners characterise their own municipality's resources and the environmental problems of its economic sectors, and the world material (political map, population, resources, production) is always closed by comparison with Cuba. That evidence is stocked here as the way Cuba teaches this thing; it is cited as evidence only — Cuba is counted in this lesson through its student book(s).
 
 Cuba's own way (Cuba Grade 8 Geografía 2 G8): This older edition teaches world economic geography as a story — first the political map's dynamics through history (colonial empires, independences, 1914, post-1945, the 1960s, the 1990s), then resources, then production, and it closes with full regional studies; Latin America is studied first and in most depth, and every world topic is measured against Cuba's own sugar, tobacco, nickel and trade.
+
+South Sudan's own way (South Sudan Grade 11 S3 Geography SB): A world-geography book (trade routes, megacities, Southeast Asia) anchored back to South Sudan throughout — humanitarian airlift airfields, Thuraya satellite phones, a tourism plan for South Sudan, Juba as the urbanisation example.

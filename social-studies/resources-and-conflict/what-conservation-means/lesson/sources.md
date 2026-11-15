@@ -1,6 +1,6 @@
 # Sources — Conservation — What Conservation Means
 
-countries: Ethiopia, Zambia, Guatemala, Bolivia, Angola, Indonesia, Zimbabwe, Malaysia, Eritrea, Rwanda, Fiji, Slovenia, Papua New Guinea, Uganda, Venezuela, Honduras, Jordan, Nicaragua, Bhutan
+countries: Ethiopia, Zambia, Guatemala, Bolivia, Angola, Indonesia, Zimbabwe, Malaysia, Eritrea, Rwanda, Fiji, Slovenia, Papua New Guinea, Uganda, Venezuela, Honduras, Jordan, Nicaragua, Bhutan, South Sudan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (placement 66).
 
@@ -78,6 +78,8 @@ countries: Ethiopia, Zambia, Guatemala, Bolivia, Angola, Indonesia, Zimbabwe, Ma
 
 **Book 38:** *An Introduction to GEOGRAPHY Class VIII* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Royal Government of Bhutan, Thimphu; year Provisional Edition 2019, Copyright 2023, Reprint 2024; ISBN no ISBN printed. Title as printed: An Introduction to GEOGRAPHY Class VIII. Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 120 (cover/title page verified against the record title; byte size 9,992,518 and page count match the books.json record exactly — read via the record's ministry source URL). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
 
+**Book 39:** *Secondary Geography 3 Student's Book* (student book, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 3 Student's Book. Grade: Secondary 3 / Grade 11 (student/teacher: STUDENT). PDF pages: 137 (cover/title page verified against the record title). Verdict: COMPLETE — read from the publisher source file (cgatechnologies.org.uk, the record's own source_url) because the repo route 404s: this book is NOT in GitHub (books.json in_pushed: false). Downloaded file is 22,614,974 bytes, exactly the recorded size_bytes. Staged under the 2026-11-13 rule at phase3-staging/grade-11/gov/south-sudan/geography/student/full-year.pdf (books.json record already present there). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Whole lesson opening — pupils name a local act of keeping for later | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 3, printed pp. 86–87 |
@@ -119,8 +121,9 @@ countries: Ethiopia, Zambia, Guatemala, Bolivia, Angola, Indonesia, Zimbabwe, Ma
 | Bhutan part — 10.4 Conservation of the Environment | Bhutan, *Bhutan Grade 5 Social Studies*, 10.4 Conservation of the Environment — printed p. 57 |
 | Bhutan part — Ch.12 12.6 Measures to reduce environmental problems | Bhutan, *Bhutan Grade 7 Geography*, Ch.12 12.6 Measures to reduce environmental problems — printed p. 63 |
 | Bhutan part — Ch.12 12.5 Conservation of Environment | Bhutan, *Bhutan Grade 8 Geography*, Ch.12 12.5 Conservation of Environment — printed p. 85 |
+| South Sudan part — Conservation in practice: recycling wastes and saving energy | South Sudan, *South Sudan Grade 11 S3 Geography SB*, Conservation in practice: recycling wastes and saving energy — printed p. 49 |
 
-**Acceptance count: taught in 16 countries (Ethiopia, Guatemala, Bolivia, Angola, Indonesia, Malaysia, Eritrea, Rwanda, Fiji, Slovenia, Uganda, Venezuela, Honduras, Jordan, Nicaragua, Bhutan). Zambia is named here as teacher-guide evidence only, counted nowhere. Zimbabwe is named here as teacher-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 17 countries (Ethiopia, Guatemala, Bolivia, Angola, Indonesia, Malaysia, Eritrea, Rwanda, Fiji, Slovenia, Uganda, Venezuela, Honduras, Jordan, Nicaragua, Bhutan, South Sudan). Zambia is named here as teacher-guide evidence only, counted nowhere. Zimbabwe is named here as teacher-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -195,3 +198,5 @@ Bhutan's own way (Bhutan Grade 5 Social Studies): Grade 5 spirals from the Earth
 Bhutan's own way (Bhutan Grade 7 Geography): From Class VII Geography becomes a standalone subject organised in three strands (Time and Space; Physical Environment; People and Environment), every world topic closed with its Bhutan case — climate of Bhutan, vegetation types of Bhutan, minerals of Bhutan, and Bhutan's Himalayan disaster set (earthquake, flood, windstorm, fire, GLOF).
 
 Bhutan's own way (Bhutan Grade 8 Geography): Class VIII deepens the same three strands with real map-work (scale conversion, grid references, contours and profiles) and Bhutan-specific hazard and resource content, including the Rubesa wind turbine and hydroelectric dams as national resource examples.
+
+South Sudan's own way (South Sudan Grade 11 S3 Geography SB): A world-geography book (trade routes, megacities, Southeast Asia) anchored back to South Sudan throughout — humanitarian airlift airfields, Thuraya satellite phones, a tourism plan for South Sudan, Juba as the urbanisation example.

@@ -1,6 +1,6 @@
 # Sources — Human causes of climate change
 
-countries: Ethiopia, Jamaica, Malaysia, United Kingdom, Vietnam, Pakistan
+countries: Ethiopia, Jamaica, Malaysia, United Kingdom, Vietnam, Pakistan, South Sudan
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Jamaica, Malaysia, United Kingdom, Vietnam, Pakistan
 
 **Book 7:** *GEOGRAPHY 7 — Based on Single National Curriculum 2022 (ONE NATION, ONE CURRICULUM)* (student book, English) — Punjab Curriculum and Textbook Board (PCTB), Lahore; SNC 2022, Experimental Edition; author Muhammad Ramzan Khan; ISBN no ISBN printed. Title as printed: GEOGRAPHY 7 — Based on Single National Curriculum 2022 (ONE NATION, ONE CURRICULUM). Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 93 (read in place from phase3-staging; image-only scan, read page by page from contact sheets; cover and contents verified against the record). Verdict: COMPLETE. Read in place from phase3-staging; image-only scan, read page by page from contact sheets; cover and contents verified against the record. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/pakistan-placements.md.
 
+**Book 8:** *Secondary Geography 3 Student's Book* (student book, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 3 Student's Book. Grade: Secondary 3 / Grade 11 (student/teacher: STUDENT). PDF pages: 137 (cover/title page verified against the record title). Verdict: COMPLETE — read from the publisher source file (cgatechnologies.org.uk, the record's own source_url) because the repo route 404s: this book is NOT in GitHub (books.json in_pushed: false). Downloaded file is 22,614,974 bytes, exactly the recorded size_bytes. Staged under the 2026-11-13 rule at phase3-staging/grade-11/gov/south-sudan/geography/student/full-year.pdf (books.json record already present there). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Gases and particles from human hands | G12 student #29, printed pp. 43–45 |
@@ -26,8 +28,9 @@ countries: Ethiopia, Jamaica, Malaysia, United Kingdom, Vietnam, Pakistan
 | United Kingdom part — §4.3 What are the human causes of climate change? | United Kingdom, *United Kingdom Grade 10 AQA Geography Student Book*, §4.3 What are the human causes of climate change? — printed p. 44 |
 | Vietnam part — Topic 10.1 (part): Human causes — the six Kyoto greenhouse gases (CO2 74.4% of emissions), where emissions come from (energy 50.4%, industry, farming, transport, buildings, waste) and who emits most (China, the USA, India, the EU...) | Vietnam, *Vietnam Grade 10 Chuyên đề 10*, Topic 10.1 (part): Human causes — the six Kyoto greenhouse gases (CO2 74.4% of emissions), where emissions come from (energy 50.4%, industry, farming, transport, buildings, waste) and who emits most (China, the USA, India, the EU...) — printed pp. 7–9 |
 | Pakistan part — Main causes of climate change: fossil-fuel burning since the Industrial Revolution (emissions by gas chart); reading past climate from ice cores, tree rings and sediments | Pakistan, *Pakistan Grade 7 Geography 7*, Main causes of climate change: fossil-fuel burning since the Industrial Revolution (emissions by gas chart); reading past climate from ice cores, tree rings and sediments — printed pp. 64–65 |
+| South Sudan part — Human activity, climate change and increasing natural disasters | South Sudan, *South Sudan Grade 11 S3 Geography SB*, Human activity, climate change and increasing natural disasters — printed p. 63 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Malaysia, United Kingdom, Vietnam, Pakistan). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 6 countries (Ethiopia, Malaysia, United Kingdom, Vietnam, Pakistan, South Sudan). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grade 6 Exploratory Core, curriculum guide — evidence): the Grade 6 Social Studies year is built as three paired terms — culture and independence first, then the physical world (mountains, landmasses and water bodies), then climate, Earth movements and the atmosphere, closing on Caribbean cooperation. That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
@@ -44,3 +47,5 @@ United Kingdom's own way: A single exam-board (AQA) GCSE textbook organised as t
 Vietnam's own way (Vietnam Grade 10 Chuyên đề 10): the elective companion goes deep on just three things — climate change, urbanisation, and how to write a geography report — and keeps pulling the world material back to Vietnam (a metre of sea-level rise would flood 10–12% of Vietnam's area; Hanoi and Ho Chi Minh City as the home examples of developing-world urbanisation).
 
 Pakistan's own way (Pakistan Grade 7 Geography 7): a dedicated English-medium Geography book built entirely on Pakistan's own physical and economic geography — the Indus plain and delta, the canal system, Rabi/Kharif crops, Sui gas, Thar coal, Khewra salt and Tarbela power — with world concepts (river courses, settlement hierarchy, greenhouse effect, mining types) taught through Pakistani examples first.
+
+South Sudan's own way (South Sudan Grade 11 S3 Geography SB): A world-geography book (trade routes, megacities, Southeast Asia) anchored back to South Sudan throughout — humanitarian airlift airfields, Thuraya satellite phones, a tourism plan for South Sudan, Juba as the urbanisation example.

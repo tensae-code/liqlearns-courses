@@ -1,6 +1,6 @@
 # Sources — Volcano shapes — shield, strato, cinder cone
 
-countries: Ethiopia, Costa Rica, United Kingdom, Kuwait, Pakistan, Jordan
+countries: Ethiopia, Costa Rica, United Kingdom, Kuwait, Pakistan, Jordan, South Sudan
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -14,6 +14,10 @@ countries: Ethiopia, Costa Rica, United Kingdom, Kuwait, Pakistan, Jordan
 
 **Book 6:** *علوم الأرض والبيئة — الصف الحادي عشر — المسار الأكاديمي — كتاب الأنشطة والتجارب العملية — الفصل الدراسي الثاني (Earth Science and Environment, Grade 11 Academic Track, Activities Book, Term 2)* (activities and practical experiments book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-636-5. Title as printed: علوم الأرض والبيئة — الصف الحادي عشر — المسار الأكاديمي — كتاب الأنشطة والتجارب العملية — الفصل الدراسي الثاني (Earth Science and Environment, Grade 11 Academic Track, Activities Book, Term 2). Grade: 11 (student/teacher: STUDENT). PDF pages: 30 (cover verified; byte size 2,166,688 matches the books.json record exactly — same book; this is also link record minhaji.net/download/6500, a duplicate source for a book already in GitHub, so no staging arose). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
 
+**Book 7:** *Secondary Geography 1 Student's Book* (student book, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 1 Student's Book. Grade: Secondary 1 / Grade 9 (student/teacher: STUDENT). PDF pages: 146 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
+
+**Book 8:** *Secondary Geography 2 Student's Book* (student book, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 2 Student's Book. Grade: Secondary 2 / Grade 10 (student/teacher: STUDENT). PDF pages: 217 (cover/title page verified against the record title). Image-only PDF: read via 100-DPI 4-up contact sheets; the full printed table of contents (printed pp. 1–208) was read and every unit spot-checked on the sheets, cross-checked against the teacher's guide text.. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Shield and strato | G12 student #17, printed pp. 21–22 |
@@ -24,8 +28,10 @@ countries: Ethiopia, Costa Rica, United Kingdom, Kuwait, Pakistan, Jordan
 | Kuwait part — Part Three, Chapter 1: about 500 volcanoes are active in the world today, with several thousand dormant, and their map matches the four earthquake belts, the crust's weak zones; volcanoes shape the land — cone mountains like Mount Kenya, broad plateaus like Ethiopia's, and islands raised from the sea floor, Hawaii and Iceland's Surtsey among them — and they serve human activity: their soils are fertile, so people farm their slopes (Vesuvius in Italy), their melts carry important minerals, their hot springs and wells give heating, healing baths and cheap clean energy, and active volcanoes draw tourists, as in Hawaii and Iceland | Kuwait, *Kuwait Grade 11 Geography Principles G11 T1*, Part Three, Chapter 1: about 500 volcanoes are active in the world today, with several thousand dormant, and their map matches the four earthquake belts, the crust's weak zones; volcanoes shape the land — cone mountains like Mount Kenya, broad plateaus like Ethiopia's, and islands raised from the sea floor, Hawaii and Iceland's Surtsey among them — and they serve human activity: their soils are fertile, so people farm their slopes (Vesuvius in Italy), their melts carry important minerals, their hot springs and wells give heating, healing baths and cheap clean energy, and active volcanoes draw tourists, as in Hawaii and Iceland — printed pp. 84–85 |
 | Pakistan part — Types of mountains III: volcanic mountains — cinder cone, composite and shield volcanoes (Vesuvius, Fujiyama) [placement slug: the-land-and-air/volcanic-mountains] | Pakistan, *Pakistan Grade 6 Geography 6*, Types of mountains III: volcanic mountains — cinder cone, composite and shield volcanoes (Vesuvius, Fujiyama) — printed pp. 23–24 |
 | Jordan part — Unit 4: Volcano Shapes experiment and the Hotspot enrichment | Jordan, *Jordan G11 ES T2 Workbook*, Unit 4: Volcano Shapes experiment and the Hotspot enrichment — printed p. 21 |
+| South Sudan part — Volcano types: acid dome, shield, ash/cinder and composite cones | South Sudan, *South Sudan Grade 9 S1 Geography SB*, Volcano types: acid dome, shield, ash/cinder and composite cones — printed p. 45 |
+| South Sudan part — Types of volcanoes: fissure, shield, dome, ash-cinder, composite, caldera | South Sudan, *South Sudan Grade 10 S2 Geography SB*, Types of volcanoes: fissure, shield, dome, ash-cinder, composite, caldera — printed p. 9 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Costa Rica, United Kingdom, Kuwait, Pakistan, Jordan).**
+**Acceptance count: taught in 7 countries (Ethiopia, Costa Rica, United Kingdom, Kuwait, Pakistan, Jordan, South Sudan).**
 
 No book error in the placements for this lesson is taught here. Figures are taught exactly as the placements report them.
 
@@ -40,3 +46,7 @@ Kuwait's own way (Kuwait Grade 11 Geography Principles G11 T1): Geography is tau
 Pakistan's own way (Pakistan Grade 6 Geography 6): world physical Geography taught through Pakistan's own land — its fault lines and 1935/2005 earthquakes, Khewra salt and Thar coal among the rocks, K2 and the Karakoram among the mountains, Pakistan's four climatic regions, its six forest types from mangrove to alpine, and the Indus flood as the country's defining disaster.
 
 Jordan's own way (Jordan G11 ES T2 Workbook): the activities book turns the student book into bench work — modelling oil migration, and reading Jordan's own oil-shale reserves.
+
+South Sudan's own way (South Sudan Grade 9 S1 Geography SB): Geography is built around South Sudan itself — its own physical features, resources, floods/drought experience and the Nile — with paper-folding and paper-tearing practical experiments for folding, faulting and sea-floor spreading, and group discussion of local examples in nearly every topic.
+
+South Sudan's own way (South Sudan Grade 10 S2 Geography SB): Each general topic is immediately re-taught through South Sudan — its named rivers (Sobat, Adar, Yabus, Daga), the Sudd swamplands, its oil, fishing and transport problems, and case-study research tasks set by a mock ministry brief.

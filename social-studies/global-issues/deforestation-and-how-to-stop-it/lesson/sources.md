@@ -1,16 +1,26 @@
 # Sources — Deforestation And How To Stop It
 
-countries: Pakistan
+countries: Pakistan, South Sudan
 
 **Book 1:** *GEOGRAPHY 6 — Based on Single National Curriculum 2022 (ONE NATION, ONE CURRICULUM)* (student book, English) — Punjab Curriculum and Textbook Board (PCTB), Lahore; SNC 2022, Experimental Edition, 1st edition March 2022; author Mr. Salman Munir; prepared by Javed Publishers, Lahore; ISBN no ISBN printed. Title as printed: GEOGRAPHY 6 — Based on Single National Curriculum 2022 (ONE NATION, ONE CURRICULUM). Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 89 (21,533,299 bytes — exactly the record size; the GitHub release/tree copies could not be found, so the book was re-downloaded from the record's own source, the freebooks.pk Google Drive file, and verified byte-for-byte against the record; image-only scan, read page by page from contact sheets). Verdict: COMPLETE. The GitHub release/tree copies could not be found, so the book was re-downloaded from the record's own source, the freebooks.pk Google Drive file, and verified byte-for-byte against the record (21,533,299 bytes — exactly the record size); image-only scan, read page by page from contact sheets. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/pakistan-placements.md.
+
+**Book 2:** *Primary Social Studies 5 Pupil's Book* (student book, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Primary Social Studies 5 Pupil's Book. Grade: Primary 5 / Grade 5 (student/teacher: STUDENT). PDF pages: 79 (cover/title page verified against the record title). Verdict: COMPLETE (combined Social Studies book — Geography parts placed; other-subject parts named here, not placed). Other subjects in this book (named, not placed): Unit 1 Past Kingdoms — pre-colonial kingdoms of Africa and South Sudan, sources of evidence, the Shilluk kingdom (History), printed pp. 1–20; Unit 3 Leaders and Decision Makers — good citizens and leaders, decision making, debate, HIV and AIDS (Civics/health), printed pp. 43–60. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
+
+**Book 3:** *Primary Social Studies 5 Teacher's Guide* (teacher guide, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Primary Social Studies 5 Teacher's Guide. Grade: Primary 5 / Grade 5 (student/teacher: TEACHER). PDF pages: 80 (cover/title page verified against the record title). Verdict: COMPLETE (combined Social Studies guide — Geography parts placed; Units 1 and 3 are History and Civics/health, named in Book 17's header, not placed). Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Deforestation: forests should cover 25% of a country but Pakistan has only 5%; remedies — strong legislation, reducing wood-product use, alternate energy, controlled urbanization, awareness campaigns | Pakistan, *Pakistan Grade 6 Geography 6*, Deforestation: forests should cover 25% of a country but Pakistan has only 5%; remedies — strong legislation, reducing wood-product use, alternate energy, controlled urbanization, awareness campaigns — printed p. 55 |
 | Sub lesson 2 — Pakistan's way — the book's own teaching way | Pakistan — the book's own way of teaching (see below) |
+| South Sudan part — How farming has affected the physical features of the area; deforestation [placement slug: global-issues/deforestation-cutting-the-rainforest] | South Sudan, *South Sudan Grade 5 P5 Social Studies SB*, How farming has affected the physical features of the area; deforestation — printed p. 40 |
+| South Sudan part — Guide: Activity 7 — effects of human activities on climate: deforestation (teacher guide — evidence) [placement slug: global-issues/deforestation-cutting-the-rainforest] | South Sudan, *South Sudan Grade 5 P5 Social Studies TG* (teacher guide), Guide: Activity 7 — effects of human activities on climate: deforestation — printed p. 38 |
 
-**Acceptance count: taught in 1 country (Pakistan).**
+**Acceptance count: taught in 2 countries (Pakistan, South Sudan).**
 
 Pakistan's own way (Pakistan Grade 6 Geography 6): world physical Geography taught through Pakistan's own land — its fault lines and 1935/2005 earthquakes, Khewra salt and Thar coal among the rocks, K2 and the Karakoram among the mountains, Pakistan's four climatic regions, its six forest types from mangrove to alpine, and the Indus flood as the country's defining disaster.
 
 Searchable tags: deforestation and how to stop it, Pakistan, social studies, global-issues
+
+South Sudan's own way (South Sudan Grade 5 P5 Social Studies SB): Landforms are made, not just named — learners push a sheet of paper from both ends to make a fold mountain, and the home examples are the Ironstone Plateau and a farming landscape being changed by the farming itself.
+
+South Sudan's own way (South Sudan Grade 5 P5 Social Studies TG) (teacher guide — evidence): The guide insists on both sides of every feature — positive and negative effects of physical features on human activities — and on human agency: dumping material in a valley can cause flooding, and climate dictates which farming system a region of Africa can practise. That evidence is stocked here as the way South Sudan teaches this thing; it is cited as evidence only — South Sudan is counted in this lesson through its student book(s).

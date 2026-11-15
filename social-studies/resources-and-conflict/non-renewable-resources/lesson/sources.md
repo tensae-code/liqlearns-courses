@@ -1,6 +1,6 @@
 # Sources — Natural Resources — Non-Renewable Resources
 
-countries: Ethiopia, Bangladesh, Eritrea, Sudan, Jordan, Armenia
+countries: Ethiopia, Bangladesh, Eritrea, Sudan, Jordan, Armenia, South Sudan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (placement 62).
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Bangladesh, Eritrea, Sudan, Jordan, Armenia
 
 **Book 8:** *Աշխարհագրություն 12 — Հանրակրթական ավագ դպրոցի 12-րդ դասարանի դասագիրք (Geography 12, senior-school textbook)* (student book, Armenian) — «Զանգակ» (Zangak), Yerevan; year 2025; ISBN 978-9939-99-290-7. Authors: M. Manasyan, A. Hovsepyan, A. Potosyan. Title as printed: Աշխարհագրություն 12 — Հանրակրթական ավագ դպրոցի 12-րդ դասարանի դասագիրք (Geography 12, senior-school textbook). Grade: 12 (student/teacher: STUDENT). PDF pages: 132 (printed 128; cover/title page verified against the record title). Verdict: COMPLETE. Read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
 
+**Book 9:** *Secondary Geography 4 Student's Book* (student book, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 4 Student's Book. Grade: Secondary 4 / Grade 12 (student/teacher: STUDENT). PDF pages: 200 (cover/title page verified against the record title). Image-only PDF: read via 100-DPI 4-up contact sheets; the full printed table of contents (printed pp. 2–194) was read and every unit spot-checked on the sheets.. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Whole lesson opening — pupils separate a remade metal from a burned fuel | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 3, printed pp. 82–83 |
@@ -32,8 +34,9 @@ countries: Ethiopia, Bangladesh, Eritrea, Sudan, Jordan, Armenia
 | Jordan part — Unit 3 Lesson 1: The Origin of Fossil Fuels (نشأة الوقود الأحفوري) | Jordan, *Jordan G11 ES T2*, Unit 3 Lesson 1: The Origin of Fossil Fuels (نشأة الوقود الأحفوري) — printed p. 10 |
 | Jordan part — Unit 3 Lesson 2: Types of Fossil Fuels (أنواع الوقود الأحفوري) | Jordan, *Jordan G11 ES T2*, Unit 3 Lesson 2: Types of Fossil Fuels (أنواع الوقود الأحفوري) — printed p. 18 |
 | Armenia part — §10 The problem of mineral raw materials | Armenia, *Armenia Grade 12 Geography student*, §10 The problem of mineral raw materials — printed p. 76 |
+| South Sudan part — Non-renewable energy resources | South Sudan, *South Sudan Grade 12 S4 Geography SB*, Non-renewable energy resources — printed p. 81 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Bangladesh, Eritrea, Sudan, Jordan, Armenia).**
+**Acceptance count: taught in 7 countries (Ethiopia, Bangladesh, Eritrea, Sudan, Jordan, Armenia, South Sudan).**
 
 No book error flagged by the placements touches this lesson.
 
@@ -52,3 +55,5 @@ Jordan's own way (Jordan G12 ES T1 Workbook (10385)): the activities book opens 
 Jordan's own way (Jordan G11 ES T2): Term 2 is fossil fuels — their origin, kinds, and Jordan's own (oil shale, gas) with the petrochemical industry — then earthquakes and volcanoes.
 
 Armenia's own way (Armenia Grade 12 Geography student): the final Geography year is thematic, not regional-by-continent: first "distinctive" region types (fast-growing, urbanised, mountain, arid-agrarian, integrating Western Europe), then humanity's global problems one by one, closing on sustainable development — with mountain-country development read through Armenia's own case.
+
+South Sudan's own way (South Sudan Grade 12 S4 Geography SB): A global book (globalization, oceans, world energy, the development gap) that keeps returning to South Sudan — ARCISS signing photo in Juba for political globalization, South Sudan classroom progress-check scenarios, and a closing exercise asking learners, as citizens of South Sudan, how their nation can grow economically.
