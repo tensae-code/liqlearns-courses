@@ -65,7 +65,9 @@ the one title at rising depth wherever a title spans both books
   before Islam, and Morocco — prehistoric Morocco,
   Amazigh civilisation, Roman Morocco and Aedemon,
   the Idrisids and the Qarawiyyin, the Almoravids,
-  the Almohads, and the Marinids and their madrasas).
+  the Almohads, and the Marinids and their madrasas, and
+  Myanmar — Myanmar prehistory, the Pyu city-states,
+  the Bagan Empire, and hunters and first farmers).
 - `the-land-and-air/` — continents and oceans, the forces that
   shape the land, the atmosphere, weather and climate, map work
   (including the UAE's location and emirates map and desert
@@ -2527,7 +2529,7 @@ Plants and Animals.
 
 ## History expansion totals
 
-History lessons across the History titles: **293**
+History lessons across the History titles: **297**
 (248 before the expansion; +1 for Guyana, 2026-11-15 —
 Modern World: Guyana — our nation: independence and
 symbols. All 3 Guyana placements stand on Guyana's
@@ -2650,3 +2652,16 @@ Steps What history is, From evidence to a written
 history and Dating the past, and Africa to 1500
 Carthage and the Punic Wars) likewise leave those
 lessons' acceptance counts unchanged.
+
++4 for Myanmar, 2026-11-15 — Ancient World:
+Myanmar prehistory — rock, bronze and metal ages,
+The Pyu city-states of ancient Myanmar, The Bagan
+Empire, and The origin of human society — hunters
+and first farmers. All 13 Myanmar placements stand
+on Myanmar's Grade 6 teacher guide only, as evidence
+only, acceptance count 0 countries; the six placements
+stocked into existing lessons (Ancient World
+Mesopotamia, Greece-Crete, Rome, China and India,
+and Africa to 1500 Ancient Egypt — the Nile Kingdom)
+likewise leave those lessons' acceptance counts
+unchanged.

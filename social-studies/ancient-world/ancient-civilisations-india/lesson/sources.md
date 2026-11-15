@@ -28,3 +28,18 @@ Extension added 2026-11-12 (Ethiopia Wave 4, Grade 9 History): the Indus and rel
 Pairing note, carried for every lesson in this title: the teacher guide is an Addis Ababa bureau guide (English, 2022) set against an Amhara bureau student book (Amharic, © 2015 E.C.); they are NOT edition-matched, and the guide's unit order differs from the student book's (the guide's Unit 4 covers this same ancient and medieval world material). Pupil content above stands on the student book; guide material appears only in the rows labelled (teacher guide — evidence). History in lesson.md is told in the course's own words as story-like summary — dates and names are exactly as the placements give them; no textbook text is transcribed.
 
 Searchable tags: ancient India, Indus, Ganges, Dravidian, Harappa, Mohenjo-daro, Aryan, Chandragupta Maurya, Alexander
+
+
+## History expansion (2026-11-15) — Myanmar stocked
+
+**Book (Myanmar):** *Teacher Guide — History — Grade 6* (teacher guide, English with Myanmar glossary terms) — Myanmar. Title as printed: Teacher Guide — History — Grade 6 (Government of the Republic of the Union of Myanmar, Ministry of Education; "Distributed Free of Charge by the government"). Grade: Grade 6 (student/teacher: TEACHER). Publisher: Basic Education Curriculum, Syllabus and Textbook Committee, Ministry of Education; year 2019 (February 2019 printing, 325,000 copies, for academic year 2019–2020); no ISBN printed. PDF pages: 80 (cover/title page verified against the record title). Verdict: COMPLETE. Records: 1 record / 1 distinct book / grabbed with grab.py url (GitHub blob route) into scratch-small-c/, verified by pdfinfo + cover/title page, deleted after filing. Placements at liqlearns-courses-work/expansion-history-2026-11-15/myanmar-placements.md.
+
+This book is a teacher guide. The Myanmar rows below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count — Myanmar is not added to this lesson's countries line or acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar part — Ch.4.3.4 Indian culture: India's ancient civilisation and its reach — Shiva worship, Buddhism's arrival and spread, and the Indianised city of Angkor — story beats: India's gods and scripts travel with its traders until they are building temples in Cambodia (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-india) | Myanmar, *Teacher Guide — History — Grade 6* (teacher guide — evidence), printed p. 74 |
+
+Myanmar's own way: The year is split in two arcs — Myanmar's own past first (prehistory, the Pyu city-states, Bagan), then world history (hunters, first farmers, Mesopotamia, Egypt, Greece, Rome, China, India) — and every lesson is taught in a fixed Introduce–Teach–Practice–Review (I-T-P-R) shape with student-centred activities. That way is stocked here as the way Myanmar teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 1 country (Ethiopia) — unchanged; the Myanmar placement above is teacher-guide evidence only, counted nowhere.**

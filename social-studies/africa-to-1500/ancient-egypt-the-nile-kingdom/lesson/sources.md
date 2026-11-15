@@ -28,3 +28,18 @@ Extension added 2026-11-12 (Ethiopia Wave 4, Grade 9 History): the Grade 9 depth
 Pairing and error honesty. (1) Pairing note: pupil content comes from the Amhara student book; the teacher guide is an Addis Ababa bureau book (2022, in English) and the student book an Amhara bureau book (© 2015 E.C., in Amharic) — NOT edition-matched companions. Guide material, where used, is labelled (teacher guide — evidence) in the table above and counts nowhere as pupil-taught. The guide rows above are that evidence: the three-kingdom periodisation, the three classes, and the vizier/nomarch vocabulary are the Addis Ababa guide's §5.1 skeleton, folded into Sub lesson 2 and labelled there and here; the pupil narrative stands on the Amhara student book. (2) The guide's Unit 5 contents and syllabus spell Meroe 'Mereo' — that misprint belongs to the Kush lesson, not this one; nothing in this lesson's guide material is misprinted. No student-book error flagged by the placements touches this lesson. The picture the placement names (the Nile with Upper and Lower Egypt and the nome divisions marked) is Picture 11302, a drawn render.
 
 Searchable tags: ancient Egypt, Nile, Abay, nomes, Menes, Pharaoh, dynasty, Hyksos, Ahmose, vizier, nomarch, Old Kingdom, Middle Kingdom, New Kingdom, gift of the Nile, Ethiopia Grade 7 Social Studies Chapter 5
+
+
+## History expansion (2026-11-15) — Myanmar stocked
+
+**Book (Myanmar):** *Teacher Guide — History — Grade 6* (teacher guide, English with Myanmar glossary terms) — Myanmar. Title as printed: Teacher Guide — History — Grade 6 (Government of the Republic of the Union of Myanmar, Ministry of Education; "Distributed Free of Charge by the government"). Grade: Grade 6 (student/teacher: TEACHER). Publisher: Basic Education Curriculum, Syllabus and Textbook Committee, Ministry of Education; year 2019 (February 2019 printing, 325,000 copies, for academic year 2019–2020); no ISBN printed. PDF pages: 80 (cover/title page verified against the record title). Verdict: COMPLETE. Records: 1 record / 1 distinct book / grabbed with grab.py url (GitHub blob route) into scratch-small-c/, verified by pdfinfo + cover/title page, deleted after filing. Placements at liqlearns-courses-work/expansion-history-2026-11-15/myanmar-placements.md.
+
+This book is a teacher guide. The Myanmar rows below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count — Myanmar is not added to this lesson's countries line or acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar part — Ch.4.2.2 Egypt: the development of Egypt's culture and technology, plough agriculture on the Nile — story beats: a river's flood becomes a calendar, a granary and a kingdom (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: africa-to-1500/ancient-egypt-the-nile-kingdom) | Myanmar, *Teacher Guide — History — Grade 6* (teacher guide — evidence), printed p. 52 |
+
+Myanmar's own way: The year is split in two arcs — Myanmar's own past first (prehistory, the Pyu city-states, Bagan), then world history (hunters, first farmers, Mesopotamia, Egypt, Greece, Rome, China, India) — and every lesson is taught in a fixed Introduce–Teach–Practice–Review (I-T-P-R) shape with student-centred activities. That way is stocked here as the way Myanmar teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 1 country (Ethiopia) — unchanged; the Myanmar placement above is teacher-guide evidence only, counted nowhere.**

@@ -8608,3 +8608,42 @@ evidence only, acceptance count 0 countries; the four
 placements stocked into existing lessons likewise
 leave those lessons' acceptance counts unchanged.
 History lessons: 284 → 293.
+
+## History expansion — Myanmar — built 2026-11-15
+
+4 new lessons, 32 questions, in **The Ancient World**:
+Myanmar prehistory — rock, bronze and metal ages
+(ancient-world/myanmar-prehistory-rock-bronze-and-metal-ages),
+The Pyu city-states of ancient Myanmar
+(ancient-world/the-pyu-city-states-of-ancient-myanmar),
+The Bagan Empire
+(ancient-world/the-bagan-empire) and
+The origin of human society — hunters and first farmers
+(ancient-world/the-origin-of-human-society-hunters-and-first-farmers)
+— 13 placements stocked from Myanmar's one distinct
+book: *Teacher Guide — History — Grade 6*, Grade 6
+teacher guide (Basic Education Curriculum, Syllabus
+and Textbook Committee, Ministry of Education, 2019,
+no ISBN printed): Myanmar prehistory — rock, bronze
+and metal ages (printed p. 1); the Pyu city-states —
+emergence of cities and the cities one by one:
+Beikthano, Hanlin, Sri Ksetra, Maingmaw,
+Thuwunnabumi and Waitharli (printed p. 6); the Bagan
+Empire — emergence and power, and its economy,
+society, literature and architecture (printed
+p. 24); hunters of the Rock Age (printed p. 40) and
+agriculture and country life (printed p. 48), into
+the four new lessons; and Mesopotamia in four ages
+(printed p. 48), into the existing Ancient World
+Mesopotamia lesson; Egypt on the Nile (printed
+p. 52), into the existing Africa to 1500 Ancient
+Egypt — the Nile Kingdom lesson; Greece (printed
+p. 57), into Greece-Crete; Roman culture (printed
+p. 62), into Rome; Chinese culture (printed p. 67),
+into China; and Indian culture (printed p. 74),
+into India. All 13 Myanmar placements stand on
+Myanmar's teacher guide only, as evidence only,
+acceptance count 0 countries; the six placements
+stocked into existing lessons likewise leave those
+lessons' acceptance counts unchanged. History
+lessons: 293 → 297.
