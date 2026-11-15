@@ -1,6 +1,6 @@
 # Sources — Human geography — the people side
 
-countries: Ethiopia, Myanmar, Ukraine, Bolivia, Fiji, Uganda, Sudan, Mauritania, Afghanistan
+countries: Ethiopia, Myanmar, Ukraine, Bolivia, Fiji, Uganda, Sudan, Mauritania, Afghanistan, Iran
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -26,6 +26,8 @@ countries: Ethiopia, Myanmar, Ukraine, Bolivia, Fiji, Uganda, Sudan, Mauritania,
 
 **Book 12:** *جغرافيه صنف ٩ (Geography, Grade 9)* (student book, Dari) — Ministry of Education, Afghanistan; year 1399 HS (2020/21) as printed; ISBN no ISBN printed. Title as printed: جغرافيه صنف ٩ (Geography, Grade 9). Grade: 9 (student/teacher: STUDENT). PDF pages: 98 (cover verified against the record title; 14,184,052 bytes = release asset size). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/afghanistan-placements.md.
 
+**Book 13:** *جغرافیای ایران (Geography of Iran) — for all branches (theoretical, technical-vocational, kardanesh)* (student book, Persian) — سازمان پژوهش و برنامه‌ریزی آموزشی (Organization for Educational Research and Planning), Ministry of Education; printed by شرکت چاپ و نشر کتاب‌های درسی ایران; year 1405 (11th printing); ISBN 978-964-05-2744-3; book code 110218. Title as printed: جغرافیای ایران (Geography of Iran) — for all branches (theoretical, technical-vocational, kardanesh). Grade: 10 (student/teacher: STUDENT). PDF pages: 120 (cover/title page verified against the record title; byte size 8,709,753 and page count 120 match the books.json record exactly; read from the record's own ministry source chap.sch.ir, the file the record was pushed from, because the GitHub API route was disconnected on repeated attempts). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iran-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The people side | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 1, printed pp. 7–8 |
@@ -42,8 +44,9 @@ countries: Ethiopia, Myanmar, Ukraine, Bolivia, Fiji, Uganda, Sudan, Mauritania,
 | Afghanistan part — Ch. 3 Lesson 30: human geography of Asia | Afghanistan, *Afghanistan Grade 7 Geography (Dari)*, Ch. 3 Lesson 30: human geography of Asia — printed p. 89 |
 | Afghanistan part — Ch. 1 Lesson 9: the human geography of Europe | Afghanistan, *Afghanistan Grade 8 Geography (Dari)*, Ch. 1 Lesson 9: the human geography of Europe — printed p. 25 |
 | Afghanistan part — Ch. 1 Lesson 11: the human geography of Africa | Afghanistan, *Afghanistan Grade 9 Geography (Dari)*, Ch. 1 Lesson 11: the human geography of Africa — printed p. 33 |
+| Iran part — Geography, a science for a better life (human branches in the branches-of-geography survey) | Iran, *Iran Grade 10 Geography of Iran*, Geography, a science for a better life (human branches in the branches-of-geography survey) — printed p. 3 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Ukraine, Bolivia, Fiji, Uganda, Sudan, Mauritania, Afghanistan). Myanmar is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 9 countries (Ethiopia, Ukraine, Bolivia, Fiji, Uganda, Sudan, Mauritania, Afghanistan, Iran). Myanmar is named here as teacher-guide evidence only, counted nowhere.**
 
 Ukraine's own way: A "Geography: Regions and Countries" course — every region is done in the same order (position, nature/resources, population, primary/secondary/tertiary sectors) then typological country studies with rubrics (country visiting-card, capital, pride of the country, unique experience), ending with Ukraine's own place in the world; research tasks (Дослідження) embedded in chapters. That way is stocked here as the way Ukraine teaches this thing.
 
@@ -66,3 +69,5 @@ Afghanistan's own way (Afghanistan Grade 7 Geography (Dari)): the Dari MoE patte
 Afghanistan's own way (Afghanistan Grade 8 Geography (Dari)): the continent-by-continent march continues — after Asia in Grade 7, Grade 8 does Europe then the Americas, each continent in the same fixed order: position, mountains, rivers, lakes, seas, gulfs, climate, political geography, human geography (race, language, religion), economic geography, mines/industries, transport.
 
 Afghanistan's own way (Afghanistan Grade 9 Geography (Dari)): the continent march finishes with Africa, then Australia/Oceania and Antarctica — same fixed order per continent as Grade 8, with a data table of the independent countries of Africa appended to the Africa chapter.
+
+Iran's own way (Iran Grade 10 Geography of Iran): the whole of Grade 10 geography is one national book — Iran's own natural and human geography for every branch; nearly every lesson closes with a "know your own living place" activity tied to the separate provincial-studies book, so national content is always re-applied to the learner's own province.

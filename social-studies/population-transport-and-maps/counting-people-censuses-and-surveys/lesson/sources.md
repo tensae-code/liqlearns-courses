@@ -1,6 +1,6 @@
 # Sources — Counting people — censuses and surveys
 
-countries: Ethiopia, Bolivia, Dominican Republic, Samoa, India, Rwanda, Fiji, Papua New Guinea, Uganda, Sudan, Sri Lanka
+countries: Ethiopia, Bolivia, Dominican Republic, Samoa, India, Rwanda, Fiji, Papua New Guinea, Uganda, Sudan, Sri Lanka, Iran
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -38,6 +38,8 @@ countries: Ethiopia, Bolivia, Dominican Republic, Samoa, India, Rwanda, Fiji, Pa
 
 **Book 18:** *Geography, Grade 9* (student book, English) — Educational Publications Department; first print 2017, third print 2019; ISBN 978-955-25-0166-1. Title as printed: Geography, Grade 9. Grade: 9 (student/teacher: STUDENT). PDF pages: printed pp. 1–95 approx. plus front matter (cover/title and index verified against the record; GitHub grab failed with RemoteDisconnected, so the book was read via the record's archive.org source PDF — the same Educational Publications Department edition; chapters read in full, with the parallel Grade 9 Teacher's Guide (Book 1) confirming unit structure). Verdict: COMPLETE. Parallel edition named in the placements file: the Tamil student book (Book 4a, 2019), contents matching chapter for chapter, with a Tamil–English–Sinhala glossary — placed once under this English edition, that edition named here. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sri-lanka-placements.md.
 
+**Book 19:** *جغرافیای ایران (Geography of Iran) — for all branches (theoretical, technical-vocational, kardanesh)* (student book, Persian) — سازمان پژوهش و برنامه‌ریزی آموزشی (Organization for Educational Research and Planning), Ministry of Education; printed by شرکت چاپ و نشر کتاب‌های درسی ایران; year 1405 (11th printing); ISBN 978-964-05-2744-3; book code 110218. Title as printed: جغرافیای ایران (Geography of Iran) — for all branches (theoretical, technical-vocational, kardanesh). Grade: 10 (student/teacher: STUDENT). PDF pages: 120 (cover/title page verified against the record title; byte size 8,709,753 and page count 120 match the books.json record exactly; read from the record's own ministry source chap.sch.ir, the file the record was pushed from, because the GitHub API route was disconnected on repeated attempts). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iran-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What population means | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 4, printed pp. 86–88 |
@@ -59,8 +61,9 @@ countries: Ethiopia, Bolivia, Dominican Republic, Samoa, India, Rwanda, Fiji, Pa
 | Uganda part — Population census | Uganda, *Uganda Grade 6 UG Excel P6 SST*, Population census — printed p. 66 |
 | Sudan part — Population dynamics: census, distribution and density (Unit 1, part 2) | Sudan, *Sudan Grade 11 SD Geography 11*, Population dynamics: census, distribution and density (Unit 1, part 2) — printed p. 12 |
 | Sri Lanka part — Ch. 2 Population of Sri Lanka: 20.2 million (2012 census), decennial census, uneven distribution (Wet Zone/Western Province concentration), district density (Colombo 3,305/km² vs Moneragala 72/km²) | Sri Lanka, *Sri Lanka Grade 9 G9 English*, Ch. 2 Population of Sri Lanka: 20.2 million (2012 census), decennial census, uneven distribution (Wet Zone/Western Province concentration), district density (Colombo 3,305/km² vs Moneragala 72/km²) — printed p. 50 |
+| Iran part — Characteristics of Iran's population (census of population and housing; why statistics matter for planning) | Iran, *Iran Grade 10 Geography of Iran*, Characteristics of Iran's population (census of population and housing; why statistics matter for planning) — printed p. 73 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Bolivia, Dominican Republic, Samoa, India, Rwanda, Fiji, Uganda, Sudan, Sri Lanka). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 11 countries (Ethiopia, Bolivia, Dominican Republic, Samoa, India, Rwanda, Fiji, Uganda, Sudan, Sri Lanka, Iran). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Bolivia's own way (Grade 8, Secundaria 2): Secundaria 2 is the colonial-history year, so geography enters through the land itself: the Tawantinsuyo's territorial division into suyos, the Amazonian hydraulic cultures who farmed a flooding landscape with raised beds and purified water, the ayllu-versus-hacienda struggle over communal land, and where Afro-Bolivian communities settled in the Yungas.
 
@@ -95,3 +98,5 @@ Uganda's own way (Uganda Grade 6 UG Excel P6 SST): The P6 course widens from Uga
 Sudan's own way (Sudan Grade 11 SD Geography 11): The human-geography year: population first (races, religions, census, density, dynamics, structure), then a full practical unit on distribution maps and graphs, then regional geography — the world studied continent by continent as regions — and a closing full unit on Sudan itself, natural basis to environmental problems.
 
 Sri Lanka's own way (Sri Lanka Grade 9 G9 English): the student companion to Book 1 — five chapters moving from the whole Asian region down to Sri Lanka's own landscape, its district-by-district development contrasts, environmental balance, and a closing practical chapter reading the 1:50,000 topographic maps.
+
+Iran's own way (Iran Grade 10 Geography of Iran): the whole of Grade 10 geography is one national book — Iran's own natural and human geography for every branch; nearly every lesson closes with a "know your own living place" activity tied to the separate provincial-studies book, so national content is always re-applied to the learner's own province.

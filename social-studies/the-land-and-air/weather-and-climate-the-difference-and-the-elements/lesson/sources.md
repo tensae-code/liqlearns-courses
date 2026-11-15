@@ -1,6 +1,6 @@
 # Sources — Weather and Climate — The Difference and the Elements
 
-countries: Ethiopia, Barbados, Turkey, Guatemala, Jamaica, Colombia, Malaysia, Eritrea, India, Cambodia, Rwanda, Fiji, Slovenia, Papua New Guinea, Uganda, Syria, Venezuela, Sri Lanka, Mauritania, Afghanistan
+countries: Ethiopia, Barbados, Turkey, Guatemala, Jamaica, Colombia, Malaysia, Eritrea, India, Cambodia, Rwanda, Fiji, Slovenia, Papua New Guinea, Uganda, Syria, Venezuela, Sri Lanka, Mauritania, Afghanistan, Iran
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -64,6 +64,8 @@ countries: Ethiopia, Barbados, Turkey, Guatemala, Jamaica, Colombia, Malaysia, E
 
 **Book 31:** *دروس اجتماعی برای صنف پنجم (Social Studies for Grade 5)* (student book, Dari) — Ministry of Education, Afghanistan; year 1399 HS (2020/21) as printed; ISBN no ISBN printed. Title as printed: دروس اجتماعی برای صنف پنجم (Social Studies for Grade 5). Grade: 5 (student/teacher: STUDENT). PDF pages: 109 (cover verified against the record title; 9,575,107 bytes = release asset size). Verdict: COMPLETE — combined Social Studies book: Geography/economic parts placed below; the society/civics parts are named here and NOT placed.. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/afghanistan-placements.md.
 
+**Book 32:** *جغرافیای ایران (Geography of Iran) — for all branches (theoretical, technical-vocational, kardanesh)* (student book, Persian) — سازمان پژوهش و برنامه‌ریزی آموزشی (Organization for Educational Research and Planning), Ministry of Education; printed by شرکت چاپ و نشر کتاب‌های درسی ایران; year 1405 (11th printing); ISBN 978-964-05-2744-3; book code 110218. Title as printed: جغرافیای ایران (Geography of Iran) — for all branches (theoretical, technical-vocational, kardanesh). Grade: 10 (student/teacher: STUDENT). PDF pages: 120 (cover/title page verified against the record title; byte size 8,709,753 and page count 120 match the books.json record exactly; read from the record's own ministry source chap.sch.ir, the file the record was pushed from, because the GitHub API route was disconnected on repeated attempts). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iran-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Short and small against long and wide | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 24–25 |
@@ -98,8 +100,9 @@ countries: Ethiopia, Barbados, Turkey, Guatemala, Jamaica, Colombia, Malaysia, E
 | Mauritania part — Unit 2 Lesson 6: the elements of climate | Mauritania, *Mauritania Grade 7 geo-1as-m*, Unit 2 Lesson 6: the elements of climate — printed p. 37 |
 | Afghanistan part — Ch. 7 Lesson 58: what climate is | Afghanistan, *Afghanistan Grade 10 Geography (Dari)*, Ch. 7 Lesson 58: what climate is — printed p. 197 |
 | Afghanistan part — Lesson 48: climate | Afghanistan, *Afghanistan Grade 5 Social Studies (Dari)*, Lesson 48: climate — printed p. 95 |
+| Iran part — Iran's climate (weather elements, synoptic stations, visiting a weather station activity) | Iran, *Iran Grade 10 Geography of Iran*, Iran's climate (weather elements, synoptic stations, visiting a weather station activity) — printed p. 34 |
 
-**Acceptance count: taught in 18 countries (Ethiopia, Barbados, Turkey, Guatemala, Colombia, Malaysia, Eritrea, India, Cambodia, Rwanda, Fiji, Slovenia, Uganda, Syria, Venezuela, Sri Lanka, Mauritania, Afghanistan). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 19 countries (Ethiopia, Barbados, Turkey, Guatemala, Colombia, Malaysia, Eritrea, India, Cambodia, Rwanda, Fiji, Slovenia, Uganda, Syria, Venezuela, Sri Lanka, Mauritania, Afghanistan, Iran). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grade 4 Exploratory Core, curriculum guide — evidence): Social Studies is one of four subjects fused into a single Exploratory Core guide, organised by four attainment themes; Geography enters through Jamaica itself — Taino settlement maps, cardinal points, Jamaica's physical features, parishes, weather and the Earth in the Solar System — always with hands-on map and model work. That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
@@ -162,3 +165,5 @@ Mauritania's own way (Mauritania Grade 7 geo-1as-m): The student book of the cou
 Afghanistan's own way (Afghanistan Grade 10 Geography (Dari)): the upper-secondary pattern changes from continent tours to themes studied in depth through Afghanistan itself: a full map-skills chapter (map types, scale, colour, projection, satellite photos), Afghanistan's climate and each of its river basins one by one (Amu, Kabul, Helmand–Sistan, Harirud, the closed basins), an environment-protection chapter aimed at Kabul's air and streets, a natural-hazards chapter, then earth-and-space and atmosphere chapters.
 
 Afghanistan's own way (Afghanistan Grade 5 Social Studies (Dari)): Grade 5 social studies is an economic tour of Afghanistan for children — public services first (water, electricity, telecom, post, transport), then farming crop by crop, livestock animal by animal, industries craft by craft and factory by factory, trade and the country's (dry) ports, ending with environment, climate and mines.
+
+Iran's own way (Iran Grade 10 Geography of Iran): the whole of Grade 10 geography is one national book — Iran's own natural and human geography for every branch; nearly every lesson closes with a "know your own living place" activity tied to the separate provincial-studies book, so national content is always re-applied to the learner's own province.

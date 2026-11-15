@@ -1,6 +1,6 @@
 # Sources — Cities growing — footprint and promise
 
-countries: Ethiopia, Turkey, Bangladesh, Turkmenistan, North Macedonia, Cambodia, Fiji, Slovenia, Papua New Guinea, Uganda, Syria, Venezuela, Sri Lanka, Mauritania
+countries: Ethiopia, Turkey, Bangladesh, Turkmenistan, North Macedonia, Cambodia, Fiji, Slovenia, Papua New Guinea, Uganda, Syria, Venezuela, Sri Lanka, Mauritania, Iran
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). Editors: Sintayehu Teka (MSc) (Content Editor), Kassie Molla (MA) (Language Editor), Hirut Woldemichael (MA) (Curriculum Editor). Illustrator: Agenchw Nega (MSc). Designer: Geda Hoka (MA). Evaluators: Dereje Guteta (PhD), Tesfaye Shiferaw (PhD), Abebe Yibeltie (MA), Hussein Seid (MA). First published 2023 under GEQIP-E. ISBN 978-99990-0-049-9. Printed by Gravity Group IND LLC, 13th Industrial Area, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. Printed page = PDF page − 6 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md
 
@@ -54,6 +54,8 @@ countries: Ethiopia, Turkey, Bangladesh, Turkmenistan, North Macedonia, Cambodia
 
 **Book 26:** *Kitab al-Jughrafia lilsana al-Sabi'a Adab 'Asriya (Geography Book, Seventh Year — Modern Letters)* (student book, Arabic) — Institut Pédagogique National (IPN), Mauritania; year 2025; ISBN no ISBN printed. Title as printed: Kitab al-Jughrafia lilsana al-Sabi'a Adab 'Asriya (Geography Book, Seventh Year — Modern Letters). Grade: Grade 13 (7e année secondaire, lettres modernes) (student/teacher: STUDENT). PDF pages: 120 (cover/title page verified against the record title; fetched from the record's source URL docs.bsimr.com/pdfs/secondaire2s/GEO-7AS-LM.pdf, 26,994,755 bytes). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mauritania-placements.md.
 
+**Book 27:** *جغرافیای ایران (Geography of Iran) — for all branches (theoretical, technical-vocational, kardanesh)* (student book, Persian) — سازمان پژوهش و برنامه‌ریزی آموزشی (Organization for Educational Research and Planning), Ministry of Education; printed by شرکت چاپ و نشر کتاب‌های درسی ایران; year 1405 (11th printing); ISBN 978-964-05-2744-3; book code 110218. Title as printed: جغرافیای ایران (Geography of Iran) — for all branches (theoretical, technical-vocational, kardanesh). Grade: 10 (student/teacher: STUDENT). PDF pages: 120 (cover/title page verified against the record title; byte size 8,709,753 and page count 120 match the books.json record exactly; read from the record's own ministry source chap.sch.ir, the file the record was pushed from, because the GitHub API route was disconnected on repeated attempts). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iran-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What urbanisation is | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 7, printed pp. 161–163 |
@@ -84,8 +86,9 @@ countries: Ethiopia, Turkey, Bangladesh, Turkmenistan, North Macedonia, Cambodia
 | Mauritania part — Unit 1 Lesson 4: urbanisation in Mauritania | Mauritania, *Mauritania Grade 10 geo-4as-m*, Unit 1 Lesson 4: urbanisation in Mauritania — printed p. 30 |
 | Mauritania part — Unit 2 Lesson 7: cities — definition, origin, structure, plans, urban growth | Mauritania, *Mauritania Grade 12 geo-6as-cd*, Unit 2 Lesson 7: cities — definition, origin, structure, plans, urban growth — printed p. 59 |
 | Mauritania part — Unit 1 Lesson 6: urbanisation in Mauritania | Mauritania, *Mauritania Grade 13 geo-7as-lm*, Unit 1 Lesson 6: urbanisation in Mauritania — printed p. 34 |
+| Iran part — Iran's settlements (population change of settlements; living in big cities debated pro and con) | Iran, *Iran Grade 10 Geography of Iran*, Iran's settlements (population change of settlements; living in big cities debated pro and con) — printed p. 92 |
 
-**Acceptance count: taught in 13 countries (Ethiopia, Turkey, Bangladesh, Turkmenistan, North Macedonia, Cambodia, Fiji, Slovenia, Uganda, Syria, Venezuela, Sri Lanka, Mauritania). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 14 countries (Ethiopia, Turkey, Bangladesh, Turkmenistan, North Macedonia, Cambodia, Fiji, Slovenia, Uganda, Syria, Venezuela, Sri Lanka, Mauritania, Iran). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
@@ -138,3 +141,5 @@ Mauritania's own way (Mauritania Grade 10 geo-4as-m): This book re-teaches the G
 Mauritania's own way (Mauritania Grade 12 geo-6as-cd): A human-geography year in three units — world population (growth, distribution, migration, structure, with an applications lesson on the age pyramid and demographic projections), urbanisation and its problems, and economic activities from traditional farming to modern industry, transport, trade, craft industry and tourism.
 
 Mauritania's own way (Mauritania Grade 13 geo-7as-lm): The final-year Letters book is an exam-facing synthesis: Mauritania's natural and human features and its economic activities in full (including the structural problems of the Mauritanian economy and a lesson on how to write a geography essay), then the Arab world and Africa as economic powers (oil and minerals as the lenses), closing with the two great powers — the American and Chinese economies, their foundations, features and problems.
+
+Iran's own way (Iran Grade 10 Geography of Iran): the whole of Grade 10 geography is one national book — Iran's own natural and human geography for every branch; nearly every lesson closes with a "know your own living place" activity tied to the separate provincial-studies book, so national content is always re-applied to the learner's own province.

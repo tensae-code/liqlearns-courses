@@ -1,6 +1,6 @@
 # Sources — Forces that shape the Earth — inside and outside
 
-countries: Ethiopia, Cambodia, Rwanda, Vietnam, Papua New Guinea, Syria
+countries: Ethiopia, Cambodia, Rwanda, Vietnam, Papua New Guinea, Syria, Iran
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Cambodia, Rwanda, Vietnam, Papua New Guinea, Syria
 
 **Book 7:** *عالم الجغرافية (World of Geography), الصف السابع الأساسي (Seventh Grade Basic)* (student book, Arabic) — Ministry of Education / National Center for Curriculum Development (NCCD), Syrian Arab Republic; year 2021–2022 (1442 H), first printed 2017–2018; no ISBN printed. Title as printed: عالم الجغرافية (World of Geography), الصف السابع الأساسي (Seventh Grade Basic). Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 159 (cover/title page verified against the record title; read in place in phase3-staging, 932,059,473 bytes). Verdict: COMPLETE. (Non-content slots named, not placed: teacher-designed lesson slots (printed pp. 86, 150) and the student-designed geography-information slot (printed p. 148) carry no set content of their own.) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/syria-placements.md.
 
+**Book 8:** *جغرافیای ایران (Geography of Iran) — for all branches (theoretical, technical-vocational, kardanesh)* (student book, Persian) — سازمان پژوهش و برنامه‌ریزی آموزشی (Organization for Educational Research and Planning), Ministry of Education; printed by شرکت چاپ و نشر کتاب‌های درسی ایران; year 1405 (11th printing); ISBN 978-964-05-2744-3; book code 110218. Title as printed: جغرافیای ایران (Geography of Iran) — for all branches (theoretical, technical-vocational, kardanesh). Grade: 10 (student/teacher: STUDENT). PDF pages: 120 (cover/title page verified against the record title; byte size 8,709,753 and page count 120 match the books.json record exactly; read from the record's own ministry source chap.sch.ir, the file the record was pushed from, because the GitHub API route was disconnected on repeated attempts). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iran-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Two families of forces | G12 student #9, printed pp. 11–12, 24 |
@@ -26,8 +28,9 @@ countries: Ethiopia, Cambodia, Rwanda, Vietnam, Papua New Guinea, Syria
 | Papua New Guinea part — Strand 5 Unit 2, Topic 4: Shaping the land through the Earth's movements (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 10 Social Science TG* (teacher guide), Strand 5 Unit 2, Topic 4: Shaping the land through the Earth's movements — printed p. 258 |
 | Papua New Guinea part — Unit 4, Topic 2: Natural processes in and outside the Earth's crust (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 11 Geography TG SBC* (teacher guide), Unit 4, Topic 2: Natural processes in and outside the Earth's crust — printed p. 89 |
 | Syria part — Engineering of the earth (the forces that shape the land) | Syria, *Syria Grade 7 Geography G7 عالم الجغرافية*, Engineering of the earth (the forces that shape the land) — printed p. 62 |
+| Iran part — Iran's relief (present-day changers of the Zagros and of the plains: natural and human factors) | Iran, *Iran Grade 10 Geography of Iran*, Iran's relief (present-day changers of the Zagros and of the plains: natural and human factors) — printed p. 28 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Cambodia, Rwanda, Vietnam, Syria). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 6 countries (Ethiopia, Cambodia, Rwanda, Vietnam, Syria, Iran). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Placement honesty carried: the placements place the eruption-style / Krakatoa passage before the 1.4.2 heading, inside the flow of 1.4.1's closing pages (printed p. 24) — a layout slip in the book, named here; the content itself is taught as the placements give it.
 
@@ -44,3 +47,5 @@ Papua New Guinea's own way (Papua New Guinea Grade 10 Social Science TG) (teache
 Papua New Guinea's own way (Papua New Guinea Grade 11 Geography TG SBC) (teacher guide — evidence): the standards-based senior Geography course keeps the four-unit frame of the Grade 9–10 strand (Geography Skills; People and Places; People and Resources; People and Environment) as a standalone subject — a heavy map-skills unit (grid references, bearings, cross-sections, climate graphs) before climate regions, biomass, oceanography, and the structure of the Earth. That evidence is stocked here as the way Papua New Guinea teaches this thing; it does not change the acceptance count above.
 
 Syria's own way (Syria Grade 7 Geography G7 عالم الجغرافية): a pure Geography book built entirely around activity lessons with story-style titles ("Mother of sciences", "Stones from the sky", "The origami art" for folding, "A tourist in my homeland"); technology first — aerial photos, GPS, remote sensing and GIS open the book before any physical geography — and each semester closes with student/teacher-designed lessons and an end-of-semester project.
+
+Iran's own way (Iran Grade 10 Geography of Iran): the whole of Grade 10 geography is one national book — Iran's own natural and human geography for every branch; nearly every lesson closes with a "know your own living place" activity tied to the separate provincial-studies book, so national content is always re-applied to the learner's own province.

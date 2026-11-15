@@ -1,0 +1,19 @@
+# Irans Neighbours Azerbaijan And Armenia — multiple choice
+
+Pick the one right answer.
+
+**1. (Sub lesson 1)** The first part of this lesson is —
+a) Irans Neighbours Azerbaijan And Armenia  b) learning the alphabet  c) counting to ten
+**Answer: a) Irans Neighbours Azerbaijan And Armenia**
+
+**2. (Sub lesson 1)** This lesson is mainly about —
+a) Lesson 11 The neighbouring countries (1) (کشورهای همسایه ۱): as people in a city or village live in each other's neighbourhood, countries too have neighbours — in the neighbourhood of our vast country Iran live the people of other countries; the Republic of Azerbaijan in the north-west of Iran, made of two parts with Armenia standing between them; agriculture flourishes in Azerbaijan — its vineyards are famous, and cotton and tobacco fields have spread in its inner and foothill parts; and the Republic of Armenia, also in Iran's north-west, a mountainous country some of whose peaks are over 4,000 metres, small in extent and poor in mineral resources, with electrical, chemical and tyre industries whose raw materials it imports from abroad  b) ancient kings only  c) the Moon's phases
+**Answer: a) Lesson 11 The neighbouring countries (1) (کشورهای همسایه ۱): as people in a city or village live in each other's neighbourhood, countries too have neighbours — in the neighbourhood of our vast country Iran live the people of other countries; the Republic of Azerbaijan in the north-west of Iran, made of two parts with Armenia standing between them; agriculture flourishes in Azerbaijan — its vineyards are famous, and cotton and tobacco fields have spread in its inner and foothill parts; and the Republic of Armenia, also in Iran's north-west, a mountainous country some of whose peaks are over 4,000 metres, small in extent and poor in mineral resources, with electrical, chemical and tyre industries whose raw materials it imports from abroad**
+
+**3. (Sub lesson 2)** The second part of this lesson is —
+a) Iran's way — the book's own teaching way  b) learning to swim  c) telling the time
+**Answer: a) Iran's way — the book's own teaching way**
+
+**4. (Sub lesson 2)** Which of these is true, from the lesson?
+a) This lesson teaches Lesson 11 The neighbouring countries (1) (کشورهای همسایه ۱): as people in a city or village live in each other's neighbourhood, countries too have neighbours — in the neighbourhood of our vast country Iran live the people of other countries; the Republic of Azerbaijan in the north-west of Iran, made of two parts with Armenia standing between them; agriculture flourishes in Azerbaijan — its vineyards are famous, and cotton and tobacco fields have spread in its inner and foothill parts; and the Republic of Armenia, also in Iran's north-west, a mountainous country some of whose peaks are over 4,000 metres, small in extent and poor in mineral resources, with electrical, chemical and tyre industries whose raw materials it imports from abroad.  b) Iran's book never studies this thing.  c) This lesson teaches nothing about its topic
+**Answer: a) This lesson teaches Lesson 11 The neighbouring countries (1) (کشورهای همسایه ۱): as people in a city or village live in each other's neighbourhood, countries too have neighbours — in the neighbourhood of our vast country Iran live the people of other countries; the Republic of Azerbaijan in the north-west of Iran, made of two parts with Armenia standing between them; agriculture flourishes in Azerbaijan — its vineyards are famous, and cotton and tobacco fields have spread in its inner and foothill parts; and the Republic of Armenia, also in Iran's north-west, a mountainous country some of whose peaks are over 4,000 metres, small in extent and poor in mineral resources, with electrical, chemical and tyre industries whose raw materials it imports from abroad.**

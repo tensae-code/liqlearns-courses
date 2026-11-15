@@ -4925,3 +4925,209 @@ taught in 1 country (Afghanistan), 8 questions each;
 all stand on student books (Afghanistan has no teacher
 guides in this wave).
 Geography lessons: 1961 → 2034.
+
+
+## Iran — Geography expansion (merged 2026-11-15)
+201 placement lines stocked from Iran's 16 records / 10
+distinct books, all Persian student books of the
+Ministry of Education, Organization for Educational
+Research and Planning — Social Studies Grades 3-9 and
+Geography Grades 10, 11 (Regional Geography) and 12
+(Applied, Humanities branch); Social Studies G7-G9 and
+Geography G10-G12 each appear twice in the records (a
+release record and a books.json record) — duplicates
+taught once, every distinct book cited. All 10 books
+are COMPLETE student books — there are no teacher
+guides, so every placed book counts toward acceptance.
+Read basis, carried exactly as the placements file
+records it: the six secondary books were read from the
+files recorded in the books.json records' own ministry
+source (chap.sch.ir), each matching its record's byte
+size and page count exactly, after the GitHub route
+failed repeatedly; the four primary books (G3-G6) were
+read from the records' own GitHub blob URLs through
+grab.py (G4 and G5 each re-grabbed once after a
+download timeout cut the first file short, both
+re-grabs byte-size verified). The placements file's own
+totals (201 placements — 54 to existing lessons, 147
+NEW LESSON NEEDED) and per-book tallies (8 + 12 + 10 +
+15 + 12 + 16 + 17 + 43 + 39 + 29) sum to 201 and agree
+with the line-by-line count book by book — no tally
+discrepancy; all 201 lines were stocked, none excluded.
+The non-Geography parts of the combined Social Studies
+books (Civics, History, Economics, religious journeys)
+are named in each book's header in the placements file
+and are NOT placed — they are not placement lines.
+Stocked into standing lessons (57 placements across 52
+lessons): 45 at the slug the placements file names (42
+existing-flagged placements, plus 3 NEW-flagged
+placements whose slugs already stand —
+the-land-and-air/australia-and-oceania,
+the-land-and-air/europe-natural-and-human-features and
+the-land-and-air/the-americas-natural-and-human-features),
+and 12 remapped from slugs that do not stand to the
+closest standing lesson covering the thing, the
+original slug recorded in the provenance row —
+people-and-resources/energy-oil-gas-coal-and-sun into
+people-and-resources/sources-of-energy-coal-oil-gas-and-power;
+earth-and-space/tides-and-waves into
+the-land-and-air/waves-tides-and-ocean-currents;
+population-transport-and-maps/why-people-are-where-they-are
+into
+population-transport-and-maps/population-distribution;
+the-land-and-air/drawing-a-watershed-boundary into
+population-transport-and-maps/drawing-a-watershed-boundary;
+people-and-resources/industry-making-things into
+people-and-resources/making-things-craft-and-factory;
+people-and-resources/trade-near-and-far into
+culture-and-work/trade-internal-and-external-and-its-uses;
+culture-and-work/what-is-a-town-or-city into
+population-transport-and-maps/temporary-homes-and-what-makes-a-town;
+population-transport-and-maps/roads-and-how-we-move-by-land
+and
+population-transport-and-maps/pipelines-moving-oil-and-water-underground
+into
+population-transport-and-maps/transport-kinds-of-transport;
+population-transport-and-maps/railways-lines-across-the-land
+into population-transport-and-maps/railways-and-trains;
+population-transport-and-maps/water-transport-rivers-canals-and-seas
+into
+population-transport-and-maps/trains-planes-and-boats;
+population-transport-and-maps/planes-in-the-sky into
+population-transport-and-maps/ships-and-planes. 136 NEW
+lessons built (144 placements) — **First Steps**:
+Houses And How They Differ (printed p. 58), How
+Geographers Study Places (printed p. 34), My Address
+Where My House Is (printed p. 82), My Neighbourhood
+(printed p. 5), The Plan Of A House (printed p. 60),
+Where I Live Places In My Country (printed p. 44);
+**Earth and Space**: Earth In The Solar System (printed
+p. 2), Earth Revolution And The Seasons (printed p.
+12), Earth Rotation Day Night And Time (printed p. 76;
+printed p. 9), Earthquake Belts And Scales (printed p.
+84), Latitude And Longitude Coordinates (printed p. 79;
+printed p. 5), Time Zones And Longitude (printed p.
+73); **The Land and Air**: Africa Natural And Human
+Features (printed p. 144), Asia The Largest Continent
+(printed p. 108), Asias Climates Wet And Dry (printed
+p. 114), Asias Mountains Plateaus And Plains (printed
+p. 110), Biomes And Ecosystems Of The World (printed p.
+30; printed p. 53), Climate Regions Of The World
+(printed p. 20), Coastal Regions Where Land Meets Sea
+(printed p. 60), Factors In World Climates (printed p.
+24), Holistic View In Geography Seeing The Whole Place
+(printed p. 4), How People Change The Land (printed p.
+20), Irans Climate Regions (printed p. 85; printed p.
+58), Irans Climate Types And Its Great Deserts (printed
+p. 41), Irans Landforms Mountains Plains And Deserts
+(printed p. 53), Irans Mountains And Plains (printed p.
+22), Irans Mountains Plains And Lowlands (printed p.
+74), Irans Plants And Animals (printed p. 90), Irans
+Position Borders And The Strait Of Hormuz (printed p.
+17), Irans Seas Caspian Gulf And Sea Of Oman (printed
+p. 54), Irans Seas Caspian Persian Gulf And Oman
+(printed p. 108), Mountain Regions And Their Protection
+(printed p. 62), Southwest Asia Region (printed p.
+124), Southwest Asias Landforms And Climates (printed
+p. 125), The Worlds Waters And The Continental Shelf
+(printed p. 21), Weather Today And Climate (printed p.
+79), Weathering And Erosion In Mountains And Deserts
+(printed p. 44), Young And Old Mountains (printed p.
+17); **Population, Transport and Maps**: Cars And The
+Changing Map (printed p. 46), Gis At Work Siting A
+Service (printed p. 38), Irans Country Divisions
+Provinces And Counties (printed p. 79), Irans
+Population Growth And Distribution (printed p. 24;
+printed p. 74), Irans Settlements Villages Cities And
+Nomads (printed p. 85), Managing City Transport
+(printed p. 67), Map Of Irans Agricultural Products
+(printed p. 43), Map Of Irans Seas And Ports (printed
+p. 117), Networks Accessibility And Route Choice
+(printed p. 59), People And Regions A Two Way Street
+(printed p. 11), Photos Satellite Images And Globes
+(printed p. 48), Reading A Simple Map Of My School
+(printed p. 80), Reading Asias Population Map (printed
+p. 116), Reading Topographic Maps Contours (printed p.
+51), Regions What They Are And How Geographers Draw
+Them (printed p. 2), Remote Sensing For Geography And
+Hazards (printed p. 111), Roads And Transport In Iran 1
+(printed p. 39), Roads And Transport In Iran 2 (printed
+p. 45), The Map Of My Neighbourhood (printed p. 15),
+The Settlement Hierarchy (printed p. 7), Uses Of
+Coordinates And Gps (printed p. 8), Using An Atlas
+(printed p. 121), World Population Growth (printed p.
+42); **People and Resources**: Asias Economy Farming
+And Industry (printed p. 119), Clothes From Production
+To Consumption (printed p. 100), Commercial Grain
+Farming (printed p. 87), Factors In Agriculture
+(printed p. 32), Free Trade Zones (printed p. 110),
+From Production To Consumption Bread (printed p. 39),
+High Technology Industries (printed p. 96), Irans Crops
+Wheat Rice And Greenhouses (printed p. 34), Irans
+Industries Mother And Consumer (printed p. 34), Irans
+Water And Soil Resources (printed p. 79), Irans Water
+Resources Rivers And Springs (printed p. 29), Living In
+The Highlands Nepal (printed p. 65), Plantation Farming
+(printed p. 91), Renewable Energy Wind And Atom
+(printed p. 51), Resources What They Are (printed p.
+40), Rural Problems And Development (printed p. 31),
+Sectors Of The Economy (printed p. 34; printed p. 83),
+Subsistence Farming (printed p. 85), The Sea Gods
+Blessing Food Tourism And Care (printed p. 112);
+**Culture and Work**: Asias Peoples Religions And
+Languages (printed p. 115), Capitals Why There And Why
+They Move (printed p. 137), City And Countryside Links
+(printed p. 18), Cultural Diffusion How Culture Spreads
+(printed p. 79), Cultural Regions Of The World (printed
+p. 68), How Cities And Villages Are Run (printed p.
+52), How The First Cities Arose (printed p. 42), How
+The First Villages Arose (printed p. 38), Informal
+Settlements And Urban Poverty (printed p. 21), Isfahan
+Half The World (printed p. 72), Language Families And
+Languages In Danger (printed p. 70), Life In City And
+Village (printed p. 24), Life In Different Regions Of
+The World (printed p. 81), Local Clothes Of Irans
+Regions (printed p. 96), Religions Of The World And
+Sacred Places (printed p. 74), Site And Situation Of
+Settlements (printed p. 2), Southwest Asia Cradle Of
+Civilisation (printed p. 127), The Islamic World As A
+Cultural Region (printed p. 113), The Services Sector
+(printed p. 98), The Sustainable City (printed p. 28),
+Tourism Geography (printed p. 90), Tourism In Iran
+(printed p. 94), Urbanisation And The Worlds Cities
+(printed p. 10); **Resources and Conflict**: Opec And
+Producer Cartels (printed p. 101), Using Resources
+Properly Not Wasting (printed p. 44; printed p. 51);
+**Global Issues**: Biomes In Danger (printed p. 36),
+Case Study Two Neighbours East And West (printed p.
+125), Centre And Periphery (printed p. 107), Drought
+Kinds And Meaning (printed p. 98), Factors Of National
+Power (printed p. 149), Floods Why They Happen (printed
+p. 89), Geopolitics And Theories Of Power (printed p.
+142), Global Warming And Its Effects (printed p. 26),
+Inequality In The World Economy (printed p. 47; printed
+p. 102), Iran And Its Neighbours (printed p. 120), Iran
+And Sea Power (printed p. 147), Iran In Southwest Asia
+A Strategic Region (printed p. 129), Irans Neighbours
+Azerbaijan And Armenia (printed p. 66), Irans
+Neighbours Pakistan And Turkmenistan (printed p. 72),
+Lake Urmia A Shrinking Salt Lake (printed p. 60),
+Landslides And Mudflows (printed p. 94), Managing City
+And Village In Iran (printed p. 35), Managing Drought
+(printed p. 109), Managing Floods And Landslides
+(printed p. 104), Managing Hazards Before During After
+(printed p. 100), Natural Hazards What They Are
+(printed p. 81), Political Regions And The State
+(printed p. 116), Protecting Irans Habitats (printed p.
+64), Protecting Living Regions (printed p. 58),
+Recycling (printed p. 48), States Location Shape And
+Borders (printed p. 127), Taking Care Of The
+Environment (printed p. 94), The European Union A
+Geopolitical Region (printed p. 157), The Persian Gulf
+A Geopolitical Region (printed p. 154), Transport
+Safety (printed p. 64), War Blockade And Hunger
+(printed p. 94) — all 136 of the new lessons are taught
+in 1 country (Iran), 8 questions each; all stand on
+student books (Iran has no teacher guides in this
+wave).
+Geography lessons: 2034 → 2170.

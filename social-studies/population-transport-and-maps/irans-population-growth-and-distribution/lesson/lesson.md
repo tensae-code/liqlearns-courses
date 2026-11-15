@@ -1,0 +1,24 @@
+# Irans Population Growth And Distribution
+
+## Do it first
+
+Before you read on, say in your mind what you already think this is about: Lesson 5 Iran's population (جمعیت ایران): if those born outnumber those who die, population increases; our country's population is now over 80 million — compare the chart of Iran's population with the years past; the region of Tehran and around it is the most populous place in the country, Tehran being the capital with its opportunities; one cause of a region's population growing is migration (مهاجرت) — people going from one place to another to live or work — and some regions draw people by their good climate; Lesson 13 Iran's population (جمعیت ایران): population grows when those born in a time and place outnumber those who die; the Statistical Center of Iran (مرکز آمار ایران) holds the census (سرشماری); Iran's population density in 1400 (2021) was about 52 people per square kilometre — and how that density is worked out; the map of population distribution in Iran, and Tehran — the capital — with the towns around it the country's most populous and densest urban region — as Iran's book teaches it. Hold your idea; the lesson will test it.
+
+## Sub lesson 1 — Irans Population Growth And Distribution
+
+Iran's book, the *Iran Grade 5 Social Studies* (printed p. 24), teaches: Lesson 5 Iran's population (جمعیت ایران): if those born outnumber those who die, population increases; our country's population is now over 80 million — compare the chart of Iran's population with the years past; the region of Tehran and around it is the most populous place in the country, Tehran being the capital with its opportunities; one cause of a region's population growing is migration (مهاجرت) — people going from one place to another to live or work — and some regions draw people by their good climate. Iran's book, the *Iran Grade 7 Social Studies* (printed p. 74), teaches: Lesson 13 Iran's population (جمعیت ایران): population grows when those born in a time and place outnumber those who die; the Statistical Center of Iran (مرکز آمار ایران) holds the census (سرشماری); Iran's population density in 1400 (2021) was about 52 people per square kilometre — and how that density is worked out; the map of population distribution in Iran, and Tehran — the capital — with the towns around it the country's most populous and densest urban region. This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
+
+## Sub lesson 2 — Iran's way — the book's own teaching way
+
+Iran's own way (Iran Grade 5 Social Studies): a primary Social Studies book of 21 lessons in 5 chapters. The Geography parts placed below are Ch. 2 Our land (Lessons 5–9, printed pp. 24–50) and Ch. 3 Life in other regions of the world (Lessons 11–13, printed pp. 66–90). The other parts are named here, not placed: Civics — Ch. 1 Living with others (Lessons 1–4, printed pp. 1–23) and Ch. 2's Lesson 10, How is our country run? (printed p. 51); Religious journeys — Ch. 4 Pilgrimage to the holy places (Lessons 14–17, printed pp. 91–112: Return from the Hajj journey, Medina the Prophet's city, Journey to Karbala in two lessons); History — Ch. 5 Iran after Islam (Lessons 18–21, printed pp. 113–134).
+
+Iran's own way (Iran Grade 7 Social Studies): one combined Social Studies book of 24 lessons in 12 chapters. The Geography parts placed below are Ch. 5 Knowing our living environment (Lessons 9–10, printed pp. 43–56), Ch. 6 Protecting Iran's habitats (Lessons 11–12, printed pp. 57–72), Ch. 7 Population and resources (Lessons 13–14, printed pp. 73–88) and Ch. 8 Tourism in Iran (Lessons 15–16, printed pp. 89–102), plus the sectors part of Ch. 4. The other parts are named here, not placed: Civics — Ch. 1 Our rights and responsibilities (Lessons 1–2, printed pp. 1–12), Ch. 2 Law (Lessons 3–4, printed pp. 13–20), Ch. 3 Coping with incidents — empathy and insurance (Lessons 5–6, printed pp. 21–30); Economics — Ch. 4 Production, distribution, consumption (Lesson 8 Consumption, printed pp. 37–42; Lesson 7 placed above); History and Culture — Ch. 9 Our land, searching the distant past (Lessons 17–18, from printed p. 103), Ch. 10 Iran in ancient times (Lessons 19–20), Ch. 11 The coming of Islam to Iran and Islamic Iran (Lessons 21–22), and Ch. 12 Culture and art (Lessons 23–24) fill the rest of the book (printed pp. 103–178). This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
+
+## Say it to your companion
+
+Explain this lesson to your companion in your own words. Your companion asks you one hard question about it — answer from the lesson.
+
+## Do It Yourself
+
+1. The book's topic: do the activity in hands-on.md under this name.
+2. Iran's way: do the activity in hands-on.md under this name.

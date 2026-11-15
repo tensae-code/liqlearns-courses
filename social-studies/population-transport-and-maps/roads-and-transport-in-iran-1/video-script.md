@@ -1,0 +1,9 @@
+# Video script — Roads And Transport In Iran 1
+
+The super-simple voice, for the video that rides on top of the lesson (lesson-plan.md, add-on list). This script is full: the placements name a video-script need for this lesson. Made later, when videos are made; the script is the slot's written form until then.
+
+---
+
+Iran's book, the *Iran Grade 5 Social Studies* (printed p. 39), teaches: Lesson 8 Roads and transport (1) (راه‌ها و حمل و نقل ۱): have you thought what role roads play in our lives — which of people's needs do they meet?; activity: ask what people used for transport before the car was invented, and how those means differ from today's; in the big cities one of the means that carries people from place to place is the urban train (مترو), passing mostly under the ground and very fast; today people everywhere need agricultural products and industrial goods and each other; activity: look at a good's packaging, see where its factory is, and mark on the map the route the good travelled to reach your city or village; the map of the country's main land roads (نقشه‌ی راه‌های اصلی زمینی کشور); and road safety for drivers and passengers.
+
+Iran's own way (Iran Grade 5 Social Studies): a primary Social Studies book of 21 lessons in 5 chapters. The Geography parts placed below are Ch. 2 Our land (Lessons 5–9, printed pp. 24–50) and Ch. 3 Life in other regions of the world (Lessons 11–13, printed pp. 66–90). The other parts are named here, not placed: Civics — Ch. 1 Living with others (Lessons 1–4, printed pp. 1–23) and Ch. 2's Lesson 10, How is our country run? (printed p. 51); Religious journeys — Ch. 4 Pilgrimage to the holy places (Lessons 14–17, printed pp. 91–112: Return from the Hajj journey, Medina the Prophet's city, Journey to Karbala in two lessons); History — Ch. 5 Iran after Islam (Lessons 18–21, printed pp. 113–134).

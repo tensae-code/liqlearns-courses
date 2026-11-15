@@ -1,6 +1,6 @@
 # Sources — Tourism — selling the landscape
 
-countries: Ethiopia, Morocco, France, Nauru, Tuvalu, Guatemala, Ecuador, Jamaica, Indonesia, Egypt, Bahamas, Samoa, Zimbabwe, North Macedonia, United Kingdom, Cambodia, Fiji, Uzbekistan, Slovenia, Uganda, Sudan, Syria, Venezuela, Mauritania, Afghanistan
+countries: Ethiopia, Morocco, France, Nauru, Tuvalu, Guatemala, Ecuador, Jamaica, Indonesia, Egypt, Bahamas, Samoa, Zimbabwe, North Macedonia, United Kingdom, Cambodia, Fiji, Uzbekistan, Slovenia, Uganda, Sudan, Syria, Venezuela, Mauritania, Afghanistan, Iran
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -88,6 +88,8 @@ countries: Ethiopia, Morocco, France, Nauru, Tuvalu, Guatemala, Ecuador, Jamaica
 
 **Book 43:** *جغرافيه صنف ١١ (Geography, Grade 11)* (student book, Dari) — Ministry of Education, Afghanistan; year 1398 HS (2019/20) as printed; ISBN no ISBN printed. Title as printed: جغرافيه صنف ١١ (Geography, Grade 11). Grade: 11 (student/teacher: STUDENT). PDF pages: 194 (cover verified against the record title; 23,157,359 bytes = release asset size). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/afghanistan-placements.md.
 
+**Book 44:** *جغرافیای ایران (Geography of Iran) — for all branches (theoretical, technical-vocational, kardanesh)* (student book, Persian) — سازمان پژوهش و برنامه‌ریزی آموزشی (Organization for Educational Research and Planning), Ministry of Education; printed by شرکت چاپ و نشر کتاب‌های درسی ایران; year 1405 (11th printing); ISBN 978-964-05-2744-3; book code 110218. Title as printed: جغرافیای ایران (Geography of Iran) — for all branches (theoretical, technical-vocational, kardanesh). Grade: 10 (student/teacher: STUDENT). PDF pages: 120 (cover/title page verified against the record title; byte size 8,709,753 and page count 120 match the books.json record exactly; read from the record's own ministry source chap.sch.ir, the file the record was pushed from, because the GitHub API route was disconnected on repeated attempts). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iran-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The attractions | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 5, printed pp. 147–149 |
@@ -135,6 +137,7 @@ countries: Ethiopia, Morocco, France, Nauru, Tuvalu, Guatemala, Ecuador, Jamaica
 | Mauritania part — Unit 2 Lesson 11: tourism and industry in Mauritania | Mauritania, *Mauritania Grade 13 geo-7as-lm*, Unit 2 Lesson 11: tourism and industry in Mauritania — printed p. 69 |
 | Afghanistan part — Afghanistan Ch. 3 Lesson 23: tourism and its economic importance; the tourist regions of the country; tourism statistics | Afghanistan, *Afghanistan Grade 11 Geography (Dari)*, Afghanistan Ch. 3 Lesson 23: tourism and its economic importance; the tourist regions of the country; tourism statistics — printed p. 77 |
 | Afghanistan part — World Ch. 7 Lessons 50–51: tourism and its world importance; the important tourist regions and countries of the world; the sources of tourism attraction; the World Tourism Organization | Afghanistan, *Afghanistan Grade 11 Geography (Dari)*, World Ch. 7 Lessons 50–51: tourism and its world importance; the important tourist regions and countries of the world; the sources of tourism attraction; the World Tourism Organization — printed p. 173 |
+| Iran part — Iran's economic capacities (tourism as a service industry; rural tourism) | Iran, *Iran Grade 10 Geography of Iran*, Iran's economic capacities (tourism as a service industry; rural tourism) — printed p. 106 |
 
 | France part — Thème 3: Les mobilités touristiques internationales (étude de cas: la Méditerranée, un bassin touristique; surtourisme) | France, *Géographie 2de GT, Manuel Libre de Géographie, Seconde*, Grade 10, Sommaire Thème 3 |
 | Nauru part — Whale watching and swimming with whales as ecotourism (inside the Whales section) | Nauru, *People and the Sea in the Pacific*, Years 5–6, Whale watching and swimming with whales as ecotourism — printed p. 10 |
@@ -144,7 +147,7 @@ countries: Ethiopia, Morocco, France, Nauru, Tuvalu, Guatemala, Ecuador, Jamaica
 | Ecuador part — Atractivos turísticos | Ecuador, *Estudios Sociales 3ro EGB (SM 2016)*, Grade 3, Atractivos turísticos — printed p. 130 |
 | Indonesia part (Grade 11) — Bab 1 II.B Pariwisata berkelanjutan | Indonesia, *Geografi untuk SMA Kelas XI*, Grade 11, Bab 1 II.B Pariwisata berkelanjutan — printed p. 54 |
 
-**Acceptance count: taught in 22 countries (Ethiopia, France, Nauru, Tuvalu, Guatemala, Ecuador, Indonesia, Egypt, Bahamas, Samoa, North Macedonia, United Kingdom, Cambodia, Fiji, Uzbekistan, Slovenia, Uganda, Sudan, Syria, Venezuela, Mauritania, Afghanistan). Morocco is named in this file as teacher-guide evidence only, counted nowhere. Jamaica is named here as curriculum-guide evidence only, counted nowhere. Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 23 countries (Ethiopia, France, Nauru, Tuvalu, Guatemala, Ecuador, Indonesia, Egypt, Bahamas, Samoa, North Macedonia, United Kingdom, Cambodia, Fiji, Uzbekistan, Slovenia, Uganda, Sudan, Syria, Venezuela, Mauritania, Afghanistan, Iran). Morocco is named in this file as teacher-guide evidence only, counted nowhere. Jamaica is named here as curriculum-guide evidence only, counted nowhere. Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
 
 Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -247,3 +250,5 @@ Mauritania's own way (Mauritania Grade 5 geo-5af-m): The whole book is Mauritani
 Mauritania's own way (Mauritania Grade 13 geo-7as-lm): The final-year Letters book is an exam-facing synthesis: Mauritania's natural and human features and its economic activities in full (including the structural problems of the Mauritanian economy and a lesson on how to write a geography essay), then the Arab world and Africa as economic powers (oil and minerals as the lenses), closing with the two great powers — the American and Chinese economies, their foundations, features and problems.
 
 Afghanistan's own way (Afghanistan Grade 11 Geography (Dari)): an economic-geography year in two halves — first Afghanistan (farming and livestock, energy and mines, industries and trade), then the same themes for the world (water and farming, energy, mines and industries, trade and tourism), each Afghanistan chapter closing with a "review of the situation" lesson on the country's own state.
+
+Iran's own way (Iran Grade 10 Geography of Iran): the whole of Grade 10 geography is one national book — Iran's own natural and human geography for every branch; nearly every lesson closes with a "know your own living place" activity tied to the separate provincial-studies book, so national content is always re-applied to the learner's own province.

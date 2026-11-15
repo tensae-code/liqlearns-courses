@@ -1,6 +1,6 @@
 # Sources — Anatomy of a drainage basin
 
-countries: Ethiopia, Barbados, Dominican Republic, North Macedonia, Fiji, Slovenia, Uganda, Venezuela
+countries: Ethiopia, Barbados, Dominican Republic, North Macedonia, Fiji, Slovenia, Uganda, Venezuela, Iran
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). Editors: Sintayehu Teka (MSc) (Content Editor), Kassie Molla (MA) (Language Editor), Hirut Woldemichael (MA) (Curriculum Editor). Illustrator: Agenchw Nega (MSc). Designer: Geda Hoka (MA). Evaluators: Dereje Guteta (PhD), Tesfaye Shiferaw (PhD), Abebe Yibeltie (MA), Hussein Seid (MA). First published 2023 under GEQIP-E. ISBN 978-99990-0-049-9. Printed by Gravity Group IND LLC, 13th Industrial Area, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. Printed page = PDF page − 6 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Barbados, Dominican Republic, North Macedonia, Fiji, Sloven
 
 **Book 9:** *El espacio geográfico de Venezuela — Geografía, 3er Año* (student book, Spanish) — Ministerio del Poder Popular para la Educación / Colección Bicentenario; year 2014 (third edition, April 2014); ISBN 978-980-218-337-1. Title as printed: El espacio geográfico de Venezuela — Geografía, 3er Año. Grade: Grade 9 (3er Año de Educación Media) (student/teacher: STUDENT). PDF pages: 178 (printed pages run to 176, Bibliografía; cover/title page verified against the record title; release grab size-verified by grab.py). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/venezuela-placements.md.
 
+**Book 10:** *جغرافیای ایران (Geography of Iran) — for all branches (theoretical, technical-vocational, kardanesh)* (student book, Persian) — سازمان پژوهش و برنامه‌ریزی آموزشی (Organization for Educational Research and Planning), Ministry of Education; printed by شرکت چاپ و نشر کتاب‌های درسی ایران; year 1405 (11th printing); ISBN 978-964-05-2744-3; book code 110218. Title as printed: جغرافیای ایران (Geography of Iran) — for all branches (theoretical, technical-vocational, kardanesh). Grade: 10 (student/teacher: STUDENT). PDF pages: 120 (cover/title page verified against the record title; byte size 8,709,753 and page count 120 match the books.json record exactly; read from the record's own ministry source chap.sch.ir, the file the record was pushed from, because the GitHub API route was disconnected on repeated attempts). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iran-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — One basin, one outlet | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 3, printed pp. 58–59 |
@@ -33,8 +35,9 @@ countries: Ethiopia, Barbados, Dominican Republic, North Macedonia, Fiji, Sloven
 | Slovenia part — Površinske in podzemne vode: Porečje in njegove prvine (the drainage basin and its elements) | Slovenia, *Slovenia Grade 10 Geografija 1 (gimnazija)*, Površinske in podzemne vode: Porečje in njegove prvine (the drainage basin and its elements) — printed p. 158 |
 | Uganda part — Ch.8 Drainage in East Africa and its relation to landforms | Uganda, *Uganda Grade 8 UG S1 Geography Student*, Ch.8 Drainage in East Africa and its relation to landforms — printed p. 79 |
 | Venezuela part — El agua dulce que se encuentra con el mar: relief–hydrography relations and the Orinoco river | Venezuela, *Venezuela Grade 9 G9 Geography Venezuela*, El agua dulce que se encuentra con el mar: relief–hydrography relations and the Orinoco river — printed p. 162 |
+| Iran part — Iran's water resources (drainage basin — حوضه آبریز — and water-gathering centres where rivers are born) | Iran, *Iran Grade 10 Geography of Iran*, Iran's water resources (drainage basin — حوضه آبریز — and water-gathering centres where rivers are born) — printed p. 51 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Barbados, Dominican Republic, North Macedonia, Fiji, Slovenia, Uganda, Venezuela).**
+**Acceptance count: taught in 9 countries (Ethiopia, Barbados, Dominican Republic, North Macedonia, Fiji, Slovenia, Uganda, Venezuela, Iran).**
 
 Barbados's own way: this is the shared Caribbean CSEC examination textbook used in Barbados — every world process is re-taught through Caribbean case studies (the Caribbean plate, Montserrat's volcano, Jamaica's coasts and Kingston's urban problems, St Lucia's reefs, Bahamas/Jamaica/Puerto Rico karst, Guyana's rivers), map and field skills are folded into the chapters, and the course ends in a School-Based Assessment fieldwork project. That way is stocked here as the way Barbados teaches this thing; it does not change the acceptance count above.
 
@@ -53,3 +56,5 @@ Slovenia's own way (Slovenia Grade 10 Geografija 1 (gimnazija)): the gimnazija f
 Uganda's own way (Uganda Grade 8 UG S1 Geography Student): Competency-based lower-secondary course taught entirely through East Africa: every skill (maps, fieldwork, photographs) is practised on Ugandan/East African places (Tororo topographic map, Uganda lat/long map), and the physical half is East Africa's relief, landform formation, climate and vegetation rather than world coverage.
 
 Venezuela's own way (Venezuela Grade 9 G9 Geography Venezuela): a full national geography written as Geohistoria — every physical topic (position, climate, relief, hydrography) is paired with the historical stages that organised the same space (agrarian Venezuela, oil Venezuela, 21st-century Venezuela), and the Amazon rainforest closes the book as a defence-of-life argument.
+
+Iran's own way (Iran Grade 10 Geography of Iran): the whole of Grade 10 geography is one national book — Iran's own natural and human geography for every branch; nearly every lesson closes with a "know your own living place" activity tied to the separate provincial-studies book, so national content is always re-applied to the learner's own province.

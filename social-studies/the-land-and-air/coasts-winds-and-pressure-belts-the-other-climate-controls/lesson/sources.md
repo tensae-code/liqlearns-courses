@@ -1,6 +1,6 @@
 # Sources — Coasts, winds and pressure belts — the other climate controls
 
-countries: Ethiopia, Turkey, Dominican Republic, India, Cambodia, Fiji, Slovenia, Vietnam, Papua New Guinea, Mauritania
+countries: Ethiopia, Turkey, Dominican Republic, India, Cambodia, Fiji, Slovenia, Vietnam, Papua New Guinea, Mauritania, Iran
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -28,6 +28,8 @@ countries: Ethiopia, Turkey, Dominican Republic, India, Cambodia, Fiji, Slovenia
 
 **Book 13:** *Kitab al-Jughrafia lilsana al-Khamisa Adab 'Asriya (Geography Book, Fifth Year — Modern Letters)* (student book, Arabic) — Institut Pédagogique National (IPN), Mauritania; year no year printed on title page; ISBN no ISBN printed. Title as printed: Kitab al-Jughrafia lilsana al-Khamisa Adab 'Asriya (Geography Book, Fifth Year — Modern Letters). Grade: Grade 11 (5e année secondaire, lettres modernes) (student/teacher: STUDENT). PDF pages: 113 (cover/title page verified against the record title; the TSV tree record and the TSV release-asset record are the same book; fetched from the record's source URL docs.bsimr.com/pdfs/secondaire2s/GEO-5AS-LM.pdf, 3,217,391 bytes). Verdict: COMPLETE. The TSV tree record and the TSV release-asset record are the same book, counted once, as the placements file labels it. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mauritania-placements.md.
 
+**Book 14:** *جغرافیای ایران (Geography of Iran) — for all branches (theoretical, technical-vocational, kardanesh)* (student book, Persian) — سازمان پژوهش و برنامه‌ریزی آموزشی (Organization for Educational Research and Planning), Ministry of Education; printed by شرکت چاپ و نشر کتاب‌های درسی ایران; year 1405 (11th printing); ISBN 978-964-05-2744-3; book code 110218. Title as printed: جغرافیای ایران (Geography of Iran) — for all branches (theoretical, technical-vocational, kardanesh). Grade: 10 (student/teacher: STUDENT). PDF pages: 120 (cover/title page verified against the record title; byte size 8,709,753 and page count 120 match the books.json record exactly; read from the record's own ministry source chap.sch.ir, the file the record was pushed from, because the GitHub API route was disconnected on repeated attempts). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iran-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Land heats fast, water slowly | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 2, printed pp. 47–50 |
@@ -46,8 +48,9 @@ countries: Ethiopia, Turkey, Dominican Republic, India, Cambodia, Fiji, Slovenia
 | Mauritania part — Wind (incl. the clothes-line field test for wind strength and direction) | Mauritania, *Mauritania Grade 4 geo-4af-m*, Wind (incl. the clothes-line field test for wind strength and direction) — printed p. 21 |
 | Mauritania part — Axis 2 File 3: the winds (the three wind types over Mauritania) | Mauritania, *Mauritania Grade 5 geo-5af-m*, Axis 2 File 3: the winds (the three wind types over Mauritania) — printed p. 23 |
 | Mauritania part — Unit 2 Lesson 8: atmospheric pressure and winds | Mauritania, *Mauritania Grade 11 geo-5as-lm*, Unit 2 Lesson 8: atmospheric pressure and winds — printed p. 47 |
+| Iran part — Iran's climate (air masses entering Iran across the year; the wet western air mass) | Iran, *Iran Grade 10 Geography of Iran*, Iran's climate (air masses entering Iran across the year; the wet western air mass) — printed p. 40 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Turkey, Dominican Republic, India, Cambodia, Fiji, Slovenia, Vietnam, Mauritania). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 10 countries (Ethiopia, Turkey, Dominican Republic, India, Cambodia, Fiji, Slovenia, Vietnam, Mauritania, Iran). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
@@ -74,3 +77,5 @@ Mauritania's own way (Mauritania Grade 4 geo-4af-m): A one-topic-per-spread obse
 Mauritania's own way (Mauritania Grade 5 geo-5af-m): The whole book is Mauritania itself, in four "I get to know" axes: my country's location and borders, my country's climate, my society, my country's wealth. Climate is taught through the country's own three wind types and the effect of rain on where people, animals and plants live; farming includes the flood-recession farming of the Chamama plain after the Senegal River falls.
 
 Mauritania's own way (Mauritania Grade 11 geo-5as-lm): The senior Letters cycle re-runs physical geography at full depth in four units — Planet Earth, Climate, the Effects of Climate, the Earth (structure, erosion, coasts) — with a class project closing Units 1 and 4.
+
+Iran's own way (Iran Grade 10 Geography of Iran): the whole of Grade 10 geography is one national book — Iran's own natural and human geography for every branch; nearly every lesson closes with a "know your own living place" activity tied to the separate provincial-studies book, so national content is always re-applied to the learner's own province.

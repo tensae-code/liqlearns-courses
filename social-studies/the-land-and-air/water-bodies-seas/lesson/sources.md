@@ -1,6 +1,6 @@
 # Sources — Water Bodies — Seas
 
-countries: Ethiopia, Eritrea, Venezuela, Mauritania, Afghanistan
+countries: Ethiopia, Eritrea, Venezuela, Mauritania, Afghanistan, Iran
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Eritrea, Venezuela, Mauritania, Afghanistan
 
 **Book 10:** *دروس اجتماعی برای صنف چهارم (Social Studies for Grade 4)* (student book, Dari) — Ministry of Education, Afghanistan; year 1399 HS (2020/21) as printed; ISBN no ISBN printed. Title as printed: دروس اجتماعی برای صنف چهارم (Social Studies for Grade 4). Grade: 4 (student/teacher: STUDENT). PDF pages: 106 (cover verified against the record title; 21,005,872 bytes = release asset size). Verdict: COMPLETE — combined Social Studies book: Geography parts placed below; the family/school/civics parts are named here and NOT placed.. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/afghanistan-placements.md.
 
+**Book 11:** *جغرافیای ایران (Geography of Iran) — for all branches (theoretical, technical-vocational, kardanesh)* (student book, Persian) — سازمان پژوهش و برنامه‌ریزی آموزشی (Organization for Educational Research and Planning), Ministry of Education; printed by شرکت چاپ و نشر کتاب‌های درسی ایران; year 1405 (11th printing); ISBN 978-964-05-2744-3; book code 110218. Title as printed: جغرافیای ایران (Geography of Iran) — for all branches (theoretical, technical-vocational, kardanesh). Grade: 10 (student/teacher: STUDENT). PDF pages: 120 (cover/title page verified against the record title; byte size 8,709,753 and page count 120 match the books.json record exactly; read from the record's own ministry source chap.sch.ir, the file the record was pushed from, because the GitHub API route was disconnected on repeated attempts). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iran-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Smaller than an ocean, mostly land-ringed | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 6–7 |
@@ -36,8 +38,9 @@ countries: Ethiopia, Eritrea, Venezuela, Mauritania, Afghanistan
 | Afghanistan part — Ch. 1 Lessons 6–7: the seas and the gulfs of Africa | Afghanistan, *Afghanistan Grade 9 Geography (Dari)*, Ch. 1 Lessons 6–7: the seas and the gulfs of Africa — printed p. 17 |
 | Afghanistan part — Ch. 6 Lesson 52: the famous seas of the world | Afghanistan, *Afghanistan Grade 10 Geography (Dari)*, Ch. 6 Lesson 52: the famous seas of the world — printed p. 179 |
 | Afghanistan part — Lessons 42–44: the seas (oceans); the Pacific and Atlantic oceans; the Indian Ocean and the Arctic Ocean | Afghanistan, *Afghanistan Grade 4 Social Studies (Dari)*, Lessons 42–44: the seas (oceans); the Pacific and Atlantic oceans; the Indian Ocean and the Arctic Ocean — printed p. 83 |
+| Iran part — Iran's water resources (the seas and lakes of Iran: Caspian in the north, Persian Gulf and Sea of Oman in the south) | Iran, *Iran Grade 10 Geography of Iran*, Iran's water resources (the seas and lakes of Iran: Caspian in the north, Persian Gulf and Sea of Oman in the south) — printed p. 53 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Eritrea, Venezuela, Mauritania, Afghanistan).**
+**Acceptance count: taught in 6 countries (Ethiopia, Eritrea, Venezuela, Mauritania, Afghanistan, Iran).**
 
 Pairing warning: the Grade 8 teacher guide is an Addis Ababa bureau book and the student book is an Amhara bureau book; they are NOT edition-matched, and the guide in hand is truncated (printed pp. 1–47 only, Units 1–3). Pupil content in this lesson comes from the Amhara student book; anything from the guide is labelled (teacher guide — evidence) and never presented as pupil-taught.
 
@@ -58,3 +61,5 @@ Afghanistan's own way (Afghanistan Grade 9 Geography (Dari)): the continent marc
 Afghanistan's own way (Afghanistan Grade 10 Geography (Dari)): the upper-secondary pattern changes from continent tours to themes studied in depth through Afghanistan itself: a full map-skills chapter (map types, scale, colour, projection, satellite photos), Afghanistan's climate and each of its river basins one by one (Amu, Kabul, Helmand–Sistan, Harirud, the closed basins), an environment-protection chapter aimed at Kabul's air and streets, a natural-hazards chapter, then earth-and-space and atmosphere chapters.
 
 Afghanistan's own way (Afghanistan Grade 4 Social Studies (Dari)): primary social studies starts from the child's own world — family, village, city — and only then opens the map: directions, Afghanistan's boundaries and mountains and rivers, the continents and oceans, and finally the Earth's shape, equator, latitude/longitude and movements.
+
+Iran's own way (Iran Grade 10 Geography of Iran): the whole of Grade 10 geography is one national book — Iran's own natural and human geography for every branch; nearly every lesson closes with a "know your own living place" activity tied to the separate provincial-studies book, so national content is always re-applied to the learner's own province.

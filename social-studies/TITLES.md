@@ -103,7 +103,7 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **2034**
+Geography lessons across the eight Geography titles: **2170**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -1408,3 +1408,94 @@ Natural Environment, Protecting The Urban Environment,
 Protecting Water Soil And Air and Protecting Wildlife.
 (All 73 of the new lessons are taught in 1 country
 (Afghanistan); all stand on student books.)
+
++136 for Iran, 2026-11-15 — First Steps: Houses And How
+They Differ, How Geographers Study Places, My Address
+Where My House Is, My Neighbourhood, The Plan Of A
+House and Where I Live Places In My Country; Earth and
+Space: Earth In The Solar System, Earth Revolution And
+The Seasons, Earth Rotation Day Night And Time,
+Earthquake Belts And Scales, Latitude And Longitude
+Coordinates and Time Zones And Longitude; The Land and
+Air: Africa Natural And Human Features, Asia The
+Largest Continent, Asias Climates Wet And Dry, Asias
+Mountains Plateaus And Plains, Biomes And Ecosystems Of
+The World, Climate Regions Of The World, Coastal
+Regions Where Land Meets Sea, Factors In World
+Climates, Holistic View In Geography Seeing The Whole
+Place, How People Change The Land, Irans Climate
+Regions, Irans Climate Types And Its Great Deserts,
+Irans Landforms Mountains Plains And Deserts, Irans
+Mountains And Plains, Irans Mountains Plains And
+Lowlands, Irans Plants And Animals, Irans Position
+Borders And The Strait Of Hormuz, Irans Seas Caspian
+Gulf And Sea Of Oman, Irans Seas Caspian Persian Gulf
+And Oman, Mountain Regions And Their Protection,
+Southwest Asia Region, Southwest Asias Landforms And
+Climates, The Worlds Waters And The Continental Shelf,
+Weather Today And Climate, Weathering And Erosion In
+Mountains And Deserts and Young And Old Mountains;
+Population, Transport and Maps: Cars And The Changing
+Map, Gis At Work Siting A Service, Irans Country
+Divisions Provinces And Counties, Irans Population
+Growth And Distribution, Irans Settlements Villages
+Cities And Nomads, Managing City Transport, Map Of
+Irans Agricultural Products, Map Of Irans Seas And
+Ports, Networks Accessibility And Route Choice, People
+And Regions A Two Way Street, Photos Satellite Images
+And Globes, Reading A Simple Map Of My School, Reading
+Asias Population Map, Reading Topographic Maps
+Contours, Regions What They Are And How Geographers
+Draw Them, Remote Sensing For Geography And Hazards,
+Roads And Transport In Iran 1, Roads And Transport In
+Iran 2, The Map Of My Neighbourhood, The Settlement
+Hierarchy, Uses Of Coordinates And Gps, Using An Atlas
+and World Population Growth; People and Resources:
+Asias Economy Farming And Industry, Clothes From
+Production To Consumption, Commercial Grain Farming,
+Factors In Agriculture, Free Trade Zones, From
+Production To Consumption Bread, High Technology
+Industries, Irans Crops Wheat Rice And Greenhouses,
+Irans Industries Mother And Consumer, Irans Water And
+Soil Resources, Irans Water Resources Rivers And
+Springs, Living In The Highlands Nepal, Plantation
+Farming, Renewable Energy Wind And Atom, Resources What
+They Are, Rural Problems And Development, Sectors Of
+The Economy, Subsistence Farming and The Sea Gods
+Blessing Food Tourism And Care; Culture and Work: Asias
+Peoples Religions And Languages, Capitals Why There And
+Why They Move, City And Countryside Links, Cultural
+Diffusion How Culture Spreads, Cultural Regions Of The
+World, How Cities And Villages Are Run, How The First
+Cities Arose, How The First Villages Arose, Informal
+Settlements And Urban Poverty, Isfahan Half The World,
+Language Families And Languages In Danger, Life In City
+And Village, Life In Different Regions Of The World,
+Local Clothes Of Irans Regions, Religions Of The World
+And Sacred Places, Site And Situation Of Settlements,
+Southwest Asia Cradle Of Civilisation, The Islamic
+World As A Cultural Region, The Services Sector, The
+Sustainable City, Tourism Geography, Tourism In Iran
+and Urbanisation And The Worlds Cities; Resources and
+Conflict: Opec And Producer Cartels and Using Resources
+Properly Not Wasting; Global Issues: Biomes In Danger,
+Case Study Two Neighbours East And West, Centre And
+Periphery, Drought Kinds And Meaning, Factors Of
+National Power, Floods Why They Happen, Geopolitics And
+Theories Of Power, Global Warming And Its Effects,
+Inequality In The World Economy, Iran And Its
+Neighbours, Iran And Sea Power, Iran In Southwest Asia
+A Strategic Region, Irans Neighbours Azerbaijan And
+Armenia, Irans Neighbours Pakistan And Turkmenistan,
+Lake Urmia A Shrinking Salt Lake, Landslides And
+Mudflows, Managing City And Village In Iran, Managing
+Drought, Managing Floods And Landslides, Managing
+Hazards Before During After, Natural Hazards What They
+Are, Political Regions And The State, Protecting Irans
+Habitats, Protecting Living Regions, Recycling, States
+Location Shape And Borders, Taking Care Of The
+Environment, The European Union A Geopolitical Region,
+The Persian Gulf A Geopolitical Region, Transport
+Safety and War Blockade And Hunger.
+(All 136 of the new lessons are taught in 1 country
+(Iran); all stand on student books.)

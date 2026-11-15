@@ -1,0 +1,16 @@
+# Sources — Irans Landforms Mountains Plains And Deserts
+
+countries: Iran
+
+**Book 1:** *مطالعات اجتماعی ـ پایه هفتم دوره اول متوسطه (Social Studies, Grade 7, first secondary cycle)* (student book, Persian) — Ministry of Education, Organization for Educational Research and Planning (سازمان پژوهش و برنامه‌ریزی آموزشی); prepared by the Office for Compiling General and Theoretical Secondary Textbooks (دفتر تألیف کتاب‌های درسی عمومی و متوسطه نظری); printed by the Iran Textbook Printing and Publishing Company; 13th printing, 1405; book code 707 (matches the record's C707). Title as printed: مطالعات اجتماعی ـ پایه هفتم دوره اول متوسطه (Social Studies, Grade 7, first secondary cycle). Grade: 7 (student/teacher: STUDENT). PDF pages: 184 (printed pagination runs 6 behind the PDF pages: printed p. 2 = PDF p. 8; title page verified as above; read via the books.json record's own ministry source file at chap.sch.ir — same book, exact byte size and page count as the record — after the GitHub route failed). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — Lesson 10 Iran, our home (ایران، خانۀ ما): the landforms of Iran (اَشکال زمین در ایران) — not all of Iran is alike in height: the northern slopes of the Alborz facing the sea take heavy snow and rain and are covered in dense forest, the opposite slopes dry; the low and flat regions — plains (دشت‌ها) and lowlands (جلگه‌ها), and Iran's two vast deserts | Iran, *Iran Grade 7 Social Studies*, Lesson 10 Iran, our home (ایران، خانۀ ما): the landforms of Iran (اَشکال زمین در ایران) — not all of Iran is alike in height: the northern slopes of the Alborz facing the sea take heavy snow and rain and are covered in dense forest, the opposite slopes dry; the low and flat regions — plains (دشت‌ها) and lowlands (جلگه‌ها), and Iran's two vast deserts — printed p. 53 |
+| Sub lesson 2 — Iran's way — the book's own teaching way | Iran — the book's own way of teaching (see below) |
+
+**Acceptance count: taught in 1 country (Iran).**
+
+Iran's own way (Iran Grade 7 Social Studies): one combined Social Studies book of 24 lessons in 12 chapters. The Geography parts placed below are Ch. 5 Knowing our living environment (Lessons 9–10, printed pp. 43–56), Ch. 6 Protecting Iran's habitats (Lessons 11–12, printed pp. 57–72), Ch. 7 Population and resources (Lessons 13–14, printed pp. 73–88) and Ch. 8 Tourism in Iran (Lessons 15–16, printed pp. 89–102), plus the sectors part of Ch. 4. The other parts are named here, not placed: Civics — Ch. 1 Our rights and responsibilities (Lessons 1–2, printed pp. 1–12), Ch. 2 Law (Lessons 3–4, printed pp. 13–20), Ch. 3 Coping with incidents — empathy and insurance (Lessons 5–6, printed pp. 21–30); Economics — Ch. 4 Production, distribution, consumption (Lesson 8 Consumption, printed pp. 37–42; Lesson 7 placed above); History and Culture — Ch. 9 Our land, searching the distant past (Lessons 17–18, from printed p. 103), Ch. 10 Iran in ancient times (Lessons 19–20), Ch. 11 The coming of Islam to Iran and Islamic Iran (Lessons 21–22), and Ch. 12 Culture and art (Lessons 23–24) fill the rest of the book (printed pp. 103–178).
+
+Searchable tags: irans landforms mountains plains and deserts, Iran, social studies, the-land-and-air

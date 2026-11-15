@@ -1,0 +1,9 @@
+# Video script — Isfahan Half The World
+
+The super-simple voice, for the video that rides on top of the lesson (lesson-plan.md, add-on list). This script is full: the placements name a video-script need for this lesson. Made later, when videos are made; the script is the slot's written form until then.
+
+---
+
+Iran's book, the *Iran Grade 6 Social Studies* (printed p. 72), teaches: Lesson 11 Isfahan, half the world (اصفهان، نصف جهان): touring Isfahan — you and your friends have bought the map of the previous page: find on it and name the historical and sight-seeing places, the mosques, the bazaar; the importance of the city of Isfahan in the different periods of history; the Sheikh Lotfollah mosque, built by Shah Abbas's order; and the Ali Qapu palace, built in six floors with about fifty rooms, where Shah Abbas ran the affairs of state.
+
+Iran's own way (Iran Grade 6 Social Studies): a primary Social Studies book of 23 lessons in 12 chapters. The Geography parts placed below are Ch. 3 Agriculture in Iran (Lessons 5–6, printed pp. 31–44), Ch. 4 Iran and energy resources (Lessons 7–8, printed pp. 45–58), the Isfahan tour of Ch. 6 (Lesson 11, printed pp. 71–76), Ch. 8 Our clothing (Lessons 15–16, printed pp. 95–106), Ch. 9 Iran's seas (Lessons 17–18, printed pp. 107–118) and Ch. 10 Iran and its neighbours (Lesson 19 and the case study, printed pp. 119–130). The other parts are named here, not placed: Civics — Ch. 1 Our friends (Lessons 1–2, printed pp. 11–20), Ch. 2 Decision making (Lessons 3–4, printed pp. 21–30), Ch. 7 Free time (Lessons 13–14, printed pp. 83–94); History — Ch. 5 The progress of science and technique in the Islamic era (Lessons 9–10, printed pp. 59–70), Ch. 6 Lesson 12, Why culture and art flourished in the Safavid era (printed p. 77), Ch. 11 Standing against the foreigners (Lessons 20–21, printed pp. 131–140), Ch. 12 The liberation of Khorramshahr (Lessons 22–23, printed pp. 141–150).

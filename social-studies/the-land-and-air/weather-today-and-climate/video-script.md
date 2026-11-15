@@ -1,0 +1,9 @@
+# Video script — Weather Today And Climate
+
+The super-simple voice, for the video that rides on top of the lesson (lesson-plan.md, add-on list). This script is full: the placements name a video-script need for this lesson. Made later, when videos are made; the script is the slot's written form until then.
+
+---
+
+Iran's book, the *Iran Grade 4 Social Studies* (printed p. 79), teaches: Lesson 16 Weather (آب و هوا): how is the weather today — is it hot or cold, sunny or cloudy, does the wind blow or is the air calm?; air temperature and rainfall have the most important role in fixing a region's weather (climate); with what tools do we measure temperature and rainfall? — look at the thermometer: how many degrees is the air?; the tables of Yazd's average air temperature and its rainfall in the months of the year; worksheets: draw the temperature chart of Isfahan from its monthly table, and watch and record one week's weather in a table.
+
+Iran's own way (Iran Grade 4 Social Studies): a primary Social Studies book of 22 lessons in 6 chapters, working outward from the neighbourhood to the whole country. The Geography parts placed below are Ch. 1 Our neighbourhood (Lessons 2 and 4, printed pp. 5–23), Ch. 2 My city, my village (Lessons 5–7, printed pp. 24–37), Ch. 3 The arising of city and village (Lessons 8–9, printed pp. 38–46) and Ch. 5 My beautiful country (Lessons 15–19, printed pp. 74–98). The other parts are named here, not placed: Ch. 1 Lesson 1 Our neighbour (printed p. 2) and Lesson 3 Buying and selling in the neighbourhood (printed p. 10, Economics); Ch. 3 Lesson 10 How historians study the past (printed p. 47, History method); Ch. 4 A trip to the ancient cities (Lessons 11–14, printed pp. 51–70, History — Hamadan, Persepolis in two lessons, Kermanshah); Ch. 6 We are Iranians (Lessons 20–22, printed pp. 99–110, Civics — our national symbols, the calendar, important days).

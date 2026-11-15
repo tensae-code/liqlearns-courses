@@ -1,6 +1,6 @@
 # Sources — Doing geographical research
 
-countries: Ethiopia, Bangladesh, Samoa, Malaysia, Papua New Guinea, Uganda, Syria, Mauritania
+countries: Ethiopia, Bangladesh, Samoa, Malaysia, Papua New Guinea, Uganda, Syria, Mauritania, Iran
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -36,6 +36,8 @@ countries: Ethiopia, Bangladesh, Samoa, Malaysia, Papua New Guinea, Uganda, Syri
 
 **Book 17:** *Kitab al-Jughrafia lilsana al-Sabi'a Adab 'Asriya (Geography Book, Seventh Year — Modern Letters)* (student book, Arabic) — Institut Pédagogique National (IPN), Mauritania; year 2025; ISBN no ISBN printed. Title as printed: Kitab al-Jughrafia lilsana al-Sabi'a Adab 'Asriya (Geography Book, Seventh Year — Modern Letters). Grade: Grade 13 (7e année secondaire, lettres modernes) (student/teacher: STUDENT). PDF pages: 120 (cover/title page verified against the record title; fetched from the record's source URL docs.bsimr.com/pdfs/secondaire2s/GEO-7AS-LM.pdf, 26,994,755 bytes). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mauritania-placements.md.
 
+**Book 18:** *جغرافیای ایران (Geography of Iran) — for all branches (theoretical, technical-vocational, kardanesh)* (student book, Persian) — سازمان پژوهش و برنامه‌ریزی آموزشی (Organization for Educational Research and Planning), Ministry of Education; printed by شرکت چاپ و نشر کتاب‌های درسی ایران; year 1405 (11th printing); ISBN 978-964-05-2744-3; book code 110218. Title as printed: جغرافیای ایران (Geography of Iran) — for all branches (theoretical, technical-vocational, kardanesh). Grade: 10 (student/teacher: STUDENT). PDF pages: 120 (cover/title page verified against the record title; byte size 8,709,753 and page count 120 match the books.json record exactly; read from the record's own ministry source chap.sch.ir, the file the record was pushed from, because the GitHub API route was disconnected on repeated attempts). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iran-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Research — the deepest possible look | G12 student #81, printed pp. 217–222 |
@@ -56,8 +58,9 @@ countries: Ethiopia, Bangladesh, Samoa, Malaysia, Papua New Guinea, Uganda, Syri
 | Syria part — Student-designed geography information, teacher-designed lesson and end-of-semester project (Semester 2 research/project strand) | Syria, *Syria Grade 7 Geography G7 عالم الجغرافية*, Student-designed geography information, teacher-designed lesson and end-of-semester project (Semester 2 research/project strand) — printed p. 148 |
 | Mauritania part — Unit 4 class project (planned, carried out and presented across the unit) | Mauritania, *Mauritania Grade 11 geo-5as-lm*, Unit 4 class project (planned, carried out and presented across the unit) — printed p. 110 |
 | Mauritania part — Unit 1 Lesson 7: methodology for writing an essay in geography | Mauritania, *Mauritania Grade 13 geo-7as-lm*, Unit 1 Lesson 7: methodology for writing an essay in geography — printed p. 40 |
+| Iran part — Method of study and research in geography (the research steps) | Iran, *Iran Grade 10 Geography of Iran*, Method of study and research in geography (the research steps) — printed p. 8 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Bangladesh, Samoa, Malaysia, Uganda, Syria, Mauritania). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 8 countries (Ethiopia, Bangladesh, Samoa, Malaysia, Uganda, Syria, Mauritania, Iran). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Pairing honesty: the 2023 student book's own teacher guide is still unsecured; the secured Grade 12 teacher guide is the 2010–11 edition for a different student book (see the action-research lesson's sources). No teacher evidence is claimed for this lesson.
 
@@ -94,3 +97,5 @@ Syria's own way (Syria Grade 7 Geography G7 عالم الجغرافية): a pure
 Mauritania's own way (Mauritania Grade 11 geo-5as-lm): The senior Letters cycle re-runs physical geography at full depth in four units — Planet Earth, Climate, the Effects of Climate, the Earth (structure, erosion, coasts) — with a class project closing Units 1 and 4.
 
 Mauritania's own way (Mauritania Grade 13 geo-7as-lm): The final-year Letters book is an exam-facing synthesis: Mauritania's natural and human features and its economic activities in full (including the structural problems of the Mauritanian economy and a lesson on how to write a geography essay), then the Arab world and Africa as economic powers (oil and minerals as the lenses), closing with the two great powers — the American and Chinese economies, their foundations, features and problems.
+
+Iran's own way (Iran Grade 10 Geography of Iran): the whole of Grade 10 geography is one national book — Iran's own natural and human geography for every branch; nearly every lesson closes with a "know your own living place" activity tied to the separate provincial-studies book, so national content is always re-applied to the learner's own province.

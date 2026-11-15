@@ -1,6 +1,6 @@
 # Sources — Physical geography — the nature side
 
-countries: Ethiopia, Turkey, Dominican Republic, Slovenia, Uganda, Mauritania
+countries: Ethiopia, Turkey, Dominican Republic, Slovenia, Uganda, Mauritania, Iran
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Turkey, Dominican Republic, Slovenia, Uganda, Mauritania
 
 **Book 7:** *Kitab al-Jughrafia lilsana al-Thaniya min al-Ta'lim al-I'dadi (Geography Book, Second Year of Preparatory Education)* (student book, Arabic) — Institut Pédagogique National (IPN), Mauritania; year no year printed on title page; ISBN no ISBN printed. Title as printed: Kitab al-Jughrafia lilsana al-Thaniya min al-Ta'lim al-I'dadi (Geography Book, Second Year of Preparatory Education). Grade: Grade 8 (2e année secondaire) (student/teacher: STUDENT). PDF pages: 92 (cover/title page verified against the record title; fetched from the record's source URL docs.bsimr.com/pdfs/secondaire1s/GEO-2AS-M.pdf, 10,434,179 bytes). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mauritania-placements.md.
 
+**Book 8:** *جغرافیای ایران (Geography of Iran) — for all branches (theoretical, technical-vocational, kardanesh)* (student book, Persian) — سازمان پژوهش و برنامه‌ریزی آموزشی (Organization for Educational Research and Planning), Ministry of Education; printed by شرکت چاپ و نشر کتاب‌های درسی ایران; year 1405 (11th printing); ISBN 978-964-05-2744-3; book code 110218. Title as printed: جغرافیای ایران (Geography of Iran) — for all branches (theoretical, technical-vocational, kardanesh). Grade: 10 (student/teacher: STUDENT). PDF pages: 120 (cover/title page verified against the record title; byte size 8,709,753 and page count 120 match the books.json record exactly; read from the record's own ministry source chap.sch.ir, the file the record was pushed from, because the GitHub API route was disconnected on repeated attempts). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iran-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The nature side | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 1, printed pp. 6–7 |
@@ -26,8 +28,9 @@ countries: Ethiopia, Turkey, Dominican Republic, Slovenia, Uganda, Mauritania
 | Slovenia part — Delitev geografije (the division of geography) inside Geografija kot znanost | Slovenia, *Slovenia Grade 10 Geografija 1 (gimnazija)*, Delitev geografije (the division of geography) inside Geografija kot znanost — printed p. 1 |
 | Uganda part — Ch.1 Branches of Geography: physical geography | Uganda, *Uganda Grade 8 UG S1 Geography Student*, Ch.1 Branches of Geography: physical geography — printed p. 3 |
 | Mauritania part — Unit 1 Lesson 1: concepts in physical geography | Mauritania, *Mauritania Grade 8 geo-2as-m*, Unit 1 Lesson 1: concepts in physical geography — printed p. 9 |
+| Iran part — Geography, a science for a better life (branches of geography diagram: hydrology, climatology, geomorphology, biogeography) | Iran, *Iran Grade 10 Geography of Iran*, Geography, a science for a better life (branches of geography diagram: hydrology, climatology, geomorphology, biogeography) — printed p. 3 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Turkey, Dominican Republic, Slovenia, Uganda, Mauritania).**
+**Acceptance count: taught in 7 countries (Ethiopia, Turkey, Dominican Republic, Slovenia, Uganda, Mauritania, Iran).**
 
 Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
@@ -40,3 +43,5 @@ Slovenia's own way (Slovenia Grade 10 Geografija 1 (gimnazija)): the gimnazija f
 Uganda's own way (Uganda Grade 8 UG S1 Geography Student): Competency-based lower-secondary course taught entirely through East Africa: every skill (maps, fieldwork, photographs) is practised on Ugandan/East African places (Tororo topographic map, Uganda lat/long map), and the physical half is East Africa's relief, landform formation, climate and vegetation rather than world coverage.
 
 Mauritania's own way (Mauritania Grade 8 geo-2as-m): A world-regional year: one unit of concepts (physical, human, economic geography), one unit walking the five inhabited continents by their natural and human features, and one unit of paired-country economic case studies (Egypt/South Africa, Brazil/Canada, India/Japan, Spain/Germany, Australia/New Zealand).
+
+Iran's own way (Iran Grade 10 Geography of Iran): the whole of Grade 10 geography is one national book — Iran's own natural and human geography for every branch; nearly every lesson closes with a "know your own living place" activity tied to the separate provincial-studies book, so national content is always re-applied to the learner's own province.

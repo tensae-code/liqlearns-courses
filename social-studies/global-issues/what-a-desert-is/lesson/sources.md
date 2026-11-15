@@ -1,6 +1,6 @@
 # Sources — What a Desert Is
 
-countries: Ethiopia, Colombia, India, United Kingdom, Cambodia, Uzbekistan, Sri Lanka
+countries: Ethiopia, Colombia, India, United Kingdom, Cambodia, Uzbekistan, Sri Lanka, Iran
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (placement 107).
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Colombia, India, United Kingdom, Cambodia, Uzbekistan, Sri 
 
 **Book 8:** *Geography, Grade 8* (student book, English) — Educational Publications Department; first print 2016, fourth print 2019; ISBN 978-955-25-0136-4. Title as printed: Geography, Grade 8. Grade: 8 (student/teacher: STUDENT). PDF pages: printed pp. 1–62 plus front matter (cover/title and contents verified against the record; GitHub grab failed with RemoteDisconnected, so the book was read in full via the record's archive.org source PDF — the same Educational Publications Department edition). Verdict: COMPLETE. Parallel edition named in the placements file: the Tamil student book (Book 3a, 2016), same four units, with a Tamil–English–Sinhala glossary — placed once under this English edition, that edition named here. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sri-lanka-placements.md.
 
+**Book 9:** *جغرافیا (۲) جغرافیای ناحیه‌ای ـ پایه یازدهم دوره دوم متوسطه (Geography (2): Regional Geography, Grade 11 of the second secondary cycle)* (student book, Persian) — Ministry of Education, Organization for Educational Research and Planning (سازمان پژوهش و برنامه‌ریزی آموزشی); printed by the Iran Textbook Printing and Publishing Company (شرکت چاپ و نشر کتاب‌های درسی ایران); ISBN 978-964-05-2800-6; book code 111218 (matches the record's C111218). Title as printed: جغرافیا (۲) جغرافیای ناحیه‌ای ـ پایه یازدهم دوره دوم متوسطه (Geography (2): Regional Geography, Grade 11 of the second secondary cycle). Grade: 11 (student/teacher: STUDENT). PDF pages: 176 (printed pagination runs 8 behind the PDF pages: printed p. 1 = PDF p. 9; title page verified as above; read via the books.json record's own ministry source file at chap.sch.ir — same book, exact byte size and page count as the record — after the GitHub route failed). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iran-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Rain, not heat: a desert as under 250 mm of rain a year; about a third of the Earth's land is desert | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 7, printed pp. 145–147 |
@@ -30,8 +32,9 @@ countries: Ethiopia, Colombia, India, United Kingdom, Cambodia, Uzbekistan, Sri 
 | Cambodia part — Geography Ch.2 L1 ប្រជាជនក្នុងតំបន់វាលលំហក្តៅ (people in the hot deserts — world desert map) | Cambodia, *Cambodia Grade 7 Social Studies*, Geography Ch.2 L1 ប្រជាជនក្នុងតំបន់វាលលំហក្តៅ (people in the hot deserts — world desert map) — printed p. 28 |
 | Uzbekistan part — §25 Africa: tropical deserts and subtropics | Uzbekistan, *Uzbekistan Grade 6 Geografiya (Soatov & Abdulqosimov)*, §25 Africa: tropical deserts and subtropics — printed p. 67 |
 | Sri Lanka part — Unit 3 Landscape VI — Desert: the Thar desert — sand sheets, <250 mm rain, oases and deep wells, camel transport, desert expansion | Sri Lanka, *Sri Lanka Grade 8 G8 English*, Unit 3 Landscape VI — Desert: the Thar desert — sand sheets, <250 mm rain, oases and deep wells, camel transport, desert expansion — printed p. 45 |
+| Iran part — Lesson 3: Deserts (بیابان‌ها) — in Köppen's division the dry group B; most of Iran is dry and desert; a desert is defined by two marks, little rainfall and high evaporation; the causes that make deserts (a region lacking rising air or moist air); group task: research the climate of a world desert (Lut, the Sahara, the Gobi) or Antarctica | Iran, *Iran Grade 11 Geography (2)*, Lesson 3: Deserts (بیابان‌ها) — in Köppen's division the dry group B; most of Iran is dry and desert; a desert is defined by two marks, little rainfall and high evaporation; the causes that make deserts (a region lacking rising air or moist air); group task: research the climate of a world desert (Lut, the Sahara, the Gobi) or Antarctica — printed p. 32 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Colombia, India, United Kingdom, Cambodia, Uzbekistan, Sri Lanka).**
+**Acceptance count: taught in 8 countries (Ethiopia, Colombia, India, United Kingdom, Cambodia, Uzbekistan, Sri Lanka, Iran).**
 
 Book error taught corrected: the book's list of the four desert types is numbered 1, 2, 2, 3 as printed; the lesson teaches the four types as a clean list of four and names the misprint here. The rainfall, area and table figures are the book's own figures as printed, including its UN-era table. There is NO Grade 8 teacher-guide coverage for Chapter 7: the Grade 8 guide in hand holds only Units 1–3, so no teacher evidence is claimed for any Grade 8 part of this lesson.
 
@@ -50,3 +53,5 @@ Cambodia's own way (Cambodia Grade 7 Social Studies): from Grade 7 the combined 
 Uzbekistan's own way (Uzbekistan Grade 6 Geografiya): Geography in Grade 6 is the physical geography of continents and oceans in the Russian/Soviet textbook tradition — first the Earth's geographic envelope and the World Ocean, then every continent in a fixed order (position, geological structure and relief, climate, inland waters, natural zones, population), closing with the population of the Earth and the political map of the world; nearly every chapter ends in a practical work.
 
 Sri Lanka's own way (Sri Lanka Grade 8 G8 English): a four-unit arc — Solar System, Earth's uniqueness, then regional geography taught as six South Asian "landscapes" (mountain, valley, coastal, rural, industrial-urban, desert), closing with Sri Lanka's own 1:50,000 topographic-sheet system (92 sheets) that Grade 9 continues.
+
+Iran's own way (Iran Grade 11 Geography (2)): the whole book is built on one organising idea — the region (ناحیه). Four chapters divide the world into regions four ways: what a region is, natural regions (climate, landforms, living, coasts, mountains — with Nepal as the highland case study), human regions (cultural, economic), and political regions (the state, borders, geopolitics — with the Persian Gulf and the European Union as case studies).

@@ -1,0 +1,19 @@
+# Roads And Transport In Iran 1 — multiple choice
+
+Pick the one right answer.
+
+**1. (Sub lesson 1)** The first part of this lesson is —
+a) Roads And Transport In Iran 1  b) learning the alphabet  c) counting to ten
+**Answer: a) Roads And Transport In Iran 1**
+
+**2. (Sub lesson 1)** This lesson is mainly about —
+a) Lesson 8 Roads and transport (1) (راه‌ها و حمل و نقل ۱): have you thought what role roads play in our lives — which of people's needs do they meet?; activity: ask what people used for transport before the car was invented, and how those means differ from today's; in the big cities one of the means that carries people from place to place is the urban train (مترو), passing mostly under the ground and very fast; today people everywhere need agricultural products and industrial goods and each other; activity: look at a good's packaging, see where its factory is, and mark on the map the route the good travelled to reach your city or village; the map of the country's main land roads (نقشه‌ی راه‌های اصلی زمینی کشور); and road safety for drivers and passengers  b) ancient kings only  c) the Moon's phases
+**Answer: a) Lesson 8 Roads and transport (1) (راه‌ها و حمل و نقل ۱): have you thought what role roads play in our lives — which of people's needs do they meet?; activity: ask what people used for transport before the car was invented, and how those means differ from today's; in the big cities one of the means that carries people from place to place is the urban train (مترو), passing mostly under the ground and very fast; today people everywhere need agricultural products and industrial goods and each other; activity: look at a good's packaging, see where its factory is, and mark on the map the route the good travelled to reach your city or village; the map of the country's main land roads (نقشه‌ی راه‌های اصلی زمینی کشور); and road safety for drivers and passengers**
+
+**3. (Sub lesson 2)** The second part of this lesson is —
+a) Iran's way — the book's own teaching way  b) learning to swim  c) telling the time
+**Answer: a) Iran's way — the book's own teaching way**
+
+**4. (Sub lesson 2)** Which of these is true, from the lesson?
+a) This lesson teaches Lesson 8 Roads and transport (1) (راه‌ها و حمل و نقل ۱): have you thought what role roads play in our lives — which of people's needs do they meet?; activity: ask what people used for transport before the car was invented, and how those means differ from today's; in the big cities one of the means that carries people from place to place is the urban train (مترو), passing mostly under the ground and very fast; today people everywhere need agricultural products and industrial goods and each other; activity: look at a good's packaging, see where its factory is, and mark on the map the route the good travelled to reach your city or village; the map of the country's main land roads (نقشه‌ی راه‌های اصلی زمینی کشور); and road safety for drivers and passengers.  b) Iran's book never studies this thing.  c) This lesson teaches nothing about its topic
+**Answer: a) This lesson teaches Lesson 8 Roads and transport (1) (راه‌ها و حمل و نقل ۱): have you thought what role roads play in our lives — which of people's needs do they meet?; activity: ask what people used for transport before the car was invented, and how those means differ from today's; in the big cities one of the means that carries people from place to place is the urban train (مترو), passing mostly under the ground and very fast; today people everywhere need agricultural products and industrial goods and each other; activity: look at a good's packaging, see where its factory is, and mark on the map the route the good travelled to reach your city or village; the map of the country's main land roads (نقشه‌ی راه‌های اصلی زمینی کشور); and road safety for drivers and passengers.**

@@ -1,6 +1,6 @@
 # Sources — Rural settlement patterns
 
-countries: Ethiopia, Turkey, Haiti, Palestine, Bangladesh, Indonesia, Malaysia, Eritrea, India, Cambodia, Fiji, Slovenia, Papua New Guinea, Uganda, Syria, Venezuela, Sri Lanka, Mauritania, Afghanistan
+countries: Ethiopia, Turkey, Haiti, Palestine, Bangladesh, Indonesia, Malaysia, Eritrea, India, Cambodia, Fiji, Slovenia, Papua New Guinea, Uganda, Syria, Venezuela, Sri Lanka, Mauritania, Afghanistan, Iran
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -48,6 +48,8 @@ countries: Ethiopia, Turkey, Haiti, Palestine, Bangladesh, Indonesia, Malaysia, 
 
 **Book 23:** *دروس اجتماعی برای صنف چهارم (Social Studies for Grade 4)* (student book, Dari) — Ministry of Education, Afghanistan; year 1399 HS (2020/21) as printed; ISBN no ISBN printed. Title as printed: دروس اجتماعی برای صنف چهارم (Social Studies for Grade 4). Grade: 4 (student/teacher: STUDENT). PDF pages: 106 (cover verified against the record title; 21,005,872 bytes = release asset size). Verdict: COMPLETE — combined Social Studies book: Geography parts placed below; the family/school/civics parts are named here and NOT placed.. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/afghanistan-placements.md.
 
+**Book 24:** *جغرافیای ایران (Geography of Iran) — for all branches (theoretical, technical-vocational, kardanesh)* (student book, Persian) — سازمان پژوهش و برنامه‌ریزی آموزشی (Organization for Educational Research and Planning), Ministry of Education; printed by شرکت چاپ و نشر کتاب‌های درسی ایران; year 1405 (11th printing); ISBN 978-964-05-2744-3; book code 110218. Title as printed: جغرافیای ایران (Geography of Iran) — for all branches (theoretical, technical-vocational, kardanesh). Grade: 10 (student/teacher: STUDENT). PDF pages: 120 (cover/title page verified against the record title; byte size 8,709,753 and page count 120 match the books.json record exactly; read from the record's own ministry source chap.sch.ir, the file the record was pushed from, because the GitHub API route was disconnected on repeated attempts). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iran-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The three patterns | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 4, printed pp. 104–107 |
@@ -74,8 +76,9 @@ countries: Ethiopia, Turkey, Haiti, Palestine, Bangladesh, Indonesia, Malaysia, 
 | Sri Lanka part — Ch. 2 Settlements of Sri Lanka: rural (tank and fishing villages), urban and "rurban" settlements | Sri Lanka, *Sri Lanka Grade 9 G9 English*, Ch. 2 Settlements of Sri Lanka: rural (tank and fishing villages), urban and "rurban" settlements — printed p. 54 |
 | Mauritania part — My village | Mauritania, *Mauritania Grade 4 geo-4af-m*, My village — printed p. 34 |
 | Afghanistan part — Lesson 10: life in the village | Afghanistan, *Afghanistan Grade 4 Social Studies (Dari)*, Lesson 10: life in the village — printed p. 19 |
+| Iran part — Iran's settlements (forms of rural settlement: concentrated and dispersed villages) | Iran, *Iran Grade 10 Geography of Iran*, Iran's settlements (forms of rural settlement: concentrated and dispersed villages) — printed p. 90 |
 
-**Acceptance count: taught in 17 countries (Ethiopia, Turkey, Palestine, Bangladesh, Indonesia, Malaysia, Eritrea, India, Cambodia, Fiji, Slovenia, Uganda, Syria, Venezuela, Sri Lanka, Mauritania, Afghanistan). Haiti is named here as teacher-sequence evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 18 countries (Ethiopia, Turkey, Palestine, Bangladesh, Indonesia, Malaysia, Eritrea, India, Cambodia, Fiji, Slovenia, Uganda, Syria, Venezuela, Sri Lanka, Mauritania, Afghanistan, Iran). Haiti is named here as teacher-sequence evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Indonesia's own way (Grade 12): Grade 12 is applied human geography built entirely on Indonesian cases — regional development and spatial planning (tata ruang) measured against a Happiness Index, Industry 4.0 / Society 5.0, and Indonesia's own geopolitics and ASEAN-era cooperation as pillars of national resilience. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -120,3 +123,5 @@ Sri Lanka's own way (Sri Lanka Grade 9 G9 English): the student companion to Boo
 Mauritania's own way (Mauritania Grade 4 geo-4af-m): A one-topic-per-spread observation book that moves from the child's own wilaya outward: the wilaya map first, then the landforms of home (watercourses, mountains, plains, plateaus, sand dunes), the weather elements and the two measuring instruments (thermometer, rain gauge), then the lived place — public places, archaeological sites, street names, my village, the capital of my wilaya — closing with integration exercises on the relief and climate of the wilaya capital.
 
 Afghanistan's own way (Afghanistan Grade 4 Social Studies (Dari)): primary social studies starts from the child's own world — family, village, city — and only then opens the map: directions, Afghanistan's boundaries and mountains and rivers, the continents and oceans, and finally the Earth's shape, equator, latitude/longitude and movements.
+
+Iran's own way (Iran Grade 10 Geography of Iran): the whole of Grade 10 geography is one national book — Iran's own natural and human geography for every branch; nearly every lesson closes with a "know your own living place" activity tied to the separate provincial-studies book, so national content is always re-applied to the learner's own province.

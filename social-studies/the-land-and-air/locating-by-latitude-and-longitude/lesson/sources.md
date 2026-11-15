@@ -1,6 +1,6 @@
 # Sources — Locating by latitude and longitude
 
-countries: Ethiopia, Bahamas, Venezuela
+countries: Ethiopia, Bahamas, Venezuela, Iran
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Bahamas, Venezuela
 
 **Book 4:** *El espacio geográfico de la Humanidad — Ciencias Sociales, 1er Año* (student book, Spanish) — Ministerio del Poder Popular para la Educación / Colección Bicentenario (co-edition with Ministerio de Cultura, Fundación Editorial El perro y la rana); year 2014 (third edition, April 2014); ISBN 978-980-218-334-0. Title as printed: El espacio geográfico de la Humanidad — Ciencias Sociales, 1er Año. Grade: Grade 7 (1er Año de Educación Media) (student/teacher: STUDENT). PDF pages: 162 (cover/title page verified against the record title; byte size 88,531,252 matches the books.json record; read in place in phase3-staging). Verdict: COMPLETE. (Combined book — Geography parts placed below; parts named, not placed — History/Civics parts named, not placed: none — this is a pure Geography book; historical material (Caracas 1936/1966, Bolívar's unity ideal) is used inside Geography chapters.) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/venezuela-placements.md.
 
+**Book 5:** *جغرافیای ایران (Geography of Iran) — for all branches (theoretical, technical-vocational, kardanesh)* (student book, Persian) — سازمان پژوهش و برنامه‌ریزی آموزشی (Organization for Educational Research and Planning), Ministry of Education; printed by شرکت چاپ و نشر کتاب‌های درسی ایران; year 1405 (11th printing); ISBN 978-964-05-2744-3; book code 110218. Title as printed: جغرافیای ایران (Geography of Iran) — for all branches (theoretical, technical-vocational, kardanesh). Grade: 10 (student/teacher: STUDENT). PDF pages: 120 (cover/title page verified against the record title; byte size 8,709,753 and page count 120 match the books.json record exactly; read from the record's own ministry source chap.sch.ir, the file the record was pushed from, because the GitHub API route was disconnected on repeated attempts). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iran-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Parallels and meridians | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 8, printed pp. 210–212 |
@@ -17,11 +19,14 @@ countries: Ethiopia, Bahamas, Venezuela
 | Teaching pattern and answer keys (teacher guide — evidence) — Grade 9 Unit 8 | Ethiopia, *Geography, Teacher Guide, Grade 9*, Unit 8, guide printed pp. 231–260 |
 | Bahamas part (Grade 4) — South Eastern Islands: lines of latitude and longitude locate places; The Bahamas lies between latitude 20°N and 28°N and longitude 72°W and 80°W | Bahamas, *Bahamas Primary Social Studies — Digital Textbook, Grade 4*, Grade 4, South Eastern Islands: lines of latitude and longitude locate places; The Bahamas lies between latitude 20°N and 28°N and longitude 72°W and 80°W — PDF p. 6 |
 | Venezuela part — ¿Cómo me oriento…?: locating facts and risk situations in geographic space | Venezuela, *Venezuela Grade 7 G7 Geography Humanidad*, ¿Cómo me oriento…?: locating facts and risk situations in geographic space — printed p. 44 |
+| Iran part — Geographical position of Iran (finding Iran's coordinates on the map, activity) | Iran, *Iran Grade 10 Geography of Iran*, Geographical position of Iran (finding Iran's coordinates on the map, activity) — printed p. 15 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Bahamas, Venezuela).**
+**Acceptance count: taught in 4 countries (Ethiopia, Bahamas, Venezuela, Iran).**
 
 Searchable tags: latitude, longitude, graticule, parallels, meridians, point C, social studies
 
 Bahamas' own way (Grade 4): From Grade 4 the format changes: instead of the integrated Social Science reader, the child gets a one-topic-per-page infographic textbook keyed spread-by-spread to the Primary Social Studies Curriculum 2022–2027 — Bahamian culture first, then the peoples who settled the islands, then the islands' own geography (southeastern islands, the Bahama Banks, island resources, tourism, transport), closing with leaders, laws, festivals and the bush plants of The Bahamas.
 
 Venezuela's own way (Venezuela Grade 7 G7 Geography Humanidad): a Geohistoria (Ramón Tovar) approach — geographic space is always explained through the historical conditions that built it; every chapter opens with a literary epigraph, works through "Entérate / Entretejiendo saberes / Indagando" boxes, and keeps returning to the learner's own community and to Caracas as the worked example.
+
+Iran's own way (Iran Grade 10 Geography of Iran): the whole of Grade 10 geography is one national book — Iran's own natural and human geography for every branch; nearly every lesson closes with a "know your own living place" activity tied to the separate provincial-studies book, so national content is always re-applied to the learner's own province.

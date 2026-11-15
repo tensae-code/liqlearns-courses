@@ -1,6 +1,6 @@
 # Sources — Primary activities — mining
 
-countries: Ethiopia, Bolivia, Angola, Turkmenistan, Indonesia, Samoa, India, Cambodia, Slovenia, Papua New Guinea, Uganda, Sudan, Mauritania
+countries: Ethiopia, Bolivia, Angola, Turkmenistan, Indonesia, Samoa, India, Cambodia, Slovenia, Papua New Guinea, Uganda, Sudan, Mauritania, Iran
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 2 — Population Studies and Socio-Economic Activities, printed pp. 44–76).
 
@@ -48,6 +48,8 @@ countries: Ethiopia, Bolivia, Angola, Turkmenistan, Indonesia, Samoa, India, Cam
 
 **Book 23:** *Kitab al-Jughrafia lilsana al-Sabi'a Adab 'Asriya (Geography Book, Seventh Year — Modern Letters)* (student book, Arabic) — Institut Pédagogique National (IPN), Mauritania; year 2025; ISBN no ISBN printed. Title as printed: Kitab al-Jughrafia lilsana al-Sabi'a Adab 'Asriya (Geography Book, Seventh Year — Modern Letters). Grade: Grade 13 (7e année secondaire, lettres modernes) (student/teacher: STUDENT). PDF pages: 120 (cover/title page verified against the record title; fetched from the record's source URL docs.bsimr.com/pdfs/secondaire2s/GEO-7AS-LM.pdf, 26,994,755 bytes). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mauritania-placements.md.
 
+**Book 24:** *جغرافیای ایران (Geography of Iran) — for all branches (theoretical, technical-vocational, kardanesh)* (student book, Persian) — سازمان پژوهش و برنامه‌ریزی آموزشی (Organization for Educational Research and Planning), Ministry of Education; printed by شرکت چاپ و نشر کتاب‌های درسی ایران; year 1405 (11th printing); ISBN 978-964-05-2744-3; book code 110218. Title as printed: جغرافیای ایران (Geography of Iran) — for all branches (theoretical, technical-vocational, kardanesh). Grade: 10 (student/teacher: STUDENT). PDF pages: 120 (cover/title page verified against the record title; byte size 8,709,753 and page count 120 match the books.json record exactly; read from the record's own ministry source chap.sch.ir, the file the record was pushed from, because the GitHub API route was disconnected on repeated attempts). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iran-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What minerals are | Ethiopia, *Social Studies Student Textbook, Grade 8* (Amhara Bureau), printed pp. 57–58 |
@@ -75,8 +77,9 @@ countries: Ethiopia, Bolivia, Angola, Turkmenistan, Indonesia, Samoa, India, Cam
 | Mauritania part — Unit 2 Lesson 7: minerals, energy sources and industry in Mauritania | Mauritania, *Mauritania Grade 9 geo-3as-m*, Unit 2 Lesson 7: minerals, energy sources and industry in Mauritania — printed p. 46 |
 | Mauritania part — Unit 2 Lesson 7: minerals, energy sources and industry in Mauritania | Mauritania, *Mauritania Grade 10 geo-4as-m*, Unit 2 Lesson 7: minerals, energy sources and industry in Mauritania — printed p. 49 |
 | Mauritania part — Unit 2 Lesson 10: minerals and energy sources in Mauritania | Mauritania, *Mauritania Grade 13 geo-7as-lm*, Unit 2 Lesson 10: minerals and energy sources in Mauritania — printed p. 60 |
+| Iran part — Iran's economic capacities (mines: over 70 mineral types, an ancient mining land) | Iran, *Iran Grade 10 Geography of Iran*, Iran's economic capacities (mines: over 70 mineral types, an ancient mining land) — printed p. 103 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Bolivia, Angola, Turkmenistan, Indonesia, Samoa, India, Cambodia, Slovenia, Uganda, Sudan, Mauritania). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 13 countries (Ethiopia, Bolivia, Angola, Turkmenistan, Indonesia, Samoa, India, Cambodia, Slovenia, Uganda, Sudan, Mauritania, Iran). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -125,3 +128,5 @@ Mauritania's own way (Mauritania Grade 9 geo-3as-m): A home-and-region year in t
 Mauritania's own way (Mauritania Grade 10 geo-4as-m): This book re-teaches the Grade 9 programme lesson-for-lesson (its contents list is identical to Book 8's) at greater depth and with fuller map work — its Mauritania unit works through three location maps (in the Arab world, geographic and astronomical location) where the Grade 9 book works from text. Filed as its own book because it is a distinct, longer edition (116 pp vs 104 pp), not a duplicate file.
 
 Mauritania's own way (Mauritania Grade 13 geo-7as-lm): The final-year Letters book is an exam-facing synthesis: Mauritania's natural and human features and its economic activities in full (including the structural problems of the Mauritanian economy and a lesson on how to write a geography essay), then the Arab world and Africa as economic powers (oil and minerals as the lenses), closing with the two great powers — the American and Chinese economies, their foundations, features and problems.
+
+Iran's own way (Iran Grade 10 Geography of Iran): the whole of Grade 10 geography is one national book — Iran's own natural and human geography for every branch; nearly every lesson closes with a "know your own living place" activity tied to the separate provincial-studies book, so national content is always re-applied to the learner's own province.

@@ -1,6 +1,6 @@
 # Sources — What size and shape do to a country
 
-countries: Ethiopia, Turkmenistan, Eritrea, India, Sudan, Venezuela
+countries: Ethiopia, Turkmenistan, Eritrea, India, Sudan, Venezuela, Iran
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Turkmenistan, Eritrea, India, Sudan, Venezuela
 
 **Book 7:** *Venezuela y su gente — Ciencias Sociales 4to Grado* (student book, Spanish) — Ministerio del Poder Popular para la Educación / Colección Bicentenario; year 2014 (fourth edition, April 2014); ISBN 978-980-218-302-9. Title as printed: Venezuela y su gente — Ciencias Sociales 4to Grado. Grade: Grade 4 (student/teacher: STUDENT). PDF pages: 83 (printed pages run to 160; cover/title page verified against the record title; grab SHA/size verified by grab.py). Verdict: COMPLETE. (Combined book — Geography parts placed below; parts named, not placed — History parts named, not placed: the whole second block "Viaje por nuestro pasado indígena y colonial" (printed pp. 49–122): Los pueblos tienen historia (p. 50); Pueblos indígenas de hoy y de ayer (p. 56); Del mito a la verdad del poblamiento de América (p. 60); organización indígena del pasado (p. 64); Un encuentro inesperado cambió la imagen del mundo (p. 70); Conflicto de grandes proporciones (p. 80); Al apoderarse de América, España se convierte en un Imperio (p. 90); A tierras colectivas le aparecieron dueños extranjeros (p. 96); El poder en América, cuando mandaba un rey (p. 104); Somos cultura mestiza desde la Colonia (p. 110); La Guipuzcoana y otras novedades (p. 114); De fracasados intentos a la Revolución de 1810 (p. 116).; Civics parts named, not placed: Gotitas de convivencia / ¡Hola familia! / Cuando decimos familia… (pp. 123–131); Lo que nos hace sentir que somos de Venezuela (p. 132); Nuestro patrimonio histórico-cultural (p. 138); Derechos de la humanidad (p. 144); Necesidades básicas de la humanidad (p. 146); Constitución y leyes para vivir bien (p. 148); La Patria / La Patria grande (pp. 152–156, national symbols — its map-symbol pages are placed below).) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/venezuela-placements.md.
 
+**Book 8:** *جغرافیای ایران (Geography of Iran) — for all branches (theoretical, technical-vocational, kardanesh)* (student book, Persian) — سازمان پژوهش و برنامه‌ریزی آموزشی (Organization for Educational Research and Planning), Ministry of Education; printed by شرکت چاپ و نشر کتاب‌های درسی ایران; year 1405 (11th printing); ISBN 978-964-05-2744-3; book code 110218. Title as printed: جغرافیای ایران (Geography of Iran) — for all branches (theoretical, technical-vocational, kardanesh). Grade: 10 (student/teacher: STUDENT). PDF pages: 120 (cover/title page verified against the record title; byte size 8,709,753 and page count 120 match the books.json record exactly; read from the record's own ministry source chap.sch.ir, the file the record was pushed from, because the GitHub API route was disconnected on repeated attempts). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iran-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Effects of size | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 1, printed pp. 15–17 |
@@ -26,8 +28,9 @@ countries: Ethiopia, Turkmenistan, Eritrea, India, Sudan, Venezuela
 | India part (Grade 9 Contemporary India-I) — Ch.1: why India's size and central position matter | India, *India Grade 9 Contemporary India-I*, Ch.1: why India's size and central position matter — printed p. 3 |
 | Sudan part — Sudan's area (1,882,000 km²) and what a large area gives a country | Sudan, *Sudan Grade 9 SD Geography 9*, Sudan's area (1,882,000 km²) and what a large area gives a country — printed p. 5 |
 | Venezuela part — Venezuela y lo nuestro primero: Venezuela is big — its land space and Caribbean islands | Venezuela, *Venezuela Grade 4 G4 CS Venezuela y Su Gente*, Venezuela y lo nuestro primero: Venezuela is big — its land space and Caribbean islands — printed p. 22 |
+| Iran part — Geographical position of Iran (a large country and what its extent and borders mean) | Iran, *Iran Grade 10 Geography of Iran*, Geographical position of Iran (a large country and what its extent and borders mean) — printed p. 20 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Turkmenistan, Eritrea, India, Sudan, Venezuela).**
+**Acceptance count: taught in 7 countries (Ethiopia, Turkmenistan, Eritrea, India, Sudan, Venezuela, Iran).**
 
 Searchable tags: size and shape effects, administration, defence, national integration, compact state, social studies
 
@@ -40,3 +43,5 @@ India's own way (Grade 9 Contemporary India-I): From Grade 9 the Geography book 
 Sudan's own way (Sudan Grade 9 SD Geography 9): A single-country book: the whole of Sudan taught in three units — its physical geography, its human geography, then its environmental problems — with map-work activities on Sudan's own maps (states, roads, the Nile) and an infographic "resources of Sudan" spread; the preface warns its statistics change and are only indicators.
 
 Venezuela's own way (Venezuela Grade 4 G4 CS Venezuela y Su Gente): geography is the first block ("Conóceme, soy Venezuela") and is built as widening circles — the child's house drawn to a stated scale (1 cm on the plan = 1 m), then Tomás's town, then Venezuela's territory and borders, then Latin America and the unequal world.
+
+Iran's own way (Iran Grade 10 Geography of Iran): the whole of Grade 10 geography is one national book — Iran's own natural and human geography for every branch; nearly every lesson closes with a "know your own living place" activity tied to the separate provincial-studies book, so national content is always re-applied to the learner's own province.
