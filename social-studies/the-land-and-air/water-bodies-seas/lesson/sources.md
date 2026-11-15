@@ -1,6 +1,6 @@
 # Sources — Water Bodies — Seas
 
-countries: Ethiopia, Eritrea, Venezuela
+countries: Ethiopia, Eritrea, Venezuela, Mauritania
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Eritrea, Venezuela
 
 **Book 4:** *¡Viva Venezuela! Ciencias Sociales 3er Grado* (student book, Spanish) — Ministerio del Poder Popular para la Educación / Colección Bicentenario; year 2014 (fourth edition, April 2014); ISBN 978-980-218-299-2. Title as printed: ¡Viva Venezuela! Ciencias Sociales 3er Grado. Grade: Grade 3 (student/teacher: STUDENT). PDF pages: 91 (printed pages run to 176 in spreads; cover/title page verified against the record title; grab SHA/size verified by grab.py). Verdict: COMPLETE. (Combined book — Geography parts placed below; parts named, not placed — History parts named, not placed: Nuestros ancestros más remotos (printed p. 56); Esclavizados y afrodescendientes (p. 58); Revisando los períodos de nuestra historia económica (p. 72); presidentes del período Republicano Agrícola (p. 76); Bolívar Presidente (p. 78); La guerra y la paz en tiempos de Zamora (p. 84); La moneda venezolana también tiene su historia (p. 88); La República Petrolera (p. 94); Simón Rodríguez (p. 18).; Civics parts named, not placed: Necesario es respetarnos y entreayudarnos (p. 10); De las reglas del juego a las de la escuela (p. 20); Tenemos patria (p. 62); Novedades de la igualdad ante la ley (p. 110); Solidaridad con quienes la necesitan (p. 108).) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/venezuela-placements.md.
 
+**Book 5:** *Kitab al-Jughrafia lilsana al-Sadisa min al-Ta'lim al-Ibtida'i (Geography Book, Sixth Year of Primary Education)* (student book, Arabic) — Institut Pédagogique National (IPN), Mauritania; year no year printed on title page; ISBN no ISBN printed. Title as printed: Kitab al-Jughrafia lilsana al-Sadisa min al-Ta'lim al-Ibtida'i (Geography Book, Sixth Year of Primary Education). Grade: Grade 6 (6e année fondamentale) (student/teacher: STUDENT). PDF pages: 53 (cover/title page verified against the record title; fetched from the record's source URL docs.bsimr.com/pdfs/fondamentals/GEO-6AF-M.pdf, 4,284,854 bytes). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mauritania-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Smaller than an ocean, mostly land-ringed | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 6–7 |
@@ -17,8 +19,9 @@ countries: Ethiopia, Eritrea, Venezuela
 | Sub lesson 3 — Great seas of the world | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 6–7 |
 | Eritrea part (ER G5 Social Studies) — Chapter 3: 3.4 Seas | Eritrea, *ER G5 Social Studies*, Chapter 3: 3.4 Seas — printed p. 23 |
 | Venezuela part — El mar de Nuestra América (the Caribbean Sea) | Venezuela, *Venezuela Grade 3 G3 CS Viva Venezuela*, El mar de Nuestra América (the Caribbean Sea) — printed p. 120 |
+| Mauritania part — Unit 6 Lesson 15: seas and some rivers | Mauritania, *Mauritania Grade 6 geo-6af-m*, Unit 6 Lesson 15: seas and some rivers — printed p. 49 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Eritrea, Venezuela).**
+**Acceptance count: taught in 4 countries (Ethiopia, Eritrea, Venezuela, Mauritania).**
 
 Pairing warning: the Grade 8 teacher guide is an Addis Ababa bureau book and the student book is an Amhara bureau book; they are NOT edition-matched, and the guide in hand is truncated (printed pp. 1–47 only, Units 1–3). Pupil content in this lesson comes from the Amhara student book; anything from the guide is labelled (teacher guide — evidence) and never presented as pupil-taught.
 
@@ -27,3 +30,5 @@ Searchable tags: water bodies   seas, ethiopia, social studies, the land and air
 Eritrea's own way (ER G5 Social Studies): Grade 5 widens from the village to the world — Eritrea's regions (zobas) and neighbours, the continents, islands, oceans, seas, lakes and rivers of the Earth, then back home to the Red Sea, trade and transport, maps and weather.
 
 Venezuela's own way (Venezuela Grade 3 G3 CS Viva Venezuela): the second half is a state-by-state tour of Venezuela (territorial organisation, Nueva Esparta, Sucre, the Capital, Vargas, Zulia, the Andean states, the Llanos, Guayana) taught through local stories and children of each region — regional geography as a journey around the child's own country.
+
+Mauritania's own way (Mauritania Grade 6 geo-6af-m): The final primary book turns outward: five of its six units place Mauritania inside its organisations — the Arab Maghreb Union, the Senegal River organisation (OMVS), the Arab League, the African Union, the Sahel drought committee (CILSS), the Organisation of Islamic Cooperation — and inside the industrial world (Europe, North America, the industrial East), before a closing world unit on continents, oceans, seas, rivers and straits.

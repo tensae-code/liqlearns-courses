@@ -1,6 +1,6 @@
 # Sources — Wind and sea landforms — dunes, beaches, spits, lagoons
 
-countries: Ethiopia, Malaysia, United Kingdom, Slovenia
+countries: Ethiopia, Malaysia, United Kingdom, Slovenia, Mauritania
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Malaysia, United Kingdom, Slovenia
 
 **Book 4:** *Geografija 1, gimnazija* (student book, Slovenian) — Slovenia, Zavod RS za šolstvo, Ljubljana; year 2015; ISBN 978-961-03-0284-1. Title as printed: Geografija 1 (gimnazija) (i-učbenik / interactive textbook). Grade: Grade 10 (first year of gimnazija) (student/teacher: STUDENT). PDF pages: not a PDF — ZIP package (interactive e-textbook) of 423,855,798 bytes; book pagination runs to printed p. 320 (Kazalo); all 359 content HTML pages extracted by range request and size-verified against the ZIP central directory, and read. Verdict: COMPLETE (text content; the package's videos/images were not individually viewed — the teaching text, headings, summaries and tasks were read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/slovenia-placements.md.
 
+**Book 5:** *Kitab al-Jughrafia lilsana al-Khamisa Adab 'Asriya (Geography Book, Fifth Year — Modern Letters)* (student book, Arabic) — Institut Pédagogique National (IPN), Mauritania; year no year printed on title page; ISBN no ISBN printed. Title as printed: Kitab al-Jughrafia lilsana al-Khamisa Adab 'Asriya (Geography Book, Fifth Year — Modern Letters). Grade: Grade 11 (5e année secondaire, lettres modernes) (student/teacher: STUDENT). PDF pages: 113 (cover/title page verified against the record title; the TSV tree record and the TSV release-asset record are the same book; fetched from the record's source URL docs.bsimr.com/pdfs/secondaire2s/GEO-5AS-LM.pdf, 3,217,391 bytes). Verdict: COMPLETE. The TSV tree record and the TSV release-asset record are the same book, counted once, as the placements file labels it. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mauritania-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Wind at work | G12 student #23, printed pp. 29–30 |
@@ -17,8 +19,9 @@ countries: Ethiopia, Malaysia, United Kingdom, Slovenia
 | Malaysia part (MY T4 Geografi Tingkatan 4) — Bab 10 Tindakan Ombak di Pinggir Pantai: wave types; erosion, transport and deposition by waves; coastal landforms | Malaysia, *MY T4 Geografi*, Bab 10 Tindakan Ombak di Pinggir Pantai: wave types; erosion, transport and deposition by waves; coastal landforms — printed pp. 132-141 |
 | United Kingdom part — §10.5 Coastal deposition landforms | United Kingdom, *United Kingdom Grade 10 AQA Geography Student Book*, §10.5 Coastal deposition landforms — printed p. 100 |
 | Slovenia part — Vetrno in obalno površje (wind and coastal relief — formation and forms) | Slovenia, *Slovenia Grade 10 Geografija 1 (gimnazija)*, Vetrno in obalno površje (wind and coastal relief — formation and forms) — printed p. 59 |
+| Mauritania part — Unit 4 Lesson 15: coastal patterns and marine landforms | Mauritania, *Mauritania Grade 11 geo-5as-lm*, Unit 4 Lesson 15: coastal patterns and marine landforms — printed p. 103 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Malaysia, United Kingdom, Slovenia).**
+**Acceptance count: taught in 5 countries (Ethiopia, Malaysia, United Kingdom, Slovenia, Mauritania).**
 
 Figure-reference correction carried from the placements: the spit and lagoon text in the book points to 'Figure 1.31', but the sea-work figure is captioned Figure 1.32 (1.31 is the wind-action figure) — taught with the corrected figure numbers and named here only.
 
@@ -29,3 +32,5 @@ Malaysia's own way (MY T4 Geografi Tingkatan 4): upper-secondary Geography is a 
 United Kingdom's own way: A single exam-board (AQA) GCSE textbook organised as thematic units with numbered two-page spreads, every big topic anchored to a named case study (Typhoon Haiyan, Somerset Levels, Rio de Janeiro, Bristol, Nigeria, the Indus Basin, Lesotho Highlands) and a final unit on issue evaluation, fieldwork enquiries and cartographic/graphical/statistical skills.
 
 Slovenia's own way (Slovenia Grade 10 Geografija 1 (gimnazija)): the gimnazija first year is systematic physical geography first (Earth's interior, rocks, landforms, weather and climate, soils, vegetation, waters), then human geography (population, settlements, farming, industry and energy, transport, tourism), closing on sustainable development and spatial planning — with Slovenian cases (earthquake risk in Slovenia, the Port of Koper) set inside the world topics.
+
+Mauritania's own way (Mauritania Grade 11 geo-5as-lm): The senior Letters cycle re-runs physical geography at full depth in four units — Planet Earth, Climate, the Effects of Climate, the Earth (structure, erosion, coasts) — with a class project closing Units 1 and 4.

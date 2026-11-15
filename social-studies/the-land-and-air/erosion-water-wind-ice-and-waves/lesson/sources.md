@@ -1,6 +1,6 @@
 # Sources — Erosion — Water, Wind, Ice and Waves
 
-countries: Ethiopia, Jamaica, India, North Macedonia, United Kingdom, Papua New Guinea
+countries: Ethiopia, Jamaica, India, North Macedonia, United Kingdom, Papua New Guinea, Mauritania
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Jamaica, India, North Macedonia, United Kingdom, Papua New 
 
 **Book 7:** *Geography — Upper Secondary Teacher Guide* (teacher guide, English) — Department of Education, Papua New Guinea; year 2008; ISBN 978-9980-9924-1-3. Title as printed: Geography — Upper Secondary Teacher Guide. Grade: Grades 11–12 (student/teacher: TEACHER). PDF pages: 57 (cover/title page verified against the record title). Verdict: COMPLETE. Teacher guides read full page-by-page via pdftotext -layout after cover verification; books were fetched from their recorded ministry source_urls (education.gov.pg, as recorded in the books.json records) with resumable curl and each file was verified against the record's exact size_bytes and page count before reading — identical bytes to the pushed copies by size + pages + cover, as the placements file records. Records: 22 records / 11 distinct books (11 TSV records + 11 books.json records that are the same books by repo path — each pair read once). (Non-Geography parts: none — pure Geography guide; the long assessment/recording sections are pedagogy, not subject content.) Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/papua-new-guinea-placements.md.
 
+**Book 8:** *Kitab al-Jughrafia lilsana al-Khamisa Adab 'Asriya (Geography Book, Fifth Year — Modern Letters)* (student book, Arabic) — Institut Pédagogique National (IPN), Mauritania; year no year printed on title page; ISBN no ISBN printed. Title as printed: Kitab al-Jughrafia lilsana al-Khamisa Adab 'Asriya (Geography Book, Fifth Year — Modern Letters). Grade: Grade 11 (5e année secondaire, lettres modernes) (student/teacher: STUDENT). PDF pages: 113 (cover/title page verified against the record title; the TSV tree record and the TSV release-asset record are the same book; fetched from the record's source URL docs.bsimr.com/pdfs/secondaire2s/GEO-5AS-LM.pdf, 3,217,391 bytes). Verdict: COMPLETE. The TSV tree record and the TSV release-asset record are the same book, counted once, as the placements file labels it. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mauritania-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Worn rock, carried off | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 18–20 |
@@ -27,8 +29,9 @@ countries: Ethiopia, Jamaica, India, North Macedonia, United Kingdom, Papua New 
 | North Macedonia part (Grade 10 mk-g10) — 7. Надворешни (егзогени) сили | North Macedonia, *North Macedonia Grade 10 mk-g10*, 7. Надворешни (егзогени) сили — printed p. 21 |
 | United Kingdom part — §10.2 Weathering and mass movement | United Kingdom, *United Kingdom Grade 10 AQA Geography Student Book*, §10.2 Weathering and mass movement — printed p. 94 |
 | Papua New Guinea part — Unit 11.1: field trip to observe river, glacial, wind or sea-wave processes in the local environment (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 11 Geography TG OBE* (teacher guide), Unit 11.1: field trip to observe river, glacial, wind or sea-wave processes in the local environment — printed p. 32 |
+| Mauritania part — Unit 4 Lesson 14: erosion — its factors and systems | Mauritania, *Mauritania Grade 11 geo-5as-lm*, Unit 4 Lesson 14: erosion — its factors and systems — printed p. 97 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, India, North Macedonia, United Kingdom). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 5 countries (Ethiopia, India, North Macedonia, United Kingdom, Mauritania). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grade 5 Exploratory Core, curriculum guide — evidence): Grade 5 Social Studies pairs a heritage year (Europeans and Africans, national heroes, Caribbean culture) with a physical-environment year — erosion, locating Jamaica and the Caribbean by compass and latitude/longitude, types of rainfall, the Solar System, plants and water pollution. That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
@@ -43,3 +46,5 @@ North Macedonia's own way (Grade 10 mk-g10): the gymnasium course restarts Geogr
 United Kingdom's own way: A single exam-board (AQA) GCSE textbook organised as thematic units with numbered two-page spreads, every big topic anchored to a named case study (Typhoon Haiyan, Somerset Levels, Rio de Janeiro, Bristol, Nigeria, the Indus Basin, Lesotho Highlands) and a final unit on issue evaluation, fieldwork enquiries and cartographic/graphical/statistical skills.
 
 Papua New Guinea's own way (Papua New Guinea Grades 11–12 Geography TG OBE) (teacher guide — evidence): an outcomes-based guide — it prescribes no lesson scripts; for each syllabus unit it lists suggested learning activities and assessment tasks built around the local environment (soil profiles, local hazard sites, a PNG mine and logging case study, a transect along latitude 6°S), with fieldwork and geographical inquiry as the core skills. That evidence is stocked here as the way Papua New Guinea teaches this thing; it does not change the acceptance count above.
+
+Mauritania's own way (Mauritania Grade 11 geo-5as-lm): The senior Letters cycle re-runs physical geography at full depth in four units — Planet Earth, Climate, the Effects of Climate, the Earth (structure, erosion, coasts) — with a class project closing Units 1 and 4.

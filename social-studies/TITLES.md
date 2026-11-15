@@ -103,7 +103,7 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **1914**
+Geography lessons across the eight Geography titles: **1943**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -1296,3 +1296,33 @@ Settlements Economy and World Natural Vegetation Zones
 stand on Sri Lanka's teacher guides, cited as
 teacher-guide evidence only, counted nowhere in
 acceptance.)
+
++29 for Mauritania, 2026-11-15 — First Steps: Public
+Places In My Locality; The Land and Air: Air Masses
+Fronts And Rainfall, Asia Natural And Human Features,
+Europe Natural And Human Features, Mauritania Location
+And Borders, Mauritania Location Relief And Atlantic
+Coast, Mauritania's Climate Atlantic And Rainfall,
+Oceania Natural And Human Features, Straits And Sea
+Passages, The Americas Natural And Human Features, The
+Maghreb Natural And Human Features, Water In Mauritania
+Rivers And Groundwater and West Africa Natural And
+Human Features; Population, Transport and Maps: City
+Functions And City Countryside Relations, Reading An
+Administrative Map My Wilaya and Street Names And
+Finding Your Way; People and Resources: China's Economy
+Foundations Features Problems, Economic Activities In
+Australia And New Zealand, Economic Activities In
+Brazil And Canada, Economic Activities In Egypt And
+South Africa, Economic Activities In India And Japan,
+Economic Activities In Spain And Germany, Economic
+Activities In The Maghreb, Economic Activities In West
+Africa, Structural Problems Of Mauritania's Economy,
+The Arab World Features And Economic Power and The
+United States Economy Foundations Features Problems;
+Global Issues: Mauritania And Its Regional
+Organisations and Mauritania And The Industrial
+Countries.
+(All 29 of the new lessons are taught in 1 country
+(Mauritania); none stands on Mauritania's teacher guide
+alone.)

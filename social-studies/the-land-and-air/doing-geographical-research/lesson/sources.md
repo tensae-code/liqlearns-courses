@@ -1,6 +1,6 @@
 # Sources — Doing geographical research
 
-countries: Ethiopia, Bangladesh, Samoa, Malaysia, Papua New Guinea, Uganda, Syria
+countries: Ethiopia, Bangladesh, Samoa, Malaysia, Papua New Guinea, Uganda, Syria, Mauritania
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -32,6 +32,10 @@ countries: Ethiopia, Bangladesh, Samoa, Malaysia, Papua New Guinea, Uganda, Syri
 
 **Book 15:** *عالم الجغرافية (World of Geography), الصف السابع الأساسي (Seventh Grade Basic)* (student book, Arabic) — Ministry of Education / National Center for Curriculum Development (NCCD), Syrian Arab Republic; year 2021–2022 (1442 H), first printed 2017–2018; no ISBN printed. Title as printed: عالم الجغرافية (World of Geography), الصف السابع الأساسي (Seventh Grade Basic). Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 159 (cover/title page verified against the record title; read in place in phase3-staging, 932,059,473 bytes). Verdict: COMPLETE. (Non-content slots named, not placed: teacher-designed lesson slots (printed pp. 86, 150) and the student-designed geography-information slot (printed p. 148) carry no set content of their own.) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/syria-placements.md.
 
+**Book 16:** *Kitab al-Jughrafia lilsana al-Khamisa Adab 'Asriya (Geography Book, Fifth Year — Modern Letters)* (student book, Arabic) — Institut Pédagogique National (IPN), Mauritania; year no year printed on title page; ISBN no ISBN printed. Title as printed: Kitab al-Jughrafia lilsana al-Khamisa Adab 'Asriya (Geography Book, Fifth Year — Modern Letters). Grade: Grade 11 (5e année secondaire, lettres modernes) (student/teacher: STUDENT). PDF pages: 113 (cover/title page verified against the record title; the TSV tree record and the TSV release-asset record are the same book; fetched from the record's source URL docs.bsimr.com/pdfs/secondaire2s/GEO-5AS-LM.pdf, 3,217,391 bytes). Verdict: COMPLETE. The TSV tree record and the TSV release-asset record are the same book, counted once, as the placements file labels it. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mauritania-placements.md.
+
+**Book 17:** *Kitab al-Jughrafia lilsana al-Sabi'a Adab 'Asriya (Geography Book, Seventh Year — Modern Letters)* (student book, Arabic) — Institut Pédagogique National (IPN), Mauritania; year 2025; ISBN no ISBN printed. Title as printed: Kitab al-Jughrafia lilsana al-Sabi'a Adab 'Asriya (Geography Book, Seventh Year — Modern Letters). Grade: Grade 13 (7e année secondaire, lettres modernes) (student/teacher: STUDENT). PDF pages: 120 (cover/title page verified against the record title; fetched from the record's source URL docs.bsimr.com/pdfs/secondaire2s/GEO-7AS-LM.pdf, 26,994,755 bytes). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mauritania-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Research — the deepest possible look | G12 student #81, printed pp. 217–222 |
@@ -50,8 +54,10 @@ countries: Ethiopia, Bangladesh, Samoa, Malaysia, Papua New Guinea, Uganda, Syri
 | Uganda part — Ch.4 Ways of Studying Geography (fieldwork and photographs guidance) (teacher guide — evidence) | Uganda, *Uganda Grade 8 UG S1 Geography TG* (teacher guide), Ch.4 Ways of Studying Geography (fieldwork and photographs guidance) — printed p. 36 |
 | Uganda part — Lesson 1: Learning Geography through Fieldwork (home-area fieldwork and report) | Uganda, *Uganda Grade 8 UG S1 Geography Home-Study*, Lesson 1: Learning Geography through Fieldwork (home-area fieldwork and report) — printed p. 1 |
 | Syria part — Student-designed geography information, teacher-designed lesson and end-of-semester project (Semester 2 research/project strand) | Syria, *Syria Grade 7 Geography G7 عالم الجغرافية*, Student-designed geography information, teacher-designed lesson and end-of-semester project (Semester 2 research/project strand) — printed p. 148 |
+| Mauritania part — Unit 4 class project (planned, carried out and presented across the unit) | Mauritania, *Mauritania Grade 11 geo-5as-lm*, Unit 4 class project (planned, carried out and presented across the unit) — printed p. 110 |
+| Mauritania part — Unit 1 Lesson 7: methodology for writing an essay in geography | Mauritania, *Mauritania Grade 13 geo-7as-lm*, Unit 1 Lesson 7: methodology for writing an essay in geography — printed p. 40 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Bangladesh, Samoa, Malaysia, Uganda, Syria). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 7 countries (Ethiopia, Bangladesh, Samoa, Malaysia, Uganda, Syria, Mauritania). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Pairing honesty: the 2023 student book's own teacher guide is still unsecured; the secured Grade 12 teacher guide is the 2010–11 edition for a different student book (see the action-research lesson's sources). No teacher evidence is claimed for this lesson.
 
@@ -84,3 +90,7 @@ Uganda's own way (Uganda Grade 8 UG S1 Geography TG) (teacher guide — evidence
 Uganda's own way (Uganda Grade 8 UG S1 Geography Home-Study): A home-based compression of the Senior One course: fieldwork is done around the learner's own home, photographs and statistics (Kilembe Mines data) replace classroom map work, and the booklet ends on East Africa's location, size and relief.
 
 Syria's own way (Syria Grade 7 Geography G7 عالم الجغرافية): a pure Geography book built entirely around activity lessons with story-style titles ("Mother of sciences", "Stones from the sky", "The origami art" for folding, "A tourist in my homeland"); technology first — aerial photos, GPS, remote sensing and GIS open the book before any physical geography — and each semester closes with student/teacher-designed lessons and an end-of-semester project.
+
+Mauritania's own way (Mauritania Grade 11 geo-5as-lm): The senior Letters cycle re-runs physical geography at full depth in four units — Planet Earth, Climate, the Effects of Climate, the Earth (structure, erosion, coasts) — with a class project closing Units 1 and 4.
+
+Mauritania's own way (Mauritania Grade 13 geo-7as-lm): The final-year Letters book is an exam-facing synthesis: Mauritania's natural and human features and its economic activities in full (including the structural problems of the Mauritanian economy and a lesson on how to write a geography essay), then the Arab world and Africa as economic powers (oil and minerals as the lenses), closing with the two great powers — the American and Chinese economies, their foundations, features and problems.

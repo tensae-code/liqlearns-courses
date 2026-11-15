@@ -1,6 +1,6 @@
 # Sources — Desertification — land turning unproductive
 
-countries: Ethiopia, Bangladesh, Cambodia
+countries: Ethiopia, Bangladesh, Cambodia, Mauritania
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -8,14 +8,23 @@ countries: Ethiopia, Bangladesh, Cambodia
 
 **Book 3:** *ភូមិវិទ្យា ថ្នាក់ទី១១ (Geography, Grade 11)* (student book, Khmer) — Cambodia, MoEYS Publishing and Distribution House; year 2020 (11th printing); ISBN 978-995-001-018 (printed as 9-789-995-001-018). Title as printed: ភូមិវិទ្យា ថ្នាក់ទី១១ (Geography, Grade 11) — Sala 00004288. Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 208. Verdict: COMPLETE. All books are Khmer-language MoEYS textbooks whose embedded text layer uses a legacy font encoding (pdftotext output is garbled), so every book was read visually page-by-page from rendered pages (cover, full contents, every chapter/lesson opening, and spreads through each Geography part); Tesseract khm OCR was attempted first and abandoned (>2 min/page on this host). Read in place from phase3-staging (on_disk) except the Grade 9 Geography excerpt and the Grades 10-12 Geography combined record, grabbed from the textbooks repo with grab.py. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cambodia-placements.md.
 
+**Book 4:** *Dalil al-Ustadh lil-Jughrafia — al-Sana al-Ula al-I'dadiya (Teacher's Guide for Geography, First Year of Preparatory/Secondary)* (teacher guide, Arabic) — Institut Pédagogique National (IPN), Mauritania; year 2025; ISBN no ISBN printed. Title as printed: Dalil al-Ustadh lil-Jughrafia — al-Sana al-Ula al-I'dadiya (Teacher's Guide for Geography, First Year of Preparatory/Secondary). Grade: Grade 7 (1e année secondaire) (student/teacher: TEACHER). PDF pages: 44 (cover/title page verified against the record title; file size 954,417 bytes matches the books.json record exactly; read in place at phase3-staging/grade-07/gov/mauritania/guide-geo-1as.pdf, never moved). Verdict: COMPLETE. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mauritania-placements.md.
+
+**Book 5:** *Kitab al-Jughrafia lilsana al-Ula min al-Ta'lim al-I'dadi (Geography Book, First Year of Preparatory Education)* (student book, Arabic) — Institut Pédagogique National (IPN), Mauritania; year no year printed on title page; ISBN no ISBN printed. Title as printed: Kitab al-Jughrafia lilsana al-Ula min al-Ta'lim al-I'dadi (Geography Book, First Year of Preparatory Education). Grade: Grade 7 (1e année secondaire) (student/teacher: STUDENT). PDF pages: 96 (cover/title page verified against the record title; fetched from the record's source URL docs.bsimr.com/pdfs/secondaire1s/GEO-1AS-M.pdf, 11,100,011 bytes). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mauritania-placements.md.
+
+**Book 6:** *Kitab al-Jughrafia lilsana al-Sabi'a Adab 'Asriya (Geography Book, Seventh Year — Modern Letters)* (student book, Arabic) — Institut Pédagogique National (IPN), Mauritania; year 2025; ISBN no ISBN printed. Title as printed: Kitab al-Jughrafia lilsana al-Sabi'a Adab 'Asriya (Geography Book, Seventh Year — Modern Letters). Grade: Grade 13 (7e année secondaire, lettres modernes) (student/teacher: STUDENT). PDF pages: 120 (cover/title page verified against the record title; fetched from the record's source URL docs.bsimr.com/pdfs/secondaire2s/GEO-7AS-LM.pdf, 26,994,755 bytes). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mauritania-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Not deserts spreading — land degrading | G12 student #72, printed pp. 190–194 |
 | Sub lesson 2 — The drylands at risk | G12 student #72, printed pp. 190–194 |
 | Bangladesh part (Grades 9-10) — Land cover and land use change through history; desertification in the dry regions | Bangladesh, *History and Social Science, Class Nine* (the shared Class 9-10 SSC book), Grades 9-10, Land cover and land use change through history; desertification in the dry regions — printed pp. 139-142 |
 | Cambodia part — Ch.2 L3 វាលលំហកម្ម (the degradation of the open lands) | Cambodia, *Cambodia Grade 11 Geography*, Ch.2 L3 វាលលំហកម្ម (the degradation of the open lands) — printed p. 44 |
+| Mauritania part — Unit 2: desertification — concept, causes, signs and effects on vegetation, animals and people (teacher guide — evidence) | Mauritania, *Mauritania Grade 7 guide-geo-1as* (teacher guide), Unit 2: desertification — concept, causes, signs and effects on vegetation, animals and people — printed p. 17 |
+| Mauritania part — Unit 2 Lesson 9: desertification and protecting the environment | Mauritania, *Mauritania Grade 7 geo-1as-m*, Unit 2 Lesson 9: desertification and protecting the environment — printed p. 59 |
+| Mauritania part — Unit 1 Lesson 4: environmental problems (desertification, pollution) | Mauritania, *Mauritania Grade 13 geo-7as-lm*, Unit 1 Lesson 4: environmental problems (desertification, pollution) — printed p. 22 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Bangladesh, Cambodia).**
+**Acceptance count: taught in 4 countries (Ethiopia, Bangladesh, Cambodia, Mauritania).**
 
 No book error in the placements for this lesson is taught here. Figures and dates are taught exactly as the placements report them, as the book's own record.
 
@@ -24,3 +33,9 @@ Searchable tags: desertification, UNCCD, drylands, Sahel, Nairobi 1977, land deg
 Bangladesh's own way (Grades 9-10): the shared SSC book's big chapter "Living Together Safely" is a genuine geography course inside the combined book — land-use change read off 1988-vs-2017 Khulna maps, world population and density, remote sensing and GIS with its five components, settlement and urbanisation, desertification, and Bangladesh's own squeeze of limited land, dense population and climate risk.
 
 Cambodia's own way (Cambodia Grade 11 Geography): the standalone upper-secondary Geography book is a human-impact course — people reshaping the earth, people destroying natural resources, the sea, pollution of air/water/noise/waste, economic globalisation, city and countryside, and a world of uneven development.
+
+Mauritania's own way (Mauritania Grade 7 guide-geo-1as) (teacher guide — evidence): A competency-based guide (IPN 2025 reform) that fixes the whole Grade 7 course in three units — Earth and its main relief, Climate, Population and urbanisation — each unit ending in a class project, and every general topic anchored to Mauritania itself: the country's astronomical location, its relief map and Atlantic coast, rainfall differences between its wilayas, its age pyramid, and the growth of Nouakchott. Sample lesson plans (fiches) are given for one lesson per unit, plus model term exams with answers. That evidence is stocked here as the way Mauritania teaches this thing; it is cited as evidence only — Mauritania is counted in this lesson through its student book(s).
+
+Mauritania's own way (Mauritania Grade 7 geo-1as-m): The student book of the course specified in Book 1 (the teacher guide): the same three units and 13 lessons, each lesson opening with expected outcomes and key concepts and closing with a concepts list per unit. General topics are worked with Mauritanian examples throughout, as the guide prescribes.
+
+Mauritania's own way (Mauritania Grade 13 geo-7as-lm): The final-year Letters book is an exam-facing synthesis: Mauritania's natural and human features and its economic activities in full (including the structural problems of the Mauritanian economy and a lesson on how to write a geography essay), then the Arab world and Africa as economic powers (oil and minerals as the lenses), closing with the two great powers — the American and Chinese economies, their foundations, features and problems.

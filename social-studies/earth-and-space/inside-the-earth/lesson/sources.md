@@ -1,6 +1,6 @@
 # Sources — Inside the Earth — Crust, Mantle, Core
 
-countries: Ethiopia, Belarus, Dominican Republic, Colombia, Malaysia, India, North Macedonia, Cambodia, Fiji, Slovenia, Papua New Guinea, Syria, Sri Lanka
+countries: Ethiopia, Belarus, Dominican Republic, Colombia, Malaysia, India, North Macedonia, Cambodia, Fiji, Slovenia, Papua New Guinea, Syria, Sri Lanka, Mauritania
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page - 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md.
 
@@ -36,6 +36,8 @@ countries: Ethiopia, Belarus, Dominican Republic, Colombia, Malaysia, India, Nor
 
 **Book 18:** *புவியியல், தரம் 10 — ஆசிரியர் அறிவுறைப்பு வழிகாட்டி (Geography, Grade 10 — Teacher Instructional Guide; for implementation from 2007)* (teacher guide, Tamil) — National Institute of Education, Maharagama; first printing 2006, reprint 2009 (this copy's print code 2010/T/10/TIM/5,000); no ISBN printed. Title as printed: புவியியல், தரம் 10 — ஆசிரியர் அறிவுறைப்பு வழிகாட்டி (Geography, Grade 10 — Teacher Instructional Guide; for implementation from 2007). Grade: 10 (student/teacher: TEACHER). PDF pages: 348 (Noolaham scan; cover verified against the record; grabbed via grab.py from the GitHub release URL, 43,418,008 bytes, size-verified; read in full page-by-page on contact sheets). Verdict: COMPLETE. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sri-lanka-placements.md.
 
+**Book 19:** *Kitab al-Jughrafia lilsana al-Khamisa Adab 'Asriya (Geography Book, Fifth Year — Modern Letters)* (student book, Arabic) — Institut Pédagogique National (IPN), Mauritania; year no year printed on title page; ISBN no ISBN printed. Title as printed: Kitab al-Jughrafia lilsana al-Khamisa Adab 'Asriya (Geography Book, Fifth Year — Modern Letters). Grade: Grade 11 (5e année secondaire, lettres modernes) (student/teacher: STUDENT). PDF pages: 113 (cover/title page verified against the record title; the TSV tree record and the TSV release-asset record are the same book; fetched from the record's source URL docs.bsimr.com/pdfs/secondaire2s/GEO-5AS-LM.pdf, 3,217,391 bytes). Verdict: COMPLETE. The TSV tree record and the TSV release-asset record are the same book, counted once, as the placements file labels it. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mauritania-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The three layers | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 1, printed pp. 28–29 |
@@ -55,8 +57,9 @@ countries: Ethiopia, Belarus, Dominican Republic, Colombia, Malaysia, India, Nor
 | Syria part — Secrets of the earth we live on (inside the Earth) | Syria, *Syria Grade 7 Geography G7 عالم الجغرافية*, Secrets of the earth we live on (inside the Earth) — printed p. 56 |
 | Sri Lanka part — Chapter 2 The Earth's structure and its features: crust, mantle and core (placement slug: the-land-and-air/earths-internal-structure — the lesson stands under this title, stocked here) | Sri Lanka, *Sri Lanka G10 Tamil SB*, Chapter 2 The Earth's structure and its features: crust, mantle and core — printed p. 7 |
 | Sri Lanka part — Unit 10.2 The Earth's structure and its dynamics: layered structure chart (teacher guide — evidence) (placement slug: the-land-and-air/earths-internal-structure — the lesson stands under this title, stocked here) | Sri Lanka, *Sri Lanka G10 Tamil TG* (teacher guide), Unit 10.2 The Earth's structure and its dynamics: layered structure chart — printed p. 49 |
+| Mauritania part — Unit 4 Lesson 13: the structure of the Earth and its relief | Mauritania, *Mauritania Grade 11 geo-5as-lm*, Unit 4 Lesson 13: the structure of the Earth and its relief — printed p. 91 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Belarus, Dominican Republic, Colombia, Malaysia, India, North Macedonia, Cambodia, Fiji, Slovenia, Syria, Sri Lanka). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 13 countries (Ethiopia, Belarus, Dominican Republic, Colombia, Malaysia, India, North Macedonia, Cambodia, Fiji, Slovenia, Syria, Sri Lanka, Mauritania). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 The "how we know" sub lesson rests on teacher-guide evidence, labelled as such in its name here and in the lesson; the pupil-taught layers sub lesson carries the acceptance count. Pairing warning: the Grade 7 teacher guide is an Addis Ababa bureau book and the student books are Amhara bureau books; they are NOT edition-matched. Pupil content in this lesson comes from the student book; anything from the guide is labelled (teacher guide — evidence) and never presented as pupil-taught.
 
@@ -89,3 +92,5 @@ Syria's own way (Syria Grade 7 Geography G7 عالم الجغرافية): a pure
 Sri Lanka's own way (Sri Lanka G10 Tamil SB): the O/L year pairs every world topic with its Sri Lankan twin — world agriculture then Sri Lanka's land use, world industries then Sri Lanka's industries — and closes with map skills and an outline-map chapter; the syllabus (units 10.1–10.13) is printed at the back.
 
 Sri Lanka's own way (Sri Lanka G10 Tamil TG) (teacher guide — evidence): a 90-period competency syllabus (units 10.1–10.13, printed in full) with an expanded-content section and a timed activity set (செயற்பாடு) for every unit — quality inputs, process steps and assessment criteria — plus annexed readings (a poem on Earth and life, a 2004-tsunami reading) and term-test blueprints; the non-content parts (teaching-learning methods, pp. 18–23, and assessment, pp. 325–337) are pedagogy, named here but not placed. That evidence is stocked here as the way Sri Lanka teaches this thing; it is cited as evidence only — Sri Lanka is counted in this lesson through its student book(s).
+
+Mauritania's own way (Mauritania Grade 11 geo-5as-lm): The senior Letters cycle re-runs physical geography at full depth in four units — Planet Earth, Climate, the Effects of Climate, the Earth (structure, erosion, coasts) — with a class project closing Units 1 and 4.

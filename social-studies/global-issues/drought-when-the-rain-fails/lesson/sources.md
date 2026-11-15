@@ -1,6 +1,6 @@
 # Sources — Drought — when the rain fails
 
-countries: Ethiopia, Angola, Zimbabwe, Eritrea, Slovenia, Venezuela
+countries: Ethiopia, Angola, Zimbabwe, Eritrea, Slovenia, Venezuela, Mauritania
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Angola, Zimbabwe, Eritrea, Slovenia, Venezuela
 
 **Book 7:** *El espacio geográfico de Venezuela — Geografía, 3er Año* (student book, Spanish) — Ministerio del Poder Popular para la Educación / Colección Bicentenario; year 2014 (third edition, April 2014); ISBN 978-980-218-337-1. Title as printed: El espacio geográfico de Venezuela — Geografía, 3er Año. Grade: Grade 9 (3er Año de Educación Media) (student/teacher: STUDENT). PDF pages: 178 (printed pages run to 176, Bibliografía; cover/title page verified against the record title; release grab size-verified by grab.py). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/venezuela-placements.md.
 
+**Book 8:** *Kitab al-Jughrafia lilsana al-Sadisa min al-Ta'lim al-Ibtida'i (Geography Book, Sixth Year of Primary Education)* (student book, Arabic) — Institut Pédagogique National (IPN), Mauritania; year no year printed on title page; ISBN no ISBN printed. Title as printed: Kitab al-Jughrafia lilsana al-Sadisa min al-Ta'lim al-Ibtida'i (Geography Book, Sixth Year of Primary Education). Grade: Grade 6 (6e année fondamentale) (student/teacher: STUDENT). PDF pages: 53 (cover/title page verified against the record title; fetched from the record's source URL docs.bsimr.com/pdfs/fondamentals/GEO-6AF-M.pdf, 4,284,854 bytes). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mauritania-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Drought is temporary; aridity is permanent | G12 student #76, printed pp. 202–205 |
@@ -26,8 +28,9 @@ countries: Ethiopia, Angola, Zimbabwe, Eritrea, Slovenia, Venezuela
 | Eritrea part (ER G7 Social Studies) — Unit 8: 8.2 Drought | Eritrea, *ER G7 Social Studies*, Unit 8: 8.2 Drought — printed p. 113 |
 | Slovenia part — Naravne nesreče / Suša (natural disasters; drought) inside Podnebne spremembe | Slovenia, *Slovenia Grade 10 Geografija 1 (gimnazija)*, Naravne nesreče / Suša (natural disasters; drought) inside Podnebne spremembe — printed p. 99 |
 | Venezuela part — Defender la selva tropical: consequences of a prolonged drought; Venezuela prepares for climate change | Venezuela, *Venezuela Grade 9 G9 Geography Venezuela*, Defender la selva tropical: consequences of a prolonged drought; Venezuela prepares for climate change — printed p. 171 |
+| Mauritania part — Unit 3 Lesson 7: the Permanent Interstate Committee for Drought Control in the Sahel (CILSS) | Mauritania, *Mauritania Grade 6 geo-6af-m*, Unit 3 Lesson 7: the Permanent Interstate Committee for Drought Control in the Sahel (CILSS) — printed p. 27 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Angola, Eritrea, Slovenia, Venezuela). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 6 countries (Ethiopia, Angola, Eritrea, Slovenia, Venezuela, Mauritania). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
 
 No book error in the placements for this lesson is taught here. Figures and dates are taught exactly as the placements report them, as the book's own record.
 
@@ -44,3 +47,5 @@ Eritrea's own way (ER G7 Social Studies): Grade 7 turns fully to skills and Erit
 Slovenia's own way (Slovenia Grade 10 Geografija 1 (gimnazija)): the gimnazija first year is systematic physical geography first (Earth's interior, rocks, landforms, weather and climate, soils, vegetation, waters), then human geography (population, settlements, farming, industry and energy, transport, tourism), closing on sustainable development and spatial planning — with Slovenian cases (earthquake risk in Slovenia, the Port of Koper) set inside the world topics.
 
 Venezuela's own way (Venezuela Grade 9 G9 Geography Venezuela): a full national geography written as Geohistoria — every physical topic (position, climate, relief, hydrography) is paired with the historical stages that organised the same space (agrarian Venezuela, oil Venezuela, 21st-century Venezuela), and the Amazon rainforest closes the book as a defence-of-life argument.
+
+Mauritania's own way (Mauritania Grade 6 geo-6af-m): The final primary book turns outward: five of its six units place Mauritania inside its organisations — the Arab Maghreb Union, the Senegal River organisation (OMVS), the Arab League, the African Union, the Sahel drought committee (CILSS), the Organisation of Islamic Cooperation — and inside the industrial world (Europe, North America, the industrial East), before a closing world unit on continents, oceans, seas, rivers and straits.

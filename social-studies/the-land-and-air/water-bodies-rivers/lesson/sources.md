@@ -1,6 +1,6 @@
 # Sources — Water Bodies — Rivers
 
-countries: Ethiopia, Iceland, Belarus, Guatemala, Eritrea, Slovenia, Papua New Guinea, Uganda, Venezuela
+countries: Ethiopia, Iceland, Belarus, Guatemala, Eritrea, Slovenia, Papua New Guinea, Uganda, Venezuela, Mauritania
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -26,6 +26,8 @@ countries: Ethiopia, Iceland, Belarus, Guatemala, Eritrea, Slovenia, Papua New G
 
 **Book 12:** *¡Viva Venezuela! Ciencias Sociales 3er Grado* (student book, Spanish) — Ministerio del Poder Popular para la Educación / Colección Bicentenario; year 2014 (fourth edition, April 2014); ISBN 978-980-218-299-2. Title as printed: ¡Viva Venezuela! Ciencias Sociales 3er Grado. Grade: Grade 3 (student/teacher: STUDENT). PDF pages: 91 (printed pages run to 176 in spreads; cover/title page verified against the record title; grab SHA/size verified by grab.py). Verdict: COMPLETE. (Combined book — Geography parts placed below; parts named, not placed — History parts named, not placed: Nuestros ancestros más remotos (printed p. 56); Esclavizados y afrodescendientes (p. 58); Revisando los períodos de nuestra historia económica (p. 72); presidentes del período Republicano Agrícola (p. 76); Bolívar Presidente (p. 78); La guerra y la paz en tiempos de Zamora (p. 84); La moneda venezolana también tiene su historia (p. 88); La República Petrolera (p. 94); Simón Rodríguez (p. 18).; Civics parts named, not placed: Necesario es respetarnos y entreayudarnos (p. 10); De las reglas del juego a las de la escuela (p. 20); Tenemos patria (p. 62); Novedades de la igualdad ante la ley (p. 110); Solidaridad con quienes la necesitan (p. 108).) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/venezuela-placements.md.
 
+**Book 13:** *Al-Jughrafia — Kitab al-Tilmidh, lilsana al-Rabi'a min al-Ta'lim al-Ibtida'i (Geography — Pupil's Book, Fourth Year of Primary Education)* (student book, Arabic) — Institut Pédagogique National (IPN), Mauritania; year 2025; ISBN no ISBN printed. Title as printed: Al-Jughrafia — Kitab al-Tilmidh, lilsana al-Rabi'a min al-Ta'lim al-Ibtida'i (Geography — Pupil's Book, Fourth Year of Primary Education). Grade: Grade 4 (4e année fondamentale) (student/teacher: STUDENT). PDF pages: 46 (cover/title page verified against the record title; fetched from the record's source URL docs.bsimr.com/pdfs/fondamentals/GEO-4AF-M.pdf, 2,356,147 bytes). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mauritania-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Flowing water in a channel | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 8–9 |
@@ -41,8 +43,9 @@ countries: Ethiopia, Iceland, Belarus, Guatemala, Eritrea, Slovenia, Papua New G
 | Uganda part — Topic 2: Rivers in Uganda | Uganda, *Uganda Grade 5 UG Excel P5 SST*, Topic 2: Rivers in Uganda — printed p. 32 |
 | Uganda part — Topic 2: Major rivers in East Africa | Uganda, *Uganda Grade 6 UG Excel P6 SST*, Topic 2: Major rivers in East Africa — printed p. 112 |
 | Venezuela part — Nuestras aguas dulces | Venezuela, *Venezuela Grade 3 G3 CS Viva Venezuela*, Nuestras aguas dulces — printed p. 66 |
+| Mauritania part — Watercourses | Mauritania, *Mauritania Grade 4 geo-4af-m*, Watercourses — printed p. 7 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Iceland, Belarus, Guatemala, Eritrea, Slovenia, Uganda, Venezuela). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 9 countries (Ethiopia, Iceland, Belarus, Guatemala, Eritrea, Slovenia, Uganda, Venezuela, Mauritania). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Iceland's own way: a one-page map-labelling work card (vinnukort): pupils work directly on the outline map of their own country, its main rivers and lakes already drawn in for identification, with a 0–50 km scale bar.
 
@@ -67,3 +70,5 @@ Uganda's own way (Uganda Grade 5 UG Excel P5 SST): A full-year commercial compan
 Uganda's own way (Uganda Grade 6 UG Excel P6 SST): The P6 course widens from Uganda to the whole East African Community: location by latitude/longitude, resources, transport and communication are all taught at EAC scale. Non-Geography parts named, not placed: Topic 1 — historical background, formation, revival, organs and symbols of the EAC (Civics); The People of East Africa — origin of human beings, sources of history, archaeological sites, Stone Age, ethnic groups and their political/social/economic organisation (History, printed pp. 25–54); Early visitors — Arab traders, long-distance and slave trade, European traders, Christian missionaries (History, pp. 55–64); Topic 4 The Road to Independence in East Africa — explorers, scramble and partition, colonial rule and reactions, independence struggle, post-independence leaders and democratic rule (History/Civics, pp. 140–188).
 
 Venezuela's own way (Venezuela Grade 3 G3 CS Viva Venezuela): the second half is a state-by-state tour of Venezuela (territorial organisation, Nueva Esparta, Sucre, the Capital, Vargas, Zulia, the Andean states, the Llanos, Guayana) taught through local stories and children of each region — regional geography as a journey around the child's own country.
+
+Mauritania's own way (Mauritania Grade 4 geo-4af-m): A one-topic-per-spread observation book that moves from the child's own wilaya outward: the wilaya map first, then the landforms of home (watercourses, mountains, plains, plateaus, sand dunes), the weather elements and the two measuring instruments (thermometer, rain gauge), then the lived place — public places, archaeological sites, street names, my village, the capital of my wilaya — closing with integration exercises on the relief and climate of the wilaya capital.

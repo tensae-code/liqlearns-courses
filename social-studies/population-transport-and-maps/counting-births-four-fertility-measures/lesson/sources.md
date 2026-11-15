@@ -1,6 +1,6 @@
 # Sources — Counting births — four fertility measures
 
-countries: Ethiopia, Brazil
+countries: Ethiopia, Brazil, Mauritania
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Brazil
 
 **Book 5:** *Geografia, Livro Didático Público, Ensino Médio* (student book, Portuguese) — Brazil, Secretaria de Estado da Educação do Paraná (SEED-PR), Curitiba; year 2007 (2ª edição); ISBN 85-85380-35-7. Title as printed: Geografia — Ensino Médio (Livro Didático Público; record title: Geografia — Livro Didático Público — Ensino Médio (SEED-PR)). Grade 10 (Ensino Médio) (student). 280 PDF pp. (cover/title page verified against the record title; printed book 280 pp.). Verdict: COMPLETE. Read via grab.py url (GitHub release; OK 8,324,996 bytes). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/brazil-placements.md.
 
+**Book 6:** *Dalil al-Ustadh lil-Jughrafia — al-Sana al-Ula al-I'dadiya (Teacher's Guide for Geography, First Year of Preparatory/Secondary)* (teacher guide, Arabic) — Institut Pédagogique National (IPN), Mauritania; year 2025; ISBN no ISBN printed. Title as printed: Dalil al-Ustadh lil-Jughrafia — al-Sana al-Ula al-I'dadiya (Teacher's Guide for Geography, First Year of Preparatory/Secondary). Grade: Grade 7 (1e année secondaire) (student/teacher: TEACHER). PDF pages: 44 (cover/title page verified against the record title; file size 954,417 bytes matches the books.json record exactly; read in place at phase3-staging/grade-07/gov/mauritania/guide-geo-1as.pdf, never moved). Verdict: COMPLETE. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mauritania-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The crude birth rate | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 4, printed pp. 108–110 |
@@ -21,11 +23,14 @@ countries: Ethiopia, Brazil
 | Sub lesson — Africa's fertility — the Grade 10 measures | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 4, printed pp. 96–99 |
 | Teaching pattern and answer keys (teacher guide — evidence) — Grade 10 | Ethiopia, *Geography, Teacher Guide, Grade 10*, Unit 4, guide printed pp. 65–84 |
 | Brazil part — Folha 8: Passa por sua cabeça ter muitos filhos? / Would you think of having many children? (fertility and demographic change) | Brazil, *Geografia, Livro Didático Público, Ensino Médio*, Grade 10, Folha 8: Passa por sua cabeça ter muitos filhos? / Would you think of having many children? (fertility and demographic change), printed p. 132 |
+| Mauritania part — Unit 3: calculating birth, death, natural increase and fertility rates (teacher guide — evidence) | Mauritania, *Mauritania Grade 7 guide-geo-1as* (teacher guide), Unit 3: calculating birth, death, natural increase and fertility rates — printed p. 19 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Brazil).**
+**Acceptance count: taught in 2 countries (Ethiopia, Brazil). Mauritania is named here as teacher-guide evidence only, counted nowhere.**
 
 No book error is flagged for this lesson's pages in the placements. The student book's body numbering for Unit Two drifts from its own contents (regions printed as 2.4, factors as 2.5, local classification as 2.6, where the contents and the teacher guide's contents agree on 2.3, 2.4 and 2.5); this lesson follows the contents numbering and teaches no misprint.
 
 Extension (Wave 4 Band D): the Grade 10 part was stacked under the Grade 11 lesson per the build brief — the Grade 10 book defines TFR and CBR and prints Africa's crude birth rate as 33 per 1,000 in mid-2020; the Grade 11 formulas and worked examples above are not repeated.
 
 Searchable tags: fertility measures, CBR TFR GRR GFR, ethiopia, social studies, population transport and maps
+
+Mauritania's own way (Mauritania Grade 7 guide-geo-1as) (teacher guide — evidence): A competency-based guide (IPN 2025 reform) that fixes the whole Grade 7 course in three units — Earth and its main relief, Climate, Population and urbanisation — each unit ending in a class project, and every general topic anchored to Mauritania itself: the country's astronomical location, its relief map and Atlantic coast, rainfall differences between its wilayas, its age pyramid, and the growth of Nouakchott. Sample lesson plans (fiches) are given for one lesson per unit, plus model term exams with answers. That evidence is stocked here as the way Mauritania teaches this thing; it does not change the acceptance count above.

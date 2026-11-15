@@ -1,6 +1,6 @@
 # Sources — Revolution and the Seasons
 
-countries: Ethiopia, Myanmar, Turkey, Jamaica, Palestine, Bahamas, Malaysia, Eritrea, India, Rwanda, Vietnam, Uganda, Syria, Sri Lanka
+countries: Ethiopia, Myanmar, Turkey, Jamaica, Palestine, Bahamas, Malaysia, Eritrea, India, Rwanda, Vietnam, Uganda, Syria, Sri Lanka, Mauritania
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page - 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md.
 
@@ -34,6 +34,8 @@ countries: Ethiopia, Myanmar, Turkey, Jamaica, Palestine, Bahamas, Malaysia, Eri
 
 **Book 16:** *புவியியல் — முதலாம் பாகம் (Geography — Part One), for the G.C.E. (Advanced Level)* (student book, Tamil) — Educational Publications Department; first edition 1976; no ISBN printed (pre-ISBN Sri Lankan imprint; library copy stamped Jaffna Public Library). Title as printed: புவியியல் — முதலாம் பாகம் (Geography — Part One), for the G.C.E. (Advanced Level). Grade: 12 (student/teacher: STUDENT). PDF pages: 230 (Noolaham scan; cover verified against the record; grabbed via grab.py from the GitHub release URL, 110,744,638 bytes, size-verified; read in full page-by-page on contact sheets — image-only scan; printed pp. 1–210 plus a chapter-grouped bibliography). Verdict: COMPLETE (Part I complete in itself; a separate Part II exists outside this record). Part I complete in itself; a separate Part II exists outside this record, as the placements file labels it. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sri-lanka-placements.md.
 
+**Book 17:** *Al-Jughrafia — Kitab al-Tilmidh, lilsana al-Rabi'a min al-Ta'lim al-Ibtida'i (Geography — Pupil's Book, Fourth Year of Primary Education)* (student book, Arabic) — Institut Pédagogique National (IPN), Mauritania; year 2025; ISBN no ISBN printed. Title as printed: Al-Jughrafia — Kitab al-Tilmidh, lilsana al-Rabi'a min al-Ta'lim al-Ibtida'i (Geography — Pupil's Book, Fourth Year of Primary Education). Grade: Grade 4 (4e année fondamentale) (student/teacher: STUDENT). PDF pages: 46 (cover/title page verified against the record title; fetched from the record's source URL docs.bsimr.com/pdfs/fondamentals/GEO-4AF-M.pdf, 2,356,147 bytes). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mauritania-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — what revolution causes: the Sun's apparent journey, day length, seasons | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 1, printed pp. 21–23 |
@@ -52,8 +54,9 @@ countries: Ethiopia, Myanmar, Turkey, Jamaica, Palestine, Bahamas, Malaysia, Eri
 | Syria part — The four friends (the four seasons) | Syria, *Syria Grade 1 Social Studies G1*, The four friends (the four seasons) — printed p. 56 |
 | Sri Lanka part — Unit 2 Revolution of the Earth: orbit, leap year, equinoxes and solstices, the four seasons | Sri Lanka, *Sri Lanka Grade 8 G8 English*, Unit 2 Revolution of the Earth: orbit, leap year, equinoxes and solstices, the four seasons — printed p. 23 |
 | Sri Lanka part — Chapter 11: revolution and the seasons (placement slug: earth-and-space/earths-revolution-and-seasons — the lesson stands under this title, stocked here) | Sri Lanka, *Sri Lanka G12 Tamil SB Part I*, Chapter 11: revolution and the seasons — printed p. 126 |
+| Mauritania part — The seasons of the year | Mauritania, *Mauritania Grade 4 geo-4af-m*, The seasons of the year — printed p. 17 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Turkey, Palestine, Bahamas, Malaysia, Eritrea, India, Rwanda, Vietnam, Uganda, Syria, Sri Lanka). Myanmar is named here as teacher-guide evidence only, counted nowhere. Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 13 countries (Ethiopia, Turkey, Palestine, Bahamas, Malaysia, Eritrea, India, Rwanda, Vietnam, Uganda, Syria, Sri Lanka, Mauritania). Myanmar is named here as teacher-guide evidence only, counted nowhere. Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grade 6 Exploratory Core, curriculum guide — evidence): the Grade 6 Social Studies year is built as three paired terms — culture and independence first, then the physical world (mountains, landmasses and water bodies), then climate, Earth movements and the atmosphere, closing on Caribbean cooperation. That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
@@ -88,3 +91,5 @@ Syria's own way (Syria Grade 1 Social Studies G1): the Grade 1 book starts the s
 Sri Lanka's own way (Sri Lanka Grade 8 G8 English): a four-unit arc — Solar System, Earth's uniqueness, then regional geography taught as six South Asian "landscapes" (mountain, valley, coastal, rural, industrial-urban, desert), closing with Sri Lanka's own 1:50,000 topographic-sheet system (92 sheets) that Grade 9 continues.
 
 Sri Lanka's own way (Sri Lanka G12 Tamil SB Part I): the old A/L course opens with a full astronomy block (universe, solar system, origin theories, telescopes, the space age) before turning to the Earth, then teaches geography as man-and-environment study in the Brunhes / Vidal de la Blache tradition (the bibliography names them), and closes with map interpretation on a Sri Lanka topographic sheet.
+
+Mauritania's own way (Mauritania Grade 4 geo-4af-m): A one-topic-per-spread observation book that moves from the child's own wilaya outward: the wilaya map first, then the landforms of home (watercourses, mountains, plains, plateaus, sand dunes), the weather elements and the two measuring instruments (thermometer, rain gauge), then the lived place — public places, archaeological sites, street names, my village, the capital of my wilaya — closing with integration exercises on the relief and climate of the wilaya capital.

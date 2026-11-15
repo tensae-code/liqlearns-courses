@@ -1,6 +1,6 @@
 # Sources — Water Bodies — The Five Oceans
 
-countries: Ethiopia, Nauru, Tuvalu, Guatemala, Angola, Dominican Republic, Bahamas, Eritrea, India, Slovenia, Papua New Guinea, Sudan
+countries: Ethiopia, Nauru, Tuvalu, Guatemala, Angola, Dominican Republic, Bahamas, Eritrea, India, Slovenia, Papua New Guinea, Sudan, Mauritania
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -32,6 +32,8 @@ countries: Ethiopia, Nauru, Tuvalu, Guatemala, Angola, Dominican Republic, Baham
 
 **Book 15:** *كتاب الجغرافيا — Geography Book, First Year Intermediate (الصف الأول المتوسط)* (student book, Arabic) — Republic of Sudan, Ministry of Education, National Centre for Curricula and Educational Research (Bakht al-Ruda); first edition 2021; no ISBN printed. Title as printed: كتاب الجغرافيا — Geography Book, First Year Intermediate (الصف الأول المتوسط). Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 104 (cover verified against the record title; byte size 18,445,877 and page count match the staging books.json record exactly; read via the recorded Drive source_url after grab.py failed/truncated — GitHub-secured book, download deleted after filing). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sudan-placements.md.
 
+**Book 16:** *Kitab al-Jughrafia lilsana al-Sadisa min al-Ta'lim al-Ibtida'i (Geography Book, Sixth Year of Primary Education)* (student book, Arabic) — Institut Pédagogique National (IPN), Mauritania; year no year printed on title page; ISBN no ISBN printed. Title as printed: Kitab al-Jughrafia lilsana al-Sadisa min al-Ta'lim al-Ibtida'i (Geography Book, Sixth Year of Primary Education). Grade: Grade 6 (6e année fondamentale) (student/teacher: STUDENT). PDF pages: 53 (cover/title page verified against the record title; fetched from the record's source URL docs.bsimr.com/pdfs/fondamentals/GEO-6AF-M.pdf, 4,284,854 bytes). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mauritania-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The largest water bodies | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed p. 6 |
@@ -44,6 +46,7 @@ countries: Ethiopia, Nauru, Tuvalu, Guatemala, Angola, Dominican Republic, Baham
 | Slovenia part — Oceani in morja / Gibanje morske vode (oceans and seas; movement of sea water) inside Površinske in podzemne vode | Slovenia, *Slovenia Grade 10 Geografija 1 (gimnazija)*, Oceani in morja / Gibanje morske vode (oceans and seas; movement of sea water) inside Površinske in podzemne vode — printed p. 158 |
 | Papua New Guinea part — Strand 5 Unit 2, Topics 2–3: Characteristics of oceans; life in the oceans (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 9 Social Science TG* (teacher guide), Strand 5 Unit 2, Topics 2–3: Characteristics of oceans; life in the oceans — printed p. 245 |
 | Sudan part — The world's oceans and seas, outer and landlocked | Sudan, *Sudan Grade 7 SD Geography 7*, The world's oceans and seas, outer and landlocked — printed p. 7 |
+| Mauritania part — Unit 6 Lesson 14: the oceans | Mauritania, *Mauritania Grade 6 geo-6af-m*, Unit 6 Lesson 14: the oceans — printed p. 47 |
 
 | Sub lesson 4 — Arctic and Atlantic — Grade 11 portraits (Grade 11 depth) | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 1, printed pp. 18–20 |
 | Sub lesson 5 — Indian and Pacific — Grade 11 portraits (Grade 11 depth) | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 1, printed pp. 18–20 |
@@ -54,7 +57,7 @@ countries: Ethiopia, Nauru, Tuvalu, Guatemala, Angola, Dominican Republic, Baham
 | Guatemala part — Mares y océanos: Atlántico/Mar Caribe and Pacífico around the isthmus | Guatemala, *Ciencias Sociales y Formación Ciudadana*, Grade 4, Mares y océanos: Atlántico/Mar Caribe and Pacífico around the isthmus (Unit 2) — printed p. 83 |
 | Dominican Republic part (Grade 3) — Seas and oceans, and the impact of human actions on them | Dominican Republic, *Ciencias Sociales, Tercer Grado, Primaria (Libro Abierto)*, Grade 3, Seas and oceans, and the impact of human actions on them — printed p. 16 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Nauru, Tuvalu, Guatemala, Angola, Dominican Republic, Bahamas, Eritrea, India, Slovenia, Sudan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 12 countries (Ethiopia, Nauru, Tuvalu, Guatemala, Angola, Dominican Republic, Bahamas, Eritrea, India, Slovenia, Sudan, Mauritania). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Nauru's own way: Nauru uses the shared Pacific ESD reader suite (local advisors Fay Itaia & Sharon Kam for Nauru) — Geography is taught as ocean stewardship: the Pacific as a connected "sea of islands", its animals, and the traditional fishing knowledge of Tonga, Tuvalu and Niue, ending in a plastic-waste action plan. That way is stocked here as the way Nauru teaches this thing.
 
@@ -83,3 +86,5 @@ Slovenia's own way (Slovenia Grade 10 Geografija 1 (gimnazija)): the gimnazija f
 Papua New Guinea's own way (Papua New Guinea Grade 9 Social Science TG) (teacher guide — evidence): at secondary level Social Science splits into five strands — Geography, History, Political Science, Economics, Environment. The Geography strand is a weather-and-climate skills course (instruments, data, graphs — with Port Moresby and Kokopo data) moving to world climate/vegetation, migration, and land use; the Environment strand carries Earth systems, resources and sustainability. That evidence is stocked here as the way Papua New Guinea teaches this thing; it does not change the acceptance count above.
 
 Sudan's own way (Sudan Grade 7 SD Geography 7): A continents book: after a world opener (continents, oceans, relief, world environments), each continent — Africa, Asia, Europe — gets the same treatment in the same order (relief, drainage, climate, vegetation, population, economic activity, environmental problems), closing with a British Isles case study; Sudan and Africa anchor the examples throughout.
+
+Mauritania's own way (Mauritania Grade 6 geo-6af-m): The final primary book turns outward: five of its six units place Mauritania inside its organisations — the Arab Maghreb Union, the Senegal River organisation (OMVS), the Arab League, the African Union, the Sahel drought committee (CILSS), the Organisation of Islamic Cooperation — and inside the industrial world (Europe, North America, the industrial East), before a closing world unit on continents, oceans, seas, rivers and straits.

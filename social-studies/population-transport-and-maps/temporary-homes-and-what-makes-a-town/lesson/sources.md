@@ -1,6 +1,6 @@
 # Sources — Temporary homes, and what makes a town
 
-countries: Ethiopia, Turkey, Palestine, Bangladesh, Egypt, Bahamas, Malaysia, Eritrea, India, Slovenia, Syria
+countries: Ethiopia, Turkey, Palestine, Bangladesh, Egypt, Bahamas, Malaysia, Eritrea, India, Slovenia, Syria, Mauritania
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -30,6 +30,8 @@ countries: Ethiopia, Turkey, Palestine, Bangladesh, Egypt, Bahamas, Malaysia, Er
 
 **Book 14:** *الدراسات الاجتماعية — الصف الثاني الأساسي (Social Studies, Second Grade Basic)* (student book, Arabic) — Ministry of Education, Syrian Arab Republic; year 2025–2026 (1447 H); no ISBN printed. Title as printed: الدراسات الاجتماعية — الصف الثاني الأساسي (Social Studies, Second Grade Basic). Grade: Grade 2 (student/teacher: STUDENT). PDF pages: 96 (cover/title page verified against the record title; grabbed via the repo release route, 266,065,947 bytes = record size exactly). Verdict: COMPLETE. (Non-Geography parts named, not placed: Unit 1 Me — who am I, my feelings, achieving my goal, the right decision, protecting myself (printed pp. 10, 14, 16, 18, 22, personal); Unit 2 Me and You — little ones and grown-ups, friends, dialogue (printed pp. 28, 32, 36, Civics); Unit 3 My Safety — my correct behaviour, I am careful (printed pp. 42, 44, Civics/safety); Unit 4 Lesson 1 For me and for you (printed p. 48, Civics); Unit 5 Lesson 3 The little actor (printed p. 68, drama); Unit 6 Lessons 1, 3, 4, 5 — my homeland's flag, between past and present, by work we build our homeland, I choose my purchases (printed pp. 84, 92, 94, 98, Civics/History).) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/syria-placements.md.
 
+**Book 15:** *Al-Jughrafia — Kitab al-Tilmidh, lilsana al-Rabi'a min al-Ta'lim al-Ibtida'i (Geography — Pupil's Book, Fourth Year of Primary Education)* (student book, Arabic) — Institut Pédagogique National (IPN), Mauritania; year 2025; ISBN no ISBN printed. Title as printed: Al-Jughrafia — Kitab al-Tilmidh, lilsana al-Rabi'a min al-Ta'lim al-Ibtida'i (Geography — Pupil's Book, Fourth Year of Primary Education). Grade: Grade 4 (4e année fondamentale) (student/teacher: STUDENT). PDF pages: 46 (cover/title page verified against the record title; fetched from the record's source URL docs.bsimr.com/pdfs/fondamentals/GEO-4AF-M.pdf, 2,356,147 bytes). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mauritania-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Temporary settlements | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 4, printed pp. 106–109 |
@@ -47,8 +49,9 @@ countries: Ethiopia, Turkey, Palestine, Bangladesh, Egypt, Bahamas, Malaysia, Er
 | Slovenia part — Naselja glede na velikost / Občine in kataster (settlements by size; municipalities and the cadastre) inside Naselja | Slovenia, *Slovenia Grade 9 Geografija 9*, Naselja glede na velikost / Občine in kataster (settlements by size; municipalities and the cadastre) inside Naselja — printed p. 61 |
 | Syria part — Life in the city | Syria, *Syria Grade 4 Social Studies G4*, Life in the city — printed p. 67 |
 | Syria part — Building in my homeland (settlement and buildings) | Syria, *Syria Grade 2 Social Studies G2*, Building in my homeland (settlement and buildings) — printed p. 54 |
+| Mauritania part — The capital of my wilaya | Mauritania, *Mauritania Grade 4 geo-4af-m*, The capital of my wilaya — printed p. 36 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Turkey, Palestine, Bangladesh, Egypt, Bahamas, Malaysia, Eritrea, India, Slovenia, Syria).**
+**Acceptance count: taught in 12 countries (Ethiopia, Turkey, Palestine, Bangladesh, Egypt, Bahamas, Malaysia, Eritrea, India, Slovenia, Syria, Mauritania).**
 
 Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
@@ -75,3 +78,5 @@ Slovenia's own way (Slovenia Grade 9 Geografija 9): Grade 9 turns home — the w
 Syria's own way (Syria Grade 4 Social Studies G4): the whole primary book is one-country geography of Syria — nature, then life (Badia, countryside, city), then work (agriculture, industry, trade, tourism) — with map tools (map symbols, four directions) and a tree-cutting/environment strand built into the opening unit's goals.
 
 Syria's own way (Syria Grade 2 Social Studies G2): the same widening-rings design as Grade 3 (Me → Me and You → My Safety → My Society → My Environment → My Homeland), with the Geography carried by the society/environment/homeland rings: Earth's inhabitants, building in the homeland, heritage, and an environment unit built on the land's beauty and riches, diverse nature, water drops and a windy day.
+
+Mauritania's own way (Mauritania Grade 4 geo-4af-m): A one-topic-per-spread observation book that moves from the child's own wilaya outward: the wilaya map first, then the landforms of home (watercourses, mountains, plains, plateaus, sand dunes), the weather elements and the two measuring instruments (thermometer, rain gauge), then the lived place — public places, archaeological sites, street names, my village, the capital of my wilaya — closing with integration exercises on the relief and climate of the wilaya capital.

@@ -1,6 +1,6 @@
 # Sources — Maps and globes — kinds of maps and scale
 
-countries: Ethiopia, France, Myanmar, Haiti, Costa Rica, Ecuador, Palestine, Bahamas, Zimbabwe, Colombia, India, Fiji, Uzbekistan, Papua New Guinea, Uganda
+countries: Ethiopia, France, Myanmar, Haiti, Costa Rica, Ecuador, Palestine, Bahamas, Zimbabwe, Colombia, India, Fiji, Uzbekistan, Papua New Guinea, Uganda, Mauritania
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 2, placements 27–43).
 
@@ -34,6 +34,8 @@ countries: Ethiopia, France, Myanmar, Haiti, Costa Rica, Ecuador, Palestine, Bah
 
 **Book 16:** *Geography Teacher's Guide — Senior One (Lower Secondary Curriculum, Prototype)* (teacher guide, English) — National Curriculum Development Centre (NCDC), Kampala; year 2020 (prototype); ISBN no ISBN printed. Title as printed: Geography Teacher's Guide — Senior One (Lower Secondary Curriculum, Prototype). Grade: Senior One = Grade 8 (student/teacher: TEACHER). PDF pages: 134 (cover verified: "GEOGRAPHY TEACHER'S GUIDE SENIOR ONE", NCDC Prototype — matches record; read via the record's books.json source_url at ncdc.go.ug after grab.py routes failed with RemoteDisconnected from api.github.com). Verdict: COMPLETE. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/uganda-placements.md.
 
+**Book 17:** *Kitab al-Jughrafia lilsana al-Khamisa Adab 'Asriya (Geography Book, Fifth Year — Modern Letters)* (student book, Arabic) — Institut Pédagogique National (IPN), Mauritania; year no year printed on title page; ISBN no ISBN printed. Title as printed: Kitab al-Jughrafia lilsana al-Khamisa Adab 'Asriya (Geography Book, Fifth Year — Modern Letters). Grade: Grade 11 (5e année secondaire, lettres modernes) (student/teacher: STUDENT). PDF pages: 113 (cover/title page verified against the record title; the TSV tree record and the TSV release-asset record are the same book; fetched from the record's source URL docs.bsimr.com/pdfs/secondaire2s/GEO-5AS-LM.pdf, 3,217,391 bytes). Verdict: COMPLETE. The TSV tree record and the TSV release-asset record are the same book, counted once, as the placements file labels it. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mauritania-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Kinds of maps by message | Ethiopia, *Social Studies Student Textbook, Grade 7* (Amhara Bureau), printed pp. 49–50 |
@@ -48,6 +50,7 @@ countries: Ethiopia, France, Myanmar, Haiti, Costa Rica, Ecuador, Palestine, Bah
 | Uzbekistan part — §2 Geographical maps and their types; atlases and globes | Uzbekistan, *Uzbekistan Grade 6 Geografiya (Soatov & Abdulqosimov)*, §2 Geographical maps and their types; atlases and globes — printed p. 8 |
 | Papua New Guinea part — Unit 1, Topic 7: Distinct maps — kinds of maps (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 11 Geography TG SBC* (teacher guide), Unit 1, Topic 7: Distinct maps — kinds of maps — printed p. 41 |
 | Uganda part — Ch.3 Maps and Their Use (scale, grid, bearing, lat/long guidance) (teacher guide — evidence) | Uganda, *Uganda Grade 8 UG S1 Geography TG* (teacher guide), Ch.3 Maps and Their Use (scale, grid, bearing, lat/long guidance) — printed p. 15 |
+| Mauritania part — Unit 1 Lesson 3: representing the Earth and reading maps | Mauritania, *Mauritania Grade 11 geo-5as-lm*, Unit 1 Lesson 3: representing the Earth and reading maps — printed p. 17 |
 
 | France part — Thème 2 Bilan/Évaluation: Cartographier — dessiner les dynamiques et les inégalités du territoire français (croquis, construire la légende) | France, *Géographie 2de GT, Manuel Libre de Géographie, Seconde*, Grade 10, Sommaire Thème 2 |
 | Different types of maps — Myanmar way: 5.1 (teacher guide — evidence) | Myanmar, *Teacher Guide — Geography — Grade 6* (teacher guide), §5.1, printed p. 78 |
@@ -55,7 +58,7 @@ countries: Ethiopia, France, Myanmar, Haiti, Costa Rica, Ecuador, Palestine, Bah
 | Costa Rica part — map-work — main sellers and buyers of timber in the world (flow map); production maps of Europe and Africa compared | Costa Rica, *Estudios Sociales 11 (Porras y Gamboa)*, Grade 11, Unit 1 B practicals — printed p. 24 |
 | Ecuador part — Estudios cartográficos para entender geografía (cartographic studies: map concepts and practice) | Ecuador, *Estudios Sociales 8vo EGB*, Grade 8, Estudios cartográficos para entender geografía (cartographic studies: map concepts and practice) — printed p. 99 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, France, Costa Rica, Ecuador, Palestine, Bahamas, Colombia, India, Fiji, Uzbekistan). Myanmar is named here as teacher-guide evidence only, counted nowhere. Haiti is named here as teacher-sequence evidence only, counted nowhere. Zimbabwe is named here as teacher-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere. Uganda is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 11 countries (Ethiopia, France, Costa Rica, Ecuador, Palestine, Bahamas, Colombia, India, Fiji, Uzbekistan, Mauritania). Myanmar is named here as teacher-guide evidence only, counted nowhere. Haiti is named here as teacher-sequence evidence only, counted nowhere. Zimbabwe is named here as teacher-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere. Uganda is named here as teacher-guide evidence only, counted nowhere.**
 
 Haiti's own way (teacher sequence — evidence): Geography opens with representing the Earth itself — globe-to-flat projection problems, orientation practised on the ground with compass/GPS/Google Maps, and time-zone puzzles worked on Haiti's own links (midday shared with Québec, 18h in Paris, Port-au-Prince–Paris flights); every séance ends in a croquis, a glossary and field observation. That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
@@ -90,3 +93,5 @@ Uzbekistan's own way (Uzbekistan Grade 6 Geografiya): Geography in Grade 6 is th
 Papua New Guinea's own way (Papua New Guinea Grade 11 Geography TG SBC) (teacher guide — evidence): the standards-based senior Geography course keeps the four-unit frame of the Grade 9–10 strand (Geography Skills; People and Places; People and Resources; People and Environment) as a standalone subject — a heavy map-skills unit (grid references, bearings, cross-sections, climate graphs) before climate regions, biomass, oceanography, and the structure of the Earth. That evidence is stocked here as the way Papua New Guinea teaches this thing; it does not change the acceptance count above.
 
 Uganda's own way (Uganda Grade 8 UG S1 Geography TG) (teacher guide — evidence): The guide mirrors the learner book chapter for chapter, adding teacher instructions, possible responses and assessment for every activity — the same East-Africa-first, activity-led pedagogy, plus teacher-only content on plotting weather on maps and making simple weather instruments. That evidence is stocked here as the way Uganda teaches this thing; it does not change the acceptance count above.
+
+Mauritania's own way (Mauritania Grade 11 geo-5as-lm): The senior Letters cycle re-runs physical geography at full depth in four units — Planet Earth, Climate, the Effects of Climate, the Earth (structure, erosion, coasts) — with a class project closing Units 1 and 4.

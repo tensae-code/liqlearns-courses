@@ -1,6 +1,6 @@
 # Sources — What makes populations change
 
-countries: Ethiopia, Colombia, India, Rwanda, Fiji, Papua New Guinea, Uganda, Venezuela
+countries: Ethiopia, Colombia, India, Rwanda, Fiji, Papua New Guinea, Uganda, Venezuela, Mauritania
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). Editors: Sintayehu Teka (MSc) (Content Editor), Kassie Molla (MA) (Language Editor), Hirut Woldemichael (MA) (Curriculum Editor). Illustrator: Agenchw Nega (MSc). Designer: Geda Hoka (MA). Evaluators: Dereje Guteta (PhD), Tesfaye Shiferaw (PhD), Abebe Yibeltie (MA), Hussein Seid (MA). First published 2023 under GEQIP-E. ISBN 978-99990-0-049-9. Printed by Gravity Group IND LLC, 13th Industrial Area, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. Printed page = PDF page − 6 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md
 
@@ -30,6 +30,8 @@ countries: Ethiopia, Colombia, India, Rwanda, Fiji, Papua New Guinea, Uganda, Ve
 
 **Book 14:** *¡Viva Venezuela! Ciencias Sociales 2do Grado* (student book, Spanish) — Ministerio del Poder Popular para la Educación / Colección Bicentenario; year 2014 (fourth edition, April 2014); ISBN 978-980-218-298-5. Title as printed: ¡Viva Venezuela! Ciencias Sociales 2do Grado. Grade: Grade 2 (student/teacher: STUDENT). PDF pages: 75 (printed pages run to 144 in spreads; cover/title page verified against the record title; release grab size-verified by grab.py). Verdict: COMPLETE. (Combined book — Geography parts placed below; parts named, not placed — History parts named, not placed: Los que llegaron por el mar a Nuestra América (printed p. 83); Con la fundación de ciudades nace un país distinto (p. 88); fundación de Caracas y los pueblos indígenas (p. 92); Coro, una ciudad con la historia a cuestas (p. 98); Cuando Venezuela fue un país de grandes cacaos (p. 104); Primeras luchas contra el yugo español / Miranda / 19 de abril de 1810 / 5 de julio de 1811 / Carabobo / Colombia la grande (pp. 108–128); La casa de Simón Bolívar (p. 36).; Civics/culture parts named, not placed: Necesario es fortalecer la identidad venezolana (p. 56); La Bandera Nacional (p. 122); San Juan Congo (p. 106, Afro-Venezuelan festival).) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/venezuela-placements.md.
 
+**Book 15:** *Kitab al-Jughrafia lilsana al-Ula min al-Ta'lim al-I'dadi (Geography Book, First Year of Preparatory Education)* (student book, Arabic) — Institut Pédagogique National (IPN), Mauritania; year no year printed on title page; ISBN no ISBN printed. Title as printed: Kitab al-Jughrafia lilsana al-Ula min al-Ta'lim al-I'dadi (Geography Book, First Year of Preparatory Education). Grade: Grade 7 (1e année secondaire) (student/teacher: STUDENT). PDF pages: 96 (cover/title page verified against the record title; fetched from the record's source URL docs.bsimr.com/pdfs/secondaire1s/GEO-1AS-M.pdf, 11,100,011 bytes). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mauritania-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Births, deaths and migration | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 6, printed pp. 146–149 |
@@ -48,8 +50,9 @@ countries: Ethiopia, Colombia, India, Rwanda, Fiji, Papua New Guinea, Uganda, Ve
 | Uganda part — Topic 12: Introduction to population; Population growth | Uganda, *Uganda Grade 5 UG Excel P5 SST*, Topic 12: Introduction to population; Population growth — printed p. 194 |
 | Uganda part — Population in East Africa: Population growth | Uganda, *Uganda Grade 6 UG Excel P6 SST*, Population in East Africa: Population growth — printed p. 65 |
 | Venezuela part — La población puede aumentar o disminuir | Venezuela, *Venezuela Grade 2 G2 CS Viva Venezuela*, La población puede aumentar o disminuir — printed p. 58 |
+| Mauritania part — Unit 3 Lesson 11: population growth and migration | Mauritania, *Mauritania Grade 7 geo-1as-m*, Unit 3 Lesson 11: population growth and migration — printed p. 73 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Colombia, India, Rwanda, Fiji, Uganda, Venezuela). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 8 countries (Ethiopia, Colombia, India, Rwanda, Fiji, Uganda, Venezuela, Mauritania). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 No book error is flagged for this lesson's pages in the placements. The teacher guide was first published in 2022 against the student book's 2023; the student book is the learner text of record, and the guide is cited as evidence only.
 
@@ -78,3 +81,5 @@ Uganda's own way (Uganda Grade 5 UG Excel P5 SST): A full-year commercial compan
 Uganda's own way (Uganda Grade 6 UG Excel P6 SST): The P6 course widens from Uganda to the whole East African Community: location by latitude/longitude, resources, transport and communication are all taught at EAC scale. Non-Geography parts named, not placed: Topic 1 — historical background, formation, revival, organs and symbols of the EAC (Civics); The People of East Africa — origin of human beings, sources of history, archaeological sites, Stone Age, ethnic groups and their political/social/economic organisation (History, printed pp. 25–54); Early visitors — Arab traders, long-distance and slave trade, European traders, Christian missionaries (History, pp. 55–64); Topic 4 The Road to Independence in East Africa — explorers, scramble and partition, colonial rule and reactions, independence struggle, post-independence leaders and democratic rule (History/Civics, pp. 140–188).
 
 Venezuela's own way (Venezuela Grade 2 G2 CS Viva Venezuela): population education (UNESCO population-education guides reworked) woven into story form — Tío Conejo tales, grandparents' memories and the child's own school and street carry population, housing, landscape and weather-sign content.
+
+Mauritania's own way (Mauritania Grade 7 geo-1as-m): The student book of the course specified in Book 1 (the teacher guide): the same three units and 13 lessons, each lesson opening with expected outcomes and key concepts and closing with a concepts list per unit. General topics are worked with Mauritanian examples throughout, as the guide prescribes.

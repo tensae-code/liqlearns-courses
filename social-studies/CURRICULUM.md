@@ -4600,3 +4600,90 @@ Population Settlements Economy and World Natural
 Vegetation Zones stand on teacher-guide evidence only
 (acceptance count 0 countries), 8 questions each.
 Geography lessons: 1863 → 1914.
+
+
+## Mauritania — Geography expansion (merged 2026-11-15)
+185 placement lines stocked from Mauritania's 12
+distinct books (23 records in the placements file's
+header count; same repo path in TSV + books.json
+counted once, and the Grade 11 TSV release-asset record
+is the same file as the tree record) — the Grade 7
+Teacher's Guide for Geography (Arabic, Institut
+Pédagogique National, 2025) and the eleven Arabic
+student books (IPN): Grades 3, 4, 5 and 6 (fondamental)
+and Grades 7, 8, 9, 10, 11, 12 and 13 (secondaire).
+Read basis, carried exactly as the placements file
+records it: the teacher guide was read in place at
+phase3-staging; the student books exist only in the
+private textbooks repo and grab.py via the GitHub API
+failed repeatedly (RemoteDisconnected — GitHub API
+unreachable from this host during the wave), so they
+were fetched from their recorded source URLs at
+docs.bsimr.com (the IPN distribution site named in
+every books.json record) and verified by cover/title
+page against the record before reading — the read-basis
+is not upgraded. Carried exactly as the placements file
+labels them: the Grade 3 book's time-landmark axis is
+local HISTORY and is NOT placed (village, mosque,
+mahadra, school and dispensary founding histories,
+printed pp. 37–45); the Grade 10 book re-teaches the
+Grade 9 programme lesson-for-lesson at greater depth
+and is filed as its own distinct, longer edition (116
+pp vs 104 pp), not a duplicate; the Grade 12 book's
+printed title page reads Modern Letters although its
+file suffix is -cd. The teacher guide is cited as the
+evidence it is, outside acceptance counts; a lesson
+counts Mauritania only where a student book is stocked
+into it (4 standing lessons stand on teacher-guide
+evidence only for Mauritania). The placements file's
+own per-book tallies (24 + 11 + 16 + 19 + 16 + 13 + 13
++ 13 + 13 + 16 + 14 + 17) sum to 185 and agree with the
+line-by-line count — no tally discrepancy; all 185
+lines were stocked, none excluded. Stocked into
+standing lessons (136 placements across 74 lessons),
+every one at the slug the placements file names — no
+slug remappings. 29 NEW lessons built (49 placements) —
+**First Steps**: Public Places In My Locality (printed
+p. 31; printed p. 28); **The Land and Air**: Air Masses
+Fronts And Rainfall (printed p. 55), Asia Natural And
+Human Features (printed p. 39), Europe Natural And
+Human Features (printed p. 44), Mauritania Location And
+Borders (printed p. 7), Mauritania Location Relief And
+Atlantic Coast (printed p. 16; printed p. 13; printed
+p. 9; printed p. 9; printed p. 9), Mauritania's Climate
+Atlantic And Rainfall (printed p. 17; printed p. 17;
+printed p. 25; printed p. 14; printed p. 17; printed p.
+14), Oceania Natural And Human Features (printed p.
+50), Straits And Sea Passages (printed p. 51), The
+Americas Natural And Human Features (printed p. 33),
+The Maghreb Natural And Human Features (printed p. 65;
+printed p. 69), Water In Mauritania Rivers And
+Groundwater (printed p. 18), West Africa Natural And
+Human Features (printed p. 80; printed p. 90);
+**Population, Transport and Maps**: City Functions And
+City Countryside Relations (printed p. 68), Reading An
+Administrative Map My Wilaya (printed p. 5; printed p.
+10), Street Names And Finding Your Way (printed p. 32);
+**People and Resources**: China's Economy Foundations
+Features Problems (printed p. 112), Economic Activities
+In Australia And New Zealand (printed p. 82), Economic
+Activities In Brazil And Canada (printed p. 66),
+Economic Activities In Egypt And South Africa (printed
+p. 59), Economic Activities In India And Japan (printed
+p. 71), Economic Activities In Spain And Germany
+(printed p. 77), Economic Activities In The Maghreb
+(printed p. 72; printed p. 80), Economic Activities In
+West Africa (printed p. 88; printed p. 100), Structural
+Problems Of Mauritania's Economy (printed p. 80), The
+Arab World Features And Economic Power (printed p. 85),
+The United States Economy Foundations Features Problems
+(printed p. 105); **Global Issues**: Mauritania And Its
+Regional Organisations (printed p. 21; printed p. 25;
+printed p. 31; printed p. 33), Mauritania And The
+Industrial Countries (printed p. 37; printed p. 39;
+printed p. 41) — all 29 of the new lessons are taught
+in 1 country (Mauritania), 8 questions each; none
+stands on the teacher guide alone (where the Grade 7
+guide is among a new lesson's books it is cited as
+evidence alongside the student book(s)).
+Geography lessons: 1914 → 1943.

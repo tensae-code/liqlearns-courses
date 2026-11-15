@@ -1,6 +1,6 @@
 # Sources — Climate change — the basic concepts
 
-countries: Ethiopia, Costa Rica, Dominican Republic, Rwanda, Slovenia, Vietnam
+countries: Ethiopia, Costa Rica, Dominican Republic, Rwanda, Slovenia, Vietnam, Mauritania
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Costa Rica, Dominican Republic, Rwanda, Slovenia, Vietnam
 
 **Book 6:** *Chuyên đề học tập Địa lí 10* (student study-topics book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam (NXBGD); year 2022 (4th reprint); editor-in-chief Lê Huỳnh; ISBN 978-604-0-31084-2. Title as printed: CHUYÊN ĐỀ HỌC TẬP ĐỊA LÍ 10 — Kết nối tri thức với cuộc sống (Tái bản lần thứ tư). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 38 per the record (read as the publisher's 38 page images, printed pp. 2–35 plus covers; cover and contents verified against the record). Verdict: COMPLETE. Read from the record's own source — the NXBGD training site (taphuan.nxbgd.vn) reader, page by page as images — after the GitHub routes failed for all six books, as the placements file records; the page images are the publisher's own scans of the same books the records describe (titles, series and page counts match the records). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/vietnam-placements.md.
 
+**Book 7:** *Kitab al-Jughrafia lilsana al-Khamisa Adab 'Asriya (Geography Book, Fifth Year — Modern Letters)* (student book, Arabic) — Institut Pédagogique National (IPN), Mauritania; year no year printed on title page; ISBN no ISBN printed. Title as printed: Kitab al-Jughrafia lilsana al-Khamisa Adab 'Asriya (Geography Book, Fifth Year — Modern Letters). Grade: Grade 11 (5e année secondaire, lettres modernes) (student/teacher: STUDENT). PDF pages: 113 (cover/title page verified against the record title; the TSV tree record and the TSV release-asset record are the same book; fetched from the record's source URL docs.bsimr.com/pdfs/secondaire2s/GEO-5AS-LM.pdf, 3,217,391 bytes). Verdict: COMPLETE. The TSV tree record and the TSV release-asset record are the same book, counted once, as the placements file labels it. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mauritania-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Weather today, climate over years | G12 student #25, printed pp. 35–37 |
@@ -23,8 +25,9 @@ countries: Ethiopia, Costa Rica, Dominican Republic, Rwanda, Slovenia, Vietnam
 | Rwanda part — 6.3.2 Climate change (Unit 6) | Rwanda, *Rwanda Grade 6 Social Studies SB*, 6.3.2 Climate change (Unit 6) — printed p. 172 |
 | Slovenia part — Podnebne spremembe (climate change) | Slovenia, *Slovenia Grade 10 Geografija 1 (gimnazija)*, Podnebne spremembe (climate change) — printed p. 99 |
 | Vietnam part — Topic 10.1 (part): Climate change — the concept and its manifestations: global temperature up about 1 °C in 1901–2020, rainfall changing unevenly, more extreme weather, and sea level rising (2.2 mm/year over 1951–2020, 3.3 mm/year in 1993–2020) | Vietnam, *Vietnam Grade 10 Chuyên đề 10*, Topic 10.1 (part): Climate change — the concept and its manifestations: global temperature up about 1 °C in 1901–2020, rainfall changing unevenly, more extreme weather, and sea level rising (2.2 mm/year over 1951–2020, 3.3 mm/year in 1993–2020) — printed pp. 5–6 |
+| Mauritania part — Unit 3 Lesson 12: climate change | Mauritania, *Mauritania Grade 11 geo-5as-lm*, Unit 3 Lesson 12: climate change — printed p. 80 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Costa Rica, Dominican Republic, Rwanda, Slovenia, Vietnam).**
+**Acceptance count: taught in 7 countries (Ethiopia, Costa Rica, Dominican Republic, Rwanda, Slovenia, Vietnam, Mauritania).**
 
 No book error in the placements for this lesson is taught here. Figures and dates are taught exactly as the placements report them, as the book's own record.
 
@@ -39,3 +42,5 @@ Rwanda's own way (Rwanda Grade 6 Social Studies SB): the P6 pupil's book is the 
 Slovenia's own way (Slovenia Grade 10 Geografija 1 (gimnazija)): the gimnazija first year is systematic physical geography first (Earth's interior, rocks, landforms, weather and climate, soils, vegetation, waters), then human geography (population, settlements, farming, industry and energy, transport, tourism), closing on sustainable development and spatial planning — with Slovenian cases (earthquake risk in Slovenia, the Port of Koper) set inside the world topics.
 
 Vietnam's own way (Vietnam Grade 10 Chuyên đề 10): the elective companion goes deep on just three things — climate change, urbanisation, and how to write a geography report — and keeps pulling the world material back to Vietnam (a metre of sea-level rise would flood 10–12% of Vietnam's area; Hanoi and Ho Chi Minh City as the home examples of developing-world urbanisation).
+
+Mauritania's own way (Mauritania Grade 11 geo-5as-lm): The senior Letters cycle re-runs physical geography at full depth in four units — Planet Earth, Climate, the Effects of Climate, the Earth (structure, erosion, coasts) — with a class project closing Units 1 and 4.

@@ -1,6 +1,6 @@
 # Sources — Trade — what trade is
 
-countries: Ethiopia, Suriname, Mongolia, Palestine, Colombia, Eritrea, India, North Macedonia, Cambodia, Rwanda, Syria
+countries: Ethiopia, Suriname, Mongolia, Palestine, Colombia, Eritrea, India, North Macedonia, Cambodia, Rwanda, Syria, Mauritania
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 2 — Population Studies and Socio-Economic Activities, printed pp. 44–76).
 
@@ -34,6 +34,10 @@ countries: Ethiopia, Suriname, Mongolia, Palestine, Colombia, Eritrea, India, No
 
 **Book 16:** *الدراسات الاجتماعية — الصف الرابع (Social Studies, Fourth Grade)* (student book, Arabic) — Ministry of Education, Syrian Arab Republic; year 2025–2026 (1447 H); no ISBN printed. Title as printed: الدراسات الاجتماعية — الصف الرابع (Social Studies, Fourth Grade). Grade: Grade 4 (student/teacher: STUDENT). PDF pages: 112 (cover/title page verified against the record title; grabbed via the repo release route, 271,613,622 bytes = record size exactly). Verdict: COMPLETE. (Non-Geography parts named, not placed: Unit 2 Lessons 1–2 Syria, cradle of civilisation; historical sites (printed pp. 36, 39, History/heritage); Unit 5 Citizenship — rights, duties, the martyrs (printed pp. 100, 104, 107, Civics).) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/syria-placements.md.
 
+**Book 17:** *Kitab al-Jughrafia lilsana al-Thalitha min al-Ta'lim al-Ibtida'i (Geography Book, Third Year of Primary Education)* (student book, Arabic) — Institut Pédagogique National (IPN), Mauritania; year no year printed on title page; ISBN no ISBN printed. Title as printed: Kitab al-Jughrafia lilsana al-Thalitha min al-Ta'lim al-Ibtida'i (Geography Book, Third Year of Primary Education). Grade: Grade 3 (3e année fondamentale) (student/teacher: STUDENT). PDF pages: 52 (cover/title page verified against the record title; fetched from the record's source URL docs.bsimr.com/pdfs/fondamentals/GEO-3AF-M.pdf, 6,193,761 bytes — the same file the repo record was built from). Verdict: COMPLETE. Geography scope placed below; the book's time-landmark axis is local HISTORY and is NOT placed, as the placements file labels it: History of my village (printed p. 37), History of the founding of the mosque (p. 39), History of the founding of the mahadra (p. 41), History of the founding of the school (p. 43), History of the founding of the dispensary (p. 45). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mauritania-placements.md.
+
+**Book 18:** *Kitab al-Jughrafia lilsana al-Sabi'a Adab 'Asriya (Geography Book, Seventh Year — Modern Letters)* (student book, Arabic) — Institut Pédagogique National (IPN), Mauritania; year 2025; ISBN no ISBN printed. Title as printed: Kitab al-Jughrafia lilsana al-Sabi'a Adab 'Asriya (Geography Book, Seventh Year — Modern Letters). Grade: Grade 13 (7e année secondaire, lettres modernes) (student/teacher: STUDENT). PDF pages: 120 (cover/title page verified against the record title; fetched from the record's source URL docs.bsimr.com/pdfs/secondaire2s/GEO-7AS-LM.pdf, 26,994,755 bytes). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mauritania-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — No one finds everything where they are | Ethiopia, *Social Studies Student Textbook, Grade 8* (Amhara Bureau), printed p. 66 |
@@ -53,8 +57,10 @@ countries: Ethiopia, Suriname, Mongolia, Palestine, Colombia, Eritrea, India, No
 | Rwanda part — 5.3 Importance of financial institutions and local markets (Unit 5) | Rwanda, *Rwanda Grade 5 Social Studies SB*, 5.3 Importance of financial institutions and local markets (Unit 5) — printed p. 56 |
 | Syria part — The trade balance (Economic activity unit: trade) | Syria, *Syria Grade 7 Geography G7 عالم الجغرافية*, The trade balance (Economic activity unit: trade) — printed p. 130 |
 | Syria part — Work in trade in Syria | Syria, *Syria Grade 4 Social Studies G4*, Work in trade in Syria — printed p. 88 |
+| Mauritania part — Axis 5: the village trader (the one work/trade lesson in the time-landmark axis) | Mauritania, *Mauritania Grade 3 geo-3af-m*, Axis 5: the village trader (the one work/trade lesson in the time-landmark axis) — printed p. 47 |
+| Mauritania part — Unit 2 Lesson 12: trade and transport in Mauritania | Mauritania, *Mauritania Grade 13 geo-7as-lm*, Unit 2 Lesson 12: trade and transport in Mauritania — printed p. 73 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Suriname, Mongolia, Palestine, Colombia, Eritrea, India, North Macedonia, Cambodia, Rwanda, Syria).**
+**Acceptance count: taught in 12 countries (Ethiopia, Suriname, Mongolia, Palestine, Colombia, Eritrea, India, North Macedonia, Cambodia, Rwanda, Syria, Mauritania).**
 
 Mongolia's own way (Grade 8): the Grade 8 year is the LOCAL year — every chapter is re-anchored to the child's own орон нутаг (local area/homeland): its environment and problems, its heritage, its economy and market, its governance. The book's Law/Civics parts (Chapters IV–V, printed pp. 63–94) are named in the placements, not placed. That way is stocked here as the way Mongolia teaches this thing.
 
@@ -87,3 +93,7 @@ Rwanda's own way (Rwanda Grade 5 Social Studies SB): the pupil's book teaches th
 Syria's own way (Syria Grade 7 Geography G7 عالم الجغرافية): a pure Geography book built entirely around activity lessons with story-style titles ("Mother of sciences", "Stones from the sky", "The origami art" for folding, "A tourist in my homeland"); technology first — aerial photos, GPS, remote sensing and GIS open the book before any physical geography — and each semester closes with student/teacher-designed lessons and an end-of-semester project.
 
 Syria's own way (Syria Grade 4 Social Studies G4): the whole primary book is one-country geography of Syria — nature, then life (Badia, countryside, city), then work (agriculture, industry, trade, tourism) — with map tools (map symbols, four directions) and a tree-cutting/environment strand built into the opening unit's goals.
+
+Mauritania's own way (Mauritania Grade 3 geo-3af-m): The youngest geography book in the set is built on five axes worked through observation pictures (I observe / I discuss / I conclude): the map key, position, location, landmarks, and a "time landmark" axis. Geography scope placed below; the time-landmark axis is local HISTORY and is NOT placed: History of my village (printed p. 37), History of the founding of the mosque (p. 39), History of the founding of the mahadra (p. 41), History of the founding of the school (p. 43), History of the founding of the dispensary (p. 45).
+
+Mauritania's own way (Mauritania Grade 13 geo-7as-lm): The final-year Letters book is an exam-facing synthesis: Mauritania's natural and human features and its economic activities in full (including the structural problems of the Mauritanian economy and a lesson on how to write a geography essay), then the Arab world and Africa as economic powers (oil and minerals as the lenses), closing with the two great powers — the American and Chinese economies, their foundations, features and problems.

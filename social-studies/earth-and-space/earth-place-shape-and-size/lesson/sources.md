@@ -1,6 +1,6 @@
 # Sources — The Earth — Place, Shape and Size
 
-countries: Ethiopia, Saudi Arabia, Myanmar, Turkey, Haiti, Palestine, Angola, Dominican Republic, Bahamas, Colombia, Uganda, Venezuela, Sri Lanka
+countries: Ethiopia, Saudi Arabia, Myanmar, Turkey, Haiti, Palestine, Angola, Dominican Republic, Bahamas, Colombia, Uganda, Venezuela, Sri Lanka, Mauritania
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page - 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md.
 
@@ -36,6 +36,8 @@ countries: Ethiopia, Saudi Arabia, Myanmar, Turkey, Haiti, Palestine, Angola, Do
 
 **Book 17:** *புவியியல் — முதலாம் பாகம் (Geography — Part One), for the G.C.E. (Advanced Level)* (student book, Tamil) — Educational Publications Department; first edition 1976; no ISBN printed (pre-ISBN Sri Lankan imprint; library copy stamped Jaffna Public Library). Title as printed: புவியியல் — முதலாம் பாகம் (Geography — Part One), for the G.C.E. (Advanced Level). Grade: 12 (student/teacher: STUDENT). PDF pages: 230 (Noolaham scan; cover verified against the record; grabbed via grab.py from the GitHub release URL, 110,744,638 bytes, size-verified; read in full page-by-page on contact sheets — image-only scan; printed pp. 1–210 plus a chapter-grouped bibliography). Verdict: COMPLETE (Part I complete in itself; a separate Part II exists outside this record). Part I complete in itself; a separate Part II exists outside this record, as the placements file labels it. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sri-lanka-placements.md.
 
+**Book 18:** *Kitab al-Jughrafia lilsana al-Ula min al-Ta'lim al-I'dadi (Geography Book, First Year of Preparatory Education)* (student book, Arabic) — Institut Pédagogique National (IPN), Mauritania; year no year printed on title page; ISBN no ISBN printed. Title as printed: Kitab al-Jughrafia lilsana al-Ula min al-Ta'lim al-I'dadi (Geography Book, First Year of Preparatory Education). Grade: Grade 7 (1e année secondaire) (student/teacher: STUDENT). PDF pages: 96 (cover/title page verified against the record title; fetched from the record's source URL docs.bsimr.com/pdfs/secondaire1s/GEO-1AS-M.pdf, 11,100,011 bytes). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mauritania-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Earth's place | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 1, printed p. 15 |
@@ -57,8 +59,9 @@ countries: Ethiopia, Saudi Arabia, Myanmar, Turkey, Haiti, Palestine, Angola, Do
 | Venezuela part — La Tierra no es un planeta cualquiera | Venezuela, *Venezuela Grade 3 G3 CS Viva Venezuela*, La Tierra no es un planeta cualquiera — printed p. 170 |
 | Sri Lanka part — Unit 2 Basic information about the Earth: distance from the Sun, rotation/revolution speeds, equatorial vs polar diameter | Sri Lanka, *Sri Lanka Grade 8 G8 English*, Unit 2 Basic information about the Earth: distance from the Sun, rotation/revolution speeds, equatorial vs polar diameter — printed p. 18 |
 | Sri Lanka part — Chapter 11 The Earth as a globe: proofs of shape and the Earth's dimensions (placement slug: earth-and-space/shape-size-of-earth — the lesson stands under this title, stocked here) | Sri Lanka, *Sri Lanka G12 Tamil SB Part I*, Chapter 11 The Earth as a globe: proofs of shape and the Earth's dimensions — printed p. 116 |
+| Mauritania part — Unit 1 Lesson 2: the shape of the Earth, its dimensions and its rotation | Mauritania, *Mauritania Grade 7 geo-1as-m*, Unit 1 Lesson 2: the shape of the Earth, its dimensions and its rotation — printed p. 13 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Saudi Arabia, Turkey, Palestine, Angola, Dominican Republic, Bahamas, Colombia, Uganda, Venezuela, Sri Lanka). Myanmar is named here as teacher-guide evidence only, counted nowhere. Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 12 countries (Ethiopia, Saudi Arabia, Turkey, Palestine, Angola, Dominican Republic, Bahamas, Colombia, Uganda, Venezuela, Sri Lanka, Mauritania). Myanmar is named here as teacher-guide evidence only, counted nowhere. Haiti is named here as teacher-sequence evidence only, counted nowhere.**
 
 Haiti's own way (teacher sequence — evidence): Geography opens with representing the Earth itself — globe-to-flat projection problems, orientation practised on the ground with compass/GPS/Google Maps, and time-zone puzzles worked on Haiti's own links (midday shared with Québec, 18h in Paris, Port-au-Prince–Paris flights); every séance ends in a croquis, a glossary and field observation. That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
@@ -93,3 +96,5 @@ Venezuela's own way (Venezuela Grade 3 G3 CS Viva Venezuela): the second half is
 Sri Lanka's own way (Sri Lanka Grade 8 G8 English): a four-unit arc — Solar System, Earth's uniqueness, then regional geography taught as six South Asian "landscapes" (mountain, valley, coastal, rural, industrial-urban, desert), closing with Sri Lanka's own 1:50,000 topographic-sheet system (92 sheets) that Grade 9 continues.
 
 Sri Lanka's own way (Sri Lanka G12 Tamil SB Part I): the old A/L course opens with a full astronomy block (universe, solar system, origin theories, telescopes, the space age) before turning to the Earth, then teaches geography as man-and-environment study in the Brunhes / Vidal de la Blache tradition (the bibliography names them), and closes with map interpretation on a Sri Lanka topographic sheet.
+
+Mauritania's own way (Mauritania Grade 7 geo-1as-m): The student book of the course specified in Book 1 (the teacher guide): the same three units and 13 lessons, each lesson opening with expected outcomes and key concepts and closing with a concepts list per unit. General topics are worked with Mauritanian examples throughout, as the guide prescribes.

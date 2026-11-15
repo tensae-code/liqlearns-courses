@@ -1,6 +1,6 @@
 # Sources — Why vegetation changes with the land
 
-countries: Ethiopia, Bahamas, Malaysia, Fiji, Slovenia, Papua New Guinea, Uganda, Sudan
+countries: Ethiopia, Bahamas, Malaysia, Fiji, Slovenia, Papua New Guinea, Uganda, Sudan, Mauritania
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -30,6 +30,8 @@ countries: Ethiopia, Bahamas, Malaysia, Fiji, Slovenia, Papua New Guinea, Uganda
 
 **Book 14:** *الجغرافيا — Geography, Third Year Intermediate (الصف الثالث المتوسط)* (student book, Arabic) — Republic of Sudan, Ministry of Education, National Centre for Curricula and Educational Research (Bakht al-Ruda); year not printed on cover/title pages seen; no ISBN printed. Title as printed: الجغرافيا — Geography, Third Year Intermediate (الصف الثالث المتوسط). Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 160 (cover verified against the record title; byte size 13,733,766 and page count match the staging books.json record exactly). Verdict: COMPLETE. How read: PDF text layer is font-garbled, so read visually from rendered pages — cover, preface (3-unit structure), unit objectives and a full spread of interior pages across all three units. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sudan-placements.md.
 
+**Book 15:** *Kitab al-Jughrafia lilsana al-Khamisa Adab 'Asriya (Geography Book, Fifth Year — Modern Letters)* (student book, Arabic) — Institut Pédagogique National (IPN), Mauritania; year no year printed on title page; ISBN no ISBN printed. Title as printed: Kitab al-Jughrafia lilsana al-Khamisa Adab 'Asriya (Geography Book, Fifth Year — Modern Letters). Grade: Grade 11 (5e année secondaire, lettres modernes) (student/teacher: STUDENT). PDF pages: 113 (cover/title page verified against the record title; the TSV tree record and the TSV release-asset record are the same book; fetched from the record's source URL docs.bsimr.com/pdfs/secondaire2s/GEO-5AS-LM.pdf, 3,217,391 bytes). Verdict: COMPLETE. The TSV tree record and the TSV release-asset record are the same book, counted once, as the placements file labels it. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mauritania-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Three controls | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 3, printed pp. 75–76 |
@@ -48,8 +50,9 @@ countries: Ethiopia, Bahamas, Malaysia, Fiji, Slovenia, Papua New Guinea, Uganda
 | Uganda part — Factors that influence vegetation distribution (rainfall, soil fertility) | Uganda, *Uganda Grade 5 UG P5 Merged Home-Study SST*, Factors that influence vegetation distribution (rainfall, soil fertility) — printed p. 24 |
 | Uganda part — Topic 4: Vegetation Distribution in Uganda | Uganda, *Uganda Grade 5 UG Excel P5 SST*, Topic 4: Vegetation Distribution in Uganda — printed p. 69 |
 | Sudan part — Natural vegetation of Sudan, graded with rainfall from desert to rich savanna | Sudan, *Sudan Grade 9 SD Geography 9*, Natural vegetation of Sudan, graded with rainfall from desert to rich savanna — printed p. 12 |
+| Mauritania part — Unit 3 Lesson 11: the effect of climate on vegetation and soil | Mauritania, *Mauritania Grade 11 geo-5as-lm*, Unit 3 Lesson 11: the effect of climate on vegetation and soil — printed p. 74 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Bahamas, Malaysia, Fiji, Slovenia, Uganda, Sudan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 8 countries (Ethiopia, Bahamas, Malaysia, Fiji, Slovenia, Uganda, Sudan, Mauritania). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Searchable tags: vegetation controls, altitude, rainfall, soil, vegetation belts, afro-alpine, social studies
 
@@ -76,3 +79,5 @@ Uganda's own way (Uganda Grade 5 UG P5 Merged Home-Study SST): The whole SST cou
 Uganda's own way (Uganda Grade 5 UG Excel P5 SST): A full-year commercial companion to the NCDC syllabus, far more detailed than the home-study booklet: Uganda's districts/regions are listed sub-region by sub-region, and each Uganda topic (physical features, climate, vegetation, resources, population) gets its own full treatment. Non-Geography parts named, not placed: Topic 6 The People of Pre-colonial Uganda — origins, ethnic groups, political/social/economic organisation (History, printed pp. 89–117, except its migration and settlement sections, placed below); Topic 7 Foreign Influence — traders, explorers, missionaries, colonial administrators (History, pp. 118–142); Topic 8 How Uganda Became a Nation (History, pp. 143–148); Topic 9 The Road to Independence (History, pp. 149–158); Topic 10 Uganda as an Independent Nation — presidents, national symbols, democracy, elections (Civics, pp. 159–173); Topic 11 The Government of Uganda — levels, organs, constitution, revenue, budgeting, citizens' rights (Civics, pp. 174–193).
 
 Sudan's own way (Sudan Grade 9 SD Geography 9): A single-country book: the whole of Sudan taught in three units — its physical geography, its human geography, then its environmental problems — with map-work activities on Sudan's own maps (states, roads, the Nile) and an infographic "resources of Sudan" spread; the preface warns its statistics change and are only indicators.
+
+Mauritania's own way (Mauritania Grade 11 geo-5as-lm): The senior Letters cycle re-runs physical geography at full depth in four units — Planet Earth, Climate, the Effects of Climate, the Earth (structure, erosion, coasts) — with a class project closing Units 1 and 4.

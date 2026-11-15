@@ -1,6 +1,6 @@
 # Sources — How soil is made
 
-countries: Ethiopia, Angola, India, Fiji, Slovenia, Papua New Guinea, Syria
+countries: Ethiopia, Angola, India, Fiji, Slovenia, Papua New Guinea, Syria, Mauritania
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -28,6 +28,8 @@ countries: Ethiopia, Angola, India, Fiji, Slovenia, Papua New Guinea, Syria
 
 **Book 13:** *الجغرافية — الصف التاسع (Geography, Ninth Grade)* (student book, Arabic) — Ministry of Education, Syrian Arab Republic; year 2025–2026 (1447 H); no ISBN printed. Title as printed: الجغرافية — الصف التاسع (Geography, Ninth Grade). Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 176 (cover/title page verified against the record title; grabbed via the repo release route, 363,527,395 bytes = record size exactly). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/syria-placements.md.
 
+**Book 14:** *Kitab al-Jughrafia lilsana al-Thalitha min al-Ta'lim al-Ibtida'i (Geography Book, Third Year of Primary Education)* (student book, Arabic) — Institut Pédagogique National (IPN), Mauritania; year no year printed on title page; ISBN no ISBN printed. Title as printed: Kitab al-Jughrafia lilsana al-Thalitha min al-Ta'lim al-Ibtida'i (Geography Book, Third Year of Primary Education). Grade: Grade 3 (3e année fondamentale) (student/teacher: STUDENT). PDF pages: 52 (cover/title page verified against the record title; fetched from the record's source URL docs.bsimr.com/pdfs/fondamentals/GEO-3AF-M.pdf, 6,193,761 bytes — the same file the repo record was built from). Verdict: COMPLETE. Geography scope placed below; the book's time-landmark axis is local HISTORY and is NOT placed, as the placements file labels it: History of my village (printed p. 37), History of the founding of the mosque (p. 39), History of the founding of the mahadra (p. 41), History of the founding of the school (p. 43), History of the founding of the dispensary (p. 45). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mauritania-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The five factors | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 3, printed pp. 69–70 |
@@ -44,8 +46,9 @@ countries: Ethiopia, Angola, India, Fiji, Slovenia, Papua New Guinea, Syria
 | Syria part — A thin layer that supports life (Soil unit: soil) | Syria, *Syria Grade 7 Geography G7 عالم الجغرافية*, A thin layer that supports life (Soil unit: soil) — printed p. 104 |
 | Syria part — Soils of the Arab homeland, a mirror of natural and human factors | Syria, *Syria Grade 12 Geography G12-Literary*, Soils of the Arab homeland, a mirror of natural and human factors — printed p. 49 |
 | Syria part — Soil in the Arab homeland | Syria, *Syria Grade 9 Geography G9*, Soil in the Arab homeland — printed p. 75 |
+| Mauritania part — Axis 2 Position: the soil | Mauritania, *Mauritania Grade 3 geo-3af-m*, Axis 2 Position: the soil — printed p. 17 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Angola, India, Fiji, Slovenia, Syria). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 7 countries (Ethiopia, Angola, India, Fiji, Slovenia, Syria, Mauritania). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Extension (Wave 4 Band D): the Grade 10 book's soil definition and functions (printed pp. 66–67) were stacked under this lesson per the build brief; the Grade 10 types survey stands as its own lesson, "Five African soils".
 
@@ -68,3 +71,5 @@ Syria's own way (Syria Grade 7 Geography G7 عالم الجغرافية): a pure
 Syria's own way (Syria Grade 12 Geography G12-Literary): the final-year Literary-track book is a three-scale spiral — the Arab homeland as one integrated natural unit, then Syria itself at the same two levels (nature/resources, then human/economic life), then the world split into developing and developed with Japan, India and Senegal as the three case studies; every unit works from maps, statistical tables and graphs, and the water pair of lessons (scarcity, then "a looming crisis and future conflict") is the book's signature treatment.
 
 Syria's own way (Syria Grade 9 Geography G9): every unit is taught twice at two scales — the Arab homeland first, then Syria — with parallel lesson pairs (relief, climate, water, soil, agriculture, industry, transport, tourism); Unit 3's framing is pointed: "huge human resources… and weak investment", and the subsoil lessons are titled "hidden treasures".
+
+Mauritania's own way (Mauritania Grade 3 geo-3af-m): The youngest geography book in the set is built on five axes worked through observation pictures (I observe / I discuss / I conclude): the map key, position, location, landmarks, and a "time landmark" axis. Geography scope placed below; the time-landmark axis is local HISTORY and is NOT placed: History of my village (printed p. 37), History of the founding of the mosque (p. 39), History of the founding of the mahadra (p. 41), History of the founding of the school (p. 43), History of the founding of the dispensary (p. 45).

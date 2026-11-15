@@ -1,6 +1,6 @@
 # Sources — Transport — kinds of transport
 
-countries: Ethiopia, Belarus, Guatemala, Ecuador, Turkmenistan, Egypt, Bahamas, Zimbabwe, Eritrea, India, North Macedonia, Rwanda, Uzbekistan, Slovenia, Papua New Guinea, Uganda, Sudan, Syria
+countries: Ethiopia, Belarus, Guatemala, Ecuador, Turkmenistan, Egypt, Bahamas, Zimbabwe, Eritrea, India, North Macedonia, Rwanda, Uzbekistan, Slovenia, Papua New Guinea, Uganda, Sudan, Syria, Mauritania
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 2, placements 27–43).
 **Book 2:** *Social Studies Teacher's Guide, Grade 7* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, first edition 2022 (2014 E.C.). Printed page = PDF page − 5. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-teacher-placements.md (Unit 2, and §3.2 for the optimum-population lesson).
@@ -69,6 +69,8 @@ countries: Ethiopia, Belarus, Guatemala, Ecuador, Turkmenistan, Egypt, Bahamas, 
 
 **Book 34:** *الدراسات الاجتماعية — الصف الرابع (Social Studies, Fourth Grade)* (student book, Arabic) — Ministry of Education, Syrian Arab Republic; year 2025–2026 (1447 H); no ISBN printed. Title as printed: الدراسات الاجتماعية — الصف الرابع (Social Studies, Fourth Grade). Grade: Grade 4 (student/teacher: STUDENT). PDF pages: 112 (cover/title page verified against the record title; grabbed via the repo release route, 271,613,622 bytes = record size exactly). Verdict: COMPLETE. (Non-Geography parts named, not placed: Unit 2 Lessons 1–2 Syria, cradle of civilisation; historical sites (printed pp. 36, 39, History/heritage); Unit 5 Citizenship — rights, duties, the martyrs (printed pp. 100, 104, 107, Civics).) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/syria-placements.md.
 
+**Book 35:** *Al-Jughrafia — Kitab al-Tilmidh, lilsana al-Khamisa min al-Ta'lim al-Ibtida'i (Geography — Pupil's Book, Fifth Year of Primary Education)* (student book, Arabic) — Institut Pédagogique National (IPN), Mauritania; year no year printed on title page; ISBN no ISBN printed. Title as printed: Al-Jughrafia — Kitab al-Tilmidh, lilsana al-Khamisa min al-Ta'lim al-Ibtida'i (Geography — Pupil's Book, Fifth Year of Primary Education). Grade: Grade 5 (5e année fondamentale) (student/teacher: STUDENT). PDF pages: 54 (cover/title page verified against the record title; fetched from the record's source URL docs.bsimr.com/pdfs/fondamentals/GEO-5AF-M.pdf, 6,535,849 bytes). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mauritania-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — How transport began (teacher guide — evidence) | Ethiopia, *Social Studies Teacher's Guide, Grade 7* (Addis Ababa Bureau), printed pp. 32–33 |
@@ -109,8 +111,9 @@ countries: Ethiopia, Belarus, Guatemala, Ecuador, Turkmenistan, Egypt, Bahamas, 
 | Syria part — Transport and communications in the Arab homeland | Syria, *Syria Grade 12 Geography G12-Literary*, Transport and communications in the Arab homeland — printed p. 118 |
 | Syria part — Transport and trade in the Arab homeland: two inseparable economic activities | Syria, *Syria Grade 9 Geography G9*, Transport and trade in the Arab homeland: two inseparable economic activities — printed p. 157 |
 | Syria part — Means of transport in Syria (Unit 2) | Syria, *Syria Grade 4 Social Studies G4*, Means of transport in Syria (Unit 2) — printed p. 43 |
+| Mauritania part — Axis 4 File 8: transport in Mauritania (paved and unpaved roads, animal and boat transport) | Mauritania, *Mauritania Grade 5 geo-5af-m*, Axis 4 File 8: transport in Mauritania (paved and unpaved roads, animal and boat transport) — printed p. 50 |
 
-**Acceptance count: taught in 16 countries (Ethiopia, Belarus, Guatemala, Ecuador, Turkmenistan, Egypt, Bahamas, Eritrea, India, North Macedonia, Rwanda, Uzbekistan, Slovenia, Uganda, Sudan, Syria). Zimbabwe is named here as teacher-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 17 countries (Ethiopia, Belarus, Guatemala, Ecuador, Turkmenistan, Egypt, Bahamas, Eritrea, India, North Macedonia, Rwanda, Uzbekistan, Slovenia, Uganda, Sudan, Syria, Mauritania). Zimbabwe is named here as teacher-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Pairing warning (honesty): Book 2 is an Addis Ababa bureau guide in English; Book 1 is an Amhara bureau student book in Amharic. They are NOT edition-matched companions — the guide's unit order differs and whole student topics (maps, globes, GPS) have no guide counterpart, so no guide coverage is claimed for them. Guide material is used only as labelled teacher evidence.
 
@@ -177,3 +180,5 @@ Syria's own way (Syria Grade 12 Geography G12-Literary): the final-year Literary
 Syria's own way (Syria Grade 9 Geography G9): every unit is taught twice at two scales — the Arab homeland first, then Syria — with parallel lesson pairs (relief, climate, water, soil, agriculture, industry, transport, tourism); Unit 3's framing is pointed: "huge human resources… and weak investment", and the subsoil lessons are titled "hidden treasures".
 
 Syria's own way (Syria Grade 4 Social Studies G4): the whole primary book is one-country geography of Syria — nature, then life (Badia, countryside, city), then work (agriculture, industry, trade, tourism) — with map tools (map symbols, four directions) and a tree-cutting/environment strand built into the opening unit's goals.
+
+Mauritania's own way (Mauritania Grade 5 geo-5af-m): The whole book is Mauritania itself, in four "I get to know" axes: my country's location and borders, my country's climate, my society, my country's wealth. Climate is taught through the country's own three wind types and the effect of rain on where people, animals and plants live; farming includes the flood-recession farming of the Chamama plain after the Senegal River falls.

@@ -1,6 +1,6 @@
 # Sources — The world's population explosion
 
-countries: Ethiopia, Palestine, Cambodia, Slovenia, Syria
+countries: Ethiopia, Palestine, Cambodia, Slovenia, Syria, Mauritania
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). Editors: Sintayehu Teka (MSc) (Content Editor), Kassie Molla (MA) (Language Editor), Hirut Woldemichael (MA) (Curriculum Editor). Illustrator: Agenchw Nega (MSc). Designer: Geda Hoka (MA). Evaluators: Dereje Guteta (PhD), Tesfaye Shiferaw (PhD), Abebe Yibeltie (MA), Hussein Seid (MA). First published 2023 under GEQIP-E. ISBN 978-99990-0-049-9. Printed by Gravity Group IND LLC, 13th Industrial Area, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. Printed page = PDF page − 6 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Palestine, Cambodia, Slovenia, Syria
 
 **Book 6:** *الجغرافية — الصف الثامن (Geography, Eighth Grade)* (student book, Arabic) — Ministry of Education, Syrian Arab Republic; year 2025–2026 (1447 H); no ISBN printed. Title as printed: الجغرافية — الصف الثامن (Geography, Eighth Grade). Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 152 (cover/title page verified against the record title; grabbed via the repo release route, 423,607,662 bytes = record size exactly). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/syria-placements.md.
 
+**Book 7:** *Kitab al-Jughrafia lilsana al-Sadisa Adab 'Asriya (Geography Book, Sixth Year — Modern Letters; the printed title page reads Modern Letters although the file suffix is -cd)* (student book, Arabic) — Institut Pédagogique National (IPN), Mauritania; year no year printed on title page; ISBN no ISBN printed. Title as printed: Kitab al-Jughrafia lilsana al-Sadisa Adab 'Asriya (Geography Book, Sixth Year — Modern Letters; the printed title page reads Modern Letters although the file suffix is -cd). Grade: Grade 12 (6e année secondaire) (student/teacher: STUDENT). PDF pages: 124 (cover/title page verified against the record title; fetched from the record's source URL docs.bsimr.com/pdfs/secondaire2s/GEO-6AS-CD.pdf, 3,072,802 bytes). Verdict: COMPLETE. The printed title page reads Modern Letters although the file suffix is -cd, as the placements file labels it — carried exactly as filed. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mauritania-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — 1.6 billion to 6.1 billion | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 4, printed pp. 88–95 |
@@ -24,8 +26,9 @@ countries: Ethiopia, Palestine, Cambodia, Slovenia, Syria
 | Cambodia part — Geography Ch.4 L1 កំណើនប្រជាជនពិភពលោក (world population growth 1850–2010) | Cambodia, *Cambodia Grade 7 Social Studies*, Geography Ch.4 L1 កំណើនប្រជាជនពិភពលោក (world population growth 1850–2010) — printed p. 66 |
 | Slovenia part — Svetovno prebivalstvo (world population) inside Izbrani svetovni problemi II | Slovenia, *Slovenia Grade 8 Geografija 8*, Svetovno prebivalstvo (world population) inside Izbrani svetovni problemi II — printed p. 168 |
 | Syria part — Large population growth and giant cities in South America | Syria, *Syria Grade 8 Geography G8*, Large population growth and giant cities in South America — printed p. 62 |
+| Mauritania part — Unit 1 Lesson 1: world population growth | Mauritania, *Mauritania Grade 12 geo-6as-cd*, Unit 1 Lesson 1: world population growth — printed p. 9 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Palestine, Cambodia, Slovenia, Syria).**
+**Acceptance count: taught in 6 countries (Ethiopia, Palestine, Cambodia, Slovenia, Syria, Mauritania).**
 
 No book error is flagged for this lesson's pages in the placements. The Grade 11 book's telling of the same explosion — why deaths fell first — stands as its own lesson; this is the Grade 10 acceleration account and does not repeat it.
 
@@ -38,3 +41,5 @@ Cambodia's own way (Cambodia Grade 7 Social Studies): from Grade 7 the combined 
 Slovenia's own way (Slovenia Grade 8 Geografija 8): Grade 8 is pure world regional geography, continent by continent (Africa, Australia/Oceania, the Americas and polar regions), each region worked through the same grid — position/relief/waters, climate/vegetation, population, economy — and the book closes with two world-problems units (rainforest loss, desert spread, water conflicts, the Aral Sea).
 
 Syria's own way (Syria Grade 8 Geography G8): Grade 8 leaves the Arab world and tours the "new" continents in a fixed six-lesson pattern (location and surface, natural environments, settlement/migration, population and cities, resources and economy, one big country study — USA, Brazil, Australia), gives Antarctica a whole unit as a land of ice and science, and closes with a unit of contemporary global challenges (water, food, pollution, warming, population, desertification).
+
+Mauritania's own way (Mauritania Grade 12 geo-6as-cd): A human-geography year in three units — world population (growth, distribution, migration, structure, with an applications lesson on the age pyramid and demographic projections), urbanisation and its problems, and economic activities from traditional farming to modern industry, transport, trade, craft industry and tourism.

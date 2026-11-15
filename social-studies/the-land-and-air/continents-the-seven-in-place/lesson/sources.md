@@ -1,6 +1,6 @@
 # Sources — Continents — The Seven in Place
 
-countries: Ethiopia, Ecuador, Dominican Republic, Eritrea, India, North Macedonia, Slovenia, Sudan, Venezuela
+countries: Ethiopia, Ecuador, Dominican Republic, Eritrea, India, North Macedonia, Slovenia, Sudan, Venezuela, Mauritania
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -30,6 +30,8 @@ countries: Ethiopia, Ecuador, Dominican Republic, Eritrea, India, North Macedoni
 
 **Book 14:** *¡Viva Venezuela! Ciencias Sociales 1er Grado* (student book, Spanish) — Ministerio del Poder Popular para la Educación / Colección Bicentenario; year 2014 (fourth edition, April 2014); ISBN 978-980-218-297-8. Title as printed: ¡Viva Venezuela! Ciencias Sociales 1er Grado. Grade: Grade 1 (student/teacher: STUDENT). PDF pages: 67 (printed pages run to 128 in two-page spreads; cover/title page verified against the record title; grab SHA/size verified by grab.py). Verdict: COMPLETE. (Combined book — Geography parts placed below; parts named, not placed — History parts named, not placed: El niño Simón Bolívar (printed p. 103); Días para recordar (p. 80); Antes, es el pasado (p. 117, time/history notion).; Civics parts named, not placed: La bandera de las 8 estrellas (p. 82); La plaza Bolívar de Caracas (p. 90); Igualdad entre diferentes (p. 92); Ustedes tienen derechos y deberes (p. 105); school/family community lessons (pp. 8–24, 54).; Science parts named, not placed: ¿Para qué sirven los pies? (p. 22, the body).) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/venezuela-placements.md.
 
+**Book 15:** *Kitab al-Jughrafia lilsana al-Sadisa min al-Ta'lim al-Ibtida'i (Geography Book, Sixth Year of Primary Education)* (student book, Arabic) — Institut Pédagogique National (IPN), Mauritania; year no year printed on title page; ISBN no ISBN printed. Title as printed: Kitab al-Jughrafia lilsana al-Sadisa min al-Ta'lim al-Ibtida'i (Geography Book, Sixth Year of Primary Education). Grade: Grade 6 (6e année fondamentale) (student/teacher: STUDENT). PDF pages: 53 (cover/title page verified against the record title; fetched from the record's source URL docs.bsimr.com/pdfs/fondamentals/GEO-6AF-M.pdf, 4,284,854 bytes). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mauritania-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Asia — the largest | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 3–4 |
@@ -45,6 +47,7 @@ countries: Ethiopia, Ecuador, Dominican Republic, Eritrea, India, North Macedoni
 | Slovenia part — Amerika in njena delitev: Lega Amerike / Delitev Amerike (the Americas' position and division) | Slovenia, *Slovenia Grade 8 Geografija 8*, Amerika in njena delitev: Lega Amerike / Delitev Amerike (the Americas' position and division) — printed p. 84 |
 | Sudan part — The world's continents: old world and new world (Unit 1 opener) | Sudan, *Sudan Grade 7 SD Geography 7*, The world's continents: old world and new world (Unit 1 opener) — printed p. 4 |
 | Venezuela part — Nuestra Venezuela está en América del Sur | Venezuela, *Venezuela Grade 1 G1 CS Viva Venezuela*, Nuestra Venezuela está en América del Sur — printed p. 115 |
+| Mauritania part — Unit 6 Lesson 13: the continents | Mauritania, *Mauritania Grade 6 geo-6af-m*, Unit 6 Lesson 13: the continents — printed p. 45 |
 
 | Sub lesson 4 — Africa and Antarctica — Grade 11 portraits (Grade 11 depth) | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 1, printed pp. 17–18 |
 | Sub lesson 5 — Asia, Europe and Australia — Grade 11 portraits (Grade 11 depth) | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 1, printed pp. 17–18 |
@@ -54,7 +57,7 @@ countries: Ethiopia, Ecuador, Dominican Republic, Eritrea, India, North Macedoni
 | Dominican Republic part (Grade 6) — The continents of the Earth: how they formed (Unidad 2) | Dominican Republic, *Ciencias Sociales, Sexto Grado, Primaria (Libro Abierto)*, Grade 6, The continents of the Earth: how they formed (Unidad 2) — printed p. 29 |
 | Dominican Republic part (Grade 3) — I know the continents: I live on a continent | Dominican Republic, *Ciencias Sociales, Tercer Grado, Primaria (Libro Abierto)*, Grade 3, I know the continents: I live on a continent — printed p. 18 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Ecuador, Dominican Republic, Eritrea, India, North Macedonia, Slovenia, Sudan, Venezuela).**
+**Acceptance count: taught in 10 countries (Ethiopia, Ecuador, Dominican Republic, Eritrea, India, North Macedonia, Slovenia, Sudan, Venezuela, Mauritania).**
 
 Pairing warning: the Grade 8 teacher guide is an Addis Ababa bureau book and the student book is an Amhara bureau book; they are NOT edition-matched, and the guide in hand is truncated (printed pp. 1–47 only, Units 1–3). Pupil content in this lesson comes from the Amhara student book; anything from the guide is labelled (teacher guide — evidence) and never presented as pupil-taught.
 
@@ -81,3 +84,5 @@ Slovenia's own way (Slovenia Grade 8 Geografija 8): Grade 8 is pure world region
 Sudan's own way (Sudan Grade 7 SD Geography 7): A continents book: after a world opener (continents, oceans, relief, world environments), each continent — Africa, Asia, Europe — gets the same treatment in the same order (relief, drainage, climate, vegetation, population, economic activity, environmental problems), closing with a British Isles case study; Sudan and Africa anchor the examples throughout.
 
 Venezuela's own way (Venezuela Grade 1 G1 CS Viva Venezuela): critical, question-first pedagogy ("pedagogía crítica") — spatial notions (up/down, north/south/east/west, near/far, yesterday/today) are built from the child's own home, classroom and community before any map appears.
+
+Mauritania's own way (Mauritania Grade 6 geo-6af-m): The final primary book turns outward: five of its six units place Mauritania inside its organisations — the Arab Maghreb Union, the Senegal River organisation (OMVS), the Arab League, the African Union, the Sahel drought committee (CILSS), the Organisation of Islamic Cooperation — and inside the industrial world (Europe, North America, the industrial East), before a closing world unit on continents, oceans, seas, rivers and straits.

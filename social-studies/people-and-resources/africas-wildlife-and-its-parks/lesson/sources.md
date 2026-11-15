@@ -1,6 +1,6 @@
 # Sources — Africa's wildlife and its parks
 
-countries: Ethiopia, Angola, Eritrea, Uganda
+countries: Ethiopia, Angola, Eritrea, Uganda, Mauritania
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). First published 2023 under GEQIP-E. ISBN: 978-99990-0-049-9. 205 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Angola, Eritrea, Uganda
 
 **Book 6:** *Excel Standard Social Studies, Pupil's Book 5 (First Edition)* (student book, English) — Excel Publishers, Kampala; year not printed (First Edition); ISBN no ISBN printed. Title as printed: Excel Standard Social Studies, Pupil's Book 5 (First Edition). Grade: Primary Five = Grade 5 (student/teacher: STUDENT). PDF pages: 213 (title page verified: "EXCEL STANDARD SOCIAL STUDIES PUPIL'S BOOK 5 — EXCEL PUBLISHERS" — matches record page count 213 exactly; read via the record's books.json source_url at exoticnotes.com after grab.py routes failed with RemoteDisconnected from api.github.com). Commercial book built on the NCDC Primary Five SST syllabus, filed in the library under gov/uganda — see library debts in the group log.. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/uganda-placements.md.
 
+**Book 7:** *Kitab al-Jughrafia lilsana al-Thalitha min al-Ta'lim al-Ibtida'i (Geography Book, Third Year of Primary Education)* (student book, Arabic) — Institut Pédagogique National (IPN), Mauritania; year no year printed on title page; ISBN no ISBN printed. Title as printed: Kitab al-Jughrafia lilsana al-Thalitha min al-Ta'lim al-Ibtida'i (Geography Book, Third Year of Primary Education). Grade: Grade 3 (3e année fondamentale) (student/teacher: STUDENT). PDF pages: 52 (cover/title page verified against the record title; fetched from the record's source URL docs.bsimr.com/pdfs/fondamentals/GEO-3AF-M.pdf, 6,193,761 bytes — the same file the repo record was built from). Verdict: COMPLETE. Geography scope placed below; the book's time-landmark axis is local HISTORY and is NOT placed, as the placements file labels it: History of my village (printed p. 37), History of the founding of the mosque (p. 39), History of the founding of the mahadra (p. 41), History of the founding of the school (p. 43), History of the founding of the dispensary (p. 45). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mauritania-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Mammals, endemic species and marine life | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 3, printed pp. 78–83 |
@@ -23,8 +25,9 @@ countries: Ethiopia, Angola, Eritrea, Uganda
 | Eritrea part (ER G4 Social Studies) — Chapter 4: 4.5 Protecting our animals | Eritrea, *ER G4 Social Studies*, Chapter 4: 4.5 Protecting our animals — printed p. 50 |
 | Uganda part — National game parks of East Africa (sketch map) | Uganda, *Uganda Grade 6 UG P6 SST Home-Study*, National game parks of East Africa (sketch map) — printed p. 36 |
 | Uganda part — Topic 4: The Influence of Vegetation on Animals; Game Parks in Uganda | Uganda, *Uganda Grade 5 UG Excel P5 SST*, Topic 4: The Influence of Vegetation on Animals; Game Parks in Uganda — printed p. 71 |
+| Mauritania part — Axis 3 Location: animals and birds | Mauritania, *Mauritania Grade 3 geo-3af-m*, Axis 3 Location: animals and birds — printed p. 27 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Angola, Eritrea, Uganda).**
+**Acceptance count: taught in 5 countries (Ethiopia, Angola, Eritrea, Uganda, Mauritania).**
 
 Pairing: the teacher guide was first published in 2022 and the student textbook in 2023, with the same writers and the same eight units in the same order; the student book is the learner text of record, and teacher-guide rows above are evidence only.
 
@@ -39,3 +42,5 @@ Eritrea's own way (ER G4 Social Studies): the Tigrinya-medium primary book teach
 Uganda's own way (Uganda Grade 6 UG P6 SST Home-Study): East Africa is the unit of study throughout: population, resources, crops, mining, lakes and transport are all taught at East African Community scale with sketch maps learners draw themselves. Non-Geography parts named, not placed: The Cradle of the Human Race in East Africa and sources of history (History, printed pp. 1–6); ethnic groups and migrations — Bantu, Bachwezi (History, pp. 7–16); early kingdoms, chiefdoms and clan systems (History, pp. 11–23); culture and religions in East Africa (pp. 24–28); The Road to Independence and explorers/missionaries/colonialists (History, pp. 48–52); electoral process and democracy (Civics, pp. 53–54); modern communication gadgets (pp. 44–46, named here).
 
 Uganda's own way (Uganda Grade 5 UG Excel P5 SST): A full-year commercial companion to the NCDC syllabus, far more detailed than the home-study booklet: Uganda's districts/regions are listed sub-region by sub-region, and each Uganda topic (physical features, climate, vegetation, resources, population) gets its own full treatment. Non-Geography parts named, not placed: Topic 6 The People of Pre-colonial Uganda — origins, ethnic groups, political/social/economic organisation (History, printed pp. 89–117, except its migration and settlement sections, placed below); Topic 7 Foreign Influence — traders, explorers, missionaries, colonial administrators (History, pp. 118–142); Topic 8 How Uganda Became a Nation (History, pp. 143–148); Topic 9 The Road to Independence (History, pp. 149–158); Topic 10 Uganda as an Independent Nation — presidents, national symbols, democracy, elections (Civics, pp. 159–173); Topic 11 The Government of Uganda — levels, organs, constitution, revenue, budgeting, citizens' rights (Civics, pp. 174–193).
+
+Mauritania's own way (Mauritania Grade 3 geo-3af-m): The youngest geography book in the set is built on five axes worked through observation pictures (I observe / I discuss / I conclude): the map key, position, location, landmarks, and a "time landmark" axis. Geography scope placed below; the time-landmark axis is local HISTORY and is NOT placed: History of my village (printed p. 37), History of the founding of the mosque (p. 39), History of the founding of the mahadra (p. 41), History of the founding of the school (p. 43), History of the founding of the dispensary (p. 45).

@@ -1,6 +1,6 @@
 # Sources — Physical geography — the nature side
 
-countries: Ethiopia, Turkey, Dominican Republic, Slovenia, Uganda
+countries: Ethiopia, Turkey, Dominican Republic, Slovenia, Uganda, Mauritania
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Turkey, Dominican Republic, Slovenia, Uganda
 
 **Book 6:** *Geography Textbook — Senior One (Lower Secondary Curriculum, Prototype)* (student book, English) — National Curriculum Development Centre (NCDC), Kampala; year 2020 (prototype); ISBN no ISBN printed. Title as printed: Geography Textbook — Senior One (Lower Secondary Curriculum, Prototype). Grade: Senior One = Grade 8 (student/teacher: STUDENT). PDF pages: 126 (cover verified: "GEOGRAPHY TEXTBOOK SENIOR ONE", NCDC Prototype — matches record; read via the record's books.json source_url at ncdc.go.ug after grab.py release and tree routes both failed with RemoteDisconnected from api.github.com, 3 attempts). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/uganda-placements.md.
 
+**Book 7:** *Kitab al-Jughrafia lilsana al-Thaniya min al-Ta'lim al-I'dadi (Geography Book, Second Year of Preparatory Education)* (student book, Arabic) — Institut Pédagogique National (IPN), Mauritania; year no year printed on title page; ISBN no ISBN printed. Title as printed: Kitab al-Jughrafia lilsana al-Thaniya min al-Ta'lim al-I'dadi (Geography Book, Second Year of Preparatory Education). Grade: Grade 8 (2e année secondaire) (student/teacher: STUDENT). PDF pages: 92 (cover/title page verified against the record title; fetched from the record's source URL docs.bsimr.com/pdfs/secondaire1s/GEO-2AS-M.pdf, 10,434,179 bytes). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mauritania-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The nature side | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 1, printed pp. 6–7 |
@@ -23,8 +25,9 @@ countries: Ethiopia, Turkey, Dominican Republic, Slovenia, Uganda
 | Dominican Republic part (Grade 6) — Human Geography and Physical Geography: their differences and branches | Dominican Republic, *Ciencias Sociales, Sexto Grado, Primaria (Libro Abierto)*, Grade 6, Human Geography and Physical Geography: their differences and branches — printed p. 18 |
 | Slovenia part — Delitev geografije (the division of geography) inside Geografija kot znanost | Slovenia, *Slovenia Grade 10 Geografija 1 (gimnazija)*, Delitev geografije (the division of geography) inside Geografija kot znanost — printed p. 1 |
 | Uganda part — Ch.1 Branches of Geography: physical geography | Uganda, *Uganda Grade 8 UG S1 Geography Student*, Ch.1 Branches of Geography: physical geography — printed p. 3 |
+| Mauritania part — Unit 1 Lesson 1: concepts in physical geography | Mauritania, *Mauritania Grade 8 geo-2as-m*, Unit 1 Lesson 1: concepts in physical geography — printed p. 9 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Turkey, Dominican Republic, Slovenia, Uganda).**
+**Acceptance count: taught in 6 countries (Ethiopia, Turkey, Dominican Republic, Slovenia, Uganda, Mauritania).**
 
 Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
@@ -35,3 +38,5 @@ Dominican Republic's own way (Grade 6): The Libro Abierto primary books open wit
 Slovenia's own way (Slovenia Grade 10 Geografija 1 (gimnazija)): the gimnazija first year is systematic physical geography first (Earth's interior, rocks, landforms, weather and climate, soils, vegetation, waters), then human geography (population, settlements, farming, industry and energy, transport, tourism), closing on sustainable development and spatial planning — with Slovenian cases (earthquake risk in Slovenia, the Port of Koper) set inside the world topics.
 
 Uganda's own way (Uganda Grade 8 UG S1 Geography Student): Competency-based lower-secondary course taught entirely through East Africa: every skill (maps, fieldwork, photographs) is practised on Ugandan/East African places (Tororo topographic map, Uganda lat/long map), and the physical half is East Africa's relief, landform formation, climate and vegetation rather than world coverage.
+
+Mauritania's own way (Mauritania Grade 8 geo-2as-m): A world-regional year: one unit of concepts (physical, human, economic geography), one unit walking the five inhabited continents by their natural and human features, and one unit of paired-country economic case studies (Egypt/South Africa, Brazil/Canada, India/Japan, Spain/Germany, Australia/New Zealand).
