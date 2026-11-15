@@ -1,6 +1,6 @@
 # Sources — Climate Change — Effects and Responses
 
-countries: Ethiopia, Costa Rica, Ecuador, Bangladesh, Egypt, Samoa
+countries: Ethiopia, Costa Rica, Ecuador, Bangladesh, Egypt, Samoa, Colombia
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (placement 142).
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Costa Rica, Ecuador, Bangladesh, Egypt, Samoa
 
 **Book 6:** *Geography — Year 13* (student book, English) — Ministry of Education, Sports and Culture, Samoa; year 2004; ISBN 982-517-079-4. Title as printed: Geography — Year 13. Year 13 (student/teacher: STUDENT). PDF pages: 244 (cover/title page verified against the record title). Verdict: COMPLETE (Geography parts placed below). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/samoa-placements.md.
 
+**Book 7:** *Ciencias Sociales — Postprimaria Rural, Grado 8 (student guide)* (student guide, Spanish) — Colombia, Ministerio de Educación Nacional (Postprimaria Rural); year not printed on extracted front pages; ISBN no ISBN printed in the extracted front matter. Title as printed: Ciencias Sociales — Postprimaria Rural, Grado 8 (student guide). Grade 8 (student/teacher: STUDENT). PDF pages: 242 (contents page verified: six modules, Guías 1–18). Verdict: COMPLETE. Non-Geography parts named in the placements, not placed: Módulo 1 El impacto de la modernidad en tu entorno (Enlightenment, French and Industrial Revolutions in Colombia), printed pp. 8–47 (History); Módulo 2 Los orígenes de nuestra nación (independence, national identity, modernisation), printed pp. 48–87 (History); Módulo 4 Guías 11–12 (causes/effects of violence; Frente Nacional), printed pp. 141–161 (History); Módulo 5 En búsqueda de la inclusión, la paz y la diversidad, printed pp. 162–197 (Civics/History); Módulo 6 Los derechos humanos en Colombia, printed pp. 198–241 (Civics).. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/colombia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Four harms that cross borders: (a) falling farm output — farming majority, fast population growth, environment pressed, productivity falls; (b) soil degradation — erosion-prone terrain, soil washing into neighbouring countries by running water and dry-season whirlwinds, worsened drought, spreading desert, unbalanced nature | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 7, printed pp. 183–186 |
@@ -23,8 +25,9 @@ countries: Ethiopia, Costa Rica, Ecuador, Bangladesh, Egypt, Samoa
 | Bangladesh part (Grade 6) — Melting poles, pollution and what pupils can do about climate change | Bangladesh, *History and Social Science, Class Six*, Grade 6, Melting poles, pollution and what pupils can do about climate change — printed pp. 144-150 |
 | Egypt part (Grade 9) — Unit 3 Lesson 3: Climate change and its effect on ecosystems — greenhouse gases and their shares, human factors (industry, deforestation, urban expansion) and natural factors (forest fires, volcanoes, polar ice melt), effects on ecosystems and water resources, agriculture, transport and trade | Egypt, *Social Studies, Grade 9, Term 1*, Grade 9, Unit 3 Lesson 3: Climate change and its effect on ecosystems — printed p. 80 |
 | Samoa part (Year 13 Geography) — Part 5 Unit 10 Consequences of and Perspectives on Climate Change | Samoa, *Geography, Year 13*, Part 5 Unit 10 Consequences of and Perspectives on Climate Change — printed p. 196 |
+| Colombia part (CS_Grado8 Postprimaria) — Módulo 3 Guía 9 El deterioro del ambiente y el cambio climático | Colombia, *Ciencias Sociales — Postprimaria Rural, Grado 8 (student guide)*, Módulo 3 Guía 9 El deterioro del ambiente y el cambio climático — printed p. 116 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Costa Rica, Ecuador, Bangladesh, Egypt, Samoa).**
+**Acceptance count: taught in 7 countries (Ethiopia, Costa Rica, Ecuador, Bangladesh, Egypt, Samoa, Colombia).**
 
 There is NO Grade 8 teacher-guide coverage for Chapter 7: the Grade 8 guide in hand holds only Units 1–3, so no teacher evidence is claimed for any Grade 8 part of this lesson.
 
@@ -41,3 +44,5 @@ Bangladesh's own way (Grade 6): an inquiry-based combined History and Social Sci
 Egypt's own way (Grade 9 Term 1): preparatory school closes with the “New World” — the Americas and Australia taught continent by continent (position, then surface: Rockies and Appalachians, Andes and the Amazon plain), the ecosystem sequence once more, and for the first time a full lesson on climate change itself (greenhouse-gas shares from a pie chart, human and natural causes, effects on ecosystems, water, farming and transport) — with the Panama Canal read against Suez as the strategic-position comparison.
 
 Samoa's own way (Year 13 Geography): The final-year course is hazard- and water-centred for an island nation — volcanic eruptions and tropical cyclones (including Cyclone Heta on Niue), the hydrological cycle and water management, then atmosphere and climate change with Pacific consequences.
+
+Colombia's own way (CS_Grado8 Postprimaria): the rural Postprimaria guide teaches Grade 8 through the student's own environment and land — ecosystems where you live, how you relate to your environment economically and culturally, and migration/displacement from "our land" — inside a mostly historical course.

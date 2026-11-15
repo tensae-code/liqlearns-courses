@@ -1,6 +1,6 @@
 # Sources — Rainforest, woodland and savanna
 
-countries: Ethiopia, Costa Rica, Bangladesh
+countries: Ethiopia, Costa Rica, Bangladesh, Colombia
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Costa Rica, Bangladesh
 
 **Book 4:** *History and Social Science, Class Eight* (student book, Bangla + English parallel editions) — Bangladesh, National Curriculum and Textbook Board (NCTB), Dhaka, Bangladesh; year 2023 (published December 2023, for academic year 2024; National Curriculum 2022); no ISBN printed. Title as printed: History and Social Science, Class Eight (Experimental version) [Bangla: ইতিহাস ও সামাজিক বিজ্ঞান, অষ্টম শ্রেণি]. Grade 8 (student). 188 PDF pp. in both editions (covers/title pages verified against the record title; printed p. = PDF p. - 7; the English edition is a 131 MB full-quality scan). Verdict: COMPLETE. Editions: Bangla read fully; English parallel edition spot-checked (cover, contents with identical chapter page spans, spreads in the nature-and-people chapter and the Bangladesh forest map) — same content, placed once for both editions. English chapter titles: Society through the Lens of Science; Let us Protect Nature and Human Bonds; Principles of Wealth Production and Equality. Read via grab.py from the GitHub textbooks repo. (Combined History and Social Science book — Geography parts placed below; non-Geography parts named in the placements, not placed: Spirit of the Liberation War and Bangabandhu — history, printed pp. 32-47; Ways of Knowing Social and Cultural History — history method, pp. 48-62; Socialisation, Social Control and Social Change — sociology, pp. 87-101; Changing Context and the Individual's Role — sociology, pp. 102-108; The Diverse Course of Social and Cultural History in the World Context — history/culture, pp. 109-124; Production of Wealth and the Principle of Equity — economics, pp. 160-179; identity parts of Unity in Uniqueness, pp. 13-23 and 29-31; cultural-history narrative parts of the Bengal chapter, pp. 63-64 and 68-86.) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bangladesh-placements.md.
 
+**Book 5:** *Ciencias Sociales 4 — Segunda Cartilla, Escuela Nueva* (student guide, Spanish) — Colombia, Ministerio de Educación Nacional, Bogotá; year 2011; ISBN libro 978-958-97482-9-9 (ISBN serie 978-958-97482-3-7). Title as printed: Ciencias Sociales 4 — Segunda Cartilla, Escuela Nueva. Grade 4 (student/teacher: STUDENT). PDF pages: 128 (cover verified: "Ciencias Sociales 4, Segunda Cartilla, Escuela Nueva"). Verdict: COMPLETE. Non-Geography parts named in the placements, not placed: Unidad 7 Los conflictos y los dilemas en nuestra sociedad, Guías 12–13, printed pp. 90–106 (civics/ethics); Unidad 8 Los ciudadanos y las instituciones, Guías 14–15 (ser ciudadano; excluir o incluir), printed pp. 107–127 (civics).. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/colombia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Moist montane forest | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 3, printed pp. 77–79 |
@@ -17,11 +19,14 @@ countries: Ethiopia, Costa Rica, Bangladesh
 | Teaching pattern and answer keys (teacher guide — evidence) — Grade 9 Unit 3 | Ethiopia, *Geography, Teacher Guide, Grade 9*, Unit 3, guide printed pp. 61–98 |
 | Costa Rica part — the geographic dimension of terrestrial ecosystems at world scale and in Costa Rica | Costa Rica, *Antología CONED 7*, Grade 7, Unit III Tema I A — printed p. 107 |
 | Bangladesh part (Grade 8) — Inquiry reader on biomes: tundra, tropical rainforest and the Amazon, desert, grasslands | Bangladesh, *History and Social Science, Class Eight*, Grade 8, Inquiry reader on biomes: tundra, tropical rainforest and the Amazon, desert, grasslands — printed pp. 139-144 |
+| Colombia part (CS_Grado4_02) — Guía 11 Las regiones naturales del mundo: deserts, poles, tropical rainforest, savannas and oceans as the world's natural regions | Colombia, *Ciencias Sociales 4 — Segunda Cartilla, Escuela Nueva*, Guía 11 Las regiones naturales del mundo: deserts, poles, tropical rainforest, savannas and oceans as the world's natural regions — printed p. 69 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Costa Rica, Bangladesh).**
+**Acceptance count: taught in 4 countries (Ethiopia, Costa Rica, Bangladesh, Colombia).**
 
 Costa Rica's own way: a distance-education anthology organised around "the human footprint on geographic space" — every unit opens with a generating question and objectives, and Costa Rica is used as the home case inside world topics (tropical forest conservation, food production problems). That way is stocked here as the way Costa Rica teaches this thing.
 
 Searchable tags: moist montane forest, coffee origin, acacia woodland, savanna, awash, social studies, Costa Rica, CONED Antología, Estudios Sociales
 
 Bangladesh's own way (Grade 8): the year's Geography is one long chapter, "Protect the Bond between Nature and People": pupils model the world's biomes, compare world forest cover in 2000 and 2020, map Bangladesh's own forests and disaster-prone areas, and read a long inquiry-reader on biomes, sea resources and the Sundarbans mangrove.
+
+Colombia's own way (CS_Grado4_02): the second Grade 4 cartilla is almost pure physical geography of Colombia — relief first, then the tropical position and thermal floors, then a region-by-region tour of Colombia's six natural regions before the world's natural regions.

@@ -1,6 +1,6 @@
 # Sources — Measuring temperature and rainfall
 
-countries: Ethiopia, Turkey, Dominican Republic
+countries: Ethiopia, Turkey, Dominican Republic, Colombia
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Turkey, Dominican Republic
 
 **Book 4:** *Ciencias Sociales — Quinto Grado, Segundo Ciclo, Educación Primaria (Libro Abierto, Serie 1, segunda edición)* (student book, Spanish) — Dominican Republic, Ministerio de Educación (MINERD), República Dominicana; Libro Abierto Serie 1, second edition; ISBN 978-9945-646-02-3 (printed in the book). Title as printed: Ciencias Sociales — Quinto Grado, Segundo Ciclo, Educación Primaria (Libro Abierto, Serie 1, segunda edición). Grade 5 (student). 192 PDF pp. (cover verified against the record title; byte size 95,210,417 matches the GitHub release asset exactly and page count matches the record). Verdict: COMPLETE (combined book — Geography parts placed below; History/Civics parts named in the placements, not placed: Unidad 4 La historia como ciencia, printed p. 58; Unidad 5 Historia de América, p. 74; Unidad 6 América y el Caribe en el siglo XIX, p. 90; Unidad 7 Historia dominicana, p. 106; Unidad 8 Nacionalidad y ciudadanía (Civics), p. 124; Unidad 9 Organización de la sociedad (Civics), p. 142; Unidad 10 Convivencia humana (Civics), p. 158). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/dominican-republic-placements.md.
 
+**Book 5:** *Carrera Equina (horse-race board-game insert for Ciencias Sociales 2, Cartilla 2)* (student booklet, Spanish) — Colombia, Ministerio de Educación Nacional, Escuela Nueva; year not printed on the sheet; ISBN no ISBN printed. Title as printed: Carrera Equina (horse-race board-game insert for Ciencias Sociales 2, Cartilla 2). Grade 2 (student/teacher: STUDENT). PDF pages: 1 (single poster/game sheet, image-only; viewed as a render — a race-track board with 20 review questions for the Grade 2 second cartilla). Verdict: COMPLETE (Geography parts placed below). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/colombia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Thermometers | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 2, printed pp. 53–55 |
@@ -17,11 +19,14 @@ countries: Ethiopia, Turkey, Dominican Republic
 | Teaching pattern and answer keys (teacher guide — evidence) — Grade 9 Unit 2 | Ethiopia, *Geography, Teacher Guide, Grade 9*, Unit 2, guide printed pp. 35–60 |
 | Turkey part — 5C3 Nem ve Yağış (humidity and precipitation) | Turkey, *Ortaöğretim Coğrafya 9. Sınıf Ders Kitabı*, Grade 9, 5C3 Nem ve Yağış (humidity and precipitation) — printed p. 128 |
 | Dominican Republic part (Grade 5) — Temperature and its changes | Dominican Republic, *Ciencias Sociales, Quinto Grado, Primaria (Libro Abierto)*, Grade 5, Temperature and its changes — printed p. 28 |
+| Colombia part (Insertos_sociales_02_Cartilla_02) — Carrera Equina review game, questions 1–3: climate's influence on culture; the rain gauge (pluviómetro) and building a homemade one | Colombia, *Carrera Equina (horse-race board-game insert for Ciencias Sociales 2, Cartilla 2)*, Carrera Equina review game, questions 1–3: climate's influence on culture; the rain gauge (pluviómetro) and building a homemade one — printed p. 1 (sheet) |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Turkey, Dominican Republic).**
+**Acceptance count: taught in 4 countries (Ethiopia, Turkey, Dominican Republic, Colombia).**
 
 Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
 Searchable tags: thermometer, maximum minimum, rain gauge, measuring weather, social studies
 
 Dominican Republic's own way (Grade 5): Three geography units climb from the planet to the country: general geography and the American continent's location, then how climate varies across the continents — with climographs the children draw and read themselves — then the Dominican Republic's own climate, activities and population, ending with a “discovering the geography of my country” field activity.
+
+Colombia's own way (Insertos_sociales_02_Cartilla_02): the review game mixes the cartilla's history, culture and geography questions on one board — its geography questions ask whether climate shapes culture, what a rain gauge is called, and how to build a homemade rain gauge.

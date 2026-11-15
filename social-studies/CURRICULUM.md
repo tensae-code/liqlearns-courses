@@ -2954,3 +2954,47 @@ and Risk Management (Grade 6, printed p. 52) — the new
 lessons stand on teacher-guide evidence only
 (acceptance count 0 countries), 8 questions each.
 Geography lessons: 1071 → 1092.
+
+
+## Colombia — Geography expansion (merged 2026-11-14)
+103 placements stocked from Colombia's 25 distinct
+books (43 records; every TSV record is duplicated by a
+books.json record for the same book) — the Ministerio
+de Educación Nacional Escuela Nueva cartillas and
+game-board inserts for Grades 1–5, the Secundaria
+Activa modules for Grades 6–9 and the Postprimaria
+Rural guides for Grades 6–9 (all student
+books/guides/booklets/modules, Spanish, COMPLETE; read
+from the recorded ministry source URLs after the GitHub
+grab routes failed repeatedly). Three inserts are
+record-only with no Geography part (Books 9, 12 and
+16). Stocked into standing lessons (90 placements)
+across all eight Geography titles. Two placements were
+remapped: culture-and-work/four-kinds-of-work does not
+exist as a lesson — the standing lesson is
+people-and-resources/four-kinds-of-work, and the
+original slug is recorded in each provenance row. 11
+NEW lessons built (13 placements) — **First Steps**: My
+Region and Its Landscape (CS_Fichas G1, printed p. 16);
+**The Land and Air**: Colombia's Relief — Three
+Cordilleras, Coasts and Plains (CS_Grado4_02, printed
+pp. 14–29), Colombia's Six Natural Regions
+(CS_Grado4_02, printed p. 50;
+Insertos_sociales_04_Cartilla_02, printed p. 1 (sheet);
+Insertos_sociales_05_Cartilla_02, printed p. 1
+(sheet)), Europe's Physical Environments (CS_Grado07
+Secundaria Activa, printed p. 65), America's Physical
+Environments (CS_Grado07 Secundaria Activa, printed p.
+72), Asia — Physical and Human Geography (CS_Grado08
+Secundaria Activa, printed p. 35), Continents as Human
+Environments (CS_Grado06 Secundaria Activa, printed pp.
+101–131); **Population, Transport and Maps**: Plans of
+a Room and a House (CS_Grado2_01, printed pp. 110–113),
+My Municipality and Department on the Political Map
+(CS_Grado2_01, printed pp. 118–125), Africa's
+Population Development (CS_Grado08 Secundaria Activa,
+printed p. 67), Colombia and Its Departments — The
+Political Map (CS_Grado3_01, printed p. 76) — the new
+lessons are taught in 1 country (Colombia), 8 questions
+each.
+Geography lessons: 1092 → 1103.

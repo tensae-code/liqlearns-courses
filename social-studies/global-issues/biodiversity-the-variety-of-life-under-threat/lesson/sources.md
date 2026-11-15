@@ -1,6 +1,6 @@
 # Sources — Biodiversity — the variety of life, under threat
 
-countries: Ethiopia, Nauru, Tuvalu, Niue, Guatemala, Ecuador, Angola, Bangladesh, Indonesia
+countries: Ethiopia, Nauru, Tuvalu, Niue, Guatemala, Ecuador, Angola, Bangladesh, Indonesia, Colombia
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Nauru, Tuvalu, Niue, Guatemala, Ecuador, Angola, Bangladesh
 
 **Book 10:** *Panduan Guru Geografi untuk SMA/MA Kelas XI (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Pusat Perbukuan, Kemendikbudristek; year 2024 (Edisi Revisi); ISBN 978-623-388-485-3 (jil. 1 PDF); authors Budi Handoyo, Nisa Maulia. Title as printed: Panduan Guru Geografi untuk SMA/MA Kelas XI (Edisi Revisi). Grade 11 / SMA/MA Kelas XI (teacher). 288 PDF pp. (cover verified: "PANDUAN GURU — GEOGRAFI — EDISI REVISI — SMA/MA Kelas XI", 2024). Verdict: COMPLETE. Records: 8 records / 4 distinct books in total for Indonesia (4 TSV release records + 4 books.json records that are the same 4 books by grade/kind — duplicate records, taught once). Library debt carried exactly as the placements state: the books.json records for all 4 Indonesia Geografi titles carry tree paths (grade-XX/gov/indonesia/geografi/…) that return 404 in the repo tree — the files actually live in GitHub releases, so the in_pushed tree records are misleading. Read full page-by-page via pdftotext -layout after cover verification; grabbed via grab.py (GitHub Releases API route for the TSV records). This is a teacher guide — cited as teacher-guide evidence only, outside acceptance counts except where the same lesson also stands on an Indonesian student book. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/indonesia-placements.md.
 
+**Book 11:** *Desafío por Colombia (board-game insert for Ciencias Sociales 5, Cartilla 2)* (student booklet, Spanish) — Colombia, Ministerio de Educación Nacional, Escuela Nueva; year not printed on the sheet; ISBN no ISBN printed. Title as printed: Desafío por Colombia (board-game insert for Ciencias Sociales 5, Cartilla 2). Grade 5 (student/teacher: STUDENT). PDF pages: 1 (single poster/game sheet, image-only; viewed as a render — a road route across the map of Colombia with 13 review questions). Verdict: COMPLETE (Geography parts placed below). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/colombia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Variety at every scale | G12 student #63, printed pp. 157–159 |
@@ -41,8 +43,9 @@ countries: Ethiopia, Nauru, Tuvalu, Niue, Guatemala, Ecuador, Angola, Bangladesh
 | Bangladesh part (Grade 6) — Nature Conservation Activity: endangered animals of the region (river dolphin, peacock, nilgai, pangolin, sloth bear) | Bangladesh, *History and Social Science, Class Six*, Grade 6, Nature Conservation Activity: endangered animals of the region (river dolphin, peacock, nilgai, pangolin, sloth bear) — printed pp. 74-76 |
 | Indonesia part (Grade 11) — Bab 2 A Keragaman flora dan fauna Indonesia dan arti pentingnya | Indonesia, *Geografi untuk SMA Kelas XI*, Grade 11, Bab 2 A Keragaman flora dan fauna Indonesia dan arti pentingnya — printed p. 65 |
 | Indonesia part (Grade 11, teacher guide — evidence) — Bab II Panduan pembelajaran: Keragaman Hayati Indonesia dan Dunia (teaching guide for student Bab 2) | Indonesia, *Panduan Guru Geografi untuk SMA/MA Kelas XI (Edisi Revisi)* (teacher guide), Grade 11, Bab II Panduan pembelajaran: Keragaman Hayati Indonesia dan Dunia (teaching guide for student Bab 2) — printed p. 139 |
+| Colombia part (Insertos_sociales_05_Cartilla_02) — Questions 4 and 13: examples of natural landscape; what biodiversity means | Colombia, *Desafío por Colombia (board-game insert for Ciencias Sociales 5, Cartilla 2)*, Questions 4 and 13: examples of natural landscape; what biodiversity means — printed p. 1 (sheet) |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Nauru, Tuvalu, Niue, Guatemala, Ecuador, Angola, Bangladesh, Indonesia).**
+**Acceptance count: taught in 10 countries (Ethiopia, Nauru, Tuvalu, Niue, Guatemala, Ecuador, Angola, Bangladesh, Indonesia, Colombia).**
 
 Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -65,3 +68,5 @@ Searchable tags: biodiversity, species loss, Biodiversity Convention, political 
 Angola's own way (Grade 5): Geography opens as "geographic space" — the natural space and the human-built space (Luanda port, Benguela railway, Cambambe dam, Huambo housing) — before any physical topic; Angola's own position, borders, population figures (INE) and farm/fishery tables carry the world topics. That way is stocked here as the way Angola teaches this thing.
 
 Bangladesh's own way (Grade 6): an inquiry-based combined History and Social Science course built around a class teacher character and group investigations; Geography is taught through the landform of Bengal itself — rivers, silt and hills explaining settlement, ancient states, ports and even the 1971 war — plus hands-on map-making (home-to-school route maps, a world-tour board game) and a pupil-run nature conservation club.
+
+Colombia's own way (Insertos_sociales_05_Cartilla_02): the Grade 5 review game is a road trip across Colombia's own map — Sierra, coffee zone, Llanos capybara country, Amazon toucan country — drilling capitals, cordilleras, páramos, regional economies and biodiversity.

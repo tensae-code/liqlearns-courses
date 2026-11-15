@@ -1,6 +1,6 @@
 # Sources — Cultural landscapes — land shaped by people
 
-countries: Ethiopia, Haiti, Angola, Samoa
+countries: Ethiopia, Haiti, Angola, Samoa, Colombia
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -14,6 +14,12 @@ countries: Ethiopia, Haiti, Angola, Samoa
 
 **Book 6:** *Social Studies — Year 9, Book 2* (student book, English) — Ministry of Education, Sports and Culture, Samoa; year 2004 (reprint of 2002); ISBN 982-517-016-6. Title as printed: Social Studies — Year 9, Book 2. Year 9 (student/teacher: STUDENT). PDF pages: 84 (cover/title page verified against the record title). Verdict: COMPLETE (Geography parts placed below). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/samoa-placements.md.
 
+**Book 7:** *Ciencias Sociales 2 — Primera Cartilla, Escuela Nueva* (student guide, Spanish) — Colombia, Ministerio de Educación Nacional, Bogotá; year 2011; ISBN libro 978-958-97482-4-4 (ISBN serie 978-958-97482-3-7). Title as printed: Ciencias Sociales 2 — Primera Cartilla, Escuela Nueva. Grade 2 (student/teacher: STUDENT). PDF pages: 136 (cover verified: "Ciencias Sociales 2, Primera Cartilla, Escuela Nueva"). Verdict: COMPLETE. Non-Geography parts named in the placements, not placed: Unidad 1 ¿Quién soy yo? Guías 1–3 (myself, similarities/differences, diverse families), printed pp. 7–98 in part; Unidad 2 Guías 4–5 social groups, community members and norms, printed pp. 56–98 (civics — except the vereda road story placed below); Unidad 3 Guía 7's municipal authorities section (mayor/council election), printed pp. 118–131 (civics).. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/colombia-placements.md.
+
+**Book 8:** *Ciencias Sociales 5 — Segunda Cartilla, Escuela Nueva* (student guide, Spanish) — Colombia, Ministerio de Educación Nacional, Bogotá; year 2011; ISBN libro 978-958-8712-01-7 (ISBN serie 978-958-97482-3-7). Title as printed: Ciencias Sociales 5 — Segunda Cartilla, Escuela Nueva. Grade 5 (student/teacher: STUDENT). PDF pages: 112 (cover verified on a clean re-download: "Ciencias Sociales 5, Segunda Cartilla, Escuela Nueva"). Verdict: COMPLETE (first downloaded copy was corrupted by a concurrent-download race and its front pages were damaged; a clean chunked re-download was rendered and verified, and the placements below — made from the readable guides of the first copy — match its contents). Non-Geography parts named in the placements, not placed: Unidad 7 Guía 14's money/banking civics treatment in part; Unidad 8 Guías 15–16 Nuestros dilemas / Nuestras relaciones con otras personas (ethics/civics), printed pp. ~90–111.. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/colombia-placements.md.
+
+**Book 9:** *Ciencias Sociales — Postprimaria Rural, Grado 6 (student guide; front matter also carries the Ética y Valores grados 6–7 line)* (student guide, Spanish) — Colombia, Ministerio de Educación Nacional (Postprimaria Rural); year not printed on extracted front pages; ISBN no ISBN printed in the extracted front matter. Title as printed: Ciencias Sociales — Postprimaria Rural, Grado 6 (student guide; front matter also carries the Ética y Valores grados 6–7 line). Grade 6 (student/teacher: STUDENT). PDF pages: 226 (contents page verified: six modules, Guías 1–19, all framed on the world's indigenous peoples). Verdict: COMPLETE. Non-Geography parts named in the placements, not placed: Módulo 2 Saberes de los pueblos originarios (beliefs/myths/religions, technologies, art, social/family life), Guías 4–7, printed pp. 44–87 (Culture/History); Módulo 5 Poder y política en los pueblos originarios, Guías 14–16, printed pp. 160–189 (Civics); Módulo 6 Conflictos, derechos y participación, Guías 17–19, printed pp. 190–225 (Civics).. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/colombia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The meaning | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 5, printed pp. 146–149 |
@@ -23,8 +29,11 @@ countries: Ethiopia, Haiti, Angola, Samoa
 | Angola part (Grade 5) — 2.1 A transformação do espaço geográfico | Angola, *Geografia 5ª Classe*, Grade 5, 2.1 A transformação do espaço geográfico — printed p. 24 |
 | Angola part (Grade 6) — 1.2 A evolução do espaço geográfico | Angola, *Geografia 6ª Classe*, Grade 6, 1.2 A evolução do espaço geográfico — printed p. 11 |
 | Samoa part (Year 9, Book 2) — Unit 1 Topic 1 Ordinary Places (natural and cultural features) | Samoa, *Social Studies, Year 9, Book 2*, Unit 1 Topic 1 Ordinary Places (natural and cultural features) — printed p. 6 |
+| Colombia part (CS_Grado2_01) — Guía 6 El paisaje y los recursos: geographic, natural and cultural landscapes | Colombia, *Ciencias Sociales 2 — Primera Cartilla, Escuela Nueva*, Guía 6 El paisaje y los recursos: geographic, natural and cultural landscapes — printed p. 104 |
+| Colombia part (CS_Grado05_02) — Unidad 6 Guía 11 Del paisaje natural al paisaje cultural | Colombia, *Ciencias Sociales 5 — Segunda Cartilla, Escuela Nueva*, Unidad 6 Guía 11 Del paisaje natural al paisaje cultural — printed p. 43 |
+| Colombia part (CS_Grado6 Postprimaria) — Módulo 3 Guía 9 ¿Qué hacen los pueblos originarios en el territorio? | Colombia, *Ciencias Sociales — Postprimaria Rural, Grado 6 (student guide; front matter also carries the Ética y Valores grados 6–7 line)*, Módulo 3 Guía 9 ¿Qué hacen los pueblos originarios en el territorio? — printed p. 102 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Angola, Samoa). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 4 countries (Ethiopia, Angola, Samoa, Colombia). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
 
 Haiti's own way (teacher sequence — evidence): Geography begins as a daily practice, not a chapter: pupils draw the landscape around their school, the plan of their quarter and Haiti with their school placed on it, read landscape forms and functions from their own croquis, then trace one everyday object (a coffee cup, a phone) from raw material to shop shelf to see the world from the local. That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
@@ -35,3 +44,9 @@ Angola's own way (Grade 5): Geography opens as "geographic space" — the natura
 Angola's own way (Grade 6): a resources-and-environment year — every world topic (air, water, soils, forests) is closed with the Angolan case: Angola's fresh-water use, Angola's farm land, Angola's forest areas. That way is stocked here as the way Angola teaches this thing.
 
 Samoa's own way (Year 9, Book 2): Place is taught through Samoan lived places — ordinary, sacred (tapu), natural and political places such as Mulinu'u — and migration is taught through Samoa's own movement story and its New Zealand diaspora, closing with a full mapping-skills unit.
+
+Colombia's own way (CS_Grado2_01): Escuela Nueva self-paced guides (parts A–D: explore, deepen, practise, apply) set in rural Colombia — veredas, resguardos, coffee regions; geography starts from the walk home-to-school, the classroom plan and the home municipality (Aracataca/Ciénaga worked example).
+
+Colombia's own way (CS_Grado05_02): Grade 5's second cartilla turns from history to landscape and economy: how people transform natural into cultural landscape, the region's environmental problems, then work and money — geography taught through the child's own region (mountain/valley/savanna/near-the-sea location exercise).
+
+Colombia's own way (CS_Grado6 Postprimaria): the rural Postprimaria Grade 6 guide is built entirely around indigenous peoples — where they live, what they do in their territories, their ancestral struggles for land, and their population and resource use — geography taught as peoples-and-territory.

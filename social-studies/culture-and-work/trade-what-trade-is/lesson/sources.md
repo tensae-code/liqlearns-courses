@@ -1,6 +1,6 @@
 # Sources — Trade — what trade is
 
-countries: Ethiopia, Suriname, Mongolia, Palestine
+countries: Ethiopia, Suriname, Mongolia, Palestine, Colombia
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 2 — Population Studies and Socio-Economic Activities, printed pp. 44–76).
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Suriname, Mongolia, Palestine
 
 **Book 5:** *الدراسات الاجتماعية (Social Studies), Grade 6, Part Two* (student book, Arabic) — Palestine, Ministry of Education and Higher Education, State of Palestine; year 2017 (2017/2018 curriculum series); no ISBN printed. Title as printed: الدراسات الاجتماعية (Social Studies), Grade 6, Part Two (Semester 2). Grade 6 (student). 104 PDF pp. (cover verified against the record title; printed p. = PDF p. − 4; file fetched via git sparse-checkout, byte-verified against the record — 17,399,163 bytes, blob SHA 1dc8073d7cd5b8c10cf864efc7b1310224144adf). Verdict: COMPLETE. (Combined Social Studies book — Geography parts placed below; History/Civics parts named in the placements, not placed: Unit 4 lessons 1–2, printed pp. 4–16; Unit 5, The Rise of the Islamic State, pp. 26–84; Unit 6 lesson 2, The Active Citizen, p. 89.) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/palestine-placements.md.
 
+**Book 6:** *Ciencias Sociales 5 — Segunda Cartilla, Escuela Nueva* (student guide, Spanish) — Colombia, Ministerio de Educación Nacional, Bogotá; year 2011; ISBN libro 978-958-8712-01-7 (ISBN serie 978-958-97482-3-7). Title as printed: Ciencias Sociales 5 — Segunda Cartilla, Escuela Nueva. Grade 5 (student/teacher: STUDENT). PDF pages: 112 (cover verified on a clean re-download: "Ciencias Sociales 5, Segunda Cartilla, Escuela Nueva"). Verdict: COMPLETE (first downloaded copy was corrupted by a concurrent-download race and its front pages were damaged; a clean chunked re-download was rendered and verified, and the placements below — made from the readable guides of the first copy — match its contents). Non-Geography parts named in the placements, not placed: Unidad 7 Guía 14's money/banking civics treatment in part; Unidad 8 Guías 15–16 Nuestros dilemas / Nuestras relaciones con otras personas (ethics/civics), printed pp. ~90–111.. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/colombia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — No one finds everything where they are | Ethiopia, *Social Studies Student Textbook, Grade 8* (Amhara Bureau), printed p. 66 |
@@ -20,8 +22,9 @@ countries: Ethiopia, Suriname, Mongolia, Palestine
 | Mongolia part — The local market | Mongolia, *Нийгэм судлал VIII (Social Studies VIII)*, Grade 8, Chapter III Individual and Economy: 3.2 The local market — printed p. 51 |
 | Palestine part — Unit 5, Lesson 2: economic relations — in the village and the city, the economic importance of Palestine's location, and economic relations between states | Palestine, *Social Studies, Grade 5, Part Two*, Grade 5, Unit 5, Lesson 2: economic relations — in the village and the city, the economic importance of Palestine's location, and economic relations between states — printed p. 55 |
 | Palestine part — Unit 4, Lesson 3: the economic life of the Arabs before Islam — economic activities; the concept and types of trade | Palestine, *Social Studies, Grade 6, Part Two*, Grade 6, Unit 4, Lesson 3: the economic life of the Arabs before Islam — economic activities; the concept and types of trade — printed p. 17 |
+| Colombia part (CS_Grado05_02) — Unidad 7 Guía 14 El dinero y el intercambio económico | Colombia, *Ciencias Sociales 5 — Segunda Cartilla, Escuela Nueva*, Unidad 7 Guía 14 El dinero y el intercambio económico — printed pp. 80–89 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Suriname, Mongolia, Palestine).**
+**Acceptance count: taught in 5 countries (Ethiopia, Suriname, Mongolia, Palestine, Colombia).**
 
 Mongolia's own way (Grade 8): the Grade 8 year is the LOCAL year — every chapter is re-anchored to the child's own орон нутаг (local area/homeland): its environment and problems, its heritage, its economy and market, its governance. The book's Law/Civics parts (Chapters IV–V, printed pp. 63–94) are named in the placements, not placed. That way is stocked here as the way Mongolia teaches this thing.
 
@@ -32,3 +35,5 @@ Searchable tags: trade: what trade is, culture and work, social studies, ethiopi
 Palestine's own way (Grade 5, PS G5P2): the settlement story is told as a ladder — farming, animal domestication, the agricultural village, the Palestinian village of today, then the city located on the map — and the year closes with the road itself: what a road is, its parts, and how to cross it safely.
 
 Palestine's own way (Grade 6, PS G6P2): a mostly historical semester; its Geography survives in the trade geography of pre-Islamic Arabia (activities, markets mapped, trade with neighbouring regions) and in a closing traffic-safety lesson.
+
+Colombia's own way (CS_Grado05_02): Grade 5's second cartilla turns from history to landscape and economy: how people transform natural into cultural landscape, the region's environmental problems, then work and money — geography taught through the child's own region (mountain/valley/savanna/near-the-sea location exercise).

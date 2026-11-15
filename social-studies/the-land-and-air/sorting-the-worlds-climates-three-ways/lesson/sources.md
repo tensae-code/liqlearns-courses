@@ -1,6 +1,6 @@
 # Sources — Sorting the world's climates — three ways
 
-countries: Ethiopia, Ecuador
+countries: Ethiopia, Ecuador, Colombia
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Ecuador
 
 **Book 5:** *Estudios Sociales 8vo EGB* (student book, Spanish) — Ecuador, Ministerio de Educación del Ecuador; year 2024 (Primera edición); ISBN 978-9942-662-28-6. Title as printed: Estudios Sociales — Educación General Básica, Subnivel Superior, Octavo de Básica; Texto del estudiante para la transición curricular. Grade: Grade 8 (student). 194 PDF pp. (cover/title page verified against the record title; grabbed via the repo release route, 18,079,356 bytes = record size exactly; an external academia.edu copy of this ISBN is likewise titled Octavo de Básica, confirming this shared Superior body is the Grade 8 book; the book's two records — a TSV release/blob record and a books.json record for the same repo path — are one book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/ecuador-placements.md.
 
+**Book 6:** *Ciencias Sociales — Secundaria Activa, Grado 7 (module)* (student module, Spanish) — Colombia, Ministerio de Educación Nacional (Secundaria Activa); year not printed on extracted front pages; ISBN no ISBN printed in the extracted front matter. Title as printed: Ciencias Sociales — Secundaria Activa, Grado 7 (module). Grade 7 (student/teacher: STUDENT). PDF pages: 248 (table of contents verified against the record title/grade). Verdict: COMPLETE. Non-Geography parts named in the placements, not placed: Unidad 3 Imperios en Europa (Rome, Medieval societies, Renaissance/mercantilism), printed pp. 118–189 (History); Unidad 4 Imperios en América (pre-European American empires and cultural legacy), printed pp. 190–247 (History).. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/colombia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Why classify at all | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 2, printed pp. 28–29 |
@@ -21,8 +23,9 @@ countries: Ethiopia, Ecuador
 | Sub lesson — The world's climates sorted — the Grade 10 survey | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 2, printed pp. 26–31 |
 | Teaching pattern and answer keys (teacher guide — evidence) — Grade 10 | Ethiopia, *Geography, Teacher Guide, Grade 10*, Unit 2, guide printed pp. 15–42 |
 | Ecuador part — Los climas del mundo (inside the cartography tema) | Ecuador, *Estudios Sociales 8vo EGB*, Grade 8, Los climas del mundo (inside the cartography tema) — printed p. 99 |
+| Colombia part (CS_Grado07 Secundaria Activa) — Unidad 1 Cap. 1 Tema 2 Los climas de la Tierra | Colombia, *Ciencias Sociales — Secundaria Activa, Grado 7 (module)*, Unidad 1 Cap. 1 Tema 2 Los climas de la Tierra — printed p. 24 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Ecuador).**
+**Acceptance count: taught in 3 countries (Ethiopia, Ecuador, Colombia).**
 
 No book error is flagged for this lesson's pages in the placements. The student book's body numbering for Unit Two drifts from its own contents (regions printed as 2.4, factors as 2.5, local classification as 2.6, where the contents and the teacher guide's contents agree on 2.3, 2.4 and 2.5); this lesson follows the contents numbering and teaches no misprint.
 
@@ -33,3 +36,5 @@ Ecuador's own way (Grade 8 book): at Superior level the book turns thematic — 
 Honesty note: the ministry's 2024 transición-curricular PDFs, as held, reuse one body per sublevel — the Grade 5 body also carries the Grade 6 and Grade 7 covers (Subnivel Media), and the Grade 8 body also carries the Grade 9 and Grade 10 covers (Subnivel Superior). That content is credited once, under its true Grade 5 / Grade 8 identity, exactly as the placements state; the genuine Ecuador Grade 6, 7, 9 and 10 Estudios Sociales books are NOT held (library debt).
 
 Searchable tags: climate classification, greek zones, genetic empirical, koppen trewartha, ethiopia, social studies, the land and air, Ecuador
+
+Colombia's own way (CS_Grado07 Secundaria Activa): Secundaria Activa organises Grade 7 as climate first (with climate change and hydrometeorological threats), then a paired physical-and-human geography of Europe and America — continents taught as physical environments plus population — before the history units.

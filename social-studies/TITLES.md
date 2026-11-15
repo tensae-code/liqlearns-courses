@@ -103,7 +103,7 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **1092**
+Geography lessons across the eight Geography titles: **1103**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -657,3 +657,14 @@ Safety, Building Safely in Disaster-Prone Areas,
 Afforestation and Reforestation — Planting Trees Back
 and Disaster and Risk Management.
 (All 21 stand on Zimbabwe's teacher guides, cited as teacher-guide evidence only, counted nowhere in acceptance.)
+
++11 for Colombia, 2026-11-14 — First Steps: My Region
+and Its Landscape; The Land and Air: Colombia's Relief
+— Three Cordilleras, Coasts and Plains, Colombia's Six
+Natural Regions, Europe's Physical Environments,
+America's Physical Environments, Asia — Physical and
+Human Geography and Continents as Human Environments;
+Population, Transport and Maps: Plans of a Room and a
+House, My Municipality and Department on the Political
+Map, Africa's Population Development and Colombia and
+Its Departments — The Political Map.

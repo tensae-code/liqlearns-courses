@@ -1,6 +1,6 @@
 # Sources — Getting around — roads first
 
-countries: Ethiopia, Guatemala
+countries: Ethiopia, Guatemala, Colombia
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -8,15 +8,20 @@ countries: Ethiopia, Guatemala
 
 **Book 3:** *Ciencias Sociales y Formación Ciudadana, Cuarto grado* (student book, Spanish) — Guatemala, Ministerio de Educación de Guatemala, elaborated with USAID/Reforma Educativa en el Aula (Juárez y Asociados); author Gloria Amaria Hernández; year impresión 2017; ISBN 978-9929-596-13-9. Title as printed: Ciencias Sociales y Formación Ciudadana — Cuarto grado. Grade: Grade 4 (student). 256 PDF pp. (cover verified against the record title; byte size 25,726,392 and page count 256 match the books.json record exactly — read from the record's own Wayback source URL after grab.py failed with GitHub API RemoteDisconnected; the two TSV release records are the same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/guatemala-placements.md.
 
+**Book 4:** *Ciencias Sociales 2 — Primera Cartilla, Escuela Nueva* (student guide, Spanish) — Colombia, Ministerio de Educación Nacional, Bogotá; year 2011; ISBN libro 978-958-97482-4-4 (ISBN serie 978-958-97482-3-7). Title as printed: Ciencias Sociales 2 — Primera Cartilla, Escuela Nueva. Grade 2 (student/teacher: STUDENT). PDF pages: 136 (cover verified: "Ciencias Sociales 2, Primera Cartilla, Escuela Nueva"). Verdict: COMPLETE. Non-Geography parts named in the placements, not placed: Unidad 1 ¿Quién soy yo? Guías 1–3 (myself, similarities/differences, diverse families), printed pp. 7–98 in part; Unidad 2 Guías 4–5 social groups, community members and norms, printed pp. 56–98 (civics — except the vereda road story placed below); Unidad 3 Guía 7's municipal authorities section (mayor/council election), printed pp. 118–131 (civics).. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/colombia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Roads dominate | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 5, printed pp. 138–141 |
 | Sub lesson 2 — The older carriage | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 5, printed pp. 138–141 |
 | Teaching pattern and answer keys (teacher guide — evidence) — Grade 9 Unit 5 | Ethiopia, *Geography, Teacher Guide, Grade 9*, Unit 5, guide printed pp. 143–176 |
 | Guatemala part — Vías de comunicación | Guatemala, *Ciencias Sociales y Formación Ciudadana*, Grade 4, Vías de comunicación (Unit 2) — printed p. 89 |
+| Colombia part (CS_Grado2_01) — Guía 5 story of vereda La Portada: building the road brings transport, school access and health services | Colombia, *Ciencias Sociales 2 — Primera Cartilla, Escuela Nueva*, Guía 5 story of vereda La Portada: building the road brings transport, school access and health services — printed pp. 85–88 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Guatemala).**
+**Acceptance count: taught in 3 countries (Ethiopia, Guatemala, Colombia).**
 
 Guatemala's own way: one combined Social Studies and Citizenship book per grade, organised in four units that alternate History of Guatemala/Central America with the physical geography of the isthmus — every map carries the note about the unresolved Belize territorial differendum, and Geography is always worked on maps of the seven Central American countries with Guatemala's own Sierra de las Minas, Motagua river and Maya Biosphere as the home examples. That way is stocked here as the way Guatemala teaches this thing.
 
 Searchable tags: road transport, radial network, addis ababa, pack animals, porters, social studies, Guatemala
+
+Colombia's own way (CS_Grado2_01): Escuela Nueva self-paced guides (parts A–D: explore, deepen, practise, apply) set in rural Colombia — veredas, resguardos, coffee regions; geography starts from the walk home-to-school, the classroom plan and the home municipality (Aracataca/Ciénaga worked example).

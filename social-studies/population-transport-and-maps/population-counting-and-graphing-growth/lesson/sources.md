@@ -1,6 +1,6 @@
 # Sources — Population — counting and graphing growth
 
-countries: Ethiopia, Myanmar, Indonesia
+countries: Ethiopia, Myanmar, Indonesia, Colombia
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 2, placements 27–43).
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Myanmar, Indonesia
 
 **Book 4:** *Panduan Guru Geografi untuk SMA/MA Kelas XI (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Pusat Perbukuan, Kemendikbudristek; year 2024 (Edisi Revisi); ISBN 978-623-388-485-3 (jil. 1 PDF); authors Budi Handoyo, Nisa Maulia. Title as printed: Panduan Guru Geografi untuk SMA/MA Kelas XI (Edisi Revisi). Grade 11 / SMA/MA Kelas XI (teacher). 288 PDF pp. (cover verified: "PANDUAN GURU — GEOGRAFI — EDISI REVISI — SMA/MA Kelas XI", 2024). Verdict: COMPLETE. Records: 8 records / 4 distinct books in total for Indonesia (4 TSV release records + 4 books.json records that are the same 4 books by grade/kind — duplicate records, taught once). Library debt carried exactly as the placements state: the books.json records for all 4 Indonesia Geografi titles carry tree paths (grade-XX/gov/indonesia/geografi/…) that return 404 in the repo tree — the files actually live in GitHub releases, so the in_pushed tree records are misleading. Read full page-by-page via pdftotext -layout after cover verification; grabbed via grab.py (GitHub Releases API route for the TSV records). This is a teacher guide — cited as teacher-guide evidence only, outside acceptance counts except where the same lesson also stands on an Indonesian student book. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/indonesia-placements.md.
 
+**Book 5:** *Ciencias Sociales — Postprimaria Rural, Grado 7 (student guide)* (student guide, Spanish) — Colombia, Ministerio de Educación Nacional (Postprimaria Rural); year not printed on extracted front pages; ISBN no ISBN printed in the extracted front matter. Title as printed: Ciencias Sociales — Postprimaria Rural, Grado 7 (student guide). Grade 7 (student/teacher: STUDENT). PDF pages: 238 (contents page verified: six modules, Guías 1–18, all framed on the societies of the 5th–15th centuries). Verdict: COMPLETE. Non-Geography parts named in the placements, not placed: Módulo 1 Sociedades de los siglos V al XV: relaciones Oriente y Occidente, Guías 1–3, printed pp. 8–49 (History); Módulo 2 Saberes en las sociedades de los siglos V al XV (religious traditions, technology, social life), Guías 4–6, printed pp. 50–83 (History); Módulo 4 Guías 10 and 12 (feudal/colonial production systems; colonial economy of Nueva Granada), printed pp. 128–140 and 149–161 (History); Módulo 5 Sistemas políticos de los siglos V al XV, Guías 13–15, printed pp. 162–193 (History/Civics); Módulo 6 Sobre cómo resolver los conflictos y tensiones sociales, Guías 16–18, printed pp. 194–237 (Civics).. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/colombia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Counting your own school | Ethiopia, *Social Studies Student Textbook, Grade 7* (Amhara Bureau), printed pp. 35–36 |
@@ -17,8 +19,9 @@ countries: Ethiopia, Myanmar, Indonesia
 | Myanmar's population growth — Myanmar way: 2.4 Myanmar's population growth (teacher guide — evidence) | Myanmar, *Teacher Guide — Geography — Grade 6* (teacher guide), §2.4, printed p. 29 |
 | Indonesia part (Grade 11) — Bab 3 II.A Dinamika kependudukan: pertumbuhan penduduk dan cara menghitungnya, data kependudukan | Indonesia, *Geografi untuk SMA Kelas XI*, Grade 11, Bab 3 II.A Dinamika kependudukan: pertumbuhan penduduk dan cara menghitungnya, data kependudukan — printed p. 134 |
 | Indonesia part (Grade 11, teacher guide — evidence) — Bab III Panduan pembelajaran: Penduduk sebagai sumber daya manusia, dinamika kependudukan (teaching guide) | Indonesia, *Panduan Guru Geografi untuk SMA/MA Kelas XI (Edisi Revisi)* (teacher guide), Grade 11, Bab III Panduan pembelajaran: Penduduk sebagai sumber daya manusia, dinamika kependudukan (teaching guide) — printed p. 183 |
+| Colombia part (CS_Grado7 Postprimaria) — Módulo 4 Guía 11 La población de las sociedades de los siglos V al XV | Colombia, *Ciencias Sociales — Postprimaria Rural, Grado 7 (student guide)*, Módulo 4 Guía 11 La población de las sociedades de los siglos V al XV — printed p. 141 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Indonesia). Myanmar is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 3 countries (Ethiopia, Indonesia, Colombia). Myanmar is named here as teacher-guide evidence only, counted nowhere.**
 
 Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -29,3 +32,5 @@ Myanmar's own way (teacher guide — evidence): the year is split into five para
 Pairing warning (honesty): Book 2 is an Addis Ababa bureau guide in English; Book 1 is an Amhara bureau student book in Amharic. They are NOT edition-matched companions — the guide's unit order differs and whole student topics (maps, globes, GPS) have no guide counterpart, so no guide coverage is claimed for them. Guide material is used only as labelled teacher evidence.
 
 Searchable tags: population, counting people, enrolment, bar graph, line graph, percentage growth, school records, Myanmar, Teacher Guide Geography Grade 6, teacher guide evidence
+
+Colombia's own way (CS_Grado7 Postprimaria): the rural Postprimaria Grade 7 guide teaches the medieval/colonial world through territory — how societies transformed their natural environment, represented their territory, and used and exploited its natural resources.

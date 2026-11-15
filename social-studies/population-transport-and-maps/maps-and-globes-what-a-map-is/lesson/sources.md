@@ -1,6 +1,6 @@
 # Sources — Maps and globes — what a map is
 
-countries: Ethiopia, Palestine, Egypt, Dominican Republic
+countries: Ethiopia, Palestine, Egypt, Dominican Republic, Colombia
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 2, placements 27–43).
 
@@ -10,6 +10,12 @@ countries: Ethiopia, Palestine, Egypt, Dominican Republic
 
 **Book 4:** *Ciencias Sociales — Tercer Grado, Primer Ciclo, Educación Primaria (Libro Abierto, Serie 1)* (student book, Spanish) — Dominican Republic, Ministerio de Educación (MINERD), Unidad Editorial, República Dominicana; Libro Abierto Serie 1; ISBN 978-9945-646-00-9 (printed in the book). Title as printed: Ciencias Sociales — Tercer Grado, Primer Ciclo, Educación Primaria (Libro Abierto, Serie 1). Grade 3 (student). 128 PDF pp. (cover verified against the record title; byte size 73,378,327 matches the GitHub release asset exactly and page count matches the record). Verdict: COMPLETE (combined book — Geography parts placed below; History/Civics parts named in the placements, not placed: Unidad 5 Mi país, su identidad y cultura, printed p. 76; Unidad 6 Derechos y deberes para vivir en democracia (Civics), p. 90; Anexo: Constitución Dominicana Infantil, p. 110). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/dominican-republic-placements.md.
 
+**Book 5:** *Ciencias Sociales 2 — Primera Cartilla, Escuela Nueva* (student guide, Spanish) — Colombia, Ministerio de Educación Nacional, Bogotá; year 2011; ISBN libro 978-958-97482-4-4 (ISBN serie 978-958-97482-3-7). Title as printed: Ciencias Sociales 2 — Primera Cartilla, Escuela Nueva. Grade 2 (student/teacher: STUDENT). PDF pages: 136 (cover verified: "Ciencias Sociales 2, Primera Cartilla, Escuela Nueva"). Verdict: COMPLETE. Non-Geography parts named in the placements, not placed: Unidad 1 ¿Quién soy yo? Guías 1–3 (myself, similarities/differences, diverse families), printed pp. 7–98 in part; Unidad 2 Guías 4–5 social groups, community members and norms, printed pp. 56–98 (civics — except the vereda road story placed below); Unidad 3 Guía 7's municipal authorities section (mayor/council election), printed pp. 118–131 (civics).. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/colombia-placements.md.
+
+**Book 6:** *Ciencias Sociales — Secundaria Activa, Grado 8 (module)* (student module, Spanish) — Colombia, Ministerio de Educación Nacional (Secundaria Activa); year not printed on extracted front pages; ISBN no ISBN printed in the extracted front matter. Title as printed: Ciencias Sociales — Secundaria Activa, Grado 8 (module). Grade 8 (student/teacher: STUDENT). PDF pages: 283 (table of contents verified against the record title/grade). Verdict: COMPLETE. Non-Geography parts named in the placements, not placed: Unidad 2 América Colonial, printed pp. 84–135 (History); Unidad 3 La época de las revoluciones (bourgeois revolutions, Industrial Revolution, imperialism), printed pp. 136–213 (History); Unidad 4 Colombia en el siglo XIX, printed pp. 214–282 (History).. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/colombia-placements.md.
+
+**Book 7:** *Ciencias Sociales — Postprimaria Rural, Grado 7 (student guide)* (student guide, Spanish) — Colombia, Ministerio de Educación Nacional (Postprimaria Rural); year not printed on extracted front pages; ISBN no ISBN printed in the extracted front matter. Title as printed: Ciencias Sociales — Postprimaria Rural, Grado 7 (student guide). Grade 7 (student/teacher: STUDENT). PDF pages: 238 (contents page verified: six modules, Guías 1–18, all framed on the societies of the 5th–15th centuries). Verdict: COMPLETE. Non-Geography parts named in the placements, not placed: Módulo 1 Sociedades de los siglos V al XV: relaciones Oriente y Occidente, Guías 1–3, printed pp. 8–49 (History); Módulo 2 Saberes en las sociedades de los siglos V al XV (religious traditions, technology, social life), Guías 4–6, printed pp. 50–83 (History); Módulo 4 Guías 10 and 12 (feudal/colonial production systems; colonial economy of Nueva Granada), printed pp. 128–140 and 149–161 (History); Módulo 5 Sistemas políticos de los siglos V al XV, Guías 13–15, printed pp. 162–193 (History/Civics); Módulo 6 Sobre cómo resolver los conflictos y tensiones sociales, Guías 16–18, printed pp. 194–237 (Civics).. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/colombia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What a map is | Ethiopia, *Social Studies Student Textbook, Grade 7* (Amhara Bureau), printed pp. 46–47 |
@@ -17,8 +23,11 @@ countries: Ethiopia, Palestine, Egypt, Dominican Republic
 | Palestine part — Unit 1, Lesson 1: sources of geographical knowledge; the concept of the map | Palestine, *Social Studies, Grade 6, Part One*, Grade 6, Unit 1, Lesson 1: sources of geographical knowledge; the concept of the map — printed p. 4 |
 | Egypt part (Grade 4) — Unit 1 Lesson 2: The map in our life | Egypt, *Social Studies, Grade 4, Term 1*, Grade 4, Unit 1 Lesson 2: The map in our life — printed p. 20 |
 | Dominican Republic part (Grade 3) — The puzzle of my island (map group activity) | Dominican Republic, *Ciencias Sociales, Tercer Grado, Primaria (Libro Abierto)*, Grade 3, The puzzle of my island (map group activity) — printed p. 36 |
+| Colombia part (CS_Grado2_01) — Guía 6 Los mapas: maps as representations made from aerial photographs, and their uses | Colombia, *Ciencias Sociales 2 — Primera Cartilla, Escuela Nueva*, Guía 6 Los mapas: maps as representations made from aerial photographs, and their uses — printed pp. 113–115 |
+| Colombia part (CS_Grado08 Secundaria Activa) — Unidad 1 Cap. 1 Tema 1 La cartografía | Colombia, *Ciencias Sociales — Secundaria Activa, Grado 8 (module)*, Unidad 1 Cap. 1 Tema 1 La cartografía — printed p. 17 |
+| Colombia part (CS_Grado7 Postprimaria) — Módulo 3 Guía 8 Formas de representar el territorio | Colombia, *Ciencias Sociales — Postprimaria Rural, Grado 7 (student guide)*, Módulo 3 Guía 8 Formas de representar el territorio — printed p. 103 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Palestine, Egypt, Dominican Republic).**
+**Acceptance count: taught in 5 countries (Ethiopia, Palestine, Egypt, Dominican Republic, Colombia).**
 
 Pairing warning (honesty): Book 2 is an Addis Ababa bureau guide in English; Book 1 is an Amhara bureau student book in Amharic. They are NOT edition-matched companions — the guide's unit order differs and whole student topics (maps, globes, GPS) have no guide counterpart, so no guide coverage is claimed for them. Guide material is used only as labelled teacher evidence.
 
@@ -29,3 +38,9 @@ Palestine's own way (Grade 6, PS G6P1): Grade 6 opens with how we know — the m
 Egypt's own way (Grade 4 Term 1): the very first Social Studies book starts from the child's own space — drawing a plan of the home and school, comparing walking routes by length and landmarks — before maps in general, then the child's own city and governorate, and only then Egypt as homeland; a robot mascot teaches alongside named child guides from different governorates.
 
 Dominican Republic's own way (Grade 3): For third graders geography is the home island first: the planet and its components, then the Antilles and the relief of their own country, then countryside versus city, and finally where their own families came from — migration and a family census the children run themselves.
+
+Colombia's own way (CS_Grado2_01): Escuela Nueva self-paced guides (parts A–D: explore, deepen, practise, apply) set in rural Colombia — veredas, resguardos, coffee regions; geography starts from the walk home-to-school, the classroom plan and the home municipality (Aracataca/Ciénaga worked example).
+
+Colombia's own way (CS_Grado08 Secundaria Activa): Grade 8 opens with a full geography unit — cartography first, then the paired physical-and-human treatment of Asia and Africa (spatial relations plus population development) — and only then turns to history.
+
+Colombia's own way (CS_Grado7 Postprimaria): the rural Postprimaria Grade 7 guide teaches the medieval/colonial world through territory — how societies transformed their natural environment, represented their territory, and used and exploited its natural resources.
