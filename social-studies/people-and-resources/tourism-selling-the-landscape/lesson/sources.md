@@ -1,6 +1,6 @@
 # Sources — Tourism — selling the landscape
 
-countries: Ethiopia, Morocco, France, Nauru
+countries: Ethiopia, Morocco, France, Nauru, Tuvalu
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Morocco, France, Nauru
 
 **Book 4:** *People and the Sea in the Pacific* (student book, English) — Nauru, Institute of Education, University of the South Pacific (Tonga Campus), with UNESCO and Japanese Funds-in-Trust; year 2020; no ISBN printed. Title as printed: People and the Sea in the Pacific — A Social Sciences related reader for Primary School, Book 1 (Education for Sustainable Development / Sustainable Living & Development). Grade: Years 5–6 (record grade Grade 5) (student). 24 PDF pp. (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nauru-placements.md.
 
+**Book 5:** *People and the Sea in the Pacific* (student book, English) — Tuvalu, Institute of Education, University of the South Pacific (Tonga Campus), with UNESCO and Japanese Funds-in-Trust; year 2020; no ISBN printed. Title as printed: People and the Sea in the Pacific — A Social Sciences related reader for Primary School, Book 1 (Education for Sustainable Development / Sustainable Living & Development). Grade: Years 5–6 (record grade Grade 5) (student). 24 PDF pp. (cover/title page verified against the record title; verified identical to the Nauru copy — same byte size, extracted text identical, cover renders identical — and read in full under Nauru; the Tuvalu copy was spot-checked (cover + contents text diff)). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/tuvalu-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The attractions | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 5, printed pp. 147–149 |
@@ -18,12 +20,15 @@ countries: Ethiopia, Morocco, France, Nauru
 
 | France part — Thème 3: Les mobilités touristiques internationales (étude de cas: la Méditerranée, un bassin touristique; surtourisme) | France, *Géographie 2de GT, Manuel Libre de Géographie, Seconde*, Grade 10, Sommaire Thème 3 |
 | Nauru part — Whale watching and swimming with whales as ecotourism (inside the Whales section) | Nauru, *People and the Sea in the Pacific*, Years 5–6, Whale watching and swimming with whales as ecotourism — printed p. 10 |
+| Tuvalu part — Whale watching and swimming with whales as ecotourism (inside the Whales section) | Tuvalu, *People and the Sea in the Pacific*, Years 5–6, Whale watching and swimming with whales as ecotourism (inside the Whales section) — printed p. 10 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, France, Nauru). Morocco is named in this file as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 4 countries (Ethiopia, France, Nauru, Tuvalu). Morocco is named in this file as teacher-guide evidence only, counted nowhere.**
 
 Nauru's own way: Nauru uses the shared Pacific ESD reader suite (local advisors Fay Itaia & Sharon Kam for Nauru) — Geography is taught as ocean stewardship: the Pacific as a connected "sea of islands", its animals, and the traditional fishing knowledge of Tonga, Tuvalu and Niue, ending in a plastic-waste action plan. That way is stocked here as the way Nauru teaches this thing.
 
-Searchable tags: tourism, attractions, lalibela, simien, constraints, social studies, Nauru, People and the Sea in the Pacific, whale watching, ecotourism
+Tuvalu's own way: Tuvalu uses the shared Pacific ESD reader suite (local advisor Valisi Tovia for Tuvalu) — and Tuvalu itself is a case study inside it: Tuvalu's own traditional fishing and bird-catching (printed p. 14) is one of the three country fishing studies. That way is stocked here as the way Tuvalu teaches this thing.
+
+Searchable tags: tourism, attractions, lalibela, simien, constraints, social studies, Nauru, People and the Sea in the Pacific, whale watching, ecotourism, Tuvalu
 
 ## Teacher-guide evidence added (Wave 4, Band F)
 
