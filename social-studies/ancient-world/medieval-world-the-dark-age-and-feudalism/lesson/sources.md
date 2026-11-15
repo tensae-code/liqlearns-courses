@@ -1,6 +1,6 @@
 # Sources — Medieval world — the Dark Age and feudalism
 
-countries: Ethiopia, Brazil, Poland, Costa Rica, Australia, Ecuador, Eritrea, Montenegro, Dominican Republic, Pakistan, Iran, Bulgaria, Cambodia, Colombia, Sri Lanka, Mongolia, Sudan, North Macedonia, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia
+countries: Ethiopia, Brazil, Poland, Costa Rica, Australia, Ecuador, Eritrea, Montenegro, Dominican Republic, Pakistan, Iran, Bulgaria, Cambodia, Colombia, Sri Lanka, Mongolia, Sudan, North Macedonia, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -694,3 +694,40 @@ Armenia's own way (Book A6 — G7 Social Science teacher guide, authors' edition
 **Acceptance count: taught in 25 countries (Ethiopia, Brazil, Poland, Costa Rica, Australia, Ecuador, Eritrea, Montenegro, Dominican Republic, Pakistan, Iran, Bulgaria, Cambodia, Colombia, Sri Lanka, Mongolia, Sudan, North Macedonia, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia).**
 
 Searchable tags: Armenia, History expansion 2026-11-15, ancient-world/medieval-world-the-dark-age-and-feudalism
+
+## History expansion (2026-11-15) — Nicaragua stocked
+
+**Book 11 — G9 Estudios Sociales, full-year textbook (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Educación Secundaria, 9 Grado (introduction calls it the "texto de Geografía e Historia Universal de noveno grado")
+- Grade: Grade 9 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación (MINED), República de Nicaragua, with Unión Europea PROSEN / PASEN I support; author Socorro Álvarez Ponce; year Primera Edición (year line left blank on the credits page; PDF produced December 2014); no ISBN printed
+- PDF pages: 280 (cover/title page verified against the record title; 170,810,241 bytes, grabbed via the full-quality-oversized-books release asset)
+- Verdict: COMPLETE
+- Tally: 44 placements — 34 to existing lessons, 10 NEW LESSON NEEDED
+- Nicaragua's own way: Grade 9 splits the book in two — five Geography units on the continents (printed pp. 1-136), then a headed "Historia" half (Units VI-XI) that is pure world history: human evolution and first societies, the four river civilisations studied one by one under identical headings (geography, politics, society, economy, culture), Greece and Rome, the medieval world, the modern age, and contemporary society ending with ALBA and the GRUN's social achievements in Nicaragua.
+- Non-History parts named: Unit I knowing our world — maps, position and political division of the continents (printed pp. 1-24, Geography); Unit II dynamics of our planet — relief, climates, hydrography and natural resources of the continents (pp. 25-64, Geography); Unit III diversity of human beings — population, ethnic composition and migrations by continent (pp. 65-86, Geography/Civics); Unit IV production and consumption — economic activities, technology and globalisation (pp. 87-118, Geography); Unit V protecting the planet — risk areas, disaster impact and international organisations (pp. 119-136, Geography/Civics).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua part — Las invasiones de los Bárbaros — story beats: the medieval world is framed as the ten centuries from the Western Empire's fall in 476 to Constantinople's in 1453; barbarian kingdoms fragment Roman unity into the map of medieval Europe (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-dark-age-and-feudalism) | Nicaragua, *Ciencias Sociales — Educación Secundaria, 9 Grado (introduction calls it the "texto de Geografía e Historia Universal de noveno grado")*, printed p. 192 |
+| Nicaragua part — Sistema Feudal — story beats: weak kings, invasions and land-as-wealth build feudalism — three fixed estates of fighters, prayers and workers bound by vassalage; the Church, the one institution left standing, fights kings over investitures and excommunicates Henry IV (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-dark-age-and-feudalism) | Nicaragua, *Ciencias Sociales — Educación Secundaria, 9 Grado (introduction calls it the "texto de Geografía e Historia Universal de noveno grado")*, printed p. 200 |
+
+Nicaragua's own way (Book 11 — G9 Estudios Sociales, full-year textbook (student book, Spanish)): Grade 9 splits the book in two — five Geography units on the continents (printed pp. 1-136), then a headed "Historia" half (Units VI-XI) that is pure world history: human evolution and first societies, the four river civilisations studied one by one under identical headings (geography, politics, society, economy, culture), Greece and Rome, the medieval world, the modern age, and contemporary society ending with ALBA and the GRUN's social achievements in Nicaragua. That way is stocked here as the way Nicaragua teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 13 — G10 Estudios Sociales, full-year textbook (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Educación Secundaria, 10 Grado (introduction calls it the Grade 10 text "correspondiente a Geografía y Economía")
+- Grade: Grade 10 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación (MINED), República de Nicaragua, with Unión Europea PROSEN / PASEN I support; author Pablo José Escalante Turcios; year Primera Edición (year line left blank on the credits page; PDF produced December 2014); no ISBN printed
+- PDF pages: 300 (cover/title page verified against the record title; 106,780,055 bytes, matching the books.json record exactly, grabbed via the full-quality-oversized-books release asset)
+- Verdict: COMPLETE as a Geography-and-Economics book — it has no History units; its only History teaching parts are the socioeconomic-formations sequence inside Economics Unit VII, placed below.
+- Tally: 6 placements — 3 to existing lessons, 3 NEW LESSON NEEDED
+- Nicaragua's own way: Grade 10 closes secondary social studies with Geography of Nicaragua and then Economics; History survives only as the frame that opens the Economics half — human society marched through five socioeconomic formations, from the primitive community to 21st-century socialism, before prices, markets and banks are studied.
+- Non-History parts named: Geography Units I-VI — Nicaragua in the world (maps, territorial patrimony and the border disputes with Costa Rica, Honduras and Colombia, printed pp. 2-39, Geography), origin of Mother Earth and relief (pp. 40-65, Geography), climate, waters, flora and fauna (pp. 66-93, Geography), population, identity and the government against poverty (pp. 94-109, Geography/Civics), economic sectors and technology (pp. 110-135, Geography), territorial vulnerability and SINAPRED (pp. 136-155, Geography/Civics); Economics Unit VII remainder — what economics is and its national scope (pp. 156-161, Economics); Unit VIII what our country produces — production, cooperatives and the family-economy ministry (pp. 176-199, Economics); Unit IX price as regulator — markets, supply and demand, taxes (pp. 200-217, Economics); Unit X commercial exchange — trade, ALBA-TCP, money, inflation and banking (pp. 218-243, Economics); Unit XI the state's economic policy — fiscal, monetary and credit policy and the IMF, World Bank, IDB and BCIE (pp. 244-269, Economics/Civics); Unit XII integration before globalisation — free-trade treaties, SICA, ALBA-TCP and Petrocaribe (pp. 270-292, Economics/Civics).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua part — El Feudalismo — story beats: the fief is land held for military service; the serf pays his lord in kind, in labour days on the lord's fields with his own tools, or in money, while the self-sufficient fief economy barely develops (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-dark-age-and-feudalism) | Nicaragua, *Ciencias Sociales — Educación Secundaria, 10 Grado (introduction calls it the Grade 10 text "correspondiente a Geografía y Economía")*, printed p. 167 |
+
+Nicaragua's own way (Book 13 — G10 Estudios Sociales, full-year textbook (student book, Spanish)): Grade 10 closes secondary social studies with Geography of Nicaragua and then Economics; History survives only as the frame that opens the Economics half — human society marched through five socioeconomic formations, from the primitive community to 21st-century socialism, before prices, markets and banks are studied. That way is stocked here as the way Nicaragua teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 26 countries (Ethiopia, Brazil, Poland, Costa Rica, Australia, Ecuador, Eritrea, Montenegro, Dominican Republic, Pakistan, Iran, Bulgaria, Cambodia, Colombia, Sri Lanka, Mongolia, Sudan, North Macedonia, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua).**

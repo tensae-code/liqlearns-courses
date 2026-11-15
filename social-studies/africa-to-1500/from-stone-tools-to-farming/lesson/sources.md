@@ -1,6 +1,6 @@
 # Sources — From stone tools to farming — the Neolithic Revolution
 
-countries: Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus, Fiji, Dominican Republic, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, South Sudan, Libya, Mongolia, Iraq, Uganda, Mozambique, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Cuba, China, Venezuela, Moldova, Armenia
+countries: Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus, Fiji, Dominican Republic, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, South Sudan, Libya, Mongolia, Iraq, Uganda, Mozambique, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -1091,3 +1091,59 @@ Armenia's own way (Book A2 — G7 Armenian History student (student book, Armeni
 **Acceptance count: taught in 39 countries (Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus, Fiji, Dominican Republic, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, South Sudan, Libya, Mongolia, Iraq, Uganda, Mozambique, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Cuba, China, Venezuela, Moldova, Armenia).**
 
 Searchable tags: Armenia, History expansion 2026-11-15, africa-to-1500/from-stone-tools-to-farming
+
+## History expansion (2026-11-15) — Nicaragua stocked
+
+**Book 5 — G6 Estudios Sociales (student book, Spanish)**
+- Title as printed: Estudios Sociales — Primaria Regular, 6to Grado
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación (MINED), República de Nicaragua; year Edición 2020; no ISBN printed
+- PDF pages: 222 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 48 placements — 22 to existing lessons, 26 NEW LESSON NEEDED
+- Nicaragua's own way: primary school closes with a full WORLD history sweep — prehistory, river civilisations, Greece and Rome, Renaissance, colonisation of America, the great revolutions, Latin American independence, the US Civil War, both World Wars, Cold-War dictatorships and the region's return to democracy — always read back through Latin America's experience.
+- Non-History parts named: Unit 1 our planet — origin theories, Earth's movements, maps, time zones (printed pp. 2-24, Geography/Science); Unit 2 geographic landscape of America — relief, hydrography, climate, risk, economy (pp. 26-56, Geography); Unit 3 geographic landscape of Europe, Asia, Africa and Oceania (pp. 58-96, Geography).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua part — Formas de vida durante el Paleolítico — story beats: nomad hunter-gatherers master fire and stone tools as Australopithecus gives way through Homo habilis and erectus to Neanderthals and Homo sapiens (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Nicaragua, *Estudios Sociales — Primaria Regular, 6to Grado*, printed p. 100 |
+| Nicaragua part — Formas de vida durante el Mesolítico — story beats: the ice retreats, the last hunter-gatherers invent hooks, nets, boats and the first pottery, and caves give way to the first open-air villages (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Nicaragua, *Estudios Sociales — Primaria Regular, 6to Grado*, printed p. 103 |
+| Nicaragua part — El Neolítico y la revolución agrícola — story beats: people notice a buried seed sprouts; farming and herding make villages sedentary, populations grow and work specialises (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Nicaragua, *Estudios Sociales — Primaria Regular, 6to Grado*, printed p. 107 |
+| Nicaragua part — La Edad de los Metales — story beats: copper, then harder bronze, then iron give farming and war stronger tools, just as the first civilisations rise (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Nicaragua, *Estudios Sociales — Primaria Regular, 6to Grado*, printed p. 111 |
+
+Nicaragua's own way (Book 5 — G6 Estudios Sociales (student book, Spanish)): primary school closes with a full WORLD history sweep — prehistory, river civilisations, Greece and Rome, Renaissance, colonisation of America, the great revolutions, Latin American independence, the US Civil War, both World Wars, Cold-War dictatorships and the region's return to democracy — always read back through Latin America's experience. That way is stocked here as the way Nicaragua teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 11 — G9 Estudios Sociales, full-year textbook (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Educación Secundaria, 9 Grado (introduction calls it the "texto de Geografía e Historia Universal de noveno grado")
+- Grade: Grade 9 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación (MINED), República de Nicaragua, with Unión Europea PROSEN / PASEN I support; author Socorro Álvarez Ponce; year Primera Edición (year line left blank on the credits page; PDF produced December 2014); no ISBN printed
+- PDF pages: 280 (cover/title page verified against the record title; 170,810,241 bytes, grabbed via the full-quality-oversized-books release asset)
+- Verdict: COMPLETE
+- Tally: 44 placements — 34 to existing lessons, 10 NEW LESSON NEEDED
+- Nicaragua's own way: Grade 9 splits the book in two — five Geography units on the continents (printed pp. 1-136), then a headed "Historia" half (Units VI-XI) that is pure world history: human evolution and first societies, the four river civilisations studied one by one under identical headings (geography, politics, society, economy, culture), Greece and Rome, the medieval world, the modern age, and contemporary society ending with ALBA and the GRUN's social achievements in Nicaragua.
+- Non-History parts named: Unit I knowing our world — maps, position and political division of the continents (printed pp. 1-24, Geography); Unit II dynamics of our planet — relief, climates, hydrography and natural resources of the continents (pp. 25-64, Geography); Unit III diversity of human beings — population, ethnic composition and migrations by continent (pp. 65-86, Geography/Civics); Unit IV production and consumption — economic activities, technology and globalisation (pp. 87-118, Geography); Unit V protecting the planet — risk areas, disaster impact and international organisations (pp. 119-136, Geography/Civics).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua part — Edad de Piedra: Paleolítico y Neolítico — story beats: hunter-gatherer nomads in bands of twenty to fifty paint cave walls and worship fertility; farming then turns predators into producers, villages appear, surpluses are bartered and population grows (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Nicaragua, *Ciencias Sociales — Educación Secundaria, 9 Grado (introduction calls it the "texto de Geografía e Historia Universal de noveno grado")*, printed p. 139 |
+| Nicaragua part — Edad de los Metales: cobre, bronce y hierro — story beats: soft copper gives way to hard bronze, and the Hittites guard the secret of iron — a metal that abounds everywhere — until it remakes tools and war; megaliths like Stonehenge rise in the same age (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Nicaragua, *Ciencias Sociales — Educación Secundaria, 9 Grado (introduction calls it the "texto de Geografía e Historia Universal de noveno grado")*, printed p. 142 |
+
+Nicaragua's own way (Book 11 — G9 Estudios Sociales, full-year textbook (student book, Spanish)): Grade 9 splits the book in two — five Geography units on the continents (printed pp. 1-136), then a headed "Historia" half (Units VI-XI) that is pure world history: human evolution and first societies, the four river civilisations studied one by one under identical headings (geography, politics, society, economy, culture), Greece and Rome, the medieval world, the modern age, and contemporary society ending with ALBA and the GRUN's social achievements in Nicaragua. That way is stocked here as the way Nicaragua teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 13 — G10 Estudios Sociales, full-year textbook (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Educación Secundaria, 10 Grado (introduction calls it the Grade 10 text "correspondiente a Geografía y Economía")
+- Grade: Grade 10 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación (MINED), República de Nicaragua, with Unión Europea PROSEN / PASEN I support; author Pablo José Escalante Turcios; year Primera Edición (year line left blank on the credits page; PDF produced December 2014); no ISBN printed
+- PDF pages: 300 (cover/title page verified against the record title; 106,780,055 bytes, matching the books.json record exactly, grabbed via the full-quality-oversized-books release asset)
+- Verdict: COMPLETE as a Geography-and-Economics book — it has no History units; its only History teaching parts are the socioeconomic-formations sequence inside Economics Unit VII, placed below.
+- Tally: 6 placements — 3 to existing lessons, 3 NEW LESSON NEEDED
+- Nicaragua's own way: Grade 10 closes secondary social studies with Geography of Nicaragua and then Economics; History survives only as the frame that opens the Economics half — human society marched through five socioeconomic formations, from the primitive community to 21st-century socialism, before prices, markets and banks are studied.
+- Non-History parts named: Geography Units I-VI — Nicaragua in the world (maps, territorial patrimony and the border disputes with Costa Rica, Honduras and Colombia, printed pp. 2-39, Geography), origin of Mother Earth and relief (pp. 40-65, Geography), climate, waters, flora and fauna (pp. 66-93, Geography), population, identity and the government against poverty (pp. 94-109, Geography/Civics), economic sectors and technology (pp. 110-135, Geography), territorial vulnerability and SINAPRED (pp. 136-155, Geography/Civics); Economics Unit VII remainder — what economics is and its national scope (pp. 156-161, Economics); Unit VIII what our country produces — production, cooperatives and the family-economy ministry (pp. 176-199, Economics); Unit IX price as regulator — markets, supply and demand, taxes (pp. 200-217, Economics); Unit X commercial exchange — trade, ALBA-TCP, money, inflation and banking (pp. 218-243, Economics); Unit XI the state's economic policy — fiscal, monetary and credit policy and the IMF, World Bank, IDB and BCIE (pp. 244-269, Economics/Civics); Unit XII integration before globalisation — free-trade treaties, SICA, ALBA-TCP and Petrocaribe (pp. 270-292, Economics/Civics).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua part — La comunidad primitiva — story beats: nomad gatherers, hunters and fishers share tools and divide the catch equally with no classes and no surplus; Neolithic farming settles them, the surplus is born, barter and merchants follow (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Nicaragua, *Ciencias Sociales — Educación Secundaria, 10 Grado (introduction calls it the Grade 10 text "correspondiente a Geografía y Economía")*, printed p. 163 |
+
+Nicaragua's own way (Book 13 — G10 Estudios Sociales, full-year textbook (student book, Spanish)): Grade 10 closes secondary social studies with Geography of Nicaragua and then Economics; History survives only as the frame that opens the Economics half — human society marched through five socioeconomic formations, from the primitive community to 21st-century socialism, before prices, markets and banks are studied. That way is stocked here as the way Nicaragua teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 40 countries (Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus, Fiji, Dominican Republic, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, South Sudan, Libya, Mongolia, Iraq, Uganda, Mozambique, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua).**

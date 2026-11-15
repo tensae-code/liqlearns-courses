@@ -1,6 +1,6 @@
 # Sources — The Cold War — what it was and what it did to Africa
 
-countries: Ethiopia, Turkey, Costa Rica, Australia, Ecuador, Indonesia, Bolivia, Cambodia, Colombia, South Sudan, Mongolia, Mozambique, Yemen, Sudan, Jordan, Laos, China, Venezuela, Moldova, Armenia
+countries: Ethiopia, Turkey, Costa Rica, Australia, Ecuador, Indonesia, Bolivia, Cambodia, Colombia, South Sudan, Mongolia, Mozambique, Yemen, Sudan, Jordan, Laos, China, Venezuela, Moldova, Armenia, Nicaragua
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 139).
 
@@ -534,3 +534,23 @@ Armenia's own way (Book B1 — G9 World History Teacher (teacher guide, Armenian
 **Acceptance count: taught in 20 countries (Ethiopia, Turkey, Costa Rica, Australia, Ecuador, Indonesia, Bolivia, Cambodia, Colombia, South Sudan, Mongolia, Mozambique, Yemen, Sudan, Jordan, Laos, China, Venezuela, Moldova, Armenia).**
 
 Searchable tags: Armenia, History expansion 2026-11-15, modern-world/the-cold-war-what-it-was-and-what-it-did-to-africa
+
+## History expansion (2026-11-15) — Nicaragua stocked
+
+**Book 11 — G9 Estudios Sociales, full-year textbook (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Educación Secundaria, 9 Grado (introduction calls it the "texto de Geografía e Historia Universal de noveno grado")
+- Grade: Grade 9 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación (MINED), República de Nicaragua, with Unión Europea PROSEN / PASEN I support; author Socorro Álvarez Ponce; year Primera Edición (year line left blank on the credits page; PDF produced December 2014); no ISBN printed
+- PDF pages: 280 (cover/title page verified against the record title; 170,810,241 bytes, grabbed via the full-quality-oversized-books release asset)
+- Verdict: COMPLETE
+- Tally: 44 placements — 34 to existing lessons, 10 NEW LESSON NEEDED
+- Nicaragua's own way: Grade 9 splits the book in two — five Geography units on the continents (printed pp. 1-136), then a headed "Historia" half (Units VI-XI) that is pure world history: human evolution and first societies, the four river civilisations studied one by one under identical headings (geography, politics, society, economy, culture), Greece and Rome, the medieval world, the modern age, and contemporary society ending with ALBA and the GRUN's social achievements in Nicaragua.
+- Non-History parts named: Unit I knowing our world — maps, position and political division of the continents (printed pp. 1-24, Geography); Unit II dynamics of our planet — relief, climates, hydrography and natural resources of the continents (pp. 25-64, Geography); Unit III diversity of human beings — population, ethnic composition and migrations by continent (pp. 65-86, Geography/Civics); Unit IV production and consumption — economic activities, technology and globalisation (pp. 87-118, Geography); Unit V protecting the planet — risk areas, disaster impact and international organisations (pp. 119-136, Geography/Civics).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua part — Guerra Fría — story beats: wartime allies split ideologically at Yalta's aftermath; a divided Germany, two armed blocs and an atomic arms race define a confrontation that never becomes open war (History expansion, 2026-11-15; original placement slug: modern-world/the-cold-war-what-it-was-and-what-it-did-to-africa) | Nicaragua, *Ciencias Sociales — Educación Secundaria, 9 Grado (introduction calls it the "texto de Geografía e Historia Universal de noveno grado")*, printed p. 253 |
+
+Nicaragua's own way (Book 11 — G9 Estudios Sociales, full-year textbook (student book, Spanish)): Grade 9 splits the book in two — five Geography units on the continents (printed pp. 1-136), then a headed "Historia" half (Units VI-XI) that is pure world history: human evolution and first societies, the four river civilisations studied one by one under identical headings (geography, politics, society, economy, culture), Greece and Rome, the medieval world, the modern age, and contemporary society ending with ALBA and the GRUN's social achievements in Nicaragua. That way is stocked here as the way Nicaragua teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 21 countries (Ethiopia, Turkey, Costa Rica, Australia, Ecuador, Indonesia, Bolivia, Cambodia, Colombia, South Sudan, Mongolia, Mozambique, Yemen, Sudan, Jordan, Laos, China, Venezuela, Moldova, Armenia, Nicaragua).**

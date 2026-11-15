@@ -1,6 +1,6 @@
 # Sources — What history is
 
-countries: Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba, Venezuela, Moldova, Armenia
+countries: Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba, Venezuela, Moldova, Armenia, Nicaragua
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -1633,3 +1633,56 @@ Armenia's own way (Book B12 — G12 World History Teacher (teacher guide, Armeni
 **Acceptance count: taught in 48 countries (Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba, Venezuela, Moldova, Armenia).**
 
 Searchable tags: Armenia, History expansion 2026-11-15, first-steps/what-history-is
+
+## History expansion (2026-11-15) — Nicaragua stocked
+
+**Book 4 — G5 Estudios Sociales (student book, Spanish)**
+- Title as printed: Estudios Sociales — Primaria Regular, 5to Grado
+- Grade: Grade 5 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación (MINED); year Edición 2020 (financed by Proyecto ACE–Banco Mundial, Crédito 6015-NI); no ISBN printed
+- PDF pages: 164 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 34 placements — 8 to existing lessons, 26 NEW LESSON NEEDED
+- Nicaragua's own way: the lens widens from Nicaragua to all Central America — History proper starts with a method lesson (what History studies and why it matters), then peopling theories, Maya and Aztec civilisations, conquest, independence and federation, filibuster unity, and the isthmus in the 20th century.
+- Non-History parts named: Unit 1 our planet, maps and coordinates (printed pp. 2-28, Geography); Unit 3 geographic landscape of Central America — relief, volcanoes, climate, hydrography, natural resources (pp. 30-52, Geography); Unit 4 population and economy of Central America, ethnic/linguistic composition and languages (pp. 54-65, Geography/Civics).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua part — Introducción al estudio de la Historia — story beats: History is introduced as a school subject in its own right, the story of collective human experience past and present (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Nicaragua, *Estudios Sociales — Primaria Regular, 5to Grado*, printed p. 70 |
+| Nicaragua part — Objeto de estudio e importancia de la Historia — story beats: what History studies and why it matters are argued explicitly — a people that knows its past understands its present (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Nicaragua, *Estudios Sociales — Primaria Regular, 5to Grado*, printed p. 71 |
+
+Nicaragua's own way (Book 4 — G5 Estudios Sociales (student book, Spanish)): the lens widens from Nicaragua to all Central America — History proper starts with a method lesson (what History studies and why it matters), then peopling theories, Maya and Aztec civilisations, conquest, independence and federation, filibuster unity, and the isthmus in the 20th century. That way is stocked here as the way Nicaragua teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 5 — G6 Estudios Sociales (student book, Spanish)**
+- Title as printed: Estudios Sociales — Primaria Regular, 6to Grado
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación (MINED), República de Nicaragua; year Edición 2020; no ISBN printed
+- PDF pages: 222 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 48 placements — 22 to existing lessons, 26 NEW LESSON NEEDED
+- Nicaragua's own way: primary school closes with a full WORLD history sweep — prehistory, river civilisations, Greece and Rome, Renaissance, colonisation of America, the great revolutions, Latin American independence, the US Civil War, both World Wars, Cold-War dictatorships and the region's return to democracy — always read back through Latin America's experience.
+- Non-History parts named: Unit 1 our planet — origin theories, Earth's movements, maps, time zones (printed pp. 2-24, Geography/Science); Unit 2 geographic landscape of America — relief, hydrography, climate, risk, economy (pp. 26-56, Geography); Unit 3 geographic landscape of Europe, Asia, Africa and Oceania (pp. 58-96, Geography).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua part — Prehistoria e Historia: la división del pasado — story beats: the past is split at the invention of writing; before it, archaeologists rebuild prehistory from remains, after it, written history begins (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Nicaragua, *Estudios Sociales — Primaria Regular, 6to Grado*, printed p. 98 |
+
+Nicaragua's own way (Book 5 — G6 Estudios Sociales (student book, Spanish)): primary school closes with a full WORLD history sweep — prehistory, river civilisations, Greece and Rome, Renaissance, colonisation of America, the great revolutions, Latin American independence, the US Civil War, both World Wars, Cold-War dictatorships and the region's return to democracy — always read back through Latin America's experience. That way is stocked here as the way Nicaragua teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 11 — G9 Estudios Sociales, full-year textbook (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Educación Secundaria, 9 Grado (introduction calls it the "texto de Geografía e Historia Universal de noveno grado")
+- Grade: Grade 9 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación (MINED), República de Nicaragua, with Unión Europea PROSEN / PASEN I support; author Socorro Álvarez Ponce; year Primera Edición (year line left blank on the credits page; PDF produced December 2014); no ISBN printed
+- PDF pages: 280 (cover/title page verified against the record title; 170,810,241 bytes, grabbed via the full-quality-oversized-books release asset)
+- Verdict: COMPLETE
+- Tally: 44 placements — 34 to existing lessons, 10 NEW LESSON NEEDED
+- Nicaragua's own way: Grade 9 splits the book in two — five Geography units on the continents (printed pp. 1-136), then a headed "Historia" half (Units VI-XI) that is pure world history: human evolution and first societies, the four river civilisations studied one by one under identical headings (geography, politics, society, economy, culture), Greece and Rome, the medieval world, the modern age, and contemporary society ending with ALBA and the GRUN's social achievements in Nicaragua.
+- Non-History parts named: Unit I knowing our world — maps, position and political division of the continents (printed pp. 1-24, Geography); Unit II dynamics of our planet — relief, climates, hydrography and natural resources of the continents (pp. 25-64, Geography); Unit III diversity of human beings — population, ethnic composition and migrations by continent (pp. 65-86, Geography/Civics); Unit IV production and consumption — economic activities, technology and globalisation (pp. 87-118, Geography); Unit V protecting the planet — risk areas, disaster impact and international organisations (pp. 119-136, Geography/Civics).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua part — Las primeras sociedades humanas — story beats: History studies humanity's evolution; before writing there is only prehistory, recoverable solely from paleontological and archaeological remains (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Nicaragua, *Ciencias Sociales — Educación Secundaria, 9 Grado (introduction calls it the "texto de Geografía e Historia Universal de noveno grado")*, printed p. 138 |
+
+Nicaragua's own way (Book 11 — G9 Estudios Sociales, full-year textbook (student book, Spanish)): Grade 9 splits the book in two — five Geography units on the continents (printed pp. 1-136), then a headed "Historia" half (Units VI-XI) that is pure world history: human evolution and first societies, the four river civilisations studied one by one under identical headings (geography, politics, society, economy, culture), Greece and Rome, the medieval world, the modern age, and contemporary society ending with ALBA and the GRUN's social achievements in Nicaragua. That way is stocked here as the way Nicaragua teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 49 countries (Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba, Venezuela, Moldova, Armenia, Nicaragua).**

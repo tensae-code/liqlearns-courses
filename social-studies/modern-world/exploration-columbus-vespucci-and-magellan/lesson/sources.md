@@ -1,6 +1,6 @@
 # Sources — Exploration — Columbus, Vespucci and Magellan
 
-countries: Ethiopia, France, Guatemala, Micronesia, Ecuador, Bahamas, Kuwait, Montenegro, Dominican Republic, Egypt, Pakistan, Suriname, Colombia, Mauritania, South Sudan, Mongolia, Sudan, Uzbekistan, North Macedonia, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia
+countries: Ethiopia, France, Guatemala, Micronesia, Ecuador, Bahamas, Kuwait, Montenegro, Dominican Republic, Egypt, Pakistan, Suriname, Colombia, Mauritania, South Sudan, Mongolia, Sudan, Uzbekistan, North Macedonia, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 124).
 
@@ -562,3 +562,103 @@ Armenia's own way (Book A1 — G7 World History student (student book, Armenian)
 **Acceptance count: taught in 25 countries (Ethiopia, France, Guatemala, Micronesia, Ecuador, Bahamas, Kuwait, Montenegro, Dominican Republic, Egypt, Pakistan, Suriname, Colombia, Mauritania, South Sudan, Mongolia, Sudan, Uzbekistan, North Macedonia, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia).**
 
 Searchable tags: Armenia, History expansion 2026-11-15, modern-world/exploration-columbus-vespucci-and-magellan
+
+## History expansion (2026-11-15) — Nicaragua stocked
+
+**Book 2 — G3 Estudios Sociales (student book, Spanish)**
+- Title as printed: Estudios Sociales 3
+- Grade: Grade 3 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación (MINED); year Edición 2016; no ISBN printed
+- PDF pages: 118 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 24 placements — 5 to existing lessons, 19 NEW LESSON NEEDED
+- Nicaragua's own way: a Geography-first year — the whole first semester is maps, orientation and landscape — then History arrives as the child's own municipality and department: first indigenous settlers, then the department's historical celebrations and hero stories.
+- Non-History parts named: Unit I first Geography knowledge, maps and orientation (printed pp. 1-20, Geography); Unit II planet Earth (pp. 21-32, Geography/Science); Unit III community rural/urban (pp. 33-40, Geography/Civics); Unit IV population and economy of municipality/department, trade treaties and interoceanic canal importance (pp. 41-48, Geography/Civics); Unit V geographic landscape, relief, climate and natural resources (pp. 49-70, Geography); Unit VI women's participation, government social programmes and citizen organisation (pp. 76-79, Civics, not placed).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua part — Descubrimiento de Nicaragua — story beats: Columbus, backed by Spain's Catholic Monarchs, sails from Palos 3 Aug 1492 and reaches Guanahaní 12 Oct; only on his fourth voyage (1502) does he sight Nicaragua's Caribbean coast in a storm that nearly sinks him (History expansion, 2026-11-15; original placement slug: modern-world/exploration-columbus-vespucci-and-magellan) | Nicaragua, *Estudios Sociales 3*, printed p. 95 |
+
+Nicaragua's own way (Book 2 — G3 Estudios Sociales (student book, Spanish)): a Geography-first year — the whole first semester is maps, orientation and landscape — then History arrives as the child's own municipality and department: first indigenous settlers, then the department's historical celebrations and hero stories. That way is stocked here as the way Nicaragua teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 3 — G4 Estudios Sociales (student book, Spanish)**
+- Title as printed: Estudios Sociales — Libro de Texto, Cuarto Grado
+- Grade: Grade 4 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación (MINED); year Edición 2016; no ISBN printed
+- PDF pages: 238 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 52 placements — 4 to existing lessons, 48 NEW LESSON NEEDED
+- Nicaragua's own way: Grade 4 carries the entire national story in one sweep — first peoples, conquest and colony, independence and federation, Walker, the conservative 30 years, Zelaya, US interventions, Sandino, Somoza, FSLN, Revolution, peace and the governments after 1990 — framed throughout as sovereignty defended against foreign intervention.
+- Non-History parts named: Unit I introduction to Geography and coordinates (printed pp. 2-16, Geography); Unit II planet Earth and solar system (pp. 18-34, Geography/Science); Unit III lakes, rivers, volcanoes, borders and political division of Nicaragua (pp. 36-52, Geography — including current border disputes with Colombia and Costa Rica, pp. 41-44); Unit IV population and economy, population groups and interoceanic canal (pp. 54-68, Geography/Civics); Unit V climate, natural resources, relief, earthquakes and hurricanes (pp. 70-118, Geography).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua part — El proyecto de Cristóbal Colón; los viajes de Colón y su relación con Nicaragua — story beats: Columbus sells his westward project, sails four times, and his last voyage brings him to Nicaragua's coast (History expansion, 2026-11-15; original placement slug: modern-world/exploration-columbus-vespucci-and-magellan) | Nicaragua, *Estudios Sociales — Libro de Texto, Cuarto Grado*, printed p. 143 |
+
+Nicaragua's own way (Book 3 — G4 Estudios Sociales (student book, Spanish)): Grade 4 carries the entire national story in one sweep — first peoples, conquest and colony, independence and federation, Walker, the conservative 30 years, Zelaya, US interventions, Sandino, Somoza, FSLN, Revolution, peace and the governments after 1990 — framed throughout as sovereignty defended against foreign intervention. That way is stocked here as the way Nicaragua teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 4 — G5 Estudios Sociales (student book, Spanish)**
+- Title as printed: Estudios Sociales — Primaria Regular, 5to Grado
+- Grade: Grade 5 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación (MINED); year Edición 2020 (financed by Proyecto ACE–Banco Mundial, Crédito 6015-NI); no ISBN printed
+- PDF pages: 164 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 34 placements — 8 to existing lessons, 26 NEW LESSON NEEDED
+- Nicaragua's own way: the lens widens from Nicaragua to all Central America — History proper starts with a method lesson (what History studies and why it matters), then peopling theories, Maya and Aztec civilisations, conquest, independence and federation, filibuster unity, and the isthmus in the 20th century.
+- Non-History parts named: Unit 1 our planet, maps and coordinates (printed pp. 2-28, Geography); Unit 3 geographic landscape of Central America — relief, volcanoes, climate, hydrography, natural resources (pp. 30-52, Geography); Unit 4 population and economy of Central America, ethnic/linguistic composition and languages (pp. 54-65, Geography/Civics).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua part — Cuarto viaje de Colón y su relación con Centroamérica — story beats: Columbus's fourth voyage (1502) coasts Central America, the first European contact that opens the conquest century (History expansion, 2026-11-15; original placement slug: modern-world/exploration-columbus-vespucci-and-magellan) | Nicaragua, *Estudios Sociales — Primaria Regular, 5to Grado*, printed p. 92 |
+
+Nicaragua's own way (Book 4 — G5 Estudios Sociales (student book, Spanish)): the lens widens from Nicaragua to all Central America — History proper starts with a method lesson (what History studies and why it matters), then peopling theories, Maya and Aztec civilisations, conquest, independence and federation, filibuster unity, and the isthmus in the 20th century. That way is stocked here as the way Nicaragua teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 6 — G7 Ciencias Sociales, Módulo Autoformativo (student book, Spanish)**
+- Title as printed: Módulo Autoformativo de Ciencias Sociales — 7° Grado ("Orgullo de mi País"), Educación Secundaria a Distancia en el Campo
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación (MINED), República de Nicaragua, with Unión Europea / PASEN support; year 2016 (printed on cover); no ISBN printed
+- PDF pages: 248 (cover verified against the record title; byte size 109,421,640 matches the books.json record exactly; blob/tree route 404 — grabbed via the full-quality-oversized-books release asset)
+- Verdict: COMPLETE
+- Tally: 53 placements — 3 to existing lessons, 50 NEW LESSON NEEDED
+- Nicaragua's own way: a self-study module for rural distance secondary students — the whole national history retold for teenagers studying at home, in two halves: Geography of Nicaragua first (Units I-V), then History of Nicaragua (Units VI-XI) running from the first settlers to the government of 2007, each topic opened by reflection questions and closed by consolidation and self-evaluation activities.
+- Non-History parts named: Unit I the national community, maps, coordinates, political division and border disputes (printed pp. 1-33, Geography/Civics); Unit II natural riches, soils, climate, hydrography and conservation (pp. 35-55, Geography); Unit III the Nicaraguan population, migration, ethnic character and women's role (pp. 57-95, Geography/Civics); Unit IV what we produce — production and economic activities (Geography, in index); Unit V preventing natural and social risks, seismic/volcanic zones and civil defence (pp. 97-111, Geography/Civics).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua part — Descubrimiento de Nicaragua — story beats: storm-beaten on his fourth voyage, Columbus rounds Cabo Gracias a Dios on 12 September 1502 and coasts Nicaragua's Caribbean shore, losing a boat at the Río Grande (History expansion, 2026-11-15; original placement slug: modern-world/exploration-columbus-vespucci-and-magellan) | Nicaragua, *Módulo Autoformativo de Ciencias Sociales — 7° Grado ("Orgullo de mi País"), Educación Secundaria a Distancia en el Campo*, printed p. 132 |
+
+Nicaragua's own way (Book 6 — G7 Ciencias Sociales, Módulo Autoformativo (student book, Spanish)): a self-study module for rural distance secondary students — the whole national history retold for teenagers studying at home, in two halves: Geography of Nicaragua first (Units I-V), then History of Nicaragua (Units VI-XI) running from the first settlers to the government of 2007, each topic opened by reflection questions and closed by consolidation and self-evaluation activities. That way is stocked here as the way Nicaragua teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 7 — G7 Estudios Sociales, full-year textbook (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Educación Secundaria, 7 Grado
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación (MINED), República de Nicaragua, with Unión Europea PROSEN / PASEN I support; year Primera Edición (year line left blank on the credits page; PDF produced December 2014); no ISBN printed
+- PDF pages: 280 (cover/title page verified against the record title; 120,390,902 bytes, grabbed via the full-quality-oversized-books release asset nicaragua-grade-07-full-year.pdf)
+- Verdict: COMPLETE
+- Tally: 59 placements — 4 to existing lessons, 55 NEW LESSON NEEDED
+- Nicaragua's own way: the regular-classroom twin of Book 6's distance module — the same national story told at full textbook length: five Geography units on Nicaragua's territory, riches, population, production and risks (printed pp. 2-127), then six History units (VI-XI) running from Mesoamerica and the first settlers to the GRUN government of 2007-2010, each topic opened by recall questions and closed by notebook activities.
+- Non-History parts named: Unit I territorial patrimony — maps, coordinates, borders, political division, state institutions and border disputes with Honduras, Costa Rica and Colombia (printed pp. 2-23, Geography/Civics); Unit II physical geography, relief, climate, hydrography and natural resources (pp. 24-63, Geography); Unit III population, migration and ethnic character (pp. 64-81, Geography/Civics); Unit IV production, economic activities, integration and poverty (pp. 82-99, Geography); Unit V natural and human-made risks, vulnerable zones, civil defence and a history of disasters in Nicaragua (pp. 100-127, Geography/Civics).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua part — La llegada de los europeos a Nicaragua: el cuarto viaje de Colón — story beats: hunting the doubtful strait to the Spice Islands, Columbus coasts Nicaragua's Caribbean shore on 12 September 1502 and names Cabo Gracias a Dios (History expansion, 2026-11-15; original placement slug: modern-world/exploration-columbus-vespucci-and-magellan) | Nicaragua, *Ciencias Sociales — Educación Secundaria, 7 Grado*, printed p. 148 |
+
+Nicaragua's own way (Book 7 — G7 Estudios Sociales, full-year textbook (student book, Spanish)): the regular-classroom twin of Book 6's distance module — the same national story told at full textbook length: five Geography units on Nicaragua's territory, riches, population, production and risks (printed pp. 2-127), then six History units (VI-XI) running from Mesoamerica and the first settlers to the GRUN government of 2007-2010, each topic opened by recall questions and closed by notebook activities. That way is stocked here as the way Nicaragua teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 8 — G8 Estudios Sociales, full-year textbook (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Educación Secundaria, 8 Grado
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación (MINED), República de Nicaragua, with Unión Europea PROSEN / PASEN support; author Ligia Madrigal Mendieta; year Primera Edición (year line left blank on the credits page; PDF produced December 2014); no ISBN printed
+- PDF pages: 240 (cover/title page verified against the record title; 130,029,408 bytes, grabbed via the full-quality-oversized-books release asset)
+- Verdict: COMPLETE
+- Tally: 46 placements — 13 to existing lessons, 33 NEW LESSON NEEDED
+- Nicaragua's own way: the lens widens from Nicaragua to all the Americas — five Geography units on the continent's territory, landscape, peoples, economy and environment (printed pp. 1-124), then History as a single American story: first peoples and the three great civilisations, European arrival and colonial domination by three empires, emancipation, the troubled century after independence, and the Americas in the 20th century, always ending back in Nicaragua (Somoza, the FSLN, the 1979 triumph and the GRUN model).
+- Non-History parts named: Unit I territorial patrimony of America — coordinates, maps, time zones, political division (printed pp. 1-20, Geography); Unit II geographic landscape of America — relief, climate, hydrography, natural resources (pp. 21-56, Geography); Unit III ethnic and cultural diversity, population and migration of America (pp. 57-78, Geography/Civics); Unit IV space and economy, free-trade treaties and ALBA (pp. 79-106, Geography/Civics); Unit V protecting the environment, risk zones, SINAPRED and civil defence (pp. 107-124, Geography/Civics).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua part — El Descubrimiento de América y encuentro con las sociedades aborígenes — story beats: Columbus sails from Palos on 3 August 1492 with ninety frightened men who fear a flat earth, and at dawn on 12 October the people of Guanahaní meet the strangers (History expansion, 2026-11-15; original placement slug: modern-world/exploration-columbus-vespucci-and-magellan) | Nicaragua, *Ciencias Sociales — Educación Secundaria, 8 Grado*, printed p. 148 |
+
+Nicaragua's own way (Book 8 — G8 Estudios Sociales, full-year textbook (student book, Spanish)): the lens widens from Nicaragua to all the Americas — five Geography units on the continent's territory, landscape, peoples, economy and environment (printed pp. 1-124), then History as a single American story: first peoples and the three great civilisations, European arrival and colonial domination by three empires, emancipation, the troubled century after independence, and the Americas in the 20th century, always ending back in Nicaragua (Somoza, the FSLN, the 1979 triumph and the GRUN model). That way is stocked here as the way Nicaragua teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 26 countries (Ethiopia, France, Guatemala, Micronesia, Ecuador, Bahamas, Kuwait, Montenegro, Dominican Republic, Egypt, Pakistan, Suriname, Colombia, Mauritania, South Sudan, Mongolia, Sudan, Uzbekistan, North Macedonia, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua).**

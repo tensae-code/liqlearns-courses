@@ -1,6 +1,6 @@
 # Sources — The decolonisation of Asia and Africa
 
-countries: Bolivia, Cambodia, Palestine
+countries: Bolivia, Cambodia, Palestine, Nicaragua
 
 **Book 4 (bol-g12-student-sec6):** *Texto de Aprendizaje — Ciencias Sociales, 6to Año de Educación Secundaria Comunitaria Productiva* (student book, Spanish) — Bolivia. Title as printed: Texto de Aprendizaje — Ciencias Sociales, 6to Año de Educación Secundaria Comunitaria Productiva (cover: Área Ciencias Sociales). Grade: Grade 12 (student/teacher: STUDENT). Publisher: Ministerio de Educación de Bolivia; year not printed in the held portion; no ISBN printed. PDF pages: 126 (cover verified against the record title; the held file carries printed pp. 350–474, the later portion of the year's text as released, read in full). Verdict: PARTIAL — printed pp. 350–474 of the Secundaria 6 text; earlier printed pages are not in this file. Tally: 15 placements — 3 to existing lessons, 12 NEW LESSON NEEDED. Non-History parts (named, not placed): the Census (printed pp. 350–354 — Civics); globalisation and McLuhan's global village (printed p. 375 — Geography/media); geographic theory and scales (printed pp. 385–391 — Geography); identity, discrimination, youth political rights, human trafficking and child/adolescent labour law (printed pp. 447–463 — Civics); currency, inflation and monetary policy (printed pp. 467–473 — economics). Placements at liqlearns-courses-work/expansion-history-2026-11-15/bolivia-placements.md.
 
@@ -71,3 +71,23 @@ Palestine's own way (Book 9 — G9 Social Studies Part 1, Grade 9 (student/teach
 **Acceptance count: taught in 3 countries (Bolivia, Cambodia, Palestine).**
 
 Searchable tags: Palestine, The decolonisation of Asia and Africa, modern-world, History expansion 2026-11-15
+
+## History expansion (2026-11-15) — Nicaragua stocked
+
+**Book 11 — G9 Estudios Sociales, full-year textbook (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Educación Secundaria, 9 Grado (introduction calls it the "texto de Geografía e Historia Universal de noveno grado")
+- Grade: Grade 9 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación (MINED), República de Nicaragua, with Unión Europea PROSEN / PASEN I support; author Socorro Álvarez Ponce; year Primera Edición (year line left blank on the credits page; PDF produced December 2014); no ISBN printed
+- PDF pages: 280 (cover/title page verified against the record title; 170,810,241 bytes, grabbed via the full-quality-oversized-books release asset)
+- Verdict: COMPLETE
+- Tally: 44 placements — 34 to existing lessons, 10 NEW LESSON NEEDED
+- Nicaragua's own way: Grade 9 splits the book in two — five Geography units on the continents (printed pp. 1-136), then a headed "Historia" half (Units VI-XI) that is pure world history: human evolution and first societies, the four river civilisations studied one by one under identical headings (geography, politics, society, economy, culture), Greece and Rome, the medieval world, the modern age, and contemporary society ending with ALBA and the GRUN's social achievements in Nicaragua.
+- Non-History parts named: Unit I knowing our world — maps, position and political division of the continents (printed pp. 1-24, Geography); Unit II dynamics of our planet — relief, climates, hydrography and natural resources of the continents (pp. 25-64, Geography); Unit III diversity of human beings — population, ethnic composition and migrations by continent (pp. 65-86, Geography/Civics); Unit IV production and consumption — economic activities, technology and globalisation (pp. 87-118, Geography); Unit V protecting the planet — risk areas, disaster impact and international organisations (pp. 119-136, Geography/Civics).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua part — Proceso de Descolonización — story beats: a weakened Europe tries to reimpose rule, but Asia and Africa fight free — Ghana first for Britain in 1957, Algeria by liberation war and referendum in 1962 (History expansion, 2026-11-15; original placement slug: modern-world/decolonisation-of-asia-and-africa) | Nicaragua, *Ciencias Sociales — Educación Secundaria, 9 Grado (introduction calls it the "texto de Geografía e Historia Universal de noveno grado")*, printed p. 255 |
+
+Nicaragua's own way (Book 11 — G9 Estudios Sociales, full-year textbook (student book, Spanish)): Grade 9 splits the book in two — five Geography units on the continents (printed pp. 1-136), then a headed "Historia" half (Units VI-XI) that is pure world history: human evolution and first societies, the four river civilisations studied one by one under identical headings (geography, politics, society, economy, culture), Greece and Rome, the medieval world, the modern age, and contemporary society ending with ALBA and the GRUN's social achievements in Nicaragua. That way is stocked here as the way Nicaragua teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 4 countries (Bolivia, Cambodia, Palestine, Nicaragua).**

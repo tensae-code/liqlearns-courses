@@ -1,6 +1,6 @@
 # Sources — The Great Depression — 1929 and the world it broke
 
-countries: Ethiopia, United States, Costa Rica, Australia, Indonesia, United Kingdom, Suriname, Cambodia, Colombia, Mauritania, Samoa, Iraq, Mozambique, North Macedonia, Laos, Cuba, China, Venezuela, Moldova, Armenia
+countries: Ethiopia, United States, Costa Rica, Australia, Indonesia, United Kingdom, Suriname, Cambodia, Colombia, Mauritania, Samoa, Iraq, Mozambique, North Macedonia, Laos, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua
 
 **Book 1:** *History, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN 978-99990-0-065-9. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g10-student-placements.md
 
@@ -536,3 +536,71 @@ Armenia's own way (Book B1 — G9 World History Teacher (teacher guide, Armenian
 **Acceptance count: taught in 20 countries (Ethiopia, United States, Costa Rica, Australia, Indonesia, United Kingdom, Suriname, Cambodia, Colombia, Mauritania, Samoa, Iraq, Mozambique, North Macedonia, Laos, Cuba, China, Venezuela, Moldova, Armenia).**
 
 Searchable tags: Armenia, History expansion 2026-11-15, modern-world/the-great-depression-1929
+
+## History expansion (2026-11-15) — Nicaragua stocked
+
+**Book 6 — G7 Ciencias Sociales, Módulo Autoformativo (student book, Spanish)**
+- Title as printed: Módulo Autoformativo de Ciencias Sociales — 7° Grado ("Orgullo de mi País"), Educación Secundaria a Distancia en el Campo
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación (MINED), República de Nicaragua, with Unión Europea / PASEN support; year 2016 (printed on cover); no ISBN printed
+- PDF pages: 248 (cover verified against the record title; byte size 109,421,640 matches the books.json record exactly; blob/tree route 404 — grabbed via the full-quality-oversized-books release asset)
+- Verdict: COMPLETE
+- Tally: 53 placements — 3 to existing lessons, 50 NEW LESSON NEEDED
+- Nicaragua's own way: a self-study module for rural distance secondary students — the whole national history retold for teenagers studying at home, in two halves: Geography of Nicaragua first (Units I-V), then History of Nicaragua (Units VI-XI) running from the first settlers to the government of 2007, each topic opened by reflection questions and closed by consolidation and self-evaluation activities.
+- Non-History parts named: Unit I the national community, maps, coordinates, political division and border disputes (printed pp. 1-33, Geography/Civics); Unit II natural riches, soils, climate, hydrography and conservation (pp. 35-55, Geography); Unit III the Nicaraguan population, migration, ethnic character and women's role (pp. 57-95, Geography/Civics); Unit IV what we produce — production and economic activities (Geography, in index); Unit V preventing natural and social risks, seismic/volcanic zones and civil defence (pp. 97-111, Geography/Civics).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua part — La crisis económica de 1929 en Nicaragua — story beats: the Depression exposes the export model's weakness — state revenues collapse and real GDP per capita falls to Central America's lowest in 1936-38 (History expansion, 2026-11-15; original placement slug: modern-world/the-great-depression-1929) | Nicaragua, *Módulo Autoformativo de Ciencias Sociales — 7° Grado ("Orgullo de mi País"), Educación Secundaria a Distancia en el Campo*, printed p. 189 |
+
+Nicaragua's own way (Book 6 — G7 Ciencias Sociales, Módulo Autoformativo (student book, Spanish)): a self-study module for rural distance secondary students — the whole national history retold for teenagers studying at home, in two halves: Geography of Nicaragua first (Units I-V), then History of Nicaragua (Units VI-XI) running from the first settlers to the government of 2007, each topic opened by reflection questions and closed by consolidation and self-evaluation activities. That way is stocked here as the way Nicaragua teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 7 — G7 Estudios Sociales, full-year textbook (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Educación Secundaria, 7 Grado
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación (MINED), República de Nicaragua, with Unión Europea PROSEN / PASEN I support; year Primera Edición (year line left blank on the credits page; PDF produced December 2014); no ISBN printed
+- PDF pages: 280 (cover/title page verified against the record title; 120,390,902 bytes, grabbed via the full-quality-oversized-books release asset nicaragua-grade-07-full-year.pdf)
+- Verdict: COMPLETE
+- Tally: 59 placements — 4 to existing lessons, 55 NEW LESSON NEEDED
+- Nicaragua's own way: the regular-classroom twin of Book 6's distance module — the same national story told at full textbook length: five Geography units on Nicaragua's territory, riches, population, production and risks (printed pp. 2-127), then six History units (VI-XI) running from Mesoamerica and the first settlers to the GRUN government of 2007-2010, each topic opened by recall questions and closed by notebook activities.
+- Non-History parts named: Unit I territorial patrimony — maps, coordinates, borders, political division, state institutions and border disputes with Honduras, Costa Rica and Colombia (printed pp. 2-23, Geography/Civics); Unit II physical geography, relief, climate, hydrography and natural resources (pp. 24-63, Geography); Unit III population, migration and ethnic character (pp. 64-81, Geography/Civics); Unit IV production, economic activities, integration and poverty (pp. 82-99, Geography); Unit V natural and human-made risks, vulnerable zones, civil defence and a history of disasters in Nicaragua (pp. 100-127, Geography/Civics).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua part — Repercusiones de la crisis económica de 1929 en Nicaragua — story beats: the world crisis finds Nicaragua wholly dependent on outside factors and unprepared rulers; the local economy is paralysed (History expansion, 2026-11-15; original placement slug: modern-world/the-great-depression-1929) | Nicaragua, *Ciencias Sociales — Educación Secundaria, 7 Grado*, printed p. 222 |
+
+Nicaragua's own way (Book 7 — G7 Estudios Sociales, full-year textbook (student book, Spanish)): the regular-classroom twin of Book 6's distance module — the same national story told at full textbook length: five Geography units on Nicaragua's territory, riches, population, production and risks (printed pp. 2-127), then six History units (VI-XI) running from Mesoamerica and the first settlers to the GRUN government of 2007-2010, each topic opened by recall questions and closed by notebook activities. That way is stocked here as the way Nicaragua teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 8 — G8 Estudios Sociales, full-year textbook (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Educación Secundaria, 8 Grado
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación (MINED), República de Nicaragua, with Unión Europea PROSEN / PASEN support; author Ligia Madrigal Mendieta; year Primera Edición (year line left blank on the credits page; PDF produced December 2014); no ISBN printed
+- PDF pages: 240 (cover/title page verified against the record title; 130,029,408 bytes, grabbed via the full-quality-oversized-books release asset)
+- Verdict: COMPLETE
+- Tally: 46 placements — 13 to existing lessons, 33 NEW LESSON NEEDED
+- Nicaragua's own way: the lens widens from Nicaragua to all the Americas — five Geography units on the continent's territory, landscape, peoples, economy and environment (printed pp. 1-124), then History as a single American story: first peoples and the three great civilisations, European arrival and colonial domination by three empires, emancipation, the troubled century after independence, and the Americas in the 20th century, always ending back in Nicaragua (Somoza, the FSLN, the 1979 triumph and the GRUN model).
+- Non-History parts named: Unit I territorial patrimony of America — coordinates, maps, time zones, political division (printed pp. 1-20, Geography); Unit II geographic landscape of America — relief, climate, hydrography, natural resources (pp. 21-56, Geography); Unit III ethnic and cultural diversity, population and migration of America (pp. 57-78, Geography/Civics); Unit IV space and economy, free-trade treaties and ALBA (pp. 79-106, Geography/Civics); Unit V protecting the environment, risk zones, SINAPRED and civil defence (pp. 107-124, Geography/Civics).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua part — Crisis de 1929 y sus consecuencias en América — story beats: Latin America learns to produce what it imported, some states suspend foreign debt, nationalist movements rise against US imperialism, and states emerge stronger — as populist governments or as military dictatorships (History expansion, 2026-11-15; original placement slug: modern-world/the-great-depression-1929) | Nicaragua, *Ciencias Sociales — Educación Secundaria, 8 Grado*, printed p. 201 |
+
+Nicaragua's own way (Book 8 — G8 Estudios Sociales, full-year textbook (student book, Spanish)): the lens widens from Nicaragua to all the Americas — five Geography units on the continent's territory, landscape, peoples, economy and environment (printed pp. 1-124), then History as a single American story: first peoples and the three great civilisations, European arrival and colonial domination by three empires, emancipation, the troubled century after independence, and the Americas in the 20th century, always ending back in Nicaragua (Somoza, the FSLN, the 1979 triumph and the GRUN model). That way is stocked here as the way Nicaragua teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 11 — G9 Estudios Sociales, full-year textbook (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Educación Secundaria, 9 Grado (introduction calls it the "texto de Geografía e Historia Universal de noveno grado")
+- Grade: Grade 9 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación (MINED), República de Nicaragua, with Unión Europea PROSEN / PASEN I support; author Socorro Álvarez Ponce; year Primera Edición (year line left blank on the credits page; PDF produced December 2014); no ISBN printed
+- PDF pages: 280 (cover/title page verified against the record title; 170,810,241 bytes, grabbed via the full-quality-oversized-books release asset)
+- Verdict: COMPLETE
+- Tally: 44 placements — 34 to existing lessons, 10 NEW LESSON NEEDED
+- Nicaragua's own way: Grade 9 splits the book in two — five Geography units on the continents (printed pp. 1-136), then a headed "Historia" half (Units VI-XI) that is pure world history: human evolution and first societies, the four river civilisations studied one by one under identical headings (geography, politics, society, economy, culture), Greece and Rome, the medieval world, the modern age, and contemporary society ending with ALBA and the GRUN's social achievements in Nicaragua.
+- Non-History parts named: Unit I knowing our world — maps, position and political division of the continents (printed pp. 1-24, Geography); Unit II dynamics of our planet — relief, climates, hydrography and natural resources of the continents (pp. 25-64, Geography); Unit III diversity of human beings — population, ethnic composition and migrations by continent (pp. 65-86, Geography/Civics); Unit IV production and consumption — economic activities, technology and globalisation (pp. 87-118, Geography); Unit V protecting the planet — risk areas, disaster impact and international organisations (pp. 119-136, Geography/Civics).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua part — Crisis General del Capitalismo de 1929 — story beats: America's instalment-buying prosperity collapses; savers queue at banks, US capital is withdrawn from Germany and Austria, and the Great Depression ruins factories and jobs worldwide until Roosevelt proposes a new capitalism (History expansion, 2026-11-15; original placement slug: modern-world/the-great-depression-1929) | Nicaragua, *Ciencias Sociales — Educación Secundaria, 9 Grado (introduction calls it the "texto de Geografía e Historia Universal de noveno grado")*, printed p. 248 |
+
+Nicaragua's own way (Book 11 — G9 Estudios Sociales, full-year textbook (student book, Spanish)): Grade 9 splits the book in two — five Geography units on the continents (printed pp. 1-136), then a headed "Historia" half (Units VI-XI) that is pure world history: human evolution and first societies, the four river civilisations studied one by one under identical headings (geography, politics, society, economy, culture), Greece and Rome, the medieval world, the modern age, and contemporary society ending with ALBA and the GRUN's social achievements in Nicaragua. That way is stocked here as the way Nicaragua teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 21 countries (Ethiopia, United States, Costa Rica, Australia, Indonesia, United Kingdom, Suriname, Cambodia, Colombia, Mauritania, Samoa, Iraq, Mozambique, North Macedonia, Laos, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua).**

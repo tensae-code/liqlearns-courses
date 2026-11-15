@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — Greece: Crete
 
-countries: Ethiopia, France, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro, Dominican Republic, Egypt, Bolivia, Iran, Cambodia, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Yemen, Sudan, Jordan, Uzbekistan, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia
+countries: Ethiopia, France, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro, Dominican Republic, Egypt, Bolivia, Iran, Cambodia, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Yemen, Sudan, Jordan, Uzbekistan, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 6, placements 92–106).
 
@@ -796,3 +796,40 @@ Armenia's own way (Book B6 — G10 World History Student (student book, Armenian
 **Acceptance count: taught in 32 countries (Ethiopia, France, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro, Dominican Republic, Egypt, Bolivia, Iran, Cambodia, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Yemen, Sudan, Jordan, Uzbekistan, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia).**
 
 Searchable tags: Armenia, History expansion 2026-11-15, ancient-world/ancient-civilisations-greece-crete
+
+## History expansion (2026-11-15) — Nicaragua stocked
+
+**Book 5 — G6 Estudios Sociales (student book, Spanish)**
+- Title as printed: Estudios Sociales — Primaria Regular, 6to Grado
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación (MINED), República de Nicaragua; year Edición 2020; no ISBN printed
+- PDF pages: 222 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 48 placements — 22 to existing lessons, 26 NEW LESSON NEEDED
+- Nicaragua's own way: primary school closes with a full WORLD history sweep — prehistory, river civilisations, Greece and Rome, Renaissance, colonisation of America, the great revolutions, Latin American independence, the US Civil War, both World Wars, Cold-War dictatorships and the region's return to democracy — always read back through Latin America's experience.
+- Non-History parts named: Unit 1 our planet — origin theories, Earth's movements, maps, time zones (printed pp. 2-24, Geography/Science); Unit 2 geographic landscape of America — relief, hydrography, climate, risk, economy (pp. 26-56, Geography); Unit 3 geographic landscape of Europe, Asia, Africa and Oceania (pp. 58-96, Geography).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua part — Civilización de Grecia — story beats: Greece is named the cradle of democracy, philosophy, literature and the Olympic Games, its thinkers asking for the first time why the world is as it is (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-greece-crete) | Nicaragua, *Estudios Sociales — Primaria Regular, 6to Grado*, printed p. 127 |
+
+Nicaragua's own way (Book 5 — G6 Estudios Sociales (student book, Spanish)): primary school closes with a full WORLD history sweep — prehistory, river civilisations, Greece and Rome, Renaissance, colonisation of America, the great revolutions, Latin American independence, the US Civil War, both World Wars, Cold-War dictatorships and the region's return to democracy — always read back through Latin America's experience. That way is stocked here as the way Nicaragua teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 11 — G9 Estudios Sociales, full-year textbook (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Educación Secundaria, 9 Grado (introduction calls it the "texto de Geografía e Historia Universal de noveno grado")
+- Grade: Grade 9 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación (MINED), República de Nicaragua, with Unión Europea PROSEN / PASEN I support; author Socorro Álvarez Ponce; year Primera Edición (year line left blank on the credits page; PDF produced December 2014); no ISBN printed
+- PDF pages: 280 (cover/title page verified against the record title; 170,810,241 bytes, grabbed via the full-quality-oversized-books release asset)
+- Verdict: COMPLETE
+- Tally: 44 placements — 34 to existing lessons, 10 NEW LESSON NEEDED
+- Nicaragua's own way: Grade 9 splits the book in two — five Geography units on the continents (printed pp. 1-136), then a headed "Historia" half (Units VI-XI) that is pure world history: human evolution and first societies, the four river civilisations studied one by one under identical headings (geography, politics, society, economy, culture), Greece and Rome, the medieval world, the modern age, and contemporary society ending with ALBA and the GRUN's social achievements in Nicaragua.
+- Non-History parts named: Unit I knowing our world — maps, position and political division of the continents (printed pp. 1-24, Geography); Unit II dynamics of our planet — relief, climates, hydrography and natural resources of the continents (pp. 25-64, Geography); Unit III diversity of human beings — population, ethnic composition and migrations by continent (pp. 65-86, Geography/Civics); Unit IV production and consumption — economic activities, technology and globalisation (pp. 87-118, Geography); Unit V protecting the planet — risk areas, disaster impact and international organisations (pp. 119-136, Geography/Civics).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua part — Civilización Griega: Creta y Micenas — story beats: palace-centred Crete under legendary King Minos trades bronze and cloth across three continents; warlike Mycenae of the Trojan War age follows, then the Dorian invasion (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-greece-crete) | Nicaragua, *Ciencias Sociales — Educación Secundaria, 9 Grado (introduction calls it the "texto de Geografía e Historia Universal de noveno grado")*, printed p. 166 |
+| Nicaragua part — La Grecia Helénica — story beats: mountain valleys split Greece into sovereign polis city-states that colonise the coasts; Alexander then defeats Darius III at Granicus, Issus and Gaugamela and builds the age's largest empire in four years (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-greece-crete) | Nicaragua, *Ciencias Sociales — Educación Secundaria, 9 Grado (introduction calls it the "texto de Geografía e Historia Universal de noveno grado")*, printed p. 170 |
+
+Nicaragua's own way (Book 11 — G9 Estudios Sociales, full-year textbook (student book, Spanish)): Grade 9 splits the book in two — five Geography units on the continents (printed pp. 1-136), then a headed "Historia" half (Units VI-XI) that is pure world history: human evolution and first societies, the four river civilisations studied one by one under identical headings (geography, politics, society, economy, culture), Greece and Rome, the medieval world, the modern age, and contemporary society ending with ALBA and the GRUN's social achievements in Nicaragua. That way is stocked here as the way Nicaragua teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 33 countries (Ethiopia, France, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro, Dominican Republic, Egypt, Bolivia, Iran, Cambodia, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Yemen, Sudan, Jordan, Uzbekistan, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua).**

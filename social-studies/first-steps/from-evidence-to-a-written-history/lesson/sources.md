@@ -1,6 +1,6 @@
 # Sources — From evidence to a written history
 
-countries: Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Bulgaria, Palestine, Colombia, South Sudan, Mongolia, Samoa, Mozambique, Jordan, Uzbekistan, North Macedonia, Afghanistan, Cuba, Venezuela, Moldova, Armenia
+countries: Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Bulgaria, Palestine, Colombia, South Sudan, Mongolia, Samoa, Mozambique, Jordan, Uzbekistan, North Macedonia, Afghanistan, Cuba, Venezuela, Moldova, Armenia, Nicaragua
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -1822,3 +1822,39 @@ Armenia's own way (Book B12 — G12 World History Teacher (teacher guide, Armeni
 **Acceptance count: taught in 40 countries (Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Bulgaria, Palestine, Colombia, South Sudan, Mongolia, Samoa, Mozambique, Jordan, Uzbekistan, North Macedonia, Afghanistan, Cuba, Venezuela, Moldova, Armenia).**
 
 Searchable tags: Armenia, History expansion 2026-11-15, first-steps/from-evidence-to-a-written-history
+
+## History expansion (2026-11-15) — Nicaragua stocked
+
+**Book 6 — G7 Ciencias Sociales, Módulo Autoformativo (student book, Spanish)**
+- Title as printed: Módulo Autoformativo de Ciencias Sociales — 7° Grado ("Orgullo de mi País"), Educación Secundaria a Distancia en el Campo
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación (MINED), República de Nicaragua, with Unión Europea / PASEN support; year 2016 (printed on cover); no ISBN printed
+- PDF pages: 248 (cover verified against the record title; byte size 109,421,640 matches the books.json record exactly; blob/tree route 404 — grabbed via the full-quality-oversized-books release asset)
+- Verdict: COMPLETE
+- Tally: 53 placements — 3 to existing lessons, 50 NEW LESSON NEEDED
+- Nicaragua's own way: a self-study module for rural distance secondary students — the whole national history retold for teenagers studying at home, in two halves: Geography of Nicaragua first (Units I-V), then History of Nicaragua (Units VI-XI) running from the first settlers to the government of 2007, each topic opened by reflection questions and closed by consolidation and self-evaluation activities.
+- Non-History parts named: Unit I the national community, maps, coordinates, political division and border disputes (printed pp. 1-33, Geography/Civics); Unit II natural riches, soils, climate, hydrography and conservation (pp. 35-55, Geography); Unit III the Nicaraguan population, migration, ethnic character and women's role (pp. 57-95, Geography/Civics); Unit IV what we produce — production and economic activities (Geography, in index); Unit V preventing natural and social risks, seismic/volcanic zones and civil defence (pp. 97-111, Geography/Civics).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua part — Testimonios de los primeros pobladores — story beats: the evidence is walked over and looked at — the Acahualinca footprints in Managua, Chontales idols, petroglyphs and shell mounds at Monkey Point and El Ostional (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Nicaragua, *Módulo Autoformativo de Ciencias Sociales — 7° Grado ("Orgullo de mi País"), Educación Secundaria a Distancia en el Campo*, printed p. 118 |
+
+Nicaragua's own way (Book 6 — G7 Ciencias Sociales, Módulo Autoformativo (student book, Spanish)): a self-study module for rural distance secondary students — the whole national history retold for teenagers studying at home, in two halves: Geography of Nicaragua first (Units I-V), then History of Nicaragua (Units VI-XI) running from the first settlers to the government of 2007, each topic opened by reflection questions and closed by consolidation and self-evaluation activities. That way is stocked here as the way Nicaragua teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 7 — G7 Estudios Sociales, full-year textbook (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Educación Secundaria, 7 Grado
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación (MINED), República de Nicaragua, with Unión Europea PROSEN / PASEN I support; year Primera Edición (year line left blank on the credits page; PDF produced December 2014); no ISBN printed
+- PDF pages: 280 (cover/title page verified against the record title; 120,390,902 bytes, grabbed via the full-quality-oversized-books release asset nicaragua-grade-07-full-year.pdf)
+- Verdict: COMPLETE
+- Tally: 59 placements — 4 to existing lessons, 55 NEW LESSON NEEDED
+- Nicaragua's own way: the regular-classroom twin of Book 6's distance module — the same national story told at full textbook length: five Geography units on Nicaragua's territory, riches, population, production and risks (printed pp. 2-127), then six History units (VI-XI) running from Mesoamerica and the first settlers to the GRUN government of 2007-2010, each topic opened by recall questions and closed by notebook activities.
+- Non-History parts named: Unit I territorial patrimony — maps, coordinates, borders, political division, state institutions and border disputes with Honduras, Costa Rica and Colombia (printed pp. 2-23, Geography/Civics); Unit II physical geography, relief, climate, hydrography and natural resources (pp. 24-63, Geography); Unit III population, migration and ethnic character (pp. 64-81, Geography/Civics); Unit IV production, economic activities, integration and poverty (pp. 82-99, Geography); Unit V natural and human-made risks, vulnerable zones, civil defence and a history of disasters in Nicaragua (pp. 100-127, Geography/Civics).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua part — Testimonios en Nicaragua: Monkey Point, El Bosque y las huellas de Acahualinca — story beats: shell middens at Monkey Point dated 7,600 years old, mammoth bones with stone tools at El Bosque, and human footprints preserved at Acahualinca are walked over as the physical proof of the first Nicaraguans (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Nicaragua, *Ciencias Sociales — Educación Secundaria, 7 Grado*, printed p. 131 |
+
+Nicaragua's own way (Book 7 — G7 Estudios Sociales, full-year textbook (student book, Spanish)): the regular-classroom twin of Book 6's distance module — the same national story told at full textbook length: five Geography units on Nicaragua's territory, riches, population, production and risks (printed pp. 2-127), then six History units (VI-XI) running from Mesoamerica and the first settlers to the GRUN government of 2007-2010, each topic opened by recall questions and closed by notebook activities. That way is stocked here as the way Nicaragua teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 41 countries (Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Bulgaria, Palestine, Colombia, South Sudan, Mongolia, Samoa, Mozambique, Jordan, Uzbekistan, North Macedonia, Afghanistan, Cuba, Venezuela, Moldova, Armenia, Nicaragua).**

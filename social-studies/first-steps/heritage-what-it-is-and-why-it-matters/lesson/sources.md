@@ -1,6 +1,6 @@
 # Sources — Heritage — what it is and why it matters
 
-countries: Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivia, Zimbabwe, Eritrea, Cambodia, Fiji, Slovenia, Syria, Mauritania, Jordan, Bhutan, Cuba, Greece, Nauru, Niue, Tuvalu, Saudi Arabia, Rwanda, Poland, Guatemala, Australia, Bahamas, Nepal, Belarus, Dominican Republic, Egypt, Pakistan, Iran, Suriname, Palestine, Colombia, South Sudan, Samoa, Yemen, North Macedonia, Laos, China, Venezuela, Moldova
+countries: Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivia, Zimbabwe, Eritrea, Cambodia, Fiji, Slovenia, Syria, Mauritania, Jordan, Bhutan, Cuba, Greece, Nauru, Niue, Tuvalu, Saudi Arabia, Rwanda, Poland, Guatemala, Australia, Bahamas, Nepal, Belarus, Dominican Republic, Egypt, Pakistan, Iran, Suriname, Palestine, Colombia, South Sudan, Samoa, Yemen, North Macedonia, Laos, China, Venezuela, Moldova, Nicaragua
 
 **Book 1:** *History, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, Addis Ababa, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-064-2, 210 printed pp. Printed page = PDF page − 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g09-student-placements.md
 
@@ -1733,3 +1733,106 @@ Moldova's own way (Book 1 — moldova-g04-history (student book, Romanian)): a c
 **Acceptance count: taught in 43 countries (Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivia, Zimbabwe, Eritrea, Cambodia, Fiji, Slovenia, Syria, Mauritania, Jordan, Bhutan, Cuba, Greece, Nauru, Niue, Tuvalu, Saudi Arabia, Rwanda, Poland, Guatemala, Australia, Bahamas, Nepal, Belarus, Dominican Republic, Egypt, Pakistan, Iran, Suriname, Palestine, Colombia, South Sudan, Samoa, Yemen, North Macedonia, Laos, China, Venezuela, Moldova).**
 
 Searchable tags: Moldova, History expansion 2026-11-15, first-steps/heritage-what-it-is-and-why-it-matters
+
+## History expansion (2026-11-15) — Nicaragua stocked
+
+**Book 1 — G2 Conociendo mi Mundo (student book, Spanish)**
+- Title as printed: Conociendo mi Mundo — 2do Grado
+- Grade: Grade 2 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación (MINED), República de Nicaragua; year Primera Edición 2015 (PDF 2020); no ISBN printed
+- PDF pages: 180 (cover/title page verified against the record title; blob record 404 on tree route — file secured as release asset in mid-size-books-2, 14,045,684 bytes, grabbed via that release route)
+- Verdict: COMPLETE
+- Tally: 22 placements — 3 to existing lessons, 19 NEW LESSON NEEDED
+- Nicaragua's own way: History enters at age 7-8 almost entirely as Efemérides (anniversary stories of a poet, generals and revolutionaries, told one date at a time) plus a whole "Mi Patria Nicaragua" unit of symbols, heroes and traditions, inside a combined Natural Science / Social Studies / values book.
+- Non-History parts named: Unit II family, hygiene and food (printed pp. 9-29, Civics/health); Unit III school life and behaviour norms (pp. 33-51, Civics); Unit IV living things, plants, animals and the human body (pp. 57-97, Natural Science); Unit VI municipality landscape, taxes, transport and road signs (pp. 145-177, Geography/Civics); calendar Efemérides for Women's Day, Mother Earth, Workers' Day, Mother's Day, Children's Day, Teachers' Day and Disability Day (Civics calendar, not placed).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua part — Tradiciones representativas de su comunidad (fiestas patronales, trajes y bailes) — story beats: each community's patron-saint festival, costumes and dances are presented as inherited celebrations the children must recognise as their own (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Nicaragua, *Conociendo mi Mundo — 2do Grado*, printed p. 134 |
+
+Nicaragua's own way (Book 1 — G2 Conociendo mi Mundo (student book, Spanish)): History enters at age 7-8 almost entirely as Efemérides (anniversary stories of a poet, generals and revolutionaries, told one date at a time) plus a whole "Mi Patria Nicaragua" unit of symbols, heroes and traditions, inside a combined Natural Science / Social Studies / values book. That way is stocked here as the way Nicaragua teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 2 — G3 Estudios Sociales (student book, Spanish)**
+- Title as printed: Estudios Sociales 3
+- Grade: Grade 3 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación (MINED); year Edición 2016; no ISBN printed
+- PDF pages: 118 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 24 placements — 5 to existing lessons, 19 NEW LESSON NEEDED
+- Nicaragua's own way: a Geography-first year — the whole first semester is maps, orientation and landscape — then History arrives as the child's own municipality and department: first indigenous settlers, then the department's historical celebrations and hero stories.
+- Non-History parts named: Unit I first Geography knowledge, maps and orientation (printed pp. 1-20, Geography); Unit II planet Earth (pp. 21-32, Geography/Science); Unit III community rural/urban (pp. 33-40, Geography/Civics); Unit IV population and economy of municipality/department, trade treaties and interoceanic canal importance (pp. 41-48, Geography/Civics); Unit V geographic landscape, relief, climate and natural resources (pp. 49-70, Geography); Unit VI women's participation, government social programmes and citizen organisation (pp. 76-79, Civics, not placed).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua part — Costumbres y tradiciones de mi municipio — story beats: customs handed down in the municipality are collected as living heritage the children themselves practise (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Nicaragua, *Estudios Sociales 3*, printed p. 75 |
+| Nicaragua part — Arte, cultura y tradición de los primeros pobladores — story beats: indigenous art and tradition survive as the department's cultural legacy, not a vanished past (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Nicaragua, *Estudios Sociales 3*, printed p. 89 |
+| Nicaragua part — Celebraciones tradicionales: costumbres, tradiciones y creencias de mi departamento — story beats: traditional celebrations carry the department's beliefs and customs forward each year (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Nicaragua, *Estudios Sociales 3*, printed p. 91 |
+
+Nicaragua's own way (Book 2 — G3 Estudios Sociales (student book, Spanish)): a Geography-first year — the whole first semester is maps, orientation and landscape — then History arrives as the child's own municipality and department: first indigenous settlers, then the department's historical celebrations and hero stories. That way is stocked here as the way Nicaragua teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 3 — G4 Estudios Sociales (student book, Spanish)**
+- Title as printed: Estudios Sociales — Libro de Texto, Cuarto Grado
+- Grade: Grade 4 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación (MINED); year Edición 2016; no ISBN printed
+- PDF pages: 238 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 52 placements — 4 to existing lessons, 48 NEW LESSON NEEDED
+- Nicaragua's own way: Grade 4 carries the entire national story in one sweep — first peoples, conquest and colony, independence and federation, Walker, the conservative 30 years, Zelaya, US interventions, Sandino, Somoza, FSLN, Revolution, peace and the governments after 1990 — framed throughout as sovereignty defended against foreign intervention.
+- Non-History parts named: Unit I introduction to Geography and coordinates (printed pp. 2-16, Geography); Unit II planet Earth and solar system (pp. 18-34, Geography/Science); Unit III lakes, rivers, volcanoes, borders and political division of Nicaragua (pp. 36-52, Geography — including current border disputes with Colombia and Costa Rica, pp. 41-44); Unit IV population and economy, population groups and interoceanic canal (pp. 54-68, Geography/Civics); Unit V climate, natural resources, relief, earthquakes and hurricanes (pp. 70-118, Geography).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua part — Legado cultural de los primeros pobladores — story beats: what the first peoples left — language, food, craft, belief — is named a cultural legacy still present in Nicaragua today (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Nicaragua, *Estudios Sociales — Libro de Texto, Cuarto Grado*, printed p. 137 |
+| Nicaragua part — Legado cultural de la época colonial — story beats: the colonial centuries also leave a mixed cultural legacy — language, religion, towns and customs that Nicaraguans still live (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Nicaragua, *Estudios Sociales — Libro de Texto, Cuarto Grado*, printed p. 164 |
+
+Nicaragua's own way (Book 3 — G4 Estudios Sociales (student book, Spanish)): Grade 4 carries the entire national story in one sweep — first peoples, conquest and colony, independence and federation, Walker, the conservative 30 years, Zelaya, US interventions, Sandino, Somoza, FSLN, Revolution, peace and the governments after 1990 — framed throughout as sovereignty defended against foreign intervention. That way is stocked here as the way Nicaragua teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 5 — G6 Estudios Sociales (student book, Spanish)**
+- Title as printed: Estudios Sociales — Primaria Regular, 6to Grado
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación (MINED), República de Nicaragua; year Edición 2020; no ISBN printed
+- PDF pages: 222 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 48 placements — 22 to existing lessons, 26 NEW LESSON NEEDED
+- Nicaragua's own way: primary school closes with a full WORLD history sweep — prehistory, river civilisations, Greece and Rome, Renaissance, colonisation of America, the great revolutions, Latin American independence, the US Civil War, both World Wars, Cold-War dictatorships and the region's return to democracy — always read back through Latin America's experience.
+- Non-History parts named: Unit 1 our planet — origin theories, Earth's movements, maps, time zones (printed pp. 2-24, Geography/Science); Unit 2 geographic landscape of America — relief, hydrography, climate, risk, economy (pp. 26-56, Geography); Unit 3 geographic landscape of Europe, Asia, Africa and Oceania (pp. 58-96, Geography).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua part — Legado cultural de los primeros grupos humanos — story beats: prehistory's legacy is counted in four columns — farming surpluses, social ranks, the first cities and states, and cave art, ritual dance and burial customs (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Nicaragua, *Estudios Sociales — Primaria Regular, 6to Grado*, printed p. 113 |
+
+Nicaragua's own way (Book 5 — G6 Estudios Sociales (student book, Spanish)): primary school closes with a full WORLD history sweep — prehistory, river civilisations, Greece and Rome, Renaissance, colonisation of America, the great revolutions, Latin American independence, the US Civil War, both World Wars, Cold-War dictatorships and the region's return to democracy — always read back through Latin America's experience. That way is stocked here as the way Nicaragua teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 7 — G7 Estudios Sociales, full-year textbook (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Educación Secundaria, 7 Grado
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación (MINED), República de Nicaragua, with Unión Europea PROSEN / PASEN I support; year Primera Edición (year line left blank on the credits page; PDF produced December 2014); no ISBN printed
+- PDF pages: 280 (cover/title page verified against the record title; 120,390,902 bytes, grabbed via the full-quality-oversized-books release asset nicaragua-grade-07-full-year.pdf)
+- Verdict: COMPLETE
+- Tally: 59 placements — 4 to existing lessons, 55 NEW LESSON NEEDED
+- Nicaragua's own way: the regular-classroom twin of Book 6's distance module — the same national story told at full textbook length: five Geography units on Nicaragua's territory, riches, population, production and risks (printed pp. 2-127), then six History units (VI-XI) running from Mesoamerica and the first settlers to the GRUN government of 2007-2010, each topic opened by recall questions and closed by notebook activities.
+- Non-History parts named: Unit I territorial patrimony — maps, coordinates, borders, political division, state institutions and border disputes with Honduras, Costa Rica and Colombia (printed pp. 2-23, Geography/Civics); Unit II physical geography, relief, climate, hydrography and natural resources (pp. 24-63, Geography); Unit III population, migration and ethnic character (pp. 64-81, Geography/Civics); Unit IV production, economic activities, integration and poverty (pp. 82-99, Geography); Unit V natural and human-made risks, vulnerable zones, civil defence and a history of disasters in Nicaragua (pp. 100-127, Geography/Civics).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua part — Legado cultural de la Colonia (española e inglesa) — story beats: two colonial legacies are compared — Spanish Catholic imposition resisted and kept alive in secret on the Pacific side, English-backed Miskitu self-rule on the Caribbean side (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Nicaragua, *Ciencias Sociales — Educación Secundaria, 7 Grado*, printed p. 165 |
+
+Nicaragua's own way (Book 7 — G7 Estudios Sociales, full-year textbook (student book, Spanish)): the regular-classroom twin of Book 6's distance module — the same national story told at full textbook length: five Geography units on Nicaragua's territory, riches, population, production and risks (printed pp. 2-127), then six History units (VI-XI) running from Mesoamerica and the first settlers to the GRUN government of 2007-2010, each topic opened by recall questions and closed by notebook activities. That way is stocked here as the way Nicaragua teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 11 — G9 Estudios Sociales, full-year textbook (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Educación Secundaria, 9 Grado (introduction calls it the "texto de Geografía e Historia Universal de noveno grado")
+- Grade: Grade 9 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación (MINED), República de Nicaragua, with Unión Europea PROSEN / PASEN I support; author Socorro Álvarez Ponce; year Primera Edición (year line left blank on the credits page; PDF produced December 2014); no ISBN printed
+- PDF pages: 280 (cover/title page verified against the record title; 170,810,241 bytes, grabbed via the full-quality-oversized-books release asset)
+- Verdict: COMPLETE
+- Tally: 44 placements — 34 to existing lessons, 10 NEW LESSON NEEDED
+- Nicaragua's own way: Grade 9 splits the book in two — five Geography units on the continents (printed pp. 1-136), then a headed "Historia" half (Units VI-XI) that is pure world history: human evolution and first societies, the four river civilisations studied one by one under identical headings (geography, politics, society, economy, culture), Greece and Rome, the medieval world, the modern age, and contemporary society ending with ALBA and the GRUN's social achievements in Nicaragua.
+- Non-History parts named: Unit I knowing our world — maps, position and political division of the continents (printed pp. 1-24, Geography); Unit II dynamics of our planet — relief, climates, hydrography and natural resources of the continents (pp. 25-64, Geography); Unit III diversity of human beings — population, ethnic composition and migrations by continent (pp. 65-86, Geography/Civics); Unit IV production and consumption — economic activities, technology and globalisation (pp. 87-118, Geography); Unit V protecting the planet — risk areas, disaster impact and international organisations (pp. 119-136, Geography/Civics).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua part — Legado cultural de la Edad Media — story beats: the medieval legacy is counted in Romanesque round arches and Gothic pointed ones, Dante's journey through hell, purgatory and heaven, and the chivalric code of courtesy and protecting the weak (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Nicaragua, *Ciencias Sociales — Educación Secundaria, 9 Grado (introduction calls it the "texto de Geografía e Historia Universal de noveno grado")*, printed p. 205 |
+
+Nicaragua's own way (Book 11 — G9 Estudios Sociales, full-year textbook (student book, Spanish)): Grade 9 splits the book in two — five Geography units on the continents (printed pp. 1-136), then a headed "Historia" half (Units VI-XI) that is pure world history: human evolution and first societies, the four river civilisations studied one by one under identical headings (geography, politics, society, economy, culture), Greece and Rome, the medieval world, the modern age, and contemporary society ending with ALBA and the GRUN's social achievements in Nicaragua. That way is stocked here as the way Nicaragua teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 44 countries (Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivia, Zimbabwe, Eritrea, Cambodia, Fiji, Slovenia, Syria, Mauritania, Jordan, Bhutan, Cuba, Greece, Nauru, Niue, Tuvalu, Saudi Arabia, Rwanda, Poland, Guatemala, Australia, Bahamas, Nepal, Belarus, Dominican Republic, Egypt, Pakistan, Iran, Suriname, Palestine, Colombia, South Sudan, Samoa, Yemen, North Macedonia, Laos, China, Venezuela, Moldova, Nicaragua).**

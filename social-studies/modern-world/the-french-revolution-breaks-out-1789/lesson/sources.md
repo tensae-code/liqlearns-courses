@@ -1,6 +1,6 @@
 # Sources — 1789 — the French Revolution breaks out
 
-countries: Ethiopia, Poland, Costa Rica, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Cuba, China, Venezuela, Moldova, Armenia
+countries: Ethiopia, Poland, Costa Rica, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under GEQIP-E, ISBN 978-99990-0-066-6. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -812,3 +812,55 @@ Armenia's own way (Book A8 — G8 World History student: "New Times" (student bo
 **Acceptance count: taught in 29 countries (Ethiopia, Poland, Costa Rica, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Cuba, China, Venezuela, Moldova, Armenia).**
 
 Searchable tags: Armenia, History expansion 2026-11-15, modern-world/the-french-revolution-breaks-out-1789
+
+## History expansion (2026-11-15) — Nicaragua stocked
+
+**Book 5 — G6 Estudios Sociales (student book, Spanish)**
+- Title as printed: Estudios Sociales — Primaria Regular, 6to Grado
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación (MINED), República de Nicaragua; year Edición 2020; no ISBN printed
+- PDF pages: 222 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 48 placements — 22 to existing lessons, 26 NEW LESSON NEEDED
+- Nicaragua's own way: primary school closes with a full WORLD history sweep — prehistory, river civilisations, Greece and Rome, Renaissance, colonisation of America, the great revolutions, Latin American independence, the US Civil War, both World Wars, Cold-War dictatorships and the region's return to democracy — always read back through Latin America's experience.
+- Non-History parts named: Unit 1 our planet — origin theories, Earth's movements, maps, time zones (printed pp. 2-24, Geography/Science); Unit 2 geographic landscape of America — relief, hydrography, climate, risk, economy (pp. 26-56, Geography); Unit 3 geographic landscape of Europe, Asia, Africa and Oceania (pp. 58-96, Geography).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua part — Revolución Francesa — story beats: bread prices, royal waste and Enlightenment ideas force the Estates General in 1789; the Third Estate's revolution makes the people sovereign and opens the contemporary age (History expansion, 2026-11-15; original placement slug: modern-world/the-french-revolution-breaks-out-1789) | Nicaragua, *Estudios Sociales — Primaria Regular, 6to Grado*, printed p. 159 |
+
+Nicaragua's own way (Book 5 — G6 Estudios Sociales (student book, Spanish)): primary school closes with a full WORLD history sweep — prehistory, river civilisations, Greece and Rome, Renaissance, colonisation of America, the great revolutions, Latin American independence, the US Civil War, both World Wars, Cold-War dictatorships and the region's return to democracy — always read back through Latin America's experience. That way is stocked here as the way Nicaragua teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 8 — G8 Estudios Sociales, full-year textbook (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Educación Secundaria, 8 Grado
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación (MINED), República de Nicaragua, with Unión Europea PROSEN / PASEN support; author Ligia Madrigal Mendieta; year Primera Edición (year line left blank on the credits page; PDF produced December 2014); no ISBN printed
+- PDF pages: 240 (cover/title page verified against the record title; 130,029,408 bytes, grabbed via the full-quality-oversized-books release asset)
+- Verdict: COMPLETE
+- Tally: 46 placements — 13 to existing lessons, 33 NEW LESSON NEEDED
+- Nicaragua's own way: the lens widens from Nicaragua to all the Americas — five Geography units on the continent's territory, landscape, peoples, economy and environment (printed pp. 1-124), then History as a single American story: first peoples and the three great civilisations, European arrival and colonial domination by three empires, emancipation, the troubled century after independence, and the Americas in the 20th century, always ending back in Nicaragua (Somoza, the FSLN, the 1979 triumph and the GRUN model).
+- Non-History parts named: Unit I territorial patrimony of America — coordinates, maps, time zones, political division (printed pp. 1-20, Geography); Unit II geographic landscape of America — relief, climate, hydrography, natural resources (pp. 21-56, Geography); Unit III ethnic and cultural diversity, population and migration of America (pp. 57-78, Geography/Civics); Unit IV space and economy, free-trade treaties and ALBA (pp. 79-106, Geography/Civics); Unit V protecting the environment, risk zones, SINAPRED and civil defence (pp. 107-124, Geography/Civics).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua part — Revolución Francesa — story beats: on 14 July 1789 Paris storms the Bastille, the state prison and symbol of absolute royal power, and France's revolution becomes the example other peoples follow (placed by the book inside its post-independence unit) (History expansion, 2026-11-15; original placement slug: modern-world/the-french-revolution-breaks-out-1789) | Nicaragua, *Ciencias Sociales — Educación Secundaria, 8 Grado*, printed p. 191 |
+
+Nicaragua's own way (Book 8 — G8 Estudios Sociales, full-year textbook (student book, Spanish)): the lens widens from Nicaragua to all the Americas — five Geography units on the continent's territory, landscape, peoples, economy and environment (printed pp. 1-124), then History as a single American story: first peoples and the three great civilisations, European arrival and colonial domination by three empires, emancipation, the troubled century after independence, and the Americas in the 20th century, always ending back in Nicaragua (Somoza, the FSLN, the 1979 triumph and the GRUN model). That way is stocked here as the way Nicaragua teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 11 — G9 Estudios Sociales, full-year textbook (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Educación Secundaria, 9 Grado (introduction calls it the "texto de Geografía e Historia Universal de noveno grado")
+- Grade: Grade 9 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación (MINED), República de Nicaragua, with Unión Europea PROSEN / PASEN I support; author Socorro Álvarez Ponce; year Primera Edición (year line left blank on the credits page; PDF produced December 2014); no ISBN printed
+- PDF pages: 280 (cover/title page verified against the record title; 170,810,241 bytes, grabbed via the full-quality-oversized-books release asset)
+- Verdict: COMPLETE
+- Tally: 44 placements — 34 to existing lessons, 10 NEW LESSON NEEDED
+- Nicaragua's own way: Grade 9 splits the book in two — five Geography units on the continents (printed pp. 1-136), then a headed "Historia" half (Units VI-XI) that is pure world history: human evolution and first societies, the four river civilisations studied one by one under identical headings (geography, politics, society, economy, culture), Greece and Rome, the medieval world, the modern age, and contemporary society ending with ALBA and the GRUN's social achievements in Nicaragua.
+- Non-History parts named: Unit I knowing our world — maps, position and political division of the continents (printed pp. 1-24, Geography); Unit II dynamics of our planet — relief, climates, hydrography and natural resources of the continents (pp. 25-64, Geography); Unit III diversity of human beings — population, ethnic composition and migrations by continent (pp. 65-86, Geography/Civics); Unit IV production and consumption — economic activities, technology and globalisation (pp. 87-118, Geography); Unit V protecting the planet — risk areas, disaster impact and international organisations (pp. 119-136, Geography/Civics).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua part — La Revolución Francesa — story beats: Turgot's attempt to tax the nobility fails, prices rise and the king masses troops; on 14 July 1789 Paris storms the Bastille, and Louis XVI's flight and forced oath of 1791 seal the old regime's fall (History expansion, 2026-11-15; original placement slug: modern-world/the-french-revolution-breaks-out-1789) | Nicaragua, *Ciencias Sociales — Educación Secundaria, 9 Grado (introduction calls it the "texto de Geografía e Historia Universal de noveno grado")*, printed p. 228 |
+
+Nicaragua's own way (Book 11 — G9 Estudios Sociales, full-year textbook (student book, Spanish)): Grade 9 splits the book in two — five Geography units on the continents (printed pp. 1-136), then a headed "Historia" half (Units VI-XI) that is pure world history: human evolution and first societies, the four river civilisations studied one by one under identical headings (geography, politics, society, economy, culture), Greece and Rome, the medieval world, the modern age, and contemporary society ending with ALBA and the GRUN's social achievements in Nicaragua. That way is stocked here as the way Nicaragua teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 30 countries (Ethiopia, Poland, Costa Rica, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua).**

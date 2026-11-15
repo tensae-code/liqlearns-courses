@@ -1,6 +1,6 @@
 # Sources — The American Civil War — union against slavery's states
 
-countries: Ethiopia, United States, Bahamas, Cambodia, Colombia, South Sudan, Samoa, Iraq, Uzbekistan, North Macedonia, Cuba, China, Venezuela, Moldova
+countries: Ethiopia, United States, Bahamas, Cambodia, Colombia, South Sudan, Samoa, Iraq, Uzbekistan, North Macedonia, Cuba, China, Venezuela, Moldova, Nicaragua
 
 **Book 1:** *History, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN 978-99990-0-065-9, printed by GRAVITY GROUP IND LLC, Sharjah, UAE. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g10-student-placements.md
 
@@ -371,3 +371,23 @@ Moldova's own way (Book 7 — moldova-g11-history (student book, Romanian)): the
 **Acceptance count: taught in 14 countries (Ethiopia, United States, Bahamas, Cambodia, Colombia, South Sudan, Samoa, Iraq, Uzbekistan, North Macedonia, Cuba, China, Venezuela, Moldova).**
 
 Searchable tags: Moldova, History expansion 2026-11-15, modern-world/the-american-civil-war-union-against-slavery
+
+## History expansion (2026-11-15) — Nicaragua stocked
+
+**Book 5 — G6 Estudios Sociales (student book, Spanish)**
+- Title as printed: Estudios Sociales — Primaria Regular, 6to Grado
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación (MINED), República de Nicaragua; year Edición 2020; no ISBN printed
+- PDF pages: 222 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 48 placements — 22 to existing lessons, 26 NEW LESSON NEEDED
+- Nicaragua's own way: primary school closes with a full WORLD history sweep — prehistory, river civilisations, Greece and Rome, Renaissance, colonisation of America, the great revolutions, Latin American independence, the US Civil War, both World Wars, Cold-War dictatorships and the region's return to democracy — always read back through Latin America's experience.
+- Non-History parts named: Unit 1 our planet — origin theories, Earth's movements, maps, time zones (printed pp. 2-24, Geography/Science); Unit 2 geographic landscape of America — relief, hydrography, climate, risk, economy (pp. 26-56, Geography); Unit 3 geographic landscape of Europe, Asia, Africa and Oceania (pp. 58-96, Geography).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua part — Guerra de Secesión (1861-1865) — story beats: a slaveholding plantation South and an industrial abolitionist North collide under Lincoln; after Bull Run, Antietam and Gettysburg, Lee surrenders at Appomattox and slavery is abolished, though the Ku Klux Klan rises from the resentment (History expansion, 2026-11-15; original placement slug: modern-world/the-american-civil-war-union-against-slavery) | Nicaragua, *Estudios Sociales — Primaria Regular, 6to Grado*, printed p. 179 |
+
+Nicaragua's own way (Book 5 — G6 Estudios Sociales (student book, Spanish)): primary school closes with a full WORLD history sweep — prehistory, river civilisations, Greece and Rome, Renaissance, colonisation of America, the great revolutions, Latin American independence, the US Civil War, both World Wars, Cold-War dictatorships and the region's return to democracy — always read back through Latin America's experience. That way is stocked here as the way Nicaragua teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 15 countries (Ethiopia, United States, Bahamas, Cambodia, Colombia, South Sudan, Samoa, Iraq, Uzbekistan, North Macedonia, Cuba, China, Venezuela, Moldova, Nicaragua).**

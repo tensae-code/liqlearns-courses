@@ -1,6 +1,6 @@
 # Sources — The Second World War — the Pacific and the results
 
-countries: Ethiopia, United States, Turkey, Micronesia, Australia, Malaysia, Indonesia, South Sudan, Iraq, Sudan, Jordan, North Macedonia, Cuba, China, Moldova
+countries: Ethiopia, United States, Turkey, Micronesia, Australia, Malaysia, Indonesia, South Sudan, Iraq, Sudan, Jordan, North Macedonia, Cuba, China, Moldova, Nicaragua
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 138).
 
@@ -284,3 +284,39 @@ Moldova's own way (Book 6 — moldova-g09-history (student book, Romanian)): the
 **Acceptance count: taught in 15 countries (Ethiopia, United States, Turkey, Micronesia, Australia, Malaysia, Indonesia, South Sudan, Iraq, Sudan, Jordan, North Macedonia, Cuba, China, Moldova).**
 
 Searchable tags: Moldova, History expansion 2026-11-15, modern-world/the-second-world-war-the-pacific-and-the-results
+
+## History expansion (2026-11-15) — Nicaragua stocked
+
+**Book 5 — G6 Estudios Sociales (student book, Spanish)**
+- Title as printed: Estudios Sociales — Primaria Regular, 6to Grado
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación (MINED), República de Nicaragua; year Edición 2020; no ISBN printed
+- PDF pages: 222 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 48 placements — 22 to existing lessons, 26 NEW LESSON NEEDED
+- Nicaragua's own way: primary school closes with a full WORLD history sweep — prehistory, river civilisations, Greece and Rome, Renaissance, colonisation of America, the great revolutions, Latin American independence, the US Civil War, both World Wars, Cold-War dictatorships and the region's return to democracy — always read back through Latin America's experience.
+- Non-History parts named: Unit 1 our planet — origin theories, Earth's movements, maps, time zones (printed pp. 2-24, Geography/Science); Unit 2 geographic landscape of America — relief, hydrography, climate, risk, economy (pp. 26-56, Geography); Unit 3 geographic landscape of Europe, Asia, Africa and Oceania (pp. 58-96, Geography).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua part — Segunda Guerra Mundial: consecuencias — story beats: fifty to sixty million die, the Holocaust and the atomic bombs on Hiroshima and Nagasaki mark the war, Europe declines and the US and USSR emerge as the two superpowers (History expansion, 2026-11-15; original placement slug: modern-world/the-second-world-war-the-pacific-and-the-results) | Nicaragua, *Estudios Sociales — Primaria Regular, 6to Grado*, printed p. 191 |
+
+Nicaragua's own way (Book 5 — G6 Estudios Sociales (student book, Spanish)): primary school closes with a full WORLD history sweep — prehistory, river civilisations, Greece and Rome, Renaissance, colonisation of America, the great revolutions, Latin American independence, the US Civil War, both World Wars, Cold-War dictatorships and the region's return to democracy — always read back through Latin America's experience. That way is stocked here as the way Nicaragua teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 8 — G8 Estudios Sociales, full-year textbook (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Educación Secundaria, 8 Grado
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación (MINED), República de Nicaragua, with Unión Europea PROSEN / PASEN support; author Ligia Madrigal Mendieta; year Primera Edición (year line left blank on the credits page; PDF produced December 2014); no ISBN printed
+- PDF pages: 240 (cover/title page verified against the record title; 130,029,408 bytes, grabbed via the full-quality-oversized-books release asset)
+- Verdict: COMPLETE
+- Tally: 46 placements — 13 to existing lessons, 33 NEW LESSON NEEDED
+- Nicaragua's own way: the lens widens from Nicaragua to all the Americas — five Geography units on the continent's territory, landscape, peoples, economy and environment (printed pp. 1-124), then History as a single American story: first peoples and the three great civilisations, European arrival and colonial domination by three empires, emancipation, the troubled century after independence, and the Americas in the 20th century, always ending back in Nicaragua (Somoza, the FSLN, the 1979 triumph and the GRUN model).
+- Non-History parts named: Unit I territorial patrimony of America — coordinates, maps, time zones, political division (printed pp. 1-20, Geography); Unit II geographic landscape of America — relief, climate, hydrography, natural resources (pp. 21-56, Geography); Unit III ethnic and cultural diversity, population and migration of America (pp. 57-78, Geography/Civics); Unit IV space and economy, free-trade treaties and ALBA (pp. 79-106, Geography/Civics); Unit V protecting the environment, risk zones, SINAPRED and civil defence (pp. 107-124, Geography/Civics).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua part — La Segunda Guerra Mundial y sus efectos en América — story beats: the war's end is taught through its American settlement — a new world order to map, and the question of what the Somoza dictatorship gained from the war (History expansion, 2026-11-15; original placement slug: modern-world/the-second-world-war-the-pacific-and-the-results) | Nicaragua, *Ciencias Sociales — Educación Secundaria, 8 Grado*, printed p. 203 |
+
+Nicaragua's own way (Book 8 — G8 Estudios Sociales, full-year textbook (student book, Spanish)): the lens widens from Nicaragua to all the Americas — five Geography units on the continent's territory, landscape, peoples, economy and environment (printed pp. 1-124), then History as a single American story: first peoples and the three great civilisations, European arrival and colonial domination by three empires, emancipation, the troubled century after independence, and the Americas in the 20th century, always ending back in Nicaragua (Somoza, the FSLN, the 1979 triumph and the GRUN model). That way is stocked here as the way Nicaragua teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 16 countries (Ethiopia, United States, Turkey, Micronesia, Australia, Malaysia, Indonesia, South Sudan, Iraq, Sudan, Jordan, North Macedonia, Cuba, China, Moldova, Nicaragua).**

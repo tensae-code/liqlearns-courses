@@ -1,6 +1,6 @@
 # Sources — The Mexican Revolution, 1910
 
-countries: Bolivia, Colombia, Cuba
+countries: Bolivia, Colombia, Cuba, Nicaragua
 
 **Book 5 (bol-g7-teacher-compendio):** *Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Secundaria Comunitaria Productiva, Área Ciencias Sociales* (teacher guide, Spanish) — Bolivia. Title as printed: Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Secundaria Comunitaria Productiva, Área Ciencias Sociales. Grade: Grade 7 record (student/teacher: TEACHER) — the compendium in fact compiles the student learning texts of ALL SIX years of Secundaria (Primer to Sexto Año), so its History units for Years 3 and 5 are placed here too, as they have no separate student book in this wave. Publisher: Ministerio de Educación, Estado Plurinacional de Bolivia; years 2023–2024; no ISBN printed. PDF pages: 332 (cover verified against the record title). Verdict: COMPLETE. Tally: 68 placements — 26 to existing lessons, 42 NEW LESSON NEEDED. Non-History parts (named, not placed): Year 1 — Geografía, Tiempo geológico, De Pangea a la formación de los continentes, Madre Tierra como sujeto de derecho, Geografía general de Bolivia (Geography); Year 2 — Principios ético-morales en la Constitución (Civics); Year 3 — Desarrollo científico de la Ciencia Geográfica, Cartografía (Geography), Ley 348 and Ley 243 on violence against women (Civics/law); Year 4 — El agua: ¿mercancía, derecho humano o fuerza de vida? (Civics/Geography); Year 5 — La labor del Censista (Civics), Ciudadanía boliviana, derechos y deberes (Civics); Year 6 — Geopolítica (Geography/political science). Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-history-2026-11-15/bolivia-placements.md.
 
@@ -59,3 +59,23 @@ Cuba's own way (Book 8 — g8-student (student book, Spanish)): Modern/contempor
 **Acceptance count: taught in 2 countries (Colombia, Cuba).**
 
 Searchable tags: Cuba, History expansion 2026-11-15, modern-world/mexican-revolution-1910
+
+## History expansion (2026-11-15) — Nicaragua stocked
+
+**Book 8 — G8 Estudios Sociales, full-year textbook (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Educación Secundaria, 8 Grado
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación (MINED), República de Nicaragua, with Unión Europea PROSEN / PASEN support; author Ligia Madrigal Mendieta; year Primera Edición (year line left blank on the credits page; PDF produced December 2014); no ISBN printed
+- PDF pages: 240 (cover/title page verified against the record title; 130,029,408 bytes, grabbed via the full-quality-oversized-books release asset)
+- Verdict: COMPLETE
+- Tally: 46 placements — 13 to existing lessons, 33 NEW LESSON NEEDED
+- Nicaragua's own way: the lens widens from Nicaragua to all the Americas — five Geography units on the continent's territory, landscape, peoples, economy and environment (printed pp. 1-124), then History as a single American story: first peoples and the three great civilisations, European arrival and colonial domination by three empires, emancipation, the troubled century after independence, and the Americas in the 20th century, always ending back in Nicaragua (Somoza, the FSLN, the 1979 triumph and the GRUN model).
+- Non-History parts named: Unit I territorial patrimony of America — coordinates, maps, time zones, political division (printed pp. 1-20, Geography); Unit II geographic landscape of America — relief, climate, hydrography, natural resources (pp. 21-56, Geography); Unit III ethnic and cultural diversity, population and migration of America (pp. 57-78, Geography/Civics); Unit IV space and economy, free-trade treaties and ALBA (pp. 79-106, Geography/Civics); Unit V protecting the environment, risk zones, SINAPRED and civil defence (pp. 107-124, Geography/Civics).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua part — La Revolución Mexicana — story beats: thirty years of Porfirio Díaz's re-elections explode; Madero opens the revolt, Villa and Orozco fight in the north and Zapata makes his bloody campaign against the local oligarchs in Morelos (History expansion, 2026-11-15; original placement slug: modern-world/mexican-revolution) | Nicaragua, *Ciencias Sociales — Educación Secundaria, 8 Grado*, printed p. 199 |
+
+Nicaragua's own way (Book 8 — G8 Estudios Sociales, full-year textbook (student book, Spanish)): the lens widens from Nicaragua to all the Americas — five Geography units on the continent's territory, landscape, peoples, economy and environment (printed pp. 1-124), then History as a single American story: first peoples and the three great civilisations, European arrival and colonial domination by three empires, emancipation, the troubled century after independence, and the Americas in the 20th century, always ending back in Nicaragua (Somoza, the FSLN, the 1979 triumph and the GRUN model). That way is stocked here as the way Nicaragua teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 3 countries (Colombia, Cuba, Nicaragua).**

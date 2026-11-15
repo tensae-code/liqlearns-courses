@@ -1298,3 +1298,40 @@ Armenia's own way (Book A5 — G7 Social Science student (student book, Armenian
 **Acceptance count: taught in 30 countries (Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala, Malaysia, Ecuador, Bahamas, Eritrea, Nepal, Belarus, Fiji, Indonesia, Finland, Egypt, Syria, Suriname, Colombia, South Sudan, Samoa, Iraq, Mozambique, Yemen, Jordan, Laos, Cuba, China, Moldova, Armenia).**
 
 Searchable tags: Armenia, History expansion 2026-11-15, first-steps/find-history-in-your-own-locality
+
+## History expansion (2026-11-15) — Nicaragua stocked
+
+**Book 1 — G2 Conociendo mi Mundo (student book, Spanish)**
+- Title as printed: Conociendo mi Mundo — 2do Grado
+- Grade: Grade 2 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación (MINED), República de Nicaragua; year Primera Edición 2015 (PDF 2020); no ISBN printed
+- PDF pages: 180 (cover/title page verified against the record title; blob record 404 on tree route — file secured as release asset in mid-size-books-2, 14,045,684 bytes, grabbed via that release route)
+- Verdict: COMPLETE
+- Tally: 22 placements — 3 to existing lessons, 19 NEW LESSON NEEDED
+- Nicaragua's own way: History enters at age 7-8 almost entirely as Efemérides (anniversary stories of a poet, generals and revolutionaries, told one date at a time) plus a whole "Mi Patria Nicaragua" unit of symbols, heroes and traditions, inside a combined Natural Science / Social Studies / values book.
+- Non-History parts named: Unit II family, hygiene and food (printed pp. 9-29, Civics/health); Unit III school life and behaviour norms (pp. 33-51, Civics); Unit IV living things, plants, animals and the human body (pp. 57-97, Natural Science); Unit VI municipality landscape, taxes, transport and road signs (pp. 145-177, Geography/Civics); calendar Efemérides for Women's Day, Mother Earth, Workers' Day, Mother's Day, Children's Day, Teachers' Day and Disability Day (Civics calendar, not placed).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua part — Personajes destacados de su municipio — story beats: each child finds the outstanding people of their own municipality and tells who they were and what they did there (History expansion, 2026-11-15; original placement slug: first-steps/find-history-in-your-own-locality) | Nicaragua, *Conociendo mi Mundo — 2do Grado*, printed p. 121 |
+| Nicaragua part — Paseo para conocer hechos, monumentos y lugares históricos de su municipio — story beats: a class walk visits the municipality's own historical events, monuments and places, including the Sandino monument on Loma de Tiscapa and the San Jacinto hero Andrés Castro's monument (History expansion, 2026-11-15; original placement slug: first-steps/find-history-in-your-own-locality) | Nicaragua, *Conociendo mi Mundo — 2do Grado*, printed p. 156 |
+
+Nicaragua's own way (Book 1 — G2 Conociendo mi Mundo (student book, Spanish)): History enters at age 7-8 almost entirely as Efemérides (anniversary stories of a poet, generals and revolutionaries, told one date at a time) plus a whole "Mi Patria Nicaragua" unit of symbols, heroes and traditions, inside a combined Natural Science / Social Studies / values book. That way is stocked here as the way Nicaragua teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 2 — G3 Estudios Sociales (student book, Spanish)**
+- Title as printed: Estudios Sociales 3
+- Grade: Grade 3 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación (MINED); year Edición 2016; no ISBN printed
+- PDF pages: 118 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 24 placements — 5 to existing lessons, 19 NEW LESSON NEEDED
+- Nicaragua's own way: a Geography-first year — the whole first semester is maps, orientation and landscape — then History arrives as the child's own municipality and department: first indigenous settlers, then the department's historical celebrations and hero stories.
+- Non-History parts named: Unit I first Geography knowledge, maps and orientation (printed pp. 1-20, Geography); Unit II planet Earth (pp. 21-32, Geography/Science); Unit III community rural/urban (pp. 33-40, Geography/Civics); Unit IV population and economy of municipality/department, trade treaties and interoceanic canal importance (pp. 41-48, Geography/Civics); Unit V geographic landscape, relief, climate and natural resources (pp. 49-70, Geography); Unit VI women's participation, government social programmes and citizen organisation (pp. 76-79, Civics, not placed).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua part — Hechos y personas relevantes del pasado de mi municipio — story beats: each municipality has its own relevant past events and people; pupils research and retell theirs (History expansion, 2026-11-15; original placement slug: first-steps/find-history-in-your-own-locality) | Nicaragua, *Estudios Sociales 3*, printed p. 80 |
+
+Nicaragua's own way (Book 2 — G3 Estudios Sociales (student book, Spanish)): a Geography-first year — the whole first semester is maps, orientation and landscape — then History arrives as the child's own municipality and department: first indigenous settlers, then the department's historical celebrations and hero stories. That way is stocked here as the way Nicaragua teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 30 countries (Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala, Malaysia, Ecuador, Bahamas, Eritrea, Nepal, Belarus, Fiji, Indonesia, Finland, Egypt, Syria, Suriname, Colombia, South Sudan, Samoa, Iraq, Mozambique, Yemen, Jordan, Laos, Cuba, China, Moldova, Armenia) — unchanged; Nicaragua was already counted in this lesson (Geography expansion), and the History placements above are stocked as depth.**

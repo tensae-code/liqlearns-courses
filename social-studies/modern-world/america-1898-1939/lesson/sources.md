@@ -1,6 +1,6 @@
 # Sources — America 1898 1939
 
-countries: Cuba
+countries: Cuba, Nicaragua
 
 **Book 12 — g10-america (student book, Spanish)**
 - Title as printed: Historia de América — Décimo grado (record title: Temas de Historia de América)
@@ -20,3 +20,23 @@ Cuba's own way (Book 12 — g10-america (student book, Spanish)): A whole book f
 **Acceptance count: taught in 1 country (Cuba).**
 
 Searchable tags: Cuba, America 1898 1939, modern-world, History expansion 2026-11-15
+
+## History expansion (2026-11-15) — Nicaragua stocked
+
+**Book 5 — G6 Estudios Sociales (student book, Spanish)**
+- Title as printed: Estudios Sociales — Primaria Regular, 6to Grado
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación (MINED), República de Nicaragua; year Edición 2020; no ISBN printed
+- PDF pages: 222 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 48 placements — 22 to existing lessons, 26 NEW LESSON NEEDED
+- Nicaragua's own way: primary school closes with a full WORLD history sweep — prehistory, river civilisations, Greece and Rome, Renaissance, colonisation of America, the great revolutions, Latin American independence, the US Civil War, both World Wars, Cold-War dictatorships and the region's return to democracy — always read back through Latin America's experience.
+- Non-History parts named: Unit 1 our planet — origin theories, Earth's movements, maps, time zones (printed pp. 2-24, Geography/Science); Unit 2 geographic landscape of America — relief, hydrography, climate, risk, economy (pp. 26-56, Geography); Unit 3 geographic landscape of Europe, Asia, Africa and Oceania (pp. 58-96, Geography).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua part — Estados Unidos después de la Guerra de Secesión — story beats: reunified, the US completes the conquest of the West, speeds industrial production and turns outward — Hawaii, Alaska bought, and Spain's Philippines and Cuba taken (History expansion, 2026-11-15; original placement slug: modern-world/united-states-becomes-an-expansionist-power) | Nicaragua, *Estudios Sociales — Primaria Regular, 6to Grado*, printed p. 182 |
+
+Nicaragua's own way (Book 5 — G6 Estudios Sociales (student book, Spanish)): primary school closes with a full WORLD history sweep — prehistory, river civilisations, Greece and Rome, Renaissance, colonisation of America, the great revolutions, Latin American independence, the US Civil War, both World Wars, Cold-War dictatorships and the region's return to democracy — always read back through Latin America's experience. That way is stocked here as the way Nicaragua teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 2 countries (Cuba, Nicaragua).**
