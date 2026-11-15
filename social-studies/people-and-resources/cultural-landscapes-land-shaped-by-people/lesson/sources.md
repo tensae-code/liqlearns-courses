@@ -1,6 +1,6 @@
 # Sources — Cultural landscapes — land shaped by people
 
-countries: Ethiopia, Haiti, Angola, Samoa, Colombia, Cambodia, Slovenia, Papua New Guinea, Venezuela
+countries: Ethiopia, Haiti, Angola, Samoa, Colombia, Cambodia, Slovenia, Papua New Guinea, Venezuela, Mozambique
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -30,6 +30,8 @@ countries: Ethiopia, Haiti, Angola, Samoa, Colombia, Cambodia, Slovenia, Papua N
 
 **Book 14:** *El espacio geográfico de la Humanidad — Ciencias Sociales, 1er Año* (student book, Spanish) — Ministerio del Poder Popular para la Educación / Colección Bicentenario (co-edition with Ministerio de Cultura, Fundación Editorial El perro y la rana); year 2014 (third edition, April 2014); ISBN 978-980-218-334-0. Title as printed: El espacio geográfico de la Humanidad — Ciencias Sociales, 1er Año. Grade: Grade 7 (1er Año de Educación Media) (student/teacher: STUDENT). PDF pages: 162 (cover/title page verified against the record title; byte size 88,531,252 matches the books.json record; read in place in phase3-staging). Verdict: COMPLETE. (Combined book — Geography parts placed below; parts named, not placed — History/Civics parts named, not placed: none — this is a pure Geography book; historical material (Caracas 1936/1966, Bolívar's unity ideal) is used inside Geography chapters.) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/venezuela-placements.md.
 
+**Book 15:** *Módulo 6 de Geografia — Agricultura e Pecuária (title page misprints the subject word as "Gografia")* (student book, Portuguese) — Ministério da Educação / IEDA; year not printed (uploaded to IEDA site 2022); no ISBN printed. Title as printed: Módulo 6 de Geografia — Agricultura e Pecuária (title page misprints the subject word as "Gografia"). Grade: Grades 10–12 cycle (2º Ciclo), filed as Grade 10 (student/teacher: STUDENT). PDF pages: 80 (title page verified against the record title; byte size 3,049,875 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The meaning | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 5, printed pp. 146–149 |
@@ -47,8 +49,9 @@ countries: Ethiopia, Haiti, Angola, Samoa, Colombia, Cambodia, Slovenia, Papua N
 | Papua New Guinea part — Strand 1 Unit 4 People and Environment, Topic 1: Land uses (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 9 Social Science TG* (teacher guide), Strand 1 Unit 4 People and Environment, Topic 1: Land uses — printed p. 76 |
 | Papua New Guinea part — Strand 1 Unit 4 People and Environment, Topic 1: Land uses (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 10 Social Science TG* (teacher guide), Strand 1 Unit 4 People and Environment, Topic 1: Land uses — printed p. 78 |
 | Venezuela part — La diversidad de espacios geográficos de nuestra Pachamama | Venezuela, *Venezuela Grade 7 G7 Geography Humanidad*, La diversidad de espacios geográficos de nuestra Pachamama — printed p. 52 |
+| Mozambique part — Lição 2: scientific-technical progress remaking dry agrarian spaces (irrigation) | Mozambique, *Mozambique Grade 10 PESD II Mod 6*, Lição 2: scientific-technical progress remaking dry agrarian spaces (irrigation) — printed p. 18 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Angola, Samoa, Colombia, Cambodia, Slovenia, Venezuela). Haiti is named here as teacher-sequence evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 8 countries (Ethiopia, Angola, Samoa, Colombia, Cambodia, Slovenia, Venezuela, Mozambique). Haiti is named here as teacher-sequence evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Haiti's own way (teacher sequence — evidence): Geography begins as a daily practice, not a chapter: pupils draw the landscape around their school, the plan of their quarter and Haiti with their school placed on it, read landscape forms and functions from their own croquis, then trace one everyday object (a coffee cup, a phone) from raw material to shop shelf to see the world from the local. That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
@@ -75,3 +78,5 @@ Papua New Guinea's own way (Papua New Guinea Grade 9 Social Science TG) (teacher
 Papua New Guinea's own way (Papua New Guinea Grade 10 Social Science TG) (teacher guide — evidence): Grade 10 Geography is a population course — population pyramids in depth, world physical geography's effects on settlement, density and economic activity, then PNG-only migration (types, internal migration, routes and trends) and PNG's land-mobilisation questions (undeveloped land, Special Agricultural Business Leases, land grabbing). That evidence is stocked here as the way Papua New Guinea teaches this thing; it does not change the acceptance count above.
 
 Venezuela's own way (Venezuela Grade 7 G7 Geography Humanidad): a Geohistoria (Ramón Tovar) approach — geographic space is always explained through the historical conditions that built it; every chapter opens with a literary epigraph, works through "Entérate / Entretejiendo saberes / Indagando" boxes, and keeps returning to the learner's own community and to Caracas as the worked example.
+
+Mozambique's own way (Mozambique Grade 10 PESD II Mod 6): farming taught historically first — the Neolithic revolution, the Iron civilisation, and what the Industrial Revolution gave agriculture — then agrarian space and its natural/human factors, farming systems by development level, and the tropical systems (dryland, oasis, monsoon rice) before modern farming and livestock.

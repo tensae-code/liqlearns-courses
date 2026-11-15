@@ -1,6 +1,6 @@
 # Sources — Population policies — encouraging or discouraging babies
 
-countries: Ethiopia, Turkmenistan, Rwanda, Fiji, Papua New Guinea, Iran
+countries: Ethiopia, Turkmenistan, Rwanda, Fiji, Papua New Guinea, Iran, Mozambique
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Turkmenistan, Rwanda, Fiji, Papua New Guinea, Iran
 
 **Book 6:** *جغرافیای ایران (Geography of Iran) — for all branches (theoretical, technical-vocational, kardanesh)* (student book, Persian) — سازمان پژوهش و برنامه‌ریزی آموزشی (Organization for Educational Research and Planning), Ministry of Education; printed by شرکت چاپ و نشر کتاب‌های درسی ایران; year 1405 (11th printing); ISBN 978-964-05-2744-3; book code 110218. Title as printed: جغرافیای ایران (Geography of Iran) — for all branches (theoretical, technical-vocational, kardanesh). Grade: 10 (student/teacher: STUDENT). PDF pages: 120 (cover/title page verified against the record title; byte size 8,709,753 and page count 120 match the books.json record exactly; read from the record's own ministry source chap.sch.ir, the file the record was pushed from, because the GitHub API route was disconnected on repeated attempts). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iran-placements.md.
 
+**Book 7:** *Módulo 5 de Geografia — População* (student book, Portuguese) — Ministério da Educação / IEDA; year not printed (uploaded to IEDA site 2022); no ISBN printed. Title as printed: Módulo 5 de Geografia — População. Grade: Grades 10–12 cycle (2º Ciclo), filed as Grade 10 (student/teacher: STUDENT). PDF pages: 109 (title page verified against the record title; byte size 5,447,158 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Direct and indirect influence | G12 student #48, printed pp. 100–102 |
@@ -23,8 +25,9 @@ countries: Ethiopia, Turkmenistan, Rwanda, Fiji, Papua New Guinea, Iran
 | Fiji part — 1.1.8 Ways of Minimizing Population Problems | Fiji, *Fiji Years 11–12 Geography*, 1.1.8 Ways of Minimizing Population Problems — printed p. 23 |
 | Papua New Guinea part — Unit 11.4: population policies of different countries, e.g. China's one-child policy (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 11 Geography TG OBE* (teacher guide), Unit 11.4: population policies of different countries, e.g. China's one-child policy — printed p. 35 |
 | Iran part — Characteristics of Iran's population (Iran's population policies across the decades) | Iran, *Iran Grade 10 Geography of Iran*, Characteristics of Iran's population (Iran's population policies across the decades) — printed p. 74 |
+| Mozambique part — Lição 7: Evolução da População nos Países Desenvolvidos (pro-natalist measures — family allowances from the 2nd child in Germany, 3rd in France; abortion restriction) | Mozambique, *Mozambique Grade 10 PESD II Mod 5*, Lição 7: Evolução da População nos Países Desenvolvidos (pro-natalist measures — family allowances from the 2nd child in Germany, 3rd in France; abortion restriction) — printed p. 49 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Turkmenistan, Fiji, Iran). Rwanda is named here as teacher-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 5 countries (Ethiopia, Turkmenistan, Fiji, Iran, Mozambique). Rwanda is named here as teacher-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 No book error in the placements for this lesson is taught here. Policy types are taught exactly as the placements report them. Note on stacking: this G12 lesson is a new, deeper statement of its topic; the G11 lesson 'Population policies — government's open and hidden hand' and the Grade 7 optimum/balance lesson stand separately in this title and in People and Resources — nothing in them was overwritten.
 
@@ -39,3 +42,5 @@ Fiji's own way (Fiji Years 11–12 Geography): Senior geography splits into Huma
 Papua New Guinea's own way (Papua New Guinea Grades 11–12 Geography TG OBE) (teacher guide — evidence): an outcomes-based guide — it prescribes no lesson scripts; for each syllabus unit it lists suggested learning activities and assessment tasks built around the local environment (soil profiles, local hazard sites, a PNG mine and logging case study, a transect along latitude 6°S), with fieldwork and geographical inquiry as the core skills. That evidence is stocked here as the way Papua New Guinea teaches this thing; it does not change the acceptance count above.
 
 Iran's own way (Iran Grade 10 Geography of Iran): the whole of Grade 10 geography is one national book — Iran's own natural and human geography for every branch; nearly every lesson closes with a "know your own living place" activity tied to the separate provincial-studies book, so national content is always re-applied to the learner's own province.
+
+Mozambique's own way (Mozambique Grade 10 PESD II Mod 5): population geography taught as a developed-world/developing-world contrast throughout — distribution factors, growth, Malthus and the transition, then the two evolutions (developed countries; the "Terceiro Mundo" set) with their opposite population policies, closing on structures, demographic problems (incl. HIV cutting life expectancy below 50) and population–economy/environment relations.

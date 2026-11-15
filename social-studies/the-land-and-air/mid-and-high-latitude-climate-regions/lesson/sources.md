@@ -1,6 +1,6 @@
 # Sources — Mid- and high-latitude climate regions
 
-countries: Ethiopia, Cambodia, Pakistan, Nepal
+countries: Ethiopia, Cambodia, Pakistan, Nepal, Mozambique
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Cambodia, Pakistan, Nepal
 
 **Book 6:** *Shikshak Nirdeshika Samajik Adhyayan Kaksha 10 (Teacher's Guide Social Studies Grade 10)* (teacher guide, Nepali) — Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; year prepared against the 2078 basic-education curriculum (imprint); ISBN no ISBN printed. Title as printed: Shikshak Nirdeshika Samajik Adhyayan Kaksha 10 (Teacher's Guide Social Studies Grade 10). Grade: Grade 10 (student/teacher: TEACHER). PDF pages: 301 (cover/title page verified against the record title — Devanagari title page matches; page references below are the guide's PDF pages). Verdict: COMPLETE. Non-Geography parts named (not placed): Units 1–5, 7, 9 as in the student book (society, development/federalism framing except HDI/sustainable development, values, social problems, civics, History, international relations), Unit 8 Lessons 3–9 (financial education/instruments, cooperatives, savings, revenue, periodic plans), population Unit Lesson 6 Community health. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nepal-placements.md.
 
+**Book 7:** *Módulo 2 de Geografia — Ambiente Bioclimático* (student book, Portuguese) — Ministério da Educação / IEDA; year not printed (uploaded to IEDA site 2022); no ISBN printed. Title as printed: Módulo 2 de Geografia — Ambiente Bioclimático. Grade: Grades 10–12 cycle (2º Ciclo), filed as Grade 10 (student/teacher: STUDENT). PDF pages: 137 (title page verified against the record title; byte size 7,185,973 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Mid-latitude dry and wet | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 2, printed pp. 42–44 |
@@ -24,8 +26,9 @@ countries: Ethiopia, Cambodia, Pakistan, Nepal
 | Pakistan part — Temperate climatic region (monsoon lands — Pakistan, India, Myanmar, Vietnam, southern China; dense farming populations) and the Polar region (igloos, reindeer herding, hunting and fishing) | Pakistan, *Pakistan Grade 6 Geography 6*, Temperate climatic region (monsoon lands — Pakistan, India, Myanmar, Vietnam, southern China; dense farming populations) and the Polar region (igloos, reindeer herding, hunting and fishing) — printed pp. 38–39 |
 | Nepal part — Unit 6 Lesson 4: The temperate zone / Lesson 5: The cold (frigid) zone | Nepal, *Nepal Grade 10 np-g10*, Unit 6 Lesson 4: The temperate zone / Lesson 5: The cold (frigid) zone — printed p. 140 |
 | Nepal part — Earth Unit Lessons 4–5: The temperate zone / The cold zone (teacher guide — evidence) | Nepal, *Nepal Grade 10 TG np-g10tg* (teacher guide), Earth Unit Lessons 4–5: The temperate zone / The cold zone — TG p. 128 |
+| Mozambique part — Lição 15: Caracterização dos climas — continuação (cold climates from 45° to the poles; altitude climates; thermopluviometric graphs annex) | Mozambique, *Mozambique Grade 10 PESD II Mod 2*, Lição 15: Caracterização dos climas — continuação (cold climates from 45° to the poles; altitude climates; thermopluviometric graphs annex) — printed p. 97 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Cambodia, Pakistan, Nepal).**
+**Acceptance count: taught in 5 countries (Ethiopia, Cambodia, Pakistan, Nepal, Mozambique).**
 
 No book error is flagged for this lesson's pages in the placements. The student book's body numbering for Unit Two drifts from its own contents (regions printed as 2.4, factors as 2.5, local classification as 2.6, where the contents and the teacher guide's contents agree on 2.3, 2.4 and 2.5); this lesson follows the contents numbering and teaches no misprint.
 
@@ -38,3 +41,5 @@ Pakistan's own way (Pakistan Grade 6 Geography 6): world physical Geography taug
 Nepal's own way (Nepal Grade 10 np-g10): Grade 10 climate is taught by world climate types and the three heat zones (tropical, temperate, cold), then continent studies of North America, South America and Africa, earthquakes, map work and modern map technology (GIS); population closes the book — Nepal's size/growth, structure, distribution, family planning and the population–environment interrelation.
 
 Nepal's own way (Nepal Grade 10 TG np-g10tg) (teacher guide — evidence): The guide teaches the Grade 10 course of np-g10 lesson for lesson, adding map- and chart-based activities (world climate maps, heat-zone maps, continent maps comparing life and economic activity with Nepal) and earthquake-preparedness practice; placements mirror the student book with guide page references. That evidence is stocked here as the way Nepal teaches this thing; it is cited as evidence only — Nepal is counted in this lesson through its student book(s).
+
+Mozambique's own way (Mozambique Grade 10 PESD II Mod 2): a full physical-climatology course — atmosphere structure to magnetosphere, heat balance, pressure/wind circulation, air masses and fronts, humidity and precipitation, the water cycle, then Köppen/Thornthwaite classification worked through climate tables with African station graphs (Arkassa, Tamanrasset, Algiers), closing on protection of bioclimatic resources.

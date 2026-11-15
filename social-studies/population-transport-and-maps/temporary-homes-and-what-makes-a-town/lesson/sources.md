@@ -1,6 +1,6 @@
 # Sources — Temporary homes, and what makes a town
 
-countries: Ethiopia, Turkey, Palestine, Bangladesh, Egypt, Bahamas, Malaysia, Eritrea, India, Slovenia, Syria, Mauritania, Kuwait, Iran, Yemen, Pakistan, Moldova
+countries: Ethiopia, Turkey, Palestine, Bangladesh, Egypt, Bahamas, Malaysia, Eritrea, India, Slovenia, Syria, Mauritania, Kuwait, Iran, Yemen, Pakistan, Moldova, Mozambique
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -46,6 +46,8 @@ countries: Ethiopia, Turkey, Palestine, Bangladesh, Egypt, Bahamas, Malaysia, Er
 
 **Book 22:** *Geografie — Manual pentru clasa a IX-a (Geografia umană a Republicii Moldova)* (student book, Romanian) — Editura ARC, Chișinău; authors Vitalie Sochircă, Natalia Cozma, Tatiana Baciu; ISBN 978-9975-0-0859-4; elaborated under the 2019 curriculum (Ministry order no. 906 of 17 July 2019); year not printed on the pages read. Title as printed: Geografie — Manual pentru clasa a IX-a (Geografia umană a Republicii Moldova). Grade: 9 (student/teacher: STUDENT). PDF pages: 130 (cover verified against the record title; 77,295,436 bytes = record size exactly, from the recorded eduresurse.gov.md source after repeated truncated connections were completed with a resume loop; the GitHub release route disconnected mid-download — the book is already in GitHub per its record, so no staging). Verdict: COMPLETE. 12 records / 6 distinct books (TSV + books.json duplicates of the same 6 manuals) — read from the recorded ministry source URLs (eduresurse.gov.md / ctice.md) after the GitHub API route disconnected twice; byte size and page count verified against each record before reading; full text-layer page-by-page reads, as the placements file header records. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/moldova-placements.md.
 
+**Book 23:** *Módulo 3 de Geografia (GEOGRAFIA — MÓDULO 3, PESD I)* (student book, Portuguese) — MINEDH / IEDA; year 2023; no ISBN printed. Title as printed: Módulo 3 de Geografia (GEOGRAFIA — MÓDULO 3, PESD I). Grade: Grades 7–9 cycle, filed as Grade 7 (student/teacher: STUDENT). PDF pages: 99 (cover verified against the record title; byte size 6,828,243 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Temporary settlements | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 4, printed pp. 106–109 |
@@ -71,8 +73,9 @@ countries: Ethiopia, Turkey, Palestine, Bangladesh, Egypt, Bahamas, Malaysia, Er
 | Yemen part — Unit 1 Lesson 5 My City | Yemen, *Yemen Grade 4 G4 Social Studies*, Unit 1 Lesson 5 My City — printed p. 23 |
 | Pakistan part — Towns are different from cities: side-by-side comparison of size, government, services and way of life | Pakistan, *Pakistan Grade 7 Geography 7*, Towns are different from cities: side-by-side comparison of size, government, services and way of life — printed pp. 34–35 |
 | Moldova part — §10 Human settlements; rural settlements of Moldova | Moldova, *Moldova Grade 9 Geography*, §10 Human settlements; rural settlements of Moldova — printed p. 50 |
+| Mozambique part — Lição 1: urbanisation rate and rural exodus causes | Mozambique, *Mozambique Grade 7 PESD I Mod 3*, Lição 1: urbanisation rate and rural exodus causes — printed p. 12 |
 
-**Acceptance count: taught in 17 countries (Ethiopia, Turkey, Palestine, Bangladesh, Egypt, Bahamas, Malaysia, Eritrea, India, Slovenia, Syria, Mauritania, Kuwait, Iran, Yemen, Pakistan, Moldova).**
+**Acceptance count: taught in 18 countries (Ethiopia, Turkey, Palestine, Bangladesh, Egypt, Bahamas, Malaysia, Eritrea, India, Slovenia, Syria, Mauritania, Kuwait, Iran, Yemen, Pakistan, Moldova, Mozambique).**
 
 Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
@@ -115,3 +118,5 @@ Yemen's own way (Yemen Grade 4 G4 Social Studies): Grade 4 turns from the child'
 Pakistan's own way (Pakistan Grade 7 Geography 7): a dedicated English-medium Geography book built entirely on Pakistan's own physical and economic geography — the Indus plain and delta, the canal system, Rabi/Kharif crops, Sui gas, Thar coal, Khewra salt and Tarbela power — with world concepts (river courses, settlement hierarchy, greenhouse effect, mining types) taught through Pakistani examples first.
 
 Moldova's own way (Moldova Grade 9 Geography): the human-geography year of one's own country, written as a citizen's handbook — it opens with the Constitution's own words on territory, weighs the advantages and disadvantages of the country's economic-geographic position (including EU candidate status, June 2022), and treats the wine industry as national patrimony with roots in the Cucuteni-Tripolie civilisation; every theme carries "current problems", case studies and debates about the pupils' own locality, and the two practical works study the home locality itself (its population; its tourist sights).
+
+Mozambique's own way (Mozambique Grade 7 PESD I Mod 3): after world/economic geography in Modules 1–2, Module 3 turns to Mozambique itself as a complete regional study — cities, then the country's location, coast, geology, minerals, soils, relief, climate, plant and animal geography, hydrography — and closes with Southern Africa and Mozambique's SADC integration.

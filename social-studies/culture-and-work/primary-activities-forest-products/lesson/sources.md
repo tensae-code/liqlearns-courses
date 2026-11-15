@@ -1,6 +1,6 @@
 # Sources — Primary activities — forest products and their uses
 
-countries: Ethiopia, Bolivia, Slovenia, Uganda, Sudan, Libya
+countries: Ethiopia, Bolivia, Slovenia, Uganda, Sudan, Libya, Mozambique
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 2 — Population Studies and Socio-Economic Activities, printed pp. 44–76).
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Bolivia, Slovenia, Uganda, Sudan, Libya
 
 **Book 7:** *مبادئ الجغرافيا العامة — Principles of General Geography, First Year of Secondary Education* (student book, Arabic) — State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2019–2020 (1440–1441 AH); ISBN no ISBN printed. Title as printed: مبادئ الجغرافيا العامة — Principles of General Geography, First Year of Secondary Education. Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 141 (title page verified in text layer: "مبادئ الجغرافيا العامة للسنة الأولى بمرحلة التعليم الثانوي" — matches record; full readable text layer, read via pdftotext; grabbed via grab.py release route, size verified by grab.py). Verdict: COMPLETE. TSV release records and books.json records are the same 8 books (each title appears once in each source) — read once via grab.py (GitHub API, size verified), as the placements file header records. Combined Social Studies books (Grades 5–6): Geography parts placed; History/Civics parts named in headers only. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/libya-placements.md.
 
+**Book 8:** *Módulo 2 de Geografia (GEOGRAFIA — MÓDULO 2, PESD I)* (student book, Portuguese) — MINEDH / IEDA; year 2023; no ISBN printed. Title as printed: Módulo 2 de Geografia (GEOGRAFIA — MÓDULO 2, PESD I). Grade: Grades 7–9 cycle, filed as Grade 7 (student/teacher: STUDENT). PDF pages: 167 (cover verified against the record title; byte size 6,444,493 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE (note: Lição 13's body heading mistakenly repeats "actividade pecuária" wording from Lição 16 — the book's own copy error; content and summary are the agriculture environmental-problems lesson as titled). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Two streams from the forest | Ethiopia, *Social Studies Student Textbook, Grade 8* (Amhara Bureau), printed pp. 56–57 |
@@ -26,8 +28,9 @@ countries: Ethiopia, Bolivia, Slovenia, Uganda, Sudan, Libya
 | Sudan part — Forest production | Sudan, *Sudan Grade 12 SD Geography 12*, Forest production — printed p. 66 |
 | Sudan part — Forestry production in Sudan and the economic and environmental benefits of forests | Sudan, *Sudan Grade 9 SD Geography 9*, Forestry production in Sudan and the economic and environmental benefits of forests — printed p. 70 |
 | Libya part — Book 6 Ch.1: الموارد الغابية — Forest resources of the world [placement slug: people-and-resources/resources-renewable-and-non-renewable] | Libya, *Libya Grade 10 LY G10 Principles*, Book 6 Ch.1: الموارد الغابية — Forest resources of the world — printed p. 114 |
+| Mozambique part — Lição 18: Silvicultura (forestry's ecological roles, cultivated species, forest conservation) | Mozambique, *Mozambique Grade 7 PESD I Mod 2*, Lição 18: Silvicultura (forestry's ecological roles, cultivated species, forest conservation) — printed p. 80 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Bolivia, Slovenia, Uganda, Sudan, Libya).**
+**Acceptance count: taught in 7 countries (Ethiopia, Bolivia, Slovenia, Uganda, Sudan, Libya, Mozambique).**
 
 Honesty: pupil content comes from the Amhara student book. The Addis Ababa Grade 8 teacher guide is NOT edition-matched to this student book and is truncated (only printed pp. 1–47, Units 1–3, in hand); no guide coverage is claimed for this lesson beyond what its sources rows name.
 
@@ -44,3 +47,5 @@ Sudan's own way (Sudan Grade 12 SD Geography 12): The final-year book is organis
 Sudan's own way (Sudan Grade 9 SD Geography 9): A single-country book: the whole of Sudan taught in three units — its physical geography, its human geography, then its environmental problems — with map-work activities on Sudan's own maps (states, roads, the Nile) and an infographic "resources of Sudan" spread; the preface warns its statistics change and are only indicators.
 
 Libya's own way (Libya Grade 10 LY G10 Principles): Secondary geography opens as a two-part systematic course — physical geography first (astronomy, surface-shaping factors, climate, vegetation and wild animals), then human geography (population and settlement, economic resources) — and closes with a whole book on spatial-data technology: remote sensing, GPS and GIS, then the history of maps from Babylon and Ibn Hawqal.
+
+Mozambique's own way (Mozambique Grade 7 PESD I Mod 2): human/economic geography organised sector by sector — population first, then each economic activity taught world-then-Mozambique (agriculture, livestock, fishing, forestry, industry, commerce, tourism, transport), with Mozambique's own distribution tables, ports and exports as the local evidence.

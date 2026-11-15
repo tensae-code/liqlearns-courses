@@ -1,6 +1,6 @@
 # Sources — Population and development — burden or human capital?
 
-countries: Ethiopia, Zimbabwe, Papua New Guinea, Sudan, Yemen, Nepal
+countries: Ethiopia, Zimbabwe, Papua New Guinea, Sudan, Yemen, Nepal, Mozambique
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Zimbabwe, Papua New Guinea, Sudan, Yemen, Nepal
 
 **Book 7:** *Shikshak Nirdeshika Samajik Adhyayan tatha Manav Mulya Shiksha Kaksha 7 (Teacher's Guide Social Studies and Human Value Education Grade 7, 2079)* (teacher guide, Nepali) — Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; year 2079 BS; ISBN no ISBN printed. Title as printed: Shikshak Nirdeshika Samajik Adhyayan tatha Manav Mulya Shiksha Kaksha 7 (Teacher's Guide Social Studies and Human Value Education Grade 7, 2079). Grade: Grade 7 (student/teacher: TEACHER). PDF pages: 202 (cover/title page verified against the record title — Devanagari title page matches; page references below are the guide's PDF pages, its printed folios being in the same sequence). Verdict: COMPLETE. Non-Geography parts named (not placed): Units 1–5 and 9 as in the student book (society, values, civics, social problems, History, international relations), and Unit 6 Lesson 5 Government income and expenditure (civics/fiscal). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nepal-placements.md.
 
+**Book 8:** *Módulo 5 de Geografia — População* (student book, Portuguese) — Ministério da Educação / IEDA; year not printed (uploaded to IEDA site 2022); no ISBN printed. Title as printed: Módulo 5 de Geografia — População. Grade: Grades 10–12 cycle (2º Ciclo), filed as Grade 10 (student/teacher: STUDENT). PDF pages: 109 (title page verified against the record title; byte size 5,447,158 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Development unpacked | G12 student #51, printed pp. 107–115 |
@@ -26,8 +28,9 @@ countries: Ethiopia, Zimbabwe, Papua New Guinea, Sudan, Yemen, Nepal
 | Yemen part — Unit 5 Lesson 3 Population and Social Development | Yemen, *Yemen Grade 9 G9 Geography of Yemen and the Arab World*, Unit 5 Lesson 3 Population and Social Development — printed p. 102 |
 | Nepal part — Unit 8 Lesson 4: Demographic condition and quality of life | Nepal, *Nepal Grade 7 np-g7*, Unit 8 Lesson 4: Demographic condition and quality of life — printed p. 165 |
 | Nepal part — Unit 8 Lesson 4: Demographic condition and quality of life (teacher guide — evidence) | Nepal, *Nepal Grade 7 TG np-g7tg* (teacher guide), Unit 8 Lesson 4: Demographic condition and quality of life — TG p. 166 |
+| Mozambique part — Lição 12: Importância da Relação População–Economia (population as industrialisation support in the North) | Mozambique, *Mozambique Grade 10 PESD II Mod 5*, Lição 12: Importância da Relação População–Economia (population as industrialisation support in the North) — printed p. 87 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Sudan, Yemen, Nepal). Zimbabwe is named here as teacher-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 5 countries (Ethiopia, Sudan, Yemen, Nepal, Mozambique). Zimbabwe is named here as teacher-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 No book error in the placements for this lesson is taught here. Elements and pressures are taught exactly as the placements report them.
 
@@ -44,3 +47,5 @@ Yemen's own way (Yemen Grade 9 G9 Geography of Yemen and the Arab World): Grade 
 Nepal's own way (Nepal Grade 7 np-g7): Grade 7 Earth science is motion-first — Earth's daily and annual motion, surface form and the factors that change it, surface form's relation to human life — then Nepal's climate, the seven provinces of federal Nepal, climate change, disasters and map work; population is taught as structure, change and management.
 
 Nepal's own way (Nepal Grade 7 TG np-g7tg) (teacher guide — evidence): The guide teaches the same Grade 7 course as np-g7 with globe-and-ball demonstrations of rotation/revolution, chart work on Nepal's demographic structure (age, sex, religion, caste, language distributions), and discussion-led lessons; its geography content mirrors the student book lesson for lesson, so placements repeat with guide page references. That evidence is stocked here as the way Nepal teaches this thing; it is cited as evidence only — Nepal is counted in this lesson through its student book(s).
+
+Mozambique's own way (Mozambique Grade 10 PESD II Mod 5): population geography taught as a developed-world/developing-world contrast throughout — distribution factors, growth, Malthus and the transition, then the two evolutions (developed countries; the "Terceiro Mundo" set) with their opposite population policies, closing on structures, demographic problems (incl. HIV cutting life expectancy below 50) and population–economy/environment relations.

@@ -1,6 +1,6 @@
 # Sources — Crude Density
 
-countries: Ethiopia, Morocco, Eritrea, Slovenia, Uganda, Sudan, Kuwait, Pakistan, Libya
+countries: Ethiopia, Morocco, Eritrea, Slovenia, Uganda, Sudan, Kuwait, Pakistan, Libya, Mozambique
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (placement 48).
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Morocco, Eritrea, Slovenia, Uganda, Sudan, Kuwait, Pakistan
 
 **Book 10:** *جغرافية الوطن العربي — Geography of the Arab World, Grade 8 of Basic Education* (student book, Arabic) — State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2019–2020 (1440–1441 AH); ISBN no ISBN printed. Title as printed: جغرافية الوطن العربي — Geography of the Arab World, Grade 8 of Basic Education. Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 105 (cover verified visually: "جغرافية الوطن العربي للصف الثامن" — matches record; mostly image-only scan, read via 100-DPI 4-up contact sheets; grabbed via grab.py release route, size verified by grab.py). Verdict: COMPLETE. TSV release records and books.json records are the same 8 books (each title appears once in each source) — read once via grab.py (GitHub API, size verified), as the placements file header records. Combined Social Studies books (Grades 5–6): Geography parts placed; History/Civics parts named in headers only. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/libya-placements.md.
 
+**Book 11:** *Módulo 2 de Geografia (GEOGRAFIA — MÓDULO 2, PESD I)* (student book, Portuguese) — MINEDH / IEDA; year 2023; no ISBN printed. Title as printed: Módulo 2 de Geografia (GEOGRAFIA — MÓDULO 2, PESD I). Grade: Grades 7–9 cycle, filed as Grade 7 (student/teacher: STUDENT). PDF pages: 167 (cover verified against the record title; byte size 6,444,493 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE (note: Lição 13's body heading mistakenly repeats "actividade pecuária" wording from Lição 16 — the book's own copy error; content and summary are the agriculture environmental-problems lesson as titled). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Density and the four bands — density is people per km²: over 100 high, 21–100 medium, 5–20 low, under 5 counted as uninhabited | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 3, printed p. 65 |
@@ -36,8 +38,9 @@ countries: Ethiopia, Morocco, Eritrea, Slovenia, Uganda, Sudan, Kuwait, Pakistan
 | Kuwait part — Unit 2 Lesson 1: population density is the number of people divided by the area of the state; density differs between the Gulf States and Bahrain is the most densely populated; a 2022–2023 table gives each state's area, population, density and growth rate (Kuwait 4.9 million people on 17.8 thousand km², density 275.7 per km²) | Kuwait, *Kuwait Grade 6 Social Studies G6 T2*, Unit 2 Lesson 1: population density is the number of people divided by the area of the state; density differs between the Gulf States and Bahrain is the most densely populated; a 2022–2023 table gives each state's area, population, density and growth rate (Kuwait 4.9 million people on 17.8 thousand km², density 275.7 per km²) — printed p. 41 |
 | Pakistan part — Population density and its formula (density = total population ÷ total area), with world density map | Pakistan, *Pakistan Grade 5 SS5*, Population density and its formula (density = total population ÷ total area), with world density map — printed pp. 81–82 |
 | Libya part — Ch.5: الكثافة السكانية — Population density in the Arab World | Libya, *Libya Grade 8 LY G8 Arab World*, Ch.5: الكثافة السكانية — Population density in the Arab World — printed p. 57 |
+| Mozambique part — Lição 1: densidade populacional with worked calculation | Mozambique, *Mozambique Grade 7 PESD I Mod 2*, Lição 1: densidade populacional with worked calculation — printed p. 11 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Eritrea, Slovenia, Uganda, Sudan, Kuwait, Pakistan, Libya). Morocco is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 9 countries (Ethiopia, Eritrea, Slovenia, Uganda, Sudan, Kuwait, Pakistan, Libya, Mozambique). Morocco is named here as teacher-guide evidence only, counted nowhere.**
 
 Morocco's own way (teacher guide — evidence): in Morocco's Year 5 guide, population density is met inside "Population in my homeland — distribution and structure", where the meaning of population density belongs to reading the homeland's own population — its distribution read from Morocco's density map is stocked as its own lesson (Morocco's Population Distribution). That evidence is stocked here as the way Morocco teaches this thing; it does not change the acceptance count above.
 
@@ -60,3 +63,5 @@ Kuwait's own way (Kuwait Grade 6 Social Studies G6 T2): Term 2 turns from the re
 Pakistan's own way (Pakistan Grade 5 SS5): the Class 5 Geography chapter (Ch.5, printed pp. 51–85) deepens the Class 4 spiral — same BOLTS, landforms, weather and population topics, but now with scale types, latitude/longitude and time-zone arithmetic, worked population-density calculations, and graph-drawing exercises from real Pakistani city data.
 
 Libya's own way (Libya Grade 8 LY G8 Arab World): The scale widens from Libya (Grade 7) to the whole Arab homeland: one regional geography — location and strategic importance, relief, climate, vegetation, population, economic resources and transport — closed by a full unit on the Arab food problem and food security.
+
+Mozambique's own way (Mozambique Grade 7 PESD I Mod 2): human/economic geography organised sector by sector — population first, then each economic activity taught world-then-Mozambique (agriculture, livestock, fishing, forestry, industry, commerce, tourism, transport), with Mozambique's own distribution tables, ports and exports as the local evidence.

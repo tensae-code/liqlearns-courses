@@ -1,6 +1,6 @@
 # Sources — Land-Shaping Forces — The External Forces
 
-countries: Ethiopia, Moldova
+countries: Ethiopia, Moldova, Mozambique
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Moldova
 
 **Book 4:** *Geografie — Manual pentru clasa a VIII-a (Vitalie Sochircă, Nicolae Boboc, Natalia Cozma)* (student book, Romanian) — Știința; year 2024 edition (imprint data run to 2024); ISBN 978-9975-85-446-7. Title as printed: Geografie — Manual pentru clasa a VIII-a (Vitalie Sochircă, Nicolae Boboc, Natalia Cozma). Grade: 8 (student/teacher: STUDENT). PDF pages: 138 (cover verified against the record title; 19,985,457 bytes = record size exactly, eduresurse.gov.md download completed by resume loop after a truncated first attempt; the repo tree/blob route returned 404). Verdict: COMPLETE. 12 records / 6 distinct books (TSV + books.json duplicates of the same 6 manuals) — read from the recorded ministry source URLs (eduresurse.gov.md / ctice.md) after the GitHub API route disconnected twice; byte size and page count verified against each record before reading; full text-layer page-by-page reads, as the placements file header records. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/moldova-placements.md.
 
+**Book 5:** *Módulo 1 de Geografia (GEOGRAFIA — MÓDULO 1, PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo)* (student book, Portuguese) — Ministério da Educação e Desenvolvimento Humano (MINEDH) / Instituto de Educação Aberta e à Distância (IEDA); year 2023; no ISBN printed. Title as printed: Módulo 1 de Geografia (GEOGRAFIA — MÓDULO 1, PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo). Grade: Grades 7–9 cycle, filed as Grade 7 (student/teacher: STUDENT). PDF pages: 143 (cover/title page verified against the record title; byte size 10,033,146 matches the books.json record exactly; read via the record's IEDA source URL after grab.py failed twice on both routes with RemoteDisconnected — GitHub API unreachable from this host). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Forces that come from outside | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed p. 16 |
@@ -17,8 +19,9 @@ countries: Ethiopia, Moldova
 | Sub lesson 3 — Levelling what the internal forces built | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed p. 16 |
 | Moldova part — §10 External factors modelling the crust (weathering, water, wind, ice) | Moldova, *Moldova Grade 5 G5 Geography*, §10 External factors modelling the crust (weathering, water, wind, ice) — printed p. 39 |
 | Moldova part — 5. Exogenous processes in Moldova (erosion, landslides, ravines) | Moldova, *Moldova Grade 8 G8 Geography*, 5. Exogenous processes in Moldova (erosion, landslides, ravines) — printed p. 24 |
+| Mozambique part — Lição 25: O relevo terrestre — agentes externos, tipos de erosão (fluvial etc.) | Mozambique, *Mozambique Grade 7 PESD I Mod 1*, Lição 25: O relevo terrestre — agentes externos, tipos de erosão (fluvial etc.) — printed p. 126 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Moldova).**
+**Acceptance count: taught in 3 countries (Ethiopia, Moldova, Mozambique).**
 
 Pairing warning: the Grade 8 teacher guide is an Addis Ababa bureau book and the student book is an Amhara bureau book; they are NOT edition-matched, and the guide in hand is truncated (printed pp. 1–47 only, Units 1–3). Pupil content in this lesson comes from the Amhara student book; anything from the guide is labelled (teacher guide — evidence) and never presented as pupil-taught.
 
@@ -27,3 +30,5 @@ Searchable tags: land-shaping forces   the external forces, ethiopia, social stu
 Moldova's own way (Moldova Grade 5 G5 Geography): first Geography year built as a single Earth-systems arc — planet, envelopes (lithosphere/atmosphere/hydrosphere/biosphere), human society, then a closing "Protecting the Earth" chapter; every paragraph opens with "you will be able to" outcomes and chapters close with evaluation tests, plus two practical applications (map work; a week-long weather calendar).
 
 Moldova's own way (Moldova Grade 8 G8 Geography): the home-country year — a full physical geography of the Republic of Moldova only (position and extreme points, structural units and minerals, relief units, climate and seasons, the Nistru/Prut river system, soils, steppe and forest-steppe zones), ending with its protected areas (national parks, scientific and landscape reserves, nature monuments) and Moldova in the context of sustainable development; hydrographic objects and protected areas are described "by algorithm" in set practicals.
+
+Mozambique's own way (Mozambique Grade 7 PESD I Mod 1): distance-learning self-study module — every lesson follows the same rhythm (introduction, development with worked examples, exercises, answer key, lesson summary); the four Earth spheres are the organising spine of the whole module, each sphere closed by a "use, protection and conservation" lesson; local anchors throughout (Maputo temperature worked example, Zambezi delta, Moma/Namialo weather contrast).

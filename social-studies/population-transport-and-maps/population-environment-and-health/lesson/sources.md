@@ -1,6 +1,6 @@
 # Sources — Population, environment and health
 
-countries: Ethiopia, Fiji, Nepal
+countries: Ethiopia, Fiji, Nepal, Mozambique
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Fiji, Nepal
 
 **Book 5:** *Shikshak Nirdeshika Samajik Adhyayan Kaksha 10 (Teacher's Guide Social Studies Grade 10)* (teacher guide, Nepali) — Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; year prepared against the 2078 basic-education curriculum (imprint); ISBN no ISBN printed. Title as printed: Shikshak Nirdeshika Samajik Adhyayan Kaksha 10 (Teacher's Guide Social Studies Grade 10). Grade: Grade 10 (student/teacher: TEACHER). PDF pages: 301 (cover/title page verified against the record title — Devanagari title page matches; page references below are the guide's PDF pages). Verdict: COMPLETE. Non-Geography parts named (not placed): Units 1–5, 7, 9 as in the student book (society, development/federalism framing except HDI/sustainable development, values, social problems, civics, History, international relations), Unit 8 Lessons 3–9 (financial education/instruments, cooperatives, savings, revenue, periodic plans), population Unit Lesson 6 Community health. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nepal-placements.md.
 
+**Book 6:** *Módulo 5 de Geografia — População* (student book, Portuguese) — Ministério da Educação / IEDA; year not printed (uploaded to IEDA site 2022); no ISBN printed. Title as printed: Módulo 5 de Geografia — População. Grade: Grades 10–12 cycle (2º Ciclo), filed as Grade 10 (student/teacher: STUDENT). PDF pages: 109 (title page verified against the record title; byte size 5,447,158 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The burden, counted | G12 student #52, printed pp. 115–122 |
@@ -20,8 +22,9 @@ countries: Ethiopia, Fiji, Nepal
 | Fiji part — 1.1.5 Impacts of Population Change | Fiji, *Fiji Years 11–12 Geography*, 1.1.5 Impacts of Population Change — printed p. 18 |
 | Nepal part — Unit 10 Lesson 5: Interrelation of population and environment | Nepal, *Nepal Grade 10 np-g10*, Unit 10 Lesson 5: Interrelation of population and environment — printed p. 301 |
 | Nepal part — Population Unit Lesson 5: Interrelation of population and environment (teacher guide — evidence) | Nepal, *Nepal Grade 10 TG np-g10tg* (teacher guide), Population Unit Lesson 5: Interrelation of population and environment — TG p. 269 |
+| Mozambique part — Lição 11: Problemas Demográficos (food inequality, WHO definition of health, literacy gaps — under 5% illiterate in developed countries) | Mozambique, *Mozambique Grade 10 PESD II Mod 5*, Lição 11: Problemas Demográficos (food inequality, WHO definition of health, literacy gaps — under 5% illiterate in developed countries) — printed p. 76 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Fiji, Nepal).**
+**Acceptance count: taught in 4 countries (Ethiopia, Fiji, Nepal, Mozambique).**
 
 Figure honesty carried from the placements: the book's Figure 4.5 caption prints 'Diseas Transmission' — taught corrected as 'disease transmission' and named here only. The disease-burden figure is taught in the book's own hedged wording ('an estimated 174–234 million-scale share, as the book reports it') — the placements themselves report it in that hedged form, and this lesson does not sharpen it into a harder number.
 
@@ -34,3 +37,5 @@ Fiji's own way (Fiji Years 11–12 Geography): Senior geography splits into Huma
 Nepal's own way (Nepal Grade 10 np-g10): Grade 10 climate is taught by world climate types and the three heat zones (tropical, temperate, cold), then continent studies of North America, South America and Africa, earthquakes, map work and modern map technology (GIS); population closes the book — Nepal's size/growth, structure, distribution, family planning and the population–environment interrelation.
 
 Nepal's own way (Nepal Grade 10 TG np-g10tg) (teacher guide — evidence): The guide teaches the Grade 10 course of np-g10 lesson for lesson, adding map- and chart-based activities (world climate maps, heat-zone maps, continent maps comparing life and economic activity with Nepal) and earthquake-preparedness practice; placements mirror the student book with guide page references. That evidence is stocked here as the way Nepal teaches this thing; it is cited as evidence only — Nepal is counted in this lesson through its student book(s).
+
+Mozambique's own way (Mozambique Grade 10 PESD II Mod 5): population geography taught as a developed-world/developing-world contrast throughout — distribution factors, growth, Malthus and the transition, then the two evolutions (developed countries; the "Terceiro Mundo" set) with their opposite population policies, closing on structures, demographic problems (incl. HIV cutting life expectancy below 50) and population–economy/environment relations.

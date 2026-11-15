@@ -1,6 +1,6 @@
 # Sources — Drainage patterns — what rivers draw
 
-countries: Ethiopia, Fiji, Sri Lanka
+countries: Ethiopia, Fiji, Sri Lanka, Mozambique
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Fiji, Sri Lanka
 
 **Book 5:** *Geography, Grade 9* (student book, English) — Educational Publications Department; first print 2017, third print 2019; ISBN 978-955-25-0166-1. Title as printed: Geography, Grade 9. Grade: 9 (student/teacher: STUDENT). PDF pages: printed pp. 1–95 approx. plus front matter (cover/title and index verified against the record; GitHub grab failed with RemoteDisconnected, so the book was read via the record's archive.org source PDF — the same Educational Publications Department edition; chapters read in full, with the parallel Grade 9 Teacher's Guide (Book 1) confirming unit structure). Verdict: COMPLETE. Parallel edition named in the placements file: the Tamil student book (Book 4a, 2019), contents matching chapter for chapter, with a Tamil–English–Sinhala glossary — placed once under this English edition, that edition named here. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sri-lanka-placements.md.
 
+**Book 6:** *Módulo 4 de Geografia — Pedogeografia e Hidrogeografia* (student book, Portuguese) — Ministério da Educação / IEDA; year not printed (uploaded to IEDA site 2022); no ISBN printed. Title as printed: Módulo 4 de Geografia — Pedogeografia e Hidrogeografia. Grade: Grades 10–12 cycle (2º Ciclo), filed as Grade 10 (student/teacher: STUDENT). PDF pages: 92 (title page verified against the record title; byte size 1,351,167 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE (the book mis-numbers its lessons: two different lessons are both headed "Lição 6" — Importância dos Solos at printed p. 28 and Conceito de Hidrogeografia at printed p. 36; there is no Lição 5 heading). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Dendritic and trellis | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 8, printed pp. 227–228 |
@@ -21,8 +23,9 @@ countries: Ethiopia, Fiji, Sri Lanka
 | Fiji part — Geography of Fiji: rivers and drainage (radial, meandering and braided patterns; Rewa — widest/largest, Sigatoka — longest, Dreketi — deepest) | Fiji, *Fiji Year 10 Social Science*, Geography of Fiji: rivers and drainage (radial, meandering and braided patterns; Rewa — widest/largest, Sigatoka — longest, Dreketi — deepest) — printed p. 56 |
 | Sri Lanka part — 9.2.1 Drainage of Sri Lanka: 103 rivers, radial pattern from the Central Hill Country, perennial vs seasonal rivers (teacher guide — evidence) | Sri Lanka, *Sri Lanka Grade 9 G9 TG English 2018* (teacher guide), 9.2.1 Drainage of Sri Lanka: 103 rivers, radial pattern from the Central Hill Country, perennial vs seasonal rivers — printed p. 14 |
 | Sri Lanka part — Ch. 2 Drainage of Sri Lanka: radial river pattern from the hill country, main river basins | Sri Lanka, *Sri Lanka Grade 9 G9 English*, Ch. 2 Drainage of Sri Lanka: radial river pattern from the hill country, main river basins — printed p. 32 |
+| Mozambique part — Lição 6: drainage networks (dendritic vs radial) and the world's greatest rivers table [placement slug: the-land-and-air/drawing-a-watershed-boundary] | Mozambique, *Mozambique Grade 10 PESD II Mod 4*, Lição 6: drainage networks (dendritic vs radial) and the world's greatest rivers table — printed p. 41 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Fiji, Sri Lanka).**
+**Acceptance count: taught in 4 countries (Ethiopia, Fiji, Sri Lanka, Mozambique).**
 
 No book error is flagged for this lesson's pages in the placements. The student book's body numbering for Unit Two drifts from its own contents (regions printed as 2.4, factors as 2.5, local classification as 2.6, where the contents and the teacher guide's contents agree on 2.3, 2.4 and 2.5); this lesson follows the contents numbering and teaches no misprint.
 
@@ -33,3 +36,5 @@ Fiji's own way (Fiji Year 10 Social Science): Year 10 is the foundation for seni
 Sri Lanka's own way (Sri Lanka Grade 9 G9 TG English 2018) (teacher guide — evidence): competency-based guide — every unit pairs a syllabus table (competency level, content, learning outcomes, periods) with lesson-planning notes and a specimen group activity; geography is taught region-first (Asia, then Sri Lanka itself in depth), closing with hands-on 1:50,000 topographic-sheet work (Matara sheet No. 91). That evidence is stocked here as the way Sri Lanka teaches this thing; it is cited as evidence only — Sri Lanka is counted in this lesson through its student book(s).
 
 Sri Lanka's own way (Sri Lanka Grade 9 G9 English): the student companion to Book 1 — five chapters moving from the whole Asian region down to Sri Lanka's own landscape, its district-by-district development contrasts, environmental balance, and a closing practical chapter reading the 1:50,000 topographic maps.
+
+Mozambique's own way (Mozambique Grade 10 PESD II Mod 4): two half-courses bound together — pedogeography (soil composition, profile, properties, pedogenesis, Dokuchaev classification, soil conservation with terrace/sucalco practice) then hydrogeography (basins and river regimes, groundwater, water balance, lakes, oceans, tides and currents).

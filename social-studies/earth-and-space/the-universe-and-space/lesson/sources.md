@@ -1,6 +1,6 @@
 # Sources — The Universe and Space
 
-countries: Ethiopia, Dominican Republic, Colombia, India, Sudan, Syria, Kuwait, Afghanistan, Yemen
+countries: Ethiopia, Dominican Republic, Colombia, India, Sudan, Syria, Kuwait, Afghanistan, Yemen, Mozambique
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page - 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Dominican Republic, Colombia, India, Sudan, Syria, Kuwait, 
 
 **Book 9:** *جغرافية الإنسان والبيئة للصف الأول الثانوي (Geography of Man and the Environment for the First Secondary Grade = Grade 10)* (student book, Arabic) — Republic of Yemen, Ministry of Education; year 1438 AH / 2017 CE; ISBN no ISBN printed. Title as printed: جغرافية الإنسان والبيئة للصف الأول الثانوي (Geography of Man and the Environment for the First Secondary Grade = Grade 10). Grade: 10 (student/teacher: STUDENT). PDF pages: 179 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the Wayback Machine capture of its own recorded Yemen MoE source URL (the source_url in its books.json record) after the GitHub routes (grab.py release + tree) failed from the reader's host — the same ministry file the repo copies were taken from; cover/title page verified visually against the record title. TSV + books.json records for the same grade are the same book, placed once. Read note: legacy Arabic font encoding in the text layer; structure read from rendered contents and lesson pages. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/yemen-placements.md.
 
+**Book 10:** *Módulo 1 de Geografia (GEOGRAFIA — MÓDULO 1, PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo)* (student book, Portuguese) — Ministério da Educação e Desenvolvimento Humano (MINEDH) / Instituto de Educação Aberta e à Distância (IEDA); year 2023; no ISBN printed. Title as printed: Módulo 1 de Geografia (GEOGRAFIA — MÓDULO 1, PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo). Grade: Grades 7–9 cycle, filed as Grade 7 (student/teacher: STUDENT). PDF pages: 143 (cover/title page verified against the record title; byte size 10,033,146 matches the books.json record exactly; read via the record's IEDA source URL after grab.py failed twice on both routes with RemoteDisconnected — GitHub API unreachable from this host). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The universe: boundless space holding all matter | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 1, printed p. 4 |
@@ -36,8 +38,9 @@ countries: Ethiopia, Dominican Republic, Colombia, India, Sudan, Syria, Kuwait, 
 | Kuwait part — Part Two, Chapter 1: moons are dark bodies that take their light from reflected sunlight and follow the planets; stars are luminous bodies of hydrogen and helium at very high heat, and the nearest star to us is the Sun; the galaxy around us is the Milky Way, in which the solar system rides like a giant wheel about three-fifths of the way from the centre to the edge, circling the galaxy's centre | Kuwait, *Kuwait Grade 11 Geography Principles G11 T1*, Part Two, Chapter 1: moons are dark bodies that take their light from reflected sunlight and follow the planets; stars are luminous bodies of hydrogen and helium at very high heat, and the nearest star to us is the Sun; the galaxy around us is the Milky Way, in which the solar system rides like a giant wheel about three-fifths of the way from the centre to the edge, circling the galaxy's centre — printed p. 49 |
 | Afghanistan part — Ch. 6 Lessons 47–48: theories about the origin of the universe; the galaxy | Afghanistan, *Afghanistan Grade 10 Geography (Dari)*, Ch. 6 Lessons 47–48: theories about the origin of the universe; the galaxy — printed p. 161 |
 | Yemen part — Unit 1 Lesson 1 Man and the Exploration of Space | Yemen, *Yemen Grade 10 G10 Geography of Man and the Environment*, Unit 1 Lesson 1 Man and the Exploration of Space — printed p. 8 |
+| Mozambique part — Lição 5: A Terra e o Universo (concept, origin, evolution, celestial bodies: stars, satellites, nebulae, meteorites, galaxies) | Mozambique, *Mozambique Grade 7 PESD I Mod 1*, Lição 5: A Terra e o Universo (concept, origin, evolution, celestial bodies: stars, satellites, nebulae, meteorites, galaxies) — printed p. 32 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Dominican Republic, Colombia, India, Sudan, Syria, Kuwait, Afghanistan, Yemen).**
+**Acceptance count: taught in 10 countries (Ethiopia, Dominican Republic, Colombia, India, Sudan, Syria, Kuwait, Afghanistan, Yemen, Mozambique).**
 
 No book errors are flagged by the placements for these pages.
 
@@ -58,3 +61,5 @@ Kuwait's own way (Kuwait Grade 11 Geography Principles G11 T1): Geography is tau
 Afghanistan's own way (Afghanistan Grade 10 Geography (Dari)): the upper-secondary pattern changes from continent tours to themes studied in depth through Afghanistan itself: a full map-skills chapter (map types, scale, colour, projection, satellite photos), Afghanistan's climate and each of its river basins one by one (Amu, Kabul, Helmand–Sistan, Harirud, the closed basins), an environment-protection chapter aimed at Kabul's air and streets, a natural-hazards chapter, then earth-and-space and atmosphere chapters.
 
 Yemen's own way (Yemen Grade 10 G10 Geography of Man and the Environment): secondary geography is thematic, not regional — man and space, man representing his geographic field (remote sensing, projections, maps), man organising it (rural/urban), climate and water, the dynamic Earth, and the great environmental systems.
+
+Mozambique's own way (Mozambique Grade 7 PESD I Mod 1): distance-learning self-study module — every lesson follows the same rhythm (introduction, development with worked examples, exercises, answer key, lesson summary); the four Earth spheres are the organising spine of the whole module, each sphere closed by a "use, protection and conservation" lesson; local anchors throughout (Maputo temperature worked example, Zambezi delta, Moma/Namialo weather contrast).

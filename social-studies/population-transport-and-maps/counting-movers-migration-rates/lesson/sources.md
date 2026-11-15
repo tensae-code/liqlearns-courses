@@ -1,6 +1,6 @@
 # Sources — Counting movers — migration rates
 
-countries: Ethiopia, Papua New Guinea, Nepal
+countries: Ethiopia, Papua New Guinea, Nepal, Mozambique
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Papua New Guinea, Nepal
 
 **Book 4:** *Samajik Adhyayan tatha Jivan Upyogi Shiksha Kaksha 12 (Social Studies and Life Skills Education Grade 12)* (student book, Nepali) — Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; year First edition (2078 BS sequence); ISBN no ISBN legibly printed. Title as printed: Samajik Adhyayan tatha Jivan Upyogi Shiksha Kaksha 12 (Social Studies and Life Skills Education Grade 12). Grade: Grade 12 (student/teacher: STUDENT). PDF pages: 365 (cover/title page verified against the record title — Devanagari title page matches). Verdict: COMPLETE. Non-Geography parts named (not placed): Unit 1 Concept of Social Studies and Life Skills Education (printed pp. 1–8); Unit 2 Digital skills and general research skills except data analysis/presentation (pp. 9–46); Unit 3 Life skills (pp. 47–73); Unit 4 Development of society and philosophy (pp. 74–101); Unit 6 History of Nepal (pp. 147–191, History); Unit 7 Social identity and diversity (pp. 192–224); Unit 8 Constitution and civic consciousness (pp. 225–264, civics); Unit 10 Lessons 2–3, 5 Nepal's foreign policy and Nepal–India/Nepal–China relations, foreign employment policy (pp. 302–324); Unit 11 Education and social development (pp. 336–357). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nepal-placements.md.
 
+**Book 5:** *Módulo 2 de Geografia (GEOGRAFIA — MÓDULO 2, PESD I)* (student book, Portuguese) — MINEDH / IEDA; year 2023; no ISBN printed. Title as printed: Módulo 2 de Geografia (GEOGRAFIA — MÓDULO 2, PESD I). Grade: Grades 7–9 cycle, filed as Grade 7 (student/teacher: STUDENT). PDF pages: 167 (cover verified against the record title; byte size 6,444,493 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE (note: Lição 13's body heading mistakenly repeats "actividade pecuária" wording from Lição 16 — the book's own copy error; content and summary are the agriculture environmental-problems lesson as titled). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — In and out, per thousand | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 4, printed pp. 116 |
@@ -18,8 +20,9 @@ countries: Ethiopia, Papua New Guinea, Nepal
 | Teaching sequence and answer keys (teacher guide — evidence) | Ethiopia, *Geography, Teacher Guide, Grade 11*, Unit 4, guide printed pp. 111–135 |
 | Papua New Guinea part — Unit 3 People and Resources, Topic 1: Global migration trends and patterns (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 12 Geography TG SBC* (teacher guide), Unit 3 People and Resources, Topic 1: Global migration trends and patterns — printed p. 61 |
 | Nepal part — Unit 9 Lesson 6: Trends of migration | Nepal, *Nepal Grade 12 np-g12*, Unit 9 Lesson 6: Trends of migration — printed p. 286 |
+| Mozambique part — Lição 3: saldo migratório (SM = I – E) and effective growth | Mozambique, *Mozambique Grade 7 PESD I Mod 2*, Lição 3: saldo migratório (SM = I – E) and effective growth — printed p. 22 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Nepal). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 3 countries (Ethiopia, Nepal, Mozambique). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 No book error is flagged for this lesson's pages in the placements. The student book's body numbering for Unit Two drifts from its own contents (regions printed as 2.4, factors as 2.5, local classification as 2.6, where the contents and the teacher guide's contents agree on 2.3, 2.4 and 2.5); this lesson follows the contents numbering and teaches no misprint.
 
@@ -28,3 +31,5 @@ Searchable tags: migration rates, net migration rate, immigration emigration, et
 Papua New Guinea's own way (Papua New Guinea Grade 12 Geography TG SBC) (teacher guide — evidence): Grade 12 Geography closes with global population and mega-cities, a full migration unit, and a seven-topic climate-change unit that ends at home — the impact of climate change in PNG and the regions affected. That evidence is stocked here as the way Papua New Guinea teaches this thing; it does not change the acceptance count above.
 
 Nepal's own way (Nepal Grade 12 np-g12): Grade 12 geography is federal and applied — each of Nepal's provinces studied four ways (administration, population, social-cultural life, economy) plus inter-provincial relations; disasters in Nepal with the national disaster-management system and plan-making; GIS/geo-information in social mapping; and a full urbanisation-and-migration unit (village–city relations, safe and dignified migration, migration effects).
+
+Mozambique's own way (Mozambique Grade 7 PESD I Mod 2): human/economic geography organised sector by sector — population first, then each economic activity taught world-then-Mozambique (agriculture, livestock, fishing, forestry, industry, commerce, tourism, transport), with Mozambique's own distribution tables, ports and exports as the local evidence.

@@ -1,6 +1,6 @@
 # Sources — Parts every map must have
 
-countries: Ethiopia, Palestine, Samoa, Eritrea, Rwanda, Fiji, Papua New Guinea, Sudan, Pakistan
+countries: Ethiopia, Palestine, Samoa, Eritrea, Rwanda, Fiji, Papua New Guinea, Sudan, Pakistan, Mozambique
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -32,6 +32,8 @@ countries: Ethiopia, Palestine, Samoa, Eritrea, Rwanda, Fiji, Papua New Guinea, 
 
 **Book 15:** *معاشرتی علوم جماعت پنجم (Social Studies, Class 5), Single National Curriculum 2020* (student book, Urdu with English topic glosses) — Punjab Curriculum and Textbook Board (PCTB), Lahore; year 2022; ISBN no ISBN printed. Title as printed: معاشرتی علوم جماعت پنجم (Social Studies, Class 5), Single National Curriculum 2020. Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 114 (cover/title page verified against the record title; this book is also the TSV blob-URL record — same repo path, one book). Verdict: COMPLETE. All Pakistan PCTB books are image-only scans (no text layer); read page-by-page from 90–100 DPI 4-up contact sheets, covers verified visually (placements file header: 3 books read in place from phase3-staging, 2 grabbed via grab.py tree route; the 4 Telegram link records are the same PCTB books already held in staging/GitHub, so no new download or staging arose from them). This book is also the TSV blob-URL record — same repo path, one book. Non-Geography parts named, not placed: Ch.1 Citizenship, printed pp. 1–9; Ch.2 Culture, pp. 10–24; Ch.3 State and Government, pp. 25–32; Ch.4 History, pp. 33–50; Ch.6 Economics, pp. 86–108; Glossary, p. 109 Placements at liqlearns-courses-work/expansion-geography-2026-11-14/pakistan-placements.md.
 
+**Book 16:** *Módulo 1 de Geografia (GEOGRAFIA — MÓDULO 1, PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo)* (student book, Portuguese) — Ministério da Educação e Desenvolvimento Humano (MINEDH) / Instituto de Educação Aberta e à Distância (IEDA); year 2023; no ISBN printed. Title as printed: Módulo 1 de Geografia (GEOGRAFIA — MÓDULO 1, PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo). Grade: Grades 7–9 cycle, filed as Grade 7 (student/teacher: STUDENT). PDF pages: 143 (cover/title page verified against the record title; byte size 10,033,146 matches the books.json record exactly; read via the record's IEDA source URL after grab.py failed twice on both routes with RemoteDisconnected — GitHub API unreachable from this host). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The checklist | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 8, printed pp. 199–201 |
@@ -50,8 +52,9 @@ countries: Ethiopia, Palestine, Samoa, Eritrea, Rwanda, Fiji, Papua New Guinea, 
 | Sudan part — The picture and the map; the elements of a map | Sudan, *Sudan Grade 5 SD Geography 5*, The picture and the map; the elements of a map — printed p. 7 |
 | Pakistan part — BOLTS: Border, Orientation, Legend, Title, Scale | Pakistan, *Pakistan Grade 4 SS4*, BOLTS: Border, Orientation, Legend, Title, Scale — printed p. 63 |
 | Pakistan part — BOLTS in depth (border, orientation with intermediate directions, legend/conventional signs incl. contours, title, scale) | Pakistan, *Pakistan Grade 5 SS5*, BOLTS in depth (border, orientation with intermediate directions, legend/conventional signs incl. contours, title, scale) — printed pp. 51–53 |
+| Mozambique part — Lição 3: Elementos de um Mapa | Mozambique, *Mozambique Grade 7 PESD I Mod 1*, Lição 3: Elementos de um Mapa — printed p. 22 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Palestine, Samoa, Eritrea, Rwanda, Fiji, Sudan, Pakistan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 9 countries (Ethiopia, Palestine, Samoa, Eritrea, Rwanda, Fiji, Sudan, Pakistan, Mozambique). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Searchable tags: map components, title, scale, north point, legend, declination, social studies
 
@@ -80,3 +83,5 @@ Sudan's own way (Sudan Grade 5 SD Geography 5): The first-ever Geography book in
 Pakistan's own way (Pakistan Grade 4 SS4): one combined Social Studies book in Urdu where the Geography chapter (Ch.5, printed pp. 61–93) works entirely through Pakistan's own map, landforms, weather and census, with BOLTS as the map-elements mnemonic and "I have learnt!" / "Work for me to do" boxes closing every topic.
 
 Pakistan's own way (Pakistan Grade 5 SS5): the Class 5 Geography chapter (Ch.5, printed pp. 51–85) deepens the Class 4 spiral — same BOLTS, landforms, weather and population topics, but now with scale types, latitude/longitude and time-zone arithmetic, worked population-density calculations, and graph-drawing exercises from real Pakistani city data.
+
+Mozambique's own way (Mozambique Grade 7 PESD I Mod 1): distance-learning self-study module — every lesson follows the same rhythm (introduction, development with worked examples, exercises, answer key, lesson summary); the four Earth spheres are the organising spine of the whole module, each sphere closed by a "use, protection and conservation" lesson; local anchors throughout (Maputo temperature worked example, Zambezi delta, Moma/Namialo weather contrast).

@@ -1,6 +1,6 @@
 # Sources — Latitude and altitude — the two big controls
 
-countries: Ethiopia, Jamaica, Indonesia, Iran, Pakistan, Libya
+countries: Ethiopia, Jamaica, Indonesia, Iran, Pakistan, Libya, Mozambique
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Jamaica, Indonesia, Iran, Pakistan, Libya
 
 **Book 7:** *الاجتماعيات (التاريخ والجغرافيا) — Social Studies (History and Geography), Grade 6 of Basic Education* (student book, Arabic) — State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2019–2020 (1440–1441 AH); ISBN no ISBN printed. Title as printed: الاجتماعيات (التاريخ والجغرافيا) — Social Studies (History and Geography), Grade 6 of Basic Education. Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 120 (cover verified visually: "الاجتماعيات (التاريخ والجغرافيا) للصف السادس" — matches record; image-only scan, read via 100-DPI 4-up contact sheets; grabbed via grab.py release route, size verified by grab.py). Verdict: COMPLETE. TSV release records and books.json records are the same 8 books (each title appears once in each source) — read once via grab.py (GitHub API, size verified), as the placements file header records. Combined Social Studies books (Grades 5–6): Geography parts placed; History/Civics parts named in headers only. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/libya-placements.md.
 
+**Book 8:** *Módulo 2 de Geografia — Ambiente Bioclimático* (student book, Portuguese) — Ministério da Educação / IEDA; year not printed (uploaded to IEDA site 2022); no ISBN printed. Title as printed: Módulo 2 de Geografia — Ambiente Bioclimático. Grade: Grades 10–12 cycle (2º Ciclo), filed as Grade 10 (student/teacher: STUDENT). PDF pages: 137 (title page verified against the record title; byte size 7,185,973 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Latitude | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 2, printed pp. 41–43 |
@@ -26,8 +28,9 @@ countries: Ethiopia, Jamaica, Indonesia, Iran, Pakistan, Libya
 | Iran part — Iran's climate (latitude and sun angle; altitude and mountain direction as climate controls) | Iran, *Iran Grade 10 Geography of Iran*, Iran's climate (latitude and sun angle; altitude and mountain direction as climate controls) — printed p. 38 |
 | Pakistan part — Factors affecting climate: distance from the equator, altitude above sea level | Pakistan, *Pakistan Grade 5 SS5*, Factors affecting climate: distance from the equator, altitude above sea level — printed p. 74 |
 | Libya part — Unit 2: العوامل التي تؤثر في المناخ — Factors affecting climate (latitude position, height above sea level, distance from water bodies, rain shadow) | Libya, *Libya Grade 6 LY G6 Social Studies*, Unit 2: العوامل التي تؤثر في المناخ — Factors affecting climate (latitude position, height above sea level, distance from water bodies, rain shadow) — printed p. 84 |
+| Mozambique part — Lição 5: thermal zones by latitude; geological nature of the soil and temperature | Mozambique, *Mozambique Grade 10 PESD II Mod 2*, Lição 5: thermal zones by latitude; geological nature of the soil and temperature — printed p. 36 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Indonesia, Iran, Pakistan, Libya). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 6 countries (Ethiopia, Indonesia, Iran, Pakistan, Libya, Mozambique). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
 
 Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -40,3 +43,5 @@ Iran's own way (Iran Grade 10 Geography of Iran): the whole of Grade 10 geograph
 Pakistan's own way (Pakistan Grade 5 SS5): the Class 5 Geography chapter (Ch.5, printed pp. 51–85) deepens the Class 4 spiral — same BOLTS, landforms, weather and population topics, but now with scale types, latitude/longitude and time-zone arithmetic, worked population-density calculations, and graph-drawing exercises from real Pakistani city data.
 
 Libya's own way (Libya Grade 6 LY G6 Social Studies): The geography half is "Principles of Physical Geography" in four units — surface shaping, climate, water, pollution — with Libyan examples inside world content (the Haruj volcanic mountains, Libyan springs such as Ain al-Sharshara). Non-Geography part named, not placed: Topic One, History of Libya — the Ottoman State and Libya as an Ottoman province (printed pp. 12–18), Libya in the Ottoman era 1551–1912 including the Karamanli period (pp. 19–35), modern European colonialism and the Italian occupation of 1911 (pp. 36–43), Libyan resistance to the Italian occupation (pp. 44–54), Libya after the Italian era — liberation, the British/French military administrations, independence and the Libyan Kingdom (pp. 55–64).
+
+Mozambique's own way (Mozambique Grade 10 PESD II Mod 2): a full physical-climatology course — atmosphere structure to magnetosphere, heat balance, pressure/wind circulation, air masses and fronts, humidity and precipitation, the water cycle, then Köppen/Thornthwaite classification worked through climate tables with African station graphs (Arkassa, Tamanrasset, Algiers), closing on protection of bioclimatic resources.

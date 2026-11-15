@@ -1,6 +1,6 @@
 # Sources — Subsistence farming — feeding the nation
 
-countries: Ethiopia, Nauru, Tuvalu, Niue, India, Cambodia, Fiji
+countries: Ethiopia, Nauru, Tuvalu, Niue, India, Cambodia, Fiji, Mozambique
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Nauru, Tuvalu, Niue, India, Cambodia, Fiji
 
 **Book 8:** *An Introduction to Human Geography for Year 11 and Year 12 Students (record title: "Year 11 and Year 12 Geography")* (student book, English) — Fiji, Ministry of Education, Fiji; year 2015, First Edition (written and compiled by Maciu Rika and Elina Vosaicake); ISBN no ISBN printed. Title as printed: An Introduction to Human Geography for Year 11 and Year 12 Students (record title: "Year 11 and Year 12 Geography"). Grade: Years 11–12 (student/teacher: STUDENT). PDF pages: 92 (cover/title page verified against the record title). Verdict: COMPLETE. Acquisition note: read from the books.json record's own Wayback source_url (ministry original) after the grab.py GitHub API route failed as in Book 1. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
 
+**Book 9:** *Módulo 6 de Geografia — Agricultura e Pecuária (title page misprints the subject word as "Gografia")* (student book, Portuguese) — Ministério da Educação / IEDA; year not printed (uploaded to IEDA site 2022); no ISBN printed. Title as printed: Módulo 6 de Geografia — Agricultura e Pecuária (title page misprints the subject word as "Gografia"). Grade: Grades 10–12 cycle (2º Ciclo), filed as Grade 10 (student/teacher: STUDENT). PDF pages: 80 (title page verified against the record title; byte size 3,049,875 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Its character | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 5, printed pp. 132–134 |
@@ -29,8 +31,9 @@ countries: Ethiopia, Nauru, Tuvalu, Niue, India, Cambodia, Fiji
 | India part (Grade 8 Resources and Development) — Ch.4: intensive subsistence agriculture and where it is practised | India, *India Grade 8 Resources and Development*, Ch.4: intensive subsistence agriculture and where it is practised — printed p. 39 |
 | Cambodia part — Geography Ch.1 L5 កសិករនៅអាស៊ីមូសុង (farmers in monsoon Asia — wet rice) | Cambodia, *Cambodia Grade 7 Social Studies*, Geography Ch.1 L5 កសិករនៅអាស៊ីមូសុង (farmers in monsoon Asia — wet rice) — printed p. 18 |
 | Fiji part — 3.1.3 Subsistence and commercial agriculture (with 3.1.5 importance of agriculture) | Fiji, *Fiji Years 11–12 Geography*, 3.1.3 Subsistence and commercial agriculture (with 3.1.5 importance of agriculture) — printed p. 52 |
+| Mozambique part — Lição 4: Sistemas Agrários e Níveis de Desenvolvimento (subsistence agriculture characteristics; rural landscape predominance) | Mozambique, *Mozambique Grade 10 PESD II Mod 6*, Lição 4: Sistemas Agrários e Níveis de Desenvolvimento (subsistence agriculture characteristics; rural landscape predominance) — printed p. 31 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Nauru, Tuvalu, Niue, India, Cambodia, Fiji).**
+**Acceptance count: taught in 8 countries (Ethiopia, Nauru, Tuvalu, Niue, India, Cambodia, Fiji, Mozambique).**
 
 Niue's own way: Niue uses the shared Pacific ESD reader suite (Niue advisor Birtha Togahai) — land Geography is taught through Pacific farming itself: taro, pulaka and the coconut "tree of life", with Niue's own crops, exports and name-story ("behold the coconut") as anchor examples, and shifting cultivation/fallowing taught as sound science. That way is stocked here as the way Niue teaches this thing.
 
@@ -45,3 +48,5 @@ India's own way (Grade 8 Resources and Development): Grade 8 is a resources year
 Cambodia's own way (Cambodia Grade 7 Social Studies): from Grade 7 the combined Social Studies book splits into four named subject sections; its Geography section teaches people-in-environments — hot zones, deserts and oases, polar peoples, climate zones — through world case studies (Kenya farmers, Amazon, Inuit, Sahara oil) before turning to world population.
 
 Fiji's own way (Fiji Years 11–12 Geography): Senior geography splits into Human and Physical volumes; the human volume is organised as four issue-chapters (population/settlement, tourism, agriculture, marine resources), each run the same way — nature, problems, ways of minimising, contemporary issues, future — with Pacific/Fiji theme-country cases.
+
+Mozambique's own way (Mozambique Grade 10 PESD II Mod 6): farming taught historically first — the Neolithic revolution, the Iron civilisation, and what the Industrial Revolution gave agriculture — then agrarian space and its natural/human factors, farming systems by development level, and the tropical systems (dryland, oasis, monsoon rice) before modern farming and livestock.

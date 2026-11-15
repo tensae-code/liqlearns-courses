@@ -1,6 +1,6 @@
 # Sources — Measuring temperature and rainfall
 
-countries: Ethiopia, Turkey, Dominican Republic, Colombia, Eritrea, India, Cambodia, Rwanda, Slovenia, Vietnam, Papua New Guinea, Uganda, Sri Lanka, Mauritania, Pakistan, Libya, Moldova
+countries: Ethiopia, Turkey, Dominican Republic, Colombia, Eritrea, India, Cambodia, Rwanda, Slovenia, Vietnam, Papua New Guinea, Uganda, Sri Lanka, Mauritania, Pakistan, Libya, Moldova, Mozambique
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -52,6 +52,8 @@ countries: Ethiopia, Turkey, Dominican Republic, Colombia, Eritrea, India, Cambo
 
 **Book 25:** *Geografie — Manual pentru clasa a V-a* (student book, Romanian) — Editura Lumina, Chișinău; year 2015; ISBN printed (number not fully legible in the scan). Title as printed: Geografie — Manual pentru clasa a V-a. Grade: 5 (student/teacher: STUDENT). PDF pages: 128 (cover/title page verified against the record title; 16,733,891 bytes = record size exactly). Verdict: COMPLETE. 12 records / 6 distinct books (TSV + books.json duplicates of the same 6 manuals) — read from the recorded ministry source URLs (eduresurse.gov.md / ctice.md) after the GitHub API route disconnected twice; byte size and page count verified against each record before reading; full text-layer page-by-page reads, as the placements file header records. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/moldova-placements.md.
 
+**Book 26:** *Módulo 2 de Geografia — Ambiente Bioclimático* (student book, Portuguese) — Ministério da Educação / IEDA; year not printed (uploaded to IEDA site 2022); no ISBN printed. Title as printed: Módulo 2 de Geografia — Ambiente Bioclimático. Grade: Grades 10–12 cycle (2º Ciclo), filed as Grade 10 (student/teacher: STUDENT). PDF pages: 137 (title page verified against the record title; byte size 7,185,973 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Thermometers | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 2, printed pp. 53–55 |
@@ -83,8 +85,9 @@ countries: Ethiopia, Turkey, Dominican Republic, Colombia, Eritrea, India, Cambo
 | Libya part — Unit 2: الأمطار — Rainfall | Libya, *Libya Grade 6 LY G6 Social Studies*, Unit 2: الأمطار — Rainfall — printed p. 100 |
 | Moldova part — §13 Heating of the atmosphere; air temperature | Moldova, *Moldova Grade 5 G5 Geography*, §13 Heating of the atmosphere; air temperature — printed p. 52 |
 | Moldova part — Practical application no. 2: recording a week of own weather observations in a weather calendar | Moldova, *Moldova Grade 5 G5 Geography*, Practical application no. 2: recording a week of own weather observations in a weather calendar — printed p. 67 |
+| Mozambique part — Lição 4: daily temperature variation, mean and amplitude calculations | Mozambique, *Mozambique Grade 10 PESD II Mod 2*, Lição 4: daily temperature variation, mean and amplitude calculations — printed p. 28 |
 
-**Acceptance count: taught in 16 countries (Ethiopia, Turkey, Dominican Republic, Colombia, Eritrea, India, Cambodia, Rwanda, Slovenia, Vietnam, Uganda, Sri Lanka, Mauritania, Pakistan, Libya, Moldova). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 17 countries (Ethiopia, Turkey, Dominican Republic, Colombia, Eritrea, India, Cambodia, Rwanda, Slovenia, Vietnam, Uganda, Sri Lanka, Mauritania, Pakistan, Libya, Moldova, Mozambique). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
@@ -133,3 +136,5 @@ Pakistan's own way (Pakistan Grade 7 Geography 7): a dedicated English-medium Ge
 Libya's own way (Libya Grade 6 LY G6 Social Studies): The geography half is "Principles of Physical Geography" in four units — surface shaping, climate, water, pollution — with Libyan examples inside world content (the Haruj volcanic mountains, Libyan springs such as Ain al-Sharshara). Non-Geography part named, not placed: Topic One, History of Libya — the Ottoman State and Libya as an Ottoman province (printed pp. 12–18), Libya in the Ottoman era 1551–1912 including the Karamanli period (pp. 19–35), modern European colonialism and the Italian occupation of 1911 (pp. 36–43), Libyan resistance to the Italian occupation (pp. 44–54), Libya after the Italian era — liberation, the British/French military administrations, independence and the Libyan Kingdom (pp. 55–64).
 
 Moldova's own way (Moldova Grade 5 G5 Geography): first Geography year built as a single Earth-systems arc — planet, envelopes (lithosphere/atmosphere/hydrosphere/biosphere), human society, then a closing "Protecting the Earth" chapter; every paragraph opens with "you will be able to" outcomes and chapters close with evaluation tests, plus two practical applications (map work; a week-long weather calendar).
+
+Mozambique's own way (Mozambique Grade 10 PESD II Mod 2): a full physical-climatology course — atmosphere structure to magnetosphere, heat balance, pressure/wind circulation, air masses and fronts, humidity and precipitation, the water cycle, then Köppen/Thornthwaite classification worked through climate tables with African station graphs (Arkassa, Tamanrasset, Algiers), closing on protection of bioclimatic resources.

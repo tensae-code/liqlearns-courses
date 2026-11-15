@@ -1,6 +1,6 @@
 # Sources — What a map is
 
-countries: Ethiopia, Saudi Arabia, Turkey, Uganda, Venezuela
+countries: Ethiopia, Saudi Arabia, Turkey, Uganda, Venezuela, Mozambique
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Saudi Arabia, Turkey, Uganda, Venezuela
 
 **Book 7:** *El espacio geográfico de la Humanidad — Ciencias Sociales, 1er Año* (student book, Spanish) — Ministerio del Poder Popular para la Educación / Colección Bicentenario (co-edition with Ministerio de Cultura, Fundación Editorial El perro y la rana); year 2014 (third edition, April 2014); ISBN 978-980-218-334-0. Title as printed: El espacio geográfico de la Humanidad — Ciencias Sociales, 1er Año. Grade: Grade 7 (1er Año de Educación Media) (student/teacher: STUDENT). PDF pages: 162 (cover/title page verified against the record title; byte size 88,531,252 matches the books.json record; read in place in phase3-staging). Verdict: COMPLETE. (Combined book — Geography parts placed below; parts named, not placed — History/Civics parts named, not placed: none — this is a pure Geography book; historical material (Caracas 1936/1966, Bolívar's unity ideal) is used inside Geography chapters.) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/venezuela-placements.md.
 
+**Book 8:** *Módulo 1 de Geografia (GEOGRAFIA — MÓDULO 1, PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo)* (student book, Portuguese) — Ministério da Educação e Desenvolvimento Humano (MINEDH) / Instituto de Educação Aberta e à Distância (IEDA); year 2023; no ISBN printed. Title as printed: Módulo 1 de Geografia (GEOGRAFIA — MÓDULO 1, PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo). Grade: Grades 7–9 cycle, filed as Grade 7 (student/teacher: STUDENT). PDF pages: 143 (cover/title page verified against the record title; byte size 10,033,146 matches the books.json record exactly; read via the record's IEDA source URL after grab.py failed twice on both routes with RemoteDisconnected — GitHub API unreachable from this host). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The definition | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 8, printed pp. 196–197 |
@@ -26,8 +28,9 @@ countries: Ethiopia, Saudi Arabia, Turkey, Uganda, Venezuela
 | Uganda part — Ch.2 What is a Map? | Uganda, *Uganda Grade 8 UG S1 Geography Student*, Ch.2 What is a Map? — printed p. 8 |
 | Uganda part — Topic 1: Maps and pictures | Uganda, *Uganda Grade 5 UG Excel P5 SST*, Topic 1: Maps and pictures — printed p. 8 |
 | Venezuela part — El espacio que vivo, siento y dibujo: maps and plans of everyday space | Venezuela, *Venezuela Grade 7 G7 Geography Humanidad*, El espacio que vivo, siento y dibujo: maps and plans of everyday space — printed p. 12 |
+| Mozambique part — Lição 3: map types (thematic, city plan), advantages/disadvantages of maps | Mozambique, *Mozambique Grade 7 PESD I Mod 1*, Lição 3: map types (thematic, city plan), advantages/disadvantages of maps — printed p. 25 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Saudi Arabia, Turkey, Uganda, Venezuela).**
+**Acceptance count: taught in 6 countries (Ethiopia, Saudi Arabia, Turkey, Uganda, Venezuela, Mozambique).**
 
 Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
@@ -38,3 +41,5 @@ Uganda's own way (Uganda Grade 8 UG S1 Geography Student): Competency-based lowe
 Uganda's own way (Uganda Grade 5 UG Excel P5 SST): A full-year commercial companion to the NCDC syllabus, far more detailed than the home-study booklet: Uganda's districts/regions are listed sub-region by sub-region, and each Uganda topic (physical features, climate, vegetation, resources, population) gets its own full treatment. Non-Geography parts named, not placed: Topic 6 The People of Pre-colonial Uganda — origins, ethnic groups, political/social/economic organisation (History, printed pp. 89–117, except its migration and settlement sections, placed below); Topic 7 Foreign Influence — traders, explorers, missionaries, colonial administrators (History, pp. 118–142); Topic 8 How Uganda Became a Nation (History, pp. 143–148); Topic 9 The Road to Independence (History, pp. 149–158); Topic 10 Uganda as an Independent Nation — presidents, national symbols, democracy, elections (Civics, pp. 159–173); Topic 11 The Government of Uganda — levels, organs, constitution, revenue, budgeting, citizens' rights (Civics, pp. 174–193).
 
 Venezuela's own way (Venezuela Grade 7 G7 Geography Humanidad): a Geohistoria (Ramón Tovar) approach — geographic space is always explained through the historical conditions that built it; every chapter opens with a literary epigraph, works through "Entérate / Entretejiendo saberes / Indagando" boxes, and keeps returning to the learner's own community and to Caracas as the worked example.
+
+Mozambique's own way (Mozambique Grade 7 PESD I Mod 1): distance-learning self-study module — every lesson follows the same rhythm (introduction, development with worked examples, exercises, answer key, lesson summary); the four Earth spheres are the organising spine of the whole module, each sphere closed by a "use, protection and conservation" lesson; local anchors throughout (Maputo temperature worked example, Zambezi delta, Moma/Namialo weather contrast).

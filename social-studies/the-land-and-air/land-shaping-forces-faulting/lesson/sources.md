@@ -1,6 +1,6 @@
 # Sources — Land-Shaping Forces — Faulting
 
-countries: Ethiopia, Libya
+countries: Ethiopia, Libya, Mozambique
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -10,6 +10,10 @@ countries: Ethiopia, Libya
 
 **Book 4:** *مبادئ الجغرافيا العامة — Principles of General Geography, First Year of Secondary Education* (student book, Arabic) — State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2019–2020 (1440–1441 AH); ISBN no ISBN printed. Title as printed: مبادئ الجغرافيا العامة — Principles of General Geography, First Year of Secondary Education. Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 141 (title page verified in text layer: "مبادئ الجغرافيا العامة للسنة الأولى بمرحلة التعليم الثانوي" — matches record; full readable text layer, read via pdftotext; grabbed via grab.py release route, size verified by grab.py). Verdict: COMPLETE. TSV release records and books.json records are the same 8 books (each title appears once in each source) — read once via grab.py (GitHub API, size verified), as the placements file header records. Combined Social Studies books (Grades 5–6): Geography parts placed; History/Civics parts named in headers only. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/libya-placements.md.
 
+**Book 5:** *Módulo 1 de Geografia (GEOGRAFIA — MÓDULO 1, PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo)* (student book, Portuguese) — Ministério da Educação e Desenvolvimento Humano (MINEDH) / Instituto de Educação Aberta e à Distância (IEDA); year 2023; no ISBN printed. Title as printed: Módulo 1 de Geografia (GEOGRAFIA — MÓDULO 1, PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo). Grade: Grades 7–9 cycle, filed as Grade 7 (student/teacher: STUDENT). PDF pages: 143 (cover/title page verified against the record title; byte size 10,033,146 matches the books.json record exactly; read via the record's IEDA source URL after grab.py failed twice on both routes with RemoteDisconnected — GitHub API unreachable from this host). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
+
+**Book 6:** *Módulo 3 de Geografia — Geomorfologia* (student book, Portuguese) — Ministério da Educação / IEDA; year not printed (uploaded to IEDA site 2022); no ISBN printed. Title as printed: Módulo 3 de Geografia — Geomorfologia. Grade: Grades 10–12 cycle (2º Ciclo), filed as Grade 10 (student/teacher: STUDENT). PDF pages: 138 (title page verified against the record title; byte size 5,627,754 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE (the book's own contents page omits Lição 2 "Rochas" — it is present in the body at printed p. 10; contents-page error in the book itself). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — When the crust breaks and shifts | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 11–12 |
@@ -17,8 +21,10 @@ countries: Ethiopia, Libya
 | Sub lesson 3 — One movement, three landforms | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 11–12 |
 | Libya part — Internal factors: الانكسارات — Faulting (tension and compression breaks) | Libya, *Libya Grade 6 LY G6 Social Studies*, Internal factors: الانكسارات — Faulting (tension and compression breaks) — printed p. 69 |
 | Libya part — Book 2 Ch.1: الانكسارات — Faults: elements and forms (simple, reverse, thrust, step, graben and horst) and the role of folding and faulting in shaping the surface [placement slug: the-land-and-air/folded-and-faulted-mountains] | Libya, *Libya Grade 10 LY G10 Principles*, Book 2 Ch.1: الانكسارات — Faults: elements and forms (simple, reverse, thrust, step, graben and horst) and the role of folding and faulting in shaping the surface — printed p. 34 |
+| Mozambique part — Lição 24: falhas, horst e graben/fossa tectónica | Mozambique, *Mozambique Grade 7 PESD I Mod 1*, Lição 24: falhas, horst e graben/fossa tectónica — printed p. 122 |
+| Mozambique part — Lição 7: falhas normais e inversas (tecto/muro), parallel fault systems | Mozambique, *Mozambique Grade 10 PESD II Mod 3*, Lição 7: falhas normais e inversas (tecto/muro), parallel fault systems — printed p. 42 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Libya).**
+**Acceptance count: taught in 3 countries (Ethiopia, Libya, Mozambique).**
 
 Pairing warning: the Grade 8 teacher guide is an Addis Ababa bureau book and the student book is an Amhara bureau book; they are NOT edition-matched, and the guide in hand is truncated (printed pp. 1–47 only, Units 1–3). Pupil content in this lesson comes from the Amhara student book; anything from the guide is labelled (teacher guide — evidence) and never presented as pupil-taught.
 
@@ -27,3 +33,7 @@ Searchable tags: land-shaping forces   faulting, ethiopia, social studies, the l
 Libya's own way (Libya Grade 6 LY G6 Social Studies): The geography half is "Principles of Physical Geography" in four units — surface shaping, climate, water, pollution — with Libyan examples inside world content (the Haruj volcanic mountains, Libyan springs such as Ain al-Sharshara). Non-Geography part named, not placed: Topic One, History of Libya — the Ottoman State and Libya as an Ottoman province (printed pp. 12–18), Libya in the Ottoman era 1551–1912 including the Karamanli period (pp. 19–35), modern European colonialism and the Italian occupation of 1911 (pp. 36–43), Libyan resistance to the Italian occupation (pp. 44–54), Libya after the Italian era — liberation, the British/French military administrations, independence and the Libyan Kingdom (pp. 55–64).
 
 Libya's own way (Libya Grade 10 LY G10 Principles): Secondary geography opens as a two-part systematic course — physical geography first (astronomy, surface-shaping factors, climate, vegetation and wild animals), then human geography (population and settlement, economic resources) — and closes with a whole book on spatial-data technology: remote sensing, GPS and GIS, then the history of maps from Babylon and Ibn Hawqal.
+
+Mozambique's own way (Mozambique Grade 7 PESD I Mod 1): distance-learning self-study module — every lesson follows the same rhythm (introduction, development with worked examples, exercises, answer key, lesson summary); the four Earth spheres are the organising spine of the whole module, each sphere closed by a "use, protection and conservation" lesson; local anchors throughout (Maputo temperature worked example, Zambezi delta, Moma/Namialo weather contrast).
+
+Mozambique's own way (Mozambique Grade 10 PESD II Mod 3): a systematic geomorphology course — rocks and Earth's interior first, then isostasy, continental drift and plate tectonics, then internal agents (folds, faults, earthquakes, volcanoes in four lessons), then external agents and the modelled landscapes of hot, temperate, cold and coastal environments, closing with the geological cycle.

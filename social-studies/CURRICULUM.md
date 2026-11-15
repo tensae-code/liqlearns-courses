@@ -6029,3 +6029,135 @@ stands on teacher-guide evidence only (Nepal Grade 8
 TG; acceptance count 0 countries, Nepal named, counted
 nowhere), 8 questions.
 Geography lessons: 2523 → 2567.
+
+
+## Mozambique — Geography expansion (merged 2026-11-15)
+257 placement lines stocked from Mozambique's 24
+records / 12 distinct books — the PESD (Programa do
+Ensino Secundário à Distância) distance-learning
+Geography modules, Modules 1–3 of the first cycle
+(Grades 7–9, filed as Grade 7) and Modules 1–9 of the
+second cycle (Grades 10–12, filed as Grade 10), all
+student books in Portuguese (Ministério da Educação e
+Desenvolvimento Humano / Ministério da Educação,
+Instituto de Educação Aberta e à Distância — IEDA; 2023
+and 2022 uploads; no ISBN printed), each record
+appearing twice (TSV + books.json, same repo path) and
+read once per distinct book via the record's IEDA
+source URL after grab.py failed on both GitHub routes;
+verified by pdfinfo size against the books.json record
+and cover/title page for every book. The placements
+file's per-book tallies sum to 257 and agree with the
+line-by-line count — no discrepancy (three Verdict
+lines also mention printed pages, carrying the books'
+own contents/lesson-numbering errors for Modules PESD
+II 3, 4 and 7; they are verdict notes, not placements).
+All 12 books are COMPLETE and all are student books, so
+every placement counts toward acceptance. Book verdict
+quirks are carried exactly in each book entry: PESD I
+Module 2's Lição 13 body heading repeats 'actividade
+pecuária' wording (the book's own copy error); PESD II
+Module 3's contents page omits Lição 2 'Rochas'
+(present in the body); PESD II Module 4 mis-numbers two
+lessons as 'Lição 6' and has no Lição 5 heading; PESD
+II Module 7's contents page skips the Lição 3 number
+(present in the body); the PESD II Modules 6 and 8
+title pages misprint the subject word ('Gografia' /
+'Geogafia') and Module 9's title page labels the
+subject slot 'Disciplina'. Mozambique's own way:
+distance-learning self-study modules — the first cycle
+follows the four Earth spheres as its organising spine,
+then teaches human/economic geography sector by sector
+(world-then-Mozambique), then turns to Mozambique
+itself as a complete regional study closing with
+Southern Africa and SADC integration; the second cycle
+opens with geographic thought and cosmography, then
+runs full physical courses (bioclimatic environment,
+geomorphology, pedogeography and hydrogeography) and
+human courses (population, agriculture and livestock,
+industry and commerce,
+transport/communications/tourism, cities). Stocked into
+standing lessons (184 placements across 141 lessons) —
+4 placements remapped, original slug recorded in each
+provenance row: the-land-and-air/the-water-cycle was
+flagged NEW (2 placements) but the lesson already
+stands, so it is stocked there and not rebuilt;
+culture-and-work/making-things-craft-and-factory does
+not stand and goes to
+culture-and-work/secondary-activities-what-manufacturing-is;
+the-land-and-air/drawing-a-watershed-boundary does not
+stand and goes to
+the-land-and-air/drainage-patterns-what-rivers-draw. 60
+NEW lessons built (73 placements, all flagged NEW) —
+**First Steps**: Geography A Science Of Space (printed
+p. 9), How Geographic Thought Grew (printed p. 21;
+printed p. 27; printed p. 31; printed p. 35); **Earth
+and Space**: Eruption Types Effusive And Explosive
+(printed p. 67), Isostasy And The Hypsometric Curve
+(printed p. 21), The Biosphere Sphere Of Life (printed
+p. 133), The Celestial Sphere Zenith And Nadir (printed
+p. 50), The Geological Cycle (printed p. 117); **The
+Land and Air**: Air Masses Polar And Tropical (printed
+p. 47), Fronts And Frontal Disturbances (printed p.
+51), Glaciers And The Land They Leave Behind (printed
+p. 104), Humidity And The Three Kinds Of Rain (printed
+p. 65; printed p. 57; printed p. 65), Landforms Of The
+Hot Zones Ferralitic Crusts (printed p. 93), Mozambique
+On The Map Location And Borders (printed p. 21),
+Mozambique's Climate Types And Where They Are (printed
+p. 56), Mozambique's Coastline Bays Capes And Islands
+(printed p. 26), Mozambique's Geology Precambrian And
+Phanerozoic (printed p. 31), Mozambique's Lakes Natural
+And Artificial (printed p. 76), Mozambique's
+Phanerozoic Basins And Gas Fields (printed p. 34),
+Mozambique's Plant Regions And Endemism (printed p.
+61), Mozambique's Relief Plains Plateaus And Mountains
+(printed p. 48), Mozambique's River Basins (printed p.
+71), Ocean Waves Tides And Currents (printed p. 85;
+printed p. 64; printed p. 67), Soil Properties Texture
+Structure And pH (printed p. 11), Southern Africa The
+Region (printed p. 79), The Bioclimatic Environment And
+Weather Science (printed p. 5), The Earths Heat Balance
+(printed p. 19), The Plan Large Scale Representation
+(printed p. 28), The Water Balance Surplus And Deficit
+(printed p. 49), Thornthwaites Water Balance
+Classification (printed p. 85), What Controls
+Mozambique's Climate (printed p. 53), World Soil Types
+Zonal Azonal Intrazonal (printed p. 21); **Population,
+Transport and Maps**: City And Countryside
+Interdependence (printed p. 20), Means Of Communication
+And How They Grew (printed p. 145; printed p. 19;
+printed p. 25), Mozambique's Demographic Problems
+(printed p. 47), Mozambique's Migrations Internal And
+External (printed p. 28), Mozambique's Population
+Distribution And Structure (printed p. 42),
+Mozambique's Roads Ports And Airports (printed p. 152),
+The Functions Of Cities (printed p. 14; printed p. 15),
+Transport In Mozambique (printed p. 149), What Makes A
+City Definitions And Criteria (printed p. 5); **People
+and Resources**: Kinds Of Tourism (printed p. 121;
+printed p. 37), Mozambique In SADC Cooperation And
+Impact (printed p. 89), Mozambique's Minerals And Where
+They Occur (printed p. 37), The Worlds Great Trading
+Regions (printed p. 111), The Worlds Tourist Heritage
+(printed p. 43), Tourism In Mozambique (printed p.
+127), World Flows Of Food And Minerals (printed p. 63);
+**Culture and Work**: Dryland Oasis And Monsoon Rice
+Farming (printed p. 39), From Craft To Factory The
+Growth Of Industry (printed p. 5), Human Factors That
+Shape Farming Landscapes (printed p. 25), Industrial
+Landscapes Urban And Dispersed (printed p. 39),
+Livestock Farming And Its Types (printed p. 66; printed
+p. 57), Modern Mechanised Farming (printed p. 49),
+Mozambique's Industry And Where It Sits (printed p.
+101), Mozambique's Trade Exports And Imports (printed
+p. 114), The Industrial Revolution Three Phases
+(printed p. 88; printed p. 13), The Neolithic Farming
+Revolution (printed p. 5), What The Industrial
+Revolution Changed (printed p. 19), World Distribution
+Of Livestock Products (printed p. 71), World
+Distribution Of Major Crops (printed p. 58) — all 60
+new lessons are taught in 1 country (Mozambique), 8
+questions each, each standing on Mozambique student
+book(s).
+Geography lessons: 2567 → 2627.

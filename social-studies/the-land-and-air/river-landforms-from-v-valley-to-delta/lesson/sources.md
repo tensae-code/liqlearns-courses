@@ -1,6 +1,6 @@
 # Sources — River landforms — from V-valley to delta
 
-countries: Ethiopia, Barbados, Malaysia, India, United Kingdom, Fiji, Slovenia, Sudan, Sri Lanka, Pakistan, Libya
+countries: Ethiopia, Barbados, Malaysia, India, United Kingdom, Fiji, Slovenia, Sudan, Sri Lanka, Pakistan, Libya, Mozambique
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -28,6 +28,8 @@ countries: Ethiopia, Barbados, Malaysia, India, United Kingdom, Fiji, Slovenia, 
 
 **Book 13:** *مبادئ الجغرافيا العامة — Principles of General Geography, First Year of Secondary Education* (student book, Arabic) — State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2019–2020 (1440–1441 AH); ISBN no ISBN printed. Title as printed: مبادئ الجغرافيا العامة — Principles of General Geography, First Year of Secondary Education. Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 141 (title page verified in text layer: "مبادئ الجغرافيا العامة للسنة الأولى بمرحلة التعليم الثانوي" — matches record; full readable text layer, read via pdftotext; grabbed via grab.py release route, size verified by grab.py). Verdict: COMPLETE. TSV release records and books.json records are the same 8 books (each title appears once in each source) — read once via grab.py (GitHub API, size verified), as the placements file header records. Combined Social Studies books (Grades 5–6): Geography parts placed; History/Civics parts named in headers only. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/libya-placements.md.
 
+**Book 14:** *Módulo 3 de Geografia — Geomorfologia* (student book, Portuguese) — Ministério da Educação / IEDA; year not printed (uploaded to IEDA site 2022); no ISBN printed. Title as printed: Módulo 3 de Geografia — Geomorfologia. Grade: Grades 10–12 cycle (2º Ciclo), filed as Grade 10 (student/teacher: STUDENT). PDF pages: 138 (title page verified against the record title; byte size 5,627,754 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE (the book's own contents page omits Lição 2 "Rochas" — it is present in the body at printed p. 10; contents-page error in the book itself). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Upper and middle courses | G12 student #22, printed pp. 28–29 |
@@ -44,8 +46,9 @@ countries: Ethiopia, Barbados, Malaysia, India, United Kingdom, Fiji, Slovenia, 
 | Pakistan part — Features formed by a river: flood plains, ox-bow lakes, meanders, natural levees, distributaries and the delta | Pakistan, *Pakistan Grade 7 Geography 7*, Features formed by a river: flood plains, ox-bow lakes, meanders, natural levees, distributaries and the delta — printed pp. 6–7 |
 | Pakistan part — Mountain valleys of Pakistan (Swat, Chitral, Dir, Gilgit, Hunza, Kaghan) and U-shaped (glacier) vs V-shaped (river) valleys | Pakistan, *Pakistan Grade 6 Geography 6*, Mountain valleys of Pakistan (Swat, Chitral, Dir, Gilgit, Hunza, Kaghan) and U-shaped (glacier) vs V-shaped (river) valleys — printed p. 27 |
 | Libya part — Book 2 Ch.2: تعرية المياه الجارية — Running-water erosion: transport, cutting and deposition, and depositional landforms (Nile delta) [placement slug: the-land-and-air/rivers-shape-the-land-erosion-and-deposition] | Libya, *Libya Grade 10 LY G10 Principles*, Book 2 Ch.2: تعرية المياه الجارية — Running-water erosion: transport, cutting and deposition, and depositional landforms (Nile delta) — printed p. 48 |
+| Mozambique part — Lição 18: Modelado das regiões temperadas (river erosion, giant's kettles/marmitas, fluvial terraces, fairy chimneys) | Mozambique, *Mozambique Grade 10 PESD II Mod 3*, Lição 18: Modelado das regiões temperadas (river erosion, giant's kettles/marmitas, fluvial terraces, fairy chimneys) — printed p. 101 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Barbados, Malaysia, India, United Kingdom, Fiji, Slovenia, Sudan, Sri Lanka, Pakistan, Libya).**
+**Acceptance count: taught in 12 countries (Ethiopia, Barbados, Malaysia, India, United Kingdom, Fiji, Slovenia, Sudan, Sri Lanka, Pakistan, Libya, Mozambique).**
 
 Barbados's own way: this is the shared Caribbean CSEC examination textbook used in Barbados — every world process is re-taught through Caribbean case studies (the Caribbean plate, Montserrat's volcano, Jamaica's coasts and Kingston's urban problems, St Lucia's reefs, Bahamas/Jamaica/Puerto Rico karst, Guyana's rivers), map and field skills are folded into the chapters, and the course ends in a School-Based Assessment fieldwork project. That way is stocked here as the way Barbados teaches this thing; it does not change the acceptance count above.
 
@@ -74,3 +77,5 @@ Pakistan's own way (Pakistan Grade 7 Geography 7): a dedicated English-medium Ge
 Pakistan's own way (Pakistan Grade 6 Geography 6): world physical Geography taught through Pakistan's own land — its fault lines and 1935/2005 earthquakes, Khewra salt and Thar coal among the rocks, K2 and the Karakoram among the mountains, Pakistan's four climatic regions, its six forest types from mangrove to alpine, and the Indus flood as the country's defining disaster.
 
 Libya's own way (Libya Grade 10 LY G10 Principles): Secondary geography opens as a two-part systematic course — physical geography first (astronomy, surface-shaping factors, climate, vegetation and wild animals), then human geography (population and settlement, economic resources) — and closes with a whole book on spatial-data technology: remote sensing, GPS and GIS, then the history of maps from Babylon and Ibn Hawqal.
+
+Mozambique's own way (Mozambique Grade 10 PESD II Mod 3): a systematic geomorphology course — rocks and Earth's interior first, then isostasy, continental drift and plate tectonics, then internal agents (folds, faults, earthquakes, volcanoes in four lessons), then external agents and the modelled landscapes of hot, temperate, cold and coastal environments, closing with the geological cycle.

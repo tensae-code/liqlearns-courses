@@ -1,6 +1,6 @@
 # Sources — Water underground
 
-countries: Ethiopia, Angola, Bangladesh, Eritrea, Fiji, Slovenia, Mauritania, Libya, Moldova
+countries: Ethiopia, Angola, Bangladesh, Eritrea, Fiji, Slovenia, Mauritania, Libya, Moldova, Mozambique
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -26,6 +26,10 @@ countries: Ethiopia, Angola, Bangladesh, Eritrea, Fiji, Slovenia, Mauritania, Li
 
 **Book 12:** *Geografie — Manual pentru clasa a VIII-a (Vitalie Sochircă, Nicolae Boboc, Natalia Cozma)* (student book, Romanian) — Știința; year 2024 edition (imprint data run to 2024); ISBN 978-9975-85-446-7. Title as printed: Geografie — Manual pentru clasa a VIII-a (Vitalie Sochircă, Nicolae Boboc, Natalia Cozma). Grade: 8 (student/teacher: STUDENT). PDF pages: 138 (cover verified against the record title; 19,985,457 bytes = record size exactly, eduresurse.gov.md download completed by resume loop after a truncated first attempt; the repo tree/blob route returned 404). Verdict: COMPLETE. 12 records / 6 distinct books (TSV + books.json duplicates of the same 6 manuals) — read from the recorded ministry source URLs (eduresurse.gov.md / ctice.md) after the GitHub API route disconnected twice; byte size and page count verified against each record before reading; full text-layer page-by-page reads, as the placements file header records. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/moldova-placements.md.
 
+**Book 13:** *Módulo 1 de Geografia (GEOGRAFIA — MÓDULO 1, PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo)* (student book, Portuguese) — Ministério da Educação e Desenvolvimento Humano (MINEDH) / Instituto de Educação Aberta e à Distância (IEDA); year 2023; no ISBN printed. Title as printed: Módulo 1 de Geografia (GEOGRAFIA — MÓDULO 1, PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo). Grade: Grades 7–9 cycle, filed as Grade 7 (student/teacher: STUDENT). PDF pages: 143 (cover/title page verified against the record title; byte size 10,033,146 matches the books.json record exactly; read via the record's IEDA source URL after grab.py failed twice on both routes with RemoteDisconnected — GitHub API unreachable from this host). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
+
+**Book 14:** *Módulo 4 de Geografia — Pedogeografia e Hidrogeografia* (student book, Portuguese) — Ministério da Educação / IEDA; year not printed (uploaded to IEDA site 2022); no ISBN printed. Title as printed: Módulo 4 de Geografia — Pedogeografia e Hidrogeografia. Grade: Grades 10–12 cycle (2º Ciclo), filed as Grade 10 (student/teacher: STUDENT). PDF pages: 92 (title page verified against the record title; byte size 1,351,167 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE (the book mis-numbers its lessons: two different lessons are both headed "Lição 6" — Importância dos Solos at printed p. 28 and Conceito de Hidrogeografia at printed p. 36; there is no Lição 5 heading). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Aquifers, springs, wells | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 3, printed pp. 67–69 |
@@ -41,8 +45,10 @@ countries: Ethiopia, Angola, Bangladesh, Eritrea, Fiji, Slovenia, Mauritania, Li
 | Libya part — Unit 3: المياه الجوفية — Groundwater: ordinary wells, artesian wells and natural springs (Libyan examples) | Libya, *Libya Grade 6 LY G6 Social Studies*, Unit 3: المياه الجوفية — Groundwater: ordinary wells, artesian wells and natural springs (Libyan examples) — printed p. 104 |
 | Moldova part — §21 Groundwater; glaciers | Moldova, *Moldova Grade 5 G5 Geography*, §21 Groundwater; glaciers — printed p. 84 |
 | Moldova part — 14. Groundwater in Moldova | Moldova, *Moldova Grade 8 G8 Geography*, 14. Groundwater in Moldova — printed p. 67 |
+| Mozambique part — Lição 19: As águas subterrâneas (aquifers, artesian wells) | Mozambique, *Mozambique Grade 7 PESD I Mod 1*, Lição 19: As águas subterrâneas (aquifers, artesian wells) — printed p. 102 |
+| Mozambique part — Lição 7: Água Subterrânea, Nascentes e Poços Artesianos (groundwater origin in precipitation; water-table variation natural and human-caused) | Mozambique, *Mozambique Grade 10 PESD II Mod 4*, Lição 7: Água Subterrânea, Nascentes e Poços Artesianos (groundwater origin in precipitation; water-table variation natural and human-caused) — printed p. 45 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Angola, Bangladesh, Eritrea, Fiji, Slovenia, Mauritania, Libya, Moldova).**
+**Acceptance count: taught in 10 countries (Ethiopia, Angola, Bangladesh, Eritrea, Fiji, Slovenia, Mauritania, Libya, Moldova, Mozambique).**
 
 Searchable tags: groundwater, aquifer, springs, wells, water endowment, social studies
 
@@ -65,3 +71,7 @@ Libya's own way (Libya Grade 6 LY G6 Social Studies): The geography half is "Pri
 Moldova's own way (Moldova Grade 5 G5 Geography): first Geography year built as a single Earth-systems arc — planet, envelopes (lithosphere/atmosphere/hydrosphere/biosphere), human society, then a closing "Protecting the Earth" chapter; every paragraph opens with "you will be able to" outcomes and chapters close with evaluation tests, plus two practical applications (map work; a week-long weather calendar).
 
 Moldova's own way (Moldova Grade 8 G8 Geography): the home-country year — a full physical geography of the Republic of Moldova only (position and extreme points, structural units and minerals, relief units, climate and seasons, the Nistru/Prut river system, soils, steppe and forest-steppe zones), ending with its protected areas (national parks, scientific and landscape reserves, nature monuments) and Moldova in the context of sustainable development; hydrographic objects and protected areas are described "by algorithm" in set practicals.
+
+Mozambique's own way (Mozambique Grade 7 PESD I Mod 1): distance-learning self-study module — every lesson follows the same rhythm (introduction, development with worked examples, exercises, answer key, lesson summary); the four Earth spheres are the organising spine of the whole module, each sphere closed by a "use, protection and conservation" lesson; local anchors throughout (Maputo temperature worked example, Zambezi delta, Moma/Namialo weather contrast).
+
+Mozambique's own way (Mozambique Grade 10 PESD II Mod 4): two half-courses bound together — pedogeography (soil composition, profile, properties, pedogenesis, Dokuchaev classification, soil conservation with terrace/sucalco practice) then hydrogeography (basins and river regimes, groundwater, water balance, lakes, oceans, tides and currents).

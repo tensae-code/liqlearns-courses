@@ -1,6 +1,6 @@
 # Sources — Earthquakes — the slipping Earth
 
-countries: Ethiopia, Barbados, Costa Rica, Indonesia, Dominican Republic, Eritrea, North Macedonia, Cambodia, Slovenia, Kuwait, Afghanistan, Yemen, Pakistan, Nepal
+countries: Ethiopia, Barbados, Costa Rica, Indonesia, Dominican Republic, Eritrea, North Macedonia, Cambodia, Slovenia, Kuwait, Afghanistan, Yemen, Pakistan, Nepal, Mozambique
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -32,6 +32,8 @@ countries: Ethiopia, Barbados, Costa Rica, Indonesia, Dominican Republic, Eritre
 
 **Book 15:** *Shikshak Nirdeshika Samajik Adhyayan Kaksha 10 (Teacher's Guide Social Studies Grade 10)* (teacher guide, Nepali) — Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; year prepared against the 2078 basic-education curriculum (imprint); ISBN no ISBN printed. Title as printed: Shikshak Nirdeshika Samajik Adhyayan Kaksha 10 (Teacher's Guide Social Studies Grade 10). Grade: Grade 10 (student/teacher: TEACHER). PDF pages: 301 (cover/title page verified against the record title — Devanagari title page matches; page references below are the guide's PDF pages). Verdict: COMPLETE. Non-Geography parts named (not placed): Units 1–5, 7, 9 as in the student book (society, development/federalism framing except HDI/sustainable development, values, social problems, civics, History, international relations), Unit 8 Lessons 3–9 (financial education/instruments, cooperatives, savings, revenue, periodic plans), population Unit Lesson 6 Community health. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nepal-placements.md.
 
+**Book 16:** *Módulo 3 de Geografia — Geomorfologia* (student book, Portuguese) — Ministério da Educação / IEDA; year not printed (uploaded to IEDA site 2022); no ISBN printed. Title as printed: Módulo 3 de Geografia — Geomorfologia. Grade: Grades 10–12 cycle (2º Ciclo), filed as Grade 10 (student/teacher: STUDENT). PDF pages: 138 (title page verified against the record title; byte size 5,627,754 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE (the book's own contents page omits Lição 2 "Rochas" — it is present in the body at printed p. 10; contents-page error in the book itself). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Strain and sudden slip | G12 student #12, printed pp. 15–16 |
@@ -50,8 +52,9 @@ countries: Ethiopia, Barbados, Costa Rica, Indonesia, Dominican Republic, Eritre
 | Pakistan part — Earthquakes: sudden shaking, collapsed buildings (the 2005 earthquake killed over 80,000), protective actions during a quake, earthquake-safe construction; Pakistan lies where the Eurasian, Arabian and Indian plates meet | Pakistan, *Pakistan Grade 8 Geography 8*, Earthquakes: sudden shaking, collapsed buildings (the 2005 earthquake killed over 80,000), protective actions during a quake, earthquake-safe construction; Pakistan lies where the Eurasian, Arabian and Indian plates meet — printed pp. 36–37 |
 | Nepal part — Unit 6 Lesson 10: Natural disaster — earthquake | Nepal, *Nepal Grade 10 np-g10*, Unit 6 Lesson 10: Natural disaster — earthquake — printed p. 163 |
 | Nepal part — Earth Unit Lesson 10: Natural disaster — earthquake (preparedness practice) (teacher guide — evidence) | Nepal, *Nepal Grade 10 TG np-g10tg* (teacher guide), Earth Unit Lesson 10: Natural disaster — earthquake (preparedness practice) — TG p. 128 |
+| Mozambique part — Lição 9: Sismos (vibratory movements; seismic intensity and its factors) | Mozambique, *Mozambique Grade 10 PESD II Mod 3*, Lição 9: Sismos (vibratory movements; seismic intensity and its factors) — printed p. 49 |
 
-**Acceptance count: taught in 14 countries (Ethiopia, Barbados, Costa Rica, Indonesia, Dominican Republic, Eritrea, North Macedonia, Cambodia, Slovenia, Kuwait, Afghanistan, Yemen, Pakistan, Nepal).**
+**Acceptance count: taught in 15 countries (Ethiopia, Barbados, Costa Rica, Indonesia, Dominican Republic, Eritrea, North Macedonia, Cambodia, Slovenia, Kuwait, Afghanistan, Yemen, Pakistan, Nepal, Mozambique).**
 
 Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -84,3 +87,5 @@ Pakistan's own way (Pakistan Grade 8 Geography 8): the Urdu-medium twin of the E
 Nepal's own way (Nepal Grade 10 np-g10): Grade 10 climate is taught by world climate types and the three heat zones (tropical, temperate, cold), then continent studies of North America, South America and Africa, earthquakes, map work and modern map technology (GIS); population closes the book — Nepal's size/growth, structure, distribution, family planning and the population–environment interrelation.
 
 Nepal's own way (Nepal Grade 10 TG np-g10tg) (teacher guide — evidence): The guide teaches the Grade 10 course of np-g10 lesson for lesson, adding map- and chart-based activities (world climate maps, heat-zone maps, continent maps comparing life and economic activity with Nepal) and earthquake-preparedness practice; placements mirror the student book with guide page references. That evidence is stocked here as the way Nepal teaches this thing; it is cited as evidence only — Nepal is counted in this lesson through its student book(s).
+
+Mozambique's own way (Mozambique Grade 10 PESD II Mod 3): a systematic geomorphology course — rocks and Earth's interior first, then isostasy, continental drift and plate tectonics, then internal agents (folds, faults, earthquakes, volcanoes in four lessons), then external agents and the modelled landscapes of hot, temperate, cold and coastal environments, closing with the geological cycle.

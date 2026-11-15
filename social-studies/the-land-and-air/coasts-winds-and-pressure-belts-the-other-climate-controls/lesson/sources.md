@@ -1,6 +1,6 @@
 # Sources — Coasts, winds and pressure belts — the other climate controls
 
-countries: Ethiopia, Turkey, Dominican Republic, India, Cambodia, Fiji, Slovenia, Vietnam, Papua New Guinea, Mauritania, Iran, Libya, Moldova
+countries: Ethiopia, Turkey, Dominican Republic, India, Cambodia, Fiji, Slovenia, Vietnam, Papua New Guinea, Mauritania, Iran, Libya, Moldova, Mozambique
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -36,6 +36,8 @@ countries: Ethiopia, Turkey, Dominican Republic, India, Cambodia, Fiji, Slovenia
 
 **Book 17:** *Geografie — Manual pentru clasa a V-a* (student book, Romanian) — Editura Lumina, Chișinău; year 2015; ISBN printed (number not fully legible in the scan). Title as printed: Geografie — Manual pentru clasa a V-a. Grade: 5 (student/teacher: STUDENT). PDF pages: 128 (cover/title page verified against the record title; 16,733,891 bytes = record size exactly). Verdict: COMPLETE. 12 records / 6 distinct books (TSV + books.json duplicates of the same 6 manuals) — read from the recorded ministry source URLs (eduresurse.gov.md / ctice.md) after the GitHub API route disconnected twice; byte size and page count verified against each record before reading; full text-layer page-by-page reads, as the placements file header records. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/moldova-placements.md.
 
+**Book 18:** *Módulo 2 de Geografia — Ambiente Bioclimático* (student book, Portuguese) — Ministério da Educação / IEDA; year not printed (uploaded to IEDA site 2022); no ISBN printed. Title as printed: Módulo 2 de Geografia — Ambiente Bioclimático. Grade: Grades 10–12 cycle (2º Ciclo), filed as Grade 10 (student/teacher: STUDENT). PDF pages: 137 (title page verified against the record title; byte size 7,185,973 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Land heats fast, water slowly | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 2, printed pp. 47–50 |
@@ -58,8 +60,9 @@ countries: Ethiopia, Turkey, Dominican Republic, India, Cambodia, Fiji, Slovenia
 | Libya part — Unit 2: الرياح — Winds | Libya, *Libya Grade 6 LY G6 Social Studies*, Unit 2: الرياح — Winds — printed p. 94 |
 | Libya part — Book 3 Ch.2: الرياح — Winds: force, direction and measurement, and the types of wind (with sea/land and mountain/valley breezes) [placement slug: the-land-and-air/winds-patterns-of-moving-air] | Libya, *Libya Grade 10 LY G10 Principles*, Book 3 Ch.2: الرياح — Winds: force, direction and measurement, and the types of wind (with sea/land and mountain/valley breezes) — printed p. 72 |
 | Moldova part — §14 Atmospheric pressure; winds | Moldova, *Moldova Grade 5 G5 Geography*, §14 Atmospheric pressure; winds — printed p. 56 |
+| Mozambique part — Lição 6: Circulação geral da Atmosfera (isobars, cyclonic/anticyclonic centres, wind speed/direction, ITCZ, subtropical highs and deserts) | Mozambique, *Mozambique Grade 10 PESD II Mod 2*, Lição 6: Circulação geral da Atmosfera (isobars, cyclonic/anticyclonic centres, wind speed/direction, ITCZ, subtropical highs and deserts) — printed p. 39 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Turkey, Dominican Republic, India, Cambodia, Fiji, Slovenia, Vietnam, Mauritania, Iran, Libya, Moldova). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 13 countries (Ethiopia, Turkey, Dominican Republic, India, Cambodia, Fiji, Slovenia, Vietnam, Mauritania, Iran, Libya, Moldova, Mozambique). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
@@ -94,3 +97,5 @@ Libya's own way (Libya Grade 6 LY G6 Social Studies): The geography half is "Pri
 Libya's own way (Libya Grade 10 LY G10 Principles): Secondary geography opens as a two-part systematic course — physical geography first (astronomy, surface-shaping factors, climate, vegetation and wild animals), then human geography (population and settlement, economic resources) — and closes with a whole book on spatial-data technology: remote sensing, GPS and GIS, then the history of maps from Babylon and Ibn Hawqal.
 
 Moldova's own way (Moldova Grade 5 G5 Geography): first Geography year built as a single Earth-systems arc — planet, envelopes (lithosphere/atmosphere/hydrosphere/biosphere), human society, then a closing "Protecting the Earth" chapter; every paragraph opens with "you will be able to" outcomes and chapters close with evaluation tests, plus two practical applications (map work; a week-long weather calendar).
+
+Mozambique's own way (Mozambique Grade 10 PESD II Mod 2): a full physical-climatology course — atmosphere structure to magnetosphere, heat balance, pressure/wind circulation, air masses and fronts, humidity and precipitation, the water cycle, then Köppen/Thornthwaite classification worked through climate tables with African station graphs (Arkassa, Tamanrasset, Algiers), closing on protection of bioclimatic resources.

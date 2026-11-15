@@ -1,6 +1,6 @@
 # Sources — Why clean water runs short
 
-countries: Ethiopia, Angola, Malaysia, Eritrea, Slovenia
+countries: Ethiopia, Angola, Malaysia, Eritrea, Slovenia, Mozambique
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Angola, Malaysia, Eritrea, Slovenia
 
 **Book 6:** *Geografija 1, gimnazija* (student book, Slovenian) — Slovenia, Zavod RS za šolstvo, Ljubljana; year 2015; ISBN 978-961-03-0284-1. Title as printed: Geografija 1 (gimnazija) (i-učbenik / interactive textbook). Grade: Grade 10 (first year of gimnazija) (student/teacher: STUDENT). PDF pages: not a PDF — ZIP package (interactive e-textbook) of 423,855,798 bytes; book pagination runs to printed p. 320 (Kazalo); all 359 content HTML pages extracted by range request and size-verified against the ZIP central directory, and read. Verdict: COMPLETE (text content; the package's videos/images were not individually viewed — the teaching text, headings, summaries and tasks were read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/slovenia-placements.md.
 
+**Book 7:** *Módulo 4 de Geografia — Pedogeografia e Hidrogeografia* (student book, Portuguese) — Ministério da Educação / IEDA; year not printed (uploaded to IEDA site 2022); no ISBN printed. Title as printed: Módulo 4 de Geografia — Pedogeografia e Hidrogeografia. Grade: Grades 10–12 cycle (2º Ciclo), filed as Grade 10 (student/teacher: STUDENT). PDF pages: 92 (title page verified against the record title; byte size 1,351,167 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE (the book mis-numbers its lessons: two different lessons are both headed "Lição 6" — Importância dos Solos at printed p. 28 and Conceito de Hidrogeografia at printed p. 36; there is no Lição 5 heading). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The causes | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 7, printed pp. 188–190 |
@@ -23,8 +25,9 @@ countries: Ethiopia, Angola, Malaysia, Eritrea, Slovenia
 | Malaysia part (MY T1 Geografi Tingkatan 1) — Bab 12 Sumber Air: types of water sources; causes of the water crisis in Malaysia | Malaysia, *MY T1 Geografi*, Bab 12 Sumber Air: types of water sources; causes of the water crisis in Malaysia — printed pp. 132-138 |
 | Eritrea part (ER G8 Social Studies) — Unit 2: 2.4 Shortage of Water in Eritrea | Eritrea, *ER G8 Social Studies*, Unit 2: 2.4 Shortage of Water in Eritrea — printed p. 25 |
 | Slovenia part — Kakovost voda (water quality) inside Sestava hidrosfere in kroženje vode v naravi | Slovenia, *Slovenia Grade 10 Geografija 1 (gimnazija)*, Kakovost voda (water quality) inside Sestava hidrosfere in kroženje vode v naravi — printed p. 149 |
+| Mozambique part — Lição 12: Importância da Hidrosfera e Medidas de Defesa e Conservação (water in living organisms and photosynthesis; contaminated water and disease; quality awareness) | Mozambique, *Mozambique Grade 10 PESD II Mod 4*, Lição 12: Importância da Hidrosfera e Medidas de Defesa e Conservação (water in living organisms and photosynthesis; contaminated water and disease; quality awareness) — printed p. 73 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Angola, Malaysia, Eritrea, Slovenia).**
+**Acceptance count: taught in 6 countries (Ethiopia, Angola, Malaysia, Eritrea, Slovenia, Mozambique).**
 
 Searchable tags: clean water shortage, catchment degradation, water pollution, distribution, protected springs, social studies
 
@@ -35,3 +38,5 @@ Malaysia's own way (MY T1 Geografi Tingkatan 1): a pure Geography textbook organ
 Eritrea's own way (ER G8 Social Studies): Grade 8 is the Eritrea-physical-geography year — relief, hydrology and water shortage, people-environment adaptation and Eritrea's strategic Red Sea location are taught as four full Geography units before the History units begin.
 
 Slovenia's own way (Slovenia Grade 10 Geografija 1 (gimnazija)): the gimnazija first year is systematic physical geography first (Earth's interior, rocks, landforms, weather and climate, soils, vegetation, waters), then human geography (population, settlements, farming, industry and energy, transport, tourism), closing on sustainable development and spatial planning — with Slovenian cases (earthquake risk in Slovenia, the Port of Koper) set inside the world topics.
+
+Mozambique's own way (Mozambique Grade 10 PESD II Mod 4): two half-courses bound together — pedogeography (soil composition, profile, properties, pedogenesis, Dokuchaev classification, soil conservation with terrace/sucalco practice) then hydrogeography (basins and river regimes, groundwater, water balance, lakes, oceans, tides and currents).

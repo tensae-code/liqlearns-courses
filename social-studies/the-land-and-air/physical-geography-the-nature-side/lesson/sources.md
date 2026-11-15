@@ -1,6 +1,6 @@
 # Sources — Physical geography — the nature side
 
-countries: Ethiopia, Turkey, Dominican Republic, Slovenia, Uganda, Mauritania, Iran
+countries: Ethiopia, Turkey, Dominican Republic, Slovenia, Uganda, Mauritania, Iran, Mozambique
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Turkey, Dominican Republic, Slovenia, Uganda, Mauritania, I
 
 **Book 8:** *جغرافیای ایران (Geography of Iran) — for all branches (theoretical, technical-vocational, kardanesh)* (student book, Persian) — سازمان پژوهش و برنامه‌ریزی آموزشی (Organization for Educational Research and Planning), Ministry of Education; printed by شرکت چاپ و نشر کتاب‌های درسی ایران; year 1405 (11th printing); ISBN 978-964-05-2744-3; book code 110218. Title as printed: جغرافیای ایران (Geography of Iran) — for all branches (theoretical, technical-vocational, kardanesh). Grade: 10 (student/teacher: STUDENT). PDF pages: 120 (cover/title page verified against the record title; byte size 8,709,753 and page count 120 match the books.json record exactly; read from the record's own ministry source chap.sch.ir, the file the record was pushed from, because the GitHub API route was disconnected on repeated attempts). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iran-placements.md.
 
+**Book 9:** *Módulo 1 de Geografia (GEOGRAFIA — MÓDULO 1, PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo)* (student book, Portuguese) — Ministério da Educação e Desenvolvimento Humano (MINEDH) / Instituto de Educação Aberta e à Distância (IEDA); year 2023; no ISBN printed. Title as printed: Módulo 1 de Geografia (GEOGRAFIA — MÓDULO 1, PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo). Grade: Grades 7–9 cycle, filed as Grade 7 (student/teacher: STUDENT). PDF pages: 143 (cover/title page verified against the record title; byte size 10,033,146 matches the books.json record exactly; read via the record's IEDA source URL after grab.py failed twice on both routes with RemoteDisconnected — GitHub API unreachable from this host). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The nature side | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 1, printed pp. 6–7 |
@@ -29,8 +31,9 @@ countries: Ethiopia, Turkey, Dominican Republic, Slovenia, Uganda, Mauritania, I
 | Uganda part — Ch.1 Branches of Geography: physical geography | Uganda, *Uganda Grade 8 UG S1 Geography Student*, Ch.1 Branches of Geography: physical geography — printed p. 3 |
 | Mauritania part — Unit 1 Lesson 1: concepts in physical geography | Mauritania, *Mauritania Grade 8 geo-2as-m*, Unit 1 Lesson 1: concepts in physical geography — printed p. 9 |
 | Iran part — Geography, a science for a better life (branches of geography diagram: hydrology, climatology, geomorphology, biogeography) | Iran, *Iran Grade 10 Geography of Iran*, Geography, a science for a better life (branches of geography diagram: hydrology, climatology, geomorphology, biogeography) — printed p. 3 |
+| Mozambique part — Lição 1: Geografia Física branch | Mozambique, *Mozambique Grade 7 PESD I Mod 1*, Lição 1: Geografia Física branch — printed p. 12 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Turkey, Dominican Republic, Slovenia, Uganda, Mauritania, Iran).**
+**Acceptance count: taught in 8 countries (Ethiopia, Turkey, Dominican Republic, Slovenia, Uganda, Mauritania, Iran, Mozambique).**
 
 Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
@@ -45,3 +48,5 @@ Uganda's own way (Uganda Grade 8 UG S1 Geography Student): Competency-based lowe
 Mauritania's own way (Mauritania Grade 8 geo-2as-m): A world-regional year: one unit of concepts (physical, human, economic geography), one unit walking the five inhabited continents by their natural and human features, and one unit of paired-country economic case studies (Egypt/South Africa, Brazil/Canada, India/Japan, Spain/Germany, Australia/New Zealand).
 
 Iran's own way (Iran Grade 10 Geography of Iran): the whole of Grade 10 geography is one national book — Iran's own natural and human geography for every branch; nearly every lesson closes with a "know your own living place" activity tied to the separate provincial-studies book, so national content is always re-applied to the learner's own province.
+
+Mozambique's own way (Mozambique Grade 7 PESD I Mod 1): distance-learning self-study module — every lesson follows the same rhythm (introduction, development with worked examples, exercises, answer key, lesson summary); the four Earth spheres are the organising spine of the whole module, each sphere closed by a "use, protection and conservation" lesson; local anchors throughout (Maputo temperature worked example, Zambezi delta, Moma/Namialo weather contrast).

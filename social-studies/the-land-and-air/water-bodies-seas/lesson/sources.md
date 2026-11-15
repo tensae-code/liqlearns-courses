@@ -1,6 +1,6 @@
 # Sources — Water Bodies — Seas
 
-countries: Ethiopia, Eritrea, Venezuela, Mauritania, Afghanistan, Iran
+countries: Ethiopia, Eritrea, Venezuela, Mauritania, Afghanistan, Iran, Mozambique
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -24,6 +24,8 @@ countries: Ethiopia, Eritrea, Venezuela, Mauritania, Afghanistan, Iran
 
 **Book 11:** *جغرافیای ایران (Geography of Iran) — for all branches (theoretical, technical-vocational, kardanesh)* (student book, Persian) — سازمان پژوهش و برنامه‌ریزی آموزشی (Organization for Educational Research and Planning), Ministry of Education; printed by شرکت چاپ و نشر کتاب‌های درسی ایران; year 1405 (11th printing); ISBN 978-964-05-2744-3; book code 110218. Title as printed: جغرافیای ایران (Geography of Iran) — for all branches (theoretical, technical-vocational, kardanesh). Grade: 10 (student/teacher: STUDENT). PDF pages: 120 (cover/title page verified against the record title; byte size 8,709,753 and page count 120 match the books.json record exactly; read from the record's own ministry source chap.sch.ir, the file the record was pushed from, because the GitHub API route was disconnected on repeated attempts). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iran-placements.md.
 
+**Book 12:** *Módulo 1 de Geografia (GEOGRAFIA — MÓDULO 1, PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo)* (student book, Portuguese) — Ministério da Educação e Desenvolvimento Humano (MINEDH) / Instituto de Educação Aberta e à Distância (IEDA); year 2023; no ISBN printed. Title as printed: Módulo 1 de Geografia (GEOGRAFIA — MÓDULO 1, PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo). Grade: Grades 7–9 cycle, filed as Grade 7 (student/teacher: STUDENT). PDF pages: 143 (cover/title page verified against the record title; byte size 10,033,146 matches the books.json record exactly; read via the record's IEDA source URL after grab.py failed twice on both routes with RemoteDisconnected — GitHub API unreachable from this host). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Smaller than an ocean, mostly land-ringed | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 6–7 |
@@ -39,8 +41,9 @@ countries: Ethiopia, Eritrea, Venezuela, Mauritania, Afghanistan, Iran
 | Afghanistan part — Ch. 6 Lesson 52: the famous seas of the world | Afghanistan, *Afghanistan Grade 10 Geography (Dari)*, Ch. 6 Lesson 52: the famous seas of the world — printed p. 179 |
 | Afghanistan part — Lessons 42–44: the seas (oceans); the Pacific and Atlantic oceans; the Indian Ocean and the Arctic Ocean | Afghanistan, *Afghanistan Grade 4 Social Studies (Dari)*, Lessons 42–44: the seas (oceans); the Pacific and Atlantic oceans; the Indian Ocean and the Arctic Ocean — printed p. 83 |
 | Iran part — Iran's water resources (the seas and lakes of Iran: Caspian in the north, Persian Gulf and Sea of Oman in the south) | Iran, *Iran Grade 10 Geography of Iran*, Iran's water resources (the seas and lakes of Iran: Caspian in the north, Persian Gulf and Sea of Oman in the south) — printed p. 53 |
+| Mozambique part — Lição 15: os mares (types of seas) | Mozambique, *Mozambique Grade 7 PESD I Mod 1*, Lição 15: os mares (types of seas) — printed p. 79 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Eritrea, Venezuela, Mauritania, Afghanistan, Iran).**
+**Acceptance count: taught in 7 countries (Ethiopia, Eritrea, Venezuela, Mauritania, Afghanistan, Iran, Mozambique).**
 
 Pairing warning: the Grade 8 teacher guide is an Addis Ababa bureau book and the student book is an Amhara bureau book; they are NOT edition-matched, and the guide in hand is truncated (printed pp. 1–47 only, Units 1–3). Pupil content in this lesson comes from the Amhara student book; anything from the guide is labelled (teacher guide — evidence) and never presented as pupil-taught.
 
@@ -63,3 +66,5 @@ Afghanistan's own way (Afghanistan Grade 10 Geography (Dari)): the upper-seconda
 Afghanistan's own way (Afghanistan Grade 4 Social Studies (Dari)): primary social studies starts from the child's own world — family, village, city — and only then opens the map: directions, Afghanistan's boundaries and mountains and rivers, the continents and oceans, and finally the Earth's shape, equator, latitude/longitude and movements.
 
 Iran's own way (Iran Grade 10 Geography of Iran): the whole of Grade 10 geography is one national book — Iran's own natural and human geography for every branch; nearly every lesson closes with a "know your own living place" activity tied to the separate provincial-studies book, so national content is always re-applied to the learner's own province.
+
+Mozambique's own way (Mozambique Grade 7 PESD I Mod 1): distance-learning self-study module — every lesson follows the same rhythm (introduction, development with worked examples, exercises, answer key, lesson summary); the four Earth spheres are the organising spine of the whole module, each sphere closed by a "use, protection and conservation" lesson; local anchors throughout (Maputo temperature worked example, Zambezi delta, Moma/Namialo weather contrast).

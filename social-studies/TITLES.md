@@ -103,7 +103,7 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **2567**
+Geography lessons across the eight Geography titles: **2627**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -1807,3 +1807,53 @@ each standing on student book(s) with any matching
 teacher guide(s) cited as evidence only; Money and
 Banking Monetary Transactions stands on teacher-guide
 evidence only (acceptance count 0 countries).)
+
++60 for Mozambique, 2026-11-15 — First Steps: Geography
+A Science Of Space and How Geographic Thought Grew;
+Earth and Space: Eruption Types Effusive And Explosive,
+Isostasy And The Hypsometric Curve, The Biosphere
+Sphere Of Life, The Celestial Sphere Zenith And Nadir
+and The Geological Cycle; The Land and Air: Air Masses
+Polar And Tropical, Fronts And Frontal Disturbances,
+Glaciers And The Land They Leave Behind, Humidity And
+The Three Kinds Of Rain, Landforms Of The Hot Zones
+Ferralitic Crusts, Mozambique On The Map Location And
+Borders, Mozambique's Climate Types And Where They Are,
+Mozambique's Coastline Bays Capes And Islands,
+Mozambique's Geology Precambrian And Phanerozoic,
+Mozambique's Lakes Natural And Artificial, Mozambique's
+Phanerozoic Basins And Gas Fields, Mozambique's Plant
+Regions And Endemism, Mozambique's Relief Plains
+Plateaus And Mountains, Mozambique's River Basins,
+Ocean Waves Tides And Currents, Soil Properties Texture
+Structure And pH, Southern Africa The Region, The
+Bioclimatic Environment And Weather Science, The Earths
+Heat Balance, The Plan Large Scale Representation, The
+Water Balance Surplus And Deficit, Thornthwaites Water
+Balance Classification, What Controls Mozambique's
+Climate and World Soil Types Zonal Azonal Intrazonal;
+Population, Transport and Maps: City And Countryside
+Interdependence, Means Of Communication And How They
+Grew, Mozambique's Demographic Problems, Mozambique's
+Migrations Internal And External, Mozambique's
+Population Distribution And Structure, Mozambique's
+Roads Ports And Airports, The Functions Of Cities,
+Transport In Mozambique and What Makes A City
+Definitions And Criteria; People and Resources: Kinds
+Of Tourism, Mozambique In SADC Cooperation And Impact,
+Mozambique's Minerals And Where They Occur, The Worlds
+Great Trading Regions, The Worlds Tourist Heritage,
+Tourism In Mozambique and World Flows Of Food And
+Minerals; Culture and Work: Dryland Oasis And Monsoon
+Rice Farming, From Craft To Factory The Growth Of
+Industry, Human Factors That Shape Farming Landscapes,
+Industrial Landscapes Urban And Dispersed, Livestock
+Farming And Its Types, Modern Mechanised Farming,
+Mozambique's Industry And Where It Sits, Mozambique's
+Trade Exports And Imports, The Industrial Revolution
+Three Phases, The Neolithic Farming Revolution, What
+The Industrial Revolution Changed, World Distribution
+Of Livestock Products and World Distribution Of Major
+Crops.
+(All 60 new lessons are taught in 1 country
+(Mozambique), each standing on student book(s).)

@@ -1,6 +1,6 @@
 # Sources — Push and pull — why Africans move
 
-countries: Ethiopia, France, Costa Rica, Samoa
+countries: Ethiopia, France, Costa Rica, Samoa, Mozambique
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). First published 2023 under GEQIP-E. ISBN: 978-99990-0-049-9. 205 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md.
 **Book 2:** *Geography, Teacher Guide, Grade 10* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). First published 2022 under GEQIP-E. (No ISBN printed in the pages read.) Body printed page = PDF page − 31. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-teacher-placements.md.
@@ -11,17 +11,20 @@ countries: Ethiopia, France, Costa Rica, Samoa
 
 **Book 5:** *Social Studies — Year 9, Book 2* (student book, English) — Ministry of Education, Sports and Culture, Samoa; year 2004 (reprint of 2002); ISBN 982-517-016-6. Title as printed: Social Studies — Year 9, Book 2. Year 9 (student/teacher: STUDENT). PDF pages: 84 (cover/title page verified against the record title). Verdict: COMPLETE (Geography parts placed below). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/samoa-placements.md.
 
+**Book 6:** *Módulo 5 de Geografia — População* (student book, Portuguese) — Ministério da Educação / IEDA; year not printed (uploaded to IEDA site 2022); no ISBN printed. Title as printed: Módulo 5 de Geografia — População. Grade: Grades 10–12 cycle (2º Ciclo), filed as Grade 10 (student/teacher: STUDENT). PDF pages: 109 (title page verified against the record title; byte size 5,447,158 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Push factors — what drives people out | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 7, printed pp. 167–168 |
 | Sub lesson 2 — Pull factors — what draws people on (teacher guide — evidence) | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 7, printed pp. 167–168; Ethiopia, *Geography, Teacher Guide, Grade 10*, printed p. 140 (teacher guide — evidence) |
 | Sub lesson 3 — Africa's long history of movement | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 7, printed pp. 167–168 |
 | Samoa part (Year 9, Book 2) — Unit 2 Topic 1 Migration (push-pull model, intervening obstacles) | Samoa, *Social Studies, Year 9, Book 2*, Unit 2 Topic 1 Migration (push-pull model, intervening obstacles) — printed p. 46 |
+| Mozambique part — Lição 4: Factores Gerais da Mortalidade — Migrações (natural catastrophes as migration drivers; rural exodus since the Industrial Revolution; South→North flows to the USA/Canada) | Mozambique, *Mozambique Grade 10 PESD II Mod 5*, Lição 4: Factores Gerais da Mortalidade — Migrações (natural catastrophes as migration drivers; rural exodus since the Industrial Revolution; South→North flows to the USA/Canada) — printed p. 27 |
 
 | France part — Thème 4: Des territoires traversés et remodelés — les migrations en Afrique australe (Zimbabwéens en Afrique du Sud, mineurs mozambicains) | France, *Géographie 2de GT, Manuel Libre de Géographie, Seconde*, Grade 10, Sommaire Thème 4 |
 | Costa Rica part — spatial mobility produced by organised crime and war (forced displacement) | Costa Rica, *Antología CONED 10*, Grade 10, Unit 3 Tema II C — printed p. 249 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, France, Costa Rica, Samoa).**
+**Acceptance count: taught in 5 countries (Ethiopia, France, Costa Rica, Samoa, Mozambique).**
 
 Pairing: the teacher guide was first published in 2022 and the student textbook in 2023, with the same writers and the same eight units in the same order; the student book is the learner text of record, and teacher-guide rows above are evidence only.
 
@@ -32,3 +35,5 @@ Costa Rica's own way: two-thirds contemporary History/geopolitics, then a closin
 Searchable tags: migration, push factors, pull factors, slave migration, immigration glossary, Ethiopia Grade 10 geography issues, Costa Rica, CONED Antología, Estudios Sociales
 
 Samoa's own way (Year 9, Book 2): Place is taught through Samoan lived places — ordinary, sacred (tapu), natural and political places such as Mulinu'u — and migration is taught through Samoa's own movement story and its New Zealand diaspora, closing with a full mapping-skills unit.
+
+Mozambique's own way (Mozambique Grade 10 PESD II Mod 5): population geography taught as a developed-world/developing-world contrast throughout — distribution factors, growth, Malthus and the transition, then the two evolutions (developed countries; the "Terceiro Mundo" set) with their opposite population policies, closing on structures, demographic problems (incl. HIV cutting life expectancy below 50) and population–economy/environment relations.

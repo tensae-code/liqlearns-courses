@@ -1,6 +1,6 @@
 # Sources — Four kinds of work
 
-countries: Ethiopia, Barbados, Jamaica, Angola, Bahamas, Samoa, Zimbabwe, Colombia, Eritrea, Cambodia, Rwanda, Fiji, Uganda, Venezuela, Afghanistan, Yemen, Honduras, Nepal
+countries: Ethiopia, Barbados, Jamaica, Angola, Bahamas, Samoa, Zimbabwe, Colombia, Eritrea, Cambodia, Rwanda, Fiji, Uganda, Venezuela, Afghanistan, Yemen, Honduras, Nepal, Mozambique
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -72,6 +72,8 @@ countries: Ethiopia, Barbados, Jamaica, Angola, Bahamas, Samoa, Zimbabwe, Colomb
 
 **Book 35:** *My Social Studies and Creative Arts Grade 5 (English Version)* (student book, English) — Government of Nepal, Ministry of Education, Curriculum Development Centre; year First edition 2068 BS, revised edition 2074 BS; ISBN 978-99933-717-8-6 as printed — the same ISBN printed in the Grade 2 book, a publisher copy error. Title as printed: My Social Studies and Creative Arts Grade 5 (English Version). Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 156 (cover/title page verified against the record title). Verdict: COMPLETE. Non-Geography parts named (not placed): Unit 1 Lessons 2–5 dealings with neighbours, community help, equal treatment (printed pp. 4–11); Unit 2 Lessons 1, 3–5 traditions, festivals, pride, good people (pp. 12–21); Unit 3 Social Problems and their Solutions (pp. 22–33); Unit 4 Civics Sense (pp. 34–47, civics); Unit 6 Our Past (pp. 66–79, History); Unit 7 Lessons 2 and 4 School property, Use of national products (pp. 82, 86); Creative Arts (pp. 91–155). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nepal-placements.md.
 
+**Book 36:** *Módulo 5 de Geografia — População* (student book, Portuguese) — Ministério da Educação / IEDA; year not printed (uploaded to IEDA site 2022); no ISBN printed. Title as printed: Módulo 5 de Geografia — População. Grade: Grades 10–12 cycle (2º Ciclo), filed as Grade 10 (student/teacher: STUDENT). PDF pages: 109 (title page verified against the record title; byte size 5,447,158 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The four classes | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 5, printed pp. 122–124 |
@@ -111,8 +113,9 @@ countries: Ethiopia, Barbados, Jamaica, Angola, Bahamas, Samoa, Zimbabwe, Colomb
 | Honduras part — Lección 16: Principales ocupaciones de la población hondureña — main occupations of the Honduran population (teacher guide — evidence) | Honduras, *Honduras Grade 3 Teacher Guide* (teacher guide), Lección 16: Principales ocupaciones de la población hondureña — main occupations of the Honduran population — printed p. 67 |
 | Nepal part — Unit 1 Lesson 4: Our neighbours' work and occupations | Nepal, *Nepal Grade 4 np-g4b*, Unit 1 Lesson 4: Our neighbours' work and occupations — printed p. 10 |
 | Nepal part — Unit 1 Lesson 1: My Neighbours and their Occupations | Nepal, *Nepal Grade 5 np-g5*, Unit 1 Lesson 1: My Neighbours and their Occupations — printed p. 2 |
+| Mozambique part — Lição 10: sector classification exercises (civil construction, public works…) | Mozambique, *Mozambique Grade 10 PESD II Mod 5*, Lição 10: sector classification exercises (civil construction, public works…) — printed p. 74 |
 
-**Acceptance count: taught in 16 countries (Ethiopia, Barbados, Angola, Bahamas, Samoa, Colombia, Eritrea, Cambodia, Rwanda, Fiji, Uganda, Venezuela, Afghanistan, Yemen, Honduras, Nepal). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 17 countries (Ethiopia, Barbados, Angola, Bahamas, Samoa, Colombia, Eritrea, Cambodia, Rwanda, Fiji, Uganda, Venezuela, Afghanistan, Yemen, Honduras, Nepal, Mozambique). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grades 7–9 Social Studies, curriculum guide — evidence): one guide carries all three secondary grades, each year mixing Civics, heritage and a strong resources-and-environment Geography spine — natural and human resources, movements of the Earth, Caribbean hazards, climate change, green technology and tourism — taught through Jamaican case material (bauxite communities, Caribbean disasters). That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
@@ -181,3 +184,5 @@ Honduras's own way (Honduras Grade 3 Teacher Guide) (teacher guide — evidence)
 Nepal's own way (Nepal Grade 4 np-g4b): The newer (2078 BS) trial book reorganises the same ground by units ending in "Hamro Prithvi" (Our Earth): Earth as our common home, our needs from the Earth, our local level, and drawing a map / making a map of our village; economic life is taught through production, income-generating work and the haat bazaar (periodic market).
 
 Nepal's own way (Nepal Grade 5 np-g5): Grade 5 "Our Earth" is a first full geography of Nepal — physical features, climate and lifestyle, natural vegetation, soils, map-drawing with symbols, globe and maps, and the wider South Asian neighbours; economic geography is district-based (Sankhuwasabha's occupations mapped place by place, from yak and sheep rearing and herb collecting in the high Himalaya to paddy in the low valleys).
+
+Mozambique's own way (Mozambique Grade 10 PESD II Mod 5): population geography taught as a developed-world/developing-world contrast throughout — distribution factors, growth, Malthus and the transition, then the two evolutions (developed countries; the "Terceiro Mundo" set) with their opposite population policies, closing on structures, demographic problems (incl. HIV cutting life expectancy below 50) and population–economy/environment relations.

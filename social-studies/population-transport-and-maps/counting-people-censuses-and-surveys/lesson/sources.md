@@ -1,6 +1,6 @@
 # Sources — Counting people — censuses and surveys
 
-countries: Ethiopia, Bolivia, Dominican Republic, Samoa, India, Rwanda, Fiji, Papua New Guinea, Uganda, Sudan, Sri Lanka, Iran, Pakistan, Nepal
+countries: Ethiopia, Bolivia, Dominican Republic, Samoa, India, Rwanda, Fiji, Papua New Guinea, Uganda, Sudan, Sri Lanka, Iran, Pakistan, Nepal, Mozambique
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -44,6 +44,8 @@ countries: Ethiopia, Bolivia, Dominican Republic, Samoa, India, Rwanda, Fiji, Pa
 
 **Book 21:** *Samajik Shiksha ra Manavmulya Shiksha Kaksha 6 (Social Studies and Human Value Education Grade 6)* (student book, Nepali) — Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; year 2078 BS; ISBN 978-9937-601-56-6. Title as printed: Samajik Shiksha ra Manavmulya Shiksha Kaksha 6 (Social Studies and Human Value Education Grade 6). Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 214 (cover/title page verified against the record title — Devanagari title page matches). Verdict: COMPLETE. Non-Geography parts named (not placed): Unit 1 We and our society except development infrastructures (printed pp. 2–16); Unit 2 Our human values and beliefs (pp. 20–49); Unit 3 Civic consciousness except traffic rules (pp. 50–69, civics); Unit 4 Social problems and solutions (pp. 73–87); Unit 5 Our Past (pp. 88–111, History); Unit 8 Lessons 3+ population management detail beyond demography/census (pp. 180–190); Unit 9 International relations, contemporary events and information technology (pp. 191–206). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nepal-placements.md.
 
+**Book 22:** *Módulo 2 de Geografia (GEOGRAFIA — MÓDULO 2, PESD I)* (student book, Portuguese) — MINEDH / IEDA; year 2023; no ISBN printed. Title as printed: Módulo 2 de Geografia (GEOGRAFIA — MÓDULO 2, PESD I). Grade: Grades 7–9 cycle, filed as Grade 7 (student/teacher: STUDENT). PDF pages: 167 (cover verified against the record title; byte size 6,444,493 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE (note: Lição 13's body heading mistakenly repeats "actividade pecuária" wording from Lição 16 — the book's own copy error; content and summary are the agriculture environmental-problems lesson as titled). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What population means | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 4, printed pp. 86–88 |
@@ -68,8 +70,9 @@ countries: Ethiopia, Bolivia, Dominican Republic, Samoa, India, Rwanda, Fiji, Pa
 | Iran part — Characteristics of Iran's population (census of population and housing; why statistics matter for planning) | Iran, *Iran Grade 10 Geography of Iran*, Characteristics of Iran's population (census of population and housing; why statistics matter for planning) — printed p. 73 |
 | Pakistan part — Population and census; importance of a census | Pakistan, *Pakistan Grade 4 SS4*, Population and census; importance of a census — printed pp. 87–88 |
 | Nepal part — Unit 8 Lesson 2: The census — history, introduction and importance | Nepal, *Nepal Grade 6 np-g6*, Unit 8 Lesson 2: The census — history, introduction and importance — printed p. 178 |
+| Mozambique part — Lição 1: População — conceitos básicos (recenseamento/census) | Mozambique, *Mozambique Grade 7 PESD I Mod 2*, Lição 1: População — conceitos básicos (recenseamento/census) — printed p. 10 |
 
-**Acceptance count: taught in 13 countries (Ethiopia, Bolivia, Dominican Republic, Samoa, India, Rwanda, Fiji, Uganda, Sudan, Sri Lanka, Iran, Pakistan, Nepal). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 14 countries (Ethiopia, Bolivia, Dominican Republic, Samoa, India, Rwanda, Fiji, Uganda, Sudan, Sri Lanka, Iran, Pakistan, Nepal, Mozambique). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Bolivia's own way (Grade 8, Secundaria 2): Secundaria 2 is the colonial-history year, so geography enters through the land itself: the Tawantinsuyo's territorial division into suyos, the Amazonian hydraulic cultures who farmed a flooding landscape with raised beds and purified water, the ayllu-versus-hacienda struggle over communal land, and where Afro-Bolivian communities settled in the Yungas.
 
@@ -110,3 +113,5 @@ Iran's own way (Iran Grade 10 Geography of Iran): the whole of Grade 10 geograph
 Pakistan's own way (Pakistan Grade 4 SS4): one combined Social Studies book in Urdu where the Geography chapter (Ch.5, printed pp. 61–93) works entirely through Pakistan's own map, landforms, weather and census, with BOLTS as the map-elements mnemonic and "I have learnt!" / "Work for me to do" boxes closing every topic.
 
 Nepal's own way (Nepal Grade 6 np-g6): Grade 6 has a full "Hamro Prithvi" (Our Earth) unit — Earth's introduction, latitude/longitude, outer-layer structure, then Nepal itself: geographical description, climate, rivers/glaciers/lakes, natural vegetation, natural resources and map study, closing with disaster management; a population unit follows (demography, the census). Economic activities are organised by region and resource: agriculture and industry, services and trade, tourism, and economic resources (land and water; forest, minerals and people).
+
+Mozambique's own way (Mozambique Grade 7 PESD I Mod 2): human/economic geography organised sector by sector — population first, then each economic activity taught world-then-Mozambique (agriculture, livestock, fishing, forestry, industry, commerce, tourism, transport), with Mozambique's own distribution tables, ports and exports as the local evidence.

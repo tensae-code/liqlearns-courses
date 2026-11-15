@@ -1,6 +1,6 @@
 # Sources — Water Bodies — The Five Oceans
 
-countries: Ethiopia, Nauru, Tuvalu, Guatemala, Angola, Dominican Republic, Bahamas, Eritrea, India, Slovenia, Papua New Guinea, Sudan, Mauritania, Yemen, Pakistan, Moldova
+countries: Ethiopia, Nauru, Tuvalu, Guatemala, Angola, Dominican Republic, Bahamas, Eritrea, India, Slovenia, Papua New Guinea, Sudan, Mauritania, Yemen, Pakistan, Moldova, Mozambique
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -42,6 +42,10 @@ countries: Ethiopia, Nauru, Tuvalu, Guatemala, Angola, Dominican Republic, Baham
 
 **Book 20:** *GEOGRAFIE — Manual pentru clasa a VII-a (Vitalie Sochircă, Natalia Cozma)* (student book, Romanian) — Editura ARC; year not legible on the title page as extracted; ISBN 978-9975-0-0706-1. Title as printed: GEOGRAFIE — Manual pentru clasa a VII-a (Vitalie Sochircă, Natalia Cozma). Grade: 7 (student/teacher: STUDENT). PDF pages: 130 (title page verified against the record title; 36,965,973 bytes = record size exactly, via the GitHub release asset — the repo tree path returned 404 and the eduresurse.gov.md download truncated twice at ~20 MB). Verdict: COMPLETE. 12 records / 6 distinct books (TSV + books.json duplicates of the same 6 manuals) — read from the recorded ministry source URLs (eduresurse.gov.md / ctice.md) after the GitHub API route disconnected twice; byte size and page count verified against each record before reading; full text-layer page-by-page reads, as the placements file header records. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/moldova-placements.md.
 
+**Book 21:** *Módulo 1 de Geografia (GEOGRAFIA — MÓDULO 1, PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo)* (student book, Portuguese) — Ministério da Educação e Desenvolvimento Humano (MINEDH) / Instituto de Educação Aberta e à Distância (IEDA); year 2023; no ISBN printed. Title as printed: Módulo 1 de Geografia (GEOGRAFIA — MÓDULO 1, PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo). Grade: Grades 7–9 cycle, filed as Grade 7 (student/teacher: STUDENT). PDF pages: 143 (cover/title page verified against the record title; byte size 10,033,146 matches the books.json record exactly; read via the record's IEDA source URL after grab.py failed twice on both routes with RemoteDisconnected — GitHub API unreachable from this host). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
+
+**Book 22:** *Módulo 4 de Geografia — Pedogeografia e Hidrogeografia* (student book, Portuguese) — Ministério da Educação / IEDA; year not printed (uploaded to IEDA site 2022); no ISBN printed. Title as printed: Módulo 4 de Geografia — Pedogeografia e Hidrogeografia. Grade: Grades 10–12 cycle (2º Ciclo), filed as Grade 10 (student/teacher: STUDENT). PDF pages: 92 (title page verified against the record title; byte size 1,351,167 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE (the book mis-numbers its lessons: two different lessons are both headed "Lição 6" — Importância dos Solos at printed p. 28 and Conceito de Hidrogeografia at printed p. 36; there is no Lição 5 heading). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The largest water bodies | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed p. 6 |
@@ -59,6 +63,8 @@ countries: Ethiopia, Nauru, Tuvalu, Guatemala, Angola, Dominican Republic, Baham
 | Pakistan part — Oceans (Pacific, Atlantic, Indian, Southern, Arctic) | Pakistan, *Pakistan Grade 4 SS4*, Oceans (Pacific, Atlantic, Indian, Southern, Arctic) — printed p. 63 |
 | Moldova part — §19 The World Ocean | Moldova, *Moldova Grade 5 G5 Geography*, §19 The World Ocean — printed p. 75 |
 | Moldova part — 23. The World Ocean: component parts, history of its knowledge and exploration | Moldova, *Moldova Grade 7 G7 Geography*, 23. The World Ocean: component parts, history of its knowledge and exploration — printed p. 98 |
+| Mozambique part — Lição 15: Hidrosfera — os oceanos (salinity table, the oceans one by one) | Mozambique, *Mozambique Grade 7 PESD I Mod 1*, Lição 15: Hidrosfera — os oceanos (salinity table, the oceans one by one) — printed p. 79 |
+| Mozambique part — Lição 10: Oceanos e Mares (salinity 35‰, freezing at −2 °C, ¾ of Earth's surface) | Mozambique, *Mozambique Grade 10 PESD II Mod 4*, Lição 10: Oceanos e Mares (salinity 35‰, freezing at −2 °C, ¾ of Earth's surface) — printed p. 61 |
 
 | Sub lesson 4 — Arctic and Atlantic — Grade 11 portraits (Grade 11 depth) | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 1, printed pp. 18–20 |
 | Sub lesson 5 — Indian and Pacific — Grade 11 portraits (Grade 11 depth) | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 1, printed pp. 18–20 |
@@ -69,7 +75,7 @@ countries: Ethiopia, Nauru, Tuvalu, Guatemala, Angola, Dominican Republic, Baham
 | Guatemala part — Mares y océanos: Atlántico/Mar Caribe and Pacífico around the isthmus | Guatemala, *Ciencias Sociales y Formación Ciudadana*, Grade 4, Mares y océanos: Atlántico/Mar Caribe and Pacífico around the isthmus (Unit 2) — printed p. 83 |
 | Dominican Republic part (Grade 3) — Seas and oceans, and the impact of human actions on them | Dominican Republic, *Ciencias Sociales, Tercer Grado, Primaria (Libro Abierto)*, Grade 3, Seas and oceans, and the impact of human actions on them — printed p. 16 |
 
-**Acceptance count: taught in 15 countries (Ethiopia, Nauru, Tuvalu, Guatemala, Angola, Dominican Republic, Bahamas, Eritrea, India, Slovenia, Sudan, Mauritania, Yemen, Pakistan, Moldova). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 16 countries (Ethiopia, Nauru, Tuvalu, Guatemala, Angola, Dominican Republic, Bahamas, Eritrea, India, Slovenia, Sudan, Mauritania, Yemen, Pakistan, Moldova, Mozambique). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Nauru's own way: Nauru uses the shared Pacific ESD reader suite (local advisors Fay Itaia & Sharon Kam for Nauru) — Geography is taught as ocean stewardship: the Pacific as a connected "sea of islands", its animals, and the traditional fishing knowledge of Tonga, Tuvalu and Niue, ending in a plastic-waste action plan. That way is stocked here as the way Nauru teaches this thing.
 
@@ -108,3 +114,7 @@ Pakistan's own way (Pakistan Grade 4 SS4): one combined Social Studies book in U
 Moldova's own way (Moldova Grade 5 G5 Geography): first Geography year built as a single Earth-systems arc — planet, envelopes (lithosphere/atmosphere/hydrosphere/biosphere), human society, then a closing "Protecting the Earth" chapter; every paragraph opens with "you will be able to" outcomes and chapters close with evaluation tests, plus two practical applications (map work; a week-long weather calendar).
 
 Moldova's own way (Moldova Grade 7 G7 Geography): the northern continents year (North America, then Eurasia) taught with the same continent template as Grade 6, opened by a full unit on the degree network (latitude, longitude, coordinates, distances) with practical work, and closed by a whole unit on the World Ocean taken ocean by ocean; climate zones are described "by algorithm" in a set practical.
+
+Mozambique's own way (Mozambique Grade 7 PESD I Mod 1): distance-learning self-study module — every lesson follows the same rhythm (introduction, development with worked examples, exercises, answer key, lesson summary); the four Earth spheres are the organising spine of the whole module, each sphere closed by a "use, protection and conservation" lesson; local anchors throughout (Maputo temperature worked example, Zambezi delta, Moma/Namialo weather contrast).
+
+Mozambique's own way (Mozambique Grade 10 PESD II Mod 4): two half-courses bound together — pedogeography (soil composition, profile, properties, pedogenesis, Dokuchaev classification, soil conservation with terrace/sucalco practice) then hydrogeography (basins and river regimes, groundwater, water balance, lakes, oceans, tides and currents).

@@ -1,6 +1,6 @@
 # Sources — Trains, planes and boats
 
-countries: Ethiopia, Guatemala, Bahamas, Zimbabwe, Malaysia, India, Slovenia, Uganda, Venezuela, Kuwait, Iran, Yemen, Libya, Moldova
+countries: Ethiopia, Guatemala, Bahamas, Zimbabwe, Malaysia, India, Slovenia, Uganda, Venezuela, Kuwait, Iran, Yemen, Libya, Moldova, Mozambique
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -38,6 +38,8 @@ countries: Ethiopia, Guatemala, Bahamas, Zimbabwe, Malaysia, India, Slovenia, Ug
 
 **Book 18:** *GEOGRAFIE — Manual pentru clasa a XI-a (Mihai Hachi, Elena Sochircă, Silvia Suvac, Tudor Castraveț)* (student book, Romanian) — Editura Lumina, Chișinău; year 2025 (approval order 1232 of 18.07.2025); ISBN 978-9975-65-521-7. Title as printed: GEOGRAFIE — Manual pentru clasa a XI-a (Mihai Hachi, Elena Sochircă, Silvia Suvac, Tudor Castraveț). Grade: 11 (student/teacher: STUDENT). PDF pages: 138 (cover verified against the record title; 12,947,266 bytes = record size exactly, eduresurse.gov.md via resume loop). Verdict: COMPLETE. 12 records / 6 distinct books (TSV + books.json duplicates of the same 6 manuals) — read from the recorded ministry source URLs (eduresurse.gov.md / ctice.md) after the GitHub API route disconnected twice; byte size and page count verified against each record before reading; full text-layer page-by-page reads, as the placements file header records. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/moldova-placements.md.
 
+**Book 19:** *Módulo 2 de Geografia (GEOGRAFIA — MÓDULO 2, PESD I)* (student book, Portuguese) — MINEDH / IEDA; year 2023; no ISBN printed. Title as printed: Módulo 2 de Geografia (GEOGRAFIA — MÓDULO 2, PESD I). Grade: Grades 7–9 cycle, filed as Grade 7 (student/teacher: STUDENT). PDF pages: 167 (cover verified against the record title; byte size 6,444,493 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE (note: Lição 13's body heading mistakenly repeats "actividade pecuária" wording from Lição 16 — the book's own copy error; content and summary are the agriculture environmental-problems lesson as titled). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Rail and air | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 5, printed pp. 140–143 |
@@ -59,8 +61,9 @@ countries: Ethiopia, Guatemala, Bahamas, Zimbabwe, Malaysia, India, Slovenia, Ug
 | Libya part — Ch.7: النقل الجوي — Air transport in the Arab World | Libya, *Libya Grade 8 LY G8 Arab World*, Ch.7: النقل الجوي — Air transport in the Arab World — printed p. 96 |
 | Libya part — Ch.12: النقل الجوي — Air transport in the Arab World | Libya, *Libya Grade 11 LY G11 Arab World*, Ch.12: النقل الجوي — Air transport in the Arab World — printed p. 192 |
 | Moldova part — 37–38. Transport and communications | Moldova, *Moldova Grade 11 G11 Geography*, 37–38. Transport and communications — printed p. 81 |
+| Mozambique part — Lição 30: rail history, river navigation works (dams), world air routes and great airports | Mozambique, *Mozambique Grade 7 PESD I Mod 2*, Lição 30: rail history, river navigation works (dams), world air routes and great airports — printed p. 140 |
 
-**Acceptance count: taught in 13 countries (Ethiopia, Guatemala, Bahamas, Malaysia, India, Slovenia, Uganda, Venezuela, Kuwait, Iran, Yemen, Libya, Moldova). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 14 countries (Ethiopia, Guatemala, Bahamas, Malaysia, India, Slovenia, Uganda, Venezuela, Kuwait, Iran, Yemen, Libya, Moldova, Mozambique). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
 
 The airline destination figures (62+ African, 127+ international) are taught as printed in the student book (Unit 5, printed pp. 140–143), in the book’s own "as printed" framing.
 
@@ -97,3 +100,5 @@ Libya's own way (Libya Grade 8 LY G8 Arab World): The scale widens from Libya (G
 Libya's own way (Libya Grade 11 LY G11 Arab World): The Grade 8 Arab World survey returns at secondary depth in two parts — physical (relief treated separately for the African and Asian sides, climate factors and regions, soils, vegetation, water with its problems) and human (population structure and problems, agriculture and its difficulties, crop-by-crop chapters, livestock and sea wealth, minerals metal by metal, oil and gas, alternative energy, industry, transport).
 
 Moldova's own way (Moldova Grade 11 G11 Geography): a human geography of the world year — political map and state typology, natural resources by sphere, population and settlements, then the world economy branch by branch (agriculture, each industry, services, transport, tourism), closing with economic-geographic characterisations of 14 states on every continent (Egypt among them) written to one template, plus case studies including labour migration at local/regional/global scale and using Google Maps/Google Earth as geo-information portals.
+
+Mozambique's own way (Mozambique Grade 7 PESD I Mod 2): human/economic geography organised sector by sector — population first, then each economic activity taught world-then-Mozambique (agriculture, livestock, fishing, forestry, industry, commerce, tourism, transport), with Mozambique's own distribution tables, ports and exports as the local evidence.

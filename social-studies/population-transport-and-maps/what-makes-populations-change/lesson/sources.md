@@ -1,6 +1,6 @@
 # Sources — What makes populations change
 
-countries: Ethiopia, Colombia, India, Rwanda, Fiji, Papua New Guinea, Uganda, Venezuela, Mauritania, Kuwait, Iran, Pakistan, Libya, Nepal
+countries: Ethiopia, Colombia, India, Rwanda, Fiji, Papua New Guinea, Uganda, Venezuela, Mauritania, Kuwait, Iran, Pakistan, Libya, Nepal, Mozambique
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). Editors: Sintayehu Teka (MSc) (Content Editor), Kassie Molla (MA) (Language Editor), Hirut Woldemichael (MA) (Curriculum Editor). Illustrator: Agenchw Nega (MSc). Designer: Geda Hoka (MA). Evaluators: Dereje Guteta (PhD), Tesfaye Shiferaw (PhD), Abebe Yibeltie (MA), Hussein Seid (MA). First published 2023 under GEQIP-E. ISBN 978-99990-0-049-9. Printed by Gravity Group IND LLC, 13th Industrial Area, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. Printed page = PDF page − 6 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md
 
@@ -52,6 +52,8 @@ countries: Ethiopia, Colombia, India, Rwanda, Fiji, Papua New Guinea, Uganda, Ve
 
 **Book 25:** *Samajik Adhyayan Kaksha 9 (Social Studies Grade 9, 2079)* (student book, Nepali) — Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; year First edition 2079 BS; ISBN 978-9937-601-… (ISBN printed truncated in the imprint scan: "978-9937-601- -"). Title as printed: Samajik Adhyayan Kaksha 9 (Social Studies Grade 9, 2079). Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 257 (cover/title page verified against the record title — Devanagari title page matches). Verdict: COMPLETE. Non-Geography parts named (not placed): Unit 1 We and our society (printed pp. 1–16); Unit 3 Our social values and beliefs (pp. 35–72); Unit 4 Social problems and solutions (pp. 73–85); Unit 5 Civic consciousness (pp. 86–115, civics); Unit 7 Our Past (pp. 167–194, History); Unit 9 International relations, peace and cooperation (pp. 217–234). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nepal-placements.md.
 
+**Book 26:** *Módulo 2 de Geografia (GEOGRAFIA — MÓDULO 2, PESD I)* (student book, Portuguese) — MINEDH / IEDA; year 2023; no ISBN printed. Title as printed: Módulo 2 de Geografia (GEOGRAFIA — MÓDULO 2, PESD I). Grade: Grades 7–9 cycle, filed as Grade 7 (student/teacher: STUDENT). PDF pages: 167 (cover verified against the record title; byte size 6,444,493 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE (note: Lição 13's body heading mistakenly repeats "actividade pecuária" wording from Lição 16 — the book's own copy error; content and summary are the agriculture environmental-problems lesson as titled). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Births, deaths and migration | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 6, printed pp. 146–149 |
@@ -81,8 +83,9 @@ countries: Ethiopia, Colombia, India, Rwanda, Fiji, Papua New Guinea, Uganda, Ve
 | Nepal part — Unit 8 Lesson 3: Causes of population change | Nepal, *Nepal Grade 7 np-g7*, Unit 8 Lesson 3: Causes of population change — printed p. 163 |
 | Nepal part — Unit 8 Lesson 3: Causes of population change (teacher guide — evidence) | Nepal, *Nepal Grade 7 TG np-g7tg* (teacher guide), Unit 8 Lesson 3: Causes of population change — TG p. 166 |
 | Nepal part — Unit 10 Lesson 2: Factors affecting population change in Nepal | Nepal, *Nepal Grade 9 np-g9*, Unit 10 Lesson 2: Factors affecting population change in Nepal — printed p. 238 |
+| Mozambique part — Lição 2: natural growth, político-legal/socio-economic factors of births and deaths | Mozambique, *Mozambique Grade 7 PESD I Mod 2*, Lição 2: natural growth, político-legal/socio-economic factors of births and deaths — printed p. 15 |
 
-**Acceptance count: taught in 13 countries (Ethiopia, Colombia, India, Rwanda, Fiji, Uganda, Venezuela, Mauritania, Kuwait, Iran, Pakistan, Libya, Nepal). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 14 countries (Ethiopia, Colombia, India, Rwanda, Fiji, Uganda, Venezuela, Mauritania, Kuwait, Iran, Pakistan, Libya, Nepal, Mozambique). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 No book error is flagged for this lesson's pages in the placements. The teacher guide was first published in 2022 against the student book's 2023; the student book is the learner text of record, and the guide is cited as evidence only.
 
@@ -133,3 +136,5 @@ Nepal's own way (Nepal Grade 7 np-g7): Grade 7 Earth science is motion-first —
 Nepal's own way (Nepal Grade 7 TG np-g7tg) (teacher guide — evidence): The guide teaches the same Grade 7 course as np-g7 with globe-and-ball demonstrations of rotation/revolution, chart work on Nepal's demographic structure (age, sex, religion, caste, language distributions), and discussion-led lessons; its geography content mirrors the student book lesson for lesson, so placements repeat with guide page references. That evidence is stocked here as the way Nepal teaches this thing; it is cited as evidence only — Nepal is counted in this lesson through its student book(s).
 
 Nepal's own way (Nepal Grade 9 np-g9): Grade 9 "Hamro Prithvi" widens from Nepal (latitude/longitude, surface form, climate, vegetation, minerals and water resources, map work) to whole continents — Asia, Europe and Australia, each in two lessons (geographical/natural environment, then economic activities and social life); the preface notes this is a model textbook tested in schools under the 2076 secondary curriculum.
+
+Mozambique's own way (Mozambique Grade 7 PESD I Mod 2): human/economic geography organised sector by sector — population first, then each economic activity taught world-then-Mozambique (agriculture, livestock, fishing, forestry, industry, commerce, tourism, transport), with Mozambique's own distribution tables, ports and exports as the local evidence.

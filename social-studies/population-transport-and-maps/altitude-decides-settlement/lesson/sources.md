@@ -1,6 +1,6 @@
 # Sources — Altitude decides settlement
 
-countries: Ethiopia, Slovenia, Papua New Guinea
+countries: Ethiopia, Slovenia, Papua New Guinea, Mozambique
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Slovenia, Papua New Guinea
 
 **Book 4:** *Social Science Teacher Guide — Junior High Grade 10, Standards-Based* (teacher guide, English) — Department of Education, Papua New Guinea; year 2020; ISBN 978-9980-905-94-9. Title as printed: Social Science Teacher Guide — Junior High Grade 10, Standards-Based. Grade: Grade 10 (student/teacher: TEACHER). PDF pages: 338 (cover/title page verified against the record title). Verdict: COMPLETE. Teacher guides read full page-by-page via pdftotext -layout after cover verification; books were fetched from their recorded ministry source_urls (education.gov.pg, as recorded in the books.json records) with resumable curl and each file was verified against the record's exact size_bytes and page count before reading — identical bytes to the pushed copies by size + pages + cover, as the placements file records. Records: 22 records / 11 distinct books (11 TSV records + 11 books.json records that are the same books by repo path — each pair read once). (combined book — Geography parts placed below; non-Geography parts named in the placements, not placed: Strand 2 History (History), printed pp. 93–151; Strand 3 Political Science (Civics), printed pp. 152–195; Strand 4 Economics (Economics), printed pp. 196–249.) Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/papua-new-guinea-placements.md.
 
+**Book 5:** *Módulo 5 de Geografia — População* (student book, Portuguese) — Ministério da Educação / IEDA; year not printed (uploaded to IEDA site 2022); no ISBN printed. Title as printed: Módulo 5 de Geografia — População. Grade: Grades 10–12 cycle (2º Ciclo), filed as Grade 10 (student/teacher: STUDENT). PDF pages: 109 (title page verified against the record title; byte size 5,447,158 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Bands of height | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 4, printed pp. 100–102 |
@@ -17,11 +19,14 @@ countries: Ethiopia, Slovenia, Papua New Guinea
 | Teaching pattern and answer keys (teacher guide — evidence) — Grade 9 Unit 4 | Ethiopia, *Geography, Teacher Guide, Grade 9*, Unit 4, guide printed pp. 99–142 |
 | Slovenia part — Vpliv izoblikovanosti površja na poselitev in gospodarstvo (how relief shape affects settlement, transport and tourism) | Slovenia, *Slovenia Grade 10 Geografija 1 (gimnazija)*, Vpliv izoblikovanosti površja na poselitev in gospodarstvo (how relief shape affects settlement, transport and tourism) — printed p. 68 |
 | Papua New Guinea part — Strand 1 Unit 2, Topics 2–4: Features of physical geography and settlement patterns, economic activities and population density (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 10 Social Science TG* (teacher guide), Strand 1 Unit 2, Topics 2–4: Features of physical geography and settlement patterns, economic activities and population density — printed p. 60 |
+| Mozambique part — Lição 2: Factores de Distribuição (relief and the great human voids on the world relief map) | Mozambique, *Mozambique Grade 10 PESD II Mod 5*, Lição 2: Factores de Distribuição (relief and the great human voids on the world relief map) — printed p. 14 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Slovenia). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 3 countries (Ethiopia, Slovenia, Mozambique). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Searchable tags: altitude and population, settlement, 1800-2600, altitude bands, social studies
 
 Slovenia's own way (Slovenia Grade 10 Geografija 1 (gimnazija)): the gimnazija first year is systematic physical geography first (Earth's interior, rocks, landforms, weather and climate, soils, vegetation, waters), then human geography (population, settlements, farming, industry and energy, transport, tourism), closing on sustainable development and spatial planning — with Slovenian cases (earthquake risk in Slovenia, the Port of Koper) set inside the world topics.
 
 Papua New Guinea's own way (Papua New Guinea Grade 10 Social Science TG) (teacher guide — evidence): Grade 10 Geography is a population course — population pyramids in depth, world physical geography's effects on settlement, density and economic activity, then PNG-only migration (types, internal migration, routes and trends) and PNG's land-mobilisation questions (undeveloped land, Special Agricultural Business Leases, land grabbing). That evidence is stocked here as the way Papua New Guinea teaches this thing; it does not change the acceptance count above.
+
+Mozambique's own way (Mozambique Grade 10 PESD II Mod 5): population geography taught as a developed-world/developing-world contrast throughout — distribution factors, growth, Malthus and the transition, then the two evolutions (developed countries; the "Terceiro Mundo" set) with their opposite population policies, closing on structures, demographic problems (incl. HIV cutting life expectancy below 50) and population–economy/environment relations.

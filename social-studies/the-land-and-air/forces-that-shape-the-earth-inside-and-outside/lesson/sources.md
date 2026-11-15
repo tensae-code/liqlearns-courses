@@ -1,6 +1,6 @@
 # Sources — Forces that shape the Earth — inside and outside
 
-countries: Ethiopia, Cambodia, Rwanda, Vietnam, Papua New Guinea, Syria, Iran, Yemen, Pakistan, Libya, Nepal
+countries: Ethiopia, Cambodia, Rwanda, Vietnam, Papua New Guinea, Syria, Iran, Yemen, Pakistan, Libya, Nepal, Mozambique
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -28,6 +28,8 @@ countries: Ethiopia, Cambodia, Rwanda, Vietnam, Papua New Guinea, Syria, Iran, Y
 
 **Book 13:** *Shikshak Nirdeshika Samajik Adhyayan tatha Manav Mulya Shiksha Kaksha 7 (Teacher's Guide Social Studies and Human Value Education Grade 7, 2079)* (teacher guide, Nepali) — Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; year 2079 BS; ISBN no ISBN printed. Title as printed: Shikshak Nirdeshika Samajik Adhyayan tatha Manav Mulya Shiksha Kaksha 7 (Teacher's Guide Social Studies and Human Value Education Grade 7, 2079). Grade: Grade 7 (student/teacher: TEACHER). PDF pages: 202 (cover/title page verified against the record title — Devanagari title page matches; page references below are the guide's PDF pages, its printed folios being in the same sequence). Verdict: COMPLETE. Non-Geography parts named (not placed): Units 1–5 and 9 as in the student book (society, values, civics, social problems, History, international relations), and Unit 6 Lesson 5 Government income and expenditure (civics/fiscal). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nepal-placements.md.
 
+**Book 14:** *Módulo 3 de Geografia — Geomorfologia* (student book, Portuguese) — Ministério da Educação / IEDA; year not printed (uploaded to IEDA site 2022); no ISBN printed. Title as printed: Módulo 3 de Geografia — Geomorfologia. Grade: Grades 10–12 cycle (2º Ciclo), filed as Grade 10 (student/teacher: STUDENT). PDF pages: 138 (title page verified against the record title; byte size 5,627,754 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE (the book's own contents page omits Lição 2 "Rochas" — it is present in the body at printed p. 10; contents-page error in the book itself). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Two families of forces | G12 student #9, printed pp. 11–12, 24 |
@@ -44,8 +46,9 @@ countries: Ethiopia, Cambodia, Rwanda, Vietnam, Papua New Guinea, Syria, Iran, Y
 | Libya part — Unit 1: العوامل التي تؤثر في تشكيل سطح الأرض — The factors that shape Earth's surface, internal and external | Libya, *Libya Grade 6 LY G6 Social Studies*, Unit 1: العوامل التي تؤثر في تشكيل سطح الأرض — The factors that shape Earth's surface, internal and external — printed p. 67 |
 | Nepal part — Unit 7 Lesson 3: Factors that bring change in the surface form | Nepal, *Nepal Grade 7 np-g7*, Unit 7 Lesson 3: Factors that bring change in the surface form — printed p. 130 |
 | Nepal part — Unit 7 Lesson 3: Factors that bring change in the surface form (teacher guide — evidence) | Nepal, *Nepal Grade 7 TG np-g7tg* (teacher guide), Unit 7 Lesson 3: Factors that bring change in the surface form — TG p. 133 |
+| Mozambique part — Lição 15: Agentes Externos do Relevo (external geodynamics fed by the Sun) | Mozambique, *Mozambique Grade 10 PESD II Mod 3*, Lição 15: Agentes Externos do Relevo (external geodynamics fed by the Sun) — printed p. 83 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Cambodia, Rwanda, Vietnam, Syria, Iran, Yemen, Pakistan, Libya, Nepal). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 11 countries (Ethiopia, Cambodia, Rwanda, Vietnam, Syria, Iran, Yemen, Pakistan, Libya, Nepal, Mozambique). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Placement honesty carried: the placements place the eruption-style / Krakatoa passage before the 1.4.2 heading, inside the flow of 1.4.1's closing pages (printed p. 24) — a layout slip in the book, named here; the content itself is taught as the placements give it.
 
@@ -74,3 +77,5 @@ Libya's own way (Libya Grade 6 LY G6 Social Studies): The geography half is "Pri
 Nepal's own way (Nepal Grade 7 np-g7): Grade 7 Earth science is motion-first — Earth's daily and annual motion, surface form and the factors that change it, surface form's relation to human life — then Nepal's climate, the seven provinces of federal Nepal, climate change, disasters and map work; population is taught as structure, change and management.
 
 Nepal's own way (Nepal Grade 7 TG np-g7tg) (teacher guide — evidence): The guide teaches the same Grade 7 course as np-g7 with globe-and-ball demonstrations of rotation/revolution, chart work on Nepal's demographic structure (age, sex, religion, caste, language distributions), and discussion-led lessons; its geography content mirrors the student book lesson for lesson, so placements repeat with guide page references. That evidence is stocked here as the way Nepal teaches this thing; it is cited as evidence only — Nepal is counted in this lesson through its student book(s).
+
+Mozambique's own way (Mozambique Grade 10 PESD II Mod 3): a systematic geomorphology course — rocks and Earth's interior first, then isostasy, continental drift and plate tectonics, then internal agents (folds, faults, earthquakes, volcanoes in four lessons), then external agents and the modelled landscapes of hot, temperate, cold and coastal environments, closing with the geological cycle.

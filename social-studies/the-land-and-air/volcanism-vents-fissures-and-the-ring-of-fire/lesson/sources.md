@@ -1,6 +1,6 @@
 # Sources — Volcanism — vents, fissures and the Ring of Fire
 
-countries: Ethiopia, Dominican Republic, Samoa, Slovenia
+countries: Ethiopia, Dominican Republic, Samoa, Slovenia, Mozambique
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Dominican Republic, Samoa, Slovenia
 
 **Book 4:** *Geografija 1, gimnazija* (student book, Slovenian) — Slovenia, Zavod RS za šolstvo, Ljubljana; year 2015; ISBN 978-961-03-0284-1. Title as printed: Geografija 1 (gimnazija) (i-učbenik / interactive textbook). Grade: Grade 10 (first year of gimnazija) (student/teacher: STUDENT). PDF pages: not a PDF — ZIP package (interactive e-textbook) of 423,855,798 bytes; book pagination runs to printed p. 320 (Kazalo); all 359 content HTML pages extracted by range request and size-verified against the ZIP central directory, and read. Verdict: COMPLETE (text content; the package's videos/images were not individually viewed — the teaching text, headings, summaries and tasks were read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/slovenia-placements.md.
 
+**Book 5:** *Módulo 3 de Geografia — Geomorfologia* (student book, Portuguese) — Ministério da Educação / IEDA; year not printed (uploaded to IEDA site 2022); no ISBN printed. Title as printed: Módulo 3 de Geografia — Geomorfologia. Grade: Grades 10–12 cycle (2º Ciclo), filed as Grade 10 (student/teacher: STUDENT). PDF pages: 138 (title page verified against the record title; byte size 5,627,754 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE (the book's own contents page omits Lição 2 "Rochas" — it is present in the body at printed p. 10; contents-page error in the book itself). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Vents and fissures | G12 student #16, printed pp. 19–20 |
@@ -17,8 +19,10 @@ countries: Ethiopia, Dominican Republic, Samoa, Slovenia
 | Dominican Republic part (Grade 10) — Volcanoes | Dominican Republic, *Ciencias Sociales, Cuarto Grado, Secundaria (Libro Abierto)*, Grade 10, Volcanoes — printed p. 32 (the placements name the target as the-land-and-air/volcanoes-and-how-they-work; that slug does not exist, so this placement is stocked in this closest covering lesson, with the original slug recorded here) |
 | Samoa part (Year 13 Geography) — Part 1 Unit 1 Volcanic Eruptions | Samoa, *Geography, Year 13*, Part 1 Unit 1 Volcanic Eruptions — printed p. 21 |
 | Slovenia part — Vulkanizem in potresi: Vulkanizem (volcanism) | Slovenia, *Slovenia Grade 10 Geografija 1 (gimnazija)*, Vulkanizem in potresi: Vulkanizem (volcanism) — printed p. 18 |
+| Mozambique part — Lição 13: Vulcanismo — materiais expelidos pelos vulcões (solids, liquids, gases; geyser formation; negative impacts) | Mozambique, *Mozambique Grade 10 PESD II Mod 3*, Lição 13: Vulcanismo — materiais expelidos pelos vulcões (solids, liquids, gases; geyser formation; negative impacts) — printed p. 73 |
+| Mozambique part — Lição 14: Distribuição Geográfica das Regiões Vulcânicas (Pacific, Indian Ocean islands; Africa — Cameroon, Cape Verde, Rift Valley: Kilimanjaro, Nyiragongo; prevention) | Mozambique, *Mozambique Grade 10 PESD II Mod 3*, Lição 14: Distribuição Geográfica das Regiões Vulcânicas (Pacific, Indian Ocean islands; Africa — Cameroon, Cape Verde, Rift Valley: Kilimanjaro, Nyiragongo; prevention) — printed p. 79 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Dominican Republic, Samoa, Slovenia).**
+**Acceptance count: taught in 5 countries (Ethiopia, Dominican Republic, Samoa, Slovenia, Mozambique).**
 
 No book error in the placements for this lesson is taught here. Counts and examples are taught exactly as the placements report them.
 
@@ -29,3 +33,5 @@ Dominican Republic's own way (Grade 10): This is the physical-geography year: th
 Samoa's own way (Year 13 Geography): The final-year course is hazard- and water-centred for an island nation — volcanic eruptions and tropical cyclones (including Cyclone Heta on Niue), the hydrological cycle and water management, then atmosphere and climate change with Pacific consequences.
 
 Slovenia's own way (Slovenia Grade 10 Geografija 1 (gimnazija)): the gimnazija first year is systematic physical geography first (Earth's interior, rocks, landforms, weather and climate, soils, vegetation, waters), then human geography (population, settlements, farming, industry and energy, transport, tourism), closing on sustainable development and spatial planning — with Slovenian cases (earthquake risk in Slovenia, the Port of Koper) set inside the world topics.
+
+Mozambique's own way (Mozambique Grade 10 PESD II Mod 3): a systematic geomorphology course — rocks and Earth's interior first, then isostasy, continental drift and plate tectonics, then internal agents (folds, faults, earthquakes, volcanoes in four lessons), then external agents and the modelled landscapes of hot, temperate, cold and coastal environments, closing with the geological cycle.

@@ -1,6 +1,6 @@
 # Sources — Water Bodies — Lakes
 
-countries: Ethiopia, Belarus, Guatemala, Eritrea, India, Rwanda, Slovenia, Uganda, Afghanistan, Iran
+countries: Ethiopia, Belarus, Guatemala, Eritrea, India, Rwanda, Slovenia, Uganda, Afghanistan, Iran, Mozambique
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -36,6 +36,10 @@ countries: Ethiopia, Belarus, Guatemala, Eritrea, India, Rwanda, Slovenia, Ugand
 
 **Book 17:** *جغرافیای ایران (Geography of Iran) — for all branches (theoretical, technical-vocational, kardanesh)* (student book, Persian) — سازمان پژوهش و برنامه‌ریزی آموزشی (Organization for Educational Research and Planning), Ministry of Education; printed by شرکت چاپ و نشر کتاب‌های درسی ایران; year 1405 (11th printing); ISBN 978-964-05-2744-3; book code 110218. Title as printed: جغرافیای ایران (Geography of Iran) — for all branches (theoretical, technical-vocational, kardanesh). Grade: 10 (student/teacher: STUDENT). PDF pages: 120 (cover/title page verified against the record title; byte size 8,709,753 and page count 120 match the books.json record exactly; read from the record's own ministry source chap.sch.ir, the file the record was pushed from, because the GitHub API route was disconnected on repeated attempts). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iran-placements.md.
 
+**Book 18:** *Módulo 1 de Geografia (GEOGRAFIA — MÓDULO 1, PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo)* (student book, Portuguese) — Ministério da Educação e Desenvolvimento Humano (MINEDH) / Instituto de Educação Aberta e à Distância (IEDA); year 2023; no ISBN printed. Title as printed: Módulo 1 de Geografia (GEOGRAFIA — MÓDULO 1, PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo). Grade: Grades 7–9 cycle, filed as Grade 7 (student/teacher: STUDENT). PDF pages: 143 (cover/title page verified against the record title; byte size 10,033,146 matches the books.json record exactly; read via the record's IEDA source URL after grab.py failed twice on both routes with RemoteDisconnected — GitHub API unreachable from this host). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
+
+**Book 19:** *Módulo 4 de Geografia — Pedogeografia e Hidrogeografia* (student book, Portuguese) — Ministério da Educação / IEDA; year not printed (uploaded to IEDA site 2022); no ISBN printed. Title as printed: Módulo 4 de Geografia — Pedogeografia e Hidrogeografia. Grade: Grades 10–12 cycle (2º Ciclo), filed as Grade 10 (student/teacher: STUDENT). PDF pages: 92 (title page verified against the record title; byte size 1,351,167 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE (the book mis-numbers its lessons: two different lessons are both headed "Lição 6" — Importância dos Solos at printed p. 28 and Conceito de Hidrogeografia at printed p. 36; there is no Lição 5 heading). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Land on every side | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 7–8 |
@@ -58,8 +62,10 @@ countries: Ethiopia, Belarus, Guatemala, Eritrea, India, Rwanda, Slovenia, Ugand
 | Afghanistan part — Ch. 2 Lesson 20: the lakes of Australia | Afghanistan, *Afghanistan Grade 9 Geography (Dari)*, Ch. 2 Lesson 20: the lakes of Australia — printed p. 61 |
 | Afghanistan part — Ch. 3 Lesson 30: the famous lakes of Afghanistan | Afghanistan, *Afghanistan Grade 10 Geography (Dari)*, Ch. 3 Lesson 30: the famous lakes of Afghanistan — printed p. 107 |
 | Iran part — Iran's water resources (Iran's lakes, permanent and seasonal) | Iran, *Iran Grade 10 Geography of Iran*, Iran's water resources (Iran's lakes, permanent and seasonal) — printed p. 59 |
+| Mozambique part — Lição 18: Os Lagos (origin: tectonic/volcanic/external; types emissor/transmissor/receptor/isolado) | Mozambique, *Mozambique Grade 7 PESD I Mod 1*, Lição 18: Os Lagos (origin: tectonic/volcanic/external; types emissor/transmissor/receptor/isolado) — printed p. 99 |
+| Mozambique part — Lição 9: Lagos (tectonic vs glacial origin; emission vs transmission lakes — Lake Constance crossed by the Rhine) | Mozambique, *Mozambique Grade 10 PESD II Mod 4*, Lição 9: Lagos (tectonic vs glacial origin; emission vs transmission lakes — Lake Constance crossed by the Rhine) — printed p. 55 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Belarus, Guatemala, Eritrea, India, Slovenia, Uganda, Afghanistan, Iran). Rwanda is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 10 countries (Ethiopia, Belarus, Guatemala, Eritrea, India, Slovenia, Uganda, Afghanistan, Iran, Mozambique). Rwanda is named here as teacher-guide evidence only, counted nowhere.**
 
 Pairing warning: the Grade 8 teacher guide is an Addis Ababa bureau book and the student book is an Amhara bureau book; they are NOT edition-matched, and the guide in hand is truncated (printed pp. 1–47 only, Units 1–3). Pupil content in this lesson comes from the Amhara student book; anything from the guide is labelled (teacher guide — evidence) and never presented as pupil-taught.
 
@@ -94,3 +100,7 @@ Afghanistan's own way (Afghanistan Grade 9 Geography (Dari)): the continent marc
 Afghanistan's own way (Afghanistan Grade 10 Geography (Dari)): the upper-secondary pattern changes from continent tours to themes studied in depth through Afghanistan itself: a full map-skills chapter (map types, scale, colour, projection, satellite photos), Afghanistan's climate and each of its river basins one by one (Amu, Kabul, Helmand–Sistan, Harirud, the closed basins), an environment-protection chapter aimed at Kabul's air and streets, a natural-hazards chapter, then earth-and-space and atmosphere chapters.
 
 Iran's own way (Iran Grade 10 Geography of Iran): the whole of Grade 10 geography is one national book — Iran's own natural and human geography for every branch; nearly every lesson closes with a "know your own living place" activity tied to the separate provincial-studies book, so national content is always re-applied to the learner's own province.
+
+Mozambique's own way (Mozambique Grade 7 PESD I Mod 1): distance-learning self-study module — every lesson follows the same rhythm (introduction, development with worked examples, exercises, answer key, lesson summary); the four Earth spheres are the organising spine of the whole module, each sphere closed by a "use, protection and conservation" lesson; local anchors throughout (Maputo temperature worked example, Zambezi delta, Moma/Namialo weather contrast).
+
+Mozambique's own way (Mozambique Grade 10 PESD II Mod 4): two half-courses bound together — pedogeography (soil composition, profile, properties, pedogenesis, Dokuchaev classification, soil conservation with terrace/sucalco practice) then hydrogeography (basins and river regimes, groundwater, water balance, lakes, oceans, tides and currents).

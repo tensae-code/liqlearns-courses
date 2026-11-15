@@ -1,6 +1,6 @@
 # Sources — Does geography decide? Determinism versus possibilism
 
-countries: Ethiopia, Turkey, Colombia, Venezuela
+countries: Ethiopia, Turkey, Colombia, Venezuela, Mozambique
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Turkey, Colombia, Venezuela
 
 **Book 7:** *El espacio geográfico de la Humanidad — Ciencias Sociales, 1er Año* (student book, Spanish) — Ministerio del Poder Popular para la Educación / Colección Bicentenario (co-edition with Ministerio de Cultura, Fundación Editorial El perro y la rana); year 2014 (third edition, April 2014); ISBN 978-980-218-334-0. Title as printed: El espacio geográfico de la Humanidad — Ciencias Sociales, 1er Año. Grade: Grade 7 (1er Año de Educación Media) (student/teacher: STUDENT). PDF pages: 162 (cover/title page verified against the record title; byte size 88,531,252 matches the books.json record; read in place in phase3-staging). Verdict: COMPLETE. (Combined book — Geography parts placed below; parts named, not placed — History/Civics parts named, not placed: none — this is a pure Geography book; historical material (Caracas 1936/1966, Bolívar's unity ideal) is used inside Geography chapters.) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/venezuela-placements.md.
 
+**Book 8:** *Módulo 1 de Geografia — Introdução ao Pensamento Geográfico e Cosmografia* (student book, Portuguese) — Ministério da Educação / Instituto de Educação Aberta e à Distância (IEDA); year not printed (uploaded to IEDA site 2022); no ISBN printed. Title as printed: Módulo 1 de Geografia — Introdução ao Pensamento Geográfico e Cosmografia. Grade: Grades 10–12 cycle (2º Ciclo), filed as Grade 10 (student/teacher: STUDENT). PDF pages: 85 (title page verified against the record title; byte size 904,542 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Determinism — geography as script | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 5, printed pp. 125–126 |
@@ -27,8 +29,10 @@ countries: Ethiopia, Turkey, Colombia, Venezuela
 | Turkey part — 1A Doğa ve İnsan Etkileşimi (nature–human interaction) | Turkey, *Ortaöğretim Coğrafya 9. Sınıf Ders Kitabı*, Grade 9, 1A Doğa ve İnsan Etkileşimi (nature–human interaction) — printed p. 15 |
 | Colombia part (CS_Grado06 Secundaria Activa) — Unidad 2 Cap. 4 Tema 11 Habilidades y técnicas de adaptación humana a los entornos | Colombia, *Ciencias Sociales — Secundaria Activa, Grado 6 (module)*, Unidad 2 Cap. 4 Tema 11 Habilidades y técnicas de adaptación humana a los entornos — printed p. 95 |
 | Venezuela part — Recordemos conceptos: the society–nature relationship and historical conditions | Venezuela, *Venezuela Grade 7 G7 Geography Humanidad*, Recordemos conceptos: the society–nature relationship and historical conditions — printed p. 6 |
+| Mozambique part — Lição 8: As Grandes Correntes Geográficas — Determinista (Ratzel, positivism) e Possibilista (Vidal de la Blache) | Mozambique, *Mozambique Grade 10 PESD II Mod 1*, Lição 8: As Grandes Correntes Geográficas — Determinista (Ratzel, positivism) e Possibilista (Vidal de la Blache) — printed p. 40 |
+| Mozambique part — Lição 9: Corrente Possibilista (continuação) e Corrente Corológica (weaknesses of possibilism; region) | Mozambique, *Mozambique Grade 10 PESD II Mod 1*, Lição 9: Corrente Possibilista (continuação) e Corrente Corológica (weaknesses of possibilism; region) — printed p. 47 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Turkey, Colombia, Venezuela).**
+**Acceptance count: taught in 5 countries (Ethiopia, Turkey, Colombia, Venezuela, Mozambique).**
 
 Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
@@ -41,3 +45,5 @@ Searchable tags: determinism, possibilism, febvre, vidal de la blache, huntingto
 Colombia's own way (CS_Grado06 Secundaria Activa): Grade 6 Secundaria Activa starts from the universe and the Earth as a "living machine" (rocks and wrinkles, water, air), then follows humans evolving, migrating from Africa to America and adapting to each continent's environment — geography as the stage for all the history that follows.
 
 Venezuela's own way (Venezuela Grade 7 G7 Geography Humanidad): a Geohistoria (Ramón Tovar) approach — geographic space is always explained through the historical conditions that built it; every chapter opens with a literary epigraph, works through "Entérate / Entretejiendo saberes / Indagando" boxes, and keeps returning to the learner's own community and to Caracas as the worked example.
+
+Mozambique's own way (Mozambique Grade 10 PESD II Mod 1): the second cycle opens with the discipline itself — geographic thought, its history from Greek antiquity to the determinist/possibilist schools, then cosmography (celestial sphere, solar system, Earth's shape and revolution) before any regional content.
