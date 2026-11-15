@@ -1,6 +1,6 @@
 # Sources — From stone tools to farming — the Neolithic Revolution
 
-countries: Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia
+countries: Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -160,3 +160,26 @@ Costa Rica's own way (Costa Rica Grade 7 CONED Antología): The CONED distance-e
 Australia's own way (Australia Retroactive 1 (Stage 4)): The NSW Stage 4 course is built as depth studies around source work: every topic opens with an overview, works through sources and a research project (a virtual site study, a debate in the ecclesia, an interview with Genghis Khan), and Australia's own past enters through ancient-Australia sources and the closing colonisation-and-contact study, where Aboriginal dispossession is taught beside America's Trail of Tears. That way is stocked here as the way Australia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 6 countries (Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia).**
+
+## History expansion (2026-11-15) — Malaysia stocked
+
+**Book (Malaysia — Sejarah Tahun 4 SK):** *Sejarah Tahun 4 SK* (student book, Malay) — Malaysia. Title as printed: Sejarah Tahun 4 — Sekolah Kebangsaan (History Year 4, National School). Grade: 4 (student/teacher: STUDENT). Publisher: Dewan Bahasa dan Pustaka, Kuala Lumpur, for the Ministry of Education Malaysia; year 2019 (KSSR Semakan 2017); ISBN 978-983-49-2472-0. PDF pages: 180 (cover verified against the record title; 151,788,076 bytes, release-asset size verified; records: TSV release URL + books.json tree path grade-04/gov/malaysia/sejarah/student/full-year.pdf — same book). Verdict: COMPLETE. Tally: 11 placements — 6 to existing lessons, 5 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia part — Unit 5 Zaman Air Batu: the Ice Age — story beats: the earth freezes five times; in the last Ice Age (Quaternary — Pleistocene, then Holocene from 11,700 years ago) humans learn fire, then warming melts the ice, seas rise over the Sunda Shelf, people and animals move across Southeast Asia, and the mammoth and sabre-toothed tiger die out (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Malaysia, *Sejarah Tahun 4 SK*, printed p. 58 |
+| Malaysia part — Unit 6 Zaman Prasejarah: prehistory in Malaysia — story beats: before writing, life climbs four steps — Palaeolithic, Mesolithic, Neolithic, Metal Age — proven by Malaysia's own sites: Gua Niah in Sarawak, Lenggong in Perak, Gua Cha in Kelantan, Bukit Tengkorak in Sabah; cave-dwellers who gather and hunt become farmers, and their tool-making is the root of today's technology (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Malaysia, *Sejarah Tahun 4 SK*, printed p. 72 |
+
+Malaysia's own way (Sejarah Tahun 4 SK): History begins at home — the child's own biodata, family tree, school and hometown — then widens to the Ice Age, Malaysia's cave sites, the early Malay kingdoms, and the Melaka Sultanate told through three named heroes (Parameswara, Tun Perak, Hang Tuah). That way is stocked here as the way Malaysia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book (Malaysia — Sejarah Tingkatan 1):** *Sejarah Tingkatan 1* (student book, Malay) — Malaysia. Title as printed: Sejarah Tingkatan 1 (History Form 1). Grade: 7 (student/teacher: STUDENT). Publisher: Dewan Bahasa dan Pustaka, Kuala Lumpur, for the Ministry of Education Malaysia; year 2016 (KSSM); ISBN 978-983-49-1119-5. PDF pages: 203 (cover verified against the record title; 84,722,904 bytes, release-asset size verified; records: TSV release URL + books.json tree path grade-07/gov/malaysia/sejarah/student/full-year.pdf — same book). Verdict: COMPLETE. Tally: 18 placements — 17 to existing lessons, 1 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia part — Bab 2 Zaman Air Batu: the Ice Age — story beats: the last Ice Age's features and changes, and its Southeast Asian sequel — rising seas remaking the region's coasts and driving the movement of people and animals (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Malaysia, *Sejarah Tingkatan 1*, printed p. 24 |
+| Malaysia part — Bab 3 Zaman Prasejarah: world prehistory — story beats: the Stone Age's three steps and the Metal Age, traced through world sites and the changing life of cave, shore and farm (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Malaysia, *Sejarah Tingkatan 1*, printed p. 44 |
+| Malaysia part — Bab 3.5: prehistory in Malaysia — story beats: humans have lived in Malaysia for 40,000 years, since the Palaeolithic; Southeast Asia's Mesolithic is the Hoabinhian, and Gua Niah's artefacts prove occupation through every prehistoric age (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Malaysia, *Sejarah Tingkatan 1*, printed p. 64 |
+
+Malaysia's own way (Sejarah Tingkatan 1): Secondary history opens as "Our History and the World's": method first, then the deep past, then a world-civilisations tour (Mesopotamia to Islam) in which Malaysia's own prehistory (Gua Niah, 40,000 years) is placed inside the world story. That way is stocked here as the way Malaysia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 7 countries (Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia).**

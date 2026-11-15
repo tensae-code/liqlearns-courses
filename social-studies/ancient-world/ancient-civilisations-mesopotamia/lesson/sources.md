@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — Mesopotamia
 
-countries: Ethiopia, Poland, Turkey, Bangladesh, Costa Rica
+countries: Ethiopia, Poland, Turkey, Bangladesh, Costa Rica, Malaysia
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -109,3 +109,15 @@ Bangladesh's own way (Grade 8): Class Eight turns to social and cultural history
 Costa Rica's own way (Costa Rica Grade 7 CONED Antología): The CONED distance-education anthologies compile source readings around a guiding question per theme, fusing History with Geography in one Estudios Sociales course: the ancient world is read as "the human footprint on geographic space", and Costa Rica's own past enters through its indigenous peoples before any national narrative. That way is stocked here as the way Costa Rica teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 5 countries (Ethiopia, Poland, Turkey, Bangladesh, Costa Rica).**
+
+## History expansion (2026-11-15) — Malaysia stocked
+
+**Book (Malaysia — Sejarah Tingkatan 1):** *Sejarah Tingkatan 1* (student book, Malay) — Malaysia. Title as printed: Sejarah Tingkatan 1 (History Form 1). Grade: 7 (student/teacher: STUDENT). Publisher: Dewan Bahasa dan Pustaka, Kuala Lumpur, for the Ministry of Education Malaysia; year 2016 (KSSM); ISBN 978-983-49-1119-5. PDF pages: 203 (cover verified against the record title; 84,722,904 bytes, release-asset size verified; records: TSV release URL + books.json tree path grade-07/gov/malaysia/sejarah/student/full-year.pdf — same book). Verdict: COMPLETE. Tally: 18 placements — 17 to existing lessons, 1 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia part — Bab 4–5.1: what a civilisation is, and Mesopotamia — story beats: a civilisation is a society's highest achievement — farming and trade, government, cities, specialised work, writing and records, religion and art; the first of all grows between the Tigris and Euphrates, "the land between two rivers" (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-mesopotamia) | Malaysia, *Sejarah Tingkatan 1*, printed p. 74 |
+
+Malaysia's own way (Sejarah Tingkatan 1): Secondary history opens as "Our History and the World's": method first, then the deep past, then a world-civilisations tour (Mesopotamia to Islam) in which Malaysia's own prehistory (Gua Niah, 40,000 years) is placed inside the world story. That way is stocked here as the way Malaysia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 6 countries (Ethiopia, Poland, Turkey, Bangladesh, Costa Rica, Malaysia).**

@@ -2581,7 +2581,7 @@ Plants and Animals.
 
 ## History expansion totals
 
-History lessons across the History titles: **635**
+History lessons across the History titles: **656**
 (248 before the expansion; +1 for Guyana, 2026-11-15 —
 Modern World: Guyana — our nation: independence and
 symbols. All 3 Guyana placements stand on Guyana's
@@ -3357,3 +3357,73 @@ constitutional monarchy, 2008 (2), first Buddhist
 temples (2), Jigme Namgyel's rise to Trongsa (2),
 Cooch Behar and first British contact (2), and
 the Treaty of Sinchula, 1865 (2).
+
++21 for Malaysia, 2026-11-15 — Ancient World:
+The early Malay kingdoms — Funan, Srivijaya and
+Majapahit, and The Melaka Sultanate — Parameswara
+to Hang Tuah; Modern World: Melaka falls to the
+Portuguese, 1511, The Johor Riau Sultanate — heir
+of Melaka, The Malay sultanates — Pahang, Perak,
+Terengganu and Selangor, The northern Malay
+kingdoms and Adat Perpatih, Sarawak and Sabah —
+local governments before Brooke and North Borneo,
+Western powers come to the Malay world, The
+British Straits Settlements — Penang, Singapore,
+Melaka, The Federated Malay States and the
+Resident system, The Unfederated Malay States and
+Johor, Brooke's Sarawak and the North Borneo
+Company, Malayan resistance to the British, Malay
+rulers answer the West — Bangkok 1909 and Johor,
+The Japanese occupation of Malaya, 1942–1945, The
+Malayan Union, 1946, and the Federation of Malaya,
+1948, The Malayan Emergency, 1948–1960, Malaya's
+road to Merdeka — elections, Reid and 1957, The
+formation of Malaysia, 1963, Malaysia after 1963 —
+Singapore's separation, 13 May and the New Economic
+Policy, and The OIC — founded after the 1969
+al-Aqsa arson. All 65 Malaysia placements stand on
+Malaysia's six student books (*Sejarah Tahun 4 SK*,
+Dewan Bahasa dan Pustaka, 2019, ISBN
+978-983-49-2472-0, 11 placements; *Sejarah
+Tingkatan 1*, 2016, ISBN 978-983-49-1119-5, 18
+placements; *Sejarah Tingkatan 2*, 2017, ISBN
+978-983-49-1647-3, 10 placements; *Sejarah
+Tingkatan 3*, 2018, ISBN 978-983-49-2080-7, 8
+placements; *Sejarah Tingkatan 4*, 2019, ISBN not
+legible in the scanned copy, 11 placements;
+*Sejarah Tingkatan 5*, 2020, ISBN
+978-983-49-2870-4, 7 placements), counted in
+acceptance. The 28 placements stocked into 19
+existing lessons rise with Malaysia added: What
+history is 10 → 11, From evidence to a written
+history 8 → 9, Dating the past 5 → 6, Find history
+in your own locality 6 → 7, From stone tools to
+farming 6 → 7 (five placements), Ancient
+civilisations — Mesopotamia 5 → 6, Ancient Egypt —
+the Nile kingdom 7 → 8, Ancient civilisations —
+India 3 → 4, Ancient civilisations — China 2 → 3,
+Ancient civilisations — Greece-Crete 6 → 7, Ancient
+civilisations — Athens and democracy 4 → 5,
+Ancient civilisations — Rome 7 → 8, China's
+dynastic cycle 2 → 3, The rise and expansion of
+Islam 5 → 6, The Arabian Peninsula before Islam
+2 → 3, Nationalism — the feeling that made
+nation-states 4 → 5, The Second World War — causes
+4 → 5, The Second World War — the Pacific and the
+results 5 → 6, and What colonial rule did to
+Africa 2 → 3. Two placements whose named slugs do
+not exist were stocked into the closest existing
+lessons with the original slug recorded in the
+provenance rows: ancient-world/arabia-before-islam-trade-and-tribes
+into The Arabian Peninsula before Islam, and
+modern-world/colonialism-and-its-end (what Western
+administration changed in Malaya) into What
+colonial rule did to Africa — political, economic,
+social. The Tingkatan 5 book's non-History parts
+(Bab 1 Sovereignty concepts, Bab 3 Constitutional
+Monarchy and Parliamentary Democracy, Bab 4 The
+Federal System, and Bab 9–10 Foreign Policy and
+Malaysia on the World Stage, all Civics/current
+affairs) stay named in the placements file and in
+the stocked sources, not placed — except the
+Bab 9.8 OIC placement, which is placed.

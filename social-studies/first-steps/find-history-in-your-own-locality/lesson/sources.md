@@ -1,6 +1,6 @@
 # Sources — Find history in your own locality
 
-countries: Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala
+countries: Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala, Malaysia
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -143,3 +143,15 @@ This book is a teacher guide, not a pupil text. The part(s) below stand on it as
 Haiti's own way (Grade 7, Faire de l'histoire): History opens not with dates but with a local inquiry — one building, one everyday object and one commemoration date near the pupils are worked through the full historian's method four times over. That way is stocked here as the way Haiti teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 6 countries (Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala) — unchanged; the Haiti placement(s) above are teacher-guide evidence only, counted nowhere. Haiti is not added to this lesson's countries line.**
+
+## History expansion (2026-11-15) — Malaysia stocked
+
+**Book (Malaysia — Sejarah Tahun 4 SK):** *Sejarah Tahun 4 SK* (student book, Malay) — Malaysia. Title as printed: Sejarah Tahun 4 — Sekolah Kebangsaan (History Year 4, National School). Grade: 4 (student/teacher: STUDENT). Publisher: Dewan Bahasa dan Pustaka, Kuala Lumpur, for the Ministry of Education Malaysia; year 2019 (KSSR Semakan 2017); ISBN 978-983-49-2472-0. PDF pages: 180 (cover verified against the record title; 151,788,076 bytes, release-asset size verified; records: TSV release URL + books.json tree path grade-04/gov/malaysia/sejarah/student/full-year.pdf — same book). Verdict: COMPLETE. Tally: 11 placements — 6 to existing lessons, 5 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia part — Units 2–4: my family, my school, my hometown — story beats: the child builds a family salasilah (tree) from a grandfather's telling, reads the school's timeline (SK Permatang Tok Mahat, founded 1890), and learns the hometown's founding story — Johor Bahru begins as Tanjung Puteri, founded by Temenggong Daeng Ibrahim in 1855 and renamed by Sultan Abu Bakar in 1866, while Ranau was once a fighters' stronghold (History expansion, 2026-11-15; original placement slug: first-steps/find-history-in-your-own-locality) | Malaysia, *Sejarah Tahun 4 SK*, printed p. 44 |
+
+Malaysia's own way (Sejarah Tahun 4 SK): History begins at home — the child's own biodata, family tree, school and hometown — then widens to the Ice Age, Malaysia's cave sites, the early Malay kingdoms, and the Melaka Sultanate told through three named heroes (Parameswara, Tun Perak, Hang Tuah). That way is stocked here as the way Malaysia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 7 countries (Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala, Malaysia).**

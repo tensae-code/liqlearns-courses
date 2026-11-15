@@ -1,6 +1,6 @@
 # Sources — The Arabian Peninsula before Islam
 
-countries: Saudi Arabia, Turkey
+countries: Saudi Arabia, Turkey, Malaysia
 
 **Book 1:** *الدراسات الاجتماعية — الصف الرابع الابتدائي — غير مجزأ (Social Studies, Grade 4 Primary, unabridged full-year edition)* (student book, Arabic) — Saudi Arabia. Title as printed: الدراسات الاجتماعية — الصف الرابع الابتدائي — غير مجزأ (Social Studies, Grade 4 Primary, unabridged full-year edition). Grade: Grade 4 (student/teacher: STUDENT). Publisher: المركز الوطني للمناهج (National Centre for Curricula), Riyadh; year 1446هـ; ISBN 978-603-8576-98-8. PDF pages: 228 (copyright/title page verified against the record title; text layer read in full). Verdict: COMPLETE. Records: 2 records / 1 distinct book (TSV release record + books.json record for the same repo path, counted once) / grabbed with grab.py url (release asset) into scratch-small-d/, verified by pdfinfo + copyright/title page, text layer read in full, PDF deleted after filing. Note: the record title gives the year as 1448هـ; the printed copyright page of the held copy reads 1446هـ (the 1446 edition, ISBN above). Placements at liqlearns-courses-work/expansion-history-2026-11-15/saudi-arabia-placements.md.
 
@@ -30,3 +30,15 @@ Searchable tags: Arabian Peninsula before Islam, Tasm, Jadis, tribes, Khadija bi
 Turkey's own way: world history is told with the Turks walked through it — prehistory and the first civilisations, then the medieval world, then a whole unit on the Turks of the first and middle ages (steppe, kut, the Orhun stones), before Islam's birth and the Turks' own entry into Islam close the book with the Seljuks. That way is stocked here as the way Turkey teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 2 countries (Saudi Arabia, Turkey).**
+
+## History expansion (2026-11-15) — Malaysia stocked
+
+**Book (Malaysia — Sejarah Tingkatan 1):** *Sejarah Tingkatan 1* (student book, Malay) — Malaysia. Title as printed: Sejarah Tingkatan 1 (History Form 1). Grade: 7 (student/teacher: STUDENT). Publisher: Dewan Bahasa dan Pustaka, Kuala Lumpur, for the Ministry of Education Malaysia; year 2016 (KSSM); ISBN 978-983-49-1119-5. PDF pages: 203 (cover verified against the record title; 84,722,904 bytes, release-asset size verified; records: TSV release URL + books.json tree path grade-07/gov/malaysia/sejarah/student/full-year.pdf — same book). Verdict: COMPLETE. Tally: 18 placements — 17 to existing lessons, 1 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia part — Bab 8.1: Arab society before Islam — story beats: in the desert-ringed Arabian Peninsula, Arabs live settled and nomadic lives with their own governments, economies and social orders on the eve of Islam (History expansion, 2026-11-15; original placement slug: ancient-world/arabia-before-islam-trade-and-tribes) | Malaysia, *Sejarah Tingkatan 1*, printed p. 160 |
+
+Malaysia's own way (Sejarah Tingkatan 1): Secondary history opens as "Our History and the World's": method first, then the deep past, then a world-civilisations tour (Mesopotamia to Islam) in which Malaysia's own prehistory (Gua Niah, 40,000 years) is placed inside the world story. That way is stocked here as the way Malaysia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 3 countries (Saudi Arabia, Turkey, Malaysia).**

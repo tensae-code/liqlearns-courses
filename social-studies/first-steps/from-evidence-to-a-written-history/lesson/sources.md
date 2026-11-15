@@ -1,6 +1,6 @@
 # Sources — From evidence to a written history
 
-countries: Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia
+countries: Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -245,3 +245,23 @@ Haiti's own way (Grade 7, Les Taïno): the island's first people are taught thro
 Australia's own way (Australia Retroactive 1 (Stage 4)): The NSW Stage 4 course is built as depth studies around source work: every topic opens with an overview, works through sources and a research project (a virtual site study, a debate in the ecclesia, an interview with Genghis Khan), and Australia's own past enters through ancient-Australia sources and the closing colonisation-and-contact study, where Aboriginal dispossession is taught beside America's Trail of Tears. That way is stocked here as the way Australia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 8 countries (Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia).**
+
+## History expansion (2026-11-15) — Malaysia stocked
+
+**Book (Malaysia — Sejarah Tahun 4 SK):** *Sejarah Tahun 4 SK* (student book, Malay) — Malaysia. Title as printed: Sejarah Tahun 4 — Sekolah Kebangsaan (History Year 4, National School). Grade: 4 (student/teacher: STUDENT). Publisher: Dewan Bahasa dan Pustaka, Kuala Lumpur, for the Ministry of Education Malaysia; year 2019 (KSSR Semakan 2017); ISBN 978-983-49-2472-0. PDF pages: 180 (cover verified against the record title; 151,788,076 bytes, release-asset size verified; records: TSV release URL + books.json tree path grade-04/gov/malaysia/sejarah/student/full-year.pdf — same book). Verdict: COMPLETE. Tally: 11 placements — 6 to existing lessons, 5 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia part — Unit 1: sources and research methods — story beats: primary sources stand in their original form — fossils, artefacts, manuscripts like Hikayat Hang Tuah and Sulalatus Salatin — while books and newspapers are secondary; the historian works three ways: archaeology (digging the remains), oral method (interviewing the orang sumber who saw it), and written records (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Malaysia, *Sejarah Tahun 4 SK*, printed p. 7 |
+
+Malaysia's own way (Sejarah Tahun 4 SK): History begins at home — the child's own biodata, family tree, school and hometown — then widens to the Ice Age, Malaysia's cave sites, the early Malay kingdoms, and the Melaka Sultanate told through three named heroes (Parameswara, Tun Perak, Hang Tuah). That way is stocked here as the way Malaysia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book (Malaysia — Sejarah Tingkatan 1):** *Sejarah Tingkatan 1* (student book, Malay) — Malaysia. Title as printed: Sejarah Tingkatan 1 (History Form 1). Grade: 7 (student/teacher: STUDENT). Publisher: Dewan Bahasa dan Pustaka, Kuala Lumpur, for the Ministry of Education Malaysia; year 2016 (KSSM); ISBN 978-983-49-1119-5. PDF pages: 203 (cover verified against the record title; 84,722,904 bytes, release-asset size verified; records: TSV release URL + books.json tree path grade-07/gov/malaysia/sejarah/student/full-year.pdf — same book). Verdict: COMPLETE. Tally: 18 placements — 17 to existing lessons, 1 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia part — Bab 1.4–1.6: sources, research and interpretation — story beats: the historian explores primary and secondary evidence, researches it, and then interprets — which is why the same event can honestly carry several tafsiran (interpretations), to be weighed with imagination and empathy (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Malaysia, *Sejarah Tingkatan 1*, printed p. 8 |
+
+Malaysia's own way (Sejarah Tingkatan 1): Secondary history opens as "Our History and the World's": method first, then the deep past, then a world-civilisations tour (Mesopotamia to Islam) in which Malaysia's own prehistory (Gua Niah, 40,000 years) is placed inside the world story. That way is stocked here as the way Malaysia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 9 countries (Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia).**

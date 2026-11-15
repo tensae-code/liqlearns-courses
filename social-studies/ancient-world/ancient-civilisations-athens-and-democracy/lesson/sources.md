@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — Athens and democracy
 
-countries: Ethiopia, France, Poland, Australia
+countries: Ethiopia, France, Poland, Australia, Malaysia
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -65,3 +65,15 @@ Poland's own way: Poland teaches art history as a school subject in its own righ
 Australia's own way (Australia Retroactive 1 (Stage 4)): The NSW Stage 4 course is built as depth studies around source work: every topic opens with an overview, works through sources and a research project (a virtual site study, a debate in the ecclesia, an interview with Genghis Khan), and Australia's own past enters through ancient-Australia sources and the closing colonisation-and-contact study, where Aboriginal dispossession is taught beside America's Trail of Tears. That way is stocked here as the way Australia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 4 countries (Ethiopia, France, Poland, Australia).**
+
+## History expansion (2026-11-15) — Malaysia stocked
+
+**Book (Malaysia — Sejarah Tingkatan 1):** *Sejarah Tingkatan 1* (student book, Malay) — Malaysia. Title as printed: Sejarah Tingkatan 1 (History Form 1). Grade: 7 (student/teacher: STUDENT). Publisher: Dewan Bahasa dan Pustaka, Kuala Lumpur, for the Ministry of Education Malaysia; year 2016 (KSSM); ISBN 978-983-49-1119-5. PDF pages: 203 (cover verified against the record title; 84,722,904 bytes, release-asset size verified; records: TSV release URL + books.json tree path grade-07/gov/malaysia/sejarah/student/full-year.pdf — same book). Verdict: COMPLETE. Tally: 18 placements — 17 to existing lessons, 1 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia part — Bab 6.2: Greek government and administration — story beats: Greece tries five systems of rule, and its lasting gift is democracy — government chosen by the people's vote — inherited by every generation since (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-athens-and-democracy) | Malaysia, *Sejarah Tingkatan 1*, printed p. 120 |
+
+Malaysia's own way (Sejarah Tingkatan 1): Secondary history opens as "Our History and the World's": method first, then the deep past, then a world-civilisations tour (Mesopotamia to Islam) in which Malaysia's own prehistory (Gua Niah, 40,000 years) is placed inside the world story. That way is stocked here as the way Malaysia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 5 countries (Ethiopia, France, Poland, Australia, Malaysia).**

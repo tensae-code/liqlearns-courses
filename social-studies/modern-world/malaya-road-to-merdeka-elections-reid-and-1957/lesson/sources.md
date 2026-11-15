@@ -1,0 +1,17 @@
+# Sources — Malaya's road to Merdeka — elections, Reid and 1957
+
+countries: Malaysia
+
+**Book (Malaysia — Sejarah Tingkatan 4):** *Sejarah Tingkatan 4* (student book, Malay) — Malaysia. Title as printed: Sejarah Tingkatan 4 (History Form 4). Grade: 10 (student/teacher: STUDENT). Publisher: Dewan Bahasa dan Pustaka, Kuala Lumpur, for the Ministry of Education Malaysia; year 2019 (KSSM, per printed cover); ISBN not legible in this scanned copy (CamScanner scan; front-matter pages are images). PDF pages: 264 (cover verified against the record title; 83,261,601 bytes, release-asset size verified; records: TSV release URL + books.json tree path grade-10/gov/malaysia/sejarah/student/full-year.pdf — same book). Verdict: COMPLETE. Tally: 11 placements — 3 to existing lessons, 8 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — Bab 7: the machinery of independence — story beats: the Communities Liaison Committee draws the races' leaders together, the Member System (Sistem Ahli) apprentices local leaders in government, a national education system is designed, and parties multiply — KMM, PKMM, API, UMNO, MCA, MIC, Hizbul Muslimin, PAS and the IMP among them (History expansion, 2026-11-15; original placement slug: modern-world/malaya-road-to-merdeka-elections-reid-and-1957) | Malaysia, *Sejarah Tingkatan 4*, printed p. 170 |
+| Sub lesson 2 — Bab 8: the first general election — story beats: elections climb from municipal to state to federal level; the 1955 general election (proclaimed by Sir Donald MacGillivray) fills the Federal Legislative Council, and Tunku Abdul Rahman becomes Chief Minister at the head of the first cabinet (History expansion, 2026-11-15; original placement slug: modern-world/malaya-road-to-merdeka-elections-reid-and-1957) | Malaysia, *Sejarah Tingkatan 4*, printed p. 194 |
+| Sub lesson 3 — Bab 9–10: Reid, the Agreement, and Merdeka — story beats: at Lancaster House, London (18 January–6 February 1956) the Rulers' representatives and the Alliance win agreement on self-government; the Reid Commission (announced 8 March 1956, at work by late June, receiving 131 written memoranda) drafts the constitution; and after the midnight lowering of the Union Jack at Padang Kelab Selangor, some 20,000 people stand in the rain from 6 a.m. at Stadium Merdeka on 31 August 1957 to hear independence proclaimed — the First Malaya Plan 1956–1960 already charting the economy (History expansion, 2026-11-15; original placement slug: modern-world/malaya-road-to-merdeka-elections-reid-and-1957) | Malaysia, *Sejarah Tingkatan 4*, printed p. 214 |
+
+Malaysia's own way (Sejarah Tingkatan 4): The nation-building year: Melaka is recalled as the original nation-state, then the story runs nationalism → Japanese occupation → the rejected Malayan Union → the 1948 Federation → the Emergency → elections, the Reid Commission and Merdeka, with the documents and dates (and the rain at Stadium Merdeka) all named. That way is stocked here as the way Malaysia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 1 country (Malaysia).**
+
+Searchable tags: Malaysia, Malaya's road to Merdeka — elections, Reid and 1957, modern-world, History expansion 2026-11-15

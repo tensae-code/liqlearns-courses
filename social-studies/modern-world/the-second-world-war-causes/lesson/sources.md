@@ -1,6 +1,6 @@
 # Sources — The Second World War — causes
 
-countries: Ethiopia, Turkey, Costa Rica, Australia
+countries: Ethiopia, Turkey, Costa Rica, Australia, Malaysia
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 136).
 
@@ -59,3 +59,15 @@ Costa Rica's own way (Costa Rica Grade 10 CONED Antología): The Décimo antholo
 Australia's own way (Australia Retroactive 2 (Stage 5)): Stage 5 turns the same depth-study method onto the modern world, but Australia is now the protagonist: convicts and settlers, nation-making, Gallipoli and the Anzac legend, conscription's division, the Darwin bombing the government hushed up, the Freedom Ride, Mabo, the Apology, Maralinga — world events are always landed on Australian soil. That way is stocked here as the way Australia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 4 countries (Ethiopia, Turkey, Costa Rica, Australia).**
+
+## History expansion (2026-11-15) — Malaysia stocked
+
+**Book (Malaysia — Sejarah Tingkatan 4):** *Sejarah Tingkatan 4* (student book, Malay) — Malaysia. Title as printed: Sejarah Tingkatan 4 (History Form 4). Grade: 10 (student/teacher: STUDENT). Publisher: Dewan Bahasa dan Pustaka, Kuala Lumpur, for the Ministry of Education Malaysia; year 2019 (KSSM, per printed cover); ISBN not legible in this scanned copy (CamScanner scan; front-matter pages are images). PDF pages: 264 (cover verified against the record title; 83,261,601 bytes, release-asset size verified; records: TSV release URL + books.json tree path grade-10/gov/malaysia/sejarah/student/full-year.pdf — same book). Verdict: COMPLETE. Tally: 11 placements — 3 to existing lessons, 8 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia part — Bab 3.2: background of the world wars — story beats: European nationalism hardens into imperial rivalry and ignites the First World War (1914–1918) and then the Second (1939–1945) (History expansion, 2026-11-15; original placement slug: modern-world/the-second-world-war-causes) | Malaysia, *Sejarah Tingkatan 4*, printed p. 54 |
+
+Malaysia's own way (Sejarah Tingkatan 4): The nation-building year: Melaka is recalled as the original nation-state, then the story runs nationalism → Japanese occupation → the rejected Malayan Union → the 1948 Federation → the Emergency → elections, the Reid Commission and Merdeka, with the documents and dates (and the rain at Stadium Merdeka) all named. That way is stocked here as the way Malaysia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 5 countries (Ethiopia, Turkey, Costa Rica, Australia, Malaysia).**

@@ -10290,3 +10290,129 @@ and environment chapters named in the placements
 file) stay named in the stocked sources, not
 placed.
 History lessons: 594 → 635.
+
+## History expansion — Malaysia — built 2026-11-15
+
+21 new lessons, 148 questions: **The Ancient World**:
+The early Malay kingdoms — Funan, Srivijaya and Majapahit
+(ancient-world/early-malay-kingdoms-funan-srivijaya-and-majapahit),
+The Melaka Sultanate — Parameswara to Hang Tuah
+(ancient-world/melaka-sultanate-parameswara-to-hang-tuah);
+**The Modern World**: Melaka falls to the Portuguese, 1511
+(modern-world/melaka-falls-to-the-portuguese-1511),
+The Johor Riau Sultanate — heir of Melaka
+(modern-world/johor-riau-sultanate-heir-of-melaka),
+The Malay sultanates — Pahang, Perak, Terengganu and Selangor
+(modern-world/malay-sultanates-pahang-perak-terengganu-selangor),
+The northern Malay kingdoms and Adat Perpatih
+(modern-world/northern-malay-kingdoms-and-adat-perpatih),
+Sarawak and Sabah — local governments before Brooke and North Borneo
+(modern-world/sarawak-and-sabah-local-governments-before-brooke-and-north-borneo),
+Western powers come to the Malay world
+(modern-world/western-powers-come-to-the-malay-world),
+The British Straits Settlements — Penang, Singapore, Melaka
+(modern-world/british-straits-settlements-penang-singapore-melaka),
+The Federated Malay States and the Resident system
+(modern-world/federated-malay-states-and-the-resident-system),
+The Unfederated Malay States and Johor
+(modern-world/unfederated-malay-states-and-johor),
+Brooke's Sarawak and the North Borneo Company
+(modern-world/brooke-sarawak-and-north-borneo-company),
+Malayan resistance to the British
+(modern-world/malayan-resistance-to-the-british),
+Malay rulers answer the West — Bangkok 1909 and Johor
+(modern-world/malay-rulers-answer-the-west-bangkok-1909-and-johor),
+The Japanese occupation of Malaya, 1942–1945
+(modern-world/japanese-occupation-of-malaya-1942-1945),
+The Malayan Union, 1946, and the Federation of Malaya, 1948
+(modern-world/malayan-union-1946-and-the-federation-of-malaya-1948),
+The Malayan Emergency, 1948–1960
+(modern-world/the-malayan-emergency-1948-1960),
+Malaya's road to Merdeka — elections, Reid and 1957
+(modern-world/malaya-road-to-merdeka-elections-reid-and-1957),
+The formation of Malaysia, 1963
+(modern-world/formation-of-malaysia-1963),
+Malaysia after 1963 — Singapore's separation, 13 May and the New Economic Policy
+(modern-world/malaysia-after-1963-singapore-separation-may-13-and-the-nep),
+and The OIC — founded after the 1969 al-Aqsa arson
+(modern-world/the-oic-founded-after-the-1969-al-aqsa-arson)
+— 65 placements stocked in all from Malaysia's six
+student books: *Sejarah Tahun 4 SK* (Dewan Bahasa dan
+Pustaka, Kuala Lumpur, for the Ministry of Education
+Malaysia, 2019 (KSSR Semakan 2017), ISBN
+978-983-49-2472-0, 180 PDF pp.; 11 placements),
+*Sejarah Tingkatan 1* (2016 (KSSM), ISBN
+978-983-49-1119-5, 203 PDF pp.; 18 placements),
+*Sejarah Tingkatan 2* (2017 (KSSM), ISBN
+978-983-49-1647-3, 218 PDF pp.; 10 placements),
+*Sejarah Tingkatan 3* (2018 (KSSM), ISBN
+978-983-49-2080-7, 244 PDF pp.; 8 placements),
+*Sejarah Tingkatan 4* (2019 (KSSM), ISBN not legible
+in the scanned copy, 264 PDF pp.; 11 placements) and
+*Sejarah Tingkatan 5* (2020 (KSSM), ISBN
+978-983-49-2870-4, 268 PDF pp.; 7 placements).
+28 placements were stocked into 19 existing lessons
+(What history is — two placements; From evidence to
+a written history — two; Dating the past — two;
+Find history in your own locality; From stone tools
+to farming — five placements; Ancient civilisations
+— Mesopotamia; Ancient Egypt — the Nile kingdom;
+Ancient civilisations — India — two placements;
+Ancient civilisations — China; Ancient civilisations
+— Greece-Crete; Ancient civilisations — Athens and
+democracy; Ancient civilisations — Rome; China's
+dynastic cycle; The rise and expansion of Islam —
+two placements; The Arabian Peninsula before Islam;
+Nationalism — the feeling that made nation-states;
+The Second World War — causes; The Second World War
+— the Pacific and the results; and What colonial
+rule did to Africa). All six books are student
+books, so Malaysia counts normally everywhere it is
+stocked: every stocked lesson's countries line names
+Malaysia and its acceptance count rises by one (What
+history is 10 → 11, From evidence to a written
+history 8 → 9, Dating the past 5 → 6, Find history in
+your own locality 6 → 7, From stone tools to farming
+6 → 7, Mesopotamia 5 → 6, Ancient Egypt 7 → 8, India
+3 → 4, China 2 → 3, Greece-Crete 6 → 7, Athens and
+democracy 4 → 5, Rome 7 → 8, China's dynastic cycle
+2 → 3, The rise and expansion of Islam 5 → 6, The
+Arabian Peninsula before Islam 2 → 3, Nationalism
+4 → 5, The Second World War — causes 4 → 5, The
+Second World War — the Pacific and the results
+5 → 6, What colonial rule did to Africa 2 → 3).
+Two placements whose named slugs do not exist were
+stocked into the closest existing lessons with the
+original slug recorded in the provenance rows:
+ancient-world/arabia-before-islam-trade-and-tribes
+(Arab society before Islam, Tingkatan 1 Bab 8.1)
+into The Arabian Peninsula before Islam, and
+modern-world/colonialism-and-its-end (what Western
+administration changed, Tingkatan 3 Bab 6) into What
+colonial rule did to Africa — political, economic,
+social, whose economic and social registers cover
+the same thing. Malaysia's own way is stocked
+inside the lessons: history begins at home in
+Tahun 4 — biodata, family tree, school, hometown —
+then widens to the Ice Age, the cave sites and the
+Melaka heroes; Tingkatan 1 opens as "Our History
+and the World's", method first with Malaysia's own
+prehistory inside the world story; Tingkatan 2 is a
+whole year of national heritage (Warisan Negara),
+sultanate by sultanate down to Adat Perpatih and
+Borneo's river governments; Tingkatan 3 teaches the
+Western arrival state by state and names every
+resister; Tingkatan 4 is the nation-building year
+from Melaka as the first nation-state to Merdeka in
+the rain at Stadium Merdeka; Tingkatan 5 is
+Malaysia itself — the 1963 federation, Konfrontasi,
+Singapore's exit, 13 May 1969, the Rukun Negara and
+the New Economic Policy. The Tingkatan 5 book's
+non-History parts (Bab 1 Sovereignty concepts,
+Bab 3 Constitutional Monarchy and Parliamentary
+Democracy, Bab 4 The Federal System, and Bab 9–10
+Foreign Policy and Malaysia on the World Stage —
+Civics/current affairs) stay named in the stocked
+sources, not placed, except the Bab 9.8 OIC
+placement, which is placed.
+History lessons: 635 → 656.

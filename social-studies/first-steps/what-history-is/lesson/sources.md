@@ -1,6 +1,6 @@
 # Sources — What history is
 
-countries: Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan
+countries: Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -200,3 +200,23 @@ Bhutan's own way (Bhutan Social Studies Class IV): History enters inside integra
 Bhutan's own way (Bhutan History, Civics & Citizenship Education Class VIII): Class VIII re-tells the national story at greater depth and with open source-criticism — rival incarnation claims, competing etymologies and oral accounts are weighed, not just narrated — before the story reaches the first King. That way is stocked here as the way Bhutan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 10 countries (Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan).**
+
+## History expansion (2026-11-15) — Malaysia stocked
+
+**Book (Malaysia — Sejarah Tahun 4 SK):** *Sejarah Tahun 4 SK* (student book, Malay) — Malaysia. Title as printed: Sejarah Tahun 4 — Sekolah Kebangsaan (History Year 4, National School). Grade: 4 (student/teacher: STUDENT). Publisher: Dewan Bahasa dan Pustaka, Kuala Lumpur, for the Ministry of Education Malaysia; year 2019 (KSSR Semakan 2017); ISBN 978-983-49-2472-0. PDF pages: 180 (cover verified against the record title; 151,788,076 bytes, release-asset size verified; records: TSV release URL + books.json tree path grade-04/gov/malaysia/sejarah/student/full-year.pdf — same book). Verdict: COMPLETE. Tally: 11 placements — 6 to existing lessons, 5 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia part — Unit 1 Mengenali Sejarah: what history is — story beats: history is events that truly happened in the past; the book lines up its definers — Herodotus (storytelling of human actions and their causes), Ibn Khaldun (civilisation and change) and Malaysia's own Khoo Kay Kim (events that have already happened) (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Malaysia, *Sejarah Tahun 4 SK*, printed p. 4 |
+
+Malaysia's own way (Sejarah Tahun 4 SK): History begins at home — the child's own biodata, family tree, school and hometown — then widens to the Ice Age, Malaysia's cave sites, the early Malay kingdoms, and the Melaka Sultanate told through three named heroes (Parameswara, Tun Perak, Hang Tuah). That way is stocked here as the way Malaysia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book (Malaysia — Sejarah Tingkatan 1):** *Sejarah Tingkatan 1* (student book, Malay) — Malaysia. Title as printed: Sejarah Tingkatan 1 (History Form 1). Grade: 7 (student/teacher: STUDENT). Publisher: Dewan Bahasa dan Pustaka, Kuala Lumpur, for the Ministry of Education Malaysia; year 2016 (KSSM); ISBN 978-983-49-1119-5. PDF pages: 203 (cover verified against the record title; 84,722,904 bytes, release-asset size verified; records: TSV release URL + books.json tree path grade-07/gov/malaysia/sejarah/student/full-year.pdf — same book). Verdict: COMPLETE. Tally: 18 placements — 17 to existing lessons, 1 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia part — Bab 1 Mengenali Sejarah: what history is — story beats: the definers return at secondary level — Herodotus and his Histories of the Persian War, E.H. Carr, Ibn Khaldun and Muhd Yusof Ibrahim — and history is framed as the study of a society's and a nation's past (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Malaysia, *Sejarah Tingkatan 1*, printed p. 2 |
+
+Malaysia's own way (Sejarah Tingkatan 1): Secondary history opens as "Our History and the World's": method first, then the deep past, then a world-civilisations tour (Mesopotamia to Islam) in which Malaysia's own prehistory (Gua Niah, 40,000 years) is placed inside the world story. That way is stocked here as the way Malaysia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 11 countries (Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia).**

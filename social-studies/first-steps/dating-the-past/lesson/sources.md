@@ -1,6 +1,6 @@
 # Sources — Dating the past — calendars, timelines and periods
 
-countries: Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh
+countries: Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -137,3 +137,23 @@ This book is a teacher guide, not a pupil text. The part(s) below stand on it as
 Gabon's own way (Grade 4): the year runs as one long Gabon-centred arc — prehistory, the making of the Gabonese people, explorers and Brazza, the slave trade, French Congo/AÉF, resistance and decolonisation — each topic taught through documents in the pupil manual. That way is stocked here as the way Gabon teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 5 countries (Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh) — unchanged; the Gabon placement(s) above are teacher-guide evidence only, counted nowhere. Gabon is not added to this lesson's countries line.**
+
+## History expansion (2026-11-15) — Malaysia stocked
+
+**Book (Malaysia — Sejarah Tahun 4 SK):** *Sejarah Tahun 4 SK* (student book, Malay) — Malaysia. Title as printed: Sejarah Tahun 4 — Sekolah Kebangsaan (History Year 4, National School). Grade: 4 (student/teacher: STUDENT). Publisher: Dewan Bahasa dan Pustaka, Kuala Lumpur, for the Ministry of Education Malaysia; year 2019 (KSSR Semakan 2017); ISBN 978-983-49-2472-0. PDF pages: 180 (cover verified against the record title; 151,788,076 bytes, release-asset size verified; records: TSV release URL + books.json tree path grade-04/gov/malaysia/sejarah/student/full-year.pdf — same book). Verdict: COMPLETE. Tally: 11 placements — 6 to existing lessons, 5 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia part — Unit 1: time, chronology, cause and effect — story beats: historians order events by chronology across decades, centuries and millennia, split by Before Masihi and Masihi; every event has a cause and an effect — the worked example is home-grown: Britain colonises Tanah Melayu, the people struggle, and independence follows in 1957 (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Malaysia, *Sejarah Tahun 4 SK*, printed p. 10 |
+
+Malaysia's own way (Sejarah Tahun 4 SK): History begins at home — the child's own biodata, family tree, school and hometown — then widens to the Ice Age, Malaysia's cave sites, the early Malay kingdoms, and the Melaka Sultanate told through three named heroes (Parameswara, Tun Perak, Hang Tuah). That way is stocked here as the way Malaysia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book (Malaysia — Sejarah Tingkatan 1):** *Sejarah Tingkatan 1* (student book, Malay) — Malaysia. Title as printed: Sejarah Tingkatan 1 (History Form 1). Grade: 7 (student/teacher: STUDENT). Publisher: Dewan Bahasa dan Pustaka, Kuala Lumpur, for the Ministry of Education Malaysia; year 2016 (KSSM); ISBN 978-983-49-1119-5. PDF pages: 203 (cover verified against the record title; 84,722,904 bytes, release-asset size verified; records: TSV release URL + books.json tree path grade-07/gov/malaysia/sejarah/student/full-year.pdf — same book). Verdict: COMPLETE. Tally: 18 placements — 17 to existing lessons, 1 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia part — Bab 1.3: the past and space in history — story beats: events are strung on one straight line called chronology — decade, century, millennium, Sebelum Masihi and Masihi — so the past can be measured and ordered (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Malaysia, *Sejarah Tingkatan 1*, printed p. 6 |
+
+Malaysia's own way (Sejarah Tingkatan 1): Secondary history opens as "Our History and the World's": method first, then the deep past, then a world-civilisations tour (Mesopotamia to Islam) in which Malaysia's own prehistory (Gua Niah, 40,000 years) is placed inside the world story. That way is stocked here as the way Malaysia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 6 countries (Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia).**

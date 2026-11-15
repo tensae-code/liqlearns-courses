@@ -1,6 +1,6 @@
 # Sources — The rise and expansion of Islam
 
-countries: Ethiopia, Saudi Arabia, Gambia, Turkey, Costa Rica
+countries: Ethiopia, Saudi Arabia, Gambia, Turkey, Costa Rica, Malaysia
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under GEQIP-E, ISBN 978-99990-0-066-6. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -89,3 +89,16 @@ Turkey's own way: world history is told with the Turks walked through it — pre
 Costa Rica's own way (Costa Rica Grade 9 CONED Antología): The Noveno anthology runs one long arc — "the journey of humanity from the Middle Ages to 19th-century Costa Rica" — in which every world process (feudalism, Renaissance, conquest, Enlightenment, independence, industrialisation) is landed in Costa Rica: colonial institutions, the coffee state and banana enclave, and everyday Costa Rican life close the book. That way is stocked here as the way Costa Rica teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 5 countries (Ethiopia, Saudi Arabia, Gambia, Turkey, Costa Rica).**
+
+## History expansion (2026-11-15) — Malaysia stocked
+
+**Book (Malaysia — Sejarah Tingkatan 1):** *Sejarah Tingkatan 1* (student book, Malay) — Malaysia. Title as printed: Sejarah Tingkatan 1 (History Form 1). Grade: 7 (student/teacher: STUDENT). Publisher: Dewan Bahasa dan Pustaka, Kuala Lumpur, for the Ministry of Education Malaysia; year 2016 (KSSM); ISBN 978-983-49-1119-5. PDF pages: 203 (cover verified against the record title; 84,722,904 bytes, release-asset size verified; records: TSV release URL + books.json tree path grade-07/gov/malaysia/sejarah/student/full-year.pdf — same book). Verdict: COMPLETE. Tally: 18 placements — 17 to existing lessons, 1 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia part — Bab 8.2–8.3: the rise of Islamic civilisation and the Prophet as leader — story beats: Muhammad is born to the Quraysh on 12 Rabiulawal, the Year of the Elephant (20 April 570); as leader he drafts the Madina Charter — a constitution for a plural city — and leads as head of state, society-builder, economic organiser and commander (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Malaysia, *Sejarah Tingkatan 1*, printed p. 165 |
+| Malaysia part — Bab 8.4–8.5: Islamic civilisation's gifts to the world — story beats: balancing material and spiritual progress, Islamic civilisation contributes in politics, economy and society, and builds its signature architecture — the mosque, shaped for worship with its spaces, light and feeling (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Malaysia, *Sejarah Tingkatan 1*, printed p. 174 |
+
+Malaysia's own way (Sejarah Tingkatan 1): Secondary history opens as "Our History and the World's": method first, then the deep past, then a world-civilisations tour (Mesopotamia to Islam) in which Malaysia's own prehistory (Gua Niah, 40,000 years) is placed inside the world story. That way is stocked here as the way Malaysia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 6 countries (Ethiopia, Saudi Arabia, Gambia, Turkey, Costa Rica, Malaysia).**
