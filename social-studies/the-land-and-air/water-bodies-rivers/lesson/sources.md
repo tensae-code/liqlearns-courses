@@ -1,6 +1,6 @@
 # Sources — Water Bodies — Rivers
 
-countries: Ethiopia, Iceland
+countries: Ethiopia, Iceland, Belarus
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -8,14 +8,17 @@ countries: Ethiopia, Iceland
 
 **Book 3:** *Vinnukort í landafræði: ÍSLAND — Helstu ár og vötn* (student book, Icelandic) — Iceland, Námsgagnastofnun; year not printed; ISBN no ISBN printed (item no. 06597). Title as printed: ÍSLAND — Helstu ár og vötn (Iceland — Main Rivers and Lakes), Námsgagnastofnun 06597. Grade 5 (student book). 1 PDF p. (the single page verified visually — an outline map of Iceland with its main rivers and lakes drawn in and a 0–50 km scale bar; image-only sheet, no text layer beyond the title). Verdict: COMPLETE. Read via the records' MMS (Námsgagnastofnun) source URLs with cover + pdfinfo verification. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iceland-placements.md
 
+**Book 4:** *Геаграфія Беларусі. 10 клас (Geography of Belarus, Grade 10)* (student book, Belarusian) — Belarus, Народная асвета (Narodnaya Asveta), Minsk; year 2012; ISBN 978-985-03-1787-2. Title as printed: Геаграфія Беларусі — вучэбны дапаможнік для 10 класа ўстаноў агульнай сярэдняй адукацыі з беларускай мовай навучання, 3-е выданне, перапрацаванае (M. M. Brylevsky, G. S. Smolyakov). Grade 10 (student). 304 PDF pp. (cover/title page verified against the record title; printed book 303 pp., approved by the Ministry of Education of the Republic of Belarus; read via its recorded archive.org source, 15,825,848 bytes — the GitHub grab route was failing with RemoteDisconnected through the proxy). Verdict: COMPLETE — full text layer read (contents, foreword and introduction read in full; all 63 paragraphs in 10 themes accounted for from the book's own contents, printed pp. 5–303, plus the closing glossary). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/belarus-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Flowing water in a channel | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 8–9 |
 | Sub lesson 2 — Every river has its catchment | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 8–9 |
 | Sub lesson 3 — The world's long rivers — and your task | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 8–9 |
 | Map work — Iceland's main rivers and lakes on an outline map — Iceland's way | Iceland, *Vinnukort í landafræði: ÍSLAND — Helstu ár og vötn* (student book), printed p. 1 |
+| Belarus part — Surface waters of Belarus: rivers and canals | Belarus, *Геаграфія Беларусі. 10 клас (Geography of Belarus, Grade 10)*, Grade 10, Theme II §15, printed p. 73 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Iceland).**
+**Acceptance count: taught in 3 countries (Ethiopia, Iceland, Belarus).**
 
 Iceland's own way: a one-page map-labelling work card (vinnukort): pupils work directly on the outline map of their own country, its main rivers and lakes already drawn in for identification, with a 0–50 km scale bar.
 

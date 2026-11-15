@@ -918,3 +918,78 @@ pack, PDF pp. 12–16) and NATO countries in Europe 2022
 (tactile pack, PDF pp. 17–19) — the student-material new
 lessons taught in 1 country (Sweden), 8 questions each.
 Geography lessons: 605 → 618.
+
+## Geography expansion — Belarus — built 2026-11-14
+
+Belarus — 24 placements stocked from 1 distinct book that
+carries Geography (3 records / 2 distinct books in total):
+*Геаграфія Беларусі. 10 клас (Geography of Belarus,
+Grade 10)* (student book, Belarusian, COMPLETE;
+Народная асвета (Narodnaya Asveta), Minsk, 2012;
+ISBN 978-985-03-1787-2; authors M. M. Brylevsky,
+G. S. Smolyakov; 304 PDF pp., printed book 303 pp.;
+read via its recorded archive.org source — the GitHub
+grab route was failing). Belarus's own way: the whole
+course is one country studied whole — position and the
+history of its own geographical research first (including
+Belarusian place-names), then nature component by
+component, then its five natural provinces, population,
+the economy sector by sector, Belarus in the world, and
+finally each of its six regions in turn; every paragraph
+opens with a "recall" rubric and closes with questions
+and tasks. The second book, *Чалавек. Грамадства.
+Дзяржава. Кніга 2: Свет людзей (Man. Society. State —
+Book 2: The World of People, Grade 9)* (student book,
+Belarusian, 2001, ISBN 985-12-0294-0), is RECORD-ONLY
+for Geography: a philosophy/social-studies book with NO
+Geography teaching parts — not placed; a later
+Civics/Philosophy wave owns it. Its bibliographic entry
+cites 289 pp. while the spread scan holds ~166 printed
+pages in imposed order, so the file may not hold every
+printed page of Book 2 — flagged as a possible library
+debt; it changes nothing for Geography. Stocked into
+standing lessons — **The Land and Air**: Maps through
+history (Theme I §3–5, printed p. 20 — lesson now taught
+in 2 countries, Ethiopia and Belarus), Water bodies —
+rivers (Theme II §15, printed p. 73 — now 3 countries,
+Ethiopia, Iceland and Belarus) and Water bodies — lakes
+(Theme II §16, printed p. 79 — now 2 countries);
+**Earth and Space**: Inside the Earth (Theme II §7–9,
+printed p. 37 — now 2 countries); **Population,
+Transport and Maps**: Population — distribution
+(Theme V §§33–37, printed p. 164 — now 3 countries,
+Ethiopia, Saudi Arabia and Belarus), Kinds of migration
+(Theme V §34, printed p. 167 — now 4 countries, Ethiopia,
+Micronesia, Brazil and Belarus) and Transport — kinds of
+transport (Theme VII §52, printed p. 246 — now 2
+countries) — and 17 new lessons built — in **The Land
+and Air**: Belarus — geographical position and borders
+(Theme I §1–2, printed p. 9), Belarus relief — uplands,
+plains and lowlands (Theme II §11–12, printed p. 56),
+Belarus climate and seasons (Theme II §13–14, printed
+p. 64), Belarus soils and land resources (Theme II
+§17–18, printed p. 84), Belarus vegetation and wildlife
+(Theme II §19–21, printed p. 92), Belarus natural
+regions — the five provinces (Theme IV §§27–32, printed
+p. 138), Belarus regions — Brest, Vitebsk and Gomel
+(Theme X §§58–60, printed p. 271) and Belarus regions —
+Grodno, Mogilev and Minsk (Theme X §§61–63, printed
+p. 283); in **First Steps**: Belarus place-names —
+toponymy (Theme I §6, printed p. 31); in **People and
+Resources**: Belarus mineral resources (Theme II §10,
+printed p. 49); in **Culture and Work**: Belarus
+economy — structure and location factors (Theme VI
+§§38–40, printed p. 185), Belarus fuel, energy and
+metallurgy industries (Theme VII §§41–43, printed
+p. 195), Belarus manufacturing, chemical, timber, light
+and food industries (Theme VII §§44–49, printed p. 207),
+Belarus agriculture — crops and livestock (Theme VII
+§§50–51, printed p. 236) and Belarus services —
+education, culture and health geography (Theme VIII
+§§53–54, printed p. 252); in **Global Issues**: Belarus
+landscapes, protected areas and ecological problems
+(Theme III §§22–26, printed p. 109) and Belarus in the
+world — foreign trade and union programmes (Theme IX
+§§55–57, printed p. 261) — the new lessons taught in
+1 country (Belarus), 8 questions each. Geography
+lessons: 618 → 635.

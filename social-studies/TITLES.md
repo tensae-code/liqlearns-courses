@@ -103,7 +103,7 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **618**
+Geography lessons across the eight Geography titles: **635**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -169,3 +169,20 @@ climates and Sweden's climate — a long country; Global
 Issues: Sorting and recycling waste and Choices that help
 the climate; Resources and Conflict: Ukraine on the map,
 Russia on the map and NATO countries in Europe 2022.
++17 for Belarus, 2026-11-14 — The Land and Air: Belarus —
+geographical position and borders, Belarus relief —
+uplands, plains and lowlands, Belarus climate and
+seasons, Belarus soils and land resources, Belarus
+vegetation and wildlife, Belarus natural regions — the
+five provinces, Belarus regions — Brest, Vitebsk and
+Gomel and Belarus regions — Grodno, Mogilev and Minsk;
+First Steps: Belarus place-names — toponymy; People and
+Resources: Belarus mineral resources; Culture and Work:
+Belarus economy — structure and location factors, Belarus
+fuel, energy and metallurgy industries, Belarus
+manufacturing, chemical, timber, light and food
+industries, Belarus agriculture — crops and livestock
+and Belarus services — education, culture and health
+geography; Global Issues: Belarus landscapes, protected
+areas and ecological problems and Belarus in the world —
+foreign trade and union programmes.
