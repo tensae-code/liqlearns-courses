@@ -1,6 +1,6 @@
 # Sources — Köppen's five letters — A B C D E
 
-countries: Ethiopia, Turkey, Sri Lanka, Mozambique, Jordan
+countries: Ethiopia, Turkey, Sri Lanka, Mozambique, Jordan, Nicaragua
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Turkey, Sri Lanka, Mozambique, Jordan
 
 **Book 7:** *الجغرافيا — الصف الثاني عشر / المسار الأكاديمي — الفصل الدراسي الثاني (Geography, Grade 12 Academic Track, Term 2)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-950-2. Title as printed: الجغرافيا — الصف الثاني عشر / المسار الأكاديمي — الفصل الدراسي الثاني (Geography, Grade 12 Academic Track, Term 2). Grade: 12 (student/teacher: STUDENT). PDF pages: 136 (cover verified; byte size 118,626,340 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
 
+**Book 8:** *Módulo Autoformativo de Ciencias Sociales — Geografía, 9no Grado (Educación Secundaria a Distancia en el Campo)* (student book, Spanish) — Ministerio de Educación (MINED), Nicaragua, PROSEN; year 2017; ISBN no ISBN printed. Title as printed: Módulo Autoformativo de Ciencias Sociales — Geografía, 9no Grado (Educación Secundaria a Distancia en el Campo). Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 300 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nicaragua-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Built on vegetation | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 2, printed pp. 30–33 |
@@ -27,8 +29,9 @@ countries: Ethiopia, Turkey, Sri Lanka, Mozambique, Jordan
 | Sri Lanka part — Unit 10.3: Köppen's climate types in detail (teacher guide — evidence) (placement slug: the-land-and-air/koppen-climate-classification — the lesson stands under this title, stocked here) | Sri Lanka, *Sri Lanka G10 Tamil TG* (teacher guide), Unit 10.3: Köppen's climate types in detail — printed p. 86 |
 | Mozambique part — Lição 13: Classificação dos climas segundo Köppen (A–E groups, h/k dry-climate letters) | Mozambique, *Mozambique Grade 10 PESD II Mod 2*, Lição 13: Classificação dos climas segundo Köppen (A–E groups, h/k dry-climate letters) — printed p. 83 |
 | Jordan part — Unit 4 Lesson 4: Climate Classifications (التصنيفات المناخية) | Jordan, *Jordan G12 Geography T2*, Unit 4 Lesson 4: Climate Classifications (التصنيفات المناخية) — printed p. 36 |
+| Nicaragua part — Zonas climáticas | Nicaragua, *Nicaragua Grade 9 CCSS Geografía Módulo G9*, Zonas climáticas — printed p. 97 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Turkey, Sri Lanka, Mozambique, Jordan).**
+**Acceptance count: taught in 6 countries (Ethiopia, Turkey, Sri Lanka, Mozambique, Jordan, Nicaragua).**
 
 Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
@@ -43,3 +46,5 @@ Sri Lanka's own way (Sri Lanka G10 Tamil TG) (teacher guide — evidence): a 90-
 Mozambique's own way (Mozambique Grade 10 PESD II Mod 2): a full physical-climatology course — atmosphere structure to magnetosphere, heat balance, pressure/wind circulation, air masses and fronts, humidity and precipitation, the water cycle, then Köppen/Thornthwaite classification worked through climate tables with African station graphs (Arkassa, Tamanrasset, Algiers), closing on protection of bioclimatic resources.
 
 Jordan's own way (Jordan G12 Geography T2): the final Geography term is climate (atmosphere, elements, classifications, change), environment (components, problems, protection, Jordanian ecotourism), and economic geography (production, agriculture, industry, services, development).
+
+Nicaragua's own way (Nicaragua Grade 9 CCSS Geografía Módulo G9): A pure-Geography self-study module (no History/Civics in this book): the Grade 9 world-Geography course taught continent by continent — position and political organisation, physical landscape, human diversity, production and consumption, and a closing planet-care unit on prevention and mitigation — with Nicaragua used as the home reference point throughout.

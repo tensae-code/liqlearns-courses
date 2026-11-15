@@ -1,6 +1,6 @@
 # Sources — How people change the land — and pollute it
 
-countries: Ethiopia, Turkey, Nauru, Tuvalu, Niue, Jamaica, Angola, Colombia, Malaysia, Eritrea, Cambodia, Rwanda, Papua New Guinea, Uganda, Moldova, Mozambique, Jordan
+countries: Ethiopia, Turkey, Nauru, Tuvalu, Niue, Jamaica, Angola, Colombia, Malaysia, Eritrea, Cambodia, Rwanda, Papua New Guinea, Uganda, Moldova, Mozambique, Jordan, Nicaragua
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -48,6 +48,8 @@ countries: Ethiopia, Turkey, Nauru, Tuvalu, Niue, Jamaica, Angola, Colombia, Mal
 
 **Book 23:** *الجغرافيا — الصف العاشر — الفصل الدراسي الثاني (Geography, Grade 10, Term 2)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-539-9. Title as printed: الجغرافيا — الصف العاشر — الفصل الدراسي الثاني (Geography, Grade 10, Term 2). Grade: 10 (student/teacher: STUDENT). PDF pages: 88 (cover verified; byte size 75,200,687 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
 
+**Book 24:** *Ciencias Sociales 10 Grado, Educación Secundaria (PROSEN)* (student book, Spanish) — Ministerio de Educación (MINED), Nicaragua, with PROSEN / European Union support; year not printed (Primera Edición); ISBN no ISBN printed. Title as printed: Ciencias Sociales 10 Grado, Educación Secundaria (PROSEN). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 300 (cover/title page verified against the record title; byte size 106,780,055 matches the books.json record and the MINED source file). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nicaragua-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Modification | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 6, printed pp. 157–162 |
@@ -74,8 +76,9 @@ countries: Ethiopia, Turkey, Nauru, Tuvalu, Niue, Jamaica, Angola, Colombia, Mal
 | Jordan part — Unit 3 Lesson 3: Human Activities and the Forms of the Earth's Surface (الأنشطة البشرية وأشكال سطح الأرض) — contour ploughing on slopes against soil erosion | Jordan, *Jordan G7 SS T1*, Unit 3 Lesson 3: Human Activities and the Forms of the Earth's Surface (الأنشطة البشرية وأشكال سطح الأرض) — contour ploughing on slopes against soil erosion — printed p. 60 |
 | Jordan part — Unit 4 Lesson 4: Human Activities and Their Effect on the Environment (الأنشطة البشرية وأثرها في البيئة) | Jordan, *Jordan G4 SS T1*, Unit 4 Lesson 4: Human Activities and Their Effect on the Environment (الأنشطة البشرية وأثرها في البيئة) — printed p. 71 |
 | Jordan part — Unit 4 Lesson 3: Technological Development and Its Effect on the Environment (التطور التكنولوجي وأثره في النظام البيئي) | Jordan, *Jordan G10 Geography T2*, Unit 4 Lesson 3: Technological Development and Its Effect on the Environment (التطور التكنولوجي وأثره في النظام البيئي) — printed p. 24 |
+| Nicaragua part — Uso de la tecnología y el impacto ambiental | Nicaragua, *Nicaragua Grade 10 Ciencias Sociales G10 full-year*, Uso de la tecnología y el impacto ambiental — printed p. 119 |
 
-**Acceptance count: taught in 15 countries (Ethiopia, Turkey, Nauru, Tuvalu, Niue, Angola, Colombia, Malaysia, Eritrea, Cambodia, Rwanda, Uganda, Moldova, Mozambique, Jordan). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 16 countries (Ethiopia, Turkey, Nauru, Tuvalu, Niue, Angola, Colombia, Malaysia, Eritrea, Cambodia, Rwanda, Uganda, Moldova, Mozambique, Jordan, Nicaragua). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grades 7–9 Social Studies, curriculum guide — evidence): one guide carries all three secondary grades, each year mixing Civics, heritage and a strong resources-and-environment Geography spine — natural and human resources, movements of the Earth, Caribbean hazards, climate change, green technology and tourism — taught through Jamaican case material (bauxite communities, Caribbean disasters). That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
@@ -120,3 +123,5 @@ Jordan's own way (Jordan G7 SS T1): Grade 7 Social Studies weaves civics (citize
 Jordan's own way (Jordan G4 SS T1): Grade 4 Term 1 grounds the child in Jordanian society and dress, then an environment-resources-population unit: agriculture, industry, energy (renewable and not, in Jordan), human impact and Jordan's wildlife.
 
 Jordan's own way (Jordan G10 Geography T2): Grade 10 Term 2 turns to the planet's problems and futures — climate change, impact assessment, sustainable development, energy — then tours the New World continent by continent.
+
+Nicaragua's own way (Nicaragua Grade 10 Ciencias Sociales G10 full-year): The full-year companion to the Grade 10 Geography module (Book 1): Units I–VI repeat and deepen the same national Geography (cartography, relief and geological provinces, climate and watersheds, population, economic sectors, territorial vulnerability and SINAPRED) in classroom form, and the book's second half is a full Economics course. Non-Geography parts named, not placed: Unit IV government anti-poverty programmes (printed p. 106, Civics/social policy); Units VII–XII Economics (printed pp. 156–285): utility of economics and socio-economic formations, what the country produces, price as market regulator, commercial exchange and the banking system, state economic policy, and integration in the face of globalisation.

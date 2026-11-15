@@ -6589,3 +6589,82 @@ And How To Dispose Of It (printed p. 158) — all 92 new
 lessons are taught in 1 country (Iraq), 8 questions
 each, each standing on Iraq student book(s).
 Geography lessons: 2767 → 2859.
+
+
+## Nicaragua — Geography expansion (merged 2026-11-15)
+326 placement lines stocked from Nicaragua's 33 records
+/ 13 distinct books. All 13 books are Spanish student
+books of the Ministerio de Educación (MINED),
+Nicaragua, all COMPLETE; Book 1 was read in place at
+phase3-staging and Books 2–13 via the GitHub Releases
+API route (grab.py), byte-size verified. The placements
+file's header total and per-book tallies sum to exactly
+326, matching the placement-line count — no tally
+discrepancy. The file's split is 279 existing-flagged /
+47 NEW-flagged (21 distinct NEW slugs); by lesson dir,
+281 placements land in 83 standing lessons and 45 in
+the 20 new lessons: one NEW-flagged slug already stands
+as a lesson
+(population-transport-and-maps/political-division-of-the-americas,
+built by the Honduras merge) and its 2 placements are
+stocked there, not rebuilt; no placement is remapped —
+every existing-flagged slug stands. Book 10's record
+name 'Primera Parte' is a misnomer carried exactly: the
+book is the COMPLETE Grade 8 distance-learning module,
+the parallel edition of Book 9. The non-Geography parts
+of the combined books (History, Civics, Economics) are
+named in the placements headers only, not placed.
+Nicaragua's own way: Geography begins hyper-locally —
+the child's own school, municipality and landscape, the
+country introduced through its two great lakes
+(Cocibolca and Xolotlán) as the 'land of lakes and
+volcanoes' — then widens grade by grade: G3–G4 a full
+national Geography at comunidad/municipio/departamento
+scales, G5 the Central American isthmus, G6 the world
+continents in one repeated template, G7 national
+Geography closing on natural-risk prevention, G8 the
+American continent, G9 the continents one by one, and
+G10 the national Geography deepened, closing on
+vulnerability and SINAPRED; distance-learning
+self-study modules parallel the classroom books at G7,
+G8, G9 (Geography only) and G10, every topic anchored
+in the learner's own comunidad. Stocked into standing
+lessons (281 placements across 83 lessons). 20 NEW
+lessons built (45 placements) — **First Steps**: My
+School And Its Surroundings (printed p. 39); **The Land
+and Air**: Central America Climate (printed p. 39),
+Central America Geological Evolution And Nicaragua
+Geomorphological Regions (printed p. 49; printed p. 45;
+printed p. 47), Central America Position Advantages And
+Disadvantages (printed p. 22), Central America Relief
+And Volcanic Chain (printed p. 30), Climates Of Europe
+Asia Africa And Oceania (printed p. 84), Climates Of
+The Americas (printed p. 48; printed p. 32; printed p.
+59), Nicaragua Climate Regions Köppen And Watersheds
+(printed p. 66; printed p. 71; printed p. 79),
+Nicaragua Climate Types And Köppen Map (printed p. 59;
+printed p. 74; printed p. 33; printed p. 40), Nicaragua
+In The Central American Isthmus (printed p. 27),
+Nicaragua Land Of Lakes And Volcanoes (printed p. 108),
+Nicaragua Three Regions And Volcanic Chain (printed p.
+54; printed p. 93; printed p. 25), Nicaragua Watersheds
+Pacific Lacustrine Caribbean (printed p. 48; printed p.
+44); **Population, Transport and Maps**: Nicaragua
+Interoceanic Canal Importance (printed p. 48; printed
+p. 67), Nicaragua Political Division Departments And
+Regions (printed p. 39; printed p. 45; printed p. 12;
+printed p. 19; printed p. 36), Political Organisation
+Of The Continents (printed p. 14; printed p. 26);
+**Culture and Work**: Nicaragua Territorial
+Distribution Of Production (printed p. 80); **Global
+Issues**: Americas Risk Areas Earthquakes Tsunamis
+Hurricanes Floods (printed p. 110), Continents High
+Risk Areas Maremotos And Tsunamis (printed p. 125),
+Nicaragua Vulnerable Zones Disaster History And
+Environmental Problems (printed p. 109; printed p. 109;
+printed p. 115; printed p. 155; printed p. 161; printed
+p. 129; printed p. 136; printed p. 152) — all 20 new
+lessons are taught in 1 country (Nicaragua), 8
+questions each, each standing on Nicaragua student
+book(s).
+Geography lessons: 2859 → 2879.

@@ -1,6 +1,6 @@
 # Sources — Wind and sea landforms — dunes, beaches, spits, lagoons
 
-countries: Ethiopia, Malaysia, United Kingdom, Slovenia, Mauritania, Kuwait, Libya, Mozambique, Jordan, Iraq
+countries: Ethiopia, Malaysia, United Kingdom, Slovenia, Mauritania, Kuwait, Libya, Mozambique, Jordan, Iraq, Nicaragua
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -22,6 +22,12 @@ countries: Ethiopia, Malaysia, United Kingdom, Slovenia, Mauritania, Kuwait, Lib
 
 **Book 10:** *الجغرافية الطبيعية للصف الخامس الأدبي (Natural Geography for the Fifth Literary Grade) — the record's "Geography (Literary Track)" is the same book: same grade and track, verified by cover and contents* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; revised by a committee in the Ministry of Education; year 1445 AH / 2023 CE, revised 13th edition (الطبعة الثالثة عشرة / المنقحة); ISBN no ISBN printed on the title pages. Title as printed: الجغرافية الطبيعية للصف الخامس الأدبي (Natural Geography for the Fifth Literary Grade) — the record's "Geography (Literary Track)" is the same book: same grade and track, verified by cover and contents. Grade: 11 (fifth secondary, literary track) (student/teacher: STUDENT). PDF pages: 162 (cover/title page verified as above; read via the books.json record's own Google Drive source file — same book, cover and contents verified — after the GitHub route failed). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iraq-placements.md.
 
+**Book 11:** *Ciencias Sociales — Geografía, Módulo Autoformativo, Décimo Grado (Educación Secundaria a Distancia en el Campo)* (student book, Spanish) — Ministerio de Educación (MINED), Nicaragua; year 2017 (Primera Edición); ISBN no ISBN printed. Title as printed: Ciencias Sociales — Geografía, Módulo Autoformativo, Décimo Grado (Educación Secundaria a Distancia en el Campo). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 188 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nicaragua-placements.md.
+
+**Book 12:** *Ciencias Sociales 8 Grado, Educación Secundaria (PROSEN)* (student book, Spanish) — Ministerio de Educación (MINED), Nicaragua, with PROSEN / European Union support; year not printed (Primera Edición); ISBN no ISBN printed. Title as printed: Ciencias Sociales 8 Grado, Educación Secundaria (PROSEN). Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 240 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nicaragua-placements.md.
+
+**Book 13:** *Ciencias Sociales 10 Grado, Educación Secundaria (PROSEN)* (student book, Spanish) — Ministerio de Educación (MINED), Nicaragua, with PROSEN / European Union support; year not printed (Primera Edición); ISBN no ISBN printed. Title as printed: Ciencias Sociales 10 Grado, Educación Secundaria (PROSEN). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 300 (cover/title page verified against the record title; byte size 106,780,055 matches the books.json record and the MINED source file). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nicaragua-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Wind at work | G12 student #23, printed pp. 29–30 |
@@ -38,8 +44,11 @@ countries: Ethiopia, Malaysia, United Kingdom, Slovenia, Mauritania, Kuwait, Lib
 | Jordan part — Unit 1 Lesson 5: The Role of Wind in Shaping the Earth's Surface (دور الرياح) | Jordan, *Jordan G12 Geography T1*, Unit 1 Lesson 5: The Role of Wind in Shaping the Earth's Surface (دور الرياح) — printed p. 38 |
 | Jordan part — Unit 1 Lesson 6: The Role of Waves in Shaping the Earth's Surface (دور الأمواج) | Jordan, *Jordan G12 Geography T1*, Unit 1 Lesson 6: The Role of Waves in Shaping the Earth's Surface (دور الأمواج) — printed p. 44 |
 | Iraq part — Ch. 1: Wind action — activity: build a model crescent (barchan) dune | Iraq, *Iraq Grade 11 Physical Geography*, Ch. 1: Wind action — activity: build a model crescent (barchan) dune — printed p. 12 |
+| Nicaragua part — Modelados litorales en las costas de Nicaragua | Nicaragua, *Nicaragua Grade 10 CCSS Geografía 10*, Modelados litorales en las costas de Nicaragua — printed p. 55 |
+| Nicaragua part — Zonas costeras de América | Nicaragua, *Nicaragua Grade 8 Estudios Sociales G8 full-year*, Zonas costeras de América — printed p. 28 |
+| Nicaragua part — Litorales y costas de Nicaragua | Nicaragua, *Nicaragua Grade 10 Ciencias Sociales G10 full-year*, Litorales y costas de Nicaragua — printed p. 60 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Malaysia, United Kingdom, Slovenia, Mauritania, Kuwait, Libya, Mozambique, Jordan, Iraq).**
+**Acceptance count: taught in 11 countries (Ethiopia, Malaysia, United Kingdom, Slovenia, Mauritania, Kuwait, Libya, Mozambique, Jordan, Iraq, Nicaragua).**
 
 Figure-reference correction carried from the placements: the spit and lagoon text in the book points to 'Figure 1.31', but the sea-work figure is captioned Figure 1.32 (1.31 is the wind-action figure) — taught with the corrected figure numbers and named here only.
 
@@ -62,3 +71,9 @@ Mozambique's own way (Mozambique Grade 10 PESD II Mod 3): a systematic geomorpho
 Jordan's own way (Jordan G12 Geography T1): the final-year Geography book is built in three blocks — the forces that shape Earth's surface, political geography (state power, borders, alliances, Jordan's national security), and population geography.
 
 Iraq's own way (Iraq Grade 11 Physical Geography): a pure physical-geography course in six chapters — landforms, weather and climate, water, the biosphere, soil, and the environment — with Iraqi anchors kept throughout (flood visits to Iraq's rivers, the hills of northern Iraq, groundwater and the desert caravans, soil salinity in the alluvial plain).
+
+Nicaragua's own way (Nicaragua Grade 10 CCSS Geografía 10): A distance-learning self-study module ("Geografía Dinámica") built entirely around Nicaragua itself — every physical topic (relief, climate, watersheds, coasts) is taught through Nicaraguan regions, and risk/vulnerability (hurricanes, Casita landslide, SINAPRED) closes the book. Non-Geography parts: Unit IV population-policy content (Hambre Cero, Usura Cero, housing projects) is Civics/social policy — named here, not placed beyond its population-geography topics.
+
+Nicaragua's own way (Nicaragua Grade 8 Estudios Sociales G8 full-year): Grade 8 widens the lens to the whole American continent: five Geography units on America's territorial patrimony, physical landscape, ethnic-cultural diversity, space-and-economy and environmental protection (closing with Nicaragua's own SINAPRED disaster system), then five History units. Non-Geography parts named, not placed: Unit VI American origins (printed pp. 125–138, History); Unit VII arrival of the Europeans and colonial domination (printed pp. 145–165, History); Unit VIII emancipation processes (printed pp. 167–184, History); Unit IX changes in Latin American society (printed pp. 185–194, History); Unit X America in the 20th century (printed pp. 197–222, History).
+
+Nicaragua's own way (Nicaragua Grade 10 Ciencias Sociales G10 full-year): The full-year companion to the Grade 10 Geography module (Book 1): Units I–VI repeat and deepen the same national Geography (cartography, relief and geological provinces, climate and watersheds, population, economic sectors, territorial vulnerability and SINAPRED) in classroom form, and the book's second half is a full Economics course. Non-Geography parts named, not placed: Unit IV government anti-poverty programmes (printed p. 106, Civics/social policy); Units VII–XII Economics (printed pp. 156–285): utility of economics and socio-economic formations, what the country produces, price as market regulator, commercial exchange and the banking system, state economic policy, and integration in the face of globalisation.

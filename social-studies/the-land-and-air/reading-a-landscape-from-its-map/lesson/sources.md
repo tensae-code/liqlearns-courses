@@ -1,6 +1,6 @@
 # Sources — Reading a landscape from its map
 
-countries: Ethiopia, Bangladesh, Malaysia, Slovenia, Uganda, Nepal
+countries: Ethiopia, Bangladesh, Malaysia, Slovenia, Uganda, Nepal, Nicaragua
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Bangladesh, Malaysia, Slovenia, Uganda, Nepal
 
 **Book 10:** *Samajik Shiksha ra Manavmulya Shiksha Kaksha 6 (Social Studies and Human Value Education Grade 6)* (student book, Nepali) — Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; year 2078 BS; ISBN 978-9937-601-56-6. Title as printed: Samajik Shiksha ra Manavmulya Shiksha Kaksha 6 (Social Studies and Human Value Education Grade 6). Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 214 (cover/title page verified against the record title — Devanagari title page matches). Verdict: COMPLETE. Non-Geography parts named (not placed): Unit 1 We and our society except development infrastructures (printed pp. 2–16); Unit 2 Our human values and beliefs (pp. 20–49); Unit 3 Civic consciousness except traffic rules (pp. 50–69, civics); Unit 4 Social problems and solutions (pp. 73–87); Unit 5 Our Past (pp. 88–111, History); Unit 8 Lessons 3+ population management detail beyond demography/census (pp. 180–190); Unit 9 International relations, contemporary events and information technology (pp. 191–206). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nepal-placements.md.
 
+**Book 11:** *Conociendo mi Mundo, 2do Grado* (student book, Spanish) — Ministerio de Educación (MINED), Nicaragua; year 2015 (Primera Edición); ISBN no ISBN printed. Title as printed: Conociendo mi Mundo, 2do Grado. Grade: Grade 2 (student/teacher: STUDENT). PDF pages: 180 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nicaragua-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Contours into relief | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 8, printed pp. 220–223 |
@@ -35,8 +37,9 @@ countries: Ethiopia, Bangladesh, Malaysia, Slovenia, Uganda, Nepal
 | Uganda part — Lesson 9: Describing Economic activities on a map | Uganda, *Uganda Grade 10 UG S3 Geography Home-Study*, Lesson 9: Describing Economic activities on a map — printed p. 43 |
 | Nepal part — Unit 5 Lesson 2: Kanchanpur District on a Map | Nepal, *Nepal Grade 4 np-g4*, Unit 5 Lesson 2: Kanchanpur District on a Map — printed p. 56 |
 | Nepal part — Unit 7 Lesson 10: Map study | Nepal, *Nepal Grade 6 np-g6*, Unit 7 Lesson 10: Map study — printed p. 167 |
+| Nicaragua part — Paisaje del municipio donde vive | Nicaragua, *Nicaragua Grade 2 Conociendo mi Mundo G2*, Paisaje del municipio donde vive — printed p. 149 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Bangladesh, Malaysia, Slovenia, Uganda, Nepal).**
+**Acceptance count: taught in 7 countries (Ethiopia, Bangladesh, Malaysia, Slovenia, Uganda, Nepal, Nicaragua).**
 
 Searchable tags: contour interpretation, landscape reading, relief, drainage, settlement, land use, social studies
 
@@ -55,3 +58,5 @@ Uganda's own way (Uganda Grade 10 UG S3 Geography Home-Study): COVID-era self-st
 Nepal's own way (Nepal Grade 4 np-g4): Grade 4 "Our Earth" moves to the district (Kanchanpur read on a map), the origin and structure of the Earth, and Nepal's two neighbours India and China; resources and traffic rules sit inside the Civic Awareness unit.
 
 Nepal's own way (Nepal Grade 6 np-g6): Grade 6 has a full "Hamro Prithvi" (Our Earth) unit — Earth's introduction, latitude/longitude, outer-layer structure, then Nepal itself: geographical description, climate, rivers/glaciers/lakes, natural vegetation, natural resources and map study, closing with disaster management; a population unit follows (demography, the census). Economic activities are organised by region and resource: agriculture and industry, services and trade, tourism, and economic resources (land and water; forest, minerals and people).
+
+Nicaragua's own way (Nicaragua Grade 2 Conociendo mi Mundo G2): Geography begins hyper-locally — the child's own school, municipality and landscape — and the country is introduced through its two great lakes (Cocibolca and Xolotlán) as the "land of lakes and volcanoes" before any wider world content. Non-Geography parts named, not placed: Unit II family, hygiene and food (printed pp. 9–32, home/health); Unit IV plant/animal/human-body topics (printed pp. 57–93, Natural Science); Unit V national symbols, heroes and traditions (printed pp. 113–143, Civics/History); Unit VI taxes (printed p. 151, Civics); efemérides throughout (History/Civics).

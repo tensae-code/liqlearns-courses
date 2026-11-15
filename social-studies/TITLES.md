@@ -103,7 +103,7 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **2859**
+Geography lessons across the eight Geography titles: **2879**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -2015,3 +2015,27 @@ Rain, Soil Erosion And Depletion, The Economic Bases Of
 State Power and Waste And How To Dispose Of It.
 (All 92 new lessons are taught in 1 country (Iraq),
 each standing on student book(s).)
+
++20 for Nicaragua, 2026-11-15 — First Steps: My School
+And Its Surroundings; The Land and Air: Central America
+Climate, Central America Geological Evolution And
+Nicaragua Geomorphological Regions, Central America
+Position Advantages And Disadvantages, Central America
+Relief And Volcanic Chain, Climates Of Europe Asia
+Africa And Oceania, Climates Of The Americas, Nicaragua
+Climate Regions Köppen And Watersheds, Nicaragua
+Climate Types And Köppen Map, Nicaragua In The Central
+American Isthmus, Nicaragua Land Of Lakes And
+Volcanoes, Nicaragua Three Regions And Volcanic Chain
+and Nicaragua Watersheds Pacific Lacustrine Caribbean;
+Population, Transport and Maps: Nicaragua Interoceanic
+Canal Importance, Nicaragua Political Division
+Departments And Regions and Political Organisation Of
+The Continents; Culture and Work: Nicaragua Territorial
+Distribution Of Production; Global Issues: Americas
+Risk Areas Earthquakes Tsunamis Hurricanes Floods,
+Continents High Risk Areas Maremotos And Tsunamis and
+Nicaragua Vulnerable Zones Disaster History And
+Environmental Problems.
+(All 20 new lessons are taught in 1 country
+(Nicaragua), each standing on student book(s).)

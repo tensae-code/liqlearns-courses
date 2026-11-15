@@ -1,6 +1,6 @@
 # Sources — Trade — what trade is
 
-countries: Ethiopia, Suriname, Mongolia, Palestine, Colombia, Eritrea, India, North Macedonia, Cambodia, Rwanda, Syria, Mauritania, Kuwait, Afghanistan, Yemen, Nepal, Mozambique, Jordan
+countries: Ethiopia, Suriname, Mongolia, Palestine, Colombia, Eritrea, India, North Macedonia, Cambodia, Rwanda, Syria, Mauritania, Kuwait, Afghanistan, Yemen, Nepal, Mozambique, Jordan, Nicaragua
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 2 — Population Studies and Socio-Economic Activities, printed pp. 44–76).
 
@@ -64,6 +64,8 @@ countries: Ethiopia, Suriname, Mongolia, Palestine, Colombia, Eritrea, India, No
 
 **Book 31:** *الدراسات الاجتماعية — الصف الخامس — الفصل الدراسي الثاني (Social Studies, Grade 5, Term 2)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-856-7. Title as printed: الدراسات الاجتماعية — الصف الخامس — الفصل الدراسي الثاني (Social Studies, Grade 5, Term 2). Grade: 5 (student/teacher: STUDENT). PDF pages: 100 (cover verified; byte size 21,825,614 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
 
+**Book 32:** *Estudios Sociales 3 (Libro de Texto)* (student book, Spanish) — Ministerio de Educación (MINED), Nicaragua; year 2016 (Edición 2016); ISBN no ISBN printed. Title as printed: Estudios Sociales 3 (Libro de Texto). Grade: Grade 3 (student/teacher: STUDENT). PDF pages: 118 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nicaragua-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — No one finds everything where they are | Ethiopia, *Social Studies Student Textbook, Grade 8* (Amhara Bureau), printed p. 66 |
@@ -98,8 +100,9 @@ countries: Ethiopia, Suriname, Mongolia, Palestine, Colombia, Eritrea, India, No
 | Mozambique part — Lição 8: Comércio, Sua Evolução (exchange from human non-self-sufficiency; barter before coin) | Mozambique, *Mozambique Grade 10 PESD II Mod 7*, Lição 8: Comércio, Sua Evolução (exchange from human non-self-sufficiency; barter before coin) — printed p. 54 |
 | Jordan part — Unit 4 Lesson 2: The Development of Trade in My Homeland (تطور التجارة في وطني) | Jordan, *Jordan G3 SS T2*, Unit 4 Lesson 2: The Development of Trade in My Homeland (تطور التجارة في وطني) — printed p. 18 |
 | Jordan part — Unit 6 Lesson 2: The Trade Sector (قطاع التجارة) | Jordan, *Jordan G5 SS T2*, Unit 6 Lesson 2: The Trade Sector (قطاع التجارة) — printed p. 32 |
+| Nicaragua part — Economía de la población nicaragüense y tratados comerciales | Nicaragua, *Nicaragua Grade 3 Estudios Sociales G3*, Economía de la población nicaragüense y tratados comerciales — printed p. 46 |
 
-**Acceptance count: taught in 18 countries (Ethiopia, Suriname, Mongolia, Palestine, Colombia, Eritrea, India, North Macedonia, Cambodia, Rwanda, Syria, Mauritania, Kuwait, Afghanistan, Yemen, Nepal, Mozambique, Jordan).**
+**Acceptance count: taught in 19 countries (Ethiopia, Suriname, Mongolia, Palestine, Colombia, Eritrea, India, North Macedonia, Cambodia, Rwanda, Syria, Mauritania, Kuwait, Afghanistan, Yemen, Nepal, Mozambique, Jordan, Nicaragua).**
 
 Mongolia's own way (Grade 8): the Grade 8 year is the LOCAL year — every chapter is re-anchored to the child's own орон нутаг (local area/homeland): its environment and problems, its heritage, its economy and market, its governance. The book's Law/Civics parts (Chapters IV–V, printed pp. 63–94) are named in the placements, not placed. That way is stocked here as the way Mongolia teaches this thing.
 
@@ -162,3 +165,5 @@ Mozambique's own way (Mozambique Grade 10 PESD II Mod 7): industry taught as a l
 Jordan's own way (Jordan G3 SS T2): Grade 3 Term 2 contrasts past and present (trade, production, the smart consumer), then studies Earth's natural features in Jordan, environment care, Jordan's map and its antiquities.
 
 Jordan's own way (Jordan G5 SS T2): Term 2 teaches the economy by sectors, then location skills (relative/absolute location, GPS) and Jordan's Arab world region by region — Nile Valley and Horn of Africa, then the Maghreb.
+
+Nicaragua's own way (Nicaragua Grade 3 Estudios Sociales G3): The first formal Geography course in the set: Units I–II teach what Geography is, map types, scale, orientation and the Earth, then every later unit works at three nested scales — comunidad, municipio, departamento — ending with Nicaragua's three regions, its volcanic chain and a Köppen climate map of the country. Non-Geography parts named, not placed: Unit VI municipality origins, customs and citizen participation (printed pp. 72–80, History/Civics, except the geography-influence topic placed below); Unit VII first settlers' history and culture (printed pp. 82–93, History); Unit VIII historical celebrations and heroes (printed pp. 94–109, History).

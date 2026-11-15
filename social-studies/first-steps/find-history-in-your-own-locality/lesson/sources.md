@@ -1,6 +1,6 @@
 # Sources — Find history in your own locality
 
-countries: Ethiopia, Rwanda, Venezuela
+countries: Ethiopia, Rwanda, Venezuela, Nicaragua
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Rwanda, Venezuela
 
 **Book 5:** *¡Viva Venezuela! Ciencias Sociales 1er Grado* (student book, Spanish) — Ministerio del Poder Popular para la Educación / Colección Bicentenario; year 2014 (fourth edition, April 2014); ISBN 978-980-218-297-8. Title as printed: ¡Viva Venezuela! Ciencias Sociales 1er Grado. Grade: Grade 1 (student/teacher: STUDENT). PDF pages: 67 (printed pages run to 128 in two-page spreads; cover/title page verified against the record title; grab SHA/size verified by grab.py). Verdict: COMPLETE. (Combined book — Geography parts placed below; parts named, not placed — History parts named, not placed: El niño Simón Bolívar (printed p. 103); Días para recordar (p. 80); Antes, es el pasado (p. 117, time/history notion).; Civics parts named, not placed: La bandera de las 8 estrellas (p. 82); La plaza Bolívar de Caracas (p. 90); Igualdad entre diferentes (p. 92); Ustedes tienen derechos y deberes (p. 105); school/family community lessons (pp. 8–24, 54).; Science parts named, not placed: ¿Para qué sirven los pies? (p. 22, the body).) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/venezuela-placements.md.
 
+**Book 6:** *Conociendo mi Mundo, 2do Grado* (student book, Spanish) — Ministerio de Educación (MINED), Nicaragua; year 2015 (Primera Edición); ISBN no ISBN printed. Title as printed: Conociendo mi Mundo, 2do Grado. Grade: Grade 2 (student/teacher: STUDENT). PDF pages: 180 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nicaragua-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Every locality holds primary evidence | Ethiopia, *History, Student Textbook, Grade 11*, throughout — the book's local-evidence habit, seeded from Unit 1 |
@@ -21,8 +23,9 @@ countries: Ethiopia, Rwanda, Venezuela
 | Rwanda part — Umutwe wa 9: Ibintu by'ingenzi byaranze amateka y'aho atuye n'ay'ishuri rye — important things in the history of the place where the child lives and of their school (Unit 9) | Rwanda, *Rwanda Grade 2 Amasomo Mbonezamubano SB*, Umutwe wa 9: Ibintu by'ingenzi byaranze amateka y'aho atuye n'ay'ishuri rye — important things in the history of the place where the child lives and of their school (Unit 9) — printed p. 89 |
 | Rwanda part — Ibintu by'ingenzi byaranze amateka y'Umurenge wacu: important things in the history of our sector (Unit 9, Amateka) | Rwanda, *Rwanda Grade 3 Amasomo Mbonezamubano SB*, Ibintu by'ingenzi byaranze amateka y'Umurenge wacu: important things in the history of our sector (Unit 9, Amateka) — printed p. 149 |
 | Venezuela part — Cambios que han ocurrido (changes in the locality over time) | Venezuela, *Venezuela Grade 1 G1 CS Viva Venezuela*, Cambios que han ocurrido (changes in the locality over time) — printed p. 58 |
+| Nicaragua part — Mi Municipio, el lugar donde vivo | Nicaragua, *Nicaragua Grade 2 Conociendo mi Mundo G2*, Mi Municipio, el lugar donde vivo — printed p. 145 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Rwanda, Venezuela).**
+**Acceptance count: taught in 4 countries (Ethiopia, Rwanda, Venezuela, Nicaragua).**
 
 No book error flagged by the placements touches this lesson. The lesson teaches the placement's content as a story summary in the course's own words — the book's text itself is never transcribed. 
 
@@ -35,3 +38,5 @@ Rwanda's own way (Rwanda Grade 2 Amasomo Mbonezamubano SB): the pupil's book wor
 Rwanda's own way (Rwanda Grade 3 Amasomo Mbonezamubano SB): P3 moves the home ground up one rung of Rwanda's administrative ladder, from the cell to the SECTOR (Umurenge) — and it is here, at age 8–9, that formal map work begins: the sector map of Gikomero, the district map of Gasabo, symbols, scale, and the sectors that share a border with ours.
 
 Venezuela's own way (Venezuela Grade 1 G1 CS Viva Venezuela): critical, question-first pedagogy ("pedagogía crítica") — spatial notions (up/down, north/south/east/west, near/far, yesterday/today) are built from the child's own home, classroom and community before any map appears.
+
+Nicaragua's own way (Nicaragua Grade 2 Conociendo mi Mundo G2): Geography begins hyper-locally — the child's own school, municipality and landscape — and the country is introduced through its two great lakes (Cocibolca and Xolotlán) as the "land of lakes and volcanoes" before any wider world content. Non-Geography parts named, not placed: Unit II family, hygiene and food (printed pp. 9–32, home/health); Unit IV plant/animal/human-body topics (printed pp. 57–93, Natural Science); Unit V national symbols, heroes and traditions (printed pp. 113–143, Civics/History); Unit VI taxes (printed p. 151, Civics); efemérides throughout (History/Civics).

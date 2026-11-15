@@ -1,6 +1,6 @@
 # Sources — Primary activities — mining
 
-countries: Ethiopia, Bolivia, Angola, Turkmenistan, Indonesia, Samoa, India, Cambodia, Slovenia, Papua New Guinea, Uganda, Sudan, Mauritania, Iran, Yemen, Pakistan, Libya, Jordan
+countries: Ethiopia, Bolivia, Angola, Turkmenistan, Indonesia, Samoa, India, Cambodia, Slovenia, Papua New Guinea, Uganda, Sudan, Mauritania, Iran, Yemen, Pakistan, Libya, Jordan, Nicaragua
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 2 — Population Studies and Socio-Economic Activities, printed pp. 44–76).
 
@@ -62,6 +62,8 @@ countries: Ethiopia, Bolivia, Angola, Turkmenistan, Indonesia, Samoa, India, Cam
 
 **Book 30:** *علوم الأرض والبيئة — الصف الثاني عشر — المسار الأكاديمي — كتاب الطالب — الفصل الدراسي الأول (Earth Science and Environment, Grade 12 Academic Track, Term 1)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-807-9. Title as printed: علوم الأرض والبيئة — الصف الثاني عشر — المسار الأكاديمي — كتاب الطالب — الفصل الدراسي الأول (Earth Science and Environment, Grade 12 Academic Track, Term 1). Grade: 12 (student/teacher: STUDENT). PDF pages: 162 (cover verified; byte size 62,271,187 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
 
+**Book 31:** *Ciencias Sociales 8 Grado, Educación Secundaria (PROSEN)* (student book, Spanish) — Ministerio de Educación (MINED), Nicaragua, with PROSEN / European Union support; year not printed (Primera Edición); ISBN no ISBN printed. Title as printed: Ciencias Sociales 8 Grado, Educación Secundaria (PROSEN). Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 240 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nicaragua-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What minerals are | Ethiopia, *Social Studies Student Textbook, Grade 8* (Amhara Bureau), printed pp. 57–58 |
@@ -96,8 +98,9 @@ countries: Ethiopia, Bolivia, Angola, Turkmenistan, Indonesia, Samoa, India, Cam
 | Pakistan part — Types of mining: hand-panning, shaft tunnel, open-pit (copper, chromite, limestone in Pakistan), adit tunnel and drill mining | Pakistan, *Pakistan Grade 7 Geography 7*, Types of mining: hand-panning, shaft tunnel, open-pit (copper, chromite, limestone in Pakistan), adit tunnel and drill mining — printed p. 81 |
 | Libya part — Book 6 Ch.2: الموارد الاقتصادية المعدنية — Mineral economic resources: requirements of mining production and the geographic distribution of mining areas [placement slug: people-and-resources/mining-and-quarrying] | Libya, *Libya Grade 10 LY G10 Principles*, Book 6 Ch.2: الموارد الاقتصادية المعدنية — Mineral economic resources: requirements of mining production and the geographic distribution of mining areas — printed p. 119 |
 | Jordan part — Unit 4 Lesson 3: Mining Metal Ores and Its Effect on the Environment (تعدين الخامات المعدنية وأثره على البيئة) | Jordan, *Jordan G12 ES T1*, Unit 4 Lesson 3: Mining Metal Ores and Its Effect on the Environment (تعدين الخامات المعدنية وأثره على البيئة) — printed p. 142 |
+| Nicaragua part — Minerales, metales y petróleo de América | Nicaragua, *Nicaragua Grade 8 Estudios Sociales G8 full-year*, Minerales, metales y petróleo de América — printed p. 49 |
 
-**Acceptance count: taught in 17 countries (Ethiopia, Bolivia, Angola, Turkmenistan, Indonesia, Samoa, India, Cambodia, Slovenia, Uganda, Sudan, Mauritania, Iran, Yemen, Pakistan, Libya, Jordan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 18 countries (Ethiopia, Bolivia, Angola, Turkmenistan, Indonesia, Samoa, India, Cambodia, Slovenia, Uganda, Sudan, Mauritania, Iran, Yemen, Pakistan, Libya, Jordan, Nicaragua). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -160,3 +163,5 @@ Pakistan's own way (Pakistan Grade 7 Geography 7): a dedicated English-medium Ge
 Libya's own way (Libya Grade 10 LY G10 Principles): Secondary geography opens as a two-part systematic course — physical geography first (astronomy, surface-shaping factors, climate, vegetation and wild animals), then human geography (population and settlement, economic resources) — and closes with a whole book on spatial-data technology: remote sensing, GPS and GIS, then the history of maps from Babylon and Ibn Hawqal.
 
 Jordan's own way (Jordan G12 ES T1): the final year opens with fossil fuels and climate action, then structures and plate tectonics, closing with geological exploration — ending on uranium exploration in Jordan.
+
+Nicaragua's own way (Nicaragua Grade 8 Estudios Sociales G8 full-year): Grade 8 widens the lens to the whole American continent: five Geography units on America's territorial patrimony, physical landscape, ethnic-cultural diversity, space-and-economy and environmental protection (closing with Nicaragua's own SINAPRED disaster system), then five History units. Non-Geography parts named, not placed: Unit VI American origins (printed pp. 125–138, History); Unit VII arrival of the Europeans and colonial domination (printed pp. 145–165, History); Unit VIII emancipation processes (printed pp. 167–184, History); Unit IX changes in Latin American society (printed pp. 185–194, History); Unit X America in the 20th century (printed pp. 197–222, History).

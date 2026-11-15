@@ -1,6 +1,6 @@
 # Sources — How the Earth formed
 
-countries: Ethiopia, Vietnam, Nepal
+countries: Ethiopia, Vietnam, Nepal, Nicaragua
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Vietnam, Nepal
 
 **Book 4:** *My Social Studies and Creative Arts Grade 4 (English edition)* (student book, English) — Government of Nepal, Ministry of Education, Curriculum Development Centre, Sanothimi, Bhaktapur; year First edition (Nepali) 2062 BS, English edition 2066 BS; ISBN no ISBN printed. Title as printed: My Social Studies and Creative Arts Grade 4 (English edition). Grade: Grade 4 (student/teacher: STUDENT). PDF pages: 136 (cover/title page verified against the record title). Verdict: COMPLETE. Non-Geography parts named (not placed): Unit 1 Me, My Family and My Neighbourhood (printed pp. 2–9); Unit 2 Lessons 1, 3–6 seniors, rituals/festivals, birthplace, ideal people (pp. 10–21); Unit 3 Social Problems and Solutions (pp. 22–35); Unit 4 Civic Awareness Lessons 1–2, 7–9 rights, child participation, VDC, municipality, equal treatment (pp. 36–39, 48–53, civics); Unit 6 Our History (pp. 66–75, History); Creative Arts (pp. 76–135). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nepal-placements.md.
 
+**Book 5:** *Estudios Sociales, Primaria Regular, 6to Grado* (student book, Spanish) — Ministerio de Educación (MINED), Nicaragua; year 2020 (Edición 2020, printed in the book; the file name carries 2018); ISBN no ISBN printed. Title as printed: Estudios Sociales, Primaria Regular, 6to Grado. Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 222 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nicaragua-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — A universe that exploded and gathered | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 1, printed pp. 2–3 |
@@ -18,8 +20,9 @@ countries: Ethiopia, Vietnam, Nepal
 | Teaching sequence and answer keys (teacher guide — evidence) | Ethiopia, *Geography, Teacher Guide, Grade 11*, Unit 1, guide printed pp. 12–39 |
 | Vietnam part — Bài 4 (part): The formation of the Earth, about 4.5 billion years ago | Vietnam, *Vietnam Grade 10 Địa lí 10*, Bài 4 (part): The formation of the Earth, about 4.5 billion years ago — printed p. 15 |
 | Nepal part — Unit 5 Lesson 3: Origin of the Earth | Nepal, *Nepal Grade 4 np-g4*, Unit 5 Lesson 3: Origin of the Earth — printed p. 58 |
+| Nicaragua part — Teorías del origen de la Tierra | Nicaragua, *Nicaragua Grade 6 Estudios Sociales G6*, Teorías del origen de la Tierra — printed p. 2 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Vietnam, Nepal).**
+**Acceptance count: taught in 4 countries (Ethiopia, Vietnam, Nepal, Nicaragua).**
 
 No book error is flagged for this lesson's pages in the placements. The student book's body numbering for Unit Two drifts from its own contents (regions printed as 2.4, factors as 2.5, local classification as 2.6, where the contents and the teacher guide's contents agree on 2.3, 2.4 and 2.5); this lesson follows the contents numbering and teaches no misprint.
 
@@ -28,3 +31,5 @@ Searchable tags: how the earth formed, big bang, solar system formation, ethiopi
 Vietnam's own way (Vietnam Grade 10 Địa lí 10): a single Grade 10 course that runs the whole discipline — map craft, the Earth's spheres, then economic geography sector by sector — with Vietnam itself as the standing worked example (its power-plant and rice maps, the Red River's regime at Hanoi, Hanoi's climate chart, Vietnam's GDP structure, its internet and tourism figures) inside world-scale treatment.
 
 Nepal's own way (Nepal Grade 4 np-g4): Grade 4 "Our Earth" moves to the district (Kanchanpur read on a map), the origin and structure of the Earth, and Nepal's two neighbours India and China; resources and traffic rules sit inside the Civic Awareness unit.
+
+Nicaragua's own way (Nicaragua Grade 6 Estudios Sociales G6): The primary cycle closes at world scale: after the planet unit, Unit II treats the whole American continent and Unit III repeats the same template — position, political division, relief, resources, hydrography, climate, risk areas, economic activities — for Europe, Asia, Africa and Oceania; the remaining five units are world and Latin American History. Non-Geography parts named, not placed: Unit IV first human groups and the Neolithic (printed pp. 98–113, History); Unit V ancient civilisations to the medieval world (printed pp. 118–134, History); Unit VI the modern world (printed pp. 140–164, History); Unit VII transformations of the 18th–19th centuries (printed pp. 168–183, History); Unit VIII the world in the 20th century (printed pp. 188–204, History).

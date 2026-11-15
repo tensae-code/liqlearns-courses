@@ -1,6 +1,6 @@
 # Sources — Drought — when the rain fails
 
-countries: Ethiopia, Angola, Zimbabwe, Eritrea, Slovenia, Venezuela, Mauritania
+countries: Ethiopia, Angola, Zimbabwe, Eritrea, Slovenia, Venezuela, Mauritania, Nicaragua
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Angola, Zimbabwe, Eritrea, Slovenia, Venezuela, Mauritania
 
 **Book 8:** *Kitab al-Jughrafia lilsana al-Sadisa min al-Ta'lim al-Ibtida'i (Geography Book, Sixth Year of Primary Education)* (student book, Arabic) — Institut Pédagogique National (IPN), Mauritania; year no year printed on title page; ISBN no ISBN printed. Title as printed: Kitab al-Jughrafia lilsana al-Sadisa min al-Ta'lim al-Ibtida'i (Geography Book, Sixth Year of Primary Education). Grade: Grade 6 (6e année fondamentale) (student/teacher: STUDENT). PDF pages: 53 (cover/title page verified against the record title; fetched from the record's source URL docs.bsimr.com/pdfs/fondamentals/GEO-6AF-M.pdf, 4,284,854 bytes). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mauritania-placements.md.
 
+**Book 9:** *Ciencias Sociales — Geografía, Módulo Autoformativo, Décimo Grado (Educación Secundaria a Distancia en el Campo)* (student book, Spanish) — Ministerio de Educación (MINED), Nicaragua; year 2017 (Primera Edición); ISBN no ISBN printed. Title as printed: Ciencias Sociales — Geografía, Módulo Autoformativo, Décimo Grado (Educación Secundaria a Distancia en el Campo). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 188 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nicaragua-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Drought is temporary; aridity is permanent | G12 student #76, printed pp. 202–205 |
@@ -29,8 +31,9 @@ countries: Ethiopia, Angola, Zimbabwe, Eritrea, Slovenia, Venezuela, Mauritania
 | Slovenia part — Naravne nesreče / Suša (natural disasters; drought) inside Podnebne spremembe | Slovenia, *Slovenia Grade 10 Geografija 1 (gimnazija)*, Naravne nesreče / Suša (natural disasters; drought) inside Podnebne spremembe — printed p. 99 |
 | Venezuela part — Defender la selva tropical: consequences of a prolonged drought; Venezuela prepares for climate change | Venezuela, *Venezuela Grade 9 G9 Geography Venezuela*, Defender la selva tropical: consequences of a prolonged drought; Venezuela prepares for climate change — printed p. 171 |
 | Mauritania part — Unit 3 Lesson 7: the Permanent Interstate Committee for Drought Control in the Sahel (CILSS) | Mauritania, *Mauritania Grade 6 geo-6af-m*, Unit 3 Lesson 7: the Permanent Interstate Committee for Drought Control in the Sahel (CILSS) — printed p. 27 |
+| Nicaragua part — Áreas expuestas a desastres; vulnerabilidad social/económica/política/cultural; prevención y SINAPRED (Unidad VI) | Nicaragua, *Nicaragua Grade 10 CCSS Geografía 10*, Áreas expuestas a desastres; vulnerabilidad social/económica/política/cultural; prevención y SINAPRED (Unidad VI) — printed p. 158 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Angola, Eritrea, Slovenia, Venezuela, Mauritania). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 7 countries (Ethiopia, Angola, Eritrea, Slovenia, Venezuela, Mauritania, Nicaragua). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
 
 No book error in the placements for this lesson is taught here. Figures and dates are taught exactly as the placements report them, as the book's own record.
 
@@ -49,3 +52,5 @@ Slovenia's own way (Slovenia Grade 10 Geografija 1 (gimnazija)): the gimnazija f
 Venezuela's own way (Venezuela Grade 9 G9 Geography Venezuela): a full national geography written as Geohistoria — every physical topic (position, climate, relief, hydrography) is paired with the historical stages that organised the same space (agrarian Venezuela, oil Venezuela, 21st-century Venezuela), and the Amazon rainforest closes the book as a defence-of-life argument.
 
 Mauritania's own way (Mauritania Grade 6 geo-6af-m): The final primary book turns outward: five of its six units place Mauritania inside its organisations — the Arab Maghreb Union, the Senegal River organisation (OMVS), the Arab League, the African Union, the Sahel drought committee (CILSS), the Organisation of Islamic Cooperation — and inside the industrial world (Europe, North America, the industrial East), before a closing world unit on continents, oceans, seas, rivers and straits.
+
+Nicaragua's own way (Nicaragua Grade 10 CCSS Geografía 10): A distance-learning self-study module ("Geografía Dinámica") built entirely around Nicaragua itself — every physical topic (relief, climate, watersheds, coasts) is taught through Nicaraguan regions, and risk/vulnerability (hurricanes, Casita landslide, SINAPRED) closes the book. Non-Geography parts: Unit IV population-policy content (Hambre Cero, Usura Cero, housing projects) is Civics/social policy — named here, not placed beyond its population-geography topics.

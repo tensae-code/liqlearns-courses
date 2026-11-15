@@ -1,6 +1,6 @@
 # Sources — Road safety — signs and crossings
 
-countries: Ethiopia, Turkey, Ecuador, Palestine, Zimbabwe, Syria, Venezuela, Yemen, Nepal, Jordan
+countries: Ethiopia, Turkey, Ecuador, Palestine, Zimbabwe, Syria, Venezuela, Yemen, Nepal, Jordan, Nicaragua
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 2, placements 27–43).
 
@@ -30,6 +30,8 @@ countries: Ethiopia, Turkey, Ecuador, Palestine, Zimbabwe, Syria, Venezuela, Yem
 
 **Book 14:** *الدراسات الاجتماعية — الصف الأول — الفصل الدراسي الأول (Social Studies, Grade 1, Term 1)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; year 2024 (2nd edition, revised; first experimental edition 2023, MoE decision 2023/216); ISBN 978-9923-41-573-3. Title as printed: الدراسات الاجتماعية — الصف الأول — الفصل الدراسي الأول (Social Studies, Grade 1, Term 1). Grade: 1 (student/teacher: STUDENT). PDF pages: 76 (cover/title page verified against the record title; byte size 40,293,333 matches the books.json twin record exactly — TSV + books.json records are the same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
 
+**Book 15:** *Conociendo mi Mundo, 2do Grado* (student book, Spanish) — Ministerio de Educación (MINED), Nicaragua; year 2015 (Primera Edición); ISBN no ISBN printed. Title as printed: Conociendo mi Mundo, 2do Grado. Grade: Grade 2 (student/teacher: STUDENT). PDF pages: 180 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nicaragua-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson | Ethiopia, *Social Studies Student Textbook, Grade 7* (Amhara Bureau), printed p. 43 |
@@ -46,8 +48,9 @@ countries: Ethiopia, Turkey, Ecuador, Palestine, Zimbabwe, Syria, Venezuela, Yem
 | Nepal part — Unit 4 Lesson 6: Traffic Rules | Nepal, *Nepal Grade 4 np-g4*, Unit 4 Lesson 6: Traffic Rules — printed p. 46 |
 | Nepal part — Unit 3 Lesson 8: Let's follow the traffic rules | Nepal, *Nepal Grade 6 np-g6*, Unit 3 Lesson 8: Let's follow the traffic rules — printed p. 70 |
 | Jordan part — Unit 1 Lesson 6: The Traffic Light (إشارة المرور) | Jordan, *Jordan G1 SS T1*, Unit 1 Lesson 6: The Traffic Light (إشارة المرور) — printed p. 34 |
+| Nicaragua part — Señales de tránsito | Nicaragua, *Nicaragua Grade 2 Conociendo mi Mundo G2*, Señales de tránsito — printed p. 167 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Turkey, Ecuador, Palestine, Syria, Venezuela, Yemen, Nepal, Jordan). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 10 countries (Ethiopia, Turkey, Ecuador, Palestine, Syria, Venezuela, Yemen, Nepal, Jordan, Nicaragua). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
 
 Turkey's own way: Hayat Bilgisi (Life Studies) carries almost no Geography in this semester book — self/school, health/safety and family/society — except road signs and the two end-of-book maps; the Geography parts only are placed. That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
@@ -78,3 +81,5 @@ Nepal's own way (Nepal Grade 4 np-g4): Grade 4 "Our Earth" moves to the district
 Nepal's own way (Nepal Grade 6 np-g6): Grade 6 has a full "Hamro Prithvi" (Our Earth) unit — Earth's introduction, latitude/longitude, outer-layer structure, then Nepal itself: geographical description, climate, rivers/glaciers/lakes, natural vegetation, natural resources and map study, closing with disaster management; a population unit follows (demography, the census). Economic activities are organised by region and resource: agriculture and industry, services and trade, tourism, and economic resources (land and water; forest, minerals and people).
 
 Jordan's own way (Jordan G1 SS T1): Social Studies opens at Grade 1 with the child's own circles — self, family, neighbourhood — then the homeland (Jordan's map, capital, flag, king), all taught through colouring, matching and picture talk rather than text.
+
+Nicaragua's own way (Nicaragua Grade 2 Conociendo mi Mundo G2): Geography begins hyper-locally — the child's own school, municipality and landscape — and the country is introduced through its two great lakes (Cocibolca and Xolotlán) as the "land of lakes and volcanoes" before any wider world content. Non-Geography parts named, not placed: Unit II family, hygiene and food (printed pp. 9–32, home/health); Unit IV plant/animal/human-body topics (printed pp. 57–93, Natural Science); Unit V national symbols, heroes and traditions (printed pp. 113–143, Civics/History); Unit VI taxes (printed p. 151, Civics); efemérides throughout (History/Civics).

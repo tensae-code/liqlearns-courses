@@ -1,6 +1,6 @@
 # Sources — Water Bodies — Oceans, Seas, Lakes, Rivers
 
-countries: Ethiopia, Palestine, Dominican Republic, Bahamas, Colombia, Eritrea, India, Cambodia, Papua New Guinea, Uganda, Syria, Mauritania, Yemen, Jordan
+countries: Ethiopia, Palestine, Dominican Republic, Bahamas, Colombia, Eritrea, India, Cambodia, Papua New Guinea, Uganda, Syria, Mauritania, Yemen, Jordan, Nicaragua
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -42,6 +42,12 @@ countries: Ethiopia, Palestine, Dominican Republic, Bahamas, Colombia, Eritrea, 
 
 **Book 20:** *الجغرافيا — الصف التاسع — الفصل الدراسي الأول (Geography, Grade 9, Term 1)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; year 2025; ISBN 978-9923-41-859-8. Title as printed: الجغرافيا — الصف التاسع — الفصل الدراسي الأول (Geography, Grade 9, Term 1). Grade: 9 (student/teacher: STUDENT). PDF pages: 80 (cover verified; byte size 60,522,837 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
 
+**Book 21:** *Estudios Sociales, Primaria Regular, 6to Grado* (student book, Spanish) — Ministerio de Educación (MINED), Nicaragua; year 2020 (Edición 2020, printed in the book; the file name carries 2018); ISBN no ISBN printed. Title as printed: Estudios Sociales, Primaria Regular, 6to Grado. Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 222 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nicaragua-placements.md.
+
+**Book 22:** *Ciencias Sociales 9 Grado, Educación Secundaria (PROSEN)* (student book, Spanish) — Ministerio de Educación (MINED), Nicaragua, with PROSEN / European Union support; year not printed (Primera Edición); ISBN no ISBN printed. Title as printed: Ciencias Sociales 9 Grado, Educación Secundaria (PROSEN). Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 280 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nicaragua-placements.md.
+
+**Book 23:** *Módulo Autoformativo de Ciencias Sociales — Geografía, 9no Grado (Educación Secundaria a Distancia en el Campo)* (student book, Spanish) — Ministerio de Educación (MINED), Nicaragua, PROSEN; year 2017; ISBN no ISBN printed. Title as printed: Módulo Autoformativo de Ciencias Sociales — Geografía, 9no Grado (Educación Secundaria a Distancia en el Campo). Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 300 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nicaragua-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Where does your water come from? | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed p. 5 |
@@ -65,8 +71,11 @@ countries: Ethiopia, Palestine, Dominican Republic, Bahamas, Colombia, Eritrea, 
 | Yemen part — Unit 5 Lesson 2 Water on the Earth's Surface | Yemen, *Yemen Grade 7 G7 Principles of Physical Geography*, Unit 5 Lesson 2 Water on the Earth's Surface — printed p. 124 |
 | Yemen part — Unit 4 Lesson 4 Water on the Earth | Yemen, *Yemen Grade 10 G10 Geography of Man and the Environment*, Unit 4 Lesson 4 Water on the Earth — printed p. 101 |
 | Jordan part — Unit 2 Lesson 1: Components of the Hydrosphere (مكونات الغلاف المائي) | Jordan, *Jordan G9 Geography T1*, Unit 2 Lesson 1: Components of the Hydrosphere (مكونات الغلاف المائي) — printed p. 32 |
+| Nicaragua part — Hidrografía de los continentes | Nicaragua, *Nicaragua Grade 6 Estudios Sociales G6*, Hidrografía de los continentes — printed p. 79 |
+| Nicaragua part — Hidrografía de los continentes | Nicaragua, *Nicaragua Grade 9 Estudios Sociales G9 full-year*, Hidrografía de los continentes — printed p. 51 |
+| Nicaragua part — Hidrografía de los continentes | Nicaragua, *Nicaragua Grade 9 CCSS Geografía Módulo G9*, Hidrografía de los continentes — printed p. 103 |
 
-**Acceptance count: taught in 13 countries (Ethiopia, Palestine, Dominican Republic, Bahamas, Colombia, Eritrea, India, Cambodia, Uganda, Syria, Mauritania, Yemen, Jordan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 14 countries (Ethiopia, Palestine, Dominican Republic, Bahamas, Colombia, Eritrea, India, Cambodia, Uganda, Syria, Mauritania, Yemen, Jordan, Nicaragua). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Pairing warning: the Grade 8 teacher guide is an Addis Ababa bureau book and the student book is an Amhara bureau book; they are NOT edition-matched, and the guide in hand is truncated (printed pp. 1–47 only, Units 1–3). Pupil content in this lesson comes from the Amhara student book; anything from the guide is labelled (teacher guide — evidence) and never presented as pupil-taught.
 
@@ -107,3 +116,9 @@ Yemen's own way (Yemen Grade 7 G7 Principles of Physical Geography): from Grade 
 Yemen's own way (Yemen Grade 10 G10 Geography of Man and the Environment): secondary geography is thematic, not regional — man and space, man representing his geographic field (remote sensing, projections, maps), man organising it (rural/urban), climate and water, the dynamic Earth, and the great environmental systems.
 
 Jordan's own way (Jordan G9 Geography T1): From Grade 9 Geography stands alone as its own book: the Earth's rock and water spheres first, then the geography of the Arab homeland — its natural features, its human features and its challenges.
+
+Nicaragua's own way (Nicaragua Grade 6 Estudios Sociales G6): The primary cycle closes at world scale: after the planet unit, Unit II treats the whole American continent and Unit III repeats the same template — position, political division, relief, resources, hydrography, climate, risk areas, economic activities — for Europe, Asia, Africa and Oceania; the remaining five units are world and Latin American History. Non-Geography parts named, not placed: Unit IV first human groups and the Neolithic (printed pp. 98–113, History); Unit V ancient civilisations to the medieval world (printed pp. 118–134, History); Unit VI the modern world (printed pp. 140–164, History); Unit VII transformations of the 18th–19th centuries (printed pp. 168–183, History); Unit VIII the world in the 20th century (printed pp. 188–204, History).
+
+Nicaragua's own way (Nicaragua Grade 9 Estudios Sociales G9 full-year): The classroom parallel of the Grade 9 Geography module (Book 12): five world-Geography units working continent by continent (Asia, Europe, Africa and Oceania in turn for position, relief, climate, hydrography, population and economies), closing on risk prevention with disaster impact in Nicaragua and the world; the second half is world History from human evolution to the modern age. Non-Geography parts named, not placed: Unit VI evolution of human beings (printed pp. 137–144, History); Unit VII first agricultural civilisations (printed pp. 147–164, History, except the geographical-setting topics placed below); Unit VIII classical civilisations (printed pp. 165–189, History, except the topic placed below); Unit IX the medieval world (printed pp. 191–205, History); Unit X age of great changes (printed pp. 209–223, History, except the geographical discoveries placed below).
+
+Nicaragua's own way (Nicaragua Grade 9 CCSS Geografía Módulo G9): A pure-Geography self-study module (no History/Civics in this book): the Grade 9 world-Geography course taught continent by continent — position and political organisation, physical landscape, human diversity, production and consumption, and a closing planet-care unit on prevention and mitigation — with Nicaragua used as the home reference point throughout.

@@ -1,0 +1,19 @@
+# Nicaragua Vulnerable Zones Disaster History And Environmental Problems — multiple choice
+
+Pick the one right answer.
+
+**1. (Sub lesson 1)** The first part of this lesson is —
+a) Nicaragua Vulnerable Zones Disaster History And Environmental Problems  b) learning the alphabet  c) counting to ten
+**Answer: a) Nicaragua Vulnerable Zones Disaster History And Environmental Problems**
+
+**2. (Sub lesson 1)** This lesson is mainly about —
+a) Zonas y áreas vulnerables; Defensa Civil y plan de emergencia; historia de desastres y problemas ambientales en Nicaragua; Defensa civil y la organización de la comunidad ante los riesgos; Defensa Civil y Sistema Nacional para la Prevención, Mitigación y Atención de Desastres (SINAPRED); Áreas vulnerables y medidas de prevención y mitigación en las diferentes regiones de América; Defensa Civil en las diferentes regiones de América; Impacto de los desastres en Nicaragua y el mundo; amenazas y tipos de vulnerabilidad; Nicaragua y las amenazas naturales: sísmicas, volcánicas, climáticas y topográficas; deslizamientos y sequías; Sistema Nacional de Prevención, Mitigación y Atención de Desastres (SINAPRED) y Defensa Civil  b) ancient kings only  c) the Moon's phases
+**Answer: a) Zonas y áreas vulnerables; Defensa Civil y plan de emergencia; historia de desastres y problemas ambientales en Nicaragua; Defensa civil y la organización de la comunidad ante los riesgos; Defensa Civil y Sistema Nacional para la Prevención, Mitigación y Atención de Desastres (SINAPRED); Áreas vulnerables y medidas de prevención y mitigación en las diferentes regiones de América; Defensa Civil en las diferentes regiones de América; Impacto de los desastres en Nicaragua y el mundo; amenazas y tipos de vulnerabilidad; Nicaragua y las amenazas naturales: sísmicas, volcánicas, climáticas y topográficas; deslizamientos y sequías; Sistema Nacional de Prevención, Mitigación y Atención de Desastres (SINAPRED) y Defensa Civil**
+
+**3. (Sub lesson 2)** The second part of this lesson is —
+a) Nicaragua's way — the book's own teaching way  b) learning to swim  c) telling the time
+**Answer: a) Nicaragua's way — the book's own teaching way**
+
+**4. (Sub lesson 2)** Which of these is true, from the lesson?
+a) This lesson teaches Zonas y áreas vulnerables; Defensa Civil y plan de emergencia; historia de desastres y problemas ambientales en Nicaragua; Defensa civil y la organización de la comunidad ante los riesgos; Defensa Civil y Sistema Nacional para la Prevención, Mitigación y Atención de Desastres (SINAPRED); Áreas vulnerables y medidas de prevención y mitigación en las diferentes regiones de América; Defensa Civil en las diferentes regiones de América; Impacto de los desastres en Nicaragua y el mundo; amenazas y tipos de vulnerabilidad; Nicaragua y las amenazas naturales: sísmicas, volcánicas, climáticas y topográficas; deslizamientos y sequías; Sistema Nacional de Prevención, Mitigación y Atención de Desastres (SINAPRED) y Defensa Civil.  b) Nicaragua's book never studies this thing.  c) This lesson teaches nothing about its topic
+**Answer: a) This lesson teaches Zonas y áreas vulnerables; Defensa Civil y plan de emergencia; historia de desastres y problemas ambientales en Nicaragua; Defensa civil y la organización de la comunidad ante los riesgos; Defensa Civil y Sistema Nacional para la Prevención, Mitigación y Atención de Desastres (SINAPRED); Áreas vulnerables y medidas de prevención y mitigación en las diferentes regiones de América; Defensa Civil en las diferentes regiones de América; Impacto de los desastres en Nicaragua y el mundo; amenazas y tipos de vulnerabilidad; Nicaragua y las amenazas naturales: sísmicas, volcánicas, climáticas y topográficas; deslizamientos y sequías; Sistema Nacional de Prevención, Mitigación y Atención de Desastres (SINAPRED) y Defensa Civil.**

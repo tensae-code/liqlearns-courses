@@ -1,6 +1,6 @@
 # Sources — Why People Settle Where They Do
 
-countries: Ethiopia, Bangladesh, Zimbabwe, Malaysia, Eritrea, Slovenia, Uganda, Syria, Pakistan, Mozambique, Iraq
+countries: Ethiopia, Bangladesh, Zimbabwe, Malaysia, Eritrea, Slovenia, Uganda, Syria, Pakistan, Mozambique, Iraq, Nicaragua
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (placement 47).
 
@@ -32,6 +32,8 @@ countries: Ethiopia, Bangladesh, Zimbabwe, Malaysia, Eritrea, Slovenia, Uganda, 
 
 **Book 15:** *الاجتماعيات للصف الأول المتوسط (Social Studies for the First Intermediate Grade)* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 1445 AH / 2023 CE, 5th edition (الطبعة الخامسة); ISBN no ISBN printed on the title pages. Title as printed: الاجتماعيات للصف الأول المتوسط (Social Studies for the First Intermediate Grade). Grade: 7 (student/teacher: STUDENT). PDF pages: 132 (cover/title page verified against the record title; read via the books.json record's own Google Drive source file — same book, cover and contents verified — after the GitHub route failed). Verdict: COMPLETE — the book is a History book (ancient civilisations); only its Geography setting sections are placed, per the scope rule. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iraq-placements.md.
 
+**Book 16:** *Estudios Sociales 3 (Libro de Texto)* (student book, Spanish) — Ministerio de Educación (MINED), Nicaragua; year 2016 (Edición 2016); ISBN no ISBN printed. Title as printed: Estudios Sociales 3 (Libro de Texto). Grade: Grade 3 (student/teacher: STUDENT). PDF pages: 118 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nicaragua-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Whole lesson frame — population distribution is uneven because settlement is tied directly to resources; the controllers named are water, soil, vegetation and climate | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 3, printed pp. 63–65 |
@@ -51,8 +53,9 @@ countries: Ethiopia, Bangladesh, Zimbabwe, Malaysia, Eritrea, Slovenia, Uganda, 
 | Mozambique part — Lição 7: industry, commerce and mining as settlement magnets | Mozambique, *Mozambique Grade 7 PESD I Mod 2*, Lição 7: industry, commerce and mining as settlement magnets — printed p. 39 |
 | Mozambique part — Lição 2: coal attracting industry and towns; railways as urban growth axes | Mozambique, *Mozambique Grade 10 PESD II Mod 5*, Lição 2: coal attracting industry and towns; railways as urban growth axes — printed p. 16 |
 | Iraq part — Ch. 2: Fertile soil and the river channels — why the first farming villages arose in the undulating region and spread to the alluvial plain between the Tigris and Euphrates | Iraq, *Iraq Grade 7 Social Studies*, Ch. 2: Fertile soil and the river channels — why the first farming villages arose in the undulating region and spread to the alluvial plain between the Tigris and Euphrates — printed p. 24 |
+| Nicaragua part — Influencia del medio geográfico en el poblamiento del departamento | Nicaragua, *Nicaragua Grade 3 Estudios Sociales G3*, Influencia del medio geográfico en el poblamiento del departamento — printed p. 84 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Bangladesh, Malaysia, Eritrea, Slovenia, Uganda, Syria, Pakistan, Mozambique, Iraq). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 11 countries (Ethiopia, Bangladesh, Malaysia, Eritrea, Slovenia, Uganda, Syria, Pakistan, Mozambique, Iraq, Nicaragua). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
 
 Guide-evidence note (not taught above as pupil content): the Addis Ababa teacher guide's §2.2.1 (printed pp. 28–31) keys Ethiopia's own population concentration in the highlands to altitude, climate and soil (moderate temperatures, rich soil, adequate rainfall) — the same controller frame, recorded here as teacher evidence that the frame is the syllabus's own; the lesson itself rests wholly on the student book. The equator puzzle is the book's own set question ("to be explained"); the lesson poses it and coaches an answer from the four controllers rather than printing a keyed answer the placements do not give. No book error flagged by the placements touches this lesson.
 
@@ -85,3 +88,5 @@ Mozambique's own way (Mozambique Grade 7 PESD I Mod 2): human/economic geography
 Mozambique's own way (Mozambique Grade 10 PESD II Mod 5): population geography taught as a developed-world/developing-world contrast throughout — distribution factors, growth, Malthus and the transition, then the two evolutions (developed countries; the "Terceiro Mundo" set) with their opposite population policies, closing on structures, demographic problems (incl. HIV cutting life expectancy below 50) and population–economy/environment relations.
 
 Iraq's own way (Iraq Grade 7 Social Studies): at intermediate level Social Studies becomes the history of ancient civilisations, and every civilisation is opened through its land — relief, climate, soil and rivers are taught as the stage on which each civilisation arose, starting with Iraq's own four relief regions.
+
+Nicaragua's own way (Nicaragua Grade 3 Estudios Sociales G3): The first formal Geography course in the set: Units I–II teach what Geography is, map types, scale, orientation and the Earth, then every later unit works at three nested scales — comunidad, municipio, departamento — ending with Nicaragua's three regions, its volcanic chain and a Köppen climate map of the country. Non-Geography parts named, not placed: Unit VI municipality origins, customs and citizen participation (printed pp. 72–80, History/Civics, except the geography-influence topic placed below); Unit VII first settlers' history and culture (printed pp. 82–93, History); Unit VIII historical celebrations and heroes (printed pp. 94–109, History).

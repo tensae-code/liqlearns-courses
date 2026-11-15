@@ -1,6 +1,6 @@
 # Sources — Continental drift — Wegener and Pangaea
 
-countries: Ethiopia, Bolivia, Dominican Republic, Fiji, Uzbekistan, Venezuela, Honduras, Mozambique, Jordan
+countries: Ethiopia, Bolivia, Dominican Republic, Fiji, Uzbekistan, Venezuela, Honduras, Mozambique, Jordan, Nicaragua
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -26,6 +26,8 @@ countries: Ethiopia, Bolivia, Dominican Republic, Fiji, Uzbekistan, Venezuela, H
 
 **Book 12:** *علوم الأرض والبيئة — الصف الثاني عشر — المسار الأكاديمي — كتاب الطالب — الفصل الدراسي الأول (Earth Science and Environment, Grade 12 Academic Track, Term 1)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-807-9. Title as printed: علوم الأرض والبيئة — الصف الثاني عشر — المسار الأكاديمي — كتاب الطالب — الفصل الدراسي الأول (Earth Science and Environment, Grade 12 Academic Track, Term 1). Grade: 12 (student/teacher: STUDENT). PDF pages: 162 (cover verified; byte size 62,271,187 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
 
+**Book 13:** *Estudios Sociales, Primaria Regular, 6to Grado* (student book, Spanish) — Ministerio de Educación (MINED), Nicaragua; year 2020 (Edición 2020, printed in the book; the file name carries 2018); ISBN no ISBN printed. Title as printed: Estudios Sociales, Primaria Regular, 6to Grado. Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 222 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nicaragua-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Pangaea — the one land | G12 student #3, printed pp. 2–3 |
@@ -41,8 +43,9 @@ countries: Ethiopia, Bolivia, Dominican Republic, Fiji, Uzbekistan, Venezuela, H
 | Mozambique part — Lição 5: Migração dos continentes (Wegener's theory and its weak points) | Mozambique, *Mozambique Grade 10 PESD II Mod 3*, Lição 5: Migração dos continentes (Wegener's theory and its weak points) — printed p. 27 |
 | Jordan part — Unit 3: the Pangaea continent experiment, magnetic reversals and seafloor spreading | Jordan, *Jordan G12 ES T1 Workbook (10385)*, Unit 3: the Pangaea continent experiment, magnetic reversals and seafloor spreading — printed p. 37 |
 | Jordan part — Unit 3 Lesson 1: Continental Drift (انجراف القارات) | Jordan, *Jordan G12 ES T1*, Unit 3 Lesson 1: Continental Drift (انجراف القارات) — printed p. 80 |
+| Nicaragua part — Formación de los continentes | Nicaragua, *Nicaragua Grade 6 Estudios Sociales G6*, Formación de los continentes — printed p. 2 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Bolivia, Dominican Republic, Fiji, Uzbekistan, Venezuela, Honduras, Mozambique, Jordan).**
+**Acceptance count: taught in 10 countries (Ethiopia, Bolivia, Dominican Republic, Fiji, Uzbekistan, Venezuela, Honduras, Mozambique, Jordan, Nicaragua).**
 
 No book error in the placements for this lesson is taught here. Figures and dates are taught exactly as the placements report them, as the book's own record.
 
@@ -69,3 +72,5 @@ Mozambique's own way (Mozambique Grade 10 PESD II Mod 3): a systematic geomorpho
 Jordan's own way (Jordan G12 ES T1 Workbook (10385)): the activities book opens the final year with the greenhouse effect modelled on the bench and acid rain simulated, then structures, plate tectonics through the Dead Sea transform, and geological exploration with Jordan-flavoured map work.
 
 Jordan's own way (Jordan G12 ES T1): the final year opens with fossil fuels and climate action, then structures and plate tectonics, closing with geological exploration — ending on uranium exploration in Jordan.
+
+Nicaragua's own way (Nicaragua Grade 6 Estudios Sociales G6): The primary cycle closes at world scale: after the planet unit, Unit II treats the whole American continent and Unit III repeats the same template — position, political division, relief, resources, hydrography, climate, risk areas, economic activities — for Europe, Asia, Africa and Oceania; the remaining five units are world and Latin American History. Non-Geography parts named, not placed: Unit IV first human groups and the Neolithic (printed pp. 98–113, History); Unit V ancient civilisations to the medieval world (printed pp. 118–134, History); Unit VI the modern world (printed pp. 140–164, History); Unit VII transformations of the 18th–19th centuries (printed pp. 168–183, History); Unit VIII the world in the 20th century (printed pp. 188–204, History).

@@ -1,6 +1,6 @@
 # Sources — Inside the Earth — Crust, Mantle, Core
 
-countries: Ethiopia, Belarus, Dominican Republic, Colombia, Malaysia, India, North Macedonia, Cambodia, Fiji, Slovenia, Papua New Guinea, Syria, Sri Lanka, Mauritania, Kuwait, Afghanistan, Yemen, Pakistan, Libya, Moldova, Nepal, Mozambique, Jordan
+countries: Ethiopia, Belarus, Dominican Republic, Colombia, Malaysia, India, North Macedonia, Cambodia, Fiji, Slovenia, Papua New Guinea, Syria, Sri Lanka, Mauritania, Kuwait, Afghanistan, Yemen, Pakistan, Libya, Moldova, Nepal, Mozambique, Jordan, Nicaragua
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page - 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md.
 
@@ -66,6 +66,8 @@ countries: Ethiopia, Belarus, Dominican Republic, Colombia, Malaysia, India, Nor
 
 **Book 33:** *الجغرافيا — الصف التاسع — الفصل الدراسي الأول (Geography, Grade 9, Term 1)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; year 2025; ISBN 978-9923-41-859-8. Title as printed: الجغرافيا — الصف التاسع — الفصل الدراسي الأول (Geography, Grade 9, Term 1). Grade: 9 (student/teacher: STUDENT). PDF pages: 80 (cover verified; byte size 60,522,837 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
 
+**Book 34:** *Estudios Sociales 4 — Libro de Texto (Dirección General de Educación Primaria)* (student book, Spanish) — Ministerio de Educación (MINED), Nicaragua; year 2016 (Edición 2016); ISBN no ISBN printed. Title as printed: Estudios Sociales 4 — Libro de Texto (Dirección General de Educación Primaria). Grade: Grade 4 (student/teacher: STUDENT). PDF pages: 238 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nicaragua-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The three layers | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 1, printed pp. 28–29 |
@@ -100,8 +102,9 @@ countries: Ethiopia, Belarus, Dominican Republic, Colombia, Malaysia, India, Nor
 | Mozambique part — Lição 21: A Litosfera — estrutura interna da Terra (crust, mantle, NiFe core) | Mozambique, *Mozambique Grade 7 PESD I Mod 1*, Lição 21: A Litosfera — estrutura interna da Terra (crust, mantle, NiFe core) — printed p. 110 |
 | Mozambique part — Lição 3: Estrutura interna da Terra (crust, mantle, core; geothermal gradient; densities and temperatures by layer) | Mozambique, *Mozambique Grade 10 PESD II Mod 3*, Lição 3: Estrutura interna da Terra (crust, mantle, core; geothermal gradient; densities and temperatures by layer) — printed p. 15 |
 | Jordan part — Unit 1 Lesson 1: Components of the Lithosphere and Its Importance (مكونات الغلاف الصخري وأهميته) | Jordan, *Jordan G9 Geography T1*, Unit 1 Lesson 1: Components of the Lithosphere and Its Importance (مكونات الغلاف الصخري وأهميته) — printed p. 8 |
+| Nicaragua part — Estructura y composición de la Tierra | Nicaragua, *Nicaragua Grade 4 Estudios Sociales G4*, Estructura y composición de la Tierra — printed p. 18 |
 
-**Acceptance count: taught in 22 countries (Ethiopia, Belarus, Dominican Republic, Colombia, Malaysia, India, North Macedonia, Cambodia, Fiji, Slovenia, Syria, Sri Lanka, Mauritania, Kuwait, Afghanistan, Yemen, Pakistan, Libya, Moldova, Nepal, Mozambique, Jordan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 23 countries (Ethiopia, Belarus, Dominican Republic, Colombia, Malaysia, India, North Macedonia, Cambodia, Fiji, Slovenia, Syria, Sri Lanka, Mauritania, Kuwait, Afghanistan, Yemen, Pakistan, Libya, Moldova, Nepal, Mozambique, Jordan, Nicaragua). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 The "how we know" sub lesson rests on teacher-guide evidence, labelled as such in its name here and in the lesson; the pupil-taught layers sub lesson carries the acceptance count. Pairing warning: the Grade 7 teacher guide is an Addis Ababa bureau book and the student books are Amhara bureau books; they are NOT edition-matched. Pupil content in this lesson comes from the student book; anything from the guide is labelled (teacher guide — evidence) and never presented as pupil-taught.
 
@@ -164,3 +167,5 @@ Mozambique's own way (Mozambique Grade 7 PESD I Mod 1): distance-learning self-s
 Mozambique's own way (Mozambique Grade 10 PESD II Mod 3): a systematic geomorphology course — rocks and Earth's interior first, then isostasy, continental drift and plate tectonics, then internal agents (folds, faults, earthquakes, volcanoes in four lessons), then external agents and the modelled landscapes of hot, temperate, cold and coastal environments, closing with the geological cycle.
 
 Jordan's own way (Jordan G9 Geography T1): From Grade 9 Geography stands alone as its own book: the Earth's rock and water spheres first, then the geography of the Arab homeland — its natural features, its human features and its challenges.
+
+Nicaragua's own way (Nicaragua Grade 4 Estudios Sociales G4): Units I–V are a full national Geography of Nicaragua — coordinates, time zones and seasons first, then the country's position, borders, political division and hydrography, and a closing landscape unit on climate, natural resources, relief by region, earthquakes and hurricanes; the second half of the book is national History. Non-Geography parts named, not placed: Unit VI first settlers' history and culture (printed pp. 120–137, History, except the geography-influence topic placed below); Unit VII European presence and colonisation (printed pp. 140–164, History); Unit VIII Independence and the National War (printed pp. 168–183, History); Unit IX Nicaragua 1857–1909 (printed pp. 186–197, History); Unit X Nicaragua in the 20th century (printed pp. 200–221, History).

@@ -1,6 +1,6 @@
 # Sources — Revolution and the Seasons
 
-countries: Ethiopia, Myanmar, Turkey, Jamaica, Palestine, Bahamas, Malaysia, Eritrea, India, Rwanda, Vietnam, Uganda, Syria, Sri Lanka, Mauritania, Kuwait, Afghanistan, Yemen, Libya, Moldova, Honduras, Mozambique, Laos
+countries: Ethiopia, Myanmar, Turkey, Jamaica, Palestine, Bahamas, Malaysia, Eritrea, India, Rwanda, Vietnam, Uganda, Syria, Sri Lanka, Mauritania, Kuwait, Afghanistan, Yemen, Libya, Moldova, Honduras, Mozambique, Laos, Nicaragua
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page - 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md.
 
@@ -58,6 +58,8 @@ countries: Ethiopia, Myanmar, Turkey, Jamaica, Palestine, Bahamas, Malaysia, Eri
 
 **Book 28:** *ແບບຮຽນ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 1 (Textbook, Geography, Secondary Year 1)* (student book, Lao) — Ministry of Education, Educational Science Research Institute; year 2010; ISBN no ISBN printed. Title as printed: ແບບຮຽນ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 1 (Textbook, Geography, Secondary Year 1). Grade: Grade 6 (ມ.1) (student/teacher: STUDENT). PDF pages: 102 (title page verified against the record title; byte size 47,303,229 exact match to the books.json record, read via the release asset — the tree copy is not in the repo). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/laos-placements.md.
 
+**Book 29:** *Estudios Sociales 4 — Libro de Texto (Dirección General de Educación Primaria)* (student book, Spanish) — Ministerio de Educación (MINED), Nicaragua; year 2016 (Edición 2016); ISBN no ISBN printed. Title as printed: Estudios Sociales 4 — Libro de Texto (Dirección General de Educación Primaria). Grade: Grade 4 (student/teacher: STUDENT). PDF pages: 238 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nicaragua-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — what revolution causes: the Sun's apparent journey, day length, seasons | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 1, printed pp. 21–23 |
@@ -88,8 +90,9 @@ countries: Ethiopia, Myanmar, Turkey, Jamaica, Palestine, Bahamas, Malaysia, Eri
 | Mozambique part — Lição 13: Movimento de Translação da Terra e suas Consequências (axis inclination 66°33', unequal days and nights, seasons) | Mozambique, *Mozambique Grade 10 PESD II Mod 1*, Lição 13: Movimento de Translação da Terra e suas Consequências (axis inclination 66°33', unequal days and nights, seasons) — printed p. 67 |
 | Laos part — Part II Lesson 4: The Earth's revolution around the sun | Laos, *Laos Grade 6 laos-g06-geography-teacher*, Part II Lesson 4: The Earth's revolution around the sun — printed p. 11 (teacher-guide evidence) |
 | Laos part — Part II Lesson 4: The Earth's revolution around the sun | Laos, *Laos Grade 6 laos-g06-geography-student*, Part II Lesson 4: The Earth's revolution around the sun — printed p. 19 |
+| Nicaragua part — Las estaciones del año y sus características; las estaciones en Nicaragua | Nicaragua, *Nicaragua Grade 4 Estudios Sociales G4*, Las estaciones del año y sus características; las estaciones en Nicaragua — printed p. 26 |
 
-**Acceptance count: taught in 21 countries (Ethiopia, Turkey, Palestine, Bahamas, Malaysia, Eritrea, India, Rwanda, Vietnam, Uganda, Syria, Sri Lanka, Mauritania, Kuwait, Afghanistan, Yemen, Libya, Moldova, Honduras, Mozambique, Laos). Myanmar is named here as teacher-guide evidence only, counted nowhere. Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 22 countries (Ethiopia, Turkey, Palestine, Bahamas, Malaysia, Eritrea, India, Rwanda, Vietnam, Uganda, Syria, Sri Lanka, Mauritania, Kuwait, Afghanistan, Yemen, Libya, Moldova, Honduras, Mozambique, Laos, Nicaragua). Myanmar is named here as teacher-guide evidence only, counted nowhere. Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grade 6 Exploratory Core, curriculum guide — evidence): the Grade 6 Social Studies year is built as three paired terms — culture and independence first, then the physical world (mountains, landmasses and water bodies), then climate, Earth movements and the atmosphere, closing on Caribbean cooperation. That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
@@ -148,3 +151,5 @@ Mozambique's own way (Mozambique Grade 10 PESD II Mod 1): the second cycle opens
 Laos's own way (Laos Grade 6 laos-g06-geography-teacher): a world-foundations year taught zone by zone — after Earth, maps, movements, atmosphere and waters, the last five lessons walk through how people live in each climate zone (hot, desert, savanna, temperate, cold); closes with a teaching-techniques section (printed p. 66) and a Q&A additional-knowledge appendix (printed p. 75), not placed separately.
 
 Laos's own way (Laos Grade 6 laos-g06-geography-student): the student twin of Book 2 — same 9 parts / 16 lessons with full illustrated text, a reading passage (printed p. 90) and a glossary of terms (printed p. 95), not placed separately.
+
+Nicaragua's own way (Nicaragua Grade 4 Estudios Sociales G4): Units I–V are a full national Geography of Nicaragua — coordinates, time zones and seasons first, then the country's position, borders, political division and hydrography, and a closing landscape unit on climate, natural resources, relief by region, earthquakes and hurricanes; the second half of the book is national History. Non-Geography parts named, not placed: Unit VI first settlers' history and culture (printed pp. 120–137, History, except the geography-influence topic placed below); Unit VII European presence and colonisation (printed pp. 140–164, History); Unit VIII Independence and the National War (printed pp. 168–183, History); Unit IX Nicaragua 1857–1909 (printed pp. 186–197, History); Unit X Nicaragua in the 20th century (printed pp. 200–221, History).

@@ -1,6 +1,6 @@
 # Sources — Four kinds of work
 
-countries: Ethiopia, Barbados, Jamaica, Angola, Bahamas, Samoa, Zimbabwe, Colombia, Eritrea, Cambodia, Rwanda, Fiji, Uganda, Venezuela, Afghanistan, Yemen, Honduras, Nepal, Mozambique, Jordan
+countries: Ethiopia, Barbados, Jamaica, Angola, Bahamas, Samoa, Zimbabwe, Colombia, Eritrea, Cambodia, Rwanda, Fiji, Uganda, Venezuela, Afghanistan, Yemen, Honduras, Nepal, Mozambique, Jordan, Nicaragua
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -76,6 +76,8 @@ countries: Ethiopia, Barbados, Jamaica, Angola, Bahamas, Samoa, Zimbabwe, Colomb
 
 **Book 37:** *الدراسات الاجتماعية — الصف الثاني — الفصل الدراسي الأول (Social Studies, Grade 2, Term 1)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; year 2024; ISBN 978-9923-41-849-9. Title as printed: الدراسات الاجتماعية — الصف الثاني — الفصل الدراسي الأول (Social Studies, Grade 2, Term 1). Grade: 2 (student/teacher: STUDENT). PDF pages: 60 (cover verified; byte size 36,341,946 matches the books.json twin record exactly — same book; a parallel NCCD-hosted edition is recorded separately as term-1-nccd.pdf, spot-check pending). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
 
+**Book 38:** *Conociendo mi Mundo, 2do Grado* (student book, Spanish) — Ministerio de Educación (MINED), Nicaragua; year 2015 (Primera Edición); ISBN no ISBN printed. Title as printed: Conociendo mi Mundo, 2do Grado. Grade: Grade 2 (student/teacher: STUDENT). PDF pages: 180 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nicaragua-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The four classes | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 5, printed pp. 122–124 |
@@ -117,8 +119,9 @@ countries: Ethiopia, Barbados, Jamaica, Angola, Bahamas, Samoa, Zimbabwe, Colomb
 | Nepal part — Unit 1 Lesson 1: My Neighbours and their Occupations | Nepal, *Nepal Grade 5 np-g5*, Unit 1 Lesson 1: My Neighbours and their Occupations — printed p. 2 |
 | Mozambique part — Lição 10: sector classification exercises (civil construction, public works…) | Mozambique, *Mozambique Grade 10 PESD II Mod 5*, Lição 10: sector classification exercises (civil construction, public works…) — printed p. 74 |
 | Jordan part — Unit 3 Lesson 4: Professions in My Homeland (المهن في وطني) — teacher, engineer, doctor, programmer, baker, builder | Jordan, *Jordan G2 SS T1*, Unit 3 Lesson 4: Professions in My Homeland (المهن في وطني) — teacher, engineer, doctor, programmer, baker, builder — printed p. 55 |
+| Nicaragua part — Labores que desarrollan los hombres y mujeres de su municipio | Nicaragua, *Nicaragua Grade 2 Conociendo mi Mundo G2*, Labores que desarrollan los hombres y mujeres de su municipio — printed p. 171 |
 
-**Acceptance count: taught in 18 countries (Ethiopia, Barbados, Angola, Bahamas, Samoa, Colombia, Eritrea, Cambodia, Rwanda, Fiji, Uganda, Venezuela, Afghanistan, Yemen, Honduras, Nepal, Mozambique, Jordan). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 19 countries (Ethiopia, Barbados, Angola, Bahamas, Samoa, Colombia, Eritrea, Cambodia, Rwanda, Fiji, Uganda, Venezuela, Afghanistan, Yemen, Honduras, Nepal, Mozambique, Jordan, Nicaragua). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grades 7–9 Social Studies, curriculum guide — evidence): one guide carries all three secondary grades, each year mixing Civics, heritage and a strong resources-and-environment Geography spine — natural and human resources, movements of the Earth, Caribbean hazards, climate change, green technology and tourism — taught through Jamaican case material (bauxite communities, Caribbean disasters). That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
@@ -191,3 +194,5 @@ Nepal's own way (Nepal Grade 5 np-g5): Grade 5 "Our Earth" is a first full geogr
 Mozambique's own way (Mozambique Grade 10 PESD II Mod 5): population geography taught as a developed-world/developing-world contrast throughout — distribution factors, growth, Malthus and the transition, then the two evolutions (developed countries; the "Terceiro Mundo" set) with their opposite population policies, closing on structures, demographic problems (incl. HIV cutting life expectancy below 50) and population–economy/environment relations.
 
 Jordan's own way (Jordan G2 SS T1): Grade 2 Term 1 is family, rights and community — the only outward-looking lessons are Jordanian customs and the professions of the homeland.
+
+Nicaragua's own way (Nicaragua Grade 2 Conociendo mi Mundo G2): Geography begins hyper-locally — the child's own school, municipality and landscape — and the country is introduced through its two great lakes (Cocibolca and Xolotlán) as the "land of lakes and volcanoes" before any wider world content. Non-Geography parts named, not placed: Unit II family, hygiene and food (printed pp. 9–32, home/health); Unit IV plant/animal/human-body topics (printed pp. 57–93, Natural Science); Unit V national symbols, heroes and traditions (printed pp. 113–143, Civics/History); Unit VI taxes (printed p. 151, Civics); efemérides throughout (History/Civics).

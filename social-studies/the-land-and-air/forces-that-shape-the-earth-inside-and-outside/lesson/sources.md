@@ -1,6 +1,6 @@
 # Sources — Forces that shape the Earth — inside and outside
 
-countries: Ethiopia, Cambodia, Rwanda, Vietnam, Papua New Guinea, Syria, Iran, Yemen, Pakistan, Libya, Nepal, Mozambique, Jordan
+countries: Ethiopia, Cambodia, Rwanda, Vietnam, Papua New Guinea, Syria, Iran, Yemen, Pakistan, Libya, Nepal, Mozambique, Jordan, Nicaragua
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -34,6 +34,10 @@ countries: Ethiopia, Cambodia, Rwanda, Vietnam, Papua New Guinea, Syria, Iran, Y
 
 **Book 16:** *الجغرافيا — الصف الثاني عشر / المسار الأكاديمي — الفصل الدراسي الأول (Geography, Grade 12 Academic Track, Term 1; this PDF is the NCCD preparation copy, نسخة قيد الإعداد, 1446هـ/2025م)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; year 2025; ISBN 978-9923-41-949-6. Title as printed: الجغرافيا — الصف الثاني عشر / المسار الأكاديمي — الفصل الدراسي الأول (Geography, Grade 12 Academic Track, Term 1; this PDF is the NCCD preparation copy, نسخة قيد الإعداد, 1446هـ/2025م). Grade: 12 (student/teacher: STUDENT). PDF pages: 145 (cover verified; byte size 121,517,865 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
 
+**Book 17:** *Ciencias Sociales — Geografía, Módulo Autoformativo, Décimo Grado (Educación Secundaria a Distancia en el Campo)* (student book, Spanish) — Ministerio de Educación (MINED), Nicaragua; year 2017 (Primera Edición); ISBN no ISBN printed. Title as printed: Ciencias Sociales — Geografía, Módulo Autoformativo, Décimo Grado (Educación Secundaria a Distancia en el Campo). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 188 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nicaragua-placements.md.
+
+**Book 18:** *Ciencias Sociales 10 Grado, Educación Secundaria (PROSEN)* (student book, Spanish) — Ministerio de Educación (MINED), Nicaragua, with PROSEN / European Union support; year not printed (Primera Edición); ISBN no ISBN printed. Title as printed: Ciencias Sociales 10 Grado, Educación Secundaria (PROSEN). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 300 (cover/title page verified against the record title; byte size 106,780,055 matches the books.json record and the MINED source file). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nicaragua-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Two families of forces | G12 student #9, printed pp. 11–12, 24 |
@@ -53,8 +57,10 @@ countries: Ethiopia, Cambodia, Rwanda, Vietnam, Papua New Guinea, Syria, Iran, Y
 | Mozambique part — Lição 15: Agentes Externos do Relevo (external geodynamics fed by the Sun) | Mozambique, *Mozambique Grade 10 PESD II Mod 3*, Lição 15: Agentes Externos do Relevo (external geodynamics fed by the Sun) — printed p. 83 |
 | Jordan part — Unit 2 Lesson 1: Rock Deformation (تشوه الصخور) | Jordan, *Jordan G12 ES T1*, Unit 2 Lesson 1: Rock Deformation (تشوه الصخور) — printed p. 48 |
 | Jordan part — Unit 1 Lesson 1: The Role of Slow Earth Movements in Shaping the Earth's Surface (دور الحركات الأرضية البطيئة في تشكيل سطح الأرض) | Jordan, *Jordan G12 Geography T1*, Unit 1 Lesson 1: The Role of Slow Earth Movements in Shaping the Earth's Surface (دور الحركات الأرضية البطيئة في تشكيل سطح الأرض) — printed p. 8 |
+| Nicaragua part — Fuerzas que construyen y modelan el relieve | Nicaragua, *Nicaragua Grade 10 CCSS Geografía 10*, Fuerzas que construyen y modelan el relieve — printed p. 44 |
+| Nicaragua part — Fuerzas que construyen y modelan el relieve | Nicaragua, *Nicaragua Grade 10 Ciencias Sociales G10 full-year*, Fuerzas que construyen y modelan el relieve — printed p. 40 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Cambodia, Rwanda, Vietnam, Syria, Iran, Yemen, Pakistan, Libya, Nepal, Mozambique, Jordan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 13 countries (Ethiopia, Cambodia, Rwanda, Vietnam, Syria, Iran, Yemen, Pakistan, Libya, Nepal, Mozambique, Jordan, Nicaragua). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Placement honesty carried: the placements place the eruption-style / Krakatoa passage before the 1.4.2 heading, inside the flow of 1.4.1's closing pages (printed p. 24) — a layout slip in the book, named here; the content itself is taught as the placements give it.
 
@@ -89,3 +95,7 @@ Mozambique's own way (Mozambique Grade 10 PESD II Mod 3): a systematic geomorpho
 Jordan's own way (Jordan G12 ES T1): the final year opens with fossil fuels and climate action, then structures and plate tectonics, closing with geological exploration — ending on uranium exploration in Jordan.
 
 Jordan's own way (Jordan G12 Geography T1): the final-year Geography book is built in three blocks — the forces that shape Earth's surface, political geography (state power, borders, alliances, Jordan's national security), and population geography.
+
+Nicaragua's own way (Nicaragua Grade 10 CCSS Geografía 10): A distance-learning self-study module ("Geografía Dinámica") built entirely around Nicaragua itself — every physical topic (relief, climate, watersheds, coasts) is taught through Nicaraguan regions, and risk/vulnerability (hurricanes, Casita landslide, SINAPRED) closes the book. Non-Geography parts: Unit IV population-policy content (Hambre Cero, Usura Cero, housing projects) is Civics/social policy — named here, not placed beyond its population-geography topics.
+
+Nicaragua's own way (Nicaragua Grade 10 Ciencias Sociales G10 full-year): The full-year companion to the Grade 10 Geography module (Book 1): Units I–VI repeat and deepen the same national Geography (cartography, relief and geological provinces, climate and watersheds, population, economic sectors, territorial vulnerability and SINAPRED) in classroom form, and the book's second half is a full Economics course. Non-Geography parts named, not placed: Unit IV government anti-poverty programmes (printed p. 106, Civics/social policy); Units VII–XII Economics (printed pp. 156–285): utility of economics and socio-economic formations, what the country produces, price as market regulator, commercial exchange and the banking system, state economic policy, and integration in the face of globalisation.

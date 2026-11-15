@@ -1,0 +1,11 @@
+# Video script — Nicaragua Interoceanic Canal Importance
+
+The super-simple voice, for the video that rides on top of the lesson (lesson-plan.md, add-on list). This script is full: the placements name a video-script need for this lesson. Made later, when videos are made; the script is the slot's written form until then.
+
+---
+
+Nicaragua's book, the *Nicaragua Grade 3 Estudios Sociales G3* (printed p. 48), teaches: Importancia del Canal Interoceánico en Nicaragua. Nicaragua's book, the *Nicaragua Grade 4 Estudios Sociales G4* (printed p. 67), teaches: Importancia de la construcción del Canal Interoceánico para la población y la economía.
+
+Nicaragua's own way (Nicaragua Grade 3 Estudios Sociales G3): The first formal Geography course in the set: Units I–II teach what Geography is, map types, scale, orientation and the Earth, then every later unit works at three nested scales — comunidad, municipio, departamento — ending with Nicaragua's three regions, its volcanic chain and a Köppen climate map of the country. Non-Geography parts named, not placed: Unit VI municipality origins, customs and citizen participation (printed pp. 72–80, History/Civics, except the geography-influence topic placed below); Unit VII first settlers' history and culture (printed pp. 82–93, History); Unit VIII historical celebrations and heroes (printed pp. 94–109, History).
+
+Nicaragua's own way (Nicaragua Grade 4 Estudios Sociales G4): Units I–V are a full national Geography of Nicaragua — coordinates, time zones and seasons first, then the country's position, borders, political division and hydrography, and a closing landscape unit on climate, natural resources, relief by region, earthquakes and hurricanes; the second half of the book is national History. Non-Geography parts named, not placed: Unit VI first settlers' history and culture (printed pp. 120–137, History, except the geography-influence topic placed below); Unit VII European presence and colonisation (printed pp. 140–164, History); Unit VIII Independence and the National War (printed pp. 168–183, History); Unit IX Nicaragua 1857–1909 (printed pp. 186–197, History); Unit X Nicaragua in the 20th century (printed pp. 200–221, History).

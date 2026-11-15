@@ -1,6 +1,6 @@
 # Sources — Biodiversity — the variety of life, under threat
 
-countries: Ethiopia, Nauru, Tuvalu, Niue, Guatemala, Ecuador, Angola, Bangladesh, Indonesia, Colombia, India, Cambodia, Fiji, Slovenia, Papua New Guinea, Venezuela, Sri Lanka, Pakistan, Jordan
+countries: Ethiopia, Nauru, Tuvalu, Niue, Guatemala, Ecuador, Angola, Bangladesh, Indonesia, Colombia, India, Cambodia, Fiji, Slovenia, Papua New Guinea, Venezuela, Sri Lanka, Pakistan, Jordan, Nicaragua
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -52,6 +52,8 @@ countries: Ethiopia, Nauru, Tuvalu, Niue, Guatemala, Ecuador, Angola, Bangladesh
 
 **Book 25:** *الجغرافيا — الصف العاشر — الفصل الدراسي الأول (Geography, Grade 10, Term 1)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-576-4. Title as printed: الجغرافيا — الصف العاشر — الفصل الدراسي الأول (Geography, Grade 10, Term 1). Grade: 10 (student/teacher: STUDENT). PDF pages: 76 (cover verified; byte size 74,034,315 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
 
+**Book 26:** *Conociendo mi Mundo, 2do Grado* (student book, Spanish) — Ministerio de Educación (MINED), Nicaragua; year 2015 (Primera Edición); ISBN no ISBN printed. Title as printed: Conociendo mi Mundo, 2do Grado. Grade: Grade 2 (student/teacher: STUDENT). PDF pages: 180 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nicaragua-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Variety at every scale | G12 student #63, printed pp. 157–159 |
@@ -86,8 +88,9 @@ countries: Ethiopia, Nauru, Tuvalu, Niue, Guatemala, Ecuador, Angola, Bangladesh
 | Sri Lanka part — Ch. 3.2.3 தாவரங்களும் விலங்குகளும் (Plants and animals) of the home surroundings | Sri Lanka, *Sri Lanka Grade 6 G6 Tamil 2007*, Ch. 3.2.3 தாவரங்களும் விலங்குகளும் (Plants and animals) of the home surroundings — printed p. 26 |
 | Pakistan part — Importance of rivers in biodiversity: rivers as habitats connecting fish, birds, mammals and delta life | Pakistan, *Pakistan Grade 7 Geography 7*, Importance of rivers in biodiversity: rivers as habitats connecting fish, birds, mammals and delta life — printed p. 10 |
 | Jordan part — Unit 1 Lesson 3: Biodiversity (التنوع الحيوي) | Jordan, *Jordan G10 Geography T1*, Unit 1 Lesson 3: Biodiversity (التنوع الحيوي) — printed p. 20 |
+| Nicaragua part — Especies en peligro de extinción en Nicaragua | Nicaragua, *Nicaragua Grade 2 Conociendo mi Mundo G2*, Especies en peligro de extinción en Nicaragua — printed p. 88 |
 
-**Acceptance count: taught in 18 countries (Ethiopia, Nauru, Tuvalu, Niue, Guatemala, Ecuador, Angola, Bangladesh, Indonesia, Colombia, India, Cambodia, Fiji, Slovenia, Venezuela, Sri Lanka, Pakistan, Jordan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 19 countries (Ethiopia, Nauru, Tuvalu, Niue, Guatemala, Ecuador, Angola, Bangladesh, Indonesia, Colombia, India, Cambodia, Fiji, Slovenia, Venezuela, Sri Lanka, Pakistan, Jordan, Nicaragua). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -140,3 +143,5 @@ Sri Lanka's own way (Sri Lanka Grade 6 G6 Tamil 2007): dialogue-driven lessons (
 Pakistan's own way (Pakistan Grade 7 Geography 7): a dedicated English-medium Geography book built entirely on Pakistan's own physical and economic geography — the Indus plain and delta, the canal system, Rabi/Kharif crops, Sui gas, Thar coal, Khewra salt and Tarbela power — with world concepts (river courses, settlement hierarchy, greenhouse effect, mining types) taught through Pakistani examples first.
 
 Jordan's own way (Jordan G10 Geography T1): Grade 10 Geography opens with physical geography (atmosphere, biosphere, biodiversity), then tourism and transport as Jordanian economic geography, then geographic technologies.
+
+Nicaragua's own way (Nicaragua Grade 2 Conociendo mi Mundo G2): Geography begins hyper-locally — the child's own school, municipality and landscape — and the country is introduced through its two great lakes (Cocibolca and Xolotlán) as the "land of lakes and volcanoes" before any wider world content. Non-Geography parts named, not placed: Unit II family, hygiene and food (printed pp. 9–32, home/health); Unit IV plant/animal/human-body topics (printed pp. 57–93, Natural Science); Unit V national symbols, heroes and traditions (printed pp. 113–143, Civics/History); Unit VI taxes (printed p. 151, Civics); efemérides throughout (History/Civics).

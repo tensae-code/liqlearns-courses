@@ -1,6 +1,6 @@
 # Sources — Maps and globes — the globe
 
-countries: Ethiopia, Sweden, Dominican Republic, Eritrea, India, Cambodia, Pakistan, Moldova, Nepal, Mozambique, Laos
+countries: Ethiopia, Sweden, Dominican Republic, Eritrea, India, Cambodia, Pakistan, Moldova, Nepal, Mozambique, Laos, Nicaragua
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 2, placements 27–43).
 
@@ -28,6 +28,10 @@ countries: Ethiopia, Sweden, Dominican Republic, Eritrea, India, Cambodia, Pakis
 
 **Book 13:** *ແບບຮຽນ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 1 (Textbook, Geography, Secondary Year 1)* (student book, Lao) — Ministry of Education, Educational Science Research Institute; year 2010; ISBN no ISBN printed. Title as printed: ແບບຮຽນ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 1 (Textbook, Geography, Secondary Year 1). Grade: Grade 6 (ມ.1) (student/teacher: STUDENT). PDF pages: 102 (title page verified against the record title; byte size 47,303,229 exact match to the books.json record, read via the release asset — the tree copy is not in the repo). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/laos-placements.md.
 
+**Book 14:** *Estudios Sociales 3 (Libro de Texto)* (student book, Spanish) — Ministerio de Educación (MINED), Nicaragua; year 2016 (Edición 2016); ISBN no ISBN printed. Title as printed: Estudios Sociales 3 (Libro de Texto). Grade: Grade 3 (student/teacher: STUDENT). PDF pages: 118 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nicaragua-placements.md.
+
+**Book 15:** *Ciencias Sociales 7 Grado, Educación Secundaria (Programa de Apoyo al Sector de Educación en Nicaragua, PROSEN)* (student book, Spanish) — Ministerio de Educación (MINED), Nicaragua, with PROSEN / European Union support; year not printed (Primera Edición); ISBN no ISBN printed. Title as printed: Ciencias Sociales 7 Grado, Educación Secundaria (Programa de Apoyo al Sector de Educación en Nicaragua, PROSEN). Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 280 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nicaragua-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson | Ethiopia, *Social Studies Student Textbook, Grade 7* (Amhara Bureau), printed p. 45 |
@@ -43,8 +47,10 @@ countries: Ethiopia, Sweden, Dominican Republic, Eritrea, India, Cambodia, Pakis
 | Mozambique part — Lição 3: Formas de representação da Terra — the globe and its characteristics | Mozambique, *Mozambique Grade 7 PESD I Mod 1*, Lição 3: Formas de representação da Terra — the globe and its characteristics — printed p. 19 |
 | Laos part — Part I Lesson 2: The globe and maps (kinds of maps, scale, symbols) | Laos, *Laos Grade 6 laos-g06-geography-teacher*, Part I Lesson 2: The globe and maps (kinds of maps, scale, symbols) — printed p. 5 (teacher-guide evidence) |
 | Laos part — Part I Lesson 2: The globe and maps | Laos, *Laos Grade 6 laos-g06-geography-student*, Part I Lesson 2: The globe and maps — printed p. 8 |
+| Nicaragua part — Otras formas de representación de la Tierra: globo terráqueo, fotografías aéreas, imágenes satelitales | Nicaragua, *Nicaragua Grade 3 Estudios Sociales G3*, Otras formas de representación de la Tierra: globo terráqueo, fotografías aéreas, imágenes satelitales — printed p. 10 |
+| Nicaragua part — La esfera y el mapa | Nicaragua, *Nicaragua Grade 7 Estudios Sociales G7 full-year*, La esfera y el mapa — printed p. 4 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Sweden, Dominican Republic, Eritrea, India, Cambodia, Pakistan, Moldova, Nepal, Mozambique, Laos). Sweden's teacher guide is named here as evidence only, counted nowhere — Sweden counts through its student training material.**
+**Acceptance count: taught in 12 countries (Ethiopia, Sweden, Dominican Republic, Eritrea, India, Cambodia, Pakistan, Moldova, Nepal, Mozambique, Laos, Nicaragua). Sweden's teacher guide is named here as evidence only, counted nowhere — Sweden counts through its student training material.**
 
 Pairing warning (honesty): Book 2 is an Addis Ababa bureau guide in English; Book 1 is an Amhara bureau student book in Amharic. They are NOT edition-matched companions — the guide's unit order differs and whole student topics (maps, globes, GPS) have no guide counterpart, so no guide coverage is claimed for them. Guide material is used only as labelled teacher evidence.
 
@@ -69,3 +75,7 @@ Mozambique's own way (Mozambique Grade 7 PESD I Mod 1): distance-learning self-s
 Laos's own way (Laos Grade 6 laos-g06-geography-teacher): a world-foundations year taught zone by zone — after Earth, maps, movements, atmosphere and waters, the last five lessons walk through how people live in each climate zone (hot, desert, savanna, temperate, cold); closes with a teaching-techniques section (printed p. 66) and a Q&A additional-knowledge appendix (printed p. 75), not placed separately.
 
 Laos's own way (Laos Grade 6 laos-g06-geography-student): the student twin of Book 2 — same 9 parts / 16 lessons with full illustrated text, a reading passage (printed p. 90) and a glossary of terms (printed p. 95), not placed separately.
+
+Nicaragua's own way (Nicaragua Grade 3 Estudios Sociales G3): The first formal Geography course in the set: Units I–II teach what Geography is, map types, scale, orientation and the Earth, then every later unit works at three nested scales — comunidad, municipio, departamento — ending with Nicaragua's three regions, its volcanic chain and a Köppen climate map of the country. Non-Geography parts named, not placed: Unit VI municipality origins, customs and citizen participation (printed pp. 72–80, History/Civics, except the geography-influence topic placed below); Unit VII first settlers' history and culture (printed pp. 82–93, History); Unit VIII historical celebrations and heroes (printed pp. 94–109, History).
+
+Nicaragua's own way (Nicaragua Grade 7 Estudios Sociales G7 full-year): A full national Geography in five units — territorial patrimony and cartography, physical geography (relief, climate, hydrography, resources), population ("¿Cuántas mujeres, cuántos hombres?"), production, and a whole unit on natural-risk prevention — followed by six units of national History. Non-Geography parts named, not placed: Unit I state institutions (printed pp. 14–16, Civics); Unit VI origin societies (printed pp. 128–143, History, except the geographical-setting topic placed below); Unit VII European expansion and the Colony (printed pp. 148–165, History); Unit VIII Independence (printed pp. 170–184, History); Unit IX economic/political evolution 1857–1909 (printed pp. 190–205, History); Unit X defence of sovereignty and the Somoza period (printed pp. 210–233, History); Unit XI Nicaragua 1979 to the present (printed pp. 244–264, History).

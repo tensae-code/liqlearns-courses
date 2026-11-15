@@ -1,6 +1,6 @@
 # Sources — Population — counting and graphing growth
 
-countries: Ethiopia, Myanmar, Indonesia, Colombia, Slovenia, Vietnam, Syria, Venezuela, Sri Lanka, Yemen, Pakistan
+countries: Ethiopia, Myanmar, Indonesia, Colombia, Slovenia, Vietnam, Syria, Venezuela, Sri Lanka, Yemen, Pakistan, Nicaragua
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 2, placements 27–43).
 
@@ -28,6 +28,12 @@ countries: Ethiopia, Myanmar, Indonesia, Colombia, Slovenia, Vietnam, Syria, Ven
 
 **Book 13:** *معاشرتی علوم جماعت چہارم (Social Studies, Class 4), Single National Curriculum 2020* (student book, Urdu with English topic glosses) — Punjab Curriculum and Textbook Board (PCTB), Lahore; year 2022 (printing table on contents page); ISBN no ISBN printed. Title as printed: معاشرتی علوم جماعت چہارم (Social Studies, Class 4), Single National Curriculum 2020. Grade: Grade 4 (student/teacher: STUDENT). PDF pages: 108 (cover/title page verified against the record title). Verdict: COMPLETE. All Pakistan PCTB books are image-only scans (no text layer); read page-by-page from 90–100 DPI 4-up contact sheets, covers verified visually (placements file header: 3 books read in place from phase3-staging, 2 grabbed via grab.py tree route; the 4 Telegram link records are the same PCTB books already held in staging/GitHub, so no new download or staging arose from them). Non-Geography parts named, not placed: Ch.1 Citizenship and Human Rights, printed pp. 1–14; Ch.2 Culture (incl. Diversity and Tolerance), pp. 15–26; Ch.3 State and Government, pp. 27–44; Ch.4 History, pp. 45–60; Ch.6 Economics, pp. 94–104; Glossary, p. 105 Placements at liqlearns-courses-work/expansion-geography-2026-11-14/pakistan-placements.md.
 
+**Book 14:** *Estudios Sociales 3 (Libro de Texto)* (student book, Spanish) — Ministerio de Educación (MINED), Nicaragua; year 2016 (Edición 2016); ISBN no ISBN printed. Title as printed: Estudios Sociales 3 (Libro de Texto). Grade: Grade 3 (student/teacher: STUDENT). PDF pages: 118 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nicaragua-placements.md.
+
+**Book 15:** *Módulo Autoformativo de Ciencias Sociales — Geografía, 9no Grado (Educación Secundaria a Distancia en el Campo)* (student book, Spanish) — Ministerio de Educación (MINED), Nicaragua, PROSEN; year 2017; ISBN no ISBN printed. Title as printed: Módulo Autoformativo de Ciencias Sociales — Geografía, 9no Grado (Educación Secundaria a Distancia en el Campo). Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 300 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nicaragua-placements.md.
+
+**Book 16:** *Ciencias Sociales 10 Grado, Educación Secundaria (PROSEN)* (student book, Spanish) — Ministerio de Educación (MINED), Nicaragua, with PROSEN / European Union support; year not printed (Primera Edición); ISBN no ISBN printed. Title as printed: Ciencias Sociales 10 Grado, Educación Secundaria (PROSEN). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 300 (cover/title page verified against the record title; byte size 106,780,055 matches the books.json record and the MINED source file). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nicaragua-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Counting your own school | Ethiopia, *Social Studies Student Textbook, Grade 7* (Amhara Bureau), printed pp. 35–36 |
@@ -44,8 +50,11 @@ countries: Ethiopia, Myanmar, Indonesia, Colombia, Slovenia, Vietnam, Syria, Ven
 | Sri Lanka part — Ch. 2 Growth of population in Sri Lanka 1871–2012: natural increase plus net migration | Sri Lanka, *Sri Lanka Grade 9 G9 English*, Ch. 2 Growth of population in Sri Lanka 1871–2012: natural increase plus net migration — printed p. 53 |
 | Yemen part — Unit 3 Lesson 1 Population and Its Growth in Yemen | Yemen, *Yemen Grade 5 G5 Geography of Yemen*, Unit 3 Lesson 1 Population and Its Growth in Yemen — printed p. 45 |
 | Pakistan part — Pakistan's census bar graph 1951–2017 (33.7m rising to 207.774m) | Pakistan, *Pakistan Grade 4 SS4*, Pakistan's census bar graph 1951–2017 (33.7m rising to 207.774m) — printed p. 88 |
+| Nicaragua part — Crecimiento poblacional | Nicaragua, *Nicaragua Grade 3 Estudios Sociales G3*, Crecimiento poblacional — printed p. 45 |
+| Nicaragua part — Crecimiento y distribución de la población | Nicaragua, *Nicaragua Grade 9 CCSS Geografía Módulo G9*, Crecimiento y distribución de la población — printed p. 175 |
+| Nicaragua part — Crecimiento de la población nicaragüense | Nicaragua, *Nicaragua Grade 10 Ciencias Sociales G10 full-year*, Crecimiento de la población nicaragüense — printed p. 96 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Indonesia, Colombia, Slovenia, Vietnam, Syria, Venezuela, Sri Lanka, Yemen, Pakistan). Myanmar is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 11 countries (Ethiopia, Indonesia, Colombia, Slovenia, Vietnam, Syria, Venezuela, Sri Lanka, Yemen, Pakistan, Nicaragua). Myanmar is named here as teacher-guide evidence only, counted nowhere.**
 
 Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -74,3 +83,9 @@ Sri Lanka's own way (Sri Lanka Grade 9 G9 English): the student companion to Boo
 Yemen's own way (Yemen Grade 5 G5 Geography of Yemen): the first standalone Geography book is entirely about Yemen itself — map skills first, then Yemen's physical geography, then its population, then its economic activity sector by sector.
 
 Pakistan's own way (Pakistan Grade 4 SS4): one combined Social Studies book in Urdu where the Geography chapter (Ch.5, printed pp. 61–93) works entirely through Pakistan's own map, landforms, weather and census, with BOLTS as the map-elements mnemonic and "I have learnt!" / "Work for me to do" boxes closing every topic.
+
+Nicaragua's own way (Nicaragua Grade 3 Estudios Sociales G3): The first formal Geography course in the set: Units I–II teach what Geography is, map types, scale, orientation and the Earth, then every later unit works at three nested scales — comunidad, municipio, departamento — ending with Nicaragua's three regions, its volcanic chain and a Köppen climate map of the country. Non-Geography parts named, not placed: Unit VI municipality origins, customs and citizen participation (printed pp. 72–80, History/Civics, except the geography-influence topic placed below); Unit VII first settlers' history and culture (printed pp. 82–93, History); Unit VIII historical celebrations and heroes (printed pp. 94–109, History).
+
+Nicaragua's own way (Nicaragua Grade 9 CCSS Geografía Módulo G9): A pure-Geography self-study module (no History/Civics in this book): the Grade 9 world-Geography course taught continent by continent — position and political organisation, physical landscape, human diversity, production and consumption, and a closing planet-care unit on prevention and mitigation — with Nicaragua used as the home reference point throughout.
+
+Nicaragua's own way (Nicaragua Grade 10 Ciencias Sociales G10 full-year): The full-year companion to the Grade 10 Geography module (Book 1): Units I–VI repeat and deepen the same national Geography (cartography, relief and geological provinces, climate and watersheds, population, economic sectors, territorial vulnerability and SINAPRED) in classroom form, and the book's second half is a full Economics course. Non-Geography parts named, not placed: Unit IV government anti-poverty programmes (printed p. 106, Civics/social policy); Units VII–XII Economics (printed pp. 156–285): utility of economics and socio-economic formations, what the country produces, price as market regulator, commercial exchange and the banking system, state economic policy, and integration in the face of globalisation.

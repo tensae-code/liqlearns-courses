@@ -1,6 +1,6 @@
 # Sources — Getting around — roads first
 
-countries: Ethiopia, Guatemala, Colombia, Malaysia, India, Rwanda, Vietnam, Uganda, Sudan, Venezuela, Libya, Mozambique
+countries: Ethiopia, Guatemala, Colombia, Malaysia, India, Rwanda, Vietnam, Uganda, Sudan, Venezuela, Libya, Mozambique, Nicaragua
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -32,6 +32,10 @@ countries: Ethiopia, Guatemala, Colombia, Malaysia, India, Rwanda, Vietnam, Ugan
 
 **Book 15:** *Módulo 8 de Geografia — Transportes, Comunicações e Turismo (title page misprints the subject word as "Geogafia")* (student book, Portuguese) — Ministério da Educação / IEDA; year not printed (uploaded to IEDA site 2022); no ISBN printed. Title as printed: Módulo 8 de Geografia — Transportes, Comunicações e Turismo (title page misprints the subject word as "Geogafia"). Grade: Grades 10–12 cycle (2º Ciclo), filed as Grade 10 (student/teacher: STUDENT). PDF pages: 59 (title page verified against the record title; byte size 536,572 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
 
+**Book 16:** *Conociendo mi Mundo, 2do Grado* (student book, Spanish) — Ministerio de Educación (MINED), Nicaragua; year 2015 (Primera Edición); ISBN no ISBN printed. Title as printed: Conociendo mi Mundo, 2do Grado. Grade: Grade 2 (student/teacher: STUDENT). PDF pages: 180 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nicaragua-placements.md.
+
+**Book 17:** *Módulo Autoformativo de Ciencias Sociales, 7° Grado — Educación Secundaria a Distancia en el Campo (cover: "Orgullo de mi País", 2016)* (student book, Spanish) — Ministerio de Educación (MINED), Nicaragua, PROSEN; year 2016; ISBN no ISBN printed. Title as printed: Módulo Autoformativo de Ciencias Sociales, 7° Grado — Educación Secundaria a Distancia en el Campo (cover: "Orgullo de mi País", 2016). Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 248 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nicaragua-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Roads dominate | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 5, printed pp. 138–141 |
@@ -50,8 +54,10 @@ countries: Ethiopia, Guatemala, Colombia, Malaysia, India, Rwanda, Vietnam, Ugan
 | Libya part — Ch.7: النقل البري — Land transport in the Arab World | Libya, *Libya Grade 8 LY G8 Arab World*, Ch.7: النقل البري — Land transport in the Arab World — printed p. 92 |
 | Libya part — Ch.12: النقل البري — Land transport in the Arab World | Libya, *Libya Grade 11 LY G11 Arab World*, Ch.12: النقل البري — Land transport in the Arab World — printed p. 186 |
 | Mozambique part — Lição 1: natural conditions shaping road and rail (geomorphological processes, climate, relief, hydrography) | Mozambique, *Mozambique Grade 10 PESD II Mod 8*, Lição 1: natural conditions shaping road and rail (geomorphological processes, climate, relief, hydrography) — printed p. 7 |
+| Nicaragua part — Vías de acceso a la escuela (caminos, carretera) | Nicaragua, *Nicaragua Grade 2 Conociendo mi Mundo G2*, Vías de acceso a la escuela (caminos, carretera) — printed p. 43 |
+| Nicaragua part — Medios de comunicación: transporte e infraestructura vial | Nicaragua, *Nicaragua Grade 7 CCSS Módulo Autoformativo G7*, Medios de comunicación: transporte e infraestructura vial — printed p. 89 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Guatemala, Colombia, Malaysia, India, Rwanda, Vietnam, Uganda, Sudan, Venezuela, Libya, Mozambique).**
+**Acceptance count: taught in 13 countries (Ethiopia, Guatemala, Colombia, Malaysia, India, Rwanda, Vietnam, Uganda, Sudan, Venezuela, Libya, Mozambique, Nicaragua).**
 
 Guatemala's own way: one combined Social Studies and Citizenship book per grade, organised in four units that alternate History of Guatemala/Central America with the physical geography of the isthmus — every map carries the note about the unresolved Belize territorial differendum, and Geography is always worked on maps of the seven Central American countries with Guatemala's own Sierra de las Minas, Motagua river and Maya Biosphere as the home examples. That way is stocked here as the way Guatemala teaches this thing.
 
@@ -80,3 +86,7 @@ Libya's own way (Libya Grade 8 LY G8 Arab World): The scale widens from Libya (G
 Libya's own way (Libya Grade 11 LY G11 Arab World): The Grade 8 Arab World survey returns at secondary depth in two parts — physical (relief treated separately for the African and Asian sides, climate factors and regions, soils, vegetation, water with its problems) and human (population structure and problems, agriculture and its difficulties, crop-by-crop chapters, livestock and sea wealth, minerals metal by metal, oil and gas, alternative energy, industry, transport).
 
 Mozambique's own way (Mozambique Grade 10 PESD II Mod 8): transport and communications taught as twin evolutions — transport from foot/animal traction to the Industrial Revolution's bulk cargo, communications from primitive signals to telematics (1970) and videoconference (1984) — with transport's environmental impact given its own lesson before tourism closes the module.
+
+Nicaragua's own way (Nicaragua Grade 2 Conociendo mi Mundo G2): Geography begins hyper-locally — the child's own school, municipality and landscape — and the country is introduced through its two great lakes (Cocibolca and Xolotlán) as the "land of lakes and volcanoes" before any wider world content. Non-Geography parts named, not placed: Unit II family, hygiene and food (printed pp. 9–32, home/health); Unit IV plant/animal/human-body topics (printed pp. 57–93, Natural Science); Unit V national symbols, heroes and traditions (printed pp. 113–143, Civics/History); Unit VI taxes (printed p. 151, Civics); efemérides throughout (History/Civics).
+
+Nicaragua's own way (Nicaragua Grade 7 CCSS Módulo Autoformativo G7): The distance-learning parallel of the Grade 7 full-year book (Book 7): the same five Geography units rewritten for rural self-study, so every topic is anchored in the learner's own comunidad — its soils, its production lands, its road links and its risk zones. Non-Geography parts named, not placed: Unit I government institutions (printed p. 23, Civics); Unit VI first settlers (printed pp. 113–128, History, except the geography-influence topic placed below); Unit VII arrival of the Europeans (printed pp. 131–141, History); Unit VIII independence process (printed pp. 145–154, History); Unit IX evolution 1857–1909 (printed pp. 157–168, History); Unit X defence of sovereignty (printed pp. 173–202, History); Unit XI triumph of the Revolution to the present (printed pp. 205–231, History).

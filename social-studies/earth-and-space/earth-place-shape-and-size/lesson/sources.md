@@ -1,6 +1,6 @@
 # Sources — The Earth — Place, Shape and Size
 
-countries: Ethiopia, Saudi Arabia, Myanmar, Turkey, Haiti, Palestine, Angola, Dominican Republic, Bahamas, Colombia, Uganda, Venezuela, Sri Lanka, Mauritania, Kuwait, Afghanistan, Yemen, Libya, Moldova, Honduras, Nepal, Mozambique, Laos, Iraq
+countries: Ethiopia, Saudi Arabia, Myanmar, Turkey, Haiti, Palestine, Angola, Dominican Republic, Bahamas, Colombia, Uganda, Venezuela, Sri Lanka, Mauritania, Kuwait, Afghanistan, Yemen, Libya, Moldova, Honduras, Nepal, Mozambique, Laos, Iraq, Nicaragua
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page - 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md.
 
@@ -70,6 +70,10 @@ countries: Ethiopia, Saudi Arabia, Myanmar, Turkey, Haiti, Palestine, Angola, Do
 
 **Book 34:** *الاجتماعيات للصف الأول المتوسط (Social Studies for the First Intermediate Grade)* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 1445 AH / 2023 CE, 5th edition (الطبعة الخامسة); ISBN no ISBN printed on the title pages. Title as printed: الاجتماعيات للصف الأول المتوسط (Social Studies for the First Intermediate Grade). Grade: 7 (student/teacher: STUDENT). PDF pages: 132 (cover/title page verified against the record title; read via the books.json record's own Google Drive source file — same book, cover and contents verified — after the GitHub route failed). Verdict: COMPLETE — the book is a History book (ancient civilisations); only its Geography setting sections are placed, per the scope rule. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iraq-placements.md.
 
+**Book 35:** *Estudios Sociales 3 (Libro de Texto)* (student book, Spanish) — Ministerio de Educación (MINED), Nicaragua; year 2016 (Edición 2016); ISBN no ISBN printed. Title as printed: Estudios Sociales 3 (Libro de Texto). Grade: Grade 3 (student/teacher: STUDENT). PDF pages: 118 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nicaragua-placements.md.
+
+**Book 36:** *Estudios Sociales, Primaria Regular, 5to Grado* (student book, Spanish) — Ministerio de Educación (MINED), Nicaragua; year 2020 (Edición 2020); ISBN no ISBN printed. Title as printed: Estudios Sociales, Primaria Regular, 5to Grado. Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 164 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nicaragua-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Earth's place | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 1, printed p. 15 |
@@ -109,8 +113,10 @@ countries: Ethiopia, Saudi Arabia, Myanmar, Turkey, Haiti, Palestine, Angola, Do
 | Laos part — Part I Lesson 1: The Earth (universe and solar system, Earth's shape and size, grid lines, coordinates) | Laos, *Laos Grade 6 laos-g06-geography-teacher*, Part I Lesson 1: The Earth (universe and solar system, Earth's shape and size, grid lines, coordinates) — printed p. 1 (teacher-guide evidence) |
 | Laos part — Part I Lesson 1: The Earth | Laos, *Laos Grade 6 laos-g06-geography-student*, Part I Lesson 1: The Earth — printed p. 3 |
 | Iraq part — Ch. 5 enrichment: Eratosthenes' steps for calculating the circumference of the Earth from the sun's angle at Alexandria and Aswan | Iraq, *Iraq Grade 7 Social Studies*, Ch. 5 enrichment: Eratosthenes' steps for calculating the circumference of the Earth from the sun's angle at Alexandria and Aswan — printed p. 128 |
+| Nicaragua part — Nuestro planeta: características y estructura de la Tierra | Nicaragua, *Nicaragua Grade 3 Estudios Sociales G3*, Nuestro planeta: características y estructura de la Tierra — printed p. 23 |
+| Nicaragua part — Forma de la Tierra | Nicaragua, *Nicaragua Grade 5 Estudios Sociales G5*, Forma de la Tierra — printed p. 2 |
 
-**Acceptance count: taught in 22 countries (Ethiopia, Saudi Arabia, Turkey, Palestine, Angola, Dominican Republic, Bahamas, Colombia, Uganda, Venezuela, Sri Lanka, Mauritania, Kuwait, Afghanistan, Yemen, Libya, Moldova, Honduras, Nepal, Mozambique, Laos, Iraq). Myanmar is named here as teacher-guide evidence only, counted nowhere. Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 23 countries (Ethiopia, Saudi Arabia, Turkey, Palestine, Angola, Dominican Republic, Bahamas, Colombia, Uganda, Venezuela, Sri Lanka, Mauritania, Kuwait, Afghanistan, Yemen, Libya, Moldova, Honduras, Nepal, Mozambique, Laos, Iraq, Nicaragua). Myanmar is named here as teacher-guide evidence only, counted nowhere. Haiti is named here as teacher-sequence evidence only, counted nowhere.**
 
 Haiti's own way (teacher sequence — evidence): Geography opens with representing the Earth itself — globe-to-flat projection problems, orientation practised on the ground with compass/GPS/Google Maps, and time-zone puzzles worked on Haiti's own links (midday shared with Québec, 18h in Paris, Port-au-Prince–Paris flights); every séance ends in a croquis, a glossary and field observation. That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
@@ -179,3 +185,7 @@ Laos's own way (Laos Grade 6 laos-g06-geography-teacher): a world-foundations ye
 Laos's own way (Laos Grade 6 laos-g06-geography-student): the student twin of Book 2 — same 9 parts / 16 lessons with full illustrated text, a reading passage (printed p. 90) and a glossary of terms (printed p. 95), not placed separately.
 
 Iraq's own way (Iraq Grade 7 Social Studies): at intermediate level Social Studies becomes the history of ancient civilisations, and every civilisation is opened through its land — relief, climate, soil and rivers are taught as the stage on which each civilisation arose, starting with Iraq's own four relief regions.
+
+Nicaragua's own way (Nicaragua Grade 3 Estudios Sociales G3): The first formal Geography course in the set: Units I–II teach what Geography is, map types, scale, orientation and the Earth, then every later unit works at three nested scales — comunidad, municipio, departamento — ending with Nicaragua's three regions, its volcanic chain and a Köppen climate map of the country. Non-Geography parts named, not placed: Unit VI municipality origins, customs and citizen participation (printed pp. 72–80, History/Civics, except the geography-influence topic placed below); Unit VII first settlers' history and culture (printed pp. 82–93, History); Unit VIII historical celebrations and heroes (printed pp. 94–109, History).
+
+Nicaragua's own way (Nicaragua Grade 5 Estudios Sociales G5): The scale widens from Nicaragua to the whole Central American isthmus: Units I–IV give the planet and map skills, then Central America's position, relief, climate, hydrography, resources, population and economies, with Nicaragua's place in the isthmus as an explicit topic; the second half is Central American History. Non-Geography parts named, not placed: Unit V first settlers, Maya and Aztec history (printed pp. 70–90, History, except the two topics placed below); Unit VI European presence (printed pp. 92–111, History); Unit VII independence process (printed pp. 114–140, History); Unit VIII Central America in the 20th century (printed pp. 142–154, History).

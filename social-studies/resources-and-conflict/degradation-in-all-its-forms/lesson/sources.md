@@ -1,6 +1,6 @@
 # Sources — Degradation in all its forms
 
-countries: Ethiopia, Zambia, Haiti, Angola, Eritrea, India, Papua New Guinea, Uganda, Venezuela, Yemen, Mozambique, Jordan
+countries: Ethiopia, Zambia, Haiti, Angola, Eritrea, India, Papua New Guinea, Uganda, Venezuela, Yemen, Mozambique, Jordan, Nicaragua
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -32,6 +32,8 @@ countries: Ethiopia, Zambia, Haiti, Angola, Eritrea, India, Papua New Guinea, Ug
 
 **Book 15:** *الجغرافيا — الصف الثاني عشر / المسار الأكاديمي — الفصل الدراسي الثاني (Geography, Grade 12 Academic Track, Term 2)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-950-2. Title as printed: الجغرافيا — الصف الثاني عشر / المسار الأكاديمي — الفصل الدراسي الثاني (Geography, Grade 12 Academic Track, Term 2). Grade: 12 (student/teacher: STUDENT). PDF pages: 136 (cover verified; byte size 118,626,340 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
 
+**Book 16:** *Módulo Autoformativo de Ciencias Sociales — Geografía, 9no Grado (Educación Secundaria a Distancia en el Campo)* (student book, Spanish) — Ministerio de Educación (MINED), Nicaragua, PROSEN; year 2017; ISBN no ISBN printed. Title as printed: Módulo Autoformativo de Ciencias Sociales — Geografía, 9no Grado (Educación Secundaria a Distancia en el Campo). Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 300 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nicaragua-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The types | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 6, printed pp. 177–179 |
@@ -51,8 +53,9 @@ countries: Ethiopia, Zambia, Haiti, Angola, Eritrea, India, Papua New Guinea, Ug
 | Yemen part — Unit 6 Lesson 3 Deterioration of the Global Environment | Yemen, *Yemen Grade 8 G8 Geography of the Continents*, Unit 6 Lesson 3 Deterioration of the Global Environment — printed p. 102 |
 | Mozambique part — Lição 16: Problemas ambientais decorrentes da actividade pecuária (vegetation removal, agro-toxics reaching groundwater and rivers) | Mozambique, *Mozambique Grade 7 PESD I Mod 2*, Lição 16: Problemas ambientais decorrentes da actividade pecuária (vegetation removal, agro-toxics reaching groundwater and rivers) — printed p. 74 |
 | Jordan part — Unit 5 Lesson 3: Environmental Problems (المشكلات البيئية) | Jordan, *Jordan G12 Geography T2*, Unit 5 Lesson 3: Environmental Problems (المشكلات البيئية) — printed p. 69 |
+| Nicaragua part — Causas y consecuencias de los desequilibrios ambientales | Nicaragua, *Nicaragua Grade 9 CCSS Geografía Módulo G9*, Causas y consecuencias de los desequilibrios ambientales — printed p. 269 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Angola, Eritrea, India, Uganda, Venezuela, Yemen, Mozambique, Jordan). Zambia is named here as teacher-guide evidence only, counted nowhere. Haiti is named here as teacher-sequence evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 10 countries (Ethiopia, Angola, Eritrea, India, Uganda, Venezuela, Yemen, Mozambique, Jordan, Nicaragua). Zambia is named here as teacher-guide evidence only, counted nowhere. Haiti is named here as teacher-sequence evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Haiti's own way (teacher sequence — evidence): The environment is studied from the schoolyard outward — a field diagnosis of the local environment (bare soils, dried springs, waste, noise), scaled up to a map and graph of the whole territory's problems (deforestation, erosion, water), then turned into a pupil-designed sustainable land-use project for a greener Haiti. That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
@@ -81,3 +84,5 @@ Yemen's own way (Yemen Grade 8 G8 Geography of the Continents): Grade 8 tours th
 Mozambique's own way (Mozambique Grade 7 PESD I Mod 2): human/economic geography organised sector by sector — population first, then each economic activity taught world-then-Mozambique (agriculture, livestock, fishing, forestry, industry, commerce, tourism, transport), with Mozambique's own distribution tables, ports and exports as the local evidence.
 
 Jordan's own way (Jordan G12 Geography T2): the final Geography term is climate (atmosphere, elements, classifications, change), environment (components, problems, protection, Jordanian ecotourism), and economic geography (production, agriculture, industry, services, development).
+
+Nicaragua's own way (Nicaragua Grade 9 CCSS Geografía Módulo G9): A pure-Geography self-study module (no History/Civics in this book): the Grade 9 world-Geography course taught continent by continent — position and political organisation, physical landscape, human diversity, production and consumption, and a closing planet-care unit on prevention and mitigation — with Nicaragua used as the home reference point throughout.
