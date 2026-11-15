@@ -2573,7 +2573,7 @@ Plants and Animals.
 
 ## History expansion totals
 
-History lessons across the History titles: **370**
+History lessons across the History titles: **380**
 (248 before the expansion; +1 for Guyana, 2026-11-15 —
 Modern World: Guyana — our nation: independence and
 symbols. All 3 Guyana placements stand on Guyana's
@@ -2889,3 +2889,38 @@ their sources as evidence only. Iceland's three
 other records (*Spor 1* life skills; *Trúarbrögðin
 okkar* religious education and its *Sögurammi*
 frame) are RECORD ONLY — other subjects, not placed.
+
++10 for Djibouti, 2026-11-15 — Africa to 1500: Daily
+life in ancient Africa and Kingdoms, empires and
+other African states; Africa after 1500: Resistance
+to slavery and the slave trades, Africa's internal
+transformations, 1500–1900, African resistance to
+colonisation, Liberation movements, Neocolonialism,
+The African Renaissance, Gender and Africa's future
+and African diasporas, ancient and modern. All 31
+Djibouti placements stand on Djibouti's one teacher
+guide — the *Prototype du guide pédagogique —
+Histoire générale de l'Afrique, tranche d'âge 10-12
+ans* (UNESCO HGA pedagogical guide prototype; year
+and ISBN not printed) — as teacher-guide evidence
+only, counted nowhere: the ten new lessons stand at
+0 countries counted, and the fourteen existing
+lessons stocked (First Steps What history is and
+From evidence to a written history; Africa to 1500
+Africa, cradle of humankind, From stone tools to
+farming and How Africa's regions traded with each
+other; Africa after 1500 Slavery before the Atlantic
+trade, The Indian Ocean and trans-Saharan slave
+trades, The Atlantic slave trade — scale, coasts and
+the gun cycle, Explorers and missionaries map the
+interior, Colonisation — the Berlin Conference,
+Colonisation — direct and indirect rule,
+Decolonisation — Ghana, Kenya and the south, African
+unity — the founding of the OAU and After the flag —
+debt, drought and the integration answer) keep their
+countries and acceptance counts unchanged, with
+Djibouti named in their sources as evidence only.
+Library debt, carried as filed: the book is a
+continental UNESCO guide filed under Djibouti, not a
+Djibouti national curriculum book — Djibouti's own
+primary history/social-studies book is still missing.

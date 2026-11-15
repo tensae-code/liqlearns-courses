@@ -9110,3 +9110,76 @@ twin is flagged in_pushed: false — the file sits in
 the repo tree but is not marked as pushed, and the
 books.json flags for the Iceland trúarbrogð records
 disagree with the tree. History lessons: 360 → 370.
+
+## History expansion — Djibouti — built 2026-11-15
+
+10 new lessons, 88 questions, in **Africa to 1500**:
+Daily life in ancient Africa
+(africa-to-1500/daily-life-in-ancient-africa) and
+Kingdoms, empires and other African states
+(africa-to-1500/kingdoms-empires-and-other-african-states);
+and in **Africa after 1500**: Resistance to slavery
+and the slave trades
+(africa-after-1500/resistance-to-slavery-and-the-slave-trades),
+Africa's internal transformations, 1500–1900
+(africa-after-1500/africas-internal-transformations-1500-1900),
+African resistance to colonisation
+(africa-after-1500/african-resistance-to-colonisation),
+Liberation movements
+(africa-after-1500/liberation-movements),
+Neocolonialism (africa-after-1500/neocolonialism),
+The African Renaissance
+(africa-after-1500/the-african-renaissance), Gender
+and Africa's future
+(africa-after-1500/gender-and-africas-future) and
+African diasporas, ancient and modern
+(africa-after-1500/african-diasporas-ancient-and-modern)
+— 31 placements stocked from Djibouti's 1 distinct
+History book read here, a teacher guide: the
+*Prototype du guide pédagogique — Histoire générale
+de l'Afrique, tranche d'âge 10-12 ans* (UNESCO HGA
+pedagogical guide prototype; year and ISBN not
+printed): UA1 (history and time, sources and methods,
+first fossils, first tools), into the existing First
+Steps What history is and From evidence to a written
+history lessons and the existing Africa, cradle of
+humankind and From stone tools to farming lessons;
+UA2 (habitat, family, food, dress and art), into the
+new Daily life in ancient Africa lesson, and UA2–UA3
+(Sahara and rivers; trade circuits), into the existing
+How Africa's regions traded with each other lesson;
+UA3 (kingdoms and empires; court learning and art),
+into the new Kingdoms, empires and other African
+states lesson; UA4 (internal slavery, the trans-Saharan
+and Indian Ocean trades, the Atlantic trade), into the
+existing Slavery before the Atlantic trade, The Indian
+Ocean and trans-Saharan slave trades and The Atlantic
+slave trade lessons, and UA4 (resistance; slavery as a
+crime against humanity), into the new Resistance to
+slavery lesson; UA5 (great formations 1500–1900 and
+their endogenous causes), into the new Internal
+transformations lesson; UA6 (European presence, Berlin,
+colonial systems), into the existing Explorers and
+missionaries, Berlin Conference and Direct and indirect
+rule lessons, and UA6 (resistance; liberation movements),
+into the new African resistance and Liberation movements
+lessons; UA7 (liberation process; Pan-Africanism, OAU,
+African Union and the obstacles to unity), into the
+existing Decolonisation and African unity lessons, and
+UA7 (neocolonialism), into the new Neocolonialism
+lesson; UA8 (new challenges), into the existing After
+the flag lesson, and UA8 (African Renaissance; gender
+and unity), into the new African Renaissance and Gender
+lessons; and UA9 (diasporas, brain drain and diaspora
+contributions), into the new African diasporas lesson.
+The book is a teacher guide, so all 31 placements stand
+as teacher-guide evidence only, outside acceptance
+counts: the ten new lessons stand at 0 countries counted,
+and the fourteen existing lessons stocked keep their
+countries and counts unchanged, with Djibouti named in
+their sources as evidence only. Library debt, carried
+as filed: the book is not Djibouti-specific — it is the
+UNESCO General History of Africa pedagogical-guide
+prototype for ages 10–12, filed in the library under
+Djibouti; Djibouti's own primary history/social-studies
+book is still missing. History lessons: 370 → 380.
