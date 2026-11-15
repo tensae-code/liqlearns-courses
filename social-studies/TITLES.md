@@ -90,8 +90,9 @@ the one title at rising depth wherever a title spans both books
   guide's Units 4–7 are still owed.)
 - `africa-after-1500/` — Africa from 1500: trade, colonisation,
   resistance, independence. (No teacher evidence yet.)
-- `modern-world/` — the early-modern and modern world. (No
-  teacher evidence yet.)
+- `modern-world/` — the early-modern and modern world
+  (including Guyana — our nation: independence and symbols).
+  (No teacher evidence yet.)
 - `global-issues/` — today's shared problems: population
   pressure, HIV/AIDS, climate, water, forests — and protecting
   the environment where you live (including India's
@@ -2492,3 +2493,11 @@ Climate, Kazakhstans Protected Areas and Protecting
 Plants and Animals.
 (All 75 new lessons are taught in 1 country
 (Kazakhstan), each standing on student book(s).)
+
+## History expansion totals
+
+History lessons across the History titles: **249**
+(248 before the expansion; +1 for Guyana, 2026-11-15 —
+Modern World: Guyana — our nation: independence and
+symbols. All 3 Guyana placements stand on Guyana's
+student book, counted in acceptance.)

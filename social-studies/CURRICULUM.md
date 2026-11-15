@@ -8090,3 +8090,21 @@ p. 236; printed p. 91) — all 75 new lessons are taught
 in 1 country (Kazakhstan), 8 questions each, standing
 on Kazakhstan student book(s).
 Geography lessons: 3488 → 3563.
+
+## History expansion — Guyana — built 2026-11-15
+
+1 new lesson, 8 questions, in **The Modern World**:
+Guyana — our nation: independence and symbols
+(modern-world/guyana-our-nation-independence-and-symbols)
+— 3 placements stocked from Guyana's *Social Studies For
+Our Children, Book 1 (Easy Path Series)*, Grade 1 student
+book (Ministry of Education, Georgetown, Guyana, 2004
+revised second edition): independence on 26 May 1966 and
+the President (printed p. 34); national symbols — flag,
+coat of arms, national bird, anthem and pledge (printed
+p. 35); celebrations — Remembrance Day poppies and
+Mashramani for the Co-operative Republic of 23 February
+1970 (printed p. 40). The book is a COMBINED Social
+Studies book; its civics, health and weather parts are
+named in the lesson's sources, not placed. History
+lessons: 248 → 249.
