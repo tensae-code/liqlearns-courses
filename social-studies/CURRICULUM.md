@@ -8260,3 +8260,44 @@ as evidence only — every new lesson's acceptance
 count is 0 countries, counted nowhere, and the two
 existing lessons' acceptance counts do not change.
 History lessons: 257 → 261.
+
+## History expansion — Nauru — built 2026-11-15
+
+1 new lesson, 8 questions, in **The Ancient World**:
+Pacific voyaging and island exchange
+(ancient-world/pacific-voyaging-and-island-exchange)
+— 8 placements stocked from Nauru's three regional
+USP/UNESCO ESD books: *People and the Sea in the
+Pacific — Book 1*, Years 5–6 student reader (Institute
+of Education, University of the South Pacific (Tonga
+Campus) with UNESCO, sponsored by the Japanese
+Funds-in-Trust, 2020, no ISBN printed): "The Ocean in
+our blood" — Fiji, Samoa, Tonga, Niue, Rotuma, Tokelau,
+Tuvalu, Futuna and Uvea once part of one large exchange
+community, peoples regularly voyaging between islands
+circulating wealth, skills and goods (printed p. 3),
+into the new lesson; sharks, turtles and whales in
+Pacific culture (printed pp. 7–12) and traditional
+uses of the reef and ocean, traditional fishing in
+Tuvalu and Niue (printed pp. 13–17), into the existing
+First Steps heritage lesson. *People and the Natural
+Environment in the Pacific — Book 3*, Years 5–6 student
+reader (same publisher, 2020): knowledge passed down
+through generations (printed pp. 6–7), taro in Tonga,
+Niue and Tuvalu (printed pp. 8–11) and the amazing
+coconut tree (printed pp. 12–15), all into the heritage
+lesson. *Teacher Guide for the ESD Readers — Years
+5–8*, teacher guide (same publisher, 2020), cited as
+evidence only: pupils sent to talk to an elder about
+sacred and traditional practices and traditional
+fishing (printed p. 20), into the existing First Steps
+find-history-in-your-own-locality lesson — Nauru is
+not added to that lesson's count, as the guide is
+evidence only; and the coconut-palm inheritance lesson
+(printed p. 28), into the heritage lesson as evidence.
+Nauru was not counted in the heritage lesson before,
+so its acceptance count rises 16 → 17 countries.
+Library debt, as filed: Nauru's shelf holds no Nauru
+national history book at all — only these regional
+readers, byte-identical to the files also shelved
+under Niue (MD5-verified). History lessons: 261 → 262.

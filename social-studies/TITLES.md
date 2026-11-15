@@ -2507,7 +2507,7 @@ Plants and Animals.
 
 ## History expansion totals
 
-History lessons across the History titles: **261**
+History lessons across the History titles: **262**
 (248 before the expansion; +1 for Guyana, 2026-11-15 —
 Modern World: Guyana — our nation: independence and
 symbols. All 3 Guyana placements stand on Guyana's
@@ -2541,4 +2541,13 @@ stand on Zambia's teacher guide only, as evidence
 only, acceptance count 0 countries; the two placements
 stocked into existing lessons (First Steps heritage
 and the Atlantic slave trade lesson) likewise leave
-those lessons' acceptance counts unchanged.)
+those lessons' acceptance counts unchanged. +1 for
+Nauru, 2026-11-15 — Ancient World: Pacific voyaging
+and island exchange. Of Nauru's 8 placements, 6 stand
+on its two student readers and are counted in
+acceptance (the new lesson, and the heritage lesson,
+whose count rises 16 → 17 with Nauru added); the
+teacher guide's 2 placements are evidence only — the
+heritage guide row adds no count beyond the student
+readers, and the find-history-in-your-own-locality
+lesson does not add Nauru to its countries or count.)
