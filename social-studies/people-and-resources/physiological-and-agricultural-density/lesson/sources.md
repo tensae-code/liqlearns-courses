@@ -1,17 +1,22 @@
 # Sources — Physiological and Agricultural Density
 
-countries: Ethiopia
+countries: Ethiopia, Pakistan
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (placement 49).
+
+**Book 2:** *معاشرتی علوم جماعت پنجم (Social Studies, Class 5), Single National Curriculum 2020* (student book, Urdu with English topic glosses) — Punjab Curriculum and Textbook Board (PCTB), Lahore; year 2022; ISBN no ISBN printed. Title as printed: معاشرتی علوم جماعت پنجم (Social Studies, Class 5), Single National Curriculum 2020. Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 114 (cover/title page verified against the record title; this book is also the TSV blob-URL record — same repo path, one book). Verdict: COMPLETE. All Pakistan PCTB books are image-only scans (no text layer); read page-by-page from 90–100 DPI 4-up contact sheets, covers verified visually (placements file header: 3 books read in place from phase3-staging, 2 grabbed via grab.py tree route; the 4 Telegram link records are the same PCTB books already held in staging/GitHub, so no new download or staging arose from them). This book is also the TSV blob-URL record — same repo path, one book. Non-Geography parts named, not placed: Ch.1 Citizenship, printed pp. 1–9; Ch.2 Culture, pp. 10–24; Ch.3 State and Government, pp. 25–32; Ch.4 History, pp. 33–50; Ch.6 Economics, pp. 86–108; Glossary, p. 109 Placements at liqlearns-courses-work/expansion-geography-2026-11-14/pakistan-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Physiological density: physiological density = population ÷ farmland area, worked on a zone of 20,000,000 people whose farmland is 20% of 5,000 km², then judged for food supply | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 3, printed pp. 66–67 |
 | Sub lesson 2 — Agricultural density: agricultural density = rural population ÷ cultivated land, worked for a kebele | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 3, printed pp. 66–67 |
 | Sub lesson 3 — the closing problem combining all three densities for one territory (600,000 people, 100,000 km², 20% urban, 40% crop-covered, 60% farmable), asking for a food-supply judgement | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 3, printed pp. 66–67 |
+| Pakistan part — Worked density calculation: Sindh 2017 (47,886,051 ÷ 140,914 km² ≈ 339.8 people/km²); exercise computing Punjab vs Balochistan densities | Pakistan, *Pakistan Grade 5 SS5*, Worked density calculation: Sindh 2017 (47,886,051 ÷ 140,914 km² ≈ 339.8 people/km²); exercise computing Punjab vs Balochistan densities — printed pp. 82, 84 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Pakistan).**
 
 Honesty notes on the working. (1) The placements give the problems' numbers and each measure's formula; the arithmetic is carried out in the lesson (physiological: farmland = 20% of 5,000 km² = 1,000 km²; 20,000,000 ÷ 1,000 = 20,000 per km² of farmland). (2) The placements name no figures for the kebele agricultural-density example ("worked for a kebele"), so the lesson teaches that measure by its formula and method, with no invented kebele numbers presented as the book's. (3) In the closing problem, the lesson reads the 60% farmable share as the physiological denominator and the 40% crop-covered share as the agricultural (cultivated) denominator, with rural people = 100% − 20% urban; that reading is the builder's worked reading of the printed problem, stated here so a checker can see which land figure feeds which measure. The video script for this lesson is full-length because the placement names a worked-problem video-script need. No book error flagged by the placements touches this lesson.
 
 Searchable tags: physiological density, agricultural density, farmland, cultivated land, food supply judgement, የሕዝብ ብዛት, Ethiopia Grade 7 Social Studies Chapter 3
+
+Pakistan's own way (Pakistan Grade 5 SS5): the Class 5 Geography chapter (Ch.5, printed pp. 51–85) deepens the Class 4 spiral — same BOLTS, landforms, weather and population topics, but now with scale types, latitude/longitude and time-zone arithmetic, worked population-density calculations, and graph-drawing exercises from real Pakistani city data.

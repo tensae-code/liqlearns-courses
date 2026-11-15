@@ -1,21 +1,26 @@
 # Sources — Tides The Sea Breathing In And Out
 
-countries: Sudan, Sri Lanka
+countries: Sudan, Sri Lanka, Pakistan
 
 **Book 1:** *الجغرافيا والدراسات البيئية — Geography and Environmental Studies, First Year Secondary (الصف الأول الثانوي) [record title omits "and Environmental Studies"]* (student book, Arabic) — Republic of Sudan, Ministry of Education and National Education, National Centre for Curricula and Educational Research (Bakht al-Ruda); year not printed on cover/title pages seen; no ISBN printed. Title as printed: الجغرافيا والدراسات البيئية — Geography and Environmental Studies, First Year Secondary (الصف الأول الثانوي) [record title omits "and Environmental Studies"]. Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 195 (cover verified against the record title; byte size 31,004,701 and page count match the staging books.json record exactly). Verdict: COMPLETE. How read: PDF text layer is font-garbled, so read visually from rendered pages — cover, preface (4-unit structure), unit objectives and interior spreads across all four units. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sudan-placements.md.
 
 **Book 2:** *புவியியல் — முதலாம் பாகம் (Geography — Part One), for the G.C.E. (Advanced Level)* (student book, Tamil) — Educational Publications Department; first edition 1976; no ISBN printed (pre-ISBN Sri Lankan imprint; library copy stamped Jaffna Public Library). Title as printed: புவியியல் — முதலாம் பாகம் (Geography — Part One), for the G.C.E. (Advanced Level). Grade: 12 (student/teacher: STUDENT). PDF pages: 230 (Noolaham scan; cover verified against the record; grabbed via grab.py from the GitHub release URL, 110,744,638 bytes, size-verified; read in full page-by-page on contact sheets — image-only scan; printed pp. 1–210 plus a chapter-grouped bibliography). Verdict: COMPLETE (Part I complete in itself; a separate Part II exists outside this record). Part I complete in itself; a separate Part II exists outside this record, as the placements file labels it. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sri-lanka-placements.md.
+
+**Book 3:** *جغرافیہ 8 (Geography 8), Punjab Curriculum and Textbook Board, Lahore (record title: "Geography Class 8 SNC — Punjab Board (PCTB)")* (student book, Urdu) — Punjab Curriculum and Textbook Board (PCTB), Lahore; Urdu-medium edition with English topic glosses throughout; ISBN no ISBN printed in the scanned copy. Title as printed: جغرافیہ 8 (Geography 8), Punjab Curriculum and Textbook Board, Lahore (record title: "Geography Class 8 SNC — Punjab Board (PCTB)"). Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 88 (39,114,330 bytes — exactly the record size; the GitHub release/tree copies could not be found, so the book was re-downloaded from the record's own source, the freebooks.pk Google Drive file, and verified byte-for-byte against the record; image-only scan, read page by page from contact sheets). Verdict: COMPLETE. The GitHub release/tree copies could not be found, so the book was re-downloaded from the record's own source, the freebooks.pk Google Drive file, and verified byte-for-byte against the record (39,114,330 bytes — exactly the record size); image-only scan, read page by page from contact sheets. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/pakistan-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Sea-water movement: tides (المد والجزر) | Sudan, *Sudan Grade 10 SD Geography 10*, Sea-water movement: tides (المد والجزر) — printed p. 20 |
 | Sub lesson 2 — Sudan's way — the book's own teaching way | Sudan — the book's own way of teaching (see below) |
 | Sri Lanka part — Chapter 10: tides and their causes (placement slug: earth-and-space/tides-and-their-causes — the lesson stands under this title, stocked here) | Sri Lanka, *Sri Lanka G12 Tamil SB Part I*, Chapter 10: tides and their causes — printed p. 107 |
+| Pakistan part — Tides: how the Moon and Sun raise them, spring tides and neap tides, centrifugal force [placement slug: earth-and-space/tides-and-the-moon] | Pakistan, *Pakistan Grade 8 Geography 8*, Tides: how the Moon and Sun raise them, spring tides and neap tides, centrifugal force — printed p. 28 |
 
-**Acceptance count: taught in 2 countries (Sudan, Sri Lanka).**
+**Acceptance count: taught in 3 countries (Sudan, Sri Lanka, Pakistan).**
 
 Sudan's own way (Sudan Grade 10 SD Geography 10): A second-edition foundations book (the preface says necessity forced this 2nd edition): physical geography first (universe to rivers), then climate and vegetation, then a long practical cartography unit, closing with GIS — geography taught as a skills subject, with an activity (نشاط) box on most spreads.
 
 Searchable tags: tides the sea breathing in and out, Sudan, social studies, the-land-and-air
 
 Sri Lanka's own way (Sri Lanka G12 Tamil SB Part I): the old A/L course opens with a full astronomy block (universe, solar system, origin theories, telescopes, the space age) before turning to the Earth, then teaches geography as man-and-environment study in the Brunhes / Vidal de la Blache tradition (the bibliography names them), and closes with map interpretation on a Sri Lanka topographic sheet.
+
+Pakistan's own way (Pakistan Grade 8 Geography 8): the Urdu-medium twin of the English Geography course — deep map-and-graph craft first (dot and choropleth maps of Pakistan itself), then landform agents, oceans, a full Pakistan-anchored disaster chapter, the world's natural regions, Pakistan's own climate, its four neighbouring regions and strategic place, underdevelopment with Pakistan's own causes, and modern techniques down to Pak Sat-1.

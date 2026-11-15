@@ -1,6 +1,6 @@
 # Sources — River landforms — from V-valley to delta
 
-countries: Ethiopia, Barbados, Malaysia, India, United Kingdom, Fiji, Slovenia, Sudan, Sri Lanka
+countries: Ethiopia, Barbados, Malaysia, India, United Kingdom, Fiji, Slovenia, Sudan, Sri Lanka, Pakistan
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -22,6 +22,10 @@ countries: Ethiopia, Barbados, Malaysia, India, United Kingdom, Fiji, Slovenia, 
 
 **Book 10:** *புவியியல், தரம் 10 (Geography, Grade 10)* (student book, Tamil) — Educational Publications Department; prints listed 2006, 2007, 2010, 2011, 2012 (this copy's print code 2013/T/10/294/31,000); no ISBN printed. Title as printed: புவியியல், தரம் 10 (Geography, Grade 10). Grade: 10 (student/teacher: STUDENT). PDF pages: 108 (Noolaham scan; cover verified against the record; grabbed via grab.py from the GitHub release URL, 73,586,944 bytes, size-verified; read in full page-by-page on contact sheets — image-only scan). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sri-lanka-placements.md.
 
+**Book 11:** *GEOGRAPHY 7 — Based on Single National Curriculum 2022 (ONE NATION, ONE CURRICULUM)* (student book, English) — Punjab Curriculum and Textbook Board (PCTB), Lahore; SNC 2022, Experimental Edition; author Muhammad Ramzan Khan; ISBN no ISBN printed. Title as printed: GEOGRAPHY 7 — Based on Single National Curriculum 2022 (ONE NATION, ONE CURRICULUM). Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 93 (read in place from phase3-staging; image-only scan, read page by page from contact sheets; cover and contents verified against the record). Verdict: COMPLETE. Read in place from phase3-staging; image-only scan, read page by page from contact sheets; cover and contents verified against the record. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/pakistan-placements.md.
+
+**Book 12:** *GEOGRAPHY 6 — Based on Single National Curriculum 2022 (ONE NATION, ONE CURRICULUM)* (student book, English) — Punjab Curriculum and Textbook Board (PCTB), Lahore; SNC 2022, Experimental Edition, 1st edition March 2022; author Mr. Salman Munir; prepared by Javed Publishers, Lahore; ISBN no ISBN printed. Title as printed: GEOGRAPHY 6 — Based on Single National Curriculum 2022 (ONE NATION, ONE CURRICULUM). Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 89 (21,533,299 bytes — exactly the record size; the GitHub release/tree copies could not be found, so the book was re-downloaded from the record's own source, the freebooks.pk Google Drive file, and verified byte-for-byte against the record; image-only scan, read page by page from contact sheets). Verdict: COMPLETE. The GitHub release/tree copies could not be found, so the book was re-downloaded from the record's own source, the freebooks.pk Google Drive file, and verified byte-for-byte against the record (21,533,299 bytes — exactly the record size); image-only scan, read page by page from contact sheets. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/pakistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Upper and middle courses | G12 student #22, printed pp. 28–29 |
@@ -35,8 +39,10 @@ countries: Ethiopia, Barbados, Malaysia, India, United Kingdom, Fiji, Slovenia, 
 | Slovenia part — Rečno površje (river relief — development factors and processes) inside Ledeniško, rečno in kraško površje | Slovenia, *Slovenia Grade 10 Geografija 1 (gimnazija)*, Rečno površje (river relief — development factors and processes) inside Ledeniško, rečno in kraško površje — printed p. 46 |
 | Sudan part — River work: waterfalls, oxbow lakes, floodplains and deltas | Sudan, *Sudan Grade 10 SD Geography 10*, River work: waterfalls, oxbow lakes, floodplains and deltas — printed p. 60 |
 | Sri Lanka part — Chapter 3: the world's great rivers (placement slug: the-land-and-air/rivers-and-river-landforms — the lesson stands under this title, stocked here) | Sri Lanka, *Sri Lanka G10 Tamil SB*, Chapter 3: the world's great rivers — printed p. 19 |
+| Pakistan part — Features formed by a river: flood plains, ox-bow lakes, meanders, natural levees, distributaries and the delta | Pakistan, *Pakistan Grade 7 Geography 7*, Features formed by a river: flood plains, ox-bow lakes, meanders, natural levees, distributaries and the delta — printed pp. 6–7 |
+| Pakistan part — Mountain valleys of Pakistan (Swat, Chitral, Dir, Gilgit, Hunza, Kaghan) and U-shaped (glacier) vs V-shaped (river) valleys | Pakistan, *Pakistan Grade 6 Geography 6*, Mountain valleys of Pakistan (Swat, Chitral, Dir, Gilgit, Hunza, Kaghan) and U-shaped (glacier) vs V-shaped (river) valleys — printed p. 27 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Barbados, Malaysia, India, United Kingdom, Fiji, Slovenia, Sudan, Sri Lanka).**
+**Acceptance count: taught in 10 countries (Ethiopia, Barbados, Malaysia, India, United Kingdom, Fiji, Slovenia, Sudan, Sri Lanka, Pakistan).**
 
 Barbados's own way: this is the shared Caribbean CSEC examination textbook used in Barbados — every world process is re-taught through Caribbean case studies (the Caribbean plate, Montserrat's volcano, Jamaica's coasts and Kingston's urban problems, St Lucia's reefs, Bahamas/Jamaica/Puerto Rico karst, Guyana's rivers), map and field skills are folded into the chapters, and the course ends in a School-Based Assessment fieldwork project. That way is stocked here as the way Barbados teaches this thing; it does not change the acceptance count above.
 
@@ -59,3 +65,7 @@ Slovenia's own way (Slovenia Grade 10 Geografija 1 (gimnazija)): the gimnazija f
 Sudan's own way (Sudan Grade 10 SD Geography 10): A second-edition foundations book (the preface says necessity forced this 2nd edition): physical geography first (universe to rivers), then climate and vegetation, then a long practical cartography unit, closing with GIS — geography taught as a skills subject, with an activity (نشاط) box on most spreads.
 
 Sri Lanka's own way (Sri Lanka G10 Tamil SB): the O/L year pairs every world topic with its Sri Lankan twin — world agriculture then Sri Lanka's land use, world industries then Sri Lanka's industries — and closes with map skills and an outline-map chapter; the syllabus (units 10.1–10.13) is printed at the back.
+
+Pakistan's own way (Pakistan Grade 7 Geography 7): a dedicated English-medium Geography book built entirely on Pakistan's own physical and economic geography — the Indus plain and delta, the canal system, Rabi/Kharif crops, Sui gas, Thar coal, Khewra salt and Tarbela power — with world concepts (river courses, settlement hierarchy, greenhouse effect, mining types) taught through Pakistani examples first.
+
+Pakistan's own way (Pakistan Grade 6 Geography 6): world physical Geography taught through Pakistan's own land — its fault lines and 1935/2005 earthquakes, Khewra salt and Thar coal among the rocks, K2 and the Karakoram among the mountains, Pakistan's four climatic regions, its six forest types from mangrove to alpine, and the Indus flood as the country's defining disaster.

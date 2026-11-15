@@ -1,6 +1,6 @@
 # Sources — The Savanna grasslands
 
-countries: Ethiopia, Egypt, Venezuela
+countries: Ethiopia, Egypt, Venezuela, Pakistan
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). First published 2023 under GEQIP-E. ISBN: 978-99990-0-049-9. 205 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md.
 
@@ -8,14 +8,17 @@ countries: Ethiopia, Egypt, Venezuela
 
 **Book 3:** *¡Viva Venezuela! Ciencias Sociales 3er Grado* (student book, Spanish) — Ministerio del Poder Popular para la Educación / Colección Bicentenario; year 2014 (fourth edition, April 2014); ISBN 978-980-218-299-2. Title as printed: ¡Viva Venezuela! Ciencias Sociales 3er Grado. Grade: Grade 3 (student/teacher: STUDENT). PDF pages: 91 (printed pages run to 176 in spreads; cover/title page verified against the record title; grab SHA/size verified by grab.py). Verdict: COMPLETE. (Combined book — Geography parts placed below; parts named, not placed — History parts named, not placed: Nuestros ancestros más remotos (printed p. 56); Esclavizados y afrodescendientes (p. 58); Revisando los períodos de nuestra historia económica (p. 72); presidentes del período Republicano Agrícola (p. 76); Bolívar Presidente (p. 78); La guerra y la paz en tiempos de Zamora (p. 84); La moneda venezolana también tiene su historia (p. 88); La República Petrolera (p. 94); Simón Rodríguez (p. 18).; Civics parts named, not placed: Necesario es respetarnos y entreayudarnos (p. 10); De las reglas del juego a las de la escuela (p. 20); Tenemos patria (p. 62); Novedades de la igualdad ante la ley (p. 110); Solidaridad con quienes la necesitan (p. 108).) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/venezuela-placements.md.
 
+**Book 4:** *جغرافیہ 8 (Geography 8), Punjab Curriculum and Textbook Board, Lahore (record title: "Geography Class 8 SNC — Punjab Board (PCTB)")* (student book, Urdu) — Punjab Curriculum and Textbook Board (PCTB), Lahore; Urdu-medium edition with English topic glosses throughout; ISBN no ISBN printed in the scanned copy. Title as printed: جغرافیہ 8 (Geography 8), Punjab Curriculum and Textbook Board, Lahore (record title: "Geography Class 8 SNC — Punjab Board (PCTB)"). Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 88 (39,114,330 bytes — exactly the record size; the GitHub release/tree copies could not be found, so the book was re-downloaded from the record's own source, the freebooks.pk Google Drive file, and verified byte-for-byte against the record; image-only scan, read page by page from contact sheets). Verdict: COMPLETE. The GitHub release/tree copies could not be found, so the book was re-downloaded from the record's own source, the freebooks.pk Google Drive file, and verified byte-for-byte against the record (39,114,330 bytes — exactly the record size); image-only scan, read page by page from contact sheets. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/pakistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The grassland belt and its place | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 1, printed pp. 13–14 |
 | Sub lesson 2 — How savanna trees survive the dry season | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 1, printed pp. 13–14 |
 | Egypt part (Grade 7) — Unit 3 Lesson 2: Grassland systems (hot and temperate) and the hot deserts in Africa | Egypt, *Social Studies, Grade 7, Term 1*, Grade 7, Unit 3 Lesson 2: Grassland systems (hot and temperate) and the hot deserts in Africa — printed p. 60 |
 | Venezuela part — Dos llaneritos discuten / La sabana sin alpargatas (Los Llanos) | Venezuela, *Venezuela Grade 3 G3 CS Viva Venezuela*, Dos llaneritos discuten / La sabana sin alpargatas (Los Llanos) — printed p. 152 |
+| Pakistan part — Steppe Region: the temperate grasslands (Ukraine, Central Asia, North America, Argentina), their climate and grain-growing human activities | Pakistan, *Pakistan Grade 8 Geography 8*, Steppe Region: the temperate grasslands (Ukraine, Central Asia, North America, Argentina), their climate and grain-growing human activities — printed pp. 52–53 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Egypt, Venezuela).**
+**Acceptance count: taught in 4 countries (Ethiopia, Egypt, Venezuela, Pakistan).**
 
 Pairing: the teacher guide was first published in 2022 and the student textbook in 2023, with the same writers and the same eight units in the same order; the student book is the learner text of record, and teacher-guide rows above are evidence only.
 
@@ -24,3 +27,5 @@ Searchable tags: savanna, tropical grassland, acacia, dry season, leaf shedding,
 Egypt's own way (Grade 7 Term 1): Social Studies is rebuilt around “Africa and Egypt together” — the geography half teaches Africa first (position, surface, the Nile) then Africa's ecosystems system by system (forests, grasslands/deserts, aquatic), always tying Egypt into the continent; every lesson opens with outcome goals, map-work (“observe map 1 and share with your partner”) and a blue-economy / ICT-linked application section.
 
 Venezuela's own way (Venezuela Grade 3 G3 CS Viva Venezuela): the second half is a state-by-state tour of Venezuela (territorial organisation, Nueva Esparta, Sucre, the Capital, Vargas, Zulia, the Andean states, the Llanos, Guayana) taught through local stories and children of each region — regional geography as a journey around the child's own country.
+
+Pakistan's own way (Pakistan Grade 8 Geography 8): the Urdu-medium twin of the English Geography course — deep map-and-graph craft first (dot and choropleth maps of Pakistan itself), then landform agents, oceans, a full Pakistan-anchored disaster chapter, the world's natural regions, Pakistan's own climate, its four neighbouring regions and strategic place, underdevelopment with Pakistan's own causes, and modern techniques down to Pak Sat-1.

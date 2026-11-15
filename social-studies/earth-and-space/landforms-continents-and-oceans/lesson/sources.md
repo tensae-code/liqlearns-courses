@@ -1,6 +1,6 @@
 # Sources — Landforms, Continents and Oceans
 
-countries: Ethiopia, Saudi Arabia, France, Guatemala, Ecuador, Malaysia, Eritrea, Rwanda, Papua New Guinea, Afghanistan, Yemen
+countries: Ethiopia, Saudi Arabia, France, Guatemala, Ecuador, Malaysia, Eritrea, Rwanda, Papua New Guinea, Afghanistan, Yemen, Pakistan
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page - 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md.
 
@@ -32,6 +32,10 @@ countries: Ethiopia, Saudi Arabia, France, Guatemala, Ecuador, Malaysia, Eritrea
 
 **Book 15:** *مبادئ الجغرافيا الطبيعية للصف السابع من مرحلة التعليم الأساسي (Principles of Physical Geography for Grade 7) — the record's short title is الجغرافيا (Geography)* (student book, Arabic) — Republic of Yemen, Ministry of Education; year 1443 AH / 2022 CE; ISBN no ISBN printed. Title as printed: مبادئ الجغرافيا الطبيعية للصف السابع من مرحلة التعليم الأساسي (Principles of Physical Geography for Grade 7) — the record's short title is الجغرافيا (Geography). Grade: 7 (student/teacher: STUDENT). PDF pages: 141 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the Wayback Machine capture of its own recorded Yemen MoE source URL (the source_url in its books.json record) after the GitHub routes (grab.py release + tree) failed from the reader's host — the same ministry file the repo copies were taken from; cover/title page verified visually against the record title. TSV + books.json records for the same grade are the same book, placed once. Read note: image-only scan (no text layer); structure read from rendered contents and lesson pages. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/yemen-placements.md.
 
+**Book 16:** *GEOGRAPHY 7 — Based on Single National Curriculum 2022 (ONE NATION, ONE CURRICULUM)* (student book, English) — Punjab Curriculum and Textbook Board (PCTB), Lahore; SNC 2022, Experimental Edition; author Muhammad Ramzan Khan; ISBN no ISBN printed. Title as printed: GEOGRAPHY 7 — Based on Single National Curriculum 2022 (ONE NATION, ONE CURRICULUM). Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 93 (read in place from phase3-staging; image-only scan, read page by page from contact sheets; cover and contents verified against the record). Verdict: COMPLETE. Read in place from phase3-staging; image-only scan, read page by page from contact sheets; cover and contents verified against the record. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/pakistan-placements.md.
+
+**Book 17:** *جغرافیہ 8 (Geography 8), Punjab Curriculum and Textbook Board, Lahore (record title: "Geography Class 8 SNC — Punjab Board (PCTB)")* (student book, Urdu) — Punjab Curriculum and Textbook Board (PCTB), Lahore; Urdu-medium edition with English topic glosses throughout; ISBN no ISBN printed in the scanned copy. Title as printed: جغرافیہ 8 (Geography 8), Punjab Curriculum and Textbook Board, Lahore (record title: "Geography Class 8 SNC — Punjab Board (PCTB)"). Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 88 (39,114,330 bytes — exactly the record size; the GitHub release/tree copies could not be found, so the book was re-downloaded from the record's own source, the freebooks.pk Google Drive file, and verified byte-for-byte against the record; image-only scan, read page by page from contact sheets). Verdict: COMPLETE. The GitHub release/tree copies could not be found, so the book was re-downloaded from the record's own source, the freebooks.pk Google Drive file, and verified byte-for-byte against the record (39,114,330 bytes — exactly the record size); image-only scan, read page by page from contact sheets. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/pakistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Landforms: how the Earth's face is made | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 1, printed p. 26 |
@@ -48,12 +52,14 @@ countries: Ethiopia, Saudi Arabia, France, Guatemala, Ecuador, Malaysia, Eritrea
 | Afghanistan part — Ch. 6 Lesson 53: the lows and highs of the Earth's land pieces (continents) | Afghanistan, *Afghanistan Grade 10 Geography (Dari)*, Ch. 6 Lesson 53: the lows and highs of the Earth's land pieces (continents) — printed p. 181 |
 | Afghanistan part — Lesson 35: the continents | Afghanistan, *Afghanistan Grade 4 Social Studies (Dari)*, Lesson 35: the continents — printed p. 69 |
 | Yemen part — Unit 4 Lesson 4 Landforms of the Earth's Surface | Yemen, *Yemen Grade 7 G7 Principles of Physical Geography*, Unit 4 Lesson 4 Landforms of the Earth's Surface — printed p. 106 |
+| Pakistan part — Plains: what a plain is and its physical features; plains told apart from plateaus, mountains and valleys; the Indus Plain, steppes and tundra | Pakistan, *Pakistan Grade 7 Geography 7*, Plains: what a plain is and its physical features; plains told apart from plateaus, mountains and valleys; the Indus Plain, steppes and tundra — printed pp. 2–3 |
+| Pakistan part — Oceans and seas: the five oceans (Pacific — the largest at 168 million km², Atlantic, Indian, Antarctic, Arctic) with a world oceans map | Pakistan, *Pakistan Grade 8 Geography 8*, Oceans and seas: the five oceans (Pacific — the largest at 168 million km², Atlantic, Indian, Antarctic, Arctic) with a world oceans map — printed pp. 22–23 |
 
 | France part — Thème 1 Entrer dans le thème: Continents et océans, les repères spatiaux | France, *Géographie 2de GT, Manuel Libre de Géographie, Seconde*, Grade 10, Sommaire Thème 1 |
 | Ecuador part — El relieve (Unit 2, Las irregularidades de la Tierra) | Ecuador, *Estudios Sociales 3ro EGB (SM 2016)*, Grade 3, El relieve (Unit 2, Las irregularidades de la Tierra) — printed p. 34 |
 | Ecuador part — Formación de la Tierra; características de continentes, océanos y mares (inside the cartography tema, per its evaluation criterion) | Ecuador, *Estudios Sociales 8vo EGB*, Grade 8, Formación de la Tierra; características de continentes, océanos y mares (inside the cartography tema, per its evaluation criterion) — printed p. 99 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Saudi Arabia, France, Guatemala, Ecuador, Malaysia, Eritrea, Rwanda, Afghanistan, Yemen). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 11 countries (Ethiopia, Saudi Arabia, France, Guatemala, Ecuador, Malaysia, Eritrea, Rwanda, Afghanistan, Yemen, Pakistan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 No book errors are flagged by the placements for these pages. Areas are the book's printed table figures (Table 2).
 
@@ -84,3 +90,7 @@ Afghanistan's own way (Afghanistan Grade 10 Geography (Dari)): the upper-seconda
 Afghanistan's own way (Afghanistan Grade 4 Social Studies (Dari)): primary social studies starts from the child's own world — family, village, city — and only then opens the map: directions, Afghanistan's boundaries and mountains and rivers, the continents and oceans, and finally the Earth's shape, equator, latitude/longitude and movements.
 
 Yemen's own way (Yemen Grade 7 G7 Principles of Physical Geography): from Grade 7 the subject splits — this book is pure physical geography organised by the Earth's spheres (atmosphere, lithosphere, hydrosphere, biosphere), opened by map skills and Earth-and-space.
+
+Pakistan's own way (Pakistan Grade 7 Geography 7): a dedicated English-medium Geography book built entirely on Pakistan's own physical and economic geography — the Indus plain and delta, the canal system, Rabi/Kharif crops, Sui gas, Thar coal, Khewra salt and Tarbela power — with world concepts (river courses, settlement hierarchy, greenhouse effect, mining types) taught through Pakistani examples first.
+
+Pakistan's own way (Pakistan Grade 8 Geography 8): the Urdu-medium twin of the English Geography course — deep map-and-graph craft first (dot and choropleth maps of Pakistan itself), then landform agents, oceans, a full Pakistan-anchored disaster chapter, the world's natural regions, Pakistan's own climate, its four neighbouring regions and strategic place, underdevelopment with Pakistan's own causes, and modern techniques down to Pak Sat-1.

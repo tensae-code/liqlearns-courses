@@ -103,7 +103,7 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **2262**
+Geography lessons across the eight Geography titles: **2348**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -1560,3 +1560,66 @@ Economic Order, Classifying The Contemporary World
 North And South and Energy And Its Challenges.
 (All 92 of the new lessons are taught in 1 country
 (Yemen); all stand on student books.)
+
++86 for Pakistan, 2026-11-15 — Earth and Space: How
+Ocean Water Moves Waves, Metamorphic Rocks Changed By
+Heat And Pressure, Sedimentary Rocks Layer On Layer,
+The Ocean Floor and The Shapes Of Seas And Coasts; The
+Land and Air: Climate Shapes Human Life, Coastal
+Landforms Caves Arches Stacks And Beaches, How The Sea
+Shapes The Coast, Landforms Made By Glaciers, Layers Of
+The Rainforest, Life In Pakistans Physical Regions,
+Natural Vegetation And Climate, Pakistans Climatic
+Regions, Pakistans Forests, Pakistans Major Landforms
+Mountains Plateaus Plains Deserts Coast, Pakistans
+Mountain Ranges, Pakistans Physical Regions Mountains,
+Pakistans Physical Regions Plateaus Plains Deserts
+Coast, Pakistans Seasons, Plate Boundaries Convergent
+Divergent Transform, Plateaus And Their Types, Sand
+Dunes Shapes Of Piled Sand, The Mediterranean Region,
+The Monsoon Region, The Tundra Region, The Worlds
+Forests, Why Pakistans Northern Mountains Matter and
+Wind Erosion And Desert Landforms; Population,
+Transport and Maps: Central Asia And The ECO, Choosing
+A Site For A Settlement, Computer Models In Geography,
+Conurbation And Megalopolis, Modern Tools At Work,
+Pakistan And China, Pakistan And South Asia, Rural Life
+Advantages And Disadvantages, Showing Data With Graphs,
+The Middle East Oil And Pakistan, What Settlements Do
+Functions Of Places and Why Pakistans Location Matters;
+People and Resources: Alternative Energy In Pakistan,
+Biogas Energy From Waste, Dams Storing River Water For
+Farms And Power, Industries That Run On Minerals And
+Power, Mineral Rich Areas And Rare Minerals Of
+Pakistan, Pakistans Minerals Iron Salt And Stone,
+Pakistans Minerals Oil Gas And Coal, Rivers In The
+Economy, Rocks In Pakistans Economy, Water Sources On
+Earth And In Pakistan and What Rocks Are Used For;
+Culture and Work: Evaluating An Agricultural Project,
+Farming Methods Agroforestry Rotation Intercropping,
+Pakistan An Agricultural Country, Pakistans Main Crops
+Rabi And Kharif and Raw Materials From Farming And
+Fishery; Resources and Conflict: Fossil Fuels For
+Power; Global Issues: Climate Change Events Around The
+World, Controlling Floods, Cutting Environmental
+Pollution, Cyclones On Pakistans Coast, Deforestation
+And How To Stop It, Desertification When Land Turns To
+Desert, Drought Famine Cyclones And Tsunami, Erosion
+Caused By People, Floods Pakistans Commonest Disaster,
+Forest Fires In Pakistan, How Forests Help The
+Environment, Human Activities That Invite Disasters,
+Livestock Farming And The Environment, Making Water
+Safe To Drink, Managing Disasters Forecast Monitor
+Recover, Natural Disasters Cyclones Landslides
+Earthquakes Floods, Natural Disasters Floods
+Earthquakes Cyclones Avalanches, Pakistan On A Fault
+Line, Pollution Air Water Soil And Noise, Primary And
+Secondary Impacts Of Disasters, Staying Safe Before
+During And After A Natural Disaster, The Amazon The
+Worlds Greatest Rainforest, The Risks Of Coal Mining,
+Using Sewage And Grey Water, Volcanoes And Landslides
+In Pakistan, What Disasters Do, What Holds A Country
+Back, When Warming Feeds Disaster and Why Pakistan Is
+Underdeveloped.
+(All 86 of the new lessons are taught in 1 country
+(Pakistan); all stand on student books.)

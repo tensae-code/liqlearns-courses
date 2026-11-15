@@ -1,6 +1,6 @@
 # Sources — Weather today, climate in general
 
-countries: Ethiopia, Guyana, Bahamas, Papua New Guinea, Syria, Venezuela
+countries: Ethiopia, Guyana, Bahamas, Papua New Guinea, Syria, Venezuela, Pakistan
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Guyana, Bahamas, Papua New Guinea, Syria, Venezuela
 
 **Book 8:** *¡Viva Venezuela! Ciencias Sociales 2do Grado* (student book, Spanish) — Ministerio del Poder Popular para la Educación / Colección Bicentenario; year 2014 (fourth edition, April 2014); ISBN 978-980-218-298-5. Title as printed: ¡Viva Venezuela! Ciencias Sociales 2do Grado. Grade: Grade 2 (student/teacher: STUDENT). PDF pages: 75 (printed pages run to 144 in spreads; cover/title page verified against the record title; release grab size-verified by grab.py). Verdict: COMPLETE. (Combined book — Geography parts placed below; parts named, not placed — History parts named, not placed: Los que llegaron por el mar a Nuestra América (printed p. 83); Con la fundación de ciudades nace un país distinto (p. 88); fundación de Caracas y los pueblos indígenas (p. 92); Coro, una ciudad con la historia a cuestas (p. 98); Cuando Venezuela fue un país de grandes cacaos (p. 104); Primeras luchas contra el yugo español / Miranda / 19 de abril de 1810 / 5 de julio de 1811 / Carabobo / Colombia la grande (pp. 108–128); La casa de Simón Bolívar (p. 36).; Civics/culture parts named, not placed: Necesario es fortalecer la identidad venezolana (p. 56); La Bandera Nacional (p. 122); San Juan Congo (p. 106, Afro-Venezuelan festival).) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/venezuela-placements.md.
 
+**Book 9:** *معاشرتی علوم جماعت پنجم (Social Studies, Class 5), Single National Curriculum 2020* (student book, Urdu with English topic glosses) — Punjab Curriculum and Textbook Board (PCTB), Lahore; year 2022; ISBN no ISBN printed. Title as printed: معاشرتی علوم جماعت پنجم (Social Studies, Class 5), Single National Curriculum 2020. Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 114 (cover/title page verified against the record title; this book is also the TSV blob-URL record — same repo path, one book). Verdict: COMPLETE. All Pakistan PCTB books are image-only scans (no text layer); read page-by-page from 90–100 DPI 4-up contact sheets, covers verified visually (placements file header: 3 books read in place from phase3-staging, 2 grabbed via grab.py tree route; the 4 Telegram link records are the same PCTB books already held in staging/GitHub, so no new download or staging arose from them). This book is also the TSV blob-URL record — same repo path, one book. Non-Geography parts named, not placed: Ch.1 Citizenship, printed pp. 1–9; Ch.2 Culture, pp. 10–24; Ch.3 State and Government, pp. 25–32; Ch.4 History, pp. 33–50; Ch.6 Economics, pp. 86–108; Glossary, p. 109 Placements at liqlearns-courses-work/expansion-geography-2026-11-14/pakistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Weather | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 2, printed pp. 37–39 |
@@ -29,8 +31,9 @@ countries: Ethiopia, Guyana, Bahamas, Papua New Guinea, Syria, Venezuela
 | Syria part — The weather bulletin (reading the daily weather) | Syria, *Syria Grade 3 Social Studies G3*, The weather bulletin (reading the daily weather) — printed p. 77 |
 | Syria part — A windy day (wind and weather) | Syria, *Syria Grade 2 Social Studies G2*, A windy day (wind and weather) — printed p. 78 |
 | Venezuela part — Cuando suenan las chicharras, ¿anuncian lluvia? (weather signs in nature) | Venezuela, *Venezuela Grade 2 G2 CS Viva Venezuela*, Cuando suenan las chicharras, ¿anuncian lluvia? (weather signs in nature) — printed p. 72 |
+| Pakistan part — Weather and Climate: reading a 7-day Islamabad weather report; world climate-zone map | Pakistan, *Pakistan Grade 5 SS5*, Weather and Climate: reading a 7-day Islamabad weather report; world climate-zone map — printed pp. 72–73 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Guyana, Bahamas, Syria, Venezuela). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 6 countries (Ethiopia, Guyana, Bahamas, Syria, Venezuela, Pakistan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Searchable tags: weather, climate, distinction, social studies
 
@@ -43,3 +46,5 @@ Syria's own way (Syria Grade 3 Social Studies G3): the Grade 3 book widens in ri
 Syria's own way (Syria Grade 2 Social Studies G2): the same widening-rings design as Grade 3 (Me → Me and You → My Safety → My Society → My Environment → My Homeland), with the Geography carried by the society/environment/homeland rings: Earth's inhabitants, building in the homeland, heritage, and an environment unit built on the land's beauty and riches, diverse nature, water drops and a windy day.
 
 Venezuela's own way (Venezuela Grade 2 G2 CS Viva Venezuela): population education (UNESCO population-education guides reworked) woven into story form — Tío Conejo tales, grandparents' memories and the child's own school and street carry population, housing, landscape and weather-sign content.
+
+Pakistan's own way (Pakistan Grade 5 SS5): the Class 5 Geography chapter (Ch.5, printed pp. 51–85) deepens the Class 4 spiral — same BOLTS, landforms, weather and population topics, but now with scale types, latitude/longitude and time-zone arithmetic, worked population-density calculations, and graph-drawing exercises from real Pakistani city data.

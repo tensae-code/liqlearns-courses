@@ -1,6 +1,6 @@
 # Sources — Continents — The Seven in Place
 
-countries: Ethiopia, Ecuador, Dominican Republic, Eritrea, India, North Macedonia, Slovenia, Sudan, Venezuela, Mauritania, Yemen
+countries: Ethiopia, Ecuador, Dominican Republic, Eritrea, India, North Macedonia, Slovenia, Sudan, Venezuela, Mauritania, Yemen, Pakistan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -34,6 +34,8 @@ countries: Ethiopia, Ecuador, Dominican Republic, Eritrea, India, North Macedoni
 
 **Book 16:** *جغرافية القارات للصف الثامن من مرحلة التعليم الأساسي (Geography of the Continents for Grade 8) — the record's short title is الجغرافيا (Geography)* (student book, Arabic) — Republic of Yemen, Ministry of Education; year 1438 AH / 2017 CE; ISBN no ISBN printed. Title as printed: جغرافية القارات للصف الثامن من مرحلة التعليم الأساسي (Geography of the Continents for Grade 8) — the record's short title is الجغرافيا (Geography). Grade: 8 (student/teacher: STUDENT). PDF pages: 107 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the Wayback Machine capture of its own recorded Yemen MoE source URL (the source_url in its books.json record) after the GitHub routes (grab.py release + tree) failed from the reader's host — the same ministry file the repo copies were taken from; cover/title page verified visually against the record title. TSV + books.json records for the same grade are the same book, placed once. Read note: image-only scan (no text layer); structure read from rendered contents and lesson pages. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/yemen-placements.md.
 
+**Book 17:** *معاشرتی علوم جماعت چہارم (Social Studies, Class 4), Single National Curriculum 2020* (student book, Urdu with English topic glosses) — Punjab Curriculum and Textbook Board (PCTB), Lahore; year 2022 (printing table on contents page); ISBN no ISBN printed. Title as printed: معاشرتی علوم جماعت چہارم (Social Studies, Class 4), Single National Curriculum 2020. Grade: Grade 4 (student/teacher: STUDENT). PDF pages: 108 (cover/title page verified against the record title). Verdict: COMPLETE. All Pakistan PCTB books are image-only scans (no text layer); read page-by-page from 90–100 DPI 4-up contact sheets, covers verified visually (placements file header: 3 books read in place from phase3-staging, 2 grabbed via grab.py tree route; the 4 Telegram link records are the same PCTB books already held in staging/GitHub, so no new download or staging arose from them). Non-Geography parts named, not placed: Ch.1 Citizenship and Human Rights, printed pp. 1–14; Ch.2 Culture (incl. Diversity and Tolerance), pp. 15–26; Ch.3 State and Government, pp. 27–44; Ch.4 History, pp. 45–60; Ch.6 Economics, pp. 94–104; Glossary, p. 105 Placements at liqlearns-courses-work/expansion-geography-2026-11-14/pakistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Asia — the largest | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 3–4 |
@@ -51,6 +53,7 @@ countries: Ethiopia, Ecuador, Dominican Republic, Eritrea, India, North Macedoni
 | Venezuela part — Nuestra Venezuela está en América del Sur | Venezuela, *Venezuela Grade 1 G1 CS Viva Venezuela*, Nuestra Venezuela está en América del Sur — printed p. 115 |
 | Mauritania part — Unit 6 Lesson 13: the continents | Mauritania, *Mauritania Grade 6 geo-6af-m*, Unit 6 Lesson 13: the continents — printed p. 45 |
 | Yemen part — Unit 1 Lesson 1 Land (the Continents) | Yemen, *Yemen Grade 8 G8 Geography of the Continents*, Unit 1 Lesson 1 Land (the Continents) — printed p. 8 |
+| Pakistan part — Continents (seven continents named on the world map) | Pakistan, *Pakistan Grade 4 SS4*, Continents (seven continents named on the world map) — printed p. 62 |
 
 | Sub lesson 4 — Africa and Antarctica — Grade 11 portraits (Grade 11 depth) | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 1, printed pp. 17–18 |
 | Sub lesson 5 — Asia, Europe and Australia — Grade 11 portraits (Grade 11 depth) | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 1, printed pp. 17–18 |
@@ -60,7 +63,7 @@ countries: Ethiopia, Ecuador, Dominican Republic, Eritrea, India, North Macedoni
 | Dominican Republic part (Grade 6) — The continents of the Earth: how they formed (Unidad 2) | Dominican Republic, *Ciencias Sociales, Sexto Grado, Primaria (Libro Abierto)*, Grade 6, The continents of the Earth: how they formed (Unidad 2) — printed p. 29 |
 | Dominican Republic part (Grade 3) — I know the continents: I live on a continent | Dominican Republic, *Ciencias Sociales, Tercer Grado, Primaria (Libro Abierto)*, Grade 3, I know the continents: I live on a continent — printed p. 18 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Ecuador, Dominican Republic, Eritrea, India, North Macedonia, Slovenia, Sudan, Venezuela, Mauritania, Yemen).**
+**Acceptance count: taught in 12 countries (Ethiopia, Ecuador, Dominican Republic, Eritrea, India, North Macedonia, Slovenia, Sudan, Venezuela, Mauritania, Yemen, Pakistan).**
 
 Pairing warning: the Grade 8 teacher guide is an Addis Ababa bureau book and the student book is an Amhara bureau book; they are NOT edition-matched, and the guide in hand is truncated (printed pp. 1–47 only, Units 1–3). Pupil content in this lesson comes from the Amhara student book; anything from the guide is labelled (teacher guide — evidence) and never presented as pupil-taught.
 
@@ -91,3 +94,5 @@ Venezuela's own way (Venezuela Grade 1 G1 CS Viva Venezuela): critical, question
 Mauritania's own way (Mauritania Grade 6 geo-6af-m): The final primary book turns outward: five of its six units place Mauritania inside its organisations — the Arab Maghreb Union, the Senegal River organisation (OMVS), the Arab League, the African Union, the Sahel drought committee (CILSS), the Organisation of Islamic Cooperation — and inside the industrial world (Europe, North America, the industrial East), before a closing world unit on continents, oceans, seas, rivers and straits.
 
 Yemen's own way (Yemen Grade 8 G8 Geography of the Continents): Grade 8 tours the continents one by one — natural features, population, economic activities — with one country studied in depth per continent (Indonesia, Eritrea, Germany, the USA, Brazil), and closes on contemporary world issues.
+
+Pakistan's own way (Pakistan Grade 4 SS4): one combined Social Studies book in Urdu where the Geography chapter (Ch.5, printed pp. 61–93) works entirely through Pakistan's own map, landforms, weather and census, with BOLTS as the map-elements mnemonic and "I have learnt!" / "Work for me to do" boxes closing every topic.

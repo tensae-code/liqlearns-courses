@@ -1,6 +1,6 @@
 # Sources — GIS — maps that answer questions
 
-countries: Ethiopia, Haiti, Bangladesh, Egypt, Sudan, Syria, Afghanistan
+countries: Ethiopia, Haiti, Bangladesh, Egypt, Sudan, Syria, Afghanistan, Pakistan
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Haiti, Bangladesh, Egypt, Sudan, Syria, Afghanistan
 
 **Book 8:** *جغرافيه صنف ١٠ (Geography, Grade 10)* (student book, Dari) — Ministry of Education, Afghanistan; year 1398 HS (2019/20) as printed; ISBN no ISBN printed. Title as printed: جغرافيه صنف ١٠ (Geography, Grade 10). Grade: 10 (student/teacher: STUDENT). PDF pages: 238 (cover verified against the record title; 19,615,315 bytes = release asset size). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/afghanistan-placements.md.
 
+**Book 9:** *GEOGRAPHY 6 — Based on Single National Curriculum 2022 (ONE NATION, ONE CURRICULUM)* (student book, English) — Punjab Curriculum and Textbook Board (PCTB), Lahore; SNC 2022, Experimental Edition, 1st edition March 2022; author Mr. Salman Munir; prepared by Javed Publishers, Lahore; ISBN no ISBN printed. Title as printed: GEOGRAPHY 6 — Based on Single National Curriculum 2022 (ONE NATION, ONE CURRICULUM). Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 89 (21,533,299 bytes — exactly the record size; the GitHub release/tree copies could not be found, so the book was re-downloaded from the record's own source, the freebooks.pk Google Drive file, and verified byte-for-byte against the record; image-only scan, read page by page from contact sheets). Verdict: COMPLETE. The GitHub release/tree copies could not be found, so the book was re-downloaded from the record's own source, the freebooks.pk Google Drive file, and verified byte-for-byte against the record (21,533,299 bytes — exactly the record size); image-only scan, read page by page from contact sheets. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/pakistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What GIS is | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 8, printed pp. 230–231 |
@@ -30,8 +32,9 @@ countries: Ethiopia, Haiti, Bangladesh, Egypt, Sudan, Syria, Afghanistan
 | Sudan part — Geographic Information Systems: concept and importance (Unit 4 objectives) | Sudan, *Sudan Grade 10 SD Geography 10*, Geographic Information Systems: concept and importance (Unit 4 objectives) — printed p. 180 |
 | Syria part — Geographical Information Systems (GIS) | Syria, *Syria Grade 7 Geography G7 عالم الجغرافية*, Geographical Information Systems (GIS) — printed p. 36 |
 | Afghanistan part — Ch. 1 Lesson 6: using satellite photographs | Afghanistan, *Afghanistan Grade 10 Geography (Dari)*, Ch. 1 Lesson 6: using satellite photographs — printed p. 18 |
+| Pakistan part — Modern techniques in Geography: GIS, the computer-based capture and display of geographical information; cartography | Pakistan, *Pakistan Grade 6 Geography 6*, Modern techniques in Geography: GIS, the computer-based capture and display of geographical information; cartography — printed p. 16 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Bangladesh, Egypt, Sudan, Syria, Afghanistan). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 7 countries (Ethiopia, Bangladesh, Egypt, Sudan, Syria, Afghanistan, Pakistan). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
 
 Haiti's own way (teacher sequence — evidence): Geography opens with representing the Earth itself — globe-to-flat projection problems, orientation practised on the ground with compass/GPS/Google Maps, and time-zone puzzles worked on Haiti's own links (midday shared with Québec, 18h in Paris, Port-au-Prince–Paris flights); every séance ends in a croquis, a glossary and field observation. That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
@@ -48,3 +51,5 @@ Sudan's own way (Sudan Grade 10 SD Geography 10): A second-edition foundations b
 Syria's own way (Syria Grade 7 Geography G7 عالم الجغرافية): a pure Geography book built entirely around activity lessons with story-style titles ("Mother of sciences", "Stones from the sky", "The origami art" for folding, "A tourist in my homeland"); technology first — aerial photos, GPS, remote sensing and GIS open the book before any physical geography — and each semester closes with student/teacher-designed lessons and an end-of-semester project.
 
 Afghanistan's own way (Afghanistan Grade 10 Geography (Dari)): the upper-secondary pattern changes from continent tours to themes studied in depth through Afghanistan itself: a full map-skills chapter (map types, scale, colour, projection, satellite photos), Afghanistan's climate and each of its river basins one by one (Amu, Kabul, Helmand–Sistan, Harirud, the closed basins), an environment-protection chapter aimed at Kabul's air and streets, a natural-hazards chapter, then earth-and-space and atmosphere chapters.
+
+Pakistan's own way (Pakistan Grade 6 Geography 6): world physical Geography taught through Pakistan's own land — its fault lines and 1935/2005 earthquakes, Khewra salt and Thar coal among the rocks, K2 and the Karakoram among the mountains, Pakistan's four climatic regions, its six forest types from mangrove to alpine, and the Indus flood as the country's defining disaster.

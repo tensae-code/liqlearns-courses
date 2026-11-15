@@ -1,6 +1,6 @@
 # Sources — Biodiversity — the variety of life, under threat
 
-countries: Ethiopia, Nauru, Tuvalu, Niue, Guatemala, Ecuador, Angola, Bangladesh, Indonesia, Colombia, India, Cambodia, Fiji, Slovenia, Papua New Guinea, Venezuela, Sri Lanka
+countries: Ethiopia, Nauru, Tuvalu, Niue, Guatemala, Ecuador, Angola, Bangladesh, Indonesia, Colombia, India, Cambodia, Fiji, Slovenia, Papua New Guinea, Venezuela, Sri Lanka, Pakistan
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -48,6 +48,8 @@ countries: Ethiopia, Nauru, Tuvalu, Niue, Guatemala, Ecuador, Angola, Bangladesh
 
 **Book 23:** *புவியியல், தரம் 6 (Geography, Grade 6)* (student book, Tamil) — Educational Publications Department (கல்வி வெளியீட்டுத் திணைக்களம்); first print 2006, second edition 2007 (imprint page; print code 2008/T/696/1,38,000); no ISBN printed. Title as printed: புவியியல், தரம் 6 (Geography, Grade 6). Grade: 6 (student/teacher: STUDENT). PDF pages: 60 (Noolaham scan; cover verified — Tamil title and Grade 6 match the record; grabbed via grab.py from the GitHub release URL, 33,875,044 bytes, size-verified; image-only scan read page by page on contact sheets). Verdict: COMPLETE — NOTE: this 2007-edition Tamil book is NOT a translation of the 2014 English Grade 6 book (Book 2); it is the older syllabus with a different chapter order, so it is placed separately.. Carried exactly as the placements file labels it: this 2007-edition Tamil book is NOT a translation of the 2014 English Grade 6 book (key 2); it is the older syllabus with a different chapter order, so it is placed separately. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sri-lanka-placements.md.
 
+**Book 24:** *GEOGRAPHY 7 — Based on Single National Curriculum 2022 (ONE NATION, ONE CURRICULUM)* (student book, English) — Punjab Curriculum and Textbook Board (PCTB), Lahore; SNC 2022, Experimental Edition; author Muhammad Ramzan Khan; ISBN no ISBN printed. Title as printed: GEOGRAPHY 7 — Based on Single National Curriculum 2022 (ONE NATION, ONE CURRICULUM). Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 93 (read in place from phase3-staging; image-only scan, read page by page from contact sheets; cover and contents verified against the record). Verdict: COMPLETE. Read in place from phase3-staging; image-only scan, read page by page from contact sheets; cover and contents verified against the record. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/pakistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Variety at every scale | G12 student #63, printed pp. 157–159 |
@@ -80,8 +82,9 @@ countries: Ethiopia, Nauru, Tuvalu, Niue, Guatemala, Ecuador, Angola, Bangladesh
 | Venezuela part — La biodiversidad venezolana y la gente | Venezuela, *Venezuela Grade 5 G5 CS Venezuela y Su Gente*, La biodiversidad venezolana y la gente — printed p. 40 |
 | Sri Lanka part — Ch. 2 Plant and animal diversity around the house (local birds and plants of the home garden) | Sri Lanka, *Sri Lanka Grade 6 G6 English*, Ch. 2 Plant and animal diversity around the house (local birds and plants of the home garden) — printed p. 24 |
 | Sri Lanka part — Ch. 3.2.3 தாவரங்களும் விலங்குகளும் (Plants and animals) of the home surroundings | Sri Lanka, *Sri Lanka Grade 6 G6 Tamil 2007*, Ch. 3.2.3 தாவரங்களும் விலங்குகளும் (Plants and animals) of the home surroundings — printed p. 26 |
+| Pakistan part — Importance of rivers in biodiversity: rivers as habitats connecting fish, birds, mammals and delta life | Pakistan, *Pakistan Grade 7 Geography 7*, Importance of rivers in biodiversity: rivers as habitats connecting fish, birds, mammals and delta life — printed p. 10 |
 
-**Acceptance count: taught in 16 countries (Ethiopia, Nauru, Tuvalu, Niue, Guatemala, Ecuador, Angola, Bangladesh, Indonesia, Colombia, India, Cambodia, Fiji, Slovenia, Venezuela, Sri Lanka). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 17 countries (Ethiopia, Nauru, Tuvalu, Niue, Guatemala, Ecuador, Angola, Bangladesh, Indonesia, Colombia, India, Cambodia, Fiji, Slovenia, Venezuela, Sri Lanka, Pakistan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -130,3 +133,5 @@ Venezuela's own way (Venezuela Grade 5 G5 CS Venezuela y Su Gente): the Geograph
 Sri Lanka's own way (Sri Lanka Grade 6 G6 English): geography starts from the child's own school and home — location in the Grama Niladhari → Divisional Secretariat → District → Province hierarchy, a plan of the school garden, home-made weather instruments, and care of the home surroundings — before widening to Sri Lanka's location in the world in the final chapter.
 
 Sri Lanka's own way (Sri Lanka Grade 6 G6 Tamil 2007): dialogue-driven lessons (teacher–pupil conversations) that open with Sri Lanka's location and a comparison with the world's other islands, then work through the home and its surroundings, caring for that environment, and finish with map-making and scale.
+
+Pakistan's own way (Pakistan Grade 7 Geography 7): a dedicated English-medium Geography book built entirely on Pakistan's own physical and economic geography — the Indus plain and delta, the canal system, Rabi/Kharif crops, Sui gas, Thar coal, Khewra salt and Tarbela power — with world concepts (river courses, settlement hierarchy, greenhouse effect, mining types) taught through Pakistani examples first.

@@ -1,6 +1,6 @@
 # Sources — The sustainability challenge — energy, wealth and green design
 
-countries: Ethiopia, France, Malaysia, Papua New Guinea
+countries: Ethiopia, France, Malaysia, Papua New Guinea, Pakistan
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, France, Malaysia, Papua New Guinea
 
 **Book 6:** *Geography — Upper Secondary Teacher Guide* (teacher guide, English) — Department of Education, Papua New Guinea; year 2008; ISBN 978-9980-9924-1-3. Title as printed: Geography — Upper Secondary Teacher Guide. Grade: Grades 11–12 (student/teacher: TEACHER). PDF pages: 57 (cover/title page verified against the record title). Verdict: COMPLETE. Teacher guides read full page-by-page via pdftotext -layout after cover verification; books were fetched from their recorded ministry source_urls (education.gov.pg, as recorded in the books.json records) with resumable curl and each file was verified against the record's exact size_bytes and page count before reading — identical bytes to the pushed copies by size + pages + cover, as the placements file records. Records: 22 records / 11 distinct books (11 TSV records + 11 books.json records that are the same books by repo path — each pair read once). (Non-Geography parts: none — pure Geography guide; the long assessment/recording sections are pedagogy, not subject content.) Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/papua-new-guinea-placements.md.
 
+**Book 7:** *GEOGRAPHY 7 — Based on Single National Curriculum 2022 (ONE NATION, ONE CURRICULUM)* (student book, English) — Punjab Curriculum and Textbook Board (PCTB), Lahore; SNC 2022, Experimental Edition; author Muhammad Ramzan Khan; ISBN no ISBN printed. Title as printed: GEOGRAPHY 7 — Based on Single National Curriculum 2022 (ONE NATION, ONE CURRICULUM). Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 93 (read in place from phase3-staging; image-only scan, read page by page from contact sheets; cover and contents verified against the record). Verdict: COMPLETE. Read in place from phase3-staging; image-only scan, read page by page from contact sheets; cover and contents verified against the record. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/pakistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Wealth burns energy | G12 student #67, printed pp. 165–170 |
@@ -22,10 +24,11 @@ countries: Ethiopia, France, Malaysia, Papua New Guinea
 | Papua New Guinea part — Strand 5 Unit 1, Topics 3–5: Common fuels; fossil fuels; alternative fuels (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 9 Social Science TG* (teacher guide), Strand 5 Unit 1, Topics 3–5: Common fuels; fossil fuels; alternative fuels — printed p. 237 |
 | Papua New Guinea part — Strand 5 Unit 1, Topics 2–4: Impact of energy and resource use on the environment; energy consumption and living standards; resource consumption (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 10 Social Science TG* (teacher guide), Strand 5 Unit 1, Topics 2–4: Impact of energy and resource use on the environment; energy consumption and living standards; resource consumption — printed p. 250 |
 | Papua New Guinea part — Unit 12.1 Resource Use and Management: fossil fuels and their environmental effects; alternate energy sources — geothermal, hydro-electricity (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 12 Geography TG OBE* (teacher guide), Unit 12.1 Resource Use and Management: fossil fuels and their environmental effects; alternate energy sources — geothermal, hydro-electricity — printed p. 36 |
+| Pakistan part — Importance of alternative energy sources for the environment: a fuel supply that never runs out, zero carbon emissions, clean air and water, cheaper electricity and new jobs | Pakistan, *Pakistan Grade 7 Geography 7*, Importance of alternative energy sources for the environment: a fuel supply that never runs out, zero carbon emissions, clean air and water, cheaper electricity and new jobs — printed p. 83 |
 
 | France part — Thème 1: La consommation d'énergie dans le monde (fossiles, renouvelables, développement) | France, *Géographie 2de GT, Manuel Libre de Géographie, Seconde*, Grade 10, Sommaire Thème 1 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, France, Malaysia). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 4 countries (Ethiopia, France, Malaysia, Pakistan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 No book error in the placements for this lesson is taught here. Figures and dates are taught exactly as the placements report them, as the book's own record.
 
@@ -38,3 +41,5 @@ Papua New Guinea's own way (Papua New Guinea Grade 9 Social Science TG) (teacher
 Papua New Guinea's own way (Papua New Guinea Grade 10 Social Science TG) (teacher guide — evidence): Grade 10 Geography is a population course — population pyramids in depth, world physical geography's effects on settlement, density and economic activity, then PNG-only migration (types, internal migration, routes and trends) and PNG's land-mobilisation questions (undeveloped land, Special Agricultural Business Leases, land grabbing). That evidence is stocked here as the way Papua New Guinea teaches this thing; it does not change the acceptance count above.
 
 Papua New Guinea's own way (Papua New Guinea Grades 11–12 Geography TG OBE) (teacher guide — evidence): an outcomes-based guide — it prescribes no lesson scripts; for each syllabus unit it lists suggested learning activities and assessment tasks built around the local environment (soil profiles, local hazard sites, a PNG mine and logging case study, a transect along latitude 6°S), with fieldwork and geographical inquiry as the core skills. That evidence is stocked here as the way Papua New Guinea teaches this thing; it does not change the acceptance count above.
+
+Pakistan's own way (Pakistan Grade 7 Geography 7): a dedicated English-medium Geography book built entirely on Pakistan's own physical and economic geography — the Indus plain and delta, the canal system, Rabi/Kharif crops, Sui gas, Thar coal, Khewra salt and Tarbela power — with world concepts (river courses, settlement hierarchy, greenhouse effect, mining types) taught through Pakistani examples first.

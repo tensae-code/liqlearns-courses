@@ -1,6 +1,6 @@
 # Sources — Map Scale — Converting Scales
 
-countries: Ethiopia, Malaysia, Eritrea
+countries: Ethiopia, Malaysia, Eritrea, Pakistan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Malaysia, Eritrea
 
 **Book 4:** *Social Studies for Grade 6 — Pupils' Book* (student book, English) — Eritrea, Ministry of Education, The State of Eritrea; year 2015 (reprinted 2015, Sabur Printing Services, Asmara); ISBN 99948-1-453-2. Title as printed: Social Studies for Grade 6 — Pupils' Book. Grade 6 (student/teacher: STUDENT). PDF pages: 127 (cover/title page verified against the record title; 2,730,732 bytes, matches record size_bytes). Verdict: COMPLETE. Records note: 7 records / 5 distinct books; the TSV release records for Grades 4 and 5 duplicate the books.json tree records of the same repo path (one book each); read via grab (curl-based GitHub API route with byte-size + blob-SHA verification), covers verified by render, full text read via pdftotext -layout. Combined Social Studies books: Geography parts placed; History/Civics parts named in each book header only. Named, not placed — History parts (named, not placed): Unit 1 Sources, printed p. 1; Unit 2 Measuring Time, printed p. 8; Unit 8 Eritrea 900 B.C.E–1300 C.E, printed p. 60; Unit 9 The Period of the Bahri Negestat, printed p. 68 Civics / life-skills parts (named, not placed): Unit 13 Caring for Younger Children, printed p. 111 Placements at liqlearns-courses-work/expansion-geography-2026-11-14/eritrea-placements.md.
 
+**Book 5:** *معاشرتی علوم جماعت پنجم (Social Studies, Class 5), Single National Curriculum 2020* (student book, Urdu with English topic glosses) — Punjab Curriculum and Textbook Board (PCTB), Lahore; year 2022; ISBN no ISBN printed. Title as printed: معاشرتی علوم جماعت پنجم (Social Studies, Class 5), Single National Curriculum 2020. Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 114 (cover/title page verified against the record title; this book is also the TSV blob-URL record — same repo path, one book). Verdict: COMPLETE. All Pakistan PCTB books are image-only scans (no text layer); read page-by-page from 90–100 DPI 4-up contact sheets, covers verified visually (placements file header: 3 books read in place from phase3-staging, 2 grabbed via grab.py tree route; the 4 Telegram link records are the same PCTB books already held in staging/GitHub, so no new download or staging arose from them). This book is also the TSV blob-URL record — same repo path, one book. Non-Geography parts named, not placed: Ch.1 Citizenship, printed pp. 1–9; Ch.2 Culture, pp. 10–24; Ch.3 State and Government, pp. 25–32; Ch.4 History, pp. 33–50; Ch.6 Economics, pp. 86–108; Glossary, p. 109 Placements at liqlearns-courses-work/expansion-geography-2026-11-14/pakistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Fraction to statement | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 30–31 |
@@ -17,8 +19,9 @@ countries: Ethiopia, Malaysia, Eritrea
 | Sub lesson 3 — Line to statement — and practice | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 30–31 |
 | Malaysia part (MY T4 Geografi Tingkatan 4) — Bab 2.1 Skala, Jarak dan Luas: types of scale | Malaysia, *MY T4 Geografi*, Bab 2.1 Skala, Jarak dan Luas: types of scale — printed pp. 14-17 |
 | Eritrea part (ER G6 Social Studies) — Unit 3: how to convert scales | Eritrea, *ER G6 Social Studies*, Unit 3: how to convert scales — printed p. 18 |
+| Pakistan part — Types of scale: linear, statement and fractional/ratio scale (1:253,440) | Pakistan, *Pakistan Grade 5 SS5*, Types of scale: linear, statement and fractional/ratio scale (1:253,440) — printed p. 54 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Malaysia, Eritrea).**
+**Acceptance count: taught in 4 countries (Ethiopia, Malaysia, Eritrea, Pakistan).**
 
 Pairing warning: the Grade 8 teacher guide is an Addis Ababa bureau book and the student book is an Amhara bureau book; they are NOT edition-matched, and the guide in hand is truncated (printed pp. 1–47 only, Units 1–3). Pupil content in this lesson comes from the Amhara student book; anything from the guide is labelled (teacher guide — evidence) and never presented as pupil-taught.
 
@@ -27,3 +30,5 @@ Searchable tags: map scale   converting scales, ethiopia, social studies, the la
 Malaysia's own way (MY T4 Geografi Tingkatan 4): upper-secondary Geography is a full topographic-map apprenticeship (bearings, area, cross-sections, landscape reading) followed by process geography — plates, rocks, weathering, mass movement, rivers and coasts — and a world-scale human geography of population, migration, settlements and urbanisation.
 
 Eritrea's own way (ER G6 Social Studies): one integrated Social Studies book per grade weaving History, Geography, Civics and Culture strands; Geography is taught through Eritrea itself first (Eritrea's location and size, Eritrean settlement, migration and disasters) with very practical, activity-led lessons.
+
+Pakistan's own way (Pakistan Grade 5 SS5): the Class 5 Geography chapter (Ch.5, printed pp. 51–85) deepens the Class 4 spiral — same BOLTS, landforms, weather and population topics, but now with scale types, latitude/longitude and time-zone arithmetic, worked population-density calculations, and graph-drawing exercises from real Pakistani city data.

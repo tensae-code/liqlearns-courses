@@ -1,6 +1,6 @@
 # Sources — Rural settlement patterns
 
-countries: Ethiopia, Turkey, Haiti, Palestine, Bangladesh, Indonesia, Malaysia, Eritrea, India, Cambodia, Fiji, Slovenia, Papua New Guinea, Uganda, Syria, Venezuela, Sri Lanka, Mauritania, Afghanistan, Iran, Yemen
+countries: Ethiopia, Turkey, Haiti, Palestine, Bangladesh, Indonesia, Malaysia, Eritrea, India, Cambodia, Fiji, Slovenia, Papua New Guinea, Uganda, Syria, Venezuela, Sri Lanka, Mauritania, Afghanistan, Iran, Yemen, Pakistan
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -56,6 +56,8 @@ countries: Ethiopia, Turkey, Haiti, Palestine, Bangladesh, Indonesia, Malaysia, 
 
 **Book 27:** *جغرافية اليمن والوطن العربي للصف الثاني الثانوي (Geography of Yemen and the Arab Homeland for the Second Secondary Grade = Grade 11)* (student book, Arabic) — Republic of Yemen, Ministry of Education; year 1438 AH / 2017 CE; ISBN no ISBN printed. Title as printed: جغرافية اليمن والوطن العربي للصف الثاني الثانوي (Geography of Yemen and the Arab Homeland for the Second Secondary Grade = Grade 11). Grade: 11 (student/teacher: STUDENT). PDF pages: 195 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the Wayback Machine capture of its own recorded Yemen MoE source URL (the source_url in its books.json record) after the GitHub routes (grab.py release + tree) failed from the reader's host — the same ministry file the repo copies were taken from; cover/title page verified visually against the record title. TSV + books.json records for the same grade are the same book, placed once. Non-Geography part named, not placed: Unit 2 Lesson 4 Population and Elections (civics, printed p. 53). Read note: legacy Arabic font encoding in the text layer; structure read from rendered contents and lesson pages. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/yemen-placements.md.
 
+**Book 28:** *GEOGRAPHY 7 — Based on Single National Curriculum 2022 (ONE NATION, ONE CURRICULUM)* (student book, English) — Punjab Curriculum and Textbook Board (PCTB), Lahore; SNC 2022, Experimental Edition; author Muhammad Ramzan Khan; ISBN no ISBN printed. Title as printed: GEOGRAPHY 7 — Based on Single National Curriculum 2022 (ONE NATION, ONE CURRICULUM). Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 93 (read in place from phase3-staging; image-only scan, read page by page from contact sheets; cover and contents verified against the record). Verdict: COMPLETE. Read in place from phase3-staging; image-only scan, read page by page from contact sheets; cover and contents verified against the record. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/pakistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The three patterns | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 4, printed pp. 104–107 |
@@ -86,8 +88,9 @@ countries: Ethiopia, Turkey, Haiti, Palestine, Bangladesh, Indonesia, Malaysia, 
 | Yemen part — Unit 1 Lesson 4 My Village | Yemen, *Yemen Grade 4 G4 Social Studies*, Unit 1 Lesson 4 My Village — printed p. 20 |
 | Yemen part — Unit 3 Lesson 3 Man Organises His Rural Space | Yemen, *Yemen Grade 10 G10 Geography of Man and the Environment*, Unit 3 Lesson 3 Man Organises His Rural Space — printed p. 65 |
 | Yemen part — Unit 2 Lesson 6 Settlement in Countryside and City | Yemen, *Yemen Grade 11 G11 Geography of Yemen and the Arab World*, Unit 2 Lesson 6 Settlement in Countryside and City — printed p. 64 |
+| Pakistan part — Settlements and their types: rural settlements (dispersed, nucleated, linear, planned) and urban settlements | Pakistan, *Pakistan Grade 7 Geography 7*, Settlements and their types: rural settlements (dispersed, nucleated, linear, planned) and urban settlements — printed pp. 29–31 |
 
-**Acceptance count: taught in 19 countries (Ethiopia, Turkey, Palestine, Bangladesh, Indonesia, Malaysia, Eritrea, India, Cambodia, Fiji, Slovenia, Uganda, Syria, Venezuela, Sri Lanka, Mauritania, Afghanistan, Iran, Yemen). Haiti is named here as teacher-sequence evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 20 countries (Ethiopia, Turkey, Palestine, Bangladesh, Indonesia, Malaysia, Eritrea, India, Cambodia, Fiji, Slovenia, Uganda, Syria, Venezuela, Sri Lanka, Mauritania, Afghanistan, Iran, Yemen, Pakistan). Haiti is named here as teacher-sequence evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Indonesia's own way (Grade 12): Grade 12 is applied human geography built entirely on Indonesian cases — regional development and spatial planning (tata ruang) measured against a Happiness Index, Industry 4.0 / Society 5.0, and Indonesia's own geopolitics and ASEAN-era cooperation as pillars of national resilience. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -140,3 +143,5 @@ Yemen's own way (Yemen Grade 4 G4 Social Studies): Grade 4 turns from the child'
 Yemen's own way (Yemen Grade 10 G10 Geography of Man and the Environment): secondary geography is thematic, not regional — man and space, man representing his geographic field (remote sensing, projections, maps), man organising it (rural/urban), climate and water, the dynamic Earth, and the great environmental systems.
 
 Yemen's own way (Yemen Grade 11 G11 Geography of Yemen and the Arab World): Grade 11 does Yemen in depth first (physical base, population and social development, economic resources), then the Arab world's physical geography, its people and resources, and finally its contemporary problems — water, food, poverty, illiteracy, integration.
+
+Pakistan's own way (Pakistan Grade 7 Geography 7): a dedicated English-medium Geography book built entirely on Pakistan's own physical and economic geography — the Indus plain and delta, the canal system, Rabi/Kharif crops, Sui gas, Thar coal, Khewra salt and Tarbela power — with world concepts (river courses, settlement hierarchy, greenhouse effect, mining types) taught through Pakistani examples first.

@@ -1,6 +1,6 @@
 # Sources — Human causes of climate change
 
-countries: Ethiopia, Jamaica, Malaysia, United Kingdom, Vietnam
+countries: Ethiopia, Jamaica, Malaysia, United Kingdom, Vietnam, Pakistan
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Jamaica, Malaysia, United Kingdom, Vietnam
 
 **Book 6:** *Chuyên đề học tập Địa lí 10* (student study-topics book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam (NXBGD); year 2022 (4th reprint); editor-in-chief Lê Huỳnh; ISBN 978-604-0-31084-2. Title as printed: CHUYÊN ĐỀ HỌC TẬP ĐỊA LÍ 10 — Kết nối tri thức với cuộc sống (Tái bản lần thứ tư). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 38 per the record (read as the publisher's 38 page images, printed pp. 2–35 plus covers; cover and contents verified against the record). Verdict: COMPLETE. Read from the record's own source — the NXBGD training site (taphuan.nxbgd.vn) reader, page by page as images — after the GitHub routes failed for all six books, as the placements file records; the page images are the publisher's own scans of the same books the records describe (titles, series and page counts match the records). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/vietnam-placements.md.
 
+**Book 7:** *GEOGRAPHY 7 — Based on Single National Curriculum 2022 (ONE NATION, ONE CURRICULUM)* (student book, English) — Punjab Curriculum and Textbook Board (PCTB), Lahore; SNC 2022, Experimental Edition; author Muhammad Ramzan Khan; ISBN no ISBN printed. Title as printed: GEOGRAPHY 7 — Based on Single National Curriculum 2022 (ONE NATION, ONE CURRICULUM). Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 93 (read in place from phase3-staging; image-only scan, read page by page from contact sheets; cover and contents verified against the record). Verdict: COMPLETE. Read in place from phase3-staging; image-only scan, read page by page from contact sheets; cover and contents verified against the record. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/pakistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Gases and particles from human hands | G12 student #29, printed pp. 43–45 |
@@ -23,8 +25,9 @@ countries: Ethiopia, Jamaica, Malaysia, United Kingdom, Vietnam
 | Malaysia part (MY T5 Geografi Tingkatan 5) — Bab 4.4: the influence of human activities on weather and climate (placement slug: global-issues/human-impact-on-climate) | Malaysia, *MY T5 Geografi*, Bab 4.4: the influence of human activities on weather and climate — printed pp. 72-76 |
 | United Kingdom part — §4.3 What are the human causes of climate change? | United Kingdom, *United Kingdom Grade 10 AQA Geography Student Book*, §4.3 What are the human causes of climate change? — printed p. 44 |
 | Vietnam part — Topic 10.1 (part): Human causes — the six Kyoto greenhouse gases (CO2 74.4% of emissions), where emissions come from (energy 50.4%, industry, farming, transport, buildings, waste) and who emits most (China, the USA, India, the EU...) | Vietnam, *Vietnam Grade 10 Chuyên đề 10*, Topic 10.1 (part): Human causes — the six Kyoto greenhouse gases (CO2 74.4% of emissions), where emissions come from (energy 50.4%, industry, farming, transport, buildings, waste) and who emits most (China, the USA, India, the EU...) — printed pp. 7–9 |
+| Pakistan part — Main causes of climate change: fossil-fuel burning since the Industrial Revolution (emissions by gas chart); reading past climate from ice cores, tree rings and sediments | Pakistan, *Pakistan Grade 7 Geography 7*, Main causes of climate change: fossil-fuel burning since the Industrial Revolution (emissions by gas chart); reading past climate from ice cores, tree rings and sediments — printed pp. 64–65 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Malaysia, United Kingdom, Vietnam). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 5 countries (Ethiopia, Malaysia, United Kingdom, Vietnam, Pakistan). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grade 6 Exploratory Core, curriculum guide — evidence): the Grade 6 Social Studies year is built as three paired terms — culture and independence first, then the physical world (mountains, landmasses and water bodies), then climate, Earth movements and the atmosphere, closing on Caribbean cooperation. That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
@@ -39,3 +42,5 @@ Malaysia's own way (MY T5 Geografi Tingkatan 5): the final form is the world's s
 United Kingdom's own way: A single exam-board (AQA) GCSE textbook organised as thematic units with numbered two-page spreads, every big topic anchored to a named case study (Typhoon Haiyan, Somerset Levels, Rio de Janeiro, Bristol, Nigeria, the Indus Basin, Lesotho Highlands) and a final unit on issue evaluation, fieldwork enquiries and cartographic/graphical/statistical skills.
 
 Vietnam's own way (Vietnam Grade 10 Chuyên đề 10): the elective companion goes deep on just three things — climate change, urbanisation, and how to write a geography report — and keeps pulling the world material back to Vietnam (a metre of sea-level rise would flood 10–12% of Vietnam's area; Hanoi and Ho Chi Minh City as the home examples of developing-world urbanisation).
+
+Pakistan's own way (Pakistan Grade 7 Geography 7): a dedicated English-medium Geography book built entirely on Pakistan's own physical and economic geography — the Indus plain and delta, the canal system, Rabi/Kharif crops, Sui gas, Thar coal, Khewra salt and Tarbela power — with world concepts (river courses, settlement hierarchy, greenhouse effect, mining types) taught through Pakistani examples first.

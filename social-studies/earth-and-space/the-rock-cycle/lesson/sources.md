@@ -1,16 +1,21 @@
 # Sources — The Rock Cycle
 
-countries: Papua New Guinea
+countries: Papua New Guinea, Pakistan
 
 **Book 1:** *Social Science Teacher Guide — Junior High Grade 10, Standards-Based* (teacher guide, English) — Department of Education, Papua New Guinea; year 2020; ISBN 978-9980-905-94-9. Title as printed: Social Science Teacher Guide — Junior High Grade 10, Standards-Based. Grade: Grade 10 (student/teacher: TEACHER). PDF pages: 338 (cover/title page verified against the record title). Verdict: COMPLETE. Teacher guides read full page-by-page via pdftotext -layout after cover verification; books were fetched from their recorded ministry source_urls (education.gov.pg, as recorded in the books.json records) with resumable curl and each file was verified against the record's exact size_bytes and page count before reading — identical bytes to the pushed copies by size + pages + cover, as the placements file records. Records: 22 records / 11 distinct books (11 TSV records + 11 books.json records that are the same books by repo path — each pair read once). (combined book — Geography parts placed below; non-Geography parts named in the placements, not placed: Strand 2 History (History), printed pp. 93–151; Strand 3 Political Science (Civics), printed pp. 152–195; Strand 4 Economics (Economics), printed pp. 196–249.) Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/papua-new-guinea-placements.md.
+
+**Book 2:** *GEOGRAPHY 6 — Based on Single National Curriculum 2022 (ONE NATION, ONE CURRICULUM)* (student book, English) — Punjab Curriculum and Textbook Board (PCTB), Lahore; SNC 2022, Experimental Edition, 1st edition March 2022; author Mr. Salman Munir; prepared by Javed Publishers, Lahore; ISBN no ISBN printed. Title as printed: GEOGRAPHY 6 — Based on Single National Curriculum 2022 (ONE NATION, ONE CURRICULUM). Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 89 (21,533,299 bytes — exactly the record size; the GitHub release/tree copies could not be found, so the book was re-downloaded from the record's own source, the freebooks.pk Google Drive file, and verified byte-for-byte against the record; image-only scan, read page by page from contact sheets). Verdict: COMPLETE. The GitHub release/tree copies could not be found, so the book was re-downloaded from the record's own source, the freebooks.pk Google Drive file, and verified byte-for-byte against the record (21,533,299 bytes — exactly the record size); image-only scan, read page by page from contact sheets. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/pakistan-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Strand 5 Unit 2 The Earth and Its Systems, Topic 1: The rock cycle (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 10 Social Science TG* (teacher guide), Strand 5 Unit 2 The Earth and Its Systems, Topic 1: The rock cycle — printed p. 258 |
 | Sub lesson 2 — Papua New Guinea's way — the book's own teaching way | Papua New Guinea — the books' own way of teaching (see below) |
+| Pakistan part — The rock cycle: how igneous, sedimentary and metamorphic rocks transform into one another | Pakistan, *Pakistan Grade 6 Geography 6*, The rock cycle: how igneous, sedimentary and metamorphic rocks transform into one another — printed pp. 12–13 |
 
-**Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (Papua New Guinea), named here, counted nowhere.**
+**Acceptance count: taught in 1 country (Pakistan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Papua New Guinea's own way (Papua New Guinea Grade 10 Social Science TG) (teacher guide — evidence): Grade 10 Geography is a population course — population pyramids in depth, world physical geography's effects on settlement, density and economic activity, then PNG-only migration (types, internal migration, routes and trends) and PNG's land-mobilisation questions (undeveloped land, Special Agricultural Business Leases, land grabbing). That evidence is stocked here as the way Papua New Guinea teaches this thing; it is cited as evidence only, outside acceptance counts.
 
 Searchable tags: the rock cycle, Papua New Guinea, teacher guide evidence, social studies, earth-and-space
+
+Pakistan's own way (Pakistan Grade 6 Geography 6): world physical Geography taught through Pakistan's own land — its fault lines and 1935/2005 earthquakes, Khewra salt and Thar coal among the rocks, K2 and the Karakoram among the mountains, Pakistan's four climatic regions, its six forest types from mangrove to alpine, and the Indus flood as the country's defining disaster.

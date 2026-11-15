@@ -1,6 +1,6 @@
 # Sources — The elements we measure
 
-countries: Ethiopia, Turkey, Eritrea, Fiji, Papua New Guinea, Venezuela, Mauritania
+countries: Ethiopia, Turkey, Eritrea, Fiji, Papua New Guinea, Venezuela, Mauritania, Pakistan
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Turkey, Eritrea, Fiji, Papua New Guinea, Venezuela, Maurita
 
 **Book 9:** *Al-Jughrafia — Kitab al-Tilmidh, lilsana al-Khamisa min al-Ta'lim al-Ibtida'i (Geography — Pupil's Book, Fifth Year of Primary Education)* (student book, Arabic) — Institut Pédagogique National (IPN), Mauritania; year no year printed on title page; ISBN no ISBN printed. Title as printed: Al-Jughrafia — Kitab al-Tilmidh, lilsana al-Khamisa min al-Ta'lim al-Ibtida'i (Geography — Pupil's Book, Fifth Year of Primary Education). Grade: Grade 5 (5e année fondamentale) (student/teacher: STUDENT). PDF pages: 54 (cover/title page verified against the record title; fetched from the record's source URL docs.bsimr.com/pdfs/fondamentals/GEO-5AF-M.pdf, 6,535,849 bytes). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mauritania-placements.md.
 
+**Book 10:** *معاشرتی علوم جماعت چہارم (Social Studies, Class 4), Single National Curriculum 2020* (student book, Urdu with English topic glosses) — Punjab Curriculum and Textbook Board (PCTB), Lahore; year 2022 (printing table on contents page); ISBN no ISBN printed. Title as printed: معاشرتی علوم جماعت چہارم (Social Studies, Class 4), Single National Curriculum 2020. Grade: Grade 4 (student/teacher: STUDENT). PDF pages: 108 (cover/title page verified against the record title). Verdict: COMPLETE. All Pakistan PCTB books are image-only scans (no text layer); read page-by-page from 90–100 DPI 4-up contact sheets, covers verified visually (placements file header: 3 books read in place from phase3-staging, 2 grabbed via grab.py tree route; the 4 Telegram link records are the same PCTB books already held in staging/GitHub, so no new download or staging arose from them). Non-Geography parts named, not placed: Ch.1 Citizenship and Human Rights, printed pp. 1–14; Ch.2 Culture (incl. Diversity and Tolerance), pp. 15–26; Ch.3 State and Government, pp. 27–44; Ch.4 History, pp. 45–60; Ch.6 Economics, pp. 94–104; Glossary, p. 105 Placements at liqlearns-courses-work/expansion-geography-2026-11-14/pakistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The seven elements | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 2, printed pp. 39–41 |
@@ -32,8 +34,9 @@ countries: Ethiopia, Turkey, Eritrea, Fiji, Papua New Guinea, Venezuela, Maurita
 | Venezuela part — El calor, el frío y la lluvia: temperature, precipitation and their measuring instruments | Venezuela, *Venezuela Grade 7 G7 Geography Humanidad*, El calor, el frío y la lluvia: temperature, precipitation and their measuring instruments — printed p. 132 |
 | Mauritania part — Temperature | Mauritania, *Mauritania Grade 4 geo-4af-m*, Temperature — printed p. 19 |
 | Mauritania part — Axis 2 File 2: temperature | Mauritania, *Mauritania Grade 5 geo-5af-m*, Axis 2 File 2: temperature — printed p. 20 |
+| Pakistan part — Elements of weather: temperature and the thermometer (Celsius/Fahrenheit, freezing and boiling points) | Pakistan, *Pakistan Grade 4 SS4*, Elements of weather: temperature and the thermometer (Celsius/Fahrenheit, freezing and boiling points) — printed p. 80 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Turkey, Eritrea, Fiji, Venezuela, Mauritania). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 7 countries (Ethiopia, Turkey, Eritrea, Fiji, Venezuela, Mauritania, Pakistan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
@@ -50,3 +53,5 @@ Venezuela's own way (Venezuela Grade 7 G7 Geography Humanidad): a Geohistoria (R
 Mauritania's own way (Mauritania Grade 4 geo-4af-m): A one-topic-per-spread observation book that moves from the child's own wilaya outward: the wilaya map first, then the landforms of home (watercourses, mountains, plains, plateaus, sand dunes), the weather elements and the two measuring instruments (thermometer, rain gauge), then the lived place — public places, archaeological sites, street names, my village, the capital of my wilaya — closing with integration exercises on the relief and climate of the wilaya capital.
 
 Mauritania's own way (Mauritania Grade 5 geo-5af-m): The whole book is Mauritania itself, in four "I get to know" axes: my country's location and borders, my country's climate, my society, my country's wealth. Climate is taught through the country's own three wind types and the effect of rain on where people, animals and plants live; farming includes the flood-recession farming of the Chamama plain after the Senegal River falls.
+
+Pakistan's own way (Pakistan Grade 4 SS4): one combined Social Studies book in Urdu where the Geography chapter (Ch.5, printed pp. 61–93) works entirely through Pakistan's own map, landforms, weather and census, with BOLTS as the map-elements mnemonic and "I have learnt!" / "Work for me to do" boxes closing every topic.

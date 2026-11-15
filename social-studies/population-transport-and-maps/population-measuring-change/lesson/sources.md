@@ -1,6 +1,6 @@
 # Sources — Population — measuring change: rates, pyramids and structure
 
-countries: Ethiopia, Palestine, Dominican Republic, Colombia, Malaysia, Eritrea, Vietnam, Sudan
+countries: Ethiopia, Palestine, Dominican Republic, Colombia, Malaysia, Eritrea, Vietnam, Sudan, Pakistan
 
 **Book 1:** *Social Studies Teacher's Guide, Grade 7* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, first edition 2022 (2014 E.C.). Printed page = PDF page − 5. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-teacher-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Palestine, Dominican Republic, Colombia, Malaysia, Eritrea,
 
 **Book 9:** *الجغرافيا والدراسات البيئية — Geography and Environmental Studies, Second Year Secondary (الصف الثاني الثانوي)* (student book, Arabic) — Republic of Sudan, National Centre for Curricula and Educational Research (Bakht al-Ruda); revised edition 2012; no ISBN printed (file is the Rowad Al-Tamayoz distribution copy, verified cover + title page against the record). Title as printed: الجغرافيا والدراسات البيئية — Geography and Environmental Studies, Second Year Secondary (الصف الثاني الثانوي). Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 238 (cover verified against the record title; byte size 66,750,855 and page count match the staging books.json record exactly; read via the recorded Drive source_url after grab.py failed/truncated — GitHub-secured book, download deleted after filing). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sudan-placements.md.
 
+**Book 10:** *معاشرتی علوم جماعت پنجم (Social Studies, Class 5), Single National Curriculum 2020* (student book, Urdu with English topic glosses) — Punjab Curriculum and Textbook Board (PCTB), Lahore; year 2022; ISBN no ISBN printed. Title as printed: معاشرتی علوم جماعت پنجم (Social Studies, Class 5), Single National Curriculum 2020. Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 114 (cover/title page verified against the record title; this book is also the TSV blob-URL record — same repo path, one book). Verdict: COMPLETE. All Pakistan PCTB books are image-only scans (no text layer); read page-by-page from 90–100 DPI 4-up contact sheets, covers verified visually (placements file header: 3 books read in place from phase3-staging, 2 grabbed via grab.py tree route; the 4 Telegram link records are the same PCTB books already held in staging/GitHub, so no new download or staging arose from them). This book is also the TSV blob-URL record — same repo path, one book. Non-Geography parts named, not placed: Ch.1 Citizenship, printed pp. 1–9; Ch.2 Culture, pp. 10–24; Ch.3 State and Government, pp. 25–32; Ch.4 History, pp. 33–50; Ch.6 Economics, pp. 86–108; Glossary, p. 109 Placements at liqlearns-courses-work/expansion-geography-2026-11-14/pakistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The three components and the rates (teacher guide — evidence) | Ethiopia, *Social Studies Teacher's Guide, Grade 7* (Addis Ababa Bureau), printed pp. 24–27 |
@@ -33,8 +35,9 @@ countries: Ethiopia, Palestine, Dominican Republic, Colombia, Malaysia, Eritrea,
 | Vietnam part — Bài 19 (part): Natural increase (birth and death rates), mechanical increase (migration; 272 million international migrants in 2020), real increase, and the factors behind each | Vietnam, *Vietnam Grade 10 Địa lí 10*, Bài 19 (part): Natural increase (birth and death rates), mechanical increase (migration; 272 million international migrants in 2020), real increase, and the factors behind each — printed pp. 56–57 |
 | Sudan part — Population growth in Sudan: natural increase rates and net migration | Sudan, *Sudan Grade 9 SD Geography 9*, Population growth in Sudan: natural increase rates and net migration — printed p. 30 |
 | Sudan part — Population growth: natural increase and migration | Sudan, *Sudan Grade 11 SD Geography 11*, Population growth: natural increase and migration — printed p. 14 |
+| Pakistan part — Population growth rate (world 1bn in 1800 to 7.5bn; Pakistan's rate about 2.4%) | Pakistan, *Pakistan Grade 5 SS5*, Population growth rate (world 1bn in 1800 to 7.5bn; Pakistan's rate about 2.4%) — printed p. 81 |
 
-**Acceptance count: taught in 7 countries (Palestine, Dominican Republic, Colombia, Malaysia, Eritrea, Vietnam, Sudan). Ethiopia is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 8 countries (Palestine, Dominican Republic, Colombia, Malaysia, Eritrea, Vietnam, Sudan, Pakistan). Ethiopia is named here as teacher-guide evidence only, counted nowhere.**
 
 Pairing warning (honesty): Book 2 is an Addis Ababa bureau guide in English; Book 1 is an Amhara bureau student book in Amharic. They are NOT edition-matched companions — the guide's unit order differs and whole student topics (maps, globes, GPS) have no guide counterpart, so no guide coverage is claimed for them. Guide material is used only as labelled teacher evidence.
 
@@ -57,3 +60,5 @@ Vietnam's own way (Vietnam Grade 10 Địa lí 10): a single Grade 10 course tha
 Sudan's own way (Sudan Grade 9 SD Geography 9): A single-country book: the whole of Sudan taught in three units — its physical geography, its human geography, then its environmental problems — with map-work activities on Sudan's own maps (states, roads, the Nile) and an infographic "resources of Sudan" spread; the preface warns its statistics change and are only indicators.
 
 Sudan's own way (Sudan Grade 11 SD Geography 11): The human-geography year: population first (races, religions, census, density, dynamics, structure), then a full practical unit on distribution maps and graphs, then regional geography — the world studied continent by continent as regions — and a closing full unit on Sudan itself, natural basis to environmental problems.
+
+Pakistan's own way (Pakistan Grade 5 SS5): the Class 5 Geography chapter (Ch.5, printed pp. 51–85) deepens the Class 4 spiral — same BOLTS, landforms, weather and population topics, but now with scale types, latitude/longitude and time-zone arithmetic, worked population-density calculations, and graph-drawing exercises from real Pakistani city data.

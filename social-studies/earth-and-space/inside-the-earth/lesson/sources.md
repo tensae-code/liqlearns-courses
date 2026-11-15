@@ -1,6 +1,6 @@
 # Sources — Inside the Earth — Crust, Mantle, Core
 
-countries: Ethiopia, Belarus, Dominican Republic, Colombia, Malaysia, India, North Macedonia, Cambodia, Fiji, Slovenia, Papua New Guinea, Syria, Sri Lanka, Mauritania, Kuwait, Afghanistan, Yemen
+countries: Ethiopia, Belarus, Dominican Republic, Colombia, Malaysia, India, North Macedonia, Cambodia, Fiji, Slovenia, Papua New Guinea, Syria, Sri Lanka, Mauritania, Kuwait, Afghanistan, Yemen, Pakistan
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page - 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md.
 
@@ -46,6 +46,8 @@ countries: Ethiopia, Belarus, Dominican Republic, Colombia, Malaysia, India, Nor
 
 **Book 23:** *جغرافية الإنسان والبيئة للصف الأول الثانوي (Geography of Man and the Environment for the First Secondary Grade = Grade 10)* (student book, Arabic) — Republic of Yemen, Ministry of Education; year 1438 AH / 2017 CE; ISBN no ISBN printed. Title as printed: جغرافية الإنسان والبيئة للصف الأول الثانوي (Geography of Man and the Environment for the First Secondary Grade = Grade 10). Grade: 10 (student/teacher: STUDENT). PDF pages: 179 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the Wayback Machine capture of its own recorded Yemen MoE source URL (the source_url in its books.json record) after the GitHub routes (grab.py release + tree) failed from the reader's host — the same ministry file the repo copies were taken from; cover/title page verified visually against the record title. TSV + books.json records for the same grade are the same book, placed once. Read note: legacy Arabic font encoding in the text layer; structure read from rendered contents and lesson pages. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/yemen-placements.md.
 
+**Book 24:** *GEOGRAPHY 6 — Based on Single National Curriculum 2022 (ONE NATION, ONE CURRICULUM)* (student book, English) — Punjab Curriculum and Textbook Board (PCTB), Lahore; SNC 2022, Experimental Edition, 1st edition March 2022; author Mr. Salman Munir; prepared by Javed Publishers, Lahore; ISBN no ISBN printed. Title as printed: GEOGRAPHY 6 — Based on Single National Curriculum 2022 (ONE NATION, ONE CURRICULUM). Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 89 (21,533,299 bytes — exactly the record size; the GitHub release/tree copies could not be found, so the book was re-downloaded from the record's own source, the freebooks.pk Google Drive file, and verified byte-for-byte against the record; image-only scan, read page by page from contact sheets). Verdict: COMPLETE. The GitHub release/tree copies could not be found, so the book was re-downloaded from the record's own source, the freebooks.pk Google Drive file, and verified byte-for-byte against the record (21,533,299 bytes — exactly the record size); image-only scan, read page by page from contact sheets. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/pakistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The three layers | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 1, printed pp. 28–29 |
@@ -70,8 +72,9 @@ countries: Ethiopia, Belarus, Dominican Republic, Colombia, Malaysia, India, Nor
 | Afghanistan part — Ch. 6 Lesson 51: the structure of the Earth | Afghanistan, *Afghanistan Grade 10 Geography (Dari)*, Ch. 6 Lesson 51: the structure of the Earth — printed p. 175 |
 | Yemen part — Unit 4 Lesson 1 The Lithosphere | Yemen, *Yemen Grade 7 G7 Principles of Physical Geography*, Unit 4 Lesson 1 The Lithosphere — printed p. 84 |
 | Yemen part — Unit 5 Lesson 1 Structure of the Earth and Its Lithosphere | Yemen, *Yemen Grade 10 G10 Geography of Man and the Environment*, Unit 5 Lesson 1 Structure of the Earth and Its Lithosphere — printed p. 116 |
+| Pakistan part — Internal structure of the Earth: crust (continental Sial and oceanic Sima), mantle and core (outer liquid, inner solid Nife) | Pakistan, *Pakistan Grade 6 Geography 6*, Internal structure of the Earth: crust (continental Sial and oceanic Sima), mantle and core (outer liquid, inner solid Nife) — printed pp. 2–3 |
 
-**Acceptance count: taught in 16 countries (Ethiopia, Belarus, Dominican Republic, Colombia, Malaysia, India, North Macedonia, Cambodia, Fiji, Slovenia, Syria, Sri Lanka, Mauritania, Kuwait, Afghanistan, Yemen). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 17 countries (Ethiopia, Belarus, Dominican Republic, Colombia, Malaysia, India, North Macedonia, Cambodia, Fiji, Slovenia, Syria, Sri Lanka, Mauritania, Kuwait, Afghanistan, Yemen, Pakistan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 The "how we know" sub lesson rests on teacher-guide evidence, labelled as such in its name here and in the lesson; the pupil-taught layers sub lesson carries the acceptance count. Pairing warning: the Grade 7 teacher guide is an Addis Ababa bureau book and the student books are Amhara bureau books; they are NOT edition-matched. Pupil content in this lesson comes from the student book; anything from the guide is labelled (teacher guide — evidence) and never presented as pupil-taught.
 
@@ -114,3 +117,5 @@ Afghanistan's own way (Afghanistan Grade 10 Geography (Dari)): the upper-seconda
 Yemen's own way (Yemen Grade 7 G7 Principles of Physical Geography): from Grade 7 the subject splits — this book is pure physical geography organised by the Earth's spheres (atmosphere, lithosphere, hydrosphere, biosphere), opened by map skills and Earth-and-space.
 
 Yemen's own way (Yemen Grade 10 G10 Geography of Man and the Environment): secondary geography is thematic, not regional — man and space, man representing his geographic field (remote sensing, projections, maps), man organising it (rural/urban), climate and water, the dynamic Earth, and the great environmental systems.
+
+Pakistan's own way (Pakistan Grade 6 Geography 6): world physical Geography taught through Pakistan's own land — its fault lines and 1935/2005 earthquakes, Khewra salt and Thar coal among the rocks, K2 and the Karakoram among the mountains, Pakistan's four climatic regions, its six forest types from mangrove to alpine, and the Indus flood as the country's defining disaster.

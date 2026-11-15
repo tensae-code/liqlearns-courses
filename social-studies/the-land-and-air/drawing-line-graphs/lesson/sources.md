@@ -1,6 +1,6 @@
 # Sources — Drawing line graphs
 
-countries: Ethiopia, Papua New Guinea, Uganda
+countries: Ethiopia, Papua New Guinea, Uganda, Pakistan
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Papua New Guinea, Uganda
 
 **Book 4:** *Geography Textbook — Senior One (Lower Secondary Curriculum, Prototype)* (student book, English) — National Curriculum Development Centre (NCDC), Kampala; year 2020 (prototype); ISBN no ISBN printed. Title as printed: Geography Textbook — Senior One (Lower Secondary Curriculum, Prototype). Grade: Senior One = Grade 8 (student/teacher: STUDENT). PDF pages: 126 (cover verified: "GEOGRAPHY TEXTBOOK SENIOR ONE", NCDC Prototype — matches record; read via the record's books.json source_url at ncdc.go.ug after grab.py release and tree routes both failed with RemoteDisconnected from api.github.com, 3 attempts). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/uganda-placements.md.
 
+**Book 5:** *معاشرتی علوم جماعت پنجم (Social Studies, Class 5), Single National Curriculum 2020* (student book, Urdu with English topic glosses) — Punjab Curriculum and Textbook Board (PCTB), Lahore; year 2022; ISBN no ISBN printed. Title as printed: معاشرتی علوم جماعت پنجم (Social Studies, Class 5), Single National Curriculum 2020. Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 114 (cover/title page verified against the record title; this book is also the TSV blob-URL record — same repo path, one book). Verdict: COMPLETE. All Pakistan PCTB books are image-only scans (no text layer); read page-by-page from 90–100 DPI 4-up contact sheets, covers verified visually (placements file header: 3 books read in place from phase3-staging, 2 grabbed via grab.py tree route; the 4 Telegram link records are the same PCTB books already held in staging/GitHub, so no new download or staging arose from them). This book is also the TSV blob-URL record — same repo path, one book. Non-Geography parts named, not placed: Ch.1 Citizenship, printed pp. 1–9; Ch.2 Culture, pp. 10–24; Ch.3 State and Government, pp. 25–32; Ch.4 History, pp. 33–50; Ch.6 Economics, pp. 86–108; Glossary, p. 109 Placements at liqlearns-courses-work/expansion-geography-2026-11-14/pakistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Construction steps | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 8, printed pp. 222–224, 226 |
@@ -18,11 +20,14 @@ countries: Ethiopia, Papua New Guinea, Uganda
 | Teaching pattern and answer keys (teacher guide — evidence) — Grade 9 Unit 8 | Ethiopia, *Geography, Teacher Guide, Grade 9*, Unit 8, guide printed pp. 231–260 |
 | Papua New Guinea part — Unit 1, Topics 5–6: Climate and vegetation profiles; locating places and vegetation using climate graphs (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 11 Geography TG SBC* (teacher guide), Unit 1, Topics 5–6: Climate and vegetation profiles; locating places and vegetation using climate graphs — printed p. 41 |
 | Uganda part — Ch.9 Drawing a Climate Graph | Uganda, *Uganda Grade 8 UG S1 Geography Student*, Ch.9 Drawing a Climate Graph — printed p. 108 |
+| Pakistan part — Line graph exercise: Lahore mean monthly temperature; bar graph exercise: Quetta rainfall (mm) | Pakistan, *Pakistan Grade 5 SS5*, Line graph exercise: Lahore mean monthly temperature; bar graph exercise: Quetta rainfall (mm) — printed pp. 79–80 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Uganda). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 3 countries (Ethiopia, Uganda, Pakistan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Searchable tags: line graphs, time series, statistical diagrams, child mortality table, social studies
 
 Papua New Guinea's own way (Papua New Guinea Grade 11 Geography TG SBC) (teacher guide — evidence): the standards-based senior Geography course keeps the four-unit frame of the Grade 9–10 strand (Geography Skills; People and Places; People and Resources; People and Environment) as a standalone subject — a heavy map-skills unit (grid references, bearings, cross-sections, climate graphs) before climate regions, biomass, oceanography, and the structure of the Earth. That evidence is stocked here as the way Papua New Guinea teaches this thing; it does not change the acceptance count above.
 
 Uganda's own way (Uganda Grade 8 UG S1 Geography Student): Competency-based lower-secondary course taught entirely through East Africa: every skill (maps, fieldwork, photographs) is practised on Ugandan/East African places (Tororo topographic map, Uganda lat/long map), and the physical half is East Africa's relief, landform formation, climate and vegetation rather than world coverage.
+
+Pakistan's own way (Pakistan Grade 5 SS5): the Class 5 Geography chapter (Ch.5, printed pp. 51–85) deepens the Class 4 spiral — same BOLTS, landforms, weather and population topics, but now with scale types, latitude/longitude and time-zone arithmetic, worked population-density calculations, and graph-drawing exercises from real Pakistani city data.

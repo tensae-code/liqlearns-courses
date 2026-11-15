@@ -1,16 +1,21 @@
 # Sources — What Is A Region
 
-countries: Vietnam
+countries: Vietnam, Pakistan
 
 **Book 1:** *Chuyên đề học tập Địa lí 12* (student study-topics book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam (NXBGD); year 2024 (2nd reprint, corrected and supplemented); editor-in-chief Lê Huỳnh; ISBN 978-604-0-39248-0. Title as printed: CHUYÊN ĐỀ HỌC TẬP ĐỊA LÍ 12 — Kết nối tri thức với cuộc sống (Tái bản lần thứ hai, có chỉnh lí, bổ sung). Grade: Grade 12 (student/teacher: STUDENT). PDF pages: 59 per the record (read as the publisher's 59 page images, printed pp. 2–55 plus covers; cover and contents verified against the record). Verdict: COMPLETE. Read from the record's own source — the NXBGD training site (taphuan.nxbgd.vn) reader, page by page as images — after the GitHub routes failed for all six books, as the placements file records; the page images are the publisher's own scans of the same books the records describe (titles, series and page counts match the records). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/vietnam-placements.md.
+
+**Book 2:** *جغرافیہ 8 (Geography 8), Punjab Curriculum and Textbook Board, Lahore (record title: "Geography Class 8 SNC — Punjab Board (PCTB)")* (student book, Urdu) — Punjab Curriculum and Textbook Board (PCTB), Lahore; Urdu-medium edition with English topic glosses throughout; ISBN no ISBN printed in the scanned copy. Title as printed: جغرافیہ 8 (Geography 8), Punjab Curriculum and Textbook Board, Lahore (record title: "Geography Class 8 SNC — Punjab Board (PCTB)"). Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 88 (39,114,330 bytes — exactly the record size; the GitHub release/tree copies could not be found, so the book was re-downloaded from the record's own source, the freebooks.pk Google Drive file, and verified byte-for-byte against the record; image-only scan, read page by page from contact sheets). Verdict: COMPLETE. The GitHub release/tree copies could not be found, so the book was re-downloaded from the record's own source, the freebooks.pk Google Drive file, and verified byte-for-byte against the record (39,114,330 bytes — exactly the record size); image-only scan, read page by page from contact sheets. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/pakistan-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Topic 12.2 (part): What a region is — the concept of a region and of an economic region, why regions matter, and the bases on which they form: internal factors (position, natural conditions and resources, people and society, state policy) and external ones (links with other regions and countries, globalisation) | Vietnam, *Vietnam Grade 12 Chuyên đề 12*, Topic 12.2 (part): What a region is — the concept of a region and of an economic region, why regions matter, and the bases on which they form: internal factors (position, natural conditions and resources, people and society, state policy) and external ones (links with other regions and countries, globalisation) — printed pp. 19–21 |
 | Sub lesson 2 — Vietnam's way — the book's own teaching way | Vietnam — the book's own way of teaching (see below) |
+| Pakistan part — The concept of a region: an area uniform in climate, soil, vegetation and human activities; the world's major regions (Torrid, Temperate, Frigid) | Pakistan, *Pakistan Grade 8 Geography 8*, The concept of a region: an area uniform in climate, soil, vegetation and human activities; the world's major regions (Torrid, Temperate, Frigid) — printed pp. 48–49 |
 
-**Acceptance count: taught in 1 country (Vietnam).**
+**Acceptance count: taught in 2 countries (Vietnam, Pakistan).**
 
 Vietnam's own way (Vietnam Grade 12 Chuyên đề 12): the final-year electives turn homeward — the disasters Vietnam actually faces and how to live with them, how Vietnam itself is divided into regions for development, and the craft villages that carry its rural economy and culture — even printing the country's new 34-province table in force from 1 July 2025.
 
 Searchable tags: what is a region, Vietnam, social studies, first-steps
+
+Pakistan's own way (Pakistan Grade 8 Geography 8): the Urdu-medium twin of the English Geography course — deep map-and-graph craft first (dot and choropleth maps of Pakistan itself), then landform agents, oceans, a full Pakistan-anchored disaster chapter, the world's natural regions, Pakistan's own climate, its four neighbouring regions and strategic place, underdevelopment with Pakistan's own causes, and modern techniques down to Pak Sat-1.

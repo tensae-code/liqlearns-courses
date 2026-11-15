@@ -1,6 +1,6 @@
 # Sources — Population — counting and graphing growth
 
-countries: Ethiopia, Myanmar, Indonesia, Colombia, Slovenia, Vietnam, Syria, Venezuela, Sri Lanka, Yemen
+countries: Ethiopia, Myanmar, Indonesia, Colombia, Slovenia, Vietnam, Syria, Venezuela, Sri Lanka, Yemen, Pakistan
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 2, placements 27–43).
 
@@ -26,6 +26,8 @@ countries: Ethiopia, Myanmar, Indonesia, Colombia, Slovenia, Vietnam, Syria, Ven
 
 **Book 12:** *جغرافية الجمهورية اليمنية للصف الخامس من مرحلة التعليم الأساسي (Geography of the Republic of Yemen for Grade 5)* (student book, Arabic) — Republic of Yemen, Ministry of Education; year 1438 AH / 2017 CE; ISBN no ISBN printed. Title as printed: جغرافية الجمهورية اليمنية للصف الخامس من مرحلة التعليم الأساسي (Geography of the Republic of Yemen for Grade 5). Grade: 5 (student/teacher: STUDENT). PDF pages: 89 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the Wayback Machine capture of its own recorded Yemen MoE source URL (the source_url in its books.json record) after the GitHub routes (grab.py release + tree) failed from the reader's host — the same ministry file the repo copies were taken from; cover/title page verified visually against the record title. TSV + books.json records for the same grade are the same book, placed once. Read note: legacy Arabic font encoding in the text layer; structure read from rendered contents and lesson pages. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/yemen-placements.md.
 
+**Book 13:** *معاشرتی علوم جماعت چہارم (Social Studies, Class 4), Single National Curriculum 2020* (student book, Urdu with English topic glosses) — Punjab Curriculum and Textbook Board (PCTB), Lahore; year 2022 (printing table on contents page); ISBN no ISBN printed. Title as printed: معاشرتی علوم جماعت چہارم (Social Studies, Class 4), Single National Curriculum 2020. Grade: Grade 4 (student/teacher: STUDENT). PDF pages: 108 (cover/title page verified against the record title). Verdict: COMPLETE. All Pakistan PCTB books are image-only scans (no text layer); read page-by-page from 90–100 DPI 4-up contact sheets, covers verified visually (placements file header: 3 books read in place from phase3-staging, 2 grabbed via grab.py tree route; the 4 Telegram link records are the same PCTB books already held in staging/GitHub, so no new download or staging arose from them). Non-Geography parts named, not placed: Ch.1 Citizenship and Human Rights, printed pp. 1–14; Ch.2 Culture (incl. Diversity and Tolerance), pp. 15–26; Ch.3 State and Government, pp. 27–44; Ch.4 History, pp. 45–60; Ch.6 Economics, pp. 94–104; Glossary, p. 105 Placements at liqlearns-courses-work/expansion-geography-2026-11-14/pakistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Counting your own school | Ethiopia, *Social Studies Student Textbook, Grade 7* (Amhara Bureau), printed pp. 35–36 |
@@ -41,8 +43,9 @@ countries: Ethiopia, Myanmar, Indonesia, Colombia, Slovenia, Vietnam, Syria, Ven
 | Venezuela part — Población venezolana ayer, hoy y mañana | Venezuela, *Venezuela Grade 11 G11 CS Geografía de Venezuela*, Población venezolana ayer, hoy y mañana — printed p. 36 |
 | Sri Lanka part — Ch. 2 Growth of population in Sri Lanka 1871–2012: natural increase plus net migration | Sri Lanka, *Sri Lanka Grade 9 G9 English*, Ch. 2 Growth of population in Sri Lanka 1871–2012: natural increase plus net migration — printed p. 53 |
 | Yemen part — Unit 3 Lesson 1 Population and Its Growth in Yemen | Yemen, *Yemen Grade 5 G5 Geography of Yemen*, Unit 3 Lesson 1 Population and Its Growth in Yemen — printed p. 45 |
+| Pakistan part — Pakistan's census bar graph 1951–2017 (33.7m rising to 207.774m) | Pakistan, *Pakistan Grade 4 SS4*, Pakistan's census bar graph 1951–2017 (33.7m rising to 207.774m) — printed p. 88 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Indonesia, Colombia, Slovenia, Vietnam, Syria, Venezuela, Sri Lanka, Yemen). Myanmar is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 10 countries (Ethiopia, Indonesia, Colombia, Slovenia, Vietnam, Syria, Venezuela, Sri Lanka, Yemen, Pakistan). Myanmar is named here as teacher-guide evidence only, counted nowhere.**
 
 Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -69,3 +72,5 @@ Venezuela's own way (Venezuela Grade 11 G11 CS Geografía de Venezuela): a final
 Sri Lanka's own way (Sri Lanka Grade 9 G9 English): the student companion to Book 1 — five chapters moving from the whole Asian region down to Sri Lanka's own landscape, its district-by-district development contrasts, environmental balance, and a closing practical chapter reading the 1:50,000 topographic maps.
 
 Yemen's own way (Yemen Grade 5 G5 Geography of Yemen): the first standalone Geography book is entirely about Yemen itself — map skills first, then Yemen's physical geography, then its population, then its economic activity sector by sector.
+
+Pakistan's own way (Pakistan Grade 4 SS4): one combined Social Studies book in Urdu where the Geography chapter (Ch.5, printed pp. 61–93) works entirely through Pakistan's own map, landforms, weather and census, with BOLTS as the map-elements mnemonic and "I have learnt!" / "Work for me to do" boxes closing every topic.

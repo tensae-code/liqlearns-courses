@@ -1,6 +1,6 @@
 # Sources — Counting people — censuses and surveys
 
-countries: Ethiopia, Bolivia, Dominican Republic, Samoa, India, Rwanda, Fiji, Papua New Guinea, Uganda, Sudan, Sri Lanka, Iran
+countries: Ethiopia, Bolivia, Dominican Republic, Samoa, India, Rwanda, Fiji, Papua New Guinea, Uganda, Sudan, Sri Lanka, Iran, Pakistan
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -40,6 +40,8 @@ countries: Ethiopia, Bolivia, Dominican Republic, Samoa, India, Rwanda, Fiji, Pa
 
 **Book 19:** *جغرافیای ایران (Geography of Iran) — for all branches (theoretical, technical-vocational, kardanesh)* (student book, Persian) — سازمان پژوهش و برنامه‌ریزی آموزشی (Organization for Educational Research and Planning), Ministry of Education; printed by شرکت چاپ و نشر کتاب‌های درسی ایران; year 1405 (11th printing); ISBN 978-964-05-2744-3; book code 110218. Title as printed: جغرافیای ایران (Geography of Iran) — for all branches (theoretical, technical-vocational, kardanesh). Grade: 10 (student/teacher: STUDENT). PDF pages: 120 (cover/title page verified against the record title; byte size 8,709,753 and page count 120 match the books.json record exactly; read from the record's own ministry source chap.sch.ir, the file the record was pushed from, because the GitHub API route was disconnected on repeated attempts). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iran-placements.md.
 
+**Book 20:** *معاشرتی علوم جماعت چہارم (Social Studies, Class 4), Single National Curriculum 2020* (student book, Urdu with English topic glosses) — Punjab Curriculum and Textbook Board (PCTB), Lahore; year 2022 (printing table on contents page); ISBN no ISBN printed. Title as printed: معاشرتی علوم جماعت چہارم (Social Studies, Class 4), Single National Curriculum 2020. Grade: Grade 4 (student/teacher: STUDENT). PDF pages: 108 (cover/title page verified against the record title). Verdict: COMPLETE. All Pakistan PCTB books are image-only scans (no text layer); read page-by-page from 90–100 DPI 4-up contact sheets, covers verified visually (placements file header: 3 books read in place from phase3-staging, 2 grabbed via grab.py tree route; the 4 Telegram link records are the same PCTB books already held in staging/GitHub, so no new download or staging arose from them). Non-Geography parts named, not placed: Ch.1 Citizenship and Human Rights, printed pp. 1–14; Ch.2 Culture (incl. Diversity and Tolerance), pp. 15–26; Ch.3 State and Government, pp. 27–44; Ch.4 History, pp. 45–60; Ch.6 Economics, pp. 94–104; Glossary, p. 105 Placements at liqlearns-courses-work/expansion-geography-2026-11-14/pakistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What population means | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 4, printed pp. 86–88 |
@@ -62,8 +64,9 @@ countries: Ethiopia, Bolivia, Dominican Republic, Samoa, India, Rwanda, Fiji, Pa
 | Sudan part — Population dynamics: census, distribution and density (Unit 1, part 2) | Sudan, *Sudan Grade 11 SD Geography 11*, Population dynamics: census, distribution and density (Unit 1, part 2) — printed p. 12 |
 | Sri Lanka part — Ch. 2 Population of Sri Lanka: 20.2 million (2012 census), decennial census, uneven distribution (Wet Zone/Western Province concentration), district density (Colombo 3,305/km² vs Moneragala 72/km²) | Sri Lanka, *Sri Lanka Grade 9 G9 English*, Ch. 2 Population of Sri Lanka: 20.2 million (2012 census), decennial census, uneven distribution (Wet Zone/Western Province concentration), district density (Colombo 3,305/km² vs Moneragala 72/km²) — printed p. 50 |
 | Iran part — Characteristics of Iran's population (census of population and housing; why statistics matter for planning) | Iran, *Iran Grade 10 Geography of Iran*, Characteristics of Iran's population (census of population and housing; why statistics matter for planning) — printed p. 73 |
+| Pakistan part — Population and census; importance of a census | Pakistan, *Pakistan Grade 4 SS4*, Population and census; importance of a census — printed pp. 87–88 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Bolivia, Dominican Republic, Samoa, India, Rwanda, Fiji, Uganda, Sudan, Sri Lanka, Iran). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 12 countries (Ethiopia, Bolivia, Dominican Republic, Samoa, India, Rwanda, Fiji, Uganda, Sudan, Sri Lanka, Iran, Pakistan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Bolivia's own way (Grade 8, Secundaria 2): Secundaria 2 is the colonial-history year, so geography enters through the land itself: the Tawantinsuyo's territorial division into suyos, the Amazonian hydraulic cultures who farmed a flooding landscape with raised beds and purified water, the ayllu-versus-hacienda struggle over communal land, and where Afro-Bolivian communities settled in the Yungas.
 
@@ -100,3 +103,5 @@ Sudan's own way (Sudan Grade 11 SD Geography 11): The human-geography year: popu
 Sri Lanka's own way (Sri Lanka Grade 9 G9 English): the student companion to Book 1 — five chapters moving from the whole Asian region down to Sri Lanka's own landscape, its district-by-district development contrasts, environmental balance, and a closing practical chapter reading the 1:50,000 topographic maps.
 
 Iran's own way (Iran Grade 10 Geography of Iran): the whole of Grade 10 geography is one national book — Iran's own natural and human geography for every branch; nearly every lesson closes with a "know your own living place" activity tied to the separate provincial-studies book, so national content is always re-applied to the learner's own province.
+
+Pakistan's own way (Pakistan Grade 4 SS4): one combined Social Studies book in Urdu where the Geography chapter (Ch.5, printed pp. 61–93) works entirely through Pakistan's own map, landforms, weather and census, with BOLTS as the map-elements mnemonic and "I have learnt!" / "Work for me to do" boxes closing every topic.

@@ -1,0 +1,9 @@
+# Video script — Water Sources On Earth And In Pakistan
+
+The super-simple voice, for the video that rides on top of the lesson (lesson-plan.md, add-on list). This script is full: the placements name a video-script need for this lesson. Made later, when videos are made; the script is the slot's written form until then.
+
+---
+
+Pakistan's book, the *Pakistan Grade 7 Geography 7* (printed pp. 16–18), teaches: Major sources of water on Earth and in Pakistan: oceans (97% of water; desalination), rivers, lakes, glaciers and ice caps, ponds, springs, aquifers and rainwater.
+
+Pakistan's own way (Pakistan Grade 7 Geography 7): a dedicated English-medium Geography book built entirely on Pakistan's own physical and economic geography — the Indus plain and delta, the canal system, Rabi/Kharif crops, Sui gas, Thar coal, Khewra salt and Tarbela power — with world concepts (river courses, settlement hierarchy, greenhouse effect, mining types) taught through Pakistani examples first.

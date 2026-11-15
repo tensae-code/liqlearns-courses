@@ -1,6 +1,6 @@
 # Sources — Latitude and altitude — the two big controls
 
-countries: Ethiopia, Jamaica, Indonesia, Iran
+countries: Ethiopia, Jamaica, Indonesia, Iran, Pakistan
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Jamaica, Indonesia, Iran
 
 **Book 5:** *جغرافیای ایران (Geography of Iran) — for all branches (theoretical, technical-vocational, kardanesh)* (student book, Persian) — سازمان پژوهش و برنامه‌ریزی آموزشی (Organization for Educational Research and Planning), Ministry of Education; printed by شرکت چاپ و نشر کتاب‌های درسی ایران; year 1405 (11th printing); ISBN 978-964-05-2744-3; book code 110218. Title as printed: جغرافیای ایران (Geography of Iran) — for all branches (theoretical, technical-vocational, kardanesh). Grade: 10 (student/teacher: STUDENT). PDF pages: 120 (cover/title page verified against the record title; byte size 8,709,753 and page count 120 match the books.json record exactly; read from the record's own ministry source chap.sch.ir, the file the record was pushed from, because the GitHub API route was disconnected on repeated attempts). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iran-placements.md.
 
+**Book 6:** *معاشرتی علوم جماعت پنجم (Social Studies, Class 5), Single National Curriculum 2020* (student book, Urdu with English topic glosses) — Punjab Curriculum and Textbook Board (PCTB), Lahore; year 2022; ISBN no ISBN printed. Title as printed: معاشرتی علوم جماعت پنجم (Social Studies, Class 5), Single National Curriculum 2020. Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 114 (cover/title page verified against the record title; this book is also the TSV blob-URL record — same repo path, one book). Verdict: COMPLETE. All Pakistan PCTB books are image-only scans (no text layer); read page-by-page from 90–100 DPI 4-up contact sheets, covers verified visually (placements file header: 3 books read in place from phase3-staging, 2 grabbed via grab.py tree route; the 4 Telegram link records are the same PCTB books already held in staging/GitHub, so no new download or staging arose from them). This book is also the TSV blob-URL record — same repo path, one book. Non-Geography parts named, not placed: Ch.1 Citizenship, printed pp. 1–9; Ch.2 Culture, pp. 10–24; Ch.3 State and Government, pp. 25–32; Ch.4 History, pp. 33–50; Ch.6 Economics, pp. 86–108; Glossary, p. 109 Placements at liqlearns-courses-work/expansion-geography-2026-11-14/pakistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Latitude | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 2, printed pp. 41–43 |
@@ -20,8 +22,9 @@ countries: Ethiopia, Jamaica, Indonesia, Iran
 | Jamaica part — Term 3 Unit 1: how latitude and altitude influence climate (curriculum guide — evidence) | Jamaica, *Jamaica Grade 6 JM G6 Exploratory Core*, Term 3 Unit 1: how latitude and altitude influence climate — printed p. 200 |
 | Indonesia part (Grade 11) — Bab 1 I.A Pengaruh letak astronomis terhadap iklim tropis | Indonesia, *Geografi untuk SMA Kelas XI*, Grade 11, Bab 1 I.A Pengaruh letak astronomis terhadap iklim tropis — printed p. 4 |
 | Iran part — Iran's climate (latitude and sun angle; altitude and mountain direction as climate controls) | Iran, *Iran Grade 10 Geography of Iran*, Iran's climate (latitude and sun angle; altitude and mountain direction as climate controls) — printed p. 38 |
+| Pakistan part — Factors affecting climate: distance from the equator, altitude above sea level | Pakistan, *Pakistan Grade 5 SS5*, Factors affecting climate: distance from the equator, altitude above sea level — printed p. 74 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Indonesia, Iran). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 4 countries (Ethiopia, Indonesia, Iran, Pakistan). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
 
 Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -30,3 +33,5 @@ Jamaica's own way (Grade 6 Exploratory Core, curriculum guide — evidence): the
 Searchable tags: latitude, altitude, lapse rate, climate controls, social studies, Jamaica, curriculum guide evidence
 
 Iran's own way (Iran Grade 10 Geography of Iran): the whole of Grade 10 geography is one national book — Iran's own natural and human geography for every branch; nearly every lesson closes with a "know your own living place" activity tied to the separate provincial-studies book, so national content is always re-applied to the learner's own province.
+
+Pakistan's own way (Pakistan Grade 5 SS5): the Class 5 Geography chapter (Ch.5, printed pp. 51–85) deepens the Class 4 spiral — same BOLTS, landforms, weather and population topics, but now with scale types, latitude/longitude and time-zone arithmetic, worked population-density calculations, and graph-drawing exercises from real Pakistani city data.

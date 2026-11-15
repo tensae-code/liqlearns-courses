@@ -5279,3 +5279,169 @@ Classifying The Contemporary World North And South
 country (Yemen), 8 questions each; all stand on student
 books (Yemen has no teacher guides in this wave).
 Geography lessons: 2170 → 2262.
+
+
+## Pakistan — Geography expansion (merged 2026-11-15)
+205 placement lines stocked from Pakistan's 10 records
+/ 5 distinct books, all Punjab Curriculum and Textbook
+Board (PCTB), Lahore student books — Social Studies
+Class 4 SNC (Urdu, 2022) and Class 5 SNC (Urdu, 2022),
+Geography 7 (English, SNC 2022 Experimental Edition),
+Geography 6 (English, SNC 2022 Experimental Edition,
+1st edition March 2022) and Geography 8 (Urdu) — all
+COMPLETE, so every placed book counts toward
+acceptance; there are no teacher guides. The 4 Telegram
+link records are the same Class 4 / Geography 6 / 7 / 8
+PCTB books already held in staging/GitHub — duplicates
+taught once, every distinct book cited. All Pakistan
+PCTB books are image-only scans (no text layer), read
+page-by-page from 90–100 DPI 4-up contact sheets,
+covers verified visually; 3 books read in place from
+phase3-staging and 2 grabbed via grab.py tree route as
+the placements file header records — Books 6 and 8
+(Geography Class 6 and Class 8) name in their own
+headers that the GitHub release/tree copies could not
+be found, so each was re-downloaded from the record's
+own source (the freebooks.pk Google Drive file) and
+verified byte-for-byte against the record. The
+placements file's book tallies (27 + 24 + 47 + 56 + 51)
+sum to 205 and agree with the line-by-line count in
+total; one split discrepancy is carried exactly: Book
+5's header tally says 21 to existing lessons / 30 NEW
+LESSON NEEDED, but its own lines count 22
+existing-flagged / 29 NEW-flagged — the merge follows
+the lines. The non-Geography parts of the combined
+Social Studies books (Citizenship and Human Rights,
+Culture, State and Government, History, Economics,
+Glossary) are named in each book's header in the
+placements file and are NOT placed — they are not
+placement lines. Stocked into standing lessons (110
+placements across 85 lessons): the existing-flagged
+placements at the slug the placements file names where
+it stands, 3 NEW-flagged placements whose slugs already
+stand — first-steps/what-is-a-region,
+earth-and-space/the-rock-cycle and
+population-transport-and-maps/the-settlement-hierarchy
+— and 12 placements remapped to the closest standing
+lesson covering the thing (original slug recorded in
+each provenance row): first-steps/what-geography-is →
+the-land-and-air/what-geography-is,
+global-issues/the-3rs-reduce-reuse-recycle →
+global-issues/reduce-reuse-recycle-the-3rs (2
+placements), earth-and-space/the-water-cycle →
+the-land-and-air/the-water-cycle,
+earth-and-space/tides-and-the-moon →
+the-land-and-air/tides-the-sea-breathing-in-and-out,
+population-transport-and-maps/remote-sensing-eyes-in-the-sky
+→ the-land-and-air/remote-sensing (2 placements),
+population-transport-and-maps/distribution-maps-dot-and-shading
+→
+population-transport-and-maps/distribution-maps-dots-shading-and-symbols,
+global-issues/rich-world-poor-world →
+global-issues/rich-countries-poor-countries,
+the-land-and-air/what-makes-a-climate →
+the-land-and-air/weather-and-climate-the-controllers,
+the-land-and-air/block-mountains-horsts-and-rift-valleys
+→ the-land-and-air/faulting-rift-valleys-and-horsts and
+the-land-and-air/volcanic-mountains →
+the-land-and-air/volcano-shapes-shield-strato-cinder-cone.
+86 NEW lessons built (95 placements — 86 flagged NEW,
+one per new lesson, plus 9 flagged as existing targets
+whose slugs were proposed NEW earlier in the same file)
+— **Earth and Space**: How Ocean Water Moves Waves
+(printed p. 26), Metamorphic Rocks Changed By Heat And
+Pressure (printed pp. 11–12), Sedimentary Rocks Layer
+On Layer (printed pp. 9–11), The Ocean Floor (printed
+pp. 25–26), The Shapes Of Seas And Coasts (printed pp.
+24–25); **The Land and Air**: Climate Shapes Human Life
+(printed p. 40; printed pp. 59–60), Coastal Landforms
+Caves Arches Stacks And Beaches (printed pp. 80–81;
+printed pp. 18–20), How The Sea Shapes The Coast
+(printed p. 79), Landforms Made By Glaciers (printed
+pp. 12–16), Layers Of The Rainforest (printed pp.
+49–50), Life In Pakistans Physical Regions (printed p.
+30), Natural Vegetation And Climate (printed pp.
+46–48), Pakistans Climatic Regions (printed pp. 40–43;
+printed pp. 57–59), Pakistans Forests (printed pp.
+53–55), Pakistans Major Landforms Mountains Plateaus
+Plains Deserts Coast (printed pp. 69–73), Pakistans
+Mountain Ranges (printed pp. 24–26), Pakistans Physical
+Regions Mountains (printed pp. 62–65), Pakistans
+Physical Regions Plateaus Plains Deserts Coast (printed
+pp. 65–68), Pakistans Seasons (printed pp. 56–57),
+Plate Boundaries Convergent Divergent Transform
+(printed pp. 4–5), Plateaus And Their Types (printed
+pp. 29–30), Sand Dunes Shapes Of Piled Sand (printed
+pp. 17–18), The Mediterranean Region (printed p. 52),
+The Monsoon Region (printed p. 51), The Tundra Region
+(printed p. 53), The Worlds Forests (printed pp.
+48–51), Why Pakistans Northern Mountains Matter
+(printed p. 28), Wind Erosion And Desert Landforms
+(printed pp. 76–77; printed pp. 16–17); **Population,
+Transport and Maps**: Central Asia And The ECO (printed
+pp. 66–67), Choosing A Site For A Settlement (printed
+pp. 35–36), Computer Models In Geography (printed p.
+81), Conurbation And Megalopolis (printed p. 39),
+Modern Tools At Work (printed p. 82), Pakistan And
+China (printed p. 67), Pakistan And South Asia (printed
+pp. 63, 65), Rural Life Advantages And Disadvantages
+(printed p. 37), Showing Data With Graphs (printed pp.
+5–8), The Middle East Oil And Pakistan (printed p. 65),
+What Settlements Do Functions Of Places (printed pp.
+33–34), Why Pakistans Location Matters (printed pp.
+68–70); **People and Resources**: Alternative Energy In
+Pakistan (printed pp. 82–83), Biogas Energy From Waste
+(printed p. 23), Dams Storing River Water For Farms And
+Power (printed p. 74), Industries That Run On Minerals
+And Power (printed pp. 78–79), Mineral Rich Areas And
+Rare Minerals Of Pakistan (printed p. 80), Pakistans
+Minerals Iron Salt And Stone (printed pp. 76–78),
+Pakistans Minerals Oil Gas And Coal (printed pp.
+74–76), Rivers In The Economy (printed p. 11), Rocks In
+Pakistans Economy (printed pp. 14–16), Water Sources On
+Earth And In Pakistan (printed pp. 16–18), What Rocks
+Are Used For (printed pp. 13–14); **Culture and Work**:
+Evaluating An Agricultural Project (printed pp. 53–54),
+Farming Methods Agroforestry Rotation Intercropping
+(printed pp. 51–53), Pakistan An Agricultural Country
+(printed pp. 47–48), Pakistans Main Crops Rabi And
+Kharif (printed pp. 48–51), Raw Materials From Farming
+And Fishery (printed p. 55); **Resources and
+Conflict**: Fossil Fuels For Power (printed p. 81);
+**Global Issues**: Climate Change Events Around The
+World (printed p. 66), Controlling Floods (printed p.
+70), Cutting Environmental Pollution (printed p. 70;
+printed p. 46), Cyclones On Pakistans Coast (printed p.
+35), Deforestation And How To Stop It (printed p. 55),
+Desertification When Land Turns To Desert (printed p.
+33), Drought Famine Cyclones And Tsunami (printed p.
+62), Erosion Caused By People (printed pp. 81–82),
+Floods Pakistans Commonest Disaster (printed p. 69;
+printed pp. 34–35), Forest Fires In Pakistan (printed
+pp. 37–38), How Forests Help The Environment (printed
+pp. 52–53), Human Activities That Invite Disasters
+(printed pp. 67–68), Livestock Farming And The
+Environment (printed pp. 54–55), Making Water Safe To
+Drink (printed pp. 23–24), Managing Disasters Forecast
+Monitor Recover (printed pp. 38–39), Natural Disasters
+Cyclones Landslides Earthquakes Floods (printed pp.
+76–77), Natural Disasters Floods Earthquakes Cyclones
+Avalanches (printed pp. 82–83; printed p. 59; printed
+p. 31), Pakistan On A Fault Line (printed p. 6),
+Pollution Air Water Soil And Noise (printed pp. 41–44),
+Primary And Secondary Impacts Of Disasters (printed pp.
+63–64), Staying Safe Before During And After A Natural
+Disaster (printed pp. 83–84; printed p. 78 (NEW lesson
+proposed in Book 1; this book stocks it further)), The
+Amazon The Worlds Greatest Rainforest (printed pp.
+51–52), The Risks Of Coal Mining (printed p. 82), Using
+Sewage And Grey Water (printed p. 22), Volcanoes And
+Landslides In Pakistan (printed pp. 31–33), What
+Disasters Do (printed pp. 60–61), What Holds A Country
+Back (printed pp. 73–75), When Warming Feeds Disaster
+(printed p. 66), Why Pakistan Is Underdeveloped
+(printed p. 75) — all 86 of the new lessons are taught
+in 1 country (Pakistan), 8 questions each; all stand on
+student books (Pakistan has no teacher guides in this
+wave).
+Geography lessons: 2262 → 2348.

@@ -1,6 +1,6 @@
 # Sources — Maps and globes — the globe
 
-countries: Ethiopia, Sweden, Dominican Republic, Eritrea, India, Cambodia
+countries: Ethiopia, Sweden, Dominican Republic, Eritrea, India, Cambodia, Pakistan
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 2, placements 27–43).
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Sweden, Dominican Republic, Eritrea, India, Cambodia
 
 **Book 7:** *សិក្សាសង្គម ថ្នាក់ទី៦ (Social Studies, Grade 6)* (student book, Khmer) — Cambodia, MoEYS Publishing and Distribution House; ISBN no ISBN printed. Title as printed: សិក្សាសង្គម ថ្នាក់ទី៦ (Social Studies, Grade 6) — Sala 00004323. Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 129. Verdict: COMPLETE. All books are Khmer-language MoEYS textbooks whose embedded text layer uses a legacy font encoding (pdftotext output is garbled), so every book was read visually page-by-page from rendered pages (cover, full contents, every chapter/lesson opening, and spreads through each Geography part); Tesseract khm OCR was attempted first and abandoned (>2 min/page on this host). Read in place from phase3-staging (on_disk) except the Grade 9 Geography excerpt and the Grades 10-12 Geography combined record, grabbed from the textbooks repo with grab.py. Non-Geography parts named, not placed: Ch.1 ឥរិយាបថល្អ (good conduct — goal-setting, conduct and values, rights and responsibility, art and change, printed pp.1–32, Civics/Life Skills); Ch.2 ឥរិយាបថប្រកបដោយសុខភាព (healthy conduct — avoiding danger, the harm of traffic accidents, printed pp.33–50, Science/Health); Ch.3 L4 គុណភាព (quality — school levels and education quality in Cambodia, printed p.76, Civics/Education); Ch.4 L2 សម័យចតុមុខ (Chaktomuk era, printed p.102), L3 សម័យលង្វែក (Longvek era, printed p.110), L4 ទីតាំងរាជធានីនៅឧដុង្គ និងទំនាស់ផ្ទៃក្នុង (the capital at Oudong and internal conflict, printed p.118, History). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cambodia-placements.md.
 
+**Book 8:** *معاشرتی علوم جماعت چہارم (Social Studies, Class 4), Single National Curriculum 2020* (student book, Urdu with English topic glosses) — Punjab Curriculum and Textbook Board (PCTB), Lahore; year 2022 (printing table on contents page); ISBN no ISBN printed. Title as printed: معاشرتی علوم جماعت چہارم (Social Studies, Class 4), Single National Curriculum 2020. Grade: Grade 4 (student/teacher: STUDENT). PDF pages: 108 (cover/title page verified against the record title). Verdict: COMPLETE. All Pakistan PCTB books are image-only scans (no text layer); read page-by-page from 90–100 DPI 4-up contact sheets, covers verified visually (placements file header: 3 books read in place from phase3-staging, 2 grabbed via grab.py tree route; the 4 Telegram link records are the same PCTB books already held in staging/GitHub, so no new download or staging arose from them). Non-Geography parts named, not placed: Ch.1 Citizenship and Human Rights, printed pp. 1–14; Ch.2 Culture (incl. Diversity and Tolerance), pp. 15–26; Ch.3 State and Government, pp. 27–44; Ch.4 History, pp. 45–60; Ch.6 Economics, pp. 94–104; Glossary, p. 105 Placements at liqlearns-courses-work/expansion-geography-2026-11-14/pakistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson | Ethiopia, *Social Studies Student Textbook, Grade 7* (Amhara Bureau), printed p. 45 |
@@ -25,8 +27,9 @@ countries: Ethiopia, Sweden, Dominican Republic, Eritrea, India, Cambodia
 | Eritrea part (ER G4 Social Studies) — Chapter 6: 6.2 The globe | Eritrea, *ER G4 Social Studies*, Chapter 6: 6.2 The globe — printed p. 72 |
 | India part (Grade 6 The Earth Our Habitat) — Ch.2 Globe: Latitudes and Longitudes: the globe as true model of the Earth, axis and poles | India, *India Grade 6 The Earth Our Habitat*, Ch.2 Globe: Latitudes and Longitudes: the globe as true model of the Earth, axis and poles — printed p. 10 |
 | Cambodia part — Ch.3 L5 §2 ភូគោល (the globe) | Cambodia, *Cambodia Grade 6 Social Studies*, Ch.3 L5 §2 ភូគោល (the globe) — printed p. 85 |
+| Pakistan part — Globe | Pakistan, *Pakistan Grade 4 SS4*, Globe — printed p. 62 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Sweden, Dominican Republic, Eritrea, India, Cambodia). Sweden's teacher guide is named here as evidence only, counted nowhere — Sweden counts through its student training material.**
+**Acceptance count: taught in 7 countries (Ethiopia, Sweden, Dominican Republic, Eritrea, India, Cambodia, Pakistan). Sweden's teacher guide is named here as evidence only, counted nowhere — Sweden counts through its student training material.**
 
 Pairing warning (honesty): Book 2 is an Addis Ababa bureau guide in English; Book 1 is an Amhara bureau student book in Amharic. They are NOT edition-matched companions — the guide's unit order differs and whole student topics (maps, globes, GPS) have no guide counterpart, so no guide coverage is claimed for them. Guide material is used only as labelled teacher evidence.
 
@@ -39,3 +42,5 @@ Eritrea's own way (ER G4 Social Studies): the Tigrinya-medium primary book teach
 India's own way (Grade 6 The Earth Our Habitat): The first Geography year goes planet → globe → motions → maps → Earth's domains → landforms, and only then turns home: the last two chapters are India itself (location, neighbours, physical divisions, monsoon climate, vegetation and wildlife), so world basics are immediately applied to the home country.
 
 Cambodia's own way (Cambodia Grade 6 Social Studies): the primary Social Studies spiral ends with its first real map work — maps, the globe and the equator/parallels/meridians grid taught inside the “society today” chapter, anchored on a world map with Cambodia marked.
+
+Pakistan's own way (Pakistan Grade 4 SS4): one combined Social Studies book in Urdu where the Geography chapter (Ch.5, printed pp. 61–93) works entirely through Pakistan's own map, landforms, weather and census, with BOLTS as the map-elements mnemonic and "I have learnt!" / "Work for me to do" boxes closing every topic.

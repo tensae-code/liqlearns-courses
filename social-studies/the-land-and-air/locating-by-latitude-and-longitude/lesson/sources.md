@@ -1,6 +1,6 @@
 # Sources — Locating by latitude and longitude
 
-countries: Ethiopia, Bahamas, Venezuela, Iran
+countries: Ethiopia, Bahamas, Venezuela, Iran, Pakistan
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Bahamas, Venezuela, Iran
 
 **Book 5:** *جغرافیای ایران (Geography of Iran) — for all branches (theoretical, technical-vocational, kardanesh)* (student book, Persian) — سازمان پژوهش و برنامه‌ریزی آموزشی (Organization for Educational Research and Planning), Ministry of Education; printed by شرکت چاپ و نشر کتاب‌های درسی ایران; year 1405 (11th printing); ISBN 978-964-05-2744-3; book code 110218. Title as printed: جغرافیای ایران (Geography of Iran) — for all branches (theoretical, technical-vocational, kardanesh). Grade: 10 (student/teacher: STUDENT). PDF pages: 120 (cover/title page verified against the record title; byte size 8,709,753 and page count 120 match the books.json record exactly; read from the record's own ministry source chap.sch.ir, the file the record was pushed from, because the GitHub API route was disconnected on repeated attempts). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iran-placements.md.
 
+**Book 6:** *معاشرتی علوم جماعت پنجم (Social Studies, Class 5), Single National Curriculum 2020* (student book, Urdu with English topic glosses) — Punjab Curriculum and Textbook Board (PCTB), Lahore; year 2022; ISBN no ISBN printed. Title as printed: معاشرتی علوم جماعت پنجم (Social Studies, Class 5), Single National Curriculum 2020. Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 114 (cover/title page verified against the record title; this book is also the TSV blob-URL record — same repo path, one book). Verdict: COMPLETE. All Pakistan PCTB books are image-only scans (no text layer); read page-by-page from 90–100 DPI 4-up contact sheets, covers verified visually (placements file header: 3 books read in place from phase3-staging, 2 grabbed via grab.py tree route; the 4 Telegram link records are the same PCTB books already held in staging/GitHub, so no new download or staging arose from them). This book is also the TSV blob-URL record — same repo path, one book. Non-Geography parts named, not placed: Ch.1 Citizenship, printed pp. 1–9; Ch.2 Culture, pp. 10–24; Ch.3 State and Government, pp. 25–32; Ch.4 History, pp. 33–50; Ch.6 Economics, pp. 86–108; Glossary, p. 109 Placements at liqlearns-courses-work/expansion-geography-2026-11-14/pakistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Parallels and meridians | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 8, printed pp. 210–212 |
@@ -20,8 +22,9 @@ countries: Ethiopia, Bahamas, Venezuela, Iran
 | Bahamas part (Grade 4) — South Eastern Islands: lines of latitude and longitude locate places; The Bahamas lies between latitude 20°N and 28°N and longitude 72°W and 80°W | Bahamas, *Bahamas Primary Social Studies — Digital Textbook, Grade 4*, Grade 4, South Eastern Islands: lines of latitude and longitude locate places; The Bahamas lies between latitude 20°N and 28°N and longitude 72°W and 80°W — PDF p. 6 |
 | Venezuela part — ¿Cómo me oriento…?: locating facts and risk situations in geographic space | Venezuela, *Venezuela Grade 7 G7 Geography Humanidad*, ¿Cómo me oriento…?: locating facts and risk situations in geographic space — printed p. 44 |
 | Iran part — Geographical position of Iran (finding Iran's coordinates on the map, activity) | Iran, *Iran Grade 10 Geography of Iran*, Geographical position of Iran (finding Iran's coordinates on the map, activity) — printed p. 15 |
+| Pakistan part — Important lines of latitude (Equator, Tropics of Cancer/Capricorn 23½°, Arctic/Antarctic circles 66½°) and the Prime Meridian at Greenwich | Pakistan, *Pakistan Grade 5 SS5*, Important lines of latitude (Equator, Tropics of Cancer/Capricorn 23½°, Arctic/Antarctic circles 66½°) and the Prime Meridian at Greenwich — printed pp. 57–58 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Bahamas, Venezuela, Iran).**
+**Acceptance count: taught in 5 countries (Ethiopia, Bahamas, Venezuela, Iran, Pakistan).**
 
 Searchable tags: latitude, longitude, graticule, parallels, meridians, point C, social studies
 
@@ -30,3 +33,5 @@ Bahamas' own way (Grade 4): From Grade 4 the format changes: instead of the inte
 Venezuela's own way (Venezuela Grade 7 G7 Geography Humanidad): a Geohistoria (Ramón Tovar) approach — geographic space is always explained through the historical conditions that built it; every chapter opens with a literary epigraph, works through "Entérate / Entretejiendo saberes / Indagando" boxes, and keeps returning to the learner's own community and to Caracas as the worked example.
 
 Iran's own way (Iran Grade 10 Geography of Iran): the whole of Grade 10 geography is one national book — Iran's own natural and human geography for every branch; nearly every lesson closes with a "know your own living place" activity tied to the separate provincial-studies book, so national content is always re-applied to the learner's own province.
+
+Pakistan's own way (Pakistan Grade 5 SS5): the Class 5 Geography chapter (Ch.5, printed pp. 51–85) deepens the Class 4 spiral — same BOLTS, landforms, weather and population topics, but now with scale types, latitude/longitude and time-zone arithmetic, worked population-density calculations, and graph-drawing exercises from real Pakistani city data.
