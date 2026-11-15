@@ -2581,7 +2581,7 @@ Plants and Animals.
 
 ## History expansion totals
 
-History lessons across the History titles: **771**
+History lessons across the History titles: **815**
 (248 before the expansion; +1 for Guyana, 2026-11-15 —
 Modern World: Guyana — our nation: independence and
 symbols. All 3 Guyana placements stand on Guyana's
@@ -3718,3 +3718,17 @@ All nine books are teacher guides, so Zimbabwe is cited
 as teacher-guide evidence only everywhere it is stocked
 — named, counted nowhere; no existing acceptance count
 changes and the 18 new lessons carry acceptance 0.
+
++44 for India, 2026-11-15 — The Ancient World:
+Çatal Höyük — a Neolithic town, Cave paintings of France, Harappan cities of Gujarat — Dholavira and Lothal, Harappan crafts and seals, India — ancient science and medicine, India — Ashoka and the Kalinga war, India — Ashoka's dhamma, India — the ashvamedha and the new rajas, India — craft guilds and women's work, India — early cities and ring wells, India — first coins and barter, India — first farmers and herders, India — Harshavardhana, India — how the new kingdoms were run, India — hunter-gatherers on the move, India — janapadas and mahajanapadas, India — language families of the subcontinent, India — Magadha becomes great, India — Mathura, a city of many functions, India — megaliths and burials, India — names of the land, India — ordinary people under the new kings, India — the Pallavas and Chalukyas, India — pilgrims: Fa Xian, Xuan Zang and Nalanda, India — the Puranas and the great epics, India — rivers and early peoples, India — Sangam literature, India — stories ordinary people told, India — stupas and early temples, India — the Tamil epics, India — the Ajanta paintings, India — the ashrama system, India — the Buddha, India — the Gupta empire, India — the Harappan cities end, India — the iron pillar and metallurgy, India — the Mauryan empire, India — the sangha and the viharas, India — the three crowned kings, India — the Vedas and the Rigveda, India — Upanishadic thinkers, India — Vajji, the early republic, India — Vedic battles, cattle and rajas, India — villages, land and labour. All 83 India placements are stocked (32 into
+16 existing lessons, 51 into the 44 new lessons) on
+*Our Pasts-I — Textbook in History for Class VI*
+(NCERT, Grade 6 student book) — a student book, so
+India is counted normally everywhere it is stocked.
+Repo-copy defect carried as filed: Chapters 1, 10
+and 11 are missing from the repo PDF and Chapter 4
+is duplicated; the missing chapters were recovered
+from the recorded archive.org source
+(ncert-fess1) and placed complete, with the defect
+filed as a library debt in every stocked lesson's
+sources header.

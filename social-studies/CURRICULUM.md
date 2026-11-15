@@ -11069,3 +11069,139 @@ Chimurenga, and the symbols-and-holidays settlement —
 closing at Grade 7 with independence defined and the
 land question faced straight.
 History lessons: 753 → 771.
+
+## History expansion — India — built 2026-11-15
+
+44 new lessons, 306 questions. **The Ancient World** +44:
+Çatal Höyük — a Neolithic town
+(ancient-world/catal-huyuk-a-neolithic-town),
+Cave paintings of France
+(ancient-world/cave-paintings-of-france),
+Harappan cities of Gujarat — Dholavira and Lothal
+(ancient-world/harappan-cities-of-gujarat),
+Harappan crafts and seals
+(ancient-world/harappan-crafts-and-seals),
+India — ancient science and medicine
+(ancient-world/india-ancient-science-and-medicine),
+India — Ashoka and the Kalinga war
+(ancient-world/india-ashoka-and-the-kalinga-war),
+India — Ashoka's dhamma
+(ancient-world/india-ashokas-dhamma),
+India — the ashvamedha and the new rajas
+(ancient-world/india-ashvamedha-and-the-new-rajas),
+India — craft guilds and women's work
+(ancient-world/india-craft-guilds-and-womens-work),
+India — early cities and ring wells
+(ancient-world/india-early-cities-and-ring-wells),
+India — first coins and barter
+(ancient-world/india-first-coins-and-barter),
+India — first farmers and herders
+(ancient-world/india-first-farmers-and-herders),
+India — Harshavardhana
+(ancient-world/india-harshavardhana),
+India — how the new kingdoms were run
+(ancient-world/india-how-the-new-kingdoms-were-run),
+India — hunter-gatherers on the move
+(ancient-world/india-hunter-gatherers-on-the-move),
+India — janapadas and mahajanapadas
+(ancient-world/india-janapadas-and-mahajanapadas),
+India — language families of the subcontinent
+(ancient-world/india-language-families-of-the-subcontinent),
+India — Magadha becomes great
+(ancient-world/india-magadha-becomes-great),
+India — Mathura, a city of many functions
+(ancient-world/india-mathura-a-city-of-many-functions),
+India — megaliths and burials
+(ancient-world/india-megaliths-and-burials),
+India — names of the land
+(ancient-world/india-names-of-the-land),
+India — ordinary people under the new kings
+(ancient-world/india-ordinary-people-under-the-new-kings),
+India — the Pallavas and Chalukyas
+(ancient-world/india-pallavas-and-chalukyas),
+India — pilgrims: Fa Xian, Xuan Zang and Nalanda
+(ancient-world/india-pilgrims-fa-xian-xuan-zang-and-nalanda),
+India — the Puranas and the great epics
+(ancient-world/india-puranas-and-the-great-epics),
+India — rivers and early peoples
+(ancient-world/india-rivers-and-early-peoples),
+India — Sangam literature
+(ancient-world/india-sangam-literature),
+India — stories ordinary people told
+(ancient-world/india-stories-ordinary-people-told),
+India — stupas and early temples
+(ancient-world/india-stupas-and-early-temples),
+India — the Tamil epics
+(ancient-world/india-tamil-epics),
+India — the Ajanta paintings
+(ancient-world/india-the-ajanta-paintings),
+India — the ashrama system
+(ancient-world/india-the-ashrama-system),
+India — the Buddha
+(ancient-world/india-the-buddha),
+India — the Gupta empire
+(ancient-world/india-the-gupta-empire),
+India — the Harappan cities end
+(ancient-world/india-the-harappan-cities-end),
+India — the iron pillar and metallurgy
+(ancient-world/india-the-iron-pillar-and-metallurgy),
+India — the Mauryan empire
+(ancient-world/india-the-mauryan-empire),
+India — the sangha and the viharas
+(ancient-world/india-the-sangha-and-the-viharas),
+India — the three crowned kings
+(ancient-world/india-the-three-crowned-kings),
+India — the Vedas and the Rigveda
+(ancient-world/india-the-vedas-and-the-rigveda),
+India — Upanishadic thinkers
+(ancient-world/india-upanishadic-thinkers),
+India — Vajji, the early republic
+(ancient-world/india-vajji-the-early-republic),
+India — Vedic battles, cattle and rajas
+(ancient-world/india-vedic-battles-cattle-and-rajas),
+India — villages, land and labour
+(ancient-world/india-villages-land-and-labour).
+All 83 India placements are stocked (32 into 16
+existing lessons — What history is 2, From evidence to
+a written history 5, Dating the past 1, Who studies
+prehistory 1, From stone tools to farming 1, Ancient
+civilisations — India 5, India's order and gifts 2,
+Ancient civilisations — China 2, Athens and democracy
+1, The Great Wall and China's gifts 1, Trade routes
+that linked the old world 4, World religions — the
+five main faiths 3, Faiths that shaped states 1,
+Persia — Cyrus, roads, post and Zoroaster 1,
+Christianity — from persecuted sect to state religion
+1, The rise and expansion of Islam 1 — and 51 into the
+44 new lessons) on the one placed student book:
+*Our Pasts-I — Textbook in History for Class VI*
+(NCERT, New Delhi; first edition February 2006, this
+copy reprint 2020-21; ISBN 81-7450-493-1). HONESTY:
+this is a STUDENT book, so India counts normally in
+every lesson it is stocked in — no teacher-guide
+evidence in this merge. LIBRARY DEBT, carried as
+filed in the placements: the repo copy of Our
+Pasts-I is PARTIAL — Chapter 1 (printed pp. 1–10),
+Chapter 10 (pp. 103–113) and Chapter 11
+(pp. 114–124) are MISSING from the repo PDF, and
+Chapter 4 appears twice (PDF pp. 37–46 and 47–57);
+the three missing chapters were recovered and read
+in full from the record's own recorded source
+(archive.org/details/ncert-fess1, chapter files
+fees101 / fess1010 / fess1011), so the book is
+placed COMPLETE, with the repo-copy defect filed in
+every stocked lesson's sources header. The other
+books in India's records (Geography / Civics /
+Economics among the 17 distinct books) were
+cover-verified and filed record-only in the
+placements — not placed here. India's own way is
+stocked inside the lessons: NCERT teaches history
+as a story journey — every chapter opens with a
+present-day child whose question starts the chapter,
+primary sources are quoted in boxes, an "Elsewhere"
+box sets India beside the wider world each chapter,
+and kings are taught alongside ordinary people —
+farmers, fishers, weavers, slaves — with the book's
+title itself plural: Our Pasts, because different
+groups lived different pasts.
+History lessons: 771 → 815.
