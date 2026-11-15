@@ -1,6 +1,6 @@
 # Sources — Heritage — what it is and why it matters
 
-countries: Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivia, Zimbabwe, Eritrea, Cambodia, Fiji, Slovenia, Syria, Mauritania, Jordan, Bhutan, Cuba, Greece, Nauru, Niue, Tuvalu, Saudi Arabia, Rwanda, Poland, Guatemala, Australia, Bahamas, Nepal, Belarus, Dominican Republic, Egypt, Pakistan, Iran, Suriname, Palestine, Colombia
+countries: Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivia, Zimbabwe, Eritrea, Cambodia, Fiji, Slovenia, Syria, Mauritania, Jordan, Bhutan, Cuba, Greece, Nauru, Niue, Tuvalu, Saudi Arabia, Rwanda, Poland, Guatemala, Australia, Bahamas, Nepal, Belarus, Dominican Republic, Egypt, Pakistan, Iran, Suriname, Palestine, Colombia, South Sudan
 
 **Book 1:** *History, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, Addis Ababa, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-064-2, 210 printed pp. Printed page = PDF page − 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g09-student-placements.md
 
@@ -975,3 +975,96 @@ Colombia's own way (Postprimaria G7 (student book, Spanish)): Grade 7 Postprimar
 **Acceptance count: taught in 35 countries (Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivia, Zimbabwe, Eritrea, Cambodia, Fiji, Slovenia, Syria, Mauritania, Jordan, Bhutan, Cuba, Greece, Nauru, Niue, Tuvalu, Saudi Arabia, Rwanda, Poland, Guatemala, Australia, Bahamas, Nepal, Belarus, Dominican Republic, Egypt, Pakistan, Iran, Suriname, Palestine, Colombia).**
 
 Searchable tags: Colombia, Heritage — what it is and why it matters, first-steps, History expansion 2026-11-15
+
+
+## History expansion (2026-11-15) — South Sudan stocked
+
+**Book 1 — P1 Social Studies Pupil's Book (student book, English)**
+- Title as printed: Primary Social Studies 1 Pupil's Book
+- Grade: Primary 1 (student/teacher: STUDENT)
+- Publisher: Ministry of General Education and Instruction, Republic of South Sudan; year 2018; ISBN no ISBN printed
+- PDF pages: 80 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 4 placements — 4 to existing lessons, 0 NEW LESSON NEEDED
+- South Sudan's own way: History starts at home — a child's own family, grandparents and ancestors, and traditional vs modern objects, before any place or nation.
+- Non-History parts named, not placed: Geography — Unit 2 Where we live, printed pp. 25-37; Unit 3 Exploring our world / maps, pp. 38-49. Civics — Unit 1 Activity 4 Roles of family members, pp. 14-17; Unit 4 Working together, pp. 50-63; Unit 5 Problem solving / keeping peace, pp. 64-77.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — Objects found at home — story beats: children sort traditional and modern objects at home and at school and learn the past survives in things people keep and share (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | South Sudan, *Primary Social Studies 1 Pupil's Book*, printed p. 18 |
+
+South Sudan's own way (Book 1 — P1 Social Studies Pupil's Book (student book, English)): History starts at home — a child's own family, grandparents and ancestors, and traditional vs modern objects, before any place or nation. That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 3 — P2 Social Studies Pupil's Book (student book, English)**
+- Title as printed: Primary Social Studies 2 Pupil's Book
+- Grade: Primary 2 (student/teacher: STUDENT)
+- Publisher: Ministry of General Education and Instruction, Republic of South Sudan; year 2018; ISBN no ISBN printed
+- PDF pages: 83 (cover/title page verified against the record title; image-only book read via 100 DPI contact sheets)
+- Verdict: COMPLETE
+- Tally: 6 placements — 4 to existing lessons, 2 NEW LESSON NEEDED
+- South Sudan's own way: Change itself is the history lesson — houses, clothes, roads, weapons and messages then and now, in pictures — plus each community's own origin story told by parents.
+- Non-History parts named, not placed: Geography — Unit 2 The Land of South Sudan, printed pp. 21-39; Unit 3 Jobs here and there (location parts), pp. 40-54. Civics — Unit 4 Our Community (roles/activities parts), pp. 62-67; Unit 5 Time to decide, pp. 68-77.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — Objects that were used long time ago and the ones used today — story beats: Keji, Adek and Pita sort spears, skin dresses, pots and hoes of long ago against today's objects, and find some old things are still used (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | South Sudan, *Primary Social Studies 2 Pupil's Book*, printed p. 12 |
+| South Sudan part — Events that were practiced long time ago and today — story beats: old events and ceremonies are compared with today's, so children see traditions surviving, changing or disappearing (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | South Sudan, *Primary Social Studies 2 Pupil's Book*, printed p. 16 |
+
+South Sudan's own way (Book 3 — P2 Social Studies Pupil's Book (student book, English)): Change itself is the history lesson — houses, clothes, roads, weapons and messages then and now, in pictures — plus each community's own origin story told by parents. That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 9 — P5 Social Studies Pupil's Book (student book, English)**
+- Title as printed: Primary Social Studies 5 Pupil's Book
+- Grade: Primary 5 (student/teacher: STUDENT)
+- Publisher: Ministry of General Education and Instruction, Republic of South Sudan; year 2018; ISBN no ISBN printed
+- PDF pages: 79 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 9 placements — 6 to existing lessons, 3 NEW LESSON NEEDED
+- South Sudan's own way: A full kingdoms unit taught comparatively — South Sudan's Azande, Shilluk, Otuho and Anyuak set in one table against Meroe, Bunyoro, Buganda, Zulu and Asante, with evidence (artefacts vs written records) taught before the stories.
+- Non-History parts named, not placed: Geography — Unit 2 This is our land, printed pp. 21-41; Unit 4 Farming, pp. 61-72. Civics — Unit 3 Leaders and decision makers, pp. 43-60.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — Cultural features of the Kingdoms of South Sudan — story beats: Azande kings' weapons, Anyuak royal regalia, the Asante royal stool and cloth, Meroe kings and a Kush stone incense burner are drawn and modelled as heritage children can still see (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | South Sudan, *Primary Social Studies 5 Pupil's Book*, printed p. 18 |
+
+South Sudan's own way (Book 9 — P5 Social Studies Pupil's Book (student book, English)): A full kingdoms unit taught comparatively — South Sudan's Azande, Shilluk, Otuho and Anyuak set in one table against Meroe, Bunyoro, Buganda, Zulu and Asante, with evidence (artefacts vs written records) taught before the stories. That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 10 — P5 Social Studies Teacher's Guide (teacher guide, English)**
+- Title as printed: Primary Social Studies 5 Teacher's Guide
+- Grade: Primary 5 (student/teacher: TEACHER)
+- Publisher: Ministry of General Education and Instruction, Republic of South Sudan; year 2018; ISBN no ISBN printed
+- PDF pages: 80 (title page verified in text against the record title)
+- Verdict: COMPLETE — mirrors Pupil's Book Units 1-4
+- Tally: 2 placements — 2 to existing lessons, 0 NEW LESSON NEEDED
+- South Sudan's own way: The guide pushes past description — learners evaluate systems of governance, hunt for what promoted peace and equality, and act kingdom scenes in drama and role play.
+- Non-History parts named, not placed: Geography — Unit 2 This is our land, TG Unit 2; Unit 4 Farming, TG Unit 4. Civics — Unit 3 Leaders and decision makers, TG Unit 3.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/south-sudan-placements.md.
+
+This book is a teacher guide: its rows stand as teacher-guide evidence only, counted nowhere in acceptance — South Sudan is counted in this lesson on its student books.
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — What past kingdoms left in present-day South Sudan — story beats: learners reflect on which characteristics of the old kingdoms are reflected in South Sudan now, and present them through drama and role play (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | South Sudan, *Primary Social Studies 5 Teacher's Guide* (teacher guide — evidence), printed p. 1 |
+
+South Sudan's own way (Book 10 — P5 Social Studies Teacher's Guide (teacher guide, English)): The guide pushes past description — learners evaluate systems of governance, hunt for what promoted peace and equality, and act kingdom scenes in drama and role play. That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 13 — P7 Social Studies Pupil's Book (student book, English)**
+- Title as printed: Primary Social Studies 7 Pupil's Book
+- Grade: Primary 7 (student/teacher: STUDENT)
+- Publisher: Ministry of General Education and Instruction, Republic of South Sudan; year 2018; ISBN no ISBN printed
+- PDF pages: 130 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 11 placements — 10 to existing lessons, 1 NEW LESSON NEEDED
+- South Sudan's own way: World civilisation history arrives whole at P7 — Maya, Aztec and Rome rise and fall by the same internal/external test, and the unit ends by debating whether Roman civilisation contributed to South Sudan.
+- Non-History parts named, not placed: Geography — Unit 2 Exploring physical features, printed pp. 22-48; Unit 3 Mining in South Sudan, pp. 49-81. Civics — Unit 4 Promotion of gender equality, pp. 83-98; Unit 5 Just and fair society, pp. 100-121.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — Benefits of civilisation to modern society — story beats: civilisation leaves modern society architecture, political structures beyond tribal law, cultural exchange, technology from shared ideas, and safety in numbers (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | South Sudan, *Primary Social Studies 7 Pupil's Book*, printed p. 13 |
+
+South Sudan's own way (Book 13 — P7 Social Studies Pupil's Book (student book, English)): World civilisation history arrives whole at P7 — Maya, Aztec and Rome rise and fall by the same internal/external test, and the unit ends by debating whether Roman civilisation contributed to South Sudan. That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 36 countries (Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivia, Zimbabwe, Eritrea, Cambodia, Fiji, Slovenia, Syria, Mauritania, Jordan, Bhutan, Cuba, Greece, Nauru, Niue, Tuvalu, Saudi Arabia, Rwanda, Poland, Guatemala, Australia, Bahamas, Nepal, Belarus, Dominican Republic, Egypt, Pakistan, Iran, Suriname, Palestine, Colombia, South Sudan).**

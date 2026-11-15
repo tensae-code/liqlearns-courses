@@ -1,6 +1,6 @@
 # Sources — How Africa's regions traded with each other
 
-countries: Ethiopia, Gambia
+countries: Ethiopia, Gambia, South Sudan
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -59,3 +59,24 @@ Gambia's own way (History expansion, 2026-11-15): A free, scholar-written region
 Djibouti's own way: History is taught entirely as Africa's own story, organised in 9 learning units (UA) that all feed one base competence — arguing for continental integration from Africa's past; every unit is planned twice (elementary and middle band) and then re-taught through sample lesson fiches (PDF pp. 31–69). That way is stocked here as the way Djibouti teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed. Library debt, carried as filed: the Djibouti shelf holds this continental guide, not a Djibouti national curriculum book — Djibouti's own primary history/social-studies book is still missing.
 
 **Acceptance count: taught in 2 countries (Ethiopia, Gambia) — unchanged; the Djibouti placement(s) above are teacher-guide evidence only, counted nowhere. Djibouti is not added to this lesson's countries line.**
+
+
+## History expansion (2026-11-15) — South Sudan stocked
+
+**Book 17 — S1 History Student's Book (student book, English)**
+- Title as printed: Secondary History 1 Student's Book (inner title page misprints "Primary History Pupil's Book 1" — see library debts)
+- Grade: Secondary 1 / Grade 9 (student/teacher: STUDENT)
+- Publisher: Ministry of General Education and Instruction, Republic of South Sudan; year 2018; ISBN no ISBN printed
+- PDF pages: 143 (cover verified against the record title)
+- Verdict: COMPLETE
+- Tally: 25 placements — 14 to existing lessons, 11 NEW LESSON NEEDED
+- South Sudan's own way: A national history built from long source extracts pupils must interrogate — Seligman on the Shilluk reth, Evans-Pritchard on Azande witchcraft, Holt on the Mahdiyya, Samuel Baker on Khartoum, and living testimony from former slaves Simon Deng and Ayak Piol Mabior (filed as plot summaries only).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — The Long Distance Trade — story beats: East African caravan trade grows on ivory and slaves, organises porters and routes from the coast to the interior, enriches some communities and devastates others before declining (History expansion, 2026-11-15; original placement slug: africa-to-1500/how-africas-regions-traded-with-each-other) | South Sudan, *Secondary History 1 Student's Book (inner title page misprints "Primary History Pupil's Book 1" — see library debts)*, printed p. 11 |
+
+South Sudan's own way (Book 17 — S1 History Student's Book (student book, English)): A national history built from long source extracts pupils must interrogate — Seligman on the Shilluk reth, Evans-Pritchard on Azande witchcraft, Holt on the Mahdiyya, Samuel Baker on Khartoum, and living testimony from former slaves Simon Deng and Ayak Piol Mabior (filed as plot summaries only). That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 3 countries (Ethiopia, Gambia, South Sudan).**

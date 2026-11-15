@@ -1,6 +1,6 @@
 # Sources — The Second World War — the Pacific and the results
 
-countries: Ethiopia, United States, Turkey, Micronesia, Australia, Malaysia, Indonesia
+countries: Ethiopia, United States, Turkey, Micronesia, Australia, Malaysia, Indonesia, South Sudan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 138).
 
@@ -95,3 +95,24 @@ Malaysia's own way (Sejarah Tingkatan 4): The nation-building year: Melaka is re
 Indonesia's own way (Sejarah untuk SMA/MA/SMK/MAK Kelas XI, Edisi Revisi, Kelas XI / Grade 11 (student/teacher: STUDENT)): the national story is told as resistance and awakening — every colonial episode is paired with the Indonesians who fought, organised, wrote or negotiated against it, and world events (1453, Versailles, the Depression, Hiroshima) are admitted only where they change Indonesia's fate. That way is stocked here as the way Indonesia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 7 countries (Ethiopia, United States, Turkey, Micronesia, Australia, Malaysia, Indonesia).**
+
+
+## History expansion (2026-11-15) — South Sudan stocked
+
+**Book 19 — S2 History Student's Book (student book, English)**
+- Title as printed: Secondary History 2 Student's Book
+- Grade: Secondary 2 / Grade 10 (student/teacher: STUDENT)
+- Publisher: Ministry of General Education and Instruction, Republic of South Sudan; year 2018; ISBN no ISBN printed
+- PDF pages: 143 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 22 placements — 14 to existing lessons, 8 NEW LESSON NEEDED
+- South Sudan's own way: World history (French Revolution to Cold War) is the frame, but the centre of the book is a source-based Unit 4 on South Sudan's own 20th century — condominium separation policy, Juba 1947, Anya-Nya, Addis Ababa and the SPLM/A, told with named southern actors like Clement Mboro, Joseph Lagu, Akuot Atem and John Garang.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — Effects of the Second World War and impacts of both wars on Africa — story beats: Europe counts political, economic and social losses, Africa counts its own impacts from both world wars, and pupils ask how destructive wars can be avoided (History expansion, 2026-11-15; original placement slug: modern-world/the-second-world-war-the-pacific-and-the-results) | South Sudan, *Secondary History 2 Student's Book*, printed p. 55 |
+
+South Sudan's own way (Book 19 — S2 History Student's Book (student book, English)): World history (French Revolution to Cold War) is the frame, but the centre of the book is a source-based Unit 4 on South Sudan's own 20th century — condominium separation policy, Juba 1947, Anya-Nya, Addis Ababa and the SPLM/A, told with named southern actors like Clement Mboro, Joseph Lagu, Akuot Atem and John Garang. That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 8 countries (Ethiopia, United States, Turkey, Micronesia, Australia, Malaysia, Indonesia, South Sudan).**

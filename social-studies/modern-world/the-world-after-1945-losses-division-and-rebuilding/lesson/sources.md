@@ -1,6 +1,6 @@
 # Sources — The world after 1945 — losses, division and rebuilding
 
-countries: Ethiopia, Kuwait, Montenegro, Pakistan, Iran, Cambodia, Colombia
+countries: Ethiopia, Kuwait, Montenegro, Pakistan, Iran, Cambodia, Colombia, South Sudan
 
 **Book 1:** *History, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-067-3. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g12-student-placements.md
 
@@ -177,3 +177,25 @@ Colombia's own way (Secundaria Activa G9 (student book, Spanish)): Grade 9 Secun
 **Acceptance count: taught in 7 countries (Ethiopia, Kuwait, Montenegro, Pakistan, Iran, Cambodia, Colombia).**
 
 Searchable tags: Colombia, The world after 1945 — losses, division and rebuilding, modern-world, History expansion 2026-11-15
+
+
+## History expansion (2026-11-15) — South Sudan stocked
+
+**Book 23 — S4 History Student's Book (student book, English)**
+- Title as printed: Secondary History 4 Student's Book
+- Grade: Secondary 4 / Grade 12 (student/teacher: STUDENT)
+- Publisher: Ministry of General Education and Instruction, Republic of South Sudan; year 2018; ISBN no ISBN printed
+- PDF pages: 165 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 23 placements — 11 to existing lessons, 12 NEW LESSON NEEDED
+- South Sudan's own way: The final year is entirely world and African history beyond South Sudan — USA, Russia, Latin America, the Middle East, China and Japan — taught from primary sources (Lincoln's 1854 and 1858 speeches open the book) and ending where S1 ended, with the OAU and AU.
+- Non-History parts named, not placed: Civics — Unit 1 Activity 3 The USA system of government, printed p. 5. Religious Education — Unit 4 Activity 8 Comparison between the Sunni and Shia Islamic sects, p. 93.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — Inter-war period and rise of USA as a super power — story beats: America passes through the inter-war years and emerges as a super power with present political and economic superiority (History expansion, 2026-11-15; original placement slug: modern-world/the-world-after-1945-losses-division-and-rebuilding) | South Sudan, *Secondary History 4 Student's Book*, printed p. 13 |
+
+South Sudan's own way (Book 23 — S4 History Student's Book (student book, English)): The final year is entirely world and African history beyond South Sudan — USA, Russia, Latin America, the Middle East, China and Japan — taught from primary sources (Lincoln's 1854 and 1858 speeches open the book) and ending where S1 ended, with the OAU and AU. That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 8 countries (Ethiopia, Kuwait, Montenegro, Pakistan, Iran, Cambodia, Colombia, South Sudan).**

@@ -1,6 +1,6 @@
 # Sources — East African Coast — the Swahili Cities
 
-countries: Ethiopia, Nigeria, Rwanda
+countries: Ethiopia, Nigeria, Rwanda, South Sudan
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -49,3 +49,24 @@ Rwanda's own way (B7): The final primary year is Rwanda's own modern story told 
 Rwanda's Book 4 (rw-p3-tg) is RECORD ONLY — MISMATCH, not placed: the file behind the record is *Inyoborabarezi y'isomo Ry'ubumenyi mbonezamubano — Igice cy'iyobokamana rya gikirisitu, Umwaka wa 3* (Teacher guide for the Christian Religious Education part of Social Studies & Religious Education), Primary 3, Rwanda Education Board (REB), Kigali, 2019, no ISBN printed, 166 PDF pages — it does NOT match the record's Social Studies teacher-guide title, contains no Social Studies Unit 9 (Amateka / timeline) guidance, and its prophet-story lessons are Religious Education, not History. Library debt, as filed: the true P3 Social Studies teacher guide is still missing from the library; this slot holds the RE guide instead.
 
 **Acceptance count: taught in 3 countries (Ethiopia, Nigeria, Rwanda).**
+
+
+## History expansion (2026-11-15) — South Sudan stocked
+
+**Book 17 — S1 History Student's Book (student book, English)**
+- Title as printed: Secondary History 1 Student's Book (inner title page misprints "Primary History Pupil's Book 1" — see library debts)
+- Grade: Secondary 1 / Grade 9 (student/teacher: STUDENT)
+- Publisher: Ministry of General Education and Instruction, Republic of South Sudan; year 2018; ISBN no ISBN printed
+- PDF pages: 143 (cover verified against the record title)
+- Verdict: COMPLETE
+- Tally: 25 placements — 14 to existing lessons, 11 NEW LESSON NEEDED
+- South Sudan's own way: A national history built from long source extracts pupils must interrogate — Seligman on the Shilluk reth, Evans-Pritchard on Azande witchcraft, Holt on the Mahdiyya, Samuel Baker on Khartoum, and living testimony from former slaves Simon Deng and Ayak Piol Mabior (filed as plot summaries only).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — The Coastal Trade — story beats: coastal trade develops on the East African coast, organises around ports and monsoon exchange, then declines, changing the communities that lived by it (History expansion, 2026-11-15; original placement slug: africa-to-1500/east-african-coast-the-swahili-cities) | South Sudan, *Secondary History 1 Student's Book (inner title page misprints "Primary History Pupil's Book 1" — see library debts)*, printed p. 17 |
+
+South Sudan's own way (Book 17 — S1 History Student's Book (student book, English)): A national history built from long source extracts pupils must interrogate — Seligman on the Shilluk reth, Evans-Pritchard on Azande witchcraft, Holt on the Mahdiyya, Samuel Baker on Khartoum, and living testimony from former slaves Simon Deng and Ayak Piol Mabior (filed as plot summaries only). That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 4 countries (Ethiopia, Nigeria, Rwanda, South Sudan).**

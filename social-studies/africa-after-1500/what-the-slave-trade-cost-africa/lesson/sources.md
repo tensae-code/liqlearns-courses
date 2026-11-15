@@ -1,6 +1,6 @@
 # Sources — What the slave trade cost Africa
 
-countries: Ethiopia, Gambia
+countries: Ethiopia, Gambia, South Sudan
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -27,3 +27,24 @@ Searchable tags: what, the, slave, trade, cost, africa, Grade 11 History, Unit 6
 Gambia's own way (History expansion, 2026-11-15): A free, scholar-written regional textbook built for the WAEC exam shared by the five Anglophone West African states — West Africa's whole story told by West African and diaspora historians, with two chapters (women and authority; the environment) the authors added beyond the syllabus, and Gambian historian Hassoum Ceesay on the author team. That way is stocked here as the way Gambia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 2 countries (Ethiopia, Gambia).**
+
+
+## History expansion (2026-11-15) — South Sudan stocked
+
+**Book 17 — S1 History Student's Book (student book, English)**
+- Title as printed: Secondary History 1 Student's Book (inner title page misprints "Primary History Pupil's Book 1" — see library debts)
+- Grade: Secondary 1 / Grade 9 (student/teacher: STUDENT)
+- Publisher: Ministry of General Education and Instruction, Republic of South Sudan; year 2018; ISBN no ISBN printed
+- PDF pages: 143 (cover verified against the record title)
+- Verdict: COMPLETE
+- Tally: 25 placements — 14 to existing lessons, 11 NEW LESSON NEEDED
+- South Sudan's own way: A national history built from long source extracts pupils must interrogate — Seligman on the Shilluk reth, Evans-Pritchard on Azande witchcraft, Holt on the Mahdiyya, Samuel Baker on Khartoum, and living testimony from former slaves Simon Deng and Ayak Piol Mabior (filed as plot summaries only).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — Modern day slavery and comparison with the 17th century — story beats: slavery persists in the 21st century — Ayak Piol Mabior's testimony (plot summary: abducted as a child in a government-backed raid, enslaved in Darfur, she escapes and is repatriated in February 2014) is compared with 17th-century slavery for motive, victims and payment (History expansion, 2026-11-15; original placement slug: africa-after-1500/what-the-slave-trade-cost-africa) | South Sudan, *Secondary History 1 Student's Book (inner title page misprints "Primary History Pupil's Book 1" — see library debts)*, printed p. 118 |
+
+South Sudan's own way (Book 17 — S1 History Student's Book (student book, English)): A national history built from long source extracts pupils must interrogate — Seligman on the Shilluk reth, Evans-Pritchard on Azande witchcraft, Holt on the Mahdiyya, Samuel Baker on Khartoum, and living testimony from former slaves Simon Deng and Ayak Piol Mabior (filed as plot summaries only). That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 3 countries (Ethiopia, Gambia, South Sudan).**

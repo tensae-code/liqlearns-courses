@@ -1,6 +1,6 @@
 # Sources — The First World War — Versailles and the results
 
-countries: Ethiopia, Indonesia, Montenegro, United Kingdom, Pakistan, Cambodia, Mauritania
+countries: Ethiopia, Indonesia, Montenegro, United Kingdom, Pakistan, Cambodia, Mauritania, South Sudan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 135).
 
@@ -172,3 +172,24 @@ Searchable tags: Cambodia, The First World War — Versailles and the results, m
 Mauritania's own way (mr-g08 — History, 2nd preparatory year (student book, Arabic)): Three units — (1) Mauritania and Bilad al-Sudan in the middle centuries and their ties to North Africa, (2) Europe's great transformations 15th–19th centuries, (3) the world from modern colonialism to the end of WWII. Mauritania's own medieval story (Islam's peaceful entry, the Almoravids born on its soil, the Sudan empires, the Sahara trade) is taught first and at greatest length. That way is stocked here as the way Mauritania teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 7 countries (Ethiopia, Indonesia, Montenegro, United Kingdom, Pakistan, Cambodia, Mauritania).**
+
+
+## History expansion (2026-11-15) — South Sudan stocked
+
+**Book 19 — S2 History Student's Book (student book, English)**
+- Title as printed: Secondary History 2 Student's Book
+- Grade: Secondary 2 / Grade 10 (student/teacher: STUDENT)
+- Publisher: Ministry of General Education and Instruction, Republic of South Sudan; year 2018; ISBN no ISBN printed
+- PDF pages: 143 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 22 placements — 14 to existing lessons, 8 NEW LESSON NEEDED
+- South Sudan's own way: World history (French Revolution to Cold War) is the frame, but the centre of the book is a source-based Unit 4 on South Sudan's own 20th century — condominium separation policy, Juba 1947, Anya-Nya, Addis Ababa and the SPLM/A, told with named southern actors like Clement Mboro, Joseph Lagu, Akuot Atem and John Garang.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — Effects of the First World War on Europe — story beats: political, economic and social effects are counted, including the war's effect on women and the extension of the franchise (History expansion, 2026-11-15; original placement slug: modern-world/the-first-world-war-versailles-and-the-results) | South Sudan, *Secondary History 2 Student's Book*, printed p. 43 |
+
+South Sudan's own way (Book 19 — S2 History Student's Book (student book, English)): World history (French Revolution to Cold War) is the frame, but the centre of the book is a source-based Unit 4 on South Sudan's own 20th century — condominium separation policy, Juba 1947, Anya-Nya, Addis Ababa and the SPLM/A, told with named southern actors like Clement Mboro, Joseph Lagu, Akuot Atem and John Garang. That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 8 countries (Ethiopia, Indonesia, Montenegro, United Kingdom, Pakistan, Cambodia, Mauritania, South Sudan).**

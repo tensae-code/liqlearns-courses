@@ -1,6 +1,6 @@
 # Sources — The Industrial Revolution — what changed and why England first
 
-countries: Ethiopia, Brazil, Costa Rica, Australia, Ecuador, Kuwait, Fiji, Montenegro, Dominican Republic, Palestine, Colombia
+countries: Ethiopia, Brazil, Costa Rica, Australia, Ecuador, Kuwait, Fiji, Montenegro, Dominican Republic, Palestine, Colombia, South Sudan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 130).
 
@@ -226,3 +226,25 @@ Colombia's own way (G5 Cartilla 1 (student book, Spanish)): Grade 5 runs Colony 
 **Acceptance count: taught in 11 countries (Ethiopia, Brazil, Costa Rica, Australia, Ecuador, Kuwait, Fiji, Montenegro, Dominican Republic, Palestine, Colombia).**
 
 Searchable tags: Colombia, The Industrial Revolution — what changed and why England first, modern-world, History expansion 2026-11-15
+
+
+## History expansion (2026-11-15) — South Sudan stocked
+
+**Book 7 — P4 Social Studies Pupil's Book (student book, English)**
+- Title as printed: Primary Social Studies 4 Pupil's Book
+- Grade: Primary 4 (student/teacher: STUDENT)
+- Publisher: Ministry of General Education and Instruction, Republic of South Sudan; year 2018; ISBN no ISBN printed
+- PDF pages: 85 (cover/title page verified against the record title; image-only book read via 100 DPI contact sheets for Units 1 and 4)
+- Verdict: COMPLETE
+- Tally: 8 placements — 5 to existing lessons, 3 NEW LESSON NEEDED
+- South Sudan's own way: World inventions (plough, steam engine, printing press) are taught only through what they changed at home — food, dress, messages, travel — and origin stories are treated as each people's own history, set beside Bible and Koran creation accounts.
+- Non-History parts named, not placed: Geography — Unit 2 Weather and climate, printed pp. 18-39; Unit 3 Interesting industries, pp. 40-57. Civics — Unit 4 Religious practices and symbols / laws that govern a community, pp. 63-67; Unit 5 Avoiding conflicts, pp. 68-79.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — How technology has changed the way of life of the people of South Sudan — story beats: life in the past is not life today — technology rewrites eating habits, dressing, communication and transport, from messengers to mobile phones (History expansion, 2026-11-15; original placement slug: modern-world/the-industrial-revolution-what-changed-and-why-england-first) | South Sudan, *Primary Social Studies 4 Pupil's Book*, printed p. 4 |
+
+South Sudan's own way (Book 7 — P4 Social Studies Pupil's Book (student book, English)): World inventions (plough, steam engine, printing press) are taught only through what they changed at home — food, dress, messages, travel — and origin stories are treated as each people's own history, set beside Bible and Koran creation accounts. That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 12 countries (Ethiopia, Brazil, Costa Rica, Australia, Ecuador, Kuwait, Fiji, Montenegro, Dominican Republic, Palestine, Colombia, South Sudan).**

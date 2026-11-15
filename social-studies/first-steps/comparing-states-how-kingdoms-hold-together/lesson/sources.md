@@ -1,6 +1,6 @@
 # Sources — Comparing states: how kingdoms hold together
 
-countries: Ethiopia, Bangladesh, Nigeria, Micronesia, Cyprus, Syria, Colombia, Mauritania
+countries: Ethiopia, Bangladesh, Nigeria, Micronesia, Cyprus, Syria, Colombia, Mauritania, South Sudan
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -183,3 +183,98 @@ Mauritania's own way (mr-g07 — History, 1st preparatory year (student book, Ar
 Mauritania's own way (mr-g13 — History, 7th year, Arts stream (student book, Arabic)): The final Arts year is contemporary-world civics-history: the UN, ideology and the two camps, the Cold War and the new world order; liberation across India, Algeria, Mauritania and sub-Saharan Africa; the results of colonialism (Arab League, African Union, the problems of new states); and a closing unit on civilisations — the concept, Islamic civilisation's character and contribution, and European civilisation. That way is stocked here as the way Mauritania teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 8 countries (Ethiopia, Bangladesh, Nigeria, Micronesia, Cyprus, Syria, Colombia, Mauritania).**
+
+
+## History expansion (2026-11-15) — South Sudan stocked
+
+**Book 9 — P5 Social Studies Pupil's Book (student book, English)**
+- Title as printed: Primary Social Studies 5 Pupil's Book
+- Grade: Primary 5 (student/teacher: STUDENT)
+- Publisher: Ministry of General Education and Instruction, Republic of South Sudan; year 2018; ISBN no ISBN printed
+- PDF pages: 79 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 9 placements — 6 to existing lessons, 3 NEW LESSON NEEDED
+- South Sudan's own way: A full kingdoms unit taught comparatively — South Sudan's Azande, Shilluk, Otuho and Anyuak set in one table against Meroe, Bunyoro, Buganda, Zulu and Asante, with evidence (artefacts vs written records) taught before the stories.
+- Non-History parts named, not placed: Geography — Unit 2 This is our land, printed pp. 21-41; Unit 4 Farming, pp. 61-72. Civics — Unit 3 Leaders and decision makers, pp. 43-60.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — What happened elsewhere in Africa? — story beats: a map of Africa's main kingdoms in 680 AD sets South Sudan beside Bunyoro-Kitara, the Zulu and Asante, and children ask why some kingdoms are called empires (History expansion, 2026-11-15; original placement slug: first-steps/comparing-states-how-kingdoms-hold-together) | South Sudan, *Primary Social Studies 5 Pupil's Book*, printed p. 7 |
+| South Sudan part — Political, cultural and economic organisation of the kingdoms — story beats: centralised kings command armies yet a council of elders can remove a king; kingdoms share gods of rain and harvest, communal cultivation, iron smelting for spears and shields, and trade of farm produce for textiles (History expansion, 2026-11-15; original placement slug: first-steps/comparing-states-how-kingdoms-hold-together) | South Sudan, *Primary Social Studies 5 Pupil's Book*, printed p. 15 |
+
+South Sudan's own way (Book 9 — P5 Social Studies Pupil's Book (student book, English)): A full kingdoms unit taught comparatively — South Sudan's Azande, Shilluk, Otuho and Anyuak set in one table against Meroe, Bunyoro, Buganda, Zulu and Asante, with evidence (artefacts vs written records) taught before the stories. That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 10 — P5 Social Studies Teacher's Guide (teacher guide, English)**
+- Title as printed: Primary Social Studies 5 Teacher's Guide
+- Grade: Primary 5 (student/teacher: TEACHER)
+- Publisher: Ministry of General Education and Instruction, Republic of South Sudan; year 2018; ISBN no ISBN printed
+- PDF pages: 80 (title page verified in text against the record title)
+- Verdict: COMPLETE — mirrors Pupil's Book Units 1-4
+- Tally: 2 placements — 2 to existing lessons, 0 NEW LESSON NEEDED
+- South Sudan's own way: The guide pushes past description — learners evaluate systems of governance, hunt for what promoted peace and equality, and act kingdom scenes in drama and role play.
+- Non-History parts named, not placed: Geography — Unit 2 This is our land, TG Unit 2; Unit 4 Farming, TG Unit 4. Civics — Unit 3 Leaders and decision makers, TG Unit 3.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/south-sudan-placements.md.
+
+This book is a teacher guide: its rows stand as teacher-guide evidence only, counted nowhere in acceptance — South Sudan is counted in this lesson on its student books.
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — Comparing and evaluating kingdom governance — story beats: learners compare Azande, Shilluk, Anyuak and Otuho with kingdoms across Africa, evaluate their systems of governance, and ask which past systems still govern South Sudan today (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/comparing-states-how-kingdoms-hold-together) | South Sudan, *Primary Social Studies 5 Teacher's Guide* (teacher guide — evidence), printed p. 1 |
+
+South Sudan's own way (Book 10 — P5 Social Studies Teacher's Guide (teacher guide, English)): The guide pushes past description — learners evaluate systems of governance, hunt for what promoted peace and equality, and act kingdom scenes in drama and role play. That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 14 — P7 Social Studies Teacher's Guide (teacher guide, English)**
+- Title as printed: Primary Social Studies 7 Teacher's Guide
+- Grade: Primary 7 (student/teacher: TEACHER)
+- Publisher: Ministry of General Education and Instruction, Republic of South Sudan; year 2018; ISBN no ISBN printed
+- PDF pages: 117 (title page verified in text against the record title)
+- Verdict: COMPLETE — mirrors Pupil's Book Units 1-5
+- Tally: 2 placements — 2 to existing lessons, 0 NEW LESSON NEEDED
+- South Sudan's own way: Comparison is the method — at least two civilisations in detail (Maya, Aztec, Khmer or Roman), maps read for settlement and communication routes, and debates that ask what past leadership teaches South Sudan today.
+- Non-History parts named, not placed: Geography — Unit 2 Exploring physical features, TG Unit 2; Unit 3 Mining in South Sudan, TG Unit 3. Civics — Unit 4 Promotion of gender equality, TG Unit 4; Unit 5 Just and fair society, TG Unit 5.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/south-sudan-placements.md.
+
+This book is a teacher guide: its rows stand as teacher-guide evidence only, counted nowhere in acceptance — South Sudan is counted in this lesson on its student books.
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — Comparing civilisations in detail — story beats: learners compare at least two civilisations — Maya, Aztecs, Khmer Empire or Romans — feature by feature, and judge which factors were key to success and which to failure (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/comparing-states-how-kingdoms-hold-together) | South Sudan, *Primary Social Studies 7 Teacher's Guide* (teacher guide — evidence), printed p. 1 |
+
+South Sudan's own way (Book 14 — P7 Social Studies Teacher's Guide (teacher guide, English)): Comparison is the method — at least two civilisations in detail (Maya, Aztec, Khmer or Roman), maps read for settlement and communication routes, and debates that ask what past leadership teaches South Sudan today. That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 17 — S1 History Student's Book (student book, English)**
+- Title as printed: Secondary History 1 Student's Book (inner title page misprints "Primary History Pupil's Book 1" — see library debts)
+- Grade: Secondary 1 / Grade 9 (student/teacher: STUDENT)
+- Publisher: Ministry of General Education and Instruction, Republic of South Sudan; year 2018; ISBN no ISBN printed
+- PDF pages: 143 (cover verified against the record title)
+- Verdict: COMPLETE
+- Tally: 25 placements — 14 to existing lessons, 11 NEW LESSON NEEDED
+- South Sudan's own way: A national history built from long source extracts pupils must interrogate — Seligman on the Shilluk reth, Evans-Pritchard on Azande witchcraft, Holt on the Mahdiyya, Samuel Baker on Khartoum, and living testimony from former slaves Simon Deng and Ayak Piol Mabior (filed as plot summaries only).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — Centralised and decentralised societies in South Sudan — story beats: centralised peoples (Shilluk, Azande, Anyuak) hold power in one king with a standing army, while decentralised peoples (Dinka, Nuer) share power among councils and elders with warriors for defence (History expansion, 2026-11-15; original placement slug: first-steps/comparing-states-how-kingdoms-hold-together) | South Sudan, *Secondary History 1 Student's Book (inner title page misprints "Primary History Pupil's Book 1" — see library debts)*, printed p. 48 |
+
+South Sudan's own way (Book 17 — S1 History Student's Book (student book, English)): A national history built from long source extracts pupils must interrogate — Seligman on the Shilluk reth, Evans-Pritchard on Azande witchcraft, Holt on the Mahdiyya, Samuel Baker on Khartoum, and living testimony from former slaves Simon Deng and Ayak Piol Mabior (filed as plot summaries only). That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 18 — S1 History Teacher's Guide (teacher guide, English)**
+- Title as printed: Secondary History 1 Teacher's Guide
+- Grade: Secondary 1 / Grade 9 (student/teacher: TEACHER)
+- Publisher: Ministry of General Education and Instruction, Republic of South Sudan; year 2018; ISBN no ISBN printed
+- PDF pages: 97 (title page verified in text against the record title)
+- Verdict: COMPLETE — mirrors Student's Book Units 1-7; production flaw: the Unit 3, 4 and 5 introductions repeat Unit 2's "Learn about" text verbatim (see library debts)
+- Tally: 3 placements — 3 to existing lessons, 0 NEW LESSON NEEDED
+- South Sudan's own way: The guide's distinctive moves are comparison against home — colonial administration measured against pre-colonial kingdoms and chiefs, African responses judged against the present, and missionaries then set against churches now.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/south-sudan-placements.md.
+
+This book is a teacher guide: its rows stand as teacher-guide evidence only, counted nowhere in acceptance — South Sudan is counted in this lesson on its student books.
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — Comparing colonial administration with pre-colonial administration — story beats: small groups compare the colonialists' systems of administration with the pre-colonial rule of kingdoms and chiefs, and write reports on what changed (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/comparing-states-how-kingdoms-hold-together) | South Sudan, *Secondary History 1 Teacher's Guide* (teacher guide — evidence), printed p. 15 |
+
+South Sudan's own way (Book 18 — S1 History Teacher's Guide (teacher guide, English)): The guide's distinctive moves are comparison against home — colonial administration measured against pre-colonial kingdoms and chiefs, African responses judged against the present, and missionaries then set against churches now. That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 9 countries (Ethiopia, Bangladesh, Nigeria, Micronesia, Cyprus, Syria, Colombia, Mauritania, South Sudan).**

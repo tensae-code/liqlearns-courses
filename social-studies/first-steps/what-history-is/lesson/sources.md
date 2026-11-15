@@ -1,6 +1,6 @@
 # Sources — What history is
 
-countries: Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Cambodia, Palestine, Colombia, Mauritania
+countries: Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Cambodia, Palestine, Colombia, Mauritania, South Sudan
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -729,3 +729,94 @@ Mauritania's own way (mr-g07 — History, 1st preparatory year (student book, Ar
 Mauritania's own way (mr-g07t — History guide, 1st preparatory year (teacher guide, Arabic)): The guide teaches the teacher, not new content: the competency approach (the teacher as researcher of methods, the pupil an active contributor), the same three units as the Grade 7 student book (ancient history; the emergence of Islam and the Islamic state; the sultanate Islamic states), then full model lesson plans (جذاذات) for three of its lessons. Placements below are those three model plans only; the programme pages duplicate the student book filed as Book 1. That way is stocked here as the way Mauritania teaches this thing. This book is a teacher guide: its rows stand as teacher-guide evidence only, counted nowhere in acceptance — Mauritania is counted in this lesson on its student books, which place the same lessons. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 32 countries (Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Cambodia, Palestine, Colombia, Mauritania).**
+
+
+## History expansion (2026-11-15) — South Sudan stocked
+
+**Book 1 — P1 Social Studies Pupil's Book (student book, English)**
+- Title as printed: Primary Social Studies 1 Pupil's Book
+- Grade: Primary 1 (student/teacher: STUDENT)
+- Publisher: Ministry of General Education and Instruction, Republic of South Sudan; year 2018; ISBN no ISBN printed
+- PDF pages: 80 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 4 placements — 4 to existing lessons, 0 NEW LESSON NEEDED
+- South Sudan's own way: History starts at home — a child's own family, grandparents and ancestors, and traditional vs modern objects, before any place or nation.
+- Non-History parts named, not placed: Geography — Unit 2 Where we live, printed pp. 25-37; Unit 3 Exploring our world / maps, pp. 38-49. Civics — Unit 1 Activity 4 Roles of family members, pp. 14-17; Unit 4 Working together, pp. 50-63; Unit 5 Problem solving / keeping peace, pp. 64-77.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — Members of our family — story beats: Okot names his mother Alea, father Andiek and sister Lisa, and the class learns who makes a family (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | South Sudan, *Primary Social Studies 1 Pupil's Book*, printed p. 1 |
+
+South Sudan's own way (Book 1 — P1 Social Studies Pupil's Book (student book, English)): History starts at home — a child's own family, grandparents and ancestors, and traditional vs modern objects, before any place or nation. That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 3 — P2 Social Studies Pupil's Book (student book, English)**
+- Title as printed: Primary Social Studies 2 Pupil's Book
+- Grade: Primary 2 (student/teacher: STUDENT)
+- Publisher: Ministry of General Education and Instruction, Republic of South Sudan; year 2018; ISBN no ISBN printed
+- PDF pages: 83 (cover/title page verified against the record title; image-only book read via 100 DPI contact sheets)
+- Verdict: COMPLETE
+- Tally: 6 placements — 4 to existing lessons, 2 NEW LESSON NEEDED
+- South Sudan's own way: Change itself is the history lesson — houses, clothes, roads, weapons and messages then and now, in pictures — plus each community's own origin story told by parents.
+- Non-History parts named, not placed: Geography — Unit 2 The Land of South Sudan, printed pp. 21-39; Unit 3 Jobs here and there (location parts), pp. 40-54. Civics — Unit 4 Our Community (roles/activities parts), pp. 62-67; Unit 5 Time to decide, pp. 68-77.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — Causes of change of a place — story beats: drought kills livestock and hunger empties a settlement, and children ask parents what caused change in their own community (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | South Sudan, *Primary Social Studies 2 Pupil's Book*, printed p. 9 |
+
+South Sudan's own way (Book 3 — P2 Social Studies Pupil's Book (student book, English)): Change itself is the history lesson — houses, clothes, roads, weapons and messages then and now, in pictures — plus each community's own origin story told by parents. That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 6 — P3 Social Studies Teacher's Guide (teacher guide, English)**
+- Title as printed: Primary Social Studies 3 Teacher's Guide
+- Grade: Primary 3 (student/teacher: TEACHER)
+- Publisher: Ministry of General Education and Instruction, Republic of South Sudan; year 2018; ISBN no ISBN printed
+- PDF pages: 57 (title page verified in text against the record title)
+- Verdict: COMPLETE — mirrors Pupil's Book Units 1-5
+- Tally: 2 placements — 2 to existing lessons, 0 NEW LESSON NEEDED
+- South Sudan's own way: Research is the feature of the journey — broadcasts, books, internet, artefacts and people as sources — and old community symbols are compared with today's national symbols for style, colour and meaning.
+- Non-History parts named, not placed: Geography — Unit 2 The land of Africa, TG p. 15; Unit 4 What's the difference?, p. 33. Civics/Environment — Unit 3 Environmental pollution, p. 24; Unit 5 More problem solving, p. 43.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/south-sudan-placements.md.
+
+This book is a teacher guide: its rows stand as teacher-guide evidence only, counted nowhere in acceptance — South Sudan is counted in this lesson on its student books.
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — How communities are shaped by the past — story beats: pupils analyse how ethnic groups in their community reflect South Sudan's history and why today's ceremonies were already present in the past (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | South Sudan, *Primary Social Studies 3 Teacher's Guide* (teacher guide — evidence), printed p. 1 |
+
+South Sudan's own way (Book 6 — P3 Social Studies Teacher's Guide (teacher guide, English)): Research is the feature of the journey — broadcasts, books, internet, artefacts and people as sources — and old community symbols are compared with today's national symbols for style, colour and meaning. That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 13 — P7 Social Studies Pupil's Book (student book, English)**
+- Title as printed: Primary Social Studies 7 Pupil's Book
+- Grade: Primary 7 (student/teacher: STUDENT)
+- Publisher: Ministry of General Education and Instruction, Republic of South Sudan; year 2018; ISBN no ISBN printed
+- PDF pages: 130 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 11 placements — 10 to existing lessons, 1 NEW LESSON NEEDED
+- South Sudan's own way: World civilisation history arrives whole at P7 — Maya, Aztec and Rome rise and fall by the same internal/external test, and the unit ends by debating whether Roman civilisation contributed to South Sudan.
+- Non-History parts named, not placed: Geography — Unit 2 Exploring physical features, printed pp. 22-48; Unit 3 Mining in South Sudan, pp. 49-81. Civics — Unit 4 Promotion of gender equality, pp. 83-98; Unit 5 Just and fair society, pp. 100-121.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — Meaning and features of civilisation — story beats: civilisation is society's most advanced stage — job specialisation, social classes, cities, public works, writing, arts and organised government — the base on which Egypt and Rome flourished (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | South Sudan, *Primary Social Studies 7 Pupil's Book*, printed p. 1 |
+
+South Sudan's own way (Book 13 — P7 Social Studies Pupil's Book (student book, English)): World civilisation history arrives whole at P7 — Maya, Aztec and Rome rise and fall by the same internal/external test, and the unit ends by debating whether Roman civilisation contributed to South Sudan. That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 17 — S1 History Student's Book (student book, English)**
+- Title as printed: Secondary History 1 Student's Book (inner title page misprints "Primary History Pupil's Book 1" — see library debts)
+- Grade: Secondary 1 / Grade 9 (student/teacher: STUDENT)
+- Publisher: Ministry of General Education and Instruction, Republic of South Sudan; year 2018; ISBN no ISBN printed
+- PDF pages: 143 (cover verified against the record title)
+- Verdict: COMPLETE
+- Tally: 25 placements — 14 to existing lessons, 11 NEW LESSON NEEDED
+- South Sudan's own way: A national history built from long source extracts pupils must interrogate — Seligman on the Shilluk reth, Evans-Pritchard on Azande witchcraft, Holt on the Mahdiyya, Samuel Baker on Khartoum, and living testimony from former slaves Simon Deng and Ayak Piol Mabior (filed as plot summaries only).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — Introduction to History — story beats: history is the study of past leaders, political structures, armies, ceremonies and livelihoods, divided into political, social and economic history (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | South Sudan, *Secondary History 1 Student's Book (inner title page misprints "Primary History Pupil's Book 1" — see library debts)*, printed p. 1 |
+
+South Sudan's own way (Book 17 — S1 History Student's Book (student book, English)): A national history built from long source extracts pupils must interrogate — Seligman on the Shilluk reth, Evans-Pritchard on Azande witchcraft, Holt on the Mahdiyya, Samuel Baker on Khartoum, and living testimony from former slaves Simon Deng and Ayak Piol Mabior (filed as plot summaries only). That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 33 countries (Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Cambodia, Palestine, Colombia, Mauritania, South Sudan).**

@@ -106,3 +106,63 @@ Finland's own way (Jahvetti teema-4, Grade 7 record (student/teacher: STUDENT)):
 Egypt's own way (Prim4 T1 "Egypt in the Heart of the World", 4 Primary, Term 1 (student/teacher: STUDENT)): Social Studies opens from the child's own home, street and city outward to Egypt and the world; History enters as map history, source-work, then-and-now city change, national symbols and landmark heritage, carried by a robot guide and four child companions. That way is stocked here as the way Egypt teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 6 countries (Ethiopia, Jordan, Switzerland, Kuwait, Finland, Egypt).**
+
+
+## History expansion (2026-11-15) — South Sudan stocked
+
+**Book 4 — P2 Social Studies Teacher's Guide (teacher guide, English)**
+- Title as printed: Primary Social Studies 2 Teacher's Guide
+- Grade: Primary 2 (student/teacher: TEACHER)
+- Publisher: Ministry of General Education and Instruction, Republic of South Sudan; year 2018; ISBN no ISBN printed
+- PDF pages: 59 (title page verified in text against the record title)
+- Verdict: COMPLETE — mirrors Pupil's Book Units 1-5
+- Tally: 3 placements — 3 to existing lessons, 0 NEW LESSON NEEDED
+- South Sudan's own way: The guide turns picture-spotting into method — second-hand sources (maps, photographs), elders' stories, chronological ordering, replica-making of older objects, and arguing for and against a change.
+- Non-History parts named, not placed: Geography — Unit 2 The Land of South Sudan, TG p. 13; Unit 3 Jobs here and there, p. 23. Civics — Unit 5 Time to decide, p. 44.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/south-sudan-placements.md.
+
+This book is a teacher guide. The South Sudan rows below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count — South Sudan is not added to this lesson's countries line or acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — Arguing for and against change — story beats: children compare changes, judge their impact on daily life, and build arguments to persuade others which changes helped and which they would reverse (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/fact-or-opinion) | South Sudan, *Primary Social Studies 2 Teacher's Guide* (teacher guide — evidence), printed p. 1 |
+
+South Sudan's own way (Book 4 — P2 Social Studies Teacher's Guide (teacher guide, English)): The guide turns picture-spotting into method — second-hand sources (maps, photographs), elders' stories, chronological ordering, replica-making of older objects, and arguing for and against a change. That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 18 — S1 History Teacher's Guide (teacher guide, English)**
+- Title as printed: Secondary History 1 Teacher's Guide
+- Grade: Secondary 1 / Grade 9 (student/teacher: TEACHER)
+- Publisher: Ministry of General Education and Instruction, Republic of South Sudan; year 2018; ISBN no ISBN printed
+- PDF pages: 97 (title page verified in text against the record title)
+- Verdict: COMPLETE — mirrors Student's Book Units 1-7; production flaw: the Unit 3, 4 and 5 introductions repeat Unit 2's "Learn about" text verbatim (see library debts)
+- Tally: 3 placements — 3 to existing lessons, 0 NEW LESSON NEEDED
+- South Sudan's own way: The guide's distinctive moves are comparison against home — colonial administration measured against pre-colonial kingdoms and chiefs, African responses judged against the present, and missionaries then set against churches now.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/south-sudan-placements.md.
+
+This book is a teacher guide. The South Sudan rows below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count — South Sudan is not added to this lesson's countries line or acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — Debating the growth and collapse of pre-colonial trade — story beats: groups examine and debate why Long Distance, Coastal and Trans-Saharan trade grew and why it collapsed by the end of the 19th century, presenting conclusions with their evidence (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/fact-or-opinion) | South Sudan, *Secondary History 1 Teacher's Guide* (teacher guide — evidence), printed p. 1 |
+
+South Sudan's own way (Book 18 — S1 History Teacher's Guide (teacher guide, English)): The guide's distinctive moves are comparison against home — colonial administration measured against pre-colonial kingdoms and chiefs, African responses judged against the present, and missionaries then set against churches now. That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 20 — S2 History Teacher's Guide (teacher guide, English)**
+- Title as printed: Secondary History 2 Teacher's Guide
+- Grade: Secondary 2 / Grade 10 (student/teacher: TEACHER)
+- Publisher: Ministry of General Education and Instruction, Republic of South Sudan; year 2018; ISBN no ISBN printed
+- PDF pages: 103 (title page verified in text against the record title)
+- Verdict: COMPLETE — mirrors Student's Book Units 1-7
+- Tally: 2 placements — 1 to existing lessons, 1 NEW LESSON NEEDED
+- South Sudan's own way: The guide's signature move is to relate 1947 to 2005 — Juba Conference read against the CPA — and to make learners assess what the two civil wars themselves contributed to independence.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/south-sudan-placements.md.
+
+This book is a teacher guide. The South Sudan rows below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count — South Sudan is not added to this lesson's countries line or acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — Debating agreements and assessing the wars — story beats: learners debate the outcomes and terms of the Addis-Ababa Agreement and assess the contribution of the Anya-Nya and SPLM/A wars to South Sudan's independence, giving reasons and evidence (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/fact-or-opinion) | South Sudan, *Secondary History 2 Teacher's Guide* (teacher guide — evidence), printed p. 41 |
+
+South Sudan's own way (Book 20 — S2 History Teacher's Guide (teacher guide, English)): The guide's signature move is to relate 1947 to 2005 — Juba Conference read against the CPA — and to make learners assess what the two civil wars themselves contributed to independence. That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 6 countries (Ethiopia, Jordan, Switzerland, Kuwait, Finland, Egypt) — unchanged; the South Sudan placement(s) above are teacher-guide evidence only, counted nowhere. South Sudan is not added to this lesson's countries line.**

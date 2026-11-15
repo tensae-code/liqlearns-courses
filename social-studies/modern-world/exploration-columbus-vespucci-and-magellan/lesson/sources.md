@@ -1,6 +1,6 @@
 # Sources — Exploration — Columbus, Vespucci and Magellan
 
-countries: Ethiopia, France, Guatemala, Micronesia, Ecuador, Bahamas, Kuwait, Montenegro, Dominican Republic, Egypt, Pakistan, Suriname, Colombia, Mauritania
+countries: Ethiopia, France, Guatemala, Micronesia, Ecuador, Bahamas, Kuwait, Montenegro, Dominican Republic, Egypt, Pakistan, Suriname, Colombia, Mauritania, South Sudan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 124).
 
@@ -258,3 +258,25 @@ Searchable tags: Colombia, Exploration — Columbus, Vespucci and Magellan, mode
 Mauritania's own way (mr-g08 — History, 2nd preparatory year (student book, Arabic)): Three units — (1) Mauritania and Bilad al-Sudan in the middle centuries and their ties to North Africa, (2) Europe's great transformations 15th–19th centuries, (3) the world from modern colonialism to the end of WWII. Mauritania's own medieval story (Islam's peaceful entry, the Almoravids born on its soil, the Sudan empires, the Sahara trade) is taught first and at greatest length. That way is stocked here as the way Mauritania teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 14 countries (Ethiopia, France, Guatemala, Micronesia, Ecuador, Bahamas, Kuwait, Montenegro, Dominican Republic, Egypt, Pakistan, Suriname, Colombia, Mauritania).**
+
+
+## History expansion (2026-11-15) — South Sudan stocked
+
+**Book 15 — P8 Social Studies Pupil's Book (student book, English)**
+- Title as printed: Primary Social Studies 8 Pupil's Book
+- Grade: Primary 8 (student/teacher: STUDENT)
+- Publisher: Ministry of General Education and Instruction, Republic of South Sudan; year 2018; ISBN no ISBN printed
+- PDF pages: 92 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 9 placements — 9 to existing lessons, 0 NEW LESSON NEEDED
+- South Sudan's own way: Colonisation is taught through named African choices — Lewanika collaborates, Samori Touré resists for seven years — and through South Sudan's own split peoples (Anyuak, Ma'di, Acholi, Kakwa) when boundaries are drawn.
+- Non-History parts named, not placed: Geography — Unit 2 Climate change, printed pp. 19-37; Unit 3 Exploring farming systems, pp. 38-53. Civics — Unit 4 National unity, pp. 54-77; Unit 5 Peace in our time, pp. 78-86.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — Colonialism in America — story beats: Columbus sails west for the Far East in 1492 and lands in a New World; Spain takes the largest share, France and Portugal follow, Britain's United States wins independence in 1776, and plantation slavery reshapes both continents (History expansion, 2026-11-15; original placement slug: modern-world/exploration-columbus-vespucci-and-magellan) | South Sudan, *Primary Social Studies 8 Pupil's Book*, printed p. 14 |
+
+South Sudan's own way (Book 15 — P8 Social Studies Pupil's Book (student book, English)): Colonisation is taught through named African choices — Lewanika collaborates, Samori Touré resists for seven years — and through South Sudan's own split peoples (Anyuak, Ma'di, Acholi, Kakwa) when boundaries are drawn. That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 15 countries (Ethiopia, France, Guatemala, Micronesia, Ecuador, Bahamas, Kuwait, Montenegro, Dominican Republic, Egypt, Pakistan, Suriname, Colombia, Mauritania, South Sudan).**

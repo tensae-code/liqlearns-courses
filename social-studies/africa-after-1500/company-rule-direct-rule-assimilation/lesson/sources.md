@@ -66,3 +66,27 @@ Gambia's own way (History expansion, 2026-11-15): A free, scholar-written region
 Mauritania's own way (mr-g08 — History, 2nd preparatory year (student book, Arabic)): Three units — (1) Mauritania and Bilad al-Sudan in the middle centuries and their ties to North Africa, (2) Europe's great transformations 15th–19th centuries, (3) the world from modern colonialism to the end of WWII. Mauritania's own medieval story (Islam's peaceful entry, the Almoravids born on its soil, the Sudan empires, the Sahara trade) is taught first and at greatest length. That way is stocked here as the way Mauritania teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 3 countries (Ethiopia, Gambia, Mauritania).**
+
+
+## History expansion (2026-11-15) — South Sudan stocked
+
+**Book 16 — P8 Social Studies Teacher's Guide (teacher guide, English)**
+- Title as printed: Primary Social Studies 8 Teacher's Guide
+- Grade: Primary 8 (student/teacher: TEACHER)
+- Publisher: Ministry of General Education and Instruction, Republic of South Sudan; year 2018; ISBN no ISBN printed
+- PDF pages: 142 (title page verified in text against the record title)
+- Verdict: COMPLETE — mirrors Pupil's Book Units 1-5
+- Tally: 2 placements — 2 to existing lessons, 0 NEW LESSON NEEDED
+- South Sudan's own way: The guide frames the unit as historical inquiry — books, internet and archives, accounts by people who described the migration, a chronological framework, and a closing debate on what is still felt today.
+- Non-History parts named, not placed: Geography — Unit 2 Climate change, TG Unit 2; Unit 3 Exploring farming systems, TG Unit 3. Civics — Unit 4 National unity, TG Unit 4; Unit 5 Peace in our time, TG Unit 5.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/south-sudan-placements.md.
+
+This book is a teacher guide. The South Sudan rows below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count — South Sudan is not added to this lesson's countries line or acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — Traders and their companies — story beats: European traders exchange glassware, wine, guns and silk for ivory, spices, slaves and rhino horns, then form companies that administer and tax — William Mackinnon's Imperial British East Africa Company and Carl Peters's German East Africa Company (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: africa-after-1500/company-rule-direct-rule-assimilation) | South Sudan, *Primary Social Studies 8 Teacher's Guide* (teacher guide — evidence), printed p. 3 |
+
+South Sudan's own way (Book 16 — P8 Social Studies Teacher's Guide (teacher guide, English)): The guide frames the unit as historical inquiry — books, internet and archives, accounts by people who described the migration, a chronological framework, and a closing debate on what is still felt today. That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 3 countries (Ethiopia, Gambia, Mauritania) — unchanged; the South Sudan placement(s) above are teacher-guide evidence only, counted nowhere. South Sudan is not added to this lesson's countries line.**

@@ -1,6 +1,6 @@
 # Sources — Find history in your own locality
 
-countries: Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala, Malaysia, Ecuador, Bahamas, Eritrea, Nepal, Belarus, Fiji, Indonesia, Finland, Egypt, Syria, Suriname, Colombia
+countries: Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala, Malaysia, Ecuador, Bahamas, Eritrea, Nepal, Belarus, Fiji, Indonesia, Finland, Egypt, Syria, Suriname, Colombia, South Sudan
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -621,3 +621,44 @@ Colombia's own way (G3 Cartilla 1 (student book, Spanish)): Grade 3 opens with a
 **Acceptance count: taught in 19 countries (Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala, Malaysia, Ecuador, Bahamas, Eritrea, Nepal, Belarus, Fiji, Indonesia, Finland, Egypt, Syria, Suriname, Colombia).**
 
 Searchable tags: Colombia, Find history in your own locality, first-steps, History expansion 2026-11-15
+
+
+## History expansion (2026-11-15) — South Sudan stocked
+
+**Book 1 — P1 Social Studies Pupil's Book (student book, English)**
+- Title as printed: Primary Social Studies 1 Pupil's Book
+- Grade: Primary 1 (student/teacher: STUDENT)
+- Publisher: Ministry of General Education and Instruction, Republic of South Sudan; year 2018; ISBN no ISBN printed
+- PDF pages: 80 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 4 placements — 4 to existing lessons, 0 NEW LESSON NEEDED
+- South Sudan's own way: History starts at home — a child's own family, grandparents and ancestors, and traditional vs modern objects, before any place or nation.
+- Non-History parts named, not placed: Geography — Unit 2 Where we live, printed pp. 25-37; Unit 3 Exploring our world / maps, pp. 38-49. Civics — Unit 1 Activity 4 Roles of family members, pp. 14-17; Unit 4 Working together, pp. 50-63; Unit 5 Problem solving / keeping peace, pp. 64-77.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — Family history — story beats: children compare old and new family pictures, build a family tree, and ask parents about ancestors who died before they were born (History expansion, 2026-11-15; original placement slug: first-steps/find-history-in-your-own-locality) | South Sudan, *Primary Social Studies 1 Pupil's Book*, printed p. 10 |
+
+South Sudan's own way (Book 1 — P1 Social Studies Pupil's Book (student book, English)): History starts at home — a child's own family, grandparents and ancestors, and traditional vs modern objects, before any place or nation. That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 8 — P4 Social Studies Teacher's Guide (teacher guide, English)**
+- Title as printed: Primary Social Studies 4 Teacher's Guide
+- Grade: Primary 4 (student/teacher: TEACHER)
+- Publisher: Ministry of General Education and Instruction, Republic of South Sudan; year 2018; ISBN no ISBN printed
+- PDF pages: 88 (title page verified in text against the record title)
+- Verdict: COMPLETE — mirrors Pupil's Book Units 1-5
+- Tally: 2 placements — 2 to existing lessons, 0 NEW LESSON NEEDED
+- South Sudan's own way: The guide makes period language explicit — inventors and events placed first by family lifespan, then by centuries — and origin history is gathered by talking to people and writing to schools in neighbouring communities.
+- Non-History parts named, not placed: Geography — Unit 2 Weather and climate, TG Unit 2; Unit 3 Interesting industries, TG Unit 3. Civics — Unit 5 Avoiding conflicts, TG Unit 5.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/south-sudan-placements.md.
+
+This book is a teacher guide: its rows stand as teacher-guide evidence only, counted nowhere in acceptance — South Sudan is counted in this lesson on its student books.
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — Gathering origin stories from people — story beats: learners talk to a range of people about where they came from, family journeys, jobs, festivals and changes in law, and write to older children in neighbouring schools to learn about other peoples of their state (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/find-history-in-your-own-locality) | South Sudan, *Primary Social Studies 4 Teacher's Guide* (teacher guide — evidence), printed p. 51 |
+
+South Sudan's own way (Book 8 — P4 Social Studies Teacher's Guide (teacher guide, English)): The guide makes period language explicit — inventors and events placed first by family lifespan, then by centuries — and origin history is gathered by talking to people and writing to schools in neighbouring communities. That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 20 countries (Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala, Malaysia, Ecuador, Bahamas, Eritrea, Nepal, Belarus, Fiji, Indonesia, Finland, Egypt, Syria, Suriname, Colombia, South Sudan).**

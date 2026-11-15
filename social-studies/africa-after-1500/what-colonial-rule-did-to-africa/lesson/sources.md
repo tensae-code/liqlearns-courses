@@ -1,6 +1,6 @@
 # Sources — What colonial rule did to Africa — political, economic, social
 
-countries: Ethiopia, Gambia, Malaysia
+countries: Ethiopia, Gambia, Malaysia, South Sudan
 
 **Book 1:** *History, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN 978-99990-0-065-9, printed by GRAVITY GROUP IND LLC, Sharjah, UAE. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g10-student-placements.md
 
@@ -39,3 +39,25 @@ Gambia's own way (History expansion, 2026-11-15): A free, scholar-written region
 Malaysia's own way (Sejarah Tingkatan 3): The Western arrival is taught state by state — Straits Settlements, Federated, Unfederated, Brooke's Sarawak, the Chartered Company in Sabah — and the second half belongs to the Malaysians who fought back or outmanoeuvred the British, each named: Maharaja Lela, Tok Janggut, Mat Salleh, Rentap, Sultan Abu Bakar. That way is stocked here as the way Malaysia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 3 countries (Ethiopia, Gambia, Malaysia).**
+
+
+## History expansion (2026-11-15) — South Sudan stocked
+
+**Book 15 — P8 Social Studies Pupil's Book (student book, English)**
+- Title as printed: Primary Social Studies 8 Pupil's Book
+- Grade: Primary 8 (student/teacher: STUDENT)
+- Publisher: Ministry of General Education and Instruction, Republic of South Sudan; year 2018; ISBN no ISBN printed
+- PDF pages: 92 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 9 placements — 9 to existing lessons, 0 NEW LESSON NEEDED
+- South Sudan's own way: Colonisation is taught through named African choices — Lewanika collaborates, Samori Touré resists for seven years — and through South Sudan's own split peoples (Anyuak, Ma'di, Acholi, Kakwa) when boundaries are drawn.
+- Non-History parts named, not placed: Geography — Unit 2 Climate change, printed pp. 19-37; Unit 3 Exploring farming systems, pp. 38-53. Civics — Unit 4 National unity, pp. 54-77; Unit 5 Peace in our time, pp. 78-86.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — Contribution of colonial rule — story beats: the balance sheet is drawn — Christianity, mission schools, technology, new crops and infrastructure against enslavement, forced labour, diluted culture, partitioned tribes and lost lives and resources (History expansion, 2026-11-15; original placement slug: africa-after-1500/what-colonial-rule-did-to-africa) | South Sudan, *Primary Social Studies 8 Pupil's Book*, printed p. 17 |
+
+South Sudan's own way (Book 15 — P8 Social Studies Pupil's Book (student book, English)): Colonisation is taught through named African choices — Lewanika collaborates, Samori Touré resists for seven years — and through South Sudan's own split peoples (Anyuak, Ma'di, Acholi, Kakwa) when boundaries are drawn. That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 4 countries (Ethiopia, Gambia, Malaysia, South Sudan).**

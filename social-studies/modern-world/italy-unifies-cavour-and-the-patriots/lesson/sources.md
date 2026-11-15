@@ -1,6 +1,6 @@
 # Sources — Italy unifies — Cavour and the patriots
 
-countries: Ethiopia, Cambodia
+countries: Ethiopia, Cambodia, South Sudan
 
 **Book 1:** *History, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN 978-99990-0-065-9, printed by GRAVITY GROUP IND LLC, Sharjah, UAE. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g10-student-placements.md
 
@@ -80,3 +80,24 @@ Cambodia's own way (Book 5 — ប្រវត្តិវិទ្យា ថ្
 **Acceptance count: taught in 2 countries (Ethiopia, Cambodia).**
 
 Searchable tags: Cambodia, Italy unifies — Cavour and the patriots, modern-world, History expansion 2026-11-15
+
+
+## History expansion (2026-11-15) — South Sudan stocked
+
+**Book 19 — S2 History Student's Book (student book, English)**
+- Title as printed: Secondary History 2 Student's Book
+- Grade: Secondary 2 / Grade 10 (student/teacher: STUDENT)
+- Publisher: Ministry of General Education and Instruction, Republic of South Sudan; year 2018; ISBN no ISBN printed
+- PDF pages: 143 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 22 placements — 14 to existing lessons, 8 NEW LESSON NEEDED
+- South Sudan's own way: World history (French Revolution to Cold War) is the frame, but the centre of the book is a source-based Unit 4 on South Sudan's own 20th century — condominium separation policy, Juba 1947, Anya-Nya, Addis Ababa and the SPLM/A, told with named southern actors like Clement Mboro, Joseph Lagu, Akuot Atem and John Garang.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — Italian unification — story beats: Italian patriots unite a divided peninsula; causes, course and challenges mirror the German story pupils have just read (History expansion, 2026-11-15; original placement slug: modern-world/italy-unifies-cavour-and-the-patriots) | South Sudan, *Secondary History 2 Student's Book*, printed p. 28 |
+
+South Sudan's own way (Book 19 — S2 History Student's Book (student book, English)): World history (French Revolution to Cold War) is the frame, but the centre of the book is a source-based Unit 4 on South Sudan's own 20th century — condominium separation policy, Juba 1947, Anya-Nya, Addis Ababa and the SPLM/A, told with named southern actors like Clement Mboro, Joseph Lagu, Akuot Atem and John Garang. That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 3 countries (Ethiopia, Cambodia, South Sudan).**

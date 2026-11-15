@@ -1,6 +1,6 @@
 # Sources — Explorers and missionaries map the interior
 
-countries: Ethiopia, Gambia, Nigeria, Rwanda
+countries: Ethiopia, Gambia, Nigeria, Rwanda, South Sudan
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -116,3 +116,25 @@ Gabon's own way (Grade 4): the year runs as one long Gabon-centred arc — prehi
 Zimbabwe's own way (Grade 5): first European contact is debated as a two-team poster argument — the guide explicitly teaches "balanced perspectives when studying history" — with the strangers sorted by kind: missionary, hunter, prospector. That way is stocked here as the way Zimbabwe teaches this thing. This book is a teacher guide: its row stands as teacher-guide evidence only, counted nowhere in acceptance. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 4 countries (Ethiopia, Gambia, Nigeria, Rwanda) — unchanged; the Zimbabwe placement above is teacher-guide evidence only, counted nowhere. Zimbabwe is not added to this lesson's countries line.**
+
+
+## History expansion (2026-11-15) — South Sudan stocked
+
+**Book 15 — P8 Social Studies Pupil's Book (student book, English)**
+- Title as printed: Primary Social Studies 8 Pupil's Book
+- Grade: Primary 8 (student/teacher: STUDENT)
+- Publisher: Ministry of General Education and Instruction, Republic of South Sudan; year 2018; ISBN no ISBN printed
+- PDF pages: 92 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 9 placements — 9 to existing lessons, 0 NEW LESSON NEEDED
+- South Sudan's own way: Colonisation is taught through named African choices — Lewanika collaborates, Samori Touré resists for seven years — and through South Sudan's own split peoples (Anyuak, Ma'di, Acholi, Kakwa) when boundaries are drawn.
+- Non-History parts named, not placed: Geography — Unit 2 Climate change, printed pp. 19-37; Unit 3 Exploring farming systems, pp. 38-53. Civics — Unit 4 National unity, pp. 54-77; Unit 5 Peace in our time, pp. 78-86.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — Patterns of European settlement in Africa — story beats: traders come first and call on home governments, missionaries open the interior and sometimes guide armies, explorers venture in, and Europeans exploit African rivalries with alliances (History expansion, 2026-11-15; original placement slug: africa-after-1500/explorers-and-missionaries-map-the-interior) | South Sudan, *Primary Social Studies 8 Pupil's Book*, printed p. 3 |
+
+South Sudan's own way (Book 15 — P8 Social Studies Pupil's Book (student book, English)): Colonisation is taught through named African choices — Lewanika collaborates, Samori Touré resists for seven years — and through South Sudan's own split peoples (Anyuak, Ma'di, Acholi, Kakwa) when boundaries are drawn. That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 5 countries (Ethiopia, Gambia, Nigeria, Rwanda, South Sudan).**

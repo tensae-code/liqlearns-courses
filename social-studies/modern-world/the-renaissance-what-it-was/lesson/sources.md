@@ -1,6 +1,6 @@
 # Sources — The Renaissance — what it was
 
-countries: Ethiopia, Poland, Costa Rica, Australia, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Iran, Palestine, Colombia, Mauritania
+countries: Ethiopia, Poland, Costa Rica, Australia, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Iran, Palestine, Colombia, Mauritania, South Sudan
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -291,3 +291,25 @@ Searchable tags: Colombia, The Renaissance — what it was, modern-world, Histor
 Mauritania's own way (mr-g08 — History, 2nd preparatory year (student book, Arabic)): Three units — (1) Mauritania and Bilad al-Sudan in the middle centuries and their ties to North Africa, (2) Europe's great transformations 15th–19th centuries, (3) the world from modern colonialism to the end of WWII. Mauritania's own medieval story (Islam's peaceful entry, the Almoravids born on its soil, the Sudan empires, the Sahara trade) is taught first and at greatest length. That way is stocked here as the way Mauritania teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 13 countries (Ethiopia, Poland, Costa Rica, Australia, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Iran, Palestine, Colombia, Mauritania).**
+
+
+## History expansion (2026-11-15) — South Sudan stocked
+
+**Book 7 — P4 Social Studies Pupil's Book (student book, English)**
+- Title as printed: Primary Social Studies 4 Pupil's Book
+- Grade: Primary 4 (student/teacher: STUDENT)
+- Publisher: Ministry of General Education and Instruction, Republic of South Sudan; year 2018; ISBN no ISBN printed
+- PDF pages: 85 (cover/title page verified against the record title; image-only book read via 100 DPI contact sheets for Units 1 and 4)
+- Verdict: COMPLETE
+- Tally: 8 placements — 5 to existing lessons, 3 NEW LESSON NEEDED
+- South Sudan's own way: World inventions (plough, steam engine, printing press) are taught only through what they changed at home — food, dress, messages, travel — and origin stories are treated as each people's own history, set beside Bible and Koran creation accounts.
+- Non-History parts named, not placed: Geography — Unit 2 Weather and climate, printed pp. 18-39; Unit 3 Interesting industries, pp. 40-57. Civics — Unit 4 Religious practices and symbols / laws that govern a community, pp. 63-67; Unit 5 Avoiding conflicts, pp. 68-79.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — The printing press — story beats: a machine to print books and newspapers, invented by Johannes Gutenberg (printed "Gutinburn") in 1440, puts written words into many hands (History expansion, 2026-11-15; original placement slug: modern-world/the-renaissance-what-it-was) | South Sudan, *Primary Social Studies 4 Pupil's Book*, printed p. 13 |
+
+South Sudan's own way (Book 7 — P4 Social Studies Pupil's Book (student book, English)): World inventions (plough, steam engine, printing press) are taught only through what they changed at home — food, dress, messages, travel — and origin stories are treated as each people's own history, set beside Bible and Koran creation accounts. That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 14 countries (Ethiopia, Poland, Costa Rica, Australia, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Iran, Palestine, Colombia, Mauritania, South Sudan).**

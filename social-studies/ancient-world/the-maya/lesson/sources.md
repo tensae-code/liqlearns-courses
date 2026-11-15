@@ -1,6 +1,6 @@
 # Sources — The Maya
 
-countries: Ethiopia, Guatemala, Costa Rica, Ecuador, Egypt, Bolivia, Suriname, Cambodia, Colombia
+countries: Ethiopia, Guatemala, Costa Rica, Ecuador, Egypt, Bolivia, Suriname, Cambodia, Colombia, South Sudan
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -234,3 +234,25 @@ Colombia's own way (Postprimaria G6 (student book, Spanish)): Grade 6 Postprimar
 **Acceptance count: taught in 9 countries (Ethiopia, Guatemala, Costa Rica, Ecuador, Egypt, Bolivia, Suriname, Cambodia, Colombia).**
 
 Searchable tags: Colombia, The Maya, ancient-world, History expansion 2026-11-15
+
+
+## History expansion (2026-11-15) — South Sudan stocked
+
+**Book 13 — P7 Social Studies Pupil's Book (student book, English)**
+- Title as printed: Primary Social Studies 7 Pupil's Book
+- Grade: Primary 7 (student/teacher: STUDENT)
+- Publisher: Ministry of General Education and Instruction, Republic of South Sudan; year 2018; ISBN no ISBN printed
+- PDF pages: 130 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 11 placements — 10 to existing lessons, 1 NEW LESSON NEEDED
+- South Sudan's own way: World civilisation history arrives whole at P7 — Maya, Aztec and Rome rise and fall by the same internal/external test, and the unit ends by debating whether Roman civilisation contributed to South Sudan.
+- Non-History parts named, not placed: Geography — Unit 2 Exploring physical features, printed pp. 22-48; Unit 3 Mining in South Sudan, pp. 49-81. Civics — Unit 4 Promotion of gender equality, pp. 83-98; Unit 5 Just and fair society, pp. 100-121.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — Maya civilisation — story beats: the Maya of Mexico, Guatemala, Belize, Honduras and El Salvador build temple cities with the Americas' only fully developed writing, a mathematics calendar and astronomy, then decline amid deforestation, drought, famine and wars over resources as printed (History expansion, 2026-11-15; original placement slug: ancient-world/the-maya) | South Sudan, *Primary Social Studies 7 Pupil's Book*, printed p. 6 |
+
+South Sudan's own way (Book 13 — P7 Social Studies Pupil's Book (student book, English)): World civilisation history arrives whole at P7 — Maya, Aztec and Rome rise and fall by the same internal/external test, and the unit ends by debating whether Roman civilisation contributed to South Sudan. That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 10 countries (Ethiopia, Guatemala, Costa Rica, Ecuador, Egypt, Bolivia, Suriname, Cambodia, Colombia, South Sudan).**

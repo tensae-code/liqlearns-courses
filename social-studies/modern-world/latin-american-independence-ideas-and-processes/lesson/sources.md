@@ -1,6 +1,6 @@
 # Sources — Latin American independence — ideas and processes
 
-countries: Costa Rica, Dominican Republic
+countries: Costa Rica, Dominican Republic, South Sudan
 
 **Book (Costa Rica cr-coned-9):** Title as printed: Antología CONED — Estudios Sociales, Código 80017 (as printed), Nivel Noveno año Grade: Grade 9 (student/teacher: STUDENT) Publisher: Universidad Estatal a Distancia (UNED) / Colegio Nacional de Educación a Distancia (CONED); year 2018 file; no ISBN printed PDF pages: 183 (cover verified against the record title; byte size 7,447,365 and page count match the record. Route note: the books.json tree path returned HTTP 404, so the book was grabbed via its TSV release asset in mid-size-books-5, which matched size and pages exactly) Verdict: COMPLETE Tally: 20 placements — 10 to existing lessons, 10 NEW LESSON NEEDED Costa Rica's own way: The Noveno anthology runs one long arc — "the journey of humanity from the Middle Ages to 19th-century Costa Rica" — in which every world process (feudalism, Renaissance, conquest, Enlightenment, independence, industrialisation) is landed in Costa Rica: colonial institutions, the coffee state and banana enclave, and everyday Costa Rican life close the book. Placements at liqlearns-courses-work/expansion-history-2026-11-15/costa-rica-placements.md.
 
@@ -50,3 +50,25 @@ Dominican Republic's own way (Ciencias Sociales, Cuarto Grado de Secundaria — 
 Bolivia's own way (Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Secundaria Comunitaria Productiva, Área Ciencias Sociales, teacher guide): The teachers' compendium binds the whole six-year Ciencias Sociales course in one volume: teachers hold the full arc — Abya Yala's civilisations, colony, independence (with its revisionist debate and its women), oligarchic republic, Chaco, 1952, dictatorships, neoliberalism and the democratic-cultural revolution — framed throughout by decolonisation ("breaking the mental structures that think there are superior thoughts") and Vivir Bien. That way is stocked here as the way Bolivia teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 2 countries (Costa Rica, Dominican Republic) — unchanged; the Bolivia placement(s) above stand on the teacher compendium only, cited as evidence only, counted nowhere. Bolivia is not added to this lesson's countries line.**
+
+
+## History expansion (2026-11-15) — South Sudan stocked
+
+**Book 23 — S4 History Student's Book (student book, English)**
+- Title as printed: Secondary History 4 Student's Book
+- Grade: Secondary 4 / Grade 12 (student/teacher: STUDENT)
+- Publisher: Ministry of General Education and Instruction, Republic of South Sudan; year 2018; ISBN no ISBN printed
+- PDF pages: 165 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 23 placements — 11 to existing lessons, 12 NEW LESSON NEEDED
+- South Sudan's own way: The final year is entirely world and African history beyond South Sudan — USA, Russia, Latin America, the Middle East, China and Japan — taught from primary sources (Lincoln's 1854 and 1858 speeches open the book) and ending where S1 ended, with the OAU and AU.
+- Non-History parts named, not placed: Civics — Unit 1 Activity 3 The USA system of government, printed p. 5. Religious Education — Unit 4 Activity 8 Comparison between the Sunni and Shia Islamic sects, p. 93.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — Independence movements in Latin America and Simon Bolivar (1783-1830) — story beats: factors for independence gather, and Simon Bolivar becomes the liberator whose campaigns break Spanish rule (History expansion, 2026-11-15; original placement slug: modern-world/latin-american-independence-and-bolivar) | South Sudan, *Secondary History 4 Student's Book*, printed p. 66 |
+
+South Sudan's own way (Book 23 — S4 History Student's Book (student book, English)): The final year is entirely world and African history beyond South Sudan — USA, Russia, Latin America, the Middle East, China and Japan — taught from primary sources (Lincoln's 1854 and 1858 speeches open the book) and ending where S1 ended, with the OAU and AU. That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 3 countries (Costa Rica, Dominican Republic, South Sudan).**

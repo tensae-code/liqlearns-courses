@@ -1,6 +1,6 @@
 # Sources — West African Empires — Ghana
 
-countries: Ethiopia, Angola, Mauritania
+countries: Ethiopia, Angola, Mauritania, South Sudan
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (placement 85).
 
@@ -102,3 +102,25 @@ Mauritania's own way (mr-g05 — History, 5th year of primary education (student
 Mauritania's own way (mr-g11 — History, 5th year of secondary education (student book, Arabic)): The secondary cycle re-runs the Islamic centuries at greater depth in four units — Islam's emergence and the state's stages; the Umayyads, Abbasids and al-Andalus; the Almoravids, the Sudanese kingdoms and the Sahara trade (Mauritania's own medieval world); and models of the Islamic–Western clash: the Crusades, the Ottomans and the slave trade. That way is stocked here as the way Mauritania teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 3 countries (Ethiopia, Angola, Mauritania).**
+
+
+## History expansion (2026-11-15) — South Sudan stocked
+
+**Book 9 — P5 Social Studies Pupil's Book (student book, English)**
+- Title as printed: Primary Social Studies 5 Pupil's Book
+- Grade: Primary 5 (student/teacher: STUDENT)
+- Publisher: Ministry of General Education and Instruction, Republic of South Sudan; year 2018; ISBN no ISBN printed
+- PDF pages: 79 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 9 placements — 6 to existing lessons, 3 NEW LESSON NEEDED
+- South Sudan's own way: A full kingdoms unit taught comparatively — South Sudan's Azande, Shilluk, Otuho and Anyuak set in one table against Meroe, Bunyoro, Buganda, Zulu and Asante, with evidence (artefacts vs written records) taught before the stories.
+- Non-History parts named, not placed: Geography — Unit 2 This is our land, printed pp. 21-41; Unit 4 Farming, pp. 61-72. Civics — Unit 3 Leaders and decision makers, pp. 43-60.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — West African Kingdoms — story beats: maps of 680 and 1625 are compared to trace how West African kingdoms changed, with Portuguese and Dutch possessions appearing on the coast (History expansion, 2026-11-15; original placement slug: africa-to-1500/west-african-empires-ghana) | South Sudan, *Primary Social Studies 5 Pupil's Book*, printed p. 9 |
+
+South Sudan's own way (Book 9 — P5 Social Studies Pupil's Book (student book, English)): A full kingdoms unit taught comparatively — South Sudan's Azande, Shilluk, Otuho and Anyuak set in one table against Meroe, Bunyoro, Buganda, Zulu and Asante, with evidence (artefacts vs written records) taught before the stories. That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 4 countries (Ethiopia, Angola, Mauritania, South Sudan).**

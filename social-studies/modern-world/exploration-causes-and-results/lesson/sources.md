@@ -1,6 +1,6 @@
 # Sources — Exploration — causes and results
 
-countries: Ethiopia, United States, Guatemala, Costa Rica, Kuwait, Fiji, Indonesia, Montenegro, Dominican Republic, Suriname, Palestine, Colombia
+countries: Ethiopia, United States, Guatemala, Costa Rica, Kuwait, Fiji, Indonesia, Montenegro, Dominican Republic, Suriname, Palestine, Colombia, South Sudan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 125).
 
@@ -269,3 +269,42 @@ Colombia's own way (Secundaria Activa G7 (student book, Spanish)): Grade 7 Secun
 **Acceptance count: taught in 12 countries (Ethiopia, United States, Guatemala, Costa Rica, Kuwait, Fiji, Indonesia, Montenegro, Dominican Republic, Suriname, Palestine, Colombia).**
 
 Searchable tags: Colombia, Exploration — causes and results, modern-world, History expansion 2026-11-15
+
+
+## History expansion (2026-11-15) — South Sudan stocked
+
+**Book 15 — P8 Social Studies Pupil's Book (student book, English)**
+- Title as printed: Primary Social Studies 8 Pupil's Book
+- Grade: Primary 8 (student/teacher: STUDENT)
+- Publisher: Ministry of General Education and Instruction, Republic of South Sudan; year 2018; ISBN no ISBN printed
+- PDF pages: 92 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 9 placements — 9 to existing lessons, 0 NEW LESSON NEEDED
+- South Sudan's own way: Colonisation is taught through named African choices — Lewanika collaborates, Samori Touré resists for seven years — and through South Sudan's own split peoples (Anyuak, Ma'di, Acholi, Kakwa) when boundaries are drawn.
+- Non-History parts named, not placed: Geography — Unit 2 Climate change, printed pp. 19-37; Unit 3 Exploring farming systems, pp. 38-53. Civics — Unit 4 National unity, pp. 54-77; Unit 5 Peace in our time, pp. 78-86.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — Migration in South and North America — story beats: migrants move for labour, land, religious freedom and better lives; in the 18th and 19th centuries many were taken to the Americas as slaves for plantations, farms and homes (History expansion, 2026-11-15; original placement slug: modern-world/exploration-causes-and-results) | South Sudan, *Primary Social Studies 8 Pupil's Book*, printed p. 13 |
+
+South Sudan's own way (Book 15 — P8 Social Studies Pupil's Book (student book, English)): Colonisation is taught through named African choices — Lewanika collaborates, Samori Touré resists for seven years — and through South Sudan's own split peoples (Anyuak, Ma'di, Acholi, Kakwa) when boundaries are drawn. That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 23 — S4 History Student's Book (student book, English)**
+- Title as printed: Secondary History 4 Student's Book
+- Grade: Secondary 4 / Grade 12 (student/teacher: STUDENT)
+- Publisher: Ministry of General Education and Instruction, Republic of South Sudan; year 2018; ISBN no ISBN printed
+- PDF pages: 165 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 23 placements — 11 to existing lessons, 12 NEW LESSON NEEDED
+- South Sudan's own way: The final year is entirely world and African history beyond South Sudan — USA, Russia, Latin America, the Middle East, China and Japan — taught from primary sources (Lincoln's 1854 and 1858 speeches open the book) and ending where S1 ended, with the OAU and AU.
+- Non-History parts named, not placed: Civics — Unit 1 Activity 3 The USA system of government, printed p. 5. Religious Education — Unit 4 Activity 8 Comparison between the Sunni and Shia Islamic sects, p. 93.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — Colonisation of South and Central America by the Spanish and Portuguese — story beats: Spain and Portugal colonise South and Central America, planting the rule that independence movements later rise against (History expansion, 2026-11-15; original placement slug: modern-world/exploration-causes-and-results) | South Sudan, *Secondary History 4 Student's Book*, printed p. 59 |
+
+South Sudan's own way (Book 23 — S4 History Student's Book (student book, English)): The final year is entirely world and African history beyond South Sudan — USA, Russia, Latin America, the Middle East, China and Japan — taught from primary sources (Lincoln's 1854 and 1858 speeches open the book) and ending where S1 ended, with the OAU and AU. That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 13 countries (Ethiopia, United States, Guatemala, Costa Rica, Kuwait, Fiji, Indonesia, Montenegro, Dominican Republic, Suriname, Palestine, Colombia, South Sudan).**

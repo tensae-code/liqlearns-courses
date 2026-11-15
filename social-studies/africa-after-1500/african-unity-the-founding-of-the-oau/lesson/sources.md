@@ -1,6 +1,6 @@
 # Sources — African unity — the founding of the OAU
 
-countries: Ethiopia, Gambia, Bolivia
+countries: Ethiopia, Gambia, Bolivia, South Sudan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 5, placements 110–122).
 
@@ -88,3 +88,41 @@ Djibouti's own way: History is taught entirely as Africa's own story, organised 
 Bolivia's own way (Texto de Aprendizaje — Ciencias Sociales, 6to Año de Educación Secundaria Comunitaria Productiva, student book): Secundaria 6's held portion runs the world story (Second World War, Cold War, decolonisation) straight into Bolivia's own: the 1952 National Revolution is the hinge — mines nationalised, agrarian reform, universal vote — then dictatorships, neoliberal capitalización, the Gas War and the 2020 democratic recovery. That way is stocked here as the way Bolivia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 3 countries (Ethiopia, Gambia, Bolivia).**
+
+
+## History expansion (2026-11-15) — South Sudan stocked
+
+**Book 17 — S1 History Student's Book (student book, English)**
+- Title as printed: Secondary History 1 Student's Book (inner title page misprints "Primary History Pupil's Book 1" — see library debts)
+- Grade: Secondary 1 / Grade 9 (student/teacher: STUDENT)
+- Publisher: Ministry of General Education and Instruction, Republic of South Sudan; year 2018; ISBN no ISBN printed
+- PDF pages: 143 (cover verified against the record title)
+- Verdict: COMPLETE
+- Tally: 25 placements — 14 to existing lessons, 11 NEW LESSON NEEDED
+- South Sudan's own way: A national history built from long source extracts pupils must interrogate — Seligman on the Shilluk reth, Evans-Pritchard on Azande witchcraft, Holt on the Mahdiyya, Samuel Baker on Khartoum, and living testimony from former slaves Simon Deng and Ayak Piol Mabior (filed as plot summaries only).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — The Organisation of African Unity (OAU) — story beats: African states found the OAU, sign its charter and set objectives of unity, sovereignty and liberation (History expansion, 2026-11-15; original placement slug: africa-after-1500/african-unity-the-founding-of-the-oau) | South Sudan, *Secondary History 1 Student's Book (inner title page misprints "Primary History Pupil's Book 1" — see library debts)*, printed p. 84 |
+
+South Sudan's own way (Book 17 — S1 History Student's Book (student book, English)): A national history built from long source extracts pupils must interrogate — Seligman on the Shilluk reth, Evans-Pritchard on Azande witchcraft, Holt on the Mahdiyya, Samuel Baker on Khartoum, and living testimony from former slaves Simon Deng and Ayak Piol Mabior (filed as plot summaries only). That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 23 — S4 History Student's Book (student book, English)**
+- Title as printed: Secondary History 4 Student's Book
+- Grade: Secondary 4 / Grade 12 (student/teacher: STUDENT)
+- Publisher: Ministry of General Education and Instruction, Republic of South Sudan; year 2018; ISBN no ISBN printed
+- PDF pages: 165 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 23 placements — 11 to existing lessons, 12 NEW LESSON NEEDED
+- South Sudan's own way: The final year is entirely world and African history beyond South Sudan — USA, Russia, Latin America, the Middle East, China and Japan — taught from primary sources (Lincoln's 1854 and 1858 speeches open the book) and ending where S1 ended, with the OAU and AU.
+- Non-History parts named, not placed: Civics — Unit 1 Activity 3 The USA system of government, printed p. 5. Religious Education — Unit 4 Activity 8 Comparison between the Sunni and Shia Islamic sects, p. 93.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — The Organisation of African Unity — story beats: Africa's states found the OAU to unite the continent and complete its liberation (History expansion, 2026-11-15; original placement slug: africa-after-1500/african-unity-the-founding-of-the-oau) | South Sudan, *Secondary History 4 Student's Book*, printed p. 137 |
+
+South Sudan's own way (Book 23 — S4 History Student's Book (student book, English)): The final year is entirely world and African history beyond South Sudan — USA, Russia, Latin America, the Middle East, China and Japan — taught from primary sources (Lincoln's 1854 and 1858 speeches open the book) and ending where S1 ended, with the OAU and AU. That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 4 countries (Ethiopia, Gambia, Bolivia, South Sudan).**

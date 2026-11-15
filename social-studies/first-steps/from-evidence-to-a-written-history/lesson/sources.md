@@ -1,6 +1,6 @@
 # Sources — From evidence to a written history
 
-countries: Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Bulgaria, Palestine, Colombia
+countries: Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Bulgaria, Palestine, Colombia, South Sudan
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -943,3 +943,172 @@ Colombia's own way (Postprimaria G8 (student book, Spanish)): Grade 8 Postprimar
 **Acceptance count: taught in 28 countries (Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Bulgaria, Palestine, Colombia).**
 
 Searchable tags: Colombia, From evidence to a written history, first-steps, History expansion 2026-11-15
+
+
+## History expansion (2026-11-15) — South Sudan stocked
+
+**Book 2 — P1 Social Studies Teacher's Guide (teacher guide, English)**
+- Title as printed: Primary Social Studies 1 Teacher's Guide
+- Grade: Primary 1 (student/teacher: TEACHER)
+- Publisher: Ministry of General Education and Instruction, Republic of South Sudan; year 2018; ISBN no ISBN printed
+- PDF pages: 53 (cover/title page verified against the record title; grabbed via the mid-size-books release asset — the books.json tree path returned 404, see library debts)
+- Verdict: COMPLETE — mirrors Pupil's Book Units 1-5
+- Tally: 2 placements — 2 to existing lessons, 0 NEW LESSON NEEDED
+- South Sudan's own way: Teachers are told to get history from talk — children interview family members, draw family trees with arrows, and line objects up youngest-to-oldest as a first timeline.
+- Non-History parts named, not placed: Geography — Unit 2 Where we live, TG p. 12; Unit 3 Exploring our world, p. 23. Civics — Unit 4 Working together, p. 30; Unit 5 Problem solving, p. 41.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/south-sudan-placements.md.
+
+This book is a teacher guide: its rows stand as teacher-guide evidence only, counted nowhere in acceptance — South Sudan is counted in this lesson on its student books.
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — Investigating family history — story beats: children design questions, talk to family members about ancestors and where the family came from, then turn the answers into a family tree (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | South Sudan, *Primary Social Studies 1 Teacher's Guide* (teacher guide — evidence), printed p. 1 |
+
+South Sudan's own way (Book 2 — P1 Social Studies Teacher's Guide (teacher guide, English)): Teachers are told to get history from talk — children interview family members, draw family trees with arrows, and line objects up youngest-to-oldest as a first timeline. That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 4 — P2 Social Studies Teacher's Guide (teacher guide, English)**
+- Title as printed: Primary Social Studies 2 Teacher's Guide
+- Grade: Primary 2 (student/teacher: TEACHER)
+- Publisher: Ministry of General Education and Instruction, Republic of South Sudan; year 2018; ISBN no ISBN printed
+- PDF pages: 59 (title page verified in text against the record title)
+- Verdict: COMPLETE — mirrors Pupil's Book Units 1-5
+- Tally: 3 placements — 3 to existing lessons, 0 NEW LESSON NEEDED
+- South Sudan's own way: The guide turns picture-spotting into method — second-hand sources (maps, photographs), elders' stories, chronological ordering, replica-making of older objects, and arguing for and against a change.
+- Non-History parts named, not placed: Geography — Unit 2 The Land of South Sudan, TG p. 13; Unit 3 Jobs here and there, p. 23. Civics — Unit 5 Time to decide, p. 44.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/south-sudan-placements.md.
+
+This book is a teacher guide: its rows stand as teacher-guide evidence only, counted nowhere in acceptance — South Sudan is counted in this lesson on its student books.
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — Investigating change from sources — story beats: children use maps and photographs as second-hand resources, listen to stories from older people, and categorise causes of change — weather, conflict, building, population, technology (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | South Sudan, *Primary Social Studies 2 Teacher's Guide* (teacher guide — evidence), printed p. 1 |
+
+South Sudan's own way (Book 4 — P2 Social Studies Teacher's Guide (teacher guide, English)): The guide turns picture-spotting into method — second-hand sources (maps, photographs), elders' stories, chronological ordering, replica-making of older objects, and arguing for and against a change. That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 6 — P3 Social Studies Teacher's Guide (teacher guide, English)**
+- Title as printed: Primary Social Studies 3 Teacher's Guide
+- Grade: Primary 3 (student/teacher: TEACHER)
+- Publisher: Ministry of General Education and Instruction, Republic of South Sudan; year 2018; ISBN no ISBN printed
+- PDF pages: 57 (title page verified in text against the record title)
+- Verdict: COMPLETE — mirrors Pupil's Book Units 1-5
+- Tally: 2 placements — 2 to existing lessons, 0 NEW LESSON NEEDED
+- South Sudan's own way: Research is the feature of the journey — broadcasts, books, internet, artefacts and people as sources — and old community symbols are compared with today's national symbols for style, colour and meaning.
+- Non-History parts named, not placed: Geography — Unit 2 The land of Africa, TG p. 15; Unit 4 What's the difference?, p. 33. Civics/Environment — Unit 3 Environmental pollution, p. 24; Unit 5 More problem solving, p. 43.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/south-sudan-placements.md.
+
+This book is a teacher guide: its rows stand as teacher-guide evidence only, counted nowhere in acceptance — South Sudan is counted in this lesson on its student books.
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — Investigating the history of South Sudan from a range of resources — story beats: groups each take one aspect of life in the past — food, clothes, jobs, homes, religion — research it from broadcasts, books, artefacts and people, then teach the class (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | South Sudan, *Primary Social Studies 3 Teacher's Guide* (teacher guide — evidence), printed p. 1 |
+
+South Sudan's own way (Book 6 — P3 Social Studies Teacher's Guide (teacher guide, English)): Research is the feature of the journey — broadcasts, books, internet, artefacts and people as sources — and old community symbols are compared with today's national symbols for style, colour and meaning. That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 9 — P5 Social Studies Pupil's Book (student book, English)**
+- Title as printed: Primary Social Studies 5 Pupil's Book
+- Grade: Primary 5 (student/teacher: STUDENT)
+- Publisher: Ministry of General Education and Instruction, Republic of South Sudan; year 2018; ISBN no ISBN printed
+- PDF pages: 79 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 9 placements — 6 to existing lessons, 3 NEW LESSON NEEDED
+- South Sudan's own way: A full kingdoms unit taught comparatively — South Sudan's Azande, Shilluk, Otuho and Anyuak set in one table against Meroe, Bunyoro, Buganda, Zulu and Asante, with evidence (artefacts vs written records) taught before the stories.
+- Non-History parts named, not placed: Geography — Unit 2 This is our land, printed pp. 21-41; Unit 4 Farming, pp. 61-72. Civics — Unit 3 Leaders and decision makers, pp. 43-60.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — How do we know what happened long time ago? — story beats: two sources survive — artefacts (tools, weapons, jewellery; wood rots, stone and metal last) and written records by traders and visitors, like the Sahelian kingdom's 9th-century medical writing and hardwood masks (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | South Sudan, *Primary Social Studies 5 Pupil's Book*, printed p. 4 |
+
+South Sudan's own way (Book 9 — P5 Social Studies Pupil's Book (student book, English)): A full kingdoms unit taught comparatively — South Sudan's Azande, Shilluk, Otuho and Anyuak set in one table against Meroe, Bunyoro, Buganda, Zulu and Asante, with evidence (artefacts vs written records) taught before the stories. That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 12 — P6 Social Studies Teacher's Guide (teacher guide, English)**
+- Title as printed: Primary Social Studies 6 Teacher's Guide
+- Grade: Primary 6 (student/teacher: TEACHER)
+- Publisher: Ministry of General Education and Instruction, Republic of South Sudan; year 2018; ISBN no ISBN printed
+- PDF pages: 103 (title page verified in text against the record title)
+- Verdict: COMPLETE — mirrors Pupil's Book Units 1-5
+- Tally: 2 placements — 2 to existing lessons, 0 NEW LESSON NEEDED
+- South Sudan's own way: Pupils must build the independence timeline themselves, choosing the references and illustrations for the turning points and the people who led the changes, and a resource person is invited in to talk.
+- Non-History parts named, not placed: Geography — Unit 2 Changing states, TG Unit 2; Unit 3 Tourism, TG Unit 3; Unit 5 Fishing for industry and trade, TG Unit 5. Civics — Unit 4 Valuing one another, TG Unit 4.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/south-sudan-placements.md.
+
+This book is a teacher guide: its rows stand as teacher-guide evidence only, counted nowhere in acceptance — South Sudan is counted in this lesson on its student books.
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — Exploring evidence of change — story beats: pupils investigate what led to conflict and how it was resolved from maps, stories, articles and artefacts, and interpret evidence of change in South Sudan and other countries (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | South Sudan, *Primary Social Studies 6 Teacher's Guide* (teacher guide — evidence), printed p. 1 |
+
+South Sudan's own way (Book 12 — P6 Social Studies Teacher's Guide (teacher guide, English)): Pupils must build the independence timeline themselves, choosing the references and illustrations for the turning points and the people who led the changes, and a resource person is invited in to talk. That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 13 — P7 Social Studies Pupil's Book (student book, English)**
+- Title as printed: Primary Social Studies 7 Pupil's Book
+- Grade: Primary 7 (student/teacher: STUDENT)
+- Publisher: Ministry of General Education and Instruction, Republic of South Sudan; year 2018; ISBN no ISBN printed
+- PDF pages: 130 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 11 placements — 10 to existing lessons, 1 NEW LESSON NEEDED
+- South Sudan's own way: World civilisation history arrives whole at P7 — Maya, Aztec and Rome rise and fall by the same internal/external test, and the unit ends by debating whether Roman civilisation contributed to South Sudan.
+- Non-History parts named, not placed: Geography — Unit 2 Exploring physical features, printed pp. 22-48; Unit 3 Mining in South Sudan, pp. 49-81. Civics — Unit 4 Promotion of gender equality, pp. 83-98; Unit 5 Just and fair society, pp. 100-121.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — Sources of information on civilisation — story beats: historians work from primary sources (artefacts, diaries, manuscripts, recordings), secondary sources (books, archives by people not present) and tertiary sources (radio, TV, internet) (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | South Sudan, *Primary Social Studies 7 Pupil's Book*, printed p. 4 |
+| South Sudan part — Importance of maps in understanding the development of civilisation — story beats: maps trace cultures, carry historical accounts from earliest to modern times, and are themselves artefacts of civilisation (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | South Sudan, *Primary Social Studies 7 Pupil's Book*, printed p. 16 |
+
+South Sudan's own way (Book 13 — P7 Social Studies Pupil's Book (student book, English)): World civilisation history arrives whole at P7 — Maya, Aztec and Rome rise and fall by the same internal/external test, and the unit ends by debating whether Roman civilisation contributed to South Sudan. That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 14 — P7 Social Studies Teacher's Guide (teacher guide, English)**
+- Title as printed: Primary Social Studies 7 Teacher's Guide
+- Grade: Primary 7 (student/teacher: TEACHER)
+- Publisher: Ministry of General Education and Instruction, Republic of South Sudan; year 2018; ISBN no ISBN printed
+- PDF pages: 117 (title page verified in text against the record title)
+- Verdict: COMPLETE — mirrors Pupil's Book Units 1-5
+- Tally: 2 placements — 2 to existing lessons, 0 NEW LESSON NEEDED
+- South Sudan's own way: Comparison is the method — at least two civilisations in detail (Maya, Aztec, Khmer or Roman), maps read for settlement and communication routes, and debates that ask what past leadership teaches South Sudan today.
+- Non-History parts named, not placed: Geography — Unit 2 Exploring physical features, TG Unit 2; Unit 3 Mining in South Sudan, TG Unit 3. Civics — Unit 4 Promotion of gender equality, TG Unit 4; Unit 5 Just and fair society, TG Unit 5.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/south-sudan-placements.md.
+
+This book is a teacher guide: its rows stand as teacher-guide evidence only, counted nowhere in acceptance — South Sudan is counted in this lesson on its student books.
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — Using maps to explain settlement — story beats: learners study maps of where civilisations arose, looking for physical features and communication routes that explain why people settled there (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | South Sudan, *Primary Social Studies 7 Teacher's Guide* (teacher guide — evidence), printed p. 1 |
+
+South Sudan's own way (Book 14 — P7 Social Studies Teacher's Guide (teacher guide, English)): Comparison is the method — at least two civilisations in detail (Maya, Aztec, Khmer or Roman), maps read for settlement and communication routes, and debates that ask what past leadership teaches South Sudan today. That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 17 — S1 History Student's Book (student book, English)**
+- Title as printed: Secondary History 1 Student's Book (inner title page misprints "Primary History Pupil's Book 1" — see library debts)
+- Grade: Secondary 1 / Grade 9 (student/teacher: STUDENT)
+- Publisher: Ministry of General Education and Instruction, Republic of South Sudan; year 2018; ISBN no ISBN printed
+- PDF pages: 143 (cover verified against the record title)
+- Verdict: COMPLETE
+- Tally: 25 placements — 14 to existing lessons, 11 NEW LESSON NEEDED
+- South Sudan's own way: A national history built from long source extracts pupils must interrogate — Seligman on the Shilluk reth, Evans-Pritchard on Azande witchcraft, Holt on the Mahdiyya, Samuel Baker on Khartoum, and living testimony from former slaves Simon Deng and Ayak Piol Mabior (filed as plot summaries only).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — Sources of information on history — story beats: primary, secondary and tertiary sources are taught through resource people who witnessed events, archaeology (the Meroitic temple unearthed in 2011 and Sedeinga's pyramids), linguistics tracing migration through similar words, and anthropology living among a people (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | South Sudan, *Secondary History 1 Student's Book (inner title page misprints "Primary History Pupil's Book 1" — see library debts)*, printed p. 1 |
+
+South Sudan's own way (Book 17 — S1 History Student's Book (student book, English)): A national history built from long source extracts pupils must interrogate — Seligman on the Shilluk reth, Evans-Pritchard on Azande witchcraft, Holt on the Mahdiyya, Samuel Baker on Khartoum, and living testimony from former slaves Simon Deng and Ayak Piol Mabior (filed as plot summaries only). That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 18 — S1 History Teacher's Guide (teacher guide, English)**
+- Title as printed: Secondary History 1 Teacher's Guide
+- Grade: Secondary 1 / Grade 9 (student/teacher: TEACHER)
+- Publisher: Ministry of General Education and Instruction, Republic of South Sudan; year 2018; ISBN no ISBN printed
+- PDF pages: 97 (title page verified in text against the record title)
+- Verdict: COMPLETE — mirrors Student's Book Units 1-7; production flaw: the Unit 3, 4 and 5 introductions repeat Unit 2's "Learn about" text verbatim (see library debts)
+- Tally: 3 placements — 3 to existing lessons, 0 NEW LESSON NEEDED
+- South Sudan's own way: The guide's distinctive moves are comparison against home — colonial administration measured against pre-colonial kingdoms and chiefs, African responses judged against the present, and missionaries then set against churches now.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/south-sudan-placements.md.
+
+This book is a teacher guide: its rows stand as teacher-guide evidence only, counted nowhere in acceptance — South Sudan is counted in this lesson on its student books.
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — Researching slave trade as a case study — story beats: learners research one country as a case study, study the founders and organisation of the slave trade in South Sudan, and draw sketch maps of Africa and South Sudan showing the routes slave traders used (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | South Sudan, *Secondary History 1 Teacher's Guide* (teacher guide — evidence), printed p. 72 |
+
+South Sudan's own way (Book 18 — S1 History Teacher's Guide (teacher guide, English)): The guide's distinctive moves are comparison against home — colonial administration measured against pre-colonial kingdoms and chiefs, African responses judged against the present, and missionaries then set against churches now. That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 29 countries (Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Bulgaria, Palestine, Colombia, South Sudan).**

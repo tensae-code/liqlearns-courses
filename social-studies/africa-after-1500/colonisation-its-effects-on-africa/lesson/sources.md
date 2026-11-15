@@ -1,6 +1,6 @@
 # Sources — Colonisation — its effects on Africa
 
-countries: Ethiopia, Rwanda, Eritrea
+countries: Ethiopia, Rwanda, Eritrea, South Sudan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 5, placements 110–122).
 
@@ -56,3 +56,25 @@ Gabon's own way (Grade 5): the final primary year widens out — ancient Egypt, 
 Eritrea's own way (Grade 8): the whole modern national story is told as one chain of resistance — Turks, Egyptians, Abyssinians, Italians, British, federation, armed struggle — every invader met by named Eritrean resisters, from Bahri Negassi Yeshaq and Woldemichael Solomon to Hamid Idris Awate. That way is stocked here as the way Eritrea teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 3 countries (Ethiopia, Rwanda, Eritrea).**
+
+
+## History expansion (2026-11-15) — South Sudan stocked
+
+**Book 15 — P8 Social Studies Pupil's Book (student book, English)**
+- Title as printed: Primary Social Studies 8 Pupil's Book
+- Grade: Primary 8 (student/teacher: STUDENT)
+- Publisher: Ministry of General Education and Instruction, Republic of South Sudan; year 2018; ISBN no ISBN printed
+- PDF pages: 92 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 9 placements — 9 to existing lessons, 0 NEW LESSON NEEDED
+- South Sudan's own way: Colonisation is taught through named African choices — Lewanika collaborates, Samori Touré resists for seven years — and through South Sudan's own split peoples (Anyuak, Ma'di, Acholi, Kakwa) when boundaries are drawn.
+- Non-History parts named, not placed: Geography — Unit 2 Climate change, printed pp. 19-37; Unit 3 Exploring farming systems, pp. 38-53. Civics — Unit 4 National unity, pp. 54-77; Unit 5 Peace in our time, pp. 78-86.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — Impact of the coming of Europeans — story beats: Africans lose fertile land to settlers and are forced into reserves with pass cards, new boundaries split the Anyuak, Ma'di, Acholi and Kakwa across countries, chiefs become petty officials, cottage industries decline, and money, elites and towns like Juba and Nairobi emerge (History expansion, 2026-11-15; original placement slug: africa-after-1500/colonisation-its-effects-on-africa) | South Sudan, *Primary Social Studies 8 Pupil's Book*, printed p. 7 |
+
+South Sudan's own way (Book 15 — P8 Social Studies Pupil's Book (student book, English)): Colonisation is taught through named African choices — Lewanika collaborates, Samori Touré resists for seven years — and through South Sudan's own split peoples (Anyuak, Ma'di, Acholi, Kakwa) when boundaries are drawn. That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 4 countries (Ethiopia, Rwanda, Eritrea, South Sudan).**

@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — Rome divides
 
-countries: Ethiopia, Brazil, France, Costa Rica, Australia, Montenegro, Dominican Republic, Pakistan, Colombia
+countries: Ethiopia, Brazil, France, Costa Rica, Australia, Montenegro, Dominican Republic, Pakistan, Colombia, South Sudan
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 6, placements 92–106).
 
@@ -140,3 +140,25 @@ Colombia's own way (Secundaria Activa G7 (student book, Spanish)): Grade 7 Secun
 **Acceptance count: taught in 9 countries (Ethiopia, Brazil, France, Costa Rica, Australia, Montenegro, Dominican Republic, Pakistan, Colombia).**
 
 Searchable tags: Colombia, Ancient civilisations — Rome divides, ancient-world, History expansion 2026-11-15
+
+
+## History expansion (2026-11-15) — South Sudan stocked
+
+**Book 13 — P7 Social Studies Pupil's Book (student book, English)**
+- Title as printed: Primary Social Studies 7 Pupil's Book
+- Grade: Primary 7 (student/teacher: STUDENT)
+- Publisher: Ministry of General Education and Instruction, Republic of South Sudan; year 2018; ISBN no ISBN printed
+- PDF pages: 130 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 11 placements — 10 to existing lessons, 1 NEW LESSON NEEDED
+- South Sudan's own way: World civilisation history arrives whole at P7 — Maya, Aztec and Rome rise and fall by the same internal/external test, and the unit ends by debating whether Roman civilisation contributed to South Sudan.
+- Non-History parts named, not placed: Geography — Unit 2 Exploring physical features, printed pp. 22-48; Unit 3 Mining in South Sudan, pp. 49-81. Civics — Unit 4 Promotion of gender equality, pp. 83-98; Unit 5 Just and fair society, pp. 100-121.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — Reasons for the decline of the Roman Empire — story beats: barbarians turn Roman tactics learned in Roman service against Rome, senate and emperor feud, famine and plague strike, morals decline, cheap slave labour leaves plebs unemployed, and the empire grows too fast to defend (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-rome-divides) | South Sudan, *Primary Social Studies 7 Pupil's Book*, printed p. 12 |
+
+South Sudan's own way (Book 13 — P7 Social Studies Pupil's Book (student book, English)): World civilisation history arrives whole at P7 — Maya, Aztec and Rome rise and fall by the same internal/external test, and the unit ends by debating whether Roman civilisation contributed to South Sudan. That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 10 countries (Ethiopia, Brazil, France, Costa Rica, Australia, Montenegro, Dominican Republic, Pakistan, Colombia, South Sudan).**

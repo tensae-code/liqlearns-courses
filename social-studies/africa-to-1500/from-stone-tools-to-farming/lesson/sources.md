@@ -1,6 +1,6 @@
 # Sources — From stone tools to farming — the Neolithic Revolution
 
-countries: Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus, Fiji, Dominican Republic, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia
+countries: Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus, Fiji, Dominican Republic, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, South Sudan
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -520,3 +520,43 @@ Colombia's own way (G4 Cartilla 1 (student book, Spanish)): Grade 4 is the first
 **Acceptance count: taught in 23 countries (Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus, Fiji, Dominican Republic, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia).**
 
 Searchable tags: Colombia, From stone tools to farming — the Neolithic Revolution, africa-to-1500, History expansion 2026-11-15
+
+
+## History expansion (2026-11-15) — South Sudan stocked
+
+**Book 5 — P3 Social Studies Pupil's Book (student book, English)**
+- Title as printed: Primary Social Studies 3 Pupil's Book
+- Grade: Primary 3 (student/teacher: STUDENT)
+- Publisher: Ministry of General Education and Instruction, Republic of South Sudan; year 2018; ISBN no ISBN printed
+- PDF pages: 55 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 9 placements — 3 to existing lessons, 6 NEW LESSON NEEDED
+- South Sudan's own way: Africa-wide past first (peoples, hunting, farming, ceremonies), then South Sudan itself — its past leaders, why its people settled and moved where they did, and a flag whose colours retell 1972 and 2005 peace agreements.
+- Non-History parts named, not placed: Geography — Unit 2 The land of Africa, printed pp. 14-23; Unit 4 What's the difference? (settlements, land use), pp. 33-42. Civics/Environment — Unit 3 Environmental pollution, pp. 24-32; Unit 5 More problem solving / conflict and landmines, pp. 43-49.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — Jobs done by people in the past — story beats: Hakim of the Dinka tells how his grandfather never went to school but herded cattle, tilled land and traded, and those jobs fed the whole community (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | South Sudan, *Primary Social Studies 3 Pupil's Book*, printed p. 4 |
+| South Sudan part — How economic activities are related to the way people lived — story beats: farming, fishing and trade pictures are used to explain why people settled where they did and how work shaped daily life (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | South Sudan, *Primary Social Studies 3 Pupil's Book*, printed p. 8 |
+
+South Sudan's own way (Book 5 — P3 Social Studies Pupil's Book (student book, English)): Africa-wide past first (peoples, hunting, farming, ceremonies), then South Sudan itself — its past leaders, why its people settled and moved where they did, and a flag whose colours retell 1972 and 2005 peace agreements. That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 7 — P4 Social Studies Pupil's Book (student book, English)**
+- Title as printed: Primary Social Studies 4 Pupil's Book
+- Grade: Primary 4 (student/teacher: STUDENT)
+- Publisher: Ministry of General Education and Instruction, Republic of South Sudan; year 2018; ISBN no ISBN printed
+- PDF pages: 85 (cover/title page verified against the record title; image-only book read via 100 DPI contact sheets for Units 1 and 4)
+- Verdict: COMPLETE
+- Tally: 8 placements — 5 to existing lessons, 3 NEW LESSON NEEDED
+- South Sudan's own way: World inventions (plough, steam engine, printing press) are taught only through what they changed at home — food, dress, messages, travel — and origin stories are treated as each people's own history, set beside Bible and Koran creation accounts.
+- Non-History parts named, not placed: Geography — Unit 2 Weather and climate, printed pp. 18-39; Unit 3 Interesting industries, pp. 40-57. Civics — Unit 4 Religious practices and symbols / laws that govern a community, pp. 63-67; Unit 5 Avoiding conflicts, pp. 68-79.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — The plough — story beats: the plough arrives as a technology that changes how land is prepared, and children ask parents how land was prepared in the past (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | South Sudan, *Primary Social Studies 4 Pupil's Book*, printed p. 12 |
+
+South Sudan's own way (Book 7 — P4 Social Studies Pupil's Book (student book, English)): World inventions (plough, steam engine, printing press) are taught only through what they changed at home — food, dress, messages, travel — and origin stories are treated as each people's own history, set beside Bible and Koran creation accounts. That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 24 countries (Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus, Fiji, Dominican Republic, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, South Sudan).**
