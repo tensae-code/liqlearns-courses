@@ -1,6 +1,6 @@
 # Sources — Africa, cradle of humankind — Chad, Afar and Lucy
 
-countries: Ethiopia, Angola
+countries: Ethiopia, Angola, Costa Rica
 
 **Book 1:** *History, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, Addis Ababa, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-064-2, 210 printed pp. Printed page = PDF page − 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g09-student-placements.md
 
@@ -77,3 +77,17 @@ This book is a teacher guide, not a pupil text. The part(s) below stand on it as
 Haiti's own way (Grade 7, Nomades et sédentaires): prehistory is taught as live science — fossils, stratigraphy and laboratory dating are set side by side, docu-fiction films are dissected, and the world story lands in the Antilles' own fisher-gatherers and first farmers. That way is stocked here as the way Haiti teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 2 countries (Ethiopia, Angola) — unchanged; the Haiti placement(s) above are teacher-guide evidence only, counted nowhere. Haiti is not added to this lesson's countries line.**
+
+---
+
+## History expansion (2026-11-15) — Costa Rica stocked
+
+**Book (Costa Rica cr-coned-7):** Title as printed: Antología CONED — Estudios Sociales, Código 80005, Nivel Sétimo año Grade: Grade 7 (student/teacher: STUDENT) Publisher: Universidad Estatal a Distancia (UNED) / Colegio Nacional de Educación a Distancia (CONED); year 2017; no ISBN printed PDF pages: 166 (cover verified against the record title; byte size 4,348,033 and page count match the record) Verdict: COMPLETE Tally: 10 placements — 8 to existing lessons, 2 NEW LESSON NEEDED Costa Rica's own way: The CONED distance-education anthologies compile source readings around a guiding question per theme, fusing History with Geography in one Estudios Sociales course: the ancient world is read as "the human footprint on geographic space", and Costa Rica's own past enters through its indigenous peoples before any national narrative. Non-History parts (named, not placed): Unidad II Tema II La huella ecológica (ecological footprint, printed pp. 94–105 — Geography); Unidad III El espacio geográfico transformado: ecosistemas terrestres y producción alimentaria (printed pp. 106–165 — Geography). Placements at liqlearns-courses-work/expansion-history-2026-11-15/costa-rica-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Costa Rica part — Unidad I, Tema I-A: Los primeros pasos del ser humano — story beats: Humanity evolves in Africa, the "cradle of humankind": bipedal hominids separate from the chimpanzee line 7–5 million years ago, Homo habilis makes tools, and fire is tamed on the way to Homo sapiens (History expansion, 2026-11-15; original placement slug: africa-to-1500/africa-cradle-of-humankind) | Costa Rica, *Grade 7 CONED Antología*, printed p. 7 |
+
+Costa Rica's own way (Costa Rica Grade 7 CONED Antología): The CONED distance-education anthologies compile source readings around a guiding question per theme, fusing History with Geography in one Estudios Sociales course: the ancient world is read as "the human footprint on geographic space", and Costa Rica's own past enters through its indigenous peoples before any national narrative. That way is stocked here as the way Costa Rica teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 3 countries (Ethiopia, Angola, Costa Rica).**

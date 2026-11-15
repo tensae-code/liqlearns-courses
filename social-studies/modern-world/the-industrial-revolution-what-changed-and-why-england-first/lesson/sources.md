@@ -1,6 +1,6 @@
 # Sources — The Industrial Revolution — what changed and why England first
 
-countries: Ethiopia, Brazil
+countries: Ethiopia, Brazil, Costa Rica
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 130).
 
@@ -65,3 +65,17 @@ Brazil's own way (History expansion, 2026-11-15): A public textbook written by s
 Iceland's own way: a Norwegian textbook re-rooted in Iceland — every world chapter is doubled with Icelandic source work: the 1703 census, tenant farmers and servants under the vistarband, Jørgen Jørgensen's 1809 coup, emigration to Canada, Jón Sigurðsson, the Spanish flu and the road to the 1944 republic; pupils judge sources, role-play strikes and suffrage debates, and keep asking "was Iceland a colony?" That way is stocked here as the way Iceland teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 2 countries (Ethiopia, Brazil) — unchanged; the Iceland placement above is teacher-guide evidence only, counted nowhere. Iceland is not added to this lesson's countries line.**
+
+---
+
+## History expansion (2026-11-15) — Costa Rica stocked
+
+**Book (Costa Rica cr-coned-9):** Title as printed: Antología CONED — Estudios Sociales, Código 80017 (as printed), Nivel Noveno año Grade: Grade 9 (student/teacher: STUDENT) Publisher: Universidad Estatal a Distancia (UNED) / Colegio Nacional de Educación a Distancia (CONED); year 2018 file; no ISBN printed PDF pages: 183 (cover verified against the record title; byte size 7,447,365 and page count match the record. Route note: the books.json tree path returned HTTP 404, so the book was grabbed via its TSV release asset in mid-size-books-5, which matched size and pages exactly) Verdict: COMPLETE Tally: 20 placements — 10 to existing lessons, 10 NEW LESSON NEEDED Costa Rica's own way: The Noveno anthology runs one long arc — "the journey of humanity from the Middle Ages to 19th-century Costa Rica" — in which every world process (feudalism, Renaissance, conquest, Enlightenment, independence, industrialisation) is landed in Costa Rica: colonial institutions, the coffee state and banana enclave, and everyday Costa Rican life close the book. Placements at liqlearns-courses-work/expansion-history-2026-11-15/costa-rica-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Costa Rica part — Unidad III, Tema 2: La Revolución Industrial — story beats: 19th-century European industrial society is born — the change Costa Rica's agro-export economy will plug into (History expansion, 2026-11-15; original placement slug: modern-world/the-industrial-revolution-what-changed-and-why-england-first) | Costa Rica, *Grade 9 CONED Antología*, printed p. 145 |
+
+Costa Rica's own way (Costa Rica Grade 9 CONED Antología): The Noveno anthology runs one long arc — "the journey of humanity from the Middle Ages to 19th-century Costa Rica" — in which every world process (feudalism, Renaissance, conquest, Enlightenment, independence, industrialisation) is landed in Costa Rica: colonial institutions, the coffee state and banana enclave, and everyday Costa Rican life close the book. That way is stocked here as the way Costa Rica teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 3 countries (Ethiopia, Brazil, Costa Rica).**

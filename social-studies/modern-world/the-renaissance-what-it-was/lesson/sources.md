@@ -1,6 +1,6 @@
 # Sources — The Renaissance — what it was
 
-countries: Ethiopia, Poland
+countries: Ethiopia, Poland, Costa Rica
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -50,3 +50,17 @@ History fix note (2026-11-12): the History coverage audit found this lesson's co
 Poland's own way: the volume keeps the series pattern — the world styles first (Italy, then the other countries), then a full chapter bringing each age home to Poland. That way is stocked here as the way Poland teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 2 countries (Ethiopia, Poland).**
+
+---
+
+## History expansion (2026-11-15) — Costa Rica stocked
+
+**Book (Costa Rica cr-coned-9):** Title as printed: Antología CONED — Estudios Sociales, Código 80017 (as printed), Nivel Noveno año Grade: Grade 9 (student/teacher: STUDENT) Publisher: Universidad Estatal a Distancia (UNED) / Colegio Nacional de Educación a Distancia (CONED); year 2018 file; no ISBN printed PDF pages: 183 (cover verified against the record title; byte size 7,447,365 and page count match the record. Route note: the books.json tree path returned HTTP 404, so the book was grabbed via its TSV release asset in mid-size-books-5, which matched size and pages exactly) Verdict: COMPLETE Tally: 20 placements — 10 to existing lessons, 10 NEW LESSON NEEDED Costa Rica's own way: The Noveno anthology runs one long arc — "the journey of humanity from the Middle Ages to 19th-century Costa Rica" — in which every world process (feudalism, Renaissance, conquest, Enlightenment, independence, industrialisation) is landed in Costa Rica: colonial institutions, the coffee state and banana enclave, and everyday Costa Rican life close the book. Placements at liqlearns-courses-work/expansion-history-2026-11-15/costa-rica-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Costa Rica part — Unidad I, Tema 4-A: El Renacimiento — story beats: Renaissance humanism revalues classical antiquity and the human being at the close of the medieval world (History expansion, 2026-11-15; original placement slug: modern-world/the-renaissance-what-it-was) | Costa Rica, *Grade 9 CONED Antología*, printed p. 64 |
+
+Costa Rica's own way (Costa Rica Grade 9 CONED Antología): The Noveno anthology runs one long arc — "the journey of humanity from the Middle Ages to 19th-century Costa Rica" — in which every world process (feudalism, Renaissance, conquest, Enlightenment, independence, industrialisation) is landed in Costa Rica: colonial institutions, the coffee state and banana enclave, and everyday Costa Rican life close the book. That way is stocked here as the way Costa Rica teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 3 countries (Ethiopia, Poland, Costa Rica).**

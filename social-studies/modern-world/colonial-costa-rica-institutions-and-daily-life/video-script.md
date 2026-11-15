@@ -1,0 +1,9 @@
+# Video script — Colonial Costa Rica — institutions and daily life
+
+The super-simple voice, for the video that rides on top of the lesson (lesson-plan.md, add-on list). Story-style: the story as the Costa Rica book tells it. Made later, when videos are made; the script is the slot's written form until then.
+
+---
+
+The colony is organised in administrative divisions and institutions; its cities, urban structure and everyday life are studied with emphasis on Costa Rica
+
+Hold that story: The colony is organised in administrative divisions and institutions; its cities, urban structure and everyday life are studied with emphasis on Costa Rica

@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — Rome
 
-countries: Ethiopia, Brazil, France, Poland, Turkey
+countries: Ethiopia, Brazil, France, Poland, Turkey, Costa Rica
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -105,3 +105,17 @@ This book is a teacher guide, not a pupil text. The part(s) below stand on it as
 Gabon's own way (Grade 5): the final primary year widens out — ancient Egypt, Greece and Rome first, then Gabon and Africa again (autochthones, Bantu, colonisation, Berlin, the two world wars) ending with the march to independence, told through Léon Mba's speech of 16 August 1960. That way is stocked here as the way Gabon teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 5 countries (Ethiopia, Brazil, France, Poland, Turkey) — unchanged; the Gabon placement(s) above are teacher-guide evidence only, counted nowhere. Gabon is not added to this lesson's countries line.**
+
+---
+
+## History expansion (2026-11-15) — Costa Rica stocked
+
+**Book (Costa Rica cr-coned-7):** Title as printed: Antología CONED — Estudios Sociales, Código 80005, Nivel Sétimo año Grade: Grade 7 (student/teacher: STUDENT) Publisher: Universidad Estatal a Distancia (UNED) / Colegio Nacional de Educación a Distancia (CONED); year 2017; no ISBN printed PDF pages: 166 (cover verified against the record title; byte size 4,348,033 and page count match the record) Verdict: COMPLETE Tally: 10 placements — 8 to existing lessons, 2 NEW LESSON NEEDED Costa Rica's own way: The CONED distance-education anthologies compile source readings around a guiding question per theme, fusing History with Geography in one Estudios Sociales course: the ancient world is read as "the human footprint on geographic space", and Costa Rica's own past enters through its indigenous peoples before any national narrative. Non-History parts (named, not placed): Unidad II Tema II La huella ecológica (ecological footprint, printed pp. 94–105 — Geography); Unidad III El espacio geográfico transformado: ecosistemas terrestres y producción alimentaria (printed pp. 106–165 — Geography). Placements at liqlearns-courses-work/expansion-history-2026-11-15/costa-rica-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Costa Rica part — Unidad I, Tema III: Roma — story beats: Rome's social organisation and cultural contributions complete the classical pair from which Western societies are traced (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-rome) | Costa Rica, *Grade 7 CONED Antología*, printed p. 47 |
+
+Costa Rica's own way (Costa Rica Grade 7 CONED Antología): The CONED distance-education anthologies compile source readings around a guiding question per theme, fusing History with Geography in one Estudios Sociales course: the ancient world is read as "the human footprint on geographic space", and Costa Rica's own past enters through its indigenous peoples before any national narrative. That way is stocked here as the way Costa Rica teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 6 countries (Ethiopia, Brazil, France, Poland, Turkey, Costa Rica).**

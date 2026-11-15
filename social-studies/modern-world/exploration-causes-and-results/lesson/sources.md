@@ -1,6 +1,6 @@
 # Sources — Exploration — causes and results
 
-countries: Ethiopia, United States, Guatemala
+countries: Ethiopia, United States, Guatemala, Costa Rica
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 125).
 
@@ -48,3 +48,17 @@ Book 6 in the placements file (gt-g4hq, the full-quality oversized copy, 118,030
 Guatemala's own way (Ciencias Sociales y Formación Ciudadana, Cuarto grado): the national story is told as one continuous timeline the child studies unit by unit (a shaded timeline opens each unit), anchored in the child's own community — old photographs of Tikal, "how has my community changed in fifty years", interviewing elders who lived the 1944 Revolution and the armed conflict — and the four peoples (Maya, Garífuna, Xinka, Ladino) frame identity throughout. That way is stocked here as the way Guatemala teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 3 countries (Ethiopia, United States, Guatemala).**
+
+---
+
+## History expansion (2026-11-15) — Costa Rica stocked
+
+**Book (Costa Rica cr-coned-9):** Title as printed: Antología CONED — Estudios Sociales, Código 80017 (as printed), Nivel Noveno año Grade: Grade 9 (student/teacher: STUDENT) Publisher: Universidad Estatal a Distancia (UNED) / Colegio Nacional de Educación a Distancia (CONED); year 2018 file; no ISBN printed PDF pages: 183 (cover verified against the record title; byte size 7,447,365 and page count match the record. Route note: the books.json tree path returned HTTP 404, so the book was grabbed via its TSV release asset in mid-size-books-5, which matched size and pages exactly) Verdict: COMPLETE Tally: 20 placements — 10 to existing lessons, 10 NEW LESSON NEEDED Costa Rica's own way: The Noveno anthology runs one long arc — "the journey of humanity from the Middle Ages to 19th-century Costa Rica" — in which every world process (feudalism, Renaissance, conquest, Enlightenment, independence, industrialisation) is landed in Costa Rica: colonial institutions, the coffee state and banana enclave, and everyday Costa Rican life close the book. Placements at liqlearns-courses-work/expansion-history-2026-11-15/costa-rica-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Costa Rica part — Unidad I, Tema 4-C: La exploración ultramarina de España — story beats: Spain's overseas exploration of the 15th–16th centuries opens the Atlantic world that the next unit's conquest fills (History expansion, 2026-11-15; original placement slug: modern-world/exploration-causes-and-results) | Costa Rica, *Grade 9 CONED Antología*, printed p. 73 |
+
+Costa Rica's own way (Costa Rica Grade 9 CONED Antología): The Noveno anthology runs one long arc — "the journey of humanity from the Middle Ages to 19th-century Costa Rica" — in which every world process (feudalism, Renaissance, conquest, Enlightenment, independence, industrialisation) is landed in Costa Rica: colonial institutions, the coffee state and banana enclave, and everyday Costa Rican life close the book. That way is stocked here as the way Costa Rica teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 4 countries (Ethiopia, United States, Guatemala, Costa Rica).**

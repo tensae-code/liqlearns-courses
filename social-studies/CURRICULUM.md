@@ -10025,3 +10025,107 @@ the new lessons' acceptance count is 0 countries,
 and every existing lesson's acceptance count is
 unchanged, Haiti not added to its countries line.
 History lessons: 530 → 542.
+
+## History expansion — Costa Rica — built 2026-11-15
+
+28 new lessons, 144 questions, in **Ancient World**:
+The Inca — the Andean civilisation
+(ancient-world/the-inca-andean-civilisation),
+Costa Rica's indigenous peoples before the Spanish
+(ancient-world/costa-rica-indigenous-peoples-before-the-spanish)
+and Medieval cities, trade, universities and plague
+(ancient-world/medieval-world-cities-trade-universities-and-plague);
+and in **Modern World**: The Spanish conquest of
+America and Costa Rica
+(modern-world/spanish-conquest-of-america-and-costa-rica),
+Colonial Costa Rica — institutions and daily life
+(modern-world/colonial-costa-rica-institutions-and-daily-life),
+Colonial Costa Rica — exploitation and heritage
+(modern-world/colonial-costa-rica-exploitation-and-heritage),
+Absolute monarchies and state formation
+(modern-world/absolute-monarchies-and-state-formation),
+Latin American independence — ideas and processes
+(modern-world/latin-american-independence-ideas-and-processes),
+Costa Rica — building the nation-state, 1821–1848
+(modern-world/costa-rica-building-the-nation-state-1821-1848),
+Costa Rica — the coffee state and consolidation,
+1850–1890
+(modern-world/costa-rica-coffee-state-and-consolidation-1850-1890),
+Costa Rica — the coffee and banana agro-export model
+(modern-world/costa-rica-coffee-and-banana-agroexport-model),
+Costa Rica — daily life in the late 19th century
+(modern-world/costa-rica-daily-life-in-the-late-19th-century),
+Cold War social and political struggles
+(modern-world/cold-war-social-and-political-struggles),
+Cold War economic models
+(modern-world/cold-war-economic-models), The end of
+'real socialism' and the Cold War
+(modern-world/end-of-real-socialism-and-the-cold-war),
+China in a multipolar world
+(modern-world/china-in-a-multipolar-world),
+Post-Cold War geopolitical tensions
+(modern-world/post-cold-war-geopolitical-tensions),
+Ethnic cleansing and human rights
+(modern-world/ethnic-cleansing-and-human-rights),
+Latin America in contemporary geopolitics
+(modern-world/latin-america-in-contemporary-geopolitics),
+Costa Rica — the agro-export model in crisis
+(modern-world/costa-rica-agroexport-model-crisis),
+Costa Rica — democracy and social struggles,
+1900–1948
+(modern-world/costa-rica-democracy-and-social-struggles-1900-1948),
+Costa Rica — 1948: social reform and civil war
+(modern-world/costa-rica-1948-social-reform-and-civil-war),
+Costa Rica — import substitution, 1950–1980
+(modern-world/costa-rica-import-substitution-1950-1980),
+Costa Rica — the welfare state, 1950–1980
+(modern-world/costa-rica-welfare-state-1950-1980),
+Costa Rica — the electoral system after 1949
+(modern-world/costa-rica-electoral-system-after-1949),
+Costa Rica — the 1980s crisis and export promotion
+(modern-world/costa-rica-1980s-crisis-and-export-promotion),
+Costa Rica — state and social movements since 1980
+(modern-world/costa-rica-state-and-social-movements-since-1980)
+and Costa Rica — the women's suffrage struggle
+(modern-world/costa-rica-womens-suffrage-struggle)
+— 60 placements stocked in all from Costa Rica's
+six student books: the CONED distance-education
+anthologies *Antología CONED — Estudios Sociales*
+for Grade 7 (Código 80005, 2017, 166 PDF pp.; 10
+placements), Grade 9 (2018 file, 183 PDF pp.; 20
+placements), Grade 10 (Código 80023, 2017 file, 255
+PDF pp.; 13 placements) and Grade 11 (Código 80029,
+2017, 124 PDF pp.; 8 placements), all UNED/CONED,
+no ISBN printed; and *Estudios Sociales 11*
+(Publicaciones Porras y Gamboa, San José, 1ª ed.
+2018, ISBN 978-9930-9622-3-7 as printed, 200 PDF
+pp.; 9 placements — the same Grade 11 programme
+told as one illustrated narrative, stocked as the
+second sub lesson of the eight shared Costa Rica
+lessons and alone in the women's suffrage lesson).
+24 placements were stocked into 24 existing
+lessons. All six books are student books, so Costa
+Rica counts normally everywhere it is stocked:
+every stocked lesson's countries line names Costa
+Rica and its acceptance count rises by one. The
+Grade 8 CONED anthology (cr-coned-8, 96 PDF pp.) is
+RECORD-ONLY for History — the whole anthology is
+Geography (dynamic earth, climate change, adaptation
+proposals), named in the placements file, not
+placed; the History strand pauses for that year in
+the CONED sequence. The books' non-History parts
+stay named, not placed: the Grade 7 ecological
+footprint and transformed geographic space units,
+the Grade 10 population dynamics unit, and the
+Grade 11 globalisation units of both books, plus
+the Porras exam-practice unit. Costa Rica's own
+way is stocked inside the lessons: the CONED
+anthologies fuse History with Geography in one
+Estudios Sociales course around a guiding question
+per theme, land every world process in Costa Rica,
+and turn fully homeward in Grade 11, where the
+national 20th century — agro-export crisis,
+democratic and social struggles, the 1948 civil
+war and social reform, the welfare state and the
+post-1980 neoliberal turn — is the history.
+History lessons: 542 → 570.

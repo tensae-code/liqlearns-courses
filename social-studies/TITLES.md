@@ -93,7 +93,7 @@ the one title at rising depth wherever a title spans both books
   15th centuries, and Ukraine in medieval Europe, and
   Haiti — the Taïno of Quisqueya, prehistoric art —
   cave paintings and sculpture, and Caribbean first
-  peoples — fishers and farmers).
+  peoples — fishers and farmers, and Costa Rica — the Inca — the Andean civilisation, Costa Rica's indigenous peoples before the Spanish, and medieval cities, trade, universities and plague).
 - `the-land-and-air/` — continents and oceans, the forces that
   shape the land, the atmosphere, weather and climate, map work
   (including the UAE's location and emirates map and desert
@@ -176,7 +176,7 @@ the one title at rising depth wherever a title spans both books
   Children of the Road, Cornelia Studer and the Gott
   hilft children's home, Florian Branger and
   administrative detention, and Ruedi Hofer, the
-  Verdingkinder and reparation, and the United States — its own national survey in 27 lessons, from the Americas before 1492 to America in the twenty-first century, and Haiti — forts built to defend independence, the flag and 18 May 1803, slavery and the plantation economy of Saint-Domingue, the Code Noir — the law that ruled slavery, resistance, marronage and revolt in Saint-Domingue, the Haitian Revolution, 1791–1804, building the Haitian state, 1804–1843, independence debt and neocolonialism by debt, and the US occupation of Haiti, 1915–1934).
+  Verdingkinder and reparation, and the United States — its own national survey in 27 lessons, from the Americas before 1492 to America in the twenty-first century, and Haiti — forts built to defend independence, the flag and 18 May 1803, slavery and the plantation economy of Saint-Domingue, the Code Noir — the law that ruled slavery, resistance, marronage and revolt in Saint-Domingue, the Haitian Revolution, 1791–1804, building the Haitian state, 1804–1843, independence debt and neocolonialism by debt, and the US occupation of Haiti, 1915–1934, and Costa Rica — the Spanish conquest of America and Costa Rica, colonial Costa Rica — institutions and daily life, colonial Costa Rica — exploitation and heritage, absolute monarchies and state formation, Latin American independence — ideas and processes, Costa Rica — building the nation-state, 1821–1848, the coffee state and consolidation, 1850–1890, the coffee and banana agro-export model, daily life in the late 19th century, Cold War social and political struggles, Cold War economic models, the end of 'real socialism' and the Cold War, China in a multipolar world, post-Cold War geopolitical tensions, ethnic cleansing and human rights, Latin America in contemporary geopolitics, the agro-export model in crisis, democracy and social struggles, 1900–1948, 1948: social reform and civil war, import substitution, 1950–1980, the welfare state, 1950–1980, the electoral system after 1949, the 1980s crisis and export promotion, state and social movements since 1980, and the women's suffrage struggle).
   (No teacher evidence yet.)
 - `global-issues/` — today's shared problems: population
   pressure, HIV/AIDS, climate, water, forests — and protecting
@@ -2581,7 +2581,7 @@ Plants and Animals.
 
 ## History expansion totals
 
-History lessons across the History titles: **542**
+History lessons across the History titles: **570**
 (248 before the expansion; +1 for Guyana, 2026-11-15 —
 Modern World: Guyana — our nation: independence and
 symbols. All 3 Guyana placements stand on Guyana's
@@ -3214,3 +3214,46 @@ record-only: 8 curriculum programmes, 6 pure
 Geography sequences, 6 Civics sequences (the
 fondements pair counted as its two records), 1
 Physics, 1 Mathematics and 1 French sequence.
+
++28 for Costa Rica, 2026-11-15 — Ancient World: The
+Inca — the Andean civilisation, Costa Rica's
+indigenous peoples before the Spanish, and Medieval
+cities, trade, universities and plague; Modern
+World: The Spanish conquest of America and Costa
+Rica, Colonial Costa Rica — institutions and daily
+life, Colonial Costa Rica — exploitation and
+heritage, Absolute monarchies and state formation,
+Latin American independence — ideas and processes,
+Costa Rica — building the nation-state, 1821–1848,
+Costa Rica — the coffee state and consolidation,
+1850–1890, Costa Rica — the coffee and banana
+agro-export model, Costa Rica — daily life in the
+late 19th century, Cold War social and political
+struggles, Cold War economic models, The end of
+'real socialism' and the Cold War, China in a
+multipolar world, Post-Cold War geopolitical
+tensions, Ethnic cleansing and human rights, Latin
+America in contemporary geopolitics, Costa Rica —
+the agro-export model in crisis, Costa Rica —
+democracy and social struggles, 1900–1948, Costa
+Rica — 1948: social reform and civil war, Costa
+Rica — import substitution, 1950–1980, Costa Rica
+— the welfare state, 1950–1980, Costa Rica — the
+electoral system after 1949, Costa Rica — the 1980s
+crisis and export promotion, Costa Rica — state and
+social movements since 1980, and Costa Rica — the
+women's suffrage struggle. All 60 Costa Rica
+placements stand on six student books (the CONED
+Antologías for Grades 7, 9, 10 and 11, UNED/CONED,
+and Estudios Sociales 11, Porras y Gamboa, 2018) and
+count normally — every stocked lesson's acceptance
+count rises by one and names Costa Rica. 24
+placements were stocked into 24 existing lessons.
+The Grade 8 CONED anthology (cr-coned-8) is
+RECORD-ONLY for History: the whole book is
+Geography, named in the placements file, not
+placed. The books' non-History parts (ecological
+footprint, transformed geographic space, population
+dynamics, globalisation) stay named in the
+placements file and in the stocked sources, not
+placed.
