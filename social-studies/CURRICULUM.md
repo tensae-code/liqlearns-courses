@@ -7273,8 +7273,10 @@ stocked there, not rebuilt. One slug
 flagged NEW in Book 1 and existing in Book 18; it does
 not stand, so it is built once as a new lesson and both
 placements stock there. Ninety-eight placements are
-remapped from 38 existing-flagged slugs that do not
-stand to the closest standing lesson covering the thing
+remapped from 37 existing-flagged slugs that do not
+stand (38 remap pairs — the fold/block slug splits by
+content between two lessons) to the closest standing
+lesson covering the thing
 (original slug recorded in each provenance row):
 culture-and-work/farming-crops-and-livestock ->
 culture-and-work/primary-activities-agriculture (6);
