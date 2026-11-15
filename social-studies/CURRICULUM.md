@@ -726,3 +726,46 @@ Ch. 1, printed p. 1). Record-only, not placed:
 *Micronesian Government: Yesterday, Today, and Tomorrow*
 (Grade 11 Civics textbook, 0 placements — filed for the
 Civics wave). Geography lessons: 575 → 579.
+## Geography expansion — Saudi Arabia — built 2026-11-14
+
+Saudi Arabia — 13 placements stocked from 1 book:
+*الدراسات الاجتماعية — الصف الرابع الابتدائي / Social Studies,
+Grade 4* (student book, Arabic, COMPLETE; 2 records / 1 distinct
+book; cover dated 1444 AH / 2023 CE, catalogue imprint 1446 AH,
+the record title says 1448 AH — year mismatch carried exactly
+as the placements state it; read from the TSV release asset —
+the books.json tree path does not exist in the repo tree,
+library debt named in every sources file). 9 stocked into
+standing lessons — **First Steps**: What Social Studies is
+(Unit 1 Lesson 1, printed p. 12; now taught in 2 countries,
+Ethiopia and Saudi Arabia); **The Land and Air**: What
+Geography is (Unit 3 Lesson 9, printed p. 64; now taught in
+2 countries), Two ways to say where a place is (Unit 3
+Lesson 10, printed p. 69; now taught in 3 countries, Ethiopia,
+Guyana and Saudi Arabia), What a map is (Unit 5 Lesson 21,
+printed p. 130; now taught in 2 countries); **Resources and
+Conflict**: People and environment — a two-way street
+(Unit 3 Lesson 12, printed p. 75; now taught in 2 countries);
+**Earth and Space**: Earth — place, shape and size (Unit 5
+Lesson 17, printed p. 114; now taught in 2 countries),
+Landforms, continents and oceans (Unit 5 Lesson 18, printed
+p. 117; now taught in 2 countries), Movements — rotation and
+revolution (Unit 5 Lesson 19, printed p. 123; now taught in
+2 countries); **Population, Transport and Maps**: Population
+distribution (Unit 7 Lesson 26, printed p. 166; now taught
+in 2 countries) — and 4 new lessons built (8 questions each)
+— in **The Land and Air**: Place — what makes a place
+(Unit 3 Lesson 11, printed p. 72) and The Arabian Peninsula
+— location and land (Unit 7 Lesson 25, printed p. 162 —
+location half only; the civilisation half is History, named
+in the sources, not placed); in **Population, Transport and
+Maps**: Movement — people, goods and ideas (Unit 3 Lesson 13,
+printed p. 79); in **Earth and Space**: The Moon and its
+phases (Unit 5 Lesson 20, printed p. 126). Non-Geography
+parts named, not placed: Unit 1 Citizenship (printed
+pp. 10–37 — Civics), Unit 2 History (pp. 38–61), Unit 4
+Economy (pp. 90–109), Unit 6 Responsible Citizenship
+(pp. 142–159 — Civics), Unit 7 Lesson 27 (p. 170 — religious),
+Lesson 28 (p. 174 — History), Unit 8 The Prophets
+(pp. 184–201) and Unit 9 The Prophet's Biography
+(pp. 202–227). Geography lessons: 579 → 583.

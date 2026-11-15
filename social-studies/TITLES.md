@@ -30,13 +30,15 @@ the one title at rising depth wherever a title spans both books
   works (the books' own way: geography →
   history → today, activity first).
 - `earth-and-space/` — the universe, the solar system, the
-  Earth: shape, size, movements, seasons, time.
+  Earth: shape, size, movements, seasons, time (including
+  the Moon and its phases).
 - `population-transport-and-maps/` — people on the Earth:
   distribution, movement, transport, and reading maps
   (including colouring Suriname's map and flag, Argentina's
   population today, thematic maps of Mercosur integration, a
   day on the border, Iceland's administrative districts and
-  voyaging and settling the Pacific islands).
+  voyaging and settling the Pacific islands, and movement
+  — people, goods and ideas).
 - `people-and-resources/` — settlement, natural resources,
   economic activities, and looking after the land (including
   quality of life — Argentina and Latin America compared,
@@ -56,7 +58,9 @@ the one title at rising depth wherever a title spans both books
   climate and agro-ecological regions, reading a district
   boundary map of Iceland, India — landscape and monsoon
   climate, hot-spot islands, how coral atolls form and high
-  islands and low islands of Micronesia).
+  islands and low islands of Micronesia, place — what
+  makes a place, and the Arabian Peninsula — location and
+  land).
 - `culture-and-work/` — culture, economic activities, trade,
   and tax (including agriculture in Zambia's agro-ecological
   regions, festivals of the world's religions, sacred texts,
@@ -80,7 +84,7 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **579**
+Geography lessons across the eight Geography titles: **583**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -111,4 +115,8 @@ Micronesia, 2026-11-14 — The Land and Air: Hot-spot islands
 — how volcanoes build islands, How coral atolls form —
 Darwin's subsidence story and High islands and low islands
 of Micronesia; Population, Transport and Maps: Voyaging and
-settling the Pacific islands).
+settling the Pacific islands; +4 for Saudi Arabia,
+2026-11-14 — The Land and Air: Place — what makes a place
+and The Arabian Peninsula — location and land; Population,
+Transport and Maps: Movement — people, goods and ideas;
+Earth and Space: The Moon and its phases).
