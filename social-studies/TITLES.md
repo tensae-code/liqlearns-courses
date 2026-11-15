@@ -33,9 +33,14 @@ the one title at rising depth wherever a title spans both books
   Earth: shape, size, movements, seasons, time.
 - `population-transport-and-maps/` — people on the Earth:
   distribution, movement, transport, and reading maps
-  (including colouring Suriname's map and flag).
+  (including colouring Suriname's map and flag, Argentina's
+  population today, thematic maps of Mercosur integration and
+  a day on the border).
 - `people-and-resources/` — settlement, natural resources,
-  economic activities, and looking after the land.
+  economic activities, and looking after the land (including
+  quality of life — Argentina and Latin America compared,
+  Mercosur economic integration, kinds of integration and the
+  South American gas pipeline database).
 - `ethiopia-ancient-and-medieval/` — Ethiopia from the earliest
   times through the medieval kingdoms and sultanates.
 - `africa-to-1500/` — Africa's peoples, states and trade to
@@ -64,7 +69,7 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **556**
+Geography lessons across the eight Geography titles: **563**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -72,4 +77,10 @@ village; Population, Transport and Maps: Colouring Suriname's
 map and flag; +3 for United Arab Emirates, 2026-11-14 — First
 Steps: Ibn Battuta — traveller and explorer; The Land and Air:
 The Emirates, my country — location and the emirates map and
-Desert wildlife of the UAE).
+Desert wildlife of the UAE; +7 for Argentina, 2026-11-14 —
+Population, Transport and Maps: Argentina's population today,
+Thematic maps of Mercosur integration and A day on the border;
+People and Resources: Quality of life — Argentina and Latin
+America compared, Mercosur — economic integration in Latin
+America, Kinds of integration — the Mercosur case and The
+South American gas pipeline — a Mercosur database).

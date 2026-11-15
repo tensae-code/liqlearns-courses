@@ -587,3 +587,28 @@ Emirates, my country — location and the emirates map (1
 placement, printed p. 56, 8 questions) and Desert wildlife of
 the UAE (1 placement, appendix reader, printed p. 97, 8
 questions). Geography lessons: 553 → 556.
+
+## Geography expansion — Argentina — built 2026-11-14
+
+Argentina — 8 placements stocked from *Cuadernos para el aula:
+Ciencias Sociales 6* (teacher guide, Spanish, COMPLETE; Grade 4
+record grade, Segundo Ciclo grades 4–6). All 8 placements are
+teacher-guide evidence, cited as the evidence they are, outside
+acceptance counts. 1 stocked into a standing lesson (Growth is
+not development — the HDI — Eje 1 proposal on teaching quality
+of life with statistics and graphs, printed p. 37; the lesson
+stays taught in 1 country, Ethiopia, with Argentina named as
+teacher-guide evidence only) and 7 new lessons built — in
+**Population, Transport and Maps**: Argentina's population
+today (1 placement, Eje 1, printed p. 35, 8 questions),
+Thematic maps of Mercosur integration (1 placement, Eje 1,
+printed p. 48, 8 questions) and A day on the border (1
+placement, Eje 3, printed p. 111, 8 questions); in **People and
+Resources**: Quality of life — Argentina and Latin America
+compared (1 placement, Eje 1, printed p. 40, 8 questions),
+Mercosur — economic integration in Latin America (1 placement,
+Eje 1, printed p. 43, 8 questions), Kinds of integration — the
+Mercosur case (1 placement, Eje 3, printed p. 108, 8 questions)
+and The South American gas pipeline — a Mercosur database (1
+placement, Eje 3, printed p. 118, 8 questions). Geography
+lessons: 556 → 563.
