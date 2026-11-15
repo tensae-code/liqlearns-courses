@@ -95,8 +95,10 @@ the one title at rising depth wherever a title spans both books
   (including Guyana — our nation: independence and symbols,
   Canada's whaling story: Inuit whaling — the traditional
   hunt, Whalers from across the sea, and Whaling today —
-  protecting the whales, and United Arab Emirates — the
-  union and Sheikh Zayed).
+  protecting the whales, United Arab Emirates — the
+  union and Sheikh Zayed, and Argentina — building the
+  state 1860–1916, the great immigration, and the
+  conquest of indigenous territories).
   (No teacher evidence yet.)
 - `global-issues/` — today's shared problems: population
   pressure, HIV/AIDS, climate, water, forests — and protecting
@@ -2501,7 +2503,7 @@ Plants and Animals.
 
 ## History expansion totals
 
-History lessons across the History titles: **254**
+History lessons across the History titles: **257**
 (248 before the expansion; +1 for Guyana, 2026-11-15 —
 Modern World: Guyana — our nation: independence and
 symbols. All 3 Guyana placements stand on Guyana's
@@ -2519,4 +2521,10 @@ First Steps heritage lesson, whose acceptance count
 does not change because the United Arab Emirates was
 already counted there. All 4 United Arab Emirates
 placements stand on the United Arab Emirates' student
-book, counted in acceptance.)
+book, counted in acceptance. +3 for Argentina,
+2026-11-15 — Modern World: Argentina — building the
+state, 1860–1916, Argentina — the great immigration,
+and Argentina — the conquest of indigenous territories,
+and who progress left out. All 6 Argentina placements
+stand on Argentina's teacher guide only, as evidence
+only, acceptance count 0 countries.)

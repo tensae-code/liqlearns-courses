@@ -8165,3 +8165,45 @@ years of travel to more than forty countries, the book
 of his travels and the title Prince of the Muslim
 Travellers (printed pp. 70–81). History
 lessons: 252 → 254.
+
+## History expansion — Argentina — built 2026-11-15
+
+3 new lessons, 24 questions, in **The Modern World**:
+Argentina — building the state, 1860–1916
+(modern-world/argentina-building-the-state-1860-1916),
+Argentina — the great immigration
+(modern-world/argentina-the-great-immigration) and
+Argentina — the conquest of indigenous territories,
+and who progress left out
+(modern-world/argentina-conquest-of-indigenous-territories)
+— 6 placements stocked from Argentina's *Cuadernos
+para el aula: Ciencias Sociales 6 — Núcleos de
+Aprendizajes Prioritarios (NAP), 2º ciclo EGB / nivel
+primario*, Grade 6 of the 2º ciclo (record says
+Grade 4 — the mismatch is named in each lesson's
+sources as a library debt), teacher guide in Spanish
+(Ministerio de Educación, Ciencia y Tecnología de la
+Nación, Buenos Aires, 2007, 1st ed., ISBN
+978-950-00-0629-3): thinking about the State — one
+national state built with army, laws, schools and
+railways (printed pp. 59–63); stories and images of a
+country changing fast — Buenos Aires and the pampas
+transformed in one generation (printed p. 64); the
+changes in Western Europe and the pull of land and
+work (printed pp. 69–74); the State's role and the
+1876 Immigration and Colonisation Law — by 1914
+nearly a third foreign-born, mostly Italy and Spain
+(printed pp. 74–80); the State and foreign investment
+— British and other foreign capital in the railways
+and meat-packing plants (printed p. 80); and the
+conquest of indigenous territories and "Progress"
+does not reach everyone — the army against the
+indigenous peoples of the south and the Chaco, and
+immigrant families crowded into conventillo
+tenements (printed pp. 84–100). The book's Geography
+(Axis 1, printed pp. 32–55) and Civics (Axis 3,
+printed pp. 104–129) parts are named in the lessons'
+sources, not placed here. All 6 placements stand on
+the teacher guide as evidence only — every lesson's
+acceptance count is 0 countries, counted nowhere.
+History lessons: 254 → 257.
