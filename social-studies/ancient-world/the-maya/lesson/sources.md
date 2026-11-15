@@ -1,6 +1,6 @@
 # Sources — The Maya
 
-countries: Ethiopia, Guatemala, Costa Rica, Ecuador, Egypt, Bolivia, Suriname, Cambodia, Colombia, South Sudan
+countries: Ethiopia, Guatemala, Costa Rica, Ecuador, Egypt, Bolivia, Suriname, Cambodia, Colombia, South Sudan, Mongolia
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -256,3 +256,26 @@ Searchable tags: Colombia, The Maya, ancient-world, History expansion 2026-11-15
 South Sudan's own way (Book 13 — P7 Social Studies Pupil's Book (student book, English)): World civilisation history arrives whole at P7 — Maya, Aztec and Rome rise and fall by the same internal/external test, and the unit ends by debating whether Roman civilisation contributed to South Sudan. That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 10 countries (Ethiopia, Guatemala, Costa Rica, Ecuador, Egypt, Bolivia, Suriname, Cambodia, Colombia, South Sudan).**
+
+
+## History expansion (2026-11-15) — Mongolia stocked
+
+**Book 3 — mn-g7h Түүх VII / History VII (student book, Mongolian)**
+- Title as printed: Түүх VII (History VII)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Culture, Science and Sports of Mongolia (authors Altanbagana A., Bayarmaa Kh., Gerelbadrakh J.; eds. Baasandorj Ts., Puntsagsüren D.); Ulaanbaatar, 2015 edition (2019 reprint cover); ISBN 978-99962-74-26-8
+- PDF pages: 162 flipbook page images = 150 printed pages (fetched from the recorded source econtent.edu.mn, id=299, which serves the book as flipbook page images; cover and colophon verified against the record title Түүх 7. Assembled into a PDF and STAGED at phase3-staging/grade-07/gov/mongolia/mongolia-grade-07-history.pdf — 97,642,546 bytes as assembled, differing from the books.json file_size_bytes of 11,622,936, which was the ministry PDF's size)
+- Verdict: COMPLETE
+- Tally: 36 placements — 11 to existing lessons, 25 NEW LESSON NEEDED
+- Mongolia's own way: the medieval millennium is organised around one hinge — the "Chinggis era". Everything before it (steppe aimags, Franks, Byzantium, Islam, Tang China) is "the world before Chinggis", and everything after is measured against the empire the Mongols built; the book opens by teaching the rival calendars (Hijri, Byzantine, the Mongolian lunar cycle, the Chinggis era) needed to date it all.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mongolia part — Ch. 3.8 The Maya state — story beats: across the ocean the Maya raise pyramid cities and calendars with no knowledge of Europe or Asia (History expansion, 2026-11-15; original placement slug: ancient-world/the-maya) | Mongolia, *mn-g7h Түүх VII (History VII)*, printed p. 51 |
+
+Mongolia's own way (Book 3 — mn-g7h Түүх VII (History VII)): the medieval millennium is organised around one hinge — the "Chinggis era". Everything before it (steppe aimags, Franks, Byzantium, Islam, Tang China) is "the world before Chinggis", and everything after is measured against the empire the Mongols built; the book opens by teaching the rival calendars (Hijri, Byzantine, the Mongolian lunar cycle, the Chinggis era) needed to date it all. That way is stocked here as the way Mongolia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 11 countries (Ethiopia, Guatemala, Costa Rica, Ecuador, Egypt, Bolivia, Suriname, Cambodia, Colombia, South Sudan, Mongolia).**
+
+Searchable tags: Mongolia, History expansion 2026-11-15, ancient-world/the-maya

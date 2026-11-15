@@ -1,6 +1,6 @@
 # Sources — What history is
 
-countries: Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya
+countries: Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -866,3 +866,90 @@ This book is a teacher guide. The Papua New Guinea rows below stand on it as tea
 Papua New Guinea's own way (Book 1 — G3 Social Science TG (teacher guide, English)): a combined Social Science course in five strands; History sits in its own strand "History and Origins" and starts from the child's own family — what history is, how the past is known, and where your own family came from, told through stories, chants and family trees. That way is stocked here as the way Papua New Guinea teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 34 countries (Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya) — unchanged; the Papua New Guinea placement(s) above are teacher-guide evidence only, counted nowhere. Papua New Guinea is not added to this lesson's countries line.**
+
+
+## History expansion (2026-11-15) — Mongolia stocked
+
+**Book 1 — mn-g8h Түүх VIII / History VIII (student book, Mongolian)**
+- Title as printed: Түүх VIII (History VIII)
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Culture, Science and Sports of Mongolia (authors Gantulga Ts. et al., ed. Tsolmon S.); Ulaanbaatar, 2015 edition (2019 reprint cover); ISBN 978-99962-74-33-6
+- PDF pages: 151 (148 printed pages; cover and colophon verified against the record title — read in place from phase3-staging; the staging file on disk is 71,145,045 bytes, a fresh Nov 15 download that differs from the books.json size_bytes of 73,344,242, but it is the same book by cover, colophon and contents)
+- Verdict: COMPLETE
+- Tally: 31 placements — 15 to existing lessons, 16 NEW LESSON NEEDED
+- Mongolia's own way: Mongolian and world history are taught as ONE interleaved story in alternating blocks — Mongolia first in each period, then the world — so pupils always meet their own khans, treaties and rebellions beside Europe's and Asia's; every topic is built from source extracts, timelines and "ask a question, pose a problem, hypothesise" boxes.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mongolia part — Opening section: how to study Mongolia and the world in the new era (15th–early 20th c.), with statesman A. Amar's call to know the national history — story beats: history has no body without its sources; pupils learn to rebuild the past from written records and to draw lessons from it for today's problems (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Mongolia, *mn-g8h Түүх VIII (History VIII)*, printed p. 5 |
+
+Mongolia's own way (Book 1 — mn-g8h Түүх VIII (History VIII)): Mongolian and world history are taught as ONE interleaved story in alternating blocks — Mongolia first in each period, then the world — so pupils always meet their own khans, treaties and rebellions beside Europe's and Asia's; every topic is built from source extracts, timelines and "ask a question, pose a problem, hypothesise" boxes. That way is stocked here as the way Mongolia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 2 — mn-g6h Түүх VI / History VI (student book, Mongolian)**
+- Title as printed: Түүх VI (History VI)
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Culture, Science and Sports of Mongolia; Ulaanbaatar, 2019 (colophon/ISBN not legible in the flipbook copy read; no ISBN recorded)
+- PDF pages: 87 (fetched from the recorded source econtent.edu.mn, id=286, which serves the book as flipbook page images; cover verified against the record title Түүх 6. Assembled into a PDF and STAGED at phase3-staging/grade-06/gov/mongolia/mongolia-grade-06-history.pdf — 60,479,522 bytes as assembled, differing from the books.json file_size_bytes of 15,170,400, which was the ministry PDF's size)
+- Verdict: COMPLETE
+- Tally: 17 placements — 11 to existing lessons, 6 NEW LESSON NEEDED
+- Mongolia's own way: the child's first history book opens with a detective story (Ötzi the Iceman) to teach what a source is, then runs the whole ancient world — stone age, first settlements, Egypt, India, China, Greece, Rome — always bending back to Mongolia: our nomad ancestors, their monuments, and the Xiongnu as the nomads' first state.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mongolia part — Ch. 1.1 "When, where, what?", opening story "The secret under the ice" — story beats: hikers find Ötzi in the Alps in 1991; scientists, working like detectives on his body, clothes and the arrowhead in his shoulder, rebuild a 5,200-year-old herdsman's last day — and the pupil learns to ask when, where and what happened (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Mongolia, *mn-g6h Түүх VI (History VI)*, printed p. 5 |
+
+Mongolia's own way (Book 2 — mn-g6h Түүх VI (History VI)): the child's first history book opens with a detective story (Ötzi the Iceman) to teach what a source is, then runs the whole ancient world — stone age, first settlements, Egypt, India, China, Greece, Rome — always bending back to Mongolia: our nomad ancestors, their monuments, and the Xiongnu as the nomads' first state. That way is stocked here as the way Mongolia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 4 — mn-g9h Түүх IX / History IX (student book, Mongolian)**
+- Title as printed: Түүх IX (History IX)
+- Grade: Grade 9 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Culture, Science and Sports of Mongolia (authors Tuya U. et al., ed. Pürev O.); Ulaanbaatar, 2015 edition (2019 reprint cover); ISBN 978-99962-74-42-8
+- PDF pages: 163 (160 printed pages; cover and colophon verified against the record title — read in place from phase3-staging; the staging file on disk is 102,251,931 bytes, a fresh Nov 15 download differing from the books.json size_bytes of 13,477,805, but it is the same book by cover, colophon and contents)
+- Verdict: COMPLETE
+- Tally: 32 placements — 6 to existing lessons, 26 NEW LESSON NEEDED
+- Mongolia's own way: modern history is one national arc in three acts — the restored state (1911–1924), socialist Mongolia (1924–1990) and democratic Mongolia (1990–today) — with world events (the World Wars, October, the Cold War, the UN) admitted exactly where they bend Mongolia's own road.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mongolia part — Ch. 1.2 What will we study in modern history? — story beats: the modern past leaves rich sources — photographs, film, newspapers, laws, memoirs — and the class sorts and classifies them before trusting any (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Mongolia, *mn-g9h Түүх IX (History IX)*, printed p. 9 |
+
+Mongolia's own way (Book 4 — mn-g9h Түүх IX (History IX)): modern history is one national arc in three acts — the restored state (1911–1924), socialist Mongolia (1924–1990) and democratic Mongolia (1990–today) — with world events (the World Wars, October, the Cold War, the UN) admitted exactly where they bend Mongolia's own road. That way is stocked here as the way Mongolia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 5 — mn-g10mh Монголын түүх X / History of Mongolia X (student book, Mongolian)**
+- Title as printed: Монголын түүх X (History of Mongolia X)
+- Grade: Grade 10 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Culture, Science and Sports of Mongolia (authors Gantulga Ts. et al., ed. Tserendorj Ts.); Ulaanbaatar, 2017 (2018 cover); ISBN 978-99978-61-26-9
+- PDF pages: 74 (72 printed pages; cover and colophon verified against the record title — the grade-10 TSV release copy and the books.json pushed record are this one book)
+- Verdict: COMPLETE
+- Tally: 16 placements — 4 to existing lessons, 12 NEW LESSON NEEDED
+- Mongolia's own way: the senior course re-reads the whole national past at a higher level — every chapter is built around a key question, a source to analyse and a "think historically" problem, and the story stops at the 17th century, leaving the modern age to Grade 11.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mongolia part — Introduction: Our past and present — story beats: the senior course opens by asking what the past is for — national history as the memory that lets a people know who they are and argue about who they should be (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Mongolia, *mn-g10mh Монголын түүх X (History of Mongolia X)*, printed p. 5 |
+
+Mongolia's own way (Book 5 — mn-g10mh Монголын түүх X (History of Mongolia X)): the senior course re-reads the whole national past at a higher level — every chapter is built around a key question, a source to analyse and a "think historically" problem, and the story stops at the 17th century, leaving the modern age to Grade 11. That way is stocked here as the way Mongolia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 6 — mn-g11mh Монголын түүх XI / History of Mongolia XI (student book, Mongolian)**
+- Title as printed: Монголын түүх XI (History of Mongolia XI)
+- Grade: Grade 11 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Culture, Science and Sports of Mongolia (author team led by Gantulga Ts.: Altanzaya L., Boldbaatar Ch., Myagmar P., Natsagdorj B., Erdenetulga Kh.; ed. Khishigt N.); Ulaanbaatar, 2019; ISBN 978-99978-61-41-2
+- PDF pages: 75 (72 printed pages; read in place from phase3-staging — the staging file is 59,397,666 bytes vs the books.json size_bytes of 55,662,677, same book verified by cover, colophon and back-cover ISBN. This edition prints no contents page; every topic heading was taken from the chapter sheets read page by page)
+- Verdict: COMPLETE
+- Tally: 28 placements — 1 to an existing lesson, 27 NEW LESSON NEEDED
+- Mongolia's own way: the final-year course tells the last 400 years as a single question — how a united empire's heirs lost independence piece by piece (1636, 1691, 1755), won it back twice (1911, 1921), built socialism under Soviet shadow, and chose democracy in 1990; every topic is argued from named primary sources, including the regime's own critics.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mongolia part — Introduction: Let us study our motherland's history with reverence — story beats: the final-year course (17th c. to today) opens on why the past matters — history as the ancestors' deeds and lessons, and every Mongol's duty to carry the story on (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Mongolia, *mn-g11mh Монголын түүх XI (History of Mongolia XI)*, printed p. 5 |
+
+Mongolia's own way (Book 6 — mn-g11mh Монголын түүх XI (History of Mongolia XI)): the final-year course tells the last 400 years as a single question — how a united empire's heirs lost independence piece by piece (1636, 1691, 1755), won it back twice (1911, 1921), built socialism under Soviet shadow, and chose democracy in 1990; every topic is argued from named primary sources, including the regime's own critics. That way is stocked here as the way Mongolia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 35 countries (Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia).**
+
+Searchable tags: Mongolia, History expansion 2026-11-15, first-steps/what-history-is

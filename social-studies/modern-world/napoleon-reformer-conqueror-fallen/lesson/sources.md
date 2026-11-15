@@ -1,6 +1,6 @@
 # Sources — Napoleon — reformer, conqueror, fallen
 
-countries: Ethiopia, Belarus, Montenegro, Pakistan, Palestine, Colombia
+countries: Ethiopia, Belarus, Montenegro, Pakistan, Palestine, Colombia, Mongolia
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under GEQIP-E, ISBN 978-99990-0-066-6. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -162,3 +162,26 @@ Colombia's own way (Secundaria Activa G8 (student book, Spanish)): Grade 8 Secun
 **Acceptance count: taught in 6 countries (Ethiopia, Belarus, Montenegro, Pakistan, Palestine, Colombia).**
 
 Searchable tags: Colombia, Napoleon — reformer, conqueror, fallen, modern-world, History expansion 2026-11-15
+
+
+## History expansion (2026-11-15) — Mongolia stocked
+
+**Book 1 — mn-g8h Түүх VIII / History VIII (student book, Mongolian)**
+- Title as printed: Түүх VIII (History VIII)
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Culture, Science and Sports of Mongolia (authors Gantulga Ts. et al., ed. Tsolmon S.); Ulaanbaatar, 2015 edition (2019 reprint cover); ISBN 978-99962-74-33-6
+- PDF pages: 151 (148 printed pages; cover and colophon verified against the record title — read in place from phase3-staging; the staging file on disk is 71,145,045 bytes, a fresh Nov 15 download that differs from the books.json size_bytes of 73,344,242, but it is the same book by cover, colophon and contents)
+- Verdict: COMPLETE
+- Tally: 31 placements — 15 to existing lessons, 16 NEW LESSON NEEDED
+- Mongolia's own way: Mongolian and world history are taught as ONE interleaved story in alternating blocks — Mongolia first in each period, then the world — so pupils always meet their own khans, treaties and rebellions beside Europe's and Asia's; every topic is built from source extracts, timelines and "ask a question, pose a problem, hypothesise" boxes.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mongolia part — Ch. II.4: Napoleon Bonaparte and the French Empire — story beats: the revolution's general crowns himself emperor, rewrites France's laws, conquers most of Europe — and falls (History expansion, 2026-11-15; original placement slug: modern-world/napoleon-reformer-conqueror-fallen) | Mongolia, *mn-g8h Түүх VIII (History VIII)*, printed p. 123 |
+
+Mongolia's own way (Book 1 — mn-g8h Түүх VIII (History VIII)): Mongolian and world history are taught as ONE interleaved story in alternating blocks — Mongolia first in each period, then the world — so pupils always meet their own khans, treaties and rebellions beside Europe's and Asia's; every topic is built from source extracts, timelines and "ask a question, pose a problem, hypothesise" boxes. That way is stocked here as the way Mongolia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 7 countries (Ethiopia, Belarus, Montenegro, Pakistan, Palestine, Colombia, Mongolia).**
+
+Searchable tags: Mongolia, History expansion 2026-11-15, modern-world/napoleon-reformer-conqueror-fallen

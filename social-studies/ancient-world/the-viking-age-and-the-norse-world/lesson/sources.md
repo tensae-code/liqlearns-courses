@@ -1,6 +1,6 @@
 # Sources — The Viking Age and the Norse world
 
-countries: Iceland, Pakistan
+countries: Iceland, Pakistan, Mongolia
 
 **Book (Iceland):** *Víkingaöld — Kennsluleiðbeiningar (Árin 800–1050)* (teacher guide, Icelandic) — Iceland. Title as printed: Víkingaöld — Kennsluleiðbeiningar (Árin 800–1050). Grade: Grade 5 (student/teacher: TEACHER). Publisher: Námsgagnastofnun, Kópavogur; year 2013 (1st edition, Sigrún Helgadóttir & Sigrún Björk Cortes); ISBN no ISBN printed. PDF pages: 49 (cover verified against the record title). Verdict: COMPLETE. Tally: 8 placements — 2 to existing lessons, 6 NEW LESSON NEEDED. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-history-2026-11-15/iceland-placements.md.
 
@@ -33,3 +33,26 @@ Pakistan's own way (History 7 (PCTB, SNC 2022), Grade 7 / Class 7 (student/teach
 **Acceptance count: taught in 1 country (Pakistan).** Iceland's placements above stand as teacher-guide evidence only, named here, counted nowhere — this lesson previously stood on teacher-guide evidence alone (acceptance 0); Pakistan's student book now stocks it and it counts 1.
 
 Searchable tags: Pakistan, The Viking Age and the Norse world, ancient-world, History expansion 2026-11-15
+
+
+## History expansion (2026-11-15) — Mongolia stocked
+
+**Book 3 — mn-g7h Түүх VII / History VII (student book, Mongolian)**
+- Title as printed: Түүх VII (History VII)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Culture, Science and Sports of Mongolia (authors Altanbagana A., Bayarmaa Kh., Gerelbadrakh J.; eds. Baasandorj Ts., Puntsagsüren D.); Ulaanbaatar, 2015 edition (2019 reprint cover); ISBN 978-99962-74-26-8
+- PDF pages: 162 flipbook page images = 150 printed pages (fetched from the recorded source econtent.edu.mn, id=299, which serves the book as flipbook page images; cover and colophon verified against the record title Түүх 7. Assembled into a PDF and STAGED at phase3-staging/grade-07/gov/mongolia/mongolia-grade-07-history.pdf — 97,642,546 bytes as assembled, differing from the books.json file_size_bytes of 11,622,936, which was the ministry PDF's size)
+- Verdict: COMPLETE
+- Tally: 36 placements — 11 to existing lessons, 25 NEW LESSON NEEDED
+- Mongolia's own way: the medieval millennium is organised around one hinge — the "Chinggis era". Everything before it (steppe aimags, Franks, Byzantium, Islam, Tang China) is "the world before Chinggis", and everything after is measured against the empire the Mongols built; the book opens by teaching the rival calendars (Hijri, Byzantine, the Mongolian lunar cycle, the Chinggis era) needed to date it all.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mongolia part — Ch. 3.5 The Vikings and the European states — story beats: Norse raiders and traders strike from Iceland to Constantinople, then settle and found states from Normandy to Rus' (History expansion, 2026-11-15; original placement slug: ancient-world/the-vikings-and-europe) | Mongolia, *mn-g7h Түүх VII (History VII)*, printed p. 38 |
+
+Mongolia's own way (Book 3 — mn-g7h Түүх VII (History VII)): the medieval millennium is organised around one hinge — the "Chinggis era". Everything before it (steppe aimags, Franks, Byzantium, Islam, Tang China) is "the world before Chinggis", and everything after is measured against the empire the Mongols built; the book opens by teaching the rival calendars (Hijri, Byzantine, the Mongolian lunar cycle, the Chinggis era) needed to date it all. That way is stocked here as the way Mongolia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 2 countries (Pakistan, Mongolia).** Iceland remains named in this lesson's countries line as teacher-guide evidence only, counted nowhere, as before this stocking.
+
+Searchable tags: Mongolia, History expansion 2026-11-15, ancient-world/the-viking-age-and-the-norse-world

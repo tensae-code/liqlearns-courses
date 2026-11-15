@@ -1,6 +1,6 @@
 # Sources — Exploration — Columbus, Vespucci and Magellan
 
-countries: Ethiopia, France, Guatemala, Micronesia, Ecuador, Bahamas, Kuwait, Montenegro, Dominican Republic, Egypt, Pakistan, Suriname, Colombia, Mauritania, South Sudan
+countries: Ethiopia, France, Guatemala, Micronesia, Ecuador, Bahamas, Kuwait, Montenegro, Dominican Republic, Egypt, Pakistan, Suriname, Colombia, Mauritania, South Sudan, Mongolia
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 124).
 
@@ -280,3 +280,26 @@ Mauritania's own way (mr-g08 — History, 2nd preparatory year (student book, Ar
 South Sudan's own way (Book 15 — P8 Social Studies Pupil's Book (student book, English)): Colonisation is taught through named African choices — Lewanika collaborates, Samori Touré resists for seven years — and through South Sudan's own split peoples (Anyuak, Ma'di, Acholi, Kakwa) when boundaries are drawn. That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 15 countries (Ethiopia, France, Guatemala, Micronesia, Ecuador, Bahamas, Kuwait, Montenegro, Dominican Republic, Egypt, Pakistan, Suriname, Colombia, Mauritania, South Sudan).**
+
+
+## History expansion (2026-11-15) — Mongolia stocked
+
+**Book 1 — mn-g8h Түүх VIII / History VIII (student book, Mongolian)**
+- Title as printed: Түүх VIII (History VIII)
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Culture, Science and Sports of Mongolia (authors Gantulga Ts. et al., ed. Tsolmon S.); Ulaanbaatar, 2015 edition (2019 reprint cover); ISBN 978-99962-74-33-6
+- PDF pages: 151 (148 printed pages; cover and colophon verified against the record title — read in place from phase3-staging; the staging file on disk is 71,145,045 bytes, a fresh Nov 15 download that differs from the books.json size_bytes of 73,344,242, but it is the same book by cover, colophon and contents)
+- Verdict: COMPLETE
+- Tally: 31 placements — 15 to existing lessons, 16 NEW LESSON NEEDED
+- Mongolia's own way: Mongolian and world history are taught as ONE interleaved story in alternating blocks — Mongolia first in each period, then the world — so pupils always meet their own khans, treaties and rebellions beside Europe's and Asia's; every topic is built from source extracts, timelines and "ask a question, pose a problem, hypothesise" boxes.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mongolia part — Part II, Ch. II.1: The great geographical discoveries and the beginning of colonialism — story beats: Columbus reaches America in 1492, Vasco da Gama rounds Africa to India in 1497–98, Magellan's ships circle the globe in 1519–22 — and the new sea roads become the first colonial empires (History expansion, 2026-11-15; original placement slug: modern-world/exploration-columbus-vespucci-and-magellan) | Mongolia, *mn-g8h Түүх VIII (History VIII)*, printed p. 40 |
+
+Mongolia's own way (Book 1 — mn-g8h Түүх VIII (History VIII)): Mongolian and world history are taught as ONE interleaved story in alternating blocks — Mongolia first in each period, then the world — so pupils always meet their own khans, treaties and rebellions beside Europe's and Asia's; every topic is built from source extracts, timelines and "ask a question, pose a problem, hypothesise" boxes. That way is stocked here as the way Mongolia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 16 countries (Ethiopia, France, Guatemala, Micronesia, Ecuador, Bahamas, Kuwait, Montenegro, Dominican Republic, Egypt, Pakistan, Suriname, Colombia, Mauritania, South Sudan, Mongolia).**
+
+Searchable tags: Mongolia, History expansion 2026-11-15, modern-world/exploration-columbus-vespucci-and-magellan

@@ -1,6 +1,6 @@
 # Sources — From stone tools to farming — the Neolithic Revolution
 
-countries: Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus, Fiji, Dominican Republic, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, South Sudan, Libya
+countries: Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus, Fiji, Dominican Republic, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, South Sudan, Libya, Mongolia
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -597,3 +597,60 @@ Libya's own way (Book 1 — G10 Ancient Arab World (student book, Arabic)): the 
 Libya's own way (Book 4 — G7 History of Libya and the Ancient World (student book, Arabic)): Libya's ancient story is told inside the Arab world's: the ancient Libyans, their 30-letter script and the Garamantes get their own full lessons, and every visiting power — Phoenician, Greek, Roman, Vandal, Byzantine — is judged by what it did in Libya. That way is stocked here as the way Libya teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 25 countries (Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus, Fiji, Dominican Republic, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, South Sudan, Libya).**
+
+
+## History expansion (2026-11-15) — Mongolia stocked
+
+**Book 2 — mn-g6h Түүх VI / History VI (student book, Mongolian)**
+- Title as printed: Түүх VI (History VI)
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Culture, Science and Sports of Mongolia; Ulaanbaatar, 2019 (colophon/ISBN not legible in the flipbook copy read; no ISBN recorded)
+- PDF pages: 87 (fetched from the recorded source econtent.edu.mn, id=286, which serves the book as flipbook page images; cover verified against the record title Түүх 6. Assembled into a PDF and STAGED at phase3-staging/grade-06/gov/mongolia/mongolia-grade-06-history.pdf — 60,479,522 bytes as assembled, differing from the books.json file_size_bytes of 15,170,400, which was the ministry PDF's size)
+- Verdict: COMPLETE
+- Tally: 17 placements — 11 to existing lessons, 6 NEW LESSON NEEDED
+- Mongolia's own way: the child's first history book opens with a detective story (Ötzi the Iceman) to teach what a source is, then runs the whole ancient world — stone age, first settlements, Egypt, India, China, Greece, Rome — always bending back to Mongolia: our nomad ancestors, their monuments, and the Xiongnu as the nomads' first state.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mongolia part — Ch. 2.1 Early humans: the foraging age — story beats: for almost three million years people live by hunting and gathering, chipping stone tools and taming fire, spreading slowly across the earth (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Mongolia, *mn-g6h Түүх VI (History VI)*, printed p. 11 |
+| Mongolia part — Ch. 2.2 How did early humans' economy change? — story beats: people learn to herd animals and sow grain; producers replace foragers, villages grow, and life can be stored against the winter (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Mongolia, *mn-g6h Түүх VI (History VI)*, printed p. 17 |
+
+Mongolia's own way (Book 2 — mn-g6h Түүх VI (History VI)): the child's first history book opens with a detective story (Ötzi the Iceman) to teach what a source is, then runs the whole ancient world — stone age, first settlements, Egypt, India, China, Greece, Rome — always bending back to Mongolia: our nomad ancestors, their monuments, and the Xiongnu as the nomads' first state. That way is stocked here as the way Mongolia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 5 — mn-g10mh Монголын түүх X / History of Mongolia X (student book, Mongolian)**
+- Title as printed: Монголын түүх X (History of Mongolia X)
+- Grade: Grade 10 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Culture, Science and Sports of Mongolia (authors Gantulga Ts. et al., ed. Tserendorj Ts.); Ulaanbaatar, 2017 (2018 cover); ISBN 978-99978-61-26-9
+- PDF pages: 74 (72 printed pages; cover and colophon verified against the record title — the grade-10 TSV release copy and the books.json pushed record are this one book)
+- Verdict: COMPLETE
+- Tally: 16 placements — 4 to existing lessons, 12 NEW LESSON NEEDED
+- Mongolia's own way: the senior course re-reads the whole national past at a higher level — every chapter is built around a key question, a source to analyse and a "think historically" problem, and the story stops at the 17th century, leaving the modern age to Grade 11.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mongolia part — Ch. 1.1 Palaeolithic and Mesolithic: the foraging economy — story beats: for most of 800,000 years Mongolia's first people hunt, gather and chip stone; their sites and tools are the only record (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Mongolia, *mn-g10mh Монголын түүх X (History of Mongolia X)*, printed p. 7 |
+| Mongolia part — Ch. 1.2 The Neolithic revolution: the producing economy — story beats: grinding stone, pottery and the first herding and sowing — people begin to produce food instead of only finding it (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Mongolia, *mn-g10mh Монголын түүх X (History of Mongolia X)*, printed p. 12 |
+
+Mongolia's own way (Book 5 — mn-g10mh Монголын түүх X (History of Mongolia X)): the senior course re-reads the whole national past at a higher level — every chapter is built around a key question, a source to analyse and a "think historically" problem, and the story stops at the 17th century, leaving the modern age to Grade 11. That way is stocked here as the way Mongolia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 11 — mn-g11ss Нийгэм судлал XI / Social Studies XI (student book, Mongolian) — COMBINED BOOK**
+- Title as printed: Нийгэм судлал XI (Social Studies XI)
+- Grade: Grade 11 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Culture, Science and Sports of Mongolia (authors Tömendelger S. et al., ed. Pürev O.); Ulaanbaatar, 2018 (2019 cover); ISBN 978-99978-61-85-6
+- PDF pages: 199 flipbook page images = 196 printed pages (read from the recorded source econtent.edu.mn, id=350, which serves the book as flipbook page images; cover and colophon verified against the record title. The books.json record says the book is pushed to GitHub, but the tree route for its file returns 404, so the read used the recorded source; nothing needed staging)
+- Verdict: COMPLETE
+- Tally: 2 placements — 2 to existing lessons, 0 NEW LESSON NEEDED
+- Non-History parts (named here, NOT placed): Ch. I's other topic, social stratification (printed pp. 6–28); Ch. II Culture — production, globalisation, identity, freedom (pp. 41–67); Ch. III Law (pp. 71–103); Ch. IV Economics (pp. 107–134); Ch. V Politics — civil society, elections, media, institutions (pp. 140–165); Ch. VI International relations — non-state actors, the "third neighbour" policy, soft power (pp. 168–191). History in this grade is carried by the separate Монголын түүх XI textbook (Book 6).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mongolia part — Topic 1.2 Social change: the kinds of society — story beats: Lenski's ladder of societies begins here — hunting-and-gathering bands with stone tools, then hoe-farming (horticultural) societies from about 4000 BC, then plough-and-city agrarian states, first in Egypt (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Mongolia, *mn-g11ss Нийгэм судлал XI (Social Studies XI)*, printed p. 29 |
+
+Mongolia's own way (Book 11 — mn-g11ss Нийгэм судлал XI (Social Studies XI)): this is a combined Social Studies book — only its History-scope parts are placed here; its other parts are named in the book entry above, not placed, and History in this grade is carried mainly by the separate History textbook. That way is stocked here as the way Mongolia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 26 countries (Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus, Fiji, Dominican Republic, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, South Sudan, Libya, Mongolia).**
+
+Searchable tags: Mongolia, History expansion 2026-11-15, africa-to-1500/from-stone-tools-to-farming

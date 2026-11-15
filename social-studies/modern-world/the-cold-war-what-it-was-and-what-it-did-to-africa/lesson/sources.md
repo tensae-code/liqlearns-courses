@@ -1,6 +1,6 @@
 # Sources — The Cold War — what it was and what it did to Africa
 
-countries: Ethiopia, Turkey, Costa Rica, Australia, Ecuador, Indonesia, Bolivia, Cambodia, Colombia, South Sudan
+countries: Ethiopia, Turkey, Costa Rica, Australia, Ecuador, Indonesia, Bolivia, Cambodia, Colombia, South Sudan, Mongolia
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 139).
 
@@ -245,3 +245,26 @@ This book is a teacher guide. The Papua New Guinea rows below stand on it as tea
 Papua New Guinea's own way (Book 10 — G11-12 History TG OBE (teacher guide, English)): the older OBE senior course is a leaner, story-first syllabus — Grade 11 runs PNG's Early History, Imperialism, WWI and WWII; Grade 12 runs Decolonisation and Independence, Our Changing World, and PNG as a Nation. The guide itself is mostly outcomes, assessment craft and suggested activities, so placements are taken from the unit structure (printed p. 12) and the detailed activity/assessment lists (pp. 24–35). The Grade 12 Extension unit (Current Events) is listed in the requirements table but given no activities in this guide. That way is stocked here as the way Papua New Guinea teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 10 countries (Ethiopia, Turkey, Costa Rica, Australia, Ecuador, Indonesia, Bolivia, Cambodia, Colombia, South Sudan) — unchanged; the Papua New Guinea placement(s) above are teacher-guide evidence only, counted nowhere. Papua New Guinea is not added to this lesson's countries line.**
+
+
+## History expansion (2026-11-15) — Mongolia stocked
+
+**Book 4 — mn-g9h Түүх IX / History IX (student book, Mongolian)**
+- Title as printed: Түүх IX (History IX)
+- Grade: Grade 9 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Culture, Science and Sports of Mongolia (authors Tuya U. et al., ed. Pürev O.); Ulaanbaatar, 2015 edition (2019 reprint cover); ISBN 978-99962-74-42-8
+- PDF pages: 163 (160 printed pages; cover and colophon verified against the record title — read in place from phase3-staging; the staging file on disk is 102,251,931 bytes, a fresh Nov 15 download differing from the books.json size_bytes of 13,477,805, but it is the same book by cover, colophon and contents)
+- Verdict: COMPLETE
+- Tally: 32 placements — 6 to existing lessons, 26 NEW LESSON NEEDED
+- Mongolia's own way: modern history is one national arc in three acts — the restored state (1911–1924), socialist Mongolia (1924–1990) and democratic Mongolia (1990–today) — with world events (the World Wars, October, the Cold War, the UN) admitted exactly where they bend Mongolia's own road.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mongolia part — Ch. 3.13 The Cold War, 1946–1991 — story beats: the world splits into two camps; Mongolia, sealed inside the socialist one, gains UN membership in 1961 but loses its western doors (History expansion, 2026-11-15; original placement slug: modern-world/the-cold-war-what-it-was-and-what-it-did-to-africa) | Mongolia, *mn-g9h Түүх IX (History IX)*, printed p. 119 |
+
+Mongolia's own way (Book 4 — mn-g9h Түүх IX (History IX)): modern history is one national arc in three acts — the restored state (1911–1924), socialist Mongolia (1924–1990) and democratic Mongolia (1990–today) — with world events (the World Wars, October, the Cold War, the UN) admitted exactly where they bend Mongolia's own road. That way is stocked here as the way Mongolia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 11 countries (Ethiopia, Turkey, Costa Rica, Australia, Ecuador, Indonesia, Bolivia, Cambodia, Colombia, South Sudan, Mongolia).**
+
+Searchable tags: Mongolia, History expansion 2026-11-15, modern-world/the-cold-war-what-it-was-and-what-it-did-to-africa

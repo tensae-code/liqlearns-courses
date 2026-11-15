@@ -1,6 +1,6 @@
 # Sources — Christianity — from persecuted sect to state religion
 
-countries: Ethiopia, Poland, Costa Rica, Ecuador, India, Montenegro, Colombia, Sri Lanka
+countries: Ethiopia, Poland, Costa Rica, Ecuador, India, Montenegro, Colombia, Sri Lanka, Mongolia
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -178,3 +178,26 @@ Sri Lanka's own way (Book 1 — G7 History Tamil 2011): world civilisations firs
 **Acceptance count: taught in 8 countries (Ethiopia, Poland, Costa Rica, Ecuador, India, Montenegro, Colombia, Sri Lanka).**
 
 Searchable tags: Sri Lanka, History expansion 2026-11-15, ancient-world/christianity-from-persecuted-sect-to-state-religion
+
+
+## History expansion (2026-11-15) — Mongolia stocked
+
+**Book 3 — mn-g7h Түүх VII / History VII (student book, Mongolian)**
+- Title as printed: Түүх VII (History VII)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Culture, Science and Sports of Mongolia (authors Altanbagana A., Bayarmaa Kh., Gerelbadrakh J.; eds. Baasandorj Ts., Puntsagsüren D.); Ulaanbaatar, 2015 edition (2019 reprint cover); ISBN 978-99962-74-26-8
+- PDF pages: 162 flipbook page images = 150 printed pages (fetched from the recorded source econtent.edu.mn, id=299, which serves the book as flipbook page images; cover and colophon verified against the record title Түүх 7. Assembled into a PDF and STAGED at phase3-staging/grade-07/gov/mongolia/mongolia-grade-07-history.pdf — 97,642,546 bytes as assembled, differing from the books.json file_size_bytes of 11,622,936, which was the ministry PDF's size)
+- Verdict: COMPLETE
+- Tally: 36 placements — 11 to existing lessons, 25 NEW LESSON NEEDED
+- Mongolia's own way: the medieval millennium is organised around one hinge — the "Chinggis era". Everything before it (steppe aimags, Franks, Byzantium, Islam, Tang China) is "the world before Chinggis", and everything after is measured against the empire the Mongols built; the book opens by teaching the rival calendars (Hijri, Byzantine, the Mongolian lunar cycle, the Chinggis era) needed to date it all.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mongolia part — Ch. 3.4 The Christian religion and culture — story beats: the Church becomes medieval Europe's one universal institution — monasteries keep learning, cathedrals rise, and faith frames every life (History expansion, 2026-11-15; original placement slug: ancient-world/christianity-from-persecuted-sect-to-state-religion) | Mongolia, *mn-g7h Түүх VII (History VII)*, printed p. 35 |
+
+Mongolia's own way (Book 3 — mn-g7h Түүх VII (History VII)): the medieval millennium is organised around one hinge — the "Chinggis era". Everything before it (steppe aimags, Franks, Byzantium, Islam, Tang China) is "the world before Chinggis", and everything after is measured against the empire the Mongols built; the book opens by teaching the rival calendars (Hijri, Byzantine, the Mongolian lunar cycle, the Chinggis era) needed to date it all. That way is stocked here as the way Mongolia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 9 countries (Ethiopia, Poland, Costa Rica, Ecuador, India, Montenegro, Colombia, Sri Lanka, Mongolia).**
+
+Searchable tags: Mongolia, History expansion 2026-11-15, ancient-world/christianity-from-persecuted-sect-to-state-religion

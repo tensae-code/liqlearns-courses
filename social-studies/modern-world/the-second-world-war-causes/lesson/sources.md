@@ -1,6 +1,6 @@
 # Sources — The Second World War — causes
 
-countries: Ethiopia, Turkey, Costa Rica, Australia, Malaysia, Nepal, Fiji, Montenegro, Dominican Republic, Cambodia, Colombia, Mauritania, South Sudan, Libya, Sri Lanka
+countries: Ethiopia, Turkey, Costa Rica, Australia, Malaysia, Nepal, Fiji, Montenegro, Dominican Republic, Cambodia, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 136).
 
@@ -318,3 +318,26 @@ Sri Lanka's own way (Book 7 — G11 History Tamil 1999): the old-syllabus Grade 
 **Acceptance count: taught in 15 countries (Ethiopia, Turkey, Costa Rica, Australia, Malaysia, Nepal, Fiji, Montenegro, Dominican Republic, Cambodia, Colombia, Mauritania, South Sudan, Libya, Sri Lanka).**
 
 Searchable tags: Sri Lanka, History expansion 2026-11-15, modern-world/the-second-world-war-causes
+
+
+## History expansion (2026-11-15) — Mongolia stocked
+
+**Book 4 — mn-g9h Түүх IX / History IX (student book, Mongolian)**
+- Title as printed: Түүх IX (History IX)
+- Grade: Grade 9 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Culture, Science and Sports of Mongolia (authors Tuya U. et al., ed. Pürev O.); Ulaanbaatar, 2015 edition (2019 reprint cover); ISBN 978-99962-74-42-8
+- PDF pages: 163 (160 printed pages; cover and colophon verified against the record title — read in place from phase3-staging; the staging file on disk is 102,251,931 bytes, a fresh Nov 15 download differing from the books.json size_bytes of 13,477,805, but it is the same book by cover, colophon and contents)
+- Verdict: COMPLETE
+- Tally: 32 placements — 6 to existing lessons, 26 NEW LESSON NEEDED
+- Mongolia's own way: modern history is one national arc in three acts — the restored state (1911–1924), socialist Mongolia (1924–1990) and democratic Mongolia (1990–today) — with world events (the World Wars, October, the Cold War, the UN) admitted exactly where they bend Mongolia's own road.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mongolia part — Ch. 3.11 The Second World War, 1939–1945 — story beats: fascism's rise, the war in Europe and Asia, and Khalkhin Gol on Mongolia's own border in 1939, where Mongol and Soviet troops defeat Japan (History expansion, 2026-11-15; original placement slug: modern-world/the-second-world-war-causes) | Mongolia, *mn-g9h Түүх IX (History IX)*, printed p. 108 |
+
+Mongolia's own way (Book 4 — mn-g9h Түүх IX (History IX)): modern history is one national arc in three acts — the restored state (1911–1924), socialist Mongolia (1924–1990) and democratic Mongolia (1990–today) — with world events (the World Wars, October, the Cold War, the UN) admitted exactly where they bend Mongolia's own road. That way is stocked here as the way Mongolia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 16 countries (Ethiopia, Turkey, Costa Rica, Australia, Malaysia, Nepal, Fiji, Montenegro, Dominican Republic, Cambodia, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia).**
+
+Searchable tags: Mongolia, History expansion 2026-11-15, modern-world/the-second-world-war-causes

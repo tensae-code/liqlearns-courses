@@ -1,6 +1,6 @@
 # Sources — Dating the past — calendars, timelines and periods
 
-countries: Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka
+countries: Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -1093,3 +1093,58 @@ Sri Lanka's own way (Book 10 — G12 History Ancient India and Pakistan Tamil 19
 **Acceptance count: taught in 29 countries (Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka).**
 
 Searchable tags: Sri Lanka, History expansion 2026-11-15, first-steps/dating-the-past
+
+
+## History expansion (2026-11-15) — Mongolia stocked
+
+**Book 1 — mn-g8h Түүх VIII / History VIII (student book, Mongolian)**
+- Title as printed: Түүх VIII (History VIII)
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Culture, Science and Sports of Mongolia (authors Gantulga Ts. et al., ed. Tsolmon S.); Ulaanbaatar, 2015 edition (2019 reprint cover); ISBN 978-99962-74-33-6
+- PDF pages: 151 (148 printed pages; cover and colophon verified against the record title — read in place from phase3-staging; the staging file on disk is 71,145,045 bytes, a fresh Nov 15 download that differs from the books.json size_bytes of 73,344,242, but it is the same book by cover, colophon and contents)
+- Verdict: COMPLETE
+- Tally: 31 placements — 15 to existing lessons, 16 NEW LESSON NEEDED
+- Mongolia's own way: Mongolian and world history are taught as ONE interleaved story in alternating blocks — Mongolia first in each period, then the world — so pupils always meet their own khans, treaties and rebellions beside Europe's and Asia's; every topic is built from source extracts, timelines and "ask a question, pose a problem, hypothesise" boxes.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mongolia part — Overview timeline spread: Mongolia and the world, 15th–early 20th c. — story beats: one timeline runs from five khans in twelve years (1388–1400) through Dayan Khan's enthronement, Ligdan Khan's fall, the Dolon Nor submission of 1691 and the Nerchinsk and Kyakhta treaties to the first Russian consulate and telegraph (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Mongolia, *mn-g8h Түүх VIII (History VIII)*, printed p. 8 |
+
+Mongolia's own way (Book 1 — mn-g8h Түүх VIII (History VIII)): Mongolian and world history are taught as ONE interleaved story in alternating blocks — Mongolia first in each period, then the world — so pupils always meet their own khans, treaties and rebellions beside Europe's and Asia's; every topic is built from source extracts, timelines and "ask a question, pose a problem, hypothesise" boxes. That way is stocked here as the way Mongolia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 3 — mn-g7h Түүх VII / History VII (student book, Mongolian)**
+- Title as printed: Түүх VII (History VII)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Culture, Science and Sports of Mongolia (authors Altanbagana A., Bayarmaa Kh., Gerelbadrakh J.; eds. Baasandorj Ts., Puntsagsüren D.); Ulaanbaatar, 2015 edition (2019 reprint cover); ISBN 978-99962-74-26-8
+- PDF pages: 162 flipbook page images = 150 printed pages (fetched from the recorded source econtent.edu.mn, id=299, which serves the book as flipbook page images; cover and colophon verified against the record title Түүх 7. Assembled into a PDF and STAGED at phase3-staging/grade-07/gov/mongolia/mongolia-grade-07-history.pdf — 97,642,546 bytes as assembled, differing from the books.json file_size_bytes of 11,622,936, which was the ministry PDF's size)
+- Verdict: COMPLETE
+- Tally: 36 placements — 11 to existing lessons, 25 NEW LESSON NEEDED
+- Mongolia's own way: the medieval millennium is organised around one hinge — the "Chinggis era". Everything before it (steppe aimags, Franks, Byzantium, Islam, Tang China) is "the world before Chinggis", and everything after is measured against the empire the Mongols built; the book opens by teaching the rival calendars (Hijri, Byzantine, the Mongolian lunar cycle, the Chinggis era) needed to date it all.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mongolia part — Ch. 1.1 What will we study in medieval history? — story beats: the Middle Ages run from Rome's fall in 476 to the 15th c.; pupils convert years to centuries and meet the eras peoples dated by — creation (5508 BC), the Hijra (622), the Mongolian lunar count (from 1027) and Chinggis's birth (1162) (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Mongolia, *mn-g7h Түүх VII (History VII)*, printed p. 5 |
+
+Mongolia's own way (Book 3 — mn-g7h Түүх VII (History VII)): the medieval millennium is organised around one hinge — the "Chinggis era". Everything before it (steppe aimags, Franks, Byzantium, Islam, Tang China) is "the world before Chinggis", and everything after is measured against the empire the Mongols built; the book opens by teaching the rival calendars (Hijri, Byzantine, the Mongolian lunar cycle, the Chinggis era) needed to date it all. That way is stocked here as the way Mongolia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 4 — mn-g9h Түүх IX / History IX (student book, Mongolian)**
+- Title as printed: Түүх IX (History IX)
+- Grade: Grade 9 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Culture, Science and Sports of Mongolia (authors Tuya U. et al., ed. Pürev O.); Ulaanbaatar, 2015 edition (2019 reprint cover); ISBN 978-99962-74-42-8
+- PDF pages: 163 (160 printed pages; cover and colophon verified against the record title — read in place from phase3-staging; the staging file on disk is 102,251,931 bytes, a fresh Nov 15 download differing from the books.json size_bytes of 13,477,805, but it is the same book by cover, colophon and contents)
+- Verdict: COMPLETE
+- Tally: 32 placements — 6 to existing lessons, 26 NEW LESSON NEEDED
+- Mongolia's own way: modern history is one national arc in three acts — the restored state (1911–1924), socialist Mongolia (1924–1990) and democratic Mongolia (1990–today) — with world events (the World Wars, October, the Cold War, the UN) admitted exactly where they bend Mongolia's own road.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mongolia part — Ch. 1.1 How to study modern Mongolian history — story beats: pupils build the period timeline themselves — modern Mongolian history begins in 1911 and falls into three periods (1911–1924, 1924–1990, 1990–today) whose boundaries they must justify (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Mongolia, *mn-g9h Түүх IX (History IX)*, printed p. 5 |
+
+Mongolia's own way (Book 4 — mn-g9h Түүх IX (History IX)): modern history is one national arc in three acts — the restored state (1911–1924), socialist Mongolia (1924–1990) and democratic Mongolia (1990–today) — with world events (the World Wars, October, the Cold War, the UN) admitted exactly where they bend Mongolia's own road. That way is stocked here as the way Mongolia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 30 countries (Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia).**
+
+Searchable tags: Mongolia, History expansion 2026-11-15, first-steps/dating-the-past

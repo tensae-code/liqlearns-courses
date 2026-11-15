@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — Greece: Crete
 
-countries: Ethiopia, France, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro, Dominican Republic, Egypt, Bolivia, Iran, Cambodia, Colombia, Mauritania, Libya, Sri Lanka
+countries: Ethiopia, France, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro, Dominican Republic, Egypt, Bolivia, Iran, Cambodia, Colombia, Mauritania, Libya, Sri Lanka, Mongolia
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 6, placements 92–106).
 
@@ -406,3 +406,26 @@ Sri Lanka's own way (Book 1 — G7 History Tamil 2011): world civilisations firs
 **Acceptance count: taught in 19 countries (Ethiopia, France, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro, Dominican Republic, Egypt, Bolivia, Iran, Cambodia, Colombia, Mauritania, Libya, Sri Lanka).**
 
 Searchable tags: Sri Lanka, History expansion 2026-11-15, ancient-world/ancient-civilisations-greece-crete
+
+
+## History expansion (2026-11-15) — Mongolia stocked
+
+**Book 2 — mn-g6h Түүх VI / History VI (student book, Mongolian)**
+- Title as printed: Түүх VI (History VI)
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Culture, Science and Sports of Mongolia; Ulaanbaatar, 2019 (colophon/ISBN not legible in the flipbook copy read; no ISBN recorded)
+- PDF pages: 87 (fetched from the recorded source econtent.edu.mn, id=286, which serves the book as flipbook page images; cover verified against the record title Түүх 6. Assembled into a PDF and STAGED at phase3-staging/grade-06/gov/mongolia/mongolia-grade-06-history.pdf — 60,479,522 bytes as assembled, differing from the books.json file_size_bytes of 15,170,400, which was the ministry PDF's size)
+- Verdict: COMPLETE
+- Tally: 17 placements — 11 to existing lessons, 6 NEW LESSON NEEDED
+- Mongolia's own way: the child's first history book opens with a detective story (Ötzi the Iceman) to teach what a source is, then runs the whole ancient world — stone age, first settlements, Egypt, India, China, Greece, Rome — always bending back to Mongolia: our nomad ancestors, their monuments, and the Xiongnu as the nomads' first state.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mongolia part — Ch. 4.3 Ancient Greek civilisation — story beats: Greek city-states trade, colonise and argue their way to democracy and philosophy on the Aegean's shores (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-greece-crete) | Mongolia, *mn-g6h Түүх VI (History VI)*, printed p. 59 |
+
+Mongolia's own way (Book 2 — mn-g6h Түүх VI (History VI)): the child's first history book opens with a detective story (Ötzi the Iceman) to teach what a source is, then runs the whole ancient world — stone age, first settlements, Egypt, India, China, Greece, Rome — always bending back to Mongolia: our nomad ancestors, their monuments, and the Xiongnu as the nomads' first state. That way is stocked here as the way Mongolia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 20 countries (Ethiopia, France, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro, Dominican Republic, Egypt, Bolivia, Iran, Cambodia, Colombia, Mauritania, Libya, Sri Lanka, Mongolia).**
+
+Searchable tags: Mongolia, History expansion 2026-11-15, ancient-world/ancient-civilisations-greece-crete

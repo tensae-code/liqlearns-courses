@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — Mesopotamia
 
-countries: Ethiopia, Poland, Turkey, Bangladesh, Costa Rica, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Iran, Cambodia, Palestine, Colombia, Mauritania, Libya, Sri Lanka
+countries: Ethiopia, Poland, Turkey, Bangladesh, Costa Rica, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Iran, Cambodia, Palestine, Colombia, Mauritania, Libya, Sri Lanka, Mongolia
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -460,3 +460,26 @@ Sri Lanka's own way (Book 1 — G7 History Tamil 2011): world civilisations firs
 **Acceptance count: taught in 19 countries (Ethiopia, Poland, Turkey, Bangladesh, Costa Rica, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Iran, Cambodia, Palestine, Colombia, Mauritania, Libya, Sri Lanka).**
 
 Searchable tags: Sri Lanka, History expansion 2026-11-15, ancient-world/ancient-civilisations-mesopotamia
+
+
+## History expansion (2026-11-15) — Mongolia stocked
+
+**Book 2 — mn-g6h Түүх VI / History VI (student book, Mongolian)**
+- Title as printed: Түүх VI (History VI)
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Culture, Science and Sports of Mongolia; Ulaanbaatar, 2019 (colophon/ISBN not legible in the flipbook copy read; no ISBN recorded)
+- PDF pages: 87 (fetched from the recorded source econtent.edu.mn, id=286, which serves the book as flipbook page images; cover verified against the record title Түүх 6. Assembled into a PDF and STAGED at phase3-staging/grade-06/gov/mongolia/mongolia-grade-06-history.pdf — 60,479,522 bytes as assembled, differing from the books.json file_size_bytes of 15,170,400, which was the ministry PDF's size)
+- Verdict: COMPLETE
+- Tally: 17 placements — 11 to existing lessons, 6 NEW LESSON NEEDED
+- Mongolia's own way: the child's first history book opens with a detective story (Ötzi the Iceman) to teach what a source is, then runs the whole ancient world — stone age, first settlements, Egypt, India, China, Greece, Rome — always bending back to Mongolia: our nomad ancestors, their monuments, and the Xiongnu as the nomads' first state.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mongolia part — Ch. 4.1 The land of the two rivers (Mesopotamia) — story beats: between Tigris and Euphrates rise Sumer's cities, Sargon's empire, Hammurabi's laws and the ziggurats (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-mesopotamia) | Mongolia, *mn-g6h Түүх VI (History VI)*, printed p. 42 |
+
+Mongolia's own way (Book 2 — mn-g6h Түүх VI (History VI)): the child's first history book opens with a detective story (Ötzi the Iceman) to teach what a source is, then runs the whole ancient world — stone age, first settlements, Egypt, India, China, Greece, Rome — always bending back to Mongolia: our nomad ancestors, their monuments, and the Xiongnu as the nomads' first state. That way is stocked here as the way Mongolia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 20 countries (Ethiopia, Poland, Turkey, Bangladesh, Costa Rica, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Iran, Cambodia, Palestine, Colombia, Mauritania, Libya, Sri Lanka, Mongolia).**
+
+Searchable tags: Mongolia, History expansion 2026-11-15, ancient-world/ancient-civilisations-mesopotamia

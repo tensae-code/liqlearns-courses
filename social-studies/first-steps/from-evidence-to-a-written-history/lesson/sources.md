@@ -1,6 +1,6 @@
 # Sources — From evidence to a written history
 
-countries: Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Bulgaria, Palestine, Colombia, South Sudan
+countries: Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Bulgaria, Palestine, Colombia, South Sudan, Mongolia
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -1273,3 +1273,42 @@ This book is a teacher guide. The Papua New Guinea rows below stand on it as tea
 Papua New Guinea's own way (Book 11 — G12 History TG SBC (teacher guide, English)): Grade 12 turns the 7-unit architecture into critical history — sources and how religions spread, why empires fell, Christianity's reshaping of cultures, the UN and the SDGs judged, PNG's own constitutional National Goals, exploitation of Papua New Guineans, the disasters that remade PNG towns (Rabaul 1994), and a final inquiry unit on media, ideology and the powerful individuals — Gaddafi the worked example — who bend societies. That way is stocked here as the way Papua New Guinea teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 29 countries (Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Bulgaria, Palestine, Colombia, South Sudan) — unchanged; the Papua New Guinea placement(s) above are teacher-guide evidence only, counted nowhere. Papua New Guinea is not added to this lesson's countries line.**
+
+
+## History expansion (2026-11-15) — Mongolia stocked
+
+**Book 2 — mn-g6h Түүх VI / History VI (student book, Mongolian)**
+- Title as printed: Түүх VI (History VI)
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Culture, Science and Sports of Mongolia; Ulaanbaatar, 2019 (colophon/ISBN not legible in the flipbook copy read; no ISBN recorded)
+- PDF pages: 87 (fetched from the recorded source econtent.edu.mn, id=286, which serves the book as flipbook page images; cover verified against the record title Түүх 6. Assembled into a PDF and STAGED at phase3-staging/grade-06/gov/mongolia/mongolia-grade-06-history.pdf — 60,479,522 bytes as assembled, differing from the books.json file_size_bytes of 15,170,400, which was the ministry PDF's size)
+- Verdict: COMPLETE
+- Tally: 17 placements — 11 to existing lessons, 6 NEW LESSON NEEDED
+- Mongolia's own way: the child's first history book opens with a detective story (Ötzi the Iceman) to teach what a source is, then runs the whole ancient world — stone age, first settlements, Egypt, India, China, Greece, Rome — always bending back to Mongolia: our nomad ancestors, their monuments, and the Xiongnu as the nomads' first state.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mongolia part — Ch. 1.2 "How do we know history?" — story beats: the past speaks only through what it leaves behind — tools, bones, ruins, writing — and the historian's craft is to question each trace before trusting it (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Mongolia, *mn-g6h Түүх VI (History VI)*, printed p. 8 |
+
+Mongolia's own way (Book 2 — mn-g6h Түүх VI (History VI)): the child's first history book opens with a detective story (Ötzi the Iceman) to teach what a source is, then runs the whole ancient world — stone age, first settlements, Egypt, India, China, Greece, Rome — always bending back to Mongolia: our nomad ancestors, their monuments, and the Xiongnu as the nomads' first state. That way is stocked here as the way Mongolia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 3 — mn-g7h Түүх VII / History VII (student book, Mongolian)**
+- Title as printed: Түүх VII (History VII)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Culture, Science and Sports of Mongolia (authors Altanbagana A., Bayarmaa Kh., Gerelbadrakh J.; eds. Baasandorj Ts., Puntsagsüren D.); Ulaanbaatar, 2015 edition (2019 reprint cover); ISBN 978-99962-74-26-8
+- PDF pages: 162 flipbook page images = 150 printed pages (fetched from the recorded source econtent.edu.mn, id=299, which serves the book as flipbook page images; cover and colophon verified against the record title Түүх 7. Assembled into a PDF and STAGED at phase3-staging/grade-07/gov/mongolia/mongolia-grade-07-history.pdf — 97,642,546 bytes as assembled, differing from the books.json file_size_bytes of 11,622,936, which was the ministry PDF's size)
+- Verdict: COMPLETE
+- Tally: 36 placements — 11 to existing lessons, 25 NEW LESSON NEEDED
+- Mongolia's own way: the medieval millennium is organised around one hinge — the "Chinggis era". Everything before it (steppe aimags, Franks, Byzantium, Islam, Tang China) is "the world before Chinggis", and everything after is measured against the empire the Mongols built; the book opens by teaching the rival calendars (Hijri, Byzantine, the Mongolian lunar cycle, the Chinggis era) needed to date it all.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mongolia part — Ch. 1.2 How do we study medieval history? — story beats: castles, coins, contracts and chronicles are the medieval world's leavings; a worked example reads the Secret History's verse and Guillaume de Rubruck's silver-tree fountain at Karakorum as evidence (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Mongolia, *mn-g7h Түүх VII (History VII)*, printed p. 8 |
+
+Mongolia's own way (Book 3 — mn-g7h Түүх VII (History VII)): the medieval millennium is organised around one hinge — the "Chinggis era". Everything before it (steppe aimags, Franks, Byzantium, Islam, Tang China) is "the world before Chinggis", and everything after is measured against the empire the Mongols built; the book opens by teaching the rival calendars (Hijri, Byzantine, the Mongolian lunar cycle, the Chinggis era) needed to date it all. That way is stocked here as the way Mongolia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 30 countries (Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Bulgaria, Palestine, Colombia, South Sudan, Mongolia).**
+
+Searchable tags: Mongolia, History expansion 2026-11-15, first-steps/from-evidence-to-a-written-history

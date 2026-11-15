@@ -1189,3 +1189,109 @@ This book is a teacher guide. The Papua New Guinea rows below stand on it as tea
 Papua New Guinea's own way (Book 10 — G11-12 History TG OBE (teacher guide, English)): the older OBE senior course is a leaner, story-first syllabus — Grade 11 runs PNG's Early History, Imperialism, WWI and WWII; Grade 12 runs Decolonisation and Independence, Our Changing World, and PNG as a Nation. The guide itself is mostly outcomes, assessment craft and suggested activities, so placements are taken from the unit structure (printed p. 12) and the detailed activity/assessment lists (pp. 24–35). The Grade 12 Extension unit (Current Events) is listed in the requirements table but given no activities in this guide. That way is stocked here as the way Papua New Guinea teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 36 countries (Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivia, Zimbabwe, Eritrea, Cambodia, Fiji, Slovenia, Syria, Mauritania, Jordan, Bhutan, Cuba, Greece, Nauru, Niue, Tuvalu, Saudi Arabia, Rwanda, Poland, Guatemala, Australia, Bahamas, Nepal, Belarus, Dominican Republic, Egypt, Pakistan, Iran, Suriname, Palestine, Colombia, South Sudan) — unchanged; the Papua New Guinea placement(s) above are teacher-guide evidence only, counted nowhere. Papua New Guinea is not added to this lesson's countries line.**
+
+
+## History expansion (2026-11-15) — Mongolia stocked
+
+**Book 1 — mn-g8h Түүх VIII / History VIII (student book, Mongolian)**
+- Title as printed: Түүх VIII (History VIII)
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Culture, Science and Sports of Mongolia (authors Gantulga Ts. et al., ed. Tsolmon S.); Ulaanbaatar, 2015 edition (2019 reprint cover); ISBN 978-99962-74-33-6
+- PDF pages: 151 (148 printed pages; cover and colophon verified against the record title — read in place from phase3-staging; the staging file on disk is 71,145,045 bytes, a fresh Nov 15 download that differs from the books.json size_bytes of 73,344,242, but it is the same book by cover, colophon and contents)
+- Verdict: COMPLETE
+- Tally: 31 placements — 15 to existing lessons, 16 NEW LESSON NEEDED
+- Mongolia's own way: Mongolian and world history are taught as ONE interleaved story in alternating blocks — Mongolia first in each period, then the world — so pupils always meet their own khans, treaties and rebellions beside Europe's and Asia's; every topic is built from source extracts, timelines and "ask a question, pose a problem, hypothesise" boxes.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mongolia part — Ch. II.8: Life and culture of the world's peoples in the 15th–18th c. — story beats: houses, dress, food and festivals on four continents show how ordinary people lived through the centuries of discovery and empire (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Mongolia, *mn-g8h Түүх VIII (History VIII)*, printed p. 71 |
+| Mongolia part — Ch. II.7: Life and culture of Western countries in the 18th–early 20th c. — story beats: factory towns, railways, schools and newspapers change how Western families live, dress, read and celebrate (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Mongolia, *mn-g8h Түүх VIII (History VIII)*, printed p. 139 |
+| Mongolia part — Ch. II.8: Life and culture of Eastern countries in the 18th–early 20th c. — story beats: from Istanbul to Edo, Eastern peoples keep their own dress, crafts and festivals while new goods and ideas arrive (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Mongolia, *mn-g8h Түүх VIII (History VIII)*, printed p. 143 |
+
+Mongolia's own way (Book 1 — mn-g8h Түүх VIII (History VIII)): Mongolian and world history are taught as ONE interleaved story in alternating blocks — Mongolia first in each period, then the world — so pupils always meet their own khans, treaties and rebellions beside Europe's and Asia's; every topic is built from source extracts, timelines and "ask a question, pose a problem, hypothesise" boxes. That way is stocked here as the way Mongolia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 2 — mn-g6h Түүх VI / History VI (student book, Mongolian)**
+- Title as printed: Түүх VI (History VI)
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Culture, Science and Sports of Mongolia; Ulaanbaatar, 2019 (colophon/ISBN not legible in the flipbook copy read; no ISBN recorded)
+- PDF pages: 87 (fetched from the recorded source econtent.edu.mn, id=286, which serves the book as flipbook page images; cover verified against the record title Түүх 6. Assembled into a PDF and STAGED at phase3-staging/grade-06/gov/mongolia/mongolia-grade-06-history.pdf — 60,479,522 bytes as assembled, differing from the books.json file_size_bytes of 15,170,400, which was the ministry PDF's size)
+- Verdict: COMPLETE
+- Tally: 17 placements — 11 to existing lessons, 6 NEW LESSON NEEDED
+- Mongolia's own way: the child's first history book opens with a detective story (Ötzi the Iceman) to teach what a source is, then runs the whole ancient world — stone age, first settlements, Egypt, India, China, Greece, Rome — always bending back to Mongolia: our nomad ancestors, their monuments, and the Xiongnu as the nomads' first state.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mongolia part — Ch. 3.4 Monuments of the ancient nomads in Mongolia — story beats: deer stones, khirigsuurs and rock carvings still stand on the steppe; the pupil learns to read them as the nomads' own records (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Mongolia, *mn-g6h Түүх VI (History VI)*, printed p. 37 |
+
+Mongolia's own way (Book 2 — mn-g6h Түүх VI (History VI)): the child's first history book opens with a detective story (Ötzi the Iceman) to teach what a source is, then runs the whole ancient world — stone age, first settlements, Egypt, India, China, Greece, Rome — always bending back to Mongolia: our nomad ancestors, their monuments, and the Xiongnu as the nomads' first state. That way is stocked here as the way Mongolia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 5 — mn-g10mh Монголын түүх X / History of Mongolia X (student book, Mongolian)**
+- Title as printed: Монголын түүх X (History of Mongolia X)
+- Grade: Grade 10 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Culture, Science and Sports of Mongolia (authors Gantulga Ts. et al., ed. Tserendorj Ts.); Ulaanbaatar, 2017 (2018 cover); ISBN 978-99978-61-26-9
+- PDF pages: 74 (72 printed pages; cover and colophon verified against the record title — the grade-10 TSV release copy and the books.json pushed record are this one book)
+- Verdict: COMPLETE
+- Tally: 16 placements — 4 to existing lessons, 12 NEW LESSON NEEDED
+- Mongolia's own way: the senior course re-reads the whole national past at a higher level — every chapter is built around a key question, a source to analyse and a "think historically" problem, and the story stops at the 17th century, leaving the modern age to Grade 11.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mongolia part — Ch. 2.4 The ancient states' culture — story beats: Turkic runic stelae, Uyghur cities, Nestorian and Buddhist traces — the steppe states wrote, built and believed, and their monuments are Mongolia's heritage (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Mongolia, *mn-g10mh Монголын түүх X (History of Mongolia X)*, printed p. 28 |
+
+Mongolia's own way (Book 5 — mn-g10mh Монголын түүх X (History of Mongolia X)): the senior course re-reads the whole national past at a higher level — every chapter is built around a key question, a source to analyse and a "think historically" problem, and the story stops at the 17th century, leaving the modern age to Grade 11. That way is stocked here as the way Mongolia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 8 — mn-g8ss Нийгэм судлал VIII / Social Studies VIII (student book, Mongolian) — COMBINED BOOK**
+- Title as printed: Нийгэм судлал VIII (Social Studies VIII)
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Culture, Science and Sports of Mongolia (authors Altangerel Ch., Byambajav D., Myagmartsooj N., Enkhtuya B., Bulgan-Erdene E.); Ulaanbaatar, 2019, 2nd edition; no ISBN printed
+- PDF pages: 99 (94 printed pages + covers; cover and title page verified against the record title — the grade-08 TSV release copy and the books.json pushed record are this one book)
+- Verdict: COMPLETE
+- Tally: 3 placements — 2 to existing lessons, 1 NEW LESSON NEEDED
+- Non-History parts (named here, NOT placed): Ch. I The individual and society — our local environment (printed pp. 6–22); Ch. II's remaining topics, culture as norm and how culture changes (pp. 30–39); Ch. III The individual and the economy (pp. 43–59); Ch. IV's remaining topics, rights principles, equality and protecting rights (pp. 66–79); Ch. V Local governance (pp. 82–94). History in this grade is carried by the separate Түүх VIII textbook (Book 1).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mongolia part — Ch. 2.1 We are proud of our homeland's heritage culture — story beats: culture is sorted from personal to all-human, and the homeland's share — language, customs, songs, monuments and history itself — is the inheritance each generation must hand on (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Mongolia, *mn-g8ss Нийгэм судлал VIII (Social Studies VIII)*, printed p. 25 |
+
+Mongolia's own way (Book 8 — mn-g8ss Нийгэм судлал VIII (Social Studies VIII)): this is a combined Social Studies book — only its History-scope parts are placed here; its other parts are named in the book entry above, not placed, and History in this grade is carried mainly by the separate History textbook. That way is stocked here as the way Mongolia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 9 — mn-g9ss Нийгэм судлал IX / Social Studies IX (student book, Mongolian) — COMBINED BOOK**
+- Title as printed: Нийгэм судлал IX (Social Studies IX)
+- Grade: Grade 9 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Culture, Science and Sports of Mongolia (authors Nemekhjargal T., Byambajav D., Bayarbaatar A., Tuya D., Indra B.); Ulaanbaatar, 2019, 2nd edition; no ISBN printed
+- PDF pages: 99 (read in place from phase3-staging; the staging file is 53,693,688 bytes vs the books.json size_bytes of 5,507,721 — same book verified by cover and title page)
+- Verdict: COMPLETE
+- Tally: 2 placements — 2 to an existing lesson, 0 NEW LESSON NEEDED
+- Non-History parts (named here, NOT placed): Ch. I The individual and society — communication (printed pp. 6–20); Ch. II's remaining topics, art and online communication culture (pp. 32–39); Ch. III The individual and the economy (pp. 42–58); Ch. IV Human rights and law (pp. 62–75); Ch. V Public governance (pp. 80–92). History in this grade is carried by the separate Түүх IX textbook (Book 4).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mongolia part — Ch. 2.1 We are proud of our nation's culture — story beats: Naadam and Tsagaan Sar, the morin khuur and throat-singing, and the festivals of Mongolia's own peoples (Buryat Altargana, Kazakh eagle festival) — national culture as the shared inheritance that names who "we" are (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Mongolia, *mn-g9ss Нийгэм судлал IX (Social Studies IX)*, printed p. 24 |
+| Mongolia part — Ch. 2.2 How do we study cultural heritage? — story beats: UNESCO's 1972 World Heritage Convention (Mongolia joined 1990) and the 2003 Intangible Heritage Convention give the tools — list it, protect it, hand it on (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Mongolia, *mn-g9ss Нийгэм судлал IX (Social Studies IX)*, printed p. 27 |
+
+Mongolia's own way (Book 9 — mn-g9ss Нийгэм судлал IX (Social Studies IX)): this is a combined Social Studies book — only its History-scope parts are placed here; its other parts are named in the book entry above, not placed, and History in this grade is carried mainly by the separate History textbook. That way is stocked here as the way Mongolia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 10 — mn-g10ss Нийгэм судлал X / Social Studies X (student book, Mongolian) — COMBINED BOOK**
+- Title as printed: Нийгэм судлал X (Social Studies X)
+- Grade: Grade 10 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Culture, Science and Sports of Mongolia (authors Tömendelger S. et al., ed. Erdenebaatar G.); Ulaanbaatar, 2017 (2019 cover); ISBN 978-99978-61-27-6
+- PDF pages: 151 flipbook page images = 148 printed pages (read from the recorded source econtent.edu.mn, id=263, which serves the book as flipbook page images; cover and colophon verified against the record title. The books.json record says the book is pushed to GitHub, but the tree route for its file returns 404, so the read used the recorded source; nothing needed staging)
+- Verdict: COMPLETE
+- Tally: 1 placement — 1 to an existing lesson, 0 NEW LESSON NEEDED
+- Non-History parts (named here, NOT placed): Ch. 1 Society and social relations (printed pp. 4–25); Ch. 2's remaining topics — what culture is, its components, universals and classification (pp. 28–47); Ch. 3 Law (pp. 49–72); Ch. 4 Economics (pp. 73–96); Ch. 5 Politics — democratic values, Mongolia's constitution and powers (pp. 97–117); Ch. 6 International relations (pp. 119–140); glossary and sources (pp. 142–148). History in this grade is carried by the separate Монголын түүх X textbook (Book 5).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mongolia part — Ch. 2.3 How do we explain the unified character of Mongolian culture? — story beats: one culture from many peoples — Khalkha, Kazakh, Dörvöd, Buryat and the rest share the nomad inheritance of language, Naadam and hospitality, and its treasures (urtiin duu, khöömii, morin khuur) are now world heritage (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Mongolia, *mn-g10ss Нийгэм судлал X (Social Studies X)*, printed p. 38 |
+
+Mongolia's own way (Book 10 — mn-g10ss Нийгэм судлал X (Social Studies X)): this is a combined Social Studies book — only its History-scope parts are placed here; its other parts are named in the book entry above, not placed, and History in this grade is carried mainly by the separate History textbook. That way is stocked here as the way Mongolia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 36 countries (Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivia, Zimbabwe, Eritrea, Cambodia, Fiji, Slovenia, Syria, Mauritania, Jordan, Bhutan, Cuba, Greece, Nauru, Niue, Tuvalu, Saudi Arabia, Rwanda, Poland, Guatemala, Australia, Bahamas, Nepal, Belarus, Dominican Republic, Egypt, Pakistan, Iran, Suriname, Palestine, Colombia, South Sudan) — unchanged for Mongolia: Mongolia was already named and counted in this lesson from an earlier stocking (the Geography expansion, on the same Grade 8 and Grade 9 Social Studies books), so these 9 History placements add Mongolian depth, not a new country.**
+
+Searchable tags: Mongolia, History expansion 2026-11-15, first-steps/heritage-what-it-is-and-why-it-matters

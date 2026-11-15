@@ -1,6 +1,6 @@
 # Sources — The end of 'real socialism' and the Cold War
 
-countries: Costa Rica, Dominican Republic, Bolivia, Colombia, Mauritania, South Sudan
+countries: Costa Rica, Dominican Republic, Bolivia, Colombia, Mauritania, South Sudan, Mongolia
 
 **Book (Costa Rica cr-coned-10):** Title as printed: Antología CONED — Estudios Sociales, Código 80023, Nivel Décimo año Grade: Grade 10 (student/teacher: STUDENT) Publisher: Universidad Estatal a Distancia (UNED) / Colegio Nacional de Educación a Distancia (CONED); year 2017 file; no ISBN printed PDF pages: 255 (cover verified against the record title; byte size 11,879,619 and page count match the record. Route note: the books.json tree path returned HTTP 404, so the book was grabbed via its TSV release asset in mid-size-books-5, matched exactly) Verdict: COMPLETE Tally: 13 placements — 6 to existing lessons, 7 NEW LESSON NEEDED Costa Rica's own way: The Décimo anthology is world history with a geopolitical lens — imperialism, the two world wars, the Russian revolution, the Depression, the bipolar Cold War world and today's multipolar tensions — read from Costa Rica outward to Latin America and the globe. Non-History parts (named, not placed): Unidad 3 Dinámica poblacional y movilización espacial (population dynamics in the 20th–21st centuries, Costa Rican population change, internal and international mobility, printed pp. 198–254 — Geography/demography). Placements at liqlearns-courses-work/expansion-history-2026-11-15/costa-rica-placements.md.
 
@@ -107,3 +107,26 @@ Mauritania's own way (mr-g13 — History, 7th year, Arts stream (student book, A
 South Sudan's own way (Book 23 — S4 History Student's Book (student book, English)): The final year is entirely world and African history beyond South Sudan — USA, Russia, Latin America, the Middle East, China and Japan — taught from primary sources (Lincoln's 1854 and 1858 speeches open the book) and ending where S1 ended, with the OAU and AU. That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 6 countries (Costa Rica, Dominican Republic, Bolivia, Colombia, Mauritania, South Sudan).**
+
+
+## History expansion (2026-11-15) — Mongolia stocked
+
+**Book 4 — mn-g9h Түүх IX / History IX (student book, Mongolian)**
+- Title as printed: Түүх IX (History IX)
+- Grade: Grade 9 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Culture, Science and Sports of Mongolia (authors Tuya U. et al., ed. Pürev O.); Ulaanbaatar, 2015 edition (2019 reprint cover); ISBN 978-99962-74-42-8
+- PDF pages: 163 (160 printed pages; cover and colophon verified against the record title — read in place from phase3-staging; the staging file on disk is 102,251,931 bytes, a fresh Nov 15 download differing from the books.json size_bytes of 13,477,805, but it is the same book by cover, colophon and contents)
+- Verdict: COMPLETE
+- Tally: 32 placements — 6 to existing lessons, 26 NEW LESSON NEEDED
+- Mongolia's own way: modern history is one national arc in three acts — the restored state (1911–1924), socialist Mongolia (1924–1990) and democratic Mongolia (1990–today) — with world events (the World Wars, October, the Cold War, the UN) admitted exactly where they bend Mongolia's own road.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mongolia part — Ch. 4.1 The collapse of the socialist system — story beats: perestroika shakes the USSR, Eastern Europe's regimes fall in 1989, and the socialist world Mongolia belonged to dissolves (History expansion, 2026-11-15; original placement slug: modern-world/the-collapse-of-socialism-1989-1991) | Mongolia, *mn-g9h Түүх IX (History IX)*, printed p. 129 |
+
+Mongolia's own way (Book 4 — mn-g9h Түүх IX (History IX)): modern history is one national arc in three acts — the restored state (1911–1924), socialist Mongolia (1924–1990) and democratic Mongolia (1990–today) — with world events (the World Wars, October, the Cold War, the UN) admitted exactly where they bend Mongolia's own road. That way is stocked here as the way Mongolia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 7 countries (Costa Rica, Dominican Republic, Bolivia, Colombia, Mauritania, South Sudan, Mongolia).**
+
+Searchable tags: Mongolia, History expansion 2026-11-15, modern-world/end-of-real-socialism-and-the-cold-war

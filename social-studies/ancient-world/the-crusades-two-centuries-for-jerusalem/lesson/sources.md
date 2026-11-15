@@ -1,6 +1,6 @@
 # Sources — The Crusades — two centuries for Jerusalem
 
-countries: Pakistan, Bulgaria, Mauritania, Sri Lanka
+countries: Pakistan, Bulgaria, Mauritania, Sri Lanka, Mongolia
 
 **Book (Pakistan — History 7 (PCTB, SNC 2022)):** *تاریخ — History 7* (student book, Urdu) — Pakistan. Title as printed: تاریخ — History 7 — based on the Single National Curriculum 2022 ("One Nation, One Curriculum"). Grade: Grade 7 / Class 7 (student/teacher: STUDENT). Publisher: Punjab Curriculum and Textbook Board (PCTB), Lahore; year: SNC 2022 edition (no year printed on cover); no ISBN printed. PDF pages: 96 (printed pp. 1–94; read IN PLACE at phase3-staging; image-only scan — the only text layer is the "Web version of PCTB Textbook Not for Sale" watermark — read in full from page renders; cover and title page verified against the record). Verdict: COMPLETE — with a library-debt note: the on-disk file is 81,665,509 bytes against the record's 80,223,717 bytes; the copy read is complete and coherent at the recorded 96 pages, but the size mismatch should be reconciled by the library team. Tally: 31 placements — 14 to existing lessons, 17 NEW LESSON NEEDED (including a reuse of a NEW slug created in Book 5 of this file). Placements at liqlearns-courses-work/expansion-history-2026-11-15/pakistan-placements.md.
 
@@ -94,3 +94,26 @@ Sri Lanka's own way (Book 1 — G7 History Tamil 2011): world civilisations firs
 **Acceptance count: taught in 4 countries (Pakistan, Bulgaria, Mauritania, Sri Lanka).**
 
 Searchable tags: Sri Lanka, History expansion 2026-11-15, ancient-world/the-crusades-two-centuries-for-jerusalem
+
+
+## History expansion (2026-11-15) — Mongolia stocked
+
+**Book 3 — mn-g7h Түүх VII / History VII (student book, Mongolian)**
+- Title as printed: Түүх VII (History VII)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Culture, Science and Sports of Mongolia (authors Altanbagana A., Bayarmaa Kh., Gerelbadrakh J.; eds. Baasandorj Ts., Puntsagsüren D.); Ulaanbaatar, 2015 edition (2019 reprint cover); ISBN 978-99962-74-26-8
+- PDF pages: 162 flipbook page images = 150 printed pages (fetched from the recorded source econtent.edu.mn, id=299, which serves the book as flipbook page images; cover and colophon verified against the record title Түүх 7. Assembled into a PDF and STAGED at phase3-staging/grade-07/gov/mongolia/mongolia-grade-07-history.pdf — 97,642,546 bytes as assembled, differing from the books.json file_size_bytes of 11,622,936, which was the ministry PDF's size)
+- Verdict: COMPLETE
+- Tally: 36 placements — 11 to existing lessons, 25 NEW LESSON NEEDED
+- Mongolia's own way: the medieval millennium is organised around one hinge — the "Chinggis era". Everything before it (steppe aimags, Franks, Byzantium, Islam, Tang China) is "the world before Chinggis", and everything after is measured against the empire the Mongols built; the book opens by teaching the rival calendars (Hijri, Byzantine, the Mongolian lunar cycle, the Chinggis era) needed to date it all.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mongolia part — Ch. 5.3 The power of the Catholic Church and the Crusades — story beats: popes crown and depose kings; from 1096 crusading armies march east to take Jerusalem, and East and West collide (History expansion, 2026-11-15; original placement slug: ancient-world/the-crusades-and-the-medieval-church) | Mongolia, *mn-g7h Түүх VII (History VII)*, printed p. 129 |
+
+Mongolia's own way (Book 3 — mn-g7h Түүх VII (History VII)): the medieval millennium is organised around one hinge — the "Chinggis era". Everything before it (steppe aimags, Franks, Byzantium, Islam, Tang China) is "the world before Chinggis", and everything after is measured against the empire the Mongols built; the book opens by teaching the rival calendars (Hijri, Byzantine, the Mongolian lunar cycle, the Chinggis era) needed to date it all. That way is stocked here as the way Mongolia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 5 countries (Pakistan, Bulgaria, Mauritania, Sri Lanka, Mongolia).**
+
+Searchable tags: Mongolia, History expansion 2026-11-15, ancient-world/the-crusades-two-centuries-for-jerusalem

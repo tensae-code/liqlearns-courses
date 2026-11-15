@@ -1,6 +1,6 @@
 # Sources — Rus-Ukraine — a state is born
 
-countries: Ukraine, Belarus
+countries: Ukraine, Belarus, Mongolia
 
 **Book 1:** *Історія України — підручник для 7 класу закладів загальної середньої освіти* (History of Ukraine, textbook for Grade 7 of general secondary education institutions) (student book, Ukrainian) — Ukraine. Title as printed: Історія України — підручник для 7 класу закладів загальної середньої освіти. Grade: Grade 7 (student/teacher: STUDENT). Publisher: Український освічий центр «Оріон» (Ukrainian Education Centre "Orion"), Kyiv; year 2024; ISBN 978-966-991-295-4. Authors: І. Я. Щупак, О. В. Бурлака, В. О. Дрібниця, О. В. Желіба, І. О. Піскарьова (I. Ya. Shchupak, O. V. Burlaka, V. O. Dribnytsia, O. V. Zheliba, I. O. Piskarova); recommended by the Ministry of Education and Science of Ukraine (order of 05.02.2024 № 124). PDF pages: 196 (cover verified: blue cover, gold frame with a medieval battle painting, "ІСТОРІЯ УКРАЇНИ" with a red 7 badge; file 55,782,358 bytes — exactly the record's size_bytes). Verdict: COMPLETE — all five sections, §§1–31, the glossary (Словник термінів, printed p. 188), the dates aid (printed p. 190) and the research-work memos (printed p. 191) present in sequence; the six generalisation paragraphs (§§6, 12, 18, 24, 30 and the course generalisation §31) are review lessons for the sections they close and are filed with those sections (§31 filed separately). Tally: 25 placements — 0 to existing lessons, 25 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/ukraine-placements.md.
 
@@ -29,3 +29,26 @@ Searchable tags: Ukraine, Rus-Ukraine, state formation, ninth century, Kyiv, Eas
 Belarus's own way (Atlas: History of Belarus, Grade 6, Grade 6): History is taught as paired map spreads — the left page puts the same centuries on the East-European stage with a timeline strip, the right page zooms to the Belarusian lands; every theme opens with a symbol-picture and a short narrative text, so the national story is always read inside the regional one. That way is stocked here as the way Belarus teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 2 countries (Ukraine, Belarus).**
+
+
+## History expansion (2026-11-15) — Mongolia stocked
+
+**Book 3 — mn-g7h Түүх VII / History VII (student book, Mongolian)**
+- Title as printed: Түүх VII (History VII)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Culture, Science and Sports of Mongolia (authors Altanbagana A., Bayarmaa Kh., Gerelbadrakh J.; eds. Baasandorj Ts., Puntsagsüren D.); Ulaanbaatar, 2015 edition (2019 reprint cover); ISBN 978-99962-74-26-8
+- PDF pages: 162 flipbook page images = 150 printed pages (fetched from the recorded source econtent.edu.mn, id=299, which serves the book as flipbook page images; cover and colophon verified against the record title Түүх 7. Assembled into a PDF and STAGED at phase3-staging/grade-07/gov/mongolia/mongolia-grade-07-history.pdf — 97,642,546 bytes as assembled, differing from the books.json file_size_bytes of 11,622,936, which was the ministry PDF's size)
+- Verdict: COMPLETE
+- Tally: 36 placements — 11 to existing lessons, 25 NEW LESSON NEEDED
+- Mongolia's own way: the medieval millennium is organised around one hinge — the "Chinggis era". Everything before it (steppe aimags, Franks, Byzantium, Islam, Tang China) is "the world before Chinggis", and everything after is measured against the empire the Mongols built; the book opens by teaching the rival calendars (Hijri, Byzantine, the Mongolian lunar cycle, the Chinggis era) needed to date it all.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mongolia part — Ch. 3.7 The Russians found their state — story beats: Slavs, Varangians and Byzantine faith combine in Kievan Rus', the first East Slav state, baptised in 988 (History expansion, 2026-11-15; original placement slug: ancient-world/kievan-rus-the-first-russian-state) | Mongolia, *mn-g7h Түүх VII (History VII)*, printed p. 46 |
+
+Mongolia's own way (Book 3 — mn-g7h Түүх VII (History VII)): the medieval millennium is organised around one hinge — the "Chinggis era". Everything before it (steppe aimags, Franks, Byzantium, Islam, Tang China) is "the world before Chinggis", and everything after is measured against the empire the Mongols built; the book opens by teaching the rival calendars (Hijri, Byzantine, the Mongolian lunar cycle, the Chinggis era) needed to date it all. That way is stocked here as the way Mongolia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 3 countries (Ukraine, Belarus, Mongolia).**
+
+Searchable tags: Mongolia, History expansion 2026-11-15, ancient-world/rus-ukraine-a-state-is-born

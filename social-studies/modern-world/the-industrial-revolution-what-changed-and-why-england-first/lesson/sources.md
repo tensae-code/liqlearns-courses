@@ -1,6 +1,6 @@
 # Sources — The Industrial Revolution — what changed and why England first
 
-countries: Ethiopia, Brazil, Costa Rica, Australia, Ecuador, Kuwait, Fiji, Montenegro, Dominican Republic, Palestine, Colombia, South Sudan, Libya, Sri Lanka
+countries: Ethiopia, Brazil, Costa Rica, Australia, Ecuador, Kuwait, Fiji, Montenegro, Dominican Republic, Palestine, Colombia, South Sudan, Libya, Sri Lanka, Mongolia
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 130).
 
@@ -308,3 +308,42 @@ Sri Lanka's own way (Book 7 — G11 History Tamil 1999): the old-syllabus Grade 
 **Acceptance count: taught in 14 countries (Ethiopia, Brazil, Costa Rica, Australia, Ecuador, Kuwait, Fiji, Montenegro, Dominican Republic, Palestine, Colombia, South Sudan, Libya, Sri Lanka).**
 
 Searchable tags: Sri Lanka, History expansion 2026-11-15, modern-world/the-industrial-revolution-what-changed-and-why-england-first
+
+
+## History expansion (2026-11-15) — Mongolia stocked
+
+**Book 1 — mn-g8h Түүх VIII / History VIII (student book, Mongolian)**
+- Title as printed: Түүх VIII (History VIII)
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Culture, Science and Sports of Mongolia (authors Gantulga Ts. et al., ed. Tsolmon S.); Ulaanbaatar, 2015 edition (2019 reprint cover); ISBN 978-99962-74-33-6
+- PDF pages: 151 (148 printed pages; cover and colophon verified against the record title — read in place from phase3-staging; the staging file on disk is 71,145,045 bytes, a fresh Nov 15 download that differs from the books.json size_bytes of 73,344,242, but it is the same book by cover, colophon and contents)
+- Verdict: COMPLETE
+- Tally: 31 placements — 15 to existing lessons, 16 NEW LESSON NEEDED
+- Mongolia's own way: Mongolian and world history are taught as ONE interleaved story in alternating blocks — Mongolia first in each period, then the world — so pupils always meet their own khans, treaties and rebellions beside Europe's and Asia's; every topic is built from source extracts, timelines and "ask a question, pose a problem, hypothesise" boxes.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mongolia part — Part III, Ch. II.1: The Industrial Revolution — story beats: steam and the factory remake England first, then the world; production, cities and classes are all transformed (History expansion, 2026-11-15; original placement slug: modern-world/the-industrial-revolution-what-changed-and-why-england-first) | Mongolia, *mn-g8h Түүх VIII (History VIII)*, printed p. 106 |
+
+Mongolia's own way (Book 1 — mn-g8h Түүх VIII (History VIII)): Mongolian and world history are taught as ONE interleaved story in alternating blocks — Mongolia first in each period, then the world — so pupils always meet their own khans, treaties and rebellions beside Europe's and Asia's; every topic is built from source extracts, timelines and "ask a question, pose a problem, hypothesise" boxes. That way is stocked here as the way Mongolia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 11 — mn-g11ss Нийгэм судлал XI / Social Studies XI (student book, Mongolian) — COMBINED BOOK**
+- Title as printed: Нийгэм судлал XI (Social Studies XI)
+- Grade: Grade 11 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Culture, Science and Sports of Mongolia (authors Tömendelger S. et al., ed. Pürev O.); Ulaanbaatar, 2018 (2019 cover); ISBN 978-99978-61-85-6
+- PDF pages: 199 flipbook page images = 196 printed pages (read from the recorded source econtent.edu.mn, id=350, which serves the book as flipbook page images; cover and colophon verified against the record title. The books.json record says the book is pushed to GitHub, but the tree route for its file returns 404, so the read used the recorded source; nothing needed staging)
+- Verdict: COMPLETE
+- Tally: 2 placements — 2 to existing lessons, 0 NEW LESSON NEEDED
+- Non-History parts (named here, NOT placed): Ch. I's other topic, social stratification (printed pp. 6–28); Ch. II Culture — production, globalisation, identity, freedom (pp. 41–67); Ch. III Law (pp. 71–103); Ch. IV Economics (pp. 107–134); Ch. V Politics — civil society, elections, media, institutions (pp. 140–165); Ch. VI International relations — non-state actors, the "third neighbour" policy, soft power (pp. 168–191). History in this grade is carried by the separate Монголын түүх XI textbook (Book 6).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mongolia part — Topic 1.2 Social change: industrial society — story beats: Britain's industrialisation in the late 18th century births a new kind of society — machines replace muscle, cities swell, and Tönnies's Gemeinschaft gives way to Gesellschaft (History expansion, 2026-11-15; original placement slug: modern-world/the-industrial-revolution) | Mongolia, *mn-g11ss Нийгэм судлал XI (Social Studies XI)*, printed p. 29 |
+
+Mongolia's own way (Book 11 — mn-g11ss Нийгэм судлал XI (Social Studies XI)): this is a combined Social Studies book — only its History-scope parts are placed here; its other parts are named in the book entry above, not placed, and History in this grade is carried mainly by the separate History textbook. That way is stocked here as the way Mongolia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 15 countries (Ethiopia, Brazil, Costa Rica, Australia, Ecuador, Kuwait, Fiji, Montenegro, Dominican Republic, Palestine, Colombia, South Sudan, Libya, Sri Lanka, Mongolia).**
+
+Searchable tags: Mongolia, History expansion 2026-11-15, modern-world/the-industrial-revolution-what-changed-and-why-england-first

@@ -1,6 +1,6 @@
 # Sources — American independence
 
-countries: Ethiopia, France, United States, Ecuador, Kuwait, Montenegro, Dominican Republic, Cambodia, Palestine, Colombia, Mauritania
+countries: Ethiopia, France, United States, Ecuador, Kuwait, Montenegro, Dominican Republic, Cambodia, Palestine, Colombia, Mauritania, Mongolia
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under GEQIP-E, ISBN 978-99990-0-066-6. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -240,3 +240,26 @@ Searchable tags: Colombia, American independence, modern-world, History expansio
 Mauritania's own way (mr-g12 — History, 6th year of secondary education (student book, Arabic)): Europe's road to the modern world in Unit 1 (English parliamentarism, the 18th-century ideas, American independence, the French and Industrial revolutions); Unit 2 turns the lens on colonisation with Mauritania inside it (the emirates, colonialism and resistance at home, Omar Mukhtar and al-Hajj Umar as resistance models); Unit 3 runs WWI to WWII with Palestine and the 1929 crisis between the wars. That way is stocked here as the way Mauritania teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 11 countries (Ethiopia, France, United States, Ecuador, Kuwait, Montenegro, Dominican Republic, Cambodia, Palestine, Colombia, Mauritania).**
+
+
+## History expansion (2026-11-15) — Mongolia stocked
+
+**Book 1 — mn-g8h Түүх VIII / History VIII (student book, Mongolian)**
+- Title as printed: Түүх VIII (History VIII)
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Culture, Science and Sports of Mongolia (authors Gantulga Ts. et al., ed. Tsolmon S.); Ulaanbaatar, 2015 edition (2019 reprint cover); ISBN 978-99962-74-33-6
+- PDF pages: 151 (148 printed pages; cover and colophon verified against the record title — read in place from phase3-staging; the staging file on disk is 71,145,045 bytes, a fresh Nov 15 download that differs from the books.json size_bytes of 73,344,242, but it is the same book by cover, colophon and contents)
+- Verdict: COMPLETE
+- Tally: 31 placements — 15 to existing lessons, 16 NEW LESSON NEEDED
+- Mongolia's own way: Mongolian and world history are taught as ONE interleaved story in alternating blocks — Mongolia first in each period, then the world — so pupils always meet their own khans, treaties and rebellions beside Europe's and Asia's; every topic is built from source extracts, timelines and "ask a question, pose a problem, hypothesise" boxes.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mongolia part — Ch. II.3: Revolutions and new states (1) — story beats: Britain's American colonies declare independence and found a republic built on the rights of man (History expansion, 2026-11-15; original placement slug: modern-world/american-independence) | Mongolia, *mn-g8h Түүх VIII (History VIII)*, printed p. 115 |
+
+Mongolia's own way (Book 1 — mn-g8h Түүх VIII (History VIII)): Mongolian and world history are taught as ONE interleaved story in alternating blocks — Mongolia first in each period, then the world — so pupils always meet their own khans, treaties and rebellions beside Europe's and Asia's; every topic is built from source extracts, timelines and "ask a question, pose a problem, hypothesise" boxes. That way is stocked here as the way Mongolia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 12 countries (Ethiopia, France, United States, Ecuador, Kuwait, Montenegro, Dominican Republic, Cambodia, Palestine, Colombia, Mauritania, Mongolia).**
+
+Searchable tags: Mongolia, History expansion 2026-11-15, modern-world/american-independence
