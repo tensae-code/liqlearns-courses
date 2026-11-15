@@ -1,6 +1,6 @@
 # Sources — Company rule, direct rule, assimilation
 
-countries: Ethiopia, Gambia, Mauritania, Uganda
+countries: Ethiopia, Gambia, Mauritania, Uganda, Mozambique
 
 **Book 1:** *History, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN 978-99990-0-065-9, printed by GRAVITY GROUP IND LLC, Sharjah, UAE. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g10-student-placements.md
 
@@ -114,3 +114,25 @@ Uganda's own way (Book 4 — uganda-excel-p6 (student book, English)): P6 widens
 **Acceptance count: taught in 4 countries (Ethiopia, Gambia, Mauritania, Uganda).**
 
 Searchable tags: Uganda, History expansion 2026-11-15, africa-after-1500/company-rule-direct-rule-assimilation
+
+## History expansion (2026-11-15) — Mozambique stocked
+
+**Book 6 — PESD II Mod 3 (student book, Portuguese)**
+- Title as printed: Módulo 3 de História — O Período de Dominação Colonial em África (PESD II, 2º Ciclo)
+- Grade: PESD II 2º ciclo, grades 10–12 cycle (record grade Grade 10) (student/teacher: STUDENT)
+- Publisher: Ministério da Educação / Instituto de Educação Aberta e à Distância – IEDA; year no year printed; ISBN no ISBN printed
+- PDF pages: 72 (cover verified against the record title; byte size 1,001,848 matches books.json record; TSV + books.json records are the same book)
+- Verdict: COMPLETE
+- Tally: 9 placements — 4 to existing lessons, 5 NEW LESSON NEEDED
+- Mozambique's own way: Colonial rule is dissected comparatively — French possessions and British territories each get their own lessons on structures and economies — before the module judges colonialism's political, economic and social consequences for Africa as a whole.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mozambique-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mozambique part — Lição 2: As estruturas coloniais — story beats: colonial states are built to extract — political structures, courts, forced labour and head taxes named as the machinery of domination (History expansion, 2026-11-15; original placement slug: africa-after-1500/company-rule-direct-rule-assimilation) | Mozambique, *Módulo 3 de História — O Período de Dominação Colonial em África (PESD II, 2º Ciclo)*, printed p. 12 |
+
+Mozambique's own way (Book 6 — PESD II Mod 3 (student book, Portuguese)): Colonial rule is dissected comparatively — French possessions and British territories each get their own lessons on structures and economies — before the module judges colonialism's political, economic and social consequences for Africa as a whole. That way is stocked here as the way Mozambique teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 5 countries (Ethiopia, Gambia, Mauritania, Uganda, Mozambique).**
+
+Searchable tags: Mozambique, History expansion 2026-11-15, africa-after-1500/company-rule-direct-rule-assimilation

@@ -1,6 +1,6 @@
 # Sources — Decolonisation — Ghana, Kenya and the south
 
-countries: Ethiopia, Angola, Libya, Uganda
+countries: Ethiopia, Angola, Libya, Uganda, Mozambique
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 5, placements 110–122).
 
@@ -130,3 +130,25 @@ Uganda's own way (Book 10 — uganda-s3-home-study-history (student book, Englis
 **Acceptance count: taught in 4 countries (Ethiopia, Angola, Libya, Uganda).**
 
 Searchable tags: Uganda, History expansion 2026-11-15, africa-after-1500/decolonisation-ghana-kenya-and-the-south
+
+## History expansion (2026-11-15) — Mozambique stocked
+
+**Book 7 — PESD II Mod 4 (student book, Portuguese)**
+- Title as printed: Módulo 4 de História — O Nacionalismo Africano (PESD II, 2º Ciclo)
+- Grade: PESD II 2º ciclo, grades 10–12 cycle (record grade Grade 10) (student/teacher: STUDENT)
+- Publisher: Ministério da Educação e Desenvolvimento Humano / Instituto de Educação Aberta e à Distância – IEDA; year no year printed; ISBN no ISBN printed
+- PDF pages: 145 (cover verified against the record title; byte size 2,879,295 matches books.json record; TSV + books.json records are the same book)
+- Verdict: COMPLETE
+- Tally: 16 placements — 4 to existing lessons, 12 NEW LESSON NEEDED
+- Mozambique's own way: Decolonisation is taught comparatively, empire by empire — British, French, Belgian and British-Central-African roads to independence each get full lessons (Ghana and the Congo as case studies, Lumumba named) — and the story continues past the flags into the OAU→AU passage and SADC integration in Mozambique's own region.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mozambique-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mozambique part — Lição 5: O percurso para a independência nas colónias inglesas — story beats: empires proclaimed permanent last only three generations; the British colonies travel their own road to independence (History expansion, 2026-11-15; original placement slug: africa-after-1500/decolonisation-ghana-kenya-and-the-south) | Mozambique, *Módulo 4 de História — O Nacionalismo Africano (PESD II, 2º Ciclo)*, printed p. 35 |
+
+Mozambique's own way (Book 7 — PESD II Mod 4 (student book, Portuguese)): Decolonisation is taught comparatively, empire by empire — British, French, Belgian and British-Central-African roads to independence each get full lessons (Ghana and the Congo as case studies, Lumumba named) — and the story continues past the flags into the OAU→AU passage and SADC integration in Mozambique's own region. That way is stocked here as the way Mozambique teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 5 countries (Ethiopia, Angola, Libya, Uganda, Mozambique).**
+
+Searchable tags: Mozambique, History expansion 2026-11-15, africa-after-1500/decolonisation-ghana-kenya-and-the-south

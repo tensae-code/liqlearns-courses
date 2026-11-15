@@ -1,6 +1,6 @@
 # Sources — Europeans on the coast — trade on African terms
 
-countries: Ethiopia, Angola, Gambia, Rwanda
+countries: Ethiopia, Angola, Gambia, Rwanda, Mozambique
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -103,3 +103,25 @@ This book is a teacher guide, not a pupil text. The part(s) below stand on it as
 Gabon's own way (Grade 5): the final primary year widens out — ancient Egypt, Greece and Rome first, then Gabon and Africa again (autochthones, Bantu, colonisation, Berlin, the two world wars) ending with the march to independence, told through Léon Mba's speech of 16 August 1960. That way is stocked here as the way Gabon teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 4 countries (Ethiopia, Angola, Gambia, Rwanda) — unchanged; the Gabon placement(s) above are teacher-guide evidence only, counted nowhere. Gabon is not added to this lesson's countries line.**
+
+## History expansion (2026-11-15) — Mozambique stocked
+
+**Book 9 — PESD II Mod 6 (student book, Portuguese)**
+- Title as printed: Módulo 6 de História — Os Estados em Moçambique e a Penetração Mercantil Estrangeira (PESD II, 2º Ciclo)
+- Grade: PESD II 2º ciclo, grades 10–12 cycle (record grade Grade 10) (student/teacher: STUDENT)
+- Publisher: Ministério da Educação / Instituto de Educação Aberta e à Distância – IEDA; year no year printed; ISBN no ISBN printed
+- PDF pages: 106 (cover verified against the record title; byte size 1,807,525 matches books.json record; TSV + books.json records are the same book)
+- Verdict: COMPLETE
+- Tally: 10 placements — 3 to existing lessons, 7 NEW LESSON NEEDED
+- Mozambique's own way: A whole module of national economic history: Mozambique's states are followed through three foreign-trade eras — gold, then ivory, then the slave cycle — with the prazos da coroa land system dissected as the bridge from trade to territorial power.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mozambique-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mozambique part — Lição 5: A penetração mercantil europeia — story beats: after five centuries of Arab presence, Portuguese merchants trade gold with the Mwenemutapa Shona, ivory with the Maravi and slaves with Zambezi-valley and coastal Afro-Islamic polities for nearly four centuries (History expansion, 2026-11-15; original placement slug: africa-after-1500/europeans-on-the-coast-trade-on-african-terms) | Mozambique, *Módulo 6 de História — Os Estados em Moçambique e a Penetração Mercantil Estrangeira (PESD II, 2º Ciclo)*, printed p. 37 |
+
+Mozambique's own way (Book 9 — PESD II Mod 6 (student book, Portuguese)): A whole module of national economic history: Mozambique's states are followed through three foreign-trade eras — gold, then ivory, then the slave cycle — with the prazos da coroa land system dissected as the bridge from trade to territorial power. That way is stocked here as the way Mozambique teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 5 countries (Ethiopia, Angola, Gambia, Rwanda, Mozambique).**
+
+Searchable tags: Mozambique, History expansion 2026-11-15, africa-after-1500/europeans-on-the-coast-trade-on-african-terms

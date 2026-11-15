@@ -1,6 +1,6 @@
 # Sources — The African Union
 
-countries: Mauritania
+countries: Mauritania, Mozambique
 
 **Book 6 — mr-g09 (History, 3rd preparatory year (student book, Arabic))**
 - Title as printed: كتاب التاريخ للسنة الثالثة الإعدادية (History Book for the Third Preparatory Year)
@@ -53,3 +53,25 @@ Mauritania's own way (mr-g13 — History, 7th year, Arts stream (student book, A
 **Acceptance count: taught in 1 country (Mauritania).**
 
 Searchable tags: Mauritania, The African Union, africa-after-1500, History expansion 2026-11-15
+
+## History expansion (2026-11-15) — Mozambique stocked
+
+**Book 7 — PESD II Mod 4 (student book, Portuguese)**
+- Title as printed: Módulo 4 de História — O Nacionalismo Africano (PESD II, 2º Ciclo)
+- Grade: PESD II 2º ciclo, grades 10–12 cycle (record grade Grade 10) (student/teacher: STUDENT)
+- Publisher: Ministério da Educação e Desenvolvimento Humano / Instituto de Educação Aberta e à Distância – IEDA; year no year printed; ISBN no ISBN printed
+- PDF pages: 145 (cover verified against the record title; byte size 2,879,295 matches books.json record; TSV + books.json records are the same book)
+- Verdict: COMPLETE
+- Tally: 16 placements — 4 to existing lessons, 12 NEW LESSON NEEDED
+- Mozambique's own way: Decolonisation is taught comparatively, empire by empire — British, French, Belgian and British-Central-African roads to independence each get full lessons (Ghana and the Congo as case studies, Lumumba named) — and the story continues past the flags into the OAU→AU passage and SADC integration in Mozambique's own region.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mozambique-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mozambique part — Lição 14: A passagem da OUA para União Africana — story beats: the OAU, born for decolonisation, cannot keep up with Africa's multiplying problems, and the continent refounds its unity as the African Union (History expansion, 2026-11-15; original placement slug: africa-after-1500/from-the-oau-to-the-african-union) | Mozambique, *Módulo 4 de História — O Nacionalismo Africano (PESD II, 2º Ciclo)*, printed p. 103 |
+
+Mozambique's own way (Book 7 — PESD II Mod 4 (student book, Portuguese)): Decolonisation is taught comparatively, empire by empire — British, French, Belgian and British-Central-African roads to independence each get full lessons (Ghana and the Congo as case studies, Lumumba named) — and the story continues past the flags into the OAU→AU passage and SADC integration in Mozambique's own region. That way is stocked here as the way Mozambique teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 2 countries (Mauritania, Mozambique).**
+
+Searchable tags: Mozambique, History expansion 2026-11-15, africa-after-1500/the-african-union

@@ -1,6 +1,6 @@
 # Sources — Ancient Egypt — What Egypt Gave
 
-countries: Ethiopia, Australia, Egypt, Pakistan, Syria, Palestine, Colombia, Libya, Sri Lanka, Iraq
+countries: Ethiopia, Australia, Egypt, Pakistan, Syria, Palestine, Colombia, Libya, Sri Lanka, Iraq, Mozambique
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (placement 82).
 
@@ -209,3 +209,25 @@ Iraq's own way (Book 4 — iq-g07 Social Studies (student book, Arabic)): From G
 **Acceptance count: taught in 10 countries (Ethiopia, Australia, Egypt, Pakistan, Syria, Palestine, Colombia, Libya, Sri Lanka, Iraq).**
 
 Searchable tags: Iraq, History expansion 2026-11-15, africa-to-1500/ancient-egypt-what-egypt-gave
+
+## History expansion (2026-11-15) — Mozambique stocked
+
+**Book 1 — PESD I Mod 1 (student book, Portuguese)**
+- Title as printed: História — Módulo 1 (PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo)
+- Grade: PESD I 1º ciclo, grades 7–9 cycle (record grade Grade 7) (student/teacher: STUDENT)
+- Publisher: Ministério da Educação e Desenvolvimento Humano (MINEDH) / Instituto de Educação Aberta e à Distância (IEDA); year 2023; ISBN no ISBN printed
+- PDF pages: 142 (cover/title page verified against the record title; byte size 9,886,469 matches books.json record; TSV + books.json records are the same book)
+- Verdict: COMPLETE
+- Tally: 26 placements — 16 to existing lessons, 10 NEW LESSON NEEDED
+- Mozambique's own way: Self-study distance module: history opens with method (what history is, sources, heritage sites — incl. Mozambican sites such as Nwadjahane, birthplace of Eduardo Mondlane), then human origins in Africa, then the world's first states, and only then Mozambique's own Khoisan and Bantu past and the Shona states — the national story is reached through the African story.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mozambique-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mozambique part — Lição 15: Cultura e religião do Egipto — story beats: Egyptian priests and scribes turn belief into science and art — gods, temples, writing and knowledge that outlived the kingdom (History expansion, 2026-11-15; original placement slug: africa-to-1500/ancient-egypt-what-egypt-gave) | Mozambique, *História — Módulo 1 (PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo)*, printed p. 80 |
+
+Mozambique's own way (Book 1 — PESD I Mod 1 (student book, Portuguese)): Self-study distance module: history opens with method (what history is, sources, heritage sites — incl. Mozambican sites such as Nwadjahane, birthplace of Eduardo Mondlane), then human origins in Africa, then the world's first states, and only then Mozambique's own Khoisan and Bantu past and the Shona states — the national story is reached through the African story. That way is stocked here as the way Mozambique teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 11 countries (Ethiopia, Australia, Egypt, Pakistan, Syria, Palestine, Colombia, Libya, Sri Lanka, Iraq, Mozambique).**
+
+Searchable tags: Mozambique, History expansion 2026-11-15, africa-to-1500/ancient-egypt-what-egypt-gave

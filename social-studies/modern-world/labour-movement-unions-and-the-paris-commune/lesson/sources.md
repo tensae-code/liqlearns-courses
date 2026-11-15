@@ -1,6 +1,6 @@
 # Sources — The labour movement — unions and the Paris Commune
 
-countries: Colombia
+countries: Colombia, Mozambique
 
 **Book 23 — Secundaria Activa G8 (student book, Spanish)**
 - Title as printed: Ciencias Sociales — Grado 8, Secundaria Activa (student module)
@@ -22,3 +22,25 @@ Colombia's own way (Secundaria Activa G8 (student book, Spanish)): Grade 8 Secun
 **Acceptance count: taught in 1 country (Colombia).**
 
 Searchable tags: Colombia, The labour movement — unions and the Paris Commune, modern-world, History expansion 2026-11-15
+
+## History expansion (2026-11-15) — Mozambique stocked
+
+**Book 2 — PESD I Mod 2 (student book, Portuguese)**
+- Title as printed: História — Módulo 2 (PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo)
+- Grade: PESD I 1º ciclo, grades 7–9 cycle (record grade Grade 7) (student/teacher: STUDENT)
+- Publisher: Ministério da Educação e Desenvolvimento Humano (MINEDH) / Instituto de Educação Aberta e à Distância (IEDA); year 2023; ISBN no ISBN printed
+- PDF pages: 217 (cover verified — slave-trade caravan image; byte size 8,739,689 matches books.json record; TSV + books.json records are the same book)
+- Verdict: COMPLETE
+- Tally: 38 placements — 18 to existing lessons, 20 NEW LESSON NEEDED
+- Mozambique's own way: A Marxist-framed world history: feudalism gives way to capitalism, expansion, revolutions and imperialism — with Mozambique and Africa woven in at every stage (Portuguese expansion, colonial plunder, monopoly companies, Africans in WWI), so world events are always read for what they did to Africa.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mozambique-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mozambique part — Lição 21: A Comuna de Paris — story beats: Paris workers seize power and build the world's first popular government; the lesson tells its character, its defeat and what the Commune meant (History expansion, 2026-11-15; original placement slug: modern-world/the-paris-commune-1871) | Mozambique, *História — Módulo 2 (PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo)*, printed p. 122 |
+
+Mozambique's own way (Book 2 — PESD I Mod 2 (student book, Portuguese)): A Marxist-framed world history: feudalism gives way to capitalism, expansion, revolutions and imperialism — with Mozambique and Africa woven in at every stage (Portuguese expansion, colonial plunder, monopoly companies, Africans in WWI), so world events are always read for what they did to Africa. That way is stocked here as the way Mozambique teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 2 countries (Colombia, Mozambique).**
+
+Searchable tags: Mozambique, History expansion 2026-11-15, modern-world/labour-movement-unions-and-the-paris-commune

@@ -1,6 +1,6 @@
 # Sources — From evidence to a written history
 
-countries: Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Bulgaria, Palestine, Colombia, South Sudan, Mongolia, Samoa
+countries: Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Bulgaria, Palestine, Colombia, South Sudan, Mongolia, Samoa, Mozambique
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -1392,3 +1392,38 @@ Samoa's own way (Book 10 — y12-history (History, Year 12)): A full senior Hist
 **Acceptance count: taught in 31 countries (Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Bulgaria, Palestine, Colombia, South Sudan, Mongolia, Samoa).**
 
 Searchable tags: Samoa, History expansion 2026-11-15, first-steps/from-evidence-to-a-written-history
+
+## History expansion (2026-11-15) — Mozambique stocked
+
+**Book 1 — PESD I Mod 1 (student book, Portuguese)**
+- Title as printed: História — Módulo 1 (PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo)
+- Grade: PESD I 1º ciclo, grades 7–9 cycle (record grade Grade 7) (student/teacher: STUDENT)
+- Publisher: Ministério da Educação e Desenvolvimento Humano (MINEDH) / Instituto de Educação Aberta e à Distância (IEDA); year 2023; ISBN no ISBN printed
+- PDF pages: 142 (cover/title page verified against the record title; byte size 9,886,469 matches books.json record; TSV + books.json records are the same book)
+- Verdict: COMPLETE
+- Tally: 26 placements — 16 to existing lessons, 10 NEW LESSON NEEDED
+- Mozambique's own way: Self-study distance module: history opens with method (what history is, sources, heritage sites — incl. Mozambican sites such as Nwadjahane, birthplace of Eduardo Mondlane), then human origins in Africa, then the world's first states, and only then Mozambique's own Khoisan and Bantu past and the Shona states — the national story is reached through the African story.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mozambique-placements.md.
+
+**Book 4 — PESD II Mod 1 (student book, Portuguese)**
+- Title as printed: Módulo 1 de História — Introdução à História (PESD II, 2º Ciclo)
+- Grade: PESD II 2º ciclo, grades 10–12 cycle (record grade Grade 10; module text addresses the 11ª classe learner) (student/teacher: STUDENT)
+- Publisher: Ministério da Educação e Desenvolvimento Humano / Instituto de Educação Aberta e à Distância – IEDA; year no year printed; ISBN no ISBN printed
+- PDF pages: 112 (cover verified against the record title; byte size 876,925 matches books.json record; TSV + books.json records are the same book)
+- Verdict: COMPLETE
+- Tally: 15 placements — 12 to existing lessons, 3 NEW LESSON NEEDED
+- Mozambique's own way: The second cycle opens not with events but with historiography itself — a full module on how history-writing evolved from Greece to the Annales school, ending with African historiography and its special problems (scarce sources, chronology, myth), training learners to ask how any history was made.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mozambique-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mozambique part — Lição 2: As fontes históricas: definição e tipos — story beats: the historian has no past to visit, only traces — written, oral, material — and oral sources carry special weight in rebuilding Mozambique's and Africa's past (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Mozambique, *História — Módulo 1 (PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo)*, printed p. 15 |
+| Mozambique part — Lição 12: Noções sobre metodologia da História — story beats: how does the historian actually reach knowledge? Objects, sources and methods — the making of history explained step by step (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Mozambique, *Módulo 1 de História — Introdução à História (PESD II, 2º Ciclo)*, printed p. 76 |
+
+Mozambique's own way (Book 1 — PESD I Mod 1 (student book, Portuguese)): Self-study distance module: history opens with method (what history is, sources, heritage sites — incl. Mozambican sites such as Nwadjahane, birthplace of Eduardo Mondlane), then human origins in Africa, then the world's first states, and only then Mozambique's own Khoisan and Bantu past and the Shona states — the national story is reached through the African story. That way is stocked here as the way Mozambique teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Mozambique's own way (Book 4 — PESD II Mod 1 (student book, Portuguese)): The second cycle opens not with events but with historiography itself — a full module on how history-writing evolved from Greece to the Annales school, ending with African historiography and its special problems (scarce sources, chronology, myth), training learners to ask how any history was made. That way is stocked here as the way Mozambique teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 32 countries (Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Bulgaria, Palestine, Colombia, South Sudan, Mongolia, Samoa, Mozambique).**
+
+Searchable tags: Mozambique, History expansion 2026-11-15, first-steps/from-evidence-to-a-written-history

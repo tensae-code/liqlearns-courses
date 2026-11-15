@@ -1,6 +1,6 @@
 # Sources — Colonisation — the partition and Fashoda
 
-countries: Ethiopia, Gambia, Nigeria
+countries: Ethiopia, Gambia, Nigeria, Mozambique
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 5, placements 110–122).
 
@@ -40,3 +40,25 @@ Nigeria's own way: Nigeria's SSS history course deliberately teaches other regio
 
 **Acceptance count: taught in 3 countries (Ethiopia, Gambia, Nigeria).**
 
+
+## History expansion (2026-11-15) — Mozambique stocked
+
+**Book 5 — PESD II Mod 2 (student book, Portuguese)**
+- Title as printed: Módulo 2 de História — A Invasão do Continente Africano (PESD II, 2º Ciclo)
+- Grade: PESD II 2º ciclo, grades 10–12 cycle (record grade Grade 10) (student/teacher: STUDENT)
+- Publisher: Ministério da Educação e Cultura / Instituto Nacional de Desenvolvimento da Educação – INDE; year no year printed; ISBN no ISBN printed
+- PDF pages: 108 (cover verified against the record title; byte size 1,616,480 matches books.json record; TSV + books.json records are the same book)
+- Verdict: COMPLETE
+- Tally: 14 placements — 6 to existing lessons, 8 NEW LESSON NEEDED
+- Mozambique's own way: The Scramble is taught from the receiving end and at length: half the module is African resistance — its ideology, and region-by-region case studies (North, East, Central and Southern Africa) — so conquest is never told as an African non-event.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mozambique-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mozambique part — Lição 5: A partilha e conquista de África — story beats: Berlin's rule of effective occupation lands hardest — a flag on the coast no longer counts; claimants must seize and hold the interior (History expansion, 2026-11-15; original placement slug: africa-after-1500/colonisation-the-partition-and-fashoda) | Mozambique, *Módulo 2 de História — A Invasão do Continente Africano (PESD II, 2º Ciclo)*, printed p. 32 |
+
+Mozambique's own way (Book 5 — PESD II Mod 2 (student book, Portuguese)): The Scramble is taught from the receiving end and at length: half the module is African resistance — its ideology, and region-by-region case studies (North, East, Central and Southern Africa) — so conquest is never told as an African non-event. That way is stocked here as the way Mozambique teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 4 countries (Ethiopia, Gambia, Nigeria, Mozambique).**
+
+Searchable tags: Mozambique, History expansion 2026-11-15, africa-after-1500/colonisation-the-partition-and-fashoda

@@ -1,6 +1,6 @@
 # Sources — Maji-Maji — and resistance in the south and north
 
-countries: Ethiopia, Uganda
+countries: Ethiopia, Uganda, Mozambique
 
 **Book 1:** *History, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN 978-99990-0-065-9, printed by GRAVITY GROUP IND LLC, Sharjah, UAE. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g10-student-placements.md
 
@@ -51,3 +51,25 @@ Uganda's own way (Book 9 — uganda-s2-home-study-history (student book, English
 **Acceptance count: taught in 2 countries (Ethiopia, Uganda).**
 
 Searchable tags: Uganda, History expansion 2026-11-15, africa-after-1500/maji-maji-and-resistance-in-the-south-and-north
+
+## History expansion (2026-11-15) — Mozambique stocked
+
+**Book 5 — PESD II Mod 2 (student book, Portuguese)**
+- Title as printed: Módulo 2 de História — A Invasão do Continente Africano (PESD II, 2º Ciclo)
+- Grade: PESD II 2º ciclo, grades 10–12 cycle (record grade Grade 10) (student/teacher: STUDENT)
+- Publisher: Ministério da Educação e Cultura / Instituto Nacional de Desenvolvimento da Educação – INDE; year no year printed; ISBN no ISBN printed
+- PDF pages: 108 (cover verified against the record title; byte size 1,616,480 matches books.json record; TSV + books.json records are the same book)
+- Verdict: COMPLETE
+- Tally: 14 placements — 6 to existing lessons, 8 NEW LESSON NEEDED
+- Mozambique's own way: The Scramble is taught from the receiving end and at length: half the module is African resistance — its ideology, and region-by-region case studies (North, East, Central and Southern Africa) — so conquest is never told as an African non-event.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mozambique-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mozambique part — Lição 14: A resistência na África Central e Austral — story beats: the peoples of Central and Southern Africa take their turn — new protagonists of resistance against foreign occupation close the module (History expansion, 2026-11-15; original placement slug: africa-after-1500/maji-maji-and-resistance-in-the-south-and-north) | Mozambique, *Módulo 2 de História — A Invasão do Continente Africano (PESD II, 2º Ciclo)*, printed p. 89 |
+
+Mozambique's own way (Book 5 — PESD II Mod 2 (student book, Portuguese)): The Scramble is taught from the receiving end and at length: half the module is African resistance — its ideology, and region-by-region case studies (North, East, Central and Southern Africa) — so conquest is never told as an African non-event. That way is stocked here as the way Mozambique teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 3 countries (Ethiopia, Uganda, Mozambique).**
+
+Searchable tags: Mozambique, History expansion 2026-11-15, africa-after-1500/maji-maji-and-resistance-in-the-south-and-north

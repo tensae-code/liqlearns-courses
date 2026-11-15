@@ -1,6 +1,6 @@
 # Sources — The Scramble and Berlin 1884–85 — a continent partitioned on paper
 
-countries: Ethiopia, Gambia, South Sudan, Libya, Uganda
+countries: Ethiopia, Gambia, South Sudan, Libya, Uganda, Mozambique
 
 **Book 1:** *History, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN 978-99990-0-065-9, printed by GRAVITY GROUP IND LLC, Sharjah, UAE. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g10-student-placements.md
 
@@ -202,3 +202,38 @@ Uganda's own way (Book 10 — uganda-s3-home-study-history (student book, Englis
 **Acceptance count: taught in 5 countries (Ethiopia, Gambia, South Sudan, Libya, Uganda).**
 
 Searchable tags: Uganda, History expansion 2026-11-15, africa-after-1500/the-scramble-and-berlin-1884-85
+
+## History expansion (2026-11-15) — Mozambique stocked
+
+**Book 2 — PESD I Mod 2 (student book, Portuguese)**
+- Title as printed: História — Módulo 2 (PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo)
+- Grade: PESD I 1º ciclo, grades 7–9 cycle (record grade Grade 7) (student/teacher: STUDENT)
+- Publisher: Ministério da Educação e Desenvolvimento Humano (MINEDH) / Instituto de Educação Aberta e à Distância (IEDA); year 2023; ISBN no ISBN printed
+- PDF pages: 217 (cover verified — slave-trade caravan image; byte size 8,739,689 matches books.json record; TSV + books.json records are the same book)
+- Verdict: COMPLETE
+- Tally: 38 placements — 18 to existing lessons, 20 NEW LESSON NEEDED
+- Mozambique's own way: A Marxist-framed world history: feudalism gives way to capitalism, expansion, revolutions and imperialism — with Mozambique and Africa woven in at every stage (Portuguese expansion, colonial plunder, monopoly companies, Africans in WWI), so world events are always read for what they did to Africa.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mozambique-placements.md.
+
+**Book 5 — PESD II Mod 2 (student book, Portuguese)**
+- Title as printed: Módulo 2 de História — A Invasão do Continente Africano (PESD II, 2º Ciclo)
+- Grade: PESD II 2º ciclo, grades 10–12 cycle (record grade Grade 10) (student/teacher: STUDENT)
+- Publisher: Ministério da Educação e Cultura / Instituto Nacional de Desenvolvimento da Educação – INDE; year no year printed; ISBN no ISBN printed
+- PDF pages: 108 (cover verified against the record title; byte size 1,616,480 matches books.json record; TSV + books.json records are the same book)
+- Verdict: COMPLETE
+- Tally: 14 placements — 6 to existing lessons, 8 NEW LESSON NEEDED
+- Mozambique's own way: The Scramble is taught from the receiving end and at length: half the module is African resistance — its ideology, and region-by-region case studies (North, East, Central and Southern Africa) — so conquest is never told as an African non-event.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mozambique-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mozambique part — Lição 27: Os impérios coloniais em África — story beats: imperialist ambitions collide over Africa until the powers sit down in Berlin to settle the partition of a continent that is not theirs (History expansion, 2026-11-15; original placement slug: africa-after-1500/the-scramble-and-berlin-1884-85) | Mozambique, *História — Módulo 2 (PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo)*, printed p. 150 |
+| Mozambique part — Lição 3: A corrida imperialista e a partilha de África — story beats: European presence is still thin by the 1870s, then the imperialist race breaks out and the powers rush to partition a continent (History expansion, 2026-11-15; original placement slug: africa-after-1500/the-scramble-and-berlin-1884-85) | Mozambique, *Módulo 2 de História — A Invasão do Continente Africano (PESD II, 2º Ciclo)*, printed p. 21 |
+
+Mozambique's own way (Book 2 — PESD I Mod 2 (student book, Portuguese)): A Marxist-framed world history: feudalism gives way to capitalism, expansion, revolutions and imperialism — with Mozambique and Africa woven in at every stage (Portuguese expansion, colonial plunder, monopoly companies, Africans in WWI), so world events are always read for what they did to Africa. That way is stocked here as the way Mozambique teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Mozambique's own way (Book 5 — PESD II Mod 2 (student book, Portuguese)): The Scramble is taught from the receiving end and at length: half the module is African resistance — its ideology, and region-by-region case studies (North, East, Central and Southern Africa) — so conquest is never told as an African non-event. That way is stocked here as the way Mozambique teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 6 countries (Ethiopia, Gambia, South Sudan, Libya, Uganda, Mozambique).**
+
+Searchable tags: Mozambique, History expansion 2026-11-15, africa-after-1500/the-scramble-and-berlin-1884-85

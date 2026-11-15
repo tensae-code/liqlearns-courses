@@ -1,6 +1,6 @@
 # Sources — Southern African States — Great Zimbabwe
 
-countries: Ethiopia, Angola
+countries: Ethiopia, Angola, Mozambique
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -51,3 +51,38 @@ Angola's own way (History expansion, 2026-11-15): A pupil in Angola learns Afric
 Zimbabwe's own way (History expansion, 2026-11-15): Great Zimbabwe is taught from the first school years as the child's own inheritance — named at Grade 1 among the monuments to guard, drawn and model-built at Grade 3, read at Grade 4 as the early people's gift still standing, and told at Grade 5 as the kingdom that gave the modern country its name and its bird. That way is stocked here as the way Zimbabwe teaches this thing. These books are teacher guides: their rows stand as teacher-guide evidence only, counted nowhere in acceptance. The books' stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 2 countries (Ethiopia, Angola) — unchanged; the Zimbabwe placements above are teacher-guide evidence only, counted nowhere. Zimbabwe is not added to this lesson's countries line.**
+
+## History expansion (2026-11-15) — Mozambique stocked
+
+**Book 1 — PESD I Mod 1 (student book, Portuguese)**
+- Title as printed: História — Módulo 1 (PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo)
+- Grade: PESD I 1º ciclo, grades 7–9 cycle (record grade Grade 7) (student/teacher: STUDENT)
+- Publisher: Ministério da Educação e Desenvolvimento Humano (MINEDH) / Instituto de Educação Aberta e à Distância (IEDA); year 2023; ISBN no ISBN printed
+- PDF pages: 142 (cover/title page verified against the record title; byte size 9,886,469 matches books.json record; TSV + books.json records are the same book)
+- Verdict: COMPLETE
+- Tally: 26 placements — 16 to existing lessons, 10 NEW LESSON NEEDED
+- Mozambique's own way: Self-study distance module: history opens with method (what history is, sources, heritage sites — incl. Mozambican sites such as Nwadjahane, birthplace of Eduardo Mondlane), then human origins in Africa, then the world's first states, and only then Mozambique's own Khoisan and Bantu past and the Shona states — the national story is reached through the African story.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mozambique-placements.md.
+
+**Book 9 — PESD II Mod 6 (student book, Portuguese)**
+- Title as printed: Módulo 6 de História — Os Estados em Moçambique e a Penetração Mercantil Estrangeira (PESD II, 2º Ciclo)
+- Grade: PESD II 2º ciclo, grades 10–12 cycle (record grade Grade 10) (student/teacher: STUDENT)
+- Publisher: Ministério da Educação / Instituto de Educação Aberta e à Distância – IEDA; year no year printed; ISBN no ISBN printed
+- PDF pages: 106 (cover verified against the record title; byte size 1,807,525 matches books.json record; TSV + books.json records are the same book)
+- Verdict: COMPLETE
+- Tally: 10 placements — 3 to existing lessons, 7 NEW LESSON NEEDED
+- Mozambique's own way: A whole module of national economic history: Mozambique's states are followed through three foreign-trade eras — gold, then ivory, then the slave cycle — with the prazos da coroa land system dissected as the bridge from trade to territorial power.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mozambique-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mozambique part — Lição 22: O Reino de Zimbabwe — story beats: Shona-Karanga builders raise Great Zimbabwe (c.1250–1450), a stone-capital kingdom grown rich on gold and cattle, then decline sets in (History expansion, 2026-11-15; original placement slug: africa-to-1500/southern-african-states-great-zimbabwe) | Mozambique, *História — Módulo 1 (PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo)*, printed p. 116 |
+| Mozambique part — Lição 1: O Estado do Zimbabwe — story beats: the oldest of Mozambique's first political organisations is centred on Great Zimbabwe and reaches into Mozambique through its regional centre at Manyikeni (History expansion, 2026-11-15; original placement slug: africa-to-1500/southern-african-states-great-zimbabwe) | Mozambique, *Módulo 6 de História — Os Estados em Moçambique e a Penetração Mercantil Estrangeira (PESD II, 2º Ciclo)*, printed p. 5 |
+
+Mozambique's own way (Book 1 — PESD I Mod 1 (student book, Portuguese)): Self-study distance module: history opens with method (what history is, sources, heritage sites — incl. Mozambican sites such as Nwadjahane, birthplace of Eduardo Mondlane), then human origins in Africa, then the world's first states, and only then Mozambique's own Khoisan and Bantu past and the Shona states — the national story is reached through the African story. That way is stocked here as the way Mozambique teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Mozambique's own way (Book 9 — PESD II Mod 6 (student book, Portuguese)): A whole module of national economic history: Mozambique's states are followed through three foreign-trade eras — gold, then ivory, then the slave cycle — with the prazos da coroa land system dissected as the bridge from trade to territorial power. That way is stocked here as the way Mozambique teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 3 countries (Ethiopia, Angola, Mozambique).**
+
+Searchable tags: Mozambique, History expansion 2026-11-15, africa-to-1500/southern-african-states-great-zimbabwe

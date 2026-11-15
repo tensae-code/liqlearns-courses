@@ -1,6 +1,6 @@
 # Sources — Africa, cradle of humankind — Chad, Afar and Lucy
 
-countries: Ethiopia, Angola, Costa Rica, Australia, Ecuador, Bolivia, Colombia
+countries: Ethiopia, Angola, Costa Rica, Australia, Ecuador, Bolivia, Colombia, Mozambique
 
 **Book 1:** *History, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, Addis Ababa, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-064-2, 210 printed pp. Printed page = PDF page − 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g09-student-placements.md
 
@@ -159,3 +159,25 @@ Colombia's own way (G4 Cartilla 1 (student book, Spanish)): Grade 4 is the first
 **Acceptance count: taught in 7 countries (Ethiopia, Angola, Costa Rica, Australia, Ecuador, Bolivia, Colombia).**
 
 Searchable tags: Colombia, Africa, cradle of humankind — Chad, Afar and Lucy, africa-to-1500, History expansion 2026-11-15
+
+## History expansion (2026-11-15) — Mozambique stocked
+
+**Book 1 — PESD I Mod 1 (student book, Portuguese)**
+- Title as printed: História — Módulo 1 (PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo)
+- Grade: PESD I 1º ciclo, grades 7–9 cycle (record grade Grade 7) (student/teacher: STUDENT)
+- Publisher: Ministério da Educação e Desenvolvimento Humano (MINEDH) / Instituto de Educação Aberta e à Distância (IEDA); year 2023; ISBN no ISBN printed
+- PDF pages: 142 (cover/title page verified against the record title; byte size 9,886,469 matches books.json record; TSV + books.json records are the same book)
+- Verdict: COMPLETE
+- Tally: 26 placements — 16 to existing lessons, 10 NEW LESSON NEEDED
+- Mozambique's own way: Self-study distance module: history opens with method (what history is, sources, heritage sites — incl. Mozambican sites such as Nwadjahane, birthplace of Eduardo Mondlane), then human origins in Africa, then the world's first states, and only then Mozambique's own Khoisan and Bantu past and the Shona states — the national story is reached through the African story.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mozambique-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mozambique part — Lição 8: África — berço da humanidade — story beats: the oldest hominid bones keep turning up in African soil, so the human story starts in Africa and spreads out from there (History expansion, 2026-11-15; original placement slug: africa-to-1500/africa-cradle-of-humankind) | Mozambique, *História — Módulo 1 (PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo)*, printed p. 46 |
+
+Mozambique's own way (Book 1 — PESD I Mod 1 (student book, Portuguese)): Self-study distance module: history opens with method (what history is, sources, heritage sites — incl. Mozambican sites such as Nwadjahane, birthplace of Eduardo Mondlane), then human origins in Africa, then the world's first states, and only then Mozambique's own Khoisan and Bantu past and the Shona states — the national story is reached through the African story. That way is stocked here as the way Mozambique teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 8 countries (Ethiopia, Angola, Costa Rica, Australia, Ecuador, Bolivia, Colombia, Mozambique).**
+
+Searchable tags: Mozambique, History expansion 2026-11-15, africa-to-1500/africa-cradle-of-humankind

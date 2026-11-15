@@ -1,6 +1,6 @@
 # Sources — The Reformation — the Catholic Counter-Reformation
 
-countries: Ethiopia, Poland
+countries: Ethiopia, Poland, Mozambique
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 129).
 
@@ -30,3 +30,25 @@ Searchable tags: Counter-Reformation, Council of Trent, Jesuits, Ignatius of Loy
 Poland's own way: the volume keeps the series pattern — the world styles first (Italy, then the other countries), then a full chapter bringing each age home to Poland. That way is stocked here as the way Poland teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 2 countries (Ethiopia, Poland).**
+
+## History expansion (2026-11-15) — Mozambique stocked
+
+**Book 2 — PESD I Mod 2 (student book, Portuguese)**
+- Title as printed: História — Módulo 2 (PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo)
+- Grade: PESD I 1º ciclo, grades 7–9 cycle (record grade Grade 7) (student/teacher: STUDENT)
+- Publisher: Ministério da Educação e Desenvolvimento Humano (MINEDH) / Instituto de Educação Aberta e à Distância (IEDA); year 2023; ISBN no ISBN printed
+- PDF pages: 217 (cover verified — slave-trade caravan image; byte size 8,739,689 matches books.json record; TSV + books.json records are the same book)
+- Verdict: COMPLETE
+- Tally: 38 placements — 18 to existing lessons, 20 NEW LESSON NEEDED
+- Mozambique's own way: A Marxist-framed world history: feudalism gives way to capitalism, expansion, revolutions and imperialism — with Mozambique and Africa woven in at every stage (Portuguese expansion, colonial plunder, monopoly companies, Africans in WWI), so world events are always read for what they did to Africa.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mozambique-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mozambique part — Lição 11 (Catholic response part): A Reforma religiosa e a resposta da Igreja Católica — story beats: Rome answers the Protestant movements with its own reforming counter-offensive to hold the faithful (History expansion, 2026-11-15; original placement slug: modern-world/the-reformation-the-catholic-response) | Mozambique, *História — Módulo 2 (PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo)*, printed p. 64 |
+
+Mozambique's own way (Book 2 — PESD I Mod 2 (student book, Portuguese)): A Marxist-framed world history: feudalism gives way to capitalism, expansion, revolutions and imperialism — with Mozambique and Africa woven in at every stage (Portuguese expansion, colonial plunder, monopoly companies, Africans in WWI), so world events are always read for what they did to Africa. That way is stocked here as the way Mozambique teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 3 countries (Ethiopia, Poland, Mozambique).**
+
+Searchable tags: Mozambique, History expansion 2026-11-15, modern-world/the-reformation-the-catholic-response

@@ -1,6 +1,6 @@
 # Sources — Is history a science?
 
-countries: Ethiopia, Indonesia, Iran
+countries: Ethiopia, Indonesia, Iran, Mozambique
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -70,3 +70,25 @@ Iran's own way (Book 2 — History 2, Grade 11 (student book, Persian)): the Isl
 **Acceptance count: taught in 3 countries (Ethiopia, Indonesia, Iran).**
 
 Searchable tags: Iran, Is history a science?, first-steps, History expansion 2026-11-15
+
+## History expansion (2026-11-15) — Mozambique stocked
+
+**Book 4 — PESD II Mod 1 (student book, Portuguese)**
+- Title as printed: Módulo 1 de História — Introdução à História (PESD II, 2º Ciclo)
+- Grade: PESD II 2º ciclo, grades 10–12 cycle (record grade Grade 10; module text addresses the 11ª classe learner) (student/teacher: STUDENT)
+- Publisher: Ministério da Educação e Desenvolvimento Humano / Instituto de Educação Aberta e à Distância – IEDA; year no year printed; ISBN no ISBN printed
+- PDF pages: 112 (cover verified against the record title; byte size 876,925 matches books.json record; TSV + books.json records are the same book)
+- Verdict: COMPLETE
+- Tally: 15 placements — 12 to existing lessons, 3 NEW LESSON NEEDED
+- Mozambique's own way: The second cycle opens not with events but with historiography itself — a full module on how history-writing evolved from Greece to the Annales school, ending with African historiography and its special problems (scarce sources, chronology, myth), training learners to ask how any history was made.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mozambique-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mozambique part — Lição 15: Noções de epistemologia da História — story beats: is history really a science, and can it reach truth? The module closes on the profession's own open arguments (History expansion, 2026-11-15; original placement slug: first-steps/is-history-a-science) | Mozambique, *Módulo 1 de História — Introdução à História (PESD II, 2º Ciclo)*, printed p. 95 |
+
+Mozambique's own way (Book 4 — PESD II Mod 1 (student book, Portuguese)): The second cycle opens not with events but with historiography itself — a full module on how history-writing evolved from Greece to the Annales school, ending with African historiography and its special problems (scarce sources, chronology, myth), training learners to ask how any history was made. That way is stocked here as the way Mozambique teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 4 countries (Ethiopia, Indonesia, Iran, Mozambique).**
+
+Searchable tags: Mozambique, History expansion 2026-11-15, first-steps/is-history-a-science

@@ -1,6 +1,6 @@
 # Sources — The First World War — causes
 
-countries: Ethiopia, Turkey, Costa Rica, Australia, Kuwait, Nepal, Montenegro, Dominican Republic, Pakistan, Cambodia, Colombia, Mauritania, South Sudan, Libya, Mongolia, Samoa, Iraq
+countries: Ethiopia, Turkey, Costa Rica, Australia, Kuwait, Nepal, Montenegro, Dominican Republic, Pakistan, Cambodia, Colombia, Mauritania, South Sudan, Libya, Mongolia, Samoa, Iraq, Mozambique
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 133).
 
@@ -416,3 +416,26 @@ Iraq's own way (Book 8 — iq-g11 History of Europe and America, Modern and Cont
 **Acceptance count: taught in 17 countries (Ethiopia, Turkey, Costa Rica, Australia, Kuwait, Nepal, Montenegro, Dominican Republic, Pakistan, Cambodia, Colombia, Mauritania, South Sudan, Libya, Mongolia, Samoa, Iraq).**
 
 Searchable tags: Iraq, History expansion 2026-11-15, modern-world/the-first-world-war-causes
+
+## History expansion (2026-11-15) — Mozambique stocked
+
+**Book 2 — PESD I Mod 2 (student book, Portuguese)**
+- Title as printed: História — Módulo 2 (PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo)
+- Grade: PESD I 1º ciclo, grades 7–9 cycle (record grade Grade 7) (student/teacher: STUDENT)
+- Publisher: Ministério da Educação e Desenvolvimento Humano (MINEDH) / Instituto de Educação Aberta e à Distância (IEDA); year 2023; ISBN no ISBN printed
+- PDF pages: 217 (cover verified — slave-trade caravan image; byte size 8,739,689 matches books.json record; TSV + books.json records are the same book)
+- Verdict: COMPLETE
+- Tally: 38 placements — 18 to existing lessons, 20 NEW LESSON NEEDED
+- Mozambique's own way: A Marxist-framed world history: feudalism gives way to capitalism, expansion, revolutions and imperialism — with Mozambique and Africa woven in at every stage (Portuguese expansion, colonial plunder, monopoly companies, Africans in WWI), so world events are always read for what they did to Africa.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mozambique-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mozambique part — Lição 30: Formação das alianças e blocos militares e os primeiros conflitos entre as potências imperialistas — story beats: rival powers lock themselves into alliances and military blocs, fight the first imperialist clashes, and slide toward world war (History expansion, 2026-11-15; original placement slug: modern-world/the-first-world-war-causes) | Mozambique, *História — Módulo 2 (PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo)*, printed p. 169 |
+| Mozambique part — Lição 31: As causas da 1ª Guerra Mundial — story beats: imperialist economic competition hardens into rivalries until the powers choose war — the causes of the First World War laid out (History expansion, 2026-11-15; original placement slug: modern-world/the-first-world-war-causes) | Mozambique, *História — Módulo 2 (PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo)*, printed p. 174 |
+
+Mozambique's own way (Book 2 — PESD I Mod 2 (student book, Portuguese)): A Marxist-framed world history: feudalism gives way to capitalism, expansion, revolutions and imperialism — with Mozambique and Africa woven in at every stage (Portuguese expansion, colonial plunder, monopoly companies, Africans in WWI), so world events are always read for what they did to Africa. That way is stocked here as the way Mozambique teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 18 countries (Ethiopia, Turkey, Costa Rica, Australia, Kuwait, Nepal, Montenegro, Dominican Republic, Pakistan, Cambodia, Colombia, Mauritania, South Sudan, Libya, Mongolia, Samoa, Iraq, Mozambique).**
+
+Searchable tags: Mozambique, History expansion 2026-11-15, modern-world/the-first-world-war-causes

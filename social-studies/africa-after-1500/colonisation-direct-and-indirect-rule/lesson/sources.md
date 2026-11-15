@@ -1,6 +1,6 @@
 # Sources — Colonisation — direct and indirect rule
 
-countries: Ethiopia, Angola, Gambia, Eritrea, South Sudan, Samoa
+countries: Ethiopia, Angola, Gambia, Eritrea, South Sudan, Samoa, Mozambique
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 5, placements 110–122).
 
@@ -143,3 +143,38 @@ Samoa's own way (Book 10 — y12-history (History, Year 12)): A full senior Hist
 **Acceptance count: taught in 6 countries (Ethiopia, Angola, Gambia, Eritrea, South Sudan, Samoa).**
 
 Searchable tags: Samoa, History expansion 2026-11-15, africa-after-1500/colonisation-direct-and-indirect-rule
+
+## History expansion (2026-11-15) — Mozambique stocked
+
+**Book 2 — PESD I Mod 2 (student book, Portuguese)**
+- Title as printed: História — Módulo 2 (PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo)
+- Grade: PESD I 1º ciclo, grades 7–9 cycle (record grade Grade 7) (student/teacher: STUDENT)
+- Publisher: Ministério da Educação e Desenvolvimento Humano (MINEDH) / Instituto de Educação Aberta e à Distância (IEDA); year 2023; ISBN no ISBN printed
+- PDF pages: 217 (cover verified — slave-trade caravan image; byte size 8,739,689 matches books.json record; TSV + books.json records are the same book)
+- Verdict: COMPLETE
+- Tally: 38 placements — 18 to existing lessons, 20 NEW LESSON NEEDED
+- Mozambique's own way: A Marxist-framed world history: feudalism gives way to capitalism, expansion, revolutions and imperialism — with Mozambique and Africa woven in at every stage (Portuguese expansion, colonial plunder, monopoly companies, Africans in WWI), so world events are always read for what they did to Africa.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mozambique-placements.md.
+
+**Book 6 — PESD II Mod 3 (student book, Portuguese)**
+- Title as printed: Módulo 3 de História — O Período de Dominação Colonial em África (PESD II, 2º Ciclo)
+- Grade: PESD II 2º ciclo, grades 10–12 cycle (record grade Grade 10) (student/teacher: STUDENT)
+- Publisher: Ministério da Educação / Instituto de Educação Aberta e à Distância – IEDA; year no year printed; ISBN no ISBN printed
+- PDF pages: 72 (cover verified against the record title; byte size 1,001,848 matches books.json record; TSV + books.json records are the same book)
+- Verdict: COMPLETE
+- Tally: 9 placements — 4 to existing lessons, 5 NEW LESSON NEEDED
+- Mozambique's own way: Colonial rule is dissected comparatively — French possessions and British territories each get their own lessons on structures and economies — before the module judges colonialism's political, economic and social consequences for Africa as a whole.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mozambique-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mozambique part — Lição 36: Estabelecimento do sistema colonial em África — story beats: after Berlin each power installs its own administration — by diplomacy and by military action — extinguishing the sovereignty of African states (History expansion, 2026-11-15; original placement slug: africa-after-1500/colonisation-direct-and-indirect-rule) | Mozambique, *História — Módulo 2 (PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo)*, printed p. 196 |
+| Mozambique part — Lição 6: Os territórios britânicos — story beats: Britain, with France the greatest colonial power, holds west, north-east, east, central and southern Africa — and rules them its own way (History expansion, 2026-11-15; original placement slug: africa-after-1500/colonisation-direct-and-indirect-rule) | Mozambique, *Módulo 3 de História — O Período de Dominação Colonial em África (PESD II, 2º Ciclo)*, printed p. 37 |
+
+Mozambique's own way (Book 2 — PESD I Mod 2 (student book, Portuguese)): A Marxist-framed world history: feudalism gives way to capitalism, expansion, revolutions and imperialism — with Mozambique and Africa woven in at every stage (Portuguese expansion, colonial plunder, monopoly companies, Africans in WWI), so world events are always read for what they did to Africa. That way is stocked here as the way Mozambique teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Mozambique's own way (Book 6 — PESD II Mod 3 (student book, Portuguese)): Colonial rule is dissected comparatively — French possessions and British territories each get their own lessons on structures and economies — before the module judges colonialism's political, economic and social consequences for Africa as a whole. That way is stocked here as the way Mozambique teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 7 countries (Ethiopia, Angola, Gambia, Eritrea, South Sudan, Samoa, Mozambique).**
+
+Searchable tags: Mozambique, History expansion 2026-11-15, africa-after-1500/colonisation-direct-and-indirect-rule

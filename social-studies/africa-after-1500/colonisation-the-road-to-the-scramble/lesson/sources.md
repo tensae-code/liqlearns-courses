@@ -1,6 +1,6 @@
 # Sources — Colonisation — the road to the Scramble
 
-countries: Ethiopia, Rwanda, Eritrea, Dominican Republic, Mauritania, South Sudan, Libya
+countries: Ethiopia, Rwanda, Eritrea, Dominican Republic, Mauritania, South Sudan, Libya, Mozambique
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 5, placements 110–122).
 
@@ -171,3 +171,25 @@ South Sudan's own way (Book 15 — P8 Social Studies Pupil's Book (student book,
 Libya's own way (Book 3 — G12 Modern & Contemporary Arab World (student book, Humanities, Arabic)): modern history is told as one Arab struggle — Ottoman decline, Europe's rise told fairly (Renaissance, revolutions, industry), colonial partition, then each Arab people's national struggle country by country, Libya's war against Italy among them, ending with Palestine as the open wound. That way is stocked here as the way Libya teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 7 countries (Ethiopia, Rwanda, Eritrea, Dominican Republic, Mauritania, South Sudan, Libya).**
+
+## History expansion (2026-11-15) — Mozambique stocked
+
+**Book 5 — PESD II Mod 2 (student book, Portuguese)**
+- Title as printed: Módulo 2 de História — A Invasão do Continente Africano (PESD II, 2º Ciclo)
+- Grade: PESD II 2º ciclo, grades 10–12 cycle (record grade Grade 10) (student/teacher: STUDENT)
+- Publisher: Ministério da Educação e Cultura / Instituto Nacional de Desenvolvimento da Educação – INDE; year no year printed; ISBN no ISBN printed
+- PDF pages: 108 (cover verified against the record title; byte size 1,616,480 matches books.json record; TSV + books.json records are the same book)
+- Verdict: COMPLETE
+- Tally: 14 placements — 6 to existing lessons, 8 NEW LESSON NEEDED
+- Mozambique's own way: The Scramble is taught from the receiving end and at length: half the module is African resistance — its ideology, and region-by-region case studies (North, East, Central and Southern Africa) — so conquest is never told as an African non-event.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mozambique-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mozambique part — Lição 1: África diante do desafio colonial — story beats: after studying how history-writing evolved, the focus turns to Africa itself facing the colonial challenge and the domination to come (History expansion, 2026-11-15; original placement slug: africa-after-1500/colonisation-the-road-to-the-scramble) | Mozambique, *Módulo 2 de História — A Invasão do Continente Africano (PESD II, 2º Ciclo)*, printed p. 7 |
+
+Mozambique's own way (Book 5 — PESD II Mod 2 (student book, Portuguese)): The Scramble is taught from the receiving end and at length: half the module is African resistance — its ideology, and region-by-region case studies (North, East, Central and Southern Africa) — so conquest is never told as an African non-event. That way is stocked here as the way Mozambique teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 8 countries (Ethiopia, Rwanda, Eritrea, Dominican Republic, Mauritania, South Sudan, Libya, Mozambique).**
+
+Searchable tags: Mozambique, History expansion 2026-11-15, africa-after-1500/colonisation-the-road-to-the-scramble

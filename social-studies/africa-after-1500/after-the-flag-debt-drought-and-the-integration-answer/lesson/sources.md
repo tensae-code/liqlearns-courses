@@ -1,6 +1,6 @@
 # Sources — After the flag — debt, drought and the integration answer
 
-countries: Ethiopia, Gambia, South Sudan
+countries: Ethiopia, Gambia, South Sudan, Mozambique
 
 **Book 1:** *History, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN 978-99990-0-065-9. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g10-student-placements.md
 
@@ -112,3 +112,26 @@ South Sudan's own way (Book 19 — S2 History Student's Book (student book, Engl
 South Sudan's own way (Book 23 — S4 History Student's Book (student book, English)): The final year is entirely world and African history beyond South Sudan — USA, Russia, Latin America, the Middle East, China and Japan — taught from primary sources (Lincoln's 1854 and 1858 speeches open the book) and ending where S1 ended, with the OAU and AU. That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 3 countries (Ethiopia, Gambia, South Sudan).**
+
+## History expansion (2026-11-15) — Mozambique stocked
+
+**Book 7 — PESD II Mod 4 (student book, Portuguese)**
+- Title as printed: Módulo 4 de História — O Nacionalismo Africano (PESD II, 2º Ciclo)
+- Grade: PESD II 2º ciclo, grades 10–12 cycle (record grade Grade 10) (student/teacher: STUDENT)
+- Publisher: Ministério da Educação e Desenvolvimento Humano / Instituto de Educação Aberta e à Distância – IEDA; year no year printed; ISBN no ISBN printed
+- PDF pages: 145 (cover verified against the record title; byte size 2,879,295 matches books.json record; TSV + books.json records are the same book)
+- Verdict: COMPLETE
+- Tally: 16 placements — 4 to existing lessons, 12 NEW LESSON NEEDED
+- Mozambique's own way: Decolonisation is taught comparatively, empire by empire — British, French, Belgian and British-Central-African roads to independence each get full lessons (Ghana and the Congo as case studies, Lumumba named) — and the story continues past the flags into the OAU→AU passage and SADC integration in Mozambique's own region.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mozambique-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mozambique part — Lição 15: Integração económica de África (SADCC) — story beats: common strategies are proposed for Africa's economic problems; in Mozambique's own southern region the SADCC is created to coordinate them (History expansion, 2026-11-15; original placement slug: africa-after-1500/after-the-flag-debt-drought-and-the-integration-answer) | Mozambique, *Módulo 4 de História — O Nacionalismo Africano (PESD II, 2º Ciclo)*, printed p. 110 |
+| Mozambique part — Lição 16: Integração económica de África (SADC) — story beats: Namibia's 1990 independence and South Africa's transformation outdate the SADCC; it is refounded as SADC to meet the new reality (History expansion, 2026-11-15; original placement slug: africa-after-1500/after-the-flag-debt-drought-and-the-integration-answer) | Mozambique, *Módulo 4 de História — O Nacionalismo Africano (PESD II, 2º Ciclo)*, printed p. 117 |
+
+Mozambique's own way (Book 7 — PESD II Mod 4 (student book, Portuguese)): Decolonisation is taught comparatively, empire by empire — British, French, Belgian and British-Central-African roads to independence each get full lessons (Ghana and the Congo as case studies, Lumumba named) — and the story continues past the flags into the OAU→AU passage and SADC integration in Mozambique's own region. That way is stocked here as the way Mozambique teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 4 countries (Ethiopia, Gambia, South Sudan, Mozambique).**
+
+Searchable tags: Mozambique, History expansion 2026-11-15, africa-after-1500/after-the-flag-debt-drought-and-the-integration-answer

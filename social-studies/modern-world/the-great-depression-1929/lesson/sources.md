@@ -1,6 +1,6 @@
 # Sources — The Great Depression — 1929 and the world it broke
 
-countries: Ethiopia, United States, Costa Rica, Australia, Indonesia, United Kingdom, Suriname, Cambodia, Colombia, Mauritania, Samoa, Iraq
+countries: Ethiopia, United States, Costa Rica, Australia, Indonesia, United Kingdom, Suriname, Cambodia, Colombia, Mauritania, Samoa, Iraq, Mozambique
 
 **Book 1:** *History, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN 978-99990-0-065-9. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g10-student-placements.md
 
@@ -330,3 +330,25 @@ Iraq's own way (Book 8 — iq-g11 History of Europe and America, Modern and Cont
 **Acceptance count: taught in 12 countries (Ethiopia, United States, Costa Rica, Australia, Indonesia, United Kingdom, Suriname, Cambodia, Colombia, Mauritania, Samoa, Iraq).**
 
 Searchable tags: Iraq, History expansion 2026-11-15, modern-world/the-great-depression-1929
+
+## History expansion (2026-11-15) — Mozambique stocked
+
+**Book 3 — PESD I Mod 3 (student book, Portuguese)**
+- Title as printed: História — Módulo 3 (PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo)
+- Grade: PESD I 1º ciclo, grades 7–9 cycle (record grade Grade 7) (student/teacher: STUDENT)
+- Publisher: Ministério da Educação e Desenvolvimento Humano (MINEDH) / Instituto de Educação Aberta e à Distância (IEDA); year 2023; ISBN no ISBN printed
+- PDF pages: 124 (cover verified; byte size 6,254,885 matches books.json record; TSV + books.json records are the same book)
+- Verdict: COMPLETE
+- Tally: 22 placements — 7 to existing lessons, 15 NEW LESSON NEEDED
+- Mozambique's own way: The 20th century is taught as the road to Mozambican freedom: world wars, fascism and the Cold War are each followed home — Salazar's Estado Novo in the colonies, the first nationalist stirrings, FRELIMO's founding, the armed struggle, independence in 1975, and finally the 1990 Constitution and the Rome peace that ended the 16-year war.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mozambique-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mozambique part — Lição 3: A crise económica mundial de 1929 a 1933 — story beats: overproduction in the USA bursts into the 1929 crash; bankruptcies spread until the crisis grips the whole world, Mozambique included (History expansion, 2026-11-15; original placement slug: modern-world/the-great-depression-1929) | Mozambique, *História — Módulo 3 (PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo)*, printed p. 24 |
+
+Mozambique's own way (Book 3 — PESD I Mod 3 (student book, Portuguese)): The 20th century is taught as the road to Mozambican freedom: world wars, fascism and the Cold War are each followed home — Salazar's Estado Novo in the colonies, the first nationalist stirrings, FRELIMO's founding, the armed struggle, independence in 1975, and finally the 1990 Constitution and the Rome peace that ended the 16-year war. That way is stocked here as the way Mozambique teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 13 countries (Ethiopia, United States, Costa Rica, Australia, Indonesia, United Kingdom, Suriname, Cambodia, Colombia, Mauritania, Samoa, Iraq, Mozambique).**
+
+Searchable tags: Mozambique, History expansion 2026-11-15, modern-world/the-great-depression-1929

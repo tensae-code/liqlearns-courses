@@ -1,6 +1,6 @@
 # Sources — From stone tools to farming — the Neolithic Revolution
 
-countries: Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus, Fiji, Dominican Republic, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, South Sudan, Libya, Mongolia, Iraq, Uganda
+countries: Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus, Fiji, Dominican Republic, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, South Sudan, Libya, Mongolia, Iraq, Uganda, Mozambique
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -743,3 +743,26 @@ Uganda's own way (Book 8 — uganda-s1-teachers-guide-history-political-ed (teac
 **Acceptance count: taught in 28 countries (Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus, Fiji, Dominican Republic, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, South Sudan, Libya, Mongolia, Iraq, Uganda).**
 
 Searchable tags: Uganda, History expansion 2026-11-15, africa-to-1500/from-stone-tools-to-farming
+
+## History expansion (2026-11-15) — Mozambique stocked
+
+**Book 1 — PESD I Mod 1 (student book, Portuguese)**
+- Title as printed: História — Módulo 1 (PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo)
+- Grade: PESD I 1º ciclo, grades 7–9 cycle (record grade Grade 7) (student/teacher: STUDENT)
+- Publisher: Ministério da Educação e Desenvolvimento Humano (MINEDH) / Instituto de Educação Aberta e à Distância (IEDA); year 2023; ISBN no ISBN printed
+- PDF pages: 142 (cover/title page verified against the record title; byte size 9,886,469 matches books.json record; TSV + books.json records are the same book)
+- Verdict: COMPLETE
+- Tally: 26 placements — 16 to existing lessons, 10 NEW LESSON NEEDED
+- Mozambique's own way: Self-study distance module: history opens with method (what history is, sources, heritage sites — incl. Mozambican sites such as Nwadjahane, birthplace of Eduardo Mondlane), then human origins in Africa, then the world's first states, and only then Mozambique's own Khoisan and Bantu past and the Shona states — the national story is reached through the African story.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mozambique-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mozambique part — Lição 11: A evolução da vida económica, social e espiritual dos homens em África — story beats: from gathering what nature gives to making tools, organising society and creating art and beliefs — early Africans build an economic and spiritual life (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Mozambique, *História — Módulo 1 (PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo)*, printed p. 60 |
+| Mozambique part — Lição 12: O surgimento da agricultura e a domesticação dos animais — story beats: people stop wandering, plant crops and tame animals, settle in one place and eat better — the farming turn that ends nomad life (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Mozambique, *História — Módulo 1 (PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo)*, printed p. 67 |
+
+Mozambique's own way (Book 1 — PESD I Mod 1 (student book, Portuguese)): Self-study distance module: history opens with method (what history is, sources, heritage sites — incl. Mozambican sites such as Nwadjahane, birthplace of Eduardo Mondlane), then human origins in Africa, then the world's first states, and only then Mozambique's own Khoisan and Bantu past and the Shona states — the national story is reached through the African story. That way is stocked here as the way Mozambique teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 29 countries (Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus, Fiji, Dominican Republic, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, South Sudan, Libya, Mongolia, Iraq, Uganda, Mozambique).**
+
+Searchable tags: Mozambique, History expansion 2026-11-15, africa-to-1500/from-stone-tools-to-farming

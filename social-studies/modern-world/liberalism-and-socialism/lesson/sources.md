@@ -1,6 +1,6 @@
 # Sources — Liberalism and socialism
 
-countries: Iceland, Dominican Republic, Cambodia
+countries: Iceland, Dominican Republic, Cambodia, Mozambique
 
 **Book (Iceland):** *Lýðræði og tækni — Saga 19. aldar, Kennsluleiðbeiningar (Democracy and Technology — History of the 19th Century)* (teacher guide, Icelandic) — Iceland. Title as printed: Lýðræði og tækni — Saga 19. aldar, Kennsluleiðbeiningar (Democracy and Technology — History of the 19th Century). Grade: Grade 8 (student/teacher: TEACHER). Publisher: Námsgagnastofnun, Kópavogi; year 2014 (Icelandic translation/adaptation of Matriks 8 Historie, Aschehaug 2006); ISBN no ISBN printed. PDF pages: 63 (cover verified against the record title). Verdict: COMPLETE. Tally: 21 placements — 11 to existing lessons, 10 NEW LESSON NEEDED. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-history-2026-11-15/iceland-placements.md.
 
@@ -59,3 +59,25 @@ Cambodia's own way (Book 11 — សិក្សាសង្គម ថ្នា�
 **Acceptance count: taught in 2 countries (Iceland, Dominican Republic, Cambodia).**
 
 Searchable tags: Cambodia, Liberalism and socialism, modern-world, History expansion 2026-11-15
+
+## History expansion (2026-11-15) — Mozambique stocked
+
+**Book 2 — PESD I Mod 2 (student book, Portuguese)**
+- Title as printed: História — Módulo 2 (PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo)
+- Grade: PESD I 1º ciclo, grades 7–9 cycle (record grade Grade 7) (student/teacher: STUDENT)
+- Publisher: Ministério da Educação e Desenvolvimento Humano (MINEDH) / Instituto de Educação Aberta e à Distância (IEDA); year 2023; ISBN no ISBN printed
+- PDF pages: 217 (cover verified — slave-trade caravan image; byte size 8,739,689 matches books.json record; TSV + books.json records are the same book)
+- Verdict: COMPLETE
+- Tally: 38 placements — 18 to existing lessons, 20 NEW LESSON NEEDED
+- Mozambique's own way: A Marxist-framed world history: feudalism gives way to capitalism, expansion, revolutions and imperialism — with Mozambique and Africa woven in at every stage (Portuguese expansion, colonial plunder, monopoly companies, Africans in WWI), so world events are always read for what they did to Africa.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mozambique-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mozambique part — Lição 20: O surgimento das teorias socialistas — story beats: thinkers respond to the clash between workers and factory owners with socialist theories meant to wake consciences and ease workers' suffering (History expansion, 2026-11-15; original placement slug: modern-world/the-rise-of-socialist-theories) | Mozambique, *História — Módulo 2 (PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo)*, printed p. 117 |
+
+Mozambique's own way (Book 2 — PESD I Mod 2 (student book, Portuguese)): A Marxist-framed world history: feudalism gives way to capitalism, expansion, revolutions and imperialism — with Mozambique and Africa woven in at every stage (Portuguese expansion, colonial plunder, monopoly companies, Africans in WWI), so world events are always read for what they did to Africa. That way is stocked here as the way Mozambique teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 3 countries (Dominican Republic, Cambodia, Mozambique).** Iceland is named here as teacher-guide evidence only, counted nowhere.
+
+Searchable tags: Mozambique, History expansion 2026-11-15, modern-world/liberalism-and-socialism

@@ -1,6 +1,6 @@
 # Sources — The Non-Aligned Movement
 
-countries: Mauritania, South Sudan
+countries: Mauritania, South Sudan, Mozambique
 
 **Book 7 — mr-g10 (History, 4th preparatory year (student book, Arabic))**
 - Title as printed: كتاب التاريخ السنة الرابعة الإعدادية (History Book, Fourth Preparatory Year)
@@ -42,3 +42,25 @@ Searchable tags: Mauritania, The Non-Aligned Movement, modern-world, History exp
 South Sudan's own way (Book 19 — S2 History Student's Book (student book, English)): World history (French Revolution to Cold War) is the frame, but the centre of the book is a source-based Unit 4 on South Sudan's own 20th century — condominium separation policy, Juba 1947, Anya-Nya, Addis Ababa and the SPLM/A, told with named southern actors like Clement Mboro, Joseph Lagu, Akuot Atem and John Garang. That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 2 countries (Mauritania, South Sudan).**
+
+## History expansion (2026-11-15) — Mozambique stocked
+
+**Book 3 — PESD I Mod 3 (student book, Portuguese)**
+- Title as printed: História — Módulo 3 (PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo)
+- Grade: PESD I 1º ciclo, grades 7–9 cycle (record grade Grade 7) (student/teacher: STUDENT)
+- Publisher: Ministério da Educação e Desenvolvimento Humano (MINEDH) / Instituto de Educação Aberta e à Distância (IEDA); year 2023; ISBN no ISBN printed
+- PDF pages: 124 (cover verified; byte size 6,254,885 matches books.json record; TSV + books.json records are the same book)
+- Verdict: COMPLETE
+- Tally: 22 placements — 7 to existing lessons, 15 NEW LESSON NEEDED
+- Mozambique's own way: The 20th century is taught as the road to Mozambican freedom: world wars, fascism and the Cold War are each followed home — Salazar's Estado Novo in the colonies, the first nationalist stirrings, FRELIMO's founding, the armed struggle, independence in 1975, and finally the 1990 Constitution and the Rome peace that ended the 16-year war.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mozambique-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mozambique part — Lição 18: Os países do Terceiro Mundo e o Movimento dos Países Não Alinhados — story beats: poor countries refuse to line up behind either superpower bloc and organise as the Non-Aligned Movement — a third position in a two-bloc world (History expansion, 2026-11-15; original placement slug: modern-world/the-third-world-and-the-non-aligned-movement) | Mozambique, *História — Módulo 3 (PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo)*, printed p. 93 |
+
+Mozambique's own way (Book 3 — PESD I Mod 3 (student book, Portuguese)): The 20th century is taught as the road to Mozambican freedom: world wars, fascism and the Cold War are each followed home — Salazar's Estado Novo in the colonies, the first nationalist stirrings, FRELIMO's founding, the armed struggle, independence in 1975, and finally the 1990 Constitution and the Rome peace that ended the 16-year war. That way is stocked here as the way Mozambique teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 3 countries (Mauritania, South Sudan, Mozambique).**
+
+Searchable tags: Mozambique, History expansion 2026-11-15, modern-world/the-non-aligned-movement

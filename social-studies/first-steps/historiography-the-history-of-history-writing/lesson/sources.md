@@ -1,6 +1,6 @@
 # Sources — Historiography — history of history-writing
 
-countries: Ethiopia, Gambia, Bangladesh, Ecuador, Indonesia, Dominican Republic, United Kingdom, Bolivia, Iran, Palestine, Colombia, Samoa
+countries: Ethiopia, Gambia, Bangladesh, Ecuador, Indonesia, Dominican Republic, United Kingdom, Bolivia, Iran, Palestine, Colombia, Samoa, Mozambique
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -315,3 +315,32 @@ Samoa's own way (Book 10 — y12-history (History, Year 12)): A full senior Hist
 **Acceptance count: taught in 12 countries (Ethiopia, Gambia, Bangladesh, Ecuador, Indonesia, Dominican Republic, United Kingdom, Bolivia, Iran, Palestine, Colombia, Samoa).**
 
 Searchable tags: Samoa, History expansion 2026-11-15, first-steps/historiography-the-history-of-history-writing
+
+## History expansion (2026-11-15) — Mozambique stocked
+
+**Book 4 — PESD II Mod 1 (student book, Portuguese)**
+- Title as printed: Módulo 1 de História — Introdução à História (PESD II, 2º Ciclo)
+- Grade: PESD II 2º ciclo, grades 10–12 cycle (record grade Grade 10; module text addresses the 11ª classe learner) (student/teacher: STUDENT)
+- Publisher: Ministério da Educação e Desenvolvimento Humano / Instituto de Educação Aberta e à Distância – IEDA; year no year printed; ISBN no ISBN printed
+- PDF pages: 112 (cover verified against the record title; byte size 876,925 matches books.json record; TSV + books.json records are the same book)
+- Verdict: COMPLETE
+- Tally: 15 placements — 12 to existing lessons, 3 NEW LESSON NEEDED
+- Mozambique's own way: The second cycle opens not with events but with historiography itself — a full module on how history-writing evolved from Greece to the Annales school, ending with African historiography and its special problems (scarce sources, chronology, myth), training learners to ask how any history was made.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mozambique-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mozambique part — Lição 2: Historiografia grego-romana — story beats: Greece is named the birthplace of history because the Greeks first treated the past scientifically, unlike the older literary traditions (History expansion, 2026-11-15; original placement slug: first-steps/historiography-the-history-of-history-writing) | Mozambique, *Módulo 1 de História — Introdução à História (PESD II, 2º Ciclo)*, printed p. 11 |
+| Mozambique part — Lição 3: A historiografia cristã antiga — story beats: a birth in Bethlehem becomes the hinge of the calendar; early Christian writing reframes all history around Christ (History expansion, 2026-11-15; original placement slug: first-steps/historiography-the-history-of-history-writing) | Mozambique, *Módulo 1 de História — Introdução à História (PESD II, 2º Ciclo)*, printed p. 17 |
+| Mozambique part — Lição 4: A historiografia medieval — story beats: Christianity reshapes medieval thought, and history-writing becomes providential — events read as God's plan unfolding (History expansion, 2026-11-15; original placement slug: first-steps/historiography-the-history-of-history-writing) | Mozambique, *Módulo 1 de História — Introdução à História (PESD II, 2º Ciclo)*, printed p. 25 |
+| Mozambique part — Lição 5: A História nos séculos XV e XVI — story beats: the Renaissance renews culture and history-writing with it; progress made in the 15th–16th centuries is carried into the Enlightenment (History expansion, 2026-11-15; original placement slug: first-steps/historiography-the-history-of-history-writing) | Mozambique, *Módulo 1 de História — Introdução à História (PESD II, 2º Ciclo)*, printed p. 30 |
+| Mozambique part — Lição 6: A historiografia racionalista — story beats: after a thousand medieval years, Enlightenment reason produces a new rationalist way of writing history in the 18th century (History expansion, 2026-11-15; original placement slug: first-steps/historiography-the-history-of-history-writing) | Mozambique, *Módulo 1 de História — Introdução à História (PESD II, 2º Ciclo)*, printed p. 37 |
+| Mozambique part — Lição 7: A historiografia na primeira metade do século XIX — story beats: the French Revolution and the Industrial Revolution shake political, economic and intellectual life, and 19th-century history-writing changes with them (History expansion, 2026-11-15; original placement slug: first-steps/historiography-the-history-of-history-writing) | Mozambique, *Módulo 1 de História — Introdução à História (PESD II, 2º Ciclo)*, printed p. 43 |
+| Mozambique part — Lição 8: A historiografia na segunda metade do século XIX — story beats: revolutionary euphoria cools into serene rationality; Positivism, Historicism and Scientific Socialism compete to explain the past (History expansion, 2026-11-15; original placement slug: first-steps/historiography-the-history-of-history-writing) | Mozambique, *Módulo 1 de História — Introdução à História (PESD II, 2º Ciclo)*, printed p. 49 |
+| Mozambique part — Lição 9: A História no século XX — story beats: history enters the 20th century in crisis; the Annales journal's campaign rescues it and the New History is institutionalised in the 1940s–50s (History expansion, 2026-11-15; original placement slug: first-steps/historiography-the-history-of-history-writing) | Mozambique, *Módulo 1 de História — Introdução à História (PESD II, 2º Ciclo)*, printed p. 57 |
+
+Mozambique's own way (Book 4 — PESD II Mod 1 (student book, Portuguese)): The second cycle opens not with events but with historiography itself — a full module on how history-writing evolved from Greece to the Annales school, ending with African historiography and its special problems (scarce sources, chronology, myth), training learners to ask how any history was made. That way is stocked here as the way Mozambique teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 13 countries (Ethiopia, Gambia, Bangladesh, Ecuador, Indonesia, Dominican Republic, United Kingdom, Bolivia, Iran, Palestine, Colombia, Samoa, Mozambique).**
+
+Searchable tags: Mozambique, History expansion 2026-11-15, first-steps/historiography-the-history-of-history-writing

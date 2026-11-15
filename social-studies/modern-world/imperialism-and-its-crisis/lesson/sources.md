@@ -1,6 +1,6 @@
 # Sources — Imperialism and its crisis
 
-countries: Brazil, Dominican Republic, Iraq
+countries: Brazil, Dominican Republic, Iraq, Mozambique
 
 **Book 1:** *História — Livro Didático Público — Ensino Médio* (student book, Portuguese) — brazil-historia-seed-pr. Title as printed: História — Livro Didático Público — Ensino Médio. Grade: Grade 10 / Ensino Médio (student/teacher: STUDENT). Publisher: Secretaria de Estado da Educação do Paraná (SEED-PR), Curitiba; year 2006 (2nd edition); ISBN 85-85380-36-5. PDF pages: 400 (cover/credits page verified against the record title). Verdict: COMPLETE. Records: 1 record / 1 distinct book / TSV release record grabbed via grab.py (url route, mid-size-books release), verified by pdfinfo + cover/credits render, read page by page with pdftotext -layout (full table of contents and chapter structure read; the book is a thematic public textbook written by Paraná state school teachers). Placements at liqlearns-courses-work/expansion-history-2026-11-15/brazil-placements.md.
 
@@ -52,3 +52,27 @@ Iraq's own way (Book 8 — iq-g11 History of Europe and America, Modern and Cont
 **Acceptance count: taught in 3 countries (Brazil, Dominican Republic, Iraq).**
 
 Searchable tags: Iraq, History expansion 2026-11-15, modern-world/imperialism-and-its-crisis
+
+## History expansion (2026-11-15) — Mozambique stocked
+
+**Book 2 — PESD I Mod 2 (student book, Portuguese)**
+- Title as printed: História — Módulo 2 (PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo)
+- Grade: PESD I 1º ciclo, grades 7–9 cycle (record grade Grade 7) (student/teacher: STUDENT)
+- Publisher: Ministério da Educação e Desenvolvimento Humano (MINEDH) / Instituto de Educação Aberta e à Distância (IEDA); year 2023; ISBN no ISBN printed
+- PDF pages: 217 (cover verified — slave-trade caravan image; byte size 8,739,689 matches books.json record; TSV + books.json records are the same book)
+- Verdict: COMPLETE
+- Tally: 38 placements — 18 to existing lessons, 20 NEW LESSON NEEDED
+- Mozambique's own way: A Marxist-framed world history: feudalism gives way to capitalism, expansion, revolutions and imperialism — with Mozambique and Africa woven in at every stage (Portuguese expansion, colonial plunder, monopoly companies, Africans in WWI), so world events are always read for what they did to Africa.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/mozambique-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mozambique part — Lição 24: O imperialismo e a política imperialista — story beats: around the mid-19th century free-competition capitalism mutates into monopoly capitalism — imperialism — and a new policy of domination follows (History expansion, 2026-11-15; original placement slug: modern-world/imperialism-and-imperialist-policy) | Mozambique, *História — Módulo 2 (PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo)*, printed p. 136 |
+| Mozambique part — Lição 25: Do capitalismo de livre concorrência ao capitalismo monopolista (imperialismo) — story beats: industry concentrates into monopolies; the concentrated capital creates imperialist powers that dispute and dominate the world (History expansion, 2026-11-15; original placement slug: modern-world/from-free-competition-to-monopoly-capitalism) | Mozambique, *História — Módulo 2 (PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo)*, printed p. 140 |
+| Mozambique part — Lição 26: O capitalismo e a expansão imperialista — story beats: monopoly capital needs outlets; capitalist expansion drives outward into colonies, markets and raw materials across the globe (History expansion, 2026-11-15; original placement slug: modern-world/capitalism-and-imperialist-expansion) | Mozambique, *História — Módulo 2 (PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo)*, printed p. 145 |
+
+Mozambique's own way (Book 2 — PESD I Mod 2 (student book, Portuguese)): A Marxist-framed world history: feudalism gives way to capitalism, expansion, revolutions and imperialism — with Mozambique and Africa woven in at every stage (Portuguese expansion, colonial plunder, monopoly companies, Africans in WWI), so world events are always read for what they did to Africa. That way is stocked here as the way Mozambique teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 4 countries (Brazil, Dominican Republic, Iraq, Mozambique).**
+
+Searchable tags: Mozambique, History expansion 2026-11-15, modern-world/imperialism-and-its-crisis

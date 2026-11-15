@@ -1,0 +1,7 @@
+# Video script — Mozambique's slave-trade cycle
+
+The super-simple voice, for the video that rides on top of the lesson (lesson-plan.md, add-on list). Story-style: the story told as Mozambique's own books tell it. Made later, when videos are made; the script is the slot's written form until then.
+
+---
+
+After three centuries of trading Mozambique's products, from the mid-18th century the merchants traffic the producer himself — Mozambicans captured, sold and stripped of all rights.
