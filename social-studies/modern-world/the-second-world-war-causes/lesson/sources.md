@@ -1,6 +1,6 @@
 # Sources — The Second World War — causes
 
-countries: Ethiopia, Turkey, Costa Rica, Australia, Malaysia, Nepal
+countries: Ethiopia, Turkey, Costa Rica, Australia, Malaysia, Nepal, Fiji
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 136).
 
@@ -88,3 +88,19 @@ Non-History parts of this book, named in the placements, not placed here: Unit 1
 Nepal's own way (Samajik Adhyayan, Class 10, Grade 10): Grade 10 history is the modern political story told as one dated chain — the 2007 BS revolution and the Delhi Compromise, the democratic decade, the Panchayat years, the movements of 2046 and 2062/63 BS, the civil-war peace and the republic — followed by the two World Wars, each with Nepal's own role in it, and a closing fieldwork lesson on finding and preserving local historical sites. That way is stocked here as the way Nepal teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 6 countries (Ethiopia, Turkey, Costa Rica, Australia, Malaysia, Nepal).**
+
+---
+
+## History expansion (2026-11-15) — Fiji stocked
+
+**Book 7:** *Exploring the World — Year 8 Social Science Pupil's Book (cover page note in PDF: "Cover page is with -ERC"; title from contents/front matter)* (student book, English) — Fiji. Title as printed: Exploring the World — Year 8 Social Science Pupil's Book (cover page note in PDF: "Cover page is with -ERC"; title from contents/front matter). Grade: Year 8 (student/teacher: STUDENT). Publisher: Ministry of Education, Fiji / Curriculum Development Unit; year no year printed in front matter; ISBN no ISBN printed. PDF pages: 73 (contents page verified against the record title; printed cover absent from this PDF). Verdict: PARTIAL — printed cover page missing; all teaching content present. Tally: 5 placements — 2 to existing lessons, 3 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/fiji-placements.md.
+
+Non-History parts of this book, named in the placements, not placed here: Unit 1 world organisations' present roles, developed/developing countries (Civics/Geography, printed pp. 7-23 in part); Unit 3 climatic zones, global warming and pollution policy (Geography, pp. 37-51); Unit 4 resources, time and money, globalisation and aid (Economics/Geography, pp. 52-69)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji part — 2.2 Significant World Events: World War II and its causes — story beats: Japan, short of land and resources, invades Manchuria (1931) and China (1937); fascist dictators rise from WWI's turmoil seeking empires; the Great Depression destabilises governments — together they bring the 1939-1945 total war, the Holocaust and nuclear weapons (History expansion, 2026-11-15; original placement slug: modern-world/the-second-world-war-causes) | Fiji, *Exploring the World — Year 8 Social Science Pupil's Book (cover page note in PDF: "Cover page is with -ERC"; title from contents/front matter)*, printed p. 29 |
+
+Fiji's own way (Exploring the World — Year 8 Social Science Pupil's Book (cover page note in PDF: "Cover page is with -ERC"; title from contents/front matter), Year 8 (student/teacher: STUDENT)): the focus widens from Pacific to world — world organisations, world peoples, famous lives and major world events, always brought back to Fiji examples (leprosy on Makogai, Pacific Games first held in Suva). That way is stocked here as the way Fiji teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 7 countries (Ethiopia, Turkey, Costa Rica, Australia, Malaysia, Nepal, Fiji).**

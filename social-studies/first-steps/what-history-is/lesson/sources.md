@@ -1,6 +1,6 @@
 # Sources — What history is
 
-countries: Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal
+countries: Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -346,3 +346,40 @@ Non-History parts of this book, named in the placements, not placed here: Unit 1
 Nepal's own way (My Social Studies and Creative Arts, Grade 3, Grade 3): "Our Past" now reaches the nation: after neighbours' lives and jobs "before and now", the first national story is heroic — the Anglo-Nepalese War defenders and the unification begun by Prithvi Narayan Shah, ending with an explicit lesson on what the past teaches. That way is stocked here as the way Nepal teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 17 countries (Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal).**
+
+---
+
+## History expansion (2026-11-15) — Fiji stocked
+
+**Book 2:** *Social Studies Year 4* (student book, English) — Fiji. Title as printed: Social Studies Year 4. Grade: Year 4 (student/teacher: STUDENT). Publisher: Ministry of Education, Heritage & Arts, Fiji / Curriculum Development Unit; year re-edited 2017; ISBN no ISBN printed. PDF pages: 66 (cover/title page verified against the record title). Verdict: COMPLETE. Tally: 5 placements — 4 to existing lessons, 1 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/fiji-placements.md.
+
+Non-History parts of this book, named in the placements, not placed here: Strand 1 Social Organisation — Friends and Neighbours, communities (Civics/social, printed pp. 1-32 except cultural events below); Strand 3 Place and Environment — special places, weather (Geography, pp. 42-53); Strand 4 Resources — preserving water/forest/energy, people who help us (Geography/Economics, pp. 54-63)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji part — Strand 2, 2.1-2.4 Continuity, Change, Progress and Regress — story beats: time passes, some things stay (eating, planting, family) and some change (internet, buses, electricity); good change is called progress, harmful change regress (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Fiji, *Social Studies Year 4*, printed p. 33 |
+| Fiji part — 2.6 Studying the Past — story beats: a class studies an old photograph of policemen directing traffic, spots what has changed, and is told plainly: answering such questions about the past is history (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Fiji, *Social Studies Year 4*, printed p. 39 |
+
+Fiji's own way (Social Studies Year 4, Year 4 (student/teacher: STUDENT)): the Time strand widens from family to community — continuity vs change in the child's own village, then Fiji's national leaders researched by the child. That way is stocked here as the way Fiji teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 6:** *Year 7 Social Science Pupil's Book* (student book, English) — Fiji. Title as printed: Year 7 Social Science Pupil's Book. Grade: Year 7 (student/teacher: STUDENT). Publisher: Ministry of Education, Heritage & Arts, Fiji / Curriculum Development Unit; year Revised Edition 2021; ISBN no ISBN printed. PDF pages: 79 (copyright page p. 2 names the book exactly as the record; printed cover page absent from this PDF). Verdict: PARTIAL — printed cover page missing; all teaching content present. Tally: 6 placements — 2 to existing lessons, 4 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/fiji-placements.md.
+
+Non-History parts of this book, named in the placements, not placed here: Strand 1 cultural identity, families, climate preparedness (Civics/Science, printed pp. 4-27 in part); Strand 3 Features of Places, pollution and hazards (Geography, pp. 47-59); Strand 4 Resources of Pacific countries, people and work / migration (Geography/Economics, pp. 60-75)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji part — 2.1 What is History? Why is history important? — story beats: history is defined five ways — everything that happened, a bridge from past to future, the record historians prepare, understanding one's identity, the record of changing lives — and a cartoon is mined for evidence of history (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Fiji, *Year 7 Social Science Pupil's Book*, printed p. 29 |
+
+Fiji's own way (Year 7 Social Science Pupil's Book, Year 7 (student/teacher: STUDENT)): Year 7 places Fiji inside the Pacific — three peoples (Melanesian, Micronesian, Polynesian), Lapita evidence, then a country-by-country settlement-and-colonisation survey of its neighbours. That way is stocked here as the way Fiji teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 7:** *Exploring the World — Year 8 Social Science Pupil's Book (cover page note in PDF: "Cover page is with -ERC"; title from contents/front matter)* (student book, English) — Fiji. Title as printed: Exploring the World — Year 8 Social Science Pupil's Book (cover page note in PDF: "Cover page is with -ERC"; title from contents/front matter). Grade: Year 8 (student/teacher: STUDENT). Publisher: Ministry of Education, Fiji / Curriculum Development Unit; year no year printed in front matter; ISBN no ISBN printed. PDF pages: 73 (contents page verified against the record title; printed cover absent from this PDF). Verdict: PARTIAL — printed cover page missing; all teaching content present. Tally: 5 placements — 2 to existing lessons, 3 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/fiji-placements.md.
+
+Non-History parts of this book, named in the placements, not placed here: Unit 1 world organisations' present roles, developed/developing countries (Civics/Geography, printed pp. 7-23 in part); Unit 3 climatic zones, global warming and pollution policy (Geography, pp. 37-51); Unit 4 resources, time and money, globalisation and aid (Economics/Geography, pp. 52-69)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji part — 2.1 Understanding the Past: historians — story beats: people who study the past are historians; they tell us the important events that happened, starting here with the origins of the world's peoples and how they colonised and settled their lands (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Fiji, *Exploring the World — Year 8 Social Science Pupil's Book (cover page note in PDF: "Cover page is with -ERC"; title from contents/front matter)*, printed p. 25 |
+
+Fiji's own way (Exploring the World — Year 8 Social Science Pupil's Book (cover page note in PDF: "Cover page is with -ERC"; title from contents/front matter), Year 8 (student/teacher: STUDENT)): the focus widens from Pacific to world — world organisations, world peoples, famous lives and major world events, always brought back to Fiji examples (leprosy on Makogai, Pacific Games first held in Suva). That way is stocked here as the way Fiji teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 18 countries (Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji).**

@@ -2581,7 +2581,7 @@ Plants and Animals.
 
 ## History expansion totals
 
-History lessons across the History titles: **891**
+History lessons across the History titles: **926**
 (248 before the expansion; +1 for Guyana, 2026-11-15 —
 Modern World: Guyana — our nation: independence and
 symbols. All 3 Guyana placements stand on Guyana's
@@ -3766,3 +3766,37 @@ their original slugs recorded. Book 4 (Man. Society.
 State, Grade 9, Book 2) is filed record-only in the
 placements — a pure-Civics book and a partial scan —
 and is not placed.
+
++35 for Fiji, 2026-11-15 — The Ancient World:
+Fiji's first settlement — the iTaukei and the drua, The Lapita people and Pacific settlement; The Modern World:
+Fiji's presidents and prime ministers, Fiji — cession to Britain and colonial rule, Fiji — indentured Indians and blackbirding, Fiji's early Chinese settlers, Fiji before Christianity, Fiji's independence, 1970, Fiji — coups and constitutions, 1987 to 2014, Colonisation in the Pacific — New Zealand, Australia and the islands, United Nations agencies and their founders, Famous lives that shaped the world, Games that unite nations — Olympics, Commonwealth and Pacific Games, Fiji's great leaders — Sukuna, Mara and Patel, Fiji — sandalwood, beche-de-mer and the beachcombers, Fiji — missionaries, chiefs and conversion, Ma'afu, Cakobau and the Kingdom of Bau, Fiji — Gordon's native policy: land and chiefs, Pacific migrant communities in Fiji, Fiji — communities under colonial rule, 1875 to 1970, Fiji — protest and nationalism before independence, Fiji — multi-ethnic policy after independence, 1970 to 2010, Fiji — education: mission schools to integration, Fiji — sport from colonial days to independence, Rotuma — settlement, contact and the mission war, Rotuma — cession 1881 and war service, Fiji's elections and voting systems — 1972, 1977 and 2006, Fiji's political parties — their history, Fiji's legal system — from chiefs to courts, Fiji's diplomacy — the MSG and the nuclear-free Pacific, Fiji and New Zealand — a long, close relationship, Fiji and the two Chinas — chequebook diplomacy and Look North, Fiji and Australia — relations through the coups, Fiji and India — and the agreement for independence, Fiji and the European Union — sugar, aid and sanctions. All 87 Fiji placements are stocked (27 into
+10 existing lessons, 60 into the 35 new lessons) on
+24 placed books — the Years 3–10 Social Studies /
+Social Science student books, the Year 11 History
+units (Cultural Interaction Units 1–8 and Government
+and Governance Units 1–6), the Year 12 History book
+Diplomacy and Fiji, and Fiji's own shelving of the
+USP/UNESCO reader People and the Sea in the Pacific,
+Book 1 (Ministry of Education, Fiji / Curriculum
+Development Unit; University of the South Pacific /
+UNESCO). All placed books are student books, so Fiji
+counts normally everywhere it is stocked, with one
+exception: Heritage — what it is and why it matters,
+where Fiji was already counted from the Geography
+expansion, takes the 7 Fiji History placements as
+depth without raising its count. The Pacific
+voyaging and island exchange lesson, built for
+Nauru, Niue and Tuvalu from the same regional reader,
+takes Fiji as a fourth country, and the 3 Fiji
+placements naming it NEW LESSON NEEDED are stocked
+there instead of building a duplicate. No teacher
+guides or programmes are placed for Fiji. The
+existing lessons stocked rise with Fiji added:
+Find history in your own locality 12 → 13, From
+evidence to a written history 13 → 14, What history
+is 17 → 18, Dating the past 12 → 13, Exploration —
+causes and results 5 → 6, The Second World War —
+causes 6 → 7, The Industrial Revolution — what
+changed and why England first 6 → 7, From stone
+tools to farming 13 → 14, and Pacific voyaging and
+island exchange 3 → 4.

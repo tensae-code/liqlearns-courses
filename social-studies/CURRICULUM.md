@@ -11473,3 +11473,123 @@ acts (war-ruined Soviet republic, industrial Soviet
 republic, sovereign state) with timeline strips,
 document work and "Our Region" local-history lessons.
 History lessons: 835 → 891.
+
+## History expansion — Fiji — built 2026-11-15
+
+35 new lessons, 360 questions. **The Ancient World** +2:
+Fiji's first settlement — the iTaukei and the drua
+(ancient-world/fiji-first-settlement-itaukei-and-the-drua),
+The Lapita people and Pacific settlement
+(ancient-world/lapita-people-and-pacific-settlement),
+**The Modern World** +33:
+Fiji's presidents and prime ministers
+(modern-world/fiji-presidents-and-prime-ministers),
+Fiji — cession to Britain and colonial rule
+(modern-world/fiji-cession-to-britain-and-colonial-rule),
+Fiji — indentured Indians and blackbirding
+(modern-world/fiji-indentured-indians-and-blackbirding),
+Fiji's early Chinese settlers
+(modern-world/fiji-early-chinese-settlers),
+Fiji before Christianity
+(modern-world/fiji-before-christianity),
+Fiji's independence, 1970
+(modern-world/fiji-independence-1970),
+Fiji — coups and constitutions, 1987 to 2014
+(modern-world/fiji-coups-and-constitutions-1987-to-2014),
+Colonisation in the Pacific — New Zealand, Australia and the islands
+(modern-world/pacific-colonisation-new-zealand-australia-and-the-islands),
+United Nations agencies and their founders
+(modern-world/united-nations-agencies-and-their-founders),
+Famous lives that shaped the world
+(modern-world/famous-lives-that-shaped-the-world),
+Games that unite nations — Olympics, Commonwealth and Pacific Games
+(modern-world/games-that-unite-nations-olympics-commonwealth-pacific),
+Fiji's great leaders — Sukuna, Mara and Patel
+(modern-world/fiji-great-leaders-sukuna-mara-patel),
+Fiji — sandalwood, beche-de-mer and the beachcombers
+(modern-world/fiji-sandalwood-beche-de-mer-and-beachcombers),
+Fiji — missionaries, chiefs and conversion
+(modern-world/fiji-missionaries-chiefs-and-conversion),
+Ma'afu, Cakobau and the Kingdom of Bau
+(modern-world/fiji-maafu-cakobau-and-the-kingdom-of-bau),
+Fiji — Gordon's native policy: land and chiefs
+(modern-world/fiji-gordons-native-policy-land-and-chiefs),
+Pacific migrant communities in Fiji
+(modern-world/pacific-migrant-communities-in-fiji),
+Fiji — communities under colonial rule, 1875 to 1970
+(modern-world/fiji-colonial-ethnic-relations-1875-to-1970),
+Fiji — protest and nationalism before independence
+(modern-world/fiji-protest-and-nationalism-before-independence),
+Fiji — multi-ethnic policy after independence, 1970 to 2010
+(modern-world/fiji-multiethnic-policy-after-independence),
+Fiji — education: mission schools to integration
+(modern-world/fiji-education-mission-schools-to-integration),
+Fiji — sport from colonial days to independence
+(modern-world/fiji-sport-colonial-days-to-independence),
+Rotuma — settlement, contact and the mission war
+(modern-world/rotuma-settlement-contact-and-mission-war),
+Rotuma — cession 1881 and war service
+(modern-world/rotuma-cession-1881-and-war-service),
+Fiji's elections and voting systems — 1972, 1977 and 2006
+(modern-world/fiji-elections-and-voting-systems-history),
+Fiji's political parties — their history
+(modern-world/fiji-political-parties-history),
+Fiji's legal system — from chiefs to courts
+(modern-world/fiji-legal-system-from-chiefs-to-courts),
+Fiji's diplomacy — the MSG and the nuclear-free Pacific
+(modern-world/fiji-diplomacy-msg-and-the-nuclear-free-pacific),
+Fiji and New Zealand — a long, close relationship
+(modern-world/fiji-new-zealand-a-long-close-relationship),
+Fiji and the two Chinas — chequebook diplomacy and Look North
+(modern-world/fiji-and-the-two-chinas-chequebook-diplomacy-and-look-north),
+Fiji and Australia — relations through the coups
+(modern-world/fiji-australia-relations-through-the-coups),
+Fiji and India — and the agreement for independence
+(modern-world/fiji-india-and-the-agreement-for-independence),
+Fiji and the European Union — sugar, aid and sanctions
+(modern-world/fiji-and-the-european-union-sugar-aid-and-sanctions).
+All 87 Fiji placements are stocked (27 into 10
+existing lessons — Find history in your own locality
+2, Heritage — what it is and why it matters 7, From
+evidence to a written history 5, What history is 4,
+Pacific voyaging and island exchange 3, Exploration —
+causes and results 2, Dating the past 1, The Second
+World War — causes 1, From stone tools to farming 1,
+The Industrial Revolution — what changed and why
+England first 1 — and 60 into the 35 new lessons) on
+24 placed books: the Years 3–10 Social Studies /
+Social Science student books, the Year 11 History
+units (Cultural Interaction Units 1–8, Government
+and Governance Units 1–6), the Year 12 History book
+Diplomacy and Fiji (Curriculum Development Unit,
+Ministry of Education, Suva, 2015) and Fiji's own
+shelving of the USP/UNESCO ESD reader People and the
+Sea in the Pacific, Book 1. HONESTY: every placed
+book is a student book, so Fiji is added to the
+countries line and the acceptance count together in
+every lesson stocked from them; no teacher guides or
+programmes are placed for Fiji. One exception:
+Heritage — what it is and why it matters, where Fiji
+was already counted from the Geography expansion
+(its Year 9 book), takes its 7 History placements as
+depth and its count stays 27. The 3 placements
+naming ancient-world/pacific-voyaging-and-island-exchange
+NEW LESSON NEEDED are stocked into that existing
+lesson (built in the Nauru merge for the same
+regional reader) with their original slug recorded;
+Fiji there is a fourth country, counted normally as
+a student-book stocking from Fiji's own shelving of
+the reader. Fiji's own way is stocked inside the
+lessons: History begins with the child's own family
+tree (Year 3), widens to the village and the national
+leaders (Year 4), tells Fiji's arrival story group by
+group (Year 5), gives the whole national story as
+dated timelines with archive photographs (Year 6),
+places Fiji inside the Pacific (Year 7), widens to
+the world and brings it back to Fiji examples
+(Year 8), proceeds by periods and trades (Year 9),
+turns argument-driven (Year 10), and at Year 11–12
+becomes themed courses — Cultural Interaction and
+Integration, Government and Governance, and
+Diplomacy — worked largely from primary sources.
+History lessons: 891 → 926.

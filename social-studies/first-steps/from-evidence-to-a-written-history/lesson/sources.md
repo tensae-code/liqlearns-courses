@@ -1,6 +1,6 @@
 # Sources — From evidence to a written history
 
-countries: Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal
+countries: Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -391,3 +391,55 @@ Non-History parts of this book, named in the placements, not placed here: The gu
 Nepal's own way (Shikshak Nirdeshika, Social Studies, Class 10 (teacher's guide), Grade 10 (teacher guide)): Grade 10's "Our Past" unit is wholly modern — the political event-chain from the 2007 BS revolution to the present, the two World Wars with Nepal's role in each, and local heritage fieldwork — and the guide teaches it through timelines, event charts, photographs, video clips and documentary film. That way is stocked here as the way Nepal teaches this thing. This book is a teacher guide: its rows stand as teacher-guide evidence only, counted nowhere in acceptance. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 13 countries (Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal).**
+
+---
+
+## History expansion (2026-11-15) — Fiji stocked
+
+**Book 1:** *Social Studies Year 3 (Family Tree Pupils Book 3)* (student book, English) — Fiji. Title as printed: Social Studies Year 3 (Family Tree Pupils Book 3). Grade: Year 3 (student/teacher: STUDENT). Publisher: Ministry of Education, Heritage & Arts, Fiji / Curriculum Development Unit, with UNESCO Fiji Memory of the World Committee; year re-edited 2017; ISBN no ISBN printed. PDF pages: 64 (cover/title page verified against the record title). Verdict: COMPLETE. Tally: 4 placements — 4 to existing lessons, 0 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/fiji-placements.md.
+
+Non-History parts of this book, named in the placements, not placed here: Part One Lessons 1-3 My Family / Family Relationships / Family Roles (Social Organisation, Civics/social, printed pp. 5-23); Part Two Strand 3 Place and Environment — My Home, My School (Geography/Civics, pp. 36-49); Strand 4 Resources and Economic Activities — My Belongings, People and Work (Economics/Civics, pp. 50-61)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji part — Activity 3 My Cultural Heritage research questionnaire — story beats: a child questions parents and elders about their heritage and records the answers, turning family memory into evidence (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Fiji, *Social Studies Year 3 (Family Tree Pupils Book 3)*, printed p. 35 |
+
+Fiji's own way (Social Studies Year 3 (Family Tree Pupils Book 3), Year 3 (student/teacher: STUDENT)): History begins with the child's own family — Strand 2 "Time, Continuity and Change" is taught through a family-tree project, asking elders, and naming artefacts and totems, before any national story. That way is stocked here as the way Fiji teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 5:** *Year 6 Social Science Textbook (revised) (title from contents/front matter; PDF opens at the copyright page)* (student book, English) — Fiji. Title as printed: Year 6 Social Science Textbook (revised) (title from contents/front matter; PDF opens at the copyright page). Grade: Year 6 (student/teacher: STUDENT). Publisher: Ministry of Education, Fiji / Curriculum Development Unit; year revised, no year printed in front matter; ISBN no ISBN printed. PDF pages: 84 (contents page verified against the record title; printed cover page absent from this PDF). Verdict: PARTIAL — printed cover page missing; all teaching content present. Tally: 6 placements — 2 to existing lessons, 4 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/fiji-placements.md.
+
+Non-History parts of this book, named in the placements, not placed here: Strand 1 Local government, councils, iTaukei Affairs Board, community sectors (Civics, printed pp. 4-28); Strand 3 Mapping, environment, climate change, resources (Geography, pp. 43-68); Strand 4 People and Work, income and needs (Economics/Civics, pp. 69-80); Government Administration / importance of a constitution after the timelines (Civics, pp. 41-42)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji part — Independence photo sequence, National Archives of Fiji — story beats: children arrange captioned archive photographs of the 1970 independence ceremony in order and turn the evidence into a fifty-word written account (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Fiji, *Year 6 Social Science Textbook (revised) (title from contents/front matter; PDF opens at the copyright page)*, printed p. 36 |
+
+Fiji's own way (Year 6 Social Science Textbook (revised) (title from contents/front matter; PDF opens at the copyright page), Year 6 (student/teacher: STUDENT)): Fiji's whole history is given as dated timelines (pre-contact to 1874, 1874-1970, 1970-present) that the child reads as one national story, with archive photographs as evidence. That way is stocked here as the way Fiji teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 6:** *Year 7 Social Science Pupil's Book* (student book, English) — Fiji. Title as printed: Year 7 Social Science Pupil's Book. Grade: Year 7 (student/teacher: STUDENT). Publisher: Ministry of Education, Heritage & Arts, Fiji / Curriculum Development Unit; year Revised Edition 2021; ISBN no ISBN printed. PDF pages: 79 (copyright page p. 2 names the book exactly as the record; printed cover page absent from this PDF). Verdict: PARTIAL — printed cover page missing; all teaching content present. Tally: 6 placements — 2 to existing lessons, 4 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/fiji-placements.md.
+
+Non-History parts of this book, named in the placements, not placed here: Strand 1 cultural identity, families, climate preparedness (Civics/Science, printed pp. 4-27 in part); Strand 3 Features of Places, pollution and hazards (Geography, pp. 47-59); Strand 4 Resources of Pacific countries, people and work / migration (Geography/Economics, pp. 60-75)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji part — The Kon-Tiki Expedition — story beats: in 1947 Thor Heyerdahl sails a raft from South America for 101 days to the Tuamotu islands to test his claim that Polynesia could have been settled from Peru — a theory tested by re-enacting the voyage (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Fiji, *Year 7 Social Science Pupil's Book*, printed p. 7 |
+
+Fiji's own way (Year 7 Social Science Pupil's Book, Year 7 (student/teacher: STUDENT)): Year 7 places Fiji inside the Pacific — three peoples (Melanesian, Micronesian, Polynesian), Lapita evidence, then a country-by-country settlement-and-colonisation survey of its neighbours. That way is stocked here as the way Fiji teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 12:** *History Year 11 — Cultural Interaction, Unit 3: Ethnic and Cultural Policy Development* (student book, English) — Fiji. Title as printed: History Year 11 — Cultural Interaction, Unit 3: Ethnic and Cultural Policy Development. Grade: Year 11 (student/teacher: STUDENT). Publisher: Ministry of Education, Fiji / Curriculum Development Unit; year no year printed; ISBN no ISBN printed. PDF pages: 19 (unit title page verified against the record title). Verdict: COMPLETE. Tally: 2 placements — 1 to existing lessons, 1 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji part — Photograph evidence: Levuka in the late 19th century — story beats: a Levuka photograph shows only Fijians, yet Chinese, African Americans, Hawaiians, Germans and Malaysans also lived there — pupils learn a photograph can hide as much as it shows (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Fiji, *History Year 11 — Cultural Interaction, Unit 3: Ethnic and Cultural Policy Development*, printed p. 12 |
+
+Fiji's own way (History Year 11 — Cultural Interaction, Unit 3: Ethnic and Cultural Policy Development, Year 11 (student/teacher: STUDENT)): policy itself is the story — how governments from 1970 to 2010 talked about, counted and tried to unite Fiji's ethnic communities. That way is stocked here as the way Fiji teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 24:** *Diplomacy and Fiji — Fiji Year Twelve Certificate, Year 12 History, Pupil's Book* (student book, English) — Fiji. Title as printed: Diplomacy and Fiji — Fiji Year Twelve Certificate, Year 12 History, Pupil's Book. Grade: Year 12 (student/teacher: STUDENT). Publisher: Curriculum Development Unit, Ministry of Education, Suva, Fiji; year 2015; ISBN no ISBN printed. PDF pages: 128 (cover verified against the record title — cover portrait is Cakobau). Verdict: COMPLETE. Tally: 8 placements — 1 to existing lessons, 7 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji part — Unit 7 The Individual Research Topic — story beats: each pupil researches and reports Fiji's relationship with the USA, or prepares a 150-word speech on UN military duty, choosing and defending a topic with the teacher (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Fiji, *Diplomacy and Fiji — Fiji Year Twelve Certificate, Year 12 History, Pupil's Book*, printed p. 125 |
+
+Fiji's own way (Diplomacy and Fiji — Fiji Year Twelve Certificate, Year 12 History, Pupil's Book, Year 12 (student/teacher: STUDENT)): Year 12 History is one theme — diplomacy — worked country by country (New Zealand, China, Australia, India, the EU) almost entirely from primary sources: cartoons, news reports, home pages and treaties, each unit closing "friend, big brother, or neighbour?" That way is stocked here as the way Fiji teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 14 countries (Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji).**

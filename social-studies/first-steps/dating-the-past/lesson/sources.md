@@ -1,6 +1,6 @@
 # Sources — Dating the past — calendars, timelines and periods
 
-countries: Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus
+countries: Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -288,3 +288,19 @@ Nepal's own way (Shikshak Nirdeshika, Social Studies, Class 10 (teacher's guide)
 Belarus's own way (History of Belarus, Grade 11 (Famin), Grade 11): The whole senior course is the national story told in three acts — war-ruined Soviet republic, industrial Soviet republic, sovereign state — with every section opening on a timeline strip and a learning task, closing with document work, a "Historical portrait" / "Cultural-historical environment" box, and local-history ("Our Region") lessons where pupils research their own town's part in each period. That way is stocked here as the way Belarus teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 12 countries (Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus).**
+
+---
+
+## History expansion (2026-11-15) — Fiji stocked
+
+**Book 5:** *Year 6 Social Science Textbook (revised) (title from contents/front matter; PDF opens at the copyright page)* (student book, English) — Fiji. Title as printed: Year 6 Social Science Textbook (revised) (title from contents/front matter; PDF opens at the copyright page). Grade: Year 6 (student/teacher: STUDENT). Publisher: Ministry of Education, Fiji / Curriculum Development Unit; year revised, no year printed in front matter; ISBN no ISBN printed. PDF pages: 84 (contents page verified against the record title; printed cover page absent from this PDF). Verdict: PARTIAL — printed cover page missing; all teaching content present. Tally: 6 placements — 2 to existing lessons, 4 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/fiji-placements.md.
+
+Non-History parts of this book, named in the placements, not placed here: Strand 1 Local government, councils, iTaukei Affairs Board, community sectors (Civics, printed pp. 4-28); Strand 3 Mapping, environment, climate change, resources (Geography, pp. 43-68); Strand 4 People and Work, income and needs (Economics/Civics, pp. 69-80); Government Administration / importance of a constitution after the timelines (Civics, pp. 41-42)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji part — Timeline: History of Fiji, pre-contact to contact period — story beats: a dated line runs from settlement around 1500 BC through Levuka's founding, Tahitian and Methodist missionaries, Ma'afu's arrival, Cakobau's rise and conversion, to the 1871 Kingdom of Fiji (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Fiji, *Year 6 Social Science Textbook (revised) (title from contents/front matter; PDF opens at the copyright page)*, printed p. 29 |
+
+Fiji's own way (Year 6 Social Science Textbook (revised) (title from contents/front matter; PDF opens at the copyright page), Year 6 (student/teacher: STUDENT)): Fiji's whole history is given as dated timelines (pre-contact to 1874, 1874-1970, 1970-present) that the child reads as one national story, with archive photographs as evidence. That way is stocked here as the way Fiji teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 13 countries (Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji).**

@@ -1,6 +1,6 @@
 # Sources — Find history in your own locality
 
-countries: Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala, Malaysia, Ecuador, Bahamas, Eritrea, Nepal, Belarus
+countries: Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala, Malaysia, Ecuador, Bahamas, Eritrea, Nepal, Belarus, Fiji
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -383,3 +383,29 @@ Nepal's own way (Samajik Adhyayan, Class 10, Grade 10): Grade 10 history is the 
 Belarus's own way (History of Belarus, Grade 11 (Famin), Grade 11): The whole senior course is the national story told in three acts — war-ruined Soviet republic, industrial Soviet republic, sovereign state — with every section opening on a timeline strip and a learning task, closing with document work, a "Historical portrait" / "Cultural-historical environment" box, and local-history ("Our Region") lessons where pupils research their own town's part in each period. That way is stocked here as the way Belarus teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 12 countries (Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala, Malaysia, Ecuador, Bahamas, Eritrea, Nepal, Belarus).**
+
+---
+
+## History expansion (2026-11-15) — Fiji stocked
+
+**Book 1:** *Social Studies Year 3 (Family Tree Pupils Book 3)* (student book, English) — Fiji. Title as printed: Social Studies Year 3 (Family Tree Pupils Book 3). Grade: Year 3 (student/teacher: STUDENT). Publisher: Ministry of Education, Heritage & Arts, Fiji / Curriculum Development Unit, with UNESCO Fiji Memory of the World Committee; year re-edited 2017; ISBN no ISBN printed. PDF pages: 64 (cover/title page verified against the record title). Verdict: COMPLETE. Tally: 4 placements — 4 to existing lessons, 0 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/fiji-placements.md.
+
+Non-History parts of this book, named in the placements, not placed here: Part One Lessons 1-3 My Family / Family Relationships / Family Roles (Social Organisation, Civics/social, printed pp. 5-23); Part Two Strand 3 Place and Environment — My Home, My School (Geography/Civics, pp. 36-49); Strand 4 Resources and Economic Activities — My Belongings, People and Work (Economics/Civics, pp. 50-61)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji part — Lesson 2 Family Relationships: family tree diagram — story beats: a child starts with the oldest family member and builds a tree showing how everyone is related, learning ancestry from living memory (History expansion, 2026-11-15; original placement slug: first-steps/find-history-in-your-own-locality) | Fiji, *Social Studies Year 3 (Family Tree Pupils Book 3)*, printed p. 11 |
+
+Fiji's own way (Social Studies Year 3 (Family Tree Pupils Book 3), Year 3 (student/teacher: STUDENT)): History begins with the child's own family — Strand 2 "Time, Continuity and Change" is taught through a family-tree project, asking elders, and naming artefacts and totems, before any national story. That way is stocked here as the way Fiji teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 2:** *Social Studies Year 4* (student book, English) — Fiji. Title as printed: Social Studies Year 4. Grade: Year 4 (student/teacher: STUDENT). Publisher: Ministry of Education, Heritage & Arts, Fiji / Curriculum Development Unit; year re-edited 2017; ISBN no ISBN printed. PDF pages: 66 (cover/title page verified against the record title). Verdict: COMPLETE. Tally: 5 placements — 4 to existing lessons, 1 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/fiji-placements.md.
+
+Non-History parts of this book, named in the placements, not placed here: Strand 1 Social Organisation — Friends and Neighbours, communities (Civics/social, printed pp. 1-32 except cultural events below); Strand 3 Place and Environment — special places, weather (Geography, pp. 42-53); Strand 4 Resources — preserving water/forest/energy, people who help us (Geography/Economics, pp. 54-63)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji part — 2.7 My village/settlement/community history — story beats: a child interviews people who have lived in the community ten years to reconstruct how it changed, making local oral history (History expansion, 2026-11-15; original placement slug: first-steps/find-history-in-your-own-locality) | Fiji, *Social Studies Year 4*, printed p. 40 |
+
+Fiji's own way (Social Studies Year 4, Year 4 (student/teacher: STUDENT)): the Time strand widens from family to community — continuity vs change in the child's own village, then Fiji's national leaders researched by the child. That way is stocked here as the way Fiji teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 13 countries (Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala, Malaysia, Ecuador, Bahamas, Eritrea, Nepal, Belarus, Fiji).**

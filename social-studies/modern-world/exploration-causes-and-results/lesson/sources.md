@@ -1,6 +1,6 @@
 # Sources — Exploration — causes and results
 
-countries: Ethiopia, United States, Guatemala, Costa Rica, Kuwait
+countries: Ethiopia, United States, Guatemala, Costa Rica, Kuwait, Fiji
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 125).
 
@@ -94,3 +94,29 @@ Non-History parts of this book, named in the placements, not placed here: Unit 1
 Nepal's own way (Shikshak Nirdeshika, Class 8, Social Studies and Human Value Education 2081 (teacher's guide), Grade 8 (teacher guide)): Grade 8 "Our Past" opens with a definition — history is the account of past human activity, civilisation and state systems, studied from historical sources and analysed against the present — then runs Nepal's ancient story (name, dynasties, valley civilisation), the martyrs and the republic, and finishes with three world civilisations taught comparatively: Greece and Rome, the Indus Valley, and the Renaissance and its effects. That way is stocked here as the way Nepal teaches this thing. This book is a teacher guide: its rows stand as teacher-guide evidence only, counted nowhere in acceptance. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 5 countries (Ethiopia, United States, Guatemala, Costa Rica, Kuwait).** — unchanged; the Nepal placements above are teacher-guide evidence only, counted nowhere. Nepal is not added to this lesson's countries line.
+
+---
+
+## History expansion (2026-11-15) — Fiji stocked
+
+**Book 4:** *Year 5 Social Studies (title from contents/front matter; PDF opens at the Acknowledgement page)* (student book, English) — Fiji. Title as printed: Year 5 Social Studies (title from contents/front matter; PDF opens at the Acknowledgement page). Grade: Year 5 (student/teacher: STUDENT). Publisher: Ministry of Education, Fiji / Curriculum Advisory Service Unit (CDU); year revised, no year printed in front matter; ISBN no ISBN printed. PDF pages: 62 (contents page verified against the record title; printed cover/title page is absent from this PDF). Verdict: PARTIAL — printed cover/title page missing; all teaching content pp. 1-62 present. Tally: 6 placements — 2 to existing lessons, 4 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/fiji-placements.md.
+
+Non-History parts of this book, named in the placements, not placed here: Strand 1 Social Organisation / multicultural cohesion (Civics, printed pp. 3-16); Strand 3 Place and Environment — features of places, maps, land use (Geography, pp. 27-47); Strand 4 Resources and People and Work, family finance (Economics, pp. 48-58)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji part — The Arrival of Europeans — story beats: Tasman's accidental 1643 sighting, Cook in 1774 and Bligh sailing through in 1789 after the Bounty mutiny open Fiji to shipwrecked sailors, runaway convicts, sandalwood traders and then missionaries who convert chiefs first (History expansion, 2026-11-15; original placement slug: modern-world/exploration-causes-and-results) | Fiji, *Year 5 Social Studies (title from contents/front matter; PDF opens at the Acknowledgement page)*, printed p. 20 |
+
+Fiji's own way (Year 5 Social Studies (title from contents/front matter; PDF opens at the Acknowledgement page), Year 5 (student/teacher: STUDENT)): "Understanding the Past" is Fiji's own arrival story told in order — first iTaukei, then Europeans, then the peoples brought or drawn in under colonial rule — each group judged by its contribution to Fiji today. That way is stocked here as the way Fiji teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 8:** *Social Science Year 9 — Rediscovering Society* (student book, English) — Fiji. Title as printed: Social Science Year 9 — Rediscovering Society. Grade: Year 9 (student/teacher: STUDENT). Publisher: Curriculum Development Unit, Ministry of Education, National Heritage, Culture & Arts, Suva; year 2013; ISBN no ISBN printed. PDF pages: 162 (title page verified against the record title). Verdict: COMPLETE. Tally: 9 placements — 4 to existing lessons, 5 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/fiji-placements.md.
+
+Non-History parts of this book, named in the placements, not placed here: Chapter 1 Society and Culture, community living, rights, NGOs and regional agencies (Civics/Sociology, printed pp. 6-75 in part); Chapter 3 Maps and mapping skills (Geography, pp. 102-144); Environment and its uses (Geography, pp. 145-151 in part); Current Affairs unit (Civics, pp. 99-101)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji part — 2.2 European Discovery of Fiji — story beats: a table of explorers — Tasman (1643, Heemskerck), Cook, Bligh (1789 and 1792 in Providence, charting new islands) and Dumont d'Urville (1834, Astrolabe) — turns Fiji from sightings into mapped islands (History expansion, 2026-11-15; original placement slug: modern-world/exploration-causes-and-results) | Fiji, *Social Science Year 9 — Rediscovering Society*, printed p. 81 |
+
+Fiji's own way (Social Science Year 9 — Rediscovering Society, Year 9 (student/teacher: STUDENT)): a full "History of Fiji" chapter inside Social Science, proceeding by periods and trades — pre-contact, discovery, sandalwood, beche-de-mer, missionaries, Ma'afu and Cakobau — with named local leaders' biographies in the civics chapter. That way is stocked here as the way Fiji teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 6 countries (Ethiopia, United States, Guatemala, Costa Rica, Kuwait, Fiji).**
