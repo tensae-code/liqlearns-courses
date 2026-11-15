@@ -1,17 +1,22 @@
 # Sources — Global poverty and SDG 1
 
-countries: Ethiopia
+countries: Ethiopia, Yemen
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
+
+**Book 2:** *جغرافية اليمن والوطن العربي للصف الثاني الثانوي (Geography of Yemen and the Arab Homeland for the Second Secondary Grade = Grade 11)* (student book, Arabic) — Republic of Yemen, Ministry of Education; year 1438 AH / 2017 CE; ISBN no ISBN printed. Title as printed: جغرافية اليمن والوطن العربي للصف الثاني الثانوي (Geography of Yemen and the Arab Homeland for the Second Secondary Grade = Grade 11). Grade: 11 (student/teacher: STUDENT). PDF pages: 195 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the Wayback Machine capture of its own recorded Yemen MoE source URL (the source_url in its books.json record) after the GitHub routes (grab.py release + tree) failed from the reader's host — the same ministry file the repo copies were taken from; cover/title page verified visually against the record title. TSV + books.json records for the same grade are the same book, placed once. Non-Geography part named, not placed: Unit 2 Lesson 4 Population and Elections (civics, printed p. 53). Read note: legacy Arabic font encoding in the text layer; structure read from rendered contents and lesson pages. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/yemen-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Progress — 36% to 10% | Ethiopia, *Economics, Student Textbook, Grade 12*, Unit 6 — Poverty and Inequality, printed pp. 134–135 |
 | Sub lesson 2 — The remainder — billions under $2 | Ethiopia, *Economics, Student Textbook, Grade 12*, Unit 6 — Poverty and Inequality, printed pp. 134–135 |
 | Sub lesson 3 — The institutional answers | Ethiopia, *Economics, Student Textbook, Grade 12*, Unit 6 — Poverty and Inequality, printed pp. 134–135 |
+| Yemen part — Unit 6 Lesson 3 The Poverty Problem in the Arab Homeland | Yemen, *Yemen Grade 11 G11 Geography of Yemen and the Arab World*, Unit 6 Lesson 3 The Poverty Problem in the Arab Homeland — printed p. 175 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Yemen).**
 
 No matching teacher guide exists in this band: the book recorded as this text's teacher guide proved to be the 2011 GEQIP Grade 12 teacher's guide for the old syllabus, not this book's companion, and supplies no answer keys for it (proof in the placements file's verification block).
 
 Searchable tags: global poverty and sdg 1, grade 12 economics, ethiopia, social studies, people and resources
+
+Yemen's own way (Yemen Grade 11 G11 Geography of Yemen and the Arab World): Grade 11 does Yemen in depth first (physical base, population and social development, economic resources), then the Arab world's physical geography, its people and resources, and finally its contemporary problems — water, food, poverty, illiteracy, integration.

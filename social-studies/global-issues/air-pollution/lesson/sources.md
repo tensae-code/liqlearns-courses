@@ -1,6 +1,6 @@
 # Sources — Air Pollution
 
-countries: Ethiopia, Jamaica, Palestine, Angola, Indonesia, India, North Macedonia, Cambodia, Papua New Guinea, Sudan, Sri Lanka, Afghanistan
+countries: Ethiopia, Jamaica, Palestine, Angola, Indonesia, India, North Macedonia, Cambodia, Papua New Guinea, Sudan, Sri Lanka, Afghanistan, Yemen
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (placement 109).
 
@@ -32,6 +32,8 @@ countries: Ethiopia, Jamaica, Palestine, Angola, Indonesia, India, North Macedon
 
 **Book 14:** *جغرافيه صنف ١٢ (Geography, Grade 12)* (student book, Dari) — Ministry of Education, Afghanistan; year 1397 HS (2018/19) as indicated in the minister's message; ISBN no ISBN printed. Title as printed: جغرافيه صنف ١٢ (Geography, Grade 12). Grade: 12 (student/teacher: STUDENT). PDF pages: 216 (cover verified against the record title; 7,917,508 bytes, grabbed from the repo tree; the PDF's text layer uses a legacy font encoding, so the contents were read from the printed pages). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/afghanistan-placements.md.
 
+**Book 15:** *مبادئ الجغرافيا الطبيعية للصف السابع من مرحلة التعليم الأساسي (Principles of Physical Geography for Grade 7) — the record's short title is الجغرافيا (Geography)* (student book, Arabic) — Republic of Yemen, Ministry of Education; year 1443 AH / 2022 CE; ISBN no ISBN printed. Title as printed: مبادئ الجغرافيا الطبيعية للصف السابع من مرحلة التعليم الأساسي (Principles of Physical Geography for Grade 7) — the record's short title is الجغرافيا (Geography). Grade: 7 (student/teacher: STUDENT). PDF pages: 141 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the Wayback Machine capture of its own recorded Yemen MoE source URL (the source_url in its books.json record) after the GitHub routes (grab.py release + tree) failed from the reader's host — the same ministry file the repo copies were taken from; cover/title page verified visually against the record title. TSV + books.json records for the same grade are the same book, placed once. Read note: image-only scan (no text layer); structure read from rendered contents and lesson pages. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/yemen-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What clean air is, and what spoils it: air without smell, taste or colour; pollution as natural or human-made toxic substances mixing into the air against living things; the bad smell of wastes as its everyday sign | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 7, printed p. 149 |
@@ -49,11 +51,12 @@ countries: Ethiopia, Jamaica, Palestine, Angola, Indonesia, India, North Macedon
 | Sri Lanka part — Ch. 3 Air: composition, how air is polluted around the home and keeping it clean | Sri Lanka, *Sri Lanka Grade 6 G6 English*, Ch. 3 Air: composition, how air is polluted around the home and keeping it clean — printed p. 45 |
 | Sri Lanka part — Ch. 4.1.3 வளி (Air) and Ch. 4.1.4 சக்தி வளங்கள் (Energy resources) around the home | Sri Lanka, *Sri Lanka Grade 6 G6 Tamil 2007*, Ch. 4.1.3 வளி (Air) and Ch. 4.1.4 சக்தி வளங்கள் (Energy resources) around the home — printed p. 41 |
 | Afghanistan part — Ch. 8 Lessons 52–53: transport means (and their pollution); the effect of factories on the environment | Afghanistan, *Afghanistan Grade 12 Geography (Dari)*, Ch. 8 Lessons 52–53: transport means (and their pollution); the effect of factories on the environment — printed p. 185 |
+| Yemen part — Unit 3 Lesson 3 Air Pollution, Global Warming and Acid Rain | Yemen, *Yemen Grade 7 G7 Principles of Physical Geography*, Unit 3 Lesson 3 Air Pollution, Global Warming and Acid Rain — printed p. 73 |
 
 | Sub lesson 3 — Smog and ground-level ozone — the Grade 12 chemistry | Ethiopia, *Geography, Student Textbook, Grade 12*, Unit 6, printed pp. 159–161 (G12 student placement #64) |
 | Indonesia part (Grade 11) — Bab 3 I.E Pencemaran udara | Indonesia, *Geografi untuk SMA Kelas XI*, Grade 11, Bab 3 I.E Pencemaran udara — printed p. 126 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Palestine, Angola, Indonesia, India, North Macedonia, Cambodia, Sudan, Sri Lanka, Afghanistan). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 11 countries (Ethiopia, Palestine, Angola, Indonesia, India, North Macedonia, Cambodia, Sudan, Sri Lanka, Afghanistan, Yemen). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -86,3 +89,5 @@ Sri Lanka's own way (Sri Lanka Grade 6 G6 English): geography starts from the ch
 Sri Lanka's own way (Sri Lanka Grade 6 G6 Tamil 2007): dialogue-driven lessons (teacher–pupil conversations) that open with Sri Lanka's location and a comparison with the world's other islands, then work through the home and its surroundings, caring for that environment, and finish with map-making and scale.
 
 Afghanistan's own way (Afghanistan Grade 12 Geography (Dari)): the final year is pure human geography — Afghanistan's borders side by side (north, north-east, east/south, west), its population and ethnic make-up, religion and language, transport and communications, then the same themes for the world: population, races, religions, languages, global communications, and global environmental problems to close the whole twelve-year course.
+
+Yemen's own way (Yemen Grade 7 G7 Principles of Physical Geography): from Grade 7 the subject splits — this book is pure physical geography organised by the Earth's spheres (atmosphere, lithosphere, hydrosphere, biosphere), opened by map skills and Earth-and-space.

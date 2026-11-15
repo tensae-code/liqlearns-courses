@@ -1,6 +1,6 @@
 # Sources — Population — counting and graphing growth
 
-countries: Ethiopia, Myanmar, Indonesia, Colombia, Slovenia, Vietnam, Syria, Venezuela, Sri Lanka
+countries: Ethiopia, Myanmar, Indonesia, Colombia, Slovenia, Vietnam, Syria, Venezuela, Sri Lanka, Yemen
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 2, placements 27–43).
 
@@ -24,6 +24,8 @@ countries: Ethiopia, Myanmar, Indonesia, Colombia, Slovenia, Vietnam, Syria, Ven
 
 **Book 11:** *Geography, Grade 9* (student book, English) — Educational Publications Department; first print 2017, third print 2019; ISBN 978-955-25-0166-1. Title as printed: Geography, Grade 9. Grade: 9 (student/teacher: STUDENT). PDF pages: printed pp. 1–95 approx. plus front matter (cover/title and index verified against the record; GitHub grab failed with RemoteDisconnected, so the book was read via the record's archive.org source PDF — the same Educational Publications Department edition; chapters read in full, with the parallel Grade 9 Teacher's Guide (Book 1) confirming unit structure). Verdict: COMPLETE. Parallel edition named in the placements file: the Tamil student book (Book 4a, 2019), contents matching chapter for chapter, with a Tamil–English–Sinhala glossary — placed once under this English edition, that edition named here. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sri-lanka-placements.md.
 
+**Book 12:** *جغرافية الجمهورية اليمنية للصف الخامس من مرحلة التعليم الأساسي (Geography of the Republic of Yemen for Grade 5)* (student book, Arabic) — Republic of Yemen, Ministry of Education; year 1438 AH / 2017 CE; ISBN no ISBN printed. Title as printed: جغرافية الجمهورية اليمنية للصف الخامس من مرحلة التعليم الأساسي (Geography of the Republic of Yemen for Grade 5). Grade: 5 (student/teacher: STUDENT). PDF pages: 89 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the Wayback Machine capture of its own recorded Yemen MoE source URL (the source_url in its books.json record) after the GitHub routes (grab.py release + tree) failed from the reader's host — the same ministry file the repo copies were taken from; cover/title page verified visually against the record title. TSV + books.json records for the same grade are the same book, placed once. Read note: legacy Arabic font encoding in the text layer; structure read from rendered contents and lesson pages. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/yemen-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Counting your own school | Ethiopia, *Social Studies Student Textbook, Grade 7* (Amhara Bureau), printed pp. 35–36 |
@@ -38,8 +40,9 @@ countries: Ethiopia, Myanmar, Indonesia, Colombia, Slovenia, Vietnam, Syria, Ven
 | Venezuela part — Impacto de la economía petrolera en la población (Censo 2011) | Venezuela, *Venezuela Grade 6 G6 CS Venezuela y Su Gente*, Impacto de la economía petrolera en la población (Censo 2011) — printed p. 18 |
 | Venezuela part — Población venezolana ayer, hoy y mañana | Venezuela, *Venezuela Grade 11 G11 CS Geografía de Venezuela*, Población venezolana ayer, hoy y mañana — printed p. 36 |
 | Sri Lanka part — Ch. 2 Growth of population in Sri Lanka 1871–2012: natural increase plus net migration | Sri Lanka, *Sri Lanka Grade 9 G9 English*, Ch. 2 Growth of population in Sri Lanka 1871–2012: natural increase plus net migration — printed p. 53 |
+| Yemen part — Unit 3 Lesson 1 Population and Its Growth in Yemen | Yemen, *Yemen Grade 5 G5 Geography of Yemen*, Unit 3 Lesson 1 Population and Its Growth in Yemen — printed p. 45 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Indonesia, Colombia, Slovenia, Vietnam, Syria, Venezuela, Sri Lanka). Myanmar is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 9 countries (Ethiopia, Indonesia, Colombia, Slovenia, Vietnam, Syria, Venezuela, Sri Lanka, Yemen). Myanmar is named here as teacher-guide evidence only, counted nowhere.**
 
 Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -64,3 +67,5 @@ Venezuela's own way (Venezuela Grade 6 G6 CS Venezuela y Su Gente): the whole Ge
 Venezuela's own way (Venezuela Grade 11 G11 CS Geografía de Venezuela): a final-year economic geography of Venezuela alone — population past/present/future, human development in numbers, then resource by resource (minerals, land, fisheries, forests, oil, water/hydroelectricity) each read through sovereignty, collective participation and environmental conscience, closing on Latin American union.
 
 Sri Lanka's own way (Sri Lanka Grade 9 G9 English): the student companion to Book 1 — five chapters moving from the whole Asian region down to Sri Lanka's own landscape, its district-by-district development contrasts, environmental balance, and a closing practical chapter reading the 1:50,000 topographic maps.
+
+Yemen's own way (Yemen Grade 5 G5 Geography of Yemen): the first standalone Geography book is entirely about Yemen itself — map skills first, then Yemen's physical geography, then its population, then its economic activity sector by sector.

@@ -5131,3 +5131,151 @@ in 1 country (Iran), 8 questions each; all stand on
 student books (Iran has no teacher guides in this
 wave).
 Geography lessons: 2034 → 2170.
+
+
+## Yemen — Geography expansion (merged 2026-11-15)
+204 placement lines stocked from Yemen's 20 records /
+10 distinct books, all Arabic student books of the
+Republic of Yemen, Ministry of Education — Social
+Studies Grades 3-4, Geography of Yemen Grade 5,
+Geography of the Arab World Grade 6, Principles of
+Physical Geography Grade 7, Geography of the Continents
+Grade 8, Geography of Yemen and the Arab World Grades 9
+and 11, Geography of Man and the Environment Grade 10,
+and Geography of the Contemporary World Grade 12; TSV +
+books.json records for the same grade are the same book
+— duplicates taught once, every distinct book cited.
+All 10 books are COMPLETE student books — there are no
+teacher guides, so every placed book counts toward
+acceptance. Read basis, carried exactly as the
+placements file records it: GitHub routes (grab.py
+release + tree) failed from the reader's host
+(api.github.com disconnects/hangs); each book was
+instead read from the Wayback Machine capture of its
+own recorded Yemen MoE source URL (the source_url in
+its books.json record) — the same ministry file the
+repo copies were taken from; cover/title page of each
+book verified visually against the record title. Record
+short titles for Grades 7, 8 and 9 say only Geography;
+the printed titles (Principles of Physical Geography,
+Geography of the Continents, and Geography of the
+Republic of Yemen and the Arab Homeland) are carried in
+each book entry. Most scans use a legacy Arabic font
+encoding or are image-only (Grades 7-8), read from
+rendered contents and lesson pages, as each book entry
+notes. The placements file's own totals (204 placements
+— 94 to existing lessons, 110 NEW LESSON NEEDED) and
+per-book tallies (7 + 13 + 19 + 19 + 19 + 22 + 25 + 29
++ 30 + 21) sum to 204 and agree with the line-by-line
+count book by book — no tally discrepancy; all 204
+lines were stocked, none excluded. The non-Geography
+parts of the combined books (family/civics,
+mosque/religion, institutions and services, occasions,
+historical figures, and Grade 11 population and
+elections) are named in each book's header in the
+placements file and are NOT placed — they are not
+placement lines. Stocked into standing lessons (102
+placements across 67 lessons): 94 existing-flagged
+placements at the slug the placements file names, plus
+8 NEW-flagged placements whose slugs already stand —
+the-land-and-air/the-arab-world-location-and-importance
+(2 placements), global-issues/environmental-pollution,
+people-and-resources/brazil-country-study,
+people-and-resources/germany-country-study,
+people-and-resources/japan-country-study,
+population-transport-and-maps/asia-population and
+the-land-and-air/remote-sensing. No remappings — every
+slug the placements file names that was flagged
+existing stands as a lesson. 92 NEW lessons built (102
+placements) — **Earth and Space**: Telling Time Hours
+Weeks Months And Years (printed p. 73), The Biosphere
+(printed p. 131; printed p. 147), The Moon And Its
+Effects On Earth (printed p. 51), Yemens Geological
+Structure (printed p. 14); **The Land and Air**: Aerial
+And Satellite Images (printed p. 27), Arab Maghreb
+Location And Borders (printed p. 70), Arab Maghreb
+Natural Features (printed p. 73), Arab World Natural
+Environments (printed p. 71), Arab World Relief Climate
+And Vegetation (printed p. 110), Arabian Peninsula
+Location And Borders (printed p. 26), Arabian Peninsula
+Natural Features (printed p. 30), Asia Natural Features
+(printed p. 20), Atmospheric Pressure And Winds
+(printed p. 90), Australia Continent (printed p. 66),
+Cold Environmental Systems (printed p. 162), Europe
+Continent (printed p. 52), Fertile Crescent Location
+And Borders (printed p. 39), Fertile Crescent Natural
+Features (printed p. 41), Horn Of Africa And Comoros
+Location And Borders (printed p. 49), Horn Of Africa
+And Comoros Natural Features (printed p. 51), Hot
+Environmental Systems (printed p. 150), Land And Water
+Mutual Effects (printed p. 15), Maps And Aerial
+Photographs (printed p. 13), Movement Of Sea And Ocean
+Water (printed p. 127), Nile Valley Location And
+Borders (printed p. 59), Nile Valley Natural Features
+(printed p. 61), North America Continent (printed p.
+74), South America Continent (printed p. 85), Temperate
+Environmental Systems (printed p. 157), The Arab World
+Natural Features (printed p. 12), Water In The Air
+Humidity And Rain (printed p. 97), Yemen Location And
+Area (printed p. 24), Yemen Location And Importance
+(printed p. 8; printed p. 8), Yemens Climate (printed
+p. 33), Yemens Climate Water And Soils (printed p. 13),
+Yemens Coastal And Marine Environment (printed p. 16),
+Yemens Desert Environment (printed p. 20), Yemens
+Location And Landforms (printed p. 8), Yemens Mountain
+Environment (printed p. 12), Yemens Natural Vegetation
+(printed p. 38), Yemens Relief Regions (printed p. 27;
+printed p. 23), Yemens Soils Vegetation And Climate
+(printed p. 28), Yemens Water Resources (printed p. 36;
+printed p. 24; printed p. 32); **Population, Transport
+and Maps**: Arab Maghreb Population And Economic
+Activity (printed p. 76), Arab World Political Map And
+Population (printed p. 92), Arab World Population
+Characteristics (printed p. 124), Arabian Peninsula
+Population And Economic Activity (printed p. 33),
+Diversity Of The Worlds Population (printed p. 56),
+Fertile Crescent Population And Economic Activity
+(printed p. 44), Horn Of Africa And Comoros Population
+And Economic Activity (printed p. 54), Map Projections
+(printed p. 37), Maritime Transport (printed p. 81),
+Nile Valley Population And Economic Activity (printed
+p. 64), Organising Urban Space (printed p. 70),
+Political Geography And Its Importance (printed p. 7),
+Rural Urban Relationships (printed p. 77), The Arab
+World Population And Economic Activity (printed p. 17),
+Yemens Population Growth (printed p. 36; printed p.
+38); **People and Resources**: Arab Economic
+Integration (printed p. 22; printed p. 188), Arab
+Education And Illiteracy (printed p. 179), Arab
+Electricity And Alternative Energy (printed p. 145),
+Arab Oil And Gas (printed p. 138), Arab World Energy
+Sources (printed p. 119), Arab World Mineral Resources
+(printed p. 113), Asia Economic Activities (printed p.
+28), Eritrea Country Study (printed p. 47), Europe
+Economic Activities (printed p. 57), Indonesia Country
+Study (printed p. 31), League Of Arab States (printed
+p. 61), North American Free Trade Bloc (printed p. 37),
+Organisation Of Islamic Cooperation (printed p. 56),
+The European Union Bloc (printed p. 27), United States
+Country Study (printed p. 80; printed p. 41), Water
+Supply Services In Yemen (printed p. 61), Yemen And The
+Gulf Arab States (printed p. 67), Yemens Energy Sources
+(printed p. 55), Yemens Livestock Resources (printed p.
+33; printed p. 78), Yemens Wildlife (printed p. 41);
+**Culture and Work**: Arab Industry (printed p. 149),
+Arab Petrochemical Industry (printed p. 125), Arab
+Trade (printed p. 155), Global Food Trade (printed p.
+108), Global Oil And Gas Trade (printed p. 102), Global
+Trade Exchange And Its Trends (printed p. 97);
+**Resources and Conflict**: Arab Water Security
+(printed p. 88), Arab Water Sources (printed p. 79;
+printed p. 117), Man And Water (printed p. 106), Yemens
+Natural Protected Areas (printed p. 29); **Global
+Issues**: Arab Food Problem (printed p. 168), Arab
+Industry And The New Economic Order (printed p. 185),
+Classifying The Contemporary World North And South
+(printed p. 14), Energy And Its Challenges (printed p.
+122) — all 92 of the new lessons are taught in 1
+country (Yemen), 8 questions each; all stand on student
+books (Yemen has no teacher guides in this wave).
+Geography lessons: 2170 → 2262.

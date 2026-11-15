@@ -1,6 +1,6 @@
 # Sources — The Earth — Place, Shape and Size
 
-countries: Ethiopia, Saudi Arabia, Myanmar, Turkey, Haiti, Palestine, Angola, Dominican Republic, Bahamas, Colombia, Uganda, Venezuela, Sri Lanka, Mauritania, Kuwait, Afghanistan
+countries: Ethiopia, Saudi Arabia, Myanmar, Turkey, Haiti, Palestine, Angola, Dominican Republic, Bahamas, Colombia, Uganda, Venezuela, Sri Lanka, Mauritania, Kuwait, Afghanistan, Yemen
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page - 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md.
 
@@ -44,6 +44,10 @@ countries: Ethiopia, Saudi Arabia, Myanmar, Turkey, Haiti, Palestine, Angola, Do
 
 **Book 21:** *دروس اجتماعی برای صنف چهارم (Social Studies for Grade 4)* (student book, Dari) — Ministry of Education, Afghanistan; year 1399 HS (2020/21) as printed; ISBN no ISBN printed. Title as printed: دروس اجتماعی برای صنف چهارم (Social Studies for Grade 4). Grade: 4 (student/teacher: STUDENT). PDF pages: 106 (cover verified against the record title; 21,005,872 bytes = release asset size). Verdict: COMPLETE — combined Social Studies book: Geography parts placed below; the family/school/civics parts are named here and NOT placed.. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/afghanistan-placements.md.
 
+**Book 22:** *التربية الاجتماعية للصف الثالث الأساسي (Social Education for Grade 3 of Basic Education)* (student book, Arabic) — Republic of Yemen, Ministry of Education; year 1442 AH / 2021 CE; ISBN no ISBN printed. Title as printed: التربية الاجتماعية للصف الثالث الأساسي (Social Education for Grade 3 of Basic Education). Grade: 3 (student/teacher: STUDENT). PDF pages: 82 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the Wayback Machine capture of its own recorded Yemen MoE source URL (the source_url in its books.json record) after the GitHub routes (grab.py release + tree) failed from the reader's host — the same ministry file the repo copies were taken from; cover/title page verified visually against the record title. TSV + books.json records for the same grade are the same book, placed once. Non-Geography parts named, not placed: Unit 1 My Family and My Relatives (family/civics, printed pp. 6–24); Unit 2 My Mosque and My School (religion/civics, printed pp. 25–45). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/yemen-placements.md.
+
+**Book 23:** *مبادئ الجغرافيا الطبيعية للصف السابع من مرحلة التعليم الأساسي (Principles of Physical Geography for Grade 7) — the record's short title is الجغرافيا (Geography)* (student book, Arabic) — Republic of Yemen, Ministry of Education; year 1443 AH / 2022 CE; ISBN no ISBN printed. Title as printed: مبادئ الجغرافيا الطبيعية للصف السابع من مرحلة التعليم الأساسي (Principles of Physical Geography for Grade 7) — the record's short title is الجغرافيا (Geography). Grade: 7 (student/teacher: STUDENT). PDF pages: 141 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the Wayback Machine capture of its own recorded Yemen MoE source URL (the source_url in its books.json record) after the GitHub routes (grab.py release + tree) failed from the reader's host — the same ministry file the repo copies were taken from; cover/title page verified visually against the record title. TSV + books.json records for the same grade are the same book, placed once. Read note: image-only scan (no text layer); structure read from rendered contents and lesson pages. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/yemen-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Earth's place | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 1, printed p. 15 |
@@ -70,8 +74,10 @@ countries: Ethiopia, Saudi Arabia, Myanmar, Turkey, Haiti, Palestine, Angola, Do
 | Afghanistan part — Ch. 1 Lesson 2: does the Earth have a spherical shape? | Afghanistan, *Afghanistan Grade 7 Geography (Dari)*, Ch. 1 Lesson 2: does the Earth have a spherical shape? — printed p. 5 |
 | Afghanistan part — Ch. 1 Lesson 4: the northern and southern hemispheres | Afghanistan, *Afghanistan Grade 7 Geography (Dari)*, Ch. 1 Lesson 4: the northern and southern hemispheres — printed p. 11 |
 | Afghanistan part — Lesson 45: the Earth and its shape | Afghanistan, *Afghanistan Grade 4 Social Studies (Dari)*, Lesson 45: the Earth and its shape — printed p. 89 |
+| Yemen part — Unit 4 Lesson 2 The Earth | Yemen, *Yemen Grade 3 G3 Social Studies*, Unit 4 Lesson 2 The Earth — printed p. 66 |
+| Yemen part — Unit 2 Lesson 2 The Shape of the Earth and Its Dimensions | Yemen, *Yemen Grade 7 G7 Principles of Physical Geography*, Unit 2 Lesson 2 The Shape of the Earth and Its Dimensions — printed p. 41 |
 
-**Acceptance count: taught in 14 countries (Ethiopia, Saudi Arabia, Turkey, Palestine, Angola, Dominican Republic, Bahamas, Colombia, Uganda, Venezuela, Sri Lanka, Mauritania, Kuwait, Afghanistan). Myanmar is named here as teacher-guide evidence only, counted nowhere. Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 15 countries (Ethiopia, Saudi Arabia, Turkey, Palestine, Angola, Dominican Republic, Bahamas, Colombia, Uganda, Venezuela, Sri Lanka, Mauritania, Kuwait, Afghanistan, Yemen). Myanmar is named here as teacher-guide evidence only, counted nowhere. Haiti is named here as teacher-sequence evidence only, counted nowhere.**
 
 Haiti's own way (teacher sequence — evidence): Geography opens with representing the Earth itself — globe-to-flat projection problems, orientation practised on the ground with compass/GPS/Google Maps, and time-zone puzzles worked on Haiti's own links (midday shared with Québec, 18h in Paris, Port-au-Prince–Paris flights); every séance ends in a croquis, a glossary and field observation. That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
@@ -114,3 +120,7 @@ Kuwait's own way (Kuwait Grade 11 Geography Principles G11 T1): Geography is tau
 Afghanistan's own way (Afghanistan Grade 7 Geography (Dari)): the Dari MoE pattern — the world topic is taught first in the abstract (sphere, equator, latitude), then re-taught as Afghanistan's own geography (its position, relief, six climate regions, river basins, lakes, minerals, fuels), then widened to the continent (Asia). Every lesson ends with in-class group activity, questions and an out-of-class task naming the pupil's own locality.
 
 Afghanistan's own way (Afghanistan Grade 4 Social Studies (Dari)): primary social studies starts from the child's own world — family, village, city — and only then opens the map: directions, Afghanistan's boundaries and mountains and rivers, the continents and oceans, and finally the Earth's shape, equator, latitude/longitude and movements.
+
+Yemen's own way (Yemen Grade 3 G3 Social Studies): a combined Social Education book that starts from the child's own family, mosque and school, then widens to the neighbourhood/village and finally to phenomena around the child (directions, the Earth, seasons, time) — Geography enters last, through daily life.
+
+Yemen's own way (Yemen Grade 7 G7 Principles of Physical Geography): from Grade 7 the subject splits — this book is pure physical geography organised by the Earth's spheres (atmosphere, lithosphere, hydrosphere, biosphere), opened by map skills and Earth-and-space.

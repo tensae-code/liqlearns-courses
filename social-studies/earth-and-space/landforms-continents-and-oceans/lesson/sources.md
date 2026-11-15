@@ -1,6 +1,6 @@
 # Sources — Landforms, Continents and Oceans
 
-countries: Ethiopia, Saudi Arabia, France, Guatemala, Ecuador, Malaysia, Eritrea, Rwanda, Papua New Guinea, Afghanistan
+countries: Ethiopia, Saudi Arabia, France, Guatemala, Ecuador, Malaysia, Eritrea, Rwanda, Papua New Guinea, Afghanistan, Yemen
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page - 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md.
 
@@ -30,6 +30,8 @@ countries: Ethiopia, Saudi Arabia, France, Guatemala, Ecuador, Malaysia, Eritrea
 
 **Book 14:** *دروس اجتماعی برای صنف چهارم (Social Studies for Grade 4)* (student book, Dari) — Ministry of Education, Afghanistan; year 1399 HS (2020/21) as printed; ISBN no ISBN printed. Title as printed: دروس اجتماعی برای صنف چهارم (Social Studies for Grade 4). Grade: 4 (student/teacher: STUDENT). PDF pages: 106 (cover verified against the record title; 21,005,872 bytes = release asset size). Verdict: COMPLETE — combined Social Studies book: Geography parts placed below; the family/school/civics parts are named here and NOT placed.. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/afghanistan-placements.md.
 
+**Book 15:** *مبادئ الجغرافيا الطبيعية للصف السابع من مرحلة التعليم الأساسي (Principles of Physical Geography for Grade 7) — the record's short title is الجغرافيا (Geography)* (student book, Arabic) — Republic of Yemen, Ministry of Education; year 1443 AH / 2022 CE; ISBN no ISBN printed. Title as printed: مبادئ الجغرافيا الطبيعية للصف السابع من مرحلة التعليم الأساسي (Principles of Physical Geography for Grade 7) — the record's short title is الجغرافيا (Geography). Grade: 7 (student/teacher: STUDENT). PDF pages: 141 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the Wayback Machine capture of its own recorded Yemen MoE source URL (the source_url in its books.json record) after the GitHub routes (grab.py release + tree) failed from the reader's host — the same ministry file the repo copies were taken from; cover/title page verified visually against the record title. TSV + books.json records for the same grade are the same book, placed once. Read note: image-only scan (no text layer); structure read from rendered contents and lesson pages. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/yemen-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Landforms: how the Earth's face is made | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 1, printed p. 26 |
@@ -45,12 +47,13 @@ countries: Ethiopia, Saudi Arabia, France, Guatemala, Ecuador, Malaysia, Eritrea
 | Papua New Guinea part — Strand 1 Unit 2 People and Places, Topic 1: The world's physical geography (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 10 Social Science TG* (teacher guide), Strand 1 Unit 2 People and Places, Topic 1: The world's physical geography — printed p. 60 |
 | Afghanistan part — Ch. 6 Lesson 53: the lows and highs of the Earth's land pieces (continents) | Afghanistan, *Afghanistan Grade 10 Geography (Dari)*, Ch. 6 Lesson 53: the lows and highs of the Earth's land pieces (continents) — printed p. 181 |
 | Afghanistan part — Lesson 35: the continents | Afghanistan, *Afghanistan Grade 4 Social Studies (Dari)*, Lesson 35: the continents — printed p. 69 |
+| Yemen part — Unit 4 Lesson 4 Landforms of the Earth's Surface | Yemen, *Yemen Grade 7 G7 Principles of Physical Geography*, Unit 4 Lesson 4 Landforms of the Earth's Surface — printed p. 106 |
 
 | France part — Thème 1 Entrer dans le thème: Continents et océans, les repères spatiaux | France, *Géographie 2de GT, Manuel Libre de Géographie, Seconde*, Grade 10, Sommaire Thème 1 |
 | Ecuador part — El relieve (Unit 2, Las irregularidades de la Tierra) | Ecuador, *Estudios Sociales 3ro EGB (SM 2016)*, Grade 3, El relieve (Unit 2, Las irregularidades de la Tierra) — printed p. 34 |
 | Ecuador part — Formación de la Tierra; características de continentes, océanos y mares (inside the cartography tema, per its evaluation criterion) | Ecuador, *Estudios Sociales 8vo EGB*, Grade 8, Formación de la Tierra; características de continentes, océanos y mares (inside the cartography tema, per its evaluation criterion) — printed p. 99 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Saudi Arabia, France, Guatemala, Ecuador, Malaysia, Eritrea, Rwanda, Afghanistan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 10 countries (Ethiopia, Saudi Arabia, France, Guatemala, Ecuador, Malaysia, Eritrea, Rwanda, Afghanistan, Yemen). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 No book errors are flagged by the placements for these pages. Areas are the book's printed table figures (Table 2).
 
@@ -79,3 +82,5 @@ Papua New Guinea's own way (Papua New Guinea Grade 10 Social Science TG) (teache
 Afghanistan's own way (Afghanistan Grade 10 Geography (Dari)): the upper-secondary pattern changes from continent tours to themes studied in depth through Afghanistan itself: a full map-skills chapter (map types, scale, colour, projection, satellite photos), Afghanistan's climate and each of its river basins one by one (Amu, Kabul, Helmand–Sistan, Harirud, the closed basins), an environment-protection chapter aimed at Kabul's air and streets, a natural-hazards chapter, then earth-and-space and atmosphere chapters.
 
 Afghanistan's own way (Afghanistan Grade 4 Social Studies (Dari)): primary social studies starts from the child's own world — family, village, city — and only then opens the map: directions, Afghanistan's boundaries and mountains and rivers, the continents and oceans, and finally the Earth's shape, equator, latitude/longitude and movements.
+
+Yemen's own way (Yemen Grade 7 G7 Principles of Physical Geography): from Grade 7 the subject splits — this book is pure physical geography organised by the Earth's spheres (atmosphere, lithosphere, hydrosphere, biosphere), opened by map skills and Earth-and-space.

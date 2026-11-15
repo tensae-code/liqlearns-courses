@@ -1,0 +1,9 @@
+# Hands-on — Yemens Relief Regions
+
+The lesson with your hands and your feet, not only your eyes.
+
+## The book's topic
+Work through this lesson's topic with your hands: Unit 2 Lesson 2 Relief of Yemen; Unit 1 Lesson 3 Relief of Yemen. Say each part out loud as you do it, from the lesson.
+
+## Yemen's way
+Say how Yemen's book teaches this thing, in your own words, from the lesson.

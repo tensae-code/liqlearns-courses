@@ -103,7 +103,7 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **2170**
+Geography lessons across the eight Geography titles: **2262**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -1499,3 +1499,64 @@ The Persian Gulf A Geopolitical Region, Transport
 Safety and War Blockade And Hunger.
 (All 136 of the new lessons are taught in 1 country
 (Iran); all stand on student books.)
+
++92 for Yemen, 2026-11-15 — Earth and Space: Telling
+Time Hours Weeks Months And Years, The Biosphere, The
+Moon And Its Effects On Earth and Yemens Geological
+Structure; The Land and Air: Aerial And Satellite
+Images, Arab Maghreb Location And Borders, Arab Maghreb
+Natural Features, Arab World Natural Environments, Arab
+World Relief Climate And Vegetation, Arabian Peninsula
+Location And Borders, Arabian Peninsula Natural
+Features, Asia Natural Features, Atmospheric Pressure
+And Winds, Australia Continent, Cold Environmental
+Systems, Europe Continent, Fertile Crescent Location
+And Borders, Fertile Crescent Natural Features, Horn Of
+Africa And Comoros Location And Borders, Horn Of Africa
+And Comoros Natural Features, Hot Environmental
+Systems, Land And Water Mutual Effects, Maps And Aerial
+Photographs, Movement Of Sea And Ocean Water, Nile
+Valley Location And Borders, Nile Valley Natural
+Features, North America Continent, South America
+Continent, Temperate Environmental Systems, The Arab
+World Natural Features, Water In The Air Humidity And
+Rain, Yemen Location And Area, Yemen Location And
+Importance, Yemens Climate, Yemens Climate Water And
+Soils, Yemens Coastal And Marine Environment, Yemens
+Desert Environment, Yemens Location And Landforms,
+Yemens Mountain Environment, Yemens Natural Vegetation,
+Yemens Relief Regions, Yemens Soils Vegetation And
+Climate and Yemens Water Resources; Population,
+Transport and Maps: Arab Maghreb Population And
+Economic Activity, Arab World Political Map And
+Population, Arab World Population Characteristics,
+Arabian Peninsula Population And Economic Activity,
+Diversity Of The Worlds Population, Fertile Crescent
+Population And Economic Activity, Horn Of Africa And
+Comoros Population And Economic Activity, Map
+Projections, Maritime Transport, Nile Valley Population
+And Economic Activity, Organising Urban Space,
+Political Geography And Its Importance, Rural Urban
+Relationships, The Arab World Population And Economic
+Activity and Yemens Population Growth; People and
+Resources: Arab Economic Integration, Arab Education
+And Illiteracy, Arab Electricity And Alternative
+Energy, Arab Oil And Gas, Arab World Energy Sources,
+Arab World Mineral Resources, Asia Economic Activities,
+Eritrea Country Study, Europe Economic Activities,
+Indonesia Country Study, League Of Arab States, North
+American Free Trade Bloc, Organisation Of Islamic
+Cooperation, The European Union Bloc, United States
+Country Study, Water Supply Services In Yemen, Yemen
+And The Gulf Arab States, Yemens Energy Sources, Yemens
+Livestock Resources and Yemens Wildlife; Culture and
+Work: Arab Industry, Arab Petrochemical Industry, Arab
+Trade, Global Food Trade, Global Oil And Gas Trade and
+Global Trade Exchange And Its Trends; Resources and
+Conflict: Arab Water Security, Arab Water Sources, Man
+And Water and Yemens Natural Protected Areas; Global
+Issues: Arab Food Problem, Arab Industry And The New
+Economic Order, Classifying The Contemporary World
+North And South and Energy And Its Challenges.
+(All 92 of the new lessons are taught in 1 country
+(Yemen); all stand on student books.)

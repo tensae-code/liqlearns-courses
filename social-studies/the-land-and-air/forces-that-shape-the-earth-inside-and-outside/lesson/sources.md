@@ -1,6 +1,6 @@
 # Sources — Forces that shape the Earth — inside and outside
 
-countries: Ethiopia, Cambodia, Rwanda, Vietnam, Papua New Guinea, Syria, Iran
+countries: Ethiopia, Cambodia, Rwanda, Vietnam, Papua New Guinea, Syria, Iran, Yemen
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Cambodia, Rwanda, Vietnam, Papua New Guinea, Syria, Iran
 
 **Book 8:** *جغرافیای ایران (Geography of Iran) — for all branches (theoretical, technical-vocational, kardanesh)* (student book, Persian) — سازمان پژوهش و برنامه‌ریزی آموزشی (Organization for Educational Research and Planning), Ministry of Education; printed by شرکت چاپ و نشر کتاب‌های درسی ایران; year 1405 (11th printing); ISBN 978-964-05-2744-3; book code 110218. Title as printed: جغرافیای ایران (Geography of Iran) — for all branches (theoretical, technical-vocational, kardanesh). Grade: 10 (student/teacher: STUDENT). PDF pages: 120 (cover/title page verified against the record title; byte size 8,709,753 and page count 120 match the books.json record exactly; read from the record's own ministry source chap.sch.ir, the file the record was pushed from, because the GitHub API route was disconnected on repeated attempts). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iran-placements.md.
 
+**Book 9:** *مبادئ الجغرافيا الطبيعية للصف السابع من مرحلة التعليم الأساسي (Principles of Physical Geography for Grade 7) — the record's short title is الجغرافيا (Geography)* (student book, Arabic) — Republic of Yemen, Ministry of Education; year 1443 AH / 2022 CE; ISBN no ISBN printed. Title as printed: مبادئ الجغرافيا الطبيعية للصف السابع من مرحلة التعليم الأساسي (Principles of Physical Geography for Grade 7) — the record's short title is الجغرافيا (Geography). Grade: 7 (student/teacher: STUDENT). PDF pages: 141 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the Wayback Machine capture of its own recorded Yemen MoE source URL (the source_url in its books.json record) after the GitHub routes (grab.py release + tree) failed from the reader's host — the same ministry file the repo copies were taken from; cover/title page verified visually against the record title. TSV + books.json records for the same grade are the same book, placed once. Read note: image-only scan (no text layer); structure read from rendered contents and lesson pages. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/yemen-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Two families of forces | G12 student #9, printed pp. 11–12, 24 |
@@ -29,8 +31,9 @@ countries: Ethiopia, Cambodia, Rwanda, Vietnam, Papua New Guinea, Syria, Iran
 | Papua New Guinea part — Unit 4, Topic 2: Natural processes in and outside the Earth's crust (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 11 Geography TG SBC* (teacher guide), Unit 4, Topic 2: Natural processes in and outside the Earth's crust — printed p. 89 |
 | Syria part — Engineering of the earth (the forces that shape the land) | Syria, *Syria Grade 7 Geography G7 عالم الجغرافية*, Engineering of the earth (the forces that shape the land) — printed p. 62 |
 | Iran part — Iran's relief (present-day changers of the Zagros and of the plains: natural and human factors) | Iran, *Iran Grade 10 Geography of Iran*, Iran's relief (present-day changers of the Zagros and of the plains: natural and human factors) — printed p. 28 |
+| Yemen part — Unit 4 Lesson 3 Factors Shaping the Earth's Surface | Yemen, *Yemen Grade 7 G7 Principles of Physical Geography*, Unit 4 Lesson 3 Factors Shaping the Earth's Surface — printed p. 91 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Cambodia, Rwanda, Vietnam, Syria, Iran). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 7 countries (Ethiopia, Cambodia, Rwanda, Vietnam, Syria, Iran, Yemen). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Placement honesty carried: the placements place the eruption-style / Krakatoa passage before the 1.4.2 heading, inside the flow of 1.4.1's closing pages (printed p. 24) — a layout slip in the book, named here; the content itself is taught as the placements give it.
 
@@ -49,3 +52,5 @@ Papua New Guinea's own way (Papua New Guinea Grade 11 Geography TG SBC) (teacher
 Syria's own way (Syria Grade 7 Geography G7 عالم الجغرافية): a pure Geography book built entirely around activity lessons with story-style titles ("Mother of sciences", "Stones from the sky", "The origami art" for folding, "A tourist in my homeland"); technology first — aerial photos, GPS, remote sensing and GIS open the book before any physical geography — and each semester closes with student/teacher-designed lessons and an end-of-semester project.
 
 Iran's own way (Iran Grade 10 Geography of Iran): the whole of Grade 10 geography is one national book — Iran's own natural and human geography for every branch; nearly every lesson closes with a "know your own living place" activity tied to the separate provincial-studies book, so national content is always re-applied to the learner's own province.
+
+Yemen's own way (Yemen Grade 7 G7 Principles of Physical Geography): from Grade 7 the subject splits — this book is pure physical geography organised by the Earth's spheres (atmosphere, lithosphere, hydrosphere, biosphere), opened by map skills and Earth-and-space.

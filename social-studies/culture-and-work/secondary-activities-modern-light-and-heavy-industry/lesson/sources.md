@@ -1,6 +1,6 @@
 # Sources — Secondary activities — modern light and heavy industry
 
-countries: Ethiopia, Bangladesh, Turkmenistan, Indonesia, Egypt, Eritrea, India, North Macedonia, United Kingdom, Uzbekistan, Slovenia, Papua New Guinea, Sudan, Syria, Venezuela, Sri Lanka, Mauritania, Afghanistan
+countries: Ethiopia, Bangladesh, Turkmenistan, Indonesia, Egypt, Eritrea, India, North Macedonia, United Kingdom, Uzbekistan, Slovenia, Papua New Guinea, Sudan, Syria, Venezuela, Sri Lanka, Mauritania, Afghanistan, Yemen
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 2 — Population Studies and Socio-Economic Activities, printed pp. 44–76).
 
@@ -58,6 +58,8 @@ countries: Ethiopia, Bangladesh, Turkmenistan, Indonesia, Egypt, Eritrea, India,
 
 **Book 28:** *جغرافيه صنف ١١ (Geography, Grade 11)* (student book, Dari) — Ministry of Education, Afghanistan; year 1398 HS (2019/20) as printed; ISBN no ISBN printed. Title as printed: جغرافيه صنف ١١ (Geography, Grade 11). Grade: 11 (student/teacher: STUDENT). PDF pages: 194 (cover verified against the record title; 23,157,359 bytes = release asset size). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/afghanistan-placements.md.
 
+**Book 29:** *جغرافية اليمن والوطن العربي للصف الثاني الثانوي (Geography of Yemen and the Arab Homeland for the Second Secondary Grade = Grade 11)* (student book, Arabic) — Republic of Yemen, Ministry of Education; year 1438 AH / 2017 CE; ISBN no ISBN printed. Title as printed: جغرافية اليمن والوطن العربي للصف الثاني الثانوي (Geography of Yemen and the Arab Homeland for the Second Secondary Grade = Grade 11). Grade: 11 (student/teacher: STUDENT). PDF pages: 195 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the Wayback Machine capture of its own recorded Yemen MoE source URL (the source_url in its books.json record) after the GitHub routes (grab.py release + tree) failed from the reader's host — the same ministry file the repo copies were taken from; cover/title page verified visually against the record title. TSV + books.json records for the same grade are the same book, placed once. Non-Geography part named, not placed: Unit 2 Lesson 4 Population and Elections (civics, printed p. 53). Read note: legacy Arabic font encoding in the text layer; structure read from rendered contents and lesson pages. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/yemen-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Modern manufacturing | Ethiopia, *Social Studies Student Textbook, Grade 8* (Amhara Bureau), printed pp. 63–64 |
@@ -91,8 +93,9 @@ countries: Ethiopia, Bangladesh, Turkmenistan, Indonesia, Egypt, Eritrea, India,
 | Afghanistan part — Ch. 1 Lesson 14: economic geography of Africa — mines and industries | Afghanistan, *Afghanistan Grade 9 Geography (Dari)*, Ch. 1 Lesson 14: economic geography of Africa — mines and industries — printed p. 41 |
 | Afghanistan part — Ch. 2 Lesson 26: mines and industries of Australia | Afghanistan, *Afghanistan Grade 9 Geography (Dari)*, Ch. 2 Lesson 26: mines and industries of Australia — printed p. 75 |
 | Afghanistan part — World Ch. 6 Lesson 44: the types of industries and their importance in the world | Afghanistan, *Afghanistan Grade 11 Geography (Dari)*, World Ch. 6 Lesson 44: the types of industries and their importance in the world — printed p. 153 |
+| Yemen part — Unit 3 Lesson 3 Industry in Yemen | Yemen, *Yemen Grade 11 G11 Geography of Yemen and the Arab World*, Unit 3 Lesson 3 Industry in Yemen — printed p. 82 |
 
-**Acceptance count: taught in 17 countries (Ethiopia, Bangladesh, Turkmenistan, Indonesia, Egypt, Eritrea, India, North Macedonia, United Kingdom, Uzbekistan, Slovenia, Sudan, Syria, Venezuela, Sri Lanka, Mauritania, Afghanistan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 18 countries (Ethiopia, Bangladesh, Turkmenistan, Indonesia, Egypt, Eritrea, India, North Macedonia, United Kingdom, Uzbekistan, Slovenia, Sudan, Syria, Venezuela, Sri Lanka, Mauritania, Afghanistan, Yemen). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Indonesia's own way (Grade 12): Grade 12 is applied human geography built entirely on Indonesian cases — regional development and spatial planning (tata ruang) measured against a Happiness Index, Industry 4.0 / Society 5.0, and Indonesia's own geopolitics and ASEAN-era cooperation as pillars of national resilience. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -151,3 +154,5 @@ Afghanistan's own way (Afghanistan Grade 8 Geography (Dari)): the continent-by-c
 Afghanistan's own way (Afghanistan Grade 9 Geography (Dari)): the continent march finishes with Africa, then Australia/Oceania and Antarctica — same fixed order per continent as Grade 8, with a data table of the independent countries of Africa appended to the Africa chapter.
 
 Afghanistan's own way (Afghanistan Grade 11 Geography (Dari)): an economic-geography year in two halves — first Afghanistan (farming and livestock, energy and mines, industries and trade), then the same themes for the world (water and farming, energy, mines and industries, trade and tourism), each Afghanistan chapter closing with a "review of the situation" lesson on the country's own state.
+
+Yemen's own way (Yemen Grade 11 G11 Geography of Yemen and the Arab World): Grade 11 does Yemen in depth first (physical base, population and social development, economic resources), then the Arab world's physical geography, its people and resources, and finally its contemporary problems — water, food, poverty, illiteracy, integration.

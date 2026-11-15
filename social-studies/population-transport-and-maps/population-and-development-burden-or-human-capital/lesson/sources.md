@@ -1,6 +1,6 @@
 # Sources — Population and development — burden or human capital?
 
-countries: Ethiopia, Zimbabwe, Papua New Guinea, Sudan
+countries: Ethiopia, Zimbabwe, Papua New Guinea, Sudan, Yemen
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Zimbabwe, Papua New Guinea, Sudan
 
 **Book 4:** *الجغرافيا والدراسات البيئية — Geography and Environmental Studies, Third Year Secondary (الصف الثالث الثانوي)* (student book, Arabic) — Republic of Sudan, Ministry of General Education, National Centre for Curricula and Educational Research (Bakht al-Ruda); revised edition 2009; ISBN 978-99942-53-4-3 (file is the Rowad Al-Tamayoz reprint/distribution copy, verified cover + title page against the record). Title as printed: الجغرافيا والدراسات البيئية — Geography and Environmental Studies, Third Year Secondary (الصف الثالث الثانوي). Grade: Grade 12 (student/teacher: STUDENT). PDF pages: 230 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sudan-placements.md.
 
+**Book 5:** *جغرافية الجمهورية اليمنية والوطن العربي للصف التاسع من مرحلة التعليم الأساسي (Geography of the Republic of Yemen and the Arab Homeland for Grade 9) — the record's short title is الجغرافيا (Geography)* (student book, Arabic) — Republic of Yemen, Ministry of Education; year 1438 AH / 2017 CE; ISBN no ISBN printed. Title as printed: جغرافية الجمهورية اليمنية والوطن العربي للصف التاسع من مرحلة التعليم الأساسي (Geography of the Republic of Yemen and the Arab Homeland for Grade 9) — the record's short title is الجغرافيا (Geography). Grade: 9 (student/teacher: STUDENT). PDF pages: 131 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the Wayback Machine capture of its own recorded Yemen MoE source URL (the source_url in its books.json record) after the GitHub routes (grab.py release + tree) failed from the reader's host — the same ministry file the repo copies were taken from; cover/title page verified visually against the record title. TSV + books.json records for the same grade are the same book, placed once. Read note: legacy Arabic font encoding in the text layer; structure read from rendered contents and lesson pages. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/yemen-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Development unpacked | G12 student #51, printed pp. 107–115 |
@@ -17,8 +19,9 @@ countries: Ethiopia, Zimbabwe, Papua New Guinea, Sudan
 | Zimbabwe part (Grade 7) — Unit 11: Human capital development in Zimbabwe (teacher guide — evidence) | Zimbabwe, *PlusOne Social Science Grade 7 Teacher's Guide* (teacher guide), Unit 11: Human capital development in Zimbabwe — printed p. 24 |
 | Papua New Guinea part — Unit 3, Topic 3: Consequences of migration (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 12 Geography TG SBC* (teacher guide), Unit 3, Topic 3: Consequences of migration — printed p. 61 |
 | Sudan part — Population problems | Sudan, *Sudan Grade 12 SD Geography 12*, Population problems — printed p. 202 |
+| Yemen part — Unit 5 Lesson 3 Population and Social Development | Yemen, *Yemen Grade 9 G9 Geography of Yemen and the Arab World*, Unit 5 Lesson 3 Population and Social Development — printed p. 102 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Sudan). Zimbabwe is named here as teacher-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 3 countries (Ethiopia, Sudan, Yemen). Zimbabwe is named here as teacher-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 No book error in the placements for this lesson is taught here. Elements and pressures are taught exactly as the placements report them.
 
@@ -29,3 +32,5 @@ Zimbabwe's own way (Grade 7) (teacher guide — evidence): Grade 7 turns analyti
 Papua New Guinea's own way (Papua New Guinea Grade 12 Geography TG SBC) (teacher guide — evidence): Grade 12 Geography closes with global population and mega-cities, a full migration unit, and a seven-topic climate-change unit that ends at home — the impact of climate change in PNG and the regions affected. That evidence is stocked here as the way Papua New Guinea teaches this thing; it does not change the acceptance count above.
 
 Sudan's own way (Sudan Grade 12 SD Geography 12): The final-year book is organised as applied geography: it opens with a full revision exercise on a Port Sudan contour map (contours, scale, cross-sections, watershed lines), then remote sensing and photo interpretation, then world economic geography, and closes on human–environment global problems, repeatedly pulling Sudanese examples (Gezira scheme, gum arabic, Sudanese oil, farming systems of Sudan) into the world treatment.
+
+Yemen's own way (Yemen Grade 9 G9 Geography of Yemen and the Arab World): Grade 9 returns to Yemen by environments (mountain, coastal-marine, desert), then Yemen's population and resources, then scales up to the Arab world's environment and water problems, population and industrial development.

@@ -1,6 +1,6 @@
 # Sources — Africa's four landform regions
 
-countries: Ethiopia, Palestine, Egypt, Slovenia, Sudan
+countries: Ethiopia, Palestine, Egypt, Slovenia, Sudan, Yemen
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). First published 2023 under GEQIP-E. ISBN: 978-99990-0-049-9. 205 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Palestine, Egypt, Slovenia, Sudan
 
 **Book 5:** *كتاب الجغرافيا — Geography Book, First Year Intermediate (الصف الأول المتوسط)* (student book, Arabic) — Republic of Sudan, Ministry of Education, National Centre for Curricula and Educational Research (Bakht al-Ruda); first edition 2021; no ISBN printed. Title as printed: كتاب الجغرافيا — Geography Book, First Year Intermediate (الصف الأول المتوسط). Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 104 (cover verified against the record title; byte size 18,445,877 and page count match the staging books.json record exactly; read via the recorded Drive source_url after grab.py failed/truncated — GitHub-secured book, download deleted after filing). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sudan-placements.md.
 
+**Book 6:** *جغرافية القارات للصف الثامن من مرحلة التعليم الأساسي (Geography of the Continents for Grade 8) — the record's short title is الجغرافيا (Geography)* (student book, Arabic) — Republic of Yemen, Ministry of Education; year 1438 AH / 2017 CE; ISBN no ISBN printed. Title as printed: جغرافية القارات للصف الثامن من مرحلة التعليم الأساسي (Geography of the Continents for Grade 8) — the record's short title is الجغرافيا (Geography). Grade: 8 (student/teacher: STUDENT). PDF pages: 107 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the Wayback Machine capture of its own recorded Yemen MoE source URL (the source_url in its books.json record) after the GitHub routes (grab.py release + tree) failed from the reader's host — the same ministry file the repo copies were taken from; cover/title page verified visually against the record title. TSV + books.json records for the same grade are the same book, placed once. Read note: image-only scan (no text layer); structure read from rendered contents and lesson pages. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/yemen-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The four regions named | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 1, printed pp. 8–9 |
@@ -20,8 +22,9 @@ countries: Ethiopia, Palestine, Egypt, Slovenia, Sudan
 | Egypt part (Grade 7) — Unit 1 Lesson 2: Surface features of Africa — fold, fault and volcanic mountains; flood and coastal plains; the blue economy of Africa's coasts | Egypt, *Social Studies, Grade 7, Term 1*, Grade 7, Unit 1 Lesson 2: Surface features of Africa — printed p. 14 |
 | Slovenia part — Lega, površje in vodovje Afrike: Površje (Africa's position and relief) | Slovenia, *Slovenia Grade 8 Geografija 8*, Lega, površje in vodovje Afrike: Površje (Africa's position and relief) — printed p. 1 |
 | Sudan part — Africa's surface and relief: plateaus, Atlas Mountains, lakes and volcanic peaks | Sudan, *Sudan Grade 7 SD Geography 7*, Africa's surface and relief: plateaus, Atlas Mountains, lakes and volcanic peaks — printed p. 14 |
+| Yemen part — Unit 3 Lesson 1 Natural Features of Africa | Yemen, *Yemen Grade 8 G8 Geography of the Continents*, Unit 3 Lesson 1 Natural Features of Africa — printed p. 37 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Palestine, Egypt, Slovenia, Sudan).**
+**Acceptance count: taught in 6 countries (Ethiopia, Palestine, Egypt, Slovenia, Sudan, Yemen).**
 
 Pairing: the teacher guide was first published in 2022 and the student textbook in 2023, with the same writers and the same eight units in the same order; the student book is the learner text of record, and teacher-guide rows above are evidence only.
 
@@ -34,3 +37,5 @@ Egypt's own way (Grade 7 Term 1): Social Studies is rebuilt around “Africa and
 Slovenia's own way (Slovenia Grade 8 Geografija 8): Grade 8 is pure world regional geography, continent by continent (Africa, Australia/Oceania, the Americas and polar regions), each region worked through the same grid — position/relief/waters, climate/vegetation, population, economy — and the book closes with two world-problems units (rainforest loss, desert spread, water conflicts, the Aral Sea).
 
 Sudan's own way (Sudan Grade 7 SD Geography 7): A continents book: after a world opener (continents, oceans, relief, world environments), each continent — Africa, Asia, Europe — gets the same treatment in the same order (relief, drainage, climate, vegetation, population, economic activity, environmental problems), closing with a British Isles case study; Sudan and Africa anchor the examples throughout.
+
+Yemen's own way (Yemen Grade 8 G8 Geography of the Continents): Grade 8 tours the continents one by one — natural features, population, economic activities — with one country studied in depth per continent (Indonesia, Eritrea, Germany, the USA, Brazil), and closes on contemporary world issues.
