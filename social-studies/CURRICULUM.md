@@ -811,3 +811,47 @@ the Green Generation 2020-2030 strategy part). Non-Geography
 parts named, not placed: History component (12 lessons,
 printed pp. 43-87) and Civics component (11 lessons, printed
 pp. 119-179). Geography lessons: 583 → 594.
+
+## Geography expansion — Brazil — built 2026-11-14
+
+Brazil — 17 placements stocked from 1 book:
+*Geografia, Livro Didático Público, Ensino Médio* (student
+book, Portuguese, COMPLETE; 1 record / 1 distinct book;
+Secretaria de Estado da Educação do Paraná (SEED-PR),
+Curitiba, 2007 (2ª edição), ISBN 85-85380-35-7; read via
+grab.py url, GitHub release, 8,324,996 bytes). Brazil's own
+way: no chapters in the old style — 17 "Folhas" (sheets),
+each opening with a provocative question, grouped under
+four dimensions of geographical space (political,
+cultural-demographic, economic, socio-environmental) and
+taught from songs, news and the student's own place.
+6 stocked into standing lessons — **Resources and
+Conflict**: Water under pressure (Folha 4, printed p. 66);
+**Population, Transport and Maps**: Kinds of migration
+(Folha 6, printed p. 102) and Counting births — four
+fertility measures (Folha 8, printed p. 132); **Culture
+and Work**: Culture — globalisation and cultural change
+(Folha 7, printed p. 118); **People and Resources**:
+Growth is not development — the HDI (Folha 12, printed
+p. 186); **Global Issues**: Famine and food security —
+availability is not enough (Folha 13, printed p. 198) —
+each lesson's acceptance count rises by one country
+(Brazil) — and 11 new lessons built (student book,
+acceptance count 1 country (Brazil), 8 questions each) —
+in **People and Resources**: Brazil could be different —
+territory (Folha 1, printed p. 18) and Regional blocs —
+does union make strength? (Folha 3, printed p. 50); in
+**Population, Transport and Maps**: No entry — borders
+and excluded spaces (Folha 2, printed p. 36) and Stop
+dreaming of a car — energy and transport (Folha 15,
+printed p. 230); in **The Land and Air**: Producing and
+consuming space (Folha 5, printed p. 84); in **Culture
+and Work**: Is industry over? (Folha 9, printed p. 148)
+and Shopping malls and consumption space (Folha 10,
+printed p. 162); in **Global Issues**: Networks — we of
+the network (Folha 11, printed p. 174) and Are humans
+rational — and the environment? (Folha 14, printed
+p. 216); in **Resources and Conflict**: Catastrophes —
+avoidable or inevitable? (Folha 16, printed p. 246) and
+Agrochemicals — do you take poison? (Folha 17, printed
+p. 262). Geography lessons: 594 → 605.

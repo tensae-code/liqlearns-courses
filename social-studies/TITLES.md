@@ -40,15 +40,18 @@ the one title at rising depth wherever a title spans both books
   voyaging and settling the Pacific islands, movement
   — people, goods and ideas, and Morocco's map, borders and
   cities, drawing a relief map of Morocco, Morocco's
-  population distribution and Morocco's transport networks).
+  population distribution and Morocco's transport networks,
+  no entry — borders and excluded spaces, and stop dreaming
+  of a car — energy and transport).
 - `people-and-resources/` — settlement, natural resources,
   economic activities, and looking after the land (including
   quality of life — Argentina and Latin America compared,
   Mercosur economic integration, kinds of integration, the
   South American gas pipeline database, India's growing
   economy, Moroccan agriculture and livestock, Morocco's two
-  sea fronts and ports, and Morocco's minerals and the
-  phosphate industry).
+  sea fronts and ports, Morocco's minerals and the
+  phosphate industry, Brazil could be different — territory,
+  and regional blocs — does union make strength?).
 - `ethiopia-ancient-and-medieval/` — Ethiopia from the earliest
   times through the medieval kingdoms and sultanates.
 - `africa-to-1500/` — Africa's peoples, states and trade to
@@ -65,16 +68,18 @@ the one title at rising depth wherever a title spans both books
   islands and low islands of Micronesia, place — what
   makes a place, the Arabian Peninsula — location and
   land, Morocco's relief — mountains, plateaus and plains,
-  Morocco's climate — temperature and rainfall, and
-  Morocco's rivers and dams).
+  Morocco's climate — temperature and rainfall, Morocco's
+  rivers and dams, and producing and consuming space).
 - `culture-and-work/` — culture, economic activities, trade,
   and tax (including agriculture in Zambia's agro-ecological
   regions, festivals of the world's religions, sacred texts,
-  food and clothing of religions, and religion and caste in
-  India).
+  food and clothing of religions, religion and caste in
+  India, is industry over?, and shopping malls and
+  consumption space).
 - `resources-and-conflict/` — natural resources, their care,
   and conflict over resources (including environmental hazards
-  and disasters).
+  and disasters, catastrophes — avoidable or inevitable?, and
+  agrochemicals — do you take poison?).
 - `modern-ethiopia/` — Ethiopia from 1855 to today. (Student
   book alone — no teacher evidence yet; the Grade 8 teacher
   guide's Units 4–7 are still owed.)
@@ -85,13 +90,14 @@ the one title at rising depth wherever a title spans both books
 - `global-issues/` — today's shared problems: population
   pressure, HIV/AIDS, climate, water, forests — and protecting
   the environment where you live (including India's
-  environmental problems and environmental problems in
-  Morocco). (Grade 8 part: no teacher
+  environmental problems, environmental problems in
+  Morocco, networks — we of the network, and are humans
+  rational — and the environment?). (Grade 8 part: no teacher
   evidence yet.)
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **594**
+Geography lessons across the eight Geography titles: **605**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -137,3 +143,14 @@ Resources: Moroccan agriculture and livestock, Morocco's
 two sea fronts and ports and Morocco's minerals and the
 phosphate industry; Global Issues: Environmental problems
 in Morocco).
++11 for Brazil, 2026-11-14 — People and Resources: Brazil
+could be different — territory and Regional blocs — does
+union make strength?; Population, Transport and Maps: No
+entry — borders and excluded spaces and Stop dreaming of a
+car — energy and transport; The Land and Air: Producing
+and consuming space; Culture and Work: Is industry over?
+and Shopping malls and consumption space; Global Issues:
+Networks — we of the network and Are humans rational —
+and the environment?; Resources and Conflict: Catastrophes
+— avoidable or inevitable? and Agrochemicals — do you
+take poison?).
