@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — India
 
-countries: Ethiopia, Bangladesh, Australia, Malaysia, Ecuador, India, Indonesia, Dominican Republic, Egypt, Pakistan, Iran, Cambodia, Sri Lanka, Mongolia, Yemen, Jordan, Uzbekistan, Laos, Afghanistan, Cuba
+countries: Ethiopia, Bangladesh, Australia, Malaysia, Ecuador, India, Indonesia, Dominican Republic, Egypt, Pakistan, Iran, Cambodia, Sri Lanka, Mongolia, Yemen, Jordan, Uzbekistan, Laos, Afghanistan, Cuba, China
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -524,3 +524,35 @@ Cuba's own way (Book 7 — g7-student (student book, Spanish)): World history ta
 **Acceptance count: taught in 20 countries (Ethiopia, Bangladesh, Australia, Malaysia, Ecuador, India, Indonesia, Dominican Republic, Egypt, Pakistan, Iran, Cambodia, Sri Lanka, Mongolia, Yemen, Jordan, Uzbekistan, Laos, Afghanistan, Cuba).**
 
 Searchable tags: Cuba, History expansion 2026-11-15, ancient-world/ancient-civilisations-india
+
+## History expansion (2026-11-15) — China stocked
+
+**Book 6 — cn-g10 (student book, Chinese)**
+- Title as printed: 普通高中教科书 历史 必修 中外历史纲要（下） (Senior High History, Compulsory: Outline of Chinese and World History, lower volume — world history)
+- Grade: Senior high (record says Grade 10) (student/teacher: STUDENT)
+- Publisher: People's Education Press (人民教育出版社), Beijing; compiled by the Ministry of Education; year 2019; ISBN no ISBN printed in scanned pages
+- PDF pages: 164 (image-only scan; cover verified — the file behind the Grade 10 record is the senior-high Outline lower volume, the same printed book as the Grade 12 record's 下 volume in a different scan; placed here in full, spot-check cross-reference in Book 9)
+- Verdict: COMPLETE
+- Tally: 46 placements — 34 to existing lessons, 12 NEW LESSON NEEDED
+- China's own way: At senior high the whole world story is compressed into 23 outline lessons, each ending in 探究与拓展 (inquiry and extension) with real scholarly voices — Hobsbawm on the age of empire, Marx on Britain in India — that pupils must judge, not just repeat.
+
+**Book 12 — cn-g12e (student book, Chinese)**
+- Title as printed: 普通高中教科书 历史 选择性必修3 文化交流与传播 (Senior High History, Selective Compulsory 3: Cultural Exchange and Dissemination)
+- Grade: Senior high (filed grade-12) (student/teacher: STUDENT)
+- Publisher: People's Education Press (人民教育出版社), Ministry of Education, 2019/2020; ISBN no ISBN read in scanned pages
+- PDF pages: 106 (grab.py tree route failed with HTTP 404 although the record says in_pushed: true; downloaded from the recorded source_url, kyohwang/ChinaTextbook; byte size 10,459,974 matches the record exactly; cover verified; text-layer read in full)
+- Verdict: COMPLETE
+- Tally: 19 placements — 10 to existing lessons, 9 NEW LESSON NEEDED
+- China's own way: Culture itself is the subject — China's culture is presented as both receiver and giver across five thousand years, and heritage protection closes the book as a duty to all humanity.
+
+| Lesson part | Where it comes from |
+|---|---|
+| China part — Lesson 1: Civilisation arises — India — story beats: the Indus and Ganges valleys raise cities and the caste order that shapes India for millennia (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-india) | China, *普通高中教科书 历史 必修 中外历史纲要（下） (Senior High History, Compulsory: Outline of Chinese and World History, lower volume — world history)*, printed p. 2 |
+| China part — Lesson 5: Cultures of South Asia, East Asia and the Americas (1) — story beats: Buddhism and caste shape India; its numerals and epics travel as far as its monks (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-india) | China, *普通高中教科书 历史 选择性必修3 文化交流与传播 (Senior High History, Selective Compulsory 3: Cultural Exchange and Dissemination)*, printed p. 26 |
+
+China's own way (Book 6 — cn-g10 (student book, Chinese)): At senior high the whole world story is compressed into 23 outline lessons, each ending in 探究与拓展 (inquiry and extension) with real scholarly voices — Hobsbawm on the age of empire, Marx on Britain in India — that pupils must judge, not just repeat. That way is stocked here as the way China teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+China's own way (Book 12 — cn-g12e (student book, Chinese)): Culture itself is the subject — China's culture is presented as both receiver and giver across five thousand years, and heritage protection closes the book as a duty to all humanity. That way is stocked here as the way China teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 21 countries (Ethiopia, Bangladesh, Australia, Malaysia, Ecuador, India, Indonesia, Dominican Republic, Egypt, Pakistan, Iran, Cambodia, Sri Lanka, Mongolia, Yemen, Jordan, Uzbekistan, Laos, Afghanistan, Cuba, China).**
+
+Searchable tags: China, History expansion 2026-11-15, ancient-world/ancient-civilisations-india

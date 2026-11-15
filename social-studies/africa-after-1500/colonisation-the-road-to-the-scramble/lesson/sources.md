@@ -1,6 +1,6 @@
 # Sources — Colonisation — the road to the Scramble
 
-countries: Ethiopia, Rwanda, Eritrea, Dominican Republic, Mauritania, South Sudan, Libya, Mozambique, Sudan, Cuba
+countries: Ethiopia, Rwanda, Eritrea, Dominican Republic, Mauritania, South Sudan, Libya, Mozambique, Sudan, Cuba, China
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 5, placements 110–122).
 
@@ -252,3 +252,24 @@ Cuba's own way (Book 8 — g8-student (student book, Spanish)): Modern/contempor
 **Acceptance count: taught in 10 countries (Ethiopia, Rwanda, Eritrea, Dominican Republic, Mauritania, South Sudan, Libya, Mozambique, Sudan, Cuba).**
 
 Searchable tags: Cuba, History expansion 2026-11-15, africa-after-1500/colonisation-the-road-to-the-scramble
+
+## History expansion (2026-11-15) — China stocked
+
+**Book 6 — cn-g10 (student book, Chinese)**
+- Title as printed: 普通高中教科书 历史 必修 中外历史纲要（下） (Senior High History, Compulsory: Outline of Chinese and World History, lower volume — world history)
+- Grade: Senior high (record says Grade 10) (student/teacher: STUDENT)
+- Publisher: People's Education Press (人民教育出版社), Beijing; compiled by the Ministry of Education; year 2019; ISBN no ISBN printed in scanned pages
+- PDF pages: 164 (image-only scan; cover verified — the file behind the Grade 10 record is the senior-high Outline lower volume, the same printed book as the Grade 12 record's 下 volume in a different scan; placed here in full, spot-check cross-reference in Book 9)
+- Verdict: COMPLETE
+- Tally: 46 placements — 34 to existing lessons, 12 NEW LESSON NEEDED
+- China's own way: At senior high the whole world story is compressed into 23 outline lessons, each ending in 探究与拓展 (inquiry and extension) with real scholarly voices — Hobsbawm on the age of empire, Marx on Britain in India — that pupils must judge, not just repeat.
+
+| Lesson part | Where it comes from |
+|---|---|
+| China part — Lesson 7: World pattern evolves — story beats: Spain, Portugal, the Netherlands, France and Britain succeed one another as sea powers while Latin America's colonial order hardens (History expansion, 2026-11-15; original placement slug: africa-after-1500/colonisation-the-road-to-the-scramble) | China, *普通高中教科书 历史 必修 中外历史纲要（下） (Senior High History, Compulsory: Outline of Chinese and World History, lower volume — world history)*, printed p. 39 |
+
+China's own way (Book 6 — cn-g10 (student book, Chinese)): At senior high the whole world story is compressed into 23 outline lessons, each ending in 探究与拓展 (inquiry and extension) with real scholarly voices — Hobsbawm on the age of empire, Marx on Britain in India — that pupils must judge, not just repeat. That way is stocked here as the way China teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 11 countries (Ethiopia, Rwanda, Eritrea, Dominican Republic, Mauritania, South Sudan, Libya, Mozambique, Sudan, Cuba, China).**
+
+Searchable tags: China, History expansion 2026-11-15, africa-after-1500/colonisation-the-road-to-the-scramble

@@ -1,6 +1,6 @@
 # Sources — From stone tools to farming — the Neolithic Revolution
 
-countries: Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus, Fiji, Dominican Republic, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, South Sudan, Libya, Mongolia, Iraq, Uganda, Mozambique, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Cuba
+countries: Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus, Fiji, Dominican Republic, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, South Sudan, Libya, Mongolia, Iraq, Uganda, Mozambique, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Cuba, China
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -362,6 +362,7 @@ Syria's own way (الدراسات الاجتماعية — الصف الرابع
 **Book 1 (bol-g7-student-sec1):** *Texto de Aprendizaje — Ciencias Sociales, 1er Año de Educación Secundaria Comunitaria Productiva* (student book, Spanish) — Bolivia. Title as printed: Texto de Aprendizaje — Ciencias Sociales, 1er Año de Educación Secundaria Comunitaria Productiva (cover: Área Ciencias Sociales, Campo Comunidad y Sociedad). Grade: Grade 7 (student/teacher: STUDENT). Publisher: Ministerio de Educación de Bolivia; year not printed in the held portion; no ISBN printed. PDF pages: 98 (cover verified against the record title). Verdict note on pagination: the held file carries printed pp. 236–333 — it is the later portion of the year's text as released under the "full-year" asset name, so it is filed PARTIAL for coverage of the year (the parts present are read in full). Verdict: PARTIAL — printed pp. 236–333 of the Secundaria 1 text; earlier printed pages are not in this file. Tally: 15 placements — 11 to existing lessons, 4 NEW LESSON NEEDED. Non-History parts (named, not placed): Geography of Bolivia and the Earth — geography's origins and human geography, geology and eras, continental drift (Wegener), map projections, water rights and Mother Earth laws (Leyes 071/300), Bolivia's geographic regions, political-administrative organisation and salares (printed pp. ~240–257 and ~299–304 — Geography/Civics). Placements at liqlearns-courses-work/expansion-history-2026-11-15/bolivia-placements.md.
 
 **Book 5 (bol-g7-teacher-compendio):** *Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Secundaria Comunitaria Productiva, Área Ciencias Sociales* (teacher guide, Spanish) — Bolivia. Title as printed: Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Secundaria Comunitaria Productiva, Área Ciencias Sociales. Grade: Grade 7 record (student/teacher: TEACHER) — the compendium in fact compiles the student learning texts of ALL SIX years of Secundaria (Primer to Sexto Año), so its History units for Years 3 and 5 are placed here too, as they have no separate student book in this wave. Publisher: Ministerio de Educación, Estado Plurinacional de Bolivia; years 2023–2024; no ISBN printed. PDF pages: 332 (cover verified against the record title). Verdict: COMPLETE. Tally: 68 placements — 26 to existing lessons, 42 NEW LESSON NEEDED. Non-History parts (named, not placed): Year 1 — Geografía, Tiempo geológico, De Pangea a la formación de los continentes, Madre Tierra como sujeto de derecho, Geografía general de Bolivia (Geography); Year 2 — Principios ético-morales en la Constitución (Civics); Year 3 — Desarrollo científico de la Ciencia Geográfica, Cartografía (Geography), Ley 348 and Ley 243 on violence against women (Civics/law); Year 4 — El agua: ¿mercancía, derecho humano o fuerza de vida? (Civics/Geography); Year 5 — La labor del Censista (Civics), Ciudadanía boliviana, derechos y deberes (Civics); Year 6 — Geopolítica (Geography/political science). Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-history-2026-11-15/bolivia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Bolivia part — Del Paleolítico al Neolítico — story beats: Sedentarisation and the village community emerge as farming replaces the wandering life (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Bolivia, *Bolivia Secundaria 1 Ciencias Sociales*, printed p. 268 |
@@ -989,3 +990,24 @@ Cuba's own way (Book 7 — g7-student (student book, Spanish)): World history ta
 **Acceptance count: taught in 35 countries (Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus, Fiji, Dominican Republic, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, South Sudan, Libya, Mongolia, Iraq, Uganda, Mozambique, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Cuba).**
 
 Searchable tags: Cuba, History expansion 2026-11-15, africa-to-1500/from-stone-tools-to-farming
+
+## History expansion (2026-11-15) — China stocked
+
+**Book 11 — cn-g12d (student book, Chinese)**
+- Title as printed: 普通高中教科书 历史 选择性必修2 经济与社会生活 (Senior High History, Selective Compulsory 2: Economy and Social Life)
+- Grade: Senior high (filed grade-12) (student/teacher: STUDENT)
+- Publisher: People's Education Press (人民教育出版社), Ministry of Education; volume editors Yang Gongle (杨共乐) and Ye Xiaobing (叶小兵); year 2019/2020; ISBN no ISBN read in scanned pages
+- PDF pages: 102 (grab.py tree route failed with HTTP 404 although the record says in_pushed: true; downloaded from the recorded source_url, kyohwang/ChinaTextbook; byte size 10,168,720 matches the record exactly; cover verified; text-layer read in full)
+- Verdict: COMPLETE
+- Tally: 16 placements — 6 to existing lessons, 10 NEW LESSON NEEDED
+- China's own way: History from the kitchen and the workshop — food, tools, markets, houses, roads and medicine carry the story, with China (Hemudu rice, the Grand Canal, Bencao Gangmu) woven through every unit.
+
+| Lesson part | Where it comes from |
+|---|---|
+| China part — Lesson 1: From gathering food to producing it — story beats: at Hemudu, 7,000-year-old rice grains and stalks show Chinese farmers among the world's first; everywhere, farming trades the forager's freedom for the village, the surplus and civilisation (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | China, *普通高中教科书 历史 选择性必修2 经济与社会生活 (Senior High History, Selective Compulsory 2: Economy and Social Life)*, printed p. 2 |
+
+China's own way (Book 11 — cn-g12d (student book, Chinese)): History from the kitchen and the workshop — food, tools, markets, houses, roads and medicine carry the story, with China (Hemudu rice, the Grand Canal, Bencao Gangmu) woven through every unit. That way is stocked here as the way China teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 36 countries (Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus, Fiji, Dominican Republic, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, South Sudan, Libya, Mongolia, Iraq, Uganda, Mozambique, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Cuba, China).**
+
+Searchable tags: China, History expansion 2026-11-15, africa-to-1500/from-stone-tools-to-farming

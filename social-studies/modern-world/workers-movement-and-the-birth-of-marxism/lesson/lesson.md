@@ -1,0 +1,27 @@
+# Workers Movement And The Birth Of Marxism
+
+## Do it first
+
+Before you read on, hold this lesson's one thing in mind: factory workers organise and strike for their rights, and Marx and Engels give their struggle a theory and a programme As you read, keep asking where each part of that sentence is proved.
+
+## Sub lesson 1 — Workers' movements and Marxism is born
+
+factory workers organise and strike for their rights, and Marx and Engels give their struggle a theory and a programme
+
+[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+
+## Sub lesson 2 — Marxism is born and spreads
+
+Marx and Engels publish the Communist Manifesto in 1848, the First International and the Paris Commune carry the workers' cause forward
+
+[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+
+## Say it to your companion
+
+Tell your companion the story as its beats, in order: Workers' movements and Marxism is born — factory workers organise and strike for their rights, and Marx and Engels give their struggle a theory and a programme. Marxism is born and spreads — Marx and Engels publish the Communist Manifesto in 1848, the First International and the Paris Commune carry the workers' cause forward. Then let your companion ask you one hard question about it — answer from the lesson.
+
+## Do It Yourself
+
+1. Factory workers organise and strike for their rights, and Marx and Engels give their struggle a theory and a programme
+2. Write, from memory, the lesson's key names and places in the order they happened.
+3. Say what China's own way of teaching this story is, from the books in lesson/sources.md.

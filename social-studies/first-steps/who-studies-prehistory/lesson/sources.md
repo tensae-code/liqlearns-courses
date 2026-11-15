@@ -1,6 +1,6 @@
 # Sources — Archaeology, palaeontology, anthropology — who studies prehistory
 
-countries: Ethiopia, Gambia, Turkey, Bangladesh, Australia, Bhutan, Eritrea, India, Finland, Dominican Republic, Iran, Suriname, Cambodia, Colombia, Afghanistan
+countries: Ethiopia, Gambia, Turkey, Bangladesh, Australia, Bhutan, Eritrea, India, Finland, Dominican Republic, Iran, Suriname, Cambodia, Colombia, Afghanistan, China
 
 **Book 1:** *History, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, Addis Ababa, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-064-2, 210 printed pp. Printed page = PDF page − 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g09-student-placements.md
 
@@ -363,3 +363,25 @@ Afghanistan's own way (Book 4 — History G7 (student book, Dari)): secondary hi
 **Acceptance count: taught in 15 countries (Ethiopia, Gambia, Turkey, Bangladesh, Australia, Bhutan, Eritrea, India, Finland, Dominican Republic, Iran, Suriname, Cambodia, Colombia, Afghanistan).**
 
 Searchable tags: Afghanistan, History expansion 2026-11-15, first-steps/who-studies-prehistory
+
+## History expansion (2026-11-15) — China stocked
+
+**Book 1 — cn-g7-b (student book, Chinese) — combined History and Society**
+- Title as printed: 历史与社会 七年级 下册 (History and Society, Grade 7, second volume)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: People's Education Press (人民教育出版社), Beijing; year 2018 (2nd edition, Dec 2018); ISBN 978-7-107-33170-1
+- PDF pages: 123 (cover/title page verified — the file behind the record's generic "历史 History — Grade 07" title is the combined History and Society book, not the 中国历史 book; see Book 2)
+- Verdict: COMPLETE (History parts placed; Geography parts named)
+- Tally: 8 placements — 5 to existing lessons, 3 NEW LESSON NEEDED
+- China's own way: History is taught inside society — how rules, media and family life changed, then civilisation traced from fossils and potsherds; every unit ends in an inquiry (survey your home town, how the past gets recorded).
+- Non-History parts named: Unit 5 The homeland of China's peoples — geography (printed pp. 1–32); Unit 6 Each land raises its own people: North, South, Northwest, Qinghai-Tibet regions — geography (pp. 33–74); Unit 7 Lesson 1 The evolution of rules — civics (pp. 76–79); Unit 7 Inquiry: Change in a region (p. 90).
+
+| Lesson part | Where it comes from |
+|---|---|
+| China part — Unit 8 Lesson 1: Reading the evidence — story beats: pupils reconstruct a day in Peking Man's life from fossils, ash heaps and stone tools, and a rebuilt head from a skull (History expansion, 2026-11-15; original placement slug: first-steps/who-studies-prehistory) | China, *历史与社会 七年级 下册 (History and Society, Grade 7, second volume)*, printed p. 97 |
+
+China's own way (Book 1 — cn-g7-b (student book, Chinese) — combined History and Society): History is taught inside society — how rules, media and family life changed, then civilisation traced from fossils and potsherds; every unit ends in an inquiry (survey your home town, how the past gets recorded). That way is stocked here as the way China teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 16 countries (Ethiopia, Gambia, Turkey, Bangladesh, Australia, Bhutan, Eritrea, India, Finland, Dominican Republic, Iran, Suriname, Cambodia, Colombia, Afghanistan, China).**
+
+Searchable tags: China, History expansion 2026-11-15, first-steps/who-studies-prehistory

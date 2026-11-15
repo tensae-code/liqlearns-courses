@@ -1,6 +1,6 @@
 # Sources — Scientific Revolution and Enlightenment
 
-countries: Ethiopia, France, Costa Rica, Ecuador, Belarus, Montenegro, Dominican Republic, Pakistan, Colombia, Mauritania, Mongolia, Samoa, Iraq, Uzbekistan, North Macedonia, Afghanistan, Cuba
+countries: Ethiopia, France, Costa Rica, Ecuador, Belarus, Montenegro, Dominican Republic, Pakistan, Colombia, Mauritania, Mongolia, Samoa, Iraq, Uzbekistan, North Macedonia, Afghanistan, Cuba, China
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -120,6 +120,7 @@ Searchable tags: Pakistan, Scientific Revolution and Enlightenment, modern-world
 ## History expansion (2026-11-15) — Bolivia stocked
 
 **Book 5 (bol-g7-teacher-compendio):** *Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Secundaria Comunitaria Productiva, Área Ciencias Sociales* (teacher guide, Spanish) — Bolivia. Title as printed: Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Secundaria Comunitaria Productiva, Área Ciencias Sociales. Grade: Grade 7 record (student/teacher: TEACHER) — the compendium in fact compiles the student learning texts of ALL SIX years of Secundaria (Primer to Sexto Año), so its History units for Years 3 and 5 are placed here too, as they have no separate student book in this wave. Publisher: Ministerio de Educación, Estado Plurinacional de Bolivia; years 2023–2024; no ISBN printed. PDF pages: 332 (cover verified against the record title). Verdict: COMPLETE. Tally: 68 placements — 26 to existing lessons, 42 NEW LESSON NEEDED. Non-History parts (named, not placed): Year 1 — Geografía, Tiempo geológico, De Pangea a la formación de los continentes, Madre Tierra como sujeto de derecho, Geografía general de Bolivia (Geography); Year 2 — Principios ético-morales en la Constitución (Civics); Year 3 — Desarrollo científico de la Ciencia Geográfica, Cartografía (Geography), Ley 348 and Ley 243 on violence against women (Civics/law); Year 4 — El agua: ¿mercancía, derecho humano o fuerza de vida? (Civics/Geography); Year 5 — La labor del Censista (Civics), Ciudadanía boliviana, derechos y deberes (Civics); Year 6 — Geopolítica (Geography/political science). Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-history-2026-11-15/bolivia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Bolivia part — Año 3: La Ilustración — story beats: Enlightenment reason challenges throne and altar and arms the independence generation (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: modern-world/scientific-revolution-and-enlightenment) | Bolivia, *Bolivia Compendio Ciencias Sociales*, compendium p. 239 (Año 3) |
@@ -404,3 +405,24 @@ Cuba's own way (Book 8 — g8-student (student book, Spanish)): Modern/contempor
 **Acceptance count: taught in 17 countries (Ethiopia, France, Costa Rica, Ecuador, Belarus, Montenegro, Dominican Republic, Pakistan, Colombia, Mauritania, Mongolia, Samoa, Iraq, Uzbekistan, North Macedonia, Afghanistan, Cuba).**
 
 Searchable tags: Cuba, History expansion 2026-11-15, modern-world/scientific-revolution-and-enlightenment
+
+## History expansion (2026-11-15) — China stocked
+
+**Book 6 — cn-g10 (student book, Chinese)**
+- Title as printed: 普通高中教科书 历史 必修 中外历史纲要（下） (Senior High History, Compulsory: Outline of Chinese and World History, lower volume — world history)
+- Grade: Senior high (record says Grade 10) (student/teacher: STUDENT)
+- Publisher: People's Education Press (人民教育出版社), Beijing; compiled by the Ministry of Education; year 2019; ISBN no ISBN printed in scanned pages
+- PDF pages: 164 (image-only scan; cover verified — the file behind the Grade 10 record is the senior-high Outline lower volume, the same printed book as the Grade 12 record's 下 volume in a different scan; placed here in full, spot-check cross-reference in Book 9)
+- Verdict: COMPLETE
+- Tally: 46 placements — 34 to existing lessons, 12 NEW LESSON NEEDED
+- China's own way: At senior high the whole world story is compressed into 23 outline lessons, each ending in 探究与拓展 (inquiry and extension) with real scholarly voices — Hobsbawm on the age of empire, Marx on Britain in India — that pupils must judge, not just repeat.
+
+| Lesson part | Where it comes from |
+|---|---|
+| China part — Lesson 8: Scientific Revolution and Enlightenment — story beats: Copernicus to Newton remakes the heavens, and the philosophes arm the coming revolutions with reason, rights and the separation of powers (History expansion, 2026-11-15; original placement slug: modern-world/scientific-revolution-and-enlightenment) | China, *普通高中教科书 历史 必修 中外历史纲要（下） (Senior High History, Compulsory: Outline of Chinese and World History, lower volume — world history)*, printed p. 45 |
+
+China's own way (Book 6 — cn-g10 (student book, Chinese)): At senior high the whole world story is compressed into 23 outline lessons, each ending in 探究与拓展 (inquiry and extension) with real scholarly voices — Hobsbawm on the age of empire, Marx on Britain in India — that pupils must judge, not just repeat. That way is stocked here as the way China teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 18 countries (Ethiopia, France, Costa Rica, Ecuador, Belarus, Montenegro, Dominican Republic, Pakistan, Colombia, Mauritania, Mongolia, Samoa, Iraq, Uzbekistan, North Macedonia, Afghanistan, Cuba, China).**
+
+Searchable tags: China, History expansion 2026-11-15, modern-world/scientific-revolution-and-enlightenment

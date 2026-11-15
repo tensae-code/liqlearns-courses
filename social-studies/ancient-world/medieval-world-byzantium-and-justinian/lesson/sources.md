@@ -1,6 +1,6 @@
 # Sources — Medieval world — Byzantium and Justinian
 
-countries: Ethiopia, France, Poland, Ecuador, Montenegro, Bulgaria, Colombia, Mongolia, Jordan, North Macedonia
+countries: Ethiopia, France, Poland, Ecuador, Montenegro, Bulgaria, Colombia, Mongolia, Jordan, North Macedonia, China
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -230,3 +230,37 @@ North Macedonia's own way (Book 3 — Istorija I (History I), Grade 10 (student 
 **Acceptance count: taught in 10 countries (Ethiopia, France, Poland, Ecuador, Montenegro, Bulgaria, Colombia, Mongolia, Jordan, North Macedonia).**
 
 Searchable tags: North Macedonia, History expansion 2026-11-15, ancient-world/medieval-world-byzantium-and-justinian
+
+## History expansion (2026-11-15) — China stocked
+
+**Book 6 — cn-g10 (student book, Chinese)**
+- Title as printed: 普通高中教科书 历史 必修 中外历史纲要（下） (Senior High History, Compulsory: Outline of Chinese and World History, lower volume — world history)
+- Grade: Senior high (record says Grade 10) (student/teacher: STUDENT)
+- Publisher: People's Education Press (人民教育出版社), Beijing; compiled by the Ministry of Education; year 2019; ISBN no ISBN printed in scanned pages
+- PDF pages: 164 (image-only scan; cover verified — the file behind the Grade 10 record is the senior-high Outline lower volume, the same printed book as the Grade 12 record's 下 volume in a different scan; placed here in full, spot-check cross-reference in Book 9)
+- Verdict: COMPLETE
+- Tally: 46 placements — 34 to existing lessons, 12 NEW LESSON NEEDED
+- China's own way: At senior high the whole world story is compressed into 23 outline lessons, each ending in 探究与拓展 (inquiry and extension) with real scholarly voices — Hobsbawm on the age of empire, Marx on Britain in India — that pupils must judge, not just repeat.
+
+**Book 7 — cn-g11tg (teacher guide, Chinese) — PARTIAL**
+- Title as printed: 普通高中教科书 历史 教师教学用书 必修 中外历史纲要（下） (Teacher's Teaching Book for the senior-high Outline of Chinese and World History, lower volume)
+- Grade: Senior high (record says Grade 11; kind listed 'student' in the record but the book is a teacher's book) (student/teacher: TEACHER)
+- Publisher: People's Education Press (人民教育出版社), Beijing; dated December 2019 (editorial note); ISBN no ISBN printed in scanned pages
+- PDF pages: 69 (image-only scan; cover verified against the printed title)
+- Verdict: PARTIAL — the file ends at printed p. 63, inside Lesson 5's reference materials; the guide's own contents list all 23 lessons of the Outline (下) to p. 240+, so Units 3–9 guidance is missing from this file.
+- Tally: 7 placements — 7 to existing lessons, 0 NEW LESSON NEEDED
+- China's own way: The guide teaches teachers to teach by comparison — feudal Europe set against Byzantium and Rus to show civilisations develop in many patterns, not one line.
+- Non-History parts named: none — the whole guide is History teaching guidance.
+This book is a teacher guide, not a pupil text. The part(s) below stand on it as teacher-guide evidence only, labelled as such in every provenance row, and counted nowhere in the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| China part — Lesson 3: Medieval Europe — Byzantium and Rus — story beats: Byzantium preserves Rome in the East, Justinian codifies its law, and Kievan Rus rises between steppe and empire (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-byzantium-and-justinian) | China, *普通高中教科书 历史 必修 中外历史纲要（下） (Senior High History, Compulsory: Outline of Chinese and World History, lower volume — world history)*, printed p. 15 |
+| China part — Lesson 3 guidance: Medieval Europe (east) — story beats: guide sets Byzantium's survival and Justinian's Roman Law codification, and Rus's birth resisting Mongol rule, against the feudal West (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-byzantium-and-justinian) | China, *普通高中教科书 历史 教师教学用书 必修 中外历史纲要（下） (Teacher's Teaching Book for the senior-high Outline of Chinese and World History, lower volume)*, printed p. 29 |
+
+China's own way (Book 6 — cn-g10 (student book, Chinese)): At senior high the whole world story is compressed into 23 outline lessons, each ending in 探究与拓展 (inquiry and extension) with real scholarly voices — Hobsbawm on the age of empire, Marx on Britain in India — that pupils must judge, not just repeat. That way is stocked here as the way China teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+China's own way (Book 7 — cn-g11tg (teacher guide, Chinese) — PARTIAL): The guide teaches teachers to teach by comparison — feudal Europe set against Byzantium and Rus to show civilisations develop in many patterns, not one line. That way is stocked here as the way China teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 11 countries (Ethiopia, France, Poland, Ecuador, Montenegro, Bulgaria, Colombia, Mongolia, Jordan, North Macedonia, China).**
+
+Searchable tags: China, History expansion 2026-11-15, ancient-world/medieval-world-byzantium-and-justinian

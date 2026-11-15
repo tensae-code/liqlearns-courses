@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — Rome
 
-countries: Ethiopia, Brazil, France, Poland, Turkey, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro, Dominican Republic, Egypt, Pakistan, Bolivia, Iran, Cambodia, Palestine, Colombia, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba
+countries: Ethiopia, Brazil, France, Poland, Turkey, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro, Dominican Republic, Egypt, Pakistan, Bolivia, Iran, Cambodia, Palestine, Colombia, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba, China
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -263,6 +263,7 @@ Searchable tags: Pakistan, Ancient civilisations — Rome, ancient-world, Histor
 ## History expansion (2026-11-15) — Bolivia stocked
 
 **Book 1 (bol-g7-student-sec1):** *Texto de Aprendizaje — Ciencias Sociales, 1er Año de Educación Secundaria Comunitaria Productiva* (student book, Spanish) — Bolivia. Title as printed: Texto de Aprendizaje — Ciencias Sociales, 1er Año de Educación Secundaria Comunitaria Productiva (cover: Área Ciencias Sociales, Campo Comunidad y Sociedad). Grade: Grade 7 (student/teacher: STUDENT). Publisher: Ministerio de Educación de Bolivia; year not printed in the held portion; no ISBN printed. PDF pages: 98 (cover verified against the record title). Verdict note on pagination: the held file carries printed pp. 236–333 — it is the later portion of the year's text as released under the "full-year" asset name, so it is filed PARTIAL for coverage of the year (the parts present are read in full). Verdict: PARTIAL — printed pp. 236–333 of the Secundaria 1 text; earlier printed pages are not in this file. Tally: 15 placements — 11 to existing lessons, 4 NEW LESSON NEEDED. Non-History parts (named, not placed): Geography of Bolivia and the Earth — geography's origins and human geography, geology and eras, continental drift (Wegener), map projections, water rights and Mother Earth laws (Leyes 071/300), Bolivia's geographic regions, political-administrative organisation and salares (printed pp. ~240–257 and ~299–304 — Geography/Civics). Placements at liqlearns-courses-work/expansion-history-2026-11-15/bolivia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Bolivia part — Roma antigua — story beats: Rome's legacy runs from the Julian calendar of Julius Caesar (46 BC) to the aqueducts (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-rome) | Bolivia, *Bolivia Secundaria 1 Ciencias Sociales*, printed p. 281 |
@@ -852,3 +853,37 @@ Cuba's own way (Book 7 — g7-student (student book, Spanish)): World history ta
 **Acceptance count: taught in 34 countries (Ethiopia, Brazil, France, Poland, Turkey, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro, Dominican Republic, Egypt, Pakistan, Bolivia, Iran, Cambodia, Palestine, Colombia, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba).**
 
 Searchable tags: Cuba, History expansion 2026-11-15, ancient-world/ancient-civilisations-rome
+
+## History expansion (2026-11-15) — China stocked
+
+**Book 6 — cn-g10 (student book, Chinese)**
+- Title as printed: 普通高中教科书 历史 必修 中外历史纲要（下） (Senior High History, Compulsory: Outline of Chinese and World History, lower volume — world history)
+- Grade: Senior high (record says Grade 10) (student/teacher: STUDENT)
+- Publisher: People's Education Press (人民教育出版社), Beijing; compiled by the Ministry of Education; year 2019; ISBN no ISBN printed in scanned pages
+- PDF pages: 164 (image-only scan; cover verified — the file behind the Grade 10 record is the senior-high Outline lower volume, the same printed book as the Grade 12 record's 下 volume in a different scan; placed here in full, spot-check cross-reference in Book 9)
+- Verdict: COMPLETE
+- Tally: 46 placements — 34 to existing lessons, 12 NEW LESSON NEEDED
+- China's own way: At senior high the whole world story is compressed into 23 outline lessons, each ending in 探究与拓展 (inquiry and extension) with real scholarly voices — Hobsbawm on the age of empire, Marx on Britain in India — that pupils must judge, not just repeat.
+
+**Book 7 — cn-g11tg (teacher guide, Chinese) — PARTIAL**
+- Title as printed: 普通高中教科书 历史 教师教学用书 必修 中外历史纲要（下） (Teacher's Teaching Book for the senior-high Outline of Chinese and World History, lower volume)
+- Grade: Senior high (record says Grade 11; kind listed 'student' in the record but the book is a teacher's book) (student/teacher: TEACHER)
+- Publisher: People's Education Press (人民教育出版社), Beijing; dated December 2019 (editorial note); ISBN no ISBN printed in scanned pages
+- PDF pages: 69 (image-only scan; cover verified against the printed title)
+- Verdict: PARTIAL — the file ends at printed p. 63, inside Lesson 5's reference materials; the guide's own contents list all 23 lessons of the Outline (下) to p. 240+, so Units 3–9 guidance is missing from this file.
+- Tally: 7 placements — 7 to existing lessons, 0 NEW LESSON NEEDED
+- China's own way: The guide teaches teachers to teach by comparison — feudal Europe set against Byzantium and Rus to show civilisations develop in many patterns, not one line.
+- Non-History parts named: none — the whole guide is History teaching guidance.
+This book is a teacher guide, not a pupil text. The part(s) below stand on it as teacher-guide evidence only, labelled as such in every provenance row, and counted nowhere in the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| China part — Lesson 2: Empires and exchange — Alexander and Rome — story beats: Alexander carries Greek culture to India, Rome carries law and roads to three continents, and Han China and Rome link Eurasia's farming civilisations by the Silk Road (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-rome) | China, *普通高中教科书 历史 必修 中外历史纲要（下） (Senior High History, Compulsory: Outline of Chinese and World History, lower volume — world history)*, printed p. 8 |
+| China part — Lesson 2 guidance: Ancient empires and civilisational exchange — story beats: guide sequences Persia, Alexander, Rome and the Han–Rome link as one story of empires stitching the farming world together (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-rome) | China, *普通高中教科书 历史 教师教学用书 必修 中外历史纲要（下） (Teacher's Teaching Book for the senior-high Outline of Chinese and World History, lower volume)*, printed p. 14 |
+
+China's own way (Book 6 — cn-g10 (student book, Chinese)): At senior high the whole world story is compressed into 23 outline lessons, each ending in 探究与拓展 (inquiry and extension) with real scholarly voices — Hobsbawm on the age of empire, Marx on Britain in India — that pupils must judge, not just repeat. That way is stocked here as the way China teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+China's own way (Book 7 — cn-g11tg (teacher guide, Chinese) — PARTIAL): The guide teaches teachers to teach by comparison — feudal Europe set against Byzantium and Rus to show civilisations develop in many patterns, not one line. That way is stocked here as the way China teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 35 countries (Ethiopia, Brazil, France, Poland, Turkey, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro, Dominican Republic, Egypt, Pakistan, Bolivia, Iran, Cambodia, Palestine, Colombia, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba, China).**
+
+Searchable tags: China, History expansion 2026-11-15, ancient-world/ancient-civilisations-rome

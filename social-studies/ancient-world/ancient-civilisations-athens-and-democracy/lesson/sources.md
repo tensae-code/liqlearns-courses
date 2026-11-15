@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — Athens and democracy
 
-countries: Ethiopia, France, Poland, Australia, Malaysia, India, Montenegro, Dominican Republic, Pakistan, Colombia, Sri Lanka, Mozambique, Uzbekistan, North Macedonia, Cuba
+countries: Ethiopia, France, Poland, Australia, Malaysia, India, Montenegro, Dominican Republic, Pakistan, Colombia, Sri Lanka, Mozambique, Uzbekistan, North Macedonia, Cuba, China
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -274,3 +274,24 @@ Cuba's own way (Book 7 — g7-student (student book, Spanish)): World history ta
 **Acceptance count: taught in 15 countries (Ethiopia, France, Poland, Australia, Malaysia, India, Montenegro, Dominican Republic, Pakistan, Colombia, Sri Lanka, Mozambique, Uzbekistan, North Macedonia, Cuba).**
 
 Searchable tags: Cuba, History expansion 2026-11-15, ancient-world/ancient-civilisations-athens-and-democracy
+
+## History expansion (2026-11-15) — China stocked
+
+**Book 10 — cn-g12c (student book, Chinese)**
+- Title as printed: 普通高中教科书 历史 选择性必修1 国家制度与社会治理 (Senior High History, Selective Compulsory 1: State Systems and Social Governance)
+- Grade: Senior high (filed grade-12) (student/teacher: STUDENT)
+- Publisher: People's Education Press (人民教育出版社), Ministry of Education, 2019/2020; ISBN no ISBN read in scanned pages
+- PDF pages: 119 (grab.py tree route failed with HTTP 404 although the record says in_pushed: true; downloaded from the recorded source_url, kyohwang/ChinaTextbook; byte size 14,387,432 matches the record exactly; cover verified; text-layer read in full)
+- Verdict: COMPLETE
+- Tally: 22 placements — 4 to existing lessons, 18 NEW LESSON NEEDED
+- China's own way: History taught as systems — each unit pairs China's institutions with the West's (Chinese examinations beside British civil service, Chinese taxation beside the gold standard) and always lands in today's China.
+
+| Lesson part | Where it comes from |
+|---|---|
+| China part — Lesson 2: Western political systems, ancient — story beats: Athens votes with shells and lots, Sparta drills its citizens, and Rome grows from kings to republic to empire (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-greece-and-athenian-democracy) | China, *普通高中教科书 历史 选择性必修1 国家制度与社会治理 (Senior High History, Selective Compulsory 1: State Systems and Social Governance)*, printed p. 8 |
+
+China's own way (Book 10 — cn-g12c (student book, Chinese)): History taught as systems — each unit pairs China's institutions with the West's (Chinese examinations beside British civil service, Chinese taxation beside the gold standard) and always lands in today's China. That way is stocked here as the way China teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 16 countries (Ethiopia, France, Poland, Australia, Malaysia, India, Montenegro, Dominican Republic, Pakistan, Colombia, Sri Lanka, Mozambique, Uzbekistan, North Macedonia, Cuba, China).**
+
+Searchable tags: China, History expansion 2026-11-15, ancient-world/ancient-civilisations-athens-and-democracy

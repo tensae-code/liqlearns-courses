@@ -1,6 +1,6 @@
 # Sources — The Maya
 
-countries: Ethiopia, Guatemala, Costa Rica, Ecuador, Egypt, Bolivia, Suriname, Cambodia, Colombia, South Sudan, Mongolia, Yemen, Jordan, Afghanistan, Cuba
+countries: Ethiopia, Guatemala, Costa Rica, Ecuador, Egypt, Bolivia, Suriname, Cambodia, Colombia, South Sudan, Mongolia, Yemen, Jordan, Afghanistan, Cuba, China
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -122,6 +122,7 @@ Egypt's own way (Prep9 T1 "Egypt and the Continents of the New World", Grade 9 (
 **Book 1 (bol-g7-student-sec1):** *Texto de Aprendizaje — Ciencias Sociales, 1er Año de Educación Secundaria Comunitaria Productiva* (student book, Spanish) — Bolivia. Title as printed: Texto de Aprendizaje — Ciencias Sociales, 1er Año de Educación Secundaria Comunitaria Productiva (cover: Área Ciencias Sociales, Campo Comunidad y Sociedad). Grade: Grade 7 (student/teacher: STUDENT). Publisher: Ministerio de Educación de Bolivia; year not printed in the held portion; no ISBN printed. PDF pages: 98 (cover verified against the record title). Verdict note on pagination: the held file carries printed pp. 236–333 — it is the later portion of the year's text as released under the "full-year" asset name, so it is filed PARTIAL for coverage of the year (the parts present are read in full). Verdict: PARTIAL — printed pp. 236–333 of the Secundaria 1 text; earlier printed pages are not in this file. Tally: 15 placements — 11 to existing lessons, 4 NEW LESSON NEEDED. Non-History parts (named, not placed): Geography of Bolivia and the Earth — geography's origins and human geography, geology and eras, continental drift (Wegener), map projections, water rights and Mother Earth laws (Leyes 071/300), Bolivia's geographic regions, political-administrative organisation and salares (printed pp. ~240–257 and ~299–304 — Geography/Civics). Placements at liqlearns-courses-work/expansion-history-2026-11-15/bolivia-placements.md.
 
 **Book 5 (bol-g7-teacher-compendio):** *Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Secundaria Comunitaria Productiva, Área Ciencias Sociales* (teacher guide, Spanish) — Bolivia. Title as printed: Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Secundaria Comunitaria Productiva, Área Ciencias Sociales. Grade: Grade 7 record (student/teacher: TEACHER) — the compendium in fact compiles the student learning texts of ALL SIX years of Secundaria (Primer to Sexto Año), so its History units for Years 3 and 5 are placed here too, as they have no separate student book in this wave. Publisher: Ministerio de Educación, Estado Plurinacional de Bolivia; years 2023–2024; no ISBN printed. PDF pages: 332 (cover verified against the record title). Verdict: COMPLETE. Tally: 68 placements — 26 to existing lessons, 42 NEW LESSON NEEDED. Non-History parts (named, not placed): Year 1 — Geografía, Tiempo geológico, De Pangea a la formación de los continentes, Madre Tierra como sujeto de derecho, Geografía general de Bolivia (Geography); Year 2 — Principios ético-morales en la Constitución (Civics); Year 3 — Desarrollo científico de la Ciencia Geográfica, Cartografía (Geography), Ley 348 and Ley 243 on violence against women (Civics/law); Year 4 — El agua: ¿mercancía, derecho humano o fuerza de vida? (Civics/Geography); Year 5 — La labor del Censista (Civics), Ciudadanía boliviana, derechos y deberes (Civics); Year 6 — Geopolítica (Geography/political science). Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-history-2026-11-15/bolivia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Bolivia part — Los Mayas — story beats: Maya and Aztec number systems are compared, and the Popol Vuh is read as the summit of Maya and Native American literature (History expansion, 2026-11-15; original placement slug: ancient-world/the-maya) | Bolivia, *Bolivia Secundaria 1 Ciencias Sociales*, printed p. 291 |
@@ -391,3 +392,48 @@ Cuba's own way (Book 12 — g10-america (student book, Spanish)): A whole book f
 **Acceptance count: taught in 15 countries (Ethiopia, Guatemala, Costa Rica, Ecuador, Egypt, Bolivia, Suriname, Cambodia, Colombia, South Sudan, Mongolia, Yemen, Jordan, Afghanistan, Cuba).**
 
 Searchable tags: Cuba, History expansion 2026-11-15, ancient-world/the-maya
+
+## History expansion (2026-11-15) — China stocked
+
+**Book 6 — cn-g10 (student book, Chinese)**
+- Title as printed: 普通高中教科书 历史 必修 中外历史纲要（下） (Senior High History, Compulsory: Outline of Chinese and World History, lower volume — world history)
+- Grade: Senior high (record says Grade 10) (student/teacher: STUDENT)
+- Publisher: People's Education Press (人民教育出版社), Beijing; compiled by the Ministry of Education; year 2019; ISBN no ISBN printed in scanned pages
+- PDF pages: 164 (image-only scan; cover verified — the file behind the Grade 10 record is the senior-high Outline lower volume, the same printed book as the Grade 12 record's 下 volume in a different scan; placed here in full, spot-check cross-reference in Book 9)
+- Verdict: COMPLETE
+- Tally: 46 placements — 34 to existing lessons, 12 NEW LESSON NEEDED
+- China's own way: At senior high the whole world story is compressed into 23 outline lessons, each ending in 探究与拓展 (inquiry and extension) with real scholarly voices — Hobsbawm on the age of empire, Marx on Britain in India — that pupils must judge, not just repeat.
+
+**Book 7 — cn-g11tg (teacher guide, Chinese) — PARTIAL**
+- Title as printed: 普通高中教科书 历史 教师教学用书 必修 中外历史纲要（下） (Teacher's Teaching Book for the senior-high Outline of Chinese and World History, lower volume)
+- Grade: Senior high (record says Grade 11; kind listed 'student' in the record but the book is a teacher's book) (student/teacher: TEACHER)
+- Publisher: People's Education Press (人民教育出版社), Beijing; dated December 2019 (editorial note); ISBN no ISBN printed in scanned pages
+- PDF pages: 69 (image-only scan; cover verified against the printed title)
+- Verdict: PARTIAL — the file ends at printed p. 63, inside Lesson 5's reference materials; the guide's own contents list all 23 lessons of the Outline (下) to p. 240+, so Units 3–9 guidance is missing from this file.
+- Tally: 7 placements — 7 to existing lessons, 0 NEW LESSON NEEDED
+- China's own way: The guide teaches teachers to teach by comparison — feudal Europe set against Byzantium and Rus to show civilisations develop in many patterns, not one line.
+- Non-History parts named: none — the whole guide is History teaching guidance.
+
+**Book 12 — cn-g12e (student book, Chinese)**
+- Title as printed: 普通高中教科书 历史 选择性必修3 文化交流与传播 (Senior High History, Selective Compulsory 3: Cultural Exchange and Dissemination)
+- Grade: Senior high (filed grade-12) (student/teacher: STUDENT)
+- Publisher: People's Education Press (人民教育出版社), Ministry of Education, 2019/2020; ISBN no ISBN read in scanned pages
+- PDF pages: 106 (grab.py tree route failed with HTTP 404 although the record says in_pushed: true; downloaded from the recorded source_url, kyohwang/ChinaTextbook; byte size 10,459,974 matches the record exactly; cover verified; text-layer read in full)
+- Verdict: COMPLETE
+- Tally: 19 placements — 10 to existing lessons, 9 NEW LESSON NEEDED
+- China's own way: Culture itself is the subject — China's culture is presented as both receiver and giver across five thousand years, and heritage protection closes the book as a duty to all humanity.
+This book is a teacher guide, not a pupil text. The part(s) below stand on it as teacher-guide evidence only, labelled as such in every provenance row, and counted nowhere in the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| China part — Lesson 5: Ancient Americas — Maya — story beats: the Maya raise stepped temple-pyramids like Kukulkan's, a feathered-serpent temple whose base runs 55 metres to a side, and keep their festivals by an exact calendar (History expansion, 2026-11-15; original placement slug: ancient-world/the-maya) | China, *普通高中教科书 历史 必修 中外历史纲要（下） (Senior High History, Compulsory: Outline of Chinese and World History, lower volume — world history)*, printed p. 27 |
+| China part — Lesson 5 guidance: Ancient Americas — story beats: guide corrects the textbook myth directly — Maya pyramids are temple platforms, not pharaohs' tombs; at Kukulkan's temple the feathered serpent is the sun god, and crowds still gather at the equinox rites (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: ancient-world/the-maya) | China, *普通高中教科书 历史 教师教学用书 必修 中外历史纲要（下） (Teacher's Teaching Book for the senior-high Outline of Chinese and World History, lower volume)*, printed p. 63 |
+| China part — Lesson 5: Cultures of South Asia, East Asia and the Americas (2) — story beats: Maya calendars, Aztec lakeside cities and Inca roads — whole civilisations raised in isolation from the old world (History expansion, 2026-11-15; original placement slug: ancient-world/the-maya) | China, *普通高中教科书 历史 选择性必修3 文化交流与传播 (Senior High History, Selective Compulsory 3: Cultural Exchange and Dissemination)*, printed p. 26 |
+
+China's own way (Book 6 — cn-g10 (student book, Chinese)): At senior high the whole world story is compressed into 23 outline lessons, each ending in 探究与拓展 (inquiry and extension) with real scholarly voices — Hobsbawm on the age of empire, Marx on Britain in India — that pupils must judge, not just repeat. That way is stocked here as the way China teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+China's own way (Book 7 — cn-g11tg (teacher guide, Chinese) — PARTIAL): The guide teaches teachers to teach by comparison — feudal Europe set against Byzantium and Rus to show civilisations develop in many patterns, not one line. That way is stocked here as the way China teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+China's own way (Book 12 — cn-g12e (student book, Chinese)): Culture itself is the subject — China's culture is presented as both receiver and giver across five thousand years, and heritage protection closes the book as a duty to all humanity. That way is stocked here as the way China teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 16 countries (Ethiopia, Guatemala, Costa Rica, Ecuador, Egypt, Bolivia, Suriname, Cambodia, Colombia, South Sudan, Mongolia, Yemen, Jordan, Afghanistan, Cuba, China).**
+
+Searchable tags: China, History expansion 2026-11-15, ancient-world/the-maya

@@ -1,6 +1,6 @@
 # Sources — Heritage — what it is and why it matters
 
-countries: Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivia, Zimbabwe, Eritrea, Cambodia, Fiji, Slovenia, Syria, Mauritania, Jordan, Bhutan, Cuba, Greece, Nauru, Niue, Tuvalu, Saudi Arabia, Rwanda, Poland, Guatemala, Australia, Bahamas, Nepal, Belarus, Dominican Republic, Egypt, Pakistan, Iran, Suriname, Palestine, Colombia, South Sudan, Samoa, Yemen, North Macedonia, Laos
+countries: Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivia, Zimbabwe, Eritrea, Cambodia, Fiji, Slovenia, Syria, Mauritania, Jordan, Bhutan, Cuba, Greece, Nauru, Niue, Tuvalu, Saudi Arabia, Rwanda, Poland, Guatemala, Australia, Bahamas, Nepal, Belarus, Dominican Republic, Egypt, Pakistan, Iran, Suriname, Palestine, Colombia, South Sudan, Samoa, Yemen, North Macedonia, Laos, China
 
 **Book 1:** *History, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, Addis Ababa, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-064-2, 210 printed pp. Printed page = PDF page − 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g09-student-placements.md
 
@@ -1569,3 +1569,58 @@ Laos's own way (Book 14 — LA-G12-S (student book, Lao)): same course as the te
 **Acceptance count: taught in 40 countries (Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivia, Zimbabwe, Eritrea, Cambodia, Fiji, Slovenia, Syria, Mauritania, Jordan, Bhutan, Cuba, Greece, Nauru, Niue, Tuvalu, Saudi Arabia, Rwanda, Poland, Guatemala, Australia, Bahamas, Nepal, Belarus, Dominican Republic, Egypt, Pakistan, Iran, Suriname, Palestine, Colombia, South Sudan, Samoa, Yemen, North Macedonia, Laos).**
 
 Searchable tags: Laos, History expansion 2026-11-15, first-steps/heritage-what-it-is-and-why-it-matters
+
+## History expansion (2026-11-15) — China stocked
+
+**Book 2 — cn-g7-a (student book, Chinese)**
+- Title as printed: 中国历史 七年级 下册 (Chinese History, Grade 7, second volume)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: People's Education Press (人民教育出版社), Beijing; editor-in-chief Qi Shirong (齐世荣); year not printed on scanned cover pages; ISBN no ISBN printed in scanned pages
+- PDF pages: 124 (image-only scan; cover verified against the printed title; read by OCR of contents, unit introductions and every lesson's pages plus the earlier full-lesson OCR of Lessons 1–3)
+- Verdict: COMPLETE
+- Tally: 23 placements — 4 to existing lessons, 19 NEW LESSON NEEDED
+- China's own way: Each lesson opens with a poem or scene, tells the dynasty as a story of rulers and turning points, and carries 相关史事 (related historical facts) and 材料研读 (source reading) boxes — Wei Zheng remonstrating 200 times, Song Taizu taking his generals' power over a cup of wine.
+
+**Book 8 — cn-g12a (student book, Chinese)**
+- Title as printed: 普通高中教科书 历史 必修 中外历史纲要（上） (Senior High History, Compulsory: Outline of Chinese and World History, upper volume — Chinese history)
+- Grade: Senior high (filed grade-12) (student/teacher: STUDENT)
+- Publisher: People's Education Press (人民教育出版社), Beijing; editors-in-chief Zhang Haipeng (张海鹏) and Xu Lan (徐蓝); year 2019; ISBN no ISBN printed in scanned pages
+- PDF pages: 222 (grab.py tree route failed twice with HTTP 404 — the record itself is in_pushed: false — so the book was downloaded from its recorded source_url, the kyohwang/ChinaTextbook PEP collection; byte size 45,042,587 matches the record exactly; cover verified; text-layer read in full)
+- Verdict: COMPLETE
+- Tally: 46 placements — 4 to existing lessons, 42 NEW LESSON NEEDED
+- China's own way: One spine for five thousand years — 'the unified multi-ethnic feudal state' is the thread from Qin to Qing, then invasion, revolution and the Party's road; every lesson carries 史料阅读 (source reading) and 历史纵横 (history across) boxes.
+- Staged under the new rule: this file is NOT in GitHub; the read copy was staged at ~/workspace/phase3-staging/grade-12/gov/china/普通高中教科书-历史必修 中外历史纲要（上）.pdf (its books.json record already exists there).
+
+**Book 10 — cn-g12c (student book, Chinese)**
+- Title as printed: 普通高中教科书 历史 选择性必修1 国家制度与社会治理 (Senior High History, Selective Compulsory 1: State Systems and Social Governance)
+- Grade: Senior high (filed grade-12) (student/teacher: STUDENT)
+- Publisher: People's Education Press (人民教育出版社), Ministry of Education, 2019/2020; ISBN no ISBN read in scanned pages
+- PDF pages: 119 (grab.py tree route failed with HTTP 404 although the record says in_pushed: true; downloaded from the recorded source_url, kyohwang/ChinaTextbook; byte size 14,387,432 matches the record exactly; cover verified; text-layer read in full)
+- Verdict: COMPLETE
+- Tally: 22 placements — 4 to existing lessons, 18 NEW LESSON NEEDED
+- China's own way: History taught as systems — each unit pairs China's institutions with the West's (Chinese examinations beside British civil service, Chinese taxation beside the gold standard) and always lands in today's China.
+
+**Book 12 — cn-g12e (student book, Chinese)**
+- Title as printed: 普通高中教科书 历史 选择性必修3 文化交流与传播 (Senior High History, Selective Compulsory 3: Cultural Exchange and Dissemination)
+- Grade: Senior high (filed grade-12) (student/teacher: STUDENT)
+- Publisher: People's Education Press (人民教育出版社), Ministry of Education, 2019/2020; ISBN no ISBN read in scanned pages
+- PDF pages: 106 (grab.py tree route failed with HTTP 404 although the record says in_pushed: true; downloaded from the recorded source_url, kyohwang/ChinaTextbook; byte size 10,459,974 matches the record exactly; cover verified; text-layer read in full)
+- Verdict: COMPLETE
+- Tally: 19 placements — 10 to existing lessons, 9 NEW LESSON NEEDED
+- China's own way: Culture itself is the subject — China's culture is presented as both receiver and giver across five thousand years, and heritage protection closes the book as a duty to all humanity.
+
+| Lesson part | Where it comes from |
+|---|---|
+| China part — Lesson 22 (activity): Origins of China's traditional festivals — story beats: dragon boats at Duanwu and New Year greetings in Song paintings show festivals gathering farming, ritual, food and astronomy into customs still lived today (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | China, *中国历史 七年级 下册 (Chinese History, Grade 7, second volume)*, printed p. 113 |
+| China part — Activity lesson: Family-country feeling and the evolution of the unified multi-ethnic state — story beats: pupils trace their own region's place in the long unification story and present it as patriotic heritage work (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | China, *普通高中教科书 历史 必修 中外历史纲要（上） (Senior High History, Compulsory: Outline of Chinese and World History, upper volume — Chinese history)*, printed p. 197 |
+| China part — Activity lesson: Governing the unified great state in Chinese history — story beats: pupils present how different dynasties held one vast country together, as heritage of statecraft (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | China, *普通高中教科书 历史 选择性必修1 国家制度与社会治理 (Senior High History, Selective Compulsory 1: State Systems and Social Governance)*, printed p. 110 |
+| China part — Lesson 15: Cultural heritage — the common wealth of all humanity — story beats: Dunhuang's caves, looted and guarded, become the argument for world heritage as everyone's inheritance (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | China, *普通高中教科书 历史 选择性必修3 文化交流与传播 (Senior High History, Selective Compulsory 3: Cultural Exchange and Dissemination)*, printed p. 87 |
+
+China's own way (Book 2 — cn-g7-a (student book, Chinese)): Each lesson opens with a poem or scene, tells the dynasty as a story of rulers and turning points, and carries 相关史事 (related historical facts) and 材料研读 (source reading) boxes — Wei Zheng remonstrating 200 times, Song Taizu taking his generals' power over a cup of wine. That way is stocked here as the way China teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+China's own way (Book 8 — cn-g12a (student book, Chinese)): One spine for five thousand years — 'the unified multi-ethnic feudal state' is the thread from Qin to Qing, then invasion, revolution and the Party's road; every lesson carries 史料阅读 (source reading) and 历史纵横 (history across) boxes. That way is stocked here as the way China teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+China's own way (Book 10 — cn-g12c (student book, Chinese)): History taught as systems — each unit pairs China's institutions with the West's (Chinese examinations beside British civil service, Chinese taxation beside the gold standard) and always lands in today's China. That way is stocked here as the way China teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+China's own way (Book 12 — cn-g12e (student book, Chinese)): Culture itself is the subject — China's culture is presented as both receiver and giver across five thousand years, and heritage protection closes the book as a duty to all humanity. That way is stocked here as the way China teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 41 countries (Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivia, Zimbabwe, Eritrea, Cambodia, Fiji, Slovenia, Syria, Mauritania, Jordan, Bhutan, Cuba, Greece, Nauru, Niue, Tuvalu, Saudi Arabia, Rwanda, Poland, Guatemala, Australia, Bahamas, Nepal, Belarus, Dominican Republic, Egypt, Pakistan, Iran, Suriname, Palestine, Colombia, South Sudan, Samoa, Yemen, North Macedonia, Laos, China).**
+
+Searchable tags: China, History expansion 2026-11-15, first-steps/heritage-what-it-is-and-why-it-matters

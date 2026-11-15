@@ -1,6 +1,6 @@
 # Sources — The Industrial Revolution — textiles, steam and rail
 
-countries: Ethiopia, France, Australia, Kuwait, Dominican Republic, Pakistan, Cambodia, Colombia, South Sudan, Samoa, North Macedonia, Laos, Cuba
+countries: Ethiopia, France, Australia, Kuwait, Dominican Republic, Pakistan, Cambodia, Colombia, South Sudan, Samoa, North Macedonia, Laos, Cuba, China
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 131).
 
@@ -272,3 +272,36 @@ Cuba's own way (Book 8 — g8-student (student book, Spanish)): Modern/contempor
 **Acceptance count: taught in 13 countries (Ethiopia, France, Australia, Kuwait, Dominican Republic, Pakistan, Cambodia, Colombia, South Sudan, Samoa, North Macedonia, Laos, Cuba).**
 
 Searchable tags: Cuba, History expansion 2026-11-15, modern-world/the-industrial-revolution-textiles-steam-and-rail
+
+## History expansion (2026-11-15) — China stocked
+
+**Book 3 — cn-g8-b (student book, Chinese) — combined History and Society**
+- Title as printed: 历史与社会 八年级 下册 (History and Society, Grade 8, second volume)
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: People's Education Press (人民教育出版社), Beijing; year not printed on scanned cover pages; ISBN no ISBN printed in scanned pages
+- PDF pages: 120 (image-only scan; cover verified — the file behind the record's generic "历史 History — Grade 08" title is the combined History and Society book)
+- Verdict: COMPLETE
+- Tally: 25 placements — 12 to existing lessons, 13 NEW LESSON NEEDED
+- China's own way: Chinese and world history are woven in one book — Ming-Qing China first, then Renaissance-to-industrial Europe, ending with China's own crisis after 1840; source extracts (资料) and folk songs carry the stories.
+- Non-History parts named: none — Units 5–8 are all History (Ming-Qing China; capitalism and bourgeois revolutions; industrial revolution and Marxism; modern China to 1912).
+
+**Book 11 — cn-g12d (student book, Chinese)**
+- Title as printed: 普通高中教科书 历史 选择性必修2 经济与社会生活 (Senior High History, Selective Compulsory 2: Economy and Social Life)
+- Grade: Senior high (filed grade-12) (student/teacher: STUDENT)
+- Publisher: People's Education Press (人民教育出版社), Ministry of Education; volume editors Yang Gongle (杨共乐) and Ye Xiaobing (叶小兵); year 2019/2020; ISBN no ISBN read in scanned pages
+- PDF pages: 102 (grab.py tree route failed with HTTP 404 although the record says in_pushed: true; downloaded from the recorded source_url, kyohwang/ChinaTextbook; byte size 10,168,720 matches the record exactly; cover verified; text-layer read in full)
+- Verdict: COMPLETE
+- Tally: 16 placements — 6 to existing lessons, 10 NEW LESSON NEEDED
+- China's own way: History from the kitchen and the workshop — food, tools, markets, houses, roads and medicine carry the story, with China (Hemudu rice, the Grand Canal, Bencao Gangmu) woven through every unit.
+
+| Lesson part | Where it comes from |
+|---|---|
+| China part — Unit 7 Lesson 1: The Industrial Revolution — story beats: machines, steam and factories remake how things are made, beginning in Britain's textile mills (History expansion, 2026-11-15; original placement slug: modern-world/the-industrial-revolution-textiles-steam-and-rail) | China, *历史与社会 八年级 下册 (History and Society, Grade 8, second volume)*, printed p. 58 |
+| China part — Lesson 5: The Industrial Revolution and the factory system — story beats: the mill bell replaces the sun; workers gather under one roof on the owner's clock, and the factory becomes the modern world's template (History expansion, 2026-11-15; original placement slug: modern-world/the-industrial-revolution-textiles-steam-and-rail) | China, *普通高中教科书 历史 选择性必修2 经济与社会生活 (Senior High History, Selective Compulsory 2: Economy and Social Life)*, printed p. 25 |
+
+China's own way (Book 3 — cn-g8-b (student book, Chinese) — combined History and Society): Chinese and world history are woven in one book — Ming-Qing China first, then Renaissance-to-industrial Europe, ending with China's own crisis after 1840; source extracts (资料) and folk songs carry the stories. That way is stocked here as the way China teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+China's own way (Book 11 — cn-g12d (student book, Chinese)): History from the kitchen and the workshop — food, tools, markets, houses, roads and medicine carry the story, with China (Hemudu rice, the Grand Canal, Bencao Gangmu) woven through every unit. That way is stocked here as the way China teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 14 countries (Ethiopia, France, Australia, Kuwait, Dominican Republic, Pakistan, Cambodia, Colombia, South Sudan, Samoa, North Macedonia, Laos, Cuba, China).**
+
+Searchable tags: China, History expansion 2026-11-15, modern-world/the-industrial-revolution-textiles-steam-and-rail

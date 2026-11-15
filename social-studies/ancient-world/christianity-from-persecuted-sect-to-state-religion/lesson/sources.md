@@ -1,6 +1,6 @@
 # Sources — Christianity — from persecuted sect to state religion
 
-countries: Ethiopia, Poland, Costa Rica, Ecuador, India, Montenegro, Colombia, Sri Lanka, Mongolia, North Macedonia
+countries: Ethiopia, Poland, Costa Rica, Ecuador, India, Montenegro, Colombia, Sri Lanka, Mongolia, North Macedonia, China
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -224,3 +224,24 @@ North Macedonia's own way (Book 3 — Istorija I (History I), Grade 10 (student 
 **Acceptance count: taught in 10 countries (Ethiopia, Poland, Costa Rica, Ecuador, India, Montenegro, Colombia, Sri Lanka, Mongolia, North Macedonia).**
 
 Searchable tags: North Macedonia, History expansion 2026-11-15, ancient-world/christianity-from-persecuted-sect-to-state-religion
+
+## History expansion (2026-11-15) — China stocked
+
+**Book 12 — cn-g12e (student book, Chinese)**
+- Title as printed: 普通高中教科书 历史 选择性必修3 文化交流与传播 (Senior High History, Selective Compulsory 3: Cultural Exchange and Dissemination)
+- Grade: Senior high (filed grade-12) (student/teacher: STUDENT)
+- Publisher: People's Education Press (人民教育出版社), Ministry of Education, 2019/2020; ISBN no ISBN read in scanned pages
+- PDF pages: 106 (grab.py tree route failed with HTTP 404 although the record says in_pushed: true; downloaded from the recorded source_url, kyohwang/ChinaTextbook; byte size 10,459,974 matches the record exactly; cover verified; text-layer read in full)
+- Verdict: COMPLETE
+- Tally: 19 placements — 10 to existing lessons, 9 NEW LESSON NEEDED
+- China's own way: Culture itself is the subject — China's culture is presented as both receiver and giver across five thousand years, and heritage protection closes the book as a duty to all humanity.
+
+| Lesson part | Where it comes from |
+|---|---|
+| China part — Lesson 4: The formation of European culture (2) — story beats: Christianity, born in West Asia, becomes Europe's binding faith and carries its culture through the medieval centuries (History expansion, 2026-11-15; original placement slug: ancient-world/christianity-from-persecuted-sect-to-state-religion) | China, *普通高中教科书 历史 选择性必修3 文化交流与传播 (Senior High History, Selective Compulsory 3: Cultural Exchange and Dissemination)*, printed p. 21 |
+
+China's own way (Book 12 — cn-g12e (student book, Chinese)): Culture itself is the subject — China's culture is presented as both receiver and giver across five thousand years, and heritage protection closes the book as a duty to all humanity. That way is stocked here as the way China teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 11 countries (Ethiopia, Poland, Costa Rica, Ecuador, India, Montenegro, Colombia, Sri Lanka, Mongolia, North Macedonia, China).**
+
+Searchable tags: China, History expansion 2026-11-15, ancient-world/christianity-from-persecuted-sect-to-state-religion

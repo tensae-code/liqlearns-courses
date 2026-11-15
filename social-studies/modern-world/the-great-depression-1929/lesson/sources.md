@@ -1,6 +1,6 @@
 # Sources — The Great Depression — 1929 and the world it broke
 
-countries: Ethiopia, United States, Costa Rica, Australia, Indonesia, United Kingdom, Suriname, Cambodia, Colombia, Mauritania, Samoa, Iraq, Mozambique, North Macedonia, Laos, Cuba
+countries: Ethiopia, United States, Costa Rica, Australia, Indonesia, United Kingdom, Suriname, Cambodia, Colombia, Mauritania, Samoa, Iraq, Mozambique, North Macedonia, Laos, Cuba, China
 
 **Book 1:** *History, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN 978-99990-0-065-9. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g10-student-placements.md
 
@@ -93,6 +93,7 @@ United Kingdom's own way (GCSE History for Edexcel: Weimar and Nazi Germany, 191
 ## History expansion (2026-11-15) — Bolivia stocked
 
 **Book 5 (bol-g7-teacher-compendio):** *Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Secundaria Comunitaria Productiva, Área Ciencias Sociales* (teacher guide, Spanish) — Bolivia. Title as printed: Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Secundaria Comunitaria Productiva, Área Ciencias Sociales. Grade: Grade 7 record (student/teacher: TEACHER) — the compendium in fact compiles the student learning texts of ALL SIX years of Secundaria (Primer to Sexto Año), so its History units for Years 3 and 5 are placed here too, as they have no separate student book in this wave. Publisher: Ministerio de Educación, Estado Plurinacional de Bolivia; years 2023–2024; no ISBN printed. PDF pages: 332 (cover verified against the record title). Verdict: COMPLETE. Tally: 68 placements — 26 to existing lessons, 42 NEW LESSON NEEDED. Non-History parts (named, not placed): Year 1 — Geografía, Tiempo geológico, De Pangea a la formación de los continentes, Madre Tierra como sujeto de derecho, Geografía general de Bolivia (Geography); Year 2 — Principios ético-morales en la Constitución (Civics); Year 3 — Desarrollo científico de la Ciencia Geográfica, Cartografía (Geography), Ley 348 and Ley 243 on violence against women (Civics/law); Year 4 — El agua: ¿mercancía, derecho humano o fuerza de vida? (Civics/Geography); Year 5 — La labor del Censista (Civics), Ciudadanía boliviana, derechos y deberes (Civics); Year 6 — Geopolítica (Geography/political science). Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-history-2026-11-15/bolivia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Bolivia part — Año 5: La crisis capitalista de 1929 y la gran depresión — story beats: Capitalism's 1929 crisis and the Great Depression are named as systemic, not accidental (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: modern-world/the-great-depression-1929) | Bolivia, *Bolivia Compendio Ciencias Sociales*, compendium p. 264 (Año 5) |
@@ -433,3 +434,24 @@ Cuba's own way (Book 8 — g8-student (student book, Spanish)): Modern/contempor
 **Acceptance count: taught in 16 countries (Ethiopia, United States, Costa Rica, Australia, Indonesia, United Kingdom, Suriname, Cambodia, Colombia, Mauritania, Samoa, Iraq, Mozambique, North Macedonia, Laos, Cuba).**
 
 Searchable tags: Cuba, History expansion 2026-11-15, modern-world/the-great-depression-1929
+
+## History expansion (2026-11-15) — China stocked
+
+**Book 4 — cn-g8-a (student book, Chinese)**
+- Title as printed: 世界历史 九年级 下册 (World History, Grade 9, second volume)
+- Grade: Grade 9 as printed (record says Grade 8) (student/teacher: STUDENT)
+- Publisher: People's Education Press (人民教育出版社), Beijing; editor-in-chief Qi Shirong (齐世荣); year not printed on scanned cover pages; ISBN no ISBN printed in scanned pages
+- PDF pages: 117 (image-only scan; cover verified — the file behind the Grade 8 record is in fact the Grade 9 World History book; mismatch named, book placed as itself)
+- Verdict: COMPLETE
+- Tally: 28 placements — 14 to existing lessons, 14 NEW LESSON NEEDED
+- China's own way: World history is told as one rising line — resistance, reform, industrialisation, world wars, Cold War, and a peaceful-development future — with a 人物扫描 (person scan) portrait in nearly every lesson: Bolívar, Peter the Great, Gandhi.
+
+| Lesson part | Where it comes from |
+|---|---|
+| China part — Lesson 13: Roosevelt's New Deal — story beats: the 1929 crash throws millions out of work, and Roosevelt answers with the New Deal's banks, works and welfare (History expansion, 2026-11-15; original placement slug: modern-world/the-great-depression-1929) | China, *世界历史 九年级 下册 (World History, Grade 9, second volume)*, printed p. 58 |
+
+China's own way (Book 4 — cn-g8-a (student book, Chinese)): World history is told as one rising line — resistance, reform, industrialisation, world wars, Cold War, and a peaceful-development future — with a 人物扫描 (person scan) portrait in nearly every lesson: Bolívar, Peter the Great, Gandhi. That way is stocked here as the way China teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 17 countries (Ethiopia, United States, Costa Rica, Australia, Indonesia, United Kingdom, Suriname, Cambodia, Colombia, Mauritania, Samoa, Iraq, Mozambique, North Macedonia, Laos, Cuba, China).**
+
+Searchable tags: China, History expansion 2026-11-15, modern-world/the-great-depression-1929

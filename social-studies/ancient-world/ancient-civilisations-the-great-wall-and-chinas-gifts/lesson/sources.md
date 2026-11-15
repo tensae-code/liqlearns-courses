@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — the Great Wall and China's gifts
 
-countries: Ethiopia, Australia, India, Pakistan, Palestine, Colombia, Jordan, Uzbekistan
+countries: Ethiopia, Australia, India, Pakistan, Palestine, Colombia, Jordan, Uzbekistan, China
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 6, placements 92–106).
 
@@ -171,3 +171,35 @@ Uzbekistan's own way (Book 2 — Istoriya: Drevny mir / History: The Ancient Wor
 **Acceptance count: taught in 8 countries (Ethiopia, Australia, India, Pakistan, Palestine, Colombia, Jordan, Uzbekistan).**
 
 Searchable tags: Uzbekistan, History expansion 2026-11-15, ancient-world/ancient-civilisations-the-great-wall-and-chinas-gifts
+
+## History expansion (2026-11-15) — China stocked
+
+**Book 2 — cn-g7-a (student book, Chinese)**
+- Title as printed: 中国历史 七年级 下册 (Chinese History, Grade 7, second volume)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: People's Education Press (人民教育出版社), Beijing; editor-in-chief Qi Shirong (齐世荣); year not printed on scanned cover pages; ISBN no ISBN printed in scanned pages
+- PDF pages: 124 (image-only scan; cover verified against the printed title; read by OCR of contents, unit introductions and every lesson's pages plus the earlier full-lesson OCR of Lessons 1–3)
+- Verdict: COMPLETE
+- Tally: 23 placements — 4 to existing lessons, 19 NEW LESSON NEEDED
+- China's own way: Each lesson opens with a poem or scene, tells the dynasty as a story of rulers and turning points, and carries 相关史事 (related historical facts) and 材料研读 (source reading) boxes — Wei Zheng remonstrating 200 times, Song Taizu taking his generals' power over a cup of wine.
+
+**Book 12 — cn-g12e (student book, Chinese)**
+- Title as printed: 普通高中教科书 历史 选择性必修3 文化交流与传播 (Senior High History, Selective Compulsory 3: Cultural Exchange and Dissemination)
+- Grade: Senior high (filed grade-12) (student/teacher: STUDENT)
+- Publisher: People's Education Press (人民教育出版社), Ministry of Education, 2019/2020; ISBN no ISBN read in scanned pages
+- PDF pages: 106 (grab.py tree route failed with HTTP 404 although the record says in_pushed: true; downloaded from the recorded source_url, kyohwang/ChinaTextbook; byte size 10,459,974 matches the record exactly; cover verified; text-layer read in full)
+- Verdict: COMPLETE
+- Tally: 19 placements — 10 to existing lessons, 9 NEW LESSON NEEDED
+- China's own way: Culture itself is the subject — China's culture is presented as both receiver and giver across five thousand years, and heritage protection closes the book as a duty to all humanity.
+
+| Lesson part | Where it comes from |
+|---|---|
+| China part — Lesson 13: Song-Yuan science and foreign traffic — story beats: Shen Kuo's Dream Pool Essays record Bi Sheng's movable type — slow for two copies, miraculously fast for ten thousand — as compass and gunpowder spread and sea trade booms (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-the-great-wall-and-chinas-gifts) | China, *中国历史 七年级 下册 (Chinese History, Grade 7, second volume)*, printed p. 59 |
+| China part — Lesson 2: Chinese culture's significance for the world — story beats: paper, printing, gunpowder and the compass travel west; rice, tea and Confucian statecraft shape East Asia — China's gifts, given their own world-history lesson (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-the-great-wall-and-chinas-gifts) | China, *普通高中教科书 历史 选择性必修3 文化交流与传播 (Senior High History, Selective Compulsory 3: Cultural Exchange and Dissemination)*, printed p. 8 |
+
+China's own way (Book 2 — cn-g7-a (student book, Chinese)): Each lesson opens with a poem or scene, tells the dynasty as a story of rulers and turning points, and carries 相关史事 (related historical facts) and 材料研读 (source reading) boxes — Wei Zheng remonstrating 200 times, Song Taizu taking his generals' power over a cup of wine. That way is stocked here as the way China teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+China's own way (Book 12 — cn-g12e (student book, Chinese)): Culture itself is the subject — China's culture is presented as both receiver and giver across five thousand years, and heritage protection closes the book as a duty to all humanity. That way is stocked here as the way China teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 9 countries (Ethiopia, Australia, India, Pakistan, Palestine, Colombia, Jordan, Uzbekistan, China).**
+
+Searchable tags: China, History expansion 2026-11-15, ancient-world/ancient-civilisations-the-great-wall-and-chinas-gifts

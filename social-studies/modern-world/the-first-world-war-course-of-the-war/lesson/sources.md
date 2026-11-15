@@ -1,6 +1,6 @@
 # Sources — The First World War — course of the war
 
-countries: Ethiopia, United States, Montenegro, Dominican Republic, Pakistan, Iran, Cambodia, South Sudan, Sri Lanka, Iraq, Mozambique, Yemen, Sudan, Uzbekistan, North Macedonia, Laos
+countries: Ethiopia, United States, Montenegro, Dominican Republic, Pakistan, Iran, Cambodia, South Sudan, Sri Lanka, Iraq, Mozambique, Yemen, Sudan, Uzbekistan, North Macedonia, Laos, China
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 134).
 
@@ -409,3 +409,24 @@ Laos's own way (Book 14 — LA-G12-S (student book, Lao)): same course as the te
 **Acceptance count: taught in 16 countries (Ethiopia, United States, Montenegro, Dominican Republic, Pakistan, Iran, Cambodia, South Sudan, Sri Lanka, Iraq, Mozambique, Yemen, Sudan, Uzbekistan, North Macedonia, Laos).**
 
 Searchable tags: Laos, History expansion 2026-11-15, modern-world/the-first-world-war-course-of-the-war
+
+## History expansion (2026-11-15) — China stocked
+
+**Book 4 — cn-g8-a (student book, Chinese)**
+- Title as printed: 世界历史 九年级 下册 (World History, Grade 9, second volume)
+- Grade: Grade 9 as printed (record says Grade 8) (student/teacher: STUDENT)
+- Publisher: People's Education Press (人民教育出版社), Beijing; editor-in-chief Qi Shirong (齐世荣); year not printed on scanned cover pages; ISBN no ISBN printed in scanned pages
+- PDF pages: 117 (image-only scan; cover verified — the file behind the Grade 8 record is in fact the Grade 9 World History book; mismatch named, book placed as itself)
+- Verdict: COMPLETE
+- Tally: 28 placements — 14 to existing lessons, 14 NEW LESSON NEEDED
+- China's own way: World history is told as one rising line — resistance, reform, industrialisation, world wars, Cold War, and a peaceful-development future — with a 人物扫描 (person scan) portrait in nearly every lesson: Bolívar, Peter the Great, Gandhi.
+
+| Lesson part | Where it comes from |
+|---|---|
+| China part — Lesson 8: The First World War — course — story beats: trenches, Verdun and the Somme grind a generation down before American entry and collapse end it (History expansion, 2026-11-15; original placement slug: modern-world/the-first-world-war-course-of-the-war) | China, *世界历史 九年级 下册 (World History, Grade 9, second volume)*, printed p. 34 |
+
+China's own way (Book 4 — cn-g8-a (student book, Chinese)): World history is told as one rising line — resistance, reform, industrialisation, world wars, Cold War, and a peaceful-development future — with a 人物扫描 (person scan) portrait in nearly every lesson: Bolívar, Peter the Great, Gandhi. That way is stocked here as the way China teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 17 countries (Ethiopia, United States, Montenegro, Dominican Republic, Pakistan, Iran, Cambodia, South Sudan, Sri Lanka, Iraq, Mozambique, Yemen, Sudan, Uzbekistan, North Macedonia, Laos, China).**
+
+Searchable tags: China, History expansion 2026-11-15, modern-world/the-first-world-war-course-of-the-war

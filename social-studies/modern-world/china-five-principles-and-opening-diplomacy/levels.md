@@ -1,0 +1,6 @@
+# China Five Principles And Opening Diplomacy — sub lessons and depth
+
+This file is the lesson's depth record, re-expressed as its sub lessons. Practice is tied to the learner's skill number. The questions live in the type files; this file is the by-sub-lesson view. Parts are ordered as the book teaches them, as stocked.
+
+## Sub lesson 1 — Today's Chinese diplomacy
+Sub lesson 1 questions from the type files. Pass mark: retell this part in your own words — the foreign ministry's story from the Five Principles to the community of a shared future

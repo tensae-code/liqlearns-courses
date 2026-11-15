@@ -1,6 +1,6 @@
 # Sources — Find history in your own locality
 
-countries: Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala, Malaysia, Ecuador, Bahamas, Eritrea, Nepal, Belarus, Fiji, Indonesia, Finland, Egypt, Syria, Suriname, Colombia, South Sudan, Samoa, Iraq, Mozambique, Yemen, Jordan, Laos, Cuba
+countries: Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala, Malaysia, Ecuador, Bahamas, Eritrea, Nepal, Belarus, Fiji, Indonesia, Finland, Egypt, Syria, Suriname, Colombia, South Sudan, Samoa, Iraq, Mozambique, Yemen, Jordan, Laos, Cuba, China
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -1132,3 +1132,24 @@ Cuba's own way (Book 4 — g5-orient (teacher guide, Spanish)): Teacher guidance
 **Acceptance count: taught in 27 countries (Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala, Malaysia, Ecuador, Bahamas, Eritrea, Nepal, Belarus, Fiji, Indonesia, Finland, Egypt, Syria, Suriname, Colombia, South Sudan, Samoa, Iraq, Mozambique, Yemen, Jordan, Laos, Cuba).**
 
 Searchable tags: Cuba, History expansion 2026-11-15, first-steps/find-history-in-your-own-locality
+
+## History expansion (2026-11-15) — China stocked
+
+**Book 5 — cn-g9 (student book, Chinese)**
+- Title as printed: 中国历史 八年级 下册 (Chinese History, Grade 8, second volume)
+- Grade: Grade 8 as printed (record says Grade 9) (student/teacher: STUDENT)
+- Publisher: People's Education Press (人民教育出版社), Beijing; editor-in-chief Qi Shirong (齐世荣); year not printed on scanned cover pages; ISBN no ISBN printed in scanned pages
+- PDF pages: 111 (image-only scan; cover verified — the file behind the Grade 9 record is in fact the Grade 8 book on the PRC; mismatch named, book placed as itself)
+- Verdict: COMPLETE
+- Tally: 21 placements — 2 to existing lessons, 19 NEW LESSON NEEDED
+- China's own way: The PRC's story is told as the nation's own family album — founding ceremony, land certificates, ration-era life, the 1978 meeting, the 1997 handover minute by minute (23:59 the old flag lowers, 0:00 the new flags rise).
+
+| Lesson part | Where it comes from |
+|---|---|
+| China part — Lesson 20 (activity): The huge change in our living environment — story beats: pupils survey their own street, village and home across two generations and present the change as local history (History expansion, 2026-11-15; original placement slug: first-steps/find-history-in-your-own-locality) | China, *中国历史 八年级 下册 (Chinese History, Grade 8, second volume)*, printed p. 102 |
+
+China's own way (Book 5 — cn-g9 (student book, Chinese)): The PRC's story is told as the nation's own family album — founding ceremony, land certificates, ration-era life, the 1978 meeting, the 1997 handover minute by minute (23:59 the old flag lowers, 0:00 the new flags rise). That way is stocked here as the way China teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 28 countries (Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala, Malaysia, Ecuador, Bahamas, Eritrea, Nepal, Belarus, Fiji, Indonesia, Finland, Egypt, Syria, Suriname, Colombia, South Sudan, Samoa, Iraq, Mozambique, Yemen, Jordan, Laos, Cuba, China).**
+
+Searchable tags: China, History expansion 2026-11-15, first-steps/find-history-in-your-own-locality

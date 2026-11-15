@@ -1,6 +1,6 @@
 # Sources — The Scramble and Berlin 1884–85 — a continent partitioned on paper
 
-countries: Ethiopia, Gambia, South Sudan, Libya, Uganda, Mozambique, North Macedonia, Cuba
+countries: Ethiopia, Gambia, South Sudan, Libya, Uganda, Mozambique, North Macedonia, Cuba, China
 
 **Book 1:** *History, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN 978-99990-0-065-9, printed by GRAVITY GROUP IND LLC, Sharjah, UAE. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g10-student-placements.md
 
@@ -281,3 +281,24 @@ Cuba's own way (Book 8 — g8-student (student book, Spanish)): Modern/contempor
 **Acceptance count: taught in 8 countries (Ethiopia, Gambia, South Sudan, Libya, Uganda, Mozambique, North Macedonia, Cuba).**
 
 Searchable tags: Cuba, History expansion 2026-11-15, africa-after-1500/the-scramble-and-berlin-1884-85
+
+## History expansion (2026-11-15) — China stocked
+
+**Book 6 — cn-g10 (student book, Chinese)**
+- Title as printed: 普通高中教科书 历史 必修 中外历史纲要（下） (Senior High History, Compulsory: Outline of Chinese and World History, lower volume — world history)
+- Grade: Senior high (record says Grade 10) (student/teacher: STUDENT)
+- Publisher: People's Education Press (人民教育出版社), Beijing; compiled by the Ministry of Education; year 2019; ISBN no ISBN printed in scanned pages
+- PDF pages: 164 (image-only scan; cover verified — the file behind the Grade 10 record is the senior-high Outline lower volume, the same printed book as the Grade 12 record's 下 volume in a different scan; placed here in full, spot-check cross-reference in Book 9)
+- Verdict: COMPLETE
+- Tally: 46 placements — 34 to existing lessons, 12 NEW LESSON NEEDED
+- China's own way: At senior high the whole world story is compressed into 23 outline lessons, each ending in 探究与拓展 (inquiry and extension) with real scholarly voices — Hobsbawm on the age of empire, Marx on Britain in India — that pupils must judge, not just repeat.
+
+| Lesson part | Where it comes from |
+|---|---|
+| China part — Lesson 12: The capitalist world colonial system forms — story beats: by 1914 the powers hold the whole map; Hobsbawm's 'age of empire' passage and Marx on Britain's double mission in India are set for pupils to judge (History expansion, 2026-11-15; original placement slug: africa-after-1500/the-scramble-and-berlin-1884-85) | China, *普通高中教科书 历史 必修 中外历史纲要（下） (Senior High History, Compulsory: Outline of Chinese and World History, lower volume — world history)*, printed p. 69 |
+
+China's own way (Book 6 — cn-g10 (student book, Chinese)): At senior high the whole world story is compressed into 23 outline lessons, each ending in 探究与拓展 (inquiry and extension) with real scholarly voices — Hobsbawm on the age of empire, Marx on Britain in India — that pupils must judge, not just repeat. That way is stocked here as the way China teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 9 countries (Ethiopia, Gambia, South Sudan, Libya, Uganda, Mozambique, North Macedonia, Cuba, China).**
+
+Searchable tags: China, History expansion 2026-11-15, africa-after-1500/the-scramble-and-berlin-1884-85
