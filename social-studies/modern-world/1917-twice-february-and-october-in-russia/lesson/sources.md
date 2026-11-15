@@ -1,6 +1,6 @@
 # Sources — 1917 twice — February and October in Russia
 
-countries: Ethiopia, Costa Rica, Montenegro, Dominican Republic, United Kingdom, Cambodia, Colombia, Mauritania, South Sudan, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Jordan, Uzbekistan, North Macedonia
+countries: Ethiopia, Costa Rica, Montenegro, Dominican Republic, United Kingdom, Cambodia, Colombia, Mauritania, South Sudan, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Jordan, Uzbekistan, North Macedonia, Laos
 
 **Book 1:** *History, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN 978-99990-0-065-9. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g10-student-placements.md
 
@@ -415,3 +415,68 @@ North Macedonia's own way (Book 3 — Istorija I (History I), Grade 10 (student 
 **Acceptance count: taught in 17 countries (Ethiopia, Costa Rica, Montenegro, Dominican Republic, United Kingdom, Cambodia, Colombia, Mauritania, South Sudan, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Jordan, Uzbekistan, North Macedonia).**
 
 Searchable tags: North Macedonia, History expansion 2026-11-15, modern-world/1917-twice-february-and-october-in-russia
+
+## History expansion (2026-11-15) — Laos stocked
+
+**Book 2 — LA-G7-T (teacher guide, Lao)**
+- Title as printed: ຄູ່ມືຄູ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 2 (Teacher's Guide, History, Secondary Year 2)
+- Grade: Grade 7 / ມ.2 (student/teacher: TEACHER)
+- Publisher: Research Institute for Educational Sciences, Vientiane; year 2012; no ISBN printed
+- PDF pages: 103 (cover/title page verified against the record title; grabbed via grab.py tree, 415,080 bytes, size verified)
+- Verdict: COMPLETE
+- Tally: 18 placements — 10 to existing lessons, 8 NEW LESSON NEEDED
+- Laos's own way: world history is told as the march of systems — feudalism, capitalism, the workers' movement, imperialism, 1917 — and then the same lens is turned on Laos: France seizes the country, rules it 1893–1945, and the Lao answer region by region.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/laos-placements.md.
+
+This book is a teacher guide. The Laos rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+
+**Book 6 — LA-G12-T (teacher guide, Lao)**
+- Title as printed: ຄູ່ມືຄູ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 7 (Teacher's Guide, History, Secondary Year 7)
+- Grade: Grade 12 / ມ.7 (student/teacher: TEACHER)
+- Publisher: Research Institute for Educational Sciences, Vientiane; no ISBN printed
+- PDF pages: 193 (cover/title page verified against the record title; grabbed via grab.py tree, 1,599,196 bytes, size verified)
+- Verdict: COMPLETE
+- Tally: 23 placements — 7 to existing lessons, 16 NEW LESSON NEEDED
+- Laos's own way: the final year runs the world wars, the Cold War and 1991 in the world parts, then Laos's thirty-year struggle 1945–1975 in the closest detail of the whole series, and closes with renovation-era Laos and the history of Lao tourism.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/laos-placements.md.
+
+This book is a teacher guide. The Laos rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+
+**Book 9 — LA-G7-S (student book, Lao)**
+- Title as printed: ແບບຮຽນ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 2 (Textbook, History, Secondary Year 2)
+- Grade: Grade 7 / ມ.2 (student/teacher: STUDENT)
+- Publisher: Research Institute for Educational Sciences, Vientiane; no ISBN printed
+- PDF pages: 103 (cover/title page verified against the record title; grabbed via grab.py url from the release record after the tree route returned 404, 9,251,049 bytes, size verified; contents and lessons verified against the teacher guide LA-G7-T)
+- Verdict: COMPLETE
+- Tally: 18 placements — 10 to existing lessons, 8 NEW LESSON NEEDED
+- Laos's own way: same course as the teacher guide — feudalism to imperialism in the world parts, then France's conquest of Laos and the first resistance movements.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/laos-placements.md.
+
+**Book 14 — LA-G12-S (student book, Lao)**
+- Title as printed: ແບບຮຽນ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 7 (Textbook, History, Secondary Year 7)
+- Grade: Grade 12 / ມ.7 (student/teacher: STUDENT)
+- Publisher: Research Institute for Educational Sciences, Vientiane; no ISBN printed
+- PDF pages: 207 (cover/title page verified against the record title; grabbed via grab.py url from the release record, 4,068,926 bytes, size verified; contents and lessons verified against the teacher guide LA-G12-T)
+- Verdict: COMPLETE
+- Tally: 23 placements — 7 to existing lessons, 16 NEW LESSON NEEDED
+- Laos's own way: same course as the teacher guide — world wars, Cold War and 1991, then Laos's thirty-year struggle and renovation.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/laos-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Laos part — Part II, Lesson 9: ມະຫາປະຕິວັດສັງຄົມນິຍົມເດືອນຕຸລາຣັດເຊຍ 1917 (The Great October Socialist Revolution in Russia, 1917) — story beats: Russia's workers and soldiers overthrow the old order in October and proclaim a socialist state (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: modern-world/1917-twice-february-and-october-in-russia) | Laos, *ຄູ່ມືຄູ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 2 (Teacher's Guide, History, Secondary Year 2)* (teacher guide — evidence), printed p. 50 |
+| Laos part — Part I, Lesson 2: ການປະຕິວັດເດືອນຕຸລາ ຣັດເຊຍ (The October Revolution in Russia) — story beats: the Bolsheviks take power in October 1917 and the first socialist state begins (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: modern-world/1917-twice-february-and-october-in-russia) | Laos, *ຄູ່ມືຄູ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 7 (Teacher's Guide, History, Secondary Year 7)* (teacher guide — evidence), printed p. 27 |
+| Laos part — Part II, Lesson 9: ມະຫາປະຕິວັດສັງຄົມນິຍົມເດືອນຕຸລາ ຣັດເຊຍ 1917 (The October Socialist Revolution, 1917) — story beats: October 1917 — the workers take power in Russia (History expansion, 2026-11-15; original placement slug: modern-world/1917-twice-february-and-october-in-russia) | Laos, *ແບບຮຽນ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 2 (Textbook, History, Secondary Year 2)*, printed p. 53 |
+| Laos part — Part I, Lesson 2: ການປະຕິວັດເດືອນຕຸລາ ຣັດເຊຍ ຄ.ສ 1917 (The October Revolution, 1917) — story beats: the Bolsheviks take power and the first socialist state begins (History expansion, 2026-11-15; original placement slug: modern-world/1917-twice-february-and-october-in-russia) | Laos, *ແບບຮຽນ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 7 (Textbook, History, Secondary Year 7)*, printed p. 10 |
+
+Laos's own way (Book 2 — LA-G7-T (teacher guide, Lao)): world history is told as the march of systems — feudalism, capitalism, the workers' movement, imperialism, 1917 — and then the same lens is turned on Laos: France seizes the country, rules it 1893–1945, and the Lao answer region by region. That way is stocked here as the way Laos teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Laos's own way (Book 6 — LA-G12-T (teacher guide, Lao)): the final year runs the world wars, the Cold War and 1991 in the world parts, then Laos's thirty-year struggle 1945–1975 in the closest detail of the whole series, and closes with renovation-era Laos and the history of Lao tourism. That way is stocked here as the way Laos teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Laos's own way (Book 9 — LA-G7-S (student book, Lao)): same course as the teacher guide — feudalism to imperialism in the world parts, then France's conquest of Laos and the first resistance movements. That way is stocked here as the way Laos teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Laos's own way (Book 14 — LA-G12-S (student book, Lao)): same course as the teacher guide — world wars, Cold War and 1991, then Laos's thirty-year struggle and renovation. That way is stocked here as the way Laos teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 18 countries (Ethiopia, Costa Rica, Montenegro, Dominican Republic, United Kingdom, Cambodia, Colombia, Mauritania, South Sudan, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Jordan, Uzbekistan, North Macedonia, Laos).**
+
+Searchable tags: Laos, History expansion 2026-11-15, modern-world/1917-twice-february-and-october-in-russia

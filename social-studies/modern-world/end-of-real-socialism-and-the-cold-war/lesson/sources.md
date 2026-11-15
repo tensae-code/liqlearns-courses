@@ -1,6 +1,6 @@
 # Sources — The end of 'real socialism' and the Cold War
 
-countries: Costa Rica, Dominican Republic, Bolivia, Colombia, Mauritania, South Sudan, Mongolia, Samoa
+countries: Costa Rica, Dominican Republic, Bolivia, Colombia, Mauritania, South Sudan, Mongolia, Samoa, Laos
 
 **Book (Costa Rica cr-coned-10):** Title as printed: Antología CONED — Estudios Sociales, Código 80023, Nivel Décimo año Grade: Grade 10 (student/teacher: STUDENT) Publisher: Universidad Estatal a Distancia (UNED) / Colegio Nacional de Educación a Distancia (CONED); year 2017 file; no ISBN printed PDF pages: 255 (cover verified against the record title; byte size 11,879,619 and page count match the record. Route note: the books.json tree path returned HTTP 404, so the book was grabbed via its TSV release asset in mid-size-books-5, matched exactly) Verdict: COMPLETE Tally: 13 placements — 6 to existing lessons, 7 NEW LESSON NEEDED Costa Rica's own way: The Décimo anthology is world history with a geopolitical lens — imperialism, the two world wars, the Russian revolution, the Depression, the bipolar Cold War world and today's multipolar tensions — read from Costa Rica outward to Latin America and the globe. Non-History parts (named, not placed): Unidad 3 Dinámica poblacional y movilización espacial (population dynamics in the 20th–21st centuries, Costa Rican population change, internal and international mobility, printed pp. 198–254 — Geography/demography). Placements at liqlearns-courses-work/expansion-history-2026-11-15/costa-rica-placements.md.
 
@@ -153,3 +153,40 @@ Samoa's own way (Book 11 — y13-history (History, Year 13)): The same six-part 
 **Acceptance count: taught in 8 countries (Costa Rica, Dominican Republic, Bolivia, Colombia, Mauritania, South Sudan, Mongolia, Samoa).**
 
 Searchable tags: Samoa, History expansion 2026-11-15, modern-world/end-of-real-socialism-and-the-cold-war
+
+## History expansion (2026-11-15) — Laos stocked
+
+**Book 6 — LA-G12-T (teacher guide, Lao)**
+- Title as printed: ຄູ່ມືຄູ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 7 (Teacher's Guide, History, Secondary Year 7)
+- Grade: Grade 12 / ມ.7 (student/teacher: TEACHER)
+- Publisher: Research Institute for Educational Sciences, Vientiane; no ISBN printed
+- PDF pages: 193 (cover/title page verified against the record title; grabbed via grab.py tree, 1,599,196 bytes, size verified)
+- Verdict: COMPLETE
+- Tally: 23 placements — 7 to existing lessons, 16 NEW LESSON NEEDED
+- Laos's own way: the final year runs the world wars, the Cold War and 1991 in the world parts, then Laos's thirty-year struggle 1945–1975 in the closest detail of the whole series, and closes with renovation-era Laos and the history of Lao tourism.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/laos-placements.md.
+
+This book is a teacher guide. The Laos rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+
+**Book 14 — LA-G12-S (student book, Lao)**
+- Title as printed: ແບບຮຽນ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 7 (Textbook, History, Secondary Year 7)
+- Grade: Grade 12 / ມ.7 (student/teacher: STUDENT)
+- Publisher: Research Institute for Educational Sciences, Vientiane; no ISBN printed
+- PDF pages: 207 (cover/title page verified against the record title; grabbed via grab.py url from the release record, 4,068,926 bytes, size verified; contents and lessons verified against the teacher guide LA-G12-T)
+- Verdict: COMPLETE
+- Tally: 23 placements — 7 to existing lessons, 16 NEW LESSON NEEDED
+- Laos's own way: same course as the teacher guide — world wars, Cold War and 1991, then Laos's thirty-year struggle and renovation.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/laos-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Laos part — Part II, Lesson 10: ການລົ້ມລະລາຍຂອງສະຫະພາບໂຊວຽດ ແລະ ເອີຣົບຕາເວັນອອກ (The collapse of the USSR and Eastern Europe) — story beats: reform turns to dissolution; the socialist bloc ends and a unipolar moment begins (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: modern-world/collapse-of-ussr-and-eastern-europe-1991) | Laos, *ຄູ່ມືຄູ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 7 (Teacher's Guide, History, Secondary Year 7)* (teacher guide — evidence), printed p. 89 |
+| Laos part — Part II, Lesson 10: ການລົ້ມລະລາຍຂອງສະຫະພາບໂຊວຽດ ແລະ ເອີຣົບຕາເວັນອອກ (The collapse of the USSR and Eastern Europe) — story beats: reform turns to dissolution; the socialist bloc ends (History expansion, 2026-11-15; original placement slug: modern-world/collapse-of-ussr-and-eastern-europe-1991) | Laos, *ແບບຮຽນ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 7 (Textbook, History, Secondary Year 7)*, printed p. 85 |
+
+Laos's own way (Book 6 — LA-G12-T (teacher guide, Lao)): the final year runs the world wars, the Cold War and 1991 in the world parts, then Laos's thirty-year struggle 1945–1975 in the closest detail of the whole series, and closes with renovation-era Laos and the history of Lao tourism. That way is stocked here as the way Laos teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Laos's own way (Book 14 — LA-G12-S (student book, Lao)): same course as the teacher guide — world wars, Cold War and 1991, then Laos's thirty-year struggle and renovation. That way is stocked here as the way Laos teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 9 countries (Costa Rica, Dominican Republic, Bolivia, Colombia, Mauritania, South Sudan, Mongolia, Samoa, Laos).**
+
+Searchable tags: Laos, History expansion 2026-11-15, modern-world/end-of-real-socialism-and-the-cold-war

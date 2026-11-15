@@ -1,6 +1,6 @@
 # Sources — Medieval world — the Dark Age and feudalism
 
-countries: Ethiopia, Brazil, Poland, Costa Rica, Australia, Ecuador, Eritrea, Montenegro, Dominican Republic, Pakistan, Iran, Bulgaria, Cambodia, Colombia, Sri Lanka, Mongolia, Sudan, North Macedonia
+countries: Ethiopia, Brazil, Poland, Costa Rica, Australia, Ecuador, Eritrea, Montenegro, Dominican Republic, Pakistan, Iran, Bulgaria, Cambodia, Colombia, Sri Lanka, Mongolia, Sudan, North Macedonia, Laos
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -453,3 +453,68 @@ North Macedonia's own way (Book 3 — Istorija I (History I), Grade 10 (student 
 **Acceptance count: taught in 18 countries (Ethiopia, Brazil, Poland, Costa Rica, Australia, Ecuador, Eritrea, Montenegro, Dominican Republic, Pakistan, Iran, Bulgaria, Cambodia, Colombia, Sri Lanka, Mongolia, Sudan, North Macedonia).**
 
 Searchable tags: North Macedonia, History expansion 2026-11-15, ancient-world/medieval-world-the-dark-age-and-feudalism
+
+## History expansion (2026-11-15) — Laos stocked
+
+**Book 2 — LA-G7-T (teacher guide, Lao)**
+- Title as printed: ຄູ່ມືຄູ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 2 (Teacher's Guide, History, Secondary Year 2)
+- Grade: Grade 7 / ມ.2 (student/teacher: TEACHER)
+- Publisher: Research Institute for Educational Sciences, Vientiane; year 2012; no ISBN printed
+- PDF pages: 103 (cover/title page verified against the record title; grabbed via grab.py tree, 415,080 bytes, size verified)
+- Verdict: COMPLETE
+- Tally: 18 placements — 10 to existing lessons, 8 NEW LESSON NEEDED
+- Laos's own way: world history is told as the march of systems — feudalism, capitalism, the workers' movement, imperialism, 1917 — and then the same lens is turned on Laos: France seizes the country, rules it 1893–1945, and the Lao answer region by region.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/laos-placements.md.
+
+This book is a teacher guide. The Laos rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+
+**Book 4 — LA-G10-T (teacher guide, Lao)**
+- Title as printed: ຄູ່ມືຄູ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 5 (Teacher's Guide, History, Secondary Year 5)
+- Grade: Grade 10 / ມ.5 (student/teacher: TEACHER)
+- Publisher: Research Institute for Educational Sciences, Vientiane; no ISBN printed
+- PDF pages: 220 (cover/title page verified against the record title; grabbed via grab.py tree, 3,655,523 bytes, size verified; the guide's first 38 printed pages are general teaching introduction, lessons follow the student book's content)
+- Verdict: COMPLETE
+- Tally: 18 placements — 10 to existing lessons, 8 NEW LESSON NEEDED
+- Laos's own way: upper secondary restarts the whole story at greater depth — Stone Age to feudal Asia in the world parts, then Laos from its archaeology to Lan Xang's golden age — the same national arc as Grade 6, told for older pupils with more causes and more documents.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/laos-placements.md.
+
+This book is a teacher guide. The Laos rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+
+**Book 9 — LA-G7-S (student book, Lao)**
+- Title as printed: ແບບຮຽນ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 2 (Textbook, History, Secondary Year 2)
+- Grade: Grade 7 / ມ.2 (student/teacher: STUDENT)
+- Publisher: Research Institute for Educational Sciences, Vientiane; no ISBN printed
+- PDF pages: 103 (cover/title page verified against the record title; grabbed via grab.py url from the release record after the tree route returned 404, 9,251,049 bytes, size verified; contents and lessons verified against the teacher guide LA-G7-T)
+- Verdict: COMPLETE
+- Tally: 18 placements — 10 to existing lessons, 8 NEW LESSON NEEDED
+- Laos's own way: same course as the teacher guide — feudalism to imperialism in the world parts, then France's conquest of Laos and the first resistance movements.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/laos-placements.md.
+
+**Book 12 — LA-G10-S (student book, Lao)**
+- Title as printed: ແບບຮຽນ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 5 (Textbook, History, Secondary Year 5)
+- Grade: Grade 10 / ມ.5 (student/teacher: STUDENT)
+- Publisher: Research Institute for Educational Sciences, Vientiane; no ISBN printed
+- PDF pages: 209 (cover/title page verified against the record title; grabbed via grab.py url from the release record after the tree route returned 404, 7,462,495 bytes, size verified; contents and lessons verified against the teacher guide LA-G10-T)
+- Verdict: COMPLETE
+- Tally: 18 placements — 10 to existing lessons, 8 NEW LESSON NEEDED
+- Laos's own way: same course as the teacher guide — ancient world in depth, feudal Asia, and Laos from archaeology to Lan Xang's golden age.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/laos-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Laos part — Part I, Lesson 1: ລະບອບສັກດີນາ (The feudal system) — story beats: lords, land and peasants lock Europe and Asia into the feudal order that lasts a thousand years (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-dark-age-and-feudalism) | Laos, *ຄູ່ມືຄູ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 2 (Teacher's Guide, History, Secondary Year 2)* (teacher guide — evidence), printed p. 1 |
+| Laos part — Part II, Lesson 6: ການກໍາເນີດ ແລະ ຂະຫຍາຍຕົວຂອງລະບອບສັກດີນາໃນເອີຣົບ (The origin and spread of feudalism in Europe) — story beats: after Rome falls, land-for-service binds Europe into the feudal pyramid (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-dark-age-and-feudalism) | Laos, *ຄູ່ມືຄູ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 5 (Teacher's Guide, History, Secondary Year 5)* (teacher guide — evidence), printed p. 111 |
+| Laos part — Part I, Lesson 1: ລະບອບສັກດີນາ (The feudal system) — story beats: land, lords and serfs — the order that rules Europe and Asia for a thousand years (History expansion, 2026-11-15; original placement slug: ancient-world/feudalism-in-medieval-europe) | Laos, *ແບບຮຽນ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 2 (Textbook, History, Secondary Year 2)*, printed p. 1 |
+| Laos part — Part II, Lesson 6: ການກໍາເນີດ ແລະ ຂະຫຍາຍຕົວຂອງລະບອບສັກດີນາໃນເອີຣົບ (The birth and spread of feudalism in Europe) — story beats: after Rome falls, land and loyalty replace empire (History expansion, 2026-11-15; original placement slug: ancient-world/feudalism-in-medieval-europe) | Laos, *ແບບຮຽນ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 5 (Textbook, History, Secondary Year 5)*, printed p. 81 |
+
+Laos's own way (Book 2 — LA-G7-T (teacher guide, Lao)): world history is told as the march of systems — feudalism, capitalism, the workers' movement, imperialism, 1917 — and then the same lens is turned on Laos: France seizes the country, rules it 1893–1945, and the Lao answer region by region. That way is stocked here as the way Laos teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Laos's own way (Book 4 — LA-G10-T (teacher guide, Lao)): upper secondary restarts the whole story at greater depth — Stone Age to feudal Asia in the world parts, then Laos from its archaeology to Lan Xang's golden age — the same national arc as Grade 6, told for older pupils with more causes and more documents. That way is stocked here as the way Laos teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Laos's own way (Book 9 — LA-G7-S (student book, Lao)): same course as the teacher guide — feudalism to imperialism in the world parts, then France's conquest of Laos and the first resistance movements. That way is stocked here as the way Laos teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Laos's own way (Book 12 — LA-G10-S (student book, Lao)): same course as the teacher guide — ancient world in depth, feudal Asia, and Laos from archaeology to Lan Xang's golden age. That way is stocked here as the way Laos teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 19 countries (Ethiopia, Brazil, Poland, Costa Rica, Australia, Ecuador, Eritrea, Montenegro, Dominican Republic, Pakistan, Iran, Bulgaria, Cambodia, Colombia, Sri Lanka, Mongolia, Sudan, North Macedonia, Laos).**
+
+Searchable tags: Laos, History expansion 2026-11-15, ancient-world/medieval-world-the-dark-age-and-feudalism

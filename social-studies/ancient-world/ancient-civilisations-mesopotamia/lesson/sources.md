@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — Mesopotamia
 
-countries: Ethiopia, Poland, Turkey, Bangladesh, Costa Rica, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Iran, Cambodia, Palestine, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Mozambique, Yemen, Jordan, Uzbekistan, North Macedonia
+countries: Ethiopia, Poland, Turkey, Bangladesh, Costa Rica, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Iran, Cambodia, Palestine, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Mozambique, Yemen, Jordan, Uzbekistan, North Macedonia, Laos
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -754,3 +754,68 @@ North Macedonia's own way (Book 3 — Istorija I (History I), Grade 10 (student 
 **Acceptance count: taught in 26 countries (Ethiopia, Poland, Turkey, Bangladesh, Costa Rica, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Iran, Cambodia, Palestine, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Mozambique, Yemen, Jordan, Uzbekistan, North Macedonia).**
 
 Searchable tags: North Macedonia, History expansion 2026-11-15, ancient-world/ancient-civilisations-mesopotamia
+
+## History expansion (2026-11-15) — Laos stocked
+
+**Book 1 — LA-G6-T (teacher guide, Lao)**
+- Title as printed: ຄູ່ມືຄູ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 1 (Teacher's Guide, History, Secondary Year 1)
+- Grade: Grade 6 / ມ.1 (student/teacher: TEACHER)
+- Publisher: Research Institute for Educational Sciences (ສະຖາບັນຄົ້ນຄວ້າວິທະຍາສາດການສຶກສາ), Vientiane; year 2012; no ISBN printed
+- PDF pages: 103 (cover/title page verified against the record title; grabbed via grab.py tree, 421,603 bytes, size verified)
+- Verdict: COMPLETE
+- Tally: 16 placements — 8 to existing lessons, 8 NEW LESSON NEEDED
+- Laos's own way: the year opens with world prehistory told as stages of society (primitive, slave-owning, the ancient East), then turns to Laos itself — archaeology and the old mueang, Fa Ngum's unification, Lan Xang's rise, fall and resistance — closing with the pupils' own local archaeology (the Plain of Jars as the worked example).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/laos-placements.md.
+
+This book is a teacher guide. The Laos rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+
+**Book 4 — LA-G10-T (teacher guide, Lao)**
+- Title as printed: ຄູ່ມືຄູ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 5 (Teacher's Guide, History, Secondary Year 5)
+- Grade: Grade 10 / ມ.5 (student/teacher: TEACHER)
+- Publisher: Research Institute for Educational Sciences, Vientiane; no ISBN printed
+- PDF pages: 220 (cover/title page verified against the record title; grabbed via grab.py tree, 3,655,523 bytes, size verified; the guide's first 38 printed pages are general teaching introduction, lessons follow the student book's content)
+- Verdict: COMPLETE
+- Tally: 18 placements — 10 to existing lessons, 8 NEW LESSON NEEDED
+- Laos's own way: upper secondary restarts the whole story at greater depth — Stone Age to feudal Asia in the world parts, then Laos from its archaeology to Lan Xang's golden age — the same national arc as Grade 6, told for older pupils with more causes and more documents.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/laos-placements.md.
+
+This book is a teacher guide. The Laos rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+
+**Book 8 — LA-G6-S (student book, Lao)**
+- Title as printed: ແບບຮຽນ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 1 (Textbook, History, Secondary Year 1)
+- Grade: Grade 6 / ມ.1 (student/teacher: STUDENT)
+- Publisher: Research Institute for Educational Sciences, Vientiane; year 2010; no ISBN printed
+- PDF pages: 103 (cover/title page verified against the record title; grabbed via grab.py url from the release record, 64,912,985 bytes, size verified; image scan, contents and lessons verified against the teacher guide LA-G6-T, whose exercises follow this book page by page in content)
+- Verdict: COMPLETE
+- Tally: 16 placements — 8 to existing lessons, 8 NEW LESSON NEEDED
+- Laos's own way: same course as the teacher guide — world prehistory as stages of society, then Laos from archaeology to Anouvong, closing with local archaeology.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/laos-placements.md.
+
+**Book 12 — LA-G10-S (student book, Lao)**
+- Title as printed: ແບບຮຽນ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 5 (Textbook, History, Secondary Year 5)
+- Grade: Grade 10 / ມ.5 (student/teacher: STUDENT)
+- Publisher: Research Institute for Educational Sciences, Vientiane; no ISBN printed
+- PDF pages: 209 (cover/title page verified against the record title; grabbed via grab.py url from the release record after the tree route returned 404, 7,462,495 bytes, size verified; contents and lessons verified against the teacher guide LA-G10-T)
+- Verdict: COMPLETE
+- Tally: 18 placements — 10 to existing lessons, 8 NEW LESSON NEEDED
+- Laos's own way: same course as the teacher guide — ancient world in depth, feudal Asia, and Laos from archaeology to Lan Xang's golden age.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/laos-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Laos part — Part I, Lesson 4: ອະລິຍະທໍາຕາເວັນອອກບູຮານ — Mesopotamia (Ancient Eastern civilisations) — story beats: on the Tigris–Euphrates plain a river civilisation builds cities, kingship and writing (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-mesopotamia) | Laos, *ຄູ່ມືຄູ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 1 (Teacher's Guide, History, Secondary Year 1)* (teacher guide — evidence), printed p. 12 |
+| Laos part — Part I, Lesson 3: ອາລະຍະທໍາຕາເວັນອອກ — ແມ່ນ້ໍາສອງສາຍ (Eastern civilisations — Mesopotamia) — story beats: between the two rivers the first cities, laws and letters of the East appear (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-mesopotamia) | Laos, *ຄູ່ມືຄູ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 5 (Teacher's Guide, History, Secondary Year 5)* (teacher guide — evidence), printed p. 57 |
+| Laos part — Part I, Lesson 4: ອະລິຍະທໍາຕາເວັນອອກບູຮານ — Mesopotamia (Ancient Eastern civilisations) — story beats: the two-river plain builds the East's first cities, kingship and writing (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-mesopotamia) | Laos, *ແບບຮຽນ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 1 (Textbook, History, Secondary Year 1)*, printed p. 18 |
+| Laos part — Part I, Lesson 3: ອະລິຍະທໍາເມໂຊໂປຕາເມຍ (Mesopotamian civilisation) — story beats: Sumer, Babylon and the first written laws between the two rivers (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-mesopotamia) | Laos, *ແບບຮຽນ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 5 (Textbook, History, Secondary Year 5)*, printed p. 24 |
+
+Laos's own way (Book 1 — LA-G6-T (teacher guide, Lao)): the year opens with world prehistory told as stages of society (primitive, slave-owning, the ancient East), then turns to Laos itself — archaeology and the old mueang, Fa Ngum's unification, Lan Xang's rise, fall and resistance — closing with the pupils' own local archaeology (the Plain of Jars as the worked example). That way is stocked here as the way Laos teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Laos's own way (Book 4 — LA-G10-T (teacher guide, Lao)): upper secondary restarts the whole story at greater depth — Stone Age to feudal Asia in the world parts, then Laos from its archaeology to Lan Xang's golden age — the same national arc as Grade 6, told for older pupils with more causes and more documents. That way is stocked here as the way Laos teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Laos's own way (Book 8 — LA-G6-S (student book, Lao)): same course as the teacher guide — world prehistory as stages of society, then Laos from archaeology to Anouvong, closing with local archaeology. That way is stocked here as the way Laos teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Laos's own way (Book 12 — LA-G10-S (student book, Lao)): same course as the teacher guide — ancient world in depth, feudal Asia, and Laos from archaeology to Lan Xang's golden age. That way is stocked here as the way Laos teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 27 countries (Ethiopia, Poland, Turkey, Bangladesh, Costa Rica, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Iran, Cambodia, Palestine, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Mozambique, Yemen, Jordan, Uzbekistan, North Macedonia, Laos).**
+
+Searchable tags: Laos, History expansion 2026-11-15, ancient-world/ancient-civilisations-mesopotamia

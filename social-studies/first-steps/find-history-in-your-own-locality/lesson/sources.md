@@ -1,6 +1,6 @@
 # Sources — Find history in your own locality
 
-countries: Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala, Malaysia, Ecuador, Bahamas, Eritrea, Nepal, Belarus, Fiji, Indonesia, Finland, Egypt, Syria, Suriname, Colombia, South Sudan, Samoa, Iraq, Mozambique, Yemen, Jordan
+countries: Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala, Malaysia, Ecuador, Bahamas, Eritrea, Nepal, Belarus, Fiji, Indonesia, Finland, Egypt, Syria, Suriname, Colombia, South Sudan, Samoa, Iraq, Mozambique, Yemen, Jordan, Laos
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -950,3 +950,152 @@ Jordan's own way (Book 10 — G3 Social Studies Term 2 (student book, Arabic)): 
 **Acceptance count: taught in 25 countries (Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala, Malaysia, Ecuador, Bahamas, Eritrea, Nepal, Belarus, Fiji, Indonesia, Finland, Egypt, Syria, Suriname, Colombia, South Sudan, Samoa, Iraq, Mozambique, Yemen, Jordan).**
 
 Searchable tags: Jordan, History expansion 2026-11-15, first-steps/find-history-in-your-own-locality
+
+## History expansion (2026-11-15) — Laos stocked
+
+**Book 1 — LA-G6-T (teacher guide, Lao)**
+- Title as printed: ຄູ່ມືຄູ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 1 (Teacher's Guide, History, Secondary Year 1)
+- Grade: Grade 6 / ມ.1 (student/teacher: TEACHER)
+- Publisher: Research Institute for Educational Sciences (ສະຖາບັນຄົ້ນຄວ້າວິທະຍາສາດການສຶກສາ), Vientiane; year 2012; no ISBN printed
+- PDF pages: 103 (cover/title page verified against the record title; grabbed via grab.py tree, 421,603 bytes, size verified)
+- Verdict: COMPLETE
+- Tally: 16 placements — 8 to existing lessons, 8 NEW LESSON NEEDED
+- Laos's own way: the year opens with world prehistory told as stages of society (primitive, slave-owning, the ancient East), then turns to Laos itself — archaeology and the old mueang, Fa Ngum's unification, Lan Xang's rise, fall and resistance — closing with the pupils' own local archaeology (the Plain of Jars as the worked example).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/laos-placements.md.
+
+This book is a teacher guide. The Laos rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+
+**Book 2 — LA-G7-T (teacher guide, Lao)**
+- Title as printed: ຄູ່ມືຄູ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 2 (Teacher's Guide, History, Secondary Year 2)
+- Grade: Grade 7 / ມ.2 (student/teacher: TEACHER)
+- Publisher: Research Institute for Educational Sciences, Vientiane; year 2012; no ISBN printed
+- PDF pages: 103 (cover/title page verified against the record title; grabbed via grab.py tree, 415,080 bytes, size verified)
+- Verdict: COMPLETE
+- Tally: 18 placements — 10 to existing lessons, 8 NEW LESSON NEEDED
+- Laos's own way: world history is told as the march of systems — feudalism, capitalism, the workers' movement, imperialism, 1917 — and then the same lens is turned on Laos: France seizes the country, rules it 1893–1945, and the Lao answer region by region.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/laos-placements.md.
+
+This book is a teacher guide. The Laos rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+
+**Book 4 — LA-G10-T (teacher guide, Lao)**
+- Title as printed: ຄູ່ມືຄູ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 5 (Teacher's Guide, History, Secondary Year 5)
+- Grade: Grade 10 / ມ.5 (student/teacher: TEACHER)
+- Publisher: Research Institute for Educational Sciences, Vientiane; no ISBN printed
+- PDF pages: 220 (cover/title page verified against the record title; grabbed via grab.py tree, 3,655,523 bytes, size verified; the guide's first 38 printed pages are general teaching introduction, lessons follow the student book's content)
+- Verdict: COMPLETE
+- Tally: 18 placements — 10 to existing lessons, 8 NEW LESSON NEEDED
+- Laos's own way: upper secondary restarts the whole story at greater depth — Stone Age to feudal Asia in the world parts, then Laos from its archaeology to Lan Xang's golden age — the same national arc as Grade 6, told for older pupils with more causes and more documents.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/laos-placements.md.
+
+This book is a teacher guide. The Laos rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+
+**Book 5 — LA-G11-T (teacher guide, Lao)**
+- Title as printed: ຄູ່ມືຄູ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 6 (Teacher's Guide, History, Secondary Year 6)
+- Grade: Grade 11 / ມ.6 (student/teacher: TEACHER)
+- Publisher: Research Institute for Educational Sciences, Vientiane; year 2015 printing; no ISBN printed
+- PDF pages: 185 (cover/title page verified against the record title; grabbed via grab.py url from the release record after the tree route returned 404, 8,153,529 bytes, size verified)
+- Verdict: COMPLETE
+- Tally: 23 placements — 5 to existing lessons, 18 NEW LESSON NEEDED
+- Laos's own way: the deepest telling of the shared arc — bourgeois revolutions and imperialism in the world section, then Laos lesson by lesson from Lan Xang's division (1695) through Siamese rule, French rule and the first independence declaration of 1945.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/laos-placements.md.
+
+This book is a teacher guide. The Laos rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+
+**Book 7 — LA-G8-T (teacher guide, Lao)**
+- Title as printed: ຄູ່ມືຄູ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 3 (Teacher's Guide, History, Secondary Year 3)
+- Grade: Grade 8 / ມ.3 (student/teacher: TEACHER)
+- Publisher: Ministry of Education and Sports / Research Institute for Educational Sciences, Vientiane; year 2012; no ISBN printed
+- PDF pages: 106 (cover verified against the record title — same WWII-era cover art as the student book; grabbed via grab.py url from the release record, 46,142,082 bytes, size verified)
+- Verdict: COMPLETE
+- Tally: 13 placements — 5 to existing lessons, 8 NEW LESSON NEEDED
+- Laos's own way: the interwar world (Versailles, the USSR, fascism, WWII) is the frame; inside it, Laos's own 1930–1954 story gets two full parts — the Communist Party's founding, the Japanese occupation, the 1945 independence, and the first resistance war against France.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/laos-placements.md.
+
+This book is a teacher guide. The Laos rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+
+**Book 8 — LA-G6-S (student book, Lao)**
+- Title as printed: ແບບຮຽນ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 1 (Textbook, History, Secondary Year 1)
+- Grade: Grade 6 / ມ.1 (student/teacher: STUDENT)
+- Publisher: Research Institute for Educational Sciences, Vientiane; year 2010; no ISBN printed
+- PDF pages: 103 (cover/title page verified against the record title; grabbed via grab.py url from the release record, 64,912,985 bytes, size verified; image scan, contents and lessons verified against the teacher guide LA-G6-T, whose exercises follow this book page by page in content)
+- Verdict: COMPLETE
+- Tally: 16 placements — 8 to existing lessons, 8 NEW LESSON NEEDED
+- Laos's own way: same course as the teacher guide — world prehistory as stages of society, then Laos from archaeology to Anouvong, closing with local archaeology.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/laos-placements.md.
+
+**Book 9 — LA-G7-S (student book, Lao)**
+- Title as printed: ແບບຮຽນ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 2 (Textbook, History, Secondary Year 2)
+- Grade: Grade 7 / ມ.2 (student/teacher: STUDENT)
+- Publisher: Research Institute for Educational Sciences, Vientiane; no ISBN printed
+- PDF pages: 103 (cover/title page verified against the record title; grabbed via grab.py url from the release record after the tree route returned 404, 9,251,049 bytes, size verified; contents and lessons verified against the teacher guide LA-G7-T)
+- Verdict: COMPLETE
+- Tally: 18 placements — 10 to existing lessons, 8 NEW LESSON NEEDED
+- Laos's own way: same course as the teacher guide — feudalism to imperialism in the world parts, then France's conquest of Laos and the first resistance movements.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/laos-placements.md.
+
+**Book 10 — LA-G8-S (student book, Lao)**
+- Title as printed: ແບບຮຽນ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 3 (Textbook, History, Secondary Year 3)
+- Grade: Grade 8 / ມ.3 (student/teacher: STUDENT)
+- Publisher: Ministry of Education and Sports / Research Institute for Educational Sciences, Vientiane; year 2012; no ISBN printed
+- PDF pages: 106 (cover verified against the record title — WWII-era cover art shared with the teacher guide; grabbed via grab.py url from the release record, 53,151,940 bytes, size verified; contents and lessons verified against the teacher guide LA-G8-T)
+- Verdict: COMPLETE
+- Tally: 13 placements — 5 to existing lessons, 8 NEW LESSON NEEDED
+- Laos's own way: same course as the teacher guide — interwar world, then Laos 1930–1954.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/laos-placements.md.
+
+**Book 12 — LA-G10-S (student book, Lao)**
+- Title as printed: ແບບຮຽນ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 5 (Textbook, History, Secondary Year 5)
+- Grade: Grade 10 / ມ.5 (student/teacher: STUDENT)
+- Publisher: Research Institute for Educational Sciences, Vientiane; no ISBN printed
+- PDF pages: 209 (cover/title page verified against the record title; grabbed via grab.py url from the release record after the tree route returned 404, 7,462,495 bytes, size verified; contents and lessons verified against the teacher guide LA-G10-T)
+- Verdict: COMPLETE
+- Tally: 18 placements — 10 to existing lessons, 8 NEW LESSON NEEDED
+- Laos's own way: same course as the teacher guide — ancient world in depth, feudal Asia, and Laos from archaeology to Lan Xang's golden age.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/laos-placements.md.
+
+**Book 13 — LA-G11-S (student book, Lao)**
+- Title as printed: ແບບຮຽນ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 6 (Textbook, History, Secondary Year 6)
+- Grade: Grade 11 / ມ.6 (student/teacher: STUDENT)
+- Publisher: Research Institute for Educational Sciences, Vientiane; year 2015 printing; no ISBN printed
+- PDF pages: 209 (cover/title page verified against the record title; grabbed via grab.py url from the release record after the tree route returned 404, 3,578,522 bytes, size verified; contents and lessons verified against the teacher guide LA-G11-T)
+- Verdict: COMPLETE
+- Tally: 23 placements — 5 to existing lessons, 18 NEW LESSON NEEDED
+- Laos's own way: same course as the teacher guide — revolutions and imperialism in the world parts, then Laos 1695–1945 lesson by lesson.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/laos-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Laos part — Part II, Lesson 12: ຮ່ອງຮອຍບູຮານຄະດີໃນທ້ອງຖິ່ນ (Archaeological traces in our locality) — story beats: pupils learn what an artefact is and work the Plain of Jars as the model — then go and record the old things in their own district (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/find-history-in-your-own-locality) | Laos, *ຄູ່ມືຄູ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 1 (Teacher's Guide, History, Secondary Year 1)* (teacher guide — evidence), printed p. 59 |
+| Laos part — Part III, Lesson 14: ປະຫວັດຄວາມເປັນມາຂອງທ້ອງຖິ່ນ (History of our locality) — story beats: pupils collect their own district's past — its founding, its elders' memories, its part in the national story (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/find-history-in-your-own-locality) | Laos, *ຄູ່ມືຄູ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 2 (Teacher's Guide, History, Secondary Year 2)* (teacher guide — evidence), printed p. 77 |
+| Laos part — Part IV, Lesson 15: ບູຮານຄະດີ ແລະ ປະຫວັດສາດທ້ອງຖິ່ນ (Archaeology and local history) — story beats: pupils dig their own locality's past — sites, objects and elders' accounts — and write it themselves (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/find-history-in-your-own-locality) | Laos, *ຄູ່ມືຄູ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 5 (Teacher's Guide, History, Secondary Year 5)* (teacher guide — evidence), printed p. 205 |
+| Laos part — Section 2, Part VII, Lesson 21: ປະຫວັດສາດທ້ອງຖິ່ນໄລຍະໃໝ່ (Local history, modern period) — story beats: pupils trace their own locality through the colonial and resistance years from documents and elders (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/find-history-in-your-own-locality) | Laos, *ຄູ່ມືຄູ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 6 (Teacher's Guide, History, Secondary Year 6)* (teacher guide — evidence), printed p. 150 |
+| Laos part — Part III, Lesson 12: ລະບອບການຕໍ່ຕ້ານຝຣັ່ງ ແລະ ອາເມຣິກາຂອງປະຊາຊົນລາວໃນທ້ອງຖິ່ນ (Local people's resistance against France and America) — story beats: each district's own fighters, couriers and martyrs — national history written from the village up (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/find-history-in-your-own-locality) | Laos, *ຄູ່ມືຄູ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 3 (Teacher's Guide, History, Secondary Year 3)* (teacher guide — evidence), printed p. 79 |
+| Laos part — Part II, Lesson 12: ຮ່ອງຮອຍບູຮານຄະດີໃນທ້ອງຖິ່ນ (Archaeological traces in our locality) — story beats: the Plain of Jars is the worked example; pupils then record the old things of their own district (History expansion, 2026-11-15; original placement slug: first-steps/find-history-in-your-own-locality) | Laos, *ແບບຮຽນ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 1 (Textbook, History, Secondary Year 1)*, printed p. 83 |
+| Laos part — Part III, Lesson 14: ປະຫວັດຄວາມເປັນມາຂອງທ້ອງຖິ່ນ (History of our locality) — story beats: the pupil's own district through the colonial years, from documents and elders (History expansion, 2026-11-15; original placement slug: first-steps/find-history-in-your-own-locality) | Laos, *ແບບຮຽນ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 2 (Textbook, History, Secondary Year 2)*, printed p. 87 |
+| Laos part — Part III, Lesson 12: ລະບອບການຕໍ່ຕ້ານຝຣັ່ງ ແລະ ອາເມຣິກາໃນທ້ອງຖິ່ນ (Local resistance against France and America) — story beats: each district's own fighters and martyrs — national history from the village up (History expansion, 2026-11-15; original placement slug: first-steps/find-history-in-your-own-locality) | Laos, *ແບບຮຽນ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 3 (Textbook, History, Secondary Year 3)*, printed p. 84 |
+| Laos part — Part V, Lesson 15: ຮ່ອງຮອຍບູຮານຄະດີ ແລະ ຄວາມເປັນມາຂອງທ້ອງຖິ່ນ (Archaeology and the history of our locality) — story beats: pupils document their own district's oldest traces (History expansion, 2026-11-15; original placement slug: first-steps/find-history-in-your-own-locality) | Laos, *ແບບຮຽນ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 5 (Textbook, History, Secondary Year 5)*, printed p. 193 |
+| Laos part — Part VII, Lesson 21: ປະຫວັດສາດທ້ອງຖິ່ນສະໄໝໃໝ່ (Local history, modern period) — story beats: pupils trace their own locality through the colonial and resistance years (History expansion, 2026-11-15; original placement slug: first-steps/find-history-in-your-own-locality) | Laos, *ແບບຮຽນ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 6 (Textbook, History, Secondary Year 6)*, printed p. 194 |
+
+Laos's own way (Book 1 — LA-G6-T (teacher guide, Lao)): the year opens with world prehistory told as stages of society (primitive, slave-owning, the ancient East), then turns to Laos itself — archaeology and the old mueang, Fa Ngum's unification, Lan Xang's rise, fall and resistance — closing with the pupils' own local archaeology (the Plain of Jars as the worked example). That way is stocked here as the way Laos teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Laos's own way (Book 2 — LA-G7-T (teacher guide, Lao)): world history is told as the march of systems — feudalism, capitalism, the workers' movement, imperialism, 1917 — and then the same lens is turned on Laos: France seizes the country, rules it 1893–1945, and the Lao answer region by region. That way is stocked here as the way Laos teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Laos's own way (Book 4 — LA-G10-T (teacher guide, Lao)): upper secondary restarts the whole story at greater depth — Stone Age to feudal Asia in the world parts, then Laos from its archaeology to Lan Xang's golden age — the same national arc as Grade 6, told for older pupils with more causes and more documents. That way is stocked here as the way Laos teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Laos's own way (Book 5 — LA-G11-T (teacher guide, Lao)): the deepest telling of the shared arc — bourgeois revolutions and imperialism in the world section, then Laos lesson by lesson from Lan Xang's division (1695) through Siamese rule, French rule and the first independence declaration of 1945. That way is stocked here as the way Laos teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Laos's own way (Book 7 — LA-G8-T (teacher guide, Lao)): the interwar world (Versailles, the USSR, fascism, WWII) is the frame; inside it, Laos's own 1930–1954 story gets two full parts — the Communist Party's founding, the Japanese occupation, the 1945 independence, and the first resistance war against France. That way is stocked here as the way Laos teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Laos's own way (Book 8 — LA-G6-S (student book, Lao)): same course as the teacher guide — world prehistory as stages of society, then Laos from archaeology to Anouvong, closing with local archaeology. That way is stocked here as the way Laos teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Laos's own way (Book 9 — LA-G7-S (student book, Lao)): same course as the teacher guide — feudalism to imperialism in the world parts, then France's conquest of Laos and the first resistance movements. That way is stocked here as the way Laos teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Laos's own way (Book 10 — LA-G8-S (student book, Lao)): same course as the teacher guide — interwar world, then Laos 1930–1954. That way is stocked here as the way Laos teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Laos's own way (Book 12 — LA-G10-S (student book, Lao)): same course as the teacher guide — ancient world in depth, feudal Asia, and Laos from archaeology to Lan Xang's golden age. That way is stocked here as the way Laos teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Laos's own way (Book 13 — LA-G11-S (student book, Lao)): same course as the teacher guide — revolutions and imperialism in the world parts, then Laos 1695–1945 lesson by lesson. That way is stocked here as the way Laos teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 26 countries (Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala, Malaysia, Ecuador, Bahamas, Eritrea, Nepal, Belarus, Fiji, Indonesia, Finland, Egypt, Syria, Suriname, Colombia, South Sudan, Samoa, Iraq, Mozambique, Yemen, Jordan, Laos).**
+
+Searchable tags: Laos, History expansion 2026-11-15, first-steps/find-history-in-your-own-locality

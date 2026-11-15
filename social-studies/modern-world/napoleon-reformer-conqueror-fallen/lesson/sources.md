@@ -1,6 +1,6 @@
 # Sources — Napoleon — reformer, conqueror, fallen
 
-countries: Ethiopia, Belarus, Montenegro, Pakistan, Palestine, Colombia, Mongolia, Iraq, Jordan, Uzbekistan, North Macedonia
+countries: Ethiopia, Belarus, Montenegro, Pakistan, Palestine, Colombia, Mongolia, Iraq, Jordan, Uzbekistan, North Macedonia, Laos
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under GEQIP-E, ISBN 978-99990-0-066-6. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -290,3 +290,25 @@ North Macedonia's own way (Book 3 — Istorija I (History I), Grade 10 (student 
 **Acceptance count: taught in 11 countries (Ethiopia, Belarus, Montenegro, Pakistan, Palestine, Colombia, Mongolia, Iraq, Jordan, Uzbekistan, North Macedonia).**
 
 Searchable tags: North Macedonia, History expansion 2026-11-15, modern-world/napoleon-reformer-conqueror-fallen
+
+## History expansion (2026-11-15) — Laos stocked
+
+**Book 9 — LA-G7-S (student book, Lao)**
+- Title as printed: ແບບຮຽນ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 2 (Textbook, History, Secondary Year 2)
+- Grade: Grade 7 / ມ.2 (student/teacher: STUDENT)
+- Publisher: Research Institute for Educational Sciences, Vientiane; no ISBN printed
+- PDF pages: 103 (cover/title page verified against the record title; grabbed via grab.py url from the release record after the tree route returned 404, 9,251,049 bytes, size verified; contents and lessons verified against the teacher guide LA-G7-T)
+- Verdict: COMPLETE
+- Tally: 18 placements — 10 to existing lessons, 8 NEW LESSON NEEDED
+- Laos's own way: same course as the teacher guide — feudalism to imperialism in the world parts, then France's conquest of Laos and the first resistance movements.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/laos-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Laos part — Part I, Lesson 4: ການປະຕິວັດທຶນນິຍົມຝຣັ່ງ — ຜົນສະທ້ອນ (The French revolution's legacy) — story beats: the revolution's ideas march across Europe with and against Napoleon (History expansion, 2026-11-15; original placement slug: modern-world/napoleon-and-the-revolutions-legacy) | Laos, *ແບບຮຽນ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 2 (Textbook, History, Secondary Year 2)*, printed p. 20 |
+
+Laos's own way (Book 9 — LA-G7-S (student book, Lao)): same course as the teacher guide — feudalism to imperialism in the world parts, then France's conquest of Laos and the first resistance movements. That way is stocked here as the way Laos teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 12 countries (Ethiopia, Belarus, Montenegro, Pakistan, Palestine, Colombia, Mongolia, Iraq, Jordan, Uzbekistan, North Macedonia, Laos).**
+
+Searchable tags: Laos, History expansion 2026-11-15, modern-world/napoleon-reformer-conqueror-fallen

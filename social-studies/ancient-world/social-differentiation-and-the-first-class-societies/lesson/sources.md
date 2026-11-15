@@ -1,6 +1,6 @@
 # Sources — Social differentiation and the first class societies
 
-countries: Mozambique
+countries: Mozambique, Laos
 
 **Book 1 — PESD I Mod 1 (student book, Portuguese)**
 - Title as printed: História — Módulo 1 (PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo)
@@ -34,3 +34,40 @@ Mozambique's own way (Book 8 — PESD II Mod 5 (student book, Portuguese)): The 
 **Acceptance count: taught in 1 country (Mozambique).**
 
 Searchable tags: Mozambique, Social differentiation and the first class societies, ancient-world, History expansion 2026-11-15
+
+## History expansion (2026-11-15) — Laos stocked
+
+**Book 1 — LA-G6-T (teacher guide, Lao)**
+- Title as printed: ຄູ່ມືຄູ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 1 (Teacher's Guide, History, Secondary Year 1)
+- Grade: Grade 6 / ມ.1 (student/teacher: TEACHER)
+- Publisher: Research Institute for Educational Sciences (ສະຖາບັນຄົ້ນຄວ້າວິທະຍາສາດການສຶກສາ), Vientiane; year 2012; no ISBN printed
+- PDF pages: 103 (cover/title page verified against the record title; grabbed via grab.py tree, 421,603 bytes, size verified)
+- Verdict: COMPLETE
+- Tally: 16 placements — 8 to existing lessons, 8 NEW LESSON NEEDED
+- Laos's own way: the year opens with world prehistory told as stages of society (primitive, slave-owning, the ancient East), then turns to Laos itself — archaeology and the old mueang, Fa Ngum's unification, Lan Xang's rise, fall and resistance — closing with the pupils' own local archaeology (the Plain of Jars as the worked example).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/laos-placements.md.
+
+This book is a teacher guide. The Laos rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+
+**Book 8 — LA-G6-S (student book, Lao)**
+- Title as printed: ແບບຮຽນ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 1 (Textbook, History, Secondary Year 1)
+- Grade: Grade 6 / ມ.1 (student/teacher: STUDENT)
+- Publisher: Research Institute for Educational Sciences, Vientiane; year 2010; no ISBN printed
+- PDF pages: 103 (cover/title page verified against the record title; grabbed via grab.py url from the release record, 64,912,985 bytes, size verified; image scan, contents and lessons verified against the teacher guide LA-G6-T, whose exercises follow this book page by page in content)
+- Verdict: COMPLETE
+- Tally: 16 placements — 8 to existing lessons, 8 NEW LESSON NEEDED
+- Laos's own way: same course as the teacher guide — world prehistory as stages of society, then Laos from archaeology to Anouvong, closing with local archaeology.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/laos-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Laos part — Part I, Lesson 3: ສັງຄົມເຈົ້າທາດ (Slave-owning society) — story beats: private property and the division of labour split people into masters and slaves, and the first class states (Egypt the worked example) are born (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: ancient-world/slave-society-first-class-states) | Laos, *ຄູ່ມືຄູ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 1 (Teacher's Guide, History, Secondary Year 1)* (teacher guide — evidence), printed p. 9 |
+| Laos part — Part I, Lesson 3: ສັງຄົມເຈົ້າທາດ (Slave-owning society) — story beats: property and divided labour split people into masters and slaves, and the first class states arise (History expansion, 2026-11-15; original placement slug: ancient-world/slave-society-first-class-states) | Laos, *ແບບຮຽນ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 1 (Textbook, History, Secondary Year 1)*, printed p. 15 |
+
+Laos's own way (Book 1 — LA-G6-T (teacher guide, Lao)): the year opens with world prehistory told as stages of society (primitive, slave-owning, the ancient East), then turns to Laos itself — archaeology and the old mueang, Fa Ngum's unification, Lan Xang's rise, fall and resistance — closing with the pupils' own local archaeology (the Plain of Jars as the worked example). That way is stocked here as the way Laos teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Laos's own way (Book 8 — LA-G6-S (student book, Lao)): same course as the teacher guide — world prehistory as stages of society, then Laos from archaeology to Anouvong, closing with local archaeology. That way is stocked here as the way Laos teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 2 countries (Mozambique, Laos).**
+
+Searchable tags: Laos, History expansion 2026-11-15, ancient-world/social-differentiation-and-the-first-class-societies

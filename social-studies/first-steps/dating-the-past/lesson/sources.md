@@ -1,6 +1,6 @@
 # Sources — Dating the past — calendars, timelines and periods
 
-countries: Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan
+countries: Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, Laos
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -1514,3 +1514,40 @@ Uzbekistan's own way (Book 4 — Vsemirnaya istoriya / World History, Grade 8 (s
 **Acceptance count: taught in 37 countries (Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan).**
 
 Searchable tags: Uzbekistan, History expansion 2026-11-15, first-steps/dating-the-past
+
+## History expansion (2026-11-15) — Laos stocked
+
+**Book 1 — LA-G6-T (teacher guide, Lao)**
+- Title as printed: ຄູ່ມືຄູ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 1 (Teacher's Guide, History, Secondary Year 1)
+- Grade: Grade 6 / ມ.1 (student/teacher: TEACHER)
+- Publisher: Research Institute for Educational Sciences (ສະຖາບັນຄົ້ນຄວ້າວິທະຍາສາດການສຶກສາ), Vientiane; year 2012; no ISBN printed
+- PDF pages: 103 (cover/title page verified against the record title; grabbed via grab.py tree, 421,603 bytes, size verified)
+- Verdict: COMPLETE
+- Tally: 16 placements — 8 to existing lessons, 8 NEW LESSON NEEDED
+- Laos's own way: the year opens with world prehistory told as stages of society (primitive, slave-owning, the ancient East), then turns to Laos itself — archaeology and the old mueang, Fa Ngum's unification, Lan Xang's rise, fall and resistance — closing with the pupils' own local archaeology (the Plain of Jars as the worked example).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/laos-placements.md.
+
+This book is a teacher guide. The Laos rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+
+**Book 8 — LA-G6-S (student book, Lao)**
+- Title as printed: ແບບຮຽນ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 1 (Textbook, History, Secondary Year 1)
+- Grade: Grade 6 / ມ.1 (student/teacher: STUDENT)
+- Publisher: Research Institute for Educational Sciences, Vientiane; year 2010; no ISBN printed
+- PDF pages: 103 (cover/title page verified against the record title; grabbed via grab.py url from the release record, 64,912,985 bytes, size verified; image scan, contents and lessons verified against the teacher guide LA-G6-T, whose exercises follow this book page by page in content)
+- Verdict: COMPLETE
+- Tally: 16 placements — 8 to existing lessons, 8 NEW LESSON NEEDED
+- Laos's own way: same course as the teacher guide — world prehistory as stages of society, then Laos from archaeology to Anouvong, closing with local archaeology.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/laos-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Laos part — Part I, Lesson 1: ວິທີຄິດໄລ່ເວລາໃນປະຫວັດສາດ (Calculating time in history) — story beats: pupils convert between Buddhist Era and Christian Era years (BE 2553 = CE 2010, 543 years apart) and date a Lao independence day both ways (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Laos, *ຄູ່ມືຄູ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 1 (Teacher's Guide, History, Secondary Year 1)* (teacher guide — evidence), printed p. 3 |
+| Laos part — Part I, Lesson 1: ວິທີຄິດໄລ່ເວລາໃນປະຫວັດສາດ (Calculating time in history) — story beats: Buddhist Era and Christian Era years are converted back and forth (543 years apart) so Lao and world dates can meet (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Laos, *ແບບຮຽນ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 1 (Textbook, History, Secondary Year 1)*, printed p. 1 |
+
+Laos's own way (Book 1 — LA-G6-T (teacher guide, Lao)): the year opens with world prehistory told as stages of society (primitive, slave-owning, the ancient East), then turns to Laos itself — archaeology and the old mueang, Fa Ngum's unification, Lan Xang's rise, fall and resistance — closing with the pupils' own local archaeology (the Plain of Jars as the worked example). That way is stocked here as the way Laos teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Laos's own way (Book 8 — LA-G6-S (student book, Lao)): same course as the teacher guide — world prehistory as stages of society, then Laos from archaeology to Anouvong, closing with local archaeology. That way is stocked here as the way Laos teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 38 countries (Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, Laos).**
+
+Searchable tags: Laos, History expansion 2026-11-15, first-steps/dating-the-past
