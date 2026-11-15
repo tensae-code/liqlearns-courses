@@ -841,3 +841,28 @@ South Sudan's own way (Book 17 — S1 History Student's Book (student book, Engl
 Libya's own way (Book 1 — G10 Ancient Arab World (student book, Arabic)): the ancient world is told as one Arab-world story — method first (what a historian does), then prehistory, then each region in turn (Mesopotamia, the Levant, the Nile, North Africa with Libya's own Garamantes and Cyrenaica, Arabia), ending with foreign attempts to seize the region and the region's gifts back to civilisation; every chapter closes with a structured discussion (المناقشة). That way is stocked here as the way Libya teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 34 countries (Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya).**
+
+
+## History expansion (2026-11-15) — Papua New Guinea stocked (teacher-guide evidence only)
+
+**Book 1 — G3 Social Science TG (teacher guide, English)**
+- Title as printed: Social Science Teacher Guide — Primary Grade 3, Standards Based
+- Grade: Grade 3 (student/teacher: TEACHER)
+- Publisher: Department of Education, Papua New Guinea; year 2017; ISBN 978-9980-86-563-2
+- PDF pages: 89 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 7 placements — 7 to existing lessons, 0 NEW LESSON NEEDED
+- Papua New Guinea's own way: a combined Social Science course in five strands; History sits in its own strand "History and Origins" and starts from the child's own family — what history is, how the past is known, and where your own family came from, told through stories, chants and family trees.
+- Non-History parts (named, not placed): Strand 1 Community and Organization — People and Groups, Relationships, Rules Roles and Responsibilities (Civics, printed pp. 22–41); Strand 2 Trade — Needs and Wants, Production, Trade and Exchange; Strand 3 Culture and Society — Customs and Societies, Beliefs and Values (except the traditional-legends lessons placed below); Strand 4 Environment and Resources — The Environment, Resources, Working with Maps (Geography).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/papua-new-guinea-placements.md.
+
+This book is a teacher guide. The Papua New Guinea rows below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count — Papua New Guinea is not added to this lesson's countries line or acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea part — What is history? — story beats: children look at pictures of Independence and life before it, name what already happened, and land on history as the study of past events (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Papua New Guinea, *Social Science Teacher Guide — Primary Grade 3, Standards Based* (teacher guide — evidence), printed p. 68 |
+| Papua New Guinea part — Why do we learn about the past? — story beats: the past is not gone — knowledge, skills, stories and legends handed down generation to generation still shape how the class lives today (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Papua New Guinea, *Social Science Teacher Guide — Primary Grade 3, Standards Based* (teacher guide — evidence), printed p. 69 |
+
+Papua New Guinea's own way (Book 1 — G3 Social Science TG (teacher guide, English)): a combined Social Science course in five strands; History sits in its own strand "History and Origins" and starts from the child's own family — what history is, how the past is known, and where your own family came from, told through stories, chants and family trees. That way is stocked here as the way Papua New Guinea teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 34 countries (Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya) — unchanged; the Papua New Guinea placement(s) above are teacher-guide evidence only, counted nowhere. Papua New Guinea is not added to this lesson's countries line.**

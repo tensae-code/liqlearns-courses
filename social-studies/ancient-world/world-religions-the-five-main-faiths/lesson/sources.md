@@ -102,3 +102,45 @@ Searchable tags: Colombia, World religions — the five main faiths, ancient-wor
 Mauritania's own way (mr-g06 — History, 6th year of primary education (student book, Arabic)): The final primary year first lays the Islamic foundations in seven lessons (creed, the Prophet's birth and mission, the Rashidun, Islam's spread, Islamic science and civilisation, Islam and development), then repeats Mauritania's national story — before colonisation, the emirates, colonisation, resistance, its battles and heroes, the political struggle, and independence in stages. That way is stocked here as the way Mauritania teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 6 countries (Ethiopia, Bhutan, Cyprus, India, Colombia, Mauritania).**
+
+
+## History expansion (2026-11-15) — Papua New Guinea stocked (teacher-guide evidence only)
+
+**Book 9 — G11 History TG SBC (teacher guide, English)**
+- Title as printed: History Senior High Grade 11 Teacher Guide, Standards-Based
+- Grade: Grade 11 (student/teacher: TEACHER)
+- Publisher: Department of Education, Papua New Guinea; year 2020; ISBN 978-9980-905-96-3
+- PDF pages: 150 (cover/title page verified against the record title; byte size 9,390,416 matches the record)
+- Verdict: COMPLETE
+- Tally: 25 placements — 8 to existing lessons, 17 NEW LESSON NEEDED
+- Papua New Guinea's own way: the standalone senior History subject keeps the same 7-unit architecture but turns fully outward — the world wars and their leaders, Asia's decolonisation and democratisation, China's rise, and a Historical Inquiry unit that ends with PNG eyewitness accounts of the war and France's nuclear tests in the Pacific. (The guide's acknowledgements page still says "Grade 11 Social Science Teacher Guide" — a copy-over slip in the book itself.)
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/papua-new-guinea-placements.md.
+
+This book is a teacher guide. The Papua New Guinea rows below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count — Papua New Guinea is not added to this lesson's countries line or acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea part — Religion as agent of change — story beats: Asia is the birthplace of the world's faiths — Buddhism, Christianity, Confucianism, Hinduism, Islam, Jainism, Judaism, Shinto, Sikhism, Taoism and Zoroastrianism — with Islam the largest at some 1.1 billion followers, and Singapore and Vietnam among the most religiously diverse countries on earth (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: ancient-world/world-religions-the-five-main-faiths) | Papua New Guinea, *History Senior High Grade 11 Teacher Guide, Standards-Based* (teacher guide — evidence), printed pp. 66–68 |
+
+Papua New Guinea's own way (Book 9 — G11 History TG SBC (teacher guide, English)): the standalone senior History subject keeps the same 7-unit architecture but turns fully outward — the world wars and their leaders, Asia's decolonisation and democratisation, China's rise, and a Historical Inquiry unit that ends with PNG eyewitness accounts of the war and France's nuclear tests in the Pacific. (The guide's acknowledgements page still says "Grade 11 Social Science Teacher Guide" — a copy-over slip in the book itself.) That way is stocked here as the way Papua New Guinea teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 11 — G12 History TG SBC (teacher guide, English)**
+- Title as printed: History Senior High Grade 12 Teacher Guide, Standards-Based
+- Grade: Grade 12 (student/teacher: TEACHER)
+- Publisher: Department of Education, Papua New Guinea; year 2020; ISBN 978-9980-906-02-1
+- PDF pages: 146 (cover/title page verified against the record title; byte size 6,221,282 matches the record)
+- Verdict: COMPLETE
+- Tally: 31 placements — 10 to existing lessons, 21 NEW LESSON NEEDED
+- Papua New Guinea's own way: Grade 12 turns the 7-unit architecture into critical history — sources and how religions spread, why empires fell, Christianity's reshaping of cultures, the UN and the SDGs judged, PNG's own constitutional National Goals, exploitation of Papua New Guineans, the disasters that remade PNG towns (Rabaul 1994), and a final inquiry unit on media, ideology and the powerful individuals — Gaddafi the worked example — who bend societies.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/papua-new-guinea-placements.md.
+
+This book is a teacher guide. The Papua New Guinea rows below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count — Papua New Guinea is not added to this lesson's countries line or acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea part — Spread of world religions — story beats: local gods give way to universal faiths that can be practised anywhere — Hindu caste ordering India, Confucian ethics ordering China, Muslim traders doing business with fellow Muslims in distant lands, and believer-communities grown larger than any village (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: ancient-world/world-religions-the-five-main-faiths) | Papua New Guinea, *History Senior High Grade 12 Teacher Guide, Standards-Based* (teacher guide — evidence), printed pp. 44–45 |
+| Papua New Guinea part — Impact of religions on people — story beats: each faith carries a whole culture — Buddhism's Buddha, who never claimed to be a god, pointing at enlightenment and escape from rebirth's wheel, set beside the other great traditions and their consequences for the peoples they shaped (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: ancient-world/world-religions-the-five-main-faiths) | Papua New Guinea, *History Senior High Grade 12 Teacher Guide, Standards-Based* (teacher guide — evidence), printed pp. 60–62 |
+
+Papua New Guinea's own way (Book 11 — G12 History TG SBC (teacher guide, English)): Grade 12 turns the 7-unit architecture into critical history — sources and how religions spread, why empires fell, Christianity's reshaping of cultures, the UN and the SDGs judged, PNG's own constitutional National Goals, exploitation of Papua New Guineans, the disasters that remade PNG towns (Rabaul 1994), and a final inquiry unit on media, ideology and the powerful individuals — Gaddafi the worked example — who bend societies. That way is stocked here as the way Papua New Guinea teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 6 countries (Ethiopia, Bhutan, Cyprus, India, Colombia, Mauritania) — unchanged; the Papua New Guinea placement(s) above are teacher-guide evidence only, counted nowhere. Papua New Guinea is not added to this lesson's countries line.**

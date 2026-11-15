@@ -662,3 +662,67 @@ This book is a teacher guide: its rows stand as teacher-guide evidence only, cou
 South Sudan's own way (Book 8 — P4 Social Studies Teacher's Guide (teacher guide, English)): The guide makes period language explicit — inventors and events placed first by family lifespan, then by centuries — and origin history is gathered by talking to people and writing to schools in neighbouring communities. That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 20 countries (Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala, Malaysia, Ecuador, Bahamas, Eritrea, Nepal, Belarus, Fiji, Indonesia, Finland, Egypt, Syria, Suriname, Colombia, South Sudan).**
+
+
+## History expansion (2026-11-15) — Papua New Guinea stocked (teacher-guide evidence only)
+
+**Book 1 — G3 Social Science TG (teacher guide, English)**
+- Title as printed: Social Science Teacher Guide — Primary Grade 3, Standards Based
+- Grade: Grade 3 (student/teacher: TEACHER)
+- Publisher: Department of Education, Papua New Guinea; year 2017; ISBN 978-9980-86-563-2
+- PDF pages: 89 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 7 placements — 7 to existing lessons, 0 NEW LESSON NEEDED
+- Papua New Guinea's own way: a combined Social Science course in five strands; History sits in its own strand "History and Origins" and starts from the child's own family — what history is, how the past is known, and where your own family came from, told through stories, chants and family trees.
+- Non-History parts (named, not placed): Strand 1 Community and Organization — People and Groups, Relationships, Rules Roles and Responsibilities (Civics, printed pp. 22–41); Strand 2 Trade — Needs and Wants, Production, Trade and Exchange; Strand 3 Culture and Society — Customs and Societies, Beliefs and Values (except the traditional-legends lessons placed below); Strand 4 Environment and Resources — The Environment, Resources, Working with Maps (Geography).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/papua-new-guinea-placements.md.
+
+This book is a teacher guide. The Papua New Guinea rows below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count — Papua New Guinea is not added to this lesson's countries line or acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea part — Where do you come from? — story beats: every child traces back to a common family or clan ancestor, reads the clan's timeline, and finds their own place in the line (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/find-history-in-your-own-locality) | Papua New Guinea, *Social Science Teacher Guide — Primary Grade 3, Standards Based* (teacher guide — evidence), printed p. 70 |
+
+Papua New Guinea's own way (Book 1 — G3 Social Science TG (teacher guide, English)): a combined Social Science course in five strands; History sits in its own strand "History and Origins" and starts from the child's own family — what history is, how the past is known, and where your own family came from, told through stories, chants and family trees. That way is stocked here as the way Papua New Guinea teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 2 — G4 Social Science TG (teacher guide, English)**
+- Title as printed: Social Science Teacher Guide — Primary Grade 4, Standards Based
+- Grade: Grade 4 (student/teacher: TEACHER)
+- Publisher: Department of Education, Papua New Guinea; year 2017; ISBN 978-9980-86-564-9
+- PDF pages: 91 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 6 placements — 5 to existing lessons, 1 NEW LESSON NEEDED
+- Papua New Guinea's own way: Grade 4 widens Grade 3's family story to the whole local community — its first settlers, its clans and tribes, and its district's significant dates, learned from photographs, artefacts, newspaper stories and a guest speaker's memory.
+- Non-History parts (named, not placed): Strand 1 Community and Organization (Civics); Strand 2 Trade; Strand 3 Culture and Society; Strand 4 Environment and Resources — The Environment, Resources, Working with Maps (Geography).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/papua-new-guinea-placements.md.
+
+This book is a teacher guide. The Papua New Guinea rows below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count — Papua New Guinea is not added to this lesson's countries line or acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea part — Clans in the local community / Tribes in the community — story beats: families sharing one ancestor form clans, clans sharing one culture form tribes — children name and map the original groups of their own place (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/find-history-in-your-own-locality) | Papua New Guinea, *Social Science Teacher Guide — Primary Grade 4, Standards Based* (teacher guide — evidence), printed p. 72 |
+| Papua New Guinea part — Significant events in the history of the district — story beats: the district's turning-point events are chosen, dated and shown on one timeline — a first local history written by the class itself (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/find-history-in-your-own-locality) | Papua New Guinea, *Social Science Teacher Guide — Primary Grade 4, Standards Based* (teacher guide — evidence), printed p. 73 |
+
+Papua New Guinea's own way (Book 2 — G4 Social Science TG (teacher guide, English)): Grade 4 widens Grade 3's family story to the whole local community — its first settlers, its clans and tribes, and its district's significant dates, learned from photographs, artefacts, newspaper stories and a guest speaker's memory. That way is stocked here as the way Papua New Guinea teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 3 — G5 Social Science TG (teacher guide, English)**
+- Title as printed: Social Science Teacher Guide — Primary Grade 5, Standards Based
+- Grade: Grade 5 (student/teacher: TEACHER)
+- Publisher: Department of Education, Papua New Guinea; year 2017; ISBN 978-9980-86-565-6
+- PDF pages: 90 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 7 placements — 4 to existing lessons, 3 NEW LESSON NEEDED
+- Papua New Guinea's own way: Grade 5 turns from the local community to the nation — evidence and its reliability first, then early-settler life, then PNG's own significant events and the named leaders (Somare, Maori Kiki, Vincent Eri, John Guise) who carried the country to self-government and Independence.
+- Non-History parts (named, not placed): Strand 1 Community and Organization (Civics); Strand 2 Trade; Strand 3 Culture and Society; Strand 4 Environment and Resources — The Environment, Resources, Working with Maps (Geography).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/papua-new-guinea-placements.md.
+
+This book is a teacher guide. The Papua New Guinea rows below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count — Papua New Guinea is not added to this lesson's countries line or acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea part — Province's history — story beats: the same turning-point method comes home — each province's significant political, social, spiritual and disaster events are listed and drawn on its own timeline (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/find-history-in-your-own-locality) | Papua New Guinea, *Social Science Teacher Guide — Primary Grade 5, Standards Based* (teacher guide — evidence), printed p. 69 |
+| Papua New Guinea part — Important person – province — story beats: one named provincial figure, one contribution — children describe what their own province's leader did and why the province remembers them (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/find-history-in-your-own-locality) | Papua New Guinea, *Social Science Teacher Guide — Primary Grade 5, Standards Based* (teacher guide — evidence), printed p. 69 |
+
+Papua New Guinea's own way (Book 3 — G5 Social Science TG (teacher guide, English)): Grade 5 turns from the local community to the nation — evidence and its reliability first, then early-settler life, then PNG's own significant events and the named leaders (Somare, Maori Kiki, Vincent Eri, John Guise) who carried the country to self-government and Independence. That way is stocked here as the way Papua New Guinea teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 20 countries (Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala, Malaysia, Ecuador, Bahamas, Eritrea, Nepal, Belarus, Fiji, Indonesia, Finland, Egypt, Syria, Suriname, Colombia, South Sudan) — unchanged; the Papua New Guinea placement(s) above are teacher-guide evidence only, counted nowhere. Papua New Guinea is not added to this lesson's countries line.**

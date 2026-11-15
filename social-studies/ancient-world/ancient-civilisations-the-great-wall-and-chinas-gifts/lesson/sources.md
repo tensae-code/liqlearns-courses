@@ -103,3 +103,26 @@ Colombia's own way (Secundaria Activa G6 (student book, Spanish)): Secundaria Ac
 **Acceptance count: taught in 6 countries (Ethiopia, Australia, India, Pakistan, Palestine, Colombia).**
 
 Searchable tags: Colombia, Ancient civilisations — the Great Wall and China's gifts, ancient-world, History expansion 2026-11-15
+
+
+## History expansion (2026-11-15) — Papua New Guinea stocked (teacher-guide evidence only)
+
+**Book 9 — G11 History TG SBC (teacher guide, English)**
+- Title as printed: History Senior High Grade 11 Teacher Guide, Standards-Based
+- Grade: Grade 11 (student/teacher: TEACHER)
+- Publisher: Department of Education, Papua New Guinea; year 2020; ISBN 978-9980-905-96-3
+- PDF pages: 150 (cover/title page verified against the record title; byte size 9,390,416 matches the record)
+- Verdict: COMPLETE
+- Tally: 25 placements — 8 to existing lessons, 17 NEW LESSON NEEDED
+- Papua New Guinea's own way: the standalone senior History subject keeps the same 7-unit architecture but turns fully outward — the world wars and their leaders, Asia's decolonisation and democratisation, China's rise, and a Historical Inquiry unit that ends with PNG eyewitness accounts of the war and France's nuclear tests in the Pacific. (The guide's acknowledgements page still says "Grade 11 Social Science Teacher Guide" — a copy-over slip in the book itself.)
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/papua-new-guinea-placements.md.
+
+This book is a teacher guide. The Papua New Guinea rows below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count — Papua New Guinea is not added to this lesson's countries line or acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea part — Dominant cultures and groups in Asia — story beats: China the rising dominant culture — among the earliest civilisations, a co-inventor of writing beside Egypt and Greece, its Great Wall maintained as a reminder, now a one-party superpower of over a billion people (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-the-great-wall-and-chinas-gifts) | Papua New Guinea, *History Senior High Grade 11 Teacher Guide, Standards-Based* (teacher guide — evidence), printed pp. 55–56 |
+
+Papua New Guinea's own way (Book 9 — G11 History TG SBC (teacher guide, English)): the standalone senior History subject keeps the same 7-unit architecture but turns fully outward — the world wars and their leaders, Asia's decolonisation and democratisation, China's rise, and a Historical Inquiry unit that ends with PNG eyewitness accounts of the war and France's nuclear tests in the Pacific. (The guide's acknowledgements page still says "Grade 11 Social Science Teacher Guide" — a copy-over slip in the book itself.) That way is stocked here as the way Papua New Guinea teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 6 countries (Ethiopia, Australia, India, Pakistan, Palestine, Colombia) — unchanged; the Papua New Guinea placement(s) above are teacher-guide evidence only, counted nowhere. Papua New Guinea is not added to this lesson's countries line.**

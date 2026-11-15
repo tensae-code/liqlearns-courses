@@ -130,3 +130,26 @@ Colombia's own way (Secundaria Activa G7 (student book, Spanish)): Grade 7 Secun
 **Acceptance count: taught in 7 countries (Ethiopia, Poland, Costa Rica, Ecuador, India, Montenegro, Colombia).**
 
 Searchable tags: Colombia, Christianity — from persecuted sect to state religion, ancient-world, History expansion 2026-11-15
+
+
+## History expansion (2026-11-15) — Papua New Guinea stocked (teacher-guide evidence only)
+
+**Book 11 — G12 History TG SBC (teacher guide, English)**
+- Title as printed: History Senior High Grade 12 Teacher Guide, Standards-Based
+- Grade: Grade 12 (student/teacher: TEACHER)
+- Publisher: Department of Education, Papua New Guinea; year 2020; ISBN 978-9980-906-02-1
+- PDF pages: 146 (cover/title page verified against the record title; byte size 6,221,282 matches the record)
+- Verdict: COMPLETE
+- Tally: 31 placements — 10 to existing lessons, 21 NEW LESSON NEEDED
+- Papua New Guinea's own way: Grade 12 turns the 7-unit architecture into critical history — sources and how religions spread, why empires fell, Christianity's reshaping of cultures, the UN and the SDGs judged, PNG's own constitutional National Goals, exploitation of Papua New Guineans, the disasters that remade PNG towns (Rabaul 1994), and a final inquiry unit on media, ideology and the powerful individuals — Gaddafi the worked example — who bend societies.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/papua-new-guinea-placements.md.
+
+This book is a teacher guide. The Papua New Guinea rows below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count — Papua New Guinea is not added to this lesson's countries line or acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea part — Impact of Christianity on local cultures — story beats: the Church outlives Rome — preserving literacy after the Western Empire falls, replacing the Empire as Europe's unifying force, raising the cathedrals, fixing Easter, Christmas and the Gregorian calendar by which the world still counts from Jesus's birth (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: ancient-world/christianity-from-persecuted-sect-to-state-religion) | Papua New Guinea, *History Senior High Grade 12 Teacher Guide, Standards-Based* (teacher guide — evidence), printed p. 59 |
+
+Papua New Guinea's own way (Book 11 — G12 History TG SBC (teacher guide, English)): Grade 12 turns the 7-unit architecture into critical history — sources and how religions spread, why empires fell, Christianity's reshaping of cultures, the UN and the SDGs judged, PNG's own constitutional National Goals, exploitation of Papua New Guineans, the disasters that remade PNG towns (Rabaul 1994), and a final inquiry unit on media, ideology and the powerful individuals — Gaddafi the worked example — who bend societies. That way is stocked here as the way Papua New Guinea teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 7 countries (Ethiopia, Poland, Costa Rica, Ecuador, India, Montenegro, Colombia) — unchanged; the Papua New Guinea placement(s) above are teacher-guide evidence only, counted nowhere. Papua New Guinea is not added to this lesson's countries line.**
