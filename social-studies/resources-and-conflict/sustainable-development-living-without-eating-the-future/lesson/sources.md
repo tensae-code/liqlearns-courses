@@ -1,6 +1,6 @@
 # Sources — Sustainable development — living without eating the future
 
-countries: Ethiopia, Niue, Guatemala
+countries: Ethiopia, Niue, Guatemala, Costa Rica
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Niue, Guatemala
 
 **Book 4:** *Ciencias Sociales, Segundo ciclo* (teacher guide, Spanish) — Guatemala, MINEDUC, Ministerio de Educación de Guatemala (DIGEBI/DIGECADE/DIGECUR); year 2018, primera edición; no ISBN printed. Title as printed: Guía de orientaciones metodológicas para docentes — Ciencias Sociales, Segundo ciclo de primaria, cuarto, quinto y sexto. Grade: Grades 4–6 (records filed it under Grade 5 and Grade 6; the guide itself covers the whole second primary cycle) (teacher). 89 PDF pp. (cover verified against the record title; byte size 5,346,345 matches the books.json record exactly — read from the record's own archive.org source after two grab.py attempts failed with GitHub API RemoteDisconnected). Verdict: COMPLETE. Cited as evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/guatemala-placements.md.
 
+**Book 5:** *Antología CONED — Estudios Sociales 7* (student book, Spanish) — Costa Rica, Colegio Nacional de Educación a Distancia (CONED) / Universidad Estatal a Distancia (UNED); year 2017; ISBN no ISBN printed. Title as printed: Antología CONED — Materia: Estudios Sociales, Código 80005, Nivel: Sétimo año. Grade: Grade 7 (student). 166 PDF pp. (cover/title page verified against the record title; size 4,348,033 bytes = record). Verdict: COMPLETE. Read from the recorded public source URLs (CONED site and archive.org) after the GitHub grab route failed with RemoteDisconnected/timeouts on 2026-11-14; every downloaded file matched its books.json record byte-for-byte (size_bytes) and page count. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/costa-rica-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What sustainability means | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 6, printed pp. 179–180 |
@@ -18,8 +20,9 @@ countries: Ethiopia, Niue, Guatemala
 | Teaching sequence and answer keys (teacher guide — evidence) | Ethiopia, *Geography, Teacher Guide, Grade 11*, Unit 6, guide printed pp. 158–179 |
 | Niue part — Living sustainably today (balancing daily, economic, social and cultural needs with nature; class action projects) | Niue, *People and the Natural Environment in the Pacific*, Grade 5, Living sustainably today (balancing daily, economic, social and cultural needs with nature; class action projects) — printed p. 19 |
 | Guatemala part — Experiencia de aprendizaje 1 framing “Desarrollo humano sostenible y vivir bien” (teacher guide — evidence) | Guatemala, *Ciencias Sociales, Segundo ciclo* (teacher guide), Grades 4–6, Experiencia de aprendizaje 1 framing “Desarrollo humano sostenible y vivir bien” — printed p. 15 |
+| Costa Rica part — alternatives for reducing the human ecological footprint | Costa Rica, *Antología CONED 7*, Grade 7, Unit II Tema II C — printed p. 103 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Niue). Guatemala is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 3 countries (Ethiopia, Niue, Costa Rica). Guatemala is named here as teacher-guide evidence only, counted nowhere.**
 
 Niue's own way: Niue uses the shared Pacific ESD reader suite (Niue advisor Birtha Togahai) — land Geography is taught through Pacific farming itself: taro, pulaka and the coconut "tree of life", with Niue's own crops, exports and name-story ("behold the coconut") as anchor examples, and shifting cultivation/fallowing taught as sound science. That way is stocked here as the way Niue teaches this thing.
 
@@ -27,4 +30,6 @@ No book error is flagged for this lesson's pages in the placements. The student 
 
 Guatemala's own way (teacher guide — evidence): Social Studies is taught through three long “learning experiences” rooted in the country's own peoples (Maya, Garífuna, Xinka, Ladino); Geography enters as lived territory — the Maya unity of peoples and territory, care for Mother Earth, and a linguistic map of Guatemala played as a lotería game. That evidence is stocked here as the way Guatemala teaches this thing; it does not change the acceptance count above.
 
-Searchable tags: sustainable development, life-support processes, genetic diversity, ethiopia, social studies, resources and conflict, Niue, People and the Natural Environment in the Pacific, Guatemala
+Costa Rica's own way: a distance-education anthology organised around "the human footprint on geographic space" — every unit opens with a generating question and objectives, and Costa Rica is used as the home case inside world topics (tropical forest conservation, food production problems). That way is stocked here as the way Costa Rica teaches this thing.
+
+Searchable tags: sustainable development, life-support processes, genetic diversity, ethiopia, social studies, resources and conflict, Niue, People and the Natural Environment in the Pacific, Guatemala, Costa Rica, CONED Antología, Estudios Sociales

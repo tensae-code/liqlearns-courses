@@ -1,6 +1,6 @@
 # Sources — Maps and globes — kinds of maps and scale
 
-countries: Ethiopia, France, Myanmar, Haiti
+countries: Ethiopia, France, Myanmar, Haiti, Costa Rica
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 2, placements 27–43).
 
@@ -10,6 +10,8 @@ countries: Ethiopia, France, Myanmar, Haiti
 
 **Book 4:** *Du rond au plat, représenter le globe terrestre ?* (teacher sequence — corrigé, French) — Haiti, MENFP / Projet Nectar (Sciences humaines et sociales — Géographie, 7e année). Title as printed: Du rond au plat, représenter le globe terrestre ? (Projet Nectar, MENFP, Sciences humaines et sociales — Géographie, 7e année). Grade 7 (teacher). Publisher: MENFP / Projet Nectar; year not printed; no ISBN printed. 20 PDF pp. (cover verified against the record title). Verdict: COMPLETE. Read via grab.py (GitHub API, size/SHA verified) into scratch-ht/, text extracted page-by-page with pdftotext -layout; covers rendered and checked. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/haiti-placements.md.
 
+**Book 5:** *Estudios Sociales 11* (Porras y Gamboa) (student book, Spanish) — Costa Rica, Publicaciones Porras y Gamboa, San José (printed imprint: Editorial Compas ERV); year 2018, 1st edition; ISBN 978-9930-9622-3-7 as printed on the copyright page (the targets record gives 978-9990-96223-7 — record/printed mismatch, see group log library debts). Title as printed: Estudios Sociales 11 (cover: "Estudios Sociales 11 — Publicaciones Porras"). Grade: Grade 11 (student). 200 PDF pp. (cover verified visually against the record title; size 56,329,080 bytes = record; image-only PDF, read via 100-DPI 4-up contact sheets). Verdict: COMPLETE for this wave's scope — the Geography unit (Unit 1) was read page-by-page; Units 2–3 (History) and Unit 4 (exam practice) were identified from the full printed table of contents and spot-checked at their openings. Read from the recorded public source URLs (CONED site and archive.org) after the GitHub grab route failed with RemoteDisconnected/timeouts on 2026-11-14; every downloaded file matched its books.json record byte-for-byte (size_bytes) and page count. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/costa-rica-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Kinds of maps by message | Ethiopia, *Social Studies Student Textbook, Grade 7* (Amhara Bureau), printed pp. 49–50 |
@@ -18,8 +20,9 @@ countries: Ethiopia, France, Myanmar, Haiti
 | France part — Thème 2 Bilan/Évaluation: Cartographier — dessiner les dynamiques et les inégalités du territoire français (croquis, construire la légende) | France, *Géographie 2de GT, Manuel Libre de Géographie, Seconde*, Grade 10, Sommaire Thème 2 |
 | Different types of maps — Myanmar way: 5.1 (teacher guide — evidence) | Myanmar, *Teacher Guide — Geography — Grade 6* (teacher guide), §5.1, printed p. 78 |
 | Haiti part — Séance 7 S'orienter sur la terre (4) (compléter des planisphères de projections différentes, choisir une projection selon l'objet) (teacher sequence — evidence) | Haiti, *Du rond au plat, représenter le globe terrestre ?* (teacher sequence), Grade 7, Séance 7 S'orienter sur la terre (4) (compléter des planisphères de projections différentes, choisir une projection selon l'objet) — printed p. 15 |
+| Costa Rica part — map-work — main sellers and buyers of timber in the world (flow map); production maps of Europe and Africa compared | Costa Rica, *Estudios Sociales 11 (Porras y Gamboa)*, Grade 11, Unit 1 B practicals — printed p. 24 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, France). Myanmar is named here as teacher-guide evidence only, counted nowhere. Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 3 countries (Ethiopia, France, Costa Rica). Myanmar is named here as teacher-guide evidence only, counted nowhere. Haiti is named here as teacher-sequence evidence only, counted nowhere.**
 
 Haiti's own way (teacher sequence — evidence): Geography opens with representing the Earth itself — globe-to-flat projection problems, orientation practised on the ground with compass/GPS/Google Maps, and time-zone puzzles worked on Haiti's own links (midday shared with Québec, 18h in Paris, Port-au-Prince–Paris flights); every séance ends in a croquis, a glossary and field observation. That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
@@ -27,4 +30,6 @@ Myanmar's own way (teacher guide — evidence): the year is split into five para
 
 Pairing warning (honesty): Book 2 is an Addis Ababa bureau guide in English; Book 1 is an Amhara bureau student book in Amharic. They are NOT edition-matched companions — the guide's unit order differs and whole student topics (maps, globes, GPS) have no guide counterpart, so no guide coverage is claimed for them. Guide material is used only as labelled teacher evidence.
 
-Searchable tags: kinds of maps, physical map, political map, special-purpose map, scale, large-scale, medium-scale, small-scale, Myanmar, Teacher Guide Geography Grade 6, teacher guide evidence, Haiti, Du rond au plat, teacher sequence evidence
+Costa Rica's own way: a commercial workbook twin of the CONED 11 anthology — same ministry programme, but every topic is a fixed cycle (problem question, basic concepts, my previous ideas, widening my knowledge, I apply my knowledge, problem-based learning, exam preparation) with heavy map-work and Costa Rica-specific data: ICE internet-coverage map, services-export league table, Costa Rica's geo-strategic bridge position between North/South America and the Caribbean. That way is stocked here as the way Costa Rica teaches this thing.
+
+Searchable tags: kinds of maps, physical map, political map, special-purpose map, scale, large-scale, medium-scale, small-scale, Myanmar, Teacher Guide Geography Grade 6, teacher guide evidence, Haiti, Du rond au plat, teacher sequence evidence, Costa Rica, CONED Antología, Estudios Sociales

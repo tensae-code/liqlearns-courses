@@ -1,19 +1,27 @@
 # Sources — Culture — globalisation and cultural change
 
-countries: Ethiopia, Brazil
+countries: Ethiopia, Brazil, Costa Rica
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 2 — Population Studies and Socio-Economic Activities, printed pp. 44–76).
 
 **Book 2:** *Geografia, Livro Didático Público, Ensino Médio* (student book, Portuguese) — Brazil, Secretaria de Estado da Educação do Paraná (SEED-PR), Curitiba; year 2007 (2ª edição); ISBN 85-85380-35-7. Title as printed: Geografia — Ensino Médio (Livro Didático Público; record title: Geografia — Livro Didático Público — Ensino Médio (SEED-PR)). Grade 10 (Ensino Médio) (student). 280 PDF pp. (cover/title page verified against the record title; printed book 280 pp.). Verdict: COMPLETE. Read via grab.py url (GitHub release; OK 8,324,996 bytes). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/brazil-placements.md.
+
+**Book 3:** *Antología CONED — Estudios Sociales 11* (student book, Spanish) — Costa Rica, CONED / UNED; year 2018 file (© 2017 as printed on the title pages); ISBN no ISBN printed. Title as printed: Antología CONED — Materia: Estudios Sociales, Código 80029, Nivel: Undécimo año. Grade: Grade 11 (student). 124 PDF pp. (title page is PDF p. 3, verified against the record title; size 3,190,948 bytes = record). Verdict: COMPLETE. Read from the recorded public source URLs (CONED site and archive.org) after the GitHub grab route failed with RemoteDisconnected/timeouts on 2026-11-14; every downloaded file matched its books.json record byte-for-byte (size_bytes) and page count. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/costa-rica-placements.md.
+
+**Book 4:** *Estudios Sociales 11* (Porras y Gamboa) (student book, Spanish) — Costa Rica, Publicaciones Porras y Gamboa, San José (printed imprint: Editorial Compas ERV); year 2018, 1st edition; ISBN 978-9930-9622-3-7 as printed on the copyright page (the targets record gives 978-9990-96223-7 — record/printed mismatch, see group log library debts). Title as printed: Estudios Sociales 11 (cover: "Estudios Sociales 11 — Publicaciones Porras"). Grade: Grade 11 (student). 200 PDF pp. (cover verified visually against the record title; size 56,329,080 bytes = record; image-only PDF, read via 100-DPI 4-up contact sheets). Verdict: COMPLETE for this wave's scope — the Geography unit (Unit 1) was read page-by-page; Units 2–3 (History) and Unit 4 (exam practice) were identified from the full printed table of contents and spot-checked at their openings. Read from the recorded public source URLs (CONED site and archive.org) after the GitHub grab route failed with RemoteDisconnected/timeouts on 2026-11-14; every downloaded file matched its books.json record byte-for-byte (size_bytes) and page count. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/costa-rica-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Globalisation | Ethiopia, *Social Studies Student Textbook, Grade 8* (Amhara Bureau), printed pp. 52–53 |
 | Sub lesson 2 — No culture stands still | Ethiopia, *Social Studies Student Textbook, Grade 8* (Amhara Bureau), printed pp. 52–53 |
 | Brazil part — Folha 7: Nada a ver? Tudo a ver! / Nothing to do with it? Everything to do with it! (culture and globalisation) | Brazil, *Geografia, Livro Didático Público, Ensino Médio*, Grade 10, Folha 7: Nada a ver? Tudo a ver! / Nothing to do with it? Everything to do with it! (culture and globalisation), printed p. 118 |
+| Costa Rica part — cultural convergences and divergences in the globalised world | Costa Rica, *Antología CONED 11*, Grade 11, Unit 1 Tema 1 E — printed p. 36 |
+| Costa Rica part — cultural convergences and divergences in the globalised world; globalisation and culture, multiculturality and pluriculturality in Costa Rica | Costa Rica, *Estudios Sociales 11 (Porras y Gamboa)*, Grade 11, Unit 1 E — printed p. 49 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Brazil).**
+**Acceptance count: taught in 3 countries (Ethiopia, Brazil, Costa Rica).**
 
 Honesty: pupil content comes from the Amhara student book. The Addis Ababa Grade 8 teacher guide is NOT edition-matched to this student book and is truncated (only printed pp. 1–47, Units 1–3, in hand); no guide coverage is claimed for this lesson beyond what its sources rows name.
 
-Searchable tags: culture: globalisation and cultural change, culture and work, social studies, ethiopia
+Costa Rica's own way: the CONED 11 anthology opens with a Geography unit on globalisation read "from the geographic viewpoint" (spatial flows of production and consumption, global cities, space-time compression), then turns to Costa Rica's own 20th-century history; its commercial workbook twin, Porras y Gamboa's *Estudios Sociales 11*, teaches the same ministry programme as a fixed cycle (problem question, basic concepts, my previous ideas, widening my knowledge, I apply my knowledge, problem-based learning, exam preparation) with heavy map-work and Costa Rica-specific data: ICE internet-coverage map, services-export league table, Costa Rica's geo-strategic bridge position between North/South America and the Caribbean. That way is stocked here as the way Costa Rica teaches this thing.
+
+Searchable tags: culture: globalisation and cultural change, culture and work, social studies, ethiopia, Costa Rica, CONED Antología, Estudios Sociales

@@ -1,6 +1,6 @@
 # Sources — Kinds of migration
 
-countries: Ethiopia, Micronesia, Brazil, Belarus, France, Haiti, Guatemala
+countries: Ethiopia, Micronesia, Brazil, Belarus, France, Haiti, Guatemala, Costa Rica
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). Editors: Sintayehu Teka (MSc) (Content Editor), Kassie Molla (MA) (Language Editor), Hirut Woldemichael (MA) (Curriculum Editor). Illustrator: Agenchw Nega (MSc). Designer: Geda Hoka (MA). Evaluators: Dereje Guteta (PhD), Tesfaye Shiferaw (PhD), Abebe Yibeltie (MA), Hussein Seid (MA). First published 2023 under GEQIP-E. ISBN 978-99990-0-049-9. Printed by Gravity Group IND LLC, 13th Industrial Area, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. Printed page = PDF page − 6 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Micronesia, Brazil, Belarus, France, Haiti, Guatemala
 
 **Book 8:** *Ciencias Sociales y Formación Ciudadana, Cuarto grado* (student book, Spanish) — Guatemala, Ministerio de Educación de Guatemala, elaborated with USAID/Reforma Educativa en el Aula (Juárez y Asociados); author Gloria Amaria Hernández; year impresión 2017; ISBN 978-9929-596-13-9. Title as printed: Ciencias Sociales y Formación Ciudadana — Cuarto grado. Grade: Grade 4 (student). 256 PDF pp. (cover verified against the record title; byte size 25,726,392 and page count 256 match the books.json record exactly — read from the record's own Wayback source URL after grab.py failed with GitHub API RemoteDisconnected; the two TSV release records are the same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/guatemala-placements.md.
 
+**Book 9:** *Antología CONED — Estudios Sociales 10* (student book, Spanish) — Costa Rica, CONED / UNED; year 2017; ISBN no ISBN printed. Title as printed: Antología CONED — Materia: Estudios Sociales, Código 80023, Nivel: Décimo año. Grade: Grade 10 (student). 255 PDF pp. (cover/title page verified against the record title; size 11,879,619 bytes = record). Verdict: COMPLETE. Read from the recorded public source URLs (CONED site and archive.org) after the GitHub grab route failed with RemoteDisconnected/timeouts on 2026-11-14; every downloaded file matched its books.json record byte-for-byte (size_bytes) and page count. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/costa-rica-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Internal and international | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 7, printed pp. 167–168 |
@@ -30,8 +32,9 @@ countries: Ethiopia, Micronesia, Brazil, Belarus, France, Haiti, Guatemala
 | France part — Thème 3: Les migrations internationales (étude de cas: la mer Méditerranée, un espace migratoire) | France, *Géographie 2de GT, Manuel Libre de Géographie, Seconde*, Grade 10, Sommaire Thème 3 |
 | Haiti part — Séance 2, Temps 5 L'exode vers les villes et ses conséquences (teacher sequence — evidence) | Haiti, *Sciences humaines et sociales — Géographie — Population urbaine et population rurale en Haïti* (teacher sequence), Grade 8, Séance 2, Temps 5 L'exode vers les villes et ses conséquences — printed p. 12 |
 | Guatemala part — Migraciones: interna forzada, interna por trabajo temporal (harvest cycles, altiplano–coast), interna permanente, and externa to the USA with remesas | Guatemala, *Ciencias Sociales y Formación Ciudadana*, Grade 4, Migraciones: interna forzada, interna por trabajo temporal (harvest cycles, altiplano–coast), interna permanente, and externa to the USA with remesas (Unit 4) — printed pp. 178–179 |
+| Costa Rica part — internal spatial mobility in contemporary society | Costa Rica, *Antología CONED 10*, Grade 10, Unit 3 Tema II A — printed p. 240 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Micronesia, Brazil, Belarus, France, Guatemala). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 7 countries (Ethiopia, Micronesia, Brazil, Belarus, France, Guatemala, Costa Rica). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
 
 Haiti's own way (teacher sequence — evidence): Population geography is built entirely on Haiti's own data, handled critically: pupils confront the national statistics institute (IHSI) with international sources, note that the last census is 2003, build density maps and age pyramids themselves, then read the whole country through Port-au-Prince's primacy and the diaspora («les Haïtiens de l'extérieur»). That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
@@ -39,4 +42,6 @@ No book error is flagged for this lesson's pages in the placements. The migratio
 
 Guatemala's own way: one combined Social Studies and Citizenship book per grade, organised in four units that alternate History of Guatemala/Central America with the physical geography of the isthmus — every map carries the note about the unresolved Belize territorial differendum, and Geography is always worked on maps of the seven Central American countries with Guatemala's own Sierra de las Minas, Motagua river and Maya Biosphere as the home examples. That way is stocked here as the way Guatemala teaches this thing.
 
-Searchable tags: migration kinds, internal international, voluntary forced, permanent change of residence, ethiopia, social studies, population transport and maps, Haiti, Population urbaine et rurale, teacher sequence evidence, Guatemala
+Costa Rica's own way: two-thirds contemporary History/geopolitics, then a closing Geography unit on population dynamics and spatial mobility that always pairs the world pattern with the Costa Rican case (Costa Rica's own population change, internal and international mobility). That way is stocked here as the way Costa Rica teaches this thing.
+
+Searchable tags: migration kinds, internal international, voluntary forced, permanent change of residence, ethiopia, social studies, population transport and maps, Haiti, Population urbaine et rurale, teacher sequence evidence, Guatemala, Costa Rica, CONED Antología, Estudios Sociales

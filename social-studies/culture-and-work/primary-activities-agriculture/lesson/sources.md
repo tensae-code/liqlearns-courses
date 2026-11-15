@@ -1,6 +1,6 @@
 # Sources — Primary activities — agriculture
 
-countries: Ethiopia, Barbados, Nauru, Tuvalu, Niue
+countries: Ethiopia, Barbados, Nauru, Tuvalu, Niue, Costa Rica
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 2 — Population Studies and Socio-Economic Activities, printed pp. 44–76).
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Barbados, Nauru, Tuvalu, Niue
 
 **Book 5:** *People and the Natural Environment in the Pacific* (student book, English) — Niue, Institute of Education, University of the South Pacific (Tonga Campus), for UNESCO/Japanese Funds-in-Trust ESD project; year 2020; no ISBN printed. Title as printed: People and the Natural Environment in the Pacific — A Social Sciences related reader for Primary School, Book 3 (inner title page: Years 7–8 — see the grade note). Grade: Grade 5 record / Years 5–6 per the Teacher Guide, Years 7–8 per the inner title page (student). Niue advisor: Birtha Togahai. 24 PDF pp. (cover verified against the record title; read in full via pdftotext, page by page). Verdict: COMPLETE (content printed pp. 1–19). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/niue-placements.md.
 
+**Book 6:** *Antología CONED — Estudios Sociales 7* (student book, Spanish) — Costa Rica, Colegio Nacional de Educación a Distancia (CONED) / Universidad Estatal a Distancia (UNED); year 2017; ISBN no ISBN printed. Title as printed: Antología CONED — Materia: Estudios Sociales, Código 80005, Nivel: Sétimo año. Grade: Grade 7 (student). 166 PDF pp. (cover/title page verified against the record title; size 4,348,033 bytes = record). Verdict: COMPLETE. Read from the recorded public source URLs (CONED site and archive.org) after the GitHub grab route failed with RemoteDisconnected/timeouts on 2026-11-14; every downloaded file matched its books.json record byte-for-byte (size_bytes) and page count. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/costa-rica-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Directly from nature | Ethiopia, *Social Studies Student Textbook, Grade 8* (Amhara Bureau), printed pp. 55–56 |
@@ -21,8 +23,9 @@ countries: Ethiopia, Barbados, Nauru, Tuvalu, Niue
 | Tuvalu part — Niue's crops (70 kinds of taro; 87% of households farming in 2009; taro, vanilla, nonu, honey and coconut exports) | Tuvalu, *People and the Natural Environment in the Pacific*, Grade 5, Niue's crops (70 kinds of taro; 87% of households farming in 2009; taro, vanilla, nonu, honey and coconut exports) — printed p. 8 |
 | Niue part — Niue's food crops and taro exports (70+ taro types incl. pink talo Niue; 87% of households farming, 2009; taro as an export cash crop with vanilla, nonu, honey and coconuts) (placement target culture-and-work/niues-food-crops-and-taro-exports — stocked here as the closest existing lesson) | Niue, *People and the Natural Environment in the Pacific*, Grade 5, Niue's food crops and taro exports (70+ taro types incl. pink talo Niue; 87% of households farming, 2009; taro as an export cash crop with vanilla, nonu, honey and coconuts) — printed p. 8 |
 | Niue part — Tonga's crops and multicropping (taro interplanted with yams and bananas; semi-subsistence farming) | Niue, *People and the Natural Environment in the Pacific*, Grade 5, Tonga's crops and multicropping (taro interplanted with yams and bananas; semi-subsistence farming) — printed p. 10 |
+| Costa Rica part — the Neolithic Revolution, sedentarisation and the first agricultural societies transforming geographic space | Costa Rica, *Antología CONED 7*, Grade 7, Unit I Tema I B — printed p. 19 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Barbados, Nauru, Tuvalu, Niue).**
+**Acceptance count: taught in 6 countries (Ethiopia, Barbados, Nauru, Tuvalu, Niue, Costa Rica).**
 
 Niue's own way: Niue uses the shared Pacific ESD reader suite (Niue advisor Birtha Togahai) — land Geography is taught through Pacific farming itself: taro, pulaka and the coconut "tree of life", with Niue's own crops, exports and name-story ("behold the coconut") as anchor examples, and shifting cultivation/fallowing taught as sound science. That way is stocked here as the way Niue teaches this thing.
 
@@ -36,4 +39,6 @@ Honesty: pupil content comes from the Amhara student book. The Addis Ababa Grade
 
 The guide's Unit 2 review key lists "fishing" and "fishery" duplicated among primary activities (guide verification block, error 10); the duplication is not taught.
 
-Searchable tags: primary activities: agriculture, culture and work, social studies, ethiopia, Nauru, People and the Natural Environment in the Pacific, Niue crops, Tuvalu, Niue
+Costa Rica's own way: a distance-education anthology organised around "the human footprint on geographic space" — every unit opens with a generating question and objectives, and Costa Rica is used as the home case inside world topics (tropical forest conservation, food production problems). That way is stocked here as the way Costa Rica teaches this thing.
+
+Searchable tags: primary activities: agriculture, culture and work, social studies, ethiopia, Nauru, People and the Natural Environment in the Pacific, Niue crops, Tuvalu, Niue, Costa Rica, CONED Antología, Estudios Sociales

@@ -103,7 +103,7 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **728**
+Geography lessons across the eight Geography titles: **735**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -271,3 +271,13 @@ Ukraine view, Egypt — country study and South Africa —
 country study; Global Issues: Africa — between
 tradition and globalisation, Ukraine on the geopolitical
 map and Ukraine in global economic relations.
+
++7 for Costa Rica, 2026-11-14 — Global Issues:
+Ecological footprint and biocapacity, Seismic and
+volcanic risk and vulnerability, Climate vulnerability
+by sector — the Costa Rican case and Transnational
+companies and global cities; People and Resources: The
+geography of food production; Population, Transport and
+Maps: Costa Rica's population change — 20th and 21st
+century and Costa Rica's geo-strategic position and
+internet coverage.

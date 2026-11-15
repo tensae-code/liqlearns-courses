@@ -1,6 +1,6 @@
 # Sources — Land-Shaping Forces — Volcanism, Magma and Lava
 
-countries: Ethiopia, Barbados, Guatemala
+countries: Ethiopia, Barbados, Guatemala, Costa Rica
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Barbados, Guatemala
 
 **Book 4:** *Ciencias Sociales y Formación Ciudadana, Cuarto grado* (student book, Spanish) — Guatemala, Ministerio de Educación de Guatemala, elaborated with USAID/Reforma Educativa en el Aula (Juárez y Asociados); author Gloria Amaria Hernández; year impresión 2017; ISBN 978-9929-596-13-9. Title as printed: Ciencias Sociales y Formación Ciudadana — Cuarto grado. Grade: Grade 4 (student). 256 PDF pp. (cover verified against the record title; byte size 25,726,392 and page count 256 match the books.json record exactly — read from the record's own Wayback source URL after grab.py failed with GitHub API RemoteDisconnected; the two TSV release records are the same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/guatemala-placements.md.
 
+**Book 5:** *Antología CONED — Estudios Sociales 8* (student book, Spanish) — Costa Rica, CONED / UNED; year 2017 (© 2017 as printed); ISBN no ISBN printed. Title as printed: Antología CONED — Materia: Estudios Sociales, Código 80017, Nivel: Octavo año. Grade: Grade 8 (student). 96 PDF pp. (title page is PDF p. 3, verified against the record title; size 3,313,970 bytes = record). Verdict: COMPLETE. Read from the recorded public source URLs (CONED site and archive.org) after the GitHub grab route failed with RemoteDisconnected/timeouts on 2026-11-14; every downloaded file matched its books.json record byte-for-byte (size_bytes) and page count. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/costa-rica-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The whole process | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 13–14 |
@@ -17,8 +19,9 @@ countries: Ethiopia, Barbados, Guatemala
 | Sub lesson 3 — Three activity kinds (teacher guide — evidence) | Ethiopia, *Social Studies Teacher's Guide, Grade 8*, §1.1 (Activity 1.1A key), printed pp. 2, 5 |
 | Barbados part — intrusive and extrusive volcanic features and how they change (case studies St Lucia, St Vincent, Montserrat) | Barbados, *Geography for CSEC — 2nd Edition*, Grade 10, Ch. 1: intrusive and extrusive volcanic features and how they change (case studies St Lucia, St Vincent, Montserrat) — printed p. 19 |
 | Guatemala part — Volcanes | Guatemala, *Ciencias Sociales y Formación Ciudadana*, Grade 4, Volcanes (Unit 2) — printed p. 87 |
+| Costa Rica part — earth dynamics and volcanic activity | Costa Rica, *Antología CONED 8*, Grade 8, Unit 1 Tema 1 C — printed p. 24 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Barbados, Guatemala).**
+**Acceptance count: taught in 4 countries (Ethiopia, Barbados, Guatemala, Costa Rica).**
 
 Barbados's own way: this is the shared Caribbean CSEC examination textbook used in Barbados — every world process is re-taught through Caribbean case studies (the Caribbean plate, Montserrat's volcano, Jamaica's coasts and Kingston's urban problems, St Lucia's reefs, Bahamas/Jamaica/Puerto Rico karst, Guyana's rivers), map and field skills are folded into the chapters, and the course ends in a School-Based Assessment fieldwork project. That way is stocked here as the way Barbados teaches this thing; it does not change the acceptance count above.
 
@@ -26,4 +29,6 @@ Pairing warning: the Grade 8 teacher guide is an Addis Ababa bureau book and the
 
 Guatemala's own way: one combined Social Studies and Citizenship book per grade, organised in four units that alternate History of Guatemala/Central America with the physical geography of the isthmus — every map carries the note about the unresolved Belize territorial differendum, and Geography is always worked on maps of the seven Central American countries with Guatemala's own Sierra de las Minas, Motagua river and Maya Biosphere as the home examples. That way is stocked here as the way Guatemala teaches this thing.
 
-Searchable tags: land-shaping forces   volcanism  magma and lava, ethiopia, social studies, the land and air, Guatemala
+Costa Rica's own way: an almost purely geographical anthology — earth dynamics, water and climate change — built around risk: every world topic lands on Costa Rican vulnerability, risk management and territorial planning by sector (biodiversity, health, infrastructure, fisheries, energy, agriculture, water). That way is stocked here as the way Costa Rica teaches this thing.
+
+Searchable tags: land-shaping forces   volcanism  magma and lava, ethiopia, social studies, the land and air, Guatemala, Costa Rica, CONED Antología, Estudios Sociales

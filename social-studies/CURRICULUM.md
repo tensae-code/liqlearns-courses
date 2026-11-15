@@ -1569,3 +1569,104 @@ Ukraine on the geopolitical map (§37, printed p. 225) and
 Ukraine in global economic relations (§38, printed
 p. 228) — the new lessons taught in 1 country (Ukraine),
 8 questions each. Geography lessons: 697 → 728.
+
+## Geography expansion — Costa Rica — built 2026-11-14
+
+Costa Rica — 41 placements stocked from 6 distinct books
+(9 records / 6 distinct books in the Costa Rica file).
+Costa Rica teaches Estudios Sociales through CONED
+distance-education anthologies — *Antología CONED 7*
+(Grade 7, 2017, COMPLETE, 166 PDF pp.), *Antología
+CONED 8* (Grade 8, 2017, COMPLETE, 96 PDF pp.),
+*Antología CONED 10* (Grade 10, 2017, COMPLETE,
+255 PDF pp.) and *Antología CONED 11* (Grade 11,
+2018 file, COMPLETE, 124 PDF pp.), all CONED / UNED,
+no ISBN printed, read from the recorded public source
+URLs (CONED site and archive.org) after the GitHub
+grab route failed, every file matching its books.json
+record byte-for-byte — plus *Estudios Sociales 11*
+(Porras y Gamboa, Grade 11, 2018, COMPLETE for this
+wave's scope, 200 PDF pp.; ISBN 978-9930-9622-3-7 as
+printed, the targets record gives 978-9990-96223-7 —
+record/printed mismatch carried as stated). The
+Grade 9 CONED anthology is a History anthology with
+no Geography teaching parts (0 placements; its three
+History units are named in the placements for the
+History wave). All six books are student books,
+counted in acceptance counts. Costa Rica's own way:
+the CONED anthologies are organised around "the human
+footprint on geographic space" (Grade 7), risk and
+territorial planning by sector (Grade 8), world
+patterns always paired with the Costa Rican case
+(Grade 10) and globalisation read "from the geographic
+viewpoint" (Grade 11); the Porras y Gamboa workbook
+teaches the same programme as a fixed cycle with heavy
+map-work and Costa Rica-specific data. Stocked into
+standing lessons — **Population, Transport and Maps**:
+Human evolution — fossils and the first humans (CONED
+7 Unit I Tema I A, printed p. 7 — this lesson's first
+pupil-taught country; it stood on teacher-guide
+evidence only before), Population — distribution
+(CONED 10 Unit 3 Tema I A, printed p. 199), Kinds of
+migration (Tema II A, printed p. 240), Migration —
+moving for work, safety and family (Tema II B, printed
+p. 243), Push and pull — why Africans move (Tema II C,
+printed p. 249 — the book's forced-displacement part,
+stocked in this standing migration lesson as filed),
+The digital divide — connected and left out (CONED 11
+Tema 1 C, printed p. 21; Porras Unit 1 C, printed
+p. 28) and Maps and globes — kinds of maps and scale
+(Porras Unit 1 B practicals, printed p. 24); **People
+and Resources**: Growth is not development — the HDI
+(CONED 11 Tema 1 D, printed p. 32; Porras Unit 1 D,
+printed p. 44); **The Land and Air**: Rainforest,
+woodland and savanna (CONED 7 Unit III Tema I A,
+printed p. 107), Plate tectonics — the Earth's moving
+shell (CONED 8 Unit 1 Tema 1 A, printed p. 8),
+Earthquakes — the slipping earth (Tema 1 A cont.,
+printed p. 8), Land-shaping forces — volcanism, magma
+and lava (Tema 1 C, printed p. 24), Volcano shapes —
+shield, strato, cinder cone (Tema 1 D, printed p. 28)
+and A water world — how land and ocean are shared out
+(Tema 2 A, printed p. 32); **Culture and Work**:
+Primary activities — agriculture (CONED 7 Unit I
+Tema I B, printed p. 19), Trade — internal and
+external, and its uses (CONED 11 Tema 1 B, printed
+p. 14; Porras Unit 1 B, printed p. 18) and Culture,
+globalisation and cultural change (CONED 11 Tema 1 E,
+printed p. 36; Porras Unit 1 E, printed p. 49);
+**Resources and Conflict**: Sustainable development —
+living without eating the future (CONED 7 Unit II
+Tema II C, printed p. 103), Why forests fall (Unit III
+Tema I B, printed p. 124) and Water under pressure
+(CONED 8 Unit 1 Tema 2 B, printed p. 38); **Global
+Issues**: Forests shrinking — and care (CONED 7
+Unit III Tema I C, printed p. 130), Famine and food
+security — availability is not enough (Tema II C,
+printed p. 155), Climate change — the basic concepts
+(CONED 8 Unit 2 Tema 1 A, printed p. 46), Global
+warming and greenhouse gases (Tema 1 B, printed
+p. 49), Impacts of climate change (Tema 1 C, printed
+p. 54), Adaptation — adjusting to climate change
+(Unit 3 Tema 1 A, printed p. 66), Climate change —
+effects and responses (Tema 1 D, printed p. 82),
+Human trafficking (CONED 10 Unit 3 Tema I C, printed
+p. 225) and Globalization — gains and costs (CONED 11
+Tema 1 A, printed p. 8; Porras Unit 1 A, printed
+p. 14) — and 7 new lessons built — in **Global
+Issues**: Ecological footprint and biocapacity (CONED
+7 Unit II Tema II A–B, printed p. 94), Seismic and
+volcanic risk and vulnerability (CONED 8 Unit 1
+Tema 1 B, printed p. 16), Climate vulnerability by
+sector — the Costa Rican case (CONED 8 Unit 3 Tema 1
+B–C, printed p. 68) and Transnational companies and
+global cities (Porras Unit 1 B cont., printed p. 20);
+in **People and Resources**: The geography of food
+production (CONED 7 Unit III Tema II A–B, printed
+p. 137); in **Population, Transport and Maps**: Costa
+Rica's population change — 20th and 21st century
+(CONED 10 Unit 3 Tema I B, printed p. 215) and Costa
+Rica's geo-strategic position and internet coverage
+(Porras Unit 1 C cont., printed p. 34) — the new
+lessons taught in 1 country (Costa Rica), 8 questions
+each. Geography lessons: 728 → 735.

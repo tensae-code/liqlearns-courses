@@ -1,6 +1,6 @@
 # Sources — Population — distribution
 
-countries: Ethiopia, Saudi Arabia, Belarus, Barbados, Haiti, Guatemala, Ukraine
+countries: Ethiopia, Saudi Arabia, Belarus, Barbados, Haiti, Guatemala, Ukraine, Costa Rica
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 2, placements 27–43).
 **Book 2:** *Social Studies Teacher's Guide, Grade 7* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, first edition 2022 (2014 E.C.). Printed page = PDF page − 5. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-teacher-placements.md (Unit 2, and §3.2 for the optimum-population lesson).
@@ -17,6 +17,8 @@ countries: Ethiopia, Saudi Arabia, Belarus, Barbados, Haiti, Guatemala, Ukraine
 
 **Book 8:** *Geografiya* (student book, Ukrainian) — Ukraine, УОВЦ «Оріон» (Orion), Kyiv; year 2018; ISBN 978-617-7485-75-8. Title as printed: Географія (рівень стандарту) : підручник для 10 класу закладів загальної середньої освіти. Grade: Grade 10 (student). 244 PDF pp. (cover/title page verified against the record title; printed book 240 pp.). Verdict: COMPLETE. Read via grab.py url (GitHub release), verified by pdfinfo + title page text. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/ukraine-placements.md.
 
+**Book 9:** *Antología CONED — Estudios Sociales 10* (student book, Spanish) — Costa Rica, CONED / UNED; year 2017; ISBN no ISBN printed. Title as printed: Antología CONED — Materia: Estudios Sociales, Código 80023, Nivel: Décimo año. Grade: Grade 10 (student). 255 PDF pp. (cover/title page verified against the record title; size 11,879,619 bytes = record). Verdict: COMPLETE. Read from the recorded public source URLs (CONED site and archive.org) after the GitHub grab route failed with RemoteDisconnected/timeouts on 2026-11-14; every downloaded file matched its books.json record byte-for-byte (size_bytes) and page count. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/costa-rica-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — An uneven world | Ethiopia, *Social Studies Student Textbook, Grade 7* (Amhara Bureau), printed pp. 38–39 |
@@ -30,8 +32,9 @@ countries: Ethiopia, Saudi Arabia, Belarus, Barbados, Haiti, Guatemala, Ukraine
 | Guatemala part — Densidad de población, worked on a density map of Guatemala's departments | Guatemala, *Ciencias Sociales y Formación Ciudadana*, Grade 4, Densidad de población, worked on a density map of Guatemala's departments (Unit 4) — printed p. 180 |
 | Ukraine part — §5 Population of Europe | Ukraine, *Geografiya*, Grade 10, §5 — printed p. 23 |
 | Ukraine part — §17 Population of Asia | Ukraine, *Geografiya*, Grade 10, §17 — printed p. 104 |
+| Costa Rica part — state and dynamics of population in the 20th and 21st centuries, spatial patterns | Costa Rica, *Antología CONED 10*, Grade 10, Unit 3 Tema I A — printed p. 199 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Saudi Arabia, Belarus, Barbados, Guatemala, Ukraine). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 7 countries (Ethiopia, Saudi Arabia, Belarus, Barbados, Guatemala, Ukraine, Costa Rica). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
 
 Ukraine's own way: A "Geography: Regions and Countries" course — every region is done in the same order (position, nature/resources, population, primary/secondary/tertiary sectors) then typological country studies with rubrics (country visiting-card, capital, pride of the country, unique experience), ending with Ukraine's own place in the world; research tasks (Дослідження) embedded in chapters. That way is stocked here as the way Ukraine teaches this thing.
 
@@ -43,4 +46,6 @@ Pairing warning (honesty): Book 2 is an Addis Ababa bureau guide in English; Boo
 
 Guatemala's own way: one combined Social Studies and Citizenship book per grade, organised in four units that alternate History of Guatemala/Central America with the physical geography of the isthmus — every map carries the note about the unresolved Belize territorial differendum, and Geography is always worked on maps of the seven Central American countries with Guatemala's own Sierra de las Minas, Motagua river and Maya Biosphere as the home examples. That way is stocked here as the way Guatemala teaches this thing.
 
-Searchable tags: population distribution, uneven world, northern hemisphere, migration, push factors, pull factors, rural settlement, urban settlement, Haiti, Population urbaine et rurale, teacher sequence evidence, Guatemala, Ukraine, Geografiya Gilberg
+Costa Rica's own way: two-thirds contemporary History/geopolitics, then a closing Geography unit on population dynamics and spatial mobility that always pairs the world pattern with the Costa Rican case (Costa Rica's own population change, internal and international mobility). That way is stocked here as the way Costa Rica teaches this thing.
+
+Searchable tags: population distribution, uneven world, northern hemisphere, migration, push factors, pull factors, rural settlement, urban settlement, Haiti, Population urbaine et rurale, teacher sequence evidence, Guatemala, Ukraine, Geografiya Gilberg, Costa Rica, CONED Antología, Estudios Sociales
