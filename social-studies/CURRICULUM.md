@@ -692,3 +692,37 @@ Kennsluleiðbeiningar* (History, Grade 8 teacher guide) and
 *Víkingaöld, Kennsluleiðbeiningar* (History, Grade 5 teacher
 guide) — other subjects entirely, owned by later waves.
 Geography lessons: 567 → 575.
+## Geography expansion — Micronesia — built 2026-11-14
+
+Micronesia — 12 placements stocked from 4 books (all student
+books): *Over Seas and Time — A Micronesian History Textbook*
+(Grade 9, PARTIAL by scope — only its two opening Geography
+chapters placed; 6 placements), *Pohnpei Studies Reader —
+Mwoakilloa History* (grade-01 record, PARTIAL by scope;
+2 placements), *Pohnpei Studies Reader — Nukuoro History*
+(grade-01 record, PARTIAL by scope; 2 placements) and
+*Pohnpei Studies Reader — Kapingamarangi History* (grade-01
+record, PARTIAL by scope; 2 placements). 5 stocked into
+standing lessons — **The Land and Air**: Plate tectonics —
+the Earth's moving shell (Grade 9 Ch. 1, printed p. 14; now
+taught in 2 countries, Ethiopia and Micronesia); **Population,
+Transport and Maps**: Kinds of migration (Grade 9 Ch. 2,
+printed p. 30; now taught in 2 countries); **First Steps**:
+Heritage — what it is and why it matters (Mwoakilloa Sections
+3–4, printed p. 9; Nukuoro reader as a whole, printed p. 5;
+Kapingamarangi reader as a whole, printed p. 6; now taught
+in 3 countries, Ethiopia, United Arab Emirates and
+Micronesia) — and 4 new lessons built (8 questions each) —
+in **The Land and Air**: Hot-spot islands — how volcanoes
+build islands (1 placement, Grade 9 Ch. 1, printed p. 18),
+How coral atolls form — Darwin's subsidence story (1
+placement, Grade 9 Ch. 1, printed p. 20) and High islands
+and low islands of Micronesia (1 placement, Grade 9 Ch. 1,
+printed p. 24); in **Population, Transport and Maps**:
+Voyaging and settling the Pacific islands (4 placements —
+Grade 9 Ch. 2, printed p. 34; Mwoakilloa Section 1, printed
+p. 1; Nukuoro Section 1, printed p. 1; Kapingamarangi
+Ch. 1, printed p. 1). Record-only, not placed:
+*Micronesian Government: Yesterday, Today, and Tomorrow*
+(Grade 11 Civics textbook, 0 placements — filed for the
+Civics wave). Geography lessons: 575 → 579.

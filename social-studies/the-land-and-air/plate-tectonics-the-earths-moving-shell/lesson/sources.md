@@ -1,15 +1,18 @@
 # Sources — Plate tectonics — the Earth's moving shell
 
-countries: Ethiopia
+countries: Ethiopia, Micronesia
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
+
+**Book 2:** *Over Seas and Time — A Micronesian History Textbook* (student book, English) — Micronesia, FSM Department of Education / Micronesian Seminar, Pohnpei; year 2010 (First Edition, January 2010); ISBN no ISBN printed. Title as printed: Over Seas and Time — A Micronesian History Textbook. Grade 9 (student). 509 PDF pp. (cover/title page verified against the record title; 16,767,830 bytes, matches record size_bytes). Verdict: PARTIAL — by scope: this is a History textbook; only its two opening Geography chapters are placed here, the History chapters are named in the placements for the History wave. Read IN PLACE in phase3-staging, covers verified by render, text read via pdftotext -layout. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/micronesia-placements.md
 
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Lithosphere on asthenosphere | G12 student #6, printed pp. 5–7 |
 | Sub lesson 2 — What a plate can carry | G12 student #6, printed pp. 5–7 |
+| Micronesia part — Chapter 1 The Formation of the Islands: plate tectonics and the making of Micronesia's islands | Micronesia, *Over Seas and Time — A Micronesian History Textbook*, Grade 9, Chapter 1, printed p. 14 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Micronesia).**
 
 No book error in the placements for this lesson is taught here. Figures are taught exactly as the placements report them, as the book's own record.
 

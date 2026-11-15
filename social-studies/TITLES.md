@@ -35,7 +35,8 @@ the one title at rising depth wherever a title spans both books
   distribution, movement, transport, and reading maps
   (including colouring Suriname's map and flag, Argentina's
   population today, thematic maps of Mercosur integration, a
-  day on the border and Iceland's administrative districts).
+  day on the border, Iceland's administrative districts and
+  voyaging and settling the Pacific islands).
 - `people-and-resources/` — settlement, natural resources,
   economic activities, and looking after the land (including
   quality of life — Argentina and Latin America compared,
@@ -53,8 +54,9 @@ the one title at rising depth wherever a title spans both books
   (including the UAE's location and emirates map and desert
   wildlife of the UAE, Zambia's agro-ecological regions and
   climate and agro-ecological regions, reading a district
-  boundary map of Iceland and India — landscape and monsoon
-  climate).
+  boundary map of Iceland, India — landscape and monsoon
+  climate, hot-spot islands, how coral atolls form and high
+  islands and low islands of Micronesia).
 - `culture-and-work/` — culture, economic activities, trade,
   and tax (including agriculture in Zambia's agro-ecological
   regions, festivals of the world's religions, sacred texts,
@@ -78,7 +80,7 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **575**
+Geography lessons across the eight Geography titles: **579**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -104,4 +106,9 @@ of Iceland and India — landscape and monsoon climate;
 Culture and Work: Festivals of the world's religions, Sacred
 texts, food and clothing of religions and Religion and caste
 in India; People and Resources: India's growing economy;
-Global Issues: India's environmental problems).
+Global Issues: India's environmental problems; +4 for
+Micronesia, 2026-11-14 — The Land and Air: Hot-spot islands
+— how volcanoes build islands, How coral atolls form —
+Darwin's subsidence story and High islands and low islands
+of Micronesia; Population, Transport and Maps: Voyaging and
+settling the Pacific islands).
