@@ -1,6 +1,6 @@
 # Sources — From evidence to a written history
 
-countries: Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Bulgaria, Palestine, Colombia, South Sudan, Mongolia, Samoa, Mozambique, Jordan, Uzbekistan, North Macedonia
+countries: Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Bulgaria, Palestine, Colombia, South Sudan, Mongolia, Samoa, Mozambique, Jordan, Uzbekistan, North Macedonia, Afghanistan
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -1552,3 +1552,25 @@ North Macedonia's own way (Book 3 — Istorija I (History I), Grade 10 (student 
 **Acceptance count: taught in 35 countries (Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Bulgaria, Palestine, Colombia, South Sudan, Mongolia, Samoa, Mozambique, Jordan, Uzbekistan, North Macedonia).**
 
 Searchable tags: North Macedonia, History expansion 2026-11-15, first-steps/from-evidence-to-a-written-history
+
+## History expansion (2026-11-15) — Afghanistan stocked
+
+**Book 4 — History G7 (student book, Dari)**
+- Title as printed: تاريخ صنف هفتم (History, Grade 7)
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Afghanistan; year printed 1399 SH (2020/21; first printing 1391 SH); no ISBN printed
+- PDF pages: 89 (cover verified against the record title; printed pp. 1–82 incl. glossary of terms)
+- Verdict: COMPLETE
+- Tally: 35 placements — 13 to existing lessons, 22 NEW LESSON NEEDED
+- Afghanistan's own way: secondary history opens with the craft itself (what history is, sources, periods, calendars), then gives the homeland the first and longest word — five thousand years from Aryan settlement to the Hephthalites — before the other ancient civilisations are allowed one lesson each, and closes with Islam from Arabia to the fall of the Abbasids, a story in which Khorasan (Abu Muslim) makes and unmakes caliphates.
+- Records: books.json record grade-07/gov/afghanistan/تاریخ_صنف_هفتم.pdf. The PDF is NOT in the repo tree and the Telegram group message (id 2218) has been deleted; the bytes survive as release asset grade-07-gov-afghanistan-1eff62498d.pdf in mid-size-books-7 (10,364,465 bytes, exact size match to the group dump) — read via grab.py url from that asset.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Afghanistan part — Lesson 2: What are the historians' sources? — story beats: the historian works from two kinds of sources, written and manuscript documents and surviving monuments and remains, the written ones ranked most trustworthy (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Afghanistan, *تاريخ صنف هفتم (History, Grade 7)*, printed p. 5 |
+
+Afghanistan's own way (Book 4 — History G7 (student book, Dari)): secondary history opens with the craft itself (what history is, sources, periods, calendars), then gives the homeland the first and longest word — five thousand years from Aryan settlement to the Hephthalites — before the other ancient civilisations are allowed one lesson each, and closes with Islam from Arabia to the fall of the Abbasids, a story in which Khorasan (Abu Muslim) makes and unmakes caliphates. That way is stocked here as the way Afghanistan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 36 countries (Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Bulgaria, Palestine, Colombia, South Sudan, Mongolia, Samoa, Mozambique, Jordan, Uzbekistan, North Macedonia, Afghanistan).**
+
+Searchable tags: Afghanistan, History expansion 2026-11-15, first-steps/from-evidence-to-a-written-history

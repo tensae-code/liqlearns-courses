@@ -1,6 +1,6 @@
 # Sources — Age of the Rightly Guided Caliphs and Imams
 
-countries: Yemen
+countries: Yemen, Afghanistan
 
 **Book 4 — G6 History (student book, Arabic)**
 - Title as printed: تاريخ العرب الإسلامي للصف السادس من مرحلة التعليم الأساسي (History of the Islamic Arabs for Grade 6, Basic Education)
@@ -34,3 +34,39 @@ Yemen's own way (Book 9 — G11 History Part 1 (student book, Arabic)): Arab Isl
 **Acceptance count: taught in 1 country (Yemen).**
 
 Searchable tags: Yemen, Age of the Rightly Guided Caliphs and Imams, ancient-world, History expansion 2026-11-15
+
+## History expansion (2026-11-15) — Afghanistan stocked
+
+**Book 3 — Social Studies G6 (student book, Dari)**
+- Title as printed: دروس اجتماعی صنف ششم (Social Studies, Grade 6)
+- Grade: 6 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Afghanistan; year 1398 SH (2019/20); no ISBN printed
+- PDF pages: 106 (cover/title page verified against the record title; printed pp. 1–99+)
+- Verdict: COMPLETE
+- Tally: 25 placements — 6 to existing lessons, 19 NEW LESSON NEEDED (History chapters only)
+- Afghanistan's own way: one Social Studies book carries three subjects in six chapters — civics of the Afghan state first, the neighbour countries as geography, then the country's own recent past (1973–2004) taught lesson by lesson as national memory, and finally early Islamic history (the Prophet's life and the Rashidun caliphs) as the deep past every child is expected to own.
+- Non-History parts (named, not placed): Chapter 1, lessons 1–11 (printed pp. 1–21) — Civics: our country, society's need for a state, the constitution, our government, the National Assembly, Wolesi Jirga, Meshrano Jirga, the executive, the judiciary, "Glories of Afghanistan", the provinces of our country. Chapter 2, lessons 12–17 (printed pp. 23–33) — Geography: the neighbours Pakistan, Iran, Tajikistan, Uzbekistan, Turkmenistan, China. Chapter 3, lessons 18–25 (printed pp. 35–49) — Civics: national unity, peace and security, public property, media ethics, human dignity, obeying the law, children's rights, women's rights.
+- Records: books.json record grade-06/gov/afghanistan/دروس_اجتماعی_صنف_ششم.pdf — read via grab.py tree (the file IS in the repo tree, 8,468,695 bytes, despite the target record's in_pushed: false flag).
+
+**Book 7 — History G10 (student book, Dari)**
+- Title as printed: تاريخ صنف دهم (History, Grade 10)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Afghanistan; year printed 1398 SH (2019/20; first printing 1390 SH); no ISBN printed
+- PDF pages: 154 (cover verified against the record title; printed pp. 1–147)
+- Verdict: COMPLETE
+- Tally: 46 placements — 14 to existing lessons, 32 NEW LESSON NEEDED
+- Afghanistan's own way: the upper-secondary course re-teaches the whole ancient arc at greater depth — Ariana and its mythic kings, the Greco-Bactrian cities down to Ai Khanum, Kushans great and little, then the world's civilisations, and finally Islam lesson by lesson (Aqaba, the battles, Hudaybiyya, the conquest of Mecca, each caliph in turn) — the national past always first and fullest.
+- Records: books.json record grade-10/gov/afghanistan/تاریخ_صنف_دهم.pdf. The PDF is NOT in the repo tree and the Telegram group message (id 2175) has been deleted; the bytes survive as release asset grade-10-gov-afghanistan-ffdba60d01.pdf in mid-size-books-7 (9,596,721 bytes, exact size match to the group dump) — read via grab.py url from that asset.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Afghanistan part — Lesson 50: A brief review of the Rashidun caliphs' period — story beats: pupils sum up the era from Abu Bakr's election in 11 AH to Ali's martyrdom — thirty years that set Islam's pattern of rule (History expansion, 2026-11-15; original placement slug: ancient-world/the-rashidun-caliphs) | Afghanistan, *دروس اجتماعی صنف ششم (Social Studies, Grade 6)*, printed p. 99 |
+| Afghanistan part — Lesson 42: A brief look at the brilliant age of the Rashidun Caliphs — story beats: the thirty years of the rightly-guided caliphs are summed up as Islam's golden pattern of rule (History expansion, 2026-11-15; original placement slug: ancient-world/the-rashidun-caliphs) | Afghanistan, *تاريخ صنف دهم (History, Grade 10)*, printed p. 133 |
+
+Afghanistan's own way (Book 3 — Social Studies G6 (student book, Dari)): one Social Studies book carries three subjects in six chapters — civics of the Afghan state first, the neighbour countries as geography, then the country's own recent past (1973–2004) taught lesson by lesson as national memory, and finally early Islamic history (the Prophet's life and the Rashidun caliphs) as the deep past every child is expected to own. That way is stocked here as the way Afghanistan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Afghanistan's own way (Book 7 — History G10 (student book, Dari)): the upper-secondary course re-teaches the whole ancient arc at greater depth — Ariana and its mythic kings, the Greco-Bactrian cities down to Ai Khanum, Kushans great and little, then the world's civilisations, and finally Islam lesson by lesson (Aqaba, the battles, Hudaybiyya, the conquest of Mecca, each caliph in turn) — the national past always first and fullest. That way is stocked here as the way Afghanistan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 2 countries (Yemen, Afghanistan).**
+
+Searchable tags: Afghanistan, History expansion 2026-11-15, ancient-world/rightly-guided-caliphs-and-imams-abu-bakr-to-al-hasan

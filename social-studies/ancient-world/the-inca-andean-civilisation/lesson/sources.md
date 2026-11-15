@@ -1,6 +1,6 @@
 # Sources — The Inca — the Andean civilisation
 
-countries: Costa Rica, Egypt, Bolivia, Yemen, Jordan
+countries: Costa Rica, Egypt, Bolivia, Yemen, Jordan, Afghanistan
 
 **Book (Costa Rica cr-coned-7):** Title as printed: Antología CONED — Estudios Sociales, Código 80005, Nivel Sétimo año Grade: Grade 7 (student/teacher: STUDENT). Publisher: Universidad Estatal a Distancia (UNED) / Colegio Nacional de Educación a Distancia (CONED); year 2017; no ISBN printed PDF pages: 166 (cover verified against the record title; byte size 4,348,033 and page count match the record). Verdict: COMPLETE Tally: 10 placements — 8 to existing lessons, 2 NEW LESSON NEEDED Costa Rica's own way: The CONED distance-education anthologies compile source readings around a guiding question per theme, fusing History with Geography in one Estudios Sociales course: the ancient world is read as "the human footprint on geographic space", and Costa Rica's own past enters through its indigenous peoples before any national narrative. Non-History parts (named, not placed): Unidad II Tema II La huella ecológica (ecological footprint, printed pp. 94–105 — Geography); Unidad III El espacio geográfico transformado: ecosistemas terrestres y producción alimentaria (printed pp. 106–165 — Geography). Placements at liqlearns-courses-work/expansion-history-2026-11-15/costa-rica-placements.md.
 
@@ -90,3 +90,25 @@ Jordan's own way (Book 22 — History, Grade 12, Term 1 (تاريخ، الصف �
 **Acceptance count: taught in 5 countries (Costa Rica, Egypt, Bolivia, Yemen, Jordan).**
 
 Searchable tags: Jordan, History expansion 2026-11-15, ancient-world/the-inca-andean-civilisation
+
+## History expansion (2026-11-15) — Afghanistan stocked
+
+**Book 5 — History G8 (student book, Dari)**
+- Title as printed: تاريخ صنف هشتم (History, Grade 8)
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Afghanistan; year printed 1398 SH (2019/20; first printing 1391 SH); no ISBN printed
+- PDF pages: 97 (cover verified against the record title; printed pp. 1–89 + glossary to p. 90)
+- Verdict: COMPLETE
+- Tally: 27 placements — 8 to existing lessons, 19 NEW LESSON NEEDED
+- Afghanistan's own way: Grade 8 is the Islamic centuries told from Khorasan's side — Islam's arrival remakes the country, Afghan dynasties (Tahirid to Timurid) rule it, three empires (Uzbek, Mughal, Safavid) tear at it, and Mirwais Hotak's Kandahar rising answers; the neighbours, Europe and America are each given their survey lessons around that spine.
+- Records: books.json record grade-08/gov/afghanistan/تاریخ_صنف_هشتم.pdf. The PDF is NOT in the repo tree and the Telegram group message (id 2234) has been deleted; the bytes survive as release asset grade-08-gov-afghanistan-4d5821bd84.pdf in mid-size-books-7 (15,683,177 bytes, exact size match to the group dump) — read via grab.py url from that asset.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Afghanistan part — Lesson 25: What kind of civilisation was the Inca? — story beats: the Inca out-build even the Aztecs in roads and stonework, write in pictures and trade with the northern and southern lands (History expansion, 2026-11-15; original placement slug: ancient-world/the-inca) | Afghanistan, *تاريخ صنف هشتم (History, Grade 8)*, printed p. 83 |
+
+Afghanistan's own way (Book 5 — History G8 (student book, Dari)): Grade 8 is the Islamic centuries told from Khorasan's side — Islam's arrival remakes the country, Afghan dynasties (Tahirid to Timurid) rule it, three empires (Uzbek, Mughal, Safavid) tear at it, and Mirwais Hotak's Kandahar rising answers; the neighbours, Europe and America are each given their survey lessons around that spine. That way is stocked here as the way Afghanistan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 6 countries (Costa Rica, Egypt, Bolivia, Yemen, Jordan, Afghanistan).**
+
+Searchable tags: Afghanistan, History expansion 2026-11-15, ancient-world/the-inca-andean-civilisation

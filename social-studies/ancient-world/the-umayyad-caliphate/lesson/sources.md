@@ -1,6 +1,6 @@
 # Sources — The Umayyad Caliphate
 
-countries: Turkey, Iran, Mauritania, Yemen, Sudan, Jordan
+countries: Turkey, Iran, Mauritania, Yemen, Sudan, Jordan, Afghanistan
 
 **Book 2:** *Ortaöğretim Tarih 9 Ders Kitabı (Secondary Education History 9 Textbook)* (student book, Turkish) — Turkey. Title as printed: Ortaöğretim Tarih 9 Ders Kitabı (Secondary Education History 9 Textbook). Grade: Grade 9 (student/teacher: STUDENT). Publisher: T.C. Millî Eğitim Bakanlığı (MEB), Türkiye, 2021 (per record); ISBN 978-975-11-5258-9. PDF pages: 225 (cover verified: TARİH 9, Ortaöğretim Ders Kitabı, MEB). Verdict: COMPLETE. Tally: 25 placements — 8 to existing lessons, 17 NEW LESSON NEEDED. Records: TSV blob record + books.json twin of the same repo path = one book. Read in full from its text layer; cover verified visually. Non-History parts named: none — the whole book is History. Placements at liqlearns-courses-work/expansion-history-2026-11-15/turkey-placements.md.
 
@@ -231,3 +231,40 @@ Jordan's own way (Book 26 — History of Jordan, Grade 11, Academic Track, Term 
 **Acceptance count: taught in 6 countries (Turkey, Iran, Mauritania, Yemen, Sudan, Jordan).**
 
 Searchable tags: Jordan, History expansion 2026-11-15, ancient-world/the-umayyad-caliphate
+
+## History expansion (2026-11-15) — Afghanistan stocked
+
+**Book 4 — History G7 (student book, Dari)**
+- Title as printed: تاريخ صنف هفتم (History, Grade 7)
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Afghanistan; year printed 1399 SH (2020/21; first printing 1391 SH); no ISBN printed
+- PDF pages: 89 (cover verified against the record title; printed pp. 1–82 incl. glossary of terms)
+- Verdict: COMPLETE
+- Tally: 35 placements — 13 to existing lessons, 22 NEW LESSON NEEDED
+- Afghanistan's own way: secondary history opens with the craft itself (what history is, sources, periods, calendars), then gives the homeland the first and longest word — five thousand years from Aryan settlement to the Hephthalites — before the other ancient civilisations are allowed one lesson each, and closes with Islam from Arabia to the fall of the Abbasids, a story in which Khorasan (Abu Muslim) makes and unmakes caliphates.
+- Records: books.json record grade-07/gov/afghanistan/تاریخ_صنف_هفتم.pdf. The PDF is NOT in the repo tree and the Telegram group message (id 2218) has been deleted; the bytes survive as release asset grade-07-gov-afghanistan-1eff62498d.pdf in mid-size-books-7 (10,364,465 bytes, exact size match to the group dump) — read via grab.py url from that asset.
+
+**Book 7 — History G10 (student book, Dari)**
+- Title as printed: تاريخ صنف دهم (History, Grade 10)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Afghanistan; year printed 1398 SH (2019/20; first printing 1390 SH); no ISBN printed
+- PDF pages: 154 (cover verified against the record title; printed pp. 1–147)
+- Verdict: COMPLETE
+- Tally: 46 placements — 14 to existing lessons, 32 NEW LESSON NEEDED
+- Afghanistan's own way: the upper-secondary course re-teaches the whole ancient arc at greater depth — Ariana and its mythic kings, the Greco-Bactrian cities down to Ai Khanum, Kushans great and little, then the world's civilisations, and finally Islam lesson by lesson (Aqaba, the battles, Hudaybiyya, the conquest of Mecca, each caliph in turn) — the national past always first and fullest.
+- Records: books.json record grade-10/gov/afghanistan/تاریخ_صنف_دهم.pdf. The PDF is NOT in the repo tree and the Telegram group message (id 2175) has been deleted; the bytes survive as release asset grade-10-gov-afghanistan-ffdba60d01.pdf in mid-size-books-7 (9,596,721 bytes, exact size match to the group dump) — read via grab.py url from that asset.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Afghanistan part — Lesson 32: Do you know the beginning of the Umayyad caliphate? — story beats: after Ali's martyrdom Muawiya, son of Abu Sufyan, takes the caliphate in 41 AH and makes it a dynasty (History expansion, 2026-11-15; original placement slug: ancient-world/umayyad-caliphate-rise-and-fall) | Afghanistan, *تاريخ صنف هفتم (History, Grade 7)*, printed p. 73 |
+| Afghanistan part — Lesson 33: Do you know how the Umayyad caliphate fell? — story beats: though Umar ibn Abd al-Aziz rules justly, too many Umayyads neglect their subjects, and uprisings across the far provinces bring the dynasty down (History expansion, 2026-11-15; original placement slug: ancient-world/umayyad-caliphate-rise-and-fall) | Afghanistan, *تاريخ صنف هفتم (History, Grade 7)*, printed p. 75 |
+| Afghanistan part — Lesson 43: The Umayyads — story beats: Muawiya founds the dynastic caliphate at Damascus in 41 AH (History expansion, 2026-11-15; original placement slug: ancient-world/umayyad-caliphate-rise-and-fall) | Afghanistan, *تاريخ صنف دهم (History, Grade 10)*, printed p. 135 |
+| Afghanistan part — Lesson 44: The economic, administrative, cultural and military state in Umayyad times — story beats: the Umayyad order is examined as a working state — coinage, administration, armies and culture (History expansion, 2026-11-15; original placement slug: ancient-world/umayyad-caliphate-rise-and-fall) | Afghanistan, *تاريخ صنف دهم (History, Grade 10)*, printed p. 139 |
+
+Afghanistan's own way (Book 4 — History G7 (student book, Dari)): secondary history opens with the craft itself (what history is, sources, periods, calendars), then gives the homeland the first and longest word — five thousand years from Aryan settlement to the Hephthalites — before the other ancient civilisations are allowed one lesson each, and closes with Islam from Arabia to the fall of the Abbasids, a story in which Khorasan (Abu Muslim) makes and unmakes caliphates. That way is stocked here as the way Afghanistan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Afghanistan's own way (Book 7 — History G10 (student book, Dari)): the upper-secondary course re-teaches the whole ancient arc at greater depth — Ariana and its mythic kings, the Greco-Bactrian cities down to Ai Khanum, Kushans great and little, then the world's civilisations, and finally Islam lesson by lesson (Aqaba, the battles, Hudaybiyya, the conquest of Mecca, each caliph in turn) — the national past always first and fullest. That way is stocked here as the way Afghanistan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 7 countries (Turkey, Iran, Mauritania, Yemen, Sudan, Jordan, Afghanistan).**
+
+Searchable tags: Afghanistan, History expansion 2026-11-15, ancient-world/the-umayyad-caliphate

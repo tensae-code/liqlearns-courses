@@ -1,6 +1,6 @@
 # Sources — The rise of Islam — the Prophet Muhammad and Medina
 
-countries: Egypt, Libya
+countries: Egypt, Libya, Afghanistan
 
 **Book 8:** *الدراسات الاجتماعية — العالم العربي... وطن يجمعنا (Social Studies — The Arab World… a Homeland that Gathers Us)* (student book, Arabic) — Egypt. Grade: Grade 6 (Sixth Primary), Term 1 (student book). Publisher: Ministry of Education and Technical Education, Egypt (Educational Content Sector; Salah al-Tilmiz Foundation for Printing and Publishing), 2025/2026; ISBN: no ISBN printed in the front matter. PDF pages: 113 (grabbed from the library's GitHub release copy; read as single-page sheets; the History unit read in full, the Geography and economics units identified from the contents and curriculum map). Verdict: COMPLETE (History parts). Tally: 6 placements — 0 to existing lessons, 6 NEW LESSON NEEDED. Non-History parts (named, not placed): Unit 1 (our Arab homeland — location and importance, terrain, climate and natural vegetation, environmental challenges) and Unit 3 (our Arab homeland and economic development — agricultural activity, animal and fish wealth, minerals and energy sources, tourism activity) — Geography/Economics. Placements at liqlearns-courses-work/expansion-history-2026-11-15/egypt-placements.md.
 
@@ -59,3 +59,28 @@ Libya's own way (Book 6 — G8 Islamic History (student book, Arabic)): the Isla
 Libya's own way (Book 7 — G5 Social Studies (History and Geography) (student book, Arabic) — COMBINED): Islamic history for ten-year-olds runs as one story from Mecca to the Mamluks — and Libya appears inside it where Tripoli becomes the Fatimids' naval base for the Sicily jihad. That way is stocked here as the way Libya teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 2 countries (Egypt, Libya).**
+
+## History expansion (2026-11-15) — Afghanistan stocked
+
+**Book 3 — Social Studies G6 (student book, Dari)**
+- Title as printed: دروس اجتماعی صنف ششم (Social Studies, Grade 6)
+- Grade: 6 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Afghanistan; year 1398 SH (2019/20); no ISBN printed
+- PDF pages: 106 (cover/title page verified against the record title; printed pp. 1–99+)
+- Verdict: COMPLETE
+- Tally: 25 placements — 6 to existing lessons, 19 NEW LESSON NEEDED (History chapters only)
+- Afghanistan's own way: one Social Studies book carries three subjects in six chapters — civics of the Afghan state first, the neighbour countries as geography, then the country's own recent past (1973–2004) taught lesson by lesson as national memory, and finally early Islamic history (the Prophet's life and the Rashidun caliphs) as the deep past every child is expected to own.
+- Non-History parts (named, not placed): Chapter 1, lessons 1–11 (printed pp. 1–21) — Civics: our country, society's need for a state, the constitution, our government, the National Assembly, Wolesi Jirga, Meshrano Jirga, the executive, the judiciary, "Glories of Afghanistan", the provinces of our country. Chapter 2, lessons 12–17 (printed pp. 23–33) — Geography: the neighbours Pakistan, Iran, Tajikistan, Uzbekistan, Turkmenistan, China. Chapter 3, lessons 18–25 (printed pp. 35–49) — Civics: national unity, peace and security, public property, media ethics, human dignity, obeying the law, children's rights, women's rights.
+- Records: books.json record grade-06/gov/afghanistan/دروس_اجتماعی_صنف_ششم.pdf — read via grab.py tree (the file IS in the repo tree, 8,468,695 bytes, despite the target record's in_pushed: false flag).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Afghanistan part — Lesson 37: The childhood of Muhammad — story beats: the orphaned boy is raised in Mecca and the desert, growing up outside the idolatry around him (History expansion, 2026-11-15; original placement slug: ancient-world/muhammad-childhood-youth-and-first-revelation) | Afghanistan, *دروس اجتماعی صنف ششم (Social Studies, Grade 6)*, printed p. 73 |
+| Afghanistan part — Lesson 38: The youth of Muhammad — story beats: the young Muhammad trades honestly for Khadija and earns the name al-Amin, the trustworthy (History expansion, 2026-11-15; original placement slug: ancient-world/muhammad-childhood-youth-and-first-revelation) | Afghanistan, *دروس اجتماعی صنف ششم (Social Studies, Grade 6)*, printed p. 75 |
+| Afghanistan part — Lesson 39: The prophetic mission of Muhammad — story beats: in the cave of Hira the first revelation comes and Muhammad is sent as a prophet (History expansion, 2026-11-15; original placement slug: ancient-world/muhammad-childhood-youth-and-first-revelation) | Afghanistan, *دروس اجتماعی صنف ششم (Social Studies, Grade 6)*, printed p. 77 |
+
+Afghanistan's own way (Book 3 — Social Studies G6 (student book, Dari)): one Social Studies book carries three subjects in six chapters — civics of the Afghan state first, the neighbour countries as geography, then the country's own recent past (1973–2004) taught lesson by lesson as national memory, and finally early Islamic history (the Prophet's life and the Rashidun caliphs) as the deep past every child is expected to own. That way is stocked here as the way Afghanistan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 3 countries (Egypt, Libya, Afghanistan).**
+
+Searchable tags: Afghanistan, History expansion 2026-11-15, ancient-world/rise-of-islam-prophet-muhammad-and-medina

@@ -1,6 +1,6 @@
 # Sources — The rise and expansion of Islam
 
-countries: Ethiopia, Saudi Arabia, Gambia, Turkey, Costa Rica, Malaysia, Ecuador, Kuwait, India, Montenegro, Egypt, Pakistan, Syria, Iran, Bulgaria, Palestine, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia
+countries: Ethiopia, Saudi Arabia, Gambia, Turkey, Costa Rica, Malaysia, Ecuador, Kuwait, India, Montenegro, Egypt, Pakistan, Syria, Iran, Bulgaria, Palestine, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Afghanistan
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under GEQIP-E, ISBN 978-99990-0-066-6. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -1004,3 +1004,62 @@ North Macedonia's own way (Book 3 — Istorija I (History I), Grade 10 (student 
 **Acceptance count: taught in 27 countries (Ethiopia, Saudi Arabia, Gambia, Turkey, Costa Rica, Malaysia, Ecuador, Kuwait, India, Montenegro, Egypt, Pakistan, Syria, Iran, Bulgaria, Palestine, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia).**
 
 Searchable tags: North Macedonia, History expansion 2026-11-15, ancient-world/the-rise-and-expansion-of-islam
+
+## History expansion (2026-11-15) — Afghanistan stocked
+
+**Book 3 — Social Studies G6 (student book, Dari)**
+- Title as printed: دروس اجتماعی صنف ششم (Social Studies, Grade 6)
+- Grade: 6 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Afghanistan; year 1398 SH (2019/20); no ISBN printed
+- PDF pages: 106 (cover/title page verified against the record title; printed pp. 1–99+)
+- Verdict: COMPLETE
+- Tally: 25 placements — 6 to existing lessons, 19 NEW LESSON NEEDED (History chapters only)
+- Afghanistan's own way: one Social Studies book carries three subjects in six chapters — civics of the Afghan state first, the neighbour countries as geography, then the country's own recent past (1973–2004) taught lesson by lesson as national memory, and finally early Islamic history (the Prophet's life and the Rashidun caliphs) as the deep past every child is expected to own.
+- Non-History parts (named, not placed): Chapter 1, lessons 1–11 (printed pp. 1–21) — Civics: our country, society's need for a state, the constitution, our government, the National Assembly, Wolesi Jirga, Meshrano Jirga, the executive, the judiciary, "Glories of Afghanistan", the provinces of our country. Chapter 2, lessons 12–17 (printed pp. 23–33) — Geography: the neighbours Pakistan, Iran, Tajikistan, Uzbekistan, Turkmenistan, China. Chapter 3, lessons 18–25 (printed pp. 35–49) — Civics: national unity, peace and security, public property, media ethics, human dignity, obeying the law, children's rights, women's rights.
+- Records: books.json record grade-06/gov/afghanistan/دروس_اجتماعی_صنف_ششم.pdf — read via grab.py tree (the file IS in the repo tree, 8,468,695 bytes, despite the target record's in_pushed: false flag).
+
+**Book 4 — History G7 (student book, Dari)**
+- Title as printed: تاريخ صنف هفتم (History, Grade 7)
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Afghanistan; year printed 1399 SH (2020/21; first printing 1391 SH); no ISBN printed
+- PDF pages: 89 (cover verified against the record title; printed pp. 1–82 incl. glossary of terms)
+- Verdict: COMPLETE
+- Tally: 35 placements — 13 to existing lessons, 22 NEW LESSON NEEDED
+- Afghanistan's own way: secondary history opens with the craft itself (what history is, sources, periods, calendars), then gives the homeland the first and longest word — five thousand years from Aryan settlement to the Hephthalites — before the other ancient civilisations are allowed one lesson each, and closes with Islam from Arabia to the fall of the Abbasids, a story in which Khorasan (Abu Muslim) makes and unmakes caliphates.
+- Records: books.json record grade-07/gov/afghanistan/تاریخ_صنف_هفتم.pdf. The PDF is NOT in the repo tree and the Telegram group message (id 2218) has been deleted; the bytes survive as release asset grade-07-gov-afghanistan-1eff62498d.pdf in mid-size-books-7 (10,364,465 bytes, exact size match to the group dump) — read via grab.py url from that asset.
+
+**Book 7 — History G10 (student book, Dari)**
+- Title as printed: تاريخ صنف دهم (History, Grade 10)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Afghanistan; year printed 1398 SH (2019/20; first printing 1390 SH); no ISBN printed
+- PDF pages: 154 (cover verified against the record title; printed pp. 1–147)
+- Verdict: COMPLETE
+- Tally: 46 placements — 14 to existing lessons, 32 NEW LESSON NEEDED
+- Afghanistan's own way: the upper-secondary course re-teaches the whole ancient arc at greater depth — Ariana and its mythic kings, the Greco-Bactrian cities down to Ai Khanum, Kushans great and little, then the world's civilisations, and finally Islam lesson by lesson (Aqaba, the battles, Hudaybiyya, the conquest of Mecca, each caliph in turn) — the national past always first and fullest.
+- Records: books.json record grade-10/gov/afghanistan/تاریخ_صنف_دهم.pdf. The PDF is NOT in the repo tree and the Telegram group message (id 2175) has been deleted; the bytes survive as release asset grade-10-gov-afghanistan-ffdba60d01.pdf in mid-size-books-7 (9,596,721 bytes, exact size match to the group dump) — read via grab.py url from that asset.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Afghanistan part — Lesson 40: The call of Muhammad — story beats: the Prophet invites Mecca openly and meets mockery, pressure and persecution from the idol-worshippers (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Afghanistan, *دروس اجتماعی صنف ششم (Social Studies, Grade 6)*, printed p. 79 |
+| Afghanistan part — Lesson 41: The Muslims' migration to Abyssinia — story beats: persecuted believers cross the sea to the just Christian king of Abyssinia, who refuses to hand them back (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Afghanistan, *دروس اجتماعی صنف ششم (Social Studies, Grade 6)*, printed p. 81 |
+| Afghanistan part — Lesson 42: The Muslims' migration to Yathrib (Medina) — story beats: Yathrib's tribes pledge at Aqaba and the Muslims leave Mecca to build a new community in Medina (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Afghanistan, *دروس اجتماعی صنف ششم (Social Studies, Grade 6)*, printed p. 83 |
+| Afghanistan part — Lesson 43: Muhammad's teachings and guidance in Medina — story beats: in Medina the Prophet orders a new society — brotherhood, mosque and covenant — and the Medinans rejoice at his coming (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Afghanistan, *دروس اجتماعی صنف ششم (Social Studies, Grade 6)*, printed p. 85 |
+| Afghanistan part — Lesson 44: The conquest of Mecca and the death of Muhammad — story beats: Mecca opens its gates almost without bloodshed, and soon after, the Prophet dies with Arabia united (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Afghanistan, *دروس اجتماعی صنف ششم (Social Studies, Grade 6)*, printed p. 87 |
+| Afghanistan part — Lesson 45: Islam and its transformations in the Arabian Peninsula — story beats: idolatry gives way to one God and a single community; the peninsula's tribes become one people under Islam (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Afghanistan, *دروس اجتماعی صنف ششم (Social Studies, Grade 6)*, printed p. 89 |
+| Afghanistan part — Lesson 26: Get to know the life of the Prophet Muhammad — story beats: Muhammad, son of Abdullah and grandson of Abd al-Muttalib, is born in 571 CE, fatherless before birth, nursed by Halima, and grows into the leader of mankind (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Afghanistan, *تاريخ صنف هفتم (History, Grade 7)*, printed p. 61 |
+| Afghanistan part — Lesson 27: Do you know the battles and conquests of Islam's first years? — story beats: as the call spreads through Mecca and Medina, the polytheists strain to crush it, and the first ghazawat and conquests carry the new faith outward (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Afghanistan, *تاريخ صنف هفتم (History, Grade 7)*, printed p. 63 |
+| Afghanistan part — Lesson 33: The life of the Prophet from birth to prophethood — story beats: born in 571, orphaned, raised to the cave of Hira and the first revelation (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Afghanistan, *تاريخ صنف دهم (History, Grade 10)*, printed p. 99 |
+| Afghanistan part — Lesson 34: The Aqaba pledges — story beats: Yathrib's tribes pledge themselves to the Prophet at Aqaba, opening the road to Medina (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Afghanistan, *تاريخ صنف دهم (History, Grade 10)*, printed p. 103 |
+| Afghanistan part — Lesson 35: The Ghazawat — story beats: the Prophet's battles defend the young community against Mecca's hostility (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Afghanistan, *تاريخ صنف دهم (History, Grade 10)*, printed p. 107 |
+| Afghanistan part — Lesson 36: The Hudaybiyya peace — the Bay'at al-Ridwan — story beats: halted at Hudaybiyya, the Prophet takes the pledge under the tree and turns a blocked pilgrimage into a truce that opens Arabia (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Afghanistan, *تاريخ صنف دهم (History, Grade 10)*, printed p. 113 |
+| Afghanistan part — Lesson 37: The conquest of Mecca — story beats: Mecca is taken almost without bloodshed and the Kaaba cleansed (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Afghanistan, *تاريخ صنف دهم (History, Grade 10)*, printed p. 117 |
+
+Afghanistan's own way (Book 3 — Social Studies G6 (student book, Dari)): one Social Studies book carries three subjects in six chapters — civics of the Afghan state first, the neighbour countries as geography, then the country's own recent past (1973–2004) taught lesson by lesson as national memory, and finally early Islamic history (the Prophet's life and the Rashidun caliphs) as the deep past every child is expected to own. That way is stocked here as the way Afghanistan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Afghanistan's own way (Book 4 — History G7 (student book, Dari)): secondary history opens with the craft itself (what history is, sources, periods, calendars), then gives the homeland the first and longest word — five thousand years from Aryan settlement to the Hephthalites — before the other ancient civilisations are allowed one lesson each, and closes with Islam from Arabia to the fall of the Abbasids, a story in which Khorasan (Abu Muslim) makes and unmakes caliphates. That way is stocked here as the way Afghanistan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Afghanistan's own way (Book 7 — History G10 (student book, Dari)): the upper-secondary course re-teaches the whole ancient arc at greater depth — Ariana and its mythic kings, the Greco-Bactrian cities down to Ai Khanum, Kushans great and little, then the world's civilisations, and finally Islam lesson by lesson (Aqaba, the battles, Hudaybiyya, the conquest of Mecca, each caliph in turn) — the national past always first and fullest. That way is stocked here as the way Afghanistan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 28 countries (Ethiopia, Saudi Arabia, Gambia, Turkey, Costa Rica, Malaysia, Ecuador, Kuwait, India, Montenegro, Egypt, Pakistan, Syria, Iran, Bulgaria, Palestine, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Afghanistan).**
+
+Searchable tags: Afghanistan, History expansion 2026-11-15, ancient-world/the-rise-and-expansion-of-islam

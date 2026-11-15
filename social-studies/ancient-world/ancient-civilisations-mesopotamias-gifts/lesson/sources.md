@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — Mesopotamia's gifts
 
-countries: Ethiopia, Egypt, Pakistan, Syria, Colombia, Libya, Sri Lanka, Iraq
+countries: Ethiopia, Egypt, Pakistan, Syria, Colombia, Libya, Sri Lanka, Iraq, Afghanistan
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 6, placements 92–106).
 
@@ -202,3 +202,25 @@ Iraq's own way (Book 4 — iq-g07 Social Studies (student book, Arabic)): From G
 **Acceptance count: taught in 8 countries (Ethiopia, Egypt, Pakistan, Syria, Colombia, Libya, Sri Lanka, Iraq).**
 
 Searchable tags: Iraq, History expansion 2026-11-15, ancient-world/ancient-civilisations-mesopotamias-gifts
+
+## History expansion (2026-11-15) — Afghanistan stocked
+
+**Book 7 — History G10 (student book, Dari)**
+- Title as printed: تاريخ صنف دهم (History, Grade 10)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Afghanistan; year printed 1398 SH (2019/20; first printing 1390 SH); no ISBN printed
+- PDF pages: 154 (cover verified against the record title; printed pp. 1–147)
+- Verdict: COMPLETE
+- Tally: 46 placements — 14 to existing lessons, 32 NEW LESSON NEEDED
+- Afghanistan's own way: the upper-secondary course re-teaches the whole ancient arc at greater depth — Ariana and its mythic kings, the Greco-Bactrian cities down to Ai Khanum, Kushans great and little, then the world's civilisations, and finally Islam lesson by lesson (Aqaba, the battles, Hudaybiyya, the conquest of Mecca, each caliph in turn) — the national past always first and fullest.
+- Records: books.json record grade-10/gov/afghanistan/تاریخ_صنف_دهم.pdf. The PDF is NOT in the repo tree and the Telegram group message (id 2175) has been deleted; the bytes survive as release asset grade-10-gov-afghanistan-ffdba60d01.pdf in mid-size-books-7 (9,596,721 bytes, exact size match to the group dump) — read via grab.py url from that asset.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Afghanistan part — Lesson 23: The civilisation and culture of Mesopotamia — story beats: cuneiform, law and the gifts Mesopotamia leaves the world (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-mesopotamias-gifts) | Afghanistan, *تاريخ صنف دهم (History, Grade 10)*, printed p. 63 |
+
+Afghanistan's own way (Book 7 — History G10 (student book, Dari)): the upper-secondary course re-teaches the whole ancient arc at greater depth — Ariana and its mythic kings, the Greco-Bactrian cities down to Ai Khanum, Kushans great and little, then the world's civilisations, and finally Islam lesson by lesson (Aqaba, the battles, Hudaybiyya, the conquest of Mecca, each caliph in turn) — the national past always first and fullest. That way is stocked here as the way Afghanistan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 9 countries (Ethiopia, Egypt, Pakistan, Syria, Colombia, Libya, Sri Lanka, Iraq, Afghanistan).**
+
+Searchable tags: Afghanistan, History expansion 2026-11-15, ancient-world/ancient-civilisations-mesopotamias-gifts

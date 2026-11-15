@@ -1,6 +1,6 @@
 # Sources — Archaeology, palaeontology, anthropology — who studies prehistory
 
-countries: Ethiopia, Gambia, Turkey, Bangladesh, Australia, Bhutan, Eritrea, India, Finland, Dominican Republic, Iran, Suriname, Cambodia, Colombia
+countries: Ethiopia, Gambia, Turkey, Bangladesh, Australia, Bhutan, Eritrea, India, Finland, Dominican Republic, Iran, Suriname, Cambodia, Colombia, Afghanistan
 
 **Book 1:** *History, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, Addis Ababa, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-064-2, 210 printed pp. Printed page = PDF page − 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g09-student-placements.md
 
@@ -341,3 +341,25 @@ This book is a teacher guide. The Papua New Guinea rows below stand on it as tea
 Papua New Guinea's own way (Book 10 — G11-12 History TG OBE (teacher guide, English)): the older OBE senior course is a leaner, story-first syllabus — Grade 11 runs PNG's Early History, Imperialism, WWI and WWII; Grade 12 runs Decolonisation and Independence, Our Changing World, and PNG as a Nation. The guide itself is mostly outcomes, assessment craft and suggested activities, so placements are taken from the unit structure (printed p. 12) and the detailed activity/assessment lists (pp. 24–35). The Grade 12 Extension unit (Current Events) is listed in the requirements table but given no activities in this guide. That way is stocked here as the way Papua New Guinea teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 14 countries (Ethiopia, Gambia, Turkey, Bangladesh, Australia, Bhutan, Eritrea, India, Finland, Dominican Republic, Iran, Suriname, Cambodia, Colombia) — unchanged; the Papua New Guinea placement(s) above are teacher-guide evidence only, counted nowhere. Papua New Guinea is not added to this lesson's countries line.**
+
+## History expansion (2026-11-15) — Afghanistan stocked
+
+**Book 4 — History G7 (student book, Dari)**
+- Title as printed: تاريخ صنف هفتم (History, Grade 7)
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Afghanistan; year printed 1399 SH (2020/21; first printing 1391 SH); no ISBN printed
+- PDF pages: 89 (cover verified against the record title; printed pp. 1–82 incl. glossary of terms)
+- Verdict: COMPLETE
+- Tally: 35 placements — 13 to existing lessons, 22 NEW LESSON NEEDED
+- Afghanistan's own way: secondary history opens with the craft itself (what history is, sources, periods, calendars), then gives the homeland the first and longest word — five thousand years from Aryan settlement to the Hephthalites — before the other ancient civilisations are allowed one lesson each, and closes with Islam from Arabia to the fall of the Abbasids, a story in which Khorasan (Abu Muslim) makes and unmakes caliphates.
+- Records: books.json record grade-07/gov/afghanistan/تاریخ_صنف_هفتم.pdf. The PDF is NOT in the repo tree and the Telegram group message (id 2218) has been deleted; the bytes survive as release asset grade-07-gov-afghanistan-1eff62498d.pdf in mid-size-books-7 (10,364,465 bytes, exact size match to the group dump) — read via grab.py url from that asset.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Afghanistan part — Lesson 3: The pre-historic and historic periods — story beats: human life is split at the coming of writing and the first civilisations — everything before is pre-history, everything after is history (History expansion, 2026-11-15; original placement slug: first-steps/who-studies-prehistory) | Afghanistan, *تاريخ صنف هفتم (History, Grade 7)*, printed p. 7 |
+
+Afghanistan's own way (Book 4 — History G7 (student book, Dari)): secondary history opens with the craft itself (what history is, sources, periods, calendars), then gives the homeland the first and longest word — five thousand years from Aryan settlement to the Hephthalites — before the other ancient civilisations are allowed one lesson each, and closes with Islam from Arabia to the fall of the Abbasids, a story in which Khorasan (Abu Muslim) makes and unmakes caliphates. That way is stocked here as the way Afghanistan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 15 countries (Ethiopia, Gambia, Turkey, Bangladesh, Australia, Bhutan, Eritrea, India, Finland, Dominican Republic, Iran, Suriname, Cambodia, Colombia, Afghanistan).**
+
+Searchable tags: Afghanistan, History expansion 2026-11-15, first-steps/who-studies-prehistory

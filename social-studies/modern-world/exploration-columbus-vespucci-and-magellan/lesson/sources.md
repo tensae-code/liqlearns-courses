@@ -1,6 +1,6 @@
 # Sources — Exploration — Columbus, Vespucci and Magellan
 
-countries: Ethiopia, France, Guatemala, Micronesia, Ecuador, Bahamas, Kuwait, Montenegro, Dominican Republic, Egypt, Pakistan, Suriname, Colombia, Mauritania, South Sudan, Mongolia, Sudan, Uzbekistan, North Macedonia
+countries: Ethiopia, France, Guatemala, Micronesia, Ecuador, Bahamas, Kuwait, Montenegro, Dominican Republic, Egypt, Pakistan, Suriname, Colombia, Mauritania, South Sudan, Mongolia, Sudan, Uzbekistan, North Macedonia, Afghanistan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 124).
 
@@ -386,3 +386,25 @@ North Macedonia's own way (Book 3 — Istorija I (History I), Grade 10 (student 
 **Acceptance count: taught in 19 countries (Ethiopia, France, Guatemala, Micronesia, Ecuador, Bahamas, Kuwait, Montenegro, Dominican Republic, Egypt, Pakistan, Suriname, Colombia, Mauritania, South Sudan, Mongolia, Sudan, Uzbekistan, North Macedonia).**
 
 Searchable tags: North Macedonia, History expansion 2026-11-15, modern-world/exploration-columbus-vespucci-and-magellan
+
+## History expansion (2026-11-15) — Afghanistan stocked
+
+**Book 5 — History G8 (student book, Dari)**
+- Title as printed: تاريخ صنف هشتم (History, Grade 8)
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Afghanistan; year printed 1398 SH (2019/20; first printing 1391 SH); no ISBN printed
+- PDF pages: 97 (cover verified against the record title; printed pp. 1–89 + glossary to p. 90)
+- Verdict: COMPLETE
+- Tally: 27 placements — 8 to existing lessons, 19 NEW LESSON NEEDED
+- Afghanistan's own way: Grade 8 is the Islamic centuries told from Khorasan's side — Islam's arrival remakes the country, Afghan dynasties (Tahirid to Timurid) rule it, three empires (Uzbek, Mughal, Safavid) tear at it, and Mirwais Hotak's Kandahar rising answers; the neighbours, Europe and America are each given their survey lessons around that spine.
+- Records: books.json record grade-08/gov/afghanistan/تاریخ_صنف_هشتم.pdf. The PDF is NOT in the repo tree and the Telegram group message (id 2234) has been deleted; the bytes survive as release asset grade-08-gov-afghanistan-4d5821bd84.pdf in mid-size-books-7 (15,683,177 bytes, exact size match to the group dump) — read via grab.py url from that asset.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Afghanistan part — Lesson 26: How did the discovery of America and the migrations happen? — story beats: the voyager who reaches South America's north sees it is no India but a new continent, later named America after him, and the great states turn toward it (History expansion, 2026-11-15; original placement slug: modern-world/exploration-columbus-vespucci-and-magellan) | Afghanistan, *تاريخ صنف هشتم (History, Grade 8)*, printed p. 85 |
+
+Afghanistan's own way (Book 5 — History G8 (student book, Dari)): Grade 8 is the Islamic centuries told from Khorasan's side — Islam's arrival remakes the country, Afghan dynasties (Tahirid to Timurid) rule it, three empires (Uzbek, Mughal, Safavid) tear at it, and Mirwais Hotak's Kandahar rising answers; the neighbours, Europe and America are each given their survey lessons around that spine. That way is stocked here as the way Afghanistan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 20 countries (Ethiopia, France, Guatemala, Micronesia, Ecuador, Bahamas, Kuwait, Montenegro, Dominican Republic, Egypt, Pakistan, Suriname, Colombia, Mauritania, South Sudan, Mongolia, Sudan, Uzbekistan, North Macedonia, Afghanistan).**
+
+Searchable tags: Afghanistan, History expansion 2026-11-15, modern-world/exploration-columbus-vespucci-and-magellan

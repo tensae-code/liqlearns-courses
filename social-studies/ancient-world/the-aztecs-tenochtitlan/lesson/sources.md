@@ -1,6 +1,6 @@
 # Sources — The Aztecs — Tenochtitlan
 
-countries: Ethiopia, France, Costa Rica, Australia, Ecuador, Egypt, Bolivia, Suriname, Colombia, South Sudan, Mongolia, Yemen, Jordan
+countries: Ethiopia, France, Costa Rica, Australia, Ecuador, Egypt, Bolivia, Suriname, Colombia, South Sudan, Mongolia, Yemen, Jordan, Afghanistan
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -278,3 +278,25 @@ Jordan's own way (Book 22 — History, Grade 12, Term 1 (تاريخ، الصف �
 **Acceptance count: taught in 13 countries (Ethiopia, France, Costa Rica, Australia, Ecuador, Egypt, Bolivia, Suriname, Colombia, South Sudan, Mongolia, Yemen, Jordan).**
 
 Searchable tags: Jordan, History expansion 2026-11-15, ancient-world/the-aztecs-tenochtitlan
+
+## History expansion (2026-11-15) — Afghanistan stocked
+
+**Book 5 — History G8 (student book, Dari)**
+- Title as printed: تاريخ صنف هشتم (History, Grade 8)
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Afghanistan; year printed 1398 SH (2019/20; first printing 1391 SH); no ISBN printed
+- PDF pages: 97 (cover verified against the record title; printed pp. 1–89 + glossary to p. 90)
+- Verdict: COMPLETE
+- Tally: 27 placements — 8 to existing lessons, 19 NEW LESSON NEEDED
+- Afghanistan's own way: Grade 8 is the Islamic centuries told from Khorasan's side — Islam's arrival remakes the country, Afghan dynasties (Tahirid to Timurid) rule it, three empires (Uzbek, Mughal, Safavid) tear at it, and Mirwais Hotak's Kandahar rising answers; the neighbours, Europe and America are each given their survey lessons around that spine.
+- Records: books.json record grade-08/gov/afghanistan/تاریخ_صنف_هشتم.pdf. The PDF is NOT in the repo tree and the Telegram group message (id 2234) has been deleted; the bytes survive as release asset grade-08-gov-afghanistan-4d5821bd84.pdf in mid-size-books-7 (15,683,177 bytes, exact size match to the group dump) — read via grab.py url from that asset.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Afghanistan part — Lesson 24: Where did the Aztec civilisation arise? — story beats: the Aztec empire endures two hundred years, then the Spaniards arrive after the geographical discoveries and seize its land (History expansion, 2026-11-15; original placement slug: ancient-world/the-aztecs-tenochtitlan) | Afghanistan, *تاريخ صنف هشتم (History, Grade 8)*, printed p. 81 |
+
+Afghanistan's own way (Book 5 — History G8 (student book, Dari)): Grade 8 is the Islamic centuries told from Khorasan's side — Islam's arrival remakes the country, Afghan dynasties (Tahirid to Timurid) rule it, three empires (Uzbek, Mughal, Safavid) tear at it, and Mirwais Hotak's Kandahar rising answers; the neighbours, Europe and America are each given their survey lessons around that spine. That way is stocked here as the way Afghanistan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 14 countries (Ethiopia, France, Costa Rica, Australia, Ecuador, Egypt, Bolivia, Suriname, Colombia, South Sudan, Mongolia, Yemen, Jordan, Afghanistan).**
+
+Searchable tags: Afghanistan, History expansion 2026-11-15, ancient-world/the-aztecs-tenochtitlan

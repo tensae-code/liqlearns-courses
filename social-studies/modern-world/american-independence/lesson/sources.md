@@ -1,6 +1,6 @@
 # Sources — American independence
 
-countries: Ethiopia, France, United States, Ecuador, Kuwait, Montenegro, Dominican Republic, Cambodia, Palestine, Colombia, Mauritania, Mongolia, Samoa, Iraq, Yemen, Jordan, Uzbekistan, North Macedonia, Laos
+countries: Ethiopia, France, United States, Ecuador, Kuwait, Montenegro, Dominican Republic, Cambodia, Palestine, Colombia, Mauritania, Mongolia, Samoa, Iraq, Yemen, Jordan, Uzbekistan, North Macedonia, Laos, Afghanistan
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under GEQIP-E, ISBN 978-99990-0-066-6. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -499,3 +499,39 @@ Laos's own way (Book 13 — LA-G11-S (student book, Lao)): same course as the te
 **Acceptance count: taught in 19 countries (Ethiopia, France, United States, Ecuador, Kuwait, Montenegro, Dominican Republic, Cambodia, Palestine, Colombia, Mauritania, Mongolia, Samoa, Iraq, Yemen, Jordan, Uzbekistan, North Macedonia, Laos).**
 
 Searchable tags: Laos, History expansion 2026-11-15, modern-world/american-independence
+
+## History expansion (2026-11-15) — Afghanistan stocked
+
+**Book 5 — History G8 (student book, Dari)**
+- Title as printed: تاريخ صنف هشتم (History, Grade 8)
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Afghanistan; year printed 1398 SH (2019/20; first printing 1391 SH); no ISBN printed
+- PDF pages: 97 (cover verified against the record title; printed pp. 1–89 + glossary to p. 90)
+- Verdict: COMPLETE
+- Tally: 27 placements — 8 to existing lessons, 19 NEW LESSON NEEDED
+- Afghanistan's own way: Grade 8 is the Islamic centuries told from Khorasan's side — Islam's arrival remakes the country, Afghan dynasties (Tahirid to Timurid) rule it, three empires (Uzbek, Mughal, Safavid) tear at it, and Mirwais Hotak's Kandahar rising answers; the neighbours, Europe and America are each given their survey lessons around that spine.
+- Records: books.json record grade-08/gov/afghanistan/تاریخ_صنف_هشتم.pdf. The PDF is NOT in the repo tree and the Telegram group message (id 2234) has been deleted; the bytes survive as release asset grade-08-gov-afghanistan-4d5821bd84.pdf in mid-size-books-7 (15,683,177 bytes, exact size match to the group dump) — read via grab.py url from that asset.
+
+**Book 8 — History G11 (student book, Dari)**
+- Title as printed: تاريخ صنف يازدهم (History, Grade 11)
+- Grade: 11 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Afghanistan; year printed 1398 SH (2019/20); no ISBN printed
+- PDF pages: 154 (cover verified against the record title; printed pp. 1–147)
+- Verdict: COMPLETE
+- Tally: 38 placements — 7 to existing lessons, 31 NEW LESSON NEEDED
+- Afghanistan's own way: Grade 11 re-walks the Islamic millennium at depth — Afghanistan's Islamisation, its dynasties one by one (now with their economies and cultures as separate lessons), the Hotak state carried into Iran itself, and then the Afghan kings of India (Lodis and Suris at Delhi) as a national chapter abroad — the neighbours, Europe and the Ottomans surveyed around it.
+- Records: books.json record grade-11/gov/afghanistan/تاریخ_صنف_یازدهم.pdf. The PDF is NOT in the repo tree and the Telegram group message (id 2190) has been deleted; the bytes survive as release asset grade-11-gov-afghanistan-46fc6bf319.pdf in mid-size-books-7 (26,557,270 bytes, exact size match to the group dump) — read via grab.py url from that asset.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Afghanistan part — Lesson 27: Do you know about the independence of the United States of America? — story beats: in 1773 three tea ships anchor at Boston, the people refuse the cargo, and the quarrel runs to independence (History expansion, 2026-11-15; original placement slug: modern-world/american-independence) | Afghanistan, *تاريخ صنف هشتم (History, Grade 8)*, printed p. 87 |
+| Afghanistan part — Lesson 37: The independence revolution of the United States of America — story beats: Boston's tea ships and the colonies' road to independence (History expansion, 2026-11-15; original placement slug: modern-world/american-independence) | Afghanistan, *تاريخ صنف يازدهم (History, Grade 11)*, printed p. 144 |
+| Afghanistan part — Lesson 38: The grounds of the United States' growth and flourishing — story beats: the new republic's land, people and institutions explain its rise (History expansion, 2026-11-15; original placement slug: modern-world/american-independence) | Afghanistan, *تاريخ صنف يازدهم (History, Grade 11)*, printed p. 146 |
+
+Afghanistan's own way (Book 5 — History G8 (student book, Dari)): Grade 8 is the Islamic centuries told from Khorasan's side — Islam's arrival remakes the country, Afghan dynasties (Tahirid to Timurid) rule it, three empires (Uzbek, Mughal, Safavid) tear at it, and Mirwais Hotak's Kandahar rising answers; the neighbours, Europe and America are each given their survey lessons around that spine. That way is stocked here as the way Afghanistan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Afghanistan's own way (Book 8 — History G11 (student book, Dari)): Grade 11 re-walks the Islamic millennium at depth — Afghanistan's Islamisation, its dynasties one by one (now with their economies and cultures as separate lessons), the Hotak state carried into Iran itself, and then the Afghan kings of India (Lodis and Suris at Delhi) as a national chapter abroad — the neighbours, Europe and the Ottomans surveyed around it. That way is stocked here as the way Afghanistan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 20 countries (Ethiopia, France, United States, Ecuador, Kuwait, Montenegro, Dominican Republic, Cambodia, Palestine, Colombia, Mauritania, Mongolia, Samoa, Iraq, Yemen, Jordan, Uzbekistan, North Macedonia, Laos, Afghanistan).**
+
+Searchable tags: Afghanistan, History expansion 2026-11-15, modern-world/american-independence

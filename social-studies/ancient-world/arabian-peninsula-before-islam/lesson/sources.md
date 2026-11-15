@@ -1,6 +1,6 @@
 # Sources — The Arabian Peninsula before Islam
 
-countries: Saudi Arabia, Turkey, Malaysia, Kuwait, Egypt, Iraq, Sudan
+countries: Saudi Arabia, Turkey, Malaysia, Kuwait, Egypt, Iraq, Sudan, Afghanistan
 
 **Book 1:** *الدراسات الاجتماعية — الصف الرابع الابتدائي — غير مجزأ (Social Studies, Grade 4 Primary, unabridged full-year edition)* (student book, Arabic) — Saudi Arabia. Title as printed: الدراسات الاجتماعية — الصف الرابع الابتدائي — غير مجزأ (Social Studies, Grade 4 Primary, unabridged full-year edition). Grade: Grade 4 (student/teacher: STUDENT). Publisher: المركز الوطني للمناهج (National Centre for Curricula), Riyadh; year 1446هـ; ISBN 978-603-8576-98-8. PDF pages: 228 (copyright/title page verified against the record title; text layer read in full). Verdict: COMPLETE. Records: 2 records / 1 distinct book (TSV release record + books.json record for the same repo path, counted once) / grabbed with grab.py url (release asset) into scratch-small-d/, verified by pdfinfo + copyright/title page, text layer read in full, PDF deleted after filing. Note: the record title gives the year as 1448هـ; the printed copyright page of the held copy reads 1446هـ (the 1446 edition, ISBN above). Placements at liqlearns-courses-work/expansion-history-2026-11-15/saudi-arabia-placements.md.
 
@@ -138,3 +138,53 @@ Sudan's own way (Book 5 — sd-g10 (student book, Arabic)): at secondary level t
 **Acceptance count: taught in 7 countries (Saudi Arabia, Turkey, Malaysia, Kuwait, Egypt, Iraq, Sudan).**
 
 Searchable tags: Sudan, History expansion 2026-11-15, ancient-world/arabian-peninsula-before-islam
+
+## History expansion (2026-11-15) — Afghanistan stocked
+
+**Book 3 — Social Studies G6 (student book, Dari)**
+- Title as printed: دروس اجتماعی صنف ششم (Social Studies, Grade 6)
+- Grade: 6 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Afghanistan; year 1398 SH (2019/20); no ISBN printed
+- PDF pages: 106 (cover/title page verified against the record title; printed pp. 1–99+)
+- Verdict: COMPLETE
+- Tally: 25 placements — 6 to existing lessons, 19 NEW LESSON NEEDED (History chapters only)
+- Afghanistan's own way: one Social Studies book carries three subjects in six chapters — civics of the Afghan state first, the neighbour countries as geography, then the country's own recent past (1973–2004) taught lesson by lesson as national memory, and finally early Islamic history (the Prophet's life and the Rashidun caliphs) as the deep past every child is expected to own.
+- Non-History parts (named, not placed): Chapter 1, lessons 1–11 (printed pp. 1–21) — Civics: our country, society's need for a state, the constitution, our government, the National Assembly, Wolesi Jirga, Meshrano Jirga, the executive, the judiciary, "Glories of Afghanistan", the provinces of our country. Chapter 2, lessons 12–17 (printed pp. 23–33) — Geography: the neighbours Pakistan, Iran, Tajikistan, Uzbekistan, Turkmenistan, China. Chapter 3, lessons 18–25 (printed pp. 35–49) — Civics: national unity, peace and security, public property, media ethics, human dignity, obeying the law, children's rights, women's rights.
+- Records: books.json record grade-06/gov/afghanistan/دروس_اجتماعی_صنف_ششم.pdf — read via grab.py tree (the file IS in the repo tree, 8,468,695 bytes, despite the target record's in_pushed: false flag).
+
+**Book 4 — History G7 (student book, Dari)**
+- Title as printed: تاريخ صنف هفتم (History, Grade 7)
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Afghanistan; year printed 1399 SH (2020/21; first printing 1391 SH); no ISBN printed
+- PDF pages: 89 (cover verified against the record title; printed pp. 1–82 incl. glossary of terms)
+- Verdict: COMPLETE
+- Tally: 35 placements — 13 to existing lessons, 22 NEW LESSON NEEDED
+- Afghanistan's own way: secondary history opens with the craft itself (what history is, sources, periods, calendars), then gives the homeland the first and longest word — five thousand years from Aryan settlement to the Hephthalites — before the other ancient civilisations are allowed one lesson each, and closes with Islam from Arabia to the fall of the Abbasids, a story in which Khorasan (Abu Muslim) makes and unmakes caliphates.
+- Records: books.json record grade-07/gov/afghanistan/تاریخ_صنف_هفتم.pdf. The PDF is NOT in the repo tree and the Telegram group message (id 2218) has been deleted; the bytes survive as release asset grade-07-gov-afghanistan-1eff62498d.pdf in mid-size-books-7 (10,364,465 bytes, exact size match to the group dump) — read via grab.py url from that asset.
+
+**Book 7 — History G10 (student book, Dari)**
+- Title as printed: تاريخ صنف دهم (History, Grade 10)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Afghanistan; year printed 1398 SH (2019/20; first printing 1390 SH); no ISBN printed
+- PDF pages: 154 (cover verified against the record title; printed pp. 1–147)
+- Verdict: COMPLETE
+- Tally: 46 placements — 14 to existing lessons, 32 NEW LESSON NEEDED
+- Afghanistan's own way: the upper-secondary course re-teaches the whole ancient arc at greater depth — Ariana and its mythic kings, the Greco-Bactrian cities down to Ai Khanum, Kushans great and little, then the world's civilisations, and finally Islam lesson by lesson (Aqaba, the battles, Hudaybiyya, the conquest of Mecca, each caliph in turn) — the national past always first and fullest.
+- Records: books.json record grade-10/gov/afghanistan/تاریخ_صنف_دهم.pdf. The PDF is NOT in the repo tree and the Telegram group message (id 2175) has been deleted; the bytes survive as release asset grade-10-gov-afghanistan-ffdba60d01.pdf in mid-size-books-7 (9,596,721 bytes, exact size match to the group dump) — read via grab.py url from that asset.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Afghanistan part — Chapter 5 (History of Islam), Lesson 35: The economic and social state of Arabia before Islam — story beats: desert tribes obey their sheikhs and live by camels and trade while Mecca grows rich on the Yemen–Syria road, and women and daughters are held as property (History expansion, 2026-11-15; original placement slug: ancient-world/arabia-before-islam) | Afghanistan, *دروس اجتماعی صنف ششم (Social Studies, Grade 6)*, printed p. 69 |
+| Afghanistan part — Lesson 36: The Kaaba — story beats: Abraham raises the Kaaba and the sanctuary at Mecca becomes the Arabs' pilgrimage heart long before Islam (History expansion, 2026-11-15; original placement slug: ancient-world/arabia-before-islam) | Afghanistan, *دروس اجتماعی صنف ششم (Social Studies, Grade 6)*, printed p. 71 |
+| Afghanistan part — Chapter 4 (History of Islam), Lesson 25: Do you know how Arabia was before Islam? — story beats: every tribe keeps its own idol, superstition and polytheism hold the peninsula, and the strong devour the weak (History expansion, 2026-11-15; original placement slug: ancient-world/arabia-before-islam) | Afghanistan, *تاريخ صنف هفتم (History, Grade 7)*, printed p. 59 |
+| Afghanistan part — Chapter 4 (History of Islam), Lesson 32: The state of the world and the Arabian Peninsula at the advent of Islam — story beats: a world of superstition and tribal idols awaits the new faith (History expansion, 2026-11-15; original placement slug: ancient-world/arabia-before-islam) | Afghanistan, *تاريخ صنف دهم (History, Grade 10)*, printed p. 97 |
+
+Afghanistan's own way (Book 3 — Social Studies G6 (student book, Dari)): one Social Studies book carries three subjects in six chapters — civics of the Afghan state first, the neighbour countries as geography, then the country's own recent past (1973–2004) taught lesson by lesson as national memory, and finally early Islamic history (the Prophet's life and the Rashidun caliphs) as the deep past every child is expected to own. That way is stocked here as the way Afghanistan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Afghanistan's own way (Book 4 — History G7 (student book, Dari)): secondary history opens with the craft itself (what history is, sources, periods, calendars), then gives the homeland the first and longest word — five thousand years from Aryan settlement to the Hephthalites — before the other ancient civilisations are allowed one lesson each, and closes with Islam from Arabia to the fall of the Abbasids, a story in which Khorasan (Abu Muslim) makes and unmakes caliphates. That way is stocked here as the way Afghanistan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Afghanistan's own way (Book 7 — History G10 (student book, Dari)): the upper-secondary course re-teaches the whole ancient arc at greater depth — Ariana and its mythic kings, the Greco-Bactrian cities down to Ai Khanum, Kushans great and little, then the world's civilisations, and finally Islam lesson by lesson (Aqaba, the battles, Hudaybiyya, the conquest of Mecca, each caliph in turn) — the national past always first and fullest. That way is stocked here as the way Afghanistan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 8 countries (Saudi Arabia, Turkey, Malaysia, Kuwait, Egypt, Iraq, Sudan, Afghanistan).**
+
+Searchable tags: Afghanistan, History expansion 2026-11-15, ancient-world/arabian-peninsula-before-islam

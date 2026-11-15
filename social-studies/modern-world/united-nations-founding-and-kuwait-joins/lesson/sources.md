@@ -1,6 +1,6 @@
 # Sources — The United Nations is founded — and Kuwait joins
 
-countries: Kuwait, Mauritania, Sri Lanka, Samoa, Sudan
+countries: Kuwait, Mauritania, Sri Lanka, Samoa, Sudan, Afghanistan
 
 **Book 8:** *دولة الكويت والعالم — الصف التاسع، الفصل الدراسي الثاني (State of Kuwait and the World, Grade 9, Term 2)* (student book, Arabic) — Kuwait. Title as printed: دولة الكويت والعالم — الصف التاسع، الفصل الدراسي الثاني (State of Kuwait and the World, Grade 9, Term 2). Grade: 9 (student/teacher: STUDENT). Publisher: Ministry of Education, Kuwait — General Directorate for Guidance, Research and Curricula; 1st edition 1447H / 2025–2026; no ISBN printed in the front matter. PDF pages: 106 (cover/title page verified against the record title; grabbed via the TSV release record, 27,418,994 bytes, matching the books.json record size exactly). Verdict: COMPLETE. Tally: 2 placements — 0 to existing lessons, 2 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/kuwait-placements.md.
 
@@ -164,3 +164,25 @@ Sudan's own way (Book 2 — SD-G9 (student book, Arabic)): a pure History book i
 **Acceptance count: taught in 5 countries (Kuwait, Mauritania, Sri Lanka, Samoa, Sudan).**
 
 Searchable tags: Sudan, History expansion 2026-11-15, modern-world/united-nations-founding-and-kuwait-joins
+
+## History expansion (2026-11-15) — Afghanistan stocked
+
+**Book 9 — History G12 (student book, Dari)**
+- Title as printed: تاريخ صنف دوازدهم (History, Grade 12)
+- Grade: 12 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Afghanistan; year 1398 SH (2019/20); no ISBN printed
+- PDF pages: 186 (cover verified against the record title; printed pp. 1–179)
+- Verdict: COMPLETE
+- Tally: 43 placements — 2 to existing lessons, 41 NEW LESSON NEEDED
+- Afghanistan's own way: the final year is the modern national epic at full length — 1747 to 1973 reign by reign with dates in both eras, a whole chapter on why the monarchy fell and the republic came, then the neighbours as modern republics, and a closing world chapter (the two world wars, the UN, Japan's rise, the Soviet collapse) read from Kabul's distance.
+- Records: books.json record grade-12/gov/afghanistan/تاریخ_صنف_دوازدهم.pdf. The PDF is NOT in the repo tree and the Telegram group message (id 2204) has been deleted; the bytes survive as release asset grade-12-gov-afghanistan-de4a37ad69.pdf in mid-size-books-7 (11,432,079 bytes, exact size match to the group dump) — read via grab.py url from that asset.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Afghanistan part — Lesson 38: The formation of the United Nations Organisation — story beats: the victors of 1945 build a world organisation to keep the peace (History expansion, 2026-11-15; original placement slug: modern-world/the-founding-of-the-united-nations) | Afghanistan, *تاريخ صنف دوازدهم (History, Grade 12)*, printed p. 157 |
+
+Afghanistan's own way (Book 9 — History G12 (student book, Dari)): the final year is the modern national epic at full length — 1747 to 1973 reign by reign with dates in both eras, a whole chapter on why the monarchy fell and the republic came, then the neighbours as modern republics, and a closing world chapter (the two world wars, the UN, Japan's rise, the Soviet collapse) read from Kabul's distance. That way is stocked here as the way Afghanistan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 6 countries (Kuwait, Mauritania, Sri Lanka, Samoa, Sudan, Afghanistan).**
+
+Searchable tags: Afghanistan, History expansion 2026-11-15, modern-world/united-nations-founding-and-kuwait-joins

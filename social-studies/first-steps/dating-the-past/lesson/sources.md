@@ -1,6 +1,6 @@
 # Sources — Dating the past — calendars, timelines and periods
 
-countries: Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, Laos
+countries: Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, Laos, Afghanistan
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -1551,3 +1551,25 @@ Laos's own way (Book 8 — LA-G6-S (student book, Lao)): same course as the teac
 **Acceptance count: taught in 38 countries (Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, Laos).**
 
 Searchable tags: Laos, History expansion 2026-11-15, first-steps/dating-the-past
+
+## History expansion (2026-11-15) — Afghanistan stocked
+
+**Book 4 — History G7 (student book, Dari)**
+- Title as printed: تاريخ صنف هفتم (History, Grade 7)
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Afghanistan; year printed 1399 SH (2020/21; first printing 1391 SH); no ISBN printed
+- PDF pages: 89 (cover verified against the record title; printed pp. 1–82 incl. glossary of terms)
+- Verdict: COMPLETE
+- Tally: 35 placements — 13 to existing lessons, 22 NEW LESSON NEEDED
+- Afghanistan's own way: secondary history opens with the craft itself (what history is, sources, periods, calendars), then gives the homeland the first and longest word — five thousand years from Aryan settlement to the Hephthalites — before the other ancient civilisations are allowed one lesson each, and closes with Islam from Arabia to the fall of the Abbasids, a story in which Khorasan (Abu Muslim) makes and unmakes caliphates.
+- Records: books.json record grade-07/gov/afghanistan/تاریخ_صنف_هفتم.pdf. The PDF is NOT in the repo tree and the Telegram group message (id 2218) has been deleted; the bytes survive as release asset grade-07-gov-afghanistan-1eff62498d.pdf in mid-size-books-7 (10,364,465 bytes, exact size match to the group dump) — read via grab.py url from that asset.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Afghanistan part — Lesson 4: Converting the dates of history — story beats: Afghanistan lives by three calendars, Hijri Solar and Hijri Lunar (both counted from the Prophet's migration) and the Gregorian (from the birth of Jesus), and the pupil learns to convert between them (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Afghanistan, *تاريخ صنف هفتم (History, Grade 7)*, printed p. 9 |
+
+Afghanistan's own way (Book 4 — History G7 (student book, Dari)): secondary history opens with the craft itself (what history is, sources, periods, calendars), then gives the homeland the first and longest word — five thousand years from Aryan settlement to the Hephthalites — before the other ancient civilisations are allowed one lesson each, and closes with Islam from Arabia to the fall of the Abbasids, a story in which Khorasan (Abu Muslim) makes and unmakes caliphates. That way is stocked here as the way Afghanistan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 39 countries (Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, Laos, Afghanistan).**
+
+Searchable tags: Afghanistan, History expansion 2026-11-15, first-steps/dating-the-past

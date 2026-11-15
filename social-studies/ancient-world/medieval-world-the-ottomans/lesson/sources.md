@@ -1,6 +1,6 @@
 # Sources — Medieval world — the Ottomans
 
-countries: Ethiopia, Turkey, Australia, Eritrea, Montenegro, Pakistan, Bulgaria, Palestine, Mauritania, Libya, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia
+countries: Ethiopia, Turkey, Australia, Eritrea, Montenegro, Pakistan, Bulgaria, Palestine, Mauritania, Libya, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Afghanistan
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -466,3 +466,25 @@ North Macedonia's own way (Book 3 — Istorija I (History I), Grade 10 (student 
 **Acceptance count: taught in 15 countries (Ethiopia, Turkey, Australia, Eritrea, Montenegro, Pakistan, Bulgaria, Palestine, Mauritania, Libya, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia).**
 
 Searchable tags: North Macedonia, History expansion 2026-11-15, ancient-world/medieval-world-the-ottomans
+
+## History expansion (2026-11-15) — Afghanistan stocked
+
+**Book 8 — History G11 (student book, Dari)**
+- Title as printed: تاريخ صنف يازدهم (History, Grade 11)
+- Grade: 11 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Afghanistan; year printed 1398 SH (2019/20); no ISBN printed
+- PDF pages: 154 (cover verified against the record title; printed pp. 1–147)
+- Verdict: COMPLETE
+- Tally: 38 placements — 7 to existing lessons, 31 NEW LESSON NEEDED
+- Afghanistan's own way: Grade 11 re-walks the Islamic millennium at depth — Afghanistan's Islamisation, its dynasties one by one (now with their economies and cultures as separate lessons), the Hotak state carried into Iran itself, and then the Afghan kings of India (Lodis and Suris at Delhi) as a national chapter abroad — the neighbours, Europe and the Ottomans surveyed around it.
+- Records: books.json record grade-11/gov/afghanistan/تاریخ_صنف_یازدهم.pdf. The PDF is NOT in the repo tree and the Telegram group message (id 2190) has been deleted; the bytes survive as release asset grade-11-gov-afghanistan-46fc6bf319.pdf in mid-size-books-7 (26,557,270 bytes, exact size match to the group dump) — read via grab.py url from that asset.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Afghanistan part — Lesson 36: The formation of the Ottoman state — story beats: while Europe builds its new civilisation to master the world, the lesson turns to the greatest Muslim state of the modern ages and asks how it met colonialism (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-ottomans) | Afghanistan, *تاريخ صنف يازدهم (History, Grade 11)*, printed p. 141 |
+
+Afghanistan's own way (Book 8 — History G11 (student book, Dari)): Grade 11 re-walks the Islamic millennium at depth — Afghanistan's Islamisation, its dynasties one by one (now with their economies and cultures as separate lessons), the Hotak state carried into Iran itself, and then the Afghan kings of India (Lodis and Suris at Delhi) as a national chapter abroad — the neighbours, Europe and the Ottomans surveyed around it. That way is stocked here as the way Afghanistan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 16 countries (Ethiopia, Turkey, Australia, Eritrea, Montenegro, Pakistan, Bulgaria, Palestine, Mauritania, Libya, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Afghanistan).**
+
+Searchable tags: Afghanistan, History expansion 2026-11-15, ancient-world/medieval-world-the-ottomans

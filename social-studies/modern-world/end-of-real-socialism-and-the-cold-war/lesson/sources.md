@@ -1,6 +1,6 @@
 # Sources — The end of 'real socialism' and the Cold War
 
-countries: Costa Rica, Dominican Republic, Bolivia, Colombia, Mauritania, South Sudan, Mongolia, Samoa, Laos
+countries: Costa Rica, Dominican Republic, Bolivia, Colombia, Mauritania, South Sudan, Mongolia, Samoa, Laos, Afghanistan
 
 **Book (Costa Rica cr-coned-10):** Title as printed: Antología CONED — Estudios Sociales, Código 80023, Nivel Décimo año Grade: Grade 10 (student/teacher: STUDENT) Publisher: Universidad Estatal a Distancia (UNED) / Colegio Nacional de Educación a Distancia (CONED); year 2017 file; no ISBN printed PDF pages: 255 (cover verified against the record title; byte size 11,879,619 and page count match the record. Route note: the books.json tree path returned HTTP 404, so the book was grabbed via its TSV release asset in mid-size-books-5, matched exactly) Verdict: COMPLETE Tally: 13 placements — 6 to existing lessons, 7 NEW LESSON NEEDED Costa Rica's own way: The Décimo anthology is world history with a geopolitical lens — imperialism, the two world wars, the Russian revolution, the Depression, the bipolar Cold War world and today's multipolar tensions — read from Costa Rica outward to Latin America and the globe. Non-History parts (named, not placed): Unidad 3 Dinámica poblacional y movilización espacial (population dynamics in the 20th–21st centuries, Costa Rican population change, internal and international mobility, printed pp. 198–254 — Geography/demography). Placements at liqlearns-courses-work/expansion-history-2026-11-15/costa-rica-placements.md.
 
@@ -190,3 +190,25 @@ Laos's own way (Book 14 — LA-G12-S (student book, Lao)): same course as the te
 **Acceptance count: taught in 9 countries (Costa Rica, Dominican Republic, Bolivia, Colombia, Mauritania, South Sudan, Mongolia, Samoa, Laos).**
 
 Searchable tags: Laos, History expansion 2026-11-15, modern-world/end-of-real-socialism-and-the-cold-war
+
+## History expansion (2026-11-15) — Afghanistan stocked
+
+**Book 9 — History G12 (student book, Dari)**
+- Title as printed: تاريخ صنف دوازدهم (History, Grade 12)
+- Grade: 12 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Afghanistan; year 1398 SH (2019/20); no ISBN printed
+- PDF pages: 186 (cover verified against the record title; printed pp. 1–179)
+- Verdict: COMPLETE
+- Tally: 43 placements — 2 to existing lessons, 41 NEW LESSON NEEDED
+- Afghanistan's own way: the final year is the modern national epic at full length — 1747 to 1973 reign by reign with dates in both eras, a whole chapter on why the monarchy fell and the republic came, then the neighbours as modern republics, and a closing world chapter (the two world wars, the UN, Japan's rise, the Soviet collapse) read from Kabul's distance.
+- Records: books.json record grade-12/gov/afghanistan/تاریخ_صنف_دوازدهم.pdf. The PDF is NOT in the repo tree and the Telegram group message (id 2204) has been deleted; the bytes survive as release asset grade-12-gov-afghanistan-de4a37ad69.pdf in mid-size-books-7 (11,432,079 bytes, exact size match to the group dump) — read via grab.py url from that asset.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Afghanistan part — Lesson 40: The collapse of the Soviet Union — story beats: the northern superpower that invaded Afghanistan dissolves itself in 1991 (History expansion, 2026-11-15; original placement slug: modern-world/the-collapse-of-the-soviet-union) | Afghanistan, *تاريخ صنف دوازدهم (History, Grade 12)*, printed p. 163 |
+
+Afghanistan's own way (Book 9 — History G12 (student book, Dari)): the final year is the modern national epic at full length — 1747 to 1973 reign by reign with dates in both eras, a whole chapter on why the monarchy fell and the republic came, then the neighbours as modern republics, and a closing world chapter (the two world wars, the UN, Japan's rise, the Soviet collapse) read from Kabul's distance. That way is stocked here as the way Afghanistan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 10 countries (Costa Rica, Dominican Republic, Bolivia, Colombia, Mauritania, South Sudan, Mongolia, Samoa, Laos, Afghanistan).**
+
+Searchable tags: Afghanistan, History expansion 2026-11-15, modern-world/end-of-real-socialism-and-the-cold-war

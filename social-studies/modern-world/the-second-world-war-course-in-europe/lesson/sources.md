@@ -1,6 +1,6 @@
 # Sources — The Second World War — course in Europe
 
-countries: Ethiopia, United States, Turkey, Australia, Kuwait, Montenegro, Finland, Dominican Republic, Pakistan, Bolivia, Iran, Cambodia, Mauritania, South Sudan, Iraq, Mozambique, Yemen, Sudan, Uzbekistan, North Macedonia, Laos
+countries: Ethiopia, United States, Turkey, Australia, Kuwait, Montenegro, Finland, Dominican Republic, Pakistan, Bolivia, Iran, Cambodia, Mauritania, South Sudan, Iraq, Mozambique, Yemen, Sudan, Uzbekistan, North Macedonia, Laos, Afghanistan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 137).
 
@@ -505,3 +505,25 @@ Laos's own way (Book 14 — LA-G12-S (student book, Lao)): same course as the te
 **Acceptance count: taught in 21 countries (Ethiopia, United States, Turkey, Australia, Kuwait, Montenegro, Finland, Dominican Republic, Pakistan, Bolivia, Iran, Cambodia, Mauritania, South Sudan, Iraq, Mozambique, Yemen, Sudan, Uzbekistan, North Macedonia, Laos).**
 
 Searchable tags: Laos, History expansion 2026-11-15, modern-world/the-second-world-war-course-in-europe
+
+## History expansion (2026-11-15) — Afghanistan stocked
+
+**Book 9 — History G12 (student book, Dari)**
+- Title as printed: تاريخ صنف دوازدهم (History, Grade 12)
+- Grade: 12 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Afghanistan; year 1398 SH (2019/20); no ISBN printed
+- PDF pages: 186 (cover verified against the record title; printed pp. 1–179)
+- Verdict: COMPLETE
+- Tally: 43 placements — 2 to existing lessons, 41 NEW LESSON NEEDED
+- Afghanistan's own way: the final year is the modern national epic at full length — 1747 to 1973 reign by reign with dates in both eras, a whole chapter on why the monarchy fell and the republic came, then the neighbours as modern republics, and a closing world chapter (the two world wars, the UN, Japan's rise, the Soviet collapse) read from Kabul's distance.
+- Records: books.json record grade-12/gov/afghanistan/تاریخ_صنف_دوازدهم.pdf. The PDF is NOT in the repo tree and the Telegram group message (id 2204) has been deleted; the bytes survive as release asset grade-12-gov-afghanistan-de4a37ad69.pdf in mid-size-books-7 (11,432,079 bytes, exact size match to the group dump) — read via grab.py url from that asset.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Afghanistan part — Lesson 36: The Second World War — story beats: the second global war is surveyed from its European course (History expansion, 2026-11-15; original placement slug: modern-world/the-second-world-war-course-in-europe) | Afghanistan, *تاريخ صنف دوازدهم (History, Grade 12)*, printed p. 149 |
+
+Afghanistan's own way (Book 9 — History G12 (student book, Dari)): the final year is the modern national epic at full length — 1747 to 1973 reign by reign with dates in both eras, a whole chapter on why the monarchy fell and the republic came, then the neighbours as modern republics, and a closing world chapter (the two world wars, the UN, Japan's rise, the Soviet collapse) read from Kabul's distance. That way is stocked here as the way Afghanistan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 22 countries (Ethiopia, United States, Turkey, Australia, Kuwait, Montenegro, Finland, Dominican Republic, Pakistan, Bolivia, Iran, Cambodia, Mauritania, South Sudan, Iraq, Mozambique, Yemen, Sudan, Uzbekistan, North Macedonia, Laos, Afghanistan).**
+
+Searchable tags: Afghanistan, History expansion 2026-11-15, modern-world/the-second-world-war-course-in-europe
