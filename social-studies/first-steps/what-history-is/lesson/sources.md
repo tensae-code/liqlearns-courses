@@ -1,6 +1,6 @@
 # Sources — What history is
 
-countries: Ethiopia
+countries: Ethiopia, Saudi Arabia
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -9,9 +9,14 @@ countries: Ethiopia
 | Sub lesson 1 — History — inquiry into the human past | Ethiopia, *History, Student Textbook, Grade 11*, printed pp. 1–3 |
 | Sub lesson 2 — Change, continuity, cause and effect | Ethiopia, *History, Student Textbook, Grade 11*, printed pp. 1–3 |
 | Sub lesson 3 — Why the past needs a method | Ethiopia, *History, Student Textbook, Grade 11*, printed pp. 1–3 |
+| Saudi Arabia part — The Concept of History (Unit 2, Lesson 5): history is the study of past events and interpreting them to show their effect on present and future; the historian's questions — when did it happen, what happened, how, who took part, why, and what came of it; why we are proud of our Saudi history — story beats: a nine-year-old learns that history is not old stories but questions you ask about real events (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Saudi Arabia, *الدراسات الاجتماعية — الصف الرابع الابتدائي — غير مجزأ (Social Studies, Grade 4 Primary)*, printed pp. 40–42 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Saudi Arabia).**
 
 No book error flagged by the placements touches this lesson. The lesson teaches the placement's content as a story summary in the course's own words — the book's text itself is never transcribed. 
 
-Searchable tags: what, history, is, Grade 11 History, Unit 1 — History, Historiography and Human Evolution
+**Book 2:** *الدراسات الاجتماعية — الصف الرابع الابتدائي — غير مجزأ (Social Studies, Grade 4 Primary, unabridged full-year edition)* (student book, Arabic) — Saudi Arabia. Title as printed: الدراسات الاجتماعية — الصف الرابع الابتدائي — غير مجزأ (Social Studies, Grade 4 Primary, unabridged full-year edition). Grade: Grade 4 (student/teacher: STUDENT). Publisher: المركز الوطني للمناهج (National Centre for Curricula), Riyadh; year 1446هـ; ISBN 978-603-8576-98-8. PDF pages: 228 (copyright/title page verified against the record title; text layer read in full). Verdict: COMPLETE. Records: 2 records / 1 distinct book (TSV release record + books.json record for the same repo path, counted once) / grabbed with grab.py url (release asset) into scratch-small-d/, verified by pdfinfo + copyright/title page, text layer read in full, PDF deleted after filing. Note: the record title gives the year as 1448هـ; the printed copyright page of the held copy reads 1446هـ (the 1446 edition, ISBN above). Non-History parts named: Unit 1 Citizenship (Civics, printed pp. 10–37, apart from the Founding/National Day history inside Lesson 4, placed in modern-world/saudi-arabia-founding-day-and-national-day); Unit 3 Geography (printed pp. 62–89); Unit 4 Economics — concept of economics, resources and consumption, trade exchange past and present (printed pp. 90–109); Unit 5 The Earth and the Map (Geography, printed pp. 112–141); Unit 6 Responsible Citizenship — family and society, rights and responsibilities, teamwork (Civics, printed pp. 142–159). Placements at liqlearns-courses-work/expansion-history-2026-11-15/saudi-arabia-placements.md.
+
+Saudi Arabia's own way (History expansion, 2026-11-15): Saudi Arabia's own way: History enters in Grade 4 as method first — what history is, sources, cause and effect, timelines — practised on Saudi examples, and only then as content: the Arabian Peninsula as the Arabs' homeland and cradle of civilisations, and the prophets' stories as the land's sacred past. National days (Founding Day 1727, National Day 1932) are taught inside the Citizenship unit as national symbols. That way is stocked here as the way Saudi Arabia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Searchable tags: what, history, is, Grade 11 History, Unit 1 — History, Historiography and Human Evolution, concept of history, historian's questions, Saudi Arabia Grade 4, الدراسات الاجتماعية

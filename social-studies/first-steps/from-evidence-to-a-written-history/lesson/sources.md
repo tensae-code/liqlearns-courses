@@ -1,6 +1,6 @@
 # Sources — From evidence to a written history
 
-countries: Ethiopia
+countries: Ethiopia, Saudi Arabia
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -18,7 +18,7 @@ countries: Ethiopia
 | Sub lesson 5 — Grade 11 depth: From evidence to a written history — interpretation and objectivity | Ethiopia, *History, Student Textbook, Grade 11*, printed pp. 7–8 |
 
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Saudi Arabia).**
 
 No book error flagged by the placements touches this lesson. The lesson stacks the student book's sources teaching (printed pp. 5–6) with its interpretation teaching (printed pp. 4–5) under the coordinator's lesson name, in the order a historian works: gather, test, interpret, write.
 
@@ -48,3 +48,16 @@ Timor-Leste's own way, as filed here: an eleven-year-old with a notebook becomes
 
 **Acceptance count: taught in 1 country (Ethiopia) — unchanged; the Timor-Leste placement above is teacher-guide evidence only, counted nowhere.**
 
+
+
+## History expansion (2026-11-15) — Saudi Arabia stocked
+
+**Book (Saudi Arabia):** *الدراسات الاجتماعية — الصف الرابع الابتدائي — غير مجزأ (Social Studies, Grade 4 Primary, unabridged full-year edition)* (student book, Arabic) — Saudi Arabia. Title as printed: الدراسات الاجتماعية — الصف الرابع الابتدائي — غير مجزأ (Social Studies, Grade 4 Primary, unabridged full-year edition). Grade: Grade 4 (student/teacher: STUDENT). Publisher: المركز الوطني للمناهج (National Centre for Curricula), Riyadh; year 1446هـ; ISBN 978-603-8576-98-8. PDF pages: 228 (copyright/title page verified against the record title; text layer read in full). Verdict: COMPLETE. Records: 2 records / 1 distinct book (TSV release record + books.json record for the same repo path, counted once) / grabbed with grab.py url (release asset) into scratch-small-d/, verified by pdfinfo + copyright/title page, text layer read in full, PDF deleted after filing. Note: the record title gives the year as 1448هـ; the printed copyright page of the held copy reads 1446هـ (the 1446 edition, ISBN above). Non-History parts named: Unit 1 Citizenship (Civics, printed pp. 10–37, apart from the Founding/National Day history inside Lesson 4, placed in modern-world/saudi-arabia-founding-day-and-national-day); Unit 3 Geography (printed pp. 62–89); Unit 4 Economics — concept of economics, resources and consumption, trade exchange past and present (printed pp. 90–109); Unit 5 The Earth and the Map (Geography, printed pp. 112–141); Unit 6 Responsible Citizenship — family and society, rights and responsibilities, teamwork (Civics, printed pp. 142–159). Placements at liqlearns-courses-work/expansion-history-2026-11-15/saudi-arabia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Saudi Arabia part — Sources (Unit 2, Lesson 6): the historian's primary sources — antiquities and monuments, accounts by people who saw the event, books written at the time, photographs, letters and documents — against secondary sources, and our duty toward false news — story beats: before a single line of history can be written, someone must find the thing, the letter or the witness that proves it (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Saudi Arabia, *الدراسات الاجتماعية — الصف الرابع الابتدائي — غير مجزأ (Social Studies, Grade 4 Primary)*, printed pp. 43–46 |
+
+Saudi Arabia's own way: Saudi Arabia's own way: History enters in Grade 4 as method first — what history is, sources, cause and effect, timelines — practised on Saudi examples, and only then as content: the Arabian Peninsula as the Arabs' homeland and cradle of civilisations, and the prophets' stories as the land's sacred past. National days (Founding Day 1727, National Day 1932) are taught inside the Citizenship unit as national symbols. That way is stocked here as the way Saudi Arabia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 2 countries (Ethiopia, Saudi Arabia)** — Saudi Arabia added by the row above (History expansion, 2026-11-15); the Timor-Leste placement above remains teacher-guide evidence only, counted nowhere.

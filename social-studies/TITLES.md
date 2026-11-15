@@ -60,7 +60,9 @@ the one title at rising depth wherever a title spans both books
   about 1500.
 - `ancient-world/` — the ancient civilisations and the medieval
   world beyond Africa (including Ibn Battuta — traveller
-  of the Islamic world).
+  of the Islamic world, and the Arabian Peninsula —
+  cradle of civilisations, and the Arabian Peninsula
+  before Islam).
 - `the-land-and-air/` — continents and oceans, the forces that
   shape the land, the atmosphere, weather and climate, map work
   (including the UAE's location and emirates map and desert
@@ -109,7 +111,9 @@ the one title at rising depth wherever a title spans both books
   ceasefire, the Church and the diplomatic front, the
   Santa Cruz massacre 1991, the clandestine resistance,
   the referendum of 1999 and the restoration of 2002,
-  and heroes and memory of the resistance).
+  and heroes and memory of the resistance, and Saudi
+  Arabia — Founding Day and National Day, and
+  unification under Abdulaziz: the brave courier).
   (No teacher evidence yet.)
 - `global-issues/` — today's shared problems: population
   pressure, HIV/AIDS, climate, water, forests — and protecting
@@ -2514,7 +2518,7 @@ Plants and Animals.
 
 ## History expansion totals
 
-History lessons across the History titles: **271**
+History lessons across the History titles: **276**
 (248 before the expansion; +1 for Guyana, 2026-11-15 —
 Modern World: Guyana — our nation: independence and
 symbols. All 3 Guyana placements stand on Guyana's
@@ -2590,3 +2594,21 @@ placements are evidence only — its two heritage
 rows add no count beyond the student readers, and
 the find-history-in-your-own-locality lesson does
 not add Tuvalu to its countries or count.)
++5 for Saudi Arabia, 2026-11-15 — First Steps:
+Cause and effect in history; Ancient World: The
+Arabian Peninsula — cradle of civilisations, and
+The Arabian Peninsula before Islam; Modern World:
+Saudi Arabia — Founding Day and National Day, and
+Saudi Arabia — unification under Abdulaziz: the
+brave courier. All 11 Saudi Arabia placements
+stand on Saudi Arabia's Grade 4 student book,
+counted in acceptance (the five new lessons; and
+the existing First Steps lessons What history is,
+From evidence to a written history and Dating the
+past, whose counts rise 1 → 2, 1 → 2 and 2 → 3
+with Saudi Arabia added; the First Steps heritage
+lesson, whose count rises 19 → 20; and the Ancient
+World lessons The rise and expansion of Islam and
+Faiths that shaped states, whose counts rise
+1 → 2). The held copy is the book's 1446هـ edition;
+the record title gives the year as 1448هـ.)

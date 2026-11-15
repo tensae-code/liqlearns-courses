@@ -1,6 +1,6 @@
 # Sources — Dating the past — calendars, timelines and periods
 
-countries: Ethiopia, Rwanda
+countries: Ethiopia, Rwanda, Saudi Arabia
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -17,11 +17,18 @@ countries: Ethiopia, Rwanda
 
 | Sub lesson 3 — Grade 11 depth: Periodization — cutting time into ages | Ethiopia, *History, Student Textbook, Grade 11*, printed pp. 8–9 |
 
+| Saudi Arabia part — Chronological Order (Unit 2, Lesson 8): the timeline as a drawing of events in their true order, built from Saudi history itself — the unification of the Kingdom (1351هـ), the death of King Abdulaziz (1373هـ), King Salman's accession (1436هـ) — story beats: three dates on one line turn a pile of events into a story a child can walk along (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Saudi Arabia, *الدراسات الاجتماعية — الصف الرابع الابتدائي — غير مجزأ (Social Studies, Grade 4 Primary)*, printed pp. 51–54 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Rwanda).**
+
+**Acceptance count: taught in 3 countries (Ethiopia, Rwanda, Saudi Arabia).**
 
 No book error flagged by the placements touches this lesson. The three calendars and both worked example dates are taught exactly as the student book gives them (Unit 1, printed pp. 6–8).
 
 Searchable tags: dating, chronology, calendar, Gregorian, Islamic calendar, Hijra, Ethiopian calendar, timeline, periodisation, ancient medieval modern, Adwa 1896
 
 Rwanda's own way (Rwanda Grade 3 Amasomo Mbonezamubano SB): P3 moves the home ground up one rung of Rwanda's administrative ladder, from the cell to the SECTOR (Umurenge) — and it is here, at age 8–9, that formal map work begins: the sector map of Gikomero, the district map of Gasabo, symbols, scale, and the sectors that share a border with ours.
+
+
+**Book 3:** *الدراسات الاجتماعية — الصف الرابع الابتدائي — غير مجزأ (Social Studies, Grade 4 Primary, unabridged full-year edition)* (student book, Arabic) — Saudi Arabia. Title as printed: الدراسات الاجتماعية — الصف الرابع الابتدائي — غير مجزأ (Social Studies, Grade 4 Primary, unabridged full-year edition). Grade: Grade 4 (student/teacher: STUDENT). Publisher: المركز الوطني للمناهج (National Centre for Curricula), Riyadh; year 1446هـ; ISBN 978-603-8576-98-8. PDF pages: 228 (copyright/title page verified against the record title; text layer read in full). Verdict: COMPLETE. Records: 2 records / 1 distinct book (TSV release record + books.json record for the same repo path, counted once) / grabbed with grab.py url (release asset) into scratch-small-d/, verified by pdfinfo + copyright/title page, text layer read in full, PDF deleted after filing. Note: the record title gives the year as 1448هـ; the printed copyright page of the held copy reads 1446هـ (the 1446 edition, ISBN above). Non-History parts named: Unit 1 Citizenship (Civics, printed pp. 10–37, apart from the Founding/National Day history inside Lesson 4, placed in modern-world/saudi-arabia-founding-day-and-national-day); Unit 3 Geography (printed pp. 62–89); Unit 4 Economics — concept of economics, resources and consumption, trade exchange past and present (printed pp. 90–109); Unit 5 The Earth and the Map (Geography, printed pp. 112–141); Unit 6 Responsible Citizenship — family and society, rights and responsibilities, teamwork (Civics, printed pp. 142–159). Placements at liqlearns-courses-work/expansion-history-2026-11-15/saudi-arabia-placements.md.
+
+Saudi Arabia's own way (History expansion, 2026-11-15): Saudi Arabia's own way: History enters in Grade 4 as method first — what history is, sources, cause and effect, timelines — practised on Saudi examples, and only then as content: the Arabian Peninsula as the Arabs' homeland and cradle of civilisations, and the prophets' stories as the land's sacred past. National days (Founding Day 1727, National Day 1932) are taught inside the Citizenship unit as national symbols. That way is stocked here as the way Saudi Arabia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.

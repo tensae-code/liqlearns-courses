@@ -8434,3 +8434,76 @@ filed: Tuvalu's shelf holds no Tuvalu national
 history book at all — only these regional readers,
 the same set also shelved under Nauru and Niue.
 History lessons: 270 → 271.
+
+## History expansion — Saudi Arabia — built 2026-11-15
+
+5 new lessons, 40 questions: in **First Steps**:
+Cause and effect in history
+(first-steps/cause-and-effect-in-history); in **The
+Ancient World**: The Arabian Peninsula — cradle of
+civilisations
+(ancient-world/arabian-peninsula-cradle-of-civilisations)
+and The Arabian Peninsula before Islam
+(ancient-world/arabian-peninsula-before-islam); in
+**The Modern World**: Saudi Arabia — Founding Day
+and National Day
+(modern-world/saudi-arabia-founding-day-and-national-day)
+and Saudi Arabia — unification under Abdulaziz:
+the brave courier
+(modern-world/saudi-arabia-unification-under-abdulaziz)
+— 11 placements stocked from Saudi Arabia's one
+distinct book: *الدراسات الاجتماعية — الصف الرابع
+الابتدائي — غير مجزأ (Social Studies, Grade 4
+Primary, unabridged full-year edition)*, Grade 4
+student book (المركز الوطني للمناهج (National
+Centre for Curricula), Riyadh, 1446هـ, ISBN
+978-603-8576-98-8; the record title gives the year
+as 1448هـ, the held copy is the 1446 edition):
+the concept of history — history as the study of
+past events and interpreting them, and the
+historian's questions (printed pp. 40–42), into
+the existing First Steps What history is lesson;
+sources — primary sources against secondary
+sources, and the duty toward false news (printed
+pp. 43–46), into From evidence to a written
+history; cause and effect — every event has causes
+and results, practised on examples the children
+choose and sort (printed pp. 47–50), into the new
+lesson; chronological order — the timeline built
+from Saudi history itself: the unification
+(1351هـ), the death of King Abdulaziz (1373هـ),
+King Salman's accession (1436هـ) (printed
+pp. 51–54), into Dating the past; "The Brave Man"
+story activity — Abdulaziz, having secured the
+roads and unified the country, sends a secret
+letter by a brave courier along a watched road
+(printed pp. 55–57), into the new Modern World
+lesson; national symbols — Founding Day 1727,
+National Day 1932 and Flag Day (printed
+pp. 24–28), into the new lesson; the Arabian
+Peninsula as the Arabs' homeland and a cradle of
+civilisations — 'Ad, Thamud, Madyan, al-Maqar,
+Dadan, the Nabataeans and Kinda, its history in
+rock inscriptions (printed pp. 162–165), into the
+new lesson; the peninsula before Islam — Tasm and
+Jadis, a tribal land with no single state, values
+of courage, generosity and protecting the
+neighbour, Khadija's caravans and Makkah's caravan
+wealth (printed pp. 166–169), into the new lesson;
+Makkah and the Kaaba, Madinah and Masjid
+al-Qiblatain (printed pp. 170–174), into the
+existing Ancient World lesson The rise and
+expansion of Islam; the Kingdom's antiquities —
+Rajajil, al-Hijr, al-Ukhdud, Juwatha Mosque and
+the National Museum (printed pp. 175–177), into
+the existing First Steps heritage lesson; and the
+prophets — Adam and Noah, Ibrahim and Hajar, Musa
+at Madyan near Tabuk, and Isa (printed
+pp. 184–202), into the existing Ancient World
+lesson Faiths that shaped states. Saudi Arabia was
+not counted in any of these lessons before, so
+their acceptance counts rise: What history is
+1 → 2, From evidence to a written history 1 → 2,
+Dating the past 2 → 3, heritage 19 → 20, The rise
+and expansion of Islam 1 → 2, Faiths that shaped
+states 1 → 2. History lessons: 271 → 276.

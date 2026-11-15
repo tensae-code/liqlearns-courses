@@ -1,6 +1,6 @@
 # Sources — The rise and expansion of Islam
 
-countries: Ethiopia
+countries: Ethiopia, Saudi Arabia
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under GEQIP-E, ISBN 978-99990-0-066-6. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -13,7 +13,7 @@ countries: Ethiopia
 
 | Sub lesson 3 — Grade 11 depth: The rise and expansion of Islam in depth | Ethiopia, *History, Student Textbook, Grade 11*, printed pp. 87–95 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Saudi Arabia).**
 
 The four-channels formulation stands in the Grade 9 teacher guide only (printed p. 75) and is stocked as labelled evidence; it is never counted as pupil-taught. No book error is flagged for the student-book part of this lesson.
 
@@ -37,3 +37,16 @@ History fix note (2026-11-12): the History coverage audit found this lesson's co
 
 History fix note (2026-11-12): the History coverage audit found this lesson's content standing but cited to another grade's book. The rows above cite the placement's own book at its own printed pages for the parts of this lesson that teach that placement's story; the lesson text was already teaching it, so no text change was needed — the provenance was the gap, and it is now closed.
 
+
+
+## History expansion (2026-11-15) — Saudi Arabia stocked
+
+**Book 3:** *الدراسات الاجتماعية — الصف الرابع الابتدائي — غير مجزأ (Social Studies, Grade 4 Primary, unabridged full-year edition)* (student book, Arabic) — Saudi Arabia. Title as printed: الدراسات الاجتماعية — الصف الرابع الابتدائي — غير مجزأ (Social Studies, Grade 4 Primary, unabridged full-year edition). Grade: Grade 4 (student/teacher: STUDENT). Publisher: المركز الوطني للمناهج (National Centre for Curricula), Riyadh; year 1446هـ; ISBN 978-603-8576-98-8. PDF pages: 228 (copyright/title page verified against the record title; text layer read in full). Verdict: COMPLETE. Records: 2 records / 1 distinct book (TSV release record + books.json record for the same repo path, counted once) / grabbed with grab.py url (release asset) into scratch-small-d/, verified by pdfinfo + copyright/title page, text layer read in full, PDF deleted after filing. Note: the record title gives the year as 1448هـ; the printed copyright page of the held copy reads 1446هـ (the 1446 edition, ISBN above). Non-History parts named: Unit 1 Citizenship (Civics, printed pp. 10–37, apart from the Founding/National Day history inside Lesson 4, placed in modern-world/saudi-arabia-founding-day-and-national-day); Unit 3 Geography (printed pp. 62–89); Unit 4 Economics — concept of economics, resources and consumption, trade exchange past and present (printed pp. 90–109); Unit 5 The Earth and the Map (Geography, printed pp. 112–141); Unit 6 Responsible Citizenship — family and society, rights and responsibilities, teamwork (Civics, printed pp. 142–159). Placements at liqlearns-courses-work/expansion-history-2026-11-15/saudi-arabia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Saudi Arabia part — The Qibla of the Muslims (Unit 7, Lesson 27): Makkah and the Kaaba; Madinah, to which the Prophet Muhammad migrated and spread Islam, home of the Prophet's Mosque and his tomb; and Masjid al-Qiblatain, where the direction of prayer turned to the Kaaba — story beats: two cities in one small country become the compass points of a world faith (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Saudi Arabia, *الدراسات الاجتماعية — الصف الرابع الابتدائي — غير مجزأ (Social Studies, Grade 4 Primary)*, printed pp. 170–174 |
+
+Saudi Arabia's own way: Saudi Arabia's own way: History enters in Grade 4 as method first — what history is, sources, cause and effect, timelines — practised on Saudi examples, and only then as content: the Arabian Peninsula as the Arabs' homeland and cradle of civilisations, and the prophets' stories as the land's sacred past. National days (Founding Day 1727, National Day 1932) are taught inside the Citizenship unit as national symbols. That way is stocked here as the way Saudi Arabia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 2 countries (Ethiopia, Saudi Arabia)** — Saudi Arabia added by the row above (History expansion, 2026-11-15).
