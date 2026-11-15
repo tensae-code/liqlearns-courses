@@ -8207,3 +8207,56 @@ sources, not placed here. All 6 placements stand on
 the teacher guide as evidence only — every lesson's
 acceptance count is 0 countries, counted nowhere.
 History lessons: 254 → 257.
+
+## History expansion — Zambia — built 2026-11-15
+
+4 new lessons, 32 questions, in **Africa after 1500**:
+Zambia — primary resistance in Northern Rhodesia
+(africa-after-1500/zambia-primary-resistance-in-northern-rhodesia),
+Zambia — secondary resistance and the road to
+independence
+(africa-after-1500/zambia-secondary-resistance-and-the-road-to-independence),
+Zambia — liberation struggle sites
+(africa-after-1500/zambia-liberation-struggle-sites)
+and Zambia — nationalists of the independence struggle
+(africa-after-1500/zambia-nationalists-of-the-independence-struggle)
+— 7 placements stocked from Zambia's *History Teaching
+Module — Form 2 Term 3*, Grade 8 (Form 2), teacher
+guide in English (Republic of Zambia, Ministry of
+Education, Curriculum Development Centre, 2026, module
+for the 2024 History Syllabus / Competence Based
+Curriculum, no ISBN printed): primary resistance —
+the Lunda tax refusal at Mwinilunga 1907, the Gwembe
+Tonga 1909, Namwanga and Bisa refusing forced labour,
+the Ngoni under Mpezeni I 1897 and Mwata Kazembe,
+defending land, chiefs, chitemene farming and
+independent churches (printed pp. 2–6); secondary
+resistance — welfare associations, the Watchtower
+movement banned 1935, Copperbelt strikes 1935 and
+1940, the Congress of 1948 becoming the ANC in 1951,
+the London delegation, the 1953 Federation fight,
+boycotts, pass-burning and UNIP's Cha Cha Cha campaign
+of 1961, to independence in 1964 (printed pp. 7–10);
+the liberation places — Mulungushi Rock of Authority
+and the Mukuyu Tree at Kabwe, Chilenje House No. 394,
+Freedom House, Matero House No. 3144B, Bwacha House
+No. E1376, the Freedom Statue and Isa ya Mwaamba at
+Choma (printed pp. 11–13); the leading nationalists
+(printed pp. 15–19) and the other freedom fighters,
+including Mutembo of the Freedom Statue and the
+Mposa Mabwe stone throwers of Kitwe (printed
+pp. 20–22). Two further placements stocked into
+existing lessons: honouring the nationalists — role
+play and the one-minute Salute Wall — into the First
+Steps heritage lesson (printed pp. 23–25), and the
+model lesson plan on the development of slavery and
+the slave trade into the Atlantic slave trade lesson
+(printed pp. 27–31). Zambia's other held book, the
+Grade 4 Social Studies Term 3 module, is RECORD-ONLY
+for History (Environment, Entrepreneurship and Money
+only) and is named in the new lessons' sources, not
+placed. All 7 placements stand on the teacher guide
+as evidence only — every new lesson's acceptance
+count is 0 countries, counted nowhere, and the two
+existing lessons' acceptance counts do not change.
+History lessons: 257 → 261.

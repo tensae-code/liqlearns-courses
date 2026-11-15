@@ -90,7 +90,11 @@ the one title at rising depth wherever a title spans both books
   book alone — no teacher evidence yet; the Grade 8 teacher
   guide's Units 4–7 are still owed.)
 - `africa-after-1500/` — Africa from 1500: trade, colonisation,
-  resistance, independence. (No teacher evidence yet.)
+  resistance, independence (including Zambia — primary
+  resistance in Northern Rhodesia, secondary resistance and
+  the road to independence, liberation struggle sites, and
+  nationalists of the independence struggle).
+  (No teacher evidence yet.)
 - `modern-world/` — the early-modern and modern world
   (including Guyana — our nation: independence and symbols,
   Canada's whaling story: Inuit whaling — the traditional
@@ -2503,7 +2507,7 @@ Plants and Animals.
 
 ## History expansion totals
 
-History lessons across the History titles: **257**
+History lessons across the History titles: **261**
 (248 before the expansion; +1 for Guyana, 2026-11-15 —
 Modern World: Guyana — our nation: independence and
 symbols. All 3 Guyana placements stand on Guyana's
@@ -2527,4 +2531,14 @@ state, 1860–1916, Argentina — the great immigration,
 and Argentina — the conquest of indigenous territories,
 and who progress left out. All 6 Argentina placements
 stand on Argentina's teacher guide only, as evidence
-only, acceptance count 0 countries.)
+only, acceptance count 0 countries. +4 for Zambia,
+2026-11-15 — Africa after 1500: Zambia — primary
+resistance in Northern Rhodesia, Zambia — secondary
+resistance and the road to independence, Zambia —
+liberation struggle sites, and Zambia — nationalists
+of the independence struggle. All 7 Zambia placements
+stand on Zambia's teacher guide only, as evidence
+only, acceptance count 0 countries; the two placements
+stocked into existing lessons (First Steps heritage
+and the Atlantic slave trade lesson) likewise leave
+those lessons' acceptance counts unchanged.)

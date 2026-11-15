@@ -38,3 +38,15 @@ History fix note (2026-11-12): the History coverage audit found this lesson's co
 
 History fix note (2026-11-12): the History coverage audit found this lesson's content standing but cited to another grade's book. The rows above cite the placement's own book at its own printed pages for the parts of this lesson that teach that placement's story; the lesson text was already teaching it, so no text change was needed — the provenance was the gap, and it is now closed.
 
+
+## History expansion (2026-11-15) — Zambia
+
+**Book (Zambia):** *History Teaching Module — Form 2 Term 3* (teacher guide, English) — Zambia, Republic of Zambia, Ministry of Education, Curriculum Development Centre; year 2026 (module for the 2024 History Syllabus / Competence Based Curriculum); no ISBN printed. Title as printed: History Teaching Module — Form 2 Term 3. Grade: Form 2 = Grade 8 (student/teacher: TEACHER). PDF pages: 39 (cover verified against the record title — "History Teaching Module Form 2 Term 3"). Verdict: COMPLETE. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-history-2026-11-15/zambia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sample lesson plan, Topic 2.1.1 Development of Slavery and Slave Trade: the transatlantic trade's causes and impacts, forms of slavery, and empathy for enslaved people's experiences (a Term 1 topic carried as the module's model lesson plan) — the teacher opens with "Can a human being own another?" and leads learners into how Africans were taken, sold and worked without pay (teacher guide — evidence) (original placement slug: africa-after-1500/the-atlantic-slave-trade-scale-coasts-and-the-gun-cycle) | Zambia, *History Teaching Module — Form 2 Term 3* (teacher guide — evidence), Sample lesson plan, Topic 2.1.1 — printed pp. 27–31 |
+
+History expansion note (2026-11-15, Zambia): the Zambia placement above is a teacher guide's model lesson plan, cited as evidence only. Zambia is NOT added to the countries line and the acceptance count does not change: **Acceptance count stays taught in 1 country (Ethiopia); Zambia is named here as teacher-guide evidence only, counted nowhere.**
+
+Zambia's own way (Grade 8 History): the module opens the slave-trade topic with the question "Can a human being own another?" and leads learners into the trade's causes and impacts and into empathy for enslaved people's experiences. That way is stocked here as the way Zambia teaches this thing; it is cited as evidence only.
