@@ -1,6 +1,6 @@
 # Sources — Growth is not development — the HDI
 
-countries: Ethiopia, Argentina, Brazil, France
+countries: Ethiopia, Argentina, Brazil, France, Barbados
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Argentina, Brazil, France
 
 **Book 5:** *Géographie 2de GT, Manuel Libre de Géographie, Seconde* (student book, French) — France, Les Manuels Libres (Région académique Île-de-France); dir. Anne Parillaud; year not printed in the Sommaire; ISBN no ISBN printed (digital manual, CC BY-NC-SA 4.0). Title as printed: Géographie 2de GT — Manuels Libres (manuel scolaire libre, Région académique / Région Île-de-France, dir. Anne Parillaud). Grade 10 (Seconde GT) (student). No PDF pagination — digital HTML manual; full Sommaire (4 themes, all chapters) and repository tree verified against the record title. Verdict: COMPLETE — contents read in full via the Sommaire and theme folders; individual image/media files inside the 503 MB archive not individually opened. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/france-placements.md.
 
+**Book 6:** *Geography for CSEC — 2nd Edition* (student book, English) — Barbados, Oxford University Press; year 2016 (first published 2016, © OUP 2016); ISBN 978-1-4085-2726-9. Title as printed: Geography for CSEC — 2nd Edition. Grade 10 (CSEC examination course, Caribbean secondary) (student). 364 PDF pp. (cover/title page verified against the record title; 45,799,971 bytes, matches its books.json record exactly; read from its recorded archive.org source after the GitHub grab route failed (RemoteDisconnected/timeouts, 2026-11-14)). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/barbados-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Growth versus development | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 5, printed pp. 125 |
@@ -22,8 +24,11 @@ countries: Ethiopia, Argentina, Brazil, France
 | Brazil part — Folha 12: Dinheiro traz felicidade? / Does money bring happiness? (wealth and development) | Brazil, *Geografia, Livro Didático Público, Ensino Médio*, Grade 10, Folha 12: Dinheiro traz felicidade? / Does money bring happiness? (wealth and development), printed p. 186 |
 
 | France part — Thème 2: Développement et inégalités (études: Brésil, Russie, États-Unis; simulation d'un G7; le PNUD et la mesure du développement) | France, *Géographie 2de GT, Manuel Libre de Géographie, Seconde*, Grade 10, Sommaire Thème 2 |
+| Barbados part — economic development; the importance of economic activity in the Caribbean; challenges to the economies of the Caribbean (case studies Jamaica, Trinidad and Tobago, Singapore) | Barbados, *Geography for CSEC — 2nd Edition*, Grade 10, Ch. 11: economic development; the importance of economic activity in the Caribbean; challenges to the economies of the Caribbean (case studies Jamaica, Trinidad and Tobago, Singapore) — printed p. 246 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Brazil, France). Argentina is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 4 countries (Ethiopia, Brazil, France, Barbados). Argentina is named here as teacher-guide evidence only, counted nowhere.**
+
+Barbados's own way: this is the shared Caribbean CSEC examination textbook used in Barbados — every world process is re-taught through Caribbean case studies (the Caribbean plate, Montserrat's volcano, Jamaica's coasts and Kingston's urban problems, St Lucia's reefs, Bahamas/Jamaica/Puerto Rico karst, Guyana's rivers), map and field skills are folded into the chapters, and the course ends in a School-Based Assessment fieldwork project. That way is stocked here as the way Barbados teaches this thing; it does not change the acceptance count above.
 
 Argentina's own way (teacher guide — evidence): quality of life is taught through statistics and graphs — the Argentine population's quality of life is read from its numbers and charts, in a teacher's notebook whose worked proposals are built on statistics, graphs, thematic maps and newspaper articles. That evidence is stocked here as the way Argentina teaches this thing; it does not change the acceptance count above.
 

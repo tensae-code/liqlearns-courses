@@ -1111,3 +1111,86 @@ Thailand — a neighbour study (§4.6, printed p. 73) —
 the new lessons all teacher-guide evidence only,
 acceptance count 0 countries, 8 questions each.
 Geography lessons: 648 → 661.
+
+## Geography expansion — Barbados — built 2026-11-14
+
+Barbados — 30 placements stocked from 1 distinct book
+that carries Geography (10 records / 5 distinct books in
+total): *Geography for CSEC — 2nd Edition* (student
+book, English, COMPLETE; Oxford University Press, 2016,
+ISBN 978-1-4085-2726-9; 364 PDF pp.; read from its
+recorded archive.org source after the GitHub grab route
+failed, 45,799,971 bytes matching its record exactly).
+The other four books — *Primary Social Studies
+Syllabus, Classes One, Two, Three and Four* (Ministry
+of Education & Human Resource Development, Barbados;
+curriculum/syllabus documents, TEACHER) — are
+RECORD-ONLY: curriculum documents, not textbooks,
+filed not placed, 0 placements each; Barbados's library
+set holds no government pupil textbooks, and that is
+carried exactly as stated. Barbados's own way: this is
+the shared Caribbean CSEC examination textbook used in
+Barbados — every world process is re-taught through
+Caribbean case studies (the Caribbean plate,
+Montserrat's volcano, Jamaica's coasts and Kingston's
+urban problems, St Lucia's reefs, Bahamas/Jamaica/Puerto
+Rico karst, Guyana's rivers), map and field skills are
+folded into the chapters, and the course ends in a
+School-Based Assessment fieldwork project. Stocked into
+standing lessons — **The Land and Air**: Plate
+tectonics — the Earth's moving shell (Ch. 1, printed
+p. 5 — now taught in 3 countries, Ethiopia, Micronesia
+and Barbados), Earthquakes — the slipping earth
+(Ch. 1, printed p. 15 — now 2 countries), Land-shaping
+forces — folding (Ch. 1, printed p. 15 — now 2),
+Land-shaping forces — volcanism, magma and lava
+(Ch. 1, printed p. 19 — now 2), Physical weathering —
+heat, ice, roots (Ch. 2, printed p. 34 — now 2),
+Chemical weathering — rust, acid and caves (Ch. 2,
+printed p. 34 — now 2), Anatomy of a drainage basin
+(Ch. 3, printed p. 53 — now 2), River landforms — from
+V-valley to delta (Ch. 3, printed p. 59 — now 2) and
+Weather and climate — the difference and the elements
+(Ch. 7, printed p. 124 — now 2); **Earth and Space**:
+Time zones (Ch. 1 skills, printed p. 5 — now 2
+countries) and Materials of the crust (Ch. 1, printed
+p. 5 — now taught in 1 country, Barbados; Ethiopia
+stays teacher-guide evidence only); **Population,
+Transport and Maps**: Maps and globes — latitude and
+longitude (Ch. 1 skills, printed p. 5 — now 2
+countries, Ethiopia and Barbados; Myanmar stays
+teacher-guide evidence only), Population distribution
+(Ch. 9, printed p. 180 — now 4 countries, Ethiopia,
+Saudi Arabia, Belarus and Barbados) and Reading a
+population pyramid (Ch. 9, printed p. 185 — now 2);
+**People and Resources**: Four kinds of work (Ch. 11,
+printed p. 242 — now 2 countries), Weber's triangle —
+where should the factory go (Ch. 11, printed p. 254 —
+now 2) and Growth is not development — the HDI
+(Ch. 11, printed p. 246 — now 4 countries, Ethiopia,
+Brazil, France and Barbados; Argentina stays
+teacher-guide evidence only); **Culture and Work**:
+Primary activities — agriculture (Ch. 12, printed
+p. 280 — now 2 countries); **Resources and Conflict**:
+Why forests fall (Ch. 14, printed p. 342 — now 2
+countries) — and 11 new lessons built — in **The Land
+and Air**: Mass movement — slope failure and
+landslides (Ch. 2, printed p. 39), Coastal processes —
+erosion, transport and deposition (Ch. 4, printed
+p. 76), Coral reefs and mangrove wetlands (Ch. 5,
+printed p. 92), Limestone and tropical karst
+landscapes (Ch. 6, printed p. 105), Caribbean weather
+systems (Ch. 7, printed p. 138) and Ecosystems — how
+they work (Ch. 8, printed p. 157); in **Population,
+Transport and Maps**: Urbanisation — benefits,
+problems and controlling it (Ch. 10, printed p. 210)
+and Fieldwork and the School-Based Assessment
+(School-Based Assessments, printed p. 351); in
+**People and Resources**: Trends in commercial arable
+farming in the Caribbean (Ch. 12, printed p. 296); in
+**Global Issues**: Natural hazards and managing their
+risk (Ch. 13, printed p. 307) and Our threatened
+planet — environmental degradation (Ch. 14, printed
+p. 335) — the new lessons taught in 1 country
+(Barbados), 8 questions each. Geography lessons:
+661 → 672.

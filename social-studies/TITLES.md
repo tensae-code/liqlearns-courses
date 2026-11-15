@@ -103,7 +103,7 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **661**
+Geography lessons across the eight Geography titles: **672**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -211,3 +211,15 @@ Resources: Myanmar's neighbouring countries, Bangladesh
 — a neighbour study, India — a neighbour study, China
 — a neighbour study, Laos — a neighbour study and
 Thailand — a neighbour study.
++11 for Barbados, 2026-11-14 — The Land and Air:
+Mass movement — slope failure and landslides, Coastal
+processes — erosion, transport and deposition, Coral
+reefs and mangrove wetlands, Limestone and tropical
+karst landscapes, Caribbean weather systems and
+Ecosystems — how they work; Population, Transport and
+Maps: Urbanisation — benefits, problems and controlling
+it and Fieldwork and the School-Based Assessment;
+People and Resources: Trends in commercial arable
+farming in the Caribbean; Global Issues: Natural
+hazards and managing their risk and Our threatened
+planet — environmental degradation.
