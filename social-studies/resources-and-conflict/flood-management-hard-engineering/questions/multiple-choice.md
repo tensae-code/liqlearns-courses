@@ -1,0 +1,19 @@
+# Flood Management — Hard Engineering — multiple choice
+
+Pick the one right answer.
+
+**1. (Sub lesson 1)** The first part of this lesson is —
+a) Flood Management — Hard Engineering  b) learning the alphabet  c) counting to ten
+**Answer: a) Flood Management — Hard Engineering**
+
+**2. (Sub lesson 1)** This lesson is mainly about —
+a) §11.7 Managing floods — hard engineering  b) ancient kings only  c) the Moon's phases
+**Answer: a) §11.7 Managing floods — hard engineering**
+
+**3. (Sub lesson 2)** The second part of this lesson is —
+a) The United Kingdom's way — the book's own teaching way  b) learning to swim  c) telling the time
+**Answer: a) The United Kingdom's way — the book's own teaching way**
+
+**4. (Sub lesson 2)** Which of these is true, from the lesson?
+a) This lesson teaches §11.7 Managing floods — hard engineering.  b) The United Kingdom's book never studies this thing.  c) This lesson teaches nothing about its topic
+**Answer: a) This lesson teaches §11.7 Managing floods — hard engineering.**

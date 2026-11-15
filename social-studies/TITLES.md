@@ -103,7 +103,7 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **1269**
+Geography lessons across the eight Geography titles: **1361**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -798,3 +798,69 @@ Geological Disasters, Global Challenges in the World,
 Global Networks and Connectivity, Hydrological
 Disasters, International Organisations and Waste
 Management.
+
++92 for the United Kingdom, 2026-11-14 — The Land and
+Air: Global Atmospheric Circulation, Tropical Storms —
+Formation and Structure, Typhoon Haiyan — A Tropical
+Storm Case Study, Reducing the Effects of Tropical
+Storms, Weather Hazards in the UK, The Somerset Levels
+Floods, 2014 — Case Study, Ecosystems Introduced — A
+Small-Scale Ecosystem, Change and Balance in
+Ecosystems, Global Ecosystems and Biomes, Tropical
+Rainforest Characteristics, Deforestation in Malaysia —
+Causes, Impacts of Deforestation in Malaysia, Managing
+Tropical Rainforests Sustainably, Cold Environments —
+Polar and Tundra, Managing Fragile Cold Environments,
+The UK's Relief and Landscapes, Waves and Coastal
+Processes, Coastal Erosion Landforms, Coastal Landforms
+at Swanage — Case Study, River Profiles and Valley
+Change, Fluvial Processes — Erosion, Transport,
+Deposition, River Landforms on the River Tees — Case
+Study, Glacial Processes, Glacial Erosion Landforms,
+Glacial Transport and Deposition Landforms and Glacial
+Landforms at Cadair Idris — Case Study; Population,
+Transport and Maps: An Increasingly Urban World, The
+Emergence of Megacities, Rio de Janeiro — Urban
+Challenges, Managing the Growth of Squatter
+Settlements, Population Distribution in the UK, Bristol
+— Urban Change Case Study, Planning for Urban
+Sustainability, Sustainable Living in Freiburg — Case
+Study, Sustainable Urban Traffic Management, Changing
+UK Transport Infrastructure, Issue Evaluation Skills,
+River Fieldwork Enquiry, Urban Fieldwork Enquiry,
+Cartographic and Map Skills, Graphical Skills and
+Statistical Skills; People and Resources: Development
+Opportunities in Hot Deserts, Development Challenges in
+Hot Deserts, Development in Svalbard — Opportunities
+and Challenges, Economic Opportunities in Glaciated
+Areas, Conflict and Tourism in Glaciated Areas, Our
+Unequal World — The Development Gap, Measuring
+Development, Causes of Uneven Development, Uneven
+Development — Wealth, Health and Migration, Reducing
+the Development Gap, Nigeria — A Newly Emerging
+Economy, Nigeria in the Wider World, Transnational
+Corporations in Nigeria, International Aid in Nigeria,
+Managing Environmental Issues in Nigeria, Quality of
+Life in Nigeria, The Changing UK Economy, UK Science
+and Business Parks, Environmental Impacts of Industry,
+Changing Rural Landscapes in the UK, The UK North-South
+Divide and The UK in the Wider World; Resources and
+Conflict: Natural Hazards — What They Are, Responses to
+Tectonic Hazards, Living with Tectonic Hazard Risk,
+Reducing Tectonic Hazard Risk, Coastal Management —
+Hard Engineering, Coastal Management — Soft Engineering
+and Managed Retreat, Coastal Management at Lyme Regis —
+Case Study, Factors Increasing Flood Risk, Flood
+Management — Hard Engineering, Flood Management — Soft
+Engineering, Flood Management at Banbury — Case Study,
+The Global Distribution of Food, Water and Energy,
+Provision of Food in the UK, Provision of Water in the
+UK, Provision of Energy in the UK, Global Food Supply,
+Increasing Food Supply, The Indus Basin Irrigation
+System — Case Study, Sustainable Food Production,
+Global Water Supply and Demand, Impacts of Water
+Insecurity, Increasing Water Supply, The Lesotho
+Highland Water Project — Case Study, Sustainable Water
+Supplies, Global Energy Supply and Demand, Impacts of
+Energy Insecurity, Increasing Energy Supply and
+Sustainable Energy Production.

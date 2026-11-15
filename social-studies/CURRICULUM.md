@@ -3381,3 +3381,139 @@ mk-g10, printed p. 118), Hydrological Disasters (Grade
 taught in 1 country (North Macedonia), 8 questions
 each.
 Geography lessons: 1197 → 1269.
+
+
+## United Kingdom — Geography expansion (merged 2026-11-14)
+126 placement lines stocked from the United Kingdom's 1
+placed Geography book (2 records / 1 distinct book —
+TSV release record + books.json record for the same
+book) — *GCSE Geography AQA (Student Book)* (student
+book, English, COMPLETE; Oxford University Press, 2016,
+ISBN 978-0-19-836661-4; authors Nicholas Rowles, David
+Holmes, Bob Digby; series editor Simon Ross; Grade 10),
+read via the book's archive.org source (archive.org
+item gcse-aqa-geography-student-book: EPUB + full OCR
+text of the same 355.2 MiB PDF whose byte size matches
+the books.json record's 372,407,314 bytes; title page
+and ISBN page verified from that OCR text) — the 372 MB
+GitHub release copy itself was not re-downloaded; the
+identical archive.org scan was read instead (all 24
+chapters, contents pp. 4-5, glossary p. 346, index p.
+350). The placements file's own tally agrees with its
+line count (126 = 22 to existing lessons + 104 NEW
+LESSON NEEDED). The United Kingdom's own way: a single
+exam-board (AQA) GCSE textbook organised as thematic
+units with numbered two-page spreads, every big topic
+anchored to a named case study (Typhoon Haiyan,
+Somerset Levels, Rio de Janeiro, Bristol, Nigeria, the
+Indus Basin, Lesotho Highlands) and a final unit on
+issue evaluation, fieldwork enquiries and
+cartographic/graphical/statistical skills. Stocked into
+standing lessons (22 placements across 21 lessons)
+across the Geography titles. No placement slug needed
+remapping to a different lesson — every slug stands in
+the course under its own name, and none of the 92
+NEW-flagged slugs existed on disk, so no duplicate
+lessons were built. 92 NEW lessons built (104
+placements) — **The Land and Air**: Global Atmospheric
+Circulation (printed p. 22), Tropical Storms —
+Formation and Structure (printed p. 24; printed p. 26),
+Typhoon Haiyan — A Tropical Storm Case Study (printed
+p. 28), Reducing the Effects of Tropical Storms
+(printed p. 30), Weather Hazards in the UK (printed p.
+32; printed p. 38), The Somerset Levels Floods, 2014 —
+Case Study (printed pp. 34-36), Ecosystems Introduced —
+A Small-Scale Ecosystem (printed p. 52), Change and
+Balance in Ecosystems (printed p. 54), Global
+Ecosystems and Biomes (printed p. 56), Tropical
+Rainforest Characteristics (printed p. 58),
+Deforestation in Malaysia — Causes (printed p. 60),
+Impacts of Deforestation in Malaysia (printed p. 62),
+Managing Tropical Rainforests Sustainably (printed pp.
+64-66), Cold Environments — Polar and Tundra (printed
+p. 78), Managing Fragile Cold Environments (printed pp.
+84-86), The UK's Relief and Landscapes (printed p. 90),
+Waves and Coastal Processes (printed p. 92; printed p.
+96), Coastal Erosion Landforms (printed p. 98), Coastal
+Landforms at Swanage — Case Study (printed pp.
+102-104), River Profiles and Valley Change (printed p.
+114), Fluvial Processes — Erosion, Transport,
+Deposition (printed p. 116), River Landforms on the
+River Tees — Case Study (printed p. 122), Glacial
+Processes (printed p. 132), Glacial Erosion Landforms
+(printed p. 134), Glacial Transport and Deposition
+Landforms (printed p. 136), Glacial Landforms at Cadair
+Idris — Case Study (printed p. 138); **Population,
+Transport and Maps**: An Increasingly Urban World
+(printed p. 148), The Emergence of Megacities (printed
+p. 150), Rio de Janeiro — Urban Challenges (printed p.
+152; printed p. 154; printed p. 156; printed p. 158;
+printed p. 162), Managing the Growth of Squatter
+Settlements (printed p. 160), Population Distribution
+in the UK (printed p. 164), Bristol — Urban Change Case
+Study (printed p. 166; printed pp. 168-170; printed pp.
+172-176; printed p. 178; printed pp. 180-184), Planning
+for Urban Sustainability (printed p. 186), Sustainable
+Living in Freiburg — Case Study (printed p. 188),
+Sustainable Urban Traffic Management (printed p. 190),
+Changing UK Transport Infrastructure (printed pp.
+244-246), Issue Evaluation Skills (printed p. 302),
+River Fieldwork Enquiry (printed pp. 306-310; printed
+pp. 312-314), Urban Fieldwork Enquiry (printed pp.
+316-324), Cartographic and Map Skills (printed p. 326),
+Graphical Skills (printed p. 336), Statistical Skills
+(printed p. 342); **People and Resources**: Development
+Opportunities in Hot Deserts (printed p. 70),
+Development Challenges in Hot Deserts (printed p. 72),
+Development in Svalbard — Opportunities and Challenges
+(printed pp. 80-82), Economic Opportunities in
+Glaciated Areas (printed p. 140), Conflict and Tourism
+in Glaciated Areas (printed pp. 142-144), Our Unequal
+World — The Development Gap (printed p. 194), Measuring
+Development (printed p. 196), Causes of Uneven
+Development (printed p. 202), Uneven Development —
+Wealth, Health and Migration (printed pp. 204-206),
+Reducing the Development Gap (printed pp. 208-214),
+Nigeria — A Newly Emerging Economy (printed pp.
+218-220), Nigeria in the Wider World (printed p. 222),
+Transnational Corporations in Nigeria (printed p. 226),
+International Aid in Nigeria (printed p. 228), Managing
+Environmental Issues in Nigeria (printed p. 230),
+Quality of Life in Nigeria (printed p. 232), The
+Changing UK Economy (printed pp. 234-236), UK Science
+and Business Parks (printed p. 238), Environmental
+Impacts of Industry (printed p. 240), Changing Rural
+Landscapes in the UK (printed p. 242), The UK
+North-South Divide (printed p. 248), The UK in the
+Wider World (printed pp. 250-252); **Resources and
+Conflict**: Natural Hazards — What They Are (printed p.
+8), Responses to Tectonic Hazards (printed p. 16),
+Living with Tectonic Hazard Risk (printed p. 18),
+Reducing Tectonic Hazard Risk (printed p. 20), Coastal
+Management — Hard Engineering (printed p. 106), Coastal
+Management — Soft Engineering and Managed Retreat
+(printed pp. 108-110), Coastal Management at Lyme Regis
+— Case Study (printed p. 112), Factors Increasing Flood
+Risk (printed p. 124), Flood Management — Hard
+Engineering (printed p. 126), Flood Management — Soft
+Engineering (printed p. 128), Flood Management at
+Banbury — Case Study (printed p. 130), The Global
+Distribution of Food, Water and Energy (printed p.
+256), Provision of Food in the UK (printed p. 258),
+Provision of Water in the UK (printed p. 260),
+Provision of Energy in the UK (printed p. 262), Global
+Food Supply (printed p. 264), Increasing Food Supply
+(printed p. 268), The Indus Basin Irrigation System —
+Case Study (printed p. 270), Sustainable Food
+Production (printed pp. 272-274), Global Water Supply
+and Demand (printed p. 276), Impacts of Water
+Insecurity (printed p. 278), Increasing Water Supply
+(printed p. 280), The Lesotho Highland Water Project —
+Case Study (printed p. 282), Sustainable Water Supplies
+(printed pp. 284-286), Global Energy Supply and Demand
+(printed p. 288), Impacts of Energy Insecurity (printed
+p. 290), Increasing Energy Supply (printed pp.
+292-294), Sustainable Energy Production (printed p.
+296) — the new lessons are taught in 1 country (United
+Kingdom), 8 questions each.
+Geography lessons: 1269 → 1361.

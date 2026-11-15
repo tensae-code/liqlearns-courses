@@ -1,6 +1,6 @@
 # Sources — What a Desert Is
 
-countries: Ethiopia, Colombia, India
+countries: Ethiopia, Colombia, India, United Kingdom
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (placement 107).
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Colombia, India
 
 **Book 4:** *Our Environment — Textbook in Geography for Class VII (Social Science)* (student book, English) — India, NCERT, New Delhi; first edition March 2007, this copy reprint 2020-21; ISBN 81-7450-714-0. Title as printed: Our Environment — Textbook in Geography for Class VII (Social Science). Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 84 (cover render verified: "Our Environment, Textbook in Geography for Class VII, NCERT 2020-21"; grabbed via grab.py release route, 23,494,641 bytes; duplicate TSV + books.json records grade-07/gov/india/our-environment.pdf counted once). Verdict: COMPLETE — 9 chapters, printed pp. 1-71 + appendix p. 72. Records note: 34 records / 17 distinct books (17 TSV records in grades 6-10 + 17 books.json records that are the same books by grade/subject — duplicate records of the same NCERT titles); the 5 Geography books were read full page-by-page via pdftotext -layout after cover verification; the other 12 books are record-only (History, Civics, Economics) with no Geography content, filed for later waves. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/india-placements.md.
 
+**Book 5:** *GCSE Geography AQA (Student Book)* (student book, English) — United Kingdom, Oxford University Press; year 2016; ISBN 978-0-19-836661-4; authors Nicholas Rowles, David Holmes, Bob Digby; series editor Simon Ross. Title as printed: GCSE Geography AQA (Student Book). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 356 (record figure; printed book pagination used in the rows below). Verdict: COMPLETE. Records note: 2 records / 1 distinct book (TSV release record + books.json record for the same book) / read via the book's archive.org source (archive.org item gcse-aqa-geography-student-book: EPUB + full OCR text of the same 355.2 MiB PDF whose byte size matches the books.json record's 372,407,314 bytes; title page and ISBN page verified from that OCR text) — the 372 MB GitHub release copy itself was not re-downloaded; the identical archive.org scan was read instead (all 24 chapters, contents pp. 4-5, glossary p. 346, index p. 350) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/united-kingdom-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Rain, not heat: a desert as under 250 mm of rain a year; about a third of the Earth's land is desert | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 7, printed pp. 145–147 |
@@ -18,8 +20,9 @@ countries: Ethiopia, Colombia, India
 | Colombia part (CS_Grado4_02) — Guía 11 world natural regions: deserts and polar regions | Colombia, *Ciencias Sociales 4 — Segunda Cartilla, Escuela Nueva*, Guía 11 world natural regions: deserts and polar regions — printed pp. 69–89 |
 | Colombia part (Insertos_sociales_04_Cartilla_02) — Questions 4, 5, 8, 9 and 14: deserts spreading, desert characteristics, polar animals and their adaptations, people living in deserts | Colombia, *Expedición Desconocida (board-game insert for Ciencias Sociales 4, Cartilla 2)*, Questions 4, 5, 8, 9 and 14: deserts spreading, desert characteristics, polar animals and their adaptations, people living in deserts — printed p. 1 (sheet) |
 | India part (Grade 7 Our Environment) — Ch.9 Life in the Deserts: hot and cold deserts defined | India, *India Grade 7 Our Environment*, Ch.9 Life in the Deserts: hot and cold deserts defined — printed p. 65 |
+| United Kingdom part — §7.1 Environmental characteristics of hot deserts | United Kingdom, *United Kingdom Grade 10 AQA Geography Student Book*, §7.1 Environmental characteristics of hot deserts — printed p. 68 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Colombia, India).**
+**Acceptance count: taught in 4 countries (Ethiopia, Colombia, India, United Kingdom).**
 
 Book error taught corrected: the book's list of the four desert types is numbered 1, 2, 2, 3 as printed; the lesson teaches the four types as a clean list of four and names the misprint here. The rainfall, area and table figures are the book's own figures as printed, including its UN-era table. There is NO Grade 8 teacher-guide coverage for Chapter 7: the Grade 8 guide in hand holds only Units 1–3, so no teacher evidence is claimed for any Grade 8 part of this lesson.
 
@@ -30,3 +33,5 @@ Colombia's own way (CS_Grado4_02): the second Grade 4 cartilla is almost pure ph
 Colombia's own way (Insertos_sociales_04_Cartilla_02): the Grade 4 review game is built almost entirely from the cartilla's physical geography — relief, deserts, polar life, Colombia's tropical benefits, its natural regions and the three Andean branches.
 
 India's own way (Grade 7 Our Environment): Grade 7 is organised around "environment" in widening rings — the concept itself, then inside/changing Earth, air and water, world vegetation belts, human settlement and transport, and finally three lived-in region studies (Amazon basin, Ganga-Brahmaputra basin, Sahara and Ladakh deserts) where all the strands meet in real places.
+
+United Kingdom's own way: A single exam-board (AQA) GCSE textbook organised as thematic units with numbered two-page spreads, every big topic anchored to a named case study (Typhoon Haiyan, Somerset Levels, Rio de Janeiro, Bristol, Nigeria, the Indus Basin, Lesotho Highlands) and a final unit on issue evaluation, fieldwork enquiries and cartographic/graphical/statistical skills.

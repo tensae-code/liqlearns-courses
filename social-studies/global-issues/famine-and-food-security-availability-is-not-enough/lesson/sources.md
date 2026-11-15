@@ -1,6 +1,6 @@
 # Sources — Famine and food security — availability is not enough
 
-countries: Ethiopia, Brazil, Haiti, Costa Rica, Palestine, Angola
+countries: Ethiopia, Brazil, Haiti, Costa Rica, Palestine, Angola, United Kingdom
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Brazil, Haiti, Costa Rica, Palestine, Angola
 
 **Book 6:** *Geografia 5ª Classe* (student book, Portuguese) — Angola, Ministério da Educação / Mensagem Editora, Luanda; year 2021 (3.ª Edição); ISBN 978-989-54802-4-1. Title as printed: Geografia | Manual da 5.ª Classe. Grade 5 (student). 88 PDF pp. (cover/title page verified against the record title; read from the record's own recorded source_url (Portal do Professor de Língua Portuguesa) after the GitHub API grab route repeatedly failed with RemoteDisconnected on 2026-11-14 — so the repo copy was not byte-verified against this read). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/angola-placements.md.
 
+**Book 7:** *GCSE Geography AQA (Student Book)* (student book, English) — United Kingdom, Oxford University Press; year 2016; ISBN 978-0-19-836661-4; authors Nicholas Rowles, David Holmes, Bob Digby; series editor Simon Ross. Title as printed: GCSE Geography AQA (Student Book). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 356 (record figure; printed book pagination used in the rows below). Verdict: COMPLETE. Records note: 2 records / 1 distinct book (TSV release record + books.json record for the same book) / read via the book's archive.org source (archive.org item gcse-aqa-geography-student-book: EPUB + full OCR text of the same 355.2 MiB PDF whose byte size matches the books.json record's 372,407,314 bytes; title page and ISBN page verified from that OCR text) — the 372 MB GitHub release copy itself was not re-downloaded; the identical archive.org scan was read instead (all 24 chapters, contents pp. 4-5, glossary p. 346, index p. 350) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/united-kingdom-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Famine is a process, not an event | G12 student #78, printed pp. 209–211 |
@@ -23,8 +25,9 @@ countries: Ethiopia, Brazil, Haiti, Costa Rica, Palestine, Angola
 | Costa Rica part — problems linked to food production in Costa Rica and at world scale | Costa Rica, *Antología CONED 7*, Grade 7, Unit III Tema II C — printed p. 155 |
 | Palestine part — Unit 5, Lesson 3: famines — their causes, natural (cold waves, frost) and agricultural (pests and crop diseases) (stocked here as the closest existing lesson; the placements name resources-and-conflict/food-security-keeping-everyone-fed, which has no lesson folder) | Palestine, *Social Studies, Grade 9, Part Two*, Grade 9, Unit 5, Lesson 3: famines — their causes, natural (cold waves, frost) and agricultural (pests and crop diseases) — printed p. 68 |
 | Angola part — 5.2 A situação alimentar no planeta | Angola, *Geografia 5ª Classe*, Grade 5, 5.2 A situação alimentar no planeta — printed p. 65 |
+| United Kingdom part — §20.2 Impact of food insecurity | United Kingdom, *United Kingdom Grade 10 AQA Geography Student Book*, §20.2 Impact of food insecurity — printed p. 266 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Brazil, Costa Rica, Palestine, Angola). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 6 countries (Ethiopia, Brazil, Costa Rica, Palestine, Angola, United Kingdom). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
 
 Haiti's own way (teacher sequence — evidence): World inequality is questioned through the words used for it (Nord/Sud, développé/sous-développé) and through Haiti's own case — a rich-country/poor-country comparison (Canada or USA vs Haiti), the independence debt, food insecurity and Covid vaccination in Haiti — with every claim built from authenticated statistics, graphs and maps crossed from local to world scale. That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
@@ -37,3 +40,5 @@ Searchable tags: famine, food security, entitlements, World Bank 1986, chronic a
 Palestine's own way (Grade 9, PS G9P2): the course closes at world scale — the diversity of natural environments, peoples and economies, then the age's challenges (population explosion, famines, poverty) framed as matters for international cooperation.
 
 Angola's own way (Grade 5): Geography opens as "geographic space" — the natural space and the human-built space (Luanda port, Benguela railway, Cambambe dam, Huambo housing) — before any physical topic; Angola's own position, borders, population figures (INE) and farm/fishery tables carry the world topics. That way is stocked here as the way Angola teaches this thing.
+
+United Kingdom's own way: A single exam-board (AQA) GCSE textbook organised as thematic units with numbered two-page spreads, every big topic anchored to a named case study (Typhoon Haiyan, Somerset Levels, Rio de Janeiro, Bristol, Nigeria, the Indus Basin, Lesotho Highlands) and a final unit on issue evaluation, fieldwork enquiries and cartographic/graphical/statistical skills.
