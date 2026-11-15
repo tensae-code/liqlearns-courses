@@ -1,6 +1,6 @@
 # Sources — Christianity — from persecuted sect to state religion
 
-countries: Ethiopia, Poland, Costa Rica, Ecuador, India, Montenegro
+countries: Ethiopia, Poland, Costa Rica, Ecuador, India, Montenegro, Colombia
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -88,3 +88,45 @@ India's own way (Our Pasts-I, Grade 6): NCERT teaches history as a story journey
 Montenegro's own way (ИСТОРИЈА за седми разред основне школе (Istorija 7), Grade 7 (student/teacher: STUDENT)): The medieval year alternates Europe and home in strict rhythm — migration, feudalism, Byzantium, the Church and Islam, then the Slavs arrive and the book stays with Duklja/Zeta (Vojislavljevići, Nemanjići, Balšići, Crnojevići) as Europe's late-medieval story frames it. That way is stocked here as the way Montenegro teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 6 countries (Ethiopia, Poland, Costa Rica, Ecuador, India, Montenegro).**
+
+---
+
+## History expansion (2026-11-15) — Colombia stocked
+
+**Book 20 — Postprimaria G7 (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Grado 7, Postprimaria Rural (Sociales)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación Nacional / Fundación Manuel Mejía; year c.2010–2011; ISBN no ISBN printed in front matter seen
+- PDF pages: 238 (cover/title page verified against the record title; the PDF carries minor xref damage, text fully recoverable)
+- Verdict: COMPLETE
+- Tally: 14 placements — 10 to existing lessons, 4 NEW LESSON NEEDED
+- Colombia's own way: Grade 7 Postprimaria pairs every medieval system with its American twin — feudal production against colonial production, European monarchy against the government of the Indies, and protest in both worlds.
+- Non-History parts named: Geography — environment and territory in the societies of the 5th–15th centuries, Módulo 3 in large part.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Módulo 1 / Guía 1: Who were they and where did they live? — story beats: the Romans give way to medieval castles; Constantine becomes emperor in 324, backs Christianity and moves the Empire's capital to Constantinople (History expansion, 2026-11-15; original placement slug: ancient-world/christianity-from-persecuted-sect-to-state-religion) | Colombia, *Ciencias Sociales — Grado 7, Postprimaria Rural (Sociales)*, printed p. 15 |
+
+Colombia's own way (Postprimaria G7 (student book, Spanish)): Grade 7 Postprimaria pairs every medieval system with its American twin — feudal production against colonial production, European monarchy against the government of the Indies, and protest in both worlds. That way is stocked here as the way Colombia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 21 — Secundaria Activa G7 (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Grado 7, Secundaria Activa (student module)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación Nacional (Aguirre Asesores update); year not printed in front matter seen; ISBN no ISBN printed in front matter seen
+- PDF pages: 248 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 14 placements — 11 to existing lessons, 3 NEW LESSON NEEDED
+- Colombia's own way: Grade 7 Secundaria Activa runs empires in Europe against empires in America, and closes the encounter with the chronicles' two visions and the debates they still provoke.
+- Non-History parts named: Geography — climate and climate change, physical and human geography of Europe and America, printed pp. 14–117 (Unidades 1–2).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Tema 14: Christianity and Islam — story beats: places across the Empire turn Christian and faith becomes resistance to oppression, while Muhammad preaches that the rich must share, Islam rests on five pillars, and its culture grows from the peoples it rules (History expansion, 2026-11-15; original placement slug: ancient-world/christianity-from-persecuted-sect-to-state-religion) | Colombia, *Ciencias Sociales — Grado 7, Secundaria Activa (student module)*, printed p. 135 |
+
+Colombia's own way (Secundaria Activa G7 (student book, Spanish)): Grade 7 Secundaria Activa runs empires in Europe against empires in America, and closes the encounter with the chronicles' two visions and the debates they still provoke. That way is stocked here as the way Colombia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 7 countries (Ethiopia, Poland, Costa Rica, Ecuador, India, Montenegro, Colombia).**
+
+Searchable tags: Colombia, Christianity — from persecuted sect to state religion, ancient-world, History expansion 2026-11-15

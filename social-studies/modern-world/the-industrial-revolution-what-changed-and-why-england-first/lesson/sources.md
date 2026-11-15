@@ -1,6 +1,6 @@
 # Sources — The Industrial Revolution — what changed and why England first
 
-countries: Ethiopia, Brazil, Costa Rica, Australia, Ecuador, Kuwait, Fiji, Montenegro, Dominican Republic, Palestine
+countries: Ethiopia, Brazil, Costa Rica, Australia, Ecuador, Kuwait, Fiji, Montenegro, Dominican Republic, Palestine, Colombia
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 130).
 
@@ -201,3 +201,28 @@ Palestine's own way (Book 8 — G8 Social Studies Part 2, Grade 8 (student/teach
 **Acceptance count: taught in 10 countries (Ethiopia, Brazil, Costa Rica, Australia, Ecuador, Kuwait, Fiji, Montenegro, Dominican Republic, Palestine).**
 
 Searchable tags: Palestine, The Industrial Revolution — what changed and why England first, modern-world, History expansion 2026-11-15
+
+---
+
+## History expansion (2026-11-15) — Colombia stocked
+
+**Book 14 — G5 Cartilla 1 (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Primera Cartilla, Grado Quinto, Escuela Nueva
+- Grade: Grade 5 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación Nacional, Bogotá; year 2010 (adaptation Corpoeducación, Contrato 541 de 2009); ISBN no ISBN printed in front matter seen
+- PDF pages: 112 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 9 placements — 3 to existing lessons, 6 NEW LESSON NEEDED
+- Colombia's own way: Grade 5 runs Colony → Independence → the people's movements (peasants, artisans, workers), with primary voices throughout — Santander against Bolívar in their own phrases, and a grandmother's 1918 arrival in Viotá as the model oral history.
+- Non-History parts named: Civics — norms, laws, the Constitution and the branches of power, printed pp. 58–77 (Unidad 3); ethnic-culture teaching in Unidad 4 is placed below where it carries history.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Guía 2B: Three great revolutions — story beats: three revolutions frame independence — the Rights of Man and of the Citizen are proclaimed, and the industrial revolution's inventions roll from the 1700s into the 1900s (History expansion, 2026-11-15; original placement slug: modern-world/the-industrial-revolution-what-changed-and-why-england-first) | Colombia, *Ciencias Sociales — Primera Cartilla, Grado Quinto, Escuela Nueva*, printed p. 23 |
+
+Colombia's own way (G5 Cartilla 1 (student book, Spanish)): Grade 5 runs Colony → Independence → the people's movements (peasants, artisans, workers), with primary voices throughout — Santander against Bolívar in their own phrases, and a grandmother's 1918 arrival in Viotá as the model oral history. That way is stocked here as the way Colombia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 11 countries (Ethiopia, Brazil, Costa Rica, Australia, Ecuador, Kuwait, Fiji, Montenegro, Dominican Republic, Palestine, Colombia).**
+
+Searchable tags: Colombia, The Industrial Revolution — what changed and why England first, modern-world, History expansion 2026-11-15

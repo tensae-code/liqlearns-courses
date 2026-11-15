@@ -1,6 +1,6 @@
 # Sources — The Renaissance — what it was
 
-countries: Ethiopia, Poland, Costa Rica, Australia, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Iran, Palestine
+countries: Ethiopia, Poland, Costa Rica, Australia, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Iran, Palestine, Colombia
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -229,3 +229,45 @@ Palestine's own way (Book 8 — G8 Social Studies Part 2, Grade 8 (student/teach
 **Acceptance count: taught in 11 countries (Ethiopia, Poland, Costa Rica, Australia, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Iran, Palestine).**
 
 Searchable tags: Palestine, The Renaissance — what it was, modern-world, History expansion 2026-11-15
+
+---
+
+## History expansion (2026-11-15) — Colombia stocked
+
+**Book 20 — Postprimaria G7 (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Grado 7, Postprimaria Rural (Sociales)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación Nacional / Fundación Manuel Mejía; year c.2010–2011; ISBN no ISBN printed in front matter seen
+- PDF pages: 238 (cover/title page verified against the record title; the PDF carries minor xref damage, text fully recoverable)
+- Verdict: COMPLETE
+- Tally: 14 placements — 10 to existing lessons, 4 NEW LESSON NEEDED
+- Colombia's own way: Grade 7 Postprimaria pairs every medieval system with its American twin — feudal production against colonial production, European monarchy against the government of the Indies, and protest in both worlds.
+- Non-History parts named: Geography — environment and territory in the societies of the 5th–15th centuries, Módulo 3 in large part.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Guía 18: Political expressions and citizen organisation — story beats: growing farm production and population revive cities as distribution centres, and the Renaissance period is characterised by the growth of cities and people (History expansion, 2026-11-15; original placement slug: modern-world/the-renaissance-what-it-was) | Colombia, *Ciencias Sociales — Grado 7, Postprimaria Rural (Sociales)*, printed p. 214 |
+
+Colombia's own way (Postprimaria G7 (student book, Spanish)): Grade 7 Postprimaria pairs every medieval system with its American twin — feudal production against colonial production, European monarchy against the government of the Indies, and protest in both worlds. That way is stocked here as the way Colombia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 21 — Secundaria Activa G7 (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Grado 7, Secundaria Activa (student module)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación Nacional (Aguirre Asesores update); year not printed in front matter seen; ISBN no ISBN printed in front matter seen
+- PDF pages: 248 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 14 placements — 11 to existing lessons, 3 NEW LESSON NEEDED
+- Colombia's own way: Grade 7 Secundaria Activa runs empires in Europe against empires in America, and closes the encounter with the chronicles' two visions and the debates they still provoke.
+- Non-History parts named: Geography — climate and climate change, physical and human geography of Europe and America, printed pp. 14–117 (Unidades 1–2).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Tema 19: The Renaissance and the era of discoveries — story beats: born in Italy, Renaissance thought glorifies this life — Leonardo da Vinci hunts the universe's secrets — Venetian merchants fund it, translated texts return, and royal backing renews nautical science and cartography (History expansion, 2026-11-15; original placement slug: modern-world/the-renaissance-what-it-was) | Colombia, *Ciencias Sociales — Grado 7, Secundaria Activa (student module)*, printed p. 171 |
+
+Colombia's own way (Secundaria Activa G7 (student book, Spanish)): Grade 7 Secundaria Activa runs empires in Europe against empires in America, and closes the encounter with the chronicles' two visions and the debates they still provoke. That way is stocked here as the way Colombia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 12 countries (Ethiopia, Poland, Costa Rica, Australia, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Iran, Palestine, Colombia).**
+
+Searchable tags: Colombia, The Renaissance — what it was, modern-world, History expansion 2026-11-15

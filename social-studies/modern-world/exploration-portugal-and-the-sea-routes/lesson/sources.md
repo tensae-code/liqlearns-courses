@@ -1,6 +1,6 @@
 # Sources — Exploration — Portugal and the sea routes to India
 
-countries: Ethiopia, Palestine, Nigeria, United States, Ecuador, Kuwait, Indonesia, Montenegro, Pakistan, Suriname, Cambodia
+countries: Ethiopia, Palestine, Nigeria, United States, Ecuador, Kuwait, Indonesia, Montenegro, Pakistan, Suriname, Cambodia, Colombia
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -220,3 +220,28 @@ Cambodia's own way (Book 9 — សិក្សាសង្គម ថ្នាក
 **Acceptance count: taught in 11 countries (Ethiopia, Palestine, Nigeria, United States, Ecuador, Kuwait, Indonesia, Montenegro, Pakistan, Suriname, Cambodia).**
 
 Searchable tags: Cambodia, Exploration — Portugal and the sea routes to India, modern-world, History expansion 2026-11-15
+
+---
+
+## History expansion (2026-11-15) — Colombia stocked
+
+**Book 10 — G4 Cartilla 1 (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Primera Cartilla, Grado Cuarto, Escuela Nueva
+- Grade: Grade 4 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación Nacional, Bogotá; year 2010 (adaptation Corpoeducación, Contrato 541 de 2009); ISBN no ISBN printed in front matter seen
+- PDF pages: 96 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 11 placements — 7 to existing lessons, 4 NEW LESSON NEEDED
+- Colombia's own way: Grade 4 is the first full national-history arc — human origins in Africa, first Americans, encounter told from both a sailor's letters and a Taíno girl's viewpoint, conquest read through the chroniclers' own interests, and the African legacy closing the book.
+- Non-History parts named: none — the whole book is History and ethnic-culture teaching (Unidad 4's rights content is Civics-framed, noted inside Guía 6).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Guía 4: Why is our continent called America? / The art of cartography — story beats: Vespucci, not Columbus, gives the continent its name; Balboa's Darién crossing, Ptolemy's world-without-America map and the advances that made the expeditions possible complete the picture (History expansion, 2026-11-15; original placement slug: modern-world/exploration-portugal-and-the-sea-routes) | Colombia, *Ciencias Sociales — Primera Cartilla, Grado Cuarto, Escuela Nueva*, printed p. 41 |
+
+Colombia's own way (G4 Cartilla 1 (student book, Spanish)): Grade 4 is the first full national-history arc — human origins in Africa, first Americans, encounter told from both a sailor's letters and a Taíno girl's viewpoint, conquest read through the chroniclers' own interests, and the African legacy closing the book. That way is stocked here as the way Colombia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 12 countries (Ethiopia, Palestine, Nigeria, United States, Ecuador, Kuwait, Indonesia, Montenegro, Pakistan, Suriname, Cambodia, Colombia).**
+
+Searchable tags: Colombia, Exploration — Portugal and the sea routes to India, modern-world, History expansion 2026-11-15

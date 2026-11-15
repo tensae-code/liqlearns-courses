@@ -1,6 +1,6 @@
 # Sources — Archaeology, palaeontology, anthropology — who studies prehistory
 
-countries: Ethiopia, Gambia, Turkey, Bangladesh, Australia, Bhutan, Eritrea, India, Finland, Dominican Republic, Iran, Suriname, Cambodia
+countries: Ethiopia, Gambia, Turkey, Bangladesh, Australia, Bhutan, Eritrea, India, Finland, Dominican Republic, Iran, Suriname, Cambodia, Colombia
 
 **Book 1:** *History, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, Addis Ababa, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-064-2, 210 printed pp. Printed page = PDF page − 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g09-student-placements.md
 
@@ -293,3 +293,28 @@ Cambodia's own way (Book 11 — សិក្សាសង្គម ថ្នា�
 **Acceptance count: taught in 13 countries (Ethiopia, Gambia, Turkey, Bangladesh, Australia, Bhutan, Eritrea, India, Finland, Dominican Republic, Iran, Suriname, Cambodia).**
 
 Searchable tags: Cambodia, Archaeology, palaeontology, anthropology — who studies prehistory, first-steps, History expansion 2026-11-15
+
+---
+
+## History expansion (2026-11-15) — Colombia stocked
+
+**Book 19 — Secundaria Activa G6 (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Grado 6, Secundaria Activa (student module)
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación Nacional (update by Aguirre Asesores); year not printed in front matter seen; ISBN no ISBN printed in front matter seen
+- PDF pages: 256 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 15 placements — 13 to existing lessons, 2 NEW LESSON NEEDED
+- Colombia's own way: Secundaria Activa Grade 6 is a full ancient-world course with Colombia woven in — Muisca skies, Tairona farming and Muisca politics sit beside Mesopotamia, China and Rome as equals.
+- Non-History parts named: Science/Geography — origin and composition of the universe, Earth's formation, water and air, printed pp. 14–59 (Unidad 1, Temas 1–6, in large part; the Aztec, Inca, Muisca and Kogi creation accounts inside Tema 1 are placed in Book 19's first placement note); Civics — building norms and human rights today, Tema 26 in part.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Unidad 2 / Tema 7–8: Origin and evolution of the human being — story beats: humanity's history is the longest and most complex story of all, and the Aztec sun-and-moon gods Tecuciztécatl and Nanahuatzin, the Inca universe and the Muisca and Kogi stars show each people's own account of beginnings (History expansion, 2026-11-15; original placement slug: first-steps/who-studies-prehistory) | Colombia, *Ciencias Sociales — Grado 6, Secundaria Activa (student module)*, printed p. 63 |
+
+Colombia's own way (Secundaria Activa G6 (student book, Spanish)): Secundaria Activa Grade 6 is a full ancient-world course with Colombia woven in — Muisca skies, Tairona farming and Muisca politics sit beside Mesopotamia, China and Rome as equals. That way is stocked here as the way Colombia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 14 countries (Ethiopia, Gambia, Turkey, Bangladesh, Australia, Bhutan, Eritrea, India, Finland, Dominican Republic, Iran, Suriname, Cambodia, Colombia).**
+
+Searchable tags: Colombia, Archaeology, palaeontology, anthropology — who studies prehistory, first-steps, History expansion 2026-11-15

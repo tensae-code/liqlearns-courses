@@ -1,6 +1,6 @@
 # Sources — Scientific Revolution and Enlightenment
 
-countries: Ethiopia, France, Costa Rica, Ecuador, Belarus, Montenegro, Dominican Republic, Pakistan
+countries: Ethiopia, France, Costa Rica, Ecuador, Belarus, Montenegro, Dominican Republic, Pakistan, Colombia
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -127,3 +127,28 @@ Searchable tags: Pakistan, Scientific Revolution and Enlightenment, modern-world
 Bolivia's own way (Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Secundaria Comunitaria Productiva, Área Ciencias Sociales, teacher guide): The teachers' compendium binds the whole six-year Ciencias Sociales course in one volume: teachers hold the full arc — Abya Yala's civilisations, colony, independence (with its revisionist debate and its women), oligarchic republic, Chaco, 1952, dictatorships, neoliberalism and the democratic-cultural revolution — framed throughout by decolonisation ("breaking the mental structures that think there are superior thoughts") and Vivir Bien. That way is stocked here as the way Bolivia teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 8 countries (Ethiopia, France, Costa Rica, Ecuador, Belarus, Montenegro, Dominican Republic, Pakistan) — unchanged; the Bolivia placement(s) above stand on the teacher compendium only, cited as evidence only, counted nowhere. Bolivia is not added to this lesson's countries line.**
+
+---
+
+## History expansion (2026-11-15) — Colombia stocked
+
+**Book 22 — Postprimaria G8 (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Grado 8, Postprimaria Rural (Sociales)
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación Nacional / Fundación Manuel Mejía; year c.2010–2011; ISBN no ISBN printed in front matter seen
+- PDF pages: 242 (cover/title page verified against the record title; minor xref damage, text fully recoverable)
+- Verdict: COMPLETE
+- Tally: 12 placements — 4 to existing lessons, 8 NEW LESSON NEEDED
+- Colombia's own way: Grade 8 Postprimaria is source-driven national history — every unit works through a PAF source-analysis sheet, from Enlightenment texts to Gaitán's speeches and the conservative version of the Bogotazo, letting rival sources argue.
+- Non-History parts named: Geography/Science — ecosystems of Colombia, environment and climate change, printed pp. 93–130 (Módulo 3); Civics — rights and duties under the 1991 Constitution, Guías 17–18 in large part.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Módulo 1 / Guía 1: The Enlightenment and its impact on Colombia's Political Constitution — story beats: Enlightenment ideas of legislative power belonging to the people alone are read in primary fragments and traced into Colombia's own constitution (History expansion, 2026-11-15; original placement slug: modern-world/scientific-revolution-and-enlightenment) | Colombia, *Ciencias Sociales — Grado 8, Postprimaria Rural (Sociales)*, printed p. 17 |
+
+Colombia's own way (Postprimaria G8 (student book, Spanish)): Grade 8 Postprimaria is source-driven national history — every unit works through a PAF source-analysis sheet, from Enlightenment texts to Gaitán's speeches and the conservative version of the Bogotazo, letting rival sources argue. That way is stocked here as the way Colombia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 9 countries (Ethiopia, France, Costa Rica, Ecuador, Belarus, Montenegro, Dominican Republic, Pakistan, Colombia).**
+
+Searchable tags: Colombia, Scientific Revolution and Enlightenment, modern-world, History expansion 2026-11-15

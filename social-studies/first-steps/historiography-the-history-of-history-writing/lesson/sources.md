@@ -1,6 +1,6 @@
 # Sources — Historiography — history of history-writing
 
-countries: Ethiopia, Gambia, Bangladesh, Ecuador, Indonesia, Dominican Republic, United Kingdom, Bolivia, Iran, Palestine
+countries: Ethiopia, Gambia, Bangladesh, Ecuador, Indonesia, Dominican Republic, United Kingdom, Bolivia, Iran, Palestine, Colombia
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -205,3 +205,27 @@ Palestine's own way (Book 5 — G7 Social Studies Part 1, Grade 7 (student/teach
 **Acceptance count: taught in 10 countries (Ethiopia, Gambia, Bangladesh, Ecuador, Indonesia, Dominican Republic, United Kingdom, Bolivia, Iran, Palestine).**
 
 Searchable tags: Palestine, Historiography — history of history-writing, first-steps, History expansion 2026-11-15
+
+---
+
+## History expansion (2026-11-15) — Colombia stocked
+
+**Book 16 — G5 Insertos Cartilla 01 (student booklet, Spanish)**
+- Title as printed: ¿Quién dijo qué? (matching game insert for Ciencias Sociales, Grado 5, Cartilla 1)
+- Grade: Grade 5 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación Nacional, Escuela Nueva; year not printed on the sheet; ISBN no ISBN printed
+- PDF pages: 1 (single large game sheet; image verified. NOTE: the books.json tree path "Insertos_sociales_05_Cartilla 01.pdf" returned 404; read via its TSV release asset "Insertos_sociales_05_Cartilla.01.pdf" — same library mismatch as Book 12)
+- Verdict: COMPLETE
+- Tally: 1 placements — 1 to existing lessons, 0 NEW LESSON NEEDED
+- Colombia's own way: Grade 5 history is reviewed by voice — eight speeches must be matched to their speakers, from a 1500s conqueror and the King of Spain to a 1928 United Fruit worker and Pablo Morillo of the Régimen del Terror.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — ¿Quién dijo qué? matching game — story beats: a conqueror who founded cities, a king advised by the Council of the Indies, an artisan of Bogotá's Democratic Society, a coffee colonist of Viejo Caldas, an ANUC peasant organiser, a workers' lawyer and Morillo himself each speak in first person, and the learner must know the history well enough to name the speaker (History expansion, 2026-11-15; original placement slug: first-steps/historiography-the-history-of-history-writing) | Colombia, *¿Quién dijo qué? (matching game insert for Ciencias Sociales, Grado 5, Cartilla 1)*, printed p. 1 |
+
+Colombia's own way (G5 Insertos Cartilla 01 (student booklet, Spanish)): Grade 5 history is reviewed by voice — eight speeches must be matched to their speakers, from a 1500s conqueror and the King of Spain to a 1928 United Fruit worker and Pablo Morillo of the Régimen del Terror. That way is stocked here as the way Colombia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 11 countries (Ethiopia, Gambia, Bangladesh, Ecuador, Indonesia, Dominican Republic, United Kingdom, Bolivia, Iran, Palestine, Colombia).**
+
+Searchable tags: Colombia, Historiography — history of history-writing, first-steps, History expansion 2026-11-15

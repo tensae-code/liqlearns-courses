@@ -1,6 +1,6 @@
 # Sources — The Industrial Revolution — its two stages
 
-countries: Ethiopia, Poland, Montenegro, Dominican Republic, Pakistan
+countries: Ethiopia, Poland, Montenegro, Dominican Republic, Pakistan, Colombia
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 132).
 
@@ -83,3 +83,28 @@ Searchable tags: Pakistan, The Industrial Revolution — its two stages, modern-
 Bolivia's own way (Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Secundaria Comunitaria Productiva, Área Ciencias Sociales, teacher guide): The teachers' compendium binds the whole six-year Ciencias Sociales course in one volume: teachers hold the full arc — Abya Yala's civilisations, colony, independence (with its revisionist debate and its women), oligarchic republic, Chaco, 1952, dictatorships, neoliberalism and the democratic-cultural revolution — framed throughout by decolonisation ("breaking the mental structures that think there are superior thoughts") and Vivir Bien. That way is stocked here as the way Bolivia teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 5 countries (Ethiopia, Poland, Montenegro, Dominican Republic, Pakistan) — unchanged; the Bolivia placement(s) above stand on the teacher compendium only, cited as evidence only, counted nowhere. Bolivia is not added to this lesson's countries line.**
+
+---
+
+## History expansion (2026-11-15) — Colombia stocked
+
+**Book 23 — Secundaria Activa G8 (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Grado 8, Secundaria Activa (student module)
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación Nacional (Aguirre Asesores update); year not printed in front matter seen; ISBN no ISBN printed in front matter seen
+- PDF pages: 283 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 13 placements — 6 to existing lessons, 7 NEW LESSON NEEDED
+- Colombia's own way: Grade 8 Secundaria Activa ends with a full unit, "Colombia in the 19th century — constitutions to order," where the state is rebuilt on paper again and again, down to its symbols and its washerwomen.
+- Non-History parts named: Geography — cartography, Asia and Africa physical and human geography, printed pp. 14–83 (Unidad 1).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Tema 14: The Industrial Revolution — story beats: machines enter textile production in the first phase, the bourgeois grows immensely richer, and the smoke-spitting train is blamed for the age's diseases and plagues (History expansion, 2026-11-15; original placement slug: modern-world/the-industrial-revolution-its-two-stages) | Colombia, *Ciencias Sociales — Grado 8, Secundaria Activa (student module)*, printed p. 163 |
+
+Colombia's own way (Secundaria Activa G8 (student book, Spanish)): Grade 8 Secundaria Activa ends with a full unit, "Colombia in the 19th century — constitutions to order," where the state is rebuilt on paper again and again, down to its symbols and its washerwomen. That way is stocked here as the way Colombia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 6 countries (Ethiopia, Poland, Montenegro, Dominican Republic, Pakistan, Colombia).**
+
+Searchable tags: Colombia, The Industrial Revolution — its two stages, modern-world, History expansion 2026-11-15

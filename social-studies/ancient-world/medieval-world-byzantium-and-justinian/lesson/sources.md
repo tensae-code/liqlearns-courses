@@ -1,6 +1,6 @@
 # Sources — Medieval world — Byzantium and Justinian
 
-countries: Ethiopia, France, Poland, Ecuador, Montenegro, Bulgaria
+countries: Ethiopia, France, Poland, Ecuador, Montenegro, Bulgaria, Colombia
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -109,3 +109,28 @@ Bulgaria's own way (Book 2 — История и цивилизации за ш�
 **Acceptance count: taught in 6 countries (Ethiopia, France, Poland, Ecuador, Montenegro, Bulgaria).**
 
 Searchable tags: Bulgaria, Medieval world — Byzantium and Justinian, ancient-world, History expansion 2026-11-15
+
+---
+
+## History expansion (2026-11-15) — Colombia stocked
+
+**Book 18 — Postprimaria G6 (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Grado 6, Postprimaria Rural (Sociales)
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación Nacional / Fundación Manuel Mejía; year c.2010–2011; ISBN no ISBN printed in front matter seen
+- PDF pages: 226 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 9 placements — 5 to existing lessons, 4 NEW LESSON NEEDED
+- Colombia's own way: Grade 6 Postprimaria teaches the past sideways — through the "pueblos originarios" of every continent, yesterday and today at once: Maya, Masai, Tibetans, Mapuche, Wayúu and Inuit are contemporaries with ancestors, not museum pieces.
+- Non-History parts named: Geography — territory, maps and resource use, Módulos 3–4 in large part; Civics — power, democracy, conflict resolution and citizen organisation, Módulos 5–6 in large part.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Módulo 5 / Guía 14: Political systems in original peoples / Justinian — story beats: among divine kingships and food-gatherer bands, Justinian stands as the law-giving emperor whose political thought ordered an empire (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-byzantium-and-justinian) | Colombia, *Ciencias Sociales — Grado 6, Postprimaria Rural (Sociales)*, printed p. 170 |
+
+Colombia's own way (Postprimaria G6 (student book, Spanish)): Grade 6 Postprimaria teaches the past sideways — through the "pueblos originarios" of every continent, yesterday and today at once: Maya, Masai, Tibetans, Mapuche, Wayúu and Inuit are contemporaries with ancestors, not museum pieces. That way is stocked here as the way Colombia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 7 countries (Ethiopia, France, Poland, Ecuador, Montenegro, Bulgaria, Colombia).**
+
+Searchable tags: Colombia, Medieval world — Byzantium and Justinian, ancient-world, History expansion 2026-11-15

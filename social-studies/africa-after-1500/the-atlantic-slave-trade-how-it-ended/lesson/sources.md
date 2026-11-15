@@ -1,6 +1,6 @@
 # Sources — The Atlantic slave trade — how it ended
 
-countries: Ethiopia, Angola
+countries: Ethiopia, Angola, Colombia
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -32,3 +32,28 @@ Searchable tags: abolition 1807, Equiano, Cugoano, Haiti 1791, Saint-Domingue, a
 Angola's own way (History expansion, 2026-11-15): A pupil in Angola learns African history as one rising arc — Africa as humanity's cradle, its ancient civilisations and great kingdoms, the slave-trade era, colonisation, and the liberation struggles — with Angola's own past carried inside the continental story rather than in a separate national book. That way is stocked here as the way Angola teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 2 countries (Ethiopia, Angola).**
+
+---
+
+## History expansion (2026-11-15) — Colombia stocked
+
+**Book 24 — Postprimaria G9 (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Grado 9, Postprimaria Rural (Sociales)
+- Grade: Grade 9 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación Nacional / Fundación Manuel Mejía; year c.2010–2011; ISBN no ISBN printed in front matter seen
+- PDF pages: 222 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 13 placements — 7 to existing lessons, 6 NEW LESSON NEEDED
+- Colombia's own way: Grade 9 Postprimaria frames the 20th century as "a century in the middle of war" and slavery as a whole-human-history arc, then lands both in rural Colombia — displacement, agrarian reform laws and peasant defence of territory.
+- Non-History parts named: Geography/Science — environment problems of the countryside, Guía 9; Civics — human-rights promotion in the rural context, Módulos 5–6 in large part.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Guía 5: The trade and its abolition — story beats: manufactured goods — textiles, arms, alcohol, trinkets — sail to West African factories and are exchanged for people; official abolition comes last to Arabia in 1962 and Mauritania in 1980 (History expansion, 2026-11-15; original placement slug: africa-after-1500/the-atlantic-slave-trade-how-it-ended) | Colombia, *Ciencias Sociales — Grado 9, Postprimaria Rural (Sociales)*, printed p. 58 |
+
+Colombia's own way (Postprimaria G9 (student book, Spanish)): Grade 9 Postprimaria frames the 20th century as "a century in the middle of war" and slavery as a whole-human-history arc, then lands both in rural Colombia — displacement, agrarian reform laws and peasant defence of territory. That way is stocked here as the way Colombia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 3 countries (Ethiopia, Angola, Colombia).**
+
+Searchable tags: Colombia, The Atlantic slave trade — how it ended, africa-after-1500, History expansion 2026-11-15

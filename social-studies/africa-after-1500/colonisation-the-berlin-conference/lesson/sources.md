@@ -1,6 +1,6 @@
 # Sources — Colonisation — the Berlin Conference
 
-countries: Ethiopia, Angola
+countries: Ethiopia, Angola, Colombia
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 5, placements 110–122).
 
@@ -52,3 +52,28 @@ This book is a teacher guide, not a pupil text. The part(s) below stand on it as
 Gabon's own way (Grade 5): the final primary year widens out — ancient Egypt, Greece and Rome first, then Gabon and Africa again (autochthones, Bantu, colonisation, Berlin, the two world wars) ending with the march to independence, told through Léon Mba's speech of 16 August 1960. That way is stocked here as the way Gabon teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 2 countries (Ethiopia, Angola) — unchanged; the Gabon placement(s) above are teacher-guide evidence only, counted nowhere. Gabon is not added to this lesson's countries line.**
+
+---
+
+## History expansion (2026-11-15) — Colombia stocked
+
+**Book 23 — Secundaria Activa G8 (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Grado 8, Secundaria Activa (student module)
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación Nacional (Aguirre Asesores update); year not printed in front matter seen; ISBN no ISBN printed in front matter seen
+- PDF pages: 283 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 13 placements — 6 to existing lessons, 7 NEW LESSON NEEDED
+- Colombia's own way: Grade 8 Secundaria Activa ends with a full unit, "Colombia in the 19th century — constitutions to order," where the state is rebuilt on paper again and again, down to its symbols and its washerwomen.
+- Non-History parts named: Geography — cartography, Asia and Africa physical and human geography, printed pp. 14–83 (Unidad 1).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Tema 16: Imperialism and the new colonialism — story beats: recently independent Latin America faces neocolonisation while the European powers colonise Africa — Italy taking part of the east coast — with forced labour, political domination and exploitation, and a violence against Africans that no wealth satisfies (History expansion, 2026-11-15; original placement slug: africa-after-1500/colonisation-the-berlin-conference) | Colombia, *Ciencias Sociales — Grado 8, Secundaria Activa (student module)*, printed p. 183 |
+
+Colombia's own way (Secundaria Activa G8 (student book, Spanish)): Grade 8 Secundaria Activa ends with a full unit, "Colombia in the 19th century — constitutions to order," where the state is rebuilt on paper again and again, down to its symbols and its washerwomen. That way is stocked here as the way Colombia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 3 countries (Ethiopia, Angola, Colombia).**
+
+Searchable tags: Colombia, Colonisation — the Berlin Conference, africa-after-1500, History expansion 2026-11-15

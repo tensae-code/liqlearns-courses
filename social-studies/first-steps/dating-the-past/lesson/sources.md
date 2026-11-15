@@ -1,6 +1,6 @@
 # Sources — Dating the past — calendars, timelines and periods
 
-countries: Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine
+countries: Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -586,3 +586,130 @@ Palestine's own way (Book 3 — G6 Social Studies Part 1, Grade 6 (student/teach
 **Acceptance count: taught in 24 countries (Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine).**
 
 Searchable tags: Palestine, Dating the past — calendars, timelines and periods, first-steps, History expansion 2026-11-15
+
+---
+
+## History expansion (2026-11-15) — Colombia stocked
+
+**Book 2 — G2 Cartilla 1 (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Primera Cartilla, Grado Segundo, Escuela Nueva
+- Grade: Grade 2 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación Nacional, Bogotá; year 2010 (adaptation Corpoeducación, Contrato 541 de 2009); ISBN no ISBN printed in front matter seen
+- PDF pages: 136 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 5 placements — 5 to existing lessons, 0 NEW LESSON NEEDED
+- Colombia's own way: The past is learned by interviewing elders and drawing the child's own timeline and family tree; the vereda (hamlet) road story makes community history a collective achievement.
+- Non-History parts named: Geography — environment, landscape, orientation, plans and maps, municipality location, printed pp. 99–131 (Unidad 3); Civics — rights and duties, groups, norms and municipal authorities, printed pp. 24–98 in large part.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Guía 1: You change with time / the time train — story beats: the child orders past, present and future on a "tren del tiempo" and sees their own body and character change as time passes (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Colombia, *Ciencias Sociales — Primera Cartilla, Grado Segundo, Escuela Nueva*, printed p. 17 |
+
+Colombia's own way (G2 Cartilla 1 (student book, Spanish)): The past is learned by interviewing elders and drawing the child's own timeline and family tree; the vereda (hamlet) road story makes community history a collective achievement. That way is stocked here as the way Colombia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 3 — G2 Cartilla 2 (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Segunda Cartilla, Grado Segundo, Escuela Nueva
+- Grade: Grade 2 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación Nacional, Bogotá; year c.2019 edition (Minister Angulo González front matter); ISBN no ISBN printed in front matter seen
+- PDF pages: 97 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 6 placements — 5 to existing lessons, 1 NEW LESSON NEEDED
+- Colombia's own way: A whole guide is devoted to "changes in my community through time" — houses, jobs, dress and food — and another to Colombia as Indigenous, Afro-Colombian, Rrom and mestizo at once; local history is done as reporting and a frieze.
+- Non-History parts named: Geography — geographic landscape, relief, coasts and climate, printed pp. 7–38 (Unidad 4, Guías 8–9).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Guía 10: Changes in my community through time / Housing through time — story beats: homes move from adobe and mud to brick and then to "intelligent" houses, so learners walk through time by walking through houses (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Colombia, *Ciencias Sociales — Segunda Cartilla, Grado Segundo, Escuela Nueva*, printed p. 50 |
+| Colombia part — Guía 10: Jobs and dress through time — story beats: the first groups fished, hunted and gathered, grandparents sewed and carried by hand, and new inventions create new professions; Roman dress (the toga) is the one world-history glimpse (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Colombia, *Ciencias Sociales — Segunda Cartilla, Grado Segundo, Escuela Nueva*, printed p. 53 |
+
+Colombia's own way (G2 Cartilla 2 (student book, Spanish)): A whole guide is devoted to "changes in my community through time" — houses, jobs, dress and food — and another to Colombia as Indigenous, Afro-Colombian, Rrom and mestizo at once; local history is done as reporting and a frieze. That way is stocked here as the way Colombia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 5 — G2 Insertos Cartilla 02 (student booklet, Spanish)**
+- Title as printed: Carrera Equina (board-game insert for Ciencias Sociales, Grado 2, Cartilla 2)
+- Grade: Grade 2 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación Nacional, Escuela Nueva; year not printed on the sheet; ISBN no ISBN printed
+- PDF pages: 1 (single large game sheet; image verified — companion insert for Cartilla 02)
+- Verdict: COMPLETE
+- Tally: 1 placements — 1 to existing lessons, 0 NEW LESSON NEEDED
+- Colombia's own way: The Grade 2 history is rehearsed as a horse-race quiz — its 20 questions are the book's own check on change, monuments and peoples.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Carrera Equina review questions 4–16 — story beats: players are asked how families, barrios and jobs have changed, whether Black communities endured over 300 years of slavery, and what the free enslaved people who fled to palenques in colonial times were called (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Colombia, *Carrera Equina (board-game insert for Ciencias Sociales, Grado 2, Cartilla 2)*, printed p. 1 |
+
+Colombia's own way (G2 Insertos Cartilla 02 (student booklet, Spanish)): The Grade 2 history is rehearsed as a horse-race quiz — its 20 questions are the book's own check on change, monuments and peoples. That way is stocked here as the way Colombia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 6 — G3 Cartilla 1 (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Primera Cartilla, Grado Tercero, Escuela Nueva
+- Grade: Grade 3 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación Nacional, Bogotá; year c.2019 edition; ISBN no ISBN printed in front matter seen
+- PDF pages: 89 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 3 placements — 3 to existing lessons, 0 NEW LESSON NEEDED
+- Colombia's own way: Grade 3 opens with a whole unit, "The river of time" — time is a river, the clock has a history, and the child's life-line and home-place questions are the first timeline work.
+- Non-History parts named: Geography — cardinal points, plans, maps of every kind, borders, Colombia and its departments, printed pp. 33–84 (Unidades 2–3).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Unidad 1 / Guía 1: How is time measured? — story beats: humans invent the notion of time to measure duration, then hours, weeks and months from the Sun's cycles, so measuring comes before dating (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Colombia, *Ciencias Sociales — Primera Cartilla, Grado Tercero, Escuela Nueva*, printed p. 10 |
+| Colombia part — Guía 2: The history of the clock / Juanito's timelines — story beats: clocks evolve until Galileo Galilei times a pendulum's swing, and children then order important events on a línea de tiempo and draw the line of their own life (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Colombia, *Ciencias Sociales — Primera Cartilla, Grado Tercero, Escuela Nueva*, printed p. 23 |
+
+Colombia's own way (G3 Cartilla 1 (student book, Spanish)): Grade 3 opens with a whole unit, "The river of time" — time is a river, the clock has a history, and the child's life-line and home-place questions are the first timeline work. That way is stocked here as the way Colombia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 7 — G3 Cartilla 2 (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Segunda Cartilla, Grado Tercero, Escuela Nueva
+- Grade: Grade 3 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación Nacional, Bogotá; year c.2019 edition; ISBN no ISBN printed in front matter seen
+- PDF pages: 88 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 3 placements — 2 to existing lessons, 1 NEW LESSON NEEDED
+- Colombia's own way: History-adjacent work is cultural — myths are named as traditional tales of gods and heroes, customs and traditions are collected into an album, and change itself ("How do things change?") is the closing question.
+- Non-History parts named: Civics — feelings and affection, living together, roles and norms, printed pp. 26–83 (Unidades 5–6).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Guía 6D: How do things change? — story beats: children ask neighbours and relatives who have lived elsewhere how things change, treating change over time and place as observable fact (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Colombia, *Ciencias Sociales — Segunda Cartilla, Grado Tercero, Escuela Nueva*, printed p. 17 |
+
+Colombia's own way (G3 Cartilla 2 (student book, Spanish)): History-adjacent work is cultural — myths are named as traditional tales of gods and heroes, customs and traditions are collected into an album, and change itself ("How do things change?") is the closing question. That way is stocked here as the way Colombia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 8 — G3 Insertos Cartilla 01 (student booklet, Spanish)**
+- Title as printed: El monopolio del Tiempo y el Espacio (board-game insert for Ciencias Sociales, Grado 3, Cartilla 1)
+- Grade: Grade 3 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación Nacional, Escuela Nueva; year not printed on the sheet; ISBN no ISBN printed
+- PDF pages: 1 (single large game sheet; image verified)
+- Verdict: COMPLETE
+- Tally: 1 placements — 1 to existing lessons, 0 NEW LESSON NEEDED
+- Colombia's own way: Time-and-space review is a monopoly-style board mixing clocks, compass and relief with one life-timeline question.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — El monopolio del Tiempo y el Espacio, squares 4 and 31 — story beats: players pick the oldest of three clocks and then order María's life on her timeline — first pregnant, house bought, or cows bought (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Colombia, *El monopolio del Tiempo y el Espacio (board-game insert for Ciencias Sociales, Grado 3, Cartilla 1)*, printed p. 1 |
+
+Colombia's own way (G3 Insertos Cartilla 01 (student booklet, Spanish)): Time-and-space review is a monopoly-style board mixing clocks, compass and relief with one life-timeline question. That way is stocked here as the way Colombia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 19 — Secundaria Activa G6 (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Grado 6, Secundaria Activa (student module)
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación Nacional (update by Aguirre Asesores); year not printed in front matter seen; ISBN no ISBN printed in front matter seen
+- PDF pages: 256 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 15 placements — 13 to existing lessons, 2 NEW LESSON NEEDED
+- Colombia's own way: Secundaria Activa Grade 6 is a full ancient-world course with Colombia woven in — Muisca skies, Tairona farming and Muisca politics sit beside Mesopotamia, China and Rome as equals.
+- Non-History parts named: Science/Geography — origin and composition of the universe, Earth's formation, water and air, printed pp. 14–59 (Unidad 1, Temas 1–6, in large part; the Aztec, Inca, Muisca and Kogi creation accounts inside Tema 1 are placed in Book 19's first placement note); Civics — building norms and human rights today, Tema 26 in part.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Tema 11: Historical periods and techniques of adaptation — story beats: prehistory is humanity's remotest age; with new techniques humans pass from a predatory to a productive economy and settled societies appear (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Colombia, *Ciencias Sociales — Grado 6, Secundaria Activa (student module)*, printed p. 95 |
+
+Colombia's own way (Secundaria Activa G6 (student book, Spanish)): Secundaria Activa Grade 6 is a full ancient-world course with Colombia woven in — Muisca skies, Tairona farming and Muisca politics sit beside Mesopotamia, China and Rome as equals. That way is stocked here as the way Colombia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 25 countries (Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia).**
+
+Searchable tags: Colombia, Dating the past — calendars, timelines and periods, first-steps, History expansion 2026-11-15

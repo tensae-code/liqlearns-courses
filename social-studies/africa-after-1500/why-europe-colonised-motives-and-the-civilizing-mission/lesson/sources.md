@@ -1,6 +1,6 @@
 # Sources — Why Europe colonised — motives and the civilizing-mission claim
 
-countries: Ethiopia, Rwanda, Costa Rica, Australia
+countries: Ethiopia, Rwanda, Costa Rica, Australia, Colombia
 
 **Book 1:** *History, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN 978-99990-0-065-9, printed by GRAVITY GROUP IND LLC, Sharjah, UAE. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g10-student-placements.md
 
@@ -92,3 +92,28 @@ Zimbabwe's own way (Grade 6): the motives are named from the colonised side, as 
 Bolivia's own way (Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Secundaria Comunitaria Productiva, Área Ciencias Sociales, teacher guide): The teachers' compendium binds the whole six-year Ciencias Sociales course in one volume: teachers hold the full arc — Abya Yala's civilisations, colony, independence (with its revisionist debate and its women), oligarchic republic, Chaco, 1952, dictatorships, neoliberalism and the democratic-cultural revolution — framed throughout by decolonisation ("breaking the mental structures that think there are superior thoughts") and Vivir Bien. That way is stocked here as the way Bolivia teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 4 countries (Ethiopia, Rwanda, Costa Rica, Australia) — unchanged; the Bolivia placement(s) above stand on the teacher compendium only, cited as evidence only, counted nowhere. Bolivia is not added to this lesson's countries line.**
+
+---
+
+## History expansion (2026-11-15) — Colombia stocked
+
+**Book 25 — Secundaria Activa G9 (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Grado 9, Secundaria Activa (student module)
+- Grade: Grade 9 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación Nacional (Aguirre Asesores update); year not printed in front matter seen; ISBN no ISBN printed in front matter seen
+- PDF pages: 287 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 19 placements — 7 to existing lessons, 12 NEW LESSON NEEDED
+- Colombia's own way: Grade 9 Secundaria Activa never teaches the world without Colombia inside it — the Depression is also Colombia's structural change, the Cold War is also Colombia's, and the banana workers' massacre of 1928 is told to the day.
+- Non-History parts named: Economics/Science — world economy from 1980 and Colombia's recent economic transformations, Temas 25/29 in large part; science, communication and society today, Tema 30.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Unidad 1 / Tema 1: Origin and development of imperialism — story beats: in the last decades of the 1800s and the first of the 1900s the great powers divide the world, and imperialism is distinguished from the older colonialism (History expansion, 2026-11-15; original placement slug: africa-after-1500/why-europe-colonised-motives-and-the-civilizing-mission) | Colombia, *Ciencias Sociales — Grado 9, Secundaria Activa (student module)*, printed p. 17 |
+
+Colombia's own way (Secundaria Activa G9 (student book, Spanish)): Grade 9 Secundaria Activa never teaches the world without Colombia inside it — the Depression is also Colombia's structural change, the Cold War is also Colombia's, and the banana workers' massacre of 1928 is told to the day. That way is stocked here as the way Colombia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 5 countries (Ethiopia, Rwanda, Costa Rica, Australia, Colombia).**
+
+Searchable tags: Colombia, Why Europe colonised — motives and the civilizing-mission claim, africa-after-1500, History expansion 2026-11-15

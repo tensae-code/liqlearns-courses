@@ -1,6 +1,6 @@
 # Sources — Africa after 1500 — slavery before the Atlantic trade
 
-countries: Ethiopia, Ecuador
+countries: Ethiopia, Ecuador, Colombia
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -61,3 +61,28 @@ Djibouti's own way: History is taught entirely as Africa's own story, organised 
 Ecuador's own way (Ecuador Grade 8 EC-G8): the Superior book abandons the national chronology for a thematic, work-centred reading of world and Latin American history — history-and-labour, class societies, revolutions, liberation — taught through stories like Queen Nanny and through Ecuador's own contemporary challenges. That way is stocked here as the way Ecuador teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 2 countries (Ethiopia, Ecuador).**
+
+---
+
+## History expansion (2026-11-15) — Colombia stocked
+
+**Book 24 — Postprimaria G9 (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Grado 9, Postprimaria Rural (Sociales)
+- Grade: Grade 9 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación Nacional / Fundación Manuel Mejía; year c.2010–2011; ISBN no ISBN printed in front matter seen
+- PDF pages: 222 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 13 placements — 7 to existing lessons, 6 NEW LESSON NEEDED
+- Colombia's own way: Grade 9 Postprimaria frames the 20th century as "a century in the middle of war" and slavery as a whole-human-history arc, then lands both in rural Colombia — displacement, agrarian reform laws and peasant defence of territory.
+- Non-History parts named: Geography/Science — environment problems of the countryside, Guía 9; Civics — human-rights promotion in the rural context, Módulos 5–6 in large part.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Guía 5: Slavery in the history of humanity — story beats: slavery is universal and ancient — in Antiquity and the Middle Ages the enslaved work fields and mines — before it becomes an Atlantic system (History expansion, 2026-11-15; original placement slug: africa-after-1500/slavery-before-the-atlantic-trade) | Colombia, *Ciencias Sociales — Grado 9, Postprimaria Rural (Sociales)*, printed p. 55 |
+
+Colombia's own way (Postprimaria G9 (student book, Spanish)): Grade 9 Postprimaria frames the 20th century as "a century in the middle of war" and slavery as a whole-human-history arc, then lands both in rural Colombia — displacement, agrarian reform laws and peasant defence of territory. That way is stocked here as the way Colombia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 3 countries (Ethiopia, Ecuador, Colombia).**
+
+Searchable tags: Colombia, Africa after 1500 — slavery before the Atlantic trade, africa-after-1500, History expansion 2026-11-15

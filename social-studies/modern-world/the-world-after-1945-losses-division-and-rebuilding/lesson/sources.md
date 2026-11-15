@@ -1,6 +1,6 @@
 # Sources — The world after 1945 — losses, division and rebuilding
 
-countries: Ethiopia, Kuwait, Montenegro, Pakistan, Iran, Cambodia
+countries: Ethiopia, Kuwait, Montenegro, Pakistan, Iran, Cambodia, Colombia
 
 **Book 1:** *History, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-067-3. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g12-student-placements.md
 
@@ -135,3 +135,45 @@ Cambodia's own way (Book 10 — សិក្សាសង្គម ថ្នា�
 **Acceptance count: taught in 6 countries (Ethiopia, Kuwait, Montenegro, Pakistan, Iran, Cambodia).**
 
 Searchable tags: Cambodia, The world after 1945 — losses, division and rebuilding, modern-world, History expansion 2026-11-15
+
+---
+
+## History expansion (2026-11-15) — Colombia stocked
+
+**Book 24 — Postprimaria G9 (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Grado 9, Postprimaria Rural (Sociales)
+- Grade: Grade 9 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación Nacional / Fundación Manuel Mejía; year c.2010–2011; ISBN no ISBN printed in front matter seen
+- PDF pages: 222 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 13 placements — 7 to existing lessons, 6 NEW LESSON NEEDED
+- Colombia's own way: Grade 9 Postprimaria frames the 20th century as "a century in the middle of war" and slavery as a whole-human-history arc, then lands both in rural Colombia — displacement, agrarian reform laws and peasant defence of territory.
+- Non-History parts named: Geography/Science — environment problems of the countryside, Guía 9; Civics — human-rights promotion in the rural context, Módulos 5–6 in large part.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Guía 4: Welfare state, Eastern Bloc, decolonisation and the Balkans — story beats: the welfare state provides health and education, the USSR builds an Eastern Bloc of occupied and satellite states, decolonisation in Asia and Africa follows the exhaustion of the metropolis–colony relation, and after the Cold War the Balkans become Europe's main war (History expansion, 2026-11-15; original placement slug: modern-world/the-world-after-1945-losses-division-and-rebuilding) | Colombia, *Ciencias Sociales — Grado 9, Postprimaria Rural (Sociales)*, printed p. 49 |
+
+Colombia's own way (Postprimaria G9 (student book, Spanish)): Grade 9 Postprimaria frames the 20th century as "a century in the middle of war" and slavery as a whole-human-history arc, then lands both in rural Colombia — displacement, agrarian reform laws and peasant defence of territory. That way is stocked here as the way Colombia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 25 — Secundaria Activa G9 (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Grado 9, Secundaria Activa (student module)
+- Grade: Grade 9 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación Nacional (Aguirre Asesores update); year not printed in front matter seen; ISBN no ISBN printed in front matter seen
+- PDF pages: 287 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 19 placements — 7 to existing lessons, 12 NEW LESSON NEEDED
+- Colombia's own way: Grade 9 Secundaria Activa never teaches the world without Colombia inside it — the Depression is also Colombia's structural change, the Cold War is also Colombia's, and the banana workers' massacre of 1928 is told to the day.
+- Non-History parts named: Economics/Science — world economy from 1980 and Colombia's recent economic transformations, Temas 25/29 in large part; science, communication and society today, Tema 30.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Tema 20: Decolonisation and international conflicts in the Cold War frame — story beats: Vietnam begins as a kind of national revolution, a ruler is overthrown mid-conflict, and the United States sinks into the war (History expansion, 2026-11-15; original placement slug: modern-world/the-world-after-1945-losses-division-and-rebuilding) | Colombia, *Ciencias Sociales — Grado 9, Secundaria Activa (student module)*, printed p. 178 |
+
+Colombia's own way (Secundaria Activa G9 (student book, Spanish)): Grade 9 Secundaria Activa never teaches the world without Colombia inside it — the Depression is also Colombia's structural change, the Cold War is also Colombia's, and the banana workers' massacre of 1928 is told to the day. That way is stocked here as the way Colombia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 7 countries (Ethiopia, Kuwait, Montenegro, Pakistan, Iran, Cambodia, Colombia).**
+
+Searchable tags: Colombia, The world after 1945 — losses, division and rebuilding, modern-world, History expansion 2026-11-15

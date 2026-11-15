@@ -1,6 +1,6 @@
 # Sources — 1789 — the French Revolution breaks out
 
-countries: Ethiopia, Poland, Costa Rica, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Cambodia, Palestine
+countries: Ethiopia, Poland, Costa Rica, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Cambodia, Palestine, Colombia
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under GEQIP-E, ISBN 978-99990-0-066-6. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -223,3 +223,45 @@ Palestine's own way (Book 8 — G8 Social Studies Part 2, Grade 8 (student/teach
 **Acceptance count: taught in 10 countries (Ethiopia, Poland, Costa Rica, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Cambodia, Palestine).**
 
 Searchable tags: Palestine, 1789 — the French Revolution breaks out, modern-world, History expansion 2026-11-15
+
+---
+
+## History expansion (2026-11-15) — Colombia stocked
+
+**Book 22 — Postprimaria G8 (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Grado 8, Postprimaria Rural (Sociales)
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación Nacional / Fundación Manuel Mejía; year c.2010–2011; ISBN no ISBN printed in front matter seen
+- PDF pages: 242 (cover/title page verified against the record title; minor xref damage, text fully recoverable)
+- Verdict: COMPLETE
+- Tally: 12 placements — 4 to existing lessons, 8 NEW LESSON NEEDED
+- Colombia's own way: Grade 8 Postprimaria is source-driven national history — every unit works through a PAF source-analysis sheet, from Enlightenment texts to Gaitán's speeches and the conservative version of the Bogotazo, letting rival sources argue.
+- Non-History parts named: Geography/Science — ecosystems of Colombia, environment and climate change, printed pp. 93–130 (Módulo 3); Civics — rights and duties under the 1991 Constitution, Guías 17–18 in large part.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Guía 2: The impact of the French Revolution in Colombia — story beats: revolution is first drawn, then read in fragments; the democratic state is set against the monarchic, and Lefebvre's claim that idealism was a real force in the Revolution is put to learners (History expansion, 2026-11-15; original placement slug: modern-world/the-french-revolution-breaks-out-1789) | Colombia, *Ciencias Sociales — Grado 8, Postprimaria Rural (Sociales)*, printed p. 27 |
+
+Colombia's own way (Postprimaria G8 (student book, Spanish)): Grade 8 Postprimaria is source-driven national history — every unit works through a PAF source-analysis sheet, from Enlightenment texts to Gaitán's speeches and the conservative version of the Bogotazo, letting rival sources argue. That way is stocked here as the way Colombia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 23 — Secundaria Activa G8 (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Grado 8, Secundaria Activa (student module)
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación Nacional (Aguirre Asesores update); year not printed in front matter seen; ISBN no ISBN printed in front matter seen
+- PDF pages: 283 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 13 placements — 6 to existing lessons, 7 NEW LESSON NEEDED
+- Colombia's own way: Grade 8 Secundaria Activa ends with a full unit, "Colombia in the 19th century — constitutions to order," where the state is rebuilt on paper again and again, down to its symbols and its washerwomen.
+- Non-History parts named: Geography — cartography, Asia and Africa physical and human geography, printed pp. 14–83 (Unidad 1).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Unidad 3 / Tema 12: The bourgeois revolutions — story beats: old French society's conflicts boil until on 14 July the Paris crowd storms the Bastille and frees its prisoners (History expansion, 2026-11-15; original placement slug: modern-world/the-french-revolution-breaks-out-1789) | Colombia, *Ciencias Sociales — Grado 8, Secundaria Activa (student module)*, printed p. 139 |
+
+Colombia's own way (Secundaria Activa G8 (student book, Spanish)): Grade 8 Secundaria Activa ends with a full unit, "Colombia in the 19th century — constitutions to order," where the state is rebuilt on paper again and again, down to its symbols and its washerwomen. That way is stocked here as the way Colombia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 11 countries (Ethiopia, Poland, Costa Rica, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Cambodia, Palestine, Colombia).**
+
+Searchable tags: Colombia, 1789 — the French Revolution breaks out, modern-world, History expansion 2026-11-15

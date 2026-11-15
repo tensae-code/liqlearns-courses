@@ -1,6 +1,6 @@
 # Sources — Heritage — what it is and why it matters
 
-countries: Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivia, Zimbabwe, Eritrea, Cambodia, Fiji, Slovenia, Syria, Mauritania, Jordan, Bhutan, Cuba, Greece, Nauru, Niue, Tuvalu, Saudi Arabia, Rwanda, Poland, Guatemala, Australia, Bahamas, Nepal, Belarus, Dominican Republic, Egypt, Pakistan, Iran, Suriname, Palestine
+countries: Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivia, Zimbabwe, Eritrea, Cambodia, Fiji, Slovenia, Syria, Mauritania, Jordan, Bhutan, Cuba, Greece, Nauru, Niue, Tuvalu, Saudi Arabia, Rwanda, Poland, Guatemala, Australia, Bahamas, Nepal, Belarus, Dominican Republic, Egypt, Pakistan, Iran, Suriname, Palestine, Colombia
 
 **Book 1:** *History, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, Addis Ababa, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-064-2, 210 printed pp. Printed page = PDF page − 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g09-student-placements.md
 
@@ -916,3 +916,62 @@ Palestine's own way (Book 10 — G9 Social Studies Part 2, Grade 9 (student/teac
 **Acceptance count: taught in 34 countries (Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivia, Zimbabwe, Eritrea, Cambodia, Fiji, Slovenia, Syria, Mauritania, Jordan, Bhutan, Cuba, Greece, Nauru, Niue, Tuvalu, Saudi Arabia, Rwanda, Poland, Guatemala, Australia, Bahamas, Nepal, Belarus, Dominican Republic, Egypt, Pakistan, Iran, Suriname, Palestine).**
 
 Searchable tags: Palestine, Heritage — what it is and why it matters, first-steps, History expansion 2026-11-15
+
+---
+
+## History expansion (2026-11-15) — Colombia stocked
+
+**Book 3 — G2 Cartilla 2 (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Segunda Cartilla, Grado Segundo, Escuela Nueva
+- Grade: Grade 2 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación Nacional, Bogotá; year c.2019 edition (Minister Angulo González front matter); ISBN no ISBN printed in front matter seen
+- PDF pages: 97 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 6 placements — 5 to existing lessons, 1 NEW LESSON NEEDED
+- Colombia's own way: A whole guide is devoted to "changes in my community through time" — houses, jobs, dress and food — and another to Colombia as Indigenous, Afro-Colombian, Rrom and mestizo at once; local history is done as reporting and a frieze.
+- Non-History parts named: Geography — geographic landscape, relief, coasts and climate, printed pp. 7–38 (Unidad 4, Guías 8–9).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Guía 10: Monuments tell stories — story beats: monuments are introduced as objects that narrate the past, and children research a chosen monument's history and design one for their own barrio (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Colombia, *Ciencias Sociales — Segunda Cartilla, Grado Segundo, Escuela Nueva*, printed p. 49 |
+
+Colombia's own way (G2 Cartilla 2 (student book, Spanish)): A whole guide is devoted to "changes in my community through time" — houses, jobs, dress and food — and another to Colombia as Indigenous, Afro-Colombian, Rrom and mestizo at once; local history is done as reporting and a frieze. That way is stocked here as the way Colombia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 7 — G3 Cartilla 2 (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Segunda Cartilla, Grado Tercero, Escuela Nueva
+- Grade: Grade 3 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación Nacional, Bogotá; year c.2019 edition; ISBN no ISBN printed in front matter seen
+- PDF pages: 88 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 3 placements — 2 to existing lessons, 1 NEW LESSON NEEDED
+- Colombia's own way: History-adjacent work is cultural — myths are named as traditional tales of gods and heroes, customs and traditions are collected into an album, and change itself ("How do things change?") is the closing question.
+- Non-History parts named: Civics — feelings and affection, living together, roles and norms, printed pp. 26–83 (Unidades 5–6).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Guía 6: Expressions of culture / Teach your culture — story beats: every group makes its own culture — knowledge, values, foods and traditions that give it identity — and each child must teach theirs to others (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Colombia, *Ciencias Sociales — Segunda Cartilla, Grado Tercero, Escuela Nueva*, printed p. 10 |
+
+Colombia's own way (G3 Cartilla 2 (student book, Spanish)): History-adjacent work is cultural — myths are named as traditional tales of gods and heroes, customs and traditions are collected into an album, and change itself ("How do things change?") is the closing question. That way is stocked here as the way Colombia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 20 — Postprimaria G7 (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Grado 7, Postprimaria Rural (Sociales)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación Nacional / Fundación Manuel Mejía; year c.2010–2011; ISBN no ISBN printed in front matter seen
+- PDF pages: 238 (cover/title page verified against the record title; the PDF carries minor xref damage, text fully recoverable)
+- Verdict: COMPLETE
+- Tally: 14 placements — 10 to existing lessons, 4 NEW LESSON NEEDED
+- Colombia's own way: Grade 7 Postprimaria pairs every medieval system with its American twin — feudal production against colonial production, European monarchy against the government of the Indies, and protest in both worlds.
+- Non-History parts named: Geography — environment and territory in the societies of the 5th–15th centuries, Módulo 3 in large part.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Guía 2: Cultural legacies that endure — story beats: myths interpreted the world in dualities of good and evil, and the African heritage is traced forward into the Colombian context (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Colombia, *Ciencias Sociales — Grado 7, Postprimaria Rural (Sociales)*, printed p. 26 |
+
+Colombia's own way (Postprimaria G7 (student book, Spanish)): Grade 7 Postprimaria pairs every medieval system with its American twin — feudal production against colonial production, European monarchy against the government of the Indies, and protest in both worlds. That way is stocked here as the way Colombia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 35 countries (Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivia, Zimbabwe, Eritrea, Cambodia, Fiji, Slovenia, Syria, Mauritania, Jordan, Bhutan, Cuba, Greece, Nauru, Niue, Tuvalu, Saudi Arabia, Rwanda, Poland, Guatemala, Australia, Bahamas, Nepal, Belarus, Dominican Republic, Egypt, Pakistan, Iran, Suriname, Palestine, Colombia).**
+
+Searchable tags: Colombia, Heritage — what it is and why it matters, first-steps, History expansion 2026-11-15

@@ -1,6 +1,6 @@
 # Sources — The Atlantic slave trade — why Africa
 
-countries: Ethiopia
+countries: Ethiopia, Colombia
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 5, placements 110–122).
 
@@ -32,3 +32,45 @@ This book is a teacher guide, not a pupil text. The part(s) below stand on it as
 Gabon's own way (Grade 4): the year runs as one long Gabon-centred arc — prehistory, the making of the Gabonese people, explorers and Brazza, the slave trade, French Congo/AÉF, resistance and decolonisation — each topic taught through documents in the pupil manual. That way is stocked here as the way Gabon teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 1 country (Ethiopia) — unchanged; the Gabon placement(s) above are teacher-guide evidence only, counted nowhere. Gabon is not added to this lesson's countries line.**
+
+---
+
+## History expansion (2026-11-15) — Colombia stocked
+
+**Book 10 — G4 Cartilla 1 (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Primera Cartilla, Grado Cuarto, Escuela Nueva
+- Grade: Grade 4 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación Nacional, Bogotá; year 2010 (adaptation Corpoeducación, Contrato 541 de 2009); ISBN no ISBN printed in front matter seen
+- PDF pages: 96 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 11 placements — 7 to existing lessons, 4 NEW LESSON NEEDED
+- Colombia's own way: Grade 4 is the first full national-history arc — human origins in Africa, first Americans, encounter told from both a sailor's letters and a Taíno girl's viewpoint, conquest read through the chroniclers' own interests, and the African legacy closing the book.
+- Non-History parts named: none — the whole book is History and ethnic-culture teaching (Unidad 4's rights content is Civics-framed, noted inside Guía 6).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Guía 7: The African legacy in America and in Colombia — story beats: enslaved Africans bring rites, songs, dances, gods and deep knowledge; the Laws of the Indies answer denunciations of abuse, the free flee and fortify palenques, and oral tradition, trees and drums carry the legacy — filed here as the Colombia telling of the Atlantic trade (see also Book 10 Guía 6 note below) (History expansion, 2026-11-15; original placement slug: africa-after-1500/the-atlantic-slave-trade-why-africa) | Colombia, *Ciencias Sociales — Primera Cartilla, Grado Cuarto, Escuela Nueva*, printed p. 75 |
+
+Colombia's own way (G4 Cartilla 1 (student book, Spanish)): Grade 4 is the first full national-history arc — human origins in Africa, first Americans, encounter told from both a sailor's letters and a Taíno girl's viewpoint, conquest read through the chroniclers' own interests, and the African legacy closing the book. That way is stocked here as the way Colombia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 20 — Postprimaria G7 (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Grado 7, Postprimaria Rural (Sociales)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación Nacional / Fundación Manuel Mejía; year c.2010–2011; ISBN no ISBN printed in front matter seen
+- PDF pages: 238 (cover/title page verified against the record title; the PDF carries minor xref damage, text fully recoverable)
+- Verdict: COMPLETE
+- Tally: 14 placements — 10 to existing lessons, 4 NEW LESSON NEEDED
+- Colombia's own way: Grade 7 Postprimaria pairs every medieval system with its American twin — feudal production against colonial production, European monarchy against the government of the Indies, and protest in both worlds.
+- Non-History parts named: Geography — environment and territory in the societies of the 5th–15th centuries, Módulo 3 in large part.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Módulo 6 / Guía 16: Conflicts in the societies of the 5th–15th centuries — story beats: Europe's geographic expansion over America revives the slave system to exploit its resources; at home the feudal lord's derecho de pernada abuses his serfs, Spain lives the Reconquista — 1492 is not only Columbus's year — and Caribe peoples resist in the Sierra Nevada and along the Magdalena (History expansion, 2026-11-15; original placement slug: africa-after-1500/the-atlantic-slave-trade-why-africa) | Colombia, *Ciencias Sociales — Grado 7, Postprimaria Rural (Sociales)*, printed p. 200 |
+
+Colombia's own way (Postprimaria G7 (student book, Spanish)): Grade 7 Postprimaria pairs every medieval system with its American twin — feudal production against colonial production, European monarchy against the government of the Indies, and protest in both worlds. That way is stocked here as the way Colombia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 2 countries (Ethiopia, Colombia).**
+
+Searchable tags: Colombia, The Atlantic slave trade — why Africa, africa-after-1500, History expansion 2026-11-15

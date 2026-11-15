@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — Rome
 
-countries: Ethiopia, Brazil, France, Poland, Turkey, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro, Dominican Republic, Egypt, Pakistan, Bolivia, Iran, Cambodia, Palestine
+countries: Ethiopia, Brazil, France, Poland, Turkey, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro, Dominican Republic, Egypt, Pakistan, Bolivia, Iran, Cambodia, Palestine, Colombia
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -344,3 +344,45 @@ Palestine's own way (Book 3 — G6 Social Studies Part 1, Grade 6 (student/teach
 **Acceptance count: taught in 18 countries (Ethiopia, Brazil, France, Poland, Turkey, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro, Dominican Republic, Egypt, Pakistan, Bolivia, Iran, Cambodia, Palestine).**
 
 Searchable tags: Palestine, Ancient civilisations — Rome, ancient-world, History expansion 2026-11-15
+
+---
+
+## History expansion (2026-11-15) — Colombia stocked
+
+**Book 19 — Secundaria Activa G6 (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Grado 6, Secundaria Activa (student module)
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación Nacional (update by Aguirre Asesores); year not printed in front matter seen; ISBN no ISBN printed in front matter seen
+- PDF pages: 256 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 15 placements — 13 to existing lessons, 2 NEW LESSON NEEDED
+- Colombia's own way: Secundaria Activa Grade 6 is a full ancient-world course with Colombia woven in — Muisca skies, Tairona farming and Muisca politics sit beside Mesopotamia, China and Rome as equals.
+- Non-History parts named: Science/Geography — origin and composition of the universe, Earth's formation, water and air, printed pp. 14–59 (Unidad 1, Temas 1–6, in large part; the Aztec, Inca, Muisca and Kogi creation accounts inside Tema 1 are placed in Book 19's first placement note); Civics — building norms and human rights today, Tema 26 in part.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Tema 22: Sacred and urban architecture — story beats: Kramer describes a typical Mesopotamian city, Rome founds cities across its world, and Babylon raises the Hanging Gardens on the Euphrates (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-rome) | Colombia, *Ciencias Sociales — Grado 6, Secundaria Activa (student module)*, printed p. 192 |
+
+Colombia's own way (Secundaria Activa G6 (student book, Spanish)): Secundaria Activa Grade 6 is a full ancient-world course with Colombia woven in — Muisca skies, Tairona farming and Muisca politics sit beside Mesopotamia, China and Rome as equals. That way is stocked here as the way Colombia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 21 — Secundaria Activa G7 (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Grado 7, Secundaria Activa (student module)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación Nacional (Aguirre Asesores update); year not printed in front matter seen; ISBN no ISBN printed in front matter seen
+- PDF pages: 248 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 14 placements — 11 to existing lessons, 3 NEW LESSON NEEDED
+- Colombia's own way: Grade 7 Secundaria Activa runs empires in Europe against empires in America, and closes the encounter with the chronicles' two visions and the debates they still provoke.
+- Non-History parts named: Geography — climate and climate change, physical and human geography of Europe and America, printed pp. 14–117 (Unidades 1–2).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Tema 13: Origins and consolidation of the Roman Empire — story beats: Rome is not built in a day — seven kings, then consuls; the Punic Wars break Carthage, Hannibal finds asylum in Syria, Caesar is murdered, the Second Triumvirate follows, and Augustus reforms the state and gives Roman law (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-rome) | Colombia, *Ciencias Sociales — Grado 7, Secundaria Activa (student module)*, printed p. 125 |
+
+Colombia's own way (Secundaria Activa G7 (student book, Spanish)): Grade 7 Secundaria Activa runs empires in Europe against empires in America, and closes the encounter with the chronicles' two visions and the debates they still provoke. That way is stocked here as the way Colombia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 19 countries (Ethiopia, Brazil, France, Poland, Turkey, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro, Dominican Republic, Egypt, Pakistan, Bolivia, Iran, Cambodia, Palestine, Colombia).**
+
+Searchable tags: Colombia, Ancient civilisations — Rome, ancient-world, History expansion 2026-11-15

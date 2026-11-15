@@ -1,6 +1,6 @@
 # Sources — Capitalism — private ownership, factories, new classes
 
-countries: Ethiopia, Brazil, Australia, Ecuador, Dominican Republic
+countries: Ethiopia, Brazil, Australia, Ecuador, Dominican Republic, Colombia
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -127,3 +127,28 @@ Dominican Republic's own way (Ciencias Sociales, Sexto Grado — Proyecto Libro 
 Dominican Republic's own way (Ciencias Sociales, Cuarto Grado de Secundaria — Proyecto Libro Abierto, Grade 10 (student/teacher: STUDENT)): secondary social studies is a straight world-history course — history as science, human origins, classical antiquity, feudalism, Europe's primacy, capitalism and the twentieth century's wars and revolutions — taught through primary/secondary source analysis. That way is stocked here as the way the Dominican Republic teaches this thing. Combined-subject note: this is a combined Ciencias Sociales book — only its History units are placed; its Geography and Civics units are named in the book entry above, not placed. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 5 countries (Ethiopia, Brazil, Australia, Ecuador, Dominican Republic).**
+
+---
+
+## History expansion (2026-11-15) — Colombia stocked
+
+**Book 24 — Postprimaria G9 (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Grado 9, Postprimaria Rural (Sociales)
+- Grade: Grade 9 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación Nacional / Fundación Manuel Mejía; year c.2010–2011; ISBN no ISBN printed in front matter seen
+- PDF pages: 222 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 13 placements — 7 to existing lessons, 6 NEW LESSON NEEDED
+- Colombia's own way: Grade 9 Postprimaria frames the 20th century as "a century in the middle of war" and slavery as a whole-human-history arc, then lands both in rural Colombia — displacement, agrarian reform laws and peasant defence of territory.
+- Non-History parts named: Geography/Science — environment problems of the countryside, Guía 9; Civics — human-rights promotion in the rural context, Módulos 5–6 in large part.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Módulo 1 / Guías 1–2: A world between capitalism and socialism / Capitalism and globalisation — story beats: two classroom camps, capitalists and socialists, are left open-mouthed by each other's cases as the world system itself is put on trial (History expansion, 2026-11-15; original placement slug: modern-world/capitalism-private-ownership-factories-new-classes) | Colombia, *Ciencias Sociales — Grado 9, Postprimaria Rural (Sociales)*, printed p. 15 |
+
+Colombia's own way (Postprimaria G9 (student book, Spanish)): Grade 9 Postprimaria frames the 20th century as "a century in the middle of war" and slavery as a whole-human-history arc, then lands both in rural Colombia — displacement, agrarian reform laws and peasant defence of territory. That way is stocked here as the way Colombia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 6 countries (Ethiopia, Brazil, Australia, Ecuador, Dominican Republic, Colombia).**
+
+Searchable tags: Colombia, Capitalism — private ownership, factories, new classes, modern-world, History expansion 2026-11-15

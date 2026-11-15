@@ -1,6 +1,6 @@
 # Sources — The Great Depression — 1929 and the world it broke
 
-countries: Ethiopia, United States, Costa Rica, Australia, Indonesia, United Kingdom, Suriname, Cambodia
+countries: Ethiopia, United States, Costa Rica, Australia, Indonesia, United Kingdom, Suriname, Cambodia, Colombia
 
 **Book 1:** *History, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN 978-99990-0-065-9. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g10-student-placements.md
 
@@ -178,3 +178,28 @@ Cambodia's own way (Book 5 — ប្រវត្តិវិទ្យា ថ្
 **Acceptance count: taught in 8 countries (Ethiopia, United States, Costa Rica, Australia, Indonesia, United Kingdom, Suriname, Cambodia).**
 
 Searchable tags: Cambodia, The Great Depression — 1929 and the world it broke, modern-world, History expansion 2026-11-15
+
+---
+
+## History expansion (2026-11-15) — Colombia stocked
+
+**Book 25 — Secundaria Activa G9 (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Grado 9, Secundaria Activa (student module)
+- Grade: Grade 9 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación Nacional (Aguirre Asesores update); year not printed in front matter seen; ISBN no ISBN printed in front matter seen
+- PDF pages: 287 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 19 placements — 7 to existing lessons, 12 NEW LESSON NEEDED
+- Colombia's own way: Grade 9 Secundaria Activa never teaches the world without Colombia inside it — the Depression is also Colombia's structural change, the Cold War is also Colombia's, and the banana workers' massacre of 1928 is told to the day.
+- Non-History parts named: Economics/Science — world economy from 1980 and Colombia's recent economic transformations, Temas 25/29 in large part; science, communication and society today, Tema 30.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Temas 11–12: The economic crisis of 29 in the United States / World crisis and structural change in Colombia — story beats: the crash crosses the world and forces Colombia's own structural change (History expansion, 2026-11-15; original placement slug: modern-world/the-great-depression-1929) | Colombia, *Ciencias Sociales — Grado 9, Secundaria Activa (student module)*, printed p. 98 |
+
+Colombia's own way (Secundaria Activa G9 (student book, Spanish)): Grade 9 Secundaria Activa never teaches the world without Colombia inside it — the Depression is also Colombia's structural change, the Cold War is also Colombia's, and the banana workers' massacre of 1928 is told to the day. That way is stocked here as the way Colombia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 9 countries (Ethiopia, United States, Costa Rica, Australia, Indonesia, United Kingdom, Suriname, Cambodia, Colombia).**
+
+Searchable tags: Colombia, The Great Depression — 1929 and the world it broke, modern-world, History expansion 2026-11-15

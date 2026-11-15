@@ -1,6 +1,6 @@
 # Sources — The Industrial Revolution — textiles, steam and rail
 
-countries: Ethiopia, France, Australia, Kuwait, Dominican Republic, Pakistan, Cambodia
+countries: Ethiopia, France, Australia, Kuwait, Dominican Republic, Pakistan, Cambodia, Colombia
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 131).
 
@@ -106,3 +106,28 @@ Cambodia's own way (Book 11 — សិក្សាសង្គម ថ្នា�
 **Acceptance count: taught in 7 countries (Ethiopia, France, Australia, Kuwait, Dominican Republic, Pakistan, Cambodia).**
 
 Searchable tags: Cambodia, The Industrial Revolution — textiles, steam and rail, modern-world, History expansion 2026-11-15
+
+---
+
+## History expansion (2026-11-15) — Colombia stocked
+
+**Book 22 — Postprimaria G8 (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Grado 8, Postprimaria Rural (Sociales)
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación Nacional / Fundación Manuel Mejía; year c.2010–2011; ISBN no ISBN printed in front matter seen
+- PDF pages: 242 (cover/title page verified against the record title; minor xref damage, text fully recoverable)
+- Verdict: COMPLETE
+- Tally: 12 placements — 4 to existing lessons, 8 NEW LESSON NEEDED
+- Colombia's own way: Grade 8 Postprimaria is source-driven national history — every unit works through a PAF source-analysis sheet, from Enlightenment texts to Gaitán's speeches and the conservative version of the Bogotazo, letting rival sources argue.
+- Non-History parts named: Geography/Science — ecosystems of Colombia, environment and climate change, printed pp. 93–130 (Módulo 3); Civics — rights and duties under the 1991 Constitution, Guías 17–18 in large part.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Guía 3: The Industrial Revolution — story beats: English industrialisation is preceded by 200 years of change; artisans petition that machines will ruin their livelihoods and a few rich businessmen will monopolise every trade (History expansion, 2026-11-15; original placement slug: modern-world/the-industrial-revolution-textiles-steam-and-rail) | Colombia, *Ciencias Sociales — Grado 8, Postprimaria Rural (Sociales)*, printed p. 36 |
+
+Colombia's own way (Postprimaria G8 (student book, Spanish)): Grade 8 Postprimaria is source-driven national history — every unit works through a PAF source-analysis sheet, from Enlightenment texts to Gaitán's speeches and the conservative version of the Bogotazo, letting rival sources argue. That way is stocked here as the way Colombia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 8 countries (Ethiopia, France, Australia, Kuwait, Dominican Republic, Pakistan, Cambodia, Colombia).**
+
+Searchable tags: Colombia, The Industrial Revolution — textiles, steam and rail, modern-world, History expansion 2026-11-15

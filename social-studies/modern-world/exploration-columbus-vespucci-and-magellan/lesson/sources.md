@@ -1,6 +1,6 @@
 # Sources — Exploration — Columbus, Vespucci and Magellan
 
-countries: Ethiopia, France, Guatemala, Micronesia, Ecuador, Bahamas, Kuwait, Montenegro, Dominican Republic, Egypt, Pakistan, Suriname
+countries: Ethiopia, France, Guatemala, Micronesia, Ecuador, Bahamas, Kuwait, Montenegro, Dominican Republic, Egypt, Pakistan, Suriname, Colombia
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 124).
 
@@ -213,3 +213,28 @@ Suriname's own way (Book 6 — Wij en ons verleden — Nieuwe Editie, 7, Grade 7
 Suriname's own way (Book 7 — Leerkrachtenboek — Wij en ons verleden, Nieuwe Editie, 7, Grade 7 (student/teacher: TEACHER)): The guide mirrors the student book's 8 themes and adds the full teaching apparatus: lesson goals per lesson, a didactic model with differentiation and 21st-century skills, copy sheets, and quarterly projects (wall newspaper, collage, researcher, object table; local-environment history, quartet card game, drama; museum visit, monument artwork, world map, timeline) — history is explicitly taught to form citizenship for Suriname, the Caricom community and the world. That way is stocked here as the way Suriname teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 12 countries (Ethiopia, France, Guatemala, Micronesia, Ecuador, Bahamas, Kuwait, Montenegro, Dominican Republic, Egypt, Pakistan, Suriname).**
+
+---
+
+## History expansion (2026-11-15) — Colombia stocked
+
+**Book 10 — G4 Cartilla 1 (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Primera Cartilla, Grado Cuarto, Escuela Nueva
+- Grade: Grade 4 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación Nacional, Bogotá; year 2010 (adaptation Corpoeducación, Contrato 541 de 2009); ISBN no ISBN printed in front matter seen
+- PDF pages: 96 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 11 placements — 7 to existing lessons, 4 NEW LESSON NEEDED
+- Colombia's own way: Grade 4 is the first full national-history arc — human origins in Africa, first Americans, encounter told from both a sailor's letters and a Taíno girl's viewpoint, conquest read through the chroniclers' own interests, and the African legacy closing the book.
+- Non-History parts named: none — the whole book is History and ethnic-culture teaching (Unidad 4's rights content is Civics-framed, noted inside Guía 6).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Guía 3: The Spanish arrived in America… / 12 October 1492 — story beats: after the Catholic reconquest of Spain from the Muslims drains the Crown, Columbus sails, makes four voyages still believing he is in Asia, and meets numerous Indigenous peoples (History expansion, 2026-11-15; original placement slug: modern-world/exploration-columbus-vespucci-and-magellan) | Colombia, *Ciencias Sociales — Primera Cartilla, Grado Cuarto, Escuela Nueva*, printed p. 30 |
+
+Colombia's own way (G4 Cartilla 1 (student book, Spanish)): Grade 4 is the first full national-history arc — human origins in Africa, first Americans, encounter told from both a sailor's letters and a Taíno girl's viewpoint, conquest read through the chroniclers' own interests, and the African legacy closing the book. That way is stocked here as the way Colombia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 13 countries (Ethiopia, France, Guatemala, Micronesia, Ecuador, Bahamas, Kuwait, Montenegro, Dominican Republic, Egypt, Pakistan, Suriname, Colombia).**
+
+Searchable tags: Colombia, Exploration — Columbus, Vespucci and Magellan, modern-world, History expansion 2026-11-15

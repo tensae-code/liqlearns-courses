@@ -1,6 +1,6 @@
 # Sources — From evidence to a written history
 
-countries: Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Bulgaria, Palestine
+countries: Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Bulgaria, Palestine, Colombia
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -850,3 +850,96 @@ Palestine's own way (Book 3 — G6 Social Studies Part 1, Grade 6 (student/teach
 **Acceptance count: taught in 27 countries (Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Bulgaria, Palestine).**
 
 Searchable tags: Palestine, From evidence to a written history, first-steps, History expansion 2026-11-15
+
+---
+
+## History expansion (2026-11-15) — Colombia stocked
+
+**Book 2 — G2 Cartilla 1 (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Primera Cartilla, Grado Segundo, Escuela Nueva
+- Grade: Grade 2 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación Nacional, Bogotá; year 2010 (adaptation Corpoeducación, Contrato 541 de 2009); ISBN no ISBN printed in front matter seen
+- PDF pages: 136 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 5 placements — 5 to existing lessons, 0 NEW LESSON NEEDED
+- Colombia's own way: The past is learned by interviewing elders and drawing the child's own timeline and family tree; the vereda (hamlet) road story makes community history a collective achievement.
+- Non-History parts named: Geography — environment, landscape, orientation, plans and maps, municipality location, printed pp. 99–131 (Unidad 3); Civics — rights and duties, groups, norms and municipal authorities, printed pp. 24–98 in large part.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Guía 4: Interview an elder — story beats: children interview an older relative or neighbour with a set guide, then share and compare what the elders remember (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Colombia, *Ciencias Sociales — Primera Cartilla, Grado Segundo, Escuela Nueva*, printed p. 65 |
+
+Colombia's own way (G2 Cartilla 1 (student book, Spanish)): The past is learned by interviewing elders and drawing the child's own timeline and family tree; the vereda (hamlet) road story makes community history a collective achievement. That way is stocked here as the way Colombia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 9 — G3 Insertos Cartilla 02 (student booklet, Spanish)**
+- Title as printed: Descifrando el Mensaje Secreto (puzzle insert for Ciencias Sociales, Grado 3, Cartilla 2)
+- Grade: Grade 3 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación Nacional, Escuela Nueva; year not printed on the sheet; ISBN no ISBN printed
+- PDF pages: 1 (single large puzzle sheet; image verified)
+- Verdict: COMPLETE
+- Tally: 1 placements — 1 to existing lessons, 0 NEW LESSON NEEDED
+- Colombia's own way: Learners play investigators who find an "ancient message" in an unknown script and must crack its key — source-decoding taught as detective work.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Descifrando el Mensaje Secreto — story beats: investigators find an old message in unknown symbols, answer culture questions to build the key, convert symbol by symbol, and only then can read what the past left them (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Colombia, *Descifrando el Mensaje Secreto (puzzle insert for Ciencias Sociales, Grado 3, Cartilla 2)*, printed p. 1 |
+
+Colombia's own way (G3 Insertos Cartilla 02 (student booklet, Spanish)): Learners play investigators who find an "ancient message" in an unknown script and must crack its key — source-decoding taught as detective work. That way is stocked here as the way Colombia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 10 — G4 Cartilla 1 (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Primera Cartilla, Grado Cuarto, Escuela Nueva
+- Grade: Grade 4 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación Nacional, Bogotá; year 2010 (adaptation Corpoeducación, Contrato 541 de 2009); ISBN no ISBN printed in front matter seen
+- PDF pages: 96 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 11 placements — 7 to existing lessons, 4 NEW LESSON NEEDED
+- Colombia's own way: Grade 4 is the first full national-history arc — human origins in Africa, first Americans, encounter told from both a sailor's letters and a Taíno girl's viewpoint, conquest read through the chroniclers' own interests, and the African legacy closing the book.
+- Non-History parts named: none — the whole book is History and ethnic-culture teaching (Unidad 4's rights content is Civics-framed, noted inside Guía 6).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Guía 5C–D: Historical-fiction game / Analysis of historical text fragments — story beats: learners invent a newspaper for a time before newspapers, then dissect four conquest chronicles to name each author's interest, and judge a manuscript account of Mexico's conquest (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Colombia, *Ciencias Sociales — Primera Cartilla, Grado Cuarto, Escuela Nueva*, printed p. 62 |
+
+Colombia's own way (G4 Cartilla 1 (student book, Spanish)): Grade 4 is the first full national-history arc — human origins in Africa, first Americans, encounter told from both a sailor's letters and a Taíno girl's viewpoint, conquest read through the chroniclers' own interests, and the African legacy closing the book. That way is stocked here as the way Colombia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 14 — G5 Cartilla 1 (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Primera Cartilla, Grado Quinto, Escuela Nueva
+- Grade: Grade 5 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación Nacional, Bogotá; year 2010 (adaptation Corpoeducación, Contrato 541 de 2009); ISBN no ISBN printed in front matter seen
+- PDF pages: 112 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 9 placements — 3 to existing lessons, 6 NEW LESSON NEEDED
+- Colombia's own way: Grade 5 runs Colony → Independence → the people's movements (peasants, artisans, workers), with primary voices throughout — Santander against Bolívar in their own phrases, and a grandmother's 1918 arrival in Viotá as the model oral history.
+- Non-History parts named: Civics — norms, laws, the Constitution and the branches of power, printed pp. 58–77 (Unidad 3); ethnic-culture teaching in Unidad 4 is placed below where it carries history.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Guía 2C: Interpret documents — story beats: learners compare two documents and set Santander's "laws will give you liberty" line of thought against Bolívar's sayings, judging independence from its leaders' own words (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Colombia, *Ciencias Sociales — Primera Cartilla, Grado Quinto, Escuela Nueva*, printed p. 32 |
+| Colombia part — Guía 4D: The history of the grandmothers — story beats: a grandmother arrives in Viotá, south-west of Bogotá, around 1918 from a small vereda, and learners must build interview questions and put them to two working women of their own region (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Colombia, *Ciencias Sociales — Primera Cartilla, Grado Quinto, Escuela Nueva*, printed p. 55 |
+
+Colombia's own way (G5 Cartilla 1 (student book, Spanish)): Grade 5 runs Colony → Independence → the people's movements (peasants, artisans, workers), with primary voices throughout — Santander against Bolívar in their own phrases, and a grandmother's 1918 arrival in Viotá as the model oral history. That way is stocked here as the way Colombia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 22 — Postprimaria G8 (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Grado 8, Postprimaria Rural (Sociales)
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación Nacional / Fundación Manuel Mejía; year c.2010–2011; ISBN no ISBN printed in front matter seen
+- PDF pages: 242 (cover/title page verified against the record title; minor xref damage, text fully recoverable)
+- Verdict: COMPLETE
+- Tally: 12 placements — 4 to existing lessons, 8 NEW LESSON NEEDED
+- Colombia's own way: Grade 8 Postprimaria is source-driven national history — every unit works through a PAF source-analysis sheet, from Enlightenment texts to Gaitán's speeches and the conservative version of the Bogotazo, letting rival sources argue.
+- Non-History parts named: Geography/Science — ecosystems of Colombia, environment and climate change, printed pp. 93–130 (Módulo 3); Civics — rights and duties under the 1991 Constitution, Guías 17–18 in large part.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Guía 1: Guidelines for reading and analysing sources (PAF) — story beats: before any history, learners get a method — identify the author, themes, dates and place of every source, and file a card for each (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Colombia, *Ciencias Sociales — Grado 8, Postprimaria Rural (Sociales)*, printed p. 20 |
+
+Colombia's own way (Postprimaria G8 (student book, Spanish)): Grade 8 Postprimaria is source-driven national history — every unit works through a PAF source-analysis sheet, from Enlightenment texts to Gaitán's speeches and the conservative version of the Bogotazo, letting rival sources argue. That way is stocked here as the way Colombia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 28 countries (Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Bulgaria, Palestine, Colombia).**
+
+Searchable tags: Colombia, From evidence to a written history, first-steps, History expansion 2026-11-15

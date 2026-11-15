@@ -1,6 +1,6 @@
 # Sources — The Second World War — causes
 
-countries: Ethiopia, Turkey, Costa Rica, Australia, Malaysia, Nepal, Fiji, Montenegro, Dominican Republic, Cambodia
+countries: Ethiopia, Turkey, Costa Rica, Australia, Malaysia, Nepal, Fiji, Montenegro, Dominican Republic, Cambodia, Colombia
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 136).
 
@@ -175,3 +175,45 @@ Cambodia's own way (Book 10 — សិក្សាសង្គម ថ្នា�
 **Acceptance count: taught in 10 countries (Ethiopia, Turkey, Costa Rica, Australia, Malaysia, Nepal, Fiji, Montenegro, Dominican Republic, Cambodia).**
 
 Searchable tags: Cambodia, The Second World War — causes, modern-world, History expansion 2026-11-15
+
+---
+
+## History expansion (2026-11-15) — Colombia stocked
+
+**Book 24 — Postprimaria G9 (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Grado 9, Postprimaria Rural (Sociales)
+- Grade: Grade 9 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación Nacional / Fundación Manuel Mejía; year c.2010–2011; ISBN no ISBN printed in front matter seen
+- PDF pages: 222 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 13 placements — 7 to existing lessons, 6 NEW LESSON NEEDED
+- Colombia's own way: Grade 9 Postprimaria frames the 20th century as "a century in the middle of war" and slavery as a whole-human-history arc, then lands both in rural Colombia — displacement, agrarian reform laws and peasant defence of territory.
+- Non-History parts named: Geography/Science — environment problems of the countryside, Guía 9; Civics — human-rights promotion in the rural context, Módulos 5–6 in large part.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Guía 4: The interwar period and the Second World War (1939–1945) — story beats: the happy twenties give way to a global military conflict, and a survivor's testimony insists the signs were meant to prove Jews, Gypsies and Slavs were cattle, refuse, filth (History expansion, 2026-11-15; original placement slug: modern-world/the-second-world-war-causes) | Colombia, *Ciencias Sociales — Grado 9, Postprimaria Rural (Sociales)*, printed p. 47 |
+
+Colombia's own way (Postprimaria G9 (student book, Spanish)): Grade 9 Postprimaria frames the 20th century as "a century in the middle of war" and slavery as a whole-human-history arc, then lands both in rural Colombia — displacement, agrarian reform laws and peasant defence of territory. That way is stocked here as the way Colombia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 25 — Secundaria Activa G9 (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Grado 9, Secundaria Activa (student module)
+- Grade: Grade 9 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación Nacional (Aguirre Asesores update); year not printed in front matter seen; ISBN no ISBN printed in front matter seen
+- PDF pages: 287 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 19 placements — 7 to existing lessons, 12 NEW LESSON NEEDED
+- Colombia's own way: Grade 9 Secundaria Activa never teaches the world without Colombia inside it — the Depression is also Colombia's structural change, the Cold War is also Colombia's, and the banana workers' massacre of 1928 is told to the day.
+- Non-History parts named: Economics/Science — world economy from 1980 and Colombia's recent economic transformations, Temas 25/29 in large part; science, communication and society today, Tema 30.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Unidad 2 / Tema 13: Antecedents and development of the Second World War — story beats: the war's antecedents are assembled before its development is followed (History expansion, 2026-11-15; original placement slug: modern-world/the-second-world-war-causes) | Colombia, *Ciencias Sociales — Grado 9, Secundaria Activa (student module)*, printed p. 119 |
+
+Colombia's own way (Secundaria Activa G9 (student book, Spanish)): Grade 9 Secundaria Activa never teaches the world without Colombia inside it — the Depression is also Colombia's structural change, the Cold War is also Colombia's, and the banana workers' massacre of 1928 is told to the day. That way is stocked here as the way Colombia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 11 countries (Ethiopia, Turkey, Costa Rica, Australia, Malaysia, Nepal, Fiji, Montenegro, Dominican Republic, Cambodia, Colombia).**
+
+Searchable tags: Colombia, The Second World War — causes, modern-world, History expansion 2026-11-15

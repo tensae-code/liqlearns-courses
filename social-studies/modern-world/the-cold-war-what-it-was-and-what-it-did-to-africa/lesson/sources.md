@@ -1,6 +1,6 @@
 # Sources — The Cold War — what it was and what it did to Africa
 
-countries: Ethiopia, Turkey, Costa Rica, Australia, Ecuador, Indonesia, Bolivia, Cambodia
+countries: Ethiopia, Turkey, Costa Rica, Australia, Ecuador, Indonesia, Bolivia, Cambodia, Colombia
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 139).
 
@@ -176,3 +176,28 @@ Cambodia's own way (Book 5 — ប្រវត្តិវិទ្យា ថ្
 **Acceptance count: taught in 8 countries (Ethiopia, Turkey, Costa Rica, Australia, Ecuador, Indonesia, Bolivia, Cambodia).**
 
 Searchable tags: Cambodia, The Cold War — what it was and what it did to Africa, modern-world, History expansion 2026-11-15
+
+---
+
+## History expansion (2026-11-15) — Colombia stocked
+
+**Book 25 — Secundaria Activa G9 (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Grado 9, Secundaria Activa (student module)
+- Grade: Grade 9 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación Nacional (Aguirre Asesores update); year not printed in front matter seen; ISBN no ISBN printed in front matter seen
+- PDF pages: 287 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 19 placements — 7 to existing lessons, 12 NEW LESSON NEEDED
+- Colombia's own way: Grade 9 Secundaria Activa never teaches the world without Colombia inside it — the Depression is also Colombia's structural change, the Cold War is also Colombia's, and the banana workers' massacre of 1928 is told to the day.
+- Non-History parts named: Economics/Science — world economy from 1980 and Colombia's recent economic transformations, Temas 25/29 in large part; science, communication and society today, Tema 30.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Unidad 3 / Tema 19: The Cold War — story beats: the Second World War's end sets a new international order of two armed camps, and learners are asked whether nuclear weapons guarantee anything (History expansion, 2026-11-15; original placement slug: modern-world/the-cold-war-what-it-was-and-what-it-did-to-africa) | Colombia, *Ciencias Sociales — Grado 9, Secundaria Activa (student module)*, printed p. 171 |
+
+Colombia's own way (Secundaria Activa G9 (student book, Spanish)): Grade 9 Secundaria Activa never teaches the world without Colombia inside it — the Depression is also Colombia's structural change, the Cold War is also Colombia's, and the banana workers' massacre of 1928 is told to the day. That way is stocked here as the way Colombia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 9 countries (Ethiopia, Turkey, Costa Rica, Australia, Ecuador, Indonesia, Bolivia, Cambodia, Colombia).**
+
+Searchable tags: Colombia, The Cold War — what it was and what it did to Africa, modern-world, History expansion 2026-11-15

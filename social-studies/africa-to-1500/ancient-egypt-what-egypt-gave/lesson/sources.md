@@ -1,6 +1,6 @@
 # Sources — Ancient Egypt — What Egypt Gave
 
-countries: Ethiopia, Australia, Egypt, Pakistan, Syria, Palestine
+countries: Ethiopia, Australia, Egypt, Pakistan, Syria, Palestine, Colombia
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (placement 82).
 
@@ -116,3 +116,28 @@ Palestine's own way (Book 3 — G6 Social Studies Part 1, Grade 6 (student/teach
 **Acceptance count: taught in 6 countries (Ethiopia, Australia, Egypt, Pakistan, Syria, Palestine).**
 
 Searchable tags: Palestine, Ancient Egypt — What Egypt Gave, africa-to-1500, History expansion 2026-11-15
+
+---
+
+## History expansion (2026-11-15) — Colombia stocked
+
+**Book 19 — Secundaria Activa G6 (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Grado 6, Secundaria Activa (student module)
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación Nacional (update by Aguirre Asesores); year not printed in front matter seen; ISBN no ISBN printed in front matter seen
+- PDF pages: 256 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 15 placements — 13 to existing lessons, 2 NEW LESSON NEEDED
+- Colombia's own way: Secundaria Activa Grade 6 is a full ancient-world course with Colombia woven in — Muisca skies, Tairona farming and Muisca politics sit beside Mesopotamia, China and Rome as equals.
+- Non-History parts named: Science/Geography — origin and composition of the universe, Earth's formation, water and air, printed pp. 14–59 (Unidad 1, Temas 1–6, in large part; the Aztec, Inca, Muisca and Kogi creation accounts inside Tema 1 are placed in Book 19's first placement note); Civics — building norms and human rights today, Tema 26 in part.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Tema 23: Legacies of the ancient peoples — story beats: Egypt's pyramids need stone blocks hauled to place and its medicine knows the body's organs; ancient India's gifts and Indigenous America's — Maya learning and Inca organisation — complete the inheritance (History expansion, 2026-11-15; original placement slug: africa-to-1500/ancient-egypt-what-egypt-gave) | Colombia, *Ciencias Sociales — Grado 6, Secundaria Activa (student module)*, printed p. 209 |
+
+Colombia's own way (Secundaria Activa G6 (student book, Spanish)): Secundaria Activa Grade 6 is a full ancient-world course with Colombia woven in — Muisca skies, Tairona farming and Muisca politics sit beside Mesopotamia, China and Rome as equals. That way is stocked here as the way Colombia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 7 countries (Ethiopia, Australia, Egypt, Pakistan, Syria, Palestine, Colombia).**
+
+Searchable tags: Colombia, Ancient Egypt — What Egypt Gave, africa-to-1500, History expansion 2026-11-15

@@ -1,6 +1,6 @@
 # Sources — Comparing states: how kingdoms hold together
 
-countries: Ethiopia, Bangladesh, Nigeria, Micronesia, Cyprus, Syria
+countries: Ethiopia, Bangladesh, Nigeria, Micronesia, Cyprus, Syria, Colombia
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -121,3 +121,29 @@ Syria's own way (التاريخ — الصف السابع الأساسي (Histor
 Syria's own way (كتاب التاريخ — سورية الحضارة — الصف الثامن الأساسي (History Book — Syria the Civilisation, Grade 8), Grade 8 (student/teacher: STUDENT)): the medieval centuries are told as Syria's own story inside the Arab state — liberation wars, the Damascus-centred state, its administration, the Crusader and Mongol assaults — then the same thematic lens as Grade 7 (society, economy, thought) turned on the Islamic-era civilisation. That way is stocked here as the way Syria teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 6 countries (Ethiopia, Bangladesh, Nigeria, Micronesia, Cyprus, Syria).**
+
+---
+
+## History expansion (2026-11-15) — Colombia stocked
+
+**Book 21 — Secundaria Activa G7 (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Grado 7, Secundaria Activa (student module)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación Nacional (Aguirre Asesores update); year not printed in front matter seen; ISBN no ISBN printed in front matter seen
+- PDF pages: 248 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 14 placements — 11 to existing lessons, 3 NEW LESSON NEEDED
+- Colombia's own way: Grade 7 Secundaria Activa runs empires in Europe against empires in America, and closes the encounter with the chronicles' two visions and the debates they still provoke.
+- Non-History parts named: Geography — climate and climate change, physical and human geography of Europe and America, printed pp. 14–117 (Unidades 1–2).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Unidad 3 / Tema 12: Characteristics of empires — story beats: the first empires grow from demography and nature's riches, and Felipe II of Spain (1527–1598) is the modern example held up for comparison (History expansion, 2026-11-15; original placement slug: first-steps/comparing-states-how-kingdoms-hold-together) | Colombia, *Ciencias Sociales — Grado 7, Secundaria Activa (student module)*, printed p. 120 |
+| Colombia part — Tema 26: Differences and similarities in America and Europe — story beats: the two worlds' societies are set side by side to close the unit, comparing how each organised power and life (History expansion, 2026-11-15; original placement slug: first-steps/comparing-states-how-kingdoms-hold-together) | Colombia, *Ciencias Sociales — Grado 7, Secundaria Activa (student module)*, printed p. 229 |
+
+Colombia's own way (Secundaria Activa G7 (student book, Spanish)): Grade 7 Secundaria Activa runs empires in Europe against empires in America, and closes the encounter with the chronicles' two visions and the debates they still provoke. That way is stocked here as the way Colombia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 7 countries (Ethiopia, Bangladesh, Nigeria, Micronesia, Cyprus, Syria, Colombia).**
+
+Searchable tags: Colombia, Comparing states: how kingdoms hold together, first-steps, History expansion 2026-11-15

@@ -1,6 +1,6 @@
 # Sources — The Maya
 
-countries: Ethiopia, Guatemala, Costa Rica, Ecuador, Egypt, Bolivia, Suriname, Cambodia
+countries: Ethiopia, Guatemala, Costa Rica, Ecuador, Egypt, Bolivia, Suriname, Cambodia, Colombia
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -193,3 +193,44 @@ Cambodia's own way (Book 8 — សិក្សាសង្គម ថ្នាក
 **Acceptance count: taught in 8 countries (Ethiopia, Guatemala, Costa Rica, Ecuador, Egypt, Bolivia, Suriname, Cambodia).**
 
 Searchable tags: Cambodia, The Maya, ancient-world, History expansion 2026-11-15
+
+---
+
+## History expansion (2026-11-15) — Colombia stocked
+
+**Book 12 — G4 Insertos Cartilla 01 (student booklet, Spanish)**
+- Title as printed: Empresa Conquistadora (board-game insert for Ciencias Sociales, Grado 4, Cartilla 1)
+- Grade: Grade 4 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación Nacional, Escuela Nueva; year not printed on the sheet; ISBN no ISBN printed
+- PDF pages: 1 (single large game sheet; image verified. NOTE: the books.json tree path "Insertos_sociales_04_Cartilla 01.pdf" returned 404; the book was read via its TSV release asset "Insertos_sociales_04_Cartilla.01.pdf" — a library record mismatch, see log debts)
+- Verdict: COMPLETE
+- Tally: 2 placements — 1 to existing lessons, 1 NEW LESSON NEEDED
+- Colombia's own way: The conquest is replayed as a board route that starts on the African rock — first humans, fire and tools — sails past Maya, Aztec, Tayrona and Muisca panels, and ends in Spain, with 17 questions spanning the slave trade, Tordesillas and the palenques.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Empresa Conquistadora, board panels and questions 1–17 — story beats: the Maya and Aztecs built enormous empires that were disappearing with the Spanish arrival, leaving only direct Maya descendants; the game's questions then run the whole conquest — why Africans were captured, who backed Columbus, what the Taíno called San Salvador, and which treaty split the world (History expansion, 2026-11-15; original placement slug: ancient-world/the-maya) | Colombia, *Empresa Conquistadora (board-game insert for Ciencias Sociales, Grado 4, Cartilla 1)*, printed p. 1 |
+
+Colombia's own way (G4 Insertos Cartilla 01 (student booklet, Spanish)): The conquest is replayed as a board route that starts on the African rock — first humans, fire and tools — sails past Maya, Aztec, Tayrona and Muisca panels, and ends in Spain, with 17 questions spanning the slave trade, Tordesillas and the palenques. That way is stocked here as the way Colombia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 18 — Postprimaria G6 (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Grado 6, Postprimaria Rural (Sociales)
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación Nacional / Fundación Manuel Mejía; year c.2010–2011; ISBN no ISBN printed in front matter seen
+- PDF pages: 226 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 9 placements — 5 to existing lessons, 4 NEW LESSON NEEDED
+- Colombia's own way: Grade 6 Postprimaria teaches the past sideways — through the "pueblos originarios" of every continent, yesterday and today at once: Maya, Masai, Tibetans, Mapuche, Wayúu and Inuit are contemporaries with ancestors, not museum pieces.
+- Non-History parts named: Geography — territory, maps and resource use, Módulos 3–4 in large part; Civics — power, democracy, conflict resolution and citizen organisation, Módulos 5–6 in large part.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Módulo 1 / Guía 2: The Maya of yesterday and today — story beats: Maya communities still speak their languages and live by family customs inherited from the ancestors who built a writing system and a calendar (History expansion, 2026-11-15; original placement slug: ancient-world/the-maya) | Colombia, *Ciencias Sociales — Grado 6, Postprimaria Rural (Sociales)*, printed p. 25 |
+
+Colombia's own way (Postprimaria G6 (student book, Spanish)): Grade 6 Postprimaria teaches the past sideways — through the "pueblos originarios" of every continent, yesterday and today at once: Maya, Masai, Tibetans, Mapuche, Wayúu and Inuit are contemporaries with ancestors, not museum pieces. That way is stocked here as the way Colombia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 9 countries (Ethiopia, Guatemala, Costa Rica, Ecuador, Egypt, Bolivia, Suriname, Cambodia, Colombia).**
+
+Searchable tags: Colombia, The Maya, ancient-world, History expansion 2026-11-15

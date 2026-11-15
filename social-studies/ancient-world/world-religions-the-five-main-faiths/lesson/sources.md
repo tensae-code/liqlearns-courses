@@ -1,6 +1,6 @@
 # Sources — World religions — the five main faiths
 
-countries: Ethiopia, Bhutan, Cyprus, India
+countries: Ethiopia, Bhutan, Cyprus, India, Colombia
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 6, placements 92–106).
 
@@ -57,3 +57,28 @@ Cyprus's own way (Grade 4): the island's whole ancient story is told through two
 India's own way (Our Pasts-I, Grade 6): NCERT teaches history as a story journey — every chapter opens with a present-day child (Rasheeda, Tushar, Jaspal…) whose question starts the chapter, primary sources are quoted in boxes (the Rigveda dialogue, Ashoka's own inscription, Fa Xian, Banabhatta), an "Elsewhere" box sets India beside the wider world each chapter, and kings are taught alongside ordinary people — farmers, fishers, weavers, slaves — with the book's title itself plural: Our Pasts, because different groups lived different pasts. That way is stocked here as the way India teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 4 countries (Ethiopia, Bhutan, Cyprus, India).**
+
+---
+
+## History expansion (2026-11-15) — Colombia stocked
+
+**Book 18 — Postprimaria G6 (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Grado 6, Postprimaria Rural (Sociales)
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación Nacional / Fundación Manuel Mejía; year c.2010–2011; ISBN no ISBN printed in front matter seen
+- PDF pages: 226 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 9 placements — 5 to existing lessons, 4 NEW LESSON NEEDED
+- Colombia's own way: Grade 6 Postprimaria teaches the past sideways — through the "pueblos originarios" of every continent, yesterday and today at once: Maya, Masai, Tibetans, Mapuche, Wayúu and Inuit are contemporaries with ancestors, not museum pieces.
+- Non-History parts named: Geography — territory, maps and resource use, Módulos 3–4 in large part; Civics — power, democracy, conflict resolution and citizen organisation, Módulos 5–6 in large part.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Módulo 2 / Guía 4: Beliefs, myths and religions — story beats: origin myths carry each people's religion — Ganesha in India, African values and symbolism, Celt and Norman beliefs in Europe, and Ru, Tangaroa and Tane creating Oceania's world (History expansion, 2026-11-15; original placement slug: ancient-world/world-religions-the-five-main-faiths) | Colombia, *Ciencias Sociales — Grado 6, Postprimaria Rural (Sociales)*, printed p. 51 |
+
+Colombia's own way (Postprimaria G6 (student book, Spanish)): Grade 6 Postprimaria teaches the past sideways — through the "pueblos originarios" of every continent, yesterday and today at once: Maya, Masai, Tibetans, Mapuche, Wayúu and Inuit are contemporaries with ancestors, not museum pieces. That way is stocked here as the way Colombia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 5 countries (Ethiopia, Bhutan, Cyprus, India, Colombia).**
+
+Searchable tags: Colombia, World religions — the five main faiths, ancient-world, History expansion 2026-11-15

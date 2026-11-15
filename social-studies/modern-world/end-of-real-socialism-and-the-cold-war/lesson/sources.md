@@ -1,6 +1,6 @@
 # Sources — The end of 'real socialism' and the Cold War
 
-countries: Costa Rica, Dominican Republic, Bolivia
+countries: Costa Rica, Dominican Republic, Bolivia, Colombia
 
 **Book (Costa Rica cr-coned-10):** Title as printed: Antología CONED — Estudios Sociales, Código 80023, Nivel Décimo año Grade: Grade 10 (student/teacher: STUDENT) Publisher: Universidad Estatal a Distancia (UNED) / Colegio Nacional de Educación a Distancia (CONED); year 2017 file; no ISBN printed PDF pages: 255 (cover verified against the record title; byte size 11,879,619 and page count match the record. Route note: the books.json tree path returned HTTP 404, so the book was grabbed via its TSV release asset in mid-size-books-5, matched exactly) Verdict: COMPLETE Tally: 13 placements — 6 to existing lessons, 7 NEW LESSON NEEDED Costa Rica's own way: The Décimo anthology is world history with a geopolitical lens — imperialism, the two world wars, the Russian revolution, the Depression, the bipolar Cold War world and today's multipolar tensions — read from Costa Rica outward to Latin America and the globe. Non-History parts (named, not placed): Unidad 3 Dinámica poblacional y movilización espacial (population dynamics in the 20th–21st centuries, Costa Rican population change, internal and international mobility, printed pp. 198–254 — Geography/demography). Placements at liqlearns-courses-work/expansion-history-2026-11-15/costa-rica-placements.md.
 
@@ -40,3 +40,28 @@ Dominican Republic's own way (Ciencias Sociales, Cuarto Grado de Secundaria — 
 Bolivia's own way (Texto de Aprendizaje — Ciencias Sociales, 6to Año de Educación Secundaria Comunitaria Productiva, student book): Secundaria 6's held portion runs the world story (Second World War, Cold War, decolonisation) straight into Bolivia's own: the 1952 National Revolution is the hinge — mines nationalised, agrarian reform, universal vote — then dictatorships, neoliberal capitalización, the Gas War and the 2020 democratic recovery. That way is stocked here as the way Bolivia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 3 countries (Costa Rica, Dominican Republic, Bolivia).**
+
+---
+
+## History expansion (2026-11-15) — Colombia stocked
+
+**Book 25 — Secundaria Activa G9 (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Grado 9, Secundaria Activa (student module)
+- Grade: Grade 9 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación Nacional (Aguirre Asesores update); year not printed in front matter seen; ISBN no ISBN printed in front matter seen
+- PDF pages: 287 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 19 placements — 7 to existing lessons, 12 NEW LESSON NEEDED
+- Colombia's own way: Grade 9 Secundaria Activa never teaches the world without Colombia inside it — the Depression is also Colombia's structural change, the Cold War is also Colombia's, and the banana workers' massacre of 1928 is told to the day.
+- Non-History parts named: Economics/Science — world economy from 1980 and Colombia's recent economic transformations, Temas 25/29 in large part; science, communication and society today, Tema 30.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Unidad 4 / Tema 26: A conflictive world — story beats: the old USSR was a great set of diverse peoples — Orthodox Russia, Ukraine and Moldova among them — and its unravelling, Berlin Wall and all, remakes the world from 1989 (History expansion, 2026-11-15; original placement slug: modern-world/1989-berlin-wall-and-the-ussr-dissolution) | Colombia, *Ciencias Sociales — Grado 9, Secundaria Activa (student module)*, printed p. 228 |
+
+Colombia's own way (Secundaria Activa G9 (student book, Spanish)): Grade 9 Secundaria Activa never teaches the world without Colombia inside it — the Depression is also Colombia's structural change, the Cold War is also Colombia's, and the banana workers' massacre of 1928 is told to the day. That way is stocked here as the way Colombia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 4 countries (Costa Rica, Dominican Republic, Bolivia, Colombia).**
+
+Searchable tags: Colombia, The end of 'real socialism' and the Cold War, modern-world, History expansion 2026-11-15

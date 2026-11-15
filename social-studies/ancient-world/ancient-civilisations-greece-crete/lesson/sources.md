@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — Greece: Crete
 
-countries: Ethiopia, France, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro, Dominican Republic, Egypt, Bolivia, Iran, Cambodia
+countries: Ethiopia, France, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro, Dominican Republic, Egypt, Bolivia, Iran, Cambodia, Colombia
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 6, placements 92–106).
 
@@ -296,3 +296,28 @@ Cambodia's own way (Book 8 — សិក្សាសង្គម ថ្នាក
 **Acceptance count: taught in 15 countries (Ethiopia, France, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro, Dominican Republic, Egypt, Bolivia, Iran, Cambodia).**
 
 Searchable tags: Cambodia, Ancient civilisations — Greece: Crete, ancient-world, History expansion 2026-11-15
+
+---
+
+## History expansion (2026-11-15) — Colombia stocked
+
+**Book 19 — Secundaria Activa G6 (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Grado 6, Secundaria Activa (student module)
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación Nacional (update by Aguirre Asesores); year not printed in front matter seen; ISBN no ISBN printed in front matter seen
+- PDF pages: 256 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 15 placements — 13 to existing lessons, 2 NEW LESSON NEEDED
+- Colombia's own way: Secundaria Activa Grade 6 is a full ancient-world course with Colombia woven in — Muisca skies, Tairona farming and Muisca politics sit beside Mesopotamia, China and Rome as equals.
+- Non-History parts named: Science/Geography — origin and composition of the universe, Earth's formation, water and air, printed pp. 14–59 (Unidad 1, Temas 1–6, in large part; the Aztec, Inca, Muisca and Kogi creation accounts inside Tema 1 are placed in Book 19's first placement note); Civics — building norms and human rights today, Tema 26 in part.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Tema 20: Expansion and weakening of the first empires — story beats: monarchies triumph over the Greek polis, and at Philip of Macedon's death his son Alexander builds an empire that also transforms Greece (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-greece-crete) | Colombia, *Ciencias Sociales — Grado 6, Secundaria Activa (student module)*, printed p. 177 |
+
+Colombia's own way (Secundaria Activa G6 (student book, Spanish)): Secundaria Activa Grade 6 is a full ancient-world course with Colombia woven in — Muisca skies, Tairona farming and Muisca politics sit beside Mesopotamia, China and Rome as equals. That way is stocked here as the way Colombia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 16 countries (Ethiopia, France, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro, Dominican Republic, Egypt, Bolivia, Iran, Cambodia, Colombia).**
+
+Searchable tags: Colombia, Ancient civilisations — Greece: Crete, ancient-world, History expansion 2026-11-15

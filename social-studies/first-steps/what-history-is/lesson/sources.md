@@ -1,6 +1,6 @@
 # Sources — What history is
 
-countries: Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Cambodia, Palestine
+countries: Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Cambodia, Palestine, Colombia
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -651,3 +651,45 @@ Palestine's own way (Book 3 — G6 Social Studies Part 1, Grade 6 (student/teach
 **Acceptance count: taught in 30 countries (Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Cambodia, Palestine).**
 
 Searchable tags: Palestine, What history is, first-steps, History expansion 2026-11-15
+
+---
+
+## History expansion (2026-11-15) — Colombia stocked
+
+**Book 1 — G1 Fichas (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Fichas, Grado 1, Modelo Educativo Escuela Nueva
+- Grade: Grade 1 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación Nacional, Bogotá; year 2010; ISBN libro 978-958-8712-02-4 (obra 978-958-33-3362-0)
+- PDF pages: 22 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 2 placements — 2 to existing lessons, 0 NEW LESSON NEEDED
+- Colombia's own way: History begins as the child's own story — body, character, family and neighbours — before any national past; change over time is introduced through family and region.
+- Non-History parts named: Geography — my region, landscape and caring for nature, printed pp. 13–18 (Guía 3 in part); Civics — family, care, neighbours and occupations, printed pp. 8–15.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Guía 1–2: Who am I? / What is the family? — story beats: Alejo and Mariana ask who they are and how their families differ, so the past starts with the child's own life (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Colombia, *Ciencias Sociales — Fichas, Grado 1, Modelo Educativo Escuela Nueva*, printed p. 1 |
+
+Colombia's own way (G1 Fichas (student book, Spanish)): History begins as the child's own story — body, character, family and neighbours — before any national past; change over time is introduced through family and region. That way is stocked here as the way Colombia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 2 — G2 Cartilla 1 (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Primera Cartilla, Grado Segundo, Escuela Nueva
+- Grade: Grade 2 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación Nacional, Bogotá; year 2010 (adaptation Corpoeducación, Contrato 541 de 2009); ISBN no ISBN printed in front matter seen
+- PDF pages: 136 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 5 placements — 5 to existing lessons, 0 NEW LESSON NEEDED
+- Colombia's own way: The past is learned by interviewing elders and drawing the child's own timeline and family tree; the vereda (hamlet) road story makes community history a collective achievement.
+- Non-History parts named: Geography — environment, landscape, orientation, plans and maps, municipality location, printed pp. 99–131 (Unidad 3); Civics — rights and duties, groups, norms and municipal authorities, printed pp. 24–98 in large part.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Guía 3: Families before and now / My family tree — story beats: families are compared then and now and each child builds an árbol genealógico, turning kinship into a first family history (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Colombia, *Ciencias Sociales — Primera Cartilla, Grado Segundo, Escuela Nueva*, printed p. 45 |
+
+Colombia's own way (G2 Cartilla 1 (student book, Spanish)): The past is learned by interviewing elders and drawing the child's own timeline and family tree; the vereda (hamlet) road story makes community history a collective achievement. That way is stocked here as the way Colombia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 31 countries (Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Cambodia, Palestine, Colombia).**
+
+Searchable tags: Colombia, What history is, first-steps, History expansion 2026-11-15

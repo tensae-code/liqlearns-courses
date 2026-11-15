@@ -1,6 +1,6 @@
 # Sources — The rise and expansion of Islam
 
-countries: Ethiopia, Saudi Arabia, Gambia, Turkey, Costa Rica, Malaysia, Ecuador, Kuwait, India, Montenegro, Egypt, Pakistan, Syria, Iran, Bulgaria, Palestine
+countries: Ethiopia, Saudi Arabia, Gambia, Turkey, Costa Rica, Malaysia, Ecuador, Kuwait, India, Montenegro, Egypt, Pakistan, Syria, Iran, Bulgaria, Palestine, Colombia
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under GEQIP-E, ISBN 978-99990-0-066-6. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -406,3 +406,29 @@ Palestine's own way (Book 6 — G7 Social Studies Part 2, Grade 7 (student/teach
 **Acceptance count: taught in 16 countries (Ethiopia, Saudi Arabia, Gambia, Turkey, Costa Rica, Malaysia, Ecuador, Kuwait, India, Montenegro, Egypt, Pakistan, Syria, Iran, Bulgaria, Palestine).**
 
 Searchable tags: Palestine, The rise and expansion of Islam, ancient-world, History expansion 2026-11-15
+
+---
+
+## History expansion (2026-11-15) — Colombia stocked
+
+**Book 20 — Postprimaria G7 (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Grado 7, Postprimaria Rural (Sociales)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación Nacional / Fundación Manuel Mejía; year c.2010–2011; ISBN no ISBN printed in front matter seen
+- PDF pages: 238 (cover/title page verified against the record title; the PDF carries minor xref damage, text fully recoverable)
+- Verdict: COMPLETE
+- Tally: 14 placements — 10 to existing lessons, 4 NEW LESSON NEEDED
+- Colombia's own way: Grade 7 Postprimaria pairs every medieval system with its American twin — feudal production against colonial production, European monarchy against the government of the Indies, and protest in both worlds.
+- Non-History parts named: Geography — environment and territory in the societies of the 5th–15th centuries, Módulo 3 in large part.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Módulo 2 / Guía 4: Religious traditions in the societies of the 5th–15th centuries — story beats: Christianity and Islam both expand by conquest to convert distant peoples to creeds held universal and true, and Catholicism is then carried to America by missionary priests, some of whom confront the conquerors (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Colombia, *Ciencias Sociales — Grado 7, Postprimaria Rural (Sociales)*, printed p. 57 |
+| Colombia part — Guía 5: Technological knowledge of yesterday and today — story beats: the Islamic world advances science and technology, navigation improves, and cartographic progress underpins the explorations that begin in the mid-1400s (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Colombia, *Ciencias Sociales — Grado 7, Postprimaria Rural (Sociales)*, printed p. 66 |
+
+Colombia's own way (Postprimaria G7 (student book, Spanish)): Grade 7 Postprimaria pairs every medieval system with its American twin — feudal production against colonial production, European monarchy against the government of the Indies, and protest in both worlds. That way is stocked here as the way Colombia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 17 countries (Ethiopia, Saudi Arabia, Gambia, Turkey, Costa Rica, Malaysia, Ecuador, Kuwait, India, Montenegro, Egypt, Pakistan, Syria, Iran, Bulgaria, Palestine, Colombia).**
+
+Searchable tags: Colombia, The rise and expansion of Islam, ancient-world, History expansion 2026-11-15

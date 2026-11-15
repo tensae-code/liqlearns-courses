@@ -1,6 +1,6 @@
 # Sources — From stone tools to farming — the Neolithic Revolution
 
-countries: Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus, Fiji, Dominican Republic, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine
+countries: Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus, Fiji, Dominican Republic, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -495,3 +495,28 @@ Palestine's own way (Book 2 — G5 Social Studies Part 2, Grade 5 (student/teach
 **Acceptance count: taught in 22 countries (Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus, Fiji, Dominican Republic, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine).**
 
 Searchable tags: Palestine, From stone tools to farming — the Neolithic Revolution, africa-to-1500, History expansion 2026-11-15
+
+---
+
+## History expansion (2026-11-15) — Colombia stocked
+
+**Book 10 — G4 Cartilla 1 (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Primera Cartilla, Grado Cuarto, Escuela Nueva
+- Grade: Grade 4 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación Nacional, Bogotá; year 2010 (adaptation Corpoeducación, Contrato 541 de 2009); ISBN no ISBN printed in front matter seen
+- PDF pages: 96 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 11 placements — 7 to existing lessons, 4 NEW LESSON NEEDED
+- Colombia's own way: Grade 4 is the first full national-history arc — human origins in Africa, first Americans, encounter told from both a sailor's letters and a Taíno girl's viewpoint, conquest read through the chroniclers' own interests, and the African legacy closing the book.
+- Non-History parts named: none — the whole book is History and ethnic-culture teaching (Unidad 4's rights content is Civics-framed, noted inside Guía 6).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Guía 1–2: First tools / The first nomads in Colombia — story beats: stone struck on stone makes the first tools; in Colombia nomad fishers are followed, thousands of years later, by potters and gardeners on the Atlantic coast, known only from archaeological finds (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Colombia, *Ciencias Sociales — Primera Cartilla, Grado Cuarto, Escuela Nueva*, printed p. 14 |
+
+Colombia's own way (G4 Cartilla 1 (student book, Spanish)): Grade 4 is the first full national-history arc — human origins in Africa, first Americans, encounter told from both a sailor's letters and a Taíno girl's viewpoint, conquest read through the chroniclers' own interests, and the African legacy closing the book. That way is stocked here as the way Colombia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 23 countries (Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus, Fiji, Dominican Republic, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia).**
+
+Searchable tags: Colombia, From stone tools to farming — the Neolithic Revolution, africa-to-1500, History expansion 2026-11-15

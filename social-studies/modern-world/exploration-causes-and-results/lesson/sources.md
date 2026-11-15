@@ -1,6 +1,6 @@
 # Sources — Exploration — causes and results
 
-countries: Ethiopia, United States, Guatemala, Costa Rica, Kuwait, Fiji, Indonesia, Montenegro, Dominican Republic, Suriname, Palestine
+countries: Ethiopia, United States, Guatemala, Costa Rica, Kuwait, Fiji, Indonesia, Montenegro, Dominican Republic, Suriname, Palestine, Colombia
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 125).
 
@@ -226,3 +226,46 @@ Palestine's own way (Book 8 — G8 Social Studies Part 2, Grade 8 (student/teach
 **Acceptance count: taught in 11 countries (Ethiopia, United States, Guatemala, Costa Rica, Kuwait, Fiji, Indonesia, Montenegro, Dominican Republic, Suriname, Palestine).**
 
 Searchable tags: Palestine, Exploration — causes and results, modern-world, History expansion 2026-11-15
+
+---
+
+## History expansion (2026-11-15) — Colombia stocked
+
+**Book 10 — G4 Cartilla 1 (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Primera Cartilla, Grado Cuarto, Escuela Nueva
+- Grade: Grade 4 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación Nacional, Bogotá; year 2010 (adaptation Corpoeducación, Contrato 541 de 2009); ISBN no ISBN printed in front matter seen
+- PDF pages: 96 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 11 placements — 7 to existing lessons, 4 NEW LESSON NEEDED
+- Colombia's own way: Grade 4 is the first full national-history arc — human origins in Africa, first Americans, encounter told from both a sailor's letters and a Taíno girl's viewpoint, conquest read through the chroniclers' own interests, and the African legacy closing the book.
+- Non-History parts named: none — the whole book is History and ethnic-culture teaching (Unidad 4's rights content is Civics-framed, noted inside Guía 6).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Guía 3C–D: New worlds and hidden worlds / Imagine you are a Taíno Indigenous girl — story beats: learners write letters home as one of Columbus's sailors, then retell the arrival as a Taíno girl watching the foreigner's impact (History expansion, 2026-11-15; original placement slug: modern-world/exploration-causes-and-results) | Colombia, *Ciencias Sociales — Primera Cartilla, Grado Cuarto, Escuela Nueva*, printed p. 37 |
+| Colombia part — Guía 5: The division of the world between Spanish and Portuguese / Treaty of Tordesillas — story beats: Portugal sails too, and the two crowns split the world with an imaginary north–south line at Tordesillas (History expansion, 2026-11-15; original placement slug: modern-world/exploration-causes-and-results) | Colombia, *Ciencias Sociales — Primera Cartilla, Grado Cuarto, Escuela Nueva*, printed p. 60 |
+
+Colombia's own way (G4 Cartilla 1 (student book, Spanish)): Grade 4 is the first full national-history arc — human origins in Africa, first Americans, encounter told from both a sailor's letters and a Taíno girl's viewpoint, conquest read through the chroniclers' own interests, and the African legacy closing the book. That way is stocked here as the way Colombia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 21 — Secundaria Activa G7 (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Grado 7, Secundaria Activa (student module)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación Nacional (Aguirre Asesores update); year not printed in front matter seen; ISBN no ISBN printed in front matter seen
+- PDF pages: 248 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 14 placements — 11 to existing lessons, 3 NEW LESSON NEEDED
+- Colombia's own way: Grade 7 Secundaria Activa runs empires in Europe against empires in America, and closes the encounter with the chronicles' two visions and the debates they still provoke.
+- Non-History parts named: Geography — climate and climate change, physical and human geography of Europe and America, printed pp. 14–117 (Unidades 1–2).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Tema 23: Factors that allowed the Europeans' arrival in America — story beats: the 15th century is Europe's century of scientific change; the Catholic Monarchs agree terms with Columbus, he makes four voyages, the world is divided, and the travel chronicles show crew abuses against Indigenous women and two irreconcilable visions of the arrival (History expansion, 2026-11-15; original placement slug: modern-world/exploration-causes-and-results) | Colombia, *Ciencias Sociales — Grado 7, Secundaria Activa (student module)*, printed p. 209 |
+
+Colombia's own way (Secundaria Activa G7 (student book, Spanish)): Grade 7 Secundaria Activa runs empires in Europe against empires in America, and closes the encounter with the chronicles' two visions and the debates they still provoke. That way is stocked here as the way Colombia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 12 countries (Ethiopia, United States, Guatemala, Costa Rica, Kuwait, Fiji, Indonesia, Montenegro, Dominican Republic, Suriname, Palestine, Colombia).**
+
+Searchable tags: Colombia, Exploration — causes and results, modern-world, History expansion 2026-11-15

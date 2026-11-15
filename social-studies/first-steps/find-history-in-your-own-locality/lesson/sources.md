@@ -1,6 +1,6 @@
 # Sources — Find history in your own locality
 
-countries: Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala, Malaysia, Ecuador, Bahamas, Eritrea, Nepal, Belarus, Fiji, Indonesia, Finland, Egypt, Syria, Suriname
+countries: Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala, Malaysia, Ecuador, Bahamas, Eritrea, Nepal, Belarus, Fiji, Indonesia, Finland, Egypt, Syria, Suriname, Colombia
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -543,3 +543,81 @@ Suriname's own way (Book 3 — Wij en ons verleden — Nieuwe Editie, 5, Grade 5
 Suriname's own way (Book 4 — Leerkrachtenboek — Wij en ons verleden, Nieuwe Editie, 5, Grade 5 (student/teacher: TEACHER)): The guide mirrors the student book lesson for lesson and states the method plainly: beginning history is historical empathy (inleving), not memorising dates — every lesson is listened to, read, discussed through its pictures and evaluated, with a timeline drawn on the board (1 metre = 10 years), role-play for the slavery stories, and a background glossary for the teacher; history is also framed as citizenship-building (burgerschapszin) for nation formation. That way is stocked here as the way Suriname teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 18 countries (Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala, Malaysia, Ecuador, Bahamas, Eritrea, Nepal, Belarus, Fiji, Indonesia, Finland, Egypt, Syria, Suriname).**
+
+---
+
+## History expansion (2026-11-15) — Colombia stocked
+
+**Book 1 — G1 Fichas (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Fichas, Grado 1, Modelo Educativo Escuela Nueva
+- Grade: Grade 1 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación Nacional, Bogotá; year 2010; ISBN libro 978-958-8712-02-4 (obra 978-958-33-3362-0)
+- PDF pages: 22 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 2 placements — 2 to existing lessons, 0 NEW LESSON NEEDED
+- Colombia's own way: History begins as the child's own story — body, character, family and neighbours — before any national past; change over time is introduced through family and region.
+- Non-History parts named: Geography — my region, landscape and caring for nature, printed pp. 13–18 (Guía 3 in part); Civics — family, care, neighbours and occupations, printed pp. 8–15.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Guía 3: How are the people of my region? — story beats: children compare dress, food, music and festivals across Colombia's regions and then record their own region's customs (History expansion, 2026-11-15; original placement slug: first-steps/find-history-in-your-own-locality) | Colombia, *Ciencias Sociales — Fichas, Grado 1, Modelo Educativo Escuela Nueva*, printed p. 18 |
+
+Colombia's own way (G1 Fichas (student book, Spanish)): History begins as the child's own story — body, character, family and neighbours — before any national past; change over time is introduced through family and region. That way is stocked here as the way Colombia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 2 — G2 Cartilla 1 (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Primera Cartilla, Grado Segundo, Escuela Nueva
+- Grade: Grade 2 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación Nacional, Bogotá; year 2010 (adaptation Corpoeducación, Contrato 541 de 2009); ISBN no ISBN printed in front matter seen
+- PDF pages: 136 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 5 placements — 5 to existing lessons, 0 NEW LESSON NEEDED
+- Colombia's own way: The past is learned by interviewing elders and drawing the child's own timeline and family tree; the vereda (hamlet) road story makes community history a collective achievement.
+- Non-History parts named: Geography — environment, landscape, orientation, plans and maps, municipality location, printed pp. 99–131 (Unidad 3); Civics — rights and duties, groups, norms and municipal authorities, printed pp. 24–98 in large part.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Guía 5: Does your barrio have a history? / Noíl in Nabusímake — story beats: each barrio is said to have its own history and profile, and Noíl's Arhuaco community at Nabusímake shows an Indigenous town's own way of life (History expansion, 2026-11-15; original placement slug: first-steps/find-history-in-your-own-locality) | Colombia, *Ciencias Sociales — Primera Cartilla, Grado Segundo, Escuela Nueva*, printed p. 83 |
+| Colombia part — Guía 5: The story of the road at La Portada — story beats: delegates Matilde and Helena negotiate with the municipality, which supplies machinery while the community works, and the vereda gets its road (History expansion, 2026-11-15; original placement slug: first-steps/find-history-in-your-own-locality) | Colombia, *Ciencias Sociales — Primera Cartilla, Grado Segundo, Escuela Nueva*, printed p. 86 |
+
+Colombia's own way (G2 Cartilla 1 (student book, Spanish)): The past is learned by interviewing elders and drawing the child's own timeline and family tree; the vereda (hamlet) road story makes community history a collective achievement. That way is stocked here as the way Colombia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 3 — G2 Cartilla 2 (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Segunda Cartilla, Grado Segundo, Escuela Nueva
+- Grade: Grade 2 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación Nacional, Bogotá; year c.2019 edition (Minister Angulo González front matter); ISBN no ISBN printed in front matter seen
+- PDF pages: 97 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 6 placements — 5 to existing lessons, 1 NEW LESSON NEEDED
+- Colombia's own way: A whole guide is devoted to "changes in my community through time" — houses, jobs, dress and food — and another to Colombia as Indigenous, Afro-Colombian, Rrom and mestizo at once; local history is done as reporting and a frieze.
+- Non-History parts named: Geography — geographic landscape, relief, coasts and climate, printed pp. 7–38 (Unidad 4, Guías 8–9).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Guía 10D: After the history of my municipality / Reporter of my history — story beats: the child becomes a reporter, interviews an adult about the community's history and lays it out as a frieze of its games and past (History expansion, 2026-11-15; original placement slug: first-steps/find-history-in-your-own-locality) | Colombia, *Ciencias Sociales — Segunda Cartilla, Grado Segundo, Escuela Nueva*, printed p. 67 |
+| Colombia part — Guía 11D: The history and culture of your community — story beats: every community has a history, and groups pick one cultural expression, research it in books and by asking adults, and present it (History expansion, 2026-11-15; original placement slug: first-steps/find-history-in-your-own-locality) | Colombia, *Ciencias Sociales — Segunda Cartilla, Grado Segundo, Escuela Nueva*, printed p. 92 |
+
+Colombia's own way (G2 Cartilla 2 (student book, Spanish)): A whole guide is devoted to "changes in my community through time" — houses, jobs, dress and food — and another to Colombia as Indigenous, Afro-Colombian, Rrom and mestizo at once; local history is done as reporting and a frieze. That way is stocked here as the way Colombia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 6 — G3 Cartilla 1 (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Primera Cartilla, Grado Tercero, Escuela Nueva
+- Grade: Grade 3 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación Nacional, Bogotá; year c.2019 edition; ISBN no ISBN printed in front matter seen
+- PDF pages: 89 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 3 placements — 3 to existing lessons, 0 NEW LESSON NEEDED
+- Colombia's own way: Grade 3 opens with a whole unit, "The river of time" — time is a river, the clock has a history, and the child's life-line and home-place questions are the first timeline work.
+- Non-History parts named: Geography — cardinal points, plans, maps of every kind, borders, Colombia and its departments, printed pp. 33–84 (Unidades 2–3).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Guía 2C: Questions about the place where you live — story beats: with parents, grandparents or neighbours, children answer questions about their home place's past, using family memory as the source (History expansion, 2026-11-15; original placement slug: first-steps/find-history-in-your-own-locality) | Colombia, *Ciencias Sociales — Primera Cartilla, Grado Tercero, Escuela Nueva*, printed p. 30 |
+
+Colombia's own way (G3 Cartilla 1 (student book, Spanish)): Grade 3 opens with a whole unit, "The river of time" — time is a river, the clock has a history, and the child's life-line and home-place questions are the first timeline work. That way is stocked here as the way Colombia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 19 countries (Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala, Malaysia, Ecuador, Bahamas, Eritrea, Nepal, Belarus, Fiji, Indonesia, Finland, Egypt, Syria, Suriname, Colombia).**
+
+Searchable tags: Colombia, Find history in your own locality, first-steps, History expansion 2026-11-15

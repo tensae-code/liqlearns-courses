@@ -1,6 +1,6 @@
 # Sources — The Atlantic slave trade — scale, coasts and the gun cycle
 
-countries: Ethiopia, Angola, Gambia, Australia, Bahamas, Dominican Republic, Suriname
+countries: Ethiopia, Angola, Gambia, Australia, Bahamas, Dominican Republic, Suriname, Colombia
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -199,3 +199,28 @@ Suriname's own way (Book 6 — Wij en ons verleden — Nieuwe Editie, 7, Grade 7
 Suriname's own way (Book 7 — Leerkrachtenboek — Wij en ons verleden, Nieuwe Editie, 7, Grade 7 (student/teacher: TEACHER)): The guide mirrors the student book's 8 themes and adds the full teaching apparatus: lesson goals per lesson, a didactic model with differentiation and 21st-century skills, copy sheets, and quarterly projects (wall newspaper, collage, researcher, object table; local-environment history, quartet card game, drama; museum visit, monument artwork, world map, timeline) — history is explicitly taught to form citizenship for Suriname, the Caricom community and the world. That way is stocked here as the way Suriname teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 7 countries (Ethiopia, Angola, Gambia, Australia, Bahamas, Dominican Republic, Suriname).**
+
+---
+
+## History expansion (2026-11-15) — Colombia stocked
+
+**Book 18 — Postprimaria G6 (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Grado 6, Postprimaria Rural (Sociales)
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación Nacional / Fundación Manuel Mejía; year c.2010–2011; ISBN no ISBN printed in front matter seen
+- PDF pages: 226 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 9 placements — 5 to existing lessons, 4 NEW LESSON NEEDED
+- Colombia's own way: Grade 6 Postprimaria teaches the past sideways — through the "pueblos originarios" of every continent, yesterday and today at once: Maya, Masai, Tibetans, Mapuche, Wayúu and Inuit are contemporaries with ancestors, not museum pieces.
+- Non-History parts named: Geography — territory, maps and resource use, Módulos 3–4 in large part; Civics — power, democracy, conflict resolution and citizen organisation, Módulos 5–6 in large part.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Módulo 6 / Guía 17: Conflicts, rights and participation — story beats: European intervention in the trade in human beings, at over 50 million people, is named without precedent as the background to today's conflicts over rights (History expansion, 2026-11-15; original placement slug: africa-after-1500/the-atlantic-slave-trade-scale-coasts-and-the-gun-cycle) | Colombia, *Ciencias Sociales — Grado 6, Postprimaria Rural (Sociales)*, printed p. 198 |
+
+Colombia's own way (Postprimaria G6 (student book, Spanish)): Grade 6 Postprimaria teaches the past sideways — through the "pueblos originarios" of every continent, yesterday and today at once: Maya, Masai, Tibetans, Mapuche, Wayúu and Inuit are contemporaries with ancestors, not museum pieces. That way is stocked here as the way Colombia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 8 countries (Ethiopia, Angola, Gambia, Australia, Bahamas, Dominican Republic, Suriname, Colombia).**
+
+Searchable tags: Colombia, The Atlantic slave trade — scale, coasts and the gun cycle, africa-after-1500, History expansion 2026-11-15

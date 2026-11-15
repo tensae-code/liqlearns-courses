@@ -1,6 +1,6 @@
 # Sources — Medieval world — the Dark Age and feudalism
 
-countries: Ethiopia, Brazil, Poland, Costa Rica, Australia, Ecuador, Eritrea, Montenegro, Dominican Republic, Pakistan, Iran, Bulgaria, Cambodia
+countries: Ethiopia, Brazil, Poland, Costa Rica, Australia, Ecuador, Eritrea, Montenegro, Dominican Republic, Pakistan, Iran, Bulgaria, Cambodia, Colombia
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -269,3 +269,46 @@ Cambodia's own way (Book 9 — សិក្សាសង្គម ថ្នាក
 **Acceptance count: taught in 13 countries (Ethiopia, Brazil, Poland, Costa Rica, Australia, Ecuador, Eritrea, Montenegro, Dominican Republic, Pakistan, Iran, Bulgaria, Cambodia).**
 
 Searchable tags: Cambodia, Medieval world — the Dark Age and feudalism, ancient-world, History expansion 2026-11-15
+
+---
+
+## History expansion (2026-11-15) — Colombia stocked
+
+**Book 20 — Postprimaria G7 (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Grado 7, Postprimaria Rural (Sociales)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación Nacional / Fundación Manuel Mejía; year c.2010–2011; ISBN no ISBN printed in front matter seen
+- PDF pages: 238 (cover/title page verified against the record title; the PDF carries minor xref damage, text fully recoverable)
+- Verdict: COMPLETE
+- Tally: 14 placements — 10 to existing lessons, 4 NEW LESSON NEEDED
+- Colombia's own way: Grade 7 Postprimaria pairs every medieval system with its American twin — feudal production against colonial production, European monarchy against the government of the Indies, and protest in both worlds.
+- Non-History parts named: Geography — environment and territory in the societies of the 5th–15th centuries, Módulo 3 in large part.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Guía 6: Social life in the societies of the 5th–15th centuries — story beats: feudal Europe stratifies into clergy, nobility and peasants, and women's work holds the system up (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-dark-age-and-feudalism) | Colombia, *Ciencias Sociales — Grado 7, Postprimaria Rural (Sociales)*, printed p. 73 |
+| Colombia part — Módulo 4 / Guía 10: Production systems — the feudal of Europe and the colonial of America — story beats: feudal production rests on possession of the land and on what and how the manor produces (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-dark-age-and-feudalism) | Colombia, *Ciencias Sociales — Grado 7, Postprimaria Rural (Sociales)*, printed p. 129 |
+
+Colombia's own way (Postprimaria G7 (student book, Spanish)): Grade 7 Postprimaria pairs every medieval system with its American twin — feudal production against colonial production, European monarchy against the government of the Indies, and protest in both worlds. That way is stocked here as the way Colombia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 21 — Secundaria Activa G7 (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Grado 7, Secundaria Activa (student module)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación Nacional (Aguirre Asesores update); year not printed in front matter seen; ISBN no ISBN printed in front matter seen
+- PDF pages: 248 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 14 placements — 11 to existing lessons, 3 NEW LESSON NEEDED
+- Colombia's own way: Grade 7 Secundaria Activa runs empires in Europe against empires in America, and closes the encounter with the chronicles' two visions and the debates they still provoke.
+- Non-History parts named: Geography — climate and climate change, physical and human geography of Europe and America, printed pp. 14–117 (Unidades 1–2).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Temas 16–17: The Medioevo and its persons — story beats: free men depend on lords in feudal relations, farm technique improves hard lives, the Crusades run from the 11th to the 14th century, the Catholic Church expands, scholasticism teaches, and burgos rise (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-dark-age-and-feudalism) | Colombia, *Ciencias Sociales — Grado 7, Secundaria Activa (student module)*, printed p. 149 |
+
+Colombia's own way (Secundaria Activa G7 (student book, Spanish)): Grade 7 Secundaria Activa runs empires in Europe against empires in America, and closes the encounter with the chronicles' two visions and the debates they still provoke. That way is stocked here as the way Colombia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 14 countries (Ethiopia, Brazil, Poland, Costa Rica, Australia, Ecuador, Eritrea, Montenegro, Dominican Republic, Pakistan, Iran, Bulgaria, Cambodia, Colombia).**
+
+Searchable tags: Colombia, Medieval world — the Dark Age and feudalism, ancient-world, History expansion 2026-11-15

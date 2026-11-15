@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — Rome divides
 
-countries: Ethiopia, Brazil, France, Costa Rica, Australia, Montenegro, Dominican Republic, Pakistan
+countries: Ethiopia, Brazil, France, Costa Rica, Australia, Montenegro, Dominican Republic, Pakistan, Colombia
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 6, placements 92–106).
 
@@ -115,3 +115,28 @@ Pakistan's own way (History 6 (PCTB, SNC 2022), Grade 6 / Class 6 (student/teach
 **Acceptance count: taught in 8 countries (Ethiopia, Brazil, France, Costa Rica, Australia, Montenegro, Dominican Republic, Pakistan).**
 
 Searchable tags: Pakistan, Ancient civilisations — Rome divides, ancient-world, History expansion 2026-11-15
+
+---
+
+## History expansion (2026-11-15) — Colombia stocked
+
+**Book 21 — Secundaria Activa G7 (student book, Spanish)**
+- Title as printed: Ciencias Sociales — Grado 7, Secundaria Activa (student module)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación Nacional (Aguirre Asesores update); year not printed in front matter seen; ISBN no ISBN printed in front matter seen
+- PDF pages: 248 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 14 placements — 11 to existing lessons, 3 NEW LESSON NEEDED
+- Colombia's own way: Grade 7 Secundaria Activa runs empires in Europe against empires in America, and closes the encounter with the chronicles' two visions and the debates they still provoke.
+- Non-History parts named: Geography — climate and climate change, physical and human geography of Europe and America, printed pp. 14–117 (Unidades 1–2).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part — Tema 15: Crisis of the Roman Empire — story beats: no single problem fells Rome — army troubles and external peoples such as the Huns combine, Germanic kingdoms take the map, and by the 6th–7th centuries the division is set (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-rome-divides) | Colombia, *Ciencias Sociales — Grado 7, Secundaria Activa (student module)*, printed p. 141 |
+
+Colombia's own way (Secundaria Activa G7 (student book, Spanish)): Grade 7 Secundaria Activa runs empires in Europe against empires in America, and closes the encounter with the chronicles' two visions and the debates they still provoke. That way is stocked here as the way Colombia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 9 countries (Ethiopia, Brazil, France, Costa Rica, Australia, Montenegro, Dominican Republic, Pakistan, Colombia).**
+
+Searchable tags: Colombia, Ancient civilisations — Rome divides, ancient-world, History expansion 2026-11-15
