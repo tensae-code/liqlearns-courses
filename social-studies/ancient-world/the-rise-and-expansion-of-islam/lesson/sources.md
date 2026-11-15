@@ -1,6 +1,6 @@
 # Sources — The rise and expansion of Islam
 
-countries: Ethiopia, Saudi Arabia, Gambia, Turkey, Costa Rica, Malaysia, Ecuador, Kuwait, India, Montenegro, Egypt, Pakistan, Syria, Iran
+countries: Ethiopia, Saudi Arabia, Gambia, Turkey, Costa Rica, Malaysia, Ecuador, Kuwait, India, Montenegro, Egypt, Pakistan, Syria, Iran, Bulgaria
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under GEQIP-E, ISBN 978-99990-0-066-6. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -301,3 +301,27 @@ Iran's own way (Book 9 — Social Studies, Grade 5 (student book, Persian) — C
 **Acceptance count: taught in 14 countries (Ethiopia, Saudi Arabia, Gambia, Turkey, Costa Rica, Malaysia, Ecuador, Kuwait, India, Montenegro, Egypt, Pakistan, Syria, Iran).**
 
 Searchable tags: Iran, The rise and expansion of Islam, ancient-world, History expansion 2026-11-15
+
+---
+
+## History expansion (2026-11-15) — Bulgaria stocked
+
+**Book 2 — bg-g6-riva (student book, Bulgarian)**
+- Title as printed: История и цивилизации за шести клас (History and Civilizations for the 6th Grade)
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Рива (Riva); year 2017 (Edition I; approved by Order РД09-3266/14.08.2017); ISBN 978-619-225-045-4
+- PDF pages: 192 (cover verified against the record title)
+- Verdict: COMPLETE
+- Tally: 37 placements — 16 to existing lessons, 21 NEW LESSON NEEDED
+- Bulgaria's own way: Grade 6 runs medieval Europe and medieval Bulgaria in parallel columns — Byzantium beside the First Bulgarian Empire, Cyril and Methodius beside Charlemagne — and closes with the Bulgarian lands inside the Ottoman state, so the national story is never separated from the continent's.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/bulgaria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bulgaria part — Lesson 5: The Arabs and the beginning of their civilization — story beats: The Arabs unite under Islam and build a civilization from Arabia to Spain (History expansion, 2026-11-15; original placement slug: ancient-world/arab-civilization-and-the-rise-of-islam) | Bulgaria, *История и цивилизации за шести клас (History and Civilizations for the 6th Grade)*, printed p. 26 |
+
+Bulgaria's own way (Book 2 — История и цивилизации за шести клас (History and Civilizations for the 6th Grade), Grade 6 (student/teacher: STUDENT)): Grade 6 runs medieval Europe and medieval Bulgaria in parallel columns — Byzantium beside the First Bulgarian Empire, Cyril and Methodius beside Charlemagne — and closes with the Bulgarian lands inside the Ottoman state, so the national story is never separated from the continent's. That way is stocked here as the way Bulgaria teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 15 countries (Ethiopia, Saudi Arabia, Gambia, Turkey, Costa Rica, Malaysia, Ecuador, Kuwait, India, Montenegro, Egypt, Pakistan, Syria, Iran, Bulgaria).**
+
+Searchable tags: Bulgaria, The rise and expansion of Islam, ancient-world, History expansion 2026-11-15

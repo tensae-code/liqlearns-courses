@@ -1,6 +1,6 @@
 # Sources — Gothic art — cathedrals and towns
 
-countries: Poland
+countries: Poland, Bulgaria
 
 **Book 1:** *Ars longa. Przemiany sztuki. Tom I — od Wenus z Willendorfu do Ogrodu rozkoszy ziemskich (Ars Longa: Transformations of Art, Vol. I — from the Venus of Willendorf to The Garden of Earthly Delights)* (student book) — Poland. Title as printed: Ars longa. Przemiany sztuki. Tom I — od Wenus z Willendorfu do Ogrodu rozkoszy ziemskich (Ars Longa: Transformations of Art, Vol. I — from the Venus of Willendorf to The Garden of Earthly Delights). Grade: 9 (STUDENT). Publisher/year/ISBN: Centrum Edukacji Artystycznej, Warszawa, 2021; authors Beata Lewińska & Wojciech Jerzy Kieler; ISBN 978-83-62156-42-9 (print), 978-83-62156-43-6 (electronic). PDF pages: 163 (printed pagination runs to ~p. 290; cited pages are the book's printed pages from its table of contents). Verdict: READ in full via its complete text layer (all 12 chapters' structure, historical-background sections and contents verified page by page through the text). Tally: 16 placements — 10 existing, 6 NEW. Placements at liqlearns-courses-work/expansion-history-2026-11-15/poland-placements.md.
 
@@ -15,3 +15,28 @@ countries: Poland
 Poland's own way: Poland teaches art history as a school subject in its own right in art schools; every world period chapter closes by bringing the story home — prehistoric art on Polish lands, pre-Romanesque art in Poland, Romanesque art in Poland — so Polish learners meet each world style again in their own soil. That way is stocked here as the way Poland teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 Searchable tags: Gothic art — cathedrals and towns, Poland, Ars longa, Grade 9, printed p. 203, ancient-world
+
+---
+
+## History expansion (2026-11-15) — Bulgaria stocked
+
+**Book 2 — bg-g6-riva (student book, Bulgarian)**
+- Title as printed: История и цивилизации за шести клас (History and Civilizations for the 6th Grade)
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Рива (Riva); year 2017 (Edition I; approved by Order РД09-3266/14.08.2017); ISBN 978-619-225-045-4
+- PDF pages: 192 (cover verified against the record title)
+- Verdict: COMPLETE
+- Tally: 37 placements — 16 to existing lessons, 21 NEW LESSON NEEDED
+- Bulgaria's own way: Grade 6 runs medieval Europe and medieval Bulgaria in parallel columns — Byzantium beside the First Bulgarian Empire, Cyril and Methodius beside Charlemagne — and closes with the Bulgarian lands inside the Ottoman state, so the national story is never separated from the continent's.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/bulgaria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bulgaria part — Lesson 21: Culture and cultural heritage of Christian Europe — story beats: The church carries learning and art through the medieval centuries (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-church-and-medieval-culture) | Bulgaria, *История и цивилизации за шести клас (History and Civilizations for the 6th Grade)*, printed p. 88 |
+| Bulgaria part — Lesson 33: The development of culture in the 12th–14th centuries — story beats: Gothic cathedrals rise and universities gather scholars — culture flowers across Europe (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-gothic-cathedrals) | Bulgaria, *История и цивилизации за шести клас (History and Civilizations for the 6th Grade)*, printed p. 140 |
+
+Bulgaria's own way (Book 2 — История и цивилизации за шести клас (History and Civilizations for the 6th Grade), Grade 6 (student/teacher: STUDENT)): Grade 6 runs medieval Europe and medieval Bulgaria in parallel columns — Byzantium beside the First Bulgarian Empire, Cyril and Methodius beside Charlemagne — and closes with the Bulgarian lands inside the Ottoman state, so the national story is never separated from the continent's. That way is stocked here as the way Bulgaria teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 2 countries (Poland, Bulgaria).**
+
+Searchable tags: Bulgaria, Gothic art — cathedrals and towns, ancient-world, History expansion 2026-11-15

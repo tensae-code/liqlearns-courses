@@ -1,6 +1,6 @@
 # Sources — From evidence to a written history
 
-countries: Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname
+countries: Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Bulgaria
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -788,3 +788,40 @@ Suriname's own way (Book 3 — Wij en ons verleden — Nieuwe Editie, 5, Grade 5
 Suriname's own way (Book 4 — Leerkrachtenboek — Wij en ons verleden, Nieuwe Editie, 5, Grade 5 (student/teacher: TEACHER)): The guide mirrors the student book lesson for lesson and states the method plainly: beginning history is historical empathy (inleving), not memorising dates — every lesson is listened to, read, discussed through its pictures and evaluated, with a timeline drawn on the board (1 metre = 10 years), role-play for the slavery stories, and a background glossary for the teacher; history is also framed as citizenship-building (burgerschapszin) for nation formation. That way is stocked here as the way Suriname teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 25 countries (Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname).**
+
+---
+
+## History expansion (2026-11-15) — Bulgaria stocked
+
+**Book 1 — bg-g7-riva (student book, Bulgarian)**
+- Title as printed: История и цивилизации за седми клас (History and Civilizations for the 7th Grade)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Рива (Riva); year 2018 (Edition I; approved by Order РД09-1393/20.07.2018); ISBN 978-619-225-071-3
+- PDF pages: 166 (cover verified against the record title)
+- Verdict: COMPLETE
+- Tally: 32 placements — 3 to existing lessons, 29 NEW LESSON NEEDED
+- Bulgaria's own way: Grade 7 is one unbroken national story from the 18th century to EU membership: Ottoman rule and the Revival awakeners, the April Uprising and Liberation, Tarnovo's constitution-makers, the saved Bulgarian Jews of the Second World War, communist takeover and totalitarianism, and the 1989 transition — told through "Historical Laboratory" document work and self-control checks.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/bulgaria-placements.md.
+
+**Book 2 — bg-g6-riva (student book, Bulgarian)**
+- Title as printed: История и цивилизации за шести клас (History and Civilizations for the 6th Grade)
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Рива (Riva); year 2017 (Edition I; approved by Order РД09-3266/14.08.2017); ISBN 978-619-225-045-4
+- PDF pages: 192 (cover verified against the record title)
+- Verdict: COMPLETE
+- Tally: 37 placements — 16 to existing lessons, 21 NEW LESSON NEEDED
+- Bulgaria's own way: Grade 6 runs medieval Europe and medieval Bulgaria in parallel columns — Byzantium beside the First Bulgarian Empire, Cyril and Methodius beside Charlemagne — and closes with the Bulgarian lands inside the Ottoman state, so the national story is never separated from the continent's.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/bulgaria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bulgaria part — Techniques of History: Can we write a historical text? — story beats: Learners practise turning evidence into a written history of their own (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Bulgaria, *История и цивилизации за седми клас (History and Civilizations for the 7th Grade)*, printed p. 33 |
+| Bulgaria part — Lesson 36: The legends and fairy tales of the Middle Ages — story beats: Legends and tales carry the Middle Ages' memory — stories as a source for the past (History expansion, 2026-11-15; original placement slug: first-steps/oral-history-listening-to-elders-and-stories) | Bulgaria, *История и цивилизации за шести клас (History and Civilizations for the 6th Grade)*, printed p. 150 |
+
+Bulgaria's own way (Book 1 — История и цивилизации за седми клас (History and Civilizations for the 7th Grade), Grade 7 (student/teacher: STUDENT)): Grade 7 is one unbroken national story from the 18th century to EU membership: Ottoman rule and the Revival awakeners, the April Uprising and Liberation, Tarnovo's constitution-makers, the saved Bulgarian Jews of the Second World War, communist takeover and totalitarianism, and the 1989 transition — told through "Historical Laboratory" document work and self-control checks. That way is stocked here as the way Bulgaria teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Bulgaria's own way (Book 2 — История и цивилизации за шести клас (History and Civilizations for the 6th Grade), Grade 6 (student/teacher: STUDENT)): Grade 6 runs medieval Europe and medieval Bulgaria in parallel columns — Byzantium beside the First Bulgarian Empire, Cyril and Methodius beside Charlemagne — and closes with the Bulgarian lands inside the Ottoman state, so the national story is never separated from the continent's. That way is stocked here as the way Bulgaria teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 26 countries (Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Bulgaria).**
+
+Searchable tags: Bulgaria, From evidence to a written history, first-steps, History expansion 2026-11-15

@@ -1,6 +1,6 @@
 # Sources — Medieval world — the Dark Age and feudalism
 
-countries: Ethiopia, Brazil, Poland, Costa Rica, Australia, Ecuador, Eritrea, Montenegro, Dominican Republic, Pakistan, Iran
+countries: Ethiopia, Brazil, Poland, Costa Rica, Australia, Ecuador, Eritrea, Montenegro, Dominican Republic, Pakistan, Iran, Bulgaria
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -206,3 +206,41 @@ Iran's own way (Book 2 — History 2, Grade 11 (student book, Persian)): the Isl
 **Acceptance count: taught in 11 countries (Ethiopia, Brazil, Poland, Costa Rica, Australia, Ecuador, Eritrea, Montenegro, Dominican Republic, Pakistan, Iran).**
 
 Searchable tags: Iran, Medieval world — the Dark Age and feudalism, ancient-world, History expansion 2026-11-15
+
+---
+
+## History expansion (2026-11-15) — Bulgaria stocked
+
+**Book 1 — bg-g7-riva (student book, Bulgarian)**
+- Title as printed: История и цивилизации за седми клас (History and Civilizations for the 7th Grade)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Рива (Riva); year 2018 (Edition I; approved by Order РД09-1393/20.07.2018); ISBN 978-619-225-071-3
+- PDF pages: 166 (cover verified against the record title)
+- Verdict: COMPLETE
+- Tally: 32 placements — 3 to existing lessons, 29 NEW LESSON NEEDED
+- Bulgaria's own way: Grade 7 is one unbroken national story from the 18th century to EU membership: Ottoman rule and the Revival awakeners, the April Uprising and Liberation, Tarnovo's constitution-makers, the saved Bulgarian Jews of the Second World War, communist takeover and totalitarianism, and the 1989 transition — told through "Historical Laboratory" document work and self-control checks.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/bulgaria-placements.md.
+
+**Book 2 — bg-g6-riva (student book, Bulgarian)**
+- Title as printed: История и цивилизации за шести клас (History and Civilizations for the 6th Grade)
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Рива (Riva); year 2017 (Edition I; approved by Order РД09-3266/14.08.2017); ISBN 978-619-225-045-4
+- PDF pages: 192 (cover verified against the record title)
+- Verdict: COMPLETE
+- Tally: 37 placements — 16 to existing lessons, 21 NEW LESSON NEEDED
+- Bulgaria's own way: Grade 6 runs medieval Europe and medieval Bulgaria in parallel columns — Byzantium beside the First Bulgarian Empire, Cyril and Methodius beside Charlemagne — and closes with the Bulgarian lands inside the Ottoman state, so the national story is never separated from the continent's.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/bulgaria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bulgaria part — Review: The heritage of medieval Europe — Bulgaria and the Bulgarians — story beats: The year's story opens by recalling medieval Europe's heritage and Bulgaria's place in it, before the modern national story begins (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-dark-age-and-feudalism) | Bulgaria, *История и цивилизации за седми клас (History and Civilizations for the 7th Grade)*, printed p. 6 |
+| Bulgaria part — Lesson 1: Introduction to the European Middle Ages — story beats: The fall of Rome opens the Middle Ages — the age of feudalism Europe is about to build (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-dark-age-and-feudalism) | Bulgaria, *История и цивилизации за шести клас (History and Civilizations for the 6th Grade)*, printed p. 8 |
+| Bulgaria part — Lesson 16: Society in Western Europe in the 9th–11th centuries — story beats: Kings, lords, knights and peasants lock into the feudal pyramid behind castle walls (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-knights-castles-and-the-feudal-pyramid) | Bulgaria, *История и цивилизации за шести клас (History and Civilizations for the 6th Grade)*, printed p. 70 |
+
+Bulgaria's own way (Book 1 — История и цивилизации за седми клас (History and Civilizations for the 7th Grade), Grade 7 (student/teacher: STUDENT)): Grade 7 is one unbroken national story from the 18th century to EU membership: Ottoman rule and the Revival awakeners, the April Uprising and Liberation, Tarnovo's constitution-makers, the saved Bulgarian Jews of the Second World War, communist takeover and totalitarianism, and the 1989 transition — told through "Historical Laboratory" document work and self-control checks. That way is stocked here as the way Bulgaria teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Bulgaria's own way (Book 2 — История и цивилизации за шести клас (History and Civilizations for the 6th Grade), Grade 6 (student/teacher: STUDENT)): Grade 6 runs medieval Europe and medieval Bulgaria in parallel columns — Byzantium beside the First Bulgarian Empire, Cyril and Methodius beside Charlemagne — and closes with the Bulgarian lands inside the Ottoman state, so the national story is never separated from the continent's. That way is stocked here as the way Bulgaria teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 12 countries (Ethiopia, Brazil, Poland, Costa Rica, Australia, Ecuador, Eritrea, Montenegro, Dominican Republic, Pakistan, Iran, Bulgaria).**
+
+Searchable tags: Bulgaria, Medieval world — the Dark Age and feudalism, ancient-world, History expansion 2026-11-15

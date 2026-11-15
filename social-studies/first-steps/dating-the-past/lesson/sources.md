@@ -1,6 +1,6 @@
 # Sources — Dating the past — calendars, timelines and periods
 
-countries: Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran
+countries: Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -512,3 +512,27 @@ Iran's own way (Book 11 — Social Studies, Grade 3 (student book, Persian) — 
 **Acceptance count: taught in 21 countries (Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran).**
 
 Searchable tags: Iran, Dating the past — calendars, timelines and periods, first-steps, History expansion 2026-11-15
+
+---
+
+## History expansion (2026-11-15) — Bulgaria stocked
+
+**Book 1 — bg-g7-riva (student book, Bulgarian)**
+- Title as printed: История и цивилизации за седми клас (History and Civilizations for the 7th Grade)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Рива (Riva); year 2018 (Edition I; approved by Order РД09-1393/20.07.2018); ISBN 978-619-225-071-3
+- PDF pages: 166 (cover verified against the record title)
+- Verdict: COMPLETE
+- Tally: 32 placements — 3 to existing lessons, 29 NEW LESSON NEEDED
+- Bulgaria's own way: Grade 7 is one unbroken national story from the 18th century to EU membership: Ottoman rule and the Revival awakeners, the April Uprising and Liberation, Tarnovo's constitution-makers, the saved Bulgarian Jews of the Second World War, communist takeover and totalitarianism, and the 1989 transition — told through "Historical Laboratory" document work and self-control checks.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/bulgaria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bulgaria part — Techniques of History: Numbers in history — story beats: Numbers, quantities and chronology are handled as historical evidence in their own right (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Bulgaria, *История и цивилизации за седми клас (History and Civilizations for the 7th Grade)*, printed p. 107 |
+
+Bulgaria's own way (Book 1 — История и цивилизации за седми клас (History and Civilizations for the 7th Grade), Grade 7 (student/teacher: STUDENT)): Grade 7 is one unbroken national story from the 18th century to EU membership: Ottoman rule and the Revival awakeners, the April Uprising and Liberation, Tarnovo's constitution-makers, the saved Bulgarian Jews of the Second World War, communist takeover and totalitarianism, and the 1989 transition — told through "Historical Laboratory" document work and self-control checks. That way is stocked here as the way Bulgaria teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 22 countries (Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria).**
+
+Searchable tags: Bulgaria, Dating the past — calendars, timelines and periods, first-steps, History expansion 2026-11-15

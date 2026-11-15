@@ -1,6 +1,6 @@
 # Sources — Medieval world — the Ottomans
 
-countries: Ethiopia, Turkey, Australia, Eritrea, Montenegro, Pakistan
+countries: Ethiopia, Turkey, Australia, Eritrea, Montenegro, Pakistan, Bulgaria
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -111,3 +111,40 @@ Pakistan's own way (History 7 (PCTB, SNC 2022), Grade 7 / Class 7 (student/teach
 **Acceptance count: taught in 6 countries (Ethiopia, Turkey, Australia, Eritrea, Montenegro, Pakistan).**
 
 Searchable tags: Pakistan, Medieval world — the Ottomans, ancient-world, History expansion 2026-11-15
+
+---
+
+## History expansion (2026-11-15) — Bulgaria stocked
+
+**Book 2 — bg-g6-riva (student book, Bulgarian)**
+- Title as printed: История и цивилизации за шести клас (History and Civilizations for the 6th Grade)
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Рива (Riva); year 2017 (Edition I; approved by Order РД09-3266/14.08.2017); ISBN 978-619-225-045-4
+- PDF pages: 192 (cover verified against the record title)
+- Verdict: COMPLETE
+- Tally: 37 placements — 16 to existing lessons, 21 NEW LESSON NEEDED
+- Bulgaria's own way: Grade 6 runs medieval Europe and medieval Bulgaria in parallel columns — Byzantium beside the First Bulgarian Empire, Cyril and Methodius beside Charlemagne — and closes with the Bulgarian lands inside the Ottoman state, so the national story is never separated from the continent's.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/bulgaria-placements.md.
+
+**Book 3 — bg-g10-riva (student book, Bulgarian)**
+- Title as printed: История и цивилизации, 10. клас (History and Civilizations, 10th Grade)
+- Grade: Grade 10 (student/teacher: STUDENT)
+- Publisher: Рива (Riva); imprint: Edition II, 2023 (the record names the book "2024"); ISBN 978-619-225-106-2
+- PDF pages: 284 (cover verified against the record title)
+- Verdict: COMPLETE
+- Tally: 63 placements — 5 to existing lessons, 58 NEW LESSON NEEDED (most re-place the new Bulgarian lessons proposed for the Grade 6/7 Riva books above; 8 are first proposed here)
+- Bulgaria's own way: Grade 10 is the whole national epic in one volume — Thracians and the Karanovo mound, Old Great Bulgaria, both medieval empires, five Ottoman centuries, the Revival, the wars, Zhivkov and the transition — the same story the Grade 6 and 7 books split in two, now told end to end with "Historical Laboratory" document work at every age.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/bulgaria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bulgaria part — Lesson 37: The conquest of Southeastern Europe by the Ottoman Turks — story beats: The Ottomans cross into Europe and conquer the Balkans state by state (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-ottoman-empire-rise-and-fall) | Bulgaria, *История и цивилизации за шести клас (History and Civilizations for the 6th Grade)*, printed p. 154 |
+| Bulgaria part — Lesson 20: The Ottoman conquest and the end of the medieval Bulgarian state — story beats: Tarnovo falls (1393) and Vidin follows — the medieval Bulgarian state ends (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-ottoman-empire-rise-and-fall) | Bulgaria, *История и цивилизации, 10. клас (History and Civilizations, 10th Grade)*, printed p. 79 |
+
+Bulgaria's own way (Book 2 — История и цивилизации за шести клас (History and Civilizations for the 6th Grade), Grade 6 (student/teacher: STUDENT)): Grade 6 runs medieval Europe and medieval Bulgaria in parallel columns — Byzantium beside the First Bulgarian Empire, Cyril and Methodius beside Charlemagne — and closes with the Bulgarian lands inside the Ottoman state, so the national story is never separated from the continent's. That way is stocked here as the way Bulgaria teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Bulgaria's own way (Book 3 — История и цивилизации, 10. клас (History and Civilizations, 10th Grade), Grade 10 (student/teacher: STUDENT)): Grade 10 is the whole national epic in one volume — Thracians and the Karanovo mound, Old Great Bulgaria, both medieval empires, five Ottoman centuries, the Revival, the wars, Zhivkov and the transition — the same story the Grade 6 and 7 books split in two, now told end to end with "Historical Laboratory" document work at every age. That way is stocked here as the way Bulgaria teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 7 countries (Ethiopia, Turkey, Australia, Eritrea, Montenegro, Pakistan, Bulgaria).**
+
+Searchable tags: Bulgaria, Medieval world — the Ottomans, ancient-world, History expansion 2026-11-15
