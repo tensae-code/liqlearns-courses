@@ -2581,7 +2581,7 @@ Plants and Animals.
 
 ## History expansion totals
 
-History lessons across the History titles: **689**
+History lessons across the History titles: **712**
 (248 before the expansion; +1 for Guyana, 2026-11-15 —
 Modern World: Guyana — our nation: independence and
 symbols. All 3 Guyana placements stand on Guyana's
@@ -3561,3 +3561,58 @@ non-History parts (Religious Studies, Health,
 Civics, Geography, Science and Economics parts
 named in the placements file and in the stocked
 sources) stay named, not placed.
+
++23 for Eritrea, 2026-11-15 — Africa to 1500:
+Eritrea — early migrations and peoples, Ancient
+Eritrea — Adulis and the Red Sea trade, The Beja
+kingdoms and Dahlak, Ancient Eritrea — Christianity
+and Geez writing, Eritrea — the Bahri Negestat,
+Eritrea — Nara and Kunama societies, and Eritrea —
+medieval highland villages; Ancient World: How
+slave society worked; Africa after 1500: Eritrea —
+the Ottoman coast and the Naibs, Eritrea — Turkish
+expansion and Bahri Negassi Yeshaq, Eritrea —
+Portuguese-Turkish rivalry and the Gragn wars,
+Eritrea — Egyptian expansion and resistance,
+Eritrea — Abyssinian expansion and highland
+resistance, Eritrea — the Beni Amir federation and
+the Funj, Eritrea — Samhar, Saho, Afar and the
+Naibs, Eritrea — Italian expansion and resistance,
+Eritrea — Italian colonial administration, Eritrea
+— British military administration, Eritrea —
+political parties and the UN question, Eritrea —
+federation with Ethiopia and its end, Eritrea — the
+armed struggle: the ELF, Eritrea — the armed
+struggle: the EPLF and liberation, and Eritrea —
+referendum and independence, 1993. All 70 Eritrea
+placements stand on Eritrea's five placed student
+books (*Social Studies for Grade 4 Student's Book*,
+Tigrinya, 2009, ISBN 99948-1-231-9, 12 placements;
+*Grade 5 Student's Book*, Tigrinya, 2010, ISBN
+99948-1-305-6, 20 placements; *Grade 6 Pupils'
+Book*, 2015, ISBN 99948-1-453-2, 13 placements;
+*Grade 7 Textbook*, 2011, ISBN 99948-1-584-9, 11
+placements; *Grade 8 Textbook*, 2011, ISBN
+99948-1-592-X, 14 placements), counted in
+acceptance — all are student books. The 21
+placements stocked into 14 existing lessons rise
+with Eritrea added (From evidence to a written
+history 9 → 10, Find history in your own locality
+9 → 10, Dating the past 7 → 8, From stone tools to
+farming 8 → 9, Who studies prehistory 6 → 7, What
+history is 12 → 13, Medieval world — the Ottomans
+3 → 4, Ancient civilisations — India's order and
+gifts 2 → 3, Medieval world — the dark age and
+feudalism 6 → 7, North Africa — Fatimids, Mamluks
+and the Funj 1 → 2, Colonisation — the road to the
+scramble 2 → 3, Colonisation — direct and indirect
+rule 3 → 4, Colonisation — its effects on Africa
+2 → 3), except Heritage — what it is and why it
+matters, unchanged at 25: Eritrea was already
+named and counted there from the Geography
+expansion on the same books, so its two History
+placements add depth only. The books' non-History
+parts (Geography, Civics, Economics, Culture,
+Health and environment parts named in the
+placements file and in the stocked sources) stay
+named, not placed.

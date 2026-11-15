@@ -10661,3 +10661,121 @@ in the placements file) stay named in the stocked
 sources, not placed.
 History lessons: 676 → 689.
 
+
+## History expansion — Eritrea — built 2026-11-15
+
+23 new lessons, 161 questions: **Africa to 1500**:
+Eritrea — early migrations and peoples
+(africa-to-1500/eritrea-early-migrations-and-peoples),
+Ancient Eritrea — Adulis and the Red Sea trade
+(africa-to-1500/ancient-eritrea-adulis-and-the-red-sea-trade),
+The Beja kingdoms and Dahlak
+(africa-to-1500/the-beja-kingdoms-and-dahlak),
+Ancient Eritrea — Christianity and Geez writing
+(africa-to-1500/ancient-eritrea-christianity-and-geez-writing),
+Eritrea — the Bahri Negestat
+(africa-to-1500/eritrea-the-bahri-negestat),
+Eritrea — Nara and Kunama societies
+(africa-to-1500/eritrea-nara-and-kunama-societies), and
+Eritrea — medieval highland villages
+(africa-to-1500/eritrea-medieval-highland-villages);
+**The Ancient World**: How slave society worked
+(ancient-world/how-slave-society-worked);
+**Africa after 1500**: Eritrea — the Ottoman coast
+and the Naibs
+(africa-after-1500/eritrea-ottoman-coast-and-the-naibs),
+Eritrea — Turkish expansion and Bahri Negassi Yeshaq
+(africa-after-1500/eritrea-turkish-expansion-and-bahri-negassi-yeshaq),
+Eritrea — Portuguese-Turkish rivalry and the Gragn wars
+(africa-after-1500/eritrea-portuguese-turkish-rivalry-and-the-gragn-wars),
+Eritrea — Egyptian expansion and resistance
+(africa-after-1500/eritrea-egyptian-expansion-and-resistance),
+Eritrea — Abyssinian expansion and highland resistance
+(africa-after-1500/eritrea-abyssinian-expansion-and-highland-resistance),
+Eritrea — the Beni Amir federation and the Funj
+(africa-after-1500/eritrea-beni-amir-federation-and-the-funj),
+Eritrea — Samhar, Saho, Afar and the Naibs
+(africa-after-1500/eritrea-samhar-saho-afar-and-the-naibs),
+Eritrea — Italian expansion and resistance
+(africa-after-1500/eritrea-italian-expansion-and-resistance),
+Eritrea — Italian colonial administration
+(africa-after-1500/eritrea-italian-colonial-administration),
+Eritrea — British military administration
+(africa-after-1500/eritrea-british-military-administration),
+Eritrea — political parties and the UN question
+(africa-after-1500/eritrea-political-parties-and-the-un-question),
+Eritrea — federation with Ethiopia and its end
+(africa-after-1500/eritrea-federation-with-ethiopia-and-its-end),
+Eritrea — the armed struggle: the ELF
+(africa-after-1500/eritrea-armed-struggle-the-elf),
+Eritrea — the armed struggle: the EPLF and liberation
+(africa-after-1500/eritrea-armed-struggle-the-eplf-and-liberation),
+and Eritrea — referendum and independence, 1993
+(africa-after-1500/eritrea-referendum-and-independence-1993)
+— 70 placements stocked in all from Eritrea's five
+placed student books: *Social Studies for Grade 4
+Student's Book* (Tigrinya; Ministry of Education,
+The State of Eritrea, 2009, ISBN 99948-1-231-9,
+159 PDF pp.; 12 placements), *Social Studies for
+Grade 5 Student's Book* (Tigrinya; 2010, ISBN
+99948-1-305-6, 190 PDF pp.; 20 placements),
+*Social Studies for Grade 6 Pupils' Book* (English;
+2015, ISBN 99948-1-453-2, 127 PDF pp.; 13
+placements), *Social Studies for Grade 7 Textbook*
+(English; 2011, ISBN 99948-1-584-9, 154 PDF pp.; 11
+placements), and *Social Studies for Grade 8
+Textbook* (English; 2011, ISBN 99948-1-592-X, 157
+PDF pp.; 14 placements). The file carries 7 records
+for these 5 distinct books — Grades 4 and 5 each
+appear twice (release TSV + books.json, same book).
+21 placements were stocked into 14 existing lessons
+(From evidence to a written history — four; Find
+history in your own locality, Dating the past, From
+stone tools to farming, and Heritage — what it is
+and why it matters — two each; Who studies
+prehistory, What history is, Medieval world — the
+Ottomans, Ancient civilisations — India's order and
+gifts, Medieval world — the dark age and feudalism,
+North Africa — Fatimids, Mamluks and the Funj,
+Colonisation — the road to the scramble,
+Colonisation — direct and indirect rule, and
+Colonisation — its effects on Africa — one each).
+All five placed books are student books, so Eritrea
+counts normally everywhere it is stocked: every
+stocked lesson's countries line names Eritrea and
+its acceptance count rises by one (From evidence
+to a written history 9 → 10, Find history in your
+own locality 9 → 10, Dating the past 7 → 8, From
+stone tools to farming 8 → 9, Who studies
+prehistory 6 → 7, What history is 12 → 13, Medieval
+world — the Ottomans 3 → 4, Ancient civilisations —
+India's order and gifts 2 → 3, Medieval world — the
+dark age and feudalism 6 → 7, North Africa —
+Fatimids, Mamluks and the Funj 1 → 2, Colonisation
+— the road to the scramble 2 → 3, Colonisation —
+direct and indirect rule 3 → 4, Colonisation — its
+effects on Africa 2 → 3) — except Heritage — what
+it is and why it matters, which stays 25: Eritrea
+was already named and counted there from the
+Geography expansion on these same Grade 5 and
+Grade 7 books, so its two History placements add
+Eritrean depth, not a new country. No placement
+slug needed remapping: every non-new slug exists,
+and the 23 NEW LESSON NEEDED slugs were checked
+against the current tree — no existing lesson
+teaches Eritrea's own migrations, Adulis, Beja
+kingdoms, Bahri Negestat, lowland societies, or
+its Ottoman, Egyptian, Abyssinian, Italian,
+British, federation and armed-struggle story, so
+the new lessons were built as the placements
+direct. Eritrea's own way is stocked inside the
+lessons: the Tigrinya Grades 4–5 books teach the
+tools first and then the whole national story;
+Grade 6 starts from method; Grade 7 climbs a ladder
+of societies and then climbs it at home; Grade 8
+tells the modern story as one chain of resistance.
+The books' non-History parts (Geography, Civics,
+Economics, Culture, Health and environment parts
+named in the placements file) stay named in the
+stocked sources, not placed.
+History lessons: 689 → 712.

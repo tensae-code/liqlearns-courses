@@ -1,6 +1,6 @@
 # Sources — Archaeology, palaeontology, anthropology — who studies prehistory
 
-countries: Ethiopia, Gambia, Turkey, Bangladesh, Australia, Bhutan
+countries: Ethiopia, Gambia, Turkey, Bangladesh, Australia, Bhutan, Eritrea
 
 **Book 1:** *History, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, Addis Ababa, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-064-2, 210 printed pp. Printed page = PDF page − 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g09-student-placements.md
 
@@ -105,3 +105,16 @@ Australia's own way (Australia Retroactive 1 (Stage 4)): The NSW Stage 4 course 
 Bhutan's own way (Bhutan History, Civics & Citizenship Education Class VII): from Class VII History becomes a subject of its own, told as a single national story in chronological order — prehistory from stones and spoken tales, then heritage, then saint and hero biographies, then the foreign encounter — with Civics appended as the present-day frame. That way is stocked here as the way Bhutan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 6 countries (Ethiopia, Gambia, Turkey, Bangladesh, Australia, Bhutan).**
+
+
+## History expansion (2026-11-15) — Eritrea stocked
+
+**Book 2:** *Social Studies for Grade 5 Student's Book* (student book, Tigrinya) — Eritrea. Title as printed: Social Studies for Grade 5 — Student's Book (Tigrinya medium). Grade: Grade 5 (student/teacher: STUDENT). Publisher: Ministry of Education, The State of Eritrea; year 2010 (© 2010, Sabur Printing Press, Asmara); ISBN 99948-1-305-6. PDF pages: 190 (title and copyright pages verified from renders; byte size 35,645,487 matches the record). Verdict: COMPLETE. Tally: 20 placements — 3 to existing lessons, 17 NEW LESSON NEEDED. Non-History parts named, not placed: Chapter 1 The Land of Eritrea — relief regions and land use (Geography, pp. 1–10); Chapter 2 Eritrea's Neighbouring Countries (Geography, pp. 11–15); Chapter 3 The Earth's Continents, Islands and Oceans (Geography, pp. 16–32); Chapter 4 Social Services and Infrastructure (pp. 33–41); Chapter 5 sections 5.1 and 5.3, the Red Sea's position and its modern benefits — ports, fishing, salt, the Suez route (Geography/Economics, pp. 42–44 and 53–60); Chapter 6 sections 6.1–6.2, information and media (pp. 61–67); Chapter 7 Trade and Transport (Economics, pp. 79–94); Chapter 8 Maps (Geography, pp. 95–110); Chapter 9 Weather (Geography, pp. 111–123). Placements at liqlearns-courses-work/expansion-history-2026-11-15/eritrea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Eritrea part — Chapter 6.4, the National Museum and archaeology — story beats: the National Museum of Eritrea in Asmara keeps the country's finds, and the chapter's glossary defines archaeology, archaeological objects, features, relics and ecofacts — the toolkit of those who dig the past (History expansion, 2026-11-15; original placement slug: first-steps/who-studies-prehistory) | Eritrea, *Social Studies for Grade 5 — Student's Book (Tigrinya medium)*, Grade 5 — printed p. 73 |
+
+Eritrea's own way (Grade 5): history is anchored in place — the Red Sea's ancient trade, the archaeological sites of all six zones, and the National Museum — before the final chapter walks the whole national story period by period: ancient, medieval, modern, armed struggle. That way is stocked here as the way Eritrea teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 7 countries (Ethiopia, Gambia, Turkey, Bangladesh, Australia, Bhutan, Eritrea).**

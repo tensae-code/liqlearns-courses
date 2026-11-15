@@ -1,6 +1,6 @@
 # Sources — From stone tools to farming — the Neolithic Revolution
 
-countries: Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador
+countries: Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -196,3 +196,21 @@ Malaysia's own way (Sejarah Tingkatan 1): Secondary history opens as "Our Histor
 Ecuador's own way (Ecuador Grade 11 EC-G11): the Bachillerato Historia course runs the whole human story — evolution, river civilisations, Greece/Rome/Byzantium, faiths, pre-Columbian America, colony, revolutions, economic systems — but keeps bending it home: Ecuadorian Indigenous women, the Inca legacy and dollarised 21st-century Ecuador close the arc. That way is stocked here as the way Ecuador teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 8 countries (Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador).**
+
+
+## History expansion (2026-11-15) — Eritrea stocked
+
+**Book 1:** *Social Studies for Grade 4 Student's Book* (student book, Tigrinya) — Eritrea. Title as printed: Social Studies for Grade 4 — Student's Book (Tigrinya medium). Grade: Grade 4 (student/teacher: STUDENT). Publisher: Ministry of Education, The State of Eritrea; year 2009 (© 2009, Sabur Printing Press, Asmara); ISBN 99948-1-231-9. PDF pages: 159 (title and copyright pages verified from renders; byte size 30,437,268 matches the record). Verdict: COMPLETE. Tally: 12 placements — 4 to existing lessons, 8 NEW LESSON NEEDED. Non-History parts named, not placed: Chapter 3 Our Surroundings (pp. 25–35); Chapter 4 Care of Our Environment (pp. 36–55); Chapter 5 Communication (pp. 56–66); Chapter 6 Maps, the Globe and Scale (Geography, pp. 67–84); Chapter 7 Work and Livelihoods, town and country life (pp. 85–119); Chapter 8 Landforms (Geography, pp. 120–130). Placements at liqlearns-courses-work/expansion-history-2026-11-15/eritrea-placements.md.
+
+**Book 4:** *Social Studies for Grade 7 Textbook* (student book, English) — Eritrea. Title as printed: Social Studies for Grade 7 — Textbook. Grade: Grade 7 (student/teacher: STUDENT). Publisher: Ministry of Education, The State of Eritrea; year 2011 (© 2011, reprinted 2011); ISBN 99948-1-584-9. PDF pages: 154 (cover/title page verified against the record title; byte size 3,970,347 matches the record). Verdict: COMPLETE. Tally: 11 placements — 6 to existing lessons, 5 NEW LESSON NEEDED. Non-History parts named, not placed: Unit 1 Scale and Measuring Distance and Area (Geography, pp. 1–12); Unit 2 Population (Geography, pp. 13–29); Unit 3 People and the Environment (Geography, pp. 30–44); Unit 4 Communication (pp. 45–62); Unit 6 Government (Civics, pp. 78–89); Unit 7 sections 7.2–7.4, Natural, Coastal and Terrestrial Heritage (Geography, pp. 94–111); Unit 8 Disasters in Eritrea (pp. 112–124). Placements at liqlearns-courses-work/expansion-history-2026-11-15/eritrea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Eritrea part — Chapter 9.1, the first people of Eritrea — story beats: the earliest Eritreans shape stone tools, paint animals on cave walls and live by hunting and gathering before settled peoples arrive (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Eritrea, *Social Studies for Grade 4 — Student's Book (Tigrinya medium)*, Grade 4 — printed p. 131 |
+| Eritrea part — Unit 5.1, Primitive Communal Society — story beats: hunter-gatherers living on roots and fruit are transformed step by step — fire, the bow and arrow, metal tools, domesticated animals — until farming and surplus change everything (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Eritrea, *Social Studies for Grade 7 — Textbook*, Grade 7 — printed p. 64 |
+
+Eritrea's own way (Grade 4): a Tigrinya-medium Social Studies book that teaches history twice over — first the tools (sources, family trees, calendars, centuries) and then, in its last chapter, the whole Eritrean story from stone tools to the 1993 referendum, told with photographs of the real places and people. That way is stocked here as the way Eritrea teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Eritrea's own way (Grade 7): world history is taught as a ladder of societies — primitive communal, slave, feudal — and then the ladder is climbed at home: Eritrea's own traditional societies, lowland and highland, are reconstructed from travellers' accounts that learners must grade as primary or secondary sources. That way is stocked here as the way Eritrea teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 9 countries (Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea).**

@@ -1,6 +1,6 @@
 # Sources — Colonisation — direct and indirect rule
 
-countries: Ethiopia, Angola, Gambia
+countries: Ethiopia, Angola, Gambia, Eritrea
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 5, placements 110–122).
 
@@ -69,3 +69,16 @@ Rwanda's own way (B6): Unit 10 is labelled TOPIC AREA: HISTORY in the guide and 
 Rwanda's Book 4 (rw-p3-tg) is RECORD ONLY — MISMATCH, not placed: the file behind the record is *Inyoborabarezi y'isomo Ry'ubumenyi mbonezamubano — Igice cy'iyobokamana rya gikirisitu, Umwaka wa 3* (Teacher guide for the Christian Religious Education part of Social Studies & Religious Education), Primary 3, Rwanda Education Board (REB), Kigali, 2019, no ISBN printed, 166 PDF pages — it does NOT match the record's Social Studies teacher-guide title, contains no Social Studies Unit 9 (Amateka / timeline) guidance, and its prophet-story lessons are Religious Education, not History. Library debt, as filed: the true P3 Social Studies teacher guide is still missing from the library; this slot holds the RE guide instead.
 
 **Acceptance count: taught in 3 countries (Ethiopia, Angola, Gambia) — unchanged; the Rwanda placement above is teacher-guide evidence only, counted nowhere. Rwanda is not added to this lesson's countries line.**
+
+
+## History expansion (2026-11-15) — Eritrea stocked
+
+**Book 5:** *Social Studies for Grade 8 Textbook* (student book, English) — Eritrea. Title as printed: Social Studies for Grade 8 — Textbook. Grade: Grade 8 (student/teacher: STUDENT). Publisher: Ministry of Education, The State of Eritrea; year 2011 (© 2011, reprinted 2011); ISBN 99948-1-592-X. PDF pages: 157 (cover/title page verified against the record title; byte size 4,716,045 matches the record). Verdict: COMPLETE. Tally: 14 placements — 3 to existing lessons, 11 NEW LESSON NEEDED. Non-History parts named, not placed: Unit 1 Relief in Eritrea (Geography, pp. 1–10); Unit 2 Hydrology and River System in Eritrea (Geography, pp. 11–30); Unit 3 The Environment, People and Development (Geography, pp. 31–52); Unit 4 Eritrea and Its Strategic Location (Geography, pp. 53–63); Unit 8 section 8.2, Highlights of Development Programs (Civics/Economics, pp. 117–127); Unit 9 Economic Activities in Eritrea (Economics, pp. 128–156). Placements at liqlearns-courses-work/expansion-history-2026-11-15/eritrea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Eritrea part — Unit 6.1, Italian Colonial Administration — story beats: Italy rules the highlands through salaried, closely controlled appointed chiefs (mislene) and the lowlands through tribal leaders kept in place but stripped of power — direct control wearing a traditional face (History expansion, 2026-11-15; original placement slug: africa-after-1500/colonisation-direct-and-indirect-rule) | Eritrea, *Social Studies for Grade 8 — Textbook*, Grade 8 — printed p. 90 |
+
+Eritrea's own way (Grade 8): the whole modern national story is told as one chain of resistance — Turks, Egyptians, Abyssinians, Italians, British, federation, armed struggle — every invader met by named Eritrean resisters, from Bahri Negassi Yeshaq and Woldemichael Solomon to Hamid Idris Awate. That way is stocked here as the way Eritrea teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 4 countries (Ethiopia, Angola, Gambia, Eritrea).**

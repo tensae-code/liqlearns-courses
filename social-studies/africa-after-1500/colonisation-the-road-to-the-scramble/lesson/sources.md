@@ -1,6 +1,6 @@
 # Sources — Colonisation — the road to the Scramble
 
-countries: Ethiopia, Rwanda
+countries: Ethiopia, Rwanda, Eritrea
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 5, placements 110–122).
 
@@ -55,3 +55,16 @@ This book is a teacher guide, not a pupil text. The part(s) below stand on it as
 Gabon's own way (Grade 5): the final primary year widens out — ancient Egypt, Greece and Rome first, then Gabon and Africa again (autochthones, Bantu, colonisation, Berlin, the two world wars) ending with the march to independence, told through Léon Mba's speech of 16 August 1960. That way is stocked here as the way Gabon teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 2 countries (Ethiopia, Rwanda) — unchanged; the Gabon placement(s) above are teacher-guide evidence only, counted nowhere. Gabon is not added to this lesson's countries line.**
+
+
+## History expansion (2026-11-15) — Eritrea stocked
+
+**Book 5:** *Social Studies for Grade 8 Textbook* (student book, English) — Eritrea. Title as printed: Social Studies for Grade 8 — Textbook. Grade: Grade 8 (student/teacher: STUDENT). Publisher: Ministry of Education, The State of Eritrea; year 2011 (© 2011, reprinted 2011); ISBN 99948-1-592-X. PDF pages: 157 (cover/title page verified against the record title; byte size 4,716,045 matches the record). Verdict: COMPLETE. Tally: 14 placements — 3 to existing lessons, 11 NEW LESSON NEEDED. Non-History parts named, not placed: Unit 1 Relief in Eritrea (Geography, pp. 1–10); Unit 2 Hydrology and River System in Eritrea (Geography, pp. 11–30); Unit 3 The Environment, People and Development (Geography, pp. 31–52); Unit 4 Eritrea and Its Strategic Location (Geography, pp. 53–63); Unit 8 section 8.2, Highlights of Development Programs (Civics/Economics, pp. 117–127); Unit 9 Economic Activities in Eritrea (Economics, pp. 128–156). Placements at liqlearns-courses-work/expansion-history-2026-11-15/eritrea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Eritrea part — Unit 5.4, the European scramble reaches the Red Sea — story beats: the Suez Canal's opening in 1869 makes the Red Sea a prize — Britain in Aden and Egypt, France at Djibouti — and Britain encourages Italy forward to keep France out (History expansion, 2026-11-15; original placement slug: africa-after-1500/colonisation-the-road-to-the-scramble) | Eritrea, *Social Studies for Grade 8 — Textbook*, Grade 8 — printed p. 73 |
+
+Eritrea's own way (Grade 8): the whole modern national story is told as one chain of resistance — Turks, Egyptians, Abyssinians, Italians, British, federation, armed struggle — every invader met by named Eritrean resisters, from Bahri Negassi Yeshaq and Woldemichael Solomon to Hamid Idris Awate. That way is stocked here as the way Eritrea teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 3 countries (Ethiopia, Rwanda, Eritrea).**
