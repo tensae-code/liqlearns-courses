@@ -1,6 +1,6 @@
 # Sources — Secondary activities — what manufacturing is
 
-countries: Ethiopia, Ukraine, Bolivia
+countries: Ethiopia, Ukraine, Bolivia, Bangladesh
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 2 — Population Studies and Socio-Economic Activities, printed pp. 44–76).
 
@@ -8,14 +8,17 @@ countries: Ethiopia, Ukraine, Bolivia
 
 **Book 3:** *Área: Ciencias Sociales — Sexto Año, Educación Secundaria Comunitaria Productiva (Campo: Comunidad y Sociedad)* (student book, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; year 2024; no ISBN printed. Title as printed: Área: Ciencias Sociales — Sexto Año, Educación Secundaria Comunitaria Productiva (Campo: Comunidad y Sociedad). Grade 12 (student). 126 PDF pp. (cover verified against the record title; byte size 14,185,463 and page count match the staging books.json record exactly; read from the book's recorded source_url). Verdict: COMPLETE (combined book — Geography parts placed below; History/Civics/Economics parts named here, not placed: the Second World War and the Cold War; decolonisation of Asia and Africa and apartheid; the 1952 National Revolution, universal vote and mine nationalisation as history; military dictatorships and neoliberalism; the return to democracy, autonomies and revocatory referendums; identity, discrimination and despatriarcalización; youth political rights; child and adolescent labour law; money, the boliviano and inflation (economics)). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bolivia-placements.md.
 
+**Book 4:** *History and Social Science, Class Six* (student book, English + Bangla parallel editions) — Bangladesh, National Curriculum and Textbook Board (NCTB), Dhaka, Bangladesh; year 2022 (published December 2022, reprint 2023; National Curriculum 2022); no ISBN printed. Title as printed: History and Social Science, Class Six (Experimental version). Grade 6 (student). 184 PDF pp. (cover/title page verified against the record title; printed pagination runs 1-175 plus front matter, printed p. = PDF p. - 7). Verdict: COMPLETE. Editions: English read fully; Bangla parallel edition spot-checked (cover, contents with identical chapter page spans 1-175, spreads at the Bengal landform maps and Landforms of Bangladesh) — same content, placed once for both editions. Read via grab.py from the GitHub textbooks repo. (Combined History and Social Science book — Geography parts placed below; non-Geography parts named in the placements, not placed: My Different Identity — identity/biography parts, printed pp. 1-25 (map parts placed); Active Citizens Club — civics/rules, pp. 26-31; Ways of Knowing History — history method, pp. 32-35; Looking Around through the Lens of Science — inquiry/science method, pp. 36-49; Muktijuddha in Our Locality — history, pp. 82-104; The Emergence of Independent Bangladesh — history, pp. 105-113; Book Reading Programme — literacy, pp. 114-116; social-structure parts of Natural and Social Structures (family, values, status, state) — civics/sociology, pp. 125-133.) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bangladesh-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — From raw material to useful goods | Ethiopia, *Social Studies Student Textbook, Grade 8* (Amhara Bureau), printed p. 60 |
 | Sub lesson 2 — Industry and manufacturing | Ethiopia, *Social Studies Student Textbook, Grade 8* (Amhara Bureau), printed p. 60 |
 | Ukraine part — §7 The secondary sector of the economy (Europe) | Ukraine, *Geografiya*, Grade 10, §7 — printed p. 37 |
 | Bolivia part — The ammonia and urea plant: industrialising natural gas | Bolivia, *Ciencias Sociales, Sexto Año de Secundaria*, Grade 12, The ammonia and urea plant: industrialising natural gas — printed p. 89 |
+| Bangladesh part (Grade 6) — The urban revolution: cities, craft and trade growing from farming | Bangladesh, *History and Social Science, Class Six*, Grade 6, The urban revolution: cities, craft and trade growing from farming — printed p. 66 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Ukraine, Bolivia).**
+**Acceptance count: taught in 4 countries (Ethiopia, Ukraine, Bolivia, Bangladesh).**
 
 Ukraine's own way: A "Geography: Regions and Countries" course — every region is done in the same order (position, nature/resources, population, primary/secondary/tertiary sectors) then typological country studies with rubrics (country visiting-card, capital, pride of the country, unique experience), ending with Ukraine's own place in the world; research tasks (Дослідження) embedded in chapters. That way is stocked here as the way Ukraine teaches this thing.
 
@@ -24,3 +27,5 @@ Honesty: pupil content comes from the Amhara student book. The Addis Ababa Grade
 Bolivia's own way (Grade 12, Sexto Año): The final year opens with the census itself — the censista's work as civic-geographic practice — and later teaches geopolitics critically: Haushofer and geopolitical thought, geographic scales, and natural resources as a product of human knowledge (Sunkel), alongside Bolivia's own resource politics: the Gas War, hydrocarbon nationalisation and the urea plant that industrialises gas.
 
 Searchable tags: secondary activities: what manufacturing is, culture and work, social studies, ethiopia, Ukraine, Geografiya Gilberg, Bolivia, Ciencias Sociales Bolivia
+
+Bangladesh's own way (Grade 6): an inquiry-based combined History and Social Science course built around a class teacher character and group investigations; Geography is taught through the landform of Bengal itself — rivers, silt and hills explaining settlement, ancient states, ports and even the 1971 war — plus hands-on map-making (home-to-school route maps, a world-tour board game) and a pupil-run nature conservation club.

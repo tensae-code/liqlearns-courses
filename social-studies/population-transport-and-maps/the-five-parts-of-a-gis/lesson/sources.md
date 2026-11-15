@@ -1,6 +1,6 @@
 # Sources — The five parts of a GIS
 
-countries: Ethiopia
+countries: Ethiopia, Bangladesh
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -10,6 +10,8 @@ countries: Ethiopia
 
 **Book 4:** *Geography, Teacher Guide, Grade 10* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). Editors: Sintayehu Teka (MSc) (Content Editor), Kassie Molla (MA) (Language Editor), Hirut Woldemichael (MA) (Curriculum Editor). Illustrator: Agenchw Nega (MSc). Designer: Geda Hoka (MA). Evaluator: Dereje Guteta (PhD). First published 2022 under GEQIP-E. (No ISBN printed in the pages read.) Printed page = PDF page − 31 for the guide body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-teacher-placements.md
 
+**Book 5:** *History and Social Science, Class Nine* (student book, Bangla + English parallel editions; the shared Class 9-10 SSC book) — Bangladesh, National Curriculum and Textbook Board (NCTB), Dhaka, Bangladesh; year 2023 (first published December 2023, for academic year 2024; National Curriculum 2022); no ISBN printed. Title as printed: History and Social Science, Class Nine (Experimental version) [Bangla: ইতিহাস ও সামাজিক বিজ্ঞান, নবম শ্রেণি] — the shared Class 9-10 SSC book. Grades 9-10 (student). 192 PDF pp. in the Bangla edition (cover/title page verified against the record title; printed p. = PDF p. - 7). Verdict: COMPLETE. Editions: Bangla read fully. The Grade 10 records are the SAME book: the grade-10 tree files have identical byte size and blob SHA to the grade-09 files (English 50,152,317 bytes, SHA d2a8d461e799677e306cfe71a92fd0637327ea1c; Bangla 8,397,648 bytes, SHA 43cedf3b16cdd5946012cc8c53cd143a848d5570), so this one read covers all four records (G9 Bangla, G9 English, G10 Bangla, G10 English); English spot-checked via a git sparse-checkout copy verified byte-for-byte against the record (50,152,317 bytes, blob SHA d2a8d461e799677e306cfe71a92fd0637327ea1c) — same content, placed once for all four records. Read via grab.py from the GitHub textbooks repo. (Combined History and Social Science book — Geography parts placed below; non-Geography parts named in the placements, not placed: Self-identity and Mental Behaviour — psychology, printed pp. 15-26; 'Bangladesh' and 'Bangabandhu': Humanist Stream and Non-communal Consciousness — history/civics, pp. 27-48; Political Structure and Civic Responsibility — civics, pp. 49-73; In Search of Political History in Global Context — history, pp. 74-83; Ways of Knowing History and the Problem of Periodisation — history method, pp. 84-92; The Diverse Course of Political History in the Bengal Region and Bangladesh — history, pp. 93-114; Social Structure in Personal Life — sociology, pp. 115-124; Production, Distribution of Wealth and the Principle of Equity — economics, pp. 157-183.) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bangladesh-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Hardware and software | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 8, printed pp. 231–234 |
@@ -18,11 +20,14 @@ countries: Ethiopia
 | Teaching sequence and answer keys (teacher guide — evidence) | Ethiopia, *Geography, Teacher Guide, Grade 11*, Unit 8, guide printed pp. 215–235 |
 | Sub lesson — The five parts in Grade 10's words | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 8, printed pp. 190–192 |
 | Teaching pattern and answer keys (teacher guide — evidence) — Grade 10 | Ethiopia, *Geography, Teacher Guide, Grade 10*, Unit 8, guide printed pp. 141–166 |
+| Bangladesh part (Grades 9-10) — GIS (Geographical Information System) and its five components | Bangladesh, *History and Social Science, Class Nine* (the shared Class 9-10 SSC book), Grades 9-10, GIS (Geographical Information System) and its five components — printed pp. 135-136 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Bangladesh).**
 
 No book error is flagged for this lesson's pages in the placements. The student book's body numbering for Unit Two drifts from its own contents (regions printed as 2.4, factors as 2.5, local classification as 2.6, where the contents and the teacher guide's contents agree on 2.3, 2.4 and 2.5); this lesson follows the contents numbering and teaches no misprint.
 
 Extension (Wave 4 Band D): the Grade 10 book's GIS-components section (printed pp. 190–192) was stacked under the Grade 11 lesson per the build brief.
 
 Searchable tags: GIS components, hardware software data people methods, QGIS, ArcGIS, ethiopia, social studies, population transport and maps
+
+Bangladesh's own way (Grades 9-10): the shared SSC book's big chapter "Living Together Safely" is a genuine geography course inside the combined book — land-use change read off 1988-vs-2017 Khulna maps, world population and density, remote sensing and GIS with its five components, settlement and urbanisation, desertification, and Bangladesh's own squeeze of limited land, dense population and climate risk.

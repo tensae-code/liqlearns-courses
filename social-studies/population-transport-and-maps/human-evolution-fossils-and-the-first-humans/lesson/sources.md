@@ -1,6 +1,6 @@
 # Sources — Human evolution — fossils, archaeology and the first humans
 
-countries: Ethiopia, Costa Rica, Palestine
+countries: Ethiopia, Costa Rica, Palestine, Bangladesh
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -10,17 +10,20 @@ countries: Ethiopia, Costa Rica, Palestine
 
 **Book 3:** *الدراسات الاجتماعية (Social Studies), Grade 5, Part One* (student book, Arabic) — Palestine, Ministry of Education and Higher Education, State of Palestine; year 2017 (adopted for teaching from the 2017/2018 school year); no ISBN printed. Title as printed: الدراسات الاجتماعية (Social Studies), Grade 5, Part One (Semester 1). Grade 5 (student). 92 PDF pp. (cover verified against the record title; printed p. = PDF p. − 4). Verdict: COMPLETE. Read via grab.py from the GitHub textbooks repo. (Combined Social Studies book — Geography parts placed below; History/Civics parts named in the placements, not placed: Unit 2 Human Life on Earth in Ancient Times, lessons 1–3 and 5, printed pp. 42–57 and 65–71; Unit 3 The Society We Live In, pp. 72–86; the war section inside Unit 1 lesson 5, pp. 36–39.) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/palestine-placements.md.
 
+**Book 4:** *History and Social Science, Class Six* (student book, English + Bangla parallel editions) — Bangladesh, National Curriculum and Textbook Board (NCTB), Dhaka, Bangladesh; year 2022 (published December 2022, reprint 2023; National Curriculum 2022); no ISBN printed. Title as printed: History and Social Science, Class Six (Experimental version). Grade 6 (student). 184 PDF pp. (cover/title page verified against the record title; printed pagination runs 1-175 plus front matter, printed p. = PDF p. - 7). Verdict: COMPLETE. Editions: English read fully; Bangla parallel edition spot-checked (cover, contents with identical chapter page spans 1-175, spreads at the Bengal landform maps and Landforms of Bangladesh) — same content, placed once for both editions. Read via grab.py from the GitHub textbooks repo. (Combined History and Social Science book — Geography parts placed below; non-Geography parts named in the placements, not placed: My Different Identity — identity/biography parts, printed pp. 1-25 (map parts placed); Active Citizens Club — civics/rules, pp. 26-31; Ways of Knowing History — history method, pp. 32-35; Looking Around through the Lens of Science — inquiry/science method, pp. 36-49; Muktijuddha in Our Locality — history, pp. 82-104; The Emergence of Independent Bangladesh — history, pp. 105-113; Book Reading Programme — literacy, pp. 114-116; social-structure parts of Natural and Social Structures (family, values, status, state) — civics/sociology, pp. 125-133.) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bangladesh-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Digging the past — archaeology and fossils (teacher guide — evidence) | Ethiopia, *Social Studies Teacher's Guide, Grade 7* (Addis Ababa Bureau), printed pp. 22–23 |
 | Sub lesson 2 — Two theories and three stages (teacher guide — evidence) | Ethiopia, *Social Studies Teacher's Guide, Grade 7* (Addis Ababa Bureau), printed pp. 22–23 |
 | Sub lesson 3 — Ethiopia's fossil ground (teacher guide — evidence) | Ethiopia, *Social Studies Teacher's Guide, Grade 7* (Addis Ababa Bureau), printed p. 23 |
 | Palestine part — Unit 2, Lesson 4: Palestine, homeland of the ancient human — where early humans lived in Palestine, their tools and their settling into farming | Palestine, *Social Studies, Grade 5, Part One*, Grade 5, Unit 2, Lesson 4: Palestine, homeland of the ancient human — where early humans lived in Palestine, their tools and their settling into farming — printed pp. 58–64 |
+| Bangladesh part (Grade 6) — Influence of Landform on South Asian and World History: fossils and early humans | Bangladesh, *History and Social Science, Class Six*, Grade 6, Influence of Landform on South Asian and World History: fossils and early humans — printed p. 64 |
 
 | Sub lesson 4 — Grade 11 depth: The hominid sequence — Ethiopia's fossils | Ethiopia, *History, Student Textbook, Grade 11*, printed pp. 10–15 |
 | Costa Rica part — first steps of the human being, hominids to Homo sapiens sapiens and their spatial mobility out of Africa | Costa Rica, *Antología CONED 7*, Grade 7, Unit I Tema I A — printed p. 7 |
 
-**Acceptance count: taught in 2 countries (Costa Rica, Palestine) — the pupil-taught Costa Rica part named in the table above. Ethiopia is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 3 countries (Costa Rica, Palestine, Bangladesh) — the pupil-taught Costa Rica part named in the table above. Ethiopia is named here as teacher-guide evidence only, counted nowhere.**
 
 Pairing warning (honesty): Book 2 is an Addis Ababa bureau guide in English; Book 1 is an Amhara bureau student book in Amharic. They are NOT edition-matched companions — the guide's unit order differs and whole student topics (maps, globes, GPS) have no guide counterpart, so no guide coverage is claimed for them. Guide material is used only as labelled teacher evidence.
 
@@ -31,3 +34,5 @@ Costa Rica's own way: a distance-education anthology organised around "the human
 Searchable tags: human evolution, archaeology, fossils, hominids, Homo habilis, Homo erectus, Homo sapiens, Omo, Melka Kunture, Middle Awash, Costa Rica, CONED Antología, Estudios Sociales
 
 Palestine's own way (Grade 5, PS G5P1): Social Studies opens with a full Earth-science unit (shape, movements, surface, life components, disasters) taught through Palestinian examples — seasons read off Palestinian crops, surface forms read off Palestine's own map, which pupils draw with its borders.
+
+Bangladesh's own way (Grade 6): an inquiry-based combined History and Social Science course built around a class teacher character and group investigations; Geography is taught through the landform of Bengal itself — rivers, silt and hills explaining settlement, ancient states, ports and even the 1971 war — plus hands-on map-making (home-to-school route maps, a world-tour board game) and a pupil-run nature conservation club.

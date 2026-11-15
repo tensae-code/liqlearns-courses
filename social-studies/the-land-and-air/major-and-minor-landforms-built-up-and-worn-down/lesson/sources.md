@@ -1,6 +1,6 @@
 # Sources — Major and minor landforms — built up and worn down
 
-countries: Ethiopia, Guatemala, Ecuador
+countries: Ethiopia, Guatemala, Ecuador, Bangladesh
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). Editors: Sintayehu Teka (MSc) (Content Editor), Kassie Molla (MA) (Language Editor), Hirut Woldemichael (MA) (Curriculum Editor). Illustrator: Agenchw Nega (MSc). Designer: Geda Hoka (MA). Evaluators: Dereje Guteta (PhD), Tesfaye Shiferaw (PhD), Abebe Yibeltie (MA), Hussein Seid (MA). First published 2023 under GEQIP-E. ISBN 978-99990-0-049-9. Printed by Gravity Group IND LLC, 13th Industrial Area, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. Printed page = PDF page − 6 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Guatemala, Ecuador
 
 **Book 5:** *Estudios Sociales 3ro EGB* (student book, Spanish) — Ecuador, SM Ediciones Ecuador for the Ministerio de Educación del Ecuador (Proyecto Licitación Ministerio de Educación, Ecuador 2016; reviewed 3 June 2016); year 2016; no ISBN printed. Title as printed: Estudios Sociales 3 — Texto del estudiante. Grade: Grade 3 (student). 176 PDF pp. (cover/title page verified against the record title; grabbed via the repo release route, 47,818,010 bytes = record size exactly; the record notes the 2024 edition exists but its only reachable copy is truncated, so this complete older edition is the held book; the book's two records — a TSV release/blob record and a books.json record for the same repo path — are one book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/ecuador-placements.md.
 
+**Book 6:** *History and Social Science, Class Six* (student book, English + Bangla parallel editions) — Bangladesh, National Curriculum and Textbook Board (NCTB), Dhaka, Bangladesh; year 2022 (published December 2022, reprint 2023; National Curriculum 2022); no ISBN printed. Title as printed: History and Social Science, Class Six (Experimental version). Grade 6 (student). 184 PDF pp. (cover/title page verified against the record title; printed pagination runs 1-175 plus front matter, printed p. = PDF p. - 7). Verdict: COMPLETE. Editions: English read fully; Bangla parallel edition spot-checked (cover, contents with identical chapter page spans 1-175, spreads at the Bengal landform maps and Landforms of Bangladesh) — same content, placed once for both editions. Read via grab.py from the GitHub textbooks repo. (Combined History and Social Science book — Geography parts placed below; non-Geography parts named in the placements, not placed: My Different Identity — identity/biography parts, printed pp. 1-25 (map parts placed); Active Citizens Club — civics/rules, pp. 26-31; Ways of Knowing History — history method, pp. 32-35; Looking Around through the Lens of Science — inquiry/science method, pp. 36-49; Muktijuddha in Our Locality — history, pp. 82-104; The Emergence of Independent Bangladesh — history, pp. 105-113; Book Reading Programme — literacy, pp. 114-116; social-structure parts of Natural and Social Structures (family, values, status, state) — civics/sociology, pp. 125-133.) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bangladesh-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The major landforms | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 1, printed pp. 2–3 |
@@ -21,8 +23,9 @@ countries: Ethiopia, Guatemala, Ecuador
 | Guatemala part — Montañas: montaña, cordillera y sierra, located on the map of Central America | Guatemala, *Ciencias Sociales y Formación Ciudadana*, Grade 4, Montañas: montaña, cordillera y sierra, located on the map of Central America (Unit 2) — printed p. 85 |
 | Ecuador part — Accidentes geográficos naturales y culturales del Ecuador | Ecuador, *Estudios Sociales 2do EGB*, Grade 2, Accidentes geográficos naturales y culturales del Ecuador — printed p. 25 |
 | Ecuador part — Las formas de relieve | Ecuador, *Estudios Sociales 3ro EGB (SM 2016)*, Grade 3, Las formas de relieve — printed p. 36 |
+| Bangladesh part (Grade 6) — Landform diversity where pupils live: hills, river banks and haor marshes | Bangladesh, *History and Social Science, Class Six*, Grade 6, Landform diversity where pupils live: hills, river banks and haor marshes — printed pp. 119-122 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Guatemala, Ecuador).**
+**Acceptance count: taught in 4 countries (Ethiopia, Guatemala, Ecuador, Bangladesh).**
 
 No book error is flagged for this lesson's pages in the placements. The Grade 10 student book's recurring misprint "Dection" for "Direction" in review headings does not touch this lesson's sections and is taught nowhere. The teacher guide was first published in 2022 against the student book's 2023; the student book is the learner text of record, and the guide is cited as evidence only.
 
@@ -33,3 +36,5 @@ Ecuador's own way (Grade 2 book): Geography is taught inside three thematic sect
 Ecuador's own way (Grade 3 book): the older SM edition is a classic skills-first book — a whole opening unit on orientation, cardinal points, the compass rose and plans before any content; every unit runs the same skeleton (content lessons, “Ser Estudiante” test, Cultura del Buen Vivir, scientific work, digital skills, unit evaluation), and the country is learned parish → canton → province → nation. That way is stocked here as the way Ecuador teaches this thing.
 
 Searchable tags: landforms, mountains plateaus plains, gorge, abbay, internal external processes, ethiopia, social studies, the land and air, Guatemala, Ecuador
+
+Bangladesh's own way (Grade 6): an inquiry-based combined History and Social Science course built around a class teacher character and group investigations; Geography is taught through the landform of Bengal itself — rivers, silt and hills explaining settlement, ancient states, ports and even the 1971 war — plus hands-on map-making (home-to-school route maps, a world-tour board game) and a pupil-run nature conservation club.

@@ -1,6 +1,6 @@
 # Sources — Water under pressure
 
-countries: Ethiopia, Brazil, France, Haiti, Costa Rica, Palestine, Angola
+countries: Ethiopia, Brazil, France, Haiti, Costa Rica, Palestine, Angola, Bangladesh
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Brazil, France, Haiti, Costa Rica, Palestine, Angola
 
 **Book 8:** *Geografia 6ª Classe* (student book, Portuguese) — Angola, Ministério da Educação / Mensagem Editora, Luanda; year 2021 (3.ª Edição); ISBN 978-989-54802-5-8. Title as printed: Geografia | Manual da 6.ª Classe. Grade 6 (student). 96 PDF pp. (cover/title page verified against the record title; read from the record's own recorded source_url (Portal do Professor de Língua Portuguesa) after the GitHub API grab route repeatedly failed with RemoteDisconnected on 2026-11-14 — so the repo copy was not byte-verified against this read). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/angola-placements.md.
 
+**Book 9:** *History and Social Science, Class Seven* (student book, English + Bangla parallel editions) — Bangladesh, National Curriculum and Textbook Board (NCTB), Dhaka, Bangladesh; year 2022 (first published December 2022, reprint 2023; National Curriculum 2022); no ISBN printed. Title as printed: History and Social Science, Class Seven (Experimental version). Grade 7 (student). 184 PDF pp. (cover/title page verified against the record title; printed p. = PDF p. - 7). Verdict: COMPLETE. Editions: English read fully; Bangla parallel edition spot-checked (cover, contents with identical chapter page spans 1-175, spreads at the Bedey river community and the delta experiment) — same content, placed once for both editions. Read via grab.py from the GitHub textbooks repo. (Combined History and Social Science book — Geography parts placed below; non-Geography parts named in the placements, not placed: How to Make Logical Decisions — thinking/inquiry, printed pp. 1-19; Ways to know Economic History — method, pp. 20-31; Similarities and Differences between People — community/gender parts, pp. 39-48 (Bedey river-community part placed); Emergence of Independent Bangladesh and Bangabandhu — history, pp. 65-74; Foreign Friends of Liberation War — history, pp. 75-92; Socio-political Structures and Customs — civics/sociology, pp. 93-118; Individual's Stand and Role in a Changing Context — sociology, pp. 119-131; About Wealth — economics of production, pp. 159-175; present-day development survey (GDP, Dhaka metro, power plants) inside the economic-history chapter — economics/history, pp. 60-64.) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bangladesh-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The squeeze on freshwater | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 3, printed pp. 65–67 |
@@ -27,12 +29,13 @@ countries: Ethiopia, Brazil, France, Haiti, Costa Rica, Palestine, Angola
 | Brazil part — Folha 4: A água tem futuro? / Does water have a future? | Brazil, *Geografia, Livro Didático Público, Ensino Médio*, Grade 10, Folha 4: A água tem futuro? / Does water have a future?, printed p. 66 |
 | Palestine part — Lesson 6: water security in the Arab homeland (stocked here as the closest existing lesson; the placements name resources-and-conflict/water-shortage-crises-sharing-rivers, which has no lesson folder) | Palestine, *Social Studies, Grade 8, Part One*, Grade 8, Lesson 6: water security in the Arab homeland — printed p. 44 |
 | Angola part — 1.2.5 Recursos hídricos | Angola, *Geografia 6ª Classe*, Grade 6, 1.2.5 Recursos hídricos — printed p. 16 |
+| Bangladesh part (Grade 7) — The Kaptai Dam located on the map of Bangladesh | Bangladesh, *History and Social Science, Class Seven*, Grade 7, The Kaptai Dam located on the map of Bangladesh — printed pp. 140-141 |
 
 | France part — Thème 1: L'eau douce, une ressource essentielle (stress hydrique, usages, perspectives) | France, *Géographie 2de GT, Manuel Libre de Géographie, Seconde*, Grade 10, Sommaire Thème 1 |
 | Haiti part — Séance 2, Temps 3-4 Le problème de l'eau en Haïti (bassins versants, état du réseau hydrographique, accès à l'eau potable; Rivière Froide, Rivière Grise, Rivière du Haut du Cap) (teacher sequence — evidence) | Haiti, *Haïti verte. Préserver et valoriser les ressources et l'environnement, protéger les hommes.* (teacher sequence), Grade 7, Séance 2, Temps 3-4 Le problème de l'eau en Haïti (bassins versants, état du réseau hydrographique, accès à l'eau potable; Rivière Froide, Rivière Grise, Rivière du Haut du Cap) — printed p. 8 |
 | Costa Rica part — debates on the use of water as a resource today | Costa Rica, *Antología CONED 8*, Grade 8, Unit 1 Tema 2 B — printed p. 38 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Brazil, France, Costa Rica, Palestine, Angola). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 7 countries (Ethiopia, Brazil, France, Costa Rica, Palestine, Angola, Bangladesh). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
 
 Haiti's own way (teacher sequence — evidence): The environment is studied from the schoolyard outward — a field diagnosis of the local environment (bare soils, dried springs, waste, noise), scaled up to a map and graph of the whole territory's problems (deforestation, erosion, water), then turned into a pupil-designed sustainable land-use project for a greener Haiti. That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
@@ -45,3 +48,5 @@ Searchable tags: water pollution, water crisis, desalination, watershed, ethiopi
 Palestine's own way (Grade 8, PS G8P1): the Arab homeland is toured as one region in a single unit — location, relief, climate, population, economic activities, and water security — before the book turns to Ottoman history and citizenship.
 
 Angola's own way (Grade 6): a resources-and-environment year — every world topic (air, water, soils, forests) is closed with the Angolan case: Angola's fresh-water use, Angola's farm land, Angola's forest areas. That way is stocked here as the way Angola teaches this thing.
+
+Bangladesh's own way (Grade 7): Geography thins into economic history and a long Sustainable Development inquiry: pupils build a delta in a sand tray, trace the rivers that enter Bangladesh from other countries, map the country's new maritime boundary and its minerals, and audit groundwater and fossil fuels — the delta and the sea are the classroom.

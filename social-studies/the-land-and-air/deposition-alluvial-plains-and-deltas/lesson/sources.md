@@ -1,10 +1,12 @@
 # Sources — Deposition — Alluvial Plains and Deltas
 
-countries: Ethiopia
+countries: Ethiopia, Bangladesh
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
 **Book 2:** *Social Studies Teacher's Guide, Grade 8* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, Addis Ababa, © 2015 E.C. (cover); first edition 2022 (copyright page). Authors: Tilahun Atlabachew T/Giorgis (M.A.), Melkamu Belay Tiruneh (B.A.), Kassahun Demissie Worku (M.A.), Mulugeta Dires Fetene (M.A.). Editors, reviewers and evaluators: Belay Belete Birhanu (MA), Solomon Wondimu Metaferia (MA). Coordinator: Getachew Talema Atinafu. No ISBN printed. Printed page = PDF page − 5. TRUNCATED: the file holds only printed pp. 1–47 (Units 1–3); Units 4–7 (printed pp. 48–109) are missing. Read in full for every page the file contains, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-teacher-placements.md.
+
+**Book 3:** *History and Social Science, Class Seven* (student book, English + Bangla parallel editions) — Bangladesh, National Curriculum and Textbook Board (NCTB), Dhaka, Bangladesh; year 2022 (first published December 2022, reprint 2023; National Curriculum 2022); no ISBN printed. Title as printed: History and Social Science, Class Seven (Experimental version). Grade 7 (student). 184 PDF pp. (cover/title page verified against the record title; printed p. = PDF p. - 7). Verdict: COMPLETE. Editions: English read fully; Bangla parallel edition spot-checked (cover, contents with identical chapter page spans 1-175, spreads at the Bedey river community and the delta experiment) — same content, placed once for both editions. Read via grab.py from the GitHub textbooks repo. (Combined History and Social Science book — Geography parts placed below; non-Geography parts named in the placements, not placed: How to Make Logical Decisions — thinking/inquiry, printed pp. 1-19; Ways to know Economic History — method, pp. 20-31; Similarities and Differences between People — community/gender parts, pp. 39-48 (Bedey river-community part placed); Emergence of Independent Bangladesh and Bangabandhu — history, pp. 65-74; Foreign Friends of Liberation War — history, pp. 75-92; Socio-political Structures and Customs — civics/sociology, pp. 93-118; Individual's Stand and Role in a Changing Context — sociology, pp. 119-131; About Wealth — economics of production, pp. 159-175; present-day development survey (GDP, Dhaka metro, power plants) inside the economic-history chapter — economics/history, pp. 60-64.) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bangladesh-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -12,9 +14,12 @@ countries: Ethiopia
 | Sub lesson 2 — Mass movement and alluvial plains | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 20–21 |
 | Sub lesson 3 — Deltas of the great rivers | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 20–21 |
 | The dropped-load vocabulary named in sub lesson 3 — sand dune, barchan, loess, scree (teacher guide — evidence) | Ethiopia, *Social Studies Teacher's Guide, Grade 8*, §1.1 (Activity 1.1B key), printed pp. 5–6 |
+| Bangladesh part (Grade 7) — Making a delta: sand-tray experiment pouring water over silt | Bangladesh, *History and Social Science, Class Seven*, Grade 7, Making a delta: sand-tray experiment pouring water over silt — printed pp. 137-138 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Bangladesh).**
 
 Pairing warning: the Grade 8 teacher guide is an Addis Ababa bureau book and the student book is an Amhara bureau book; they are NOT edition-matched, and the guide in hand is truncated (printed pp. 1–47 only, Units 1–3). Pupil content in this lesson comes from the Amhara student book; anything from the guide is labelled (teacher guide — evidence) and never presented as pupil-taught.
 
 Searchable tags: deposition   alluvial plains and deltas, ethiopia, social studies, the land and air
+
+Bangladesh's own way (Grade 7): Geography thins into economic history and a long Sustainable Development inquiry: pupils build a delta in a sand tray, trace the rivers that enter Bangladesh from other countries, map the country's new maritime boundary and its minerals, and audit groundwater and fossil fuels — the delta and the sea are the classroom.

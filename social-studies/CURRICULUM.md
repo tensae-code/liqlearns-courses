@@ -2351,3 +2351,80 @@ p. 44); in **People and Resources**: Angola's farm
 land — cultivable and not (G6, p. 58); in **Global
 Issues**: Reduce, reuse, recycle — the 3Rs (G5, p. 77).
 Geography lessons: 868 → 878.
+
+## Geography expansion — Bangladesh — built 2026-11-14
+
+Bangladesh — 61 placements stocked from 10 records / 5
+distinct grade books (each in Bangla + English parallel
+editions), all student books, National Curriculum and
+Textbook Board (NCTB), Dhaka, National Curriculum 2022,
+all COMPLETE, read via grab.py from the GitHub textbooks
+repo (English read fully for Grades 6-7, Bangla read
+fully for Grades 8 and 9-10, the other edition
+spot-checked — same content, placed once for both
+editions). Placed books: *History and Social Science,
+Class Six* (Grade 6, 2022, 184 PDF pp.; 22 placements),
+*History and Social Science, Class Seven* (Grade 7,
+2022, 184 PDF pp.; 15 placements), *History and Social
+Science, Class Eight* (Grade 8, 2023, 188 PDF pp.; 12
+placements) and *History and Social Science, Class
+Nine* (Grades 9-10, 2023, 192 PDF pp.; 12 placements) —
+the shared Class 9-10 SSC book: the Grade 10 tree files
+are byte-identical to the Grade 9 files (English
+50,152,317 bytes, SHA
+d2a8d461e799677e306cfe71a92fd0637327ea1c; Bangla
+8,397,648 bytes, SHA
+43cedf3b16cdd5946012cc8c53cd143a848d5570), so the one
+read covers all four G9/G10 records, placed once under
+its true identity, exactly as the placements state.
+All four are COMBINED History and Social Science books:
+Geography parts are placed; History/Civics parts are
+named in each lesson's sources, not placed.
+Bangladesh's own way (Grade 6): an inquiry-based course
+built around a class teacher character and group
+investigations; Geography is taught through the
+landform of Bengal itself — rivers, silt and hills
+explaining settlement, ancient states, ports and even
+the 1971 war — plus hands-on map-making and a pupil-run
+nature conservation club. (Grade 7): Geography thins
+into economic history and a long Sustainable
+Development inquiry — pupils build a delta in a sand
+tray, trace the rivers that enter Bangladesh from other
+countries, map the new maritime boundary and minerals,
+and audit groundwater and fossil fuels. (Grade 8): one
+long chapter, "Protect the Bond between Nature and
+People" — modelling the world's biomes, comparing
+world forest cover in 2000 and 2020, mapping
+Bangladesh's forests and disaster-prone areas, and an
+inquiry-reader on biomes, sea resources and the
+Sundarbans. (Grades 9-10): the "Living Together Safely"
+chapter is a genuine geography course inside the
+combined book — Khulna land-use change 1988-vs-2017,
+world population and density, remote sensing and GIS,
+settlement and urbanisation, desertification, and
+Bangladesh's squeeze of limited land, dense population
+and climate risk. Stocked into standing lessons (49
+placements) across First Steps, The Land and Air,
+Population, Transport and Maps, People and Resources,
+Culture and Work, Resources and Conflict and Global
+Issues. 11 NEW lessons built (12 placements; River
+Cities and Ports of Old Bengal carries two, Grades 6
+and 7) — **The Land and Air**: River Cities and Ports
+of Old Bengal (G6, printed pp. 60-62; G7, pp. 55-59),
+River Valleys and Coasts — Cradles of Civilisation
+(G6, pp. 68-73), Landforms of Bangladesh (G6, p. 121),
+Mapping Mineral Resources of Bangladesh and the World
+(G7, pp. 151-153), The World's Biomes (G8, pp. 128-131),
+Forests of Bangladesh and the Sundarbans (G8,
+pp. 150-154) and Land-Use Change — Maps Over Time
+(Grades 9-10, pp. 125-129); **Resources and Conflict**:
+A School Nature Conservation Club (G6, pp. 77-81);
+**Global Issues**: Bangladesh's New Sea Boundary and
+Blue Economy (G7, pp. 142-144), Natural Disasters of
+Bangladesh and How to Prepare (G8, pp. 155-159) and
+Bangladesh's Land, People and Climate Challenge
+(Grades 9-10, pp. 155-156) — the new lessons taught in
+1 country (Bangladesh), 8 questions each (River Cities
+and Ports of Old Bengal, with three sub lessons, 12
+questions).
+Geography lessons: 878 → 889.

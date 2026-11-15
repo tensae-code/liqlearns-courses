@@ -103,7 +103,7 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **878**
+Geography lessons across the eight Geography titles: **889**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -421,3 +421,17 @@ People and Resources: Angola's farm land — cultivable
 and not; Global Issues: Reduce, reuse, recycle — the
 3Rs. (All 10 stand on Angola's student books, counted
 in acceptance.)
+
++11 for Bangladesh, 2026-11-14 — The Land
+and Air: River Cities and Ports of Old Bengal,
+River Valleys and Coasts — Cradles of Civilisation,
+Landforms of Bangladesh, Mapping Mineral Resources
+of Bangladesh and the World, The World's Biomes,
+Forests of Bangladesh and the Sundarbans and
+Land-Use Change — Maps Over Time; Resources and
+Conflict: A School Nature Conservation Club; Global
+Issues: Bangladesh's New Sea Boundary and Blue
+Economy, Natural Disasters of Bangladesh and How to
+Prepare and Bangladesh's Land, People and Climate
+Challenge. (All 11 stand on Bangladesh's student
+books, counted in acceptance.)

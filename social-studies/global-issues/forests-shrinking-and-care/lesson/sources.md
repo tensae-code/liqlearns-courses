@@ -1,6 +1,6 @@
 # Sources — Forests — Shrinking and Care
 
-countries: Ethiopia, Costa Rica, Angola
+countries: Ethiopia, Costa Rica, Angola, Bangladesh
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (placements 146–147, with the chapter assessment stock of placement 148).
 
@@ -8,14 +8,17 @@ countries: Ethiopia, Costa Rica, Angola
 
 **Book 3:** *Geografia 6ª Classe* (student book, Portuguese) — Angola, Ministério da Educação / Mensagem Editora, Luanda; year 2021 (3.ª Edição); ISBN 978-989-54802-5-8. Title as printed: Geografia | Manual da 6.ª Classe. Grade 6 (student). 96 PDF pp. (cover/title page verified against the record title; read from the record's own recorded source_url (Portal do Professor de Língua Portuguesa) after the GitHub API grab route repeatedly failed with RemoteDisconnected on 2026-11-14 — so the repo copy was not byte-verified against this read). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/angola-placements.md.
 
+**Book 4:** *History and Social Science, Class Eight* (student book, Bangla + English parallel editions) — Bangladesh, National Curriculum and Textbook Board (NCTB), Dhaka, Bangladesh; year 2023 (published December 2023, for academic year 2024; National Curriculum 2022); no ISBN printed. Title as printed: History and Social Science, Class Eight (Experimental version) [Bangla: ইতিহাস ও সামাজিক বিজ্ঞান, অষ্টম শ্রেণি]. Grade 8 (student). 188 PDF pp. in both editions (covers/title pages verified against the record title; printed p. = PDF p. - 7; the English edition is a 131 MB full-quality scan). Verdict: COMPLETE. Editions: Bangla read fully; English parallel edition spot-checked (cover, contents with identical chapter page spans, spreads in the nature-and-people chapter and the Bangladesh forest map) — same content, placed once for both editions. English chapter titles: Society through the Lens of Science; Let us Protect Nature and Human Bonds; Principles of Wealth Production and Equality. Read via grab.py from the GitHub textbooks repo. (Combined History and Social Science book — Geography parts placed below; non-Geography parts named in the placements, not placed: Spirit of the Liberation War and Bangabandhu — history, printed pp. 32-47; Ways of Knowing Social and Cultural History — history method, pp. 48-62; Socialisation, Social Control and Social Change — sociology, pp. 87-101; Changing Context and the Individual's Role — sociology, pp. 102-108; The Diverse Course of Social and Cultural History in the World Context — history/culture, pp. 109-124; Production of Wealth and the Principle of Equity — economics, pp. 160-179; identity parts of Unity in Uniqueness, pp. 13-23 and 29-31; cultural-history narrative parts of the Bengal chapter, pp. 63-64 and 68-86.) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bangladesh-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Why forests fall, and what follows: forests as gatherings of vegetation where trees abound; former wide cover, present remnant; farm and grazing expansion, city growth, cutting for services; the listed results — climate disturbance, accelerated soil degradation, faster silt accumulation, heavy flooding, fuel-wood shortage, loss of individual plant species, forests failing as breeding places | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 7, printed pp. 190–191 |
 | Sub lesson 2 — The seven care practices: reforestation, coppicing, forest protection, proper cutting methods, controlling fires, controlling diseases, controlling pests (the qinqin as printed), with land-use planning applied | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 7, printed pp. 192–193 |
 | Costa Rica part — strategies for tropical forest conservation, the Costa Rican case | Costa Rica, *Antología CONED 7*, Grade 7, Unit III Tema I C — printed p. 130 |
 | Angola part — 5.3 O combate contra a desflorestação | Angola, *Geografia 6ª Classe*, Grade 6, 5.3 O combate contra a desflorestação — printed p. 81 |
+| Bangladesh part (Grade 8) — Forest-covered regions of the world compared, 2000 and 2020; how Bangladesh's forests have changed since 1930 | Bangladesh, *History and Social Science, Class Eight*, Grade 8, Forest-covered regions of the world compared, 2000 and 2020; how Bangladesh's forests have changed since 1930 — printed pp. 132-135 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Costa Rica, Angola).**
+**Acceptance count: taught in 4 countries (Ethiopia, Costa Rica, Angola, Bangladesh).**
 
 Chapter assessment stock carried as the book keys it (placement 148): 'which factor drives deforestation in developing countries' keyed to all of city growth, grazing expansion and farm-land hunger; 'farming the land bare' keyed as the soil-care method that does not belong; groundwater increasing keyed as NOT a result of forest shrinking. The pest name 'qinqin' is carried as printed in the placement. There is NO Grade 8 teacher-guide coverage for Chapter 7: the Grade 8 guide in hand holds only Units 1–3, so no teacher evidence is claimed for any Grade 8 part of this lesson.
 
@@ -24,3 +27,5 @@ Costa Rica's own way: a distance-education anthology organised around "the human
 Searchable tags: forests, deforestation, reforestation, coppicing, forest protection, land-use planning, fuel-wood shortage, Ethiopia Grade 8 Social Studies Chapter 7, Costa Rica, CONED Antología, Estudios Sociales
 
 Angola's own way (Grade 6): a resources-and-environment year — every world topic (air, water, soils, forests) is closed with the Angolan case: Angola's fresh-water use, Angola's farm land, Angola's forest areas. That way is stocked here as the way Angola teaches this thing.
+
+Bangladesh's own way (Grade 8): the year's Geography is one long chapter, "Protect the Bond between Nature and People": pupils model the world's biomes, compare world forest cover in 2000 and 2020, map Bangladesh's own forests and disaster-prone areas, and read a long inquiry-reader on biomes, sea resources and the Sundarbans mangrove.

@@ -1,16 +1,21 @@
 # Sources — Desertification — land turning unproductive
 
-countries: Ethiopia
+countries: Ethiopia, Bangladesh
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
+
+**Book 2:** *History and Social Science, Class Nine* (student book, Bangla + English parallel editions; the shared Class 9-10 SSC book) — Bangladesh, National Curriculum and Textbook Board (NCTB), Dhaka, Bangladesh; year 2023 (first published December 2023, for academic year 2024; National Curriculum 2022); no ISBN printed. Title as printed: History and Social Science, Class Nine (Experimental version) [Bangla: ইতিহাস ও সামাজিক বিজ্ঞান, নবম শ্রেণি] — the shared Class 9-10 SSC book. Grades 9-10 (student). 192 PDF pp. in the Bangla edition (cover/title page verified against the record title; printed p. = PDF p. - 7). Verdict: COMPLETE. Editions: Bangla read fully. The Grade 10 records are the SAME book: the grade-10 tree files have identical byte size and blob SHA to the grade-09 files (English 50,152,317 bytes, SHA d2a8d461e799677e306cfe71a92fd0637327ea1c; Bangla 8,397,648 bytes, SHA 43cedf3b16cdd5946012cc8c53cd143a848d5570), so this one read covers all four records (G9 Bangla, G9 English, G10 Bangla, G10 English); English spot-checked via a git sparse-checkout copy verified byte-for-byte against the record (50,152,317 bytes, blob SHA d2a8d461e799677e306cfe71a92fd0637327ea1c) — same content, placed once for all four records. Read via grab.py from the GitHub textbooks repo. (Combined History and Social Science book — Geography parts placed below; non-Geography parts named in the placements, not placed: Self-identity and Mental Behaviour — psychology, printed pp. 15-26; 'Bangladesh' and 'Bangabandhu': Humanist Stream and Non-communal Consciousness — history/civics, pp. 27-48; Political Structure and Civic Responsibility — civics, pp. 49-73; In Search of Political History in Global Context — history, pp. 74-83; Ways of Knowing History and the Problem of Periodisation — history method, pp. 84-92; The Diverse Course of Political History in the Bengal Region and Bangladesh — history, pp. 93-114; Social Structure in Personal Life — sociology, pp. 115-124; Production, Distribution of Wealth and the Principle of Equity — economics, pp. 157-183.) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bangladesh-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Not deserts spreading — land degrading | G12 student #72, printed pp. 190–194 |
 | Sub lesson 2 — The drylands at risk | G12 student #72, printed pp. 190–194 |
+| Bangladesh part (Grades 9-10) — Land cover and land use change through history; desertification in the dry regions | Bangladesh, *History and Social Science, Class Nine* (the shared Class 9-10 SSC book), Grades 9-10, Land cover and land use change through history; desertification in the dry regions — printed pp. 139-142 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Bangladesh).**
 
 No book error in the placements for this lesson is taught here. Figures and dates are taught exactly as the placements report them, as the book's own record.
 
 Searchable tags: desertification, UNCCD, drylands, Sahel, Nairobi 1977, land degradation, social studies
+
+Bangladesh's own way (Grades 9-10): the shared SSC book's big chapter "Living Together Safely" is a genuine geography course inside the combined book — land-use change read off 1988-vs-2017 Khulna maps, world population and density, remote sensing and GIS with its five components, settlement and urbanisation, desertification, and Bangladesh's own squeeze of limited land, dense population and climate risk.
