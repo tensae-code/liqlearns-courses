@@ -1,6 +1,6 @@
 # Sources — Tourism — selling the landscape
 
-countries: Ethiopia, Morocco, France, Nauru, Tuvalu, Guatemala
+countries: Ethiopia, Morocco, France, Nauru, Tuvalu, Guatemala, Ecuador
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Morocco, France, Nauru, Tuvalu, Guatemala
 
 **Book 6:** *Ciencias Sociales y Formación Ciudadana, Cuarto grado* (student book, Spanish) — Guatemala, Ministerio de Educación de Guatemala, elaborated with USAID/Reforma Educativa en el Aula (Juárez y Asociados); author Gloria Amaria Hernández; year impresión 2017; ISBN 978-9929-596-13-9. Title as printed: Ciencias Sociales y Formación Ciudadana — Cuarto grado. Grade: Grade 4 (student). 256 PDF pp. (cover verified against the record title; byte size 25,726,392 and page count 256 match the books.json record exactly — read from the record's own Wayback source URL after grab.py failed with GitHub API RemoteDisconnected; the two TSV release records are the same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/guatemala-placements.md.
 
+**Book 7:** *Estudios Sociales 3ro EGB* (student book, Spanish) — Ecuador, SM Ediciones Ecuador for the Ministerio de Educación del Ecuador (Proyecto Licitación Ministerio de Educación, Ecuador 2016; reviewed 3 June 2016); year 2016; no ISBN printed. Title as printed: Estudios Sociales 3 — Texto del estudiante. Grade: Grade 3 (student). 176 PDF pp. (cover/title page verified against the record title; grabbed via the repo release route, 47,818,010 bytes = record size exactly; the record notes the 2024 edition exists but its only reachable copy is truncated, so this complete older edition is the held book; the book's two records — a TSV release/blob record and a books.json record for the same repo path — are one book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/ecuador-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The attractions | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 5, printed pp. 147–149 |
@@ -25,8 +27,9 @@ countries: Ethiopia, Morocco, France, Nauru, Tuvalu, Guatemala
 | Tuvalu part — Whale watching and swimming with whales as ecotourism (inside the Whales section) | Tuvalu, *People and the Sea in the Pacific*, Years 5–6, Whale watching and swimming with whales as ecotourism (inside the Whales section) — printed p. 10 |
 | Guatemala part — Sitios turísticos | Guatemala, *Ciencias Sociales y Formación Ciudadana*, Grade 4, Sitios turísticos (Unit 4) — printed pp. 183–184 |
 | Guatemala part — Proyecto: Turismo | Guatemala, *Ciencias Sociales y Formación Ciudadana*, Grade 4, Proyecto: Turismo (Unit 4 closing project) — printed pp. 198–201 |
+| Ecuador part — Atractivos turísticos | Ecuador, *Estudios Sociales 3ro EGB (SM 2016)*, Grade 3, Atractivos turísticos — printed p. 130 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, France, Nauru, Tuvalu, Guatemala). Morocco is named in this file as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 6 countries (Ethiopia, France, Nauru, Tuvalu, Guatemala, Ecuador). Morocco is named in this file as teacher-guide evidence only, counted nowhere.**
 
 Nauru's own way: Nauru uses the shared Pacific ESD reader suite (local advisors Fay Itaia & Sharon Kam for Nauru) — Geography is taught as ocean stewardship: the Pacific as a connected "sea of islands", its animals, and the traditional fishing knowledge of Tonga, Tuvalu and Niue, ending in a plastic-waste action plan. That way is stocked here as the way Nauru teaches this thing.
 
@@ -34,7 +37,9 @@ Tuvalu's own way: Tuvalu uses the shared Pacific ESD reader suite (local advisor
 
 Guatemala's own way: one combined Social Studies and Citizenship book per grade, organised in four units that alternate History of Guatemala/Central America with the physical geography of the isthmus — every map carries the note about the unresolved Belize territorial differendum, and Geography is always worked on maps of the seven Central American countries with Guatemala's own Sierra de las Minas, Motagua river and Maya Biosphere as the home examples. That way is stocked here as the way Guatemala teaches this thing.
 
-Searchable tags: tourism, attractions, lalibela, simien, constraints, social studies, Nauru, People and the Sea in the Pacific, whale watching, ecotourism, Tuvalu, Guatemala
+Ecuador's own way (Grade 3 book): the older SM edition is a classic skills-first book — a whole opening unit on orientation, cardinal points, the compass rose and plans before any content; every unit runs the same skeleton (content lessons, “Ser Estudiante” test, Cultura del Buen Vivir, scientific work, digital skills, unit evaluation), and the country is learned parish → canton → province → nation. That way is stocked here as the way Ecuador teaches this thing.
+
+Searchable tags: tourism, attractions, lalibela, simien, constraints, social studies, Nauru, People and the Sea in the Pacific, whale watching, ecotourism, Tuvalu, Guatemala, Ecuador
 
 ## Teacher-guide evidence added (Wave 4, Band F)
 

@@ -1,6 +1,6 @@
 # Sources — Heritage — what it is and why it matters
 
-countries: Ethiopia, United Arab Emirates, Micronesia, Mongolia
+countries: Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador
 
 **Book 1:** *History, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, Addis Ababa, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-064-2, 210 printed pp. Printed page = PDF page − 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g09-student-placements.md
 
@@ -18,6 +18,10 @@ countries: Ethiopia, United Arab Emirates, Micronesia, Mongolia
 
 **Book 8:** *Нийгэм судлал VIII (Social Studies VIII)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports, Ulaanbaatar; year 2019; ISBN no ISBN printed on the pages checked. Title as printed: Нийгэм судлал VIII (Social Studies VIII). Grade: Grade 8 (student). 99 PDF pp. (cover verified against the record title; secured GitHub release asset, 32,655,646 bytes, byte-size verified on download; contents also cross-checked against the ministry econtent flipbook of the same book). Verdict: COMPLETE for Geography scope (contents page and chapter structure read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mongolia-placements.md.
 
+**Book 9:** *Estudios Sociales 2do EGB* (student book, Spanish) — Ecuador, Ministerio de Educación del Ecuador; year 2024 (Primera Edición); ISBN 978-9942-662-16-3. Title as printed: Estudios Sociales — Educación General Básica, Subnivel Elemental, Segundo de Básica; Texto del estudiante para la transición curricular. Grade: Grade 2 (student). 114 PDF pp. (cover/title page verified against the record title; read in place in phase3-staging, 9,005,158 bytes; the book's two records — a TSV release/blob record and a books.json record for the same repo path — are one book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/ecuador-placements.md.
+
+**Book 10:** *Estudios Sociales 3ro EGB* (student book, Spanish) — Ecuador, SM Ediciones Ecuador for the Ministerio de Educación del Ecuador (Proyecto Licitación Ministerio de Educación, Ecuador 2016; reviewed 3 June 2016); year 2016; no ISBN printed. Title as printed: Estudios Sociales 3 — Texto del estudiante. Grade: Grade 3 (student). 176 PDF pp. (cover/title page verified against the record title; grabbed via the repo release route, 47,818,010 bytes = record size exactly; the record notes the 2024 edition exists but its only reachable copy is truncated, so this complete older edition is the held book; the book's two records — a TSV release/blob record and a books.json record for the same repo path — are one book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/ecuador-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Heritage defined, and the guide's pointed question (teacher guide — evidence): why Europeans considered Africans uncivilised when African heritages such as Great Zimbabwe show otherwise | Ethiopia, *History, Teacher's Guide, Grade 9*, Unit 5, printed pp. 88–107 (teacher guide — evidence) |
@@ -28,11 +32,17 @@ countries: Ethiopia, United Arab Emirates, Micronesia, Mongolia
 | Micronesia (Kapingamarangi) part — the reader as a whole: Kapingamarangi's oral tradition written down as the island's heritage | Micronesia, *Pohnpei Studies Reader — Kapingamarangi History*, printed p. 6 |
 | Mongolia part — How do we study cultural heritage? | Mongolia, *Нийгэм судлал IX (Social Studies IX)*, Grade 9, Chapter 2 Individual and Culture: 2.2 How do we study cultural heritage? — printed p. 27 |
 | Mongolia part — We are proud of our homeland's heritage and culture | Mongolia, *Нийгэм судлал VIII (Social Studies VIII)*, Grade 8, Chapter II Individual and Culture: 2.1 We are proud of our homeland's heritage and culture — printed p. 25 |
+| Ecuador part — Patrimonios culturales del Ecuador | Ecuador, *Estudios Sociales 2do EGB*, Grade 2, Patrimonios culturales del Ecuador — printed p. 52 |
+| Ecuador part — Patrimonio natural y cultural (Unit 5, Un viaje por el Ecuador) | Ecuador, *Estudios Sociales 3ro EGB (SM 2016)*, Grade 3, Patrimonio natural y cultural (Unit 5, Un viaje por el Ecuador) — printed p. 104 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, United Arab Emirates, Micronesia, Mongolia).**
+**Acceptance count: taught in 5 countries (Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador).**
 
 Mongolia's own way (Grade 9): Social Studies is a five-chapter spiral (Individual & Society, Individual & Culture, Individual & Economy, Human Rights & Law, Public Administration) continued from Grade 8; there is no physical-geography chapter — Mongolia's geography is a separate subject (Газарзүй) — so this book's Geography-wave content is its culture and economics teaching, grounded in Mongolian surveys, wage tables and heritage inventories. The book's Sociology parts (Chapter 1, printed pp. 6–13) and Law/Civics parts (Chapters 4–5, printed pp. 62–92) are named in the placements, not placed. Mongolia's own way (Grade 8): the Grade 8 year is the LOCAL year — every chapter is re-anchored to the child's own орон нутаг (local area/homeland): its environment and problems, its heritage, its economy and market, its governance. The book's Law/Civics parts (Chapters IV–V, printed pp. 63–94) are named in the placements, not placed. That way is stocked here as the way Mongolia teaches this thing.
 
 Scope honesty, stated plainly: the Grade 9 placements give no UNESCO World Heritage List content and no general heritage chapter — the 'Heritage — things and practices we choose to keep' and 'Ethiopia on the World Heritage List / Ethiopia's UNESCO heritages' names in the coordinator's list have no Grade 9 placement behind them. This lesson is therefore built ONLY from what the Grade 9 books do give: the teacher guide's heritage question (Unit 5, printed pp. 88–107, labelled evidence) and the student book's Great Zimbabwe account (printed pp. 94–96), stacked into the single heritage lesson the Grade 9 material can honestly stock. The UNESCO-list lesson is logged as unbuilt in the build log, with the reason. No heritage fact is claimed beyond those two placements.
 
-Searchable tags: heritage, Great Zimbabwe, Shona, Mwene Mutapa, stone walls, cultural heritage, evidence, national landmarks, Etihad Museum, United Arab Emirates Grade 1, Mongolia, Нийгэм судлал
+Ecuador's own way (Grade 2 book): Geography is taught inside three thematic sections that always start from the child's family, school and province and widen to Ecuador and South America; heavy use of hazard maps (floods, landslides, volcanoes) and emergency plans from Grade 2, reflecting Ecuador's volcanic / El Niño risk profile.
+
+Ecuador's own way (Grade 3 book): the older SM edition is a classic skills-first book — a whole opening unit on orientation, cardinal points, the compass rose and plans before any content; every unit runs the same skeleton (content lessons, “Ser Estudiante” test, Cultura del Buen Vivir, scientific work, digital skills, unit evaluation), and the country is learned parish → canton → province → nation. That way is stocked here as the way Ecuador teaches this thing.
+
+Searchable tags: heritage, Great Zimbabwe, Shona, Mwene Mutapa, stone walls, cultural heritage, evidence, national landmarks, Etihad Museum, United Arab Emirates Grade 1, Mongolia, Нийгэм судлал, Ecuador

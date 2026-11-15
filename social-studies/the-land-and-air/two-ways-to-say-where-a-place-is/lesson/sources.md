@@ -1,6 +1,6 @@
 # Sources — Two ways to say where a place is
 
-countries: Ethiopia, Guyana, Saudi Arabia, Turkey
+countries: Ethiopia, Guyana, Saudi Arabia, Turkey, Ecuador
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Guyana, Saudi Arabia, Turkey
 
 **Book 5:** *Ortaöğretim Coğrafya 9. Sınıf Ders Kitabı* (student book, Turkish) — Turkey, Millî Eğitim Bakanlığı (MEB), Devlet Kitapları; year 2017 (Birinci Baskı); ISBN 978-975-11-4324-2. Title as printed: Ortaöğretim Coğrafya 9 — Ders Kitabı (authors İsmail Özdoğan, Kenan Türkez, Mutlu Karakoç). Grade 9 (student). 240 PDF pp. (cover/title page verified against the record title; read from the record's archive.org source_url copy — the repo copy later landed by git sparse checkout at exactly the same byte size, 25,904,697 bytes, confirming the same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/turkey-placements.md.
 
+**Book 6:** *Estudios Sociales 3ro EGB* (student book, Spanish) — Ecuador, SM Ediciones Ecuador for the Ministerio de Educación del Ecuador (Proyecto Licitación Ministerio de Educación, Ecuador 2016; reviewed 3 June 2016); year 2016; no ISBN printed. Title as printed: Estudios Sociales 3 — Texto del estudiante. Grade: Grade 3 (student). 176 PDF pp. (cover/title page verified against the record title; grabbed via the repo release route, 47,818,010 bytes = record size exactly; the record notes the 2024 edition exists but its only reachable copy is truncated, so this complete older edition is the held book; the book's two records — a TSV release/blob record and a books.json record for the same repo path — are one book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/ecuador-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Absolute location | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 1, printed pp. 9–10 |
@@ -20,9 +22,12 @@ countries: Ethiopia, Guyana, Saudi Arabia, Turkey
 | Teaching pattern and answer keys (teacher guide — evidence) — Grade 9 Unit 1 | Ethiopia, *Geography, Teacher Guide, Grade 9*, Unit 1, guide printed pp. 1–34 |
 | Sub lesson — Location (Saudi Arabia way: الموقع, Unit 3 Lesson 10 — location as one of the classic five themes, each as its own lesson) | Saudi Arabia, *الدراسات الاجتماعية — الصف الرابع الابتدائي / Social Studies, Grade 4*, Unit 3 Lesson 10, printed p. 69 |
 | Turkey part — 2B1 Mutlak Konum (absolute location) | Turkey, *Ortaöğretim Coğrafya 9. Sınıf Ders Kitabı*, Grade 9, 2B1 Mutlak Konum (absolute location) — printed p. 38 |
+| Ecuador part — Ubicación del Ecuador (Unit 4, Mi país diverso) | Ecuador, *Estudios Sociales 3ro EGB (SM 2016)*, Grade 3, Ubicación del Ecuador (Unit 4, Mi país diverso) — printed p. 78 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Guyana, Saudi Arabia, Turkey).**
+**Acceptance count: taught in 5 countries (Ethiopia, Guyana, Saudi Arabia, Turkey, Ecuador).**
 
 Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
-Searchable tags: absolute location, relative location, latitude longitude, social studies
+Ecuador's own way (Grade 3 book): the older SM edition is a classic skills-first book — a whole opening unit on orientation, cardinal points, the compass rose and plans before any content; every unit runs the same skeleton (content lessons, “Ser Estudiante” test, Cultura del Buen Vivir, scientific work, digital skills, unit evaluation), and the country is learned parish → canton → province → nation. That way is stocked here as the way Ecuador teaches this thing.
+
+Searchable tags: absolute location, relative location, latitude longitude, social studies, Ecuador

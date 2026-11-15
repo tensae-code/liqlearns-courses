@@ -103,7 +103,7 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **756**
+Geography lessons across the eight Geography titles: **777**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -300,3 +300,20 @@ Studying my own locality; Resources and Conflict:
 Mongolia and its neighbours — Russia and China and
 Mongolia's third neighbour policy; Global Issues:
 Soft power — how countries win friends.
++21 for Ecuador, 2026-11-14 — The Land and Air:
+Provinces of Ecuador, Landscapes of Ecuador's
+provinces, My province and its tourist attractions,
+Natural regions of Ecuador — Costa, Sierra, Oriente,
+Galápagos, Flora and fauna of Ecuador, Coastal
+landforms and Ecuador in the Andean space; Population,
+Transport and Maps: Urban and rural parishes,
+Political-territorial division of Ecuador, Main cities
+of Ecuador, Hazard maps — floods, landslides and
+volcanoes, Plans and their symbols and Plans versus
+maps; Culture and Work: Types of homes and housing,
+The Ecuadorian people and Public and private services;
+Global Issues: Natural disasters and emergency plans,
+Preventing and preparing for natural hazards and
+Natural phenomena and disasters; People and Resources:
+Products of Ecuador's provinces; Resources and
+Conflict: Protected areas of Ecuador.

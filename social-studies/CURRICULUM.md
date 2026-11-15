@@ -1784,3 +1784,135 @@ Issues**: Soft power — how countries win friends
 (Grade 11 Topic 6.4, printed p. 186) — the new lessons
 taught in 1 country (Mongolia), 8 questions each.
 Geography lessons: 735 → 756.
+
+
+## Geography expansion — Ecuador — built 2026-11-14
+
+Ecuador — 52 placements stocked from 4 distinct placed
+books (18 records / 10 distinct books in the Ecuador
+file; the 8 full-year Estudios Sociales student books
+each appear twice — once as a TSV release/blob record
+and once as a books.json record for the same repo path
+= one book each). Placed books, all Spanish, Ministerio
+de Educación del Ecuador (MinEduc), all student books
+counted in acceptance counts: *Estudios Sociales 2do
+EGB* (Grade 2, 2024 Primera Edición, ISBN
+978-9942-662-16-3, 114 PDF pp., COMPLETE; 18
+placements), *Estudios Sociales 3ro EGB* (Grade 3, SM
+Ediciones Ecuador for MinEduc, Proyecto Licitación
+Ministerio de Educación, Ecuador 2016, reviewed 3 June
+2016, no ISBN printed, 176 PDF pp., COMPLETE — the
+record notes the 2024 edition exists but its only
+reachable copy is truncated, so this complete older
+edition is the held book; 20 placements), *Estudios
+Sociales 5to EGB* (Grade 5, 2024 Primera edición, ISBN
+978-9942-662-22-4, 210 PDF pp., COMPLETE; 8 placements)
+and *Estudios Sociales 8vo EGB* (Grade 8, 2024 Primera
+edición, ISBN 978-9942-662-28-6, 194 PDF pp., COMPLETE;
+6 placements). NOT placed (6 distinct books): the two
+*Aprender a tiempo* reading excerpts (Grades 7 and 8)
+are RECORD-ONLY Literature anthologies with no
+Geography parts; and four records are RECORD-ONLY FILE
+MISMATCHES — the Grade 6 and Grade 7 records hold the
+Grade 5 book's body behind their covers, and the Grade
+9 and Grade 10 records hold the Grade 8 book's body
+(verified by full text diff and the ISBN printed
+inside); their content is taught once, under its true
+Grade 5 / Grade 8 identity, and the genuine Grade 6, 7,
+9 and 10 books are NOT held — a library debt. Pattern:
+the ministry's 2024 transición-curricular PDFs, as
+held, reuse one body per sublevel (the Grade 5 body
+carries Subnivel Media; the Grade 8 body carries
+Subnivel Superior); only Grades 2, 3, 5 and 8 hold
+their own genuine books. Ecuador's own way (Grade 2):
+Geography is taught inside three thematic sections
+that always start from the child's family, school and
+province and widen to Ecuador and South America; heavy
+use of hazard maps (floods, landslides, volcanoes) and
+emergency plans from Grade 2, reflecting Ecuador's
+volcanic / El Niño risk profile. Ecuador's own way
+(Grade 3): the older SM edition is a classic
+skills-first book — a whole opening unit on
+orientation, cardinal points, the compass rose and
+plans before any content; every unit runs the same
+skeleton (content lessons, “Ser Estudiante” test,
+Cultura del Buen Vivir, scientific work, digital
+skills, unit evaluation), and the country is learned
+parish → canton → province → nation. Ecuador's own
+way (Grade 5): the 2024 Grade 5 book is History-led
+(five of eight sections are national history);
+Geography is concentrated at the end, where the
+country is re-read spatially — Andean relief and
+rivers, natural regions and climatic floors, population
+diversity and migration, territorial division,
+provincial products, and the protected-area system
+taught together with climate-change action. Ecuador's
+own way (Grade 8): at Superior level the book turns
+thematic; Geography enters as a full cartography tema
+(map studies explicitly tied to Earth's formation,
+continents, oceans, climates, natural risks and
+contingency plans) and as the economic-sectors tema on
+Ecuador. The books' History and Civics parts are named
+in the placements, not placed. Stocked into standing
+lessons — **The Land and Air**: Major and minor
+landforms (Grade 2, printed p. 25; Grade 3, printed
+p. 36), Shapes countries come in (Límites del Ecuador,
+Grade 2, printed p. 87), Continents — the seven in
+place (South American countries, Grade 2, printed
+p. 87), Compass points (Grade 3, printed p. 10), Two
+ways to say where a place is (Ubicación del Ecuador,
+Grade 3, printed p. 78) and Sorting the world's
+climates three ways (Grade 8, printed p. 99); **Earth
+and Space**: Landforms, continents and oceans (Grade
+3, printed p. 34; Grade 8, printed p. 99); **Culture
+and Work**: Culture and identity (Grade 2, printed
+p. 52; Grade 3, printed p. 82), Economic activities —
+the three levels (Grade 3, printed p. 124; Grade 8,
+printed p. 121) and Culture — globalisation and
+cultural change (Grade 8, printed p. 144); **First
+Steps**: Heritage — what it is and why it matters
+(Grade 2, printed p. 52; Grade 3, printed p. 104);
+**Global Issues**: Biodiversity — the variety of life
+(Ecuador megadiverso, Grade 2, printed p. 87) and
+Climate change effects and responses (Grade 5, printed
+p. 166); **Population, Transport and Maps**: Road
+safety signs and crossings (Grade 3, printed p. 110),
+Transport — kinds of transport (Grade 3, printed
+p. 128), Population distribution (Grade 5, printed
+p. 132), Kinds of migration (Grade 5, printed p. 132)
+and Maps and globes — kinds of maps and scale (Grade
+8, printed p. 99); **People and Resources**: Tourism —
+selling the landscape (Grade 3, printed p. 130) — and
+21 new lessons built — in **The Land and Air**:
+Provinces of Ecuador (Grade 2, printed p. 69),
+Landscapes of Ecuador's provinces (Grade 2, printed
+p. 69), My province and its tourist attractions (Grade
+2, printed p. 69), Natural regions of Ecuador — Costa,
+Sierra, Oriente, Galápagos (Grade 2, printed p. 87;
+Grade 3, printed p. 80; Grade 5, printed p. 120), Flora
+and fauna of Ecuador (Grade 2, printed p. 87), Coastal
+landforms (Grade 3, printed p. 38) and Ecuador in the
+Andean space (Grade 5, printed p. 112); in
+**Population, Transport and Maps**: Urban and rural
+parishes (Grade 2, printed p. 52; Grade 3, printed
+p. 58), Political-territorial division of Ecuador
+(Grade 2, printed p. 52; Grade 3, printed p. 56; Grade
+5, printed p. 148), Main cities of Ecuador (Grade 2,
+printed p. 69), Hazard maps — floods, landslides and
+volcanoes (Grade 2, printed p. 69), Plans and their
+symbols (Grade 3, printed p. 16) and Plans versus maps
+(Grade 3, printed p. 20); in **Culture and Work**:
+Types of homes and housing (Grade 2, printed p. 25),
+The Ecuadorian people (Grade 3, printed p. 106) and
+Public and private services (Grade 3, printed p. 126);
+in **Global Issues**: Natural disasters and emergency
+plans (Grade 2, printed p. 25), Preventing and
+preparing for natural hazards (Grade 2, printed p. 52;
+Grade 3, printed p. 42; Grade 8, printed p. 99) and
+Natural phenomena and disasters (Grade 3, printed
+p. 40); in **People and Resources**: Products of
+Ecuador's provinces (Grade 5, printed p. 148); in
+**Resources and Conflict**: Protected areas of Ecuador
+(Grade 5, printed p. 166) — the new lessons taught in
+1 country (Ecuador), 8 questions each.
+Geography lessons: 756 → 777.

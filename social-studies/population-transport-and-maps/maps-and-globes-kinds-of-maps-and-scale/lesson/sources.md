@@ -1,6 +1,6 @@
 # Sources — Maps and globes — kinds of maps and scale
 
-countries: Ethiopia, France, Myanmar, Haiti, Costa Rica
+countries: Ethiopia, France, Myanmar, Haiti, Costa Rica, Ecuador
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 2, placements 27–43).
 
@@ -12,6 +12,8 @@ countries: Ethiopia, France, Myanmar, Haiti, Costa Rica
 
 **Book 5:** *Estudios Sociales 11* (Porras y Gamboa) (student book, Spanish) — Costa Rica, Publicaciones Porras y Gamboa, San José (printed imprint: Editorial Compas ERV); year 2018, 1st edition; ISBN 978-9930-9622-3-7 as printed on the copyright page (the targets record gives 978-9990-96223-7 — record/printed mismatch, see group log library debts). Title as printed: Estudios Sociales 11 (cover: "Estudios Sociales 11 — Publicaciones Porras"). Grade: Grade 11 (student). 200 PDF pp. (cover verified visually against the record title; size 56,329,080 bytes = record; image-only PDF, read via 100-DPI 4-up contact sheets). Verdict: COMPLETE for this wave's scope — the Geography unit (Unit 1) was read page-by-page; Units 2–3 (History) and Unit 4 (exam practice) were identified from the full printed table of contents and spot-checked at their openings. Read from the recorded public source URLs (CONED site and archive.org) after the GitHub grab route failed with RemoteDisconnected/timeouts on 2026-11-14; every downloaded file matched its books.json record byte-for-byte (size_bytes) and page count. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/costa-rica-placements.md.
 
+**Book 6:** *Estudios Sociales 8vo EGB* (student book, Spanish) — Ecuador, Ministerio de Educación del Ecuador; year 2024 (Primera edición); ISBN 978-9942-662-28-6. Title as printed: Estudios Sociales — Educación General Básica, Subnivel Superior, Octavo de Básica; Texto del estudiante para la transición curricular. Grade: Grade 8 (student). 194 PDF pp. (cover/title page verified against the record title; grabbed via the repo release route, 18,079,356 bytes = record size exactly; an external academia.edu copy of this ISBN is likewise titled Octavo de Básica, confirming this shared Superior body is the Grade 8 book; the book's two records — a TSV release/blob record and a books.json record for the same repo path — are one book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/ecuador-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Kinds of maps by message | Ethiopia, *Social Studies Student Textbook, Grade 7* (Amhara Bureau), printed pp. 49–50 |
@@ -21,8 +23,9 @@ countries: Ethiopia, France, Myanmar, Haiti, Costa Rica
 | Different types of maps — Myanmar way: 5.1 (teacher guide — evidence) | Myanmar, *Teacher Guide — Geography — Grade 6* (teacher guide), §5.1, printed p. 78 |
 | Haiti part — Séance 7 S'orienter sur la terre (4) (compléter des planisphères de projections différentes, choisir une projection selon l'objet) (teacher sequence — evidence) | Haiti, *Du rond au plat, représenter le globe terrestre ?* (teacher sequence), Grade 7, Séance 7 S'orienter sur la terre (4) (compléter des planisphères de projections différentes, choisir une projection selon l'objet) — printed p. 15 |
 | Costa Rica part — map-work — main sellers and buyers of timber in the world (flow map); production maps of Europe and Africa compared | Costa Rica, *Estudios Sociales 11 (Porras y Gamboa)*, Grade 11, Unit 1 B practicals — printed p. 24 |
+| Ecuador part — Estudios cartográficos para entender geografía (cartographic studies: map concepts and practice) | Ecuador, *Estudios Sociales 8vo EGB*, Grade 8, Estudios cartográficos para entender geografía (cartographic studies: map concepts and practice) — printed p. 99 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, France, Costa Rica). Myanmar is named here as teacher-guide evidence only, counted nowhere. Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 4 countries (Ethiopia, France, Costa Rica, Ecuador). Myanmar is named here as teacher-guide evidence only, counted nowhere. Haiti is named here as teacher-sequence evidence only, counted nowhere.**
 
 Haiti's own way (teacher sequence — evidence): Geography opens with representing the Earth itself — globe-to-flat projection problems, orientation practised on the ground with compass/GPS/Google Maps, and time-zone puzzles worked on Haiti's own links (midday shared with Québec, 18h in Paris, Port-au-Prince–Paris flights); every séance ends in a croquis, a glossary and field observation. That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
@@ -32,4 +35,8 @@ Pairing warning (honesty): Book 2 is an Addis Ababa bureau guide in English; Boo
 
 Costa Rica's own way: a commercial workbook twin of the CONED 11 anthology — same ministry programme, but every topic is a fixed cycle (problem question, basic concepts, my previous ideas, widening my knowledge, I apply my knowledge, problem-based learning, exam preparation) with heavy map-work and Costa Rica-specific data: ICE internet-coverage map, services-export league table, Costa Rica's geo-strategic bridge position between North/South America and the Caribbean. That way is stocked here as the way Costa Rica teaches this thing.
 
-Searchable tags: kinds of maps, physical map, political map, special-purpose map, scale, large-scale, medium-scale, small-scale, Myanmar, Teacher Guide Geography Grade 6, teacher guide evidence, Haiti, Du rond au plat, teacher sequence evidence, Costa Rica, CONED Antología, Estudios Sociales
+Ecuador's own way (Grade 8 book): at Superior level the book turns thematic — history of work and social transformation, then Latin America and Ecuador today; Geography enters as a full cartography tema (map studies explicitly tied to Earth's formation, continents, oceans, climates, natural risks and contingency plans) and as the economic-sectors tema on Ecuador. That way is stocked here as the way Ecuador teaches this thing.
+
+Honesty note: the ministry's 2024 transición-curricular PDFs, as held, reuse one body per sublevel — the Grade 5 body also carries the Grade 6 and Grade 7 covers (Subnivel Media), and the Grade 8 body also carries the Grade 9 and Grade 10 covers (Subnivel Superior). That content is credited once, under its true Grade 5 / Grade 8 identity, exactly as the placements state; the genuine Ecuador Grade 6, 7, 9 and 10 Estudios Sociales books are NOT held (library debt).
+
+Searchable tags: kinds of maps, physical map, political map, special-purpose map, scale, large-scale, medium-scale, small-scale, Myanmar, Teacher Guide Geography Grade 6, teacher guide evidence, Haiti, Du rond au plat, teacher sequence evidence, Costa Rica, CONED Antología, Estudios Sociales, Ecuador

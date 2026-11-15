@@ -1,6 +1,6 @@
 # Sources — Biodiversity — the variety of life, under threat
 
-countries: Ethiopia, Nauru, Tuvalu, Niue, Guatemala
+countries: Ethiopia, Nauru, Tuvalu, Niue, Guatemala, Ecuador
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -11,6 +11,8 @@ countries: Ethiopia, Nauru, Tuvalu, Niue, Guatemala
 **Book 4:** *People and the Sea in the Pacific* (student book, English) — Niue, Institute of Education, University of the South Pacific (Tonga Campus), for UNESCO/Japanese Funds-in-Trust ESD project; year 2020; no ISBN printed. Title as printed: People and the Sea in the Pacific — A Social Sciences related reader for Primary School, Book 1 (Years 5–6). Grade: Grade 5 / Years 5–6 (student). Niue advisor: Birtha Togahai. 24 PDF pp. (cover verified against the record title; read in full via pdftotext, page by page). Verdict: COMPLETE (content printed pp. 1–19; remaining pages are blank endpapers). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/niue-placements.md.
 
 **Book 5:** *Ciencias Sociales y Formación Ciudadana, Cuarto grado* (student book, Spanish) — Guatemala, Ministerio de Educación de Guatemala, elaborated with USAID/Reforma Educativa en el Aula (Juárez y Asociados); author Gloria Amaria Hernández; year impresión 2017; ISBN 978-9929-596-13-9. Title as printed: Ciencias Sociales y Formación Ciudadana — Cuarto grado. Grade: Grade 4 (student). 256 PDF pp. (cover verified against the record title; byte size 25,726,392 and page count 256 match the books.json record exactly — read from the record's own Wayback source URL after grab.py failed with GitHub API RemoteDisconnected; the two TSV release records are the same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/guatemala-placements.md.
+
+**Book 6:** *Estudios Sociales 2do EGB* (student book, Spanish) — Ecuador, Ministerio de Educación del Ecuador; year 2024 (Primera Edición); ISBN 978-9942-662-16-3. Title as printed: Estudios Sociales — Educación General Básica, Subnivel Elemental, Segundo de Básica; Texto del estudiante para la transición curricular. Grade: Grade 2 (student). 114 PDF pp. (cover/title page verified against the record title; read in place in phase3-staging, 9,005,158 bytes; the book's two records — a TSV release/blob record and a books.json record for the same repo path — are one book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/ecuador-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -26,8 +28,9 @@ countries: Ethiopia, Nauru, Tuvalu, Niue, Guatemala
 | Niue part — Sharks (facts; top predators and food webs; why sharks are endangered — finning, nets, reef damage, pollution) (placement target global-issues/sharks-top-predators-of-the-pacific-reef — stocked here as the closest existing lesson) | Niue, *People and the Sea in the Pacific*, Years 5–6, Sharks (facts; top predators and food webs; why sharks are endangered — finning, nets, reef damage, pollution) — printed pp. 4–5 |
 | Niue part — Whales of the Pacific (humpback whales feeding in Antarctica, calving in Tonga, passing Niue; commercial whaling, legal protection and whale-watch ecotourism) (placement target global-issues/whales-of-the-pacific-migration-and-protection — stocked here as the closest existing lesson) | Niue, *People and the Sea in the Pacific*, Years 5–6, Whales of the Pacific (humpback whales feeding in Antarctica, calving in Tonga, passing Niue; commercial whaling, legal protection and whale-watch ecotourism) — printed pp. 9–11 |
 | Guatemala part — Biodiversidad del Mar Caribe: the Mesoamerican (Maya) Reef and Belize's Great Blue Hole | Guatemala, *Ciencias Sociales y Formación Ciudadana*, Grade 4, Biodiversidad del Mar Caribe: the Mesoamerican (Maya) Reef and Belize's Great Blue Hole (Unit 2) — printed p. 84 |
+| Ecuador part — Ecuador megadiverso | Ecuador, *Estudios Sociales 2do EGB*, Grade 2, Ecuador megadiverso — printed p. 87 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Nauru, Tuvalu, Niue, Guatemala).**
+**Acceptance count: taught in 6 countries (Ethiopia, Nauru, Tuvalu, Niue, Guatemala, Ecuador).**
 
 Niue's own way: Niue uses the shared Pacific ESD reader suite (Niue advisor Birtha Togahai) — Geography is taught as Pacific peoples' lived relationship with the ocean: voyaging, reef knowledge, tapu/fono closed seasons and village fishing practice in Tonga, Tuvalu and Niue itself, ending in a pupil action plan against plastic. That way is stocked here as the way Niue teaches this thing.
 
@@ -39,4 +42,6 @@ No book error in the placements for this lesson is taught here. Figures and date
 
 Guatemala's own way: one combined Social Studies and Citizenship book per grade, organised in four units that alternate History of Guatemala/Central America with the physical geography of the isthmus — every map carries the note about the unresolved Belize territorial differendum, and Geography is always worked on maps of the seven Central American countries with Guatemala's own Sierra de las Minas, Motagua river and Maya Biosphere as the home examples. That way is stocked here as the way Guatemala teaches this thing.
 
-Searchable tags: biodiversity, species loss, Biodiversity Convention, political will, social studies, Nauru, People and the Sea in the Pacific, Pacific Ocean animals, coral reef, sharks, whales, Tuvalu, Niue, Guatemala
+Ecuador's own way (Grade 2 book): Geography is taught inside three thematic sections that always start from the child's family, school and province and widen to Ecuador and South America; heavy use of hazard maps (floods, landslides, volcanoes) and emergency plans from Grade 2, reflecting Ecuador's volcanic / El Niño risk profile. That way is stocked here as the way Ecuador teaches this thing.
+
+Searchable tags: biodiversity, species loss, Biodiversity Convention, political will, social studies, Nauru, People and the Sea in the Pacific, Pacific Ocean animals, coral reef, sharks, whales, Tuvalu, Niue, Guatemala, Ecuador

@@ -1,6 +1,6 @@
 # Sources — Culture — culture and identity
 
-countries: Ethiopia, Niue, Mongolia
+countries: Ethiopia, Niue, Mongolia, Ecuador
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 2 — Population Studies and Socio-Economic Activities, printed pp. 44–76).
 
@@ -12,6 +12,10 @@ countries: Ethiopia, Niue, Mongolia
 
 **Book 5:** *Нийгэм судлал XI (Social Studies XI)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports, Ulaanbaatar; year 2019; ISBN no ISBN printed on the pages checked. Title as printed: Нийгэм судлал XI (Social Studies XI). Grade: Grade 11 (student). ~196 PDF pp. (printed book to p. 191+) (cover verified against the record title via the ministry econtent flipbook — the same book as the secured GitHub release asset; note the release asset is 131,050,983 bytes under a doubled-prefix asset name while the books.json record says 86,546,502 bytes: a library debt, see group log). Verdict: COMPLETE for Geography scope (contents page and chapter structure read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mongolia-placements.md.
 
+**Book 6:** *Estudios Sociales 2do EGB* (student book, Spanish) — Ecuador, Ministerio de Educación del Ecuador; year 2024 (Primera Edición); ISBN 978-9942-662-16-3. Title as printed: Estudios Sociales — Educación General Básica, Subnivel Elemental, Segundo de Básica; Texto del estudiante para la transición curricular. Grade: Grade 2 (student). 114 PDF pp. (cover/title page verified against the record title; read in place in phase3-staging, 9,005,158 bytes; the book's two records — a TSV release/blob record and a books.json record for the same repo path — are one book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/ecuador-placements.md.
+
+**Book 7:** *Estudios Sociales 3ro EGB* (student book, Spanish) — Ecuador, SM Ediciones Ecuador for the Ministerio de Educación del Ecuador (Proyecto Licitación Ministerio de Educación, Ecuador 2016; reviewed 3 June 2016); year 2016; no ISBN printed. Title as printed: Estudios Sociales 3 — Texto del estudiante. Grade: Grade 3 (student). 176 PDF pp. (cover/title page verified against the record title; grabbed via the repo release route, 47,818,010 bytes = record size exactly; the record notes the 2024 edition exists but its only reachable copy is truncated, so this complete older edition is the held book; the book's two records — a TSV release/blob record and a books.json record for the same repo path — are one book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/ecuador-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Culture tells people how to live | Ethiopia, *Social Studies Student Textbook, Grade 8* (Amhara Bureau), printed pp. 50–51 |
@@ -20,8 +24,10 @@ countries: Ethiopia, Niue, Mongolia
 | Mongolia part — We are proud of our national culture | Mongolia, *Нийгэм судлал IX (Social Studies IX)*, Grade 9, Chapter 2 Individual and Culture: 2.1 We are proud of our national culture — printed p. 24 |
 | Mongolia part — How do we explain the unified features of Mongolian culture? | Mongolia, *Нийгэм судлал X (Social Studies X)*, Grade 10, Chapter 2 Culture: 2.3 How do we explain the unified features of Mongolian culture? — printed p. 38 |
 | Mongolia part — What is cultural identity? | Mongolia, *Нийгэм судлал XI (Social Studies XI)*, Grade 11, Chapter II Culture: Topic 2.3 What is cultural identity? — printed p. 56 |
+| Ecuador part — Grupos étnicos del Ecuador | Ecuador, *Estudios Sociales 2do EGB*, Grade 2, Grupos étnicos del Ecuador — printed p. 52 |
+| Ecuador part — Diversidad humana, cultural y étnica del Ecuador; diversidad cultural y étnica del Ecuador | Ecuador, *Estudios Sociales 3ro EGB (SM 2016)*, Grade 3, Diversidad humana, cultural y étnica del Ecuador; diversidad cultural y étnica del Ecuador — printed p. 82 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Niue, Mongolia).**
+**Acceptance count: taught in 4 countries (Ethiopia, Niue, Mongolia, Ecuador).**
 
 Mongolia's own way (Grade 9): Social Studies is a five-chapter spiral (Individual & Society, Individual & Culture, Individual & Economy, Human Rights & Law, Public Administration) continued from Grade 8; there is no physical-geography chapter — Mongolia's geography is a separate subject (Газарзүй) — so this book's Geography-wave content is its culture and economics teaching, grounded in Mongolian surveys, wage tables and heritage inventories. The book's Sociology parts (Chapter 1, printed pp. 6–13) and Law/Civics parts (Chapters 4–5, printed pp. 62–92) are named in the placements, not placed. Mongolia's own way (Grade 10): the senior cycle drops the “Individual and…” frame for straight disciplines — Society, Culture, Law, Economics, Politics, International Relations — with Mongolia's own culture, macroeconomy and foreign relations as the worked examples. The book's Sociology parts (Chapter 1, printed pp. 5–15) and Law/Civics parts (Chapter 3, printed pp. 49–72; Chapter 5, printed pp. 97–117; Chapter 6 except the placed topics, printed pp. 119–135) are named in the placements, not placed. Mongolia's own way (Grade 11): the final year is the state-and-world year — cultural globalization and freedom, monetary policy, foreign trade and investment, and Mongolia's signature “third neighbour” and soft-power policies taught as named topics. The book's Sociology part (Chapter I Topic 1.2, printed p. 29) and Law/Civics parts (Chapter III, printed pp. 71–103; Chapter V, printed pp. 139–165; Chapter VI except the placed topics, printed pp. 167–176) are named in the placements, not placed. That way is stocked here as the way Mongolia teaches this thing.
 
@@ -29,4 +35,8 @@ Niue's own way: Niue uses the shared Pacific ESD reader suite (Niue advisor Birt
 
 Honesty: pupil content comes from the Amhara student book. The Addis Ababa Grade 8 teacher guide is NOT edition-matched to this student book and is truncated (only printed pp. 1–47, Units 1–3, in hand); no guide coverage is claimed for this lesson beyond what its sources rows name.
 
-Searchable tags: culture: culture and identity, culture and work, social studies, ethiopia, Niue, People and the Sea in the Pacific, Mongolia, Нийгэм судлал
+Ecuador's own way (Grade 2 book): Geography is taught inside three thematic sections that always start from the child's family, school and province and widen to Ecuador and South America; heavy use of hazard maps (floods, landslides, volcanoes) and emergency plans from Grade 2, reflecting Ecuador's volcanic / El Niño risk profile.
+
+Ecuador's own way (Grade 3 book): the older SM edition is a classic skills-first book — a whole opening unit on orientation, cardinal points, the compass rose and plans before any content; every unit runs the same skeleton (content lessons, “Ser Estudiante” test, Cultura del Buen Vivir, scientific work, digital skills, unit evaluation), and the country is learned parish → canton → province → nation. That way is stocked here as the way Ecuador teaches this thing.
+
+Searchable tags: culture: culture and identity, culture and work, social studies, ethiopia, Niue, People and the Sea in the Pacific, Mongolia, Нийгэм судлал, Ecuador

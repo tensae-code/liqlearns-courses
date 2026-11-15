@@ -1,6 +1,6 @@
 # Sources — Culture — globalisation and cultural change
 
-countries: Ethiopia, Brazil, Costa Rica, Mongolia
+countries: Ethiopia, Brazil, Costa Rica, Mongolia, Ecuador
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 2 — Population Studies and Socio-Economic Activities, printed pp. 44–76).
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Brazil, Costa Rica, Mongolia
 
 **Book 6:** *Нийгэм судлал XI (Social Studies XI)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports, Ulaanbaatar; year 2019; ISBN no ISBN printed on the pages checked. Title as printed: Нийгэм судлал XI (Social Studies XI). Grade: Grade 11 (student). ~196 PDF pp. (printed book to p. 191+) (cover verified against the record title via the ministry econtent flipbook — the same book as the secured GitHub release asset; note the release asset is 131,050,983 bytes under a doubled-prefix asset name while the books.json record says 86,546,502 bytes: a library debt, see group log). Verdict: COMPLETE for Geography scope (contents page and chapter structure read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mongolia-placements.md.
 
+**Book 7:** *Estudios Sociales 8vo EGB* (student book, Spanish) — Ecuador, Ministerio de Educación del Ecuador; year 2024 (Primera edición); ISBN 978-9942-662-28-6. Title as printed: Estudios Sociales — Educación General Básica, Subnivel Superior, Octavo de Básica; Texto del estudiante para la transición curricular. Grade: Grade 8 (student). 194 PDF pp. (cover/title page verified against the record title; grabbed via the repo release route, 18,079,356 bytes = record size exactly; an external academia.edu copy of this ISBN is likewise titled Octavo de Básica, confirming this shared Superior body is the Grade 8 book; the book's two records — a TSV release/blob record and a books.json record for the same repo path — are one book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/ecuador-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Globalisation | Ethiopia, *Social Studies Student Textbook, Grade 8* (Amhara Bureau), printed pp. 52–53 |
@@ -23,8 +25,9 @@ countries: Ethiopia, Brazil, Costa Rica, Mongolia
 | Costa Rica part — cultural convergences and divergences in the globalised world; globalisation and culture, multiculturality and pluriculturality in Costa Rica | Costa Rica, *Estudios Sociales 11 (Porras y Gamboa)*, Grade 11, Unit 1 E — printed p. 49 |
 | Mongolia part — How does culture change? | Mongolia, *Нийгэм судлал VIII (Social Studies VIII)*, Grade 8, Chapter II Individual and Culture: 2.3 How does culture change? — printed p. 35 |
 | Mongolia part — The globalization of culture | Mongolia, *Нийгэм судлал XI (Social Studies XI)*, Grade 11, Chapter II Culture: Topic 2.2 The globalization of culture — printed p. 47 |
+| Ecuador part — Diversidad cultural mundial (Sección 3, Diversidad Cultural, Democracia e Interculturalidad) | Ecuador, *Estudios Sociales 8vo EGB*, Grade 8, Diversidad cultural mundial (Sección 3, Diversidad Cultural, Democracia e Interculturalidad) — printed p. 144 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Brazil, Costa Rica, Mongolia).**
+**Acceptance count: taught in 5 countries (Ethiopia, Brazil, Costa Rica, Mongolia, Ecuador).**
 
 Mongolia's own way (Grade 8): the Grade 8 year is the LOCAL year — every chapter is re-anchored to the child's own орон нутаг (local area/homeland): its environment and problems, its heritage, its economy and market, its governance. The book's Law/Civics parts (Chapters IV–V, printed pp. 63–94) are named in the placements, not placed. Mongolia's own way (Grade 11): the final year is the state-and-world year — cultural globalization and freedom, monetary policy, foreign trade and investment, and Mongolia's signature “third neighbour” and soft-power policies taught as named topics. The book's Sociology part (Chapter I Topic 1.2, printed p. 29) and Law/Civics parts (Chapter III, printed pp. 71–103; Chapter V, printed pp. 139–165; Chapter VI except the placed topics, printed pp. 167–176) are named in the placements, not placed. That way is stocked here as the way Mongolia teaches this thing.
 
@@ -32,4 +35,8 @@ Honesty: pupil content comes from the Amhara student book. The Addis Ababa Grade
 
 Costa Rica's own way: the CONED 11 anthology opens with a Geography unit on globalisation read "from the geographic viewpoint" (spatial flows of production and consumption, global cities, space-time compression), then turns to Costa Rica's own 20th-century history; its commercial workbook twin, Porras y Gamboa's *Estudios Sociales 11*, teaches the same ministry programme as a fixed cycle (problem question, basic concepts, my previous ideas, widening my knowledge, I apply my knowledge, problem-based learning, exam preparation) with heavy map-work and Costa Rica-specific data: ICE internet-coverage map, services-export league table, Costa Rica's geo-strategic bridge position between North/South America and the Caribbean. That way is stocked here as the way Costa Rica teaches this thing.
 
-Searchable tags: culture: globalisation and cultural change, culture and work, social studies, ethiopia, Costa Rica, CONED Antología, Estudios Sociales, Mongolia, Нийгэм судлал
+Ecuador's own way (Grade 8 book): at Superior level the book turns thematic — history of work and social transformation, then Latin America and Ecuador today; Geography enters as a full cartography tema (map studies explicitly tied to Earth's formation, continents, oceans, climates, natural risks and contingency plans) and as the economic-sectors tema on Ecuador. That way is stocked here as the way Ecuador teaches this thing.
+
+Honesty note: the ministry's 2024 transición-curricular PDFs, as held, reuse one body per sublevel — the Grade 5 body also carries the Grade 6 and Grade 7 covers (Subnivel Media), and the Grade 8 body also carries the Grade 9 and Grade 10 covers (Subnivel Superior). That content is credited once, under its true Grade 5 / Grade 8 identity, exactly as the placements state; the genuine Ecuador Grade 6, 7, 9 and 10 Estudios Sociales books are NOT held (library debt).
+
+Searchable tags: culture: globalisation and cultural change, culture and work, social studies, ethiopia, Costa Rica, CONED Antología, Estudios Sociales, Mongolia, Нийгэм судлал, Ecuador

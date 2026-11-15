@@ -1,6 +1,6 @@
 # Sources — Continents — The Seven in Place
 
-countries: Ethiopia
+countries: Ethiopia, Ecuador
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -9,6 +9,8 @@ countries: Ethiopia
 **Book 3:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
 **Book 4:** *Geography, Teacher Guide, Grade 11* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, Hawassa University. Writers: Ermias Debie (PhD) and Mehretie Belay (PhD); Content Editor: Professor Aklilu Dalelo. ISBN 978-99990-0-054-3. Companion to the Grade 11 Student Textbook (ISBN 978-99990-0-050-5), same GEQIP-E programme. Printed page = PDF page − 4 for the guide body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-teacher-placements.md
+
+**Book 5:** *Estudios Sociales 2do EGB* (student book, Spanish) — Ecuador, Ministerio de Educación del Ecuador; year 2024 (Primera Edición); ISBN 978-9942-662-16-3. Title as printed: Estudios Sociales — Educación General Básica, Subnivel Elemental, Segundo de Básica; Texto del estudiante para la transición curricular. Grade: Grade 2 (student). 114 PDF pp. (cover/title page verified against the record title; read in place in phase3-staging, 9,005,158 bytes; the book's two records — a TSV release/blob record and a books.json record for the same repo path — are one book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/ecuador-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -20,11 +22,14 @@ countries: Ethiopia
 | Sub lesson 5 — Asia, Europe and Australia — Grade 11 portraits (Grade 11 depth) | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 1, printed pp. 17–18 |
 | Sub lesson 6 — The two Americas — Grade 11 portraits (Grade 11 depth) | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 1, printed pp. 17–18 |
 | Teaching sequence and answer keys for the Grade 11 depth (teacher guide — evidence) | Ethiopia, *Geography, Teacher Guide, Grade 11*, guide printed pp. 12–39 |
+| Ecuador part — Países de Sudamérica y sus características | Ecuador, *Estudios Sociales 2do EGB*, Grade 2, Países de Sudamérica y sus características — printed p. 87 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Ecuador).**
 
 Pairing warning: the Grade 8 teacher guide is an Addis Ababa bureau book and the student book is an Amhara bureau book; they are NOT edition-matched, and the guide in hand is truncated (printed pp. 1–47 only, Units 1–3). Pupil content in this lesson comes from the Amhara student book; anything from the guide is labelled (teacher guide — evidence) and never presented as pupil-taught.
 
 Grade 11 depth honesty: the Grade 11 student book's portraits (printed pp. 17–18) are taught as printed; no error is flagged for these pages in the placements.
 
-Searchable tags: continents   the seven in place, ethiopia, social studies, the land and air
+Ecuador's own way (Grade 2 book): Geography is taught inside three thematic sections that always start from the child's family, school and province and widen to Ecuador and South America; heavy use of hazard maps (floods, landslides, volcanoes) and emergency plans from Grade 2, reflecting Ecuador's volcanic / El Niño risk profile. That way is stocked here as the way Ecuador teaches this thing.
+
+Searchable tags: continents   the seven in place, ethiopia, social studies, the land and air, Ecuador

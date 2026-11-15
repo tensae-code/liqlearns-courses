@@ -1,6 +1,6 @@
 # Sources — Population — distribution
 
-countries: Ethiopia, Saudi Arabia, Belarus, Barbados, Haiti, Guatemala, Ukraine, Costa Rica
+countries: Ethiopia, Saudi Arabia, Belarus, Barbados, Haiti, Guatemala, Ukraine, Costa Rica, Ecuador
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 2, placements 27–43).
 **Book 2:** *Social Studies Teacher's Guide, Grade 7* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, first edition 2022 (2014 E.C.). Printed page = PDF page − 5. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-teacher-placements.md (Unit 2, and §3.2 for the optimum-population lesson).
@@ -19,6 +19,8 @@ countries: Ethiopia, Saudi Arabia, Belarus, Barbados, Haiti, Guatemala, Ukraine,
 
 **Book 9:** *Antología CONED — Estudios Sociales 10* (student book, Spanish) — Costa Rica, CONED / UNED; year 2017; ISBN no ISBN printed. Title as printed: Antología CONED — Materia: Estudios Sociales, Código 80023, Nivel: Décimo año. Grade: Grade 10 (student). 255 PDF pp. (cover/title page verified against the record title; size 11,879,619 bytes = record). Verdict: COMPLETE. Read from the recorded public source URLs (CONED site and archive.org) after the GitHub grab route failed with RemoteDisconnected/timeouts on 2026-11-14; every downloaded file matched its books.json record byte-for-byte (size_bytes) and page count. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/costa-rica-placements.md.
 
+**Book 10:** *Estudios Sociales 5to EGB* (student book, Spanish) — Ecuador, Ministerio de Educación del Ecuador; year 2024 (Primera edición); ISBN 978-9942-662-22-4. Title as printed: Estudios Sociales — Educación General Básica, Quinto de Básica; Texto del estudiante para la transición curricular. Grade: Grade 5 (student). 210 PDF pp. (cover/title page verified against the record title; grabbed via the repo release route, 17,844,404 bytes = record size exactly; the book's two records — a TSV release/blob record and a books.json record for the same repo path — are one book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/ecuador-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — An uneven world | Ethiopia, *Social Studies Student Textbook, Grade 7* (Amhara Bureau), printed pp. 38–39 |
@@ -33,8 +35,9 @@ countries: Ethiopia, Saudi Arabia, Belarus, Barbados, Haiti, Guatemala, Ukraine,
 | Ukraine part — §5 Population of Europe | Ukraine, *Geografiya*, Grade 10, §5 — printed p. 23 |
 | Ukraine part — §17 Population of Asia | Ukraine, *Geografiya*, Grade 10, §17 — printed p. 104 |
 | Costa Rica part — state and dynamics of population in the 20th and 21st centuries, spatial patterns | Costa Rica, *Antología CONED 10*, Grade 10, Unit 3 Tema I A — printed p. 199 |
+| Ecuador part — Diversidad poblacional del Ecuador (origins and demographic diversity of the Ecuadorian population) | Ecuador, *Estudios Sociales 5to EGB*, Grade 5, Diversidad poblacional del Ecuador (origins and demographic diversity of the Ecuadorian population) — printed p. 132 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Saudi Arabia, Belarus, Barbados, Guatemala, Ukraine, Costa Rica). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 8 countries (Ethiopia, Saudi Arabia, Belarus, Barbados, Guatemala, Ukraine, Costa Rica, Ecuador). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
 
 Ukraine's own way: A "Geography: Regions and Countries" course — every region is done in the same order (position, nature/resources, population, primary/secondary/tertiary sectors) then typological country studies with rubrics (country visiting-card, capital, pride of the country, unique experience), ending with Ukraine's own place in the world; research tasks (Дослідження) embedded in chapters. That way is stocked here as the way Ukraine teaches this thing.
 
@@ -48,4 +51,8 @@ Guatemala's own way: one combined Social Studies and Citizenship book per grade,
 
 Costa Rica's own way: two-thirds contemporary History/geopolitics, then a closing Geography unit on population dynamics and spatial mobility that always pairs the world pattern with the Costa Rican case (Costa Rica's own population change, internal and international mobility). That way is stocked here as the way Costa Rica teaches this thing.
 
-Searchable tags: population distribution, uneven world, northern hemisphere, migration, push factors, pull factors, rural settlement, urban settlement, Haiti, Population urbaine et rurale, teacher sequence evidence, Guatemala, Ukraine, Geografiya Gilberg, Costa Rica, CONED Antología, Estudios Sociales
+Ecuador's own way (Grade 5 book): the 2024 Grade 5 book is History-led (five of eight sections are national history, from the roots of society to the Republic); Geography is concentrated at the end, where the country is re-read spatially — Andean relief and rivers, natural regions and climatic floors, population diversity and migration, territorial division, provincial products, and the protected-area system taught together with climate-change action. That way is stocked here as the way Ecuador teaches this thing.
+
+Honesty note: the ministry's 2024 transición-curricular PDFs, as held, reuse one body per sublevel — the Grade 5 body also carries the Grade 6 and Grade 7 covers (Subnivel Media), and the Grade 8 body also carries the Grade 9 and Grade 10 covers (Subnivel Superior). That content is credited once, under its true Grade 5 / Grade 8 identity, exactly as the placements state; the genuine Ecuador Grade 6, 7, 9 and 10 Estudios Sociales books are NOT held (library debt).
+
+Searchable tags: population distribution, uneven world, northern hemisphere, migration, push factors, pull factors, rural settlement, urban settlement, Haiti, Population urbaine et rurale, teacher sequence evidence, Guatemala, Ukraine, Geografiya Gilberg, Costa Rica, CONED Antología, Estudios Sociales, Ecuador

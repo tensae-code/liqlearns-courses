@@ -1,6 +1,6 @@
 # Sources — Economic activities — the three levels
 
-countries: Ethiopia, Guatemala, Ukraine
+countries: Ethiopia, Guatemala, Ukraine, Ecuador
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 2 — Population Studies and Socio-Economic Activities, printed pp. 44–76).
 **Book 2:** *Social Studies Teacher's Guide, Grade 8* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, Addis Ababa / Ethiopia / 2015 E.C. (cover); © Addis Ababa City Administration Education Bureau, first edition 2022. Authors: Tilahun Atlabachew T/Giorgis (M.A.), Melkamu Belay Tiruneh (B.A.), Kassahun Demissie Worku (M.A.), Mulugeta Dires Fetene (M.A.). Editors, reviewers and evaluators: Belay Belete Birhanu (MA), Solomon Wondimu Metaferia (MA). Coordinator: Getachew Talema Atinafu. No ISBN printed. Printed page = PDF page − 5. Read in full for every page the file contains (printed pp. 1–47, Units 1–3 only — the file is TRUNCATED; Units 4–7, printed pp. 48–109, are not in the copy in hand). Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-teacher-placements.md (Unit 2 — People and Socio-Economic Activities, guide printed pp. 16–32).
@@ -9,14 +9,20 @@ countries: Ethiopia, Guatemala, Ukraine
 
 **Book 4:** *Geografiya* (student book, Ukrainian) — Ukraine, УОВЦ «Оріон» (Orion), Kyiv; year 2018; ISBN 978-617-7485-75-8. Title as printed: Географія (рівень стандарту) : підручник для 10 класу закладів загальної середньої освіти. Grade: Grade 10 (student). 244 PDF pp. (cover/title page verified against the record title; printed book 240 pp.). Verdict: COMPLETE. Read via grab.py url (GitHub release), verified by pdfinfo + title page text. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/ukraine-placements.md.
 
+**Book 5:** *Estudios Sociales 3ro EGB* (student book, Spanish) — Ecuador, SM Ediciones Ecuador for the Ministerio de Educación del Ecuador (Proyecto Licitación Ministerio de Educación, Ecuador 2016; reviewed 3 June 2016); year 2016; no ISBN printed. Title as printed: Estudios Sociales 3 — Texto del estudiante. Grade: Grade 3 (student). 176 PDF pp. (cover/title page verified against the record title; grabbed via the repo release route, 47,818,010 bytes = record size exactly; the record notes the 2024 edition exists but its only reachable copy is truncated, so this complete older edition is the held book; the book's two records — a TSV release/blob record and a books.json record for the same repo path — are one book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/ecuador-placements.md.
+
+**Book 6:** *Estudios Sociales 8vo EGB* (student book, Spanish) — Ecuador, Ministerio de Educación del Ecuador; year 2024 (Primera edición); ISBN 978-9942-662-28-6. Title as printed: Estudios Sociales — Educación General Básica, Subnivel Superior, Octavo de Básica; Texto del estudiante para la transición curricular. Grade: Grade 8 (student). 194 PDF pp. (cover/title page verified against the record title; grabbed via the repo release route, 18,079,356 bytes = record size exactly; an external academia.edu copy of this ISBN is likewise titled Octavo de Básica, confirming this shared Superior body is the Grade 8 book; the book's two records — a TSV release/blob record and a books.json record for the same repo path — are one book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/ecuador-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Producing, distributing, consuming | Ethiopia, *Social Studies Student Textbook, Grade 8* (Amhara Bureau), printed pp. 54–55 |
 | Sub lesson 2 — What a country's mix says about its development (teacher guide — evidence) | Ethiopia, *Social Studies Teacher's Guide, Grade 8* (Addis Ababa Bureau) (teacher guide — evidence), printed pp. 20, 22–23 |
 | Guatemala part — Actividades económicas: agricultura, ganadería, industria y comunicaciones in Central America | Guatemala, *Ciencias Sociales y Formación Ciudadana*, Grade 4, Actividades económicas: agricultura, ganadería, industria y comunicaciones in Central America (Unit 1) — printed pp. 41–42 |
 | Ukraine part — §6 Features of European economies: the primary sector | Ukraine, *Geografiya*, Grade 10, §6 — printed p. 30 |
+| Ecuador part — Actividades económicas (Unit 6, Conozcamos al Ecuador) | Ecuador, *Estudios Sociales 3ro EGB (SM 2016)*, Grade 3, Actividades económicas (Unit 6, Conozcamos al Ecuador) — printed p. 124 |
+| Ecuador part — Sectores económicos en Ecuador (the primary, secondary and tertiary sectors and the State's role in the economy) | Ecuador, *Estudios Sociales 8vo EGB*, Grade 8, Sectores económicos en Ecuador (the primary, secondary and tertiary sectors and the State's role in the economy) — printed p. 121 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Guatemala, Ukraine).**
+**Acceptance count: taught in 4 countries (Ethiopia, Guatemala, Ukraine, Ecuador).**
 
 Ukraine's own way: A "Geography: Regions and Countries" course — every region is done in the same order (position, nature/resources, population, primary/secondary/tertiary sectors) then typological country studies with rubrics (country visiting-card, capital, pride of the country, unique experience), ending with Ukraine's own place in the world; research tasks (Дослідження) embedded in chapters. That way is stocked here as the way Ukraine teaches this thing.
 
@@ -24,4 +30,10 @@ Pairing warning (honesty): Book 2 is an Addis Ababa bureau guide in English; Boo
 
 Guatemala's own way: one combined Social Studies and Citizenship book per grade, organised in four units that alternate History of Guatemala/Central America with the physical geography of the isthmus — every map carries the note about the unresolved Belize territorial differendum, and Geography is always worked on maps of the seven Central American countries with Guatemala's own Sierra de las Minas, Motagua river and Maya Biosphere as the home examples. That way is stocked here as the way Guatemala teaches this thing.
 
-Searchable tags: economic activities: the three levels, culture and work, social studies, ethiopia, Guatemala, Ukraine, Geografiya Gilberg
+Ecuador's own way (Grade 3 book): the older SM edition is a classic skills-first book — a whole opening unit on orientation, cardinal points, the compass rose and plans before any content; every unit runs the same skeleton (content lessons, “Ser Estudiante” test, Cultura del Buen Vivir, scientific work, digital skills, unit evaluation), and the country is learned parish → canton → province → nation.
+
+Ecuador's own way (Grade 8 book): at Superior level the book turns thematic — history of work and social transformation, then Latin America and Ecuador today; Geography enters as a full cartography tema (map studies explicitly tied to Earth's formation, continents, oceans, climates, natural risks and contingency plans) and as the economic-sectors tema on Ecuador. That way is stocked here as the way Ecuador teaches this thing.
+
+Honesty note: the ministry's 2024 transición-curricular PDFs, as held, reuse one body per sublevel — the Grade 5 body also carries the Grade 6 and Grade 7 covers (Subnivel Media), and the Grade 8 body also carries the Grade 9 and Grade 10 covers (Subnivel Superior). That content is credited once, under its true Grade 5 / Grade 8 identity, exactly as the placements state; the genuine Ecuador Grade 6, 7, 9 and 10 Estudios Sociales books are NOT held (library debt).
+
+Searchable tags: economic activities: the three levels, culture and work, social studies, ethiopia, Guatemala, Ukraine, Geografiya Gilberg, Ecuador
