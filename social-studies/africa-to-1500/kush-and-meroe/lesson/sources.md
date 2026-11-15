@@ -1,6 +1,6 @@
 # Sources — Kush and Meroe
 
-countries: Ethiopia
+countries: Ethiopia, Egypt
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -25,3 +25,18 @@ Pairing and error honesty. (1) Pairing note: pupil content comes from the Amhara
 **Named correction — the Funj "Fuji" slip (filed here by Wave 4 History Band E, 2026-11-12).** The Grade 9 History student textbook's Unit 5 summary prints "Fuji sultanate" for the **Funj** sultanate of Sennar (flagged in the Grade 9 student placements' book-errors list, from *History, Student Textbook, Grade 9*, Unit 5 summary; the Funj content itself is at printed pp. 87–88, placement 48). The correct name is Funj, and any lesson teaching that state teaches it corrected as Funj. No standalone Funj / North Africa lesson stands in the tree at the time of this filing, so this correction is filed in this lesson — the standing Nile-valley / Sudan lesson — and flagged in Band E's build log for the coordinator to move it if a dedicated North Africa lesson lands later. This note adds no content to this lesson and changes no part of it.
 
 Searchable tags: Kush, Nubia, Napata, Meroe, Meroitic, Sudan, pyramids, Assyria, Ezana, Aksum, gold ivory ebony trade, Ethiopia Grade 7 Social Studies Chapter 5, Funj, Fuji sultanate correction, Sennar
+
+
+---
+
+## History expansion (2026-11-15) — Egypt stocked
+
+**Book 2:** *الدراسات الاجتماعية — إفريقيا ومصر: معًا على طريق التنمية والحضارة (Social Studies — Africa and Egypt: Together on the Road of Development and Civilisation)* (student book, Arabic) — Egypt. Grade: Grade 7 (First Preparatory), Term 1 (student book). Publisher: Ministry of Education and Technical Education, Egypt; year 2025/2026; ISBN: no ISBN printed in the front matter. PDF pages: 110 (read in place from phase3-staging; printed folio = PDF page − 1; image-only scan read as 4-up page sheets; the History units read in full, Geography units identified from the contents). Verdict: COMPLETE (History parts). Tally: 9 placements — 5 to existing lessons, 4 NEW LESSON NEEDED. Non-History parts (named, not placed): Unit 1 Lessons 1–2 (the continent of Africa — location and geographic discoveries; Africa's surface features) and the whole of Unit 3, Environmental Systems in Africa (equatorial and Mediterranean forests, the hot deserts and the Sahara, Africa's water bodies) — Geography. Placements at liqlearns-courses-work/expansion-history-2026-11-15/egypt-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Egypt part — The civilisation of Kush — story beats: Napata, then Meroe, rule northern Sudan; Kush trades ivory, incense, iron and gold with Egypt, raises its own pyramids — a UNESCO site since 2011 — and worships Amun, Ra, Osiris and Isis (History expansion, 2026-11-15; original placement slug: africa-to-1500/kush-the-kingdom-of-the-nile-south) | Egypt, *Prep7 T1 "Africa and Egypt"*, printed p. 22 |
+
+Egypt's own way (Prep7 T1 "Africa and Egypt", Grade 7 (First Preparatory), Term 1 (student/teacher: STUDENT)): ancient Egypt is taught inside Africa — its three kingdom eras are each paired with Egypt's relations with the continent, and the medieval unit follows Islam's spread and Cairo's civilisational role in Africa. That way is stocked here as the way Egypt teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 2 countries (Ethiopia, Egypt).**

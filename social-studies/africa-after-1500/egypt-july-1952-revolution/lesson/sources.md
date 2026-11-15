@@ -1,0 +1,15 @@
+# Sources — Egypt — the 23 July 1952 Revolution
+
+countries: Egypt
+
+**Book 6:** *الدراسات الاجتماعية — جغرافية العالم وتاريخ مصر الحديث والمعاصر (Social Studies — Geography of the World and Modern and Contemporary History of Egypt)* (student book, Arabic) — Egypt. Grade: Grade 9 (Third Preparatory), both terms in one volume (student book). Publisher: Ministry of Education and Technical Education, Egypt (Central Administration for Curriculum Development; General Administration for Textbooks); printed 2025/2026; ISBN: no ISBN printed in the front matter. PDF pages: 186 (read in place from phase3-staging; image-only scan read as 4-up page sheets; all History units of both terms read, Geography units identified from the contents). Note: this is the older-curriculum full-year book, a different book from Book 5 (the new-curriculum Term 1 volume), covering some of the same ground in its own treatment. Verdict: COMPLETE (History parts). Tally: 13 placements — 0 to existing lessons, 13 NEW LESSON NEEDED. Non-History parts (named, not placed): Term 1 Units 1–2 (physical geography of the world — continents, terrain, climate and natural vegetation; population geography — human races, population distribution and characteristics) and Term 2 Units 1–2 (resources and economic activities in the world; models of developing and advanced countries — India, Brazil, Nigeria, Germany, the USA), plus Term 2 Unit 4 Lesson 2 (Egypt and the regional and international organisations) — Geography/Civics. Placements at liqlearns-courses-work/expansion-history-2026-11-15/egypt-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Egypt part — The 23 July 1952 Revolution (Term 2) — story beats: the revolution abolishes feudalism — agrarian reform from September 1952 caps ownership at fifty feddans — makes education free at every stage, builds the High Dam and Helwan's steelworks and gives women the vote in 1956; abroad it backs the independence of Sudan and Algeria and the rights of Palestine, breaks the arms monopoly with the Czech deal, co-founds the Non-Aligned Movement at Bandung in 1955, and unites with Syria in 1958 (History expansion, 2026-11-15; original placement slug: africa-after-1500/egypt-july-1952-revolution) | Egypt, *Prep9 full-year "Geography of the World and Modern & Contemporary History of Egypt"*, Term 2 printed p. 49 |
+
+Egypt's own way (Prep9 full-year "Geography of the World and Modern & Contemporary History of Egypt", Grade 9 (Third Preparatory), both terms in one volume (student/teacher: STUDENT)): one continuous national epic from the Mamluks' fall to the 2013 revolution — Ottoman stagnation, French invasion, Muhammad Ali, debt and occupation, Urabi, Kamel and Farid, 1919, 1936, 1952, Palestine, October 1973, and the two modern revolutions. That way is stocked here as the way Egypt teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 1 country (Egypt).**
+
+Searchable tags: Egypt, Egypt — the 23 July 1952 Revolution, africa-after-1500, History expansion 2026-11-15

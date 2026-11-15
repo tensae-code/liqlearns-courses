@@ -1,6 +1,6 @@
 # Sources — European colonialism — what it is, what feeds it, its forms
 
-countries: Kuwait
+countries: Kuwait, Egypt
 
 **Book 13:** *تاريخ العالم الحديث والمعاصر — الصف الثاني عشر الأدبي، الفصل الدراسي الأول (History of the Modern and Contemporary World, Grade 12 Literary track, Term 1)* (student book, Arabic) — Kuwait. Title as printed: تاريخ العالم الحديث والمعاصر — الصف الثاني عشر الأدبي، الفصل الدراسي الأول (History of the Modern and Contemporary World, Grade 12 Literary track, Term 1) — cover verified visually. Grade: 12 (student/teacher: STUDENT). Publisher: Ministry of Education, Kuwait; no ISBN printed in the front matter. PDF pages: 78 (cover verified against the record title; grabbed via the TSV release record, 31,070,195 bytes, matching the books.json record size exactly; read from the printed contents and page renders — the text layer is font-garbled). Verdict: COMPLETE — Chapters 1–4 of the six-chapter modern-world course. Tally: 14 placements — 9 to existing lessons, 5 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/kuwait-placements.md.
 
@@ -15,3 +15,23 @@ Kuwait's own way (Grade 12 Term 1): Grade 12 world history is a Europe-outward a
 **Acceptance count: taught in 1 country (Kuwait).**
 
 Searchable tags: Kuwait, European colonialism — what it is, what feeds it, its forms, The Modern World, History expansion 2026-11-15
+
+
+---
+
+## History expansion (2026-11-15) — Egypt stocked
+
+**Book 3:** *الدراسات الاجتماعية — إفريقيا ومصر: معًا على طريق التنمية والحضارة (Social Studies — Africa and Egypt: Together on the Road of Development and Civilisation)* (student book, Arabic) — Egypt. Grade: Grade 7 (First Preparatory), Term 2 (student book). Publisher: Ministry of Education and Technical Education, Egypt; year 2025/2026; ISBN: no ISBN printed in the front matter. PDF pages: 104 (printed folios match the contents page numbers; image-only scan read as 4-up page sheets; the History units read in full, Geography/Economics units identified from the contents). Source note: the targets marked this book in_pushed, but it is absent from the repo tree — it was read from its recorded ministry source_url at the exact recorded size, and the PDF has been staged at its recorded phase3-staging path under the push-don't-delete rule. Verdict: COMPLETE (History parts). Tally: 5 placements — 2 to existing lessons, 3 NEW LESSON NEEDED. Non-History parts (named, not placed): Unit 1, The Population of the African Continent (growth, distribution, characteristics) and Unit 3, Economic Activities and their Role in Sustainable Development in Africa (agriculture and livestock/fisheries, mining and energy, industry, tourism and world heritage sites, transport and trade) — Geography/Economics. Placements at liqlearns-courses-work/expansion-history-2026-11-15/egypt-placements.md.
+
+**Book 11:** *تاريخ مصر والعرب الحديث والمعاصر (History of Egypt and the Arabs, Modern and Contemporary)* (student book, Arabic) — Egypt. Grade: Grade 12 (Third Secondary, Literary section) (student book). Publisher: Ministry of Education and Technical Education, Egypt (Central Administration for Textbooks; Curriculum Development Centre), school year 2025/2026; chief author Prof. Abd al-Aziz Nawar (Professor of Modern History, Ain Shams University) with Prof. Asim al-Desouki and others; ISBN: no ISBN printed in the front matter. PDF pages: 152 (downloaded from the ministry source_url at the exact recorded size; read as 4-up page sheets; all eight chapters read). Verdict: COMPLETE. Tally: 9 placements — 1 to an existing lesson, 8 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/egypt-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Egypt part — European colonial expansion in Africa — story beats: after the Industrial Revolution Europe hunts raw materials, markets, investment outlets, land for its surplus people, national glory and military bases; it creeps in behind "humanitarian" slogans, trading companies, loans and capitulations, then occupies — Britain in Egypt in 1882 — and rules by crushing freedoms, exiling leaders such as Saad Zaghloul and Kwame Nkrumah, divide-and-rule and racial discrimination (History expansion, 2026-11-15; original placement slug: modern-world/scramble-for-africa-origins) | Egypt, *Prep7 T2 "Africa and Egypt"*, printed p. 80 |
+| Egypt part — Chapter 5: Colonial expansion in the Arab countries before the First World War, until independence — story beats: England wraps the Gulf in treaties — Oman in 1798, Perim in 1799, the General Peace of 1820 against piracy and the slave trade, protectorates over Bahrain's rulers, Muscat in 1891 and Kuwait in 1899 — and seizes Aden in 1839 as Muhammad Ali's shadow falls on Arabia; France takes Algiers in 1830 over an unpaid wheat debt, breaks Amir Abd al-Qadir's fifteen-year resistance by 1847, confiscates the land for settlers and makes Muslim Algerians second-class in their own country (History expansion, 2026-11-15; original placement slug: modern-world/scramble-for-africa-origins) | Egypt, *Sec12 "History of Egypt and the Arabs, Modern and Contemporary"*, printed p. 89 |
+
+Egypt's own way (Prep7 T2 "Africa and Egypt", Grade 7 (First Preparatory), Term 2 (student/teacher: STUDENT)): Egypt's African story continues into modern times — Muhammad Ali and Ismail build in Sudan, Europe scrambles for the continent, and Egypt answers as patron of Africa's liberation and a founder of its organisations. That way is stocked here as the way Egypt teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Egypt's own way (Sec12 "History of Egypt and the Arabs, Modern and Contemporary", Grade 12 (Third Secondary, Literary section) (student/teacher: STUDENT)): the final-year course is a university-style narrative (its chief author is a professor of modern history) — Egypt's two centuries told in depth, then the whole Arab world's colonisation and liberation, ending with the two revolutions of the pupils' own lifetimes. That way is stocked here as the way Egypt teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 2 countries (Kuwait, Egypt).**
