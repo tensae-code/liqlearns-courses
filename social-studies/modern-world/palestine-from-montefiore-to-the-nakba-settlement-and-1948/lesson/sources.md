@@ -1,6 +1,6 @@
 # Sources — Palestine from Montefiore to the Nakba — settlement and 1948
 
-countries: Palestine, Mauritania
+countries: Palestine, Mauritania, Sudan
 
 **Book 9 — G9 Social Studies Part 1 (student book, Arabic)**
 - Title as printed: الدراسات الاجتماعية — الصف التاسع الأساسي، الجزء الأول (Social Studies, Grade 9 Basic, Part 1)
@@ -128,3 +128,27 @@ Mauritania's own way (mr-g10 — History, 4th preparatory year (student book, Ar
 Mauritania's own way (mr-g12 — History, 6th year of secondary education (student book, Arabic)): Europe's road to the modern world in Unit 1 (English parliamentarism, the 18th-century ideas, American independence, the French and Industrial revolutions); Unit 2 turns the lens on colonisation with Mauritania inside it (the emirates, colonialism and resistance at home, Omar Mukhtar and al-Hajj Umar as resistance models); Unit 3 runs WWI to WWII with Palestine and the 1929 crisis between the wars. That way is stocked here as the way Mauritania teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 2 countries (Palestine, Mauritania).**
+
+## History expansion (2026-11-15) — Sudan stocked
+
+
+**Book 7 — sd-g12 (student book, Arabic)**
+- Title as printed: التاريخ — التعليم الثانوي — الصف الثالث (History, Secondary Education, Third Year = Grade 12)
+- Grade: Grade 12 (student/teacher: STUDENT)
+- Publisher: المركز القومي للمناهج والبحث التربوي، بخت الرضا (National Centre for Curricula and Educational Research, Bakht al-Ruda), وزارة التعليم العام (Ministry of General Education), Republic of Sudan; الطبعة المنقحة ٢٠٠٩ (revised edition 2009); no ISBN printed
+- PDF pages: 275 (title page verified: History, Third Secondary, committee of the National Centre, revised edition 2009)
+- Verdict: COMPLETE
+- Tally: 30 placements — 7 to existing lessons, 23 NEW LESSON NEEDED
+- Sudan's own way: the final year completes the national arc the Grade 11 book skipped — Mahdiyya, Condominium, national movement — then widens to the Ottoman caliphate's rise and fall and the whole Arab world's liberation century, taught as Sudan's own wider family story.
+- Non-History parts named: none — the whole book is History
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sudan part — The 1948 War and the Establishment of the State of Israel — story beats: the mandate ends in war, a new state is proclaimed, and three-quarters of a million Palestinians leave their homes (History expansion, 2026-11-15; original placement slug: modern-world/the-1948-war-and-the-creation-of-israel) | Sudan, *التاريخ — التعليم الثانوي — الصف الثالث (History, Secondary Education, Third Year = Grade 12)*, printed pp. 245–262 |
+
+Sudan's own way (Book 7 — sd-g12 (student book, Arabic)): the final year completes the national arc the Grade 11 book skipped — Mahdiyya, Condominium, national movement — then widens to the Ottoman caliphate's rise and fall and the whole Arab world's liberation century, taught as Sudan's own wider family story. That way is stocked here as the way Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 3 countries (Palestine, Mauritania, Sudan).**
+
+Searchable tags: Sudan, History expansion 2026-11-15, modern-world/palestine-from-montefiore-to-the-nakba-settlement-and-1948

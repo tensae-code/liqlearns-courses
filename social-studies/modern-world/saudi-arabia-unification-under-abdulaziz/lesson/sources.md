@@ -1,6 +1,6 @@
 # Sources — Saudi Arabia — unification under Abdulaziz: the brave courier
 
-countries: Saudi Arabia
+countries: Saudi Arabia, Sudan
 
 **Book 1:** *الدراسات الاجتماعية — الصف الرابع الابتدائي — غير مجزأ (Social Studies, Grade 4 Primary, unabridged full-year edition)* (student book, Arabic) — Saudi Arabia. Title as printed: الدراسات الاجتماعية — الصف الرابع الابتدائي — غير مجزأ (Social Studies, Grade 4 Primary, unabridged full-year edition). Grade: Grade 4 (student/teacher: STUDENT). Publisher: المركز الوطني للمناهج (National Centre for Curricula), Riyadh; year 1446هـ; ISBN 978-603-8576-98-8. PDF pages: 228 (copyright/title page verified against the record title; text layer read in full). Verdict: COMPLETE. Records: 2 records / 1 distinct book (TSV release record + books.json record for the same repo path, counted once) / grabbed with grab.py url (release asset) into scratch-small-d/, verified by pdfinfo + copyright/title page, text layer read in full, PDF deleted after filing. Note: the record title gives the year as 1448هـ; the printed copyright page of the held copy reads 1446هـ (the 1446 edition, ISBN above). Placements at liqlearns-courses-work/expansion-history-2026-11-15/saudi-arabia-placements.md.
 
@@ -17,3 +17,27 @@ Non-History parts of this book, named in the placements, not placed here: Unit 1
 Saudi Arabia's own way: History enters in Grade 4 as method first — what history is, sources, cause and effect, timelines — practised on Saudi examples, and only then as content: the Arabian Peninsula as the Arabs' homeland and cradle of civilisations, and the prophets' stories as the land's sacred past. National days (Founding Day 1727, National Day 1932) are taught inside the Citizenship unit as national symbols. That way is stocked here as the way Saudi Arabia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 Searchable tags: Saudi Arabia, unification, King Abdulaziz, brave courier, secret letter, Stories I Belong To, قصص أنتمي إليها, Saudi Arabia Grade 4, modern-world
+
+## History expansion (2026-11-15) — Sudan stocked
+
+
+**Book 7 — sd-g12 (student book, Arabic)**
+- Title as printed: التاريخ — التعليم الثانوي — الصف الثالث (History, Secondary Education, Third Year = Grade 12)
+- Grade: Grade 12 (student/teacher: STUDENT)
+- Publisher: المركز القومي للمناهج والبحث التربوي، بخت الرضا (National Centre for Curricula and Educational Research, Bakht al-Ruda), وزارة التعليم العام (Ministry of General Education), Republic of Sudan; الطبعة المنقحة ٢٠٠٩ (revised edition 2009); no ISBN printed
+- PDF pages: 275 (title page verified: History, Third Secondary, committee of the National Centre, revised edition 2009)
+- Verdict: COMPLETE
+- Tally: 30 placements — 7 to existing lessons, 23 NEW LESSON NEEDED
+- Sudan's own way: the final year completes the national arc the Grade 11 book skipped — Mahdiyya, Condominium, national movement — then widens to the Ottoman caliphate's rise and fall and the whole Arab world's liberation century, taught as Sudan's own wider family story.
+- Non-History parts named: none — the whole book is History
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sudan part — Political Developments in the Kingdom of Saudi Arabia and the Hijaz — story beats: the peninsula across the Red Sea becomes a single state in Sudan's students' grandparents' lifetime (History expansion, 2026-11-15; original placement slug: modern-world/saudi-arabia-unification-under-abdulaziz) | Sudan, *التاريخ — التعليم الثانوي — الصف الثالث (History, Secondary Education, Third Year = Grade 12)*, printed pp. 205–208 |
+
+Sudan's own way (Book 7 — sd-g12 (student book, Arabic)): the final year completes the national arc the Grade 11 book skipped — Mahdiyya, Condominium, national movement — then widens to the Ottoman caliphate's rise and fall and the whole Arab world's liberation century, taught as Sudan's own wider family story. That way is stocked here as the way Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 2 countries (Saudi Arabia, Sudan).**
+
+Searchable tags: Sudan, History expansion 2026-11-15, modern-world/saudi-arabia-unification-under-abdulaziz

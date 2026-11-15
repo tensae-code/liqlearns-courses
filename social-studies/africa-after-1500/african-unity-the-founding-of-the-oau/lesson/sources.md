@@ -1,6 +1,6 @@
 # Sources — African unity — the founding of the OAU
 
-countries: Ethiopia, Gambia, Bolivia, South Sudan
+countries: Ethiopia, Gambia, Bolivia, South Sudan, Sudan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 5, placements 110–122).
 
@@ -126,3 +126,27 @@ South Sudan's own way (Book 17 — S1 History Student's Book (student book, Engl
 South Sudan's own way (Book 23 — S4 History Student's Book (student book, English)): The final year is entirely world and African history beyond South Sudan — USA, Russia, Latin America, the Middle East, China and Japan — taught from primary sources (Lincoln's 1854 and 1858 speeches open the book) and ending where S1 ended, with the OAU and AU. That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 4 countries (Ethiopia, Gambia, Bolivia, South Sudan).**
+
+## History expansion (2026-11-15) — Sudan stocked
+
+
+**Book 2 — SD-G9 (student book, Arabic)**
+- Title as printed: التاريخ — الصف الثالث (المرحلة المتوسطة) (History, Third Year of the Intermediate Stage = Grade 9)
+- Grade: Grade 9 (student/teacher: STUDENT)
+- Publisher: National Centre for Curriculum and Educational Research (NCCER), Bakht al-Ruda, Ministry of Education, Republic of Sudan; first edition 2024; no ISBN printed
+- PDF pages: 120 (cover + title page verified; downloaded from the link record's Google Drive URL, 13,117,070 bytes — exactly the size in the pre-existing books.json record — and staged at grade-09/gov/sudan/history/student/full-year.pdf; the PDF's text layer is broken-encoded on most body pages, so the book was read from 100-DPI page renders in 4-up contact sheets, all 120 pages)
+- Verdict: COMPLETE — all four units and all four unit tests present in sequence, closing with the Unit 4 test
+- Tally: 30 placements — 13 to existing lessons, 17 to NEW LESSON NEEDED slugs (15 distinct new lessons proposed)
+- Sudan's own way: a pure History book in four sweeps — Sudan first (the Mahdiyya, the Condominium, the road to independence and the army years), then the Ottoman state, then Africa's colonisation and liberation, then the world wars and the Cold War — the nation always measured against the wider world.
+- Non-History parts (named, not placed): none — the book is History throughout.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sudan part — Unit 3, Lesson 6: منظمة الوحدة الأفريقية — منظمة الوحدة الأفريقية — story beats: with fifteen states free by the early 1960s, thirty governments sign the charter at Addis Ababa on 25 May 1963 — Nkrumah among its loudest founders — vowing unity, sovereignty and an end to colonialism, and the organisation mediates between its members (History expansion, 2026-11-15; original placement slug: africa-after-1500/african-unity-the-founding-of-the-oau) | Sudan, *التاريخ — الصف الثالث (المرحلة المتوسطة) (History, Third Year of the Intermediate Stage = Grade 9)*, printed p. 86 |
+
+Sudan's own way (Book 2 — SD-G9 (student book, Arabic)): a pure History book in four sweeps — Sudan first (the Mahdiyya, the Condominium, the road to independence and the army years), then the Ottoman state, then Africa's colonisation and liberation, then the world wars and the Cold War — the nation always measured against the wider world. That way is stocked here as the way Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 5 countries (Ethiopia, Gambia, Bolivia, South Sudan, Sudan).**
+
+Searchable tags: Sudan, History expansion 2026-11-15, africa-after-1500/african-unity-the-founding-of-the-oau

@@ -1,6 +1,6 @@
 # Sources — The Renaissance — what it was
 
-countries: Ethiopia, Poland, Costa Rica, Australia, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Iran, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia, Mozambique
+countries: Ethiopia, Poland, Costa Rica, Australia, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Iran, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia, Mozambique, Sudan
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -395,3 +395,55 @@ Mozambique's own way (Book 2 — PESD I Mod 2 (student book, Portuguese)): A Mar
 **Acceptance count: taught in 17 countries (Ethiopia, Poland, Costa Rica, Australia, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Iran, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia, Mozambique).**
 
 Searchable tags: Mozambique, History expansion 2026-11-15, modern-world/the-renaissance-what-it-was
+
+## History expansion (2026-11-15) — Sudan stocked
+
+
+**Book 3 — sd-g5 (student book, Arabic)**
+- Title as printed: التاريخ — الصف الخامس — المرحلة الابتدائية (History, Grade 5, Primary Stage)
+- Grade: Grade 5 (student/teacher: STUDENT)
+- Publisher: المركز القومي للمناهج والبحث التربوي، بخت الرضا (National Centre for Curricula and Educational Research, Bakht al-Ruda), وزارة التربية والتعليم (Ministry of Education), Republic of Sudan; year not printed on the pages read; no ISBN printed
+- PDF pages: 121 (cover verified: History 5 with the Meroe pyramids on the cover)
+- Verdict: COMPLETE
+- Tally: 22 placements — 12 to existing lessons, 10 NEW LESSON NEEDED
+- Sudan's own way: a Sudanese child's first history book runs the home story first and longest — Stone Age Sudan, Kerma, Kush, Christian Nubia, the coming of Islam and the Funj and Fur sultanates — then the Islamic state's growth, then Africa, then Europe, so Sudan is the centre the world is viewed from.
+- Non-History parts named: Unit 5, The Art of National Education — characteristics of the Sudanese person, of Sudanese society and of the Sudanese land, and Sudan's contribution to human civilisation (Civics, printed pp. 106–120)
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/sudan-placements.md.
+
+**Book 6 — sd-g11 (student book, Arabic)**
+- Title as printed: التاريخ — التعليم الثانوي — الصف الثاني (History, Secondary Education, Second Year = Grade 11)
+- Grade: Grade 11 (student/teacher: STUDENT)
+- Publisher: المركز القومي للمناهج والبحث التربوي، بخت الرضا (National Centre for Curricula and Educational Research, Bakht al-Ruda), وزارة التربية والتعليم (Ministry of Education), Republic of Sudan; year not printed on the pages read; no ISBN printed
+- PDF pages: 195 (cover verified: History, Second Secondary, with the independence flag-raising in the cover montage)
+- Verdict: COMPLETE — note the book jumps from 1885 to independence: the Mahdiyya (1885–1898) and the Condominium (1899–1956) are NOT covered in this volume (they belong to the Grade 12 book's scope; see Book 7)
+- Tally: 20 placements — 12 to existing lessons, 8 NEW LESSON NEEDED
+- Sudan's own way: the modern story is taught as foreign rule, then freedom, then the republic arguing with itself — Turco-Egyptian conquest and resistance, independence, six governments in thirty years, and the South's question running under everything; Europe's modern history follows as the second half.
+- Non-History parts named: none — the whole book is History
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/sudan-placements.md.
+
+**Book 9 — sd-g8 (student book, Arabic)**
+- Title as printed: التاريخ — الصف الثاني — المرحلة المتوسطة (History, Second Intermediate Year = Grade 8)
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: المركز القومي للمناهج والبحث التربوي، بخت الرضا (National Centre for Curricula and Educational Research, Bakht al-Ruda), وزارة التربية والتعليم (Ministry of Education), Republic of Sudan; الطبعة الأولى ٢٠٢٢م (first edition 2022; introduction dated March 2022); no ISBN printed
+- PDF pages: 104 (cover + title page verified: orange cover with a mud-brick fort, "التاريخ — الصف الثاني — المرحلة المتوسطة"; the PDF is an image-only CamScanner scan distributed via Afidni.com with no usable text layer, so the book was read in full from 130-DPI page renders in 4-up contact sheets, all 104 pages)
+- Verdict: COMPLETE — all four units and all four unit tests present in sequence, closing with the Unit 4 test (printed pp. 101–102) and the centre's back page
+- Tally: 27 placements — 15 to existing lessons, 12 NEW LESSON NEEDED
+- Sudan's own way: Grade 8 is the sultanates book: the Arab entry and the Baqt, then each Sudanese Islamic state examined like a machine — how its king was crowned, who judged, what it taxed, what it sold — before the Turkiyya is audited in three lessons (its administration, its plunder, its resistance) and the child is sent on to the Umayyads, Islam's Africa, and Europe's revolutions.
+- Non-History parts: none — all four units are History
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sudan part — The European Renaissance — story beats: Europe wakes, and the textbook closes the circle that began in its dark ages (History expansion, 2026-11-15; original placement slug: ancient-world/the-renaissance-rebirth-of-learning) | Sudan, *التاريخ — الصف الخامس — المرحلة الابتدائية (History, Grade 5, Primary Stage)*, printed pp. 102–105 |
+| Sudan part — The European Renaissance — story beats: learning is reborn and the modern world begins (History expansion, 2026-11-15; original placement slug: ancient-world/the-renaissance-rebirth-of-learning) | Sudan, *التاريخ — التعليم الثانوي — الصف الثاني (History, Secondary Education, Second Year = Grade 11)*, printed pp. 96–100 |
+| Sudan part — The Age of the European Renaissance — story beats: Europe's rebirth is assembled from refugee scholars, a machine, free cities and Arab libraries (History expansion, 2026-11-15; original placement slug: ancient-world/the-renaissance-rebirth-of-learning) | Sudan, *التاريخ — الصف الثاني — المرحلة المتوسطة (History, Second Intermediate Year = Grade 8)*, printed p. 78 |
+
+Sudan's own way (Book 3 — sd-g5 (student book, Arabic)): a Sudanese child's first history book runs the home story first and longest — Stone Age Sudan, Kerma, Kush, Christian Nubia, the coming of Islam and the Funj and Fur sultanates — then the Islamic state's growth, then Africa, then Europe, so Sudan is the centre the world is viewed from. That way is stocked here as the way Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Sudan's own way (Book 6 — sd-g11 (student book, Arabic)): the modern story is taught as foreign rule, then freedom, then the republic arguing with itself — Turco-Egyptian conquest and resistance, independence, six governments in thirty years, and the South's question running under everything; Europe's modern history follows as the second half. That way is stocked here as the way Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Sudan's own way (Book 9 — sd-g8 (student book, Arabic)): Grade 8 is the sultanates book: the Arab entry and the Baqt, then each Sudanese Islamic state examined like a machine — how its king was crowned, who judged, what it taxed, what it sold — before the Turkiyya is audited in three lessons (its administration, its plunder, its resistance) and the child is sent on to the Umayyads, Islam's Africa, and Europe's revolutions. That way is stocked here as the way Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 18 countries (Ethiopia, Poland, Costa Rica, Australia, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Iran, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia, Mozambique, Sudan).**
+
+Searchable tags: Sudan, History expansion 2026-11-15, modern-world/the-renaissance-what-it-was

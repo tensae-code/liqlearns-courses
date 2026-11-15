@@ -1,6 +1,6 @@
 # Sources — Medieval world — the Ottomans
 
-countries: Ethiopia, Turkey, Australia, Eritrea, Montenegro, Pakistan, Bulgaria, Palestine, Mauritania, Libya, Yemen
+countries: Ethiopia, Turkey, Australia, Eritrea, Montenegro, Pakistan, Bulgaria, Palestine, Mauritania, Libya, Yemen, Sudan
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -306,3 +306,48 @@ Yemen's own way (Book 10 — G11 History Part 2 (student book, Arabic)): Part 2 
 **Acceptance count: taught in 11 countries (Ethiopia, Turkey, Australia, Eritrea, Montenegro, Pakistan, Bulgaria, Palestine, Mauritania, Libya, Yemen).**
 
 Searchable tags: Yemen, History expansion 2026-11-15, ancient-world/medieval-world-the-ottomans
+
+## History expansion (2026-11-15) — Sudan stocked
+
+
+**Book 2 — SD-G9 (student book, Arabic)**
+- Title as printed: التاريخ — الصف الثالث (المرحلة المتوسطة) (History, Third Year of the Intermediate Stage = Grade 9)
+- Grade: Grade 9 (student/teacher: STUDENT)
+- Publisher: National Centre for Curriculum and Educational Research (NCCER), Bakht al-Ruda, Ministry of Education, Republic of Sudan; first edition 2024; no ISBN printed
+- PDF pages: 120 (cover + title page verified; downloaded from the link record's Google Drive URL, 13,117,070 bytes — exactly the size in the pre-existing books.json record — and staged at grade-09/gov/sudan/history/student/full-year.pdf; the PDF's text layer is broken-encoded on most body pages, so the book was read from 100-DPI page renders in 4-up contact sheets, all 120 pages)
+- Verdict: COMPLETE — all four units and all four unit tests present in sequence, closing with the Unit 4 test
+- Tally: 30 placements — 13 to existing lessons, 17 to NEW LESSON NEEDED slugs (15 distinct new lessons proposed)
+- Sudan's own way: a pure History book in four sweeps — Sudan first (the Mahdiyya, the Condominium, the road to independence and the army years), then the Ottoman state, then Africa's colonisation and liberation, then the world wars and the Cold War — the nation always measured against the wider world.
+- Non-History parts (named, not placed): none — the book is History throughout.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/sudan-placements.md.
+
+**Book 7 — sd-g12 (student book, Arabic)**
+- Title as printed: التاريخ — التعليم الثانوي — الصف الثالث (History, Secondary Education, Third Year = Grade 12)
+- Grade: Grade 12 (student/teacher: STUDENT)
+- Publisher: المركز القومي للمناهج والبحث التربوي، بخت الرضا (National Centre for Curricula and Educational Research, Bakht al-Ruda), وزارة التعليم العام (Ministry of General Education), Republic of Sudan; الطبعة المنقحة ٢٠٠٩ (revised edition 2009); no ISBN printed
+- PDF pages: 275 (title page verified: History, Third Secondary, committee of the National Centre, revised edition 2009)
+- Verdict: COMPLETE
+- Tally: 30 placements — 7 to existing lessons, 23 NEW LESSON NEEDED
+- Sudan's own way: the final year completes the national arc the Grade 11 book skipped — Mahdiyya, Condominium, national movement — then widens to the Ottoman caliphate's rise and fall and the whole Arab world's liberation century, taught as Sudan's own wider family story.
+- Non-History parts named: none — the whole book is History
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sudan part — Unit 2, Lesson 1: نشأة الدولة العثمانية — نشأة الدولة العثمانية — story beats: the Qayi Turkmens flee the Mongols into Seljuk Anatolia; Ertugrul wins border land for aiding the Seljuk sultan, and his son Osman (from 1288) plants the emirate at Byzantium's weakest frontier and takes most of Bithynia before his death in 1326 (History expansion, 2026-11-15; original placement slug: modern-world/ottoman-state-begins) | Sudan, *التاريخ — الصف الثالث (المرحلة المتوسطة) (History, Third Year of the Intermediate Stage = Grade 9)*, printed p. 51 |
+| Sudan part — Unit 2, Lesson 2: اتساع الإمارة العثمانية وفتوحاتها في أوروبا — اتساع الإمارة العثمانية وفتوحاتها في أوروبا — story beats: Orhan organises the state — mosques, schools, coinage and the new Janissary corps — wins in the Balkans (Kosovo 1389), and in 1453 Mehmed II storms Constantinople, ends Byzantium and makes the city his capital, Istanbul (History expansion, 2026-11-15; original placement slug: modern-world/ottomans-in-europe-and-constantinople-1453) | Sudan, *التاريخ — الصف الثالث (المرحلة المتوسطة) (History, Third Year of the Intermediate Stage = Grade 9)*, printed p. 54 |
+| Sudan part — Unit 2, Lesson 3: امتداد الدولة العثمانية في البلاد العربية — امتداد الدولة العثمانية في البلاد العربية — story beats: Selim I breaks the Safavids at Chaldiran (1514), crushes the Mamluks at Marj Dabiq (1516) and takes Syria, Egypt and the Hijaz — the caliphate itself passes to him — then Algeria (1519), Libya and Tunisia, Iraq (1534), Yemen, and in 1821 Sudan in the Sultan's name (History expansion, 2026-11-15; original placement slug: modern-world/ottomans-take-the-arab-lands) | Sudan, *التاريخ — الصف الثالث (المرحلة المتوسطة) (History, Third Year of the Intermediate Stage = Grade 9)*, printed p. 57 |
+| Sudan part — Unit 2, Lesson 4: نظم الحكم العثماني للولايات العربية ونتائجها — نظم الحكم العثماني للولايات العربية ونتائجها — story beats: each Arab wilaya is ruled by a wali who sends Istanbul its fixed sum and answers for order, over sanjak-beys, kashifs and a finance defterdar, with Ottoman garrisons and Hanafi judges to hold it (History expansion, 2026-11-15; original placement slug: modern-world/ottomans-take-the-arab-lands) | Sudan, *التاريخ — الصف الثالث (المرحلة المتوسطة) (History, Third Year of the Intermediate Stage = Grade 9)*, printed p. 62 |
+| Sudan part — Unit 2, Lesson 5: تدهور الدولة العثمانية — تدهور الدولة العثمانية — story beats: the Janissaries marry, inherit their posts and meddle in politics; sultans weaken, governors farm the provinces to the highest bidder and squeeze the taxpayers — the great state rots from inside (History expansion, 2026-11-15; original placement slug: modern-world/ottoman-decline-why-the-empire-weakened) | Sudan, *التاريخ — الصف الثالث (المرحلة المتوسطة) (History, Third Year of the Intermediate Stage = Grade 9)*, printed p. 64 |
+| Sudan part — The Rise of the Ottoman State, and The Ottoman State under Muhammad II the Conqueror — story beats: the state Sudan's own conquerors served begins as a handful of horsemen on Byzantium's edge (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-ottomans) | Sudan, *التاريخ — التعليم الثانوي — الصف الثالث (History, Secondary Education, Third Year = Grade 12)*, printed pp. 113–127 |
+| Sudan part — Expansion into Iran and the Arab Lands — story beats: in two years the Ottomans inherit the whole Arab east, Sudan's northern horizon included (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-ottomans) | Sudan, *التاريخ — التعليم الثانوي — الصف الثالث (History, Secondary Education, Third Year = Grade 12)*, printed pp. 128–129 |
+| Sudan part — Systems of Government in the Ottoman State — story beats: the machine that governed three continents, explained part by part (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-ottomans) | Sudan, *التاريخ — التعليم الثانوي — الصف الثالث (History, Secondary Education, Third Year = Grade 12)*, printed pp. 130–139 |
+| Sudan part — The Decline and Collapse of the Ottoman Caliphate State — story beats: the sick man of Europe sickens for two centuries, then dies in the Great War (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-ottomans) | Sudan, *التاريخ — التعليم الثانوي — الصف الثالث (History, Secondary Education, Third Year = Grade 12)*, printed pp. 140–148 |
+
+Sudan's own way (Book 2 — SD-G9 (student book, Arabic)): a pure History book in four sweeps — Sudan first (the Mahdiyya, the Condominium, the road to independence and the army years), then the Ottoman state, then Africa's colonisation and liberation, then the world wars and the Cold War — the nation always measured against the wider world. That way is stocked here as the way Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Sudan's own way (Book 7 — sd-g12 (student book, Arabic)): the final year completes the national arc the Grade 11 book skipped — Mahdiyya, Condominium, national movement — then widens to the Ottoman caliphate's rise and fall and the whole Arab world's liberation century, taught as Sudan's own wider family story. That way is stocked here as the way Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 12 countries (Ethiopia, Turkey, Australia, Eritrea, Montenegro, Pakistan, Bulgaria, Palestine, Mauritania, Libya, Yemen, Sudan).**
+
+Searchable tags: Sudan, History expansion 2026-11-15, ancient-world/medieval-world-the-ottomans

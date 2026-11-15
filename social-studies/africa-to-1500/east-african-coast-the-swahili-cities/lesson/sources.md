@@ -1,6 +1,6 @@
 # Sources — East African Coast — the Swahili Cities
 
-countries: Ethiopia, Nigeria, Rwanda, South Sudan, Libya
+countries: Ethiopia, Nigeria, Rwanda, South Sudan, Libya, Sudan
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -91,3 +91,41 @@ South Sudan's own way (Book 17 — S1 History Student's Book (student book, Engl
 Libya's own way (Book 2 — G11 Medieval Arab World (student book, Humanities, Arabic)): the medieval centuries are told as the Arab-Islamic nation's single story — the Prophet, the caliphates, then the Maghreb and al-Andalus with a named section on ruling families inside Libya itself, and a full closing chapter on civilisation (government, society, science, cities) and what it gave Europe. That way is stocked here as the way Libya teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 5 countries (Ethiopia, Nigeria, Rwanda, South Sudan, Libya).**
+
+## History expansion (2026-11-15) — Sudan stocked
+
+
+**Book 5 — sd-g10 (student book, Arabic)**
+- Title as printed: التاريخ — الصف الأول — التعليم الثانوي (History, First Secondary Year = Grade 10)
+- Grade: Grade 10 (student/teacher: STUDENT)
+- Publisher: المركز القومي للمناهج والبحث التربوي، بخت الرضا (National Centre for Curricula and Educational Research, Bakht al-Ruda), وزارة التعليم العام (Ministry of General Education), Republic of Sudan; year not printed on the pages read; no ISBN printed
+- PDF pages: 173 (cover verified: History, First Secondary, with a map of the early Islamic conquests)
+- Verdict: COMPLETE
+- Tally: 21 placements — 8 to existing lessons, 13 NEW LESSON NEEDED
+- Sudan's own way: at secondary level the book is two histories bound together — the Islamic state caliph by caliph (Rashidun, Umayyad, Abbasid), then Africa's own long story from before Islam to Ghana's and Algeria's liberation, with Sudan's Islamisation given the longest chapter of all.
+- Non-History parts named: none — the whole book is History (the introduction's geography of Arabia is placed below as the peninsula-before-Islam lesson it feeds)
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/sudan-placements.md.
+
+**Book 8 — sd-g6 (student book, Arabic)**
+- Title as printed: التاريخ — الصف السادس — المرحلة الابتدائية (History, Grade 6, Primary Stage); the introduction names the book التاريخ والتربية الوطنية (History and National Education)
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: المركز القومي للمناهج والبحث التربوي، بخت الرضا (National Centre for Curricula and Educational Research, Bakht al-Ruda), وزارة التربية والتعليم (Ministry of Education), Republic of Sudan; الطبعة الأولى ٢٠٢١م (first edition 2021); no ISBN printed
+- PDF pages: 85 (cover + title page verified: orange-and-blue cover, "التاريخ ٦ — الصف السادس" over a map of Sudan; the PDF is an image-only CamScanner scan with no usable text layer and the embedded OCR layer is garbage, so the book was read in full from 130-DPI page renders in 4-up contact sheets, all 85 pages; tesseract Arabic OCR was attempted first and produced nothing usable on these scans)
+- Verdict: COMPLETE — all five units and all five unit tests present in sequence, closing with the Unit 5 test (printed p. 80) and the back cover
+- Tally: 18 placements — 6 to existing lessons, 12 NEW LESSON NEEDED
+- Sudan's own way: Grade 6 gives the child the conquest century whole — invasion, administration, khedives and Gordon — told frankly as foreign rule that built a state while it oppressed, then the Abbasid caliphate as Sudan's wider Islamic past, then Africa's Islamic kingdoms from Fez to Kilwa to Mali, and Europe's rebirth last; the Mahdiyya itself is held back for Grade 9.
+- Non-History parts (named, not placed): Civics — Unit 5 التربية الوطنية (National Education: the Sudanese state, the elements of a state, the state's features and tasks, the rights and duties of citizenship, printed pp. 69–80)
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sudan part — Islam on the East African Coast — story beats: Persian and Arab sea-migrants build a Swahili Muslim civilisation of stone towns that rules the coast for five hundred years (History expansion, 2026-11-15; original placement slug: africa-to-1500/islam-on-the-swahili-coast) | Sudan, *التاريخ — الصف الأول — التعليم الثانوي (History, First Secondary Year = Grade 10)*, printed pp. 139–142 |
+| Sudan part — A Model of the Islamic Kingdoms in East Africa — story beats: a sea-borne sultanate grows rich on gold it never mines, ruling a thousand miles of coast from one island city (History expansion, 2026-11-15; original placement slug: africa-to-1500/islam-on-the-swahili-coast) | Sudan, *التاريخ — الصف السادس — المرحلة الابتدائية (History, Grade 6, Primary Stage)*, printed p. 47 |
+
+Sudan's own way (Book 5 — sd-g10 (student book, Arabic)): at secondary level the book is two histories bound together — the Islamic state caliph by caliph (Rashidun, Umayyad, Abbasid), then Africa's own long story from before Islam to Ghana's and Algeria's liberation, with Sudan's Islamisation given the longest chapter of all. That way is stocked here as the way Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Sudan's own way (Book 8 — sd-g6 (student book, Arabic)): Grade 6 gives the child the conquest century whole — invasion, administration, khedives and Gordon — told frankly as foreign rule that built a state while it oppressed, then the Abbasid caliphate as Sudan's wider Islamic past, then Africa's Islamic kingdoms from Fez to Kilwa to Mali, and Europe's rebirth last; the Mahdiyya itself is held back for Grade 9. That way is stocked here as the way Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 6 countries (Ethiopia, Nigeria, Rwanda, South Sudan, Libya, Sudan).**
+
+Searchable tags: Sudan, History expansion 2026-11-15, africa-to-1500/east-african-coast-the-swahili-cities

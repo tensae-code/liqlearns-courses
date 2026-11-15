@@ -1,6 +1,6 @@
 # Sources — The Renaissance — its great figures
 
-countries: Ethiopia, France, Poland, Kuwait, Pakistan, Mauritania
+countries: Ethiopia, France, Poland, Kuwait, Pakistan, Mauritania, Sudan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 127).
 
@@ -91,3 +91,42 @@ Searchable tags: Pakistan, The Renaissance — its great figures, modern-world, 
 Mauritania's own way (mr-g08 — History, 2nd preparatory year (student book, Arabic)): Three units — (1) Mauritania and Bilad al-Sudan in the middle centuries and their ties to North Africa, (2) Europe's great transformations 15th–19th centuries, (3) the world from modern colonialism to the end of WWII. Mauritania's own medieval story (Islam's peaceful entry, the Almoravids born on its soil, the Sudan empires, the Sahara trade) is taught first and at greatest length. That way is stocked here as the way Mauritania teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 6 countries (Ethiopia, France, Poland, Kuwait, Pakistan, Mauritania).**
+
+## History expansion (2026-11-15) — Sudan stocked
+
+
+**Book 8 — sd-g6 (student book, Arabic)**
+- Title as printed: التاريخ — الصف السادس — المرحلة الابتدائية (History, Grade 6, Primary Stage); the introduction names the book التاريخ والتربية الوطنية (History and National Education)
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: المركز القومي للمناهج والبحث التربوي، بخت الرضا (National Centre for Curricula and Educational Research, Bakht al-Ruda), وزارة التربية والتعليم (Ministry of Education), Republic of Sudan; الطبعة الأولى ٢٠٢١م (first edition 2021); no ISBN printed
+- PDF pages: 85 (cover + title page verified: orange-and-blue cover, "التاريخ ٦ — الصف السادس" over a map of Sudan; the PDF is an image-only CamScanner scan with no usable text layer and the embedded OCR layer is garbage, so the book was read in full from 130-DPI page renders in 4-up contact sheets, all 85 pages; tesseract Arabic OCR was attempted first and produced nothing usable on these scans)
+- Verdict: COMPLETE — all five units and all five unit tests present in sequence, closing with the Unit 5 test (printed p. 80) and the back cover
+- Tally: 18 placements — 6 to existing lessons, 12 NEW LESSON NEEDED
+- Sudan's own way: Grade 6 gives the child the conquest century whole — invasion, administration, khedives and Gordon — told frankly as foreign rule that built a state while it oppressed, then the Abbasid caliphate as Sudan's wider Islamic past, then Africa's Islamic kingdoms from Fez to Kilwa to Mali, and Europe's rebirth last; the Mahdiyya itself is held back for Grade 9.
+- Non-History parts (named, not placed): Civics — Unit 5 التربية الوطنية (National Education: the Sudanese state, the elements of a state, the state's features and tasks, the rights and duties of citizenship, printed pp. 69–80)
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/sudan-placements.md.
+
+**Book 9 — sd-g8 (student book, Arabic)**
+- Title as printed: التاريخ — الصف الثاني — المرحلة المتوسطة (History, Second Intermediate Year = Grade 8)
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: المركز القومي للمناهج والبحث التربوي، بخت الرضا (National Centre for Curricula and Educational Research, Bakht al-Ruda), وزارة التربية والتعليم (Ministry of Education), Republic of Sudan; الطبعة الأولى ٢٠٢٢م (first edition 2022; introduction dated March 2022); no ISBN printed
+- PDF pages: 104 (cover + title page verified: orange cover with a mud-brick fort, "التاريخ — الصف الثاني — المرحلة المتوسطة"; the PDF is an image-only CamScanner scan distributed via Afidni.com with no usable text layer, so the book was read in full from 130-DPI page renders in 4-up contact sheets, all 104 pages)
+- Verdict: COMPLETE — all four units and all four unit tests present in sequence, closing with the Unit 4 test (printed pp. 101–102) and the centre's back page
+- Tally: 27 placements — 15 to existing lessons, 12 NEW LESSON NEEDED
+- Sudan's own way: Grade 8 is the sultanates book: the Arab entry and the Baqt, then each Sudanese Islamic state examined like a machine — how its king was crowned, who judged, what it taxed, what it sold — before the Turkiyya is audited in three lessons (its administration, its plunder, its resistance) and the child is sent on to the Umayyads, Islam's Africa, and Europe's revolutions.
+- Non-History parts: none — all four units are History
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sudan part — The Literary and Artistic Renaissance in Europe — story beats: within two centuries Europe's mind changes its language, its art and its picture of the heavens (History expansion, 2026-11-15; original placement slug: ancient-world/the-renaissance-rebirth-of-learning) | Sudan, *التاريخ — الصف السادس — المرحلة الابتدائية (History, Grade 6, Primary Stage)*, printed p. 58 |
+| Sudan part — The European Literary Renaissance — story beats: nation by nation, Europe's writers stop writing in Latin and start writing for their own peoples (History expansion, 2026-11-15; original placement slug: ancient-world/the-renaissance-rebirth-of-learning) | Sudan, *التاريخ — الصف الثاني — المرحلة المتوسطة (History, Second Intermediate Year = Grade 8)*, printed p. 80 |
+| Sudan part — The European Artistic Renaissance — story beats: the same rebirth, in stone and paint (History expansion, 2026-11-15; original placement slug: ancient-world/the-renaissance-rebirth-of-learning) | Sudan, *التاريخ — الصف الثاني — المرحلة المتوسطة (History, Second Intermediate Year = Grade 8)*, printed p. 84 |
+
+Sudan's own way (Book 8 — sd-g6 (student book, Arabic)): Grade 6 gives the child the conquest century whole — invasion, administration, khedives and Gordon — told frankly as foreign rule that built a state while it oppressed, then the Abbasid caliphate as Sudan's wider Islamic past, then Africa's Islamic kingdoms from Fez to Kilwa to Mali, and Europe's rebirth last; the Mahdiyya itself is held back for Grade 9. That way is stocked here as the way Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Sudan's own way (Book 9 — sd-g8 (student book, Arabic)): Grade 8 is the sultanates book: the Arab entry and the Baqt, then each Sudanese Islamic state examined like a machine — how its king was crowned, who judged, what it taxed, what it sold — before the Turkiyya is audited in three lessons (its administration, its plunder, its resistance) and the child is sent on to the Umayyads, Islam's Africa, and Europe's revolutions. That way is stocked here as the way Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 7 countries (Ethiopia, France, Poland, Kuwait, Pakistan, Mauritania, Sudan).**
+
+Searchable tags: Sudan, History expansion 2026-11-15, modern-world/the-renaissance-its-great-figures

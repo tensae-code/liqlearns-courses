@@ -1,6 +1,6 @@
 # Sources — The Umayyad Caliphate
 
-countries: Turkey, Iran, Mauritania, Yemen
+countries: Turkey, Iran, Mauritania, Yemen, Sudan
 
 **Book 2:** *Ortaöğretim Tarih 9 Ders Kitabı (Secondary Education History 9 Textbook)* (student book, Turkish) — Turkey. Title as printed: Ortaöğretim Tarih 9 Ders Kitabı (Secondary Education History 9 Textbook). Grade: Grade 9 (student/teacher: STUDENT). Publisher: T.C. Millî Eğitim Bakanlığı (MEB), Türkiye, 2021 (per record); ISBN 978-975-11-5258-9. PDF pages: 225 (cover verified: TARİH 9, Ortaöğretim Ders Kitabı, MEB). Verdict: COMPLETE. Tally: 25 placements — 8 to existing lessons, 17 NEW LESSON NEEDED. Records: TSV blob record + books.json twin of the same repo path = one book. Read in full from its text layer; cover verified visually. Non-History parts named: none — the whole book is History. Placements at liqlearns-courses-work/expansion-history-2026-11-15/turkey-placements.md.
 
@@ -111,3 +111,58 @@ Yemen's own way (Book 4 — G6 History (student book, Arabic)): Islamic history 
 **Acceptance count: taught in 4 countries (Turkey, Iran, Mauritania, Yemen).**
 
 Searchable tags: Yemen, History expansion 2026-11-15, ancient-world/the-umayyad-caliphate
+
+## History expansion (2026-11-15) — Sudan stocked
+
+
+**Book 3 — sd-g5 (student book, Arabic)**
+- Title as printed: التاريخ — الصف الخامس — المرحلة الابتدائية (History, Grade 5, Primary Stage)
+- Grade: Grade 5 (student/teacher: STUDENT)
+- Publisher: المركز القومي للمناهج والبحث التربوي، بخت الرضا (National Centre for Curricula and Educational Research, Bakht al-Ruda), وزارة التربية والتعليم (Ministry of Education), Republic of Sudan; year not printed on the pages read; no ISBN printed
+- PDF pages: 121 (cover verified: History 5 with the Meroe pyramids on the cover)
+- Verdict: COMPLETE
+- Tally: 22 placements — 12 to existing lessons, 10 NEW LESSON NEEDED
+- Sudan's own way: a Sudanese child's first history book runs the home story first and longest — Stone Age Sudan, Kerma, Kush, Christian Nubia, the coming of Islam and the Funj and Fur sultanates — then the Islamic state's growth, then Africa, then Europe, so Sudan is the centre the world is viewed from.
+- Non-History parts named: Unit 5, The Art of National Education — characteristics of the Sudanese person, of Sudanese society and of the Sudanese land, and Sudan's contribution to human civilisation (Civics, printed pp. 106–120)
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/sudan-placements.md.
+
+**Book 5 — sd-g10 (student book, Arabic)**
+- Title as printed: التاريخ — الصف الأول — التعليم الثانوي (History, First Secondary Year = Grade 10)
+- Grade: Grade 10 (student/teacher: STUDENT)
+- Publisher: المركز القومي للمناهج والبحث التربوي، بخت الرضا (National Centre for Curricula and Educational Research, Bakht al-Ruda), وزارة التعليم العام (Ministry of General Education), Republic of Sudan; year not printed on the pages read; no ISBN printed
+- PDF pages: 173 (cover verified: History, First Secondary, with a map of the early Islamic conquests)
+- Verdict: COMPLETE
+- Tally: 21 placements — 8 to existing lessons, 13 NEW LESSON NEEDED
+- Sudan's own way: at secondary level the book is two histories bound together — the Islamic state caliph by caliph (Rashidun, Umayyad, Abbasid), then Africa's own long story from before Islam to Ghana's and Algeria's liberation, with Sudan's Islamisation given the longest chapter of all.
+- Non-History parts named: none — the whole book is History (the introduction's geography of Arabia is placed below as the peninsula-before-Islam lesson it feeds)
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/sudan-placements.md.
+
+**Book 9 — sd-g8 (student book, Arabic)**
+- Title as printed: التاريخ — الصف الثاني — المرحلة المتوسطة (History, Second Intermediate Year = Grade 8)
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: المركز القومي للمناهج والبحث التربوي، بخت الرضا (National Centre for Curricula and Educational Research, Bakht al-Ruda), وزارة التربية والتعليم (Ministry of Education), Republic of Sudan; الطبعة الأولى ٢٠٢٢م (first edition 2022; introduction dated March 2022); no ISBN printed
+- PDF pages: 104 (cover + title page verified: orange cover with a mud-brick fort, "التاريخ — الصف الثاني — المرحلة المتوسطة"; the PDF is an image-only CamScanner scan distributed via Afidni.com with no usable text layer, so the book was read in full from 130-DPI page renders in 4-up contact sheets, all 104 pages)
+- Verdict: COMPLETE — all four units and all four unit tests present in sequence, closing with the Unit 4 test (printed pp. 101–102) and the centre's back page
+- Tally: 27 placements — 15 to existing lessons, 12 NEW LESSON NEEDED
+- Sudan's own way: Grade 8 is the sultanates book: the Arab entry and the Baqt, then each Sudanese Islamic state examined like a machine — how its king was crowned, who judged, what it taxed, what it sold — before the Turkiyya is audited in three lessons (its administration, its plunder, its resistance) and the child is sent on to the Umayyads, Islam's Africa, and Europe's revolutions.
+- Non-History parts: none — all four units are History
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sudan part — The Umayyad State and The Conquests in the Umayyad Era — story beats: one dynasty rules an empire stretching from Spain to India (History expansion, 2026-11-15; original placement slug: ancient-world/the-umayyad-caliphate) | Sudan, *التاريخ — الصف الخامس — المرحلة الابتدائية (History, Grade 5, Primary Stage)*, printed pp. 59–68 |
+| Sudan part — The Fall of the Umayyad State — story beats: the empire grew faster than its rulers' justice, and the dynasty pays for it (History expansion, 2026-11-15; original placement slug: ancient-world/the-umayyad-caliphate) | Sudan, *التاريخ — الصف الخامس — المرحلة الابتدائية (History, Grade 5, Primary Stage)*, printed pp. 69–70 |
+| Sudan part — The Islamic State under the Umayyads — story beats: an empire at its widest, one famously just caliph in the middle of it, and a slow rot to the last Marwan (History expansion, 2026-11-15; original placement slug: ancient-world/the-umayyad-caliphate) | Sudan, *التاريخ — الصف الأول — التعليم الثانوي (History, First Secondary Year = Grade 10)*, printed pp. 42–52 |
+| Sudan part — The Founding of the Umayyad State (41–132 / 661–750): the Rashidun era ends when al-Hasan ibn Ali yields the caliphate to Muawiya — story beats: one bargain ends a civil war and changes what a caliph is (History expansion, 2026-11-15; original placement slug: ancient-world/the-umayyad-caliphate) | Sudan, *التاريخ — الصف الثاني — المرحلة المتوسطة (History, Second Intermediate Year = Grade 8)*, printed p. 42 |
+| Sudan part — The Caliphs of the Umayyad State — story beats: a dynasty told through the men who built it, reformed it and lost it (History expansion, 2026-11-15; original placement slug: ancient-world/the-umayyad-caliphate) | Sudan, *التاريخ — الصف الثاني — المرحلة المتوسطة (History, Second Intermediate Year = Grade 8)*, printed p. 44 |
+| Sudan part — The Weakness and Fall of the Umayyad State — story beats: the same machine that conquered the world cannot settle who should rule it (History expansion, 2026-11-15; original placement slug: ancient-world/the-umayyad-caliphate) | Sudan, *التاريخ — الصف الثاني — المرحلة المتوسطة (History, Second Intermediate Year = Grade 8)*, printed p. 56 |
+
+Sudan's own way (Book 3 — sd-g5 (student book, Arabic)): a Sudanese child's first history book runs the home story first and longest — Stone Age Sudan, Kerma, Kush, Christian Nubia, the coming of Islam and the Funj and Fur sultanates — then the Islamic state's growth, then Africa, then Europe, so Sudan is the centre the world is viewed from. That way is stocked here as the way Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Sudan's own way (Book 5 — sd-g10 (student book, Arabic)): at secondary level the book is two histories bound together — the Islamic state caliph by caliph (Rashidun, Umayyad, Abbasid), then Africa's own long story from before Islam to Ghana's and Algeria's liberation, with Sudan's Islamisation given the longest chapter of all. That way is stocked here as the way Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Sudan's own way (Book 9 — sd-g8 (student book, Arabic)): Grade 8 is the sultanates book: the Arab entry and the Baqt, then each Sudanese Islamic state examined like a machine — how its king was crowned, who judged, what it taxed, what it sold — before the Turkiyya is audited in three lessons (its administration, its plunder, its resistance) and the child is sent on to the Umayyads, Islam's Africa, and Europe's revolutions. That way is stocked here as the way Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 5 countries (Turkey, Iran, Mauritania, Yemen, Sudan).**
+
+Searchable tags: Sudan, History expansion 2026-11-15, ancient-world/the-umayyad-caliphate

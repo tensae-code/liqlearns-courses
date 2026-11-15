@@ -1,6 +1,6 @@
 # Sources — Palestine under the British Mandate and the Zionist project
 
-countries: Egypt, Syria, Palestine, Libya, Samoa
+countries: Egypt, Syria, Palestine, Libya, Samoa, Sudan
 
 **Book 6:** *الدراسات الاجتماعية — جغرافية العالم وتاريخ مصر الحديث والمعاصر (Social Studies — Geography of the World and Modern and Contemporary History of Egypt)* (student book, Arabic) — Egypt. Grade: Grade 9 (Third Preparatory), both terms in one volume (student book). Publisher: Ministry of Education and Technical Education, Egypt (Central Administration for Curriculum Development; General Administration for Textbooks); printed 2025/2026; ISBN: no ISBN printed in the front matter. PDF pages: 186 (read in place from phase3-staging; image-only scan read as 4-up page sheets; all History units of both terms read, Geography units identified from the contents). Note: this is the older-curriculum full-year book, a different book from Book 5 (the new-curriculum Term 1 volume), covering some of the same ground in its own treatment. Verdict: COMPLETE (History parts). Tally: 13 placements — 0 to existing lessons, 13 NEW LESSON NEEDED. Non-History parts (named, not placed): Term 1 Units 1–2 (physical geography of the world — continents, terrain, climate and natural vegetation; population geography — human races, population distribution and characteristics) and Term 2 Units 1–2 (resources and economic activities in the world; models of developing and advanced countries — India, Brazil, Nigeria, Germany, the USA), plus Term 2 Unit 4 Lesson 2 (Egypt and the regional and international organisations) — Geography/Civics. Placements at liqlearns-courses-work/expansion-history-2026-11-15/egypt-placements.md.
 
@@ -104,3 +104,28 @@ Samoa's own way (Book 10 — y12-history (History, Year 12)): A full senior Hist
 **Acceptance count: taught in 5 countries (Egypt, Syria, Palestine, Libya, Samoa).**
 
 Searchable tags: Samoa, History expansion 2026-11-15, modern-world/palestine-under-the-british-mandate-and-the-zionist-project
+
+## History expansion (2026-11-15) — Sudan stocked
+
+
+**Book 7 — sd-g12 (student book, Arabic)**
+- Title as printed: التاريخ — التعليم الثانوي — الصف الثالث (History, Secondary Education, Third Year = Grade 12)
+- Grade: Grade 12 (student/teacher: STUDENT)
+- Publisher: المركز القومي للمناهج والبحث التربوي، بخت الرضا (National Centre for Curricula and Educational Research, Bakht al-Ruda), وزارة التعليم العام (Ministry of General Education), Republic of Sudan; الطبعة المنقحة ٢٠٠٩ (revised edition 2009); no ISBN printed
+- PDF pages: 275 (title page verified: History, Third Secondary, committee of the National Centre, revised edition 2009)
+- Verdict: COMPLETE
+- Tally: 30 placements — 7 to existing lessons, 23 NEW LESSON NEEDED
+- Sudan's own way: the final year completes the national arc the Grade 11 book skipped — Mahdiyya, Condominium, national movement — then widens to the Ottoman caliphate's rise and fall and the whole Arab world's liberation century, taught as Sudan's own wider family story.
+- Non-History parts named: none — the whole book is History
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sudan part — The Zionist Movement and Its Development — story beats: a movement founded in Basel is written into an empire's war promise (History expansion, 2026-11-15; original placement slug: modern-world/the-zionist-movement) | Sudan, *التاريخ — التعليم الثانوي — الصف الثالث (History, Secondary Education, Third Year = Grade 12)*, printed pp. 226–230 |
+| Sudan part — The British Mandate over Palestine, and The Palestinian Arab Revolt 1936–1939 — story beats: the mandate's two promises collide, and Palestine answers with a six-month strike and three years of revolt (History expansion, 2026-11-15; original placement slug: modern-world/palestine-under-the-british-mandate) | Sudan, *التاريخ — التعليم الثانوي — الصف الثالث (History, Secondary Education, Third Year = Grade 12)*, printed pp. 231–244 |
+
+Sudan's own way (Book 7 — sd-g12 (student book, Arabic)): the final year completes the national arc the Grade 11 book skipped — Mahdiyya, Condominium, national movement — then widens to the Ottoman caliphate's rise and fall and the whole Arab world's liberation century, taught as Sudan's own wider family story. That way is stocked here as the way Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 6 countries (Egypt, Syria, Palestine, Libya, Samoa, Sudan).**
+
+Searchable tags: Sudan, History expansion 2026-11-15, modern-world/palestine-under-the-british-mandate-and-the-zionist-project

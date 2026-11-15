@@ -1,6 +1,6 @@
 # Sources — Colonial expansion in the Arab lands
 
-countries: Egypt, Syria, Palestine
+countries: Egypt, Syria, Palestine, Sudan
 
 **Book 11:** *تاريخ مصر والعرب الحديث والمعاصر (History of Egypt and the Arabs, Modern and Contemporary)* (student book, Arabic) — Egypt. Grade: Grade 12 (Third Secondary, Literary section) (student book). Publisher: Ministry of Education and Technical Education, Egypt (Central Administration for Textbooks; Curriculum Development Centre), school year 2025/2026; chief author Prof. Abd al-Aziz Nawar (Professor of Modern History, Ain Shams University) with Prof. Asim al-Desouki and others; ISBN: no ISBN printed in the front matter. PDF pages: 152 (downloaded from the ministry source_url at the exact recorded size; read as 4-up page sheets; all eight chapters read). Verdict: COMPLETE. Tally: 9 placements — 1 to an existing lesson, 8 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/egypt-placements.md.
 
@@ -67,3 +67,27 @@ Palestine's own way (Book 9 — G9 Social Studies Part 1, Grade 9 (student/teach
 **Acceptance count: taught in 3 countries (Egypt, Syria, Palestine).**
 
 Searchable tags: Palestine, Colonial expansion in the Arab lands, modern-world, History expansion 2026-11-15
+
+## History expansion (2026-11-15) — Sudan stocked
+
+
+**Book 7 — sd-g12 (student book, Arabic)**
+- Title as printed: التاريخ — التعليم الثانوي — الصف الثالث (History, Secondary Education, Third Year = Grade 12)
+- Grade: Grade 12 (student/teacher: STUDENT)
+- Publisher: المركز القومي للمناهج والبحث التربوي، بخت الرضا (National Centre for Curricula and Educational Research, Bakht al-Ruda), وزارة التعليم العام (Ministry of General Education), Republic of Sudan; الطبعة المنقحة ٢٠٠٩ (revised edition 2009); no ISBN printed
+- PDF pages: 275 (title page verified: History, Third Secondary, committee of the National Centre, revised edition 2009)
+- Verdict: COMPLETE
+- Tally: 30 placements — 7 to existing lessons, 23 NEW LESSON NEEDED
+- Sudan's own way: the final year completes the national arc the Grade 11 book skipped — Mahdiyya, Condominium, national movement — then widens to the Ottoman caliphate's rise and fall and the whole Arab world's liberation century, taught as Sudan's own wider family story.
+- Non-History parts named: none — the whole book is History
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sudan part — The Subjection of the Arab Lands to European Colonialism 1920–1945 — story beats: promised independence in the war, the Arabs receive French and British officials instead (History expansion, 2026-11-15; original placement slug: modern-world/arab-world-under-european-mandates) | Sudan, *التاريخ — التعليم الثانوي — الصف الثالث (History, Secondary Education, Third Year = Grade 12)*, printed pp. 186–191 |
+
+Sudan's own way (Book 7 — sd-g12 (student book, Arabic)): the final year completes the national arc the Grade 11 book skipped — Mahdiyya, Condominium, national movement — then widens to the Ottoman caliphate's rise and fall and the whole Arab world's liberation century, taught as Sudan's own wider family story. That way is stocked here as the way Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 4 countries (Egypt, Syria, Palestine, Sudan).**
+
+Searchable tags: Sudan, History expansion 2026-11-15, modern-world/colonial-expansion-in-the-arab-lands

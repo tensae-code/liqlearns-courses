@@ -1,6 +1,6 @@
 # Sources — Germany unifies — Bismarck, Blood and Iron, Versailles 1871
 
-countries: Ethiopia, Cambodia, South Sudan, Iraq, Yemen
+countries: Ethiopia, Cambodia, South Sudan, Iraq, Yemen, Sudan
 
 **Book 1:** *History, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN 978-99990-0-065-9, printed by GRAVITY GROUP IND LLC, Sharjah, UAE. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g10-student-placements.md
 
@@ -135,3 +135,27 @@ Yemen's own way (Book 11 — G12 History (student book, Arabic)): world history 
 **Acceptance count: taught in 5 countries (Ethiopia, Cambodia, South Sudan, Iraq, Yemen).**
 
 Searchable tags: Yemen, History expansion 2026-11-15, modern-world/germany-unifies-bismarck-blood-and-iron
+
+## History expansion (2026-11-15) — Sudan stocked
+
+
+**Book 6 — sd-g11 (student book, Arabic)**
+- Title as printed: التاريخ — التعليم الثانوي — الصف الثاني (History, Secondary Education, Second Year = Grade 11)
+- Grade: Grade 11 (student/teacher: STUDENT)
+- Publisher: المركز القومي للمناهج والبحث التربوي، بخت الرضا (National Centre for Curricula and Educational Research, Bakht al-Ruda), وزارة التربية والتعليم (Ministry of Education), Republic of Sudan; year not printed on the pages read; no ISBN printed
+- PDF pages: 195 (cover verified: History, Second Secondary, with the independence flag-raising in the cover montage)
+- Verdict: COMPLETE — note the book jumps from 1885 to independence: the Mahdiyya (1885–1898) and the Condominium (1899–1956) are NOT covered in this volume (they belong to the Grade 12 book's scope; see Book 7)
+- Tally: 20 placements — 12 to existing lessons, 8 NEW LESSON NEEDED
+- Sudan's own way: the modern story is taught as foreign rule, then freedom, then the republic arguing with itself — Turco-Egyptian conquest and resistance, independence, six governments in thirty years, and the South's question running under everything; Europe's modern history follows as the second half.
+- Non-History parts named: none — the whole book is History
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sudan part — German Unity — story beats: Prussia welds the German states into an empire that will shake the world (History expansion, 2026-11-15; original placement slug: modern-world/italy-and-germany-unite) | Sudan, *التاريخ — التعليم الثانوي — الصف الثاني (History, Secondary Education, Second Year = Grade 11)*, printed pp. 140–148 |
+
+Sudan's own way (Book 6 — sd-g11 (student book, Arabic)): the modern story is taught as foreign rule, then freedom, then the republic arguing with itself — Turco-Egyptian conquest and resistance, independence, six governments in thirty years, and the South's question running under everything; Europe's modern history follows as the second half. That way is stocked here as the way Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 6 countries (Ethiopia, Cambodia, South Sudan, Iraq, Yemen, Sudan).**
+
+Searchable tags: Sudan, History expansion 2026-11-15, modern-world/germany-unifies-bismarck-blood-and-iron

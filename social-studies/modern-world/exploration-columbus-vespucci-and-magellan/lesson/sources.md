@@ -1,6 +1,6 @@
 # Sources — Exploration — Columbus, Vespucci and Magellan
 
-countries: Ethiopia, France, Guatemala, Micronesia, Ecuador, Bahamas, Kuwait, Montenegro, Dominican Republic, Egypt, Pakistan, Suriname, Colombia, Mauritania, South Sudan, Mongolia
+countries: Ethiopia, France, Guatemala, Micronesia, Ecuador, Bahamas, Kuwait, Montenegro, Dominican Republic, Egypt, Pakistan, Suriname, Colombia, Mauritania, South Sudan, Mongolia, Sudan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 124).
 
@@ -303,3 +303,27 @@ Mongolia's own way (Book 1 — mn-g8h Түүх VIII (History VIII)): Mongolian a
 **Acceptance count: taught in 16 countries (Ethiopia, France, Guatemala, Micronesia, Ecuador, Bahamas, Kuwait, Montenegro, Dominican Republic, Egypt, Pakistan, Suriname, Colombia, Mauritania, South Sudan, Mongolia).**
 
 Searchable tags: Mongolia, History expansion 2026-11-15, modern-world/exploration-columbus-vespucci-and-magellan
+
+## History expansion (2026-11-15) — Sudan stocked
+
+
+**Book 9 — sd-g8 (student book, Arabic)**
+- Title as printed: التاريخ — الصف الثاني — المرحلة المتوسطة (History, Second Intermediate Year = Grade 8)
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: المركز القومي للمناهج والبحث التربوي، بخت الرضا (National Centre for Curricula and Educational Research, Bakht al-Ruda), وزارة التربية والتعليم (Ministry of Education), Republic of Sudan; الطبعة الأولى ٢٠٢٢م (first edition 2022; introduction dated March 2022); no ISBN printed
+- PDF pages: 104 (cover + title page verified: orange cover with a mud-brick fort, "التاريخ — الصف الثاني — المرحلة المتوسطة"; the PDF is an image-only CamScanner scan distributed via Afidni.com with no usable text layer, so the book was read in full from 130-DPI page renders in 4-up contact sheets, all 104 pages)
+- Verdict: COMPLETE — all four units and all four unit tests present in sequence, closing with the Unit 4 test (printed pp. 101–102) and the centre's back page
+- Tally: 27 placements — 15 to existing lessons, 12 NEW LESSON NEEDED
+- Sudan's own way: Grade 8 is the sultanates book: the Arab entry and the Baqt, then each Sudanese Islamic state examined like a machine — how its king was crowned, who judged, what it taxed, what it sold — before the Turkiyya is audited in three lessons (its administration, its plunder, its resistance) and the child is sent on to the Umayyads, Islam's Africa, and Europe's revolutions.
+- Non-History parts: none — all four units are History
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sudan part — English, French part and results), The European Geographical Discoveries — Spain and the Rest — story beats: in thirty years the map of the world doubles, and every later empire sails on these charts (History expansion, 2026-11-15; original placement slug: ancient-world/exploration-spain-columbus-and-magellan) | Sudan, *التاريخ — الصف الثاني — المرحلة المتوسطة (History, Second Intermediate Year = Grade 8)*, printed p. 91 |
+
+Sudan's own way (Book 9 — sd-g8 (student book, Arabic)): Grade 8 is the sultanates book: the Arab entry and the Baqt, then each Sudanese Islamic state examined like a machine — how its king was crowned, who judged, what it taxed, what it sold — before the Turkiyya is audited in three lessons (its administration, its plunder, its resistance) and the child is sent on to the Umayyads, Islam's Africa, and Europe's revolutions. That way is stocked here as the way Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 17 countries (Ethiopia, France, Guatemala, Micronesia, Ecuador, Bahamas, Kuwait, Montenegro, Dominican Republic, Egypt, Pakistan, Suriname, Colombia, Mauritania, South Sudan, Mongolia, Sudan).**
+
+Searchable tags: Sudan, History expansion 2026-11-15, modern-world/exploration-columbus-vespucci-and-magellan

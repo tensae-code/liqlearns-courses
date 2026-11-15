@@ -1,6 +1,6 @@
 # Sources — The rise and expansion of Islam
 
-countries: Ethiopia, Saudi Arabia, Gambia, Turkey, Costa Rica, Malaysia, Ecuador, Kuwait, India, Montenegro, Egypt, Pakistan, Syria, Iran, Bulgaria, Palestine, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Yemen
+countries: Ethiopia, Saudi Arabia, Gambia, Turkey, Costa Rica, Malaysia, Ecuador, Kuwait, India, Montenegro, Egypt, Pakistan, Syria, Iran, Bulgaria, Palestine, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Yemen, Sudan
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under GEQIP-E, ISBN 978-99990-0-066-6. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -782,3 +782,72 @@ Yemen's own way (Book 9 — G11 History Part 1 (student book, Arabic)): Arab Isl
 **Acceptance count: taught in 23 countries (Ethiopia, Saudi Arabia, Gambia, Turkey, Costa Rica, Malaysia, Ecuador, Kuwait, India, Montenegro, Egypt, Pakistan, Syria, Iran, Bulgaria, Palestine, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Yemen).**
 
 Searchable tags: Yemen, History expansion 2026-11-15, ancient-world/the-rise-and-expansion-of-islam
+
+## History expansion (2026-11-15) — Sudan stocked
+
+
+**Book 1 — SD-G4 (student book, Arabic)**
+- Title as printed: التاريخ والتربية الوطنية — الصف الرابع (History and National Education, Grade 4)
+- Grade: Grade 4 (student/teacher: STUDENT)
+- Publisher: National Centre for Curriculum and Educational Research (NCCER), Bakht al-Ruda, Ministry of Education, Republic of Sudan; year 2018 (title page); no ISBN printed
+- PDF pages: 75 (cover + title page verified: title page reads التاريخ والتربية الوطنية، الصف الرابع; downloaded from the link record's Google Drive URL, 5,274,051 bytes — exactly the size in the pre-existing books.json record — and staged at grade-04/gov/sudan/history/student/full-year.pdf)
+- Verdict: COMPLETE — all four units and their unit tests present in sequence
+- Tally: 18 placements — 5 to existing lessons, 13 to NEW LESSON NEEDED slugs (7 first proposed here, 6 reusing NEW slugs first proposed by the Kuwait and Egypt groups in this wave)
+- Sudan's own way: history begins with the calendar itself, then walks Sudan's own soil in order — Stone-Age Khartoum, Kerma, Kush, Christian Nubia, Darfur's stone cities — before the Rashidun caliphs and a whole unit on Africa, so the child's own land is the spine of the past.
+- Non-History parts (named, not placed): Civics — Unit 4 نحن سودانيون (We are Sudanese: the Sudanese character, society's traits and celebrations, printed pp. 53–70); Geography — Unit 3, Lesson 1 موقع إفريقيا وسكانها location half (Africa's position and size, printed p. 32).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/sudan-placements.md.
+
+**Book 3 — sd-g5 (student book, Arabic)**
+- Title as printed: التاريخ — الصف الخامس — المرحلة الابتدائية (History, Grade 5, Primary Stage)
+- Grade: Grade 5 (student/teacher: STUDENT)
+- Publisher: المركز القومي للمناهج والبحث التربوي، بخت الرضا (National Centre for Curricula and Educational Research, Bakht al-Ruda), وزارة التربية والتعليم (Ministry of Education), Republic of Sudan; year not printed on the pages read; no ISBN printed
+- PDF pages: 121 (cover verified: History 5 with the Meroe pyramids on the cover)
+- Verdict: COMPLETE
+- Tally: 22 placements — 12 to existing lessons, 10 NEW LESSON NEEDED
+- Sudan's own way: a Sudanese child's first history book runs the home story first and longest — Stone Age Sudan, Kerma, Kush, Christian Nubia, the coming of Islam and the Funj and Fur sultanates — then the Islamic state's growth, then Africa, then Europe, so Sudan is the centre the world is viewed from.
+- Non-History parts named: Unit 5, The Art of National Education — characteristics of the Sudanese person, of Sudanese society and of the Sudanese land, and Sudan's contribution to human civilisation (Civics, printed pp. 106–120)
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/sudan-placements.md.
+
+**Book 4 — sd-g7 (student book, Arabic)**
+- Title as printed: التاريخ — الصف الأول — المرحلة المتوسطة (History, First Intermediate Year = Grade 7)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: المركز القومي للمناهج والبحث التربوي، بخت الرضا (National Centre for Curricula and Educational Research, Bakht al-Ruda), وزارة التربية والتعليم (Ministry of Education), Republic of Sudan; year not printed on the pages read; no ISBN printed
+- PDF pages: 119 (title page verified against the record)
+- Verdict: COMPLETE
+- Tally: 22 placements — 12 to existing lessons, 10 NEW LESSON NEEDED
+- Sudan's own way: Grade 7 re-reads the home story at full depth — prehistory, the nameless A/B/C-Group peoples, Kerma, Napata's kings one by one, Meroe — before Arabia's kingdoms and the building of the Islamic state, then Africa's civilisations and finally Greece and Rome.
+- Non-History parts named: Unit 2, Lesson 1, The Geography of the Arabian Peninsula (Geography, printed pp. 44–45); Unit 3, Lesson 1, Africa: The Natural Environment (Geography, printed pp. 80–81)
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/sudan-placements.md.
+
+**Book 5 — sd-g10 (student book, Arabic)**
+- Title as printed: التاريخ — الصف الأول — التعليم الثانوي (History, First Secondary Year = Grade 10)
+- Grade: Grade 10 (student/teacher: STUDENT)
+- Publisher: المركز القومي للمناهج والبحث التربوي، بخت الرضا (National Centre for Curricula and Educational Research, Bakht al-Ruda), وزارة التعليم العام (Ministry of General Education), Republic of Sudan; year not printed on the pages read; no ISBN printed
+- PDF pages: 173 (cover verified: History, First Secondary, with a map of the early Islamic conquests)
+- Verdict: COMPLETE
+- Tally: 21 placements — 8 to existing lessons, 13 NEW LESSON NEEDED
+- Sudan's own way: at secondary level the book is two histories bound together — the Islamic state caliph by caliph (Rashidun, Umayyad, Abbasid), then Africa's own long story from before Islam to Ghana's and Algeria's liberation, with Sudan's Islamisation given the longest chapter of all.
+- Non-History parts named: none — the whole book is History (the introduction's geography of Arabia is placed below as the peninsula-before-Islam lesson it feeds)
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sudan part — The Rightly-Guided Caliphs — story beats: when the Prophet dies his closest companions — the first to believe and the defenders of the call — take up the rule one after another (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Sudan, *التاريخ والتربية الوطنية — الصف الرابع (History and National Education, Grade 4)*, printed p. 22 |
+| Sudan part — The Call and the Islamic State in the Time of the Prophet — story beats: a preacher becomes a state-builder, and a city of refuge becomes a capital (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Sudan, *التاريخ — الصف الخامس — المرحلة الابتدائية (History, Grade 5, Primary Stage)*, printed pp. 44–50 |
+| Sudan part — The Islamic State in the Time of the Rightly Guided Caliphs — story beats: four caliphs in thirty years turn a city-state into an empire (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Sudan, *التاريخ — الصف الخامس — المرحلة الابتدائية (History, Grade 5, Primary Stage)*, printed pp. 51–58 |
+| Sudan part — The Spread of Islam in North Africa — story beats: within a generation the whole southern shore of the Mediterranean is Muslim (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Sudan, *التاريخ — الصف الخامس — المرحلة الابتدائية (History, Grade 5, Primary Stage)*, printed pp. 93–95 |
+| Sudan part — The Islamic State in the Time of the Prophet — story beats: in ten years a persecuted preacher becomes the head of a state (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Sudan, *التاريخ — الصف الأول — المرحلة المتوسطة (History, First Intermediate Year = Grade 7)*, printed pp. 54–62 |
+| Sudan part — The Islamic State under the Rightly Guided Caliphs, and The Conquests under the Rightly Guided Caliphs — story beats: the state outlives its founder and doubles in size with every caliph (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Sudan, *التاريخ — الصف الأول — المرحلة المتوسطة (History, First Intermediate Year = Grade 7)*, printed pp. 63–65 and 70–73 |
+| Sudan part — Islam's establishment along the Mediterranean shore — story beats: the northern coast is won early, and becomes the bridge to Spain and to the desert routes (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Sudan, *التاريخ — الصف الأول — التعليم الثانوي (History, First Secondary Year = Grade 10)*, printed pp. 123–138 |
+
+Sudan's own way (Book 1 — SD-G4 (student book, Arabic)): history begins with the calendar itself, then walks Sudan's own soil in order — Stone-Age Khartoum, Kerma, Kush, Christian Nubia, Darfur's stone cities — before the Rashidun caliphs and a whole unit on Africa, so the child's own land is the spine of the past. That way is stocked here as the way Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Sudan's own way (Book 3 — sd-g5 (student book, Arabic)): a Sudanese child's first history book runs the home story first and longest — Stone Age Sudan, Kerma, Kush, Christian Nubia, the coming of Islam and the Funj and Fur sultanates — then the Islamic state's growth, then Africa, then Europe, so Sudan is the centre the world is viewed from. That way is stocked here as the way Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Sudan's own way (Book 4 — sd-g7 (student book, Arabic)): Grade 7 re-reads the home story at full depth — prehistory, the nameless A/B/C-Group peoples, Kerma, Napata's kings one by one, Meroe — before Arabia's kingdoms and the building of the Islamic state, then Africa's civilisations and finally Greece and Rome. That way is stocked here as the way Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Sudan's own way (Book 5 — sd-g10 (student book, Arabic)): at secondary level the book is two histories bound together — the Islamic state caliph by caliph (Rashidun, Umayyad, Abbasid), then Africa's own long story from before Islam to Ghana's and Algeria's liberation, with Sudan's Islamisation given the longest chapter of all. That way is stocked here as the way Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 24 countries (Ethiopia, Saudi Arabia, Gambia, Turkey, Costa Rica, Malaysia, Ecuador, Kuwait, India, Montenegro, Egypt, Pakistan, Syria, Iran, Bulgaria, Palestine, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Yemen, Sudan).**
+
+Searchable tags: Sudan, History expansion 2026-11-15, ancient-world/the-rise-and-expansion-of-islam

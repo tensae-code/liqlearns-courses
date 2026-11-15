@@ -1,6 +1,6 @@
 # Sources — The United Nations is founded — and Kuwait joins
 
-countries: Kuwait, Mauritania, Sri Lanka, Samoa
+countries: Kuwait, Mauritania, Sri Lanka, Samoa, Sudan
 
 **Book 8:** *دولة الكويت والعالم — الصف التاسع، الفصل الدراسي الثاني (State of Kuwait and the World, Grade 9, Term 2)* (student book, Arabic) — Kuwait. Title as printed: دولة الكويت والعالم — الصف التاسع، الفصل الدراسي الثاني (State of Kuwait and the World, Grade 9, Term 2). Grade: 9 (student/teacher: STUDENT). Publisher: Ministry of Education, Kuwait — General Directorate for Guidance, Research and Curricula; 1st edition 1447H / 2025–2026; no ISBN printed in the front matter. PDF pages: 106 (cover/title page verified against the record title; grabbed via the TSV release record, 27,418,994 bytes, matching the books.json record size exactly). Verdict: COMPLETE. Tally: 2 placements — 0 to existing lessons, 2 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/kuwait-placements.md.
 
@@ -140,3 +140,27 @@ Samoa's own way (Book 11 — y13-history (History, Year 13)): The same six-part 
 **Acceptance count: taught in 4 countries (Kuwait, Mauritania, Sri Lanka, Samoa).**
 
 Searchable tags: Samoa, History expansion 2026-11-15, modern-world/united-nations-founding-and-kuwait-joins
+
+## History expansion (2026-11-15) — Sudan stocked
+
+
+**Book 2 — SD-G9 (student book, Arabic)**
+- Title as printed: التاريخ — الصف الثالث (المرحلة المتوسطة) (History, Third Year of the Intermediate Stage = Grade 9)
+- Grade: Grade 9 (student/teacher: STUDENT)
+- Publisher: National Centre for Curriculum and Educational Research (NCCER), Bakht al-Ruda, Ministry of Education, Republic of Sudan; first edition 2024; no ISBN printed
+- PDF pages: 120 (cover + title page verified; downloaded from the link record's Google Drive URL, 13,117,070 bytes — exactly the size in the pre-existing books.json record — and staged at grade-09/gov/sudan/history/student/full-year.pdf; the PDF's text layer is broken-encoded on most body pages, so the book was read from 100-DPI page renders in 4-up contact sheets, all 120 pages)
+- Verdict: COMPLETE — all four units and all four unit tests present in sequence, closing with the Unit 4 test
+- Tally: 30 placements — 13 to existing lessons, 17 to NEW LESSON NEEDED slugs (15 distinct new lessons proposed)
+- Sudan's own way: a pure History book in four sweeps — Sudan first (the Mahdiyya, the Condominium, the road to independence and the army years), then the Ottoman state, then Africa's colonisation and liberation, then the world wars and the Cold War — the nation always measured against the wider world.
+- Non-History parts (named, not placed): none — the book is History throughout.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sudan part — Unit 4, Lesson 3: هيئة الأمم المتحدة — هيئة الأمم المتحدة — story beats: out of the war the world builds the United Nations (1945, New York) to keep peace, honour self-determination and cooperate — General Assembly, a Security Council where five great powers hold the veto, ECOSOC, trusteeship, a Secretariat and the World Court at The Hague, with FAO, UNESCO, the ILO, WHO, the IAEA and UNICEF at work beside it (History expansion, 2026-11-15; original placement slug: modern-world/the-united-nations-founded-1945) | Sudan, *التاريخ — الصف الثالث (المرحلة المتوسطة) (History, Third Year of the Intermediate Stage = Grade 9)*, printed p. 103 |
+
+Sudan's own way (Book 2 — SD-G9 (student book, Arabic)): a pure History book in four sweeps — Sudan first (the Mahdiyya, the Condominium, the road to independence and the army years), then the Ottoman state, then Africa's colonisation and liberation, then the world wars and the Cold War — the nation always measured against the wider world. That way is stocked here as the way Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 5 countries (Kuwait, Mauritania, Sri Lanka, Samoa, Sudan).**
+
+Searchable tags: Sudan, History expansion 2026-11-15, modern-world/united-nations-founding-and-kuwait-joins

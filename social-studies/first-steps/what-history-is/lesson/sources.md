@@ -1,6 +1,6 @@
 # Sources — What history is
 
-countries: Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia, Iraq, Mozambique, Yemen
+countries: Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia, Iraq, Mozambique, Yemen, Sudan
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -1108,3 +1108,27 @@ Yemen's own way (Book 8 — G10 History Part 1 (student book, Arabic)): the whol
 **Acceptance count: taught in 38 countries (Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia, Iraq, Mozambique, Yemen).**
 
 Searchable tags: Yemen, History expansion 2026-11-15, first-steps/what-history-is
+
+## History expansion (2026-11-15) — Sudan stocked
+
+
+**Book 3 — sd-g5 (student book, Arabic)**
+- Title as printed: التاريخ — الصف الخامس — المرحلة الابتدائية (History, Grade 5, Primary Stage)
+- Grade: Grade 5 (student/teacher: STUDENT)
+- Publisher: المركز القومي للمناهج والبحث التربوي، بخت الرضا (National Centre for Curricula and Educational Research, Bakht al-Ruda), وزارة التربية والتعليم (Ministry of Education), Republic of Sudan; year not printed on the pages read; no ISBN printed
+- PDF pages: 121 (cover verified: History 5 with the Meroe pyramids on the cover)
+- Verdict: COMPLETE
+- Tally: 22 placements — 12 to existing lessons, 10 NEW LESSON NEEDED
+- Sudan's own way: a Sudanese child's first history book runs the home story first and longest — Stone Age Sudan, Kerma, Kush, Christian Nubia, the coming of Islam and the Funj and Fur sultanates — then the Islamic state's growth, then Africa, then Europe, so Sudan is the centre the world is viewed from.
+- Non-History parts named: Unit 5, The Art of National Education — characteristics of the Sudanese person, of Sudanese society and of the Sudanese land, and Sudan's contribution to human civilisation (Civics, printed pp. 106–120)
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sudan part — Our Homeland Sudan — story beats: before any dates, the child learns that history is a story real people lived, and that his own land has worn many names (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Sudan, *التاريخ — الصف الخامس — المرحلة الابتدائية (History, Grade 5, Primary Stage)*, printed pp. 8–12 |
+
+Sudan's own way (Book 3 — sd-g5 (student book, Arabic)): a Sudanese child's first history book runs the home story first and longest — Stone Age Sudan, Kerma, Kush, Christian Nubia, the coming of Islam and the Funj and Fur sultanates — then the Islamic state's growth, then Africa, then Europe, so Sudan is the centre the world is viewed from. That way is stocked here as the way Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 39 countries (Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia, Iraq, Mozambique, Yemen, Sudan).**
+
+Searchable tags: Sudan, History expansion 2026-11-15, first-steps/what-history-is

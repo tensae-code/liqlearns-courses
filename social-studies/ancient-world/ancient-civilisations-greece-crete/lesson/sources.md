@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — Greece: Crete
 
-countries: Ethiopia, France, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro, Dominican Republic, Egypt, Bolivia, Iran, Cambodia, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Yemen
+countries: Ethiopia, France, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro, Dominican Republic, Egypt, Bolivia, Iran, Cambodia, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Yemen, Sudan
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 6, placements 92–106).
 
@@ -474,3 +474,28 @@ Yemen's own way (Book 8 — G10 History Part 1 (student book, Arabic)): the whol
 **Acceptance count: taught in 22 countries (Ethiopia, France, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro, Dominican Republic, Egypt, Bolivia, Iran, Cambodia, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Yemen).**
 
 Searchable tags: Yemen, History expansion 2026-11-15, ancient-world/ancient-civilisations-greece-crete
+
+## History expansion (2026-11-15) — Sudan stocked
+
+
+**Book 4 — sd-g7 (student book, Arabic)**
+- Title as printed: التاريخ — الصف الأول — المرحلة المتوسطة (History, First Intermediate Year = Grade 7)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: المركز القومي للمناهج والبحث التربوي، بخت الرضا (National Centre for Curricula and Educational Research, Bakht al-Ruda), وزارة التربية والتعليم (Ministry of Education), Republic of Sudan; year not printed on the pages read; no ISBN printed
+- PDF pages: 119 (title page verified against the record)
+- Verdict: COMPLETE
+- Tally: 22 placements — 12 to existing lessons, 10 NEW LESSON NEEDED
+- Sudan's own way: Grade 7 re-reads the home story at full depth — prehistory, the nameless A/B/C-Group peoples, Kerma, Napata's kings one by one, Meroe — before Arabia's kingdoms and the building of the Islamic state, then Africa's civilisations and finally Greece and Rome.
+- Non-History parts named: Unit 2, Lesson 1, The Geography of the Arabian Peninsula (Geography, printed pp. 44–45); Unit 3, Lesson 1, Africa: The Natural Environment (Geography, printed pp. 80–81)
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sudan part — The Factors Behind the Greek and Roman Civilisations, and Greek Civilisation (a) — story beats: poor soil and a broken coastline push the Greeks to the sea, to colonies and to ideas (History expansion, 2026-11-15; original placement slug: ancient-world/greek-democracy-philosophy) | Sudan, *التاريخ — الصف الأول — المرحلة المتوسطة (History, First Intermediate Year = Grade 7)*, printed pp. 96–103 |
+| Sudan part — Greek Civilisation (b) — story beats: the city-state experiments with every way of ruling men, including rule by the citizens themselves (History expansion, 2026-11-15; original placement slug: ancient-world/greek-democracy-philosophy) | Sudan, *التاريخ — الصف الأول — المرحلة المتوسطة (History, First Intermediate Year = Grade 7)*, printed pp. 104–108 |
+
+Sudan's own way (Book 4 — sd-g7 (student book, Arabic)): Grade 7 re-reads the home story at full depth — prehistory, the nameless A/B/C-Group peoples, Kerma, Napata's kings one by one, Meroe — before Arabia's kingdoms and the building of the Islamic state, then Africa's civilisations and finally Greece and Rome. That way is stocked here as the way Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 23 countries (Ethiopia, France, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro, Dominican Republic, Egypt, Bolivia, Iran, Cambodia, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Yemen, Sudan).**
+
+Searchable tags: Sudan, History expansion 2026-11-15, ancient-world/ancient-civilisations-greece-crete

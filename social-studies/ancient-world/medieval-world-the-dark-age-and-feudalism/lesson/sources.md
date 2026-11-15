@@ -1,6 +1,6 @@
 # Sources — Medieval world — the Dark Age and feudalism
 
-countries: Ethiopia, Brazil, Poland, Costa Rica, Australia, Ecuador, Eritrea, Montenegro, Dominican Republic, Pakistan, Iran, Bulgaria, Cambodia, Colombia, Sri Lanka, Mongolia
+countries: Ethiopia, Brazil, Poland, Costa Rica, Australia, Ecuador, Eritrea, Montenegro, Dominican Republic, Pakistan, Iran, Bulgaria, Cambodia, Colombia, Sri Lanka, Mongolia, Sudan
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -377,3 +377,41 @@ Mongolia's own way (Book 3 — mn-g7h Түүх VII (History VII)): the medieval 
 **Acceptance count: taught in 16 countries (Ethiopia, Brazil, Poland, Costa Rica, Australia, Ecuador, Eritrea, Montenegro, Dominican Republic, Pakistan, Iran, Bulgaria, Cambodia, Colombia, Sri Lanka, Mongolia).**
 
 Searchable tags: Mongolia, History expansion 2026-11-15, ancient-world/medieval-world-the-dark-age-and-feudalism
+
+## History expansion (2026-11-15) — Sudan stocked
+
+
+**Book 3 — sd-g5 (student book, Arabic)**
+- Title as printed: التاريخ — الصف الخامس — المرحلة الابتدائية (History, Grade 5, Primary Stage)
+- Grade: Grade 5 (student/teacher: STUDENT)
+- Publisher: المركز القومي للمناهج والبحث التربوي، بخت الرضا (National Centre for Curricula and Educational Research, Bakht al-Ruda), وزارة التربية والتعليم (Ministry of Education), Republic of Sudan; year not printed on the pages read; no ISBN printed
+- PDF pages: 121 (cover verified: History 5 with the Meroe pyramids on the cover)
+- Verdict: COMPLETE
+- Tally: 22 placements — 12 to existing lessons, 10 NEW LESSON NEEDED
+- Sudan's own way: a Sudanese child's first history book runs the home story first and longest — Stone Age Sudan, Kerma, Kush, Christian Nubia, the coming of Islam and the Funj and Fur sultanates — then the Islamic state's growth, then Africa, then Europe, so Sudan is the centre the world is viewed from.
+- Non-History parts named: Unit 5, The Art of National Education — characteristics of the Sudanese person, of Sudanese society and of the Sudanese land, and Sudan's contribution to human civilisation (Civics, printed pp. 106–120)
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/sudan-placements.md.
+
+**Book 6 — sd-g11 (student book, Arabic)**
+- Title as printed: التاريخ — التعليم الثانوي — الصف الثاني (History, Secondary Education, Second Year = Grade 11)
+- Grade: Grade 11 (student/teacher: STUDENT)
+- Publisher: المركز القومي للمناهج والبحث التربوي، بخت الرضا (National Centre for Curricula and Educational Research, Bakht al-Ruda), وزارة التربية والتعليم (Ministry of Education), Republic of Sudan; year not printed on the pages read; no ISBN printed
+- PDF pages: 195 (cover verified: History, Second Secondary, with the independence flag-raising in the cover montage)
+- Verdict: COMPLETE — note the book jumps from 1885 to independence: the Mahdiyya (1885–1898) and the Condominium (1899–1956) are NOT covered in this volume (they belong to the Grade 12 book's scope; see Book 7)
+- Tally: 20 placements — 12 to existing lessons, 8 NEW LESSON NEEDED
+- Sudan's own way: the modern story is taught as foreign rule, then freedom, then the republic arguing with itself — Turco-Egyptian conquest and resistance, independence, six governments in thirty years, and the South's question running under everything; Europe's modern history follows as the second half.
+- Non-History parts named: none — the whole book is History
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sudan part — Europe in the Ages of Darkness — story beats: while Sudan's and Islam's cities flourish, the Sudanese textbook shows Europe in its dark centuries (History expansion, 2026-11-15; original placement slug: ancient-world/europe-in-the-dark-ages) | Sudan, *التاريخ — الصف الخامس — المرحلة الابتدائية (History, Grade 5, Primary Stage)*, printed pp. 97–99 |
+| Sudan part — The Middle Ages in Europe — story beats: the secondary course re-opens Europe where the primary course left it, in its middle centuries (History expansion, 2026-11-15; original placement slug: ancient-world/europe-in-the-dark-ages) | Sudan, *التاريخ — التعليم الثانوي — الصف الثاني (History, Secondary Education, Second Year = Grade 11)*, printed pp. 89–95 |
+
+Sudan's own way (Book 3 — sd-g5 (student book, Arabic)): a Sudanese child's first history book runs the home story first and longest — Stone Age Sudan, Kerma, Kush, Christian Nubia, the coming of Islam and the Funj and Fur sultanates — then the Islamic state's growth, then Africa, then Europe, so Sudan is the centre the world is viewed from. That way is stocked here as the way Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Sudan's own way (Book 6 — sd-g11 (student book, Arabic)): the modern story is taught as foreign rule, then freedom, then the republic arguing with itself — Turco-Egyptian conquest and resistance, independence, six governments in thirty years, and the South's question running under everything; Europe's modern history follows as the second half. That way is stocked here as the way Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 17 countries (Ethiopia, Brazil, Poland, Costa Rica, Australia, Ecuador, Eritrea, Montenegro, Dominican Republic, Pakistan, Iran, Bulgaria, Cambodia, Colombia, Sri Lanka, Mongolia, Sudan).**
+
+Searchable tags: Sudan, History expansion 2026-11-15, ancient-world/medieval-world-the-dark-age-and-feudalism

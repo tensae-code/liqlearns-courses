@@ -1,6 +1,6 @@
 # Sources — The Arabian Peninsula before Islam
 
-countries: Saudi Arabia, Turkey, Malaysia, Kuwait, Egypt, Iraq
+countries: Saudi Arabia, Turkey, Malaysia, Kuwait, Egypt, Iraq, Sudan
 
 **Book 1:** *الدراسات الاجتماعية — الصف الرابع الابتدائي — غير مجزأ (Social Studies, Grade 4 Primary, unabridged full-year edition)* (student book, Arabic) — Saudi Arabia. Title as printed: الدراسات الاجتماعية — الصف الرابع الابتدائي — غير مجزأ (Social Studies, Grade 4 Primary, unabridged full-year edition). Grade: Grade 4 (student/teacher: STUDENT). Publisher: المركز الوطني للمناهج (National Centre for Curricula), Riyadh; year 1446هـ; ISBN 978-603-8576-98-8. PDF pages: 228 (copyright/title page verified against the record title; text layer read in full). Verdict: COMPLETE. Records: 2 records / 1 distinct book (TSV release record + books.json record for the same repo path, counted once) / grabbed with grab.py url (release asset) into scratch-small-d/, verified by pdfinfo + copyright/title page, text layer read in full, PDF deleted after filing. Note: the record title gives the year as 1448هـ; the printed copyright page of the held copy reads 1446هـ (the 1446 edition, ISBN above). Placements at liqlearns-courses-work/expansion-history-2026-11-15/saudi-arabia-placements.md.
 
@@ -100,3 +100,41 @@ Iraq's own way (Book 5 — iq-g08 Social Studies (student book, Arabic)): Part 1
 **Acceptance count: taught in 6 countries (Saudi Arabia, Turkey, Malaysia, Kuwait, Egypt, Iraq).**
 
 Searchable tags: Iraq, History expansion 2026-11-15, ancient-world/arabian-peninsula-before-islam
+
+## History expansion (2026-11-15) — Sudan stocked
+
+
+**Book 4 — sd-g7 (student book, Arabic)**
+- Title as printed: التاريخ — الصف الأول — المرحلة المتوسطة (History, First Intermediate Year = Grade 7)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: المركز القومي للمناهج والبحث التربوي، بخت الرضا (National Centre for Curricula and Educational Research, Bakht al-Ruda), وزارة التربية والتعليم (Ministry of Education), Republic of Sudan; year not printed on the pages read; no ISBN printed
+- PDF pages: 119 (title page verified against the record)
+- Verdict: COMPLETE
+- Tally: 22 placements — 12 to existing lessons, 10 NEW LESSON NEEDED
+- Sudan's own way: Grade 7 re-reads the home story at full depth — prehistory, the nameless A/B/C-Group peoples, Kerma, Napata's kings one by one, Meroe — before Arabia's kingdoms and the building of the Islamic state, then Africa's civilisations and finally Greece and Rome.
+- Non-History parts named: Unit 2, Lesson 1, The Geography of the Arabian Peninsula (Geography, printed pp. 44–45); Unit 3, Lesson 1, Africa: The Natural Environment (Geography, printed pp. 80–81)
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/sudan-placements.md.
+
+**Book 5 — sd-g10 (student book, Arabic)**
+- Title as printed: التاريخ — الصف الأول — التعليم الثانوي (History, First Secondary Year = Grade 10)
+- Grade: Grade 10 (student/teacher: STUDENT)
+- Publisher: المركز القومي للمناهج والبحث التربوي، بخت الرضا (National Centre for Curricula and Educational Research, Bakht al-Ruda), وزارة التعليم العام (Ministry of General Education), Republic of Sudan; year not printed on the pages read; no ISBN printed
+- PDF pages: 173 (cover verified: History, First Secondary, with a map of the early Islamic conquests)
+- Verdict: COMPLETE
+- Tally: 21 placements — 8 to existing lessons, 13 NEW LESSON NEEDED
+- Sudan's own way: at secondary level the book is two histories bound together — the Islamic state caliph by caliph (Rashidun, Umayyad, Abbasid), then Africa's own long story from before Islam to Ghana's and Algeria's liberation, with Sudan's Islamisation given the longest chapter of all.
+- Non-History parts named: none — the whole book is History (the introduction's geography of Arabia is placed below as the peninsula-before-Islam lesson it feeds)
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sudan part — The State of Arab Society before Islam — story beats: a society of poets, markets and clan loyalties waits for the message that will unite it (History expansion, 2026-11-15; original placement slug: ancient-world/arabian-peninsula-before-islam) | Sudan, *التاريخ — الصف الأول — المرحلة المتوسطة (History, First Intermediate Year = Grade 7)*, printed pp. 51–53 |
+| Sudan part — Arabia before Islam — story beats: a land with no king and no capital, where a man's tribe is his state, his army and his law (History expansion, 2026-11-15; original placement slug: ancient-world/arabian-peninsula-before-islam) | Sudan, *التاريخ — الصف الأول — التعليم الثانوي (History, First Secondary Year = Grade 10)*, printed pp. 1–12 |
+
+Sudan's own way (Book 4 — sd-g7 (student book, Arabic)): Grade 7 re-reads the home story at full depth — prehistory, the nameless A/B/C-Group peoples, Kerma, Napata's kings one by one, Meroe — before Arabia's kingdoms and the building of the Islamic state, then Africa's civilisations and finally Greece and Rome. That way is stocked here as the way Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Sudan's own way (Book 5 — sd-g10 (student book, Arabic)): at secondary level the book is two histories bound together — the Islamic state caliph by caliph (Rashidun, Umayyad, Abbasid), then Africa's own long story from before Islam to Ghana's and Algeria's liberation, with Sudan's Islamisation given the longest chapter of all. That way is stocked here as the way Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 7 countries (Saudi Arabia, Turkey, Malaysia, Kuwait, Egypt, Iraq, Sudan).**
+
+Searchable tags: Sudan, History expansion 2026-11-15, ancient-world/arabian-peninsula-before-islam

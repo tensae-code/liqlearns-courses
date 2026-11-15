@@ -1,6 +1,6 @@
 # Sources — The south Arabian kingdoms — Ma'in, Saba and Himyar
 
-countries: Egypt, Libya
+countries: Egypt, Libya, Sudan
 
 **Book 4:** *الدراسات الاجتماعية — مصر وعلاقتها بآسيا وأوروبا (الأرض والحضارة والتنمية) (Social Studies — Egypt and its Relations with Asia and Europe: Land, Civilisation and Development)* (student book, Arabic) — Egypt. Grade: Grade 8 (Second Preparatory), Term 1 (student book). Publisher: Ministry of Education and Technical Education, Egypt (Educational Content Sector; Salah al-Talameezh); year 2025/2026; ISBN: no ISBN printed in the front matter. PDF pages: 106 (printed folios match the contents page numbers; image-only scan read as 4-up page sheets; the History units read in full, Geography units identified from the contents). Source note: the targets marked this book in_pushed, but it is absent from the repo tree — it was read from its recorded ministry source_url at the exact recorded size, and the PDF has been staged at its recorded phase3-staging path under the push-don't-delete rule. Verdict: COMPLETE (History parts). Tally: 8 placements — 5 to existing lessons, 3 NEW LESSON NEEDED. Non-History parts (named, not placed): Unit 1, Natural Features of the Continents of Asia and Europe (location and surface features; minerals and energy sources) and Unit 3, Environmental Systems in Asia and Europe (forest systems, grassland and desert systems, water environmental systems) — Geography. Placements at liqlearns-courses-work/expansion-history-2026-11-15/egypt-placements.md.
 
@@ -56,3 +56,27 @@ Libya's own way (Book 1 — G10 Ancient Arab World (student book, Arabic)): the 
 Libya's own way (Book 4 — G7 History of Libya and the Ancient World (student book, Arabic)): Libya's ancient story is told inside the Arab world's: the ancient Libyans, their 30-letter script and the Garamantes get their own full lessons, and every visiting power — Phoenician, Greek, Roman, Vandal, Byzantine — is judged by what it did in Libya. That way is stocked here as the way Libya teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 2 countries (Egypt, Libya).**
+
+## History expansion (2026-11-15) — Sudan stocked
+
+
+**Book 4 — sd-g7 (student book, Arabic)**
+- Title as printed: التاريخ — الصف الأول — المرحلة المتوسطة (History, First Intermediate Year = Grade 7)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: المركز القومي للمناهج والبحث التربوي، بخت الرضا (National Centre for Curricula and Educational Research, Bakht al-Ruda), وزارة التربية والتعليم (Ministry of Education), Republic of Sudan; year not printed on the pages read; no ISBN printed
+- PDF pages: 119 (title page verified against the record)
+- Verdict: COMPLETE
+- Tally: 22 placements — 12 to existing lessons, 10 NEW LESSON NEEDED
+- Sudan's own way: Grade 7 re-reads the home story at full depth — prehistory, the nameless A/B/C-Group peoples, Kerma, Napata's kings one by one, Meroe — before Arabia's kingdoms and the building of the Islamic state, then Africa's civilisations and finally Greece and Rome.
+- Non-History parts named: Unit 2, Lesson 1, The Geography of the Arabian Peninsula (Geography, printed pp. 44–45); Unit 3, Lesson 1, Africa: The Natural Environment (Geography, printed pp. 80–81)
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sudan part — The Kingdoms of the South — story beats: where the rains fall, Arabia builds kingdoms with councils, dams and caravan tolls (History expansion, 2026-11-15; original placement slug: ancient-world/south-arabian-kingdoms) | Sudan, *التاريخ — الصف الأول — المرحلة المتوسطة (History, First Intermediate Year = Grade 7)*, printed pp. 46–47 |
+
+Sudan's own way (Book 4 — sd-g7 (student book, Arabic)): Grade 7 re-reads the home story at full depth — prehistory, the nameless A/B/C-Group peoples, Kerma, Napata's kings one by one, Meroe — before Arabia's kingdoms and the building of the Islamic state, then Africa's civilisations and finally Greece and Rome. That way is stocked here as the way Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 3 countries (Egypt, Libya, Sudan).**
+
+Searchable tags: Sudan, History expansion 2026-11-15, ancient-world/south-arabian-kingdoms

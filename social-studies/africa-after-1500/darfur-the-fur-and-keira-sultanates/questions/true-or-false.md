@@ -1,0 +1,10 @@
+# Darfur — the Fur and Keira sultanates — true or false
+
+Say True or False, and why.
+
+**1. (Sub lesson 1)** the west's great sultanate runs on customary law, granted land and the pilgrim road.
+**Answer: True** — the book tells this in The Islamic Sultanates in Sudan (4)
+
+**2. (Sub lesson 1)** This part of *التاريخ — الصف الثاني — المرحلة المتوسطة (History, Second Intermediate Year = Grade 8)* is about a different part of this story, told in another lesson of this expansion.
+**Answer: False** — it is about The Islamic Sultanates in Sudan (4)
+

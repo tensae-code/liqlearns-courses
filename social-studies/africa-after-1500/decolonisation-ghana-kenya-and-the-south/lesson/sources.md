@@ -1,6 +1,6 @@
 # Sources — Decolonisation — Ghana, Kenya and the south
 
-countries: Ethiopia, Angola, Libya, Uganda, Mozambique
+countries: Ethiopia, Angola, Libya, Uganda, Mozambique, Sudan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 5, placements 110–122).
 
@@ -152,3 +152,27 @@ Mozambique's own way (Book 7 — PESD II Mod 4 (student book, Portuguese)): Deco
 **Acceptance count: taught in 5 countries (Ethiopia, Angola, Libya, Uganda, Mozambique).**
 
 Searchable tags: Mozambique, History expansion 2026-11-15, africa-after-1500/decolonisation-ghana-kenya-and-the-south
+
+## History expansion (2026-11-15) — Sudan stocked
+
+
+**Book 5 — sd-g10 (student book, Arabic)**
+- Title as printed: التاريخ — الصف الأول — التعليم الثانوي (History, First Secondary Year = Grade 10)
+- Grade: Grade 10 (student/teacher: STUDENT)
+- Publisher: المركز القومي للمناهج والبحث التربوي، بخت الرضا (National Centre for Curricula and Educational Research, Bakht al-Ruda), وزارة التعليم العام (Ministry of General Education), Republic of Sudan; year not printed on the pages read; no ISBN printed
+- PDF pages: 173 (cover verified: History, First Secondary, with a map of the early Islamic conquests)
+- Verdict: COMPLETE
+- Tally: 21 placements — 8 to existing lessons, 13 NEW LESSON NEEDED
+- Sudan's own way: at secondary level the book is two histories bound together — the Islamic state caliph by caliph (Rashidun, Umayyad, Abbasid), then Africa's own long story from before Islam to Ghana's and Algeria's liberation, with Sudan's Islamisation given the longest chapter of all.
+- Non-History parts named: none — the whole book is History (the introduction's geography of Arabia is placed below as the peninsula-before-Islam lesson it feeds)
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sudan part — Two Models of National Liberation Movements (Ghana part) — story beats: the Gold Coast shows Africa the way out (History expansion, 2026-11-15; original placement slug: africa-after-1500/decolonisation-africa-finds-its-voice) | Sudan, *التاريخ — الصف الأول — التعليم الثانوي (History, First Secondary Year = Grade 10)*, printed pp. 158–166 |
+
+Sudan's own way (Book 5 — sd-g10 (student book, Arabic)): at secondary level the book is two histories bound together — the Islamic state caliph by caliph (Rashidun, Umayyad, Abbasid), then Africa's own long story from before Islam to Ghana's and Algeria's liberation, with Sudan's Islamisation given the longest chapter of all. That way is stocked here as the way Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 6 countries (Ethiopia, Angola, Libya, Uganda, Mozambique, Sudan).**
+
+Searchable tags: Sudan, History expansion 2026-11-15, africa-after-1500/decolonisation-ghana-kenya-and-the-south

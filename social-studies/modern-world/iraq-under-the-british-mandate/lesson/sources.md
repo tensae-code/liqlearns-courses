@@ -1,6 +1,6 @@
 # Sources — Iraq under the British mandate
 
-countries: Syria, Iraq
+countries: Syria, Iraq, Sudan
 
 **Book (Syria — SY-G9):** *التاريخ — الصف التاسع (History, Grade 9)* (student book, Arabic) — Syria. Title as printed: التاريخ — الصف التاسع (History, Grade 9). Grade: Grade 9 (student/teacher: STUDENT). Publisher: Ministry of Education, Syrian Arab Republic; year 2025–2026 school year (1447 AH); no ISBN printed. PDF pages: 123 (cover/title page verified against the record title; grabbed via grab.py url from the release record, 212,933,742 bytes, size verified; read from rendered pages). Verdict: COMPLETE — all five units and all 26 lessons named in the contents are present in sequence through the closing Unit 5 questions on printed p. 123 (the contents page numbers drift +2 at the end of the book; the lessons themselves are all there). Tally: 30 placements — 6 to existing lessons, 24 NEW LESSON NEEDED. Non-History parts: none — the book is a History book throughout. Placements at liqlearns-courses-work/expansion-history-2026-11-15/syria-placements.md.
 
@@ -37,3 +37,27 @@ Iraq's own way (Book 6 — iq-g09 Social Studies (student book, Arabic)): Unit 1
 **Acceptance count: taught in 2 countries (Syria, Iraq).**
 
 Searchable tags: Iraq, History expansion 2026-11-15, modern-world/iraq-under-the-british-mandate
+
+## History expansion (2026-11-15) — Sudan stocked
+
+
+**Book 7 — sd-g12 (student book, Arabic)**
+- Title as printed: التاريخ — التعليم الثانوي — الصف الثالث (History, Secondary Education, Third Year = Grade 12)
+- Grade: Grade 12 (student/teacher: STUDENT)
+- Publisher: المركز القومي للمناهج والبحث التربوي، بخت الرضا (National Centre for Curricula and Educational Research, Bakht al-Ruda), وزارة التعليم العام (Ministry of General Education), Republic of Sudan; الطبعة المنقحة ٢٠٠٩ (revised edition 2009); no ISBN printed
+- PDF pages: 275 (title page verified: History, Third Secondary, committee of the National Centre, revised edition 2009)
+- Verdict: COMPLETE
+- Tally: 30 placements — 7 to existing lessons, 23 NEW LESSON NEEDED
+- Sudan's own way: the final year completes the national arc the Grade 11 book skipped — Mahdiyya, Condominium, national movement — then widens to the Ottoman caliphate's rise and fall and the whole Arab world's liberation century, taught as Sudan's own wider family story.
+- Non-History parts named: none — the whole book is History
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sudan part — The Iraqi Liberation Movements — story beats: Iraq rises in one summer and spends a decade bargaining its way out of the mandate (History expansion, 2026-11-15; original placement slug: modern-world/iraq-from-mandate-to-independence) | Sudan, *التاريخ — التعليم الثانوي — الصف الثالث (History, Secondary Education, Third Year = Grade 12)*, printed pp. 200–204 |
+
+Sudan's own way (Book 7 — sd-g12 (student book, Arabic)): the final year completes the national arc the Grade 11 book skipped — Mahdiyya, Condominium, national movement — then widens to the Ottoman caliphate's rise and fall and the whole Arab world's liberation century, taught as Sudan's own wider family story. That way is stocked here as the way Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 3 countries (Syria, Iraq, Sudan).**
+
+Searchable tags: Sudan, History expansion 2026-11-15, modern-world/iraq-under-the-british-mandate
