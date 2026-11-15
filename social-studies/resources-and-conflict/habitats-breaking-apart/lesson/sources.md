@@ -1,10 +1,12 @@
 # Sources — Habitats breaking apart
 
-countries: Ethiopia
+countries: Ethiopia, Papua New Guinea
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
 **Book 2:** *Geography, Teacher Guide, Grade 11* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, Hawassa University. Writers: Ermias Debie (PhD) and Mehretie Belay (PhD); Content Editor: Professor Aklilu Dalelo. ISBN 978-99990-0-054-3. Companion to the Grade 11 Student Textbook (ISBN 978-99990-0-050-5), same GEQIP-E programme. Printed page = PDF page − 4 for the guide body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-teacher-placements.md
+
+**Book 3:** *Social Science Teacher Guide — Primary Grade 7, Standards Based* (teacher guide, English) — Department of Education, Papua New Guinea; year 2019; ISBN 978-9980-905-45-1. Title as printed: Social Science Teacher Guide — Primary Grade 7, Standards Based. Grade: Grade 7 (student/teacher: TEACHER). PDF pages: 134 (cover/title page verified against the record title). Verdict: COMPLETE. Teacher guides read full page-by-page via pdftotext -layout after cover verification; books were fetched from their recorded ministry source_urls (education.gov.pg, as recorded in the books.json records) with resumable curl and each file was verified against the record's exact size_bytes and page count before reading — identical bytes to the pushed copies by size + pages + cover, as the placements file records. Records: 22 records / 11 distinct books (11 TSV records + 11 books.json records that are the same books by repo path — each pair read once). (combined book — Geography parts placed below; non-Geography parts named in the placements, not placed: Civic and Organizations — Government of Papua New Guinea, Elections, Government Services, Social and Political Development (Civics), content overview printed p. 11; Culture — Culture and Lifestyle, Cultural Identity, National Culture, National Events (Culture), printed p. 11; History and Change — Earlier Explorers and their impacts, Problem Solving in the Past, Court System (History), printed p. 11; Trade — Economic Activities, Producers and Consumers (Economics), printed pp. 11–12.) Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/papua-new-guinea-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -12,9 +14,12 @@ countries: Ethiopia
 | Sub lesson 2 — The five ways of breaking | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 6, printed pp. 160–161 |
 | Sub lesson 3 — Extinction debt | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 6, printed pp. 160–161 |
 | Teaching sequence and answer keys (teacher guide — evidence) | Ethiopia, *Geography, Teacher Guide, Grade 11*, Unit 6, guide printed pp. 158–179 |
+| Papua New Guinea part — Strand 1 Unit 3: Land development process, habitat loss, pollution, Lessons 33–36 (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 7 Social Science TG* (teacher guide), Strand 1 Unit 3: Land development process, habitat loss, pollution, Lessons 33–36 — printed p. 44 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 1 country (Ethiopia). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 The student book's Unit Six contents list section 6.1.1 as “Habitat fragmentation” but the body heads it “Habitat Destruction”; this lesson teaches both contents as the placements present them (destruction and fragmentation), and names the heading drift here.
 
 Searchable tags: habitat fragmentation, extinction debt, perforation dissection, ethiopia, social studies, resources and conflict
+
+Papua New Guinea's own way (Papua New Guinea Grade 7 Social Science TG) (teacher guide — evidence): Environment and Resources now turns national — formation of PNG's mountains, islands and rivers; PNG's population and migration; its mineral, marine and agricultural resources and how extraction impacts are managed; conservation areas located on the map of PNG; hazard safety and risk management. That evidence is stocked here as the way Papua New Guinea teaches this thing; it does not change the acceptance count above.

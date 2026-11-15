@@ -1,6 +1,6 @@
 # Sources — Water Bodies — Rivers
 
-countries: Ethiopia, Iceland, Belarus, Guatemala, Eritrea, Slovenia
+countries: Ethiopia, Iceland, Belarus, Guatemala, Eritrea, Slovenia, Papua New Guinea
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Iceland, Belarus, Guatemala, Eritrea, Slovenia
 
 **Book 8:** *Geografija 1, gimnazija* (student book, Slovenian) — Slovenia, Zavod RS za šolstvo, Ljubljana; year 2015; ISBN 978-961-03-0284-1. Title as printed: Geografija 1 (gimnazija) (i-učbenik / interactive textbook). Grade: Grade 10 (first year of gimnazija) (student/teacher: STUDENT). PDF pages: not a PDF — ZIP package (interactive e-textbook) of 423,855,798 bytes; book pagination runs to printed p. 320 (Kazalo); all 359 content HTML pages extracted by range request and size-verified against the ZIP central directory, and read. Verdict: COMPLETE (text content; the package's videos/images were not individually viewed — the teaching text, headings, summaries and tasks were read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/slovenia-placements.md.
 
+**Book 9:** *Social Science Teacher Guide — Primary Grade 3, Standards Based* (teacher guide, English) — Department of Education, Papua New Guinea; year 2017; ISBN 978-9980-86-563-2. Title as printed: Social Science Teacher Guide — Primary Grade 3, Standards Based. Grade: Grade 3 (student/teacher: TEACHER). PDF pages: 89 (cover/title page verified against the record title). Verdict: COMPLETE. Teacher guides read full page-by-page via pdftotext -layout after cover verification; books were fetched from their recorded ministry source_urls (education.gov.pg, as recorded in the books.json records) with resumable curl and each file was verified against the record's exact size_bytes and page count before reading — identical bytes to the pushed copies by size + pages + cover, as the placements file records. Records: 22 records / 11 distinct books (11 TSV records + 11 books.json records that are the same books by repo path — each pair read once). (combined book — Geography parts placed below; non-Geography parts named in the placements, not placed: Strand 1 Community and Organization — People and Groups, Relationships, Rules/Roles/Responsibilities (Civics), printed pp. 23–35; Strand 2 Trade — Needs and Wants, Production, Trade and Exchange (Economics), printed pp. 36–47; Strand 3 Culture and Society — Customs and Societies, Beliefs and Values (Culture), printed pp. 48–55; Strand 5 History and Origins — Events and Stories of the Past: Origins of Family (History), printed pp. 68–70.) Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/papua-new-guinea-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Flowing water in a channel | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 8–9 |
@@ -29,8 +31,9 @@ countries: Ethiopia, Iceland, Belarus, Guatemala, Eritrea, Slovenia
 | Eritrea part (ER G8 Social Studies) — Unit 2: 2.2 Surface Water — rivers | Eritrea, *ER G8 Social Studies*, Unit 2: 2.2 Surface Water — rivers — printed p. 14 |
 | Eritrea part (ER G5 Social Studies) — Chapter 3: 3.6 Rivers of the world | Eritrea, *ER G5 Social Studies*, Chapter 3: 3.6 Rivers of the world — printed p. 27 |
 | Slovenia part — Rečni režimi (river regimes) inside Površinske in podzemne vode | Slovenia, *Slovenia Grade 10 Geografija 1 (gimnazija)*, Rečni režimi (river regimes) inside Površinske in podzemne vode — printed p. 158 |
+| Papua New Guinea part — Strand 4 Unit 1: Rivers and lakes in the local community — naming, describing, uses (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 3 Social Science TG* (teacher guide), Strand 4 Unit 1: Rivers and lakes in the local community — naming, describing, uses — printed p. 58 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Iceland, Belarus, Guatemala, Eritrea, Slovenia).**
+**Acceptance count: taught in 6 countries (Ethiopia, Iceland, Belarus, Guatemala, Eritrea, Slovenia). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Iceland's own way: a one-page map-labelling work card (vinnukort): pupils work directly on the outline map of their own country, its main rivers and lakes already drawn in for identification, with a 0–50 km scale bar.
 
@@ -47,3 +50,5 @@ Eritrea's own way (ER G8 Social Studies): Grade 8 is the Eritrea-physical-geogra
 Eritrea's own way (ER G5 Social Studies): Grade 5 widens from the village to the world — Eritrea's regions (zobas) and neighbours, the continents, islands, oceans, seas, lakes and rivers of the Earth, then back home to the Red Sea, trade and transport, maps and weather.
 
 Slovenia's own way (Slovenia Grade 10 Geografija 1 (gimnazija)): the gimnazija first year is systematic physical geography first (Earth's interior, rocks, landforms, weather and climate, soils, vegetation, waters), then human geography (population, settlements, farming, industry and energy, transport, tourism), closing on sustainable development and spatial planning — with Slovenian cases (earthquake risk in Slovenia, the Port of Koper) set inside the world topics.
+
+Papua New Guinea's own way (Papua New Guinea Grade 3 Social Science TG) (teacher guide — evidence): Social Science is organised in five strands (Community and Organization; Trade; Culture and Society; Environment and Resources; History and Origins) taught through guided lessons that start outdoors in the school grounds — children observe, draw and label the features, resources and maps of their own local community first. That evidence is stocked here as the way Papua New Guinea teaches this thing; it does not change the acceptance count above.

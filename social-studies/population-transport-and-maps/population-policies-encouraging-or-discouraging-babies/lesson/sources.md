@@ -1,6 +1,6 @@
 # Sources — Population policies — encouraging or discouraging babies
 
-countries: Ethiopia, Turkmenistan, Rwanda, Fiji
+countries: Ethiopia, Turkmenistan, Rwanda, Fiji, Papua New Guinea
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Turkmenistan, Rwanda, Fiji
 
 **Book 4:** *An Introduction to Human Geography for Year 11 and Year 12 Students (record title: "Year 11 and Year 12 Geography")* (student book, English) — Fiji, Ministry of Education, Fiji; year 2015, First Edition (written and compiled by Maciu Rika and Elina Vosaicake); ISBN no ISBN printed. Title as printed: An Introduction to Human Geography for Year 11 and Year 12 Students (record title: "Year 11 and Year 12 Geography"). Grade: Years 11–12 (student/teacher: STUDENT). PDF pages: 92 (cover/title page verified against the record title). Verdict: COMPLETE. Acquisition note: read from the books.json record's own Wayback source_url (ministry original) after the grab.py GitHub API route failed as in Book 1. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
 
+**Book 5:** *Geography — Upper Secondary Teacher Guide* (teacher guide, English) — Department of Education, Papua New Guinea; year 2008; ISBN 978-9980-9924-1-3. Title as printed: Geography — Upper Secondary Teacher Guide. Grade: Grades 11–12 (student/teacher: TEACHER). PDF pages: 57 (cover/title page verified against the record title). Verdict: COMPLETE. Teacher guides read full page-by-page via pdftotext -layout after cover verification; books were fetched from their recorded ministry source_urls (education.gov.pg, as recorded in the books.json records) with resumable curl and each file was verified against the record's exact size_bytes and page count before reading — identical bytes to the pushed copies by size + pages + cover, as the placements file records. Records: 22 records / 11 distinct books (11 TSV records + 11 books.json records that are the same books by repo path — each pair read once). (Non-Geography parts: none — pure Geography guide; the long assessment/recording sections are pedagogy, not subject content.) Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/papua-new-guinea-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Direct and indirect influence | G12 student #48, printed pp. 100–102 |
@@ -17,8 +19,9 @@ countries: Ethiopia, Turkmenistan, Rwanda, Fiji
 | Turkmenistan part — §11 Reproduction of the world's population; demographic policy | Turkmenistan, *Dünýäniň ykdysady we durmuş geografiýasy (World Economic and Social Geography)*, Grade 10, §11 Reproduction of the world's population; demographic policy — printed p. 47 |
 | Rwanda part — Measures of controlling population growth (Unit 8) (teacher guide — evidence) | Rwanda, *Rwanda Grade 5 Social Studies TG*, Measures of controlling population growth (Unit 8) — printed p. xxiv (content map) |
 | Fiji part — 1.1.8 Ways of Minimizing Population Problems | Fiji, *Fiji Years 11–12 Geography*, 1.1.8 Ways of Minimizing Population Problems — printed p. 23 |
+| Papua New Guinea part — Unit 11.4: population policies of different countries, e.g. China's one-child policy (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 11 Geography TG OBE* (teacher guide), Unit 11.4: population policies of different countries, e.g. China's one-child policy — printed p. 35 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Turkmenistan, Fiji). Rwanda is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 3 countries (Ethiopia, Turkmenistan, Fiji). Rwanda is named here as teacher-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 No book error in the placements for this lesson is taught here. Policy types are taught exactly as the placements report them. Note on stacking: this G12 lesson is a new, deeper statement of its topic; the G11 lesson 'Population policies — government's open and hidden hand' and the Grade 7 optimum/balance lesson stand separately in this title and in People and Resources — nothing in them was overwritten.
 
@@ -29,3 +32,5 @@ Turkmenistan's own way (Grade 10): A classic post-Soviet economic-and-social geo
 Rwanda's own way (Rwanda Grade 5 Social Studies TG) (teacher guide — evidence): from P5 the medium is English and the organising frame is the child's own PROVINCE — its location, services, environment, climate, population and infrastructure — before the frame widens to the whole country at P6. That evidence is stocked here as the way Rwanda teaches this thing; it does not change the acceptance count above.
 
 Fiji's own way (Fiji Years 11–12 Geography): Senior geography splits into Human and Physical volumes; the human volume is organised as four issue-chapters (population/settlement, tourism, agriculture, marine resources), each run the same way — nature, problems, ways of minimising, contemporary issues, future — with Pacific/Fiji theme-country cases.
+
+Papua New Guinea's own way (Papua New Guinea Grades 11–12 Geography TG OBE) (teacher guide — evidence): an outcomes-based guide — it prescribes no lesson scripts; for each syllabus unit it lists suggested learning activities and assessment tasks built around the local environment (soil profiles, local hazard sites, a PNG mine and logging case study, a transect along latitude 6°S), with fieldwork and geographical inquiry as the core skills. That evidence is stocked here as the way Papua New Guinea teaches this thing; it does not change the acceptance count above.

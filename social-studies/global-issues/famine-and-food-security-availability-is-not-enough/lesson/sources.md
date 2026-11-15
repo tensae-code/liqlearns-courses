@@ -1,6 +1,6 @@
 # Sources — Famine and food security — availability is not enough
 
-countries: Ethiopia, Brazil, Haiti, Costa Rica, Palestine, Angola, United Kingdom, Slovenia
+countries: Ethiopia, Brazil, Haiti, Costa Rica, Palestine, Angola, United Kingdom, Slovenia, Papua New Guinea
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Brazil, Haiti, Costa Rica, Palestine, Angola, United Kingdo
 
 **Book 8:** *Geografija 8* (student book, Slovenian) — Slovenia, Zavod RS za šolstvo, Ljubljana; year 2015; ISBN 978-961-03-0282-7 (html5). Title as printed: Geografija 8 (i-učbenik / interactive textbook). Grade: Grade 8 (student/teacher: STUDENT). PDF pages: not a PDF — ZIP package (interactive e-textbook) of 444,693,805 bytes; book pagination runs to printed p. 177+ (Kazalo); all 202 content HTML pages read — every extracted file's decompressed size verified against the ZIP central directory (203/203 files OK). Verdict: COMPLETE (text content; the package's videos/images were not individually viewed — the teaching text, headings, summaries and tasks were read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/slovenia-placements.md.
 
+**Book 9:** *Geography — Upper Secondary Teacher Guide* (teacher guide, English) — Department of Education, Papua New Guinea; year 2008; ISBN 978-9980-9924-1-3. Title as printed: Geography — Upper Secondary Teacher Guide. Grade: Grades 11–12 (student/teacher: TEACHER). PDF pages: 57 (cover/title page verified against the record title). Verdict: COMPLETE. Teacher guides read full page-by-page via pdftotext -layout after cover verification; books were fetched from their recorded ministry source_urls (education.gov.pg, as recorded in the books.json records) with resumable curl and each file was verified against the record's exact size_bytes and page count before reading — identical bytes to the pushed copies by size + pages + cover, as the placements file records. Records: 22 records / 11 distinct books (11 TSV records + 11 books.json records that are the same books by repo path — each pair read once). (Non-Geography parts: none — pure Geography guide; the long assessment/recording sections are pedagogy, not subject content.) Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/papua-new-guinea-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Famine is a process, not an event | G12 student #78, printed pp. 209–211 |
@@ -29,8 +31,9 @@ countries: Ethiopia, Brazil, Haiti, Costa Rica, Palestine, Angola, United Kingdo
 | Angola part — 5.2 A situação alimentar no planeta | Angola, *Geografia 5ª Classe*, Grade 5, 5.2 A situação alimentar no planeta — printed p. 65 |
 | United Kingdom part — §20.2 Impact of food insecurity | United Kingdom, *United Kingdom Grade 10 AQA Geography Student Book*, §20.2 Impact of food insecurity — printed p. 266 |
 | Slovenia part — Kmetijstvo in pridelava hrane (agriculture and food production) inside Izbrani svetovni problemi II | Slovenia, *Slovenia Grade 8 Geografija 8*, Kmetijstvo in pridelava hrane (agriculture and food production) inside Izbrani svetovni problemi II — printed p. 168 |
+| Papua New Guinea part — Unit 12.1: global food production and supply statistics; consequences of unequal food distribution (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 12 Geography TG OBE* (teacher guide), Unit 12.1: global food production and supply statistics; consequences of unequal food distribution — printed p. 36 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Brazil, Costa Rica, Palestine, Angola, United Kingdom, Slovenia). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 7 countries (Ethiopia, Brazil, Costa Rica, Palestine, Angola, United Kingdom, Slovenia). Haiti is named here as teacher-sequence evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Haiti's own way (teacher sequence — evidence): World inequality is questioned through the words used for it (Nord/Sud, développé/sous-développé) and through Haiti's own case — a rich-country/poor-country comparison (Canada or USA vs Haiti), the independence debt, food insecurity and Covid vaccination in Haiti — with every claim built from authenticated statistics, graphs and maps crossed from local to world scale. That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
@@ -47,3 +50,5 @@ Angola's own way (Grade 5): Geography opens as "geographic space" — the natura
 United Kingdom's own way: A single exam-board (AQA) GCSE textbook organised as thematic units with numbered two-page spreads, every big topic anchored to a named case study (Typhoon Haiyan, Somerset Levels, Rio de Janeiro, Bristol, Nigeria, the Indus Basin, Lesotho Highlands) and a final unit on issue evaluation, fieldwork enquiries and cartographic/graphical/statistical skills.
 
 Slovenia's own way (Slovenia Grade 8 Geografija 8): Grade 8 is pure world regional geography, continent by continent (Africa, Australia/Oceania, the Americas and polar regions), each region worked through the same grid — position/relief/waters, climate/vegetation, population, economy — and the book closes with two world-problems units (rainforest loss, desert spread, water conflicts, the Aral Sea).
+
+Papua New Guinea's own way (Papua New Guinea Grades 11–12 Geography TG OBE) (teacher guide — evidence): an outcomes-based guide — it prescribes no lesson scripts; for each syllabus unit it lists suggested learning activities and assessment tasks built around the local environment (soil profiles, local hazard sites, a PNG mine and logging case study, a transect along latitude 6°S), with fieldwork and geographical inquiry as the core skills. That evidence is stocked here as the way Papua New Guinea teaches this thing; it does not change the acceptance count above.

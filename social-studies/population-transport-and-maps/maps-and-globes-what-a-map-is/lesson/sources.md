@@ -1,6 +1,6 @@
 # Sources — Maps and globes — what a map is
 
-countries: Ethiopia, Palestine, Egypt, Dominican Republic, Colombia, Eritrea, India, Cambodia, Fiji
+countries: Ethiopia, Palestine, Egypt, Dominican Republic, Colombia, Eritrea, India, Cambodia, Fiji, Papua New Guinea
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 2, placements 27–43).
 
@@ -26,6 +26,8 @@ countries: Ethiopia, Palestine, Egypt, Dominican Republic, Colombia, Eritrea, In
 
 **Book 12:** *Rediscovering Society — Social Science Year 9* (student book, English) — Fiji, Curriculum Development Unit, Ministry of Education, National Heritage, Culture & Arts, Suva; year 2013 (copyright 2011); ISBN no ISBN printed. Title as printed: Rediscovering Society — Social Science Year 9. Grade: Year 9 (student/teacher: STUDENT). PDF pages: 162 (cover/title page verified against the record title). Verdict: COMPLETE. Acquisition note: read from the books.json record's own Wayback source_url (ministry original; download resumed after a first timed-out partial file) after the grab.py GitHub API route failed as in Book 1. Non-Geography parts named, not placed: Chapter 1 Social Organisation and Processes — Unit 1 Society and culture (printed pp. 7–36), Unit 2 Community living (pp. 37–62), Unit 3 NGOs and regional organisations (pp. 64–74); Chapter 2 Time, Continuity and Change — Unit 1 History of Fiji, pre-contact to cession (pp. 77–97), Unit 2 Current affairs (pp. 99–100). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
 
+**Book 13:** *Social Science Teacher Guide — Primary Grade 3, Standards Based* (teacher guide, English) — Department of Education, Papua New Guinea; year 2017; ISBN 978-9980-86-563-2. Title as printed: Social Science Teacher Guide — Primary Grade 3, Standards Based. Grade: Grade 3 (student/teacher: TEACHER). PDF pages: 89 (cover/title page verified against the record title). Verdict: COMPLETE. Teacher guides read full page-by-page via pdftotext -layout after cover verification; books were fetched from their recorded ministry source_urls (education.gov.pg, as recorded in the books.json records) with resumable curl and each file was verified against the record's exact size_bytes and page count before reading — identical bytes to the pushed copies by size + pages + cover, as the placements file records. Records: 22 records / 11 distinct books (11 TSV records + 11 books.json records that are the same books by repo path — each pair read once). (combined book — Geography parts placed below; non-Geography parts named in the placements, not placed: Strand 1 Community and Organization — People and Groups, Relationships, Rules/Roles/Responsibilities (Civics), printed pp. 23–35; Strand 2 Trade — Needs and Wants, Production, Trade and Exchange (Economics), printed pp. 36–47; Strand 3 Culture and Society — Customs and Societies, Beliefs and Values (Culture), printed pp. 48–55; Strand 5 History and Origins — Events and Stories of the Past: Origins of Family (History), printed pp. 68–70.) Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/papua-new-guinea-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What a map is | Ethiopia, *Social Studies Student Textbook, Grade 7* (Amhara Bureau), printed pp. 46–47 |
@@ -41,8 +43,9 @@ countries: Ethiopia, Palestine, Egypt, Dominican Republic, Colombia, Eritrea, In
 | India part (Grade 6 The Earth Our Habitat) — Ch.4 Maps: what a map is, atlas, physical / political / thematic maps | India, *India Grade 6 The Earth Our Habitat*, Ch.4 Maps: what a map is, atlas, physical / political / thematic maps — printed p. 23 |
 | Cambodia part — Ch.3 L5 ទីតាំងរាជធានី និងប្រទេស §1 ផែនទី (maps) | Cambodia, *Cambodia Grade 6 Social Studies*, Ch.3 L5 ទីតាំងរាជធានី និងប្រទេស §1 ផែនទី (maps) — printed p. 84 |
 | Fiji part — Chapter 3 Place and Environment, Unit 1 Maps and Types of Map: what is a map and why study maps | Fiji, *Fiji Year 9 Social Science*, Chapter 3 Place and Environment, Unit 1 Maps and Types of Map: what is a map and why study maps — printed p. 103 |
+| Papua New Guinea part — Strand 4 Unit 3 Working with Maps: What is a map? Lesson 151 (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 3 Social Science TG* (teacher guide), Strand 4 Unit 3 Working with Maps: What is a map? Lesson 151 — printed p. 65 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Palestine, Egypt, Dominican Republic, Colombia, Eritrea, India, Cambodia, Fiji).**
+**Acceptance count: taught in 9 countries (Ethiopia, Palestine, Egypt, Dominican Republic, Colombia, Eritrea, India, Cambodia, Fiji). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Pairing warning (honesty): Book 2 is an Addis Ababa bureau guide in English; Book 1 is an Amhara bureau student book in Amharic. They are NOT edition-matched companions — the guide's unit order differs and whole student topics (maps, globes, GPS) have no guide counterpart, so no guide coverage is claimed for them. Guide material is used only as labelled teacher evidence.
 
@@ -69,3 +72,5 @@ India's own way (Grade 6 The Earth Our Habitat): The first Geography year goes p
 Cambodia's own way (Cambodia Grade 6 Social Studies): the primary Social Studies spiral ends with its first real map work — maps, the globe and the equator/parallels/meridians grid taught inside the “society today” chapter, anchored on a world map with Cambodia marked.
 
 Fiji's own way (Fiji Year 9 Social Science): Secondary geography opens with a full map-skills chapter — grid references, contours and cross-sections practised on Fiji maps — before environment use and conservation, including Pacific methods (shifting cultivation, rotational grazing, appropriate fishing methods).
+
+Papua New Guinea's own way (Papua New Guinea Grade 3 Social Science TG) (teacher guide — evidence): Social Science is organised in five strands (Community and Organization; Trade; Culture and Society; Environment and Resources; History and Origins) taught through guided lessons that start outdoors in the school grounds — children observe, draw and label the features, resources and maps of their own local community first. That evidence is stocked here as the way Papua New Guinea teaches this thing; it does not change the acceptance count above.

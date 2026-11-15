@@ -1,6 +1,6 @@
 # Sources — Parts every map must have
 
-countries: Ethiopia, Palestine, Samoa, Eritrea, Rwanda, Fiji
+countries: Ethiopia, Palestine, Samoa, Eritrea, Rwanda, Fiji, Papua New Guinea
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Palestine, Samoa, Eritrea, Rwanda, Fiji
 
 **Book 10:** *Rediscovering Society — Social Science Year 9* (student book, English) — Fiji, Curriculum Development Unit, Ministry of Education, National Heritage, Culture & Arts, Suva; year 2013 (copyright 2011); ISBN no ISBN printed. Title as printed: Rediscovering Society — Social Science Year 9. Grade: Year 9 (student/teacher: STUDENT). PDF pages: 162 (cover/title page verified against the record title). Verdict: COMPLETE. Acquisition note: read from the books.json record's own Wayback source_url (ministry original; download resumed after a first timed-out partial file) after the grab.py GitHub API route failed as in Book 1. Non-Geography parts named, not placed: Chapter 1 Social Organisation and Processes — Unit 1 Society and culture (printed pp. 7–36), Unit 2 Community living (pp. 37–62), Unit 3 NGOs and regional organisations (pp. 64–74); Chapter 2 Time, Continuity and Change — Unit 1 History of Fiji, pre-contact to cession (pp. 77–97), Unit 2 Current affairs (pp. 99–100). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
 
+**Book 11:** *Social Science Teacher Guide — Primary Grade 6, Standards Based* (teacher guide, English) — Department of Education, Papua New Guinea; year 2018; ISBN 978-9980-905-44-4. Title as printed: Social Science Teacher Guide — Primary Grade 6, Standards Based. Grade: Grade 6 (student/teacher: TEACHER). PDF pages: 154 (cover/title page verified against the record title). Verdict: COMPLETE. Teacher guides read full page-by-page via pdftotext -layout after cover verification; books were fetched from their recorded ministry source_urls (education.gov.pg, as recorded in the books.json records) with resumable curl and each file was verified against the record's exact size_bytes and page count before reading — identical bytes to the pushed copies by size + pages + cover, as the placements file records. Records: 22 records / 11 distinct books (11 TSV records + 11 books.json records that are the same books by repo path — each pair read once). (combined book — Geography parts placed below; non-Geography parts named in the placements, not placed: Civic and Organizations — Groups and Organizations, Relationships and Communications Between Groups, Changes and Development (Civics), printed pp. 12–13 overview, guided lessons Term 2–3; Culture — Different Cultures, Changes in Cultures, Cultural Participation (Culture), printed p. 13 overview; History and Change — Origin and Basic Needs of Indigenous People, Changes in Basic Needs/Communication/Technology (History), printed pp. 13–14 overview; Trade — Economic Activities, Producers and Consumers (Economics), printed p. 14 overview.) Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/papua-new-guinea-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The checklist | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 8, printed pp. 199–201 |
@@ -35,8 +37,9 @@ countries: Ethiopia, Palestine, Samoa, Eritrea, Rwanda, Fiji
 | Rwanda part — 1.3 Elements of a map and their importance (Unit 1) | Rwanda, *Rwanda Grade 5 Social Studies SB*, 1.3 Elements of a map and their importance (Unit 1) — printed p. 8 |
 | Fiji part — 5.3.1 Special features of a map (the five map features; mental maps; kinds of maps) | Fiji, *Fiji Year 5 Social Studies*, 5.3.1 Special features of a map (the five map features; mental maps; kinds of maps) — printed p. 39 |
 | Fiji part — Unit 2 Essential features of a map (title, north point, scale, legend/key, frame) | Fiji, *Fiji Year 9 Social Science*, Unit 2 Essential features of a map (title, north point, scale, legend/key, frame) — printed p. 118 |
+| Papua New Guinea part — Strand 1 Unit 1, Topic Working With Maps: Maps as Tools — BOLTSS map features, using the school map, sketch map versus sketch plan, Lesson 9 (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 6 Social Science TG* (teacher guide), Strand 1 Unit 1, Topic Working With Maps: Maps as Tools — BOLTSS map features, using the school map, sketch map versus sketch plan, Lesson 9 — printed p. 33 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Palestine, Samoa, Eritrea, Rwanda, Fiji).**
+**Acceptance count: taught in 6 countries (Ethiopia, Palestine, Samoa, Eritrea, Rwanda, Fiji). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Searchable tags: map components, title, scale, north point, legend, declination, social studies
 
@@ -55,3 +58,5 @@ Rwanda's own way (Rwanda Grade 5 Social Studies SB): the pupil's book teaches th
 Fiji's own way (Fiji Year 5 Social Studies): Geography is Fiji-first — the child locates Fiji among Pacific neighbours, works on the map of Fiji's islands and divisions, and learns land care through cane farming, river-farm flooding and village land use.
 
 Fiji's own way (Fiji Year 9 Social Science): Secondary geography opens with a full map-skills chapter — grid references, contours and cross-sections practised on Fiji maps — before environment use and conservation, including Pacific methods (shifting cultivation, rotational grazing, appropriate fishing methods).
+
+Papua New Guinea's own way (Papua New Guinea Grade 6 Social Science TG) (teacher guide — evidence): in Senior Primary the strands are re-ordered and Environment and Resources comes first and largest — a full local-environment course (physical/human environment, environmental change, human impacts, sustainability, natural hazards) taught through sample guided lessons with benchmarks, before Civics, Culture, History and Trade. That evidence is stocked here as the way Papua New Guinea teaches this thing; it does not change the acceptance count above.

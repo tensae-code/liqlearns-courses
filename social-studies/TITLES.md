@@ -103,7 +103,7 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **1688**
+Geography lessons across the eight Geography titles: **1704**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -1093,3 +1093,25 @@ Globalisation And Regionalisation, Green Growth, Rich
 Countries Poor Countries, Tourism Trends And Careers,
 Using Vietnams Natural Resources Wisely and World
 Organisations And Global Security.
+
++16 for Papua New Guinea, 2026-11-14 — First Steps: The
+Local Environment Natural And Man Made Features; Earth
+and Space: The Rock Cycle; The Land and Air: Biomass
+And Vegetation Productivity, Comparative Case Studies
+And A Transect Study Of PNG, Oceanography Marine
+Ecosystems And Ocean Governance and The Physical
+Environment Of My Province And Nation; Population,
+Transport and Maps: Migration In Papua New Guinea,
+Papua New Guinea On The Map and Papua New Guineas
+Population Growth And Trends; People and Resources:
+Political And Religious Profiles Of Regions; Culture
+and Work: Green Revolution And Genetic Modification Of
+Crops; Resources and Conflict: Environmental Change And
+Its Effects On The Local Community; Global Issues:
+Carbon Trade And The Rainforest Nations, Climate Change
+Impacts In Papua New Guinea, Ecological Footprint and
+Natural Hazards And Disaster Management In PNG And The
+Pacific.
+(All 16 stand on Papua New Guinea's teacher guides,
+cited as teacher-guide evidence only, counted nowhere
+in acceptance.)

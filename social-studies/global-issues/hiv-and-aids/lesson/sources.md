@@ -1,16 +1,21 @@
 # Sources — HIV and AIDS
 
-countries: Ethiopia
+countries: Ethiopia, Papua New Guinea
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (placement 116, with the chapter assessment stock of placement 117).
+
+**Book 2:** *Geography — Upper Secondary Teacher Guide* (teacher guide, English) — Department of Education, Papua New Guinea; year 2008; ISBN 978-9980-9924-1-3. Title as printed: Geography — Upper Secondary Teacher Guide. Grade: Grades 11–12 (student/teacher: TEACHER). PDF pages: 57 (cover/title page verified against the record title). Verdict: COMPLETE. Teacher guides read full page-by-page via pdftotext -layout after cover verification; books were fetched from their recorded ministry source_urls (education.gov.pg, as recorded in the books.json records) with resumable curl and each file was verified against the record's exact size_bytes and page count before reading — identical bytes to the pushed copies by size + pages + cover, as the placements file records. Records: 22 records / 11 distinct books (11 TSV records + 11 books.json records that are the same books by repo path — each pair read once). (Non-Geography parts: none — pure Geography guide; the long assessment/recording sections are pedagogy, not subject content.) Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/papua-new-guinea-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The virus and the signs: HIV pictured in 3-D and named the virus that weakens the body's defence; AIDS stated to have no cure found; the six signs — night sweats, mouth and throat sores, fatigue and anxiety, muscle pain and skin rashes, fever and swollen glands | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 7, printed pp. 160–161 |
 | Sub lesson 2 — Routes, non-routes and prevention: transmission routes and non-routes and prevention set as the chapter's opening task and outcome; the review stock's fixed points — HIV not through shared eating; 'curable if treated in time' keyed false | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 7, printed pp. 160–161 and review questions printed pp. 162–164 |
+| Papua New Guinea part — Unit 11.4: impact of HIV and AIDS statistics on population growth and economic development (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 11 Geography TG OBE* (teacher guide), Unit 11.4: impact of HIV and AIDS statistics on population growth and economic development — printed p. 35 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 1 country (Ethiopia). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Book framing carried exactly, as the placements direct (verification block error 4): the book states as fact that AIDS has no cure — the book's own dated framing; this lesson teaches prevention as the book does without repeating a cure claim beyond what the book says, and the review trap 'HIV curable if treated in time' is keyed false exactly as the chapter's stock keys it. The placements give the routes/non-routes as the chapter's task-and-outcome frame without enumerating every route; this lesson therefore teaches the frame and the one non-route the stock fixes (shared eating), and enumerates no route list the placements do not give. The Addis Ababa guide has no HIV/AIDS counterpart (placements pairing warning) — no guide material is claimed. There is NO Grade 8 teacher-guide coverage for Chapter 7: the Grade 8 guide in hand holds only Units 1–3, so no teacher evidence is claimed for any Grade 8 part of this lesson.
 
 Searchable tags: HIV, AIDS, virus, body's defence, signs, transmission, prevention, shared eating non-route, Ethiopia Grade 7 Social Studies Chapter 7
+
+Papua New Guinea's own way (Papua New Guinea Grades 11–12 Geography TG OBE) (teacher guide — evidence): an outcomes-based guide — it prescribes no lesson scripts; for each syllabus unit it lists suggested learning activities and assessment tasks built around the local environment (soil profiles, local hazard sites, a PNG mine and logging case study, a transect along latitude 6°S), with fieldwork and geographical inquiry as the core skills. That evidence is stocked here as the way Papua New Guinea teaches this thing; it does not change the acceptance count above.

@@ -1,10 +1,12 @@
 # Sources — Pyramid types — expansive to constrictive
 
-countries: Ethiopia
+countries: Ethiopia, Papua New Guinea
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). Editors: Sintayehu Teka (MSc) (Content Editor), Kassie Molla (MA) (Language Editor), Hirut Woldemichael (MA) (Curriculum Editor). Illustrator: Agenchw Nega (MSc). Designer: Geda Hoka (MA). Evaluators: Dereje Guteta (PhD), Tesfaye Shiferaw (PhD), Abebe Yibeltie (MA), Hussein Seid (MA). First published 2023 under GEQIP-E. ISBN 978-99990-0-049-9. Printed by Gravity Group IND LLC, 13th Industrial Area, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. Printed page = PDF page − 6 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md
 
 **Book 2:** *Geography, Teacher Guide, Grade 10* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). Editors: Sintayehu Teka (MSc) (Content Editor), Kassie Molla (MA) (Language Editor), Hirut Woldemichael (MA) (Curriculum Editor). Illustrator: Agenchw Nega (MSc). Designer: Geda Hoka (MA). Evaluator: Dereje Guteta (PhD). First published 2022 under GEQIP-E. (No ISBN printed in the pages read.) Printed page = PDF page − 31 for the guide body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-teacher-placements.md
+
+**Book 3:** *Social Science Teacher Guide — Junior High Grade 10, Standards-Based* (teacher guide, English) — Department of Education, Papua New Guinea; year 2020; ISBN 978-9980-905-94-9. Title as printed: Social Science Teacher Guide — Junior High Grade 10, Standards-Based. Grade: Grade 10 (student/teacher: TEACHER). PDF pages: 338 (cover/title page verified against the record title). Verdict: COMPLETE. Teacher guides read full page-by-page via pdftotext -layout after cover verification; books were fetched from their recorded ministry source_urls (education.gov.pg, as recorded in the books.json records) with resumable curl and each file was verified against the record's exact size_bytes and page count before reading — identical bytes to the pushed copies by size + pages + cover, as the placements file records. Records: 22 records / 11 distinct books (11 TSV records + 11 books.json records that are the same books by repo path — each pair read once). (combined book — Geography parts placed below; non-Geography parts named in the placements, not placed: Strand 2 History (History), printed pp. 93–151; Strand 3 Political Science (Civics), printed pp. 152–195; Strand 4 Economics (Economics), printed pp. 196–249.) Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/papua-new-guinea-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -12,9 +14,12 @@ countries: Ethiopia
 | Sub lesson 2 — Expansive — the growing shape | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 4, printed pp. 109–111 |
 | Sub lesson 3 — Constrictive and the shapes between | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 4, printed pp. 109–111 |
 | Teaching pattern and answer keys (teacher guide — evidence) | Ethiopia, *Geography, Teacher Guide, Grade 10*, Unit 4, guide printed pp. 65–84 |
+| Papua New Guinea part — Strand 1 Unit 1, Topic 6: Comparing population pyramids (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 10 Social Science TG* (teacher guide), Strand 1 Unit 1, Topic 6: Comparing population pyramids — printed p. 44 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 1 country (Ethiopia). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 No book error is flagged for this lesson's pages in the placements. The single-pyramid reading skill — how to read one pyramid bar by bar — stands in the earlier lesson "Reading a population pyramid"; this lesson is the Grade 10 types set and does not repeat it.
 
 Searchable tags: population pyramid, expansive, constrictive, age sex structure, ethiopia, social studies, population transport and maps
+
+Papua New Guinea's own way (Papua New Guinea Grade 10 Social Science TG) (teacher guide — evidence): Grade 10 Geography is a population course — population pyramids in depth, world physical geography's effects on settlement, density and economic activity, then PNG-only migration (types, internal migration, routes and trends) and PNG's land-mobilisation questions (undeveloped land, Special Agricultural Business Leases, land grabbing). That evidence is stocked here as the way Papua New Guinea teaches this thing; it does not change the acceptance count above.

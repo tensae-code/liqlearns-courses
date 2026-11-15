@@ -1,6 +1,6 @@
 # Sources — Map Scale — The Three Ways of Stating Scale
 
-countries: Ethiopia, Bangladesh, Malaysia, Eritrea, Fiji
+countries: Ethiopia, Bangladesh, Malaysia, Eritrea, Fiji, Papua New Guinea
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Bangladesh, Malaysia, Eritrea, Fiji
 
 **Book 8:** *Rediscovering Society — Social Science Year 9* (student book, English) — Fiji, Curriculum Development Unit, Ministry of Education, National Heritage, Culture & Arts, Suva; year 2013 (copyright 2011); ISBN no ISBN printed. Title as printed: Rediscovering Society — Social Science Year 9. Grade: Year 9 (student/teacher: STUDENT). PDF pages: 162 (cover/title page verified against the record title). Verdict: COMPLETE. Acquisition note: read from the books.json record's own Wayback source_url (ministry original; download resumed after a first timed-out partial file) after the grab.py GitHub API route failed as in Book 1. Non-Geography parts named, not placed: Chapter 1 Social Organisation and Processes — Unit 1 Society and culture (printed pp. 7–36), Unit 2 Community living (pp. 37–62), Unit 3 NGOs and regional organisations (pp. 64–74); Chapter 2 Time, Continuity and Change — Unit 1 History of Fiji, pre-contact to cession (pp. 77–97), Unit 2 Current affairs (pp. 99–100). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
 
+**Book 9:** *Social Science Teacher Guide — Primary Grade 4, Standards Based* (teacher guide, English) — Department of Education, Papua New Guinea; year 2017; ISBN 978-9980-86-564-9. Title as printed: Social Science Teacher Guide — Primary Grade 4, Standards Based. Grade: Grade 4 (student/teacher: TEACHER). PDF pages: 91 (cover/title page verified against the record title). Verdict: COMPLETE. Teacher guides read full page-by-page via pdftotext -layout after cover verification; books were fetched from their recorded ministry source_urls (education.gov.pg, as recorded in the books.json records) with resumable curl and each file was verified against the record's exact size_bytes and page count before reading — identical bytes to the pushed copies by size + pages + cover, as the placements file records. Records: 22 records / 11 distinct books (11 TSV records + 11 books.json records that are the same books by repo path — each pair read once). (combined book — Geography parts placed below; non-Geography parts named in the placements, not placed: Strand 1 Community and Organization — People and Groups (work people do), Relationships, Rules/Roles/Responsibilities (Civics), printed pp. 23–34; Strand 2 Trade — Needs and Wants, Production (goods from cash crops), Trade and Communication (transport in trade) (Economics), printed pp. 35–46; Strand 3 Culture and Society — Customs and Societies, Beliefs and Values (changes in culture) (Culture), printed pp. 47–57; Strand 5 History and Origins — History of the Local Community (History), printed pp. 71–73.) Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/papua-new-guinea-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What scale is | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 27–29 |
@@ -29,8 +31,9 @@ countries: Ethiopia, Bangladesh, Malaysia, Eritrea, Fiji
 | Eritrea part (ER G7 Social Studies) — Unit 1 Scale and Measuring Distance: 1.1 What is a Scale? | Eritrea, *ER G7 Social Studies*, Unit 1 Scale and Measuring Distance: 1.1 What is a Scale? — printed p. 2 |
 | Eritrea part (ER G4 Social Studies) — Chapter 6: 6.4 What is map scale? | Eritrea, *ER G4 Social Studies*, Chapter 6: 6.4 What is map scale? — printed p. 75 |
 | Fiji part — Unit 2 Scales and distances (statement, representative fraction, ratio; converting scale distances) | Fiji, *Fiji Year 9 Social Science*, Unit 2 Scales and distances (statement, representative fraction, ratio; converting scale distances) — printed p. 118 |
+| Papua New Guinea part — Strand 4 Unit 3: Reading and using maps — the scale; what scale is and scale on a map, Lessons 156–157 (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 4 Social Science TG* (teacher guide), Strand 4 Unit 3: Reading and using maps — the scale; what scale is and scale on a map, Lessons 156–157 — printed p. 69 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Bangladesh, Malaysia, Eritrea, Fiji).**
+**Acceptance count: taught in 5 countries (Ethiopia, Bangladesh, Malaysia, Eritrea, Fiji). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Pairing warning: the Grade 8 teacher guide is an Addis Ababa bureau book and the student book is an Amhara bureau book; they are NOT edition-matched, and the guide in hand is truncated (printed pp. 1–47 only, Units 1–3). Pupil content in this lesson comes from the Amhara student book; anything from the guide is labelled (teacher guide — evidence) and never presented as pupil-taught.
 
@@ -47,3 +50,5 @@ Eritrea's own way (ER G7 Social Studies): Grade 7 turns fully to skills and Erit
 Eritrea's own way (ER G4 Social Studies): the Tigrinya-medium primary book teaches Geography through the child's own surroundings first — our environment, protecting our soil, water, plants and animals, then maps and globes, community life, and the shapes of the land.
 
 Fiji's own way (Fiji Year 9 Social Science): Secondary geography opens with a full map-skills chapter — grid references, contours and cross-sections practised on Fiji maps — before environment use and conservation, including Pacific methods (shifting cultivation, rotational grazing, appropriate fishing methods).
+
+Papua New Guinea's own way (Papua New Guinea Grade 4 Social Science TG) (teacher guide — evidence): the same five-strand structure as Grade 3, widening the child's world from the local area to the district — district features, renewable versus non-renewable resources, and map scale. That evidence is stocked here as the way Papua New Guinea teaches this thing; it does not change the acceptance count above.

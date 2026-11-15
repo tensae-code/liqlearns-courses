@@ -1,6 +1,6 @@
 # Sources — Climate Change — Causes
 
-countries: Ethiopia, Jamaica, Samoa, Fiji
+countries: Ethiopia, Jamaica, Samoa, Fiji, Papua New Guinea
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (placement 141).
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Jamaica, Samoa, Fiji
 
 **Book 4:** *Year 13 Integrative Geography* (student book, English) — Fiji, Curriculum Development Unit, Ministry of Education, Fiji; year 2018; ISBN no ISBN printed. Title as printed: Year 13 Integrative Geography. Grade: Year 13 (student/teacher: STUDENT). PDF pages: 263 (cover/title page verified against the record title; bibliography at printed p. 258 confirms the file is complete). Verdict: COMPLETE. Acquisition note: read from the books.json record's own source_url (Google Drive file named in the record; download resumed after a first timed-out partial file) after the grab.py GitHub API route failed as in Book 1. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
 
+**Book 5:** *Geography Teacher Guide — Senior High Grade 12, Standards-Based* (teacher guide, English) — Department of Education, Papua New Guinea; year 2020; ISBN 978-9980-906-01-4. Title as printed: Geography Teacher Guide — Senior High Grade 12, Standards-Based. Grade: Grade 12 (student/teacher: TEACHER). PDF pages: 138 (cover/title page verified against the record title). Verdict: COMPLETE. Teacher guides read full page-by-page via pdftotext -layout after cover verification; books were fetched from their recorded ministry source_urls (education.gov.pg, as recorded in the books.json records) with resumable curl and each file was verified against the record's exact size_bytes and page count before reading — identical bytes to the pushed copies by size + pages + cover, as the placements file records. Records: 22 records / 11 distinct books (11 TSV records + 11 books.json records that are the same books by repo path — each pair read once). (Non-Geography parts: none — pure Geography guide (Unit 1's political/religious profiles are taught as geographical data-profiling skills).) Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/papua-new-guinea-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The chapter's three issues: climate change, shrinking water supply, shrinking forests | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 7, printed pp. 182–183 |
@@ -17,8 +19,9 @@ countries: Ethiopia, Jamaica, Samoa, Fiji
 | Jamaica part — Grade 8 Term 3 Unit 1: Climate Change: The Impact of Human Activities — causes (curriculum guide — evidence) | Jamaica, *Jamaica Grades 7–9 JM G7-9 Social Studies*, Grade 8 Term 3 Unit 1: Climate Change: The Impact of Human Activities — causes — printed p. 102 |
 | Samoa part (Year 13 Geography) — Part 5 Unit 9 Climate Change and the Process of Climate Change | Samoa, *Geography, Year 13*, Part 5 Unit 9 Climate Change and the Process of Climate Change — printed p. 192 |
 | Fiji part — Chapter 3: causes of climate change (natural and human factors across atmosphere, geosphere, hydrosphere, biosphere) | Fiji, *Fiji Year 13 Geography*, Chapter 3: causes of climate change (natural and human factors across atmosphere, geosphere, hydrosphere, biosphere) — printed p. 87 |
+| Papua New Guinea part — Unit 4, Topics 2–3: Global warming and climate change; factors influencing global warming and climate change (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 12 Geography TG SBC* (teacher guide), Unit 4, Topics 2–3: Global warming and climate change; factors influencing global warming and climate change — printed p. 69 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Samoa, Fiji). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 3 countries (Ethiopia, Samoa, Fiji). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grades 7–9 Social Studies, curriculum guide — evidence): one guide carries all three secondary grades, each year mixing Civics, heritage and a strong resources-and-environment Geography spine — natural and human resources, movements of the Earth, Caribbean hazards, climate change, green technology and tourism — taught through Jamaican case material (bauxite communities, Caribbean disasters). That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
@@ -29,3 +32,5 @@ Searchable tags: climate change, greenhouse gases, carbon dioxide, fossil fuels,
 Samoa's own way (Year 13 Geography): The final-year course is hazard- and water-centred for an island nation — volcanic eruptions and tropical cyclones (including Cyclone Heta on Niue), the hydrological cycle and water management, then atmosphere and climate change with Pacific consequences.
 
 Fiji's own way (Fiji Year 13 Geography): The final year integrates everything at advanced level (plate tectonics to urban models, largely from world texts such as Waugh) and then lands it in Chapter 8, South Pacific Islands Geography — Oceania's geology, island types, development prospects and regionalism.
+
+Papua New Guinea's own way (Papua New Guinea Grade 12 Geography TG SBC) (teacher guide — evidence): Grade 12 Geography closes with global population and mega-cities, a full migration unit, and a seven-topic climate-change unit that ends at home — the impact of climate change in PNG and the regions affected. That evidence is stocked here as the way Papua New Guinea teaches this thing; it does not change the acceptance count above.

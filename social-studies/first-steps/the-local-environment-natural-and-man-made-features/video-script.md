@@ -1,0 +1,13 @@
+# Video script — The Local Environment Natural And Man Made Features
+
+The super-simple voice, for the video that rides on top of the lesson (lesson-plan.md, add-on list). This script is full: the placements name a video-script need for this lesson. Made later, when videos are made; the script is the slot's written form until then.
+
+---
+
+Papua New Guinea's book, the *Papua New Guinea Grade 3 Social Science TG* (printed p. 56), teaches: Strand 4 Unit 1 The Environment: What's around me? — natural and man-made features of the local area (grasslands, classrooms, playing fields, landmarks), Lessons 121–135 (teacher guide — evidence). Papua New Guinea's book, the *Papua New Guinea Grade 4 Social Science TG* (printed p. 58), teaches: Strand 4 Unit 1 The Environment: Natural and man-made features of the district — trees and forests, vegetation, water, land, animals, buildings, Lessons 121–135 (teacher guide — evidence). Papua New Guinea's book, the *Papua New Guinea Grade 6 Social Science TG* (printed p. 11), teaches: Strand 1 Unit 1: Physical Environment and Human Environment of the local region compared, Term 1 Weeks 1–2 (teacher guide — evidence).
+
+Papua New Guinea's own way (Papua New Guinea Grade 3 Social Science TG) (teacher guide — evidence): Social Science is organised in five strands (Community and Organization; Trade; Culture and Society; Environment and Resources; History and Origins) taught through guided lessons that start outdoors in the school grounds — children observe, draw and label the features, resources and maps of their own local community first. That evidence is stocked here as the way Papua New Guinea teaches this thing; it is cited as evidence only, outside acceptance counts.
+
+Papua New Guinea's own way (Papua New Guinea Grade 4 Social Science TG) (teacher guide — evidence): the same five-strand structure as Grade 3, widening the child's world from the local area to the district — district features, renewable versus non-renewable resources, and map scale. That evidence is stocked here as the way Papua New Guinea teaches this thing; it is cited as evidence only, outside acceptance counts.
+
+Papua New Guinea's own way (Papua New Guinea Grade 6 Social Science TG) (teacher guide — evidence): in Senior Primary the strands are re-ordered and Environment and Resources comes first and largest — a full local-environment course (physical/human environment, environmental change, human impacts, sustainability, natural hazards) taught through sample guided lessons with benchmarks, before Civics, Culture, History and Trade. That evidence is stocked here as the way Papua New Guinea teaches this thing; it is cited as evidence only, outside acceptance counts.

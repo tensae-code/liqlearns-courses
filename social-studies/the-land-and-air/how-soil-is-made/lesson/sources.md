@@ -1,6 +1,6 @@
 # Sources — How soil is made
 
-countries: Ethiopia, Angola, India, Fiji, Slovenia
+countries: Ethiopia, Angola, India, Fiji, Slovenia, Papua New Guinea
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Angola, India, Fiji, Slovenia
 
 **Book 9:** *Geografija 1, gimnazija* (student book, Slovenian) — Slovenia, Zavod RS za šolstvo, Ljubljana; year 2015; ISBN 978-961-03-0284-1. Title as printed: Geografija 1 (gimnazija) (i-učbenik / interactive textbook). Grade: Grade 10 (first year of gimnazija) (student/teacher: STUDENT). PDF pages: not a PDF — ZIP package (interactive e-textbook) of 423,855,798 bytes; book pagination runs to printed p. 320 (Kazalo); all 359 content HTML pages extracted by range request and size-verified against the ZIP central directory, and read. Verdict: COMPLETE (text content; the package's videos/images were not individually viewed — the teaching text, headings, summaries and tasks were read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/slovenia-placements.md.
 
+**Book 10:** *Social Science Teacher Guide — Junior High Grade 9, Standards-Based* (teacher guide, English) — Department of Education, Papua New Guinea; year 2020; ISBN 978-9980-905-93-5. Title as printed: Social Science Teacher Guide — Junior High Grade 9, Standards-Based. Grade: Grade 9 (student/teacher: TEACHER). PDF pages: 316 (cover/title page verified against the record title). Verdict: COMPLETE. Teacher guides read full page-by-page via pdftotext -layout after cover verification; books were fetched from their recorded ministry source_urls (education.gov.pg, as recorded in the books.json records) with resumable curl and each file was verified against the record's exact size_bytes and page count before reading — identical bytes to the pushed copies by size + pages + cover, as the placements file records. Records: 22 records / 11 distinct books (11 TSV records + 11 books.json records that are the same books by repo path — each pair read once). (combined book — Geography parts placed below; non-Geography parts named in the placements, not placed: Strand 2 History — Making Sense of History (colonisation of Papua and New Guinea, Australian administration, WWII), Culture and Society, Development and Sustainability of Societies (History), printed pp. 82–138; Strand 3 Political Science — Government Systems, Political Ideologies and Systems, International Relations, Civic and Citizenship (Civics), printed pp. 139–173; Strand 4 Economics — Factors of Production and Consumption (tax), Methods of Production and Distribution, Regulation, Satisfying Needs and Wants (trade, globalization), Economic Ideologies (Economics), printed pp. 174–236.) Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/papua-new-guinea-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The five factors | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 3, printed pp. 69–70 |
@@ -32,8 +34,9 @@ countries: Ethiopia, Angola, India, Fiji, Slovenia
 | Fiji part — Geography of Fiji: soil (formation from rocks, soil and plant growth, Fiji's young volcanic soils) | Fiji, *Fiji Year 10 Social Science*, Geography of Fiji: soil (formation from rocks, soil and plant growth, Fiji's young volcanic soils) — printed p. 61 |
 | Fiji part — Chapter 5 Soil – New Zealand: soil formation | Fiji, *Fiji Years 11–12 Physical Geography*, Chapter 5 Soil – New Zealand: soil formation — printed p. 64 |
 | Slovenia part — Nastanek in lastnosti prsti (soil formation: pedogenetic factors, the soil profile, soil properties) | Slovenia, *Slovenia Grade 10 Geografija 1 (gimnazija)*, Nastanek in lastnosti prsti (soil formation: pedogenetic factors, the soil profile, soil properties) — printed p. 110 |
+| Papua New Guinea part — Strand 5 Unit 1, Topic 2: Soil as a resource (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 9 Social Science TG* (teacher guide), Strand 5 Unit 1, Topic 2: Soil as a resource — printed p. 237 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Angola, India, Fiji, Slovenia).**
+**Acceptance count: taught in 5 countries (Ethiopia, Angola, India, Fiji, Slovenia). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Extension (Wave 4 Band D): the Grade 10 book's soil definition and functions (printed pp. 66–67) were stacked under this lesson per the build brief; the Grade 10 types survey stands as its own lesson, "Five African soils".
 
@@ -48,3 +51,5 @@ Fiji's own way (Fiji Year 10 Social Science): Year 10 is the foundation for seni
 Fiji's own way (Fiji Years 11–12 Physical Geography): The physical volume is comparative — every theme (climate, relief, soil, vegetation, hazards) is taught twice, New Zealand first, then Fiji (Monsoon Asia for hazards), so Fiji's land is always read against a temperate and a monsoon case.
 
 Slovenia's own way (Slovenia Grade 10 Geografija 1 (gimnazija)): the gimnazija first year is systematic physical geography first (Earth's interior, rocks, landforms, weather and climate, soils, vegetation, waters), then human geography (population, settlements, farming, industry and energy, transport, tourism), closing on sustainable development and spatial planning — with Slovenian cases (earthquake risk in Slovenia, the Port of Koper) set inside the world topics.
+
+Papua New Guinea's own way (Papua New Guinea Grade 9 Social Science TG) (teacher guide — evidence): at secondary level Social Science splits into five strands — Geography, History, Political Science, Economics, Environment. The Geography strand is a weather-and-climate skills course (instruments, data, graphs — with Port Moresby and Kokopo data) moving to world climate/vegetation, migration, and land use; the Environment strand carries Earth systems, resources and sustainability. That evidence is stocked here as the way Papua New Guinea teaches this thing; it does not change the acceptance count above.

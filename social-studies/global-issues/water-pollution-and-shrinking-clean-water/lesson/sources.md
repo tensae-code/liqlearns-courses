@@ -1,6 +1,6 @@
 # Sources — Water — Pollution and Shrinking Clean Water
 
-countries: Ethiopia, Jamaica, Bolivia, Bangladesh, Indonesia, Cambodia
+countries: Ethiopia, Jamaica, Bolivia, Bangladesh, Indonesia, Cambodia, Papua New Guinea
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (placement 110).
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Jamaica, Bolivia, Bangladesh, Indonesia, Cambodia
 
 **Book 8:** *ផែនដីវិទ្យា ថ្នាក់ទី១១ (Earth Science, Grade 11)* (student book, Khmer) — Cambodia, MoEYS Publishing and Distribution House; year 2020 (11th printing); ISBN 978-995-001-049 (printed as 9-789-995-001-049). Title as printed: ផែនដីវិទ្យា ថ្នាក់ទី១១ (Earth Science, Grade 11) — Sala 00004283. Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 208. Verdict: COMPLETE. All books are Khmer-language MoEYS textbooks whose embedded text layer uses a legacy font encoding (pdftotext output is garbled), so every book was read visually page-by-page from rendered pages (cover, full contents, every chapter/lesson opening, and spreads through each Geography part); Tesseract khm OCR was attempted first and abandoned (>2 min/page on this host). Read in place from phase3-staging (on_disk) except the Grade 9 Geography excerpt and the Grades 10-12 Geography combined record, grabbed from the textbooks repo with grab.py. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cambodia-placements.md.
 
+**Book 9:** *Social Science Teacher Guide — Junior High Grade 10, Standards-Based* (teacher guide, English) — Department of Education, Papua New Guinea; year 2020; ISBN 978-9980-905-94-9. Title as printed: Social Science Teacher Guide — Junior High Grade 10, Standards-Based. Grade: Grade 10 (student/teacher: TEACHER). PDF pages: 338 (cover/title page verified against the record title). Verdict: COMPLETE. Teacher guides read full page-by-page via pdftotext -layout after cover verification; books were fetched from their recorded ministry source_urls (education.gov.pg, as recorded in the books.json records) with resumable curl and each file was verified against the record's exact size_bytes and page count before reading — identical bytes to the pushed copies by size + pages + cover, as the placements file records. Records: 22 records / 11 distinct books (11 TSV records + 11 books.json records that are the same books by repo path — each pair read once). (combined book — Geography parts placed below; non-Geography parts named in the placements, not placed: Strand 2 History (History), printed pp. 93–151; Strand 3 Political Science (Civics), printed pp. 152–195; Strand 4 Economics (Economics), printed pp. 196–249.) Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/papua-new-guinea-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Water pollution (Grade 7 depth): pollution of lakes, rivers, seas, oceans and groundwater; polluted water changes nature, cannot renew itself, loses physical quality, biological content and economic use; the kebele audit task | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 7, printed pp. 150–151 |
@@ -29,8 +31,9 @@ countries: Ethiopia, Jamaica, Bolivia, Bangladesh, Indonesia, Cambodia
 | Indonesia part (Grade 11) — Bab 3 I.E Pencemaran air, pantai dan laut, tanah | Indonesia, *Geografi untuk SMA Kelas XI*, Grade 11, Bab 3 I.E Pencemaran air, pantai dan laut, tanah — printed p. 127 |
 | Cambodia part — Ch.3 L4 បញ្ហាសមុទ្រ (problems of the sea) | Cambodia, *Cambodia Grade 11 Geography*, Ch.3 L4 បញ្ហាសមុទ្រ (problems of the sea) — printed p. 82 |
 | Cambodia part — Ch.2 L4 ការបំពុលទឹក (water pollution) | Cambodia, *Cambodia Grade 11 Earth Science*, Ch.2 L4 ការបំពុលទឹក (water pollution) — printed p. 84 |
+| Papua New Guinea part — Strand 5 Unit 4 Environmental Change and Sustainability, Topics 1 and 3: Problems related to water quality (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 10 Social Science TG* (teacher guide), Strand 5 Unit 4 Environmental Change and Sustainability, Topics 1 and 3: Problems related to water quality — printed p. 281 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Bolivia, Bangladesh, Indonesia, Cambodia). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 5 countries (Ethiopia, Bolivia, Bangladesh, Indonesia, Cambodia). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -47,3 +50,5 @@ Bangladesh's own way (Grade 7): Geography thins into economic history and a long
 Cambodia's own way (Cambodia Grade 11 Geography): the standalone upper-secondary Geography book is a human-impact course — people reshaping the earth, people destroying natural resources, the sea, pollution of air/water/noise/waste, economic globalisation, city and countryside, and a world of uneven development.
 
 Cambodia's own way (Cambodia Grade 11 Earth Science): Earth Science is Cambodia's physical-geography strand — planet Earth and plate tectonics, water, a full atmosphere-and-climate course (ending with Cambodia's own weather and climate change), and the environment.
+
+Papua New Guinea's own way (Papua New Guinea Grade 10 Social Science TG) (teacher guide — evidence): Grade 10 Geography is a population course — population pyramids in depth, world physical geography's effects on settlement, density and economic activity, then PNG-only migration (types, internal migration, routes and trends) and PNG's land-mobilisation questions (undeveloped land, Special Agricultural Business Leases, land grabbing). That evidence is stocked here as the way Papua New Guinea teaches this thing; it does not change the acceptance count above.

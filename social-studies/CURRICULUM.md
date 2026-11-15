@@ -4056,3 +4056,60 @@ pp. 41–43), Using Vietnams Natural Resources Wisely
 Security (printed pp. 14–19) — every new lesson is
 taught in 1 country (Vietnam), 8 questions each.
 Geography lessons: 1588 → 1688.
+
+
+## Papua New Guinea — Geography expansion (merged 2026-11-14)
+163 placement lines stocked from Papua New Guinea's 11
+placed books (22 records / 11 distinct books — 11 TSV
+records + 11 books.json records that are the same books
+by repo path, each pair read once) — the Social Science
+Teacher Guides for Grades 3, 4, 5, 6, 7, 8, 9 and 10,
+the Geography Teacher Guides for Grade 11 SBC and Grade
+12 SBC, and the Geography Upper Secondary Teacher Guide
+for Grades 11–12 OBE (all teacher guides, English,
+Department of Education, Papua New Guinea; all
+COMPLETE; teacher guides read full page-by-page via
+pdftotext -layout after cover verification, fetched
+from their recorded ministry source_urls
+(education.gov.pg) and verified against each record's
+exact size_bytes and page count). The placements file's
+own per-book tallies (11 + 7 + 5 + 9 + 14 + 12 + 25 +
+20 + 16 + 14 + 30) sum to 163 and agree with the
+line-by-line count — no tally discrepancy; all 163
+lines were stocked as written. All 163 placements are
+teacher-guide evidence, cited as the evidence they are,
+outside acceptance counts: Papua New Guinea is added to
+each stocked lesson's countries line and named as
+teacher-guide evidence only, and every new lesson below
+stands on teacher-guide evidence only (acceptance count
+0 countries). Stocked into standing lessons (138
+placements across 93 lessons). No placement slug needed
+remapping and none was excluded. 16 NEW lessons built
+(25 placements) — **First Steps**: The Local
+Environment Natural And Man Made Features (printed p.
+56; printed p. 58; printed p. 11); **Earth and Space**:
+The Rock Cycle (printed p. 258); **The Land and Air**:
+Biomass And Vegetation Productivity (printed p. 68),
+Comparative Case Studies And A Transect Study Of PNG
+(printed p. 38), Oceanography Marine Ecosystems And
+Ocean Governance (printed p. 68; printed p. 34), The
+Physical Environment Of My Province And Nation (printed
+p. 56); **Population, Transport and Maps**: Migration
+In Papua New Guinea (printed p. 70), Papua New Guinea
+On The Map (printed p. 67), Papua New Guineas
+Population Growth And Trends (printed p. 37; printed p.
+60; printed p. 35); **People and Resources**: Political
+And Religious Profiles Of Regions (printed p. 42);
+**Culture and Work**: Green Revolution And Genetic
+Modification Of Crops (printed p. 36); **Resources and
+Conflict**: Environmental Change And Its Effects On The
+Local Community (printed p. 36); **Global Issues**:
+Carbon Trade And The Rainforest Nations (printed p.
+36), Climate Change Impacts In Papua New Guinea
+(printed p. 69), Ecological Footprint (printed p. 281),
+Natural Hazards And Disaster Management In PNG And The
+Pacific (printed p. 53; printed p. 51; printed p. 48;
+printed p. 76; printed p. 33) — every new lesson stands
+on teacher-guide evidence only (acceptance count 0
+countries), 8 questions each.
+Geography lessons: 1688 → 1704.
