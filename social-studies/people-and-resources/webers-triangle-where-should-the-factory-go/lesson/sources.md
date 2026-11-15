@@ -1,6 +1,6 @@
 # Sources — Weber's triangle — where should the factory go?
 
-countries: Ethiopia, Barbados, Indonesia, India, Cambodia, Fiji, Slovenia, Venezuela
+countries: Ethiopia, Barbados, Indonesia, India, Cambodia, Fiji, Slovenia, Venezuela, Afghanistan
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Barbados, Indonesia, India, Cambodia, Fiji, Slovenia, Venez
 
 **Book 9:** *Venezuela y su gente — Ciencias Sociales 6to Grado* (student book, Spanish) — Ministerio del Poder Popular para la Educación / Colección Bicentenario; year 2014 (fourth edition, April 2014); ISBN 978-980-218-304-3. Title as printed: Venezuela y su gente — Ciencias Sociales 6to Grado. Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 91 (printed pages run to 176; cover/title page verified against the record title; release grab size-verified by grab.py). Verdict: COMPLETE. (Combined book — Geography parts placed below; parts named, not placed — History parts named, not placed: Hablemos de la industria petrolera a partir de 1950 / Se funda la OPEP / Una nacionalización con historia (printed pp. 54–60); the 20th-century political-history block (pp. 64–120: Gómez era, 1936–45, golpes, Pérez Jiménez dictatorship, Punto Fijo, Caldera, Chávez).; Civics parts named, not placed: Misión Ciudadanía block (pp. 122–156): Constitución y derechos, democracia participativa, Consejos Comunales, Trabajar es un derecho y un deber, Nuestro compromiso con la cultura, La paz un anhelo de la humanidad.) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/venezuela-placements.md.
 
+**Book 10:** *جغرافيه صنف ١١ (Geography, Grade 11)* (student book, Dari) — Ministry of Education, Afghanistan; year 1398 HS (2019/20) as printed; ISBN no ISBN printed. Title as printed: جغرافيه صنف ١١ (Geography, Grade 11). Grade: 11 (student/teacher: STUDENT). PDF pages: 194 (cover verified against the record title; 23,157,359 bytes = release asset size). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/afghanistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The least-cost idea | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 5, printed pp. 129–131 |
@@ -33,8 +35,9 @@ countries: Ethiopia, Barbados, Indonesia, India, Cambodia, Fiji, Slovenia, Venez
 | Fiji part — Industries: factors affecting the location of manufacturing industry (raw materials, power, markets; footloose industries) | Fiji, *Fiji Year 10 Social Science*, Industries: factors affecting the location of manufacturing industry (raw materials, power, markets; footloose industries) — printed p. 76 |
 | Slovenia part — Razmestitev industrije in njen vpliv na okolje (industry's location through time; its effect on the environment) | Slovenia, *Slovenia Grade 10 Geografija 1 (gimnazija)*, Razmestitev industrije in njen vpliv na okolje (industry's location through time; its effect on the environment) — printed p. 254 |
 | Venezuela part — El porqué del dónde están las industrias | Venezuela, *Venezuela Grade 6 G6 CS Venezuela y Su Gente*, El porqué del dónde están las industrias — printed p. 42 |
+| Afghanistan part — World Ch. 6 Lesson 45: the factors effective in industrial development | Afghanistan, *Afghanistan Grade 11 Geography (Dari)*, World Ch. 6 Lesson 45: the factors effective in industrial development — printed p. 157 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Barbados, Indonesia, India, Cambodia, Fiji, Slovenia, Venezuela).**
+**Acceptance count: taught in 9 countries (Ethiopia, Barbados, Indonesia, India, Cambodia, Fiji, Slovenia, Venezuela, Afghanistan).**
 
 Indonesia's own way (Grade 12): Grade 12 is applied human geography built entirely on Indonesian cases — regional development and spatial planning (tata ruang) measured against a Happiness Index, Industry 4.0 / Society 5.0, and Indonesia's own geopolitics and ASEAN-era cooperation as pillars of national resilience. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -53,3 +56,5 @@ Fiji's own way (Fiji Year 10 Social Science): Year 10 is the foundation for seni
 Slovenia's own way (Slovenia Grade 10 Geografija 1 (gimnazija)): the gimnazija first year is systematic physical geography first (Earth's interior, rocks, landforms, weather and climate, soils, vegetation, waters), then human geography (population, settlements, farming, industry and energy, transport, tourism), closing on sustainable development and spatial planning — with Slovenian cases (earthquake risk in Slovenia, the Port of Koper) set inside the world topics.
 
 Venezuela's own way (Venezuela Grade 6 G6 CS Venezuela y Su Gente): the whole Geography block is one argument — "Nuestro espacio geográfico en tiempos del petróleo": how oil remade population (2011 census), cities (metropolisation), industry location, internal migration and landscapes; learners start by learning how to *look* at a piece of oil-era Venezuela.
+
+Afghanistan's own way (Afghanistan Grade 11 Geography (Dari)): an economic-geography year in two halves — first Afghanistan (farming and livestock, energy and mines, industries and trade), then the same themes for the world (water and farming, energy, mines and industries, trade and tourism), each Afghanistan chapter closing with a "review of the situation" lesson on the country's own state.

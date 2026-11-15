@@ -4776,3 +4776,152 @@ Issues**: Food And Water Security In The Dry Gulf
 8 questions each; all stand on student books (Kuwait
 has no teacher guides in this wave).
 Geography lessons: 1943 → 1961.
+
+
+## Afghanistan — Geography expansion (merged 2026-11-15)
+194 placement lines stocked from Afghanistan's 9
+records / 9 distinct books, all Dari student books of
+the Ministry of Education, Afghanistan (source:
+Telegram textbook library, per books.json) — Geography
+Grades 7, 8, 9, 10, 11 and 12, and the combined Social
+Studies student books for Grades 4, 5 and 6 (Geography
+parts placed; the Grades 4-6 books'
+family/school/civics, society/civics and civics +
+history/religion parts are named in each book's header
+in the placements file and are NOT placed — they are
+not placement lines). All 9 books are COMPLETE student
+books (Grades 4-6 COMPLETE as combined books) — there
+are no teacher guides, so every placed book counts
+toward acceptance. Route/read basis, carried exactly as
+the placements file records it: the records' in_pushed
+flags are wrong — 7 books marked in_pushed:true are NOT
+in the GitHub tree at their recorded paths (Contents
+API 404, verified by directory listing); they were
+located as hashed release assets in release
+mid-size-books-7 using the pusher's own naming scheme
+(sha256 of the dash-joined repo path, first 10 hex
+chars) and grabbed through grab.py's release route,
+which verified each byte size; the 2 books marked
+in_pushed:false (Social Studies Grade 6 and Geography
+Grade 12) are in fact present in the tree and were
+grabbed through the tree route. Every book's cover and
+full printed table of contents were read; lessons were
+also spot-read in the body — the read-basis is not
+upgraded. Book 9's (Grade 12) PDF text layer uses a
+legacy font encoding, so its contents were read from
+the printed pages, as its PDF-pages line records. The
+placements file's own per-book tallies (34 + 20 + 22 +
+39 + 25 + 23 + 12 + 2 + 17) sum to 194 and agree with
+the line-by-line count book by book — no tally
+discrepancy; all 194 lines were stocked, none excluded.
+Stocked into standing lessons (96 placements across 43
+lessons): 91 at the slug the placements file names, and
+5 remapped from slugs that do not stand to the closest
+standing lesson covering the thing, the original slug
+recorded in the provenance row —
+global-issues/deforestation-and-desertification (the
+cutting of forests) into
+global-issues/forests-shrinking-and-care;
+global-issues/global-environmental-problems into
+global-issues/main-environmental-problems-facing-humanity;
+global-issues/the-ozone-layer into
+global-issues/the-ozone-hole-and-the-treaty-that-is-healing-it;
+population-transport-and-maps/how-population-is-spread-and-measured
+(distribution and density) into
+population-transport-and-maps/population-distribution;
+population-transport-and-maps/movement-of-people-migration
+(migration factors and consequences) into
+population-transport-and-maps/migration-moving-for-work-safety-and-family.
+73 NEW lessons built (98 placements) — **First Steps**:
+What Geography Is Geographic Concepts And Terms
+(printed p. 3); **Earth and Space**: Antarctica The
+South Pole Continent (printed p. 87; printed p. 81),
+The Moon And Eclipses (printed p. 183), The Poles The
+Axis And The Polar Circles (printed p. 13); **The Land
+and Air**: Afghanistans Animals Forests And Vegetation
+Cover (printed p. 65), Afghanistans Climate Factors
+Temperature And Humidity (printed p. 23), Afghanistans
+Earthquake Zones (printed p. 149), Afghanistans Geology
+And Landforms (printed p. 45), Afghanistans Mountain
+Ranges (printed p. 33; printed p. 51; printed p. 61),
+Afghanistans Relief Mountains Plateaus And Plains
+(printed p. 27; printed p. 63), Afghanistans River
+Basins (printed p. 83), Afghanistans Six Climate
+Regions (printed p. 29; printed p. 35; printed p. 97),
+Africa Its Position Mountains And Physical Geography
+(printed p. 3; printed p. 75), Asia Its Position And
+Boundaries (printed p. 77; printed p. 71), Asias
+Climate (printed p. 87), Asias Physical Geography
+(printed p. 79), Australia And Oceania (printed p. 79),
+Australia Its Position Mountains And Physical Geography
+(printed p. 51), Australias Climate (printed p. 63),
+Europe Its Position And Physical Geography (printed p.
+3; printed p. 73), Europes Climate (printed p. 17), How
+Rainfall Changes With Altitude (printed p. 229),
+Oceania And New Zealand (printed p. 79), The Americas
+Climate (printed p. 75), The Americas Position
+Mountains And Physical Geography (printed p. 51;
+printed p. 77), The Atmosphere Its Layers And Its Role
+In Climate (printed p. 215), The Equator And The Earths
+Climate Zones (printed p. 7; printed p. 91), The Water
+Cycle In Nature (printed p. 77), Weather Instruments
+Observations And Clouds (printed p. 221), Winds How
+They Form And Blow (printed p. 201); **Population,
+Transport and Maps**: Afghanistan Its Position And
+Boundaries (printed p. 25; printed p. 39; printed p. 1;
+printed p. 1), Afghanistans Dry Ports (printed p. 91),
+Afghanistans Historic Cities And The Worlds Big Cities
+(printed p. 35), Afghanistans Neighbouring Countries
+(printed p. 23), Africas Political Geography (printed
+p. 29), Asias Political Geography And Its Countries
+(printed p. 99), Australias Political And Human
+Geography (printed p. 65), City Life And The Types Of
+Cities (printed p. 29), Europes Political Geography
+(printed p. 21), Human Races And Their Geographic
+Divisions (printed p. 115), The Americas Political
+Geography (printed p. 79), Using Colour And Projection
+In Map Making (printed p. 11); **People and
+Resources**: Afghanistans Economic Geography (printed
+p. 49; printed p. 21; printed p. 101), Afghanistans
+Peoples Religion Language And Population (printed p.
+59; printed p. 41), Afghanistans Population
+Distribution Growth And Ethnic Makeup (printed p. 25),
+Asias Economic Geography (printed p. 93), Australia And
+Oceanias Economic Geography (printed p. 71), Australias
+Peoples Religion And Language (printed p. 69),
+Communications Post Telephone Mobile And Internet In
+Afghanistan (printed p. 75), Europes Economic Geography
+(printed p. 35), Europes Peoples Languages And Faiths
+(printed p. 29), Global Communications
+Telecommunication Post And Satellites (printed p. 163),
+Livestock Pastures And Forests Of Afghanistan (printed
+p. 57; printed p. 13; printed p. 25; printed p. 47),
+Public Services Water Electricity Telecommunications
+And Post (printed p. 17), The Americas Economic
+Geography And Latin America (printed p. 87), The
+Americas Peoples Languages Faiths And Population
+(printed p. 81), The Worlds Major Languages (printed p.
+139), The Worlds Major Religions (printed p. 125),
+Water For Farming Energy And Life (printed p. 79);
+**Culture and Work**: Free Trade Zones And The World
+Trade Organization (printed p. 169); **Resources and
+Conflict**: Energy In Afghanistan Electricity Hydro And
+Thermal (printed p. 31; printed p. 99), Energy In The
+World And Its Types (printed p. 123), Geographic
+Distribution Of World Energy Sources (printed p. 143),
+Mineral Fuels Coal Oil And Gas (printed p. 65; printed
+p. 43; printed p. 131), Water Investment And Big
+Irrigation Projects (printed p. 107); **Global
+Issues**: City Air Pollution And Old Vehicles (printed
+p. 131), Industrial Waste (printed p. 191), Pollution
+And Damage Of Roads And Streets (printed p. 137),
+Problems Of World Population Growth And Decline
+(printed p. 97), Protecting The Natural Environment
+(printed p. 117; printed p. 93), Protecting The Urban
+Environment (printed p. 47), Protecting Water Soil And
+Air (printed p. 129), Protecting Wildlife (printed p.
+125; printed p. 19) — all 73 of the new lessons are
+taught in 1 country (Afghanistan), 8 questions each;
+all stand on student books (Afghanistan has no teacher
+guides in this wave).
+Geography lessons: 1961 → 2034.

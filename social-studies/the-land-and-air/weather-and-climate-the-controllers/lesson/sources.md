@@ -1,6 +1,6 @@
 # Sources — Weather and Climate — The Controllers
 
-countries: Ethiopia, Jamaica, Dominican Republic, Papua New Guinea, Sudan, Venezuela, Mauritania
+countries: Ethiopia, Jamaica, Dominican Republic, Papua New Guinea, Sudan, Venezuela, Mauritania, Afghanistan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -26,6 +26,8 @@ countries: Ethiopia, Jamaica, Dominican Republic, Papua New Guinea, Sudan, Venez
 
 **Book 12:** *Kitab al-Jughrafia lilsana al-Khamisa Adab 'Asriya (Geography Book, Fifth Year — Modern Letters)* (student book, Arabic) — Institut Pédagogique National (IPN), Mauritania; year no year printed on title page; ISBN no ISBN printed. Title as printed: Kitab al-Jughrafia lilsana al-Khamisa Adab 'Asriya (Geography Book, Fifth Year — Modern Letters). Grade: Grade 11 (5e année secondaire, lettres modernes) (student/teacher: STUDENT). PDF pages: 113 (cover/title page verified against the record title; the TSV tree record and the TSV release-asset record are the same book; fetched from the record's source URL docs.bsimr.com/pdfs/secondaire2s/GEO-5AS-LM.pdf, 3,217,391 bytes). Verdict: COMPLETE. The TSV tree record and the TSV release-asset record are the same book, counted once, as the placements file labels it. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mauritania-placements.md.
 
+**Book 13:** *جغرافيه صنف ١٠ (Geography, Grade 10)* (student book, Dari) — Ministry of Education, Afghanistan; year 1398 HS (2019/20) as printed; ISBN no ISBN printed. Title as printed: جغرافيه صنف ١٠ (Geography, Grade 10). Grade: 10 (student/teacher: STUDENT). PDF pages: 238 (cover verified against the record title; 19,615,315 bytes = release asset size). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/afghanistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Controllers against elements | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 25–26 |
@@ -38,6 +40,7 @@ countries: Ethiopia, Jamaica, Dominican Republic, Papua New Guinea, Sudan, Venez
 | Mauritania part — Unit 2: factors affecting climate (sample lesson plan) (teacher guide — evidence) | Mauritania, *Mauritania Grade 7 guide-geo-1as* (teacher guide), Unit 2: factors affecting climate (sample lesson plan) — printed p. 17 (lesson plan p. 36) |
 | Mauritania part — Unit 2 Lesson 5: climate and the factors affecting it | Mauritania, *Mauritania Grade 7 geo-1as-m*, Unit 2 Lesson 5: climate and the factors affecting it — printed p. 33 |
 | Mauritania part — Unit 2 Lesson 6: climate and the factors affecting it | Mauritania, *Mauritania Grade 11 geo-5as-lm*, Unit 2 Lesson 6: climate and the factors affecting it — printed p. 35 |
+| Afghanistan part — Ch. 7 Lesson 60: the factors that affect climate | Afghanistan, *Afghanistan Grade 10 Geography (Dari)*, Ch. 7 Lesson 60: the factors that affect climate — printed p. 205 |
 
 | Sub lesson 4 — Latitude and the Earth–Sun geometry (Grade 11 depth) (Grade 11 depth) | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 2, printed pp. 45–46 |
 | Sub lesson 5 — Water, winds and pressure (Grade 11 depth) (Grade 11 depth) | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 2, printed pp. 47–50 |
@@ -45,7 +48,7 @@ countries: Ethiopia, Jamaica, Dominican Republic, Papua New Guinea, Sudan, Venez
 | Teaching sequence and answer keys for the Grade 11 depth (teacher guide — evidence) | Ethiopia, *Geography, Teacher Guide, Grade 11*, guide printed pp. 40–63 |
 | Dominican Republic part (Grade 5) — Climate, its elements and factors (Unidad 2: Variación climática de los continentes) | Dominican Republic, *Ciencias Sociales, Quinto Grado, Primaria (Libro Abierto)*, Grade 5, Climate, its elements and factors (Unidad 2: Variación climática de los continentes) — printed p. 26 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Dominican Republic, Sudan, Venezuela, Mauritania). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 6 countries (Ethiopia, Dominican Republic, Sudan, Venezuela, Mauritania, Afghanistan). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grade 6 Exploratory Core, curriculum guide — evidence): the Grade 6 Social Studies year is built as three paired terms — culture and independence first, then the physical world (mountains, landmasses and water bodies), then climate, Earth movements and the atmosphere, closing on Caribbean cooperation. That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
@@ -68,3 +71,5 @@ Mauritania's own way (Mauritania Grade 7 guide-geo-1as) (teacher guide — evide
 Mauritania's own way (Mauritania Grade 7 geo-1as-m): The student book of the course specified in Book 1 (the teacher guide): the same three units and 13 lessons, each lesson opening with expected outcomes and key concepts and closing with a concepts list per unit. General topics are worked with Mauritanian examples throughout, as the guide prescribes.
 
 Mauritania's own way (Mauritania Grade 11 geo-5as-lm): The senior Letters cycle re-runs physical geography at full depth in four units — Planet Earth, Climate, the Effects of Climate, the Earth (structure, erosion, coasts) — with a class project closing Units 1 and 4.
+
+Afghanistan's own way (Afghanistan Grade 10 Geography (Dari)): the upper-secondary pattern changes from continent tours to themes studied in depth through Afghanistan itself: a full map-skills chapter (map types, scale, colour, projection, satellite photos), Afghanistan's climate and each of its river basins one by one (Amu, Kabul, Helmand–Sistan, Harirud, the closed basins), an environment-protection chapter aimed at Kabul's air and streets, a natural-hazards chapter, then earth-and-space and atmosphere chapters.

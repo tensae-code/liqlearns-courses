@@ -1,6 +1,6 @@
 # Sources — Water under pressure
 
-countries: Ethiopia, Brazil, France, Haiti, Costa Rica, Palestine, Angola, Bangladesh, Egypt, Samoa, Malaysia, India, Cambodia, Slovenia, Sudan, Syria, Venezuela, Sri Lanka
+countries: Ethiopia, Brazil, France, Haiti, Costa Rica, Palestine, Angola, Bangladesh, Egypt, Samoa, Malaysia, India, Cambodia, Slovenia, Sudan, Syria, Venezuela, Sri Lanka, Afghanistan
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -48,6 +48,8 @@ countries: Ethiopia, Brazil, France, Haiti, Costa Rica, Palestine, Angola, Bangl
 
 **Book 23:** *புவியியல், தரம் 6 (Geography, Grade 6)* (student book, Tamil) — Educational Publications Department (கல்வி வெளியீட்டுத் திணைக்களம்); first print 2006, second edition 2007 (imprint page; print code 2008/T/696/1,38,000); no ISBN printed. Title as printed: புவியியல், தரம் 6 (Geography, Grade 6). Grade: 6 (student/teacher: STUDENT). PDF pages: 60 (Noolaham scan; cover verified — Tamil title and Grade 6 match the record; grabbed via grab.py from the GitHub release URL, 33,875,044 bytes, size-verified; image-only scan read page by page on contact sheets). Verdict: COMPLETE — NOTE: this 2007-edition Tamil book is NOT a translation of the 2014 English Grade 6 book (Book 2); it is the older syllabus with a different chapter order, so it is placed separately.. Carried exactly as the placements file labels it: this 2007-edition Tamil book is NOT a translation of the 2014 English Grade 6 book (key 2); it is the older syllabus with a different chapter order, so it is placed separately. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sri-lanka-placements.md.
 
+**Book 24:** *جغرافيه صنف ١٠ (Geography, Grade 10)* (student book, Dari) — Ministry of Education, Afghanistan; year 1398 HS (2019/20) as printed; ISBN no ISBN printed. Title as printed: جغرافيه صنف ١٠ (Geography, Grade 10). Grade: 10 (student/teacher: STUDENT). PDF pages: 238 (cover verified against the record title; 19,615,315 bytes = release asset size). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/afghanistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The squeeze on freshwater | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 3, printed pp. 65–67 |
@@ -72,12 +74,13 @@ countries: Ethiopia, Brazil, France, Haiti, Costa Rica, Palestine, Angola, Bangl
 | Venezuela part — El agua: fuente de vida y energía eléctrica | Venezuela, *Venezuela Grade 11 G11 CS Geografía de Venezuela*, El agua: fuente de vida y energía eléctrica — printed p. 216 |
 | Sri Lanka part — Ch. 3 Water: uses, wastage, pollution and conservation methods (rainwater tanks, protecting forest cover, reusing waste water) | Sri Lanka, *Sri Lanka Grade 6 G6 English*, Ch. 3 Water: uses, wastage, pollution and conservation methods (rainwater tanks, protecting forest cover, reusing waste water) — printed p. 41 |
 | Sri Lanka part — Ch. 4.1.2 நீர் வளம் (Water resources): protecting water, saving water at home | Sri Lanka, *Sri Lanka Grade 6 G6 Tamil 2007*, Ch. 4.1.2 நீர் வளம் (Water resources): protecting water, saving water at home — printed p. 38 |
+| Afghanistan part — Ch. 3 Lesson 31: drought and water shortage | Afghanistan, *Afghanistan Grade 10 Geography (Dari)*, Ch. 3 Lesson 31: drought and water shortage — printed p. 112 |
 
 | France part — Thème 1: L'eau douce, une ressource essentielle (stress hydrique, usages, perspectives) | France, *Géographie 2de GT, Manuel Libre de Géographie, Seconde*, Grade 10, Sommaire Thème 1 |
 | Haiti part — Séance 2, Temps 3-4 Le problème de l'eau en Haïti (bassins versants, état du réseau hydrographique, accès à l'eau potable; Rivière Froide, Rivière Grise, Rivière du Haut du Cap) (teacher sequence — evidence) | Haiti, *Haïti verte. Préserver et valoriser les ressources et l'environnement, protéger les hommes.* (teacher sequence), Grade 7, Séance 2, Temps 3-4 Le problème de l'eau en Haïti (bassins versants, état du réseau hydrographique, accès à l'eau potable; Rivière Froide, Rivière Grise, Rivière du Haut du Cap) — printed p. 8 |
 | Costa Rica part — debates on the use of water as a resource today | Costa Rica, *Antología CONED 8*, Grade 8, Unit 1 Tema 2 B — printed p. 38 |
 
-**Acceptance count: taught in 17 countries (Ethiopia, Brazil, France, Costa Rica, Palestine, Angola, Bangladesh, Egypt, Samoa, Malaysia, India, Cambodia, Slovenia, Sudan, Syria, Venezuela, Sri Lanka). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 18 countries (Ethiopia, Brazil, France, Costa Rica, Palestine, Angola, Bangladesh, Egypt, Samoa, Malaysia, India, Cambodia, Slovenia, Sudan, Syria, Venezuela, Sri Lanka, Afghanistan). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
 
 Haiti's own way (teacher sequence — evidence): The environment is studied from the schoolyard outward — a field diagnosis of the local environment (bare soils, dried springs, waste, noise), scaled up to a map and graph of the whole territory's problems (deforestation, erosion, water), then turned into a pupil-designed sustainable land-use project for a greener Haiti. That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
@@ -120,3 +123,5 @@ Venezuela's own way (Venezuela Grade 11 G11 CS Geografía de Venezuela): a final
 Sri Lanka's own way (Sri Lanka Grade 6 G6 English): geography starts from the child's own school and home — location in the Grama Niladhari → Divisional Secretariat → District → Province hierarchy, a plan of the school garden, home-made weather instruments, and care of the home surroundings — before widening to Sri Lanka's location in the world in the final chapter.
 
 Sri Lanka's own way (Sri Lanka Grade 6 G6 Tamil 2007): dialogue-driven lessons (teacher–pupil conversations) that open with Sri Lanka's location and a comparison with the world's other islands, then work through the home and its surroundings, caring for that environment, and finish with map-making and scale.
+
+Afghanistan's own way (Afghanistan Grade 10 Geography (Dari)): the upper-secondary pattern changes from continent tours to themes studied in depth through Afghanistan itself: a full map-skills chapter (map types, scale, colour, projection, satellite photos), Afghanistan's climate and each of its river basins one by one (Amu, Kabul, Helmand–Sistan, Harirud, the closed basins), an environment-protection chapter aimed at Kabul's air and streets, a natural-hazards chapter, then earth-and-space and atmosphere chapters.

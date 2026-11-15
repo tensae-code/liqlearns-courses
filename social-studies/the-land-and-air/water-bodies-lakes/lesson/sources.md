@@ -1,6 +1,6 @@
 # Sources — Water Bodies — Lakes
 
-countries: Ethiopia, Belarus, Guatemala, Eritrea, India, Rwanda, Slovenia, Uganda
+countries: Ethiopia, Belarus, Guatemala, Eritrea, India, Rwanda, Slovenia, Uganda, Afghanistan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -26,6 +26,14 @@ countries: Ethiopia, Belarus, Guatemala, Eritrea, India, Rwanda, Slovenia, Ugand
 
 **Book 12:** *Excel Standard Social Studies, Pupil's Book 6 (First Edition)* (student book, English) — Excel Publishers, Kampala; year not printed (First Edition); ISBN no ISBN printed. Title as printed: Excel Standard Social Studies, Pupil's Book 6 (First Edition). Grade: Primary Six = Grade 6 (student/teacher: STUDENT). PDF pages: 210 (title page verified: "EXCEL STANDARD SOCIAL STUDIES PUPIL'S BOOK 6 — EXCEL PUBLISHERS" — matches record page count 210 exactly; read via the record's books.json source_url at exoticnotes.com after grab.py routes failed with RemoteDisconnected from api.github.com). Commercial book built on the NCDC Primary Six SST syllabus, filed in the library under gov/uganda — see library debts in the group log.. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/uganda-placements.md.
 
+**Book 13:** *جغرافيه صنف ٧ (Geography, Grade 7)* (student book, Dari) — Ministry of Education, Afghanistan; year 1399 HS (2020/21) as printed; ISBN no ISBN printed. Title as printed: جغرافيه صنف ٧ (Geography, Grade 7). Grade: 7 (student/teacher: STUDENT). PDF pages: 114 (cover verified against the record title; 23,373,699 bytes = release asset size). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/afghanistan-placements.md.
+
+**Book 14:** *جغرافيه صنف ٨ (Geography, Grade 8)* (student book, Dari) — Ministry of Education, Afghanistan; year 1399 HS (2020/21) as printed; ISBN no ISBN printed. Title as printed: جغرافيه صنف ٨ (Geography, Grade 8). Grade: 8 (student/teacher: STUDENT). PDF pages: 114 (cover verified against the record title; 12,298,860 bytes = release asset size). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/afghanistan-placements.md.
+
+**Book 15:** *جغرافيه صنف ٩ (Geography, Grade 9)* (student book, Dari) — Ministry of Education, Afghanistan; year 1399 HS (2020/21) as printed; ISBN no ISBN printed. Title as printed: جغرافيه صنف ٩ (Geography, Grade 9). Grade: 9 (student/teacher: STUDENT). PDF pages: 98 (cover verified against the record title; 14,184,052 bytes = release asset size). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/afghanistan-placements.md.
+
+**Book 16:** *جغرافيه صنف ١٠ (Geography, Grade 10)* (student book, Dari) — Ministry of Education, Afghanistan; year 1398 HS (2019/20) as printed; ISBN no ISBN printed. Title as printed: جغرافيه صنف ١٠ (Geography, Grade 10). Grade: 10 (student/teacher: STUDENT). PDF pages: 238 (cover verified against the record title; 19,615,315 bytes = release asset size). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/afghanistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Land on every side | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 7–8 |
@@ -41,8 +49,14 @@ countries: Ethiopia, Belarus, Guatemala, Eritrea, India, Rwanda, Slovenia, Ugand
 | Uganda part — Lakes in East Africa (Victoria, Tanganyika; boundaries, transport, fishing, minerals) | Uganda, *Uganda Grade 6 UG P6 SST Home-Study*, Lakes in East Africa (Victoria, Tanganyika; boundaries, transport, fishing, minerals) — printed p. 41 |
 | Uganda part — Topic 2: Lakes in Uganda | Uganda, *Uganda Grade 5 UG Excel P5 SST*, Topic 2: Lakes in Uganda — printed p. 27 |
 | Uganda part — Topic 2: Lakes in East Africa | Uganda, *Uganda Grade 6 UG Excel P6 SST*, Topic 2: Lakes in East Africa — printed p. 107 |
+| Afghanistan part — Ch. 2 Lesson 16: Afghanistan's lakes | Afghanistan, *Afghanistan Grade 7 Geography (Dari)*, Ch. 2 Lesson 16: Afghanistan's lakes — printed p. 43 |
+| Afghanistan part — Ch. 1 Lesson 4: the lakes of Europe | Afghanistan, *Afghanistan Grade 8 Geography (Dari)*, Ch. 1 Lesson 4: the lakes of Europe — printed p. 11 |
+| Afghanistan part — Ch. 2 Lesson 21: the lakes of America | Afghanistan, *Afghanistan Grade 8 Geography (Dari)*, Ch. 2 Lesson 21: the lakes of America — printed p. 65 |
+| Afghanistan part — Ch. 1 Lesson 5: the lakes of Africa | Afghanistan, *Afghanistan Grade 9 Geography (Dari)*, Ch. 1 Lesson 5: the lakes of Africa — printed p. 15 |
+| Afghanistan part — Ch. 2 Lesson 20: the lakes of Australia | Afghanistan, *Afghanistan Grade 9 Geography (Dari)*, Ch. 2 Lesson 20: the lakes of Australia — printed p. 61 |
+| Afghanistan part — Ch. 3 Lesson 30: the famous lakes of Afghanistan | Afghanistan, *Afghanistan Grade 10 Geography (Dari)*, Ch. 3 Lesson 30: the famous lakes of Afghanistan — printed p. 107 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Belarus, Guatemala, Eritrea, India, Slovenia, Uganda). Rwanda is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 8 countries (Ethiopia, Belarus, Guatemala, Eritrea, India, Slovenia, Uganda, Afghanistan). Rwanda is named here as teacher-guide evidence only, counted nowhere.**
 
 Pairing warning: the Grade 8 teacher guide is an Addis Ababa bureau book and the student book is an Amhara bureau book; they are NOT edition-matched, and the guide in hand is truncated (printed pp. 1–47 only, Units 1–3). Pupil content in this lesson comes from the Amhara student book; anything from the guide is labelled (teacher guide — evidence) and never presented as pupil-taught.
 
@@ -67,3 +81,11 @@ Uganda's own way (Uganda Grade 6 UG P6 SST Home-Study): East Africa is the unit 
 Uganda's own way (Uganda Grade 5 UG Excel P5 SST): A full-year commercial companion to the NCDC syllabus, far more detailed than the home-study booklet: Uganda's districts/regions are listed sub-region by sub-region, and each Uganda topic (physical features, climate, vegetation, resources, population) gets its own full treatment. Non-Geography parts named, not placed: Topic 6 The People of Pre-colonial Uganda — origins, ethnic groups, political/social/economic organisation (History, printed pp. 89–117, except its migration and settlement sections, placed below); Topic 7 Foreign Influence — traders, explorers, missionaries, colonial administrators (History, pp. 118–142); Topic 8 How Uganda Became a Nation (History, pp. 143–148); Topic 9 The Road to Independence (History, pp. 149–158); Topic 10 Uganda as an Independent Nation — presidents, national symbols, democracy, elections (Civics, pp. 159–173); Topic 11 The Government of Uganda — levels, organs, constitution, revenue, budgeting, citizens' rights (Civics, pp. 174–193).
 
 Uganda's own way (Uganda Grade 6 UG Excel P6 SST): The P6 course widens from Uganda to the whole East African Community: location by latitude/longitude, resources, transport and communication are all taught at EAC scale. Non-Geography parts named, not placed: Topic 1 — historical background, formation, revival, organs and symbols of the EAC (Civics); The People of East Africa — origin of human beings, sources of history, archaeological sites, Stone Age, ethnic groups and their political/social/economic organisation (History, printed pp. 25–54); Early visitors — Arab traders, long-distance and slave trade, European traders, Christian missionaries (History, pp. 55–64); Topic 4 The Road to Independence in East Africa — explorers, scramble and partition, colonial rule and reactions, independence struggle, post-independence leaders and democratic rule (History/Civics, pp. 140–188).
+
+Afghanistan's own way (Afghanistan Grade 7 Geography (Dari)): the Dari MoE pattern — the world topic is taught first in the abstract (sphere, equator, latitude), then re-taught as Afghanistan's own geography (its position, relief, six climate regions, river basins, lakes, minerals, fuels), then widened to the continent (Asia). Every lesson ends with in-class group activity, questions and an out-of-class task naming the pupil's own locality.
+
+Afghanistan's own way (Afghanistan Grade 8 Geography (Dari)): the continent-by-continent march continues — after Asia in Grade 7, Grade 8 does Europe then the Americas, each continent in the same fixed order: position, mountains, rivers, lakes, seas, gulfs, climate, political geography, human geography (race, language, religion), economic geography, mines/industries, transport.
+
+Afghanistan's own way (Afghanistan Grade 9 Geography (Dari)): the continent march finishes with Africa, then Australia/Oceania and Antarctica — same fixed order per continent as Grade 8, with a data table of the independent countries of Africa appended to the Africa chapter.
+
+Afghanistan's own way (Afghanistan Grade 10 Geography (Dari)): the upper-secondary pattern changes from continent tours to themes studied in depth through Afghanistan itself: a full map-skills chapter (map types, scale, colour, projection, satellite photos), Afghanistan's climate and each of its river basins one by one (Amu, Kabul, Helmand–Sistan, Harirud, the closed basins), an environment-protection chapter aimed at Kabul's air and streets, a natural-hazards chapter, then earth-and-space and atmosphere chapters.

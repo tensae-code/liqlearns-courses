@@ -103,7 +103,7 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **1961**
+Geography lessons across the eight Geography titles: **2034**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -1348,3 +1348,63 @@ Culture and Work: Pearl Diving In The Gulf; Global
 Issues: Food And Water Security In The Dry Gulf.
 (All 18 of the new lessons are taught in 1 country
 (Kuwait); all stand on student books.)
+
++73 for Afghanistan, 2026-11-15 — First Steps: What
+Geography Is Geographic Concepts And Terms; Earth and
+Space: Antarctica The South Pole Continent, The Moon
+And Eclipses and The Poles The Axis And The Polar
+Circles; The Land and Air: Afghanistans Animals Forests
+And Vegetation Cover, Afghanistans Climate Factors
+Temperature And Humidity, Afghanistans Earthquake
+Zones, Afghanistans Geology And Landforms, Afghanistans
+Mountain Ranges, Afghanistans Relief Mountains Plateaus
+And Plains, Afghanistans River Basins, Afghanistans Six
+Climate Regions, Africa Its Position Mountains And
+Physical Geography, Asia Its Position And Boundaries,
+Asias Climate, Asias Physical Geography, Australia And
+Oceania, Australia Its Position Mountains And Physical
+Geography, Australias Climate, Europe Its Position And
+Physical Geography, Europes Climate, How Rainfall
+Changes With Altitude, Oceania And New Zealand, The
+Americas Climate, The Americas Position Mountains And
+Physical Geography, The Atmosphere Its Layers And Its
+Role In Climate, The Equator And The Earths Climate
+Zones, The Water Cycle In Nature, Weather Instruments
+Observations And Clouds and Winds How They Form And
+Blow; Population, Transport and Maps: Afghanistan Its
+Position And Boundaries, Afghanistans Dry Ports,
+Afghanistans Historic Cities And The Worlds Big Cities,
+Afghanistans Neighbouring Countries, Africas Political
+Geography, Asias Political Geography And Its Countries,
+Australias Political And Human Geography, City Life And
+The Types Of Cities, Europes Political Geography, Human
+Races And Their Geographic Divisions, The Americas
+Political Geography and Using Colour And Projection In
+Map Making; People and Resources: Afghanistans Economic
+Geography, Afghanistans Peoples Religion Language And
+Population, Afghanistans Population Distribution Growth
+And Ethnic Makeup, Asias Economic Geography, Australia
+And Oceanias Economic Geography, Australias Peoples
+Religion And Language, Communications Post Telephone
+Mobile And Internet In Afghanistan, Europes Economic
+Geography, Europes Peoples Languages And Faiths, Global
+Communications Telecommunication Post And Satellites,
+Livestock Pastures And Forests Of Afghanistan, Public
+Services Water Electricity Telecommunications And Post,
+The Americas Economic Geography And Latin America, The
+Americas Peoples Languages Faiths And Population, The
+Worlds Major Languages, The Worlds Major Religions and
+Water For Farming Energy And Life; Culture and Work:
+Free Trade Zones And The World Trade Organization;
+Resources and Conflict: Energy In Afghanistan
+Electricity Hydro And Thermal, Energy In The World And
+Its Types, Geographic Distribution Of World Energy
+Sources, Mineral Fuels Coal Oil And Gas and Water
+Investment And Big Irrigation Projects; Global Issues:
+City Air Pollution And Old Vehicles, Industrial Waste,
+Pollution And Damage Of Roads And Streets, Problems Of
+World Population Growth And Decline, Protecting The
+Natural Environment, Protecting The Urban Environment,
+Protecting Water Soil And Air and Protecting Wildlife.
+(All 73 of the new lessons are taught in 1 country
+(Afghanistan); all stand on student books.)

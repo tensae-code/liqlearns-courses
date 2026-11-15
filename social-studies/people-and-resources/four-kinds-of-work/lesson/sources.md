@@ -1,6 +1,6 @@
 # Sources — Four kinds of work
 
-countries: Ethiopia, Barbados, Jamaica, Angola, Bahamas, Samoa, Zimbabwe, Colombia, Eritrea, Cambodia, Rwanda, Fiji, Uganda, Venezuela
+countries: Ethiopia, Barbados, Jamaica, Angola, Bahamas, Samoa, Zimbabwe, Colombia, Eritrea, Cambodia, Rwanda, Fiji, Uganda, Venezuela, Afghanistan
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -56,6 +56,8 @@ countries: Ethiopia, Barbados, Jamaica, Angola, Bahamas, Samoa, Zimbabwe, Colomb
 
 **Book 27:** *¡Viva Venezuela! Ciencias Sociales 3er Grado* (student book, Spanish) — Ministerio del Poder Popular para la Educación / Colección Bicentenario; year 2014 (fourth edition, April 2014); ISBN 978-980-218-299-2. Title as printed: ¡Viva Venezuela! Ciencias Sociales 3er Grado. Grade: Grade 3 (student/teacher: STUDENT). PDF pages: 91 (printed pages run to 176 in spreads; cover/title page verified against the record title; grab SHA/size verified by grab.py). Verdict: COMPLETE. (Combined book — Geography parts placed below; parts named, not placed — History parts named, not placed: Nuestros ancestros más remotos (printed p. 56); Esclavizados y afrodescendientes (p. 58); Revisando los períodos de nuestra historia económica (p. 72); presidentes del período Republicano Agrícola (p. 76); Bolívar Presidente (p. 78); La guerra y la paz en tiempos de Zamora (p. 84); La moneda venezolana también tiene su historia (p. 88); La República Petrolera (p. 94); Simón Rodríguez (p. 18).; Civics parts named, not placed: Necesario es respetarnos y entreayudarnos (p. 10); De las reglas del juego a las de la escuela (p. 20); Tenemos patria (p. 62); Novedades de la igualdad ante la ley (p. 110); Solidaridad con quienes la necesitan (p. 108).) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/venezuela-placements.md.
 
+**Book 28:** *جغرافيه صنف ١١ (Geography, Grade 11)* (student book, Dari) — Ministry of Education, Afghanistan; year 1398 HS (2019/20) as printed; ISBN no ISBN printed. Title as printed: جغرافيه صنف ١١ (Geography, Grade 11). Grade: 11 (student/teacher: STUDENT). PDF pages: 194 (cover verified against the record title; 23,157,359 bytes = release asset size). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/afghanistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The four classes | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 5, printed pp. 122–124 |
@@ -87,8 +89,9 @@ countries: Ethiopia, Barbados, Jamaica, Angola, Bahamas, Samoa, Zimbabwe, Colomb
 | Venezuela part — Colaboramos en la ciudad y en el campo | Venezuela, *Venezuela Grade 1 G1 CS Viva Venezuela*, Colaboramos en la ciudad y en el campo — printed p. 64 |
 | Venezuela part — El trabajo de nuestra gente | Venezuela, *Venezuela Grade 2 G2 CS Viva Venezuela*, El trabajo de nuestra gente — printed p. 42 |
 | Venezuela part — La gente trabaja | Venezuela, *Venezuela Grade 3 G3 CS Viva Venezuela*, La gente trabaja — printed p. 74 |
+| Afghanistan part — Afghanistan Ch. 3 Lessons 29–30: the bank; how a bank works (a service activity inside the trade chapter) | Afghanistan, *Afghanistan Grade 11 Geography (Dari)*, Afghanistan Ch. 3 Lessons 29–30: the bank; how a bank works (a service activity inside the trade chapter) — printed p. 93 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Barbados, Angola, Bahamas, Samoa, Colombia, Eritrea, Cambodia, Rwanda, Fiji, Uganda, Venezuela). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 13 countries (Ethiopia, Barbados, Angola, Bahamas, Samoa, Colombia, Eritrea, Cambodia, Rwanda, Fiji, Uganda, Venezuela, Afghanistan). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grades 7–9 Social Studies, curriculum guide — evidence): one guide carries all three secondary grades, each year mixing Civics, heritage and a strong resources-and-environment Geography spine — natural and human resources, movements of the Earth, Caribbean hazards, climate change, green technology and tourism — taught through Jamaican case material (bauxite communities, Caribbean disasters). That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
@@ -141,3 +144,5 @@ Venezuela's own way (Venezuela Grade 1 G1 CS Viva Venezuela): critical, question
 Venezuela's own way (Venezuela Grade 2 G2 CS Viva Venezuela): population education (UNESCO population-education guides reworked) woven into story form — Tío Conejo tales, grandparents' memories and the child's own school and street carry population, housing, landscape and weather-sign content.
 
 Venezuela's own way (Venezuela Grade 3 G3 CS Viva Venezuela): the second half is a state-by-state tour of Venezuela (territorial organisation, Nueva Esparta, Sucre, the Capital, Vargas, Zulia, the Andean states, the Llanos, Guayana) taught through local stories and children of each region — regional geography as a journey around the child's own country.
+
+Afghanistan's own way (Afghanistan Grade 11 Geography (Dari)): an economic-geography year in two halves — first Afghanistan (farming and livestock, energy and mines, industries and trade), then the same themes for the world (water and farming, energy, mines and industries, trade and tourism), each Afghanistan chapter closing with a "review of the situation" lesson on the country's own state.

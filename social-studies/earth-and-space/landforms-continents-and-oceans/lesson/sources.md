@@ -1,6 +1,6 @@
 # Sources — Landforms, Continents and Oceans
 
-countries: Ethiopia, Saudi Arabia, France, Guatemala, Ecuador, Malaysia, Eritrea, Rwanda, Papua New Guinea
+countries: Ethiopia, Saudi Arabia, France, Guatemala, Ecuador, Malaysia, Eritrea, Rwanda, Papua New Guinea, Afghanistan
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page - 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md.
 
@@ -26,6 +26,10 @@ countries: Ethiopia, Saudi Arabia, France, Guatemala, Ecuador, Malaysia, Eritrea
 
 **Book 12:** *Social Science Teacher Guide — Junior High Grade 10, Standards-Based* (teacher guide, English) — Department of Education, Papua New Guinea; year 2020; ISBN 978-9980-905-94-9. Title as printed: Social Science Teacher Guide — Junior High Grade 10, Standards-Based. Grade: Grade 10 (student/teacher: TEACHER). PDF pages: 338 (cover/title page verified against the record title). Verdict: COMPLETE. Teacher guides read full page-by-page via pdftotext -layout after cover verification; books were fetched from their recorded ministry source_urls (education.gov.pg, as recorded in the books.json records) with resumable curl and each file was verified against the record's exact size_bytes and page count before reading — identical bytes to the pushed copies by size + pages + cover, as the placements file records. Records: 22 records / 11 distinct books (11 TSV records + 11 books.json records that are the same books by repo path — each pair read once). (combined book — Geography parts placed below; non-Geography parts named in the placements, not placed: Strand 2 History (History), printed pp. 93–151; Strand 3 Political Science (Civics), printed pp. 152–195; Strand 4 Economics (Economics), printed pp. 196–249.) Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/papua-new-guinea-placements.md.
 
+**Book 13:** *جغرافيه صنف ١٠ (Geography, Grade 10)* (student book, Dari) — Ministry of Education, Afghanistan; year 1398 HS (2019/20) as printed; ISBN no ISBN printed. Title as printed: جغرافيه صنف ١٠ (Geography, Grade 10). Grade: 10 (student/teacher: STUDENT). PDF pages: 238 (cover verified against the record title; 19,615,315 bytes = release asset size). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/afghanistan-placements.md.
+
+**Book 14:** *دروس اجتماعی برای صنف چهارم (Social Studies for Grade 4)* (student book, Dari) — Ministry of Education, Afghanistan; year 1399 HS (2020/21) as printed; ISBN no ISBN printed. Title as printed: دروس اجتماعی برای صنف چهارم (Social Studies for Grade 4). Grade: 4 (student/teacher: STUDENT). PDF pages: 106 (cover verified against the record title; 21,005,872 bytes = release asset size). Verdict: COMPLETE — combined Social Studies book: Geography parts placed below; the family/school/civics parts are named here and NOT placed.. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/afghanistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Landforms: how the Earth's face is made | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 1, printed p. 26 |
@@ -39,12 +43,14 @@ countries: Ethiopia, Saudi Arabia, France, Guatemala, Ecuador, Malaysia, Eritrea
 | Rwanda part — 6.2.5 Importance of physical features (Unit 6) | Rwanda, *Rwanda Grade 6 Social Studies SB*, 6.2.5 Importance of physical features (Unit 6) — printed p. 164 |
 | Papua New Guinea part — Strand 1 Unit 4, Topic 2: Landforms (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 9 Social Science TG* (teacher guide), Strand 1 Unit 4, Topic 2: Landforms — printed p. 76 |
 | Papua New Guinea part — Strand 1 Unit 2 People and Places, Topic 1: The world's physical geography (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 10 Social Science TG* (teacher guide), Strand 1 Unit 2 People and Places, Topic 1: The world's physical geography — printed p. 60 |
+| Afghanistan part — Ch. 6 Lesson 53: the lows and highs of the Earth's land pieces (continents) | Afghanistan, *Afghanistan Grade 10 Geography (Dari)*, Ch. 6 Lesson 53: the lows and highs of the Earth's land pieces (continents) — printed p. 181 |
+| Afghanistan part — Lesson 35: the continents | Afghanistan, *Afghanistan Grade 4 Social Studies (Dari)*, Lesson 35: the continents — printed p. 69 |
 
 | France part — Thème 1 Entrer dans le thème: Continents et océans, les repères spatiaux | France, *Géographie 2de GT, Manuel Libre de Géographie, Seconde*, Grade 10, Sommaire Thème 1 |
 | Ecuador part — El relieve (Unit 2, Las irregularidades de la Tierra) | Ecuador, *Estudios Sociales 3ro EGB (SM 2016)*, Grade 3, El relieve (Unit 2, Las irregularidades de la Tierra) — printed p. 34 |
 | Ecuador part — Formación de la Tierra; características de continentes, océanos y mares (inside the cartography tema, per its evaluation criterion) | Ecuador, *Estudios Sociales 8vo EGB*, Grade 8, Formación de la Tierra; características de continentes, océanos y mares (inside the cartography tema, per its evaluation criterion) — printed p. 99 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Saudi Arabia, France, Guatemala, Ecuador, Malaysia, Eritrea, Rwanda). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 9 countries (Ethiopia, Saudi Arabia, France, Guatemala, Ecuador, Malaysia, Eritrea, Rwanda, Afghanistan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 No book errors are flagged by the placements for these pages. Areas are the book's printed table figures (Table 2).
 
@@ -69,3 +75,7 @@ Rwanda's own way (Rwanda Grade 6 Social Studies SB): the P6 pupil's book is the 
 Papua New Guinea's own way (Papua New Guinea Grade 9 Social Science TG) (teacher guide — evidence): at secondary level Social Science splits into five strands — Geography, History, Political Science, Economics, Environment. The Geography strand is a weather-and-climate skills course (instruments, data, graphs — with Port Moresby and Kokopo data) moving to world climate/vegetation, migration, and land use; the Environment strand carries Earth systems, resources and sustainability. That evidence is stocked here as the way Papua New Guinea teaches this thing; it does not change the acceptance count above.
 
 Papua New Guinea's own way (Papua New Guinea Grade 10 Social Science TG) (teacher guide — evidence): Grade 10 Geography is a population course — population pyramids in depth, world physical geography's effects on settlement, density and economic activity, then PNG-only migration (types, internal migration, routes and trends) and PNG's land-mobilisation questions (undeveloped land, Special Agricultural Business Leases, land grabbing). That evidence is stocked here as the way Papua New Guinea teaches this thing; it does not change the acceptance count above.
+
+Afghanistan's own way (Afghanistan Grade 10 Geography (Dari)): the upper-secondary pattern changes from continent tours to themes studied in depth through Afghanistan itself: a full map-skills chapter (map types, scale, colour, projection, satellite photos), Afghanistan's climate and each of its river basins one by one (Amu, Kabul, Helmand–Sistan, Harirud, the closed basins), an environment-protection chapter aimed at Kabul's air and streets, a natural-hazards chapter, then earth-and-space and atmosphere chapters.
+
+Afghanistan's own way (Afghanistan Grade 4 Social Studies (Dari)): primary social studies starts from the child's own world — family, village, city — and only then opens the map: directions, Afghanistan's boundaries and mountains and rivers, the continents and oceans, and finally the Earth's shape, equator, latitude/longitude and movements.

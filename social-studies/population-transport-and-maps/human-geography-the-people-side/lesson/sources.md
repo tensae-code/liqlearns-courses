@@ -1,6 +1,6 @@
 # Sources — Human geography — the people side
 
-countries: Ethiopia, Myanmar, Ukraine, Bolivia, Fiji, Uganda, Sudan, Mauritania
+countries: Ethiopia, Myanmar, Ukraine, Bolivia, Fiji, Uganda, Sudan, Mauritania, Afghanistan
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -20,6 +20,12 @@ countries: Ethiopia, Myanmar, Ukraine, Bolivia, Fiji, Uganda, Sudan, Mauritania
 
 **Book 9:** *Kitab al-Jughrafia lilsana al-Thaniya min al-Ta'lim al-I'dadi (Geography Book, Second Year of Preparatory Education)* (student book, Arabic) — Institut Pédagogique National (IPN), Mauritania; year no year printed on title page; ISBN no ISBN printed. Title as printed: Kitab al-Jughrafia lilsana al-Thaniya min al-Ta'lim al-I'dadi (Geography Book, Second Year of Preparatory Education). Grade: Grade 8 (2e année secondaire) (student/teacher: STUDENT). PDF pages: 92 (cover/title page verified against the record title; fetched from the record's source URL docs.bsimr.com/pdfs/secondaire1s/GEO-2AS-M.pdf, 10,434,179 bytes). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mauritania-placements.md.
 
+**Book 10:** *جغرافيه صنف ٧ (Geography, Grade 7)* (student book, Dari) — Ministry of Education, Afghanistan; year 1399 HS (2020/21) as printed; ISBN no ISBN printed. Title as printed: جغرافيه صنف ٧ (Geography, Grade 7). Grade: 7 (student/teacher: STUDENT). PDF pages: 114 (cover verified against the record title; 23,373,699 bytes = release asset size). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/afghanistan-placements.md.
+
+**Book 11:** *جغرافيه صنف ٨ (Geography, Grade 8)* (student book, Dari) — Ministry of Education, Afghanistan; year 1399 HS (2020/21) as printed; ISBN no ISBN printed. Title as printed: جغرافيه صنف ٨ (Geography, Grade 8). Grade: 8 (student/teacher: STUDENT). PDF pages: 114 (cover verified against the record title; 12,298,860 bytes = release asset size). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/afghanistan-placements.md.
+
+**Book 12:** *جغرافيه صنف ٩ (Geography, Grade 9)* (student book, Dari) — Ministry of Education, Afghanistan; year 1399 HS (2020/21) as printed; ISBN no ISBN printed. Title as printed: جغرافيه صنف ٩ (Geography, Grade 9). Grade: 9 (student/teacher: STUDENT). PDF pages: 98 (cover verified against the record title; 14,184,052 bytes = release asset size). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/afghanistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The people side | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 1, printed pp. 7–8 |
@@ -32,8 +38,12 @@ countries: Ethiopia, Myanmar, Ukraine, Bolivia, Fiji, Uganda, Sudan, Mauritania
 | Uganda part — Ch.1 Branches of Geography: human geography | Uganda, *Uganda Grade 8 UG S1 Geography Student*, Ch.1 Branches of Geography: human geography — printed p. 3 |
 | Sudan part — The human foundations of geography: what human geography is and its fields (Unit 1) | Sudan, *Sudan Grade 11 SD Geography 11*, The human foundations of geography: what human geography is and its fields (Unit 1) — printed p. 1 |
 | Mauritania part — Unit 1 Lesson 2: concepts in human geography | Mauritania, *Mauritania Grade 8 geo-2as-m*, Unit 1 Lesson 2: concepts in human geography — printed p. 14 |
+| Afghanistan part — Ch. 2 Lesson 17: human geography (of Afghanistan) | Afghanistan, *Afghanistan Grade 7 Geography (Dari)*, Ch. 2 Lesson 17: human geography (of Afghanistan) — printed p. 47 |
+| Afghanistan part — Ch. 3 Lesson 30: human geography of Asia | Afghanistan, *Afghanistan Grade 7 Geography (Dari)*, Ch. 3 Lesson 30: human geography of Asia — printed p. 89 |
+| Afghanistan part — Ch. 1 Lesson 9: the human geography of Europe | Afghanistan, *Afghanistan Grade 8 Geography (Dari)*, Ch. 1 Lesson 9: the human geography of Europe — printed p. 25 |
+| Afghanistan part — Ch. 1 Lesson 11: the human geography of Africa | Afghanistan, *Afghanistan Grade 9 Geography (Dari)*, Ch. 1 Lesson 11: the human geography of Africa — printed p. 33 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Ukraine, Bolivia, Fiji, Uganda, Sudan, Mauritania). Myanmar is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 8 countries (Ethiopia, Ukraine, Bolivia, Fiji, Uganda, Sudan, Mauritania, Afghanistan). Myanmar is named here as teacher-guide evidence only, counted nowhere.**
 
 Ukraine's own way: A "Geography: Regions and Countries" course — every region is done in the same order (position, nature/resources, population, primary/secondary/tertiary sectors) then typological country studies with rubrics (country visiting-card, capital, pride of the country, unique experience), ending with Ukraine's own place in the world; research tasks (Дослідження) embedded in chapters. That way is stocked here as the way Ukraine teaches this thing.
 
@@ -50,3 +60,9 @@ Uganda's own way (Uganda Grade 8 UG S1 Geography Student): Competency-based lowe
 Sudan's own way (Sudan Grade 11 SD Geography 11): The human-geography year: population first (races, religions, census, density, dynamics, structure), then a full practical unit on distribution maps and graphs, then regional geography — the world studied continent by continent as regions — and a closing full unit on Sudan itself, natural basis to environmental problems.
 
 Mauritania's own way (Mauritania Grade 8 geo-2as-m): A world-regional year: one unit of concepts (physical, human, economic geography), one unit walking the five inhabited continents by their natural and human features, and one unit of paired-country economic case studies (Egypt/South Africa, Brazil/Canada, India/Japan, Spain/Germany, Australia/New Zealand).
+
+Afghanistan's own way (Afghanistan Grade 7 Geography (Dari)): the Dari MoE pattern — the world topic is taught first in the abstract (sphere, equator, latitude), then re-taught as Afghanistan's own geography (its position, relief, six climate regions, river basins, lakes, minerals, fuels), then widened to the continent (Asia). Every lesson ends with in-class group activity, questions and an out-of-class task naming the pupil's own locality.
+
+Afghanistan's own way (Afghanistan Grade 8 Geography (Dari)): the continent-by-continent march continues — after Asia in Grade 7, Grade 8 does Europe then the Americas, each continent in the same fixed order: position, mountains, rivers, lakes, seas, gulfs, climate, political geography, human geography (race, language, religion), economic geography, mines/industries, transport.
+
+Afghanistan's own way (Afghanistan Grade 9 Geography (Dari)): the continent march finishes with Africa, then Australia/Oceania and Antarctica — same fixed order per continent as Grade 8, with a data table of the independent countries of Africa appended to the Africa chapter.

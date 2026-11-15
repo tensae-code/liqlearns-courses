@@ -1,6 +1,6 @@
 # Sources — Water Bodies — Seas
 
-countries: Ethiopia, Eritrea, Venezuela, Mauritania
+countries: Ethiopia, Eritrea, Venezuela, Mauritania, Afghanistan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -12,6 +12,16 @@ countries: Ethiopia, Eritrea, Venezuela, Mauritania
 
 **Book 5:** *Kitab al-Jughrafia lilsana al-Sadisa min al-Ta'lim al-Ibtida'i (Geography Book, Sixth Year of Primary Education)* (student book, Arabic) — Institut Pédagogique National (IPN), Mauritania; year no year printed on title page; ISBN no ISBN printed. Title as printed: Kitab al-Jughrafia lilsana al-Sadisa min al-Ta'lim al-Ibtida'i (Geography Book, Sixth Year of Primary Education). Grade: Grade 6 (6e année fondamentale) (student/teacher: STUDENT). PDF pages: 53 (cover/title page verified against the record title; fetched from the record's source URL docs.bsimr.com/pdfs/fondamentals/GEO-6AF-M.pdf, 4,284,854 bytes). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mauritania-placements.md.
 
+**Book 6:** *جغرافيه صنف ٧ (Geography, Grade 7)* (student book, Dari) — Ministry of Education, Afghanistan; year 1399 HS (2020/21) as printed; ISBN no ISBN printed. Title as printed: جغرافيه صنف ٧ (Geography, Grade 7). Grade: 7 (student/teacher: STUDENT). PDF pages: 114 (cover verified against the record title; 23,373,699 bytes = release asset size). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/afghanistan-placements.md.
+
+**Book 7:** *جغرافيه صنف ٨ (Geography, Grade 8)* (student book, Dari) — Ministry of Education, Afghanistan; year 1399 HS (2020/21) as printed; ISBN no ISBN printed. Title as printed: جغرافيه صنف ٨ (Geography, Grade 8). Grade: 8 (student/teacher: STUDENT). PDF pages: 114 (cover verified against the record title; 12,298,860 bytes = release asset size). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/afghanistan-placements.md.
+
+**Book 8:** *جغرافيه صنف ٩ (Geography, Grade 9)* (student book, Dari) — Ministry of Education, Afghanistan; year 1399 HS (2020/21) as printed; ISBN no ISBN printed. Title as printed: جغرافيه صنف ٩ (Geography, Grade 9). Grade: 9 (student/teacher: STUDENT). PDF pages: 98 (cover verified against the record title; 14,184,052 bytes = release asset size). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/afghanistan-placements.md.
+
+**Book 9:** *جغرافيه صنف ١٠ (Geography, Grade 10)* (student book, Dari) — Ministry of Education, Afghanistan; year 1398 HS (2019/20) as printed; ISBN no ISBN printed. Title as printed: جغرافيه صنف ١٠ (Geography, Grade 10). Grade: 10 (student/teacher: STUDENT). PDF pages: 238 (cover verified against the record title; 19,615,315 bytes = release asset size). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/afghanistan-placements.md.
+
+**Book 10:** *دروس اجتماعی برای صنف چهارم (Social Studies for Grade 4)* (student book, Dari) — Ministry of Education, Afghanistan; year 1399 HS (2020/21) as printed; ISBN no ISBN printed. Title as printed: دروس اجتماعی برای صنف چهارم (Social Studies for Grade 4). Grade: 4 (student/teacher: STUDENT). PDF pages: 106 (cover verified against the record title; 21,005,872 bytes = release asset size). Verdict: COMPLETE — combined Social Studies book: Geography parts placed below; the family/school/civics parts are named here and NOT placed.. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/afghanistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Smaller than an ocean, mostly land-ringed | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 6–7 |
@@ -20,8 +30,14 @@ countries: Ethiopia, Eritrea, Venezuela, Mauritania
 | Eritrea part (ER G5 Social Studies) — Chapter 3: 3.4 Seas | Eritrea, *ER G5 Social Studies*, Chapter 3: 3.4 Seas — printed p. 23 |
 | Venezuela part — El mar de Nuestra América (the Caribbean Sea) | Venezuela, *Venezuela Grade 3 G3 CS Viva Venezuela*, El mar de Nuestra América (the Caribbean Sea) — printed p. 120 |
 | Mauritania part — Unit 6 Lesson 15: seas and some rivers | Mauritania, *Mauritania Grade 6 geo-6af-m*, Unit 6 Lesson 15: seas and some rivers — printed p. 49 |
+| Afghanistan part — Ch. 3 Lesson 28: lakes, seas and gulfs of the continent of Asia | Afghanistan, *Afghanistan Grade 7 Geography (Dari)*, Ch. 3 Lesson 28: lakes, seas and gulfs of the continent of Asia — printed p. 83 |
+| Afghanistan part — Ch. 1 Lessons 5–6: the seas and the gulfs of Europe | Afghanistan, *Afghanistan Grade 8 Geography (Dari)*, Ch. 1 Lessons 5–6: the seas and the gulfs of Europe — printed p. 13 |
+| Afghanistan part — Ch. 2 Lessons 22–24: the seas and gulfs of America; the gulfs of South America | Afghanistan, *Afghanistan Grade 8 Geography (Dari)*, Ch. 2 Lessons 22–24: the seas and gulfs of America; the gulfs of South America — printed p. 69 |
+| Afghanistan part — Ch. 1 Lessons 6–7: the seas and the gulfs of Africa | Afghanistan, *Afghanistan Grade 9 Geography (Dari)*, Ch. 1 Lessons 6–7: the seas and the gulfs of Africa — printed p. 17 |
+| Afghanistan part — Ch. 6 Lesson 52: the famous seas of the world | Afghanistan, *Afghanistan Grade 10 Geography (Dari)*, Ch. 6 Lesson 52: the famous seas of the world — printed p. 179 |
+| Afghanistan part — Lessons 42–44: the seas (oceans); the Pacific and Atlantic oceans; the Indian Ocean and the Arctic Ocean | Afghanistan, *Afghanistan Grade 4 Social Studies (Dari)*, Lessons 42–44: the seas (oceans); the Pacific and Atlantic oceans; the Indian Ocean and the Arctic Ocean — printed p. 83 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Eritrea, Venezuela, Mauritania).**
+**Acceptance count: taught in 5 countries (Ethiopia, Eritrea, Venezuela, Mauritania, Afghanistan).**
 
 Pairing warning: the Grade 8 teacher guide is an Addis Ababa bureau book and the student book is an Amhara bureau book; they are NOT edition-matched, and the guide in hand is truncated (printed pp. 1–47 only, Units 1–3). Pupil content in this lesson comes from the Amhara student book; anything from the guide is labelled (teacher guide — evidence) and never presented as pupil-taught.
 
@@ -32,3 +48,13 @@ Eritrea's own way (ER G5 Social Studies): Grade 5 widens from the village to the
 Venezuela's own way (Venezuela Grade 3 G3 CS Viva Venezuela): the second half is a state-by-state tour of Venezuela (territorial organisation, Nueva Esparta, Sucre, the Capital, Vargas, Zulia, the Andean states, the Llanos, Guayana) taught through local stories and children of each region — regional geography as a journey around the child's own country.
 
 Mauritania's own way (Mauritania Grade 6 geo-6af-m): The final primary book turns outward: five of its six units place Mauritania inside its organisations — the Arab Maghreb Union, the Senegal River organisation (OMVS), the Arab League, the African Union, the Sahel drought committee (CILSS), the Organisation of Islamic Cooperation — and inside the industrial world (Europe, North America, the industrial East), before a closing world unit on continents, oceans, seas, rivers and straits.
+
+Afghanistan's own way (Afghanistan Grade 7 Geography (Dari)): the Dari MoE pattern — the world topic is taught first in the abstract (sphere, equator, latitude), then re-taught as Afghanistan's own geography (its position, relief, six climate regions, river basins, lakes, minerals, fuels), then widened to the continent (Asia). Every lesson ends with in-class group activity, questions and an out-of-class task naming the pupil's own locality.
+
+Afghanistan's own way (Afghanistan Grade 8 Geography (Dari)): the continent-by-continent march continues — after Asia in Grade 7, Grade 8 does Europe then the Americas, each continent in the same fixed order: position, mountains, rivers, lakes, seas, gulfs, climate, political geography, human geography (race, language, religion), economic geography, mines/industries, transport.
+
+Afghanistan's own way (Afghanistan Grade 9 Geography (Dari)): the continent march finishes with Africa, then Australia/Oceania and Antarctica — same fixed order per continent as Grade 8, with a data table of the independent countries of Africa appended to the Africa chapter.
+
+Afghanistan's own way (Afghanistan Grade 10 Geography (Dari)): the upper-secondary pattern changes from continent tours to themes studied in depth through Afghanistan itself: a full map-skills chapter (map types, scale, colour, projection, satellite photos), Afghanistan's climate and each of its river basins one by one (Amu, Kabul, Helmand–Sistan, Harirud, the closed basins), an environment-protection chapter aimed at Kabul's air and streets, a natural-hazards chapter, then earth-and-space and atmosphere chapters.
+
+Afghanistan's own way (Afghanistan Grade 4 Social Studies (Dari)): primary social studies starts from the child's own world — family, village, city — and only then opens the map: directions, Afghanistan's boundaries and mountains and rivers, the continents and oceans, and finally the Earth's shape, equator, latitude/longitude and movements.

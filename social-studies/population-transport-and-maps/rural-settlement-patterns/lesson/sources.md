@@ -1,6 +1,6 @@
 # Sources — Rural settlement patterns
 
-countries: Ethiopia, Turkey, Haiti, Palestine, Bangladesh, Indonesia, Malaysia, Eritrea, India, Cambodia, Fiji, Slovenia, Papua New Guinea, Uganda, Syria, Venezuela, Sri Lanka, Mauritania
+countries: Ethiopia, Turkey, Haiti, Palestine, Bangladesh, Indonesia, Malaysia, Eritrea, India, Cambodia, Fiji, Slovenia, Papua New Guinea, Uganda, Syria, Venezuela, Sri Lanka, Mauritania, Afghanistan
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -46,6 +46,8 @@ countries: Ethiopia, Turkey, Haiti, Palestine, Bangladesh, Indonesia, Malaysia, 
 
 **Book 22:** *Al-Jughrafia — Kitab al-Tilmidh, lilsana al-Rabi'a min al-Ta'lim al-Ibtida'i (Geography — Pupil's Book, Fourth Year of Primary Education)* (student book, Arabic) — Institut Pédagogique National (IPN), Mauritania; year 2025; ISBN no ISBN printed. Title as printed: Al-Jughrafia — Kitab al-Tilmidh, lilsana al-Rabi'a min al-Ta'lim al-Ibtida'i (Geography — Pupil's Book, Fourth Year of Primary Education). Grade: Grade 4 (4e année fondamentale) (student/teacher: STUDENT). PDF pages: 46 (cover/title page verified against the record title; fetched from the record's source URL docs.bsimr.com/pdfs/fondamentals/GEO-4AF-M.pdf, 2,356,147 bytes). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mauritania-placements.md.
 
+**Book 23:** *دروس اجتماعی برای صنف چهارم (Social Studies for Grade 4)* (student book, Dari) — Ministry of Education, Afghanistan; year 1399 HS (2020/21) as printed; ISBN no ISBN printed. Title as printed: دروس اجتماعی برای صنف چهارم (Social Studies for Grade 4). Grade: 4 (student/teacher: STUDENT). PDF pages: 106 (cover verified against the record title; 21,005,872 bytes = release asset size). Verdict: COMPLETE — combined Social Studies book: Geography parts placed below; the family/school/civics parts are named here and NOT placed.. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/afghanistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The three patterns | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 4, printed pp. 104–107 |
@@ -71,8 +73,9 @@ countries: Ethiopia, Turkey, Haiti, Palestine, Bangladesh, Indonesia, Malaysia, 
 | Venezuela part — Urbes y campos de Latinoamérica y el Caribe: countryside, housing and ways of populating | Venezuela, *Venezuela Grade 7 G7 Geography Humanidad*, Urbes y campos de Latinoamérica y el Caribe: countryside, housing and ways of populating — printed p. 76 |
 | Sri Lanka part — Ch. 2 Settlements of Sri Lanka: rural (tank and fishing villages), urban and "rurban" settlements | Sri Lanka, *Sri Lanka Grade 9 G9 English*, Ch. 2 Settlements of Sri Lanka: rural (tank and fishing villages), urban and "rurban" settlements — printed p. 54 |
 | Mauritania part — My village | Mauritania, *Mauritania Grade 4 geo-4af-m*, My village — printed p. 34 |
+| Afghanistan part — Lesson 10: life in the village | Afghanistan, *Afghanistan Grade 4 Social Studies (Dari)*, Lesson 10: life in the village — printed p. 19 |
 
-**Acceptance count: taught in 16 countries (Ethiopia, Turkey, Palestine, Bangladesh, Indonesia, Malaysia, Eritrea, India, Cambodia, Fiji, Slovenia, Uganda, Syria, Venezuela, Sri Lanka, Mauritania). Haiti is named here as teacher-sequence evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 17 countries (Ethiopia, Turkey, Palestine, Bangladesh, Indonesia, Malaysia, Eritrea, India, Cambodia, Fiji, Slovenia, Uganda, Syria, Venezuela, Sri Lanka, Mauritania, Afghanistan). Haiti is named here as teacher-sequence evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Indonesia's own way (Grade 12): Grade 12 is applied human geography built entirely on Indonesian cases — regional development and spatial planning (tata ruang) measured against a Happiness Index, Industry 4.0 / Society 5.0, and Indonesia's own geopolitics and ASEAN-era cooperation as pillars of national resilience. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -115,3 +118,5 @@ Venezuela's own way (Venezuela Grade 7 G7 Geography Humanidad): a Geohistoria (R
 Sri Lanka's own way (Sri Lanka Grade 9 G9 English): the student companion to Book 1 — five chapters moving from the whole Asian region down to Sri Lanka's own landscape, its district-by-district development contrasts, environmental balance, and a closing practical chapter reading the 1:50,000 topographic maps.
 
 Mauritania's own way (Mauritania Grade 4 geo-4af-m): A one-topic-per-spread observation book that moves from the child's own wilaya outward: the wilaya map first, then the landforms of home (watercourses, mountains, plains, plateaus, sand dunes), the weather elements and the two measuring instruments (thermometer, rain gauge), then the lived place — public places, archaeological sites, street names, my village, the capital of my wilaya — closing with integration exercises on the relief and climate of the wilaya capital.
+
+Afghanistan's own way (Afghanistan Grade 4 Social Studies (Dari)): primary social studies starts from the child's own world — family, village, city — and only then opens the map: directions, Afghanistan's boundaries and mountains and rivers, the continents and oceans, and finally the Earth's shape, equator, latitude/longitude and movements.

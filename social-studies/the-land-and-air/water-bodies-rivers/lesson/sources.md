@@ -1,6 +1,6 @@
 # Sources — Water Bodies — Rivers
 
-countries: Ethiopia, Iceland, Belarus, Guatemala, Eritrea, Slovenia, Papua New Guinea, Uganda, Venezuela, Mauritania
+countries: Ethiopia, Iceland, Belarus, Guatemala, Eritrea, Slovenia, Papua New Guinea, Uganda, Venezuela, Mauritania, Afghanistan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -28,6 +28,14 @@ countries: Ethiopia, Iceland, Belarus, Guatemala, Eritrea, Slovenia, Papua New G
 
 **Book 13:** *Al-Jughrafia — Kitab al-Tilmidh, lilsana al-Rabi'a min al-Ta'lim al-Ibtida'i (Geography — Pupil's Book, Fourth Year of Primary Education)* (student book, Arabic) — Institut Pédagogique National (IPN), Mauritania; year 2025; ISBN no ISBN printed. Title as printed: Al-Jughrafia — Kitab al-Tilmidh, lilsana al-Rabi'a min al-Ta'lim al-Ibtida'i (Geography — Pupil's Book, Fourth Year of Primary Education). Grade: Grade 4 (4e année fondamentale) (student/teacher: STUDENT). PDF pages: 46 (cover/title page verified against the record title; fetched from the record's source URL docs.bsimr.com/pdfs/fondamentals/GEO-4AF-M.pdf, 2,356,147 bytes). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mauritania-placements.md.
 
+**Book 14:** *جغرافيه صنف ٧ (Geography, Grade 7)* (student book, Dari) — Ministry of Education, Afghanistan; year 1399 HS (2020/21) as printed; ISBN no ISBN printed. Title as printed: جغرافيه صنف ٧ (Geography, Grade 7). Grade: 7 (student/teacher: STUDENT). PDF pages: 114 (cover verified against the record title; 23,373,699 bytes = release asset size). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/afghanistan-placements.md.
+
+**Book 15:** *جغرافيه صنف ٨ (Geography, Grade 8)* (student book, Dari) — Ministry of Education, Afghanistan; year 1399 HS (2020/21) as printed; ISBN no ISBN printed. Title as printed: جغرافيه صنف ٨ (Geography, Grade 8). Grade: 8 (student/teacher: STUDENT). PDF pages: 114 (cover verified against the record title; 12,298,860 bytes = release asset size). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/afghanistan-placements.md.
+
+**Book 16:** *جغرافيه صنف ٩ (Geography, Grade 9)* (student book, Dari) — Ministry of Education, Afghanistan; year 1399 HS (2020/21) as printed; ISBN no ISBN printed. Title as printed: جغرافيه صنف ٩ (Geography, Grade 9). Grade: 9 (student/teacher: STUDENT). PDF pages: 98 (cover verified against the record title; 14,184,052 bytes = release asset size). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/afghanistan-placements.md.
+
+**Book 17:** *دروس اجتماعی برای صنف چهارم (Social Studies for Grade 4)* (student book, Dari) — Ministry of Education, Afghanistan; year 1399 HS (2020/21) as printed; ISBN no ISBN printed. Title as printed: دروس اجتماعی برای صنف چهارم (Social Studies for Grade 4). Grade: 4 (student/teacher: STUDENT). PDF pages: 106 (cover verified against the record title; 21,005,872 bytes = release asset size). Verdict: COMPLETE — combined Social Studies book: Geography parts placed below; the family/school/civics parts are named here and NOT placed.. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/afghanistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Flowing water in a channel | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 8–9 |
@@ -44,8 +52,16 @@ countries: Ethiopia, Iceland, Belarus, Guatemala, Eritrea, Slovenia, Papua New G
 | Uganda part — Topic 2: Major rivers in East Africa | Uganda, *Uganda Grade 6 UG Excel P6 SST*, Topic 2: Major rivers in East Africa — printed p. 112 |
 | Venezuela part — Nuestras aguas dulces | Venezuela, *Venezuela Grade 3 G3 CS Viva Venezuela*, Nuestras aguas dulces — printed p. 66 |
 | Mauritania part — Watercourses | Mauritania, *Mauritania Grade 4 geo-4af-m*, Watercourses — printed p. 7 |
+| Afghanistan part — Ch. 2 Lesson 14: Afghanistan's rivers as the artery of agriculture and energy production (dams and irrigation) | Afghanistan, *Afghanistan Grade 7 Geography (Dari)*, Ch. 2 Lesson 14: Afghanistan's rivers as the artery of agriculture and energy production (dams and irrigation) — printed p. 37 |
+| Afghanistan part — Ch. 2 Lesson 15: the rivers of Afghanistan's other basins | Afghanistan, *Afghanistan Grade 7 Geography (Dari)*, Ch. 2 Lesson 15: the rivers of Afghanistan's other basins — printed p. 41 |
+| Afghanistan part — Ch. 3 Lesson 27: the rivers of the continent of Asia | Afghanistan, *Afghanistan Grade 7 Geography (Dari)*, Ch. 3 Lesson 27: the rivers of the continent of Asia — printed p. 81 |
+| Afghanistan part — Ch. 1 Lesson 3: the rivers of Europe | Afghanistan, *Afghanistan Grade 8 Geography (Dari)*, Ch. 1 Lesson 3: the rivers of Europe — printed p. 7 |
+| Afghanistan part — Ch. 2 Lessons 19–20: the rivers of America; the rivers of South America | Afghanistan, *Afghanistan Grade 8 Geography (Dari)*, Ch. 2 Lessons 19–20: the rivers of America; the rivers of South America — printed p. 59 |
+| Afghanistan part — Ch. 1 Lessons 3–4: the rivers of Africa; the Congo basin | Afghanistan, *Afghanistan Grade 9 Geography (Dari)*, Ch. 1 Lessons 3–4: the rivers of Africa; the Congo basin — printed p. 7 |
+| Afghanistan part — Ch. 2 Lesson 19: the rivers of Australia | Afghanistan, *Afghanistan Grade 9 Geography (Dari)*, Ch. 2 Lesson 19: the rivers of Australia — printed p. 59 |
+| Afghanistan part — Lessons 33–34: the rivers of our country; the famous rivers of Afghanistan | Afghanistan, *Afghanistan Grade 4 Social Studies (Dari)*, Lessons 33–34: the rivers of our country; the famous rivers of Afghanistan — printed p. 65 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Iceland, Belarus, Guatemala, Eritrea, Slovenia, Uganda, Venezuela, Mauritania). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 10 countries (Ethiopia, Iceland, Belarus, Guatemala, Eritrea, Slovenia, Uganda, Venezuela, Mauritania, Afghanistan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Iceland's own way: a one-page map-labelling work card (vinnukort): pupils work directly on the outline map of their own country, its main rivers and lakes already drawn in for identification, with a 0–50 km scale bar.
 
@@ -72,3 +88,11 @@ Uganda's own way (Uganda Grade 6 UG Excel P6 SST): The P6 course widens from Uga
 Venezuela's own way (Venezuela Grade 3 G3 CS Viva Venezuela): the second half is a state-by-state tour of Venezuela (territorial organisation, Nueva Esparta, Sucre, the Capital, Vargas, Zulia, the Andean states, the Llanos, Guayana) taught through local stories and children of each region — regional geography as a journey around the child's own country.
 
 Mauritania's own way (Mauritania Grade 4 geo-4af-m): A one-topic-per-spread observation book that moves from the child's own wilaya outward: the wilaya map first, then the landforms of home (watercourses, mountains, plains, plateaus, sand dunes), the weather elements and the two measuring instruments (thermometer, rain gauge), then the lived place — public places, archaeological sites, street names, my village, the capital of my wilaya — closing with integration exercises on the relief and climate of the wilaya capital.
+
+Afghanistan's own way (Afghanistan Grade 7 Geography (Dari)): the Dari MoE pattern — the world topic is taught first in the abstract (sphere, equator, latitude), then re-taught as Afghanistan's own geography (its position, relief, six climate regions, river basins, lakes, minerals, fuels), then widened to the continent (Asia). Every lesson ends with in-class group activity, questions and an out-of-class task naming the pupil's own locality.
+
+Afghanistan's own way (Afghanistan Grade 8 Geography (Dari)): the continent-by-continent march continues — after Asia in Grade 7, Grade 8 does Europe then the Americas, each continent in the same fixed order: position, mountains, rivers, lakes, seas, gulfs, climate, political geography, human geography (race, language, religion), economic geography, mines/industries, transport.
+
+Afghanistan's own way (Afghanistan Grade 9 Geography (Dari)): the continent march finishes with Africa, then Australia/Oceania and Antarctica — same fixed order per continent as Grade 8, with a data table of the independent countries of Africa appended to the Africa chapter.
+
+Afghanistan's own way (Afghanistan Grade 4 Social Studies (Dari)): primary social studies starts from the child's own world — family, village, city — and only then opens the map: directions, Afghanistan's boundaries and mountains and rivers, the continents and oceans, and finally the Earth's shape, equator, latitude/longitude and movements.
