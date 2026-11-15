@@ -1,6 +1,6 @@
 # Sources — Africa across the equator — the mirrored continent
 
-countries: Ethiopia, Palestine, Egypt
+countries: Ethiopia, Palestine, Egypt, Armenia
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). First published 2023 under GEQIP-E. ISBN: 978-99990-0-049-9. 205 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md.
 
@@ -8,14 +8,17 @@ countries: Ethiopia, Palestine, Egypt
 
 **Book 3:** *الدراسات الاجتماعية — إفريقيا ومصر معًا على طريق التنمية والحضارة (Social Studies — Africa and Egypt Together on the Path of Development and Civilisation)* (student book, Arabic) — Egypt, Ministry of Education and Technical Education, Egypt; year 2025/2026; no ISBN printed. Title as printed: الدراسات الاجتماعية — إفريقيا ومصر معًا على طريق التنمية والحضارة (Social Studies — Africa and Egypt Together on the Path of Development and Civilisation). Grade 7, First Preparatory, Term 1 (student). 110 PDF pp. (cover verified against the record title; 17,874,198 bytes = record size exactly, from the recorded Azure source; staged in phase3-staging/grade-07/gov/egypt/Social_prp1_Tr1.pdf under the push-don't-delete rule — its books.json record already existed there). Verdict: COMPLETE. Combined Social Studies book: Geography parts placed below; History parts named in the placements, not placed. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/egypt-placements.md.
 
+**Book 4:** *Աշխարհագրություն (Հասարակական աշխարհագրություն: Տարածաշրջաններ և պետություններ) — Geography (Social geography: Regions and states), textbook for grade 8* (student book, Armenian) — «ՄԱՆՄԱՐ» (Manmar), Yerevan; year 2024; ISBN 978-9939-62-281-1. Authors: A. Hovsepyan, R. Margaryan. Approved by the RA Ministry of Education, Science, Culture and Sport. Title as printed: Աշխարհագրություն (Հասարակական աշխարհագրություն: Տարածաշրջաններ և պետություններ) — Geography (Social geography: Regions and states), textbook for grade 8. Grade: 8 (student/teacher: STUDENT). PDF pages: 177 (printed 176; cover/title page verified against the record title). Verdict: COMPLETE. Read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The equator divides Africa almost equally | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 1, printed pp. 7–8 |
 | Sub lesson 2 — The mirror pairs — Kalahari–Sahara, Karoo–Maghreb, Cape–Mediterranean | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 1, printed pp. 7–8 |
 | Palestine part — Lesson 2: the continent of Africa — its astronomical and geographical location | Palestine, *Social Studies, Grade 7, Part One*, Grade 7, Lesson 2: the continent of Africa — its astronomical and geographical location — printed p. 13 |
 | Egypt part (Grade 7) — Unit 1 Lesson 1: The continent of Africa — geographic and astronomical position, the political map, and the geographic discoveries (Egyptian, Arab and European roles) | Egypt, *Social Studies, Grade 7, Term 1*, Grade 7, Unit 1 Lesson 1: The continent of Africa — geographic and astronomical position, the political map, and the geographic discoveries (Egyptian, Arab and European roles) — printed p. 8 |
+| Armenia part — Lesson 52 Africa: geographic position and physical outline | Armenia, *Armenia Grade 8 Geography student*, Lesson 52 Africa: geographic position and physical outline — printed p. 150 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Palestine, Egypt).**
+**Acceptance count: taught in 4 countries (Ethiopia, Palestine, Egypt, Armenia).**
 
 Pairing: the teacher guide was first published in 2022 and the student textbook in 2023, with the same writers and the same eight units in the same order; the student book is the learner text of record, and teacher-guide rows above are evidence only.
 
@@ -24,3 +27,5 @@ Searchable tags: equator, mirrored continent, Kalahari Sahara mirror, Karoo Magh
 Palestine's own way (Grade 7, PS G7P1): the world is taught continent by continent through one fixed lens — astronomical location (latitude and longitude) and geographical location first, then surface features and general characteristics — with the spread of the Islamic state across each continent as the historical thread.
 
 Egypt's own way (Grade 7 Term 1): Social Studies is rebuilt around “Africa and Egypt together” — the geography half teaches Africa first (position, surface, the Nile) then Africa's ecosystems system by system (forests, grasslands/deserts, aquatic), always tying Egypt into the continent; every lesson opens with outcome goals, map-work (“observe map 1 and share with your partner”) and a blue-economy / ICT-linked application section.
+
+Armenia's own way (Armenia Grade 8 Geography student): a pure regional-geography year — the world is divided into regions following the UN scheme, each region and chosen state is studied in the same fixed order (position, natural conditions and resources, population, economy), and Armenia's neighbours (Georgia, Azerbaijan, Turkey, Iran) get full country lessons of their own.

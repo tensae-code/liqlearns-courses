@@ -1,6 +1,6 @@
 # Sources — Seismic waves — P, S and surface waves
 
-countries: Ethiopia, India, Mozambique, Bhutan
+countries: Ethiopia, India, Mozambique, Bhutan, Armenia
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, India, Mozambique, Bhutan
 
 **Book 5:** *ADVANCED GEOGRAPHY CLASS XI* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Thimphu; year Provisional Edition 2022, Copyright 2023, Reprint 2024; ISBN no ISBN printed. Title as printed: ADVANCED GEOGRAPHY CLASS XI. Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 182 (cover/title page verified against the record title; byte size 19,627,789 and page count match the books.json record exactly — read via the record's ministry source URL; this book is also the TSV release record grade-11-gov-bhutan-geography-full-year.pdf, same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
 
+**Book 6:** *ԱՇԽԱՐՀԱԳՐՈՒԹՅՈՒՆ 10 (Geography 10)* (student book, Armenian) — Էդիթ Պրինտ (Edit Print), Yerevan; year 2023 (title page 2024); ISBN 978-9939-969-06-0. Authors: Ashot Khachatryan, Yurik Muradyan. Title as printed: ԱՇԽԱՐՀԱԳՐՈՒԹՅՈՒՆ 10 (Geography 10). Grade: 10 (student/teacher: STUDENT). PDF pages: 194 (printed 192; cover/title page verified against the record title). Verdict: COMPLETE — the senior Geography course in 7 themes: methods & cartography, lithosphere, atmosphere & climate, river hydrology, the political map of the world, world population, world natural resources. Read in full from contact sheets; every lesson opener and the printed contents (pp. 190-191) checked. Read in full from 100-DPI contact sheets (image-only book); every lesson opener and the printed contents (pp. 190-191) checked. Also read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Focus, epicentre and body waves | G12 student #13, printed pp. 16–17 |
@@ -20,8 +22,9 @@ countries: Ethiopia, India, Mozambique, Bhutan
 | Mozambique part — Lição 9: ondas primárias (P) e demais ondas sísmicas | Mozambique, *Mozambique Grade 10 PESD II Mod 3*, Lição 9: ondas primárias (P) e demais ondas sísmicas — printed p. 50 |
 | Bhutan part — Ch.2 2.3 Seismic waves / 2.4 Characteristics of seismic waves | Bhutan, *Bhutan Grade 10 Geography*, Ch.2 2.3 Seismic waves / 2.4 Characteristics of seismic waves — printed p. 10 |
 | Bhutan part — Ch.1 Seismic waves | Bhutan, *Bhutan Grade 11 Geography*, Ch.1 Seismic waves — printed p. 18 |
+| Armenia part — 2.3 Studying the interior: seismic and radiometric methods, lithosphere and asthenosphere, gravity and the magnetic field | Armenia, *Armenia Grade 10 Geography student*, 2.3 Studying the interior: seismic and radiometric methods, lithosphere and asthenosphere, gravity and the magnetic field — printed p. 63 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, India, Mozambique, Bhutan).**
+**Acceptance count: taught in 5 countries (Ethiopia, India, Mozambique, Bhutan, Armenia).**
 
 No book error in the placements for this lesson is taught here. Wave kinds are taught exactly as the placements report them.
 
@@ -34,3 +37,5 @@ Mozambique's own way (Mozambique Grade 10 PESD II Mod 3): a systematic geomorpho
 Bhutan's own way (Bhutan Grade 10 Geography): Class X pairs deep physical theory (Big Bang, plate tectonics, the making of the Himalayas) with an applied Bhutan block — climate and vegetation zones of Bhutan, Bhutanese agriculture's challenges and advancement, industries and their distribution, and a Bhutan disaster chapter that adds Education in Emergency.
 
 Bhutan's own way (Bhutan Grade 11 Geography): The Advanced level (XI–XII) is full academic geography — map projections, remote sensing and GIS, insolation and pressure belts, climate classification — with Bhutan applied chapters on agriculture, manufacturing and tourism, the last taught on Bhutan's own sustainability principle ("high value, low volume" in the Bhutan Tourism Monitor data the book uses).
+
+Armenia's own way (Armenia Grade 10 Geography student): grade-10 Geography is a methods-first course — it opens with the science's history, branches and GIS/GPS/aerospace methods, works through the lithosphere with a full natural-disasters lesson, and closes with resources measured by endowment; Armenia's own rivers fill the hydrology tables and Armenia's place in modern geopolitics closes the political-map theme.

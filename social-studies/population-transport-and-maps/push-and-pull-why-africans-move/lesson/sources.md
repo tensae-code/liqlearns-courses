@@ -1,6 +1,6 @@
 # Sources — Push and pull — why Africans move
 
-countries: Ethiopia, France, Costa Rica, Samoa, Mozambique
+countries: Ethiopia, France, Costa Rica, Samoa, Mozambique, Armenia
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). First published 2023 under GEQIP-E. ISBN: 978-99990-0-049-9. 205 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md.
 **Book 2:** *Geography, Teacher Guide, Grade 10* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). First published 2022 under GEQIP-E. (No ISBN printed in the pages read.) Body printed page = PDF page − 31. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-teacher-placements.md.
@@ -13,6 +13,8 @@ countries: Ethiopia, France, Costa Rica, Samoa, Mozambique
 
 **Book 6:** *Módulo 5 de Geografia — População* (student book, Portuguese) — Ministério da Educação / IEDA; year not printed (uploaded to IEDA site 2022); no ISBN printed. Title as printed: Módulo 5 de Geografia — População. Grade: Grades 10–12 cycle (2º Ciclo), filed as Grade 10 (student/teacher: STUDENT). PDF pages: 109 (title page verified against the record title; byte size 5,447,158 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
 
+**Book 7:** *ԱՇԽԱՐՀԱԳՐՈՒԹՅՈՒՆ 10 (Geography 10)* (student book, Armenian) — Էդիթ Պրինտ (Edit Print), Yerevan; year 2023 (title page 2024); ISBN 978-9939-969-06-0. Authors: Ashot Khachatryan, Yurik Muradyan. Title as printed: ԱՇԽԱՐՀԱԳՐՈՒԹՅՈՒՆ 10 (Geography 10). Grade: 10 (student/teacher: STUDENT). PDF pages: 194 (printed 192; cover/title page verified against the record title). Verdict: COMPLETE — the senior Geography course in 7 themes: methods & cartography, lithosphere, atmosphere & climate, river hydrology, the political map of the world, world population, world natural resources. Read in full from contact sheets; every lesson opener and the printed contents (pp. 190-191) checked. Read in full from 100-DPI contact sheets (image-only book); every lesson opener and the printed contents (pp. 190-191) checked. Also read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Push factors — what drives people out | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 7, printed pp. 167–168 |
@@ -20,11 +22,13 @@ countries: Ethiopia, France, Costa Rica, Samoa, Mozambique
 | Sub lesson 3 — Africa's long history of movement | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 7, printed pp. 167–168 |
 | Samoa part (Year 9, Book 2) — Unit 2 Topic 1 Migration (push-pull model, intervening obstacles) | Samoa, *Social Studies, Year 9, Book 2*, Unit 2 Topic 1 Migration (push-pull model, intervening obstacles) — printed p. 46 |
 | Mozambique part — Lição 4: Factores Gerais da Mortalidade — Migrações (natural catastrophes as migration drivers; rural exodus since the Industrial Revolution; South→North flows to the USA/Canada) | Mozambique, *Mozambique Grade 10 PESD II Mod 5*, Lição 4: Factores Gerais da Mortalidade — Migrações (natural catastrophes as migration drivers; rural exodus since the Industrial Revolution; South→North flows to the USA/Canada) — printed p. 27 |
+| Armenia part — 6.4 External migration: factors, consequences and regulation problems | Armenia, *Armenia Grade 10 Geography student*, 6.4 External migration: factors, consequences and regulation problems — printed p. 154 |
+| Armenia part — 6.9 Population migrations | Armenia, *Armenia Grade 10 Geography student*, 6.9 Population migrations — printed p. 163 |
 
 | France part — Thème 4: Des territoires traversés et remodelés — les migrations en Afrique australe (Zimbabwéens en Afrique du Sud, mineurs mozambicains) | France, *Géographie 2de GT, Manuel Libre de Géographie, Seconde*, Grade 10, Sommaire Thème 4 |
 | Costa Rica part — spatial mobility produced by organised crime and war (forced displacement) | Costa Rica, *Antología CONED 10*, Grade 10, Unit 3 Tema II C — printed p. 249 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, France, Costa Rica, Samoa, Mozambique).**
+**Acceptance count: taught in 6 countries (Ethiopia, France, Costa Rica, Samoa, Mozambique, Armenia).**
 
 Pairing: the teacher guide was first published in 2022 and the student textbook in 2023, with the same writers and the same eight units in the same order; the student book is the learner text of record, and teacher-guide rows above are evidence only.
 
@@ -37,3 +41,5 @@ Searchable tags: migration, push factors, pull factors, slave migration, immigra
 Samoa's own way (Year 9, Book 2): Place is taught through Samoan lived places — ordinary, sacred (tapu), natural and political places such as Mulinu'u — and migration is taught through Samoa's own movement story and its New Zealand diaspora, closing with a full mapping-skills unit.
 
 Mozambique's own way (Mozambique Grade 10 PESD II Mod 5): population geography taught as a developed-world/developing-world contrast throughout — distribution factors, growth, Malthus and the transition, then the two evolutions (developed countries; the "Terceiro Mundo" set) with their opposite population policies, closing on structures, demographic problems (incl. HIV cutting life expectancy below 50) and population–economy/environment relations.
+
+Armenia's own way (Armenia Grade 10 Geography student): grade-10 Geography is a methods-first course — it opens with the science's history, branches and GIS/GPS/aerospace methods, works through the lithosphere with a full natural-disasters lesson, and closes with resources measured by endowment; Armenia's own rivers fill the hydrology tables and Armenia's place in modern geopolitics closes the political-map theme.

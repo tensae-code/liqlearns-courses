@@ -1,6 +1,6 @@
 # Sources — Von Thünen's rings — farming around a city
 
-countries: Ethiopia, Indonesia, Mozambique
+countries: Ethiopia, Indonesia, Mozambique, Armenia
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Indonesia, Mozambique
 
 **Book 4:** *Módulo 6 de Geografia — Agricultura e Pecuária (title page misprints the subject word as "Gografia")* (student book, Portuguese) — Ministério da Educação / IEDA; year not printed (uploaded to IEDA site 2022); no ISBN printed. Title as printed: Módulo 6 de Geografia — Agricultura e Pecuária (title page misprints the subject word as "Gografia"). Grade: Grades 10–12 cycle (2º Ciclo), filed as Grade 10 (student/teacher: STUDENT). PDF pages: 80 (title page verified against the record title; byte size 3,049,875 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
 
+**Book 5:** *Աշխարհագրություն 11 — Հանրակրթական ավագ դպրոցի 11-րդ դասարանի դասագիրք (Geography 11, senior-school textbook)* (student book, Armenian) — «Զանգակ» (Zangak), Yerevan; year 2025; ISBN 978-9939-99-284-6. Authors: A. Hovsepyan, M. Manasyan, A. Potosyan, V. Asatryan. Title as printed: Աշխարհագրություն 11 — Հանրակրթական ավագ դպրոցի 11-րդ դասարանի դասագիրք (Geography 11, senior-school textbook). Grade: 11 (student/teacher: STUDENT). PDF pages: 192 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The isolated state | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 5, printed pp. 127–128 |
@@ -18,8 +20,9 @@ countries: Ethiopia, Indonesia, Mozambique
 | Teaching sequence and answer keys (teacher guide — evidence) | Ethiopia, *Geography, Teacher Guide, Grade 11*, Unit 5, guide printed pp. 136–157 |
 | Indonesia part (Grade 12) — Bab 1 A Teori lokasi Von Thünen | Indonesia, *Geografi untuk SMA/MA Kelas XII*, Grade 12, Bab 1 A Teori lokasi Von Thünen — printed p. 18 |
 | Mozambique part — Lição 4: the crop ring — outer ring of maize, groundnut, cassava, beans, sorghum, sweet potato around the settlement | Mozambique, *Mozambique Grade 10 PESD II Mod 6*, Lição 4: the crop ring — outer ring of maize, groundnut, cassava, beans, sorghum, sweet potato around the settlement — printed p. 34 |
+| Armenia part — §10 Agricultural location around markets | Armenia, *Armenia Grade 11 Geography student*, §10 Agricultural location around markets — printed p. 63 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Indonesia, Mozambique).**
+**Acceptance count: taught in 4 countries (Ethiopia, Indonesia, Mozambique, Armenia).**
 
 Indonesia's own way (Grade 12): Grade 12 is applied human geography built entirely on Indonesian cases — regional development and spatial planning (tata ruang) measured against a Happiness Index, Industry 4.0 / Society 5.0, and Indonesia's own geopolitics and ASEAN-era cooperation as pillars of national resilience. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -28,3 +31,5 @@ No book error is flagged for this lesson's pages in the placements. The student 
 Searchable tags: von thunen, isolated state, locational rent, land use rings, ethiopia, social studies, people and resources
 
 Mozambique's own way (Mozambique Grade 10 PESD II Mod 6): farming taught historically first — the Neolithic revolution, the Iron civilisation, and what the Industrial Revolution gave agriculture — then agrarian space and its natural/human factors, farming systems by development level, and the tropical systems (dryland, oasis, monsoon rice) before modern farming and livestock.
+
+Armenia's own way (Armenia Grade 11 Geography student): the senior Geography course is two big themes only — the world economy in depth (structure, division of labour, every branch, transport systems, trade) and then the environment (ecological balance, pollution of air and water, land degradation, biodiversity, ecosystem services), i.e. economy first, its ecological bill second.

@@ -1,6 +1,6 @@
 # Sources — Scale — how much smaller the map is
 
-countries: Ethiopia, Bahamas, Eritrea, Rwanda, Nicaragua
+countries: Ethiopia, Bahamas, Eritrea, Rwanda, Nicaragua, Armenia
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Bahamas, Eritrea, Rwanda, Nicaragua
 
 **Book 9:** *Ciencias Sociales 10 Grado, Educación Secundaria (PROSEN)* (student book, Spanish) — Ministerio de Educación (MINED), Nicaragua, with PROSEN / European Union support; year not printed (Primera Edición); ISBN no ISBN printed. Title as printed: Ciencias Sociales 10 Grado, Educación Secundaria (PROSEN). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 300 (cover/title page verified against the record title; byte size 106,780,055 matches the books.json record and the MINED source file). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nicaragua-placements.md.
 
+**Book 10:** *Աշխարհագրություն — Դասագիրք 7-րդ դասարանի համար (Geography, textbook for grade 7)* (student book, Armenian) — «Աստղիկ Գրատուն» (Astghik Gratun), Yerevan; year 2023; ISBN 978-9939-74-142-0. Authors: T. Vardanyan, A. Potosyan, V. Asatryan, L. Hakobyan. Title as printed: Աշխարհագրություն — Դասագիրք 7-րդ դասարանի համար (Geography, textbook for grade 7). Grade: 7 (student/teacher: STUDENT). PDF pages: 176 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). The book's legacy-font text layer was decoded with the standard Armenian font-encoding table and verified against its printed contents page. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The ratio | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 8, printed pp. 201–203 |
@@ -32,8 +34,9 @@ countries: Ethiopia, Bahamas, Eritrea, Rwanda, Nicaragua
 | Nicaragua part — La escala | Nicaragua, *Nicaragua Grade 4 Estudios Sociales G4*, La escala — printed p. 11 |
 | Nicaragua part — La escala | Nicaragua, *Nicaragua Grade 9 Estudios Sociales G9 full-year*, La escala — printed p. 4 |
 | Nicaragua part — La escala geográfica y la escala cromática | Nicaragua, *Nicaragua Grade 10 Ciencias Sociales G10 full-year*, La escala geográfica y la escala cromática — printed p. 8 |
+| Armenia part — Lesson 1.2 Site plan: scale | Armenia, *Armenia Grade 7 Geography student*, Lesson 1.2 Site plan: scale — printed p. 7 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Bahamas, Eritrea, Rwanda, Nicaragua).**
+**Acceptance count: taught in 6 countries (Ethiopia, Bahamas, Eritrea, Rwanda, Nicaragua, Armenia).**
 
 Searchable tags: map scale, ratio, large scale, small scale, social studies
 
@@ -50,3 +53,5 @@ Nicaragua's own way (Nicaragua Grade 4 Estudios Sociales G4): Units I–V are a 
 Nicaragua's own way (Nicaragua Grade 9 Estudios Sociales G9 full-year): The classroom parallel of the Grade 9 Geography module (Book 12): five world-Geography units working continent by continent (Asia, Europe, Africa and Oceania in turn for position, relief, climate, hydrography, population and economies), closing on risk prevention with disaster impact in Nicaragua and the world; the second half is world History from human evolution to the modern age. Non-Geography parts named, not placed: Unit VI evolution of human beings (printed pp. 137–144, History); Unit VII first agricultural civilisations (printed pp. 147–164, History, except the geographical-setting topics placed below); Unit VIII classical civilisations (printed pp. 165–189, History, except the topic placed below); Unit IX the medieval world (printed pp. 191–205, History); Unit X age of great changes (printed pp. 209–223, History, except the geographical discoveries placed below).
 
 Nicaragua's own way (Nicaragua Grade 10 Ciencias Sociales G10 full-year): The full-year companion to the Grade 10 Geography module (Book 1): Units I–VI repeat and deepen the same national Geography (cartography, relief and geological provinces, climate and watersheds, population, economic sectors, territorial vulnerability and SINAPRED) in classroom form, and the book's second half is a full Economics course. Non-Geography parts named, not placed: Unit IV government anti-poverty programmes (printed p. 106, Civics/social policy); Units VII–XII Economics (printed pp. 156–285): utility of economics and socio-economic formations, what the country produces, price as market regulator, commercial exchange and the banking system, state economic policy, and integration in the face of globalisation.
+
+Armenia's own way (Armenia Grade 7 Geography student): opens school geography with the geographic map itself (plan, scale, azimuth, projections) before any Earth science, and runs every theme to a summary lesson plus practical work; world economy is taught branch by branch with Armenia (ՀՀ) used as the worked example in the closing questions.

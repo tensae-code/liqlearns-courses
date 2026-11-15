@@ -1,16 +1,21 @@
 # Sources — Natural Hazards What They Are
 
-countries: Iran
+countries: Iran, Armenia
 
 **Book 1:** *جغرافیا (۳) کاربردی ـ پایه دوازدهم دوره دوم متوسطه ـ رشته ادبیات و علوم انسانی (Geography (3): Applied, Grade 12, Literature and Humanities branch)* (student book, Persian) — Ministry of Education, Organization for Educational Research and Planning (سازمان پژوهش و برنامه‌ریزی آموزشی); prepared by the Office for Compiling General and Theoretical Secondary Textbooks (دفتر تألیف کتاب‌های درسی عمومی و متوسطه نظری); ISBN 978-964-05-3133-4; book code 112218 (matches the record's C112218). Title as printed: جغرافیا (۳) کاربردی ـ پایه دوازدهم دوره دوم متوسطه ـ رشته ادبیات و علوم انسانی (Geography (3): Applied, Grade 12, Literature and Humanities branch). Grade: 12 (student/teacher: STUDENT). PDF pages: 128 (printed pagination runs 8 behind the PDF pages: printed p. 2 = PDF p. 10; title page verified as above; read via the books.json record's own ministry source file at chap.sch.ir — same book, exact byte size and page count as the record — after the GitHub route failed). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iran-placements.md.
+
+**Book 2:** *ԱՇԽԱՐՀԱԳՐՈՒԹՅՈՒՆ 10 (Geography 10)* (student book, Armenian) — Էդիթ Պրինտ (Edit Print), Yerevan; year 2023 (title page 2024); ISBN 978-9939-969-06-0. Authors: Ashot Khachatryan, Yurik Muradyan. Title as printed: ԱՇԽԱՐՀԱԳՐՈՒԹՅՈՒՆ 10 (Geography 10). Grade: 10 (student/teacher: STUDENT). PDF pages: 194 (printed 192; cover/title page verified against the record title). Verdict: COMPLETE — the senior Geography course in 7 themes: methods & cartography, lithosphere, atmosphere & climate, river hydrology, the political map of the world, world population, world natural resources. Read in full from contact sheets; every lesson opener and the printed contents (pp. 190-191) checked. Read in full from 100-DPI contact sheets (image-only book); every lesson opener and the printed contents (pp. 190-191) checked. Also read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Lesson 5 The features and kinds of natural hazards (ویژگی‌ها و انواع مخاطرات طبیعی): the chapter opens on the earthquake of Sunday evening 21 Aban 1396 (12 Nov 2017), magnitude 7.3, near Ezgeleh in Kermanshah province — hundreds killed, over ten thousand injured, thousands of homes destroyed — asking which of these hazards has struck where the pupil lives | Iran, *Iran Grade 12 Geography (3)*, Lesson 5 The features and kinds of natural hazards (ویژگی‌ها و انواع مخاطرات طبیعی): the chapter opens on the earthquake of Sunday evening 21 Aban 1396 (12 Nov 2017), magnitude 7.3, near Ezgeleh in Kermanshah province — hundreds killed, over ten thousand injured, thousands of homes destroyed — asking which of these hazards has struck where the pupil lives — printed p. 81 |
 | Sub lesson 2 — Iran's way — the book's own teaching way | Iran — the book's own way of teaching (see below) |
+| Armenia part — 2.6 The origin of natural disasters, their classification and types [placement slug: global-issues/natural-hazards-around-the-world] | Armenia, *Armenia Grade 10 Geography student*, 2.6 The origin of natural disasters, their classification and types — printed p. 77 |
 
-**Acceptance count: taught in 1 country (Iran).**
+**Acceptance count: taught in 2 countries (Iran, Armenia).**
 
 Iran's own way (Iran Grade 12 Geography (3)): 'applied' geography organised as three problems of Iranian life — settlements, transport, and natural hazards — each taken in two lessons (what it is, then how to manage it) with a geographical-skills section (GIS, time zones, remote sensing) closing each chapter.
 
 Searchable tags: natural hazards what they are, Iran, social studies, global-issues
+
+Armenia's own way (Armenia Grade 10 Geography student): grade-10 Geography is a methods-first course — it opens with the science's history, branches and GIS/GPS/aerospace methods, works through the lithosphere with a full natural-disasters lesson, and closes with resources measured by endowment; Armenia's own rivers fill the hydrology tables and Armenia's place in modern geopolitics closes the political-map theme.

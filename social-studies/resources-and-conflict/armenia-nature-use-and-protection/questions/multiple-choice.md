@@ -1,0 +1,19 @@
+# Armenia Nature Use And Protection — multiple choice
+
+Pick the one right answer.
+
+**1. (Sub lesson 1)** The first part of this lesson is —
+a) Armenia Nature Use And Protection  b) learning the alphabet  c) counting to ten
+**Answer: a) Armenia Nature Use And Protection**
+
+**2. (Sub lesson 1)** This lesson is mainly about —
+a) §20 Nature use and nature protection in the RA  b) ancient kings only  c) the Moon's phases
+**Answer: a) §20 Nature use and nature protection in the RA**
+
+**3. (Sub lesson 2)** The second part of this lesson is —
+a) Armenia's way — the book's own teaching way  b) learning to swim  c) telling the time
+**Answer: a) Armenia's way — the book's own teaching way**
+
+**4. (Sub lesson 2)** Which of these is true, from the lesson?
+a) This lesson teaches §20 Nature use and nature protection in the RA.  b) Armenia's book never studies this thing.  c) This lesson teaches nothing about its topic
+**Answer: a) This lesson teaches §20 Nature use and nature protection in the RA.**

@@ -1,6 +1,6 @@
 # Sources — The Atmosphere — Its Gases and Layers
 
-countries: Ethiopia, Myanmar, Turkey, Angola, Dominican Republic, Samoa, Colombia, India, Cambodia, Fiji, Sri Lanka, Mauritania, Yemen, Moldova, Mozambique, Jordan, Laos, Iraq, Bhutan
+countries: Ethiopia, Myanmar, Turkey, Angola, Dominican Republic, Samoa, Colombia, India, Cambodia, Fiji, Sri Lanka, Mauritania, Yemen, Moldova, Mozambique, Jordan, Laos, Iraq, Bhutan, Armenia
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -66,6 +66,8 @@ countries: Ethiopia, Myanmar, Turkey, Angola, Dominican Republic, Samoa, Colombi
 
 **Book 32:** *INTERMEDIATE GEOGRAPHY CLASS IX* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu (title page; developed with the Royal Education Council, Paro); year Reprint 2024 (page footers); ISBN no ISBN printed (no imprint page in the PDF). Title as printed: INTERMEDIATE GEOGRAPHY CLASS IX. Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 123 (cover/title page verified against the record title; byte size 10,807,956 and page count match the books.json record exactly — read via the record's ministry source URL). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
 
+**Book 33:** *ԱՇԽԱՐՀԱԳՐՈՒԹՅՈՒՆ 10 (Geography 10)* (student book, Armenian) — Էդիթ Պրինտ (Edit Print), Yerevan; year 2023 (title page 2024); ISBN 978-9939-969-06-0. Authors: Ashot Khachatryan, Yurik Muradyan. Title as printed: ԱՇԽԱՐՀԱԳՐՈՒԹՅՈՒՆ 10 (Geography 10). Grade: 10 (student/teacher: STUDENT). PDF pages: 194 (printed 192; cover/title page verified against the record title). Verdict: COMPLETE — the senior Geography course in 7 themes: methods & cartography, lithosphere, atmosphere & climate, river hydrology, the political map of the world, world population, world natural resources. Read in full from contact sheets; every lesson opener and the printed contents (pp. 190-191) checked. Read in full from 100-DPI contact sheets (image-only book); every lesson opener and the printed contents (pp. 190-191) checked. Also read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The air blanket's recipe | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed p. 22 |
@@ -101,8 +103,9 @@ countries: Ethiopia, Myanmar, Turkey, Angola, Dominican Republic, Samoa, Colombi
 | Bhutan part — Ch.7 7.3 Significance of Atmosphere | Bhutan, *Bhutan Grade 7 Geography*, Ch.7 7.3 Significance of Atmosphere — printed p. 36 |
 | Bhutan part — Ch.6 6.1 Composition of the Atmosphere | Bhutan, *Bhutan Grade 8 Geography*, Ch.6 6.1 Composition of the Atmosphere — printed p. 39 |
 | Bhutan part — Ch.6 6.2 Composition of the atmosphere | Bhutan, *Bhutan Grade 9 Geography*, Ch.6 6.2 Composition of the atmosphere — printed p. 45 |
+| Armenia part — 3.1 The atmosphere system and solar radiation (direct, scattered, reflected; albedo) | Armenia, *Armenia Grade 10 Geography student*, 3.1 The atmosphere system and solar radiation (direct, scattered, reflected; albedo) — printed p. 103 |
 
-**Acceptance count: taught in 18 countries (Ethiopia, Turkey, Angola, Dominican Republic, Samoa, Colombia, India, Cambodia, Fiji, Sri Lanka, Mauritania, Yemen, Moldova, Mozambique, Jordan, Laos, Iraq, Bhutan). Myanmar is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 19 countries (Ethiopia, Turkey, Angola, Dominican Republic, Samoa, Colombia, India, Cambodia, Fiji, Sri Lanka, Mauritania, Yemen, Moldova, Mozambique, Jordan, Laos, Iraq, Bhutan, Armenia). Myanmar is named here as teacher-guide evidence only, counted nowhere.**
 
 Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
@@ -169,3 +172,5 @@ Bhutan's own way (Bhutan Grade 7 Geography): From Class VII Geography becomes a 
 Bhutan's own way (Bhutan Grade 8 Geography): Class VIII deepens the same three strands with real map-work (scale conversion, grid references, contours and profiles) and Bhutan-specific hazard and resource content, including the Rubesa wind turbine and hydroelectric dams as national resource examples.
 
 Bhutan's own way (Bhutan Grade 9 Geography): The Intermediate level (IX–X) treats each world topic at full textbook depth and keeps the Bhutan case inside it — Soils of Bhutan, agro-ecological zones and farming practices of Bhutan, and common disasters in Bhutan (including GLOF) alongside the world disaster survey.
+
+Armenia's own way (Armenia Grade 10 Geography student): grade-10 Geography is a methods-first course — it opens with the science's history, branches and GIS/GPS/aerospace methods, works through the lithosphere with a full natural-disasters lesson, and closes with resources measured by endowment; Armenia's own rivers fill the hydrology tables and Armenia's place in modern geopolitics closes the political-map theme.

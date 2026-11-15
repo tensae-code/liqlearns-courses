@@ -103,7 +103,7 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **2998**
+Geography lessons across the eight Geography titles: **3133**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -2114,3 +2114,87 @@ Induced, Types Of Hazards And Disasters In Bhutan and
 Windstorm As A Hazard.
 (All 119 new lessons are taught in 1 country (Bhutan),
 each standing on student book(s).)
+
++135 for Armenia, 2026-11-15 — The Land and Air:
+Antarctica Geography Overview, Armenia Climate, Armenia
+General Geographic Overview, Armenia Geography
+Introduction, Armenia Geological Structure And
+Minerals, Armenia Lakes And Lake Sevan, Armenia
+Landscapes And Altitudinal Zonality, Armenia Marzes
+Regional Geography, Armenia On The World Map Position
+And Borders, Armenia Relief, Armenia Rivers, Armenia
+Soils And Vegetation, Armenian Highlands Climate,
+Armenian Highlands Geology And Relief, Armenian
+Highlands Inland Waters, Armenian Highlands Soils
+Vegetation Wildlife, Asia Geography Overview, Australia
+And Oceania Geography Overview, Australia Geography
+Overview, Azerbaijan Geography, Branches Of
+Geographical Science, Central Asia Geography Overview,
+Earths Heat Balance, East Asia Geography Overview,
+Eastern Europe Geography, Europe Geography Overview,
+General Circulation And Air Masses, Georgia Geography,
+Humidity And Precipitation Distribution, Iran
+Geography, Latin America Geography, Mountain Regions
+Development Features, Natural Zones Of The World, North
+America Geography Overview, Northern Europe Geography,
+Ocean Water Temperature And Salinity, Platforms And
+Geosynclines Mountain Building Belts, Russia Geography
+And Federal Division, South Asia Geography Overview,
+Southern Europe Geography, Southwest Asia Geography,
+USA Geography, World Ocean Floor Relief and World
+Regions And Regional Geography; Population, Transport
+and Maps: Armenia In World Geopolitics, Armenia Large
+Cities And Urbanisation, Armenia Migration And
+Emigration, Armenia Population Composition And Labour
+Resources, Armenia Population Distribution And
+Settlement, Armenia Population Growth, Armenia State
+Structure And Administrative Division, Armenia
+Transport Modes And Corridors, Armenia Transport
+System, Azerbaijan Population, China Population,
+Eastern Europe Population, Georgia Population, Grouping
+And Typology Of States, India Population, Iran
+Population, Japan Population, Latin America Population,
+Map Projections How The Globe Flattens, National
+Transport Systems Compared, Northern Europe Population,
+Political Geography And Geopolitics, Races Ethnic
+Groups And Religions Of The World, Russia Population,
+Southeast Asia Population, Southern Europe Population,
+Southwest Asia Population, State Territory And State
+Borders, Turkey Population, Urbanised Regions And
+Megalopolises, USA Population, Western Europe
+Population, World Transport Routes And Corridors and
+Yerevan The Capital; People and Resources: Climate And
+Agroclimatic Resources and Resource Endowment How Well
+A Country Is Supplied; Culture and Work: Animal
+Husbandry Geography, Arid Agrarian Regions, Armenia
+Agriculture Overview, Armenia Animal Husbandry, Armenia
+Crop Farming, Armenia Economy Overview, Armenia Energy
+Sector, Armenia Food Processing, Armenia Industry
+Overview, Armenia Land Fund And Land Use, Armenia
+Manufacturing Industry, Armenia Metallurgy And Mining,
+Armenia New Industry Branches, Armenia Services Sphere,
+Armenias Financial System, Azerbaijan Economy, Chemical
+Light And Food Industries, China Economy, Choosing
+Financial Services, Eastern Europe Economy, Economic
+Systems Traditional Market Mixed, European Union
+Regional Integration, Factors Of Production Land Labour
+Capital, Fast Growing Economies And Regions, Financial
+Fraud And Scams, France Economy, Fuel And Energy
+Industry, Georgia Economy, Germany Economy, India
+Economy, International Division Of Labour, Iran
+Economy, Japan Economy, Latin America Economy, Managing
+Credit And Loans, Market Competition And Monopoly,
+Northern Europe Economy, Personal Budget And Saving,
+Russia Economy, Southeast Asia Economy, Southern Europe
+Economy, Southwest Asia Economy, State Intervention In
+The Economy, Turkey Economy, USA Economy, Western
+Europe Economy and World Economy Development Stages;
+Resources and Conflict: Armenia Nature Use And
+Protection and Armenia Protected Areas And Red Books;
+Global Issues: Armenia Natural Disasters, Ecological
+Balance And Its Disruption, Ecosystem Services, Global
+Problems In Armenia, Sustainable Agriculture and Use
+And Protection Of Animal Resources.
+(All 135 new lessons are taught in 1 country (Armenia),
+each standing on student book(s); two also cite a
+teacher guide as evidence only.)

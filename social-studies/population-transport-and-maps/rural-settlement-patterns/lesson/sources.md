@@ -1,6 +1,6 @@
 # Sources — Rural settlement patterns
 
-countries: Ethiopia, Turkey, Haiti, Palestine, Bangladesh, Indonesia, Malaysia, Eritrea, India, Cambodia, Fiji, Slovenia, Papua New Guinea, Uganda, Syria, Venezuela, Sri Lanka, Mauritania, Afghanistan, Iran, Yemen, Pakistan, Libya, Moldova, Iraq, Nicaragua, Bhutan
+countries: Ethiopia, Turkey, Haiti, Palestine, Bangladesh, Indonesia, Malaysia, Eritrea, India, Cambodia, Fiji, Slovenia, Papua New Guinea, Uganda, Syria, Venezuela, Sri Lanka, Mauritania, Afghanistan, Iran, Yemen, Pakistan, Libya, Moldova, Iraq, Nicaragua, Bhutan, Armenia
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -80,6 +80,10 @@ countries: Ethiopia, Turkey, Haiti, Palestine, Bangladesh, Indonesia, Malaysia, 
 
 **Book 39:** *An Introduction to GEOGRAPHY Class VIII* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Royal Government of Bhutan, Thimphu; year Provisional Edition 2019, Copyright 2023, Reprint 2024; ISBN no ISBN printed. Title as printed: An Introduction to GEOGRAPHY Class VIII. Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 120 (cover/title page verified against the record title; byte size 9,992,518 and page count match the books.json record exactly — read via the record's ministry source URL). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
 
+**Book 40:** *Աշխարհագրություն — Դասագիրք 7-րդ դասարանի համար (Geography, textbook for grade 7)* (student book, Armenian) — «Աստղիկ Գրատուն» (Astghik Gratun), Yerevan; year 2023; ISBN 978-9939-74-142-0. Authors: T. Vardanyan, A. Potosyan, V. Asatryan, L. Hakobyan. Title as printed: Աշխարհագրություն — Դասագիրք 7-րդ դասարանի համար (Geography, textbook for grade 7). Grade: 7 (student/teacher: STUDENT). PDF pages: 176 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). The book's legacy-font text layer was decoded with the standard Armenian font-encoding table and verified against its printed contents page. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
+
+**Book 41:** *ԱՇԽԱՐՀԱԳՐՈՒԹՅՈՒՆ 10 (Geography 10)* (student book, Armenian) — Էդիթ Պրինտ (Edit Print), Yerevan; year 2023 (title page 2024); ISBN 978-9939-969-06-0. Authors: Ashot Khachatryan, Yurik Muradyan. Title as printed: ԱՇԽԱՐՀԱԳՐՈՒԹՅՈՒՆ 10 (Geography 10). Grade: 10 (student/teacher: STUDENT). PDF pages: 194 (printed 192; cover/title page verified against the record title). Verdict: COMPLETE — the senior Geography course in 7 themes: methods & cartography, lithosphere, atmosphere & climate, river hydrology, the political map of the world, world population, world natural resources. Read in full from contact sheets; every lesson opener and the printed contents (pp. 190-191) checked. Read in full from 100-DPI contact sheets (image-only book); every lesson opener and the printed contents (pp. 190-191) checked. Also read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The three patterns | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 4, printed pp. 104–107 |
@@ -122,8 +126,10 @@ countries: Ethiopia, Turkey, Haiti, Palestine, Bangladesh, Indonesia, Malaysia, 
 | Bhutan part — 1.5 Village | Bhutan, *Bhutan Grade 4 Social Studies*, 1.5 Village — printed p. 6 |
 | Bhutan part — Ch.11 11.3 Settlement Pattern | Bhutan, *Bhutan Grade 7 Geography*, Ch.11 11.3 Settlement Pattern — printed p. 55 |
 | Bhutan part — Ch.11 11.2 Patterns of Rural Settlements | Bhutan, *Bhutan Grade 8 Geography*, Ch.11 11.2 Patterns of Rural Settlements — printed p. 72 |
+| Armenia part — Lesson 5.6 Settlement: rural settlements | Armenia, *Armenia Grade 7 Geography student*, Lesson 5.6 Settlement: rural settlements — printed p. 122 |
+| Armenia part — 6.7 Settlement and its forms | Armenia, *Armenia Grade 10 Geography student*, 6.7 Settlement and its forms — printed p. 159 |
 
-**Acceptance count: taught in 25 countries (Ethiopia, Turkey, Palestine, Bangladesh, Indonesia, Malaysia, Eritrea, India, Cambodia, Fiji, Slovenia, Uganda, Syria, Venezuela, Sri Lanka, Mauritania, Afghanistan, Iran, Yemen, Pakistan, Libya, Moldova, Iraq, Nicaragua, Bhutan). Haiti is named here as teacher-sequence evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 26 countries (Ethiopia, Turkey, Palestine, Bangladesh, Indonesia, Malaysia, Eritrea, India, Cambodia, Fiji, Slovenia, Uganda, Syria, Venezuela, Sri Lanka, Mauritania, Afghanistan, Iran, Yemen, Pakistan, Libya, Moldova, Iraq, Nicaragua, Bhutan, Armenia). Haiti is named here as teacher-sequence evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Indonesia's own way (Grade 12): Grade 12 is applied human geography built entirely on Indonesian cases — regional development and spatial planning (tata ruang) measured against a Happiness Index, Industry 4.0 / Society 5.0, and Indonesia's own geopolitics and ASEAN-era cooperation as pillars of national resilience. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -200,3 +206,7 @@ Bhutan's own way (Bhutan Grade 4 Social Studies): Social Studies IV–VI integra
 Bhutan's own way (Bhutan Grade 7 Geography): From Class VII Geography becomes a standalone subject organised in three strands (Time and Space; Physical Environment; People and Environment), every world topic closed with its Bhutan case — climate of Bhutan, vegetation types of Bhutan, minerals of Bhutan, and Bhutan's Himalayan disaster set (earthquake, flood, windstorm, fire, GLOF).
 
 Bhutan's own way (Bhutan Grade 8 Geography): Class VIII deepens the same three strands with real map-work (scale conversion, grid references, contours and profiles) and Bhutan-specific hazard and resource content, including the Rubesa wind turbine and hydroelectric dams as national resource examples.
+
+Armenia's own way (Armenia Grade 7 Geography student): opens school geography with the geographic map itself (plan, scale, azimuth, projections) before any Earth science, and runs every theme to a summary lesson plus practical work; world economy is taught branch by branch with Armenia (ՀՀ) used as the worked example in the closing questions.
+
+Armenia's own way (Armenia Grade 10 Geography student): grade-10 Geography is a methods-first course — it opens with the science's history, branches and GIS/GPS/aerospace methods, works through the lithosphere with a full natural-disasters lesson, and closes with resources measured by endowment; Armenia's own rivers fill the hydrology tables and Armenia's place in modern geopolitics closes the political-map theme.

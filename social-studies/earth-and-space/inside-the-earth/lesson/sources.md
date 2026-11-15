@@ -1,6 +1,6 @@
 # Sources — Inside the Earth — Crust, Mantle, Core
 
-countries: Ethiopia, Belarus, Dominican Republic, Colombia, Malaysia, India, North Macedonia, Cambodia, Fiji, Slovenia, Papua New Guinea, Syria, Sri Lanka, Mauritania, Kuwait, Afghanistan, Yemen, Pakistan, Libya, Moldova, Nepal, Mozambique, Jordan, Nicaragua, Bhutan
+countries: Ethiopia, Belarus, Dominican Republic, Colombia, Malaysia, India, North Macedonia, Cambodia, Fiji, Slovenia, Papua New Guinea, Syria, Sri Lanka, Mauritania, Kuwait, Afghanistan, Yemen, Pakistan, Libya, Moldova, Nepal, Mozambique, Jordan, Nicaragua, Bhutan, Armenia
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page - 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md.
 
@@ -72,6 +72,8 @@ countries: Ethiopia, Belarus, Dominican Republic, Colombia, Malaysia, India, Nor
 
 **Book 36:** *ADVANCED GEOGRAPHY CLASS XI* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Thimphu; year Provisional Edition 2022, Copyright 2023, Reprint 2024; ISBN no ISBN printed. Title as printed: ADVANCED GEOGRAPHY CLASS XI. Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 182 (cover/title page verified against the record title; byte size 19,627,789 and page count match the books.json record exactly — read via the record's ministry source URL; this book is also the TSV release record grade-11-gov-bhutan-geography-full-year.pdf, same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
 
+**Book 37:** *ԱՇԽԱՐՀԱԳՐՈՒԹՅՈՒՆ 10 (Geography 10)* (student book, Armenian) — Էդիթ Պրինտ (Edit Print), Yerevan; year 2023 (title page 2024); ISBN 978-9939-969-06-0. Authors: Ashot Khachatryan, Yurik Muradyan. Title as printed: ԱՇԽԱՐՀԱԳՐՈՒԹՅՈՒՆ 10 (Geography 10). Grade: 10 (student/teacher: STUDENT). PDF pages: 194 (printed 192; cover/title page verified against the record title). Verdict: COMPLETE — the senior Geography course in 7 themes: methods & cartography, lithosphere, atmosphere & climate, river hydrology, the political map of the world, world population, world natural resources. Read in full from contact sheets; every lesson opener and the printed contents (pp. 190-191) checked. Read in full from 100-DPI contact sheets (image-only book); every lesson opener and the printed contents (pp. 190-191) checked. Also read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The three layers | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 1, printed pp. 28–29 |
@@ -109,8 +111,9 @@ countries: Ethiopia, Belarus, Dominican Republic, Colombia, Malaysia, India, Nor
 | Nicaragua part — Estructura y composición de la Tierra | Nicaragua, *Nicaragua Grade 4 Estudios Sociales G4*, Estructura y composición de la Tierra — printed p. 18 |
 | Bhutan part — Ch.2 2.2 Structure and composition of the Earth's interior | Bhutan, *Bhutan Grade 10 Geography*, Ch.2 2.2 Structure and composition of the Earth's interior — printed p. 6 |
 | Bhutan part — Ch.1 1.2 Structure and composition of the Earth | Bhutan, *Bhutan Grade 11 Geography*, Ch.1 1.2 Structure and composition of the Earth — printed p. 1 |
+| Armenia part — 2.1 The Earth's internal structure and the origin of the Earth's crust | Armenia, *Armenia Grade 10 Geography student*, 2.1 The Earth's internal structure and the origin of the Earth's crust — printed p. 55 |
 
-**Acceptance count: taught in 24 countries (Ethiopia, Belarus, Dominican Republic, Colombia, Malaysia, India, North Macedonia, Cambodia, Fiji, Slovenia, Syria, Sri Lanka, Mauritania, Kuwait, Afghanistan, Yemen, Pakistan, Libya, Moldova, Nepal, Mozambique, Jordan, Nicaragua, Bhutan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 25 countries (Ethiopia, Belarus, Dominican Republic, Colombia, Malaysia, India, North Macedonia, Cambodia, Fiji, Slovenia, Syria, Sri Lanka, Mauritania, Kuwait, Afghanistan, Yemen, Pakistan, Libya, Moldova, Nepal, Mozambique, Jordan, Nicaragua, Bhutan, Armenia). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 The "how we know" sub lesson rests on teacher-guide evidence, labelled as such in its name here and in the lesson; the pupil-taught layers sub lesson carries the acceptance count. Pairing warning: the Grade 7 teacher guide is an Addis Ababa bureau book and the student books are Amhara bureau books; they are NOT edition-matched. Pupil content in this lesson comes from the student book; anything from the guide is labelled (teacher guide — evidence) and never presented as pupil-taught.
 
@@ -179,3 +182,5 @@ Nicaragua's own way (Nicaragua Grade 4 Estudios Sociales G4): Units I–V are a 
 Bhutan's own way (Bhutan Grade 10 Geography): Class X pairs deep physical theory (Big Bang, plate tectonics, the making of the Himalayas) with an applied Bhutan block — climate and vegetation zones of Bhutan, Bhutanese agriculture's challenges and advancement, industries and their distribution, and a Bhutan disaster chapter that adds Education in Emergency.
 
 Bhutan's own way (Bhutan Grade 11 Geography): The Advanced level (XI–XII) is full academic geography — map projections, remote sensing and GIS, insolation and pressure belts, climate classification — with Bhutan applied chapters on agriculture, manufacturing and tourism, the last taught on Bhutan's own sustainability principle ("high value, low volume" in the Bhutan Tourism Monitor data the book uses).
+
+Armenia's own way (Armenia Grade 10 Geography student): grade-10 Geography is a methods-first course — it opens with the science's history, branches and GIS/GPS/aerospace methods, works through the lithosphere with a full natural-disasters lesson, and closes with resources measured by endowment; Armenia's own rivers fill the hydrology tables and Armenia's place in modern geopolitics closes the political-map theme.

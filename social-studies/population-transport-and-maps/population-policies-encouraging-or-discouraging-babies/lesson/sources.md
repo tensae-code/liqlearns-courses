@@ -1,6 +1,6 @@
 # Sources — Population policies — encouraging or discouraging babies
 
-countries: Ethiopia, Turkmenistan, Rwanda, Fiji, Papua New Guinea, Iran, Mozambique
+countries: Ethiopia, Turkmenistan, Rwanda, Fiji, Papua New Guinea, Iran, Mozambique, Armenia
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Turkmenistan, Rwanda, Fiji, Papua New Guinea, Iran, Mozambi
 
 **Book 7:** *Módulo 5 de Geografia — População* (student book, Portuguese) — Ministério da Educação / IEDA; year not printed (uploaded to IEDA site 2022); no ISBN printed. Title as printed: Módulo 5 de Geografia — População. Grade: Grades 10–12 cycle (2º Ciclo), filed as Grade 10 (student/teacher: STUDENT). PDF pages: 109 (title page verified against the record title; byte size 5,447,158 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
 
+**Book 8:** *Աշխարհագրություն — Դասագիրք 7-րդ դասարանի համար (Geography, textbook for grade 7)* (student book, Armenian) — «Աստղիկ Գրատուն» (Astghik Gratun), Yerevan; year 2023; ISBN 978-9939-74-142-0. Authors: T. Vardanyan, A. Potosyan, V. Asatryan, L. Hakobyan. Title as printed: Աշխարհագրություն — Դասագիրք 7-րդ դասարանի համար (Geography, textbook for grade 7). Grade: 7 (student/teacher: STUDENT). PDF pages: 176 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). The book's legacy-font text layer was decoded with the standard Armenian font-encoding table and verified against its printed contents page. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Direct and indirect influence | G12 student #48, printed pp. 100–102 |
@@ -26,8 +28,9 @@ countries: Ethiopia, Turkmenistan, Rwanda, Fiji, Papua New Guinea, Iran, Mozambi
 | Papua New Guinea part — Unit 11.4: population policies of different countries, e.g. China's one-child policy (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 11 Geography TG OBE* (teacher guide), Unit 11.4: population policies of different countries, e.g. China's one-child policy — printed p. 35 |
 | Iran part — Characteristics of Iran's population (Iran's population policies across the decades) | Iran, *Iran Grade 10 Geography of Iran*, Characteristics of Iran's population (Iran's population policies across the decades) — printed p. 74 |
 | Mozambique part — Lição 7: Evolução da População nos Países Desenvolvidos (pro-natalist measures — family allowances from the 2nd child in Germany, 3rd in France; abortion restriction) | Mozambique, *Mozambique Grade 10 PESD II Mod 5*, Lição 7: Evolução da População nos Países Desenvolvidos (pro-natalist measures — family allowances from the 2nd child in Germany, 3rd in France; abortion restriction) — printed p. 49 |
+| Armenia part — Lesson 5.2 Demographic policy | Armenia, *Armenia Grade 7 Geography student*, Lesson 5.2 Demographic policy — printed p. 107 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Turkmenistan, Fiji, Iran, Mozambique). Rwanda is named here as teacher-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 6 countries (Ethiopia, Turkmenistan, Fiji, Iran, Mozambique, Armenia). Rwanda is named here as teacher-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 No book error in the placements for this lesson is taught here. Policy types are taught exactly as the placements report them. Note on stacking: this G12 lesson is a new, deeper statement of its topic; the G11 lesson 'Population policies — government's open and hidden hand' and the Grade 7 optimum/balance lesson stand separately in this title and in People and Resources — nothing in them was overwritten.
 
@@ -44,3 +47,5 @@ Papua New Guinea's own way (Papua New Guinea Grades 11–12 Geography TG OBE) (t
 Iran's own way (Iran Grade 10 Geography of Iran): the whole of Grade 10 geography is one national book — Iran's own natural and human geography for every branch; nearly every lesson closes with a "know your own living place" activity tied to the separate provincial-studies book, so national content is always re-applied to the learner's own province.
 
 Mozambique's own way (Mozambique Grade 10 PESD II Mod 5): population geography taught as a developed-world/developing-world contrast throughout — distribution factors, growth, Malthus and the transition, then the two evolutions (developed countries; the "Terceiro Mundo" set) with their opposite population policies, closing on structures, demographic problems (incl. HIV cutting life expectancy below 50) and population–economy/environment relations.
+
+Armenia's own way (Armenia Grade 7 Geography student): opens school geography with the geographic map itself (plan, scale, azimuth, projections) before any Earth science, and runs every theme to a summary lesson plus practical work; world economy is taught branch by branch with Armenia (ՀՀ) used as the worked example in the closing questions.

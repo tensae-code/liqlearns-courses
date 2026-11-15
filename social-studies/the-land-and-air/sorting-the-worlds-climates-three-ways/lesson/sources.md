@@ -1,6 +1,6 @@
 # Sources — Sorting the world's climates — three ways
 
-countries: Ethiopia, Ecuador, Colombia, Malaysia, Cambodia, Fiji, Slovenia, Papua New Guinea, Uganda, Syria, Sri Lanka, Mauritania, Afghanistan, Moldova, Nepal, Mozambique, Jordan, Laos, Iraq, Nicaragua, Bhutan
+countries: Ethiopia, Ecuador, Colombia, Malaysia, Cambodia, Fiji, Slovenia, Papua New Guinea, Uganda, Syria, Sri Lanka, Mauritania, Afghanistan, Moldova, Nepal, Mozambique, Jordan, Laos, Iraq, Nicaragua, Bhutan, Armenia
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -70,6 +70,8 @@ countries: Ethiopia, Ecuador, Colombia, Malaysia, Cambodia, Fiji, Slovenia, Papu
 
 **Book 34:** *ADVANCED GEOGRAPHY CLASS XI* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Thimphu; year Provisional Edition 2022, Copyright 2023, Reprint 2024; ISBN no ISBN printed. Title as printed: ADVANCED GEOGRAPHY CLASS XI. Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 182 (cover/title page verified against the record title; byte size 19,627,789 and page count match the books.json record exactly — read via the record's ministry source URL; this book is also the TSV release record grade-11-gov-bhutan-geography-full-year.pdf, same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
 
+**Book 35:** *Աշխարհագրություն — Դասագիրք 7-րդ դասարանի համար (Geography, textbook for grade 7)* (student book, Armenian) — «Աստղիկ Գրատուն» (Astghik Gratun), Yerevan; year 2023; ISBN 978-9939-74-142-0. Authors: T. Vardanyan, A. Potosyan, V. Asatryan, L. Hakobyan. Title as printed: Աշխարհագրություն — Դասագիրք 7-րդ դասարանի համար (Geography, textbook for grade 7). Grade: 7 (student/teacher: STUDENT). PDF pages: 176 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). The book's legacy-font text layer was decoded with the standard Armenian font-encoding table and verified against its printed contents page. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Why classify at all | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 2, printed pp. 28–29 |
@@ -108,8 +110,9 @@ countries: Ethiopia, Ecuador, Colombia, Malaysia, Cambodia, Fiji, Slovenia, Papu
 | Nicaragua part — Climas de los continentes (Asia, Europa, África, Oceanía, Australia, Nueva Zelanda) | Nicaragua, *Nicaragua Grade 9 Estudios Sociales G9 full-year*, Climas de los continentes (Asia, Europa, África, Oceanía, Australia, Nueva Zelanda) — printed p. 40 |
 | Nicaragua part — Clima de los continentes | Nicaragua, *Nicaragua Grade 9 CCSS Geografía Módulo G9*, Clima de los continentes — printed p. 85 |
 | Bhutan part — Ch.8 8.2 Classification of the climatic zones | Bhutan, *Bhutan Grade 11 Geography*, Ch.8 8.2 Classification of the climatic zones — printed p. 101 |
+| Armenia part — Lesson 3.6 Main climate types: climate diagrams (climographs) | Armenia, *Armenia Grade 7 Geography student*, Lesson 3.6 Main climate types: climate diagrams (climographs) — printed p. 70 |
 
-**Acceptance count: taught in 20 countries (Ethiopia, Ecuador, Colombia, Malaysia, Cambodia, Fiji, Slovenia, Uganda, Syria, Sri Lanka, Mauritania, Afghanistan, Moldova, Nepal, Mozambique, Jordan, Laos, Iraq, Nicaragua, Bhutan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 21 countries (Ethiopia, Ecuador, Colombia, Malaysia, Cambodia, Fiji, Slovenia, Uganda, Syria, Sri Lanka, Mauritania, Afghanistan, Moldova, Nepal, Mozambique, Jordan, Laos, Iraq, Nicaragua, Bhutan, Armenia). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 No book error is flagged for this lesson's pages in the placements. The student book's body numbering for Unit Two drifts from its own contents (regions printed as 2.4, factors as 2.5, local classification as 2.6, where the contents and the teacher guide's contents agree on 2.3, 2.4 and 2.5); this lesson follows the contents numbering and teaches no misprint.
 
@@ -178,3 +181,5 @@ Nicaragua's own way (Nicaragua Grade 9 Estudios Sociales G9 full-year): The clas
 Nicaragua's own way (Nicaragua Grade 9 CCSS Geografía Módulo G9): A pure-Geography self-study module (no History/Civics in this book): the Grade 9 world-Geography course taught continent by continent — position and political organisation, physical landscape, human diversity, production and consumption, and a closing planet-care unit on prevention and mitigation — with Nicaragua used as the home reference point throughout.
 
 Bhutan's own way (Bhutan Grade 11 Geography): The Advanced level (XI–XII) is full academic geography — map projections, remote sensing and GIS, insolation and pressure belts, climate classification — with Bhutan applied chapters on agriculture, manufacturing and tourism, the last taught on Bhutan's own sustainability principle ("high value, low volume" in the Bhutan Tourism Monitor data the book uses).
+
+Armenia's own way (Armenia Grade 7 Geography student): opens school geography with the geographic map itself (plan, scale, azimuth, projections) before any Earth science, and runs every theme to a summary lesson plus practical work; world economy is taught branch by branch with Armenia (ՀՀ) used as the worked example in the closing questions.

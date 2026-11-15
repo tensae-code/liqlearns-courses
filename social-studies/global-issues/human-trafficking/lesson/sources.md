@@ -1,6 +1,6 @@
 # Sources — Human Trafficking
 
-countries: Ethiopia, Costa Rica, Bolivia
+countries: Ethiopia, Costa Rica, Bolivia, Armenia
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (placements 114–115).
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Costa Rica, Bolivia
 
 **Book 4:** *Área: Ciencias Sociales — Sexto Año, Educación Secundaria Comunitaria Productiva (Campo: Comunidad y Sociedad)* (student book, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; year 2024; no ISBN printed. Title as printed: Área: Ciencias Sociales — Sexto Año, Educación Secundaria Comunitaria Productiva (Campo: Comunidad y Sociedad). Grade 12 (student). 126 PDF pp. (cover verified against the record title; byte size 14,185,463 and page count match the staging books.json record exactly; read from the book's recorded source_url). Verdict: COMPLETE (combined book — Geography parts placed below; History/Civics/Economics parts named here, not placed: the Second World War and the Cold War; decolonisation of Asia and Africa and apartheid; the 1952 National Revolution, universal vote and mine nationalisation as history; military dictatorships and neoliberalism; the return to democracy, autonomies and revocatory referendums; identity, discrimination and despatriarcalización; youth political rights; child and adolescent labour law; money, the boliviano and inflation (economics)). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bolivia-placements.md.
 
+**Book 5:** *ՀԱՍԱՐԱԿԱԳԻՏՈՒԹՅՈՒՆ 12-րդ դասարան — Հանրակրթական ավագ դպրոցի դասագիրք (Social Science 12, senior-school textbook)* (student book, Armenian) — «Զանգակ» (Zangak), Yerevan; year 2025; ISBN 978-9939-99-287-7. Authors: A. Khudoyan, V. Avagyan, N. Grigoryan. Title as printed: ՀԱՍԱՐԱԿԱԳԻՏՈՒԹՅՈՒՆ 12-րդ դասարան — Հանրակրթական ավագ դպրոցի դասագիրք (Social Science 12, senior-school textbook). Grade: 12 (student/teacher: STUDENT). PDF pages: 152 (printed 152; cover/title page verified against the record title). Verdict: COMPLETE — combined Social Science. Geography-scope part placed below: Theme 4 "Globalisation" (printed pp. 102-151). NOT placed (named for later waves): Theme 1 "Psychology of the personality" (pp. 5-47), Theme 2 "Foundations of philosophy" (pp. 48-81), Theme 3 "Components of human life" (pp. 82-101). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The modern slavery: brokers luring rural youth to cities; trafficking defined (force or false promises, coastal shelters, forced work for profit); the symbol of modern slavery — hidden domestic service and forced marriage, children begging, youth into war, organs taken, people sold alive; causes grouped social/economic/political | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 7, printed pp. 156–158 |
@@ -17,8 +19,9 @@ countries: Ethiopia, Costa Rica, Bolivia
 | Sub lesson 3 — Child trafficking and the health bill (teacher guide — evidence): child trafficking defined (under 18, recruited/transported/harboured/received by threats or force for exploitation); victims' sufferings itemised — inhumane living conditions, poor sanitation, inadequate nutrition, poor hygiene, physical and emotional attacks, dangerous workplaces, occupational hazards | Ethiopia, *Social Studies Teacher's Guide, Grade 7*, §7.4, printed pp. 114–116 (teacher guide — evidence) |
 | Costa Rica part — contemporary population problems in a world of contrasts — family planning, teenage pregnancy, forced marriage and trafficking in persons | Costa Rica, *Antología CONED 10*, Grade 10, Unit 3 Tema I C — printed p. 225 |
 | Bolivia part — Trafficking in persons vs smuggling of migrants: similarities and differences (stocked here from the placements' named target population-transport-and-maps/human-trafficking-and-migrant-smuggling, which does not exist in the course; this is the closest existing lesson covering that thing) | Bolivia, *Ciencias Sociales, Sexto Año de Secundaria*, Grade 12, Trafficking in persons vs smuggling of migrants: similarities and differences — printed p. 109 |
+| Armenia part — 4.2 Trafficking as a global problem | Armenia, *Armenia Grade 12 Social Science student*, 4.2 Trafficking as a global problem — printed p. 117 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Costa Rica, Bolivia).**
+**Acceptance count: taught in 4 countries (Ethiopia, Costa Rica, Bolivia, Armenia).**
 
 The Addis Ababa Grade 7 teacher guide is NOT edition-matched to the Amhara student books (different bureau, different year, different language of instruction); guide material is used only as labelled teacher evidence, never as pupil content from the student book. The guide's keyed causes are shorter than the student book's and are not substituted for them. No book error flagged by the placements touches this part of the chapter. There is NO Grade 8 teacher-guide coverage for Chapter 7: the Grade 8 guide in hand holds only Units 1–3, so no teacher evidence is claimed for any Grade 8 part of this lesson.
 
@@ -27,3 +30,5 @@ Costa Rica's own way: two-thirds contemporary History/geopolitics, then a closin
 Bolivia's own way (Grade 12, Sexto Año): The final year opens with the census itself — the censista's work as civic-geographic practice — and later teaches geopolitics critically: Haushofer and geopolitical thought, geographic scales, and natural resources as a product of human knowledge (Sunkel), alongside Bolivia's own resource politics: the Gas War, hydrocarbon nationalisation and the urea plant that industrialises gas.
 
 Searchable tags: human trafficking, modern slavery, brokers, child trafficking under 18, illegal migration, Ethiopia Grade 7 Social Studies Chapter 7 and teacher guide Unit 7, Costa Rica, CONED Antología, Estudios Sociales, Bolivia, Ciencias Sociales Bolivia
+
+Armenia's own way (Armenia Grade 12 Social Science student): the final Social Science year fuses philosophy and psychology, and closes the whole six-year course with globalisation and global problems — including their impact on Armenia itself.

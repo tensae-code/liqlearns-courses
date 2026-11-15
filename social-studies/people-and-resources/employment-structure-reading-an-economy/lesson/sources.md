@@ -1,6 +1,6 @@
 # Sources — Employment structure — reading an economy
 
-countries: Ethiopia, Mongolia, Cambodia, Venezuela, Moldova, Mozambique
+countries: Ethiopia, Mongolia, Cambodia, Venezuela, Moldova, Mozambique, Armenia
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). Editors: Sintayehu Teka (MSc) (Content Editor), Kassie Molla (MA) (Language Editor), Hirut Woldemichael (MA) (Curriculum Editor). Illustrator: Agenchw Nega (MSc). Designer: Geda Hoka (MA). Evaluators: Dereje Guteta (PhD), Tesfaye Shiferaw (PhD), Abebe Yibeltie (MA), Hussein Seid (MA). First published 2023 under GEQIP-E. ISBN 978-99990-0-049-9. Printed by Gravity Group IND LLC, 13th Industrial Area, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. Printed page = PDF page − 6 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Mongolia, Cambodia, Venezuela, Moldova, Mozambique
 
 **Book 7:** *Módulo 5 de Geografia — População* (student book, Portuguese) — Ministério da Educação / IEDA; year not printed (uploaded to IEDA site 2022); no ISBN printed. Title as printed: Módulo 5 de Geografia — População. Grade: Grades 10–12 cycle (2º Ciclo), filed as Grade 10 (student/teacher: STUDENT). PDF pages: 109 (title page verified against the record title; byte size 5,447,158 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
 
+**Book 8:** *Աշխարհագրություն 11 — Հանրակրթական ավագ դպրոցի 11-րդ դասարանի դասագիրք (Geography 11, senior-school textbook)* (student book, Armenian) — «Զանգակ» (Zangak), Yerevan; year 2025; ISBN 978-9939-99-284-6. Authors: A. Hovsepyan, M. Manasyan, A. Potosyan, V. Asatryan. Title as printed: Աշխարհագրություն 11 — Հանրակրթական ավագ դպրոցի 11-րդ դասարանի դասագիրք (Geography 11, senior-school textbook). Grade: 11 (student/teacher: STUDENT). PDF pages: 192 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Primary, secondary, tertiary | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 5, printed pp. 121–123 |
@@ -28,8 +30,9 @@ countries: Ethiopia, Mongolia, Cambodia, Venezuela, Moldova, Mozambique
 | Venezuela part — Venezuela Petrolera: la población activa | Venezuela, *Venezuela Grade 9 G9 Geography Venezuela*, Venezuela Petrolera: la población activa — printed p. 128 |
 | Moldova part — 18. Socioeconomic structure of population; human resources | Moldova, *Moldova Grade 11 G11 Geography*, 18. Socioeconomic structure of population; human resources — printed p. 46 |
 | Mozambique part — Lição 10: Estrutura Profissional e Sectorial da População (population by activity sectors; USA advanced-technology shift) | Mozambique, *Mozambique Grade 10 PESD II Mod 5*, Lição 10: Estrutura Profissional e Sectorial da População (population by activity sectors; USA advanced-technology shift) — printed p. 71 |
+| Armenia part — §2 Reading an economy by its employment/output structure | Armenia, *Armenia Grade 11 Geography student*, §2 Reading an economy by its employment/output structure — printed p. 10 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Mongolia, Cambodia, Venezuela, Moldova, Mozambique).**
+**Acceptance count: taught in 7 countries (Ethiopia, Mongolia, Cambodia, Venezuela, Moldova, Mozambique, Armenia).**
 
 Mongolia's own way (Grade 8): the Grade 8 year is the LOCAL year — every chapter is re-anchored to the child's own орон нутаг (local area/homeland): its environment and problems, its heritage, its economy and market, its governance. The book's Law/Civics parts (Chapters IV–V, printed pp. 63–94) are named in the placements, not placed. That way is stocked here as the way Mongolia teaches this thing.
 
@@ -44,3 +47,5 @@ Venezuela's own way (Venezuela Grade 9 G9 Geography Venezuela): a full national 
 Moldova's own way (Moldova Grade 11 G11 Geography): a human geography of the world year — political map and state typology, natural resources by sphere, population and settlements, then the world economy branch by branch (agriculture, each industry, services, transport, tourism), closing with economic-geographic characterisations of 14 states on every continent (Egypt among them) written to one template, plus case studies including labour migration at local/regional/global scale and using Google Maps/Google Earth as geo-information portals.
 
 Mozambique's own way (Mozambique Grade 10 PESD II Mod 5): population geography taught as a developed-world/developing-world contrast throughout — distribution factors, growth, Malthus and the transition, then the two evolutions (developed countries; the "Terceiro Mundo" set) with their opposite population policies, closing on structures, demographic problems (incl. HIV cutting life expectancy below 50) and population–economy/environment relations.
+
+Armenia's own way (Armenia Grade 11 Geography student): the senior Geography course is two big themes only — the world economy in depth (structure, division of labour, every branch, transport systems, trade) and then the environment (ecological balance, pollution of air and water, land degradation, biodiversity, ecosystem services), i.e. economy first, its ecological bill second.

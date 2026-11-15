@@ -1,6 +1,6 @@
 # Sources — The gap between rich and poor countries
 
-countries: Ethiopia, Haiti, Palestine, Cambodia, Syria, Venezuela, Yemen, Mozambique
+countries: Ethiopia, Haiti, Palestine, Cambodia, Syria, Venezuela, Yemen, Mozambique, Armenia
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Haiti, Palestine, Cambodia, Syria, Venezuela, Yemen, Mozamb
 
 **Book 10:** *Módulo 7 de Geografia — Indústria e Comércio* (student book, Portuguese) — Ministério da Educação / IEDA; year not printed (uploaded to IEDA site 2022); no ISBN printed. Title as printed: Módulo 7 de Geografia — Indústria e Comércio. Grade: Grades 10–12 cycle (2º Ciclo), filed as Grade 10 (student/teacher: STUDENT). PDF pages: 80 (title page verified against the record title; byte size 3,077,013 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE (contents page skips the Lição 3 number; the lesson is present in the body at printed p. 19). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
 
+**Book 11:** *ՀԱՍԱՐԱԿԱԳԻՏՈՒԹՅՈՒՆ 11-րդ դասարան — Հանրակրթական ավագ դպրոցի դասագիրք (Social Science 11, senior-school textbook)* (student book, Armenian) — «Զանգակ» (Zangak), Yerevan; year 2025; ISBN 978-9939-99-280-8. Authors: N. Galstyan, T. Simonyan, A. Manucharyan. Title as printed: ՀԱՍԱՐԱԿԱԳԻՏՈՒԹՅՈՒՆ 11-րդ դասարան — Հանրակրթական ավագ դպրոցի դասագիրք (Social Science 11, senior-school textbook). Grade: 11 (student/teacher: STUDENT). PDF pages: 192 (cover/title page verified against the record title). Read from the record's armedu.am source_url: the GitHub release copy of this book is corrupt (no xref/trailer, unopenable) — see the log's library debts.. Verdict: COMPLETE — combined Social Science. Geography-scope part placed below: Theme 2 "The state's role in the economy" (printed pp. 46-76). NOT placed (named for later waves): Theme 1 "State system and mechanisms of rights protection" (pp. 5-45), Theme 3 "Political participation and elections" (pp. 77-108), Theme 4 "Parties and interest groups" (pp. 109-132), Theme 5 "International law" (pp. 133-165), Theme 6 "International relations and foreign policy" (pp. 166-191). Read from the record's own armedu.am source_url (cover + text verified as the same book): the GitHub release copy of this book is corrupt (no xref/trailer, unopenable) — library debt carried exactly as the placements file records it. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The gap and its causes | G12 student #57, printed pp. 134–138 |
@@ -37,8 +39,9 @@ countries: Ethiopia, Haiti, Palestine, Cambodia, Syria, Venezuela, Yemen, Mozamb
 | Venezuela part — Somos latinoamericanos y del mundo: world space and its inequalities | Venezuela, *Venezuela Grade 4 G4 CS Venezuela y Su Gente*, Somos latinoamericanos y del mundo: world space and its inequalities — printed p. 46 |
 | Yemen part — Unit 6 Lesson 1 Disparity in Global Economic Development | Yemen, *Yemen Grade 8 G8 Geography of the Continents*, Unit 6 Lesson 1 Disparity in Global Economic Development — printed p. 96 |
 | Mozambique part — Lição 9: A Desigualdade no Comércio Mundial (raw-material producers forced to negotiate with the great trading companies) | Mozambique, *Mozambique Grade 10 PESD II Mod 7*, Lição 9: A Desigualdade no Comércio Mundial (raw-material producers forced to negotiate with the great trading companies) — printed p. 61 |
+| Armenia part — 2.1 The gap between rich and poor countries | Armenia, *Armenia Grade 11 Social Science student*, 2.1 The gap between rich and poor countries — printed p. 46 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Palestine, Cambodia, Syria, Venezuela, Yemen, Mozambique). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 8 countries (Ethiopia, Palestine, Cambodia, Syria, Venezuela, Yemen, Mozambique, Armenia). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
 
 Haiti's own way (teacher sequence — evidence): World inequality is questioned through the words used for it (Nord/Sud, développé/sous-développé) and through Haiti's own case — a rich-country/poor-country comparison (Canada or USA vs Haiti), the independence debt, food insecurity and Covid vaccination in Haiti — with every claim built from authenticated statistics, graphs and maps crossed from local to world scale. That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
@@ -61,3 +64,5 @@ Venezuela's own way (Venezuela Grade 4 G4 CS Venezuela y Su Gente): geography is
 Yemen's own way (Yemen Grade 8 G8 Geography of the Continents): Grade 8 tours the continents one by one — natural features, population, economic activities — with one country studied in depth per continent (Indonesia, Eritrea, Germany, the USA, Brazil), and closes on contemporary world issues.
 
 Mozambique's own way (Mozambique Grade 10 PESD II Mod 7): industry taught as a long history — from Palaeolithic tool-making through manufacture and mercantilism to the Industrial Revolution and its consequences — before location, types and industrial landscapes; commerce likewise from barter and the invention of coin to trade blocs and unequal world flows.
+
+Armenia's own way (Armenia Grade 11 Social Science student): grade-11 Social Science is the state year — law, the economy's state, elections, parties, international law and relations — with the economy theme measuring countries by GDP, growth, inflation and unemployment before judging state intervention.

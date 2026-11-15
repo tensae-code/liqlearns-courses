@@ -1,6 +1,6 @@
 # Sources — Natural Resources — Non-Renewable Resources
 
-countries: Ethiopia, Bangladesh, Eritrea, Sudan, Jordan
+countries: Ethiopia, Bangladesh, Eritrea, Sudan, Jordan, Armenia
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (placement 62).
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Bangladesh, Eritrea, Sudan, Jordan
 
 **Book 7:** *علوم الأرض والبيئة — الصف الحادي عشر — كتاب الطالب — الفصل الدراسي الثاني (Earth Science and Environment, Grade 11, Term 2)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-635-8. Title as printed: علوم الأرض والبيئة — الصف الحادي عشر — كتاب الطالب — الفصل الدراسي الثاني (Earth Science and Environment, Grade 11, Term 2). Grade: 11 (student/teacher: STUDENT). PDF pages: 78 (cover verified; byte size 41,973,359 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
 
+**Book 8:** *Աշխարհագրություն 12 — Հանրակրթական ավագ դպրոցի 12-րդ դասարանի դասագիրք (Geography 12, senior-school textbook)* (student book, Armenian) — «Զանգակ» (Zangak), Yerevan; year 2025; ISBN 978-9939-99-290-7. Authors: M. Manasyan, A. Hovsepyan, A. Potosyan. Title as printed: Աշխարհագրություն 12 — Հանրակրթական ավագ դպրոցի 12-րդ դասարանի դասագիրք (Geography 12, senior-school textbook). Grade: 12 (student/teacher: STUDENT). PDF pages: 132 (printed 128; cover/title page verified against the record title). Verdict: COMPLETE. Read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Whole lesson opening — pupils separate a remade metal from a burned fuel | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 3, printed pp. 82–83 |
@@ -29,8 +31,9 @@ countries: Ethiopia, Bangladesh, Eritrea, Sudan, Jordan
 | Jordan part — Unit 1: world consumption of fossil fuels, energy sources activity | Jordan, *Jordan G12 ES T1 Workbook (10385)*, Unit 1: world consumption of fossil fuels, energy sources activity — printed p. 7 |
 | Jordan part — Unit 3 Lesson 1: The Origin of Fossil Fuels (نشأة الوقود الأحفوري) | Jordan, *Jordan G11 ES T2*, Unit 3 Lesson 1: The Origin of Fossil Fuels (نشأة الوقود الأحفوري) — printed p. 10 |
 | Jordan part — Unit 3 Lesson 2: Types of Fossil Fuels (أنواع الوقود الأحفوري) | Jordan, *Jordan G11 ES T2*, Unit 3 Lesson 2: Types of Fossil Fuels (أنواع الوقود الأحفوري) — printed p. 18 |
+| Armenia part — §10 The problem of mineral raw materials | Armenia, *Armenia Grade 12 Geography student*, §10 The problem of mineral raw materials — printed p. 76 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Bangladesh, Eritrea, Sudan, Jordan).**
+**Acceptance count: taught in 6 countries (Ethiopia, Bangladesh, Eritrea, Sudan, Jordan, Armenia).**
 
 No book error flagged by the placements touches this lesson.
 
@@ -47,3 +50,5 @@ Jordan's own way (Jordan G11 ES T2 Workbook): the activities book turns the stud
 Jordan's own way (Jordan G12 ES T1 Workbook (10385)): the activities book opens the final year with the greenhouse effect modelled on the bench and acid rain simulated, then structures, plate tectonics through the Dead Sea transform, and geological exploration with Jordan-flavoured map work.
 
 Jordan's own way (Jordan G11 ES T2): Term 2 is fossil fuels — their origin, kinds, and Jordan's own (oil shale, gas) with the petrochemical industry — then earthquakes and volcanoes.
+
+Armenia's own way (Armenia Grade 12 Geography student): the final Geography year is thematic, not regional-by-continent: first "distinctive" region types (fast-growing, urbanised, mountain, arid-agrarian, integrating Western Europe), then humanity's global problems one by one, closing on sustainable development — with mountain-country development read through Armenia's own case.

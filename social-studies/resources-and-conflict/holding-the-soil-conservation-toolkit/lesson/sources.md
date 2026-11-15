@@ -1,6 +1,6 @@
 # Sources — Holding the soil — conservation toolkit
 
-countries: Ethiopia, Angola, Eritrea, India, Sri Lanka, Mozambique, Bhutan
+countries: Ethiopia, Angola, Eritrea, India, Sri Lanka, Mozambique, Bhutan, Armenia
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Angola, Eritrea, India, Sri Lanka, Mozambique, Bhutan
 
 **Book 10:** *ADVANCED GEOGRAPHY CLASS XII* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Thimphu; year Provisional Edition 2023, Copyright 2023, Reprint 2024; ISBN no ISBN printed. Title as printed: ADVANCED GEOGRAPHY CLASS XII. Grade: Grade 12 (student/teacher: STUDENT). PDF pages: 144 (title page verified against the record title — PDF p.3, after a royal-message frontispiece; byte size 4,875,259 and page count match the books.json record exactly — read via the record's ministry source URL). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
 
+**Book 11:** *Աշխարհագրություն 11 — Հանրակրթական ավագ դպրոցի 11-րդ դասարանի դասագիրք (Geography 11, senior-school textbook)* (student book, Armenian) — «Զանգակ» (Zangak), Yerevan; year 2025; ISBN 978-9939-99-284-6. Authors: A. Hovsepyan, M. Manasyan, A. Potosyan, V. Asatryan. Title as printed: Աշխարհագրություն 11 — Հանրակրթական ավագ դպրոցի 11-րդ դասարանի դասագիրք (Geography 11, senior-school textbook). Grade: 11 (student/teacher: STUDENT). PDF pages: 192 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Biological measures | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 7, printed pp. 182–185 |
@@ -35,8 +37,9 @@ countries: Ethiopia, Angola, Eritrea, India, Sri Lanka, Mozambique, Bhutan
 | Mozambique part — Lição 5 (headed "Lição 6" in the book): Importância dos Solos (soil destruction in days vs centuries to form; rational land use) | Mozambique, *Mozambique Grade 10 PESD II Mod 4*, Lição 5 (headed "Lição 6" in the book): Importância dos Solos (soil destruction in days vs centuries to form; rational land use) — printed p. 28 |
 | Bhutan part — Ch.5 5.6 Soil conservation | Bhutan, *Bhutan Grade 9 Geography*, Ch.5 5.6 Soil conservation — printed p. 42 |
 | Bhutan part — Ch.5 5.5 Soil conservation | Bhutan, *Bhutan Grade 12 Geography*, Ch.5 5.5 Soil conservation — printed p. 53 |
+| Armenia part — §24 Land protection and restoration | Armenia, *Armenia Grade 11 Geography student*, §24 Land protection and restoration — printed p. 157 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Angola, Eritrea, India, Sri Lanka, Mozambique, Bhutan).**
+**Acceptance count: taught in 8 countries (Ethiopia, Angola, Eritrea, India, Sri Lanka, Mozambique, Bhutan, Armenia).**
 
 Searchable tags: soil conservation, afforestation, reforestation, terracing, contour ploughing, area closure, social studies
 
@@ -55,3 +58,5 @@ Mozambique's own way (Mozambique Grade 10 PESD II Mod 4): two half-courses bound
 Bhutan's own way (Bhutan Grade 9 Geography): The Intermediate level (IX–X) treats each world topic at full textbook depth and keeps the Bhutan case inside it — Soils of Bhutan, agro-ecological zones and farming practices of Bhutan, and common disasters in Bhutan (including GLOF) alongside the world disaster survey.
 
 Bhutan's own way (Bhutan Grade 12 Geography): Class XII closes the Advanced course with specialist topics (surveying, geospatial technologies, glaciers and the "Third Pole", Köppen in full, fluvial processes, Davis's cycle of erosion) and Bhutan data chapters — fertility and mortality trends in Bhutan, migration trends, hydropower in Bhutan, and creative industries including Bhutanese film.
+
+Armenia's own way (Armenia Grade 11 Geography student): the senior Geography course is two big themes only — the world economy in depth (structure, division of labour, every branch, transport systems, trade) and then the environment (ecological balance, pollution of air and water, land degradation, biodiversity, ecosystem services), i.e. economy first, its ecological bill second.

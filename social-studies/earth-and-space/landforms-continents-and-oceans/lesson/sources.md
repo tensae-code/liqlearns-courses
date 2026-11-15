@@ -1,6 +1,6 @@
 # Sources — Landforms, Continents and Oceans
 
-countries: Ethiopia, Saudi Arabia, France, Guatemala, Ecuador, Malaysia, Eritrea, Rwanda, Papua New Guinea, Afghanistan, Yemen, Pakistan, Moldova, Honduras, Nepal, Jordan, Laos, Bhutan
+countries: Ethiopia, Saudi Arabia, France, Guatemala, Ecuador, Malaysia, Eritrea, Rwanda, Papua New Guinea, Afghanistan, Yemen, Pakistan, Moldova, Honduras, Nepal, Jordan, Laos, Bhutan, Armenia
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page - 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md.
 
@@ -66,6 +66,10 @@ countries: Ethiopia, Saudi Arabia, France, Guatemala, Ecuador, Malaysia, Eritrea
 
 **Book 32:** *SOCIAL STUDIES CLASS V* (student book, English) — Center for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; year Provisional Edition 2020, Reprint 2025; ISBN no ISBN printed (blank ISBN line on imprint page). Title as printed: SOCIAL STUDIES CLASS V. Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 78 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
 
+**Book 33:** *Աշխարհագրություն — Դասագիրք 7-րդ դասարանի համար (Geography, textbook for grade 7)* (student book, Armenian) — «Աստղիկ Գրատուն» (Astghik Gratun), Yerevan; year 2023; ISBN 978-9939-74-142-0. Authors: T. Vardanyan, A. Potosyan, V. Asatryan, L. Hakobyan. Title as printed: Աշխարհագրություն — Դասագիրք 7-րդ դասարանի համար (Geography, textbook for grade 7). Grade: 7 (student/teacher: STUDENT). PDF pages: 176 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). The book's legacy-font text layer was decoded with the standard Armenian font-encoding table and verified against its printed contents page. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
+
+**Book 34:** *ԱՇԽԱՐՀԱԳՐՈՒԹՅՈՒՆ 10 (Geography 10)* (student book, Armenian) — Էդիթ Պրինտ (Edit Print), Yerevan; year 2023 (title page 2024); ISBN 978-9939-969-06-0. Authors: Ashot Khachatryan, Yurik Muradyan. Title as printed: ԱՇԽԱՐՀԱԳՐՈՒԹՅՈՒՆ 10 (Geography 10). Grade: 10 (student/teacher: STUDENT). PDF pages: 194 (printed 192; cover/title page verified against the record title). Verdict: COMPLETE — the senior Geography course in 7 themes: methods & cartography, lithosphere, atmosphere & climate, river hydrology, the political map of the world, world population, world natural resources. Read in full from contact sheets; every lesson opener and the printed contents (pp. 190-191) checked. Read in full from 100-DPI contact sheets (image-only book); every lesson opener and the printed contents (pp. 190-191) checked. Also read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Landforms: how the Earth's face is made | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 1, printed p. 26 |
@@ -99,12 +103,14 @@ countries: Ethiopia, Saudi Arabia, France, Guatemala, Ecuador, Malaysia, Eritrea
 | Laos part — Part I Lesson 1: Continents and oceans | Laos, *Laos Grade 7 laos-g07-geography-student*, Part I Lesson 1: Continents and oceans — printed p. 1 |
 | Laos part — Part I Lesson 3: Continents, oceans and seas | Laos, *Laos Grade 10 laos-g10-geography-student*, Part I Lesson 3: Continents, oceans and seas — printed p. 20 |
 | Bhutan part — 1.3 Continents and Oceans | Bhutan, *Bhutan Grade 5 Social Studies*, 1.3 Continents and Oceans — printed p. 3 |
+| Armenia part — Lesson 2.3 Continents | Armenia, *Armenia Grade 7 Geography student*, Lesson 2.3 Continents — printed p. 34 |
+| Armenia part — 2.5 The relief of the Earth's surface | Armenia, *Armenia Grade 10 Geography student*, 2.5 The relief of the Earth's surface — printed p. 72 |
 
 | France part — Thème 1 Entrer dans le thème: Continents et océans, les repères spatiaux | France, *Géographie 2de GT, Manuel Libre de Géographie, Seconde*, Grade 10, Sommaire Thème 1 |
 | Ecuador part — El relieve (Unit 2, Las irregularidades de la Tierra) | Ecuador, *Estudios Sociales 3ro EGB (SM 2016)*, Grade 3, El relieve (Unit 2, Las irregularidades de la Tierra) — printed p. 34 |
 | Ecuador part — Formación de la Tierra; características de continentes, océanos y mares (inside the cartography tema, per its evaluation criterion) | Ecuador, *Estudios Sociales 8vo EGB*, Grade 8, Formación de la Tierra; características de continentes, océanos y mares (inside the cartography tema, per its evaluation criterion) — printed p. 99 |
 
-**Acceptance count: taught in 17 countries (Ethiopia, Saudi Arabia, France, Guatemala, Ecuador, Malaysia, Eritrea, Rwanda, Afghanistan, Yemen, Pakistan, Moldova, Honduras, Nepal, Jordan, Laos, Bhutan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 18 countries (Ethiopia, Saudi Arabia, France, Guatemala, Ecuador, Malaysia, Eritrea, Rwanda, Afghanistan, Yemen, Pakistan, Moldova, Honduras, Nepal, Jordan, Laos, Bhutan, Armenia). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 No book errors are flagged by the placements for these pages. Areas are the book's printed table figures (Table 2).
 
@@ -169,3 +175,7 @@ Laos's own way (Laos Grade 7 laos-g07-geography-student): the student twin of Bo
 Laos's own way (Laos Grade 10 laos-g10-geography-student): the student twin of Book 6 — same 6 parts / 20 lessons with full illustrated text, opening with a concept map of the whole year (Earth, life zones, population and quality of life, humans and environment, organisation of geographic space, rural and urban geography).
 
 Bhutan's own way (Bhutan Grade 5 Social Studies): Grade 5 spirals from the Earth and lat/long straight into Bhutan itself — its location, three physical zones, neighbours, major rivers and protected areas — so world geography is anchored in the home country's map first.
+
+Armenia's own way (Armenia Grade 7 Geography student): opens school geography with the geographic map itself (plan, scale, azimuth, projections) before any Earth science, and runs every theme to a summary lesson plus practical work; world economy is taught branch by branch with Armenia (ՀՀ) used as the worked example in the closing questions.
+
+Armenia's own way (Armenia Grade 10 Geography student): grade-10 Geography is a methods-first course — it opens with the science's history, branches and GIS/GPS/aerospace methods, works through the lithosphere with a full natural-disasters lesson, and closes with resources measured by endowment; Armenia's own rivers fill the hydrology tables and Armenia's place in modern geopolitics closes the political-map theme.

@@ -1,6 +1,6 @@
 # Sources — Kinds of unemployment
 
-countries: Ethiopia, Mongolia, Samoa
+countries: Ethiopia, Mongolia, Samoa, Armenia
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). Editors: Sintayehu Teka (MSc) (Content Editor), Kassie Molla (MA) (Language Editor), Hirut Woldemichael (MA) (Curriculum Editor). Illustrator: Agenchw Nega (MSc). Designer: Geda Hoka (MA). Evaluators: Dereje Guteta (PhD), Tesfaye Shiferaw (PhD), Abebe Yibeltie (MA), Hussein Seid (MA). First published 2023 under GEQIP-E. ISBN 978-99990-0-049-9. Printed by Gravity Group IND LLC, 13th Industrial Area, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. Printed page = PDF page − 6 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Mongolia, Samoa
 
 **Book 4:** *Social Studies — Year 10, Book 3* (student book, English) — Government of Samoa, Department of Education; year 2002; ISBN 982-517-030-1. Title as printed: Social Studies — Year 10, Book 3. Year 10 (student/teacher: STUDENT). PDF pages: 99 (cover/title page verified against the record title). Verdict: COMPLETE (Geography parts placed below). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/samoa-placements.md.
 
+**Book 5:** *ՀԱՍԱՐԱԿԱԳԻՏՈՒԹՅՈՒՆ 11-րդ դասարան — Հանրակրթական ավագ դպրոցի դասագիրք (Social Science 11, senior-school textbook)* (student book, Armenian) — «Զանգակ» (Zangak), Yerevan; year 2025; ISBN 978-9939-99-280-8. Authors: N. Galstyan, T. Simonyan, A. Manucharyan. Title as printed: ՀԱՍԱՐԱԿԱԳԻՏՈՒԹՅՈՒՆ 11-րդ դասարան — Հանրակրթական ավագ դպրոցի դասագիրք (Social Science 11, senior-school textbook). Grade: 11 (student/teacher: STUDENT). PDF pages: 192 (cover/title page verified against the record title). Read from the record's armedu.am source_url: the GitHub release copy of this book is corrupt (no xref/trailer, unopenable) — see the log's library debts.. Verdict: COMPLETE — combined Social Science. Geography-scope part placed below: Theme 2 "The state's role in the economy" (printed pp. 46-76). NOT placed (named for later waves): Theme 1 "State system and mechanisms of rights protection" (pp. 5-45), Theme 3 "Political participation and elections" (pp. 77-108), Theme 4 "Parties and interest groups" (pp. 109-132), Theme 5 "International law" (pp. 133-165), Theme 6 "International relations and foreign policy" (pp. 166-191). Read from the record's own armedu.am source_url (cover + text verified as the same book): the GitHub release copy of this book is corrupt (no xref/trailer, unopenable) — library debt carried exactly as the placements file records it. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What employment means | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 5, printed pp. 129–131 |
@@ -18,8 +20,9 @@ countries: Ethiopia, Mongolia, Samoa
 | Teaching pattern and answer keys (teacher guide — evidence) | Ethiopia, *Geography, Teacher Guide, Grade 10*, Unit 5, guide printed pp. 85–116 |
 | Mongolia part — Macroeconomic problems — inflation and unemployment | Mongolia, *Нийгэм судлал X (Social Studies X)*, Grade 10, Chapter 4 Economics: 4.2 Macroeconomic problems — inflation and unemployment — printed p. 81 |
 | Samoa part (Year 10, Book 3) — Unit 2 Topic 2 The Reasons for Changes to Participation | Samoa, *Social Studies, Year 10, Book 3*, Unit 2 Topic 2 The Reasons for Changes to Participation — printed p. 51 |
+| Armenia part — 2.2 Unemployment and its socio-economic consequences | Armenia, *Armenia Grade 11 Social Science student*, 2.2 Unemployment and its socio-economic consequences — printed p. 57 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Mongolia, Samoa).**
+**Acceptance count: taught in 4 countries (Ethiopia, Mongolia, Samoa, Armenia).**
 
 Mongolia's own way (Grade 10): the senior cycle drops the “Individual and…” frame for straight disciplines — Society, Culture, Law, Economics, Politics, International Relations — with Mongolia's own culture, macroeconomy and foreign relations as the worked examples. The book's Sociology parts (Chapter 1, printed pp. 5–15) and Law/Civics parts (Chapter 3, printed pp. 49–72; Chapter 5, printed pp. 97–117; Chapter 6 except the placed topics, printed pp. 119–135) are named in the placements, not placed. That way is stocked here as the way Mongolia teaches this thing.
 
@@ -28,3 +31,5 @@ Carried from the placements' pairing verdict: the teacher guide's unemployment a
 Searchable tags: unemployment kinds, voluntary involuntary, employability, prevailing wage, ethiopia, social studies, people and resources, Mongolia, Нийгэм судлал
 
 Samoa's own way (Year 10, Book 3): Access to resources is split into economic and social factors with Pacific examples, and development is taught as change that can bring conflict in places — ending in consensus-building and appropriate technology for small island states.
+
+Armenia's own way (Armenia Grade 11 Social Science student): grade-11 Social Science is the state year — law, the economy's state, elections, parties, international law and relations — with the economy theme measuring countries by GDP, growth, inflation and unemployment before judging state intervention.

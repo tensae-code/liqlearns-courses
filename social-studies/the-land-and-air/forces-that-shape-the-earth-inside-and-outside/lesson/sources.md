@@ -1,6 +1,6 @@
 # Sources — Forces that shape the Earth — inside and outside
 
-countries: Ethiopia, Cambodia, Rwanda, Vietnam, Papua New Guinea, Syria, Iran, Yemen, Pakistan, Libya, Nepal, Mozambique, Jordan, Nicaragua, Bhutan
+countries: Ethiopia, Cambodia, Rwanda, Vietnam, Papua New Guinea, Syria, Iran, Yemen, Pakistan, Libya, Nepal, Mozambique, Jordan, Nicaragua, Bhutan, Armenia
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -42,6 +42,10 @@ countries: Ethiopia, Cambodia, Rwanda, Vietnam, Papua New Guinea, Syria, Iran, Y
 
 **Book 20:** *ADVANCED GEOGRAPHY CLASS XI* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Thimphu; year Provisional Edition 2022, Copyright 2023, Reprint 2024; ISBN no ISBN printed. Title as printed: ADVANCED GEOGRAPHY CLASS XI. Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 182 (cover/title page verified against the record title; byte size 19,627,789 and page count match the books.json record exactly — read via the record's ministry source URL; this book is also the TSV release record grade-11-gov-bhutan-geography-full-year.pdf, same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
 
+**Book 21:** *Աշխարհագրություն — Դասագիրք 7-րդ դասարանի համար (Geography, textbook for grade 7)* (student book, Armenian) — «Աստղիկ Գրատուն» (Astghik Gratun), Yerevan; year 2023; ISBN 978-9939-74-142-0. Authors: T. Vardanyan, A. Potosyan, V. Asatryan, L. Hakobyan. Title as printed: Աշխարհագրություն — Դասագիրք 7-րդ դասարանի համար (Geography, textbook for grade 7). Grade: 7 (student/teacher: STUDENT). PDF pages: 176 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). The book's legacy-font text layer was decoded with the standard Armenian font-encoding table and verified against its printed contents page. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
+
+**Book 22:** *ԱՇԽԱՐՀԱԳՐՈՒԹՅՈՒՆ 10 (Geography 10)* (student book, Armenian) — Էդիթ Պրինտ (Edit Print), Yerevan; year 2023 (title page 2024); ISBN 978-9939-969-06-0. Authors: Ashot Khachatryan, Yurik Muradyan. Title as printed: ԱՇԽԱՐՀԱԳՐՈՒԹՅՈՒՆ 10 (Geography 10). Grade: 10 (student/teacher: STUDENT). PDF pages: 194 (printed 192; cover/title page verified against the record title). Verdict: COMPLETE — the senior Geography course in 7 themes: methods & cartography, lithosphere, atmosphere & climate, river hydrology, the political map of the world, world population, world natural resources. Read in full from contact sheets; every lesson opener and the printed contents (pp. 190-191) checked. Read in full from 100-DPI contact sheets (image-only book); every lesson opener and the printed contents (pp. 190-191) checked. Also read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Two families of forces | G12 student #9, printed pp. 11–12, 24 |
@@ -65,8 +69,10 @@ countries: Ethiopia, Cambodia, Rwanda, Vietnam, Papua New Guinea, Syria, Iran, Y
 | Nicaragua part — Fuerzas que construyen y modelan el relieve | Nicaragua, *Nicaragua Grade 10 Ciencias Sociales G10 full-year*, Fuerzas que construyen y modelan el relieve — printed p. 40 |
 | Bhutan part — Ch.5 5.2 Basic Processes of Land formation | Bhutan, *Bhutan Grade 7 Geography*, Ch.5 5.2 Basic Processes of Land formation — printed p. 20 |
 | Bhutan part — Ch.1 Earth's Movement (endogenic and exogenic forces) | Bhutan, *Bhutan Grade 11 Geography*, Ch.1 Earth's Movement (endogenic and exogenic forces) — printed p. 6 |
+| Armenia part — Lesson 2.8 Theme summary "Formation of the Earth's surface: geographic features of the World Ocean" | Armenia, *Armenia Grade 7 Geography student*, Lesson 2.8 Theme summary "Formation of the Earth's surface: geographic features of the World Ocean" — printed p. 50 |
+| Armenia part — 2.10 Internal and external forces in relief formation | Armenia, *Armenia Grade 10 Geography student*, 2.10 Internal and external forces in relief formation — printed p. 97 |
 
-**Acceptance count: taught in 14 countries (Ethiopia, Cambodia, Rwanda, Vietnam, Syria, Iran, Yemen, Pakistan, Libya, Nepal, Mozambique, Jordan, Nicaragua, Bhutan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 15 countries (Ethiopia, Cambodia, Rwanda, Vietnam, Syria, Iran, Yemen, Pakistan, Libya, Nepal, Mozambique, Jordan, Nicaragua, Bhutan, Armenia). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Placement honesty carried: the placements place the eruption-style / Krakatoa passage before the 1.4.2 heading, inside the flow of 1.4.1's closing pages (printed p. 24) — a layout slip in the book, named here; the content itself is taught as the placements give it.
 
@@ -109,3 +115,7 @@ Nicaragua's own way (Nicaragua Grade 10 Ciencias Sociales G10 full-year): The fu
 Bhutan's own way (Bhutan Grade 7 Geography): From Class VII Geography becomes a standalone subject organised in three strands (Time and Space; Physical Environment; People and Environment), every world topic closed with its Bhutan case — climate of Bhutan, vegetation types of Bhutan, minerals of Bhutan, and Bhutan's Himalayan disaster set (earthquake, flood, windstorm, fire, GLOF).
 
 Bhutan's own way (Bhutan Grade 11 Geography): The Advanced level (XI–XII) is full academic geography — map projections, remote sensing and GIS, insolation and pressure belts, climate classification — with Bhutan applied chapters on agriculture, manufacturing and tourism, the last taught on Bhutan's own sustainability principle ("high value, low volume" in the Bhutan Tourism Monitor data the book uses).
+
+Armenia's own way (Armenia Grade 7 Geography student): opens school geography with the geographic map itself (plan, scale, azimuth, projections) before any Earth science, and runs every theme to a summary lesson plus practical work; world economy is taught branch by branch with Armenia (ՀՀ) used as the worked example in the closing questions.
+
+Armenia's own way (Armenia Grade 10 Geography student): grade-10 Geography is a methods-first course — it opens with the science's history, branches and GIS/GPS/aerospace methods, works through the lithosphere with a full natural-disasters lesson, and closes with resources measured by endowment; Armenia's own rivers fill the hydrology tables and Armenia's place in modern geopolitics closes the political-map theme.

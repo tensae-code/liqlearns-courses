@@ -1,6 +1,6 @@
 # Sources — Where Africans live — density map
 
-countries: Ethiopia, Slovenia, Yemen, Moldova, Laos
+countries: Ethiopia, Slovenia, Yemen, Moldova, Laos, Armenia
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). First published 2023 under GEQIP-E. ISBN: 978-99990-0-049-9. 205 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Slovenia, Yemen, Moldova, Laos
 
 **Book 6:** *ແບບຮຽນ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 2 (Textbook, Geography, Secondary Year 2)* (student book, Lao) — Ministry of Education, Educational Science Research Institute; year 2011; ISBN no ISBN printed. Title as printed: ແບບຮຽນ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 2 (Textbook, Geography, Secondary Year 2). Grade: Grade 7 (ມ.2) (student/teacher: STUDENT). PDF pages: 103 (title page verified against the record title; byte size 29,605,428 exact match to the books.json record, read via the release asset). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/laos-placements.md.
 
+**Book 7:** *Աշխարհագրություն (Հասարակական աշխարհագրություն: Տարածաշրջաններ և պետություններ) — Geography (Social geography: Regions and states), textbook for grade 8* (student book, Armenian) — «ՄԱՆՄԱՐ» (Manmar), Yerevan; year 2024; ISBN 978-9939-62-281-1. Authors: A. Hovsepyan, R. Margaryan. Approved by the RA Ministry of Education, Science, Culture and Sport. Title as printed: Աշխարհագրություն (Հասարակական աշխարհագրություն: Տարածաշրջաններ և պետություններ) — Geography (Social geography: Regions and states), textbook for grade 8. Grade: 8 (student/teacher: STUDENT). PDF pages: 177 (printed 176; cover/title page verified against the record title). Verdict: COMPLETE. Read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Distribution and density — two words for the map | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 4, printed pp. 112–113 |
@@ -23,8 +25,9 @@ countries: Ethiopia, Slovenia, Yemen, Moldova, Laos
 | Moldova part — 11. Africa: population distribution and density; racial structure | Moldova, *Moldova Grade 6 G6 Geography*, 11. Africa: population distribution and density; racial structure — printed p. 46 |
 | Laos part — Part II Lesson 5: Population in Africa | Laos, *Laos Grade 7 laos-g07-geography-teacher*, Part II Lesson 5: Population in Africa — printed p. 18 (teacher-guide evidence) |
 | Laos part — Part II Lesson 5: Population in Africa | Laos, *Laos Grade 7 laos-g07-geography-student*, Part II Lesson 5: Population in Africa — printed p. 28 |
+| Armenia part — Lesson 54 Africa: population | Armenia, *Armenia Grade 8 Geography student*, Lesson 54 Africa: population — printed p. 155 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Slovenia, Yemen, Moldova, Laos).**
+**Acceptance count: taught in 6 countries (Ethiopia, Slovenia, Yemen, Moldova, Laos, Armenia).**
 
 Pairing: the teacher guide was first published in 2022 and the student textbook in 2023, with the same writers and the same eight units in the same order; the student book is the learner text of record, and teacher-guide rows above are evidence only.
 
@@ -39,3 +42,5 @@ Moldova's own way (Moldova Grade 6 G6 Geography): a "Geography of the Continents
 Laos's own way (Laos Grade 7 laos-g07-geography-teacher): a continents year — general physical geography first, then continent by continent (Africa, Europe, the Americas, Oceania), each treated the same way: natural conditions, population, economy, then country case studies (Egypt, South Africa, Russia, France, USA, Brazil, Australia); closes with an additional-knowledge appendix (printed p. 69), not placed separately.
 
 Laos's own way (Laos Grade 7 laos-g07-geography-student): the student twin of Book 3 — same 5 parts / 22 lessons (continents year) with full illustrated text and per-continent maps.
+
+Armenia's own way (Armenia Grade 8 Geography student): a pure regional-geography year — the world is divided into regions following the UN scheme, each region and chosen state is studied in the same fixed order (position, natural conditions and resources, population, economy), and Armenia's neighbours (Georgia, Azerbaijan, Turkey, Iran) get full country lessons of their own.

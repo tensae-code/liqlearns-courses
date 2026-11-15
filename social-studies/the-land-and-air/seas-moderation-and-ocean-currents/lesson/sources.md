@@ -1,6 +1,6 @@
 # Sources — Sea’s moderation and ocean currents
 
-countries: Ethiopia, Dominican Republic, Mozambique
+countries: Ethiopia, Dominican Republic, Mozambique, Armenia
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Dominican Republic, Mozambique
 
 **Book 4:** *Módulo 2 de Geografia — Ambiente Bioclimático* (student book, Portuguese) — Ministério da Educação / IEDA; year not printed (uploaded to IEDA site 2022); no ISBN printed. Title as printed: Módulo 2 de Geografia — Ambiente Bioclimático. Grade: Grades 10–12 cycle (2º Ciclo), filed as Grade 10 (student/teacher: STUDENT). PDF pages: 137 (title page verified against the record title; byte size 7,185,973 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
 
+**Book 5:** *Աշխարհագրություն — Դասագիրք 7-րդ դասարանի համար (Geography, textbook for grade 7)* (student book, Armenian) — «Աստղիկ Գրատուն» (Astghik Gratun), Yerevan; year 2023; ISBN 978-9939-74-142-0. Authors: T. Vardanyan, A. Potosyan, V. Asatryan, L. Hakobyan. Title as printed: Աշխարհագրություն — Դասագիրք 7-րդ դասարանի համար (Geography, textbook for grade 7). Grade: 7 (student/teacher: STUDENT). PDF pages: 176 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). The book's legacy-font text layer was decoded with the standard Armenian font-encoding table and verified against its printed contents page. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Moderation | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 2, printed pp. 44–46 |
@@ -17,11 +19,14 @@ countries: Ethiopia, Dominican Republic, Mozambique
 | Teaching pattern and answer keys (teacher guide — evidence) — Grade 9 Unit 2 | Ethiopia, *Geography, Teacher Guide, Grade 9*, Unit 2, guide printed pp. 35–60 |
 | Dominican Republic part (Grade 10) — Ocean currents of the continents | Dominican Republic, *Ciencias Sociales, Cuarto Grado, Secundaria (Libro Abierto)*, Grade 10, Ocean currents of the continents — printed p. 44 (the placements name the target as earth-and-space/ocean-currents; that slug does not exist, so this placement is stocked in this closest covering lesson, with the original slug recorded here) |
 | Mozambique part — Lição 5: Variação da temperatura — continentalidade (land–sea contrasts, diurnal amplitude) | Mozambique, *Mozambique Grade 10 PESD II Mod 2*, Lição 5: Variação da temperatura — continentalidade (land–sea contrasts, diurnal amplitude) — printed p. 34 |
+| Armenia part — Lesson 2.7 Movement of water in the World Ocean: tides and ebbs | Armenia, *Armenia Grade 7 Geography student*, Lesson 2.7 Movement of water in the World Ocean: tides and ebbs — printed p. 46 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Dominican Republic, Mozambique).**
+**Acceptance count: taught in 4 countries (Ethiopia, Dominican Republic, Mozambique, Armenia).**
 
 Searchable tags: sea moderation, continentality, ocean currents, climate controls, social studies
 
 Dominican Republic's own way (Grade 10): This is the physical-geography year: the universe and Earth's layers, continental drift with volcanoes and earthquakes — including earthquake-prevention measures as a group task — water and winds across the continents, and a closing unit on political and economic geography that treats borders, geopolitical order and international climate agreements as geography, with hurricane-season citizen responsibility as the water unit's group activity.
 
 Mozambique's own way (Mozambique Grade 10 PESD II Mod 2): a full physical-climatology course — atmosphere structure to magnetosphere, heat balance, pressure/wind circulation, air masses and fronts, humidity and precipitation, the water cycle, then Köppen/Thornthwaite classification worked through climate tables with African station graphs (Arkassa, Tamanrasset, Algiers), closing on protection of bioclimatic resources.
+
+Armenia's own way (Armenia Grade 7 Geography student): opens school geography with the geographic map itself (plan, scale, azimuth, projections) before any Earth science, and runs every theme to a summary lesson plus practical work; world economy is taught branch by branch with Armenia (ՀՀ) used as the worked example in the closing questions.

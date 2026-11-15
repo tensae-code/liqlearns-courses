@@ -1,6 +1,6 @@
 # Sources — What makes populations change
 
-countries: Ethiopia, Colombia, India, Rwanda, Fiji, Papua New Guinea, Uganda, Venezuela, Mauritania, Kuwait, Iran, Pakistan, Libya, Nepal, Mozambique, Bhutan
+countries: Ethiopia, Colombia, India, Rwanda, Fiji, Papua New Guinea, Uganda, Venezuela, Mauritania, Kuwait, Iran, Pakistan, Libya, Nepal, Mozambique, Bhutan, Armenia
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). Editors: Sintayehu Teka (MSc) (Content Editor), Kassie Molla (MA) (Language Editor), Hirut Woldemichael (MA) (Curriculum Editor). Illustrator: Agenchw Nega (MSc). Designer: Geda Hoka (MA). Evaluators: Dereje Guteta (PhD), Tesfaye Shiferaw (PhD), Abebe Yibeltie (MA), Hussein Seid (MA). First published 2023 under GEQIP-E. ISBN 978-99990-0-049-9. Printed by Gravity Group IND LLC, 13th Industrial Area, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. Printed page = PDF page − 6 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md
 
@@ -62,6 +62,10 @@ countries: Ethiopia, Colombia, India, Rwanda, Fiji, Papua New Guinea, Uganda, Ve
 
 **Book 30:** *INTERMEDIATE GEOGRAPHY CLASS X* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu (title page; developed with the Royal Education Council, Paro); year Reprint 2024 (page footers); ISBN no ISBN printed (no imprint page in the PDF). Title as printed: INTERMEDIATE GEOGRAPHY CLASS X. Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 124 (cover/title page verified against the record title; byte size 12,820,771 and page count match the books.json record exactly — read via the record's ministry source URL; this book is also the TSV release record grade-10-gov-bhutan-geography-full-year.pdf, same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
 
+**Book 31:** *Աշխարհագրություն — Դասագիրք 7-րդ դասարանի համար (Geography, textbook for grade 7)* (student book, Armenian) — «Աստղիկ Գրատուն» (Astghik Gratun), Yerevan; year 2023; ISBN 978-9939-74-142-0. Authors: T. Vardanyan, A. Potosyan, V. Asatryan, L. Hakobyan. Title as printed: Աշխարհագրություն — Դասագիրք 7-րդ դասարանի համար (Geography, textbook for grade 7). Grade: 7 (student/teacher: STUDENT). PDF pages: 176 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). The book's legacy-font text layer was decoded with the standard Armenian font-encoding table and verified against its printed contents page. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
+
+**Book 32:** *Հայաստանի աշխարհագրություն — 9-րդ դասարանի դասագիրք (Geography of Armenia, textbook for grade 9)* (student book, Armenian) — «Տիգրան Մեծ» (Tigran Mets), Yerevan; year 2025; ISBN 978-9939-976-05-1. Authors: M. Manasyan, A. Hovsepyan. Title as printed: Հայաստանի աշխարհագրություն — 9-րդ դասարանի դասագիրք (Geography of Armenia, textbook for grade 9). Grade: 9 (student/teacher: STUDENT). PDF pages: 176 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Births, deaths and migration | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 6, printed pp. 146–149 |
@@ -96,8 +100,10 @@ countries: Ethiopia, Colombia, India, Rwanda, Fiji, Papua New Guinea, Uganda, Ve
 | Bhutan part — Ch.10 10.2 Population Change | Bhutan, *Bhutan Grade 7 Geography*, Ch.10 10.2 Population Change — printed p. 49 |
 | Bhutan part — Ch.10 10.4 Factors of Population Change | Bhutan, *Bhutan Grade 8 Geography*, Ch.10 10.4 Factors of Population Change — printed p. 66 |
 | Bhutan part — Ch.8 8.4 Factors affecting population growth | Bhutan, *Bhutan Grade 10 Geography*, Ch.8 8.4 Factors affecting population growth — printed p. 65 |
+| Armenia part — Lesson 5.1 World population number and movement | Armenia, *Armenia Grade 7 Geography student*, Lesson 5.1 World population number and movement — printed p. 105 |
+| Armenia part — §26 Natural movement of the population number | Armenia, *Armenia Grade 9 Geography of Armenia student*, §26 Natural movement of the population number — printed p. 72 |
 
-**Acceptance count: taught in 15 countries (Ethiopia, Colombia, India, Rwanda, Fiji, Uganda, Venezuela, Mauritania, Kuwait, Iran, Pakistan, Libya, Nepal, Mozambique, Bhutan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 16 countries (Ethiopia, Colombia, India, Rwanda, Fiji, Uganda, Venezuela, Mauritania, Kuwait, Iran, Pakistan, Libya, Nepal, Mozambique, Bhutan, Armenia). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 No book error is flagged for this lesson's pages in the placements. The teacher guide was first published in 2022 against the student book's 2023; the student book is the learner text of record, and the guide is cited as evidence only.
 
@@ -158,3 +164,7 @@ Bhutan's own way (Bhutan Grade 7 Geography): From Class VII Geography becomes a 
 Bhutan's own way (Bhutan Grade 8 Geography): Class VIII deepens the same three strands with real map-work (scale conversion, grid references, contours and profiles) and Bhutan-specific hazard and resource content, including the Rubesa wind turbine and hydroelectric dams as national resource examples.
 
 Bhutan's own way (Bhutan Grade 10 Geography): Class X pairs deep physical theory (Big Bang, plate tectonics, the making of the Himalayas) with an applied Bhutan block — climate and vegetation zones of Bhutan, Bhutanese agriculture's challenges and advancement, industries and their distribution, and a Bhutan disaster chapter that adds Education in Emergency.
+
+Armenia's own way (Armenia Grade 7 Geography student): opens school geography with the geographic map itself (plan, scale, azimuth, projections) before any Earth science, and runs every theme to a summary lesson plus practical work; world economy is taught branch by branch with Armenia (ՀՀ) used as the worked example in the closing questions.
+
+Armenia's own way (Armenia Grade 9 Geography of Armenia student): the whole grade-9 year is the home country — first the Armenian Highlands as a physical whole, then the Republic section by section (nature, population, economy), finishing marz by marz (all 10 provinces) so every learner ends by studying their own province.

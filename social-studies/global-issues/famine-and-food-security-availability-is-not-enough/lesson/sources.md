@@ -1,6 +1,6 @@
 # Sources — Famine and food security — availability is not enough
 
-countries: Ethiopia, Brazil, Haiti, Costa Rica, Palestine, Angola, United Kingdom, Slovenia, Papua New Guinea, Sudan, Syria, Kuwait, Yemen, Libya
+countries: Ethiopia, Brazil, Haiti, Costa Rica, Palestine, Angola, United Kingdom, Slovenia, Papua New Guinea, Sudan, Syria, Kuwait, Yemen, Libya, Armenia
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -36,6 +36,8 @@ countries: Ethiopia, Brazil, Haiti, Costa Rica, Palestine, Angola, United Kingdo
 
 **Book 17:** *جغرافية الوطن العربي — Geography of the Arab World, Grade 8 of Basic Education* (student book, Arabic) — State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2019–2020 (1440–1441 AH); ISBN no ISBN printed. Title as printed: جغرافية الوطن العربي — Geography of the Arab World, Grade 8 of Basic Education. Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 105 (cover verified visually: "جغرافية الوطن العربي للصف الثامن" — matches record; mostly image-only scan, read via 100-DPI 4-up contact sheets; grabbed via grab.py release route, size verified by grab.py). Verdict: COMPLETE. TSV release records and books.json records are the same 8 books (each title appears once in each source) — read once via grab.py (GitHub API, size verified), as the placements file header records. Combined Social Studies books (Grades 5–6): Geography parts placed; History/Civics parts named in headers only. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/libya-placements.md.
 
+**Book 18:** *Աշխարհագրություն 12 — Հանրակրթական ավագ դպրոցի 12-րդ դասարանի դասագիրք (Geography 12, senior-school textbook)* (student book, Armenian) — «Զանգակ» (Zangak), Yerevan; year 2025; ISBN 978-9939-99-290-7. Authors: M. Manasyan, A. Hovsepyan, A. Potosyan. Title as printed: Աշխարհագրություն 12 — Հանրակրթական ավագ դպրոցի 12-րդ դասարանի դասագիրք (Geography 12, senior-school textbook). Grade: 12 (student/teacher: STUDENT). PDF pages: 132 (printed 128; cover/title page verified against the record title). Verdict: COMPLETE. Read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Famine is a process, not an event | G12 student #78, printed pp. 209–211 |
@@ -57,8 +59,9 @@ countries: Ethiopia, Brazil, Haiti, Costa Rica, Palestine, Angola, United Kingdo
 | Yemen part — Unit 5 Lesson 4 Agriculture and Food Security | Yemen, *Yemen Grade 9 G9 Geography of Yemen and the Arab World*, Unit 5 Lesson 4 Agriculture and Food Security — printed p. 105 |
 | Yemen part — Unit 5 Lesson 2 Food Resources in the Arab Homeland | Yemen, *Yemen Grade 11 G11 Geography of Yemen and the Arab World*, Unit 5 Lesson 2 Food Resources in the Arab Homeland — printed p. 130 |
 | Libya part — Unit 2: الغذاء والسكان في الوطن العربي — Food and population in the Arab World (3% population growth vs under 2% production growth; ways to achieve Arab food security) | Libya, *Libya Grade 8 LY G8 Arab World*, Unit 2: الغذاء والسكان في الوطن العربي — Food and population in the Arab World (3% population growth vs under 2% production growth; ways to achieve Arab food security) — printed p. 102 |
+| Armenia part — §12 The food problem | Armenia, *Armenia Grade 12 Geography student*, §12 The food problem — printed p. 93 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Brazil, Costa Rica, Palestine, Angola, United Kingdom, Slovenia, Sudan, Syria, Kuwait, Yemen, Libya). Haiti is named here as teacher-sequence evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 13 countries (Ethiopia, Brazil, Costa Rica, Palestine, Angola, United Kingdom, Slovenia, Sudan, Syria, Kuwait, Yemen, Libya, Armenia). Haiti is named here as teacher-sequence evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Haiti's own way (teacher sequence — evidence): World inequality is questioned through the words used for it (Nord/Sud, développé/sous-développé) and through Haiti's own case — a rich-country/poor-country comparison (Canada or USA vs Haiti), the independence debt, food insecurity and Covid vaccination in Haiti — with every claim built from authenticated statistics, graphs and maps crossed from local to world scale. That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
@@ -93,3 +96,5 @@ Yemen's own way (Yemen Grade 9 G9 Geography of Yemen and the Arab World): Grade 
 Yemen's own way (Yemen Grade 11 G11 Geography of Yemen and the Arab World): Grade 11 does Yemen in depth first (physical base, population and social development, economic resources), then the Arab world's physical geography, its people and resources, and finally its contemporary problems — water, food, poverty, illiteracy, integration.
 
 Libya's own way (Libya Grade 8 LY G8 Arab World): The scale widens from Libya (Grade 7) to the whole Arab homeland: one regional geography — location and strategic importance, relief, climate, vegetation, population, economic resources and transport — closed by a full unit on the Arab food problem and food security.
+
+Armenia's own way (Armenia Grade 12 Geography student): the final Geography year is thematic, not regional-by-continent: first "distinctive" region types (fast-growing, urbanised, mountain, arid-agrarian, integrating Western Europe), then humanity's global problems one by one, closing on sustainable development — with mountain-country development read through Armenia's own case.

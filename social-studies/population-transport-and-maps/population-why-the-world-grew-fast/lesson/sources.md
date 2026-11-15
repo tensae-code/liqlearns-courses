@@ -1,6 +1,6 @@
 # Sources — Population — why the world grew fast
 
-countries: Ethiopia, Angola, Mozambique, Laos, Bhutan
+countries: Ethiopia, Angola, Mozambique, Laos, Bhutan, Armenia
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 2, placements 27–43).
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Angola, Mozambique, Laos, Bhutan
 
 **Book 6:** *INTERMEDIATE GEOGRAPHY CLASS X* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu (title page; developed with the Royal Education Council, Paro); year Reprint 2024 (page footers); ISBN no ISBN printed (no imprint page in the PDF). Title as printed: INTERMEDIATE GEOGRAPHY CLASS X. Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 124 (cover/title page verified against the record title; byte size 12,820,771 and page count match the books.json record exactly — read via the record's ministry source URL; this book is also the TSV release record grade-10-gov-bhutan-geography-full-year.pdf, same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
 
+**Book 7:** *ԱՇԽԱՐՀԱԳՐՈՒԹՅՈՒՆ 10 (Geography 10)* (student book, Armenian) — Էդիթ Պրինտ (Edit Print), Yerevan; year 2023 (title page 2024); ISBN 978-9939-969-06-0. Authors: Ashot Khachatryan, Yurik Muradyan. Title as printed: ԱՇԽԱՐՀԱԳՐՈՒԹՅՈՒՆ 10 (Geography 10). Grade: 10 (student/teacher: STUDENT). PDF pages: 194 (printed 192; cover/title page verified against the record title). Verdict: COMPLETE — the senior Geography course in 7 themes: methods & cartography, lithosphere, atmosphere & climate, river hydrology, the political map of the world, world population, world natural resources. Read in full from contact sheets; every lesson opener and the printed contents (pp. 190-191) checked. Read in full from 100-DPI contact sheets (image-only book); every lesson opener and the printed contents (pp. 190-191) checked. Also read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson | Ethiopia, *Social Studies Student Textbook, Grade 7* (Amhara Bureau), printed p. 36 |
@@ -22,8 +24,9 @@ countries: Ethiopia, Angola, Mozambique, Laos, Bhutan
 | Laos part — Part I Lesson 1: The growth of world population | Laos, *Laos Grade 11 laos-g11-geography-teacher*, Part I Lesson 1: The growth of world population — printed p. 9 (teacher-guide evidence) |
 | Laos part — Part I Lesson 1: The growth of world population | Laos, *Laos Grade 11 laos-g11-geography-student*, Part I Lesson 1: The growth of world population — printed p. 1 |
 | Bhutan part — Ch.8 8.2 Population Growth | Bhutan, *Bhutan Grade 10 Geography*, Ch.8 8.2 Population Growth — printed p. 62 |
+| Armenia part — 6.1 World population number and growth | Armenia, *Armenia Grade 10 Geography student*, 6.1 World population number and growth — printed p. 147 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Angola, Mozambique, Laos, Bhutan).**
+**Acceptance count: taught in 6 countries (Ethiopia, Angola, Mozambique, Laos, Bhutan, Armenia).**
 
 Pairing warning (honesty): Book 2 is an Addis Ababa bureau guide in English; Book 1 is an Amhara bureau student book in Amharic. They are NOT edition-matched companions — the guide's unit order differs and whole student topics (maps, globes, GPS) have no guide counterpart, so no guide coverage is claimed for them. Guide material is used only as labelled teacher evidence.
 
@@ -38,3 +41,5 @@ Laos's own way (Laos Grade 11 laos-g11-geography-teacher): a world-population an
 Laos's own way (Laos Grade 11 laos-g11-geography-student): the student twin of Book 5 — same 2 parts / 21 lessons (world population, then nine country studies plus development in Africa) with full illustrated text.
 
 Bhutan's own way (Bhutan Grade 10 Geography): Class X pairs deep physical theory (Big Bang, plate tectonics, the making of the Himalayas) with an applied Bhutan block — climate and vegetation zones of Bhutan, Bhutanese agriculture's challenges and advancement, industries and their distribution, and a Bhutan disaster chapter that adds Education in Emergency.
+
+Armenia's own way (Armenia Grade 10 Geography student): grade-10 Geography is a methods-first course — it opens with the science's history, branches and GIS/GPS/aerospace methods, works through the lithosphere with a full natural-disasters lesson, and closes with resources measured by endowment; Armenia's own rivers fill the hydrology tables and Armenia's place in modern geopolitics closes the political-map theme.

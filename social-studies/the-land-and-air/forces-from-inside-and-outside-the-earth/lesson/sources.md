@@ -1,6 +1,6 @@
 # Sources — Forces from inside and outside the earth
 
-countries: Ethiopia, Iran, Iraq, Nicaragua
+countries: Ethiopia, Iran, Iraq, Nicaragua, Armenia
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Iran, Iraq, Nicaragua
 
 **Book 5:** *Ciencias Sociales 10 Grado, Educación Secundaria (PROSEN)* (student book, Spanish) — Ministerio de Educación (MINED), Nicaragua, with PROSEN / European Union support; year not printed (Primera Edición); ISBN no ISBN printed. Title as printed: Ciencias Sociales 10 Grado, Educación Secundaria (PROSEN). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 300 (cover/title page verified against the record title; byte size 106,780,055 matches the books.json record and the MINED source file). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nicaragua-placements.md.
 
+**Book 6:** *ԱՇԽԱՐՀԱԳՐՈՒԹՅՈՒՆ 10 (Geography 10)* (student book, Armenian) — Էդիթ Պրինտ (Edit Print), Yerevan; year 2023 (title page 2024); ISBN 978-9939-969-06-0. Authors: Ashot Khachatryan, Yurik Muradyan. Title as printed: ԱՇԽԱՐՀԱԳՐՈՒԹՅՈՒՆ 10 (Geography 10). Grade: 10 (student/teacher: STUDENT). PDF pages: 194 (printed 192; cover/title page verified against the record title). Verdict: COMPLETE — the senior Geography course in 7 themes: methods & cartography, lithosphere, atmosphere & climate, river hydrology, the political map of the world, world population, world natural resources. Read in full from contact sheets; every lesson opener and the printed contents (pp. 190-191) checked. Read in full from 100-DPI contact sheets (image-only book); every lesson opener and the printed contents (pp. 190-191) checked. Also read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Endogenic forces | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 1, printed pp. 16–19 |
@@ -20,8 +22,9 @@ countries: Ethiopia, Iran, Iraq, Nicaragua
 | Iran part — Lesson 4: The face of the Earth changes with time — external factors: weathering (هوازدگی) breaking rock down, and erosion (فرسایش) in three stages: detachment, transport, deposition; human activity exploiting the natural environment also changes the land | Iran, *Iran Grade 11 Geography (2)*, Lesson 4: The face of the Earth changes with time — external factors: weathering (هوازدگی) breaking rock down, and erosion (فرسایش) in three stages: detachment, transport, deposition; human activity exploiting the natural environment also changes the land — printed p. 41 |
 | Iraq part — Ch. 1: Geomorphological factors and processes (العوامل والعمليات الجيومورفولجية) — internal and external forces | Iraq, *Iraq Grade 11 Physical Geography*, Ch. 1: Geomorphological factors and processes (العوامل والعمليات الجيومورفولجية) — internal and external forces — printed p. 9 |
 | Nicaragua part — Fuerzas o agentes modificadores internos y externos del relieve | Nicaragua, *Nicaragua Grade 10 Ciencias Sociales G10 full-year*, Fuerzas o agentes modificadores internos y externos del relieve — printed p. 41 |
+| Armenia part — 2.7 Movements of the Earth's crust | Armenia, *Armenia Grade 10 Geography student*, 2.7 Movements of the Earth's crust — printed p. 88 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Iran, Iraq, Nicaragua).**
+**Acceptance count: taught in 5 countries (Ethiopia, Iran, Iraq, Nicaragua, Armenia).**
 
 Searchable tags: endogenic, exogenic, folding, faulting, vulcanism, uplift, weathering, denudation, social studies
 
@@ -30,3 +33,5 @@ Iran's own way (Iran Grade 11 Geography (2)): the whole book is built on one org
 Iraq's own way (Iraq Grade 11 Physical Geography): a pure physical-geography course in six chapters — landforms, weather and climate, water, the biosphere, soil, and the environment — with Iraqi anchors kept throughout (flood visits to Iraq's rivers, the hills of northern Iraq, groundwater and the desert caravans, soil salinity in the alluvial plain).
 
 Nicaragua's own way (Nicaragua Grade 10 Ciencias Sociales G10 full-year): The full-year companion to the Grade 10 Geography module (Book 1): Units I–VI repeat and deepen the same national Geography (cartography, relief and geological provinces, climate and watersheds, population, economic sectors, territorial vulnerability and SINAPRED) in classroom form, and the book's second half is a full Economics course. Non-Geography parts named, not placed: Unit IV government anti-poverty programmes (printed p. 106, Civics/social policy); Units VII–XII Economics (printed pp. 156–285): utility of economics and socio-economic formations, what the country produces, price as market regulator, commercial exchange and the banking system, state economic policy, and integration in the face of globalisation.
+
+Armenia's own way (Armenia Grade 10 Geography student): grade-10 Geography is a methods-first course — it opens with the science's history, branches and GIS/GPS/aerospace methods, works through the lithosphere with a full natural-disasters lesson, and closes with resources measured by endowment; Armenia's own rivers fill the hydrology tables and Armenia's place in modern geopolitics closes the political-map theme.

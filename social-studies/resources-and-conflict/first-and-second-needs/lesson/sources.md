@@ -1,6 +1,6 @@
 # Sources — Natural Resources — First and Second Needs
 
-countries: Ethiopia, Rwanda, Nepal, Nicaragua
+countries: Ethiopia, Rwanda, Nepal, Nicaragua, Armenia
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (placement 64).
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Rwanda, Nepal, Nicaragua
 
 **Book 10:** *Ciencias Sociales 10 Grado, Educación Secundaria (PROSEN)* (student book, Spanish) — Ministerio de Educación (MINED), Nicaragua, with PROSEN / European Union support; year not printed (Primera Edición); ISBN no ISBN printed. Title as printed: Ciencias Sociales 10 Grado, Educación Secundaria (PROSEN). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 300 (cover/title page verified against the record title; byte size 106,780,055 matches the books.json record and the MINED source file). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nicaragua-placements.md.
 
+**Book 11:** *Հասարակագիտություն 7 — Դասագիրք հանրակրթական դպրոցի համար (Social Science 7, textbook for general school)* (student book, Armenian) — «Մասնակցային դպրոց» ԿՀ (Participatory School), Yerevan; year 2023; ISBN 978-9939-1-1725-6. Authors: H. Bayadyan, D. Stepanyan, V. Soghomonyan. Title as printed: Հասարակագիտություն 7 — Դասագիրք հանրակրթական դպրոցի համար (Social Science 7, textbook for general school). Grade: 7 (student/teacher: STUDENT). PDF pages: 146 (printed 144; cover/title page verified against the record title). Verdict: COMPLETE — combined Social Science. Geography parts placed below: Ch. 1 "Man and nature" (printed pp. 12-27) and the economy parts of Ch. 7 "Man and economy" (pp. 102-127). NOT placed (named for later waves): Ch. 2 "Man and society" (pp. 28-41, incl. history of printing), Ch. 3 "Man, cognition and behaviour" (pp. 42-55), Ch. 4 "Man and morality" (pp. 56-71), Ch. 5 "Man and beauty" (pp. 72-89), Ch. 6 "Law in our life" (pp. 90-101), Ch. 7 §§7.3 personal finance in part, Ch. 8 "Man and politics" (pp. 128-139). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Whole lesson opening — pupils build two needs lists from their own morning | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 3, printed pp. 83–84 |
@@ -36,8 +38,10 @@ countries: Ethiopia, Rwanda, Nepal, Nicaragua
 | Nicaragua part — Necesidades de la población | Nicaragua, *Nicaragua Grade 9 Estudios Sociales G9 full-year*, Necesidades de la población — printed p. 84 |
 | Nicaragua part — Requerimiento de la población de los continentes | Nicaragua, *Nicaragua Grade 9 CCSS Geografía Módulo G9*, Requerimiento de la población de los continentes — printed p. 202 |
 | Nicaragua part — Requerimientos de la población nicaragüense | Nicaragua, *Nicaragua Grade 10 Ciencias Sociales G10 full-year*, Requerimientos de la población nicaragüense — printed p. 105 |
+| Armenia part — 1.1 Human needs | Armenia, *Armenia Grade 7 Social Science student*, 1.1 Human needs — printed p. 14 |
+| Armenia part — 7.2 Our needs, wants and desires (economic choice) | Armenia, *Armenia Grade 7 Social Science student*, 7.2 Our needs, wants and desires (economic choice) — printed p. 116 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Rwanda, Nepal, Nicaragua).**
+**Acceptance count: taught in 5 countries (Ethiopia, Rwanda, Nepal, Nicaragua, Armenia).**
 
 No book error flagged by the placements touches this lesson.
 
@@ -60,3 +64,5 @@ Nicaragua's own way (Nicaragua Grade 9 Estudios Sociales G9 full-year): The clas
 Nicaragua's own way (Nicaragua Grade 9 CCSS Geografía Módulo G9): A pure-Geography self-study module (no History/Civics in this book): the Grade 9 world-Geography course taught continent by continent — position and political organisation, physical landscape, human diversity, production and consumption, and a closing planet-care unit on prevention and mitigation — with Nicaragua used as the home reference point throughout.
 
 Nicaragua's own way (Nicaragua Grade 10 Ciencias Sociales G10 full-year): The full-year companion to the Grade 10 Geography module (Book 1): Units I–VI repeat and deepen the same national Geography (cartography, relief and geological provinces, climate and watersheds, population, economic sectors, territorial vulnerability and SINAPRED) in classroom form, and the book's second half is a full Economics course. Non-Geography parts named, not placed: Unit IV government anti-poverty programmes (printed p. 106, Civics/social policy); Units VII–XII Economics (printed pp. 156–285): utility of economics and socio-economic formations, what the country produces, price as market regulator, commercial exchange and the banking system, state economic policy, and integration in the face of globalisation.
+
+Armenia's own way (Armenia Grade 7 Social Science student): Social Science opens not with the state but with the person — man-and-nature first, then society, mind, morality, beauty, law, economy, politics — and every chapter is built from short source materials with three levels of tasks (tell, apply, judge).

@@ -1,6 +1,6 @@
 # Sources — Water, Air, Forest, Wildlife, Soil
 
-countries: Ethiopia, Angola, Turkmenistan, Samoa, Eritrea, Rwanda, Venezuela, Moldova, Nepal, Nicaragua
+countries: Ethiopia, Angola, Turkmenistan, Samoa, Eritrea, Rwanda, Venezuela, Moldova, Nepal, Nicaragua, Armenia
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (placement 46).
 
@@ -34,6 +34,10 @@ countries: Ethiopia, Angola, Turkmenistan, Samoa, Eritrea, Rwanda, Venezuela, Mo
 
 **Book 16:** *Ciencias Sociales 10 Grado, Educación Secundaria (PROSEN)* (student book, Spanish) — Ministerio de Educación (MINED), Nicaragua, with PROSEN / European Union support; year not printed (Primera Edición); ISBN no ISBN printed. Title as printed: Ciencias Sociales 10 Grado, Educación Secundaria (PROSEN). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 300 (cover/title page verified against the record title; byte size 106,780,055 matches the books.json record and the MINED source file). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nicaragua-placements.md.
 
+**Book 17:** *Աշխարհագրություն — Դասագիրք 7-րդ դասարանի համար (Geography, textbook for grade 7)* (student book, Armenian) — «Աստղիկ Գրատուն» (Astghik Gratun), Yerevan; year 2023; ISBN 978-9939-74-142-0. Authors: T. Vardanyan, A. Potosyan, V. Asatryan, L. Hakobyan. Title as printed: Աշխարհագրություն — Դասագիրք 7-րդ դասարանի համար (Geography, textbook for grade 7). Grade: 7 (student/teacher: STUDENT). PDF pages: 176 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). The book's legacy-font text layer was decoded with the standard Armenian font-encoding table and verified against its printed contents page. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
+
+**Book 18:** *ԱՇԽԱՐՀԱԳՐՈՒԹՅՈՒՆ 10 (Geography 10)* (student book, Armenian) — Էդիթ Պրինտ (Edit Print), Yerevan; year 2023 (title page 2024); ISBN 978-9939-969-06-0. Authors: Ashot Khachatryan, Yurik Muradyan. Title as printed: ԱՇԽԱՐՀԱԳՐՈՒԹՅՈՒՆ 10 (Geography 10). Grade: 10 (student/teacher: STUDENT). PDF pages: 194 (printed 192; cover/title page verified against the record title). Verdict: COMPLETE — the senior Geography course in 7 themes: methods & cartography, lithosphere, atmosphere & climate, river hydrology, the political map of the world, world population, world natural resources. Read in full from contact sheets; every lesson opener and the printed contents (pp. 190-191) checked. Read in full from 100-DPI contact sheets (image-only book); every lesson opener and the printed contents (pp. 190-191) checked. Also read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Water: life impossible without it; its main problem is pollution. Air: likewise polluted | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 3, printed pp. 61–63 |
@@ -57,8 +61,10 @@ countries: Ethiopia, Angola, Turkmenistan, Samoa, Eritrea, Rwanda, Venezuela, Mo
 | Nicaragua part — Importancia del sol, aire y del agua para los seres vivos | Nicaragua, *Nicaragua Grade 2 Conociendo mi Mundo G2*, Importancia del sol, aire y del agua para los seres vivos — printed p. 95 |
 | Nicaragua part — Flora y fauna de América | Nicaragua, *Nicaragua Grade 8 Estudios Sociales G8 full-year*, Flora y fauna de América — printed p. 48 |
 | Nicaragua part — Flora y fauna nicaragüense | Nicaragua, *Nicaragua Grade 10 Ciencias Sociales G10 full-year*, Flora y fauna nicaragüense — printed p. 84 |
+| Armenia part — Lesson 6.2 The main groups of the world's natural resources and their distribution | Armenia, *Armenia Grade 7 Geography student*, Lesson 6.2 The main groups of the world's natural resources and their distribution — printed p. 130 |
+| Armenia part — 7.4 Water resources [placement slug: people-and-resources/water-as-a-resource] | Armenia, *Armenia Grade 10 Geography student*, 7.4 Water resources — printed p. 176 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Angola, Turkmenistan, Samoa, Eritrea, Rwanda, Venezuela, Moldova, Nepal, Nicaragua).**
+**Acceptance count: taught in 11 countries (Ethiopia, Angola, Turkmenistan, Samoa, Eritrea, Rwanda, Venezuela, Moldova, Nepal, Nicaragua, Armenia).**
 
 No teacher-guide material is folded into this lesson: the Addis Ababa guide's Unit 3 carries no counterpart to the five-resource survey beyond the student book's own teaching. The two erosion GIFs are drawn renders built to the placement's own GIF need ("rain washing soil off a bare slope — yes, erosion is motion"); the second GIF draws out the same erosion teaching for topsoil in a single storm, the form the book's erosion problem takes on farmland. No book error flagged by the placements touches this lesson.
 
@@ -93,3 +99,7 @@ Nicaragua's own way (Nicaragua Grade 2 Conociendo mi Mundo G2): Geography begins
 Nicaragua's own way (Nicaragua Grade 8 Estudios Sociales G8 full-year): Grade 8 widens the lens to the whole American continent: five Geography units on America's territorial patrimony, physical landscape, ethnic-cultural diversity, space-and-economy and environmental protection (closing with Nicaragua's own SINAPRED disaster system), then five History units. Non-Geography parts named, not placed: Unit VI American origins (printed pp. 125–138, History); Unit VII arrival of the Europeans and colonial domination (printed pp. 145–165, History); Unit VIII emancipation processes (printed pp. 167–184, History); Unit IX changes in Latin American society (printed pp. 185–194, History); Unit X America in the 20th century (printed pp. 197–222, History).
 
 Nicaragua's own way (Nicaragua Grade 10 Ciencias Sociales G10 full-year): The full-year companion to the Grade 10 Geography module (Book 1): Units I–VI repeat and deepen the same national Geography (cartography, relief and geological provinces, climate and watersheds, population, economic sectors, territorial vulnerability and SINAPRED) in classroom form, and the book's second half is a full Economics course. Non-Geography parts named, not placed: Unit IV government anti-poverty programmes (printed p. 106, Civics/social policy); Units VII–XII Economics (printed pp. 156–285): utility of economics and socio-economic formations, what the country produces, price as market regulator, commercial exchange and the banking system, state economic policy, and integration in the face of globalisation.
+
+Armenia's own way (Armenia Grade 7 Geography student): opens school geography with the geographic map itself (plan, scale, azimuth, projections) before any Earth science, and runs every theme to a summary lesson plus practical work; world economy is taught branch by branch with Armenia (ՀՀ) used as the worked example in the closing questions.
+
+Armenia's own way (Armenia Grade 10 Geography student): grade-10 Geography is a methods-first course — it opens with the science's history, branches and GIS/GPS/aerospace methods, works through the lithosphere with a full natural-disasters lesson, and closes with resources measured by endowment; Armenia's own rivers fill the hydrology tables and Armenia's place in modern geopolitics closes the political-map theme.

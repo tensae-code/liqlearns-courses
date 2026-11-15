@@ -1,6 +1,6 @@
 # Sources — Latitude and altitude — the two big controls
 
-countries: Ethiopia, Jamaica, Indonesia, Iran, Pakistan, Libya, Mozambique, Iraq
+countries: Ethiopia, Jamaica, Indonesia, Iran, Pakistan, Libya, Mozambique, Iraq, Armenia
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Jamaica, Indonesia, Iran, Pakistan, Libya, Mozambique, Iraq
 
 **Book 9:** *الاجتماعيات للصف الثالث المتوسط (Social Studies for the Third Intermediate Grade)* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 1445 AH / 2023 CE, 2nd edition (الطبعة الثانية); ISBN no ISBN printed on the title pages. Title as printed: الاجتماعيات للصف الثالث المتوسط (Social Studies for the Third Intermediate Grade). Grade: 9 (student/teacher: STUDENT). PDF pages: 160 (cover/title page verified against the record title; read via the books.json record's own Google Drive source file — same book, cover and contents verified — after the GitHub route failed). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iraq-placements.md.
 
+**Book 10:** *Աշխարհագրություն — Դասագիրք 7-րդ դասարանի համար (Geography, textbook for grade 7)* (student book, Armenian) — «Աստղիկ Գրատուն» (Astghik Gratun), Yerevan; year 2023; ISBN 978-9939-74-142-0. Authors: T. Vardanyan, A. Potosyan, V. Asatryan, L. Hakobyan. Title as printed: Աշխարհագրություն — Դասագիրք 7-րդ դասարանի համար (Geography, textbook for grade 7). Grade: 7 (student/teacher: STUDENT). PDF pages: 176 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). The book's legacy-font text layer was decoded with the standard Armenian font-encoding table and verified against its printed contents page. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Latitude | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 2, printed pp. 41–43 |
@@ -32,8 +34,9 @@ countries: Ethiopia, Jamaica, Indonesia, Iran, Pakistan, Libya, Mozambique, Iraq
 | Libya part — Unit 2: العوامل التي تؤثر في المناخ — Factors affecting climate (latitude position, height above sea level, distance from water bodies, rain shadow) | Libya, *Libya Grade 6 LY G6 Social Studies*, Unit 2: العوامل التي تؤثر في المناخ — Factors affecting climate (latitude position, height above sea level, distance from water bodies, rain shadow) — printed p. 84 |
 | Mozambique part — Lição 5: thermal zones by latitude; geological nature of the soil and temperature | Mozambique, *Mozambique Grade 10 PESD II Mod 2*, Lição 5: thermal zones by latitude; geological nature of the soil and temperature — printed p. 36 |
 | Iraq part — Unit 1 Ch. 1, Climate and natural vegetation: the astronomical location (latitude circles) as the strongest factor in Iraq's climate — sun angle and length of day | Iraq, *Iraq Grade 9 Social Studies*, Unit 1 Ch. 1, Climate and natural vegetation: the astronomical location (latitude circles) as the strongest factor in Iraq's climate — sun angle and length of day — printed p. 16 |
+| Armenia part — Lesson 3.10 Natural-territorial complexes: horizontal (latitudinal) zonality and altitudinal zonality | Armenia, *Armenia Grade 7 Geography student*, Lesson 3.10 Natural-territorial complexes: horizontal (latitudinal) zonality and altitudinal zonality — printed p. 85 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Indonesia, Iran, Pakistan, Libya, Mozambique, Iraq). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 8 countries (Ethiopia, Indonesia, Iran, Pakistan, Libya, Mozambique, Iraq, Armenia). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
 
 Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -50,3 +53,5 @@ Libya's own way (Libya Grade 6 LY G6 Social Studies): The geography half is "Pri
 Mozambique's own way (Mozambique Grade 10 PESD II Mod 2): a full physical-climatology course — atmosphere structure to magnetosphere, heat balance, pressure/wind circulation, air masses and fronts, humidity and precipitation, the water cycle, then Köppen/Thornthwaite classification worked through climate tables with African station graphs (Arkassa, Tamanrasset, Algiers), closing on protection of bioclimatic resources.
 
 Iraq's own way (Iraq Grade 9 Social Studies): Grade 9 returns to Iraq for the fullest treatment yet — the same national geography as Grade 5 but measured: the plain is 24% and about 600 km long, the desert plateau about 55%, the desert plant belt about 70%, two-thirds of the people live on the central and southern plain; every topic is pinned to numbered maps of Iraq.
+
+Armenia's own way (Armenia Grade 7 Geography student): opens school geography with the geographic map itself (plan, scale, azimuth, projections) before any Earth science, and runs every theme to a summary lesson plus practical work; world economy is taught branch by branch with Armenia (ՀՀ) used as the worked example in the closing questions.

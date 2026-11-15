@@ -1,6 +1,6 @@
 # Sources — Africa's minerals in the world league
 
-countries: Ethiopia, Uzbekistan, Mauritania
+countries: Ethiopia, Uzbekistan, Mauritania, Armenia
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). First published 2023 under GEQIP-E. ISBN: 978-99990-0-049-9. 205 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Uzbekistan, Mauritania
 
 **Book 4:** *Kitab al-Jughrafia lilsana al-Sabi'a Adab 'Asriya (Geography Book, Seventh Year — Modern Letters)* (student book, Arabic) — Institut Pédagogique National (IPN), Mauritania; year 2025; ISBN no ISBN printed. Title as printed: Kitab al-Jughrafia lilsana al-Sabi'a Adab 'Asriya (Geography Book, Seventh Year — Modern Letters). Grade: Grade 13 (7e année secondaire, lettres modernes) (student/teacher: STUDENT). PDF pages: 120 (cover/title page verified against the record title; fetched from the record's source URL docs.bsimr.com/pdfs/secondaire2s/GEO-7AS-LM.pdf, 26,994,755 bytes). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mauritania-placements.md.
 
+**Book 5:** *ԱՇԽԱՐՀԱԳՐՈՒԹՅՈՒՆ 10 (Geography 10)* (student book, Armenian) — Էդիթ Պրինտ (Edit Print), Yerevan; year 2023 (title page 2024); ISBN 978-9939-969-06-0. Authors: Ashot Khachatryan, Yurik Muradyan. Title as printed: ԱՇԽԱՐՀԱԳՐՈՒԹՅՈՒՆ 10 (Geography 10). Grade: 10 (student/teacher: STUDENT). PDF pages: 194 (printed 192; cover/title page verified against the record title). Verdict: COMPLETE — the senior Geography course in 7 themes: methods & cartography, lithosphere, atmosphere & climate, river hydrology, the political map of the world, world population, world natural resources. Read in full from contact sheets; every lesson opener and the printed contents (pp. 190-191) checked. Read in full from 100-DPI contact sheets (image-only book); every lesson opener and the printed contents (pp. 190-191) checked. Also read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Reading the league table — who produces what | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 3, printed pp. 70–72 |
@@ -18,8 +20,9 @@ countries: Ethiopia, Uzbekistan, Mauritania
 | Sub lesson 4 — Where the world's great resources lie (teacher guide — evidence) | Ethiopia, *Geography, Teacher Guide, Grade 10*, Minimum Learning Competencies, guide printed pp. 169–171 |
 | Uzbekistan part — §20 Africa: geological structure, relief and minerals (minerals of Africa part) | Uzbekistan, *Uzbekistan Grade 6 Geografiya (Soatov & Abdulqosimov)*, §20 Africa: geological structure, relief and minerals (minerals of Africa part) — printed p. 55 |
 | Mauritania part — Unit 3 Lesson 15: Africa — natural and human features and economic power (focus on minerals) | Mauritania, *Mauritania Grade 13 geo-7as-lm*, Unit 3 Lesson 15: Africa — natural and human features and economic power (focus on minerals) — printed p. 95 |
+| Armenia part — 7.3 Mineral resources (useful minerals), with world reserve tables | Armenia, *Armenia Grade 10 Geography student*, 7.3 Mineral resources (useful minerals), with world reserve tables — printed p. 173 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Uzbekistan, Mauritania).**
+**Acceptance count: taught in 4 countries (Ethiopia, Uzbekistan, Mauritania, Armenia).**
 
 Pairing: the teacher guide was first published in 2022 and the student textbook in 2023, with the same writers and the same eight units in the same order; the student book is the learner text of record, and teacher-guide rows above are evidence only.
 
@@ -28,3 +31,5 @@ Searchable tags: Africa minerals, chromium, manganese, platinum, tantalum Ethiop
 Uzbekistan's own way (Uzbekistan Grade 6 Geografiya): Geography in Grade 6 is the physical geography of continents and oceans in the Russian/Soviet textbook tradition — first the Earth's geographic envelope and the World Ocean, then every continent in a fixed order (position, geological structure and relief, climate, inland waters, natural zones, population), closing with the population of the Earth and the political map of the world; nearly every chapter ends in a practical work.
 
 Mauritania's own way (Mauritania Grade 13 geo-7as-lm): The final-year Letters book is an exam-facing synthesis: Mauritania's natural and human features and its economic activities in full (including the structural problems of the Mauritanian economy and a lesson on how to write a geography essay), then the Arab world and Africa as economic powers (oil and minerals as the lenses), closing with the two great powers — the American and Chinese economies, their foundations, features and problems.
+
+Armenia's own way (Armenia Grade 10 Geography student): grade-10 Geography is a methods-first course — it opens with the science's history, branches and GIS/GPS/aerospace methods, works through the lithosphere with a full natural-disasters lesson, and closes with resources measured by endowment; Armenia's own rivers fill the hydrology tables and Armenia's place in modern geopolitics closes the political-map theme.

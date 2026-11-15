@@ -1,6 +1,6 @@
 # Sources — The Earth's Story in Four Eras
 
-countries: Ethiopia, Bolivia, North Macedonia, Mozambique
+countries: Ethiopia, Bolivia, North Macedonia, Mozambique, Armenia
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page - 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Bolivia, North Macedonia, Mozambique
 
 **Book 5:** *Módulo 3 de Geografia (GEOGRAFIA — MÓDULO 3, PESD I)* (student book, Portuguese) — MINEDH / IEDA; year 2023; no ISBN printed. Title as printed: Módulo 3 de Geografia (GEOGRAFIA — MÓDULO 3, PESD I). Grade: Grades 7–9 cycle, filed as Grade 7 (student/teacher: STUDENT). PDF pages: 99 (cover verified against the record title; byte size 6,828,243 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
 
+**Book 6:** *Աշխարհագրություն — Դասագիրք 7-րդ դասարանի համար (Geography, textbook for grade 7)* (student book, Armenian) — «Աստղիկ Գրատուն» (Astghik Gratun), Yerevan; year 2023; ISBN 978-9939-74-142-0. Authors: T. Vardanyan, A. Potosyan, V. Asatryan, L. Hakobyan. Title as printed: Աշխարհագրություն — Դասագիրք 7-րդ դասարանի համար (Geography, textbook for grade 7). Grade: 7 (student/teacher: STUDENT). PDF pages: 176 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). The book's legacy-font text layer was decoded with the standard Armenian font-encoding table and verified against its printed contents page. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — the four eras | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 1, printed pp. 13–14 |
@@ -19,8 +21,9 @@ countries: Ethiopia, Bolivia, North Macedonia, Mozambique
 | Bolivia part — Geological time (teacher guidance, Secundaria 1) (teacher guide — evidence) | Bolivia, *Compendio para Maestras y Maestros, Área Ciencias Sociales* (teacher guide), Grade 7 (record grade; teacher guidance), Geological time (teacher guidance, Secundaria 1) — printed p. 14 |
 | North Macedonia part (Grade 10 mk-g10) — Тема 1 Литосфера, 1. Геолошка еволуција на Земјата | North Macedonia, *North Macedonia Grade 10 mk-g10*, Тема 1 Литосфера, 1. Геолошка еволуција на Земјата — printed p. 6 |
 | Mozambique part — Lição 6: Geologia (formation of Mozambique's geological structure by internal geodynamics) | Mozambique, *Mozambique Grade 7 PESD I Mod 3*, Lição 6: Geologia (formation of Mozambique's geological structure by internal geodynamics) — printed p. 30 |
+| Armenia part — Lesson 2.2 Geological eras | Armenia, *Armenia Grade 7 Geography student*, Lesson 2.2 Geological eras — printed p. 31 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Bolivia, North Macedonia, Mozambique).**
+**Acceptance count: taught in 5 countries (Ethiopia, Bolivia, North Macedonia, Mozambique, Armenia).**
 
 No book errors are flagged by the placements for these pages.
 
@@ -33,3 +36,5 @@ Searchable tags: geological eras, Pre-Cambrian, Palaeozoic, Mesozoic, Cenozoic, 
 North Macedonia's own way (Grade 10 mk-g10): the gymnasium course restarts Geography as a systems science — Theme 1 works through the four spheres (lithosphere, atmosphere, hydrosphere, biosphere) lesson by lesson, then natural disasters by sphere; Theme 2 turns to people in geographical space (world urbanisation, energy, farming, industry, transport and trade, tourism, environmental impact); Theme 3 treats the world as one global system (globalisation, transport corridors and sea straits/canals, global networks and navigation systems, international organisations, global challenges and climate-change solutions). 43 numbered lessons.
 
 Mozambique's own way (Mozambique Grade 7 PESD I Mod 3): after world/economic geography in Modules 1–2, Module 3 turns to Mozambique itself as a complete regional study — cities, then the country's location, coast, geology, minerals, soils, relief, climate, plant and animal geography, hydrography — and closes with Southern Africa and Mozambique's SADC integration.
+
+Armenia's own way (Armenia Grade 7 Geography student): opens school geography with the geographic map itself (plan, scale, azimuth, projections) before any Earth science, and runs every theme to a summary lesson plus practical work; world economy is taught branch by branch with Armenia (ՀՀ) used as the worked example in the closing questions.

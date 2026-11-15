@@ -1,6 +1,6 @@
 # Sources — Reading map symbols
 
-countries: Ethiopia, Haiti, Bahamas, Malaysia, India, Rwanda, Fiji, Papua New Guinea, Sudan, Venezuela, Sri Lanka, Mauritania, Pakistan, Libya, Moldova, Nepal, Iraq, Nicaragua, Bhutan
+countries: Ethiopia, Haiti, Bahamas, Malaysia, India, Rwanda, Fiji, Papua New Guinea, Sudan, Venezuela, Sri Lanka, Mauritania, Pakistan, Libya, Moldova, Nepal, Iraq, Nicaragua, Bhutan, Armenia
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -62,6 +62,8 @@ countries: Ethiopia, Haiti, Bahamas, Malaysia, India, Rwanda, Fiji, Papua New Gu
 
 **Book 30:** *INTERMEDIATE GEOGRAPHY CLASS IX* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu (title page; developed with the Royal Education Council, Paro); year Reprint 2024 (page footers); ISBN no ISBN printed (no imprint page in the PDF). Title as printed: INTERMEDIATE GEOGRAPHY CLASS IX. Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 123 (cover/title page verified against the record title; byte size 10,807,956 and page count match the books.json record exactly — read via the record's ministry source URL). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
 
+**Book 31:** *Աշխարհագրություն — Դասագիրք 7-րդ դասարանի համար (Geography, textbook for grade 7)* (student book, Armenian) — «Աստղիկ Գրատուն» (Astghik Gratun), Yerevan; year 2023; ISBN 978-9939-74-142-0. Authors: T. Vardanyan, A. Potosyan, V. Asatryan, L. Hakobyan. Title as printed: Աշխարհագրություն — Դասագիրք 7-րդ դասարանի համար (Geography, textbook for grade 7). Grade: 7 (student/teacher: STUDENT). PDF pages: 176 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). The book's legacy-font text layer was decoded with the standard Armenian font-encoding table and verified against its printed contents page. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Conventional signs | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 8, printed pp. 220–222 |
@@ -95,8 +97,9 @@ countries: Ethiopia, Haiti, Bahamas, Malaysia, India, Rwanda, Fiji, Papua New Gu
 | Bhutan part — 2.3 Landforms and symbols | Bhutan, *Bhutan Grade 4 Social Studies*, 2.3 Landforms and symbols — printed p. 13 |
 | Bhutan part — Ch.3 3.5 Signs and Symbols | Bhutan, *Bhutan Grade 8 Geography*, Ch.3 3.5 Signs and Symbols — printed p. 21 |
 | Bhutan part — Ch.4 4.7 Conventional Signs and Symbols | Bhutan, *Bhutan Grade 9 Geography*, Ch.4 4.7 Conventional Signs and Symbols — printed p. 30 |
+| Armenia part — Lesson 1.6 Conventional signs | Armenia, *Armenia Grade 7 Geography student*, Lesson 1.6 Conventional signs — printed p. 19 |
 
-**Acceptance count: taught in 17 countries (Ethiopia, Bahamas, Malaysia, India, Rwanda, Fiji, Sudan, Venezuela, Sri Lanka, Mauritania, Pakistan, Libya, Moldova, Nepal, Iraq, Nicaragua, Bhutan). Haiti is named here as teacher-sequence evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 18 countries (Ethiopia, Bahamas, Malaysia, India, Rwanda, Fiji, Sudan, Venezuela, Sri Lanka, Mauritania, Pakistan, Libya, Moldova, Nepal, Iraq, Nicaragua, Bhutan, Armenia). Haiti is named here as teacher-sequence evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Haiti's own way (teacher sequence — evidence): Geography opens with representing the Earth itself — globe-to-flat projection problems, orientation practised on the ground with compass/GPS/Google Maps, and time-zone puzzles worked on Haiti's own links (midday shared with Québec, 18h in Paris, Port-au-Prince–Paris flights); every séance ends in a croquis, a glossary and field observation. That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
@@ -155,3 +158,5 @@ Bhutan's own way (Bhutan Grade 4 Social Studies): Social Studies IV–VI integra
 Bhutan's own way (Bhutan Grade 8 Geography): Class VIII deepens the same three strands with real map-work (scale conversion, grid references, contours and profiles) and Bhutan-specific hazard and resource content, including the Rubesa wind turbine and hydroelectric dams as national resource examples.
 
 Bhutan's own way (Bhutan Grade 9 Geography): The Intermediate level (IX–X) treats each world topic at full textbook depth and keeps the Bhutan case inside it — Soils of Bhutan, agro-ecological zones and farming practices of Bhutan, and common disasters in Bhutan (including GLOF) alongside the world disaster survey.
+
+Armenia's own way (Armenia Grade 7 Geography student): opens school geography with the geographic map itself (plan, scale, azimuth, projections) before any Earth science, and runs every theme to a summary lesson plus practical work; world economy is taught branch by branch with Armenia (ՀՀ) used as the worked example in the closing questions.

@@ -1,6 +1,6 @@
 # Sources — Weather today, climate in general
 
-countries: Ethiopia, Guyana, Bahamas, Papua New Guinea, Syria, Venezuela, Pakistan
+countries: Ethiopia, Guyana, Bahamas, Papua New Guinea, Syria, Venezuela, Pakistan, Armenia
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Guyana, Bahamas, Papua New Guinea, Syria, Venezuela, Pakist
 
 **Book 9:** *معاشرتی علوم جماعت پنجم (Social Studies, Class 5), Single National Curriculum 2020* (student book, Urdu with English topic glosses) — Punjab Curriculum and Textbook Board (PCTB), Lahore; year 2022; ISBN no ISBN printed. Title as printed: معاشرتی علوم جماعت پنجم (Social Studies, Class 5), Single National Curriculum 2020. Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 114 (cover/title page verified against the record title; this book is also the TSV blob-URL record — same repo path, one book). Verdict: COMPLETE. All Pakistan PCTB books are image-only scans (no text layer); read page-by-page from 90–100 DPI 4-up contact sheets, covers verified visually (placements file header: 3 books read in place from phase3-staging, 2 grabbed via grab.py tree route; the 4 Telegram link records are the same PCTB books already held in staging/GitHub, so no new download or staging arose from them). This book is also the TSV blob-URL record — same repo path, one book. Non-Geography parts named, not placed: Ch.1 Citizenship, printed pp. 1–9; Ch.2 Culture, pp. 10–24; Ch.3 State and Government, pp. 25–32; Ch.4 History, pp. 33–50; Ch.6 Economics, pp. 86–108; Glossary, p. 109 Placements at liqlearns-courses-work/expansion-geography-2026-11-14/pakistan-placements.md.
 
+**Book 10:** *Աշխարհագրություն — Դասագիրք 7-րդ դասարանի համար (Geography, textbook for grade 7)* (student book, Armenian) — «Աստղիկ Գրատուն» (Astghik Gratun), Yerevan; year 2023; ISBN 978-9939-74-142-0. Authors: T. Vardanyan, A. Potosyan, V. Asatryan, L. Hakobyan. Title as printed: Աշխարհագրություն — Դասագիրք 7-րդ դասարանի համար (Geography, textbook for grade 7). Grade: 7 (student/teacher: STUDENT). PDF pages: 176 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). The book's legacy-font text layer was decoded with the standard Armenian font-encoding table and verified against its printed contents page. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Weather | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 2, printed pp. 37–39 |
@@ -32,8 +34,9 @@ countries: Ethiopia, Guyana, Bahamas, Papua New Guinea, Syria, Venezuela, Pakist
 | Syria part — A windy day (wind and weather) | Syria, *Syria Grade 2 Social Studies G2*, A windy day (wind and weather) — printed p. 78 |
 | Venezuela part — Cuando suenan las chicharras, ¿anuncian lluvia? (weather signs in nature) | Venezuela, *Venezuela Grade 2 G2 CS Viva Venezuela*, Cuando suenan las chicharras, ¿anuncian lluvia? (weather signs in nature) — printed p. 72 |
 | Pakistan part — Weather and Climate: reading a 7-day Islamabad weather report; world climate-zone map | Pakistan, *Pakistan Grade 5 SS5*, Weather and Climate: reading a 7-day Islamabad weather report; world climate-zone map — printed pp. 72–73 |
+| Armenia part — Lesson 3.12 Theme summary "Weather and climate: geographic zonality and belting" | Armenia, *Armenia Grade 7 Geography student*, Lesson 3.12 Theme summary "Weather and climate: geographic zonality and belting" — printed p. 95 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Guyana, Bahamas, Syria, Venezuela, Pakistan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 7 countries (Ethiopia, Guyana, Bahamas, Syria, Venezuela, Pakistan, Armenia). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Searchable tags: weather, climate, distinction, social studies
 
@@ -48,3 +51,5 @@ Syria's own way (Syria Grade 2 Social Studies G2): the same widening-rings desig
 Venezuela's own way (Venezuela Grade 2 G2 CS Viva Venezuela): population education (UNESCO population-education guides reworked) woven into story form — Tío Conejo tales, grandparents' memories and the child's own school and street carry population, housing, landscape and weather-sign content.
 
 Pakistan's own way (Pakistan Grade 5 SS5): the Class 5 Geography chapter (Ch.5, printed pp. 51–85) deepens the Class 4 spiral — same BOLTS, landforms, weather and population topics, but now with scale types, latitude/longitude and time-zone arithmetic, worked population-density calculations, and graph-drawing exercises from real Pakistani city data.
+
+Armenia's own way (Armenia Grade 7 Geography student): opens school geography with the geographic map itself (plan, scale, azimuth, projections) before any Earth science, and runs every theme to a summary lesson plus practical work; world economy is taught branch by branch with Armenia (ՀՀ) used as the worked example in the closing questions.

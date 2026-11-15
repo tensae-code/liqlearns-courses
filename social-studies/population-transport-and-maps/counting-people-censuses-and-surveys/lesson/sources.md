@@ -1,6 +1,6 @@
 # Sources — Counting people — censuses and surveys
 
-countries: Ethiopia, Bolivia, Dominican Republic, Samoa, India, Rwanda, Fiji, Papua New Guinea, Uganda, Sudan, Sri Lanka, Iran, Pakistan, Nepal, Mozambique, Jordan, Iraq, Bhutan
+countries: Ethiopia, Bolivia, Dominican Republic, Samoa, India, Rwanda, Fiji, Papua New Guinea, Uganda, Sudan, Sri Lanka, Iran, Pakistan, Nepal, Mozambique, Jordan, Iraq, Bhutan, Armenia
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -54,6 +54,10 @@ countries: Ethiopia, Bolivia, Dominican Republic, Samoa, India, Rwanda, Fiji, Pa
 
 **Book 26:** *ADVANCED GEOGRAPHY CLASS XI* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Thimphu; year Provisional Edition 2022, Copyright 2023, Reprint 2024; ISBN no ISBN printed. Title as printed: ADVANCED GEOGRAPHY CLASS XI. Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 182 (cover/title page verified against the record title; byte size 19,627,789 and page count match the books.json record exactly — read via the record's ministry source URL; this book is also the TSV release record grade-11-gov-bhutan-geography-full-year.pdf, same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
 
+**Book 27:** *Աշխարհագրություն — Դասագիրք 7-րդ դասարանի համար (Geography, textbook for grade 7)* (student book, Armenian) — «Աստղիկ Գրատուն» (Astghik Gratun), Yerevan; year 2023; ISBN 978-9939-74-142-0. Authors: T. Vardanyan, A. Potosyan, V. Asatryan, L. Hakobyan. Title as printed: Աշխարհագրություն — Դասագիրք 7-րդ դասարանի համար (Geography, textbook for grade 7). Grade: 7 (student/teacher: STUDENT). PDF pages: 176 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). The book's legacy-font text layer was decoded with the standard Armenian font-encoding table and verified against its printed contents page. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
+
+**Book 28:** *Հայաստանի աշխարհագրություն — 9-րդ դասարանի դասագիրք (Geography of Armenia, textbook for grade 9)* (student book, Armenian) — «Տիգրան Մեծ» (Tigran Mets), Yerevan; year 2025; ISBN 978-9939-976-05-1. Authors: M. Manasyan, A. Hovsepyan. Title as printed: Հայաստանի աշխարհագրություն — 9-րդ դասարանի դասագիրք (Geography of Armenia, textbook for grade 9). Grade: 9 (student/teacher: STUDENT). PDF pages: 176 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What population means | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 4, printed pp. 86–88 |
@@ -83,8 +87,10 @@ countries: Ethiopia, Bolivia, Dominican Republic, Samoa, India, Rwanda, Fiji, Pa
 | Iraq part — Ch. 3: Samples (العينات) against the complete census/survey — cost and time | Iraq, *Iraq Grade 10 Geography*, Ch. 3: Samples (العينات) against the complete census/survey — cost and time — printed p. 46 |
 | Iraq part — Ch. 1 Population geography: definition and fields of interest — population data and the census [placement slug: population-transport-and-maps/counting-people-the-census] | Iraq, *Iraq Grade 12 Human Geography*, Ch. 1 Population geography: definition and fields of interest — population data and the census — printed p. 5 |
 | Bhutan part — Ch.10 10.2 Population Census | Bhutan, *Bhutan Grade 11 Geography*, Ch.10 10.2 Population Census — printed p. 111 |
+| Armenia part — Lesson 5.7 Practical work (population data) | Armenia, *Armenia Grade 7 Geography student*, Lesson 5.7 Practical work (population data) — printed p. 125 |
+| Armenia part — §31 Practical work (population data of the home district) | Armenia, *Armenia Grade 9 Geography of Armenia student*, §31 Practical work (population data of the home district) — printed p. 89 |
 
-**Acceptance count: taught in 17 countries (Ethiopia, Bolivia, Dominican Republic, Samoa, India, Rwanda, Fiji, Uganda, Sudan, Sri Lanka, Iran, Pakistan, Nepal, Mozambique, Jordan, Iraq, Bhutan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 18 countries (Ethiopia, Bolivia, Dominican Republic, Samoa, India, Rwanda, Fiji, Uganda, Sudan, Sri Lanka, Iran, Pakistan, Nepal, Mozambique, Jordan, Iraq, Bhutan, Armenia). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Bolivia's own way (Grade 8, Secundaria 2): Secundaria 2 is the colonial-history year, so geography enters through the land itself: the Tawantinsuyo's territorial division into suyos, the Amazonian hydraulic cultures who farmed a flooding landscape with raised beds and purified water, the ayllu-versus-hacienda struggle over communal land, and where Afro-Bolivian communities settled in the Yungas.
 
@@ -135,3 +141,7 @@ Iraq's own way (Iraq Grade 10 Geography): the literary track opens geography as 
 Iraq's own way (Iraq Grade 12 Human Geography): a human-geography course in six chapters — population, cities and countryside, agriculture, industry and mining, transport and trade, political geography and tourism — and every chapter closes with an applied study of Iraq itself, so the world pattern is always brought home.
 
 Bhutan's own way (Bhutan Grade 11 Geography): The Advanced level (XI–XII) is full academic geography — map projections, remote sensing and GIS, insolation and pressure belts, climate classification — with Bhutan applied chapters on agriculture, manufacturing and tourism, the last taught on Bhutan's own sustainability principle ("high value, low volume" in the Bhutan Tourism Monitor data the book uses).
+
+Armenia's own way (Armenia Grade 7 Geography student): opens school geography with the geographic map itself (plan, scale, azimuth, projections) before any Earth science, and runs every theme to a summary lesson plus practical work; world economy is taught branch by branch with Armenia (ՀՀ) used as the worked example in the closing questions.
+
+Armenia's own way (Armenia Grade 9 Geography of Armenia student): the whole grade-9 year is the home country — first the Armenian Highlands as a physical whole, then the Republic section by section (nature, population, economy), finishing marz by marz (all 10 provinces) so every learner ends by studying their own province.

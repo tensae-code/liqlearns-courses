@@ -1,6 +1,6 @@
 # Sources — Human geography — the people side
 
-countries: Ethiopia, Myanmar, Ukraine, Bolivia, Fiji, Uganda, Sudan, Mauritania, Afghanistan, Iran, Honduras, Mozambique, Iraq
+countries: Ethiopia, Myanmar, Ukraine, Bolivia, Fiji, Uganda, Sudan, Mauritania, Afghanistan, Iran, Honduras, Mozambique, Iraq, Armenia
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -40,6 +40,8 @@ countries: Ethiopia, Myanmar, Ukraine, Bolivia, Fiji, Uganda, Sudan, Mauritania,
 
 **Book 19:** *أُسُس الجغرافية وتقنياتها (Foundations of Geography and Its Techniques) للصف الرابع الأدبي — the record's shorter title "Geography (Literary Track)" is the same book: same grade, track and subject, verified by cover and contents* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; revised by a committee in the Ministry of Education; year 1445 AH / 2023 CE, revised 13th edition (الطبعة الثالثة عشرة / المنقحة); ISBN no ISBN printed on the title pages. Title as printed: أُسُس الجغرافية وتقنياتها (Foundations of Geography and Its Techniques) للصف الرابع الأدبي — the record's shorter title "Geography (Literary Track)" is the same book: same grade, track and subject, verified by cover and contents. Grade: 10 (fourth secondary, literary track) (student/teacher: STUDENT). PDF pages: 144 (cover/title page verified as above; read via the books.json record's own Google Drive source file — same book, cover and contents verified — after the GitHub route failed). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iraq-placements.md.
 
+**Book 20:** *Աշխարհագրություն — Դասագիրք 7-րդ դասարանի համար (Geography, textbook for grade 7)* (student book, Armenian) — «Աստղիկ Գրատուն» (Astghik Gratun), Yerevan; year 2023; ISBN 978-9939-74-142-0. Authors: T. Vardanyan, A. Potosyan, V. Asatryan, L. Hakobyan. Title as printed: Աշխարհագրություն — Դասագիրք 7-րդ դասարանի համար (Geography, textbook for grade 7). Grade: 7 (student/teacher: STUDENT). PDF pages: 176 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). The book's legacy-font text layer was decoded with the standard Armenian font-encoding table and verified against its printed contents page. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The people side | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 1, printed pp. 7–8 |
@@ -63,8 +65,9 @@ countries: Ethiopia, Myanmar, Ukraine, Bolivia, Fiji, Uganda, Sudan, Mauritania,
 | Mozambique part — Lição 1: Geografia da População (concept, object and importance of population geography) | Mozambique, *Mozambique Grade 10 PESD II Mod 5*, Lição 1: Geografia da População (concept, object and importance of population geography) — printed p. 5 |
 | Iraq part — Ch. 1: Human phenomena — city, factory, house, cultivated land (photograph sorting activity) | Iraq, *Iraq Grade 4 Social Studies*, Ch. 1: Human phenomena — city, factory, house, cultivated land (photograph sorting activity) — printed p. 7 |
 | Iraq part — Ch. 5: Fields of human geography — population geography and its problems of collecting population data | Iraq, *Iraq Grade 10 Geography*, Ch. 5: Fields of human geography — population geography and its problems of collecting population data — printed p. 124 |
+| Armenia part — Lesson 5.8 Theme summary "Geography of the world's population" | Armenia, *Armenia Grade 7 Geography student*, Lesson 5.8 Theme summary "Geography of the world's population" — printed p. 126 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Ukraine, Bolivia, Fiji, Uganda, Sudan, Mauritania, Afghanistan, Iran, Honduras, Mozambique, Iraq). Myanmar is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 13 countries (Ethiopia, Ukraine, Bolivia, Fiji, Uganda, Sudan, Mauritania, Afghanistan, Iran, Honduras, Mozambique, Iraq, Armenia). Myanmar is named here as teacher-guide evidence only, counted nowhere.**
 
 Ukraine's own way: A "Geography: Regions and Countries" course — every region is done in the same order (position, nature/resources, population, primary/secondary/tertiary sectors) then typological country studies with rubrics (country visiting-card, capital, pride of the country, unique experience), ending with Ukraine's own place in the world; research tasks (Дослідження) embedded in chapters. That way is stocked here as the way Ukraine teaches this thing.
 
@@ -101,3 +104,5 @@ Mozambique's own way (Mozambique Grade 10 PESD II Mod 5): population geography t
 Iraq's own way (Iraq Grade 4 Social Studies): geography enters inside "Social Studies" through the child's own surroundings — phenomena are sorted from photographs first, then the local environment, then the map of Iraq's governorates, and only then the wider geographical environments (city, countryside); history and homeland/civics chapters follow in the same book.
 
 Iraq's own way (Iraq Grade 10 Geography): the literary track opens geography as a discipline in its own right — its thought from the Sumerians to GIS, how a geographer researches, where geographical data come from and how they are drawn, and only then the fields of the science; Iraq supplies the worked examples throughout (Baghdad research problem, Iraqi topographic maps, Iraq's gas time series, the Baghdad–Basra distance exercise).
+
+Armenia's own way (Armenia Grade 7 Geography student): opens school geography with the geographic map itself (plan, scale, azimuth, projections) before any Earth science, and runs every theme to a summary lesson plus practical work; world economy is taught branch by branch with Armenia (ՀՀ) used as the worked example in the closing questions.

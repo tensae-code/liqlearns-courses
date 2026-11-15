@@ -1,6 +1,6 @@
 # Sources — Primary activities — kinds of farming
 
-countries: Ethiopia, Nauru, Tuvalu, Niue, Palestine, Bahamas, Samoa, Eritrea, India, Cambodia, Fiji, Papua New Guinea, Uganda, Sudan, Syria, Sri Lanka, Mauritania, Kuwait, Iran, Pakistan, Libya, Moldova, Mozambique, Bhutan
+countries: Ethiopia, Nauru, Tuvalu, Niue, Palestine, Bahamas, Samoa, Eritrea, India, Cambodia, Fiji, Papua New Guinea, Uganda, Sudan, Syria, Sri Lanka, Mauritania, Kuwait, Iran, Pakistan, Libya, Moldova, Mozambique, Bhutan, Armenia
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 2 — Population Studies and Socio-Economic Activities, printed pp. 44–76).
 
@@ -82,6 +82,10 @@ countries: Ethiopia, Nauru, Tuvalu, Niue, Palestine, Bahamas, Samoa, Eritrea, In
 
 **Book 40:** *INTERMEDIATE GEOGRAPHY CLASS IX* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu (title page; developed with the Royal Education Council, Paro); year Reprint 2024 (page footers); ISBN no ISBN printed (no imprint page in the PDF). Title as printed: INTERMEDIATE GEOGRAPHY CLASS IX. Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 123 (cover/title page verified against the record title; byte size 10,807,956 and page count match the books.json record exactly — read via the record's ministry source URL). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
 
+**Book 41:** *Աշխարհագրություն — Դասագիրք 7-րդ դասարանի համար (Geography, textbook for grade 7)* (student book, Armenian) — «Աստղիկ Գրատուն» (Astghik Gratun), Yerevan; year 2023; ISBN 978-9939-74-142-0. Authors: T. Vardanyan, A. Potosyan, V. Asatryan, L. Hakobyan. Title as printed: Աշխարհագրություն — Դասագիրք 7-րդ դասարանի համար (Geography, textbook for grade 7). Grade: 7 (student/teacher: STUDENT). PDF pages: 176 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). The book's legacy-font text layer was decoded with the standard Armenian font-encoding table and verified against its printed contents page. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
+
+**Book 42:** *Աշխարհագրություն 11 — Հանրակրթական ավագ դպրոցի 11-րդ դասարանի դասագիրք (Geography 11, senior-school textbook)* (student book, Armenian) — «Զանգակ» (Zangak), Yerevan; year 2025; ISBN 978-9939-99-284-6. Authors: A. Hovsepyan, M. Manasyan, A. Potosyan, V. Asatryan. Title as printed: Աշխարհագրություն 11 — Հանրակրթական ավագ դպրոցի 11-րդ դասարանի դասագիրք (Geography 11, senior-school textbook). Grade: 11 (student/teacher: STUDENT). PDF pages: 192 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — By product, and by purpose | Ethiopia, *Social Studies Student Textbook, Grade 8* (Amhara Bureau), printed pp. 55–56 |
@@ -131,8 +135,10 @@ countries: Ethiopia, Nauru, Tuvalu, Niue, Palestine, Bahamas, Samoa, Eritrea, In
 | Mozambique part — Lição 11: Os tipos de agricultura — tradicional vs moderna (plus colonial and post-independence Mozambican agriculture) | Mozambique, *Mozambique Grade 7 PESD I Mod 2*, Lição 11: Os tipos de agricultura — tradicional vs moderna (plus colonial and post-independence Mozambican agriculture) — printed p. 53 |
 | Mozambique part — Lição 1: integration of cropping and livestock (crops chosen for the herd's food needs) | Mozambique, *Mozambique Grade 10 PESD II Mod 6*, Lição 1: integration of cropping and livestock (crops chosen for the herd's food needs) — printed p. 6 |
 | Bhutan part — Ch.11 11.4 Types of Farming | Bhutan, *Bhutan Grade 9 Geography*, Ch.11 11.4 Types of Farming — printed p. 100 |
+| Armenia part — Lesson 7.10 Crop farming | Armenia, *Armenia Grade 7 Geography student*, Lesson 7.10 Crop farming — printed p. 156 |
+| Armenia part — §10 Distribution and specialisation of world agriculture | Armenia, *Armenia Grade 11 Geography student*, §10 Distribution and specialisation of world agriculture — printed p. 63 |
 
-**Acceptance count: taught in 23 countries (Ethiopia, Nauru, Tuvalu, Niue, Palestine, Bahamas, Samoa, Eritrea, India, Cambodia, Fiji, Uganda, Sudan, Syria, Sri Lanka, Mauritania, Kuwait, Iran, Pakistan, Libya, Moldova, Mozambique, Bhutan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 24 countries (Ethiopia, Nauru, Tuvalu, Niue, Palestine, Bahamas, Samoa, Eritrea, India, Cambodia, Fiji, Uganda, Sudan, Syria, Sri Lanka, Mauritania, Kuwait, Iran, Pakistan, Libya, Moldova, Mozambique, Bhutan, Armenia). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Niue's own way: Niue uses the shared Pacific ESD reader suite (Niue advisor Birtha Togahai) — land Geography is taught through Pacific farming itself: taro, pulaka and the coconut "tree of life", with Niue's own crops, exports and name-story ("behold the coconut") as anchor examples, and shifting cultivation/fallowing taught as sound science. That way is stocked here as the way Niue teaches this thing.
 
@@ -215,3 +221,7 @@ Mozambique's own way (Mozambique Grade 7 PESD I Mod 2): human/economic geography
 Mozambique's own way (Mozambique Grade 10 PESD II Mod 6): farming taught historically first — the Neolithic revolution, the Iron civilisation, and what the Industrial Revolution gave agriculture — then agrarian space and its natural/human factors, farming systems by development level, and the tropical systems (dryland, oasis, monsoon rice) before modern farming and livestock.
 
 Bhutan's own way (Bhutan Grade 9 Geography): The Intermediate level (IX–X) treats each world topic at full textbook depth and keeps the Bhutan case inside it — Soils of Bhutan, agro-ecological zones and farming practices of Bhutan, and common disasters in Bhutan (including GLOF) alongside the world disaster survey.
+
+Armenia's own way (Armenia Grade 7 Geography student): opens school geography with the geographic map itself (plan, scale, azimuth, projections) before any Earth science, and runs every theme to a summary lesson plus practical work; world economy is taught branch by branch with Armenia (ՀՀ) used as the worked example in the closing questions.
+
+Armenia's own way (Armenia Grade 11 Geography student): the senior Geography course is two big themes only — the world economy in depth (structure, division of labour, every branch, transport systems, trade) and then the environment (ecological balance, pollution of air and water, land degradation, biodiversity, ecosystem services), i.e. economy first, its ecological bill second.

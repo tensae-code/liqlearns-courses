@@ -1,6 +1,6 @@
 # Sources — True, magnetic and grid north — and bearings
 
-countries: Ethiopia, Malaysia, Papua New Guinea, Uganda
+countries: Ethiopia, Malaysia, Papua New Guinea, Uganda, Armenia
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Malaysia, Papua New Guinea, Uganda
 
 **Book 6:** *Geography Textbook — Senior One (Lower Secondary Curriculum, Prototype)* (student book, English) — National Curriculum Development Centre (NCDC), Kampala; year 2020 (prototype); ISBN no ISBN printed. Title as printed: Geography Textbook — Senior One (Lower Secondary Curriculum, Prototype). Grade: Senior One = Grade 8 (student/teacher: STUDENT). PDF pages: 126 (cover verified: "GEOGRAPHY TEXTBOOK SENIOR ONE", NCDC Prototype — matches record; read via the record's books.json source_url at ncdc.go.ug after grab.py release and tree routes both failed with RemoteDisconnected from api.github.com, 3 attempts). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/uganda-placements.md.
 
+**Book 7:** *Աշխարհագրություն — Դասագիրք 7-րդ դասարանի համար (Geography, textbook for grade 7)* (student book, Armenian) — «Աստղիկ Գրատուն» (Astghik Gratun), Yerevan; year 2023; ISBN 978-9939-74-142-0. Authors: T. Vardanyan, A. Potosyan, V. Asatryan, L. Hakobyan. Title as printed: Աշխարհագրություն — Դասագիրք 7-րդ դասարանի համար (Geography, textbook for grade 7). Grade: 7 (student/teacher: STUDENT). PDF pages: 176 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). The book's legacy-font text layer was decoded with the standard Armenian font-encoding table and verified against its printed contents page. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The three norths | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 8, printed pp. 217–218 |
@@ -23,8 +25,9 @@ countries: Ethiopia, Malaysia, Papua New Guinea, Uganda
 | Malaysia part (MY T4 Geografi Tingkatan 4) — Bab 1.4: measuring grid bearings in a topographic map | Malaysia, *MY T4 Geografi*, Bab 1.4: measuring grid bearings in a topographic map — printed pp. 12-13 |
 | Papua New Guinea part — Unit 1, Topic 3: Distance, direction and bearing (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 11 Geography TG SBC* (teacher guide), Unit 1, Topic 3: Distance, direction and bearing — printed p. 41 |
 | Uganda part — Ch.3 Bearing (Tororo map exercises) | Uganda, *Uganda Grade 8 UG S1 Geography Student*, Ch.3 Bearing (Tororo map exercises) — printed p. 29 |
+| Armenia part — Lesson 1.3 Practical work: orientation by plan, azimuth | Armenia, *Armenia Grade 7 Geography student*, Lesson 1.3 Practical work: orientation by plan, azimuth — printed p. 10 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Malaysia, Uganda). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 4 countries (Ethiopia, Malaysia, Uganda, Armenia). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Searchable tags: three norths, true north, magnetic north, grid north, bearings, declination, social studies
 
@@ -35,3 +38,5 @@ Malaysia's own way (MY T4 Geografi Tingkatan 4): upper-secondary Geography is a 
 Papua New Guinea's own way (Papua New Guinea Grade 11 Geography TG SBC) (teacher guide — evidence): the standards-based senior Geography course keeps the four-unit frame of the Grade 9–10 strand (Geography Skills; People and Places; People and Resources; People and Environment) as a standalone subject — a heavy map-skills unit (grid references, bearings, cross-sections, climate graphs) before climate regions, biomass, oceanography, and the structure of the Earth. That evidence is stocked here as the way Papua New Guinea teaches this thing; it does not change the acceptance count above.
 
 Uganda's own way (Uganda Grade 8 UG S1 Geography Student): Competency-based lower-secondary course taught entirely through East Africa: every skill (maps, fieldwork, photographs) is practised on Ugandan/East African places (Tororo topographic map, Uganda lat/long map), and the physical half is East Africa's relief, landform formation, climate and vegetation rather than world coverage.
+
+Armenia's own way (Armenia Grade 7 Geography student): opens school geography with the geographic map itself (plan, scale, azimuth, projections) before any Earth science, and runs every theme to a summary lesson plus practical work; world economy is taught branch by branch with Armenia (ՀՀ) used as the worked example in the closing questions.

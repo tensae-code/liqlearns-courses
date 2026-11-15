@@ -1,6 +1,6 @@
 # Sources — The Earth — Place, Shape and Size
 
-countries: Ethiopia, Saudi Arabia, Myanmar, Turkey, Haiti, Palestine, Angola, Dominican Republic, Bahamas, Colombia, Uganda, Venezuela, Sri Lanka, Mauritania, Kuwait, Afghanistan, Yemen, Libya, Moldova, Honduras, Nepal, Mozambique, Laos, Iraq, Nicaragua, Bhutan
+countries: Ethiopia, Saudi Arabia, Myanmar, Turkey, Haiti, Palestine, Angola, Dominican Republic, Bahamas, Colombia, Uganda, Venezuela, Sri Lanka, Mauritania, Kuwait, Afghanistan, Yemen, Libya, Moldova, Honduras, Nepal, Mozambique, Laos, Iraq, Nicaragua, Bhutan, Armenia
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page - 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md.
 
@@ -80,6 +80,8 @@ countries: Ethiopia, Saudi Arabia, Myanmar, Turkey, Haiti, Palestine, Angola, Do
 
 **Book 39:** *INTERMEDIATE GEOGRAPHY CLASS IX* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu (title page; developed with the Royal Education Council, Paro); year Reprint 2024 (page footers); ISBN no ISBN printed (no imprint page in the PDF). Title as printed: INTERMEDIATE GEOGRAPHY CLASS IX. Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 123 (cover/title page verified against the record title; byte size 10,807,956 and page count match the books.json record exactly — read via the record's ministry source URL). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
 
+**Book 40:** *ԱՇԽԱՐՀԱԳՐՈՒԹՅՈՒՆ 10 (Geography 10)* (student book, Armenian) — Էդիթ Պրինտ (Edit Print), Yerevan; year 2023 (title page 2024); ISBN 978-9939-969-06-0. Authors: Ashot Khachatryan, Yurik Muradyan. Title as printed: ԱՇԽԱՐՀԱԳՐՈՒԹՅՈՒՆ 10 (Geography 10). Grade: 10 (student/teacher: STUDENT). PDF pages: 194 (printed 192; cover/title page verified against the record title). Verdict: COMPLETE — the senior Geography course in 7 themes: methods & cartography, lithosphere, atmosphere & climate, river hydrology, the political map of the world, world population, world natural resources. Read in full from contact sheets; every lesson opener and the printed contents (pp. 190-191) checked. Read in full from 100-DPI contact sheets (image-only book); every lesson opener and the printed contents (pp. 190-191) checked. Also read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Earth's place | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 1, printed p. 15 |
@@ -124,8 +126,9 @@ countries: Ethiopia, Saudi Arabia, Myanmar, Turkey, Haiti, Palestine, Angola, Do
 | Bhutan part — 1.1 The Earth | Bhutan, *Bhutan Grade 5 Social Studies*, 1.1 The Earth — printed p. 1 |
 | Bhutan part — 1.2 The Earth | Bhutan, *Bhutan Grade 6 Social Studies*, 1.2 The Earth — printed p. 3 |
 | Bhutan part — Ch.1 1.2 Shape of the Earth / 1.4 Size of the Earth | Bhutan, *Bhutan Grade 9 Geography*, Ch.1 1.2 Shape of the Earth / 1.4 Size of the Earth — printed p. 2 |
+| Armenia part — 2.2 The Earth's shape and dimensions | Armenia, *Armenia Grade 10 Geography student*, 2.2 The Earth's shape and dimensions — printed p. 59 |
 
-**Acceptance count: taught in 24 countries (Ethiopia, Saudi Arabia, Turkey, Palestine, Angola, Dominican Republic, Bahamas, Colombia, Uganda, Venezuela, Sri Lanka, Mauritania, Kuwait, Afghanistan, Yemen, Libya, Moldova, Honduras, Nepal, Mozambique, Laos, Iraq, Nicaragua, Bhutan). Myanmar is named here as teacher-guide evidence only, counted nowhere. Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 25 countries (Ethiopia, Saudi Arabia, Turkey, Palestine, Angola, Dominican Republic, Bahamas, Colombia, Uganda, Venezuela, Sri Lanka, Mauritania, Kuwait, Afghanistan, Yemen, Libya, Moldova, Honduras, Nepal, Mozambique, Laos, Iraq, Nicaragua, Bhutan, Armenia). Myanmar is named here as teacher-guide evidence only, counted nowhere. Haiti is named here as teacher-sequence evidence only, counted nowhere.**
 
 Haiti's own way (teacher sequence — evidence): Geography opens with representing the Earth itself — globe-to-flat projection problems, orientation practised on the ground with compass/GPS/Google Maps, and time-zone puzzles worked on Haiti's own links (midday shared with Québec, 18h in Paris, Port-au-Prince–Paris flights); every séance ends in a croquis, a glossary and field observation. That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
@@ -204,3 +207,5 @@ Bhutan's own way (Bhutan Grade 5 Social Studies): Grade 5 spirals from the Earth
 Bhutan's own way (Bhutan Grade 6 Social Studies): Grade 6 turns to Bhutan's own climate zones, population and signature environment topics — hydropower, urbanisation and glacial lake outburst floods (GLOF) — a hazard set specific to a Himalayan kingdom.
 
 Bhutan's own way (Bhutan Grade 9 Geography): The Intermediate level (IX–X) treats each world topic at full textbook depth and keeps the Bhutan case inside it — Soils of Bhutan, agro-ecological zones and farming practices of Bhutan, and common disasters in Bhutan (including GLOF) alongside the world disaster survey.
+
+Armenia's own way (Armenia Grade 10 Geography student): grade-10 Geography is a methods-first course — it opens with the science's history, branches and GIS/GPS/aerospace methods, works through the lithosphere with a full natural-disasters lesson, and closes with resources measured by endowment; Armenia's own rivers fill the hydrology tables and Armenia's place in modern geopolitics closes the political-map theme.

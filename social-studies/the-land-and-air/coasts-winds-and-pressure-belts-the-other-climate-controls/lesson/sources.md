@@ -1,6 +1,6 @@
 # Sources — Coasts, winds and pressure belts — the other climate controls
 
-countries: Ethiopia, Turkey, Dominican Republic, India, Cambodia, Fiji, Slovenia, Vietnam, Papua New Guinea, Mauritania, Iran, Libya, Moldova, Mozambique, Iraq, Bhutan
+countries: Ethiopia, Turkey, Dominican Republic, India, Cambodia, Fiji, Slovenia, Vietnam, Papua New Guinea, Mauritania, Iran, Libya, Moldova, Mozambique, Iraq, Bhutan, Armenia
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -44,6 +44,8 @@ countries: Ethiopia, Turkey, Dominican Republic, India, Cambodia, Fiji, Slovenia
 
 **Book 21:** *ADVANCED GEOGRAPHY CLASS XI* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Thimphu; year Provisional Edition 2022, Copyright 2023, Reprint 2024; ISBN no ISBN printed. Title as printed: ADVANCED GEOGRAPHY CLASS XI. Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 182 (cover/title page verified against the record title; byte size 19,627,789 and page count match the books.json record exactly — read via the record's ministry source URL; this book is also the TSV release record grade-11-gov-bhutan-geography-full-year.pdf, same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
 
+**Book 22:** *Աշխարհագրություն — Դասագիրք 7-րդ դասարանի համար (Geography, textbook for grade 7)* (student book, Armenian) — «Աստղիկ Գրատուն» (Astghik Gratun), Yerevan; year 2023; ISBN 978-9939-74-142-0. Authors: T. Vardanyan, A. Potosyan, V. Asatryan, L. Hakobyan. Title as printed: Աշխարհագրություն — Դասագիրք 7-րդ դասարանի համար (Geography, textbook for grade 7). Grade: 7 (student/teacher: STUDENT). PDF pages: 176 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). The book's legacy-font text layer was decoded with the standard Armenian font-encoding table and verified against its printed contents page. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Land heats fast, water slowly | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 2, printed pp. 47–50 |
@@ -70,8 +72,9 @@ countries: Ethiopia, Turkey, Dominican Republic, India, Cambodia, Fiji, Slovenia
 | Iraq part — Unit 1 Ch. 1: Air pressure and winds — the north winds and the humid south-eastern (sharqi) wind from the Arab Gulf | Iraq, *Iraq Grade 9 Social Studies*, Unit 1 Ch. 1: Air pressure and winds — the north winds and the humid south-eastern (sharqi) wind from the Arab Gulf — printed p. 19 |
 | Iraq part — Ch. 2: Air pressure (الضغط الجوي) — measuring it, air masses' effect on it, and the shifting pressure belts | Iraq, *Iraq Grade 11 Physical Geography*, Ch. 2: Air pressure (الضغط الجوي) — measuring it, air masses' effect on it, and the shifting pressure belts — printed p. 41 |
 | Bhutan part — Ch.7 7.6 Atmospheric Pressure / 7.7 Pressure belts / 7.8 Factors affecting atmospheric pressure | Bhutan, *Bhutan Grade 11 Geography*, Ch.7 7.6 Atmospheric Pressure / 7.7 Pressure belts / 7.8 Factors affecting atmospheric pressure — printed p. 97 |
+| Armenia part — Lesson 3.2 Atmospheric pressure: wind: the wind rose | Armenia, *Armenia Grade 7 Geography student*, Lesson 3.2 Atmospheric pressure: wind: the wind rose — printed p. 55 |
 
-**Acceptance count: taught in 15 countries (Ethiopia, Turkey, Dominican Republic, India, Cambodia, Fiji, Slovenia, Vietnam, Mauritania, Iran, Libya, Moldova, Mozambique, Iraq, Bhutan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 16 countries (Ethiopia, Turkey, Dominican Republic, India, Cambodia, Fiji, Slovenia, Vietnam, Mauritania, Iran, Libya, Moldova, Mozambique, Iraq, Bhutan, Armenia). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
@@ -114,3 +117,5 @@ Iraq's own way (Iraq Grade 9 Social Studies): Grade 9 returns to Iraq for the fu
 Iraq's own way (Iraq Grade 11 Physical Geography): a pure physical-geography course in six chapters — landforms, weather and climate, water, the biosphere, soil, and the environment — with Iraqi anchors kept throughout (flood visits to Iraq's rivers, the hills of northern Iraq, groundwater and the desert caravans, soil salinity in the alluvial plain).
 
 Bhutan's own way (Bhutan Grade 11 Geography): The Advanced level (XI–XII) is full academic geography — map projections, remote sensing and GIS, insolation and pressure belts, climate classification — with Bhutan applied chapters on agriculture, manufacturing and tourism, the last taught on Bhutan's own sustainability principle ("high value, low volume" in the Bhutan Tourism Monitor data the book uses).
+
+Armenia's own way (Armenia Grade 7 Geography student): opens school geography with the geographic map itself (plan, scale, azimuth, projections) before any Earth science, and runs every theme to a summary lesson plus practical work; world economy is taught branch by branch with Armenia (ՀՀ) used as the worked example in the closing questions.

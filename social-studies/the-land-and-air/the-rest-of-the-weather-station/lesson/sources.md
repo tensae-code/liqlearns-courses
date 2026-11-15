@@ -1,6 +1,6 @@
 # Sources — The rest of the weather station
 
-countries: Ethiopia, Cambodia, Uganda, Sudan, Sri Lanka, Libya, Jordan
+countries: Ethiopia, Cambodia, Uganda, Sudan, Sri Lanka, Libya, Jordan, Armenia
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -24,6 +24,8 @@ countries: Ethiopia, Cambodia, Uganda, Sudan, Sri Lanka, Libya, Jordan
 
 **Book 11:** *الجغرافيا — الصف الثاني عشر / المسار الأكاديمي — الفصل الدراسي الثاني (Geography, Grade 12 Academic Track, Term 2)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-950-2. Title as printed: الجغرافيا — الصف الثاني عشر / المسار الأكاديمي — الفصل الدراسي الثاني (Geography, Grade 12 Academic Track, Term 2). Grade: 12 (student/teacher: STUDENT). PDF pages: 136 (cover verified; byte size 118,626,340 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
 
+**Book 12:** *Աշխարհագրություն — Դասագիրք 7-րդ դասարանի համար (Geography, textbook for grade 7)* (student book, Armenian) — «Աստղիկ Գրատուն» (Astghik Gratun), Yerevan; year 2023; ISBN 978-9939-74-142-0. Authors: T. Vardanyan, A. Potosyan, V. Asatryan, L. Hakobyan. Title as printed: Աշխարհագրություն — Դասագիրք 7-րդ դասարանի համար (Geography, textbook for grade 7). Grade: 7 (student/teacher: STUDENT). PDF pages: 176 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). The book's legacy-font text layer was decoded with the standard Armenian font-encoding table and verified against its printed contents page. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Pressure, humidity, sunshine, cloud | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 2, printed pp. 54–56 |
@@ -38,8 +40,9 @@ countries: Ethiopia, Cambodia, Uganda, Sudan, Sri Lanka, Libya, Jordan
 | Jordan part — Unit 7 Lesson 2: Elements of Climate 2 — Wind (عناصر المناخ: الرياح) | Jordan, *Jordan G6 SS T2*, Unit 7 Lesson 2: Elements of Climate 2 — Wind (عناصر المناخ: الرياح) — printed p. 36 |
 | Jordan part — Unit 3 Enrichment: Weather Balloons (بالونات الطقس) | Jordan, *Jordan G10 ES T2*, Unit 3 Enrichment: Weather Balloons (بالونات الطقس) — printed p. 22 |
 | Jordan part — Unit 4 Lesson 3: Elements of Climate 2 (عناصر المناخ 2) | Jordan, *Jordan G12 Geography T2*, Unit 4 Lesson 3: Elements of Climate 2 (عناصر المناخ 2) — printed p. 29 |
+| Armenia part — Lesson 3.4 Practical work (weather observation) | Armenia, *Armenia Grade 7 Geography student*, Lesson 3.4 Practical work (weather observation) — printed p. 64 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Cambodia, Uganda, Sudan, Sri Lanka, Libya, Jordan).**
+**Acceptance count: taught in 8 countries (Ethiopia, Cambodia, Uganda, Sudan, Sri Lanka, Libya, Jordan, Armenia).**
 
 Searchable tags: barometer, hygrometer, sunshine recorder, oktas, anemometer, wind vane, weather station, social studies
 
@@ -60,3 +63,5 @@ Jordan's own way (Jordan G6 SS T2): Term 2's geography is climate done properly 
 Jordan's own way (Jordan G10 ES T2): Term 2 is weather watching (air masses, fronts, pressure systems, weather balloons), the oceans (water, waves, currents, satellite study), and wastewater — what it is, its harms, and how Jordan treats it.
 
 Jordan's own way (Jordan G12 Geography T2): the final Geography term is climate (atmosphere, elements, classifications, change), environment (components, problems, protection, Jordanian ecotourism), and economic geography (production, agriculture, industry, services, development).
+
+Armenia's own way (Armenia Grade 7 Geography student): opens school geography with the geographic map itself (plan, scale, azimuth, projections) before any Earth science, and runs every theme to a summary lesson plus practical work; world economy is taught branch by branch with Armenia (ՀՀ) used as the worked example in the closing questions.

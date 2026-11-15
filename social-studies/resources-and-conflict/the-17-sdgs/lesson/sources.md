@@ -1,6 +1,6 @@
 # Sources — The 17 SDGs
 
-countries: Ethiopia, Papua New Guinea, Moldova
+countries: Ethiopia, Papua New Guinea, Moldova, Armenia
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -8,14 +8,17 @@ countries: Ethiopia, Papua New Guinea, Moldova
 
 **Book 3:** *Geografie — Manual pentru clasa a IX-a (Geografia umană a Republicii Moldova)* (student book, Romanian) — Editura ARC, Chișinău; authors Vitalie Sochircă, Natalia Cozma, Tatiana Baciu; ISBN 978-9975-0-0859-4; elaborated under the 2019 curriculum (Ministry order no. 906 of 17 July 2019); year not printed on the pages read. Title as printed: Geografie — Manual pentru clasa a IX-a (Geografia umană a Republicii Moldova). Grade: 9 (student/teacher: STUDENT). PDF pages: 130 (cover verified against the record title; 77,295,436 bytes = record size exactly, from the recorded eduresurse.gov.md source after repeated truncated connections were completed with a resume loop; the GitHub release route disconnected mid-download — the book is already in GitHub per its record, so no staging). Verdict: COMPLETE. 12 records / 6 distinct books (TSV + books.json duplicates of the same 6 manuals) — read from the recorded ministry source URLs (eduresurse.gov.md / ctice.md) after the GitHub API route disconnected twice; byte size and page count verified against each record before reading; full text-layer page-by-page reads, as the placements file header records. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/moldova-placements.md.
 
+**Book 4:** *Աշխարհագրություն 12 — Հանրակրթական ավագ դպրոցի 12-րդ դասարանի դասագիրք (Geography 12, senior-school textbook)* (student book, Armenian) — «Զանգակ» (Zangak), Yerevan; year 2025; ISBN 978-9939-99-290-7. Authors: M. Manasyan, A. Hovsepyan, A. Potosyan. Title as printed: Աշխարհագրություն 12 — Հանրակրթական ավագ դպրոցի 12-րդ դասարանի դասագիրք (Geography 12, senior-school textbook). Grade: 12 (student/teacher: STUDENT). PDF pages: 132 (printed 128; cover/title page verified against the record title). Verdict: COMPLETE. Read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The goals, whole | G12 student #38, printed pp. 66–68 |
 | Sub lesson 2 — What they are for — and Ethiopia's adoption | G12 student #38, printed pp. 66–68 |
 | Papua New Guinea part — Strand 5 Unit 4, Topic 4: Sustainable Development Goals 2030 (with Topic 3 of Unit 3, Sustainability) (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 9 Social Science TG* (teacher guide), Strand 5 Unit 4, Topic 4: Sustainable Development Goals 2030 (with Topic 3 of Unit 3, Sustainability) — printed p. 257 |
 | Moldova part — §29 The Republic of Moldova in the context of regional cooperation, globalisation and sustainable development [placement slug: global-issues/sustainable-development-goals] | Moldova, *Moldova Grade 9 Geography*, §29 The Republic of Moldova in the context of regional cooperation, globalisation and sustainable development — printed p. 122 |
+| Armenia part — §14 Millennium Development Goals and the sustainable-development agenda | Armenia, *Armenia Grade 12 Geography student*, §14 Millennium Development Goals and the sustainable-development agenda — printed p. 115 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Moldova). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 3 countries (Ethiopia, Moldova, Armenia). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 No book error in the placements for this lesson is taught here. The goal list is taught exactly as the placements print it.
 
@@ -24,3 +27,5 @@ Searchable tags: SDGs, 2030 Agenda, sustainable development goals, Ethiopia adop
 Papua New Guinea's own way (Papua New Guinea Grade 9 Social Science TG) (teacher guide — evidence): at secondary level Social Science splits into five strands — Geography, History, Political Science, Economics, Environment. The Geography strand is a weather-and-climate skills course (instruments, data, graphs — with Port Moresby and Kokopo data) moving to world climate/vegetation, migration, and land use; the Environment strand carries Earth systems, resources and sustainability. That evidence is stocked here as the way Papua New Guinea teaches this thing; it does not change the acceptance count above.
 
 Moldova's own way (Moldova Grade 9 Geography): the human-geography year of one's own country, written as a citizen's handbook — it opens with the Constitution's own words on territory, weighs the advantages and disadvantages of the country's economic-geographic position (including EU candidate status, June 2022), and treats the wine industry as national patrimony with roots in the Cucuteni-Tripolie civilisation; every theme carries "current problems", case studies and debates about the pupils' own locality, and the two practical works study the home locality itself (its population; its tourist sights).
+
+Armenia's own way (Armenia Grade 12 Geography student): the final Geography year is thematic, not regional-by-continent: first "distinctive" region types (fast-growing, urbanised, mountain, arid-agrarian, integrating Western Europe), then humanity's global problems one by one, closing on sustainable development — with mountain-country development read through Armenia's own case.

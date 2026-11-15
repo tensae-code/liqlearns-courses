@@ -1,6 +1,6 @@
 # Sources — Governing natural resources fairly
 
-countries: Ethiopia, Samoa, Colombia, Papua New Guinea, Bhutan
+countries: Ethiopia, Samoa, Colombia, Papua New Guinea, Bhutan, Armenia
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Samoa, Colombia, Papua New Guinea, Bhutan
 
 **Book 7:** *ADVANCED GEOGRAPHY CLASS XI* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Thimphu; year Provisional Edition 2022, Copyright 2023, Reprint 2024; ISBN no ISBN printed. Title as printed: ADVANCED GEOGRAPHY CLASS XI. Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 182 (cover/title page verified against the record title; byte size 19,627,789 and page count match the books.json record exactly — read via the record's ministry source URL; this book is also the TSV release record grade-11-gov-bhutan-geography-full-year.pdf, same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
 
+**Book 8:** *Աշխարհագրություն 11 — Հանրակրթական ավագ դպրոցի 11-րդ դասարանի դասագիրք (Geography 11, senior-school textbook)* (student book, Armenian) — «Զանգակ» (Zangak), Yerevan; year 2025; ISBN 978-9939-99-284-6. Authors: A. Hovsepyan, M. Manasyan, A. Potosyan, V. Asatryan. Title as printed: Աշխարհագրություն 11 — Հանրակրթական ավագ դպրոցի 11-րդ դասարանի դասագիրք (Geography 11, senior-school textbook). Grade: 11 (student/teacher: STUDENT). PDF pages: 192 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What governance is — and who pays | G12 student #42, printed pp. 81–83 |
@@ -27,8 +29,9 @@ countries: Ethiopia, Samoa, Colombia, Papua New Guinea, Bhutan
 | Papua New Guinea part — Strand 5 Environment, Unit 1 Resources and Environments, Topic 1: Resource use and management (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 10 Social Science TG* (teacher guide), Strand 5 Environment, Unit 1 Resources and Environments, Topic 1: Resource use and management — printed p. 250 |
 | Papua New Guinea part — Strand 5 Unit 4, Topic 2: Influence of political systems on the environment (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 10 Social Science TG* (teacher guide), Strand 5 Unit 4, Topic 2: Influence of political systems on the environment — printed p. 281 |
 | Bhutan part — Ch.11 11.5 Approaches to Resources Management | Bhutan, *Bhutan Grade 11 Geography*, Ch.11 11.5 Approaches to Resources Management — printed p. 131 |
+| Armenia part — §17 Environmental management | Armenia, *Armenia Grade 11 Geography student*, §17 Environmental management — printed p. 116 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Samoa, Colombia, Bhutan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 5 countries (Ethiopia, Samoa, Colombia, Bhutan, Armenia). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 No book error in the placements for this lesson is taught here. Rights instruments are taught exactly as the placements report them.
 
@@ -45,3 +48,5 @@ Papua New Guinea's own way (Papua New Guinea Grade 7 Social Science TG) (teacher
 Papua New Guinea's own way (Papua New Guinea Grade 10 Social Science TG) (teacher guide — evidence): Grade 10 Geography is a population course — population pyramids in depth, world physical geography's effects on settlement, density and economic activity, then PNG-only migration (types, internal migration, routes and trends) and PNG's land-mobilisation questions (undeveloped land, Special Agricultural Business Leases, land grabbing). That evidence is stocked here as the way Papua New Guinea teaches this thing; it does not change the acceptance count above.
 
 Bhutan's own way (Bhutan Grade 11 Geography): The Advanced level (XI–XII) is full academic geography — map projections, remote sensing and GIS, insolation and pressure belts, climate classification — with Bhutan applied chapters on agriculture, manufacturing and tourism, the last taught on Bhutan's own sustainability principle ("high value, low volume" in the Bhutan Tourism Monitor data the book uses).
+
+Armenia's own way (Armenia Grade 11 Geography student): the senior Geography course is two big themes only — the world economy in depth (structure, division of labour, every branch, transport systems, trade) and then the environment (ecological balance, pollution of air and water, land degradation, biodiversity, ecosystem services), i.e. economy first, its ecological bill second.

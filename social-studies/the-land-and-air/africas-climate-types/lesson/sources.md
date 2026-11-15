@@ -1,6 +1,6 @@
 # Sources — Africa's climate types
 
-countries: Ethiopia, Colombia, Rwanda, Sudan, Afghanistan, Libya, Moldova
+countries: Ethiopia, Colombia, Rwanda, Sudan, Afghanistan, Libya, Moldova, Armenia
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). First published 2023 under GEQIP-E. ISBN: 978-99990-0-049-9. 205 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Colombia, Rwanda, Sudan, Afghanistan, Libya, Moldova
 
 **Book 8:** *Geografie — Manual pentru clasa a VI-a* (student book, Romanian) — Litera; year 2023 (ministerial approval order 446 of 12.05.2023); ISBN 978-9975-74-966-4. Title as printed: Geografie — Manual pentru clasa a VI-a. Grade: 6 (student/teacher: STUDENT). PDF pages: 130 (cover verified against the record title; 18,663,404 bytes = record size exactly). Verdict: COMPLETE. 12 records / 6 distinct books (TSV + books.json duplicates of the same 6 manuals) — read from the recorded ministry source URLs (eduresurse.gov.md / ctice.md) after the GitHub API route disconnected twice; byte size and page count verified against each record before reading; full text-layer page-by-page reads, as the placements file header records. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/moldova-placements.md.
 
+**Book 9:** *Աշխարհագրություն (Հասարակական աշխարհագրություն: Տարածաշրջաններ և պետություններ) — Geography (Social geography: Regions and states), textbook for grade 8* (student book, Armenian) — «ՄԱՆՄԱՐ» (Manmar), Yerevan; year 2024; ISBN 978-9939-62-281-1. Authors: A. Hovsepyan, R. Margaryan. Approved by the RA Ministry of Education, Science, Culture and Sport. Title as printed: Աշխարհագրություն (Հասարակական աշխարհագրություն: Տարածաշրջաններ և պետություններ) — Geography (Social geography: Regions and states), textbook for grade 8. Grade: 8 (student/teacher: STUDENT). PDF pages: 177 (printed 176; cover/title page verified against the record title). Verdict: COMPLETE. Read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The list — six African climate types | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 2, printed pp. 32–36 |
@@ -29,8 +31,9 @@ countries: Ethiopia, Colombia, Rwanda, Sudan, Afghanistan, Libya, Moldova
 | Afghanistan part — Ch. 1 Lessons 8–9: Africa's climate; its different climatic areas | Afghanistan, *Afghanistan Grade 9 Geography (Dari)*, Ch. 1 Lessons 8–9: Africa's climate; its different climatic areas — printed p. 23 |
 | Libya part — Ch.1 Africa: المناخ — Africa's climate (July and January maps) | Libya, *Libya Grade 9 LY G9 World Geography*, Ch.1 Africa: المناخ — Africa's climate (July and January maps) — printed p. 31 |
 | Moldova part — 8. Africa: climatic zones | Moldova, *Moldova Grade 6 G6 Geography*, 8. Africa: climatic zones — printed p. 34 |
+| Armenia part — Lesson 53 Africa's climate | Armenia, *Armenia Grade 8 Geography student*, Lesson 53 Africa's climate — printed p. 153 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Colombia, Rwanda, Sudan, Afghanistan, Libya, Moldova).**
+**Acceptance count: taught in 8 countries (Ethiopia, Colombia, Rwanda, Sudan, Afghanistan, Libya, Moldova, Armenia).**
 
 Pairing: the teacher guide was first published in 2022 and the student textbook in 2023, with the same writers and the same eight units in the same order; the student book is the learner text of record, and teacher-guide rows above are evidence only.
 
@@ -49,3 +52,5 @@ Afghanistan's own way (Afghanistan Grade 9 Geography (Dari)): the continent marc
 Libya's own way (Libya Grade 9 LY G9 World Geography): A continent-by-continent world survey built on one repeated pattern — every continent gets location, surface features, climate (with summer/winter maps), climate-and-vegetation regions, population (with density map) and economic resources (agriculture, livestock, minerals and energy tables) — starting with Africa because, as the preface says, Libya's own continent links three continents and controls world trade routes.
 
 Moldova's own way (Moldova Grade 6 G6 Geography): a "Geography of the Continents" year — the southern continents (Africa, South America, Australia, Antarctica) each worked through with the identical template (physical position, relief and minerals, climate factors and zones, surface waters, natural zones, population, peoples and political map), and every continent closes with a "geographic risk processes" lesson; an annex gives a standard plan for characterising any continent.
+
+Armenia's own way (Armenia Grade 8 Geography student): a pure regional-geography year — the world is divided into regions following the UN scheme, each region and chosen state is studied in the same fixed order (position, natural conditions and resources, population, economy), and Armenia's neighbours (Georgia, Azerbaijan, Turkey, Iran) get full country lessons of their own.

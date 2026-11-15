@@ -1,6 +1,6 @@
 # Sources — Weather and Climate — The Controllers
 
-countries: Ethiopia, Jamaica, Dominican Republic, Papua New Guinea, Sudan, Venezuela, Mauritania, Afghanistan, Pakistan, Nepal, Mozambique, Laos, Iraq, Bhutan
+countries: Ethiopia, Jamaica, Dominican Republic, Papua New Guinea, Sudan, Venezuela, Mauritania, Afghanistan, Pakistan, Nepal, Mozambique, Laos, Iraq, Bhutan, Armenia
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -50,6 +50,8 @@ countries: Ethiopia, Jamaica, Dominican Republic, Papua New Guinea, Sudan, Venez
 
 **Book 24:** *INTERMEDIATE GEOGRAPHY CLASS X* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu (title page; developed with the Royal Education Council, Paro); year Reprint 2024 (page footers); ISBN no ISBN printed (no imprint page in the PDF). Title as printed: INTERMEDIATE GEOGRAPHY CLASS X. Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 124 (cover/title page verified against the record title; byte size 12,820,771 and page count match the books.json record exactly — read via the record's ministry source URL; this book is also the TSV release record grade-10-gov-bhutan-geography-full-year.pdf, same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
 
+**Book 25:** *Աշխարհագրություն — Դասագիրք 7-րդ դասարանի համար (Geography, textbook for grade 7)* (student book, Armenian) — «Աստղիկ Գրատուն» (Astghik Gratun), Yerevan; year 2023; ISBN 978-9939-74-142-0. Authors: T. Vardanyan, A. Potosyan, V. Asatryan, L. Hakobyan. Title as printed: Աշխարհագրություն — Դասագիրք 7-րդ դասարանի համար (Geography, textbook for grade 7). Grade: 7 (student/teacher: STUDENT). PDF pages: 176 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). The book's legacy-font text layer was decoded with the standard Armenian font-encoding table and verified against its printed contents page. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Controllers against elements | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 25–26 |
@@ -74,6 +76,7 @@ countries: Ethiopia, Jamaica, Dominican Republic, Papua New Guinea, Sudan, Venez
 | Bhutan part — 2.2 Factors affecting climate | Bhutan, *Bhutan Grade 6 Social Studies*, 2.2 Factors affecting climate — printed p. 8 |
 | Bhutan part — Ch.7 7.2 Factors affecting climate | Bhutan, *Bhutan Grade 8 Geography*, Ch.7 7.2 Factors affecting climate — printed p. 45 |
 | Bhutan part — Ch.5 5.2 The Factors Affecting Climate | Bhutan, *Bhutan Grade 10 Geography*, Ch.5 5.2 The Factors Affecting Climate — printed p. 32 |
+| Armenia part — Lesson 3.5 Climate: climate-forming factors | Armenia, *Armenia Grade 7 Geography student*, Lesson 3.5 Climate: climate-forming factors — printed p. 67 |
 
 | Sub lesson 4 — Latitude and the Earth–Sun geometry (Grade 11 depth) (Grade 11 depth) | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 2, printed pp. 45–46 |
 | Sub lesson 5 — Water, winds and pressure (Grade 11 depth) (Grade 11 depth) | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 2, printed pp. 47–50 |
@@ -81,7 +84,7 @@ countries: Ethiopia, Jamaica, Dominican Republic, Papua New Guinea, Sudan, Venez
 | Teaching sequence and answer keys for the Grade 11 depth (teacher guide — evidence) | Ethiopia, *Geography, Teacher Guide, Grade 11*, guide printed pp. 40–63 |
 | Dominican Republic part (Grade 5) — Climate, its elements and factors (Unidad 2: Variación climática de los continentes) | Dominican Republic, *Ciencias Sociales, Quinto Grado, Primaria (Libro Abierto)*, Grade 5, Climate, its elements and factors (Unidad 2: Variación climática de los continentes) — printed p. 26 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Dominican Republic, Sudan, Venezuela, Mauritania, Afghanistan, Pakistan, Nepal, Mozambique, Laos, Iraq, Bhutan). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 13 countries (Ethiopia, Dominican Republic, Sudan, Venezuela, Mauritania, Afghanistan, Pakistan, Nepal, Mozambique, Laos, Iraq, Bhutan, Armenia). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grade 6 Exploratory Core, curriculum guide — evidence): the Grade 6 Social Studies year is built as three paired terms — culture and independence first, then the physical world (mountains, landmasses and water bodies), then climate, Earth movements and the atmosphere, closing on Caribbean cooperation. That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
@@ -128,3 +131,5 @@ Bhutan's own way (Bhutan Grade 6 Social Studies): Grade 6 turns to Bhutan's own 
 Bhutan's own way (Bhutan Grade 8 Geography): Class VIII deepens the same three strands with real map-work (scale conversion, grid references, contours and profiles) and Bhutan-specific hazard and resource content, including the Rubesa wind turbine and hydroelectric dams as national resource examples.
 
 Bhutan's own way (Bhutan Grade 10 Geography): Class X pairs deep physical theory (Big Bang, plate tectonics, the making of the Himalayas) with an applied Bhutan block — climate and vegetation zones of Bhutan, Bhutanese agriculture's challenges and advancement, industries and their distribution, and a Bhutan disaster chapter that adds Education in Emergency.
+
+Armenia's own way (Armenia Grade 7 Geography student): opens school geography with the geographic map itself (plan, scale, azimuth, projections) before any Earth science, and runs every theme to a summary lesson plus practical work; world economy is taught branch by branch with Armenia (ՀՀ) used as the worked example in the closing questions.

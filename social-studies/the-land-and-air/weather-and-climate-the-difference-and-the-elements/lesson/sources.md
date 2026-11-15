@@ -1,6 +1,6 @@
 # Sources — Weather and Climate — The Difference and the Elements
 
-countries: Ethiopia, Barbados, Turkey, Guatemala, Jamaica, Colombia, Malaysia, Eritrea, India, Cambodia, Rwanda, Fiji, Slovenia, Papua New Guinea, Uganda, Syria, Venezuela, Sri Lanka, Mauritania, Afghanistan, Iran, Yemen, Pakistan, Libya, Moldova, Nepal, Mozambique, Jordan, Laos, Iraq, Nicaragua, Bhutan
+countries: Ethiopia, Barbados, Turkey, Guatemala, Jamaica, Colombia, Malaysia, Eritrea, India, Cambodia, Rwanda, Fiji, Slovenia, Papua New Guinea, Uganda, Syria, Venezuela, Sri Lanka, Mauritania, Afghanistan, Iran, Yemen, Pakistan, Libya, Moldova, Nepal, Mozambique, Jordan, Laos, Iraq, Nicaragua, Bhutan, Armenia
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -110,6 +110,8 @@ countries: Ethiopia, Barbados, Turkey, Guatemala, Jamaica, Colombia, Malaysia, E
 
 **Book 54:** *An Introduction to GEOGRAPHY Class VIII* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Royal Government of Bhutan, Thimphu; year Provisional Edition 2019, Copyright 2023, Reprint 2024; ISBN no ISBN printed. Title as printed: An Introduction to GEOGRAPHY Class VIII. Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 120 (cover/title page verified against the record title; byte size 9,992,518 and page count match the books.json record exactly — read via the record's ministry source URL). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
 
+**Book 55:** *Աշխարհագրություն — Դասագիրք 7-րդ դասարանի համար (Geography, textbook for grade 7)* (student book, Armenian) — «Աստղիկ Գրատուն» (Astghik Gratun), Yerevan; year 2023; ISBN 978-9939-74-142-0. Authors: T. Vardanyan, A. Potosyan, V. Asatryan, L. Hakobyan. Title as printed: Աշխարհագրություն — Դասագիրք 7-րդ դասարանի համար (Geography, textbook for grade 7). Grade: 7 (student/teacher: STUDENT). PDF pages: 176 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). The book's legacy-font text layer was decoded with the standard Armenian font-encoding table and verified against its printed contents page. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Short and small against long and wide | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 24–25 |
@@ -167,8 +169,9 @@ countries: Ethiopia, Barbados, Turkey, Guatemala, Jamaica, Colombia, Malaysia, E
 | Bhutan part — 2.1 Climate | Bhutan, *Bhutan Grade 6 Social Studies*, 2.1 Climate — printed p. 7 |
 | Bhutan part — Ch.8 8.2 Difference between Weather and Climate | Bhutan, *Bhutan Grade 7 Geography*, Ch.8 8.2 Difference between Weather and Climate — printed p. 37 |
 | Bhutan part — Ch.7 7.1 Elements of climate | Bhutan, *Bhutan Grade 8 Geography*, Ch.7 7.1 Elements of climate — printed p. 43 |
+| Armenia part — Lesson 3.1 Weather and weather-forming elements | Armenia, *Armenia Grade 7 Geography student*, Lesson 3.1 Weather and weather-forming elements — printed p. 51 |
 
-**Acceptance count: taught in 29 countries (Ethiopia, Barbados, Turkey, Guatemala, Colombia, Malaysia, Eritrea, India, Cambodia, Rwanda, Fiji, Slovenia, Uganda, Syria, Venezuela, Sri Lanka, Mauritania, Afghanistan, Iran, Yemen, Pakistan, Libya, Moldova, Mozambique, Jordan, Laos, Iraq, Nicaragua, Bhutan). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere. Nepal is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 30 countries (Ethiopia, Barbados, Turkey, Guatemala, Colombia, Malaysia, Eritrea, India, Cambodia, Rwanda, Fiji, Slovenia, Uganda, Syria, Venezuela, Sri Lanka, Mauritania, Afghanistan, Iran, Yemen, Pakistan, Libya, Moldova, Mozambique, Jordan, Laos, Iraq, Nicaragua, Bhutan, Armenia). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere. Nepal is named here as teacher-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grade 4 Exploratory Core, curriculum guide — evidence): Social Studies is one of four subjects fused into a single Exploratory Core guide, organised by four attainment themes; Geography enters through Jamaica itself — Taino settlement maps, cardinal points, Jamaica's physical features, parishes, weather and the Earth in the Solar System — always with hands-on map and model work. That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
@@ -277,3 +280,5 @@ Bhutan's own way (Bhutan Grade 6 Social Studies): Grade 6 turns to Bhutan's own 
 Bhutan's own way (Bhutan Grade 7 Geography): From Class VII Geography becomes a standalone subject organised in three strands (Time and Space; Physical Environment; People and Environment), every world topic closed with its Bhutan case — climate of Bhutan, vegetation types of Bhutan, minerals of Bhutan, and Bhutan's Himalayan disaster set (earthquake, flood, windstorm, fire, GLOF).
 
 Bhutan's own way (Bhutan Grade 8 Geography): Class VIII deepens the same three strands with real map-work (scale conversion, grid references, contours and profiles) and Bhutan-specific hazard and resource content, including the Rubesa wind turbine and hydroelectric dams as national resource examples.
+
+Armenia's own way (Armenia Grade 7 Geography student): opens school geography with the geographic map itself (plan, scale, azimuth, projections) before any Earth science, and runs every theme to a summary lesson plus practical work; world economy is taught branch by branch with Armenia (ՀՀ) used as the worked example in the closing questions.

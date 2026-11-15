@@ -1,6 +1,6 @@
 # Sources — Tertiary activities — services, transport, tourism
 
-countries: Ethiopia, Ukraine, Turkmenistan, Dominican Republic, Bahamas, Venezuela, Sri Lanka, Mauritania, Kuwait, Iran, Moldova, Nepal, Jordan, Nicaragua, Bhutan
+countries: Ethiopia, Ukraine, Turkmenistan, Dominican Republic, Bahamas, Venezuela, Sri Lanka, Mauritania, Kuwait, Iran, Moldova, Nepal, Jordan, Nicaragua, Bhutan, Armenia
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 2 — Population Studies and Socio-Economic Activities, printed pp. 44–76).
 
@@ -42,6 +42,10 @@ countries: Ethiopia, Ukraine, Turkmenistan, Dominican Republic, Bahamas, Venezue
 
 **Book 20:** *SOCIAL STUDIES CLASS V* (student book, English) — Center for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; year Provisional Edition 2020, Reprint 2025; ISBN no ISBN printed (blank ISBN line on imprint page). Title as printed: SOCIAL STUDIES CLASS V. Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 78 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
 
+**Book 21:** *Աշխարհագրություն — Դասագիրք 7-րդ դասարանի համար (Geography, textbook for grade 7)* (student book, Armenian) — «Աստղիկ Գրատուն» (Astghik Gratun), Yerevan; year 2023; ISBN 978-9939-74-142-0. Authors: T. Vardanyan, A. Potosyan, V. Asatryan, L. Hakobyan. Title as printed: Աշխարհագրություն — Դասագիրք 7-րդ դասարանի համար (Geography, textbook for grade 7). Grade: 7 (student/teacher: STUDENT). PDF pages: 176 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). The book's legacy-font text layer was decoded with the standard Armenian font-encoding table and verified against its printed contents page. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
+
+**Book 22:** *Աշխարհագրություն 11 — Հանրակրթական ավագ դպրոցի 11-րդ դասարանի դասագիրք (Geography 11, senior-school textbook)* (student book, Armenian) — «Զանգակ» (Zangak), Yerevan; year 2025; ISBN 978-9939-99-284-6. Authors: A. Hovsepyan, M. Manasyan, A. Potosyan, V. Asatryan. Title as printed: Աշխարհագրություն 11 — Հանրակրթական ավագ դպրոցի 11-րդ դասարանի դասագիրք (Geography 11, senior-school textbook). Grade: 11 (student/teacher: STUDENT). PDF pages: 192 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Services, not goods | Ethiopia, *Social Studies Student Textbook, Grade 8* (Amhara Bureau), printed pp. 64–66 |
@@ -67,8 +71,10 @@ countries: Ethiopia, Ukraine, Turkmenistan, Dominican Republic, Bahamas, Venezue
 | Jordan part — Unit 6 Lesson 4: Services (الخدمات) | Jordan, *Jordan G12 Geography T2*, Unit 6 Lesson 4: Services (الخدمات) — printed p. 116 |
 | Nicaragua part — Sector terciario o de servicios en Nicaragua; actividad comercial y desarrollo del turismo | Nicaragua, *Nicaragua Grade 10 Ciencias Sociales G10 full-year*, Sector terciario o de servicios en Nicaragua; actividad comercial y desarrollo del turismo — printed p. 125 |
 | Bhutan part — 12.1 Goods and services | Bhutan, *Bhutan Grade 5 Social Studies*, 12.1 Goods and services — printed p. 66 |
+| Armenia part — Lesson 7.16 The non-production sphere (services) | Armenia, *Armenia Grade 7 Geography student*, Lesson 7.16 The non-production sphere (services) — printed p. 169 |
+| Armenia part — §13 The non-production sphere (services) | Armenia, *Armenia Grade 11 Geography student*, §13 The non-production sphere (services) — printed p. 91 |
 
-**Acceptance count: taught in 14 countries (Ethiopia, Ukraine, Turkmenistan, Dominican Republic, Bahamas, Venezuela, Mauritania, Kuwait, Iran, Moldova, Nepal, Jordan, Nicaragua, Bhutan). Sri Lanka is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 15 countries (Ethiopia, Ukraine, Turkmenistan, Dominican Republic, Bahamas, Venezuela, Mauritania, Kuwait, Iran, Moldova, Nepal, Jordan, Nicaragua, Bhutan, Armenia). Sri Lanka is named here as teacher-guide evidence only, counted nowhere.**
 
 Ukraine's own way: A "Geography: Regions and Countries" course — every region is done in the same order (position, nature/resources, population, primary/secondary/tertiary sectors) then typological country studies with rubrics (country visiting-card, capital, pride of the country, unique experience), ending with Ukraine's own place in the world; research tasks (Дослідження) embedded in chapters. That way is stocked here as the way Ukraine teaches this thing.
 
@@ -111,3 +117,7 @@ Jordan's own way (Jordan G12 Geography T2): the final Geography term is climate 
 Nicaragua's own way (Nicaragua Grade 10 Ciencias Sociales G10 full-year): The full-year companion to the Grade 10 Geography module (Book 1): Units I–VI repeat and deepen the same national Geography (cartography, relief and geological provinces, climate and watersheds, population, economic sectors, territorial vulnerability and SINAPRED) in classroom form, and the book's second half is a full Economics course. Non-Geography parts named, not placed: Unit IV government anti-poverty programmes (printed p. 106, Civics/social policy); Units VII–XII Economics (printed pp. 156–285): utility of economics and socio-economic formations, what the country produces, price as market regulator, commercial exchange and the banking system, state economic policy, and integration in the face of globalisation.
 
 Bhutan's own way (Bhutan Grade 5 Social Studies): Grade 5 spirals from the Earth and lat/long straight into Bhutan itself — its location, three physical zones, neighbours, major rivers and protected areas — so world geography is anchored in the home country's map first.
+
+Armenia's own way (Armenia Grade 7 Geography student): opens school geography with the geographic map itself (plan, scale, azimuth, projections) before any Earth science, and runs every theme to a summary lesson plus practical work; world economy is taught branch by branch with Armenia (ՀՀ) used as the worked example in the closing questions.
+
+Armenia's own way (Armenia Grade 11 Geography student): the senior Geography course is two big themes only — the world economy in depth (structure, division of labour, every branch, transport systems, trade) and then the environment (ecological balance, pollution of air and water, land degradation, biodiversity, ecosystem services), i.e. economy first, its ecological bill second.

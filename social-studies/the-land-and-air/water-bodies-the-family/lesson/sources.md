@@ -1,6 +1,6 @@
 # Sources — Water Bodies — Oceans, Seas, Lakes, Rivers
 
-countries: Ethiopia, Palestine, Dominican Republic, Bahamas, Colombia, Eritrea, India, Cambodia, Papua New Guinea, Uganda, Syria, Mauritania, Yemen, Jordan, Nicaragua
+countries: Ethiopia, Palestine, Dominican Republic, Bahamas, Colombia, Eritrea, India, Cambodia, Papua New Guinea, Uganda, Syria, Mauritania, Yemen, Jordan, Nicaragua, Armenia
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -48,6 +48,8 @@ countries: Ethiopia, Palestine, Dominican Republic, Bahamas, Colombia, Eritrea, 
 
 **Book 23:** *Módulo Autoformativo de Ciencias Sociales — Geografía, 9no Grado (Educación Secundaria a Distancia en el Campo)* (student book, Spanish) — Ministerio de Educación (MINED), Nicaragua, PROSEN; year 2017; ISBN no ISBN printed. Title as printed: Módulo Autoformativo de Ciencias Sociales — Geografía, 9no Grado (Educación Secundaria a Distancia en el Campo). Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 300 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nicaragua-placements.md.
 
+**Book 24:** *ԱՇԽԱՐՀԱԳՐՈՒԹՅՈՒՆ 10 (Geography 10)* (student book, Armenian) — Էդիթ Պրինտ (Edit Print), Yerevan; year 2023 (title page 2024); ISBN 978-9939-969-06-0. Authors: Ashot Khachatryan, Yurik Muradyan. Title as printed: ԱՇԽԱՐՀԱԳՐՈՒԹՅՈՒՆ 10 (Geography 10). Grade: 10 (student/teacher: STUDENT). PDF pages: 194 (printed 192; cover/title page verified against the record title). Verdict: COMPLETE — the senior Geography course in 7 themes: methods & cartography, lithosphere, atmosphere & climate, river hydrology, the political map of the world, world population, world natural resources. Read in full from contact sheets; every lesson opener and the printed contents (pp. 190-191) checked. Read in full from 100-DPI contact sheets (image-only book); every lesson opener and the printed contents (pp. 190-191) checked. Also read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Where does your water come from? | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed p. 5 |
@@ -74,8 +76,9 @@ countries: Ethiopia, Palestine, Dominican Republic, Bahamas, Colombia, Eritrea, 
 | Nicaragua part — Hidrografía de los continentes | Nicaragua, *Nicaragua Grade 6 Estudios Sociales G6*, Hidrografía de los continentes — printed p. 79 |
 | Nicaragua part — Hidrografía de los continentes | Nicaragua, *Nicaragua Grade 9 Estudios Sociales G9 full-year*, Hidrografía de los continentes — printed p. 51 |
 | Nicaragua part — Hidrografía de los continentes | Nicaragua, *Nicaragua Grade 9 CCSS Geografía Módulo G9*, Hidrografía de los continentes — printed p. 103 |
+| Armenia part — 4.2 The waters of the Earth's hydrosphere | Armenia, *Armenia Grade 10 Geography student*, 4.2 The waters of the Earth's hydrosphere — printed p. 124 |
 
-**Acceptance count: taught in 14 countries (Ethiopia, Palestine, Dominican Republic, Bahamas, Colombia, Eritrea, India, Cambodia, Uganda, Syria, Mauritania, Yemen, Jordan, Nicaragua). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 15 countries (Ethiopia, Palestine, Dominican Republic, Bahamas, Colombia, Eritrea, India, Cambodia, Uganda, Syria, Mauritania, Yemen, Jordan, Nicaragua, Armenia). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Pairing warning: the Grade 8 teacher guide is an Addis Ababa bureau book and the student book is an Amhara bureau book; they are NOT edition-matched, and the guide in hand is truncated (printed pp. 1–47 only, Units 1–3). Pupil content in this lesson comes from the Amhara student book; anything from the guide is labelled (teacher guide — evidence) and never presented as pupil-taught.
 
@@ -122,3 +125,5 @@ Nicaragua's own way (Nicaragua Grade 6 Estudios Sociales G6): The primary cycle 
 Nicaragua's own way (Nicaragua Grade 9 Estudios Sociales G9 full-year): The classroom parallel of the Grade 9 Geography module (Book 12): five world-Geography units working continent by continent (Asia, Europe, Africa and Oceania in turn for position, relief, climate, hydrography, population and economies), closing on risk prevention with disaster impact in Nicaragua and the world; the second half is world History from human evolution to the modern age. Non-Geography parts named, not placed: Unit VI evolution of human beings (printed pp. 137–144, History); Unit VII first agricultural civilisations (printed pp. 147–164, History, except the geographical-setting topics placed below); Unit VIII classical civilisations (printed pp. 165–189, History, except the topic placed below); Unit IX the medieval world (printed pp. 191–205, History); Unit X age of great changes (printed pp. 209–223, History, except the geographical discoveries placed below).
 
 Nicaragua's own way (Nicaragua Grade 9 CCSS Geografía Módulo G9): A pure-Geography self-study module (no History/Civics in this book): the Grade 9 world-Geography course taught continent by continent — position and political organisation, physical landscape, human diversity, production and consumption, and a closing planet-care unit on prevention and mitigation — with Nicaragua used as the home reference point throughout.
+
+Armenia's own way (Armenia Grade 10 Geography student): grade-10 Geography is a methods-first course — it opens with the science's history, branches and GIS/GPS/aerospace methods, works through the lithosphere with a full natural-disasters lesson, and closes with resources measured by endowment; Armenia's own rivers fill the hydrology tables and Armenia's place in modern geopolitics closes the political-map theme.

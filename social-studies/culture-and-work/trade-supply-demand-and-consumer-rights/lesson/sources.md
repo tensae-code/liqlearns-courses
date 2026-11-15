@@ -1,6 +1,6 @@
 # Sources — Trade — supply, demand and consumer rights
 
-countries: Ethiopia, Mongolia, Jamaica, Zimbabwe, Nepal, Jordan
+countries: Ethiopia, Mongolia, Jamaica, Zimbabwe, Nepal, Jordan, Armenia
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 2 — Population Studies and Socio-Economic Activities, printed pp. 44–76).
 **Book 2:** *Social Studies Teacher's Guide, Grade 8* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, Addis Ababa / Ethiopia / 2015 E.C. (cover); © Addis Ababa City Administration Education Bureau, first edition 2022. Authors: Tilahun Atlabachew T/Giorgis (M.A.), Melkamu Belay Tiruneh (B.A.), Kassahun Demissie Worku (M.A.), Mulugeta Dires Fetene (M.A.). Editors, reviewers and evaluators: Belay Belete Birhanu (MA), Solomon Wondimu Metaferia (MA). Coordinator: Getachew Talema Atinafu. No ISBN printed. Printed page = PDF page − 5. Read in full for every page the file contains (printed pp. 1–47, Units 1–3 only — the file is TRUNCATED; Units 4–7, printed pp. 48–109, are not in the copy in hand). Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-teacher-placements.md (Unit 2 — People and Socio-Economic Activities, guide printed pp. 16–32).
@@ -19,6 +19,10 @@ countries: Ethiopia, Mongolia, Jamaica, Zimbabwe, Nepal, Jordan
 
 **Book 9:** *الدراسات الاجتماعية — الصف الخامس — الفصل الدراسي الثاني (Social Studies, Grade 5, Term 2)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-856-7. Title as printed: الدراسات الاجتماعية — الصف الخامس — الفصل الدراسي الثاني (Social Studies, Grade 5, Term 2). Grade: 5 (student/teacher: STUDENT). PDF pages: 100 (cover verified; byte size 21,825,614 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
 
+**Book 10:** *ՀԱՍԱՐԱԿԱԳԻՏՈՒԹՅՈՒՆ 10-րդ դասարան — Դասագիրք նպատակային ծրագրի համար (Social Science 10, textbook for the target programme)* (student book, Armenian) — «Զանգակ» (Zangak), Yerevan; year 2023 (title page 2024); ISBN 978-9939-99-040-8. Authors: K. Harutyunyan, H. Barseghyan, N. Galstyan, A. Manucharyan. Title as printed: ՀԱՍԱՐԱԿԱԳԻՏՈՒԹՅՈՒՆ 10-րդ դասարան — Դասագիրք նպատակային ծրագրի համար (Social Science 10, textbook for the target programme). Grade: 10 (student/teacher: STUDENT). PDF pages: 130 (printed 128; cover/title page verified against the record title). Verdict: COMPLETE — combined Social Science. Geography-scope parts placed below: Theme 3 "Market economy" (printed pp. 54-87) and Theme 4 "Personal finance management" (pp. 88-127). NOT placed (named for later waves): Theme 1 "Problems of modern man and society" (pp. 4-18), Theme 2 "Political ideologies" (pp. 19-53). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
+
+**Book 11:** *ՀԱՍԱՐԱԿԱԳԻՏՈՒԹՅՈՒՆ 9-րդ դասարան — Հանրակրթական հիմնական դպրոցի դասագիրք (Social Science 9, basic-school textbook)* (student book, Armenian) — «Զանգակ» (Zangak), Yerevan; year 2025; ISBN 978-9939-99-243-3. Authors: K. Harutyunyan, T. Simonyan, A. Manucharyan, N. Galstyan. Title as printed: ՀԱՍԱՐԱԿԱԳԻՏՈՒԹՅՈՒՆ 9-րդ դասարան — Հանրակրթական հիմնական դպրոցի դասագիրք (Social Science 9, basic-school textbook). Grade: 9 (student/teacher: STUDENT). PDF pages: 180 (printed 176; cover/title page verified against the record title). Verdict: COMPLETE — the whole book is built around the state. Geography-scope part placed below: Theme 4 "State and economy" (printed pp. 84-127). NOT placed (named for later waves): Theme 1 "The state: an introduction" (pp. 5-42), Theme 2 "State and culture" (pp. 43-58), Theme 3 "State and civil society" (pp. 59-83), Theme 5 "State and citizenship" (pp. 128-171). Read from 100-DPI contact sheets (image-only book). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — When supply falls short | Ethiopia, *Social Studies Student Textbook, Grade 8* (Amhara Bureau), printed pp. 68–69 |
@@ -31,8 +35,11 @@ countries: Ethiopia, Mongolia, Jamaica, Zimbabwe, Nepal, Jordan
 | Nepal part — Unit 6 Lesson 4: We consumers — our rights (teacher guide — evidence) | Nepal, *Nepal Grade 7 TG np-g7tg* (teacher guide), Unit 6 Lesson 4: We consumers — our rights — TG p. 116 |
 | Jordan part — Unit 4 Lesson 4: The Smart Consumer (المستهلك الذكي) | Jordan, *Jordan G3 SS T2*, Unit 4 Lesson 4: The Smart Consumer (المستهلك الذكي) — printed p. 38 |
 | Jordan part — Unit 6 Lesson 1: Economic Concepts (مفاهيم اقتصادية) — supply, demand and prices | Jordan, *Jordan G5 SS T2*, Unit 6 Lesson 1: Economic Concepts (مفاهيم اقتصادية) — supply, demand and prices — printed p. 28 |
+| Armenia part — 3.2 Demand, supply and market price | Armenia, *Armenia Grade 10 Social Science student*, 3.2 Demand, supply and market price — printed p. 65 |
+| Armenia part — 4.4 Protection of consumer rights | Armenia, *Armenia Grade 10 Social Science student*, 4.4 Protection of consumer rights — printed p. 110 |
+| Armenia part — 4.2 The market economy | Armenia, *Armenia Grade 9 Social Science student*, 4.2 The market economy — printed p. 93 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Mongolia, Nepal, Jordan). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 5 countries (Ethiopia, Mongolia, Nepal, Jordan, Armenia). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grades 7–9 Social Studies, curriculum guide — evidence): one guide carries all three secondary grades, each year mixing Civics, heritage and a strong resources-and-environment Geography spine — natural and human resources, movements of the Earth, Caribbean hazards, climate change, green technology and tourism — taught through Jamaican case material (bauxite communities, Caribbean disasters). That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
@@ -53,3 +60,7 @@ Nepal's own way (Nepal Grade 7 TG np-g7tg) (teacher guide — evidence): The gui
 Jordan's own way (Jordan G3 SS T2): Grade 3 Term 2 contrasts past and present (trade, production, the smart consumer), then studies Earth's natural features in Jordan, environment care, Jordan's map and its antiquities.
 
 Jordan's own way (Jordan G5 SS T2): Term 2 teaches the economy by sectors, then location skills (relative/absolute location, GPS) and Jordan's Arab world region by region — Nile Valley and Horn of Africa, then the Maghreb.
+
+Armenia's own way (Armenia Grade 10 Social Science student): the senior Social Science course turns practical — after ideologies it teaches the market economy and then personal finance (choosing financial services, savings, credit, consumer rights, fraud) as life skills.
+
+Armenia's own way (Armenia Grade 9 Social Science student): grade-9 Social Science circles one idea — the state — through culture, civil society, the economy and citizenship; its economy theme runs from economic systems to Armenia's own financial system.

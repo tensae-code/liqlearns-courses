@@ -1,6 +1,6 @@
 # Sources — Population pressure on resources
 
-countries: Ethiopia, Angola, Mozambique, Jordan
+countries: Ethiopia, Angola, Mozambique, Jordan, Armenia
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Angola, Mozambique, Jordan
 
 **Book 4:** *علوم الأرض والبيئة — الصف الحادي عشر — كتاب الطالب — الفصل الدراسي الأول (Earth Science and Environment, Grade 11, Term 1)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-833-8. Title as printed: علوم الأرض والبيئة — الصف الحادي عشر — كتاب الطالب — الفصل الدراسي الأول (Earth Science and Environment, Grade 11, Term 1). Grade: 11 (student/teacher: STUDENT). PDF pages: 74 (cover verified; byte size 32,944,352 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Workbook records carried as filed: the TSV record 'Earth Science — Grade 11 Term 1 (Workbook Book)' and the books.json record grade-11/gov/jordan/earth-science/student/term-1-workbook.pdf (source minhaji file 1953) both carry this student book's exact file — 32,944,352 bytes, MD5 9001a167ec907782917b2db2ff093bfa, identical to this book — so the 'workbook' is the student book itself, taught once here with both records cited as the placements file records them (Book 24 there); the real Grade 11 Term 1 activities/workbook has never been secured (library debt named in the placements file). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
 
+**Book 5:** *Աշխարհագրություն 12 — Հանրակրթական ավագ դպրոցի 12-րդ դասարանի դասագիրք (Geography 12, senior-school textbook)* (student book, Armenian) — «Զանգակ» (Zangak), Yerevan; year 2025; ISBN 978-9939-99-290-7. Authors: M. Manasyan, A. Hovsepyan, A. Potosyan. Title as printed: Աշխարհագրություն 12 — Հանրակրթական ավագ դպրոցի 12-րդ դասարանի դասագիրք (Geography 12, senior-school textbook). Grade: 12 (student/teacher: STUDENT). PDF pages: 132 (printed 128; cover/title page verified against the record title). Verdict: COMPLETE. Read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The numbers | Ethiopia, *Economics, Student Textbook, Grade 12*, Unit 8 — Economy, Environment and Climate Change, printed pp. 187–189 |
@@ -18,8 +20,9 @@ countries: Ethiopia, Angola, Mozambique, Jordan
 | Angola part — 5.1 O crescimento da população e a produção de alimentos (with Angola's 2018/2020 crop and fishery tables) | Angola, *Geografia 5ª Classe*, Grade 5, 5.1 O crescimento da população e a produção de alimentos (with Angola's 2018/2020 crop and fishery tables) — printed p. 62 |
 | Mozambique part — Lição 12: População–Ambiente (man the gatherer 10,000 years ago inside nature; ~1.3 billion people in poverty) | Mozambique, *Mozambique Grade 10 PESD II Mod 5*, Lição 12: População–Ambiente (man the gatherer 10,000 years ago inside nature; ~1.3 billion people in poverty) — printed p. 89 |
 | Jordan part — Unit 2 Lesson 2: The Population Explosion and the Depletion of Natural Resources (الانفجار السكاني واستنزاف الموارد الطبيعية) | Jordan, *Jordan G11 ES T1*, Unit 2 Lesson 2: The Population Explosion and the Depletion of Natural Resources (الانفجار السكاني واستنزاف الموارد الطبيعية) — printed p. 52 |
+| Armenia part — §11 Population pressure as a global problem | Armenia, *Armenia Grade 12 Geography student*, §11 Population pressure as a global problem — printed p. 86 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Angola, Mozambique, Jordan).**
+**Acceptance count: taught in 5 countries (Ethiopia, Angola, Mozambique, Jordan, Armenia).**
 
 No matching teacher guide exists in this band: the book recorded as this text's teacher guide proved to be the 2011 GEQIP Grade 12 teacher's guide for the old syllabus, not this book's companion, and supplies no answer keys for it (proof in the placements file's verification block).
 
@@ -30,3 +33,5 @@ Angola's own way (Grade 5): Geography opens as "geographic space" — the natura
 Mozambique's own way (Mozambique Grade 10 PESD II Mod 5): population geography taught as a developed-world/developing-world contrast throughout — distribution factors, growth, Malthus and the transition, then the two evolutions (developed countries; the "Terceiro Mundo" set) with their opposite population policies, closing on structures, demographic problems (incl. HIV cutting life expectancy below 50) and population–economy/environment relations.
 
 Jordan's own way (Jordan G11 ES T1): Grade 11 Earth Science turns to weather systems and climate change, then to people — population explosion and the draining of natural resources.
+
+Armenia's own way (Armenia Grade 12 Geography student): the final Geography year is thematic, not regional-by-continent: first "distinctive" region types (fast-growing, urbanised, mountain, arid-agrarian, integrating Western Europe), then humanity's global problems one by one, closing on sustainable development — with mountain-country development read through Armenia's own case.

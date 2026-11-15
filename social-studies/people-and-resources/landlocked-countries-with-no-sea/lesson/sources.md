@@ -1,6 +1,6 @@
 # Sources — Landlocked — countries with no sea
 
-countries: Ethiopia, Bolivia, Zimbabwe, Uganda
+countries: Ethiopia, Bolivia, Zimbabwe, Uganda, Armenia
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Bolivia, Zimbabwe, Uganda
 
 **Book 5:** *Excel Standard Social Studies, Pupil's Book 5 (First Edition)* (student book, English) — Excel Publishers, Kampala; year not printed (First Edition); ISBN no ISBN printed. Title as printed: Excel Standard Social Studies, Pupil's Book 5 (First Edition). Grade: Primary Five = Grade 5 (student/teacher: STUDENT). PDF pages: 213 (title page verified: "EXCEL STANDARD SOCIAL STUDIES PUPIL'S BOOK 5 — EXCEL PUBLISHERS" — matches record page count 213 exactly; read via the record's books.json source_url at exoticnotes.com after grab.py routes failed with RemoteDisconnected from api.github.com). Commercial book built on the NCDC Primary Five SST syllabus, filed in the library under gov/uganda — see library debts in the group log.. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/uganda-placements.md.
 
+**Book 6:** *Հայաստանի աշխարհագրություն — 9-րդ դասարանի դասագիրք (Geography of Armenia, textbook for grade 9)* (student book, Armenian) — «Տիգրան Մեծ» (Tigran Mets), Yerevan; year 2025; ISBN 978-9939-976-05-1. Authors: M. Manasyan, A. Hovsepyan. Title as printed: Հայաստանի աշխարհագրություն — 9-րդ դասարանի դասագիրք (Geography of Armenia, textbook for grade 9). Grade: 9 (student/teacher: STUDENT). PDF pages: 176 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the record's own armedu.am source_url (GitHub tree route 404; cover verified). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What landlocked means | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 5, printed pp. 145–146 |
@@ -21,8 +23,9 @@ countries: Ethiopia, Bolivia, Zimbabwe, Uganda
 | Bolivia part — The Atacama territory and the treaties of 1866/1874: how Bolivia's Litoral was lost | Bolivia, *Texto de Aprendizaje — Ciencias Sociales, Secundaria 4*, Grade 10, The Atacama territory and the treaties of 1866/1874: how Bolivia's Litoral was lost — printed p. 43 |
 | Zimbabwe part (Grade 5) — Unit 21: Roadports, seaports and airports linked to Zimbabwe (teacher guide — evidence) | Zimbabwe, *PlusOne Social Science Grade 5 Teacher's Guide* (teacher guide), Unit 21: Roadports, seaports and airports linked to Zimbabwe — printed p. 62 |
 | Uganda part — Topic 1: Uganda as a land locked country | Uganda, *Uganda Grade 5 UG Excel P5 SST*, Topic 1: Uganda as a land locked country — printed p. 17 |
+| Armenia part — §48 Armenia as a landlocked country: transport corridors to the sea | Armenia, *Armenia Grade 9 Geography of Armenia student*, §48 Armenia as a landlocked country: transport corridors to the sea — printed p. 127 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Bolivia, Uganda). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 4 countries (Ethiopia, Bolivia, Uganda, Armenia). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
 
 No book error is flagged for this lesson's pages in the placements. The student book's body numbering for Unit Two drifts from its own contents (regions printed as 2.4, factors as 2.5, local classification as 2.6, where the contents and the teacher guide's contents agree on 2.3, 2.4 and 2.5); this lesson follows the contents numbering and teaches no misprint.
 
@@ -33,3 +36,5 @@ Searchable tags: landlocked countries, 49 countries, decolonisation borders, eth
 Zimbabwe's own way (Grade 5) (teacher guide — evidence): Grade 5 transport is taught as a landlocked country's system — goods by rail/road/air/sea, animal transport (riding, leading, herding), and the roadports, seaports and airports Zimbabwe depends on; shelter links heritage sites (Matobo Hills) and map-drawing of Zimbabwe to building safely in disaster-prone areas. That evidence is stocked here as the way Zimbabwe teaches this thing; it does not change the acceptance count above.
 
 Uganda's own way (Uganda Grade 5 UG Excel P5 SST): A full-year commercial companion to the NCDC syllabus, far more detailed than the home-study booklet: Uganda's districts/regions are listed sub-region by sub-region, and each Uganda topic (physical features, climate, vegetation, resources, population) gets its own full treatment. Non-Geography parts named, not placed: Topic 6 The People of Pre-colonial Uganda — origins, ethnic groups, political/social/economic organisation (History, printed pp. 89–117, except its migration and settlement sections, placed below); Topic 7 Foreign Influence — traders, explorers, missionaries, colonial administrators (History, pp. 118–142); Topic 8 How Uganda Became a Nation (History, pp. 143–148); Topic 9 The Road to Independence (History, pp. 149–158); Topic 10 Uganda as an Independent Nation — presidents, national symbols, democracy, elections (Civics, pp. 159–173); Topic 11 The Government of Uganda — levels, organs, constitution, revenue, budgeting, citizens' rights (Civics, pp. 174–193).
+
+Armenia's own way (Armenia Grade 9 Geography of Armenia student): the whole grade-9 year is the home country — first the Armenian Highlands as a physical whole, then the Republic section by section (nature, population, economy), finishing marz by marz (all 10 provinces) so every learner ends by studying their own province.

@@ -6834,3 +6834,234 @@ Hazard (printed p. 60; printed p. 113) — all 119 new
 lessons are taught in 1 country (Bhutan), 8 questions
 each, each standing on Bhutan student book(s).
 Geography lessons: 2879 → 2998.
+
+
+## Armenia — Geography expansion (merged 2026-11-15)
+357 placement lines stocked from Armenia's 28 records /
+20 distinct books (the 8 TSV records duplicate 8 of the
+books.json files and were read once). All books are in
+Armenian. The placements file's per-book tallies sum to
+exactly 357, matching the placement-line count book by
+book on totals — no total discrepancy; its existing/NEW
+split (170/187) differs from the line flags (175
+existing-flagged / 182 NEW-flagged, 144 distinct NEW
+slugs) because the tallies count 5 unflagged lines
+whose target slugs do not stand as NEW (Book 13's
+globalisation-and-the-world-economy line and Book 15's
+the-political-map §5.2,
+natural-hazards-around-the-world, water-as-a-resource
+and resources-of-the-ocean lines); the merge follows
+the lines and the lesson dirs. By lesson dir, 186
+placements land in 126 standing lessons and 171 in the
+135 new lessons. Eight NEW-flagged slugs already stand
+as lessons (the-land-and-air/western-europe-geography,
+germany-geography, france-geography, turkey-geography,
+india-geography, southeast-asia-geography,
+china-geography and japan-geography, 1 placement each,
+all from Book 2) and their placements are stocked
+there, not rebuilt. Eight placements are remapped from
+5 slugs that do not stand to the closest standing
+lesson covering the thing (original slug recorded in
+each provenance row):
+population-transport-and-maps/the-political-map-of-the-world
+→
+population-transport-and-maps/political-map-of-the-world
+(4 placements, Books 1, 2 and 15);
+people-and-resources/resources-of-the-ocean →
+people-and-resources/world-ocean-resources (Book 15);
+people-and-resources/water-as-a-resource →
+people-and-resources/water-air-forest-wildlife-and-soil
+(Book 15);
+global-issues/natural-hazards-around-the-world →
+global-issues/natural-hazards-what-they-are (Book 15);
+culture-and-work/globalisation-and-the-world-economy →
+global-issues/globalization-gains-and-costs (Book 13,
+whose §4.1 companion line already stocks there). Eight
+books are teacher guides/handbooks (Books 6, 8, 12, 14,
+16, 18, 19, 20; 15 placements), cited as teacher-guide
+evidence only, outside acceptance counts; every
+destination takes at least one student-book placement
+except
+the-land-and-air/action-research-improving-your-own-practice-in-cycles
+(5 teacher-guide placements only) — Armenia is added to
+its countries line and named there as teacher-guide
+evidence only, count unchanged. Book 9 (Grade 8 Social
+Science student) is RECORD-ONLY for Geography — pure
+Civics and study-project method, 0 placements, owned by
+a later Civics wave. The combined Social Science books
+place only their Geography parts; the other parts are
+named in the placements headers, not placed. Read
+routes carried exactly as the placements file records
+them: the Grade 7–12 Geography student books and the
+Grade 10 Geography teacher guide were read from the
+records' own armedu.am source_urls (GitHub tree route
+404, covers verified); the Grade 11 Social Science
+student book was read from its record's armedu.am
+source_url because the GitHub release copy is corrupt
+(no xref/trailer) — a library debt; six image-only
+books (Books 15–20) were read visually from 100-DPI
+contact sheets. Armenia's own way: Grade 7 opens school
+geography with the geographic map itself (plan, scale,
+azimuth, projections) before any Earth science and runs
+world economy branch by branch with Armenia as the
+worked example; Grade 8 is a pure regional-geography
+year on the UN scheme (position, nature, population,
+economy for every region and chosen state, with
+Armenia's four neighbours given full country lessons);
+Grade 9 is the home country whole — the Armenian
+Highlands, then the Republic section by section,
+finishing marz by marz through all 10 provinces; Grade
+10 is methods-first (history and branches of the
+science, GIS/GPS/aerospace methods, lithosphere,
+climate, hydrology, the political map, population,
+resources measured by endowment); Grade 11 is the world
+economy in depth followed by its ecological bill; Grade
+12 is thematic — distinctive region types, then
+humanity's global problems, closing on sustainable
+development with mountain-country development read
+through Armenia's own case; the Social Science course
+runs person-first (man and nature, society, mind,
+morality, beauty, law, economy, politics) and turns
+practical in the senior years (market economy and
+personal finance as life skills, the state's role
+measured by GDP, growth, inflation and unemployment,
+and a closing globalisation theme that includes global
+problems' impact on Armenia itself). Stocked into
+standing lessons (186 placements across 126 lessons).
+135 NEW lessons built (171 placements) — **The Land and
+Air**: Antarctica Geography Overview (printed p. 169),
+Armenia Climate (printed p. 40), Armenia General
+Geographic Overview (printed p. 23), Armenia Geography
+Introduction (printed p. 3), Armenia Geological
+Structure And Minerals (printed p. 31), Armenia Lakes
+And Lake Sevan (printed p. 47), Armenia Landscapes And
+Altitudinal Zonality (printed p. 55), Armenia Marzes
+Regional Geography (printed p. 141; printed p. 145;
+printed p. 147; printed p. 150; printed p. 153; printed
+p. 157; printed p. 160; printed p. 162; printed p. 166;
+printed p. 169), Armenia On The World Map Position And
+Borders (printed p. 6), Armenia Relief (printed pp. 34,
+38; printed p. 69), Armenia Rivers (printed p. 44),
+Armenia Soils And Vegetation (printed p. 51), Armenian
+Highlands Climate (printed p. 14), Armenian Highlands
+Geology And Relief (printed p. 8; printed p. 21),
+Armenian Highlands Inland Waters (printed p. 16),
+Armenian Highlands Soils Vegetation Wildlife (printed
+p. 19), Asia Geography Overview (printed p. 60; printed
+p. 126), Australia And Oceania Geography Overview
+(printed p. 162), Australia Geography Overview (printed
+p. 165), Azerbaijan Geography (printed p. 74), Branches
+Of Geographical Science (printed p. 9), Central Asia
+Geography Overview (printed p. 89), Earths Heat Balance
+(printed p. 107), East Asia Geography Overview (printed
+p. 108), Eastern Europe Geography (printed p. 11;
+printed p. 28), Europe Geography Overview (printed p.
+6; printed p. 59), General Circulation And Air Masses
+(printed p. 77), Georgia Geography (printed p. 69),
+Humidity And Precipitation Distribution (printed p.
+61), Iran Geography (printed p. 84), Latin America
+Geography (printed p. 142), Mountain Regions
+Development Features (printed p. 29), Natural Zones Of
+The World (printed p. 89), North America Geography
+Overview (printed p. 128; printed p. 149), Northern
+Europe Geography (printed p. 52), Ocean Water
+Temperature And Salinity (printed p. 43), Platforms And
+Geosynclines Mountain Building Belts (printed p. 34;
+printed p. 90), Russia Geography And Federal Division
+(printed p. 17), South Asia Geography Overview (printed
+p. 91), Southern Europe Geography (printed p. 29),
+Southwest Asia Geography (printed p. 64; printed p.
+88), USA Geography (printed p. 132), World Ocean Floor
+Relief (printed p. 41), World Regions And Regional
+Geography (printed p. 4; printed p. 3; printed p. 56;
+printed p. 64); **Population, Transport and Maps**:
+Armenia In World Geopolitics (printed p. 141), Armenia
+Large Cities And Urbanisation (printed p. 86), Armenia
+Migration And Emigration (printed p. 72), Armenia
+Population Composition And Labour Resources (printed p.
+75), Armenia Population Distribution And Settlement
+(printed p. 79), Armenia Population Growth (printed p.
+70; printed p. 90), Armenia State Structure And
+Administrative Division (printed p. 28), Armenia
+Transport Modes And Corridors (printed p. 127), Armenia
+Transport System (printed p. 125), Azerbaijan
+Population (printed p. 75), China Population (printed
+p. 113), Eastern Europe Population (printed p. 13),
+Georgia Population (printed p. 71), Grouping And
+Typology Of States (printed p. 102; printed p. 135),
+India Population (printed p. 98), Iran Population
+(printed p. 85), Japan Population (printed p. 120),
+Latin America Population (printed p. 145), Map
+Projections How The Globe Flattens (printed p. 19;
+printed p. 29), National Transport Systems Compared
+(printed p. 83), Northern Europe Population (printed p.
+52), Political Geography And Geopolitics (printed p.
+139), Races Ethnic Groups And Religions Of The World
+(printed p. 118), Russia Population (printed p. 22),
+Southeast Asia Population (printed p. 104), Southern
+Europe Population (printed p. 29), Southwest Asia
+Population (printed p. 65), State Territory And State
+Borders (printed p. 99), Turkey Population (printed p.
+80), Urbanised Regions And Megalopolises (printed p.
+19), USA Population (printed p. 134), Western Europe
+Population (printed p. 34), World Transport Routes And
+Corridors (printed p. 165), Yerevan The Capital
+(printed p. 83); **People and Resources**: Climate And
+Agroclimatic Resources (printed p. 178), Resource
+Endowment How Well A Country Is Supplied (printed p.
+127; printed p. 171); **Culture and Work**: Animal
+Husbandry Geography (printed p. 159), Arid Agrarian
+Regions (printed p. 39), Armenia Agriculture Overview
+(printed p. 111; printed p. 124), Armenia Animal
+Husbandry (printed p. 119), Armenia Crop Farming
+(printed p. 116), Armenia Economy Overview (printed p.
+91; printed p. 139), Armenia Energy Sector (printed p.
+97), Armenia Food Processing (printed p. 122), Armenia
+Industry Overview (printed p. 94; printed p. 110),
+Armenia Land Fund And Land Use (printed p. 114),
+Armenia Manufacturing Industry (printed p. 103),
+Armenia Metallurgy And Mining (printed p. 101), Armenia
+New Industry Branches (printed p. 108), Armenia
+Services Sphere (printed p. 131; printed p. 133),
+Armenias Financial System (printed p. 106), Azerbaijan
+Economy (printed p. 75), Chemical Light And Food
+Industries (printed p. 151; printed p. 45), China
+Economy (printed p. 113), Choosing Financial Services
+(printed p. 88), Eastern Europe Economy (printed p.
+13), Economic Systems Traditional Market Mixed (printed
+p. 84), European Union Regional Integration (printed p.
+6; printed p. 47), Factors Of Production Land Labour
+Capital (printed p. 54), Fast Growing Economies And
+Regions (printed p. 11), Financial Fraud And Scams
+(printed p. 118), France Economy (printed p. 49), Fuel
+And Energy Industry (printed p. 145; printed p. 37),
+Georgia Economy (printed p. 71), Germany Economy
+(printed p. 43), India Economy (printed p. 98),
+International Division Of Labour (printed p. 138;
+printed p. 137; printed p. 17), Iran Economy (printed
+p. 85), Japan Economy (printed p. 120), Latin America
+Economy (printed p. 145), Managing Credit And Loans
+(printed p. 104), Market Competition And Monopoly
+(printed p. 77), Northern Europe Economy (printed p.
+55), Personal Budget And Saving (printed p. 125;
+printed p. 97), Russia Economy (printed p. 24),
+Southeast Asia Economy (printed p. 104), Southern
+Europe Economy (printed p. 32), Southwest Asia Economy
+(printed p. 65), State Intervention In The Economy
+(printed p. 71; printed p. 82; printed p. 114), Turkey
+Economy (printed p. 80), USA Economy (printed pp. 134,
+137), Western Europe Economy (printed p. 38), World
+Economy Development Stages (printed p. 3); **Resources
+and Conflict**: Armenia Nature Use And Protection
+(printed p. 59), Armenia Protected Areas And Red Books
+(printed p. 62); **Global Issues**: Armenia Natural
+Disasters (printed p. 65), Ecological Balance And Its
+Disruption (printed p. 108), Ecosystem Services
+(printed p. 180), Global Problems In Armenia (printed
+p. 133), Sustainable Agriculture (printed p. 123), Use
+And Protection Of Animal Resources (printed p. 174) —
+all 135 new lessons are taught in 1 country (Armenia),
+8 questions each, each standing on Armenia student
+book(s) (two also cite an Armenia teacher guide as
+evidence only).
+Geography lessons: 2998 → 3133.
