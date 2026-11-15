@@ -102,7 +102,14 @@ the one title at rising depth wherever a title spans both books
   protecting the whales, United Arab Emirates — the
   union and Sheikh Zayed, and Argentina — building the
   state 1860–1916, the great immigration, and the
-  conquest of indigenous territories).
+  conquest of indigenous territories, and Timor-Leste —
+  the Carnation Revolution and the proclamation of
+  1975, the Indonesian invasion and the war 1975–1979,
+  the resistance reorganises: Falintil and the 1983
+  ceasefire, the Church and the diplomatic front, the
+  Santa Cruz massacre 1991, the clandestine resistance,
+  the referendum of 1999 and the restoration of 2002,
+  and heroes and memory of the resistance).
   (No teacher evidence yet.)
 - `global-issues/` — today's shared problems: population
   pressure, HIV/AIDS, climate, water, forests — and protecting
@@ -2507,7 +2514,7 @@ Plants and Animals.
 
 ## History expansion totals
 
-History lessons across the History titles: **262**
+History lessons across the History titles: **270**
 (248 before the expansion; +1 for Guyana, 2026-11-15 —
 Modern World: Guyana — our nation: independence and
 symbols. All 3 Guyana placements stand on Guyana's
@@ -2550,4 +2557,21 @@ whose count rises 16 → 17 with Nauru added); the
 teacher guide's 2 placements are evidence only — the
 heritage guide row adds no count beyond the student
 readers, and the find-history-in-your-own-locality
-lesson does not add Nauru to its countries or count.)
+lesson does not add Nauru to its countries or count.
++8 for Timor-Leste, 2026-11-15 — Modern World:
+Timor-Leste — the Carnation Revolution and the
+proclamation of 1975, Timor-Leste — the Indonesian
+invasion and the war, 1975–1979, Timor-Leste — the
+resistance reorganises: Falintil and the 1983
+ceasefire, Timor-Leste — the Church and the
+diplomatic front, Timor-Leste — the Santa Cruz
+massacre, 1991, Timor-Leste — the clandestine
+resistance, Timor-Leste — the referendum of 1999
+and the restoration of 2002, and Timor-Leste —
+heroes and memory of the resistance. All 9
+Timor-Leste placements stand on Timor-Leste's
+teacher guide only, as evidence only, acceptance
+count 0 countries; the ninth placement, stocked
+into the existing First Steps
+from-evidence-to-a-written-history lesson, likewise
+leaves that lesson's acceptance count unchanged.)

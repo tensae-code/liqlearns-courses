@@ -8301,3 +8301,75 @@ Library debt, as filed: Nauru's shelf holds no Nauru
 national history book at all — only these regional
 readers, byte-identical to the files also shelved
 under Niue (MD5-verified). History lessons: 261 → 262.
+
+## History expansion — Timor-Leste — built 2026-11-15
+
+8 new lessons, 64 questions, in **The Modern World**:
+Timor-Leste — the Carnation Revolution and the
+proclamation of 1975
+(modern-world/timor-leste-carnation-revolution-and-proclamation-1975),
+Timor-Leste — the Indonesian invasion and the war,
+1975–1979
+(modern-world/timor-leste-indonesian-invasion-and-war-1975-1979),
+Timor-Leste — the resistance reorganises: Falintil
+and the 1983 ceasefire
+(modern-world/timor-leste-resistance-reorganises-falintil-and-1983-ceasefire),
+Timor-Leste — the Church and the diplomatic front
+(modern-world/timor-leste-church-and-diplomatic-front),
+Timor-Leste — the Santa Cruz massacre, 1991
+(modern-world/timor-leste-santa-cruz-massacre-1991),
+Timor-Leste — the clandestine resistance
+(modern-world/timor-leste-clandestine-resistance),
+Timor-Leste — the referendum of 1999 and the
+restoration of 2002
+(modern-world/timor-leste-referendum-1999-and-restoration-2002)
+and Timor-Leste — heroes and memory of the
+resistance
+(modern-world/timor-leste-heroes-and-memory-of-the-resistance)
+— 9 placements stocked from Timor-Leste's *Livru
+Planu Lisaun Klase 6 Períodu 2 (Grade 6 Lesson Plan
+Book, Period 2)*, Grade 6 teacher guide in Tetun
+with Portuguese parallel text (Ministério da
+Educação, República Democrática de Timor-Leste,
+2016, no ISBN printed): the Carnation Revolution
+and Fretilin's proclamation of 28 November 1975
+(printed pp. 194–211); the Indonesian invasion of
+December 1975, positional war and the
+encirclement-and-annihilation campaigns, read
+through photographs and Xanana Gusmão's poem
+Esperanças Rasgadas (printed pp. 212–229); the
+resistance reorganised — Falintil guerrilla war,
+the three fronts and the 1983 ceasefire, Kontaktu
+Dame (printed pp. 230–247); the Catholic Church
+and the diplomatic front — the Pope's mass at
+Tasi-Tolu and the cause carried to the UN (printed
+pp. 248–257); the Santa Cruz massacre of 12
+November 1991, filmed by foreign journalists, with
+the Kraras massacre recalled (printed pp. 258–265);
+the clandestine resistance — couriers to Falintil,
+Renetil and Solidamor (printed pp. 266–274); the
+referendum of 30 August 1999, scorched-earth
+destruction and the Restoration of Independence on
+20 May 2002 (printed pp. 284–296); and the annex
+heroes and memory texts — the biographies of Rosa
+'Muki' Bonaparte, Maria Goretti Joaquim, Taur
+Matan Ruak and Rui Maria de Araújo, Soibada 1976,
+the 1996 Nobel Peace Prize and the CAVR's CHEGA!
+report (printed pp. 318–366). One further placement
+stocked into the existing **First Steps** lesson
+From evidence to a written history
+(first-steps/from-evidence-to-a-written-history):
+oral-history research — pupils interview a person
+who lived through the occupation, write a
+mini-biography and adapt an event as drama (printed
+pp. 275–283 and 297–303). The book is PARTIAL for
+History scope: its Natural Science Period 2 parts
+and the Period I and Period III overview charts
+(printed pp. 189–190) are named in the new lessons'
+sources, not placed; the Period 1 and Period 3
+books and the Grade 6 student book are not held, as
+filed. All 9 placements stand on the teacher guide
+as evidence only — every new lesson's acceptance
+count is 0 countries, counted nowhere, and the
+existing lesson's acceptance count does not change.
+History lessons: 262 → 270.

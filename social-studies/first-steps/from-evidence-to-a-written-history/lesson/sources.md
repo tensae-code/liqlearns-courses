@@ -34,3 +34,17 @@ Searchable tags: sources, primary source, secondary source, authenticity, forger
 
 History fix note (2026-11-12): the audit found the terms taught from the student book in this lesson, with the Grade 11 guide's marking position as guide evidence recorded nowhere. The row above files that position, labelled as teacher evidence, at the guide's own pages.
 
+## History expansion (2026-11-15) — Timor-Leste stocked
+
+**Book (Timor-Leste):** *Livru Planu Lisaun Klase 6 Períodu 2 (Grade 6 Lesson Plan Book, Period 2)* (teacher guide, Tetun with Portuguese parallel text) — tl-g6-ciencias-sociais-period-2. Title as printed: Livru Planu Lisaun Klase 6 Períodu 2 (Grade 6 Lesson Plan Book, Period 2) — the record's "Ciências Sociais Grade 6 Teacher Guide — Unit Lesson Plans, Period 2"; the file opens with the Vice-Minister's foreword (Lia Maklokek) rather than a separate cover page. Grade: Grade 6 (student/teacher: TEACHER). Publisher: Ministério da Educação, República Democrática de Timor-Leste; year 2016 (Vice-Minister Dulce de Jesus Soares's foreword, May 2016); no ISBN printed. PDF pages: 366 (front matter verified; the book binds the Period 2 lesson plans for both Natural Science and Social Science, taught in alternating timetable blocks). Verdict: PARTIAL for History scope. Placements at liqlearns-courses-work/expansion-history-2026-11-15/timor-leste-placements.md.
+
+This book is a teacher guide. The Timor-Leste rows below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count — Timor-Leste is not added to this lesson's countries line or acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Oral-history research (teacher guide — evidence): each pupil interviews a person who lived through the occupation, writes up the experience as a mini-biography, and groups adapt a historical event as drama; final presentations and reflection close the unit (original placement slug: first-steps/from-evidence-to-a-written-history) | Timor-Leste, *Livru Planu Lisaun Klase 6 Períodu 2* (teacher guide — evidence), Unit lessons 10–11 and 14–15 — printed pp. 275–283 and 297–303 |
+
+Timor-Leste's own way, as filed here: an eleven-year-old with a notebook becomes a historian, and a grandparent's memory becomes the nation's archive — oral history is not an exercise in this book but the method by which the occupation unit itself is written. The interviews and mini-biographies are filed as plot summaries only, never transcribed.
+
+**Acceptance count: taught in 1 country (Ethiopia) — unchanged; the Timor-Leste placement above is teacher-guide evidence only, counted nowhere.**
+
