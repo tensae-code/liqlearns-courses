@@ -1,6 +1,6 @@
 # Sources — The Water Cycle
 
-countries: India, Cambodia, Vietnam, Pakistan, Moldova, Mozambique
+countries: India, Cambodia, Vietnam, Pakistan, Moldova, Mozambique, Laos
 
 **Book 1:** *Our Environment — Textbook in Geography for Class VII (Social Science)* (student book, English) — India, NCERT, New Delhi; first edition March 2007, this copy reprint 2020-21; ISBN 81-7450-714-0. Title as printed: Our Environment — Textbook in Geography for Class VII (Social Science). Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 84 (cover render verified: "Our Environment, Textbook in Geography for Class VII, NCERT 2020-21"; grabbed via grab.py release route, 23,494,641 bytes; duplicate TSV + books.json records grade-07/gov/india/our-environment.pdf counted once). Verdict: COMPLETE — 9 chapters, printed pp. 1-71 + appendix p. 72. Records note: 34 records / 17 distinct books (17 TSV records in grades 6-10 + 17 books.json records that are the same books by grade/subject — duplicate records of the same NCERT titles); the 5 Geography books were read full page-by-page via pdftotext -layout after cover verification; the other 12 books are record-only (History, Civics, Economics) with no Geography content, filed for later waves. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/india-placements.md.
 
@@ -16,6 +16,10 @@ countries: India, Cambodia, Vietnam, Pakistan, Moldova, Mozambique
 
 **Book 7:** *Módulo 2 de Geografia — Ambiente Bioclimático* (student book, Portuguese) — Ministério da Educação / IEDA; year not printed (uploaded to IEDA site 2022); no ISBN printed. Title as printed: Módulo 2 de Geografia — Ambiente Bioclimático. Grade: Grades 10–12 cycle (2º Ciclo), filed as Grade 10 (student/teacher: STUDENT). PDF pages: 137 (title page verified against the record title; byte size 7,185,973 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
 
+**Book 8:** *ຄູ່ມືຄູ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາປີທີ 5 (Teacher Guide, Geography, Secondary Year 5)* (teacher guide, Lao) — Ministry of Education and Sports, Educational Science Research Institute; year 2014 (printed by Eastern Printing Public Co. Ltd., Thailand; print run 4,915); ISBN no ISBN printed. Title as printed: ຄູ່ມືຄູ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາປີທີ 5 (Teacher Guide, Geography, Secondary Year 5). Grade: Grade 10 (ມ.5) (student/teacher: TEACHER). PDF pages: 149 (cover verified against the record title — full cover spread with world climate map). Verdict: COMPLETE — read from the TSV release asset (mid-size-books-5, asset size 6,784,980 = the books.json size); the books.json TREE copy at grade-10/gov/laos/geography/teacher/laos-g10-geography-teacher.pdf returns 404 in the repo despite in_pushed: true, and its recorded source_url names an upstream file m5_english.pdf — the book itself is the correct Geography guide (see log, library debts). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/laos-placements.md.
+
+**Book 9:** *ແບບຮຽນ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາປີທີ 5 (Textbook, Geography, Secondary Year 5)* (student book, Lao) — Ministry of Education and Sports, Educational Science Research Institute; year 2014 (printed by Eastern Printing Public Co. Ltd., Thailand; print run 27,685); ISBN no ISBN printed. Title as printed: ແບບຮຽນ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາປີທີ 5 (Textbook, Geography, Secondary Year 5). Grade: Grade 10 (ມ.5) (student/teacher: STUDENT). PDF pages: 205 (cover verified against the record title — full cover spread with world climate map; byte size 25,276,102 exact match to the books.json record, read via the release asset). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/laos-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Ch.5: the water cycle (hydrological cycle) | India, *India Grade 7 Our Environment*, Ch.5: the water cycle (hydrological cycle) — printed p. 30 |
@@ -26,8 +30,10 @@ countries: India, Cambodia, Vietnam, Pakistan, Moldova, Mozambique
 | Moldova part — §18 The hydrosphere; the water circuit in nature | Moldova, *Moldova Grade 5 G5 Geography*, §18 The hydrosphere; the water circuit in nature — printed p. 72 |
 | Mozambique part — Lição 19: o ciclo hidrológico (evaporation–condensation–precipitation sequence) [placement slug: the-land-and-air/the-water-cycle] | Mozambique, *Mozambique Grade 7 PESD I Mod 1*, Lição 19: o ciclo hidrológico (evaporation–condensation–precipitation sequence) — printed p. 104 |
 | Mozambique part — Lição 11: Ciclo da água (infiltration, groundwater sheets, surface runoff; man's interference) [placement slug: the-land-and-air/the-water-cycle] | Mozambique, *Mozambique Grade 10 PESD II Mod 2*, Lição 11: Ciclo da água (infiltration, groundwater sheets, surface runoff; man's interference) — printed p. 71 |
+| Laos part — Part I Lesson 6: The water cycle | Laos, *Laos Grade 10 laos-g10-geography-teacher*, Part I Lesson 6: The water cycle — printed p. 64 (teacher-guide evidence) |
+| Laos part — Part I Lesson 6: The water cycle | Laos, *Laos Grade 10 laos-g10-geography-student*, Part I Lesson 6: The water cycle — printed p. 53 |
 
-**Acceptance count: taught in 6 countries (India, Cambodia, Vietnam, Pakistan, Moldova, Mozambique).**
+**Acceptance count: taught in 7 countries (India, Cambodia, Vietnam, Pakistan, Moldova, Mozambique, Laos).**
 
 India's own way (Grade 7 Our Environment): Grade 7 is organised around "environment" in widening rings — the concept itself, then inside/changing Earth, air and water, world vegetation belts, human settlement and transport, and finally three lived-in region studies (Amazon basin, Ganga-Brahmaputra basin, Sahara and Ladakh deserts) where all the strands meet in real places.
 
@@ -44,3 +50,7 @@ Moldova's own way (Moldova Grade 5 G5 Geography): first Geography year built as 
 Mozambique's own way (Mozambique Grade 7 PESD I Mod 1): distance-learning self-study module — every lesson follows the same rhythm (introduction, development with worked examples, exercises, answer key, lesson summary); the four Earth spheres are the organising spine of the whole module, each sphere closed by a "use, protection and conservation" lesson; local anchors throughout (Maputo temperature worked example, Zambezi delta, Moma/Namialo weather contrast).
 
 Mozambique's own way (Mozambique Grade 10 PESD II Mod 2): a full physical-climatology course — atmosphere structure to magnetosphere, heat balance, pressure/wind circulation, air masses and fronts, humidity and precipitation, the water cycle, then Köppen/Thornthwaite classification worked through climate tables with African station graphs (Arkassa, Tamanrasset, Algiers), closing on protection of bioclimatic resources.
+
+Laos's own way (Laos Grade 10 laos-g10-geography-teacher): a second world-geography pass at a higher level — Earth and map projection first, then life in the climate zones (hot, temperate, cold, mountain/coastal), population characteristics and problems, humans and environment, and a distinctive closing block on how geographic space is organised (agricultural areas, industrial areas, tourism areas, rural and urban geography).
+
+Laos's own way (Laos Grade 10 laos-g10-geography-student): the student twin of Book 6 — same 6 parts / 20 lessons with full illustrated text, opening with a concept map of the whole year (Earth, life zones, population and quality of life, humans and environment, organisation of geographic space, rural and urban geography).

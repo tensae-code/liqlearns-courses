@@ -6278,3 +6278,161 @@ Wastewater What It Is (printed p. 60) — all 58 new
 lessons are taught in 1 country (Jordan), 8 questions
 each, each standing on Jordan student book(s).
 Geography lessons: 2627 → 2685.
+
+
+## Laos — Geography expansion (merged 2026-11-15)
+264 placement lines stocked from Laos's 23 records / 14
+distinct books (9 books appear twice — TSV release
+record + books.json tree record of the same file; 5
+teacher guides appear in books.json only). All 14 books
+are Ministry of Education (and Sports), Educational
+Science Research Institute, Laos, in Lao, COMPLETE:
+Geography teacher guides and student books for Grades
+6–12. The 7 teacher guides' placements are cited as
+teacher-guide evidence in their rows, outside
+acceptance counts — every lesson Laos touches also
+holds at least one Laos student-book placement, so Laos
+counts toward acceptance in all of them, on the student
+books. The placements file's per-book tallies sum to
+exactly 264, matching the line count — no tally
+discrepancy. The file's per-book existing/new tallies
+sum to 58 existing / 206 NEW LESSON NEEDED; by lesson
+dir, 62 placements land in standing lessons and 202 in
+the 82 new lessons, because two slugs flagged NEW
+already stand as lessons
+(population-transport-and-maps/europe-population and
+the-land-and-air/the-water-cycle, 2 flagged placements
+each) and are stocked there, not rebuilt; no slug
+needed remapping. Book 6's verdict carries its library
+debt exactly in its sources entries: its books.json
+tree copy returns 404 despite in_pushed: true and its
+recorded source_url names an upstream English file; the
+book itself is the correct Grade 10 Geography teacher
+guide, read from the TSV release asset. Laos's own way:
+Grade 6 is a world-foundations year taught zone by
+zone, closing with how people live in each climate
+zone; Grade 7 is a continents year (Africa, Europe, the
+Americas, Oceania, each with country case studies);
+Grade 8 is Asia and every ASEAN member state one by
+one; Grades 9 and 12 are the geography of Laos itself —
+physical geography, the three regions, population and
+administration, economic geography — deepened at Grade
+12 with rural and urban geography, political geography,
+an economic-development-strategy lesson and ASEAN
+cooperation; Grade 10 is a second world pass closing on
+how geographic space is organised; Grade 11 works world
+population, then nine country studies plus development
+in Africa. Stocked into standing lessons (62 placements
+across 26 lessons). 82 NEW lessons built (202
+placements) — **The Land and Air**: Africa Natural
+Conditions (printed p. 13; printed p. 20), America
+Natural Geography (printed p. 49; printed p. 63), Asia
+Physical Geography (printed p. 1; printed p. 1),
+Australia Country Study (printed p. 67; printed p. 92),
+Brazil Country Study (printed p. 61; printed p. 83),
+Brunei Country Study (printed p. 81; printed p. 75),
+Cambodia Country Study (printed p. 57; printed p. 57),
+China Country Study (printed p. 101; printed p. 25;
+printed p. 28; printed p. 154), Egypt Country Study
+(printed p. 27; printed p. 38), Europe Natural
+Geography (printed p. 33; printed p. 45), France
+Country Study (printed p. 46; printed p. 79; printed p.
+59; printed p. 120), Germany Country Study (printed p.
+86; printed p. 132), Humans In Mountain And Coastal
+Zones (printed p. 82; printed p. 82), Humans In The
+Cold Zone (printed p. 62; printed p. 79; printed p. 82;
+printed p. 77), Humans In The Desert Zone (printed p.
+52; printed p. 68), Humans In The Hot Climate Zone
+(printed p. 48; printed p. 69; printed p. 62; printed
+p. 61), Humans In The Savanna Zone (printed p. 56;
+printed p. 73), Humans In The Temperate Zone (printed
+p. 59; printed p. 74; printed p. 78; printed p. 69),
+India Country Study (printed p. 110; printed p. 31;
+printed p. 35; printed p. 165), Indonesia Country Study
+(printed p. 63; printed p. 61), Japan Country Study
+(printed p. 123; printed p. 12; printed p. 18; printed
+p. 177), Laos Central Region (printed p. 31; printed p.
+37), Laos Climate (printed p. 10; printed p. 38;
+printed p. 10; printed p. 14), Laos Geological
+Structure And Relief (printed p. 31; printed p. 4),
+Laos Important Rivers (printed p. 14; printed p. 15),
+Laos Location Boundaries Area And Shape (printed p. 1;
+printed p. 25; printed p. 1; printed p. 1), Laos
+Northern Region (printed p. 22; printed p. 32), Laos
+Relief And Landforms (printed p. 6; printed p. 4), Laos
+Southern Region (printed p. 37; printed p. 42),
+Malaysia Country Study (printed p. 69; printed p. 65),
+Myanmar Country Study (printed p. 49; printed p. 53),
+Oceania Region (printed p. 64; printed p. 88),
+Philippines Country Study (printed p. 87; printed p.
+79), Russia Country Study (printed p. 43; printed p.
+70; printed p. 55; printed p. 108), Singapore Country
+Study (printed p. 75; printed p. 70), South Africa
+Country Study (printed p. 30; printed p. 136; printed
+p. 41; printed p. 199), South Korea Country Study
+(printed p. 19; printed p. 24), Thailand Country Study
+(printed p. 43; printed p. 45), Timor Leste Country
+Study (printed p. 95; printed p. 85), United Kingdom
+Country Study (printed p. 96; printed p. 142), United
+States Country Study (printed p. 58; printed p. 62;
+printed p. 77; printed p. 95), Vietnam Country Study
+(printed p. 37; printed p. 41), Volcanoes Earthquakes
+And Life On Earth (printed p. 38; printed p. 49), Wind
+And Types Of Wind (printed p. 21; printed p. 33);
+**Population, Transport and Maps**: America Population
+(printed p. 52; printed p. 67), Asia Social Geography
+(printed p. 7; printed p. 11), Changing Characteristics
+Of World Population (printed p. 13; printed p. 11),
+Characteristics Of Population (printed p. 86; printed
+p. 90), Cities Of America (printed p. 56; printed p.
+74), Laos Administrative Divisions (printed p. 53;
+printed p. 53), Laos Political Geography And
+Administration (printed p. 59; printed p. 56), Laos
+Population Distribution And Growth (printed p. 41;
+printed p. 51; printed p. 45; printed p. 41), Laos
+Population Structure (printed p. 47; printed p. 49),
+Laos Rural Geography (printed p. 72; printed p. 64),
+Laos Transport And Communications (printed p. 67;
+printed p. 108; printed p. 72; printed p. 140), Laos
+Urban Geography (printed p. 77; printed p. 69), Map
+Projections Showing The Earth On A Map (printed p. 18;
+printed p. 10), Population Developed vs Developing
+Countries (printed p. 32; printed p. 47), Rural And
+Urban Geography (printed p. 137; printed p. 181), Urban
+Systems And Hierarchy (printed p. 42; printed p. 58);
+**People and Resources**: America Economy (printed p.
+53; printed p. 71), Asia Economic Geography (printed p.
+10; printed p. 15), Europe Economic Development
+(printed p. 40; printed p. 52), Laos Economic
+Development Strategy 2000 2020 (printed p. 97; printed
+p. 115), Laos Economy General Characteristics (printed
+p. 58; printed p. 90; printed p. 57; printed p. 98);
+**Culture and Work**: Africa Agriculture (printed p.
+22; printed p. 33), Africa Industry (printed p. 25;
+printed p. 36), Agricultural Areas And Land Use
+(printed p. 115; printed p. 154), Industrial Areas
+(printed p. 122; printed p. 163), Laos Agriculture And
+Forestry (printed p. 60; printed p. 100; printed p. 62;
+printed p. 123), Laos Handicrafts And Industry (printed
+p. 63; printed p. 103; printed p. 66; printed p. 131),
+Laos Tourism Geography (printed p. 83; printed p. 84),
+Laos Trade And Tourism (printed p. 70; printed p. 116;
+printed p. 79; printed p. 150), Tourism Areas (printed
+p. 129; printed p. 171); **Resources and Conflict**:
+Laos Natural Resources And Environmental Protection
+(printed p. 18; printed p. 42; printed p. 21; printed
+p. 24); **Global Issues**: Changing World Economic And
+Social Landscape (printed p. 58; printed p. 80),
+Development Problems Of World Regions (printed p. 46;
+printed p. 63), Laos ASEAN Relations And Cooperation
+(printed p. 122; printed p. 159), Laos Economic
+Development And Environmental Problems (printed p. 76;
+printed p. 83), Population Problems And Solutions
+(printed p. 99; printed p. 119), The Natural
+Environment (printed p. 147; printed p. 168), The
+Social Environment (printed p. 153; printed p. 176) —
+all 82 new lessons are taught in 1 country (Laos), 8
+questions each, each standing on Laos student book(s),
+with Laos teacher-guide placements also cited as
+evidence in their rows.
+Geography lessons: 2685 → 2767.

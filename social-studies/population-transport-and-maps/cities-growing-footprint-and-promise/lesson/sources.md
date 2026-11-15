@@ -1,6 +1,6 @@
 # Sources — Cities growing — footprint and promise
 
-countries: Ethiopia, Turkey, Bangladesh, Turkmenistan, North Macedonia, Cambodia, Fiji, Slovenia, Papua New Guinea, Uganda, Syria, Venezuela, Sri Lanka, Mauritania, Iran, Moldova, Nepal, Mozambique
+countries: Ethiopia, Turkey, Bangladesh, Turkmenistan, North Macedonia, Cambodia, Fiji, Slovenia, Papua New Guinea, Uganda, Syria, Venezuela, Sri Lanka, Mauritania, Iran, Moldova, Nepal, Mozambique, Laos
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). Editors: Sintayehu Teka (MSc) (Content Editor), Kassie Molla (MA) (Language Editor), Hirut Woldemichael (MA) (Curriculum Editor). Illustrator: Agenchw Nega (MSc). Designer: Geda Hoka (MA). Evaluators: Dereje Guteta (PhD), Tesfaye Shiferaw (PhD), Abebe Yibeltie (MA), Hussein Seid (MA). First published 2023 under GEQIP-E. ISBN 978-99990-0-049-9. Printed by Gravity Group IND LLC, 13th Industrial Area, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. Printed page = PDF page − 6 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md
 
@@ -64,6 +64,10 @@ countries: Ethiopia, Turkey, Bangladesh, Turkmenistan, North Macedonia, Cambodia
 
 **Book 31:** *Módulo 9 de Geografia — Cidades (title page labels the subject slot "Disciplina")* (student book, Portuguese) — Ministério da Educação / IEDA; year not printed (uploaded to IEDA site 2022); no ISBN printed. Title as printed: Módulo 9 de Geografia — Cidades (title page labels the subject slot "Disciplina"). Grade: Grades 10–12 cycle (2º Ciclo), filed as Grade 10 (student/teacher: STUDENT). PDF pages: 39 (title page verified against the record title; byte size 1,460,518 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
 
+**Book 32:** *ຄູ່ມືຄູ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາປີທີ 6 (Teacher Guide, Geography, Secondary Year 6)* (teacher guide, Lao) — Ministry of Education and Sports, Educational Science Research Institute; year 2015 (printed by Phu Thinh Printing and Trading Service Co., Vietnam; print run 4,605); ISBN no ISBN printed. Title as printed: ຄູ່ມືຄູ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາປີທີ 6 (Teacher Guide, Geography, Secondary Year 6). Grade: Grade 11 (ມ.6) (student/teacher: TEACHER). PDF pages: 145 (cover verified against the record title — full cover spread with world map). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/laos-placements.md.
+
+**Book 33:** *ແບບຮຽນ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາປີທີ 6 (Textbook, Geography, Secondary Year 6)* (student book, Lao) — Ministry of Education and Sports, Educational Science Research Institute; year 2015 (printed by Phu Thinh Printing and Trading Service Co., Vietnam; print run 25,098); ISBN no ISBN printed. Title as printed: ແບບຮຽນ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາປີທີ 6 (Textbook, Geography, Secondary Year 6). Grade: Grade 11 (ມ.6) (student/teacher: STUDENT). PDF pages: 209 (cover verified against the record title — full cover spread with world map; byte size 5,736,650 exact match to the books.json record, read via the release asset). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/laos-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What urbanisation is | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 7, printed pp. 161–163 |
@@ -99,8 +103,10 @@ countries: Ethiopia, Turkey, Bangladesh, Turkmenistan, North Macedonia, Cambodia
 | Nepal part — Unit 9 Lesson 1: Concept of urbanisation | Nepal, *Nepal Grade 12 np-g12*, Unit 9 Lesson 1: Concept of urbanisation — printed p. 265 |
 | Mozambique part — Lição 1: As Cidades (criteria for defining a city; the 20th century as the century of urbanisation) | Mozambique, *Mozambique Grade 7 PESD I Mod 3*, Lição 1: As Cidades (criteria for defining a city; the 20th century as the century of urbanisation) — printed p. 9 |
 | Mozambique part — Lição 2: Evolução das Cidades (Jericho as oldest city; medieval feudal setback; capitalism's new cities; urbanisation under 30% in Africa and South Asia) | Mozambique, *Mozambique Grade 10 PESD II Mod 9*, Lição 2: Evolução das Cidades (Jericho as oldest city; medieval feudal setback; capitalism's new cities; urbanisation under 30% in Africa and South Asia) — printed p. 9 |
+| Laos part — Part I Lesson 7: The expansion of cities in the world | Laos, *Laos Grade 11 laos-g11-geography-teacher*, Part I Lesson 7: The expansion of cities in the world — printed p. 37 (teacher-guide evidence) |
+| Laos part — Part I Lesson 7: The expansion of cities in the world | Laos, *Laos Grade 11 laos-g11-geography-student*, Part I Lesson 7: The expansion of cities in the world — printed p. 50 |
 
-**Acceptance count: taught in 17 countries (Ethiopia, Turkey, Bangladesh, Turkmenistan, North Macedonia, Cambodia, Fiji, Slovenia, Uganda, Syria, Venezuela, Sri Lanka, Mauritania, Iran, Moldova, Nepal, Mozambique). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 18 countries (Ethiopia, Turkey, Bangladesh, Turkmenistan, North Macedonia, Cambodia, Fiji, Slovenia, Uganda, Syria, Venezuela, Sri Lanka, Mauritania, Iran, Moldova, Nepal, Mozambique, Laos). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
@@ -163,3 +169,7 @@ Nepal's own way (Nepal Grade 12 np-g12): Grade 12 geography is federal and appli
 Mozambique's own way (Mozambique Grade 7 PESD I Mod 3): after world/economic geography in Modules 1–2, Module 3 turns to Mozambique itself as a complete regional study — cities, then the country's location, coast, geology, minerals, soils, relief, climate, plant and animal geography, hydrography — and closes with Southern Africa and Mozambique's SADC integration.
 
 Mozambique's own way (Mozambique Grade 10 PESD II Mod 9): the cycle closes with a short urban module — the definitional problem of "city" (no universal definition; each country's criteria), city evolution from Jericho, city functions, city–countryside interdependence, and the problems of great urban concentrations.
+
+Laos's own way (Laos Grade 11 laos-g11-geography-teacher): a world-population and world-countries year — Part I works through world population growth, changing characteristics, distribution, migration, the developed/developing contrast and urban growth; Part II then studies nine countries one by one (USA, Russia, France, Germany, UK, China, India, Japan, South Africa) plus development in Africa, with map plates (the book ends on a South Africa agriculture map, printed p. 140).
+
+Laos's own way (Laos Grade 11 laos-g11-geography-student): the student twin of Book 5 — same 2 parts / 21 lessons (world population, then nine country studies plus development in Africa) with full illustrated text.

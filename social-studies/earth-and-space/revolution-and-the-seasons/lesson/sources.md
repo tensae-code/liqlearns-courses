@@ -1,6 +1,6 @@
 # Sources — Revolution and the Seasons
 
-countries: Ethiopia, Myanmar, Turkey, Jamaica, Palestine, Bahamas, Malaysia, Eritrea, India, Rwanda, Vietnam, Uganda, Syria, Sri Lanka, Mauritania, Kuwait, Afghanistan, Yemen, Libya, Moldova, Honduras, Mozambique
+countries: Ethiopia, Myanmar, Turkey, Jamaica, Palestine, Bahamas, Malaysia, Eritrea, India, Rwanda, Vietnam, Uganda, Syria, Sri Lanka, Mauritania, Kuwait, Afghanistan, Yemen, Libya, Moldova, Honduras, Mozambique, Laos
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page - 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md.
 
@@ -54,6 +54,10 @@ countries: Ethiopia, Myanmar, Turkey, Jamaica, Palestine, Bahamas, Malaysia, Eri
 
 **Book 26:** *Módulo 1 de Geografia — Introdução ao Pensamento Geográfico e Cosmografia* (student book, Portuguese) — Ministério da Educação / Instituto de Educação Aberta e à Distância (IEDA); year not printed (uploaded to IEDA site 2022); no ISBN printed. Title as printed: Módulo 1 de Geografia — Introdução ao Pensamento Geográfico e Cosmografia. Grade: Grades 10–12 cycle (2º Ciclo), filed as Grade 10 (student/teacher: STUDENT). PDF pages: 85 (title page verified against the record title; byte size 904,542 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
 
+**Book 27:** *ຄູ່ມືຄູ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 1 (Teacher Guide, Geography, Secondary Year 1)* (teacher guide, Lao) — Ministry of Education and Sports, Educational Science Research Institute; year 2012; ISBN no ISBN printed. Title as printed: ຄູ່ມືຄູ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 1 (Teacher Guide, Geography, Secondary Year 1). Grade: Grade 6 (ມ.1) (student/teacher: TEACHER). PDF pages: 104 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/laos-placements.md.
+
+**Book 28:** *ແບບຮຽນ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 1 (Textbook, Geography, Secondary Year 1)* (student book, Lao) — Ministry of Education, Educational Science Research Institute; year 2010; ISBN no ISBN printed. Title as printed: ແບບຮຽນ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 1 (Textbook, Geography, Secondary Year 1). Grade: Grade 6 (ມ.1) (student/teacher: STUDENT). PDF pages: 102 (title page verified against the record title; byte size 47,303,229 exact match to the books.json record, read via the release asset — the tree copy is not in the repo). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/laos-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — what revolution causes: the Sun's apparent journey, day length, seasons | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 1, printed pp. 21–23 |
@@ -82,8 +86,10 @@ countries: Ethiopia, Myanmar, Turkey, Jamaica, Palestine, Bahamas, Malaysia, Eri
 | Honduras part — Lección 15: Aquí vivimos y disfrutamos — seasons of the year in our place and the spaces we enjoy (teacher guide — evidence) | Honduras, *Honduras Grade 1 Teacher Guide* (teacher guide), Lección 15: Aquí vivimos y disfrutamos — seasons of the year in our place and the spaces we enjoy — printed p. 63 |
 | Mozambique part — Lição 7: Translação — variation of Sun height and day/night length | Mozambique, *Mozambique Grade 7 PESD I Mod 1*, Lição 7: Translação — variation of Sun height and day/night length — printed p. 41 |
 | Mozambique part — Lição 13: Movimento de Translação da Terra e suas Consequências (axis inclination 66°33', unequal days and nights, seasons) | Mozambique, *Mozambique Grade 10 PESD II Mod 1*, Lição 13: Movimento de Translação da Terra e suas Consequências (axis inclination 66°33', unequal days and nights, seasons) — printed p. 67 |
+| Laos part — Part II Lesson 4: The Earth's revolution around the sun | Laos, *Laos Grade 6 laos-g06-geography-teacher*, Part II Lesson 4: The Earth's revolution around the sun — printed p. 11 (teacher-guide evidence) |
+| Laos part — Part II Lesson 4: The Earth's revolution around the sun | Laos, *Laos Grade 6 laos-g06-geography-student*, Part II Lesson 4: The Earth's revolution around the sun — printed p. 19 |
 
-**Acceptance count: taught in 20 countries (Ethiopia, Turkey, Palestine, Bahamas, Malaysia, Eritrea, India, Rwanda, Vietnam, Uganda, Syria, Sri Lanka, Mauritania, Kuwait, Afghanistan, Yemen, Libya, Moldova, Honduras, Mozambique). Myanmar is named here as teacher-guide evidence only, counted nowhere. Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 21 countries (Ethiopia, Turkey, Palestine, Bahamas, Malaysia, Eritrea, India, Rwanda, Vietnam, Uganda, Syria, Sri Lanka, Mauritania, Kuwait, Afghanistan, Yemen, Libya, Moldova, Honduras, Mozambique, Laos). Myanmar is named here as teacher-guide evidence only, counted nowhere. Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grade 6 Exploratory Core, curriculum guide — evidence): the Grade 6 Social Studies year is built as three paired terms — culture and independence first, then the physical world (mountains, landmasses and water bodies), then climate, Earth movements and the atmosphere, closing on Caribbean cooperation. That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
@@ -138,3 +144,7 @@ Honduras's own way (Honduras Grade 1 Teacher Guide) (teacher guide — evidence)
 Mozambique's own way (Mozambique Grade 7 PESD I Mod 1): distance-learning self-study module — every lesson follows the same rhythm (introduction, development with worked examples, exercises, answer key, lesson summary); the four Earth spheres are the organising spine of the whole module, each sphere closed by a "use, protection and conservation" lesson; local anchors throughout (Maputo temperature worked example, Zambezi delta, Moma/Namialo weather contrast).
 
 Mozambique's own way (Mozambique Grade 10 PESD II Mod 1): the second cycle opens with the discipline itself — geographic thought, its history from Greek antiquity to the determinist/possibilist schools, then cosmography (celestial sphere, solar system, Earth's shape and revolution) before any regional content.
+
+Laos's own way (Laos Grade 6 laos-g06-geography-teacher): a world-foundations year taught zone by zone — after Earth, maps, movements, atmosphere and waters, the last five lessons walk through how people live in each climate zone (hot, desert, savanna, temperate, cold); closes with a teaching-techniques section (printed p. 66) and a Q&A additional-knowledge appendix (printed p. 75), not placed separately.
+
+Laos's own way (Laos Grade 6 laos-g06-geography-student): the student twin of Book 2 — same 9 parts / 16 lessons with full illustrated text, a reading passage (printed p. 90) and a glossary of terms (printed p. 95), not placed separately.

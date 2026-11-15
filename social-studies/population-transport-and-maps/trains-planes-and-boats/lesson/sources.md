@@ -1,6 +1,6 @@
 # Sources — Trains, planes and boats
 
-countries: Ethiopia, Guatemala, Bahamas, Zimbabwe, Malaysia, India, Slovenia, Uganda, Venezuela, Kuwait, Iran, Yemen, Libya, Moldova, Mozambique
+countries: Ethiopia, Guatemala, Bahamas, Zimbabwe, Malaysia, India, Slovenia, Uganda, Venezuela, Kuwait, Iran, Yemen, Libya, Moldova, Mozambique, Laos
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -40,6 +40,10 @@ countries: Ethiopia, Guatemala, Bahamas, Zimbabwe, Malaysia, India, Slovenia, Ug
 
 **Book 19:** *Módulo 2 de Geografia (GEOGRAFIA — MÓDULO 2, PESD I)* (student book, Portuguese) — MINEDH / IEDA; year 2023; no ISBN printed. Title as printed: Módulo 2 de Geografia (GEOGRAFIA — MÓDULO 2, PESD I). Grade: Grades 7–9 cycle, filed as Grade 7 (student/teacher: STUDENT). PDF pages: 167 (cover verified against the record title; byte size 6,444,493 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE (note: Lição 13's body heading mistakenly repeats "actividade pecuária" wording from Lição 16 — the book's own copy error; content and summary are the agriculture environmental-problems lesson as titled). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
 
+**Book 20:** *ຄູ່ມືຄູ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາປີທີ 6 (Teacher Guide, Geography, Secondary Year 6)* (teacher guide, Lao) — Ministry of Education and Sports, Educational Science Research Institute; year 2015 (printed by Phu Thinh Printing and Trading Service Co., Vietnam; print run 4,605); ISBN no ISBN printed. Title as printed: ຄູ່ມືຄູ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາປີທີ 6 (Teacher Guide, Geography, Secondary Year 6). Grade: Grade 11 (ມ.6) (student/teacher: TEACHER). PDF pages: 145 (cover verified against the record title — full cover spread with world map). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/laos-placements.md.
+
+**Book 21:** *ແບບຮຽນ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາປີທີ 6 (Textbook, Geography, Secondary Year 6)* (student book, Lao) — Ministry of Education and Sports, Educational Science Research Institute; year 2015 (printed by Phu Thinh Printing and Trading Service Co., Vietnam; print run 25,098); ISBN no ISBN printed. Title as printed: ແບບຮຽນ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາປີທີ 6 (Textbook, Geography, Secondary Year 6). Grade: Grade 11 (ມ.6) (student/teacher: STUDENT). PDF pages: 209 (cover verified against the record title — full cover spread with world map; byte size 5,736,650 exact match to the books.json record, read via the release asset). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/laos-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Rail and air | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 5, printed pp. 140–143 |
@@ -62,8 +66,10 @@ countries: Ethiopia, Guatemala, Bahamas, Zimbabwe, Malaysia, India, Slovenia, Ug
 | Libya part — Ch.12: النقل الجوي — Air transport in the Arab World | Libya, *Libya Grade 11 LY G11 Arab World*, Ch.12: النقل الجوي — Air transport in the Arab World — printed p. 192 |
 | Moldova part — 37–38. Transport and communications | Moldova, *Moldova Grade 11 G11 Geography*, 37–38. Transport and communications — printed p. 81 |
 | Mozambique part — Lição 30: rail history, river navigation works (dams), world air routes and great airports | Mozambique, *Mozambique Grade 7 PESD I Mod 2*, Lição 30: rail history, river navigation works (dams), world air routes and great airports — printed p. 140 |
+| Laos part — Part I Lesson 10: Transport and communications in the world | Laos, *Laos Grade 11 laos-g11-geography-teacher*, Part I Lesson 10: Transport and communications in the world — printed p. 53 (teacher-guide evidence) |
+| Laos part — Part I Lesson 10: Transport and communications in the world | Laos, *Laos Grade 11 laos-g11-geography-student*, Part I Lesson 10: Transport and communications in the world — printed p. 72 |
 
-**Acceptance count: taught in 14 countries (Ethiopia, Guatemala, Bahamas, Malaysia, India, Slovenia, Uganda, Venezuela, Kuwait, Iran, Yemen, Libya, Moldova, Mozambique). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 15 countries (Ethiopia, Guatemala, Bahamas, Malaysia, India, Slovenia, Uganda, Venezuela, Kuwait, Iran, Yemen, Libya, Moldova, Mozambique, Laos). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
 
 The airline destination figures (62+ African, 127+ international) are taught as printed in the student book (Unit 5, printed pp. 140–143), in the book’s own "as printed" framing.
 
@@ -102,3 +108,7 @@ Libya's own way (Libya Grade 11 LY G11 Arab World): The Grade 8 Arab World surve
 Moldova's own way (Moldova Grade 11 G11 Geography): a human geography of the world year — political map and state typology, natural resources by sphere, population and settlements, then the world economy branch by branch (agriculture, each industry, services, transport, tourism), closing with economic-geographic characterisations of 14 states on every continent (Egypt among them) written to one template, plus case studies including labour migration at local/regional/global scale and using Google Maps/Google Earth as geo-information portals.
 
 Mozambique's own way (Mozambique Grade 7 PESD I Mod 2): human/economic geography organised sector by sector — population first, then each economic activity taught world-then-Mozambique (agriculture, livestock, fishing, forestry, industry, commerce, tourism, transport), with Mozambique's own distribution tables, ports and exports as the local evidence.
+
+Laos's own way (Laos Grade 11 laos-g11-geography-teacher): a world-population and world-countries year — Part I works through world population growth, changing characteristics, distribution, migration, the developed/developing contrast and urban growth; Part II then studies nine countries one by one (USA, Russia, France, Germany, UK, China, India, Japan, South Africa) plus development in Africa, with map plates (the book ends on a South Africa agriculture map, printed p. 140).
+
+Laos's own way (Laos Grade 11 laos-g11-geography-student): the student twin of Book 5 — same 2 parts / 21 lessons (world population, then nine country studies plus development in Africa) with full illustrated text.

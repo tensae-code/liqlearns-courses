@@ -1,6 +1,6 @@
 # Sources — The Atmosphere — Its Gases and Layers
 
-countries: Ethiopia, Myanmar, Turkey, Angola, Dominican Republic, Samoa, Colombia, India, Cambodia, Fiji, Sri Lanka, Mauritania, Yemen, Moldova, Mozambique, Jordan
+countries: Ethiopia, Myanmar, Turkey, Angola, Dominican Republic, Samoa, Colombia, India, Cambodia, Fiji, Sri Lanka, Mauritania, Yemen, Moldova, Mozambique, Jordan, Laos
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -52,6 +52,10 @@ countries: Ethiopia, Myanmar, Turkey, Angola, Dominican Republic, Samoa, Colombi
 
 **Book 25:** *الجغرافيا — الصف الثاني عشر / المسار الأكاديمي — الفصل الدراسي الثاني (Geography, Grade 12 Academic Track, Term 2)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-950-2. Title as printed: الجغرافيا — الصف الثاني عشر / المسار الأكاديمي — الفصل الدراسي الثاني (Geography, Grade 12 Academic Track, Term 2). Grade: 12 (student/teacher: STUDENT). PDF pages: 136 (cover verified; byte size 118,626,340 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
 
+**Book 26:** *ຄູ່ມືຄູ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 1 (Teacher Guide, Geography, Secondary Year 1)* (teacher guide, Lao) — Ministry of Education and Sports, Educational Science Research Institute; year 2012; ISBN no ISBN printed. Title as printed: ຄູ່ມືຄູ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 1 (Teacher Guide, Geography, Secondary Year 1). Grade: Grade 6 (ມ.1) (student/teacher: TEACHER). PDF pages: 104 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/laos-placements.md.
+
+**Book 27:** *ແບບຮຽນ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 1 (Textbook, Geography, Secondary Year 1)* (student book, Lao) — Ministry of Education, Educational Science Research Institute; year 2010; ISBN no ISBN printed. Title as printed: ແບບຮຽນ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 1 (Textbook, Geography, Secondary Year 1). Grade: Grade 6 (ມ.1) (student/teacher: STUDENT). PDF pages: 102 (title page verified against the record title; byte size 47,303,229 exact match to the books.json record, read via the release asset — the tree copy is not in the repo). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/laos-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The air blanket's recipe | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed p. 22 |
@@ -80,8 +84,10 @@ countries: Ethiopia, Myanmar, Turkey, Angola, Dominican Republic, Samoa, Colombi
 | Jordan part — Unit 5 practicals: the air in the atmosphere, the mass of air, solar radiation, modelling the atmosphere | Jordan, *Jordan G9 ES T2 Activity Book*, Unit 5 practicals: the air in the atmosphere, the mass of air, solar radiation, modelling the atmosphere — printed p. 26 |
 | Jordan part — Unit 1 Lesson 1: The Atmosphere (الغلاف الجوي) | Jordan, *Jordan G10 Geography T1*, Unit 1 Lesson 1: The Atmosphere (الغلاف الجوي) — printed p. 8 |
 | Jordan part — Unit 4 Lesson 1: The Atmosphere (الغلاف الجوي) | Jordan, *Jordan G12 Geography T2*, Unit 4 Lesson 1: The Atmosphere (الغلاف الجوي) — printed p. 8 |
+| Laos part — Part III Lesson 5: Layers of the atmosphere | Laos, *Laos Grade 6 laos-g06-geography-teacher*, Part III Lesson 5: Layers of the atmosphere — printed p. 13 (teacher-guide evidence) |
+| Laos part — Part III Lesson 5: Layers of the atmosphere | Laos, *Laos Grade 6 laos-g06-geography-student*, Part III Lesson 5: Layers of the atmosphere — printed p. 23 |
 
-**Acceptance count: taught in 15 countries (Ethiopia, Turkey, Angola, Dominican Republic, Samoa, Colombia, India, Cambodia, Fiji, Sri Lanka, Mauritania, Yemen, Moldova, Mozambique, Jordan). Myanmar is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 16 countries (Ethiopia, Turkey, Angola, Dominican Republic, Samoa, Colombia, India, Cambodia, Fiji, Sri Lanka, Mauritania, Yemen, Moldova, Mozambique, Jordan, Laos). Myanmar is named here as teacher-guide evidence only, counted nowhere.**
 
 Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
@@ -134,3 +140,7 @@ Jordan's own way (Jordan G9 ES T2 Activity Book): the activity book makes pupils
 Jordan's own way (Jordan G10 Geography T1): Grade 10 Geography opens with physical geography (atmosphere, biosphere, biodiversity), then tourism and transport as Jordanian economic geography, then geographic technologies.
 
 Jordan's own way (Jordan G12 Geography T2): the final Geography term is climate (atmosphere, elements, classifications, change), environment (components, problems, protection, Jordanian ecotourism), and economic geography (production, agriculture, industry, services, development).
+
+Laos's own way (Laos Grade 6 laos-g06-geography-teacher): a world-foundations year taught zone by zone — after Earth, maps, movements, atmosphere and waters, the last five lessons walk through how people live in each climate zone (hot, desert, savanna, temperate, cold); closes with a teaching-techniques section (printed p. 66) and a Q&A additional-knowledge appendix (printed p. 75), not placed separately.
+
+Laos's own way (Laos Grade 6 laos-g06-geography-student): the student twin of Book 2 — same 9 parts / 16 lessons with full illustrated text, a reading passage (printed p. 90) and a glossary of terms (printed p. 95), not placed separately.

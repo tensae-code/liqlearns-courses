@@ -1,6 +1,6 @@
 # Sources — Water Bodies — Rivers
 
-countries: Ethiopia, Iceland, Belarus, Guatemala, Eritrea, Slovenia, Papua New Guinea, Uganda, Venezuela, Mauritania, Afghanistan, Libya, Moldova, Mozambique, Jordan
+countries: Ethiopia, Iceland, Belarus, Guatemala, Eritrea, Slovenia, Papua New Guinea, Uganda, Venezuela, Mauritania, Afghanistan, Libya, Moldova, Mozambique, Jordan, Laos
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -44,6 +44,10 @@ countries: Ethiopia, Iceland, Belarus, Guatemala, Eritrea, Slovenia, Papua New G
 
 **Book 21:** *علوم الأرض والبيئة — الصف التاسع — كتاب الطالب — الفصل الدراسي الأول (Earth Science and Environment, Grade 9, Term 1)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; year 2023 (reprint; originally prepared in English by HarperCollins Publishers 2022, translated/adapted by NCCD); ISBN 978-9923-41-484-2. Title as printed: علوم الأرض والبيئة — الصف التاسع — كتاب الطالب — الفصل الدراسي الأول (Earth Science and Environment, Grade 9, Term 1). Grade: 9 (student/teacher: STUDENT). PDF pages: 68 (cover verified; byte size 19,348,259 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
 
+**Book 22:** *ຄູ່ມືຄູ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 1 (Teacher Guide, Geography, Secondary Year 1)* (teacher guide, Lao) — Ministry of Education and Sports, Educational Science Research Institute; year 2012; ISBN no ISBN printed. Title as printed: ຄູ່ມືຄູ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 1 (Teacher Guide, Geography, Secondary Year 1). Grade: Grade 6 (ມ.1) (student/teacher: TEACHER). PDF pages: 104 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/laos-placements.md.
+
+**Book 23:** *ແບບຮຽນ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 1 (Textbook, Geography, Secondary Year 1)* (student book, Lao) — Ministry of Education, Educational Science Research Institute; year 2010; ISBN no ISBN printed. Title as printed: ແບບຮຽນ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 1 (Textbook, Geography, Secondary Year 1). Grade: Grade 6 (ມ.1) (student/teacher: STUDENT). PDF pages: 102 (title page verified against the record title; byte size 47,303,229 exact match to the books.json record, read via the release asset — the tree copy is not in the repo). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/laos-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Flowing water in a channel | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 8–9 |
@@ -72,8 +76,10 @@ countries: Ethiopia, Iceland, Belarus, Guatemala, Eritrea, Slovenia, Papua New G
 | Moldova part — §20 Continental waters (rivers and lakes) | Moldova, *Moldova Grade 5 G5 Geography*, §20 Continental waters (rivers and lakes) — printed p. 79 |
 | Mozambique part — Lição 17: Os Rios (elements of a river: source, course, mouth, delta — Zambezi example; world's great rivers table) | Mozambique, *Mozambique Grade 7 PESD I Mod 1*, Lição 17: Os Rios (elements of a river: source, course, mouth, delta — Zambezi example; world's great rivers table) — printed p. 93 |
 | Jordan part — Unit 2 Lesson 1: Surface Water (المياه السطحية) | Jordan, *Jordan G9 ES T1*, Unit 2 Lesson 1: Surface Water (المياه السطحية) — printed p. 42 |
+| Laos part — Part IV Lesson 8: Rivers | Laos, *Laos Grade 6 laos-g06-geography-teacher*, Part IV Lesson 8: Rivers — printed p. 25 (teacher-guide evidence) |
+| Laos part — Part IV Lesson 8: Rivers | Laos, *Laos Grade 6 laos-g06-geography-student*, Part IV Lesson 8: Rivers — printed p. 39 |
 
-**Acceptance count: taught in 14 countries (Ethiopia, Iceland, Belarus, Guatemala, Eritrea, Slovenia, Uganda, Venezuela, Mauritania, Afghanistan, Libya, Moldova, Mozambique, Jordan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 15 countries (Ethiopia, Iceland, Belarus, Guatemala, Eritrea, Slovenia, Uganda, Venezuela, Mauritania, Afghanistan, Libya, Moldova, Mozambique, Jordan, Laos). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Iceland's own way: a one-page map-labelling work card (vinnukort): pupils work directly on the outline map of their own country, its main rivers and lakes already drawn in for identification, with a 0–50 km scale bar.
 
@@ -116,3 +122,7 @@ Moldova's own way (Moldova Grade 5 G5 Geography): first Geography year built as 
 Mozambique's own way (Mozambique Grade 7 PESD I Mod 1): distance-learning self-study module — every lesson follows the same rhythm (introduction, development with worked examples, exercises, answer key, lesson summary); the four Earth spheres are the organising spine of the whole module, each sphere closed by a "use, protection and conservation" lesson; local anchors throughout (Maputo temperature worked example, Zambezi delta, Moma/Namialo weather contrast).
 
 Jordan's own way (Jordan G9 ES T1): Earth Science at Grade 9 is minerals and water, anchored in Jordan — the enrichment case is potash drilling in the Dead Sea.
+
+Laos's own way (Laos Grade 6 laos-g06-geography-teacher): a world-foundations year taught zone by zone — after Earth, maps, movements, atmosphere and waters, the last five lessons walk through how people live in each climate zone (hot, desert, savanna, temperate, cold); closes with a teaching-techniques section (printed p. 66) and a Q&A additional-knowledge appendix (printed p. 75), not placed separately.
+
+Laos's own way (Laos Grade 6 laos-g06-geography-student): the student twin of Book 2 — same 9 parts / 16 lessons with full illustrated text, a reading passage (printed p. 90) and a glossary of terms (printed p. 95), not placed separately.

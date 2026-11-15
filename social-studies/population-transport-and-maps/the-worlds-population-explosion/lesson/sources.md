@@ -1,6 +1,6 @@
 # Sources — The world's population explosion
 
-countries: Ethiopia, Palestine, Cambodia, Slovenia, Syria, Mauritania, Honduras, Jordan
+countries: Ethiopia, Palestine, Cambodia, Slovenia, Syria, Mauritania, Honduras, Jordan, Laos
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). Editors: Sintayehu Teka (MSc) (Content Editor), Kassie Molla (MA) (Language Editor), Hirut Woldemichael (MA) (Curriculum Editor). Illustrator: Agenchw Nega (MSc). Designer: Geda Hoka (MA). Evaluators: Dereje Guteta (PhD), Tesfaye Shiferaw (PhD), Abebe Yibeltie (MA), Hussein Seid (MA). First published 2023 under GEQIP-E. ISBN 978-99990-0-049-9. Printed by Gravity Group IND LLC, 13th Industrial Area, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. Printed page = PDF page − 6 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md
 
@@ -28,6 +28,10 @@ countries: Ethiopia, Palestine, Cambodia, Slovenia, Syria, Mauritania, Honduras,
 
 **Book 13:** *علوم الأرض والبيئة — الصف الحادي عشر — كتاب الطالب — الفصل الدراسي الأول (Earth Science and Environment, Grade 11, Term 1)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-833-8. Title as printed: علوم الأرض والبيئة — الصف الحادي عشر — كتاب الطالب — الفصل الدراسي الأول (Earth Science and Environment, Grade 11, Term 1). Grade: 11 (student/teacher: STUDENT). PDF pages: 74 (cover verified; byte size 32,944,352 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Workbook records carried as filed: the TSV record 'Earth Science — Grade 11 Term 1 (Workbook Book)' and the books.json record grade-11/gov/jordan/earth-science/student/term-1-workbook.pdf (source minhaji file 1953) both carry this student book's exact file — 32,944,352 bytes, MD5 9001a167ec907782917b2db2ff093bfa, identical to this book — so the 'workbook' is the student book itself, taught once here with both records cited as the placements file records them (Book 24 there); the real Grade 11 Term 1 activities/workbook has never been secured (library debt named in the placements file). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
 
+**Book 14:** *ຄູ່ມືຄູ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາປີທີ 6 (Teacher Guide, Geography, Secondary Year 6)* (teacher guide, Lao) — Ministry of Education and Sports, Educational Science Research Institute; year 2015 (printed by Phu Thinh Printing and Trading Service Co., Vietnam; print run 4,605); ISBN no ISBN printed. Title as printed: ຄູ່ມືຄູ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາປີທີ 6 (Teacher Guide, Geography, Secondary Year 6). Grade: Grade 11 (ມ.6) (student/teacher: TEACHER). PDF pages: 145 (cover verified against the record title — full cover spread with world map). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/laos-placements.md.
+
+**Book 15:** *ແບບຮຽນ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາປີທີ 6 (Textbook, Geography, Secondary Year 6)* (student book, Lao) — Ministry of Education and Sports, Educational Science Research Institute; year 2015 (printed by Phu Thinh Printing and Trading Service Co., Vietnam; print run 25,098); ISBN no ISBN printed. Title as printed: ແບບຮຽນ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາປີທີ 6 (Textbook, Geography, Secondary Year 6). Grade: Grade 11 (ມ.6) (student/teacher: STUDENT). PDF pages: 209 (cover verified against the record title — full cover spread with world map; byte size 5,736,650 exact match to the books.json record, read via the release asset). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/laos-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — 1.6 billion to 6.1 billion | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 4, printed pp. 88–95 |
@@ -45,8 +49,10 @@ countries: Ethiopia, Palestine, Cambodia, Slovenia, Syria, Mauritania, Honduras,
 | Honduras part — Lección 34 (Bloque 4): La población del mundo — world population (teacher guide — evidence) | Honduras, *Honduras Grade 9 Teacher Guide* (teacher guide), Lección 34 (Bloque 4): La población del mundo — world population — printed p. 139 |
 | Jordan part — Unit 4 Lesson 1: General Characteristics of Population (الخصائص العامة للسكان) — world population growth 1804–2024 | Jordan, *Jordan G8 SS T1*, Unit 4 Lesson 1: General Characteristics of Population (الخصائص العامة للسكان) — world population growth 1804–2024 — printed p. 92 |
 | Jordan part — Unit 2 Lesson 1: The Population Explosion (الانفجار السكاني) | Jordan, *Jordan G11 ES T1*, Unit 2 Lesson 1: The Population Explosion (الانفجار السكاني) — printed p. 44 |
+| Laos part — Part I Lesson 5: The increase of world population | Laos, *Laos Grade 11 laos-g11-geography-teacher*, Part I Lesson 5: The increase of world population — printed p. 27 (teacher-guide evidence) |
+| Laos part — Part I Lesson 5: The increase of world population | Laos, *Laos Grade 11 laos-g11-geography-student*, Part I Lesson 5: The increase of world population — printed p. 38 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Palestine, Cambodia, Slovenia, Syria, Mauritania, Honduras, Jordan).**
+**Acceptance count: taught in 9 countries (Ethiopia, Palestine, Cambodia, Slovenia, Syria, Mauritania, Honduras, Jordan, Laos).**
 
 No book error is flagged for this lesson's pages in the placements. The Grade 11 book's telling of the same explosion — why deaths fell first — stands as its own lesson; this is the Grade 10 acceleration account and does not repeat it.
 
@@ -73,3 +79,7 @@ Honduras's own way (Honduras Grade 9 Teacher Guide) (teacher guide — evidence)
 Jordan's own way (Jordan G8 SS T1): Grade 8 Term 1 pairs an environment unit (climate elements, the world's natural environments, hazards and disaster management) with population and development, framed by human rights and Mesopotamian history.
 
 Jordan's own way (Jordan G11 ES T1): Grade 11 Earth Science turns to weather systems and climate change, then to people — population explosion and the draining of natural resources.
+
+Laos's own way (Laos Grade 11 laos-g11-geography-teacher): a world-population and world-countries year — Part I works through world population growth, changing characteristics, distribution, migration, the developed/developing contrast and urban growth; Part II then studies nine countries one by one (USA, Russia, France, Germany, UK, China, India, Japan, South Africa) plus development in Africa, with map plates (the book ends on a South Africa agriculture map, printed p. 140).
+
+Laos's own way (Laos Grade 11 laos-g11-geography-student): the student twin of Book 5 — same 2 parts / 21 lessons (world population, then nine country studies plus development in Africa) with full illustrated text.

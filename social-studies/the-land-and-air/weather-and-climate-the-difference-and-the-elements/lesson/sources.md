@@ -1,6 +1,6 @@
 # Sources — Weather and Climate — The Difference and the Elements
 
-countries: Ethiopia, Barbados, Turkey, Guatemala, Jamaica, Colombia, Malaysia, Eritrea, India, Cambodia, Rwanda, Fiji, Slovenia, Papua New Guinea, Uganda, Syria, Venezuela, Sri Lanka, Mauritania, Afghanistan, Iran, Yemen, Pakistan, Libya, Moldova, Nepal, Mozambique, Jordan
+countries: Ethiopia, Barbados, Turkey, Guatemala, Jamaica, Colombia, Malaysia, Eritrea, India, Cambodia, Rwanda, Fiji, Slovenia, Papua New Guinea, Uganda, Syria, Venezuela, Sri Lanka, Mauritania, Afghanistan, Iran, Yemen, Pakistan, Libya, Moldova, Nepal, Mozambique, Jordan, Laos
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -84,6 +84,10 @@ countries: Ethiopia, Barbados, Turkey, Guatemala, Jamaica, Colombia, Malaysia, E
 
 **Book 41:** *الدراسات الاجتماعية — الصف الأول — الفصل الدراسي الثاني (Social Studies, Grade 1, Term 2)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; year 2023 (MoE decision 2023/279); ISBN 978-9923-41-537-5. Title as printed: الدراسات الاجتماعية — الصف الأول — الفصل الدراسي الثاني (Social Studies, Grade 1, Term 2). Grade: 1 (student/teacher: STUDENT). PDF pages: 88 (cover verified; byte size 46,262,625 matches the books.json twin record exactly — TSV + books.json records are the same book; a parallel NCCD-hosted edition is recorded separately as term-2-nccd.pdf, spot-check pending). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
 
+**Book 42:** *ຄູ່ມືຄູ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 1 (Teacher Guide, Geography, Secondary Year 1)* (teacher guide, Lao) — Ministry of Education and Sports, Educational Science Research Institute; year 2012; ISBN no ISBN printed. Title as printed: ຄູ່ມືຄູ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 1 (Teacher Guide, Geography, Secondary Year 1). Grade: Grade 6 (ມ.1) (student/teacher: TEACHER). PDF pages: 104 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/laos-placements.md.
+
+**Book 43:** *ແບບຮຽນ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 1 (Textbook, Geography, Secondary Year 1)* (student book, Lao) — Ministry of Education, Educational Science Research Institute; year 2010; ISBN no ISBN printed. Title as printed: ແບບຮຽນ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 1 (Textbook, Geography, Secondary Year 1). Grade: Grade 6 (ມ.1) (student/teacher: STUDENT). PDF pages: 102 (title page verified against the record title; byte size 47,303,229 exact match to the books.json record, read via the release asset — the tree copy is not in the repo). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/laos-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Short and small against long and wide | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 24–25 |
@@ -128,8 +132,10 @@ countries: Ethiopia, Barbados, Turkey, Guatemala, Jamaica, Colombia, Malaysia, E
 | Mozambique part — Lição 10: Tempo e Clima | Mozambique, *Mozambique Grade 7 PESD I Mod 1*, Lição 10: Tempo e Clima — printed p. 53 |
 | Mozambique part — Lição 12: Tempo e Clima (types of weather; Mozambique's hot-wet and cold-dry weather types) | Mozambique, *Mozambique Grade 10 PESD II Mod 2*, Lição 12: Tempo e Clima (types of weather; Mozambique's hot-wet and cold-dry weather types) — printed p. 79 |
 | Jordan part — Unit 6 Lesson 4: The Weather Around Us (الطقس من حولنا) — hot, cold, clear, rainy, cloudy | Jordan, *Jordan G1 SS T2*, Unit 6 Lesson 4: The Weather Around Us (الطقس من حولنا) — hot, cold, clear, rainy, cloudy — printed p. 80 |
+| Laos part — Part III Lesson 6: Weather and climate | Laos, *Laos Grade 6 laos-g06-geography-teacher*, Part III Lesson 6: Weather and climate — printed p. 16 (teacher-guide evidence) |
+| Laos part — Part III Lesson 6: Weather and climate | Laos, *Laos Grade 6 laos-g06-geography-student*, Part III Lesson 6: Weather and climate — printed p. 28 |
 
-**Acceptance count: taught in 25 countries (Ethiopia, Barbados, Turkey, Guatemala, Colombia, Malaysia, Eritrea, India, Cambodia, Rwanda, Fiji, Slovenia, Uganda, Syria, Venezuela, Sri Lanka, Mauritania, Afghanistan, Iran, Yemen, Pakistan, Libya, Moldova, Mozambique, Jordan). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere. Nepal is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 26 countries (Ethiopia, Barbados, Turkey, Guatemala, Colombia, Malaysia, Eritrea, India, Cambodia, Rwanda, Fiji, Slovenia, Uganda, Syria, Venezuela, Sri Lanka, Mauritania, Afghanistan, Iran, Yemen, Pakistan, Libya, Moldova, Mozambique, Jordan, Laos). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere. Nepal is named here as teacher-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grade 4 Exploratory Core, curriculum guide — evidence): Social Studies is one of four subjects fused into a single Exploratory Core guide, organised by four attainment themes; Geography enters through Jamaica itself — Taino settlement maps, cardinal points, Jamaica's physical features, parishes, weather and the Earth in the Solar System — always with hands-on map and model work. That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
@@ -212,3 +218,7 @@ Mozambique's own way (Mozambique Grade 7 PESD I Mod 1): distance-learning self-s
 Mozambique's own way (Mozambique Grade 10 PESD II Mod 2): a full physical-climatology course — atmosphere structure to magnetosphere, heat balance, pressure/wind circulation, air masses and fronts, humidity and precipitation, the water cycle, then Köppen/Thornthwaite classification worked through climate tables with African station graphs (Arkassa, Tamanrasset, Algiers), closing on protection of bioclimatic resources.
 
 Jordan's own way (Jordan G1 SS T2): Term 2 turns outward to place and planet — the four directions taught from the sunrise, transport old and new, Jordan's own goods, then the Earth as land/water/air, its surface shapes, local environment care and the day's weather.
+
+Laos's own way (Laos Grade 6 laos-g06-geography-teacher): a world-foundations year taught zone by zone — after Earth, maps, movements, atmosphere and waters, the last five lessons walk through how people live in each climate zone (hot, desert, savanna, temperate, cold); closes with a teaching-techniques section (printed p. 66) and a Q&A additional-knowledge appendix (printed p. 75), not placed separately.
+
+Laos's own way (Laos Grade 6 laos-g06-geography-student): the student twin of Book 2 — same 9 parts / 16 lessons with full illustrated text, a reading passage (printed p. 90) and a glossary of terms (printed p. 95), not placed separately.

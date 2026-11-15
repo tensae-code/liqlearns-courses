@@ -1,6 +1,6 @@
 # Sources — Weather and Climate — The Controllers
 
-countries: Ethiopia, Jamaica, Dominican Republic, Papua New Guinea, Sudan, Venezuela, Mauritania, Afghanistan, Pakistan, Nepal, Mozambique
+countries: Ethiopia, Jamaica, Dominican Republic, Papua New Guinea, Sudan, Venezuela, Mauritania, Afghanistan, Pakistan, Nepal, Mozambique, Laos
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -38,6 +38,10 @@ countries: Ethiopia, Jamaica, Dominican Republic, Papua New Guinea, Sudan, Venez
 
 **Book 18:** *Módulo 1 de Geografia (GEOGRAFIA — MÓDULO 1, PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo)* (student book, Portuguese) — Ministério da Educação e Desenvolvimento Humano (MINEDH) / Instituto de Educação Aberta e à Distância (IEDA); year 2023; no ISBN printed. Title as printed: Módulo 1 de Geografia (GEOGRAFIA — MÓDULO 1, PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo). Grade: Grades 7–9 cycle, filed as Grade 7 (student/teacher: STUDENT). PDF pages: 143 (cover/title page verified against the record title; byte size 10,033,146 matches the books.json record exactly; read via the record's IEDA source URL after grab.py failed twice on both routes with RemoteDisconnected — GitHub API unreachable from this host). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
 
+**Book 19:** *ຄູ່ມືຄູ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາປີທີ 5 (Teacher Guide, Geography, Secondary Year 5)* (teacher guide, Lao) — Ministry of Education and Sports, Educational Science Research Institute; year 2014 (printed by Eastern Printing Public Co. Ltd., Thailand; print run 4,915); ISBN no ISBN printed. Title as printed: ຄູ່ມືຄູ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາປີທີ 5 (Teacher Guide, Geography, Secondary Year 5). Grade: Grade 10 (ມ.5) (student/teacher: TEACHER). PDF pages: 149 (cover verified against the record title — full cover spread with world climate map). Verdict: COMPLETE — read from the TSV release asset (mid-size-books-5, asset size 6,784,980 = the books.json size); the books.json TREE copy at grade-10/gov/laos/geography/teacher/laos-g10-geography-teacher.pdf returns 404 in the repo despite in_pushed: true, and its recorded source_url names an upstream file m5_english.pdf — the book itself is the correct Geography guide (see log, library debts). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/laos-placements.md.
+
+**Book 20:** *ແບບຮຽນ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາປີທີ 5 (Textbook, Geography, Secondary Year 5)* (student book, Lao) — Ministry of Education and Sports, Educational Science Research Institute; year 2014 (printed by Eastern Printing Public Co. Ltd., Thailand; print run 27,685); ISBN no ISBN printed. Title as printed: ແບບຮຽນ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາປີທີ 5 (Textbook, Geography, Secondary Year 5). Grade: Grade 10 (ມ.5) (student/teacher: STUDENT). PDF pages: 205 (cover verified against the record title — full cover spread with world climate map; byte size 25,276,102 exact match to the books.json record, read via the release asset). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/laos-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Controllers against elements | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 25–26 |
@@ -56,6 +60,8 @@ countries: Ethiopia, Jamaica, Dominican Republic, Papua New Guinea, Sudan, Venez
 | Nepal part — Unit 6 Lesson 1: Factors affecting climate | Nepal, *Nepal Grade 10 np-g10*, Unit 6 Lesson 1: Factors affecting climate — printed p. 127 |
 | Nepal part — Earth Unit Lesson 1: Factors affecting climate (teacher guide — evidence) | Nepal, *Nepal Grade 10 TG np-g10tg* (teacher guide), Earth Unit Lesson 1: Factors affecting climate — TG p. 128 (unit start) |
 | Mozambique part — Lição 11: Factores de clima (latitude and temperature distribution maps) | Mozambique, *Mozambique Grade 7 PESD I Mod 1*, Lição 11: Factores de clima (latitude and temperature distribution maps) — printed p. 61 |
+| Laos part — Part I Lesson 5: Atmosphere and climate | Laos, *Laos Grade 10 laos-g10-geography-teacher*, Part I Lesson 5: Atmosphere and climate — printed p. 56 (teacher-guide evidence) |
+| Laos part — Part I Lesson 5: Atmosphere and climate | Laos, *Laos Grade 10 laos-g10-geography-student*, Part I Lesson 5: Atmosphere and climate — printed p. 43 |
 
 | Sub lesson 4 — Latitude and the Earth–Sun geometry (Grade 11 depth) (Grade 11 depth) | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 2, printed pp. 45–46 |
 | Sub lesson 5 — Water, winds and pressure (Grade 11 depth) (Grade 11 depth) | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 2, printed pp. 47–50 |
@@ -63,7 +69,7 @@ countries: Ethiopia, Jamaica, Dominican Republic, Papua New Guinea, Sudan, Venez
 | Teaching sequence and answer keys for the Grade 11 depth (teacher guide — evidence) | Ethiopia, *Geography, Teacher Guide, Grade 11*, guide printed pp. 40–63 |
 | Dominican Republic part (Grade 5) — Climate, its elements and factors (Unidad 2: Variación climática de los continentes) | Dominican Republic, *Ciencias Sociales, Quinto Grado, Primaria (Libro Abierto)*, Grade 5, Climate, its elements and factors (Unidad 2: Variación climática de los continentes) — printed p. 26 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Dominican Republic, Sudan, Venezuela, Mauritania, Afghanistan, Pakistan, Nepal, Mozambique). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 10 countries (Ethiopia, Dominican Republic, Sudan, Venezuela, Mauritania, Afghanistan, Pakistan, Nepal, Mozambique, Laos). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grade 6 Exploratory Core, curriculum guide — evidence): the Grade 6 Social Studies year is built as three paired terms — culture and independence first, then the physical world (mountains, landmasses and water bodies), then climate, Earth movements and the atmosphere, closing on Caribbean cooperation. That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
@@ -98,3 +104,7 @@ Nepal's own way (Nepal Grade 10 np-g10): Grade 10 climate is taught by world cli
 Nepal's own way (Nepal Grade 10 TG np-g10tg) (teacher guide — evidence): The guide teaches the Grade 10 course of np-g10 lesson for lesson, adding map- and chart-based activities (world climate maps, heat-zone maps, continent maps comparing life and economic activity with Nepal) and earthquake-preparedness practice; placements mirror the student book with guide page references. That evidence is stocked here as the way Nepal teaches this thing; it is cited as evidence only — Nepal is counted in this lesson through its student book(s).
 
 Mozambique's own way (Mozambique Grade 7 PESD I Mod 1): distance-learning self-study module — every lesson follows the same rhythm (introduction, development with worked examples, exercises, answer key, lesson summary); the four Earth spheres are the organising spine of the whole module, each sphere closed by a "use, protection and conservation" lesson; local anchors throughout (Maputo temperature worked example, Zambezi delta, Moma/Namialo weather contrast).
+
+Laos's own way (Laos Grade 10 laos-g10-geography-teacher): a second world-geography pass at a higher level — Earth and map projection first, then life in the climate zones (hot, temperate, cold, mountain/coastal), population characteristics and problems, humans and environment, and a distinctive closing block on how geographic space is organised (agricultural areas, industrial areas, tourism areas, rural and urban geography).
+
+Laos's own way (Laos Grade 10 laos-g10-geography-student): the student twin of Book 6 — same 6 parts / 20 lessons with full illustrated text, opening with a concept map of the whole year (Earth, life zones, population and quality of life, humans and environment, organisation of geographic space, rural and urban geography).

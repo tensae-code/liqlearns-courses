@@ -1,6 +1,6 @@
 # Sources — Landforms, Continents and Oceans
 
-countries: Ethiopia, Saudi Arabia, France, Guatemala, Ecuador, Malaysia, Eritrea, Rwanda, Papua New Guinea, Afghanistan, Yemen, Pakistan, Moldova, Honduras, Nepal, Jordan
+countries: Ethiopia, Saudi Arabia, France, Guatemala, Ecuador, Malaysia, Eritrea, Rwanda, Papua New Guinea, Afghanistan, Yemen, Pakistan, Moldova, Honduras, Nepal, Jordan, Laos
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page - 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md.
 
@@ -56,6 +56,14 @@ countries: Ethiopia, Saudi Arabia, France, Guatemala, Ecuador, Malaysia, Eritrea
 
 **Book 27:** *الدراسات الاجتماعية — الصف الثالث — الفصل الدراسي الثاني (Social Studies, Grade 3, Term 2)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-868-0 (this PDF is the NCCD preparation reprint, نسخة للإعداد). Title as printed: الدراسات الاجتماعية — الصف الثالث — الفصل الدراسي الثاني (Social Studies, Grade 3, Term 2). Grade: 3 (student/teacher: STUDENT). PDF pages: 96 (cover verified; byte size 28,433,232 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
 
+**Book 28:** *ຄູ່ມືຄູ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 2 (Teacher Guide, Geography, Secondary Year 2)* (teacher guide, Lao) — Ministry of Education and Sports, Educational Science Research Institute; year 2012; ISBN no ISBN printed. Title as printed: ຄູ່ມືຄູ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 2 (Teacher Guide, Geography, Secondary Year 2). Grade: Grade 7 (ມ.2) (student/teacher: TEACHER). PDF pages: 104 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/laos-placements.md.
+
+**Book 29:** *ຄູ່ມືຄູ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາປີທີ 5 (Teacher Guide, Geography, Secondary Year 5)* (teacher guide, Lao) — Ministry of Education and Sports, Educational Science Research Institute; year 2014 (printed by Eastern Printing Public Co. Ltd., Thailand; print run 4,915); ISBN no ISBN printed. Title as printed: ຄູ່ມືຄູ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາປີທີ 5 (Teacher Guide, Geography, Secondary Year 5). Grade: Grade 10 (ມ.5) (student/teacher: TEACHER). PDF pages: 149 (cover verified against the record title — full cover spread with world climate map). Verdict: COMPLETE — read from the TSV release asset (mid-size-books-5, asset size 6,784,980 = the books.json size); the books.json TREE copy at grade-10/gov/laos/geography/teacher/laos-g10-geography-teacher.pdf returns 404 in the repo despite in_pushed: true, and its recorded source_url names an upstream file m5_english.pdf — the book itself is the correct Geography guide (see log, library debts). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/laos-placements.md.
+
+**Book 30:** *ແບບຮຽນ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 2 (Textbook, Geography, Secondary Year 2)* (student book, Lao) — Ministry of Education, Educational Science Research Institute; year 2011; ISBN no ISBN printed. Title as printed: ແບບຮຽນ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 2 (Textbook, Geography, Secondary Year 2). Grade: Grade 7 (ມ.2) (student/teacher: STUDENT). PDF pages: 103 (title page verified against the record title; byte size 29,605,428 exact match to the books.json record, read via the release asset). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/laos-placements.md.
+
+**Book 31:** *ແບບຮຽນ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາປີທີ 5 (Textbook, Geography, Secondary Year 5)* (student book, Lao) — Ministry of Education and Sports, Educational Science Research Institute; year 2014 (printed by Eastern Printing Public Co. Ltd., Thailand; print run 27,685); ISBN no ISBN printed. Title as printed: ແບບຮຽນ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາປີທີ 5 (Textbook, Geography, Secondary Year 5). Grade: Grade 10 (ມ.5) (student/teacher: STUDENT). PDF pages: 205 (cover verified against the record title — full cover spread with world climate map; byte size 25,276,102 exact match to the books.json record, read via the release asset). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/laos-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Landforms: how the Earth's face is made | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 1, printed p. 26 |
@@ -84,12 +92,16 @@ countries: Ethiopia, Saudi Arabia, France, Guatemala, Ecuador, Malaysia, Eritrea
 | Jordan part — Unit 6 Lesson 2: Shapes of the Earth's Surface (أشكال سطح الأرض) — mountain, plain, sea, river, valley | Jordan, *Jordan G1 SS T2*, Unit 6 Lesson 2: Shapes of the Earth's Surface (أشكال سطح الأرض) — mountain, plain, sea, river, valley — printed p. 68 |
 | Jordan part — Unit 6 Lesson 2: Shapes of the Earth's Surface (أشكال سطح الأرض) | Jordan, *Jordan G2 SS T2*, Unit 6 Lesson 2: Shapes of the Earth's Surface (أشكال سطح الأرض) — printed p. 99 |
 | Jordan part — Unit 5 Lesson 1: The Earth's Surface and Its Natural Features (سطح الأرض ومعالمه الطبيعية) | Jordan, *Jordan G3 SS T2*, Unit 5 Lesson 1: The Earth's Surface and Its Natural Features (سطح الأرض ومعالمه الطبيعية) — printed p. 52 |
+| Laos part — Part I Lesson 1: Continents and oceans | Laos, *Laos Grade 7 laos-g07-geography-teacher*, Part I Lesson 1: Continents and oceans — printed p. 1 (teacher-guide evidence) |
+| Laos part — Part I Lesson 3: Continents, oceans and seas | Laos, *Laos Grade 10 laos-g10-geography-teacher*, Part I Lesson 3: Continents, oceans and seas — printed p. 23 (teacher-guide evidence) |
+| Laos part — Part I Lesson 1: Continents and oceans | Laos, *Laos Grade 7 laos-g07-geography-student*, Part I Lesson 1: Continents and oceans — printed p. 1 |
+| Laos part — Part I Lesson 3: Continents, oceans and seas | Laos, *Laos Grade 10 laos-g10-geography-student*, Part I Lesson 3: Continents, oceans and seas — printed p. 20 |
 
 | France part — Thème 1 Entrer dans le thème: Continents et océans, les repères spatiaux | France, *Géographie 2de GT, Manuel Libre de Géographie, Seconde*, Grade 10, Sommaire Thème 1 |
 | Ecuador part — El relieve (Unit 2, Las irregularidades de la Tierra) | Ecuador, *Estudios Sociales 3ro EGB (SM 2016)*, Grade 3, El relieve (Unit 2, Las irregularidades de la Tierra) — printed p. 34 |
 | Ecuador part — Formación de la Tierra; características de continentes, océanos y mares (inside the cartography tema, per its evaluation criterion) | Ecuador, *Estudios Sociales 8vo EGB*, Grade 8, Formación de la Tierra; características de continentes, océanos y mares (inside the cartography tema, per its evaluation criterion) — printed p. 99 |
 
-**Acceptance count: taught in 15 countries (Ethiopia, Saudi Arabia, France, Guatemala, Ecuador, Malaysia, Eritrea, Rwanda, Afghanistan, Yemen, Pakistan, Moldova, Honduras, Nepal, Jordan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 16 countries (Ethiopia, Saudi Arabia, France, Guatemala, Ecuador, Malaysia, Eritrea, Rwanda, Afghanistan, Yemen, Pakistan, Moldova, Honduras, Nepal, Jordan, Laos). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 No book errors are flagged by the placements for these pages. Areas are the book's printed table figures (Table 2).
 
@@ -144,3 +156,11 @@ Jordan's own way (Jordan G1 SS T2): Term 2 turns outward to place and planet —
 Jordan's own way (Jordan G2 SS T2): Term 2 teaches change over time (transport, housing, writing) and the child's economy (production, consumption, recycling, Jordanian-made goods), closing with the blue planet, Earth's surface shapes and a first map of Jordan.
 
 Jordan's own way (Jordan G3 SS T2): Grade 3 Term 2 contrasts past and present (trade, production, the smart consumer), then studies Earth's natural features in Jordan, environment care, Jordan's map and its antiquities.
+
+Laos's own way (Laos Grade 7 laos-g07-geography-teacher): a continents year — general physical geography first, then continent by continent (Africa, Europe, the Americas, Oceania), each treated the same way: natural conditions, population, economy, then country case studies (Egypt, South Africa, Russia, France, USA, Brazil, Australia); closes with an additional-knowledge appendix (printed p. 69), not placed separately.
+
+Laos's own way (Laos Grade 10 laos-g10-geography-teacher): a second world-geography pass at a higher level — Earth and map projection first, then life in the climate zones (hot, temperate, cold, mountain/coastal), population characteristics and problems, humans and environment, and a distinctive closing block on how geographic space is organised (agricultural areas, industrial areas, tourism areas, rural and urban geography).
+
+Laos's own way (Laos Grade 7 laos-g07-geography-student): the student twin of Book 3 — same 5 parts / 22 lessons (continents year) with full illustrated text and per-continent maps.
+
+Laos's own way (Laos Grade 10 laos-g10-geography-student): the student twin of Book 6 — same 6 parts / 20 lessons with full illustrated text, opening with a concept map of the whole year (Earth, life zones, population and quality of life, humans and environment, organisation of geographic space, rural and urban geography).

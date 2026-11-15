@@ -1,6 +1,6 @@
 # Sources — The Earth — Place, Shape and Size
 
-countries: Ethiopia, Saudi Arabia, Myanmar, Turkey, Haiti, Palestine, Angola, Dominican Republic, Bahamas, Colombia, Uganda, Venezuela, Sri Lanka, Mauritania, Kuwait, Afghanistan, Yemen, Libya, Moldova, Honduras, Nepal, Mozambique
+countries: Ethiopia, Saudi Arabia, Myanmar, Turkey, Haiti, Palestine, Angola, Dominican Republic, Bahamas, Colombia, Uganda, Venezuela, Sri Lanka, Mauritania, Kuwait, Afghanistan, Yemen, Libya, Moldova, Honduras, Nepal, Mozambique, Laos
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page - 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md.
 
@@ -64,6 +64,10 @@ countries: Ethiopia, Saudi Arabia, Myanmar, Turkey, Haiti, Palestine, Angola, Do
 
 **Book 31:** *Módulo 1 de Geografia — Introdução ao Pensamento Geográfico e Cosmografia* (student book, Portuguese) — Ministério da Educação / Instituto de Educação Aberta e à Distância (IEDA); year not printed (uploaded to IEDA site 2022); no ISBN printed. Title as printed: Módulo 1 de Geografia — Introdução ao Pensamento Geográfico e Cosmografia. Grade: Grades 10–12 cycle (2º Ciclo), filed as Grade 10 (student/teacher: STUDENT). PDF pages: 85 (title page verified against the record title; byte size 904,542 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
 
+**Book 32:** *ຄູ່ມືຄູ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 1 (Teacher Guide, Geography, Secondary Year 1)* (teacher guide, Lao) — Ministry of Education and Sports, Educational Science Research Institute; year 2012; ISBN no ISBN printed. Title as printed: ຄູ່ມືຄູ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 1 (Teacher Guide, Geography, Secondary Year 1). Grade: Grade 6 (ມ.1) (student/teacher: TEACHER). PDF pages: 104 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/laos-placements.md.
+
+**Book 33:** *ແບບຮຽນ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 1 (Textbook, Geography, Secondary Year 1)* (student book, Lao) — Ministry of Education, Educational Science Research Institute; year 2010; ISBN no ISBN printed. Title as printed: ແບບຮຽນ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 1 (Textbook, Geography, Secondary Year 1). Grade: Grade 6 (ມ.1) (student/teacher: STUDENT). PDF pages: 102 (title page verified against the record title; byte size 47,303,229 exact match to the books.json record, read via the release asset — the tree copy is not in the repo). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/laos-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Earth's place | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 1, printed p. 15 |
@@ -100,8 +104,10 @@ countries: Ethiopia, Saudi Arabia, Myanmar, Turkey, Haiti, Palestine, Angola, Do
 | Nepal part — Unit 7 Lesson 1: Introduction to the Earth | Nepal, *Nepal Grade 6 np-g6*, Unit 7 Lesson 1: Introduction to the Earth — printed p. 130 |
 | Nepal part — Section Ka: The Earth's round form — shape of the Earth (spheroid) and results of the spherical shape, hemispheres | Nepal, *Nepal Grade 8 np-g8*, Section Ka: The Earth's round form — shape of the Earth (spheroid) and results of the spherical shape, hemispheres — printed p. 1 |
 | Mozambique part — Lição 12: A Terra, forma e dimensões (revolution ellipsoid, age ~4.5 billion years, rotation/revolution periods) | Mozambique, *Mozambique Grade 10 PESD II Mod 1*, Lição 12: A Terra, forma e dimensões (revolution ellipsoid, age ~4.5 billion years, rotation/revolution periods) — printed p. 61 |
+| Laos part — Part I Lesson 1: The Earth (universe and solar system, Earth's shape and size, grid lines, coordinates) | Laos, *Laos Grade 6 laos-g06-geography-teacher*, Part I Lesson 1: The Earth (universe and solar system, Earth's shape and size, grid lines, coordinates) — printed p. 1 (teacher-guide evidence) |
+| Laos part — Part I Lesson 1: The Earth | Laos, *Laos Grade 6 laos-g06-geography-student*, Part I Lesson 1: The Earth — printed p. 3 |
 
-**Acceptance count: taught in 20 countries (Ethiopia, Saudi Arabia, Turkey, Palestine, Angola, Dominican Republic, Bahamas, Colombia, Uganda, Venezuela, Sri Lanka, Mauritania, Kuwait, Afghanistan, Yemen, Libya, Moldova, Honduras, Nepal, Mozambique). Myanmar is named here as teacher-guide evidence only, counted nowhere. Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 21 countries (Ethiopia, Saudi Arabia, Turkey, Palestine, Angola, Dominican Republic, Bahamas, Colombia, Uganda, Venezuela, Sri Lanka, Mauritania, Kuwait, Afghanistan, Yemen, Libya, Moldova, Honduras, Nepal, Mozambique, Laos). Myanmar is named here as teacher-guide evidence only, counted nowhere. Haiti is named here as teacher-sequence evidence only, counted nowhere.**
 
 Haiti's own way (teacher sequence — evidence): Geography opens with representing the Earth itself — globe-to-flat projection problems, orientation practised on the ground with compass/GPS/Google Maps, and time-zone puzzles worked on Haiti's own links (midday shared with Québec, 18h in Paris, Port-au-Prince–Paris flights); every séance ends in a croquis, a glossary and field observation. That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
@@ -164,3 +170,7 @@ Nepal's own way (Nepal Grade 6 np-g6): Grade 6 has a full "Hamro Prithvi" (Our E
 Nepal's own way (Nepal Grade 8 np-g8): this is the old kingdom-era standalone Geography volume — Nepal is taught through its 14 zones (anchal), with full regional accounts of Bagmati, Narayani, Mechi and Mahakali zones (position, environment, resources, development, chief towns, each with maps); Asia is the one continent studied in depth; world economic geography is built on "environment and man" (geographical control). Chapters marked ** in the contents (Earth's surface/interior; the population chapter) were prescribed only for certain school types.
 
 Mozambique's own way (Mozambique Grade 10 PESD II Mod 1): the second cycle opens with the discipline itself — geographic thought, its history from Greek antiquity to the determinist/possibilist schools, then cosmography (celestial sphere, solar system, Earth's shape and revolution) before any regional content.
+
+Laos's own way (Laos Grade 6 laos-g06-geography-teacher): a world-foundations year taught zone by zone — after Earth, maps, movements, atmosphere and waters, the last five lessons walk through how people live in each climate zone (hot, desert, savanna, temperate, cold); closes with a teaching-techniques section (printed p. 66) and a Q&A additional-knowledge appendix (printed p. 75), not placed separately.
+
+Laos's own way (Laos Grade 6 laos-g06-geography-student): the student twin of Book 2 — same 9 parts / 16 lessons with full illustrated text, a reading passage (printed p. 90) and a glossary of terms (printed p. 95), not placed separately.

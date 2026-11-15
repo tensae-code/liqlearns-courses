@@ -1,6 +1,6 @@
 # Sources — Africa's economic promise and its hurdles
 
-countries: Ethiopia, Uzbekistan, Yemen
+countries: Ethiopia, Uzbekistan, Yemen, Laos
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). Editors: Sintayehu Teka (MSc) (Content Editor), Kassie Molla (MA) (Language Editor), Hirut Woldemichael (MA) (Curriculum Editor). Illustrator: Agenchw Nega (MSc). Designer: Geda Hoka (MA). Evaluators: Dereje Guteta (PhD), Tesfaye Shiferaw (PhD), Abebe Yibeltie (MA), Hussein Seid (MA). First published 2023 under GEQIP-E. ISBN: 978-99990-0-049-9. Printed by Gravity Group IND LLC, 13th Industrial Area, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. 205 printed pp. Printed page = PDF page − 6 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md.
 
@@ -8,14 +8,20 @@ countries: Ethiopia, Uzbekistan, Yemen
 
 **Book 3:** *جغرافية القارات للصف الثامن من مرحلة التعليم الأساسي (Geography of the Continents for Grade 8) — the record's short title is الجغرافيا (Geography)* (student book, Arabic) — Republic of Yemen, Ministry of Education; year 1438 AH / 2017 CE; ISBN no ISBN printed. Title as printed: جغرافية القارات للصف الثامن من مرحلة التعليم الأساسي (Geography of the Continents for Grade 8) — the record's short title is الجغرافيا (Geography). Grade: 8 (student/teacher: STUDENT). PDF pages: 107 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the Wayback Machine capture of its own recorded Yemen MoE source URL (the source_url in its books.json record) after the GitHub routes (grab.py release + tree) failed from the reader's host — the same ministry file the repo copies were taken from; cover/title page verified visually against the record title. TSV + books.json records for the same grade are the same book, placed once. Read note: image-only scan (no text layer); structure read from rendered contents and lesson pages. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/yemen-placements.md.
 
+**Book 4:** *ຄູ່ມືຄູ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາປີທີ 6 (Teacher Guide, Geography, Secondary Year 6)* (teacher guide, Lao) — Ministry of Education and Sports, Educational Science Research Institute; year 2015 (printed by Phu Thinh Printing and Trading Service Co., Vietnam; print run 4,605); ISBN no ISBN printed. Title as printed: ຄູ່ມືຄູ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາປີທີ 6 (Teacher Guide, Geography, Secondary Year 6). Grade: Grade 11 (ມ.6) (student/teacher: TEACHER). PDF pages: 145 (cover verified against the record title — full cover spread with world map). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/laos-placements.md.
+
+**Book 5:** *ແບບຮຽນ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາປີທີ 6 (Textbook, Geography, Secondary Year 6)* (student book, Lao) — Ministry of Education and Sports, Educational Science Research Institute; year 2015 (printed by Phu Thinh Printing and Trading Service Co., Vietnam; print run 25,098); ISBN no ISBN printed. Title as printed: ແບບຮຽນ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາປີທີ 6 (Textbook, Geography, Secondary Year 6). Grade: Grade 11 (ມ.6) (student/teacher: STUDENT). PDF pages: 209 (cover verified against the record title — full cover spread with world map; byte size 5,736,650 exact match to the books.json record, read via the release asset). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/laos-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The promise — people and resources | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 5, printed pp. 124–126 |
 | Sub lesson 2 — The hurdles — the named historical burdens | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 5, printed pp. 124–126 |
 | Uzbekistan part — §56 Africa: economy and economic regions (Africa's economic development part) | Uzbekistan, *Uzbekistan Grade 9 Economic and Social Geography of the World (Qayumov, Safarov & Tillaboyeva)*, §56 Africa: economy and economic regions (Africa's economic development part) — printed p. 185 |
 | Yemen part — Unit 3 Lesson 3 Economic Activities in Africa | Yemen, *Yemen Grade 8 G8 Geography of the Continents*, Unit 3 Lesson 3 Economic Activities in Africa — printed p. 44 |
+| Laos part — Part II Lesson 20: Development in Africa | Laos, *Laos Grade 11 laos-g11-geography-teacher*, Part II Lesson 20: Development in Africa — printed p. 131 (teacher-guide evidence) |
+| Laos part — Part II Lesson 20: Development in Africa | Laos, *Laos Grade 11 laos-g11-geography-student*, Part II Lesson 20: Development in Africa — printed p. 187 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Uzbekistan, Yemen).**
+**Acceptance count: taught in 4 countries (Ethiopia, Uzbekistan, Yemen, Laos).**
 
 Pairing: the teacher guide was first published in 2022 and the student textbook in 2023, with the same writers and the same eight units in the same order; the student book is the learner text of record.
 
@@ -26,3 +32,7 @@ Searchable tags: Africa economies, 1.3 billion, slave trade, colonialism, confli
 Uzbekistan's own way (Uzbekistan Grade 9 Economic and Social Geography of the World): Grade 9 turns from physical to economic and social geography of the whole world: Part I works through the political map, world natural resources, world population, the scientific-technical revolution and the branches of the world economy; Part II then reviews every region in a fixed country-profile pattern (territory and position, natural resources, population, economy, transport, foreign ties), with Central Asia and Uzbekistan's neighbours given the fullest treatment, and closes with the global problems of humanity.
 
 Yemen's own way (Yemen Grade 8 G8 Geography of the Continents): Grade 8 tours the continents one by one — natural features, population, economic activities — with one country studied in depth per continent (Indonesia, Eritrea, Germany, the USA, Brazil), and closes on contemporary world issues.
+
+Laos's own way (Laos Grade 11 laos-g11-geography-teacher): a world-population and world-countries year — Part I works through world population growth, changing characteristics, distribution, migration, the developed/developing contrast and urban growth; Part II then studies nine countries one by one (USA, Russia, France, Germany, UK, China, India, Japan, South Africa) plus development in Africa, with map plates (the book ends on a South Africa agriculture map, printed p. 140).
+
+Laos's own way (Laos Grade 11 laos-g11-geography-student): the student twin of Book 5 — same 2 parts / 21 lessons (world population, then nine country studies plus development in Africa) with full illustrated text.

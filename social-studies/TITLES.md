@@ -103,7 +103,7 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **2685**
+Geography lessons across the eight Geography titles: **2767**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -1898,3 +1898,56 @@ And Disasters, Solid Waste And Its Sources, Wastewater
 Treatment and Wastewater What It Is.
 (All 58 new lessons are taught in 1 country (Jordan),
 each standing on student book(s).)
+
++82 for Laos, 2026-11-15 — The Land and Air: Africa
+Natural Conditions, America Natural Geography, Asia
+Physical Geography, Australia Country Study, Brazil
+Country Study, Brunei Country Study, Cambodia Country
+Study, China Country Study, Egypt Country Study, Europe
+Natural Geography, France Country Study, Germany
+Country Study, Humans In Mountain And Coastal Zones,
+Humans In The Cold Zone, Humans In The Desert Zone,
+Humans In The Hot Climate Zone, Humans In The Savanna
+Zone, Humans In The Temperate Zone, India Country
+Study, Indonesia Country Study, Japan Country Study,
+Laos Central Region, Laos Climate, Laos Geological
+Structure And Relief, Laos Important Rivers, Laos
+Location Boundaries Area And Shape, Laos Northern
+Region, Laos Relief And Landforms, Laos Southern
+Region, Malaysia Country Study, Myanmar Country Study,
+Oceania Region, Philippines Country Study, Russia
+Country Study, Singapore Country Study, South Africa
+Country Study, South Korea Country Study, Thailand
+Country Study, Timor Leste Country Study, United
+Kingdom Country Study, United States Country Study,
+Vietnam Country Study, Volcanoes Earthquakes And Life
+On Earth and Wind And Types Of Wind; Population,
+Transport and Maps: America Population, Asia Social
+Geography, Changing Characteristics Of World
+Population, Characteristics Of Population, Cities Of
+America, Laos Administrative Divisions, Laos Political
+Geography And Administration, Laos Population
+Distribution And Growth, Laos Population Structure,
+Laos Rural Geography, Laos Transport And
+Communications, Laos Urban Geography, Map Projections
+Showing The Earth On A Map, Population Developed vs
+Developing Countries, Rural And Urban Geography and
+Urban Systems And Hierarchy; People and Resources:
+America Economy, Asia Economic Geography, Europe
+Economic Development, Laos Economic Development
+Strategy 2000 2020 and Laos Economy General
+Characteristics; Culture and Work: Africa Agriculture,
+Africa Industry, Agricultural Areas And Land Use,
+Industrial Areas, Laos Agriculture And Forestry, Laos
+Handicrafts And Industry, Laos Tourism Geography, Laos
+Trade And Tourism and Tourism Areas; Resources and
+Conflict: Laos Natural Resources And Environmental
+Protection; Global Issues: Changing World Economic And
+Social Landscape, Development Problems Of World
+Regions, Laos ASEAN Relations And Cooperation, Laos
+Economic Development And Environmental Problems,
+Population Problems And Solutions, The Natural
+Environment and The Social Environment.
+(All 82 new lessons are taught in 1 country (Laos),
+each standing on student book(s), with teacher-guide
+placements also cited as evidence.)
