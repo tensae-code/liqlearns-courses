@@ -59,7 +59,8 @@ the one title at rising depth wherever a title spans both books
 - `africa-to-1500/` — Africa's peoples, states and trade to
   about 1500 (including Islam in West Africa, and Ethiopia —
   kingdoms and faiths before 1800, and Southern Africa's
-  first peoples — San, Khoikhoi and Bantu).
+  first peoples — San, Khoikhoi and Bantu, and Gabon —
+  first peoples and migrations, and the Bantu migrations).
 - `ancient-world/` — the ancient civilisations and the medieval
   world beyond Africa (including Ibn Battuta — traveller
   of the Islamic world, and the Arabian Peninsula —
@@ -137,7 +138,11 @@ the one title at rising depth wherever a title spans both books
   Italy, Northern Nguni revolution before Shaka, Mfecane —
   new states: Moshoeshoe, Mzilikazi and the Ngoni, Cape
   Colony and the frontier wars, and South Africa —
-  diamonds, gold and the road to union).
+  diamonds, gold and the road to union, and Gabon —
+  France in Gabon and the founding of Libreville,
+  independence, 1960, daily life changes, Brazza and
+  the exploration of the Ogooué, Gabon in French Congo
+  and the AÉF, and Gabon — resistance to colonisation).
   (No teacher evidence yet.)
 - `modern-world/` — the early-modern and modern world
   (including Guyana — our nation: independence and symbols,
@@ -2573,7 +2578,7 @@ Plants and Animals.
 
 ## History expansion totals
 
-History lessons across the History titles: **522**
+History lessons across the History titles: **530**
 (248 before the expansion; +1 for Guyana, 2026-11-15 —
 Modern World: Guyana — our nation: independence and
 symbols. All 3 Guyana placements stand on Guyana's
@@ -3160,3 +3165,23 @@ history 6 → 7, Comparing states — how kingdoms
 hold together 3 → 4, Exploration — Columbus,
 Vespucci and Magellan 3 → 4, and The Second World
 War — the Pacific and the results 3 → 4.
+
++8 for Gabon, 2026-11-15 — Africa to 1500: Gabon —
+first peoples and migrations, and The Bantu
+migrations; Africa after 1500: France in Gabon and
+the founding of Libreville, Gabon — independence,
+1960, Gabon — daily life changes, Brazza and the
+exploration of the Ogooué, Gabon in French Congo and
+the AÉF, and Gabon — resistance to colonisation.
+All 52 Gabon placements stand on Gabon's three
+combined Histoire-Géographie-Citoyenneté teacher
+guides (Grades 3, 4 and 5; EDIG-Édicef / Institut
+Pédagogique National, 2023) only, as evidence only,
+acceptance count 0 countries for the eight new
+lessons; the 33 placements stocked into 23 existing
+lessons likewise leave those lessons' acceptance
+counts unchanged (the African resistance placement
+was stocked into the existing African resistance to
+colonisation lesson built for Djibouti, whose
+countries line now names Djibouti, Gabon as
+teacher-guide evidence only, counted nowhere).

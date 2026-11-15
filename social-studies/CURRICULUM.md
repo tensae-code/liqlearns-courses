@@ -9868,3 +9868,70 @@ how kingdoms hold together 3 → 4, Exploration —
 Columbus, Vespucci and Magellan 3 → 4, and The
 Second World War — the Pacific and the results
 3 → 4. History lessons: 506 → 522.
+
+## History expansion — Gabon — built 2026-11-15
+
+8 new lessons, 80 questions, in **Africa to 1500**:
+Gabon — first peoples and migrations
+(africa-to-1500/gabon-first-peoples-and-migrations) and
+The Bantu migrations (africa-to-1500/the-bantu-migrations);
+and in **Africa after 1500**: France in Gabon and the
+founding of Libreville
+(africa-after-1500/france-in-gabon-and-the-founding-of-libreville),
+Gabon — independence, 1960
+(africa-after-1500/gabon-independence-1960), Gabon — daily
+life changes (africa-after-1500/gabon-daily-life-changes),
+Brazza and the exploration of the Ogooué
+(africa-after-1500/brazza-and-the-exploration-of-the-ogooue),
+Gabon in French Congo and the AÉF
+(africa-after-1500/gabon-in-french-congo-and-the-aef) and
+Gabon — resistance to colonisation
+(africa-after-1500/gabon-resistance-to-colonisation)
+— 52 placements stocked in all from Gabon's three
+combined *Super Efficace en Histoire Géographie
+Citoyenneté — Guide pédagogique* teacher guides
+(EDIG-Édicef / Institut Pédagogique National, Gabon,
+2023, no ISBN printed): the Grade 3 guide (64 PDF pp.;
+14 placements: what history is, printed p. 3, the
+sources of History, p. 6, centuries and millennia,
+p. 10, the first humans, p. 15, how the first people
+lived, p. 19, and the new Gabon lessons — the peopling
+of Gabon, p. 28, Bantu relations, p. 31, the name
+« Gabon », p. 35, the French settlement, p. 40,
+independence, p. 44, Libreville, p. 48, and daily life
+— habitat, p. 52, trade, p. 55, transports, p. 59);
+the Grade 4 guide (56 PDF pp.; 18 placements: African
+prehistory, p. 3, fire, p. 6, population movements,
+p. 10, settling down, p. 12, the periods of History,
+p. 16, the origin of the Gabonese people, p. 19, the
+great sea voyages, p. 22, first European contacts,
+p. 24, Gabon's explorers, p. 27, Brazza and the
+Ogooué, p. 30, trading posts, p. 33, colonisation,
+p. 35, the slave trade (1), p. 38, the slave trade
+(2), p. 41, French Congo, p. 43, the AÉF, p. 46,
+resistance, p. 48, and decolonisation, p. 52); and
+the Grade 5 guide (58 PDF pp.; 20 placements: ancient
+Egypt (1), p. 3, ancient Egypt (2), p. 6, Greece,
+p. 9, Rome, p. 11, the autochthones, p. 14, the
+Bantu, p. 17, the first Europeans, pp. 20–22, the
+trade in Black people, p. 25, the start of
+colonisation, p. 28, African resistance, p. 31,
+colonial exploitation, p. 34, Gabonese resistance,
+p. 37, Berlin, p. 40, the First World War and its
+consequences, pp. 44–46, the Second World War and
+its consequences, pp. 48–51, Africa's march to
+independence, p. 55, and Gabon's march to
+independence, p. 57). The Geography and Citizenship
+lessons of each combined guide are named in the
+lessons' sources, not placed. 33 placements were
+stocked into 23 existing lessons (the placement for
+African resistance to colonisation, marked NEW
+LESSON NEEDED in the Gabon file, was stocked into
+the existing lesson of that name built for Djibouti
+instead of building a duplicate; its countries line
+now names Djibouti, Gabon as teacher-guide evidence
+only). All 52 placements stand on teacher guides
+only, as evidence only — the new lessons' acceptance
+count is 0 countries, and every existing lesson's
+acceptance count is unchanged, Gabon not added to
+its countries line. History lessons: 522 → 530.
