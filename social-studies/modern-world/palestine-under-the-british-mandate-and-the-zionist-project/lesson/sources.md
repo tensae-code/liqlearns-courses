@@ -1,6 +1,6 @@
 # Sources — Palestine under the British Mandate and the Zionist project
 
-countries: Egypt, Syria, Palestine, Libya
+countries: Egypt, Syria, Palestine, Libya, Samoa
 
 **Book 6:** *الدراسات الاجتماعية — جغرافية العالم وتاريخ مصر الحديث والمعاصر (Social Studies — Geography of the World and Modern and Contemporary History of Egypt)* (student book, Arabic) — Egypt. Grade: Grade 9 (Third Preparatory), both terms in one volume (student book). Publisher: Ministry of Education and Technical Education, Egypt (Central Administration for Curriculum Development; General Administration for Textbooks); printed 2025/2026; ISBN: no ISBN printed in the front matter. PDF pages: 186 (read in place from phase3-staging; image-only scan read as 4-up page sheets; all History units of both terms read, Geography units identified from the contents). Note: this is the older-curriculum full-year book, a different book from Book 5 (the new-curriculum Term 1 volume), covering some of the same ground in its own treatment. Verdict: COMPLETE (History parts). Tally: 13 placements — 0 to existing lessons, 13 NEW LESSON NEEDED. Non-History parts (named, not placed): Term 1 Units 1–2 (physical geography of the world — continents, terrain, climate and natural vegetation; population geography — human races, population distribution and characteristics) and Term 2 Units 1–2 (resources and economic activities in the world; models of developing and advanced countries — India, Brazil, Nigeria, Germany, the USA), plus Term 2 Unit 4 Lesson 2 (Egypt and the regional and international organisations) — Geography/Civics. Placements at liqlearns-courses-work/expansion-history-2026-11-15/egypt-placements.md.
 
@@ -80,3 +80,27 @@ Searchable tags: Palestine, Palestine under the British Mandate and the Zionist 
 Libya's own way (Book 3 — G12 Modern & Contemporary Arab World (student book, Humanities, Arabic)): modern history is told as one Arab struggle — Ottoman decline, Europe's rise told fairly (Renaissance, revolutions, industry), colonial partition, then each Arab people's national struggle country by country, Libya's war against Italy among them, ending with Palestine as the open wound. That way is stocked here as the way Libya teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 4 countries (Egypt, Syria, Palestine, Libya).**
+
+
+## History expansion (2026-11-15) — Samoa stocked
+
+**Book 10 — y12-history (student book, English)**
+- Title as printed: History, Year 12
+- Grade: Year 12 (student/teacher: STUDENT); authors Tanya Samu, Valensia Sinisa, Tui Faasili
+- Publisher: Government of Sāmoa, Ministry of Education, Sports and Culture; year 2004; ISBN 982-517-060-3
+- PDF pages: 203 (cover/title page verified against the record title; grabbed via the TSV release URL)
+- Verdict: COMPLETE
+- Tally: 42 placements — 10 to existing lessons, 32 NEW LESSON NEEDED
+- Samoa's own way: A full senior History course in six parts — Migration; Imperialism, Colonialism, Nationalism and Decolonisation; Conflict; International Relations; Economic Transformations; Systems of Power and Authority — with Samoa's own story (origins, civil wars, Mau, treaties, independence) as the home case against Palestine/Israel, Japan, Russia and China. Note: the book dates the Black Saturday march "28 December 1928" in Part 2 Unit 4 but 1929 elsewhere — an internal inconsistency in the source.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Part 3, Unit 3 — story beats: pogroms in Russia in the early 1880s found Zionism (1882) — a Jewish nation state in the promised land; waves of Jews migrate to Palestine and build communal kibbutzim, while the Arabs who took the land in during the centuries of exile call it their homeland too (History expansion, 2026-11-15; original placement slug: modern-world/zionism-and-the-jewish-return-to-palestine — stocked into modern-world/palestine-under-the-british-mandate-and-the-zionist-project, the closest existing lesson covering this thing) | Samoa, *History, Year 12*, printed pp. 84–86 |
+| Samoa part — Part 3, Unit 3 — story beats: fighting the Turks, Britain promises Arab independence to Hussein of Mecca, secretly carves the Ottoman lands with France (Sykes-Picot, 1916), and promises the Jews a national home (Balfour Declaration); the mandates leave both peoples distrusting Britain, the 1930 and 1939 White Papers swing between partition and closing immigration as the Holocaust drives Jews to flee (History expansion, 2026-11-15; original placement slug: modern-world/britains-three-promises-and-the-palestine-mandate — stocked into modern-world/palestine-under-the-british-mandate-and-the-zionist-project, the closest existing lesson covering this thing) | Samoa, *History, Year 12*, printed pp. 86–88 |
+
+Samoa's own way (Book 10 — y12-history (History, Year 12)): A full senior History course in six parts — Migration; Imperialism, Colonialism, Nationalism and Decolonisation; Conflict; International Relations; Economic Transformations; Systems of Power and Authority — with Samoa's own story (origins, civil wars, Mau, treaties, independence) as the home case against Palestine/Israel, Japan, Russia and China. Note: the book dates the Black Saturday march "28 December 1928" in Part 2 Unit 4 but 1929 elsewhere — an internal inconsistency in the source. That way is stocked here as the way Samoa teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 5 countries (Egypt, Syria, Palestine, Libya, Samoa).**
+
+Searchable tags: Samoa, History expansion 2026-11-15, modern-world/palestine-under-the-british-mandate-and-the-zionist-project

@@ -1,6 +1,6 @@
 # Sources — Heritage — what it is and why it matters
 
-countries: Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivia, Zimbabwe, Eritrea, Cambodia, Fiji, Slovenia, Syria, Mauritania, Jordan, Bhutan, Cuba, Greece, Nauru, Niue, Tuvalu, Saudi Arabia, Rwanda, Poland, Guatemala, Australia, Bahamas, Nepal, Belarus, Dominican Republic, Egypt, Pakistan, Iran, Suriname, Palestine, Colombia, South Sudan
+countries: Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivia, Zimbabwe, Eritrea, Cambodia, Fiji, Slovenia, Syria, Mauritania, Jordan, Bhutan, Cuba, Greece, Nauru, Niue, Tuvalu, Saudi Arabia, Rwanda, Poland, Guatemala, Australia, Bahamas, Nepal, Belarus, Dominican Republic, Egypt, Pakistan, Iran, Suriname, Palestine, Colombia, South Sudan, Samoa
 
 **Book 1:** *History, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, Addis Ababa, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-064-2, 210 printed pp. Printed page = PDF page − 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g09-student-placements.md
 
@@ -1295,3 +1295,88 @@ Mongolia's own way (Book 10 — mn-g10ss Нийгэм судлал X (Social Stu
 **Acceptance count: taught in 36 countries (Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivia, Zimbabwe, Eritrea, Cambodia, Fiji, Slovenia, Syria, Mauritania, Jordan, Bhutan, Cuba, Greece, Nauru, Niue, Tuvalu, Saudi Arabia, Rwanda, Poland, Guatemala, Australia, Bahamas, Nepal, Belarus, Dominican Republic, Egypt, Pakistan, Iran, Suriname, Palestine, Colombia, South Sudan) — unchanged for Mongolia: Mongolia was already named and counted in this lesson from an earlier stocking (the Geography expansion, on the same Grade 8 and Grade 9 Social Studies books), so these 9 History placements add Mongolian depth, not a new country.**
 
 Searchable tags: Mongolia, History expansion 2026-11-15, first-steps/heritage-what-it-is-and-why-it-matters
+
+
+## History expansion (2026-11-15) — Samoa stocked
+
+**Book 2 — y9-book-1 (student book, English)**
+- Title as printed: Social Studies, Year 9 Book One
+- Grade: Year 9 (student/teacher: STUDENT)
+- Publisher: Government of Sāmoa, Ministry of Education, Sports and Culture; year 2001, reprinted 2004 with minor amendments; ISBN 982-517-008-5
+- PDF pages: 84 (cover/title page verified against the record title; TSV release URL used — the books.json tree path returned 404 on grab, see log debts)
+- Verdict: COMPLETE
+- Tally: 6 placements — 4 to existing lessons, 2 NEW LESSON NEEDED
+- Samoa's own way: A combined Social Studies book built on Pacific neighbours — Samoa's resources and village order are taught beside the Solomon Islands and Tonga, and the past is reached by comparing past and present practice and by interviewing elders, not by a dated narrative.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/samoa-placements.md.
+
+Non-History parts (named, not placed): Unit 1 Resources and Economic Activities — environment, resources, rainforests, water, marine resources (Geography/Economics, printed pp. 5–26); Unit 2 Economic Activities (Economics, pp. 27–34); Unit 3 Sharing Resources — allocation and managing resources (Economics, pp. 35–42, 49–56); Unit 4 Being Part of a Group — groups, Samoan social organisation and the matai system, Tongan family and women's groups, the political system of Tonga (Civics, pp. 57–80).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 3, Topic 2 "Distribution Of Resources" — story beats: barter and ceremonial exchange (the si'i presentation of 'ie toga fine mats) carry honour between families, and a traditional Samoan wedding's exchanges are set against a modern wedding's (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Samoa, *Social Studies, Year 9 Book One*, printed pp. 43–46 |
+| Samoa part — Unit 3, Activity 13 reading "Dolphin Hunting in Lau Lagoon" (plot summary only) — story beats: a Malaita boy is admitted to the men's prayer house, joins the priest-led canoe hunt, and the 65 dolphins caught yield teeth saved as bride-wealth money (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Samoa, *Social Studies, Year 9 Book One*, printed pp. 48–49 |
+
+Samoa's own way (Book 2 — y9-book-1 (Social Studies, Year 9 Book One)): A combined Social Studies book built on Pacific neighbours — Samoa's resources and village order are taught beside the Solomon Islands and Tonga, and the past is reached by comparing past and present practice and by interviewing elders, not by a dated narrative. That way is stocked here as the way Samoa teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 4 — y9-book-3 (student book, English)**
+- Title as printed: Social Studies, Year 9 Book Three
+- Grade: Year 9 (student/teacher: STUDENT)
+- Publisher: Government of Sāmoa, Department of Education; year 2002, reprinted 2004 with minor amendments; ISBN 982-517-029-8
+- PDF pages: 74 (cover/title page verified against the record title; grabbed via the TSV release URL)
+- Verdict: COMPLETE
+- Tally: 7 placements — 7 to existing lessons, 0 NEW LESSON NEEDED
+- Samoa's own way: The Culture and Heritage unit teaches the past entirely as inheritance — what ancestors passed on in practices, symbols and treasures (mea sina) — using paired past/present photographs, museum interviews and elders as primary sources.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/samoa-placements.md.
+
+Non-History parts (named, not placed): Unit 1 Topic 3 Symbols Of Identity — flags, emblems, the one-tala coin (Civics/identity, printed pp. 17–18); Unit 2 Topics 1–2 — types of technology and how books, CD-Roms and the internet are made and used (Technology, pp. 23–35); Unit 3 Development and Unit 4 Development And Daily Life, including country case studies (Economics/Geography, pp. 40–67).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 1 introduction and Topic 1 "Practices And Symbols" — story beats: heritage is what parents and ancestors pass on — language, beliefs, clothes, dances, food — and a talking chief's staff and fly whisk show how a practice and a symbol carry the fa'aSāmoa to the next generation (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Samoa, *Social Studies, Year 9 Book Three*, printed pp. 5–6 |
+| Samoa part — Unit 1, Activity 8 "Understanding And Explaining Siapo" — story beats: New Zealand-born Samoan film-maker Caroline Lolegi Vercoe confesses she cannot "read" siapo designs, and learners decode the plant-and-animal symbols of tapa cloth, then design their own (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Samoa, *Social Studies, Year 9 Book Three*, printed pp. 19–20 |
+| Samoa part — Unit 2, Resource 1 "Sereana's Story" (plot summary only) — story beats: Sereana already knows Samoan weddings before her brother Lotovale's — from her parents' wedding photos on the wall, cousins' wedding videos from Apia and Hawai'i, and being taken to family weddings (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Samoa, *Social Studies, Year 9 Book Three*, printed pp. 25–26 |
+| Samoa part — Unit 2, Resource 2 "Museums and museum displays" — story beats: Pacific curator Jakki Leota-Ete at the Waikato Museum cares for Samoan mea sina carried to New Zealand — a tanoa brought back in the 1930s, a fragile siapo brought by an ex-missionary in the 1960s — researching, conserving and blessing them for exhibition (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Samoa, *Social Studies, Year 9 Book Three*, printed pp. 27–28 |
+
+Samoa's own way (Book 4 — y9-book-3 (Social Studies, Year 9 Book Three)): The Culture and Heritage unit teaches the past entirely as inheritance — what ancestors passed on in practices, symbols and treasures (mea sina) — using paired past/present photographs, museum interviews and elders as primary sources. That way is stocked here as the way Samoa teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 6 — y10-book-2 (student book, English)**
+- Title as printed: Social Studies, Year 10 Book Two
+- Grade: Year 10 (student/teacher: STUDENT)
+- Publisher: Government of Samoa, Department of Education; year 2002; ISBN 982-517-017-4
+- PDF pages: 70 (cover/title page verified against the record title; grabbed via the books.json tree path)
+- Verdict: COMPLETE
+- Tally: 9 placements — 3 to existing lessons, 6 NEW LESSON NEEDED
+- Samoa's own way: Identity is the frame — national identity is explicitly said to be made over time by historical events and kept alive by retold stories and oral histories; Australia is the comparison case, studied through its migration timeline and its reckoning with the Stolen Generation.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/samoa-placements.md.
+
+Non-History parts (named, not placed): Unit 1 Topic 1 personal identity and Topic 4 how identities are made and kept (Identity/Civics, printed pp. 5–10, 23–28); Unit 1 Topic 2's chart of nation-state "birth" years (data table inside the identity topic, p. 12); Unit 3 Changing Places — deforestation and Indonesian transmigration (Geography, pp. 48–63).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 1, Topic 2 "Who Are We? National Identity" — story beats: a nation's identity is built over time through historical events and kept by telling certain stories over and over, by oral histories, shared culture and schools; Samoa's people are ancient in the islands but its independent state only began in 1962 (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Samoa, *Social Studies, Year 10 Book Two*, printed p. 11 |
+| Samoa part — Unit 1, Topic 3 "What Are We? Cultural Identity" — story beats: culture is values, beliefs, customs and traditions passed from one generation to the next, kept when shared between generations, recorded in stories and books, and taught in schools (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Samoa, *Social Studies, Year 10 Book Two*, printed p. 19 |
+
+Samoa's own way (Book 6 — y10-book-2 (Social Studies, Year 10 Book Two)): Identity is the frame — national identity is explicitly said to be made over time by historical events and kept alive by retold stories and oral histories; Australia is the comparison case, studied through its migration timeline and its reckoning with the Stolen Generation. That way is stocked here as the way Samoa teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 9 — y11-book-2 (student book, English)**
+- Title as printed: Social Studies, Year 11 Book Two
+- Grade: Year 11 (student/teacher: STUDENT)
+- Publisher: Government of Sāmoa, Ministry of Education, Sports and Culture; year 2003, reprinted 2004 with minor amendments; no ISBN printed in the pages read (title page carries the © 2004 line)
+- PDF pages: 118 (cover/title page verified against the record title; grabbed via the TSV release URL)
+- Verdict: COMPLETE
+- Tally: 13 placements — 6 to existing lessons, 7 NEW LESSON NEEDED
+- Samoa's own way: Neighbouring Fiji gets a compact settlement history (legend, contact, indenture), and Samoa's own past is carried by the same Telesia — now as a four-generation family "history highway" of travel to New Zealand, told entirely from family stories.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/samoa-placements.md.
+
+Non-History parts (named, not placed): Unit 1 Topic 2 Cultural Investigators student research (skills, printed pp. 19–24); Unit 2 Topics 1–2 personal identity, cultural values and adaptation (Identity, pp. 27–38); Unit 3 coconut production factors, industry administration and decisions, apart from the copra history note (Economics, pp. 45–73); Unit 4 volunteer organisations and Pacific co-operation today, apart from the founding stories placed (Civics, pp. 79–95); Unit 5 Planning For Development (Economics, pp. 96–110).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 1, Topic 1 resource 5A "Fijian Firewalking" (legend, plot summary only) — story beats: a Beqa warrior fishing for eels pulls up a spirit god, spares its life, and is given the power to walk unharmed on white-hot stones — the gift his tribe's firewalkers still use under strict protocol (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Samoa, *Social Studies, Year 11 Book Two*, printed p. 16 |
+| Samoa part — Unit 3, Fact File Two "The Traditional Uses of the Coconut and Coconut Tree" — story beats: the "Pacific Tree of Life" is used exactly as parents, grandparents and ancestors used it — flesh, milk, husk rope and fuel, leaf baskets and brooms, trunk posts, shell cups and charcoal (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Samoa, *Social Studies, Year 11 Book Two*, printed p. 47 |
+
+Samoa's own way (Book 9 — y11-book-2 (Social Studies, Year 11 Book Two)): Neighbouring Fiji gets a compact settlement history (legend, contact, indenture), and Samoa's own past is carried by the same Telesia — now as a four-generation family "history highway" of travel to New Zealand, told entirely from family stories. That way is stocked here as the way Samoa teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 37 countries (Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivia, Zimbabwe, Eritrea, Cambodia, Fiji, Slovenia, Syria, Mauritania, Jordan, Bhutan, Cuba, Greece, Nauru, Niue, Tuvalu, Saudi Arabia, Rwanda, Poland, Guatemala, Australia, Bahamas, Nepal, Belarus, Dominican Republic, Egypt, Pakistan, Iran, Suriname, Palestine, Colombia, South Sudan, Samoa).**
+
+Searchable tags: Samoa, History expansion 2026-11-15, first-steps/heritage-what-it-is-and-why-it-matters

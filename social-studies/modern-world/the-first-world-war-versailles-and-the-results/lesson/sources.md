@@ -1,6 +1,6 @@
 # Sources — The First World War — Versailles and the results
 
-countries: Ethiopia, Indonesia, Montenegro, United Kingdom, Pakistan, Cambodia, Mauritania, South Sudan, Libya
+countries: Ethiopia, Indonesia, Montenegro, United Kingdom, Pakistan, Cambodia, Mauritania, South Sudan, Libya, Samoa
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 135).
 
@@ -237,3 +237,26 @@ This book is a teacher guide. The Papua New Guinea rows below stand on it as tea
 Papua New Guinea's own way (Book 9 — G11 History TG SBC (teacher guide, English)): the standalone senior History subject keeps the same 7-unit architecture but turns fully outward — the world wars and their leaders, Asia's decolonisation and democratisation, China's rise, and a Historical Inquiry unit that ends with PNG eyewitness accounts of the war and France's nuclear tests in the Pacific. (The guide's acknowledgements page still says "Grade 11 Social Science Teacher Guide" — a copy-over slip in the book itself.) That way is stocked here as the way Papua New Guinea teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 9 countries (Ethiopia, Indonesia, Montenegro, United Kingdom, Pakistan, Cambodia, Mauritania, South Sudan, Libya) — unchanged; the Papua New Guinea placement(s) above are teacher-guide evidence only, counted nowhere. Papua New Guinea is not added to this lesson's countries line.**
+
+
+## History expansion (2026-11-15) — Samoa stocked
+
+**Book 11 — y13-history (student book, English)**
+- Title as printed: History, Year 13
+- Grade: Year 13 (student/teacher: STUDENT); authors Tanya Samu, Valensia Sinisa, Tui Faasili
+- Publisher: Government of Sāmoa, Ministry of Education, Sports and Culture; year 2004; ISBN 982-517-083-2
+- PDF pages: 163 (cover/title page verified against the record title; grabbed via the TSV release URL)
+- Verdict: COMPLETE
+- Tally: 44 placements — 11 to existing lessons, 33 NEW LESSON NEEDED
+- Samoa's own way: The same six-part frame as Year 12 (Migration; Imperialism, Colonialism, Nationalism and Decolonisation; Conflict; International Relations; Economic Transformations; Systems of Power and Authority), but the case studies go worldwide — Germany for migration, the Balkans, Soviet satellites and Vietnam for decolonisation, India for conflict, Stalin and Gandhi for power — with Samoa drawn in as the comparison: the matai system as a system of power, New Zealand's administration of Samoa set beside Britain's India, and Samoa as the first Pacific nation to regain independence as India was the first British colony to do so.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Part 4, Unit 2, between the wars — story beats: reparations fixed at £6.6 billion (1921) break Germany by 1923 — France occupies the Ruhr, workers strike, and a Berlin loaf climbs from 0.63 marks to 201 billion; Stresemann and the American Dawes Plan set the "money-go-round" turning, Locarno (1925) settles the western frontier, Germany enters the League (1926), Kellogg-Briand outlaws war (1928) and the Young Plan cuts the bill to £2 billion (1929) (History expansion, 2026-11-15; original placement slug: modern-world/the-first-world-war-versailles-and-the-results) | Samoa, *History, Year 13*, printed pp. 90–91 |
+
+Samoa's own way (Book 11 — y13-history (History, Year 13)): The same six-part frame as Year 12 (Migration; Imperialism, Colonialism, Nationalism and Decolonisation; Conflict; International Relations; Economic Transformations; Systems of Power and Authority), but the case studies go worldwide — Germany for migration, the Balkans, Soviet satellites and Vietnam for decolonisation, India for conflict, Stalin and Gandhi for power — with Samoa drawn in as the comparison: the matai system as a system of power, New Zealand's administration of Samoa set beside Britain's India, and Samoa as the first Pacific nation to regain independence as India was the first British colony to do so. That way is stocked here as the way Samoa teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 10 countries (Ethiopia, Indonesia, Montenegro, United Kingdom, Pakistan, Cambodia, Mauritania, South Sudan, Libya, Samoa).**
+
+Searchable tags: Samoa, History expansion 2026-11-15, modern-world/the-first-world-war-versailles-and-the-results

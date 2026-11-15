@@ -1,6 +1,6 @@
 # Sources — 1917 twice — February and October in Russia
 
-countries: Ethiopia, Costa Rica, Montenegro, Dominican Republic, United Kingdom, Cambodia, Colombia, Mauritania, South Sudan, Sri Lanka, Mongolia
+countries: Ethiopia, Costa Rica, Montenegro, Dominican Republic, United Kingdom, Cambodia, Colombia, Mauritania, South Sudan, Sri Lanka, Mongolia, Samoa
 
 **Book 1:** *History, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN 978-99990-0-065-9. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g10-student-placements.md
 
@@ -280,3 +280,26 @@ Mongolia's own way (Book 4 — mn-g9h Түүх IX (History IX)): modern history 
 **Acceptance count: taught in 11 countries (Ethiopia, Costa Rica, Montenegro, Dominican Republic, United Kingdom, Cambodia, Colombia, Mauritania, South Sudan, Sri Lanka, Mongolia).**
 
 Searchable tags: Mongolia, History expansion 2026-11-15, modern-world/1917-twice-february-and-october-in-russia
+
+
+## History expansion (2026-11-15) — Samoa stocked
+
+**Book 10 — y12-history (student book, English)**
+- Title as printed: History, Year 12
+- Grade: Year 12 (student/teacher: STUDENT); authors Tanya Samu, Valensia Sinisa, Tui Faasili
+- Publisher: Government of Sāmoa, Ministry of Education, Sports and Culture; year 2004; ISBN 982-517-060-3
+- PDF pages: 203 (cover/title page verified against the record title; grabbed via the TSV release URL)
+- Verdict: COMPLETE
+- Tally: 42 placements — 10 to existing lessons, 32 NEW LESSON NEEDED
+- Samoa's own way: A full senior History course in six parts — Migration; Imperialism, Colonialism, Nationalism and Decolonisation; Conflict; International Relations; Economic Transformations; Systems of Power and Authority — with Samoa's own story (origins, civil wars, Mau, treaties, independence) as the home case against Palestine/Israel, Japan, Russia and China. Note: the book dates the Black Saturday march "28 December 1928" in Part 2 Unit 4 but 1929 elsewhere — an internal inconsistency in the source.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Part 6, Units 2–3 — story beats: a 300-year autocracy (serfs until 1861, the Okhrana, a powerless Duma from 1905) bleeds in the First World War — six million casualties by 1917; hunger and strikes topple the Tsar in March, Kerensky's provisional government falters, and in October Lenin's Bolsheviks seize the capital, make peace, win the 1918–20 civil war against the White armies and their foreign backers, and proclaim the USSR by 1923 (History expansion, 2026-11-15; original placement slug: modern-world/1917-twice-february-and-october-in-russia) | Samoa, *History, Year 12*, printed pp. 180–184 |
+
+Samoa's own way (Book 10 — y12-history (History, Year 12)): A full senior History course in six parts — Migration; Imperialism, Colonialism, Nationalism and Decolonisation; Conflict; International Relations; Economic Transformations; Systems of Power and Authority — with Samoa's own story (origins, civil wars, Mau, treaties, independence) as the home case against Palestine/Israel, Japan, Russia and China. Note: the book dates the Black Saturday march "28 December 1928" in Part 2 Unit 4 but 1929 elsewhere — an internal inconsistency in the source. That way is stocked here as the way Samoa teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 12 countries (Ethiopia, Costa Rica, Montenegro, Dominican Republic, United Kingdom, Cambodia, Colombia, Mauritania, South Sudan, Sri Lanka, Mongolia, Samoa).**
+
+Searchable tags: Samoa, History expansion 2026-11-15, modern-world/1917-twice-february-and-october-in-russia

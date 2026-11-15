@@ -1,6 +1,6 @@
 # Sources — American independence
 
-countries: Ethiopia, France, United States, Ecuador, Kuwait, Montenegro, Dominican Republic, Cambodia, Palestine, Colombia, Mauritania, Mongolia
+countries: Ethiopia, France, United States, Ecuador, Kuwait, Montenegro, Dominican Republic, Cambodia, Palestine, Colombia, Mauritania, Mongolia, Samoa
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under GEQIP-E, ISBN 978-99990-0-066-6. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -263,3 +263,46 @@ Mongolia's own way (Book 1 — mn-g8h Түүх VIII (History VIII)): Mongolian a
 **Acceptance count: taught in 12 countries (Ethiopia, France, United States, Ecuador, Kuwait, Montenegro, Dominican Republic, Cambodia, Palestine, Colombia, Mauritania, Mongolia).**
 
 Searchable tags: Mongolia, History expansion 2026-11-15, modern-world/american-independence
+
+
+## History expansion (2026-11-15) — Samoa stocked
+
+**Book 5 — y10-book-1 (student book, English)**
+- Title as printed: Social Studies, Year 10 Book One
+- Grade: Year 10 (student/teacher: STUDENT)
+- Publisher: Government of Samoa, Department of Education; year 2001; ISBN 982-517-009-3
+- PDF pages: 100 (cover/title page verified against the record title; grabbed via the books.json tree path)
+- Verdict: COMPLETE
+- Tally: 12 placements — 5 to existing lessons, 7 NEW LESSON NEEDED
+- Samoa's own way: Samoa's political history is the spine of a Civics book — German rule, the 1914 takeover, mandate and trusteeship are taught first, and world human-rights history is anchored back to Samoa's own Mau and influenza story on a two-page timeline (printed pp. 46–47).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/samoa-placements.md.
+
+Non-History parts (named, not placed): Unit 1 Topic 2 — casting votes, making laws, the 2001 general election (Civics, printed pp. 8–18); Unit 1 Topic 3 — the Japanese government and its Peace Constitution (Civics, pp. 19–22); Unit 2 — the United Nations today, Amnesty International, protest action and social justice today (Civics, pp. 33–45, 48–58); Unit 3 Skills In Social Studies (skills, pp. 59–82); Unit 4 Skills In Action — census-taking and organisations in Samoa today (skills/Civics, pp. 83–98).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 2, Case Study 2 "The Struggle For Independence" — story beats: thirteen British colonies, taxed without a voice in London's parliament, declare independence in 1776, win a seven-year war, and write their own constitution in 1787 (History expansion, 2026-11-15; original placement slug: modern-world/american-independence) | Samoa, *Social Studies, Year 10 Book One*, printed p. 26 |
+
+Samoa's own way (Book 5 — y10-book-1 (Social Studies, Year 10 Book One)): Samoa's political history is the spine of a Civics book — German rule, the 1914 takeover, mandate and trusteeship are taught first, and world human-rights history is anchored back to Samoa's own Mau and influenza story on a two-page timeline (printed pp. 46–47). That way is stocked here as the way Samoa teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 8 — y11-book-1 (student book, English)**
+- Title as printed: Social Studies, Year 11 Book One
+- Grade: Year 11 (student/teacher: STUDENT)
+- Publisher: Government of Samoa, Department of Education; year 2003; ISBN 982-517-039-5
+- PDF pages: 122 (cover/title page verified against the record title; grabbed via the TSV release URL)
+- Verdict: COMPLETE
+- Tally: 16 placements — 6 to existing lessons, 10 NEW LESSON NEEDED
+- Samoa's own way: Samoa's Mau is taught twice over — once as world-style civil-rights history beside Black America's movement (fact sheets, timelines, a mock newspaper), and once from inside, through a Samoan mother's diary and photo album; the book closes the story with New Zealand's 2002 apology, read through Samoan newspaper reactions.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/samoa-placements.md.
+
+Non-History parts (named, not placed): Unit 1 Topic 1 What Are Social Institutions (Civics/Sociology, printed pp. 6–10); Unit 3 The Marine Environment (Geography/Environment, pp. 58–96); Unit 4 Skills: Cartoons, Paragraphs And Essays (skills, pp. 97–105); Unit 5 Skills: Inquiry And Research (skills, pp. 106–118).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 1, Fact Sheet Two "Government in the USA" — story beats: thirteen British colonies, heavily taxed and governing themselves in part, unite for strength, sign the Declaration of Independence in 1776, defeat Britain by 1783, and write a constitution that splits power between federal government and states (History expansion, 2026-11-15; original placement slug: modern-world/american-independence) | Samoa, *Social Studies, Year 11 Book One*, printed p. 14 |
+
+Samoa's own way (Book 8 — y11-book-1 (Social Studies, Year 11 Book One)): Samoa's Mau is taught twice over — once as world-style civil-rights history beside Black America's movement (fact sheets, timelines, a mock newspaper), and once from inside, through a Samoan mother's diary and photo album; the book closes the story with New Zealand's 2002 apology, read through Samoan newspaper reactions. That way is stocked here as the way Samoa teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 13 countries (Ethiopia, France, United States, Ecuador, Kuwait, Montenegro, Dominican Republic, Cambodia, Palestine, Colombia, Mauritania, Mongolia, Samoa).**
+
+Searchable tags: Samoa, History expansion 2026-11-15, modern-world/american-independence

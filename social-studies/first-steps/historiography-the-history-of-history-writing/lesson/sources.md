@@ -1,6 +1,6 @@
 # Sources — Historiography — history of history-writing
 
-countries: Ethiopia, Gambia, Bangladesh, Ecuador, Indonesia, Dominican Republic, United Kingdom, Bolivia, Iran, Palestine, Colombia
+countries: Ethiopia, Gambia, Bangladesh, Ecuador, Indonesia, Dominican Republic, United Kingdom, Bolivia, Iran, Palestine, Colombia, Samoa
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -291,3 +291,27 @@ This book is a teacher guide. The Papua New Guinea rows below stand on it as tea
 Papua New Guinea's own way (Book 11 — G12 History TG SBC (teacher guide, English)): Grade 12 turns the 7-unit architecture into critical history — sources and how religions spread, why empires fell, Christianity's reshaping of cultures, the UN and the SDGs judged, PNG's own constitutional National Goals, exploitation of Papua New Guineans, the disasters that remade PNG towns (Rabaul 1994), and a final inquiry unit on media, ideology and the powerful individuals — Gaddafi the worked example — who bend societies. That way is stocked here as the way Papua New Guinea teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 11 countries (Ethiopia, Gambia, Bangladesh, Ecuador, Indonesia, Dominican Republic, United Kingdom, Bolivia, Iran, Palestine, Colombia) — unchanged; the Papua New Guinea placement(s) above are teacher-guide evidence only, counted nowhere. Papua New Guinea is not added to this lesson's countries line.**
+
+
+## History expansion (2026-11-15) — Samoa stocked
+
+**Book 10 — y12-history (student book, English)**
+- Title as printed: History, Year 12
+- Grade: Year 12 (student/teacher: STUDENT); authors Tanya Samu, Valensia Sinisa, Tui Faasili
+- Publisher: Government of Sāmoa, Ministry of Education, Sports and Culture; year 2004; ISBN 982-517-060-3
+- PDF pages: 203 (cover/title page verified against the record title; grabbed via the TSV release URL)
+- Verdict: COMPLETE
+- Tally: 42 placements — 10 to existing lessons, 32 NEW LESSON NEEDED
+- Samoa's own way: A full senior History course in six parts — Migration; Imperialism, Colonialism, Nationalism and Decolonisation; Conflict; International Relations; Economic Transformations; Systems of Power and Authority — with Samoa's own story (origins, civil wars, Mau, treaties, independence) as the home case against Palestine/Israel, Japan, Russia and China. Note: the book dates the Black Saturday march "28 December 1928" in Part 2 Unit 4 but 1929 elsewhere — an internal inconsistency in the source.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Part 1, Unit 1, weighing the theories — story beats: three rival origin stories are tested against kinds of evidence — archaeology, DNA, language, oral tradition — and the eastern (Heyerdahl/Kon-Tiki, kumara, ruin shapes) theory is judged far weaker than the South East Asian one (History expansion, 2026-11-15; original placement slug: first-steps/historiography-the-history-of-history-writing) | Samoa, *History, Year 12*, printed pp. 7–12 |
+| Samoa part — Part 1, Unit 3, "discovery" contested — story beats: Europeans are written up at home as the "discoverers" of the Pacific, but the book sets the Sāmoan view against it — "we believe our ancestors and ancestral gods were the first discoverers of our world"; the newcomers are papalagi, "heaven-breakers" (History expansion, 2026-11-15; original placement slug: first-steps/historiography-the-history-of-history-writing) | Samoa, *History, Year 12*, printed p. 25 |
+
+Samoa's own way (Book 10 — y12-history (History, Year 12)): A full senior History course in six parts — Migration; Imperialism, Colonialism, Nationalism and Decolonisation; Conflict; International Relations; Economic Transformations; Systems of Power and Authority — with Samoa's own story (origins, civil wars, Mau, treaties, independence) as the home case against Palestine/Israel, Japan, Russia and China. Note: the book dates the Black Saturday march "28 December 1928" in Part 2 Unit 4 but 1929 elsewhere — an internal inconsistency in the source. That way is stocked here as the way Samoa teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 12 countries (Ethiopia, Gambia, Bangladesh, Ecuador, Indonesia, Dominican Republic, United Kingdom, Bolivia, Iran, Palestine, Colombia, Samoa).**
+
+Searchable tags: Samoa, History expansion 2026-11-15, first-steps/historiography-the-history-of-history-writing

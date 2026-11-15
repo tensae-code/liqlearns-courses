@@ -1,6 +1,6 @@
 # Sources — The Pakistan Movement — from Congress to the Muslim League
 
-countries: Pakistan
+countries: Pakistan, Samoa
 
 **Book (Pakistan — Social Studies, Class 4 (PCTB, SNC 2020)):** *معاشرتی علوم — Social Studies, Class 4* (student book, Urdu) — Pakistan. Title as printed: معاشرتی علوم — Social Studies, Class 4 — based on the Single National Curriculum 2020 ("One Nation, One Curriculum"). Grade: Grade 4 / Class 4 (student/teacher: STUDENT). Publisher: Punjab Curriculum and Textbook Board (PCTB), Lahore; year: SNC 2020 edition, printed February 2022 (print-run table on the contents page); no ISBN printed. PDF pages: 108 (printed pp. 1–104 + national anthem page; read IN PLACE at phase3-staging; the copy is an image-only scan — read in full from page renders after OCR proved unusable under machine contention; cover and title page verified against the record). Verdict: COMPLETE. Tally: 9 placements — 5 to existing lessons, 4 NEW LESSON NEEDED. Non-History parts (named, not placed): Chapter 1 Citizenship (printed pp. 1–14 — citizen, global/digital citizen, human rights, Dr Ruth Pfau; Civics); Chapter 3 State and Government (printed pp. 27–44 — the 1973 Constitution, federal and provincial government, democracy and elections; Civics); Chapter 5 Geography (printed pp. 61–93 — globe and map skills, landforms of Pakistan, weather and climate, natural disasters, population); Chapter 6 Economics (printed pp. 94–104 — needs and choices, goods and services, inflation, trade, banks). Placements at liqlearns-courses-work/expansion-history-2026-11-15/pakistan-placements.md.
 
@@ -36,3 +36,27 @@ Pakistan's own way (History 8 (PCTB, SNC 2022), Grade 8 / Class 8 (student/teach
 **Acceptance count: taught in 1 country (Pakistan).**
 
 Searchable tags: Pakistan, The Pakistan Movement — from Congress to the Muslim League, modern-world, History expansion 2026-11-15
+
+
+## History expansion (2026-11-15) — Samoa stocked
+
+**Book 11 — y13-history (student book, English)**
+- Title as printed: History, Year 13
+- Grade: Year 13 (student/teacher: STUDENT); authors Tanya Samu, Valensia Sinisa, Tui Faasili
+- Publisher: Government of Sāmoa, Ministry of Education, Sports and Culture; year 2004; ISBN 982-517-083-2
+- PDF pages: 163 (cover/title page verified against the record title; grabbed via the TSV release URL)
+- Verdict: COMPLETE
+- Tally: 44 placements — 11 to existing lessons, 33 NEW LESSON NEEDED
+- Samoa's own way: The same six-part frame as Year 12 (Migration; Imperialism, Colonialism, Nationalism and Decolonisation; Conflict; International Relations; Economic Transformations; Systems of Power and Authority), but the case studies go worldwide — Germany for migration, the Balkans, Soviet satellites and Vietnam for decolonisation, India for conflict, Stalin and Gandhi for power — with Samoa drawn in as the comparison: the matai system as a system of power, New Zealand's administration of Samoa set beside Britain's India, and Samoa as the first Pacific nation to regain independence as India was the first British colony to do so.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Part 3, Units 2–3 — story beats: the Congress (founded 1885) grows from polite petitions to demanding self-government, but Muslims fear a Hindu-dominated free India — Hindi replaces Urdu as official language in 1900, the Muslim League forms under Jinnah, wins separate electorates in the Lucknow Pact (1916), then rejects the Nehru Report's quarter-share as too little: a "parting of the ways" (History expansion, 2026-11-15; original placement slug: modern-world/the-indian-national-congress-and-the-muslim-league — stocked into modern-world/the-pakistan-movement-from-congress-to-the-muslim-league, the closest existing lesson covering this thing) | Samoa, *History, Year 13*, printed pp. 54, 59–60 |
+| Samoa part — Part 3, Unit 3 — story beats: in 1930 the League first demands a separate Muslim state, its name assembled from Punjab, Afghan Frontier, Kashmir and Baluchistan; at Lahore in 1940 Jinnah declares Hindus and Muslims two nations with different epics, heroes and laws — and in 1946 the League wins 425 of 496 Muslim seats on that single promise (History expansion, 2026-11-15; original placement slug: modern-world/the-two-nation-theory-and-the-demand-for-pakistan — stocked into modern-world/the-pakistan-movement-from-congress-to-the-muslim-league, the closest existing lesson covering this thing) | Samoa, *History, Year 13*, printed pp. 59–61 |
+
+Samoa's own way (Book 11 — y13-history (History, Year 13)): The same six-part frame as Year 12 (Migration; Imperialism, Colonialism, Nationalism and Decolonisation; Conflict; International Relations; Economic Transformations; Systems of Power and Authority), but the case studies go worldwide — Germany for migration, the Balkans, Soviet satellites and Vietnam for decolonisation, India for conflict, Stalin and Gandhi for power — with Samoa drawn in as the comparison: the matai system as a system of power, New Zealand's administration of Samoa set beside Britain's India, and Samoa as the first Pacific nation to regain independence as India was the first British colony to do so. That way is stocked here as the way Samoa teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 2 countries (Pakistan, Samoa).**
+
+Searchable tags: Samoa, History expansion 2026-11-15, modern-world/the-pakistan-movement-from-congress-to-the-muslim-league

@@ -1,6 +1,6 @@
 # Sources — Vietnam — French rule to independence
 
-countries: Cambodia
+countries: Cambodia, Samoa
 
 **Book 5 — History Grade 12 (student book, Khmer)**
 - Title as printed: ប្រវត្តិវិទ្យា ថ្នាក់ទី១២ (History, Grade 12)
@@ -36,3 +36,28 @@ Cambodia's own way (Book 10 — សិក្សាសង្គម ថ្នា�
 **Acceptance count: taught in 1 country (Cambodia).**
 
 Searchable tags: Cambodia, Vietnam — French rule to independence, modern-world, History expansion 2026-11-15
+
+
+## History expansion (2026-11-15) — Samoa stocked
+
+**Book 11 — y13-history (student book, English)**
+- Title as printed: History, Year 13
+- Grade: Year 13 (student/teacher: STUDENT); authors Tanya Samu, Valensia Sinisa, Tui Faasili
+- Publisher: Government of Sāmoa, Ministry of Education, Sports and Culture; year 2004; ISBN 982-517-083-2
+- PDF pages: 163 (cover/title page verified against the record title; grabbed via the TSV release URL)
+- Verdict: COMPLETE
+- Tally: 44 placements — 11 to existing lessons, 33 NEW LESSON NEEDED
+- Samoa's own way: The same six-part frame as Year 12 (Migration; Imperialism, Colonialism, Nationalism and Decolonisation; Conflict; International Relations; Economic Transformations; Systems of Power and Authority), but the case studies go worldwide — Germany for migration, the Balkans, Soviet satellites and Vietnam for decolonisation, India for conflict, Stalin and Gandhi for power — with Samoa drawn in as the comparison: the matai system as a system of power, New Zealand's administration of Samoa set beside Britain's India, and Samoa as the first Pacific nation to regain independence as India was the first British colony to do so.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Part 2, Unit 3 — story beats: Vietnam, a nation that had already endured a thousand years of Chinese rule (100 BC–AD 900), resists the French and is beaten by 1885; in 1887 France welds Vietnam, Cambodia and Laos — different languages, different cultures — into French Indochina, exports its sugar and rice cheaply, and leaves its peasants poor and shut out of government (History expansion, 2026-11-15; original placement slug: modern-world/france-conquers-vietnam-and-builds-indochina — stocked into modern-world/vietnam-french-rule-to-independence, the closest existing lesson covering this thing) | Samoa, *History, Year 13*, printed p. 40 |
+| Samoa part — Part 2, Unit 4 — story beats: Ho Chi Minh, schooled by travel through America, Africa, India, Russia and China, builds the Vietminh in exile, declares independence in 1945, and when France re-invades (1947) Giap abandons set battles for ambush, mines and hit-and-run — women smuggle gun parts, children carry food — until France baits a trap at Dien Bien Phu in March 1954 with 16,500 men (History expansion, 2026-11-15; original placement slug: modern-world/ho-chi-minh-and-the-vietminhs-guerrilla-war — stocked into modern-world/vietnam-french-rule-to-independence, the closest existing lesson covering this thing) | Samoa, *History, Year 13*, printed pp. 41–44 |
+| Samoa part — Part 2, Unit 4 — story beats: Dien Bien Phu falls; at Geneva the great powers and both Vietnams divide the country — Ho Chi Minh's communist Democratic Republic in the north, Bao Dai's state in the south, France gone for good — while American advisers, arriving from 1950 under the "domino theory", are already choosing the south's side (History expansion, 2026-11-15; original placement slug: modern-world/the-geneva-accords-and-divided-vietnam — stocked into modern-world/vietnam-french-rule-to-independence, the closest existing lesson covering this thing) | Samoa, *History, Year 13*, printed pp. 44–45 |
+
+Samoa's own way (Book 11 — y13-history (History, Year 13)): The same six-part frame as Year 12 (Migration; Imperialism, Colonialism, Nationalism and Decolonisation; Conflict; International Relations; Economic Transformations; Systems of Power and Authority), but the case studies go worldwide — Germany for migration, the Balkans, Soviet satellites and Vietnam for decolonisation, India for conflict, Stalin and Gandhi for power — with Samoa drawn in as the comparison: the matai system as a system of power, New Zealand's administration of Samoa set beside Britain's India, and Samoa as the first Pacific nation to regain independence as India was the first British colony to do so. That way is stocked here as the way Samoa teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 2 countries (Cambodia, Samoa).**
+
+Searchable tags: Samoa, History expansion 2026-11-15, modern-world/vietnam-french-rule-to-independence

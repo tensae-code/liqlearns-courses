@@ -1,6 +1,6 @@
 # Sources — The end of 'real socialism' and the Cold War
 
-countries: Costa Rica, Dominican Republic, Bolivia, Colombia, Mauritania, South Sudan, Mongolia
+countries: Costa Rica, Dominican Republic, Bolivia, Colombia, Mauritania, South Sudan, Mongolia, Samoa
 
 **Book (Costa Rica cr-coned-10):** Title as printed: Antología CONED — Estudios Sociales, Código 80023, Nivel Décimo año Grade: Grade 10 (student/teacher: STUDENT) Publisher: Universidad Estatal a Distancia (UNED) / Colegio Nacional de Educación a Distancia (CONED); year 2017 file; no ISBN printed PDF pages: 255 (cover verified against the record title; byte size 11,879,619 and page count match the record. Route note: the books.json tree path returned HTTP 404, so the book was grabbed via its TSV release asset in mid-size-books-5, matched exactly) Verdict: COMPLETE Tally: 13 placements — 6 to existing lessons, 7 NEW LESSON NEEDED Costa Rica's own way: The Décimo anthology is world history with a geopolitical lens — imperialism, the two world wars, the Russian revolution, the Depression, the bipolar Cold War world and today's multipolar tensions — read from Costa Rica outward to Latin America and the globe. Non-History parts (named, not placed): Unidad 3 Dinámica poblacional y movilización espacial (population dynamics in the 20th–21st centuries, Costa Rican population change, internal and international mobility, printed pp. 198–254 — Geography/demography). Placements at liqlearns-courses-work/expansion-history-2026-11-15/costa-rica-placements.md.
 
@@ -130,3 +130,26 @@ Mongolia's own way (Book 4 — mn-g9h Түүх IX (History IX)): modern history 
 **Acceptance count: taught in 7 countries (Costa Rica, Dominican Republic, Bolivia, Colombia, Mauritania, South Sudan, Mongolia).**
 
 Searchable tags: Mongolia, History expansion 2026-11-15, modern-world/end-of-real-socialism-and-the-cold-war
+
+
+## History expansion (2026-11-15) — Samoa stocked
+
+**Book 11 — y13-history (student book, English)**
+- Title as printed: History, Year 13
+- Grade: Year 13 (student/teacher: STUDENT); authors Tanya Samu, Valensia Sinisa, Tui Faasili
+- Publisher: Government of Sāmoa, Ministry of Education, Sports and Culture; year 2004; ISBN 982-517-083-2
+- PDF pages: 163 (cover/title page verified against the record title; grabbed via the TSV release URL)
+- Verdict: COMPLETE
+- Tally: 44 placements — 11 to existing lessons, 33 NEW LESSON NEEDED
+- Samoa's own way: The same six-part frame as Year 12 (Migration; Imperialism, Colonialism, Nationalism and Decolonisation; Conflict; International Relations; Economic Transformations; Systems of Power and Authority), but the case studies go worldwide — Germany for migration, the Balkans, Soviet satellites and Vietnam for decolonisation, India for conflict, Stalin and Gandhi for power — with Samoa drawn in as the comparison: the matai system as a system of power, New Zealand's administration of Samoa set beside Britain's India, and Samoa as the first Pacific nation to regain independence as India was the first British colony to do so.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Part 2, Unit 2 — story beats: Gorbachev's glasnost and perestroika uncork decades of resentment; in 1989 nation after nation — Poland, East Germany, Czechoslovakia, Romania, Bulgaria — walks out of the COMECON bloc, East Germany itself vanishes into reunification in October 1990, and the Baltic and Central Asian republics follow the USSR into history (History expansion, 2026-11-15; original placement slug: modern-world/the-collapse-of-the-soviet-bloc-1989 — stocked into modern-world/end-of-real-socialism-and-the-cold-war, the closest existing lesson covering this thing) | Samoa, *History, Year 13*, printed pp. 33–37 |
+
+Samoa's own way (Book 11 — y13-history (History, Year 13)): The same six-part frame as Year 12 (Migration; Imperialism, Colonialism, Nationalism and Decolonisation; Conflict; International Relations; Economic Transformations; Systems of Power and Authority), but the case studies go worldwide — Germany for migration, the Balkans, Soviet satellites and Vietnam for decolonisation, India for conflict, Stalin and Gandhi for power — with Samoa drawn in as the comparison: the matai system as a system of power, New Zealand's administration of Samoa set beside Britain's India, and Samoa as the first Pacific nation to regain independence as India was the first British colony to do so. That way is stocked here as the way Samoa teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 8 countries (Costa Rica, Dominican Republic, Bolivia, Colombia, Mauritania, South Sudan, Mongolia, Samoa).**
+
+Searchable tags: Samoa, History expansion 2026-11-15, modern-world/end-of-real-socialism-and-the-cold-war

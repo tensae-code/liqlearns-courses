@@ -1,6 +1,6 @@
 # Sources — New Zealand — Māori and colonisation
 
-countries: Cambodia
+countries: Cambodia, Samoa
 
 **Book 4 — History Grade 11 (student book, Khmer)**
 - Title as printed: ប្រវត្តិវិទ្យា ថ្នាក់ទី១១ (History, Grade 11)
@@ -22,3 +22,29 @@ Cambodia's own way (Book 4 — ប្រវត្តិវិទ្យា ថ្
 **Acceptance count: taught in 1 country (Cambodia).**
 
 Searchable tags: Cambodia, New Zealand — Māori and colonisation, modern-world, History expansion 2026-11-15
+
+
+## History expansion (2026-11-15) — Samoa stocked
+
+**Book 3 — y9-book-2 (student book, English)**
+- Title as printed: Social Studies, Year 9 Book Two
+- Grade: Year 9 (student/teacher: STUDENT)
+- Publisher: Government of Sāmoa, Department of Education; year 2002, reprinted 2004 with minor amendments; ISBN 982-517-016-6
+- PDF pages: 84 (cover/title page verified against the record title; grabbed via the TSV release URL)
+- Verdict: COMPLETE
+- Tally: 11 placements — 5 to existing lessons, 6 NEW LESSON NEEDED
+- Samoa's own way: History is taught through PLACES — a peninsula, a church, a protest office — read from photographs, maps and oral sources; Samoa's Mau story and the ancient Polynesian voyages carry the national narrative inside a geography-shaped book.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/samoa-placements.md.
+
+Non-History parts (named, not placed): Unit 1 Topics 1 and 3 — ordinary and natural places, settlement patterns in Samoa and New Zealand, traditional rainforest uses (Geography, printed pp. 5–17, 27–32); Unit 2 Topics 1 and 3 — the push-pull migration model and present-day Samoan migration (Geography, pp. 44–49, 57–63); Unit 3 Social Studies Skills: Mapping (Geography skills, pp. 68–79).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 1, Activity 15 "Moving New Zealand's capital city" — story beats: Kororareka (Russell), a missionary and whaling centre, gives way to Auckland as capital in 1840, then war in the north and the pull of a central seat move government to Wellington in 1865 (History expansion, 2026-11-15; original placement slug: modern-world/new-zealands-moving-capital — stocked into modern-world/new-zealand-maori-and-colonisation, the closest existing lesson covering this thing) | Samoa, *Social Studies, Year 9 Book Two*, printed p. 38 |
+| Samoa part — Unit 2, Topic 4 "New Zealand: A Nation Of Migrants" — story beats: Maori arrive by canoe from Polynesia around 800 AD and their arrival stories pass down orally; from the 1860s some 300,000 mostly British settlers chase cheap land, followed by Scandinavians, Germans, Indians, Samoan and Tongan workers in the 1960s–70s, refugees from Cambodia, Laos and Vietnam, Fiji Indians after the 1987 coups, and Asian business migrants (History expansion, 2026-11-15; original placement slug: modern-world/new-zealand-a-nation-of-migrants — stocked into modern-world/new-zealand-maori-and-colonisation, the closest existing lesson covering this thing) | Samoa, *Social Studies, Year 9 Book Two*, printed pp. 64–65 |
+
+Samoa's own way (Book 3 — y9-book-2 (Social Studies, Year 9 Book Two)): History is taught through PLACES — a peninsula, a church, a protest office — read from photographs, maps and oral sources; Samoa's Mau story and the ancient Polynesian voyages carry the national narrative inside a geography-shaped book. That way is stocked here as the way Samoa teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 2 countries (Cambodia, Samoa).**
+
+Searchable tags: Samoa, History expansion 2026-11-15, modern-world/new-zealand-maori-and-colonisation

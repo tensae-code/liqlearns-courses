@@ -1,0 +1,11 @@
+# Karl Marx and the idea of communism — multiple choice
+
+Pick the one right answer.
+
+**1. (Sub lesson 1)** This part of the story is mainly about —
+a) Part 6, Unit 3  b) a different part of this story, told in another lesson of this expansion  c) a different part of this story, told in another lesson of this expansion
+**Answer: a) Part 6, Unit 3** — this part tells Part 6, Unit 3
+
+**2. (Sub lesson 1)** Which of these belongs in this part of the story?
+a) Marx, watching industrial Britain's rich-poor gap from London exile, casts history as class warfare — capitalists against proletariat — ending in revolution, a transitional socialism, and a classless communism where the state withers away; Lenin, whose brother was executed for plotting against the Tsar, turns the theory into a disciplined Bolshevik party  b) a different part of this story, told in another lesson of this expansion
+**Answer: a)** — Marx, watching industrial Britain's rich-poor gap from London exile, casts history as class warfare — capitalists against proletariat — ending in revolution, a transitional socialism, and a classless communism where the state withers away; Lenin, whose brother was executed for plotting against the Tsar, turns the theory into a disciplined Bolshevik party

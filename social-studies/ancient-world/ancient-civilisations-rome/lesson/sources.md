@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — Rome
 
-countries: Ethiopia, Brazil, France, Poland, Turkey, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro, Dominican Republic, Egypt, Pakistan, Bolivia, Iran, Cambodia, Palestine, Colombia, South Sudan, Libya, Sri Lanka, Mongolia
+countries: Ethiopia, Brazil, France, Poland, Turkey, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro, Dominican Republic, Egypt, Pakistan, Bolivia, Iran, Cambodia, Palestine, Colombia, South Sudan, Libya, Sri Lanka, Mongolia, Samoa
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -494,3 +494,28 @@ Mongolia's own way (Book 2 — mn-g6h Түүх VI (History VI)): the child's fir
 **Acceptance count: taught in 23 countries (Ethiopia, Brazil, France, Poland, Turkey, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro, Dominican Republic, Egypt, Pakistan, Bolivia, Iran, Cambodia, Palestine, Colombia, South Sudan, Libya, Sri Lanka, Mongolia).**
 
 Searchable tags: Mongolia, History expansion 2026-11-15, ancient-world/ancient-civilisations-rome
+
+
+## History expansion (2026-11-15) — Samoa stocked
+
+**Book 5 — y10-book-1 (student book, English)**
+- Title as printed: Social Studies, Year 10 Book One
+- Grade: Year 10 (student/teacher: STUDENT)
+- Publisher: Government of Samoa, Department of Education; year 2001; ISBN 982-517-009-3
+- PDF pages: 100 (cover/title page verified against the record title; grabbed via the books.json tree path)
+- Verdict: COMPLETE
+- Tally: 12 placements — 5 to existing lessons, 7 NEW LESSON NEEDED
+- Samoa's own way: Samoa's political history is the spine of a Civics book — German rule, the 1914 takeover, mandate and trusteeship are taught first, and world human-rights history is anchored back to Samoa's own Mau and influenza story on a two-page timeline (printed pp. 46–47).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/samoa-placements.md.
+
+Non-History parts (named, not placed): Unit 1 Topic 2 — casting votes, making laws, the 2001 general election (Civics, printed pp. 8–18); Unit 1 Topic 3 — the Japanese government and its Peace Constitution (Civics, pp. 19–22); Unit 2 — the United Nations today, Amnesty International, protest action and social justice today (Civics, pp. 33–45, 48–58); Unit 3 Skills In Social Studies (skills, pp. 59–82); Unit 4 Skills In Action — census-taking and organisations in Samoa today (skills/Civics, pp. 83–98).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 4, Activity 3 "Census Information" — story beats: Emperor Augustus orders a census-tax of the whole Roman Empire, so Joseph and Mary travel from Nazareth to Bethlehem to be counted — the census Luke's Gospel makes famous (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-rome) | Samoa, *Social Studies, Year 10 Book One*, printed p. 88 |
+
+Samoa's own way (Book 5 — y10-book-1 (Social Studies, Year 10 Book One)): Samoa's political history is the spine of a Civics book — German rule, the 1914 takeover, mandate and trusteeship are taught first, and world human-rights history is anchored back to Samoa's own Mau and influenza story on a two-page timeline (printed pp. 46–47). That way is stocked here as the way Samoa teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 24 countries (Ethiopia, Brazil, France, Poland, Turkey, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro, Dominican Republic, Egypt, Pakistan, Bolivia, Iran, Cambodia, Palestine, Colombia, South Sudan, Libya, Sri Lanka, Mongolia, Samoa).**
+
+Searchable tags: Samoa, History expansion 2026-11-15, ancient-world/ancient-civilisations-rome

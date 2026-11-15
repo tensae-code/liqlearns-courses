@@ -1,6 +1,6 @@
 # Sources — Pacific voyaging and island exchange
 
-countries: Nauru, Niue, Tuvalu, Fiji
+countries: Nauru, Niue, Tuvalu, Fiji, Samoa
 
 **Book 1:** *People and the Sea in the Pacific — A Social Sciences related reader for Primary School, Book 1 (Education for Sustainable Development / Education for Sustainable Living)* (student book, English) — Nauru. Title as printed: People and the Sea in the Pacific — A Social Sciences related reader for Primary School, Book 1 (Education for Sustainable Development / Education for Sustainable Living). Grade: Years 5–6 (Grade 5) (student/teacher: STUDENT). Publisher: Institute of Education, University of the South Pacific (Tonga Campus) with UNESCO, sponsored by the Japanese Funds-in-Trust; year 2020; no ISBN printed. PDF pages: 24 (cover/title page verified against the record title; text layer read in full). Verdict: COMPLETE. Records: 3 records / 3 distinct books in the Nauru set / grabbed with grab.py url (release assets) into scratch-small-c/, verified by pdfinfo + cover/title page, deleted after filing. This is a regional USP/UNESCO Education for Sustainable Development reader shared across Pacific island states (the same file is also shelved under Niue); Nauru's local advisors Fay Itaia & Sharon Kam are named in Reader 1's credits. Library debt, as filed: Nauru's shelf holds no Nauru national history or social-studies book at all — only these regional USP/UNESCO ESD readers, byte-identical copies of the files also shelved under Niue (MD5-verified for all three books). Placements at liqlearns-courses-work/expansion-history-2026-11-15/nauru-placements.md.
 
@@ -61,3 +61,28 @@ Fiji's own way (Year 7 Social Science Pupil's Book, Year 7 (student/teacher: STU
 Fiji's own way (History Year 11 — Cultural Interaction and Integration, Unit 1: Origin of Fiji's People (Kilakila Na kena Qele), prepared by Morgan Tuimaleali'ifano, Year 11 (student/teacher: STUDENT)): Year 11 History is a themed course, "Cultural Interaction and Integration" — Fiji's plural society is built up arrival by arrival, with source extracts, mapping and matching exercises. That way is stocked here as the way Fiji teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 4 countries (Nauru, Niue, Tuvalu, Fiji).**
+
+
+## History expansion (2026-11-15) — Samoa stocked
+
+**Book 10 — y12-history (student book, English)**
+- Title as printed: History, Year 12
+- Grade: Year 12 (student/teacher: STUDENT); authors Tanya Samu, Valensia Sinisa, Tui Faasili
+- Publisher: Government of Sāmoa, Ministry of Education, Sports and Culture; year 2004; ISBN 982-517-060-3
+- PDF pages: 203 (cover/title page verified against the record title; grabbed via the TSV release URL)
+- Verdict: COMPLETE
+- Tally: 42 placements — 10 to existing lessons, 32 NEW LESSON NEEDED
+- Samoa's own way: A full senior History course in six parts — Migration; Imperialism, Colonialism, Nationalism and Decolonisation; Conflict; International Relations; Economic Transformations; Systems of Power and Authority — with Samoa's own story (origins, civil wars, Mau, treaties, independence) as the home case against Palestine/Israel, Japan, Russia and China. Note: the book dates the Black Saturday march "28 December 1928" in Part 2 Unit 4 but 1929 elsewhere — an internal inconsistency in the source.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Part 1, Unit 2, deliberate or accidental voyages — story beats: the Hōkūle'a's 1985 Rarotonga-to-Bay of Islands crossing, timed to the pohutukawa bloom as the legends said, is used to argue the ancestors voyaged deliberately and two-way, not by one-way drift (History expansion, 2026-11-15; original placement slug: ancient-world/polynesian-voyaging-and-settlement-of-the-pacific — stocked into ancient-world/pacific-voyaging-and-island-exchange, the closest existing lesson covering this thing) | Samoa, *History, Year 12*, printed pp. 16–17 |
+| Samoa part — Part 1, Unit 2, Tongan stories — story beats: Tongan royalty sail to Sāmoa for highborn wives — Prince Ngata's marriage founds Tonga's Tu'i Kanokupolu line, and Vaetoifaga's daughter Salamasina grows up to hold all four pāpā titles as Sāmoa's first tafa'ifā (History expansion, 2026-11-15; original placement slug: ancient-world/samoa-tonga-fiji-interisland-voyages — stocked into ancient-world/pacific-voyaging-and-island-exchange, the closest existing lesson covering this thing) | Samoa, *History, Year 12*, printed pp. 18–19 |
+| Samoa part — Part 1, Unit 2, Fijian stories (plot summaries only) — story beats: the Tu'i Fiti's sons come to conquer the warrior Vaea, who lifts their great boat into the trees and spares them for their sister Apaula; her son is murdered in Fiji, she returns weeping — the river Loimata o Apaula, "Apaula's tears" — and Vaea's brother Va'atausili regains his strength to avenge him (History expansion, 2026-11-15; original placement slug: ancient-world/samoa-tonga-fiji-interisland-voyages — stocked into ancient-world/pacific-voyaging-and-island-exchange, the closest existing lesson covering this thing) | Samoa, *History, Year 12*, printed pp. 18–19 |
+
+Samoa's own way (Book 10 — y12-history (History, Year 12)): A full senior History course in six parts — Migration; Imperialism, Colonialism, Nationalism and Decolonisation; Conflict; International Relations; Economic Transformations; Systems of Power and Authority — with Samoa's own story (origins, civil wars, Mau, treaties, independence) as the home case against Palestine/Israel, Japan, Russia and China. Note: the book dates the Black Saturday march "28 December 1928" in Part 2 Unit 4 but 1929 elsewhere — an internal inconsistency in the source. That way is stocked here as the way Samoa teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 5 countries (Nauru, Niue, Tuvalu, Fiji, Samoa).**
+
+Searchable tags: Samoa, History expansion 2026-11-15, ancient-world/pacific-voyaging-and-island-exchange

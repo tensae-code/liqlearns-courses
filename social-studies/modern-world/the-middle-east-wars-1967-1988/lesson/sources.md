@@ -1,6 +1,6 @@
 # Sources — The Middle East wars, 1967–1988
 
-countries: Turkey, Syria, Palestine
+countries: Turkey, Syria, Palestine, Samoa
 
 **Book 3:** *Ortaöğretim Türkiye Cumhuriyeti İnkılap Tarihi ve Atatürkçülük — 12. Sınıf Ders Kitabı (History of the Turkish Republic's Revolution and Kemalism, Grade 12 Textbook)* (student book, Turkish) — Turkey. Title as printed: Ortaöğretim Türkiye Cumhuriyeti İnkılap Tarihi ve Atatürkçülük — 12. Sınıf Ders Kitabı (History of the Turkish Republic's Revolution and Kemalism, Grade 12 Textbook). Grade: Grade 12 (student/teacher: STUDENT). Publisher: M.E.B. Yayınları (Ministry of National Education Publications), Türkiye, 2023 (per record); ISBN 978-605-7854-28-5. PDF pages: 266 (cover verified: İnkılap Tarihi ve Atatürkçülük, 12. Sınıf Ders Kitabı, with Atatürk among a crowd of the republic's citizens). Verdict: COMPLETE. Tally: 19 placements — 5 to existing lessons, 14 NEW LESSON NEEDED. Records: books.json, in_pushed; the repo tree/blob routes returned 404 from this host, so the book was read from the record's own archive.org source_url — the download is exactly 62,039,851 bytes, matching the record's size_bytes. The İnkılap record in targets-links.json whose URL is the Telegram channel root is a channel-root twin of this same secured Grade 12 book and is not filed separately. Read in full from its text layer; cover verified visually. Non-History parts named: none — the whole book is History (the health and economy sections of Unit 3 are taught as parts of the Revolution's reforms and are placed with them). Placements at liqlearns-courses-work/expansion-history-2026-11-15/turkey-placements.md.
 
@@ -51,3 +51,27 @@ Palestine's own way (Book 12 — G10 Geography and Modern & Contemporary History
 **Acceptance count: taught in 3 countries (Turkey, Syria, Palestine).**
 
 Searchable tags: Palestine, The Middle East wars, 1967–1988, modern-world, History expansion 2026-11-15
+
+
+## History expansion (2026-11-15) — Samoa stocked
+
+**Book 10 — y12-history (student book, English)**
+- Title as printed: History, Year 12
+- Grade: Year 12 (student/teacher: STUDENT); authors Tanya Samu, Valensia Sinisa, Tui Faasili
+- Publisher: Government of Sāmoa, Ministry of Education, Sports and Culture; year 2004; ISBN 982-517-060-3
+- PDF pages: 203 (cover/title page verified against the record title; grabbed via the TSV release URL)
+- Verdict: COMPLETE
+- Tally: 42 placements — 10 to existing lessons, 32 NEW LESSON NEEDED
+- Samoa's own way: A full senior History course in six parts — Migration; Imperialism, Colonialism, Nationalism and Decolonisation; Conflict; International Relations; Economic Transformations; Systems of Power and Authority — with Samoa's own story (origins, civil wars, Mau, treaties, independence) as the home case against Palestine/Israel, Japan, Russia and China. Note: the book dates the Black Saturday march "28 December 1928" in Part 2 Unit 4 but 1929 elsewhere — an internal inconsistency in the source.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Part 3, Unit 4 — story beats: fearing defeat, Israel strikes first on 5 June 1967, destroys Egypt's air force on the ground, reaches the Suez Canal in three days, takes the West Bank from Jordan and the Golan Heights from Syria before the UN ceasefire — a victory that settles nothing (History expansion, 2026-11-15; original placement slug: modern-world/the-six-day-war-1967 — stocked into modern-world/the-middle-east-wars-1967-1988, the closest existing lesson covering this thing) | Samoa, *History, Year 12*, printed pp. 90–91 |
+| Samoa part — Part 3, Units 4–6 — story beats: Sadat expels the Soviets, then attacks with Syria on 6 October 1973 to force the superpowers to act; Israel wins at high cost, and the book's arms tables show the pattern — the USSR arming the Arabs, the USA arming Israel, each fuelling the conflict it claims to calm (History expansion, 2026-11-15; original placement slug: modern-world/the-1973-war-and-superpower-arms-in-the-middle-east — stocked into modern-world/the-middle-east-wars-1967-1988, the closest existing lesson covering this thing) | Samoa, *History, Year 12*, printed pp. 91–96 |
+
+Samoa's own way (Book 10 — y12-history (History, Year 12)): A full senior History course in six parts — Migration; Imperialism, Colonialism, Nationalism and Decolonisation; Conflict; International Relations; Economic Transformations; Systems of Power and Authority — with Samoa's own story (origins, civil wars, Mau, treaties, independence) as the home case against Palestine/Israel, Japan, Russia and China. Note: the book dates the Black Saturday march "28 December 1928" in Part 2 Unit 4 but 1929 elsewhere — an internal inconsistency in the source. That way is stocked here as the way Samoa teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 4 countries (Turkey, Syria, Palestine, Samoa).**
+
+Searchable tags: Samoa, History expansion 2026-11-15, modern-world/the-middle-east-wars-1967-1988

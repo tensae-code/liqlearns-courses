@@ -1,6 +1,6 @@
 # Sources — Dating the past — calendars, timelines and periods
 
-countries: Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia
+countries: Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Samoa
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -1148,3 +1148,150 @@ Mongolia's own way (Book 4 — mn-g9h Түүх IX (History IX)): modern history 
 **Acceptance count: taught in 30 countries (Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia).**
 
 Searchable tags: Mongolia, History expansion 2026-11-15, first-steps/dating-the-past
+
+
+## History expansion (2026-11-15) — Samoa stocked
+
+**Book 3 — y9-book-2 (student book, English)**
+- Title as printed: Social Studies, Year 9 Book Two
+- Grade: Year 9 (student/teacher: STUDENT)
+- Publisher: Government of Sāmoa, Department of Education; year 2002, reprinted 2004 with minor amendments; ISBN 982-517-016-6
+- PDF pages: 84 (cover/title page verified against the record title; grabbed via the TSV release URL)
+- Verdict: COMPLETE
+- Tally: 11 placements — 5 to existing lessons, 6 NEW LESSON NEEDED
+- Samoa's own way: History is taught through PLACES — a peninsula, a church, a protest office — read from photographs, maps and oral sources; Samoa's Mau story and the ancient Polynesian voyages carry the national narrative inside a geography-shaped book.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/samoa-placements.md.
+
+Non-History parts (named, not placed): Unit 1 Topics 1 and 3 — ordinary and natural places, settlement patterns in Samoa and New Zealand, traditional rainforest uses (Geography, printed pp. 5–17, 27–32); Unit 2 Topics 1 and 3 — the push-pull migration model and present-day Samoan migration (Geography, pp. 44–49, 57–63); Unit 3 Social Studies Skills: Mapping (Geography skills, pp. 68–79).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 1, Activity 16 "Time Line" — story beats: learners build a chronological "history road" from the Mau's founding, the 1914 takeover, independence in 1962 and the cyclone that destroyed the Mau office, down to their own birth year (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Samoa, *Social Studies, Year 9 Book Two*, printed p. 41 |
+
+Samoa's own way (Book 3 — y9-book-2 (Social Studies, Year 9 Book Two)): History is taught through PLACES — a peninsula, a church, a protest office — read from photographs, maps and oral sources; Samoa's Mau story and the ancient Polynesian voyages carry the national narrative inside a geography-shaped book. That way is stocked here as the way Samoa teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 5 — y10-book-1 (student book, English)**
+- Title as printed: Social Studies, Year 10 Book One
+- Grade: Year 10 (student/teacher: STUDENT)
+- Publisher: Government of Samoa, Department of Education; year 2001; ISBN 982-517-009-3
+- PDF pages: 100 (cover/title page verified against the record title; grabbed via the books.json tree path)
+- Verdict: COMPLETE
+- Tally: 12 placements — 5 to existing lessons, 7 NEW LESSON NEEDED
+- Samoa's own way: Samoa's political history is the spine of a Civics book — German rule, the 1914 takeover, mandate and trusteeship are taught first, and world human-rights history is anchored back to Samoa's own Mau and influenza story on a two-page timeline (printed pp. 46–47).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/samoa-placements.md.
+
+Non-History parts (named, not placed): Unit 1 Topic 2 — casting votes, making laws, the 2001 general election (Civics, printed pp. 8–18); Unit 1 Topic 3 — the Japanese government and its Peace Constitution (Civics, pp. 19–22); Unit 2 — the United Nations today, Amnesty International, protest action and social justice today (Civics, pp. 33–45, 48–58); Unit 3 Skills In Social Studies (skills, pp. 59–82); Unit 4 Skills In Action — census-taking and organisations in Samoa today (skills/Civics, pp. 83–98).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 4, census timelines — story beats: learners build two timelines — censuses from Babylon in 3800 BC through China, Persia, Greece, Egypt, India and Rome, and New Zealand's census story from the 1840 Treaty of Waitangi, the 1851 first census and the Depression and war postponements to 2001 (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Samoa, *Social Studies, Year 10 Book One*, printed pp. 88–90 |
+
+Samoa's own way (Book 5 — y10-book-1 (Social Studies, Year 10 Book One)): Samoa's political history is the spine of a Civics book — German rule, the 1914 takeover, mandate and trusteeship are taught first, and world human-rights history is anchored back to Samoa's own Mau and influenza story on a two-page timeline (printed pp. 46–47). That way is stocked here as the way Samoa teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 6 — y10-book-2 (student book, English)**
+- Title as printed: Social Studies, Year 10 Book Two
+- Grade: Year 10 (student/teacher: STUDENT)
+- Publisher: Government of Samoa, Department of Education; year 2002; ISBN 982-517-017-4
+- PDF pages: 70 (cover/title page verified against the record title; grabbed via the books.json tree path)
+- Verdict: COMPLETE
+- Tally: 9 placements — 3 to existing lessons, 6 NEW LESSON NEEDED
+- Samoa's own way: Identity is the frame — national identity is explicitly said to be made over time by historical events and kept alive by retold stories and oral histories; Australia is the comparison case, studied through its migration timeline and its reckoning with the Stolen Generation.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/samoa-placements.md.
+
+Non-History parts (named, not placed): Unit 1 Topic 1 personal identity and Topic 4 how identities are made and kept (Identity/Civics, printed pp. 5–10, 23–28); Unit 1 Topic 2's chart of nation-state "birth" years (data table inside the identity topic, p. 12); Unit 3 Changing Places — deforestation and Indonesian transmigration (Geography, pp. 48–63).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 2, Activity 2 "Drawing A Timeline" — story beats: learners scale a timeline (one line = 25 years, 1700–2020) and plot the peoples who migrated to Australia after the Aborigines, from 1770 to the 1980s (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Samoa, *Social Studies, Year 10 Book Two*, printed p. 33 |
+
+Samoa's own way (Book 6 — y10-book-2 (Social Studies, Year 10 Book Two)): Identity is the frame — national identity is explicitly said to be made over time by historical events and kept alive by retold stories and oral histories; Australia is the comparison case, studied through its migration timeline and its reckoning with the Stolen Generation. That way is stocked here as the way Samoa teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 7 — y10-book-3 (student book, English)**
+- Title as printed: Social Studies, Year 10 Book Three
+- Grade: Year 10 (student/teacher: STUDENT)
+- Publisher: Government of Samoa, Department of Education; year 2002; ISBN 982-517-030-1
+- PDF pages: 99 (cover/title page verified against the record title; grabbed via the TSV release URL)
+- Verdict: COMPLETE
+- Tally: 9 placements — 8 to existing lessons, 1 NEW LESSON NEEDED
+- Samoa's own way: World history enters as the Industrial Revolution — taught through British work before and after, child workers' own stories, and a comparison back to Samoa's past and present production; Samoa's own recent past appears as the Falealupo rainforest covenant story.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/samoa-placements.md.
+
+Non-History parts (named, not placed): Unit 1 Access To Resources, Goods And Services — economic and social factors (Economics, printed pp. 5–37); Unit 2 Topic 2 The Reasons For Changes To Participation (Economics, pp. 51–57); Unit 3 Topics 1–3 — development's effects, locating development, points of view (Geography, pp. 60–72); Unit 4 The Role Of Technology in Samoa and Tanzania today (Technology/Geography, pp. 78–95).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 3, Activity 5 "Drawing timelines" — story beats: learners organise the Falealupo events (1990 covenant, 1993 Seacology prize, 1995 walkway gift, 1997 prize and dedication, 1999 elders' fund) into a scaled graphic timeline of words and pictures (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Samoa, *Social Studies, Year 10 Book Three*, printed p. 75 |
+
+Samoa's own way (Book 7 — y10-book-3 (Social Studies, Year 10 Book Three)): World history enters as the Industrial Revolution — taught through British work before and after, child workers' own stories, and a comparison back to Samoa's past and present production; Samoa's own recent past appears as the Falealupo rainforest covenant story. That way is stocked here as the way Samoa teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 8 — y11-book-1 (student book, English)**
+- Title as printed: Social Studies, Year 11 Book One
+- Grade: Year 11 (student/teacher: STUDENT)
+- Publisher: Government of Samoa, Department of Education; year 2003; ISBN 982-517-039-5
+- PDF pages: 122 (cover/title page verified against the record title; grabbed via the TSV release URL)
+- Verdict: COMPLETE
+- Tally: 16 placements — 6 to existing lessons, 10 NEW LESSON NEEDED
+- Samoa's own way: Samoa's Mau is taught twice over — once as world-style civil-rights history beside Black America's movement (fact sheets, timelines, a mock newspaper), and once from inside, through a Samoan mother's diary and photo album; the book closes the story with New Zealand's 2002 apology, read through Samoan newspaper reactions.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/samoa-placements.md.
+
+Non-History parts (named, not placed): Unit 1 Topic 1 What Are Social Institutions (Civics/Sociology, printed pp. 6–10); Unit 3 The Marine Environment (Geography/Environment, pp. 58–96); Unit 4 Skills: Cartoons, Paragraphs And Essays (skills, pp. 97–105); Unit 5 Skills: Inquiry And Research (skills, pp. 106–118).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 1, Activity 4 "Drawing A Graphic Timeline" — story beats: learners draw a "history highway" of black American history from 1502 to 1920 — first Africans, the legal and then smuggled slave trades, abolitionist magazines and societies, Civil War, the Thirteenth Amendment, civil rights and citizenship acts, black men's vote (1870) and all women's vote (1920) (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Samoa, *Social Studies, Year 11 Book One*, printed p. 20 |
+
+Samoa's own way (Book 8 — y11-book-1 (Social Studies, Year 11 Book One)): Samoa's Mau is taught twice over — once as world-style civil-rights history beside Black America's movement (fact sheets, timelines, a mock newspaper), and once from inside, through a Samoan mother's diary and photo album; the book closes the story with New Zealand's 2002 apology, read through Samoan newspaper reactions. That way is stocked here as the way Samoa teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 9 — y11-book-2 (student book, English)**
+- Title as printed: Social Studies, Year 11 Book Two
+- Grade: Year 11 (student/teacher: STUDENT)
+- Publisher: Government of Sāmoa, Ministry of Education, Sports and Culture; year 2003, reprinted 2004 with minor amendments; no ISBN printed in the pages read (title page carries the © 2004 line)
+- PDF pages: 118 (cover/title page verified against the record title; grabbed via the TSV release URL)
+- Verdict: COMPLETE
+- Tally: 13 placements — 6 to existing lessons, 7 NEW LESSON NEEDED
+- Samoa's own way: Neighbouring Fiji gets a compact settlement history (legend, contact, indenture), and Samoa's own past is carried by the same Telesia — now as a four-generation family "history highway" of travel to New Zealand, told entirely from family stories.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/samoa-placements.md.
+
+Non-History parts (named, not placed): Unit 1 Topic 2 Cultural Investigators student research (skills, printed pp. 19–24); Unit 2 Topics 1–2 personal identity, cultural values and adaptation (Identity, pp. 27–38); Unit 3 coconut production factors, industry administration and decisions, apart from the copra history note (Economics, pp. 45–73); Unit 4 volunteer organisations and Pacific co-operation today, apart from the founding stories placed (Civics, pp. 79–95); Unit 5 Planning For Development (Economics, pp. 96–110).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 2, Activity 6 "Interpreting A Diagram" — story beats: learners read Telesia's history highway as a timeline — what it is about, the gaps between 1908, 1958, 1965, 1975, 1978 and 2000, and what changed across them (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Samoa, *Social Studies, Year 11 Book Two*, printed pp. 41–42 |
+
+Samoa's own way (Book 9 — y11-book-2 (Social Studies, Year 11 Book Two)): Neighbouring Fiji gets a compact settlement history (legend, contact, indenture), and Samoa's own past is carried by the same Telesia — now as a four-generation family "history highway" of travel to New Zealand, told entirely from family stories. That way is stocked here as the way Samoa teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 10 — y12-history (student book, English)**
+- Title as printed: History, Year 12
+- Grade: Year 12 (student/teacher: STUDENT); authors Tanya Samu, Valensia Sinisa, Tui Faasili
+- Publisher: Government of Sāmoa, Ministry of Education, Sports and Culture; year 2004; ISBN 982-517-060-3
+- PDF pages: 203 (cover/title page verified against the record title; grabbed via the TSV release URL)
+- Verdict: COMPLETE
+- Tally: 42 placements — 10 to existing lessons, 32 NEW LESSON NEEDED
+- Samoa's own way: A full senior History course in six parts — Migration; Imperialism, Colonialism, Nationalism and Decolonisation; Conflict; International Relations; Economic Transformations; Systems of Power and Authority — with Samoa's own story (origins, civil wars, Mau, treaties, independence) as the home case against Palestine/Israel, Japan, Russia and China. Note: the book dates the Black Saturday march "28 December 1928" in Part 2 Unit 4 but 1929 elsewhere — an internal inconsistency in the source.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Part 5, Unit 3, "Timeline for Globalisation" — story beats: a dated table runs the Pacific's globalisation from late-1700s imperialism and Cook's 1769 voyage through the 1873–96 downturn, 1870–1900 colonialism, 1930s nationalism and the Pacific War, to post-war decolonisation (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Samoa, *History, Year 12*, printed pp. 147–148 |
+
+Samoa's own way (Book 10 — y12-history (History, Year 12)): A full senior History course in six parts — Migration; Imperialism, Colonialism, Nationalism and Decolonisation; Conflict; International Relations; Economic Transformations; Systems of Power and Authority — with Samoa's own story (origins, civil wars, Mau, treaties, independence) as the home case against Palestine/Israel, Japan, Russia and China. Note: the book dates the Black Saturday march "28 December 1928" in Part 2 Unit 4 but 1929 elsewhere — an internal inconsistency in the source. That way is stocked here as the way Samoa teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 11 — y13-history (student book, English)**
+- Title as printed: History, Year 13
+- Grade: Year 13 (student/teacher: STUDENT); authors Tanya Samu, Valensia Sinisa, Tui Faasili
+- Publisher: Government of Sāmoa, Ministry of Education, Sports and Culture; year 2004; ISBN 982-517-083-2
+- PDF pages: 163 (cover/title page verified against the record title; grabbed via the TSV release URL)
+- Verdict: COMPLETE
+- Tally: 44 placements — 11 to existing lessons, 33 NEW LESSON NEEDED
+- Samoa's own way: The same six-part frame as Year 12 (Migration; Imperialism, Colonialism, Nationalism and Decolonisation; Conflict; International Relations; Economic Transformations; Systems of Power and Authority), but the case studies go worldwide — Germany for migration, the Balkans, Soviet satellites and Vietnam for decolonisation, India for conflict, Stalin and Gandhi for power — with Samoa drawn in as the comparison: the matai system as a system of power, New Zealand's administration of Samoa set beside Britain's India, and Samoa as the first Pacific nation to regain independence as India was the first British colony to do so.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Part 1 introduction, Germany timeline 1871–1990 — story beats: a dated spine runs from the German Empire's formation (1871) through Versailles, the Nazi invasions, the 1945 division into GDR and FRG, the 1961 border closure and the 1989 collapse of the East, to reunification in 1990 with Berlin as capital again (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Samoa, *History, Year 13*, printed pp. 10–11 |
+
+Samoa's own way (Book 11 — y13-history (History, Year 13)): The same six-part frame as Year 12 (Migration; Imperialism, Colonialism, Nationalism and Decolonisation; Conflict; International Relations; Economic Transformations; Systems of Power and Authority), but the case studies go worldwide — Germany for migration, the Balkans, Soviet satellites and Vietnam for decolonisation, India for conflict, Stalin and Gandhi for power — with Samoa drawn in as the comparison: the matai system as a system of power, New Zealand's administration of Samoa set beside Britain's India, and Samoa as the first Pacific nation to regain independence as India was the first British colony to do so. That way is stocked here as the way Samoa teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 31 countries (Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Samoa).**
+
+Searchable tags: Samoa, History expansion 2026-11-15, first-steps/dating-the-past

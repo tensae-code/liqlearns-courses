@@ -1,6 +1,6 @@
 # Sources — The Great Depression — 1929 and the world it broke
 
-countries: Ethiopia, United States, Costa Rica, Australia, Indonesia, United Kingdom, Suriname, Cambodia, Colombia, Mauritania
+countries: Ethiopia, United States, Costa Rica, Australia, Indonesia, United Kingdom, Suriname, Cambodia, Colombia, Mauritania, Samoa
 
 **Book 1:** *History, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN 978-99990-0-065-9. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g10-student-placements.md
 
@@ -269,3 +269,42 @@ This book is a teacher guide. The Papua New Guinea rows below stand on it as tea
 Papua New Guinea's own way (Book 10 — G11-12 History TG OBE (teacher guide, English)): the older OBE senior course is a leaner, story-first syllabus — Grade 11 runs PNG's Early History, Imperialism, WWI and WWII; Grade 12 runs Decolonisation and Independence, Our Changing World, and PNG as a Nation. The guide itself is mostly outcomes, assessment craft and suggested activities, so placements are taken from the unit structure (printed p. 12) and the detailed activity/assessment lists (pp. 24–35). The Grade 12 Extension unit (Current Events) is listed in the requirements table but given no activities in this guide. That way is stocked here as the way Papua New Guinea teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 10 countries (Ethiopia, United States, Costa Rica, Australia, Indonesia, United Kingdom, Suriname, Cambodia, Colombia, Mauritania) — unchanged; the Papua New Guinea placement(s) above are teacher-guide evidence only, counted nowhere. Papua New Guinea is not added to this lesson's countries line.**
+
+
+## History expansion (2026-11-15) — Samoa stocked
+
+**Book 10 — y12-history (student book, English)**
+- Title as printed: History, Year 12
+- Grade: Year 12 (student/teacher: STUDENT); authors Tanya Samu, Valensia Sinisa, Tui Faasili
+- Publisher: Government of Sāmoa, Ministry of Education, Sports and Culture; year 2004; ISBN 982-517-060-3
+- PDF pages: 203 (cover/title page verified against the record title; grabbed via the TSV release URL)
+- Verdict: COMPLETE
+- Tally: 42 placements — 10 to existing lessons, 32 NEW LESSON NEEDED
+- Samoa's own way: A full senior History course in six parts — Migration; Imperialism, Colonialism, Nationalism and Decolonisation; Conflict; International Relations; Economic Transformations; Systems of Power and Authority — with Samoa's own story (origins, civil wars, Mau, treaties, independence) as the home case against Palestine/Israel, Japan, Russia and China. Note: the book dates the Black Saturday march "28 December 1928" in Part 2 Unit 4 but 1929 elsewhere — an internal inconsistency in the source.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Part 5, Unit 5, first half — story beats: the "era of hope" (Locarno 1925, Kellogg-Briand 1928, the Young Plan) rests on American loans and German reparations; in October 1929 Wall Street crashes, banks call in loans and collapse across Europe, and spending, production and jobs spiral down worldwide (History expansion, 2026-11-15; original placement slug: modern-world/the-great-depression-1929) | Samoa, *History, Year 12*, printed pp. 151–153 |
+
+Samoa's own way (Book 10 — y12-history (History, Year 12)): A full senior History course in six parts — Migration; Imperialism, Colonialism, Nationalism and Decolonisation; Conflict; International Relations; Economic Transformations; Systems of Power and Authority — with Samoa's own story (origins, civil wars, Mau, treaties, independence) as the home case against Palestine/Israel, Japan, Russia and China. Note: the book dates the Black Saturday march "28 December 1928" in Part 2 Unit 4 but 1929 elsewhere — an internal inconsistency in the source. That way is stocked here as the way Samoa teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 11 — y13-history (student book, English)**
+- Title as printed: History, Year 13
+- Grade: Year 13 (student/teacher: STUDENT); authors Tanya Samu, Valensia Sinisa, Tui Faasili
+- Publisher: Government of Sāmoa, Ministry of Education, Sports and Culture; year 2004; ISBN 982-517-083-2
+- PDF pages: 163 (cover/title page verified against the record title; grabbed via the TSV release URL)
+- Verdict: COMPLETE
+- Tally: 44 placements — 11 to existing lessons, 33 NEW LESSON NEEDED
+- Samoa's own way: The same six-part frame as Year 12 (Migration; Imperialism, Colonialism, Nationalism and Decolonisation; Conflict; International Relations; Economic Transformations; Systems of Power and Authority), but the case studies go worldwide — Germany for migration, the Balkans, Soviet satellites and Vietnam for decolonisation, India for conflict, Stalin and Gandhi for power — with Samoa drawn in as the comparison: the matai system as a system of power, New Zealand's administration of Samoa set beside Britain's India, and Samoa as the first Pacific nation to regain independence as India was the first British colony to do so.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Part 4, Unit 2 — story beats: the 1929 American crash cuts world trade by some 70 percent; banks and companies fail, unemployment soars, and in Germany and Japan desperate voters and soldiers begin listening to anyone who promises a way out (History expansion, 2026-11-15; original placement slug: modern-world/the-great-depression-1929) | Samoa, *History, Year 13*, printed pp. 91–92 |
+
+Samoa's own way (Book 11 — y13-history (History, Year 13)): The same six-part frame as Year 12 (Migration; Imperialism, Colonialism, Nationalism and Decolonisation; Conflict; International Relations; Economic Transformations; Systems of Power and Authority), but the case studies go worldwide — Germany for migration, the Balkans, Soviet satellites and Vietnam for decolonisation, India for conflict, Stalin and Gandhi for power — with Samoa drawn in as the comparison: the matai system as a system of power, New Zealand's administration of Samoa set beside Britain's India, and Samoa as the first Pacific nation to regain independence as India was the first British colony to do so. That way is stocked here as the way Samoa teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 11 countries (Ethiopia, United States, Costa Rica, Australia, Indonesia, United Kingdom, Suriname, Cambodia, Colombia, Mauritania, Samoa).**
+
+Searchable tags: Samoa, History expansion 2026-11-15, modern-world/the-great-depression-1929

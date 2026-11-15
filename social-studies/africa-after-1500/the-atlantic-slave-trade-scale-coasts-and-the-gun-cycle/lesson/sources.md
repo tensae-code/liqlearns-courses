@@ -1,6 +1,6 @@
 # Sources — The Atlantic slave trade — scale, coasts and the gun cycle
 
-countries: Ethiopia, Angola, Gambia, Australia, Bahamas, Dominican Republic, Suriname, Colombia, South Sudan
+countries: Ethiopia, Angola, Gambia, Australia, Bahamas, Dominican Republic, Suriname, Colombia, South Sudan, Samoa
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -245,3 +245,28 @@ Searchable tags: Colombia, The Atlantic slave trade — scale, coasts and the gu
 South Sudan's own way (Book 17 — S1 History Student's Book (student book, English)): A national history built from long source extracts pupils must interrogate — Seligman on the Shilluk reth, Evans-Pritchard on Azande witchcraft, Holt on the Mahdiyya, Samuel Baker on Khartoum, and living testimony from former slaves Simon Deng and Ayak Piol Mabior (filed as plot summaries only). That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 9 countries (Ethiopia, Angola, Gambia, Australia, Bahamas, Dominican Republic, Suriname, Colombia, South Sudan).**
+
+
+## History expansion (2026-11-15) — Samoa stocked
+
+**Book 8 — y11-book-1 (student book, English)**
+- Title as printed: Social Studies, Year 11 Book One
+- Grade: Year 11 (student/teacher: STUDENT)
+- Publisher: Government of Samoa, Department of Education; year 2003; ISBN 982-517-039-5
+- PDF pages: 122 (cover/title page verified against the record title; grabbed via the TSV release URL)
+- Verdict: COMPLETE
+- Tally: 16 placements — 6 to existing lessons, 10 NEW LESSON NEEDED
+- Samoa's own way: Samoa's Mau is taught twice over — once as world-style civil-rights history beside Black America's movement (fact sheets, timelines, a mock newspaper), and once from inside, through a Samoan mother's diary and photo album; the book closes the story with New Zealand's 2002 apology, read through Samoan newspaper reactions.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/samoa-placements.md.
+
+Non-History parts (named, not placed): Unit 1 Topic 1 What Are Social Institutions (Civics/Sociology, printed pp. 6–10); Unit 3 The Marine Environment (Geography/Environment, pp. 58–96); Unit 4 Skills: Cartoons, Paragraphs And Essays (skills, pp. 97–105); Unit 5 Skills: Inquiry And Research (skills, pp. 106–118).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 1, Fact Sheet One "Slaves and slavery in America" — story beats: from 1619 to 1803 thousands of Africans are shipped across the Atlantic and sold at markets like animals to southern plantation owners hungry for unpaid labour — between 400,000 and a million people; Virginia's law makes slave women's children slaves too, so slavery is inherited as well as captured (History expansion, 2026-11-15; original placement slug: africa-after-1500/the-atlantic-slave-trade-scale-coasts-and-the-gun-cycle) | Samoa, *Social Studies, Year 11 Book One*, printed p. 13 |
+
+Samoa's own way (Book 8 — y11-book-1 (Social Studies, Year 11 Book One)): Samoa's Mau is taught twice over — once as world-style civil-rights history beside Black America's movement (fact sheets, timelines, a mock newspaper), and once from inside, through a Samoan mother's diary and photo album; the book closes the story with New Zealand's 2002 apology, read through Samoan newspaper reactions. That way is stocked here as the way Samoa teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 10 countries (Ethiopia, Angola, Gambia, Australia, Bahamas, Dominican Republic, Suriname, Colombia, South Sudan, Samoa).**
+
+Searchable tags: Samoa, History expansion 2026-11-15, africa-after-1500/the-atlantic-slave-trade-scale-coasts-and-the-gun-cycle

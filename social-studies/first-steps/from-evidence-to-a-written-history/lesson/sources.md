@@ -1,6 +1,6 @@
 # Sources — From evidence to a written history
 
-countries: Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Bulgaria, Palestine, Colombia, South Sudan, Mongolia
+countries: Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Bulgaria, Palestine, Colombia, South Sudan, Mongolia, Samoa
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -1312,3 +1312,83 @@ Mongolia's own way (Book 3 — mn-g7h Түүх VII (History VII)): the medieval 
 **Acceptance count: taught in 30 countries (Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Bulgaria, Palestine, Colombia, South Sudan, Mongolia).**
 
 Searchable tags: Mongolia, History expansion 2026-11-15, first-steps/from-evidence-to-a-written-history
+
+
+## History expansion (2026-11-15) — Samoa stocked
+
+**Book 3 — y9-book-2 (student book, English)**
+- Title as printed: Social Studies, Year 9 Book Two
+- Grade: Year 9 (student/teacher: STUDENT)
+- Publisher: Government of Sāmoa, Department of Education; year 2002, reprinted 2004 with minor amendments; ISBN 982-517-016-6
+- PDF pages: 84 (cover/title page verified against the record title; grabbed via the TSV release URL)
+- Verdict: COMPLETE
+- Tally: 11 placements — 5 to existing lessons, 6 NEW LESSON NEEDED
+- Samoa's own way: History is taught through PLACES — a peninsula, a church, a protest office — read from photographs, maps and oral sources; Samoa's Mau story and the ancient Polynesian voyages carry the national narrative inside a geography-shaped book.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/samoa-placements.md.
+
+Non-History parts (named, not placed): Unit 1 Topics 1 and 3 — ordinary and natural places, settlement patterns in Samoa and New Zealand, traditional rainforest uses (Geography, printed pp. 5–17, 27–32); Unit 2 Topics 1 and 3 — the push-pull migration model and present-day Samoan migration (Geography, pp. 44–49, 57–63); Unit 3 Social Studies Skills: Mapping (Geography skills, pp. 68–79).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 1, Topic 2 "Sacred Places", source-types box — story beats: learners sort evidence into primary (someone who was there), secondary (written up by others), oral and text sources before researching (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Samoa, *Social Studies, Year 9 Book Two*, printed p. 25 |
+| Samoa part — Unit 1, Activity 14 "Interpreting Photographs" — story beats: learners read past-and-present photographs of Mulinu'u (fono, old Falefono, village) for what people built and did, to judge how it was and remains a political place (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Samoa, *Social Studies, Year 9 Book Two*, printed p. 35 |
+| Samoa part — Unit 2, Topic 2, "The Voyages of the Hokule'a" — story beats: a double-hulled canoe built in Hawaii in the 1970s is sailed to Tahiti in 1976 by Satawalese navigator Mau Piailug using stars and swells, testing whether the ancestors voyaged deliberately; later voyages retrace the whole Polynesian Triangle to Rapa Nui (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Samoa, *Social Studies, Year 9 Book Two*, printed pp. 54–55 |
+
+Samoa's own way (Book 3 — y9-book-2 (Social Studies, Year 9 Book Two)): History is taught through PLACES — a peninsula, a church, a protest office — read from photographs, maps and oral sources; Samoa's Mau story and the ancient Polynesian voyages carry the national narrative inside a geography-shaped book. That way is stocked here as the way Samoa teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 4 — y9-book-3 (student book, English)**
+- Title as printed: Social Studies, Year 9 Book Three
+- Grade: Year 9 (student/teacher: STUDENT)
+- Publisher: Government of Sāmoa, Department of Education; year 2002, reprinted 2004 with minor amendments; ISBN 982-517-029-8
+- PDF pages: 74 (cover/title page verified against the record title; grabbed via the TSV release URL)
+- Verdict: COMPLETE
+- Tally: 7 placements — 7 to existing lessons, 0 NEW LESSON NEEDED
+- Samoa's own way: The Culture and Heritage unit teaches the past entirely as inheritance — what ancestors passed on in practices, symbols and treasures (mea sina) — using paired past/present photographs, museum interviews and elders as primary sources.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/samoa-placements.md.
+
+Non-History parts (named, not placed): Unit 1 Topic 3 Symbols Of Identity — flags, emblems, the one-tala coin (Civics/identity, printed pp. 17–18); Unit 2 Topics 1–2 — types of technology and how books, CD-Roms and the internet are made and used (Technology, pp. 23–35); Unit 3 Development and Unit 4 Development And Daily Life, including country case studies (Economics/Geography, pp. 40–67).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 1, Topic 1 photo study — story beats: paired photographs dated from the 1890s to 2001 (feasts, houses, taupou, ceremonies) are sorted as practices or symbols and generalised over: most have changed a little, all were successfully passed on (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Samoa, *Social Studies, Year 9 Book Three*, printed pp. 7–14 |
+| Samoa part — Unit 2, Topic 3 "Technology And Change", Activity 5 photo study and interviewing cultural experts — story beats: learners re-read the past/present photo pairs (feast foods since 1890, taupou costume, house materials), then interview a grandparent-generation expert as a primary source on whether a chosen tradition (saofa'i, wedding, funeral, si'i) has changed (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Samoa, *Social Studies, Year 9 Book Three*, printed pp. 36–37 |
+
+Samoa's own way (Book 4 — y9-book-3 (Social Studies, Year 9 Book Three)): The Culture and Heritage unit teaches the past entirely as inheritance — what ancestors passed on in practices, symbols and treasures (mea sina) — using paired past/present photographs, museum interviews and elders as primary sources. That way is stocked here as the way Samoa teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 8 — y11-book-1 (student book, English)**
+- Title as printed: Social Studies, Year 11 Book One
+- Grade: Year 11 (student/teacher: STUDENT)
+- Publisher: Government of Samoa, Department of Education; year 2003; ISBN 982-517-039-5
+- PDF pages: 122 (cover/title page verified against the record title; grabbed via the TSV release URL)
+- Verdict: COMPLETE
+- Tally: 16 placements — 6 to existing lessons, 10 NEW LESSON NEEDED
+- Samoa's own way: Samoa's Mau is taught twice over — once as world-style civil-rights history beside Black America's movement (fact sheets, timelines, a mock newspaper), and once from inside, through a Samoan mother's diary and photo album; the book closes the story with New Zealand's 2002 apology, read through Samoan newspaper reactions.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/samoa-placements.md.
+
+Non-History parts (named, not placed): Unit 1 Topic 1 What Are Social Institutions (Civics/Sociology, printed pp. 6–10); Unit 3 The Marine Environment (Geography/Environment, pp. 58–96); Unit 4 Skills: Cartoons, Paragraphs And Essays (skills, pp. 97–105); Unit 5 Skills: Inquiry And Research (skills, pp. 106–118).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 2, Topic 2 "Telesia's Photo Album" and Activity 3 — story beats: learners interrogate Tattersall's 1929–30 photographs — the Mau office at Vaimoso, prisoners carried by New Zealand marines, the thousand-women procession, the Black Saturday parade, Tamasese lying in state — with the photo-interpretation skills from Year 9 (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Samoa, *Social Studies, Year 11 Book One*, printed pp. 39–44 |
+
+Samoa's own way (Book 8 — y11-book-1 (Social Studies, Year 11 Book One)): Samoa's Mau is taught twice over — once as world-style civil-rights history beside Black America's movement (fact sheets, timelines, a mock newspaper), and once from inside, through a Samoan mother's diary and photo album; the book closes the story with New Zealand's 2002 apology, read through Samoan newspaper reactions. That way is stocked here as the way Samoa teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 10 — y12-history (student book, English)**
+- Title as printed: History, Year 12
+- Grade: Year 12 (student/teacher: STUDENT); authors Tanya Samu, Valensia Sinisa, Tui Faasili
+- Publisher: Government of Sāmoa, Ministry of Education, Sports and Culture; year 2004; ISBN 982-517-060-3
+- PDF pages: 203 (cover/title page verified against the record title; grabbed via the TSV release URL)
+- Verdict: COMPLETE
+- Tally: 42 placements — 10 to existing lessons, 32 NEW LESSON NEEDED
+- Samoa's own way: A full senior History course in six parts — Migration; Imperialism, Colonialism, Nationalism and Decolonisation; Conflict; International Relations; Economic Transformations; Systems of Power and Authority — with Samoa's own story (origins, civil wars, Mau, treaties, independence) as the home case against Palestine/Israel, Japan, Russia and China. Note: the book dates the Black Saturday march "28 December 1928" in Part 2 Unit 4 but 1929 elsewhere — an internal inconsistency in the source.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Part 1, Unit 2, Dr Morgan Tuimaleali'ifano's research methods — story beats: a USP historian rebuilds pre-contact and colonial Pacific history from documented oral traditions, cross-checking myths and legends against family genealogy books, Lands and Titles Court submissions and interviews until the sources agree (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Samoa, *History, Year 12*, printed pp. 20–21 |
+
+Samoa's own way (Book 10 — y12-history (History, Year 12)): A full senior History course in six parts — Migration; Imperialism, Colonialism, Nationalism and Decolonisation; Conflict; International Relations; Economic Transformations; Systems of Power and Authority — with Samoa's own story (origins, civil wars, Mau, treaties, independence) as the home case against Palestine/Israel, Japan, Russia and China. Note: the book dates the Black Saturday march "28 December 1928" in Part 2 Unit 4 but 1929 elsewhere — an internal inconsistency in the source. That way is stocked here as the way Samoa teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 31 countries (Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Bulgaria, Palestine, Colombia, South Sudan, Mongolia, Samoa).**
+
+Searchable tags: Samoa, History expansion 2026-11-15, first-steps/from-evidence-to-a-written-history

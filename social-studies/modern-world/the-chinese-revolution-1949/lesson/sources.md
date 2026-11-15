@@ -1,6 +1,6 @@
 # Sources — The Chinese Revolution, 1949
 
-countries: Dominican Republic, South Sudan
+countries: Dominican Republic, South Sudan, Samoa
 
 **Book 4:** *Ciencias Sociales, Cuarto Grado de Secundaria (4° Secundaria) — Proyecto Libro Abierto* (student book, Spanish) — Dominican Republic. Title as printed: Ciencias Sociales, Cuarto Grado de Secundaria (4° Secundaria) — Proyecto Libro Abierto. Grade: Grade 10 (student/teacher: STUDENT). Publisher: MINERD, Unidad Editorial; year not printed on the pages read; ISBN no ISBN printed. PDF pages: 208 (cover verified against the record title). Verdict: COMPLETE. Tally: 34 placements — 28 to existing lessons, 6 NEW LESSON NEEDED. Combined-subject note: this is a combined Ciencias Sociales book; only its History units are placed — its Geography units (El universo y el Sistema Solar (p. 10), La deriva continental (p. 26), El agua en los continentes (p. 42), Geografía política y económica de los continentes (p. 58)) and Civics unit (Educación ciudadana (p. 176)) are named here, not placed. Placements at liqlearns-courses-work/expansion-history-2026-11-15/dominican-republic-placements.md.
 
@@ -35,3 +35,26 @@ Searchable tags: Dominican Republic, The Chinese Revolution, 1949, modern-world,
 South Sudan's own way (Book 23 — S4 History Student's Book (student book, English)): The final year is entirely world and African history beyond South Sudan — USA, Russia, Latin America, the Middle East, China and Japan — taught from primary sources (Lincoln's 1854 and 1858 speeches open the book) and ending where S1 ended, with the OAU and AU. That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 2 countries (Dominican Republic, South Sudan).**
+
+
+## History expansion (2026-11-15) — Samoa stocked
+
+**Book 10 — y12-history (student book, English)**
+- Title as printed: History, Year 12
+- Grade: Year 12 (student/teacher: STUDENT); authors Tanya Samu, Valensia Sinisa, Tui Faasili
+- Publisher: Government of Sāmoa, Ministry of Education, Sports and Culture; year 2004; ISBN 982-517-060-3
+- PDF pages: 203 (cover/title page verified against the record title; grabbed via the TSV release URL)
+- Verdict: COMPLETE
+- Tally: 42 placements — 10 to existing lessons, 32 NEW LESSON NEEDED
+- Samoa's own way: A full senior History course in six parts — Migration; Imperialism, Colonialism, Nationalism and Decolonisation; Conflict; International Relations; Economic Transformations; Systems of Power and Authority — with Samoa's own story (origins, civil wars, Mau, treaties, independence) as the home case against Palestine/Israel, Japan, Russia and China. Note: the book dates the Black Saturday march "28 December 1928" in Part 2 Unit 4 but 1929 elsewhere — an internal inconsistency in the source.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Part 6, Units 4–5 — story beats: the young Communist Party allies with Sun's Guomindang until Chiang Kai-shek's 1927 Shanghai purge drowns the alliance in blood; Mao rebuilds in the countryside, leads the 13,000 km Long March (1934–35) to Yan'an, and after 22 years of struggle the communists win in 1949 — Chiang exiled to Taiwan, Mao ruling the People's Republic until 1976 (History expansion, 2026-11-15; original placement slug: modern-world/mao-chiang-and-the-chinese-civil-war — stocked into modern-world/the-chinese-revolution-1949, the closest existing lesson covering this thing) | Samoa, *History, Year 12*, printed pp. 186–189 |
+
+Samoa's own way (Book 10 — y12-history (History, Year 12)): A full senior History course in six parts — Migration; Imperialism, Colonialism, Nationalism and Decolonisation; Conflict; International Relations; Economic Transformations; Systems of Power and Authority — with Samoa's own story (origins, civil wars, Mau, treaties, independence) as the home case against Palestine/Israel, Japan, Russia and China. Note: the book dates the Black Saturday march "28 December 1928" in Part 2 Unit 4 but 1929 elsewhere — an internal inconsistency in the source. That way is stocked here as the way Samoa teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 3 countries (Dominican Republic, South Sudan, Samoa).**
+
+Searchable tags: Samoa, History expansion 2026-11-15, modern-world/the-chinese-revolution-1949

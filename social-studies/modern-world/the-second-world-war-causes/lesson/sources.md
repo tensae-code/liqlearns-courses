@@ -1,6 +1,6 @@
 # Sources — The Second World War — causes
 
-countries: Ethiopia, Turkey, Costa Rica, Australia, Malaysia, Nepal, Fiji, Montenegro, Dominican Republic, Cambodia, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia
+countries: Ethiopia, Turkey, Costa Rica, Australia, Malaysia, Nepal, Fiji, Montenegro, Dominican Republic, Cambodia, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Samoa
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 136).
 
@@ -341,3 +341,26 @@ Mongolia's own way (Book 4 — mn-g9h Түүх IX (History IX)): modern history 
 **Acceptance count: taught in 16 countries (Ethiopia, Turkey, Costa Rica, Australia, Malaysia, Nepal, Fiji, Montenegro, Dominican Republic, Cambodia, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia).**
 
 Searchable tags: Mongolia, History expansion 2026-11-15, modern-world/the-second-world-war-causes
+
+
+## History expansion (2026-11-15) — Samoa stocked
+
+**Book 11 — y13-history (student book, English)**
+- Title as printed: History, Year 13
+- Grade: Year 13 (student/teacher: STUDENT); authors Tanya Samu, Valensia Sinisa, Tui Faasili
+- Publisher: Government of Sāmoa, Ministry of Education, Sports and Culture; year 2004; ISBN 982-517-083-2
+- PDF pages: 163 (cover/title page verified against the record title; grabbed via the TSV release URL)
+- Verdict: COMPLETE
+- Tally: 44 placements — 11 to existing lessons, 33 NEW LESSON NEEDED
+- Samoa's own way: The same six-part frame as Year 12 (Migration; Imperialism, Colonialism, Nationalism and Decolonisation; Conflict; International Relations; Economic Transformations; Systems of Power and Authority), but the case studies go worldwide — Germany for migration, the Balkans, Soviet satellites and Vietnam for decolonisation, India for conflict, Stalin and Gandhi for power — with Samoa drawn in as the comparison: the matai system as a system of power, New Zealand's administration of Samoa set beside Britain's India, and Samoa as the first Pacific nation to regain independence as India was the first British colony to do so.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Part 4, Unit 2 — story beats: Spain's civil war rehearses the Axis and Russia; the Rome-Berlin Axis, Pact of Steel and Anti-Comintern Pact align the dictatorships; appeasement feeds Hitler Austria (Anschluss, March 1938) and the Sudetenland at Munich — the Czechs not even in the room — he takes the rest of Czechoslovakia within six months, and the Nazi-Soviet Pact of 1939 clears his road to Poland (History expansion, 2026-11-15; original placement slug: modern-world/the-second-world-war-causes) | Samoa, *History, Year 13*, printed pp. 96–98 |
+
+Samoa's own way (Book 11 — y13-history (History, Year 13)): The same six-part frame as Year 12 (Migration; Imperialism, Colonialism, Nationalism and Decolonisation; Conflict; International Relations; Economic Transformations; Systems of Power and Authority), but the case studies go worldwide — Germany for migration, the Balkans, Soviet satellites and Vietnam for decolonisation, India for conflict, Stalin and Gandhi for power — with Samoa drawn in as the comparison: the matai system as a system of power, New Zealand's administration of Samoa set beside Britain's India, and Samoa as the first Pacific nation to regain independence as India was the first British colony to do so. That way is stocked here as the way Samoa teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 17 countries (Ethiopia, Turkey, Costa Rica, Australia, Malaysia, Nepal, Fiji, Montenegro, Dominican Republic, Cambodia, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Samoa).**
+
+Searchable tags: Samoa, History expansion 2026-11-15, modern-world/the-second-world-war-causes

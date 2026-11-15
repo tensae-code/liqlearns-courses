@@ -1,6 +1,6 @@
 # Sources — The United Nations is founded — and Kuwait joins
 
-countries: Kuwait, Mauritania, Sri Lanka
+countries: Kuwait, Mauritania, Sri Lanka, Samoa
 
 **Book 8:** *دولة الكويت والعالم — الصف التاسع، الفصل الدراسي الثاني (State of Kuwait and the World, Grade 9, Term 2)* (student book, Arabic) — Kuwait. Title as printed: دولة الكويت والعالم — الصف التاسع، الفصل الدراسي الثاني (State of Kuwait and the World, Grade 9, Term 2). Grade: 9 (student/teacher: STUDENT). Publisher: Ministry of Education, Kuwait — General Directorate for Guidance, Research and Curricula; 1st edition 1447H / 2025–2026; no ISBN printed in the front matter. PDF pages: 106 (cover/title page verified against the record title; grabbed via the TSV release record, 27,418,994 bytes, matching the books.json record size exactly). Verdict: COMPLETE. Tally: 2 placements — 0 to existing lessons, 2 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/kuwait-placements.md.
 
@@ -117,3 +117,26 @@ Sri Lanka's own way (Book 7 — G11 History Tamil 1999): the old-syllabus Grade 
 **Acceptance count: taught in 3 countries (Kuwait, Mauritania, Sri Lanka).**
 
 Searchable tags: Sri Lanka, History expansion 2026-11-15, modern-world/united-nations-founding-and-kuwait-joins
+
+
+## History expansion (2026-11-15) — Samoa stocked
+
+**Book 11 — y13-history (student book, English)**
+- Title as printed: History, Year 13
+- Grade: Year 13 (student/teacher: STUDENT); authors Tanya Samu, Valensia Sinisa, Tui Faasili
+- Publisher: Government of Sāmoa, Ministry of Education, Sports and Culture; year 2004; ISBN 982-517-083-2
+- PDF pages: 163 (cover/title page verified against the record title; grabbed via the TSV release URL)
+- Verdict: COMPLETE
+- Tally: 44 placements — 11 to existing lessons, 33 NEW LESSON NEEDED
+- Samoa's own way: The same six-part frame as Year 12 (Migration; Imperialism, Colonialism, Nationalism and Decolonisation; Conflict; International Relations; Economic Transformations; Systems of Power and Authority), but the case studies go worldwide — Germany for migration, the Balkans, Soviet satellites and Vietnam for decolonisation, India for conflict, Stalin and Gandhi for power — with Samoa drawn in as the comparison: the matai system as a system of power, New Zealand's administration of Samoa set beside Britain's India, and Samoa as the first Pacific nation to regain independence as India was the first British colony to do so.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Part 4, Unit 4 — story beats: determined the new body must outmuscle the League, Roosevelt names it, Dumbarton Oaks (1944) drafts it, and 51 states sign the Charter at San Francisco in 1945; six organs follow, the Universal Declaration of Human Rights in 1948 — and the book's own balance sheet notes 30 million war dead since, and US$2.9 billion in unpaid peacekeeping bills by May 2000 (History expansion, 2026-11-15; original placement slug: modern-world/the-united-nations-is-founded-1945 — stocked into modern-world/united-nations-founding-and-kuwait-joins, the closest existing lesson covering this thing) | Samoa, *History, Year 13*, printed pp. 101–103 |
+
+Samoa's own way (Book 11 — y13-history (History, Year 13)): The same six-part frame as Year 12 (Migration; Imperialism, Colonialism, Nationalism and Decolonisation; Conflict; International Relations; Economic Transformations; Systems of Power and Authority), but the case studies go worldwide — Germany for migration, the Balkans, Soviet satellites and Vietnam for decolonisation, India for conflict, Stalin and Gandhi for power — with Samoa drawn in as the comparison: the matai system as a system of power, New Zealand's administration of Samoa set beside Britain's India, and Samoa as the first Pacific nation to regain independence as India was the first British colony to do so. That way is stocked here as the way Samoa teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 4 countries (Kuwait, Mauritania, Sri Lanka, Samoa).**
+
+Searchable tags: Samoa, History expansion 2026-11-15, modern-world/united-nations-founding-and-kuwait-joins

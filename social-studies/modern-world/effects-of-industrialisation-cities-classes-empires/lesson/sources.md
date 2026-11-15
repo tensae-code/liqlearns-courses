@@ -1,6 +1,6 @@
 # Sources — Effects of industrialisation — cities, classes, empires
 
-countries: Ethiopia, Brazil, Australia, Kuwait, Palestine, Mauritania, South Sudan
+countries: Ethiopia, Brazil, Australia, Kuwait, Palestine, Mauritania, South Sudan, Samoa
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under GEQIP-E, ISBN 978-99990-0-066-6. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -160,3 +160,29 @@ Mauritania's own way (mr-g08 — History, 2nd preparatory year (student book, Ar
 South Sudan's own way (Book 23 — S4 History Student's Book (student book, English)): The final year is entirely world and African history beyond South Sudan — USA, Russia, Latin America, the Middle East, China and Japan — taught from primary sources (Lincoln's 1854 and 1858 speeches open the book) and ending where S1 ended, with the OAU and AU. That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 7 countries (Ethiopia, Brazil, Australia, Kuwait, Palestine, Mauritania, South Sudan).**
+
+
+## History expansion (2026-11-15) — Samoa stocked
+
+**Book 7 — y10-book-3 (student book, English)**
+- Title as printed: Social Studies, Year 10 Book Three
+- Grade: Year 10 (student/teacher: STUDENT)
+- Publisher: Government of Samoa, Department of Education; year 2002; ISBN 982-517-030-1
+- PDF pages: 99 (cover/title page verified against the record title; grabbed via the TSV release URL)
+- Verdict: COMPLETE
+- Tally: 9 placements — 8 to existing lessons, 1 NEW LESSON NEEDED
+- Samoa's own way: World history enters as the Industrial Revolution — taught through British work before and after, child workers' own stories, and a comparison back to Samoa's past and present production; Samoa's own recent past appears as the Falealupo rainforest covenant story.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/samoa-placements.md.
+
+Non-History parts (named, not placed): Unit 1 Access To Resources, Goods And Services — economic and social factors (Economics, printed pp. 5–37); Unit 2 Topic 2 The Reasons For Changes To Participation (Economics, pp. 51–57); Unit 3 Topics 1–3 — development's effects, locating development, points of view (Geography, pp. 60–72); Unit 4 The Role Of Technology in Samoa and Tanzania today (Technology/Geography, pp. 78–95).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 2, Topic 1 "Changes During The Industrial Revolution" — story beats: Britain's population leaps from 6.2 million (1750) to 14 million (1830), workers crowd into polluted cities without clean water, a new working class grows, the 1832 law gives middle-class men the vote, and the British Empire spreads over colonised lands that feed the factories (History expansion, 2026-11-15; original placement slug: modern-world/effects-of-industrialisation-cities-classes-empires) | Samoa, *Social Studies, Year 10 Book Three*, printed pp. 45–46 |
+| Samoa part — Unit 2, Topic 1 child workers' stories (plot summaries only) — story beats: seven-year-old John Saville works as a trapper in the dark of a coal mine, opening doors for wagons that run over his leg; a young girl coal-bearer hauls baskets of coal out of an 1830s mine on her back (History expansion, 2026-11-15; original placement slug: modern-world/effects-of-industrialisation-cities-classes-empires) | Samoa, *Social Studies, Year 10 Book Three*, printed pp. 47–49 |
+
+Samoa's own way (Book 7 — y10-book-3 (Social Studies, Year 10 Book Three)): World history enters as the Industrial Revolution — taught through British work before and after, child workers' own stories, and a comparison back to Samoa's past and present production; Samoa's own recent past appears as the Falealupo rainforest covenant story. That way is stocked here as the way Samoa teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 8 countries (Ethiopia, Brazil, Australia, Kuwait, Palestine, Mauritania, South Sudan, Samoa).**
+
+Searchable tags: Samoa, History expansion 2026-11-15, modern-world/effects-of-industrialisation-cities-classes-empires

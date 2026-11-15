@@ -1,6 +1,6 @@
 # Sources — The Industrial Revolution — what changed and why England first
 
-countries: Ethiopia, Brazil, Costa Rica, Australia, Ecuador, Kuwait, Fiji, Montenegro, Dominican Republic, Palestine, Colombia, South Sudan, Libya, Sri Lanka, Mongolia
+countries: Ethiopia, Brazil, Costa Rica, Australia, Ecuador, Kuwait, Fiji, Montenegro, Dominican Republic, Palestine, Colombia, South Sudan, Libya, Sri Lanka, Mongolia, Samoa
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 130).
 
@@ -347,3 +347,28 @@ Mongolia's own way (Book 11 — mn-g11ss Нийгэм судлал XI (Social St
 **Acceptance count: taught in 15 countries (Ethiopia, Brazil, Costa Rica, Australia, Ecuador, Kuwait, Fiji, Montenegro, Dominican Republic, Palestine, Colombia, South Sudan, Libya, Sri Lanka, Mongolia).**
 
 Searchable tags: Mongolia, History expansion 2026-11-15, modern-world/the-industrial-revolution-what-changed-and-why-england-first
+
+
+## History expansion (2026-11-15) — Samoa stocked
+
+**Book 7 — y10-book-3 (student book, English)**
+- Title as printed: Social Studies, Year 10 Book Three
+- Grade: Year 10 (student/teacher: STUDENT)
+- Publisher: Government of Samoa, Department of Education; year 2002; ISBN 982-517-030-1
+- PDF pages: 99 (cover/title page verified against the record title; grabbed via the TSV release URL)
+- Verdict: COMPLETE
+- Tally: 9 placements — 8 to existing lessons, 1 NEW LESSON NEEDED
+- Samoa's own way: World history enters as the Industrial Revolution — taught through British work before and after, child workers' own stories, and a comparison back to Samoa's past and present production; Samoa's own recent past appears as the Falealupo rainforest covenant story.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/samoa-placements.md.
+
+Non-History parts (named, not placed): Unit 1 Access To Resources, Goods And Services — economic and social factors (Economics, printed pp. 5–37); Unit 2 Topic 2 The Reasons For Changes To Participation (Economics, pp. 51–57); Unit 3 Topics 1–3 — development's effects, locating development, points of view (Geography, pp. 60–72); Unit 4 The Role Of Technology in Samoa and Tanzania today (Technology/Geography, pp. 78–95).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Unit 2 introduction and Topic 1 opening — story beats: in the late 1700s Great Britain begins a change historians call a great turning point in world history — industrialisation — which spreads through Western Europe and North America and reshapes how men, women and children work (History expansion, 2026-11-15; original placement slug: modern-world/the-industrial-revolution-what-changed-and-why-england-first) | Samoa, *Social Studies, Year 10 Book Three*, printed pp. 38–39 |
+
+Samoa's own way (Book 7 — y10-book-3 (Social Studies, Year 10 Book Three)): World history enters as the Industrial Revolution — taught through British work before and after, child workers' own stories, and a comparison back to Samoa's past and present production; Samoa's own recent past appears as the Falealupo rainforest covenant story. That way is stocked here as the way Samoa teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 16 countries (Ethiopia, Brazil, Costa Rica, Australia, Ecuador, Kuwait, Fiji, Montenegro, Dominican Republic, Palestine, Colombia, South Sudan, Libya, Sri Lanka, Mongolia, Samoa).**
+
+Searchable tags: Samoa, History expansion 2026-11-15, modern-world/the-industrial-revolution-what-changed-and-why-england-first

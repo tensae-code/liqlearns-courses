@@ -1,6 +1,6 @@
 # Sources — Stalin seizes power and rules by terror
 
-countries: United Kingdom, South Sudan
+countries: United Kingdom, South Sudan, Samoa
 
 **Book 3:** *Edexcel GCSE (9-1) History: Russia and the Soviet Union, 1917–1941* (student book, English) — United Kingdom. Title as printed: Edexcel GCSE (9-1) History: Russia and the Soviet Union, 1917–1941. Grade: Grade 10 (student/teacher: STUDENT). Publisher: Pearson Education Limited; year 2016; ISBN 978 1 292 12733 0. PDF pages: 164 (cover/title page verified against the record title). Verdict: COMPLETE. Tally: 19 placements — 7 to existing lessons, 12 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/united-kingdom-placements.md.
 
@@ -38,3 +38,27 @@ Searchable tags: United Kingdom, Stalin seizes power and rules by terror, modern
 South Sudan's own way (Book 23 — S4 History Student's Book (student book, English)): The final year is entirely world and African history beyond South Sudan — USA, Russia, Latin America, the Middle East, China and Japan — taught from primary sources (Lincoln's 1854 and 1858 speeches open the book) and ending where S1 ended, with the OAU and AU. That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 2 countries (United Kingdom, South Sudan).**
+
+
+## History expansion (2026-11-15) — Samoa stocked
+
+**Book 11 — y13-history (student book, English)**
+- Title as printed: History, Year 13
+- Grade: Year 13 (student/teacher: STUDENT); authors Tanya Samu, Valensia Sinisa, Tui Faasili
+- Publisher: Government of Sāmoa, Ministry of Education, Sports and Culture; year 2004; ISBN 982-517-083-2
+- PDF pages: 163 (cover/title page verified against the record title; grabbed via the TSV release URL)
+- Verdict: COMPLETE
+- Tally: 44 placements — 11 to existing lessons, 33 NEW LESSON NEEDED
+- Samoa's own way: The same six-part frame as Year 12 (Migration; Imperialism, Colonialism, Nationalism and Decolonisation; Conflict; International Relations; Economic Transformations; Systems of Power and Authority), but the case studies go worldwide — Germany for migration, the Balkans, Soviet satellites and Vietnam for decolonisation, India for conflict, Stalin and Gandhi for power — with Samoa drawn in as the comparison: the matai system as a system of power, New Zealand's administration of Samoa set beside Britain's India, and Samoa as the first Pacific nation to regain independence as India was the first British colony to do so.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa part — Part 6, Unit 1 — story beats: Lenin's Testament warns that Stalin, General Secretary since 1922, holds "enormous power" he may not use with caution — Stalin buries the warning, builds a cult of Leninism with himself as heir, floods the party with 240,000 "Lenin Enrolment" recruits who owe him everything, purges the old guard, and outmanoeuvres Trotsky, the revolution's most able man (History expansion, 2026-11-15; original placement slug: modern-world/stalin-seizes-power-the-testament-and-trotsky — stocked into modern-world/stalin-seizes-power-and-rules-by-terror, the closest existing lesson covering this thing) | Samoa, *History, Year 13*, printed pp. 128–131 |
+| Samoa part — Part 6, Unit 2 — story beats: propaganda crowns Stalin "the greatest genius in history and shining sun of the human race"; children join the Young Pioneers, art must serve socialist realism, churches are confiscated and Sunday abolished — until 1941, when he summons Russian pride for the Great Patriotic War; he dies in March 1953, and in 1956 Khrushchev's secret speech strips the cult away and his body is removed from Lenin's tomb (History expansion, 2026-11-15; original placement slug: modern-world/stalin-the-totalitarian-dictator — stocked into modern-world/stalin-seizes-power-and-rules-by-terror, the closest existing lesson covering this thing) | Samoa, *History, Year 13*, printed pp. 138–141 |
+
+Samoa's own way (Book 11 — y13-history (History, Year 13)): The same six-part frame as Year 12 (Migration; Imperialism, Colonialism, Nationalism and Decolonisation; Conflict; International Relations; Economic Transformations; Systems of Power and Authority), but the case studies go worldwide — Germany for migration, the Balkans, Soviet satellites and Vietnam for decolonisation, India for conflict, Stalin and Gandhi for power — with Samoa drawn in as the comparison: the matai system as a system of power, New Zealand's administration of Samoa set beside Britain's India, and Samoa as the first Pacific nation to regain independence as India was the first British colony to do so. That way is stocked here as the way Samoa teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 3 countries (United Kingdom, South Sudan, Samoa).**
+
+Searchable tags: Samoa, History expansion 2026-11-15, modern-world/stalin-seizes-power-and-rules-by-terror
