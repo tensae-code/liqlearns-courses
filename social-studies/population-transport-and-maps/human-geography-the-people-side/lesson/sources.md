@@ -1,6 +1,6 @@
 # Sources — Human geography — the people side
 
-countries: Ethiopia, Myanmar
+countries: Ethiopia, Myanmar, Ukraine
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -8,15 +8,20 @@ countries: Ethiopia, Myanmar
 
 **Book 3:** *Teacher Guide — Geography — Grade 6* (teacher guide, English) — Myanmar, Government of the Republic of the Union of Myanmar, Ministry of Education; publisher: Basic Education Curriculum, Syllabus and School Textbook Committee, Ministry of Education; year 2019 (printed Feb 2019, 2019-2020 academic year, 325,000 copies); ISBN no ISBN printed. Title as printed: Teacher Guide — Geography — Grade 6. Grade 6 (teacher). 93 PDF pp. (cover/title page verified against the record title). Verdict: COMPLETE. Read via grabcurl (curl-resume Contents route, byte size 715,373 + blob SHA verified SHA-OK). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/myanmar-placements.md.
 
+**Book 4:** *Geografiya* (student book, Ukrainian) — Ukraine, УОВЦ «Оріон» (Orion), Kyiv; year 2018; ISBN 978-617-7485-75-8. Title as printed: Географія (рівень стандарту) : підручник для 10 класу закладів загальної середньої освіти. Grade: Grade 10 (student). 244 PDF pp. (cover/title page verified against the record title; printed book 240 pp.). Verdict: COMPLETE. Read via grab.py url (GitHub release), verified by pdfinfo + title page text. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/ukraine-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The people side | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 1, printed pp. 7–8 |
 | Sub lesson 2 — The counterpart | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 1, printed pp. 7–8 |
 | Teaching pattern and answer keys (teacher guide — evidence) — Grade 9 Unit 1 | Ethiopia, *Geography, Teacher Guide, Grade 9*, Unit 1, guide printed pp. 1–34 |
 | Social geography and the main ethnic groups — Myanmar way: 2.1 The definition of social geography and main ethnic groups (teacher guide — evidence) | Myanmar, *Teacher Guide — Geography — Grade 6* (teacher guide), §2.1, printed p. 23 |
+| Ukraine part — §1 What the geography of regions and countries studies (incl. political map formation) | Ukraine, *Geografiya*, Grade 10, §1 — printed p. 5 |
 
-**Acceptance count: taught in 1 country (Ethiopia). Myanmar is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 2 countries (Ethiopia, Ukraine). Myanmar is named here as teacher-guide evidence only, counted nowhere.**
+
+Ukraine's own way: A "Geography: Regions and Countries" course — every region is done in the same order (position, nature/resources, population, primary/secondary/tertiary sectors) then typological country studies with rubrics (country visiting-card, capital, pride of the country, unique experience), ending with Ukraine's own place in the world; research tasks (Дослідження) embedded in chapters. That way is stocked here as the way Ukraine teaches this thing.
 
 Myanmar's own way (teacher guide — evidence): the year is split into five parallel strands revisited week by week — physical geography, social geography, environmental geography, neighbouring countries and cartography — each lesson plan built student-centred (Bloom steps, key questions, classroom assessment) around Myanmar and its five neighbours. That evidence is stocked here as the way Myanmar teaches this thing; it does not change the acceptance count above.
 
-Searchable tags: human geography, population, settlement, economic activity, culture, transport, social studies, Myanmar, Teacher Guide Geography Grade 6, teacher guide evidence
+Searchable tags: human geography, population, settlement, economic activity, culture, transport, social studies, Myanmar, Teacher Guide Geography Grade 6, teacher guide evidence, Ukraine, Geografiya Gilberg

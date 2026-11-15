@@ -1506,3 +1506,66 @@ Central America's greatest lake (printed p. 133) and
 Gulfs, bays, capes and peninsulas (printed p. 134) —
 the new lessons taught in 1 country (Guatemala),
 8 questions each. Geography lessons: 690 → 697.
+
+## Geography expansion — Ukraine — built 2026-11-14
+
+Ukraine — 38 placements stocked from 1 distinct book
+(2 records / 1 distinct book in the Ukraine file; the TSV
+release URL and the books.json record are the same book —
+verified duplicates, taught once, the distinct book cited).
+Ukraine teaches Geography in Grade 10 through *Geografiya*
+(Gilberg), УОВЦ «Оріон» (Orion), Kyiv, 2018, ISBN
+978-617-7485-75-8, COMPLETE, 244 PDF pp. (printed book
+240 pp.) — a student book, counted in acceptance counts.
+Ukraine's own way: a "Geography: Regions and Countries"
+course — every region is done in the same order (position,
+nature/resources, population, primary/secondary/tertiary
+sectors) then typological country studies with rubrics
+(country visiting-card, capital, pride of the country,
+unique experience), ending with Ukraine's own place in
+the world; research tasks (Дослідження) embedded in
+chapters. Stocked into standing lessons —
+**Population, Transport and Maps**: Human geography — the
+people side (§1, printed p. 5) and Population —
+distribution (§5 Population of Europe, printed p. 23, and
+§17 Population of Asia, printed p. 104); **The Land and
+Air**: Where geographic data comes from (§2, printed
+p. 10); **Culture and Work**: Economic activities — the
+three levels (§6, printed p. 30), Secondary activities —
+what manufacturing is (§7, printed p. 37) and Tertiary
+activities — services, transport, tourism (§8, printed
+p. 43) — and 31 new lessons built — in **People and
+Resources**: Europe — the most diverse region (§3,
+printed p. 13), Europe — natural conditions and resources
+(§4, printed p. 19), Germany — country study (§9, printed
+p. 49), France — country study (§10, printed p. 57),
+United Kingdom — country study (§11 Great Britain,
+printed p. 65), Italy — country study (§12, printed
+p. 73), Poland — country study (§13, printed p. 80),
+Belarus — country study (§14, printed p. 86), Russia —
+country study (§15, printed p. 92), Asia — position,
+nature and resources (§16, printed p. 100), Asia
+economies — the primary sector (§18, printed p. 108),
+Asia — secondary and tertiary sectors (§19, printed
+p. 112), Japan — country study (§20, printed p. 118),
+China — country study (§21, printed p. 125), India —
+country study (§22, printed p. 132), Australia — place in
+the world and region (§23, printed p. 141), Australia —
+modern development (§24, printed p. 144), Micronesia,
+Melanesia and Polynesia — development (§25, printed
+p. 149), The Americas — position and regional blocs (§26,
+printed p. 154), The Americas — nature, resources and
+population (§27, printed p. 157), The Americas —
+economies (§28, printed p. 161), The Americas — secondary
+and tertiary sectors (§29, printed p. 166), United States
+of America — country study (§30, printed p. 174), Canada
+— country study (§31, printed p. 182), Brazil — country
+study (§32, printed p. 189), Africa economies — Ukraine
+view (§34, printed p. 203), Egypt — country study (§35,
+printed p. 213) and South Africa — country study (§36,
+printed p. 218); in **Global Issues**: Africa — between
+tradition and globalisation (§33, printed p. 198),
+Ukraine on the geopolitical map (§37, printed p. 225) and
+Ukraine in global economic relations (§38, printed
+p. 228) — the new lessons taught in 1 country (Ukraine),
+8 questions each. Geography lessons: 697 → 728.

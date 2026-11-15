@@ -1,10 +1,12 @@
 # Sources — Where geographic data comes from
 
-countries: Ethiopia
+countries: Ethiopia, Ukraine
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). Editors: Sintayehu Teka (MSc) (Content Editor), Kassie Molla (MA) (Language Editor), Hirut Woldemichael (MA) (Curriculum Editor). Illustrator: Agenchw Nega (MSc). Designer: Geda Hoka (MA). Evaluators: Dereje Guteta (PhD), Tesfaye Shiferaw (PhD), Abebe Yibeltie (MA), Hussein Seid (MA). First published 2023 under GEQIP-E. ISBN 978-99990-0-049-9. Printed by Gravity Group IND LLC, 13th Industrial Area, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. Printed page = PDF page − 6 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md
 
 **Book 2:** *Geography, Teacher Guide, Grade 10* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). Editors: Sintayehu Teka (MSc) (Content Editor), Kassie Molla (MA) (Language Editor), Hirut Woldemichael (MA) (Curriculum Editor). Illustrator: Agenchw Nega (MSc). Designer: Geda Hoka (MA). Evaluator: Dereje Guteta (PhD). First published 2022 under GEQIP-E. (No ISBN printed in the pages read.) Printed page = PDF page − 31 for the guide body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-teacher-placements.md
+
+**Book 3:** *Geografiya* (student book, Ukrainian) — Ukraine, УОВЦ «Оріон» (Orion), Kyiv; year 2018; ISBN 978-617-7485-75-8. Title as printed: Географія (рівень стандарту) : підручник для 10 класу закладів загальної середньої освіти. Grade: Grade 10 (student). 244 PDF pp. (cover/title page verified against the record title; printed book 240 pp.). Verdict: COMPLETE. Read via grab.py url (GitHub release), verified by pdfinfo + title page text. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/ukraine-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -12,9 +14,12 @@ countries: Ethiopia
 | Sub lesson 2 — Sensed from above | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 8, printed pp. 180–183 |
 | Sub lesson 3 — Primary, secondary, many formats | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 8, printed pp. 180–183 |
 | Teaching pattern and answer keys (teacher guide — evidence) | Ethiopia, *Geography, Teacher Guide, Grade 10*, Unit 8, guide printed pp. 141–166 |
+| Ukraine part — §2 Sources of knowledge about regions and countries of the world | Ukraine, *Geografiya*, Grade 10, §2 — printed p. 10 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Ukraine).**
+
+Ukraine's own way: A "Geography: Regions and Countries" course — every region is done in the same order (position, nature/resources, population, primary/secondary/tertiary sectors) then typological country studies with rubrics (country visiting-card, capital, pride of the country, unique experience), ending with Ukraine's own place in the world; research tasks (Дослідження) embedded in chapters. That way is stocked here as the way Ukraine teaches this thing.
 
 No book error is flagged for this lesson's pages in the placements. The Grade 10 student book's Unit 8 figure captions carry encoding artefacts in the print file itself; the lesson teaches the sections' text, not the garbled captions. The teacher guide was first published in 2022 against the student book's 2023; the student book is the learner text of record, and the guide is cited as evidence only.
 
-Searchable tags: data sources, field survey, gps, remote sensing, primary secondary, ethiopia, social studies, the land and air
+Searchable tags: data sources, field survey, gps, remote sensing, primary secondary, ethiopia, social studies, the land and air, Ukraine, Geografiya Gilberg

@@ -103,7 +103,7 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **697**
+Geography lessons across the eight Geography titles: **728**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -250,3 +250,24 @@ Sierra de las Minas — Guatemala's biosphere mountain,
 Volcanic hazards — and how people stay safe, Lake
 Nicaragua — Central America's greatest lake and Gulfs,
 bays, capes and peninsulas.
++31 for Ukraine, 2026-11-14 — People and Resources:
+Europe — the most diverse region, Europe — natural
+conditions and resources, Germany — country study,
+France — country study, United Kingdom — country study,
+Italy — country study, Poland — country study, Belarus
+— country study, Russia — country study, Asia —
+position, nature and resources, Asia economies — the
+primary sector, Asia — secondary and tertiary sectors,
+Japan — country study, China — country study, India —
+country study, Australia — place in the world and
+region, Australia — modern development, Micronesia,
+Melanesia and Polynesia — development, The Americas —
+position and regional blocs, The Americas — nature,
+resources and population, The Americas — economies, The
+Americas — secondary and tertiary sectors, United
+States of America — country study, Canada — country
+study, Brazil — country study, Africa economies —
+Ukraine view, Egypt — country study and South Africa —
+country study; Global Issues: Africa — between
+tradition and globalisation, Ukraine on the geopolitical
+map and Ukraine in global economic relations.
