@@ -545,3 +545,13 @@ placement. Three guide-evidence lessons carry the 0-countries
 line (Ethiopia/Horn land-wildlife-soils, Ethiopia's population
 policy, Ethiopia's economy and the PASDEP plan). With this
 band, Geography is complete: 459 placements, Bands A–F.
+
+## Geography expansion — Guyana — built 2026-11-14
+
+Guyana — 5 placements stocked from *Social Studies For Our Children
+Book 1* (Grade 1, student book, COMPLETE): 2 stocked into standing
+lessons (Two ways to say where a place is — printed p. 13; Weather
+today, climate in general — printed p. 39; both now taught in
+2 countries) and 1 new lesson built in **First Steps** — Our
+neighbourhood (3 placements, printed pp. 20–22, 12 questions).
+Geography lessons: 549 → 550.

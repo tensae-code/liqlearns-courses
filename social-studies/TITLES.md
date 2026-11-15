@@ -24,9 +24,9 @@ the one title at rising depth wherever a title spans both books
 
 ## The titles
 
-- `first-steps/` — what Social Studies is, and how this course
-  works (the books' own way: geography → history → today,
-  activity first).
+- `first-steps/` — what Social Studies is, our neighbourhood,
+  and how this course works (the books' own way: geography →
+  history → today, activity first).
 - `earth-and-space/` — the universe, the solar system, the
   Earth: shape, size, movements, seasons, time.
 - `population-transport-and-maps/` — people on the Earth:
@@ -56,3 +56,9 @@ the one title at rising depth wherever a title spans both books
   pressure, HIV/AIDS, climate, water, forests — and protecting
   the environment where you live. (Grade 8 part: no teacher
   evidence yet.)
+
+## Geography expansion totals
+
+Geography lessons across the eight Geography titles: **550**
+(549 before the expansion; +1 for Guyana, 2026-11-14 — First
+Steps: Our neighbourhood).
