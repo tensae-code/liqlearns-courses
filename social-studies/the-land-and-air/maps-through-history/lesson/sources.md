@@ -1,6 +1,6 @@
 # Sources — Maps through history
 
-countries: Ethiopia, Belarus, Turkey, Haiti
+countries: Ethiopia, Belarus, Turkey, Haiti, Bolivia
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Belarus, Turkey, Haiti
 
 **Book 5:** *Du rond au plat, représenter le globe terrestre ?* (teacher sequence — corrigé, French) — Haiti, MENFP / Projet Nectar (Sciences humaines et sociales — Géographie, 7e année). Title as printed: Du rond au plat, représenter le globe terrestre ? (Projet Nectar, MENFP, Sciences humaines et sociales — Géographie, 7e année). Grade 7 (teacher). Publisher: MENFP / Projet Nectar; year not printed; no ISBN printed. 20 PDF pp. (cover verified against the record title). Verdict: COMPLETE. Read via grab.py (GitHub API, size/SHA verified) into scratch-ht/, text extracted page-by-page with pdftotext -layout; covers rendered and checked. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/haiti-placements.md.
 
+**Book 6:** *Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024 — Secundaria Comunitaria Productiva, Área Ciencias Sociales* (teacher guide, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; 2023–2024; no ISBN printed. Title as printed: Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024 — Secundaria Comunitaria Productiva, Área Ciencias Sociales. Grade 7 (record grade; the compendium in fact carries teacher guidance for Secundaria years 1–6) (teacher). 332 PDF pp. (cover verified against the record title; byte size 22,986,155 and page count match the staging books.json record exactly; read from the recorded direct source_url). Verdict: COMPLETE (combined teacher compendium — Geography guidance placed below; its own index pagination does not match the PDF's internal order, noted as a library debt; the compendium's remaining units mirror the student books' History and Civics units for Secundaria 1–6, named in the placements in bulk, not placed). Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bolivia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Primitive maps | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 8, printed pp. 197–198 |
@@ -20,11 +22,14 @@ countries: Ethiopia, Belarus, Turkey, Haiti
 | Belarus part — Geographical research of Belarus before 1918, in 1919–1941, and at the modern stage | Belarus, *Геаграфія Беларусі. 10 клас (Geography of Belarus, Grade 10)*, Grade 10, Theme I §3–5, printed p. 20 |
 | Turkey part — 3B Geçmişten Günümüze Bilgilerin Haritalara Aktarılması (putting information on maps, past to present) | Turkey, *Ortaöğretim Coğrafya 9. Sınıf Ders Kitabı*, Grade 9, 3B Geçmişten Günümüze Bilgilerin Haritalara Aktarılması (putting information on maps, past to present) — printed p. 68 |
 | Haiti part — Séance 9 De l'importance de la cartographie et de la carte (histoire des cartes, cartes océaniennes, arabes, chinoises, japonaises) (teacher sequence — evidence) | Haiti, *Du rond au plat, représenter le globe terrestre ?* (teacher sequence), Grade 7, Séance 9 De l'importance de la cartographie et de la carte (histoire des cartes, cartes océaniennes, arabes, chinoises, japonaises) — printed p. 18 |
+| Bolivia part — Development and importance of cartography; the value of cartographic materials for representing our territory (teacher guide — evidence) | Bolivia, *Compendio para Maestras y Maestros, Área Ciencias Sociales* (teacher guide), Grade 7 (record grade; teacher guidance), Development and importance of cartography; the value of cartographic materials for representing our territory — printed p. 91 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Belarus, Turkey). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 3 countries (Ethiopia, Belarus, Turkey). Haiti is named here as teacher-sequence evidence only, counted nowhere. Bolivia is named here as teacher-guide evidence only, counted nowhere.**
 
 Haiti's own way (teacher sequence — evidence): Geography opens with representing the Earth itself — globe-to-flat projection problems, orientation practised on the ground with compass/GPS/Google Maps, and time-zone puzzles worked on Haiti's own links (midday shared with Québec, 18h in Paris, Port-au-Prince–Paris flights); every séance ends in a croquis, a glossary and field observation. That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
 Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
-Searchable tags: history of maps, primitive maps, cartography, survey, social studies, Haiti, Du rond au plat, teacher sequence evidence
+Bolivia's own way (teacher guide — evidence): The teacher compendium teaches the same four-moment lesson shape (Práctica, Teoría, Valoración, Producción) with QR-linked videos and local openings — a La Paz landslide video opens the geography unit — and it adds two geography units the sampled student books do not carry at those grades: the scientific development of geographic science with cartography and coordinates (year 3), and water as a human right with Andean water management (year 4). That evidence is stocked here as the way Bolivia teaches this thing; it does not change the acceptance count above.
+
+Searchable tags: history of maps, primitive maps, cartography, survey, social studies, Haiti, Du rond au plat, teacher sequence evidence, Bolivia, Ciencias Sociales Bolivia, teacher guide evidence

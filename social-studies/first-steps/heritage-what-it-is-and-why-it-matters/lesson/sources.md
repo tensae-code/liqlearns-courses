@@ -1,6 +1,6 @@
 # Sources — Heritage — what it is and why it matters
 
-countries: Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador
+countries: Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivia
 
 **Book 1:** *History, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, Addis Ababa, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-064-2, 210 printed pp. Printed page = PDF page − 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g09-student-placements.md
 
@@ -22,6 +22,8 @@ countries: Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador
 
 **Book 10:** *Estudios Sociales 3ro EGB* (student book, Spanish) — Ecuador, SM Ediciones Ecuador for the Ministerio de Educación del Ecuador (Proyecto Licitación Ministerio de Educación, Ecuador 2016; reviewed 3 June 2016); year 2016; no ISBN printed. Title as printed: Estudios Sociales 3 — Texto del estudiante. Grade: Grade 3 (student). 176 PDF pp. (cover/title page verified against the record title; grabbed via the repo release route, 47,818,010 bytes = record size exactly; the record notes the 2024 edition exists but its only reachable copy is truncated, so this complete older edition is the held book; the book's two records — a TSV release/blob record and a books.json record for the same repo path — are one book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/ecuador-placements.md.
 
+**Book 11:** *Texto de Aprendizaje — Área: Ciencias Sociales, Campo: Comunidad y Sociedad — Primer Año de Educación Secundaria Comunitaria Productiva* (student book, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; year not printed in the pages read; no ISBN printed. Title as printed: Texto de Aprendizaje — Área: Ciencias Sociales, Campo: Comunidad y Sociedad — Primer Año de Educación Secundaria Comunitaria Productiva. Grade 7 (student). 98 PDF pp. (cover verified against the record title; byte size 15,723,529 and page count match the staging books.json record exactly). Verdict: COMPLETE (combined book — Geography parts placed below; History/Civics parts named here, not placed: La ciencia de la historia, printed p. 24; Evolución de la especie humana, p. 28; Surgimiento de las sociedades humanas, p. 32; Formación y desarrollo de culturas en el mundo antiguo, p. 38; Civilizaciones de la Edad Antigua en Europa: Grecia y Roma, p. 44; Poblamiento del Abya Yala, p. 48; Civilizaciones originarias del Abya Yala, p. 52; Civilización Maya, p. 58; Las primeras culturas en el territorio que hoy es Bolivia, p. 70; Tiahuanaco, p. 76; Los Aymaras, p. 87; Arqueoastronomía, p. 93). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bolivia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Heritage defined, and the guide's pointed question (teacher guide — evidence): why Europeans considered Africans uncivilised when African heritages such as Great Zimbabwe show otherwise | Ethiopia, *History, Teacher's Guide, Grade 9*, Unit 5, printed pp. 88–107 (teacher guide — evidence) |
@@ -34,8 +36,9 @@ countries: Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador
 | Mongolia part — We are proud of our homeland's heritage and culture | Mongolia, *Нийгэм судлал VIII (Social Studies VIII)*, Grade 8, Chapter II Individual and Culture: 2.1 We are proud of our homeland's heritage and culture — printed p. 25 |
 | Ecuador part — Patrimonios culturales del Ecuador | Ecuador, *Estudios Sociales 2do EGB*, Grade 2, Patrimonios culturales del Ecuador — printed p. 52 |
 | Ecuador part — Patrimonio natural y cultural (Unit 5, Un viaje por el Ecuador) | Ecuador, *Estudios Sociales 3ro EGB (SM 2016)*, Grade 3, Patrimonio natural y cultural (Unit 5, Un viaje por el Ecuador) — printed p. 104 |
+| Bolivia part — Cultural patrimonies of Bolivia: the Jesuit Missions of Chiquitos (2.1) | Bolivia, *Texto de Aprendizaje — Ciencias Sociales, Secundaria 1*, Grade 7, Cultural patrimonies of Bolivia: the Jesuit Missions of Chiquitos (2.1) — printed p. 68 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador).**
+**Acceptance count: taught in 6 countries (Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivia).**
 
 Mongolia's own way (Grade 9): Social Studies is a five-chapter spiral (Individual & Society, Individual & Culture, Individual & Economy, Human Rights & Law, Public Administration) continued from Grade 8; there is no physical-geography chapter — Mongolia's geography is a separate subject (Газарзүй) — so this book's Geography-wave content is its culture and economics teaching, grounded in Mongolian surveys, wage tables and heritage inventories. The book's Sociology parts (Chapter 1, printed pp. 6–13) and Law/Civics parts (Chapters 4–5, printed pp. 62–92) are named in the placements, not placed. Mongolia's own way (Grade 8): the Grade 8 year is the LOCAL year — every chapter is re-anchored to the child's own орон нутаг (local area/homeland): its environment and problems, its heritage, its economy and market, its governance. The book's Law/Civics parts (Chapters IV–V, printed pp. 63–94) are named in the placements, not placed. That way is stocked here as the way Mongolia teaches this thing.
 
@@ -45,4 +48,6 @@ Ecuador's own way (Grade 2 book): Geography is taught inside three thematic sect
 
 Ecuador's own way (Grade 3 book): the older SM edition is a classic skills-first book — a whole opening unit on orientation, cardinal points, the compass rose and plans before any content; every unit runs the same skeleton (content lessons, “Ser Estudiante” test, Cultura del Buen Vivir, scientific work, digital skills, unit evaluation), and the country is learned parish → canton → province → nation. That way is stocked here as the way Ecuador teaches this thing.
 
-Searchable tags: heritage, Great Zimbabwe, Shona, Mwene Mutapa, stone walls, cultural heritage, evidence, national landmarks, Etihad Museum, United Arab Emirates Grade 1, Mongolia, Нийгэм судлал, Ecuador
+Bolivia's own way (Grade 7, Secundaria 1): The Bolivian Texto de Aprendizaje runs every unit through the same four moments — Práctica, Teoría, Valoración, Producción — and frames geography inside the plurinational, Madre Tierra worldview: continental drift and geological time sit beside the Laws of Mother Earth (071 and 300), the human right to water, and a closing general geography of Bolivia itself (regions, orography, political map, salt flats and lithium).
+
+Searchable tags: heritage, Great Zimbabwe, Shona, Mwene Mutapa, stone walls, cultural heritage, evidence, national landmarks, Etihad Museum, United Arab Emirates Grade 1, Mongolia, Нийгэм судлал, Ecuador, Bolivia, Ciencias Sociales Bolivia

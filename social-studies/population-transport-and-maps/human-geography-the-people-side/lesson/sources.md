@@ -1,6 +1,6 @@
 # Sources — Human geography — the people side
 
-countries: Ethiopia, Myanmar, Ukraine
+countries: Ethiopia, Myanmar, Ukraine, Bolivia
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Myanmar, Ukraine
 
 **Book 4:** *Geografiya* (student book, Ukrainian) — Ukraine, УОВЦ «Оріон» (Orion), Kyiv; year 2018; ISBN 978-617-7485-75-8. Title as printed: Географія (рівень стандарту) : підручник для 10 класу закладів загальної середньої освіти. Grade: Grade 10 (student). 244 PDF pp. (cover/title page verified against the record title; printed book 240 pp.). Verdict: COMPLETE. Read via grab.py url (GitHub release), verified by pdfinfo + title page text. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/ukraine-placements.md.
 
+**Book 5:** *Texto de Aprendizaje — Área: Ciencias Sociales, Campo: Comunidad y Sociedad — Primer Año de Educación Secundaria Comunitaria Productiva* (student book, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; year not printed in the pages read; no ISBN printed. Title as printed: Texto de Aprendizaje — Área: Ciencias Sociales, Campo: Comunidad y Sociedad — Primer Año de Educación Secundaria Comunitaria Productiva. Grade 7 (student). 98 PDF pp. (cover verified against the record title; byte size 15,723,529 and page count match the staging books.json record exactly). Verdict: COMPLETE (combined book — Geography parts placed below; History/Civics parts named here, not placed: La ciencia de la historia, printed p. 24; Evolución de la especie humana, p. 28; Surgimiento de las sociedades humanas, p. 32; Formación y desarrollo de culturas en el mundo antiguo, p. 38; Civilizaciones de la Edad Antigua en Europa: Grecia y Roma, p. 44; Poblamiento del Abya Yala, p. 48; Civilizaciones originarias del Abya Yala, p. 52; Civilización Maya, p. 58; Las primeras culturas en el territorio que hoy es Bolivia, p. 70; Tiahuanaco, p. 76; Los Aymaras, p. 87; Arqueoastronomía, p. 93). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bolivia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The people side | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 1, printed pp. 7–8 |
@@ -17,11 +19,14 @@ countries: Ethiopia, Myanmar, Ukraine
 | Teaching pattern and answer keys (teacher guide — evidence) — Grade 9 Unit 1 | Ethiopia, *Geography, Teacher Guide, Grade 9*, Unit 1, guide printed pp. 1–34 |
 | Social geography and the main ethnic groups — Myanmar way: 2.1 The definition of social geography and main ethnic groups (teacher guide — evidence) | Myanmar, *Teacher Guide — Geography — Grade 6* (teacher guide), §2.1, printed p. 23 |
 | Ukraine part — §1 What the geography of regions and countries studies (incl. political map formation) | Ukraine, *Geografiya*, Grade 10, §1 — printed p. 5 |
+| Bolivia part — The importance of human geography | Bolivia, *Texto de Aprendizaje — Ciencias Sociales, Secundaria 1*, Grade 7, The importance of human geography — printed p. 9 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Ukraine). Myanmar is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 3 countries (Ethiopia, Ukraine, Bolivia). Myanmar is named here as teacher-guide evidence only, counted nowhere.**
 
 Ukraine's own way: A "Geography: Regions and Countries" course — every region is done in the same order (position, nature/resources, population, primary/secondary/tertiary sectors) then typological country studies with rubrics (country visiting-card, capital, pride of the country, unique experience), ending with Ukraine's own place in the world; research tasks (Дослідження) embedded in chapters. That way is stocked here as the way Ukraine teaches this thing.
 
 Myanmar's own way (teacher guide — evidence): the year is split into five parallel strands revisited week by week — physical geography, social geography, environmental geography, neighbouring countries and cartography — each lesson plan built student-centred (Bloom steps, key questions, classroom assessment) around Myanmar and its five neighbours. That evidence is stocked here as the way Myanmar teaches this thing; it does not change the acceptance count above.
 
-Searchable tags: human geography, population, settlement, economic activity, culture, transport, social studies, Myanmar, Teacher Guide Geography Grade 6, teacher guide evidence, Ukraine, Geografiya Gilberg
+Bolivia's own way (Grade 7, Secundaria 1): The Bolivian Texto de Aprendizaje runs every unit through the same four moments — Práctica, Teoría, Valoración, Producción — and frames geography inside the plurinational, Madre Tierra worldview: continental drift and geological time sit beside the Laws of Mother Earth (071 and 300), the human right to water, and a closing general geography of Bolivia itself (regions, orography, political map, salt flats and lithium).
+
+Searchable tags: human geography, population, settlement, economic activity, culture, transport, social studies, Myanmar, Teacher Guide Geography Grade 6, teacher guide evidence, Ukraine, Geografiya Gilberg, Bolivia, Ciencias Sociales Bolivia

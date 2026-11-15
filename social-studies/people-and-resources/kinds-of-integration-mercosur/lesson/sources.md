@@ -1,16 +1,21 @@
 # Sources — Kinds of Integration — the Mercosur Case
 
-countries: Argentina
+countries: Argentina, Bolivia
 
 **Book 1:** *Cuadernos para el aula: Ciencias Sociales 6* (teacher guide, Spanish) — Argentina, Ministerio de Educación, Ciencia y Tecnología de la Nación, Buenos Aires; year 2007 (1a ed.); ISBN 978-950-00-0629-3. Title as printed: Cuadernos para el aula: Ciencias Sociales 6 (record title: Cuadernos para el aula: NAP 2º ciclo EGB/nivel primario — Ciencias Sociales; the "6" is the series volume for the Second Cycle). Grade 4 (record grade; the book serves the Segundo Ciclo, grades 4–6). 138 PDF pp. (title/copyright page verified against the record title; printed book 136 pp.). Verdict: COMPLETE. Read via grabcurl (curl-resume Contents route, byte size 8,026,886 + blob SHA verified SHA-OK). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/argentina-placements.md.
+
+**Book 2:** *Área: Ciencias Sociales — Sexto Año, Educación Secundaria Comunitaria Productiva (Campo: Comunidad y Sociedad)* (student book, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; year 2024; no ISBN printed. Title as printed: Área: Ciencias Sociales — Sexto Año, Educación Secundaria Comunitaria Productiva (Campo: Comunidad y Sociedad). Grade 12 (student). 126 PDF pp. (cover verified against the record title; byte size 14,185,463 and page count match the staging books.json record exactly; read from the book's recorded source_url). Verdict: COMPLETE (combined book — Geography parts placed below; History/Civics/Economics parts named here, not placed: the Second World War and the Cold War; decolonisation of Asia and Africa and apartheid; the 1952 National Revolution, universal vote and mine nationalisation as history; military dictatorships and neoliberalism; the return to democracy, autonomies and revocatory referendums; identity, discrimination and despatriarcalización; youth political rights; child and adolescent labour law; money, the boliviano and inflation (economics)). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bolivia-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The different types of integration (teacher guide — evidence) | Argentina, *Cuadernos para el aula: Ciencias Sociales 6* (teacher guide), Eje 3 proposal: Los distintos tipos de integración / The different types of integration — printed p. 108 |
 | Sub lesson 2 — Types, read through Mercosur (teacher guide — evidence) | Argentina, *Cuadernos para el aula: Ciencias Sociales 6* (teacher guide), Eje 3 proposal, printed p. 108, and the book's stated way of working (each axis gives the knowledge at stake, then worked teaching proposals built on statistics, graphs, thematic maps and newspaper articles) |
+| Bolivia part — Regional integration: free-trade areas, ALBA-TCP and MERCOSUR (stocked here from the placements' named target global-issues/international-conventions-and-agreements, which does not exist in the course; this is the closest existing lesson covering that thing) | Bolivia, *Ciencias Sociales, Sexto Año de Secundaria*, Grade 12, Regional integration: free-trade areas, ALBA-TCP and MERCOSUR — printed p. 93 |
 
-**Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (Argentina), named here, counted nowhere.**
+**Acceptance count: taught in 1 country (Bolivia). Argentina is named here as teacher-guide evidence only, counted nowhere.**
 
 Argentina's own way: a teacher's notebook, not a pupil text: each axis gives the knowledge at stake, then worked teaching proposals built on statistics, graphs, thematic maps and newspaper articles — Geography (Axis 1) is Argentina's population and quality of life today, compared across Latin America, and Mercosur integration studied through maps and a real gas-pipeline case. This lesson stands on that teacher guide as evidence: it teaches the proposal's thing in the course's own words — the book's text itself is never transcribed.
 
-Searchable tags: kinds of integration, types of integration, Mercosur, Argentina, Cuadernos para el aula, teacher guide evidence, Argentina Grade 4, social studies
+Bolivia's own way (Grade 12, Sexto Año): The final year opens with the census itself — the censista's work as civic-geographic practice — and later teaches geopolitics critically: Haushofer and geopolitical thought, geographic scales, and natural resources as a product of human knowledge (Sunkel), alongside Bolivia's own resource politics: the Gas War, hydrocarbon nationalisation and the urea plant that industrialises gas.
+
+Searchable tags: kinds of integration, types of integration, Mercosur, Argentina, Cuadernos para el aula, teacher guide evidence, Argentina Grade 4, social studies, Bolivia, Ciencias Sociales Bolivia

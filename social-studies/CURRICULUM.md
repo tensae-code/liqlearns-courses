@@ -2141,3 +2141,109 @@ depend on each other (G7–9, p. 54), Caribbean hazards
 p. 108) and Floods — causes, damage and protection
 (G5, p. 345).
 Geography lessons: 820 → 832.
+
+## Geography expansion — Bolivia — built 2026-11-14
+
+Bolivia — 57 placements stocked from 5 records / 5
+distinct books, all already secured in GitHub (read
+via the recorded source_url in each phase3-staging
+books.json record; every copy verified by byte size
++ page count + cover against its record, and deleted
+after filing, so no push-don't-delete staging arose).
+Four are student books — *Texto de Aprendizaje,
+Ciencias Sociales, Secundaria 1* (Grade 7, 98 PDF
+pp., COMPLETE), *Secundaria 2* (Grade 8, 100 PDF pp.,
+COMPLETE — a History year, its few Geography parts
+placed), *Secundaria 4* (Grade 10, 108 PDF pp.,
+COMPLETE) and *Ciencias Sociales, Sexto Año*
+(Grade 12, 2024, 126 PDF pp., COMPLETE) — and one is
+the *Compendio para Maestras y Maestros 2023–2024*
+(teacher guide, 332 PDF pp., COMPLETE; its own index
+pagination does not match the PDF's internal order,
+noted as a library debt), cited as teacher-guide
+evidence only, outside acceptance counts. All five
+are COMBINED Ciencias Sociales books: Geography
+parts are placed; History/Civics parts are named in
+each lesson's sources, not placed. Bolivia's own
+way: every unit runs through the same four moments
+— Práctica, Teoría, Valoración, Producción — and
+geography is framed inside the plurinational, Madre
+Tierra worldview (Laws of Mother Earth 071 and 300,
+the human right to water, Vivir Bien), closing on a
+general geography of Bolivia itself. Stocked into
+standing lessons (34 placements): What Social
+Studies is (G7 p. 2), What geography is (G7 p. 6;
+teacher p. 12), Human geography — the people side
+(G7 p. 9), Earth's story in four eras (G7 p. 10;
+teacher p. 14), The geological timescale (G7 p. 12),
+Continental drift — Wegener and Pangaea (G7 p. 16;
+teacher p. 16), Evidence for continental drift
+(G7 p. 17), Water pollution and shrinking clean
+water (G7 p. 23), Heritage (G7 p. 68), Counting
+people — censuses and surveys (G8 p. 53; G10 p. 2;
+G12 p. 3; teacher p. 224), Landlocked countries
+(G10 p. 43), Primary activities — mining (G10
+p. 51; G12 p. 47, stocked here from the placements'
+named target people-and-resources/the-mining-sector,
+which does not exist in the course), Primary
+activities — forest products (G10 p. 67), What
+counts as a natural resource (G10 p. 75; G12 p. 41,
+stocked here from the placements' named target
+people-and-resources/natural-resources-where-they-occur,
+which does not exist in the course), Renewable,
+non-renewable and using sustainably (G10 p. 77),
+Economic activities — the three levels (G10 p. 79),
+What conservation means (G10 p. 81), Overexploitation
+(G10 p. 93), Sustainable development — living
+without eating the future (G10 p. 95), Maps and
+globes — latitude and longitude (teacher p. 91,
+evidence only — acceptance unchanged), Maps through
+history (teacher p. 91, evidence only — acceptance
+unchanged), Secondary activities — what manufacturing
+is (G12 p. 89), Energy resources (G12 p. 21, stocked
+here from the placements' named target
+people-and-resources/fossil-fuels-oil-gas-and-coal,
+which does not exist in the course), Globalization
+— gains and costs (G12 p. 27, stocked here from the
+placements' named target
+global-issues/globalisation-the-basic-concepts,
+which does not exist in the course), Kinds of
+integration — Mercosur (G12 p. 93, stocked here from
+the placements' named target
+global-issues/international-conventions-and-agreements,
+which does not exist in the course; the lesson now
+stands taught in 1 country, Bolivia, Argentina
+remaining teacher-guide evidence only) and Human
+trafficking (G12 p. 109, stocked here from the
+placements' named target
+population-transport-and-maps/human-trafficking-and-migrant-smuggling,
+which does not exist in the course). New lessons
+(8 questions each) — **Population, Transport and
+Maps**: Map projections — conical, cylindrical and
+polar (G7, printed p. 19), Afro-Bolivian settlement
+in the Yungas (G8, p. 77) and Geographic scales —
+global, national, local (G12, p. 39); **The Land
+and Air**: Bolivia's geographic regions (G7, p. 65;
+teacher p. 32), Bolivia's orography and relief (G7,
+p. 66), Bolivia's political and administrative
+organisation (G7, p. 67), The Tawantinsuyo and its
+four suyos (G8, p. 3), Amazonian hydraulic cultures
+of Moxos (G8, p. 6; teacher p. 47) and How geographic
+science developed (teacher p. 89 — teacher-guide
+evidence only, taught in 0 countries); **People and
+Resources**: Bolivia's salt flats and lithium (G7,
+p. 69), The hacienda and the ayllu — two ways of
+holding land (G8, p. 60; G10, p. 33) and Regional
+development — investment in eastern Bolivia (G12,
+p. 55); **Global Issues**: Mother Earth as a subject
+of rights (G7, p. 20; teacher p. 19), Water — a human
+right or a commodity? (teacher p. 160 — teacher-guide
+evidence only, taught in 0 countries) and Geopolitics
+and geopolitical thought (G12, p. 37); **Resources
+and Conflict**: Land and territory in the indigenous
+worldview (G10, p. 89), Andean water management
+(teacher p. 161 — teacher-guide evidence only,
+taught in 0 countries), Land reform and agricultural
+promotion (G12, p. 49) and Nationalisation of
+hydrocarbons and the Gas War (G12, p. 85).
+Geography lessons: 832 → 851.

@@ -103,7 +103,7 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **832**
+Geography lessons across the eight Geography titles: **851**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -368,3 +368,27 @@ earthquakes and Floods — causes, damage and
 protection. (All 12 stand on Jamaica's National
 Standards Curriculum guides as curriculum-guide
 evidence only, counted nowhere.)
+
++19 for Bolivia, 2026-11-14 — Population, Transport and
+Maps: Map projections — conical, cylindrical and
+polar, Afro-Bolivian settlement in the Yungas and
+Geographic scales — global, national, local; The Land
+and Air: Bolivia's geographic regions, Bolivia's
+orography and relief, Bolivia's political and
+administrative organisation, The Tawantinsuyo and its
+four suyos, Amazonian hydraulic cultures of Moxos and
+How geographic science developed; People and
+Resources: Bolivia's salt flats and lithium, The
+hacienda and the ayllu — two ways of holding land and
+Regional development — investment in eastern Bolivia;
+Global Issues: Mother Earth as a subject of rights,
+Water — a human right or a commodity? and Geopolitics
+and geopolitical thought; Resources and Conflict:
+Land and territory in the indigenous worldview,
+Andean water management, Land reform and agricultural
+promotion and Nationalisation of hydrocarbons and the
+Gas War. (Three of the 19 — How geographic science
+developed, Water — a human right or a commodity? and
+Andean water management — stand on Bolivia's teacher
+compendium as teacher-guide evidence only, counted
+nowhere.)
