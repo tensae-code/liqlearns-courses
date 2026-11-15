@@ -1,6 +1,6 @@
 # Sources — West African Empires — Ghana
 
-countries: Ethiopia, Angola, Mauritania, South Sudan
+countries: Ethiopia, Angola, Mauritania, South Sudan, Uganda
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (placement 85).
 
@@ -124,3 +124,25 @@ Mauritania's own way (mr-g11 — History, 5th year of secondary education (stude
 South Sudan's own way (Book 9 — P5 Social Studies Pupil's Book (student book, English)): A full kingdoms unit taught comparatively — South Sudan's Azande, Shilluk, Otuho and Anyuak set in one table against Meroe, Bunyoro, Buganda, Zulu and Asante, with evidence (artefacts vs written records) taught before the stories. That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 4 countries (Ethiopia, Angola, Mauritania, South Sudan).**
+
+## History expansion (2026-11-15) — Uganda stocked
+
+**Book 10 — uganda-s3-home-study-history (student book, English) — COMBINED History and Political Education**
+- Title as printed: Home-Study Learning — Senior 3 — History (cover title; the subject of record is History and Political Education)
+- Grade: Senior Three / grade-10 (student/teacher: STUDENT)
+- Publisher: National Curriculum Development Centre (NCDC), Ministry of Education and Sports, Uganda; August 2020; no ISBN printed
+- PDF pages: 136 (cover verified against the record title; retrieved via the TSV mid-size-books-2 release asset)
+- Verdict: COMPLETE (combined subject — the booklet carries Senior Three Terms 2–3, Southern and West Africa, and a Senior Four Term 1 section on West Africa, all placed below; no separate Political Education lessons appear)
+- Tally: 28 placements — 5 to existing lessons, 23 NEW LESSON NEEDED
+- Uganda's own way: Senior Three leaves East Africa entirely — Uganda's learners study Shaka and Moshesh, the Trek and the Mfecane, then Ghana, Mali, Asante and Samori Toure, as the shared African past their own continent's classrooms all teach.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/uganda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Uganda part — Topic: Empires of Western Sudan; Lesson 2: The Empire of Ghana — story beats: founded around 500 AD between the Niger and Senegal rivers — water and a defensive barrier in one — Ghana grows as Islam spreads through the trade (History expansion, 2026-11-15; original placement slug: africa-to-1500/the-empire-of-ghana) | Uganda, *Home-Study Learning — Senior 3 — History (cover title; the subject of record is History and Political Education)*, printed p. 67 |
+
+Uganda's own way (Book 10 — uganda-s3-home-study-history (student book, English)): Senior Three leaves East Africa entirely — Uganda's learners study Shaka and Moshesh, the Trek and the Mfecane, then Ghana, Mali, Asante and Samori Toure, as the shared African past their own continent's classrooms all teach. That way is stocked here as the way Uganda teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 5 countries (Ethiopia, Angola, Mauritania, South Sudan, Uganda).**
+
+Searchable tags: Uganda, History expansion 2026-11-15, africa-to-1500/west-african-empires-ghana

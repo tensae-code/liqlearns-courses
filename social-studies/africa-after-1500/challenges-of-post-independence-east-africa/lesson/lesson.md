@@ -1,0 +1,27 @@
+# Challenges of post-independence East Africa
+
+## Do it first
+
+Before you read on, hold this lesson's one thing in mind: The new states inherit illiteracy, poor transport, civil wars, coups and human-rights violations — the independence generation's unfinished work. As you read, keep asking where each part of that sentence is proved.
+
+## Sub lesson 1 — Challenges facing post-independence East African countries
+
+The new states inherit illiteracy, poor transport, civil wars, coups and human-rights violations — the independence generation's unfinished work
+
+[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+
+## Sub lesson 2 — The Road to Independence
+
+After independence the region's economies stall — little to export, low income, poverty and poor living standards are the inheritance the lessons name
+
+[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+
+## Say it to your companion
+
+Tell your companion the story as its beats, in order: Challenges facing post-independence East African countries — the new states inherit illiteracy, poor transport, civil wars, coups and human-rights violations — the independence generation's unfinished work; The Road to Independence — after independence the region's economies stall — little to export, low income, poverty and poor living standards are the inheritance the lessons name. Then let your companion ask you one hard question about it — answer from the lesson.
+
+## Do It Yourself
+
+1. The new states inherit illiteracy, poor transport, civil wars, coups and human-rights violations — the independence generation's unfinished work
+2. Write, from memory, the lesson's key names and places in the order they happened.
+3. Say what Uganda's own way of teaching this story is, from the books in lesson/sources.md.

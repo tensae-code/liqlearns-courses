@@ -1,6 +1,6 @@
 # Sources — The Atlantic slave trade — scale, coasts and the gun cycle
 
-countries: Ethiopia, Angola, Gambia, Australia, Bahamas, Dominican Republic, Suriname, Colombia, South Sudan, Samoa
+countries: Ethiopia, Angola, Gambia, Australia, Bahamas, Dominican Republic, Suriname, Colombia, South Sudan, Samoa, Uganda
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -270,3 +270,25 @@ Samoa's own way (Book 8 — y11-book-1 (Social Studies, Year 11 Book One)): Samo
 **Acceptance count: taught in 10 countries (Ethiopia, Angola, Gambia, Australia, Bahamas, Dominican Republic, Suriname, Colombia, South Sudan, Samoa).**
 
 Searchable tags: Samoa, History expansion 2026-11-15, africa-after-1500/the-atlantic-slave-trade-scale-coasts-and-the-gun-cycle
+
+## History expansion (2026-11-15) — Uganda stocked
+
+**Book 10 — uganda-s3-home-study-history (student book, English) — COMBINED History and Political Education**
+- Title as printed: Home-Study Learning — Senior 3 — History (cover title; the subject of record is History and Political Education)
+- Grade: Senior Three / grade-10 (student/teacher: STUDENT)
+- Publisher: National Curriculum Development Centre (NCDC), Ministry of Education and Sports, Uganda; August 2020; no ISBN printed
+- PDF pages: 136 (cover verified against the record title; retrieved via the TSV mid-size-books-2 release asset)
+- Verdict: COMPLETE (combined subject — the booklet carries Senior Three Terms 2–3, Southern and West Africa, and a Senior Four Term 1 section on West Africa, all placed below; no separate Political Education lessons appear)
+- Tally: 28 placements — 5 to existing lessons, 23 NEW LESSON NEEDED
+- Uganda's own way: Senior Three leaves East Africa entirely — Uganda's learners study Shaka and Moshesh, the Trek and the Mfecane, then Ghana, Mali, Asante and Samori Toure, as the shared African past their own continent's classrooms all teach.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/uganda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Uganda part — Senior Four Term 1, Topic 1: The Trans-Atlantic Slave Trade (Triangular Trade) — story beats: the trade begins in 1441 with the Portuguese on the West African coast; as the trans-Saharan trade declines, its traders move over in numbers, and chiefs and kings bring the captives down to the European buyers (History expansion, 2026-11-15; original placement slug: africa-after-1500/the-trans-atlantic-slave-trade) | Uganda, *Home-Study Learning — Senior 3 — History (cover title; the subject of record is History and Political Education)*, printed p. 83 |
+
+Uganda's own way (Book 10 — uganda-s3-home-study-history (student book, English)): Senior Three leaves East Africa entirely — Uganda's learners study Shaka and Moshesh, the Trek and the Mfecane, then Ghana, Mali, Asante and Samori Toure, as the shared African past their own continent's classrooms all teach. That way is stocked here as the way Uganda teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 11 countries (Ethiopia, Angola, Gambia, Australia, Bahamas, Dominican Republic, Suriname, Colombia, South Sudan, Samoa, Uganda).**
+
+Searchable tags: Uganda, History expansion 2026-11-15, africa-after-1500/the-atlantic-slave-trade-scale-coasts-and-the-gun-cycle

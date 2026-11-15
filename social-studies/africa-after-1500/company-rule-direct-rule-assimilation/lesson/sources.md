@@ -1,6 +1,6 @@
 # Sources — Company rule, direct rule, assimilation
 
-countries: Ethiopia, Gambia, Mauritania
+countries: Ethiopia, Gambia, Mauritania, Uganda
 
 **Book 1:** *History, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN 978-99990-0-065-9, printed by GRAVITY GROUP IND LLC, Sharjah, UAE. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g10-student-placements.md
 
@@ -90,3 +90,27 @@ This book is a teacher guide. The South Sudan rows below stand on it as teacher-
 South Sudan's own way (Book 16 — P8 Social Studies Teacher's Guide (teacher guide, English)): The guide frames the unit as historical inquiry — books, internet and archives, accounts by people who described the migration, a chronological framework, and a closing debate on what is still felt today. That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 3 countries (Ethiopia, Gambia, Mauritania) — unchanged; the South Sudan placement(s) above are teacher-guide evidence only, counted nowhere. South Sudan is not added to this lesson's countries line.**
+
+## History expansion (2026-11-15) — Uganda stocked
+
+**Book 4 — uganda-excel-p6 (student book, English) — COMBINED Social Studies**
+- Title as printed: Excel Standard Social Studies, Pupil's Book 6 — First Edition
+- Grade: Primary 6 / grade-06 (student/teacher: STUDENT)
+- Publisher: Excel Publishers; year not printed (first edition; content current to the Museveni era); no ISBN printed
+- PDF pages: 210 (cover verified against the record title; the all-terms file repeats the front matter and contents mid-file)
+- Verdict: COMPLETE (combined book — History parts placed below; Geography/Civics parts named, not placed)
+- Geography parts (named, not placed): Topic 2 Major Resources in East Africa; Topic 3 Transport and Communication in East Africa; population and settlement sections (printed pp. 66–72 and the migration/settlement material of Term 1)
+- Civics parts (named, not placed): Topic 5 Responsible Living in the East African Environment; citizenship, children's rights, human rights and elections sections closing Term 3 (printed pp. 190–198); the East African Community's organs and symbols are placed only for their history
+- Tally: 36 placements — 7 to existing lessons, 29 NEW LESSON NEEDED
+- Uganda's own way: P6 widens the lens from Uganda to all East Africa — one shared past of migrations, kingdoms, coastal trade and rebellions, told country by country but always as one region's story, ending with the East African Community itself as a history lesson.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/uganda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Uganda part — Topic 4: Trading companies — story beats: IBEACO and the German East Africa Company rule first, but too few administrators and missionary opposition end company rule (History expansion, 2026-11-15; original placement slug: africa-after-1500/company-rule-in-east-africa) | Uganda, *Excel Standard Social Studies, Pupil's Book 6 — First Edition*, printed p. 150 |
+
+Uganda's own way (Book 4 — uganda-excel-p6 (student book, English)): P6 widens the lens from Uganda to all East Africa — one shared past of migrations, kingdoms, coastal trade and rebellions, told country by country but always as one region's story, ending with the East African Community itself as a history lesson. That way is stocked here as the way Uganda teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 4 countries (Ethiopia, Gambia, Mauritania, Uganda).**
+
+Searchable tags: Uganda, History expansion 2026-11-15, africa-after-1500/company-rule-direct-rule-assimilation

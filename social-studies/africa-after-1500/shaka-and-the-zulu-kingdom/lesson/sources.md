@@ -1,6 +1,6 @@
 # Sources — Shaka and the Zulu Kingdom
 
-countries: Ethiopia, Nigeria
+countries: Ethiopia, Nigeria, Uganda
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -29,3 +29,25 @@ Nigeria's own way: Nigeria's SSS history course deliberately teaches other regio
 
 **Acceptance count: taught in 2 countries (Ethiopia, Nigeria).**
 
+
+## History expansion (2026-11-15) — Uganda stocked
+
+**Book 10 — uganda-s3-home-study-history (student book, English) — COMBINED History and Political Education**
+- Title as printed: Home-Study Learning — Senior 3 — History (cover title; the subject of record is History and Political Education)
+- Grade: Senior Three / grade-10 (student/teacher: STUDENT)
+- Publisher: National Curriculum Development Centre (NCDC), Ministry of Education and Sports, Uganda; August 2020; no ISBN printed
+- PDF pages: 136 (cover verified against the record title; retrieved via the TSV mid-size-books-2 release asset)
+- Verdict: COMPLETE (combined subject — the booklet carries Senior Three Terms 2–3, Southern and West Africa, and a Senior Four Term 1 section on West Africa, all placed below; no separate Political Education lessons appear)
+- Tally: 28 placements — 5 to existing lessons, 23 NEW LESSON NEEDED
+- Uganda's own way: Senior Three leaves East Africa entirely — Uganda's learners study Shaka and Moshesh, the Trek and the Mfecane, then Ghana, Mali, Asante and Samori Toure, as the shared African past their own continent's classrooms all teach.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/uganda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Uganda part — Term 2: The rise of the Zulu nation — story beats: Shaka's most significant chiefs are military indunas with no blood tie to the king — loyalty by merit, discipline by design — and the king himself an "unequalled dictator" (History expansion, 2026-11-15; original placement slug: africa-after-1500/shaka-and-the-zulu-nation) | Uganda, *Home-Study Learning — Senior 3 — History (cover title; the subject of record is History and Political Education)*, printed p. 22 |
+
+Uganda's own way (Book 10 — uganda-s3-home-study-history (student book, English)): Senior Three leaves East Africa entirely — Uganda's learners study Shaka and Moshesh, the Trek and the Mfecane, then Ghana, Mali, Asante and Samori Toure, as the shared African past their own continent's classrooms all teach. That way is stocked here as the way Uganda teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 3 countries (Ethiopia, Nigeria, Uganda).**
+
+Searchable tags: Uganda, History expansion 2026-11-15, africa-after-1500/shaka-and-the-zulu-kingdom

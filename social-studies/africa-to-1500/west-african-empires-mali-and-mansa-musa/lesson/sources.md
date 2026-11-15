@@ -1,6 +1,6 @@
 # Sources — West African Empires — Mali and Mansa Musa
 
-countries: Ethiopia, Angola, Mauritania
+countries: Ethiopia, Angola, Mauritania, Uganda
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -58,3 +58,25 @@ Angola's own way (History expansion, 2026-11-15): A pupil in Angola learns Afric
 Mauritania's own way (mr-g08 — History, 2nd preparatory year (student book, Arabic)): Three units — (1) Mauritania and Bilad al-Sudan in the middle centuries and their ties to North Africa, (2) Europe's great transformations 15th–19th centuries, (3) the world from modern colonialism to the end of WWII. Mauritania's own medieval story (Islam's peaceful entry, the Almoravids born on its soil, the Sudan empires, the Sahara trade) is taught first and at greatest length. That way is stocked here as the way Mauritania teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 3 countries (Ethiopia, Angola, Mauritania).**
+
+## History expansion (2026-11-15) — Uganda stocked
+
+**Book 10 — uganda-s3-home-study-history (student book, English) — COMBINED History and Political Education**
+- Title as printed: Home-Study Learning — Senior 3 — History (cover title; the subject of record is History and Political Education)
+- Grade: Senior Three / grade-10 (student/teacher: STUDENT)
+- Publisher: National Curriculum Development Centre (NCDC), Ministry of Education and Sports, Uganda; August 2020; no ISBN printed
+- PDF pages: 136 (cover verified against the record title; retrieved via the TSV mid-size-books-2 release asset)
+- Verdict: COMPLETE (combined subject — the booklet carries Senior Three Terms 2–3, Southern and West Africa, and a Senior Four Term 1 section on West Africa, all placed below; no separate Political Education lessons appear)
+- Tally: 28 placements — 5 to existing lessons, 23 NEW LESSON NEEDED
+- Uganda's own way: Senior Three leaves East Africa entirely — Uganda's learners study Shaka and Moshesh, the Trek and the Mfecane, then Ghana, Mali, Asante and Samori Toure, as the shared African past their own continent's classrooms all teach.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/uganda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Uganda part — Topic: Empires of Western Sudan: The reign of Mansa Musa (1307–1337) — story beats: Mansa Kankan Musa extends Mali north and east with a strong army, controls the gold trade, and draws Islamic scholars to an empire he works to purify in Islam (History expansion, 2026-11-15; original placement slug: africa-to-1500/mansa-musa-and-the-empire-of-mali) | Uganda, *Home-Study Learning — Senior 3 — History (cover title; the subject of record is History and Political Education)*, printed p. 71 |
+
+Uganda's own way (Book 10 — uganda-s3-home-study-history (student book, English)): Senior Three leaves East Africa entirely — Uganda's learners study Shaka and Moshesh, the Trek and the Mfecane, then Ghana, Mali, Asante and Samori Toure, as the shared African past their own continent's classrooms all teach. That way is stocked here as the way Uganda teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 4 countries (Ethiopia, Angola, Mauritania, Uganda).**
+
+Searchable tags: Uganda, History expansion 2026-11-15, africa-to-1500/west-african-empires-mali-and-mansa-musa

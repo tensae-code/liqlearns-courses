@@ -1,6 +1,6 @@
 # Sources — The Scramble and Berlin 1884–85 — a continent partitioned on paper
 
-countries: Ethiopia, Gambia, South Sudan, Libya
+countries: Ethiopia, Gambia, South Sudan, Libya, Uganda
 
 **Book 1:** *History, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN 978-99990-0-065-9, printed by GRAVITY GROUP IND LLC, Sharjah, UAE. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g10-student-placements.md
 
@@ -111,3 +111,94 @@ South Sudan's own way (Book 17 — S1 History Student's Book (student book, Engl
 Libya's own way (Book 8 — G6 Social Studies (History and Geography) (student book, Arabic) — COMBINED): the whole modern national story — Ottoman province, Karamanli state, Italian invasion, republic, Mukhtar, liberation, kingdom — is taught to eleven-year-olds as Libya's own continuous story. That way is stocked here as the way Libya teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 4 countries (Ethiopia, Gambia, South Sudan, Libya).**
+
+## History expansion (2026-11-15) — Uganda stocked
+
+**Book 2 — uganda-excel-p5 (student book, English) — COMBINED Social Studies**
+- Title as printed: Excel Standard Social Studies, Pupil's Book 5 — First Edition
+- Grade: Primary 5 / grade-05 (student/teacher: STUDENT)
+- Publisher: Excel Publishers; year not printed (content current to the 2020 cabinet and census); no ISBN printed
+- PDF pages: 213 (cover verified against the record title; the all-terms file repeats the front matter and table of contents mid-file)
+- Verdict: COMPLETE (combined book — History parts placed below; other subjects named, not placed)
+- Geography parts (named, not placed): Term One Topics 1–5 — Location of Uganda on the map of East Africa, physical features, climate, natural resources and agriculture, vegetation, printed pp. 6–91; Topic 12 — Population Size and Distribution
+- Civics parts (named, not placed): Topic 11 — The Government of Uganda (arms of government, elections, electoral systems); the democracy/elections sections of Topic 10
+- Tally: 23 placements — 6 to existing lessons, 17 NEW LESSON NEEDED
+- Uganda's own way: a commercial pupil's book that teaches the national story as a straight march — stone-age man, the ethnic migrations, the kingdoms, then Arabs, explorers, missionaries, company, protectorate, agreements, LEGCO, parties, independence — with a named hero, villain or martyr at nearly every step.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/uganda-placements.md.
+
+**Book 4 — uganda-excel-p6 (student book, English) — COMBINED Social Studies**
+- Title as printed: Excel Standard Social Studies, Pupil's Book 6 — First Edition
+- Grade: Primary 6 / grade-06 (student/teacher: STUDENT)
+- Publisher: Excel Publishers; year not printed (first edition; content current to the Museveni era); no ISBN printed
+- PDF pages: 210 (cover verified against the record title; the all-terms file repeats the front matter and contents mid-file)
+- Verdict: COMPLETE (combined book — History parts placed below; Geography/Civics parts named, not placed)
+- Geography parts (named, not placed): Topic 2 Major Resources in East Africa; Topic 3 Transport and Communication in East Africa; population and settlement sections (printed pp. 66–72 and the migration/settlement material of Term 1)
+- Civics parts (named, not placed): Topic 5 Responsible Living in the East African Environment; citizenship, children's rights, human rights and elections sections closing Term 3 (printed pp. 190–198); the East African Community's organs and symbols are placed only for their history
+- Tally: 36 placements — 7 to existing lessons, 29 NEW LESSON NEEDED
+- Uganda's own way: P6 widens the lens from Uganda to all East Africa — one shared past of migrations, kingdoms, coastal trade and rebellions, told country by country but always as one region's story, ending with the East African Community itself as a history lesson.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/uganda-placements.md.
+
+**Book 6 — uganda-s1-home-study-history (student book, English) — COMBINED History and Political Education**
+- Title as printed: Home-Study Learning — Senior 1 — History (cover title; the subject of record is History and Political Education)
+- Grade: Senior One / grade-08 (student/teacher: STUDENT)
+- Publisher: National Curriculum Development Centre (NCDC), Ministry of Education and Sports, Uganda; August 2020; no ISBN printed
+- PDF pages: 64 (cover verified against the record title; retrieved via the TSV release asset — the books.json tree path was not attempted after the same 404 pattern on the other Uganda records; the file lives in the mid-size-books-2 release)
+- Verdict: COMPLETE (combined subject — the booklet carries the Term 2 History topics; no separate Political Education lessons appear in this booklet, so nothing is named as unplaced except the subject pairing itself)
+- Tally: 11 placements — 4 to existing lessons, 7 NEW LESSON NEEDED
+- Uganda's own way: at Senior One the story gains causes and consequences — migrations explained by pasture, water and population pressure; resistance explained, and its failure explained too, down to the Jumbe Magoya who betrayed the hiding places.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/uganda-placements.md.
+
+**Book 7 — uganda-s1-textbook-history-political-ed (student book, English) — COMBINED History and Political Education**
+- Title as printed: History and Political Education Textbook — Senior One (Lower Secondary Curriculum, PROTOTYPE)
+- Grade: Senior One / grade-08 (student/teacher: STUDENT)
+- Publisher: National Curriculum Development Centre (NCDC), Uganda; published 2020 (prototype for the revised Lower Secondary Curriculum); no ISBN printed
+- PDF pages: 112 (cover verified against the record title; retrieved via the TSV mid-size-books-2 release asset)
+- Verdict: COMPLETE (combined book — History chapters placed below; the Political Education strand runs inside the same chapters — justice, gender roles, rights — with no separate chapters to name)
+- Tally: 20 placements — 5 to existing lessons, 15 NEW LESSON NEEDED
+- Uganda's own way: the new lower-secondary curriculum teaches East Africa whole — every chapter opens with a story or a village problem (a banana plantation dug up for a hall reveals buried artefacts) and ends by making the learner solve a present-day situation with the past.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/uganda-placements.md.
+
+**Book 9 — uganda-s2-home-study-history (student book, English) — COMBINED History and Political Education**
+- Title as printed: Home-Study Learning — Senior 2 — History (cover title; the subject of record is History and Political Education)
+- Grade: Senior Two / grade-09 (student/teacher: STUDENT)
+- Publisher: National Curriculum Development Centre (NCDC), Ministry of Education and Sports, Uganda; August 2020; no ISBN printed
+- PDF pages: 64 (cover verified against the record title; retrieved via the books.json tree path)
+- Verdict: COMPLETE (combined subject — Terms 1–2 History topics placed below; no separate Political Education lessons appear in this booklet)
+- Tally: 15 placements — 6 to existing lessons, 9 NEW LESSON NEEDED
+- Uganda's own way: Senior Two turns to pressures from outside — Egypt pushing down the Nile, explorers whose treaties become title deeds, and the railway that kills the Nandi's Orkoiyot — and to the replies East Africans made, from the Nandi's spears to the Maji-Maji water.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/uganda-placements.md.
+
+**Book 10 — uganda-s3-home-study-history (student book, English) — COMBINED History and Political Education**
+- Title as printed: Home-Study Learning — Senior 3 — History (cover title; the subject of record is History and Political Education)
+- Grade: Senior Three / grade-10 (student/teacher: STUDENT)
+- Publisher: National Curriculum Development Centre (NCDC), Ministry of Education and Sports, Uganda; August 2020; no ISBN printed
+- PDF pages: 136 (cover verified against the record title; retrieved via the TSV mid-size-books-2 release asset)
+- Verdict: COMPLETE (combined subject — the booklet carries Senior Three Terms 2–3, Southern and West Africa, and a Senior Four Term 1 section on West Africa, all placed below; no separate Political Education lessons appear)
+- Tally: 28 placements — 5 to existing lessons, 23 NEW LESSON NEEDED
+- Uganda's own way: Senior Three leaves East Africa entirely — Uganda's learners study Shaka and Moshesh, the Trek and the Mfecane, then Ghana, Mali, Asante and Samori Toure, as the shared African past their own continent's classrooms all teach.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/uganda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Uganda part — Topic 7: The Imperial British East Africa Company and the Scramble — story beats: in 1888 Britain charters the IBEA Company to administer its 1886 treaty share; Kabaka Mwanga begs the Company's Jackson for help in 1889, and Emin Pasha's Equatoria falls to Kitchener's Anglo-Egyptian force in 1898 (History expansion, 2026-11-15; original placement slug: africa-after-1500/the-scramble-and-berlin-1884-85) | Uganda, *Excel Standard Social Studies, Pupil's Book 5 — First Edition*, printed pp. 137–139 |
+| Uganda part — Topic 4: The scramble, partition and the Heligoland treaty — story beats: in 1890 Britain trades the Heligoland islands to Germany for a free hand in Uganda — an island in Europe swapped for a kingdom in Africa (History expansion, 2026-11-15; original placement slug: africa-after-1500/the-scramble-and-berlin-1884-85) | Uganda, *Excel Standard Social Studies, Pupil's Book 6 — First Edition*, printed p. 147 |
+| Uganda part — Chapter 8, Topic: Scramble, Partition and Colonisation of East Africa — story beats: Berlin 1884–85 starts the rush; Britain wants the Nile's source to guard Egypt and the sea route to India; missionaries soften hearts with the Bible while chartered companies administer on the cheap (History expansion, 2026-11-15; original placement slug: africa-after-1500/the-scramble-and-berlin-1884-85) | Uganda, *Home-Study Learning — Senior 1 — History (cover title; the subject of record is History and Political Education)*, printed p. 41 |
+| Uganda part — Chapter 8: The Scramble and Colonisation of East Africa — story beats: Mombasa, the Nile's source and Dar es Salaam are the strategic prizes; missionaries preach legitimate trade against the slave trade while the powers position for the ports and the river (History expansion, 2026-11-15; original placement slug: africa-after-1500/the-scramble-and-berlin-1884-85) | Uganda, *History and Political Education Textbook — Senior One (Lower Secondary Curriculum, PROTOTYPE)*, printed p. 82 |
+| Uganda part — Term 2, Topic 2: European Imperialism in East Africa — story beats: after partition the Europeans settle the Kenya highlands, Africans lose land to reserve camps like the Maasai's, and new boundaries are drawn without them (History expansion, 2026-11-15; original placement slug: africa-after-1500/the-scramble-and-berlin-1884-85) | Uganda, *Home-Study Learning — Senior 2 — History (cover title; the subject of record is History and Political Education)*, printed p. 19 |
+| Uganda part — Senior Four Term 1, Topic: The Scramble for and Partition of West Africa — story beats: Berlin 1884–85 encourages the rush; Goldie's Royal Niger Company acquires colonies for Britain while missionaries soften the ground (History expansion, 2026-11-15; original placement slug: africa-after-1500/the-scramble-and-berlin-1884-85) | Uganda, *Home-Study Learning — Senior 3 — History (cover title; the subject of record is History and Political Education)*, printed p. 111 |
+
+Uganda's own way (Book 2 — uganda-excel-p5 (student book, English)): a commercial pupil's book that teaches the national story as a straight march — stone-age man, the ethnic migrations, the kingdoms, then Arabs, explorers, missionaries, company, protectorate, agreements, LEGCO, parties, independence — with a named hero, villain or martyr at nearly every step. That way is stocked here as the way Uganda teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Uganda's own way (Book 4 — uganda-excel-p6 (student book, English)): P6 widens the lens from Uganda to all East Africa — one shared past of migrations, kingdoms, coastal trade and rebellions, told country by country but always as one region's story, ending with the East African Community itself as a history lesson. That way is stocked here as the way Uganda teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Uganda's own way (Book 6 — uganda-s1-home-study-history (student book, English)): at Senior One the story gains causes and consequences — migrations explained by pasture, water and population pressure; resistance explained, and its failure explained too, down to the Jumbe Magoya who betrayed the hiding places. That way is stocked here as the way Uganda teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Uganda's own way (Book 7 — uganda-s1-textbook-history-political-ed (student book, English)): the new lower-secondary curriculum teaches East Africa whole — every chapter opens with a story or a village problem (a banana plantation dug up for a hall reveals buried artefacts) and ends by making the learner solve a present-day situation with the past. That way is stocked here as the way Uganda teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Uganda's own way (Book 9 — uganda-s2-home-study-history (student book, English)): Senior Two turns to pressures from outside — Egypt pushing down the Nile, explorers whose treaties become title deeds, and the railway that kills the Nandi's Orkoiyot — and to the replies East Africans made, from the Nandi's spears to the Maji-Maji water. That way is stocked here as the way Uganda teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Uganda's own way (Book 10 — uganda-s3-home-study-history (student book, English)): Senior Three leaves East Africa entirely — Uganda's learners study Shaka and Moshesh, the Trek and the Mfecane, then Ghana, Mali, Asante and Samori Toure, as the shared African past their own continent's classrooms all teach. That way is stocked here as the way Uganda teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 5 countries (Ethiopia, Gambia, South Sudan, Libya, Uganda).**
+
+Searchable tags: Uganda, History expansion 2026-11-15, africa-after-1500/the-scramble-and-berlin-1884-85
