@@ -1,6 +1,6 @@
 # Sources — From evidence to a written history
 
-countries: Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Bulgaria, Palestine, Colombia, South Sudan, Mongolia, Samoa, Mozambique, Jordan, Uzbekistan, North Macedonia, Afghanistan, Cuba, Venezuela, Moldova, Armenia, Nicaragua, Honduras
+countries: Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Bulgaria, Palestine, Colombia, South Sudan, Mongolia, Samoa, Mozambique, Jordan, Uzbekistan, North Macedonia, Afghanistan, Cuba, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -2060,3 +2060,104 @@ This book is a teacher guide. The Honduras rows from this book below stand on it
 Honduras's own way (Book 16 — Ciencias Sociales, Octavo Grado (TEACHER)): the guide mirrors the student book lesson-for-lesson (same 38 lessons, same Americas history block 20–29), adding the teacher's framing, answer keys and project guidance for the same continental narrative. That way is stocked here as the way Honduras teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 42 countries (Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Bulgaria, Palestine, Colombia, South Sudan, Mongolia, Samoa, Mozambique, Jordan, Uzbekistan, North Macedonia, Afghanistan, Cuba, Venezuela, Moldova, Armenia, Nicaragua, Honduras).**
+
+
+## History expansion (2026-11-15) — Italy stocked
+
+**Book 1 — La storia. Progettare il futuro, Vol. 1 (student book, Italian)**
+- Title as printed: La storia. Progettare il futuro — Vol. 1: Dall'anno Mille al Seicento (Alessandro Barbero, Chiara Frugoni, Carla Sclarandis)
+- Grade: Grade 11 (student/teacher: STUDENT)
+- Publisher: Zanichelli; year 2024; ISBN 9788808317537
+- PDF pages: 715 (scan opens with the printed indice, no cover page in the file; title and contents verified against the record title from the indice and the Unità 1 opening pages)
+- Verdict: COMPLETE
+- Tally: 59 placements — 14 to existing lessons, 45 NEW LESSON NEEDED
+- Italy's own way: a liceo survey built on "nuclei fondanti" (core nuclei) per unit, with primary documents, paired historians (Storici a confronto), laboratory and CLIL English sections in every unit, and Italy's own communal and Renaissance story given centre stage.
+- Non-History parts named, not placed (Civics-owned EDUCAZIONE CIVICA boxes): Scuola e università per tutti, printed p. 122; Il problema della disuguaglianza di genere, p. 261; La libertà religiosa, p. 526; Un'agricoltura più produttiva e resiliente, p. 562.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Italy part — Documenti and Laboratorio storia strands in every unit — story beats: each unit closes its chapters with primary documents — an agrarian contract, Magna Carta, Las Casas, the Bill of Rights — to be read, questioned and turned into written history (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Italy, *La storia. Progettare il futuro — Vol. 1: Dall'anno Mille al Seicento (Alessandro Barbero, Chiara Frugoni, Carla Sclarandis)*, printed pp. 36, 170, 389, 627 |
+
+Italy's own way (Book 1 — La storia. Progettare il futuro, Vol. 1 (student book, Italian)): a liceo survey built on "nuclei fondanti" (core nuclei) per unit, with primary documents, paired historians (Storici a confronto), laboratory and CLIL English sections in every unit, and Italy's own communal and Renaissance story given centre stage. That way is stocked here as the way Italy teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 2 — Lo spazio del tempo, Vol. 1 (student book, Italian)**
+- Title as printed: Lo spazio del tempo 1 — Storia Documenti Storiografia dall'XI al XVII secolo (Andrea Giardina, Giovanni Sabbatucci, Vittorio Vidotto)
+- Grade: Grade 11 (student/teacher: STUDENT)
+- Publisher: Editori Laterza; year 2015 (first edition; 2016 reprint); ISBN 9788842114055
+- PDF pages: 733 (cover verified against the record title; full text layer read)
+- Verdict: COMPLETE
+- Tally: 39 placements — 15 to existing lessons, 24 NEW LESSON NEEDED
+- Italy's own way: Laterza's rival liceo course organises the same centuries in moduli built around documents — every chapter carries numbered DOC dossiers, Eventi and Personaggi boxes, a Guida allo studio and competence exercises, so the student works as a historian from sources first and narrative second.
+- Non-History parts named, not placed (Civics-owned "Storia, società, cittadinanza" boxes): Monarchie di ieri e di oggi, printed p. 114; Pirati di ieri e di oggi, p. 404; La tortura, p. 516.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Italy part — The Fare storia dossiers and Guida allo studio / Sviluppare le competenze strands throughout — story beats: over 180 numbered documents — from Magna Carta to the Putney debates — are set as the student's own evidence, each with study guides teaching how to read, compare and write from them (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Italy, *Lo spazio del tempo 1 — Storia Documenti Storiografia dall'XI al XVII secolo (Andrea Giardina, Giovanni Sabbatucci, Vittorio Vidotto)*, printed pp. 37, 87, 150, 284, 519, 622 |
+
+Italy's own way (Book 2 — Lo spazio del tempo, Vol. 1 (student book, Italian)): Laterza's rival liceo course organises the same centuries in moduli built around documents — every chapter carries numbered DOC dossiers, Eventi and Personaggi boxes, a Guida allo studio and competence exercises, so the student works as a historian from sources first and narrative second. That way is stocked here as the way Italy teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 3 — La storia. Progettare il futuro, Vol. 2 (student book, Italian)**
+- Title as printed: La storia. Progettare il futuro — Vol. 2: Il Settecento e l'Ottocento (Alessandro Barbero, Chiara Frugoni, Carla Sclarandis)
+- Grade: Grade 12 (student/teacher: STUDENT)
+- Publisher: Zanichelli; year 2024; ISBN 9788808606877
+- PDF pages: 718 (scan opens with the printed indice, as in Vol. 1; title, authors and contents verified against the record title from the indice and the opening "Conoscere la storia" pages; full text layer read)
+- Verdict: COMPLETE
+- Tally: 51 placements — 26 to existing lessons, 25 NEW LESSON NEEDED
+- Italy's own way: the Barbero course's second volume runs 1700–1900 as five units built on the same nuclei fondanti method — Documents, Storici a confronto debates (was the American Revolution the most revolutionary of all? was trasformismo a pathology?), Laboratorio storia and CLIL English closings per unit — with Italy's Risorgimento given two full chapters and the liberal age's own crises (brigantaggio, the Southern question, Dogali) told from inside.
+- Non-History parts named, not placed (Civics-owned EDUCAZIONE CIVICA boxes): La libertà di stampa, printed p. 44; Industrializzazione e ambiente, p. 102; La divisione dei poteri, p. 126; È legittimo resistere al potere?, p. 174; Il diritto a un lavoro dignitoso, p. 322; Progettare città sostenibili, p. 418; Si può giustificare la pena di morte?, p. 618.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Italy part — Documenti and 'Un documento, un diritto' strands in every unit — story beats: the Declaration of Independence, the Rights of Man, Olympe de Gouges, the Gettysburg Address and the Berlin Act are set as the student's own evidence, each tied to a right still in force (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Italy, *La storia. Progettare il futuro — Vol. 2: Il Settecento e l'Ottocento (Alessandro Barbero, Chiara Frugoni, Carla Sclarandis)*, printed pp. 131, 179, 453, 593 |
+
+Italy's own way (Book 3 — La storia. Progettare il futuro, Vol. 2 (student book, Italian)): the Barbero course's second volume runs 1700–1900 as five units built on the same nuclei fondanti method — Documents, Storici a confronto debates (was the American Revolution the most revolutionary of all? was trasformismo a pathology?), Laboratorio storia and CLIL English closings per unit — with Italy's Risorgimento given two full chapters and the liberal age's own crises (brigantaggio, the Southern question, Dogali) told from inside. That way is stocked here as the way Italy teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 4 — Lo spazio del tempo, Vol. 2 (student book, Italian)**
+- Title as printed: Lo spazio del tempo 2 — Storia Documenti Storiografia dal XVII al XIX secolo (Andrea Giardina, Giovanni Sabbatucci, Vittorio Vidotto)
+- Grade: Grade 12 (student/teacher: STUDENT)
+- Publisher: Editori Laterza; year 2015; ISBN 9788842114062 (ISBN as printed in the book's front matter)
+- PDF pages: 745 (cover verified against the record title; full text layer read)
+- Verdict: COMPLETE
+- Tally: 47 placements — 20 to existing lessons, 27 NEW LESSON NEEDED
+- Italy's own way: Laterza's second volume runs a long '700 (from 1660) and a long '800 (to 1914) in six moduli; its signature is the Fare storia dossier apparatus — 178 numbered documents and historiography pieces, from Galileo's trial and Gustavus Vassa's slave narrative to Gramsci on the Risorgimento — so narrative chapters alternate with the sources that argue about them.
+- Non-History parts named, not placed (Civics-owned "Storia, società, cittadinanza" boxes): Il diritto internazionale, printed p. 32; Controllo, punizione, rieducazione, p. 46; I diritti naturali, p. 76; Incontri e scontri fra civiltà, p. 142; La tutela della biodiversità, p. 158; Le Dichiarazioni dei diritti, p. 196; Lo Stato accentrato, p. 242; La tutela dei diritti dei lavoratori, p. 256; La tutela delle minoranze etniche, p. 268; I diritti di cittadinanza, p. 288; Patria e nazione, p. 316; L'organizzazione federale degli Stati, p. 338; Il suffragio, p. 426; La tutela dell'ordine pubblico, p. 442; La famiglia e le sue trasformazioni, p. 488; Il suffragio femminile e i diritti delle donne, p. 522; Il sistema parlamentare, p. 600; Schiavitù vecchie e nuove, p. 614; Il pregiudizio razziale, p. 632; La paura del diverso, p. 654; I conflitti di lavoro nello Stato democratico, p. 686.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Italy part — The Fare storia dossiers throughout (178 numbered pieces) — story beats: from Galileo's two planes of science to Gramsci's missed agrarian revolution, every module closes its argument in documents the student must weigh — the Laterza method in its purest form (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Italy, *Lo spazio del tempo 2 — Storia Documenti Storiografia dal XVII al XIX secolo (Andrea Giardina, Giovanni Sabbatucci, Vittorio Vidotto)*, printed pp. 79, 342, 526, 690 |
+
+Italy's own way (Book 4 — Lo spazio del tempo, Vol. 2 (student book, Italian)): Laterza's second volume runs a long '700 (from 1660) and a long '800 (to 1914) in six moduli; its signature is the Fare storia dossier apparatus — 178 numbered documents and historiography pieces, from Galileo's trial and Gustavus Vassa's slave narrative to Gramsci on the Risorgimento — so narrative chapters alternate with the sources that argue about them. That way is stocked here as the way Italy teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 5 — La storia. Progettare il futuro, Vol. 3 (student book, Italian)**
+- Title as printed: La storia. Progettare il futuro — Vol. 3: Il Novecento e l'età attuale (Alessandro Barbero, Chiara Frugoni, Carla Sclarandis)
+- Grade: Grade 13 (student/teacher: STUDENT)
+- Publisher: Zanichelli; year 2024; ISBN 9788808724342
+- PDF pages: 930 (scan opens with the printed indice, as in Vols. 1–2; title, authors and contents verified against the record title from the indice and the Unità 1 opening pages; full text layer read)
+- Verdict: COMPLETE
+- Tally: 114 placements — 23 to existing lessons, 91 NEW LESSON NEEDED
+- Italy's own way: the Barbero course's third volume runs the whole short century and beyond — 1900 to the war in Ukraine — in six units on the same nuclei fondanti method (Documents, Storici a confronto, Laboratorio storia, CLIL closings), but the documents now include speeches, photographs, songs and film, and the book ends by arguing about the present itself: unipolarism, globalisation's discontents and whether a "post-Western" order is being born.
+- Non-History parts named, not placed (Civics-owned EDUCAZIONE CIVICA boxes): Le migrazioni internazionali, printed p. 10; Epidemie e sanità pubblica, p. 147; Che cosa significa "uguaglianza"?, p. 192; Quanto sono universali i diritti?, p. 590; La rivoluzione digitale, p. 755; Il cambiamento climatico, p. 798.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Italy part — Documenti, Storiografia, Laboratorio storia and Storici a confronto strands in every unit — story beats: Fischer against Ferguson on Germany's war guilt, Corner against Ben-Ghiat on fascist modernity, Dian against Parsi on the post-Western order — the student watches historians argue the century from its evidence, 1900 to Ukraine (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Italy, *La storia. Progettare il futuro — Vol. 3: Il Novecento e l'età attuale (Alessandro Barbero, Chiara Frugoni, Carla Sclarandis)*, printed pp. 260, 464, 822 |
+
+Italy's own way (Book 5 — La storia. Progettare il futuro, Vol. 3 (student book, Italian)): the Barbero course's third volume runs the whole short century and beyond — 1900 to the war in Ukraine — in six units on the same nuclei fondanti method (Documents, Storici a confronto, Laboratorio storia, CLIL closings), but the documents now include speeches, photographs, songs and film, and the book ends by arguing about the present itself: unipolarism, globalisation's discontents and whether a "post-Western" order is being born. That way is stocked here as the way Italy teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 6 — Lo spazio del tempo, Vol. 3 (student book, Italian)**
+- Title as printed: Lo spazio del tempo 3 — Storia Documenti Storiografia dal XX al XXI secolo (Andrea Giardina, Giovanni Sabbatucci, Vittorio Vidotto)
+- Grade: Grade 13 (student/teacher: STUDENT)
+- Publisher: Editori Laterza; year 2015 (first edition; 2016 reprint); ISBN 9788842114079 (ISBN as printed in the book's imprint page)
+- PDF pages: 728 (cover verified against the record title; full text layer read)
+- Verdict: COMPLETE
+- Tally: 114 placements — 23 to existing lessons, 91 NEW LESSON NEEDED
+- Italy's own way: Laterza's third volume tells the "short twentieth century" and its aftermath in 19 modules, each closed by the Fare storia dossier method at its largest scale — 207 numbered documents and historiography pieces in four dossier modules, from Clark on 1914 and Lenin's April Theses to Piketty on inequality and Huntington's clash of civilisations — so the century is argued from its sources, not merely narrated.
+- Non-History parts named, not placed (Civics-owned "Storia, società, cittadinanza" boxes): Il servizio militare, printed p. 40; Il mito della democrazia diretta, p. 64; Lo Stato e il monopolio della forza, p. 86; L'intervento pubblico nell'economia, p. 138; I meccanismi del terrore, p. 170; Stato e Chiesa in Italia, p. 192; Il Commonwealth, p. 212; I crimini contro l'umanità e la giustizia penale internazionale, p. 248; L'Onu e i suoi poteri, p. 342; Le forme del potere nei paesi ex coloniali, p. 374; Femminismo e diritti delle donne, p. 406; Il disarmo, p. 428; Il referendum, p. 462; La cittadinanza europea, p. 556; La difesa dell'ambiente, p. 584; Gli interventi umanitari, p. 608; La libertà di culto, p. 628; Proporzionale/maggioritario, p. 646; La personalizzazione della politica, p. 670.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Italy part — The Fare storia dossiers throughout (207 numbered pieces in four dossier modules) — story beats: from Clark on whether 1914 could have gone otherwise and the London Pact, through Arendt on totalitarianism, Levi and Höss on the Shoah, the Bandung manifesto and King's America, to Darnton at the Berlin Wall and Piketty on inequality — the Laterza method in its fullest form (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Italy, *Lo spazio del tempo 3 — Storia Documenti Storiografia dal XX al XXI secolo (Andrea Giardina, Giovanni Sabbatucci, Vittorio Vidotto)*, printed pp. 89, 252, 468, 676 |
+
+Italy's own way (Book 6 — Lo spazio del tempo, Vol. 3 (student book, Italian)): Laterza's third volume tells the "short twentieth century" and its aftermath in 19 modules, each closed by the Fare storia dossier method at its largest scale — 207 numbered documents and historiography pieces in four dossier modules, from Clark on 1914 and Lenin's April Theses to Piketty on inequality and Huntington's clash of civilisations — so the century is argued from its sources, not merely narrated. That way is stocked here as the way Italy teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 43 countries (Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Bulgaria, Palestine, Colombia, South Sudan, Mongolia, Samoa, Mozambique, Jordan, Uzbekistan, North Macedonia, Afghanistan, Cuba, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy).**

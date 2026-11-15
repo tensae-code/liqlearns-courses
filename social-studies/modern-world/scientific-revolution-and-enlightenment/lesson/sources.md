@@ -1,6 +1,6 @@
 # Sources — Scientific Revolution and Enlightenment
 
-countries: Ethiopia, France, Costa Rica, Ecuador, Belarus, Montenegro, Dominican Republic, Pakistan, Colombia, Mauritania, Mongolia, Samoa, Iraq, Uzbekistan, North Macedonia, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras
+countries: Ethiopia, France, Costa Rica, Ecuador, Belarus, Montenegro, Dominican Republic, Pakistan, Colombia, Mauritania, Mongolia, Samoa, Iraq, Uzbekistan, North Macedonia, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -591,3 +591,59 @@ This book is a teacher guide. The Honduras rows from this book below stand on it
 Honduras's own way (Book 12 — G6 teacher (teacher guide, Spanish)): The guide mirrors the student survey; its signature task is the double timeline — pupils complete both the traditional and the materialist periodisation lines and state one difference between them, so periodisation itself is taught as an argument, not a fact. That way is stocked here as the way Honduras teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 23 countries (Ethiopia, France, Costa Rica, Ecuador, Belarus, Montenegro, Dominican Republic, Pakistan, Colombia, Mauritania, Mongolia, Samoa, Iraq, Uzbekistan, North Macedonia, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras).**
+
+
+## History expansion (2026-11-15) — Italy stocked
+
+**Book 1 — La storia. Progettare il futuro, Vol. 1 (student book, Italian)**
+- Title as printed: La storia. Progettare il futuro — Vol. 1: Dall'anno Mille al Seicento (Alessandro Barbero, Chiara Frugoni, Carla Sclarandis)
+- Grade: Grade 11 (student/teacher: STUDENT)
+- Publisher: Zanichelli; year 2024; ISBN 9788808317537
+- PDF pages: 715 (scan opens with the printed indice, no cover page in the file; title and contents verified against the record title from the indice and the Unità 1 opening pages)
+- Verdict: COMPLETE
+- Tally: 59 placements — 14 to existing lessons, 45 NEW LESSON NEEDED
+- Italy's own way: a liceo survey built on "nuclei fondanti" (core nuclei) per unit, with primary documents, paired historians (Storici a confronto), laboratory and CLIL English sections in every unit, and Italy's own communal and Renaissance story given centre stage.
+- Non-History parts named, not placed (Civics-owned EDUCAZIONE CIVICA boxes): Scuola e università per tutti, printed p. 122; Il problema della disuguaglianza di genere, p. 261; La libertà religiosa, p. 526; Un'agricoltura più produttiva e resiliente, p. 562.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Italy part — Unità 6, Cap. 18 §4 The Scientific Revolution — story beats: Galileo's telescope and his clash with Cardinal Bellarmino (Storiografia) and Newton's Principia (in the Documents) remake the picture of the universe against the Church's resistance (History expansion, 2026-11-15; original placement slug: modern-world/scientific-revolution-and-enlightenment) | Italy, *La storia. Progettare il futuro — Vol. 1: Dall'anno Mille al Seicento (Alessandro Barbero, Chiara Frugoni, Carla Sclarandis)*, printed p. 567 |
+| Italy part — Unità 6, Cap. 18 §5 A new political thought — story beats: Locke argues power rests on consent and toleration (Document: Letter on toleration), giving the coming revolutions their language (History expansion, 2026-11-15; original placement slug: modern-world/scientific-revolution-and-enlightenment) | Italy, *La storia. Progettare il futuro — Vol. 1: Dall'anno Mille al Seicento (Alessandro Barbero, Chiara Frugoni, Carla Sclarandis)*, printed p. 572 |
+
+Italy's own way (Book 1 — La storia. Progettare il futuro, Vol. 1 (student book, Italian)): a liceo survey built on "nuclei fondanti" (core nuclei) per unit, with primary documents, paired historians (Storici a confronto), laboratory and CLIL English sections in every unit, and Italy's own communal and Renaissance story given centre stage. That way is stocked here as the way Italy teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 3 — La storia. Progettare il futuro, Vol. 2 (student book, Italian)**
+- Title as printed: La storia. Progettare il futuro — Vol. 2: Il Settecento e l'Ottocento (Alessandro Barbero, Chiara Frugoni, Carla Sclarandis)
+- Grade: Grade 12 (student/teacher: STUDENT)
+- Publisher: Zanichelli; year 2024; ISBN 9788808606877
+- PDF pages: 718 (scan opens with the printed indice, as in Vol. 1; title, authors and contents verified against the record title from the indice and the opening "Conoscere la storia" pages; full text layer read)
+- Verdict: COMPLETE
+- Tally: 51 placements — 26 to existing lessons, 25 NEW LESSON NEEDED
+- Italy's own way: the Barbero course's second volume runs 1700–1900 as five units built on the same nuclei fondanti method — Documents, Storici a confronto debates (was the American Revolution the most revolutionary of all? was trasformismo a pathology?), Laboratorio storia and CLIL English closings per unit — with Italy's Risorgimento given two full chapters and the liberal age's own crises (brigantaggio, the Southern question, Dogali) told from inside.
+- Non-History parts named, not placed (Civics-owned EDUCAZIONE CIVICA boxes): La libertà di stampa, printed p. 44; Industrializzazione e ambiente, p. 102; La divisione dei poteri, p. 126; È legittimo resistere al potere?, p. 174; Il diritto a un lavoro dignitoso, p. 322; Progettare città sostenibili, p. 418; Si può giustificare la pena di morte?, p. 618.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Italy part — Unità 1, Cap. 2 §§1–2 The hinges of the Enlightenment; Culture in the age of the Lumi — story beats: reason, toleration and the Encyclopédie — Kant, Voltaire, Diderot and Rousseau arm a generation with the idea that society can be remade by thought (History expansion, 2026-11-15; original placement slug: modern-world/scientific-revolution-and-enlightenment) | Italy, *La storia. Progettare il futuro — Vol. 2: Il Settecento e l'Ottocento (Alessandro Barbero, Chiara Frugoni, Carla Sclarandis)*, printed pp. 34, 37 |
+| Italy part — Unità 1, Cap. 2 §3 The Enlightenment, a movement open to the world — story beats: scientific voyages, salons and freemasonry carry the Lumi beyond Europe's courts, and the course asks whether the Enlightenment's science also fathered modern racism (Storici a confronto) (History expansion, 2026-11-15; original placement slug: modern-world/scientific-revolution-and-enlightenment) | Italy, *La storia. Progettare il futuro — Vol. 2: Il Settecento e l'Ottocento (Alessandro Barbero, Chiara Frugoni, Carla Sclarandis)*, printed p. 46 |
+
+Italy's own way (Book 3 — La storia. Progettare il futuro, Vol. 2 (student book, Italian)): the Barbero course's second volume runs 1700–1900 as five units built on the same nuclei fondanti method — Documents, Storici a confronto debates (was the American Revolution the most revolutionary of all? was trasformismo a pathology?), Laboratorio storia and CLIL English closings per unit — with Italy's Risorgimento given two full chapters and the liberal age's own crises (brigantaggio, the Southern question, Dogali) told from inside. That way is stocked here as the way Italy teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 4 — Lo spazio del tempo, Vol. 2 (student book, Italian)**
+- Title as printed: Lo spazio del tempo 2 — Storia Documenti Storiografia dal XVII al XIX secolo (Andrea Giardina, Giovanni Sabbatucci, Vittorio Vidotto)
+- Grade: Grade 12 (student/teacher: STUDENT)
+- Publisher: Editori Laterza; year 2015; ISBN 9788842114062 (ISBN as printed in the book's front matter)
+- PDF pages: 745 (cover verified against the record title; full text layer read)
+- Verdict: COMPLETE
+- Tally: 47 placements — 20 to existing lessons, 27 NEW LESSON NEEDED
+- Italy's own way: Laterza's second volume runs a long '700 (from 1660) and a long '800 (to 1914) in six moduli; its signature is the Fare storia dossier apparatus — 178 numbered documents and historiography pieces, from Galileo's trial and Gustavus Vassa's slave narrative to Gramsci on the Risorgimento — so narrative chapters alternate with the sources that argue about them.
+- Non-History parts named, not placed (Civics-owned "Storia, società, cittadinanza" boxes): Il diritto internazionale, printed p. 32; Controllo, punizione, rieducazione, p. 46; I diritti naturali, p. 76; Incontri e scontri fra civiltà, p. 142; La tutela della biodiversità, p. 158; Le Dichiarazioni dei diritti, p. 196; Lo Stato accentrato, p. 242; La tutela dei diritti dei lavoratori, p. 256; La tutela delle minoranze etniche, p. 268; I diritti di cittadinanza, p. 288; Patria e nazione, p. 316; L'organizzazione federale degli Stati, p. 338; Il suffragio, p. 426; La tutela dell'ordine pubblico, p. 442; La famiglia e le sue trasformazioni, p. 488; Il suffragio femminile e i diritti delle donne, p. 522; Il sistema parlamentare, p. 600; Schiavitù vecchie e nuove, p. 614; Il pregiudizio razziale, p. 632; La paura del diverso, p. 654; I conflitti di lavoro nello Stato democratico, p. 686.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Italy part — Modulo 1, Cap. 3 §§1–3 A cultural revolution: the new science; Galileo's trial (Eventi); A new political thought — story beats: science separates its plane from religion's (Document: Galileo), and political thought follows — the century learns to argue from evidence in both worlds (History expansion, 2026-11-15; original placement slug: modern-world/scientific-revolution-and-enlightenment) | Italy, *Lo spazio del tempo 2 — Storia Documenti Storiografia dal XVII al XIX secolo (Andrea Giardina, Giovanni Sabbatucci, Vittorio Vidotto)*, printed pp. 49, 52, 55 |
+| Italy part — Modulo 1, Cap. 3 §§4–7 The Enlightenment: its hinges and diffusion; The French illuminists; The new sciences and the Enlightenment in Europe; The Italian illuminists — story beats: Voltaire (Personaggi), the philosophes and Italy's own reformers carry reason into salons, lodges and academies across the continent (History expansion, 2026-11-15; original placement slug: modern-world/scientific-revolution-and-enlightenment) | Italy, *Lo spazio del tempo 2 — Storia Documenti Storiografia dal XVII al XIX secolo (Andrea Giardina, Giovanni Sabbatucci, Vittorio Vidotto)*, printed pp. 58, 61, 65, 67 |
+
+Italy's own way (Book 4 — Lo spazio del tempo, Vol. 2 (student book, Italian)): Laterza's second volume runs a long '700 (from 1660) and a long '800 (to 1914) in six moduli; its signature is the Fare storia dossier apparatus — 178 numbered documents and historiography pieces, from Galileo's trial and Gustavus Vassa's slave narrative to Gramsci on the Risorgimento — so narrative chapters alternate with the sources that argue about them. That way is stocked here as the way Italy teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 24 countries (Ethiopia, France, Costa Rica, Ecuador, Belarus, Montenegro, Dominican Republic, Pakistan, Colombia, Mauritania, Mongolia, Samoa, Iraq, Uzbekistan, North Macedonia, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy).**

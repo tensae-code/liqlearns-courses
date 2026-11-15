@@ -1,6 +1,6 @@
 # Sources — Historiography — history of history-writing
 
-countries: Ethiopia, Gambia, Bangladesh, Ecuador, Indonesia, Dominican Republic, United Kingdom, Bolivia, Iran, Palestine, Colombia, Samoa, Mozambique, Yemen, Uzbekistan, Venezuela, Moldova, Honduras
+countries: Ethiopia, Gambia, Bangladesh, Ecuador, Indonesia, Dominican Republic, United Kingdom, Bolivia, Iran, Palestine, Colombia, Samoa, Mozambique, Yemen, Uzbekistan, Venezuela, Moldova, Honduras, Italy
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -589,3 +589,24 @@ This book is a teacher guide. The Honduras rows from this book below stand on it
 Honduras's own way (Book 16 — Ciencias Sociales, Octavo Grado (TEACHER)): the guide mirrors the student book lesson-for-lesson (same 38 lessons, same Americas history block 20–29), adding the teacher's framing, answer keys and project guidance for the same continental narrative. That way is stocked here as the way Honduras teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 18 countries (Ethiopia, Gambia, Bangladesh, Ecuador, Indonesia, Dominican Republic, United Kingdom, Bolivia, Iran, Palestine, Colombia, Samoa, Mozambique, Yemen, Uzbekistan, Venezuela, Moldova, Honduras).**
+
+
+## History expansion (2026-11-15) — Italy stocked
+
+**Book 1 — La storia. Progettare il futuro, Vol. 1 (student book, Italian)**
+- Title as printed: La storia. Progettare il futuro — Vol. 1: Dall'anno Mille al Seicento (Alessandro Barbero, Chiara Frugoni, Carla Sclarandis)
+- Grade: Grade 11 (student/teacher: STUDENT)
+- Publisher: Zanichelli; year 2024; ISBN 9788808317537
+- PDF pages: 715 (scan opens with the printed indice, no cover page in the file; title and contents verified against the record title from the indice and the Unità 1 opening pages)
+- Verdict: COMPLETE
+- Tally: 59 placements — 14 to existing lessons, 45 NEW LESSON NEEDED
+- Italy's own way: a liceo survey built on "nuclei fondanti" (core nuclei) per unit, with primary documents, paired historians (Storici a confronto), laboratory and CLIL English sections in every unit, and Italy's own communal and Renaissance story given centre stage.
+- Non-History parts named, not placed (Civics-owned EDUCAZIONE CIVICA boxes): Scuola e università per tutti, printed p. 122; Il problema della disuguaglianza di genere, p. 261; La libertà religiosa, p. 526; Un'agricoltura più produttiva e resiliente, p. 562.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Italy part — Storici a confronto and Storiografia strands in every unit — story beats: paired historians argue the same question — was there an agricultural revolution? when do national states begin? is the Renaissance a myth? — so learners watch history being made from evidence (History expansion, 2026-11-15; original placement slug: first-steps/historiography-the-history-of-history-writing) | Italy, *La storia. Progettare il futuro — Vol. 1: Dall'anno Mille al Seicento (Alessandro Barbero, Chiara Frugoni, Carla Sclarandis)*, printed pp. 104, 302, 424, 538 |
+
+Italy's own way (Book 1 — La storia. Progettare il futuro, Vol. 1 (student book, Italian)): a liceo survey built on "nuclei fondanti" (core nuclei) per unit, with primary documents, paired historians (Storici a confronto), laboratory and CLIL English sections in every unit, and Italy's own communal and Renaissance story given centre stage. That way is stocked here as the way Italy teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 19 countries (Ethiopia, Gambia, Bangladesh, Ecuador, Indonesia, Dominican Republic, United Kingdom, Bolivia, Iran, Palestine, Colombia, Samoa, Mozambique, Yemen, Uzbekistan, Venezuela, Moldova, Honduras, Italy).**

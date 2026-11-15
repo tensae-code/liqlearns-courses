@@ -1,0 +1,7 @@
+# Video script — The Italian Sixty Eight And The Hot Autumn
+
+The super-simple voice, for the video that rides on top of the lesson (lesson-plan.md, add-on list). Story-style: the story told as Italy's own books tell it. Made later, when videos are made; the script is the slot's written form until then.
+
+---
+
+students occupy, then workers' Hot Autumn wins the Statute of Workers; Flores' Storiografia links the season to secularisation — Italy's 1968 lasts a decade, not a spring

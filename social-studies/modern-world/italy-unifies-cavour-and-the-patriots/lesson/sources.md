@@ -1,6 +1,6 @@
 # Sources — Italy unifies — Cavour and the patriots
 
-countries: Ethiopia, Cambodia, South Sudan, Libya, Iraq, Sudan, Uzbekistan, North Macedonia, Cuba, China, Moldova
+countries: Ethiopia, Cambodia, South Sudan, Libya, Iraq, Sudan, Uzbekistan, North Macedonia, Cuba, China, Moldova, Italy
 
 **Book 1:** *History, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN 978-99990-0-065-9, printed by GRAVITY GROUP IND LLC, Sharjah, UAE. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g10-student-placements.md
 
@@ -277,3 +277,44 @@ Moldova's own way (Book 7 — moldova-g11-history (student book, Romanian)): the
 **Acceptance count: taught in 11 countries (Ethiopia, Cambodia, South Sudan, Libya, Iraq, Sudan, Uzbekistan, North Macedonia, Cuba, China, Moldova).**
 
 Searchable tags: Moldova, History expansion 2026-11-15, modern-world/italy-unifies-cavour-and-the-patriots
+
+
+## History expansion (2026-11-15) — Italy stocked
+
+**Book 3 — La storia. Progettare il futuro, Vol. 2 (student book, Italian)**
+- Title as printed: La storia. Progettare il futuro — Vol. 2: Il Settecento e l'Ottocento (Alessandro Barbero, Chiara Frugoni, Carla Sclarandis)
+- Grade: Grade 12 (student/teacher: STUDENT)
+- Publisher: Zanichelli; year 2024; ISBN 9788808606877
+- PDF pages: 718 (scan opens with the printed indice, as in Vol. 1; title, authors and contents verified against the record title from the indice and the opening "Conoscere la storia" pages; full text layer read)
+- Verdict: COMPLETE
+- Tally: 51 placements — 26 to existing lessons, 25 NEW LESSON NEEDED
+- Italy's own way: the Barbero course's second volume runs 1700–1900 as five units built on the same nuclei fondanti method — Documents, Storici a confronto debates (was the American Revolution the most revolutionary of all? was trasformismo a pathology?), Laboratorio storia and CLIL English closings per unit — with Italy's Risorgimento given two full chapters and the liberal age's own crises (brigantaggio, the Southern question, Dogali) told from inside.
+- Non-History parts named, not placed (Civics-owned EDUCAZIONE CIVICA boxes): La libertà di stampa, printed p. 44; Industrializzazione e ambiente, p. 102; La divisione dei poteri, p. 126; È legittimo resistere al potere?, p. 174; Il diritto a un lavoro dignitoso, p. 322; Progettare città sostenibili, p. 418; Si può giustificare la pena di morte?, p. 618.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Italy part — Unità 3, Cap. 11 §§1–3 The rise of a political feeling; The 1830s: Mazzini's thought; The 1840s: new political proposals for the Italian nation — story beats: Mazzini's Young Italy (Document: its programme), Gioberti and Balbo's Speranze d'Italia offer rival roads — republic, federation or Piedmontese monarchy (History expansion, 2026-11-15; original placement slug: modern-world/italy-unifies-cavour-and-the-patriots) | Italy, *La storia. Progettare il futuro — Vol. 2: Il Settecento e l'Ottocento (Alessandro Barbero, Chiara Frugoni, Carla Sclarandis)*, printed pp. 354, 357, 359 |
+| Italy part — Unità 3, Cap. 11 §§4–5 The two years of reforms and the Italian 1848; The First War of Independence and the season of the democratic republics — story beats: the Statuto Albertino (Document), Charles Albert's war on Austria, defeat at Custoza and Novara, and the Roman Republic of 1849 close the Risorgimento's first act (History expansion, 2026-11-15; original placement slug: modern-world/italy-unifies-cavour-and-the-patriots) | Italy, *La storia. Progettare il futuro — Vol. 2: Il Settecento e l'Ottocento (Alessandro Barbero, Chiara Frugoni, Carla Sclarandis)*, printed pp. 363, 368 |
+| Italy part — Unità 4, Cap. 14 §§1–3 The Risorgimento in the Kingdom of Sardinia; Another idea of Risorgimento: Mazzini and Garibaldi; The Second War of Independence — story beats: Cavour's reforms and the Plombières bargain bring France in against Austria; Magenta and Solferino (1859) free Lombardy, and Cavour's alarm (Document) at Garibaldi's myth grows (History expansion, 2026-11-15; original placement slug: modern-world/italy-unifies-cavour-and-the-patriots) | Italy, *La storia. Progettare il futuro — Vol. 2: Il Settecento e l'Ottocento (Alessandro Barbero, Chiara Frugoni, Carla Sclarandis)*, printed pp. 458, 463, 466 |
+| Italy part — Unità 4, Cap. 14 §4 The expedition of the Thousand and the proclamation of the Kingdom of Italy — story beats: Garibaldi's redshirts take Sicily and Naples with a thousand volunteers; in 1861 the Kingdom of Italy is proclaimed — made, but not yet finished (History expansion, 2026-11-15; original placement slug: modern-world/italy-unifies-cavour-and-the-patriots) | Italy, *La storia. Progettare il futuro — Vol. 2: Il Settecento e l'Ottocento (Alessandro Barbero, Chiara Frugoni, Carla Sclarandis)*, printed p. 474 |
+
+Italy's own way (Book 3 — La storia. Progettare il futuro, Vol. 2 (student book, Italian)): the Barbero course's second volume runs 1700–1900 as five units built on the same nuclei fondanti method — Documents, Storici a confronto debates (was the American Revolution the most revolutionary of all? was trasformismo a pathology?), Laboratorio storia and CLIL English closings per unit — with Italy's Risorgimento given two full chapters and the liberal age's own crises (brigantaggio, the Southern question, Dogali) told from inside. That way is stocked here as the way Italy teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 4 — Lo spazio del tempo, Vol. 2 (student book, Italian)**
+- Title as printed: Lo spazio del tempo 2 — Storia Documenti Storiografia dal XVII al XIX secolo (Andrea Giardina, Giovanni Sabbatucci, Vittorio Vidotto)
+- Grade: Grade 12 (student/teacher: STUDENT)
+- Publisher: Editori Laterza; year 2015; ISBN 9788842114062 (ISBN as printed in the book's front matter)
+- PDF pages: 745 (cover verified against the record title; full text layer read)
+- Verdict: COMPLETE
+- Tally: 47 placements — 20 to existing lessons, 27 NEW LESSON NEEDED
+- Italy's own way: Laterza's second volume runs a long '700 (from 1660) and a long '800 (to 1914) in six moduli; its signature is the Fare storia dossier apparatus — 178 numbered documents and historiography pieces, from Galileo's trial and Gustavus Vassa's slave narrative to Gramsci on the Risorgimento — so narrative chapters alternate with the sources that argue about them.
+- Non-History parts named, not placed (Civics-owned "Storia, società, cittadinanza" boxes): Il diritto internazionale, printed p. 32; Controllo, punizione, rieducazione, p. 46; I diritti naturali, p. 76; Incontri e scontri fra civiltà, p. 142; La tutela della biodiversità, p. 158; Le Dichiarazioni dei diritti, p. 196; Lo Stato accentrato, p. 242; La tutela dei diritti dei lavoratori, p. 256; La tutela delle minoranze etniche, p. 268; I diritti di cittadinanza, p. 288; Patria e nazione, p. 316; L'organizzazione federale degli Stati, p. 338; Il suffragio, p. 426; La tutela dell'ordine pubblico, p. 442; La famiglia e le sue trasformazioni, p. 488; Il suffragio femminile e i diritti delle donne, p. 522; Il sistema parlamentare, p. 600; Schiavitù vecchie e nuove, p. 614; Il pregiudizio razziale, p. 632; La paura del diverso, p. 654; I conflitti di lavoro nello Stato democratico, p. 686.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Italy part — Modulo 4, Cap. 12 The Italian Risorgimento (Italy and the national question; The first revolutionary movements; The Mazzinian project; Moderates, Catholics and federalists; Pius IX and the reform movement; The Italian '48: war against Austria; The defeat of the Italian democrats) — story beats: Mazzini's insurrection doctrine against Gioberti's pope-led federation and Cattaneo's federal republic (all in Fare storia documents) — Italy argues its way to 1848 and loses, learning why (History expansion, 2026-11-15; original placement slug: modern-world/italy-unifies-cavour-and-the-patriots) | Italy, *Lo spazio del tempo 2 — Storia Documenti Storiografia dal XVII al XIX secolo (Andrea Giardina, Giovanni Sabbatucci, Vittorio Vidotto)*, printed pp. 320, 321, 324, 329, 331, 333, 335 |
+| Italy part — Modulo 4, Cap. 13 The process of unification (Cavour's liberal Piedmont; The defeat of the republicans; The alliance with France and the Second War of Independence; The Thousand and the conquest of the South; Unity: its characters and limits) — story beats: Cavour (Personaggi) plays Europe's chessboard, Garibaldi (Personaggi; Fare storia: Abba's epic) wins the South with volunteers, and the plebiscites ratify a unity whose limits Gramsci will judge (History expansion, 2026-11-15; original placement slug: modern-world/italy-unifies-cavour-and-the-patriots) | Italy, *Lo spazio del tempo 2 — Storia Documenti Storiografia dal XVII al XIX secolo (Andrea Giardina, Giovanni Sabbatucci, Vittorio Vidotto)*, printed pp. 412, 414, 417, 419, 424 |
+
+Italy's own way (Book 4 — Lo spazio del tempo, Vol. 2 (student book, Italian)): Laterza's second volume runs a long '700 (from 1660) and a long '800 (to 1914) in six moduli; its signature is the Fare storia dossier apparatus — 178 numbered documents and historiography pieces, from Galileo's trial and Gustavus Vassa's slave narrative to Gramsci on the Risorgimento — so narrative chapters alternate with the sources that argue about them. That way is stocked here as the way Italy teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 12 countries (Ethiopia, Cambodia, South Sudan, Libya, Iraq, Sudan, Uzbekistan, North Macedonia, Cuba, China, Moldova, Italy).**

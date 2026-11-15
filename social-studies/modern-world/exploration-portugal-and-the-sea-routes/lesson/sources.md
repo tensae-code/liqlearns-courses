@@ -1,6 +1,6 @@
 # Sources — Exploration — Portugal and the sea routes to India
 
-countries: Ethiopia, Palestine, Nigeria, United States, Ecuador, Kuwait, Indonesia, Montenegro, Pakistan, Suriname, Cambodia, Colombia, Mauritania, Libya, Sudan, North Macedonia, Cuba, China, Armenia
+countries: Ethiopia, Palestine, Nigeria, United States, Ecuador, Kuwait, Indonesia, Montenegro, Pakistan, Suriname, Cambodia, Colombia, Mauritania, Libya, Sudan, North Macedonia, Cuba, China, Armenia, Italy
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -462,3 +462,40 @@ Armenia's own way (Book A1 — G7 World History student (student book, Armenian)
 **Acceptance count: taught in 19 countries (Ethiopia, Palestine, Nigeria, United States, Ecuador, Kuwait, Indonesia, Montenegro, Pakistan, Suriname, Cambodia, Colombia, Mauritania, Libya, Sudan, North Macedonia, Cuba, China, Armenia).**
 
 Searchable tags: Armenia, History expansion 2026-11-15, modern-world/exploration-portugal-and-the-sea-routes
+
+
+## History expansion (2026-11-15) — Italy stocked
+
+**Book 1 — La storia. Progettare il futuro, Vol. 1 (student book, Italian)**
+- Title as printed: La storia. Progettare il futuro — Vol. 1: Dall'anno Mille al Seicento (Alessandro Barbero, Chiara Frugoni, Carla Sclarandis)
+- Grade: Grade 11 (student/teacher: STUDENT)
+- Publisher: Zanichelli; year 2024; ISBN 9788808317537
+- PDF pages: 715 (scan opens with the printed indice, no cover page in the file; title and contents verified against the record title from the indice and the Unità 1 opening pages)
+- Verdict: COMPLETE
+- Tally: 59 placements — 14 to existing lessons, 45 NEW LESSON NEEDED
+- Italy's own way: a liceo survey built on "nuclei fondanti" (core nuclei) per unit, with primary documents, paired historians (Storici a confronto), laboratory and CLIL English sections in every unit, and Italy's own communal and Renaissance story given centre stage.
+- Non-History parts named, not placed (Civics-owned EDUCAZIONE CIVICA boxes): Scuola e università per tutti, printed p. 122; Il problema della disuguaglianza di genere, p. 261; La libertà religiosa, p. 526; Un'agricoltura più produttiva e resiliente, p. 562.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Italy part — Unità 4, Cap. 12 §§1–2 In search of spices and gold; The Portuguese explorations in Africa and Asia — story beats: caravels feel their way down Africa for a sea road to India's spices, rounding the Cape until da Gama reaches Calicut (1498) (History expansion, 2026-11-15; original placement slug: modern-world/exploration-portugal-and-the-sea-routes) | Italy, *La storia. Progettare il futuro — Vol. 1: Dall'anno Mille al Seicento (Alessandro Barbero, Chiara Frugoni, Carla Sclarandis)*, printed pp. 360, 364 |
+
+Italy's own way (Book 1 — La storia. Progettare il futuro, Vol. 1 (student book, Italian)): a liceo survey built on "nuclei fondanti" (core nuclei) per unit, with primary documents, paired historians (Storici a confronto), laboratory and CLIL English sections in every unit, and Italy's own communal and Renaissance story given centre stage. That way is stocked here as the way Italy teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 2 — Lo spazio del tempo, Vol. 1 (student book, Italian)**
+- Title as printed: Lo spazio del tempo 1 — Storia Documenti Storiografia dall'XI al XVII secolo (Andrea Giardina, Giovanni Sabbatucci, Vittorio Vidotto)
+- Grade: Grade 11 (student/teacher: STUDENT)
+- Publisher: Editori Laterza; year 2015 (first edition; 2016 reprint); ISBN 9788842114055
+- PDF pages: 733 (cover verified against the record title; full text layer read)
+- Verdict: COMPLETE
+- Tally: 39 placements — 15 to existing lessons, 24 NEW LESSON NEEDED
+- Italy's own way: Laterza's rival liceo course organises the same centuries in moduli built around documents — every chapter carries numbered DOC dossiers, Eventi and Personaggi boxes, a Guida allo studio and competence exercises, so the student works as a historian from sources first and narrative second.
+- Non-History parts named, not placed (Civics-owned "Storia, società, cittadinanza" boxes): Monarchie di ieri e di oggi, printed p. 114; Pirati di ieri e di oggi, p. 404; La tortura, p. 516.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Italy part — I portoghesi nell'Atlantico — story beats: Portugal creeps down Africa, takes the Atlantic islands and learns the winds that will carry Europe around the world (History expansion, 2026-11-15; original placement slug: modern-world/exploration-portugal-and-the-sea-routes) | Italy, *Lo spazio del tempo 1 — Storia Documenti Storiografia dall'XI al XVII secolo (Andrea Giardina, Giovanni Sabbatucci, Vittorio Vidotto)*, printed p. 407 |
+
+Italy's own way (Book 2 — Lo spazio del tempo, Vol. 1 (student book, Italian)): Laterza's rival liceo course organises the same centuries in moduli built around documents — every chapter carries numbered DOC dossiers, Eventi and Personaggi boxes, a Guida allo studio and competence exercises, so the student works as a historian from sources first and narrative second. That way is stocked here as the way Italy teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 20 countries (Ethiopia, Palestine, Nigeria, United States, Ecuador, Kuwait, Indonesia, Montenegro, Pakistan, Suriname, Cambodia, Colombia, Mauritania, Libya, Sudan, North Macedonia, Cuba, China, Armenia, Italy).**

@@ -1,6 +1,6 @@
 # Sources — The Crusades — two centuries for Jerusalem
 
-countries: Pakistan, Bulgaria, Mauritania, Sri Lanka, Mongolia, North Macedonia, Afghanistan, Honduras
+countries: Pakistan, Bulgaria, Mauritania, Sri Lanka, Mongolia, North Macedonia, Afghanistan, Honduras, Italy
 
 **Book (Pakistan — History 7 (PCTB, SNC 2022)):** *تاریخ — History 7* (student book, Urdu) — Pakistan. Title as printed: تاریخ — History 7 — based on the Single National Curriculum 2022 ("One Nation, One Curriculum"). Grade: Grade 7 / Class 7 (student/teacher: STUDENT). Publisher: Punjab Curriculum and Textbook Board (PCTB), Lahore; year: SNC 2022 edition (no year printed on cover); no ISBN printed. PDF pages: 96 (printed pp. 1–94; read IN PLACE at phase3-staging; image-only scan — the only text layer is the "Web version of PCTB Textbook Not for Sale" watermark — read in full from page renders; cover and title page verified against the record). Verdict: COMPLETE — with a library-debt note: the on-disk file is 81,665,509 bytes against the record's 80,223,717 bytes; the copy read is complete and coherent at the recorded 96 pages, but the size mismatch should be reconciled by the library team. Tally: 31 placements — 14 to existing lessons, 17 NEW LESSON NEEDED (including a reuse of a NEW slug created in Book 5 of this file). Placements at liqlearns-courses-work/expansion-history-2026-11-15/pakistan-placements.md.
 
@@ -237,3 +237,24 @@ This book is a teacher guide. The Honduras rows from this book below stand on it
 Honduras's own way (Book 19 — Ciencias Sociales, Noveno Grado (TEACHER, 2022 edition)): the 2022 guide re-presents the same world-history block (lessons 20–29) in a new design, embedding the student workbook pages with blue model answers and a teacher note under each; its Lesson 20 opens the periodisation lesson from a 2010 article on the 2008 financial crisis, asking how that hecho histórico affected the world and Honduras. That way is stocked here as the way Honduras teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 8 countries (Pakistan, Bulgaria, Mauritania, Sri Lanka, Mongolia, North Macedonia, Afghanistan, Honduras).**
+
+
+## History expansion (2026-11-15) — Italy stocked
+
+**Book 1 — La storia. Progettare il futuro, Vol. 1 (student book, Italian)**
+- Title as printed: La storia. Progettare il futuro — Vol. 1: Dall'anno Mille al Seicento (Alessandro Barbero, Chiara Frugoni, Carla Sclarandis)
+- Grade: Grade 11 (student/teacher: STUDENT)
+- Publisher: Zanichelli; year 2024; ISBN 9788808317537
+- PDF pages: 715 (scan opens with the printed indice, no cover page in the file; title and contents verified against the record title from the indice and the Unità 1 opening pages)
+- Verdict: COMPLETE
+- Tally: 59 placements — 14 to existing lessons, 45 NEW LESSON NEEDED
+- Italy's own way: a liceo survey built on "nuclei fondanti" (core nuclei) per unit, with primary documents, paired historians (Storici a confronto), laboratory and CLIL English sections in every unit, and Italy's own communal and Renaissance story given centre stage.
+- Non-History parts named, not placed (Civics-owned EDUCAZIONE CIVICA boxes): Scuola e università per tutti, printed p. 122; Il problema della disuguaglianza di genere, p. 261; La libertà religiosa, p. 526; Un'agricoltura più produttiva e resiliente, p. 562.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Italy part — Unità 1, Cap. 3 §§1–3 A Europe in movement; The Crusades in the East; The Crusades in the West — story beats: pilgrimage roads fill, Urban II's call sends armies to take Jerusalem (1099) and found Latin states, while in Spain the Reconquista turns the same holy-war idea against al-Andalus (History expansion, 2026-11-15; original placement slug: ancient-world/the-crusades-east-and-west) | Italy, *La storia. Progettare il futuro — Vol. 1: Dall'anno Mille al Seicento (Alessandro Barbero, Chiara Frugoni, Carla Sclarandis)*, printed pp. 68, 71, 80 |
+
+Italy's own way (Book 1 — La storia. Progettare il futuro, Vol. 1 (student book, Italian)): a liceo survey built on "nuclei fondanti" (core nuclei) per unit, with primary documents, paired historians (Storici a confronto), laboratory and CLIL English sections in every unit, and Italy's own communal and Renaissance story given centre stage. That way is stocked here as the way Italy teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 9 countries (Pakistan, Bulgaria, Mauritania, Sri Lanka, Mongolia, North Macedonia, Afghanistan, Honduras, Italy).**

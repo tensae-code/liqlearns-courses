@@ -1,6 +1,6 @@
 # Sources — What history is
 
-countries: Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba, Venezuela, Moldova, Armenia, Nicaragua, Honduras
+countries: Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -1857,3 +1857,56 @@ This book is a teacher guide. The Honduras rows from this book below stand on it
 Honduras's own way (Book 12 — G6 teacher (teacher guide, Spanish)): The guide mirrors the student survey; its signature task is the double timeline — pupils complete both the traditional and the materialist periodisation lines and state one difference between them, so periodisation itself is taught as an argument, not a fact. That way is stocked here as the way Honduras teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 50 countries (Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba, Venezuela, Moldova, Armenia, Nicaragua, Honduras).**
+
+
+## History expansion (2026-11-15) — Italy stocked
+
+**Book 2 — Lo spazio del tempo, Vol. 1 (student book, Italian)**
+- Title as printed: Lo spazio del tempo 1 — Storia Documenti Storiografia dall'XI al XVII secolo (Andrea Giardina, Giovanni Sabbatucci, Vittorio Vidotto)
+- Grade: Grade 11 (student/teacher: STUDENT)
+- Publisher: Editori Laterza; year 2015 (first edition; 2016 reprint); ISBN 9788842114055
+- PDF pages: 733 (cover verified against the record title; full text layer read)
+- Verdict: COMPLETE
+- Tally: 39 placements — 15 to existing lessons, 24 NEW LESSON NEEDED
+- Italy's own way: Laterza's rival liceo course organises the same centuries in moduli built around documents — every chapter carries numbered DOC dossiers, Eventi and Personaggi boxes, a Guida allo studio and competence exercises, so the student works as a historian from sources first and narrative second.
+- Non-History parts named, not placed (Civics-owned "Storia, società, cittadinanza" boxes): Monarchie di ieri e di oggi, printed p. 114; Pirati di ieri e di oggi, p. 404; La tortura, p. 516.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Italy part — Anteprima: Il concetto di Medioevo; Periodizzare; Medioevo e feudalesimo; Oltre l'eurocentrismo — story beats: the course opens by questioning its own frame — 'Middle Ages' is a label invented later, periodising is a choice, and the story must not be told from Europe alone (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Italy, *Lo spazio del tempo 1 — Storia Documenti Storiografia dall'XI al XVII secolo (Andrea Giardina, Giovanni Sabbatucci, Vittorio Vidotto)*, printed pp. 3–5 |
+
+Italy's own way (Book 2 — Lo spazio del tempo, Vol. 1 (student book, Italian)): Laterza's rival liceo course organises the same centuries in moduli built around documents — every chapter carries numbered DOC dossiers, Eventi and Personaggi boxes, a Guida allo studio and competence exercises, so the student works as a historian from sources first and narrative second. That way is stocked here as the way Italy teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 4 — Lo spazio del tempo, Vol. 2 (student book, Italian)**
+- Title as printed: Lo spazio del tempo 2 — Storia Documenti Storiografia dal XVII al XIX secolo (Andrea Giardina, Giovanni Sabbatucci, Vittorio Vidotto)
+- Grade: Grade 12 (student/teacher: STUDENT)
+- Publisher: Editori Laterza; year 2015; ISBN 9788842114062 (ISBN as printed in the book's front matter)
+- PDF pages: 745 (cover verified against the record title; full text layer read)
+- Verdict: COMPLETE
+- Tally: 47 placements — 20 to existing lessons, 27 NEW LESSON NEEDED
+- Italy's own way: Laterza's second volume runs a long '700 (from 1660) and a long '800 (to 1914) in six moduli; its signature is the Fare storia dossier apparatus — 178 numbered documents and historiography pieces, from Galileo's trial and Gustavus Vassa's slave narrative to Gramsci on the Risorgimento — so narrative chapters alternate with the sources that argue about them.
+- Non-History parts named, not placed (Civics-owned "Storia, società, cittadinanza" boxes): Il diritto internazionale, printed p. 32; Controllo, punizione, rieducazione, p. 46; I diritti naturali, p. 76; Incontri e scontri fra civiltà, p. 142; La tutela della biodiversità, p. 158; Le Dichiarazioni dei diritti, p. 196; Lo Stato accentrato, p. 242; La tutela dei diritti dei lavoratori, p. 256; La tutela delle minoranze etniche, p. 268; I diritti di cittadinanza, p. 288; Patria e nazione, p. 316; L'organizzazione federale degli Stati, p. 338; Il suffragio, p. 426; La tutela dell'ordine pubblico, p. 442; La famiglia e le sue trasformazioni, p. 488; Il suffragio femminile e i diritti delle donne, p. 522; Il sistema parlamentare, p. 600; Schiavitù vecchie e nuove, p. 614; Il pregiudizio razziale, p. 632; La paura del diverso, p. 654; I conflitti di lavoro nello Stato democratico, p. 686.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Italy part — Anteprima: Il '700; La periodizzazione; La modernità politica europea — story beats: the volume opens by defending its own frame — a 'long' 1700s from 1660 to the revolutions — teaching periodisation itself as a historian's choice, not a fact of nature (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Italy, *Lo spazio del tempo 2 — Storia Documenti Storiografia dal XVII al XIX secolo (Andrea Giardina, Giovanni Sabbatucci, Vittorio Vidotto)*, printed pp. 3, 4 |
+
+Italy's own way (Book 4 — Lo spazio del tempo, Vol. 2 (student book, Italian)): Laterza's second volume runs a long '700 (from 1660) and a long '800 (to 1914) in six moduli; its signature is the Fare storia dossier apparatus — 178 numbered documents and historiography pieces, from Galileo's trial and Gustavus Vassa's slave narrative to Gramsci on the Risorgimento — so narrative chapters alternate with the sources that argue about them. That way is stocked here as the way Italy teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 6 — Lo spazio del tempo, Vol. 3 (student book, Italian)**
+- Title as printed: Lo spazio del tempo 3 — Storia Documenti Storiografia dal XX al XXI secolo (Andrea Giardina, Giovanni Sabbatucci, Vittorio Vidotto)
+- Grade: Grade 13 (student/teacher: STUDENT)
+- Publisher: Editori Laterza; year 2015 (first edition; 2016 reprint); ISBN 9788842114079 (ISBN as printed in the book's imprint page)
+- PDF pages: 728 (cover verified against the record title; full text layer read)
+- Verdict: COMPLETE
+- Tally: 114 placements — 23 to existing lessons, 91 NEW LESSON NEEDED
+- Italy's own way: Laterza's third volume tells the "short twentieth century" and its aftermath in 19 modules, each closed by the Fare storia dossier method at its largest scale — 207 numbered documents and historiography pieces in four dossier modules, from Clark on 1914 and Lenin's April Theses to Piketty on inequality and Huntington's clash of civilisations — so the century is argued from its sources, not merely narrated.
+- Non-History parts named, not placed (Civics-owned "Storia, società, cittadinanza" boxes): Il servizio militare, printed p. 40; Il mito della democrazia diretta, p. 64; Lo Stato e il monopolio della forza, p. 86; L'intervento pubblico nell'economia, p. 138; I meccanismi del terrore, p. 170; Stato e Chiesa in Italia, p. 192; Il Commonwealth, p. 212; I crimini contro l'umanità e la giustizia penale internazionale, p. 248; L'Onu e i suoi poteri, p. 342; Le forme del potere nei paesi ex coloniali, p. 374; Femminismo e diritti delle donne, p. 406; Il disarmo, p. 428; Il referendum, p. 462; La cittadinanza europea, p. 556; La difesa dell'ambiente, p. 584; Gli interventi umanitari, p. 608; La libertà di culto, p. 628; Proporzionale/maggioritario, p. 646; La personalizzazione della politica, p. 670.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Italy part — Anteprima: La guerra come evento periodizzante: il secolo breve — story beats: the volume opens by defending its frame — Hobsbawm's "short twentieth century" (1914–1991) against the "long nineteenth" — teaching periodisation itself as a historian's choice before a single event is told (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Italy, *Lo spazio del tempo 3 — Storia Documenti Storiografia dal XX al XXI secolo (Andrea Giardina, Giovanni Sabbatucci, Vittorio Vidotto)*, printed p. 3 |
+
+Italy's own way (Book 6 — Lo spazio del tempo, Vol. 3 (student book, Italian)): Laterza's third volume tells the "short twentieth century" and its aftermath in 19 modules, each closed by the Fare storia dossier method at its largest scale — 207 numbered documents and historiography pieces in four dossier modules, from Clark on 1914 and Lenin's April Theses to Piketty on inequality and Huntington's clash of civilisations — so the century is argued from its sources, not merely narrated. That way is stocked here as the way Italy teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 51 countries (Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy).**

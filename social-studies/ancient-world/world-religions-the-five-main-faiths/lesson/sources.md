@@ -1,6 +1,6 @@
 # Sources — World religions — the five main faiths
 
-countries: Ethiopia, Bhutan, Cyprus, India, Colombia, Mauritania, Sri Lanka, Samoa, Iraq, Yemen, North Macedonia, Venezuela, Nicaragua
+countries: Ethiopia, Bhutan, Cyprus, India, Colombia, Mauritania, Sri Lanka, Samoa, Iraq, Yemen, North Macedonia, Venezuela, Nicaragua, Italy
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 6, placements 92–106).
 
@@ -322,3 +322,24 @@ Searchable tags: Venezuela, History expansion 2026-11-15, ancient-world/world-re
 Nicaragua's own way (Book 11 — G9 Estudios Sociales, full-year textbook (student book, Spanish)): Grade 9 splits the book in two — five Geography units on the continents (printed pp. 1-136), then a headed "Historia" half (Units VI-XI) that is pure world history: human evolution and first societies, the four river civilisations studied one by one under identical headings (geography, politics, society, economy, culture), Greece and Rome, the medieval world, the modern age, and contemporary society ending with ALBA and the GRUN's social achievements in Nicaragua. That way is stocked here as the way Nicaragua teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 13 countries (Ethiopia, Bhutan, Cyprus, India, Colombia, Mauritania, Sri Lanka, Samoa, Iraq, Yemen, North Macedonia, Venezuela, Nicaragua).**
+
+
+## History expansion (2026-11-15) — Italy stocked
+
+**Book 2 — Lo spazio del tempo, Vol. 1 (student book, Italian)**
+- Title as printed: Lo spazio del tempo 1 — Storia Documenti Storiografia dall'XI al XVII secolo (Andrea Giardina, Giovanni Sabbatucci, Vittorio Vidotto)
+- Grade: Grade 11 (student/teacher: STUDENT)
+- Publisher: Editori Laterza; year 2015 (first edition; 2016 reprint); ISBN 9788842114055
+- PDF pages: 733 (cover verified against the record title; full text layer read)
+- Verdict: COMPLETE
+- Tally: 39 placements — 15 to existing lessons, 24 NEW LESSON NEEDED
+- Italy's own way: Laterza's rival liceo course organises the same centuries in moduli built around documents — every chapter carries numbered DOC dossiers, Eventi and Personaggi boxes, a Guida allo studio and competence exercises, so the student works as a historian from sources first and narrative second.
+- Non-History parts named, not placed (Civics-owned "Storia, società, cittadinanza" boxes): Monarchie di ieri e di oggi, printed p. 114; Pirati di ieri e di oggi, p. 404; La tortura, p. 516.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Italy part — L'induismo e il buddismo — story beats: India's two great religions are presented in their own terms — dharma, caste, the Buddha's escape from rebirth — as living frames of Asian history (History expansion, 2026-11-15; original placement slug: ancient-world/world-religions-the-five-main-faiths) | Italy, *Lo spazio del tempo 1 — Storia Documenti Storiografia dall'XI al XVII secolo (Andrea Giardina, Giovanni Sabbatucci, Vittorio Vidotto)*, printed p. 127 |
+
+Italy's own way (Book 2 — Lo spazio del tempo, Vol. 1 (student book, Italian)): Laterza's rival liceo course organises the same centuries in moduli built around documents — every chapter carries numbered DOC dossiers, Eventi and Personaggi boxes, a Guida allo studio and competence exercises, so the student works as a historian from sources first and narrative second. That way is stocked here as the way Italy teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 14 countries (Ethiopia, Bhutan, Cyprus, India, Colombia, Mauritania, Sri Lanka, Samoa, Iraq, Yemen, North Macedonia, Venezuela, Nicaragua, Italy).**

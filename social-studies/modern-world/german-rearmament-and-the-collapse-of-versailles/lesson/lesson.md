@@ -1,0 +1,21 @@
+# German Rearmament And The Collapse Of Versailles
+
+## Do it first
+
+Before you read on, hold this lesson's one thing in mind: conscription, the Rhineland and open rearmament dismantle Versailles piece by piece while the democracies answer with words — the equilibria of the twenties dissolve As you read, keep asking where each part of that sentence is proved.
+
+## Sub lesson 1 — Unità 3, Cap. 12 §3 The rearmament of Germany and the new European equilibria
+
+conscription, the Rhineland and open rearmament dismantle Versailles piece by piece while the democracies answer with words — the equilibria of the twenties dissolve
+
+[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+
+## Say it to your companion
+
+Tell your companion the story as its beats, in order: Unità 3, Cap. 12 §3 The rearmament of Germany and the new European equilibria — conscription, the Rhineland and open rearmament dismantle Versailles piece by piece while the democracies answer with words — the equilibria of the twenties dissolve. Then let your companion ask you one hard question about it — answer from the lesson.
+
+## Do It Yourself
+
+1. conscription, the Rhineland and open rearmament dismantle Versailles piece by piece while the democracies answer with words — the equilibria of the twenties dissolve
+2. Write, from memory, the lesson's key names and places in the order they happened.
+3. Say what Italy's own way of teaching this story is, from the books in lesson/sources.md.

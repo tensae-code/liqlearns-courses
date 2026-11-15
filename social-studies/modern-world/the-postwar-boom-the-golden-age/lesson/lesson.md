@@ -1,0 +1,27 @@
+# The Postwar Boom The Golden Age
+
+## Do it first
+
+Before you read on, hold this lesson's one thing in mind: thirty years of growth, full employment and mass consumption — Packard's Document unmasks the consumer's hypnotists while Bouissou's explains Japan's social conditions for growth — the boom and its discontents in one chapter As you read, keep asking where each part of that sentence is proved.
+
+## Sub lesson 1 — Unità 4, Cap. 16 §1 The "golden age" of the world economy
+
+thirty years of growth, full employment and mass consumption — Packard's Document unmasks the consumer's hypnotists while Bouissou's explains Japan's social conditions for growth — the boom and its discontents in one chapter
+
+[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+
+## Sub lesson 2 — Modulo 11 §§1–3 La crescita demografica; Il boom economico; Consumi e Welfare
+
+baby boom, washing machines and the welfare state — Van der Wee on the demand imperative, Packard's hidden persuaders and McLuhan's medium (Fare storia pieces) describe affluence and its salesmen in one dossier
+
+[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+
+## Say it to your companion
+
+Tell your companion the story as its beats, in order: Unità 4, Cap. 16 §1 The "golden age" of the world economy — thirty years of growth, full employment and mass consumption — Packard's Document unmasks the consumer's hypnotists while Bouissou's explains Japan's social conditions for growth — the boom and its discontents in one chapter. Modulo 11 §§1–3 La crescita demografica; Il boom economico; Consumi e Welfare — baby boom, washing machines and the welfare state — Van der Wee on the demand imperative, Packard's hidden persuaders and McLuhan's medium (Fare storia pieces) describe affluence and its salesmen in one dossier. Then let your companion ask you one hard question about it — answer from the lesson.
+
+## Do It Yourself
+
+1. thirty years of growth, full employment and mass consumption — Packard's Document unmasks the consumer's hypnotists while Bouissou's explains Japan's social conditions for growth — the boom and its discontents in one chapter
+2. Write, from memory, the lesson's key names and places in the order they happened.
+3. Say what Italy's own way of teaching this story is, from the books in lesson/sources.md.

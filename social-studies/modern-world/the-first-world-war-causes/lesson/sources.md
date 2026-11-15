@@ -1,6 +1,6 @@
 # Sources — The First World War — causes
 
-countries: Ethiopia, Turkey, Costa Rica, Australia, Kuwait, Nepal, Montenegro, Dominican Republic, Pakistan, Cambodia, Colombia, Mauritania, South Sudan, Libya, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan, Jordan, North Macedonia, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua
+countries: Ethiopia, Turkey, Costa Rica, Australia, Kuwait, Nepal, Montenegro, Dominican Republic, Pakistan, Cambodia, Colombia, Mauritania, South Sudan, Libya, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan, Jordan, North Macedonia, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Italy
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 133).
 
@@ -841,3 +841,40 @@ Nicaragua's own way (Book 5 — G6 Estudios Sociales (student book, Spanish)): p
 Nicaragua's own way (Book 11 — G9 Estudios Sociales, full-year textbook (student book, Spanish)): Grade 9 splits the book in two — five Geography units on the continents (printed pp. 1-136), then a headed "Historia" half (Units VI-XI) that is pure world history: human evolution and first societies, the four river civilisations studied one by one under identical headings (geography, politics, society, economy, culture), Greece and Rome, the medieval world, the modern age, and contemporary society ending with ALBA and the GRUN's social achievements in Nicaragua. That way is stocked here as the way Nicaragua teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 30 countries (Ethiopia, Turkey, Costa Rica, Australia, Kuwait, Nepal, Montenegro, Dominican Republic, Pakistan, Cambodia, Colombia, Mauritania, South Sudan, Libya, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan, Jordan, North Macedonia, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua).**
+
+
+## History expansion (2026-11-15) — Italy stocked
+
+**Book 5 — La storia. Progettare il futuro, Vol. 3 (student book, Italian)**
+- Title as printed: La storia. Progettare il futuro — Vol. 3: Il Novecento e l'età attuale (Alessandro Barbero, Chiara Frugoni, Carla Sclarandis)
+- Grade: Grade 13 (student/teacher: STUDENT)
+- Publisher: Zanichelli; year 2024; ISBN 9788808724342
+- PDF pages: 930 (scan opens with the printed indice, as in Vols. 1–2; title, authors and contents verified against the record title from the indice and the Unità 1 opening pages; full text layer read)
+- Verdict: COMPLETE
+- Tally: 114 placements — 23 to existing lessons, 91 NEW LESSON NEEDED
+- Italy's own way: the Barbero course's third volume runs the whole short century and beyond — 1900 to the war in Ukraine — in six units on the same nuclei fondanti method (Documents, Storici a confronto, Laboratorio storia, CLIL closings), but the documents now include speeches, photographs, songs and film, and the book ends by arguing about the present itself: unipolarism, globalisation's discontents and whether a "post-Western" order is being born.
+- Non-History parts named, not placed (Civics-owned EDUCAZIONE CIVICA boxes): Le migrazioni internazionali, printed p. 10; Epidemie e sanità pubblica, p. 147; Che cosa significa "uguaglianza"?, p. 192; Quanto sono universali i diritti?, p. 590; La rivoluzione digitale, p. 755; Il cambiamento climatico, p. 798.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Italy part — Unità 2, Cap. 4 §1 Europe on the eve of the war — story beats: alliances, arms races and colonial friction load the continent (the chapter's map of critical areas and rearmament); the Storici a confronto at the unit's end — Fischer against Ferguson — argue whether Germany willed the war (History expansion, 2026-11-15; original placement slug: modern-world/the-first-world-war-causes) | Italy, *La storia. Progettare il futuro — Vol. 3: Il Novecento e l'età attuale (Alessandro Barbero, Chiara Frugoni, Carla Sclarandis)*, printed p. 122 |
+
+Italy's own way (Book 5 — La storia. Progettare il futuro, Vol. 3 (student book, Italian)): the Barbero course's third volume runs the whole short century and beyond — 1900 to the war in Ukraine — in six units on the same nuclei fondanti method (Documents, Storici a confronto, Laboratorio storia, CLIL closings), but the documents now include speeches, photographs, songs and film, and the book ends by arguing about the present itself: unipolarism, globalisation's discontents and whether a "post-Western" order is being born. That way is stocked here as the way Italy teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 6 — Lo spazio del tempo, Vol. 3 (student book, Italian)**
+- Title as printed: Lo spazio del tempo 3 — Storia Documenti Storiografia dal XX al XXI secolo (Andrea Giardina, Giovanni Sabbatucci, Vittorio Vidotto)
+- Grade: Grade 13 (student/teacher: STUDENT)
+- Publisher: Editori Laterza; year 2015 (first edition; 2016 reprint); ISBN 9788842114079 (ISBN as printed in the book's imprint page)
+- PDF pages: 728 (cover verified against the record title; full text layer read)
+- Verdict: COMPLETE
+- Tally: 114 placements — 23 to existing lessons, 91 NEW LESSON NEEDED
+- Italy's own way: Laterza's third volume tells the "short twentieth century" and its aftermath in 19 modules, each closed by the Fare storia dossier method at its largest scale — 207 numbered documents and historiography pieces in four dossier modules, from Clark on 1914 and Lenin's April Theses to Piketty on inequality and Huntington's clash of civilisations — so the century is argued from its sources, not merely narrated.
+- Non-History parts named, not placed (Civics-owned "Storia, società, cittadinanza" boxes): Il servizio militare, printed p. 40; Il mito della democrazia diretta, p. 64; Lo Stato e il monopolio della forza, p. 86; L'intervento pubblico nell'economia, p. 138; I meccanismi del terrore, p. 170; Stato e Chiesa in Italia, p. 192; Il Commonwealth, p. 212; I crimini contro l'umanità e la giustizia penale internazionale, p. 248; L'Onu e i suoi poteri, p. 342; Le forme del potere nei paesi ex coloniali, p. 374; Femminismo e diritti delle donne, p. 406; Il disarmo, p. 428; Il referendum, p. 462; La cittadinanza europea, p. 556; La difesa dell'ambiente, p. 584; Gli interventi umanitari, p. 608; La libertà di culto, p. 628; Proporzionale/maggioritario, p. 646; La personalizzazione della politica, p. 670.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Italy part — Modulo 1, Cap. 1 §§1–2 Venti di guerra; Una reazione a catena — story beats: an unstable balance of rival empires and rigid blocs meets the Sarajevo assassination (Eventi); the Anteprima's essay refuses Versailles' simple verdict of guilt and reads Germany's move as a calculated risk the other powers shared (History expansion, 2026-11-15; original placement slug: modern-world/the-first-world-war-causes) | Italy, *Lo spazio del tempo 3 — Storia Documenti Storiografia dal XX al XXI secolo (Andrea Giardina, Giovanni Sabbatucci, Vittorio Vidotto)*, printed pp. 7, 8 |
+
+Italy's own way (Book 6 — Lo spazio del tempo, Vol. 3 (student book, Italian)): Laterza's third volume tells the "short twentieth century" and its aftermath in 19 modules, each closed by the Fare storia dossier method at its largest scale — 207 numbered documents and historiography pieces in four dossier modules, from Clark on 1914 and Lenin's April Theses to Piketty on inequality and Huntington's clash of civilisations — so the century is argued from its sources, not merely narrated. That way is stocked here as the way Italy teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 31 countries (Ethiopia, Turkey, Costa Rica, Australia, Kuwait, Nepal, Montenegro, Dominican Republic, Pakistan, Cambodia, Colombia, Mauritania, South Sudan, Libya, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan, Jordan, North Macedonia, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Italy).**

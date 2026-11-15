@@ -1,6 +1,6 @@
 # Sources — The Persian Gulf War
 
-countries: South Sudan, Honduras
+countries: South Sudan, Honduras, Italy
 
 **Book 23 — S4 History Student's Book (student book, English)**
 - Title as printed: Secondary History 4 Student's Book
@@ -70,3 +70,24 @@ This book is a teacher guide. The Honduras rows from this book below stand on it
 Honduras's own way (Book 19 — Ciencias Sociales, Noveno Grado (TEACHER, 2022 edition)): the 2022 guide re-presents the same world-history block (lessons 20–29) in a new design, embedding the student workbook pages with blue model answers and a teacher note under each; its Lesson 20 opens the periodisation lesson from a 2010 article on the 2008 financial crisis, asking how that hecho histórico affected the world and Honduras. That way is stocked here as the way Honduras teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 2 countries (South Sudan, Honduras).**
+
+
+## History expansion (2026-11-15) — Italy stocked
+
+**Book 6 — Lo spazio del tempo, Vol. 3 (student book, Italian)**
+- Title as printed: Lo spazio del tempo 3 — Storia Documenti Storiografia dal XX al XXI secolo (Andrea Giardina, Giovanni Sabbatucci, Vittorio Vidotto)
+- Grade: Grade 13 (student/teacher: STUDENT)
+- Publisher: Editori Laterza; year 2015 (first edition; 2016 reprint); ISBN 9788842114079 (ISBN as printed in the book's imprint page)
+- PDF pages: 728 (cover verified against the record title; full text layer read)
+- Verdict: COMPLETE
+- Tally: 114 placements — 23 to existing lessons, 91 NEW LESSON NEEDED
+- Italy's own way: Laterza's third volume tells the "short twentieth century" and its aftermath in 19 modules, each closed by the Fare storia dossier method at its largest scale — 207 numbered documents and historiography pieces in four dossier modules, from Clark on 1914 and Lenin's April Theses to Piketty on inequality and Huntington's clash of civilisations — so the century is argued from its sources, not merely narrated.
+- Non-History parts named, not placed (Civics-owned "Storia, società, cittadinanza" boxes): Il servizio militare, printed p. 40; Il mito della democrazia diretta, p. 64; Lo Stato e il monopolio della forza, p. 86; L'intervento pubblico nell'economia, p. 138; I meccanismi del terrore, p. 170; Stato e Chiesa in Italia, p. 192; Il Commonwealth, p. 212; I crimini contro l'umanità e la giustizia penale internazionale, p. 248; L'Onu e i suoi poteri, p. 342; Le forme del potere nei paesi ex coloniali, p. 374; Femminismo e diritti delle donne, p. 406; Il disarmo, p. 428; Il referendum, p. 462; La cittadinanza europea, p. 556; La difesa dell'ambiente, p. 584; Gli interventi umanitari, p. 608; La libertà di culto, p. 628; Proporzionale/maggioritario, p. 646; La personalizzazione della politica, p. 670.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Italy part — Modulo 17 §2 La prima guerra del Golfo — story beats: the unipolar moment's first war — a broad coalition expels Iraq from Kuwait on live television and stops at Baghdad's gates; the order it restores lasts a decade (History expansion, 2026-11-15; original placement slug: modern-world/the-gulf-war-1991) | Italy, *Lo spazio del tempo 3 — Storia Documenti Storiografia dal XX al XXI secolo (Andrea Giardina, Giovanni Sabbatucci, Vittorio Vidotto)*, printed p. 614 |
+
+Italy's own way (Book 6 — Lo spazio del tempo, Vol. 3 (student book, Italian)): Laterza's third volume tells the "short twentieth century" and its aftermath in 19 modules, each closed by the Fare storia dossier method at its largest scale — 207 numbered documents and historiography pieces in four dossier modules, from Clark on 1914 and Lenin's April Theses to Piketty on inequality and Huntington's clash of civilisations — so the century is argued from its sources, not merely narrated. That way is stocked here as the way Italy teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 3 countries (South Sudan, Honduras, Italy).**
