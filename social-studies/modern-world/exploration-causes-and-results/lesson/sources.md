@@ -1,6 +1,6 @@
 # Sources — Exploration — causes and results
 
-countries: Ethiopia, United States, Guatemala, Costa Rica, Kuwait, Fiji, Indonesia, Montenegro, Dominican Republic, Suriname, Palestine, Colombia, South Sudan, Mozambique, Uzbekistan, North Macedonia
+countries: Ethiopia, United States, Guatemala, Costa Rica, Kuwait, Fiji, Indonesia, Montenegro, Dominican Republic, Suriname, Palestine, Colombia, South Sudan, Mozambique, Uzbekistan, North Macedonia, Venezuela
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 125).
 
@@ -413,3 +413,37 @@ North Macedonia's own way (Book 3 — Istorija I (History I), Grade 10 (student 
 **Acceptance count: taught in 16 countries (Ethiopia, United States, Guatemala, Costa Rica, Kuwait, Fiji, Indonesia, Montenegro, Dominican Republic, Suriname, Palestine, Colombia, South Sudan, Mozambique, Uzbekistan, North Macedonia).**
 
 Searchable tags: North Macedonia, History expansion 2026-11-15, modern-world/exploration-causes-and-results
+
+## History expansion (2026-11-15) — Venezuela stocked
+
+**Book 4 — g4 Venezuela y Su Gente (student book, Spanish)**
+- Title as printed: Venezuela y Su Gente — Ciencias Sociales, 4to grado
+- Grade: Grade 4 (student/teacher: STUDENT)
+- Publisher: Ministerio del Poder Popular para la Educación, Colección Bicentenario; 4th ed. April 2014; authors América Bracho, María Helena León de Hurtado; ISBN 978-980-218-302-9
+- PDF pages: 83 (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 26 placements — 13 to existing lessons, 13 NEW LESSON NEEDED
+- Venezuela's own way: the book's spine is a named journey, "Viaje por nuestro pasado indígena y colonial" — indigenous past first, then encounter, resistance, empire, mestizaje and the road to 1810 — framed by the house, the street and the map of today.
+- Non-History parts named: your house and surroundings, rural/urban housing (pp. 8–27, Geography/Civics); we are Latin Americans and world inequalities (pp. 46–48, Geography); family and living together (pp. 124–131, Civics); basic needs and thinking of the future (pp. 140–147, Civics).
+
+**Book 8 — g7 Historia de Venezuela y de Nuestra América (student book, Spanish)**
+- Title as printed: Historia de Venezuela y de Nuestra América — Ciencias Sociales, 1er año
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Ministerio del Poder Popular para la Educación, Colección Bicentenario; 3rd ed. April 2014; authors América Bracho Arcila, David Ortega, María Helena Hurtado, Mailyng Bermúdez; ISBN 978-980-218-319-7
+- PDF pages: 178 (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 33 placements — 10 to existing lessons, 23 NEW LESSON NEEDED
+- Venezuela's own way: history explicitly against eurocentrism and rote memorisation — the continent is Abya Yala, "a continent that had owners", the conquest is named invasion, and emancipation is told for all of Our America, not Venezuela alone.
+- Non-History parts named: none — the whole book is History.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Venezuela part — An unexpected encounter changed the world's image: causes of an adventure — story beats: in the Renaissance the compass is perfected and instruments invented; many sailors seek new routes and one admiral's error redraws the world (History expansion, 2026-11-15; original placement slug: modern-world/exploration-causes-and-results) | Venezuela, *Venezuela y Su Gente — Ciencias Sociales, 4to grado*, printed pp. 70–75 |
+| Venezuela part — Abya Yala and Europe on the eve of an invasion — story beats: two worlds face each other in 1492 — a populated continent with owners, and an Europe ready to expand (History expansion, 2026-11-15; original placement slug: modern-world/exploration-causes-and-results) | Venezuela, *Historia de Venezuela y de Nuestra América — Ciencias Sociales, 1er año*, printed pp. 46–49 |
+
+Venezuela's own way (Book 4 — g4 Venezuela y Su Gente (student book, Spanish)): the book's spine is a named journey, "Viaje por nuestro pasado indígena y colonial" — indigenous past first, then encounter, resistance, empire, mestizaje and the road to 1810 — framed by the house, the street and the map of today. That way is stocked here as the way Venezuela teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+Venezuela's own way (Book 8 — g7 Historia de Venezuela y de Nuestra América (student book, Spanish)): history explicitly against eurocentrism and rote memorisation — the continent is Abya Yala, "a continent that had owners", the conquest is named invasion, and emancipation is told for all of Our America, not Venezuela alone. That way is stocked here as the way Venezuela teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 17 countries (Ethiopia, United States, Guatemala, Costa Rica, Kuwait, Fiji, Indonesia, Montenegro, Dominican Republic, Suriname, Palestine, Colombia, South Sudan, Mozambique, Uzbekistan, North Macedonia, Venezuela).**
+
+Searchable tags: Venezuela, History expansion 2026-11-15, modern-world/exploration-causes-and-results

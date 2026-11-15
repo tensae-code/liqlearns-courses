@@ -1,0 +1,27 @@
+# Venezuela Separation From Gran Colombia
+
+## Do it first
+
+Before you read on, hold this lesson's one thing in mind: The great union breaks and Venezuela walks out to be its own republic in 1830 — the founding separation of the modern country As you read, keep asking where each part of that sentence is proved.
+
+## Sub lesson 1 — Venezuela separates from Gran Colombia
+
+The great union breaks and Venezuela walks out to be its own republic in 1830 — the founding separation of the modern country
+
+[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+
+## Sub lesson 2 — The destruction of Colombia
+
+Gran Colombia tears itself apart and is destroyed by 1830, leaving Venezuela separate as Bolívar dies
+
+[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+
+## Say it to your companion
+
+Tell your companion the story as its beats, in order: Venezuela separates from Gran Colombia — the great union breaks and Venezuela walks out to be its own republic in 1830 — the founding separation of the modern country. The destruction of Colombia — Gran Colombia tears itself apart and is destroyed by 1830, leaving Venezuela separate as Bolívar dies. Then let your companion ask you one hard question about it — answer from the lesson.
+
+## Do It Yourself
+
+1. The great union breaks and Venezuela walks out to be its own republic in 1830 — the founding separation of the modern country
+2. Write, from memory, the lesson's key names and places in the order they happened.
+3. Say what Venezuela's own way of teaching this story is, from the books in lesson/sources.md.

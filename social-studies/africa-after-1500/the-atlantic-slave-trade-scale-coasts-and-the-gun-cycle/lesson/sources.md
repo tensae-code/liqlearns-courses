@@ -1,6 +1,6 @@
 # Sources — The Atlantic slave trade — scale, coasts and the gun cycle
 
-countries: Ethiopia, Angola, Gambia, Australia, Bahamas, Dominican Republic, Suriname, Colombia, South Sudan, Samoa, Uganda, China
+countries: Ethiopia, Angola, Gambia, Australia, Bahamas, Dominican Republic, Suriname, Colombia, South Sudan, Samoa, Uganda, China, Venezuela
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -324,3 +324,25 @@ China's own way (Book 12 — cn-g12e (student book, Chinese)): Culture itself is
 **Acceptance count: taught in 12 countries (Ethiopia, Angola, Gambia, Australia, Bahamas, Dominican Republic, Suriname, Colombia, South Sudan, Samoa, Uganda, China).**
 
 Searchable tags: China, History expansion 2026-11-15, africa-after-1500/the-atlantic-slave-trade-scale-coasts-and-the-gun-cycle
+
+## History expansion (2026-11-15) — Venezuela stocked
+
+**Book 7 — g7 Patria y Ciudadanía (student book, Spanish)**
+- Title as printed: Patria y Ciudadanía — Ciencias Sociales, 1er año
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Ministerio del Poder Popular para la Educación, Colección Bicentenario; 3rd ed. April 2014; authors Mailyng Bermúdez Sculpi, Noemí Frías Durán; ISBN 978-980-218-325-8
+- PDF pages: 93 PDF spreads (printed pagination to p. 176; cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 8 placements — 4 to existing lessons, 4 NEW LESSON NEEDED
+- Venezuela's own way: a Civics book framed historically — citizenship is introduced as the unfinished dream of "the two Simons" (Rodríguez and Bolívar) and of Zamora, and national identity is built from indigenous and Afro-Venezuelan origins.
+- Non-History parts named: where do I come from / adolescence (pp. 30–39, Civics); my family and family life (pp. 40–57, Civics); my house, street and community organisation, consumers, communal councils (pp. 58–75, Civics, except local-history exercise placed below); from the street to Miraflores — government and public powers (pp. 94–109, Civics); homeland and citizenship as permanent construction — rights and duties today (pp. 110–125, Civics, except 1999 process placed in Ch. 1 below); our big house the planet — energy, recycling, risk (pp. 126–159, Geography/Civics); promoters of peace (pp. 160–175, Civics).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Venezuela part — The transatlantic trade and the African diaspora: insurgent memory — story beats: enslavers ship Africans from places like Gorée's door of no return to colonial Venezuela; their skills and family-keeping become Afro-Venezuelan identity (History expansion, 2026-11-15; original placement slug: africa-after-1500/the-atlantic-slave-trade-scale-coasts-and-the-gun-cycle) | Venezuela, *Patria y Ciudadanía — Ciencias Sociales, 1er año*, printed pp. 86–89 |
+
+Venezuela's own way (Book 7 — g7 Patria y Ciudadanía (student book, Spanish)): a Civics book framed historically — citizenship is introduced as the unfinished dream of "the two Simons" (Rodríguez and Bolívar) and of Zamora, and national identity is built from indigenous and Afro-Venezuelan origins. That way is stocked here as the way Venezuela teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 13 countries (Ethiopia, Angola, Gambia, Australia, Bahamas, Dominican Republic, Suriname, Colombia, South Sudan, Samoa, Uganda, China, Venezuela).**
+
+Searchable tags: Venezuela, History expansion 2026-11-15, africa-after-1500/the-atlantic-slave-trade-scale-coasts-and-the-gun-cycle

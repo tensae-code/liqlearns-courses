@@ -1,6 +1,6 @@
 # Sources — From evidence to a written history
 
-countries: Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Bulgaria, Palestine, Colombia, South Sudan, Mongolia, Samoa, Mozambique, Jordan, Uzbekistan, North Macedonia, Afghanistan, Cuba
+countries: Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Bulgaria, Palestine, Colombia, South Sudan, Mongolia, Samoa, Mozambique, Jordan, Uzbekistan, North Macedonia, Afghanistan, Cuba, Venezuela
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -1606,3 +1606,49 @@ Cuba's own way (Book 2 — g5-workbook (workbook, Spanish)): Workbook exactly mi
 **Acceptance count: taught in 37 countries (Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Bulgaria, Palestine, Colombia, South Sudan, Mongolia, Samoa, Mozambique, Jordan, Uzbekistan, North Macedonia, Afghanistan, Cuba).**
 
 Searchable tags: Cuba, History expansion 2026-11-15, first-steps/from-evidence-to-a-written-history
+
+## History expansion (2026-11-15) — Venezuela stocked
+
+**Book 3 — g3 Viva Venezuela (student book, Spanish)**
+- Title as printed: Viva Venezuela — Ciencias Sociales, 3er grado
+- Grade: Grade 3 (student/teacher: STUDENT)
+- Publisher: Ministerio del Poder Popular para la Educación, Colección Bicentenario; April 2014 edition; ISBN 978-980-218-299-2
+- PDF pages: 91 (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 28 placements — 6 to existing lessons, 22 NEW LESSON NEEDED
+- Venezuela's own way: a spiral timeline runs from remote ancestors through slavery, the agricultural republic and Zamora to the oil republic, interleaved with a state-by-state tour where each state is introduced by its history and its hero's name.
+- Non-History parts named: school rules, family and community life (pp. 8–54, Civics); fresh waters and natural landscapes (pp. 66–68, Geography); work (p. 74, Civics); the Andean and Llanos states tour (pp. 148–157, Geography); the Earth and global warming (pp. 168–175, Geography/science).
+
+**Book 4 — g4 Venezuela y Su Gente (student book, Spanish)**
+- Title as printed: Venezuela y Su Gente — Ciencias Sociales, 4to grado
+- Grade: Grade 4 (student/teacher: STUDENT)
+- Publisher: Ministerio del Poder Popular para la Educación, Colección Bicentenario; 4th ed. April 2014; authors América Bracho, María Helena León de Hurtado; ISBN 978-980-218-302-9
+- PDF pages: 83 (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 26 placements — 13 to existing lessons, 13 NEW LESSON NEEDED
+- Venezuela's own way: the book's spine is a named journey, "Viaje por nuestro pasado indígena y colonial" — indigenous past first, then encounter, resistance, empire, mestizaje and the road to 1810 — framed by the house, the street and the map of today.
+- Non-History parts named: your house and surroundings, rural/urban housing (pp. 8–27, Geography/Civics); we are Latin Americans and world inequalities (pp. 46–48, Geography); family and living together (pp. 124–131, Civics); basic needs and thinking of the future (pp. 140–147, Civics).
+
+**Book 6 — g6 Venezuela y Su Gente (student book, Spanish)**
+- Title as printed: Venezuela y Su Gente — Ciencias Sociales, 6to grado
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Ministerio del Poder Popular para la Educación, Colección Bicentenario; 4th ed. April 2014; authors América Bracho, María Helena León de Hurtado; ISBN 978-980-218-304-3
+- PDF pages: 91 (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 17 placements — 1 to existing lessons, 16 NEW LESSON NEEDED
+- Venezuela's own way: Grade 6 is the oil century told whole — Gómez to Chávez — using period caricatures as sources and one Maracaibo woman's lifetime (Ana Graciela, b. 1924) as the thread that makes national change personal.
+- Non-History parts named: our geographic space in oil times — oil landscapes, population growth, metropolises, urban-industrial landscapes, tourism, oil industry after 1950, Latin America and globalisation (printed pp. 7–64, Geography, with oil-beginnings history placed below); Misión Ciudadanía — participatory democracy, culture, environment, peace (pp. 133–176, Civics).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Venezuela part — When I was little: a mother's memory of López Contreras — story beats: a grandmother's childhood memory — her mother citing the law to president López Contreras, who boasted of obeying it — is used as living evidence (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Venezuela, *Viva Venezuela — Ciencias Sociales, 3er grado*, printed p. 102 |
+| Venezuela part — Peoples have history and people do too — story beats: between the papers a family keeps at home, a child's own third-grade computer memory becomes a dated source beside the nation's papers (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Venezuela, *Venezuela y Su Gente — Ciencias Sociales, 4to grado*, printed pp. 50–53 |
+| Venezuela part — What times those were: Ana Graciela's personal history of Maracaibo — story beats: a woman born in 1924 rebuilds her city's past from family photos, parish archives and elders' talk, and her lifetime measures how oil remade Maracaibo (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Venezuela, *Venezuela y Su Gente — Ciencias Sociales, 6to grado*, printed pp. 66–67 |
+
+Venezuela's own way (Book 3 — g3 Viva Venezuela (student book, Spanish)): a spiral timeline runs from remote ancestors through slavery, the agricultural republic and Zamora to the oil republic, interleaved with a state-by-state tour where each state is introduced by its history and its hero's name. That way is stocked here as the way Venezuela teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+Venezuela's own way (Book 4 — g4 Venezuela y Su Gente (student book, Spanish)): the book's spine is a named journey, "Viaje por nuestro pasado indígena y colonial" — indigenous past first, then encounter, resistance, empire, mestizaje and the road to 1810 — framed by the house, the street and the map of today. That way is stocked here as the way Venezuela teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+Venezuela's own way (Book 6 — g6 Venezuela y Su Gente (student book, Spanish)): Grade 6 is the oil century told whole — Gómez to Chávez — using period caricatures as sources and one Maracaibo woman's lifetime (Ana Graciela, b. 1924) as the thread that makes national change personal. That way is stocked here as the way Venezuela teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 38 countries (Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Bulgaria, Palestine, Colombia, South Sudan, Mongolia, Samoa, Mozambique, Jordan, Uzbekistan, North Macedonia, Afghanistan, Cuba, Venezuela).**
+
+Searchable tags: Venezuela, History expansion 2026-11-15, first-steps/from-evidence-to-a-written-history

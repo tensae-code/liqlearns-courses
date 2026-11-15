@@ -1153,3 +1153,49 @@ China's own way (Book 5 — cn-g9 (student book, Chinese)): The PRC's story is t
 **Acceptance count: taught in 28 countries (Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala, Malaysia, Ecuador, Bahamas, Eritrea, Nepal, Belarus, Fiji, Indonesia, Finland, Egypt, Syria, Suriname, Colombia, South Sudan, Samoa, Iraq, Mozambique, Yemen, Jordan, Laos, Cuba, China).**
 
 Searchable tags: China, History expansion 2026-11-15, first-steps/find-history-in-your-own-locality
+
+## History expansion (2026-11-15) — Venezuela stocked
+
+**Book 1 — g1 Viva Venezuela (student book, Spanish)**
+- Title as printed: Viva Venezuela — Ciencias Sociales, 1er grado
+- Grade: Grade 1 (student/teacher: STUDENT)
+- Publisher: Ministerio del Poder Popular para la Educación, Colección Bicentenario; 4th ed. April 2014; ISBN 978-980-218-297-8
+- PDF pages: 67 (cover/title verified against record title)
+- Verdict: COMPLETE
+- Tally: 10 placements — 5 to existing lessons, 5 NEW LESSON NEEDED
+- Venezuela's own way: starts History from the child's own day, family and street — before/now contrasts, feast days and Bolívar as a child before any national chronology.
+- Non-History parts named: family, home and houses (pp. 20–49, Civics/domestic life); community workers and services (pp. 50–57, Civics); city/country landscapes and cardinal points, Moon/Sun (pp. 60–79, Geography/science); rights and duties (pp. 105–114, Civics); Venezuela's land, rivers and place in South America (pp. 84–89, 115–116, Geography).
+
+**Book 2 — g2 Viva Venezuela (student book, Spanish)**
+- Title as printed: Viva Venezuela — Ciencias Sociales, 2do grado
+- Grade: Grade 2 (student/teacher: STUDENT)
+- Publisher: Ministerio del Poder Popular para la Educación, Colección Bicentenario; April 2014 edition; ISBN 978-980-218-298-5
+- PDF pages: 75 (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 24 placements — 9 to existing lessons, 15 NEW LESSON NEEDED
+- Venezuela's own way: Grade 2 carries a complete national story — arrival by sea, founded cities, cacao wealth, first rebellions, Miranda, 1810, 1811, Carabobo, Gran Colombia, Sucre — all told through grandparents, houses and two children thinking aloud.
+- Non-History parts named: our school and its building (pp. 10–15, Civics); family, births and homes (pp. 16–33, Civics); work, food, population and languages (pp. 42–64, Civics/Geography); landscapes, weather, Sun and measuring time (pp. 66–81, Geography/science); a sick Earth and building the future (pp. 134–142, environment/Civics).
+
+**Book 7 — g7 Patria y Ciudadanía (student book, Spanish)**
+- Title as printed: Patria y Ciudadanía — Ciencias Sociales, 1er año
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Ministerio del Poder Popular para la Educación, Colección Bicentenario; 3rd ed. April 2014; authors Mailyng Bermúdez Sculpi, Noemí Frías Durán; ISBN 978-980-218-325-8
+- PDF pages: 93 PDF spreads (printed pagination to p. 176; cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 8 placements — 4 to existing lessons, 4 NEW LESSON NEEDED
+- Venezuela's own way: a Civics book framed historically — citizenship is introduced as the unfinished dream of "the two Simons" (Rodríguez and Bolívar) and of Zamora, and national identity is built from indigenous and Afro-Venezuelan origins.
+- Non-History parts named: where do I come from / adolescence (pp. 30–39, Civics); my family and family life (pp. 40–57, Civics); my house, street and community organisation, consumers, communal councils (pp. 58–75, Civics, except local-history exercise placed below); from the street to Miraflores — government and public powers (pp. 94–109, Civics); homeland and citizenship as permanent construction — rights and duties today (pp. 110–125, Civics, except 1999 process placed in Ch. 1 below); our big house the planet — energy, recycling, risk (pp. 126–159, Geography/Civics); promoters of peace (pp. 160–175, Civics).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Venezuela part — The school invites the community: Los Chimichimitos — story beats: an old song-and-dance at the school party is traced back to indigenous peoples and to Africans the Spanish brought by force long ago (History expansion, 2026-11-15; original placement slug: first-steps/find-history-in-your-own-locality) | Venezuela, *Viva Venezuela — Ciencias Sociales, 1er grado*, printed pp. 54–55 |
+| Venezuela part — The teacher invites us to know the community's present and past — story beats: children are sent out to ask their own community what it was before, making the neighbourhood the first archive (History expansion, 2026-11-15; original placement slug: first-steps/find-history-in-your-own-locality) | Venezuela, *Viva Venezuela — Ciencias Sociales, 2do grado*, printed p. 90 |
+| Venezuela part — The Barrio Charter: local history and collective memory — story beats: a barrio writes its own charter from its founding, its first settlers and their shared struggles — the settlement's past becomes its identity document (History expansion, 2026-11-15; original placement slug: first-steps/find-history-in-your-own-locality) | Venezuela, *Patria y Ciudadanía — Ciencias Sociales, 1er año*, printed pp. 58–61 |
+
+Venezuela's own way (Book 1 — g1 Viva Venezuela (student book, Spanish)): starts History from the child's own day, family and street — before/now contrasts, feast days and Bolívar as a child before any national chronology. That way is stocked here as the way Venezuela teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+Venezuela's own way (Book 2 — g2 Viva Venezuela (student book, Spanish)): Grade 2 carries a complete national story — arrival by sea, founded cities, cacao wealth, first rebellions, Miranda, 1810, 1811, Carabobo, Gran Colombia, Sucre — all told through grandparents, houses and two children thinking aloud. That way is stocked here as the way Venezuela teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+Venezuela's own way (Book 7 — g7 Patria y Ciudadanía (student book, Spanish)): a Civics book framed historically — citizenship is introduced as the unfinished dream of "the two Simons" (Rodríguez and Bolívar) and of Zamora, and national identity is built from indigenous and Afro-Venezuelan origins. That way is stocked here as the way Venezuela teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 28 countries (Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala, Malaysia, Ecuador, Bahamas, Eritrea, Nepal, Belarus, Fiji, Indonesia, Finland, Egypt, Syria, Suriname, Colombia, South Sudan, Samoa, Iraq, Mozambique, Yemen, Jordan, Laos, Cuba, China) — unchanged in number; Venezuela was already counted in this lesson from an earlier wave, and the History placements above are stocked as depth without raising the count.**
+
+Searchable tags: Venezuela, History expansion 2026-11-15, first-steps/find-history-in-your-own-locality

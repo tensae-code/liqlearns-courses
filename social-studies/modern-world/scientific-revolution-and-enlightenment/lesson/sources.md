@@ -1,6 +1,6 @@
 # Sources — Scientific Revolution and Enlightenment
 
-countries: Ethiopia, France, Costa Rica, Ecuador, Belarus, Montenegro, Dominican Republic, Pakistan, Colombia, Mauritania, Mongolia, Samoa, Iraq, Uzbekistan, North Macedonia, Afghanistan, Cuba, China
+countries: Ethiopia, France, Costa Rica, Ecuador, Belarus, Montenegro, Dominican Republic, Pakistan, Colombia, Mauritania, Mongolia, Samoa, Iraq, Uzbekistan, North Macedonia, Afghanistan, Cuba, China, Venezuela
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -426,3 +426,25 @@ China's own way (Book 6 — cn-g10 (student book, Chinese)): At senior high the 
 **Acceptance count: taught in 18 countries (Ethiopia, France, Costa Rica, Ecuador, Belarus, Montenegro, Dominican Republic, Pakistan, Colombia, Mauritania, Mongolia, Samoa, Iraq, Uzbekistan, North Macedonia, Afghanistan, Cuba, China).**
 
 Searchable tags: China, History expansion 2026-11-15, modern-world/scientific-revolution-and-enlightenment
+
+## History expansion (2026-11-15) — Venezuela stocked
+
+**Book 8 — g7 Historia de Venezuela y de Nuestra América (student book, Spanish)**
+- Title as printed: Historia de Venezuela y de Nuestra América — Ciencias Sociales, 1er año
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Ministerio del Poder Popular para la Educación, Colección Bicentenario; 3rd ed. April 2014; authors América Bracho Arcila, David Ortega, María Helena Hurtado, Mailyng Bermúdez; ISBN 978-980-218-319-7
+- PDF pages: 178 (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 33 placements — 10 to existing lessons, 23 NEW LESSON NEEDED
+- Venezuela's own way: history explicitly against eurocentrism and rote memorisation — the continent is Abya Yala, "a continent that had owners", the conquest is named invasion, and emancipation is told for all of Our America, not Venezuela alone.
+- Non-History parts named: none — the whole book is History.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Venezuela part — Transformations of eighteenth-century Europe and their effect on the world — story beats: Enlightenment and revolution in Europe shake the colonial order and give America new ideas to think with (History expansion, 2026-11-15; original placement slug: modern-world/scientific-revolution-and-enlightenment) | Venezuela, *Historia de Venezuela y de Nuestra América — Ciencias Sociales, 1er año*, printed p. 126 |
+
+Venezuela's own way (Book 8 — g7 Historia de Venezuela y de Nuestra América (student book, Spanish)): history explicitly against eurocentrism and rote memorisation — the continent is Abya Yala, "a continent that had owners", the conquest is named invasion, and emancipation is told for all of Our America, not Venezuela alone. That way is stocked here as the way Venezuela teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 19 countries (Ethiopia, France, Costa Rica, Ecuador, Belarus, Montenegro, Dominican Republic, Pakistan, Colombia, Mauritania, Mongolia, Samoa, Iraq, Uzbekistan, North Macedonia, Afghanistan, Cuba, China, Venezuela).**
+
+Searchable tags: Venezuela, History expansion 2026-11-15, modern-world/scientific-revolution-and-enlightenment

@@ -1,6 +1,6 @@
 # Sources — Dating the past — calendars, timelines and periods
 
-countries: Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, Laos, Afghanistan, Cuba, China
+countries: Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, Laos, Afghanistan, Cuba, China, Venezuela
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -1695,3 +1695,76 @@ China's own way (Book 8 — cn-g12a (student book, Chinese)): One spine for five
 **Acceptance count: taught in 41 countries (Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, Laos, Afghanistan, Cuba, China).**
 
 Searchable tags: China, History expansion 2026-11-15, first-steps/dating-the-past
+
+## History expansion (2026-11-15) — Venezuela stocked
+
+**Book 1 — g1 Viva Venezuela (student book, Spanish)**
+- Title as printed: Viva Venezuela — Ciencias Sociales, 1er grado
+- Grade: Grade 1 (student/teacher: STUDENT)
+- Publisher: Ministerio del Poder Popular para la Educación, Colección Bicentenario; 4th ed. April 2014; ISBN 978-980-218-297-8
+- PDF pages: 67 (cover/title verified against record title)
+- Verdict: COMPLETE
+- Tally: 10 placements — 5 to existing lessons, 5 NEW LESSON NEEDED
+- Venezuela's own way: starts History from the child's own day, family and street — before/now contrasts, feast days and Bolívar as a child before any national chronology.
+- Non-History parts named: family, home and houses (pp. 20–49, Civics/domestic life); community workers and services (pp. 50–57, Civics); city/country landscapes and cardinal points, Moon/Sun (pp. 60–79, Geography/science); rights and duties (pp. 105–114, Civics); Venezuela's land, rivers and place in South America (pp. 84–89, 115–116, Geography).
+
+**Book 2 — g2 Viva Venezuela (student book, Spanish)**
+- Title as printed: Viva Venezuela — Ciencias Sociales, 2do grado
+- Grade: Grade 2 (student/teacher: STUDENT)
+- Publisher: Ministerio del Poder Popular para la Educación, Colección Bicentenario; April 2014 edition; ISBN 978-980-218-298-5
+- PDF pages: 75 (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 24 placements — 9 to existing lessons, 15 NEW LESSON NEEDED
+- Venezuela's own way: Grade 2 carries a complete national story — arrival by sea, founded cities, cacao wealth, first rebellions, Miranda, 1810, 1811, Carabobo, Gran Colombia, Sucre — all told through grandparents, houses and two children thinking aloud.
+- Non-History parts named: our school and its building (pp. 10–15, Civics); family, births and homes (pp. 16–33, Civics); work, food, population and languages (pp. 42–64, Civics/Geography); landscapes, weather, Sun and measuring time (pp. 66–81, Geography/science); a sick Earth and building the future (pp. 134–142, environment/Civics).
+
+**Book 3 — g3 Viva Venezuela (student book, Spanish)**
+- Title as printed: Viva Venezuela — Ciencias Sociales, 3er grado
+- Grade: Grade 3 (student/teacher: STUDENT)
+- Publisher: Ministerio del Poder Popular para la Educación, Colección Bicentenario; April 2014 edition; ISBN 978-980-218-299-2
+- PDF pages: 91 (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 28 placements — 6 to existing lessons, 22 NEW LESSON NEEDED
+- Venezuela's own way: a spiral timeline runs from remote ancestors through slavery, the agricultural republic and Zamora to the oil republic, interleaved with a state-by-state tour where each state is introduced by its history and its hero's name.
+- Non-History parts named: school rules, family and community life (pp. 8–54, Civics); fresh waters and natural landscapes (pp. 66–68, Geography); work (p. 74, Civics); the Andean and Llanos states tour (pp. 148–157, Geography); the Earth and global warming (pp. 168–175, Geography/science).
+
+**Book 4 — g4 Venezuela y Su Gente (student book, Spanish)**
+- Title as printed: Venezuela y Su Gente — Ciencias Sociales, 4to grado
+- Grade: Grade 4 (student/teacher: STUDENT)
+- Publisher: Ministerio del Poder Popular para la Educación, Colección Bicentenario; 4th ed. April 2014; authors América Bracho, María Helena León de Hurtado; ISBN 978-980-218-302-9
+- PDF pages: 83 (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 26 placements — 13 to existing lessons, 13 NEW LESSON NEEDED
+- Venezuela's own way: the book's spine is a named journey, "Viaje por nuestro pasado indígena y colonial" — indigenous past first, then encounter, resistance, empire, mestizaje and the road to 1810 — framed by the house, the street and the map of today.
+- Non-History parts named: your house and surroundings, rural/urban housing (pp. 8–27, Geography/Civics); we are Latin Americans and world inequalities (pp. 46–48, Geography); family and living together (pp. 124–131, Civics); basic needs and thinking of the future (pp. 140–147, Civics).
+
+**Book 8 — g7 Historia de Venezuela y de Nuestra América (student book, Spanish)**
+- Title as printed: Historia de Venezuela y de Nuestra América — Ciencias Sociales, 1er año
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Ministerio del Poder Popular para la Educación, Colección Bicentenario; 3rd ed. April 2014; authors América Bracho Arcila, David Ortega, María Helena Hurtado, Mailyng Bermúdez; ISBN 978-980-218-319-7
+- PDF pages: 178 (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 33 placements — 10 to existing lessons, 23 NEW LESSON NEEDED
+- Venezuela's own way: history explicitly against eurocentrism and rote memorisation — the continent is Abya Yala, "a continent that had owners", the conquest is named invasion, and emancipation is told for all of Our America, not Venezuela alone.
+- Non-History parts named: none — the whole book is History.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Venezuela part — Day, night, week and yesterday/today/tomorrow — story beats: the Sun rises and sets, children count the seven steps up to Sunday again and learn that yesterday is already the past (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Venezuela, *Viva Venezuela — Ciencias Sociales, 1er grado*, printed pp. 70–79 |
+| Venezuela part — The train of life: my own past in stages — story beats: every person rides the same train — born, grows, studies, works, ages — so a child's own life is told as an ordered timeline with a last wagon (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Venezuela, *Viva Venezuela — Ciencias Sociales, 1er grado*, printed pp. 96–109 |
+| Venezuela part — Grandmother wore a hat: fashions change with time — story beats: Luisito learns that clothes go out of fashion because fashions change with time, and a life (Manuel's story) is told as a sequence of stages (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Venezuela, *Viva Venezuela — Ciencias Sociales, 2do grado*, printed pp. 24–29 |
+| Venezuela part — Time is an invisible magician: it changes everything — story beats: time the magician changes fashions, houses and people, yet not everything changes — the lesson that starts historical thinking (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Venezuela, *Viva Venezuela — Ciencias Sociales, 2do grado*, printed p. 82 |
+| Venezuela part — We have a homeland: the spiral timeline to the twenty-first century — story beats: children trace a curving finger-path from the centre of a spiral through the centuries to the 2000s while millions raise the flag (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Venezuela, *Viva Venezuela — Ciencias Sociales, 3er grado*, printed pp. 62–65 |
+| Venezuela part — A game in fashion in that era — story beats: a game everybody played then has vanished from the street now — pastimes are dated evidence of a period, like hats and coins (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Venezuela, *Viva Venezuela — Ciencias Sociales, 3er grado*, printed p. 80 |
+| Venezuela part — Historical time is very, very long: the time tunnel — story beats: a tunnel of time stretches the child's sense of the past far beyond grandparents, to lengths no family memory reaches (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Venezuela, *Venezuela y Su Gente — Ciencias Sociales, 4to grado*, printed pp. 54–55 |
+| Venezuela part — Periodisation? — story beats: students question how historians cut the past into periods — and who decides where one age ends and another begins (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Venezuela, *Historia de Venezuela y de Nuestra América — Ciencias Sociales, 1er año*, printed p. 44 |
+
+Venezuela's own way (Book 1 — g1 Viva Venezuela (student book, Spanish)): starts History from the child's own day, family and street — before/now contrasts, feast days and Bolívar as a child before any national chronology. That way is stocked here as the way Venezuela teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+Venezuela's own way (Book 2 — g2 Viva Venezuela (student book, Spanish)): Grade 2 carries a complete national story — arrival by sea, founded cities, cacao wealth, first rebellions, Miranda, 1810, 1811, Carabobo, Gran Colombia, Sucre — all told through grandparents, houses and two children thinking aloud. That way is stocked here as the way Venezuela teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+Venezuela's own way (Book 3 — g3 Viva Venezuela (student book, Spanish)): a spiral timeline runs from remote ancestors through slavery, the agricultural republic and Zamora to the oil republic, interleaved with a state-by-state tour where each state is introduced by its history and its hero's name. That way is stocked here as the way Venezuela teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+Venezuela's own way (Book 4 — g4 Venezuela y Su Gente (student book, Spanish)): the book's spine is a named journey, "Viaje por nuestro pasado indígena y colonial" — indigenous past first, then encounter, resistance, empire, mestizaje and the road to 1810 — framed by the house, the street and the map of today. That way is stocked here as the way Venezuela teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+Venezuela's own way (Book 8 — g7 Historia de Venezuela y de Nuestra América (student book, Spanish)): history explicitly against eurocentrism and rote memorisation — the continent is Abya Yala, "a continent that had owners", the conquest is named invasion, and emancipation is told for all of Our America, not Venezuela alone. That way is stocked here as the way Venezuela teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 42 countries (Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, Laos, Afghanistan, Cuba, China, Venezuela).**
+
+Searchable tags: Venezuela, History expansion 2026-11-15, first-steps/dating-the-past

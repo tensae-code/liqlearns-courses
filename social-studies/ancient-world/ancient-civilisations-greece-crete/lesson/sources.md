@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — Greece: Crete
 
-countries: Ethiopia, France, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro, Dominican Republic, Egypt, Bolivia, Iran, Cambodia, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Yemen, Sudan, Jordan, Uzbekistan, Laos, Afghanistan, Cuba, China
+countries: Ethiopia, France, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro, Dominican Republic, Egypt, Bolivia, Iran, Cambodia, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Yemen, Sudan, Jordan, Uzbekistan, Laos, Afghanistan, Cuba, China, Venezuela
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 6, placements 92–106).
 
@@ -715,3 +715,25 @@ China's own way (Book 12 — cn-g12e (student book, Chinese)): Culture itself is
 **Acceptance count: taught in 29 countries (Ethiopia, France, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro, Dominican Republic, Egypt, Bolivia, Iran, Cambodia, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Yemen, Sudan, Jordan, Uzbekistan, Laos, Afghanistan, Cuba, China).**
 
 Searchable tags: China, History expansion 2026-11-15, ancient-world/ancient-civilisations-greece-crete
+
+## History expansion (2026-11-15) — Venezuela stocked
+
+**Book 10 — g8 Historia de la Humanidad (student book, Spanish)**
+- Title as printed: Historia de la Humanidad — Ciencias Sociales, 2do año
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Ministerio del Poder Popular para la Educación, Colección Bicentenario; April 2014 edition; ISBN 978-980-218-336-4
+- PDF pages: 148 PDF spreads (printed pagination to p. 286; byte size 9,606,843 and 148 pages verified exactly against the record; cover/title verified)
+- Verdict: COMPLETE
+- Tally: 39 placements — 34 to existing lessons, 5 NEW LESSON NEEDED
+- Venezuela's own way: a full world history for Venezuelan students that starts in Africa as "our mother continent", insists "we do not descend from the monkey", and reads every age through work, class struggle and liberation — ending in Latin America's own revolutions.
+- Non-History parts named: none — the whole book is History.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Venezuela part — A different civilisation appears in Europe: the Minoan civilisation; periods of Greek history — story beats: Crete's Minoans open Europe's story, and Greek history is cut into its periods (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-greece-crete) | Venezuela, *Historia de la Humanidad — Ciencias Sociales, 2do año*, printed pp. 63–65 |
+
+Venezuela's own way (Book 10 — g8 Historia de la Humanidad (student book, Spanish)): a full world history for Venezuelan students that starts in Africa as "our mother continent", insists "we do not descend from the monkey", and reads every age through work, class struggle and liberation — ending in Latin America's own revolutions. That way is stocked here as the way Venezuela teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 30 countries (Ethiopia, France, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro, Dominican Republic, Egypt, Bolivia, Iran, Cambodia, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Yemen, Sudan, Jordan, Uzbekistan, Laos, Afghanistan, Cuba, China, Venezuela).**
+
+Searchable tags: Venezuela, History expansion 2026-11-15, ancient-world/ancient-civilisations-greece-crete

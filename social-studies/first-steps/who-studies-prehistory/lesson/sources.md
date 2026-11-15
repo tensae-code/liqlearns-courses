@@ -1,6 +1,6 @@
 # Sources — Archaeology, palaeontology, anthropology — who studies prehistory
 
-countries: Ethiopia, Gambia, Turkey, Bangladesh, Australia, Bhutan, Eritrea, India, Finland, Dominican Republic, Iran, Suriname, Cambodia, Colombia, Afghanistan, China
+countries: Ethiopia, Gambia, Turkey, Bangladesh, Australia, Bhutan, Eritrea, India, Finland, Dominican Republic, Iran, Suriname, Cambodia, Colombia, Afghanistan, China, Venezuela
 
 **Book 1:** *History, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, Addis Ababa, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-064-2, 210 printed pp. Printed page = PDF page − 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g09-student-placements.md
 
@@ -385,3 +385,49 @@ China's own way (Book 1 — cn-g7-b (student book, Chinese) — combined History
 **Acceptance count: taught in 16 countries (Ethiopia, Gambia, Turkey, Bangladesh, Australia, Bhutan, Eritrea, India, Finland, Dominican Republic, Iran, Suriname, Cambodia, Colombia, Afghanistan, China).**
 
 Searchable tags: China, History expansion 2026-11-15, first-steps/who-studies-prehistory
+
+## History expansion (2026-11-15) — Venezuela stocked
+
+**Book 3 — g3 Viva Venezuela (student book, Spanish)**
+- Title as printed: Viva Venezuela — Ciencias Sociales, 3er grado
+- Grade: Grade 3 (student/teacher: STUDENT)
+- Publisher: Ministerio del Poder Popular para la Educación, Colección Bicentenario; April 2014 edition; ISBN 978-980-218-299-2
+- PDF pages: 91 (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 28 placements — 6 to existing lessons, 22 NEW LESSON NEEDED
+- Venezuela's own way: a spiral timeline runs from remote ancestors through slavery, the agricultural republic and Zamora to the oil republic, interleaved with a state-by-state tour where each state is introduced by its history and its hero's name.
+- Non-History parts named: school rules, family and community life (pp. 8–54, Civics); fresh waters and natural landscapes (pp. 66–68, Geography); work (p. 74, Civics); the Andean and Llanos states tour (pp. 148–157, Geography); the Earth and global warming (pp. 168–175, Geography/science).
+
+**Book 8 — g7 Historia de Venezuela y de Nuestra América (student book, Spanish)**
+- Title as printed: Historia de Venezuela y de Nuestra América — Ciencias Sociales, 1er año
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Ministerio del Poder Popular para la Educación, Colección Bicentenario; 3rd ed. April 2014; authors América Bracho Arcila, David Ortega, María Helena Hurtado, Mailyng Bermúdez; ISBN 978-980-218-319-7
+- PDF pages: 178 (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 33 placements — 10 to existing lessons, 23 NEW LESSON NEEDED
+- Venezuela's own way: history explicitly against eurocentrism and rote memorisation — the continent is Abya Yala, "a continent that had owners", the conquest is named invasion, and emancipation is told for all of Our America, not Venezuela alone.
+- Non-History parts named: none — the whole book is History.
+
+**Book 10 — g8 Historia de la Humanidad (student book, Spanish)**
+- Title as printed: Historia de la Humanidad — Ciencias Sociales, 2do año
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Ministerio del Poder Popular para la Educación, Colección Bicentenario; April 2014 edition; ISBN 978-980-218-336-4
+- PDF pages: 148 PDF spreads (printed pagination to p. 286; byte size 9,606,843 and 148 pages verified exactly against the record; cover/title verified)
+- Verdict: COMPLETE
+- Tally: 39 placements — 34 to existing lessons, 5 NEW LESSON NEEDED
+- Venezuela's own way: a full world history for Venezuelan students that starts in Africa as "our mother continent", insists "we do not descend from the monkey", and reads every age through work, class struggle and liberation — ending in Latin America's own revolutions.
+- Non-History parts named: none — the whole book is History.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Venezuela part — Our most remote ancestors: a look at the past — story beats: before any written Venezuela, remote ancestors leave the traces from which the country's deepest past must be read (History expansion, 2026-11-15; original placement slug: first-steps/who-studies-prehistory) | Venezuela, *Viva Venezuela — Ciencias Sociales, 3er grado*, printed p. 56 |
+| Venezuela part — A settlement hard to find out; peopling a country that had no name yet — story beats: how America was first peopled is a detective problem of routes and evidence, long before the land had the name Venezuela (History expansion, 2026-11-15; original placement slug: first-steps/who-studies-prehistory) | Venezuela, *Historia de Venezuela y de Nuestra América — Ciencias Sociales, 1er año*, printed pp. 12–19 |
+| Venezuela part — First settlers of America and of Venezuela — story beats: the first Americans cross into a new continent and reach the land that will be Venezuela, the deepest root of its people (History expansion, 2026-11-15; original placement slug: first-steps/who-studies-prehistory) | Venezuela, *Historia de la Humanidad — Ciencias Sociales, 2do año*, printed pp. 20–21 |
+
+Venezuela's own way (Book 3 — g3 Viva Venezuela (student book, Spanish)): a spiral timeline runs from remote ancestors through slavery, the agricultural republic and Zamora to the oil republic, interleaved with a state-by-state tour where each state is introduced by its history and its hero's name. That way is stocked here as the way Venezuela teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+Venezuela's own way (Book 8 — g7 Historia de Venezuela y de Nuestra América (student book, Spanish)): history explicitly against eurocentrism and rote memorisation — the continent is Abya Yala, "a continent that had owners", the conquest is named invasion, and emancipation is told for all of Our America, not Venezuela alone. That way is stocked here as the way Venezuela teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+Venezuela's own way (Book 10 — g8 Historia de la Humanidad (student book, Spanish)): a full world history for Venezuelan students that starts in Africa as "our mother continent", insists "we do not descend from the monkey", and reads every age through work, class struggle and liberation — ending in Latin America's own revolutions. That way is stocked here as the way Venezuela teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 17 countries (Ethiopia, Gambia, Turkey, Bangladesh, Australia, Bhutan, Eritrea, India, Finland, Dominican Republic, Iran, Suriname, Cambodia, Colombia, Afghanistan, China, Venezuela).**
+
+Searchable tags: Venezuela, History expansion 2026-11-15, first-steps/who-studies-prehistory

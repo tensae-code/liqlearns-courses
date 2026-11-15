@@ -1,6 +1,6 @@
 # Sources — What history is
 
-countries: Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba
+countries: Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba, Venezuela
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -1366,3 +1366,61 @@ Cuba's own way (Book 14 — g11-orient (teacher guide, Spanish)): Pre-university
 **Acceptance count: taught in 45 countries (Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba).**
 
 Searchable tags: Cuba, History expansion 2026-11-15, first-steps/what-history-is
+
+## History expansion (2026-11-15) — Venezuela stocked
+
+**Book 1 — g1 Viva Venezuela (student book, Spanish)**
+- Title as printed: Viva Venezuela — Ciencias Sociales, 1er grado
+- Grade: Grade 1 (student/teacher: STUDENT)
+- Publisher: Ministerio del Poder Popular para la Educación, Colección Bicentenario; 4th ed. April 2014; ISBN 978-980-218-297-8
+- PDF pages: 67 (cover/title verified against record title)
+- Verdict: COMPLETE
+- Tally: 10 placements — 5 to existing lessons, 5 NEW LESSON NEEDED
+- Venezuela's own way: starts History from the child's own day, family and street — before/now contrasts, feast days and Bolívar as a child before any national chronology.
+- Non-History parts named: family, home and houses (pp. 20–49, Civics/domestic life); community workers and services (pp. 50–57, Civics); city/country landscapes and cardinal points, Moon/Sun (pp. 60–79, Geography/science); rights and duties (pp. 105–114, Civics); Venezuela's land, rivers and place in South America (pp. 84–89, 115–116, Geography).
+
+**Book 4 — g4 Venezuela y Su Gente (student book, Spanish)**
+- Title as printed: Venezuela y Su Gente — Ciencias Sociales, 4to grado
+- Grade: Grade 4 (student/teacher: STUDENT)
+- Publisher: Ministerio del Poder Popular para la Educación, Colección Bicentenario; 4th ed. April 2014; authors América Bracho, María Helena León de Hurtado; ISBN 978-980-218-302-9
+- PDF pages: 83 (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 26 placements — 13 to existing lessons, 13 NEW LESSON NEEDED
+- Venezuela's own way: the book's spine is a named journey, "Viaje por nuestro pasado indígena y colonial" — indigenous past first, then encounter, resistance, empire, mestizaje and the road to 1810 — framed by the house, the street and the map of today.
+- Non-History parts named: your house and surroundings, rural/urban housing (pp. 8–27, Geography/Civics); we are Latin Americans and world inequalities (pp. 46–48, Geography); family and living together (pp. 124–131, Civics); basic needs and thinking of the future (pp. 140–147, Civics).
+
+**Book 5 — g5 Venezuela y Su Gente (student book, Spanish)**
+- Title as printed: Venezuela y Su Gente — Ciencias Sociales, 5to grado
+- Grade: Grade 5 (student/teacher: STUDENT)
+- Publisher: Ministerio del Poder Popular para la Educación, Colección Bicentenario; April 2014 edition; ISBN 978-980-218-303-6
+- PDF pages: 83 (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 16 placements — 1 to an existing lesson, 15 NEW LESSON NEEDED
+- Venezuela's own way: Grade 5 turns to the nineteenth-century republic — told as three tries at a republic (second victory, second failure, third the charm), then separation from Gran Colombia, the Federal War and coffee — with geography units on land, ports and oil basins wrapped around it.
+- Non-History parts named: travelling Venezuela — working the land, country and city people, ports, climate, biodiversity, relief and mineral wealth, oil basins (pp. 7–53, Geography); citizenship, human rights, the Constitution as mother-law, municipal and state powers (pp. 125–147, Civics); our culture identifies us as a people (pp. 148–155, Civics).
+
+**Book 8 — g7 Historia de Venezuela y de Nuestra América (student book, Spanish)**
+- Title as printed: Historia de Venezuela y de Nuestra América — Ciencias Sociales, 1er año
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Ministerio del Poder Popular para la Educación, Colección Bicentenario; 3rd ed. April 2014; authors América Bracho Arcila, David Ortega, María Helena Hurtado, Mailyng Bermúdez; ISBN 978-980-218-319-7
+- PDF pages: 178 (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 33 placements — 10 to existing lessons, 23 NEW LESSON NEEDED
+- Venezuela's own way: history explicitly against eurocentrism and rote memorisation — the continent is Abya Yala, "a continent that had owners", the conquest is named invasion, and emancipation is told for all of Our America, not Venezuela alone.
+- Non-History parts named: none — the whole book is History.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Venezuela part — Changes that have happened (before/now) — story beats: families once lived mostly in the countryside with no television or computer; now most live in cities with infocentres and Canaima laptops in school (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Venezuela, *Viva Venezuela — Ciencias Sociales, 1er grado*, printed p. 58 |
+| Venezuela part — "…And our Venezuela said: why have they changed me again and again?" — story beats: Venezuela speaks in first person — a cacique's blood watered her soil, and later "thanks to oil they centralised me" — the country narrating its own changes (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Venezuela, *Venezuela y Su Gente — Ciencias Sociales, 4to grado*, printed pp. 34–37 |
+| Venezuela part — Things change… and peoples change their history — story beats: peoples are not stuck with the history they inherited; as things change, a people rewrites its own story (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Venezuela, *Venezuela y Su Gente — Ciencias Sociales, 5to grado*, printed p. 60 |
+| Venezuela part — Importance of present and past to build the future; how time is measured — story beats: Neruda's line frames the lesson — the present is a succession of pasts with traces, and the future is decided by the people in the present (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Venezuela, *Historia de Venezuela y de Nuestra América — Ciencias Sociales, 1er año*, printed pp. 8–11 |
+
+Venezuela's own way (Book 1 — g1 Viva Venezuela (student book, Spanish)): starts History from the child's own day, family and street — before/now contrasts, feast days and Bolívar as a child before any national chronology. That way is stocked here as the way Venezuela teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+Venezuela's own way (Book 4 — g4 Venezuela y Su Gente (student book, Spanish)): the book's spine is a named journey, "Viaje por nuestro pasado indígena y colonial" — indigenous past first, then encounter, resistance, empire, mestizaje and the road to 1810 — framed by the house, the street and the map of today. That way is stocked here as the way Venezuela teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+Venezuela's own way (Book 5 — g5 Venezuela y Su Gente (student book, Spanish)): Grade 5 turns to the nineteenth-century republic — told as three tries at a republic (second victory, second failure, third the charm), then separation from Gran Colombia, the Federal War and coffee — with geography units on land, ports and oil basins wrapped around it. That way is stocked here as the way Venezuela teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+Venezuela's own way (Book 8 — g7 Historia de Venezuela y de Nuestra América (student book, Spanish)): history explicitly against eurocentrism and rote memorisation — the continent is Abya Yala, "a continent that had owners", the conquest is named invasion, and emancipation is told for all of Our America, not Venezuela alone. That way is stocked here as the way Venezuela teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 46 countries (Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba, Venezuela).**
+
+Searchable tags: Venezuela, History expansion 2026-11-15, first-steps/what-history-is

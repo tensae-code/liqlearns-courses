@@ -1,6 +1,6 @@
 # Sources — 1789 — the French Revolution breaks out
 
-countries: Ethiopia, Poland, Costa Rica, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Cuba, China
+countries: Ethiopia, Poland, Costa Rica, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Cuba, China, Venezuela
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under GEQIP-E, ISBN 978-99990-0-066-6. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -725,3 +725,37 @@ China's own way (Book 6 — cn-g10 (student book, Chinese)): At senior high the 
 **Acceptance count: taught in 26 countries (Ethiopia, Poland, Costa Rica, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Cuba, China).**
 
 Searchable tags: China, History expansion 2026-11-15, modern-world/the-french-revolution-breaks-out-1789
+
+## History expansion (2026-11-15) — Venezuela stocked
+
+**Book 7 — g7 Patria y Ciudadanía (student book, Spanish)**
+- Title as printed: Patria y Ciudadanía — Ciencias Sociales, 1er año
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Ministerio del Poder Popular para la Educación, Colección Bicentenario; 3rd ed. April 2014; authors Mailyng Bermúdez Sculpi, Noemí Frías Durán; ISBN 978-980-218-325-8
+- PDF pages: 93 PDF spreads (printed pagination to p. 176; cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 8 placements — 4 to existing lessons, 4 NEW LESSON NEEDED
+- Venezuela's own way: a Civics book framed historically — citizenship is introduced as the unfinished dream of "the two Simons" (Rodríguez and Bolívar) and of Zamora, and national identity is built from indigenous and Afro-Venezuelan origins.
+- Non-History parts named: where do I come from / adolescence (pp. 30–39, Civics); my family and family life (pp. 40–57, Civics); my house, street and community organisation, consumers, communal councils (pp. 58–75, Civics, except local-history exercise placed below); from the street to Miraflores — government and public powers (pp. 94–109, Civics); homeland and citizenship as permanent construction — rights and duties today (pp. 110–125, Civics, except 1999 process placed in Ch. 1 below); our big house the planet — energy, recycling, risk (pp. 126–159, Geography/Civics); promoters of peace (pp. 160–175, Civics).
+
+**Book 10 — g8 Historia de la Humanidad (student book, Spanish)**
+- Title as printed: Historia de la Humanidad — Ciencias Sociales, 2do año
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Ministerio del Poder Popular para la Educación, Colección Bicentenario; April 2014 edition; ISBN 978-980-218-336-4
+- PDF pages: 148 PDF spreads (printed pagination to p. 286; byte size 9,606,843 and 148 pages verified exactly against the record; cover/title verified)
+- Verdict: COMPLETE
+- Tally: 39 placements — 34 to existing lessons, 5 NEW LESSON NEEDED
+- Venezuela's own way: a full world history for Venezuelan students that starts in Africa as "our mother continent", insists "we do not descend from the monkey", and reads every age through work, class struggle and liberation — ending in Latin America's own revolutions.
+- Non-History parts named: none — the whole book is History.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Venezuela part — Olympe de Gouges and the Rights of Woman — story beats: out of the French Revolution, Olympe de Gouges writes the Declaration of the Rights of Woman and the Female Citizen and students judge whether its treatment is fair (History expansion, 2026-11-15; original placement slug: modern-world/the-french-revolution-breaks-out-1789) | Venezuela, *Patria y Ciudadanía — Ciencias Sociales, 1er año*, printed p. 49 (family chapter box) |
+| Venezuela part — Physiocrats and Encyclopedists; the Estates General; the Constituent Assembly; Rights of the Citizen — story beats: new ideas arm a revolution; the Estates General become a Constituent Assembly and proclaim the rights of man and citizen (History expansion, 2026-11-15; original placement slug: modern-world/the-french-revolution-breaks-out-1789) | Venezuela, *Historia de la Humanidad — Ciencias Sociales, 2do año*, printed pp. 164–169 |
+
+Venezuela's own way (Book 7 — g7 Patria y Ciudadanía (student book, Spanish)): a Civics book framed historically — citizenship is introduced as the unfinished dream of "the two Simons" (Rodríguez and Bolívar) and of Zamora, and national identity is built from indigenous and Afro-Venezuelan origins. That way is stocked here as the way Venezuela teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+Venezuela's own way (Book 10 — g8 Historia de la Humanidad (student book, Spanish)): a full world history for Venezuelan students that starts in Africa as "our mother continent", insists "we do not descend from the monkey", and reads every age through work, class struggle and liberation — ending in Latin America's own revolutions. That way is stocked here as the way Venezuela teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 27 countries (Ethiopia, Poland, Costa Rica, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Cuba, China, Venezuela).**
+
+Searchable tags: Venezuela, History expansion 2026-11-15, modern-world/the-french-revolution-breaks-out-1789

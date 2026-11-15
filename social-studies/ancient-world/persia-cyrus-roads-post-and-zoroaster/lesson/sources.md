@@ -1,6 +1,6 @@
 # Sources — Persia — Cyrus, roads, post and Zoroaster
 
-countries: Ethiopia, India, Pakistan, Syria, Iran, Libya, Iraq, Yemen, Jordan, Uzbekistan, North Macedonia, Afghanistan, China
+countries: Ethiopia, India, Pakistan, Syria, Iran, Libya, Iraq, Yemen, Jordan, Uzbekistan, North Macedonia, Afghanistan, China, Venezuela
 
 **Book 1:** *History, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, Addis Ababa, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-064-2, 210 printed pp. Printed page = PDF page − 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g09-student-placements.md
 
@@ -279,3 +279,25 @@ China's own way (Book 6 — cn-g10 (student book, Chinese)): At senior high the 
 **Acceptance count: taught in 13 countries (Ethiopia, India, Pakistan, Syria, Iran, Libya, Iraq, Yemen, Jordan, Uzbekistan, North Macedonia, Afghanistan, China).**
 
 Searchable tags: China, History expansion 2026-11-15, ancient-world/persia-cyrus-roads-post-and-zoroaster
+
+## History expansion (2026-11-15) — Venezuela stocked
+
+**Book 10 — g8 Historia de la Humanidad (student book, Spanish)**
+- Title as printed: Historia de la Humanidad — Ciencias Sociales, 2do año
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Ministerio del Poder Popular para la Educación, Colección Bicentenario; April 2014 edition; ISBN 978-980-218-336-4
+- PDF pages: 148 PDF spreads (printed pagination to p. 286; byte size 9,606,843 and 148 pages verified exactly against the record; cover/title verified)
+- Verdict: COMPLETE
+- Tally: 39 placements — 34 to existing lessons, 5 NEW LESSON NEEDED
+- Venezuela's own way: a full world history for Venezuelan students that starts in Africa as "our mother continent", insists "we do not descend from the monkey", and reads every age through work, class struggle and liberation — ending in Latin America's own revolutions.
+- Non-History parts named: none — the whole book is History.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Venezuela part — The Medes; Persia, its religion and liberation; the Persian empire and its defeat — story beats: Cyrus liberates and builds an empire ordered by Zoroaster's faith, until Greece defeats it (History expansion, 2026-11-15; original placement slug: ancient-world/persia-cyrus-roads-post-and-zoroaster) | Venezuela, *Historia de la Humanidad — Ciencias Sociales, 2do año*, printed pp. 58–62 |
+
+Venezuela's own way (Book 10 — g8 Historia de la Humanidad (student book, Spanish)): a full world history for Venezuelan students that starts in Africa as "our mother continent", insists "we do not descend from the monkey", and reads every age through work, class struggle and liberation — ending in Latin America's own revolutions. That way is stocked here as the way Venezuela teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 14 countries (Ethiopia, India, Pakistan, Syria, Iran, Libya, Iraq, Yemen, Jordan, Uzbekistan, North Macedonia, Afghanistan, China, Venezuela).**
+
+Searchable tags: Venezuela, History expansion 2026-11-15, ancient-world/persia-cyrus-roads-post-and-zoroaster

@@ -1,6 +1,6 @@
 # Sources — Effects of industrialisation — cities, classes, empires
 
-countries: Ethiopia, Brazil, Australia, Kuwait, Palestine, Mauritania, South Sudan, Samoa, Mozambique, Jordan, Uzbekistan, North Macedonia, Cuba, China
+countries: Ethiopia, Brazil, Australia, Kuwait, Palestine, Mauritania, South Sudan, Samoa, Mozambique, Jordan, Uzbekistan, North Macedonia, Cuba, China, Venezuela
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under GEQIP-E, ISBN 978-99990-0-066-6. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -356,3 +356,25 @@ China's own way (Book 11 — cn-g12d (student book, Chinese)): History from the 
 **Acceptance count: taught in 14 countries (Ethiopia, Brazil, Australia, Kuwait, Palestine, Mauritania, South Sudan, Samoa, Mozambique, Jordan, Uzbekistan, North Macedonia, Cuba, China).**
 
 Searchable tags: China, History expansion 2026-11-15, modern-world/effects-of-industrialisation-cities-classes-empires
+
+## History expansion (2026-11-15) — Venezuela stocked
+
+**Book 2 — g2 Viva Venezuela (student book, Spanish)**
+- Title as printed: Viva Venezuela — Ciencias Sociales, 2do grado
+- Grade: Grade 2 (student/teacher: STUDENT)
+- Publisher: Ministerio del Poder Popular para la Educación, Colección Bicentenario; April 2014 edition; ISBN 978-980-218-298-5
+- PDF pages: 75 (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 24 placements — 9 to existing lessons, 15 NEW LESSON NEEDED
+- Venezuela's own way: Grade 2 carries a complete national story — arrival by sea, founded cities, cacao wealth, first rebellions, Miranda, 1810, 1811, Carabobo, Gran Colombia, Sucre — all told through grandparents, houses and two children thinking aloud.
+- Non-History parts named: our school and its building (pp. 10–15, Civics); family, births and homes (pp. 16–33, Civics); work, food, population and languages (pp. 42–64, Civics/Geography); landscapes, weather, Sun and measuring time (pp. 66–81, Geography/science); a sick Earth and building the future (pp. 134–142, environment/Civics).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Venezuela part — The Earth is sick: industry's human and environmental problems — story beats: industry begins in nineteenth-century Europe and its gases and waste climb into the high atmosphere, sickening the whole planet (History expansion, 2026-11-15; original placement slug: modern-world/effects-of-industrialisation-cities-classes-empires) | Venezuela, *Viva Venezuela — Ciencias Sociales, 2do grado*, printed pp. 134–137 |
+
+Venezuela's own way (Book 2 — g2 Viva Venezuela (student book, Spanish)): Grade 2 carries a complete national story — arrival by sea, founded cities, cacao wealth, first rebellions, Miranda, 1810, 1811, Carabobo, Gran Colombia, Sucre — all told through grandparents, houses and two children thinking aloud. That way is stocked here as the way Venezuela teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 15 countries (Ethiopia, Brazil, Australia, Kuwait, Palestine, Mauritania, South Sudan, Samoa, Mozambique, Jordan, Uzbekistan, North Macedonia, Cuba, China, Venezuela).**
+
+Searchable tags: Venezuela, History expansion 2026-11-15, modern-world/effects-of-industrialisation-cities-classes-empires

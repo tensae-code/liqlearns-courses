@@ -1,6 +1,6 @@
 # Sources — The world after 1945 — losses, division and rebuilding
 
-countries: Ethiopia, Kuwait, Montenegro, Pakistan, Iran, Cambodia, Colombia, South Sudan, Libya, Iraq, Mozambique, Laos, China
+countries: Ethiopia, Kuwait, Montenegro, Pakistan, Iran, Cambodia, Colombia, South Sudan, Libya, Iraq, Mozambique, Laos, China, Venezuela
 
 **Book 1:** *History, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-067-3. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g12-student-placements.md
 
@@ -363,3 +363,37 @@ China's own way (Book 6 — cn-g10 (student book, Chinese)): At senior high the 
 **Acceptance count: taught in 13 countries (Ethiopia, Kuwait, Montenegro, Pakistan, Iran, Cambodia, Colombia, South Sudan, Libya, Iraq, Mozambique, Laos, China).**
 
 Searchable tags: China, History expansion 2026-11-15, modern-world/the-world-after-1945-losses-division-and-rebuilding
+
+## History expansion (2026-11-15) — Venezuela stocked
+
+**Book 11 — g10 Historia de Venezuela Contemporánea (student book, Spanish) [read in place from phase3-staging, never deleted]**
+- Title as printed: Historia de Venezuela Contemporánea — Ciencias Sociales, 4to año
+- Grade: Grade 10 (student/teacher: STUDENT)
+- Publisher: Ministerio del Poder Popular para la Educación, Colección Bicentenario; 3rd ed. April 2014; author Federico Villalba Frontado; ISBN 978-980-218-339-5
+- PDF pages: 147 PDF spreads (each carrying two printed pages; printed pagination runs to p. 286+; size 3,413,268 bytes and 147 pages verified exactly against the record; cover/title verified)
+- Verdict: COMPLETE
+- Tally: 33 placements — 2 to existing lessons, 31 NEW LESSON NEEDED
+- Venezuela's own way: teaches contemporary history through three "axes" — coffee, oil and violence — under one thesis, dependence: foreign commercial houses, then the Seven Sisters oil companies, then PDVSA's own managers keep the country a mono-producer; time is taught as recurrent, not a straight line.
+- Non-History parts named: none — the whole book is History; its geographic "poles" sections are placed below as historical-economic geography inside the History narrative.
+
+**Book 10 — g8 Historia de la Humanidad (student book, Spanish)**
+- Title as printed: Historia de la Humanidad — Ciencias Sociales, 2do año
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Ministerio del Poder Popular para la Educación, Colección Bicentenario; April 2014 edition; ISBN 978-980-218-336-4
+- PDF pages: 148 PDF spreads (printed pagination to p. 286; byte size 9,606,843 and 148 pages verified exactly against the record; cover/title verified)
+- Verdict: COMPLETE
+- Tally: 39 placements — 34 to existing lessons, 5 NEW LESSON NEEDED
+- Venezuela's own way: a full world history for Venezuelan students that starts in Africa as "our mother continent", insists "we do not descend from the monkey", and reads every age through work, class struggle and liberation — ending in Latin America's own revolutions.
+- Non-History parts named: none — the whole book is History.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Venezuela part — A new world economic order: Bretton Woods 1944 and the Cold War — story beats: Bretton Woods rebuilds the world economy under US leadership and the Cold War (1945–1990) frames every Latin American choice Venezuela makes (History expansion, 2026-11-15; original placement slug: modern-world/the-world-after-1945-losses-division-and-rebuilding) | Venezuela, *Historia de Venezuela Contemporánea — Ciencias Sociales, 4to año*, printed pp. 245–247 |
+| Venezuela part — A second socialist state; Gandhi and India's decolonisation; Africa extends its independence — story beats: China turns socialist, Gandhi's non-violence frees India, and Africa's independence spreads country by country (History expansion, 2026-11-15; original placement slug: modern-world/the-world-after-1945-losses-division-and-rebuilding) | Venezuela, *Historia de la Humanidad — Ciencias Sociales, 2do año*, printed pp. 261–265 |
+
+Venezuela's own way (Book 11 — g10 Historia de Venezuela Contemporánea (student book, Spanish) [read in place from phase3-staging, never deleted]): teaches contemporary history through three "axes" — coffee, oil and violence — under one thesis, dependence: foreign commercial houses, then the Seven Sisters oil companies, then PDVSA's own managers keep the country a mono-producer; time is taught as recurrent, not a straight line. That way is stocked here as the way Venezuela teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+Venezuela's own way (Book 10 — g8 Historia de la Humanidad (student book, Spanish)): a full world history for Venezuelan students that starts in Africa as "our mother continent", insists "we do not descend from the monkey", and reads every age through work, class struggle and liberation — ending in Latin America's own revolutions. That way is stocked here as the way Venezuela teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 14 countries (Ethiopia, Kuwait, Montenegro, Pakistan, Iran, Cambodia, Colombia, South Sudan, Libya, Iraq, Mozambique, Laos, China, Venezuela).**
+
+Searchable tags: Venezuela, History expansion 2026-11-15, modern-world/the-world-after-1945-losses-division-and-rebuilding
