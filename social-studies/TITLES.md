@@ -103,7 +103,7 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **735**
+Geography lessons across the eight Geography titles: **756**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -281,3 +281,22 @@ geography of food production; Population, Transport and
 Maps: Costa Rica's population change — 20th and 21st
 century and Costa Rica's geo-strategic position and
 internet coverage.
++21 for Mongolia, 2026-11-14 — Culture and Work:
+Communication culture in the digital age, What money
+is and what it does, Banks and what they do for you,
+Understanding and respecting other cultures, The
+family budget — planning household money, Sharing
+the work — division of labour, Starting a small
+business project, What all cultures share and how
+cultures differ, Financial markets — shares and
+bonds and Central banks, money and credit policy;
+People and Resources: How wages are worked out,
+Economics in my daily life, Macroeconomics — the
+whole economy, What Mongolia buys and sells —
+foreign trade, Social stratification — rich and poor
+layers, How the state steers the economy and Foreign
+investment — money from abroad; The Land and Air:
+Studying my own locality; Resources and Conflict:
+Mongolia and its neighbours — Russia and China and
+Mongolia's third neighbour policy; Global Issues:
+Soft power — how countries win friends.

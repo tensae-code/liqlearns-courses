@@ -1,6 +1,6 @@
 # Sources — Heritage — what it is and why it matters
 
-countries: Ethiopia, United Arab Emirates, Micronesia
+countries: Ethiopia, United Arab Emirates, Micronesia, Mongolia
 
 **Book 1:** *History, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, Addis Ababa, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-064-2, 210 printed pp. Printed page = PDF page − 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g09-student-placements.md
 
@@ -14,6 +14,10 @@ countries: Ethiopia, United Arab Emirates, Micronesia
 
 **Book 6:** *Pohnpei Studies Reader — Kapingamarangi History* (student book, Kapingamarangi) — Micronesia, Pohnpei State Department of Education with NGO Pasifika Renaissance, funded by UNESCO Participation Programme; year no year printed; ISBN no ISBN printed. Title as printed: Pohnpei Studies Reader — Kapingamarangi History (cover: Kapingamarangi History Reader). Grade: grade-01 record (Pohnpei Studies reader for Kapingamarangi students; no grade printed) (student). 56 PDF pp. (cover verified against the record title; grabbed via tree route, size/SHA verified by the grabber). Verdict: PARTIAL — by scope: a local History reader; its settlement chapters are placed, the island's traditional histories are named in the placements. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/micronesia-placements.md
 
+**Book 7:** *Нийгэм судлал IX (Social Studies IX)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports, Ulaanbaatar; year 2019; ISBN no ISBN printed on the pages checked. Title as printed: Нийгэм судлал IX (Social Studies IX). Grade: Grade 9 (student). 99 PDF pp. (cover verified against the record title; read IN PLACE in phase3-staging — note the on-disk file is 53,693,688 bytes while the books.json record says 5,507,721 bytes: a library debt, see group log). Verdict: COMPLETE (image-only scan; contents page and chapter openings read by render, printed pp. 4–5, 26, 44 sampled in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mongolia-placements.md.
+
+**Book 8:** *Нийгэм судлал VIII (Social Studies VIII)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports, Ulaanbaatar; year 2019; ISBN no ISBN printed on the pages checked. Title as printed: Нийгэм судлал VIII (Social Studies VIII). Grade: Grade 8 (student). 99 PDF pp. (cover verified against the record title; secured GitHub release asset, 32,655,646 bytes, byte-size verified on download; contents also cross-checked against the ministry econtent flipbook of the same book). Verdict: COMPLETE for Geography scope (contents page and chapter structure read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mongolia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Heritage defined, and the guide's pointed question (teacher guide — evidence): why Europeans considered Africans uncivilised when African heritages such as Great Zimbabwe show otherwise | Ethiopia, *History, Teacher's Guide, Grade 9*, Unit 5, printed pp. 88–107 (teacher guide — evidence) |
@@ -22,9 +26,13 @@ countries: Ethiopia, United Arab Emirates, Micronesia
 | Micronesia (Mwoakilloa) part — Sections 3–4: the island's oral traditions kept as heritage | Micronesia, *Pohnpei Studies Reader — Mwoakilloa History*, Sections 3–4, printed p. 9 |
 | Micronesia (Nukuoro) part — the reader as a whole: Nukuoro's oral tradition written down as the island's heritage | Micronesia, *Pohnpei Studies Reader — Nukuoro History*, printed p. 5 |
 | Micronesia (Kapingamarangi) part — the reader as a whole: Kapingamarangi's oral tradition written down as the island's heritage | Micronesia, *Pohnpei Studies Reader — Kapingamarangi History*, printed p. 6 |
+| Mongolia part — How do we study cultural heritage? | Mongolia, *Нийгэм судлал IX (Social Studies IX)*, Grade 9, Chapter 2 Individual and Culture: 2.2 How do we study cultural heritage? — printed p. 27 |
+| Mongolia part — We are proud of our homeland's heritage and culture | Mongolia, *Нийгэм судлал VIII (Social Studies VIII)*, Grade 8, Chapter II Individual and Culture: 2.1 We are proud of our homeland's heritage and culture — printed p. 25 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, United Arab Emirates, Micronesia).**
+**Acceptance count: taught in 4 countries (Ethiopia, United Arab Emirates, Micronesia, Mongolia).**
+
+Mongolia's own way (Grade 9): Social Studies is a five-chapter spiral (Individual & Society, Individual & Culture, Individual & Economy, Human Rights & Law, Public Administration) continued from Grade 8; there is no physical-geography chapter — Mongolia's geography is a separate subject (Газарзүй) — so this book's Geography-wave content is its culture and economics teaching, grounded in Mongolian surveys, wage tables and heritage inventories. The book's Sociology parts (Chapter 1, printed pp. 6–13) and Law/Civics parts (Chapters 4–5, printed pp. 62–92) are named in the placements, not placed. Mongolia's own way (Grade 8): the Grade 8 year is the LOCAL year — every chapter is re-anchored to the child's own орон нутаг (local area/homeland): its environment and problems, its heritage, its economy and market, its governance. The book's Law/Civics parts (Chapters IV–V, printed pp. 63–94) are named in the placements, not placed. That way is stocked here as the way Mongolia teaches this thing.
 
 Scope honesty, stated plainly: the Grade 9 placements give no UNESCO World Heritage List content and no general heritage chapter — the 'Heritage — things and practices we choose to keep' and 'Ethiopia on the World Heritage List / Ethiopia's UNESCO heritages' names in the coordinator's list have no Grade 9 placement behind them. This lesson is therefore built ONLY from what the Grade 9 books do give: the teacher guide's heritage question (Unit 5, printed pp. 88–107, labelled evidence) and the student book's Great Zimbabwe account (printed pp. 94–96), stacked into the single heritage lesson the Grade 9 material can honestly stock. The UNESCO-list lesson is logged as unbuilt in the build log, with the reason. No heritage fact is claimed beyond those two placements.
 
-Searchable tags: heritage, Great Zimbabwe, Shona, Mwene Mutapa, stone walls, cultural heritage, evidence, national landmarks, Etihad Museum, United Arab Emirates Grade 1
+Searchable tags: heritage, Great Zimbabwe, Shona, Mwene Mutapa, stone walls, cultural heritage, evidence, national landmarks, Etihad Museum, United Arab Emirates Grade 1, Mongolia, Нийгэм судлал

@@ -1,6 +1,6 @@
 # Sources — Culture — religion and freedom of belief
 
-countries: Ethiopia, Iceland
+countries: Ethiopia, Iceland, Mongolia
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 2 — Population Studies and Socio-Economic Activities, printed pp. 44–76).
 
@@ -8,16 +8,21 @@ countries: Ethiopia, Iceland
 
 **Book 3:** *Trúarbrögðin okkar, Sögurammi* (teacher guide, Icelandic) — Iceland, Námsgagnastofnun; year © 2008; ISBN no ISBN printed. Title as printed: Sögurammi: Trúarbrögðin okkar — Kennslurammi um námsbókina (Story Frame: Our Religions — teaching frame for the textbook). Grade 1 (record grade; primary level) (teacher guide). 6 PDF pp. (title page verified against the record title). Verdict: COMPLETE (for its Geography/Culture scope) — a 5-week (4 hrs/week) teaching frame for the same five-religions student book as Book 2. Read via the records' MMS (Námsgagnastofnun) source URLs with cover + pdfinfo verification. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iceland-placements.md
 
+**Book 4:** *Нийгэм судлал XI (Social Studies XI)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports, Ulaanbaatar; year 2019; ISBN no ISBN printed on the pages checked. Title as printed: Нийгэм судлал XI (Social Studies XI). Grade: Grade 11 (student). ~196 PDF pp. (printed book to p. 191+) (cover verified against the record title via the ministry econtent flipbook — the same book as the secured GitHub release asset; note the release asset is 131,050,983 bytes under a doubled-prefix asset name while the books.json record says 86,546,502 bytes: a library debt, see group log). Verdict: COMPLETE for Geography scope (contents page and chapter structure read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mongolia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson | Ethiopia, *Social Studies Student Textbook, Grade 8* (Amhara Bureau), printed p. 48 |
 | Five world religions through child narrators — Iceland's way (teacher guide — evidence) | Iceland, *Trúarbrögðin okkar, Kennsluleiðbeiningar* (teacher guide), guide to student book pp. 7–43 — printed p. 8 |
 | Five-week story frame for the religions unit — Iceland's way (teacher guide — evidence) | Iceland, *Trúarbrögðin okkar, Sögurammi* (teacher guide), printed p. 1 |
+| Mongolia part — Cultural freedom | Mongolia, *Нийгэм судлал XI (Social Studies XI)*, Grade 11, Chapter II Culture: Topic 2.4 Cultural freedom — printed p. 60 |
 
-**Acceptance count: taught in 1 country (Ethiopia). Iceland is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 2 countries (Ethiopia, Mongolia). Iceland is named here as teacher-guide evidence only, counted nowhere.**
+
+Mongolia's own way (Grade 11): the final year is the state-and-world year — cultural globalization and freedom, monetary policy, foreign trade and investment, and Mongolia's signature “third neighbour” and soft-power policies taught as named topics. The book's Sociology part (Chapter I Topic 1.2, printed p. 29) and Law/Civics parts (Chapter III, printed pp. 71–103; Chapter V, printed pp. 139–165; Chapter VI except the placed topics, printed pp. 167–176) are named in the placements, not placed. That way is stocked here as the way Mongolia teaches this thing.
 
 Iceland's own way (teacher guide — evidence): World religions are introduced in primary school through five child narrators (a Buddhist, Hindu, Christian, Muslim and Jewish child), their festivals, food, clothing, sacred texts and symbols, including work with a world map to locate the religions. The Sögurammi frame sequences the unit as a story: an opening "ignition" lesson with religion objects on decorated tables, key questions (What is belief? What are religions? How do food and clothing connect to religion? Why do festivals differ? What are symbols?), group discussion in a circle, and drawing/colouring work — being friends despite different beliefs. That evidence is stocked here as the way Iceland teaches this thing; it does not change the acceptance count above.
 
 Honesty: pupil content comes from the Amhara student book. The Addis Ababa Grade 8 teacher guide is NOT edition-matched to this student book and is truncated (only printed pp. 1–47, Units 1–3, in hand); no guide coverage is claimed for this lesson beyond what its sources rows name.
 
-Searchable tags: culture: religion and freedom of belief, culture and work, social studies, ethiopia, iceland, world religions, Buddhism Hinduism Christianity Islam Judaism, Trúarbrögðin okkar, teacher guide evidence, Iceland Grade 1
+Searchable tags: culture: religion and freedom of belief, culture and work, social studies, ethiopia, iceland, world religions, Buddhism Hinduism Christianity Islam Judaism, Trúarbrögðin okkar, teacher guide evidence, Iceland Grade 1, Mongolia, Нийгэм судлал

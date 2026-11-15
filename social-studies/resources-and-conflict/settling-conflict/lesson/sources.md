@@ -1,17 +1,25 @@
 # Sources — Conflict — Negotiation, Mediation, Arbitration
 
-countries: Ethiopia
+countries: Ethiopia, Mongolia
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (placement 74).
+
+**Book 2:** *Нийгэм судлал IX (Social Studies IX)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports, Ulaanbaatar; year 2019; ISBN no ISBN printed on the pages checked. Title as printed: Нийгэм судлал IX (Social Studies IX). Grade: Grade 9 (student). 99 PDF pp. (cover verified against the record title; read IN PLACE in phase3-staging — note the on-disk file is 53,693,688 bytes while the books.json record says 5,507,721 bytes: a library debt, see group log). Verdict: COMPLETE (image-only scan; contents page and chapter openings read by render, printed pp. 4–5, 26, 44 sampled in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mongolia-placements.md.
+
+**Book 3:** *Нийгэм судлал VII (Social Studies VII)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports, Ulaanbaatar; year 2019; ISBN no ISBN printed on the pages checked. Title as printed: Нийгэм судлал VII (Social Studies VII). Grade: Grade 7 (student). 99 PDF pp. (cover verified against the record title; secured GitHub release asset, 48,845,405 bytes, byte-size verified on download; contents also cross-checked against the ministry econtent flipbook of the same book). Verdict: COMPLETE for Geography scope (contents page and chapter structure read in full; the book follows the same five-chapter spiral as Grade 9). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mongolia-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Whole lesson opening — pupils answer 'who decides?' for three endings of one quarrel | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 3, printed pp. 94–96 |
 | Sub lesson 1 — Negotiation (Imboighe): both parties willing, settling by discussion, often prepared by a third party, breaks off on refusal; mediation (ሽምግልና): accepted third party reconciles to the end, decision is the parties' joint agreement, works while both honour the mediator and keep their word | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 3, printed pp. 94–96 |
 | Sub lesson 2 — Arbitration (ዳኝነት): third party with legal power to decide, hears both sides, identifies the wrongdoer, restores peace, can punish, needs no consent to take the case; community methods-mapping task | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 3, printed pp. 94–96 |
+| Mongolia part — How to overcome conflict and reach a result | Mongolia, *Нийгэм судлал IX (Social Studies IX)*, Grade 9, Chapter 1 Individual and Society: 1.4 How to overcome conflict and reach a result — printed p. 16 |
+| Mongolia part — The possibility of resolving conflicts and disputes properly | Mongolia, *Нийгэм судлал VII (Social Studies VII)*, Grade 7, Chapter I Individual and Society: 1.4 The possibility of resolving conflicts and disputes properly — printed p. 16 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Mongolia).**
+
+Mongolia's own way (Grade 9): Social Studies is a five-chapter spiral (Individual & Society, Individual & Culture, Individual & Economy, Human Rights & Law, Public Administration) continued from Grade 8; there is no physical-geography chapter — Mongolia's geography is a separate subject (Газарзүй) — so this book's Geography-wave content is its culture and economics teaching, grounded in Mongolian surveys, wage tables and heritage inventories. The book's Sociology parts (Chapter 1, printed pp. 6–13) and Law/Civics parts (Chapters 4–5, printed pp. 62–92) are named in the placements, not placed. Mongolia's own way (Grade 7): the Grade 7 year works at the scale of the child's own life — my groups, my culture, my family's economy and budget, our school — before the local-area year in Grade 8. The book's Sociology parts (Chapter I, printed pp. 7–13) and Law/Civics parts (Chapters IV–V, printed pp. 59–93) are named in the placements, not placed. That way is stocked here as the way Mongolia teaches this thing.
 
 The scholar's name is taught exactly as printed and as the placements record it — Imboighe; the placements flag no error in this name. The chapter's own review trap stands behind the questions here: not any conflict can be settled by mediation (printed pp. 98–101, placement 76) — mediation fails, by the book's own conditions, where a side will not honour the mediator or keep its word. No book error flagged by the placements touches this lesson.
 
-Searchable tags: negotiation, mediation, ሽምግልና, arbitration, ዳኝነት, Imboighe, conflict settlement, elders, Ethiopia Grade 8 Social Studies Chapter 3
+Searchable tags: negotiation, mediation, ሽምግልና, arbitration, ዳኝነት, Imboighe, conflict settlement, elders, Ethiopia Grade 8 Social Studies Chapter 3, Mongolia, Нийгэм судлал

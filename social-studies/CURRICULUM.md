@@ -1670,3 +1670,117 @@ Rica's geo-strategic position and internet coverage
 (Porras Unit 1 C cont., printed p. 34) — the new
 lessons taught in 1 country (Costa Rica), 8 questions
 each. Geography lessons: 728 → 735.
+
+## Geography expansion — Mongolia — built 2026-11-14
+
+Mongolia — 47 placements stocked from 5 distinct books
+(9 records / 5 distinct books in the Mongolia file; the
+TSV release records for Grades 7 and 8 duplicate the
+books.json records of the same repo path, and the two
+Telegram link records duplicate the Grade 9 and Grade 10
+books already secured, so no push-don't-delete staging
+arose). Mongolia teaches Social Studies (Нийгэм судлал)
+through five student books, all Ministry of Education,
+Culture, Science and Sports, Ulaanbaatar, 2019, no ISBN
+printed: *Нийгэм судлал VII* (Grade 7, COMPLETE for
+Geography scope, 99 PDF pp.), *Нийгэм судлал VIII*
+(Grade 8, COMPLETE for Geography scope, 99 PDF pp.),
+*Нийгэм судлал IX* (Grade 9, COMPLETE, 99 PDF pp.;
+image-only scan read by page renders; the on-disk file
+is 53,693,688 bytes against a books.json record of
+5,507,721 bytes — a library debt), *Нийгэм судлал X*
+(Grade 10, COMPLETE for Geography scope, 151 PDF pp.;
+the books.json record says 7,193,154 bytes against the
+secured asset's 91,224,144 bytes — a library debt) and
+*Нийгэм судлал XI* (Grade 11, COMPLETE for Geography
+scope, ~196 PDF pp.; the release asset is 131,050,983
+bytes under a doubled-prefix asset name against a
+books.json record of 86,546,502 bytes — a library
+debt). All five books are student books, counted in
+acceptance counts. Mongolia's own way: Social Studies
+is a five-chapter spiral (Individual & Society,
+Individual & Culture, Individual & Economy, Human
+Rights & Law, Public Administration) in Grades 7–9 —
+Grade 7 at the scale of the child's own life, Grade 8
+as the LOCAL year anchored to the child's own орон
+нутаг (local area/homeland), Grade 9 continuing the
+spiral with culture and economics grounded in
+Mongolian surveys, wage tables and heritage
+inventories (there is no physical-geography chapter —
+Mongolia's geography is a separate subject, Газарзүй)
+— and the senior cycle (Grades 10–11) drops the
+"Individual and…" frame for straight disciplines
+(Society, Culture, Law, Economics, Politics,
+International Relations), ending in the state-and-world
+year with Mongolia's signature "third neighbour" and
+soft-power policies taught as named topics. The books'
+Sociology and Law/Civics parts are named in the
+placements, not placed. Stocked into standing lessons —
+**Resources and Conflict**: Settling conflict (Grade 9
+§1.4, printed p. 16; Grade 7 §1.4, printed p. 16);
+**Culture and Work**: Culture and identity (Grade 9
+§2.1, printed p. 24; Grade 10 §2.3, printed p. 38;
+Grade 11 Topic 2.3, printed p. 56), Culture — material
+and spiritual (Grade 9 §2.3, printed p. 32; Grade 7
+§2.2, printed p. 27; Grade 10 §2.2, printed p. 31;
+Grade 11 Topic 2.1, printed p. 41), Trade — supply,
+demand and consumer rights (Grade 9 §3.1, the labour
+market, printed p. 42), Culture — cultural values
+(Grade 7 §2.1, printed p. 23; Grade 8 §2.2, printed
+p. 30), Culture — globalisation and cultural change
+(Grade 8 §2.3, printed p. 35; Grade 11 Topic 2.2,
+printed p. 47), Trade — what trade is (Grade 8 §3.2,
+the local market, printed p. 51), Culture — what
+culture is (Grade 10 §2.1, printed p. 28), Culture —
+religion and freedom (Grade 11 Topic 2.4, cultural
+freedom, printed p. 60) and Trade — internal and
+external, and its uses (Grade 11 Topic 4.3, foreign
+trade policy, printed p. 115); **First Steps**:
+Heritage — what it is and why it matters (Grade 9
+§2.2, printed p. 27; Grade 8 §2.1, printed p. 25);
+**People and Resources**: Fixing unemployment — the
+solution set (Grade 9 §3.3, printed p. 49), Employment
+structure — reading an economy (Grade 8 §3.1, printed
+p. 43), Kinds of unemployment (Grade 10 §4.2,
+inflation and unemployment, printed p. 81) and Growth
+is not development — the HDI (Grade 11 Topic 4.5,
+economic development, printed p. 129); **Global
+Issues**: Protecting the environment where you live
+(Grade 8 §§1.2–1.3, printed p. 12); **The Land and
+Air**: Asking people properly — field questionnaires
+and interviews (Grade 10 §1.4, social research,
+printed p. 19) — and 21 new lessons built — in
+**Culture and Work**: Communication culture in the
+digital age (Grade 9 §2.4, printed p. 36), What money
+is and what it does (Grade 9 §3.4, printed p. 53),
+Banks and what they do for you (Grade 9 §3.5, printed
+p. 55), Understanding and respecting other cultures
+(Grade 7 §2.3, printed p. 31), The family budget —
+planning household money (Grade 7 §3.2, printed
+p. 43), Sharing the work — division of labour (Grade
+7 §§3.3–3.4, printed p. 47), Starting a small business
+project (Grade 8 §3.3, printed p. 55), What all
+cultures share and how cultures differ (Grade 10
+§§2.4–2.5, printed p. 42), Financial markets — shares
+and bonds (Grade 10 §4.3, printed p. 91) and Central
+banks, money and credit policy (Grade 11 Topic 4.2,
+printed p. 110); in **People and Resources**: How
+wages are worked out (Grade 9 §3.2, printed p. 46),
+Economics in my daily life (Grade 7 §3.1, printed
+p. 39), Macroeconomics — the whole economy (Grade 10
+§4.1, printed p. 74), What Mongolia buys and sells —
+foreign trade (Grade 10 §6.7, printed p. 137), Social
+stratification — rich and poor layers (Grade 11
+Topic 1.1, printed p. 6), How the state steers the
+economy (Grade 11 Topic 4.1, printed p. 107) and
+Foreign investment — money from abroad (Grade 11
+Topic 4.4, printed p. 121); in **The Land and Air**:
+Studying my own locality (Grade 8 §1.1, printed
+p. 6); in **Resources and Conflict**: Mongolia and
+its neighbours — Russia and China (Grade 10 §6.4,
+printed p. 129) and Mongolia's third neighbour policy
+(Grade 11 Topic 6.3, printed p. 179); in **Global
+Issues**: Soft power — how countries win friends
+(Grade 11 Topic 6.4, printed p. 186) — the new lessons
+taught in 1 country (Mongolia), 8 questions each.
+Geography lessons: 735 → 756.

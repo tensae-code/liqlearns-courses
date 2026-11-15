@@ -1,6 +1,6 @@
 # Sources — Protecting the Environment Where You Live
 
-countries: Ethiopia, Nauru, Tuvalu, Niue
+countries: Ethiopia, Nauru, Tuvalu, Niue, Mongolia
 
 **Book 1:** *Social Studies Teacher's Guide, Grade 7* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, first edition 2022 (cover dated 2014 E.C.), 142 printed pp. Printed page = PDF page − 5. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-teacher-placements.md (placement 27).
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Nauru, Tuvalu, Niue
 
 **Book 6:** *People and the Sea in the Pacific* (student book, English) — Niue, Institute of Education, University of the South Pacific (Tonga Campus), for UNESCO/Japanese Funds-in-Trust ESD project; year 2020; no ISBN printed. Title as printed: People and the Sea in the Pacific — A Social Sciences related reader for Primary School, Book 1 (Years 5–6). Grade: Grade 5 / Years 5–6 (student). Niue advisor: Birtha Togahai. 24 PDF pp. (cover verified against the record title; read in full via pdftotext, page by page). Verdict: COMPLETE (content printed pp. 1–19; remaining pages are blank endpapers). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/niue-placements.md.
 
+**Book 7:** *Нийгэм судлал VIII (Social Studies VIII)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports, Ulaanbaatar; year 2019; ISBN no ISBN printed on the pages checked. Title as printed: Нийгэм судлал VIII (Social Studies VIII). Grade: Grade 8 (student). 99 PDF pp. (cover verified against the record title; secured GitHub release asset, 32,655,646 bytes, byte-size verified on download; contents also cross-checked against the ministry econtent flipbook of the same book). Verdict: COMPLETE for Geography scope (contents page and chapter structure read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mongolia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What protection is, and who does it (teacher guide — evidence): protection as the practice of conserving the natural environment, valued for conserving what exists, repairing damage and reversing trends; individuals, organisations and governments engaged | Ethiopia, *Social Studies Teacher's Guide, Grade 7*, §7.1.2, printed pp. 106–107 (teacher guide — evidence) |
@@ -23,8 +25,11 @@ countries: Ethiopia, Nauru, Tuvalu, Niue
 | Tuvalu part — What can we do? (beach clean-ups, keeping plastic out of the ocean, learning pre-plastic ways from elders) | Tuvalu, *People and the Sea in the Pacific*, Years 5–6, What can we do? (beach clean-ups, keeping plastic out of the ocean, learning pre-plastic ways from elders) — printed p. 19 |
 | Tuvalu part — What can we do? What can you do? (balancing modern life with the natural world; clean-ups, recycling bins, planting trees with elders) | Tuvalu, *People and the Natural Environment in the Pacific*, Grade 5, What can we do? What can you do? (balancing modern life with the natural world; clean-ups, recycling bins, planting trees with elders) — printed p. 19 |
 | Niue part — What can you do (keep plastic out of the ocean, beach clean-ups, learning pre-plastic ways from elders) | Niue, *People and the Sea in the Pacific*, Years 5–6, What can you do (keep plastic out of the ocean, beach clean-ups, learning pre-plastic ways from elders) — printed p. 19 |
+| Mongolia part — Understanding the problems facing local life; children contributing to solving local problems | Mongolia, *Нийгэм судлал VIII (Social Studies VIII)*, Grade 8, Chapter I Individual and Society: 1.2–1.3 Understanding the problems facing local life; children contributing to solving local problems — printed p. 12 |
 
-**Acceptance count: taught in 3 countries (Nauru, Tuvalu, Niue). Ethiopia is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 4 countries (Nauru, Tuvalu, Niue, Mongolia). Ethiopia is named here as teacher-guide evidence only, counted nowhere.**
+
+Mongolia's own way (Grade 8): the Grade 8 year is the LOCAL year — every chapter is re-anchored to the child's own орон нутаг (local area/homeland): its environment and problems, its heritage, its economy and market, its governance. The book's Law/Civics parts (Chapters IV–V, printed pp. 63–94) are named in the placements, not placed. That way is stocked here as the way Mongolia teaches this thing.
 
 Niue's own way: Niue uses the shared Pacific ESD reader suite (Niue advisor Birtha Togahai) — Geography is taught as Pacific peoples' lived relationship with the ocean: voyaging, reef knowledge, tapu/fono closed seasons and village fishing practice in Tonga, Tuvalu and Niue itself, ending in a pupil action plan against plastic. That way is stocked here as the way Niue teaches this thing.
 
@@ -34,4 +39,4 @@ Tuvalu's own way: Tuvalu uses the shared Pacific ESD reader suite (local advisor
 
 This whole lesson is the Addis Ababa guide's §7.1.2, a standalone protection lesson the Amhara student book has no equivalent of (its remedies sit inside the desertification lesson). The Addis Ababa Grade 7 teacher guide is NOT edition-matched to the Amhara student books (different bureau, different year, different language of instruction); guide material is used only as labelled teacher evidence, never as pupil content from the student book. The lesson therefore stands on teacher-guide evidence only, is labelled so in every row above, and counts in no country's pupil-taught acceptance. There is NO Grade 8 teacher-guide coverage for Chapter 7: the Grade 8 guide in hand holds only Units 1–3, so no teacher evidence is claimed for any Grade 8 part of this lesson.
 
-Searchable tags: environmental protection, afforestation, reforestation, reduce reuse recycle, community participation, teacher guide evidence, Ethiopia Grade 7 Social Studies teacher guide Unit 7, Nauru, People and the Sea in the Pacific, People and the Natural Environment in the Pacific, beach clean-ups, plastic, Tuvalu, Niue
+Searchable tags: environmental protection, afforestation, reforestation, reduce reuse recycle, community participation, teacher guide evidence, Ethiopia Grade 7 Social Studies teacher guide Unit 7, Nauru, People and the Sea in the Pacific, People and the Natural Environment in the Pacific, beach clean-ups, plastic, Tuvalu, Niue, Mongolia, Нийгэм судлал
