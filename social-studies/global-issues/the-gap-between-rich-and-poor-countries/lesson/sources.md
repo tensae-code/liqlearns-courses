@@ -1,21 +1,26 @@
 # Sources — The gap between rich and poor countries
 
-countries: Ethiopia, Haiti
+countries: Ethiopia, Haiti, Palestine
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
 **Book 2:** *Sciences humaines et sociales — Géographie — L'inégale répartition des richesses et la solidarité mondiale* (teacher sequence, French) — Haiti, MENFP / Projet Nectar (Canoprof), 8e année; authors Mélanie Albaret, Arnaud Dechelle. Title as printed: Sciences humaines et sociales — Géographie — L'inégale répartition des richesses et la solidarité mondiale (Projet Nectar, MENFP, 8e année). Grade 8 (teacher). Publisher: MENFP / Projet Nectar (Canoprof); year not printed (sources to 2022); no ISBN printed (CC BY-NC-SA licence printed). 26 PDF pp. (cover verified against the record title). Verdict: COMPLETE. This filing covers both records of the same book: the TSV release record and the books.json record — the book is taught once, every distinct record cited. Read via grab.py (GitHub API, size/SHA verified) into scratch-ht/, text extracted page-by-page with pdftotext -layout; covers rendered and checked. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/haiti-placements.md.
+
+**Book 3:** *الدراسات الاجتماعية (Social Studies), Grade 9, Part Two* (student book, Arabic) — Palestine, Ministry of Education and Higher Education, State of Palestine; year 2017 (2017/2018 curriculum series); no ISBN printed. Title as printed: الدراسات الاجتماعية (Social Studies), Grade 9, Part Two (Semester 2). Grade 9 (student). 104 PDF pp. (cover verified against the record title; printed p. = PDF p. − 4; file fetched via git sparse-checkout, byte-verified against the record — 32,556,700 bytes, blob SHA ed76112a4b3e2ee7eac3f6d1c5a7c9d1b6b0ca2b). Verdict: COMPLETE. (Combined Social Studies book — Geography parts placed below; History/Civics parts named in the placements, not placed: Unit 4 lesson 3, civilisational diversity, printed p. 28; Unit 5 lesson 1, wars, and lesson 4, protecting human cultural heritage, pp. 47–88; Unit 6 lesson 2, racial discrimination, p. 95. Book 9, Grade 9 Part One, carries no Geography content and is placed nowhere.) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/palestine-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The gap and its causes | G12 student #57, printed pp. 134–138 |
 | Sub lesson 2 — Measuring it — Gini, Lorenz, McLoone | G12 student #57, printed pp. 134–138 |
 | Haiti part — Séance 1 Pauvreté et richesse dans le monde, des critères à différentes échelles (critères et seuils, étude de cas pays riche Canada/États-Unis vs pays pauvre Haïti, pauvreté dans les pays riches et richesse dans les pays pauvres) (teacher sequence — evidence) | Haiti, *Sciences humaines et sociales — Géographie — L'inégale répartition des richesses et la solidarité mondiale* (teacher sequence), Grade 8, Séance 1 Pauvreté et richesse dans le monde, des critères à différentes échelles (critères et seuils, étude de cas pays riche Canada/États-Unis vs pays pauvre Haïti, pauvreté dans les pays riches et richesse dans les pays pauvres) — printed p. 11 |
+| Palestine part — Unit 6 Models of Global Citizenship, Lesson 1: poverty (stocked here as the closest existing lesson; the placements name global-issues/rich-countries-poor-countries-the-development-gap, which has no lesson folder) | Palestine, *Social Studies, Grade 9, Part Two*, Grade 9, Unit 6 Models of Global Citizenship, Lesson 1: poverty — printed p. 89 |
 
-**Acceptance count: taught in 1 country (Ethiopia). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 2 countries (Ethiopia, Palestine). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
 
 Haiti's own way (teacher sequence — evidence): World inequality is questioned through the words used for it (Nord/Sud, développé/sous-développé) and through Haiti's own case — a rich-country/poor-country comparison (Canada or USA vs Haiti), the independence debt, food insecurity and Covid vaccination in Haiti — with every claim built from authenticated statistics, graphs and maps crossed from local to world scale. That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
 No book error in the placements for this lesson is taught here. Instruments and figures are taught exactly as the placements report them.
 
 Searchable tags: inequality, Gini coefficient, Lorenz curve, McLoone Index, per-capita GDP, social studies, Haiti, Inégale répartition des richesses, teacher sequence evidence
+
+Palestine's own way (Grade 9, PS G9P2): the course closes at world scale — the diversity of natural environments, peoples and economies, then the age's challenges (population explosion, famines, poverty) framed as matters for international cooperation.

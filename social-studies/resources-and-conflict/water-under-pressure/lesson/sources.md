@@ -1,6 +1,6 @@
 # Sources — Water under pressure
 
-countries: Ethiopia, Brazil, France, Haiti, Costa Rica
+countries: Ethiopia, Brazil, France, Haiti, Costa Rica, Palestine
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Brazil, France, Haiti, Costa Rica
 
 **Book 6:** *Antología CONED — Estudios Sociales 8* (student book, Spanish) — Costa Rica, CONED / UNED; year 2017 (© 2017 as printed); ISBN no ISBN printed. Title as printed: Antología CONED — Materia: Estudios Sociales, Código 80017, Nivel: Octavo año. Grade: Grade 8 (student). 96 PDF pp. (title page is PDF p. 3, verified against the record title; size 3,313,970 bytes = record). Verdict: COMPLETE. Read from the recorded public source URLs (CONED site and archive.org) after the GitHub grab route failed with RemoteDisconnected/timeouts on 2026-11-14; every downloaded file matched its books.json record byte-for-byte (size_bytes) and page count. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/costa-rica-placements.md.
 
+**Book 7:** *الدراسات الاجتماعية (Social Studies), Grade 8, Part One* (student book, Arabic) — Palestine, Ministry of Education and Higher Education, State of Palestine; year 2017 (2017/2018 curriculum series); no ISBN printed. Title as printed: الدراسات الاجتماعية (Social Studies), Grade 8, Part One (Semester 1). Grade 8 (student). 104 PDF pp. (cover verified against the record title; printed p. = PDF p. − 4; file fetched via git sparse-checkout, byte-verified against the record — 2,636,740 bytes, blob SHA 9ac0ac02b6a7a5f9d43c56c4aa4d56e8ec35e46b). Verdict: COMPLETE. (Combined Social Studies book — Geography parts placed below; History/Civics parts named in the placements, not placed: Unit 2, Political Developments in the Arab Homeland in the Modern Era, printed pp. 54–76; Unit 3, Citizenship, pp. 77–99.) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/palestine-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The squeeze on freshwater | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 3, printed pp. 65–67 |
@@ -21,12 +23,13 @@ countries: Ethiopia, Brazil, France, Haiti, Costa Rica
 | Sub lesson 3 — The remedy list | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 3, printed pp. 65–67 |
 | Teaching sequence and answer keys (teacher guide — evidence) | Ethiopia, *Geography, Teacher Guide, Grade 11*, Unit 3, guide printed pp. 64–110 |
 | Brazil part — Folha 4: A água tem futuro? / Does water have a future? | Brazil, *Geografia, Livro Didático Público, Ensino Médio*, Grade 10, Folha 4: A água tem futuro? / Does water have a future?, printed p. 66 |
+| Palestine part — Lesson 6: water security in the Arab homeland (stocked here as the closest existing lesson; the placements name resources-and-conflict/water-shortage-crises-sharing-rivers, which has no lesson folder) | Palestine, *Social Studies, Grade 8, Part One*, Grade 8, Lesson 6: water security in the Arab homeland — printed p. 44 |
 
 | France part — Thème 1: L'eau douce, une ressource essentielle (stress hydrique, usages, perspectives) | France, *Géographie 2de GT, Manuel Libre de Géographie, Seconde*, Grade 10, Sommaire Thème 1 |
 | Haiti part — Séance 2, Temps 3-4 Le problème de l'eau en Haïti (bassins versants, état du réseau hydrographique, accès à l'eau potable; Rivière Froide, Rivière Grise, Rivière du Haut du Cap) (teacher sequence — evidence) | Haiti, *Haïti verte. Préserver et valoriser les ressources et l'environnement, protéger les hommes.* (teacher sequence), Grade 7, Séance 2, Temps 3-4 Le problème de l'eau en Haïti (bassins versants, état du réseau hydrographique, accès à l'eau potable; Rivière Froide, Rivière Grise, Rivière du Haut du Cap) — printed p. 8 |
 | Costa Rica part — debates on the use of water as a resource today | Costa Rica, *Antología CONED 8*, Grade 8, Unit 1 Tema 2 B — printed p. 38 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Brazil, France, Costa Rica). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 5 countries (Ethiopia, Brazil, France, Costa Rica, Palestine). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
 
 Haiti's own way (teacher sequence — evidence): The environment is studied from the schoolyard outward — a field diagnosis of the local environment (bare soils, dried springs, waste, noise), scaled up to a map and graph of the whole territory's problems (deforestation, erosion, water), then turned into a pupil-designed sustainable land-use project for a greener Haiti. That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
@@ -35,3 +38,5 @@ No book error is flagged for this lesson's pages in the placements. The student 
 Costa Rica's own way: an almost purely geographical anthology — earth dynamics, water and climate change — built around risk: every world topic lands on Costa Rican vulnerability, risk management and territorial planning by sector (biodiversity, health, infrastructure, fisheries, energy, agriculture, water). That way is stocked here as the way Costa Rica teaches this thing.
 
 Searchable tags: water pollution, water crisis, desalination, watershed, ethiopia, social studies, resources and conflict, Haiti, Haïti verte, teacher sequence evidence, Costa Rica, CONED Antología, Estudios Sociales
+
+Palestine's own way (Grade 8, PS G8P1): the Arab homeland is toured as one region in a single unit — location, relief, climate, population, economic activities, and water security — before the book turns to Ottoman history and citizenship.

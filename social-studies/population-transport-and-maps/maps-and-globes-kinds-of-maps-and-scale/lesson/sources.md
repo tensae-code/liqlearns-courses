@@ -1,6 +1,6 @@
 # Sources — Maps and globes — kinds of maps and scale
 
-countries: Ethiopia, France, Myanmar, Haiti, Costa Rica, Ecuador
+countries: Ethiopia, France, Myanmar, Haiti, Costa Rica, Ecuador, Palestine
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 2, placements 27–43).
 
@@ -14,10 +14,13 @@ countries: Ethiopia, France, Myanmar, Haiti, Costa Rica, Ecuador
 
 **Book 6:** *Estudios Sociales 8vo EGB* (student book, Spanish) — Ecuador, Ministerio de Educación del Ecuador; year 2024 (Primera edición); ISBN 978-9942-662-28-6. Title as printed: Estudios Sociales — Educación General Básica, Subnivel Superior, Octavo de Básica; Texto del estudiante para la transición curricular. Grade: Grade 8 (student). 194 PDF pp. (cover/title page verified against the record title; grabbed via the repo release route, 18,079,356 bytes = record size exactly; an external academia.edu copy of this ISBN is likewise titled Octavo de Básica, confirming this shared Superior body is the Grade 8 book; the book's two records — a TSV release/blob record and a books.json record for the same repo path — are one book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/ecuador-placements.md.
 
+**Book 7:** *الدراسات الاجتماعية (Social Studies), Grade 6, Part One* (student book, Arabic) — Palestine, Ministry of Education and Higher Education, State of Palestine; year 2017 (2017/2018 curriculum series); no ISBN printed. Title as printed: الدراسات الاجتماعية (Social Studies), Grade 6, Part One (Semester 1). Grade 6 (student). 96 PDF pp. (cover/title page verified against the record title; printed p. = PDF p. − 4; file fetched via git sparse-checkout, byte-verified against the record — 1,796,736 bytes, blob SHA 8226d743346fb89f5431583662db34a383ce8c85). Verdict: COMPLETE. (Combined Social Studies book — Geography parts placed below; History/Civics parts named in the placements, not placed: Unit 1 lesson 2, Sources of Historical Knowledge, printed p. 16; the ancient-civilisation narratives inside each Unit 2 regional lesson, pp. 26–75; Unit 3, Law and Order, pp. 76–90.) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/palestine-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Kinds of maps by message | Ethiopia, *Social Studies Student Textbook, Grade 7* (Amhara Bureau), printed pp. 49–50 |
 | Sub lesson 2 — Kinds of maps by scale | Ethiopia, *Social Studies Student Textbook, Grade 7* (Amhara Bureau), printed pp. 49–50 |
+| Palestine part — Lesson 1: types of maps | Palestine, *Social Studies, Grade 6, Part One*, Grade 6, Lesson 1: types of maps — printed pp. 12–15 |
 
 | France part — Thème 2 Bilan/Évaluation: Cartographier — dessiner les dynamiques et les inégalités du territoire français (croquis, construire la légende) | France, *Géographie 2de GT, Manuel Libre de Géographie, Seconde*, Grade 10, Sommaire Thème 2 |
 | Different types of maps — Myanmar way: 5.1 (teacher guide — evidence) | Myanmar, *Teacher Guide — Geography — Grade 6* (teacher guide), §5.1, printed p. 78 |
@@ -25,7 +28,7 @@ countries: Ethiopia, France, Myanmar, Haiti, Costa Rica, Ecuador
 | Costa Rica part — map-work — main sellers and buyers of timber in the world (flow map); production maps of Europe and Africa compared | Costa Rica, *Estudios Sociales 11 (Porras y Gamboa)*, Grade 11, Unit 1 B practicals — printed p. 24 |
 | Ecuador part — Estudios cartográficos para entender geografía (cartographic studies: map concepts and practice) | Ecuador, *Estudios Sociales 8vo EGB*, Grade 8, Estudios cartográficos para entender geografía (cartographic studies: map concepts and practice) — printed p. 99 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, France, Costa Rica, Ecuador). Myanmar is named here as teacher-guide evidence only, counted nowhere. Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 5 countries (Ethiopia, France, Costa Rica, Ecuador, Palestine). Myanmar is named here as teacher-guide evidence only, counted nowhere. Haiti is named here as teacher-sequence evidence only, counted nowhere.**
 
 Haiti's own way (teacher sequence — evidence): Geography opens with representing the Earth itself — globe-to-flat projection problems, orientation practised on the ground with compass/GPS/Google Maps, and time-zone puzzles worked on Haiti's own links (midday shared with Québec, 18h in Paris, Port-au-Prince–Paris flights); every séance ends in a croquis, a glossary and field observation. That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
@@ -40,3 +43,5 @@ Ecuador's own way (Grade 8 book): at Superior level the book turns thematic — 
 Honesty note: the ministry's 2024 transición-curricular PDFs, as held, reuse one body per sublevel — the Grade 5 body also carries the Grade 6 and Grade 7 covers (Subnivel Media), and the Grade 8 body also carries the Grade 9 and Grade 10 covers (Subnivel Superior). That content is credited once, under its true Grade 5 / Grade 8 identity, exactly as the placements state; the genuine Ecuador Grade 6, 7, 9 and 10 Estudios Sociales books are NOT held (library debt).
 
 Searchable tags: kinds of maps, physical map, political map, special-purpose map, scale, large-scale, medium-scale, small-scale, Myanmar, Teacher Guide Geography Grade 6, teacher guide evidence, Haiti, Du rond au plat, teacher sequence evidence, Costa Rica, CONED Antología, Estudios Sociales, Ecuador
+
+Palestine's own way (Grade 6, PS G6P1): Grade 6 opens with how we know — the map and its elements as the first source of geographical knowledge — then walks the Arab homeland region by region (peninsula, Levant, Palestine, Iraq, North Africa), each time fixing location first, then surface and climate, then the ancient civilisation the land produced.

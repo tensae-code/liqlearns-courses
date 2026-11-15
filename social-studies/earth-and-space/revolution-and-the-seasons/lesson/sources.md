@@ -1,6 +1,6 @@
 # Sources — Revolution and the Seasons
 
-countries: Ethiopia, Myanmar, Turkey, Jamaica
+countries: Ethiopia, Myanmar, Turkey, Jamaica, Palestine
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page - 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md.
 
@@ -10,14 +10,17 @@ countries: Ethiopia, Myanmar, Turkey, Jamaica
 
 **Book 4:** *National Standards Curriculum — Exploratory Core, Grade 6 (Language Arts / Mathematics / Science / Social Studies), FINAL Jan 08 2020* (curriculum guide, English) — Jamaica, Ministry of Education, Youth & Information, Jamaica; year 2020; ISBN no ISBN printed. Title as printed: National Standards Curriculum — Exploratory Core, Grade 6 (Language Arts / Mathematics / Science / Social Studies), FINAL Jan 08 2020. Grade: Grade 6 (student/teacher: TEACHER — curriculum guide). 373 PDF pp. (cover verified against the record title; 5,913,507 bytes, matches record size_bytes). Social Studies section printed pp. 162–226. Verdict: COMPLETE for the Social Studies section (Geography scope). Guides read IN PLACE in phase3-staging where on disk, covers verified by render, full text read via pdftotext -layout. History parts (named, not placed): Term 1 Unit 2 How Jamaica achieved independence, printed p. 173. Civics parts (named, not placed): Term 1 Unit 3 How we show respect and loyalty for our country (national symbols), printed p. 178; Term 2 Unit 3 How decisions are made at the national level, printed p. 193. Cited as curriculum-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jamaica-placements.md.
 
+**Book 5:** *الدراسات الاجتماعية (Social Studies), Grade 5, Part One* (student book, Arabic) — Palestine, Ministry of Education and Higher Education, State of Palestine; year 2017 (adopted for teaching from the 2017/2018 school year); no ISBN printed. Title as printed: الدراسات الاجتماعية (Social Studies), Grade 5, Part One (Semester 1). Grade 5 (student). 92 PDF pp. (cover verified against the record title; printed p. = PDF p. − 4). Verdict: COMPLETE. Read via grab.py from the GitHub textbooks repo. (Combined Social Studies book — Geography parts placed below; History/Civics parts named in the placements, not placed: Unit 2 Human Life on Earth in Ancient Times, lessons 1–3 and 5, printed pp. 42–57 and 65–71; Unit 3 The Society We Live In, pp. 72–86; the war section inside Unit 1 lesson 5, pp. 36–39.) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/palestine-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — what revolution causes: the Sun's apparent journey, day length, seasons | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 1, printed pp. 21–23 |
 | The seasons — Myanmar way: 1.2 Formation of seasons (teacher guide — evidence) | Myanmar, *Teacher Guide — Geography — Grade 6* (teacher guide), §1.2, printed p. 15 |
 | Turkey part — 4B2 Dünya'nın Yıllık (Yörünge) Hareketi (annual/orbital movement) | Turkey, *Ortaöğretim Coğrafya 9. Sınıf Ders Kitabı*, Grade 9, 4B2 Dünya'nın Yıllık (Yörünge) Hareketi (annual/orbital movement) — printed p. 88 |
 | Jamaica part — Term 3 Unit 2: how Earth's revolution impacts us — seasons (curriculum guide — evidence) | Jamaica, *Jamaica Grade 6 JM G6 Exploratory Core*, Term 3 Unit 2: how Earth's revolution impacts us — seasons — printed p. 207 |
+| Palestine part — Lesson 1: the four seasons and their effect on the diversity of crops in Palestine | Palestine, *Social Studies, Grade 5, Part One*, Grade 5, Lesson 1: the four seasons and their effect on the diversity of crops in Palestine — printed pp. 8–12 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Turkey). Myanmar is named here as teacher-guide evidence only, counted nowhere. Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 3 countries (Ethiopia, Turkey, Palestine). Myanmar is named here as teacher-guide evidence only, counted nowhere. Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grade 6 Exploratory Core, curriculum guide — evidence): the Grade 6 Social Studies year is built as three paired terms — culture and independence first, then the physical world (mountains, landmasses and water bodies), then climate, Earth movements and the atmosphere, closing on Caribbean cooperation. That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
@@ -28,3 +31,5 @@ Myanmar's own way (teacher guide — evidence): the year is split into five para
 No book errors are flagged by the placements for these pages.
 
 Searchable tags: seasons, revolution, tropics, Cancer, Capricorn, day length, hemispheres, Myanmar, Teacher Guide Geography Grade 6, teacher guide evidence, Jamaica, curriculum guide evidence
+
+Palestine's own way (Grade 5, PS G5P1): Social Studies opens with a full Earth-science unit (shape, movements, surface, life components, disasters) taught through Palestinian examples — seasons read off Palestinian crops, surface forms read off Palestine's own map, which pupils draw with its borders.

@@ -1,0 +1,9 @@
+# Natural Disasters and How People Face Them — short answer
+
+Answer in a sentence or two.
+
+**1. (Sub lesson 1)** What does part 1 of this lesson teach?
+**Answer: Natural disasters and the effects resulting from them; how people confront them and reduce their harm (any close wording).**
+
+**2. (Sub lesson 2)** What does part 2 of this lesson teach?
+**Answer: Palestine's way — the book's own teaching way (any close wording).**

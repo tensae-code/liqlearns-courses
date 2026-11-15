@@ -1,6 +1,6 @@
 # Sources — The Earth's Four Spheres
 
-countries: Ethiopia, Myanmar, Nauru, Tuvalu, Niue
+countries: Ethiopia, Myanmar, Nauru, Tuvalu, Niue, Palestine
 
 **Book 3:** *Social Studies Teacher's Guide, Grade 7* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, first edition 2022 (© 2014 E.C.), 142 printed pp. Printed page = PDF page - 5. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-teacher-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Myanmar, Nauru, Tuvalu, Niue
 
 **Book 7:** *People and the Natural Environment in the Pacific* (student book, English) — Niue, Institute of Education, University of the South Pacific (Tonga Campus), for UNESCO/Japanese Funds-in-Trust ESD project; year 2020; no ISBN printed. Title as printed: People and the Natural Environment in the Pacific — A Social Sciences related reader for Primary School, Book 3 (inner title page: Years 7–8 — see the grade note). Grade: Grade 5 record / Years 5–6 per the Teacher Guide, Years 7–8 per the inner title page (student). Niue advisor: Birtha Togahai. 24 PDF pp. (cover verified against the record title; read in full via pdftotext, page by page). Verdict: COMPLETE (content printed pp. 1–19). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/niue-placements.md.
 
+**Book 8:** *الدراسات الاجتماعية (Social Studies), Grade 5, Part One* (student book, Arabic) — Palestine, Ministry of Education and Higher Education, State of Palestine; year 2017 (adopted for teaching from the 2017/2018 school year); no ISBN printed. Title as printed: الدراسات الاجتماعية (Social Studies), Grade 5, Part One (Semester 1). Grade 5 (student). 92 PDF pp. (cover verified against the record title; printed p. = PDF p. − 4). Verdict: COMPLETE. Read via grab.py from the GitHub textbooks repo. (Combined Social Studies book — Geography parts placed below; History/Civics parts named in the placements, not placed: Unit 2 Human Life on Earth in Ancient Times, lessons 1–3 and 5, printed pp. 42–57 and 65–71; Unit 3 The Society We Live In, pp. 72–86; the war section inside Unit 1 lesson 5, pp. 36–39.) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/palestine-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson (teacher guide — evidence) | Ethiopia, *Social Studies Teacher's Guide, Grade 7*, Unit 1 (§1.3), printed pp. 8–10 |
@@ -21,8 +23,9 @@ countries: Ethiopia, Myanmar, Nauru, Tuvalu, Niue
 | Nauru part — The natural environment (living and non-living parts; weather and climate included) | Nauru, *People and the Natural Environment in the Pacific*, Grade 5, The natural environment — printed p. 1 |
 | Tuvalu part — The natural environment (living and non-living parts; weather and climate included) | Tuvalu, *People and the Natural Environment in the Pacific*, Grade 5, The natural environment (living and non-living parts; weather and climate included) — printed p. 1 |
 | Niue part — The natural environment (living organisms and non-living things — rivers, sea, sand, rocks, sun, soil, weather) (placement target the-land-and-air/the-natural-environment-living-and-non-living — stocked here as the closest existing lesson) | Niue, *People and the Natural Environment in the Pacific*, Grade 5, The natural environment (living organisms and non-living things — rivers, sea, sand, rocks, sun, soil, weather) — printed p. 1 |
+| Palestine part — Lesson 3: the basic components of life on Earth | Palestine, *Social Studies, Grade 5, Part One*, Grade 5, Lesson 3: the basic components of life on Earth — printed p. 22 |
 
-**Acceptance count: taught in 3 countries (Nauru, Tuvalu, Niue). Ethiopia and Myanmar are named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 4 countries (Nauru, Tuvalu, Niue, Palestine). Ethiopia and Myanmar are named here as teacher-guide evidence only, counted nowhere.**
 
 Niue's own way: Niue uses the shared Pacific ESD reader suite (Niue advisor Birtha Togahai) — land Geography is taught through Pacific farming itself: taro, pulaka and the coconut "tree of life", with Niue's own crops, exports and name-story ("behold the coconut") as anchor examples, and shifting cultivation/fallowing taught as sound science. That way is stocked here as the way Niue teaches this thing.
 
@@ -35,3 +38,5 @@ Myanmar's own way (teacher guide — evidence): the year is split into five para
 This lesson stands on teacher-guide evidence only: the Amhara student book in hand does not teach this topic. Pairing warning: the Grade 7 teacher guide is an Addis Ababa bureau book and the student books are Amhara bureau books; they are NOT edition-matched. Pupil content in this lesson comes from the student book; anything from the guide is labelled (teacher guide — evidence) and never presented as pupil-taught.
 
 Searchable tags: four spheres, lithosphere, hydrosphere, biosphere, atmosphere, Earth system, teacher guide evidence, Myanmar, Teacher Guide Geography Grade 6, teacher guide evidence, Nauru, People and the Natural Environment in the Pacific, natural environment, Tuvalu, Niue
+
+Palestine's own way (Grade 5, PS G5P1): Social Studies opens with a full Earth-science unit (shape, movements, surface, life components, disasters) taught through Palestinian examples — seasons read off Palestinian crops, surface forms read off Palestine's own map, which pupils draw with its borders.

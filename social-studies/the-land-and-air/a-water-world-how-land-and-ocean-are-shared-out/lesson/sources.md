@@ -1,6 +1,6 @@
 # Sources — A water world — how land and ocean are shared out
 
-countries: Ethiopia, Costa Rica, Jamaica
+countries: Ethiopia, Costa Rica, Jamaica, Palestine
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Costa Rica, Jamaica
 
 **Book 4:** *National Standards Curriculum — Exploratory Core, Grade 6 (Language Arts / Mathematics / Science / Social Studies), FINAL Jan 08 2020* (curriculum guide, English) — Jamaica, Ministry of Education, Youth & Information, Jamaica; year 2020; ISBN no ISBN printed. Title as printed: National Standards Curriculum — Exploratory Core, Grade 6 (Language Arts / Mathematics / Science / Social Studies), FINAL Jan 08 2020. Grade: Grade 6 (student/teacher: TEACHER — curriculum guide). 373 PDF pp. (cover verified against the record title; 5,913,507 bytes, matches record size_bytes). Social Studies section printed pp. 162–226. Verdict: COMPLETE for the Social Studies section (Geography scope). Guides read IN PLACE in phase3-staging where on disk, covers verified by render, full text read via pdftotext -layout. History parts (named, not placed): Term 1 Unit 2 How Jamaica achieved independence, printed p. 173. Civics parts (named, not placed): Term 1 Unit 3 How we show respect and loyalty for our country (national symbols), printed p. 178; Term 2 Unit 3 How decisions are made at the national level, printed p. 193. Cited as curriculum-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jamaica-placements.md.
 
+**Book 5:** *الدراسات الاجتماعية (Social Studies), Grade 5, Part One* (student book, Arabic) — Palestine, Ministry of Education and Higher Education, State of Palestine; year 2017 (adopted for teaching from the 2017/2018 school year); no ISBN printed. Title as printed: الدراسات الاجتماعية (Social Studies), Grade 5, Part One (Semester 1). Grade 5 (student). 92 PDF pp. (cover verified against the record title; printed p. = PDF p. − 4). Verdict: COMPLETE. Read via grab.py from the GitHub textbooks repo. (Combined Social Studies book — Geography parts placed below; History/Civics parts named in the placements, not placed: Unit 2 Human Life on Earth in Ancient Times, lessons 1–3 and 5, printed pp. 42–57 and 65–71; Unit 3 The Society We Live In, pp. 72–86; the war section inside Unit 1 lesson 5, pp. 36–39.) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/palestine-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The big numbers | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 1, printed pp. 16 |
@@ -18,8 +20,9 @@ countries: Ethiopia, Costa Rica, Jamaica
 | Teaching sequence and answer keys (teacher guide — evidence) | Ethiopia, *Geography, Teacher Guide, Grade 11*, Unit 1, guide printed pp. 12–39 |
 | Costa Rica part — spatial dynamics of the water resource at different geographic scales | Costa Rica, *Antología CONED 8*, Grade 8, Unit 1 Tema 2 A — printed p. 32 |
 | Jamaica part — Term 2 Unit 2: the world's oceans and water bodies (curriculum guide — evidence) | Jamaica, *Jamaica Grade 6 JM G6 Exploratory Core*, Term 2 Unit 2: the world's oceans and water bodies — printed p. 189 |
+| Palestine part — Lesson 2: the Earth's surface — divisions of land and water | Palestine, *Social Studies, Grade 5, Part One*, Grade 5, Lesson 2: the Earth's surface — divisions of land and water — printed p. 13 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Costa Rica). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 3 countries (Ethiopia, Costa Rica, Palestine). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grade 6 Exploratory Core, curriculum guide — evidence): the Grade 6 Social Studies year is built as three paired terms — culture and independence first, then the physical world (mountains, landmasses and water bodies), then climate, Earth movements and the atmosphere, closing on Caribbean cooperation. That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
@@ -28,3 +31,5 @@ No book error is flagged for this lesson's pages in the placements. The student 
 Costa Rica's own way: an almost purely geographical anthology — earth dynamics, water and climate change — built around risk: every world topic lands on Costa Rican vulnerability, risk management and territorial planning by sector (biodiversity, health, infrastructure, fisheries, energy, agriculture, water). That way is stocked here as the way Costa Rica teaches this thing.
 
 Searchable tags: land and ocean distribution, water world, hemispheres, ethiopia, social studies, the land and air, Costa Rica, CONED Antología, Estudios Sociales, Jamaica, curriculum guide evidence
+
+Palestine's own way (Grade 5, PS G5P1): Social Studies opens with a full Earth-science unit (shape, movements, surface, life components, disasters) taught through Palestinian examples — seasons read off Palestinian crops, surface forms read off Palestine's own map, which pupils draw with its borders.

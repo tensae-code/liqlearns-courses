@@ -2247,3 +2247,63 @@ taught in 0 countries), Land reform and agricultural
 promotion (G12, p. 49) and Nationalisation of
 hydrocarbons and the Gas War (G12, p. 85).
 Geography lessons: 832 → 851.
+
+## Geography expansion — Palestine — built 2026-11-14
+
+Palestine — 57 placements stocked from 10 records / 10
+distinct books (Grades 5–9, Part 1 + Part 2 each), all
+student books, all COMPLETE, read via grab.py from the
+GitHub textbooks repo (several byte-verified by
+sparse-checkout against their records, as the
+placements state). All ten are COMBINED Social Studies
+books (Ministry of Education and Higher Education,
+State of Palestine, 2017): Geography parts are placed;
+History/Civics parts are named in each lesson's
+sources, not placed. Grade 9 Part One carries no
+Geography content and is placed nowhere. Palestine's
+own way: an Earth-science opening in Grade 5 taught
+through Palestinian examples, a settlement ladder in
+Grade 5 Part Two (farming → village → Palestinian
+village → city → the road itself), a map-first Arab
+homeland tour in Grade 6, a continent-by-continent
+fixed lens in Grade 7 (astronomical + geographical
+location, then surface), the Arab homeland as one
+region in Grade 8, and a world-scale close in Grade 9.
+Stocked into standing lessons (39 placements) across
+Earth and Space, The Land and Air, Population,
+Transport and Maps, People and Resources, Culture and
+Work, Resources and Conflict and Global Issues — plus
+one placement stocked into Modern World: Exploration —
+Portugal and the sea routes to India. Five placements
+whose named slugs have no lesson folder were stocked
+into the closest existing lesson, with the original
+slug recorded in the provenance row: water security in
+the Arab homeland (G8P1, p. 44) into Water under
+pressure; the geographical discoveries (G8P2, p. 12)
+into Exploration — Portugal and the sea routes to
+India; the population explosion (G9P2, p. 58) into The
+world's population explosion; famines (G9P2, p. 68)
+into Famine and food security — availability is not
+enough; poverty (G9P2, p. 89) into The gap between
+rich and poor countries. 17 NEW lessons built (18
+placements; Landforms of Palestine carries two): in
+**The Land and Air**: Landforms of Palestine (G5P1,
+pp. 18–21; G6P1, p. 50), Bilad al-Sham — land and
+climate (G6P1, p. 39), Iraq — land of the two rivers
+(G6P1, p. 57), North Africa — location and surface
+(G6P1, p. 66), Asia — location, surface and climate
+(G7P1, pp. 4–12), Europe — location and surface
+(G7P1, p. 20), North America — location and surface
+(G7P1, p. 28), South America — location and surface
+(G7P1, p. 32), Oceania — location and surface (G7P1,
+p. 36), The Islamic world — its location and
+importance (G7P2, p. 32), Palestine — location, relief
+and climate (G7P2, p. 42), The Arab homeland — its
+location (G8P1, p. 4), Relief of the Arab homeland
+(G8P1, p. 12) and Climate of the Arab homeland (G8P1,
+p. 19); in **Population, Transport and Maps**: The
+Palestinian village (G5P2, p. 27); in **Global
+Issues**: Natural disasters and how people face them
+(G5P1, pp. 26–30) and The world's natural environments
+and their diversity (G9P2, p. 4).
+Geography lessons: 851 → 868.

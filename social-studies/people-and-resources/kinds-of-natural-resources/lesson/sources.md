@@ -1,6 +1,6 @@
 # Sources — Kinds of Natural Resources
 
-countries: Ethiopia, Sweden, Nauru, Tuvalu, Niue
+countries: Ethiopia, Sweden, Nauru, Tuvalu, Niue, Palestine
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (placement 45).
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Sweden, Nauru, Tuvalu, Niue
 
 **Book 5:** *People and the Natural Environment in the Pacific* (student book, English) — Niue, Institute of Education, University of the South Pacific (Tonga Campus), for UNESCO/Japanese Funds-in-Trust ESD project; year 2020; no ISBN printed. Title as printed: People and the Natural Environment in the Pacific — A Social Sciences related reader for Primary School, Book 3 (inner title page: Years 7–8 — see the grade note). Grade: Grade 5 record / Years 5–6 per the Teacher Guide, Years 7–8 per the inner title page (student). Niue advisor: Birtha Togahai. 24 PDF pp. (cover verified against the record title; read in full via pdftotext, page by page). Verdict: COMPLETE (content printed pp. 1–19). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/niue-placements.md.
 
+**Book 6:** *الدراسات الاجتماعية (Social Studies), Grade 5, Part One* (student book, Arabic) — Palestine, Ministry of Education and Higher Education, State of Palestine; year 2017 (adopted for teaching from the 2017/2018 school year); no ISBN printed. Title as printed: الدراسات الاجتماعية (Social Studies), Grade 5, Part One (Semester 1). Grade 5 (student). 92 PDF pp. (cover verified against the record title; printed p. = PDF p. − 4). Verdict: COMPLETE. Read via grab.py from the GitHub textbooks repo. (Combined Social Studies book — Geography parts placed below; History/Civics parts named in the placements, not placed: Unit 2 Human Life on Earth in Ancient Times, lessons 1–3 and 5, printed pp. 42–57 and 65–71; Unit 3 The Society We Live In, pp. 72–86; the war section inside Unit 1 lesson 5, pp. 36–39.) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/palestine-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Whole lesson opening — pupils list and classify their locality's resources before the book classifies | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 3, printed p. 61 |
@@ -22,8 +24,9 @@ countries: Ethiopia, Sweden, Nauru, Tuvalu, Niue
 | Nauru part — Natural resources (what Pacific people traditionally took from nature: food, clothes, shelter, tools, medicine, art) | Nauru, *People and the Natural Environment in the Pacific*, Grade 5, Natural resources — printed p. 3 |
 | Tuvalu part — Natural resources (what Pacific people traditionally took from nature: food, clothes, shelter, tools, medicine, art) | Tuvalu, *People and the Natural Environment in the Pacific*, Grade 5, Natural resources (what Pacific people traditionally took from nature: food, clothes, shelter, tools, medicine, art) — printed p. 3 |
 | Niue part — Natural resources (what they are and what Pacific people traditionally made from them) | Niue, *People and the Natural Environment in the Pacific*, Grade 5, Natural resources (what they are and what Pacific people traditionally made from them) — printed p. 3 |
+| Palestine part — Lesson 3: the importance of economic resources in human life | Palestine, *Social Studies, Grade 5, Part One*, Grade 5, Lesson 3: the importance of economic resources in human life — printed pp. 22–25 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Nauru, Tuvalu, Niue). Sweden is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 5 countries (Ethiopia, Nauru, Tuvalu, Niue, Palestine). Sweden is named here as teacher-guide evidence only, counted nowhere.**
 
 Niue's own way: Niue uses the shared Pacific ESD reader suite (Niue advisor Birtha Togahai) — land Geography is taught through Pacific farming itself: taro, pulaka and the coconut "tree of life", with Niue's own crops, exports and name-story ("behold the coconut") as anchor examples, and shifting cultivation/fallowing taught as sound science. That way is stocked here as the way Niue teaches this thing.
 
@@ -34,3 +37,5 @@ Tuvalu's own way: the land-side companion to the sea reader — and Tuvalu's own
 No Addis Ababa teacher-guide material is folded into this lesson: the Addis Ababa guide's Unit 3 carries no counterpart to this classification beyond the student book's own teaching, so nothing here rests on teacher evidence. No book error flagged by the placements touches this lesson.
 
 Searchable tags: natural resources, biotic, abiotic, exhaustible, non-renewable, renewable, depletion warning, የተፈጥሮ ሀብቶች, Ethiopia Grade 7 Social Studies Chapter 3, Nauru, People and the Natural Environment in the Pacific, Tuvalu, Niue
+
+Palestine's own way (Grade 5, PS G5P1): Social Studies opens with a full Earth-science unit (shape, movements, surface, life components, disasters) taught through Palestinian examples — seasons read off Palestinian crops, surface forms read off Palestine's own map, which pupils draw with its borders.

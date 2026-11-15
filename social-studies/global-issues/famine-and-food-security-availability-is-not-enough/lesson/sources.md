@@ -1,6 +1,6 @@
 # Sources — Famine and food security — availability is not enough
 
-countries: Ethiopia, Brazil, Haiti, Costa Rica
+countries: Ethiopia, Brazil, Haiti, Costa Rica, Palestine
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Brazil, Haiti, Costa Rica
 
 **Book 4:** *Antología CONED — Estudios Sociales 7* (student book, Spanish) — Costa Rica, Colegio Nacional de Educación a Distancia (CONED) / Universidad Estatal a Distancia (UNED); year 2017; ISBN no ISBN printed. Title as printed: Antología CONED — Materia: Estudios Sociales, Código 80005, Nivel: Sétimo año. Grade: Grade 7 (student). 166 PDF pp. (cover/title page verified against the record title; size 4,348,033 bytes = record). Verdict: COMPLETE. Read from the recorded public source URLs (CONED site and archive.org) after the GitHub grab route failed with RemoteDisconnected/timeouts on 2026-11-14; every downloaded file matched its books.json record byte-for-byte (size_bytes) and page count. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/costa-rica-placements.md.
 
+**Book 5:** *الدراسات الاجتماعية (Social Studies), Grade 9, Part Two* (student book, Arabic) — Palestine, Ministry of Education and Higher Education, State of Palestine; year 2017 (2017/2018 curriculum series); no ISBN printed. Title as printed: الدراسات الاجتماعية (Social Studies), Grade 9, Part Two (Semester 2). Grade 9 (student). 104 PDF pp. (cover verified against the record title; printed p. = PDF p. − 4; file fetched via git sparse-checkout, byte-verified against the record — 32,556,700 bytes, blob SHA ed76112a4b3e2ee7eac3f6d1c5a7c9d1b6b0ca2b). Verdict: COMPLETE. (Combined Social Studies book — Geography parts placed below; History/Civics parts named in the placements, not placed: Unit 4 lesson 3, civilisational diversity, printed p. 28; Unit 5 lesson 1, wars, and lesson 4, protecting human cultural heritage, pp. 47–88; Unit 6 lesson 2, racial discrimination, p. 95. Book 9, Grade 9 Part One, carries no Geography content and is placed nowhere.) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/palestine-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Famine is a process, not an event | G12 student #78, printed pp. 209–211 |
@@ -17,8 +19,9 @@ countries: Ethiopia, Brazil, Haiti, Costa Rica
 | Brazil part — Folha 13: Fome: problema econômico? / Hunger: an economic problem? | Brazil, *Geografia, Livro Didático Público, Ensino Médio*, Grade 10, Folha 13: Fome: problema econômico? / Hunger: an economic problem?, printed p. 198 |
 | Haiti part — Séance 3 L'insécurité alimentaire dans le monde (faim, malnutrition, carences, surconsommation; annexes FAO, L'état de la sécurité alimentaire et de la nutrition dans le monde 2021) (teacher sequence — evidence) | Haiti, *Sciences humaines et sociales — Géographie — L'inégale répartition des richesses et la solidarité mondiale* (teacher sequence), Grade 8, Séance 3 L'insécurité alimentaire dans le monde (faim, malnutrition, carences, surconsommation; annexes FAO, L'état de la sécurité alimentaire et de la nutrition dans le monde 2021) — printed p. 18 |
 | Costa Rica part — problems linked to food production in Costa Rica and at world scale | Costa Rica, *Antología CONED 7*, Grade 7, Unit III Tema II C — printed p. 155 |
+| Palestine part — Unit 5, Lesson 3: famines — their causes, natural (cold waves, frost) and agricultural (pests and crop diseases) (stocked here as the closest existing lesson; the placements name resources-and-conflict/food-security-keeping-everyone-fed, which has no lesson folder) | Palestine, *Social Studies, Grade 9, Part Two*, Grade 9, Unit 5, Lesson 3: famines — their causes, natural (cold waves, frost) and agricultural (pests and crop diseases) — printed p. 68 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Brazil, Costa Rica). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 4 countries (Ethiopia, Brazil, Costa Rica, Palestine). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
 
 Haiti's own way (teacher sequence — evidence): World inequality is questioned through the words used for it (Nord/Sud, développé/sous-développé) and through Haiti's own case — a rich-country/poor-country comparison (Canada or USA vs Haiti), the independence debt, food insecurity and Covid vaccination in Haiti — with every claim built from authenticated statistics, graphs and maps crossed from local to world scale. That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
@@ -27,3 +30,5 @@ No book error in the placements for this lesson is taught here. Figures and date
 Costa Rica's own way: a distance-education anthology organised around "the human footprint on geographic space" — every unit opens with a generating question and objectives, and Costa Rica is used as the home case inside world topics (tropical forest conservation, food production problems). That way is stocked here as the way Costa Rica teaches this thing.
 
 Searchable tags: famine, food security, entitlements, World Bank 1986, chronic and transitory insecurity, social studies, Haiti, Inégale répartition des richesses, teacher sequence evidence, Costa Rica, CONED Antología, Estudios Sociales
+
+Palestine's own way (Grade 9, PS G9P2): the course closes at world scale — the diversity of natural environments, peoples and economies, then the age's challenges (population explosion, famines, poverty) framed as matters for international cooperation.

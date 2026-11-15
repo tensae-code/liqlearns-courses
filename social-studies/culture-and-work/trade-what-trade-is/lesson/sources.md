@@ -1,6 +1,6 @@
 # Sources — Trade — what trade is
 
-countries: Ethiopia, Suriname, Mongolia
+countries: Ethiopia, Suriname, Mongolia, Palestine
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 2 — Population Studies and Socio-Economic Activities, printed pp. 44–76).
 
@@ -8,17 +8,27 @@ countries: Ethiopia, Suriname, Mongolia
 
 **Book 3:** *Нийгэм судлал VIII (Social Studies VIII)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports, Ulaanbaatar; year 2019; ISBN no ISBN printed on the pages checked. Title as printed: Нийгэм судлал VIII (Social Studies VIII). Grade: Grade 8 (student). 99 PDF pp. (cover verified against the record title; secured GitHub release asset, 32,655,646 bytes, byte-size verified on download; contents also cross-checked against the ministry econtent flipbook of the same book). Verdict: COMPLETE for Geography scope (contents page and chapter structure read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mongolia-placements.md.
 
+**Book 4:** *الدراسات الاجتماعية (Social Studies), Grade 5, Part Two* (student book, Arabic) — Palestine, Ministry of Education and Higher Education, State of Palestine; year 2017 (adopted for teaching from the 2017/2018 school year); no ISBN printed. Title as printed: الدراسات الاجتماعية (Social Studies), Grade 5, Part Two (Semester 2). Grade 5 (student). 96 PDF pp. (cover verified against the record title; printed p. = PDF p. − 4; file fetched via git sparse-checkout and verified byte-for-byte against the record — 22,801,057 bytes, blob SHA 8de7307c807e6306e1f69a61d73de378df5bd6ea). Verdict: COMPLETE. (Combined Social Studies book — Geography parts placed below; History/Civics parts named in the placements, not placed: Unit 4 lesson 6, Emergence of States, printed p. 40; Unit 5 Human Relations lessons 1, 3 and 4, pp. 48–54 and 64–75; Unit 6 lesson 2, Children's Rights, p. 85.) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/palestine-placements.md.
+
+**Book 5:** *الدراسات الاجتماعية (Social Studies), Grade 6, Part Two* (student book, Arabic) — Palestine, Ministry of Education and Higher Education, State of Palestine; year 2017 (2017/2018 curriculum series); no ISBN printed. Title as printed: الدراسات الاجتماعية (Social Studies), Grade 6, Part Two (Semester 2). Grade 6 (student). 104 PDF pp. (cover verified against the record title; printed p. = PDF p. − 4; file fetched via git sparse-checkout, byte-verified against the record — 17,399,163 bytes, blob SHA 1dc8073d7cd5b8c10cf864efc7b1310224144adf). Verdict: COMPLETE. (Combined Social Studies book — Geography parts placed below; History/Civics parts named in the placements, not placed: Unit 4 lessons 1–2, printed pp. 4–16; Unit 5, The Rise of the Islamic State, pp. 26–84; Unit 6 lesson 2, The Active Citizen, p. 89.) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/palestine-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — No one finds everything where they are | Ethiopia, *Social Studies Student Textbook, Grade 8* (Amhara Bureau), printed p. 66 |
 | Sub lesson 2 — Three levels of trade | Ethiopia, *Social Studies Student Textbook, Grade 8* (Amhara Bureau), printed p. 66 |
 | Sub lesson 1 — No one finds everything where they are (Suriname way: buying and selling at the market — the market scenes a Grade 3 child colours and works through) | Suriname, *Leerlingenwerkboek OJW, Leerjaar 3*, Grade 3 — Les 21 Kopen en verkopen / Buying and selling (market scenes), printed p. 25 |
 | Mongolia part — The local market | Mongolia, *Нийгэм судлал VIII (Social Studies VIII)*, Grade 8, Chapter III Individual and Economy: 3.2 The local market — printed p. 51 |
+| Palestine part — Unit 5, Lesson 2: economic relations — in the village and the city, the economic importance of Palestine's location, and economic relations between states | Palestine, *Social Studies, Grade 5, Part Two*, Grade 5, Unit 5, Lesson 2: economic relations — in the village and the city, the economic importance of Palestine's location, and economic relations between states — printed p. 55 |
+| Palestine part — Unit 4, Lesson 3: the economic life of the Arabs before Islam — economic activities; the concept and types of trade | Palestine, *Social Studies, Grade 6, Part Two*, Grade 6, Unit 4, Lesson 3: the economic life of the Arabs before Islam — economic activities; the concept and types of trade — printed p. 17 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Suriname, Mongolia).**
+**Acceptance count: taught in 4 countries (Ethiopia, Suriname, Mongolia, Palestine).**
 
 Mongolia's own way (Grade 8): the Grade 8 year is the LOCAL year — every chapter is re-anchored to the child's own орон нутаг (local area/homeland): its environment and problems, its heritage, its economy and market, its governance. The book's Law/Civics parts (Chapters IV–V, printed pp. 63–94) are named in the placements, not placed. That way is stocked here as the way Mongolia teaches this thing.
 
 Honesty: pupil content comes from the Amhara student book. The Addis Ababa Grade 8 teacher guide is NOT edition-matched to this student book and is truncated (only printed pp. 1–47, Units 1–3, in hand); no guide coverage is claimed for this lesson beyond what its sources rows name.
 
 Searchable tags: trade: what trade is, culture and work, social studies, ethiopia, Mongolia, Нийгэм судлал
+
+Palestine's own way (Grade 5, PS G5P2): the settlement story is told as a ladder — farming, animal domestication, the agricultural village, the Palestinian village of today, then the city located on the map — and the year closes with the road itself: what a road is, its parts, and how to cross it safely.
+
+Palestine's own way (Grade 6, PS G6P2): a mostly historical semester; its Geography survives in the trade geography of pre-Islamic Arabia (activities, markets mapped, trade with neighbouring regions) and in a closing traffic-safety lesson.

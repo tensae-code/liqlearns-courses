@@ -103,7 +103,7 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **851**
+Geography lessons across the eight Geography titles: **868**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -392,3 +392,20 @@ developed, Water — a human right or a commodity? and
 Andean water management — stand on Bolivia's teacher
 compendium as teacher-guide evidence only, counted
 nowhere.)
+
++17 for Palestine, 2026-11-14 — The Land
+and Air: Landforms of Palestine, Bilad al-Sham — land
+and climate, Iraq — land of the two rivers, North
+Africa — location and surface, Asia — location,
+surface and climate, Europe — location and surface,
+North America — location and surface, South America —
+location and surface, Oceania — location and surface,
+The Islamic world — its location and importance,
+Palestine — location, relief and climate, The Arab
+homeland — its location, Relief of the Arab homeland
+and Climate of the Arab homeland; Population,
+Transport and Maps: The Palestinian village; Global
+Issues: Natural disasters and how people face them
+and The world's natural environments and their
+diversity. (All 17 stand on Palestine's student books,
+counted in acceptance.)

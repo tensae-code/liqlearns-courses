@@ -1,6 +1,6 @@
 # Sources — Primary activities — agriculture
 
-countries: Ethiopia, Barbados, Nauru, Tuvalu, Niue, Costa Rica
+countries: Ethiopia, Barbados, Nauru, Tuvalu, Niue, Costa Rica, Palestine
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 2 — Population Studies and Socio-Economic Activities, printed pp. 44–76).
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Barbados, Nauru, Tuvalu, Niue, Costa Rica
 
 **Book 6:** *Antología CONED — Estudios Sociales 7* (student book, Spanish) — Costa Rica, Colegio Nacional de Educación a Distancia (CONED) / Universidad Estatal a Distancia (UNED); year 2017; ISBN no ISBN printed. Title as printed: Antología CONED — Materia: Estudios Sociales, Código 80005, Nivel: Sétimo año. Grade: Grade 7 (student). 166 PDF pp. (cover/title page verified against the record title; size 4,348,033 bytes = record). Verdict: COMPLETE. Read from the recorded public source URLs (CONED site and archive.org) after the GitHub grab route failed with RemoteDisconnected/timeouts on 2026-11-14; every downloaded file matched its books.json record byte-for-byte (size_bytes) and page count. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/costa-rica-placements.md.
 
+**Book 7:** *الدراسات الاجتماعية (Social Studies), Grade 5, Part Two* (student book, Arabic) — Palestine, Ministry of Education and Higher Education, State of Palestine; year 2017 (adopted for teaching from the 2017/2018 school year); no ISBN printed. Title as printed: الدراسات الاجتماعية (Social Studies), Grade 5, Part Two (Semester 2). Grade 5 (student). 96 PDF pp. (cover verified against the record title; printed p. = PDF p. − 4; file fetched via git sparse-checkout and verified byte-for-byte against the record — 22,801,057 bytes, blob SHA 8de7307c807e6306e1f69a61d73de378df5bd6ea). Verdict: COMPLETE. (Combined Social Studies book — Geography parts placed below; History/Civics parts named in the placements, not placed: Unit 4 lesson 6, Emergence of States, printed p. 40; Unit 5 Human Relations lessons 1, 3 and 4, pp. 48–54 and 64–75; Unit 6 lesson 2, Children's Rights, p. 85.) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/palestine-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Directly from nature | Ethiopia, *Social Studies Student Textbook, Grade 8* (Amhara Bureau), printed pp. 55–56 |
@@ -24,8 +26,9 @@ countries: Ethiopia, Barbados, Nauru, Tuvalu, Niue, Costa Rica
 | Niue part — Niue's food crops and taro exports (70+ taro types incl. pink talo Niue; 87% of households farming, 2009; taro as an export cash crop with vanilla, nonu, honey and coconuts) (placement target culture-and-work/niues-food-crops-and-taro-exports — stocked here as the closest existing lesson) | Niue, *People and the Natural Environment in the Pacific*, Grade 5, Niue's food crops and taro exports (70+ taro types incl. pink talo Niue; 87% of households farming, 2009; taro as an export cash crop with vanilla, nonu, honey and coconuts) — printed p. 8 |
 | Niue part — Tonga's crops and multicropping (taro interplanted with yams and bananas; semi-subsistence farming) | Niue, *People and the Natural Environment in the Pacific*, Grade 5, Tonga's crops and multicropping (taro interplanted with yams and bananas; semi-subsistence farming) — printed p. 10 |
 | Costa Rica part — the Neolithic Revolution, sedentarisation and the first agricultural societies transforming geographic space | Costa Rica, *Antología CONED 7*, Grade 7, Unit I Tema I B — printed p. 19 |
+| Palestine part — Unit 4 Human Settlement, Lesson 1: the human turn to practising agriculture | Palestine, *Social Studies, Grade 5, Part Two*, Grade 5, Unit 4 Human Settlement, Lesson 1: the human turn to practising agriculture — printed p. 4 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Barbados, Nauru, Tuvalu, Niue, Costa Rica).**
+**Acceptance count: taught in 7 countries (Ethiopia, Barbados, Nauru, Tuvalu, Niue, Costa Rica, Palestine).**
 
 Niue's own way: Niue uses the shared Pacific ESD reader suite (Niue advisor Birtha Togahai) — land Geography is taught through Pacific farming itself: taro, pulaka and the coconut "tree of life", with Niue's own crops, exports and name-story ("behold the coconut") as anchor examples, and shifting cultivation/fallowing taught as sound science. That way is stocked here as the way Niue teaches this thing.
 
@@ -42,3 +45,5 @@ The guide's Unit 2 review key lists "fishing" and "fishery" duplicated among pri
 Costa Rica's own way: a distance-education anthology organised around "the human footprint on geographic space" — every unit opens with a generating question and objectives, and Costa Rica is used as the home case inside world topics (tropical forest conservation, food production problems). That way is stocked here as the way Costa Rica teaches this thing.
 
 Searchable tags: primary activities: agriculture, culture and work, social studies, ethiopia, Nauru, People and the Natural Environment in the Pacific, Niue crops, Tuvalu, Niue, Costa Rica, CONED Antología, Estudios Sociales
+
+Palestine's own way (Grade 5, PS G5P2): the settlement story is told as a ladder — farming, animal domestication, the agricultural village, the Palestinian village of today, then the city located on the map — and the year closes with the road itself: what a road is, its parts, and how to cross it safely.
