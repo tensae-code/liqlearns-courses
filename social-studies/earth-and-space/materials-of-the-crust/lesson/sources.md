@@ -1,6 +1,6 @@
 # Sources — Materials of the Crust — Elements, Minerals and Rocks
 
-countries: Ethiopia, Barbados, Malaysia, India, North Macedonia, Slovenia, Vietnam, Papua New Guinea, Uganda, Sudan, Syria, Kuwait, Pakistan, Libya, Mozambique, Jordan, Iraq
+countries: Ethiopia, Barbados, Malaysia, India, North Macedonia, Slovenia, Vietnam, Papua New Guinea, Uganda, Sudan, Syria, Kuwait, Pakistan, Libya, Mozambique, Jordan, Iraq, Bhutan
 
 **Book 3:** *Social Studies Teacher's Guide, Grade 7* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, first edition 2022 (© 2014 E.C.), 142 printed pp. Printed page = PDF page - 5. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-teacher-placements.md.
 
@@ -52,6 +52,10 @@ countries: Ethiopia, Barbados, Malaysia, India, North Macedonia, Slovenia, Vietn
 
 **Book 27:** *الجغرافية الطبيعية للصف الخامس الأدبي (Natural Geography for the Fifth Literary Grade) — the record's "Geography (Literary Track)" is the same book: same grade and track, verified by cover and contents* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; revised by a committee in the Ministry of Education; year 1445 AH / 2023 CE, revised 13th edition (الطبعة الثالثة عشرة / المنقحة); ISBN no ISBN printed on the title pages. Title as printed: الجغرافية الطبيعية للصف الخامس الأدبي (Natural Geography for the Fifth Literary Grade) — the record's "Geography (Literary Track)" is the same book: same grade and track, verified by cover and contents. Grade: 11 (fifth secondary, literary track) (student/teacher: STUDENT). PDF pages: 162 (cover/title page verified as above; read via the books.json record's own Google Drive source file — same book, cover and contents verified — after the GitHub route failed). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iraq-placements.md.
 
+**Book 28:** *AN INTRODUCTION TO GEOGRAPHY CLASS VII* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Royal Government of Bhutan, Thimphu; year Provisional edition 2018, Copyright 2023, Reprint 2024; ISBN 975-99936-0-455-8 (as printed). Title as printed: AN INTRODUCTION TO GEOGRAPHY CLASS VII. Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 86 (cover/title page verified against the record title; byte size 5,663,043 and page count match the books.json record exactly — read via the record's ministry source URL after the grab.py route proved unreliable for this group). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
+**Book 29:** *ADVANCED GEOGRAPHY CLASS XII* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Thimphu; year Provisional Edition 2023, Copyright 2023, Reprint 2024; ISBN no ISBN printed. Title as printed: ADVANCED GEOGRAPHY CLASS XII. Grade: Grade 12 (student/teacher: STUDENT). PDF pages: 144 (title page verified against the record title — PDF p.3, after a royal-message frontispiece; byte size 4,875,259 and page count match the books.json record exactly — read via the record's ministry source URL). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Eight elements, and what a mineral is (teacher guide — evidence) | Ethiopia, *Social Studies Teacher's Guide, Grade 7*, Unit 1, printed pp. 11–14 |
@@ -88,8 +92,10 @@ countries: Ethiopia, Barbados, Malaysia, India, North Macedonia, Slovenia, Vietn
 | Jordan part — Unit 1 Rocks practicals: classifying rocks, cooling rate and crystal size, chemical sedimentary rocks, identifying rocks | Jordan, *Jordan G10 ES T1 Workbook*, Unit 1 Rocks practicals: classifying rocks, cooling rate and crystal size, chemical sedimentary rocks, identifying rocks — printed p. 4 |
 | Jordan part — Unit 1 Rocks: teacher guidance for the igneous, sedimentary and metamorphic lessons and their practicals | Jordan, *Jordan G10 ES T1 Teacher Guide*, Unit 1 Rocks: teacher guidance for the igneous, sedimentary and metamorphic lessons and their practicals — printed p. 10 (teacher-guide evidence) |
 | Iraq part — Ch. 1: The lithosphere and its rocks — igneous rocks by silica content, and metamorphic rocks | Iraq, *Iraq Grade 11 Physical Geography*, Ch. 1: The lithosphere and its rocks — igneous rocks by silica content, and metamorphic rocks — printed p. 6 |
+| Bhutan part — Ch.6 6.2 Types of rocks | Bhutan, *Bhutan Grade 7 Geography*, Ch.6 6.2 Types of rocks — printed p. 27 |
+| Bhutan part — Ch.4 4.3 Classification of rocks | Bhutan, *Bhutan Grade 12 Geography*, Ch.4 4.3 Classification of rocks — printed p. 43 |
 
-**Acceptance count: taught in 15 countries (Barbados, Malaysia, India, North Macedonia, Slovenia, Vietnam, Uganda, Sudan, Syria, Kuwait, Pakistan, Libya, Mozambique, Jordan, Iraq). Ethiopia is named here as teacher-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 16 countries (Barbados, Malaysia, India, North Macedonia, Slovenia, Vietnam, Uganda, Sudan, Syria, Kuwait, Pakistan, Libya, Mozambique, Jordan, Iraq, Bhutan). Ethiopia is named here as teacher-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Barbados's own way: this is the shared Caribbean CSEC examination textbook used in Barbados — every world process is re-taught through Caribbean case studies (the Caribbean plate, Montserrat's volcano, Jamaica's coasts and Kingston's urban problems, St Lucia's reefs, Bahamas/Jamaica/Puerto Rico karst, Guyana's rivers), map and field skills are folded into the chapters, and the course ends in a School-Based Assessment fieldwork project. That way is stocked here as the way Barbados teaches this thing; it does not change the acceptance count above.
 
@@ -142,3 +148,7 @@ Jordan's own way (Jordan G10 ES T1 Workbook): bench versions of the rock and sta
 Jordan's own way (Jordan G10 ES T1 Teacher Guide): the guide walks the teacher through the student book and the activities book together — overviews of both, then lesson-by-lesson teaching notes, answers and enrichment for Rocks and Stars.
 
 Iraq's own way (Iraq Grade 11 Physical Geography): a pure physical-geography course in six chapters — landforms, weather and climate, water, the biosphere, soil, and the environment — with Iraqi anchors kept throughout (flood visits to Iraq's rivers, the hills of northern Iraq, groundwater and the desert caravans, soil salinity in the alluvial plain).
+
+Bhutan's own way (Bhutan Grade 7 Geography): From Class VII Geography becomes a standalone subject organised in three strands (Time and Space; Physical Environment; People and Environment), every world topic closed with its Bhutan case — climate of Bhutan, vegetation types of Bhutan, minerals of Bhutan, and Bhutan's Himalayan disaster set (earthquake, flood, windstorm, fire, GLOF).
+
+Bhutan's own way (Bhutan Grade 12 Geography): Class XII closes the Advanced course with specialist topics (surveying, geospatial technologies, glaciers and the "Third Pole", Köppen in full, fluvial processes, Davis's cycle of erosion) and Bhutan data chapters — fertility and mortality trends in Bhutan, migration trends, hydropower in Bhutan, and creative industries including Bhutanese film.

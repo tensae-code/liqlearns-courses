@@ -1,6 +1,6 @@
 # Sources — Earthquakes — the slipping Earth
 
-countries: Ethiopia, Barbados, Costa Rica, Indonesia, Dominican Republic, Eritrea, North Macedonia, Cambodia, Slovenia, Kuwait, Afghanistan, Yemen, Pakistan, Nepal, Mozambique, Jordan, Iraq, Nicaragua
+countries: Ethiopia, Barbados, Costa Rica, Indonesia, Dominican Republic, Eritrea, North Macedonia, Cambodia, Slovenia, Kuwait, Afghanistan, Yemen, Pakistan, Nepal, Mozambique, Jordan, Iraq, Nicaragua, Bhutan
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -56,6 +56,8 @@ countries: Ethiopia, Barbados, Costa Rica, Indonesia, Dominican Republic, Eritre
 
 **Book 27:** *Módulo Autoformativo de Ciencias Sociales — Geografía, 9no Grado (Educación Secundaria a Distancia en el Campo)* (student book, Spanish) — Ministerio de Educación (MINED), Nicaragua, PROSEN; year 2017; ISBN no ISBN printed. Title as printed: Módulo Autoformativo de Ciencias Sociales — Geografía, 9no Grado (Educación Secundaria a Distancia en el Campo). Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 300 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nicaragua-placements.md.
 
+**Book 28:** *An Introduction to GEOGRAPHY Class VIII* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Royal Government of Bhutan, Thimphu; year Provisional Edition 2019, Copyright 2023, Reprint 2024; ISBN no ISBN printed. Title as printed: An Introduction to GEOGRAPHY Class VIII. Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 120 (cover/title page verified against the record title; byte size 9,992,518 and page count match the books.json record exactly — read via the record's ministry source URL). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Strain and sudden slip | G12 student #12, printed pp. 15–16 |
@@ -86,8 +88,9 @@ countries: Ethiopia, Barbados, Costa Rica, Indonesia, Dominican Republic, Eritre
 | Nicaragua part — Zona sísmica y volcánica del continente | Nicaragua, *Nicaragua Grade 8 Estudios Sociales G8 full-year*, Zona sísmica y volcánica del continente — printed p. 31 |
 | Nicaragua part — Zonas sísmicas y volcánicas de América, América Central, El Caribe y Nicaragua | Nicaragua, *Nicaragua Grade 8 CCSS Módulo Autoformativo G8*, Zonas sísmicas y volcánicas de América, América Central, El Caribe y Nicaragua — printed p. 54 |
 | Nicaragua part — Zonas sísmicas y volcánicas de los continentes | Nicaragua, *Nicaragua Grade 9 CCSS Geografía Módulo G9*, Zonas sísmicas y volcánicas de los continentes — printed p. 57 |
+| Bhutan part — Ch.5 5.1 Earthquake | Bhutan, *Bhutan Grade 8 Geography*, Ch.5 5.1 Earthquake — printed p. 31 |
 
-**Acceptance count: taught in 18 countries (Ethiopia, Barbados, Costa Rica, Indonesia, Dominican Republic, Eritrea, North Macedonia, Cambodia, Slovenia, Kuwait, Afghanistan, Yemen, Pakistan, Nepal, Mozambique, Jordan, Iraq, Nicaragua).**
+**Acceptance count: taught in 19 countries (Ethiopia, Barbados, Costa Rica, Indonesia, Dominican Republic, Eritrea, North Macedonia, Cambodia, Slovenia, Kuwait, Afghanistan, Yemen, Pakistan, Nepal, Mozambique, Jordan, Iraq, Nicaragua, Bhutan).**
 
 Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -144,3 +147,5 @@ Nicaragua's own way (Nicaragua Grade 8 Estudios Sociales G8 full-year): Grade 8 
 Nicaragua's own way (Nicaragua Grade 8 CCSS Módulo Autoformativo G8): The distance-learning parallel of the Grade 8 full-year book: the same five Geography-of-America units rewritten for self-study, repeatedly narrowing from the continent to Centroamérica, El Caribe and Nicaragua itself (e.g. climate zones and water protection are treated region by region down to Nicaragua). Non-Geography parts named, not placed: Unit VI pre-Columbian origins (printed pp. 166–177, History); Unit VII arrival of the Europeans (printed pp. 182–201, History); Unit VIII emancipation of the indigenous peoples (printed pp. 206–220, History); Unit IX transformations after independence (printed pp. 224–246, History); Unit X America and the great changes of the 20th century (printed pp. 252–286, History).
 
 Nicaragua's own way (Nicaragua Grade 9 CCSS Geografía Módulo G9): A pure-Geography self-study module (no History/Civics in this book): the Grade 9 world-Geography course taught continent by continent — position and political organisation, physical landscape, human diversity, production and consumption, and a closing planet-care unit on prevention and mitigation — with Nicaragua used as the home reference point throughout.
+
+Bhutan's own way (Bhutan Grade 8 Geography): Class VIII deepens the same three strands with real map-work (scale conversion, grid references, contours and profiles) and Bhutan-specific hazard and resource content, including the Rubesa wind turbine and hydroelectric dams as national resource examples.

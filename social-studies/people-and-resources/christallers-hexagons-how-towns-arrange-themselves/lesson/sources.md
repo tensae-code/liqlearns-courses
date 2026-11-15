@@ -1,6 +1,6 @@
 # Sources — Christaller's hexagons — how towns arrange themselves
 
-countries: Ethiopia, Indonesia, Malaysia
+countries: Ethiopia, Indonesia, Malaysia, Bhutan
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Indonesia, Malaysia
 
 **Book 4:** *Geografi Tingkatan 4 (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Kementerian Pendidikan Malaysia (Ministry of Education Malaysia); produced by Kubu Publications; year 2019 (first printing 2019); ISBN 978-967-17523-0-2. Title as printed: Geografi Tingkatan 4 (Kurikulum Standard Sekolah Menengah, KSSM). Grade 10 / Tingkatan 4 (student/teacher: STUDENT). PDF pages: 234 (cover verified against the record title — "GEOGRAFI TINGKATAN 4"; printed pagination per the book's contents). Verdict: COMPLETE. Records note: covers both Tingkatan 4 records — the TSV release record (mid-size-books-2, read here, 96,802,047 bytes) and the books.json record, whose tree path does not exist in the repo tree (release asset only). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/malaysia-placements.md.
 
+**Book 5:** *INTERMEDIATE GEOGRAPHY CLASS X* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu (title page; developed with the Royal Education Council, Paro); year Reprint 2024 (page footers); ISBN no ISBN printed (no imprint page in the PDF). Title as printed: INTERMEDIATE GEOGRAPHY CLASS X. Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 124 (cover/title page verified against the record title; byte size 12,820,771 and page count match the books.json record exactly — read via the record's ministry source URL; this book is also the TSV release record grade-10-gov-bhutan-geography-full-year.pdf, same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Central places and hexagons | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 5, printed pp. 132–134 |
@@ -18,8 +20,9 @@ countries: Ethiopia, Indonesia, Malaysia
 | Teaching sequence and answer keys (teacher guide — evidence) | Ethiopia, *Geography, Teacher Guide, Grade 11*, Unit 5, guide printed pp. 136–157 |
 | Indonesia part (Grade 12) — Bab 1 A Teori lokasi sentral (Christaller) | Indonesia, *Geografi untuk SMA/MA Kelas XII*, Grade 12, Bab 1 A Teori lokasi sentral (Christaller) — printed p. 20 |
 | Malaysia part (MY T4 Geografi Tingkatan 4) — Bab 14.2, 14.5-14.6: the settlement hierarchy; functions of urban and rural settlements and their interdependence | Malaysia, *MY T4 Geografi*, Bab 14.2, 14.5-14.6: the settlement hierarchy; functions of urban and rural settlements and their interdependence — printed pp. 188-197 |
+| Bhutan part — Ch.9 9.3 Central Place Theory | Bhutan, *Bhutan Grade 10 Geography*, Ch.9 9.3 Central Place Theory — printed p. 77 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Indonesia, Malaysia).**
+**Acceptance count: taught in 4 countries (Ethiopia, Indonesia, Malaysia, Bhutan).**
 
 Indonesia's own way (Grade 12): Grade 12 is applied human geography built entirely on Indonesian cases — regional development and spatial planning (tata ruang) measured against a Happiness Index, Industry 4.0 / Society 5.0, and Indonesia's own geopolitics and ASEAN-era cooperation as pillars of national resilience. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -28,3 +31,5 @@ No book error is flagged for this lesson's pages in the placements. The student 
 Searchable tags: christaller, central place theory, hexagons, K values, ethiopia, social studies, people and resources
 
 Malaysia's own way (MY T4 Geografi Tingkatan 4): upper-secondary Geography is a full topographic-map apprenticeship (bearings, area, cross-sections, landscape reading) followed by process geography — plates, rocks, weathering, mass movement, rivers and coasts — and a world-scale human geography of population, migration, settlements and urbanisation.
+
+Bhutan's own way (Bhutan Grade 10 Geography): Class X pairs deep physical theory (Big Bang, plate tectonics, the making of the Himalayas) with an applied Bhutan block — climate and vegetation zones of Bhutan, Bhutanese agriculture's challenges and advancement, industries and their distribution, and a Bhutan disaster chapter that adds Education in Emergency.

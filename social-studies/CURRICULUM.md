@@ -6668,3 +6668,169 @@ lessons are taught in 1 country (Nicaragua), 8
 questions each, each standing on Nicaragua student
 book(s).
 Geography lessons: 2859 → 2879.
+
+
+## Bhutan — Geography expansion (merged 2026-11-15)
+349 placement lines stocked from Bhutan's 14 records /
+9 distinct books. All 9 books are English student books
+of the Royal Government of Bhutan (Center for School
+Curriculum Development / Department of School
+Education, Ministry of Education and Skills
+Development), all COMPLETE; G4–G5 were read via the
+grab.py tree route and G6–G12 via the records' ministry
+(rec.gov.bt) source URLs after the grab.py route hung
+on G6 — every book verified by pdfinfo with byte size +
+page count matching its books.json record exactly, plus
+cover/title-page render. The placements file's header
+total and per-book tallies sum to exactly 349, matching
+the placement-line count — no tally discrepancy. The
+file's split is 205 existing-flagged / 144 NEW-flagged
+(121 distinct NEW slugs); by lesson dir, 207 placements
+land in 126 standing lessons and 142 in the 119 new
+lessons: two NEW-flagged slugs already stand as lessons
+(earth-and-space/the-rock-cycle and
+population-transport-and-maps/models-of-urban-structure,
+1 placement each) and their placements are stocked
+there, not rebuilt; no placement is remapped — every
+existing-flagged slug stands. The non-Geography parts
+of the combined Social Studies books IV–VI
+(Religion/History, Civics, Health/Life Skills) are
+named in the placements headers only, not placed.
+Bhutan's own way: Social Studies IV–VI integrates
+Geography with Civics, Culture, Economics, History and
+Religion, taught from the child's home, village and
+district outward with Bhutanese materials and local
+forest and hazard examples; Grade 5 anchors world
+geography in Bhutan's own map (location, three physical
+zones, neighbours, major rivers, protected areas) and
+Grade 6 adds Bhutan's climate zones, hydropower,
+urbanisation and glacial lake outburst floods (GLOF);
+from Class VII Geography is a standalone subject in
+three strands (Time and Space; Physical Environment;
+People and Environment), every world topic closed with
+its Bhutan case; the Intermediate level (IX–X) treats
+each world topic at full textbook depth with the Bhutan
+case inside it, and the Advanced level (XI–XII) is full
+academic geography — map projections, remote sensing
+and GIS, climate classification — with Bhutan applied
+chapters on agriculture, manufacturing and tourism, the
+last taught on Bhutan's own sustainability principle
+("high value, low volume"). Stocked into standing
+lessons (207 placements across 126 lessons). 119 NEW
+lessons built (142 placements) — **Earth and Space**:
+Electromagnetic Theory Of The Universes Origin (printed
+p. 6), Evidence For The Earths Sphericity (printed p.
+3), Kants Gaseous Mass Hypothesis (printed p. 2),
+Minerals And Their Properties (printed p. 32; printed
+p. 85), The Moon And Its Significance To Earth (printed
+p. 34); **The Land and Air**: Bhutan Our Country And
+Its Names (printed p. 27), Biomes Of The World (printed
+p. 133), Classification Of Glaciers (printed p. 69),
+Climate Of Bhutan (printed p. 38), Climatic Zones Of
+Bhutan (printed p. 9; printed p. 35), Condensation And
+Cloud Formation (printed p. 59), Earthquakes In Bhutan
+(printed p. 34), Ecosystems And How They Work (printed
+p. 59; printed p. 84; printed p. 56), Effects Of
+Volcanoes (printed p. 11), Electromagnetic Radiation
+And The Spectrum (printed p. 58), Energy Flow In
+Ecosystems (printed p. 79), Factors Affecting The Work
+Of A River (printed p. 59), Food Chains And Food Webs
+(printed p. 60), Formation Of The Himalayas (printed p.
+14), Genetic Classification Of Climate (printed p.
+101), Global Distribution Of Temperature (printed p.
+96), How Ecosystems Change (printed p. 92), Humidity
+And Its Measurement (printed p. 57), Importance Of
+Rivers In Bhutan (printed p. 16; printed p. 63),
+Insolation And Its Distribution (printed p. 93),
+Location Of Bhutan (printed p. 5), Major Rivers Of
+Bhutan (printed p. 14), Major Soil Groups Of The World
+(printed p. 52), Natural Vegetation Types Of Bhutan
+(printed p. 43), Physical Zones Of Bhutan (printed p.
+6), Precipitation Forms And Types (printed p. 66),
+Properties Of Soil (printed p. 50; printed p. 77), Soil
+Profile And Its Horizons (printed p. 49), Soils Of
+Bhutan (printed p. 38), Stages Of A Volcano Active
+Dormant Extinct (printed p. 36), Structure And Function
+Of Ecosystems (printed p. 86), Surveying Measuring The
+Land (printed p. 12), The Cycle Of Erosion (printed p.
+95), The Third Pole Himalayan Glaciers (printed p. 75),
+Traditional Knowledge On Weather (printed p. 20), Types
+Of Earthquakes (printed p. 20), Types Of Ecosystems
+(printed p. 89), Types Of Soil (printed p. 53; printed
+p. 36; printed p. 50), Types Of Surveying (printed p.
+13), Vertical Distribution Of Temperature (printed p.
+97); **Population, Transport and Maps**: Applications
+Of Remote Sensing (printed p. 63), Calculating Time
+From Longitude (printed p. 9; printed p. 20),
+Cartography The Art And Science Of Map Making (printed
+p. 10), Classification Of Urban Settlements (printed p.
+156), Consequences Of Migration (printed p. 108),
+Constructing And Choosing Map Projections (printed p.
+42), Factors Affecting Population Distribution (printed
+p. 71; printed p. 115), Fertility And Mortality Trends
+In Bhutan (printed p. 107), Hierarchy Of Settlements
+(printed p. 77), How Settlements Change (printed p.
+82), Impacts Of Population Change (printed p. 68), Map
+Projections And Their Properties (printed p. 40),
+Migration Trends In Bhutan (printed p. 109), Population
+Composition (printed p. 63), Population Dynamics
+(printed p. 117), Potentials And Limitations Of Remote
+Sensing (printed p. 62), Remote Sensing And Its
+Development (printed p. 55; printed p. 27), Spatial
+Distribution Of Settlements (printed p. 75), Types Of
+GIS (printed p. 36), Types Of Remote Sensing (printed
+p. 60), Working Age Population (printed p. 109);
+**People and Resources**: Alternative Sources Of Energy
+(printed p. 117), Development Of Industries (printed p.
+137), Distribution Of Industries In Bhutan (printed p.
+99), Energy Resources Conventional And Non Conventional
+(printed p. 125), Hydropower In Bhutan (printed p. 38;
+printed p. 115), Importance Of Soil (printed p. 40;
+printed p. 82), Loschs Central Place Theory (printed p.
+81), Manufacturing Industries In Bhutan (printed p.
+140), Mineral Resources And Their Uses (printed p. 66;
+printed p. 88), Minerals Of Bhutan (printed p. 33);
+**Culture and Work**: A House And A Home (printed p.
+2), Advancement In Agriculture (printed p. 45), Agro
+Ecological Zones And Farming In Bhutan (printed p. 99),
+Challenges Of Agriculture In Bhutan (printed p. 42),
+Challenges Of Creative Industries (printed p. 128),
+Creative Industries (printed p. 122), Development Of
+Agriculture In Bhutan (printed p. 87), Factors
+Influencing Agriculture (printed p. 102), Farming
+Systems (printed p. 96), Features Of Agriculture In
+Bhutan (printed p. 85), Money Saving And Banks (printed
+p. 67), National Holidays Of Bhutan (printed p. 35),
+Non Economic Activities (printed p. 57), Sacred Places
+Of Bhutan (printed p. 19), Scope Of Agriculture
+(printed p. 41; printed p. 89), Sources Of Income
+(printed p. 54), Sub Sectors Of Creative Industries In
+Bhutan (printed p. 123); **Resources and Conflict**:
+Bhutans Neighbouring Countries (printed p. 8),
+Community Forests In Bhutan (printed p. 17), Components
+Of The Environment (printed p. 76), Protected Areas Of
+Bhutan (printed p. 23), Waste Management (printed p.
+56); **Global Issues**: Causes And Effects Of Disasters
+(printed p. 97), Components Of Biodiversity (printed p.
+51), Conservation Of Biodiversity (printed p. 59),
+Disaster Management (printed p. 100; printed p. 111),
+Education In Emergencies (printed p. 114), Effects Of
+Natural Disasters (printed p. 169), Fire As A Disaster
+(printed p. 111), Flood As A Hazard (printed p. 61),
+Glacial Lake Outburst Floods In Bhutan (printed p. 44),
+Hazard And Disaster What They Are (printed p. 53;
+printed p. 69; printed p. 95; printed p. 159), Hazard
+Prediction (printed p. 172), Human Responses To Hazards
+And Disasters (printed p. 170), Impacts Of Industries
+(printed p. 101), Importance Of Biodiversity (printed
+p. 58), Lightning As A Hazard (printed p. 44), Major
+Disasters Of The World (printed p. 105), Potential
+Hazards And Disasters (printed p. 130), Threats To
+Biodiversity (printed p. 59), Types Of Disasters
+Natural And Human Induced (printed p. 71; printed p.
+161), Types Of Hazards And Disasters In Bhutan (printed
+p. 54; printed p. 107; printed p. 105), Windstorm As A
+Hazard (printed p. 60; printed p. 113) — all 119 new
+lessons are taught in 1 country (Bhutan), 8 questions
+each, each standing on Bhutan student book(s).
+Geography lessons: 2879 → 2998.

@@ -1,21 +1,31 @@
 # Sources — Making maps with GIS
 
-countries: Ethiopia, Bangladesh
+countries: Ethiopia, Bangladesh, Bhutan
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
 **Book 2:** *History and Social Science, Class Nine* (student book, Bangla + English parallel editions; the shared Class 9-10 SSC book) — Bangladesh, National Curriculum and Textbook Board (NCTB), Dhaka, Bangladesh; year 2023 (first published December 2023, for academic year 2024; National Curriculum 2022); no ISBN printed. Title as printed: History and Social Science, Class Nine (Experimental version) [Bangla: ইতিহাস ও সামাজিক বিজ্ঞান, নবম শ্রেণি] — the shared Class 9-10 SSC book. Grades 9-10 (student). 192 PDF pp. in the Bangla edition (cover/title page verified against the record title; printed p. = PDF p. - 7). Verdict: COMPLETE. Editions: Bangla read fully. The Grade 10 records are the SAME book: the grade-10 tree files have identical byte size and blob SHA to the grade-09 files (English 50,152,317 bytes, SHA d2a8d461e799677e306cfe71a92fd0637327ea1c; Bangla 8,397,648 bytes, SHA 43cedf3b16cdd5946012cc8c53cd143a848d5570), so this one read covers all four records (G9 Bangla, G9 English, G10 Bangla, G10 English); English spot-checked via a git sparse-checkout copy verified byte-for-byte against the record (50,152,317 bytes, blob SHA d2a8d461e799677e306cfe71a92fd0637327ea1c) — same content, placed once for all four records. Read via grab.py from the GitHub textbooks repo. (Combined History and Social Science book — Geography parts placed below; non-Geography parts named in the placements, not placed: Self-identity and Mental Behaviour — psychology, printed pp. 15-26; 'Bangladesh' and 'Bangabandhu': Humanist Stream and Non-communal Consciousness — history/civics, pp. 27-48; Political Structure and Civic Responsibility — civics, pp. 49-73; In Search of Political History in Global Context — history, pp. 74-83; Ways of Knowing History and the Problem of Periodisation — history method, pp. 84-92; The Diverse Course of Political History in the Bengal Region and Bangladesh — history, pp. 93-114; Social Structure in Personal Life — sociology, pp. 115-124; Production, Distribution of Wealth and the Principle of Equity — economics, pp. 157-183.) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bangladesh-placements.md.
+
+**Book 3:** *ADVANCED GEOGRAPHY CLASS XI* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Thimphu; year Provisional Edition 2022, Copyright 2023, Reprint 2024; ISBN no ISBN printed. Title as printed: ADVANCED GEOGRAPHY CLASS XI. Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 182 (cover/title page verified against the record title; byte size 19,627,789 and page count match the books.json record exactly — read via the record's ministry source URL; this book is also the TSV release record grade-11-gov-bhutan-geography-full-year.pdf, same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
+**Book 4:** *ADVANCED GEOGRAPHY CLASS XII* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Thimphu; year Provisional Edition 2023, Copyright 2023, Reprint 2024; ISBN no ISBN printed. Title as printed: ADVANCED GEOGRAPHY CLASS XII. Grade: Grade 12 (student/teacher: STUDENT). PDF pages: 144 (title page verified against the record title — PDF p.3, after a royal-message frontispiece; byte size 4,875,259 and page count match the books.json record exactly — read via the record's ministry source URL). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Analysis works the layers | G12 student #86, printed pp. 240–246 |
 | Sub lesson 2 — The finished products | G12 student #86, printed pp. 240–246 |
 | Bangladesh part (Grades 9-10) — Uses of GIS: farming, forest conservation, minerals, health planning, town planning, disaster management | Bangladesh, *History and Social Science, Class Nine* (the shared Class 9-10 SSC book), Grades 9-10, Uses of GIS: farming, forest conservation, minerals, health planning, town planning, disaster management — printed p. 137 |
+| Bhutan part — Ch.4 4.11 Applications of GIS | Bhutan, *Bhutan Grade 11 Geography*, Ch.4 4.11 Applications of GIS — printed p. 69 |
+| Bhutan part — Ch.3 3.6 Application of GIS | Bhutan, *Bhutan Grade 12 Geography*, Ch.3 3.6 Application of GIS — printed p. 38 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Bangladesh).**
+**Acceptance count: taught in 3 countries (Ethiopia, Bangladesh, Bhutan).**
 
 No book error in the placements for this lesson is taught here. Figures and dates are taught exactly as the placements report them, as the book's own record.
 
 Searchable tags: GIS analysis, map making, administrative maps, topographic maps, watershed maps, social studies
 
 Bangladesh's own way (Grades 9-10): the shared SSC book's big chapter "Living Together Safely" is a genuine geography course inside the combined book — land-use change read off 1988-vs-2017 Khulna maps, world population and density, remote sensing and GIS with its five components, settlement and urbanisation, desertification, and Bangladesh's own squeeze of limited land, dense population and climate risk.
+
+Bhutan's own way (Bhutan Grade 11 Geography): The Advanced level (XI–XII) is full academic geography — map projections, remote sensing and GIS, insolation and pressure belts, climate classification — with Bhutan applied chapters on agriculture, manufacturing and tourism, the last taught on Bhutan's own sustainability principle ("high value, low volume" in the Bhutan Tourism Monitor data the book uses).
+
+Bhutan's own way (Bhutan Grade 12 Geography): Class XII closes the Advanced course with specialist topics (surveying, geospatial technologies, glaciers and the "Third Pole", Köppen in full, fluvial processes, Davis's cycle of erosion) and Bhutan data chapters — fertility and mortality trends in Bhutan, migration trends, hydropower in Bhutan, and creative industries including Bhutanese film.

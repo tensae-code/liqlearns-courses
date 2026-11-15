@@ -1,6 +1,6 @@
 # Sources — Natural Resources — Using Resources Well
 
-countries: Ethiopia, United Arab Emirates, Turkey, Jamaica, Bahamas, Samoa, Eritrea, Rwanda, Fiji, Papua New Guinea, Venezuela, Jordan
+countries: Ethiopia, United Arab Emirates, Turkey, Jamaica, Bahamas, Samoa, Eritrea, Rwanda, Fiji, Papua New Guinea, Venezuela, Jordan, Bhutan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (placement 63).
 
@@ -36,6 +36,10 @@ countries: Ethiopia, United Arab Emirates, Turkey, Jamaica, Bahamas, Samoa, Erit
 
 **Book 17:** *الدراسات الاجتماعية — الصف السادس — الفصل الدراسي الثاني (Social Studies, Grade 6, Term 2)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; year 2025; ISBN 978-9923-41-870-3. Title as printed: الدراسات الاجتماعية — الصف السادس — الفصل الدراسي الثاني (Social Studies, Grade 6, Term 2). Grade: 6 (student/teacher: STUDENT). PDF pages: 128 (cover verified. READ ROUTE NOTE: same as Term 1 — books.json record claims in_pushed but grab.py tree returned HTTP 404; read from the record's recorded source minhaji.net/download/30117, 28,780,103 bytes, exactly the record's size_bytes. Staged into phase3-staging under the push-don't-delete rule — see group log.). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
 
+**Book 18:** *An Introduction to GEOGRAPHY Class VIII* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Royal Government of Bhutan, Thimphu; year Provisional Edition 2019, Copyright 2023, Reprint 2024; ISBN no ISBN printed. Title as printed: An Introduction to GEOGRAPHY Class VIII. Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 120 (cover/title page verified against the record title; byte size 9,992,518 and page count match the books.json record exactly — read via the record's ministry source URL). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
+**Book 19:** *ADVANCED GEOGRAPHY CLASS XI* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Thimphu; year Provisional Edition 2022, Copyright 2023, Reprint 2024; ISBN no ISBN printed. Title as printed: ADVANCED GEOGRAPHY CLASS XI. Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 182 (cover/title page verified against the record title; byte size 19,627,789 and page count match the books.json record exactly — read via the record's ministry source URL; this book is also the TSV release record grade-11-gov-bhutan-geography-full-year.pdf, same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Whole lesson opening — pupils name what is missing for an unused local resource | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 3, printed p. 83 |
@@ -58,8 +62,10 @@ countries: Ethiopia, United Arab Emirates, Turkey, Jamaica, Bahamas, Samoa, Erit
 | Venezuela part — Reciclaje y reutilización: un compromiso ambiental con nuestro país | Venezuela, *Venezuela Grade 11 G11 CS Geografía de Venezuela*, Reciclaje y reutilización: un compromiso ambiental con nuestro país — printed p. 236 |
 | Jordan part — Unit 5 Lesson 3: Rationalising Consumption (ترشيد الاستهلاك) | Jordan, *Jordan G2 SS T2*, Unit 5 Lesson 3: Rationalising Consumption (ترشيد الاستهلاك) — printed p. 66 |
 | Jordan part — Unit 8 Lesson 2: The Optimal Investment of Natural Resources (الاستثمار الأمثل للموارد الطبيعية) | Jordan, *Jordan G6 SS T2*, Unit 8 Lesson 2: The Optimal Investment of Natural Resources (الاستثمار الأمثل للموارد الطبيعية) — printed p. 67 |
+| Bhutan part — Ch.13 13.2 Conservation of Natural Resources | Bhutan, *Bhutan Grade 8 Geography*, Ch.13 13.2 Conservation of Natural Resources — printed p. 91 |
+| Bhutan part — Ch.11 11.6 Resource utilization and sustainable development | Bhutan, *Bhutan Grade 11 Geography*, Ch.11 11.6 Resource utilization and sustainable development — printed p. 132 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, United Arab Emirates, Turkey, Bahamas, Samoa, Eritrea, Rwanda, Fiji, Venezuela, Jordan). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 11 countries (Ethiopia, United Arab Emirates, Turkey, Bahamas, Samoa, Eritrea, Rwanda, Fiji, Venezuela, Jordan, Bhutan). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grades 7–9 Social Studies, curriculum guide — evidence): one guide carries all three secondary grades, each year mixing Civics, heritage and a strong resources-and-environment Geography spine — natural and human resources, movements of the Earth, Caribbean hazards, climate change, green technology and tourism — taught through Jamaican case material (bauxite communities, Caribbean disasters). That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
@@ -92,3 +98,7 @@ Venezuela's own way (Venezuela Grade 11 G11 CS Geografía de Venezuela): a final
 Jordan's own way (Jordan G2 SS T2): Term 2 teaches change over time (transport, housing, writing) and the child's economy (production, consumption, recycling, Jordanian-made goods), closing with the blue planet, Earth's surface shapes and a first map of Jordan.
 
 Jordan's own way (Jordan G6 SS T2): Term 2's geography is climate done properly — elements, effects on human activity, Jordan's own climate regions — plus economic concepts and three more governorate journeys (Mafraq, Balqa, Aqaba).
+
+Bhutan's own way (Bhutan Grade 8 Geography): Class VIII deepens the same three strands with real map-work (scale conversion, grid references, contours and profiles) and Bhutan-specific hazard and resource content, including the Rubesa wind turbine and hydroelectric dams as national resource examples.
+
+Bhutan's own way (Bhutan Grade 11 Geography): The Advanced level (XI–XII) is full academic geography — map projections, remote sensing and GIS, insolation and pressure belts, climate classification — with Bhutan applied chapters on agriculture, manufacturing and tourism, the last taught on Bhutan's own sustainability principle ("high value, low volume" in the Bhutan Tourism Monitor data the book uses).

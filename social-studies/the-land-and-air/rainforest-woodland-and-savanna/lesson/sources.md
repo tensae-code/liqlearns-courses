@@ -1,6 +1,6 @@
 # Sources — Rainforest, woodland and savanna
 
-countries: Ethiopia, Costa Rica, Bangladesh, Colombia, India, Fiji, Uzbekistan, Slovenia, Papua New Guinea, Uganda, Sudan, Sri Lanka, Pakistan, Iraq
+countries: Ethiopia, Costa Rica, Bangladesh, Colombia, India, Fiji, Uzbekistan, Slovenia, Papua New Guinea, Uganda, Sudan, Sri Lanka, Pakistan, Iraq, Bhutan
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -38,6 +38,8 @@ countries: Ethiopia, Costa Rica, Bangladesh, Colombia, India, Fiji, Uzbekistan, 
 
 **Book 18:** *الجغرافية الطبيعية للصف الخامس الأدبي (Natural Geography for the Fifth Literary Grade) — the record's "Geography (Literary Track)" is the same book: same grade and track, verified by cover and contents* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; revised by a committee in the Ministry of Education; year 1445 AH / 2023 CE, revised 13th edition (الطبعة الثالثة عشرة / المنقحة); ISBN no ISBN printed on the title pages. Title as printed: الجغرافية الطبيعية للصف الخامس الأدبي (Natural Geography for the Fifth Literary Grade) — the record's "Geography (Literary Track)" is the same book: same grade and track, verified by cover and contents. Grade: 11 (fifth secondary, literary track) (student/teacher: STUDENT). PDF pages: 162 (cover/title page verified as above; read via the books.json record's own Google Drive source file — same book, cover and contents verified — after the GitHub route failed). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iraq-placements.md.
 
+**Book 19:** *An Introduction to GEOGRAPHY Class VIII* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Royal Government of Bhutan, Thimphu; year Provisional Edition 2019, Copyright 2023, Reprint 2024; ISBN no ISBN printed. Title as printed: An Introduction to GEOGRAPHY Class VIII. Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 120 (cover/title page verified against the record title; byte size 9,992,518 and page count match the books.json record exactly — read via the record's ministry source URL). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Moist montane forest | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 3, printed pp. 77–79 |
@@ -59,8 +61,9 @@ countries: Ethiopia, Costa Rica, Bangladesh, Colombia, India, Fiji, Uzbekistan, 
 | Sri Lanka part — Ch. 1 Natural vegetation and wildlife by zone: tropical rainforest, temperate deciduous forest, coniferous taiga/tundra | Sri Lanka, *Sri Lanka Grade 9 G9 English*, Ch. 1 Natural vegetation and wildlife by zone: tropical rainforest, temperate deciduous forest, coniferous taiga/tundra — printed p. 12 |
 | Pakistan part — Rain Forest Region: location about 5° north to 5° south of the equator, climate (about 27 °C, rain all year), vegetation and human activities including slash and burn cultivation | Pakistan, *Pakistan Grade 8 Geography 8*, Rain Forest Region: location about 5° north to 5° south of the equator, climate (about 27 °C, rain all year), vegetation and human activities including slash and burn cultivation — printed pp. 50–51 |
 | Iraq part — Ch. 4: The forest regions — tropical forests and their distribution, monsoon forests, temperate forests, Mediterranean forests, and the cold forests (deciduous and coniferous) | Iraq, *Iraq Grade 11 Physical Geography*, Ch. 4: The forest regions — tropical forests and their distribution, monsoon forests, temperate forests, Mediterranean forests, and the cold forests (deciduous and coniferous) — printed p. 102 |
+| Bhutan part — Ch.9 9.1 Types of Natural Vegetation | Bhutan, *Bhutan Grade 8 Geography*, Ch.9 9.1 Types of Natural Vegetation — printed p. 55 |
 
-**Acceptance count: taught in 13 countries (Ethiopia, Costa Rica, Bangladesh, Colombia, India, Fiji, Uzbekistan, Slovenia, Uganda, Sudan, Sri Lanka, Pakistan, Iraq). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 14 countries (Ethiopia, Costa Rica, Bangladesh, Colombia, India, Fiji, Uzbekistan, Slovenia, Uganda, Sudan, Sri Lanka, Pakistan, Iraq, Bhutan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Costa Rica's own way: a distance-education anthology organised around "the human footprint on geographic space" — every unit opens with a generating question and objectives, and Costa Rica is used as the home case inside world topics (tropical forest conservation, food production problems). That way is stocked here as the way Costa Rica teaches this thing.
 
@@ -95,3 +98,5 @@ Sri Lanka's own way (Sri Lanka Grade 9 G9 English): the student companion to Boo
 Pakistan's own way (Pakistan Grade 8 Geography 8): the Urdu-medium twin of the English Geography course — deep map-and-graph craft first (dot and choropleth maps of Pakistan itself), then landform agents, oceans, a full Pakistan-anchored disaster chapter, the world's natural regions, Pakistan's own climate, its four neighbouring regions and strategic place, underdevelopment with Pakistan's own causes, and modern techniques down to Pak Sat-1.
 
 Iraq's own way (Iraq Grade 11 Physical Geography): a pure physical-geography course in six chapters — landforms, weather and climate, water, the biosphere, soil, and the environment — with Iraqi anchors kept throughout (flood visits to Iraq's rivers, the hills of northern Iraq, groundwater and the desert caravans, soil salinity in the alluvial plain).
+
+Bhutan's own way (Bhutan Grade 8 Geography): Class VIII deepens the same three strands with real map-work (scale conversion, grid references, contours and profiles) and Bhutan-specific hazard and resource content, including the Rubesa wind turbine and hydroelectric dams as national resource examples.

@@ -1,6 +1,6 @@
 # Sources — The Earth's Four Spheres
 
-countries: Ethiopia, Myanmar, Nauru, Tuvalu, Niue, Palestine, Angola, Dominican Republic, Malaysia, India, Fiji, Sudan, Venezuela, Kuwait, Iran, Yemen, Moldova, Honduras, Mozambique, Jordan, Iraq
+countries: Ethiopia, Myanmar, Nauru, Tuvalu, Niue, Palestine, Angola, Dominican Republic, Malaysia, India, Fiji, Sudan, Venezuela, Kuwait, Iran, Yemen, Moldova, Honduras, Mozambique, Jordan, Iraq, Bhutan
 
 **Book 3:** *Social Studies Teacher's Guide, Grade 7* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, first edition 2022 (© 2014 E.C.), 142 printed pp. Printed page = PDF page - 5. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-teacher-placements.md.
 
@@ -50,6 +50,8 @@ countries: Ethiopia, Myanmar, Nauru, Tuvalu, Niue, Palestine, Angola, Dominican 
 
 **Book 26:** *علم الأرض للصف الخامس العلمي (Earth Science / Geology for the Fifth Scientific Grade) — matches the record's "Earth Science (Scientific Track)"* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; authors named on the title page (Saad Salami Jassim, Waleed Abdul-Majeed Ahmed, Salam Ismail Marhoon, Nasha'a Majeed Jassim, Thaer Abd Ruomi, Loay Adnan Hassoun, Kholoud Mahdi Salem); year 1445 AH / 2023 CE, 7th edition (الطبعة السابعة); ISBN no ISBN printed on the title pages. Title as printed: علم الأرض للصف الخامس العلمي (Earth Science / Geology for the Fifth Scientific Grade) — matches the record's "Earth Science (Scientific Track)". Grade: 11 (fifth secondary, scientific track) (student/teacher: STUDENT). PDF pages: 132 (printed pagination runs 6 behind the PDF pages: printed p. 1 = PDF p. 7; cover/title page verified as above; read via the books.json record's own Google Drive source file — same book, cover and contents verified — after the GitHub route failed). Verdict: COMPLETE. Printed pagination runs 6 behind the PDF pages (printed p. 1 = PDF p. 7), as its header records. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iraq-placements.md.
 
+**Book 27:** *SOCIAL STUDIES CLASS VI* (student book, English) — Center for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; year Provisional Edition 2021, Revised 2025; ISBN no ISBN printed. Title as printed: SOCIAL STUDIES CLASS VI. Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 68 (cover/title page verified against the record title; byte size 1,628,115 and page count match the books.json record exactly — read via the record's ministry source URL after the grab.py tree route hung over 5 minutes on this book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson (teacher guide — evidence) | Ethiopia, *Social Studies Teacher's Guide, Grade 7*, Unit 1 (§1.3), printed pp. 8–10 |
@@ -78,8 +80,9 @@ countries: Ethiopia, Myanmar, Nauru, Tuvalu, Niue, Palestine, Angola, Dominican 
 | Jordan part — Unit 5 Lesson 1: Components of the Environment (مكونات البيئة) | Jordan, *Jordan G12 Geography T2*, Unit 5 Lesson 1: Components of the Environment (مكونات البيئة) — printed p. 54 |
 | Iraq part — Ch. 1: Earth's envelopes (أغلفة الأرض) — gaseous, liquid and solid | Iraq, *Iraq Grade 11 Physical Geography*, Ch. 1: Earth's envelopes (أغلفة الأرض) — gaseous, liquid and solid — printed p. 5 |
 | Iraq part — Ch. 1 The atmosphere: the Earth system (النظام الأرضي) — a set of interacting sub-systems (envelopes) | Iraq, *Iraq Grade 11 Earth Science*, Ch. 1 The atmosphere: the Earth system (النظام الأرضي) — a set of interacting sub-systems (envelopes) — printed p. 2 |
+| Bhutan part — 1.3 The Spheres of the Earth | Bhutan, *Bhutan Grade 6 Social Studies*, 1.3 The Spheres of the Earth — printed p. 3 |
 
-**Acceptance count: taught in 19 countries (Nauru, Tuvalu, Niue, Palestine, Angola, Dominican Republic, Malaysia, India, Fiji, Sudan, Venezuela, Kuwait, Iran, Yemen, Moldova, Honduras, Mozambique, Jordan, Iraq). Ethiopia and Myanmar are named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 20 countries (Nauru, Tuvalu, Niue, Palestine, Angola, Dominican Republic, Malaysia, India, Fiji, Sudan, Venezuela, Kuwait, Iran, Yemen, Moldova, Honduras, Mozambique, Jordan, Iraq, Bhutan). Ethiopia and Myanmar are named here as teacher-guide evidence only, counted nowhere.**
 
 Niue's own way: Niue uses the shared Pacific ESD reader suite (Niue advisor Birtha Togahai) — land Geography is taught through Pacific farming itself: taro, pulaka and the coconut "tree of life", with Niue's own crops, exports and name-story ("behold the coconut") as anchor examples, and shifting cultivation/fallowing taught as sound science. That way is stocked here as the way Niue teaches this thing.
 
@@ -130,3 +133,5 @@ Jordan's own way (Jordan G12 Geography T2): the final Geography term is climate 
 Iraq's own way (Iraq Grade 11 Physical Geography): a pure physical-geography course in six chapters — landforms, weather and climate, water, the biosphere, soil, and the environment — with Iraqi anchors kept throughout (flood visits to Iraq's rivers, the hills of northern Iraq, groundwater and the desert caravans, soil salinity in the alluvial plain).
 
 Iraq's own way (Iraq Grade 11 Earth Science): the scientific track's earth-science course — atmosphere, earthquakes and volcanoes, weathering and soil, environment and pollution, and fossils and geological time — bilingual with English technical terms throughout, and Iraqi touches kept (the air masses over Iraq, the yellow dust storms, Iraq's Natural History Museum).
+
+Bhutan's own way (Bhutan Grade 6 Social Studies): Grade 6 turns to Bhutan's own climate zones, population and signature environment topics — hydropower, urbanisation and glacial lake outburst floods (GLOF) — a hazard set specific to a Himalayan kingdom.

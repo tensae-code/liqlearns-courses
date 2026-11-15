@@ -1,6 +1,6 @@
 # Sources — The Atmosphere — Its Gases and Layers
 
-countries: Ethiopia, Myanmar, Turkey, Angola, Dominican Republic, Samoa, Colombia, India, Cambodia, Fiji, Sri Lanka, Mauritania, Yemen, Moldova, Mozambique, Jordan, Laos, Iraq
+countries: Ethiopia, Myanmar, Turkey, Angola, Dominican Republic, Samoa, Colombia, India, Cambodia, Fiji, Sri Lanka, Mauritania, Yemen, Moldova, Mozambique, Jordan, Laos, Iraq, Bhutan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -60,6 +60,12 @@ countries: Ethiopia, Myanmar, Turkey, Angola, Dominican Republic, Samoa, Colombi
 
 **Book 29:** *علم الأرض للصف الخامس العلمي (Earth Science / Geology for the Fifth Scientific Grade) — matches the record's "Earth Science (Scientific Track)"* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; authors named on the title page (Saad Salami Jassim, Waleed Abdul-Majeed Ahmed, Salam Ismail Marhoon, Nasha'a Majeed Jassim, Thaer Abd Ruomi, Loay Adnan Hassoun, Kholoud Mahdi Salem); year 1445 AH / 2023 CE, 7th edition (الطبعة السابعة); ISBN no ISBN printed on the title pages. Title as printed: علم الأرض للصف الخامس العلمي (Earth Science / Geology for the Fifth Scientific Grade) — matches the record's "Earth Science (Scientific Track)". Grade: 11 (fifth secondary, scientific track) (student/teacher: STUDENT). PDF pages: 132 (printed pagination runs 6 behind the PDF pages: printed p. 1 = PDF p. 7; cover/title page verified as above; read via the books.json record's own Google Drive source file — same book, cover and contents verified — after the GitHub route failed). Verdict: COMPLETE. Printed pagination runs 6 behind the PDF pages (printed p. 1 = PDF p. 7), as its header records. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iraq-placements.md.
 
+**Book 30:** *AN INTRODUCTION TO GEOGRAPHY CLASS VII* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Royal Government of Bhutan, Thimphu; year Provisional edition 2018, Copyright 2023, Reprint 2024; ISBN 975-99936-0-455-8 (as printed). Title as printed: AN INTRODUCTION TO GEOGRAPHY CLASS VII. Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 86 (cover/title page verified against the record title; byte size 5,663,043 and page count match the books.json record exactly — read via the record's ministry source URL after the grab.py route proved unreliable for this group). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
+**Book 31:** *An Introduction to GEOGRAPHY Class VIII* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Royal Government of Bhutan, Thimphu; year Provisional Edition 2019, Copyright 2023, Reprint 2024; ISBN no ISBN printed. Title as printed: An Introduction to GEOGRAPHY Class VIII. Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 120 (cover/title page verified against the record title; byte size 9,992,518 and page count match the books.json record exactly — read via the record's ministry source URL). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
+**Book 32:** *INTERMEDIATE GEOGRAPHY CLASS IX* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu (title page; developed with the Royal Education Council, Paro); year Reprint 2024 (page footers); ISBN no ISBN printed (no imprint page in the PDF). Title as printed: INTERMEDIATE GEOGRAPHY CLASS IX. Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 123 (cover/title page verified against the record title; byte size 10,807,956 and page count match the books.json record exactly — read via the record's ministry source URL). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The air blanket's recipe | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed p. 22 |
@@ -92,8 +98,11 @@ countries: Ethiopia, Myanmar, Turkey, Angola, Dominican Republic, Samoa, Colombi
 | Laos part — Part III Lesson 5: Layers of the atmosphere | Laos, *Laos Grade 6 laos-g06-geography-student*, Part III Lesson 5: Layers of the atmosphere — printed p. 23 |
 | Iraq part — Ch. 2: The layers of the atmosphere (شكل طبقات الغلاف الجوي) | Iraq, *Iraq Grade 11 Physical Geography*, Ch. 2: The layers of the atmosphere (شكل طبقات الغلاف الجوي) — printed p. 32 |
 | Iraq part — Ch. 1: The atmosphere (الغلاف الجوي) divided into layers by their differing properties | Iraq, *Iraq Grade 11 Earth Science*, Ch. 1: The atmosphere (الغلاف الجوي) divided into layers by their differing properties — printed p. 3 |
+| Bhutan part — Ch.7 7.3 Significance of Atmosphere | Bhutan, *Bhutan Grade 7 Geography*, Ch.7 7.3 Significance of Atmosphere — printed p. 36 |
+| Bhutan part — Ch.6 6.1 Composition of the Atmosphere | Bhutan, *Bhutan Grade 8 Geography*, Ch.6 6.1 Composition of the Atmosphere — printed p. 39 |
+| Bhutan part — Ch.6 6.2 Composition of the atmosphere | Bhutan, *Bhutan Grade 9 Geography*, Ch.6 6.2 Composition of the atmosphere — printed p. 45 |
 
-**Acceptance count: taught in 17 countries (Ethiopia, Turkey, Angola, Dominican Republic, Samoa, Colombia, India, Cambodia, Fiji, Sri Lanka, Mauritania, Yemen, Moldova, Mozambique, Jordan, Laos, Iraq). Myanmar is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 18 countries (Ethiopia, Turkey, Angola, Dominican Republic, Samoa, Colombia, India, Cambodia, Fiji, Sri Lanka, Mauritania, Yemen, Moldova, Mozambique, Jordan, Laos, Iraq, Bhutan). Myanmar is named here as teacher-guide evidence only, counted nowhere.**
 
 Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
@@ -154,3 +163,9 @@ Laos's own way (Laos Grade 6 laos-g06-geography-student): the student twin of Bo
 Iraq's own way (Iraq Grade 11 Physical Geography): a pure physical-geography course in six chapters — landforms, weather and climate, water, the biosphere, soil, and the environment — with Iraqi anchors kept throughout (flood visits to Iraq's rivers, the hills of northern Iraq, groundwater and the desert caravans, soil salinity in the alluvial plain).
 
 Iraq's own way (Iraq Grade 11 Earth Science): the scientific track's earth-science course — atmosphere, earthquakes and volcanoes, weathering and soil, environment and pollution, and fossils and geological time — bilingual with English technical terms throughout, and Iraqi touches kept (the air masses over Iraq, the yellow dust storms, Iraq's Natural History Museum).
+
+Bhutan's own way (Bhutan Grade 7 Geography): From Class VII Geography becomes a standalone subject organised in three strands (Time and Space; Physical Environment; People and Environment), every world topic closed with its Bhutan case — climate of Bhutan, vegetation types of Bhutan, minerals of Bhutan, and Bhutan's Himalayan disaster set (earthquake, flood, windstorm, fire, GLOF).
+
+Bhutan's own way (Bhutan Grade 8 Geography): Class VIII deepens the same three strands with real map-work (scale conversion, grid references, contours and profiles) and Bhutan-specific hazard and resource content, including the Rubesa wind turbine and hydroelectric dams as national resource examples.
+
+Bhutan's own way (Bhutan Grade 9 Geography): The Intermediate level (IX–X) treats each world topic at full textbook depth and keeps the Bhutan case inside it — Soils of Bhutan, agro-ecological zones and farming practices of Bhutan, and common disasters in Bhutan (including GLOF) alongside the world disaster survey.

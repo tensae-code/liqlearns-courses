@@ -1,6 +1,6 @@
 # Sources — Secondary activities — what manufacturing is
 
-countries: Ethiopia, Ukraine, Bolivia, Bangladesh, Dominican Republic, Bahamas, India, Cambodia, Sudan, Syria, Kuwait, Iran, Yemen, Mozambique, Jordan, Iraq, Nicaragua
+countries: Ethiopia, Ukraine, Bolivia, Bangladesh, Dominican Republic, Bahamas, India, Cambodia, Sudan, Syria, Kuwait, Iran, Yemen, Mozambique, Jordan, Iraq, Nicaragua, Bhutan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 2 — Population Studies and Socio-Economic Activities, printed pp. 44–76).
 
@@ -52,6 +52,8 @@ countries: Ethiopia, Ukraine, Bolivia, Bangladesh, Dominican Republic, Bahamas, 
 
 **Book 25:** *Ciencias Sociales 10 Grado, Educación Secundaria (PROSEN)* (student book, Spanish) — Ministerio de Educación (MINED), Nicaragua, with PROSEN / European Union support; year not printed (Primera Edición); ISBN no ISBN printed. Title as printed: Ciencias Sociales 10 Grado, Educación Secundaria (PROSEN). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 300 (cover/title page verified against the record title; byte size 106,780,055 matches the books.json record and the MINED source file). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nicaragua-placements.md.
 
+**Book 26:** *INTERMEDIATE GEOGRAPHY CLASS X* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu (title page; developed with the Royal Education Council, Paro); year Reprint 2024 (page footers); ISBN no ISBN printed (no imprint page in the PDF). Title as printed: INTERMEDIATE GEOGRAPHY CLASS X. Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 124 (cover/title page verified against the record title; byte size 12,820,771 and page count match the books.json record exactly — read via the record's ministry source URL; this book is also the TSV release record grade-10-gov-bhutan-geography-full-year.pdf, same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — From raw material to useful goods | Ethiopia, *Social Studies Student Textbook, Grade 8* (Amhara Bureau), printed p. 60 |
@@ -80,8 +82,9 @@ countries: Ethiopia, Ukraine, Bolivia, Bangladesh, Dominican Republic, Bahamas, 
 | Nicaragua part — Sector secundario: tipos de industria | Nicaragua, *Nicaragua Grade 10 CCSS Geografía 10*, Sector secundario: tipos de industria — printed p. 140 |
 | Nicaragua part — Sector industrial | Nicaragua, *Nicaragua Grade 7 Estudios Sociales G7 full-year*, Sector industrial — printed p. 92 |
 | Nicaragua part — Sector secundario: tipos de industria y la tecnología en la industria nicaragüense | Nicaragua, *Nicaragua Grade 10 Ciencias Sociales G10 full-year*, Sector secundario: tipos de industria y la tecnología en la industria nicaragüense — printed p. 121 |
+| Bhutan part — Ch.11 11.2 Industry | Bhutan, *Bhutan Grade 10 Geography*, Ch.11 11.2 Industry — printed p. 93 |
 
-**Acceptance count: taught in 17 countries (Ethiopia, Ukraine, Bolivia, Bangladesh, Dominican Republic, Bahamas, India, Cambodia, Sudan, Syria, Kuwait, Iran, Yemen, Mozambique, Jordan, Iraq, Nicaragua).**
+**Acceptance count: taught in 18 countries (Ethiopia, Ukraine, Bolivia, Bangladesh, Dominican Republic, Bahamas, India, Cambodia, Sudan, Syria, Kuwait, Iran, Yemen, Mozambique, Jordan, Iraq, Nicaragua, Bhutan).**
 
 Ukraine's own way: A "Geography: Regions and Countries" course — every region is done in the same order (position, nature/resources, population, primary/secondary/tertiary sectors) then typological country studies with rubrics (country visiting-card, capital, pride of the country, unique experience), ending with Ukraine's own place in the world; research tasks (Дослідження) embedded in chapters. That way is stocked here as the way Ukraine teaches this thing.
 
@@ -134,3 +137,5 @@ Nicaragua's own way (Nicaragua Grade 10 CCSS Geografía 10): A distance-learning
 Nicaragua's own way (Nicaragua Grade 7 Estudios Sociales G7 full-year): A full national Geography in five units — territorial patrimony and cartography, physical geography (relief, climate, hydrography, resources), population ("¿Cuántas mujeres, cuántos hombres?"), production, and a whole unit on natural-risk prevention — followed by six units of national History. Non-Geography parts named, not placed: Unit I state institutions (printed pp. 14–16, Civics); Unit VI origin societies (printed pp. 128–143, History, except the geographical-setting topic placed below); Unit VII European expansion and the Colony (printed pp. 148–165, History); Unit VIII Independence (printed pp. 170–184, History); Unit IX economic/political evolution 1857–1909 (printed pp. 190–205, History); Unit X defence of sovereignty and the Somoza period (printed pp. 210–233, History); Unit XI Nicaragua 1979 to the present (printed pp. 244–264, History).
 
 Nicaragua's own way (Nicaragua Grade 10 Ciencias Sociales G10 full-year): The full-year companion to the Grade 10 Geography module (Book 1): Units I–VI repeat and deepen the same national Geography (cartography, relief and geological provinces, climate and watersheds, population, economic sectors, territorial vulnerability and SINAPRED) in classroom form, and the book's second half is a full Economics course. Non-Geography parts named, not placed: Unit IV government anti-poverty programmes (printed p. 106, Civics/social policy); Units VII–XII Economics (printed pp. 156–285): utility of economics and socio-economic formations, what the country produces, price as market regulator, commercial exchange and the banking system, state economic policy, and integration in the face of globalisation.
+
+Bhutan's own way (Bhutan Grade 10 Geography): Class X pairs deep physical theory (Big Bang, plate tectonics, the making of the Himalayas) with an applied Bhutan block — climate and vegetation zones of Bhutan, Bhutanese agriculture's challenges and advancement, industries and their distribution, and a Bhutan disaster chapter that adds Education in Emergency.

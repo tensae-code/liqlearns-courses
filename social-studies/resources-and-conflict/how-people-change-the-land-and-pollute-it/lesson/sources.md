@@ -1,6 +1,6 @@
 # Sources — How people change the land — and pollute it
 
-countries: Ethiopia, Turkey, Nauru, Tuvalu, Niue, Jamaica, Angola, Colombia, Malaysia, Eritrea, Cambodia, Rwanda, Papua New Guinea, Uganda, Moldova, Mozambique, Jordan, Nicaragua
+countries: Ethiopia, Turkey, Nauru, Tuvalu, Niue, Jamaica, Angola, Colombia, Malaysia, Eritrea, Cambodia, Rwanda, Papua New Guinea, Uganda, Moldova, Mozambique, Jordan, Nicaragua, Bhutan
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -50,6 +50,14 @@ countries: Ethiopia, Turkey, Nauru, Tuvalu, Niue, Jamaica, Angola, Colombia, Mal
 
 **Book 24:** *Ciencias Sociales 10 Grado, Educación Secundaria (PROSEN)* (student book, Spanish) — Ministerio de Educación (MINED), Nicaragua, with PROSEN / European Union support; year not printed (Primera Edición); ISBN no ISBN printed. Title as printed: Ciencias Sociales 10 Grado, Educación Secundaria (PROSEN). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 300 (cover/title page verified against the record title; byte size 106,780,055 matches the books.json record and the MINED source file). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nicaragua-placements.md.
 
+**Book 25:** *SOCIAL STUDIES CLASS IV* (student book, English) — Center for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; year Provisional Edition 2019, Reprint 2025; ISBN no ISBN printed (blank ISBN line on imprint page). Title as printed: SOCIAL STUDIES CLASS IV. Grade: Grade 4 (student/teacher: STUDENT). PDF pages: 80 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
+**Book 26:** *SOCIAL STUDIES CLASS V* (student book, English) — Center for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; year Provisional Edition 2020, Reprint 2025; ISBN no ISBN printed (blank ISBN line on imprint page). Title as printed: SOCIAL STUDIES CLASS V. Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 78 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
+**Book 27:** *AN INTRODUCTION TO GEOGRAPHY CLASS VII* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Royal Government of Bhutan, Thimphu; year Provisional edition 2018, Copyright 2023, Reprint 2024; ISBN 975-99936-0-455-8 (as printed). Title as printed: AN INTRODUCTION TO GEOGRAPHY CLASS VII. Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 86 (cover/title page verified against the record title; byte size 5,663,043 and page count match the books.json record exactly — read via the record's ministry source URL after the grab.py route proved unreliable for this group). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
+**Book 28:** *An Introduction to GEOGRAPHY Class VIII* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Royal Government of Bhutan, Thimphu; year Provisional Edition 2019, Copyright 2023, Reprint 2024; ISBN no ISBN printed. Title as printed: An Introduction to GEOGRAPHY Class VIII. Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 120 (cover/title page verified against the record title; byte size 9,992,518 and page count match the books.json record exactly — read via the record's ministry source URL). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Modification | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 6, printed pp. 157–162 |
@@ -77,8 +85,12 @@ countries: Ethiopia, Turkey, Nauru, Tuvalu, Niue, Jamaica, Angola, Colombia, Mal
 | Jordan part — Unit 4 Lesson 4: Human Activities and Their Effect on the Environment (الأنشطة البشرية وأثرها في البيئة) | Jordan, *Jordan G4 SS T1*, Unit 4 Lesson 4: Human Activities and Their Effect on the Environment (الأنشطة البشرية وأثرها في البيئة) — printed p. 71 |
 | Jordan part — Unit 4 Lesson 3: Technological Development and Its Effect on the Environment (التطور التكنولوجي وأثره في النظام البيئي) | Jordan, *Jordan G10 Geography T2*, Unit 4 Lesson 3: Technological Development and Its Effect on the Environment (التطور التكنولوجي وأثره في النظام البيئي) — printed p. 24 |
 | Nicaragua part — Uso de la tecnología y el impacto ambiental | Nicaragua, *Nicaragua Grade 10 Ciencias Sociales G10 full-year*, Uso de la tecnología y el impacto ambiental — printed p. 119 |
+| Bhutan part — 9.2 Human activities | Bhutan, *Bhutan Grade 4 Social Studies*, 9.2 Human activities — printed p. 48 |
+| Bhutan part — 10.1 Human activities | Bhutan, *Bhutan Grade 5 Social Studies*, 10.1 Human activities — printed p. 53 |
+| Bhutan part — Ch.12 12.5 Human Impacts on natural environment | Bhutan, *Bhutan Grade 7 Geography*, Ch.12 12.5 Human Impacts on natural environment — printed p. 62 |
+| Bhutan part — Ch.12 12.4 Impacts of human activities | Bhutan, *Bhutan Grade 8 Geography*, Ch.12 12.4 Impacts of human activities — printed p. 83 |
 
-**Acceptance count: taught in 16 countries (Ethiopia, Turkey, Nauru, Tuvalu, Niue, Angola, Colombia, Malaysia, Eritrea, Cambodia, Rwanda, Uganda, Moldova, Mozambique, Jordan, Nicaragua). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 17 countries (Ethiopia, Turkey, Nauru, Tuvalu, Niue, Angola, Colombia, Malaysia, Eritrea, Cambodia, Rwanda, Uganda, Moldova, Mozambique, Jordan, Nicaragua, Bhutan). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grades 7–9 Social Studies, curriculum guide — evidence): one guide carries all three secondary grades, each year mixing Civics, heritage and a strong resources-and-environment Geography spine — natural and human resources, movements of the Earth, Caribbean hazards, climate change, green technology and tourism — taught through Jamaican case material (bauxite communities, Caribbean disasters). That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
@@ -125,3 +137,11 @@ Jordan's own way (Jordan G4 SS T1): Grade 4 Term 1 grounds the child in Jordania
 Jordan's own way (Jordan G10 Geography T2): Grade 10 Term 2 turns to the planet's problems and futures — climate change, impact assessment, sustainable development, energy — then tours the New World continent by continent.
 
 Nicaragua's own way (Nicaragua Grade 10 Ciencias Sociales G10 full-year): The full-year companion to the Grade 10 Geography module (Book 1): Units I–VI repeat and deepen the same national Geography (cartography, relief and geological provinces, climate and watersheds, population, economic sectors, territorial vulnerability and SINAPRED) in classroom form, and the book's second half is a full Economics course. Non-Geography parts named, not placed: Unit IV government anti-poverty programmes (printed p. 106, Civics/social policy); Units VII–XII Economics (printed pp. 156–285): utility of economics and socio-economic formations, what the country produces, price as market regulator, commercial exchange and the banking system, state economic policy, and integration in the face of globalisation.
+
+Bhutan's own way (Bhutan Grade 4 Social Studies): Social Studies IV–VI integrates Geography with Civics, Culture, Economics, History and Religion (Foreword); Geography is taught from the child's home, village and district outward, with Bhutanese materials (stone, mud, wood, straw houses) and local forest and hazard examples throughout.
+
+Bhutan's own way (Bhutan Grade 5 Social Studies): Grade 5 spirals from the Earth and lat/long straight into Bhutan itself — its location, three physical zones, neighbours, major rivers and protected areas — so world geography is anchored in the home country's map first.
+
+Bhutan's own way (Bhutan Grade 7 Geography): From Class VII Geography becomes a standalone subject organised in three strands (Time and Space; Physical Environment; People and Environment), every world topic closed with its Bhutan case — climate of Bhutan, vegetation types of Bhutan, minerals of Bhutan, and Bhutan's Himalayan disaster set (earthquake, flood, windstorm, fire, GLOF).
+
+Bhutan's own way (Bhutan Grade 8 Geography): Class VIII deepens the same three strands with real map-work (scale conversion, grid references, contours and profiles) and Bhutan-specific hazard and resource content, including the Rubesa wind turbine and hydroelectric dams as national resource examples.

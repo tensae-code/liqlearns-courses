@@ -1,6 +1,6 @@
 # Sources — Measuring temperature and rainfall
 
-countries: Ethiopia, Turkey, Dominican Republic, Colombia, Eritrea, India, Cambodia, Rwanda, Slovenia, Vietnam, Papua New Guinea, Uganda, Sri Lanka, Mauritania, Pakistan, Libya, Moldova, Mozambique, Iraq
+countries: Ethiopia, Turkey, Dominican Republic, Colombia, Eritrea, India, Cambodia, Rwanda, Slovenia, Vietnam, Papua New Guinea, Uganda, Sri Lanka, Mauritania, Pakistan, Libya, Moldova, Mozambique, Iraq, Bhutan
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -60,6 +60,12 @@ countries: Ethiopia, Turkey, Dominican Republic, Colombia, Eritrea, India, Cambo
 
 **Book 29:** *الجغرافية الطبيعية للصف الخامس الأدبي (Natural Geography for the Fifth Literary Grade) — the record's "Geography (Literary Track)" is the same book: same grade and track, verified by cover and contents* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; revised by a committee in the Ministry of Education; year 1445 AH / 2023 CE, revised 13th edition (الطبعة الثالثة عشرة / المنقحة); ISBN no ISBN printed on the title pages. Title as printed: الجغرافية الطبيعية للصف الخامس الأدبي (Natural Geography for the Fifth Literary Grade) — the record's "Geography (Literary Track)" is the same book: same grade and track, verified by cover and contents. Grade: 11 (fifth secondary, literary track) (student/teacher: STUDENT). PDF pages: 162 (cover/title page verified as above; read via the books.json record's own Google Drive source file — same book, cover and contents verified — after the GitHub route failed). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iraq-placements.md.
 
+**Book 30:** *SOCIAL STUDIES CLASS IV* (student book, English) — Center for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; year Provisional Edition 2019, Reprint 2025; ISBN no ISBN printed (blank ISBN line on imprint page). Title as printed: SOCIAL STUDIES CLASS IV. Grade: Grade 4 (student/teacher: STUDENT). PDF pages: 80 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
+**Book 31:** *INTERMEDIATE GEOGRAPHY CLASS IX* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu (title page; developed with the Royal Education Council, Paro); year Reprint 2024 (page footers); ISBN no ISBN printed (no imprint page in the PDF). Title as printed: INTERMEDIATE GEOGRAPHY CLASS IX. Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 123 (cover/title page verified against the record title; byte size 10,807,956 and page count match the books.json record exactly — read via the record's ministry source URL). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
+**Book 32:** *ADVANCED GEOGRAPHY CLASS XII* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Thimphu; year Provisional Edition 2023, Copyright 2023, Reprint 2024; ISBN no ISBN printed. Title as printed: ADVANCED GEOGRAPHY CLASS XII. Grade: Grade 12 (student/teacher: STUDENT). PDF pages: 144 (title page verified against the record title — PDF p.3, after a royal-message frontispiece; byte size 4,875,259 and page count match the books.json record exactly — read via the record's ministry source URL). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Thermometers | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 2, printed pp. 53–55 |
@@ -97,8 +103,11 @@ countries: Ethiopia, Turkey, Dominican Republic, Colombia, Eritrea, India, Cambo
 | Iraq part — Unit 1 Ch. 1: Rainfall (الأمطار) — the Mediterranean depressions and orographic rain (activity on rain and relief) | Iraq, *Iraq Grade 9 Social Studies*, Unit 1 Ch. 1: Rainfall (الأمطار) — the Mediterranean depressions and orographic rain (activity on rain and relief) — printed p. 21 |
 | Iraq part — Ch. 2: Temperature — daily averages, and the factors in temperature, including altitude | Iraq, *Iraq Grade 11 Physical Geography*, Ch. 2: Temperature — daily averages, and the factors in temperature, including altitude — printed p. 35 |
 | Iraq part — Ch. 2: Forms of precipitation — orographic rain (الأمطار التضاريسية) and hail | Iraq, *Iraq Grade 11 Physical Geography*, Ch. 2: Forms of precipitation — orographic rain (الأمطار التضاريسية) and hail — printed p. 60 |
+| Bhutan part — 3.3 Weather instruments | Bhutan, *Bhutan Grade 4 Social Studies*, 3.3 Weather instruments — printed p. 17 |
+| Bhutan part — Ch.6 6.4 Weather instruments | Bhutan, *Bhutan Grade 9 Geography*, Ch.6 6.4 Weather instruments — printed p. 52 |
+| Bhutan part — Ch.6 6.2 Temperature (measurement) | Bhutan, *Bhutan Grade 12 Geography*, Ch.6 6.2 Temperature (measurement) — printed p. 56 |
 
-**Acceptance count: taught in 18 countries (Ethiopia, Turkey, Dominican Republic, Colombia, Eritrea, India, Cambodia, Rwanda, Slovenia, Vietnam, Uganda, Sri Lanka, Mauritania, Pakistan, Libya, Moldova, Mozambique, Iraq). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 19 countries (Ethiopia, Turkey, Dominican Republic, Colombia, Eritrea, India, Cambodia, Rwanda, Slovenia, Vietnam, Uganda, Sri Lanka, Mauritania, Pakistan, Libya, Moldova, Mozambique, Iraq, Bhutan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
@@ -155,3 +164,9 @@ Iraq's own way (Iraq Grade 5 Social Studies): the whole first unit is Iraq's own
 Iraq's own way (Iraq Grade 9 Social Studies): Grade 9 returns to Iraq for the fullest treatment yet — the same national geography as Grade 5 but measured: the plain is 24% and about 600 km long, the desert plateau about 55%, the desert plant belt about 70%, two-thirds of the people live on the central and southern plain; every topic is pinned to numbered maps of Iraq.
 
 Iraq's own way (Iraq Grade 11 Physical Geography): a pure physical-geography course in six chapters — landforms, weather and climate, water, the biosphere, soil, and the environment — with Iraqi anchors kept throughout (flood visits to Iraq's rivers, the hills of northern Iraq, groundwater and the desert caravans, soil salinity in the alluvial plain).
+
+Bhutan's own way (Bhutan Grade 4 Social Studies): Social Studies IV–VI integrates Geography with Civics, Culture, Economics, History and Religion (Foreword); Geography is taught from the child's home, village and district outward, with Bhutanese materials (stone, mud, wood, straw houses) and local forest and hazard examples throughout.
+
+Bhutan's own way (Bhutan Grade 9 Geography): The Intermediate level (IX–X) treats each world topic at full textbook depth and keeps the Bhutan case inside it — Soils of Bhutan, agro-ecological zones and farming practices of Bhutan, and common disasters in Bhutan (including GLOF) alongside the world disaster survey.
+
+Bhutan's own way (Bhutan Grade 12 Geography): Class XII closes the Advanced course with specialist topics (surveying, geospatial technologies, glaciers and the "Third Pole", Köppen in full, fluvial processes, Davis's cycle of erosion) and Bhutan data chapters — fertility and mortality trends in Bhutan, migration trends, hydropower in Bhutan, and creative industries including Bhutanese film.

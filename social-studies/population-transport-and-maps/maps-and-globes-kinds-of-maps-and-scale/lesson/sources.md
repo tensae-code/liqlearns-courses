@@ -1,6 +1,6 @@
 # Sources — Maps and globes — kinds of maps and scale
 
-countries: Ethiopia, France, Myanmar, Haiti, Costa Rica, Ecuador, Palestine, Bahamas, Zimbabwe, Colombia, India, Fiji, Uzbekistan, Papua New Guinea, Uganda, Mauritania, Kuwait, Afghanistan, Yemen, Pakistan, Moldova, Honduras, Nepal, Jordan, Iraq, Nicaragua
+countries: Ethiopia, France, Myanmar, Haiti, Costa Rica, Ecuador, Palestine, Bahamas, Zimbabwe, Colombia, India, Fiji, Uzbekistan, Papua New Guinea, Uganda, Mauritania, Kuwait, Afghanistan, Yemen, Pakistan, Moldova, Honduras, Nepal, Jordan, Iraq, Nicaragua, Bhutan
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 2, placements 27–43).
 
@@ -86,6 +86,8 @@ countries: Ethiopia, France, Myanmar, Haiti, Costa Rica, Ecuador, Palestine, Bah
 
 **Book 42:** *Ciencias Sociales 10 Grado, Educación Secundaria (PROSEN)* (student book, Spanish) — Ministerio de Educación (MINED), Nicaragua, with PROSEN / European Union support; year not printed (Primera Edición); ISBN no ISBN printed. Title as printed: Ciencias Sociales 10 Grado, Educación Secundaria (PROSEN). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 300 (cover/title page verified against the record title; byte size 106,780,055 matches the books.json record and the MINED source file). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nicaragua-placements.md.
 
+**Book 43:** *INTERMEDIATE GEOGRAPHY CLASS IX* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu (title page; developed with the Royal Education Council, Paro); year Reprint 2024 (page footers); ISBN no ISBN printed (no imprint page in the PDF). Title as printed: INTERMEDIATE GEOGRAPHY CLASS IX. Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 123 (cover/title page verified against the record title; byte size 10,807,956 and page count match the books.json record exactly — read via the record's ministry source URL). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Kinds of maps by message | Ethiopia, *Social Studies Student Textbook, Grade 7* (Amhara Bureau), printed pp. 49–50 |
@@ -126,6 +128,7 @@ countries: Ethiopia, France, Myanmar, Haiti, Costa Rica, Ecuador, Palestine, Bah
 | Nicaragua part — Diferentes tipos de mapas (representación cartográfica) | Nicaragua, *Nicaragua Grade 8 CCSS Módulo Autoformativo G8*, Diferentes tipos de mapas (representación cartográfica) — printed p. 10 |
 | Nicaragua part — Diferentes tipos de mapas (representaciones cartográficas) | Nicaragua, *Nicaragua Grade 9 CCSS Geografía Módulo G9*, Diferentes tipos de mapas (representaciones cartográficas) — printed p. 3 |
 | Nicaragua part — El mapa: lectura de un mapa y tipos de mapas | Nicaragua, *Nicaragua Grade 10 Ciencias Sociales G10 full-year*, El mapa: lectura de un mapa y tipos de mapas — printed p. 3 |
+| Bhutan part — Ch.4 4.2 Types of maps | Bhutan, *Bhutan Grade 9 Geography*, Ch.4 4.2 Types of maps — printed p. 24 |
 
 | France part — Thème 2 Bilan/Évaluation: Cartographier — dessiner les dynamiques et les inégalités du territoire français (croquis, construire la légende) | France, *Géographie 2de GT, Manuel Libre de Géographie, Seconde*, Grade 10, Sommaire Thème 2 |
 | Different types of maps — Myanmar way: 5.1 (teacher guide — evidence) | Myanmar, *Teacher Guide — Geography — Grade 6* (teacher guide), §5.1, printed p. 78 |
@@ -133,7 +136,7 @@ countries: Ethiopia, France, Myanmar, Haiti, Costa Rica, Ecuador, Palestine, Bah
 | Costa Rica part — map-work — main sellers and buyers of timber in the world (flow map); production maps of Europe and Africa compared | Costa Rica, *Estudios Sociales 11 (Porras y Gamboa)*, Grade 11, Unit 1 B practicals — printed p. 24 |
 | Ecuador part — Estudios cartográficos para entender geografía (cartographic studies: map concepts and practice) | Ecuador, *Estudios Sociales 8vo EGB*, Grade 8, Estudios cartográficos para entender geografía (cartographic studies: map concepts and practice) — printed p. 99 |
 
-**Acceptance count: taught in 21 countries (Ethiopia, France, Costa Rica, Ecuador, Palestine, Bahamas, Colombia, India, Fiji, Uzbekistan, Mauritania, Kuwait, Afghanistan, Yemen, Pakistan, Moldova, Honduras, Nepal, Jordan, Iraq, Nicaragua). Myanmar is named here as teacher-guide evidence only, counted nowhere. Haiti is named here as teacher-sequence evidence only, counted nowhere. Zimbabwe is named here as teacher-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere. Uganda is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 22 countries (Ethiopia, France, Costa Rica, Ecuador, Palestine, Bahamas, Colombia, India, Fiji, Uzbekistan, Mauritania, Kuwait, Afghanistan, Yemen, Pakistan, Moldova, Honduras, Nepal, Jordan, Iraq, Nicaragua, Bhutan). Myanmar is named here as teacher-guide evidence only, counted nowhere. Haiti is named here as teacher-sequence evidence only, counted nowhere. Zimbabwe is named here as teacher-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere. Uganda is named here as teacher-guide evidence only, counted nowhere.**
 
 Haiti's own way (teacher sequence — evidence): Geography opens with representing the Earth itself — globe-to-flat projection problems, orientation practised on the ground with compass/GPS/Google Maps, and time-zone puzzles worked on Haiti's own links (midday shared with Québec, 18h in Paris, Port-au-Prince–Paris flights); every séance ends in a croquis, a glossary and field observation. That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
@@ -220,3 +223,5 @@ Nicaragua's own way (Nicaragua Grade 8 CCSS Módulo Autoformativo G8): The dista
 Nicaragua's own way (Nicaragua Grade 9 CCSS Geografía Módulo G9): A pure-Geography self-study module (no History/Civics in this book): the Grade 9 world-Geography course taught continent by continent — position and political organisation, physical landscape, human diversity, production and consumption, and a closing planet-care unit on prevention and mitigation — with Nicaragua used as the home reference point throughout.
 
 Nicaragua's own way (Nicaragua Grade 10 Ciencias Sociales G10 full-year): The full-year companion to the Grade 10 Geography module (Book 1): Units I–VI repeat and deepen the same national Geography (cartography, relief and geological provinces, climate and watersheds, population, economic sectors, territorial vulnerability and SINAPRED) in classroom form, and the book's second half is a full Economics course. Non-Geography parts named, not placed: Unit IV government anti-poverty programmes (printed p. 106, Civics/social policy); Units VII–XII Economics (printed pp. 156–285): utility of economics and socio-economic formations, what the country produces, price as market regulator, commercial exchange and the banking system, state economic policy, and integration in the face of globalisation.
+
+Bhutan's own way (Bhutan Grade 9 Geography): The Intermediate level (IX–X) treats each world topic at full textbook depth and keeps the Bhutan case inside it — Soils of Bhutan, agro-ecological zones and farming practices of Bhutan, and common disasters in Bhutan (including GLOF) alongside the world disaster survey.

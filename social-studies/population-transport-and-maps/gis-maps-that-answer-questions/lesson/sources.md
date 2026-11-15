@@ -1,6 +1,6 @@
 # Sources — GIS — maps that answer questions
 
-countries: Ethiopia, Haiti, Bangladesh, Egypt, Sudan, Syria, Afghanistan, Pakistan, Libya, Moldova, Nepal, Jordan
+countries: Ethiopia, Haiti, Bangladesh, Egypt, Sudan, Syria, Afghanistan, Pakistan, Libya, Moldova, Nepal, Jordan, Bhutan
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -32,6 +32,10 @@ countries: Ethiopia, Haiti, Bangladesh, Egypt, Sudan, Syria, Afghanistan, Pakist
 
 **Book 15:** *الدراسات الاجتماعية — الصف الثامن — الفصل الدراسي الثاني (Social Studies, Grade 8, Term 2)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; year 2024; ISBN 978-9923-41-706-5. Title as printed: الدراسات الاجتماعية — الصف الثامن — الفصل الدراسي الثاني (Social Studies, Grade 8, Term 2). Grade: 8 (student/teacher: STUDENT). PDF pages: 148 (cover verified; byte size 70,646,723 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
 
+**Book 16:** *ADVANCED GEOGRAPHY CLASS XI* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Thimphu; year Provisional Edition 2022, Copyright 2023, Reprint 2024; ISBN no ISBN printed. Title as printed: ADVANCED GEOGRAPHY CLASS XI. Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 182 (cover/title page verified against the record title; byte size 19,627,789 and page count match the books.json record exactly — read via the record's ministry source URL; this book is also the TSV release record grade-11-gov-bhutan-geography-full-year.pdf, same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
+**Book 17:** *ADVANCED GEOGRAPHY CLASS XII* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Thimphu; year Provisional Edition 2023, Copyright 2023, Reprint 2024; ISBN no ISBN printed. Title as printed: ADVANCED GEOGRAPHY CLASS XII. Grade: Grade 12 (student/teacher: STUDENT). PDF pages: 144 (title page verified against the record title — PDF p.3, after a royal-message frontispiece; byte size 4,875,259 and page count match the books.json record exactly — read via the record's ministry source URL). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What GIS is | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 8, printed pp. 230–231 |
@@ -51,8 +55,10 @@ countries: Ethiopia, Haiti, Bangladesh, Egypt, Sudan, Syria, Afghanistan, Pakist
 | Nepal part — Earth Unit Lesson 12: Modern technology related to maps (teacher guide — evidence) | Nepal, *Nepal Grade 10 TG np-g10tg* (teacher guide), Earth Unit Lesson 12: Modern technology related to maps — TG p. 128 |
 | Nepal part — Unit 5 Lesson 10: Use of the geo-information system in social mapping | Nepal, *Nepal Grade 12 np-g12*, Unit 5 Lesson 10: Use of the geo-information system in social mapping — printed p. 143 |
 | Jordan part — Unit 9 Lesson 3: Geographic Information Systems (نظم المعلومات الجغرافية) | Jordan, *Jordan G8 SS T2*, Unit 9 Lesson 3: Geographic Information Systems (نظم المعلومات الجغرافية) — printed p. 70 |
+| Bhutan part — Ch.4 Geographic Information System | Bhutan, *Bhutan Grade 11 Geography*, Ch.4 Geographic Information System — printed p. 65 |
+| Bhutan part — Ch.3 3.4 Geographic Information System (GIS) | Bhutan, *Bhutan Grade 12 Geography*, Ch.3 3.4 Geographic Information System (GIS) — printed p. 32 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Bangladesh, Egypt, Sudan, Syria, Afghanistan, Pakistan, Libya, Moldova, Nepal, Jordan). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 12 countries (Ethiopia, Bangladesh, Egypt, Sudan, Syria, Afghanistan, Pakistan, Libya, Moldova, Nepal, Jordan, Bhutan). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
 
 Haiti's own way (teacher sequence — evidence): Geography opens with representing the Earth itself — globe-to-flat projection problems, orientation practised on the ground with compass/GPS/Google Maps, and time-zone puzzles worked on Haiti's own links (midday shared with Québec, 18h in Paris, Port-au-Prince–Paris flights); every séance ends in a croquis, a glossary and field observation. That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
@@ -83,3 +89,7 @@ Nepal's own way (Nepal Grade 10 TG np-g10tg) (teacher guide — evidence): The g
 Nepal's own way (Nepal Grade 12 np-g12): Grade 12 geography is federal and applied — each of Nepal's provinces studied four ways (administration, population, social-cultural life, economy) plus inter-provincial relations; disasters in Nepal with the national disaster-management system and plan-making; GIS/geo-information in social mapping; and a full urbanisation-and-migration unit (village–city relations, safe and dignified migration, migration effects).
 
 Jordan's own way (Jordan G8 SS T2): Term 2 gives maps their own technology unit — map types, aerial and satellite images, GIS — and closes with three more governorate journeys (Madaba, Tafila, Ajloun), completing all 12 governorates across Grades 5–8.
+
+Bhutan's own way (Bhutan Grade 11 Geography): The Advanced level (XI–XII) is full academic geography — map projections, remote sensing and GIS, insolation and pressure belts, climate classification — with Bhutan applied chapters on agriculture, manufacturing and tourism, the last taught on Bhutan's own sustainability principle ("high value, low volume" in the Bhutan Tourism Monitor data the book uses).
+
+Bhutan's own way (Bhutan Grade 12 Geography): Class XII closes the Advanced course with specialist topics (surveying, geospatial technologies, glaciers and the "Third Pole", Köppen in full, fluvial processes, Davis's cycle of erosion) and Bhutan data chapters — fertility and mortality trends in Bhutan, migration trends, hydropower in Bhutan, and creative industries including Bhutanese film.

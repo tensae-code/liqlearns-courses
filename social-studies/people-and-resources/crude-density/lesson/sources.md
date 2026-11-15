@@ -1,6 +1,6 @@
 # Sources — Crude Density
 
-countries: Ethiopia, Morocco, Eritrea, Slovenia, Uganda, Sudan, Kuwait, Pakistan, Libya, Mozambique
+countries: Ethiopia, Morocco, Eritrea, Slovenia, Uganda, Sudan, Kuwait, Pakistan, Libya, Mozambique, Bhutan
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (placement 48).
 
@@ -24,6 +24,8 @@ countries: Ethiopia, Morocco, Eritrea, Slovenia, Uganda, Sudan, Kuwait, Pakistan
 
 **Book 11:** *Módulo 2 de Geografia (GEOGRAFIA — MÓDULO 2, PESD I)* (student book, Portuguese) — MINEDH / IEDA; year 2023; no ISBN printed. Title as printed: Módulo 2 de Geografia (GEOGRAFIA — MÓDULO 2, PESD I). Grade: Grades 7–9 cycle, filed as Grade 7 (student/teacher: STUDENT). PDF pages: 167 (cover verified against the record title; byte size 6,444,493 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE (note: Lição 13's body heading mistakenly repeats "actividade pecuária" wording from Lição 16 — the book's own copy error; content and summary are the agriculture environmental-problems lesson as titled). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
 
+**Book 12:** *INTERMEDIATE GEOGRAPHY CLASS IX* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu (title page; developed with the Royal Education Council, Paro); year Reprint 2024 (page footers); ISBN no ISBN printed (no imprint page in the PDF). Title as printed: INTERMEDIATE GEOGRAPHY CLASS IX. Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 123 (cover/title page verified against the record title; byte size 10,807,956 and page count match the books.json record exactly — read via the record's ministry source URL). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Density and the four bands — density is people per km²: over 100 high, 21–100 medium, 5–20 low, under 5 counted as uninhabited | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 3, printed p. 65 |
@@ -39,8 +41,9 @@ countries: Ethiopia, Morocco, Eritrea, Slovenia, Uganda, Sudan, Kuwait, Pakistan
 | Pakistan part — Population density and its formula (density = total population ÷ total area), with world density map | Pakistan, *Pakistan Grade 5 SS5*, Population density and its formula (density = total population ÷ total area), with world density map — printed pp. 81–82 |
 | Libya part — Ch.5: الكثافة السكانية — Population density in the Arab World | Libya, *Libya Grade 8 LY G8 Arab World*, Ch.5: الكثافة السكانية — Population density in the Arab World — printed p. 57 |
 | Mozambique part — Lição 1: densidade populacional with worked calculation | Mozambique, *Mozambique Grade 7 PESD I Mod 2*, Lição 1: densidade populacional with worked calculation — printed p. 11 |
+| Bhutan part — Ch.8 8.2 Population Density | Bhutan, *Bhutan Grade 9 Geography*, Ch.8 8.2 Population Density — printed p. 68 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Eritrea, Slovenia, Uganda, Sudan, Kuwait, Pakistan, Libya, Mozambique). Morocco is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 10 countries (Ethiopia, Eritrea, Slovenia, Uganda, Sudan, Kuwait, Pakistan, Libya, Mozambique, Bhutan). Morocco is named here as teacher-guide evidence only, counted nowhere.**
 
 Morocco's own way (teacher guide — evidence): in Morocco's Year 5 guide, population density is met inside "Population in my homeland — distribution and structure", where the meaning of population density belongs to reading the homeland's own population — its distribution read from Morocco's density map is stocked as its own lesson (Morocco's Population Distribution). That evidence is stocked here as the way Morocco teaches this thing; it does not change the acceptance count above.
 
@@ -65,3 +68,5 @@ Pakistan's own way (Pakistan Grade 5 SS5): the Class 5 Geography chapter (Ch.5, 
 Libya's own way (Libya Grade 8 LY G8 Arab World): The scale widens from Libya (Grade 7) to the whole Arab homeland: one regional geography — location and strategic importance, relief, climate, vegetation, population, economic resources and transport — closed by a full unit on the Arab food problem and food security.
 
 Mozambique's own way (Mozambique Grade 7 PESD I Mod 2): human/economic geography organised sector by sector — population first, then each economic activity taught world-then-Mozambique (agriculture, livestock, fishing, forestry, industry, commerce, tourism, transport), with Mozambique's own distribution tables, ports and exports as the local evidence.
+
+Bhutan's own way (Bhutan Grade 9 Geography): The Intermediate level (IX–X) treats each world topic at full textbook depth and keeps the Bhutan case inside it — Soils of Bhutan, agro-ecological zones and farming practices of Bhutan, and common disasters in Bhutan (including GLOF) alongside the world disaster survey.

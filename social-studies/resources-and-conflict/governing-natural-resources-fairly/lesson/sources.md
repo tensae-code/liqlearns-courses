@@ -1,6 +1,6 @@
 # Sources — Governing natural resources fairly
 
-countries: Ethiopia, Samoa, Colombia, Papua New Guinea
+countries: Ethiopia, Samoa, Colombia, Papua New Guinea, Bhutan
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Samoa, Colombia, Papua New Guinea
 
 **Book 6:** *Social Science Teacher Guide — Junior High Grade 10, Standards-Based* (teacher guide, English) — Department of Education, Papua New Guinea; year 2020; ISBN 978-9980-905-94-9. Title as printed: Social Science Teacher Guide — Junior High Grade 10, Standards-Based. Grade: Grade 10 (student/teacher: TEACHER). PDF pages: 338 (cover/title page verified against the record title). Verdict: COMPLETE. Teacher guides read full page-by-page via pdftotext -layout after cover verification; books were fetched from their recorded ministry source_urls (education.gov.pg, as recorded in the books.json records) with resumable curl and each file was verified against the record's exact size_bytes and page count before reading — identical bytes to the pushed copies by size + pages + cover, as the placements file records. Records: 22 records / 11 distinct books (11 TSV records + 11 books.json records that are the same books by repo path — each pair read once). (combined book — Geography parts placed below; non-Geography parts named in the placements, not placed: Strand 2 History (History), printed pp. 93–151; Strand 3 Political Science (Civics), printed pp. 152–195; Strand 4 Economics (Economics), printed pp. 196–249.) Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/papua-new-guinea-placements.md.
 
+**Book 7:** *ADVANCED GEOGRAPHY CLASS XI* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Thimphu; year Provisional Edition 2022, Copyright 2023, Reprint 2024; ISBN no ISBN printed. Title as printed: ADVANCED GEOGRAPHY CLASS XI. Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 182 (cover/title page verified against the record title; byte size 19,627,789 and page count match the books.json record exactly — read via the record's ministry source URL; this book is also the TSV release record grade-11-gov-bhutan-geography-full-year.pdf, same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What governance is — and who pays | G12 student #42, printed pp. 81–83 |
@@ -24,8 +26,9 @@ countries: Ethiopia, Samoa, Colombia, Papua New Guinea
 | Papua New Guinea part — Strand 1 Unit 4 Environmental Sustainability: Environment protection policies, Lessons 38–40 (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 7 Social Science TG* (teacher guide), Strand 1 Unit 4 Environmental Sustainability: Environment protection policies, Lessons 38–40 — printed p. 47 |
 | Papua New Guinea part — Strand 5 Environment, Unit 1 Resources and Environments, Topic 1: Resource use and management (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 10 Social Science TG* (teacher guide), Strand 5 Environment, Unit 1 Resources and Environments, Topic 1: Resource use and management — printed p. 250 |
 | Papua New Guinea part — Strand 5 Unit 4, Topic 2: Influence of political systems on the environment (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 10 Social Science TG* (teacher guide), Strand 5 Unit 4, Topic 2: Influence of political systems on the environment — printed p. 281 |
+| Bhutan part — Ch.11 11.5 Approaches to Resources Management | Bhutan, *Bhutan Grade 11 Geography*, Ch.11 11.5 Approaches to Resources Management — printed p. 131 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Samoa, Colombia). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 4 countries (Ethiopia, Samoa, Colombia, Bhutan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 No book error in the placements for this lesson is taught here. Rights instruments are taught exactly as the placements report them.
 
@@ -40,3 +43,5 @@ Colombia's own way (CS_Grado6 Postprimaria): the rural Postprimaria Grade 6 guid
 Papua New Guinea's own way (Papua New Guinea Grade 7 Social Science TG) (teacher guide — evidence): Environment and Resources now turns national — formation of PNG's mountains, islands and rivers; PNG's population and migration; its mineral, marine and agricultural resources and how extraction impacts are managed; conservation areas located on the map of PNG; hazard safety and risk management. That evidence is stocked here as the way Papua New Guinea teaches this thing; it does not change the acceptance count above.
 
 Papua New Guinea's own way (Papua New Guinea Grade 10 Social Science TG) (teacher guide — evidence): Grade 10 Geography is a population course — population pyramids in depth, world physical geography's effects on settlement, density and economic activity, then PNG-only migration (types, internal migration, routes and trends) and PNG's land-mobilisation questions (undeveloped land, Special Agricultural Business Leases, land grabbing). That evidence is stocked here as the way Papua New Guinea teaches this thing; it does not change the acceptance count above.
+
+Bhutan's own way (Bhutan Grade 11 Geography): The Advanced level (XI–XII) is full academic geography — map projections, remote sensing and GIS, insolation and pressure belts, climate classification — with Bhutan applied chapters on agriculture, manufacturing and tourism, the last taught on Bhutan's own sustainability principle ("high value, low volume" in the Bhutan Tourism Monitor data the book uses).

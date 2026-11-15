@@ -1,6 +1,6 @@
 # Sources — Population — why the world grew fast
 
-countries: Ethiopia, Angola, Mozambique, Laos
+countries: Ethiopia, Angola, Mozambique, Laos, Bhutan
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 2, placements 27–43).
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Angola, Mozambique, Laos
 
 **Book 5:** *ແບບຮຽນ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາປີທີ 6 (Textbook, Geography, Secondary Year 6)* (student book, Lao) — Ministry of Education and Sports, Educational Science Research Institute; year 2015 (printed by Phu Thinh Printing and Trading Service Co., Vietnam; print run 25,098); ISBN no ISBN printed. Title as printed: ແບບຮຽນ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາປີທີ 6 (Textbook, Geography, Secondary Year 6). Grade: Grade 11 (ມ.6) (student/teacher: STUDENT). PDF pages: 209 (cover verified against the record title — full cover spread with world map; byte size 5,736,650 exact match to the books.json record, read via the release asset). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/laos-placements.md.
 
+**Book 6:** *INTERMEDIATE GEOGRAPHY CLASS X* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu (title page; developed with the Royal Education Council, Paro); year Reprint 2024 (page footers); ISBN no ISBN printed (no imprint page in the PDF). Title as printed: INTERMEDIATE GEOGRAPHY CLASS X. Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 124 (cover/title page verified against the record title; byte size 12,820,771 and page count match the books.json record exactly — read via the record's ministry source URL; this book is also the TSV release record grade-10-gov-bhutan-geography-full-year.pdf, same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson | Ethiopia, *Social Studies Student Textbook, Grade 7* (Amhara Bureau), printed p. 36 |
@@ -19,8 +21,9 @@ countries: Ethiopia, Angola, Mozambique, Laos
 | Mozambique part — Lição 6: A evolução da população mundial e de Moçambique (three phases of world growth) | Mozambique, *Mozambique Grade 7 PESD I Mod 2*, Lição 6: A evolução da população mundial e de Moçambique (three phases of world growth) — printed p. 32 |
 | Laos part — Part I Lesson 1: The growth of world population | Laos, *Laos Grade 11 laos-g11-geography-teacher*, Part I Lesson 1: The growth of world population — printed p. 9 (teacher-guide evidence) |
 | Laos part — Part I Lesson 1: The growth of world population | Laos, *Laos Grade 11 laos-g11-geography-student*, Part I Lesson 1: The growth of world population — printed p. 1 |
+| Bhutan part — Ch.8 8.2 Population Growth | Bhutan, *Bhutan Grade 10 Geography*, Ch.8 8.2 Population Growth — printed p. 62 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Angola, Mozambique, Laos).**
+**Acceptance count: taught in 5 countries (Ethiopia, Angola, Mozambique, Laos, Bhutan).**
 
 Pairing warning (honesty): Book 2 is an Addis Ababa bureau guide in English; Book 1 is an Amhara bureau student book in Amharic. They are NOT edition-matched companions — the guide's unit order differs and whole student topics (maps, globes, GPS) have no guide counterpart, so no guide coverage is claimed for them. Guide material is used only as labelled teacher evidence.
 
@@ -33,3 +36,5 @@ Mozambique's own way (Mozambique Grade 7 PESD I Mod 2): human/economic geography
 Laos's own way (Laos Grade 11 laos-g11-geography-teacher): a world-population and world-countries year — Part I works through world population growth, changing characteristics, distribution, migration, the developed/developing contrast and urban growth; Part II then studies nine countries one by one (USA, Russia, France, Germany, UK, China, India, Japan, South Africa) plus development in Africa, with map plates (the book ends on a South Africa agriculture map, printed p. 140).
 
 Laos's own way (Laos Grade 11 laos-g11-geography-student): the student twin of Book 5 — same 2 parts / 21 lessons (world population, then nine country studies plus development in Africa) with full illustrated text.
+
+Bhutan's own way (Bhutan Grade 10 Geography): Class X pairs deep physical theory (Big Bang, plate tectonics, the making of the Himalayas) with an applied Bhutan block — climate and vegetation zones of Bhutan, Bhutanese agriculture's challenges and advancement, industries and their distribution, and a Bhutan disaster chapter that adds Education in Emergency.

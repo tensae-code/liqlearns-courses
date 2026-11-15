@@ -1,6 +1,6 @@
 # Sources — Population, environment and health
 
-countries: Ethiopia, Fiji, Nepal, Mozambique, Nicaragua
+countries: Ethiopia, Fiji, Nepal, Mozambique, Nicaragua, Bhutan
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Fiji, Nepal, Mozambique, Nicaragua
 
 **Book 7:** *Ciencias Sociales 8 Grado, Educación Secundaria (PROSEN)* (student book, Spanish) — Ministerio de Educación (MINED), Nicaragua, with PROSEN / European Union support; year not printed (Primera Edición); ISBN no ISBN printed. Title as printed: Ciencias Sociales 8 Grado, Educación Secundaria (PROSEN). Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 240 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nicaragua-placements.md.
 
+**Book 8:** *SOCIAL STUDIES CLASS VI* (student book, English) — Center for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; year Provisional Edition 2021, Revised 2025; ISBN no ISBN printed. Title as printed: SOCIAL STUDIES CLASS VI. Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 68 (cover/title page verified against the record title; byte size 1,628,115 and page count match the books.json record exactly — read via the record's ministry source URL after the grab.py tree route hung over 5 minutes on this book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The burden, counted | G12 student #52, printed pp. 115–122 |
@@ -26,8 +28,9 @@ countries: Ethiopia, Fiji, Nepal, Mozambique, Nicaragua
 | Nepal part — Population Unit Lesson 5: Interrelation of population and environment (teacher guide — evidence) | Nepal, *Nepal Grade 10 TG np-g10tg* (teacher guide), Population Unit Lesson 5: Interrelation of population and environment — TG p. 269 |
 | Mozambique part — Lição 11: Problemas Demográficos (food inequality, WHO definition of health, literacy gaps — under 5% illiterate in developed countries) | Mozambique, *Mozambique Grade 10 PESD II Mod 5*, Lição 11: Problemas Demográficos (food inequality, WHO definition of health, literacy gaps — under 5% illiterate in developed countries) — printed p. 76 |
 | Nicaragua part — Repercusión de los movimientos migratorios en la transmisión de enfermedades | Nicaragua, *Nicaragua Grade 8 Estudios Sociales G8 full-year*, Repercusión de los movimientos migratorios en la transmisión de enfermedades — printed p. 69 |
+| Bhutan part — 3.5 Impacts of population on the environment | Bhutan, *Bhutan Grade 6 Social Studies*, 3.5 Impacts of population on the environment — printed p. 15 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Fiji, Nepal, Mozambique, Nicaragua).**
+**Acceptance count: taught in 6 countries (Ethiopia, Fiji, Nepal, Mozambique, Nicaragua, Bhutan).**
 
 Figure honesty carried from the placements: the book's Figure 4.5 caption prints 'Diseas Transmission' — taught corrected as 'disease transmission' and named here only. The disease-burden figure is taught in the book's own hedged wording ('an estimated 174–234 million-scale share, as the book reports it') — the placements themselves report it in that hedged form, and this lesson does not sharpen it into a harder number.
 
@@ -44,3 +47,5 @@ Nepal's own way (Nepal Grade 10 TG np-g10tg) (teacher guide — evidence): The g
 Mozambique's own way (Mozambique Grade 10 PESD II Mod 5): population geography taught as a developed-world/developing-world contrast throughout — distribution factors, growth, Malthus and the transition, then the two evolutions (developed countries; the "Terceiro Mundo" set) with their opposite population policies, closing on structures, demographic problems (incl. HIV cutting life expectancy below 50) and population–economy/environment relations.
 
 Nicaragua's own way (Nicaragua Grade 8 Estudios Sociales G8 full-year): Grade 8 widens the lens to the whole American continent: five Geography units on America's territorial patrimony, physical landscape, ethnic-cultural diversity, space-and-economy and environmental protection (closing with Nicaragua's own SINAPRED disaster system), then five History units. Non-Geography parts named, not placed: Unit VI American origins (printed pp. 125–138, History); Unit VII arrival of the Europeans and colonial domination (printed pp. 145–165, History); Unit VIII emancipation processes (printed pp. 167–184, History); Unit IX changes in Latin American society (printed pp. 185–194, History); Unit X America in the 20th century (printed pp. 197–222, History).
+
+Bhutan's own way (Bhutan Grade 6 Social Studies): Grade 6 turns to Bhutan's own climate zones, population and signature environment topics — hydropower, urbanisation and glacial lake outburst floods (GLOF) — a hazard set specific to a Himalayan kingdom.

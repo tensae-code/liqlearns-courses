@@ -1,6 +1,6 @@
 # Sources — Heritage — what it is and why it matters
 
-countries: Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivia, Zimbabwe, Eritrea, Cambodia, Fiji, Slovenia, Syria, Mauritania, Jordan
+countries: Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivia, Zimbabwe, Eritrea, Cambodia, Fiji, Slovenia, Syria, Mauritania, Jordan, Bhutan
 
 **Book 1:** *History, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, Addis Ababa, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-064-2, 210 printed pp. Printed page = PDF page − 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g09-student-placements.md
 
@@ -50,6 +50,8 @@ countries: Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivi
 
 **Book 24:** *الدراسات الاجتماعية — الصف الخامس — الفصل الدراسي الثاني (Social Studies, Grade 5, Term 2)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-856-7. Title as printed: الدراسات الاجتماعية — الصف الخامس — الفصل الدراسي الثاني (Social Studies, Grade 5, Term 2). Grade: 5 (student/teacher: STUDENT). PDF pages: 100 (cover verified; byte size 21,825,614 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
 
+**Book 25:** *SOCIAL STUDIES CLASS VI* (student book, English) — Center for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; year Provisional Edition 2021, Revised 2025; ISBN no ISBN printed. Title as printed: SOCIAL STUDIES CLASS VI. Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 68 (cover/title page verified against the record title; byte size 1,628,115 and page count match the books.json record exactly — read via the record's ministry source URL after the grab.py tree route hung over 5 minutes on this book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Heritage defined, and the guide's pointed question (teacher guide — evidence): why Europeans considered Africans uncivilised when African heritages such as Great Zimbabwe show otherwise | Ethiopia, *History, Teacher's Guide, Grade 9*, Unit 5, printed pp. 88–107 (teacher guide — evidence) |
@@ -78,8 +80,9 @@ countries: Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivi
 | Jordan part — Unit 5 Lesson 2: Examples of Jordanian Heritage (نماذج من التراث الأردني) | Jordan, *Jordan G7 SS T1*, Unit 5 Lesson 2: Examples of Jordanian Heritage (نماذج من التراث الأردني) — printed p. 115 |
 | Jordan part — Unit 6 Lesson 2: Our Beautiful Antiquities (آثارنا الجميلة) | Jordan, *Jordan G3 SS T2*, Unit 6 Lesson 2: Our Beautiful Antiquities (آثارنا الجميلة) — printed p. 88 |
 | Jordan part — Unit 8 Lesson 2: Jordanian Cultural Heritage (التراث الثقافي الأردني) | Jordan, *Jordan G5 SS T2*, Unit 8 Lesson 2: Jordanian Cultural Heritage (التراث الثقافي الأردني) — printed p. 87 |
+| Bhutan part — 4.2 Preservation and promotion of culture and tradition | Bhutan, *Bhutan Grade 6 Social Studies*, 4.2 Preservation and promotion of culture and tradition — printed p. 18 |
 
-**Acceptance count: taught in 13 countries (Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivia, Eritrea, Cambodia, Fiji, Slovenia, Syria, Mauritania, Jordan). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 14 countries (Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivia, Eritrea, Cambodia, Fiji, Slovenia, Syria, Mauritania, Jordan, Bhutan). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
 
 Mongolia's own way (Grade 9): Social Studies is a five-chapter spiral (Individual & Society, Individual & Culture, Individual & Economy, Human Rights & Law, Public Administration) continued from Grade 8; there is no physical-geography chapter — Mongolia's geography is a separate subject (Газарзүй) — so this book's Geography-wave content is its culture and economics teaching, grounded in Mongolian surveys, wage tables and heritage inventories. The book's Sociology parts (Chapter 1, printed pp. 6–13) and Law/Civics parts (Chapters 4–5, printed pp. 62–92) are named in the placements, not placed. Mongolia's own way (Grade 8): the Grade 8 year is the LOCAL year — every chapter is re-anchored to the child's own орон нутаг (local area/homeland): its environment and problems, its heritage, its economy and market, its governance. The book's Law/Civics parts (Chapters IV–V, printed pp. 63–94) are named in the placements, not placed. That way is stocked here as the way Mongolia teaches this thing.
 
@@ -118,3 +121,5 @@ Jordan's own way (Jordan G7 SS T1): Grade 7 Social Studies weaves civics (citize
 Jordan's own way (Jordan G3 SS T2): Grade 3 Term 2 contrasts past and present (trade, production, the smart consumer), then studies Earth's natural features in Jordan, environment care, Jordan's map and its antiquities.
 
 Jordan's own way (Jordan G5 SS T2): Term 2 teaches the economy by sectors, then location skills (relative/absolute location, GPS) and Jordan's Arab world region by region — Nile Valley and Horn of Africa, then the Maghreb.
+
+Bhutan's own way (Bhutan Grade 6 Social Studies): Grade 6 turns to Bhutan's own climate zones, population and signature environment topics — hydropower, urbanisation and glacial lake outburst floods (GLOF) — a hazard set specific to a Himalayan kingdom.

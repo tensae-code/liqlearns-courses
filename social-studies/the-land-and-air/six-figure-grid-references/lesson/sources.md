@@ -1,6 +1,6 @@
 # Sources — Six-figure grid references
 
-countries: Ethiopia, Malaysia, Fiji, Papua New Guinea, Uganda
+countries: Ethiopia, Malaysia, Fiji, Papua New Guinea, Uganda, Bhutan
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Malaysia, Fiji, Papua New Guinea, Uganda
 
 **Book 6:** *Geography Textbook — Senior One (Lower Secondary Curriculum, Prototype)* (student book, English) — National Curriculum Development Centre (NCDC), Kampala; year 2020 (prototype); ISBN no ISBN printed. Title as printed: Geography Textbook — Senior One (Lower Secondary Curriculum, Prototype). Grade: Senior One = Grade 8 (student/teacher: STUDENT). PDF pages: 126 (cover verified: "GEOGRAPHY TEXTBOOK SENIOR ONE", NCDC Prototype — matches record; read via the record's books.json source_url at ncdc.go.ug after grab.py release and tree routes both failed with RemoteDisconnected from api.github.com, 3 attempts). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/uganda-placements.md.
 
+**Book 7:** *INTERMEDIATE GEOGRAPHY CLASS IX* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu (title page; developed with the Royal Education Council, Paro); year Reprint 2024 (page footers); ISBN no ISBN printed (no imprint page in the PDF). Title as printed: INTERMEDIATE GEOGRAPHY CLASS IX. Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 123 (cover/title page verified against the record title; byte size 10,807,956 and page count match the books.json record exactly — read via the record's ministry source URL). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Tenths | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 8, printed pp. 214–216 |
@@ -23,8 +25,9 @@ countries: Ethiopia, Malaysia, Fiji, Papua New Guinea, Uganda
 | Fiji part — Unit 2 Six-figure grid references for locating a point | Fiji, *Fiji Year 9 Social Science*, Unit 2 Six-figure grid references for locating a point — printed p. 112 |
 | Papua New Guinea part — Unit 1, Topic 2: Grid referencing (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 11 Geography TG SBC* (teacher guide), Unit 1, Topic 2: Grid referencing — printed p. 41 |
 | Uganda part — Ch.3 Grid References: six-figure | Uganda, *Uganda Grade 8 UG S1 Geography Student*, Ch.3 Grid References: six-figure — printed p. 25 |
+| Bhutan part — Ch.4 4.4 Grid Reference | Bhutan, *Bhutan Grade 9 Geography*, Ch.4 4.4 Grid Reference — printed p. 28 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Malaysia, Fiji, Uganda). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 5 countries (Ethiopia, Malaysia, Fiji, Uganda, Bhutan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Searchable tags: six-figure grid reference, tenths, square CA, social studies
 
@@ -35,3 +38,5 @@ Fiji's own way (Fiji Year 9 Social Science): Secondary geography opens with a fu
 Papua New Guinea's own way (Papua New Guinea Grade 11 Geography TG SBC) (teacher guide — evidence): the standards-based senior Geography course keeps the four-unit frame of the Grade 9–10 strand (Geography Skills; People and Places; People and Resources; People and Environment) as a standalone subject — a heavy map-skills unit (grid references, bearings, cross-sections, climate graphs) before climate regions, biomass, oceanography, and the structure of the Earth. That evidence is stocked here as the way Papua New Guinea teaches this thing; it does not change the acceptance count above.
 
 Uganda's own way (Uganda Grade 8 UG S1 Geography Student): Competency-based lower-secondary course taught entirely through East Africa: every skill (maps, fieldwork, photographs) is practised on Ugandan/East African places (Tororo topographic map, Uganda lat/long map), and the physical half is East Africa's relief, landform formation, climate and vegetation rather than world coverage.
+
+Bhutan's own way (Bhutan Grade 9 Geography): The Intermediate level (IX–X) treats each world topic at full textbook depth and keeps the Bhutan case inside it — Soils of Bhutan, agro-ecological zones and farming practices of Bhutan, and common disasters in Bhutan (including GLOF) alongside the world disaster survey.

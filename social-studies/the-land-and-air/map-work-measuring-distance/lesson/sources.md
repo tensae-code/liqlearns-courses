@@ -1,6 +1,6 @@
 # Sources — Map Work — Measuring Distance
 
-countries: Ethiopia, Malaysia, Eritrea, Papua New Guinea, Uganda, Mauritania, Libya, Moldova, Nepal, Iraq
+countries: Ethiopia, Malaysia, Eritrea, Papua New Guinea, Uganda, Mauritania, Libya, Moldova, Nepal, Iraq, Bhutan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -42,6 +42,8 @@ countries: Ethiopia, Malaysia, Eritrea, Papua New Guinea, Uganda, Mauritania, Li
 
 **Book 20:** *أُسُس الجغرافية وتقنياتها (Foundations of Geography and Its Techniques) للصف الرابع الأدبي — the record's shorter title "Geography (Literary Track)" is the same book: same grade, track and subject, verified by cover and contents* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; revised by a committee in the Ministry of Education; year 1445 AH / 2023 CE, revised 13th edition (الطبعة الثالثة عشرة / المنقحة); ISBN no ISBN printed on the title pages. Title as printed: أُسُس الجغرافية وتقنياتها (Foundations of Geography and Its Techniques) للصف الرابع الأدبي — the record's shorter title "Geography (Literary Track)" is the same book: same grade, track and subject, verified by cover and contents. Grade: 10 (fourth secondary, literary track) (student/teacher: STUDENT). PDF pages: 144 (cover/title page verified as above; read via the books.json record's own Google Drive source file — same book, cover and contents verified — after the GitHub route failed). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iraq-placements.md.
 
+**Book 21:** *INTERMEDIATE GEOGRAPHY CLASS IX* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu (title page; developed with the Royal Education Council, Paro); year Reprint 2024 (page footers); ISBN no ISBN printed (no imprint page in the PDF). Title as printed: INTERMEDIATE GEOGRAPHY CLASS IX. Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 123 (cover/title page verified against the record title; byte size 10,807,956 and page count match the books.json record exactly — read via the record's ministry source URL). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What is really wanted: ground distance | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 31–32 |
@@ -65,8 +67,9 @@ countries: Ethiopia, Malaysia, Eritrea, Papua New Guinea, Uganda, Mauritania, Li
 | Nepal part — Unit 6 Lesson 11: Map work | Nepal, *Nepal Grade 10 np-g10*, Unit 6 Lesson 11: Map work — printed p. 167 |
 | Nepal part — Earth Unit Lesson 11: Map work (teacher guide — evidence) | Nepal, *Nepal Grade 10 TG np-g10tg* (teacher guide), Earth Unit Lesson 11: Map work — TG p. 128 |
 | Iraq part — Ch. 4 activities: make a linear scale for 1:5,000,000, and measure the Baghdad–Basra distance on a map of Iraq | Iraq, *Iraq Grade 10 Geography*, Ch. 4 activities: make a linear scale for 1:5,000,000, and measure the Baghdad–Basra distance on a map of Iraq — printed p. 114 |
+| Bhutan part — Ch.4 4.5 Distance and directions | Bhutan, *Bhutan Grade 9 Geography*, Ch.4 4.5 Distance and directions — printed p. 28 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Malaysia, Eritrea, Uganda, Mauritania, Libya, Moldova, Nepal, Iraq). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 10 countries (Ethiopia, Malaysia, Eritrea, Uganda, Mauritania, Libya, Moldova, Nepal, Iraq, Bhutan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Pairing warning: the Grade 8 teacher guide is an Addis Ababa bureau book and the student book is an Amhara bureau book; they are NOT edition-matched, and the guide in hand is truncated (printed pp. 1–47 only, Units 1–3). Pupil content in this lesson comes from the Amhara student book; anything from the guide is labelled (teacher guide — evidence) and never presented as pupil-taught.
 
@@ -107,3 +110,5 @@ Nepal's own way (Nepal Grade 10 np-g10): Grade 10 climate is taught by world cli
 Nepal's own way (Nepal Grade 10 TG np-g10tg) (teacher guide — evidence): The guide teaches the Grade 10 course of np-g10 lesson for lesson, adding map- and chart-based activities (world climate maps, heat-zone maps, continent maps comparing life and economic activity with Nepal) and earthquake-preparedness practice; placements mirror the student book with guide page references. That evidence is stocked here as the way Nepal teaches this thing; it is cited as evidence only — Nepal is counted in this lesson through its student book(s).
 
 Iraq's own way (Iraq Grade 10 Geography): the literary track opens geography as a discipline in its own right — its thought from the Sumerians to GIS, how a geographer researches, where geographical data come from and how they are drawn, and only then the fields of the science; Iraq supplies the worked examples throughout (Baghdad research problem, Iraqi topographic maps, Iraq's gas time series, the Baghdad–Basra distance exercise).
+
+Bhutan's own way (Bhutan Grade 9 Geography): The Intermediate level (IX–X) treats each world topic at full textbook depth and keeps the Bhutan case inside it — Soils of Bhutan, agro-ecological zones and farming practices of Bhutan, and common disasters in Bhutan (including GLOF) alongside the world disaster survey.

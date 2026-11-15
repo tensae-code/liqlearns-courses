@@ -1,6 +1,6 @@
 # Sources — The Atmosphere — The Four Layers
 
-countries: Ethiopia, Mozambique, Laos
+countries: Ethiopia, Mozambique, Laos, Bhutan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -12,6 +12,12 @@ countries: Ethiopia, Mozambique, Laos
 
 **Book 5:** *ແບບຮຽນ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 2 (Textbook, Geography, Secondary Year 2)* (student book, Lao) — Ministry of Education, Educational Science Research Institute; year 2011; ISBN no ISBN printed. Title as printed: ແບບຮຽນ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 2 (Textbook, Geography, Secondary Year 2). Grade: Grade 7 (ມ.2) (student/teacher: STUDENT). PDF pages: 103 (title page verified against the record title; byte size 29,605,428 exact match to the books.json record, read via the release asset). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/laos-placements.md.
 
+**Book 6:** *AN INTRODUCTION TO GEOGRAPHY CLASS VII* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Royal Government of Bhutan, Thimphu; year Provisional edition 2018, Copyright 2023, Reprint 2024; ISBN 975-99936-0-455-8 (as printed). Title as printed: AN INTRODUCTION TO GEOGRAPHY CLASS VII. Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 86 (cover/title page verified against the record title; byte size 5,663,043 and page count match the books.json record exactly — read via the record's ministry source URL after the grab.py route proved unreliable for this group). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
+**Book 7:** *An Introduction to GEOGRAPHY Class VIII* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Royal Government of Bhutan, Thimphu; year Provisional Edition 2019, Copyright 2023, Reprint 2024; ISBN no ISBN printed. Title as printed: An Introduction to GEOGRAPHY Class VIII. Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 120 (cover/title page verified against the record title; byte size 9,992,518 and page count match the books.json record exactly — read via the record's ministry source URL). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
+**Book 8:** *INTERMEDIATE GEOGRAPHY CLASS IX* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu (title page; developed with the Royal Education Council, Paro); year Reprint 2024 (page footers); ISBN no ISBN printed (no imprint page in the PDF). Title as printed: INTERMEDIATE GEOGRAPHY CLASS IX. Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 123 (cover/title page verified against the record title; byte size 10,807,956 and page count match the books.json record exactly — read via the record's ministry source URL). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Troposphere and stratosphere | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 22–24 |
@@ -20,8 +26,11 @@ countries: Ethiopia, Mozambique, Laos
 | Mozambique part — Lição 2: thermal structure troposphere–thermosphere/ionosphere, magnetosphere and Van Allen belts | Mozambique, *Mozambique Grade 10 PESD II Mod 2*, Lição 2: thermal structure troposphere–thermosphere/ionosphere, magnetosphere and Van Allen belts — printed p. 15 |
 | Laos part — Part I Lesson 2: Layers of the world's atmosphere and atmospheric circulation | Laos, *Laos Grade 7 laos-g07-geography-teacher*, Part I Lesson 2: Layers of the world's atmosphere and atmospheric circulation — printed p. 7 (teacher-guide evidence) |
 | Laos part — Part I Lesson 2: Layers of the world's atmosphere and atmospheric circulation | Laos, *Laos Grade 7 laos-g07-geography-student*, Part I Lesson 2: Layers of the world's atmosphere and atmospheric circulation — printed p. 10 |
+| Bhutan part — Ch.7 7.2 Structure of the Atmosphere | Bhutan, *Bhutan Grade 7 Geography*, Ch.7 7.2 Structure of the Atmosphere — printed p. 34 |
+| Bhutan part — Ch.6 6.2 Significance of atmosphere | Bhutan, *Bhutan Grade 8 Geography*, Ch.6 6.2 Significance of atmosphere — printed p. 41 |
+| Bhutan part — Ch.6 6.3 Structure of the atmosphere | Bhutan, *Bhutan Grade 9 Geography*, Ch.6 6.3 Structure of the atmosphere — printed p. 50 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Mozambique, Laos).**
+**Acceptance count: taught in 4 countries (Ethiopia, Mozambique, Laos, Bhutan).**
 
 Pairing warning: the Grade 8 teacher guide is an Addis Ababa bureau book and the student book is an Amhara bureau book; they are NOT edition-matched, and the guide in hand is truncated (printed pp. 1–47 only, Units 1–3). Pupil content in this lesson comes from the Amhara student book; anything from the guide is labelled (teacher guide — evidence) and never presented as pupil-taught.
 
@@ -34,3 +43,9 @@ Mozambique's own way (Mozambique Grade 10 PESD II Mod 2): a full physical-climat
 Laos's own way (Laos Grade 7 laos-g07-geography-teacher): a continents year — general physical geography first, then continent by continent (Africa, Europe, the Americas, Oceania), each treated the same way: natural conditions, population, economy, then country case studies (Egypt, South Africa, Russia, France, USA, Brazil, Australia); closes with an additional-knowledge appendix (printed p. 69), not placed separately.
 
 Laos's own way (Laos Grade 7 laos-g07-geography-student): the student twin of Book 3 — same 5 parts / 22 lessons (continents year) with full illustrated text and per-continent maps.
+
+Bhutan's own way (Bhutan Grade 7 Geography): From Class VII Geography becomes a standalone subject organised in three strands (Time and Space; Physical Environment; People and Environment), every world topic closed with its Bhutan case — climate of Bhutan, vegetation types of Bhutan, minerals of Bhutan, and Bhutan's Himalayan disaster set (earthquake, flood, windstorm, fire, GLOF).
+
+Bhutan's own way (Bhutan Grade 8 Geography): Class VIII deepens the same three strands with real map-work (scale conversion, grid references, contours and profiles) and Bhutan-specific hazard and resource content, including the Rubesa wind turbine and hydroelectric dams as national resource examples.
+
+Bhutan's own way (Bhutan Grade 9 Geography): The Intermediate level (IX–X) treats each world topic at full textbook depth and keeps the Bhutan case inside it — Soils of Bhutan, agro-ecological zones and farming practices of Bhutan, and common disasters in Bhutan (including GLOF) alongside the world disaster survey.

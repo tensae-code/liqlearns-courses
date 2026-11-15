@@ -1,6 +1,6 @@
 # Sources — Inside the Earth — Crust, Mantle, Core
 
-countries: Ethiopia, Belarus, Dominican Republic, Colombia, Malaysia, India, North Macedonia, Cambodia, Fiji, Slovenia, Papua New Guinea, Syria, Sri Lanka, Mauritania, Kuwait, Afghanistan, Yemen, Pakistan, Libya, Moldova, Nepal, Mozambique, Jordan, Nicaragua
+countries: Ethiopia, Belarus, Dominican Republic, Colombia, Malaysia, India, North Macedonia, Cambodia, Fiji, Slovenia, Papua New Guinea, Syria, Sri Lanka, Mauritania, Kuwait, Afghanistan, Yemen, Pakistan, Libya, Moldova, Nepal, Mozambique, Jordan, Nicaragua, Bhutan
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page - 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md.
 
@@ -68,6 +68,10 @@ countries: Ethiopia, Belarus, Dominican Republic, Colombia, Malaysia, India, Nor
 
 **Book 34:** *Estudios Sociales 4 — Libro de Texto (Dirección General de Educación Primaria)* (student book, Spanish) — Ministerio de Educación (MINED), Nicaragua; year 2016 (Edición 2016); ISBN no ISBN printed. Title as printed: Estudios Sociales 4 — Libro de Texto (Dirección General de Educación Primaria). Grade: Grade 4 (student/teacher: STUDENT). PDF pages: 238 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nicaragua-placements.md.
 
+**Book 35:** *INTERMEDIATE GEOGRAPHY CLASS X* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu (title page; developed with the Royal Education Council, Paro); year Reprint 2024 (page footers); ISBN no ISBN printed (no imprint page in the PDF). Title as printed: INTERMEDIATE GEOGRAPHY CLASS X. Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 124 (cover/title page verified against the record title; byte size 12,820,771 and page count match the books.json record exactly — read via the record's ministry source URL; this book is also the TSV release record grade-10-gov-bhutan-geography-full-year.pdf, same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
+**Book 36:** *ADVANCED GEOGRAPHY CLASS XI* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Thimphu; year Provisional Edition 2022, Copyright 2023, Reprint 2024; ISBN no ISBN printed. Title as printed: ADVANCED GEOGRAPHY CLASS XI. Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 182 (cover/title page verified against the record title; byte size 19,627,789 and page count match the books.json record exactly — read via the record's ministry source URL; this book is also the TSV release record grade-11-gov-bhutan-geography-full-year.pdf, same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The three layers | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 1, printed pp. 28–29 |
@@ -103,8 +107,10 @@ countries: Ethiopia, Belarus, Dominican Republic, Colombia, Malaysia, India, Nor
 | Mozambique part — Lição 3: Estrutura interna da Terra (crust, mantle, core; geothermal gradient; densities and temperatures by layer) | Mozambique, *Mozambique Grade 10 PESD II Mod 3*, Lição 3: Estrutura interna da Terra (crust, mantle, core; geothermal gradient; densities and temperatures by layer) — printed p. 15 |
 | Jordan part — Unit 1 Lesson 1: Components of the Lithosphere and Its Importance (مكونات الغلاف الصخري وأهميته) | Jordan, *Jordan G9 Geography T1*, Unit 1 Lesson 1: Components of the Lithosphere and Its Importance (مكونات الغلاف الصخري وأهميته) — printed p. 8 |
 | Nicaragua part — Estructura y composición de la Tierra | Nicaragua, *Nicaragua Grade 4 Estudios Sociales G4*, Estructura y composición de la Tierra — printed p. 18 |
+| Bhutan part — Ch.2 2.2 Structure and composition of the Earth's interior | Bhutan, *Bhutan Grade 10 Geography*, Ch.2 2.2 Structure and composition of the Earth's interior — printed p. 6 |
+| Bhutan part — Ch.1 1.2 Structure and composition of the Earth | Bhutan, *Bhutan Grade 11 Geography*, Ch.1 1.2 Structure and composition of the Earth — printed p. 1 |
 
-**Acceptance count: taught in 23 countries (Ethiopia, Belarus, Dominican Republic, Colombia, Malaysia, India, North Macedonia, Cambodia, Fiji, Slovenia, Syria, Sri Lanka, Mauritania, Kuwait, Afghanistan, Yemen, Pakistan, Libya, Moldova, Nepal, Mozambique, Jordan, Nicaragua). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 24 countries (Ethiopia, Belarus, Dominican Republic, Colombia, Malaysia, India, North Macedonia, Cambodia, Fiji, Slovenia, Syria, Sri Lanka, Mauritania, Kuwait, Afghanistan, Yemen, Pakistan, Libya, Moldova, Nepal, Mozambique, Jordan, Nicaragua, Bhutan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 The "how we know" sub lesson rests on teacher-guide evidence, labelled as such in its name here and in the lesson; the pupil-taught layers sub lesson carries the acceptance count. Pairing warning: the Grade 7 teacher guide is an Addis Ababa bureau book and the student books are Amhara bureau books; they are NOT edition-matched. Pupil content in this lesson comes from the student book; anything from the guide is labelled (teacher guide — evidence) and never presented as pupil-taught.
 
@@ -169,3 +175,7 @@ Mozambique's own way (Mozambique Grade 10 PESD II Mod 3): a systematic geomorpho
 Jordan's own way (Jordan G9 Geography T1): From Grade 9 Geography stands alone as its own book: the Earth's rock and water spheres first, then the geography of the Arab homeland — its natural features, its human features and its challenges.
 
 Nicaragua's own way (Nicaragua Grade 4 Estudios Sociales G4): Units I–V are a full national Geography of Nicaragua — coordinates, time zones and seasons first, then the country's position, borders, political division and hydrography, and a closing landscape unit on climate, natural resources, relief by region, earthquakes and hurricanes; the second half of the book is national History. Non-Geography parts named, not placed: Unit VI first settlers' history and culture (printed pp. 120–137, History, except the geography-influence topic placed below); Unit VII European presence and colonisation (printed pp. 140–164, History); Unit VIII Independence and the National War (printed pp. 168–183, History); Unit IX Nicaragua 1857–1909 (printed pp. 186–197, History); Unit X Nicaragua in the 20th century (printed pp. 200–221, History).
+
+Bhutan's own way (Bhutan Grade 10 Geography): Class X pairs deep physical theory (Big Bang, plate tectonics, the making of the Himalayas) with an applied Bhutan block — climate and vegetation zones of Bhutan, Bhutanese agriculture's challenges and advancement, industries and their distribution, and a Bhutan disaster chapter that adds Education in Emergency.
+
+Bhutan's own way (Bhutan Grade 11 Geography): The Advanced level (XI–XII) is full academic geography — map projections, remote sensing and GIS, insolation and pressure belts, climate classification — with Bhutan applied chapters on agriculture, manufacturing and tourism, the last taught on Bhutan's own sustainability principle ("high value, low volume" in the Bhutan Tourism Monitor data the book uses).

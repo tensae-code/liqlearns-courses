@@ -1,6 +1,6 @@
 # Sources — Maps and globes — GPS
 
-countries: Ethiopia, North Macedonia, Vietnam, Syria, Pakistan, Libya, Jordan
+countries: Ethiopia, North Macedonia, Vietnam, Syria, Pakistan, Libya, Jordan, Bhutan
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 2, placements 27–43).
 
@@ -20,6 +20,8 @@ countries: Ethiopia, North Macedonia, Vietnam, Syria, Pakistan, Libya, Jordan
 
 **Book 9:** *الدراسات الاجتماعية — الصف الخامس — الفصل الدراسي الثاني (Social Studies, Grade 5, Term 2)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-856-7. Title as printed: الدراسات الاجتماعية — الصف الخامس — الفصل الدراسي الثاني (Social Studies, Grade 5, Term 2). Grade: 5 (student/teacher: STUDENT). PDF pages: 100 (cover verified; byte size 21,825,614 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
 
+**Book 10:** *ADVANCED GEOGRAPHY CLASS XII* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Thimphu; year Provisional Edition 2023, Copyright 2023, Reprint 2024; ISBN no ISBN printed. Title as printed: ADVANCED GEOGRAPHY CLASS XII. Grade: Grade 12 (student/teacher: STUDENT). PDF pages: 144 (title page verified against the record title — PDF p.3, after a royal-message frontispiece; byte size 4,875,259 and page count match the books.json record exactly — read via the record's ministry source URL). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson | Ethiopia, *Social Studies Student Textbook, Grade 7* (Amhara Bureau), printed pp. 52–54 |
@@ -31,8 +33,9 @@ countries: Ethiopia, North Macedonia, Vietnam, Syria, Pakistan, Libya, Jordan
 | Libya part — نظام تحديد المواقع العالمي GPS: The global positioning system | Libya, *Libya Grade 5 LY G5 Social Studies*, نظام تحديد المواقع العالمي GPS: The global positioning system — printed p. 84 |
 | Libya part — Book 7 Ch.1: نظام المواقع العالمي GPS — The Global Positioning System: components and uses (handheld units, aircraft) [placement slug: earth-and-space/latitude-and-longitude-how-gps-uses-it] | Libya, *Libya Grade 10 LY G10 Principles*, Book 7 Ch.1: نظام المواقع العالمي GPS — The Global Positioning System: components and uses (handheld units, aircraft) — printed p. 130 |
 | Jordan part — Unit 7 Lesson 2: The Global Positioning System GPS (نظام تحديد الموقع العالمي) | Jordan, *Jordan G5 SS T2*, Unit 7 Lesson 2: The Global Positioning System GPS (نظام تحديد الموقع العالمي) — printed p. 59 |
+| Bhutan part — Ch.3 3.2 Global Positioning System (GPS) | Bhutan, *Bhutan Grade 12 Geography*, Ch.3 3.2 Global Positioning System (GPS) — printed p. 24 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, North Macedonia, Vietnam, Syria, Pakistan, Libya, Jordan).**
+**Acceptance count: taught in 8 countries (Ethiopia, North Macedonia, Vietnam, Syria, Pakistan, Libya, Jordan, Bhutan).**
 
 Pairing warning (honesty): Book 2 is an Addis Ababa bureau guide in English; Book 1 is an Amhara bureau student book in Amharic. They are NOT edition-matched companions — the guide's unit order differs and whole student topics (maps, globes, GPS) have no guide counterpart, so no guide coverage is claimed for them. Guide material is used only as labelled teacher evidence.
 
@@ -53,3 +56,5 @@ Libya's own way (Libya Grade 5 LY G5 Social Studies): Half the book is Islamic h
 Libya's own way (Libya Grade 10 LY G10 Principles): Secondary geography opens as a two-part systematic course — physical geography first (astronomy, surface-shaping factors, climate, vegetation and wild animals), then human geography (population and settlement, economic resources) — and closes with a whole book on spatial-data technology: remote sensing, GPS and GIS, then the history of maps from Babylon and Ibn Hawqal.
 
 Jordan's own way (Jordan G5 SS T2): Term 2 teaches the economy by sectors, then location skills (relative/absolute location, GPS) and Jordan's Arab world region by region — Nile Valley and Horn of Africa, then the Maghreb.
+
+Bhutan's own way (Bhutan Grade 12 Geography): Class XII closes the Advanced course with specialist topics (surveying, geospatial technologies, glaciers and the "Third Pole", Köppen in full, fluvial processes, Davis's cycle of erosion) and Bhutan data chapters — fertility and mortality trends in Bhutan, migration trends, hydropower in Bhutan, and creative industries including Bhutanese film.

@@ -1,6 +1,6 @@
 # Sources — The five parts of a GIS
 
-countries: Ethiopia, Bangladesh, Sudan, Pakistan, Iraq
+countries: Ethiopia, Bangladesh, Sudan, Pakistan, Iraq, Bhutan
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Bangladesh, Sudan, Pakistan, Iraq
 
 **Book 8:** *أُسُس الجغرافية وتقنياتها (Foundations of Geography and Its Techniques) للصف الرابع الأدبي — the record's shorter title "Geography (Literary Track)" is the same book: same grade, track and subject, verified by cover and contents* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; revised by a committee in the Ministry of Education; year 1445 AH / 2023 CE, revised 13th edition (الطبعة الثالثة عشرة / المنقحة); ISBN no ISBN printed on the title pages. Title as printed: أُسُس الجغرافية وتقنياتها (Foundations of Geography and Its Techniques) للصف الرابع الأدبي — the record's shorter title "Geography (Literary Track)" is the same book: same grade, track and subject, verified by cover and contents. Grade: 10 (fourth secondary, literary track) (student/teacher: STUDENT). PDF pages: 144 (cover/title page verified as above; read via the books.json record's own Google Drive source file — same book, cover and contents verified — after the GitHub route failed). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iraq-placements.md.
 
+**Book 9:** *ADVANCED GEOGRAPHY CLASS XI* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Thimphu; year Provisional Edition 2022, Copyright 2023, Reprint 2024; ISBN no ISBN printed. Title as printed: ADVANCED GEOGRAPHY CLASS XI. Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 182 (cover/title page verified against the record title; byte size 19,627,789 and page count match the books.json record exactly — read via the record's ministry source URL; this book is also the TSV release record grade-11-gov-bhutan-geography-full-year.pdf, same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Hardware and software | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 8, printed pp. 231–234 |
@@ -30,8 +32,9 @@ countries: Ethiopia, Bangladesh, Sudan, Pakistan, Iraq
 | Sudan part — Components of a GIS and the software used in it | Sudan, *Sudan Grade 10 SD Geography 10*, Components of a GIS and the software used in it — printed p. 185 |
 | Pakistan part — Geographical Information System (GIS): information stored in layers, used to answer questions about location, conditions, trends, patterns and modelling | Pakistan, *Pakistan Grade 8 Geography 8*, Geographical Information System (GIS): information stored in layers, used to answer questions about location, conditions, trends, patterns and modelling — printed p. 80 |
 | Iraq part — Ch. 4: The five main elements of a GIS and the advantages of the system | Iraq, *Iraq Grade 10 Geography*, Ch. 4: The five main elements of a GIS and the advantages of the system — printed p. 110 |
+| Bhutan part — Ch.4 4.10 Components of Geographic Information System | Bhutan, *Bhutan Grade 11 Geography*, Ch.4 4.10 Components of Geographic Information System — printed p. 67 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Bangladesh, Sudan, Pakistan, Iraq).**
+**Acceptance count: taught in 6 countries (Ethiopia, Bangladesh, Sudan, Pakistan, Iraq, Bhutan).**
 
 No book error is flagged for this lesson's pages in the placements. The student book's body numbering for Unit Two drifts from its own contents (regions printed as 2.4, factors as 2.5, local classification as 2.6, where the contents and the teacher guide's contents agree on 2.3, 2.4 and 2.5); this lesson follows the contents numbering and teaches no misprint.
 
@@ -46,3 +49,5 @@ Sudan's own way (Sudan Grade 10 SD Geography 10): A second-edition foundations b
 Pakistan's own way (Pakistan Grade 8 Geography 8): the Urdu-medium twin of the English Geography course — deep map-and-graph craft first (dot and choropleth maps of Pakistan itself), then landform agents, oceans, a full Pakistan-anchored disaster chapter, the world's natural regions, Pakistan's own climate, its four neighbouring regions and strategic place, underdevelopment with Pakistan's own causes, and modern techniques down to Pak Sat-1.
 
 Iraq's own way (Iraq Grade 10 Geography): the literary track opens geography as a discipline in its own right — its thought from the Sumerians to GIS, how a geographer researches, where geographical data come from and how they are drawn, and only then the fields of the science; Iraq supplies the worked examples throughout (Baghdad research problem, Iraqi topographic maps, Iraq's gas time series, the Baghdad–Basra distance exercise).
+
+Bhutan's own way (Bhutan Grade 11 Geography): The Advanced level (XI–XII) is full academic geography — map projections, remote sensing and GIS, insolation and pressure belts, climate classification — with Bhutan applied chapters on agriculture, manufacturing and tourism, the last taught on Bhutan's own sustainability principle ("high value, low volume" in the Bhutan Tourism Monitor data the book uses).

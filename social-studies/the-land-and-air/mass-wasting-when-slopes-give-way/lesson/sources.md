@@ -1,6 +1,6 @@
 # Sources — Mass wasting — when slopes give way
 
-countries: Ethiopia, Malaysia, Papua New Guinea, Mozambique
+countries: Ethiopia, Malaysia, Papua New Guinea, Mozambique, Bhutan
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -10,6 +10,10 @@ countries: Ethiopia, Malaysia, Papua New Guinea, Mozambique
 
 **Book 4:** *Módulo 3 de Geografia — Geomorfologia* (student book, Portuguese) — Ministério da Educação / IEDA; year not printed (uploaded to IEDA site 2022); no ISBN printed. Title as printed: Módulo 3 de Geografia — Geomorfologia. Grade: Grades 10–12 cycle (2º Ciclo), filed as Grade 10 (student/teacher: STUDENT). PDF pages: 138 (title page verified against the record title; byte size 5,627,754 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE (the book's own contents page omits Lição 2 "Rochas" — it is present in the body at printed p. 10; contents-page error in the book itself). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
 
+**Book 5:** *SOCIAL STUDIES CLASS V* (student book, English) — Center for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; year Provisional Edition 2020, Reprint 2025; ISBN no ISBN printed (blank ISBN line on imprint page). Title as printed: SOCIAL STUDIES CLASS V. Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 78 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
+**Book 6:** *INTERMEDIATE GEOGRAPHY CLASS X* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu (title page; developed with the Royal Education Council, Paro); year Reprint 2024 (page footers); ISBN no ISBN printed (no imprint page in the PDF). Title as printed: INTERMEDIATE GEOGRAPHY CLASS X. Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 124 (cover/title page verified against the record title; byte size 12,820,771 and page count match the books.json record exactly — read via the record's ministry source URL; this book is also the TSV release record grade-10-gov-bhutan-geography-full-year.pdf, same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What holds a slope up | G12 student #24, printed pp. 30–31 |
@@ -17,8 +21,10 @@ countries: Ethiopia, Malaysia, Papua New Guinea, Mozambique
 | Malaysia part (MY T4 Geografi Tingkatan 4) — Bab 8 Gerakan Jisim: concept and types of mass movement; soil creep, mudflow and landslide processes | Malaysia, *MY T4 Geografi*, Bab 8 Gerakan Jisim: concept and types of mass movement; soil creep, mudflow and landslide processes — printed pp. 102-108 |
 | Papua New Guinea part — Unit 11.1: the role of mass movement in shaping the landscape (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 11 Geography TG OBE* (teacher guide), Unit 11.1: the role of mass movement in shaping the landscape — printed p. 32 |
 | Mozambique part — Lição 16: Distribuição dos principais tipos de alteração; deslocamentos (reptação/creeping, landslides damming rivers) | Mozambique, *Mozambique Grade 10 PESD II Mod 3*, Lição 16: Distribuição dos principais tipos de alteração; deslocamentos (reptação/creeping, landslides damming rivers) — printed p. 88 |
+| Bhutan part — 11.3 Landslide | Bhutan, *Bhutan Grade 5 Social Studies*, 11.3 Landslide — printed p. 62 |
+| Bhutan part — Ch.12 Landslide (section printed as "2.3" in the book, inside Chapter 12) | Bhutan, *Bhutan Grade 10 Geography*, Ch.12 Landslide (section printed as "2.3" in the book, inside Chapter 12) — printed p. 108 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Malaysia, Mozambique). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 4 countries (Ethiopia, Malaysia, Mozambique, Bhutan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 No book error in the placements for this lesson is taught here. Angles and factors are taught exactly as the placements report them.
 
@@ -29,3 +35,7 @@ Malaysia's own way (MY T4 Geografi Tingkatan 4): upper-secondary Geography is a 
 Papua New Guinea's own way (Papua New Guinea Grades 11–12 Geography TG OBE) (teacher guide — evidence): an outcomes-based guide — it prescribes no lesson scripts; for each syllabus unit it lists suggested learning activities and assessment tasks built around the local environment (soil profiles, local hazard sites, a PNG mine and logging case study, a transect along latitude 6°S), with fieldwork and geographical inquiry as the core skills. That evidence is stocked here as the way Papua New Guinea teaches this thing; it does not change the acceptance count above.
 
 Mozambique's own way (Mozambique Grade 10 PESD II Mod 3): a systematic geomorphology course — rocks and Earth's interior first, then isostasy, continental drift and plate tectonics, then internal agents (folds, faults, earthquakes, volcanoes in four lessons), then external agents and the modelled landscapes of hot, temperate, cold and coastal environments, closing with the geological cycle.
+
+Bhutan's own way (Bhutan Grade 5 Social Studies): Grade 5 spirals from the Earth and lat/long straight into Bhutan itself — its location, three physical zones, neighbours, major rivers and protected areas — so world geography is anchored in the home country's map first.
+
+Bhutan's own way (Bhutan Grade 10 Geography): Class X pairs deep physical theory (Big Bang, plate tectonics, the making of the Himalayas) with an applied Bhutan block — climate and vegetation zones of Bhutan, Bhutanese agriculture's challenges and advancement, industries and their distribution, and a Bhutan disaster chapter that adds Education in Emergency.

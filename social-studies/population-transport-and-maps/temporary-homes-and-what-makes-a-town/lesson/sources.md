@@ -1,6 +1,6 @@
 # Sources — Temporary homes, and what makes a town
 
-countries: Ethiopia, Turkey, Palestine, Bangladesh, Egypt, Bahamas, Malaysia, Eritrea, India, Slovenia, Syria, Mauritania, Kuwait, Iran, Yemen, Pakistan, Moldova, Mozambique, Iraq
+countries: Ethiopia, Turkey, Palestine, Bangladesh, Egypt, Bahamas, Malaysia, Eritrea, India, Slovenia, Syria, Mauritania, Kuwait, Iran, Yemen, Pakistan, Moldova, Mozambique, Iraq, Bhutan
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -50,6 +50,12 @@ countries: Ethiopia, Turkey, Palestine, Bangladesh, Egypt, Bahamas, Malaysia, Er
 
 **Book 24:** *الاجتماعيات للصف الرابع الابتدائي (Social Studies for the Fourth Primary Grade)* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula (المديرية العامة للمناهج); year 1445 AH / 2023 CE, 13th edition (الطبعة الثالثة عشرة); ISBN no ISBN printed on the title pages. Title as printed: الاجتماعيات للصف الرابع الابتدائي (Social Studies for the Fourth Primary Grade). Grade: 4 (student/teacher: STUDENT). PDF pages: 64 (cover/title page verified against the record title; read via the books.json record's own Google Drive source file after the GitHub release and tree grabs failed with RemoteDisconnected three times — same book, cover and contents verified). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iraq-placements.md.
 
+**Book 25:** *AN INTRODUCTION TO GEOGRAPHY CLASS VII* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Royal Government of Bhutan, Thimphu; year Provisional edition 2018, Copyright 2023, Reprint 2024; ISBN 975-99936-0-455-8 (as printed). Title as printed: AN INTRODUCTION TO GEOGRAPHY CLASS VII. Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 86 (cover/title page verified against the record title; byte size 5,663,043 and page count match the books.json record exactly — read via the record's ministry source URL after the grab.py route proved unreliable for this group). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
+**Book 26:** *An Introduction to GEOGRAPHY Class VIII* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Royal Government of Bhutan, Thimphu; year Provisional Edition 2019, Copyright 2023, Reprint 2024; ISBN no ISBN printed. Title as printed: An Introduction to GEOGRAPHY Class VIII. Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 120 (cover/title page verified against the record title; byte size 9,992,518 and page count match the books.json record exactly — read via the record's ministry source URL). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
+**Book 27:** *ADVANCED GEOGRAPHY CLASS XI* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Thimphu; year Provisional Edition 2022, Copyright 2023, Reprint 2024; ISBN no ISBN printed. Title as printed: ADVANCED GEOGRAPHY CLASS XI. Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 182 (cover/title page verified against the record title; byte size 19,627,789 and page count match the books.json record exactly — read via the record's ministry source URL; this book is also the TSV release record grade-11-gov-bhutan-geography-full-year.pdf, same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Temporary settlements | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 4, printed pp. 106–109 |
@@ -77,8 +83,11 @@ countries: Ethiopia, Turkey, Palestine, Bangladesh, Egypt, Bahamas, Malaysia, Er
 | Moldova part — §10 Human settlements; rural settlements of Moldova | Moldova, *Moldova Grade 9 Geography*, §10 Human settlements; rural settlements of Moldova — printed p. 50 |
 | Mozambique part — Lição 1: urbanisation rate and rural exodus causes | Mozambique, *Mozambique Grade 7 PESD I Mod 3*, Lição 1: urbanisation rate and rural exodus causes — printed p. 12 |
 | Iraq part — Ch. 2: City and village compared (activity table: services, quiet, population, jobs, air) | Iraq, *Iraq Grade 4 Social Studies*, Ch. 2: City and village compared (activity table: services, quiet, population, jobs, air) — printed p. 32 |
+| Bhutan part — Ch.11 11.2 Types of Settlement | Bhutan, *Bhutan Grade 7 Geography*, Ch.11 11.2 Types of Settlement — printed p. 54 |
+| Bhutan part — Ch.11 11.1 Classification of Settlements | Bhutan, *Bhutan Grade 8 Geography*, Ch.11 11.1 Classification of Settlements — printed p. 71 |
+| Bhutan part — Ch.13 13.2 Urban Settlement | Bhutan, *Bhutan Grade 11 Geography*, Ch.13 13.2 Urban Settlement — printed p. 149 |
 
-**Acceptance count: taught in 19 countries (Ethiopia, Turkey, Palestine, Bangladesh, Egypt, Bahamas, Malaysia, Eritrea, India, Slovenia, Syria, Mauritania, Kuwait, Iran, Yemen, Pakistan, Moldova, Mozambique, Iraq).**
+**Acceptance count: taught in 20 countries (Ethiopia, Turkey, Palestine, Bangladesh, Egypt, Bahamas, Malaysia, Eritrea, India, Slovenia, Syria, Mauritania, Kuwait, Iran, Yemen, Pakistan, Moldova, Mozambique, Iraq, Bhutan).**
 
 Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
@@ -125,3 +134,9 @@ Moldova's own way (Moldova Grade 9 Geography): the human-geography year of one's
 Mozambique's own way (Mozambique Grade 7 PESD I Mod 3): after world/economic geography in Modules 1–2, Module 3 turns to Mozambique itself as a complete regional study — cities, then the country's location, coast, geology, minerals, soils, relief, climate, plant and animal geography, hydrography — and closes with Southern Africa and Mozambique's SADC integration.
 
 Iraq's own way (Iraq Grade 4 Social Studies): geography enters inside "Social Studies" through the child's own surroundings — phenomena are sorted from photographs first, then the local environment, then the map of Iraq's governorates, and only then the wider geographical environments (city, countryside); history and homeland/civics chapters follow in the same book.
+
+Bhutan's own way (Bhutan Grade 7 Geography): From Class VII Geography becomes a standalone subject organised in three strands (Time and Space; Physical Environment; People and Environment), every world topic closed with its Bhutan case — climate of Bhutan, vegetation types of Bhutan, minerals of Bhutan, and Bhutan's Himalayan disaster set (earthquake, flood, windstorm, fire, GLOF).
+
+Bhutan's own way (Bhutan Grade 8 Geography): Class VIII deepens the same three strands with real map-work (scale conversion, grid references, contours and profiles) and Bhutan-specific hazard and resource content, including the Rubesa wind turbine and hydroelectric dams as national resource examples.
+
+Bhutan's own way (Bhutan Grade 11 Geography): The Advanced level (XI–XII) is full academic geography — map projections, remote sensing and GIS, insolation and pressure belts, climate classification — with Bhutan applied chapters on agriculture, manufacturing and tourism, the last taught on Bhutan's own sustainability principle ("high value, low volume" in the Bhutan Tourism Monitor data the book uses).

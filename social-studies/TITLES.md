@@ -103,7 +103,7 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **2879**
+Geography lessons across the eight Geography titles: **2998**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -2039,3 +2039,78 @@ Nicaragua Vulnerable Zones Disaster History And
 Environmental Problems.
 (All 20 new lessons are taught in 1 country
 (Nicaragua), each standing on student book(s).)
+
++119 for Bhutan, 2026-11-15 — Earth and Space:
+Electromagnetic Theory Of The Universes Origin,
+Evidence For The Earths Sphericity, Kants Gaseous Mass
+Hypothesis, Minerals And Their Properties and The Moon
+And Its Significance To Earth; The Land and Air: Bhutan
+Our Country And Its Names, Biomes Of The World,
+Classification Of Glaciers, Climate Of Bhutan, Climatic
+Zones Of Bhutan, Condensation And Cloud Formation,
+Earthquakes In Bhutan, Ecosystems And How They Work,
+Effects Of Volcanoes, Electromagnetic Radiation And The
+Spectrum, Energy Flow In Ecosystems, Factors Affecting
+The Work Of A River, Food Chains And Food Webs,
+Formation Of The Himalayas, Genetic Classification Of
+Climate, Global Distribution Of Temperature, How
+Ecosystems Change, Humidity And Its Measurement,
+Importance Of Rivers In Bhutan, Insolation And Its
+Distribution, Location Of Bhutan, Major Rivers Of
+Bhutan, Major Soil Groups Of The World, Natural
+Vegetation Types Of Bhutan, Physical Zones Of Bhutan,
+Precipitation Forms And Types, Properties Of Soil, Soil
+Profile And Its Horizons, Soils Of Bhutan, Stages Of A
+Volcano Active Dormant Extinct, Structure And Function
+Of Ecosystems, Surveying Measuring The Land, The Cycle
+Of Erosion, The Third Pole Himalayan Glaciers,
+Traditional Knowledge On Weather, Types Of Earthquakes,
+Types Of Ecosystems, Types Of Soil, Types Of Surveying
+and Vertical Distribution Of Temperature; Population,
+Transport and Maps: Applications Of Remote Sensing,
+Calculating Time From Longitude, Cartography The Art
+And Science Of Map Making, Classification Of Urban
+Settlements, Consequences Of Migration, Constructing
+And Choosing Map Projections, Factors Affecting
+Population Distribution, Fertility And Mortality Trends
+In Bhutan, Hierarchy Of Settlements, How Settlements
+Change, Impacts Of Population Change, Map Projections
+And Their Properties, Migration Trends In Bhutan,
+Population Composition, Population Dynamics, Potentials
+And Limitations Of Remote Sensing, Remote Sensing And
+Its Development, Spatial Distribution Of Settlements,
+Types Of GIS, Types Of Remote Sensing and Working Age
+Population; People and Resources: Alternative Sources
+Of Energy, Development Of Industries, Distribution Of
+Industries In Bhutan, Energy Resources Conventional And
+Non Conventional, Hydropower In Bhutan, Importance Of
+Soil, Loschs Central Place Theory, Manufacturing
+Industries In Bhutan, Mineral Resources And Their Uses
+and Minerals Of Bhutan; Culture and Work: A House And A
+Home, Advancement In Agriculture, Agro Ecological Zones
+And Farming In Bhutan, Challenges Of Agriculture In
+Bhutan, Challenges Of Creative Industries, Creative
+Industries, Development Of Agriculture In Bhutan,
+Factors Influencing Agriculture, Farming Systems,
+Features Of Agriculture In Bhutan, Money Saving And
+Banks, National Holidays Of Bhutan, Non Economic
+Activities, Sacred Places Of Bhutan, Scope Of
+Agriculture, Sources Of Income and Sub Sectors Of
+Creative Industries In Bhutan; Resources and Conflict:
+Bhutans Neighbouring Countries, Community Forests In
+Bhutan, Components Of The Environment, Protected Areas
+Of Bhutan and Waste Management; Global Issues: Causes
+And Effects Of Disasters, Components Of Biodiversity,
+Conservation Of Biodiversity, Disaster Management,
+Education In Emergencies, Effects Of Natural Disasters,
+Fire As A Disaster, Flood As A Hazard, Glacial Lake
+Outburst Floods In Bhutan, Hazard And Disaster What
+They Are, Hazard Prediction, Human Responses To Hazards
+And Disasters, Impacts Of Industries, Importance Of
+Biodiversity, Lightning As A Hazard, Major Disasters Of
+The World, Potential Hazards And Disasters, Threats To
+Biodiversity, Types Of Disasters Natural And Human
+Induced, Types Of Hazards And Disasters In Bhutan and
+Windstorm As A Hazard.
+(All 119 new lessons are taught in 1 country (Bhutan),
+each standing on student book(s).)

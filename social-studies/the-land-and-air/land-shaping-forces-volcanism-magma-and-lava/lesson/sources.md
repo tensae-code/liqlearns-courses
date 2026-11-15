@@ -1,6 +1,6 @@
 # Sources — Land-Shaping Forces — Volcanism, Magma and Lava
 
-countries: Ethiopia, Barbados, Guatemala, Costa Rica, Indonesia, Eritrea, India, North Macedonia, Uganda, Sri Lanka, Afghanistan, Libya, Mozambique
+countries: Ethiopia, Barbados, Guatemala, Costa Rica, Indonesia, Eritrea, India, North Macedonia, Uganda, Sri Lanka, Afghanistan, Libya, Mozambique, Bhutan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -34,6 +34,8 @@ countries: Ethiopia, Barbados, Guatemala, Costa Rica, Indonesia, Eritrea, India,
 
 **Book 16:** *Módulo 3 de Geografia — Geomorfologia* (student book, Portuguese) — Ministério da Educação / IEDA; year not printed (uploaded to IEDA site 2022); no ISBN printed. Title as printed: Módulo 3 de Geografia — Geomorfologia. Grade: Grades 10–12 cycle (2º Ciclo), filed as Grade 10 (student/teacher: STUDENT). PDF pages: 138 (title page verified against the record title; byte size 5,627,754 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE (the book's own contents page omits Lição 2 "Rochas" — it is present in the body at printed p. 10; contents-page error in the book itself). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
 
+**Book 17:** *An Introduction to GEOGRAPHY Class VIII* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Royal Government of Bhutan, Thimphu; year Provisional Edition 2019, Copyright 2023, Reprint 2024; ISBN no ISBN printed. Title as printed: An Introduction to GEOGRAPHY Class VIII. Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 120 (cover/title page verified against the record title; byte size 9,992,518 and page count match the books.json record exactly — read via the record's ministry source URL). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The whole process | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 13–14 |
@@ -53,8 +55,9 @@ countries: Ethiopia, Barbados, Guatemala, Costa Rica, Indonesia, Eritrea, India,
 | Libya part — البراكين: Volcanoes — parts of a volcano and effects (Libya's Haruj mountains, volcanic islands and soils) | Libya, *Libya Grade 6 LY G6 Social Studies*, البراكين: Volcanoes — parts of a volcano and effects (Libya's Haruj mountains, volcanic islands and soils) — printed p. 71 |
 | Libya part — Book 2 Ch.1: البراكين — Volcanoes: ejecta, types and effects [placement slug: the-land-and-air/volcanoes-mountains-that-erupt] | Libya, *Libya Grade 10 LY G10 Principles*, Book 2 Ch.1: البراكين — Volcanoes: ejecta, types and effects — printed p. 39 |
 | Mozambique part — Lição 11: Vulcanismo (magma chamber, volcanic apparatus, lava and gases) | Mozambique, *Mozambique Grade 10 PESD II Mod 3*, Lição 11: Vulcanismo (magma chamber, volcanic apparatus, lava and gases) — printed p. 61 |
+| Bhutan part — Ch.5 5.5 Volcano | Bhutan, *Bhutan Grade 8 Geography*, Ch.5 5.5 Volcano — printed p. 35 |
 
-**Acceptance count: taught in 13 countries (Ethiopia, Barbados, Guatemala, Costa Rica, Indonesia, Eritrea, India, North Macedonia, Uganda, Sri Lanka, Afghanistan, Libya, Mozambique).**
+**Acceptance count: taught in 14 countries (Ethiopia, Barbados, Guatemala, Costa Rica, Indonesia, Eritrea, India, North Macedonia, Uganda, Sri Lanka, Afghanistan, Libya, Mozambique, Bhutan).**
 
 Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -87,3 +90,5 @@ Libya's own way (Libya Grade 6 LY G6 Social Studies): The geography half is "Pri
 Libya's own way (Libya Grade 10 LY G10 Principles): Secondary geography opens as a two-part systematic course — physical geography first (astronomy, surface-shaping factors, climate, vegetation and wild animals), then human geography (population and settlement, economic resources) — and closes with a whole book on spatial-data technology: remote sensing, GPS and GIS, then the history of maps from Babylon and Ibn Hawqal.
 
 Mozambique's own way (Mozambique Grade 10 PESD II Mod 3): a systematic geomorphology course — rocks and Earth's interior first, then isostasy, continental drift and plate tectonics, then internal agents (folds, faults, earthquakes, volcanoes in four lessons), then external agents and the modelled landscapes of hot, temperate, cold and coastal environments, closing with the geological cycle.
+
+Bhutan's own way (Bhutan Grade 8 Geography): Class VIII deepens the same three strands with real map-work (scale conversion, grid references, contours and profiles) and Bhutan-specific hazard and resource content, including the Rubesa wind turbine and hydroelectric dams as national resource examples.

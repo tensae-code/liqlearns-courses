@@ -1,6 +1,6 @@
 # Sources — Renewable, non-renewable — and using sustainably
 
-countries: Ethiopia, Nauru, Tuvalu, Bolivia, Bangladesh, Indonesia, Egypt, Malaysia, Papua New Guinea, Sudan, Syria, Kuwait, Afghanistan, Moldova, Jordan
+countries: Ethiopia, Nauru, Tuvalu, Bolivia, Bangladesh, Indonesia, Egypt, Malaysia, Papua New Guinea, Sudan, Syria, Kuwait, Afghanistan, Moldova, Jordan, Bhutan
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). Editors: Sintayehu Teka (MSc) (Content Editor), Kassie Molla (MA) (Language Editor), Hirut Woldemichael (MA) (Curriculum Editor). Illustrator: Agenchw Nega (MSc). Designer: Geda Hoka (MA). Evaluators: Dereje Guteta (PhD), Tesfaye Shiferaw (PhD), Abebe Yibeltie (MA), Hussein Seid (MA). First published 2023 under GEQIP-E. ISBN: 978-99990-0-049-9. Printed by Gravity Group IND LLC, 13th Industrial Area, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. 205 printed pp. Printed page = PDF page − 6 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md.
 
@@ -40,6 +40,8 @@ countries: Ethiopia, Nauru, Tuvalu, Bolivia, Bangladesh, Indonesia, Egypt, Malay
 
 **Book 19:** *الجغرافيا — الصف العاشر — الفصل الدراسي الثاني (Geography, Grade 10, Term 2)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-539-9. Title as printed: الجغرافيا — الصف العاشر — الفصل الدراسي الثاني (Geography, Grade 10, Term 2). Grade: 10 (student/teacher: STUDENT). PDF pages: 88 (cover verified; byte size 75,200,687 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
 
+**Book 20:** *AN INTRODUCTION TO GEOGRAPHY CLASS VII* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Royal Government of Bhutan, Thimphu; year Provisional edition 2018, Copyright 2023, Reprint 2024; ISBN 975-99936-0-455-8 (as printed). Title as printed: AN INTRODUCTION TO GEOGRAPHY CLASS VII. Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 86 (cover/title page verified against the record title; byte size 5,663,043 and page count match the books.json record exactly — read via the record's ministry source URL after the grab.py route proved unreliable for this group). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What a resource is | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 3, printed pp. 52–57 |
@@ -66,8 +68,9 @@ countries: Ethiopia, Nauru, Tuvalu, Bolivia, Bangladesh, Indonesia, Egypt, Malay
 | Moldova part — §3 Natural resources: general notions and classification; useful mineral resources of Moldova [placement slug: resources-and-conflict/natural-resources-renewable-and-non-renewable] | Moldova, *Moldova Grade 9 Geography*, §3 Natural resources: general notions and classification; useful mineral resources of Moldova — printed p. 15 |
 | Jordan part — Unit 4 Lesson 3: Energy (الطاقة) — renewable and non-renewable sources, energy sources in Jordan | Jordan, *Jordan G4 SS T1*, Unit 4 Lesson 3: Energy (الطاقة) — renewable and non-renewable sources, energy sources in Jordan — printed p. 68 |
 | Jordan part — Unit 5 Lesson 2: Energy Sources and Their Types (مصادر الطاقة وأنواعها) | Jordan, *Jordan G10 Geography T2*, Unit 5 Lesson 2: Energy Sources and Their Types (مصادر الطاقة وأنواعها) — printed p. 38 |
+| Bhutan part — Ch.13 13.4 Sustainable use of resources | Bhutan, *Bhutan Grade 7 Geography*, Ch.13 13.4 Sustainable use of resources — printed p. 67 |
 
-**Acceptance count: taught in 14 countries (Ethiopia, Nauru, Tuvalu, Bolivia, Bangladesh, Indonesia, Egypt, Malaysia, Sudan, Syria, Kuwait, Afghanistan, Moldova, Jordan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 15 countries (Ethiopia, Nauru, Tuvalu, Bolivia, Bangladesh, Indonesia, Egypt, Malaysia, Sudan, Syria, Kuwait, Afghanistan, Moldova, Jordan, Bhutan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -110,3 +113,5 @@ Moldova's own way (Moldova Grade 9 Geography): the human-geography year of one's
 Jordan's own way (Jordan G4 SS T1): Grade 4 Term 1 grounds the child in Jordanian society and dress, then an environment-resources-population unit: agriculture, industry, energy (renewable and not, in Jordan), human impact and Jordan's wildlife.
 
 Jordan's own way (Jordan G10 Geography T2): Grade 10 Term 2 turns to the planet's problems and futures — climate change, impact assessment, sustainable development, energy — then tours the New World continent by continent.
+
+Bhutan's own way (Bhutan Grade 7 Geography): From Class VII Geography becomes a standalone subject organised in three strands (Time and Space; Physical Environment; People and Environment), every world topic closed with its Bhutan case — climate of Bhutan, vegetation types of Bhutan, minerals of Bhutan, and Bhutan's Himalayan disaster set (earthquake, flood, windstorm, fire, GLOF).

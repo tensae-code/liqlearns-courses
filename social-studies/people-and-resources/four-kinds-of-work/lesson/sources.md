@@ -1,6 +1,6 @@
 # Sources — Four kinds of work
 
-countries: Ethiopia, Barbados, Jamaica, Angola, Bahamas, Samoa, Zimbabwe, Colombia, Eritrea, Cambodia, Rwanda, Fiji, Uganda, Venezuela, Afghanistan, Yemen, Honduras, Nepal, Mozambique, Jordan, Nicaragua
+countries: Ethiopia, Barbados, Jamaica, Angola, Bahamas, Samoa, Zimbabwe, Colombia, Eritrea, Cambodia, Rwanda, Fiji, Uganda, Venezuela, Afghanistan, Yemen, Honduras, Nepal, Mozambique, Jordan, Nicaragua, Bhutan
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -78,6 +78,8 @@ countries: Ethiopia, Barbados, Jamaica, Angola, Bahamas, Samoa, Zimbabwe, Colomb
 
 **Book 38:** *Conociendo mi Mundo, 2do Grado* (student book, Spanish) — Ministerio de Educación (MINED), Nicaragua; year 2015 (Primera Edición); ISBN no ISBN printed. Title as printed: Conociendo mi Mundo, 2do Grado. Grade: Grade 2 (student/teacher: STUDENT). PDF pages: 180 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nicaragua-placements.md.
 
+**Book 39:** *SOCIAL STUDIES CLASS IV* (student book, English) — Center for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; year Provisional Edition 2019, Reprint 2025; ISBN no ISBN printed (blank ISBN line on imprint page). Title as printed: SOCIAL STUDIES CLASS IV. Grade: Grade 4 (student/teacher: STUDENT). PDF pages: 80 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The four classes | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 5, printed pp. 122–124 |
@@ -120,8 +122,9 @@ countries: Ethiopia, Barbados, Jamaica, Angola, Bahamas, Samoa, Zimbabwe, Colomb
 | Mozambique part — Lição 10: sector classification exercises (civil construction, public works…) | Mozambique, *Mozambique Grade 10 PESD II Mod 5*, Lição 10: sector classification exercises (civil construction, public works…) — printed p. 74 |
 | Jordan part — Unit 3 Lesson 4: Professions in My Homeland (المهن في وطني) — teacher, engineer, doctor, programmer, baker, builder | Jordan, *Jordan G2 SS T1*, Unit 3 Lesson 4: Professions in My Homeland (المهن في وطني) — teacher, engineer, doctor, programmer, baker, builder — printed p. 55 |
 | Nicaragua part — Labores que desarrollan los hombres y mujeres de su municipio | Nicaragua, *Nicaragua Grade 2 Conociendo mi Mundo G2*, Labores que desarrollan los hombres y mujeres de su municipio — printed p. 171 |
+| Bhutan part — 11.2 Activities for earning a living | Bhutan, *Bhutan Grade 4 Social Studies*, 11.2 Activities for earning a living — printed p. 63 |
 
-**Acceptance count: taught in 19 countries (Ethiopia, Barbados, Angola, Bahamas, Samoa, Colombia, Eritrea, Cambodia, Rwanda, Fiji, Uganda, Venezuela, Afghanistan, Yemen, Honduras, Nepal, Mozambique, Jordan, Nicaragua). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 20 countries (Ethiopia, Barbados, Angola, Bahamas, Samoa, Colombia, Eritrea, Cambodia, Rwanda, Fiji, Uganda, Venezuela, Afghanistan, Yemen, Honduras, Nepal, Mozambique, Jordan, Nicaragua, Bhutan). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grades 7–9 Social Studies, curriculum guide — evidence): one guide carries all three secondary grades, each year mixing Civics, heritage and a strong resources-and-environment Geography spine — natural and human resources, movements of the Earth, Caribbean hazards, climate change, green technology and tourism — taught through Jamaican case material (bauxite communities, Caribbean disasters). That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
@@ -196,3 +199,5 @@ Mozambique's own way (Mozambique Grade 10 PESD II Mod 5): population geography t
 Jordan's own way (Jordan G2 SS T1): Grade 2 Term 1 is family, rights and community — the only outward-looking lessons are Jordanian customs and the professions of the homeland.
 
 Nicaragua's own way (Nicaragua Grade 2 Conociendo mi Mundo G2): Geography begins hyper-locally — the child's own school, municipality and landscape — and the country is introduced through its two great lakes (Cocibolca and Xolotlán) as the "land of lakes and volcanoes" before any wider world content. Non-Geography parts named, not placed: Unit II family, hygiene and food (printed pp. 9–32, home/health); Unit IV plant/animal/human-body topics (printed pp. 57–93, Natural Science); Unit V national symbols, heroes and traditions (printed pp. 113–143, Civics/History); Unit VI taxes (printed p. 151, Civics); efemérides throughout (History/Civics).
+
+Bhutan's own way (Bhutan Grade 4 Social Studies): Social Studies IV–VI integrates Geography with Civics, Culture, Economics, History and Religion (Foreword); Geography is taught from the child's home, village and district outward, with Bhutanese materials (stone, mud, wood, straw houses) and local forest and hazard examples throughout.

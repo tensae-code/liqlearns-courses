@@ -1,6 +1,6 @@
 # Sources — Parts every map must have
 
-countries: Ethiopia, Palestine, Samoa, Eritrea, Rwanda, Fiji, Papua New Guinea, Sudan, Pakistan, Mozambique, Jordan, Iraq
+countries: Ethiopia, Palestine, Samoa, Eritrea, Rwanda, Fiji, Papua New Guinea, Sudan, Pakistan, Mozambique, Jordan, Iraq, Bhutan
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -40,6 +40,8 @@ countries: Ethiopia, Palestine, Samoa, Eritrea, Rwanda, Fiji, Papua New Guinea, 
 
 **Book 19:** *أُسُس الجغرافية وتقنياتها (Foundations of Geography and Its Techniques) للصف الرابع الأدبي — the record's shorter title "Geography (Literary Track)" is the same book: same grade, track and subject, verified by cover and contents* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; revised by a committee in the Ministry of Education; year 1445 AH / 2023 CE, revised 13th edition (الطبعة الثالثة عشرة / المنقحة); ISBN no ISBN printed on the title pages. Title as printed: أُسُس الجغرافية وتقنياتها (Foundations of Geography and Its Techniques) للصف الرابع الأدبي — the record's shorter title "Geography (Literary Track)" is the same book: same grade, track and subject, verified by cover and contents. Grade: 10 (fourth secondary, literary track) (student/teacher: STUDENT). PDF pages: 144 (cover/title page verified as above; read via the books.json record's own Google Drive source file — same book, cover and contents verified — after the GitHub route failed). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iraq-placements.md.
 
+**Book 20:** *AN INTRODUCTION TO GEOGRAPHY CLASS VII* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Royal Government of Bhutan, Thimphu; year Provisional edition 2018, Copyright 2023, Reprint 2024; ISBN 975-99936-0-455-8 (as printed). Title as printed: AN INTRODUCTION TO GEOGRAPHY CLASS VII. Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 86 (cover/title page verified against the record title; byte size 5,663,043 and page count match the books.json record exactly — read via the record's ministry source URL after the grab.py route proved unreliable for this group). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The checklist | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 8, printed pp. 199–201 |
@@ -62,8 +64,9 @@ countries: Ethiopia, Palestine, Samoa, Eritrea, Rwanda, Fiji, Papua New Guinea, 
 | Jordan part — Unit 8 Lesson 1: The Map and Its Elements (الخريطة وعناصرها) | Jordan, *Jordan G4 SS T2*, Unit 8 Lesson 1: The Map and Its Elements (الخريطة وعناصرها) — printed p. 70 |
 | Iraq part — Ch. 1: Elements of the map on Iraq's administrative map: title, scale, key, north direction, frame | Iraq, *Iraq Grade 4 Social Studies*, Ch. 1: Elements of the map on Iraq's administrative map: title, scale, key, north direction, frame — printed p. 12 |
 | Iraq part — Ch. 4: The map's elements — the key of conventional symbols and the coordinate grid (the graticule of latitude and longitude) | Iraq, *Iraq Grade 10 Geography*, Ch. 4: The map's elements — the key of conventional symbols and the coordinate grid (the graticule of latitude and longitude) — printed p. 84 |
+| Bhutan part — Ch.3 3.2 Properties of map | Bhutan, *Bhutan Grade 7 Geography*, Ch.3 3.2 Properties of map — printed p. 8 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Palestine, Samoa, Eritrea, Rwanda, Fiji, Sudan, Pakistan, Mozambique, Jordan, Iraq). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 12 countries (Ethiopia, Palestine, Samoa, Eritrea, Rwanda, Fiji, Sudan, Pakistan, Mozambique, Jordan, Iraq, Bhutan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Searchable tags: map components, title, scale, north point, legend, declination, social studies
 
@@ -100,3 +103,5 @@ Jordan's own way (Jordan G4 SS T2): Term 2 ends with Jordan's region — the wor
 Iraq's own way (Iraq Grade 4 Social Studies): geography enters inside "Social Studies" through the child's own surroundings — phenomena are sorted from photographs first, then the local environment, then the map of Iraq's governorates, and only then the wider geographical environments (city, countryside); history and homeland/civics chapters follow in the same book.
 
 Iraq's own way (Iraq Grade 10 Geography): the literary track opens geography as a discipline in its own right — its thought from the Sumerians to GIS, how a geographer researches, where geographical data come from and how they are drawn, and only then the fields of the science; Iraq supplies the worked examples throughout (Baghdad research problem, Iraqi topographic maps, Iraq's gas time series, the Baghdad–Basra distance exercise).
+
+Bhutan's own way (Bhutan Grade 7 Geography): From Class VII Geography becomes a standalone subject organised in three strands (Time and Space; Physical Environment; People and Environment), every world topic closed with its Bhutan case — climate of Bhutan, vegetation types of Bhutan, minerals of Bhutan, and Bhutan's Himalayan disaster set (earthquake, flood, windstorm, fire, GLOF).

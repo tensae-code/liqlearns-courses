@@ -1,6 +1,6 @@
 # Sources — Map Scale — The Three Ways of Stating Scale
 
-countries: Ethiopia, Bangladesh, Malaysia, Eritrea, Fiji, Papua New Guinea, Uganda, Sudan, Venezuela, Sri Lanka, Iran, Yemen, Pakistan, Libya, Mozambique, Iraq
+countries: Ethiopia, Bangladesh, Malaysia, Eritrea, Fiji, Papua New Guinea, Uganda, Sudan, Venezuela, Sri Lanka, Iran, Yemen, Pakistan, Libya, Mozambique, Iraq, Bhutan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -48,6 +48,10 @@ countries: Ethiopia, Bangladesh, Malaysia, Eritrea, Fiji, Papua New Guinea, Ugan
 
 **Book 23:** *الاجتماعيات للصف الرابع الابتدائي (Social Studies for the Fourth Primary Grade)* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula (المديرية العامة للمناهج); year 1445 AH / 2023 CE, 13th edition (الطبعة الثالثة عشرة); ISBN no ISBN printed on the title pages. Title as printed: الاجتماعيات للصف الرابع الابتدائي (Social Studies for the Fourth Primary Grade). Grade: 4 (student/teacher: STUDENT). PDF pages: 64 (cover/title page verified against the record title; read via the books.json record's own Google Drive source file after the GitHub release and tree grabs failed with RemoteDisconnected three times — same book, cover and contents verified). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iraq-placements.md.
 
+**Book 24:** *An Introduction to GEOGRAPHY Class VIII* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Royal Government of Bhutan, Thimphu; year Provisional Edition 2019, Copyright 2023, Reprint 2024; ISBN no ISBN printed. Title as printed: An Introduction to GEOGRAPHY Class VIII. Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 120 (cover/title page verified against the record title; byte size 9,992,518 and page count match the books.json record exactly — read via the record's ministry source URL). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
+**Book 25:** *ADVANCED GEOGRAPHY CLASS XI* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Thimphu; year Provisional Edition 2022, Copyright 2023, Reprint 2024; ISBN no ISBN printed. Title as printed: ADVANCED GEOGRAPHY CLASS XI. Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 182 (cover/title page verified against the record title; byte size 19,627,789 and page count match the books.json record exactly — read via the record's ministry source URL; this book is also the TSV release record grade-11-gov-bhutan-geography-full-year.pdf, same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What scale is | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 27–29 |
@@ -74,8 +78,10 @@ countries: Ethiopia, Bangladesh, Malaysia, Eritrea, Fiji, Papua New Guinea, Ugan
 | Libya part — الخريطة ومقياس الرسم: The map and drawing scale | Libya, *Libya Grade 5 LY G5 Social Studies*, الخريطة ومقياس الرسم: The map and drawing scale — printed p. 93 |
 | Mozambique part — Lição 3: Escala (numerical, graphic; worked conversions) | Mozambique, *Mozambique Grade 7 PESD I Mod 1*, Lição 3: Escala (numerical, graphic; worked conversions) — printed p. 23 |
 | Iraq part — Ch. 1: Map scale — the bar scale and measuring the real Baghdad–Karbala distance | Iraq, *Iraq Grade 4 Social Studies*, Ch. 1: Map scale — the bar scale and measuring the real Baghdad–Karbala distance — printed p. 13 |
+| Bhutan part — Ch.3 3.1 Types of Scale | Bhutan, *Bhutan Grade 8 Geography*, Ch.3 3.1 Types of Scale — printed p. 11 |
+| Bhutan part — Ch.3 3.5 Scale | Bhutan, *Bhutan Grade 11 Geography*, Ch.3 3.5 Scale — printed p. 49 |
 
-**Acceptance count: taught in 15 countries (Ethiopia, Bangladesh, Malaysia, Eritrea, Fiji, Uganda, Sudan, Venezuela, Sri Lanka, Iran, Yemen, Pakistan, Libya, Mozambique, Iraq). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 16 countries (Ethiopia, Bangladesh, Malaysia, Eritrea, Fiji, Uganda, Sudan, Venezuela, Sri Lanka, Iran, Yemen, Pakistan, Libya, Mozambique, Iraq, Bhutan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Pairing warning: the Grade 8 teacher guide is an Addis Ababa bureau book and the student book is an Amhara bureau book; they are NOT edition-matched, and the guide in hand is truncated (printed pp. 1–47 only, Units 1–3). Pupil content in this lesson comes from the Amhara student book; anything from the guide is labelled (teacher guide — evidence) and never presented as pupil-taught.
 
@@ -122,3 +128,7 @@ Libya's own way (Libya Grade 5 LY G5 Social Studies): Half the book is Islamic h
 Mozambique's own way (Mozambique Grade 7 PESD I Mod 1): distance-learning self-study module — every lesson follows the same rhythm (introduction, development with worked examples, exercises, answer key, lesson summary); the four Earth spheres are the organising spine of the whole module, each sphere closed by a "use, protection and conservation" lesson; local anchors throughout (Maputo temperature worked example, Zambezi delta, Moma/Namialo weather contrast).
 
 Iraq's own way (Iraq Grade 4 Social Studies): geography enters inside "Social Studies" through the child's own surroundings — phenomena are sorted from photographs first, then the local environment, then the map of Iraq's governorates, and only then the wider geographical environments (city, countryside); history and homeland/civics chapters follow in the same book.
+
+Bhutan's own way (Bhutan Grade 8 Geography): Class VIII deepens the same three strands with real map-work (scale conversion, grid references, contours and profiles) and Bhutan-specific hazard and resource content, including the Rubesa wind turbine and hydroelectric dams as national resource examples.
+
+Bhutan's own way (Bhutan Grade 11 Geography): The Advanced level (XI–XII) is full academic geography — map projections, remote sensing and GIS, insolation and pressure belts, climate classification — with Bhutan applied chapters on agriculture, manufacturing and tourism, the last taught on Bhutan's own sustainability principle ("high value, low volume" in the Bhutan Tourism Monitor data the book uses).

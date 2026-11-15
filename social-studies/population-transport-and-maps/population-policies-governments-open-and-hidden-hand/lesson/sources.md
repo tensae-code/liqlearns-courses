@@ -1,6 +1,6 @@
 # Sources — Population policies — government's open and hidden hand
 
-countries: Ethiopia, Nepal
+countries: Ethiopia, Nepal, Bhutan
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Nepal
 
 **Book 5:** *Samajik Adhyayan Kaksha 9 (Social Studies Grade 9, 2079)* (student book, Nepali) — Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; year First edition 2079 BS; ISBN 978-9937-601-… (ISBN printed truncated in the imprint scan: "978-9937-601- -"). Title as printed: Samajik Adhyayan Kaksha 9 (Social Studies Grade 9, 2079). Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 257 (cover/title page verified against the record title — Devanagari title page matches). Verdict: COMPLETE. Non-Geography parts named (not placed): Unit 1 We and our society (printed pp. 1–16); Unit 3 Our social values and beliefs (pp. 35–72); Unit 4 Social problems and solutions (pp. 73–85); Unit 5 Civic consciousness (pp. 86–115, civics); Unit 7 Our Past (pp. 167–194, History); Unit 9 International relations, peace and cooperation (pp. 217–234). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nepal-placements.md.
 
+**Book 6:** *An Introduction to GEOGRAPHY Class VIII* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Royal Government of Bhutan, Thimphu; year Provisional Edition 2019, Copyright 2023, Reprint 2024; ISBN no ISBN printed. Title as printed: An Introduction to GEOGRAPHY Class VIII. Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 120 (cover/title page verified against the record title; byte size 9,992,518 and page count match the books.json record exactly — read via the record's ministry source URL). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What policy is | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 4, printed pp. 117–118 |
@@ -21,8 +23,9 @@ countries: Ethiopia, Nepal
 | Nepal part — Unit 8 Lesson 5: Population management / Lesson 6: Role of different agencies in population management | Nepal, *Nepal Grade 7 np-g7*, Unit 8 Lesson 5: Population management / Lesson 6: Role of different agencies in population management — printed p. 168 |
 | Nepal part — Unit 8 Lessons 5–6: Population management and the role of agencies (teacher guide — evidence) | Nepal, *Nepal Grade 7 TG np-g7tg* (teacher guide), Unit 8 Lessons 5–6: Population management and the role of agencies — TG p. 166 |
 | Nepal part — Unit 10 Lesson 5: Population management | Nepal, *Nepal Grade 9 np-g9*, Unit 10 Lesson 5: Population management — printed p. 246 |
+| Bhutan part — Ch.10 10.6 Population Planning | Bhutan, *Bhutan Grade 8 Geography*, Ch.10 10.6 Population Planning — printed p. 70 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Nepal).**
+**Acceptance count: taught in 3 countries (Ethiopia, Nepal, Bhutan).**
 
 No book error is flagged for this lesson's pages in the placements. The student book's body numbering for Unit Two drifts from its own contents (regions printed as 2.4, factors as 2.5, local classification as 2.6, where the contents and the teacher guide's contents agree on 2.3, 2.4 and 2.5); this lesson follows the contents numbering and teaches no misprint.
 
@@ -33,3 +36,5 @@ Nepal's own way (Nepal Grade 7 np-g7): Grade 7 Earth science is motion-first —
 Nepal's own way (Nepal Grade 7 TG np-g7tg) (teacher guide — evidence): The guide teaches the same Grade 7 course as np-g7 with globe-and-ball demonstrations of rotation/revolution, chart work on Nepal's demographic structure (age, sex, religion, caste, language distributions), and discussion-led lessons; its geography content mirrors the student book lesson for lesson, so placements repeat with guide page references. That evidence is stocked here as the way Nepal teaches this thing; it is cited as evidence only — Nepal is counted in this lesson through its student book(s).
 
 Nepal's own way (Nepal Grade 9 np-g9): Grade 9 "Hamro Prithvi" widens from Nepal (latitude/longitude, surface form, climate, vegetation, minerals and water resources, map work) to whole continents — Asia, Europe and Australia, each in two lessons (geographical/natural environment, then economic activities and social life); the preface notes this is a model textbook tested in schools under the 2076 secondary curriculum.
+
+Bhutan's own way (Bhutan Grade 8 Geography): Class VIII deepens the same three strands with real map-work (scale conversion, grid references, contours and profiles) and Bhutan-specific hazard and resource content, including the Rubesa wind turbine and hydroelectric dams as national resource examples.

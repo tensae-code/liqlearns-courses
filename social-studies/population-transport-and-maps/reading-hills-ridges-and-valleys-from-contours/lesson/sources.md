@@ -1,6 +1,6 @@
 # Sources — Reading hills, ridges and valleys from contours
 
-countries: Ethiopia, Malaysia, Uganda, Sudan
+countries: Ethiopia, Malaysia, Uganda, Sudan, Bhutan
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Malaysia, Uganda, Sudan
 
 **Book 5:** *الجغرافيا والدراسات البيئية — Geography and Environmental Studies, First Year Secondary (الصف الأول الثانوي) [record title omits "and Environmental Studies"]* (student book, Arabic) — Republic of Sudan, Ministry of Education and National Education, National Centre for Curricula and Educational Research (Bakht al-Ruda); year not printed on cover/title pages seen; no ISBN printed. Title as printed: الجغرافيا والدراسات البيئية — Geography and Environmental Studies, First Year Secondary (الصف الأول الثانوي) [record title omits "and Environmental Studies"]. Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 195 (cover verified against the record title; byte size 31,004,701 and page count match the staging books.json record exactly). Verdict: COMPLETE. How read: PDF text layer is font-garbled, so read visually from rendered pages — cover, preface (4-unit structure), unit objectives and interior spreads across all four units. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sudan-placements.md.
 
+**Book 6:** *INTERMEDIATE GEOGRAPHY CLASS IX* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu (title page; developed with the Royal Education Council, Paro); year Reprint 2024 (page footers); ISBN no ISBN printed (no imprint page in the PDF). Title as printed: INTERMEDIATE GEOGRAPHY CLASS IX. Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 123 (cover/title page verified against the record title; byte size 10,807,956 and page count match the books.json record exactly — read via the record's ministry source URL). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Hills and mountains | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 8, printed pp. 221–223 |
@@ -21,8 +23,9 @@ countries: Ethiopia, Malaysia, Uganda, Sudan
 | Malaysia part (MY T4 Geografi Tingkatan 4) — Bab 3.3: distinguishing landforms from cross-sections (placement slug: the-land-and-air/reading-hills-ridges-and-valleys-from-contours) | Malaysia, *MY T4 Geografi*, Bab 3.3: distinguishing landforms from cross-sections — printed pp. 38-43 |
 | Uganda part — Lesson 10: Describing relief on contour maps | Uganda, *Uganda Grade 10 UG S3 Geography Home-Study*, Lesson 10: Describing relief on contour maps — printed p. 47 |
 | Sudan part — Reading valleys and spurs from contour lines | Sudan, *Sudan Grade 10 SD Geography 10*, Reading valleys and spurs from contour lines — printed p. 160 |
+| Bhutan part — Ch.4 4.6 Contours and Profile | Bhutan, *Bhutan Grade 9 Geography*, Ch.4 4.6 Contours and Profile — printed p. 29 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Malaysia, Uganda, Sudan).**
+**Acceptance count: taught in 5 countries (Ethiopia, Malaysia, Uganda, Sudan, Bhutan).**
 
 No book error is flagged for this lesson's pages in the placements. The student book's body numbering for Unit Two drifts from its own contents (regions printed as 2.4, factors as 2.5, local classification as 2.6, where the contents and the teacher guide's contents agree on 2.3, 2.4 and 2.5); this lesson follows the contents numbering and teaches no misprint.
 
@@ -33,3 +36,5 @@ Malaysia's own way (MY T4 Geografi Tingkatan 4): upper-secondary Geography is a 
 Uganda's own way (Uganda Grade 10 UG S3 Geography Home-Study): COVID-era self-study booklet: first half is East Africa's human geography (towns/ports, transport, trade) plus heavy practical map-work and photograph interpretation on Ugandan survey-map extracts (Tororo, Kakuto, Samia); second half is a "studies in development" comparison — the Rhinelands and landlocked Switzerland held up as models against East Africa.
 
 Sudan's own way (Sudan Grade 10 SD Geography 10): A second-edition foundations book (the preface says necessity forced this 2nd edition): physical geography first (universe to rivers), then climate and vegetation, then a long practical cartography unit, closing with GIS — geography taught as a skills subject, with an activity (نشاط) box on most spreads.
+
+Bhutan's own way (Bhutan Grade 9 Geography): The Intermediate level (IX–X) treats each world topic at full textbook depth and keeps the Bhutan case inside it — Soils of Bhutan, agro-ecological zones and farming practices of Bhutan, and common disasters in Bhutan (including GLOF) alongside the world disaster survey.

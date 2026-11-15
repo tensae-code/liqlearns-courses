@@ -1,6 +1,6 @@
 # Sources — Reading a landscape from its map
 
-countries: Ethiopia, Bangladesh, Malaysia, Slovenia, Uganda, Nepal, Nicaragua
+countries: Ethiopia, Bangladesh, Malaysia, Slovenia, Uganda, Nepal, Nicaragua, Bhutan
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -24,6 +24,10 @@ countries: Ethiopia, Bangladesh, Malaysia, Slovenia, Uganda, Nepal, Nicaragua
 
 **Book 11:** *Conociendo mi Mundo, 2do Grado* (student book, Spanish) — Ministerio de Educación (MINED), Nicaragua; year 2015 (Primera Edición); ISBN no ISBN printed. Title as printed: Conociendo mi Mundo, 2do Grado. Grade: Grade 2 (student/teacher: STUDENT). PDF pages: 180 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nicaragua-placements.md.
 
+**Book 12:** *INTERMEDIATE GEOGRAPHY CLASS X* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu (title page; developed with the Royal Education Council, Paro); year Reprint 2024 (page footers); ISBN no ISBN printed (no imprint page in the PDF). Title as printed: INTERMEDIATE GEOGRAPHY CLASS X. Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 124 (cover/title page verified against the record title; byte size 12,820,771 and page count match the books.json record exactly — read via the record's ministry source URL; this book is also the TSV release record grade-10-gov-bhutan-geography-full-year.pdf, same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
+**Book 13:** *ADVANCED GEOGRAPHY CLASS XI* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Thimphu; year Provisional Edition 2022, Copyright 2023, Reprint 2024; ISBN no ISBN printed. Title as printed: ADVANCED GEOGRAPHY CLASS XI. Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 182 (cover/title page verified against the record title; byte size 19,627,789 and page count match the books.json record exactly — read via the record's ministry source URL; this book is also the TSV release record grade-11-gov-bhutan-geography-full-year.pdf, same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Contours into relief | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 8, printed pp. 220–223 |
@@ -38,8 +42,10 @@ countries: Ethiopia, Bangladesh, Malaysia, Slovenia, Uganda, Nepal, Nicaragua
 | Nepal part — Unit 5 Lesson 2: Kanchanpur District on a Map | Nepal, *Nepal Grade 4 np-g4*, Unit 5 Lesson 2: Kanchanpur District on a Map — printed p. 56 |
 | Nepal part — Unit 7 Lesson 10: Map study | Nepal, *Nepal Grade 6 np-g6*, Unit 7 Lesson 10: Map study — printed p. 167 |
 | Nicaragua part — Paisaje del municipio donde vive | Nicaragua, *Nicaragua Grade 2 Conociendo mi Mundo G2*, Paisaje del municipio donde vive — printed p. 149 |
+| Bhutan part — Ch.4 4.3 Interpretation of Topographical Map | Bhutan, *Bhutan Grade 10 Geography*, Ch.4 4.3 Interpretation of Topographical Map — printed p. 24 |
+| Bhutan part — Ch.3 3.7 Interpretation of Topographical Map | Bhutan, *Bhutan Grade 11 Geography*, Ch.3 3.7 Interpretation of Topographical Map — printed p. 52 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Bangladesh, Malaysia, Slovenia, Uganda, Nepal, Nicaragua).**
+**Acceptance count: taught in 8 countries (Ethiopia, Bangladesh, Malaysia, Slovenia, Uganda, Nepal, Nicaragua, Bhutan).**
 
 Searchable tags: contour interpretation, landscape reading, relief, drainage, settlement, land use, social studies
 
@@ -60,3 +66,7 @@ Nepal's own way (Nepal Grade 4 np-g4): Grade 4 "Our Earth" moves to the district
 Nepal's own way (Nepal Grade 6 np-g6): Grade 6 has a full "Hamro Prithvi" (Our Earth) unit — Earth's introduction, latitude/longitude, outer-layer structure, then Nepal itself: geographical description, climate, rivers/glaciers/lakes, natural vegetation, natural resources and map study, closing with disaster management; a population unit follows (demography, the census). Economic activities are organised by region and resource: agriculture and industry, services and trade, tourism, and economic resources (land and water; forest, minerals and people).
 
 Nicaragua's own way (Nicaragua Grade 2 Conociendo mi Mundo G2): Geography begins hyper-locally — the child's own school, municipality and landscape — and the country is introduced through its two great lakes (Cocibolca and Xolotlán) as the "land of lakes and volcanoes" before any wider world content. Non-Geography parts named, not placed: Unit II family, hygiene and food (printed pp. 9–32, home/health); Unit IV plant/animal/human-body topics (printed pp. 57–93, Natural Science); Unit V national symbols, heroes and traditions (printed pp. 113–143, Civics/History); Unit VI taxes (printed p. 151, Civics); efemérides throughout (History/Civics).
+
+Bhutan's own way (Bhutan Grade 10 Geography): Class X pairs deep physical theory (Big Bang, plate tectonics, the making of the Himalayas) with an applied Bhutan block — climate and vegetation zones of Bhutan, Bhutanese agriculture's challenges and advancement, industries and their distribution, and a Bhutan disaster chapter that adds Education in Emergency.
+
+Bhutan's own way (Bhutan Grade 11 Geography): The Advanced level (XI–XII) is full academic geography — map projections, remote sensing and GIS, insolation and pressure belts, climate classification — with Bhutan applied chapters on agriculture, manufacturing and tourism, the last taught on Bhutan's own sustainability principle ("high value, low volume" in the Bhutan Tourism Monitor data the book uses).

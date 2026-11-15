@@ -1,6 +1,6 @@
 # Sources — The geological timescale — Earth's timetable
 
-countries: Ethiopia, Bolivia, Slovenia, Jordan
+countries: Ethiopia, Bolivia, Slovenia, Jordan, Bhutan
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Bolivia, Slovenia, Jordan
 
 **Book 6:** *علوم الأرض والبيئة — الصف الثاني عشر — المسار الأكاديمي — كتاب الطالب — الفصل الدراسي الثاني (Earth Science and Environment, Grade 12 Academic Track, Term 2; this PDF is the NCCD preparation copy, نسخة قيد الإعداد)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-809-3. Title as printed: علوم الأرض والبيئة — الصف الثاني عشر — المسار الأكاديمي — كتاب الطالب — الفصل الدراسي الثاني (Earth Science and Environment, Grade 12 Academic Track, Term 2; this PDF is the NCCD preparation copy, نسخة قيد الإعداد). Grade: 12 (student/teacher: STUDENT). PDF pages: 148 (cover verified; byte size 62,280,323 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
 
+**Book 7:** *INTERMEDIATE GEOGRAPHY CLASS X* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu (title page; developed with the Royal Education Council, Paro); year Reprint 2024 (page footers); ISBN no ISBN printed (no imprint page in the PDF). Title as printed: INTERMEDIATE GEOGRAPHY CLASS X. Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 124 (cover/title page verified against the record title; byte size 12,820,771 and page count match the books.json record exactly — read via the record's ministry source URL; this book is also the TSV release record grade-10-gov-bhutan-geography-full-year.pdf, same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — A timetable for a planet | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 1, printed pp. 7–8 |
@@ -24,8 +26,9 @@ countries: Ethiopia, Bolivia, Slovenia, Jordan
 | Slovenia part — Geološki razvoj Zemlje (the Earth's geological development) inside Kamnine in geološki razvoj Zemlje | Slovenia, *Slovenia Grade 10 Geografija 1 (gimnazija)*, Geološki razvoj Zemlje (the Earth's geological development) inside Kamnine in geološki razvoj Zemlje — printed p. 27 |
 | Jordan part — Unit 7 History of the Earth: fossils in stratigraphic sequences, cross-cutting and inclusion principles, relative dating | Jordan, *Jordan G12 ES T2 Workbook*, Unit 7 History of the Earth: fossils in stratigraphic sequences, cross-cutting and inclusion principles, relative dating — printed p. 41 |
 | Jordan part — Unit 7: The Geological Timescale (السلم الزمني الجيولوجي) | Jordan, *Jordan G12 ES T2*, Unit 7: The Geological Timescale (السلم الزمني الجيولوجي) — printed p. ~120 |
+| Bhutan part — Ch.2 2.5 Geological Time Scale | Bhutan, *Bhutan Grade 10 Geography*, Ch.2 2.5 Geological Time Scale — printed p. 11 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Bolivia, Slovenia, Jordan).**
+**Acceptance count: taught in 5 countries (Ethiopia, Bolivia, Slovenia, Jordan, Bhutan).**
 
 No book error is flagged for this lesson's pages in the placements. The student book's body numbering for Unit Two drifts from its own contents (regions printed as 2.4, factors as 2.5, local classification as 2.6, where the contents and the teacher guide's contents agree on 2.3, 2.4 and 2.5); this lesson follows the contents numbering and teaches no misprint.
 
@@ -38,3 +41,5 @@ Slovenia's own way (Slovenia Grade 10 Geografija 1 (gimnazija)): the gimnazija f
 Jordan's own way (Jordan G12 ES T2 Workbook): the final-term activities book spans the universe (galaxies, dark matter, the Big Bang), severe weather (tornado and flood modelling) and deep time — ending with building a geological timescale for Jordan itself.
 
 Jordan's own way (Jordan G12 ES T2): the last term spans galaxies and the origin of the universe, severe weather and how to stay safe in it, and the history of the Earth — with geological tourism in Jordan as the closing enrichment.
+
+Bhutan's own way (Bhutan Grade 10 Geography): Class X pairs deep physical theory (Big Bang, plate tectonics, the making of the Himalayas) with an applied Bhutan block — climate and vegetation zones of Bhutan, Bhutanese agriculture's challenges and advancement, industries and their distribution, and a Bhutan disaster chapter that adds Education in Emergency.

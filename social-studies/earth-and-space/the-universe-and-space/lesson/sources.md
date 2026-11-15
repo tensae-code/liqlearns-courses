@@ -1,6 +1,6 @@
 # Sources — The Universe and Space
 
-countries: Ethiopia, Dominican Republic, Colombia, India, Sudan, Syria, Kuwait, Afghanistan, Yemen, Mozambique, Jordan
+countries: Ethiopia, Dominican Republic, Colombia, India, Sudan, Syria, Kuwait, Afghanistan, Yemen, Mozambique, Jordan, Bhutan
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page - 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md.
 
@@ -26,6 +26,8 @@ countries: Ethiopia, Dominican Republic, Colombia, India, Sudan, Syria, Kuwait, 
 
 **Book 12:** *علوم الأرض والبيئة — الصف الثاني عشر — المسار الأكاديمي — كتاب الطالب — الفصل الدراسي الثاني (Earth Science and Environment, Grade 12 Academic Track, Term 2; this PDF is the NCCD preparation copy, نسخة قيد الإعداد)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-809-3. Title as printed: علوم الأرض والبيئة — الصف الثاني عشر — المسار الأكاديمي — كتاب الطالب — الفصل الدراسي الثاني (Earth Science and Environment, Grade 12 Academic Track, Term 2; this PDF is the NCCD preparation copy, نسخة قيد الإعداد). Grade: 12 (student/teacher: STUDENT). PDF pages: 148 (cover verified; byte size 62,280,323 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
 
+**Book 13:** *ADVANCED GEOGRAPHY CLASS XI* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Thimphu; year Provisional Edition 2022, Copyright 2023, Reprint 2024; ISBN no ISBN printed. Title as printed: ADVANCED GEOGRAPHY CLASS XI. Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 182 (cover/title page verified against the record title; byte size 19,627,789 and page count match the books.json record exactly — read via the record's ministry source URL; this book is also the TSV release record grade-11-gov-bhutan-geography-full-year.pdf, same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The universe: boundless space holding all matter | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 1, printed p. 4 |
@@ -47,8 +49,9 @@ countries: Ethiopia, Dominican Republic, Colombia, India, Sudan, Syria, Kuwait, 
 | Jordan part — Unit 5 Lesson 1: Galaxies and Their Types (المجرات وأنواعها) | Jordan, *Jordan G12 ES T2*, Unit 5 Lesson 1: Galaxies and Their Types (المجرات وأنواعها) — printed p. 10 |
 | Jordan part — Unit 5 Lessons 2–3: The Expansion of the Universe and Its Acceleration (توسع الكون وتسارع توسعه) | Jordan, *Jordan G12 ES T2*, Unit 5 Lessons 2–3: The Expansion of the Universe and Its Acceleration (توسع الكون وتسارع توسعه) — printed p. 21 |
 | Jordan part — Unit 5 Lesson 4 + Enrichment: Theories of the Origin of the Universe; the James Webb Space Telescope (نظريات نشأة الكون؛ مقراب جيمس ويب الفضائي) | Jordan, *Jordan G12 ES T2*, Unit 5 Lesson 4 + Enrichment: Theories of the Origin of the Universe; the James Webb Space Telescope (نظريات نشأة الكون؛ مقراب جيمس ويب الفضائي) — printed p. 36 |
+| Bhutan part — Ch.2 The Origin of the Universe (Big Bang and Solar Nebula theories) | Bhutan, *Bhutan Grade 11 Geography*, Ch.2 The Origin of the Universe (Big Bang and Solar Nebula theories) — printed p. 25 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Dominican Republic, Colombia, India, Sudan, Syria, Kuwait, Afghanistan, Yemen, Mozambique, Jordan).**
+**Acceptance count: taught in 12 countries (Ethiopia, Dominican Republic, Colombia, India, Sudan, Syria, Kuwait, Afghanistan, Yemen, Mozambique, Jordan, Bhutan).**
 
 No book errors are flagged by the placements for these pages.
 
@@ -75,3 +78,5 @@ Mozambique's own way (Mozambique Grade 7 PESD I Mod 1): distance-learning self-s
 Jordan's own way (Jordan G12 ES T2 Workbook): the final-term activities book spans the universe (galaxies, dark matter, the Big Bang), severe weather (tornado and flood modelling) and deep time — ending with building a geological timescale for Jordan itself.
 
 Jordan's own way (Jordan G12 ES T2): the last term spans galaxies and the origin of the universe, severe weather and how to stay safe in it, and the history of the Earth — with geological tourism in Jordan as the closing enrichment.
+
+Bhutan's own way (Bhutan Grade 11 Geography): The Advanced level (XI–XII) is full academic geography — map projections, remote sensing and GIS, insolation and pressure belts, climate classification — with Bhutan applied chapters on agriculture, manufacturing and tourism, the last taught on Bhutan's own sustainability principle ("high value, low volume" in the Bhutan Tourism Monitor data the book uses).

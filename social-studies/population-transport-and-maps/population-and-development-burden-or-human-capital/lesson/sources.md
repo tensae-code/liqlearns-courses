@@ -1,6 +1,6 @@
 # Sources — Population and development — burden or human capital?
 
-countries: Ethiopia, Zimbabwe, Papua New Guinea, Sudan, Yemen, Nepal, Mozambique, Jordan
+countries: Ethiopia, Zimbabwe, Papua New Guinea, Sudan, Yemen, Nepal, Mozambique, Jordan, Bhutan
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Zimbabwe, Papua New Guinea, Sudan, Yemen, Nepal, Mozambique
 
 **Book 9:** *الدراسات الاجتماعية — الصف الثامن — الفصل الدراسي الأول (Social Studies, Grade 8, Term 1)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; year 2024; ISBN 978-9923-41-847-5. Title as printed: الدراسات الاجتماعية — الصف الثامن — الفصل الدراسي الأول (Social Studies, Grade 8, Term 1). Grade: 8 (student/teacher: STUDENT). PDF pages: 144 (cover verified; byte size 26,627,986 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
 
+**Book 10:** *INTERMEDIATE GEOGRAPHY CLASS X* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu (title page; developed with the Royal Education Council, Paro); year Reprint 2024 (page footers); ISBN no ISBN printed (no imprint page in the PDF). Title as printed: INTERMEDIATE GEOGRAPHY CLASS X. Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 124 (cover/title page verified against the record title; byte size 12,820,771 and page count match the books.json record exactly — read via the record's ministry source URL; this book is also the TSV release record grade-10-gov-bhutan-geography-full-year.pdf, same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Development unpacked | G12 student #51, printed pp. 107–115 |
@@ -32,8 +34,9 @@ countries: Ethiopia, Zimbabwe, Papua New Guinea, Sudan, Yemen, Nepal, Mozambique
 | Nepal part — Unit 8 Lesson 4: Demographic condition and quality of life (teacher guide — evidence) | Nepal, *Nepal Grade 7 TG np-g7tg* (teacher guide), Unit 8 Lesson 4: Demographic condition and quality of life — TG p. 166 |
 | Mozambique part — Lição 12: Importância da Relação População–Economia (population as industrialisation support in the North) | Mozambique, *Mozambique Grade 10 PESD II Mod 5*, Lição 12: Importância da Relação População–Economia (population as industrialisation support in the North) — printed p. 87 |
 | Jordan part — Unit 4 Lesson 2: Population and Development (السكان والتنمية) | Jordan, *Jordan G8 SS T1*, Unit 4 Lesson 2: Population and Development (السكان والتنمية) — printed p. 98 |
+| Bhutan part — Ch.8 8.7 Impact of Population Growth | Bhutan, *Bhutan Grade 10 Geography*, Ch.8 8.7 Impact of Population Growth — printed p. 72 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Sudan, Yemen, Nepal, Mozambique, Jordan). Zimbabwe is named here as teacher-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 7 countries (Ethiopia, Sudan, Yemen, Nepal, Mozambique, Jordan, Bhutan). Zimbabwe is named here as teacher-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 No book error in the placements for this lesson is taught here. Elements and pressures are taught exactly as the placements report them.
 
@@ -54,3 +57,5 @@ Nepal's own way (Nepal Grade 7 TG np-g7tg) (teacher guide — evidence): The gui
 Mozambique's own way (Mozambique Grade 10 PESD II Mod 5): population geography taught as a developed-world/developing-world contrast throughout — distribution factors, growth, Malthus and the transition, then the two evolutions (developed countries; the "Terceiro Mundo" set) with their opposite population policies, closing on structures, demographic problems (incl. HIV cutting life expectancy below 50) and population–economy/environment relations.
 
 Jordan's own way (Jordan G8 SS T1): Grade 8 Term 1 pairs an environment unit (climate elements, the world's natural environments, hazards and disaster management) with population and development, framed by human rights and Mesopotamian history.
+
+Bhutan's own way (Bhutan Grade 10 Geography): Class X pairs deep physical theory (Big Bang, plate tectonics, the making of the Himalayas) with an applied Bhutan block — climate and vegetation zones of Bhutan, Bhutanese agriculture's challenges and advancement, industries and their distribution, and a Bhutan disaster chapter that adds Education in Emergency.

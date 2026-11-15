@@ -1,6 +1,6 @@
 # Sources — Counting births — four fertility measures
 
-countries: Ethiopia, Brazil, Mauritania, Mozambique
+countries: Ethiopia, Brazil, Mauritania, Mozambique, Bhutan
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Brazil, Mauritania, Mozambique
 
 **Book 7:** *Módulo 2 de Geografia (GEOGRAFIA — MÓDULO 2, PESD I)* (student book, Portuguese) — MINEDH / IEDA; year 2023; no ISBN printed. Title as printed: Módulo 2 de Geografia (GEOGRAFIA — MÓDULO 2, PESD I). Grade: Grades 7–9 cycle, filed as Grade 7 (student/teacher: STUDENT). PDF pages: 167 (cover verified against the record title; byte size 6,444,493 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE (note: Lição 13's body heading mistakenly repeats "actividade pecuária" wording from Lição 16 — the book's own copy error; content and summary are the agriculture environmental-problems lesson as titled). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
 
+**Book 8:** *ADVANCED GEOGRAPHY CLASS XII* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Thimphu; year Provisional Edition 2023, Copyright 2023, Reprint 2024; ISBN no ISBN printed. Title as printed: ADVANCED GEOGRAPHY CLASS XII. Grade: Grade 12 (student/teacher: STUDENT). PDF pages: 144 (title page verified against the record title — PDF p.3, after a royal-message frontispiece; byte size 4,875,259 and page count match the books.json record exactly — read via the record's ministry source URL). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The crude birth rate | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 4, printed pp. 108–110 |
@@ -27,8 +29,9 @@ countries: Ethiopia, Brazil, Mauritania, Mozambique
 | Brazil part — Folha 8: Passa por sua cabeça ter muitos filhos? / Would you think of having many children? (fertility and demographic change) | Brazil, *Geografia, Livro Didático Público, Ensino Médio*, Grade 10, Folha 8: Passa por sua cabeça ter muitos filhos? / Would you think of having many children? (fertility and demographic change), printed p. 132 |
 | Mauritania part — Unit 3: calculating birth, death, natural increase and fertility rates (teacher guide — evidence) | Mauritania, *Mauritania Grade 7 guide-geo-1as* (teacher guide), Unit 3: calculating birth, death, natural increase and fertility rates — printed p. 19 |
 | Mozambique part — Lição 2: Os Movimentos Populacionais (taxa de natalidade and its factors) | Mozambique, *Mozambique Grade 7 PESD I Mod 2*, Lição 2: Os Movimentos Populacionais (taxa de natalidade and its factors) — printed p. 13 |
+| Bhutan part — Ch.10 10.2 Fertility | Bhutan, *Bhutan Grade 12 Geography*, Ch.10 10.2 Fertility — printed p. 101 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Brazil, Mozambique). Mauritania is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 4 countries (Ethiopia, Brazil, Mozambique, Bhutan). Mauritania is named here as teacher-guide evidence only, counted nowhere.**
 
 No book error is flagged for this lesson's pages in the placements. The student book's body numbering for Unit Two drifts from its own contents (regions printed as 2.4, factors as 2.5, local classification as 2.6, where the contents and the teacher guide's contents agree on 2.3, 2.4 and 2.5); this lesson follows the contents numbering and teaches no misprint.
 
@@ -39,3 +42,5 @@ Searchable tags: fertility measures, CBR TFR GRR GFR, ethiopia, social studies, 
 Mauritania's own way (Mauritania Grade 7 guide-geo-1as) (teacher guide — evidence): A competency-based guide (IPN 2025 reform) that fixes the whole Grade 7 course in three units — Earth and its main relief, Climate, Population and urbanisation — each unit ending in a class project, and every general topic anchored to Mauritania itself: the country's astronomical location, its relief map and Atlantic coast, rainfall differences between its wilayas, its age pyramid, and the growth of Nouakchott. Sample lesson plans (fiches) are given for one lesson per unit, plus model term exams with answers. That evidence is stocked here as the way Mauritania teaches this thing; it does not change the acceptance count above.
 
 Mozambique's own way (Mozambique Grade 7 PESD I Mod 2): human/economic geography organised sector by sector — population first, then each economic activity taught world-then-Mozambique (agriculture, livestock, fishing, forestry, industry, commerce, tourism, transport), with Mozambique's own distribution tables, ports and exports as the local evidence.
+
+Bhutan's own way (Bhutan Grade 12 Geography): Class XII closes the Advanced course with specialist topics (surveying, geospatial technologies, glaciers and the "Third Pole", Köppen in full, fluvial processes, Davis's cycle of erosion) and Bhutan data chapters — fertility and mortality trends in Bhutan, migration trends, hydropower in Bhutan, and creative industries including Bhutanese film.

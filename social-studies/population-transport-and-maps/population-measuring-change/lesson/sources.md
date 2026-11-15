@@ -1,6 +1,6 @@
 # Sources — Population — measuring change: rates, pyramids and structure
 
-countries: Ethiopia, Palestine, Dominican Republic, Colombia, Malaysia, Eritrea, Vietnam, Sudan, Pakistan, Moldova, Honduras, Nepal, Mozambique, Jordan
+countries: Ethiopia, Palestine, Dominican Republic, Colombia, Malaysia, Eritrea, Vietnam, Sudan, Pakistan, Moldova, Honduras, Nepal, Mozambique, Jordan, Bhutan
 
 **Book 1:** *Social Studies Teacher's Guide, Grade 7* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, first edition 2022 (2014 E.C.). Printed page = PDF page − 5. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-teacher-placements.md.
 
@@ -40,6 +40,10 @@ countries: Ethiopia, Palestine, Dominican Republic, Colombia, Malaysia, Eritrea,
 
 **Book 19:** *الجغرافيا — الصف الثاني عشر / المسار الأكاديمي — الفصل الدراسي الأول (Geography, Grade 12 Academic Track, Term 1; this PDF is the NCCD preparation copy, نسخة قيد الإعداد, 1446هـ/2025م)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; year 2025; ISBN 978-9923-41-949-6. Title as printed: الجغرافيا — الصف الثاني عشر / المسار الأكاديمي — الفصل الدراسي الأول (Geography, Grade 12 Academic Track, Term 1; this PDF is the NCCD preparation copy, نسخة قيد الإعداد, 1446هـ/2025م). Grade: 12 (student/teacher: STUDENT). PDF pages: 145 (cover verified; byte size 121,517,865 matches the books.json twin record exactly — same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
 
+**Book 20:** *SOCIAL STUDIES CLASS VI* (student book, English) — Center for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; year Provisional Edition 2021, Revised 2025; ISBN no ISBN printed. Title as printed: SOCIAL STUDIES CLASS VI. Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 68 (cover/title page verified against the record title; byte size 1,628,115 and page count match the books.json record exactly — read via the record's ministry source URL after the grab.py tree route hung over 5 minutes on this book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
+**Book 21:** *An Introduction to GEOGRAPHY Class VIII* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Royal Government of Bhutan, Thimphu; year Provisional Edition 2019, Copyright 2023, Reprint 2024; ISBN no ISBN printed. Title as printed: An Introduction to GEOGRAPHY Class VIII. Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 120 (cover/title page verified against the record title; byte size 9,992,518 and page count match the books.json record exactly — read via the record's ministry source URL). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The three components and the rates (teacher guide — evidence) | Ethiopia, *Social Studies Teacher's Guide, Grade 7* (Addis Ababa Bureau), printed pp. 24–27 |
@@ -63,8 +67,10 @@ countries: Ethiopia, Palestine, Dominican Republic, Colombia, Malaysia, Eritrea,
 | Nepal part — Population Unit Lesson 1: Size and growth rate of Nepal's population (teacher guide — evidence) | Nepal, *Nepal Grade 10 TG np-g10tg* (teacher guide), Population Unit Lesson 1: Size and growth rate of Nepal's population — TG p. 269 (unit start) |
 | Mozambique part — Lição 3: Crescimento Populacional (birth rate per mil worked example; economic factors of natality; age-specific mortality) | Mozambique, *Mozambique Grade 10 PESD II Mod 5*, Lição 3: Crescimento Populacional (birth rate per mil worked example; economic factors of natality; age-specific mortality) — printed p. 21 |
 | Jordan part — Unit 3 Lesson 2: Population Measures (المقاييس السكانية) | Jordan, *Jordan G12 Geography T1*, Unit 3 Lesson 2: Population Measures (المقاييس السكانية) — printed p. 104 |
+| Bhutan part — 3.3 Natural Change in population | Bhutan, *Bhutan Grade 6 Social Studies*, 3.3 Natural Change in population — printed p. 14 |
+| Bhutan part — Ch.10 10.3 Population Change | Bhutan, *Bhutan Grade 8 Geography*, Ch.10 10.3 Population Change — printed p. 66 |
 
-**Acceptance count: taught in 13 countries (Palestine, Dominican Republic, Colombia, Malaysia, Eritrea, Vietnam, Sudan, Pakistan, Moldova, Honduras, Nepal, Mozambique, Jordan). Ethiopia is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 14 countries (Palestine, Dominican Republic, Colombia, Malaysia, Eritrea, Vietnam, Sudan, Pakistan, Moldova, Honduras, Nepal, Mozambique, Jordan, Bhutan). Ethiopia is named here as teacher-guide evidence only, counted nowhere.**
 
 Pairing warning (honesty): Book 2 is an Addis Ababa bureau guide in English; Book 1 is an Amhara bureau student book in Amharic. They are NOT edition-matched companions — the guide's unit order differs and whole student topics (maps, globes, GPS) have no guide counterpart, so no guide coverage is claimed for them. Guide material is used only as labelled teacher evidence.
 
@@ -107,3 +113,7 @@ Nepal's own way (Nepal Grade 10 TG np-g10tg) (teacher guide — evidence): The g
 Mozambique's own way (Mozambique Grade 10 PESD II Mod 5): population geography taught as a developed-world/developing-world contrast throughout — distribution factors, growth, Malthus and the transition, then the two evolutions (developed countries; the "Terceiro Mundo" set) with their opposite population policies, closing on structures, demographic problems (incl. HIV cutting life expectancy below 50) and population–economy/environment relations.
 
 Jordan's own way (Jordan G12 Geography T1): the final-year Geography book is built in three blocks — the forces that shape Earth's surface, political geography (state power, borders, alliances, Jordan's national security), and population geography.
+
+Bhutan's own way (Bhutan Grade 6 Social Studies): Grade 6 turns to Bhutan's own climate zones, population and signature environment topics — hydropower, urbanisation and glacial lake outburst floods (GLOF) — a hazard set specific to a Himalayan kingdom.
+
+Bhutan's own way (Bhutan Grade 8 Geography): Class VIII deepens the same three strands with real map-work (scale conversion, grid references, contours and profiles) and Bhutan-specific hazard and resource content, including the Rubesa wind turbine and hydroelectric dams as national resource examples.

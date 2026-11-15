@@ -1,6 +1,6 @@
 # Sources — Tertiary activities — services, transport, tourism
 
-countries: Ethiopia, Ukraine, Turkmenistan, Dominican Republic, Bahamas, Venezuela, Sri Lanka, Mauritania, Kuwait, Iran, Moldova, Nepal, Jordan, Nicaragua
+countries: Ethiopia, Ukraine, Turkmenistan, Dominican Republic, Bahamas, Venezuela, Sri Lanka, Mauritania, Kuwait, Iran, Moldova, Nepal, Jordan, Nicaragua, Bhutan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 2 — Population Studies and Socio-Economic Activities, printed pp. 44–76).
 
@@ -40,6 +40,8 @@ countries: Ethiopia, Ukraine, Turkmenistan, Dominican Republic, Bahamas, Venezue
 
 **Book 19:** *Ciencias Sociales 10 Grado, Educación Secundaria (PROSEN)* (student book, Spanish) — Ministerio de Educación (MINED), Nicaragua, with PROSEN / European Union support; year not printed (Primera Edición); ISBN no ISBN printed. Title as printed: Ciencias Sociales 10 Grado, Educación Secundaria (PROSEN). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 300 (cover/title page verified against the record title; byte size 106,780,055 matches the books.json record and the MINED source file). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nicaragua-placements.md.
 
+**Book 20:** *SOCIAL STUDIES CLASS V* (student book, English) — Center for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; year Provisional Edition 2020, Reprint 2025; ISBN no ISBN printed (blank ISBN line on imprint page). Title as printed: SOCIAL STUDIES CLASS V. Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 78 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Services, not goods | Ethiopia, *Social Studies Student Textbook, Grade 8* (Amhara Bureau), printed pp. 64–66 |
@@ -64,8 +66,9 @@ countries: Ethiopia, Ukraine, Turkmenistan, Dominican Republic, Bahamas, Venezue
 | Jordan part — Unit 6 Lesson 3: The Services Sector (قطاع الخدمات) | Jordan, *Jordan G5 SS T2*, Unit 6 Lesson 3: The Services Sector (قطاع الخدمات) — printed p. 38 |
 | Jordan part — Unit 6 Lesson 4: Services (الخدمات) | Jordan, *Jordan G12 Geography T2*, Unit 6 Lesson 4: Services (الخدمات) — printed p. 116 |
 | Nicaragua part — Sector terciario o de servicios en Nicaragua; actividad comercial y desarrollo del turismo | Nicaragua, *Nicaragua Grade 10 Ciencias Sociales G10 full-year*, Sector terciario o de servicios en Nicaragua; actividad comercial y desarrollo del turismo — printed p. 125 |
+| Bhutan part — 12.1 Goods and services | Bhutan, *Bhutan Grade 5 Social Studies*, 12.1 Goods and services — printed p. 66 |
 
-**Acceptance count: taught in 13 countries (Ethiopia, Ukraine, Turkmenistan, Dominican Republic, Bahamas, Venezuela, Mauritania, Kuwait, Iran, Moldova, Nepal, Jordan, Nicaragua). Sri Lanka is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 14 countries (Ethiopia, Ukraine, Turkmenistan, Dominican Republic, Bahamas, Venezuela, Mauritania, Kuwait, Iran, Moldova, Nepal, Jordan, Nicaragua, Bhutan). Sri Lanka is named here as teacher-guide evidence only, counted nowhere.**
 
 Ukraine's own way: A "Geography: Regions and Countries" course — every region is done in the same order (position, nature/resources, population, primary/secondary/tertiary sectors) then typological country studies with rubrics (country visiting-card, capital, pride of the country, unique experience), ending with Ukraine's own place in the world; research tasks (Дослідження) embedded in chapters. That way is stocked here as the way Ukraine teaches this thing.
 
@@ -106,3 +109,5 @@ Jordan's own way (Jordan G5 SS T2): Term 2 teaches the economy by sectors, then 
 Jordan's own way (Jordan G12 Geography T2): the final Geography term is climate (atmosphere, elements, classifications, change), environment (components, problems, protection, Jordanian ecotourism), and economic geography (production, agriculture, industry, services, development).
 
 Nicaragua's own way (Nicaragua Grade 10 Ciencias Sociales G10 full-year): The full-year companion to the Grade 10 Geography module (Book 1): Units I–VI repeat and deepen the same national Geography (cartography, relief and geological provinces, climate and watersheds, population, economic sectors, territorial vulnerability and SINAPRED) in classroom form, and the book's second half is a full Economics course. Non-Geography parts named, not placed: Unit IV government anti-poverty programmes (printed p. 106, Civics/social policy); Units VII–XII Economics (printed pp. 156–285): utility of economics and socio-economic formations, what the country produces, price as market regulator, commercial exchange and the banking system, state economic policy, and integration in the face of globalisation.
+
+Bhutan's own way (Bhutan Grade 5 Social Studies): Grade 5 spirals from the Earth and lat/long straight into Bhutan itself — its location, three physical zones, neighbours, major rivers and protected areas — so world geography is anchored in the home country's map first.

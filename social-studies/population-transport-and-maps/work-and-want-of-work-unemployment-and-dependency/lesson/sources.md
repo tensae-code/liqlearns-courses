@@ -1,6 +1,6 @@
 # Sources — Work and want of work — unemployment and dependency
 
-countries: Ethiopia, Bahamas, Venezuela, Kuwait, Yemen, Nepal
+countries: Ethiopia, Bahamas, Venezuela, Kuwait, Yemen, Nepal, Bhutan
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Bahamas, Venezuela, Kuwait, Yemen, Nepal
 
 **Book 7:** *Samajik Adhyayan Kaksha 9 (Social Studies Grade 9, 2079)* (student book, Nepali) — Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; year First edition 2079 BS; ISBN 978-9937-601-… (ISBN printed truncated in the imprint scan: "978-9937-601- -"). Title as printed: Samajik Adhyayan Kaksha 9 (Social Studies Grade 9, 2079). Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 257 (cover/title page verified against the record title — Devanagari title page matches). Verdict: COMPLETE. Non-Geography parts named (not placed): Unit 1 We and our society (printed pp. 1–16); Unit 3 Our social values and beliefs (pp. 35–72); Unit 4 Social problems and solutions (pp. 73–85); Unit 5 Civic consciousness (pp. 86–115, civics); Unit 7 Our Past (pp. 167–194, History); Unit 9 International relations, peace and cooperation (pp. 217–234). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nepal-placements.md.
 
+**Book 8:** *ADVANCED GEOGRAPHY CLASS XII* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Thimphu; year Provisional Edition 2023, Copyright 2023, Reprint 2024; ISBN no ISBN printed. Title as printed: ADVANCED GEOGRAPHY CLASS XII. Grade: Grade 12 (student/teacher: STUDENT). PDF pages: 144 (title page verified against the record title — PDF p.3, after a royal-message frontispiece; byte size 4,875,259 and page count match the books.json record exactly — read via the record's ministry source URL). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Three labour states | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 7, printed pp. 195–197 |
@@ -27,8 +29,9 @@ countries: Ethiopia, Bahamas, Venezuela, Kuwait, Yemen, Nepal
 | Kuwait part — Unit 3 Lesson 4, Economic Problems in the Arab World: unemployment — the state and society cannot provide jobs because of population growth, few job opportunities, a lack of experience and skills, and wars and conflicts; its effects are lower personal income, the spread of crime, and frustration and despair; and economic dependence — a state following a stronger economy through weak production, reliance on a single resource and lagging technology, exporting raw material cheaply and importing it back manufactured at high prices | Kuwait, *Kuwait Grade 7 Social Studies G7 T2*, Unit 3 Lesson 4, Economic Problems in the Arab World: unemployment — the state and society cannot provide jobs because of population growth, few job opportunities, a lack of experience and skills, and wars and conflicts; its effects are lower personal income, the spread of crime, and frustration and despair; and economic dependence — a state following a stronger economy through weak production, reliance on a single resource and lagging technology, exporting raw material cheaply and importing it back manufactured at high prices — printed pp. 60–61 |
 | Yemen part — Unit 6 Lesson 3 Unemployment in the World | Yemen, *Yemen Grade 12 G12 Geography of the Contemporary World*, Unit 6 Lesson 3 Unemployment in the World — printed p. 138 |
 | Nepal part — Unit 8 Lesson 6: Labour, employment and entrepreneurship | Nepal, *Nepal Grade 9 np-g9*, Unit 8 Lesson 6: Labour, employment and entrepreneurship — printed p. 214 |
+| Bhutan part — Ch.10 10.9 Unemployment | Bhutan, *Bhutan Grade 12 Geography*, Ch.10 10.9 Unemployment — printed p. 111 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Bahamas, Venezuela, Kuwait, Yemen, Nepal).**
+**Acceptance count: taught in 7 countries (Ethiopia, Bahamas, Venezuela, Kuwait, Yemen, Nepal, Bhutan).**
 
 No book error is flagged for this lesson's pages in the placements. The student book's body numbering for Unit Two drifts from its own contents (regions printed as 2.4, factors as 2.5, local classification as 2.6, where the contents and the teacher guide's contents agree on 2.3, 2.4 and 2.5); this lesson follows the contents numbering and teaches no misprint.
 
@@ -43,3 +46,5 @@ Kuwait's own way (Kuwait Grade 7 Social Studies G7 T2): Term 2 turns from the Ar
 Yemen's own way (Yemen Grade 12 G12 Geography of the Contemporary World): the final year is political and economic geography of the whole contemporary world — how it is classified and developed, its blocs in the developed and developing worlds, transport and communications, world trade and tourism, and its shared problems (energy, pollution, unemployment).
 
 Nepal's own way (Nepal Grade 9 np-g9): Grade 9 "Hamro Prithvi" widens from Nepal (latitude/longitude, surface form, climate, vegetation, minerals and water resources, map work) to whole continents — Asia, Europe and Australia, each in two lessons (geographical/natural environment, then economic activities and social life); the preface notes this is a model textbook tested in schools under the 2076 secondary curriculum.
+
+Bhutan's own way (Bhutan Grade 12 Geography): Class XII closes the Advanced course with specialist topics (surveying, geospatial technologies, glaciers and the "Third Pole", Köppen in full, fluvial processes, Davis's cycle of erosion) and Bhutan data chapters — fertility and mortality trends in Bhutan, migration trends, hydropower in Bhutan, and creative industries including Bhutanese film.

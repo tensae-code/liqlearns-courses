@@ -1,6 +1,6 @@
 # Sources — Population — counting and graphing growth
 
-countries: Ethiopia, Myanmar, Indonesia, Colombia, Slovenia, Vietnam, Syria, Venezuela, Sri Lanka, Yemen, Pakistan, Nicaragua
+countries: Ethiopia, Myanmar, Indonesia, Colombia, Slovenia, Vietnam, Syria, Venezuela, Sri Lanka, Yemen, Pakistan, Nicaragua, Bhutan
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 2, placements 27–43).
 
@@ -34,6 +34,8 @@ countries: Ethiopia, Myanmar, Indonesia, Colombia, Slovenia, Vietnam, Syria, Ven
 
 **Book 16:** *Ciencias Sociales 10 Grado, Educación Secundaria (PROSEN)* (student book, Spanish) — Ministerio de Educación (MINED), Nicaragua, with PROSEN / European Union support; year not printed (Primera Edición); ISBN no ISBN printed. Title as printed: Ciencias Sociales 10 Grado, Educación Secundaria (PROSEN). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 300 (cover/title page verified against the record title; byte size 106,780,055 matches the books.json record and the MINED source file). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nicaragua-placements.md.
 
+**Book 17:** *SOCIAL STUDIES CLASS VI* (student book, English) — Center for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; year Provisional Edition 2021, Revised 2025; ISBN no ISBN printed. Title as printed: SOCIAL STUDIES CLASS VI. Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 68 (cover/title page verified against the record title; byte size 1,628,115 and page count match the books.json record exactly — read via the record's ministry source URL after the grab.py tree route hung over 5 minutes on this book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Counting your own school | Ethiopia, *Social Studies Student Textbook, Grade 7* (Amhara Bureau), printed pp. 35–36 |
@@ -53,8 +55,9 @@ countries: Ethiopia, Myanmar, Indonesia, Colombia, Slovenia, Vietnam, Syria, Ven
 | Nicaragua part — Crecimiento poblacional | Nicaragua, *Nicaragua Grade 3 Estudios Sociales G3*, Crecimiento poblacional — printed p. 45 |
 | Nicaragua part — Crecimiento y distribución de la población | Nicaragua, *Nicaragua Grade 9 CCSS Geografía Módulo G9*, Crecimiento y distribución de la población — printed p. 175 |
 | Nicaragua part — Crecimiento de la población nicaragüense | Nicaragua, *Nicaragua Grade 10 Ciencias Sociales G10 full-year*, Crecimiento de la población nicaragüense — printed p. 96 |
+| Bhutan part — 3.1 Population | Bhutan, *Bhutan Grade 6 Social Studies*, 3.1 Population — printed p. 13 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Indonesia, Colombia, Slovenia, Vietnam, Syria, Venezuela, Sri Lanka, Yemen, Pakistan, Nicaragua). Myanmar is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 12 countries (Ethiopia, Indonesia, Colombia, Slovenia, Vietnam, Syria, Venezuela, Sri Lanka, Yemen, Pakistan, Nicaragua, Bhutan). Myanmar is named here as teacher-guide evidence only, counted nowhere.**
 
 Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -89,3 +92,5 @@ Nicaragua's own way (Nicaragua Grade 3 Estudios Sociales G3): The first formal G
 Nicaragua's own way (Nicaragua Grade 9 CCSS Geografía Módulo G9): A pure-Geography self-study module (no History/Civics in this book): the Grade 9 world-Geography course taught continent by continent — position and political organisation, physical landscape, human diversity, production and consumption, and a closing planet-care unit on prevention and mitigation — with Nicaragua used as the home reference point throughout.
 
 Nicaragua's own way (Nicaragua Grade 10 Ciencias Sociales G10 full-year): The full-year companion to the Grade 10 Geography module (Book 1): Units I–VI repeat and deepen the same national Geography (cartography, relief and geological provinces, climate and watersheds, population, economic sectors, territorial vulnerability and SINAPRED) in classroom form, and the book's second half is a full Economics course. Non-Geography parts named, not placed: Unit IV government anti-poverty programmes (printed p. 106, Civics/social policy); Units VII–XII Economics (printed pp. 156–285): utility of economics and socio-economic formations, what the country produces, price as market regulator, commercial exchange and the banking system, state economic policy, and integration in the face of globalisation.
+
+Bhutan's own way (Bhutan Grade 6 Social Studies): Grade 6 turns to Bhutan's own climate zones, population and signature environment topics — hydropower, urbanisation and glacial lake outburst floods (GLOF) — a hazard set specific to a Himalayan kingdom.

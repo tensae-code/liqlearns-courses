@@ -1,6 +1,6 @@
 # Sources — How many depend on each worker
 
-countries: Ethiopia
+countries: Ethiopia, Bhutan
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia
 
 **Book 4:** *Geography, Teacher Guide, Grade 10* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). Editors: Sintayehu Teka (MSc) (Content Editor), Kassie Molla (MA) (Language Editor), Hirut Woldemichael (MA) (Curriculum Editor). Illustrator: Agenchw Nega (MSc). Designer: Geda Hoka (MA). Evaluator: Dereje Guteta (PhD). First published 2022 under GEQIP-E. (No ISBN printed in the pages read.) Printed page = PDF page − 31 for the guide body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-teacher-placements.md
 
+**Book 5:** *ADVANCED GEOGRAPHY CLASS XII* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Thimphu; year Provisional Edition 2023, Copyright 2023, Reprint 2024; ISBN no ISBN printed. Title as printed: ADVANCED GEOGRAPHY CLASS XII. Grade: Grade 12 (student/teacher: STUDENT). PDF pages: 144 (title page verified against the record title — PDF p.3, after a royal-message frontispiece; byte size 4,875,259 and page count match the books.json record exactly — read via the record's ministry source URL). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The ratio | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 4, printed pp. 94–96 |
@@ -17,9 +19,12 @@ countries: Ethiopia
 | Age dependency ratio defined, marking form (teacher guide — evidence) | Ethiopia, *Geography, Teacher Guide, Grade 9*, Unit 4, printed p. 114 |
 | Sub lesson — Dependency across Africa's regions | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 4, printed pp. 108–112 |
 | Teaching pattern and answer keys (teacher guide — evidence) — Grade 10 | Ethiopia, *Geography, Teacher Guide, Grade 10*, Unit 4, guide printed pp. 65–84 |
+| Bhutan part — Ch.10 10.10 Dependency Ratio | Bhutan, *Bhutan Grade 12 Geography*, Ch.10 10.10 Dependency Ratio — printed p. 113 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Bhutan).**
 
 Extension (Wave 4 Band D): the Grade 10 regional dependency treatment (printed pp. 108–112) was stacked under this lesson per the build brief; the same placement also stands, drawn as a chart, in the lesson "Dependency across Africa's regions" in People and Resources. The placements name the regions compared but print no regional figures in the placement text, so this part claims none.
 
 Searchable tags: dependency ratio, 76.8, economically active, burden, social studies
+
+Bhutan's own way (Bhutan Grade 12 Geography): Class XII closes the Advanced course with specialist topics (surveying, geospatial technologies, glaciers and the "Third Pole", Köppen in full, fluvial processes, Davis's cycle of erosion) and Bhutan data chapters — fertility and mortality trends in Bhutan, migration trends, hydropower in Bhutan, and creative industries including Bhutanese film.

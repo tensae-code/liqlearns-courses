@@ -1,6 +1,6 @@
 # Sources — Volcanism — vents, fissures and the Ring of Fire
 
-countries: Ethiopia, Dominican Republic, Samoa, Slovenia, Mozambique, Jordan, Iraq
+countries: Ethiopia, Dominican Republic, Samoa, Slovenia, Mozambique, Jordan, Iraq, Bhutan
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -18,6 +18,10 @@ countries: Ethiopia, Dominican Republic, Samoa, Slovenia, Mozambique, Jordan, Ir
 
 **Book 8:** *علم الأرض للصف الخامس العلمي (Earth Science / Geology for the Fifth Scientific Grade) — matches the record's "Earth Science (Scientific Track)"* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; authors named on the title page (Saad Salami Jassim, Waleed Abdul-Majeed Ahmed, Salam Ismail Marhoon, Nasha'a Majeed Jassim, Thaer Abd Ruomi, Loay Adnan Hassoun, Kholoud Mahdi Salem); year 1445 AH / 2023 CE, 7th edition (الطبعة السابعة); ISBN no ISBN printed on the title pages. Title as printed: علم الأرض للصف الخامس العلمي (Earth Science / Geology for the Fifth Scientific Grade) — matches the record's "Earth Science (Scientific Track)". Grade: 11 (fifth secondary, scientific track) (student/teacher: STUDENT). PDF pages: 132 (printed pagination runs 6 behind the PDF pages: printed p. 1 = PDF p. 7; cover/title page verified as above; read via the books.json record's own Google Drive source file — same book, cover and contents verified — after the GitHub route failed). Verdict: COMPLETE. Printed pagination runs 6 behind the PDF pages (printed p. 1 = PDF p. 7), as its header records. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iraq-placements.md.
 
+**Book 9:** *An Introduction to GEOGRAPHY Class VIII* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Royal Government of Bhutan, Thimphu; year Provisional Edition 2019, Copyright 2023, Reprint 2024; ISBN no ISBN printed. Title as printed: An Introduction to GEOGRAPHY Class VIII. Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 120 (cover/title page verified against the record title; byte size 9,992,518 and page count match the books.json record exactly — read via the record's ministry source URL). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
+**Book 10:** *ADVANCED GEOGRAPHY CLASS XI* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Thimphu; year Provisional Edition 2022, Copyright 2023, Reprint 2024; ISBN no ISBN printed. Title as printed: ADVANCED GEOGRAPHY CLASS XI. Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 182 (cover/title page verified against the record title; byte size 19,627,789 and page count match the books.json record exactly — read via the record's ministry source URL; this book is also the TSV release record grade-11-gov-bhutan-geography-full-year.pdf, same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Vents and fissures | G12 student #16, printed pp. 19–20 |
@@ -30,8 +34,10 @@ countries: Ethiopia, Dominican Republic, Samoa, Slovenia, Mozambique, Jordan, Ir
 | Jordan part — Unit 4 Lesson 2: Volcanoes (البراكين) | Jordan, *Jordan G11 ES T2*, Unit 4 Lesson 2: Volcanoes (البراكين) — printed p. 59 |
 | Iraq part — Ch. 1: Volcanoes and lava types — activity: compare the world distribution of earthquakes and volcanoes | Iraq, *Iraq Grade 11 Physical Geography*, Ch. 1: Volcanoes and lava types — activity: compare the world distribution of earthquakes and volcanoes — printed p. 18 |
 | Iraq part — Ch. 2: The volcano (البركان) — eruptions mostly at divergent and convergent plate boundaries; the make-up of volcanic ejecta, solid materials first | Iraq, *Iraq Grade 11 Earth Science*, Ch. 2: The volcano (البركان) — eruptions mostly at divergent and convergent plate boundaries; the make-up of volcanic ejecta, solid materials first — printed p. 37 |
+| Bhutan part — Ch.5 5.7 Causes of volcanic eruption | Bhutan, *Bhutan Grade 8 Geography*, Ch.5 5.7 Causes of volcanic eruption — printed p. 37 |
+| Bhutan part — Ch.1 Causes of Volcanoes | Bhutan, *Bhutan Grade 11 Geography*, Ch.1 Causes of Volcanoes — printed p. 10 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Dominican Republic, Samoa, Slovenia, Mozambique, Jordan, Iraq).**
+**Acceptance count: taught in 8 countries (Ethiopia, Dominican Republic, Samoa, Slovenia, Mozambique, Jordan, Iraq, Bhutan).**
 
 No book error in the placements for this lesson is taught here. Counts and examples are taught exactly as the placements report them.
 
@@ -50,3 +56,7 @@ Jordan's own way (Jordan G11 ES T2): Term 2 is fossil fuels — their origin, ki
 Iraq's own way (Iraq Grade 11 Physical Geography): a pure physical-geography course in six chapters — landforms, weather and climate, water, the biosphere, soil, and the environment — with Iraqi anchors kept throughout (flood visits to Iraq's rivers, the hills of northern Iraq, groundwater and the desert caravans, soil salinity in the alluvial plain).
 
 Iraq's own way (Iraq Grade 11 Earth Science): the scientific track's earth-science course — atmosphere, earthquakes and volcanoes, weathering and soil, environment and pollution, and fossils and geological time — bilingual with English technical terms throughout, and Iraqi touches kept (the air masses over Iraq, the yellow dust storms, Iraq's Natural History Museum).
+
+Bhutan's own way (Bhutan Grade 8 Geography): Class VIII deepens the same three strands with real map-work (scale conversion, grid references, contours and profiles) and Bhutan-specific hazard and resource content, including the Rubesa wind turbine and hydroelectric dams as national resource examples.
+
+Bhutan's own way (Bhutan Grade 11 Geography): The Advanced level (XI–XII) is full academic geography — map projections, remote sensing and GIS, insolation and pressure belts, climate classification — with Bhutan applied chapters on agriculture, manufacturing and tourism, the last taught on Bhutan's own sustainability principle ("high value, low volume" in the Bhutan Tourism Monitor data the book uses).

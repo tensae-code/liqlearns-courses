@@ -1,6 +1,6 @@
 # Sources — Contours — lines of equal height
 
-countries: Ethiopia, Turkey, Malaysia, Fiji, Papua New Guinea, Uganda, Sudan, Sri Lanka
+countries: Ethiopia, Turkey, Malaysia, Fiji, Papua New Guinea, Uganda, Sudan, Sri Lanka, Bhutan
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Turkey, Malaysia, Fiji, Papua New Guinea, Uganda, Sudan, Sr
 
 **Book 9:** *Geography, Grade 8* (student book, English) — Educational Publications Department; first print 2016, fourth print 2019; ISBN 978-955-25-0136-4. Title as printed: Geography, Grade 8. Grade: 8 (student/teacher: STUDENT). PDF pages: printed pp. 1–62 plus front matter (cover/title and contents verified against the record; GitHub grab failed with RemoteDisconnected, so the book was read in full via the record's archive.org source PDF — the same Educational Publications Department edition). Verdict: COMPLETE. Parallel edition named in the placements file: the Tamil student book (Book 3a, 2016), same four units, with a Tamil–English–Sinhala glossary — placed once under this English edition, that edition named here. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sri-lanka-placements.md.
 
+**Book 10:** *An Introduction to GEOGRAPHY Class VIII* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Royal Government of Bhutan, Thimphu; year Provisional Edition 2019, Copyright 2023, Reprint 2024; ISBN no ISBN printed. Title as printed: An Introduction to GEOGRAPHY Class VIII. Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 120 (cover/title page verified against the record title; byte size 9,992,518 and page count match the books.json record exactly — read via the record's ministry source URL). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What a contour is | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 8, printed pp. 219–220 |
@@ -33,8 +35,9 @@ countries: Ethiopia, Turkey, Malaysia, Fiji, Papua New Guinea, Uganda, Sudan, Sr
 | Uganda part — Ch.7 Cross-sections from simple contour maps (chapter objective/activities) | Uganda, *Uganda Grade 8 UG S1 Geography Student*, Ch.7 Cross-sections from simple contour maps (chapter objective/activities) — printed p. 74 |
 | Sudan part — Revision exercise: Port Sudan contour map — contours, heights, cross-section, watershed | Sudan, *Sudan Grade 12 SD Geography 12*, Revision exercise: Port Sudan contour map — contours, heights, cross-section, watershed — printed p. 2 |
 | Sri Lanka part — Unit 4 Contour lines (20 m interval) and reading relief from them: mountain range, conical hill, spur, valley, gap; building a 3-D contour model | Sri Lanka, *Sri Lanka Grade 8 G8 English*, Unit 4 Contour lines (20 m interval) and reading relief from them: mountain range, conical hill, spur, valley, gap; building a 3-D contour model — printed p. 55 |
+| Bhutan part — Ch.3 3.4 Contour, Relief Feature and Profile | Bhutan, *Bhutan Grade 8 Geography*, Ch.3 3.4 Contour, Relief Feature and Profile — printed p. 18 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Turkey, Malaysia, Fiji, Uganda, Sudan, Sri Lanka). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 8 countries (Ethiopia, Turkey, Malaysia, Fiji, Uganda, Sudan, Sri Lanka, Bhutan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
@@ -53,3 +56,5 @@ Uganda's own way (Uganda Grade 8 UG S1 Geography Student): Competency-based lowe
 Sudan's own way (Sudan Grade 12 SD Geography 12): The final-year book is organised as applied geography: it opens with a full revision exercise on a Port Sudan contour map (contours, scale, cross-sections, watershed lines), then remote sensing and photo interpretation, then world economic geography, and closes on human–environment global problems, repeatedly pulling Sudanese examples (Gezira scheme, gum arabic, Sudanese oil, farming systems of Sudan) into the world treatment.
 
 Sri Lanka's own way (Sri Lanka Grade 8 G8 English): a four-unit arc — Solar System, Earth's uniqueness, then regional geography taught as six South Asian "landscapes" (mountain, valley, coastal, rural, industrial-urban, desert), closing with Sri Lanka's own 1:50,000 topographic-sheet system (92 sheets) that Grade 9 continues.
+
+Bhutan's own way (Bhutan Grade 8 Geography): Class VIII deepens the same three strands with real map-work (scale conversion, grid references, contours and profiles) and Bhutan-specific hazard and resource content, including the Rubesa wind turbine and hydroelectric dams as national resource examples.

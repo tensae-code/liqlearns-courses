@@ -1,6 +1,6 @@
 # Sources — The digital divide — connected and left out
 
-countries: Ethiopia, Guatemala, Costa Rica, Zimbabwe, Malaysia, Slovenia, Yemen
+countries: Ethiopia, Guatemala, Costa Rica, Zimbabwe, Malaysia, Slovenia, Yemen, Bhutan
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Guatemala, Costa Rica, Zimbabwe, Malaysia, Slovenia, Yemen
 
 **Book 9:** *جغرافية العالم المعاصر للصف الثالث الثانوي (Geography of the Contemporary World for the Third Secondary Grade = Grade 12)* (student book, Arabic) — Republic of Yemen, Ministry of Education; year 1438 AH / 2017 CE; ISBN no ISBN printed. Title as printed: جغرافية العالم المعاصر للصف الثالث الثانوي (Geography of the Contemporary World for the Third Secondary Grade = Grade 12). Grade: 12 (student/teacher: STUDENT). PDF pages: 147 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the Wayback Machine capture of its own recorded Yemen MoE source URL (the source_url in its books.json record) after the GitHub routes (grab.py release + tree) failed from the reader's host — the same ministry file the repo copies were taken from; cover/title page verified visually against the record title. TSV + books.json records for the same grade are the same book, placed once. Read note: legacy Arabic font encoding in the text layer; structure read from rendered contents and lesson pages. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/yemen-placements.md.
 
+**Book 10:** *SOCIAL STUDIES CLASS VI* (student book, English) — Center for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; year Provisional Edition 2021, Revised 2025; ISBN no ISBN printed. Title as printed: SOCIAL STUDIES CLASS VI. Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 68 (cover/title page verified against the record title; byte size 1,628,115 and page count match the books.json record exactly — read via the record's ministry source URL after the grab.py tree route hung over 5 minutes on this book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What the divide is | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 7, printed pp. 208–210 |
@@ -33,8 +35,9 @@ countries: Ethiopia, Guatemala, Costa Rica, Zimbabwe, Malaysia, Slovenia, Yemen
 | Malaysia part (MY T2 Geografi Tingkatan 2) — Bab 6 Telekomunikasi di Malaysia: telecommunication tools and their advance, importance, effects on national development and ethical use | Malaysia, *MY T2 Geografi*, Bab 6 Telekomunikasi di Malaysia: telecommunication tools and their advance, importance, effects on national development and ethical use — printed pp. 90-102 |
 | Slovenia part — Telekomunikacijska omrežja (telecommunications networks) inside Vrste prometa in telekomunikacijskih omrežij | Slovenia, *Slovenia Grade 10 Geografija 1 (gimnazija)*, Telekomunikacijska omrežja (telecommunications networks) inside Vrste prometa in telekomunikacijskih omrežij — printed p. 276 |
 | Yemen part — Unit 4 Lesson 4 Communications | Yemen, *Yemen Grade 12 G12 Geography of the Contemporary World*, Unit 4 Lesson 4 Communications — printed p. 91 |
+| Bhutan part — 9.2 Communication | Bhutan, *Bhutan Grade 6 Social Studies*, 9.2 Communication — printed p. 50 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Guatemala, Costa Rica, Malaysia, Slovenia, Yemen). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 7 countries (Ethiopia, Guatemala, Costa Rica, Malaysia, Slovenia, Yemen, Bhutan). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
 
 No book error is flagged for this lesson's pages in the placements. The student book's body numbering for Unit Two drifts from its own contents (regions printed as 2.4, factors as 2.5, local classification as 2.6, where the contents and the teacher guide's contents agree on 2.3, 2.4 and 2.5); this lesson follows the contents numbering and teaches no misprint.
 
@@ -51,3 +54,5 @@ Malaysia's own way (MY T2 Geografi Tingkatan 2): the year pairs map skills (scal
 Slovenia's own way (Slovenia Grade 10 Geografija 1 (gimnazija)): the gimnazija first year is systematic physical geography first (Earth's interior, rocks, landforms, weather and climate, soils, vegetation, waters), then human geography (population, settlements, farming, industry and energy, transport, tourism), closing on sustainable development and spatial planning — with Slovenian cases (earthquake risk in Slovenia, the Port of Koper) set inside the world topics.
 
 Yemen's own way (Yemen Grade 12 G12 Geography of the Contemporary World): the final year is political and economic geography of the whole contemporary world — how it is classified and developed, its blocs in the developed and developing worlds, transport and communications, world trade and tourism, and its shared problems (energy, pollution, unemployment).
+
+Bhutan's own way (Bhutan Grade 6 Social Studies): Grade 6 turns to Bhutan's own climate zones, population and signature environment topics — hydropower, urbanisation and glacial lake outburst floods (GLOF) — a hazard set specific to a Himalayan kingdom.

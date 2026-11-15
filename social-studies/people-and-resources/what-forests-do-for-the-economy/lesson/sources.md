@@ -1,6 +1,6 @@
 # Sources — What forests do for the economy
 
-countries: Ethiopia, Angola, Venezuela, Pakistan
+countries: Ethiopia, Angola, Venezuela, Pakistan, Bhutan
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -12,6 +12,12 @@ countries: Ethiopia, Angola, Venezuela, Pakistan
 
 **Book 5:** *GEOGRAPHY 6 — Based on Single National Curriculum 2022 (ONE NATION, ONE CURRICULUM)* (student book, English) — Punjab Curriculum and Textbook Board (PCTB), Lahore; SNC 2022, Experimental Edition, 1st edition March 2022; author Mr. Salman Munir; prepared by Javed Publishers, Lahore; ISBN no ISBN printed. Title as printed: GEOGRAPHY 6 — Based on Single National Curriculum 2022 (ONE NATION, ONE CURRICULUM). Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 89 (21,533,299 bytes — exactly the record size; the GitHub release/tree copies could not be found, so the book was re-downloaded from the record's own source, the freebooks.pk Google Drive file, and verified byte-for-byte against the record; image-only scan, read page by page from contact sheets). Verdict: COMPLETE. The GitHub release/tree copies could not be found, so the book was re-downloaded from the record's own source, the freebooks.pk Google Drive file, and verified byte-for-byte against the record (21,533,299 bytes — exactly the record size); image-only scan, read page by page from contact sheets. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/pakistan-placements.md.
 
+**Book 6:** *SOCIAL STUDIES CLASS IV* (student book, English) — Center for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; year Provisional Edition 2019, Reprint 2025; ISBN no ISBN printed (blank ISBN line on imprint page). Title as printed: SOCIAL STUDIES CLASS IV. Grade: Grade 4 (student/teacher: STUDENT). PDF pages: 80 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
+**Book 7:** *SOCIAL STUDIES CLASS V* (student book, English) — Center for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; year Provisional Edition 2020, Reprint 2025; ISBN no ISBN printed (blank ISBN line on imprint page). Title as printed: SOCIAL STUDIES CLASS V. Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 78 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
+**Book 8:** *AN INTRODUCTION TO GEOGRAPHY CLASS VII* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Royal Government of Bhutan, Thimphu; year Provisional edition 2018, Copyright 2023, Reprint 2024; ISBN 975-99936-0-455-8 (as printed). Title as printed: AN INTRODUCTION TO GEOGRAPHY CLASS VII. Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 86 (cover/title page verified against the record title; byte size 5,663,043 and page count match the books.json record exactly — read via the record's ministry source URL after the grab.py route proved unreliable for this group). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Products | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 5, printed pp. 126–128 |
@@ -21,8 +27,11 @@ countries: Ethiopia, Angola, Venezuela, Pakistan
 | Angola part — 5.2 Importância das florestas para a vida no planeta | Angola, *Geografia 6ª Classe*, Grade 6, 5.2 Importância das florestas para a vida no planeta — printed p. 80 |
 | Venezuela part — Nuestros recursos forestales: aprovechamiento con conciencia ambiental | Venezuela, *Venezuela Grade 11 G11 CS Geografía de Venezuela*, Nuestros recursos forestales: aprovechamiento con conciencia ambiental — printed p. 118 |
 | Pakistan part — Role of forests in the economy: hunting, recreation and tourism, steady river flow, fuelwood energy, soil fertility and protection against waterlogging and salinity | Pakistan, *Pakistan Grade 6 Geography 6*, Role of forests in the economy: hunting, recreation and tourism, steady river flow, fuelwood energy, soil fertility and protection against waterlogging and salinity — printed p. 52 |
+| Bhutan part — 4.1 Forest / 4.2 Importance of forest | Bhutan, *Bhutan Grade 4 Social Studies*, 4.1 Forest / 4.2 Importance of forest — printed p. 23 |
+| Bhutan part — 4.2 Importance of Community Forests | Bhutan, *Bhutan Grade 5 Social Studies*, 4.2 Importance of Community Forests — printed p. 18 |
+| Bhutan part — Ch.9 9.3 Importance of Forest | Bhutan, *Bhutan Grade 7 Geography*, Ch.9 9.3 Importance of Forest — printed p. 46 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Angola, Venezuela, Pakistan).**
+**Acceptance count: taught in 5 countries (Ethiopia, Angola, Venezuela, Pakistan, Bhutan).**
 
 Searchable tags: forestry, fuelwood, timber, watershed protection, forest economy, social studies
 
@@ -31,3 +40,9 @@ Angola's own way (Grade 6): a resources-and-environment year — every world top
 Venezuela's own way (Venezuela Grade 11 G11 CS Geografía de Venezuela): a final-year economic geography of Venezuela alone — population past/present/future, human development in numbers, then resource by resource (minerals, land, fisheries, forests, oil, water/hydroelectricity) each read through sovereignty, collective participation and environmental conscience, closing on Latin American union.
 
 Pakistan's own way (Pakistan Grade 6 Geography 6): world physical Geography taught through Pakistan's own land — its fault lines and 1935/2005 earthquakes, Khewra salt and Thar coal among the rocks, K2 and the Karakoram among the mountains, Pakistan's four climatic regions, its six forest types from mangrove to alpine, and the Indus flood as the country's defining disaster.
+
+Bhutan's own way (Bhutan Grade 4 Social Studies): Social Studies IV–VI integrates Geography with Civics, Culture, Economics, History and Religion (Foreword); Geography is taught from the child's home, village and district outward, with Bhutanese materials (stone, mud, wood, straw houses) and local forest and hazard examples throughout.
+
+Bhutan's own way (Bhutan Grade 5 Social Studies): Grade 5 spirals from the Earth and lat/long straight into Bhutan itself — its location, three physical zones, neighbours, major rivers and protected areas — so world geography is anchored in the home country's map first.
+
+Bhutan's own way (Bhutan Grade 7 Geography): From Class VII Geography becomes a standalone subject organised in three strands (Time and Space; Physical Environment; People and Environment), every world topic closed with its Bhutan case — climate of Bhutan, vegetation types of Bhutan, minerals of Bhutan, and Bhutan's Himalayan disaster set (earthquake, flood, windstorm, fire, GLOF).

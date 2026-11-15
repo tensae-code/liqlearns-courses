@@ -1,6 +1,6 @@
 # Sources — The world's population explosion
 
-countries: Ethiopia, Palestine, Cambodia, Slovenia, Syria, Mauritania, Honduras, Jordan, Laos
+countries: Ethiopia, Palestine, Cambodia, Slovenia, Syria, Mauritania, Honduras, Jordan, Laos, Bhutan
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). Editors: Sintayehu Teka (MSc) (Content Editor), Kassie Molla (MA) (Language Editor), Hirut Woldemichael (MA) (Curriculum Editor). Illustrator: Agenchw Nega (MSc). Designer: Geda Hoka (MA). Evaluators: Dereje Guteta (PhD), Tesfaye Shiferaw (PhD), Abebe Yibeltie (MA), Hussein Seid (MA). First published 2023 under GEQIP-E. ISBN 978-99990-0-049-9. Printed by Gravity Group IND LLC, 13th Industrial Area, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. Printed page = PDF page − 6 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md
 
@@ -32,6 +32,8 @@ countries: Ethiopia, Palestine, Cambodia, Slovenia, Syria, Mauritania, Honduras,
 
 **Book 15:** *ແບບຮຽນ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາປີທີ 6 (Textbook, Geography, Secondary Year 6)* (student book, Lao) — Ministry of Education and Sports, Educational Science Research Institute; year 2015 (printed by Phu Thinh Printing and Trading Service Co., Vietnam; print run 25,098); ISBN no ISBN printed. Title as printed: ແບບຮຽນ ພູມສາດ ຊັ້ນມັດທະຍົມສຶກສາປີທີ 6 (Textbook, Geography, Secondary Year 6). Grade: Grade 11 (ມ.6) (student/teacher: STUDENT). PDF pages: 209 (cover verified against the record title — full cover spread with world map; byte size 5,736,650 exact match to the books.json record, read via the release asset). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/laos-placements.md.
 
+**Book 16:** *ADVANCED GEOGRAPHY CLASS XI* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Thimphu; year Provisional Edition 2022, Copyright 2023, Reprint 2024; ISBN no ISBN printed. Title as printed: ADVANCED GEOGRAPHY CLASS XI. Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 182 (cover/title page verified against the record title; byte size 19,627,789 and page count match the books.json record exactly — read via the record's ministry source URL; this book is also the TSV release record grade-11-gov-bhutan-geography-full-year.pdf, same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — 1.6 billion to 6.1 billion | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 4, printed pp. 88–95 |
@@ -51,8 +53,9 @@ countries: Ethiopia, Palestine, Cambodia, Slovenia, Syria, Mauritania, Honduras,
 | Jordan part — Unit 2 Lesson 1: The Population Explosion (الانفجار السكاني) | Jordan, *Jordan G11 ES T1*, Unit 2 Lesson 1: The Population Explosion (الانفجار السكاني) — printed p. 44 |
 | Laos part — Part I Lesson 5: The increase of world population | Laos, *Laos Grade 11 laos-g11-geography-teacher*, Part I Lesson 5: The increase of world population — printed p. 27 (teacher-guide evidence) |
 | Laos part — Part I Lesson 5: The increase of world population | Laos, *Laos Grade 11 laos-g11-geography-student*, Part I Lesson 5: The increase of world population — printed p. 38 |
+| Bhutan part — Ch.10 10.7 Trends of Population Growth | Bhutan, *Bhutan Grade 11 Geography*, Ch.10 10.7 Trends of Population Growth — printed p. 120 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Palestine, Cambodia, Slovenia, Syria, Mauritania, Honduras, Jordan, Laos).**
+**Acceptance count: taught in 10 countries (Ethiopia, Palestine, Cambodia, Slovenia, Syria, Mauritania, Honduras, Jordan, Laos, Bhutan).**
 
 No book error is flagged for this lesson's pages in the placements. The Grade 11 book's telling of the same explosion — why deaths fell first — stands as its own lesson; this is the Grade 10 acceleration account and does not repeat it.
 
@@ -83,3 +86,5 @@ Jordan's own way (Jordan G11 ES T1): Grade 11 Earth Science turns to weather sys
 Laos's own way (Laos Grade 11 laos-g11-geography-teacher): a world-population and world-countries year — Part I works through world population growth, changing characteristics, distribution, migration, the developed/developing contrast and urban growth; Part II then studies nine countries one by one (USA, Russia, France, Germany, UK, China, India, Japan, South Africa) plus development in Africa, with map plates (the book ends on a South Africa agriculture map, printed p. 140).
 
 Laos's own way (Laos Grade 11 laos-g11-geography-student): the student twin of Book 5 — same 2 parts / 21 lessons (world population, then nine country studies plus development in Africa) with full illustrated text.
+
+Bhutan's own way (Bhutan Grade 11 Geography): The Advanced level (XI–XII) is full academic geography — map projections, remote sensing and GIS, insolation and pressure belts, climate classification — with Bhutan applied chapters on agriculture, manufacturing and tourism, the last taught on Bhutan's own sustainability principle ("high value, low volume" in the Bhutan Tourism Monitor data the book uses).

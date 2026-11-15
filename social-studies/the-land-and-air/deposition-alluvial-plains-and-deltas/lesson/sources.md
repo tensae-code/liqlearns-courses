@@ -1,6 +1,6 @@
 # Sources — Deposition — Alluvial Plains and Deltas
 
-countries: Ethiopia, Bangladesh, Kuwait, Pakistan, Iraq
+countries: Ethiopia, Bangladesh, Kuwait, Pakistan, Iraq, Bhutan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Bangladesh, Kuwait, Pakistan, Iraq
 
 **Book 8:** *الجغرافية الطبيعية للصف الخامس الأدبي (Natural Geography for the Fifth Literary Grade) — the record's "Geography (Literary Track)" is the same book: same grade and track, verified by cover and contents* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; revised by a committee in the Ministry of Education; year 1445 AH / 2023 CE, revised 13th edition (الطبعة الثالثة عشرة / المنقحة); ISBN no ISBN printed on the title pages. Title as printed: الجغرافية الطبيعية للصف الخامس الأدبي (Natural Geography for the Fifth Literary Grade) — the record's "Geography (Literary Track)" is the same book: same grade and track, verified by cover and contents. Grade: 11 (fifth secondary, literary track) (student/teacher: STUDENT). PDF pages: 162 (cover/title page verified as above; read via the books.json record's own Google Drive source file — same book, cover and contents verified — after the GitHub route failed). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iraq-placements.md.
 
+**Book 9:** *INTERMEDIATE GEOGRAPHY CLASS IX* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu (title page; developed with the Royal Education Council, Paro); year Reprint 2024 (page footers); ISBN no ISBN printed (no imprint page in the PDF). Title as printed: INTERMEDIATE GEOGRAPHY CLASS IX. Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 123 (cover/title page verified against the record title; byte size 10,807,956 and page count match the books.json record exactly — read via the record's ministry source URL). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Where the load is laid down | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 20–21 |
@@ -30,8 +32,9 @@ countries: Ethiopia, Bangladesh, Kuwait, Pakistan, Iraq
 | Pakistan part — Types of plains by how they form: erosional, depositional, river plains (alluvial and flood), glacial, lacustrine, coastal and wind plains (pediplains) | Pakistan, *Pakistan Grade 7 Geography 7*, Types of plains by how they form: erosional, depositional, river plains (alluvial and flood), glacial, lacustrine, coastal and wind plains (pediplains) — printed pp. 4–6 |
 | Pakistan part — The river's depositional landforms: flood plain, natural levees and delta | Pakistan, *Pakistan Grade 8 Geography 8*, The river's depositional landforms: flood plain, natural levees and delta — printed p. 12 |
 | Iraq part — Ch. 1: Plains (including glacial plains) and plateaus (Patagonia, Ozark) | Iraq, *Iraq Grade 11 Physical Geography*, Ch. 1: Plains (including glacial plains) and plateaus (Patagonia, Ozark) — printed p. 23 |
+| Bhutan part — Ch.7 7.4 Erosion, Transportation and Deposition | Bhutan, *Bhutan Grade 9 Geography*, Ch.7 7.4 Erosion, Transportation and Deposition — printed p. 58 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Bangladesh, Kuwait, Pakistan, Iraq).**
+**Acceptance count: taught in 6 countries (Ethiopia, Bangladesh, Kuwait, Pakistan, Iraq, Bhutan).**
 
 Pairing warning: the Grade 8 teacher guide is an Addis Ababa bureau book and the student book is an Amhara bureau book; they are NOT edition-matched, and the guide in hand is truncated (printed pp. 1–47 only, Units 1–3). Pupil content in this lesson comes from the Amhara student book; anything from the guide is labelled (teacher guide — evidence) and never presented as pupil-taught.
 
@@ -48,3 +51,5 @@ Pakistan's own way (Pakistan Grade 7 Geography 7): a dedicated English-medium Ge
 Pakistan's own way (Pakistan Grade 8 Geography 8): the Urdu-medium twin of the English Geography course — deep map-and-graph craft first (dot and choropleth maps of Pakistan itself), then landform agents, oceans, a full Pakistan-anchored disaster chapter, the world's natural regions, Pakistan's own climate, its four neighbouring regions and strategic place, underdevelopment with Pakistan's own causes, and modern techniques down to Pak Sat-1.
 
 Iraq's own way (Iraq Grade 11 Physical Geography): a pure physical-geography course in six chapters — landforms, weather and climate, water, the biosphere, soil, and the environment — with Iraqi anchors kept throughout (flood visits to Iraq's rivers, the hills of northern Iraq, groundwater and the desert caravans, soil salinity in the alluvial plain).
+
+Bhutan's own way (Bhutan Grade 9 Geography): The Intermediate level (IX–X) treats each world topic at full textbook depth and keeps the Bhutan case inside it — Soils of Bhutan, agro-ecological zones and farming practices of Bhutan, and common disasters in Bhutan (including GLOF) alongside the world disaster survey.

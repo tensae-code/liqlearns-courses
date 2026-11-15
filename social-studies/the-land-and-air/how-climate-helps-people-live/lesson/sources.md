@@ -1,6 +1,6 @@
 # Sources — How climate helps people live
 
-countries: Ethiopia, Jamaica, Colombia, Malaysia, Eritrea, Rwanda, Uganda, Jordan
+countries: Ethiopia, Jamaica, Colombia, Malaysia, Eritrea, Rwanda, Uganda, Jordan, Bhutan
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). Editors: Sintayehu Teka (MSc) (Content Editor), Kassie Molla (MA) (Language Editor), Hirut Woldemichael (MA) (Curriculum Editor). Illustrator: Agenchw Nega (MSc). Designer: Geda Hoka (MA). Evaluators: Dereje Guteta (PhD), Tesfaye Shiferaw (PhD), Abebe Yibeltie (MA), Hussein Seid (MA). First published 2023 under GEQIP-E. ISBN 978-99990-0-049-9. Printed by Gravity Group IND LLC, 13th Industrial Area, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. Printed page = PDF page − 6 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md
 
@@ -28,6 +28,8 @@ countries: Ethiopia, Jamaica, Colombia, Malaysia, Eritrea, Rwanda, Uganda, Jorda
 
 **Book 13:** *الدراسات الاجتماعية — الصف السادس — الفصل الدراسي الثاني (Social Studies, Grade 6, Term 2)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; year 2025; ISBN 978-9923-41-870-3. Title as printed: الدراسات الاجتماعية — الصف السادس — الفصل الدراسي الثاني (Social Studies, Grade 6, Term 2). Grade: 6 (student/teacher: STUDENT). PDF pages: 128 (cover verified. READ ROUTE NOTE: same as Term 1 — books.json record claims in_pushed but grab.py tree returned HTTP 404; read from the record's recorded source minhaji.net/download/30117, 28,780,103 bytes, exactly the record's size_bytes. Staged into phase3-staging under the push-don't-delete rule — see group log.). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
 
+**Book 14:** *SOCIAL STUDIES CLASS VI* (student book, English) — Center for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; year Provisional Edition 2021, Revised 2025; ISBN no ISBN printed. Title as printed: SOCIAL STUDIES CLASS VI. Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 68 (cover/title page verified against the record title; byte size 1,628,115 and page count match the books.json record exactly — read via the record's ministry source URL after the grab.py tree route hung over 5 minutes on this book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Farming and water — the first gifts | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 2, printed pp. 41–43 |
@@ -45,8 +47,9 @@ countries: Ethiopia, Jamaica, Colombia, Malaysia, Eritrea, Rwanda, Uganda, Jorda
 | Uganda part — Topic 3: The Influence of Climate on Human Activities | Uganda, *Uganda Grade 5 UG Excel P5 SST*, Topic 3: The Influence of Climate on Human Activities — printed p. 49 |
 | Uganda part — Topic 2: Climate as a resource | Uganda, *Uganda Grade 6 UG Excel P6 SST*, Topic 2: Climate as a resource — printed p. 87 |
 | Jordan part — Unit 7 Lesson 3: The Effect of Climate on Human Activities (أثر المناخ في الأنشطة البشرية) | Jordan, *Jordan G6 SS T2*, Unit 7 Lesson 3: The Effect of Climate on Human Activities (أثر المناخ في الأنشطة البشرية) — printed p. 43 |
+| Bhutan part — 2.4 Climate and the people | Bhutan, *Bhutan Grade 6 Social Studies*, 2.4 Climate and the people — printed p. 10 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Colombia, Malaysia, Eritrea, Rwanda, Uganda, Jordan). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 8 countries (Ethiopia, Colombia, Malaysia, Eritrea, Rwanda, Uganda, Jordan, Bhutan). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grade 4 Exploratory Core, curriculum guide — evidence): Social Studies is one of four subjects fused into a single Exploratory Core guide, organised by four attainment themes; Geography enters through Jamaica itself — Taino settlement maps, cardinal points, Jamaica's physical features, parishes, weather and the Earth in the Solar System — always with hands-on map and model work. That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
@@ -73,3 +76,5 @@ Uganda's own way (Uganda Grade 5 UG Excel P5 SST): A full-year commercial compan
 Uganda's own way (Uganda Grade 6 UG Excel P6 SST): The P6 course widens from Uganda to the whole East African Community: location by latitude/longitude, resources, transport and communication are all taught at EAC scale. Non-Geography parts named, not placed: Topic 1 — historical background, formation, revival, organs and symbols of the EAC (Civics); The People of East Africa — origin of human beings, sources of history, archaeological sites, Stone Age, ethnic groups and their political/social/economic organisation (History, printed pp. 25–54); Early visitors — Arab traders, long-distance and slave trade, European traders, Christian missionaries (History, pp. 55–64); Topic 4 The Road to Independence in East Africa — explorers, scramble and partition, colonial rule and reactions, independence struggle, post-independence leaders and democratic rule (History/Civics, pp. 140–188).
 
 Jordan's own way (Jordan G6 SS T2): Term 2's geography is climate done properly — elements, effects on human activity, Jordan's own climate regions — plus economic concepts and three more governorate journeys (Mafraq, Balqa, Aqaba).
+
+Bhutan's own way (Bhutan Grade 6 Social Studies): Grade 6 turns to Bhutan's own climate zones, population and signature environment topics — hydropower, urbanisation and glacial lake outburst floods (GLOF) — a hazard set specific to a Himalayan kingdom.

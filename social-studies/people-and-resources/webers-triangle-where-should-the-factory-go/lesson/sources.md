@@ -1,6 +1,6 @@
 # Sources — Weber's triangle — where should the factory go?
 
-countries: Ethiopia, Barbados, Indonesia, India, Cambodia, Fiji, Slovenia, Venezuela, Afghanistan, Moldova, Mozambique, Iraq
+countries: Ethiopia, Barbados, Indonesia, India, Cambodia, Fiji, Slovenia, Venezuela, Afghanistan, Moldova, Mozambique, Iraq, Bhutan
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -34,6 +34,8 @@ countries: Ethiopia, Barbados, Indonesia, India, Cambodia, Fiji, Slovenia, Venez
 
 **Book 16:** *الجغرافية البشرية للصف السادس الأدبي (Human Geography for the Sixth Literary Grade) — the record's "Geography (Literary Track)" is the same book: same grade and track, verified by cover and contents* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; revised by a committee in the Ministry of Education; year 1445 AH / 2023 CE, revised 13th edition (الطبعة الثالثة عشرة / المنقحة); ISBN no ISBN printed on the title pages. Title as printed: الجغرافية البشرية للصف السادس الأدبي (Human Geography for the Sixth Literary Grade) — the record's "Geography (Literary Track)" is the same book: same grade and track, verified by cover and contents. Grade: 12 (sixth secondary, literary track) (student/teacher: STUDENT). PDF pages: 172 (cover/title page verified as above; read via the books.json record's own Google Drive source file — same book, cover and contents verified — after the GitHub route failed). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iraq-placements.md.
 
+**Book 17:** *INTERMEDIATE GEOGRAPHY CLASS X* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu (title page; developed with the Royal Education Council, Paro); year Reprint 2024 (page footers); ISBN no ISBN printed (no imprint page in the PDF). Title as printed: INTERMEDIATE GEOGRAPHY CLASS X. Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 124 (cover/title page verified against the record title; byte size 12,820,771 and page count match the books.json record exactly — read via the record's ministry source URL; this book is also the TSV release record grade-10-gov-bhutan-geography-full-year.pdf, same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The least-cost idea | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 5, printed pp. 129–131 |
@@ -54,8 +56,9 @@ countries: Ethiopia, Barbados, Indonesia, India, Cambodia, Fiji, Slovenia, Venez
 | Iraq part — Part 1 Ch. 2: The factors for an industry to arise (عوامل قيام الصناعة) — raw materials, labour and the rest | Iraq, *Iraq Grade 8 Social Studies*, Part 1 Ch. 2: The factors for an industry to arise (عوامل قيام الصناعة) — raw materials, labour and the rest — printed p. 55 |
 | Iraq part — Ch. 5: Industrial geography — the theories and models explaining industrial location | Iraq, *Iraq Grade 10 Geography*, Ch. 5: Industrial geography — the theories and models explaining industrial location — printed p. 131 |
 | Iraq part — Ch. 4: The factors of industry — natural factors (climate fixing the kind of industry across wide countries) and human and economic factors (raw materials, labour skilled and unskilled) [placement slug: people-and-resources/where-industry-goes] | Iraq, *Iraq Grade 12 Human Geography*, Ch. 4: The factors of industry — natural factors (climate fixing the kind of industry across wide countries) and human and economic factors (raw materials, labour skilled and unskilled) — printed p. 83 |
+| Bhutan part — Ch.11 11.4 Factors affecting location of an industry | Bhutan, *Bhutan Grade 10 Geography*, Ch.11 11.4 Factors affecting location of an industry — printed p. 97 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Barbados, Indonesia, India, Cambodia, Fiji, Slovenia, Venezuela, Afghanistan, Moldova, Mozambique, Iraq).**
+**Acceptance count: taught in 13 countries (Ethiopia, Barbados, Indonesia, India, Cambodia, Fiji, Slovenia, Venezuela, Afghanistan, Moldova, Mozambique, Iraq, Bhutan).**
 
 Indonesia's own way (Grade 12): Grade 12 is applied human geography built entirely on Indonesian cases — regional development and spatial planning (tata ruang) measured against a Happiness Index, Industry 4.0 / Society 5.0, and Indonesia's own geopolitics and ASEAN-era cooperation as pillars of national resilience. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -88,3 +91,5 @@ Iraq's own way (Iraq Grade 8 Social Studies): the intermediate sequence widens r
 Iraq's own way (Iraq Grade 10 Geography): the literary track opens geography as a discipline in its own right — its thought from the Sumerians to GIS, how a geographer researches, where geographical data come from and how they are drawn, and only then the fields of the science; Iraq supplies the worked examples throughout (Baghdad research problem, Iraqi topographic maps, Iraq's gas time series, the Baghdad–Basra distance exercise).
 
 Iraq's own way (Iraq Grade 12 Human Geography): a human-geography course in six chapters — population, cities and countryside, agriculture, industry and mining, transport and trade, political geography and tourism — and every chapter closes with an applied study of Iraq itself, so the world pattern is always brought home.
+
+Bhutan's own way (Bhutan Grade 10 Geography): Class X pairs deep physical theory (Big Bang, plate tectonics, the making of the Himalayas) with an applied Bhutan block — climate and vegetation zones of Bhutan, Bhutanese agriculture's challenges and advancement, industries and their distribution, and a Bhutan disaster chapter that adds Education in Emergency.

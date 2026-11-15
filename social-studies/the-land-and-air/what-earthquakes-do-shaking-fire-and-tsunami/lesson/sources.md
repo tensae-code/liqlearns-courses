@@ -1,6 +1,6 @@
 # Sources — What earthquakes do — shaking, fire and tsunami
 
-countries: Ethiopia, Malaysia, United Kingdom, Sri Lanka, Kuwait, Libya, Mozambique
+countries: Ethiopia, Malaysia, United Kingdom, Sri Lanka, Kuwait, Libya, Mozambique, Bhutan
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -18,6 +18,12 @@ countries: Ethiopia, Malaysia, United Kingdom, Sri Lanka, Kuwait, Libya, Mozambi
 
 **Book 8:** *Módulo 3 de Geografia — Geomorfologia* (student book, Portuguese) — Ministério da Educação / IEDA; year not printed (uploaded to IEDA site 2022); no ISBN printed. Title as printed: Módulo 3 de Geografia — Geomorfologia. Grade: Grades 10–12 cycle (2º Ciclo), filed as Grade 10 (student/teacher: STUDENT). PDF pages: 138 (title page verified against the record title; byte size 5,627,754 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE (the book's own contents page omits Lição 2 "Rochas" — it is present in the body at printed p. 10; contents-page error in the book itself). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
 
+**Book 9:** *AN INTRODUCTION TO GEOGRAPHY CLASS VII* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Royal Government of Bhutan, Thimphu; year Provisional edition 2018, Copyright 2023, Reprint 2024; ISBN 975-99936-0-455-8 (as printed). Title as printed: AN INTRODUCTION TO GEOGRAPHY CLASS VII. Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 86 (cover/title page verified against the record title; byte size 5,663,043 and page count match the books.json record exactly — read via the record's ministry source URL after the grab.py route proved unreliable for this group). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
+**Book 10:** *An Introduction to GEOGRAPHY Class VIII* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Royal Government of Bhutan, Thimphu; year Provisional Edition 2019, Copyright 2023, Reprint 2024; ISBN no ISBN printed. Title as printed: An Introduction to GEOGRAPHY Class VIII. Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 120 (cover/title page verified against the record title; byte size 9,992,518 and page count match the books.json record exactly — read via the record's ministry source URL). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
+**Book 11:** *ADVANCED GEOGRAPHY CLASS XI* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Thimphu; year Provisional Edition 2022, Copyright 2023, Reprint 2024; ISBN no ISBN printed. Title as printed: ADVANCED GEOGRAPHY CLASS XI. Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 182 (cover/title page verified against the record title; byte size 19,627,789 and page count match the books.json record exactly — read via the record's ministry source URL; this book is also the TSV release record grade-11-gov-bhutan-geography-full-year.pdf, same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Ground, works and fire | G12 student #14, printed p. 17 |
@@ -29,8 +35,11 @@ countries: Ethiopia, Malaysia, United Kingdom, Sri Lanka, Kuwait, Libya, Mozambi
 | Kuwait part — Part Three, Chapter 1: what earthquakes do — they shift parts of the crust sideways and up-and-down, raise or sink stretches of sea floor and coast, bring collapses and landslides, and, when violent under the oceans and seas, raise the huge waves called tsunami that inflict the worst losses on the coasts they strike; in peopled areas they cost heavily in property and lives | Kuwait, *Kuwait Grade 11 Geography Principles G11 T1*, Part Three, Chapter 1: what earthquakes do — they shift parts of the crust sideways and up-and-down, raise or sink stretches of sea floor and coast, bring collapses and landslides, and, when violent under the oceans and seas, raise the huge waves called tsunami that inflict the worst losses on the coasts they strike; in peopled areas they cost heavily in property and lives — printed p. 83 |
 | Libya part — الآثار المترتبة عن الزلازل: Effects of earthquakes (cracks, springs appearing/drying, destruction) | Libya, *Libya Grade 6 LY G6 Social Studies*, الآثار المترتبة عن الزلازل: Effects of earthquakes (cracks, springs appearing/drying, destruction) — printed p. 70 |
 | Mozambique part — Lição 10: Sismos (continuação) — efeitos, protecção e segurança | Mozambique, *Mozambique Grade 10 PESD II Mod 3*, Lição 10: Sismos (continuação) — efeitos, protecção e segurança — printed p. 55 |
+| Bhutan part — Ch.14 14.2 Types of Disaster: Earthquake | Bhutan, *Bhutan Grade 7 Geography*, Ch.14 14.2 Types of Disaster: Earthquake — printed p. 70 |
+| Bhutan part — Ch.5 5.3 Effects of Earthquake | Bhutan, *Bhutan Grade 8 Geography*, Ch.5 5.3 Effects of Earthquake — printed p. 34 |
+| Bhutan part — Ch.1 Consequences of Earthquake | Bhutan, *Bhutan Grade 11 Geography*, Ch.1 Consequences of Earthquake — printed p. 22 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Malaysia, United Kingdom, Sri Lanka, Kuwait, Libya, Mozambique).**
+**Acceptance count: taught in 8 countries (Ethiopia, Malaysia, United Kingdom, Sri Lanka, Kuwait, Libya, Mozambique, Bhutan).**
 
 No book error in the placements for this lesson is taught here. Figures and cases are taught exactly as the placements report them.
 
@@ -49,3 +58,9 @@ Kuwait's own way (Kuwait Grade 11 Geography Principles G11 T1): Geography is tau
 Libya's own way (Libya Grade 6 LY G6 Social Studies): The geography half is "Principles of Physical Geography" in four units — surface shaping, climate, water, pollution — with Libyan examples inside world content (the Haruj volcanic mountains, Libyan springs such as Ain al-Sharshara). Non-Geography part named, not placed: Topic One, History of Libya — the Ottoman State and Libya as an Ottoman province (printed pp. 12–18), Libya in the Ottoman era 1551–1912 including the Karamanli period (pp. 19–35), modern European colonialism and the Italian occupation of 1911 (pp. 36–43), Libyan resistance to the Italian occupation (pp. 44–54), Libya after the Italian era — liberation, the British/French military administrations, independence and the Libyan Kingdom (pp. 55–64).
 
 Mozambique's own way (Mozambique Grade 10 PESD II Mod 3): a systematic geomorphology course — rocks and Earth's interior first, then isostasy, continental drift and plate tectonics, then internal agents (folds, faults, earthquakes, volcanoes in four lessons), then external agents and the modelled landscapes of hot, temperate, cold and coastal environments, closing with the geological cycle.
+
+Bhutan's own way (Bhutan Grade 7 Geography): From Class VII Geography becomes a standalone subject organised in three strands (Time and Space; Physical Environment; People and Environment), every world topic closed with its Bhutan case — climate of Bhutan, vegetation types of Bhutan, minerals of Bhutan, and Bhutan's Himalayan disaster set (earthquake, flood, windstorm, fire, GLOF).
+
+Bhutan's own way (Bhutan Grade 8 Geography): Class VIII deepens the same three strands with real map-work (scale conversion, grid references, contours and profiles) and Bhutan-specific hazard and resource content, including the Rubesa wind turbine and hydroelectric dams as national resource examples.
+
+Bhutan's own way (Bhutan Grade 11 Geography): The Advanced level (XI–XII) is full academic geography — map projections, remote sensing and GIS, insolation and pressure belts, climate classification — with Bhutan applied chapters on agriculture, manufacturing and tourism, the last taught on Bhutan's own sustainability principle ("high value, low volume" in the Bhutan Tourism Monitor data the book uses).

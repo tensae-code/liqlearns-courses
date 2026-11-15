@@ -1,6 +1,6 @@
 # Sources — River landforms — from V-valley to delta
 
-countries: Ethiopia, Barbados, Malaysia, India, United Kingdom, Fiji, Slovenia, Sudan, Sri Lanka, Pakistan, Libya, Mozambique, Iraq
+countries: Ethiopia, Barbados, Malaysia, India, United Kingdom, Fiji, Slovenia, Sudan, Sri Lanka, Pakistan, Libya, Mozambique, Iraq, Bhutan
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -32,6 +32,12 @@ countries: Ethiopia, Barbados, Malaysia, India, United Kingdom, Fiji, Slovenia, 
 
 **Book 15:** *الجغرافية الطبيعية للصف الخامس الأدبي (Natural Geography for the Fifth Literary Grade) — the record's "Geography (Literary Track)" is the same book: same grade and track, verified by cover and contents* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; revised by a committee in the Ministry of Education; year 1445 AH / 2023 CE, revised 13th edition (الطبعة الثالثة عشرة / المنقحة); ISBN no ISBN printed on the title pages. Title as printed: الجغرافية الطبيعية للصف الخامس الأدبي (Natural Geography for the Fifth Literary Grade) — the record's "Geography (Literary Track)" is the same book: same grade and track, verified by cover and contents. Grade: 11 (fifth secondary, literary track) (student/teacher: STUDENT). PDF pages: 162 (cover/title page verified as above; read via the books.json record's own Google Drive source file — same book, cover and contents verified — after the GitHub route failed). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iraq-placements.md.
 
+**Book 16:** *SOCIAL STUDIES CLASS V* (student book, English) — Center for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; year Provisional Edition 2020, Reprint 2025; ISBN no ISBN printed (blank ISBN line on imprint page). Title as printed: SOCIAL STUDIES CLASS V. Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 78 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
+**Book 17:** *An Introduction to GEOGRAPHY Class VIII* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Royal Government of Bhutan, Thimphu; year Provisional Edition 2019, Copyright 2023, Reprint 2024; ISBN no ISBN printed. Title as printed: An Introduction to GEOGRAPHY Class VIII. Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 120 (cover/title page verified against the record title; byte size 9,992,518 and page count match the books.json record exactly — read via the record's ministry source URL). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
+**Book 18:** *INTERMEDIATE GEOGRAPHY CLASS IX* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu (title page; developed with the Royal Education Council, Paro); year Reprint 2024 (page footers); ISBN no ISBN printed (no imprint page in the PDF). Title as printed: INTERMEDIATE GEOGRAPHY CLASS IX. Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 123 (cover/title page verified against the record title; byte size 10,807,956 and page count match the books.json record exactly — read via the record's ministry source URL). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Upper and middle courses | G12 student #22, printed pp. 28–29 |
@@ -50,8 +56,11 @@ countries: Ethiopia, Barbados, Malaysia, India, United Kingdom, Fiji, Slovenia, 
 | Libya part — Book 2 Ch.2: تعرية المياه الجارية — Running-water erosion: transport, cutting and deposition, and depositional landforms (Nile delta) [placement slug: the-land-and-air/rivers-shape-the-land-erosion-and-deposition] | Libya, *Libya Grade 10 LY G10 Principles*, Book 2 Ch.2: تعرية المياه الجارية — Running-water erosion: transport, cutting and deposition, and depositional landforms (Nile delta) — printed p. 48 |
 | Mozambique part — Lição 18: Modelado das regiões temperadas (river erosion, giant's kettles/marmitas, fluvial terraces, fairy chimneys) | Mozambique, *Mozambique Grade 10 PESD II Mod 3*, Lição 18: Modelado das regiões temperadas (river erosion, giant's kettles/marmitas, fluvial terraces, fairy chimneys) — printed p. 101 |
 | Iraq part — Ch. 1: Valleys and rivers — river erosion, transport and deposition, and the conditions for a delta to form | Iraq, *Iraq Grade 11 Physical Geography*, Ch. 1: Valleys and rivers — river erosion, transport and deposition, and the conditions for a delta to form — printed p. 25 |
+| Bhutan part — 3.2 Stages of Rivers | Bhutan, *Bhutan Grade 5 Social Studies*, 3.2 Stages of Rivers — printed p. 12 |
+| Bhutan part — Ch.4 4.2 Stages of River | Bhutan, *Bhutan Grade 8 Geography*, Ch.4 4.2 Stages of River — printed p. 26 |
+| Bhutan part — Ch.7 7.6 Features formed by a river | Bhutan, *Bhutan Grade 9 Geography*, Ch.7 7.6 Features formed by a river — printed p. 60 |
 
-**Acceptance count: taught in 13 countries (Ethiopia, Barbados, Malaysia, India, United Kingdom, Fiji, Slovenia, Sudan, Sri Lanka, Pakistan, Libya, Mozambique, Iraq).**
+**Acceptance count: taught in 14 countries (Ethiopia, Barbados, Malaysia, India, United Kingdom, Fiji, Slovenia, Sudan, Sri Lanka, Pakistan, Libya, Mozambique, Iraq, Bhutan).**
 
 Barbados's own way: this is the shared Caribbean CSEC examination textbook used in Barbados — every world process is re-taught through Caribbean case studies (the Caribbean plate, Montserrat's volcano, Jamaica's coasts and Kingston's urban problems, St Lucia's reefs, Bahamas/Jamaica/Puerto Rico karst, Guyana's rivers), map and field skills are folded into the chapters, and the course ends in a School-Based Assessment fieldwork project. That way is stocked here as the way Barbados teaches this thing; it does not change the acceptance count above.
 
@@ -84,3 +93,9 @@ Libya's own way (Libya Grade 10 LY G10 Principles): Secondary geography opens as
 Mozambique's own way (Mozambique Grade 10 PESD II Mod 3): a systematic geomorphology course — rocks and Earth's interior first, then isostasy, continental drift and plate tectonics, then internal agents (folds, faults, earthquakes, volcanoes in four lessons), then external agents and the modelled landscapes of hot, temperate, cold and coastal environments, closing with the geological cycle.
 
 Iraq's own way (Iraq Grade 11 Physical Geography): a pure physical-geography course in six chapters — landforms, weather and climate, water, the biosphere, soil, and the environment — with Iraqi anchors kept throughout (flood visits to Iraq's rivers, the hills of northern Iraq, groundwater and the desert caravans, soil salinity in the alluvial plain).
+
+Bhutan's own way (Bhutan Grade 5 Social Studies): Grade 5 spirals from the Earth and lat/long straight into Bhutan itself — its location, three physical zones, neighbours, major rivers and protected areas — so world geography is anchored in the home country's map first.
+
+Bhutan's own way (Bhutan Grade 8 Geography): Class VIII deepens the same three strands with real map-work (scale conversion, grid references, contours and profiles) and Bhutan-specific hazard and resource content, including the Rubesa wind turbine and hydroelectric dams as national resource examples.
+
+Bhutan's own way (Bhutan Grade 9 Geography): The Intermediate level (IX–X) treats each world topic at full textbook depth and keeps the Bhutan case inside it — Soils of Bhutan, agro-ecological zones and farming practices of Bhutan, and common disasters in Bhutan (including GLOF) alongside the world disaster survey.

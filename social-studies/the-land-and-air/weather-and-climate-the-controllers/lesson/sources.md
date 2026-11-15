@@ -1,6 +1,6 @@
 # Sources — Weather and Climate — The Controllers
 
-countries: Ethiopia, Jamaica, Dominican Republic, Papua New Guinea, Sudan, Venezuela, Mauritania, Afghanistan, Pakistan, Nepal, Mozambique, Laos, Iraq
+countries: Ethiopia, Jamaica, Dominican Republic, Papua New Guinea, Sudan, Venezuela, Mauritania, Afghanistan, Pakistan, Nepal, Mozambique, Laos, Iraq, Bhutan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -44,6 +44,12 @@ countries: Ethiopia, Jamaica, Dominican Republic, Papua New Guinea, Sudan, Venez
 
 **Book 21:** *الاجتماعيات للصف الثاني المتوسط (Social Studies for the Second Intermediate Grade)* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 1445 AH / 2023 CE, 4th edition (الطبعة الرابعة); ISBN no ISBN printed on the title pages. Title as printed: الاجتماعيات للصف الثاني المتوسط (Social Studies for the Second Intermediate Grade). Grade: 8 (student/teacher: STUDENT). PDF pages: 140 (cover/title page verified against the record title; read via the books.json record's own Google Drive source file — same book, cover and contents verified — after the GitHub route failed). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iraq-placements.md.
 
+**Book 22:** *SOCIAL STUDIES CLASS VI* (student book, English) — Center for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; year Provisional Edition 2021, Revised 2025; ISBN no ISBN printed. Title as printed: SOCIAL STUDIES CLASS VI. Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 68 (cover/title page verified against the record title; byte size 1,628,115 and page count match the books.json record exactly — read via the record's ministry source URL after the grab.py tree route hung over 5 minutes on this book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
+**Book 23:** *An Introduction to GEOGRAPHY Class VIII* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Royal Government of Bhutan, Thimphu; year Provisional Edition 2019, Copyright 2023, Reprint 2024; ISBN no ISBN printed. Title as printed: An Introduction to GEOGRAPHY Class VIII. Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 120 (cover/title page verified against the record title; byte size 9,992,518 and page count match the books.json record exactly — read via the record's ministry source URL). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
+**Book 24:** *INTERMEDIATE GEOGRAPHY CLASS X* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu (title page; developed with the Royal Education Council, Paro); year Reprint 2024 (page footers); ISBN no ISBN printed (no imprint page in the PDF). Title as printed: INTERMEDIATE GEOGRAPHY CLASS X. Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 124 (cover/title page verified against the record title; byte size 12,820,771 and page count match the books.json record exactly — read via the record's ministry source URL; this book is also the TSV release record grade-10-gov-bhutan-geography-full-year.pdf, same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Controllers against elements | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 25–26 |
@@ -65,6 +71,9 @@ countries: Ethiopia, Jamaica, Dominican Republic, Papua New Guinea, Sudan, Venez
 | Laos part — Part I Lesson 5: Atmosphere and climate | Laos, *Laos Grade 10 laos-g10-geography-teacher*, Part I Lesson 5: Atmosphere and climate — printed p. 56 (teacher-guide evidence) |
 | Laos part — Part I Lesson 5: Atmosphere and climate | Laos, *Laos Grade 10 laos-g10-geography-student*, Part I Lesson 5: Atmosphere and climate — printed p. 43 |
 | Iraq part — Part 1 Ch. 1: The factors affecting the Arab world's climate, including the vegetation cover's softening of temperatures | Iraq, *Iraq Grade 8 Social Studies*, Part 1 Ch. 1: The factors affecting the Arab world's climate, including the vegetation cover's softening of temperatures — printed p. 20 |
+| Bhutan part — 2.2 Factors affecting climate | Bhutan, *Bhutan Grade 6 Social Studies*, 2.2 Factors affecting climate — printed p. 8 |
+| Bhutan part — Ch.7 7.2 Factors affecting climate | Bhutan, *Bhutan Grade 8 Geography*, Ch.7 7.2 Factors affecting climate — printed p. 45 |
+| Bhutan part — Ch.5 5.2 The Factors Affecting Climate | Bhutan, *Bhutan Grade 10 Geography*, Ch.5 5.2 The Factors Affecting Climate — printed p. 32 |
 
 | Sub lesson 4 — Latitude and the Earth–Sun geometry (Grade 11 depth) (Grade 11 depth) | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 2, printed pp. 45–46 |
 | Sub lesson 5 — Water, winds and pressure (Grade 11 depth) (Grade 11 depth) | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 2, printed pp. 47–50 |
@@ -72,7 +81,7 @@ countries: Ethiopia, Jamaica, Dominican Republic, Papua New Guinea, Sudan, Venez
 | Teaching sequence and answer keys for the Grade 11 depth (teacher guide — evidence) | Ethiopia, *Geography, Teacher Guide, Grade 11*, guide printed pp. 40–63 |
 | Dominican Republic part (Grade 5) — Climate, its elements and factors (Unidad 2: Variación climática de los continentes) | Dominican Republic, *Ciencias Sociales, Quinto Grado, Primaria (Libro Abierto)*, Grade 5, Climate, its elements and factors (Unidad 2: Variación climática de los continentes) — printed p. 26 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Dominican Republic, Sudan, Venezuela, Mauritania, Afghanistan, Pakistan, Nepal, Mozambique, Laos, Iraq). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 12 countries (Ethiopia, Dominican Republic, Sudan, Venezuela, Mauritania, Afghanistan, Pakistan, Nepal, Mozambique, Laos, Iraq, Bhutan). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grade 6 Exploratory Core, curriculum guide — evidence): the Grade 6 Social Studies year is built as three paired terms — culture and independence first, then the physical world (mountains, landmasses and water bodies), then climate, Earth movements and the atmosphere, closing on Caribbean cooperation. That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
@@ -113,3 +122,9 @@ Laos's own way (Laos Grade 10 laos-g10-geography-teacher): a second world-geogra
 Laos's own way (Laos Grade 10 laos-g10-geography-student): the student twin of Book 6 — same 6 parts / 20 lessons with full illustrated text, opening with a concept map of the whole year (Earth, life zones, population and quality of life, humans and environment, organisation of geographic space, rural and urban geography).
 
 Iraq's own way (Iraq Grade 8 Social Studies): the intermediate sequence widens ring by ring — after Iraq itself (G5–G6) and the ancient world (G7), Grade 8 gives the whole Arab world as one geographical unit (its position between two continents, relief, climates, waters, people and economy), worked constantly off outline maps of the Arab world; the history of the Arab world follows as Part 2.
+
+Bhutan's own way (Bhutan Grade 6 Social Studies): Grade 6 turns to Bhutan's own climate zones, population and signature environment topics — hydropower, urbanisation and glacial lake outburst floods (GLOF) — a hazard set specific to a Himalayan kingdom.
+
+Bhutan's own way (Bhutan Grade 8 Geography): Class VIII deepens the same three strands with real map-work (scale conversion, grid references, contours and profiles) and Bhutan-specific hazard and resource content, including the Rubesa wind turbine and hydroelectric dams as national resource examples.
+
+Bhutan's own way (Bhutan Grade 10 Geography): Class X pairs deep physical theory (Big Bang, plate tectonics, the making of the Himalayas) with an applied Bhutan block — climate and vegetation zones of Bhutan, Bhutanese agriculture's challenges and advancement, industries and their distribution, and a Bhutan disaster chapter that adds Education in Emergency.

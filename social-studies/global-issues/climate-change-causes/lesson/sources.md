@@ -1,6 +1,6 @@
 # Sources — Climate Change — Causes
 
-countries: Ethiopia, Jamaica, Samoa, Fiji, Papua New Guinea, Nepal, Jordan, Nicaragua
+countries: Ethiopia, Jamaica, Samoa, Fiji, Papua New Guinea, Nepal, Jordan, Nicaragua, Bhutan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (placement 141).
 
@@ -38,6 +38,8 @@ countries: Ethiopia, Jamaica, Samoa, Fiji, Papua New Guinea, Nepal, Jordan, Nica
 
 **Book 18:** *Ciencias Sociales 10 Grado, Educación Secundaria (PROSEN)* (student book, Spanish) — Ministerio de Educación (MINED), Nicaragua, with PROSEN / European Union support; year not printed (Primera Edición); ISBN no ISBN printed. Title as printed: Ciencias Sociales 10 Grado, Educación Secundaria (PROSEN). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 300 (cover/title page verified against the record title; byte size 106,780,055 matches the books.json record and the MINED source file). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nicaragua-placements.md.
 
+**Book 19:** *ADVANCED GEOGRAPHY CLASS XI* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Thimphu; year Provisional Edition 2022, Copyright 2023, Reprint 2024; ISBN no ISBN printed. Title as printed: ADVANCED GEOGRAPHY CLASS XI. Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 182 (cover/title page verified against the record title; byte size 19,627,789 and page count match the books.json record exactly — read via the record's ministry source URL; this book is also the TSV release record grade-11-gov-bhutan-geography-full-year.pdf, same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The chapter's three issues: climate change, shrinking water supply, shrinking forests | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 7, printed pp. 182–183 |
@@ -59,8 +61,9 @@ countries: Ethiopia, Jamaica, Samoa, Fiji, Papua New Guinea, Nepal, Jordan, Nica
 | Nicaragua part — Cambio climático en América del Norte, Centroamérica, el Caribe, América del Sur y Nicaragua | Nicaragua, *Nicaragua Grade 8 CCSS Módulo Autoformativo G8*, Cambio climático en América del Norte, Centroamérica, el Caribe, América del Sur y Nicaragua — printed p. 68 |
 | Nicaragua part — Cambio climático | Nicaragua, *Nicaragua Grade 9 CCSS Geografía Módulo G9*, Cambio climático — printed p. 100 |
 | Nicaragua part — El cambio climático en nuestro país y medidas gubernamentales | Nicaragua, *Nicaragua Grade 10 Ciencias Sociales G10 full-year*, El cambio climático en nuestro país y medidas gubernamentales — printed p. 75 |
+| Bhutan part — Ch.9 9.2 Causes of climate change | Bhutan, *Bhutan Grade 11 Geography*, Ch.9 9.2 Causes of climate change — printed p. 105 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Samoa, Fiji, Nepal, Jordan, Nicaragua). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 7 countries (Ethiopia, Samoa, Fiji, Nepal, Jordan, Nicaragua, Bhutan). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grades 7–9 Social Studies, curriculum guide — evidence): one guide carries all three secondary grades, each year mixing Civics, heritage and a strong resources-and-environment Geography spine — natural and human resources, movements of the Earth, Caribbean hazards, climate change, green technology and tourism — taught through Jamaican case material (bauxite communities, Caribbean disasters). That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
@@ -99,3 +102,5 @@ Nicaragua's own way (Nicaragua Grade 8 CCSS Módulo Autoformativo G8): The dista
 Nicaragua's own way (Nicaragua Grade 9 CCSS Geografía Módulo G9): A pure-Geography self-study module (no History/Civics in this book): the Grade 9 world-Geography course taught continent by continent — position and political organisation, physical landscape, human diversity, production and consumption, and a closing planet-care unit on prevention and mitigation — with Nicaragua used as the home reference point throughout.
 
 Nicaragua's own way (Nicaragua Grade 10 Ciencias Sociales G10 full-year): The full-year companion to the Grade 10 Geography module (Book 1): Units I–VI repeat and deepen the same national Geography (cartography, relief and geological provinces, climate and watersheds, population, economic sectors, territorial vulnerability and SINAPRED) in classroom form, and the book's second half is a full Economics course. Non-Geography parts named, not placed: Unit IV government anti-poverty programmes (printed p. 106, Civics/social policy); Units VII–XII Economics (printed pp. 156–285): utility of economics and socio-economic formations, what the country produces, price as market regulator, commercial exchange and the banking system, state economic policy, and integration in the face of globalisation.
+
+Bhutan's own way (Bhutan Grade 11 Geography): The Advanced level (XI–XII) is full academic geography — map projections, remote sensing and GIS, insolation and pressure belts, climate classification — with Bhutan applied chapters on agriculture, manufacturing and tourism, the last taught on Bhutan's own sustainability principle ("high value, low volume" in the Bhutan Tourism Monitor data the book uses).

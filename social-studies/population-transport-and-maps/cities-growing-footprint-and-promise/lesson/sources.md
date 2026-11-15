@@ -1,6 +1,6 @@
 # Sources — Cities growing — footprint and promise
 
-countries: Ethiopia, Turkey, Bangladesh, Turkmenistan, North Macedonia, Cambodia, Fiji, Slovenia, Papua New Guinea, Uganda, Syria, Venezuela, Sri Lanka, Mauritania, Iran, Moldova, Nepal, Mozambique, Laos, Iraq, Nicaragua
+countries: Ethiopia, Turkey, Bangladesh, Turkmenistan, North Macedonia, Cambodia, Fiji, Slovenia, Papua New Guinea, Uganda, Syria, Venezuela, Sri Lanka, Mauritania, Iran, Moldova, Nepal, Mozambique, Laos, Iraq, Nicaragua, Bhutan
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). Editors: Sintayehu Teka (MSc) (Content Editor), Kassie Molla (MA) (Language Editor), Hirut Woldemichael (MA) (Curriculum Editor). Illustrator: Agenchw Nega (MSc). Designer: Geda Hoka (MA). Evaluators: Dereje Guteta (PhD), Tesfaye Shiferaw (PhD), Abebe Yibeltie (MA), Hussein Seid (MA). First published 2023 under GEQIP-E. ISBN 978-99990-0-049-9. Printed by Gravity Group IND LLC, 13th Industrial Area, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. Printed page = PDF page − 6 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md
 
@@ -72,6 +72,10 @@ countries: Ethiopia, Turkey, Bangladesh, Turkmenistan, North Macedonia, Cambodia
 
 **Book 35:** *Estudios Sociales, Primaria Regular, 5to Grado* (student book, Spanish) — Ministerio de Educación (MINED), Nicaragua; year 2020 (Edición 2020); ISBN no ISBN printed. Title as printed: Estudios Sociales, Primaria Regular, 5to Grado. Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 164 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nicaragua-placements.md.
 
+**Book 36:** *SOCIAL STUDIES CLASS VI* (student book, English) — Center for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; year Provisional Edition 2021, Revised 2025; ISBN no ISBN printed. Title as printed: SOCIAL STUDIES CLASS VI. Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 68 (cover/title page verified against the record title; byte size 1,628,115 and page count match the books.json record exactly — read via the record's ministry source URL after the grab.py tree route hung over 5 minutes on this book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
+**Book 37:** *ADVANCED GEOGRAPHY CLASS XI* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Thimphu; year Provisional Edition 2022, Copyright 2023, Reprint 2024; ISBN no ISBN printed. Title as printed: ADVANCED GEOGRAPHY CLASS XI. Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 182 (cover/title page verified against the record title; byte size 19,627,789 and page count match the books.json record exactly — read via the record's ministry source URL; this book is also the TSV release record grade-11-gov-bhutan-geography-full-year.pdf, same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What urbanisation is | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 7, printed pp. 161–163 |
@@ -111,8 +115,10 @@ countries: Ethiopia, Turkey, Bangladesh, Turkmenistan, North Macedonia, Cambodia
 | Laos part — Part I Lesson 7: The expansion of cities in the world | Laos, *Laos Grade 11 laos-g11-geography-student*, Part I Lesson 7: The expansion of cities in the world — printed p. 50 |
 | Iraq part — Ch. 5: Urban geography — classifying cities by their sizes and functions | Iraq, *Iraq Grade 10 Geography*, Ch. 5: Urban geography — classifying cities by their sizes and functions — printed p. 128 |
 | Nicaragua part — Ciudades más pobladas de Centroamérica | Nicaragua, *Nicaragua Grade 5 Estudios Sociales G5*, Ciudades más pobladas de Centroamérica — printed p. 60 |
+| Bhutan part — 7.2 Urbanization | Bhutan, *Bhutan Grade 6 Social Studies*, 7.2 Urbanization — printed p. 39 |
+| Bhutan part — Ch.13 13.3 Causes of Urbanisation | Bhutan, *Bhutan Grade 11 Geography*, Ch.13 13.3 Causes of Urbanisation — printed p. 152 |
 
-**Acceptance count: taught in 20 countries (Ethiopia, Turkey, Bangladesh, Turkmenistan, North Macedonia, Cambodia, Fiji, Slovenia, Uganda, Syria, Venezuela, Sri Lanka, Mauritania, Iran, Moldova, Nepal, Mozambique, Laos, Iraq, Nicaragua). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 21 countries (Ethiopia, Turkey, Bangladesh, Turkmenistan, North Macedonia, Cambodia, Fiji, Slovenia, Uganda, Syria, Venezuela, Sri Lanka, Mauritania, Iran, Moldova, Nepal, Mozambique, Laos, Iraq, Nicaragua, Bhutan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
@@ -183,3 +189,7 @@ Laos's own way (Laos Grade 11 laos-g11-geography-student): the student twin of B
 Iraq's own way (Iraq Grade 10 Geography): the literary track opens geography as a discipline in its own right — its thought from the Sumerians to GIS, how a geographer researches, where geographical data come from and how they are drawn, and only then the fields of the science; Iraq supplies the worked examples throughout (Baghdad research problem, Iraqi topographic maps, Iraq's gas time series, the Baghdad–Basra distance exercise).
 
 Nicaragua's own way (Nicaragua Grade 5 Estudios Sociales G5): The scale widens from Nicaragua to the whole Central American isthmus: Units I–IV give the planet and map skills, then Central America's position, relief, climate, hydrography, resources, population and economies, with Nicaragua's place in the isthmus as an explicit topic; the second half is Central American History. Non-Geography parts named, not placed: Unit V first settlers, Maya and Aztec history (printed pp. 70–90, History, except the two topics placed below); Unit VI European presence (printed pp. 92–111, History); Unit VII independence process (printed pp. 114–140, History); Unit VIII Central America in the 20th century (printed pp. 142–154, History).
+
+Bhutan's own way (Bhutan Grade 6 Social Studies): Grade 6 turns to Bhutan's own climate zones, population and signature environment topics — hydropower, urbanisation and glacial lake outburst floods (GLOF) — a hazard set specific to a Himalayan kingdom.
+
+Bhutan's own way (Bhutan Grade 11 Geography): The Advanced level (XI–XII) is full academic geography — map projections, remote sensing and GIS, insolation and pressure belts, climate classification — with Bhutan applied chapters on agriculture, manufacturing and tourism, the last taught on Bhutan's own sustainability principle ("high value, low volume" in the Bhutan Tourism Monitor data the book uses).

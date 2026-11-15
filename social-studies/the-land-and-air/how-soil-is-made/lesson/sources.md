@@ -1,6 +1,6 @@
 # Sources — How soil is made
 
-countries: Ethiopia, Angola, India, Fiji, Slovenia, Papua New Guinea, Syria, Mauritania, Yemen, Moldova, Mozambique, Jordan, Iraq, Nicaragua
+countries: Ethiopia, Angola, India, Fiji, Slovenia, Papua New Guinea, Syria, Mauritania, Yemen, Moldova, Mozambique, Jordan, Iraq, Nicaragua, Bhutan
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -58,6 +58,12 @@ countries: Ethiopia, Angola, India, Fiji, Slovenia, Papua New Guinea, Syria, Mau
 
 **Book 28:** *Ciencias Sociales 10 Grado, Educación Secundaria (PROSEN)* (student book, Spanish) — Ministerio de Educación (MINED), Nicaragua, with PROSEN / European Union support; year not printed (Primera Edición); ISBN no ISBN printed. Title as printed: Ciencias Sociales 10 Grado, Educación Secundaria (PROSEN). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 300 (cover/title page verified against the record title; byte size 106,780,055 matches the books.json record and the MINED source file). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nicaragua-placements.md.
 
+**Book 29:** *An Introduction to GEOGRAPHY Class VIII* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Royal Government of Bhutan, Thimphu; year Provisional Edition 2019, Copyright 2023, Reprint 2024; ISBN no ISBN printed. Title as printed: An Introduction to GEOGRAPHY Class VIII. Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 120 (cover/title page verified against the record title; byte size 9,992,518 and page count match the books.json record exactly — read via the record's ministry source URL). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
+**Book 30:** *INTERMEDIATE GEOGRAPHY CLASS IX* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu (title page; developed with the Royal Education Council, Paro); year Reprint 2024 (page footers); ISBN no ISBN printed (no imprint page in the PDF). Title as printed: INTERMEDIATE GEOGRAPHY CLASS IX. Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 123 (cover/title page verified against the record title; byte size 10,807,956 and page count match the books.json record exactly — read via the record's ministry source URL). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
+**Book 31:** *ADVANCED GEOGRAPHY CLASS XII* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Thimphu; year Provisional Edition 2023, Copyright 2023, Reprint 2024; ISBN no ISBN printed. Title as printed: ADVANCED GEOGRAPHY CLASS XII. Grade: Grade 12 (student/teacher: STUDENT). PDF pages: 144 (title page verified against the record title — PDF p.3, after a royal-message frontispiece; byte size 4,875,259 and page count match the books.json record exactly — read via the record's ministry source URL). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The five factors | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 3, printed pp. 69–70 |
@@ -90,8 +96,11 @@ countries: Ethiopia, Angola, India, Fiji, Slovenia, Papua New Guinea, Syria, Mau
 | Nicaragua part — Tipos de suelos y composición (arenosos, arcillosos, limosos, orgánicos) | Nicaragua, *Nicaragua Grade 7 CCSS Módulo Autoformativo G7*, Tipos de suelos y composición (arenosos, arcillosos, limosos, orgánicos) — printed p. 38 |
 | Nicaragua part — Los suelos de América | Nicaragua, *Nicaragua Grade 8 Estudios Sociales G8 full-year*, Los suelos de América — printed p. 49 |
 | Nicaragua part — Los tipos de suelos según el relieve | Nicaragua, *Nicaragua Grade 10 Ciencias Sociales G10 full-year*, Los tipos de suelos según el relieve — printed p. 59 |
+| Bhutan part — Ch.8 8.3 Factors affecting soil formation | Bhutan, *Bhutan Grade 8 Geography*, Ch.8 8.3 Factors affecting soil formation — printed p. 52 |
+| Bhutan part — Ch.5 5.2 Factors affecting soil formation | Bhutan, *Bhutan Grade 9 Geography*, Ch.5 5.2 Factors affecting soil formation — printed p. 33 |
+| Bhutan part — Ch.5 5.2 Factors affecting soil formation | Bhutan, *Bhutan Grade 12 Geography*, Ch.5 5.2 Factors affecting soil formation — printed p. 49 |
 
-**Acceptance count: taught in 13 countries (Ethiopia, Angola, India, Fiji, Slovenia, Syria, Mauritania, Yemen, Moldova, Mozambique, Jordan, Iraq, Nicaragua). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 14 countries (Ethiopia, Angola, India, Fiji, Slovenia, Syria, Mauritania, Yemen, Moldova, Mozambique, Jordan, Iraq, Nicaragua, Bhutan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Extension (Wave 4 Band D): the Grade 10 book's soil definition and functions (printed pp. 66–67) were stacked under this lesson per the build brief; the Grade 10 types survey stands as its own lesson, "Five African soils".
 
@@ -144,3 +153,9 @@ Nicaragua's own way (Nicaragua Grade 7 CCSS Módulo Autoformativo G7): The dista
 Nicaragua's own way (Nicaragua Grade 8 Estudios Sociales G8 full-year): Grade 8 widens the lens to the whole American continent: five Geography units on America's territorial patrimony, physical landscape, ethnic-cultural diversity, space-and-economy and environmental protection (closing with Nicaragua's own SINAPRED disaster system), then five History units. Non-Geography parts named, not placed: Unit VI American origins (printed pp. 125–138, History); Unit VII arrival of the Europeans and colonial domination (printed pp. 145–165, History); Unit VIII emancipation processes (printed pp. 167–184, History); Unit IX changes in Latin American society (printed pp. 185–194, History); Unit X America in the 20th century (printed pp. 197–222, History).
 
 Nicaragua's own way (Nicaragua Grade 10 Ciencias Sociales G10 full-year): The full-year companion to the Grade 10 Geography module (Book 1): Units I–VI repeat and deepen the same national Geography (cartography, relief and geological provinces, climate and watersheds, population, economic sectors, territorial vulnerability and SINAPRED) in classroom form, and the book's second half is a full Economics course. Non-Geography parts named, not placed: Unit IV government anti-poverty programmes (printed p. 106, Civics/social policy); Units VII–XII Economics (printed pp. 156–285): utility of economics and socio-economic formations, what the country produces, price as market regulator, commercial exchange and the banking system, state economic policy, and integration in the face of globalisation.
+
+Bhutan's own way (Bhutan Grade 8 Geography): Class VIII deepens the same three strands with real map-work (scale conversion, grid references, contours and profiles) and Bhutan-specific hazard and resource content, including the Rubesa wind turbine and hydroelectric dams as national resource examples.
+
+Bhutan's own way (Bhutan Grade 9 Geography): The Intermediate level (IX–X) treats each world topic at full textbook depth and keeps the Bhutan case inside it — Soils of Bhutan, agro-ecological zones and farming practices of Bhutan, and common disasters in Bhutan (including GLOF) alongside the world disaster survey.
+
+Bhutan's own way (Bhutan Grade 12 Geography): Class XII closes the Advanced course with specialist topics (surveying, geospatial technologies, glaciers and the "Third Pole", Köppen in full, fluvial processes, Davis's cycle of erosion) and Bhutan data chapters — fertility and mortality trends in Bhutan, migration trends, hydropower in Bhutan, and creative industries including Bhutanese film.

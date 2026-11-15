@@ -1,6 +1,6 @@
 # Sources — Holding the soil — conservation toolkit
 
-countries: Ethiopia, Angola, Eritrea, India, Sri Lanka, Mozambique
+countries: Ethiopia, Angola, Eritrea, India, Sri Lanka, Mozambique, Bhutan
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -18,6 +18,10 @@ countries: Ethiopia, Angola, Eritrea, India, Sri Lanka, Mozambique
 
 **Book 8:** *Módulo 4 de Geografia — Pedogeografia e Hidrogeografia* (student book, Portuguese) — Ministério da Educação / IEDA; year not printed (uploaded to IEDA site 2022); no ISBN printed. Title as printed: Módulo 4 de Geografia — Pedogeografia e Hidrogeografia. Grade: Grades 10–12 cycle (2º Ciclo), filed as Grade 10 (student/teacher: STUDENT). PDF pages: 92 (title page verified against the record title; byte size 1,351,167 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE (the book mis-numbers its lessons: two different lessons are both headed "Lição 6" — Importância dos Solos at printed p. 28 and Conceito de Hidrogeografia at printed p. 36; there is no Lição 5 heading). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
 
+**Book 9:** *INTERMEDIATE GEOGRAPHY CLASS IX* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu (title page; developed with the Royal Education Council, Paro); year Reprint 2024 (page footers); ISBN no ISBN printed (no imprint page in the PDF). Title as printed: INTERMEDIATE GEOGRAPHY CLASS IX. Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 123 (cover/title page verified against the record title; byte size 10,807,956 and page count match the books.json record exactly — read via the record's ministry source URL). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
+**Book 10:** *ADVANCED GEOGRAPHY CLASS XII* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Thimphu; year Provisional Edition 2023, Copyright 2023, Reprint 2024; ISBN no ISBN printed. Title as printed: ADVANCED GEOGRAPHY CLASS XII. Grade: Grade 12 (student/teacher: STUDENT). PDF pages: 144 (title page verified against the record title — PDF p.3, after a royal-message frontispiece; byte size 4,875,259 and page count match the books.json record exactly — read via the record's ministry source URL). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Biological measures | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 7, printed pp. 182–185 |
@@ -29,8 +33,10 @@ countries: Ethiopia, Angola, Eritrea, India, Sri Lanka, Mozambique
 | Sri Lanka part — Ch. 3 Good maintenance of the home surroundings: proper land use — cover crops, stone ledges, drains, compost pit; improper land use and its effects (erosion, floods, landslides, drought) | Sri Lanka, *Sri Lanka Grade 6 G6 English*, Ch. 3 Good maintenance of the home surroundings: proper land use — cover crops, stone ledges, drains, compost pit; improper land use and its effects (erosion, floods, landslides, drought) — printed p. 38 |
 | Sri Lanka part — Ch. 4.1.1 நிலம் (Land): caring for the land near home; Ch. 4 வீட்டுக்கு அருகில் உள்ள சூழலின் பேணுகை (Care of the environment near the home) | Sri Lanka, *Sri Lanka Grade 6 G6 Tamil 2007*, Ch. 4.1.1 நிலம் (Land): caring for the land near home; Ch. 4 வீட்டுக்கு அருகில் உள்ள சூழலின் பேணுகை (Care of the environment near the home) — printed p. 36 |
 | Mozambique part — Lição 5 (headed "Lição 6" in the book): Importância dos Solos (soil destruction in days vs centuries to form; rational land use) | Mozambique, *Mozambique Grade 10 PESD II Mod 4*, Lição 5 (headed "Lição 6" in the book): Importância dos Solos (soil destruction in days vs centuries to form; rational land use) — printed p. 28 |
+| Bhutan part — Ch.5 5.6 Soil conservation | Bhutan, *Bhutan Grade 9 Geography*, Ch.5 5.6 Soil conservation — printed p. 42 |
+| Bhutan part — Ch.5 5.5 Soil conservation | Bhutan, *Bhutan Grade 12 Geography*, Ch.5 5.5 Soil conservation — printed p. 53 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Angola, Eritrea, India, Sri Lanka, Mozambique).**
+**Acceptance count: taught in 7 countries (Ethiopia, Angola, Eritrea, India, Sri Lanka, Mozambique, Bhutan).**
 
 Searchable tags: soil conservation, afforestation, reforestation, terracing, contour ploughing, area closure, social studies
 
@@ -45,3 +51,7 @@ Sri Lanka's own way (Sri Lanka Grade 6 G6 English): geography starts from the ch
 Sri Lanka's own way (Sri Lanka Grade 6 G6 Tamil 2007): dialogue-driven lessons (teacher–pupil conversations) that open with Sri Lanka's location and a comparison with the world's other islands, then work through the home and its surroundings, caring for that environment, and finish with map-making and scale.
 
 Mozambique's own way (Mozambique Grade 10 PESD II Mod 4): two half-courses bound together — pedogeography (soil composition, profile, properties, pedogenesis, Dokuchaev classification, soil conservation with terrace/sucalco practice) then hydrogeography (basins and river regimes, groundwater, water balance, lakes, oceans, tides and currents).
+
+Bhutan's own way (Bhutan Grade 9 Geography): The Intermediate level (IX–X) treats each world topic at full textbook depth and keeps the Bhutan case inside it — Soils of Bhutan, agro-ecological zones and farming practices of Bhutan, and common disasters in Bhutan (including GLOF) alongside the world disaster survey.
+
+Bhutan's own way (Bhutan Grade 12 Geography): Class XII closes the Advanced course with specialist topics (surveying, geospatial technologies, glaciers and the "Third Pole", Köppen in full, fluvial processes, Davis's cycle of erosion) and Bhutan data chapters — fertility and mortality trends in Bhutan, migration trends, hydropower in Bhutan, and creative industries including Bhutanese film.

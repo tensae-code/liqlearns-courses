@@ -1,6 +1,6 @@
 # Sources — Topographic maps — flat pictures of uneven land
 
-countries: Ethiopia, Samoa, Malaysia, Sri Lanka, Jordan
+countries: Ethiopia, Samoa, Malaysia, Sri Lanka, Jordan, Bhutan
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -24,6 +24,10 @@ countries: Ethiopia, Samoa, Malaysia, Sri Lanka, Jordan
 
 **Book 11:** *علوم الأرض والبيئة — الصف الثاني عشر — المسار الأكاديمي — كتاب الأنشطة والتجارب العملية — الفصل الدراسي الأول (Earth Science and Environment, Grade 12 Academic Track, Activities Book, Term 1)* (activities and practical experiments book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; ISBN 978-9923-41-808-6. Title as printed: علوم الأرض والبيئة — الصف الثاني عشر — المسار الأكاديمي — كتاب الأنشطة والتجارب العملية — الفصل الدراسي الأول (Earth Science and Environment, Grade 12 Academic Track, Activities Book, Term 1). Grade: 12 (student/teacher: STUDENT). PDF pages: 70 (cover verified. READ ROUTE NOTE: the books.json record claims in_pushed but grab.py tree returned HTTP 404 on two attempts; read from the record's recorded source minhaji.net/download/10385, 5,952,227 bytes, exactly the record's size_bytes. A second record for the same workbook (term-1-workbook.pdf, minhaji file 103258) is being read separately as Book 22 — the two files differ in size, so both are filed. Staged into phase3-staging under the push-don't-delete rule — see group log.). Verdict: COMPLETE. Parallel edition: minhaji file 103258 (Book 22 in the placements file) is the 68-page final-print copy of this same workbook (this file, minhaji 10385, is the 70-page preparation copy); contents verified identical unit by unit and placed once, under this book. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
 
+**Book 12:** *INTERMEDIATE GEOGRAPHY CLASS IX* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu (title page; developed with the Royal Education Council, Paro); year Reprint 2024 (page footers); ISBN no ISBN printed (no imprint page in the PDF). Title as printed: INTERMEDIATE GEOGRAPHY CLASS IX. Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 123 (cover/title page verified against the record title; byte size 10,807,956 and page count match the books.json record exactly — read via the record's ministry source URL). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
+**Book 13:** *INTERMEDIATE GEOGRAPHY CLASS X* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu (title page; developed with the Royal Education Council, Paro); year Reprint 2024 (page footers); ISBN no ISBN printed (no imprint page in the PDF). Title as printed: INTERMEDIATE GEOGRAPHY CLASS X. Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 124 (cover/title page verified against the record title; byte size 12,820,771 and page count match the books.json record exactly — read via the record's ministry source URL; this book is also the TSV release record grade-10-gov-bhutan-geography-full-year.pdf, same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Relief and landforms | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 8, printed pp. 217–218 |
@@ -39,8 +43,10 @@ countries: Ethiopia, Samoa, Malaysia, Sri Lanka, Jordan
 | Sri Lanka part — Unit 10.12: the 1:50,000 sheet index of Sri Lanka and Activities 10.12.1–10.12.4 (teacher guide — evidence) (placement slug: population-transport-and-maps/reading-150000-topographic-maps — the lesson stands under this title, stocked here) | Sri Lanka, *Sri Lanka G10 Tamil TG* (teacher guide), Unit 10.12: the 1:50,000 sheet index of Sri Lanka and Activities 10.12.1–10.12.4 — printed p. 316 |
 | Sri Lanka part — Chapter 22 Map interpretation: a Sri Lanka topographic sheet read feature by feature, with grid references (placement slug: population-transport-and-maps/reading-150000-topographic-maps — the lesson stands under this title, stocked here) | Sri Lanka, *Sri Lanka G12 Tamil SB Part I*, Chapter 22 Map interpretation: a Sri Lanka topographic sheet read feature by feature, with grid references — printed p. 199 |
 | Jordan part — Unit 4 Geological Exploration: drawing a topographic cross-section | Jordan, *Jordan G12 ES T1 Workbook (10385)*, Unit 4 Geological Exploration: drawing a topographic cross-section — printed p. 50 |
+| Bhutan part — Ch.4 4.3 Topographical Map | Bhutan, *Bhutan Grade 9 Geography*, Ch.4 4.3 Topographical Map — printed p. 26 |
+| Bhutan part — Ch.4 4.2 Layout and Numbering of Topographic Map | Bhutan, *Bhutan Grade 10 Geography*, Ch.4 4.2 Layout and Numbering of Topographic Map — printed p. 22 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Samoa, Malaysia, Sri Lanka, Jordan).**
+**Acceptance count: taught in 6 countries (Ethiopia, Samoa, Malaysia, Sri Lanka, Jordan, Bhutan).**
 
 No book error is flagged for this lesson's pages in the placements. The student book's body numbering for Unit Two drifts from its own contents (regions printed as 2.4, factors as 2.5, local classification as 2.6, where the contents and the teacher guide's contents agree on 2.3, 2.4 and 2.5); this lesson follows the contents numbering and teaches no misprint.
 
@@ -63,3 +69,7 @@ Sri Lanka's own way (Sri Lanka G10 Tamil TG) (teacher guide — evidence): a 90-
 Sri Lanka's own way (Sri Lanka G12 Tamil SB Part I): the old A/L course opens with a full astronomy block (universe, solar system, origin theories, telescopes, the space age) before turning to the Earth, then teaches geography as man-and-environment study in the Brunhes / Vidal de la Blache tradition (the bibliography names them), and closes with map interpretation on a Sri Lanka topographic sheet.
 
 Jordan's own way (Jordan G12 ES T1 Workbook (10385)): the activities book opens the final year with the greenhouse effect modelled on the bench and acid rain simulated, then structures, plate tectonics through the Dead Sea transform, and geological exploration with Jordan-flavoured map work.
+
+Bhutan's own way (Bhutan Grade 9 Geography): The Intermediate level (IX–X) treats each world topic at full textbook depth and keeps the Bhutan case inside it — Soils of Bhutan, agro-ecological zones and farming practices of Bhutan, and common disasters in Bhutan (including GLOF) alongside the world disaster survey.
+
+Bhutan's own way (Bhutan Grade 10 Geography): Class X pairs deep physical theory (Big Bang, plate tectonics, the making of the Himalayas) with an applied Bhutan block — climate and vegetation zones of Bhutan, Bhutanese agriculture's challenges and advancement, industries and their distribution, and a Bhutan disaster chapter that adds Education in Emergency.

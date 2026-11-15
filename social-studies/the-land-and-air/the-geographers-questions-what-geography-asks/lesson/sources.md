@@ -1,6 +1,6 @@
 # Sources — The geographer's questions — what geography asks
 
-countries: Ethiopia, Haiti, Venezuela, Honduras, Mozambique
+countries: Ethiopia, Haiti, Venezuela, Honduras, Mozambique, Bhutan
 
 **Book 1:** *Geography, Teacher Guide, Grade 11* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, Hawassa University. Writers: Ermias Debie (PhD) and Mehretie Belay (PhD); Content Editor: Professor Aklilu Dalelo. ISBN 978-99990-0-054-3. Companion to the Grade 11 Student Textbook (ISBN 978-99990-0-050-5), same GEQIP-E programme. Printed page = PDF page − 4 for the guide body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-teacher-placements.md
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Haiti, Venezuela, Honduras, Mozambique
 
 **Book 10:** *Módulo 1 de Geografia — Introdução ao Pensamento Geográfico e Cosmografia* (student book, Portuguese) — Ministério da Educação / Instituto de Educação Aberta e à Distância (IEDA); year not printed (uploaded to IEDA site 2022); no ISBN printed. Title as printed: Módulo 1 de Geografia — Introdução ao Pensamento Geográfico e Cosmografia. Grade: Grades 10–12 cycle (2º Ciclo), filed as Grade 10 (student/teacher: STUDENT). PDF pages: 85 (title page verified against the record title; byte size 904,542 matches the books.json record exactly; read via the record's IEDA source URL — grab.py GitHub routes unreachable, see Book 1 note). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mozambique-placements.md.
 
+**Book 11:** *AN INTRODUCTION TO GEOGRAPHY CLASS VII* (student book, English) — Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Royal Government of Bhutan, Thimphu; year Provisional edition 2018, Copyright 2023, Reprint 2024; ISBN 975-99936-0-455-8 (as printed). Title as printed: AN INTRODUCTION TO GEOGRAPHY CLASS VII. Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 86 (cover/title page verified against the record title; byte size 5,663,043 and page count match the books.json record exactly — read via the record's ministry source URL after the grab.py route proved unreliable for this group). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What geography is (teacher guide — evidence) (teacher guide — evidence) | Ethiopia, *Geography, Teacher Guide, Grade 11*, Unit 1, printed pp. 1–3 |
@@ -36,8 +38,9 @@ countries: Ethiopia, Haiti, Venezuela, Honduras, Mozambique
 | Honduras part — Lección 10: La geografía y su aplicación — geography and its application | Honduras, *Honduras Grade 9 Student Book*, Lección 10: La geografía y su aplicación — geography and its application — printed p. 64 |
 | Honduras part — Lección 10: La geografía y su aplicación — geography and its application (teacher guide — evidence) | Honduras, *Honduras Grade 9 Teacher Guide* (teacher guide), Lección 10: La geografía y su aplicación — geography and its application — printed p. 43 |
 | Mozambique part — Lição 1: the great divisions of Geography | Mozambique, *Mozambique Grade 10 PESD II Mod 1*, Lição 1: the great divisions of Geography — printed p. 7 |
+| Bhutan part — Ch.1 1.2 Why Learn Geography | Bhutan, *Bhutan Grade 7 Geography*, Ch.1 1.2 Why Learn Geography — printed p. 2 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Venezuela, Honduras, Mozambique) — sub lesson 4 stands on the Grade 12 student textbook; sub lessons 1–3 stand on teacher-guide evidence only, named here, counted nowhere. Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 5 countries (Ethiopia, Venezuela, Honduras, Mozambique, Bhutan) — sub lesson 4 stands on the Grade 12 student textbook; sub lessons 1–3 stand on teacher-guide evidence only, named here, counted nowhere. Haiti is named here as teacher-sequence evidence only, counted nowhere.**
 
 Haiti's own way (teacher sequence — evidence): Geography begins as a daily practice, not a chapter: pupils draw the landscape around their school, the plan of their quarter and Haiti with their school placed on it, read landscape forms and functions from their own croquis, then trace one everyday object (a coffee cup, a phone) from raw material to shop shelf to see the world from the local. That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
@@ -58,3 +61,5 @@ Honduras's own way (Honduras Grade 9 Student Book): widening-circles design — 
 Honduras's own way (Honduras Grade 9 Teacher Guide) (teacher guide — evidence): widening-circles design — the world continent by continent — hazards and geographic defence first (Hurricane Mitch), territory versus population, then geographic tours of Europe, Asia, Africa and Oceania, closing on a warming world; Bloque 4 adds world population, the world and Honduran economies and migration — the teacher guide mirrors the student book lesson-for-lesson (same 38 lessons and blocks) and adds didactics, theory summaries and answer keys; its geography lessons are placed here at the guide's own printed pages. Every lesson runs the same 'Sembrar y cosechar' activity cycle. That evidence is stocked here as the way Honduras teaches this thing; it is cited as evidence only — Honduras is counted in this lesson through its student book(s).
 
 Mozambique's own way (Mozambique Grade 10 PESD II Mod 1): the second cycle opens with the discipline itself — geographic thought, its history from Greek antiquity to the determinist/possibilist schools, then cosmography (celestial sphere, solar system, Earth's shape and revolution) before any regional content.
+
+Bhutan's own way (Bhutan Grade 7 Geography): From Class VII Geography becomes a standalone subject organised in three strands (Time and Space; Physical Environment; People and Environment), every world topic closed with its Bhutan case — climate of Bhutan, vegetation types of Bhutan, minerals of Bhutan, and Bhutan's Himalayan disaster set (earthquake, flood, windstorm, fire, GLOF).
