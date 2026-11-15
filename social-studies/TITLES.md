@@ -103,7 +103,7 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **648**
+Geography lessons across the eight Geography titles: **661**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -201,3 +201,13 @@ daily mobility and holidays, Transport networks — the
 Grand Paris Express and Mobility of tomorrow — a debate;
 The Land and Air: Southern Africa's milieux — the
 Okavango and the mines.
++13 for Myanmar, 2026-11-14 — Earth and Space: Zones of
+the earth, Features of the moon, Solar and lunar
+eclipses and The biosphere and the environment; Culture
+and Work: The arrival of Mongoloid ethnic groups in
+Myanmar and Ethnic groups in Myanmar; Resources and
+Conflict: What environmental geography is; People and
+Resources: Myanmar's neighbouring countries, Bangladesh
+— a neighbour study, India — a neighbour study, China
+— a neighbour study, Laos — a neighbour study and
+Thailand — a neighbour study.

@@ -1059,3 +1059,55 @@ debate (Thème 3); in **The Land and Air**: Southern
 Africa's milieux — the Okavango and the mines (Thème
 4) — the new lessons taught in 1 country (France),
 8 questions each. Geography lessons: 635 → 648.
+
+## Geography expansion — Myanmar — built 2026-11-14
+
+Myanmar — 24 placements stocked from 1 distinct book
+(1 record / 1 distinct book): *Teacher Guide —
+Geography — Grade 6* (teacher guide, English, COMPLETE;
+Government of the Republic of the Union of Myanmar,
+Ministry of Education; Basic Education Curriculum,
+Syllabus and School Textbook Committee; printed Feb
+2019, 2019-2020 academic year; no ISBN printed; 93 PDF
+pp.). All 24 placements are teacher-guide evidence,
+cited as the evidence they are, outside acceptance
+counts. Myanmar's own way: the year is split into five
+parallel strands revisited week by week — physical
+geography, social geography, environmental geography,
+neighbouring countries and cartography — each lesson
+plan built student-centred (Bloom steps, key questions,
+classroom assessment) around Myanmar and its five
+neighbours. Stocked into standing lessons — **Earth
+and Space**: Earth — place, shape and size (§1.1,
+printed p. 13), Revolution and the seasons (§1.2,
+printed p. 15) and The Earth's four spheres (§3.2,
+printed p. 35; §3.3, printed p. 37; §3.6, printed
+p. 46); **Population, Transport and Maps**: Human
+geography — the people side (§2.1, printed p. 23),
+Population — counting and graphing growth (§2.4,
+printed p. 29), Maps and globes — kinds of maps and
+scale (§5.1, printed p. 78) and Maps and globes —
+latitude and longitude (§5.2, printed p. 80); **The
+Land and Air**: The atmosphere — its gases and layers
+(§3.4, printed p. 40) and Drawing a sketch map (§5.3,
+printed p. 82) — every standing lesson keeps its
+acceptance count, Myanmar named as teacher-guide
+evidence only — and 13 new lessons built — in **Earth
+and Space**: Zones of the earth (§1.3, printed p. 17),
+Features of the moon (§1.4, printed p. 20), Solar and
+lunar eclipses (§1.5, printed p. 21) and The biosphere
+and the environment (§3.5, printed p. 45); in **Culture
+and Work**: The arrival of Mongoloid ethnic groups in
+Myanmar (§2.2, printed p. 25) and Ethnic groups in
+Myanmar (§2.3, printed p. 26); in **Resources and
+Conflict**: What environmental geography is (§3.1,
+printed p. 33); in **People and Resources**: Myanmar's
+neighbouring countries (§4.1, printed p. 48),
+Bangladesh — a neighbour study (§4.2, printed p. 53),
+India — a neighbour study (§4.3, printed p. 57),
+China — a neighbour study (§4.4, printed p. 63),
+Laos — a neighbour study (§4.5, printed p. 69) and
+Thailand — a neighbour study (§4.6, printed p. 73) —
+the new lessons all teacher-guide evidence only,
+acceptance count 0 countries, 8 questions each.
+Geography lessons: 648 → 661.
