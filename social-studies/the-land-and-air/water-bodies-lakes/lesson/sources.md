@@ -1,6 +1,6 @@
 # Sources — Water Bodies — Lakes
 
-countries: Ethiopia, Belarus
+countries: Ethiopia, Belarus, Guatemala
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -8,17 +8,22 @@ countries: Ethiopia, Belarus
 
 **Book 3:** *Геаграфія Беларусі. 10 клас (Geography of Belarus, Grade 10)* (student book, Belarusian) — Belarus, Народная асвета (Narodnaya Asveta), Minsk; year 2012; ISBN 978-985-03-1787-2. Title as printed: Геаграфія Беларусі — вучэбны дапаможнік для 10 класа ўстаноў агульнай сярэдняй адукацыі з беларускай мовай навучання, 3-е выданне, перапрацаванае (M. M. Brylevsky, G. S. Smolyakov). Grade 10 (student). 304 PDF pp. (cover/title page verified against the record title; printed book 303 pp., approved by the Ministry of Education of the Republic of Belarus; read via its recorded archive.org source, 15,825,848 bytes — the GitHub grab route was failing with RemoteDisconnected through the proxy). Verdict: COMPLETE — full text layer read (contents, foreword and introduction read in full; all 63 paragraphs in 10 themes accounted for from the book's own contents, printed pp. 5–303, plus the closing glossary). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/belarus-placements.md.
 
+**Book 4:** *Ciencias Sociales y Formación Ciudadana, Cuarto grado* (student book, Spanish) — Guatemala, Ministerio de Educación de Guatemala, elaborated with USAID/Reforma Educativa en el Aula (Juárez y Asociados); author Gloria Amaria Hernández; year impresión 2017; ISBN 978-9929-596-13-9. Title as printed: Ciencias Sociales y Formación Ciudadana — Cuarto grado. Grade: Grade 4 (student). 256 PDF pp. (cover verified against the record title; byte size 25,726,392 and page count 256 match the books.json record exactly — read from the record's own Wayback source URL after grab.py failed with GitHub API RemoteDisconnected; the two TSV release records are the same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/guatemala-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Land on every side | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 7–8 |
 | Sub lesson 2 — The world's great lakes — the first row | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 7–8 |
 | Sub lesson 3 — Your library task — complete the table | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 7–8 |
 | Belarus part — Lakes and reservoirs of Belarus; water resources | Belarus, *Геаграфія Беларусі. 10 клас (Geography of Belarus, Grade 10)*, Grade 10, Theme II §16, printed p. 79 |
+| Guatemala part — Lagos de Centroamérica | Guatemala, *Ciencias Sociales y Formación Ciudadana*, Grade 4, Lagos de Centroamérica (Unit 3) — printed p. 132 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Belarus).**
+**Acceptance count: taught in 3 countries (Ethiopia, Belarus, Guatemala).**
 
 Pairing warning: the Grade 8 teacher guide is an Addis Ababa bureau book and the student book is an Amhara bureau book; they are NOT edition-matched, and the guide in hand is truncated (printed pp. 1–47 only, Units 1–3). Pupil content in this lesson comes from the Amhara student book; anything from the guide is labelled (teacher guide — evidence) and never presented as pupil-taught.
 
 Deliberate blanks kept as tasks: Table 4's rows 2–5 are blank in the book on purpose (its library-completion task). This lesson keeps them as a task and never invents the missing data.
 
-Searchable tags: water bodies   lakes, ethiopia, social studies, the land and air
+Guatemala's own way: one combined Social Studies and Citizenship book per grade, organised in four units that alternate History of Guatemala/Central America with the physical geography of the isthmus — every map carries the note about the unresolved Belize territorial differendum, and Geography is always worked on maps of the seven Central American countries with Guatemala's own Sierra de las Minas, Motagua river and Maya Biosphere as the home examples. That way is stocked here as the way Guatemala teaches this thing.
+
+Searchable tags: water bodies   lakes, ethiopia, social studies, the land and air, Guatemala

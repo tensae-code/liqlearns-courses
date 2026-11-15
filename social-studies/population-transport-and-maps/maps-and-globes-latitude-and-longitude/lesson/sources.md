@@ -1,6 +1,6 @@
 # Sources — Maps and globes — latitude and longitude
 
-countries: Ethiopia, Myanmar, Barbados, Turkey
+countries: Ethiopia, Myanmar, Barbados, Turkey, Guatemala
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 2, placements 27–43).
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Myanmar, Barbados, Turkey
 
 **Book 4:** *Ortaöğretim Coğrafya 9. Sınıf Ders Kitabı* (student book, Turkish) — Turkey, Millî Eğitim Bakanlığı (MEB), Devlet Kitapları; year 2017 (Birinci Baskı); ISBN 978-975-11-4324-2. Title as printed: Ortaöğretim Coğrafya 9 — Ders Kitabı (authors İsmail Özdoğan, Kenan Türkez, Mutlu Karakoç). Grade 9 (student). 240 PDF pp. (cover/title page verified against the record title; read from the record's archive.org source_url copy — the repo copy later landed by git sparse checkout at exactly the same byte size, 25,904,697 bytes, confirming the same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/turkey-placements.md.
 
+**Book 5:** *Ciencias Sociales y Formación Ciudadana, Cuarto grado* (student book, Spanish) — Guatemala, Ministerio de Educación de Guatemala, elaborated with USAID/Reforma Educativa en el Aula (Juárez y Asociados); author Gloria Amaria Hernández; year impresión 2017; ISBN 978-9929-596-13-9. Title as printed: Ciencias Sociales y Formación Ciudadana — Cuarto grado. Grade: Grade 4 (student). 256 PDF pp. (cover verified against the record title; byte size 25,726,392 and page count 256 match the books.json record exactly — read from the record's own Wayback source URL after grab.py failed with GitHub API RemoteDisconnected; the two TSV release records are the same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/guatemala-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Parallels and meridians | Ethiopia, *Social Studies Student Textbook, Grade 7* (Amhara Bureau), printed pp. 47–48 |
@@ -17,8 +19,9 @@ countries: Ethiopia, Myanmar, Barbados, Turkey
 | Latitude and longitude — Myanmar way: 5.2 (teacher guide — evidence) | Myanmar, *Teacher Guide — Geography — Grade 6* (teacher guide), §5.2, printed p. 80 |
 | Barbados part — locating a place using latitude and longitude; line scale | Barbados, *Geography for CSEC — 2nd Edition*, Grade 10, Ch. 1 skills: locating a place using latitude and longitude; line scale — printed p. 5 |
 | Turkey part — 2A Coğrafi Koordinat Sistemi | Turkey, *Ortaöğretim Coğrafya 9. Sınıf Ders Kitabı*, Grade 9, 2A Coğrafi Koordinat Sistemi — printed p. 37 |
+| Guatemala part — Latitud y longitud | Guatemala, *Ciencias Sociales y Formación Ciudadana*, Grade 4, Latitud y longitud (Unit 1) — printed p. 35 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Barbados, Turkey). Myanmar is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 4 countries (Ethiopia, Barbados, Turkey, Guatemala). Myanmar is named here as teacher-guide evidence only, counted nowhere.**
 
 Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
@@ -28,4 +31,6 @@ Myanmar's own way (teacher guide — evidence): the year is split into five para
 
 Pairing warning (honesty): Book 2 is an Addis Ababa bureau guide in English; Book 1 is an Amhara bureau student book in Amharic. They are NOT edition-matched companions — the guide's unit order differs and whole student topics (maps, globes, GPS) have no guide counterpart, so no guide coverage is claimed for them. Guide material is used only as labelled teacher evidence.
 
-Searchable tags: parallels, meridians, latitude, longitude, equator, prime meridian, Greenwich, tropic of Cancer, tropic of Capricorn, absolute location, Myanmar, Teacher Guide Geography Grade 6, teacher guide evidence
+Guatemala's own way: one combined Social Studies and Citizenship book per grade, organised in four units that alternate History of Guatemala/Central America with the physical geography of the isthmus — every map carries the note about the unresolved Belize territorial differendum, and Geography is always worked on maps of the seven Central American countries with Guatemala's own Sierra de las Minas, Motagua river and Maya Biosphere as the home examples. That way is stocked here as the way Guatemala teaches this thing.
+
+Searchable tags: parallels, meridians, latitude, longitude, equator, prime meridian, Greenwich, tropic of Cancer, tropic of Capricorn, absolute location, Myanmar, Teacher Guide Geography Grade 6, teacher guide evidence, Guatemala

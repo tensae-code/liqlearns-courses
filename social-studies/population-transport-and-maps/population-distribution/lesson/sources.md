@@ -1,6 +1,6 @@
 # Sources — Population — distribution
 
-countries: Ethiopia, Saudi Arabia, Belarus, Barbados, Haiti
+countries: Ethiopia, Saudi Arabia, Belarus, Barbados, Haiti, Guatemala
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 2, placements 27–43).
 **Book 2:** *Social Studies Teacher's Guide, Grade 7* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, first edition 2022 (2014 E.C.). Printed page = PDF page − 5. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-teacher-placements.md (Unit 2, and §3.2 for the optimum-population lesson).
@@ -13,6 +13,8 @@ countries: Ethiopia, Saudi Arabia, Belarus, Barbados, Haiti
 
 **Book 6:** *Sciences humaines et sociales — Géographie — Population urbaine et population rurale en Haïti* (teacher sequence, French) — Haiti, MENFP / Projet Nectar (Canoprof), 8e année; authors Mélanie Albaret, Arnaud Dechelle. Title as printed: Sciences humaines et sociales — Géographie — Population urbaine et population rurale en Haïti (Projet Nectar, MENFP, 8e année). Grade 8 (teacher). Publisher: MENFP / Projet Nectar (Canoprof); year not printed; no ISBN printed (CC BY-NC-SA licence printed). 24 PDF pp. (first page verified against the record title — this PDF opens directly on the sequence presentation page). Verdict: COMPLETE. Read via grab.py (GitHub API, size/SHA verified) into scratch-ht/, text extracted page-by-page with pdftotext -layout; covers rendered and checked. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/haiti-placements.md.
 
+**Book 7:** *Ciencias Sociales y Formación Ciudadana, Cuarto grado* (student book, Spanish) — Guatemala, Ministerio de Educación de Guatemala, elaborated with USAID/Reforma Educativa en el Aula (Juárez y Asociados); author Gloria Amaria Hernández; year impresión 2017; ISBN 978-9929-596-13-9. Title as printed: Ciencias Sociales y Formación Ciudadana — Cuarto grado. Grade: Grade 4 (student). 256 PDF pp. (cover verified against the record title; byte size 25,726,392 and page count 256 match the books.json record exactly — read from the record's own Wayback source URL after grab.py failed with GitHub API RemoteDisconnected; the two TSV release records are the same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/guatemala-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — An uneven world | Ethiopia, *Social Studies Student Textbook, Grade 7* (Amhara Bureau), printed pp. 38–39 |
@@ -23,8 +25,9 @@ countries: Ethiopia, Saudi Arabia, Belarus, Barbados, Haiti
 | Belarus part — Population dynamics and age-sex structure; composition; labour resources; distribution of population and settlement, types of settlements | Belarus, *Геаграфія Беларусі. 10 клас (Geography of Belarus, Grade 10)*, Grade 10, Theme V §§33–37, printed p. 164 |
 | Barbados part — population facts and figures; world population distribution and density | Barbados, *Geography for CSEC — 2nd Edition*, Grade 10, Ch. 9: population facts and figures; world population distribution and density — printed p. 180 |
 | Haiti part — Séance 1 Les densités de population en Haïti (données IHSI, critique des sources, évolution de la population depuis 1804, construction de cartes des densités) (teacher sequence — evidence) | Haiti, *Sciences humaines et sociales — Géographie — Population urbaine et population rurale en Haïti* (teacher sequence), Grade 8, Séance 1 Les densités de population en Haïti (données IHSI, critique des sources, évolution de la population depuis 1804, construction de cartes des densités) — printed p. 8 |
+| Guatemala part — Densidad de población, worked on a density map of Guatemala's departments | Guatemala, *Ciencias Sociales y Formación Ciudadana*, Grade 4, Densidad de población, worked on a density map of Guatemala's departments (Unit 4) — printed p. 180 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Saudi Arabia, Belarus, Barbados). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 5 countries (Ethiopia, Saudi Arabia, Belarus, Barbados, Guatemala). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
 
 Haiti's own way (teacher sequence — evidence): Population geography is built entirely on Haiti's own data, handled critically: pupils confront the national statistics institute (IHSI) with international sources, note that the last census is 2003, build density maps and age pyramids themselves, then read the whole country through Port-au-Prince's primacy and the diaspora («les Haïtiens de l'extérieur»). That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
@@ -32,4 +35,6 @@ Barbados's own way: this is the shared Caribbean CSEC examination textbook used 
 
 Pairing warning (honesty): Book 2 is an Addis Ababa bureau guide in English; Book 1 is an Amhara bureau student book in Amharic. They are NOT edition-matched companions — the guide's unit order differs and whole student topics (maps, globes, GPS) have no guide counterpart, so no guide coverage is claimed for them. Guide material is used only as labelled teacher evidence.
 
-Searchable tags: population distribution, uneven world, northern hemisphere, migration, push factors, pull factors, rural settlement, urban settlement, Haiti, Population urbaine et rurale, teacher sequence evidence
+Guatemala's own way: one combined Social Studies and Citizenship book per grade, organised in four units that alternate History of Guatemala/Central America with the physical geography of the isthmus — every map carries the note about the unresolved Belize territorial differendum, and Geography is always worked on maps of the seven Central American countries with Guatemala's own Sierra de las Minas, Motagua river and Maya Biosphere as the home examples. That way is stocked here as the way Guatemala teaches this thing.
+
+Searchable tags: population distribution, uneven world, northern hemisphere, migration, push factors, pull factors, rural settlement, urban settlement, Haiti, Population urbaine et rurale, teacher sequence evidence, Guatemala

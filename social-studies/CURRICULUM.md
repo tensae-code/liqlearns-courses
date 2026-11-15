@@ -1432,3 +1432,77 @@ p. 2; ESD Teacher Guide, printed p. 24, as
 evidence) — the new lessons taught in 1 country
 (Nauru), 8 questions each. Geography lessons:
 684 → 690.
+
+## Geography expansion — Guatemala — built 2026-11-14
+
+Guatemala — 37 placements stocked from 5 distinct books
+(13 records / 5 distinct books in the Guatemala file;
+the Segundo ciclo teacher guide is counted in 4 records
+and the Grade 4 student book in 3 records — verified
+duplicates, taught once, every distinct book cited).
+Guatemala teaches Social Studies through MINEDUC guides
+and one combined student book: *Ciencias Sociales,
+Segundo ciclo* teacher guide (Grades 4–6, 2018, COMPLETE,
+89 PDF pp.), *Ciencias Sociales y Formación Ciudadana I,
+primero básico* teacher guide (Grade 7, 2017, COMPLETE,
+88 PDF pp. — Civics/peace content with one
+Geography-adjacent theme), *Ciencias Sociales y
+Formación Ciudadana II* (Grade 8) and *III* (Grade 9)
+teacher guides (2017, COMPLETE, 88 PDF pp. each — no
+Geography teaching parts, 0 placements, named in the
+placements file but not placed), and *Ciencias Sociales
+y Formación Ciudadana, Cuarto grado* (Grade 4, student
+book, impresión 2017, ISBN 978-9929-596-13-9, COMPLETE,
+256 PDF pp.). The student book counts in acceptance
+counts; the teacher guides are cited as the evidence
+they are, outside acceptance counts. Stocked into
+standing lessons — **Resources and Conflict**:
+Sustainable development — living without eating the
+future (Segundo ciclo TG, printed p. 15 — evidence
+only), People and environment — a two-way street
+(Segundo ciclo TG, printed p. 24, and primero básico
+TG, printed p. 29 — evidence only), Indigenous
+knowledge conserves (Segundo ciclo TG, printed
+pp. 9–11 — evidence only) and What conservation means
+(Grade 4 student book, printed pp. 181–182);
+**Culture and Work**: Culture — language (Segundo
+ciclo TG, printed pp. 28–42 — evidence only; Grade 4
+student book, printed p. 27) and Economic activities —
+the three levels (printed pp. 41–42); **The Land and
+Air**: Asking people properly — field questionnaires
+and interviews (Segundo ciclo TG, printed pp. 25–27 —
+evidence only), Compass points — direction on a map
+(printed p. 34), Weather and climate — the difference
+and the elements (printed p. 39), Continents, oceans,
+islands, peninsulas (printed p. 82), Water bodies — the
+five oceans (printed p. 83), Major and minor landforms
+(printed p. 85), Land-shaping forces — volcanism, magma
+and lava (printed p. 87), Water bodies — rivers
+(printed pp. 130–131), Water bodies — lakes (printed
+p. 132) and Plate tectonics — the Earth's moving shell
+(printed pp. 135–136); **Earth and Space**: Landforms —
+continents and oceans (printed p. 40); **Population,
+Transport and Maps**: Maps and globes — latitude and
+longitude (printed p. 35), Getting around — roads first
+(printed p. 89), Transport — kinds of transport
+(printed p. 90), Transport — choosing a mode (printed
+pp. 91–92), Trains, planes and boats (printed p. 137),
+Kinds of migration (printed pp. 178–179), Population
+distribution (printed p. 180) and The digital divide —
+connected and left out (printed pp. 185–186); **People
+and Resources**: Tourism — selling the landscape
+(printed pp. 183–184 and the closing project, printed
+pp. 198–201); **Global Issues**: Biodiversity — the
+variety of life, under threat (printed p. 84) — and 7
+new lessons built — in **Population, Transport and
+Maps**: Central America — its countries and limits
+(printed p. 36), Central America — country profiles
+(printed pp. 37–38) and The Panama Canal — a shortcut
+for world trade (printed p. 138); in **The Land and
+Air**: Sierra de las Minas — Guatemala's biosphere
+mountain (printed p. 86), Volcanic hazards — and how
+people stay safe (printed p. 88), Lake Nicaragua —
+Central America's greatest lake (printed p. 133) and
+Gulfs, bays, capes and peninsulas (printed p. 134) —
+the new lessons taught in 1 country (Guatemala),
+8 questions each. Geography lessons: 690 → 697.

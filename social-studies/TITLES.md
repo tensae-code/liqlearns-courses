@@ -103,7 +103,7 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **690**
+Geography lessons across the eight Geography titles: **697**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -242,3 +242,11 @@ fishing traditions of the Pacific and Pulaka —
 Tuvalu's giant swamp taro; People and Resources: The
 coconut — tree of life and Energy resources; Global
 Issues: Living things depend on each other.
++7 for Guatemala, 2026-11-14 — Population, Transport and
+Maps: Central America — its countries and limits,
+Central America — country profiles and The Panama
+Canal — a shortcut for world trade; The Land and Air:
+Sierra de las Minas — Guatemala's biosphere mountain,
+Volcanic hazards — and how people stay safe, Lake
+Nicaragua — Central America's greatest lake and Gulfs,
+bays, capes and peninsulas.

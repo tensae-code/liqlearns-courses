@@ -1,6 +1,6 @@
 # Sources — Indigenous knowledge conserves
 
-countries: Ethiopia, Nauru, Tuvalu, Niue
+countries: Ethiopia, Nauru, Tuvalu, Niue, Guatemala
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). Editors: Sintayehu Teka (MSc) (Content Editor), Kassie Molla (MA) (Language Editor), Hirut Woldemichael (MA) (Curriculum Editor). Illustrator: Agenchw Nega (MSc). Designer: Geda Hoka (MA). Evaluators: Dereje Guteta (PhD), Tesfaye Shiferaw (PhD), Abebe Yibeltie (MA), Hussein Seid (MA). First published 2023 under GEQIP-E. ISBN 978-99990-0-049-9. Printed by Gravity Group IND LLC, 13th Industrial Area, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. Printed page = PDF page − 6 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Nauru, Tuvalu, Niue
 
 **Book 5:** *People and the Natural Environment in the Pacific* (student book, English) — Niue, Institute of Education, University of the South Pacific (Tonga Campus), for UNESCO/Japanese Funds-in-Trust ESD project; year 2020; no ISBN printed. Title as printed: People and the Natural Environment in the Pacific — A Social Sciences related reader for Primary School, Book 3 (inner title page: Years 7–8 — see the grade note). Grade: Grade 5 record / Years 5–6 per the Teacher Guide, Years 7–8 per the inner title page (student). Niue advisor: Birtha Togahai. 24 PDF pp. (cover verified against the record title; read in full via pdftotext, page by page). Verdict: COMPLETE (content printed pp. 1–19). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/niue-placements.md.
 
+**Book 6:** *Ciencias Sociales, Segundo ciclo* (teacher guide, Spanish) — Guatemala, MINEDUC, Ministerio de Educación de Guatemala (DIGEBI/DIGECADE/DIGECUR); year 2018, primera edición; no ISBN printed. Title as printed: Guía de orientaciones metodológicas para docentes — Ciencias Sociales, Segundo ciclo de primaria, cuarto, quinto y sexto. Grade: Grades 4–6 (records filed it under Grade 5 and Grade 6; the guide itself covers the whole second primary cycle) (teacher). 89 PDF pp. (cover verified against the record title; byte size 5,346,345 matches the books.json record exactly — read from the record's own archive.org source after two grab.py attempts failed with GitHub API RemoteDisconnected). Verdict: COMPLETE. Cited as evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/guatemala-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Knowledge accumulated over generations | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 6, printed pp. 154–156 |
@@ -21,8 +23,9 @@ countries: Ethiopia, Nauru, Tuvalu, Niue
 | Nauru part — People and the natural environment (thousands of years of living in harmony with land and ocean; sustainable living; Niue's sacred land) | Nauru, *People and the Natural Environment in the Pacific*, Grade 5, People and the natural environment — printed p. 5 |
 | Tuvalu part — People and the natural environment (thousands of years of living in harmony with land and ocean; sustainable living; Niue's sacred land) | Tuvalu, *People and the Natural Environment in the Pacific*, Grade 5, People and the natural environment (thousands of years of living in harmony with land and ocean; sustainable living; Niue's sacred land) — printed p. 5 |
 | Niue part — People and the natural environment (living in harmony with the land for thousands of years; Niue's belief that the land houses ancestral spirits; elders passing environmental knowledge through stories and practice) | Niue, *People and the Natural Environment in the Pacific*, Grade 5, People and the natural environment (living in harmony with the land for thousands of years; Niue's belief that the land houses ancestral spirits; elders passing environmental knowledge through stories and practice) — printed pp. 5–6 |
+| Guatemala part — Maya values for protecting all life (Tiqapoqonaj ronojel ruwach k'aslem) and the Garífuna hydrocosmos — sea, rivers and marine life held in respect (teacher guide — evidence) | Guatemala, *Ciencias Sociales, Segundo ciclo* (teacher guide), Grades 4–6, Maya values for protecting all life (Tiqapoqonaj ronojel ruwach k'aslem) and the Garífuna hydrocosmos — sea, rivers and marine life held in respect — printed pp. 9–11 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Nauru, Tuvalu, Niue).**
+**Acceptance count: taught in 4 countries (Ethiopia, Nauru, Tuvalu, Niue). Guatemala is named here as teacher-guide evidence only, counted nowhere.**
 
 Niue's own way: Niue uses the shared Pacific ESD reader suite (Niue advisor Birtha Togahai) — land Geography is taught through Pacific farming itself: taro, pulaka and the coconut "tree of life", with Niue's own crops, exports and name-story ("behold the coconut") as anchor examples, and shifting cultivation/fallowing taught as sound science. That way is stocked here as the way Niue teaches this thing.
 
@@ -32,4 +35,6 @@ Tuvalu's own way: the land-side companion to the sea reader — and Tuvalu's own
 
 No book error is flagged for this lesson's pages in the placements. The teacher guide was first published in 2022 against the student book's 2023; the student book is the learner text of record, and the guide is cited as evidence only.
 
-Searchable tags: indigenous knowledge, plant medicine, biodiversity, conservation, ethiopia, social studies, resources and conflict, Nauru, People and the Natural Environment in the Pacific, Niue sacred land, Tuvalu, Niue Grade 5
+Guatemala's own way (teacher guide — evidence): Social Studies is taught through three long “learning experiences” rooted in the country's own peoples (Maya, Garífuna, Xinka, Ladino); Geography enters as lived territory — the Maya unity of peoples and territory, care for Mother Earth, and a linguistic map of Guatemala played as a lotería game. That evidence is stocked here as the way Guatemala teaches this thing; it does not change the acceptance count above.
+
+Searchable tags: indigenous knowledge, plant medicine, biodiversity, conservation, ethiopia, social studies, resources and conflict, Nauru, People and the Natural Environment in the Pacific, Niue sacred land, Tuvalu, Niue Grade 5, Guatemala

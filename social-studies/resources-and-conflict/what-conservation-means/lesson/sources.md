@@ -1,6 +1,6 @@
 # Sources — Conservation — What Conservation Means
 
-countries: Ethiopia, Zambia
+countries: Ethiopia, Zambia, Guatemala
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (placement 66).
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Zambia
 
 **Book 4:** *Geography Teaching Module, Form 2, Term 3* (teacher guide) — Zambia, Curriculum Development Centre, Ministry of Education, Zambia; year 2026 (© Curriculum Development Centre, 2026); ISBN no ISBN printed. Title as printed: Geography Teaching Module, Form 2, Term 3 (record title: Geography Teaching Module Form 2 Term 3; Form 2 = Grade 8). Grade 8 (Form 2) (teacher guide). 64 PDF pp. (contents verified against the record title). Verdict: COMPLETE (Term 3 module only, as recorded). Read via grabcurl (curl-resume Contents route, byte size 569,467 + blob SHA verified SHA-OK) after grab.py failures on the shared GitHub API. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/zambia-placements.md
 
+**Book 5:** *Ciencias Sociales y Formación Ciudadana, Cuarto grado* (student book, Spanish) — Guatemala, Ministerio de Educación de Guatemala, elaborated with USAID/Reforma Educativa en el Aula (Juárez y Asociados); author Gloria Amaria Hernández; year impresión 2017; ISBN 978-9929-596-13-9. Title as printed: Ciencias Sociales y Formación Ciudadana — Cuarto grado. Grade: Grade 4 (student). 256 PDF pp. (cover verified against the record title; byte size 25,726,392 and page count 256 match the books.json record exactly — read from the record's own Wayback source URL after grab.py failed with GitHub API RemoteDisconnected; the two TSV release records are the same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/guatemala-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Whole lesson opening — pupils name a local act of keeping for later | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 3, printed pp. 86–87 |
@@ -17,11 +19,14 @@ countries: Ethiopia, Zambia
 | Sub lesson 2 — Keeping each resource (teacher guide — evidence): soil's seven techniques; water, forest and wildlife conservation defined; wildlife harms; sustainable use by rate; Konso report assignment | Ethiopia, *Social Studies Teacher's Guide, Grade 8*, Unit 3, §3.2, printed pp. 39–42 (teacher guide — evidence) |
 | Managing natural resources — Zambia Grade 4's way (teacher guide — evidence) | Zambia, *Social Studies Teaching Module, Grade 4, Term 3* (teacher guide), Topic 4.7 Environment, Sub-topic 4.7.1 (activity 3): managing natural resources — planting trees, grass and flowers, waste sorting and disposal, pollution control, clean-up campaign — printed p. 4 (module pagination) |
 | Environmental protection — Zambia Grade 8's way (teacher guide — evidence) | Zambia, *Geography Teaching Module, Form 2, Term 3* (teacher guide), Topic 2.3 Environment, Sub-topic 2.3.2 Environmental Protection — printed p. 9 |
+| Guatemala part — Áreas protegidas: Reserva de la Biosfera Maya and the Biotopo Chocón-Machacas | Guatemala, *Ciencias Sociales y Formación Ciudadana*, Grade 4, Áreas protegidas: Reserva de la Biosfera Maya and the Biotopo Chocón-Machacas (Unit 4) — printed pp. 181–182 |
 
-**Acceptance count: taught in 1 country (Ethiopia). Zambia is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 2 countries (Ethiopia, Guatemala). Zambia is named here as teacher-guide evidence only, counted nowhere.**
 
 Zambia's own way (teacher guide — evidence): Grade 4's Competence-Based Curriculum module teaches managing resources by doing — planting trees, grass and flowers, sorting and disposing of waste, controlling pollution and running a clean-up campaign, inside a topic taught through observation walks, a community map and role-play, with Zambian examples (Zambezi and Kafue rivers, copper, maize soil, charcoal burning); Grade 8's Geography module, built around Zambia itself, follows degradation with a sub-topic on environmental protection. That evidence is stocked here as the way Zambia teaches this thing; it does not change the acceptance count above.
 
 The teacher guide used for the parts labelled (teacher guide — evidence) is NOT edition-matched to the student book: the guide is an Addis Ababa bureau book (2022, in English) and the student book is an Amhara bureau book (© 2015 E.C., in Amharic); they follow the same national syllabus family but are not companions, and the guide's activity numbers key to its own companion textbook. The guide in hand is also truncated — only printed pp. 1–47 (Units 1–3) are present; Units 4–7 (printed pp. 48–109) are missing. Guide material is therefore used only as labelled teacher evidence folded into this pupil lesson; it never counts as pupil-taught on its own. The guide's Unit 3 numbering disagreement (see Using Resources Well) also touches this lesson's §3.2 citation; the build cites the guide's body headings and printed pages. No student-book error flagged by the placements touches this lesson.
 
-Searchable tags: conservation, definitions, terracing, afforestation, crop rotation, reforestation, shelter belt, check dams, strip cropping, water conservation, forest conservation, wildlife conservation, sustainable use, Ethiopia Grade 8 Social Studies Chapter 3, Zambia, environmental protection, tree planting, clean-up campaign, teacher guide evidence
+Guatemala's own way: one combined Social Studies and Citizenship book per grade, organised in four units that alternate History of Guatemala/Central America with the physical geography of the isthmus — every map carries the note about the unresolved Belize territorial differendum, and Geography is always worked on maps of the seven Central American countries with Guatemala's own Sierra de las Minas, Motagua river and Maya Biosphere as the home examples. That way is stocked here as the way Guatemala teaches this thing.
+
+Searchable tags: conservation, definitions, terracing, afforestation, crop rotation, reforestation, shelter belt, check dams, strip cropping, water conservation, forest conservation, wildlife conservation, sustainable use, Ethiopia Grade 8 Social Studies Chapter 3, Zambia, environmental protection, tree planting, clean-up campaign, teacher guide evidence, Guatemala

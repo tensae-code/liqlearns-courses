@@ -1,6 +1,6 @@
 # Sources — Compass points — direction on a map
 
-countries: Ethiopia, Haiti
+countries: Ethiopia, Haiti, Guatemala
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -8,15 +8,20 @@ countries: Ethiopia, Haiti
 
 **Book 3:** *Du rond au plat, représenter le globe terrestre ?* (teacher sequence — corrigé, French) — Haiti, MENFP / Projet Nectar (Sciences humaines et sociales — Géographie, 7e année). Title as printed: Du rond au plat, représenter le globe terrestre ? (Projet Nectar, MENFP, Sciences humaines et sociales — Géographie, 7e année). Grade 7 (teacher). Publisher: MENFP / Projet Nectar; year not printed; no ISBN printed. 20 PDF pp. (cover verified against the record title). Verdict: COMPLETE. Read via grab.py (GitHub API, size/SHA verified) into scratch-ht/, text extracted page-by-page with pdftotext -layout; covers rendered and checked. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/haiti-placements.md.
 
+**Book 4:** *Ciencias Sociales y Formación Ciudadana, Cuarto grado* (student book, Spanish) — Guatemala, Ministerio de Educación de Guatemala, elaborated with USAID/Reforma Educativa en el Aula (Juárez y Asociados); author Gloria Amaria Hernández; year impresión 2017; ISBN 978-9929-596-13-9. Title as printed: Ciencias Sociales y Formación Ciudadana — Cuarto grado. Grade: Grade 4 (student). 256 PDF pp. (cover verified against the record title; byte size 25,726,392 and page count 256 match the books.json record exactly — read from the record's own Wayback source URL after grab.py failed with GitHub API RemoteDisconnected; the two TSV release records are the same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/guatemala-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Cardinal and intercardinal | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 8, printed pp. 216–217 |
 | Sub lesson 2 — Secondary points | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 8, printed pp. 216–217 |
 | Teaching pattern and answer keys (teacher guide — evidence) — Grade 9 Unit 8 | Ethiopia, *Geography, Teacher Guide, Grade 9*, Unit 8, guide printed pp. 231–260 |
 | Haiti part — Séance 4 S'orienter sur la terre (1) (se localiser, outils d'orientation, boussole, GPS, itinéraires) (teacher sequence — evidence) | Haiti, *Du rond au plat, représenter le globe terrestre ?* (teacher sequence), Grade 7, Séance 4 S'orienter sur la terre (1) (se localiser, outils d'orientation, boussole, GPS, itinéraires) — printed p. 11 |
+| Guatemala part — Ubicación espacial: puntos cardinales, rosa de los vientos, brújula y ubicación relativa | Guatemala, *Ciencias Sociales y Formación Ciudadana*, Grade 4, Ubicación espacial: puntos cardinales, rosa de los vientos, brújula y ubicación relativa (Unit 1) — printed p. 34 |
 
-**Acceptance count: taught in 1 country (Ethiopia). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 2 countries (Ethiopia, Guatemala). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
 
 Haiti's own way (teacher sequence — evidence): Geography opens with representing the Earth itself — globe-to-flat projection problems, orientation practised on the ground with compass/GPS/Google Maps, and time-zone puzzles worked on Haiti's own links (midday shared with Québec, 18h in Paris, Port-au-Prince–Paris flights); every séance ends in a croquis, a glossary and field observation. That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
-Searchable tags: compass points, cardinal, intercardinal, secondary points, compass rose, direction, social studies, Haiti, Du rond au plat, teacher sequence evidence
+Guatemala's own way: one combined Social Studies and Citizenship book per grade, organised in four units that alternate History of Guatemala/Central America with the physical geography of the isthmus — every map carries the note about the unresolved Belize territorial differendum, and Geography is always worked on maps of the seven Central American countries with Guatemala's own Sierra de las Minas, Motagua river and Maya Biosphere as the home examples. That way is stocked here as the way Guatemala teaches this thing.
+
+Searchable tags: compass points, cardinal, intercardinal, secondary points, compass rose, direction, social studies, Haiti, Du rond au plat, teacher sequence evidence, Guatemala
