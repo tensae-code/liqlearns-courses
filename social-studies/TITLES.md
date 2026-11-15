@@ -95,7 +95,11 @@ the one title at rising depth wherever a title spans both books
   resistance, independence (including Zambia — primary
   resistance in Northern Rhodesia, secondary resistance and
   the road to independence, liberation struggle sites, and
-  nationalists of the independence struggle).
+  nationalists of the independence struggle, and Cabo Verde —
+  discovery and settlement, a creole society is born, on the
+  world routes, decline and Porto Grande, popular revolts,
+  end of the slave society, liberation and independence, and
+  the two Republics).
   (No teacher evidence yet.)
 - `modern-world/` — the early-modern and modern world
   (including Guyana — our nation: independence and symbols,
@@ -2518,7 +2522,7 @@ Plants and Animals.
 
 ## History expansion totals
 
-History lessons across the History titles: **276**
+History lessons across the History titles: **284**
 (248 before the expansion; +1 for Guyana, 2026-11-15 —
 Modern World: Guyana — our nation: independence and
 symbols. All 3 Guyana placements stand on Guyana's
@@ -2612,3 +2616,15 @@ World lessons The rise and expansion of Islam and
 Faiths that shaped states, whose counts rise
 1 → 2). The held copy is the book's 1446هـ edition;
 the record title gives the year as 1448هـ.)
++8 for Cabo Verde, 2026-11-15 — Africa after 1500:
+Cabo Verde — discovery and settlement, Cabo Verde —
+a creole society is born, Cabo Verde — on the world
+routes, Cabo Verde — decline and Porto Grande, Cabo
+Verde — popular revolts, Cabo Verde — end of the
+slave society, Cabo Verde — liberation and
+independence, and Cabo Verde — the two Republics.
+All 12 Cabo Verde placements stand on Cabo Verde's
+Grade 5 student book and Grade 6 student workbook,
+counted in acceptance (the eight new lessons; and
+the existing First Steps lesson What history is,
+whose count rises 2 → 3 with Cabo Verde added).

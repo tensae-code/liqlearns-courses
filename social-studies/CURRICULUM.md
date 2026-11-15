@@ -8507,3 +8507,51 @@ their acceptance counts rise: What history is
 Dating the past 2 → 3, heritage 19 → 20, The rise
 and expansion of Islam 1 → 2, Faiths that shaped
 states 1 → 2. History lessons: 271 → 276.
+
+## History expansion — Cabo Verde — built 2026-11-15
+
+8 new lessons, 64 questions, in **Africa after 1500**:
+Cabo Verde — discovery and settlement
+(africa-after-1500/cabo-verde-discovery-and-settlement),
+Cabo Verde — a creole society is born
+(africa-after-1500/cabo-verde-creole-society-is-born),
+Cabo Verde — on the world routes
+(africa-after-1500/cabo-verde-on-the-world-routes),
+Cabo Verde — decline and Porto Grande
+(africa-after-1500/cabo-verde-decline-and-porto-grande),
+Cabo Verde — popular revolts
+(africa-after-1500/cabo-verde-popular-revolts),
+Cabo Verde — end of the slave society
+(africa-after-1500/cabo-verde-end-of-the-slave-society),
+Cabo Verde — liberation and independence
+(africa-after-1500/cabo-verde-liberation-and-independence)
+and Cabo Verde — the two Republics
+(africa-after-1500/cabo-verde-two-republics)
+— 12 placements stocked from Cabo Verde's two
+combined História e Geografia de Cabo Verde books:
+Grade 5 student book (Ministério da Educação de
+Cabo Verde, no publisher, year or ISBN printed):
+History presented as the science that studies
+people in time and space (printed p. 7), into the
+existing First Steps What history is lesson;
+discovery of the uninhabited islands (printed
+p. 46) and occupation and peopling — Santiago and
+Fogo first (printed p. 52); origin of the creole
+society (printed p. 66); the archipelago on the
+international routes and Ribeira Grande (printed
+p. 71); decline and Porto Grande (printed
+pp. 76–82); popular revolts 1811–1910 (printed
+p. 86); and end of the slave society (printed
+p. 92). Grade 6 Caderno Experimental student
+workbook (same ministry, experimental edition):
+Cabo Verdean culture in Cabral's words (printed
+p. 9, Tema 2); the PAIGC liberation struggle
+(printed p. 34) and independence proclaimed
+5 July 1975 (printed p. 37); and the First and
+Second Republics (printed pp. 42–51). The books'
+Geography parts are named in the lessons'
+sources, not placed here. All 12 placements stand
+on student books, counted in acceptance. Cabo
+Verde was not counted in What history is before,
+so its acceptance count rises 2 → 3. History
+lessons: 276 → 284.

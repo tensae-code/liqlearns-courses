@@ -1,6 +1,6 @@
 # Sources — What history is
 
-countries: Ethiopia, Saudi Arabia
+countries: Ethiopia, Saudi Arabia, Cabo Verde
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -10,8 +10,9 @@ countries: Ethiopia, Saudi Arabia
 | Sub lesson 2 — Change, continuity, cause and effect | Ethiopia, *History, Student Textbook, Grade 11*, printed pp. 1–3 |
 | Sub lesson 3 — Why the past needs a method | Ethiopia, *History, Student Textbook, Grade 11*, printed pp. 1–3 |
 | Saudi Arabia part — The Concept of History (Unit 2, Lesson 5): history is the study of past events and interpreting them to show their effect on present and future; the historian's questions — when did it happen, what happened, how, who took part, why, and what came of it; why we are proud of our Saudi history — story beats: a nine-year-old learns that history is not old stories but questions you ask about real events (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Saudi Arabia, *الدراسات الاجتماعية — الصف الرابع الابتدائي — غير مجزأ (Social Studies, Grade 4 Primary)*, printed pp. 40–42 |
+| Cabo Verde part — Tema 0: Presentation of the discipline — story beats: History is introduced as the science that studies people in time and space, using maps, old texts, photographs, monuments and oral tradition to understand Cabo Verde's present through its past (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Cabo Verde, *História e Geografia de Cabo Verde — 5.º ano*, printed p. 7 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Saudi Arabia).**
+**Acceptance count: taught in 3 countries (Ethiopia, Saudi Arabia, Cabo Verde).**
 
 No book error flagged by the placements touches this lesson. The lesson teaches the placement's content as a story summary in the course's own words — the book's text itself is never transcribed. 
 
@@ -19,4 +20,8 @@ No book error flagged by the placements touches this lesson. The lesson teaches 
 
 Saudi Arabia's own way (History expansion, 2026-11-15): Saudi Arabia's own way: History enters in Grade 4 as method first — what history is, sources, cause and effect, timelines — practised on Saudi examples, and only then as content: the Arabian Peninsula as the Arabs' homeland and cradle of civilisations, and the prophets' stories as the land's sacred past. National days (Founding Day 1727, National Day 1932) are taught inside the Citizenship unit as national symbols. That way is stocked here as the way Saudi Arabia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
-Searchable tags: what, history, is, Grade 11 History, Unit 1 — History, Historiography and Human Evolution, concept of history, historian's questions, Saudi Arabia Grade 4, الدراسات الاجتماعية
+**Book 3:** *História e Geografia de Cabo Verde — 5.º ano (Manual de História e Geografia de Cabo Verde, 5.º ano)* (student book, Portuguese) — Cabo Verde. Title as printed: História e Geografia de Cabo Verde — 5.º ano (Manual de História e Geografia de Cabo Verde, 5.º ano). Grade: Grade 5 (student/teacher: STUDENT). Publisher: Ministério da Educação de Cabo Verde school manual (no publisher or ISBN printed in the text layer); year not printed in the text layer; no ISBN printed in the text layer. PDF pages: 101 (cover verified against the record title). Verdict: COMPLETE. Non-History parts named: Geography — location and natural environment of the archipelago (maps, relief, climate, vegetation), printed pp. 13–44. Placements at liqlearns-courses-work/expansion-history-2026-11-15/cabo-verde-placements.md.
+
+Cabo Verde's own way (History expansion, 2026-11-15): The child's first History subject is the past of her own islands only — an uninhabited archipelago found by Portuguese ships, peopled by Europeans and enslaved Africans, becoming a new creole society — taught theme by theme with documents, a mini-dictionary of concepts and "Vou resolver" activities. That way is stocked here as the way Cabo Verde teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Searchable tags: what, history, is, Grade 11 History, Unit 1 — History, Historiography and Human Evolution, concept of history, historian's questions, Saudi Arabia Grade 4, الدراسات الاجتماعية, Cabo Verde Grade 5, História e Geografia de Cabo Verde, presentation of the discipline
