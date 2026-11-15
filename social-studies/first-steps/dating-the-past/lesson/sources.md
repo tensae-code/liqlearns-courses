@@ -1,6 +1,6 @@
 # Sources — Dating the past — calendars, timelines and periods
 
-countries: Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, Laos, Afghanistan, Cuba, China, Venezuela, Moldova
+countries: Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -1812,3 +1812,120 @@ Moldova's own way (Book 3 — moldova-g06-history (student book, Romanian)): the
 **Acceptance count: taught in 43 countries (Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, Laos, Afghanistan, Cuba, China, Venezuela, Moldova).**
 
 Searchable tags: Moldova, History expansion 2026-11-15, first-steps/dating-the-past
+
+## History expansion (2026-11-15) — Armenia stocked
+
+**Book A5 — G7 Social Science student (student book, Armenian) — COMBINED SUBJECT: History parts placed; other parts named, not placed**
+- Title as printed: «Հասարակագիտություն 7. Դասագիրք հանրակրթական դպրոցի համար» (Social Science 7, textbook for general schools) — Hrach Bayadyan, Davit Stepanyan, Vahram Soghomonyan
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Yerevan; year 2023; ISBN no ISBN printed in the pages checked (144 printed pages; conforms to the RA state standard of 2021)
+- PDF pages: 146 (cover verified against the record title; text PDF, read via extracted text and TOC)
+- Other parts (named, NOT placed): Ch. 1 Man and nature / environment (pp. 12–27, except §1.2 below); Ch. 3 Man, cognition and behaviour (pp. 42–55); Ch. 4 Man and morality (pp. 56–71); Ch. 5 Man and beauty — aesthetics and art (pp. 72–89); Ch. 6 Law in our life, §§6.1–6.2 (pp. 90–96); Ch. 7 Man and the economy (pp. 102–127); Ch. 8 Man and politics (pp. 128–139); explanatory glossary (p. 140)
+- Verdict: COMPLETE (History parts placed)
+- Tally: 4 placements — 2 to existing lessons, 2 NEW LESSON NEEDED
+- Armenia's own way: a civics course that keeps reaching back into history — eras are sorted by tools, and the rights chapter gives Armenia's own 1773 Madras constitution draft a place in the world timeline of rights.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — §1.2 The evolution of society–nature relations — story beats: pupils sort all of human time by its tools — Stone Age, Bronze Age, then pre-industrial, industrial and post-industrial eras split by the Industrial Revolution (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Armenia, *«Հասարակագիտություն 7. Դասագիրք հանրակրթական դպրոցի համար» (Social Science 7, textbook for general schools) — Hrach Bayadyan, Davit Stepanyan, Vahram Soghomonyan*, printed p. 18 |
+
+Armenia's own way (Book A5 — G7 Social Science student (student book, Armenian) — COMBINED SUBJECT: History parts placed; other parts named, not placed): a civics course that keeps reaching back into history — eras are sorted by tools, and the rights chapter gives Armenia's own 1773 Madras constitution draft a place in the world timeline of rights. That way is stocked here as the way Armenia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book A6 — G7 Social Science teacher guide, authors' edition a15432 (teacher guide, Armenian) — COMBINED SUBJECT: History parts placed**
+- Title as printed: «"Հասարակագիտություն" առարկայի 7-րդ դասարանի դասագրքի օգտագործման մեթոդական ուղեցույց» (Methodological Guide for Using the Grade 7 Social Science Textbook) — H. Bayadyan, D. Stepanyan, V. Soghomonyan (the student book's own authors)
+- Grade: 7 (student/teacher: TEACHER)
+- Publisher: Yerevan; year 2023; ISBN no ISBN printed in the pages checked
+- PDF pages: 110 (cover verified against the record title; text PDF, read via extracted text)
+- Other parts (named, NOT placed): lesson plans for the nature/environment, cognition, morality, aesthetics, law, economy and politics chapters of the student book
+- Verdict: COMPLETE (History parts placed)
+- Tally: 4 placements — 2 to existing lessons, 2 NEW LESSON NEEDED
+
+This book is a teacher guide. The Armenia rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — Lesson plan for §1.2, the evolution of society–nature relations — story beats: the teacher walks the class through society's stages by their tools, from pre-industrial to post-industrial (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Armenia, *«"Հասարակագիտություն" առարկայի 7-րդ դասարանի դասագրքի օգտագործման մեթոդական ուղեցույց» (Methodological Guide for Using the Grade 7 Social Science Textbook) — H. Bayadyan, D. Stepanyan, V. Soghomonyan (the student book's own authors)* (teacher guide — evidence), §1.2 plan |
+
+Armenia's own way (Book A6 — G7 Social Science teacher guide, authors' edition a15432 (teacher guide, Armenian) — COMBINED SUBJECT: History parts placed): no separate own-way note is filed for this book; the rows above are stocked exactly as filed. That way is stocked here as the way Armenia teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book A8 — G8 World History student: "New Times" (student book, Armenian)**
+- Title as printed: «Համաշխարհային պատմություն 8-րդ դասարան. Նոր ժամանակներ» (World History, Grade 8: New Times) — Aram Nazaryan, Aram Kosyan, Robert Ghazaryan
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: Zangak, Yerevan; year 2024; ISBN 978-9939-99-151-1 (176 printed pages; recommended by the RA Ministry of Education, Science, Culture and Sport; QR-linked audio/video materials)
+- PDF pages: 178 (title page verified against the record title; text PDF, read via extracted text and TOC)
+- Verdict: COMPLETE
+- Tally: 28 placements — 17 to existing lessons, 11 NEW LESSON NEEDED
+- Armenia's own way: the modern age is framed as a race of civilisations — societies are compared by which "path" they took into industrial society (a Western path, an Asian path, or crisis), a comparative frame Armenian pupils apply to their own country's past.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — Introduction: the New Times as a period — story beats: the book opens by fencing off its era, from the late 1400s to 1900, and naming its engine — the rise of industrial society (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Armenia, *«Համաշխարհային պատմություն 8-րդ դասարան. Նոր ժամանակներ» (World History, Grade 8: New Times) — Aram Nazaryan, Aram Kosyan, Robert Ghazaryan*, printed p. 4 |
+| Armenia part — Chronology appendix — story beats: the whole New Times is laid out as one dated timeline, the pupil's map for placing every event (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Armenia, *«Համաշխարհային պատմություն 8-րդ դասարան. Նոր ժամանակներ» (World History, Grade 8: New Times) — Aram Nazaryan, Aram Kosyan, Robert Ghazaryan*, printed p. 173 |
+
+Armenia's own way (Book A8 — G8 World History student: "New Times" (student book, Armenian)): the modern age is framed as a race of civilisations — societies are compared by which "path" they took into industrial society (a Western path, an Asian path, or crisis), a comparative frame Armenian pupils apply to their own country's past. That way is stocked here as the way Armenia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book A10 — G8 Armenian History student (student book, Armenian)**
+- Title as printed: «Հայոց պատմություն 8. Դասագիրք հանրակրթական դպրոցի համար» (History of Armenia 8, textbook for general schools) — Smbat Kh. Hovhannisyan, Ala A. Kharatyan, Zaruhi A. Hakobyan
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: Yerevan; year 2024; ISBN no ISBN printed in the pages checked
+- PDF pages: 114 (cover verified against the record title; text PDF, read via extracted text and TOC)
+- Verdict: COMPLETE
+- Tally: 17 placements — 2 to existing lessons, 15 NEW LESSON NEEDED
+- Armenia's own way: each chapter is framed as a civilisational challenge and Armenia's answer to it — conquest is met with alliance, statelessness with a kingdom in Cilicia, division with liberation plans printed as far away as Madras.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — Introduction: history in dates and beyond dates — story beats: before the story starts, pupils learn that a date is only a peg — the real history hangs on causes, people and consequences (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Armenia, *«Հայոց պատմություն 8. Դասագիրք հանրակրթական դպրոցի համար» (History of Armenia 8, textbook for general schools) — Smbat Kh. Hovhannisyan, Ala A. Kharatyan, Zaruhi A. Hakobyan*, printed p. 3 |
+
+Armenia's own way (Book A10 — G8 Armenian History student (student book, Armenian)): each chapter is framed as a civilisational challenge and Armenia's answer to it — conquest is met with alliance, statelessness with a kingdom in Cilicia, division with liberation plans printed as far away as Madras. That way is stocked here as the way Armenia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book A14 — G9 World History student (student book, Armenian)**
+- Title as printed: «Համաշխարհային պատմություն. 9-րդ դասարան. Հանրակրթական հիմնական դպրոցի դասագիրք» (World History, Grade 9: textbook for general basic schools) — Aram Nazaryan, Aram Kosyan, Vahram Petrosyan; methodical apparatus by Armine Sargsyan
+- Grade: 9 (student/teacher: STUDENT)
+- Publisher: Zangak, Yerevan; year 2025; ISBN 978-9939-99-271-6 (176 printed pages; printed by order of the RA Ministry of Education, Science, Culture and Sport; QR-linked audio/video materials)
+- PDF pages: 180 (title page verified against the record title; text PDF, read via extracted text and TOC)
+- Verdict: COMPLETE
+- Tally: 29 placements — 16 to existing lessons, 13 NEW LESSON NEEDED
+- Armenia's own way: the newest period is taught through world orders — Westphalian, Vienna, Versailles, bipolar, post-bipolar — so pupils learn to ask of any decade: whose order is this, and what broke it?
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — Introduction: the end of the New Times and the Newest period — story beats: the book fences its era by systems of world order, from Westphalia (1648) through Vienna (1815) to the post-industrial, information age (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Armenia, *«Համաշխարհային պատմություն. 9-րդ դասարան. Հանրակրթական հիմնական դպրոցի դասագիրք» (World History, Grade 9: textbook for general basic schools) — Aram Nazaryan, Aram Kosyan, Vahram Petrosyan; methodical apparatus by Armine Sargsyan*, printed p. 4 |
+| Armenia part — Chronology of important events (appendix) — story beats: the newest period is laid out as one dated spine, from the alliance system to the information age (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Armenia, *«Համաշխարհային պատմություն. 9-րդ դասարան. Հանրակրթական հիմնական դպրոցի դասագիրք» (World History, Grade 9: textbook for general basic schools) — Aram Nazaryan, Aram Kosyan, Vahram Petrosyan; methodical apparatus by Armine Sargsyan*, printed p. 175 |
+
+Armenia's own way (Book A14 — G9 World History student (student book, Armenian)): the newest period is taught through world orders — Westphalian, Vienna, Versailles, bipolar, post-bipolar — so pupils learn to ask of any decade: whose order is this, and what broke it? That way is stocked here as the way Armenia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book B6 — G10 World History Student (student book, Armenian)**
+- Title as printed: Համաշխարհային պատմություն 10 (World History 10), by Aram Boyajyan (Themes 1, 2, 4), Aram Nazaryan (Themes 1, 5, 6), Robert Ghazaryan (Theme 3)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Zangak (Զանգակ), Yerevan; year 2024; ISBN 978-9939-99-152-8; 176 printed pages
+- PDF pages: 180 (cover/title page verified against the record title; image-only PDF, read from page renders — cover, verso, contents at printed pp. 174–175, Theme 1 §1 and the Theme 2 and Theme 4 openers verified, remaining chapters placed from the printed contents)
+- Verdict: COMPLETE
+- Tally: 38 placements — 24 to existing lessons, 14 NEW LESSON NEEDED
+- Armenia's own way: Grade 10 World History is organised by civilisation rather than by date — each ancient society is presented through its "civilisation achievements" and what it left to the modern world, running from Egypt and Mesopotamia through Greece, Rome, Africa's empires and the Islamic world to the Reformation.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — Theme 1 §2: chronology — story beats: pupils learn to place events on the line of time — eras, centuries and the counting systems by which the past is ordered (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Armenia, *Համաշխարհային պատմություն 10 (World History 10), by Aram Boyajyan (Themes 1, 2, 4), Aram Nazaryan (Themes 1, 5, 6), Robert Ghazaryan (Theme 3)*, printed p. 6 |
+| Armenia part — Appendix: "Very important chronology" — the book's closing timeline — story beats: the whole course is laid out on one dated line, from the first civilisations to the Reformation, for pupils to navigate by (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Armenia, *Համաշխարհային պատմություն 10 (World History 10), by Aram Boyajyan (Themes 1, 2, 4), Aram Nazaryan (Themes 1, 5, 6), Robert Ghazaryan (Theme 3)*, printed p. 169 |
+
+Armenia's own way (Book B6 — G10 World History Student (student book, Armenian)): Grade 10 World History is organised by civilisation rather than by date — each ancient society is presented through its "civilisation achievements" and what it left to the modern world, running from Egypt and Mesopotamia through Greece, Rome, Africa's empires and the Islamic world to the Reformation. That way is stocked here as the way Armenia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book B11 — G12 World History Student (student book, Armenian)**
+- Title as printed: Համաշխարհային պատմություն 12 (World History 12), by Vahram Petrosyan (Themes 1–3), Aram Nazaryan (Introduction, Themes 4, 6, Theme 5 §§19–20), Aram Kosyan (Theme 5 §§21–24); methodical part by Armine Sargsyan
+- Grade: 12 (student/teacher: STUDENT)
+- Publisher: Zangak (Զանգակ), Yerevan; year 2025; ISBN 978-9939-99-286-0; 160 printed pages
+- PDF pages: 160 (cover/title page verified against the record title; contents at printed pp. 3–4 and the Introduction, §1, §2 and §15 read in full)
+- Verdict: COMPLETE
+- Tally: 30 placements — 3 to existing lessons, 27 NEW LESSON NEEDED (three of the new slugs were first needed by Book 1 of this group)
+- Armenia's own way: the final school year drops chronology altogether and organises world history by six cross-cutting themes — Cooperation, Conflict, War, Problems of all mankind, The world at the modern stage, World culture in the newest period — each traced from the ancient world to today, with the Armenian Genocide as the anchor case of the genocide chapter.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — Appendix: chronology of important events — story beats: the thematic course is finally pinned to one dated line of the world's key events, ancient to modern (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Armenia, *Համաշխարհային պատմություն 12 (World History 12), by Vahram Petrosyan (Themes 1–3), Aram Nazaryan (Introduction, Themes 4, 6, Theme 5 §§19–20), Aram Kosyan (Theme 5 §§21–24); methodical part by Armine Sargsyan*, printed p. 154 |
+
+Armenia's own way (Book B11 — G12 World History Student (student book, Armenian)): the final school year drops chronology altogether and organises world history by six cross-cutting themes — Cooperation, Conflict, War, Problems of all mankind, The world at the modern stage, World culture in the newest period — each traced from the ancient world to today, with the Armenian Genocide as the anchor case of the genocide chapter. That way is stocked here as the way Armenia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 44 countries (Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia).**
+
+Searchable tags: Armenia, History expansion 2026-11-15, first-steps/dating-the-past

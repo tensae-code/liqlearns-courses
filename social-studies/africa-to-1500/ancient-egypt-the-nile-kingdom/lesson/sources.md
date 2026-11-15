@@ -1,6 +1,6 @@
 # Sources — Ancient Egypt — the Nile Kingdom
 
-countries: Ethiopia, Angola, Poland, Turkey, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Bolivia, Iran, Cambodia, Palestine, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba, China, Venezuela
+countries: Ethiopia, Angola, Poland, Turkey, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Bolivia, Iran, Cambodia, Palestine, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba, China, Venezuela, Armenia
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -926,3 +926,58 @@ Venezuela's own way (Book 10 — g8 Historia de la Humanidad (student book, Span
 **Acceptance count: taught in 34 countries (Ethiopia, Angola, Poland, Turkey, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Bolivia, Iran, Cambodia, Palestine, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba, China, Venezuela).**
 
 Searchable tags: Venezuela, History expansion 2026-11-15, africa-to-1500/ancient-egypt-the-nile-kingdom
+
+## History expansion (2026-11-15) — Armenia stocked
+
+**Book A1 — G7 World History student (student book, Armenian)**
+- Title as printed: «Համաշխարհային պատմություն 7» (World History 7) — Armen Khachikyan, Gagik Hovakimyan
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Edit Print, Yerevan; year 2023; ISBN no ISBN printed (176 printed pages)
+- PDF pages: 178 (cover/title page verified against the record title; TSV release record and books.json record are the same book)
+- Verdict: COMPLETE
+- Tally: see book-end tally after Theme 4
+- Armenia's own way: a single world-history arc from the first civilisations to the 1500s, taught theme by theme with a scored written test (with a points rubric printed on the page) closing Themes 1 and 2; every lesson opens with a "what is…" concept box, carries maps and numbered source pictures, and ends with a green "questions and tasks" box and a pink "new words and expressions" glossary strip; QR codes link out to extra material.
+- Book 1 tally: 68 placements — 44 to existing lessons, 24 NEW LESSON NEEDED
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — §2 The rise of the Egyptian civilisation — story beats: the Nile's floods feed one valley, Menes unites Upper and Lower Egypt about 3100 BCE, pharaohs raise pyramids, and the Hyksos invasion breaks the kingdom (History expansion, 2026-11-15; original placement slug: africa-to-1500/ancient-egypt-the-nile-kingdom) | Armenia, *«Համաշխարհային պատմություն 7» (World History 7) — Armen Khachikyan, Gagik Hovakimyan*, printed p. 11 |
+| Armenia part — §3 Egypt's economy and society — story beats: New Kingdom pharaohs Thutmose III and Ramesses II push Egypt's borders out, peasants lift Nile water with the shaduf, and Persia finally conquers the weakened land in 525 BCE (History expansion, 2026-11-15; original placement slug: africa-to-1500/ancient-egypt-the-nile-kingdom) | Armenia, *«Համաշխարհային պատմություն 7» (World History 7) — Armen Khachikyan, Gagik Hovakimyan*, printed p. 14 |
+
+Armenia's own way (Book A1 — G7 World History student (student book, Armenian)): a single world-history arc from the first civilisations to the 1500s, taught theme by theme with a scored written test (with a points rubric printed on the page) closing Themes 1 and 2; every lesson opens with a "what is…" concept box, carries maps and numbered source pictures, and ends with a green "questions and tasks" box and a pink "new words and expressions" glossary strip; QR codes link out to extra material. That way is stocked here as the way Armenia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book B6 — G10 World History Student (student book, Armenian)**
+- Title as printed: Համաշխարհային պատմություն 10 (World History 10), by Aram Boyajyan (Themes 1, 2, 4), Aram Nazaryan (Themes 1, 5, 6), Robert Ghazaryan (Theme 3)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Zangak (Զանգակ), Yerevan; year 2024; ISBN 978-9939-99-152-8; 176 printed pages
+- PDF pages: 180 (cover/title page verified against the record title; image-only PDF, read from page renders — cover, verso, contents at printed pp. 174–175, Theme 1 §1 and the Theme 2 and Theme 4 openers verified, remaining chapters placed from the printed contents)
+- Verdict: COMPLETE
+- Tally: 38 placements — 24 to existing lessons, 14 NEW LESSON NEEDED
+- Armenia's own way: Grade 10 World History is organised by civilisation rather than by date — each ancient society is presented through its "civilisation achievements" and what it left to the modern world, running from Egypt and Mesopotamia through Greece, Rome, Africa's empires and the Islamic world to the Reformation.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — Theme 2 §1: ancient Egyptian society and the civilisation's achievements — story beats: the Nile's flood makes a kingdom; pharaohs raise pyramids, priests keep the calendar and scribes write in hieroglyphs for three thousand years (History expansion, 2026-11-15; original placement slug: africa-to-1500/ancient-egypt-the-nile-kingdom) | Armenia, *Համաշխարհային պատմություն 10 (World History 10), by Aram Boyajyan (Themes 1, 2, 4), Aram Nazaryan (Themes 1, 5, 6), Robert Ghazaryan (Theme 3)*, printed p. 10 |
+
+Armenia's own way (Book B6 — G10 World History Student (student book, Armenian)): Grade 10 World History is organised by civilisation rather than by date — each ancient society is presented through its "civilisation achievements" and what it left to the modern world, running from Egypt and Mesopotamia through Greece, Rome, Africa's empires and the Islamic world to the Reformation. That way is stocked here as the way Armenia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book B7 — G10 World History Teacher (teacher guide, Armenian)**
+- Title as printed: Համաշխարհային պատմություն 10 — Մեթոդական ուղեցույց (World History 10, Methodical Guide), by Armine Sargsyan
+- Grade: 10 (student/teacher: TEACHER)
+- Publisher: Zangak (Զանգակ), Yerevan; year 2024; ISBN no ISBN printed on the pages rendered
+- PDF pages: 104 (cover/title page verified against the record title; image-only PDF, read from page renders — cover, Part One standard, contents at printed p. 100, Part Three source texts at printed p. 82 and the thematic plan at printed p. 88 verified)
+- Verdict: COMPLETE
+- Tally: 8 placements — 7 to existing lessons, 1 NEW LESSON NEEDED (the same new lesson as Book 6)
+- Armenia's own way: the guide mirrors the Grade 9 guide's shape — state standard and programme first, then teaching methodology and assessment, then worked source texts (Athens, Rome) and a full thematic plan keyed to the student book's six civilisation themes.
+
+This book is a teacher guide. The Armenia rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — Thematic plan, Theme 2: the civilisations of the Ancient East — story beats: Egypt, Mesopotamia, Iran, India and China are taught in sequence as the first great civilisation stories of the year (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: africa-to-1500/ancient-egypt-the-nile-kingdom) | Armenia, *Համաշխարհային պատմություն 10 — Մեթոդական ուղեցույց (World History 10, Methodical Guide), by Armine Sargsyan* (teacher guide — evidence), printed pp. 85–95 |
+
+Armenia's own way (Book B7 — G10 World History Teacher (teacher guide, Armenian)): the guide mirrors the Grade 9 guide's shape — state standard and programme first, then teaching methodology and assessment, then worked source texts (Athens, Rome) and a full thematic plan keyed to the student book's six civilisation themes. That way is stocked here as the way Armenia teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 35 countries (Ethiopia, Angola, Poland, Turkey, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Bolivia, Iran, Cambodia, Palestine, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba, China, Venezuela, Armenia).**
+
+Searchable tags: Armenia, History expansion 2026-11-15, africa-to-1500/ancient-egypt-the-nile-kingdom

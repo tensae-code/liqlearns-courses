@@ -1,0 +1,22 @@
+# Sources — Europes Revolutionary Decades 1830 To 1848
+
+countries: Armenia
+
+**Book A8 — G8 World History student: "New Times" (student book, Armenian)**
+- Title as printed: «Համաշխարհային պատմություն 8-րդ դասարան. Նոր ժամանակներ» (World History, Grade 8: New Times) — Aram Nazaryan, Aram Kosyan, Robert Ghazaryan
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: Zangak, Yerevan; year 2024; ISBN 978-9939-99-151-1 (176 printed pages; recommended by the RA Ministry of Education, Science, Culture and Sport; QR-linked audio/video materials)
+- PDF pages: 178 (title page verified against the record title; text PDF, read via extracted text and TOC)
+- Verdict: COMPLETE
+- Tally: 28 placements — 17 to existing lessons, 11 NEW LESSON NEEDED
+- Armenia's own way: the modern age is framed as a race of civilisations — societies are compared by which "path" they took into industrial society (a Western path, an Asian path, or crisis), a comparative frame Armenian pupils apply to their own country's past.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — §15 The revolutions of the 1830s–1840s in Europe — story beats: barricades rise from Paris to Vienna as liberals and nations demand constitutions — and are mostly beaten back (History expansion, 2026-11-15; original placement slug: modern-world/europes-revolutionary-decades-1830-to-1848) | Armenia, *«Համաշխարհային պատմություն 8-րդ դասարան. Նոր ժամանակներ» (World History, Grade 8: New Times) — Aram Nazaryan, Aram Kosyan, Robert Ghazaryan*, printed p. 106 |
+
+Armenia's own way (Book A8 — G8 World History student: "New Times" (student book, Armenian)): the modern age is framed as a race of civilisations — societies are compared by which "path" they took into industrial society (a Western path, an Asian path, or crisis), a comparative frame Armenian pupils apply to their own country's past. That way is stocked here as the way Armenia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 1 country (Armenia).**
+
+Searchable tags: Armenia, Europes Revolutionary Decades 1830 To 1848, modern-world/europes-revolutionary-decades-1830-to-1848, History expansion 2026-11-15

@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — Sparta, and Athens against Sparta
 
-countries: Ethiopia, Bangladesh, Montenegro, Pakistan, Iraq, Uzbekistan, North Macedonia, Venezuela, Moldova
+countries: Ethiopia, Bangladesh, Montenegro, Pakistan, Iraq, Uzbekistan, North Macedonia, Venezuela, Moldova, Armenia
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 6, placements 92–106).
 
@@ -184,3 +184,26 @@ Moldova's own way (Book 2 — moldova-g05-history (student book, Romanian)): a f
 **Acceptance count: taught in 9 countries (Ethiopia, Bangladesh, Montenegro, Pakistan, Iraq, Uzbekistan, North Macedonia, Venezuela, Moldova).**
 
 Searchable tags: Moldova, History expansion 2026-11-15, ancient-world/ancient-civilisations-sparta-and-athens-against-sparta
+
+## History expansion (2026-11-15) — Armenia stocked
+
+**Book A1 — G7 World History student (student book, Armenian)**
+- Title as printed: «Համաշխարհային պատմություն 7» (World History 7) — Armen Khachikyan, Gagik Hovakimyan
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Edit Print, Yerevan; year 2023; ISBN no ISBN printed (176 printed pages)
+- PDF pages: 178 (cover/title page verified against the record title; TSV release record and books.json record are the same book)
+- Verdict: COMPLETE
+- Tally: see book-end tally after Theme 4
+- Armenia's own way: a single world-history arc from the first civilisations to the 1500s, taught theme by theme with a scored written test (with a points rubric printed on the page) closing Themes 1 and 2; every lesson opens with a "what is…" concept box, carries maps and numbered source pictures, and ends with a green "questions and tasks" box and a pink "new words and expressions" glossary strip; QR codes link out to extra material.
+- Book 1 tally: 68 placements — 44 to existing lessons, 24 NEW LESSON NEEDED
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — §15 The Spartan state — story beats: Sparta masters the helots, Lycurgus' laws freeze society in place, two kings and the elders rule, and boys are raised in the agoge to fill the phalanx (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-sparta-and-athens-against-sparta) | Armenia, *«Համաշխարհային պատմություն 7» (World History 7) — Armen Khachikyan, Gagik Hovakimyan*, printed p. 48 |
+| Armenia part — §17 The Greco-Persian wars (500–449 BCE) — story beats: Darius' invasion breaks at Marathon in 490 BCE, Xerxes' host is stopped at Thermopylae and beaten at Salamis in 480 BCE, and Athens leads the Greek victory (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-sparta-and-athens-against-sparta) | Armenia, *«Համաշխարհային պատմություն 7» (World History 7) — Armen Khachikyan, Gagik Hovakimyan*, printed p. 54 |
+
+Armenia's own way (Book A1 — G7 World History student (student book, Armenian)): a single world-history arc from the first civilisations to the 1500s, taught theme by theme with a scored written test (with a points rubric printed on the page) closing Themes 1 and 2; every lesson opens with a "what is…" concept box, carries maps and numbered source pictures, and ends with a green "questions and tasks" box and a pink "new words and expressions" glossary strip; QR codes link out to extra material. That way is stocked here as the way Armenia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 10 countries (Ethiopia, Bangladesh, Montenegro, Pakistan, Iraq, Uzbekistan, North Macedonia, Venezuela, Moldova, Armenia).**
+
+Searchable tags: Armenia, History expansion 2026-11-15, ancient-world/ancient-civilisations-sparta-and-athens-against-sparta

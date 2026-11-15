@@ -1,6 +1,6 @@
 # Sources — From stone tools to farming — the Neolithic Revolution
 
-countries: Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus, Fiji, Dominican Republic, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, South Sudan, Libya, Mongolia, Iraq, Uganda, Mozambique, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Cuba, China, Venezuela, Moldova
+countries: Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus, Fiji, Dominican Republic, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, South Sudan, Libya, Mongolia, Iraq, Uganda, Mozambique, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Cuba, China, Venezuela, Moldova, Armenia
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -1054,3 +1054,40 @@ Moldova's own way (Book 2 — moldova-g05-history (student book, Romanian)): a f
 **Acceptance count: taught in 38 countries (Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus, Fiji, Dominican Republic, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, South Sudan, Libya, Mongolia, Iraq, Uganda, Mozambique, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Cuba, China, Venezuela, Moldova).**
 
 Searchable tags: Moldova, History expansion 2026-11-15, africa-to-1500/from-stone-tools-to-farming
+
+## History expansion (2026-11-15) — Armenia stocked
+
+**Book A1 — G7 World History student (student book, Armenian)**
+- Title as printed: «Համաշխարհային պատմություն 7» (World History 7) — Armen Khachikyan, Gagik Hovakimyan
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Edit Print, Yerevan; year 2023; ISBN no ISBN printed (176 printed pages)
+- PDF pages: 178 (cover/title page verified against the record title; TSV release record and books.json record are the same book)
+- Verdict: COMPLETE
+- Tally: see book-end tally after Theme 4
+- Armenia's own way: a single world-history arc from the first civilisations to the 1500s, taught theme by theme with a scored written test (with a points rubric printed on the page) closing Themes 1 and 2; every lesson opens with a "what is…" concept box, carries maps and numbered source pictures, and ends with a green "questions and tasks" box and a pink "new words and expressions" glossary strip; QR codes link out to extra material.
+- Book 1 tally: 68 placements — 44 to existing lessons, 24 NEW LESSON NEEDED
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — §1 The beginning of civilisation — story beats: farming peoples settle, clans join into tribes, bronze then iron tools change work, and surplus food lets the first civilisations rise (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Armenia, *«Համաշխարհային պատմություն 7» (World History 7) — Armen Khachikyan, Gagik Hovakimyan*, printed p. 6 |
+
+Armenia's own way (Book A1 — G7 World History student (student book, Armenian)): a single world-history arc from the first civilisations to the 1500s, taught theme by theme with a scored written test (with a points rubric printed on the page) closing Themes 1 and 2; every lesson opens with a "what is…" concept box, carries maps and numbered source pictures, and ends with a green "questions and tasks" box and a pink "new words and expressions" glossary strip; QR codes link out to extra material. That way is stocked here as the way Armenia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book A2 — G7 Armenian History student (student book, Armenian)**
+- Title as printed: «Հայոց պատմություն 7» (History of Armenia 7) — Smbat Kh. Hovhannisyan, ed. Mariam A. Karapetyan
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Masnakcayin Dprots (Participatory School), Yerevan; year 2023; ISBN 978-9939-1-1723-2 (176 printed pages; recommended by the RA Ministry of Education, Science, Culture and Sport)
+- PDF pages: 178 (cover/title page verified against the record title; TSV release record and books.json record are the same book)
+- Verdict: COMPLETE
+- Tally: 31 placements — 3 to existing lessons, 28 NEW LESSON NEEDED
+- Armenia's own way: the new-format national textbook — every chapter is built on named primary sources in "U" boxes (Xenophon, Strabo, Plutarch, Movses Khorenatsi, Ghazar Parpetsi) and modern historians (Gordon Childe, Robert Braidwood), with a skills ladder (present, explain, analyse, evaluate) printed at the front and a satellite-map chapter on the homeland itself.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — 1.2 The Neolithic revolution and the beginning of the Armenian people's formation — story beats: Gordon Childe's "Neolithic revolution" reaches the Highland about 12,000 years ago — farming, pottery and metal — and tribes slowly fuse into a people (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Armenia, *«Հայոց պատմություն 7» (History of Armenia 7) — Smbat Kh. Hovhannisyan, ed. Mariam A. Karapetyan*, printed p. 24 |
+
+Armenia's own way (Book A2 — G7 Armenian History student (student book, Armenian)): the new-format national textbook — every chapter is built on named primary sources in "U" boxes (Xenophon, Strabo, Plutarch, Movses Khorenatsi, Ghazar Parpetsi) and modern historians (Gordon Childe, Robert Braidwood), with a skills ladder (present, explain, analyse, evaluate) printed at the front and a satellite-map chapter on the homeland itself. That way is stocked here as the way Armenia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 39 countries (Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus, Fiji, Dominican Republic, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, South Sudan, Libya, Mongolia, Iraq, Uganda, Mozambique, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Cuba, China, Venezuela, Moldova, Armenia).**
+
+Searchable tags: Armenia, History expansion 2026-11-15, africa-to-1500/from-stone-tools-to-farming

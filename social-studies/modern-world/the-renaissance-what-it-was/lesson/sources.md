@@ -1,6 +1,6 @@
 # Sources — The Renaissance — what it was
 
-countries: Ethiopia, Poland, Costa Rica, Australia, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Iran, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia, Mozambique, Sudan, Uzbekistan, North Macedonia, Afghanistan, Cuba, China, Venezuela, Moldova
+countries: Ethiopia, Poland, Costa Rica, Australia, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Iran, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia, Mozambique, Sudan, Uzbekistan, North Macedonia, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -639,3 +639,72 @@ Moldova's own way (Book 3 — moldova-g06-history (student book, Romanian)): the
 **Acceptance count: taught in 25 countries (Ethiopia, Poland, Costa Rica, Australia, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Iran, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia, Mozambique, Sudan, Uzbekistan, North Macedonia, Afghanistan, Cuba, China, Venezuela, Moldova).**
 
 Searchable tags: Moldova, History expansion 2026-11-15, modern-world/the-renaissance-what-it-was
+
+## History expansion (2026-11-15) — Armenia stocked
+
+**Book A1 — G7 World History student (student book, Armenian)**
+- Title as printed: «Համաշխարհային պատմություն 7» (World History 7) — Armen Khachikyan, Gagik Hovakimyan
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Edit Print, Yerevan; year 2023; ISBN no ISBN printed (176 printed pages)
+- PDF pages: 178 (cover/title page verified against the record title; TSV release record and books.json record are the same book)
+- Verdict: COMPLETE
+- Tally: see book-end tally after Theme 4
+- Armenia's own way: a single world-history arc from the first civilisations to the 1500s, taught theme by theme with a scored written test (with a points rubric printed on the page) closing Themes 1 and 2; every lesson opens with a "what is…" concept box, carries maps and numbered source pictures, and ends with a green "questions and tasks" box and a pink "new words and expressions" glossary strip; QR codes link out to extra material.
+- Book 1 tally: 68 placements — 44 to existing lessons, 24 NEW LESSON NEEDED
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — §52 Changes in society and cultural life — story beats: Gutenberg's press (1445) puts books in many hands, universities and new academies spread, and a humanist curiosity turns Europe's eyes from heaven to man (History expansion, 2026-11-15; original placement slug: modern-world/the-renaissance-what-it-was) | Armenia, *«Համաշխարհային պատմություն 7» (World History 7) — Armen Khachikyan, Gagik Hovakimyan*, printed p. 156 |
+
+Armenia's own way (Book A1 — G7 World History student (student book, Armenian)): a single world-history arc from the first civilisations to the 1500s, taught theme by theme with a scored written test (with a points rubric printed on the page) closing Themes 1 and 2; every lesson opens with a "what is…" concept box, carries maps and numbered source pictures, and ends with a green "questions and tasks" box and a pink "new words and expressions" glossary strip; QR codes link out to extra material. That way is stocked here as the way Armenia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book A8 — G8 World History student: "New Times" (student book, Armenian)**
+- Title as printed: «Համաշխարհային պատմություն 8-րդ դասարան. Նոր ժամանակներ» (World History, Grade 8: New Times) — Aram Nazaryan, Aram Kosyan, Robert Ghazaryan
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: Zangak, Yerevan; year 2024; ISBN 978-9939-99-151-1 (176 printed pages; recommended by the RA Ministry of Education, Science, Culture and Sport; QR-linked audio/video materials)
+- PDF pages: 178 (title page verified against the record title; text PDF, read via extracted text and TOC)
+- Verdict: COMPLETE
+- Tally: 28 placements — 17 to existing lessons, 11 NEW LESSON NEEDED
+- Armenia's own way: the modern age is framed as a race of civilisations — societies are compared by which "path" they took into industrial society (a Western path, an Asian path, or crisis), a comparative frame Armenian pupils apply to their own country's past.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — §2 The Renaissance — story beats: Italian cities grow rich, and their artists and thinkers turn back to Greece and Rome to invent a new image of man (History expansion, 2026-11-15; original placement slug: modern-world/the-renaissance-what-it-was) | Armenia, *«Համաշխարհային պատմություն 8-րդ դասարան. Նոր ժամանակներ» (World History, Grade 8: New Times) — Aram Nazaryan, Aram Kosyan, Robert Ghazaryan*, printed p. 17 |
+
+Armenia's own way (Book A8 — G8 World History student: "New Times" (student book, Armenian)): the modern age is framed as a race of civilisations — societies are compared by which "path" they took into industrial society (a Western path, an Asian path, or crisis), a comparative frame Armenian pupils apply to their own country's past. That way is stocked here as the way Armenia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book B6 — G10 World History Student (student book, Armenian)**
+- Title as printed: Համաշխարհային պատմություն 10 (World History 10), by Aram Boyajyan (Themes 1, 2, 4), Aram Nazaryan (Themes 1, 5, 6), Robert Ghazaryan (Theme 3)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Zangak (Զանգակ), Yerevan; year 2024; ISBN 978-9939-99-152-8; 176 printed pages
+- PDF pages: 180 (cover/title page verified against the record title; image-only PDF, read from page renders — cover, verso, contents at printed pp. 174–175, Theme 1 §1 and the Theme 2 and Theme 4 openers verified, remaining chapters placed from the printed contents)
+- Verdict: COMPLETE
+- Tally: 38 placements — 24 to existing lessons, 14 NEW LESSON NEEDED
+- Armenia's own way: Grade 10 World History is organised by civilisation rather than by date — each ancient society is presented through its "civilisation achievements" and what it left to the modern world, running from Egypt and Mesopotamia through Greece, Rome, Africa's empires and the Islamic world to the Reformation.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — Theme 6 §1: the Renaissance — story beats: Italian cities rich on trade revive Greek and Roman learning, and artists from Giotto to Michelangelo remake the image of man (History expansion, 2026-11-15; original placement slug: modern-world/the-renaissance-what-it-was) | Armenia, *Համաշխարհային պատմություն 10 (World History 10), by Aram Boyajyan (Themes 1, 2, 4), Aram Nazaryan (Themes 1, 5, 6), Robert Ghazaryan (Theme 3)*, printed p. 134 |
+
+Armenia's own way (Book B6 — G10 World History Student (student book, Armenian)): Grade 10 World History is organised by civilisation rather than by date — each ancient society is presented through its "civilisation achievements" and what it left to the modern world, running from Egypt and Mesopotamia through Greece, Rome, Africa's empires and the Islamic world to the Reformation. That way is stocked here as the way Armenia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book B7 — G10 World History Teacher (teacher guide, Armenian)**
+- Title as printed: Համաշխարհային պատմություն 10 — Մեթոդական ուղեցույց (World History 10, Methodical Guide), by Armine Sargsyan
+- Grade: 10 (student/teacher: TEACHER)
+- Publisher: Zangak (Զանգակ), Yerevan; year 2024; ISBN no ISBN printed on the pages rendered
+- PDF pages: 104 (cover/title page verified against the record title; image-only PDF, read from page renders — cover, Part One standard, contents at printed p. 100, Part Three source texts at printed p. 82 and the thematic plan at printed p. 88 verified)
+- Verdict: COMPLETE
+- Tally: 8 placements — 7 to existing lessons, 1 NEW LESSON NEEDED (the same new lesson as Book 6)
+- Armenia's own way: the guide mirrors the Grade 9 guide's shape — state standard and programme first, then teaching methodology and assessment, then worked source texts (Athens, Rome) and a full thematic plan keyed to the student book's six civilisation themes.
+
+This book is a teacher guide. The Armenia rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — Thematic plan, Theme 6: Europe's social and cultural achievements — story beats: the Renaissance and the first scientific breakthroughs end the year by showing knowledge remaking society (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: modern-world/the-renaissance-what-it-was) | Armenia, *Համաշխարհային պատմություն 10 — Մեթոդական ուղեցույց (World History 10, Methodical Guide), by Armine Sargsyan* (teacher guide — evidence), printed pp. 85–95 |
+
+Armenia's own way (Book B7 — G10 World History Teacher (teacher guide, Armenian)): the guide mirrors the Grade 9 guide's shape — state standard and programme first, then teaching methodology and assessment, then worked source texts (Athens, Rome) and a full thematic plan keyed to the student book's six civilisation themes. That way is stocked here as the way Armenia teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 26 countries (Ethiopia, Poland, Costa Rica, Australia, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Iran, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia, Mozambique, Sudan, Uzbekistan, North Macedonia, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia).**
+
+Searchable tags: Armenia, History expansion 2026-11-15, modern-world/the-renaissance-what-it-was

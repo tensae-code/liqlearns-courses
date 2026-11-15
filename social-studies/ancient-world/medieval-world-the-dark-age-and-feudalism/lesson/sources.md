@@ -1,6 +1,6 @@
 # Sources — Medieval world — the Dark Age and feudalism
 
-countries: Ethiopia, Brazil, Poland, Costa Rica, Australia, Ecuador, Eritrea, Montenegro, Dominican Republic, Pakistan, Iran, Bulgaria, Cambodia, Colombia, Sri Lanka, Mongolia, Sudan, North Macedonia, Laos, Afghanistan, Cuba, China, Venezuela, Moldova
+countries: Ethiopia, Brazil, Poland, Costa Rica, Australia, Ecuador, Eritrea, Montenegro, Dominican Republic, Pakistan, Iran, Bulgaria, Cambodia, Colombia, Sri Lanka, Mongolia, Sudan, North Macedonia, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -653,3 +653,44 @@ Moldova's own way (Book 3 — moldova-g06-history (student book, Romanian)): the
 **Acceptance count: taught in 24 countries (Ethiopia, Brazil, Poland, Costa Rica, Australia, Ecuador, Eritrea, Montenegro, Dominican Republic, Pakistan, Iran, Bulgaria, Cambodia, Colombia, Sri Lanka, Mongolia, Sudan, North Macedonia, Laos, Afghanistan, Cuba, China, Venezuela, Moldova).**
 
 Searchable tags: Moldova, History expansion 2026-11-15, ancient-world/medieval-world-the-dark-age-and-feudalism
+
+## History expansion (2026-11-15) — Armenia stocked
+
+**Book A1 — G7 World History student (student book, Armenian)**
+- Title as printed: «Համաշխարհային պատմություն 7» (World History 7) — Armen Khachikyan, Gagik Hovakimyan
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Edit Print, Yerevan; year 2023; ISBN no ISBN printed (176 printed pages)
+- PDF pages: 178 (cover/title page verified against the record title; TSV release record and books.json record are the same book)
+- Verdict: COMPLETE
+- Tally: see book-end tally after Theme 4
+- Armenia's own way: a single world-history arc from the first civilisations to the 1500s, taught theme by theme with a scored written test (with a points rubric printed on the page) closing Themes 1 and 2; every lesson opens with a "what is…" concept box, carries maps and numbered source pictures, and ends with a green "questions and tasks" box and a pink "new words and expressions" glossary strip; QR codes link out to extra material.
+- Book 1 tally: 68 placements — 44 to existing lessons, 24 NEW LESSON NEEDED
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — §34 The Carolingian empire — story beats: Clovis founds the Frankish kingdom and takes Christianity, Charles Martel and Pepin build Carolingian power, and Charlemagne's empire revives a Roman crown in the West (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-dark-age-and-feudalism) | Armenia, *«Համաշխարհային պատմություն 7» (World History 7) — Armen Khachikyan, Gagik Hovakimyan*, printed p. 103 |
+| Armenia part — §38 European feudal society — story beats: kings grant land down a ladder of vassals to knights, peasants work the lord's fields with the three-field system, and castles and a money-less natural economy hold the order together (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-dark-age-and-feudalism) | Armenia, *«Համաշխարհային պատմություն 7» (World History 7) — Armen Khachikyan, Gagik Hovakimyan*, printed p. 115 |
+| Armenia part — §49 Changes in the feudal society of Europe — story beats: the Black Death kills a third of Europe, peasants revolt from France to England, towns and guilds shift the balance, and kings begin gathering feudal Europe into centralised states (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-dark-age-and-feudalism) | Armenia, *«Համաշխարհային պատմություն 7» (World History 7) — Armen Khachikyan, Gagik Hovakimyan*, printed p. 147 |
+
+Armenia's own way (Book A1 — G7 World History student (student book, Armenian)): a single world-history arc from the first civilisations to the 1500s, taught theme by theme with a scored written test (with a points rubric printed on the page) closing Themes 1 and 2; every lesson opens with a "what is…" concept box, carries maps and numbered source pictures, and ends with a green "questions and tasks" box and a pink "new words and expressions" glossary strip; QR codes link out to extra material. That way is stocked here as the way Armenia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book A6 — G7 Social Science teacher guide, authors' edition a15432 (teacher guide, Armenian) — COMBINED SUBJECT: History parts placed**
+- Title as printed: «"Հասարակագիտություն" առարկայի 7-րդ դասարանի դասագրքի օգտագործման մեթոդական ուղեցույց» (Methodological Guide for Using the Grade 7 Social Science Textbook) — H. Bayadyan, D. Stepanyan, V. Soghomonyan (the student book's own authors)
+- Grade: 7 (student/teacher: TEACHER)
+- Publisher: Yerevan; year 2023; ISBN no ISBN printed in the pages checked
+- PDF pages: 110 (cover verified against the record title; text PDF, read via extracted text)
+- Other parts (named, NOT placed): lesson plans for the nature/environment, cognition, morality, aesthetics, law, economy and politics chapters of the student book
+- Verdict: COMPLETE (History parts placed)
+- Tally: 4 placements — 2 to existing lessons, 2 NEW LESSON NEEDED
+
+This book is a teacher guide. The Armenia rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — Lesson plan for §2.1, feudal society and the historical growth of cities — story beats: feudal ranks and the slow swelling of town populations show how the medieval world was organised (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-dark-age-and-feudalism) | Armenia, *«"Հասարակագիտություն" առարկայի 7-րդ դասարանի դասագրքի օգտագործման մեթոդական ուղեցույց» (Methodological Guide for Using the Grade 7 Social Science Textbook) — H. Bayadyan, D. Stepanyan, V. Soghomonyan (the student book's own authors)* (teacher guide — evidence), §2.1 plan |
+
+Armenia's own way (Book A6 — G7 Social Science teacher guide, authors' edition a15432 (teacher guide, Armenian) — COMBINED SUBJECT: History parts placed): no separate own-way note is filed for this book; the rows above are stocked exactly as filed. That way is stocked here as the way Armenia teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 25 countries (Ethiopia, Brazil, Poland, Costa Rica, Australia, Ecuador, Eritrea, Montenegro, Dominican Republic, Pakistan, Iran, Bulgaria, Cambodia, Colombia, Sri Lanka, Mongolia, Sudan, North Macedonia, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia).**
+
+Searchable tags: Armenia, History expansion 2026-11-15, ancient-world/medieval-world-the-dark-age-and-feudalism

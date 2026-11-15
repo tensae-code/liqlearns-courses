@@ -1,6 +1,6 @@
 # Sources — From evidence to a written history
 
-countries: Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Bulgaria, Palestine, Colombia, South Sudan, Mongolia, Samoa, Mozambique, Jordan, Uzbekistan, North Macedonia, Afghanistan, Cuba, Venezuela, Moldova
+countries: Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Bulgaria, Palestine, Colombia, South Sudan, Mongolia, Samoa, Mozambique, Jordan, Uzbekistan, North Macedonia, Afghanistan, Cuba, Venezuela, Moldova, Armenia
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -1684,3 +1684,141 @@ Moldova's own way (Book 2 — moldova-g05-history (student book, Romanian)): a f
 **Acceptance count: taught in 39 countries (Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Bulgaria, Palestine, Colombia, South Sudan, Mongolia, Samoa, Mozambique, Jordan, Uzbekistan, North Macedonia, Afghanistan, Cuba, Venezuela, Moldova).**
 
 Searchable tags: Moldova, History expansion 2026-11-15, first-steps/from-evidence-to-a-written-history
+
+## History expansion (2026-11-15) — Armenia stocked
+
+**Book A2 — G7 Armenian History student (student book, Armenian)**
+- Title as printed: «Հայոց պատմություն 7» (History of Armenia 7) — Smbat Kh. Hovhannisyan, ed. Mariam A. Karapetyan
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Masnakcayin Dprots (Participatory School), Yerevan; year 2023; ISBN 978-9939-1-1723-2 (176 printed pages; recommended by the RA Ministry of Education, Science, Culture and Sport)
+- PDF pages: 178 (cover/title page verified against the record title; TSV release record and books.json record are the same book)
+- Verdict: COMPLETE
+- Tally: 31 placements — 3 to existing lessons, 28 NEW LESSON NEEDED
+- Armenia's own way: the new-format national textbook — every chapter is built on named primary sources in "U" boxes (Xenophon, Strabo, Plutarch, Movses Khorenatsi, Ghazar Parpetsi) and modern historians (Gordon Childe, Robert Braidwood), with a skills ladder (present, explain, analyse, evaluate) printed at the front and a satellite-map chapter on the homeland itself.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — How to work with this textbook — story beats: pupils learn to interrogate the book's source boxes, maps and timelines — evidence first, then the written history built from it (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Armenia, *«Հայոց պատմություն 7» (History of Armenia 7) — Smbat Kh. Hovhannisyan, ed. Mariam A. Karapetyan*, printed p. 5 |
+
+Armenia's own way (Book A2 — G7 Armenian History student (student book, Armenian)): the new-format national textbook — every chapter is built on named primary sources in "U" boxes (Xenophon, Strabo, Plutarch, Movses Khorenatsi, Ghazar Parpetsi) and modern historians (Gordon Childe, Robert Braidwood), with a skills ladder (present, explain, analyse, evaluate) printed at the front and a satellite-map chapter on the homeland itself. That way is stocked here as the way Armenia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book A4 — G7 Armenian History teacher guide (teacher guide, Armenian)**
+- Title as printed: «Հայոց պատմություն. Մեթոդական ուղեցույց. 7-րդ դասարան» (History of Armenia: Methodological Guide for the Textbook, Grade 7) — Smbat Hovhannisyan, ed. Mariam M. Karapetyan
+- Grade: 7 (student/teacher: TEACHER)
+- Publisher: Masnakcayin Dprots (Participatory School), Yerevan; year 2023; ISBN 978-9939-1-1729-4 (188 printed pages; recommended by the RA Ministry of Education, Science, Culture and Sport)
+- PDF pages: 190 (cover verified against the record title; text PDF, read via extracted text. NOTE: the tree route for the books.json twin returned HTTP 404 — the file was read via its TSV release twin instead; see library debts)
+- Verdict: COMPLETE
+- Tally: 6 placements — 1 to existing lessons, 5 NEW LESSON NEEDED
+- Armenia's own way: the guide teaches participatory, competency-based lessons — the author-teacher is told to build every lesson on the textbook's source boxes and discussion questions, with a printed summary-and-assessment block closing each of the seven themes.
+
+This book is a teacher guide. The Armenia rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — The guide's method: participatory lessons built on sources — story beats: the teacher is shown how each chapter's Xenophon, Strabo or Khorenatsi extract becomes class evidence from which pupils build their own account (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Armenia, *«Հայոց պատմություն. Մեթոդական ուղեցույց. 7-րդ դասարան» (History of Armenia: Methodological Guide for the Textbook, Grade 7) — Smbat Hovhannisyan, ed. Mariam M. Karapetyan* (teacher guide — evidence), opening chapters |
+
+Armenia's own way (Book A4 — G7 Armenian History teacher guide (teacher guide, Armenian)): the guide teaches participatory, competency-based lessons — the author-teacher is told to build every lesson on the textbook's source boxes and discussion questions, with a printed summary-and-assessment block closing each of the seven themes. That way is stocked here as the way Armenia teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book A10 — G8 Armenian History student (student book, Armenian)**
+- Title as printed: «Հայոց պատմություն 8. Դասագիրք հանրակրթական դպրոցի համար» (History of Armenia 8, textbook for general schools) — Smbat Kh. Hovhannisyan, Ala A. Kharatyan, Zaruhi A. Hakobyan
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: Yerevan; year 2024; ISBN no ISBN printed in the pages checked
+- PDF pages: 114 (cover verified against the record title; text PDF, read via extracted text and TOC)
+- Verdict: COMPLETE
+- Tally: 17 placements — 2 to existing lessons, 15 NEW LESSON NEEDED
+- Armenia's own way: each chapter is framed as a civilisational challenge and Armenia's answer to it — conquest is met with alliance, statelessness with a kingdom in Cilicia, division with liberation plans printed as far away as Madras.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — Introduction: how to work with this textbook — story beats: "Voices from the past" source boxes, glossaries and 3D monastery models teach pupils to rebuild events from testimony (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Armenia, *«Հայոց պատմություն 8. Դասագիրք հանրակրթական դպրոցի համար» (History of Armenia 8, textbook for general schools) — Smbat Kh. Hovhannisyan, Ala A. Kharatyan, Zaruhi A. Hakobyan*, printed p. 5 |
+
+Armenia's own way (Book A10 — G8 Armenian History student (student book, Armenian)): each chapter is framed as a civilisational challenge and Armenia's answer to it — conquest is met with alliance, statelessness with a kingdom in Cilicia, division with liberation plans printed as far away as Madras. That way is stocked here as the way Armenia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book A11 — G8 Armenian History teacher guide (teacher guide, Armenian)**
+- Title as printed: «Հայոց պատմություն. Դասագրքի օգտագործման մեթոդական ուղեցույց» (History of Armenia: Methodological Guide for Using the Textbook) — Smbat Kh. Hovhannisyan
+- Grade: 8 (student/teacher: TEACHER)
+- Publisher: Masnakcayin Dprots (Participatory School), Yerevan; year 2024; ISBN no ISBN printed in the pages checked
+- PDF pages: 182 (cover verified against the record title; text PDF, read via extracted text)
+- Verdict: COMPLETE
+- Tally: 5 placements — 1 to existing lessons, 4 NEW LESSON NEEDED
+- Armenia's own way: like its Grade 7 companion, the guide builds participatory lessons on the textbook's "Voices from the past" sources — for the stateless centuries the sources themselves (chronicles, travellers, party programmes) carry the national story.
+
+This book is a teacher guide. The Armenia rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — The guide's method for the medieval and early-modern centuries — story beats: teachers turn chronicle extracts and travellers' accounts into the evidence from which pupils rebuild a divided Armenia (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Armenia, *«Հայոց պատմություն. Դասագրքի օգտագործման մեթոդական ուղեցույց» (History of Armenia: Methodological Guide for Using the Textbook) — Smbat Kh. Hovhannisyan* (teacher guide — evidence), opening chapters |
+
+Armenia's own way (Book A11 — G8 Armenian History teacher guide (teacher guide, Armenian)): like its Grade 7 companion, the guide builds participatory lessons on the textbook's "Voices from the past" sources — for the stateless centuries the sources themselves (chronicles, travellers, party programmes) carry the national story. That way is stocked here as the way Armenia teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book B1 — G9 World History Teacher (teacher guide, Armenian)**
+- Title as printed: Համաշխարհային պատմություն 9 — Մեթոդական ուղեցույց / Ուսուցչի ձեռնարկ (World History 9, Methodical Guide / Teacher's Manual), by Armine Sargsyan
+- Grade: 9 (student/teacher: TEACHER)
+- Publisher: Zangak (Զանգակ), Yerevan; year 2025; ISBN no ISBN printed (HTD/GMD shown as 000 placeholders)
+- PDF pages: 112 (cover/title page verified against the record title; verso states 108 printed pages)
+- Verdict: COMPLETE as published — note the printed contents list gives Part Three page numbers (105, 121) that do not match this 108-page book; the book itself ends with the thematic plan, bibliography and contents, so the contents page numbers appear to be an error in the book, not missing pages
+- Tally: 24 placements — 12 to existing lessons, 12 NEW LESSON NEEDED
+- Armenia's own way: Grade 9 World History is taught as five big themes running from the crisis of civilisation before 1914 to the scientific-technical revolution, with the teacher guide carrying the full state standard, Bloom-verb methodology, primary-source work and a 68-lesson thematic plan (2 hrs/week) rather than lesson text.
+
+This book is a teacher guide. The Armenia rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — Part Two §3: working with primary sources — story beats: letters, photographs, documents and objects disagree with each other, and the historian's craft is to question them, choose between viewpoints and build the account (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Armenia, *Համաշխարհային պատմություն 9 — Մեթոդական ուղեցույց / Ուսուցչի ձեռնարկ (World History 9, Methodical Guide / Teacher's Manual), by Armine Sargsyan* (teacher guide — evidence), printed p. 46 |
+
+Armenia's own way (Book B1 — G9 World History Teacher (teacher guide, Armenian)): Grade 9 World History is taught as five big themes running from the crisis of civilisation before 1914 to the scientific-technical revolution, with the teacher guide carrying the full state standard, Bloom-verb methodology, primary-source work and a 68-lesson thematic plan (2 hrs/week) rather than lesson text. That way is stocked here as the way Armenia teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book B3 — G9 History of Armenia Teacher (teacher guide, Armenian)**
+- Title as printed: Հայաստանի պատմություն 9 — Մեթոդական ուղեցույց (History of Armenia 9, Methodical Guide)
+- Grade: 9 (student/teacher: TEACHER)
+- Publisher: "Masnakcayin dproc" (Մասնակցային դպրոց) NGO, Yerevan; year 2025; ISBN no ISBN printed
+- PDF pages: 176 (cover/title page verified against the record title)
+- Verdict: COMPLETE — note: much of this PDF's text layer is set in non-Unicode fonts, so several pages extract as garbled characters even though the pages render correctly; headings and the thematic plan were verified from the readable sections and page renders
+- Tally: 11 placements — 3 to existing lessons, 8 NEW LESSON NEEDED (the same new Armenia lessons as Book 2, here at theme-guide level)
+- Armenia's own way: the guide teaches the national story through historical-thinking skills first (facts vs interpretations, source criticism, historical consciousness), then gives a per-theme teaching guide for the student book's eight themes, with lesson plans keyed to the student chapters.
+
+This book is a teacher guide. The Armenia rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — §7: expected learning outcomes and assessing source-based work — story beats: pupils' written histories are judged on how they handle evidence — sources chosen, compared and cited — not on retelling alone (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Armenia, *Հայաստանի պատմություն 9 — Մեթոդական ուղեցույց (History of Armenia 9, Methodical Guide)* (teacher guide — evidence), printed p. 51 |
+
+Armenia's own way (Book B3 — G9 History of Armenia Teacher (teacher guide, Armenian)): the guide teaches the national story through historical-thinking skills first (facts vs interpretations, source criticism, historical consciousness), then gives a per-theme teaching guide for the student book's eight themes, with lesson plans keyed to the student chapters. That way is stocked here as the way Armenia teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book B7 — G10 World History Teacher (teacher guide, Armenian)**
+- Title as printed: Համաշխարհային պատմություն 10 — Մեթոդական ուղեցույց (World History 10, Methodical Guide), by Armine Sargsyan
+- Grade: 10 (student/teacher: TEACHER)
+- Publisher: Zangak (Զանգակ), Yerevan; year 2024; ISBN no ISBN printed on the pages rendered
+- PDF pages: 104 (cover/title page verified against the record title; image-only PDF, read from page renders — cover, Part One standard, contents at printed p. 100, Part Three source texts at printed p. 82 and the thematic plan at printed p. 88 verified)
+- Verdict: COMPLETE
+- Tally: 8 placements — 7 to existing lessons, 1 NEW LESSON NEEDED (the same new lesson as Book 6)
+- Armenia's own way: the guide mirrors the Grade 9 guide's shape — state standard and programme first, then teaching methodology and assessment, then worked source texts (Athens, Rome) and a full thematic plan keyed to the student book's six civilisation themes.
+
+This book is a teacher guide. The Armenia rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — Part Three §2: historical sources, worked texts on Athens and Rome with questions — story beats: pupils interrogate ancient authors on Athens' restored democracy and Rome's wars, learning to squeeze evidence from a text before believing it (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Armenia, *Համաշխարհային պատմություն 10 — Մեթոդական ուղեցույց (World History 10, Methodical Guide), by Armine Sargsyan* (teacher guide — evidence), printed p. 82 |
+
+Armenia's own way (Book B7 — G10 World History Teacher (teacher guide, Armenian)): the guide mirrors the Grade 9 guide's shape — state standard and programme first, then teaching methodology and assessment, then worked source texts (Athens, Rome) and a full thematic plan keyed to the student book's six civilisation themes. That way is stocked here as the way Armenia teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book B12 — G12 World History Teacher (teacher guide, Armenian)**
+- Title as printed: Համաշխարհային պատմություն XII դասարան — Ուսուցչի ձեռնարկ (World History, Grade 12 — Teacher's Manual), by Armine Sargsyan
+- Grade: 12 (student/teacher: TEACHER)
+- Publisher: Zangak (Զանգակ), Yerevan; year 2025; ISBN no ISBN printed; 123 printed pages
+- PDF pages: 126 (cover/title page verified against the record title; Part One standard and programme read in full, Part Three source section and thematic plan located and verified)
+- Verdict: COMPLETE
+- Tally: 8 placements — 2 to existing lessons, 6 NEW LESSON NEEDED (all six reuse the new slugs first needed by Book 11)
+- Armenia's own way: the guide states the standard's own definition — history is the memory of the individual, the nation and all mankind — and builds the final year on four master ideas (civilisation, change, global interaction, system) and sixteen sub-concepts, with every theme cross-linked to Armenian history ("Armenia and the wars", "Armenia and the conflicts", "Armenia and world culture").
+
+This book is a teacher guide. The Armenia rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — Part Three §2: historical sources — story beats: teachers are given worked source material for the thematic course, keeping evidence-work inside a year otherwise organised by concepts (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Armenia, *Համաշխարհային պատմություն XII դասարան — Ուսուցչի ձեռնարկ (World History, Grade 12 — Teacher's Manual), by Armine Sargsyan* (teacher guide — evidence), printed p. 89 |
+
+Armenia's own way (Book B12 — G12 World History Teacher (teacher guide, Armenian)): the guide states the standard's own definition — history is the memory of the individual, the nation and all mankind — and builds the final year on four master ideas (civilisation, change, global interaction, system) and sixteen sub-concepts, with every theme cross-linked to Armenian history ("Armenia and the wars", "Armenia and the conflicts", "Armenia and world culture"). That way is stocked here as the way Armenia teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 40 countries (Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Bulgaria, Palestine, Colombia, South Sudan, Mongolia, Samoa, Mozambique, Jordan, Uzbekistan, North Macedonia, Afghanistan, Cuba, Venezuela, Moldova, Armenia).**
+
+Searchable tags: Armenia, History expansion 2026-11-15, first-steps/from-evidence-to-a-written-history

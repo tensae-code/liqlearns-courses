@@ -1,6 +1,6 @@
 # Sources — Fact or opinion? Reading the past critically
 
-countries: Ethiopia, Jordan, Switzerland, Kuwait, Finland, Egypt, North Macedonia
+countries: Ethiopia, Jordan, Switzerland, Kuwait, Finland, Egypt, North Macedonia, Armenia
 
 **Book 1:** *History, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, Addis Ababa, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-064-2, 210 printed pp. Printed page = PDF page − 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g09-student-placements.md
 
@@ -254,3 +254,71 @@ North Macedonia's own way (Book 3 — Istorija I (History I), Grade 10 (student 
 **Acceptance count: taught in 7 countries (Ethiopia, Jordan, Switzerland, Kuwait, Finland, Egypt, North Macedonia).**
 
 Searchable tags: North Macedonia, History expansion 2026-11-15, first-steps/fact-or-opinion
+
+## History expansion (2026-11-15) — Armenia stocked
+
+**Book A12 — G8 Social Science student (student book, Armenian) — COMBINED SUBJECT: History parts placed; other parts named, not placed**
+- Title as printed: «Հասարակագիտություն 8» (Social Science 8) — Davit Stepanyan, Davit Tumasyan, Hrach Bayadyan, Vahram Soghomonyan, Siranush Tonoyan
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: Yerevan; year 2023; ISBN no ISBN printed in the pages checked
+- PDF pages: 114 (cover verified against the record title; text PDF, read via extracted text and TOC)
+- Other parts (named, NOT placed): Ch. 1 The fundamental values of democracy (pp. 8–31); Ch. 2 §§2.2–2.4 rights and freedoms today (pp. 43–63); Ch. 3 Thinking and social problems (pp. 64–83); Ch. 4 §§4.1–4.2 power and leadership (pp. 84–96)
+- Verdict: COMPLETE (History parts placed)
+- Tally: 2 placements — 1 to existing lessons, 1 NEW LESSON NEEDED
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — §§4.3–4.4 Carrying out a study project; studying material with media-literacy skills — story beats: pupils learn to test a claim against its source before believing or repeating it (History expansion, 2026-11-15; original placement slug: first-steps/fact-or-opinion) | Armenia, *«Հասարակագիտություն 8» (Social Science 8) — Davit Stepanyan, Davit Tumasyan, Hrach Bayadyan, Vahram Soghomonyan, Siranush Tonoyan*, printed pp. 97, 107 |
+
+Armenia's own way (Book A12 — G8 Social Science student (student book, Armenian) — COMBINED SUBJECT: History parts placed; other parts named, not placed): no separate own-way note is filed for this book; the rows above are stocked exactly as filed. That way is stocked here as the way Armenia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book B2 — G9 History of Armenia Student (student book, Armenian)**
+- Title as printed: Հայաստանի պատմություն 9 — Դասագիրք հանրակրթական դպրոցի համար (History of Armenia 9, textbook for general-education schools), by Gevorg Kesoyan, Vahagn Hakobyan, Nzhdeh Hovsepyan, Hrachin Vardanyan, Ala Kharatyan, Tatevik Hambardzumyan, Aghasi Tadevosyan
+- Grade: 9 (student/teacher: STUDENT)
+- Publisher: "Masnakcayin dproc" (Մասնակցային դպրոց) NGO, Yerevan; year 2025; ISBN no ISBN printed; approved by the RA Ministry of Education, Science, Culture and Sport; 176 printed pages
+- PDF pages: 178 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 42 placements — 1 to existing lessons, 41 NEW LESSON NEEDED
+- Armenia's own way: Armenia's own 20th century is taught as one continuous national story — genocide, a first republic won and lost, seventy Soviet years, then the Karabakh movement carrying the nation to a third republic — with culture, everyday life and the diaspora given their own sections inside the political story, and every chapter closing with a "why this matters today" page.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — Preface: how history is formed — why distinguish facts from interpretations — story beats: the same news is told differently on different channels, so pupils learn to split the hard fact (a battle's date, a treaty) from the teller's interpretation before the course begins (History expansion, 2026-11-15; original placement slug: first-steps/fact-or-opinion) | Armenia, *Հայաստանի պատմություն 9 — Դասագիրք հանրակրթական դպրոցի համար (History of Armenia 9, textbook for general-education schools), by Gevorg Kesoyan, Vahagn Hakobyan, Nzhdeh Hovsepyan, Hrachin Vardanyan, Ala Kharatyan, Tatevik Hambardzumyan, Aghasi Tadevosyan*, printed p. 3 |
+
+Armenia's own way (Book B2 — G9 History of Armenia Student (student book, Armenian)): Armenia's own 20th century is taught as one continuous national story — genocide, a first republic won and lost, seventy Soviet years, then the Karabakh movement carrying the nation to a third republic — with culture, everyday life and the diaspora given their own sections inside the political story, and every chapter closing with a "why this matters today" page. That way is stocked here as the way Armenia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book B3 — G9 History of Armenia Teacher (teacher guide, Armenian)**
+- Title as printed: Հայաստանի պատմություն 9 — Մեթոդական ուղեցույց (History of Armenia 9, Methodical Guide)
+- Grade: 9 (student/teacher: TEACHER)
+- Publisher: "Masnakcayin dproc" (Մասնակցային դպրոց) NGO, Yerevan; year 2025; ISBN no ISBN printed
+- PDF pages: 176 (cover/title page verified against the record title)
+- Verdict: COMPLETE — note: much of this PDF's text layer is set in non-Unicode fonts, so several pages extract as garbled characters even though the pages render correctly; headings and the thematic plan were verified from the readable sections and page renders
+- Tally: 11 placements — 3 to existing lessons, 8 NEW LESSON NEEDED (the same new Armenia lessons as Book 2, here at theme-guide level)
+- Armenia's own way: the guide teaches the national story through historical-thinking skills first (facts vs interpretations, source criticism, historical consciousness), then gives a per-theme teaching guide for the student book's eight themes, with lesson plans keyed to the student chapters.
+
+This book is a teacher guide. The Armenia rows from this book below stand on it as teacher-guide evidence only, labelled as such, and counted nowhere in the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — §1: forming history — separating facts from interpretations in the classroom — story beats: the same event reaches pupils through different tellers, and the guide trains teachers to make pupils split the checkable fact from the teller's judgement (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/fact-or-opinion) | Armenia, *Հայաստանի պատմություն 9 — Մեթոդական ուղեցույց (History of Armenia 9, Methodical Guide)* (teacher guide — evidence), printed p. 10 |
+
+Armenia's own way (Book B3 — G9 History of Armenia Teacher (teacher guide, Armenian)): the guide teaches the national story through historical-thinking skills first (facts vs interpretations, source criticism, historical consciousness), then gives a per-theme teaching guide for the student book's eight themes, with lesson plans keyed to the student chapters. That way is stocked here as the way Armenia teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book B11 — G12 World History Student (student book, Armenian)**
+- Title as printed: Համաշխարհային պատմություն 12 (World History 12), by Vahram Petrosyan (Themes 1–3), Aram Nazaryan (Introduction, Themes 4, 6, Theme 5 §§19–20), Aram Kosyan (Theme 5 §§21–24); methodical part by Armine Sargsyan
+- Grade: 12 (student/teacher: STUDENT)
+- Publisher: Zangak (Զանգակ), Yerevan; year 2025; ISBN 978-9939-99-286-0; 160 printed pages
+- PDF pages: 160 (cover/title page verified against the record title; contents at printed pp. 3–4 and the Introduction, §1, §2 and §15 read in full)
+- Verdict: COMPLETE
+- Tally: 30 placements — 3 to existing lessons, 27 NEW LESSON NEEDED (three of the new slugs were first needed by Book 1 of this group)
+- Armenia's own way: the final school year drops chronology altogether and organises world history by six cross-cutting themes — Cooperation, Conflict, War, Problems of all mankind, The world at the modern stage, World culture in the newest period — each traced from the ancient world to today, with the Armenian Genocide as the anchor case of the genocide chapter.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — Appendix: glossary of terms and concepts — story beats: the closing glossary trains the exact vocabulary — conflict, cooperation, genocide, integration — in which the whole course has taught pupils to argue (History expansion, 2026-11-15; original placement slug: first-steps/fact-or-opinion) | Armenia, *Համաշխարհային պատմություն 12 (World History 12), by Vahram Petrosyan (Themes 1–3), Aram Nazaryan (Introduction, Themes 4, 6, Theme 5 §§19–20), Aram Kosyan (Theme 5 §§21–24); methodical part by Armine Sargsyan*, printed p. 148 |
+
+Armenia's own way (Book B11 — G12 World History Student (student book, Armenian)): the final school year drops chronology altogether and organises world history by six cross-cutting themes — Cooperation, Conflict, War, Problems of all mankind, The world at the modern stage, World culture in the newest period — each traced from the ancient world to today, with the Armenian Genocide as the anchor case of the genocide chapter. That way is stocked here as the way Armenia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 8 countries (Ethiopia, Jordan, Switzerland, Kuwait, Finland, Egypt, North Macedonia, Armenia).**
+
+Searchable tags: Armenia, History expansion 2026-11-15, first-steps/fact-or-opinion

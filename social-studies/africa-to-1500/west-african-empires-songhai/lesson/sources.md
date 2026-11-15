@@ -1,6 +1,6 @@
 # Sources — West African Empires — Songhai
 
-countries: Ethiopia, Mauritania, Mozambique, Yemen
+countries: Ethiopia, Mauritania, Mozambique, Yemen, Armenia
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (placement 87).
 
@@ -102,3 +102,24 @@ Yemen's own way (Book 10 — G11 History Part 2 (student book, Arabic)): Part 2 
 **Acceptance count: taught in 4 countries (Ethiopia, Mauritania, Mozambique, Yemen).**
 
 Searchable tags: Yemen, History expansion 2026-11-15, africa-to-1500/west-african-empires-songhai
+
+## History expansion (2026-11-15) — Armenia stocked
+
+**Book B6 — G10 World History Student (student book, Armenian)**
+- Title as printed: Համաշխարհային պատմություն 10 (World History 10), by Aram Boyajyan (Themes 1, 2, 4), Aram Nazaryan (Themes 1, 5, 6), Robert Ghazaryan (Theme 3)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Zangak (Զանգակ), Yerevan; year 2024; ISBN 978-9939-99-152-8; 176 printed pages
+- PDF pages: 180 (cover/title page verified against the record title; image-only PDF, read from page renders — cover, verso, contents at printed pp. 174–175, Theme 1 §1 and the Theme 2 and Theme 4 openers verified, remaining chapters placed from the printed contents)
+- Verdict: COMPLETE
+- Tally: 38 placements — 24 to existing lessons, 14 NEW LESSON NEEDED
+- Armenia's own way: Grade 10 World History is organised by civilisation rather than by date — each ancient society is presented through its "civilisation achievements" and what it left to the modern world, running from Egypt and Mesopotamia through Greece, Rome, Africa's empires and the Islamic world to the Reformation.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — Theme 4 §6: Songhai society in the medieval period — story beats: Mali's successor empire under Askia the Great orders the Niger bend with law, armies and learned Timbuktu (History expansion, 2026-11-15; original placement slug: africa-to-1500/west-african-empires-songhai) | Armenia, *Համաշխարհային պատմություն 10 (World History 10), by Aram Boyajyan (Themes 1, 2, 4), Aram Nazaryan (Themes 1, 5, 6), Robert Ghazaryan (Theme 3)*, printed p. 85 |
+
+Armenia's own way (Book B6 — G10 World History Student (student book, Armenian)): Grade 10 World History is organised by civilisation rather than by date — each ancient society is presented through its "civilisation achievements" and what it left to the modern world, running from Egypt and Mesopotamia through Greece, Rome, Africa's empires and the Islamic world to the Reformation. That way is stocked here as the way Armenia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 5 countries (Ethiopia, Mauritania, Mozambique, Yemen, Armenia).**
+
+Searchable tags: Armenia, History expansion 2026-11-15, africa-to-1500/west-african-empires-songhai

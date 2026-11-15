@@ -1,6 +1,6 @@
 # Sources — Germany unifies — Bismarck, Blood and Iron, Versailles 1871
 
-countries: Ethiopia, Cambodia, South Sudan, Iraq, Yemen, Sudan, Uzbekistan, North Macedonia, Cuba, China, Moldova
+countries: Ethiopia, Cambodia, South Sudan, Iraq, Yemen, Sudan, Uzbekistan, North Macedonia, Cuba, China, Moldova, Armenia
 
 **Book 1:** *History, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN 978-99990-0-065-9, printed by GRAVITY GROUP IND LLC, Sharjah, UAE. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g10-student-placements.md
 
@@ -297,3 +297,24 @@ Moldova's own way (Book 7 — moldova-g11-history (student book, Romanian)): the
 **Acceptance count: taught in 11 countries (Ethiopia, Cambodia, South Sudan, Iraq, Yemen, Sudan, Uzbekistan, North Macedonia, Cuba, China, Moldova).**
 
 Searchable tags: Moldova, History expansion 2026-11-15, modern-world/germany-unifies-bismarck-blood-and-iron
+
+## History expansion (2026-11-15) — Armenia stocked
+
+**Book A8 — G8 World History student: "New Times" (student book, Armenian)**
+- Title as printed: «Համաշխարհային պատմություն 8-րդ դասարան. Նոր ժամանակներ» (World History, Grade 8: New Times) — Aram Nazaryan, Aram Kosyan, Robert Ghazaryan
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: Zangak, Yerevan; year 2024; ISBN 978-9939-99-151-1 (176 printed pages; recommended by the RA Ministry of Education, Science, Culture and Sport; QR-linked audio/video materials)
+- PDF pages: 178 (title page verified against the record title; text PDF, read via extracted text and TOC)
+- Verdict: COMPLETE
+- Tally: 28 placements — 17 to existing lessons, 11 NEW LESSON NEEDED
+- Armenia's own way: the modern age is framed as a race of civilisations — societies are compared by which "path" they took into industrial society (a Western path, an Asian path, or crisis), a comparative frame Armenian pupils apply to their own country's past.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — §10 The Western path: Germany — story beats: a patchwork of states is welded into one empire behind Prussia's armies and Bismarck's diplomacy (History expansion, 2026-11-15; original placement slug: modern-world/germany-unifies-bismarck-blood-and-iron) | Armenia, *«Համաշխարհային պատմություն 8-րդ դասարան. Նոր ժամանակներ» (World History, Grade 8: New Times) — Aram Nazaryan, Aram Kosyan, Robert Ghazaryan*, printed p. 69 |
+
+Armenia's own way (Book A8 — G8 World History student: "New Times" (student book, Armenian)): the modern age is framed as a race of civilisations — societies are compared by which "path" they took into industrial society (a Western path, an Asian path, or crisis), a comparative frame Armenian pupils apply to their own country's past. That way is stocked here as the way Armenia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 12 countries (Ethiopia, Cambodia, South Sudan, Iraq, Yemen, Sudan, Uzbekistan, North Macedonia, Cuba, China, Moldova, Armenia).**
+
+Searchable tags: Armenia, History expansion 2026-11-15, modern-world/germany-unifies-bismarck-blood-and-iron

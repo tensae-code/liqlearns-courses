@@ -1,6 +1,6 @@
 # Sources — Capitalism — private ownership, factories, new classes
 
-countries: Ethiopia, Brazil, Australia, Ecuador, Dominican Republic, Colombia, Mongolia, Samoa, Iraq, Uzbekistan, Laos, Cuba, China, Moldova
+countries: Ethiopia, Brazil, Australia, Ecuador, Dominican Republic, Colombia, Mongolia, Samoa, Iraq, Uzbekistan, Laos, Cuba, China, Moldova, Armenia
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -401,3 +401,24 @@ Moldova's own way (Book 7 — moldova-g11-history (student book, Romanian)): the
 **Acceptance count: taught in 14 countries (Ethiopia, Brazil, Australia, Ecuador, Dominican Republic, Colombia, Mongolia, Samoa, Iraq, Uzbekistan, Laos, Cuba, China, Moldova).**
 
 Searchable tags: Moldova, History expansion 2026-11-15, modern-world/capitalism-private-ownership-factories-new-classes
+
+## History expansion (2026-11-15) — Armenia stocked
+
+**Book A8 — G8 World History student: "New Times" (student book, Armenian)**
+- Title as printed: «Համաշխարհային պատմություն 8-րդ դասարան. Նոր ժամանակներ» (World History, Grade 8: New Times) — Aram Nazaryan, Aram Kosyan, Robert Ghazaryan
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: Zangak, Yerevan; year 2024; ISBN 978-9939-99-151-1 (176 printed pages; recommended by the RA Ministry of Education, Science, Culture and Sport; QR-linked audio/video materials)
+- PDF pages: 178 (title page verified against the record title; text PDF, read via extracted text and TOC)
+- Verdict: COMPLETE
+- Tally: 28 placements — 17 to existing lessons, 11 NEW LESSON NEEDED
+- Armenia's own way: the modern age is framed as a race of civilisations — societies are compared by which "path" they took into industrial society (a Western path, an Asian path, or crisis), a comparative frame Armenian pupils apply to their own country's past.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — §9 The formation of the new society — story beats: factories gather workers under one roof, and two new classes — owners and wage-workers — face each other (History expansion, 2026-11-15; original placement slug: modern-world/capitalism-private-ownership-factories-new-classes) | Armenia, *«Համաշխարհային պատմություն 8-րդ դասարան. Նոր ժամանակներ» (World History, Grade 8: New Times) — Aram Nazaryan, Aram Kosyan, Robert Ghazaryan*, printed p. 63 |
+
+Armenia's own way (Book A8 — G8 World History student: "New Times" (student book, Armenian)): the modern age is framed as a race of civilisations — societies are compared by which "path" they took into industrial society (a Western path, an Asian path, or crisis), a comparative frame Armenian pupils apply to their own country's past. That way is stocked here as the way Armenia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 15 countries (Ethiopia, Brazil, Australia, Ecuador, Dominican Republic, Colombia, Mongolia, Samoa, Iraq, Uzbekistan, Laos, Cuba, China, Moldova, Armenia).**
+
+Searchable tags: Armenia, History expansion 2026-11-15, modern-world/capitalism-private-ownership-factories-new-classes

@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — the Great Wall and China's gifts
 
-countries: Ethiopia, Australia, India, Pakistan, Palestine, Colombia, Jordan, Uzbekistan, China
+countries: Ethiopia, Australia, India, Pakistan, Palestine, Colombia, Jordan, Uzbekistan, China, Armenia
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 6, placements 92–106).
 
@@ -203,3 +203,25 @@ China's own way (Book 12 — cn-g12e (student book, Chinese)): Culture itself is
 **Acceptance count: taught in 9 countries (Ethiopia, Australia, India, Pakistan, Palestine, Colombia, Jordan, Uzbekistan, China).**
 
 Searchable tags: China, History expansion 2026-11-15, ancient-world/ancient-civilisations-the-great-wall-and-chinas-gifts
+
+## History expansion (2026-11-15) — Armenia stocked
+
+**Book A1 — G7 World History student (student book, Armenian)**
+- Title as printed: «Համաշխարհային պատմություն 7» (World History 7) — Armen Khachikyan, Gagik Hovakimyan
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Edit Print, Yerevan; year 2023; ISBN no ISBN printed (176 printed pages)
+- PDF pages: 178 (cover/title page verified against the record title; TSV release record and books.json record are the same book)
+- Verdict: COMPLETE
+- Tally: see book-end tally after Theme 4
+- Armenia's own way: a single world-history arc from the first civilisations to the 1500s, taught theme by theme with a scored written test (with a points rubric printed on the page) closing Themes 1 and 2; every lesson opens with a "what is…" concept box, carries maps and numbered source pictures, and ends with a green "questions and tasks" box and a pink "new words and expressions" glossary strip; QR codes link out to extra material.
+- Book 1 tally: 68 placements — 44 to existing lessons, 24 NEW LESSON NEEDED
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — §11 China's gifts (closing part) — story beats: Qin Shi Huang raises the Great Wall against the steppe, and Han China gives the world paper, silk and the compass (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-the-great-wall-and-chinas-gifts) | Armenia, *«Համաշխարհային պատմություն 7» (World History 7) — Armen Khachikyan, Gagik Hovakimyan*, printed p. 37 |
+
+Armenia's own way (Book A1 — G7 World History student (student book, Armenian)): a single world-history arc from the first civilisations to the 1500s, taught theme by theme with a scored written test (with a points rubric printed on the page) closing Themes 1 and 2; every lesson opens with a "what is…" concept box, carries maps and numbered source pictures, and ends with a green "questions and tasks" box and a pink "new words and expressions" glossary strip; QR codes link out to extra material. That way is stocked here as the way Armenia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 10 countries (Ethiopia, Australia, India, Pakistan, Palestine, Colombia, Jordan, Uzbekistan, China, Armenia).**
+
+Searchable tags: Armenia, History expansion 2026-11-15, ancient-world/ancient-civilisations-the-great-wall-and-chinas-gifts

@@ -1,6 +1,6 @@
 # Sources — The Migration of Peoples — the Huns and the fall of Rome
 
-countries: Turkey, Montenegro, Bulgaria, Mongolia, North Macedonia, Moldova
+countries: Turkey, Montenegro, Bulgaria, Mongolia, North Macedonia, Moldova, Armenia
 
 **Book 2:** *Ortaöğretim Tarih 9 Ders Kitabı (Secondary Education History 9 Textbook)* (student book, Turkish) — Turkey. Title as printed: Ortaöğretim Tarih 9 Ders Kitabı (Secondary Education History 9 Textbook). Grade: Grade 9 (student/teacher: STUDENT). Publisher: T.C. Millî Eğitim Bakanlığı (MEB), Türkiye, 2021 (per record); ISBN 978-975-11-5258-9. PDF pages: 225 (cover verified: TARİH 9, Ortaöğretim Ders Kitabı, MEB). Verdict: COMPLETE. Tally: 25 placements — 8 to existing lessons, 17 NEW LESSON NEEDED. Records: TSV blob record + books.json twin of the same repo path = one book. Read in full from its text layer; cover verified visually. Non-History parts named: none — the whole book is History. Placements at liqlearns-courses-work/expansion-history-2026-11-15/turkey-placements.md.
 
@@ -146,3 +146,25 @@ Moldova's own way (Book 2 — moldova-g05-history (student book, Romanian)): a f
 **Acceptance count: taught in 6 countries (Turkey, Montenegro, Bulgaria, Mongolia, North Macedonia, Moldova).**
 
 Searchable tags: Moldova, History expansion 2026-11-15, ancient-world/the-migration-of-peoples-huns-and-the-fall-of-rome
+
+## History expansion (2026-11-15) — Armenia stocked
+
+**Book A1 — G7 World History student (student book, Armenian)**
+- Title as printed: «Համաշխարհային պատմություն 7» (World History 7) — Armen Khachikyan, Gagik Hovakimyan
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Edit Print, Yerevan; year 2023; ISBN no ISBN printed (176 printed pages)
+- PDF pages: 178 (cover/title page verified against the record title; TSV release record and books.json record are the same book)
+- Verdict: COMPLETE
+- Tally: see book-end tally after Theme 4
+- Armenia's own way: a single world-history arc from the first civilisations to the 1500s, taught theme by theme with a scored written test (with a points rubric printed on the page) closing Themes 1 and 2; every lesson opens with a "what is…" concept box, carries maps and numbered source pictures, and ends with a green "questions and tasks" box and a pink "new words and expressions" glossary strip; QR codes link out to extra material.
+- Book 1 tally: 68 placements — 44 to existing lessons, 24 NEW LESSON NEEDED
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — §33 "The Great Migration of peoples": new states arise in Europe — story beats: the Huns' arrival in 375 sets peoples moving, Alaric's Goths sack Rome in 410, Vandals follow in 455, and Germanic kingdoms — Franks, Ostrogoths, Anglo-Saxons, Lombards — replace the West by 568 (History expansion, 2026-11-15; original placement slug: ancient-world/the-great-migration-of-peoples) | Armenia, *«Համաշխարհային պատմություն 7» (World History 7) — Armen Khachikyan, Gagik Hovakimyan*, printed p. 100 |
+
+Armenia's own way (Book A1 — G7 World History student (student book, Armenian)): a single world-history arc from the first civilisations to the 1500s, taught theme by theme with a scored written test (with a points rubric printed on the page) closing Themes 1 and 2; every lesson opens with a "what is…" concept box, carries maps and numbered source pictures, and ends with a green "questions and tasks" box and a pink "new words and expressions" glossary strip; QR codes link out to extra material. That way is stocked here as the way Armenia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 7 countries (Turkey, Montenegro, Bulgaria, Mongolia, North Macedonia, Moldova, Armenia).**
+
+Searchable tags: Armenia, History expansion 2026-11-15, ancient-world/the-migration-of-peoples-huns-and-the-fall-of-rome

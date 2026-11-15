@@ -1,6 +1,6 @@
 # Sources — Macedonia and Alexander the Great
 
-countries: Montenegro, Pakistan, North Macedonia, Moldova
+countries: Montenegro, Pakistan, North Macedonia, Moldova, Armenia
 
 **Book 1:** *ИСТОРИЈА за шести разред основне школе* (student book, Montenegrin) — Montenegro. Title as printed: ИСТОРИЈА за шести разред основне школе (Istorija za šesti razred osnovne škole — History for the Sixth Grade of Primary School), DAISY edition. Grade: Grade 6 (student/teacher: STUDENT). Publisher: Zavod za udžbenike i nastavna sredstva (ЗУНС), Podgorica; year 2016; no ISBN printed (the DAISY package metadata carries none). PDF pages: no PDF — DAISY ZIP (339,462,410 bytes, 457 entries); printed book runs to p. 113+ (text read in full from dtbook.xml, 598,153 bytes). Verdict: COMPLETE. Tally: 23 placements — 13 to existing lessons, 10 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/montenegro-placements.md.
 
@@ -70,3 +70,25 @@ Moldova's own way (Book 2 — moldova-g05-history (student book, Romanian)): a f
 **Acceptance count: taught in 4 countries (Montenegro, Pakistan, North Macedonia, Moldova).**
 
 Searchable tags: Moldova, History expansion 2026-11-15, ancient-world/macedonia-and-alexander-the-great
+
+## History expansion (2026-11-15) — Armenia stocked
+
+**Book A1 — G7 World History student (student book, Armenian)**
+- Title as printed: «Համաշխարհային պատմություն 7» (World History 7) — Armen Khachikyan, Gagik Hovakimyan
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Edit Print, Yerevan; year 2023; ISBN no ISBN printed (176 printed pages)
+- PDF pages: 178 (cover/title page verified against the record title; TSV release record and books.json record are the same book)
+- Verdict: COMPLETE
+- Tally: see book-end tally after Theme 4
+- Armenia's own way: a single world-history arc from the first civilisations to the 1500s, taught theme by theme with a scored written test (with a points rubric printed on the page) closing Themes 1 and 2; every lesson opens with a "what is…" concept box, carries maps and numbered source pictures, and ends with a green "questions and tasks" box and a pink "new words and expressions" glossary strip; QR codes link out to extra material.
+- Book 1 tally: 68 placements — 44 to existing lessons, 24 NEW LESSON NEEDED
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — §20 The empire of Alexander the Great — story beats: Philip II unites Greece at Chaeronea, his son Alexander smashes Persia at Issus and Gaugamela, founds Alexandria, marches to India and dies at Babylon in 323 BCE (History expansion, 2026-11-15; original placement slug: ancient-world/alexander-the-great-and-his-empire) | Armenia, *«Համաշխարհային պատմություն 7» (World History 7) — Armen Khachikyan, Gagik Hovakimyan*, printed p. 63 |
+
+Armenia's own way (Book A1 — G7 World History student (student book, Armenian)): a single world-history arc from the first civilisations to the 1500s, taught theme by theme with a scored written test (with a points rubric printed on the page) closing Themes 1 and 2; every lesson opens with a "what is…" concept box, carries maps and numbered source pictures, and ends with a green "questions and tasks" box and a pink "new words and expressions" glossary strip; QR codes link out to extra material. That way is stocked here as the way Armenia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 5 countries (Montenegro, Pakistan, North Macedonia, Moldova, Armenia).**
+
+Searchable tags: Armenia, History expansion 2026-11-15, ancient-world/macedonia-and-alexander-the-great

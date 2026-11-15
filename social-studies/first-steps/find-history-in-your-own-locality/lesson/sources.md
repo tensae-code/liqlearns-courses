@@ -1,6 +1,6 @@
 # Sources — Find history in your own locality
 
-countries: Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala, Malaysia, Ecuador, Bahamas, Eritrea, Nepal, Belarus, Fiji, Indonesia, Finland, Egypt, Syria, Suriname, Colombia, South Sudan, Samoa, Iraq, Mozambique, Yemen, Jordan, Laos, Cuba, China, Moldova
+countries: Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala, Malaysia, Ecuador, Bahamas, Eritrea, Nepal, Belarus, Fiji, Indonesia, Finland, Egypt, Syria, Suriname, Colombia, South Sudan, Samoa, Iraq, Mozambique, Yemen, Jordan, Laos, Cuba, China, Moldova, Armenia
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -1276,3 +1276,25 @@ Moldova's own way (Book 8 — moldova-g12-history (student book, Romanian)): the
 **Acceptance count: taught in 29 countries (Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala, Malaysia, Ecuador, Bahamas, Eritrea, Nepal, Belarus, Fiji, Indonesia, Finland, Egypt, Syria, Suriname, Colombia, South Sudan, Samoa, Iraq, Mozambique, Yemen, Jordan, Laos, Cuba, China, Moldova).**
 
 Searchable tags: Moldova, History expansion 2026-11-15, first-steps/find-history-in-your-own-locality
+
+## History expansion (2026-11-15) — Armenia stocked
+
+**Book A5 — G7 Social Science student (student book, Armenian) — COMBINED SUBJECT: History parts placed; other parts named, not placed**
+- Title as printed: «Հասարակագիտություն 7. Դասագիրք հանրակրթական դպրոցի համար» (Social Science 7, textbook for general schools) — Hrach Bayadyan, Davit Stepanyan, Vahram Soghomonyan
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Yerevan; year 2023; ISBN no ISBN printed in the pages checked (144 printed pages; conforms to the RA state standard of 2021)
+- PDF pages: 146 (cover verified against the record title; text PDF, read via extracted text and TOC)
+- Other parts (named, NOT placed): Ch. 1 Man and nature / environment (pp. 12–27, except §1.2 below); Ch. 3 Man, cognition and behaviour (pp. 42–55); Ch. 4 Man and morality (pp. 56–71); Ch. 5 Man and beauty — aesthetics and art (pp. 72–89); Ch. 6 Law in our life, §§6.1–6.2 (pp. 90–96); Ch. 7 Man and the economy (pp. 102–127); Ch. 8 Man and politics (pp. 128–139); explanatory glossary (p. 140)
+- Verdict: COMPLETE (History parts placed)
+- Tally: 4 placements — 2 to existing lessons, 2 NEW LESSON NEEDED
+- Armenia's own way: a civics course that keeps reaching back into history — eras are sorted by tools, and the rights chapter gives Armenia's own 1773 Madras constitution draft a place in the world timeline of rights.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — §1.1 field task: visit the History Museum of Armenia and the Erebuni museum-reserve — story beats: the class is sent to stand where Yerevan began — Erebuni's fortress stones as the city's own first page (History expansion, 2026-11-15; original placement slug: first-steps/find-history-in-your-own-locality) | Armenia, *«Հասարակագիտություն 7. Դասագիրք հանրակրթական դպրոցի համար» (Social Science 7, textbook for general schools) — Hrach Bayadyan, Davit Stepanyan, Vahram Soghomonyan*, printed p. 25 |
+
+Armenia's own way (Book A5 — G7 Social Science student (student book, Armenian) — COMBINED SUBJECT: History parts placed; other parts named, not placed): a civics course that keeps reaching back into history — eras are sorted by tools, and the rights chapter gives Armenia's own 1773 Madras constitution draft a place in the world timeline of rights. That way is stocked here as the way Armenia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 30 countries (Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala, Malaysia, Ecuador, Bahamas, Eritrea, Nepal, Belarus, Fiji, Indonesia, Finland, Egypt, Syria, Suriname, Colombia, South Sudan, Samoa, Iraq, Mozambique, Yemen, Jordan, Laos, Cuba, China, Moldova, Armenia).**
+
+Searchable tags: Armenia, History expansion 2026-11-15, first-steps/find-history-in-your-own-locality
