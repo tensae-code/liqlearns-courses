@@ -68,3 +68,13 @@ Gabon's own way (Grade 5): the final primary year widens out — ancient Egypt, 
 Eritrea's own way (Grade 8): the whole modern national story is told as one chain of resistance — Turks, Egyptians, Abyssinians, Italians, British, federation, armed struggle — every invader met by named Eritrean resisters, from Bahri Negassi Yeshaq and Woldemichael Solomon to Hamid Idris Awate. That way is stocked here as the way Eritrea teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 3 countries (Ethiopia, Rwanda, Eritrea).**
+
+**Book (Zimbabwe Grade 5):** *PlusOne Social Science Grade 5 Teacher's Guide* (teacher guide, English) — Zimbabwe. Title as printed: PlusOne Social Science Grade 5 Teacher's Guide (author Moreblessing Masuka; cover shows children playing nhodo). Grade: Grade 5 (student/teacher: TEACHER). Publisher: Secondary Book Press, Harare; year 2025; ISBN 978-1-77928-507-2. PDF pages: 163 (cover/title page verified against the record title). Verdict: COMPLETE. Tally: 12 placements — 8 to existing lessons, 4 NEW LESSON NEEDED. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-history-2026-11-15/zimbabwe-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Zimbabwe part — Topic 2, Unit 8 Effects of first contact with Europeans — agreements and land dispossession — story beats: the pen does what the spear has not — leaders are tricked into signing agreements, fertile land is lost, and displacement and broken customs follow (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: africa-after-1500/colonisation-the-road-to-the-scramble) | Zimbabwe, *PlusOne Social Science Grade 5 Teacher's Guide* (teacher guide — evidence), printed p. 26 |
+
+Zimbabwe's own way (Grade 5): the road to colonisation is taught from the receiving end — agreements signed under trickery and the land lost by signature before it was lost by war. That way is stocked here as the way Zimbabwe teaches this thing. This book is a teacher guide: its row stands as teacher-guide evidence only, counted nowhere in acceptance. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 3 countries (Ethiopia, Rwanda, Eritrea) — unchanged; the Zimbabwe placement above is teacher-guide evidence only, counted nowhere. Zimbabwe is not added to this lesson's countries line.**

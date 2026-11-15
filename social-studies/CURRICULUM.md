@@ -10982,3 +10982,90 @@ books' non-History parts (Geography, Civics/values
 in the placements file) stay named in the stocked
 sources, not placed.
 History lessons: 724 → 753.
+
+
+## History expansion — Zimbabwe — built 2026-11-15
+
+18 new lessons, 172 questions. **Africa to 1500** +4:
+Zimbabwe — totems, clans and family names
+(africa-to-1500/zimbabwe-totems-clans-and-family-names),
+Zimbabwe's early people — the Khoisan and the Bantu
+migration (africa-to-1500/zimbabwe-early-people-khoisan-and-bantu),
+Zimbabwe's pre-colonial states — Mutapa, Rozvi and the
+Ndebele (africa-to-1500/zimbabwe-precolonial-states-mutapa-rozvi-and-ndebele),
+and Zimbabwe — family life before the colony
+(africa-to-1500/zimbabwe-precolonial-family-life).
+**Africa after 1500** +14: Zimbabwe — my country, its
+anthem and its flag
+(africa-after-1500/zimbabwe-my-country-anthem-and-flag),
+Zimbabwe — culture, language and respect for elders
+(africa-after-1500/zimbabwe-culture-language-and-respect-for-elders),
+Zimbabwe — my country and its peoples
+(africa-after-1500/zimbabwe-my-country-and-its-peoples),
+Zimbabwe — Ubuntu, Unhu, Vumunhu: a person through other
+people (africa-after-1500/zimbabwe-ubuntu-unhu-vumunhu),
+Zimbabwe — Independence Day and Heroes Day
+(africa-after-1500/zimbabwe-independence-and-heroes-day),
+Zimbabwe's heroes — from Nehanda to the liberation war
+(africa-after-1500/zimbabwe-heroes-from-nehanda-to-the-liberation-war),
+Zimbabwe — indigenous knowledge systems
+(africa-after-1500/zimbabwe-indigenous-knowledge-systems),
+Zimbabwe — work and leisure, past and present
+(africa-after-1500/zimbabwe-work-and-leisure-past-and-present),
+Zimbabwe — transport and communication through time
+(africa-after-1500/zimbabwe-transport-and-communication-through-time),
+Zimbabwe colonised — the Rudd Concession and the Pioneer
+Column (africa-after-1500/zimbabwe-colonisation-rudd-concession-and-the-pioneer-column),
+Zimbabwe — the First Chimurenga, 1896–97
+(africa-after-1500/zimbabwe-first-chimurenga-1896-97),
+Zimbabwe — the Second Chimurenga and independence
+(africa-after-1500/zimbabwe-second-chimurenga-and-independence),
+Zimbabwe — how settlements grew
+(africa-after-1500/zimbabwe-how-settlements-grew), and
+Zimbabwe — land reform and the return of the land
+(africa-after-1500/zimbabwe-land-reform-and-the-return-of-the-land).
+All 72 Zimbabwe placements are stocked (38 into 9
+existing lessons — Find history in your own locality 10,
+Heritage — what it is and why it matters 15, Southern
+African States — Great Zimbabwe 5, Comparing states 3,
+From stone tools to farming 1, Explorers and missionaries
+map the interior 1, Colonisation — the road to the
+Scramble 1, Why Europe colonised 1, Southern Africa —
+liberation at gunpoint 1 — and 34 into the 18 new
+lessons) on the nine placed PlusOne Social Science
+teacher's guides (ECD A, ECD B, Grades 1–7; Secondary
+Book Press, Harare, 2025). HONESTY: all nine books are
+TEACHER GUIDES, so every Zimbabwe placement is cited as
+teacher-guide evidence only, OUTSIDE acceptance counts —
+Zimbabwe is named in every stocked lesson but counted
+nowhere; no existing lesson's acceptance count changes,
+and the 18 new lessons carry acceptance 0. Heritage —
+what it is and why it matters already named Zimbabwe as
+teacher-guide evidence from the Geography expansion; the
+15 History placements there add depth on the same
+footing. The Grade 4 guide's garbled answer-key line —
+the Bantu "migrated from central Africa in Kenya" — is
+kept as printed and flagged in the early-people lesson,
+not silently corrected; the ECD B guide's imprint page
+misprints the ECD A ISBN and running title (publisher
+error), carried as filed. The books' non-History parts
+(work and leisure, transport and communication, shelter,
+global issues, managing change, etiquette, entitlements,
+health, career guidance, religion, social services) stay
+named in the stocked sources, not placed. Zimbabwe's own
+way is stocked inside the lessons: the Heritage-Based
+Curriculum starts History as the child's own story —
+name, totem, family, locality — then the nation (anthem,
+flag colours as land, minerals, heroes' blood, the
+people; the pledge; Independence and Heroes Days), then
+heritage split into things you can touch and things you
+do and say, carried by Ubuntu/Unhu/Vumunhu; the deep past
+enters at Grade 4 (Khoisan, then the Bantu migration),
+the pre-colonial states are compared in tables at
+Grade 5, and Grade 6 tells the full national narrative in
+four acts — colonisation by treaty trickery and the
+Pioneer Column, the First Chimurenga, the Second
+Chimurenga, and the symbols-and-holidays settlement —
+closing at Grade 7 with independence defined and the
+land question faced straight.
+History lessons: 753 → 771.

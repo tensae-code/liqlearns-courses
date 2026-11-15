@@ -258,3 +258,13 @@ Non-History parts of this book, named in the placements, not placed here: Unit 1
 Kuwait's own way (Grade 9 Term 1): Grade 9 Term 1 is an environment book, but it opens the human story at the beginning — cave, farm, factory, screen — as the frame for every environmental problem that follows. That way is stocked here as the way Kuwait teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 11 countries (Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait).**
+
+**Book (Zimbabwe Grade 4):** *PlusOne Social Science Grade 4 Teacher's Guide* (teacher guide, English) — Zimbabwe. Title as printed: PlusOne Social Science Grade 4 Teacher's Guide (author Moreblessing Masuka). Grade: Grade 4 (student/teacher: TEACHER). Publisher: Secondary Book Press, Harare; year 2025; ISBN 978-1-77928-498-3. PDF pages: 164 (cover/title page verified against the record title). Verdict: COMPLETE. Tally: 10 placements — 6 to existing lessons, 4 NEW LESSON NEEDED. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-history-2026-11-15/zimbabwe-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Zimbabwe part — Topic 2, Unit 5 The early people of Zimbabwe — Khoisan — story beats: the first Zimbabweans hunt with bows, poisoned arrows and stone tools, move with food and water, wear animal skins, speak in clicks, and paint their lives on rock (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Zimbabwe, *PlusOne Social Science Grade 4 Teacher's Guide* (teacher guide — evidence), printed p. 16 |
+
+Zimbabwe's own way (Grade 4): Zimbabwe's deep past enters at Grade 4 — the Khoisan first, then the Bantu migration of about 2,000 years ago with iron and farming — taught by group research and presentation, and immediately cashed out as heritage: the languages, stone cities and plant medicines modern Zimbabwe still lives on. That way is stocked here as the way Zimbabwe teaches this thing. This book is a teacher guide: its row stands as teacher-guide evidence only, counted nowhere in acceptance. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 11 countries (Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait) — unchanged; the Zimbabwe placement above is teacher-guide evidence only, counted nowhere. Zimbabwe is not added to this lesson's countries line.**

@@ -69,3 +69,13 @@ Costa Rica's own way (Costa Rica Grade 10 CONED Antología): The Décimo antholo
 Australia's own way (Australia Retroactive 2 (Stage 5)): Stage 5 turns the same depth-study method onto the modern world, but Australia is now the protagonist: convicts and settlers, nation-making, Gallipoli and the Anzac legend, conscription's division, the Darwin bombing the government hushed up, the Freedom Ride, Mabo, the Apology, Maralinga — world events are always landed on Australian soil. That way is stocked here as the way Australia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 4 countries (Ethiopia, Rwanda, Costa Rica, Australia).**
+
+**Book (Zimbabwe Grade 6):** *PlusOne Social Science Grade 6 Teacher's Guide* (teacher guide, English) — Zimbabwe. Title as printed: PlusOne Social Science Grade 6 Teacher's Guide (author Moreblessing Masuka). Grade: Grade 6 (student/teacher: TEACHER). Publisher: Secondary Book Press, Harare; year 2025; ISBN 978-1-77928-502-7. PDF pages: 147 (cover/title page verified against the record title). Verdict: COMPLETE. Tally: 14 placements — 5 to existing lessons, 9 NEW LESSON NEEDED. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-history-2026-11-15/zimbabwe-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Zimbabwe part — Topic 2, Unit 7 Colonisation of Zimbabwe — reasons — story beats: Britain's shopping list is named plainly — cheap labour, raw materials, land — and Rhodes's Cape-to-Cairo dream stretches over the whole map (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: africa-after-1500/why-europe-colonised-motives-and-the-civilizing-mission) | Zimbabwe, *PlusOne Social Science Grade 6 Teacher's Guide* (teacher guide — evidence), printed p. 14 |
+
+Zimbabwe's own way (Grade 6): the motives are named from the colonised side, as a shopping list — cheap labour, raw materials, land — with Rhodes's Cape-to-Cairo dream drawn over the whole map. That way is stocked here as the way Zimbabwe teaches this thing. This book is a teacher guide: its row stands as teacher-guide evidence only, counted nowhere in acceptance. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 4 countries (Ethiopia, Rwanda, Costa Rica, Australia) — unchanged; the Zimbabwe placement above is teacher-guide evidence only, counted nowhere. Zimbabwe is not added to this lesson's countries line.**

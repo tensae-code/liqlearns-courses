@@ -2581,7 +2581,7 @@ Plants and Animals.
 
 ## History expansion totals
 
-History lessons across the History titles: **753**
+History lessons across the History titles: **771**
 (248 before the expansion; +1 for Guyana, 2026-11-15 —
 Modern World: Guyana — our nation: independence and
 symbols. All 3 Guyana placements stand on Guyana's
@@ -3691,3 +3691,30 @@ Term 1 books) — 0 placements each; the Grade 7 Term 2
 book is complete with no History parts — 0 placements;
 the Grade 6 Term 1 file's byte size differs from its
 record (50,971,017 held vs 50,767,798 recorded).
+
++18 for Zimbabwe, 2026-11-15 — Africa to 1500:
+Zimbabwe — totems, clans and family names, Zimbabwe's
+early people — the Khoisan and the Bantu migration,
+Zimbabwe's pre-colonial states — Mutapa, Rozvi and the
+Ndebele, and Zimbabwe — family life before the colony;
+Africa after 1500: Zimbabwe — my country, its anthem and
+its flag, Zimbabwe — culture, language and respect for
+elders, Zimbabwe — my country and its peoples, Zimbabwe
+— Ubuntu, Unhu, Vumunhu: a person through other people,
+Zimbabwe — Independence Day and Heroes Day, Zimbabwe's
+heroes — from Nehanda to the liberation war, Zimbabwe —
+indigenous knowledge systems, Zimbabwe — work and
+leisure, past and present, Zimbabwe — transport and
+communication through time, Zimbabwe colonised — the
+Rudd Concession and the Pioneer Column, Zimbabwe — the
+First Chimurenga, 1896–97, Zimbabwe — the Second
+Chimurenga and independence, Zimbabwe — how settlements
+grew, and Zimbabwe — land reform and the return of the
+land. All 72 Zimbabwe placements are stocked (38 into 9
+existing lessons, 34 into the 18 new lessons) on the
+nine PlusOne Social Science teacher's guides (ECD A,
+ECD B, Grades 1–7, Secondary Book Press, Harare, 2025).
+All nine books are teacher guides, so Zimbabwe is cited
+as teacher-guide evidence only everywhere it is stocked
+— named, counted nowhere; no existing acceptance count
+changes and the 18 new lessons carry acceptance 0.
