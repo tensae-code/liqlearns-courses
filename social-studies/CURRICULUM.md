@@ -855,3 +855,66 @@ p. 216); in **Resources and Conflict**: Catastrophes —
 avoidable or inevitable? (Folha 16, printed p. 246) and
 Agrochemicals — do you take poison? (Folha 17, printed
 p. 262). Geography lessons: 594 → 605.
+
+## Geography expansion — Sweden — built 2026-11-14
+
+Sweden — 19 placements stocked from 3 distinct books
+(6 records; each book appears twice — TSV record +
+books.json record, the same book deduplicated): *Människan
+och världen, Sverige — Lärarhandledning (GEOGRAFI)*
+(teacher guide, Swedish, COMPLETE; SPSM, 2016; author
+Peter Gröndal; ISBN 978-91-28-12143-9), *Träningsmaterial
+till boken Människan och världen – Sverige* (student
+training material, Swedish, COMPLETE; SPSM, 2016; no ISBN
+printed — RECORD MISMATCH carried exactly: both records
+title this book "ISO 15930 - Electronic document file
+format for prepress digital data exchange (PDF/X)", wrong
+metadata for the training material the file itself is),
+and *Konflikten Ukraina–Ryssland 2022, paket för egen
+utskrift* (student material, Swedish, tactile/Braille,
+COMPLETE; SPSM, 2022; no ISBN printed). Sweden's own way:
+Geography starts from the child's own surroundings —
+Sweden's place on the globe, the home town, Swedish nature
+and its animals, and sorting the household's own waste —
+taught with big pictures and sorting games for pupils who
+read and write only a little; the textbook's Geography is
+fixed by doing (colouring Sweden on the globe, sorting
+picture cards, sorting photographs under warm climate /
+cold climate); and current-events Geography for blind and
+visually impaired pupils, taught entirely by touch.
+Stocked into standing lessons — **Population, Transport
+and Maps**: Maps and globes — the globe (teacher guide,
+printed p. 2, evidence only; training material Exercise
+A, printed p. 2 — lesson now taught in 2 countries,
+Ethiopia and Sweden); **People and Resources**: Kinds of
+natural resources (teacher guide, printed p. 2, evidence
+only — acceptance unchanged, taught in 1 country,
+Ethiopia); **Culture and Work**: Culture — symbols
+(tactile pack, PDF pp. 1–5 and PDF pp. 6–7 — lesson now
+taught in 2 countries, Ethiopia and Sweden) — and 13 new
+lessons built — in **First Steps**: Teaching Geography to
+beginning readers (teacher guide, printed p. 1;
+teacher-guide evidence only, acceptance count 0
+countries); in **Population, Transport and Maps**: Sweden
+on the map (teacher guide, printed p. 2; evidence only, 0
+countries), Living in Sweden — town and country (teacher
+guide, printed p. 2; evidence only, 0 countries) and
+Kinds of houses (training material Exercise B, printed
+pp. 3–5; taught in 1 country, Sweden); in **The Land and
+Air**: Sweden's nature (teacher guide, printed p. 2,
+evidence only, plus training material Exercise C, printed
+pp. 6–9; taught in 1 country, Sweden), Naming Sweden's
+plants and animals (training material Exercise D, printed
+pp. 10–18), Warm and cold climates (training material
+Exercise E, printed pp. 19–21) and Sweden's climate — a
+long country (teacher guide, printed p. 3; evidence only,
+0 countries); in **Global Issues**: Sorting and
+recycling waste (teacher guide, printed p. 3; evidence
+only, 0 countries) and Choices that help the climate
+(training material Exercise E discussion cards, printed
+p. 22); in **Resources and Conflict**: Ukraine on the map
+(tactile pack, PDF pp. 8–11), Russia on the map (tactile
+pack, PDF pp. 12–16) and NATO countries in Europe 2022
+(tactile pack, PDF pp. 17–19) — the student-material new
+lessons taught in 1 country (Sweden), 8 questions each.
+Geography lessons: 605 → 618.

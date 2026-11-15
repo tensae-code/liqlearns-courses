@@ -26,7 +26,8 @@ the one title at rising depth wherever a title spans both books
 
 - `first-steps/` — what Social Studies is, our neighbourhood,
   my house, my home, my town, my district and my village,
-  Ibn Battuta — traveller and explorer, and how this course
+  Ibn Battuta — traveller and explorer, teaching Geography
+  to beginning readers, and how this course
   works (the books' own way: geography →
   history → today, activity first).
 - `earth-and-space/` — the universe, the solar system, the
@@ -41,8 +42,9 @@ the one title at rising depth wherever a title spans both books
   — people, goods and ideas, and Morocco's map, borders and
   cities, drawing a relief map of Morocco, Morocco's
   population distribution and Morocco's transport networks,
-  no entry — borders and excluded spaces, and stop dreaming
-  of a car — energy and transport).
+  no entry — borders and excluded spaces, stop dreaming
+  of a car — energy and transport, Sweden on the map,
+  living in Sweden — town and country, and kinds of houses).
 - `people-and-resources/` — settlement, natural resources,
   economic activities, and looking after the land (including
   quality of life — Argentina and Latin America compared,
@@ -69,7 +71,9 @@ the one title at rising depth wherever a title spans both books
   makes a place, the Arabian Peninsula — location and
   land, Morocco's relief — mountains, plateaus and plains,
   Morocco's climate — temperature and rainfall, Morocco's
-  rivers and dams, and producing and consuming space).
+  rivers and dams, producing and consuming space, Sweden's
+  nature, naming Sweden's plants and animals, warm and
+  cold climates, and Sweden's climate — a long country).
 - `culture-and-work/` — culture, economic activities, trade,
   and tax (including agriculture in Zambia's agro-ecological
   regions, festivals of the world's religions, sacred texts,
@@ -78,8 +82,9 @@ the one title at rising depth wherever a title spans both books
   consumption space).
 - `resources-and-conflict/` — natural resources, their care,
   and conflict over resources (including environmental hazards
-  and disasters, catastrophes — avoidable or inevitable?, and
-  agrochemicals — do you take poison?).
+  and disasters, catastrophes — avoidable or inevitable?,
+  agrochemicals — do you take poison?, Ukraine on the map,
+  Russia on the map, and NATO countries in Europe 2022).
 - `modern-ethiopia/` — Ethiopia from 1855 to today. (Student
   book alone — no teacher evidence yet; the Grade 8 teacher
   guide's Units 4–7 are still owed.)
@@ -91,13 +96,14 @@ the one title at rising depth wherever a title spans both books
   pressure, HIV/AIDS, climate, water, forests — and protecting
   the environment where you live (including India's
   environmental problems, environmental problems in
-  Morocco, networks — we of the network, and are humans
-  rational — and the environment?). (Grade 8 part: no teacher
+  Morocco, networks — we of the network, are humans
+  rational — and the environment?, sorting and recycling
+  waste, and choices that help the climate). (Grade 8 part: no teacher
   evidence yet.)
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **605**
+Geography lessons across the eight Geography titles: **618**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -154,3 +160,12 @@ Networks — we of the network and Are humans rational —
 and the environment?; Resources and Conflict: Catastrophes
 — avoidable or inevitable? and Agrochemicals — do you
 take poison?).
++13 for Sweden, 2026-11-14 — First Steps: Teaching
+Geography to beginning readers; Population, Transport and
+Maps: Sweden on the map, Living in Sweden — town and
+country and Kinds of houses; The Land and Air: Sweden's
+nature, Naming Sweden's plants and animals, Warm and cold
+climates and Sweden's climate — a long country; Global
+Issues: Sorting and recycling waste and Choices that help
+the climate; Resources and Conflict: Ukraine on the map,
+Russia on the map and NATO countries in Europe 2022.
