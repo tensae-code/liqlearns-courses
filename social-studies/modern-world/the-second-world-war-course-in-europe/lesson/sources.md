@@ -1,6 +1,6 @@
 # Sources — The Second World War — course in Europe
 
-countries: Ethiopia, United States, Turkey, Australia, Kuwait, Montenegro, Finland, Dominican Republic, Pakistan, Bolivia
+countries: Ethiopia, United States, Turkey, Australia, Kuwait, Montenegro, Finland, Dominican Republic, Pakistan, Bolivia, Iran
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 137).
 
@@ -185,3 +185,27 @@ Bolivia's own way (Texto de Aprendizaje — Ciencias Sociales, 6to Año de Educa
 Bolivia's own way (Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Secundaria Comunitaria Productiva, Área Ciencias Sociales, teacher guide): The teachers' compendium binds the whole six-year Ciencias Sociales course in one volume: teachers hold the full arc — Abya Yala's civilisations, colony, independence (with its revisionist debate and its women), oligarchic republic, Chaco, 1952, dictatorships, neoliberalism and the democratic-cultural revolution — framed throughout by decolonisation ("breaking the mental structures that think there are superior thoughts") and Vivir Bien. That way is stocked here as the way Bolivia teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 10 countries (Ethiopia, United States, Turkey, Australia, Kuwait, Montenegro, Finland, Dominican Republic, Pakistan, Bolivia).**
+
+---
+
+## History expansion (2026-11-15) — Iran stocked
+
+**Book 4 — History 3, Grade 12 (student book, Persian)**
+- Title as printed: تاریخ (۳) ایران و جهان معاصر — History (3): Contemporary Iran and the World
+- Grade: Grade 12, Humanities branch (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Organisation for Educational Research and Planning, Tehran; year 1405–1406 (text revised 1399–1400); ISBN no ISBN printed (book code 112219)
+- PDF pages: 176 (cover/title page verified against the record title; byte size 7,837,886 and page count match the books.json record)
+- Verdict: COMPLETE
+- Tally: 14 placements — 4 to existing lessons, 10 NEW LESSON NEEDED
+- Iran's own way: the Humanities track re-tells the same two centuries as the Grade 11 general book but analytically and with the world wars given their own lessons — Iran's story is repeatedly set inside the world's (WWI, WWII and the post-1945 order), and the course still opens with historiography and sources before narrative.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/iran-placements.md. Library debt, as filed in the placements: the books.json tree paths 404, so the TSV release-asset routes were used; byte size and page count verified against books.json, cover rendered and checked, full Persian text extracted with pdftotext -layout and read (contents + every lesson).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iran part — Lesson 8 The Second World War and the world after it — story beats: the war's European course is taught whole, as the event that also decided Iran's 1941 occupation (History expansion, 2026-11-15; original placement slug: modern-world/the-second-world-war-course-in-europe) | Iran, *Grade 12 History 3*, printed p. 99 |
+
+Iran's own way (Book 4 — History 3, Grade 12 (student book, Persian)): the Humanities track re-tells the same two centuries as the Grade 11 general book but analytically and with the world wars given their own lessons — Iran's story is repeatedly set inside the world's (WWI, WWII and the post-1945 order), and the course still opens with historiography and sources before narrative. That way is stocked here as the way Iran teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 11 countries (Ethiopia, United States, Turkey, Australia, Kuwait, Montenegro, Finland, Dominican Republic, Pakistan, Bolivia, Iran).**
+
+Searchable tags: Iran, The Second World War — course in Europe, modern-world, History expansion 2026-11-15

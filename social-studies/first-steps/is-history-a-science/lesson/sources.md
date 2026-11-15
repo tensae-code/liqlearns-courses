@@ -1,6 +1,6 @@
 # Sources — Is history a science?
 
-countries: Ethiopia, Indonesia
+countries: Ethiopia, Indonesia, Iran
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -46,3 +46,27 @@ Duplicate record id-g10s2 is the same file byte-for-byte (identical byte size 3,
 Indonesia's own way (Sejarah untuk SMK Kelas X, Kelas X / Grade 10, SMK (student/teacher: STUDENT)): the Kurikulum Merdeka course opens with a whole book on how history works — humans, space and time — taught through Indonesian cases (a volcano, a tram system, a drum, a magazine) and hero biographies, before any chronological survey begins. That way is stocked here as the way Indonesia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 2 countries (Ethiopia, Indonesia).**
+
+---
+
+## History expansion (2026-11-15) — Iran stocked
+
+**Book 2 — History 2, Grade 11 (student book, Persian)**
+- Title as printed: تاریخ (۲) از بعثت پیامبر اسلام تا پایان صفویه — History (2): From the Prophet of Islam's mission to the end of the Safavids
+- Grade: Grade 11, Humanities branch (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Organisation for Educational Research and Planning, Tehran; year 1405–1406; ISBN no ISBN printed (book code 111219)
+- PDF pages: 216 (cover/title page verified against the record title; byte size 11,426,218 and page count match the books.json record exactly. NOTE: the record's TSV URL duplicates the Contemporary History release asset; this book was fetched from the same release under its own asset name grade-11-gov-iran-history-student-full-year.pdf — see library debts)
+- Verdict: COMPLETE
+- Tally: 16 placements — 6 to existing lessons, 10 NEW LESSON NEEDED
+- Iran's own way: the Islamic centuries are told twice — once as the caliphate's story (Mecca, Medina, Umayyads, Abbasids) and once as Iran's own (local dynasties, Mongol catastrophe and Timurid flowering, Safavid state-building) — with Europe's Middle Ages and Renaissance appended as the outside mirror, and source-validity method taught first.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/iran-placements.md. Library debt, as filed in the placements: the books.json tree paths 404, so the TSV release-asset routes were used; byte size and page count verified against books.json, cover rendered and checked, full Persian text extracted with pdftotext -layout and read (contents + every lesson).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iran part — Chapter 1, Lesson 2 Research method in history; examining and testing the validity of evidence — story beats: not every old report is true — the student learns to cross-examine a source's author, date and motive before believing a word (History expansion, 2026-11-15; original placement slug: first-steps/is-history-a-science) | Iran, *Grade 11 History 2*, printed p. 13 |
+
+Iran's own way (Book 2 — History 2, Grade 11 (student book, Persian)): the Islamic centuries are told twice — once as the caliphate's story (Mecca, Medina, Umayyads, Abbasids) and once as Iran's own (local dynasties, Mongol catastrophe and Timurid flowering, Safavid state-building) — with Europe's Middle Ages and Renaissance appended as the outside mirror, and source-validity method taught first. That way is stocked here as the way Iran teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 3 countries (Ethiopia, Indonesia, Iran).**
+
+Searchable tags: Iran, Is history a science?, first-steps, History expansion 2026-11-15

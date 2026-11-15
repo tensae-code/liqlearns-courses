@@ -1,6 +1,6 @@
 # Sources — The Renaissance — what it was
 
-countries: Ethiopia, Poland, Costa Rica, Australia, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan
+countries: Ethiopia, Poland, Costa Rica, Australia, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Iran
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -179,3 +179,27 @@ Searchable tags: Pakistan, The Renaissance — what it was, modern-world, Histor
 Bolivia's own way (Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Secundaria Comunitaria Productiva, Área Ciencias Sociales, teacher guide): The teachers' compendium binds the whole six-year Ciencias Sociales course in one volume: teachers hold the full arc — Abya Yala's civilisations, colony, independence (with its revisionist debate and its women), oligarchic republic, Chaco, 1952, dictatorships, neoliberalism and the democratic-cultural revolution — framed throughout by decolonisation ("breaking the mental structures that think there are superior thoughts") and Vivir Bien. That way is stocked here as the way Bolivia teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 9 countries (Ethiopia, Poland, Costa Rica, Australia, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan) — unchanged; the Bolivia placement(s) above stand on the teacher compendium only, cited as evidence only, counted nowhere. Bolivia is not added to this lesson's countries line.**
+
+---
+
+## History expansion (2026-11-15) — Iran stocked
+
+**Book 2 — History 2, Grade 11 (student book, Persian)**
+- Title as printed: تاریخ (۲) از بعثت پیامبر اسلام تا پایان صفویه — History (2): From the Prophet of Islam's mission to the end of the Safavids
+- Grade: Grade 11, Humanities branch (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Organisation for Educational Research and Planning, Tehran; year 1405–1406; ISBN no ISBN printed (book code 111219)
+- PDF pages: 216 (cover/title page verified against the record title; byte size 11,426,218 and page count match the books.json record exactly. NOTE: the record's TSV URL duplicates the Contemporary History release asset; this book was fetched from the same release under its own asset name grade-11-gov-iran-history-student-full-year.pdf — see library debts)
+- Verdict: COMPLETE
+- Tally: 16 placements — 6 to existing lessons, 10 NEW LESSON NEEDED
+- Iran's own way: the Islamic centuries are told twice — once as the caliphate's story (Mecca, Medina, Umayyads, Abbasids) and once as Iran's own (local dynasties, Mongol catastrophe and Timurid flowering, Safavid state-building) — with Europe's Middle Ages and Renaissance appended as the outside mirror, and source-validity method taught first.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/iran-placements.md. Library debt, as filed in the placements: the books.json tree paths 404, so the TSV release-asset routes were used; byte size and page count verified against books.json, cover rendered and checked, full Persian text extracted with pdftotext -layout and read (contents + every lesson).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iran part — Chapter 4, Lesson 16 Renaissance and the New Age — story beats: Europe reawakens — art, science and ocean voyages open a new age that will soon knock on Iran's own doors (History expansion, 2026-11-15; original placement slug: modern-world/the-renaissance-what-it-was) | Iran, *Grade 11 History 2*, printed p. 188 |
+
+Iran's own way (Book 2 — History 2, Grade 11 (student book, Persian)): the Islamic centuries are told twice — once as the caliphate's story (Mecca, Medina, Umayyads, Abbasids) and once as Iran's own (local dynasties, Mongol catastrophe and Timurid flowering, Safavid state-building) — with Europe's Middle Ages and Renaissance appended as the outside mirror, and source-validity method taught first. That way is stocked here as the way Iran teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 10 countries (Ethiopia, Poland, Costa Rica, Australia, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Iran).**
+
+Searchable tags: Iran, The Renaissance — what it was, modern-world, History expansion 2026-11-15

@@ -1,6 +1,6 @@
 # Sources — Persia — Cyrus, roads, post and Zoroaster
 
-countries: Ethiopia, India, Pakistan, Syria
+countries: Ethiopia, India, Pakistan, Syria, Iran
 
 **Book 1:** *History, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, Addis Ababa, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-064-2, 210 printed pp. Printed page = PDF page − 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g09-student-placements.md
 
@@ -52,3 +52,27 @@ Searchable tags: Pakistan, Persia — Cyrus, roads, post and Zoroaster, ancient-
 Syria's own way (التاريخ — الصف السابع الأساسي (History, Grade 7), Grade 7 (student/teacher: STUDENT)): ancient history is taught thematically — social life, economic life, the road to civilisation, intellectual creations — and anchored in Syria's own sites (Yabroud caves, Abu Hureyra, Jerf el-Ahmar, Ebla, Mari, Ugarit) before the wider region, with a historical-thinking skills toolkit (cause/effect, continuity/change, perspective, evidence) opened at the front. That way is stocked here as the way Syria teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 4 countries (Ethiopia, India, Pakistan, Syria).**
+
+---
+
+## History expansion (2026-11-15) — Iran stocked
+
+**Book 1 — History 1, Grade 10 (student book, Persian)**
+- Title as printed: تاریخ (۱) ایران و جهان باستان — History (1): Iran and the Ancient World
+- Grade: Grade 10, Humanities branch (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Organisation for Educational Research and Planning (سازمان پژوهش و برنامه‌ریزی آموزشی), Tehran; year 1405–1406 (2026–27); ISBN no ISBN printed (book code 110219)
+- PDF pages: 168 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 21 placements — 12 to existing lessons, 9 NEW LESSON NEEDED
+- Iran's own way: a full first chapter on how history itself is known (historiography, time and place, archaeology) before any narrative; "examining evidence and documents" (بررسی شواهد و مدارک) source boxes run through every lesson, and the ancient-Iran chapter is organised by theme (statecraft, society, economy, religion, language/science, art) after the dynastic story — identity ("the beginning of Iranian identity") is the chapter's stated frame.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/iran-placements.md. Library debt, as filed in the placements: the books.json tree paths 404, so the TSV release-asset routes were used; byte size and page count verified against books.json, cover rendered and checked, full Persian text extracted with pdftotext -layout and read (contents + every lesson).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iran part — Chapter 3, Lesson 9 From the arrival of the Aryans to the end of the Achaemenids — Cyrus — story beats: Cyrus founds an empire that rules by tolerance and organisation — roads, post and a proclaimed charter — and Babylon falls without a sack (History expansion, 2026-11-15; original placement slug: ancient-world/persia-cyrus-roads-post-and-zoroaster) | Iran, *Grade 10 History 1*, printed p. 80 |
+
+Iran's own way (Book 1 — History 1, Grade 10 (student book, Persian)): a full first chapter on how history itself is known (historiography, time and place, archaeology) before any narrative; "examining evidence and documents" (بررسی شواهد و مدارک) source boxes run through every lesson, and the ancient-Iran chapter is organised by theme (statecraft, society, economy, religion, language/science, art) after the dynastic story — identity ("the beginning of Iranian identity") is the chapter's stated frame. That way is stocked here as the way Iran teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 5 countries (Ethiopia, India, Pakistan, Syria, Iran).**
+
+Searchable tags: Iran, Persia — Cyrus, roads, post and Zoroaster, ancient-world, History expansion 2026-11-15

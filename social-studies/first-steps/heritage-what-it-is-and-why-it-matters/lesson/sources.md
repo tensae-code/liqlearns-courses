@@ -1,6 +1,6 @@
 # Sources — Heritage — what it is and why it matters
 
-countries: Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivia, Zimbabwe, Eritrea, Cambodia, Fiji, Slovenia, Syria, Mauritania, Jordan, Bhutan, Cuba, Greece, Nauru, Niue, Tuvalu, Saudi Arabia, Rwanda, Poland, Guatemala, Australia, Bahamas, Nepal, Belarus, Dominican Republic, Egypt, Pakistan
+countries: Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivia, Zimbabwe, Eritrea, Cambodia, Fiji, Slovenia, Syria, Mauritania, Jordan, Bhutan, Cuba, Greece, Nauru, Niue, Tuvalu, Saudi Arabia, Rwanda, Poland, Guatemala, Australia, Bahamas, Nepal, Belarus, Dominican Republic, Egypt, Pakistan, Iran
 
 **Book 1:** *History, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, Addis Ababa, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-064-2, 210 printed pp. Printed page = PDF page − 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g09-student-placements.md
 
@@ -700,3 +700,28 @@ Syria's own way (الدراسات الاجتماعية — الصف الثاني
 Syria's own way (الدراسات الاجتماعية — الصف الرابع (Social Studies, Grade 4), Grade 4 (student/teacher: STUDENT)): Grade 4 carries a whole unit named “Syria and History” (سورية والتاريخ) — cradle of civilisation, historic sites, and transport and communication developing through the ages — and the book closes its citizenship unit with the martyrs of the Syrian revolution, told as the nation's own recent history. That way is stocked here as the way Syria teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 30 countries (Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivia, Eritrea, Cambodia, Fiji, Slovenia, Syria, Mauritania, Jordan, Bhutan, Cuba, Greece, Nauru, Niue, Tuvalu, Saudi Arabia, Rwanda, Poland, Guatemala, Australia, Bahamas, Nepal, Belarus, Dominican Republic, Egypt, Pakistan) — unchanged in number; Syria was already counted in this lesson, and the History placements above add its story beats in full as depth.**
+
+---
+
+## History expansion (2026-11-15) — Iran stocked
+
+**Book 5 — Social Studies, Grade 7 (student book, Persian) — COMBINED Civics–Geography–History**
+- Title as printed: مطالعات اجتماعی (مدنی، جغرافیا، تاریخ) — Social Studies (Civics, Geography, History)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Organisation for Educational Research and Planning, Tehran; year 1405–1406; ISBN no ISBN printed (book code 707)
+- PDF pages: 184 (cover/title page verified against the record title; byte size 17,567,146 and page count match the books.json record)
+- Verdict: COMPLETE (History chapters 9–12 placed; other parts named below)
+- Tally: 9 placements — 2 to existing lessons, 7 NEW LESSON NEEDED
+- Iran's own way: History enters the combined book last, as the final four of twelve chapters, and runs ancient Iran in the same thematic order the Grade 10 book will use (settlements → empires → administering → society → economy → beliefs → knowledge and art) — a deliberate spiral.
+- Non-History parts named, not placed: Ch. 1 Our rights and responsibilities (printed pp. 1–12, Civics), Ch. 2 Law (pp. 13–20, Civics), Ch. 3 Coping with accidents — empathy, insurance (pp. 21–30), Ch. 4 Production, distribution, consumption (pp. 31–42, Economics), Ch. 5 Knowing our living environment (pp. 43–56, Geography), Ch. 6 Protecting Iran's habitats (pp. 57–72, Geography), Ch. 7 Population and resources (pp. 73–88, Geography), Ch. 8 Tourism in Iran (pp. 89–102, Geography).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/iran-placements.md. Library debt, as filed in the placements: the books.json tree paths 404, so the TSV release-asset routes were used; byte size and page count verified against books.json, cover rendered and checked, full Persian text extracted with pdftotext -layout and read (contents + every lesson).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iran part — Chapter 9, Lesson 17 Cultural heritage and history — story beats: a 12-year-old meets "history" first as heritage — the inherited things and places that prove a past existed and make it worth studying (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Iran, *Grade 7 Social Studies*, printed p. 104 |
+
+Iran's own way (Book 5 — Social Studies, Grade 7 (student book, Persian) — COMBINED Civics–Geography–History): History enters the combined book last, as the final four of twelve chapters, and runs ancient Iran in the same thematic order the Grade 10 book will use (settlements → empires → administering → society → economy → beliefs → knowledge and art) — a deliberate spiral. That way is stocked here as the way Iran teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 31 countries (Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivia, Eritrea, Cambodia, Fiji, Slovenia, Syria, Mauritania, Jordan, Bhutan, Cuba, Greece, Nauru, Niue, Tuvalu, Saudi Arabia, Rwanda, Poland, Guatemala, Australia, Bahamas, Nepal, Belarus, Dominican Republic, Egypt, Pakistan, Iran).**
+
+Searchable tags: Iran, Heritage — what it is and why it matters, first-steps, History expansion 2026-11-15

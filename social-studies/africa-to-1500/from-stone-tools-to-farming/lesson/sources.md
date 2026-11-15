@@ -1,6 +1,6 @@
 # Sources — From stone tools to farming — the Neolithic Revolution
 
-countries: Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus, Fiji, Dominican Republic, Pakistan, Syria, Bolivia
+countries: Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus, Fiji, Dominican Republic, Pakistan, Syria, Bolivia, Iran
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -372,3 +372,28 @@ Bolivia's own way (Texto de Aprendizaje — Ciencias Sociales, 1er Año de Educa
 Bolivia's own way (Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Secundaria Comunitaria Productiva, Área Ciencias Sociales, teacher guide): The teachers' compendium binds the whole six-year Ciencias Sociales course in one volume: teachers hold the full arc — Abya Yala's civilisations, colony, independence (with its revisionist debate and its women), oligarchic republic, Chaco, 1952, dictatorships, neoliberalism and the democratic-cultural revolution — framed throughout by decolonisation ("breaking the mental structures that think there are superior thoughts") and Vivir Bien. That way is stocked here as the way Bolivia teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 18 countries (Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus, Fiji, Dominican Republic, Pakistan, Syria, Bolivia).**
+
+---
+
+## History expansion (2026-11-15) — Iran stocked
+
+**Book 10 — Social Studies, Grade 4 (student book, Persian) — COMBINED**
+- Title as printed: مطالعات اجتماعی چهارم دبستان — Social Studies, Grade 4 (primary)
+- Grade: Grade 4 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Organisation for Educational Research and Planning, Tehran; year 1405–1406; ISBN 978-964-05-2358-2
+- PDF pages: 120 (cover/title page verified against the record title)
+- Verdict: COMPLETE (History chapters 3–4 and the national-symbols lessons of chapter 6 placed; other parts named below)
+- Tally: 8 placements — 3 to existing lessons, 5 NEW LESSON NEEDED
+- Iran's own way: a nine-year-old's first history is a journey — how villages and cities began, how historians know, then three trips: to Median Hamadan, to Persepolis (two lessons), and to Kermanshah's Bisotun — place itself is the textbook.
+- Non-History parts named, not placed: Ch. 1 Our neighbourhood (printed pp. 2–23), Ch. 2 My city, my village — city/village life, compass directions, how geographers study environments (pp. 24–37, Geography), Ch. 5 My beautiful country — mountains, plains, weather, climate zones, plants and animals of Iran (pp. 74–99, Geography).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/iran-placements.md. Library debt, as filed in the placements: the books.json tree paths 404, so the TSV release-asset routes were used; byte size and page count verified against books.json, cover rendered and checked, full Persian text extracted with pdftotext -layout and read (contents + every lesson).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iran part — Chapter 3, Lesson 8 How did the first villages come into being? — story beats: hunters settle down to farm, and the village — humanity's first address — is born (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Iran, *Grade 4 Social Studies*, printed p. 38 |
+
+Iran's own way (Book 10 — Social Studies, Grade 4 (student book, Persian) — COMBINED): a nine-year-old's first history is a journey — how villages and cities began, how historians know, then three trips: to Median Hamadan, to Persepolis (two lessons), and to Kermanshah's Bisotun — place itself is the textbook. That way is stocked here as the way Iran teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 19 countries (Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus, Fiji, Dominican Republic, Pakistan, Syria, Bolivia, Iran).**
+
+Searchable tags: Iran, From stone tools to farming — the Neolithic Revolution, africa-to-1500, History expansion 2026-11-15

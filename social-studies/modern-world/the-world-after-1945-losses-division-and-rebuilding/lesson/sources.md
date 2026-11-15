@@ -1,6 +1,6 @@
 # Sources — The world after 1945 — losses, division and rebuilding
 
-countries: Ethiopia, Kuwait, Montenegro, Pakistan
+countries: Ethiopia, Kuwait, Montenegro, Pakistan, Iran
 
 **Book 1:** *History, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-067-3. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g12-student-placements.md
 
@@ -69,3 +69,27 @@ Pakistan's own way (History 8 (PCTB, SNC 2022), Grade 8 / Class 8 (student/teach
 **Acceptance count: taught in 4 countries (Ethiopia, Kuwait, Montenegro, Pakistan).**
 
 Searchable tags: Pakistan, The world after 1945 — losses, division and rebuilding, modern-world, History expansion 2026-11-15
+
+---
+
+## History expansion (2026-11-15) — Iran stocked
+
+**Book 4 — History 3, Grade 12 (student book, Persian)**
+- Title as printed: تاریخ (۳) ایران و جهان معاصر — History (3): Contemporary Iran and the World
+- Grade: Grade 12, Humanities branch (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Organisation for Educational Research and Planning, Tehran; year 1405–1406 (text revised 1399–1400); ISBN no ISBN printed (book code 112219)
+- PDF pages: 176 (cover/title page verified against the record title; byte size 7,837,886 and page count match the books.json record)
+- Verdict: COMPLETE
+- Tally: 14 placements — 4 to existing lessons, 10 NEW LESSON NEEDED
+- Iran's own way: the Humanities track re-tells the same two centuries as the Grade 11 general book but analytically and with the world wars given their own lessons — Iran's story is repeatedly set inside the world's (WWI, WWII and the post-1945 order), and the course still opens with historiography and sources before narrative.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/iran-placements.md. Library debt, as filed in the placements: the books.json tree paths 404, so the TSV release-asset routes were used; byte size and page count verified against books.json, cover rendered and checked, full Persian text extracted with pdftotext -layout and read (contents + every lesson).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iran part — Lesson 8 The Second World War and the world after it — story beats: 1945 divides the world into camps, and Iran's postwar oil struggle is placed inside that new order (History expansion, 2026-11-15; original placement slug: modern-world/the-world-after-1945-losses-division-and-rebuilding) | Iran, *Grade 12 History 3*, printed p. 99 |
+
+Iran's own way (Book 4 — History 3, Grade 12 (student book, Persian)): the Humanities track re-tells the same two centuries as the Grade 11 general book but analytically and with the world wars given their own lessons — Iran's story is repeatedly set inside the world's (WWI, WWII and the post-1945 order), and the course still opens with historiography and sources before narrative. That way is stocked here as the way Iran teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 5 countries (Ethiopia, Kuwait, Montenegro, Pakistan, Iran).**
+
+Searchable tags: Iran, The world after 1945 — losses, division and rebuilding, modern-world, History expansion 2026-11-15

@@ -1,6 +1,6 @@
 # Sources — The rise and expansion of Islam
 
-countries: Ethiopia, Saudi Arabia, Gambia, Turkey, Costa Rica, Malaysia, Ecuador, Kuwait, India, Montenegro, Egypt, Pakistan, Syria
+countries: Ethiopia, Saudi Arabia, Gambia, Turkey, Costa Rica, Malaysia, Ecuador, Kuwait, India, Montenegro, Egypt, Pakistan, Syria, Iran
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under GEQIP-E, ISBN 978-99990-0-066-6. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -248,3 +248,56 @@ Syria's own way (الدراسات الاجتماعية — الصف السادس
 Bolivia's own way (Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Secundaria Comunitaria Productiva, Área Ciencias Sociales, teacher guide): The teachers' compendium binds the whole six-year Ciencias Sociales course in one volume: teachers hold the full arc — Abya Yala's civilisations, colony, independence (with its revisionist debate and its women), oligarchic republic, Chaco, 1952, dictatorships, neoliberalism and the democratic-cultural revolution — framed throughout by decolonisation ("breaking the mental structures that think there are superior thoughts") and Vivir Bien. That way is stocked here as the way Bolivia teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 13 countries (Ethiopia, Saudi Arabia, Gambia, Turkey, Costa Rica, Malaysia, Ecuador, Kuwait, India, Montenegro, Egypt, Pakistan, Syria) — unchanged; the Bolivia placement(s) above stand on the teacher compendium only, cited as evidence only, counted nowhere. Bolivia is not added to this lesson's countries line.**
+
+---
+
+## History expansion (2026-11-15) — Iran stocked
+
+**Book 2 — History 2, Grade 11 (student book, Persian)**
+- Title as printed: تاریخ (۲) از بعثت پیامبر اسلام تا پایان صفویه — History (2): From the Prophet of Islam's mission to the end of the Safavids
+- Grade: Grade 11, Humanities branch (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Organisation for Educational Research and Planning, Tehran; year 1405–1406; ISBN no ISBN printed (book code 111219)
+- PDF pages: 216 (cover/title page verified against the record title; byte size 11,426,218 and page count match the books.json record exactly. NOTE: the record's TSV URL duplicates the Contemporary History release asset; this book was fetched from the same release under its own asset name grade-11-gov-iran-history-student-full-year.pdf — see library debts)
+- Verdict: COMPLETE
+- Tally: 16 placements — 6 to existing lessons, 10 NEW LESSON NEEDED
+- Iran's own way: the Islamic centuries are told twice — once as the caliphate's story (Mecca, Medina, Umayyads, Abbasids) and once as Iran's own (local dynasties, Mongol catastrophe and Timurid flowering, Safavid state-building) — with Europe's Middle Ages and Renaissance appended as the outside mirror, and source-validity method taught first.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/iran-placements.md. Library debt, as filed in the placements: the books.json tree paths 404, so the TSV release-asset routes were used; byte size and page count verified against books.json, cover rendered and checked, full Persian text extracted with pdftotext -layout and read (contents + every lesson).
+
+**Book 6 — Social Studies, Grade 8 (student book, Persian) — COMBINED Civics–Geography–History**
+- Title as printed: مطالعات اجتماعی (مدنی، تاریخ، جغرافیا) — Social Studies (Civics, History, Geography)
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Organisation for Educational Research and Planning, Tehran; year 1405–1406; ISBN no ISBN printed (book code 807)
+- PDF pages: 200 (cover/title page verified against the record title; byte size 21,287,483 and page count match the books.json record)
+- Verdict: COMPLETE (History chapters 5–8 placed; other parts named below)
+- Tally: 8 placements — 1 to existing lessons, 7 NEW LESSON NEEDED
+- Iran's own way: the Islamic centuries are framed by two chapter titles that carry the thesis — "From Hira to Nineveh" (Islam's rise to Karbala) and "Victory of culture over the sword" (Iranian culture outlasting Mongol and Timurid conquest).
+- Non-History parts named, not placed: Ch. 1 Cooperation (printed pp. 1–12), Ch. 2 The government's role in running the country (pp. 13–22, Civics), Ch. 3 Adolescents and the law (pp. 23–34, Civics), Ch. 4 The age of communications (pp. 35–46), Ch. 9 Asia, the largest continent (pp. 107–122, Geography), Ch. 10 The Southwest Asia region and Iran's place in it (pp. 123–136, Geography), Ch. 11 Europe and Africa (pp. 137–152, Geography), Ch. 12 The Americas and Oceania (pp. 153–169, Geography).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/iran-placements.md. Library debt, as filed in the placements: the books.json tree paths 404, so the TSV release-asset routes were used; byte size and page count verified against books.json, cover rendered and checked, full Persian text extracted with pdftotext -layout and read (contents + every lesson).
+
+**Book 9 — Social Studies, Grade 5 (student book, Persian) — COMBINED**
+- Title as printed: مطالعات اجتماعی پنجم دبستان — Social Studies, Grade 5 (primary)
+- Grade: Grade 5 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Organisation for Educational Research and Planning, Tehran; year 1405–1406; ISBN 978-964-05-2426-8
+- PDF pages: 136 (cover/title page verified against the record title)
+- Verdict: COMPLETE (Chapter 4 pilgrimage narratives and Chapter 5 "Iran after Islam" placed; other parts named below)
+- Tally: 7 placements — 1 to existing lessons, 6 NEW LESSON NEEDED
+- Iran's own way: history at Grade 5 is told as journeys and story-lessons — a return from Hajj, a trip to the Prophet's Medina and to Karbala, then four blunt story titles for post-Islam Iran: forming governments, capable ministers and flourishing cities, ruthless conquerors, rebuilding the ruins.
+- Non-History parts named, not placed: Ch. 1 Living with others (printed pp. 2–23), Ch. 2 Our land — population, water, industry, roads and transport, how our country is governed (pp. 24–65, Geography/Civics), Ch. 3 Life in other parts of the world — neighbour countries, Earth's movements, world regions (pp. 66–91, Geography).
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/iran-placements.md. Library debt, as filed in the placements: the books.json tree paths 404, so the TSV release-asset routes were used; byte size and page count verified against books.json, cover rendered and checked, full Persian text extracted with pdftotext -layout and read (contents + every lesson).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iran part — Chapter 2, Lesson 3 Islam in Mecca — story beats: a merchant city mocks its prophet; Muhammad preaches one God in Mecca, is persecuted, and the small community's survival is in doubt (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Iran, *Grade 11 History 2*, printed p. 20 |
+| Iran part — Chapter 2, Lesson 4 The Prophetic ummah and government in Medina — story beats: the Hijra turns refugees into a state — in Medina the ummah gains a charter, a mosque-centre and a government (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Iran, *Grade 11 History 2*, printed p. 31 |
+| Iran part — Chapter 5, Lesson 9 The rise of Islam in the Arabian Peninsula — story beats: in a peninsula of tribes and caravan cities, a new faith is proclaimed and a community forms that will change two empires' maps (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Iran, *Grade 8 Social Studies*, printed p. 48 |
+| Iran part — Chapter 4, Lesson 15 Medina, the city of the Prophet — story beats: Medina is walked street by street as the city where the first Muslim community and government were built (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Iran, *Grade 5 Social Studies*, printed p. 97 |
+
+Iran's own way (Book 2 — History 2, Grade 11 (student book, Persian)): the Islamic centuries are told twice — once as the caliphate's story (Mecca, Medina, Umayyads, Abbasids) and once as Iran's own (local dynasties, Mongol catastrophe and Timurid flowering, Safavid state-building) — with Europe's Middle Ages and Renaissance appended as the outside mirror, and source-validity method taught first. That way is stocked here as the way Iran teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Iran's own way (Book 6 — Social Studies, Grade 8 (student book, Persian) — COMBINED Civics–Geography–History): the Islamic centuries are framed by two chapter titles that carry the thesis — "From Hira to Nineveh" (Islam's rise to Karbala) and "Victory of culture over the sword" (Iranian culture outlasting Mongol and Timurid conquest). That way is stocked here as the way Iran teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Iran's own way (Book 9 — Social Studies, Grade 5 (student book, Persian) — COMBINED): history at Grade 5 is told as journeys and story-lessons — a return from Hajj, a trip to the Prophet's Medina and to Karbala, then four blunt story titles for post-Islam Iran: forming governments, capable ministers and flourishing cities, ruthless conquerors, rebuilding the ruins. That way is stocked here as the way Iran teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 14 countries (Ethiopia, Saudi Arabia, Gambia, Turkey, Costa Rica, Malaysia, Ecuador, Kuwait, India, Montenegro, Egypt, Pakistan, Syria, Iran).**
+
+Searchable tags: Iran, The rise and expansion of Islam, ancient-world, History expansion 2026-11-15

@@ -1,6 +1,6 @@
 # Sources — Historiography — history of history-writing
 
-countries: Ethiopia, Gambia, Bangladesh, Ecuador, Indonesia, Dominican Republic, United Kingdom, Bolivia
+countries: Ethiopia, Gambia, Bangladesh, Ecuador, Indonesia, Dominican Republic, United Kingdom, Bolivia, Iran
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -143,3 +143,40 @@ Bolivia's own way (Texto de Aprendizaje — Ciencias Sociales, 2do Año de Educa
 Bolivia's own way (Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Secundaria Comunitaria Productiva, Área Ciencias Sociales, teacher guide): The teachers' compendium binds the whole six-year Ciencias Sociales course in one volume: teachers hold the full arc — Abya Yala's civilisations, colony, independence (with its revisionist debate and its women), oligarchic republic, Chaco, 1952, dictatorships, neoliberalism and the democratic-cultural revolution — framed throughout by decolonisation ("breaking the mental structures that think there are superior thoughts") and Vivir Bien. That way is stocked here as the way Bolivia teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 8 countries (Ethiopia, Gambia, Bangladesh, Ecuador, Indonesia, Dominican Republic, United Kingdom, Bolivia).**
+
+---
+
+## History expansion (2026-11-15) — Iran stocked
+
+**Book 1 — History 1, Grade 10 (student book, Persian)**
+- Title as printed: تاریخ (۱) ایران و جهان باستان — History (1): Iran and the Ancient World
+- Grade: Grade 10, Humanities branch (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Organisation for Educational Research and Planning (سازمان پژوهش و برنامه‌ریزی آموزشی), Tehran; year 1405–1406 (2026–27); ISBN no ISBN printed (book code 110219)
+- PDF pages: 168 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 21 placements — 12 to existing lessons, 9 NEW LESSON NEEDED
+- Iran's own way: a full first chapter on how history itself is known (historiography, time and place, archaeology) before any narrative; "examining evidence and documents" (بررسی شواهد و مدارک) source boxes run through every lesson, and the ancient-Iran chapter is organised by theme (statecraft, society, economy, religion, language/science, art) after the dynastic story — identity ("the beginning of Iranian identity") is the chapter's stated frame.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/iran-placements.md. Library debt, as filed in the placements: the books.json tree paths 404, so the TSV release-asset routes were used; byte size and page count verified against books.json, cover rendered and checked, full Persian text extracted with pdftotext -layout and read (contents + every lesson).
+
+**Book 4 — History 3, Grade 12 (student book, Persian)**
+- Title as printed: تاریخ (۳) ایران و جهان معاصر — History (3): Contemporary Iran and the World
+- Grade: Grade 12, Humanities branch (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Organisation for Educational Research and Planning, Tehran; year 1405–1406 (text revised 1399–1400); ISBN no ISBN printed (book code 112219)
+- PDF pages: 176 (cover/title page verified against the record title; byte size 7,837,886 and page count match the books.json record)
+- Verdict: COMPLETE
+- Tally: 14 placements — 4 to existing lessons, 10 NEW LESSON NEEDED
+- Iran's own way: the Humanities track re-tells the same two centuries as the Grade 11 general book but analytically and with the world wars given their own lessons — Iran's story is repeatedly set inside the world's (WWI, WWII and the post-1945 order), and the course still opens with historiography and sources before narrative.
+Placements at liqlearns-courses-work/expansion-history-2026-11-15/iran-placements.md. Library debt, as filed in the placements: the books.json tree paths 404, so the TSV release-asset routes were used; byte size and page count verified against books.json, cover rendered and checked, full Persian text extracted with pdftotext -layout and read (contents + every lesson).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iran part — Chapter 1, Lesson 1 History and historiography — story beats: history-writing itself has a history — each age rewrites the past with its own questions, so the book teaches suspicion of any single telling (History expansion, 2026-11-15; original placement slug: first-steps/historiography-the-history-of-history-writing) | Iran, *Grade 10 History 1*, printed p. 2 |
+| Iran part — Lesson 1 Historiography and the sources of the contemporary period — story beats: the contemporary past has different witnesses — newspapers, memoirs, photographs, state archives — and the final-year student learns each source's bias before the story begins (History expansion, 2026-11-15; original placement slug: first-steps/historiography-the-history-of-history-writing) | Iran, *Grade 12 History 3*, printed p. 2 |
+
+Iran's own way (Book 1 — History 1, Grade 10 (student book, Persian)): a full first chapter on how history itself is known (historiography, time and place, archaeology) before any narrative; "examining evidence and documents" (بررسی شواهد و مدارک) source boxes run through every lesson, and the ancient-Iran chapter is organised by theme (statecraft, society, economy, religion, language/science, art) after the dynastic story — identity ("the beginning of Iranian identity") is the chapter's stated frame. That way is stocked here as the way Iran teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Iran's own way (Book 4 — History 3, Grade 12 (student book, Persian)): the Humanities track re-tells the same two centuries as the Grade 11 general book but analytically and with the world wars given their own lessons — Iran's story is repeatedly set inside the world's (WWI, WWII and the post-1945 order), and the course still opens with historiography and sources before narrative. That way is stocked here as the way Iran teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 9 countries (Ethiopia, Gambia, Bangladesh, Ecuador, Indonesia, Dominican Republic, United Kingdom, Bolivia, Iran).**
+
+Searchable tags: Iran, Historiography — history of history-writing, first-steps, History expansion 2026-11-15
