@@ -1,0 +1,15 @@
+# Sources — The founders — Jinnah, Iqbal and Fatima Jinnah
+
+countries: Pakistan
+
+**Book (Pakistan — Social Studies, Class 4 (PCTB, SNC 2020)):** *معاشرتی علوم — Social Studies, Class 4* (student book, Urdu) — Pakistan. Title as printed: معاشرتی علوم — Social Studies, Class 4 — based on the Single National Curriculum 2020 ("One Nation, One Curriculum"). Grade: Grade 4 / Class 4 (student/teacher: STUDENT). Publisher: Punjab Curriculum and Textbook Board (PCTB), Lahore; year: SNC 2020 edition, printed February 2022 (print-run table on the contents page); no ISBN printed. PDF pages: 108 (printed pp. 1–104 + national anthem page; read IN PLACE at phase3-staging; the copy is an image-only scan — read in full from page renders after OCR proved unusable under machine contention; cover and title page verified against the record). Verdict: COMPLETE. Tally: 9 placements — 5 to existing lessons, 4 NEW LESSON NEEDED. Non-History parts (named, not placed): Chapter 1 Citizenship (printed pp. 1–14 — citizen, global/digital citizen, human rights, Dr Ruth Pfau; Civics); Chapter 3 State and Government (printed pp. 27–44 — the 1973 Constitution, federal and provincial government, democracy and elections; Civics); Chapter 5 Geography (printed pp. 61–93 — globe and map skills, landforms of Pakistan, weather and climate, natural disasters, population); Chapter 6 Economics (printed pp. 94–104 — needs and choices, goods and services, inflation, trade, banks). Placements at liqlearns-courses-work/expansion-history-2026-11-15/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Pakistan part — Chapter 4: historical personalities of Pakistan — story beats: three lives carry the founding — Muhammad Ali Jinnah, born in Karachi in 1876, who joins the Muslim League in 1913, presides over the 1940 Lahore session and becomes the new state's first Governor-General before his death in 1948; Allama Iqbal, born in Sialkot in 1877, whose 1930 Allahabad address first dreams the separate homeland aloud; and Fatima Jinnah, the Quaid's sister, a dentist who stands beside the movement and is remembered as Madar-e-Millat, Mother of the Nation (History expansion, 2026-11-15; original placement slug: modern-world/the-founders-jinnah-iqbal-and-fatima-jinnah) | Pakistan, *Social Studies, Class 4 (PCTB, SNC 2020)*, printed p. 55 |
+
+Pakistan's own way (Social Studies, Class 4 (PCTB, SNC 2020), Grade 4 / Class 4 (student/teacher: STUDENT)): history enters in Class 4 as one chapter among citizenship, culture, state, geography and economics — the ancient civilisations first (with the Indus Valley told as Pakistan's own first chapter), then the freedom story told province by province and founder by founder. That way is stocked here as the way Pakistan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 1 country (Pakistan).**
+
+Searchable tags: Pakistan, The founders — Jinnah, Iqbal and Fatima Jinnah, modern-world, History expansion 2026-11-15

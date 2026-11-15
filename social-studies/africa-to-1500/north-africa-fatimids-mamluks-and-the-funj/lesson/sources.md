@@ -1,6 +1,6 @@
 # Sources — North Africa — Fatimids, Mamluk Egypt and the Funj
 
-countries: Ethiopia, Eritrea, Egypt
+countries: Ethiopia, Eritrea, Egypt, Pakistan
 
 **Book 1:** *History, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, Addis Ababa, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-064-2, 210 printed pp. Printed page = PDF page − 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g09-student-placements.md
 
@@ -48,3 +48,16 @@ Egypt's own way (Prim4 T1 "Egypt in the Heart of the World", 4 Primary, Term 1 (
 Egypt's own way (Sec11 "Egypt and Islamic Civilisation", Grade 11 (Second Secondary) (student/teacher: STUDENT)): Islamic history told with Egypt at its centre — Arabia and the Prophet first, then the conquests, then the long Egyptian story from Amr's conquest through Tulunids, Fatimids, Ayyubids and Mamluks, closing with the civilisation's systems and gifts; the introduction quotes Gustave Le Bon on Europe's debt to Arab civilisation. That way is stocked here as the way Egypt teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 3 countries (Ethiopia, Eritrea, Egypt).**
+
+
+**Book (Pakistan — History 7 (PCTB, SNC 2022)):** *تاریخ — History 7* (student book, Urdu) — Pakistan. Title as printed: تاریخ — History 7 — based on the Single National Curriculum 2022 ("One Nation, One Curriculum"). Grade: Grade 7 / Class 7 (student/teacher: STUDENT). Publisher: Punjab Curriculum and Textbook Board (PCTB), Lahore; year: SNC 2022 edition (no year printed on cover); no ISBN printed. PDF pages: 96 (printed pp. 1–94; read IN PLACE at phase3-staging; image-only scan — the only text layer is the "Web version of PCTB Textbook Not for Sale" watermark — read in full from page renders; cover and title page verified against the record). Verdict: COMPLETE — with a library-debt note: the on-disk file is 81,665,509 bytes against the record's 80,223,717 bytes; the copy read is complete and coherent at the recorded 96 pages, but the size mismatch should be reconciled by the library team. Tally: 31 placements — 14 to existing lessons, 17 NEW LESSON NEEDED (including a reuse of a NEW slug created in Book 5 of this file). Placements at liqlearns-courses-work/expansion-history-2026-11-15/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Pakistan part — Chapter 3: the Fatimid Dynasty (909–1171) — story beats: the Fatimids claim the caliphate from North Africa, conquer Egypt, found Cairo and its Al-Azhar mosque-university in 972, and rule the richest trade crossroads of the Mediterranean until Salahuddin ends their line (History expansion, 2026-11-15; original placement slug: africa-to-1500/north-africa-fatimids-mamluks-and-the-funj) | Pakistan, *History 7 (PCTB, SNC 2022)*, printed p. 37 |
+
+Pakistan's own way (History 7 (PCTB, SNC 2022), Grade 7 / Class 7 (student/teacher: STUDENT)): Class 7 runs two arcs side by side — Europe from feudalism to factories, and the Muslim world from the Umayyads to the Mughals — so a Pakistani child meets the Crusades, the Delhi Sultanate and the Renaissance inside one cover, and the book ends with steam. That way is stocked here as the way Pakistan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 4 countries (Ethiopia, Eritrea, Egypt, Pakistan).**
+
+Searchable tags: Pakistan, North Africa — Fatimids, Mamluk Egypt and the Funj, africa-to-1500, History expansion 2026-11-15

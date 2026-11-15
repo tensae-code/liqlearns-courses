@@ -1,6 +1,6 @@
 # Sources — Exploration — Columbus, Vespucci and Magellan
 
-countries: Ethiopia, France, Guatemala, Micronesia, Ecuador, Bahamas, Kuwait, Montenegro, Dominican Republic, Egypt
+countries: Ethiopia, France, Guatemala, Micronesia, Ecuador, Bahamas, Kuwait, Montenegro, Dominican Republic, Egypt, Pakistan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 124).
 
@@ -151,3 +151,16 @@ Dominican Republic's own way (Ciencias Sociales, Quinto Grado — Proyecto Libro
 Egypt's own way (Prep9 T1 "Egypt and the Continents of the New World", Grade 9 (Third Preparatory), Term 1 (student/teacher: STUDENT)): the Americas are read against Egypt — Maya pyramids, calendars and glyphs are explicitly compared with pharaonic Egypt — before the book turns home to Muhammad Ali's state-building and the national movement against Britain. That way is stocked here as the way Egypt teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 10 countries (Ethiopia, France, Guatemala, Micronesia, Ecuador, Bahamas, Kuwait, Montenegro, Dominican Republic, Egypt).**
+
+
+**Book (Pakistan — History 7 (PCTB, SNC 2022)):** *تاریخ — History 7* (student book, Urdu) — Pakistan. Title as printed: تاریخ — History 7 — based on the Single National Curriculum 2022 ("One Nation, One Curriculum"). Grade: Grade 7 / Class 7 (student/teacher: STUDENT). Publisher: Punjab Curriculum and Textbook Board (PCTB), Lahore; year: SNC 2022 edition (no year printed on cover); no ISBN printed. PDF pages: 96 (printed pp. 1–94; read IN PLACE at phase3-staging; image-only scan — the only text layer is the "Web version of PCTB Textbook Not for Sale" watermark — read in full from page renders; cover and title page verified against the record). Verdict: COMPLETE — with a library-debt note: the on-disk file is 81,665,509 bytes against the record's 80,223,717 bytes; the copy read is complete and coherent at the recorded 96 pages, but the size mismatch should be reconciled by the library team. Tally: 31 placements — 14 to existing lessons, 17 NEW LESSON NEEDED (including a reuse of a NEW slug created in Book 5 of this file). Placements at liqlearns-courses-work/expansion-history-2026-11-15/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Pakistan part — Chapter 5: the Age of Exploration — story beats: Columbus reaches America in 1492 seeking India; John Cabot claims North America's coast for England in 1497; Cabral lands in Brazil in 1500; and Captain Cook (1728–1779) charts the Pacific — Europe's map of the world is redrawn in a generation (History expansion, 2026-11-15; original placement slug: modern-world/exploration-columbus-vespucci-and-magellan) | Pakistan, *History 7 (PCTB, SNC 2022)*, printed p. 84 |
+
+Pakistan's own way (History 7 (PCTB, SNC 2022), Grade 7 / Class 7 (student/teacher: STUDENT)): Class 7 runs two arcs side by side — Europe from feudalism to factories, and the Muslim world from the Umayyads to the Mughals — so a Pakistani child meets the Crusades, the Delhi Sultanate and the Renaissance inside one cover, and the book ends with steam. That way is stocked here as the way Pakistan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 11 countries (Ethiopia, France, Guatemala, Micronesia, Ecuador, Bahamas, Kuwait, Montenegro, Dominican Republic, Egypt, Pakistan).**
+
+Searchable tags: Pakistan, Exploration — Columbus, Vespucci and Magellan, modern-world, History expansion 2026-11-15

@@ -1,0 +1,9 @@
+# Hands-on — Pakistan under Ayub Khan — reforms and the 1965 war
+
+The lesson with your hands and your feet, not only your eyes.
+
+## Task 1
+List the parts of this story in order — Pakistan under Ayub Khan — reforms and the 1965 war — and say what changed in each part.
+
+## Task 2
+Draw or write the key scene of the first part, Ayub Khan — development instead of politics, from the story as the book tells it, and label the people and the place in it.

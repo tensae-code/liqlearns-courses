@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — Sparta, and Athens against Sparta
 
-countries: Ethiopia, Bangladesh, Montenegro
+countries: Ethiopia, Bangladesh, Montenegro, Pakistan
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 6, placements 92–106).
 
@@ -60,3 +60,16 @@ Guatemala's own way (Ciencias Sociales y Formación Ciudadana II — Guía de or
 Montenegro's own way (ИСТОРИЈА за шести разред основне школе (Istorija 6), Grade 6 (student/teacher: STUDENT)): A world-history year (history itself, prehistory, the Ancient East, Greece, Rome) that lands, in its final lesson, on home ground — the Illyrian tribes and Roman ruins of Montenegro itself, so a Montenegrin child ends antiquity standing in Doclea. That way is stocked here as the way Montenegro teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 3 countries (Ethiopia, Bangladesh, Montenegro).**
+
+
+**Book (Pakistan — History 6 (PCTB, SNC 2022)):** *تاریخ — History 6* (student book, Urdu) — Pakistan. Title as printed: تاریخ — History 6 — based on the Single National Curriculum 2022 ("One Nation, One Curriculum"). Grade: Grade 6 / Class 6 (student/teacher: STUDENT). Publisher: Punjab Curriculum and Textbook Board (PCTB), Lahore; year: SNC 2022 edition (no year printed on cover); no ISBN printed. PDF pages: 88 (printed pp. 1–86 + glossary; image-only scan read in full from page renders). Verdict: COMPLETE — with a library-debt note: this book is NOT in the GitHub tree or in any release, although its record claims it pushed; the tree grab 404'd twice. It was read from the record's own Google Drive source_url (freebooks.pk), which delivered exactly the recorded 48,383,526 bytes, and — per the push-don't-delete rule — the read copy has been STAGED at ~/workspace/phase3-staging/grade-06/gov/pakistan/history/student/full-year.pdf (the books.json record for it already existed in that folder); the scratch copy was then deleted. Tally: 22 placements — 18 to existing lessons, 4 NEW LESSON NEEDED (2 reusing NEW slugs created in Book 2 of this file). Placements at liqlearns-courses-work/expansion-history-2026-11-15/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Pakistan part — Chapter 2: Athens and Sparta — story beats: two cities, two ways of life — Athens of ships, assemblies and schools, Sparta of barracks and discipline; allies against Persia, they turn on each other in the Peloponnesian War of 431 BCE and exhaust the Greek world between them (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-sparta-and-athens-against-sparta) | Pakistan, *History 6 (PCTB, SNC 2022)*, printed p. 37 |
+
+Pakistan's own way (History 6 (PCTB, SNC 2022), Grade 6 / Class 6 (student/teacher: STUDENT)): from Class 6, History becomes a subject of its own — a full ancient-world course in Urdu that keeps returning home: Mehrgarh and the Indus in the first chapter, Gandhara's heirs the Kushans in the third, and the story of Islam told as civilisation history to close the book. That way is stocked here as the way Pakistan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 4 countries (Ethiopia, Bangladesh, Montenegro, Pakistan).**
+
+Searchable tags: Pakistan, Ancient civilisations — Sparta, and Athens against Sparta, ancient-world, History expansion 2026-11-15

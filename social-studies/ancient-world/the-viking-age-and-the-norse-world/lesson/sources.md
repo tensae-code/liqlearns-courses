@@ -1,6 +1,6 @@
 # Sources — The Viking Age and the Norse world
 
-countries: Iceland
+countries: Iceland, Pakistan
 
 **Book (Iceland):** *Víkingaöld — Kennsluleiðbeiningar (Árin 800–1050)* (teacher guide, Icelandic) — Iceland. Title as printed: Víkingaöld — Kennsluleiðbeiningar (Árin 800–1050). Grade: Grade 5 (student/teacher: TEACHER). Publisher: Námsgagnastofnun, Kópavogur; year 2013 (1st edition, Sigrún Helgadóttir & Sigrún Björk Cortes); ISBN no ISBN printed. PDF pages: 49 (cover verified against the record title). Verdict: COMPLETE. Tally: 8 placements — 2 to existing lessons, 6 NEW LESSON NEEDED. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-history-2026-11-15/iceland-placements.md.
 
@@ -20,3 +20,16 @@ This book is a teacher guide, not a pupil text. Every part of this lesson stands
 Iceland's own way: the Viking Age is taught from Iceland's own ground — children become archaeologists on a field trip, meet a real pagan grave (the "Fjallkona"), read Eiríks saga rauða in the original tradition, and end by building a timeline from 800 to today; the Althing at Þingvellir is the national centrepiece. That way is stocked here as the way Iceland teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 Searchable tags: Viking Age, Norse world, Althing, Þingvellir, Erik the Red, Eiríks saga rauða, seeress Þorbjörg, turf hall, Iceland Grade 5, ancient-world, teacher guide evidence
+
+
+**Book (Pakistan — History 7 (PCTB, SNC 2022)):** *تاریخ — History 7* (student book, Urdu) — Pakistan. Title as printed: تاریخ — History 7 — based on the Single National Curriculum 2022 ("One Nation, One Curriculum"). Grade: Grade 7 / Class 7 (student/teacher: STUDENT). Publisher: Punjab Curriculum and Textbook Board (PCTB), Lahore; year: SNC 2022 edition (no year printed on cover); no ISBN printed. PDF pages: 96 (printed pp. 1–94; read IN PLACE at phase3-staging; image-only scan — the only text layer is the "Web version of PCTB Textbook Not for Sale" watermark — read in full from page renders; cover and title page verified against the record). Verdict: COMPLETE — with a library-debt note: the on-disk file is 81,665,509 bytes against the record's 80,223,717 bytes; the copy read is complete and coherent at the recorded 96 pages, but the size mismatch should be reconciled by the library team. Tally: 31 placements — 14 to existing lessons, 17 NEW LESSON NEEDED (including a reuse of a NEW slug created in Book 5 of this file). Placements at liqlearns-courses-work/expansion-history-2026-11-15/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Pakistan part — Chapter 1: the Viking raids — story beats: from the 8th to the 10th century the Norsemen pour out of Scandinavia — raiders, traders and settlers at once — frightening every coast of Europe and leaving their names from Normandy to Iceland (History expansion, 2026-11-15; original placement slug: ancient-world/the-vikings-norsemen-who-raided-and-settled-europe) | Pakistan, *History 7 (PCTB, SNC 2022)*, printed p. 4 |
+
+Pakistan's own way (History 7 (PCTB, SNC 2022), Grade 7 / Class 7 (student/teacher: STUDENT)): Class 7 runs two arcs side by side — Europe from feudalism to factories, and the Muslim world from the Umayyads to the Mughals — so a Pakistani child meets the Crusades, the Delhi Sultanate and the Renaissance inside one cover, and the book ends with steam. That way is stocked here as the way Pakistan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 1 country (Pakistan).** Iceland's placements above stand as teacher-guide evidence only, named here, counted nowhere — this lesson previously stood on teacher-guide evidence alone (acceptance 0); Pakistan's student book now stocks it and it counts 1.
+
+Searchable tags: Pakistan, The Viking Age and the Norse world, ancient-world, History expansion 2026-11-15

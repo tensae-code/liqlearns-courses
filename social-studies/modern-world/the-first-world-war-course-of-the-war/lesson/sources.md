@@ -1,6 +1,6 @@
 # Sources — The First World War — course of the war
 
-countries: Ethiopia, United States, Montenegro, Dominican Republic
+countries: Ethiopia, United States, Montenegro, Dominican Republic, Pakistan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 134).
 
@@ -74,3 +74,16 @@ Montenegro's own way (ИСТОРИЈА — уџбеник за девети ра
 Dominican Republic's own way (Ciencias Sociales, Sexto Grado — Proyecto Libro Abierto, Grade 6 (student/teacher: STUDENT)): a full world-history sweep (civilisations, modernity, revolutions) is bolted to a detailed national second half — occupation, Trujillo, Bosch, the April 1965 revolution and the democratic decades — so a primary leaver holds both stories at once. That way is stocked here as the way the Dominican Republic teaches this thing. Combined-subject note: this is a combined Ciencias Sociales book — only its History units are placed; its Geography and Civics units are named in the book entry above, not placed. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 4 countries (Ethiopia, United States, Montenegro, Dominican Republic).**
+
+
+**Book (Pakistan — History 8 (PCTB, SNC 2022)):** *History 8* (student book, English) — Pakistan. Title as printed: History 8 — Based on Single National Curriculum 2022 (ONE NATION, ONE CURRICULUM). Grade: Grade 8 / Class 8 (student/teacher: STUDENT). Publisher: Punjab Curriculum and Textbook Board (PCTB), Lahore; year: Experimental Edition, SNC 2022 based (no year printed on cover); no ISBN printed. PDF pages: 96 (cover/title page verified against the record title; text layer read in full). Verdict: COMPLETE. Tally: 33 placements — 6 to existing lessons, 27 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Pakistan part — Ch.3: the war on western and eastern fronts; Russia leaves after the 1917 Revolution — story beats: Germany wins in the east but bleeds in the trenches of the west until revolution knocks Russia out (History expansion, 2026-11-15; original placement slug: modern-world/the-first-world-war-course-of-the-war) | Pakistan, *History 8 (PCTB, SNC 2022)*, printed p. 32 |
+
+Pakistan's own way (History 8 (PCTB, SNC 2022), Grade 8 / Class 8 (student/teacher: STUDENT)): Pakistan's national story is the spine — British conquest and Muslim reform lead in a straight line to the Pakistan Movement, then to constitutions, wars and the war on terror; every chapter ends with timeline, quiz and project work. That way is stocked here as the way Pakistan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 5 countries (Ethiopia, United States, Montenegro, Dominican Republic, Pakistan).**
+
+Searchable tags: Pakistan, The First World War — course of the war, modern-world, History expansion 2026-11-15

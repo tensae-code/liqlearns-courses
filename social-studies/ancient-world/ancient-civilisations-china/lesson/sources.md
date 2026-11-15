@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — China
 
-countries: Ethiopia, Australia, Malaysia, Ecuador, India, Dominican Republic, Egypt
+countries: Ethiopia, Australia, Malaysia, Ecuador, India, Dominican Republic, Egypt, Pakistan
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -119,3 +119,16 @@ Dominican Republic's own way (Ciencias Sociales, Cuarto Grado de Secundaria — 
 Egypt's own way (Prep8 T1 "Egypt and its Relations with Asia and Europe", Grade 8 (Second Preparatory), Term 1 (student/teacher: STUDENT)): Egypt is the measuring stick — every Asian and European civilisation, from Sumer to Rome, is introduced by its factors and features and then tied back to its relations with Egypt. That way is stocked here as the way Egypt teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 7 countries (Ethiopia, Australia, Malaysia, Ecuador, India, Dominican Republic, Egypt).**
+
+
+**Book (Pakistan — History 6 (PCTB, SNC 2022)):** *تاریخ — History 6* (student book, Urdu) — Pakistan. Title as printed: تاریخ — History 6 — based on the Single National Curriculum 2022 ("One Nation, One Curriculum"). Grade: Grade 6 / Class 6 (student/teacher: STUDENT). Publisher: Punjab Curriculum and Textbook Board (PCTB), Lahore; year: SNC 2022 edition (no year printed on cover); no ISBN printed. PDF pages: 88 (printed pp. 1–86 + glossary; image-only scan read in full from page renders). Verdict: COMPLETE — with a library-debt note: this book is NOT in the GitHub tree or in any release, although its record claims it pushed; the tree grab 404'd twice. It was read from the record's own Google Drive source_url (freebooks.pk), which delivered exactly the recorded 48,383,526 bytes, and — per the push-don't-delete rule — the read copy has been STAGED at ~/workspace/phase3-staging/grade-06/gov/pakistan/history/student/full-year.pdf (the books.json record for it already existed in that folder); the scratch copy was then deleted. Tally: 22 placements — 18 to existing lessons, 4 NEW LESSON NEEDED (2 reusing NEW slugs created in Book 2 of this file). Placements at liqlearns-courses-work/expansion-history-2026-11-15/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Pakistan part — Chapter 1: the Chinese civilisation — story beats: China's 4,000-year story opens on its rivers — the Shang kingdom (the book's map: 1028–1523 BCE), the Zhou who follow, silk weaving, oracle-bone writing, and in 221 BCE Qin Shi Huang welding the warring states into one China (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-china) | Pakistan, *History 6 (PCTB, SNC 2022)*, printed p. 25 |
+
+Pakistan's own way (History 6 (PCTB, SNC 2022), Grade 6 / Class 6 (student/teacher: STUDENT)): from Class 6, History becomes a subject of its own — a full ancient-world course in Urdu that keeps returning home: Mehrgarh and the Indus in the first chapter, Gandhara's heirs the Kushans in the third, and the story of Islam told as civilisation history to close the book. That way is stocked here as the way Pakistan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 8 countries (Ethiopia, Australia, Malaysia, Ecuador, India, Dominican Republic, Egypt, Pakistan).**
+
+Searchable tags: Pakistan, Ancient civilisations — China, ancient-world, History expansion 2026-11-15

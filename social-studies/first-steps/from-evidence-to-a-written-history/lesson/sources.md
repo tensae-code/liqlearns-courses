@@ -1,6 +1,6 @@
 # Sources — From evidence to a written history
 
-countries: Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt
+countries: Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -658,3 +658,16 @@ Egypt's own way (Prim4 T1 "Egypt in the Heart of the World", 4 Primary, Term 1 (
 Egypt's own way (Sec10 "Egypt the Civilisation — the Civilisation of Egypt and the Ancient World", Grade 10 (First Secondary), full year (student/teacher: STUDENT)): the secondary course opens with Egypt introducing herself in her own voice ("Egypt speaks about herself"), then treats civilisation itself as the first lesson — what it is, how we know it, why it rises — before walking Egypt's Pharaonic life theme by theme and setting her among Iraq, Phoenicia, Greece and Rome. That way is stocked here as the way Egypt teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 20 countries (Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt).**
+
+
+**Book (Pakistan — History 6 (PCTB, SNC 2022)):** *تاریخ — History 6* (student book, Urdu) — Pakistan. Title as printed: تاریخ — History 6 — based on the Single National Curriculum 2022 ("One Nation, One Curriculum"). Grade: Grade 6 / Class 6 (student/teacher: STUDENT). Publisher: Punjab Curriculum and Textbook Board (PCTB), Lahore; year: SNC 2022 edition (no year printed on cover); no ISBN printed. PDF pages: 88 (printed pp. 1–86 + glossary; image-only scan read in full from page renders). Verdict: COMPLETE — with a library-debt note: this book is NOT in the GitHub tree or in any release, although its record claims it pushed; the tree grab 404'd twice. It was read from the record's own Google Drive source_url (freebooks.pk), which delivered exactly the recorded 48,383,526 bytes, and — per the push-don't-delete rule — the read copy has been STAGED at ~/workspace/phase3-staging/grade-06/gov/pakistan/history/student/full-year.pdf (the books.json record for it already existed in that folder); the scratch copy was then deleted. Tally: 22 placements — 18 to existing lessons, 4 NEW LESSON NEEDED (2 reusing NEW slugs created in Book 2 of this file). Placements at liqlearns-courses-work/expansion-history-2026-11-15/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Pakistan part — Chapter 1 opening: primary and secondary sources — story beats: before any civilisation, the book teaches how the past is known at all — primary sources (diaries, birth certificates, interviews, government records, newspapers) versus secondary sources (research articles, textbooks, encyclopaedias), and what each is used for (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Pakistan, *History 6 (PCTB, SNC 2022)*, printed p. 2 |
+
+Pakistan's own way (History 6 (PCTB, SNC 2022), Grade 6 / Class 6 (student/teacher: STUDENT)): from Class 6, History becomes a subject of its own — a full ancient-world course in Urdu that keeps returning home: Mehrgarh and the Indus in the first chapter, Gandhara's heirs the Kushans in the third, and the story of Islam told as civilisation history to close the book. That way is stocked here as the way Pakistan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 21 countries (Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic, United Kingdom, Egypt, Pakistan).**
+
+Searchable tags: Pakistan, From evidence to a written history, first-steps, History expansion 2026-11-15

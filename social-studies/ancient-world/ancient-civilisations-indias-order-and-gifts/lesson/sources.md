@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — India's order and gifts
 
-countries: Ethiopia, Australia, Eritrea, India
+countries: Ethiopia, Australia, Eritrea, India, Pakistan
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 6, placements 92–106).
 
@@ -52,3 +52,16 @@ Eritrea's own way (Grade 7): world history is taught as a ladder of societies �
 India's own way (Our Pasts-I, Grade 6): NCERT teaches history as a story journey — every chapter opens with a present-day child (Rasheeda, Tushar, Jaspal…) whose question starts the chapter, primary sources are quoted in boxes (the Rigveda dialogue, Ashoka's own inscription, Fa Xian, Banabhatta), an "Elsewhere" box sets India beside the wider world each chapter, and kings are taught alongside ordinary people — farmers, fishers, weavers, slaves — with the book's title itself plural: Our Pasts, because different groups lived different pasts. That way is stocked here as the way India teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 4 countries (Ethiopia, Australia, Eritrea, India).**
+
+
+**Book (Pakistan — History 6 (PCTB, SNC 2022)):** *تاریخ — History 6* (student book, Urdu) — Pakistan. Title as printed: تاریخ — History 6 — based on the Single National Curriculum 2022 ("One Nation, One Curriculum"). Grade: Grade 6 / Class 6 (student/teacher: STUDENT). Publisher: Punjab Curriculum and Textbook Board (PCTB), Lahore; year: SNC 2022 edition (no year printed on cover); no ISBN printed. PDF pages: 88 (printed pp. 1–86 + glossary; image-only scan read in full from page renders). Verdict: COMPLETE — with a library-debt note: this book is NOT in the GitHub tree or in any release, although its record claims it pushed; the tree grab 404'd twice. It was read from the record's own Google Drive source_url (freebooks.pk), which delivered exactly the recorded 48,383,526 bytes, and — per the push-don't-delete rule — the read copy has been STAGED at ~/workspace/phase3-staging/grade-06/gov/pakistan/history/student/full-year.pdf (the books.json record for it already existed in that folder); the scratch copy was then deleted. Tally: 22 placements — 18 to existing lessons, 4 NEW LESSON NEEDED (2 reusing NEW slugs created in Book 2 of this file). Placements at liqlearns-courses-work/expansion-history-2026-11-15/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Pakistan part — Chapter 3: the Aryans — story beats: around 1500 BCE Aryan tribes migrate through the Khyber into the Punjab — pushed, the book says, by cold, hunger and shrinking pastures; they transform the local civilisation, order society into Brahmins, Kshatriyas, Vaishyas and Shudras, and worship Indra, Agni and Varuna in the hymns of the Vedas (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-indias-order-and-gifts) | Pakistan, *History 6 (PCTB, SNC 2022)*, printed p. 49 |
+
+Pakistan's own way (History 6 (PCTB, SNC 2022), Grade 6 / Class 6 (student/teacher: STUDENT)): from Class 6, History becomes a subject of its own — a full ancient-world course in Urdu that keeps returning home: Mehrgarh and the Indus in the first chapter, Gandhara's heirs the Kushans in the third, and the story of Islam told as civilisation history to close the book. That way is stocked here as the way Pakistan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 5 countries (Ethiopia, Australia, Eritrea, India, Pakistan).**
+
+Searchable tags: Pakistan, Ancient civilisations — India's order and gifts, ancient-world, History expansion 2026-11-15

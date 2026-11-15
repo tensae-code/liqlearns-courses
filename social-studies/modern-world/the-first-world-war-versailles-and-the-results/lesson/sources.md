@@ -1,6 +1,6 @@
 # Sources — The First World War — Versailles and the results
 
-countries: Ethiopia, Indonesia, Montenegro, United Kingdom
+countries: Ethiopia, Indonesia, Montenegro, United Kingdom, Pakistan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 135).
 
@@ -97,3 +97,16 @@ Montenegro's own way (ИСТОРИЈА — уџбеник за девети ра
 United Kingdom's own way (GCSE History for Edexcel: Weimar and Nazi Germany, 1918–39, Grade 10 (student/teacher: STUDENT)): a modern depth study of Germany's road from defeat to dictatorship, built chapter by chapter around sources and rival historians' interpretations, with a named exam-skill section (inference, utility, causation, interpretations) closing almost every chapter. That way is stocked here as the way the United Kingdom teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 4 countries (Ethiopia, Indonesia, Montenegro, United Kingdom).**
+
+
+**Book (Pakistan — History 8 (PCTB, SNC 2022)):** *History 8* (student book, English) — Pakistan. Title as printed: History 8 — Based on Single National Curriculum 2022 (ONE NATION, ONE CURRICULUM). Grade: Grade 8 / Class 8 (student/teacher: STUDENT). Publisher: Punjab Curriculum and Textbook Board (PCTB), Lahore; year: Experimental Edition, SNC 2022 based (no year printed on cover); no ISBN printed. PDF pages: 96 (cover/title page verified against the record title; text layer read in full). Verdict: COMPLETE. Tally: 33 placements — 6 to existing lessons, 27 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Pakistan part — Ch.3: Germany is disarmed and made to pay reparations, breeding the national humiliation the next war grows from — story beats: the peace punishes Germany so hard it stores up the anger of the 1930s (History expansion, 2026-11-15; original placement slug: modern-world/the-first-world-war-versailles-and-the-results) | Pakistan, *History 8 (PCTB, SNC 2022)*, printed p. 34 |
+
+Pakistan's own way (History 8 (PCTB, SNC 2022), Grade 8 / Class 8 (student/teacher: STUDENT)): Pakistan's national story is the spine — British conquest and Muslim reform lead in a straight line to the Pakistan Movement, then to constitutions, wars and the war on terror; every chapter ends with timeline, quiz and project work. That way is stocked here as the way Pakistan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 5 countries (Ethiopia, Indonesia, Montenegro, United Kingdom, Pakistan).**
+
+Searchable tags: Pakistan, The First World War — Versailles and the results, modern-world, History expansion 2026-11-15

@@ -1,6 +1,6 @@
 # Sources — Dating the past — calendars, timelines and periods
 
-countries: Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom
+countries: Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -390,3 +390,16 @@ United Kingdom's own way (Edexcel GCSE (9-1) History: Anglo-Saxon and Norman Eng
 United Kingdom's own way (Edexcel GCSE (9-1) History: Russia and the Soviet Union, 1917–1941, Grade 10 (student/teacher: STUDENT)): a modern depth study of another country's revolution — Russia's 1917–41 story told in detail for British learners, with historians' rival interpretations (Volkogonov and others) set against contemporary posters and photographs throughout. That way is stocked here as the way the United Kingdom teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 17 countries (Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom).**
+
+
+**Book (Pakistan — Social Studies, Class 5 (PCTB, SNC 2020)):** *معاشرتی علوم — Social Studies, Class 5* (student book, Urdu) — Pakistan. Title as printed: معاشرتی علوم — Social Studies, Class 5 — based on the Single National Curriculum 2020 ("One Nation, One Curriculum"). Grade: Grade 5 / Class 5 (student/teacher: STUDENT). Publisher: Punjab Curriculum and Textbook Board (PCTB), Lahore; year: SNC 2020 edition (no year printed on cover); no ISBN printed. PDF pages: 114 (printed pp. 1–110 + national anthem page; read IN PLACE at phase3-staging; image-only scan read in full from page renders; cover and title page verified against the record; the TSV and books.json records are this same book, counted once). Verdict: COMPLETE. Tally: 13 placements — 5 to existing lessons, 8 NEW LESSON NEEDED (3 new slugs first created in this book; 5 placements reuse NEW slugs created in Books 1 and 5 of this file). Non-History parts (named, not placed): Chapter 1 Citizenship (printed pp. 1–9 — rights and responsibilities, the UN and the 1948 Declaration, freedom of speech; Civics); Chapter 3 State and Government (printed pp. 25–32 — federal, provincial and local government, the 1973 Constitution, political parties; Civics); Chapter 5 Geography (printed pp. 51–85 — globe and map skills, latitude and longitude, time zones, physical features of Pakistan, weather and climate, natural disasters, population); Chapter 6 Economics (printed pp. 86–108 — goods and services, inflation, taxes, trade, entrepreneurship) except its Evolution of Money unit, placed in this expansion. Placements at liqlearns-courses-work/expansion-history-2026-11-15/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Pakistan part — Chapter 4 (History): the beginning of civilisations — story beats: before the stories, the chapter teaches the clock they are told by — years counted backwards in BCE from the birth of Christ and forwards in CE, so a child can place Greece, Rome and Gandhara on one line of time (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Pakistan, *Social Studies, Class 5 (PCTB, SNC 2020)*, printed p. 33 |
+
+Pakistan's own way (Social Studies, Class 5 (PCTB, SNC 2020), Grade 5 / Class 5 (student/teacher: STUDENT)): Class 5 widens the lens — three whole civilisations (Greek, Roman, and Gandhara in Pakistan's own north-west), then the Pakistan Movement told through its makers, province by province again but in more depth than Class 4. That way is stocked here as the way Pakistan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 18 countries (Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan).**
+
+Searchable tags: Pakistan, Dating the past — calendars, timelines and periods, first-steps, History expansion 2026-11-15

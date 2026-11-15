@@ -1,6 +1,6 @@
 # Sources — The world after 1945 — losses, division and rebuilding
 
-countries: Ethiopia, Kuwait, Montenegro
+countries: Ethiopia, Kuwait, Montenegro, Pakistan
 
 **Book 1:** *History, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-067-3. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g12-student-placements.md
 
@@ -56,3 +56,16 @@ Kuwait's own way (Grade 12 Term 2): Term 2 runs revolutions into world wars and 
 Montenegro's own way (ИСТОРИЈА — уџбеник за девети разред основне школе (Istorija 9), Grade 9 (student/teacher: STUDENT)): The twentieth century is taught as a double story throughout — every world chapter (the wars, the revolutions, the -isms) is immediately followed by its Montenegrin/Yugoslav chapter, and the book ends where Montenegro's own story ends: the breakup of Yugoslavia and the renewal of Montenegrin independence. That way is stocked here as the way Montenegro teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 3 countries (Ethiopia, Kuwait, Montenegro).**
+
+
+**Book (Pakistan — History 8 (PCTB, SNC 2022)):** *History 8* (student book, English) — Pakistan. Title as printed: History 8 — Based on Single National Curriculum 2022 (ONE NATION, ONE CURRICULUM). Grade: Grade 8 / Class 8 (student/teacher: STUDENT). Publisher: Punjab Curriculum and Textbook Board (PCTB), Lahore; year: Experimental Edition, SNC 2022 based (no year printed on cover); no ISBN printed. PDF pages: 96 (cover/title page verified against the record title; text layer read in full). Verdict: COMPLETE. Tally: 33 placements — 6 to existing lessons, 27 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Pakistan part — Ch.3: the war's end promotes democratic ideas, partitions Germany, produces NATO (1949) and founds the United Nations with its Security Council — story beats: from the ruins come two armed blocs and a new world body meant to keep the peace (History expansion, 2026-11-15; original placement slug: modern-world/the-world-after-1945-losses-division-and-rebuilding) | Pakistan, *History 8 (PCTB, SNC 2022)*, printed p. 37 |
+
+Pakistan's own way (History 8 (PCTB, SNC 2022), Grade 8 / Class 8 (student/teacher: STUDENT)): Pakistan's national story is the spine — British conquest and Muslim reform lead in a straight line to the Pakistan Movement, then to constitutions, wars and the war on terror; every chapter ends with timeline, quiz and project work. That way is stocked here as the way Pakistan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 4 countries (Ethiopia, Kuwait, Montenegro, Pakistan).**
+
+Searchable tags: Pakistan, The world after 1945 — losses, division and rebuilding, modern-world, History expansion 2026-11-15

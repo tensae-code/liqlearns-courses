@@ -1,6 +1,6 @@
 # Sources — Ancient Egypt — What Egypt Gave
 
-countries: Ethiopia, Australia, Egypt
+countries: Ethiopia, Australia, Egypt, Pakistan
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (placement 82).
 
@@ -66,3 +66,16 @@ Egypt's own way (Prim5 T1 "Egypt — the Story of a Homeland and a Civilisation"
 Egypt's own way (Sec10 "Egypt the Civilisation — the Civilisation of Egypt and the Ancient World", Grade 10 (First Secondary), full year (student/teacher: STUDENT)): the secondary course opens with Egypt introducing herself in her own voice ("Egypt speaks about herself"), then treats civilisation itself as the first lesson — what it is, how we know it, why it rises — before walking Egypt's Pharaonic life theme by theme and setting her among Iraq, Phoenicia, Greece and Rome. That way is stocked here as the way Egypt teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 3 countries (Ethiopia, Australia, Egypt).**
+
+
+**Book (Pakistan — History 6 (PCTB, SNC 2022)):** *تاریخ — History 6* (student book, Urdu) — Pakistan. Title as printed: تاریخ — History 6 — based on the Single National Curriculum 2022 ("One Nation, One Curriculum"). Grade: Grade 6 / Class 6 (student/teacher: STUDENT). Publisher: Punjab Curriculum and Textbook Board (PCTB), Lahore; year: SNC 2022 edition (no year printed on cover); no ISBN printed. PDF pages: 88 (printed pp. 1–86 + glossary; image-only scan read in full from page renders). Verdict: COMPLETE — with a library-debt note: this book is NOT in the GitHub tree or in any release, although its record claims it pushed; the tree grab 404'd twice. It was read from the record's own Google Drive source_url (freebooks.pk), which delivered exactly the recorded 48,383,526 bytes, and — per the push-don't-delete rule — the read copy has been STAGED at ~/workspace/phase3-staging/grade-06/gov/pakistan/history/student/full-year.pdf (the books.json record for it already existed in that folder); the scratch copy was then deleted. Tally: 22 placements — 18 to existing lessons, 4 NEW LESSON NEEDED (2 reusing NEW slugs created in Book 2 of this file). Placements at liqlearns-courses-work/expansion-history-2026-11-15/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Pakistan part — Chapter 1: Egypt's social structure, religion, scripts and pyramids — story beats: society stands as a pyramid drawn on the page — pharaoh, vizier and officials, nobles and priests, scribes and soldiers, artisans and merchants, peasants and slaves; below the pharaoh-god, a world of many gods, hieroglyphic writing, and pyramids whose three inner chambers guard the king's road to the afterlife (History expansion, 2026-11-15; original placement slug: africa-to-1500/ancient-egypt-what-egypt-gave) | Pakistan, *History 6 (PCTB, SNC 2022)*, printed p. 13 |
+
+Pakistan's own way (History 6 (PCTB, SNC 2022), Grade 6 / Class 6 (student/teacher: STUDENT)): from Class 6, History becomes a subject of its own — a full ancient-world course in Urdu that keeps returning home: Mehrgarh and the Indus in the first chapter, Gandhara's heirs the Kushans in the third, and the story of Islam told as civilisation history to close the book. That way is stocked here as the way Pakistan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 4 countries (Ethiopia, Australia, Egypt, Pakistan).**
+
+Searchable tags: Pakistan, Ancient Egypt — What Egypt Gave, africa-to-1500, History expansion 2026-11-15

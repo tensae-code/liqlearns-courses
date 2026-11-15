@@ -1,6 +1,6 @@
 # Sources — The First World War — causes
 
-countries: Ethiopia, Turkey, Costa Rica, Australia, Kuwait, Nepal, Montenegro, Dominican Republic
+countries: Ethiopia, Turkey, Costa Rica, Australia, Kuwait, Nepal, Montenegro, Dominican Republic, Pakistan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 133).
 
@@ -119,3 +119,16 @@ Montenegro's own way (ИСТОРИЈА — уџбеник за девети ра
 Dominican Republic's own way (Ciencias Sociales, Cuarto Grado de Secundaria — Proyecto Libro Abierto, Grade 10 (student/teacher: STUDENT)): secondary social studies is a straight world-history course — history as science, human origins, classical antiquity, feudalism, Europe's primacy, capitalism and the twentieth century's wars and revolutions — taught through primary/secondary source analysis. That way is stocked here as the way the Dominican Republic teaches this thing. Combined-subject note: this is a combined Ciencias Sociales book — only its History units are placed; its Geography and Civics units are named in the book entry above, not placed. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 8 countries (Ethiopia, Turkey, Costa Rica, Australia, Kuwait, Nepal, Montenegro, Dominican Republic).**
+
+
+**Book (Pakistan — History 8 (PCTB, SNC 2022)):** *History 8* (student book, English) — Pakistan. Title as printed: History 8 — Based on Single National Curriculum 2022 (ONE NATION, ONE CURRICULUM). Grade: Grade 8 / Class 8 (student/teacher: STUDENT). Publisher: Punjab Curriculum and Textbook Board (PCTB), Lahore; year: Experimental Edition, SNC 2022 based (no year printed on cover); no ISBN printed. PDF pages: 96 (cover/title page verified against the record title; text layer read in full). Verdict: COMPLETE. Tally: 33 placements — 6 to existing lessons, 27 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Pakistan part — Ch.3 World Wars I and II: alliances, militarism and rivalry push Europe into the First World War in 1914 — story beats: armed camps and an arms race leave Europe one spark away from a general war (History expansion, 2026-11-15; original placement slug: modern-world/the-first-world-war-causes) | Pakistan, *History 8 (PCTB, SNC 2022)*, printed p. 29 |
+
+Pakistan's own way (History 8 (PCTB, SNC 2022), Grade 8 / Class 8 (student/teacher: STUDENT)): Pakistan's national story is the spine — British conquest and Muslim reform lead in a straight line to the Pakistan Movement, then to constitutions, wars and the war on terror; every chapter ends with timeline, quiz and project work. That way is stocked here as the way Pakistan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 9 countries (Ethiopia, Turkey, Costa Rica, Australia, Kuwait, Nepal, Montenegro, Dominican Republic, Pakistan).**
+
+Searchable tags: Pakistan, The First World War — causes, modern-world, History expansion 2026-11-15

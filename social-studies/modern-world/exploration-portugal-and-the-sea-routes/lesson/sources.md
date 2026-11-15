@@ -1,6 +1,6 @@
 # Sources — Exploration — Portugal and the sea routes to India
 
-countries: Ethiopia, Palestine, Nigeria, United States, Ecuador, Kuwait, Indonesia, Montenegro
+countries: Ethiopia, Palestine, Nigeria, United States, Ecuador, Kuwait, Indonesia, Montenegro, Pakistan
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -141,3 +141,21 @@ Indonesia's own way (Sejarah untuk SMA/MA/SMK/MAK Kelas XI, Edisi Revisi, Kelas 
 Montenegro's own way (ИСТОРИЈА за седми разред основне школе (Istorija 7), Grade 7 (student/teacher: STUDENT)): The medieval year alternates Europe and home in strict rhythm — migration, feudalism, Byzantium, the Church and Islam, then the Slavs arrive and the book stays with Duklja/Zeta (Vojislavljevići, Nemanjići, Balšići, Crnojevići) as Europe's late-medieval story frames it. That way is stocked here as the way Montenegro teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 8 countries (Ethiopia, Palestine, Nigeria, United States, Ecuador, Kuwait, Indonesia, Montenegro).**
+
+
+**Book (Pakistan — History 7 (PCTB, SNC 2022)):** *تاریخ — History 7* (student book, Urdu) — Pakistan. Title as printed: تاریخ — History 7 — based on the Single National Curriculum 2022 ("One Nation, One Curriculum"). Grade: Grade 7 / Class 7 (student/teacher: STUDENT). Publisher: Punjab Curriculum and Textbook Board (PCTB), Lahore; year: SNC 2022 edition (no year printed on cover); no ISBN printed. PDF pages: 96 (printed pp. 1–94; read IN PLACE at phase3-staging; image-only scan — the only text layer is the "Web version of PCTB Textbook Not for Sale" watermark — read in full from page renders; cover and title page verified against the record). Verdict: COMPLETE — with a library-debt note: the on-disk file is 81,665,509 bytes against the record's 80,223,717 bytes; the copy read is complete and coherent at the recorded 96 pages, but the size mismatch should be reconciled by the library team. Tally: 31 placements — 14 to existing lessons, 17 NEW LESSON NEEDED (including a reuse of a NEW slug created in Book 5 of this file). Placements at liqlearns-courses-work/expansion-history-2026-11-15/pakistan-placements.md.
+
+**Book (Pakistan — History 8 (PCTB, SNC 2022)):** *History 8* (student book, English) — Pakistan. Title as printed: History 8 — Based on Single National Curriculum 2022 (ONE NATION, ONE CURRICULUM). Grade: Grade 8 / Class 8 (student/teacher: STUDENT). Publisher: Punjab Curriculum and Textbook Board (PCTB), Lahore; year: Experimental Edition, SNC 2022 based (no year printed on cover); no ISBN printed. PDF pages: 96 (cover/title page verified against the record title; text layer read in full). Verdict: COMPLETE. Tally: 33 placements — 6 to existing lessons, 27 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Pakistan part — Chapter 5: the Portuguese sea road — story beats: Vasco da Gama (1460–1524) rounds Africa and reaches India by sea in 1498, breaking the land routes' monopoly and opening the ocean road that brings Europe — and eventually empire — to Asia's ports (History expansion, 2026-11-15; original placement slug: modern-world/exploration-portugal-and-the-sea-routes) | Pakistan, *History 7 (PCTB, SNC 2022)*, printed p. 84 |
+| Pakistan part — Ch.1 Arrival of the British: Arab traders, Vasco da Gama reaches Calicut 1498, sea route opens — story beats: Arab merchants profit carrying Indian goods to Europe, da Gama's landing shows Europeans the sea road and the race for India begins (History expansion, 2026-11-15; original placement slug: modern-world/exploration-portugal-and-the-sea-routes) | Pakistan, *History 8 (PCTB, SNC 2022)*, printed p. 1 |
+
+Pakistan's own way (History 7 (PCTB, SNC 2022), Grade 7 / Class 7 (student/teacher: STUDENT)): Class 7 runs two arcs side by side — Europe from feudalism to factories, and the Muslim world from the Umayyads to the Mughals — so a Pakistani child meets the Crusades, the Delhi Sultanate and the Renaissance inside one cover, and the book ends with steam. That way is stocked here as the way Pakistan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Pakistan's own way (History 8 (PCTB, SNC 2022), Grade 8 / Class 8 (student/teacher: STUDENT)): Pakistan's national story is the spine — British conquest and Muslim reform lead in a straight line to the Pakistan Movement, then to constitutions, wars and the war on terror; every chapter ends with timeline, quiz and project work. That way is stocked here as the way Pakistan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 9 countries (Ethiopia, Palestine, Nigeria, United States, Ecuador, Kuwait, Indonesia, Montenegro, Pakistan).**
+
+Searchable tags: Pakistan, Exploration — Portugal and the sea routes to India, modern-world, History expansion 2026-11-15

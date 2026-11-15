@@ -1,6 +1,6 @@
 # Sources — Napoleon — reformer, conqueror, fallen
 
-countries: Ethiopia, Belarus, Montenegro
+countries: Ethiopia, Belarus, Montenegro, Pakistan
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under GEQIP-E, ISBN 978-99990-0-066-6. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -86,3 +86,16 @@ Belarus's own way (Contour Maps: History of Belarus, Grade 9, Grade 9): The nine
 Montenegro's own way (ИСТОРИЈА за осми разред основне школе (Istorija 8), Grade 8 (student/teacher: STUDENT)): Two world chapters and two home chapters alternate: Europe of discoveries and revolutions, then Montenegro 1697–1851 building a theocratic state; the world to 1914, then Montenegro 1851–1914 racing to catch it — principality, wars, constitution. That way is stocked here as the way Montenegro teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 3 countries (Ethiopia, Belarus, Montenegro).**
+
+
+**Book (Pakistan — History 7 (PCTB, SNC 2022)):** *تاریخ — History 7* (student book, Urdu) — Pakistan. Title as printed: تاریخ — History 7 — based on the Single National Curriculum 2022 ("One Nation, One Curriculum"). Grade: Grade 7 / Class 7 (student/teacher: STUDENT). Publisher: Punjab Curriculum and Textbook Board (PCTB), Lahore; year: SNC 2022 edition (no year printed on cover); no ISBN printed. PDF pages: 96 (printed pp. 1–94; read IN PLACE at phase3-staging; image-only scan — the only text layer is the "Web version of PCTB Textbook Not for Sale" watermark — read in full from page renders; cover and title page verified against the record). Verdict: COMPLETE — with a library-debt note: the on-disk file is 81,665,509 bytes against the record's 80,223,717 bytes; the copy read is complete and coherent at the recorded 96 pages, but the size mismatch should be reconciled by the library team. Tally: 31 placements — 14 to existing lessons, 17 NEW LESSON NEEDED (including a reuse of a NEW slug created in Book 5 of this file). Placements at liqlearns-courses-work/expansion-history-2026-11-15/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Pakistan part — Chapter 5: Napoleon in the modern-period timeline — story beats: the chapter's closing timeline carries Napoleon from the Revolution's general to the empire that reorganised Europe and the defeat that ended him — the arc the book uses to close the modern period's political story (History expansion, 2026-11-15; original placement slug: modern-world/napoleon-reformer-conqueror-fallen) | Pakistan, *History 7 (PCTB, SNC 2022)*, printed p. 90 |
+
+Pakistan's own way (History 7 (PCTB, SNC 2022), Grade 7 / Class 7 (student/teacher: STUDENT)): Class 7 runs two arcs side by side — Europe from feudalism to factories, and the Muslim world from the Umayyads to the Mughals — so a Pakistani child meets the Crusades, the Delhi Sultanate and the Renaissance inside one cover, and the book ends with steam. That way is stocked here as the way Pakistan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 4 countries (Ethiopia, Belarus, Montenegro, Pakistan).**
+
+Searchable tags: Pakistan, Napoleon — reformer, conqueror, fallen, modern-world, History expansion 2026-11-15
