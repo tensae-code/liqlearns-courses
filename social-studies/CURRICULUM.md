@@ -8707,3 +8707,56 @@ existing lessons stocked, whose counts rise 1 → 2
 with Brazil added — Capitalism carrying three of the
 nine existing-lesson placements). History lessons:
 297 → 304.
+
+## History expansion — Gambia — built 2026-11-15
+
+4 new lessons, 32 questions — in **Africa to 1500**:
+Islam in West Africa
+(africa-to-1500/islam-in-west-africa); and in
+**Africa after 1500**: Problems of independent
+West African states
+(africa-after-1500/problems-of-independent-west-african-states),
+Women and authority in West African history
+(africa-after-1500/women-and-authority-in-west-african-history)
+and The environment in West African history
+(africa-after-1500/the-environment-in-west-african-history)
+— 23 placements stocked from Gambia's one distinct
+book: *History Textbook: West African Senior
+School Certificate Examination* (WASSCE History
+Textbook project (King's College London / ASAUK,
+AHRC-funded), 2018, ISBN 978-9983-960-20-4), Grade
+10 student book: historiography and historical
+skills (printed p. 9), history-writing itself
+(printed p. 9), sources — oral tradition, written
+records and material evidence (printed p. 15) and
+archaeology (printed p. 20), into the four existing
+First Steps lessons; trans-Saharan trade origins
+(printed p. 33) and its effects (printed p. 40),
+into the two existing Africa to 1500 trade lessons;
+Islam in West Africa — introduction and spread
+(printed p. 47), into the existing Ancient World
+rise of Islam lesson, and its effects on West
+African societies (printed p. 55), into the new
+Islam in West Africa lesson; European contact
+(printed p. 66), the trans-Atlantic slave trade's
+course and scale (printed p. 81) and its effects
+(printed p. 90), missionary activities (printed
+p. 96), the scramble and partition (printed
+pp. 112 and 117), colonial rule and its systems
+(printed pp. 121, 128 and 135), into the existing
+Africa after 1500 lessons; problems of independent
+West African states (printed p. 141) and economic
+problems and regional integration (printed p. 150),
+into the new Problems lesson and the existing
+After the flag lesson; West Africa and international
+organizations (printed p. 155), into African unity;
+women and authority — precolonial female power
+(printed p. 163) and Ahebi Ugbabe, the female king
+(printed p. 170), into the new Women and authority
+lesson; and the environment in West African history
+(printed p. 178), into the new Environment lesson.
+All 23 Gambia placements stand on Gambia's Grade
+10 student book, counted in acceptance (the four
+new lessons; and the eighteen existing lessons
+stocked, whose counts rise with Gambia added, as
+listed in TITLES.md). History lessons: 304 → 308.

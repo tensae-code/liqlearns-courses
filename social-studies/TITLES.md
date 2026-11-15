@@ -57,7 +57,7 @@ the one title at rising depth wherever a title spans both books
 - `ethiopia-ancient-and-medieval/` — Ethiopia from the earliest
   times through the medieval kingdoms and sultanates.
 - `africa-to-1500/` — Africa's peoples, states and trade to
-  about 1500.
+  about 1500 (including Islam in West Africa).
 - `ancient-world/` — the ancient civilisations and the medieval
   world beyond Africa (including Ibn Battuta — traveller
   of the Islamic world, and the Arabian Peninsula —
@@ -104,7 +104,9 @@ the one title at rising depth wherever a title spans both books
   discovery and settlement, a creole society is born, on the
   world routes, decline and Porto Grande, popular revolts,
   end of the slave society, liberation and independence, and
-  the two Republics).
+  the two Republics, and problems of independent West
+  African states, women and authority in West African
+  history, and the environment in West African history).
   (No teacher evidence yet.)
 - `modern-world/` — the early-modern and modern world
   (including Guyana — our nation: independence and symbols,
@@ -2534,7 +2536,7 @@ Plants and Animals.
 
 ## History expansion totals
 
-History lessons across the History titles: **304**
+History lessons across the History titles: **308**
 (248 before the expansion; +1 for Guyana, 2026-11-15 —
 Modern World: Guyana — our nation: independence and
 symbols. All 3 Guyana placements stand on Guyana's
@@ -2687,3 +2689,30 @@ of industrialisation, Nationalism, The Industrial
 Revolution — what changed, Rome, Rome divides and
 Medieval world — the Dark Age and feudalism, whose
 counts rise 1 → 2 with Brazil added).
+
++4 for Gambia, 2026-11-15 — Africa to 1500:
+Islam in West Africa; Africa after 1500: Problems
+of independent West African states, Women and
+authority in West African history, and The
+environment in West African history. All 23 Gambia
+placements stand on Gambia's Grade 10 student book
+(History Textbook: West African Senior School
+Certificate Examination — WASSCE History Textbook,
+2018), counted in acceptance (the four new lessons;
+and the eighteen existing lessons stocked, whose
+counts rise with Gambia added — First Steps What
+history is 4 → 5, Historiography 1 → 2, From
+evidence to a written history 2 → 3 and Who studies
+prehistory 1 → 2; Africa to 1500 The Trans-Saharan
+trade 1 → 2 and How Africa's regions traded 1 → 2;
+Ancient World The rise and expansion of Islam
+2 → 3; Africa after 1500 Europeans on the coast
+2 → 3, The Atlantic slave trade — scale 2 → 3, What
+the slave trade cost Africa 1 → 2, Explorers and
+missionaries 1 → 2, The Scramble and Berlin
+1 → 2, Colonisation — the partition and Fashoda
+1 → 2, Colonisation — direct and indirect rule
+2 → 3, Company rule, direct rule, assimilation
+1 → 2, What colonial rule did to Africa 1 → 2,
+After the flag 1 → 2 and African unity — the
+founding of the OAU 1 → 2).
