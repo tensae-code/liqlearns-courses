@@ -1,0 +1,23 @@
+# Sources — Vietnam Diplomacy In The Two Resistances
+
+countries: Vietnam
+
+**Book 14 — G12 History (student book, Vietnamese)**
+- Title as printed: Lịch sử 12 (Kết nối tri thức với cuộc sống)
+- Grade: Grade 12 (student/teacher: STUDENT)
+- Publisher: NXBGD Vietnam Education Publishing House; year 2024, 2nd reprint; general editor Vũ Minh Giang; editor-in-chief Trần Thị Vinh; authors Trương Thị Bích Hạnh – Nguyễn Thị Mai Hoa – Phan Ngọc Huyền – Hoàng Thị Hồng Nga – Phạm Hồng Tung; ISBN 978-604-0-39271-8 (book code G1HHZS003h26; price 13.900đ)
+- PDF pages: 115 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 48 placements — 44 to existing lessons, 4 NEW LESSON NEEDED
+- Vietnam's own way: the final year closes the whole school arc with the world first — the UN, the Yalta order, the Cold War's fall, ASEAN — then runs Vietnam's own 1945–today story as one unbroken Fatherland narrative (revolution, two resistances, border wars, Đổi Mới, diplomacy) and ends with an entire theme on Hồ Chí Minh as national hero and world cultural figure; every lesson is built on named primary sources (charters, declarations, party documents, memoirs) with "Em có biết?" side boxes.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — Bài 13 Diplomacy in the anti-French resistance, 1945–1954: the 25-11-1945 directive defines the diplomatic art as making the country "few enemies and many allied friends"; the infant DRV petitions the UN and the great powers, conciliates the Chinese occupation while fighting France in the South, signs the 1946 Preliminary Agreement and Modus Vivendi to buy time, keeps a peace offer open through the war, wins recognition and diplomatic relations from China, the USSR and the socialist countries in 1950, helps found the Việt–Miên–Lào People's Alliance (1951), and at Geneva (May–21-7-1954) turns Điện Biên Phủ into a signed international recognition of Indochina's basic national rights — story beats: every military phase has its paper twin, and the war is finally ended at a conference table in Switzerland (History expansion, 2026-11-15; original placement slug: modern-world/vietnam-diplomacy-in-the-two-resistances) | Vietnam, *Lịch sử 12 (Kết nối tri thức với cuộc sống)*, printed p. 77 |
+| Vietnam part — Bài 13 Diplomacy in the anti-American resistance, 1954–1975: Hanoi demands the Geneva elections through the International Control Commission, balances USSR and China while mobilising socialist aid, fights and talks at once — publishing the evidence of America's unjust war, winning world opinion, campaigning for recognition of the Liberation Front — until at Paris the four-party fight over the very shape of the table (rectangle, divided circle, or one big round table) ends with the big round table and the 27-1-1973 Agreement committing the US to respect Vietnam's independence, sovereignty, unity and territorial integrity — story beats: the last battle of the war is over furniture, because the table's shape is the war's verdict in miniature (History expansion, 2026-11-15; original placement slug: modern-world/vietnam-diplomacy-in-the-two-resistances) | Vietnam, *Lịch sử 12 (Kết nối tri thức với cuộc sống)*, printed p. 79 |
+
+Vietnam's own way (Book 14 — G12 History (student book, Vietnamese)): the final year closes the whole school arc with the world first — the UN, the Yalta order, the Cold War's fall, ASEAN — then runs Vietnam's own 1945–today story as one unbroken Fatherland narrative (revolution, two resistances, border wars, Đổi Mới, diplomacy) and ends with an entire theme on Hồ Chí Minh as national hero and world cultural figure; every lesson is built on named primary sources (charters, declarations, party documents, memoirs) with "Em có biết?" side boxes. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 1 country (Vietnam).**
+
+Searchable tags: Vietnam, Vietnam Diplomacy In The Two Resistances, modern-world/vietnam-diplomacy-in-the-two-resistances, History expansion 2026-11-15

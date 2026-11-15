@@ -1,6 +1,6 @@
 # Sources — 1917 twice — February and October in Russia
 
-countries: Ethiopia, Costa Rica, Montenegro, Dominican Republic, United Kingdom, Cambodia, Colombia, Mauritania, South Sudan, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Jordan, Uzbekistan, North Macedonia, Laos, Cuba, China, Moldova, Armenia, Honduras, Italy
+countries: Ethiopia, Costa Rica, Montenegro, Dominican Republic, United Kingdom, Cambodia, Colombia, Mauritania, South Sudan, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Jordan, Uzbekistan, North Macedonia, Laos, Cuba, China, Moldova, Armenia, Honduras, Italy, Vietnam
 
 **Book 1:** *History, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN 978-99990-0-065-9. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g10-student-placements.md
 
@@ -689,3 +689,24 @@ Italy's own way (Book 5 — La storia. Progettare il futuro, Vol. 3 (student boo
 Italy's own way (Book 6 — Lo spazio del tempo, Vol. 3 (student book, Italian)): Laterza's third volume tells the "short twentieth century" and its aftermath in 19 modules, each closed by the Fare storia dossier method at its largest scale — 207 numbered documents and historiography pieces in four dossier modules, from Clark on 1914 and Lenin's April Theses to Piketty on inequality and Huntington's clash of civilisations — so the century is argued from its sources, not merely narrated. That way is stocked here as the way Italy teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 24 countries (Ethiopia, Costa Rica, Montenegro, Dominican Republic, United Kingdom, Cambodia, Colombia, Mauritania, South Sudan, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Jordan, Uzbekistan, North Macedonia, Laos, Cuba, China, Moldova, Armenia, Honduras, Italy).**
+
+
+## History expansion (2026-11-15) — Vietnam stocked
+
+**Book 5 — G8 History and Geography (student book, Vietnamese)**
+- Title as printed: Lịch sử và Địa lí 8 (Kết nối tri thức với cuộc sống)
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2023 (copyright; 3rd reprint with corrections and additions); ISBN 978-604-0-35043-5
+- PDF pages: 179 (cover and title page verified against the record title; printed page = PDF page − 1)
+- Verdict: COMPLETE
+- Tally: 60 placements — 23 to existing lessons, 37 NEW LESSON NEEDED
+- Vietnam's own way: Grade 8 pairs the bourgeois revolutions and industrialisation of Europe and America with Vietnam's own centuries of partition, peasant revolt and invasion, and closes the History part with the first French colonial exploitation — the lesson Vietnamese pupils are always brought back to when the book cites Hồ Chí Minh quoting the American and French Declarations.
+- Geography parts named, not placed: the whole Phần Địa lí, printed pp. 93–154 — Vietnam's territory and relief (Ch. 1, Bài 1–3), climate and waters (Ch. 2, Bài 4–8), soils and living world (Ch. 3, Bài 9–10), seas and islands (Ch. 4, Bài 11–12). Two shared themes follow it: Chủ đề chung 1, Civilisation of the Red River and Mekong Deltas (printed pp. 155–161), whose Geography sections are named here and whose History section (how people reclaimed and tamed the two deltas) is placed below; and Chủ đề chung 2, Protecting Vietnam's Sovereignty, Rights and Lawful Interests in the East Sea (printed pp. 162–171), whose law-of-the-sea sections are Civics/Geography and named here, and whose History section (the historical process of establishing sea-and-island sovereignty) is placed below.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — Bài 12, the Russian October Revolution, 1917 — story beats: February overthrows the Tsar but leaves two powers side by side, the bourgeois Provisional Government and the Soviets, which cannot coexist — Lenin's quoted sentence insists power must pass "to the proletariat, the poorest strata and the peasants"; after the July repression the Bolsheviks prepare the armed rising, and on the night of 24–25 October (old style) the insurgents take Petrograd and storm the Winter Palace; Hồ Chí Minh's verdict is quoted — "Like the shining Sun, the October Revolution shines over the five continents" — and John Reed's eyewitness Ten Days That Shook the World is the lesson's set text (History expansion, 2026-11-15; original placement slug: modern-world/1917-twice-february-and-october-in-russia) | Vietnam, *Lịch sử và Địa lí 8 (Kết nối tri thức với cuộc sống)*, printed p. 56 |
+
+Vietnam's own way (Book 5 — G8 History and Geography (student book, Vietnamese)): Grade 8 pairs the bourgeois revolutions and industrialisation of Europe and America with Vietnam's own centuries of partition, peasant revolt and invasion, and closes the History part with the first French colonial exploitation — the lesson Vietnamese pupils are always brought back to when the book cites Hồ Chí Minh quoting the American and French Declarations. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 25 countries (Ethiopia, Costa Rica, Montenegro, Dominican Republic, United Kingdom, Cambodia, Colombia, Mauritania, South Sudan, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Jordan, Uzbekistan, North Macedonia, Laos, Cuba, China, Moldova, Armenia, Honduras, Italy, Vietnam).**

@@ -1,6 +1,6 @@
 # Sources — 1789 — the French Revolution breaks out
 
-countries: Ethiopia, Poland, Costa Rica, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy
+countries: Ethiopia, Poland, Costa Rica, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy, Vietnam
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under GEQIP-E, ISBN 978-99990-0-066-6. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -982,3 +982,40 @@ Italy's own way (Book 3 — La storia. Progettare il futuro, Vol. 2 (student boo
 Italy's own way (Book 4 — Lo spazio del tempo, Vol. 2 (student book, Italian)): Laterza's second volume runs a long '700 (from 1660) and a long '800 (to 1914) in six moduli; its signature is the Fare storia dossier apparatus — 178 numbered documents and historiography pieces, from Galileo's trial and Gustavus Vassa's slave narrative to Gramsci on the Risorgimento — so narrative chapters alternate with the sources that argue about them. That way is stocked here as the way Italy teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 32 countries (Ethiopia, Poland, Costa Rica, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy).**
+
+
+## History expansion (2026-11-15) — Vietnam stocked
+
+**Book 5 — G8 History and Geography (student book, Vietnamese)**
+- Title as printed: Lịch sử và Địa lí 8 (Kết nối tri thức với cuộc sống)
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2023 (copyright; 3rd reprint with corrections and additions); ISBN 978-604-0-35043-5
+- PDF pages: 179 (cover and title page verified against the record title; printed page = PDF page − 1)
+- Verdict: COMPLETE
+- Tally: 60 placements — 23 to existing lessons, 37 NEW LESSON NEEDED
+- Vietnam's own way: Grade 8 pairs the bourgeois revolutions and industrialisation of Europe and America with Vietnam's own centuries of partition, peasant revolt and invasion, and closes the History part with the first French colonial exploitation — the lesson Vietnamese pupils are always brought back to when the book cites Hồ Chí Minh quoting the American and French Declarations.
+- Geography parts named, not placed: the whole Phần Địa lí, printed pp. 93–154 — Vietnam's territory and relief (Ch. 1, Bài 1–3), climate and waters (Ch. 2, Bài 4–8), soils and living world (Ch. 3, Bài 9–10), seas and islands (Ch. 4, Bài 11–12). Two shared themes follow it: Chủ đề chung 1, Civilisation of the Red River and Mekong Deltas (printed pp. 155–161), whose Geography sections are named here and whose History section (how people reclaimed and tamed the two deltas) is placed below; and Chủ đề chung 2, Protecting Vietnam's Sovereignty, Rights and Lawful Interests in the East Sea (printed pp. 162–171), whose law-of-the-sea sections are Civics/Geography and named here, and whose History section (the historical process of establishing sea-and-island sovereignty) is placed below.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — Bài 2, France before the revolution and the storming of the Bastille — story beats: a backward, famine-haunted agriculture, a bankrupt crown raising taxes, and a society of three estates where the Third Estate — over 90% of the people — carries every burden; on 14 July 1789 the crowds storm the Bastille fortress-prison, the day France still keeps as its National Day, under the tricolour first raised there (History expansion, 2026-11-15; original placement slug: modern-world/the-french-revolution-breaks-out-1789) | Vietnam, *Lịch sử và Địa lí 8 (Kết nối tri thức với cuộc sống)*, printed p. 12 |
+
+Vietnam's own way (Book 5 — G8 History and Geography (student book, Vietnamese)): Grade 8 pairs the bourgeois revolutions and industrialisation of Europe and America with Vietnam's own centuries of partition, peasant revolt and invasion, and closes the History part with the first French colonial exploitation — the lesson Vietnamese pupils are always brought back to when the book cites Hồ Chí Minh quoting the American and French Declarations. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 11 — G11 History (student book, Vietnamese)**
+- Title as printed: Lịch sử 11 (Kết nối tri thức với cuộc sống)
+- Grade: Grade 11 (student/teacher: STUDENT)
+- Publisher: NXBGD Vietnam Education Publishing House; year 2023, 3rd reprint; ISBN 978-604-0-35077-0 (book code G1HHYS001h26; price 12.100đ)
+- PDF pages: 99 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Geography content named, not placed: Bài 12 — position, sea lanes, resources and island geography of the East Sea (printed pp. 73–79); its history is placed under Bài 13.
+- Tally: 35 placements — 18 to existing lessons, 17 NEW LESSON NEEDED
+- Vietnam's own way: Grade 11 runs three arcs in parallel — the world's two rival systems (capitalism from its revolutions, socialism from 1917), Southeast Asia's road out of colonial rule, and Vietnam read through its wars of defence, its three great reformers, and its sea sovereignty — so the pupil's own country is always the measuring rod.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — Bài 1 What the bourgeois revolutions achieved: England's revolution founds constitutional monarchy; America's war frees the colonies and births the first bourgeois state outside Europe; France's is the "great revolution" — Lenin's verdict that the whole nineteenth century passed under its sign — story beats: three revolutions, three templates — a king tamed, a nation born, a world re-imagined (History expansion, 2026-11-15; original placement slug: modern-world/the-french-revolution-breaks-out-1789) | Vietnam, *Lịch sử 11 (Kết nối tri thức với cuộc sống)*, printed p. 10 |
+
+Vietnam's own way (Book 11 — G11 History (student book, Vietnamese)): Grade 11 runs three arcs in parallel — the world's two rival systems (capitalism from its revolutions, socialism from 1917), Southeast Asia's road out of colonial rule, and Vietnam read through its wars of defence, its three great reformers, and its sea sovereignty — so the pupil's own country is always the measuring rod. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 33 countries (Ethiopia, Poland, Costa Rica, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy, Vietnam).**

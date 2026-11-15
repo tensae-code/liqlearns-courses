@@ -1,0 +1,15 @@
+# Vietnam Founding Of The Communist Party 1930 — true or false
+
+Say True or False, and why.
+
+**1. (Sub lesson 1)** in 1929 three rival communist organisations appear — the Indochinese Communist Party (Hanoi, June), the Annam Communist Party (Saigon, August) and the Indochinese Communist League (September); Nguyễn Ái Quốc, as the Comintern's envoy, chairs the unification conference at Hương Cảng from 6 January 1930, which adopts the Brief Programme, Strategy and Charter, and the League joins on 24 February; the founding, the Institute of History is quoted as saying, ends the crisis over the road of national salvation.
+**Answer: True** — the book tells this in Bài 6, three parties become one
+
+**2. (Sub lesson 1)** This part of *Lịch sử và Địa lí 9 (Kết nối tri thức với cuộc sống)* is about a different part of this story, told in another lesson of this expansion.
+**Answer: False** — it is about Bài 6, three parties become one
+
+**3. (Sub lesson 2)** the Party is born not in Vietnam but in a Hong Kong meeting room, by unification rather than proclamation.
+**Answer: True** — the book tells this in Bài 16 Founding the Communist Party of Vietnam: the preparation — Đường Kách mệnh's doctrine that a firm party is the helmsman without whom the boat does not run, the denunciation of colonialism in Le Paria and the Union of Colonial Peoples, and the Revolutionary Youth League (Guangzhou, June 1925) training the cadres who form three communist organisations in 1929; the crisis — three organisations competing and criticising each other; the act — Nguyễn Ái Quốc, as Comintern envoy, summons them to Kowloon, and from 6-1-1930 the conference abolishes the old conflicts, names the Party, and adopts his Brief Platform and Brief Strategy, the first Political Platform joining nation and class; the meaning — a turning point proving the proletariat mature enough to lead
+
+**4. (Sub lesson 2)** This part of *Lịch sử 12 (Kết nối tri thức với cuộc sống)* is about a different part of this story, told in another lesson of this expansion.
+**Answer: False** — it is about Bài 16 Founding the Communist Party of Vietnam: the preparation — Đường Kách mệnh's doctrine that a firm party is the helmsman without whom the boat does not run, the denunciation of colonialism in Le Paria and the Union of Colonial Peoples, and the Revolutionary Youth League (Guangzhou, June 1925) training the cadres who form three communist organisations in 1929; the crisis — three organisations competing and criticising each other; the act — Nguyễn Ái Quốc, as Comintern envoy, summons them to Kowloon, and from 6-1-1930 the conference abolishes the old conflicts, names the Party, and adopts his Brief Platform and Brief Strategy, the first Political Platform joining nation and class; the meaning — a turning point proving the proletariat mature enough to lead

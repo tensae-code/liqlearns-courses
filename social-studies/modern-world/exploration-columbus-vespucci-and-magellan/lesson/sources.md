@@ -1,6 +1,6 @@
 # Sources — Exploration — Columbus, Vespucci and Magellan
 
-countries: Ethiopia, France, Guatemala, Micronesia, Ecuador, Bahamas, Kuwait, Montenegro, Dominican Republic, Egypt, Pakistan, Suriname, Colombia, Mauritania, South Sudan, Mongolia, Sudan, Uzbekistan, North Macedonia, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy
+countries: Ethiopia, France, Guatemala, Micronesia, Ecuador, Bahamas, Kuwait, Montenegro, Dominican Republic, Egypt, Pakistan, Suriname, Colombia, Mauritania, South Sudan, Mongolia, Sudan, Uzbekistan, North Macedonia, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy, Vietnam
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 124).
 
@@ -835,3 +835,25 @@ Italy's own way (Book 1 — La storia. Progettare il futuro, Vol. 1 (student boo
 Italy's own way (Book 2 — Lo spazio del tempo, Vol. 1 (student book, Italian)): Laterza's rival liceo course organises the same centuries in moduli built around documents — every chapter carries numbered DOC dossiers, Eventi and Personaggi boxes, a Guida allo studio and competence exercises, so the student works as a historian from sources first and narrative second. That way is stocked here as the way Italy teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 28 countries (Ethiopia, France, Guatemala, Micronesia, Ecuador, Bahamas, Kuwait, Montenegro, Dominican Republic, Egypt, Pakistan, Suriname, Colombia, Mauritania, South Sudan, Mongolia, Sudan, Uzbekistan, North Macedonia, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy).**
+
+
+## History expansion (2026-11-15) — Vietnam stocked
+
+**Book 4 — G7 History and Geography (student book, Vietnamese)**
+- Title as printed: Lịch sử và Địa lí 7 (Kết nối tri thức với cuộc sống)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2022 (copyright; 4th reprint with corrections and additions); ISBN 978-604-0-30717-0
+- PDF pages: 185 (title page verified against the record title; printed page = PDF page − 1)
+- Verdict: COMPLETE
+- Tally: 57 placements — 16 to existing lessons, 41 NEW LESSON NEEDED
+- Vietnam's own way: medieval world history (feudal Europe, China, India, Southeast Asia) is taught in the same volume as Đại Việt from Ngô Quyền to the Lê sơ, so pupils constantly compare their own dynasties with the region's; every Vietnamese war is taught through its named commanders' decisions and the chronicles' own words (Trần Thủ Độ's "my head has not yet fallen", Trần Bình Trọng's refusal, Nguyễn Trãi's Bình Ngô đại cáo).
+- Geography parts named, not placed: the whole Phần Địa lí, printed pp. 95–165 — Europe (Bài 1–4), Asia (Bài 5–8), Africa (Bài 9–12), the Americas (Bài 13–17), Australia and Antarctica (Bài 18–19). Two shared themes printed inside the Geography part ARE History and are placed below: Chủ đề chung 1, The Great Geographical Discoveries (printed pp. 166–169), and the History sections of Chủ đề chung 2, Cities: History and Present (printed pp. 170–174).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — Bài 2, the great voyages — story beats: Dias rounds Africa's cape in 1487 — a storm blows him past it, so it is first named Cape of Storms, then Good Hope; Columbus crosses the Atlantic in 1492; da Gama reaches Calicut in 1498; Magellan's fleet circles the Earth, 1519–1522 (History expansion, 2026-11-15; original placement slug: modern-world/exploration-timeline-of-voyages) | Vietnam, *Lịch sử và Địa lí 7 (Kết nối tri thức với cuộc sống)*, printed p. 15 |
+| Vietnam part — Shared Theme 1, the voyages of Columbus and Magellan — story beats: Columbus (1451–1506) wins Spain's backing for a westward plan, sails with three ships in August 1492, and after two months reaches the Caribbean still believing it the East Indies — he returns in 1493, 1498 and 1502; Magellan (1480–1521) finds the strait at America's tip, names the calm Pacific, and is killed in the Philippines, but Elcano brings the fleet home in September 1522, proving the Earth round (History expansion, 2026-11-15; original placement slug: modern-world/exploration-timeline-of-voyages) | Vietnam, *Lịch sử và Địa lí 7 (Kết nối tri thức với cuộc sống)*, printed p. 168 |
+
+Vietnam's own way (Book 4 — G7 History and Geography (student book, Vietnamese)): medieval world history (feudal Europe, China, India, Southeast Asia) is taught in the same volume as Đại Việt from Ngô Quyền to the Lê sơ, so pupils constantly compare their own dynasties with the region's; every Vietnamese war is taught through its named commanders' decisions and the chronicles' own words (Trần Thủ Độ's "my head has not yet fallen", Trần Bình Trọng's refusal, Nguyễn Trãi's Bình Ngô đại cáo). That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 29 countries (Ethiopia, France, Guatemala, Micronesia, Ecuador, Bahamas, Kuwait, Montenegro, Dominican Republic, Egypt, Pakistan, Suriname, Colombia, Mauritania, South Sudan, Mongolia, Sudan, Uzbekistan, North Macedonia, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy, Vietnam).**

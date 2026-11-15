@@ -1,6 +1,6 @@
 # Sources — The Industrial Revolution — its two stages
 
-countries: Ethiopia, Poland, Montenegro, Dominican Republic, Pakistan, Colombia, Mauritania, Mozambique, Uzbekistan, North Macedonia, China, Moldova, Italy
+countries: Ethiopia, Poland, Montenegro, Dominican Republic, Pakistan, Colombia, Mauritania, Mozambique, Uzbekistan, North Macedonia, China, Moldova, Italy, Vietnam
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 132).
 
@@ -345,3 +345,23 @@ Italy's own way (Book 4 — Lo spazio del tempo, Vol. 2 (student book, Italian))
 Italy's own way (Book 5 — La storia. Progettare il futuro, Vol. 3 (student book, Italian)): the Barbero course's third volume runs the whole short century and beyond — 1900 to the war in Ukraine — in six units on the same nuclei fondanti method (Documents, Storici a confronto, Laboratorio storia, CLIL closings), but the documents now include speeches, photographs, songs and film, and the book ends by arguing about the present itself: unipolarism, globalisation's discontents and whether a "post-Western" order is being born. That way is stocked here as the way Italy teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 13 countries (Ethiopia, Poland, Montenegro, Dominican Republic, Pakistan, Colombia, Mauritania, Mozambique, Uzbekistan, North Macedonia, China, Moldova, Italy).**
+
+
+## History expansion (2026-11-15) — Vietnam stocked
+
+**Book 8 — G10 History (student book, Vietnamese)**
+- Title as printed: Lịch sử 10 (Kết nối tri thức với cuộc sống)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam (Vietnam Education Publishing House); year 2023 (©2023; 3rd reprint with corrections and additions); ISBN 978-604-0-38325-9; book code G1HHXS003h26
+- PDF pages: 113 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 37 placements — 31 to existing lessons, 6 NEW LESSON NEEDED
+- Vietnam's own way: Grade 10 is organised by themes rather than chronology — the discipline itself first (what history is, its role, heritage), then civilisations in widening circles (the world, Southeast Asia, Vietnam's own land), then the four industrial revolutions, and finally the community of Vietnam's 54 ethnic groups, closing with the national great-unity bloc as the frame that holds the whole national story together.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — Bài 6.2, the Second Industrial Revolution — story beats: the second industrial revolution runs from the later 19th century until the First World War breaks out in 1914, bound up with scientific and technical advances in many fields: Henry Bessemer's blast-furnace method of steelmaking (1856) turns molten pig iron into good-quality, cheap steel, speeding the making of machines and engines and favouring railway building, shipbuilding and weapons; the electrical inventions of Michael Faraday of England, Thomas Edison and Nikola Tesla of the USA found the electric motor, the telephone (Alexander Graham Bell, 1876, pictured), and radio, and push electrical energy into life — the box adds that Faraday invents the first electric motor in 1821, that in 1879 Edison perfects the incandescent bulb and, with Joseph Swan, commercialises the electric lamp to light homes, cities and factories, and that Tesla's alternating-current grid is the one widely used today; Guglielmo Marconi's radio of 1897 is pictured; in 1860 the Frenchman G. Lenoir invents and successfully commercialises the gas-fuelled two-stroke internal combustion engine, preparing the birth of the car and the aeroplane and driving the oil-extraction industry; Karl Benz of Germany builds the first practically usable car in 1886, and the credit for making the car popular goes to America's "king of cars", Henry Ford — his first four-wheeled car in 1896, the Ford Motor Company founded in 1903, the world-famous Model T line launched in 1908, and the assembly line applied to production; in 1903 the Wright brothers of the USA successfully test a petrol-engine aeroplane, an invention that resonates worldwide and gives rise to modern air transport (History expansion, 2026-11-15; original placement slug: modern-world/the-industrial-revolution-its-two-stages) | Vietnam, *Lịch sử 10 (Kết nối tri thức với cuộc sống)*, printed p. 41 |
+
+Vietnam's own way (Book 8 — G10 History (student book, Vietnamese)): Grade 10 is organised by themes rather than chronology — the discipline itself first (what history is, its role, heritage), then civilisations in widening circles (the world, Southeast Asia, Vietnam's own land), then the four industrial revolutions, and finally the community of Vietnam's 54 ethnic groups, closing with the national great-unity bloc as the frame that holds the whole national story together. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 14 countries (Ethiopia, Poland, Montenegro, Dominican Republic, Pakistan, Colombia, Mauritania, Mozambique, Uzbekistan, North Macedonia, China, Moldova, Italy, Vietnam).**

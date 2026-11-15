@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — Mesopotamia
 
-countries: Ethiopia, Poland, Turkey, Bangladesh, Costa Rica, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Iran, Cambodia, Palestine, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Mozambique, Yemen, Jordan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras
+countries: Ethiopia, Poland, Turkey, Bangladesh, Costa Rica, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Iran, Cambodia, Palestine, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Mozambique, Yemen, Jordan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Vietnam
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -1132,3 +1132,40 @@ This book is a teacher guide. The Honduras rows from this book below stand on it
 Honduras's own way (Book 19 — Ciencias Sociales, Noveno Grado (TEACHER, 2022 edition)): the 2022 guide re-presents the same world-history block (lessons 20–29) in a new design, embedding the student workbook pages with blue model answers and a teacher note under each; its Lesson 20 opens the periodisation lesson from a 2010 article on the 2008 financial crisis, asking how that hecho histórico affected the world and Honduras. That way is stocked here as the way Honduras teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 35 countries (Ethiopia, Poland, Turkey, Bangladesh, Costa Rica, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Iran, Cambodia, Palestine, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Mozambique, Yemen, Jordan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras).**
+
+
+## History expansion (2026-11-15) — Vietnam stocked
+
+**Book 3 — G6 History and Geography (student book, Vietnamese)**
+- Title as printed: Lịch sử và Địa lí 6 (Kết nối tri thức với cuộc sống)
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2021 (copyright; 5th reprint with corrections and additions); ISBN 978-604-0-25153-4
+- PDF pages: 200 (title page verified against the record title; the PDF opens at the title page, printed page = PDF page)
+- Verdict: COMPLETE
+- Tally: 49 placements — 21 to existing lessons, 28 NEW LESSON NEEDED
+- Vietnam's own way: the lower-secondary course rebuilds the story from first principles — what history is, how evidence works, how time is counted — then prehistory, the ancient civilisations, Southeast Asia, and Vietnam to the 10th century, quoting the chronicles (Đại Việt sử ký toàn thư) and even a Yuan-era account (An Nam chí lược) as pupil-facing sources.
+- Geography parts named, not placed: the whole Phần Địa lí, printed pp. 95–199 — introduction to Geography; maps and ways of showing the Earth's surface (Bài 1–5); the Earth in the solar system and its motions (Bài 6–9); the Earth's structure and landforms (Bài 10–14); atmosphere, climate and climate change (Bài 15–18); water on Earth (Bài 19–21); soil and life on Earth (Bài 22–26); people and nature (Bài 27–30).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — Bài 7, the succession of states between the two rivers — story beats: Sumerian city-states of the 4th millennium BC give way to Akkad, Assyria and Babylon in turn, until Persia conquers the land in 539 BC (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-mesopotamia) | Vietnam, *Lịch sử và Địa lí 6 (Kết nối tri thức với cuộc sống)*, printed p. 31 |
+
+Vietnam's own way (Book 3 — G6 History and Geography (student book, Vietnamese)): the lower-secondary course rebuilds the story from first principles — what history is, how evidence works, how time is counted — then prehistory, the ancient civilisations, Southeast Asia, and Vietnam to the 10th century, quoting the chronicles (Đại Việt sử ký toàn thư) and even a Yuan-era account (An Nam chí lược) as pupil-facing sources. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 9 — G10 Art theory & history (student book, Vietnamese)**
+- Title as printed: Mĩ thuật 10 — Lí luận và lịch sử mĩ thuật (Kết nối tri thức với cuộc sống)
+- Grade: Grade 10 (student/teacher: STUDENT)
+- Publisher: NXBGD Vietnam Education Publishing House; year 2022; ISBN 978-604-0-31098-9 (book code G1HHXM005H22; price 6.000đ)
+- PDF pages: 39 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- SCOPE NOTE: this is a Fine Arts elective (Theory and History of Fine Arts), not the History subject. Only its genuine History teaching parts are placed below — the historical method (art history as a discipline, archaeology as evidence), the civilisation anchors of its world-art survey, and Vietnamese art read as a record of the dynasties. Pure art-technique/style content (approaches to appreciation, modern and post-modern movements as styles) is named here but not placed.
+- Tally: 12 placements — 12 to existing lessons, 0 NEW LESSON NEEDED
+- Vietnam's own way: Vietnam teaches art history inside the Fine Arts subject as a three-lesson arc — what the discipline is and how it works with archaeology, a period survey of world art from cave painting to post-modern installation, then Vietnam's own art dynasty by dynasty — always ending in the pupil building a cited materials list of their own.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — Bài 2 Ancient Mesopotamia's art: born of Sumer–Akkad cultural interchange and sun-god worship, Babylonian relief, mural and palace art of high skill — story beats: two peoples share one river valley and one sun god, and their walls learn to tell stories in stone (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-mesopotamia) | Vietnam, *Mĩ thuật 10 — Lí luận và lịch sử mĩ thuật (Kết nối tri thức với cuộc sống)*, printed p. 16 |
+
+Vietnam's own way (Book 9 — G10 Art theory & history (student book, Vietnamese)): Vietnam teaches art history inside the Fine Arts subject as a three-lesson arc — what the discipline is and how it works with archaeology, a period survey of world art from cave painting to post-modern installation, then Vietnam's own art dynasty by dynasty — always ending in the pupil building a cited materials list of their own. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 36 countries (Ethiopia, Poland, Turkey, Bangladesh, Costa Rica, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Iran, Cambodia, Palestine, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Mozambique, Yemen, Jordan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Vietnam).**

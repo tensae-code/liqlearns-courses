@@ -1,6 +1,6 @@
 # Sources — Exploration — causes and results
 
-countries: Ethiopia, United States, Guatemala, Costa Rica, Kuwait, Fiji, Indonesia, Montenegro, Dominican Republic, Suriname, Palestine, Colombia, South Sudan, Mozambique, Uzbekistan, North Macedonia, Venezuela, Moldova, Armenia, Nicaragua, Honduras
+countries: Ethiopia, United States, Guatemala, Costa Rica, Kuwait, Fiji, Indonesia, Montenegro, Dominican Republic, Suriname, Palestine, Colombia, South Sudan, Mozambique, Uzbekistan, North Macedonia, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Vietnam
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 125).
 
@@ -610,3 +610,26 @@ This book is a teacher guide. The Honduras rows from this book below stand on it
 Honduras's own way (Book 10 — G5 teacher (teacher guide, Spanish)): The guide mirrors the student book's 38 lessons; its distinctive moves are comparative — the three civilisations in one comparison chart, the three empires' social pyramids organised side by side, and every class sent to research a pre-Hispanic group of Honduras itself. That way is stocked here as the way Honduras teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 21 countries (Ethiopia, United States, Guatemala, Costa Rica, Kuwait, Fiji, Indonesia, Montenegro, Dominican Republic, Suriname, Palestine, Colombia, South Sudan, Mozambique, Uzbekistan, North Macedonia, Venezuela, Moldova, Armenia, Nicaragua, Honduras).**
+
+
+## History expansion (2026-11-15) — Vietnam stocked
+
+**Book 4 — G7 History and Geography (student book, Vietnamese)**
+- Title as printed: Lịch sử và Địa lí 7 (Kết nối tri thức với cuộc sống)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2022 (copyright; 4th reprint with corrections and additions); ISBN 978-604-0-30717-0
+- PDF pages: 185 (title page verified against the record title; printed page = PDF page − 1)
+- Verdict: COMPLETE
+- Tally: 57 placements — 16 to existing lessons, 41 NEW LESSON NEEDED
+- Vietnam's own way: medieval world history (feudal Europe, China, India, Southeast Asia) is taught in the same volume as Đại Việt from Ngô Quyền to the Lê sơ, so pupils constantly compare their own dynasties with the region's; every Vietnamese war is taught through its named commanders' decisions and the chronicles' own words (Trần Thủ Độ's "my head has not yet fallen", Trần Bình Trọng's refusal, Nguyễn Trãi's Bình Ngô đại cáo).
+- Geography parts named, not placed: the whole Phần Địa lí, printed pp. 95–165 — Europe (Bài 1–4), Asia (Bài 5–8), Africa (Bài 9–12), the Americas (Bài 13–17), Australia and Antarctica (Bài 18–19). Two shared themes printed inside the Geography part ARE History and are placed below: Chủ đề chung 1, The Great Geographical Discoveries (printed pp. 166–169), and the History sections of Chủ đề chung 2, Cities: History and Present (printed pp. 170–174).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — Bài 2, consequences of the discoveries and the birth of capitalism — story beats: gold and silver flood in, the slave trade and colonial plunder begin, and at home England's enclosures drive peasants off the land — "sheep eat men", in Thomas More's phrase — into the workshops of a new bourgeoisie facing a new proletariat (History expansion, 2026-11-15; original placement slug: modern-world/exploration-what-the-voyages-changed) | Vietnam, *Lịch sử và Địa lí 7 (Kết nối tri thức với cuộc sống)*, printed p. 16 |
+| Vietnam part — Shared Theme 1 (in the Geography part), why the great discoveries happened when they did — story beats: mid-15th-century Europe hungers for raw materials, gold and markets and imagines the East as a fairyland where "the ground everywhere is gold"; with Arabs and Turks monopolising the Mediterranean routes, the round Earth, charts, the compass, the caravel and royal sponsors make the ocean roads possible (History expansion, 2026-11-15; original placement slug: modern-world/exploration-why-they-sailed) | Vietnam, *Lịch sử và Địa lí 7 (Kết nối tri thức với cuộc sống)*, printed p. 166 |
+| Vietnam part — Shared Theme 1, the effects of the great discoveries — story beats: world trade widens and Western merchants and workshop owners grow rich; peoples learn of new routes and lands and cultures meet — but labourers sink into poverty, and the discoveries open the slave trade and the plunder of colonies (History expansion, 2026-11-15; original placement slug: modern-world/exploration-what-the-voyages-changed) | Vietnam, *Lịch sử và Địa lí 7 (Kết nối tri thức với cuộc sống)*, printed p. 169 |
+
+Vietnam's own way (Book 4 — G7 History and Geography (student book, Vietnamese)): medieval world history (feudal Europe, China, India, Southeast Asia) is taught in the same volume as Đại Việt from Ngô Quyền to the Lê sơ, so pupils constantly compare their own dynasties with the region's; every Vietnamese war is taught through its named commanders' decisions and the chronicles' own words (Trần Thủ Độ's "my head has not yet fallen", Trần Bình Trọng's refusal, Nguyễn Trãi's Bình Ngô đại cáo). That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 22 countries (Ethiopia, United States, Guatemala, Costa Rica, Kuwait, Fiji, Indonesia, Montenegro, Dominican Republic, Suriname, Palestine, Colombia, South Sudan, Mozambique, Uzbekistan, North Macedonia, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Vietnam).**

@@ -1,6 +1,6 @@
 # Sources — Fact or opinion? Reading the past critically
 
-countries: Ethiopia, Jordan, Switzerland, Kuwait, Finland, Egypt, North Macedonia, Armenia
+countries: Ethiopia, Jordan, Switzerland, Kuwait, Finland, Egypt, North Macedonia, Armenia, Vietnam
 
 **Book 1:** *History, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, Addis Ababa, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-064-2, 210 printed pp. Printed page = PDF page − 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g09-student-placements.md
 
@@ -322,3 +322,23 @@ Armenia's own way (Book B11 — G12 World History Student (student book, Armenia
 **Acceptance count: taught in 8 countries (Ethiopia, Jordan, Switzerland, Kuwait, Finland, Egypt, North Macedonia, Armenia).**
 
 Searchable tags: Armenia, History expansion 2026-11-15, first-steps/fact-or-opinion
+
+
+## History expansion (2026-11-15) — Vietnam stocked
+
+**Book 8 — G10 History (student book, Vietnamese)**
+- Title as printed: Lịch sử 10 (Kết nối tri thức với cuộc sống)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam (Vietnam Education Publishing House); year 2023 (©2023; 3rd reprint with corrections and additions); ISBN 978-604-0-38325-9; book code G1HHXS003h26
+- PDF pages: 113 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 37 placements — 31 to existing lessons, 6 NEW LESSON NEEDED
+- Vietnam's own way: Grade 10 is organised by themes rather than chronology — the discipline itself first (what history is, its role, heritage), then civilisations in widening circles (the world, Southeast Asia, Vietnam's own land), then the four industrial revolutions, and finally the community of Vietnam's 54 ethnic groups, closing with the national great-unity bloc as the frame that holds the whole national story together.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — Bài 7, application: meeting unverified information online — story beats: the modern-revolutions lesson ends by turning its own medium into the exercise: in today's digital era much information is shared on the internet without being verified — if you are one of the people who receives such information, how should you handle it properly?; pupils must also collect materials from books, newspapers and the internet on one achievement of the modern industrial revolutions and draw a mind map (in their own design) to present it — the lesson's closing discipline is that a claim is not knowledge until its source has been checked (History expansion, 2026-11-15; original placement slug: first-steps/fact-or-opinion) | Vietnam, *Lịch sử 10 (Kết nối tri thức với cuộc sống)*, printed p. 50 |
+
+Vietnam's own way (Book 8 — G10 History (student book, Vietnamese)): Grade 10 is organised by themes rather than chronology — the discipline itself first (what history is, its role, heritage), then civilisations in widening circles (the world, Southeast Asia, Vietnam's own land), then the four industrial revolutions, and finally the community of Vietnam's 54 ethnic groups, closing with the national great-unity bloc as the frame that holds the whole national story together. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 9 countries (Ethiopia, Jordan, Switzerland, Kuwait, Finland, Egypt, North Macedonia, Armenia, Vietnam).**

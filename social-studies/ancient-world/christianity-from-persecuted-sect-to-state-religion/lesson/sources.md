@@ -1,6 +1,6 @@
 # Sources — Christianity — from persecuted sect to state religion
 
-countries: Ethiopia, Poland, Costa Rica, Ecuador, India, Montenegro, Colombia, Sri Lanka, Mongolia, North Macedonia, China, Venezuela, Moldova, Armenia
+countries: Ethiopia, Poland, Costa Rica, Ecuador, India, Montenegro, Colombia, Sri Lanka, Mongolia, North Macedonia, China, Venezuela, Moldova, Armenia, Vietnam
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -325,3 +325,54 @@ Armenia's own way (Book B6 — G10 World History Student (student book, Armenian
 **Acceptance count: taught in 14 countries (Ethiopia, Poland, Costa Rica, Ecuador, India, Montenegro, Colombia, Sri Lanka, Mongolia, North Macedonia, China, Venezuela, Moldova, Armenia).**
 
 Searchable tags: Armenia, History expansion 2026-11-15, ancient-world/christianity-from-persecuted-sect-to-state-religion
+
+
+## History expansion (2026-11-15) — Vietnam stocked
+
+**Book 4 — G7 History and Geography (student book, Vietnamese)**
+- Title as printed: Lịch sử và Địa lí 7 (Kết nối tri thức với cuộc sống)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2022 (copyright; 4th reprint with corrections and additions); ISBN 978-604-0-30717-0
+- PDF pages: 185 (title page verified against the record title; printed page = PDF page − 1)
+- Verdict: COMPLETE
+- Tally: 57 placements — 16 to existing lessons, 41 NEW LESSON NEEDED
+- Vietnam's own way: medieval world history (feudal Europe, China, India, Southeast Asia) is taught in the same volume as Đại Việt from Ngô Quyền to the Lê sơ, so pupils constantly compare their own dynasties with the region's; every Vietnamese war is taught through its named commanders' decisions and the chronicles' own words (Trần Thủ Độ's "my head has not yet fallen", Trần Bình Trọng's refusal, Nguyễn Trãi's Bình Ngô đại cáo).
+- Geography parts named, not placed: the whole Phần Địa lí, printed pp. 95–165 — Europe (Bài 1–4), Asia (Bài 5–8), Africa (Bài 9–12), the Americas (Bài 13–17), Australia and Antarctica (Bài 18–19). Two shared themes printed inside the Geography part ARE History and are placed below: Chủ đề chung 1, The Great Geographical Discoveries (printed pp. 166–169), and the History sections of Chủ đề chung 2, Cities: History and Present (printed pp. 170–174).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — Bài 1, the birth of Christianity — story beats: the faith of the poor and oppressed arises in Jerusalem at the start of the Common Era and by the 4th century has become the Roman Empire's state religion, the medieval Church its heir (History expansion, 2026-11-15; original placement slug: ancient-world/christianity-from-persecuted-sect-to-state-religion) | Vietnam, *Lịch sử và Địa lí 7 (Kết nối tri thức với cuộc sống)*, printed p. 11 |
+
+Vietnam's own way (Book 4 — G7 History and Geography (student book, Vietnamese)): medieval world history (feudal Europe, China, India, Southeast Asia) is taught in the same volume as Đại Việt from Ngô Quyền to the Lê sơ, so pupils constantly compare their own dynasties with the region's; every Vietnamese war is taught through its named commanders' decisions and the chronicles' own words (Trần Thủ Độ's "my head has not yet fallen", Trần Bình Trọng's refusal, Nguyễn Trãi's Bình Ngô đại cáo). That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 8 — G10 History (student book, Vietnamese)**
+- Title as printed: Lịch sử 10 (Kết nối tri thức với cuộc sống)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam (Vietnam Education Publishing House); year 2023 (©2023; 3rd reprint with corrections and additions); ISBN 978-604-0-38325-9; book code G1HHXS003h26
+- PDF pages: 113 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 37 placements — 31 to existing lessons, 6 NEW LESSON NEEDED
+- Vietnam's own way: Grade 10 is organised by themes rather than chronology — the discipline itself first (what history is, its role, heritage), then civilisations in widening circles (the world, Southeast Asia, Vietnam's own land), then the four industrial revolutions, and finally the community of Vietnam's 54 ethnic groups, closing with the national great-unity bloc as the frame that holds the whole national story together.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — Bài 5.1, the birth of Christianity inside the Roman Empire — story beats: Christianity (Cơ Đốc giáo/Ki-tô giáo) is formed in the 1st century CE in the eastern territory of the Roman Empire, in the setting of the struggles of slaves and the poor against Roman oppression; by tradition its founder is Jesus, born at Nazareth (in today's Israel); at first the Roman ruling class seeks to destroy the new religion, but it wins more and more followers and spreads widely, and by the early 4th century the Roman authorities stop suppressing it and recognise Christianity as the official religion of the empire; the Greeks and Romans before it worship many gods, holding festivals, sacrifices and prayers to honour them, their gods depicted in human form with human characters (History expansion, 2026-11-15; original placement slug: ancient-world/christianity-from-persecuted-sect-to-state-religion) | Vietnam, *Lịch sử 10 (Kết nối tri thức với cuộc sống)*, printed p. 34 |
+
+Vietnam's own way (Book 8 — G10 History (student book, Vietnamese)): Grade 10 is organised by themes rather than chronology — the discipline itself first (what history is, its role, heritage), then civilisations in widening circles (the world, Southeast Asia, Vietnam's own land), then the four industrial revolutions, and finally the community of Vietnam's 54 ethnic groups, closing with the national great-unity bloc as the frame that holds the whole national story together. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 13 — G12 History study topics (student book, Vietnamese)**
+- Title as printed: Chuyên đề học tập Lịch sử 12 (Kết nối tri thức với cuộc sống)
+- Grade: Grade 12 (student/teacher: STUDENT)
+- Publisher: NXBGD Vietnam Education Publishing House; year 2024, 2nd reprint; ISBN 978-604-0-39272-5 (book code G1HHZS004h26; price 8.000đ)
+- PDF pages: 59 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 17 placements — 12 to existing lessons, 5 NEW LESSON NEEDED
+- Vietnam's own way: the final-year electives turn from events to systems — the pupil maps the nation's whole belief ecology from family altar to world religions, studies Japan as the region's development mirror, and ends with Vietnam's own walk into ASEAN, the UN, APEC and the WTO as a dated, negotiated process.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — Chuyên đề 1 Christianity's four centuries in Vietnam: Western missionaries preach from the 1500s, the Nguyễn court's bans make the 1800s dangerous, Catholicism roots in the North until 1954 and weighs heavily in the South to 1975, while Protestantism, arriving in the early 1900s, spreads widely only from the mid-1980s, above all among the highland minorities — story beats: the persecuted import of one century becomes the established church of the next (History expansion, 2026-11-15; original placement slug: ancient-world/christianity-from-persecuted-sect-to-state-religion) | Vietnam, *Chuyên đề học tập Lịch sử 12 (Kết nối tri thức với cuộc sống)*, printed p. 19 |
+
+Vietnam's own way (Book 13 — G12 History study topics (student book, Vietnamese)): the final-year electives turn from events to systems — the pupil maps the nation's whole belief ecology from family altar to world religions, studies Japan as the region's development mirror, and ends with Vietnam's own walk into ASEAN, the UN, APEC and the WTO as a dated, negotiated process. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 15 countries (Ethiopia, Poland, Costa Rica, Ecuador, India, Montenegro, Colombia, Sri Lanka, Mongolia, North Macedonia, China, Venezuela, Moldova, Armenia, Vietnam).**

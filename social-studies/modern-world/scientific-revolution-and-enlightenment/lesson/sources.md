@@ -1,6 +1,6 @@
 # Sources — Scientific Revolution and Enlightenment
 
-countries: Ethiopia, France, Costa Rica, Ecuador, Belarus, Montenegro, Dominican Republic, Pakistan, Colombia, Mauritania, Mongolia, Samoa, Iraq, Uzbekistan, North Macedonia, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy
+countries: Ethiopia, France, Costa Rica, Ecuador, Belarus, Montenegro, Dominican Republic, Pakistan, Colombia, Mauritania, Mongolia, Samoa, Iraq, Uzbekistan, North Macedonia, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy, Vietnam
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -647,3 +647,41 @@ Italy's own way (Book 3 — La storia. Progettare il futuro, Vol. 2 (student boo
 Italy's own way (Book 4 — Lo spazio del tempo, Vol. 2 (student book, Italian)): Laterza's second volume runs a long '700 (from 1660) and a long '800 (to 1914) in six moduli; its signature is the Fare storia dossier apparatus — 178 numbered documents and historiography pieces, from Galileo's trial and Gustavus Vassa's slave narrative to Gramsci on the Risorgimento — so narrative chapters alternate with the sources that argue about them. That way is stocked here as the way Italy teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 24 countries (Ethiopia, France, Costa Rica, Ecuador, Belarus, Montenegro, Dominican Republic, Pakistan, Colombia, Mauritania, Mongolia, Samoa, Iraq, Uzbekistan, North Macedonia, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy).**
+
+
+## History expansion (2026-11-15) — Vietnam stocked
+
+**Book 5 — G8 History and Geography (student book, Vietnamese)**
+- Title as printed: Lịch sử và Địa lí 8 (Kết nối tri thức với cuộc sống)
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2023 (copyright; 3rd reprint with corrections and additions); ISBN 978-604-0-35043-5
+- PDF pages: 179 (cover and title page verified against the record title; printed page = PDF page − 1)
+- Verdict: COMPLETE
+- Tally: 60 placements — 23 to existing lessons, 37 NEW LESSON NEEDED
+- Vietnam's own way: Grade 8 pairs the bourgeois revolutions and industrialisation of Europe and America with Vietnam's own centuries of partition, peasant revolt and invasion, and closes the History part with the first French colonial exploitation — the lesson Vietnamese pupils are always brought back to when the book cites Hồ Chí Minh quoting the American and French Declarations.
+- Geography parts named, not placed: the whole Phần Địa lí, printed pp. 93–154 — Vietnam's territory and relief (Ch. 1, Bài 1–3), climate and waters (Ch. 2, Bài 4–8), soils and living world (Ch. 3, Bài 9–10), seas and islands (Ch. 4, Bài 11–12). Two shared themes follow it: Chủ đề chung 1, Civilisation of the Red River and Mekong Deltas (printed pp. 155–161), whose Geography sections are named here and whose History section (how people reclaimed and tamed the two deltas) is placed below; and Chủ đề chung 2, Protecting Vietnam's Sovereignty, Rights and Lawful Interests in the East Sea (printed pp. 162–171), whose law-of-the-sea sections are Civics/Geography and named here, and whose History section (the historical process of establishing sea-and-island sovereignty) is placed below.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — Bài 2, the Enlightenment thinkers prepare the French Revolution — story beats: Montesquieu argues for limiting the king's power and securing citizens' freedoms, Voltaire for an enlightened monarchy, freedom of belief and the right of property, and Rousseau that monarchy must be abolished altogether for a republic — the ideas that, in the book's words, clear the road for the revolution to explode (History expansion, 2026-11-15; original placement slug: modern-world/scientific-revolution-and-enlightenment) | Vietnam, *Lịch sử và Địa lí 8 (Kết nối tri thức với cuộc sống)*, printed p. 13 |
+| Vietnam part — Bài 13, the great scientific achievements of the 18th–19th centuries — story beats: Newton's law of universal gravitation (with the apple anecdote — watching an apple fall straight down in the family garden, he asks why it never falls sideways or upward), Lomonosov's law of the conservation and transformation of energy, Darwin's theory of evolution; beside them the social sciences advance — German materialism and dialectics in Feuerbach and Hegel, English political economy in Adam Smith and Ricardo, utopian socialism in Saint-Simon, Fourier and Owen — until Marx and Engels' scientific socialism makes, in the book's phrase, a revolution in human thought (History expansion, 2026-11-15; original placement slug: modern-world/scientific-revolution-and-enlightenment) | Vietnam, *Lịch sử và Địa lí 8 (Kết nối tri thức với cuộc sống)*, printed p. 58 |
+
+Vietnam's own way (Book 5 — G8 History and Geography (student book, Vietnamese)): Grade 8 pairs the bourgeois revolutions and industrialisation of Europe and America with Vietnam's own centuries of partition, peasant revolt and invasion, and closes the History part with the first French colonial exploitation — the lesson Vietnamese pupils are always brought back to when the book cites Hồ Chí Minh quoting the American and French Declarations. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 6 — G9 History and Geography (student book, Vietnamese)**
+- Title as printed: Lịch sử và Địa lí 9 (Kết nối tri thức với cuộc sống)
+- Grade: 9 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam (Vietnam Education Publishing House); year 2024 (©2024; 2nd reprint with corrections and additions); ISBN 978-604-0-39238-1; book code G1HH9U002h26; price 28.700đ
+- PDF pages: 243 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 59 placements — 20 to existing lessons, 39 NEW LESSON NEEDED
+- Combined book: History part printed pp. 6–115 placed below. Geography part printed pp. 116–220 (population and ethnic groups, labour and employment, agriculture, industry, services, the country's regions, sea and island economy) NOT placed — named here per the brief. The three shared themes (printed pp. 221–235) follow the Geography part: Theme 1 Cities: History and Present (2) placed; Theme 2 Red River and Mekong Delta Civilisation (2) — culture section placed, climate-change section is Geography and not placed; Theme 3 Protecting Vietnam's sovereignty, rights and lawful interests in the East Sea (2) — historical-evidence section placed. Review lessons (Ôn tập) after chapters are not placed separately.
+- Vietnam's own way: the modern-history book is built as two interleaved timelines — every world chapter is answered by a Vietnam chapter (world 1918–1945, then Vietnam 1918–1945; world 1945–1991, then Vietnam 1945–1975), so pupils always read their own country's story as part of the world's, with Party documents and Hồ Chí Minh's words quoted as primary sources throughout.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — Bài 21, the scientific-technical revolution's achievements — story beats: the book's achievements table sweeps the post-1945 revolution field by field — basic science in mathematics, physics, biology and chemistry; biotechnology's genetic and cell technologies driving a "Green Revolution"; new materials from super-flexible polymers to nano; atomic, wind, solar and geothermal energy; generations of computers and the internet; supersonic aircraft and high-speed trains; satellite communications and the smartphone; and digital technology — big data, cloud computing, the internet of things and 3D printing — crowned by artificial intelligence, which not only imitates human thought but steers the rest (History expansion, 2026-11-15; original placement slug: modern-world/scientific-revolution-and-enlightenment) | Vietnam, *Lịch sử và Địa lí 9 (Kết nối tri thức với cuộc sống)*, printed p. 111 |
+
+Vietnam's own way (Book 6 — G9 History and Geography (student book, Vietnamese)): the modern-history book is built as two interleaved timelines — every world chapter is answered by a Vietnam chapter (world 1918–1945, then Vietnam 1918–1945; world 1945–1991, then Vietnam 1945–1975), so pupils always read their own country's story as part of the world's, with Party documents and Hồ Chí Minh's words quoted as primary sources throughout. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 25 countries (Ethiopia, France, Costa Rica, Ecuador, Belarus, Montenegro, Dominican Republic, Pakistan, Colombia, Mauritania, Mongolia, Samoa, Iraq, Uzbekistan, North Macedonia, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy, Vietnam).**

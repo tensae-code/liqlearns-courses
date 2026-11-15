@@ -1,0 +1,21 @@
+# Yalta And The Bipolar Order
+
+## Do it first
+
+Before you read on, hold this lesson's one thing in mind: three men in a Crimean palace draw the map the next half-century has to live inside As you read, keep asking where each part of that sentence is proved.
+
+## Sub lesson 1 — Bài 2 The Yalta order: at Livadia in February 1945 Churchill, Roosevelt and Stalin agree to destroy fascist Germany and militarist Japan and divide the world into zones — Soviet east Germany and Eastern Europe against the Western west, Korea split at the 38th parallel, the USSR to re-enter the Pacific war for South Sakhalin and the Kurils, Taiwan and Manchuria back to China
+
+three men in a Crimean palace draw the map the next half-century has to live inside
+
+[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+
+## Say it to your companion
+
+Tell your companion the story as its beats, in order: Bài 2 The Yalta order: at Livadia in February 1945 Churchill, Roosevelt and Stalin agree to destroy fascist Germany and militarist Japan and divide the world into zones — Soviet east Germany and Eastern Europe against the Western west, Korea split at the 38th parallel, the USSR to re-enter the Pacific war for South Sakhalin and the Kurils, Taiwan and Manchuria back to China — three men in a Crimean palace draw the map the next half-century has to live inside. Then let your companion ask you one hard question about it — answer from the lesson.
+
+## Do It Yourself
+
+1. three men in a Crimean palace draw the map the next half-century has to live inside
+2. Write, from memory, the lesson's key names and places in the order they happened.
+3. Say what Vietnam's own way of teaching this story is, from the books in lesson/sources.md.

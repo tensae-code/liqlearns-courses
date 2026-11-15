@@ -1,6 +1,6 @@
 # Sources — The Renaissance — its great figures
 
-countries: Ethiopia, France, Poland, Kuwait, Pakistan, Mauritania, Sudan, North Macedonia, China, Moldova, Armenia, Nicaragua, Italy
+countries: Ethiopia, France, Poland, Kuwait, Pakistan, Mauritania, Sudan, North Macedonia, China, Moldova, Armenia, Nicaragua, Italy, Vietnam
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 127).
 
@@ -305,3 +305,55 @@ Italy's own way (Book 1 — La storia. Progettare il futuro, Vol. 1 (student boo
 Italy's own way (Book 2 — Lo spazio del tempo, Vol. 1 (student book, Italian)): Laterza's rival liceo course organises the same centuries in moduli built around documents — every chapter carries numbered DOC dossiers, Eventi and Personaggi boxes, a Guida allo studio and competence exercises, so the student works as a historian from sources first and narrative second. That way is stocked here as the way Italy teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 13 countries (Ethiopia, France, Poland, Kuwait, Pakistan, Mauritania, Sudan, North Macedonia, China, Moldova, Armenia, Nicaragua, Italy).**
+
+
+## History expansion (2026-11-15) — Vietnam stocked
+
+**Book 4 — G7 History and Geography (student book, Vietnamese)**
+- Title as printed: Lịch sử và Địa lí 7 (Kết nối tri thức với cuộc sống)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2022 (copyright; 4th reprint with corrections and additions); ISBN 978-604-0-30717-0
+- PDF pages: 185 (title page verified against the record title; printed page = PDF page − 1)
+- Verdict: COMPLETE
+- Tally: 57 placements — 16 to existing lessons, 41 NEW LESSON NEEDED
+- Vietnam's own way: medieval world history (feudal Europe, China, India, Southeast Asia) is taught in the same volume as Đại Việt from Ngô Quyền to the Lê sơ, so pupils constantly compare their own dynasties with the region's; every Vietnamese war is taught through its named commanders' decisions and the chronicles' own words (Trần Thủ Độ's "my head has not yet fallen", Trần Bình Trọng's refusal, Nguyễn Trãi's Bình Ngô đại cáo).
+- Geography parts named, not placed: the whole Phần Địa lí, printed pp. 95–165 — Europe (Bài 1–4), Asia (Bài 5–8), Africa (Bài 9–12), the Americas (Bài 13–17), Australia and Antarctica (Bài 18–19). Two shared themes printed inside the Geography part ARE History and are placed below: Chủ đề chung 1, The Great Geographical Discoveries (printed pp. 166–169), and the History sections of Chủ đề chung 2, Cities: History and Present (printed pp. 170–174).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — Bài 3, the achievements of the Renaissance — story beats: Dante opens the movement; Cervantes' Don Quixote and Shakespeare's plays, Leonardo's Last Supper and Mona Lisa, Michelangelo painting the Sistine ceiling lying on his back for over four years, and Copernicus, Bruno and Galileo — "and yet it moves" — defying the Church (History expansion, 2026-11-15; original placement slug: modern-world/the-renaissance-rebirth-of-learning) | Vietnam, *Lịch sử và Địa lí 7 (Kết nối tri thức với cuộc sống)*, printed p. 19 |
+
+Vietnam's own way (Book 4 — G7 History and Geography (student book, Vietnamese)): medieval world history (feudal Europe, China, India, Southeast Asia) is taught in the same volume as Đại Việt from Ngô Quyền to the Lê sơ, so pupils constantly compare their own dynasties with the region's; every Vietnamese war is taught through its named commanders' decisions and the chronicles' own words (Trần Thủ Độ's "my head has not yet fallen", Trần Bình Trọng's refusal, Nguyễn Trãi's Bình Ngô đại cáo). That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 8 — G10 History (student book, Vietnamese)**
+- Title as printed: Lịch sử 10 (Kết nối tri thức với cuộc sống)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam (Vietnam Education Publishing House); year 2023 (©2023; 3rd reprint with corrections and additions); ISBN 978-604-0-38325-9; book code G1HHXS003h26
+- PDF pages: 113 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 37 placements — 31 to existing lessons, 6 NEW LESSON NEEDED
+- Vietnam's own way: Grade 10 is organised by themes rather than chronology — the discipline itself first (what history is, its role, heritage), then civilisations in widening circles (the world, Southeast Asia, Vietnam's own land), then the four industrial revolutions, and finally the community of Vietnam's 54 ethnic groups, closing with the national great-unity bloc as the frame that holds the whole national story together.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — Bài 5.2, the great figures of Renaissance literature, art and science — story beats: Renaissance literature reaches its peak across poetry, the novel and drama — Dante Alighieri with the Divine Comedy and the Vita Nuova, Petrarch with his lyric poems, Giovanni Boccaccio with the Decameron (Mười ngày), François Rabelais of France with Gargantua and Pantagruel, Miguel de Cervantes of Spain with Don Quixote, and above all William Shakespeare of England with Hamlet, Othello and Romeo and Juliet; art begins in Italy and spreads across Europe, peaking in the 15th–16th centuries with Leonardo da Vinci (the Last Supper, the Mona Lisa), Michelangelo (the David, the Pietà) and Raphael (the Sistine Madonna, the School of Athens — pictured with the Greek scholars gathered in it); architecture stresses geometry, symmetry and proportion, its typical work the dome of St Peter's Basilica in Italy (the Vatican); and the age's outstanding science is astronomy — Nicolaus Copernicus of Poland with the heliocentric theory, Giordano Bruno of Italy proving the Sun is only the centre of the Solar System, and Galileo Galilei of Italy, who makes the telescope to observe the sky — while technique advances in weaving, mining, metallurgy, shipbuilding and weapons-making, machines are built, and water power is used in many branches of production (History expansion, 2026-11-15; original placement slug: modern-world/the-renaissance-its-great-figures) | Vietnam, *Lịch sử 10 (Kết nối tri thức với cuộc sống)*, printed p. 35 |
+
+Vietnam's own way (Book 8 — G10 History (student book, Vietnamese)): Grade 10 is organised by themes rather than chronology — the discipline itself first (what history is, its role, heritage), then civilisations in widening circles (the world, Southeast Asia, Vietnam's own land), then the four industrial revolutions, and finally the community of Vietnam's 54 ethnic groups, closing with the national great-unity bloc as the frame that holds the whole national story together. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 9 — G10 Art theory & history (student book, Vietnamese)**
+- Title as printed: Mĩ thuật 10 — Lí luận và lịch sử mĩ thuật (Kết nối tri thức với cuộc sống)
+- Grade: Grade 10 (student/teacher: STUDENT)
+- Publisher: NXBGD Vietnam Education Publishing House; year 2022; ISBN 978-604-0-31098-9 (book code G1HHXM005H22; price 6.000đ)
+- PDF pages: 39 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- SCOPE NOTE: this is a Fine Arts elective (Theory and History of Fine Arts), not the History subject. Only its genuine History teaching parts are placed below — the historical method (art history as a discipline, archaeology as evidence), the civilisation anchors of its world-art survey, and Vietnamese art read as a record of the dynasties. Pure art-technique/style content (approaches to appreciation, modern and post-modern movements as styles) is named here but not placed.
+- Tally: 12 placements — 12 to existing lessons, 0 NEW LESSON NEEDED
+- Vietnam's own way: Vietnam teaches art history inside the Fine Arts subject as a three-lesson arc — what the discipline is and how it works with archaeology, a period survey of world art from cave painting to post-modern installation, then Vietnam's own art dynasty by dynasty — always ending in the pupil building a cited materials list of their own.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — Bài 2 The Renaissance stage: the movement to revive Greek and Roman art, human values, perspective space and oil paint — Botticelli's Birth of Venus, 1486 — story beats: Venus rises from the sea again in Florence, and art turns back to the human being (History expansion, 2026-11-15; original placement slug: modern-world/the-renaissance-its-great-figures) | Vietnam, *Mĩ thuật 10 — Lí luận và lịch sử mĩ thuật (Kết nối tri thức với cuộc sống)*, printed p. 19 |
+
+Vietnam's own way (Book 9 — G10 Art theory & history (student book, Vietnamese)): Vietnam teaches art history inside the Fine Arts subject as a three-lesson arc — what the discipline is and how it works with archaeology, a period survey of world art from cave painting to post-modern installation, then Vietnam's own art dynasty by dynasty — always ending in the pupil building a cited materials list of their own. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 14 countries (Ethiopia, France, Poland, Kuwait, Pakistan, Mauritania, Sudan, North Macedonia, China, Moldova, Armenia, Nicaragua, Italy, Vietnam).**

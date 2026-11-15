@@ -1,6 +1,6 @@
 # Sources — Militarism in Japan — the army above the state
 
-countries: Ethiopia, South Sudan, Samoa, China, Moldova, Italy
+countries: Ethiopia, South Sudan, Samoa, China, Moldova, Italy, Vietnam
 
 **Book 1:** *History, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN 978-99990-0-065-9. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g10-student-placements.md
 
@@ -176,3 +176,40 @@ Italy's own way (Book 5 — La storia. Progettare il futuro, Vol. 3 (student boo
 Italy's own way (Book 6 — Lo spazio del tempo, Vol. 3 (student book, Italian)): Laterza's third volume tells the "short twentieth century" and its aftermath in 19 modules, each closed by the Fare storia dossier method at its largest scale — 207 numbered documents and historiography pieces in four dossier modules, from Clark on 1914 and Lenin's April Theses to Piketty on inequality and Huntington's clash of civilisations — so the century is argued from its sources, not merely narrated. That way is stocked here as the way Italy teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 6 countries (Ethiopia, South Sudan, Samoa, China, Moldova, Italy).**
+
+
+## History expansion (2026-11-15) — Vietnam stocked
+
+**Book 5 — G8 History and Geography (student book, Vietnamese)**
+- Title as printed: Lịch sử và Địa lí 8 (Kết nối tri thức với cuộc sống)
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2023 (copyright; 3rd reprint with corrections and additions); ISBN 978-604-0-35043-5
+- PDF pages: 179 (cover and title page verified against the record title; printed page = PDF page − 1)
+- Verdict: COMPLETE
+- Tally: 60 placements — 23 to existing lessons, 37 NEW LESSON NEEDED
+- Vietnam's own way: Grade 8 pairs the bourgeois revolutions and industrialisation of Europe and America with Vietnam's own centuries of partition, peasant revolt and invasion, and closes the History part with the first French colonial exploitation — the lesson Vietnamese pupils are always brought back to when the book cites Hồ Chí Minh quoting the American and French Declarations.
+- Geography parts named, not placed: the whole Phần Địa lí, printed pp. 93–154 — Vietnam's territory and relief (Ch. 1, Bài 1–3), climate and waters (Ch. 2, Bài 4–8), soils and living world (Ch. 3, Bài 9–10), seas and islands (Ch. 4, Bài 11–12). Two shared themes follow it: Chủ đề chung 1, Civilisation of the Red River and Mekong Deltas (printed pp. 155–161), whose Geography sections are named here and whose History section (how people reclaimed and tamed the two deltas) is placed below; and Chủ đề chung 2, Protecting Vietnam's Sovereignty, Rights and Lawful Interests in the East Sea (printed pp. 162–171), whose law-of-the-sea sections are Civics/Geography and named here, and whose History section (the historical process of establishing sea-and-island sovereignty) is placed below.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — Bài 14, Japan turns imperialist — story beats: the indemnity from the Sino-Japanese War (1894–95) feeds an industry whose spearheads are shipbuilding, weapons and military equipment, steel and electricity; the great monopoly houses — Mitsui, Mitsubishi, Sumitomo — come to dominate the country's economic and political life and export capital into China and Korea; victory over Russia (1904–1905) brings the Liaodong peninsula, southern Sakhalin, Taiwan, Lüshun and Shandong into the Japanese empire mapped here (History expansion, 2026-11-15; original placement slug: modern-world/militarism-in-japan-the-army-above-the-state) | Vietnam, *Lịch sử và Địa lí 8 (Kết nối tri thức với cuộc sống)*, printed p. 65 |
+
+Vietnam's own way (Book 5 — G8 History and Geography (student book, Vietnamese)): Grade 8 pairs the bourgeois revolutions and industrialisation of Europe and America with Vietnam's own centuries of partition, peasant revolt and invasion, and closes the History part with the first French colonial exploitation — the lesson Vietnamese pupils are always brought back to when the book cites Hồ Chí Minh quoting the American and French Declarations. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 6 — G9 History and Geography (student book, Vietnamese)**
+- Title as printed: Lịch sử và Địa lí 9 (Kết nối tri thức với cuộc sống)
+- Grade: 9 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam (Vietnam Education Publishing House); year 2024 (©2024; 2nd reprint with corrections and additions); ISBN 978-604-0-39238-1; book code G1HH9U002h26; price 28.700đ
+- PDF pages: 243 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 59 placements — 20 to existing lessons, 39 NEW LESSON NEEDED
+- Combined book: History part printed pp. 6–115 placed below. Geography part printed pp. 116–220 (population and ethnic groups, labour and employment, agriculture, industry, services, the country's regions, sea and island economy) NOT placed — named here per the brief. The three shared themes (printed pp. 221–235) follow the Geography part: Theme 1 Cities: History and Present (2) placed; Theme 2 Red River and Mekong Delta Civilisation (2) — culture section placed, climate-change section is Geography and not placed; Theme 3 Protecting Vietnam's sovereignty, rights and lawful interests in the East Sea (2) — historical-evidence section placed. Review lessons (Ôn tập) after chapters are not placed separately.
+- Vietnam's own way: the modern-history book is built as two interleaved timelines — every world chapter is answered by a Vietnam chapter (world 1918–1945, then Vietnam 1918–1945; world 1945–1991, then Vietnam 1945–1975), so pupils always read their own country's story as part of the world's, with Party documents and Hồ Chí Minh's words quoted as primary sources throughout.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — Bài 3, Japan between the wars — story beats: Japan's post-war boom lasts eighteen months before the 1920–21 slump; the Communist Party is founded in July 1922, Tokyo's banks crash in 1927, and the Depression cuts industrial output by 32.5% and trade by 80% with some 3 million unemployed; the 1927 Tanaka memorial points the army outward — Manchuria in September 1931, Indochina in September 1940, Pearl Harbor in December 1941, surrender on 15 August 1945 (History expansion, 2026-11-15; original placement slug: modern-world/militarism-in-japan-the-army-above-the-state) | Vietnam, *Lịch sử và Địa lí 9 (Kết nối tri thức với cuộc sống)*, printed p. 14 |
+
+Vietnam's own way (Book 6 — G9 History and Geography (student book, Vietnamese)): the modern-history book is built as two interleaved timelines — every world chapter is answered by a Vietnam chapter (world 1918–1945, then Vietnam 1918–1945; world 1945–1991, then Vietnam 1945–1975), so pupils always read their own country's story as part of the world's, with Party documents and Hồ Chí Minh's words quoted as primary sources throughout. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 7 countries (Ethiopia, South Sudan, Samoa, China, Moldova, Italy, Vietnam).**

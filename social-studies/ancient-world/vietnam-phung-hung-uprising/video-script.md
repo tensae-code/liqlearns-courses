@@ -1,0 +1,7 @@
+# Video script — Vietnam Phung Hung Uprising
+
+The super-simple voice, for the video that rides on top of the lesson (lesson-plan.md, add-on list). Story-style: the story told as Vietnam's own books tell it. Made later, when videos are made; the script is the slot's written form until then.
+
+---
+
+the Đường Lâm hào trưởng, a strongman who could wrestle buffalo and tiger, masters his region, besieges and takes Tống Bình and rules nine years; the people later honour him as Bố Cái Đại Vương

@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — China
 
-countries: Ethiopia, Australia, Malaysia, Ecuador, India, Dominican Republic, Egypt, Pakistan, Bolivia, Iran, Cambodia, Colombia, Sri Lanka, Mongolia, Yemen, Jordan, Uzbekistan, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy
+countries: Ethiopia, Australia, Malaysia, Ecuador, India, Dominican Republic, Egypt, Pakistan, Bolivia, Iran, Cambodia, Colombia, Sri Lanka, Mongolia, Yemen, Jordan, Uzbekistan, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy, Vietnam
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -706,3 +706,71 @@ Italy's own way (Book 2 — Lo spazio del tempo, Vol. 1 (student book, Italian))
 Italy's own way (Book 4 — Lo spazio del tempo, Vol. 2 (student book, Italian)): Laterza's second volume runs a long '700 (from 1660) and a long '800 (to 1914) in six moduli; its signature is the Fare storia dossier apparatus — 178 numbered documents and historiography pieces, from Galileo's trial and Gustavus Vassa's slave narrative to Gramsci on the Risorgimento — so narrative chapters alternate with the sources that argue about them. That way is stocked here as the way Italy teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 27 countries (Ethiopia, Australia, Malaysia, Ecuador, India, Dominican Republic, Egypt, Pakistan, Bolivia, Iran, Cambodia, Colombia, Sri Lanka, Mongolia, Yemen, Jordan, Uzbekistan, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy).**
+
+
+## History expansion (2026-11-15) — Vietnam stocked
+
+**Book 2 — G5 History and Geography (student book, Vietnamese)**
+- Title as printed: Lịch sử và Địa lí 5 (Kết nối tri thức với cuộc sống)
+- Grade: Grade 5 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2024 (copyright; 2nd reprint with corrections and additions); ISBN 978-604-0-39225-1
+- PDF pages: 124 (cover/title page verified against the record title; printed page = PDF page − 3)
+- Verdict: COMPLETE
+- Tally: 59 placements — 11 to existing lessons, 48 NEW LESSON NEEDED
+- Vietnam's own way: Grade 5 runs the whole national story in one chronological sweep — first states, a thousand years of northern domination, the dynasties, colonisation, 1945, 1954, 1975, Đổi mới — and every lesson is built around named "Câu chuyện Lịch sử" story boxes, many quoted from the national chronicles (Đại Việt sử ký toàn thư, Đại Nam thực lục).
+- Geography parts named, not placed: Bài 1 position/territory and administrative units (printed pp. 5–8, Geography; its flag/emblem/anthem section is Civics); Bài 2 nature of Vietnam (pp. 9–15); Bài 4 population and peoples (pp. 20–24, Geography apart from the two story boxes placed below); Bài 18–20 the neighbouring countries' nature and population (pp. 76–89, Geography apart from the heritage works placed below); Bài 22 continents and oceans (pp. 93–97); Bài 23 world population and races (pp. 98–100); Bài 26 building a green–clean–beautiful world (pp. 109–111, Civics/environment). Bài 11 and Bài 28 are review lessons — no separate placement.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — Bài 18, Qin Shi Huang's tomb and the terracotta army — story beats: thousands of life-size terracotta soldiers stand guard over the First Emperor's mausoleum, shown among China's signature ancient works (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-china) | Vietnam, *Lịch sử và Địa lí 5 (Kết nối tri thức với cuộc sống)*, printed p. 79 |
+
+Vietnam's own way (Book 2 — G5 History and Geography (student book, Vietnamese)): Grade 5 runs the whole national story in one chronological sweep — first states, a thousand years of northern domination, the dynasties, colonisation, 1945, 1954, 1975, Đổi mới — and every lesson is built around named "Câu chuyện Lịch sử" story boxes, many quoted from the national chronicles (Đại Việt sử ký toàn thư, Đại Nam thực lục). That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 3 — G6 History and Geography (student book, Vietnamese)**
+- Title as printed: Lịch sử và Địa lí 6 (Kết nối tri thức với cuộc sống)
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2021 (copyright; 5th reprint with corrections and additions); ISBN 978-604-0-25153-4
+- PDF pages: 200 (title page verified against the record title; the PDF opens at the title page, printed page = PDF page)
+- Verdict: COMPLETE
+- Tally: 49 placements — 21 to existing lessons, 28 NEW LESSON NEEDED
+- Vietnam's own way: the lower-secondary course rebuilds the story from first principles — what history is, how evidence works, how time is counted — then prehistory, the ancient civilisations, Southeast Asia, and Vietnam to the 10th century, quoting the chronicles (Đại Việt sử ký toàn thư) and even a Yuan-era account (An Nam chí lược) as pupil-facing sources.
+- Geography parts named, not placed: the whole Phần Địa lí, printed pp. 95–199 — introduction to Geography; maps and ways of showing the Earth's surface (Bài 1–5); the Earth in the solar system and its motions (Bài 6–9); the Earth's structure and landforms (Bài 10–14); atmosphere, climate and climate change (Bài 15–18); water on Earth (Bài 19–21); soil and life on Earth (Bài 22–26); people and nature (Bài 27–30).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — Bài 9, ancient China: rivers and dynasties — story beats: on the Yellow River and Yangtze, the Xia (21st–16th centuries BC) yield to Shang, then Zhou; the Warring States end when Qin unifies China in 221 BC (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-china) | Vietnam, *Lịch sử và Địa lí 6 (Kết nối tri thức với cuộc sống)*, printed p. 40 |
+
+Vietnam's own way (Book 3 — G6 History and Geography (student book, Vietnamese)): the lower-secondary course rebuilds the story from first principles — what history is, how evidence works, how time is counted — then prehistory, the ancient civilisations, Southeast Asia, and Vietnam to the 10th century, quoting the chronicles (Đại Việt sử ký toàn thư) and even a Yuan-era account (An Nam chí lược) as pupil-facing sources. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 8 — G10 History (student book, Vietnamese)**
+- Title as printed: Lịch sử 10 (Kết nối tri thức với cuộc sống)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam (Vietnam Education Publishing House); year 2023 (©2023; 3rd reprint with corrections and additions); ISBN 978-604-0-38325-9; book code G1HHXS003h26
+- PDF pages: 113 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 37 placements — 31 to existing lessons, 6 NEW LESSON NEEDED
+- Vietnam's own way: Grade 10 is organised by themes rather than chronology — the discipline itself first (what history is, its role, heritage), then civilisations in widening circles (the world, Southeast Asia, Vietnam's own land), then the four industrial revolutions, and finally the community of Vietnam's 54 ethnic groups, closing with the national great-unity bloc as the frame that holds the whole national story together.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — Bài 4.2c, the achievements of ancient-to-medieval Chinese civilisation — story beats: China's schools of thought form very early to explain the world and propose ways to govern — Confucianism, Taoism, Mohism, Legalism and the theories of yin-yang, the eight trigrams and the five elements become the ideological foundation of ancient China and influence many countries, Japan, Korea and Vietnam among them, while Buddhism, introduced in the first centuries CE, is adapted, flourishes, and spreads onward through the region; Chinese writing begins with the Shang era's oracle-bone script carved on tortoise shells and animal bones and bronze inscriptions, develops into today's Chinese characters, rises to the art of calligraphy, and is borrowed and adapted by Japan, Korea and Vietnam; literature peaks in Tang poetry — Li Bai, Du Fu and Bai Juyi — and the Ming–Qing chapter novels (Romance of the Three Kingdoms, Water Margin, Journey to the West, Dream of the Red Chamber); architecture and sculpture, bound closely together, give the Great Wall, the Forbidden City, the Summer Palace and the Ming Tombs, and the Terracotta Army in Qin Shi Huang's tomb in Shaanxi is pictured; in science China counts in decimals, computes π correctly to seven decimal places for the first time and invents the abacus, is first to record solar and lunar eclipses and makes calendars early, heals by medicine, acupuncture and surgery (the famous physicians Hua Tuo and Zhang Zhongjing), writes history from the Spring and Autumn Annals, China's first annals, to Sima Qian's Shiji, and gives the world the four great inventions — papermaking, printing, gunpowder and the compass — achievements that travel to the neighbours, to West Asia and then to Europe; a quoted judgement closes the lesson: unlike Harappa, Sumer and Egypt, ancient China overcame the challenge of the nomad peoples at its borders, its institutions and cultural values surviving intact into the early 20th century, so Chinese civilisation is sometimes described as the longest continuously existing civilisation in the world (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-china) | Vietnam, *Lịch sử 10 (Kết nối tri thức với cuộc sống)*, printed p. 27 |
+
+Vietnam's own way (Book 8 — G10 History (student book, Vietnamese)): Grade 10 is organised by themes rather than chronology — the discipline itself first (what history is, its role, heritage), then civilisations in widening circles (the world, Southeast Asia, Vietnam's own land), then the four industrial revolutions, and finally the community of Vietnam's 54 ethnic groups, closing with the national great-unity bloc as the frame that holds the whole national story together. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 9 — G10 Art theory & history (student book, Vietnamese)**
+- Title as printed: Mĩ thuật 10 — Lí luận và lịch sử mĩ thuật (Kết nối tri thức với cuộc sống)
+- Grade: Grade 10 (student/teacher: STUDENT)
+- Publisher: NXBGD Vietnam Education Publishing House; year 2022; ISBN 978-604-0-31098-9 (book code G1HHXM005H22; price 6.000đ)
+- PDF pages: 39 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- SCOPE NOTE: this is a Fine Arts elective (Theory and History of Fine Arts), not the History subject. Only its genuine History teaching parts are placed below — the historical method (art history as a discipline, archaeology as evidence), the civilisation anchors of its world-art survey, and Vietnamese art read as a record of the dynasties. Pure art-technique/style content (approaches to appreciation, modern and post-modern movements as styles) is named here but not placed.
+- Tally: 12 placements — 12 to existing lessons, 0 NEW LESSON NEEDED
+- Vietnam's own way: Vietnam teaches art history inside the Fine Arts subject as a three-lesson arc — what the discipline is and how it works with archaeology, a period survey of world art from cave painting to post-modern installation, then Vietnam's own art dynasty by dynasty — always ending in the pupil building a cited materials list of their own.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — Bài 2 Ancient China's art: a civilisation of 5,000–6,000 years whose Great Wall, Forbidden City and thousand-armed Buddha became world heritage — story beats: the longest-lived civilisation leaves the longest wall and a city of palaces as its signature (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-china) | Vietnam, *Mĩ thuật 10 — Lí luận và lịch sử mĩ thuật (Kết nối tri thức với cuộc sống)*, printed p. 16 |
+
+Vietnam's own way (Book 9 — G10 Art theory & history (student book, Vietnamese)): Vietnam teaches art history inside the Fine Arts subject as a three-lesson arc — what the discipline is and how it works with archaeology, a period survey of world art from cave painting to post-modern installation, then Vietnam's own art dynasty by dynasty — always ending in the pupil building a cited materials list of their own. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 28 countries (Ethiopia, Australia, Malaysia, Ecuador, India, Dominican Republic, Egypt, Pakistan, Bolivia, Iran, Cambodia, Colombia, Sri Lanka, Mongolia, Yemen, Jordan, Uzbekistan, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy, Vietnam).**

@@ -1,6 +1,6 @@
 # Sources — Hot Wars Of The Cold War And After Korea Vietnam Afghanistan
 
-countries: North Macedonia, Moldova
+countries: North Macedonia, Moldova, Vietnam
 
 **Book 3 — Istorija I (History I), Grade 10 (student book, Macedonian)**
 - Title as printed: ИСТОРИЈА I за прва година гимназиско образование — учебник (History I for the first year of gymnasium education — textbook)
@@ -43,3 +43,23 @@ Moldova's own way (Book 8 — moldova-g12-history (student book, Romanian)): the
 **Acceptance count: taught in 2 countries (North Macedonia, Moldova).**
 
 Searchable tags: Moldova, History expansion 2026-11-15, modern-world/hot-wars-of-the-cold-war-and-after-korea-vietnam-afghanistan
+
+
+## History expansion (2026-11-15) — Vietnam stocked
+
+**Book 14 — G12 History (student book, Vietnamese)**
+- Title as printed: Lịch sử 12 (Kết nối tri thức với cuộc sống)
+- Grade: Grade 12 (student/teacher: STUDENT)
+- Publisher: NXBGD Vietnam Education Publishing House; year 2024, 2nd reprint; general editor Vũ Minh Giang; editor-in-chief Trần Thị Vinh; authors Trương Thị Bích Hạnh – Nguyễn Thị Mai Hoa – Phan Ngọc Huyền – Hoàng Thị Hồng Nga – Phạm Hồng Tung; ISBN 978-604-0-39271-8 (book code G1HHZS003h26; price 13.900đ)
+- PDF pages: 115 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 48 placements — 44 to existing lessons, 4 NEW LESSON NEEDED
+- Vietnam's own way: the final year closes the whole school arc with the world first — the UN, the Yalta order, the Cold War's fall, ASEAN — then runs Vietnam's own 1945–today story as one unbroken Fatherland narrative (revolution, two resistances, border wars, Đổi Mới, diplomacy) and ends with an entire theme on Hồ Chí Minh as national hero and world cultural figure; every lesson is built on named primary sources (charters, declarations, party documents, memoirs) with "Em có biết?" side boxes.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — Bài 2 The bipolar order at war with itself, 1945 to the early 1970s: NATO (1949) faces the Warsaw Pact (1955) while the two poles fight through local wars — Korea 1950–53, France's and then America's wars in Vietnam, the Middle East from 1948 — and the order already cracks as China's 1949 victory breaks the American scheme in Asia and Western Europe and Japan outgrow American tutelage — story beats: the two camps never fight each other directly, so the fighting is outsourced to other people's countries (History expansion, 2026-11-15; original placement slug: modern-world/the-cold-war-alliances-and-crises) | Vietnam, *Lịch sử 12 (Kết nối tri thức với cuộc sống)*, printed p. 14 |
+
+Vietnam's own way (Book 14 — G12 History (student book, Vietnamese)): the final year closes the whole school arc with the world first — the UN, the Yalta order, the Cold War's fall, ASEAN — then runs Vietnam's own 1945–today story as one unbroken Fatherland narrative (revolution, two resistances, border wars, Đổi Mới, diplomacy) and ends with an entire theme on Hồ Chí Minh as national hero and world cultural figure; every lesson is built on named primary sources (charters, declarations, party documents, memoirs) with "Em có biết?" side boxes. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 3 countries (North Macedonia, Moldova, Vietnam).**

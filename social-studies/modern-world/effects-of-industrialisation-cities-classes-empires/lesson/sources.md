@@ -1,6 +1,6 @@
 # Sources — Effects of industrialisation — cities, classes, empires
 
-countries: Ethiopia, Brazil, Australia, Kuwait, Palestine, Mauritania, South Sudan, Samoa, Mozambique, Jordan, Uzbekistan, North Macedonia, Cuba, China, Venezuela, Moldova, Armenia, Italy
+countries: Ethiopia, Brazil, Australia, Kuwait, Palestine, Mauritania, South Sudan, Samoa, Mozambique, Jordan, Uzbekistan, North Macedonia, Cuba, China, Venezuela, Moldova, Armenia, Italy, Vietnam
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under GEQIP-E, ISBN 978-99990-0-066-6. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -458,3 +458,39 @@ Italy's own way (Book 3 — La storia. Progettare il futuro, Vol. 2 (student boo
 Italy's own way (Book 5 — La storia. Progettare il futuro, Vol. 3 (student book, Italian)): the Barbero course's third volume runs the whole short century and beyond — 1900 to the war in Ukraine — in six units on the same nuclei fondanti method (Documents, Storici a confronto, Laboratorio storia, CLIL closings), but the documents now include speeches, photographs, songs and film, and the book ends by arguing about the present itself: unipolarism, globalisation's discontents and whether a "post-Western" order is being born. That way is stocked here as the way Italy teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 18 countries (Ethiopia, Brazil, Australia, Kuwait, Palestine, Mauritania, South Sudan, Samoa, Mozambique, Jordan, Uzbekistan, North Macedonia, Cuba, China, Venezuela, Moldova, Armenia, Italy).**
+
+
+## History expansion (2026-11-15) — Vietnam stocked
+
+**Book 5 — G8 History and Geography (student book, Vietnamese)**
+- Title as printed: Lịch sử và Địa lí 8 (Kết nối tri thức với cuộc sống)
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2023 (copyright; 3rd reprint with corrections and additions); ISBN 978-604-0-35043-5
+- PDF pages: 179 (cover and title page verified against the record title; printed page = PDF page − 1)
+- Verdict: COMPLETE
+- Tally: 60 placements — 23 to existing lessons, 37 NEW LESSON NEEDED
+- Vietnam's own way: Grade 8 pairs the bourgeois revolutions and industrialisation of Europe and America with Vietnam's own centuries of partition, peasant revolt and invasion, and closes the History part with the first French colonial exploitation — the lesson Vietnamese pupils are always brought back to when the book cites Hồ Chí Minh quoting the American and French Declarations.
+- Geography parts named, not placed: the whole Phần Địa lí, printed pp. 93–154 — Vietnam's territory and relief (Ch. 1, Bài 1–3), climate and waters (Ch. 2, Bài 4–8), soils and living world (Ch. 3, Bài 9–10), seas and islands (Ch. 4, Bài 11–12). Two shared themes follow it: Chủ đề chung 1, Civilisation of the Red River and Mekong Deltas (printed pp. 155–161), whose Geography sections are named here and whose History section (how people reclaimed and tamed the two deltas) is placed below; and Chủ đề chung 2, Protecting Vietnam's Sovereignty, Rights and Lawful Interests in the East Sea (printed pp. 162–171), whose law-of-the-sea sections are Civics/Geography and named here, and whose History section (the historical process of establishing sea-and-island sovereignty) is placed below.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — Bài 3, the spread and the two faces of industrialisation — story beats: France industrialises from 1830, Germany from the 1840s on heavy industry, the United States early with the cotton gin (1793); the revolution lifts production, builds industrial cities and creates the bourgeoisie and the proletariat — but a quoted German account of a paper mill shows the other face: air thick with white dust, and small children set to splice broken threads beneath the machines so the looms never stop (History expansion, 2026-11-15; original placement slug: modern-world/effects-of-industrialisation-winners-and-losers) | Vietnam, *Lịch sử và Địa lí 8 (Kết nối tri thức với cuộc sống)*, printed p. 16 |
+
+Vietnam's own way (Book 5 — G8 History and Geography (student book, Vietnamese)): Grade 8 pairs the bourgeois revolutions and industrialisation of Europe and America with Vietnam's own centuries of partition, peasant revolt and invasion, and closes the History part with the first French colonial exploitation — the lesson Vietnamese pupils are always brought back to when the book cites Hồ Chí Minh quoting the American and French Declarations. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 8 — G10 History (student book, Vietnamese)**
+- Title as printed: Lịch sử 10 (Kết nối tri thức với cuộc sống)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam (Vietnam Education Publishing House); year 2023 (©2023; 3rd reprint with corrections and additions); ISBN 978-604-0-38325-9; book code G1HHXS003h26
+- PDF pages: 113 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 37 placements — 31 to existing lessons, 6 NEW LESSON NEEDED
+- Vietnam's own way: Grade 10 is organised by themes rather than chronology — the discipline itself first (what history is, its role, heritage), then civilisations in widening circles (the world, Southeast Asia, Vietnam's own land), then the four industrial revolutions, and finally the community of Vietnam's 54 ethnic groups, closing with the national great-unity bloc as the frame that holds the whole national story together.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — Bài 6.3, the meaning of the first and second industrial revolutions — story beats: economically, the machines change how production is organised, create many new materials and raise labour productivity, and transform agriculture, transport and communications as well; the steel table tells the power shift — from 1880 to 1900 England's steel output rises from 1.3 to 4.9 million tonnes (+377%), the USA's from 1.2 to 10.2 (+850%) and Germany's from 0.7 to 6.4 (+910%), and whereas in 1860 England and France stood first and second in world industrial production, by 1913 the USA and Germany hold those places; socially, the revolutions create many new industrial centres that are also populous cities — London, Manchester, Paris, Berlin — and form two opposing classes, the industrial bourgeoisie, who own the means of production, and the proletariat, who work for wages, their contradiction sharpening day by day into the proletariat's struggles against the bourgeoisie; culturally, the industrial lifestyle spreads, spiritual life is enriched by the appearance of the telephone, radio and cinema, and cultural exchange between countries and continents is strengthened — while the book's warning box names the negative face: environmental pollution, the exploitation of women's and children's labour, invasion and rivalry over colonies (History expansion, 2026-11-15; original placement slug: modern-world/effects-of-industrialisation-cities-classes-empires) | Vietnam, *Lịch sử 10 (Kết nối tri thức với cuộc sống)*, printed p. 43 |
+
+Vietnam's own way (Book 8 — G10 History (student book, Vietnamese)): Grade 10 is organised by themes rather than chronology — the discipline itself first (what history is, its role, heritage), then civilisations in widening circles (the world, Southeast Asia, Vietnam's own land), then the four industrial revolutions, and finally the community of Vietnam's 54 ethnic groups, closing with the national great-unity bloc as the frame that holds the whole national story together. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 19 countries (Ethiopia, Brazil, Australia, Kuwait, Palestine, Mauritania, South Sudan, Samoa, Mozambique, Jordan, Uzbekistan, North Macedonia, Cuba, China, Venezuela, Moldova, Armenia, Italy, Vietnam).**

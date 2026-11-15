@@ -1,0 +1,15 @@
+# Vietnam Taming The Two Deltas — true or false
+
+Say True or False, and why.
+
+**1. (Sub lesson 1)** on the Red River the ancient Viet live by the water — boats on the Đông Sơn drums, a bronze fishhook of the Gò Mun culture, shells of the Hạ Long culture — and learn early to dyke it: the "thổ nhỡ" lore of fields piled higher year by year from the Hùng kings' Phong Châu, the Cơ Xá dyke Lý Nhân Tông builds in 1108 to shield Thăng Long, a dyke office (Hà đê sứ) under the Trần, sea dykes from the 15th-century Lê, and Nguyễn Công Trứ's estuary reclamations under the Nguyễn — while Gia Long's quoted edict still debates whether dykes do more good or harm; on the Mekong there are no dykes — the delta that Óc Eo and the Phù Nam kingdom made brilliant from the 1st to the 7th century, then lost to salt water and silence for centuries, is won back from the 17th century by canals (the 90 km Vĩnh Tế canal, dug under three kings and engraved on the Nine Urns) and by a river culture of floating markets and floating houses that adapts to the flood instead of fighting it.
+**Answer: True** — the book tells this in Shared Theme 1 (in the Geography part), how people reclaimed and mastered the two deltas
+
+**2. (Sub lesson 1)** This part of *Lịch sử và Địa lí 8 (Kết nối tri thức với cuộc sống)* is about a different part of this story, told in another lesson of this expansion.
+**Answer: False** — it is about Shared Theme 1 (in the Geography part), how people reclaimed and mastered the two deltas
+
+**3. (Sub lesson 2)** the Red River delta, a cradle of wet-rice civilisation, keeps its heritage in stone and festival — Cổ Loa Citadel, the Hoa Lư capital, the Thăng Long Imperial Citadel and Văn Miếu–Quốc Tử Giám among its tangible relics; Bát Tràng pottery, Đại Bái bronze casting and Văn Lâm embroidery among its craft villages; the Lim, Chùa Hương and Gióng festivals and the Quan họ and Ca trù arts among its living traditions; the Mekong delta answers with a river-water culture built by adapting to the flood — floating houses, boat travel and the floating markets of Cái Răng, Phụng Hiệp and Ngã Năm, boat-building at Cần Thơ and palm sugar in An Giang, the Bà Chúa Xứ and Nghinh Ông festivals, and Đờn ca tài tử, recognised by UNESCO as Intangible Cultural Heritage of Humanity (the theme's climate-change section is Geography and is not placed).
+**Answer: True** — the book tells this in Shared Theme 2, Red River and Mekong Delta Civilisation (2) — the two deltas' cultures
+
+**4. (Sub lesson 2)** This part of *Lịch sử và Địa lí 9 (Kết nối tri thức với cuộc sống)* is about a different part of this story, told in another lesson of this expansion.
+**Answer: False** — it is about Shared Theme 2, Red River and Mekong Delta Civilisation (2) — the two deltas' cultures

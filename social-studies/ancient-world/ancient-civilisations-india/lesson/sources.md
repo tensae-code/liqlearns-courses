@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — India
 
-countries: Ethiopia, Bangladesh, Australia, Malaysia, Ecuador, India, Indonesia, Dominican Republic, Egypt, Pakistan, Iran, Cambodia, Sri Lanka, Mongolia, Yemen, Jordan, Uzbekistan, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua
+countries: Ethiopia, Bangladesh, Australia, Malaysia, Ecuador, India, Indonesia, Dominican Republic, Egypt, Pakistan, Iran, Cambodia, Sri Lanka, Mongolia, Yemen, Jordan, Uzbekistan, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Vietnam
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -656,3 +656,39 @@ Searchable tags: Armenia, History expansion 2026-11-15, ancient-world/ancient-ci
 Nicaragua's own way (Book 11 — G9 Estudios Sociales, full-year textbook (student book, Spanish)): Grade 9 splits the book in two — five Geography units on the continents (printed pp. 1-136), then a headed "Historia" half (Units VI-XI) that is pure world history: human evolution and first societies, the four river civilisations studied one by one under identical headings (geography, politics, society, economy, culture), Greece and Rome, the medieval world, the modern age, and contemporary society ending with ALBA and the GRUN's social achievements in Nicaragua. That way is stocked here as the way Nicaragua teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 25 countries (Ethiopia, Bangladesh, Australia, Malaysia, Ecuador, India, Indonesia, Dominican Republic, Egypt, Pakistan, Iran, Cambodia, Sri Lanka, Mongolia, Yemen, Jordan, Uzbekistan, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua).**
+
+
+## History expansion (2026-11-15) — Vietnam stocked
+
+**Book 3 — G6 History and Geography (student book, Vietnamese)**
+- Title as printed: Lịch sử và Địa lí 6 (Kết nối tri thức với cuộc sống)
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2021 (copyright; 5th reprint with corrections and additions); ISBN 978-604-0-25153-4
+- PDF pages: 200 (title page verified against the record title; the PDF opens at the title page, printed page = PDF page)
+- Verdict: COMPLETE
+- Tally: 49 placements — 21 to existing lessons, 28 NEW LESSON NEEDED
+- Vietnam's own way: the lower-secondary course rebuilds the story from first principles — what history is, how evidence works, how time is counted — then prehistory, the ancient civilisations, Southeast Asia, and Vietnam to the 10th century, quoting the chronicles (Đại Việt sử ký toàn thư) and even a Yuan-era account (An Nam chí lược) as pupil-facing sources.
+- Geography parts named, not placed: the whole Phần Địa lí, printed pp. 95–199 — introduction to Geography; maps and ways of showing the Earth's surface (Bài 1–5); the Earth in the solar system and its motions (Bài 6–9); the Earth's structure and landforms (Bài 10–14); atmosphere, climate and climate change (Bài 15–18); water on Earth (Bài 19–21); soil and life on Earth (Bài 22–26); people and nature (Bài 27–30).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — Bài 8, ancient India: rivers, cities and the varna order — story beats: Dravidian cities rise on the Indus about 2500 BC; Aryan newcomers then rank society into Brahmins, Kshatriyas, Vaishyas and Shudras, with the Pariah "untouchables" beneath them all — a word Nguyễn Ái Quốc later takes for his 1922 newspaper Le Paria (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-india) | Vietnam, *Lịch sử và Địa lí 6 (Kết nối tri thức với cuộc sống)*, printed p. 35 |
+
+Vietnam's own way (Book 3 — G6 History and Geography (student book, Vietnamese)): the lower-secondary course rebuilds the story from first principles — what history is, how evidence works, how time is counted — then prehistory, the ancient civilisations, Southeast Asia, and Vietnam to the 10th century, quoting the chronicles (Đại Việt sử ký toàn thư) and even a Yuan-era account (An Nam chí lược) as pupil-facing sources. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 8 — G10 History (student book, Vietnamese)**
+- Title as printed: Lịch sử 10 (Kết nối tri thức với cuộc sống)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam (Vietnam Education Publishing House); year 2023 (©2023; 3rd reprint with corrections and additions); ISBN 978-604-0-38325-9; book code G1HHXS003h26
+- PDF pages: 113 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 37 placements — 31 to existing lessons, 6 NEW LESSON NEEDED
+- Vietnam's own way: Grade 10 is organised by themes rather than chronology — the discipline itself first (what history is, its role, heritage), then civilisations in widening circles (the world, Southeast Asia, Vietnam's own land), then the four industrial revolutions, and finally the community of Vietnam's 54 ethnic groups, closing with the national great-unity bloc as the frame that holds the whole national story together.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — Bài 4.2b, the achievements of ancient-to-medieval Indian civilisation — story beats: India is the homeland of great thought and religions — beside philosophies like Vaiśeṣika and Vedānta, its two widest-reaching religions are Hinduism, formed on the basis of Brahmanism from about the 1st millennium BCE, and Buddhism, formed in the mid-1st millennium BCE, flourishing until the 7th century then declining and losing influence in India itself while spreading to many countries and regions to become one of the world's great religions; India's oldest writing is found in the Indus civilisation — the box notes that since 1921 excavations in the Indus valley have found over 3,000 seals carved with signs and animal images, used to stamp goods to certify their origin — and later Kharoshthi and Brahmi scripts appear, adapted to record Sanskrit, and Indian scripts spread to Southeast Asia and are reworked into several nations' writing; its literature gives the Vedas and the epics Mahābhārata and Rāmāyaṇa and the works of Kālidāsa such as the play Śakuntalā, its religious architecture the stone pillars, temples and Buddhist stupas, the Ajanta cave temples and the Taj Mahal; in science India invents the ten digits still used today and computes π as 3.1416, understands the universe, the Sun and the planets and makes calendars, proposes atomic theory and asserts the Earth's gravity, develops metallurgy and rust-proofing, and records pathology, anatomy and toxicology, using surgery to set skull bones and remove kidney stones — Will Durant's tribute is quoted: India gave grammar and logic, philosophy and fables, hypnotism and chess, above all the numerals and decimal system, and taught tolerance and gentleness of a mature mind (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-india) | Vietnam, *Lịch sử 10 (Kết nối tri thức với cuộc sống)*, printed p. 24 |
+
+Vietnam's own way (Book 8 — G10 History (student book, Vietnamese)): Grade 10 is organised by themes rather than chronology — the discipline itself first (what history is, its role, heritage), then civilisations in widening circles (the world, Southeast Asia, Vietnam's own land), then the four industrial revolutions, and finally the community of Vietnam's 54 ethnic groups, closing with the national great-unity bloc as the frame that holds the whole national story together. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 26 countries (Ethiopia, Bangladesh, Australia, Malaysia, Ecuador, India, Indonesia, Dominican Republic, Egypt, Pakistan, Iran, Cambodia, Sri Lanka, Mongolia, Yemen, Jordan, Uzbekistan, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Vietnam).**

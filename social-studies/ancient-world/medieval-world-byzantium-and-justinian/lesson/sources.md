@@ -1,6 +1,6 @@
 # Sources — Medieval world — Byzantium and Justinian
 
-countries: Ethiopia, France, Poland, Ecuador, Montenegro, Bulgaria, Colombia, Mongolia, Jordan, North Macedonia, China, Moldova, Armenia, Nicaragua
+countries: Ethiopia, France, Poland, Ecuador, Montenegro, Bulgaria, Colombia, Mongolia, Jordan, North Macedonia, China, Moldova, Armenia, Nicaragua, Vietnam
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -327,3 +327,24 @@ Searchable tags: Armenia, History expansion 2026-11-15, ancient-world/medieval-w
 Nicaragua's own way (Book 11 — G9 Estudios Sociales, full-year textbook (student book, Spanish)): Grade 9 splits the book in two — five Geography units on the continents (printed pp. 1-136), then a headed "Historia" half (Units VI-XI) that is pure world history: human evolution and first societies, the four river civilisations studied one by one under identical headings (geography, politics, society, economy, culture), Greece and Rome, the medieval world, the modern age, and contemporary society ending with ALBA and the GRUN's social achievements in Nicaragua. That way is stocked here as the way Nicaragua teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 14 countries (Ethiopia, France, Poland, Ecuador, Montenegro, Bulgaria, Colombia, Mongolia, Jordan, North Macedonia, China, Moldova, Armenia, Nicaragua).**
+
+
+## History expansion (2026-11-15) — Vietnam stocked
+
+**Book 9 — G10 Art theory & history (student book, Vietnamese)**
+- Title as printed: Mĩ thuật 10 — Lí luận và lịch sử mĩ thuật (Kết nối tri thức với cuộc sống)
+- Grade: Grade 10 (student/teacher: STUDENT)
+- Publisher: NXBGD Vietnam Education Publishing House; year 2022; ISBN 978-604-0-31098-9 (book code G1HHXM005H22; price 6.000đ)
+- PDF pages: 39 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- SCOPE NOTE: this is a Fine Arts elective (Theory and History of Fine Arts), not the History subject. Only its genuine History teaching parts are placed below — the historical method (art history as a discipline, archaeology as evidence), the civilisation anchors of its world-art survey, and Vietnamese art read as a record of the dynasties. Pure art-technique/style content (approaches to appreciation, modern and post-modern movements as styles) is named here but not placed.
+- Tally: 12 placements — 12 to existing lessons, 0 NEW LESSON NEEDED
+- Vietnam's own way: Vietnam teaches art history inside the Fine Arts subject as a three-lesson arc — what the discipline is and how it works with archaeology, a period survey of world art from cave painting to post-modern installation, then Vietnam's own art dynasty by dynasty — always ending in the pupil building a cited materials list of their own.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — Bài 2 Medieval West, the Byzantine church style succeeding Rome: almost no human figures, decoration of flowers, leaves and precious metal in geometric patterns — story beats: the empire that kept Rome's faith fills its churches with gold pattern instead of people (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-byzantium-and-justinian) | Vietnam, *Mĩ thuật 10 — Lí luận và lịch sử mĩ thuật (Kết nối tri thức với cuộc sống)*, printed p. 19 |
+
+Vietnam's own way (Book 9 — G10 Art theory & history (student book, Vietnamese)): Vietnam teaches art history inside the Fine Arts subject as a three-lesson arc — what the discipline is and how it works with archaeology, a period survey of world art from cave painting to post-modern installation, then Vietnam's own art dynasty by dynasty — always ending in the pupil building a cited materials list of their own. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 15 countries (Ethiopia, France, Poland, Ecuador, Montenegro, Bulgaria, Colombia, Mongolia, Jordan, North Macedonia, China, Moldova, Armenia, Nicaragua, Vietnam).**

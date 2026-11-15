@@ -1,0 +1,12 @@
+# Southeast Asia Early States And Trade — sub lessons and depth
+
+This file is the lesson's depth record, re-expressed as its sub lessons. Practice is tied to the learner's skill number. The questions live in the type files; this file is the by-sub-lesson view. Parts are ordered as the book teaches them, as stocked.
+
+## Sub lesson 1 — Bài 11, the early states of Southeast Asia
+Sub lesson 1 questions from the type files. Pass mark: retell this part in your own words — at the crossroads between China and India, the "cradle of wet-rice civilisation" turns bronze, iron, weaving and pottery into its first states from the last centuries BC — Văn Lang – Âu Lạc, Chăm-pa, Phù Nam and their neighbours
+
+## Sub lesson 2 — Bài 11, trade written in objects: Óc Eo and the early ports
+Sub lesson 2 questions from the type files. Pass mark: retell this part in your own words — a Roman gold coin and an Indian Sanskrit-inscribed gold ring dug up at Óc Eo, Han coins in Borneo graves and a Roman-style bronze lamp at Pong Tuk prove these ports traded across the ancient world
+
+## Sub lesson 3 — Bài 8.1, the development journey of ancient-to-medieval Southeast Asian civilisation
+Sub lesson 3 questions from the type files. Pass mark: retell this part in your own words — the lesson opens with Borobudur in Indonesia — in 1814 a group of Europeans discovers the temple complex buried under earth and vegetation, and everyone is astonished at its grandeur; over many decades UNESCO and scientists worldwide join its restoration, completed only in early 1983; Southeast Asia, a region of peninsulas and archipelagos stretching from the Pacific to the Indian Ocean, sits on the sea route joining the two oceans — a "crossroads", a bridge between the world's great civilisations — and its civilisation develops in three periods: from the centuries before the Common Era to the 7th century, the first states appear — Văn Lang–Âu Lạc, Phù Nam, the states of the lower Chao Phraya — and on the indigenous foundation the influence of Indian and Chinese civilisation shows clearly; from the 7th century to the late 15th, the feudal states form and flourish economically and politically and the region's culture develops brilliantly, selectively absorbing the essences of Indian and Chinese civilisation; from the 16th to the 19th century, Western capitalism invades and the feudal dynasties weaken, and under Western influence the civilisation undergoes important transformations, still achieving much in politics, culture, science and technique

@@ -1,6 +1,6 @@
 # Sources — Latin Americas Independence Wars
 
-countries: Uzbekistan, North Macedonia, Italy
+countries: Uzbekistan, North Macedonia, Italy, Vietnam
 
 **Book 4 — Vsemirnaya istoriya / World History, Grade 8 (student book, Russian)**
 - Title as printed: Всемирная история 8 — Первый период новой истории (XVI – 60-е годы XIX веков) — World History 8: The first period of modern history (16th century – 1860s); authors U. Juraev, R. Farmonov, Sh. Ergashev
@@ -81,3 +81,24 @@ Italy's own way (Book 3 — La storia. Progettare il futuro, Vol. 2 (student boo
 Italy's own way (Book 4 — Lo spazio del tempo, Vol. 2 (student book, Italian)): Laterza's second volume runs a long '700 (from 1660) and a long '800 (to 1914) in six moduli; its signature is the Fare storia dossier apparatus — 178 numbered documents and historiography pieces, from Galileo's trial and Gustavus Vassa's slave narrative to Gramsci on the Risorgimento — so narrative chapters alternate with the sources that argue about them. That way is stocked here as the way Italy teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 3 countries (Uzbekistan, North Macedonia, Italy).**
+
+
+## History expansion (2026-11-15) — Vietnam stocked
+
+**Book 11 — G11 History (student book, Vietnamese)**
+- Title as printed: Lịch sử 11 (Kết nối tri thức với cuộc sống)
+- Grade: Grade 11 (student/teacher: STUDENT)
+- Publisher: NXBGD Vietnam Education Publishing House; year 2023, 3rd reprint; ISBN 978-604-0-35077-0 (book code G1HHYS001h26; price 12.100đ)
+- PDF pages: 99 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Geography content named, not placed: Bài 12 — position, sea lanes, resources and island geography of the East Sea (printed pp. 73–79); its history is placed under Bài 13.
+- Tally: 35 placements — 18 to existing lessons, 17 NEW LESSON NEEDED
+- Vietnam's own way: Grade 11 runs three arcs in parallel — the world's two rival systems (capitalism from its revolutions, socialism from 1917), Southeast Asia's road out of colonial rule, and Vietnam read through its wars of defence, its three great reformers, and its sea sovereignty — so the pupil's own country is always the measuring rod.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — Bài 2 Latin America breaks free: in the first half of the 1800s Spain's and Portugal's American colonies rise in a wave of independence wars and found bourgeois states of their own — story beats: the first colonies to fall are in the Americas, and their map of new flags previews Asia's and Africa's future (History expansion, 2026-11-15; original placement slug: modern-world/latin-america-wins-independence) | Vietnam, *Lịch sử 11 (Kết nối tri thức với cuộc sống)*, printed p. 14 |
+
+Vietnam's own way (Book 11 — G11 History (student book, Vietnamese)): Grade 11 runs three arcs in parallel — the world's two rival systems (capitalism from its revolutions, socialism from 1917), Southeast Asia's road out of colonial rule, and Vietnam read through its wars of defence, its three great reformers, and its sea sovereignty — so the pupil's own country is always the measuring rod. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 4 countries (Uzbekistan, North Macedonia, Italy, Vietnam).**

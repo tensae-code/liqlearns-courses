@@ -1,6 +1,6 @@
 # Sources — The First World War — Versailles and the results
 
-countries: Ethiopia, Indonesia, Montenegro, United Kingdom, Pakistan, Cambodia, Mauritania, South Sudan, Libya, Samoa, Iraq, Mozambique, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, China, Moldova, Armenia, Nicaragua, Honduras, Italy
+countries: Ethiopia, Indonesia, Montenegro, United Kingdom, Pakistan, Cambodia, Mauritania, South Sudan, Libya, Samoa, Iraq, Mozambique, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, China, Moldova, Armenia, Nicaragua, Honduras, Italy, Vietnam
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 135).
 
@@ -675,3 +675,39 @@ Italy's own way (Book 5 — La storia. Progettare il futuro, Vol. 3 (student boo
 Italy's own way (Book 6 — Lo spazio del tempo, Vol. 3 (student book, Italian)): Laterza's third volume tells the "short twentieth century" and its aftermath in 19 modules, each closed by the Fare storia dossier method at its largest scale — 207 numbered documents and historiography pieces in four dossier modules, from Clark on 1914 and Lenin's April Theses to Piketty on inequality and Huntington's clash of civilisations — so the century is argued from its sources, not merely narrated. That way is stocked here as the way Italy teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 23 countries (Ethiopia, Indonesia, Montenegro, United Kingdom, Pakistan, Cambodia, Mauritania, South Sudan, Libya, Samoa, Iraq, Mozambique, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, China, Moldova, Armenia, Nicaragua, Honduras, Italy).**
+
+
+## History expansion (2026-11-15) — Vietnam stocked
+
+**Book 5 — G8 History and Geography (student book, Vietnamese)**
+- Title as printed: Lịch sử và Địa lí 8 (Kết nối tri thức với cuộc sống)
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2023 (copyright; 3rd reprint with corrections and additions); ISBN 978-604-0-35043-5
+- PDF pages: 179 (cover and title page verified against the record title; printed page = PDF page − 1)
+- Verdict: COMPLETE
+- Tally: 60 placements — 23 to existing lessons, 37 NEW LESSON NEEDED
+- Vietnam's own way: Grade 8 pairs the bourgeois revolutions and industrialisation of Europe and America with Vietnam's own centuries of partition, peasant revolt and invasion, and closes the History part with the first French colonial exploitation — the lesson Vietnamese pupils are always brought back to when the book cites Hồ Chí Minh quoting the American and French Declarations.
+- Geography parts named, not placed: the whole Phần Địa lí, printed pp. 93–154 — Vietnam's territory and relief (Ch. 1, Bài 1–3), climate and waters (Ch. 2, Bài 4–8), soils and living world (Ch. 3, Bài 9–10), seas and islands (Ch. 4, Bài 11–12). Two shared themes follow it: Chủ đề chung 1, Civilisation of the Red River and Mekong Deltas (printed pp. 155–161), whose Geography sections are named here and whose History section (how people reclaimed and tamed the two deltas) is placed below; and Chủ đề chung 2, Protecting Vietnam's Sovereignty, Rights and Lawful Interests in the East Sea (printed pp. 162–171), whose law-of-the-sea sections are Civics/Geography and named here, and whose History section (the historical process of establishing sea-and-island sovereignty) is placed below.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — Bài 12, the war's course and its cost — story beats: an imperialist, unjust war on both sides ends in the Entente's victory and Germany's surrender in November 1918, at a cost the book tabulates: 38 countries, 10 million dead, 20 million wounded, 85 billion dollars of economic loss; Europe's states all become debtors of an America enriched by the arms trade, whose national income doubles and foreign investment quadruples, while Japan seizes German islands and rises in East Asia (History expansion, 2026-11-15; original placement slug: modern-world/the-first-world-war-versailles-and-the-results) | Vietnam, *Lịch sử và Địa lí 8 (Kết nối tri thức với cuộc sống)*, printed p. 55 |
+
+Vietnam's own way (Book 5 — G8 History and Geography (student book, Vietnamese)): Grade 8 pairs the bourgeois revolutions and industrialisation of Europe and America with Vietnam's own centuries of partition, peasant revolt and invasion, and closes the History part with the first French colonial exploitation — the lesson Vietnamese pupils are always brought back to when the book cites Hồ Chí Minh quoting the American and French Declarations. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 10 — G11 study topics (student book, Vietnamese)**
+- Title as printed: Chuyên đề học tập Lịch sử 11 (Kết nối tri thức với cuộc sống)
+- Grade: Grade 11 (student/teacher: STUDENT)
+- Publisher: NXBGD Vietnam Education Publishing House; year 2023, 3rd reprint; ISBN 978-604-0-35078-7 (book code G1HHYS002h26; price 8.000đ)
+- PDF pages: 59 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 28 placements — 23 to existing lessons, 5 NEW LESSON NEEDED
+- Vietnam's own way: the Grade 11 elective goes deep on three things — traditional art read dynasty by dynasty as national evidence, the twentieth century taught as one long argument between war and peace (with Vietnam's own wars counted inside the world's), and history carried by named people: kings, generals, poets, a physician and an encyclopaedist.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — Chuyên đề 2.I.1 What the First World War left: the cost table — 38 countries, 74 million mobilised, 10 million dead, 20 million disabled, 85 billion dollars — four empires collapse, the October Revolution wins, and the Versailles–Washington order is drawn — story beats: Europe counts its dead in millions and redraws its map, but the new order plants the next war (History expansion, 2026-11-15; original placement slug: modern-world/the-first-world-war-versailles-and-the-results) | Vietnam, *Chuyên đề học tập Lịch sử 11 (Kết nối tri thức với cuộc sống)*, printed p. 22 |
+
+Vietnam's own way (Book 10 — G11 study topics (student book, Vietnamese)): the Grade 11 elective goes deep on three things — traditional art read dynasty by dynasty as national evidence, the twentieth century taught as one long argument between war and peace (with Vietnam's own wars counted inside the world's), and history carried by named people: kings, generals, poets, a physician and an encyclopaedist. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 24 countries (Ethiopia, Indonesia, Montenegro, United Kingdom, Pakistan, Cambodia, Mauritania, South Sudan, Libya, Samoa, Iraq, Mozambique, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, China, Moldova, Armenia, Nicaragua, Honduras, Italy, Vietnam).**

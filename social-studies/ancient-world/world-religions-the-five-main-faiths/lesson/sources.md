@@ -1,6 +1,6 @@
 # Sources — World religions — the five main faiths
 
-countries: Ethiopia, Bhutan, Cyprus, India, Colombia, Mauritania, Sri Lanka, Samoa, Iraq, Yemen, North Macedonia, Venezuela, Nicaragua, Italy
+countries: Ethiopia, Bhutan, Cyprus, India, Colombia, Mauritania, Sri Lanka, Samoa, Iraq, Yemen, North Macedonia, Venezuela, Nicaragua, Italy, Vietnam
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 6, placements 92–106).
 
@@ -343,3 +343,23 @@ Nicaragua's own way (Book 11 — G9 Estudios Sociales, full-year textbook (stude
 Italy's own way (Book 2 — Lo spazio del tempo, Vol. 1 (student book, Italian)): Laterza's rival liceo course organises the same centuries in moduli built around documents — every chapter carries numbered DOC dossiers, Eventi and Personaggi boxes, a Guida allo studio and competence exercises, so the student works as a historian from sources first and narrative second. That way is stocked here as the way Italy teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 14 countries (Ethiopia, Bhutan, Cyprus, India, Colombia, Mauritania, Sri Lanka, Samoa, Iraq, Yemen, North Macedonia, Venezuela, Nicaragua, Italy).**
+
+
+## History expansion (2026-11-15) — Vietnam stocked
+
+**Book 13 — G12 History study topics (student book, Vietnamese)**
+- Title as printed: Chuyên đề học tập Lịch sử 12 (Kết nối tri thức với cuộc sống)
+- Grade: Grade 12 (student/teacher: STUDENT)
+- Publisher: NXBGD Vietnam Education Publishing House; year 2024, 2nd reprint; ISBN 978-604-0-39272-5 (book code G1HHZS004h26; price 8.000đ)
+- PDF pages: 59 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 17 placements — 12 to existing lessons, 5 NEW LESSON NEEDED
+- Vietnam's own way: the final-year electives turn from events to systems — the pupil maps the nation's whole belief ecology from family altar to world religions, studies Japan as the region's development mirror, and ends with Vietnam's own walk into ASEAN, the UN, APEC and the WTO as a dated, negotiated process.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — Chuyên đề 1 Buddhism walking with the nation: the faith that leads early independent Vietnam's culture flowers under the Lý–Trần, grows a native school in Trần Nhân Tông's Trúc Lâm, shelters revolutionary cadres in its pagodas during the anti-French resistance, and in 1963 its monks' and nuns' struggle — Thích Quảng Đức named first — helps bring down the Diệm regime — story beats: the religion of compassion keeps reappearing at the barricades of national history (History expansion, 2026-11-15; original placement slug: ancient-world/world-religions-the-five-main-faiths) | Vietnam, *Chuyên đề học tập Lịch sử 12 (Kết nối tri thức với cuộc sống)*, printed p. 15 |
+
+Vietnam's own way (Book 13 — G12 History study topics (student book, Vietnamese)): the final-year electives turn from events to systems — the pupil maps the nation's whole belief ecology from family altar to world religions, studies Japan as the region's development mirror, and ends with Vietnam's own walk into ASEAN, the UN, APEC and the WTO as a dated, negotiated process. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 15 countries (Ethiopia, Bhutan, Cyprus, India, Colombia, Mauritania, Sri Lanka, Samoa, Iraq, Yemen, North Macedonia, Venezuela, Nicaragua, Italy, Vietnam).**

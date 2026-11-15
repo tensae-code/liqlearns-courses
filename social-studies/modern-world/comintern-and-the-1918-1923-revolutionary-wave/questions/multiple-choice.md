@@ -1,0 +1,11 @@
+# Comintern And The 1918 1923 Revolutionary Wave — multiple choice
+
+Pick the one right answer.
+
+**1. (Sub lesson 1)** This part of the story is mainly about —
+a) Bài 2, the revolutionary wave and the Communist International  b) a different part of this story, told in another lesson of this expansion  c) a different part of this story, told in another lesson of this expansion
+**Answer: a) Bài 2, the revolutionary wave and the Communist International** — this part tells Bài 2, the revolutionary wave and the Communist International
+
+**2. (Sub lesson 1)** Which of these belongs in this part of the story?
+a) on 9 November 1918 a Berlin general strike becomes an armed rising and the German monarchy falls; England counts 6.5 million strikers (1919–21), France a general strike of over a million (1 May 1920), Italy 1,600 strikes in 1919 and Red Guards in 1920; communist parties spring up (Hungary 1918, France and England 1920, Italy 1921) and in March 1919 the Comintern is founded in Moscow — its 1920 Theses on the national and colonial questions are the very text in which Nguyễn Ái Quốc finds his road; the Comintern is dissolved in 1943  b) a different part of this story, told in another lesson of this expansion
+**Answer: a)** — on 9 November 1918 a Berlin general strike becomes an armed rising and the German monarchy falls; England counts 6.5 million strikers (1919–21), France a general strike of over a million (1 May 1920), Italy 1,600 strikes in 1919 and Red Guards in 1920; communist parties spring up (Hungary 1918, France and England 1920, Italy 1921) and in March 1919 the Comintern is founded in Moscow — its 1920 Theses on the national and colonial questions are the very text in which Nguyễn Ái Quốc finds his road; the Comintern is dissolved in 1943

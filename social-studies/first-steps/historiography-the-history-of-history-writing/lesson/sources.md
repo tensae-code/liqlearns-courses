@@ -1,6 +1,6 @@
 # Sources — Historiography — history of history-writing
 
-countries: Ethiopia, Gambia, Bangladesh, Ecuador, Indonesia, Dominican Republic, United Kingdom, Bolivia, Iran, Palestine, Colombia, Samoa, Mozambique, Yemen, Uzbekistan, Venezuela, Moldova, Honduras, Italy
+countries: Ethiopia, Gambia, Bangladesh, Ecuador, Indonesia, Dominican Republic, United Kingdom, Bolivia, Iran, Palestine, Colombia, Samoa, Mozambique, Yemen, Uzbekistan, Venezuela, Moldova, Honduras, Italy, Vietnam
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -610,3 +610,71 @@ Honduras's own way (Book 16 — Ciencias Sociales, Octavo Grado (TEACHER)): the 
 Italy's own way (Book 1 — La storia. Progettare il futuro, Vol. 1 (student book, Italian)): a liceo survey built on "nuclei fondanti" (core nuclei) per unit, with primary documents, paired historians (Storici a confronto), laboratory and CLIL English sections in every unit, and Italy's own communal and Renaissance story given centre stage. That way is stocked here as the way Italy teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 19 countries (Ethiopia, Gambia, Bangladesh, Ecuador, Indonesia, Dominican Republic, United Kingdom, Bolivia, Iran, Palestine, Colombia, Samoa, Mozambique, Yemen, Uzbekistan, Venezuela, Moldova, Honduras, Italy).**
+
+
+## History expansion (2026-11-15) — Vietnam stocked
+
+**Book 3 — G6 History and Geography (student book, Vietnamese)**
+- Title as printed: Lịch sử và Địa lí 6 (Kết nối tri thức với cuộc sống)
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2021 (copyright; 5th reprint with corrections and additions); ISBN 978-604-0-25153-4
+- PDF pages: 200 (title page verified against the record title; the PDF opens at the title page, printed page = PDF page)
+- Verdict: COMPLETE
+- Tally: 49 placements — 21 to existing lessons, 28 NEW LESSON NEEDED
+- Vietnam's own way: the lower-secondary course rebuilds the story from first principles — what history is, how evidence works, how time is counted — then prehistory, the ancient civilisations, Southeast Asia, and Vietnam to the 10th century, quoting the chronicles (Đại Việt sử ký toàn thư) and even a Yuan-era account (An Nam chí lược) as pupil-facing sources.
+- Geography parts named, not placed: the whole Phần Địa lí, printed pp. 95–199 — introduction to Geography; maps and ways of showing the Earth's surface (Bài 1–5); the Earth in the solar system and its motions (Bài 6–9); the Earth's structure and landforms (Bài 10–14); atmosphere, climate and climate change (Bài 15–18); water on Earth (Bài 19–21); soil and life on Earth (Bài 22–26); people and nature (Bài 27–30).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — Bài 2, primary and secondary sources, and why accounts differ — story beats: the same past yields different histories because each historian lights only the part their sources and viewpoint reach (History expansion, 2026-11-15; original placement slug: first-steps/historiography-the-history-of-history-writing) | Vietnam, *Lịch sử và Địa lí 6 (Kết nối tri thức với cuộc sống)*, printed p. 13 |
+
+Vietnam's own way (Book 3 — G6 History and Geography (student book, Vietnamese)): the lower-secondary course rebuilds the story from first principles — what history is, how evidence works, how time is counted — then prehistory, the ancient civilisations, Southeast Asia, and Vietnam to the 10th century, quoting the chronicles (Đại Việt sử ký toàn thư) and even a Yuan-era account (An Nam chí lược) as pupil-facing sources. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 7 — G10 History Study Topics (student book, Vietnamese)**
+- Title as printed: Chuyên đề học tập Lịch sử 10 (Kết nối tri thức với cuộc sống)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam (Vietnam Education Publishing House); year 2022 (©2022; 4th reprint with corrections and additions); ISBN 978-604-0-31108-5; book code G1HHXS002h26; price 8.200đ
+- PDF pages: 68 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 17 placements — 8 to existing lessons, 9 NEW LESSON NEEDED
+- Vietnam's own way: the upper-secondary elective book teaches History as a discipline and a civic practice — one topic on how history is written and divided into fields (each field then surveyed through Vietnam's own past), one on heritage as something pupils must classify, rank and defend, and one on the state and law, where medieval law codes and five modern constitutions are read as primary sources.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — Chuyên đề 1, I.1, how history was traditionally presented — story beats: before print, the past is kept on bamboo slips, bark, paper, clay, stone, animal skin, wood and metal — the book shows Egyptian hieroglyphs on papyrus and Sumerian writing on clay; the classical forms are annals (events in time order), veritable records (the king's deeds and words), topical outlines — the Nguyễn court's Khâm định Việt sử thông giám cương mục is pictured — and story-biographies of persons and events; beyond books, history is also carried by storytelling, festivals, song and dance, images, film and theatre (a documentary frame from "Hanoi in the 12 days and nights" and a chèo play are shown), and in the modern age by scientific works built from collected evidence (History expansion, 2026-11-15; original placement slug: first-steps/historiography-the-history-of-history-writing) | Vietnam, *Chuyên đề học tập Lịch sử 10 (Kết nối tri thức với cuộc sống)*, printed p. 7 |
+| Vietnam part — Chuyên đề 1, I.2, general history (thông sử) and Vietnam's own — story beats: a general history presents all fields of a place's, nation's or the world's past from origins to today, weighting the most influential persons, events and processes; Vietnam's first national general history is the Đại Việt sử ký, compiled under the Trần by Lê Văn Hưu and finished in 1272, and Ngô Sĩ Liên's Đại Việt sử ký toàn thư is basically complete by late 1479 and printed in 1697; the Nguyễn court adds the Đại Nam thực lục and the topical-outline history; foreign scholars take the form abroad — Lê Thành Khôi's Le Vietnam: histoire et civilisation (France, 1955), Joseph Buttinger's Vietnam: A Dragon Embattled (USA, 1967), Stanley Karnow's Vietnam: A History (USA, 1983) — and modern Vietnam answers with multi-volume general histories of its own (History expansion, 2026-11-15; original placement slug: first-steps/historiography-the-history-of-history-writing) | Vietnam, *Chuyên đề học tập Lịch sử 10 (Kết nối tri thức với cuộc sống)*, printed p. 9 |
+
+Vietnam's own way (Book 7 — G10 History Study Topics (student book, Vietnamese)): the upper-secondary elective book teaches History as a discipline and a civic practice — one topic on how history is written and divided into fields (each field then surveyed through Vietnam's own past), one on heritage as something pupils must classify, rank and defend, and one on the state and law, where medieval law codes and five modern constitutions are read as primary sources. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 9 — G10 Art theory & history (student book, Vietnamese)**
+- Title as printed: Mĩ thuật 10 — Lí luận và lịch sử mĩ thuật (Kết nối tri thức với cuộc sống)
+- Grade: Grade 10 (student/teacher: STUDENT)
+- Publisher: NXBGD Vietnam Education Publishing House; year 2022; ISBN 978-604-0-31098-9 (book code G1HHXM005H22; price 6.000đ)
+- PDF pages: 39 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- SCOPE NOTE: this is a Fine Arts elective (Theory and History of Fine Arts), not the History subject. Only its genuine History teaching parts are placed below — the historical method (art history as a discipline, archaeology as evidence), the civilisation anchors of its world-art survey, and Vietnamese art read as a record of the dynasties. Pure art-technique/style content (approaches to appreciation, modern and post-modern movements as styles) is named here but not placed.
+- Tally: 12 placements — 12 to existing lessons, 0 NEW LESSON NEEDED
+- Vietnam's own way: Vietnam teaches art history inside the Fine Arts subject as a three-lesson arc — what the discipline is and how it works with archaeology, a period survey of world art from cave painting to post-modern installation, then Vietnam's own art dynasty by dynasty — always ending in the pupil building a cited materials list of their own.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — Bài 1 What art history is: a social science studying art events in time order, and Vietnam's own discipline milestones (Institute of Fine Arts and Crafts founded 1962 under painter Nguyễn Đỗ Cung; the Theory and History of Fine Arts department founded 1978) — story beats: a young science gives itself a birthday twice, in 1962 and 1978, and names its founders (History expansion, 2026-11-15; original placement slug: first-steps/historiography-the-history-of-history-writing) | Vietnam, *Mĩ thuật 10 — Lí luận và lịch sử mĩ thuật (Kết nối tri thức với cuộc sống)*, printed p. 5 |
+
+Vietnam's own way (Book 9 — G10 Art theory & history (student book, Vietnamese)): Vietnam teaches art history inside the Fine Arts subject as a three-lesson arc — what the discipline is and how it works with archaeology, a period survey of world art from cave painting to post-modern installation, then Vietnam's own art dynasty by dynasty — always ending in the pupil building a cited materials list of their own. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 10 — G11 study topics (student book, Vietnamese)**
+- Title as printed: Chuyên đề học tập Lịch sử 11 (Kết nối tri thức với cuộc sống)
+- Grade: Grade 11 (student/teacher: STUDENT)
+- Publisher: NXBGD Vietnam Education Publishing House; year 2023, 3rd reprint; ISBN 978-604-0-35078-7 (book code G1HHYS002h26; price 8.000đ)
+- PDF pages: 59 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 28 placements — 23 to existing lessons, 5 NEW LESSON NEEDED
+- Vietnam's own way: the Grade 11 elective goes deep on three things — traditional art read dynasty by dynasty as national evidence, the twentieth century taught as one long argument between war and peace (with Vietnam's own wars counted inside the world's), and history carried by named people: kings, generals, poets, a physician and an encyclopaedist.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — Chuyên đề 3.I What a "danh nhân" is and why history keeps them: outstanding people whose contributions the community honours with worship, festivals and statues; UNESCO's "great personalities" lists since 1954; the 1484 doctoral stele's line that worthy talent is the nation's vital energy — story beats: a stone carved in 1484 argues that a country's strength is the sum of its remembered great people (History expansion, 2026-11-15; original placement slug: first-steps/historiography-the-history-of-history-writing) | Vietnam, *Chuyên đề học tập Lịch sử 11 (Kết nối tri thức với cuộc sống)*, printed p. 41 |
+
+Vietnam's own way (Book 10 — G11 study topics (student book, Vietnamese)): the Grade 11 elective goes deep on three things — traditional art read dynasty by dynasty as national evidence, the twentieth century taught as one long argument between war and peace (with Vietnam's own wars counted inside the world's), and history carried by named people: kings, generals, poets, a physician and an encyclopaedist. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 20 countries (Ethiopia, Gambia, Bangladesh, Ecuador, Indonesia, Dominican Republic, United Kingdom, Bolivia, Iran, Palestine, Colombia, Samoa, Mozambique, Yemen, Uzbekistan, Venezuela, Moldova, Honduras, Italy, Vietnam).**

@@ -1,0 +1,21 @@
+# Vietnam Nam Ki Resistance 1862 1874
+
+## Do it first
+
+Before you read on, hold this lesson's one thing in mind: while Huế suppresses revolts elsewhere, France seizes the three western provinces in 1867 and the southern resistance only grows; Trương Định (1820–1864), acclaimed by the people as Bình Tây Đại Nguyên soái — Grand Marshal of the Western Pacification — fights from Gò Công and Tân Phước until, wounded in a surprise attack sprung by a traitor, he draws his sword and kills himself rather than fall into enemy hands, and his son Trương Quyền fights on from Tây Ninh; Nguyễn Trung Trực (1838–1868) raids the Kiên Giang fort from across the sea and, led to execution, declares: "Until the Westerners have pulled up all the grass of the South, there will still be Southerners to fight the Westerners"; the blind poet Nguyễn Đình Chiểu and Phan Văn Trị scourge the invaders and their collaborators in verse, and Nguyễn Hữu Huân, captured twice, composes defiant poetry on his way to the scaffold As you read, keep asking where each part of that sentence is proved.
+
+## Sub lesson 1 — Bài 17, the South refuses the treaty
+
+while Huế suppresses revolts elsewhere, France seizes the three western provinces in 1867 and the southern resistance only grows; Trương Định (1820–1864), acclaimed by the people as Bình Tây Đại Nguyên soái — Grand Marshal of the Western Pacification — fights from Gò Công and Tân Phước until, wounded in a surprise attack sprung by a traitor, he draws his sword and kills himself rather than fall into enemy hands, and his son Trương Quyền fights on from Tây Ninh; Nguyễn Trung Trực (1838–1868) raids the Kiên Giang fort from across the sea and, led to execution, declares: "Until the Westerners have pulled up all the grass of the South, there will still be Southerners to fight the Westerners"; the blind poet Nguyễn Đình Chiểu and Phan Văn Trị scourge the invaders and their collaborators in verse, and Nguyễn Hữu Huân, captured twice, composes defiant poetry on his way to the scaffold
+
+[Picture slot — a picture of the place and people of this part of the story — the student names two things that changed in the story]
+
+## Say it to your companion
+
+Tell your companion the story as its beats, in order: Bài 17, the South refuses the treaty — while Huế suppresses revolts elsewhere, France seizes the three western provinces in 1867 and the southern resistance only grows; Trương Định (1820–1864), acclaimed by the people as Bình Tây Đại Nguyên soái — Grand Marshal of the Western Pacification — fights from Gò Công and Tân Phước until, wounded in a surprise attack sprung by a traitor, he draws his sword and kills himself rather than fall into enemy hands, and his son Trương Quyền fights on from Tây Ninh; Nguyễn Trung Trực (1838–1868) raids the Kiên Giang fort from across the sea and, led to execution, declares: "Until the Westerners have pulled up all the grass of the South, there will still be Southerners to fight the Westerners"; the blind poet Nguyễn Đình Chiểu and Phan Văn Trị scourge the invaders and their collaborators in verse, and Nguyễn Hữu Huân, captured twice, composes defiant poetry on his way to the scaffold. Then let your companion ask you one hard question about it — answer from the lesson.
+
+## Do It Yourself
+
+1. while Huế suppresses revolts elsewhere, France seizes the three western provinces in 1867 and the southern resistance only grows; Trương Định (1820–1864), acclaimed by the people as Bình Tây Đại Nguyên soái — Grand Marshal of the Western Pacification — fights from Gò Công and Tân Phước until, wounded in a surprise attack sprung by a traitor, he draws his sword and kills himself rather than fall into enemy hands, and his son Trương Quyền fights on from Tây Ninh; Nguyễn Trung Trực (1838–1868) raids the Kiên Giang fort from across the sea and, led to execution, declares: "Until the Westerners have pulled up all the grass of the South, there will still be Southerners to fight the Westerners"; the blind poet Nguyễn Đình Chiểu and Phan Văn Trị scourge the invaders and their collaborators in verse, and Nguyễn Hữu Huân, captured twice, composes defiant poetry on his way to the scaffold
+2. Write, from memory, the lesson's key names and places in the order they happened.
+3. Say what Vietnam's own way of teaching this story is, from the books in lesson/sources.md.

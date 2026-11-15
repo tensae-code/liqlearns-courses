@@ -1,6 +1,6 @@
 # Sources — Japans American Rebirth
 
-countries: Italy
+countries: Italy, Vietnam
 
 **Book 6 — Lo spazio del tempo, Vol. 3 (student book, Italian)**
 - Title as printed: Lo spazio del tempo 3 — Storia Documenti Storiografia dal XX al XXI secolo (Andrea Giardina, Giovanni Sabbatucci, Vittorio Vidotto)
@@ -21,3 +21,23 @@ Italy's own way (Book 6 — Lo spazio del tempo, Vol. 3 (student book, Italian))
 **Acceptance count: taught in 1 country (Italy).**
 
 Searchable tags: Italy, Japans American Rebirth, modern-world/japans-american-rebirth, History expansion 2026-11-15
+
+
+## History expansion (2026-11-15) — Vietnam stocked
+
+**Book 13 — G12 History study topics (student book, Vietnamese)**
+- Title as printed: Chuyên đề học tập Lịch sử 12 (Kết nối tri thức với cuộc sống)
+- Grade: Grade 12 (student/teacher: STUDENT)
+- Publisher: NXBGD Vietnam Education Publishing House; year 2024, 2nd reprint; ISBN 978-604-0-39272-5 (book code G1HHZS004h26; price 8.000đ)
+- PDF pages: 59 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 17 placements — 12 to existing lessons, 5 NEW LESSON NEEDED
+- Vietnam's own way: the final-year electives turn from events to systems — the pupil maps the nation's whole belief ecology from family altar to world religions, studies Japan as the region's development mirror, and ends with Vietnam's own walk into ASEAN, the UN, APEC and the WTO as a dated, negotiated process.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — Chuyên đề 2 Occupied Japan remade (1945–1952): surrender signed 2-9-1945 leaves some 3 million dead and 13 million jobless; SCAP dissolves the armed forces, tries war criminals, breaks the zaibatsu, carries out land reform, and the 1946 constitution moves sovereignty from Emperor to Diet and renounces force as a means of settling disputes; the 1947 education laws decree equality in schooling; the 1951 peace and security treaties make Japan America's Asian ally — story beats: the victor occupies the islands for the first time in their history and rewrites their state in six years (History expansion, 2026-11-15; original placement slug: modern-world/japan-postwar-recovery-and-miracle) | Vietnam, *Chuyên đề học tập Lịch sử 12 (Kết nối tri thức với cuộc sống)*, printed p. 24 |
+
+Vietnam's own way (Book 13 — G12 History study topics (student book, Vietnamese)): the final-year electives turn from events to systems — the pupil maps the nation's whole belief ecology from family altar to world religions, studies Japan as the region's development mirror, and ends with Vietnam's own walk into ASEAN, the UN, APEC and the WTO as a dated, negotiated process. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 2 countries (Italy, Vietnam).**

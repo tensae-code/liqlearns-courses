@@ -1,6 +1,6 @@
 # Sources — The Renaissance — what it was
 
-countries: Ethiopia, Poland, Costa Rica, Australia, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Iran, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia, Mozambique, Sudan, Uzbekistan, North Macedonia, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy
+countries: Ethiopia, Poland, Costa Rica, Australia, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Iran, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia, Mozambique, Sudan, Uzbekistan, North Macedonia, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy, Vietnam
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -819,3 +819,39 @@ Italy's own way (Book 1 — La storia. Progettare il futuro, Vol. 1 (student boo
 Italy's own way (Book 2 — Lo spazio del tempo, Vol. 1 (student book, Italian)): Laterza's rival liceo course organises the same centuries in moduli built around documents — every chapter carries numbered DOC dossiers, Eventi and Personaggi boxes, a Guida allo studio and competence exercises, so the student works as a historian from sources first and narrative second. That way is stocked here as the way Italy teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 29 countries (Ethiopia, Poland, Costa Rica, Australia, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Iran, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia, Mozambique, Sudan, Uzbekistan, North Macedonia, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy).**
+
+
+## History expansion (2026-11-15) — Vietnam stocked
+
+**Book 4 — G7 History and Geography (student book, Vietnamese)**
+- Title as printed: Lịch sử và Địa lí 7 (Kết nối tri thức với cuộc sống)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2022 (copyright; 4th reprint with corrections and additions); ISBN 978-604-0-30717-0
+- PDF pages: 185 (title page verified against the record title; printed page = PDF page − 1)
+- Verdict: COMPLETE
+- Tally: 57 placements — 16 to existing lessons, 41 NEW LESSON NEEDED
+- Vietnam's own way: medieval world history (feudal Europe, China, India, Southeast Asia) is taught in the same volume as Đại Việt from Ngô Quyền to the Lê sơ, so pupils constantly compare their own dynasties with the region's; every Vietnamese war is taught through its named commanders' decisions and the chronicles' own words (Trần Thủ Độ's "my head has not yet fallen", Trần Bình Trọng's refusal, Nguyễn Trãi's Bình Ngô đại cáo).
+- Geography parts named, not placed: the whole Phần Địa lí, printed pp. 95–165 — Europe (Bài 1–4), Asia (Bài 5–8), Africa (Bài 9–12), the Americas (Bài 13–17), Australia and Antarctica (Bài 18–19). Two shared themes printed inside the Geography part ARE History and are placed below: Chủ đề chung 1, The Great Geographical Discoveries (printed pp. 166–169), and the History sections of Chủ đề chung 2, Cities: History and Present (printed pp. 170–174).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — Bài 3, what the Renaissance meant — story beats: a bourgeois culture sets human worth and personal freedom against feudal ideology, voicing itself in Don Quixote's line that deeds, not bloodlines, make a person, and Machiavelli's that one's great duty is to the fatherland (History expansion, 2026-11-15; original placement slug: modern-world/the-renaissance-what-changed) | Vietnam, *Lịch sử và Địa lí 7 (Kết nối tri thức với cuộc sống)*, printed p. 20 |
+
+Vietnam's own way (Book 4 — G7 History and Geography (student book, Vietnamese)): medieval world history (feudal Europe, China, India, Southeast Asia) is taught in the same volume as Đại Việt from Ngô Quyền to the Lê sơ, so pupils constantly compare their own dynasties with the region's; every Vietnamese war is taught through its named commanders' decisions and the chronicles' own words (Trần Thủ Độ's "my head has not yet fallen", Trần Bình Trọng's refusal, Nguyễn Trãi's Bình Ngô đại cáo). That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 8 — G10 History (student book, Vietnamese)**
+- Title as printed: Lịch sử 10 (Kết nối tri thức với cuộc sống)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam (Vietnam Education Publishing House); year 2023 (©2023; 3rd reprint with corrections and additions); ISBN 978-604-0-38325-9; book code G1HHXS003h26
+- PDF pages: 113 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 37 placements — 31 to existing lessons, 6 NEW LESSON NEEDED
+- Vietnam's own way: Grade 10 is organised by themes rather than chronology — the discipline itself first (what history is, its role, heritage), then civilisations in widening circles (the world, Southeast Asia, Vietnam's own land), then the four industrial revolutions, and finally the community of Vietnam's 54 ethnic groups, closing with the national great-unity bloc as the frame that holds the whole national story together.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — Bài 5.2, the Renaissance civilisation (14th–17th centuries) — story beats: the Renaissance takes its name from the Cultural Renaissance movement — a Western European current founded on reviving the achievements and values of ancient Greek–Roman civilisation; its science and technique prepare the ground for new thought, above all materialist philosophy with scholars like Francis Bacon of England and Descartes of France; Renaissance thinkers fiercely denounce the Christian Church's monopoly, aim their struggle at the decaying feudal regime of the time, and exalt human value and the right to individual freedom; these shifts of thought greatly affect the political and social situation, prepare the ground for Europe's social revolutions, and lay the foundation for the great advances of thought and philosophy in the ages that follow; the book's judgement is that Renaissance culture is the first open struggle of the bourgeoisie against the outdated feudal regime in the field of culture and thought, opening the way for Western European civilisation to develop through the following centuries — and the practice section sets Engels' sentence before the class: without the foundation of Greek civilisation and the Roman Empire, there would be no modern Europe (History expansion, 2026-11-15; original placement slug: modern-world/the-renaissance-what-it-was) | Vietnam, *Lịch sử 10 (Kết nối tri thức với cuộc sống)*, printed p. 35 |
+
+Vietnam's own way (Book 8 — G10 History (student book, Vietnamese)): Grade 10 is organised by themes rather than chronology — the discipline itself first (what history is, its role, heritage), then civilisations in widening circles (the world, Southeast Asia, Vietnam's own land), then the four industrial revolutions, and finally the community of Vietnam's 54 ethnic groups, closing with the national great-unity bloc as the frame that holds the whole national story together. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 30 countries (Ethiopia, Poland, Costa Rica, Australia, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Iran, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia, Mozambique, Sudan, Uzbekistan, North Macedonia, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy, Vietnam).**

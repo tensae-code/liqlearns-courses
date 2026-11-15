@@ -1,6 +1,6 @@
 # Sources — The Second World War — course in Europe
 
-countries: Ethiopia, United States, Turkey, Australia, Kuwait, Montenegro, Finland, Dominican Republic, Pakistan, Bolivia, Iran, Cambodia, Mauritania, South Sudan, Iraq, Mozambique, Yemen, Sudan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Honduras, Italy
+countries: Ethiopia, United States, Turkey, Australia, Kuwait, Montenegro, Finland, Dominican Republic, Pakistan, Bolivia, Iran, Cambodia, Mauritania, South Sudan, Iraq, Mozambique, Yemen, Sudan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Honduras, Italy, Vietnam
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 137).
 
@@ -762,3 +762,39 @@ Italy's own way (Book 5 — La storia. Progettare il futuro, Vol. 3 (student boo
 Italy's own way (Book 6 — Lo spazio del tempo, Vol. 3 (student book, Italian)): Laterza's third volume tells the "short twentieth century" and its aftermath in 19 modules, each closed by the Fare storia dossier method at its largest scale — 207 numbered documents and historiography pieces in four dossier modules, from Clark on 1914 and Lenin's April Theses to Piketty on inequality and Huntington's clash of civilisations — so the century is argued from its sources, not merely narrated. That way is stocked here as the way Italy teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 29 countries (Ethiopia, United States, Turkey, Australia, Kuwait, Montenegro, Finland, Dominican Republic, Pakistan, Bolivia, Iran, Cambodia, Mauritania, South Sudan, Iraq, Mozambique, Yemen, Sudan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Honduras, Italy).**
+
+
+## History expansion (2026-11-15) — Vietnam stocked
+
+**Book 6 — G9 History and Geography (student book, Vietnamese)**
+- Title as printed: Lịch sử và Địa lí 9 (Kết nối tri thức với cuộc sống)
+- Grade: 9 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam (Vietnam Education Publishing House); year 2024 (©2024; 2nd reprint with corrections and additions); ISBN 978-604-0-39238-1; book code G1HH9U002h26; price 28.700đ
+- PDF pages: 243 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 59 placements — 20 to existing lessons, 39 NEW LESSON NEEDED
+- Combined book: History part printed pp. 6–115 placed below. Geography part printed pp. 116–220 (population and ethnic groups, labour and employment, agriculture, industry, services, the country's regions, sea and island economy) NOT placed — named here per the brief. The three shared themes (printed pp. 221–235) follow the Geography part: Theme 1 Cities: History and Present (2) placed; Theme 2 Red River and Mekong Delta Civilisation (2) — culture section placed, climate-change section is Geography and not placed; Theme 3 Protecting Vietnam's sovereignty, rights and lawful interests in the East Sea (2) — historical-evidence section placed. Review lessons (Ôn tập) after chapters are not placed separately.
+- Vietnam's own way: the modern-history book is built as two interleaved timelines — every world chapter is answered by a Vietnam chapter (world 1918–1945, then Vietnam 1918–1945; world 1945–1991, then Vietnam 1945–1975), so pupils always read their own country's story as part of the world's, with Party documents and Hồ Chí Minh's words quoted as primary sources throughout.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — Bài 4, the war's course — story beats: Poland is invaded on 1 September 1939 and France falls by July 1940; on 22 June 1941 Germany attacks the USSR and by October threatens Moscow; Pearl Harbor (December 1941) brings America in, the Anti-fascist Alliance forms in January 1942, and Stalingrad (November 1942–February 1943) turns the war; Normandy follows in June 1944 and the Berlin offensive of 16 April 1945 ends with Germany's surrender on 9 May 1945 (History expansion, 2026-11-15; original placement slug: modern-world/the-second-world-war-course-in-europe) | Vietnam, *Lịch sử và Địa lí 9 (Kết nối tri thức với cuộc sống)*, printed p. 19 |
+
+Vietnam's own way (Book 6 — G9 History and Geography (student book, Vietnamese)): the modern-history book is built as two interleaved timelines — every world chapter is answered by a Vietnam chapter (world 1918–1945, then Vietnam 1918–1945; world 1945–1991, then Vietnam 1945–1975), so pupils always read their own country's story as part of the world's, with Party documents and Hồ Chí Minh's words quoted as primary sources throughout. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 10 — G11 study topics (student book, Vietnamese)**
+- Title as printed: Chuyên đề học tập Lịch sử 11 (Kết nối tri thức với cuộc sống)
+- Grade: Grade 11 (student/teacher: STUDENT)
+- Publisher: NXBGD Vietnam Education Publishing House; year 2023, 3rd reprint; ISBN 978-604-0-35078-7 (book code G1HHYS002h26; price 8.000đ)
+- PDF pages: 59 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 28 placements — 23 to existing lessons, 5 NEW LESSON NEEDED
+- Vietnam's own way: the Grade 11 elective goes deep on three things — traditional art read dynasty by dynasty as national evidence, the twentieth century taught as one long argument between war and peace (with Vietnam's own wars counted inside the world's), and history carried by named people: kings, generals, poets, a physician and an encyclopaedist.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — Chuyên đề 2.I.3 Resistance and the Great Patriotic War: resistance movements across Europe, Asia and Africa; China's front kills over 1.5 million Japanese troops before the Pacific War; Vietnam, Laos and Indonesia win independence in 1945; the USSR's decisive war costs nearly 27 million Soviet lives — story beats: the Soviet–German front swallows the Wehrmacht's best armies, and behind every front peoples rise and take their independence (History expansion, 2026-11-15; original placement slug: modern-world/the-second-world-war-course-in-europe) | Vietnam, *Chuyên đề học tập Lịch sử 11 (Kết nối tri thức với cuộc sống)*, printed p. 27 |
+
+Vietnam's own way (Book 10 — G11 study topics (student book, Vietnamese)): the Grade 11 elective goes deep on three things — traditional art read dynasty by dynasty as national evidence, the twentieth century taught as one long argument between war and peace (with Vietnam's own wars counted inside the world's), and history carried by named people: kings, generals, poets, a physician and an encyclopaedist. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 30 countries (Ethiopia, United States, Turkey, Australia, Kuwait, Montenegro, Finland, Dominican Republic, Pakistan, Bolivia, Iran, Cambodia, Mauritania, South Sudan, Iraq, Mozambique, Yemen, Sudan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Honduras, Italy, Vietnam).**

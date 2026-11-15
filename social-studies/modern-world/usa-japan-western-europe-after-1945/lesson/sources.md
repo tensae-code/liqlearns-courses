@@ -1,6 +1,6 @@
 # Sources — USA Japan Western Europe After 1945
 
-countries: Laos
+countries: Laos, Vietnam
 
 **Book 3 — LA-G9-T (teacher guide, Lao)**
 - Title as printed: ຄູ່ມືຄູ ປະຫວັດສາດ ຊັ້ນມັດທະຍົມປີທີ 4 (Teacher's Guide, History, Secondary Year 4)
@@ -64,3 +64,25 @@ Laos's own way (Book 14 — LA-G12-S (student book, Lao)): same course as the te
 **Acceptance count: taught in 1 country (Laos).**
 
 Searchable tags: Laos, USA Japan Western Europe After 1945, modern-world, History expansion 2026-11-15
+
+
+## History expansion (2026-11-15) — Vietnam stocked
+
+**Book 6 — G9 History and Geography (student book, Vietnamese)**
+- Title as printed: Lịch sử và Địa lí 9 (Kết nối tri thức với cuộc sống)
+- Grade: 9 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam (Vietnam Education Publishing House); year 2024 (©2024; 2nd reprint with corrections and additions); ISBN 978-604-0-39238-1; book code G1HH9U002h26; price 28.700đ
+- PDF pages: 243 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 59 placements — 20 to existing lessons, 39 NEW LESSON NEEDED
+- Combined book: History part printed pp. 6–115 placed below. Geography part printed pp. 116–220 (population and ethnic groups, labour and employment, agriculture, industry, services, the country's regions, sea and island economy) NOT placed — named here per the brief. The three shared themes (printed pp. 221–235) follow the Geography part: Theme 1 Cities: History and Present (2) placed; Theme 2 Red River and Mekong Delta Civilisation (2) — culture section placed, climate-change section is Geography and not placed; Theme 3 Protecting Vietnam's sovereignty, rights and lawful interests in the East Sea (2) — historical-evidence section placed. Review lessons (Ôn tập) after chapters are not placed separately.
+- Vietnam's own way: the modern-history book is built as two interleaved timelines — every world chapter is answered by a Vietnam chapter (world 1918–1945, then Vietnam 1918–1945; world 1945–1991, then Vietnam 1945–1975), so pupils always read their own country's story as part of the world's, with Party documents and Hồ Chí Minh's words quoted as primary sources throughout.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — Bài 11, the United States after 1945 — story beats: a two-party democracy pursues a global strategy against socialism — NATO founded at Washington in 1949, SEATO in 1954, friendly governments propped up abroad and progressive movements suppressed at home; when Nixon escalates in 1969, some 4 million Americans demonstrate in May 1970 alone and hundreds of schools close; détente and Nixon's China visit follow, then the 1989 joint declaration ending the Cold War — while America's economic share slides from 56% of world industrial output (1948) to 39.8% (1973) and its GDP share from 27.2% (1950) to 21.1% (1991) (History expansion, 2026-11-15; original placement slug: modern-world/america-and-western-europe-1945-1991) | Vietnam, *Lịch sử và Địa lí 9 (Kết nối tri thức với cuộc sống)*, printed p. 49 |
+| Vietnam part — Bài 11, Western Europe: recovery and integration — story beats: the book's period table runs from Marshall aid of some $13 billion and recovery to the pre-war level by 1950, through the high-growth decades of the ECSC (1951) and EEC (1957) — with France, the book's typical case, seeking less dependence on America — to the low-growth years after 1973 that still end with the 1991 agreement on the European Union and a single currency, the euro (History expansion, 2026-11-15; original placement slug: modern-world/america-and-western-europe-1945-1991) | Vietnam, *Lịch sử và Địa lí 9 (Kết nối tri thức với cuộc sống)*, printed p. 51 |
+
+Vietnam's own way (Book 6 — G9 History and Geography (student book, Vietnamese)): the modern-history book is built as two interleaved timelines — every world chapter is answered by a Vietnam chapter (world 1918–1945, then Vietnam 1918–1945; world 1945–1991, then Vietnam 1945–1975), so pupils always read their own country's story as part of the world's, with Party documents and Hồ Chí Minh's words quoted as primary sources throughout. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 2 countries (Laos, Vietnam).**

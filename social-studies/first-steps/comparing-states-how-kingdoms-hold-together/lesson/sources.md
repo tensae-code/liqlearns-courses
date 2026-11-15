@@ -1,6 +1,6 @@
 # Sources — Comparing states: how kingdoms hold together
 
-countries: Ethiopia, Bangladesh, Nigeria, Micronesia, Cyprus, Syria, Colombia, Mauritania, South Sudan, Sri Lanka, Iraq, North Macedonia
+countries: Ethiopia, Bangladesh, Nigeria, Micronesia, Cyprus, Syria, Colombia, Mauritania, South Sudan, Sri Lanka, Iraq, North Macedonia, Vietnam
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -347,3 +347,23 @@ North Macedonia's own way (Book 3 — Istorija I (History I), Grade 10 (student 
 **Acceptance count: taught in 12 countries (Ethiopia, Bangladesh, Nigeria, Micronesia, Cyprus, Syria, Colombia, Mauritania, South Sudan, Sri Lanka, Iraq, North Macedonia).**
 
 Searchable tags: North Macedonia, History expansion 2026-11-15, first-steps/comparing-states-how-kingdoms-hold-together
+
+
+## History expansion (2026-11-15) — Vietnam stocked
+
+**Book 7 — G10 History Study Topics (student book, Vietnamese)**
+- Title as printed: Chuyên đề học tập Lịch sử 10 (Kết nối tri thức với cuộc sống)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam (Vietnam Education Publishing House); year 2022 (©2022; 4th reprint with corrections and additions); ISBN 978-604-0-31108-5; book code G1HHXS002h26; price 8.200đ
+- PDF pages: 68 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 17 placements — 8 to existing lessons, 9 NEW LESSON NEEDED
+- Vietnam's own way: the upper-secondary elective book teaches History as a discipline and a civic practice — one topic on how history is written and divided into fields (each field then surveyed through Vietnam's own past), one on heritage as something pupils must classify, rank and defend, and one on the state and law, where medieval law codes and five modern constitutions are read as primary sources.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — Chuyên đề 3, I.1, three models of the Vietnamese monarchy — story beats: the Lý–Trần state is a "centralised monarchy close to the people": the king holds supreme power and the state is unified from centre to locality, but it rules with "reassure the people" policies — in spring 1038 King Lý Thái Tông ploughs the ceremonial field at Bố Hải himself and answers his protesting courtiers (quoted from the Đại Việt sử ký toàn thư): "If I do not plough myself, what will I use for the offerings, and what example will the world follow?" — and in 1300 Trần Quốc Tuấn counsels King Trần Anh Tông: "Relax the people's strength to make the plan deep-rooted and firm — that is the best strategy for keeping the country"; the early Lê state is a bureaucratic centralised monarchy — for the first time the central apparatus is divided into three branches (civil administration, military, supervision: the Six Ministries, Six Courts and Six Offices watched by the Censorate), mirrored locally by the Tam ty; the Nguyễn state is an autocratic centralised monarchy — the king empowers his own helper organs (Grand Secretariat, Imperial Academy, Privy Council), strengthens the judicial and supervisory organs, and after Minh Mạng's reform runs the provinces directly from the court, tightly controlling local power (History expansion, 2026-11-15; original placement slug: first-steps/comparing-states-how-kingdoms-hold-together) | Vietnam, *Chuyên đề học tập Lịch sử 10 (Kết nối tri thức với cuộc sống)*, printed p. 45 |
+
+Vietnam's own way (Book 7 — G10 History Study Topics (student book, Vietnamese)): the upper-secondary elective book teaches History as a discipline and a civic practice — one topic on how history is written and divided into fields (each field then surveyed through Vietnam's own past), one on heritage as something pupils must classify, rank and defend, and one on the state and law, where medieval law codes and five modern constitutions are read as primary sources. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 13 countries (Ethiopia, Bangladesh, Nigeria, Micronesia, Cyprus, Syria, Colombia, Mauritania, South Sudan, Sri Lanka, Iraq, North Macedonia, Vietnam).**

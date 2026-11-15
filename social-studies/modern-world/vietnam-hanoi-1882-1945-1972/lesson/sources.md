@@ -1,0 +1,55 @@
+# Sources — Vietnam Hanoi 1882 1945 1972
+
+countries: Vietnam
+
+**Book 1 — G4 History and Geography (student book, Vietnamese)**
+- Title as printed: Lịch sử và Địa lí 4 (Kết nối tri thức với cuộc sống)
+- Grade: Grade 4 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam (Vietnam Education Publishing House); year 2023 (copyright; 3rd reprint with corrections); ISBN 978-604-0-35033-6
+- PDF pages: 128 (cover/title page verified against the record title; printed page = PDF page − 3)
+- Verdict: COMPLETE
+- Tally: 35 placements — 12 to existing lessons, 23 NEW LESSON NEEDED
+- Vietnam's own way: History is taught region by region (home province, then each region of Vietnam in turn), always as named places, festivals and "Câu chuyện Lịch sử" story boxes with a named hero or legend, plus source excerpts (stele texts, the Edict on the Transfer of the Capital) even at Grade 4.
+- Geography parts named, not placed: Bài 2 local nature and people (printed pp. 12–15); Bài 4–5 Northern Midlands and Mountains nature, population and production (pp. 18–27); Bài 8–9 Red River Delta nature, population and production (pp. 36–45); Bài 15–16 North/Central nature, population and production (pp. 65–77); Bài 22–23 Southern region nature, population and production (pp. 99–106). Bài 14 and Bài 27 are review lessons (Ôn tập) over the same content — no separate placement.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — Bài 12, three days that made modern Hanoi — story beats: governor Hoàng Diệu dies defending the citadel from the French in 1882; Hồ Chí Minh reads the Declaration of Independence at Ba Đình in 1945; Hanoi's people shoot down US bombers in the twelve days of December 1972, the "Điện Biên Phủ in the air" (History expansion, 2026-11-15; original placement slug: modern-world/vietnam-hanoi-1882-1945-1972) | Vietnam, *Lịch sử và Địa lí 4 (Kết nối tri thức với cuộc sống)*, printed p. 57 |
+
+Vietnam's own way (Book 1 — G4 History and Geography (student book, Vietnamese)): History is taught region by region (home province, then each region of Vietnam in turn), always as named places, festivals and "Câu chuyện Lịch sử" story boxes with a named hero or legend, plus source excerpts (stele texts, the Edict on the Transfer of the Capital) even at Grade 4. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 5 — G8 History and Geography (student book, Vietnamese)**
+- Title as printed: Lịch sử và Địa lí 8 (Kết nối tri thức với cuộc sống)
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2023 (copyright; 3rd reprint with corrections and additions); ISBN 978-604-0-35043-5
+- PDF pages: 179 (cover and title page verified against the record title; printed page = PDF page − 1)
+- Verdict: COMPLETE
+- Tally: 60 placements — 23 to existing lessons, 37 NEW LESSON NEEDED
+- Vietnam's own way: Grade 8 pairs the bourgeois revolutions and industrialisation of Europe and America with Vietnam's own centuries of partition, peasant revolt and invasion, and closes the History part with the first French colonial exploitation — the lesson Vietnamese pupils are always brought back to when the book cites Hồ Chí Minh quoting the American and French Declarations.
+- Geography parts named, not placed: the whole Phần Địa lí, printed pp. 93–154 — Vietnam's territory and relief (Ch. 1, Bài 1–3), climate and waters (Ch. 2, Bài 4–8), soils and living world (Ch. 3, Bài 9–10), seas and islands (Ch. 4, Bài 11–12). Two shared themes follow it: Chủ đề chung 1, Civilisation of the Red River and Mekong Deltas (printed pp. 155–161), whose Geography sections are named here and whose History section (how people reclaimed and tamed the two deltas) is placed below; and Chủ đề chung 2, Protecting Vietnam's Sovereignty, Rights and Lawful Interests in the East Sea (printed pp. 162–171), whose law-of-the-sea sections are Civics/Geography and named here, and whose History section (the historical process of establishing sea-and-island sovereignty) is placed below.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — Bài 17, the two French descents on Hanoi and the Cầu Giấy victories, 1873–1884 — story beats: in November 1873 Francis Garnier storms Hanoi; Governor Nguyễn Tri Phương, wounded and captured, starves himself to death to keep his honour; on 21 December the court army and Lưu Vĩnh Phúc's Black Flags ambush the French at Cầu Giấy and kill Garnier; the Treaty of Giáp Tuất (1874) gives France all six southern provinces — and, the quoted history warns, the bases from which it will return; in April 1882 Henri Rivière takes Hanoi after Governor Hoàng Diệu's suicide in the Võ Miếu garden, spreads over the delta, and on 19 May 1883 is ambushed and killed at Cầu Giấy in his turn; France answers by storming Thuận An at Huế's sea gate and imposing the Harmand treaty (1883) and the Patenôtre treaty of 6 June 1884 — the protectorate (History expansion, 2026-11-15; original placement slug: modern-world/vietnam-hanoi-1882-1945-1972) | Vietnam, *Lịch sử và Địa lí 8 (Kết nối tri thức với cuộc sống)*, printed p. 80 |
+
+Vietnam's own way (Book 5 — G8 History and Geography (student book, Vietnamese)): Grade 8 pairs the bourgeois revolutions and industrialisation of Europe and America with Vietnam's own centuries of partition, peasant revolt and invasion, and closes the History part with the first French colonial exploitation — the lesson Vietnamese pupils are always brought back to when the book cites Hồ Chí Minh quoting the American and French Declarations. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 6 — G9 History and Geography (student book, Vietnamese)**
+- Title as printed: Lịch sử và Địa lí 9 (Kết nối tri thức với cuộc sống)
+- Grade: 9 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam (Vietnam Education Publishing House); year 2024 (©2024; 2nd reprint with corrections and additions); ISBN 978-604-0-39238-1; book code G1HH9U002h26; price 28.700đ
+- PDF pages: 243 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 59 placements — 20 to existing lessons, 39 NEW LESSON NEEDED
+- Combined book: History part printed pp. 6–115 placed below. Geography part printed pp. 116–220 (population and ethnic groups, labour and employment, agriculture, industry, services, the country's regions, sea and island economy) NOT placed — named here per the brief. The three shared themes (printed pp. 221–235) follow the Geography part: Theme 1 Cities: History and Present (2) placed; Theme 2 Red River and Mekong Delta Civilisation (2) — culture section placed, climate-change section is Geography and not placed; Theme 3 Protecting Vietnam's sovereignty, rights and lawful interests in the East Sea (2) — historical-evidence section placed. Review lessons (Ôn tập) after chapters are not placed separately.
+- Vietnam's own way: the modern-history book is built as two interleaved timelines — every world chapter is answered by a Vietnam chapter (world 1918–1945, then Vietnam 1918–1945; world 1945–1991, then Vietnam 1945–1975), so pupils always read their own country's story as part of the world's, with Party documents and Hồ Chí Minh's words quoted as primary sources throughout.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — Bài 17, the North under the air war — story beats: on the Gulf of Tonkin pretext (5 August 1964) and the "retaliation" for Plây-ku (7 February 1965) America opens its first destruction war on the North; in over four years the North shoots down 3,243 aircraft including 6 B-52s and sinks 143 warships while keeping transport moving — the book pauses at Đồng Lộc junction, where ten young women volunteers died keeping the Hồ Chí Minh Trail's blood vessel open (the site a national relic since 1989); America halts the bombing on 1 November 1968, resumes a second destruction war on 16 April 1972, and loses its twelve-day B-52 campaign against Hanoi and Hải Phòng (18–29 December 1972) — "Điện Biên Phủ in the air" — which forces it back to sign the Paris Agreement (History expansion, 2026-11-15; original placement slug: modern-world/vietnam-hanoi-1882-1945-1972) | Vietnam, *Lịch sử và Địa lí 9 (Kết nối tri thức với cuộc sống)*, printed p. 88 |
+
+Vietnam's own way (Book 6 — G9 History and Geography (student book, Vietnamese)): the modern-history book is built as two interleaved timelines — every world chapter is answered by a Vietnam chapter (world 1918–1945, then Vietnam 1918–1945; world 1945–1991, then Vietnam 1945–1975), so pupils always read their own country's story as part of the world's, with Party documents and Hồ Chí Minh's words quoted as primary sources throughout. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 1 country (Vietnam).**
+
+Searchable tags: Vietnam, Vietnam Hanoi 1882 1945 1972, modern-world/vietnam-hanoi-1882-1945-1972, History expansion 2026-11-15

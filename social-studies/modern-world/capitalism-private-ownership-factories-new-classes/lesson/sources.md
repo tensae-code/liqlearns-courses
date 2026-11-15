@@ -1,6 +1,6 @@
 # Sources — Capitalism — private ownership, factories, new classes
 
-countries: Ethiopia, Brazil, Australia, Ecuador, Dominican Republic, Colombia, Mongolia, Samoa, Iraq, Uzbekistan, Laos, Cuba, China, Moldova, Armenia, Nicaragua, Italy
+countries: Ethiopia, Brazil, Australia, Ecuador, Dominican Republic, Colombia, Mongolia, Samoa, Iraq, Uzbekistan, Laos, Cuba, China, Moldova, Armenia, Nicaragua, Italy, Vietnam
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -495,3 +495,25 @@ Italy's own way (Book 3 — La storia. Progettare il futuro, Vol. 2 (student boo
 Italy's own way (Book 4 — Lo spazio del tempo, Vol. 2 (student book, Italian)): Laterza's second volume runs a long '700 (from 1660) and a long '800 (to 1914) in six moduli; its signature is the Fare storia dossier apparatus — 178 numbered documents and historiography pieces, from Galileo's trial and Gustavus Vassa's slave narrative to Gramsci on the Risorgimento — so narrative chapters alternate with the sources that argue about them. That way is stocked here as the way Italy teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 17 countries (Ethiopia, Brazil, Australia, Ecuador, Dominican Republic, Colombia, Mongolia, Samoa, Iraq, Uzbekistan, Laos, Cuba, China, Moldova, Armenia, Nicaragua, Italy).**
+
+
+## History expansion (2026-11-15) — Vietnam stocked
+
+**Book 11 — G11 History (student book, Vietnamese)**
+- Title as printed: Lịch sử 11 (Kết nối tri thức với cuộc sống)
+- Grade: Grade 11 (student/teacher: STUDENT)
+- Publisher: NXBGD Vietnam Education Publishing House; year 2023, 3rd reprint; ISBN 978-604-0-35077-0 (book code G1HHYS001h26; price 12.100đ)
+- PDF pages: 99 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Geography content named, not placed: Bài 12 — position, sea lanes, resources and island geography of the East Sea (printed pp. 73–79); its history is placed under Bài 13.
+- Tally: 35 placements — 18 to existing lessons, 17 NEW LESSON NEEDED
+- Vietnam's own way: Grade 11 runs three arcs in parallel — the world's two rival systems (capitalism from its revolutions, socialism from 1917), Southeast Asia's road out of colonial rule, and Vietnam read through its wars of defence, its three great reformers, and its sea sovereignty — so the pupil's own country is always the measuring rod.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — Bài 2 Capitalism takes the map: established in the Netherlands and England in the later 1600s, in France and North America by the late 1700s, in Italy and Germany by the later 1800s — the German emperor proclaimed at Versailles in January 1871 — story beats: in two centuries the counting-house system conquers two continents capital by capital (History expansion, 2026-11-15; original placement slug: modern-world/capitalism-private-ownership-factories-new-classes) | Vietnam, *Lịch sử 11 (Kết nối tri thức với cuộc sống)*, printed p. 12 |
+| Vietnam part — Bài 2 From free competition to monopoly: three decades of new energy and science bankrupt the small firms; cartels and syndicates in Germany and France, trusts in America — by the early 1900s about 1% of firms hold over three-quarters of the world's steam and electric power — story beats: competition eats itself — the cartoonists draw the trust as an octopus strangling the oil barrel (History expansion, 2026-11-15; original placement slug: modern-world/capitalism-private-ownership-factories-new-classes) | Vietnam, *Lịch sử 11 (Kết nối tri thức với cuộc sống)*, printed p. 16 |
+
+Vietnam's own way (Book 11 — G11 History (student book, Vietnamese)): Grade 11 runs three arcs in parallel — the world's two rival systems (capitalism from its revolutions, socialism from 1917), Southeast Asia's road out of colonial rule, and Vietnam read through its wars of defence, its three great reformers, and its sea sovereignty — so the pupil's own country is always the measuring rod. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 18 countries (Ethiopia, Brazil, Australia, Ecuador, Dominican Republic, Colombia, Mongolia, Samoa, Iraq, Uzbekistan, Laos, Cuba, China, Moldova, Armenia, Nicaragua, Italy, Vietnam).**

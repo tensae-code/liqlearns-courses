@@ -1,0 +1,25 @@
+# Sources — Southeast Asia Under Western Colonialism
+
+countries: Vietnam
+
+**Book 5 — G8 History and Geography (student book, Vietnamese)**
+- Title as printed: Lịch sử và Địa lí 8 (Kết nối tri thức với cuộc sống)
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2023 (copyright; 3rd reprint with corrections and additions); ISBN 978-604-0-35043-5
+- PDF pages: 179 (cover and title page verified against the record title; printed page = PDF page − 1)
+- Verdict: COMPLETE
+- Tally: 60 placements — 23 to existing lessons, 37 NEW LESSON NEEDED
+- Vietnam's own way: Grade 8 pairs the bourgeois revolutions and industrialisation of Europe and America with Vietnam's own centuries of partition, peasant revolt and invasion, and closes the History part with the first French colonial exploitation — the lesson Vietnamese pupils are always brought back to when the book cites Hồ Chí Minh quoting the American and French Declarations.
+- Geography parts named, not placed: the whole Phần Địa lí, printed pp. 93–154 — Vietnam's territory and relief (Ch. 1, Bài 1–3), climate and waters (Ch. 2, Bài 4–8), soils and living world (Ch. 3, Bài 9–10), seas and islands (Ch. 4, Bài 11–12). Two shared themes follow it: Chủ đề chung 1, Civilisation of the Red River and Mekong Deltas (printed pp. 155–161), whose Geography sections are named here and whose History section (how people reclaimed and tamed the two deltas) is placed below; and Chủ đề chung 2, Protecting Vietnam's Sovereignty, Rights and Lawful Interests in the East Sea (printed pp. 162–171), whose law-of-the-sea sections are Civics/Geography and named here, and whose History section (the historical process of establishing sea-and-island sovereignty) is placed below.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — Bài 4, how the Western powers entered Southeast Asia — story beats: the book's table runs country by country — Portugal takes Malacca in 1511 (its ship, the Flor do Mar, is now a museum there) and the eastern Indonesian islands; Spain seizes most of the Philippines by the mid-16th century and rules 350 years; the Dutch complete the conquest of Indonesia by the mid-19th century; Britain, France and the Netherlands contest Malaya, Burma and Indochina; Siam is entered by traders in the 16th century and pressed only after Britain has taken India and parts of Malaya and Burma (History expansion, 2026-11-15; original placement slug: modern-world/southeast-asia-under-western-colonialism) | Vietnam, *Lịch sử và Địa lí 8 (Kết nối tri thức với cuộc sống)*, printed p. 20 |
+| Vietnam part — Bài 4, Southeast Asia under colonial rule — story beats: native rulers surrender, collaborate or reign as puppets while colonial officials govern; the economy is plundered — land seized for plantations, no heavy industry allowed, railways and ports built for extraction and repression; Western culture erodes traditions and "enslavement" policies aim to assimilate; and a quoted Vietnamese history of the region shows the method — the British first merged Malaya, Singapore and Brunei into one unit, then split them into four separate regimes, so that each piece could be ruled more easily (History expansion, 2026-11-15; original placement slug: modern-world/southeast-asia-under-western-colonialism) | Vietnam, *Lịch sử và Địa lí 8 (Kết nối tri thức với cuộc sống)*, printed p. 21 |
+| Vietnam part — Bài 4, the peoples resist, 16th–mid-19th centuries — story beats: on Mactan island in 1521 Lapu-Lapu's people resist the Spanish landing; Indonesia rises against the Dutch under Trunojoyo (1675), Surapati (1683–1719) and Diponegoro (1825–1830); Burma's army under General Bandula fights the first British invasion (1824–1826) until Bandula falls in 1825 — all these risings fail, the book notes, but none of the peoples submits quietly (History expansion, 2026-11-15; original placement slug: modern-world/southeast-asia-under-western-colonialism) | Vietnam, *Lịch sử và Địa lí 8 (Kết nối tri thức với cuộc sống)*, printed p. 22 |
+
+Vietnam's own way (Book 5 — G8 History and Geography (student book, Vietnamese)): Grade 8 pairs the bourgeois revolutions and industrialisation of Europe and America with Vietnam's own centuries of partition, peasant revolt and invasion, and closes the History part with the first French colonial exploitation — the lesson Vietnamese pupils are always brought back to when the book cites Hồ Chí Minh quoting the American and French Declarations. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 1 country (Vietnam).**
+
+Searchable tags: Vietnam, Southeast Asia Under Western Colonialism, modern-world/southeast-asia-under-western-colonialism, History expansion 2026-11-15

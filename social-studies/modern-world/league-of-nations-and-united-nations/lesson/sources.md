@@ -1,6 +1,6 @@
 # Sources — The League of Nations and the United Nations
 
-countries: South Sudan, Sri Lanka, Samoa, Iraq, Jordan, North Macedonia, Laos
+countries: South Sudan, Sri Lanka, Samoa, Iraq, Jordan, North Macedonia, Laos, Vietnam
 
 **Book 23 — S4 History Student's Book (student book, English)**
 - Title as printed: Secondary History 4 Student's Book
@@ -204,3 +204,40 @@ Laos's own way (Book 14 — LA-G12-S (student book, Lao)): same course as the te
 **Acceptance count: taught in 7 countries (South Sudan, Sri Lanka, Samoa, Iraq, Jordan, North Macedonia, Laos).**
 
 Searchable tags: Laos, History expansion 2026-11-15, modern-world/league-of-nations-and-united-nations
+
+
+## History expansion (2026-11-15) — Vietnam stocked
+
+**Book 2 — G5 History and Geography (student book, Vietnamese)**
+- Title as printed: Lịch sử và Địa lí 5 (Kết nối tri thức với cuộc sống)
+- Grade: Grade 5 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2024 (copyright; 2nd reprint with corrections and additions); ISBN 978-604-0-39225-1
+- PDF pages: 124 (cover/title page verified against the record title; printed page = PDF page − 3)
+- Verdict: COMPLETE
+- Tally: 59 placements — 11 to existing lessons, 48 NEW LESSON NEEDED
+- Vietnam's own way: Grade 5 runs the whole national story in one chronological sweep — first states, a thousand years of northern domination, the dynasties, colonisation, 1945, 1954, 1975, Đổi mới — and every lesson is built around named "Câu chuyện Lịch sử" story boxes, many quoted from the national chronicles (Đại Việt sử ký toàn thư, Đại Nam thực lục).
+- Geography parts named, not placed: Bài 1 position/territory and administrative units (printed pp. 5–8, Geography; its flag/emblem/anthem section is Civics); Bài 2 nature of Vietnam (pp. 9–15); Bài 4 population and peoples (pp. 20–24, Geography apart from the two story boxes placed below); Bài 18–20 the neighbouring countries' nature and population (pp. 76–89, Geography apart from the heritage works placed below); Bài 22 continents and oceans (pp. 93–97); Bài 23 world population and races (pp. 98–100); Bài 26 building a green–clean–beautiful world (pp. 109–111, Civics/environment). Bài 11 and Bài 28 are review lessons — no separate placement.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — Bài 27, humanity builds a peaceful world (the dove legend; Red Cross; the United Nations) — story beats: Noah's dove returns with an olive branch and becomes peace's symbol; after the Second World War, in 1945, the nations found the United Nations "to save succeeding generations from the scourge of war" — and Vietnamese soldiers now serve as its peacekeepers (History expansion, 2026-11-15; original placement slug: modern-world/united-nations-and-the-peace-movement) | Vietnam, *Lịch sử và Địa lí 5 (Kết nối tri thức với cuộc sống)*, printed p. 112 |
+
+Vietnam's own way (Book 2 — G5 History and Geography (student book, Vietnamese)): Grade 5 runs the whole national story in one chronological sweep — first states, a thousand years of northern domination, the dynasties, colonisation, 1945, 1954, 1975, Đổi mới — and every lesson is built around named "Câu chuyện Lịch sử" story boxes, many quoted from the national chronicles (Đại Việt sử ký toàn thư, Đại Nam thực lục). That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 14 — G12 History (student book, Vietnamese)**
+- Title as printed: Lịch sử 12 (Kết nối tri thức với cuộc sống)
+- Grade: Grade 12 (student/teacher: STUDENT)
+- Publisher: NXBGD Vietnam Education Publishing House; year 2024, 2nd reprint; general editor Vũ Minh Giang; editor-in-chief Trần Thị Vinh; authors Trương Thị Bích Hạnh – Nguyễn Thị Mai Hoa – Phan Ngọc Huyền – Hoàng Thị Hồng Nga – Phạm Hồng Tung; ISBN 978-604-0-39271-8 (book code G1HHZS003h26; price 13.900đ)
+- PDF pages: 115 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 48 placements — 44 to existing lessons, 4 NEW LESSON NEEDED
+- Vietnam's own way: the final year closes the whole school arc with the world first — the UN, the Yalta order, the Cold War's fall, ASEAN — then runs Vietnam's own 1945–today story as one unbroken Fatherland narrative (revolution, two resistances, border wars, Đổi Mới, diplomacy) and ends with an entire theme on Hồ Chí Minh as national hero and world cultural figure; every lesson is built on named primary sources (charters, declarations, party documents, memoirs) with "Em có biết?" side boxes.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — Bài 1 The United Nations founded: where the League of Nations (1920–1946) proved too weak, the Declaration by United Nations (1-1-1942, 26 countries), Tehran 1943 and Yalta's decision lead to San Francisco, where 50 countries pass the Charter and the UN is officially founded on 24-10-1945 with 51 members — story beats: the wartime alliance refuses to disband and instead writes itself a permanent house (History expansion, 2026-11-15; original placement slug: modern-world/united-nations-and-the-peace-movement) | Vietnam, *Lịch sử 12 (Kết nối tri thức với cuộc sống)*, printed p. 6 |
+| Vietnam part — Bài 1 What the UN is for: the Charter's goals (peace and security, friendly relations on self-determination, cooperation on economic, social and human-rights problems) and principles (sovereign equality, no force, no interference), then its record — no new world war, peacekeeping from El Salvador to Mozambique, the NPT 1968 and chemical-weapons ban, decolonisation to 193 members, the MDGs and the 17 SDGs, the 1948 human-rights declaration, and Vietnamese officers leaving for peacekeeping in South Sudan in 2021 — story beats: the organisation Vietnam once petitioned for recognition becomes one its own soldiers serve (History expansion, 2026-11-15; original placement slug: modern-world/united-nations-and-the-peace-movement) | Vietnam, *Lịch sử 12 (Kết nối tri thức với cuộc sống)*, printed p. 8 |
+
+Vietnam's own way (Book 14 — G12 History (student book, Vietnamese)): the final year closes the whole school arc with the world first — the UN, the Yalta order, the Cold War's fall, ASEAN — then runs Vietnam's own 1945–today story as one unbroken Fatherland narrative (revolution, two resistances, border wars, Đổi Mới, diplomacy) and ends with an entire theme on Hồ Chí Minh as national hero and world cultural figure; every lesson is built on named primary sources (charters, declarations, party documents, memoirs) with "Em có biết?" side boxes. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 8 countries (South Sudan, Sri Lanka, Samoa, Iraq, Jordan, North Macedonia, Laos, Vietnam).**

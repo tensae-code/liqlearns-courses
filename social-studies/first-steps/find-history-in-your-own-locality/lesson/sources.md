@@ -1,6 +1,6 @@
 # Sources — Find history in your own locality
 
-countries: Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala, Malaysia, Ecuador, Bahamas, Eritrea, Nepal, Belarus, Fiji, Indonesia, Finland, Egypt, Syria, Suriname, Colombia, South Sudan, Samoa, Iraq, Mozambique, Yemen, Jordan, Laos, Cuba, China, Moldova, Armenia, Honduras
+countries: Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala, Malaysia, Ecuador, Bahamas, Eritrea, Nepal, Belarus, Fiji, Indonesia, Finland, Egypt, Syria, Suriname, Colombia, South Sudan, Samoa, Iraq, Mozambique, Yemen, Jordan, Laos, Cuba, China, Moldova, Armenia, Honduras, Vietnam
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -1407,3 +1407,54 @@ This book is a teacher guide. The Honduras rows from this book below stand on it
 Honduras's own way (Book 4 — G2 teacher (teacher guide, Spanish)): The guide mirrors the student book's 38 lessons and adds the method: children narrate a remembered event aloud and in drawing, music and theatre; elders are interviewed as oral sources; local history is dramatised in three theatre groups. That way is stocked here as the way Honduras teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 31 countries (Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala, Malaysia, Ecuador, Bahamas, Eritrea, Nepal, Belarus, Fiji, Indonesia, Finland, Egypt, Syria, Suriname, Colombia, South Sudan, Samoa, Iraq, Mozambique, Yemen, Jordan, Laos, Cuba, China, Moldova, Armenia, Honduras).**
+
+
+## History expansion (2026-11-15) — Vietnam stocked
+
+**Book 1 — G4 History and Geography (student book, Vietnamese)**
+- Title as printed: Lịch sử và Địa lí 4 (Kết nối tri thức với cuộc sống)
+- Grade: Grade 4 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam (Vietnam Education Publishing House); year 2023 (copyright; 3rd reprint with corrections); ISBN 978-604-0-35033-6
+- PDF pages: 128 (cover/title page verified against the record title; printed page = PDF page − 3)
+- Verdict: COMPLETE
+- Tally: 35 placements — 12 to existing lessons, 23 NEW LESSON NEEDED
+- Vietnam's own way: History is taught region by region (home province, then each region of Vietnam in turn), always as named places, festivals and "Câu chuyện Lịch sử" story boxes with a named hero or legend, plus source excerpts (stele texts, the Edict on the Transfer of the Capital) even at Grade 4.
+- Geography parts named, not placed: Bài 2 local nature and people (printed pp. 12–15); Bài 4–5 Northern Midlands and Mountains nature, population and production (pp. 18–27); Bài 8–9 Red River Delta nature, population and production (pp. 36–45); Bài 15–16 North/Central nature, population and production (pp. 65–77); Bài 22–23 Southern region nature, population and production (pp. 99–106). Bài 14 and Bài 27 are review lessons (Ôn tập) over the same content — no separate placement.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — Bài 3, telling the story of a famous person of your own locality and planning a visit to a local historic site — story beats: each child must find a local hero, retell their story, and plan a real visit to a local relic (History expansion, 2026-11-15; original placement slug: first-steps/find-history-in-your-own-locality) | Vietnam, *Lịch sử và Địa lí 4 (Kết nối tri thức với cuộc sống)*, printed p. 17 |
+
+Vietnam's own way (Book 1 — G4 History and Geography (student book, Vietnamese)): History is taught region by region (home province, then each region of Vietnam in turn), always as named places, festivals and "Câu chuyện Lịch sử" story boxes with a named hero or legend, plus source excerpts (stele texts, the Edict on the Transfer of the Capital) even at Grade 4. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 7 — G10 History Study Topics (student book, Vietnamese)**
+- Title as printed: Chuyên đề học tập Lịch sử 10 (Kết nối tri thức với cuộc sống)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam (Vietnam Education Publishing House); year 2022 (©2022; 4th reprint with corrections and additions); ISBN 978-604-0-31108-5; book code G1HHXS002h26; price 8.200đ
+- PDF pages: 68 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 17 placements — 8 to existing lessons, 9 NEW LESSON NEEDED
+- Vietnam's own way: the upper-secondary elective book teaches History as a discipline and a civic practice — one topic on how history is written and divided into fields (each field then surveyed through Vietnam's own past), one on heritage as something pupils must classify, rank and defend, and one on the state and law, where medieval law codes and five modern constitutions are read as primary sources.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — Chuyên đề 1, practice: research the history of your own school — story beats: the topic's application exercise hands the method to the pupils: collect evidence and present one problem of Vietnamese history through a single field; then, as a class, investigate the formation and development of the very school they study in — choosing the form (general history or one field), fixing the object and scope, outlining the content, and reporting the group's findings to the class (History expansion, 2026-11-15; original placement slug: first-steps/find-history-in-your-own-locality) | Vietnam, *Chuyên đề học tập Lịch sử 10 (Kết nối tri thức với cuộc sống)*, printed p. 22 |
+
+Vietnam's own way (Book 7 — G10 History Study Topics (student book, Vietnamese)): the upper-secondary elective book teaches History as a discipline and a civic practice — one topic on how history is written and divided into fields (each field then surveyed through Vietnam's own past), one on heritage as something pupils must classify, rank and defend, and one on the state and law, where medieval law codes and five modern constitutions are read as primary sources. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 8 — G10 History (student book, Vietnamese)**
+- Title as printed: Lịch sử 10 (Kết nối tri thức với cuộc sống)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam (Vietnam Education Publishing House); year 2023 (©2023; 3rd reprint with corrections and additions); ISBN 978-604-0-38325-9; book code G1HHXS003h26
+- PDF pages: 113 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 37 placements — 31 to existing lessons, 6 NEW LESSON NEEDED
+- Vietnam's own way: Grade 10 is organised by themes rather than chronology — the discipline itself first (what history is, its role, heritage), then civilisations in widening circles (the world, Southeast Asia, Vietnam's own land), then the four industrial revolutions, and finally the community of Vietnam's 54 ethnic groups, closing with the national great-unity bloc as the frame that holds the whole national story together.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — Bài 2.2–3, connecting history with life, and collecting and processing sources — story beats: history is not learned only in lessons — museums, historical-cultural relics and artworks teach it too, and everything around us is a witness of history: every house, street, village, relic (communal house, temple, pagoda, monument), every school has its own story waiting to be asked — when was this relic built, who built it, what does it mean; when was your school founded, why does it bear its name, what traditions does it hold; to explore history scientifically one works from sources (sử liệu — every form of material carrying information about the human past, like the dragon-patterned roof tile from the Thăng Long Imperial Citadel, a 10,000-đồng banknote, and the Nhân Dân newspaper front page of 1–2 January 1968 pictured here): first collect them — list what is needed, search and gather, the more diverse and complete the better — then process them: classify, evaluate, authenticate and compare the sources to fix the accuracy, reliability and value of the information each carries; the applied task sends pupils to collect materials on the past of their own family, school or home locality and present what those materials reveal (History expansion, 2026-11-15; original placement slug: first-steps/find-history-in-your-own-locality) | Vietnam, *Lịch sử 10 (Kết nối tri thức với cuộc sống)*, printed p. 13 |
+
+Vietnam's own way (Book 8 — G10 History (student book, Vietnamese)): Grade 10 is organised by themes rather than chronology — the discipline itself first (what history is, its role, heritage), then civilisations in widening circles (the world, Southeast Asia, Vietnam's own land), then the four industrial revolutions, and finally the community of Vietnam's 54 ethnic groups, closing with the national great-unity bloc as the frame that holds the whole national story together. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 32 countries (Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala, Malaysia, Ecuador, Bahamas, Eritrea, Nepal, Belarus, Fiji, Indonesia, Finland, Egypt, Syria, Suriname, Colombia, South Sudan, Samoa, Iraq, Mozambique, Yemen, Jordan, Laos, Cuba, China, Moldova, Armenia, Honduras, Vietnam).**

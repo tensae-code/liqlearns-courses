@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — Greece: Crete
 
-countries: Ethiopia, France, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro, Dominican Republic, Egypt, Bolivia, Iran, Cambodia, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Yemen, Sudan, Jordan, Uzbekistan, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras
+countries: Ethiopia, France, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro, Dominican Republic, Egypt, Bolivia, Iran, Cambodia, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Yemen, Sudan, Jordan, Uzbekistan, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Vietnam
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 6, placements 92–106).
 
@@ -914,3 +914,72 @@ This book is a teacher guide. The Honduras rows from this book below stand on it
 Honduras's own way (Book 19 — Ciencias Sociales, Noveno Grado (TEACHER, 2022 edition)): the 2022 guide re-presents the same world-history block (lessons 20–29) in a new design, embedding the student workbook pages with blue model answers and a teacher note under each; its Lesson 20 opens the periodisation lesson from a 2010 article on the 2008 financial crisis, asking how that hecho histórico affected the world and Honduras. That way is stocked here as the way Honduras teaches this thing. Cited as teacher-guide evidence only, outside acceptance counts. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 34 countries (Ethiopia, France, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro, Dominican Republic, Egypt, Bolivia, Iran, Cambodia, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Yemen, Sudan, Jordan, Uzbekistan, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras).**
+
+
+## History expansion (2026-11-15) — Vietnam stocked
+
+**Book 2 — G5 History and Geography (student book, Vietnamese)**
+- Title as printed: Lịch sử và Địa lí 5 (Kết nối tri thức với cuộc sống)
+- Grade: Grade 5 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2024 (copyright; 2nd reprint with corrections and additions); ISBN 978-604-0-39225-1
+- PDF pages: 124 (cover/title page verified against the record title; printed page = PDF page − 3)
+- Verdict: COMPLETE
+- Tally: 59 placements — 11 to existing lessons, 48 NEW LESSON NEEDED
+- Vietnam's own way: Grade 5 runs the whole national story in one chronological sweep — first states, a thousand years of northern domination, the dynasties, colonisation, 1945, 1954, 1975, Đổi mới — and every lesson is built around named "Câu chuyện Lịch sử" story boxes, many quoted from the national chronicles (Đại Việt sử ký toàn thư, Đại Nam thực lục).
+- Geography parts named, not placed: Bài 1 position/territory and administrative units (printed pp. 5–8, Geography; its flag/emblem/anthem section is Civics); Bài 2 nature of Vietnam (pp. 9–15); Bài 4 population and peoples (pp. 20–24, Geography apart from the two story boxes placed below); Bài 18–20 the neighbouring countries' nature and population (pp. 76–89, Geography apart from the heritage works placed below); Bài 22 continents and oceans (pp. 93–97); Bài 23 world population and races (pp. 98–100); Bài 26 building a green–clean–beautiful world (pp. 109–111, Civics/environment). Bài 11 and Bài 28 are review lessons — no separate placement.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — Bài 25, achievements of Greek civilisation — story beats: the marble Parthenon on Athens's Acropolis (5th century BC), temples, and sculpture like the Discobolus that seeks the perfect human body (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-greece-crete) | Vietnam, *Lịch sử và Địa lí 5 (Kết nối tri thức với cuộc sống)*, printed p. 106 |
+| Vietnam part — Bài 25, the history of the Olympic Games — story beats: Heracles founds the games, first held in 776 BC; every four years the city-states stop their wars to compete, and winners receive only an olive wreath (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-greece-crete) | Vietnam, *Lịch sử và Địa lí 5 (Kết nối tri thức với cuộc sống)*, printed p. 108 |
+
+Vietnam's own way (Book 2 — G5 History and Geography (student book, Vietnamese)): Grade 5 runs the whole national story in one chronological sweep — first states, a thousand years of northern domination, the dynasties, colonisation, 1945, 1954, 1975, Đổi mới — and every lesson is built around named "Câu chuyện Lịch sử" story boxes, many quoted from the national chronicles (Đại Việt sử ký toàn thư, Đại Nam thực lục). That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 3 — G6 History and Geography (student book, Vietnamese)**
+- Title as printed: Lịch sử và Địa lí 6 (Kết nối tri thức với cuộc sống)
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2021 (copyright; 5th reprint with corrections and additions); ISBN 978-604-0-25153-4
+- PDF pages: 200 (title page verified against the record title; the PDF opens at the title page, printed page = PDF page)
+- Verdict: COMPLETE
+- Tally: 49 placements — 21 to existing lessons, 28 NEW LESSON NEEDED
+- Vietnam's own way: the lower-secondary course rebuilds the story from first principles — what history is, how evidence works, how time is counted — then prehistory, the ancient civilisations, Southeast Asia, and Vietnam to the 10th century, quoting the chronicles (Đại Việt sử ký toàn thư) and even a Yuan-era account (An Nam chí lược) as pupil-facing sources.
+- Geography parts named, not placed: the whole Phần Địa lí, printed pp. 95–199 — introduction to Geography; maps and ways of showing the Earth's surface (Bài 1–5); the Earth in the solar system and its motions (Bài 6–9); the Earth's structure and landforms (Bài 10–14); atmosphere, climate and climate change (Bài 15–18); water on Earth (Bài 19–21); soil and life on Earth (Bài 22–26); people and nature (Bài 27–30).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — Bài 10, Greece: a sea-divided land and its city-states — story beats: mountains split Greece into small plains fit for vines and olives, but its harbours face the sea; from the 8th century BC dozens of city-states trade through ports like Piraeus (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-greece-crete) | Vietnam, *Lịch sử và Địa lí 6 (Kết nối tri thức với cuộc sống)*, printed p. 45 |
+
+Vietnam's own way (Book 3 — G6 History and Geography (student book, Vietnamese)): the lower-secondary course rebuilds the story from first principles — what history is, how evidence works, how time is counted — then prehistory, the ancient civilisations, Southeast Asia, and Vietnam to the 10th century, quoting the chronicles (Đại Việt sử ký toàn thư) and even a Yuan-era account (An Nam chí lược) as pupil-facing sources. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 8 — G10 History (student book, Vietnamese)**
+- Title as printed: Lịch sử 10 (Kết nối tri thức với cuộc sống)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam (Vietnam Education Publishing House); year 2023 (©2023; 3rd reprint with corrections and additions); ISBN 978-604-0-38325-9; book code G1HHXS003h26
+- PDF pages: 113 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 37 placements — 31 to existing lessons, 6 NEW LESSON NEEDED
+- Vietnam's own way: Grade 10 is organised by themes rather than chronology — the discipline itself first (what history is, its role, heritage), then civilisations in widening circles (the world, Southeast Asia, Vietnam's own land), then the four industrial revolutions, and finally the community of Vietnam's 54 ethnic groups, closing with the national great-unity bloc as the frame that holds the whole national story together.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — Bài 5.1, the achievements of Greek civilisation — story beats: the ancient Greeks build their phonetic alphabet from about the 9th–8th centuries BCE, completed with 24 letters by the late 4th century BCE; Greek literature, fed by mythology, is founded on Homer's two epics, the Iliad and the Odyssey, and its drama gives Aeschylus (the Oresteia, Prometheus Bound), Sophocles (Oedipus Rex) and Euripides (The Women of Troy); its art — the Discus Thrower, the Athena and the Venus de Milo statues, paintings of the Battle of Marathon and the Abduction of Persephone — and its architecture, the Parthenon raised in the 5th century BCE on the Acropolis at Athens, the Temple of Zeus and the Mausoleum, shape Western art ever after; Greek science holds the Earth to be a sphere and the Sun the centre about which the heavenly bodies move, and its names are Thales, Pythagoras, Euclid and Archimedes; medicine begins with Hippocrates, regarded as the father of Western medicine, with diagnosis, herbal treatment, anatomy and anaesthesia; Greek historiography is born in the 5th century BCE with its first historian Herodotus and his History of the Greco-Persian Wars, followed by Thucydides' History of the Peloponnesian War and Xenophon's Hellenica; its philosophy divides into materialists (Thales, Heraclitus, Democritus) and idealists (Socrates, Plato, Pythagoras); and from 776 BCE the Greeks hold the Olympic Games every four years at the temple of Zeus in Olympia — five events (running, long jump, javelin, discus, wrestling), open to healthy free men only, the winner crowned with a wild-olive wreath and welcomed home as a hero — with the Panathenaic Games at Athens from 566 BCE beside them (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-greece-crete) | Vietnam, *Lịch sử 10 (Kết nối tri thức với cuộc sống)*, printed p. 31 |
+
+Vietnam's own way (Book 8 — G10 History (student book, Vietnamese)): Grade 10 is organised by themes rather than chronology — the discipline itself first (what history is, its role, heritage), then civilisations in widening circles (the world, Southeast Asia, Vietnam's own land), then the four industrial revolutions, and finally the community of Vietnam's 54 ethnic groups, closing with the national great-unity bloc as the frame that holds the whole national story together. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 9 — G10 Art theory & history (student book, Vietnamese)**
+- Title as printed: Mĩ thuật 10 — Lí luận và lịch sử mĩ thuật (Kết nối tri thức với cuộc sống)
+- Grade: Grade 10 (student/teacher: STUDENT)
+- Publisher: NXBGD Vietnam Education Publishing House; year 2022; ISBN 978-604-0-31098-9 (book code G1HHXM005H22; price 6.000đ)
+- PDF pages: 39 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- SCOPE NOTE: this is a Fine Arts elective (Theory and History of Fine Arts), not the History subject. Only its genuine History teaching parts are placed below — the historical method (art history as a discipline, archaeology as evidence), the civilisation anchors of its world-art survey, and Vietnamese art read as a record of the dynasties. Pure art-technique/style content (approaches to appreciation, modern and post-modern movements as styles) is named here but not placed.
+- Tally: 12 placements — 12 to existing lessons, 0 NEW LESSON NEEDED
+- Vietnam's own way: Vietnam teaches art history inside the Fine Arts subject as a three-lesson arc — what the discipline is and how it works with archaeology, a period survey of world art from cave painting to post-modern installation, then Vietnam's own art dynasty by dynasty — always ending in the pupil building a cited materials list of their own.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — Bài 2 Greek art: the Parthenon and Erechtheion, the Venus de Milo, Laocoön, Zeus and the Discobolus shaping Western sculpture and architecture ever since — story beats: Athens carves the human body so truly that the West is still copying it 2,400 years later (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-greece-crete) | Vietnam, *Mĩ thuật 10 — Lí luận và lịch sử mĩ thuật (Kết nối tri thức với cuộc sống)*, printed p. 17 |
+
+Vietnam's own way (Book 9 — G10 Art theory & history (student book, Vietnamese)): Vietnam teaches art history inside the Fine Arts subject as a three-lesson arc — what the discipline is and how it works with archaeology, a period survey of world art from cave painting to post-modern installation, then Vietnam's own art dynasty by dynasty — always ending in the pupil building a cited materials list of their own. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 35 countries (Ethiopia, France, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro, Dominican Republic, Egypt, Bolivia, Iran, Cambodia, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Yemen, Sudan, Jordan, Uzbekistan, Laos, Afghanistan, Cuba, China, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Vietnam).**

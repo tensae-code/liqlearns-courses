@@ -1,6 +1,6 @@
 # Sources — The Industrial Revolution — textiles, steam and rail
 
-countries: Ethiopia, France, Australia, Kuwait, Dominican Republic, Pakistan, Cambodia, Colombia, South Sudan, Samoa, North Macedonia, Laos, Cuba, China, Venezuela, Moldova, Honduras, Italy
+countries: Ethiopia, France, Australia, Kuwait, Dominican Republic, Pakistan, Cambodia, Colombia, South Sudan, Samoa, North Macedonia, Laos, Cuba, China, Venezuela, Moldova, Honduras, Italy, Vietnam
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 131).
 
@@ -418,3 +418,39 @@ Honduras's own way (Book 19 — Ciencias Sociales, Noveno Grado (TEACHER, 2022 e
 Italy's own way (Book 3 — La storia. Progettare il futuro, Vol. 2 (student book, Italian)): the Barbero course's second volume runs 1700–1900 as five units built on the same nuclei fondanti method — Documents, Storici a confronto debates (was the American Revolution the most revolutionary of all? was trasformismo a pathology?), Laboratorio storia and CLIL English closings per unit — with Italy's Risorgimento given two full chapters and the liberal age's own crises (brigantaggio, the Southern question, Dogali) told from inside. That way is stocked here as the way Italy teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 18 countries (Ethiopia, France, Australia, Kuwait, Dominican Republic, Pakistan, Cambodia, Colombia, South Sudan, Samoa, North Macedonia, Laos, Cuba, China, Venezuela, Moldova, Honduras, Italy).**
+
+
+## History expansion (2026-11-15) — Vietnam stocked
+
+**Book 5 — G8 History and Geography (student book, Vietnamese)**
+- Title as printed: Lịch sử và Địa lí 8 (Kết nối tri thức với cuộc sống)
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2023 (copyright; 3rd reprint with corrections and additions); ISBN 978-604-0-35043-5
+- PDF pages: 179 (cover and title page verified against the record title; printed page = PDF page − 1)
+- Verdict: COMPLETE
+- Tally: 60 placements — 23 to existing lessons, 37 NEW LESSON NEEDED
+- Vietnam's own way: Grade 8 pairs the bourgeois revolutions and industrialisation of Europe and America with Vietnam's own centuries of partition, peasant revolt and invasion, and closes the History part with the first French colonial exploitation — the lesson Vietnamese pupils are always brought back to when the book cites Hồ Chí Minh quoting the American and French Declarations.
+- Geography parts named, not placed: the whole Phần Địa lí, printed pp. 93–154 — Vietnam's territory and relief (Ch. 1, Bài 1–3), climate and waters (Ch. 2, Bài 4–8), soils and living world (Ch. 3, Bài 9–10), seas and islands (Ch. 4, Bài 11–12). Two shared themes follow it: Chủ đề chung 1, Civilisation of the Red River and Mekong Deltas (printed pp. 155–161), whose Geography sections are named here and whose History section (how people reclaimed and tamed the two deltas) is placed below; and Chủ đề chung 2, Protecting Vietnam's Sovereignty, Rights and Lawful Interests in the East Sea (printed pp. 162–171), whose law-of-the-sea sections are Civics/Geography and named here, and whose History section (the historical process of establishing sea-and-island sovereignty) is placed below.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — Bài 3, the Industrial Revolution in England — story beats: it begins in textiles with the Jenny spinning machine (1764); Arkwright's water frame (1769) leads to the first mill in 1771; Watt's steam engine (1784) — Westminster's memorial calls him "the man who multiplied many times the strength of man" — frees factories from the riverside; Cartwright's power loom (1785), Stephenson's locomotive (1814) and the first railway (1825) follow, and by 1850 England has some 10,000 km of track and is named "the workshop of the world" (History expansion, 2026-11-15; original placement slug: modern-world/the-industrial-revolution-machines-and-steam) | Vietnam, *Lịch sử và Địa lí 8 (Kết nối tri thức với cuộc sống)*, printed p. 15 |
+
+Vietnam's own way (Book 5 — G8 History and Geography (student book, Vietnamese)): Grade 8 pairs the bourgeois revolutions and industrialisation of Europe and America with Vietnam's own centuries of partition, peasant revolt and invasion, and closes the History part with the first French colonial exploitation — the lesson Vietnamese pupils are always brought back to when the book cites Hồ Chí Minh quoting the American and French Declarations. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 8 — G10 History (student book, Vietnamese)**
+- Title as printed: Lịch sử 10 (Kết nối tri thức với cuộc sống)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam (Vietnam Education Publishing House); year 2023 (©2023; 3rd reprint with corrections and additions); ISBN 978-604-0-38325-9; book code G1HHXS003h26
+- PDF pages: 113 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 37 placements — 31 to existing lessons, 6 NEW LESSON NEEDED
+- Vietnam's own way: Grade 10 is organised by themes rather than chronology — the discipline itself first (what history is, its role, heritage), then civilisations in widening circles (the world, Southeast Asia, Vietnam's own land), then the four industrial revolutions, and finally the community of Vietnam's 54 ethnic groups, closing with the national great-unity bloc as the frame that holds the whole national story together.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — Bài 6.1, the First Industrial Revolution — story beats: the first industrial revolution runs from the later 18th century, beginning in England and spreading to many countries of Europe and North America — a quoted definition fixes its essence: its starting point is the appearance of machines, and in substance it is a technical revolution, the leap from manual labour to machine labour; the advances come first in textiles: James Hargreaves' spinning jenny (1764) works 16–18 spindles under one worker and multiplies productivity many times over the hand wheel, Richard Arkwright's water-powered spinning machine (1769) makes thread finer and stronger, Edmund Cartwright's steam-powered loom (1785) raises the weaver's productivity nearly 40 times, and James Watt's improved steam engine (1784) creates a new source of power that starts England's industrialisation; the internal combustion engine follows (John Barber 1791, Samuel Brown 1823), metallurgy and transport advance together — Henry Cort's puddling method of smelting ore (1784), explained in the box as blowing hot air to melt the ore into iron, simpler and yielding much iron for machines and goods — and the first steam locomotive runs on rails in 1804 (Richard Trevithick); abroad, Robert Fulton applies the steam engine to build the first passenger steamship in the USA in 1807, Belgium industrialises from the early 19th century around steel, coal mining and textiles, and France, slowed by revolution and political instability, industrialises from about 1830 — in twenty years (1830–1850) its pig-iron output triples and its railway length grows a hundredfold, and by mid-century France is basically an industrial country (History expansion, 2026-11-15; original placement slug: modern-world/the-industrial-revolution-textiles-steam-and-rail) | Vietnam, *Lịch sử 10 (Kết nối tri thức với cuộc sống)*, printed p. 38 |
+
+Vietnam's own way (Book 8 — G10 History (student book, Vietnamese)): Grade 10 is organised by themes rather than chronology — the discipline itself first (what history is, its role, heritage), then civilisations in widening circles (the world, Southeast Asia, Vietnam's own land), then the four industrial revolutions, and finally the community of Vietnam's 54 ethnic groups, closing with the national great-unity bloc as the frame that holds the whole national story together. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 19 countries (Ethiopia, France, Australia, Kuwait, Dominican Republic, Pakistan, Cambodia, Colombia, South Sudan, Samoa, North Macedonia, Laos, Cuba, China, Venezuela, Moldova, Honduras, Italy, Vietnam).**

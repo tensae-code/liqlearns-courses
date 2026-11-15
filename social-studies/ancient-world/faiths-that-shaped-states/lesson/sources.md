@@ -1,6 +1,6 @@
 # Sources — Faiths that shaped states
 
-countries: Ethiopia, Saudi Arabia, Ecuador, India, Libya, Sri Lanka, Iraq, North Macedonia, Cuba
+countries: Ethiopia, Saudi Arabia, Ecuador, India, Libya, Sri Lanka, Iraq, North Macedonia, Cuba, Vietnam
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -190,3 +190,24 @@ Cuba's own way (Book 7 — g7-student (student book, Spanish)): World history ta
 **Acceptance count: taught in 9 countries (Ethiopia, Saudi Arabia, Ecuador, India, Libya, Sri Lanka, Iraq, North Macedonia, Cuba).**
 
 Searchable tags: Cuba, History expansion 2026-11-15, ancient-world/faiths-that-shaped-states
+
+
+## History expansion (2026-11-15) — Vietnam stocked
+
+**Book 13 — G12 History study topics (student book, Vietnamese)**
+- Title as printed: Chuyên đề học tập Lịch sử 12 (Kết nối tri thức với cuộc sống)
+- Grade: Grade 12 (student/teacher: STUDENT)
+- Publisher: NXBGD Vietnam Education Publishing House; year 2024, 2nd reprint; ISBN 978-604-0-39272-5 (book code G1HHZS004h26; price 8.000đ)
+- PDF pages: 59 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 17 placements — 12 to existing lessons, 5 NEW LESSON NEEDED
+- Vietnam's own way: the final-year electives turn from events to systems — the pupil maps the nation's whole belief ecology from family altar to world religions, studies Japan as the region's development mirror, and ends with Vietnam's own walk into ASEAN, the UN, APEC and the WTO as a dated, negotiated process.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — Chuyên đề 1 Confucianism's Vietnamese career: carried in under northern domination, it gets its temple-school when the Lý build the Văn Miếu in 1070, expands the Quốc Tử Giám under the Trần, reigns alone under the Lê sơ with village schools pushing it downward, receives a new Văn Miếu at the Nguyễn capital of Huế — then collapses with the examination system in the early 1900s, leaving its ethics of filial piety, loyalty and "respect above, yield below" in daily conduct — story beats: an imported doctrine rules the state for eight centuries and outlives its own schools as manners (History expansion, 2026-11-15; original placement slug: ancient-world/faiths-that-shaped-states) | Vietnam, *Chuyên đề học tập Lịch sử 12 (Kết nối tri thức với cuộc sống)*, printed p. 13 |
+| Vietnam part — Chuyên đề 1 Islam among the Chăm: entering Vietnam around the 10th century, Islam stands firm in Champa's spiritual life by the late 1400s and survives in two Chăm lines, the orthodox Chăm Islam and the indigenised Chăm Bà-ni, with their mosques and Ramadan rites — story beats: the faith of Arabia takes root in a Hindu-Buddhist kingdom and bends to its customs (History expansion, 2026-11-15; original placement slug: ancient-world/faiths-that-shaped-states) | Vietnam, *Chuyên đề học tập Lịch sử 12 (Kết nối tri thức với cuộc sống)*, printed p. 21 |
+
+Vietnam's own way (Book 13 — G12 History study topics (student book, Vietnamese)): the final-year electives turn from events to systems — the pupil maps the nation's whole belief ecology from family altar to world religions, studies Japan as the region's development mirror, and ends with Vietnam's own walk into ASEAN, the UN, APEC and the WTO as a dated, negotiated process. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 10 countries (Ethiopia, Saudi Arabia, Ecuador, India, Libya, Sri Lanka, Iraq, North Macedonia, Cuba, Vietnam).**

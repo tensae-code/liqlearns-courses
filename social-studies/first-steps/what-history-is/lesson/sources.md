@@ -1,6 +1,6 @@
 # Sources — What history is
 
-countries: Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy
+countries: Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy, Vietnam
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -1910,3 +1910,55 @@ Italy's own way (Book 4 — Lo spazio del tempo, Vol. 2 (student book, Italian))
 Italy's own way (Book 6 — Lo spazio del tempo, Vol. 3 (student book, Italian)): Laterza's third volume tells the "short twentieth century" and its aftermath in 19 modules, each closed by the Fare storia dossier method at its largest scale — 207 numbered documents and historiography pieces in four dossier modules, from Clark on 1914 and Lenin's April Theses to Piketty on inequality and Huntington's clash of civilisations — so the century is argued from its sources, not merely narrated. That way is stocked here as the way Italy teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 51 countries (Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy).**
+
+
+## History expansion (2026-11-15) — Vietnam stocked
+
+**Book 3 — G6 History and Geography (student book, Vietnamese)**
+- Title as printed: Lịch sử và Địa lí 6 (Kết nối tri thức với cuộc sống)
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2021 (copyright; 5th reprint with corrections and additions); ISBN 978-604-0-25153-4
+- PDF pages: 200 (title page verified against the record title; the PDF opens at the title page, printed page = PDF page)
+- Verdict: COMPLETE
+- Tally: 49 placements — 21 to existing lessons, 28 NEW LESSON NEEDED
+- Vietnam's own way: the lower-secondary course rebuilds the story from first principles — what history is, how evidence works, how time is counted — then prehistory, the ancient civilisations, Southeast Asia, and Vietnam to the 10th century, quoting the chronicles (Đại Việt sử ký toàn thư) and even a Yuan-era account (An Nam chí lược) as pupil-facing sources.
+- Geography parts named, not placed: the whole Phần Địa lí, printed pp. 95–199 — introduction to Geography; maps and ways of showing the Earth's surface (Bài 1–5); the Earth in the solar system and its motions (Bài 6–9); the Earth's structure and landforms (Bài 10–14); atmosphere, climate and climate change (Bài 15–18); water on Earth (Bài 19–21); soil and life on Earth (Bài 22–26); people and nature (Bài 27–30).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — Bài 1, History and life: what history is and why study it — story beats: from ENIAC (1946) to the laptop, everything changes with time; Hồ Chí Minh's couplet "Our people must know our history" and his 1954 words at Đền Hùng open the subject (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Vietnam, *Lịch sử và Địa lí 6 (Kết nối tri thức với cuộc sống)*, printed p. 9 |
+
+Vietnam's own way (Book 3 — G6 History and Geography (student book, Vietnamese)): the lower-secondary course rebuilds the story from first principles — what history is, how evidence works, how time is counted — then prehistory, the ancient civilisations, Southeast Asia, and Vietnam to the 10th century, quoting the chronicles (Đại Việt sử ký toàn thư) and even a Yuan-era account (An Nam chí lược) as pupil-facing sources. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 7 — G10 History Study Topics (student book, Vietnamese)**
+- Title as printed: Chuyên đề học tập Lịch sử 10 (Kết nối tri thức với cuộc sống)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam (Vietnam Education Publishing House); year 2022 (©2022; 4th reprint with corrections and additions); ISBN 978-604-0-31108-5; book code G1HHXS002h26; price 8.200đ
+- PDF pages: 68 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 17 placements — 8 to existing lessons, 9 NEW LESSON NEEDED
+- Vietnam's own way: the upper-secondary elective book teaches History as a discipline and a civic practice — one topic on how history is written and divided into fields (each field then surveyed through Vietnam's own past), one on heritage as something pupils must classify, rank and defend, and one on the state and law, where medieval law codes and five modern constitutions are read as primary sources.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — Chuyên đề 1, I.3–4, history by field; national history and world history — story beats: the same past can be studied field by field — political, military, economic, cultural, social and intellectual history, and also the histories of science and technology, education, religion and belief, literature and diplomacy — each field giving a deep, concrete knowledge that helps explain the whole; a nation's history is the shared history of all communities on its territory from the first humans to today, while world history is not the sum of national histories but the interaction of many peoples, trends and forces across them (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Vietnam, *Chuyên đề học tập Lịch sử 10 (Kết nối tri thức với cuộc sống)*, printed p. 9 |
+
+Vietnam's own way (Book 7 — G10 History Study Topics (student book, Vietnamese)): the upper-secondary elective book teaches History as a discipline and a civic practice — one topic on how history is written and divided into fields (each field then surveyed through Vietnam's own past), one on heritage as something pupils must classify, rank and defend, and one on the state and law, where medieval law codes and five modern constitutions are read as primary sources. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 8 — G10 History (student book, Vietnamese)**
+- Title as printed: Lịch sử 10 (Kết nối tri thức với cuộc sống)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam (Vietnam Education Publishing House); year 2023 (©2023; 3rd reprint with corrections and additions); ISBN 978-604-0-38325-9; book code G1HHXS003h26
+- PDF pages: 113 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 37 placements — 31 to existing lessons, 6 NEW LESSON NEEDED
+- Vietnam's own way: Grade 10 is organised by themes rather than chronology — the discipline itself first (what history is, its role, heritage), then civilisations in widening circles (the world, Southeast Asia, Vietnam's own land), then the four industrial revolutions, and finally the community of Vietnam's 54 ethnic groups, closing with the national great-unity bloc as the frame that holds the whole national story together.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — Bài 1.1, historical reality and history as people perceive it — story beats: history is everything that happened in the past; the past itself (historical reality) exists objectively and cannot be changed, but the history people hold is a reconstruction — told as stories, written down, researched, performed, memorialised, re-enacted in rites and customs — and between the two there is always a gap, because a reconstruction depends on the seeker's needs and abilities, on conditions and methods, and above all on how much authentic evidence survives; the lesson opens with Hanoi's Long Biên bridge (built 1898–1902), a historical object tied to many events of the capital and the country, works the Âu Lạc evidence — bronze arrowheads found at Cổ Loa in 1959 and bronze arrowhead moulds in 2004, beside Tô Hoài's story of the magic crossbow — and tells the folk tale of the blind men feeling an elephant, each certain of his part, to show why no account is the whole elephant (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Vietnam, *Lịch sử 10 (Kết nối tri thức với cuộc sống)*, printed p. 6 |
+| Vietnam part — Bài 2.1, why history must be learned and explored for a lifetime — story beats: every person, family, nation and humankind has a past, a present and a future, and to understand the present and trust the future one cannot avoid seeking the past — the old saying runs "review the old, know the new" (ôn cố, tri tân); the Hùng Vương era was first known through folk legends and the giỗ Tổ rites, and over more than half a century historians' research has raised knowledge of it step by step; two voices frame the duty: Ngô Sĩ Liên writes in the Đại Việt sử ký toàn thư that history records events so that good and bad deeds alike serve as mirrors and warnings for later generations, and Hồ Chí Minh's 1942 verse insists "Our people must know our history, to understand clearly the roots of the Vietnamese nation"; some pasts stay mysterious — how Egypt's pyramids were built still has no exact answer — and those gaps and mysteries are themselves the spur to keep exploring; in the age of globalisation, exploring history also teaches the achievements of all civilisations and the respect for difference that integration requires (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Vietnam, *Lịch sử 10 (Kết nối tri thức với cuộc sống)*, printed p. 11 |
+
+Vietnam's own way (Book 8 — G10 History (student book, Vietnamese)): Grade 10 is organised by themes rather than chronology — the discipline itself first (what history is, its role, heritage), then civilisations in widening circles (the world, Southeast Asia, Vietnam's own land), then the four industrial revolutions, and finally the community of Vietnam's 54 ethnic groups, closing with the national great-unity bloc as the frame that holds the whole national story together. That way is stocked here as the way Vietnam teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 52 countries (Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba, Venezuela, Moldova, Armenia, Nicaragua, Honduras, Italy, Vietnam).**
