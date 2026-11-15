@@ -1,6 +1,6 @@
 # Sources — Scale — how much smaller the map is
 
-countries: Ethiopia, Bahamas, Eritrea
+countries: Ethiopia, Bahamas, Eritrea, Rwanda
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Bahamas, Eritrea
 
 **Book 4:** *Social Studies for Grade 6 — Pupils' Book* (student book, English) — Eritrea, Ministry of Education, The State of Eritrea; year 2015 (reprinted 2015, Sabur Printing Services, Asmara); ISBN 99948-1-453-2. Title as printed: Social Studies for Grade 6 — Pupils' Book. Grade 6 (student/teacher: STUDENT). PDF pages: 127 (cover/title page verified against the record title; 2,730,732 bytes, matches record size_bytes). Verdict: COMPLETE. Records note: 7 records / 5 distinct books; the TSV release records for Grades 4 and 5 duplicate the books.json tree records of the same repo path (one book each); read via grab (curl-based GitHub API route with byte-size + blob-SHA verification), covers verified by render, full text read via pdftotext -layout. Combined Social Studies books: Geography parts placed; History/Civics parts named in each book header only. Named, not placed — History parts (named, not placed): Unit 1 Sources, printed p. 1; Unit 2 Measuring Time, printed p. 8; Unit 8 Eritrea 900 B.C.E–1300 C.E, printed p. 60; Unit 9 The Period of the Bahri Negestat, printed p. 68 Civics / life-skills parts (named, not placed): Unit 13 Caring for Younger Children, printed p. 111 Placements at liqlearns-courses-work/expansion-geography-2026-11-14/eritrea-placements.md.
 
+**Book 5:** *Amasomo Mbonezamubano — Igitabo cy'Umunyeshuri, Umwaka wa 3 w'Amashuri Abanza (Social Studies, Pupil's Book, Year 3)* (student book, Kinyarwanda) — Rwanda, REB (Ikigo Gishinzwe Guteza Imbere Uburezi mu Rwanda / Rwanda Education Board); year ©2019; ISBN no ISBN printed. Title as printed: Amasomo Mbonezamubano — Igitabo cy'Umunyeshuri, Umwaka wa 3 w'Amashuri Abanza (Social Studies, Pupil's Book, Year 3). Grade: Grade 3 (Primary 3) (student/teacher: STUDENT). PDF pages: 160 (cover verified against the record title; byte size 63,692,807 matches the edufeeds source's Content-Length exactly — read from the record's own source URL after grab.py failed with GitHub API RemoteDisconnected; the TSV release record is the same book). Verdict: COMPLETE. Non-Geography parts named, not placed: Unit 1 Umuryango mugari (The extended family, incl. caring for family property), printed pp. 1–21 (Civics); Unit 3 Isuku (Hygiene, communicable diseases), pp. 55–70 (Health); Unit 4 Imibanire n'imyitwarire iboneye (basic human rights, disability, good behaviour), pp. 71–83 (Civics); Unit 5 Ubukungu (where money comes from, spending, saving and its importance), pp. 84–93 (Economics); Unit 6 Ubuyobozi bw'Akagari n'ubw'Umurenge (Cell and Sector leadership and how leaders are appointed), pp. 94–104 (Civics); caring for school property inside Unit 2, p. 42 (Civics). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/rwanda-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The ratio | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 8, printed pp. 201–203 |
@@ -17,11 +19,14 @@ countries: Ethiopia, Bahamas, Eritrea
 | Teaching pattern and answer keys (teacher guide — evidence) — Grade 9 Unit 8 | Ethiopia, *Geography, Teacher Guide, Grade 9*, Unit 8, guide printed pp. 231–260 |
 | Bahamas part (Grade 4) — South Eastern Islands: scale models and drawings are smaller than the real thing; a scale tells the size of a plan, map or model compared with what it represents | Bahamas, *Bahamas Primary Social Studies — Digital Textbook, Grade 4*, Grade 4, South Eastern Islands: scale models and drawings are smaller than the real thing; a scale tells the size of a plan, map or model compared with what it represents — PDF p. 6 |
 | Eritrea part (ER G6 Social Studies) — Unit 3: distance and scale introduction | Eritrea, *ER G6 Social Studies*, Unit 3: distance and scale introduction — printed p. 15 |
+| Rwanda part — Ihindurangano (scale): how a very large place like a sector can be drawn small on paper; the difference between a map (ikarita) and a drawing (igishushanyo) (Unit 2 map lessons) | Rwanda, *Rwanda Grade 3 Amasomo Mbonezamubano SB*, Ihindurangano (scale): how a very large place like a sector can be drawn small on paper; the difference between a map (ikarita) and a drawing (igishushanyo) (Unit 2 map lessons) — printed pp. 28–30 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Bahamas, Eritrea).**
+**Acceptance count: taught in 4 countries (Ethiopia, Bahamas, Eritrea, Rwanda).**
 
 Searchable tags: map scale, ratio, large scale, small scale, social studies
 
 Bahamas' own way (Grade 4): From Grade 4 the format changes: instead of the integrated Social Science reader, the child gets a one-topic-per-page infographic textbook keyed spread-by-spread to the Primary Social Studies Curriculum 2022–2027 — Bahamian culture first, then the peoples who settled the islands, then the islands' own geography (southeastern islands, the Bahama Banks, island resources, tourism, transport), closing with leaders, laws, festivals and the bush plants of The Bahamas.
 
 Eritrea's own way (ER G6 Social Studies): one integrated Social Studies book per grade weaving History, Geography, Civics and Culture strands; Geography is taught through Eritrea itself first (Eritrea's location and size, Eritrean settlement, migration and disasters) with very practical, activity-led lessons.
+
+Rwanda's own way (Rwanda Grade 3 Amasomo Mbonezamubano SB): P3 moves the home ground up one rung of Rwanda's administrative ladder, from the cell to the SECTOR (Umurenge) — and it is here, at age 8–9, that formal map work begins: the sector map of Gikomero, the district map of Gasabo, symbols, scale, and the sectors that share a border with ours.

@@ -1,6 +1,6 @@
 # Sources — What makes populations change
 
-countries: Ethiopia, Colombia, India
+countries: Ethiopia, Colombia, India, Rwanda
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). Editors: Sintayehu Teka (MSc) (Content Editor), Kassie Molla (MA) (Language Editor), Hirut Woldemichael (MA) (Curriculum Editor). Illustrator: Agenchw Nega (MSc). Designer: Geda Hoka (MA). Evaluators: Dereje Guteta (PhD), Tesfaye Shiferaw (PhD), Abebe Yibeltie (MA), Hussein Seid (MA). First published 2023 under GEQIP-E. ISBN 978-99990-0-049-9. Printed by Gravity Group IND LLC, 13th Industrial Area, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. Printed page = PDF page − 6 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Colombia, India
 
 **Book 5:** *Contemporary India-I — Textbook in Geography for Class IX (Social Science)* (student book, English) — India, NCERT, New Delhi; first edition March 2006, this copy reprint 2020-21; ISBN 81-7450-520-2. Title as printed: Contemporary India-I — Textbook in Geography for Class IX (Social Science). Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 76 (cover render verified: "Contemporary India-I, Textbook in Geography for Class IX, NCERT 2020-21"; grabbed via grab.py release route, 21,811,274 bytes; duplicate TSV + books.json records grade-09/gov/india/class9-social-science-geography.pdf counted once). Verdict: COMPLETE — 6 chapters, printed pp. 1-62 + glossary. Records note: 34 records / 17 distinct books (17 TSV records in grades 6-10 + 17 books.json records that are the same books by grade/subject — duplicate records of the same NCERT titles); the 5 Geography books were read full page-by-page via pdftotext -layout after cover verification; the other 12 books are record-only (History, Civics, Economics) with no Geography content, filed for later waves. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/india-placements.md.
 
+**Book 6:** *Primary Learner's Social Studies for Rwanda Schools, P5, Revised Edition 2019* (student book, English) — Rwanda, Rwanda Education Board (REB); year ©2019, Revised Edition 2019; ISBN no ISBN printed. Title as printed: Primary Learner's Social Studies for Rwanda Schools, P5, Revised Edition 2019. Grade: Grade 5 (Primary 5) (student/teacher: STUDENT). PDF pages: 75 (condensed-layout copy; printed pagination runs to p. 129 — cover verified against the record title; byte size 28,584,194 matches the edufeeds source's Content-Length exactly; read from the record's own source URL after grab.py failed with GitHub API RemoteDisconnected; the TSV release record is the same book). Verdict: COMPLETE. Non-Geography parts named, not placed: Unit 2 Complementarity and social cohesion in society, incl. human rights, conflict management, peace, harmony and disharmony (Civics), printed pp. 13–24; Unit 3 Hygiene and sanitation, incl. diseases (Health), pp. 25–40; Unit 4 Civics and governance, incl. Rwanda as an independent nation and leadership in our province (Civics), pp. 41–52; Unit 10 Colonial Rwanda (History), pp. 112–129. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/rwanda-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Births, deaths and migration | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 6, printed pp. 146–149 |
@@ -21,8 +23,9 @@ countries: Ethiopia, Colombia, India
 | Colombia part (CS_Grado6 Postprimaria) — Módulo 4 Guía 12 Natalidad, mortalidad y migración de la población | Colombia, *Ciencias Sociales — Postprimaria Rural, Grado 6 (student guide; front matter also carries the Ética y Valores grados 6–7 line)*, Módulo 4 Guía 12 Natalidad, mortalidad y migración de la población — printed p. 138 |
 | India part (Grade 8 Resources and Development) — Ch.6: population change — births, deaths and migration; differing growth rates across the world | India, *India Grade 8 Resources and Development*, Ch.6: population change — births, deaths and migration; differing growth rates across the world — printed p. 65 |
 | India part (Grade 9 Contemporary India-I) — Ch.6: population growth and processes of change — births, deaths, migration | India, *India Grade 9 Contemporary India-I*, Ch.6: population growth and processes of change — births, deaths, migration — printed p. 56 |
+| Rwanda part — 8.5 Population growth (Unit 8) | Rwanda, *Rwanda Grade 5 Social Studies SB*, 8.5 Population growth (Unit 8) — printed p. 96 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Colombia, India).**
+**Acceptance count: taught in 4 countries (Ethiopia, Colombia, India, Rwanda).**
 
 No book error is flagged for this lesson's pages in the placements. The teacher guide was first published in 2022 against the student book's 2023; the student book is the learner text of record, and the guide is cited as evidence only.
 
@@ -33,3 +36,5 @@ Colombia's own way (CS_Grado6 Postprimaria): the rural Postprimaria Grade 6 guid
 India's own way (Grade 8 Resources and Development): Grade 8 is a resources year, world-first but India-anchored throughout: resources and their conservation, then land/soil/water/vegetation, minerals and power, agriculture, industries and human resources — every world pattern is paired with its Indian distribution map and an Indian case study (Jamshedpur steel, Ahmedabad textiles, Bangalore IT, a farm in India set against a farm in the USA).
 
 India's own way (Grade 9 Contemporary India-I): From Grade 9 the Geography book is India alone, in depth — Contemporary India-I is the physical book: size and location, physiography built from plate tectonics, drainage, the monsoon system, vegetation and wildlife, and population, each chapter working from India's own maps and census data.
+
+Rwanda's own way (Rwanda Grade 5 Social Studies SB): the pupil's book teaches the province through named Rwandan things — the five provinces with Kigali City as the case study, Rwanda's four seasons by their Kinyarwanda names (Umuhindo, Urugaryi, Itumba, Icyi), and the country's two international airports (Kigali and Kamembe) in the transport-places lesson.

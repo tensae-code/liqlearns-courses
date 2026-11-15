@@ -1,6 +1,6 @@
 # Sources — Revolution and the Seasons
 
-countries: Ethiopia, Myanmar, Turkey, Jamaica, Palestine, Bahamas, Malaysia, Eritrea, India
+countries: Ethiopia, Myanmar, Turkey, Jamaica, Palestine, Bahamas, Malaysia, Eritrea, India, Rwanda
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page - 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Myanmar, Turkey, Jamaica, Palestine, Bahamas, Malaysia, Eri
 
 **Book 10:** *The Earth : Our Habitat — Textbook in Geography for Class VI (Social Science)* (student book, English) — India, NCERT, New Delhi; first edition February 2006, this copy reprint 2020-21; ISBN 81-7450-491-5. Title as printed: The Earth : Our Habitat — Textbook in Geography for Class VI (Social Science). Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 72 (cover/title page verified against the record title — cover render checked: "The Earth : Our Habitat, Textbook in Geography for Class VI, NCERT 2020-21"; grabbed via grab.py release route, 23,496,254 bytes, SHA/size verified by grab.py; duplicate TSV + books.json records grade-06/gov/india/the-earth-our-habitat.pdf counted once). Verdict: COMPLETE — 8 chapters, printed pp. 1-64 + appendices. Records note: 34 records / 17 distinct books (17 TSV records in grades 6-10 + 17 books.json records that are the same books by grade/subject — duplicate records of the same NCERT titles); the 5 Geography books were read full page-by-page via pdftotext -layout after cover verification; the other 12 books are record-only (History, Civics, Economics) with no Geography content, filed for later waves. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/india-placements.md.
 
+**Book 11:** *Primary Learner's Social Studies for Rwanda Schools, P5, Revised Edition 2019* (student book, English) — Rwanda, Rwanda Education Board (REB); year ©2019, Revised Edition 2019; ISBN no ISBN printed. Title as printed: Primary Learner's Social Studies for Rwanda Schools, P5, Revised Edition 2019. Grade: Grade 5 (Primary 5) (student/teacher: STUDENT). PDF pages: 75 (condensed-layout copy; printed pagination runs to p. 129 — cover verified against the record title; byte size 28,584,194 matches the edufeeds source's Content-Length exactly; read from the record's own source URL after grab.py failed with GitHub API RemoteDisconnected; the TSV release record is the same book). Verdict: COMPLETE. Non-Geography parts named, not placed: Unit 2 Complementarity and social cohesion in society, incl. human rights, conflict management, peace, harmony and disharmony (Civics), printed pp. 13–24; Unit 3 Hygiene and sanitation, incl. diseases (Health), pp. 25–40; Unit 4 Civics and governance, incl. Rwanda as an independent nation and leadership in our province (Civics), pp. 41–52; Unit 10 Colonial Rwanda (History), pp. 112–129. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/rwanda-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — what revolution causes: the Sun's apparent journey, day length, seasons | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 1, printed pp. 21–23 |
@@ -34,8 +36,9 @@ countries: Ethiopia, Myanmar, Turkey, Jamaica, Palestine, Bahamas, Malaysia, Eri
 | Malaysia part (MY T2 Geografi Tingkatan 2) — Bab 3.3: the Earth's revolution (peredaran) and its effects on weather and climate | Malaysia, *MY T2 Geografi*, Bab 3.3: the Earth's revolution (peredaran) and its effects on weather and climate — printed pp. 41-47 |
 | Eritrea part (ER G4 Social Studies) — Chapter 5 መኣዝን Seasons: 5.1–5.2 What seasons are and how they happen | Eritrea, *ER G4 Social Studies*, Chapter 5 መኣዝን Seasons: 5.1–5.2 What seasons are and how they happen — printed p. 56 |
 | India part (Grade 6 The Earth Our Habitat) — Ch.3: revolution, changing seasons, solstices and equinoxes | India, *India Grade 6 The Earth Our Habitat*, Ch.3: revolution, changing seasons, solstices and equinoxes — printed p. 20 |
+| Rwanda part — 7.8 Seasons in our province: the four Rwandan seasons — short rainy (Umuhindo), short dry (Urugaryi), long rainy (Itumba), long dry (Icyi) (Unit 7) | Rwanda, *Rwanda Grade 5 Social Studies SB*, 7.8 Seasons in our province: the four Rwandan seasons — short rainy (Umuhindo), short dry (Urugaryi), long rainy (Itumba), long dry (Icyi) (Unit 7) — printed p. 89 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Turkey, Palestine, Bahamas, Malaysia, Eritrea, India). Myanmar is named here as teacher-guide evidence only, counted nowhere. Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 8 countries (Ethiopia, Turkey, Palestine, Bahamas, Malaysia, Eritrea, India, Rwanda). Myanmar is named here as teacher-guide evidence only, counted nowhere. Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grade 6 Exploratory Core, curriculum guide — evidence): the Grade 6 Social Studies year is built as three paired terms — culture and independence first, then the physical world (mountains, landmasses and water bodies), then climate, Earth movements and the atmosphere, closing on Caribbean cooperation. That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
@@ -58,3 +61,5 @@ Malaysia's own way (MY T2 Geografi Tingkatan 2): the year pairs map skills (scal
 Eritrea's own way (ER G4 Social Studies): the Tigrinya-medium primary book teaches Geography through the child's own surroundings first — our environment, protecting our soil, water, plants and animals, then maps and globes, community life, and the shapes of the land.
 
 India's own way (Grade 6 The Earth Our Habitat): The first Geography year goes planet → globe → motions → maps → Earth's domains → landforms, and only then turns home: the last two chapters are India itself (location, neighbours, physical divisions, monsoon climate, vegetation and wildlife), so world basics are immediately applied to the home country.
+
+Rwanda's own way (Rwanda Grade 5 Social Studies SB): the pupil's book teaches the province through named Rwandan things — the five provinces with Kigali City as the case study, Rwanda's four seasons by their Kinyarwanda names (Umuhindo, Urugaryi, Itumba, Icyi), and the country's two international airports (Kigali and Kamembe) in the transport-places lesson.

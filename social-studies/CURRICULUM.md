@@ -3589,3 +3589,61 @@ printed p. 190; printed p. 198), Understanding the
 Environment (printed p. 174) — the new lessons are
 taught in 1 country (Cambodia), 8 questions each.
 Geography lessons: 1361 → 1398.
+
+
+## Rwanda — Geography expansion (merged 2026-11-14)
+132 placement lines stocked from Rwanda's 7 placed
+books (13 records / 8 distinct books; Book 2, the P3
+teacher-guide record, carries 0 placements — RECORD
+MISMATCH: the file behind that record is the Religious
+Education volume of Rwanda's combined Social Studies &
+Religious Education guide, filed record-only for
+Geography, its religion parts named in the placements,
+not placed) — the REB Amasomo Mbonezamubano P2 and P3
+pupil's books and P2 teacher guide (Kinyarwanda), and
+the REB Social Studies P5 and P6 pupil's books and
+teacher guides (English, Revised Edition 2019). The
+teacher guides (Books 1, 3 and 4) are cited as the
+evidence they are, outside acceptance counts; a lesson
+counts Rwanda only where a pupil's book is stocked into
+it. Stocked into standing lessons (83 placements across
+45 lessons; no slug remappings — every existing-flagged
+slug exists on disk and every NEW slug was free). 17
+NEW lessons built (49 placements) — **The Land and
+Air**: Environmental Components — Natural and Man-Made
+(printed p. xxii (content map); printed pp. 111–112;
+printed p. 72; printed p. 78), Rwanda's Forests —
+Natural and Planted (Unit 7 lesson plans), Rwanda's
+Physical Features — Mountains, Valleys and Lakes
+(printed p. 150); **Population, Transport and Maps**:
+Locating Rwanda in East Africa and Africa (printed p.
+2; printed p. 2; printed p. 4; printed p. 5; printed
+pp. 144–145), Our Province and Its Location in Rwanda
+(printed p. xiv (content map); printed p. 5; printed p.
+7), Our Sector and Its Neighbours on the District Map
+(printed pp. 31–33), Our Sector (Umurenge) and Its
+Features (printed p. 22), Rwanda's Administrative Map —
+Provinces and Districts (printed p. 2; printed p. 2),
+Rwanda's Village and Cell — How Our Local Area Is
+Organised (printed p. 27; printed p. 27; printed p. 9),
+Social Services and Important Places in Our Province
+(printed p. xxii (content map); printed p. 86; printed
+p. 86; printed p. 34; printed p. 48; printed pp. 61–67;
+printed p. 69; printed pp. 115–117; printed pp.
+119–121), Ways We Communicate Near and Far (printed p.
+91; printed p. xxvi (content map); printed p. 175;
+printed pp. 86–87; printed p. 144; printed p. 107;
+printed pp. 220–221), What Infrastructure Is (printed
+p. 99), Where Transport Is Found — Airports, Ports and
+Stations (printed p. 104); **Culture and Work**: Making
+a Family Budget (printed p. xx (content map); printed
+p. 96; printed p. 96; printed p. 54; printed pp.
+126–128), The National Budget (printed p. 96; printed
+pp. 129–132), What the Economy Is (printed p. 53);
+**Global Issues**: The Environment Around Our School
+(printed p. 81; printed p. 74) — 16 of the new lessons
+are taught in 1 country (Rwanda), 8 questions each;
+Rwanda's Forests — Natural and Planted stands on
+teacher-guide evidence only (acceptance count 0
+countries), 8 questions.
+Geography lessons: 1398 → 1415.

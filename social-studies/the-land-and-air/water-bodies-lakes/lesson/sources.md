@@ -1,6 +1,6 @@
 # Sources — Water Bodies — Lakes
 
-countries: Ethiopia, Belarus, Guatemala, Eritrea, India
+countries: Ethiopia, Belarus, Guatemala, Eritrea, India, Rwanda
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Belarus, Guatemala, Eritrea, India
 
 **Book 7:** *Contemporary India-I — Textbook in Geography for Class IX (Social Science)* (student book, English) — India, NCERT, New Delhi; first edition March 2006, this copy reprint 2020-21; ISBN 81-7450-520-2. Title as printed: Contemporary India-I — Textbook in Geography for Class IX (Social Science). Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 76 (cover render verified: "Contemporary India-I, Textbook in Geography for Class IX, NCERT 2020-21"; grabbed via grab.py release route, 21,811,274 bytes; duplicate TSV + books.json records grade-09/gov/india/class9-social-science-geography.pdf counted once). Verdict: COMPLETE — 6 chapters, printed pp. 1-62 + glossary. Records note: 34 records / 17 distinct books (17 TSV records in grades 6-10 + 17 books.json records that are the same books by grade/subject — duplicate records of the same NCERT titles); the 5 Geography books were read full page-by-page via pdftotext -layout after cover verification; the other 12 books are record-only (History, Civics, Economics) with no Geography content, filed for later waves. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/india-placements.md.
 
+**Book 8:** *Social Studies — Teacher's Guide for Rwanda Primary Schools, P5, Revised Edition 2019* (teacher guide, English) — Rwanda, Rwanda Education Board (REB); year ©2019, Revised Edition 2019; ISBN no ISBN printed. Title as printed: Social Studies — Teacher's Guide for Rwanda Primary Schools, P5, Revised Edition 2019. Grade: Grade 5 (Primary 5) (student/teacher: TEACHER). PDF pages: 106 (cover verified against the record title — read from the record's own edufeeds source URL after grab.py failed with GitHub API RemoteDisconnected; this book appears only as a books.json record, with no size/pages in the record to check against). Verdict: COMPLETE. Cited as teacher-guide evidence only, outside acceptance counts. Non-Geography parts named, not placed: Unit 2 Complementarity and social cohesion in society (Civics), TG content map printed p. xvi; Unit 3 Hygiene and sanitation, incl. HIV/AIDS, STIs and TB (Health), p. xviii; Unit 4 Civics and governance — peer pressure, national symbols, leadership and good governance (Civics), p. xviii; Unit 10 Colonial Rwanda (History), p. xxvi. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/rwanda-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Land on every side | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 7–8 |
@@ -26,8 +28,9 @@ countries: Ethiopia, Belarus, Guatemala, Eritrea, India
 | Eritrea part (ER G8 Social Studies) — Unit 2: 2.2 Surface Water — lakes and seas | Eritrea, *ER G8 Social Studies*, Unit 2: 2.2 Surface Water — lakes and seas — printed p. 18 |
 | Eritrea part (ER G5 Social Studies) — Chapter 3: 3.5 Lakes of the world | Eritrea, *ER G5 Social Studies*, Chapter 3: 3.5 Lakes of the world — printed p. 25 |
 | India part (Grade 9 Contemporary India-I) — Ch.3: lakes of India — freshwater, saltwater, lagoons (Chilika, Pulicat, Kolleru) and what lakes do | India, *India Grade 9 Contemporary India-I*, Ch.3: lakes of India — freshwater, saltwater, lagoons (Chilika, Pulicat, Kolleru) and what lakes do — printed p. 23 |
+| Rwanda part — Importance of lakes and swamps, with examples of lakes in Rwanda (Unit 7, Lesson 2, topic area Geography) (teacher guide — evidence) | Rwanda, *Rwanda Grade 5 Social Studies TG*, Importance of lakes and swamps, with examples of lakes in Rwanda (Unit 7, Lesson 2, topic area Geography) — Unit 7 lesson plans |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Belarus, Guatemala, Eritrea, India).**
+**Acceptance count: taught in 5 countries (Ethiopia, Belarus, Guatemala, Eritrea, India). Rwanda is named here as teacher-guide evidence only, counted nowhere.**
 
 Pairing warning: the Grade 8 teacher guide is an Addis Ababa bureau book and the student book is an Amhara bureau book; they are NOT edition-matched, and the guide in hand is truncated (printed pp. 1–47 only, Units 1–3). Pupil content in this lesson comes from the Amhara student book; anything from the guide is labelled (teacher guide — evidence) and never presented as pupil-taught.
 
@@ -42,3 +45,5 @@ Eritrea's own way (ER G8 Social Studies): Grade 8 is the Eritrea-physical-geogra
 Eritrea's own way (ER G5 Social Studies): Grade 5 widens from the village to the world — Eritrea's regions (zobas) and neighbours, the continents, islands, oceans, seas, lakes and rivers of the Earth, then back home to the Red Sea, trade and transport, maps and weather.
 
 India's own way (Grade 9 Contemporary India-I): From Grade 9 the Geography book is India alone, in depth — Contemporary India-I is the physical book: size and location, physiography built from plate tectonics, drainage, the monsoon system, vegetation and wildlife, and population, each chapter working from India's own maps and census data.
+
+Rwanda's own way (Rwanda Grade 5 Social Studies TG) (teacher guide — evidence): from P5 the medium is English and the organising frame is the child's own PROVINCE — its location, services, environment, climate, population and infrastructure — before the frame widens to the whole country at P6. That evidence is stocked here as the way Rwanda teaches this thing; it does not change the acceptance count above.

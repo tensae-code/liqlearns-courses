@@ -1,6 +1,6 @@
 # Sources — Getting around — roads first
 
-countries: Ethiopia, Guatemala, Colombia, Malaysia, India
+countries: Ethiopia, Guatemala, Colombia, Malaysia, India, Rwanda
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Guatemala, Colombia, Malaysia, India
 
 **Book 6:** *Contemporary India-II — Textbook in Geography for Class X (Social Science)* (student book, English) — India, NCERT, New Delhi; first edition January 2006, this copy reprint 2020-21; ISBN 81-7450-644-6. Title as printed: Contemporary India-II — Textbook in Geography for Class X (Social Science). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 101 (cover render verified: "Contemporary India II, Textbook in Geography for Class X, NCERT 2020-21"; grabbed via grab.py release route, 15,769,167 bytes; duplicate TSV + books.json records grade-10/gov/india/class10-social-science-geography.pdf counted once). Verdict: COMPLETE — 7 chapters, printed pp. 1-91 + appendices and glossary to p. 96. Records note: 34 records / 17 distinct books (17 TSV records in grades 6-10 + 17 books.json records that are the same books by grade/subject — duplicate records of the same NCERT titles); the 5 Geography books were read full page-by-page via pdftotext -layout after cover verification; the other 12 books are record-only (History, Civics, Economics) with no Geography content, filed for later waves. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/india-placements.md.
 
+**Book 7:** *Primary Learner's Social Studies for Rwanda Schools, P5, Revised Edition 2019* (student book, English) — Rwanda, Rwanda Education Board (REB); year ©2019, Revised Edition 2019; ISBN no ISBN printed. Title as printed: Primary Learner's Social Studies for Rwanda Schools, P5, Revised Edition 2019. Grade: Grade 5 (Primary 5) (student/teacher: STUDENT). PDF pages: 75 (condensed-layout copy; printed pagination runs to p. 129 — cover verified against the record title; byte size 28,584,194 matches the edufeeds source's Content-Length exactly; read from the record's own source URL after grab.py failed with GitHub API RemoteDisconnected; the TSV release record is the same book). Verdict: COMPLETE. Non-Geography parts named, not placed: Unit 2 Complementarity and social cohesion in society, incl. human rights, conflict management, peace, harmony and disharmony (Civics), printed pp. 13–24; Unit 3 Hygiene and sanitation, incl. diseases (Health), pp. 25–40; Unit 4 Civics and governance, incl. Rwanda as an independent nation and leadership in our province (Civics), pp. 41–52; Unit 10 Colonial Rwanda (History), pp. 112–129. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/rwanda-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Roads dominate | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 5, printed pp. 138–141 |
@@ -23,8 +25,9 @@ countries: Ethiopia, Guatemala, Colombia, Malaysia, India
 | Colombia part (CS_Grado2_01) — Guía 5 story of vereda La Portada: building the road brings transport, school access and health services | Colombia, *Ciencias Sociales 2 — Primera Cartilla, Escuela Nueva*, Guía 5 story of vereda La Portada: building the road brings transport, school access and health services — printed pp. 85–88 |
 | Malaysia part (MY T2 Geografi Tingkatan 2) — Bab 5.1 Pengangkutan di Malaysia: land transport | Malaysia, *MY T2 Geografi*, Bab 5.1 Pengangkutan di Malaysia: land transport — printed pp. 70-76 |
 | India part (Grade 10 Contemporary India-II) — Ch.7 Lifelines of National Economy: India's road network — Golden Quadrilateral, National Highways, state and district roads, road density | India, *India Grade 10 Contemporary India-II*, Ch.7 Lifelines of National Economy: India's road network — Golden Quadrilateral, National Highways, state and district roads, road density — printed p. 79 |
+| Rwanda part — 9.4 Importance of having good roads in our province (Unit 9) | Rwanda, *Rwanda Grade 5 Social Studies SB*, 9.4 Importance of having good roads in our province (Unit 9) — printed p. 105 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Guatemala, Colombia, Malaysia, India).**
+**Acceptance count: taught in 6 countries (Ethiopia, Guatemala, Colombia, Malaysia, India, Rwanda).**
 
 Guatemala's own way: one combined Social Studies and Citizenship book per grade, organised in four units that alternate History of Guatemala/Central America with the physical geography of the isthmus — every map carries the note about the unresolved Belize territorial differendum, and Geography is always worked on maps of the seven Central American countries with Guatemala's own Sierra de las Minas, Motagua river and Maya Biosphere as the home examples. That way is stocked here as the way Guatemala teaches this thing.
 
@@ -35,3 +38,5 @@ Colombia's own way (CS_Grado2_01): Escuela Nueva self-paced guides (parts A–D:
 Malaysia's own way (MY T2 Geografi Tingkatan 2): the year pairs map skills (scale, topographic maps) with weather and climate, then transport and telecommunications as the human-geography core, an Asia regional study, and global warming with green technology as the environmental close.
 
 India's own way (Grade 10 Contemporary India-II): Contemporary India-II is the human/economic book, matching Part I's physical book: India's resources, forests, water, agriculture, minerals and energy, manufacturing and the "lifelines" (transport, communication, trade) — taught throughout as development-versus-environment argument, with movements and case studies (Chipko, Narmada Bachao, rooftop rainwater harvesting in the Thar) carrying the criticism.
+
+Rwanda's own way (Rwanda Grade 5 Social Studies SB): the pupil's book teaches the province through named Rwandan things — the five provinces with Kigali City as the case study, Rwanda's four seasons by their Kinyarwanda names (Umuhindo, Urugaryi, Itumba, Icyi), and the country's two international airports (Kigali and Kamembe) in the transport-places lesson.

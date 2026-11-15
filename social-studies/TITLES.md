@@ -103,7 +103,7 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **1398**
+Geography lessons across the eight Geography titles: **1415**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -890,3 +890,20 @@ Traditional Festivals — Cambodia; Global Issues: A
 World System Being Reordered, Noise Pollution, Solid
 Waste and Disposal, The European Union as an Economic
 Space and Understanding the Environment.
+
++17 for Rwanda, 2026-11-14 — The Land and Air:
+Environmental Components — Natural and Man-Made,
+Rwanda's Forests — Natural and Planted and Rwanda's
+Physical Features — Mountains, Valleys and Lakes;
+Population, Transport and Maps: Locating Rwanda in East
+Africa and Africa, Our Province and Its Location in
+Rwanda, Our Sector and Its Neighbours on the District
+Map, Our Sector (Umurenge) and Its Features, Rwanda's
+Administrative Map — Provinces and Districts, Rwanda's
+Village and Cell — How Our Local Area Is Organised,
+Social Services and Important Places in Our Province,
+Ways We Communicate Near and Far, What Infrastructure
+Is and Where Transport Is Found — Airports, Ports and
+Stations; Culture and Work: Making a Family Budget, The
+National Budget and What the Economy Is; Global Issues:
+The Environment Around Our School.

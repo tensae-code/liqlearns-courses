@@ -1,0 +1,22 @@
+# Sources — Our Province and Its Location in Rwanda
+
+countries: Rwanda
+
+**Book 1:** *Social Studies — Teacher's Guide for Rwanda Primary Schools, P5, Revised Edition 2019* (teacher guide, English) — Rwanda, Rwanda Education Board (REB); year ©2019, Revised Edition 2019; ISBN no ISBN printed. Title as printed: Social Studies — Teacher's Guide for Rwanda Primary Schools, P5, Revised Edition 2019. Grade: Grade 5 (Primary 5) (student/teacher: TEACHER). PDF pages: 106 (cover verified against the record title — read from the record's own edufeeds source URL after grab.py failed with GitHub API RemoteDisconnected; this book appears only as a books.json record, with no size/pages in the record to check against). Verdict: COMPLETE. Cited as teacher-guide evidence only, outside acceptance counts. Non-Geography parts named, not placed: Unit 2 Complementarity and social cohesion in society (Civics), TG content map printed p. xvi; Unit 3 Hygiene and sanitation, incl. HIV/AIDS, STIs and TB (Health), p. xviii; Unit 4 Civics and governance — peer pressure, national symbols, leadership and good governance (Civics), p. xviii; Unit 10 Colonial Rwanda (History), p. xxvi. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/rwanda-placements.md.
+
+**Book 2:** *Primary Learner's Social Studies for Rwanda Schools, P5, Revised Edition 2019* (student book, English) — Rwanda, Rwanda Education Board (REB); year ©2019, Revised Edition 2019; ISBN no ISBN printed. Title as printed: Primary Learner's Social Studies for Rwanda Schools, P5, Revised Edition 2019. Grade: Grade 5 (Primary 5) (student/teacher: STUDENT). PDF pages: 75 (condensed-layout copy; printed pagination runs to p. 129 — cover verified against the record title; byte size 28,584,194 matches the edufeeds source's Content-Length exactly; read from the record's own source URL after grab.py failed with GitHub API RemoteDisconnected; the TSV release record is the same book). Verdict: COMPLETE. Non-Geography parts named, not placed: Unit 2 Complementarity and social cohesion in society, incl. human rights, conflict management, peace, harmony and disharmony (Civics), printed pp. 13–24; Unit 3 Hygiene and sanitation, incl. diseases (Health), pp. 25–40; Unit 4 Civics and governance, incl. Rwanda as an independent nation and leadership in our province (Civics), pp. 41–52; Unit 10 Colonial Rwanda (History), pp. 112–129. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — Describe the location of our province; identify the neighbouring provinces (Unit 1) (teacher guide — evidence) | Rwanda, *Rwanda Grade 5 Social Studies TG*, Describe the location of our province; identify the neighbouring provinces (Unit 1) — printed p. xiv (content map) |
+| Sub lesson 1 — 1.1 Our provinces and their locations: Rwanda's five provinces on the administrative map (Unit 1, Our Province and its location in Rwanda) | Rwanda, *Rwanda Grade 5 Social Studies SB*, 1.1 Our provinces and their locations: Rwanda's five provinces on the administrative map (Unit 1, Our Province and its location in Rwanda) — printed p. 5 |
+| Sub lesson 1 — 1.2 A case study of Kigali City Province (Unit 1) | Rwanda, *Rwanda Grade 5 Social Studies SB*, 1.2 A case study of Kigali City Province (Unit 1) — printed p. 7 |
+| Sub lesson 2 — Rwanda's way — the book's own teaching way | Rwanda — the book's own way of teaching (see below) |
+
+**Acceptance count: taught in 1 country (Rwanda).**
+
+Rwanda's own way (Rwanda Grade 5 Social Studies TG) (teacher guide — evidence): from P5 the medium is English and the organising frame is the child's own PROVINCE — its location, services, environment, climate, population and infrastructure — before the frame widens to the whole country at P6. That book is a teacher guide, cited as evidence only; Rwanda is counted in this lesson for its student book(s) named here, not for this guide.
+
+Rwanda's own way (Rwanda Grade 5 Social Studies SB): the pupil's book teaches the province through named Rwandan things — the five provinces with Kigali City as the case study, Rwanda's four seasons by their Kinyarwanda names (Umuhindo, Urugaryi, Itumba, Icyi), and the country's two international airports (Kigali and Kamembe) in the transport-places lesson.
+
+Searchable tags: our province and its location in rwanda, Rwanda, social studies, population-transport-and-maps

@@ -1,10 +1,14 @@
 # Sources — Over-population — too many for the resources
 
-countries: Ethiopia
+countries: Ethiopia, Rwanda
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
 **Book 2:** *Geography, Teacher Guide, Grade 9* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). Editors: Sintayehu Teka (MSc) (Content Editor), Kassie Molla (MA) (Language Editor), Hirut Woldemichael (MA) (Curriculum Editor). First published 2022 under GEQIP-E. (No ISBN printed in the pages read.) Printed page = PDF page − 22 for the body (front matter in roman numerals). Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-teacher-placements.md.
+
+**Book 3:** *Social Studies — Teacher's Guide for Rwanda Primary Schools, P5, Revised Edition 2019* (teacher guide, English) — Rwanda, Rwanda Education Board (REB); year ©2019, Revised Edition 2019; ISBN no ISBN printed. Title as printed: Social Studies — Teacher's Guide for Rwanda Primary Schools, P5, Revised Edition 2019. Grade: Grade 5 (Primary 5) (student/teacher: TEACHER). PDF pages: 106 (cover verified against the record title — read from the record's own edufeeds source URL after grab.py failed with GitHub API RemoteDisconnected; this book appears only as a books.json record, with no size/pages in the record to check against). Verdict: COMPLETE. Cited as teacher-guide evidence only, outside acceptance counts. Non-Geography parts named, not placed: Unit 2 Complementarity and social cohesion in society (Civics), TG content map printed p. xvi; Unit 3 Hygiene and sanitation, incl. HIV/AIDS, STIs and TB (Health), p. xviii; Unit 4 Civics and governance — peer pressure, national symbols, leadership and good governance (Civics), p. xviii; Unit 10 Colonial Rwanda (History), p. xxvi. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/rwanda-placements.md.
+
+**Book 4:** *Primary Learner's Social Studies for Rwanda Schools, P5, Revised Edition 2019* (student book, English) — Rwanda, Rwanda Education Board (REB); year ©2019, Revised Edition 2019; ISBN no ISBN printed. Title as printed: Primary Learner's Social Studies for Rwanda Schools, P5, Revised Edition 2019. Grade: Grade 5 (Primary 5) (student/teacher: STUDENT). PDF pages: 75 (condensed-layout copy; printed pagination runs to p. 129 — cover verified against the record title; byte size 28,584,194 matches the edufeeds source's Content-Length exactly; read from the record's own source URL after grab.py failed with GitHub API RemoteDisconnected; the TSV release record is the same book). Verdict: COMPLETE. Non-Geography parts named, not placed: Unit 2 Complementarity and social cohesion in society, incl. human rights, conflict management, peace, harmony and disharmony (Civics), printed pp. 13–24; Unit 3 Hygiene and sanitation, incl. diseases (Health), pp. 25–40; Unit 4 Civics and governance, incl. Rwanda as an independent nation and leadership in our province (Civics), pp. 41–52; Unit 10 Colonial Rwanda (History), pp. 112–129. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/rwanda-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -12,7 +16,13 @@ countries: Ethiopia
 | Sub lesson 2 — The symptoms | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 6, printed pp. 164–166 |
 | Teaching pattern and answer keys (teacher guide — evidence) — Grade 9 Unit 6 | Ethiopia, *Geography, Teacher Guide, Grade 9*, Unit 6, guide printed pp. 177–206 |
 | The optimum itself — the best-fit size | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 6, printed pp. 162–164 |
+| Rwanda part — Overpopulation and population explosion: problems and consequences (Unit 8) (teacher guide — evidence) | Rwanda, *Rwanda Grade 5 Social Studies TG*, Overpopulation and population explosion: problems and consequences (Unit 8) — printed p. xxiv (content map) |
+| Rwanda part — 8.3 Problems caused by high population growth (Unit 8) | Rwanda, *Rwanda Grade 5 Social Studies SB*, 8.3 Problems caused by high population growth (Unit 8) — printed p. 94 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Rwanda).**
 
 Searchable tags: over-population, symptoms, famine, unemployment, landlessness, social studies
+
+Rwanda's own way (Rwanda Grade 5 Social Studies TG) (teacher guide — evidence): from P5 the medium is English and the organising frame is the child's own PROVINCE — its location, services, environment, climate, population and infrastructure — before the frame widens to the whole country at P6. That book is a teacher guide, cited as evidence only; Rwanda is counted in this lesson for its student book(s) named here, not for this guide.
+
+Rwanda's own way (Rwanda Grade 5 Social Studies SB): the pupil's book teaches the province through named Rwandan things — the five provinces with Kigali City as the case study, Rwanda's four seasons by their Kinyarwanda names (Umuhindo, Urugaryi, Itumba, Icyi), and the country's two international airports (Kigali and Kamembe) in the transport-places lesson.

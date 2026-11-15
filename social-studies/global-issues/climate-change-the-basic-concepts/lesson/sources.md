@@ -1,6 +1,6 @@
 # Sources — Climate change — the basic concepts
 
-countries: Ethiopia, Costa Rica, Dominican Republic
+countries: Ethiopia, Costa Rica, Dominican Republic, Rwanda
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -8,14 +8,17 @@ countries: Ethiopia, Costa Rica, Dominican Republic
 
 **Book 3:** *Ciencias Sociales — Quinto Grado, Segundo Ciclo, Educación Primaria (Libro Abierto, Serie 1, segunda edición)* (student book, Spanish) — Dominican Republic, Ministerio de Educación (MINERD), República Dominicana; Libro Abierto Serie 1, second edition; ISBN 978-9945-646-02-3 (printed in the book). Title as printed: Ciencias Sociales — Quinto Grado, Segundo Ciclo, Educación Primaria (Libro Abierto, Serie 1, segunda edición). Grade 5 (student). 192 PDF pp. (cover verified against the record title; byte size 95,210,417 matches the GitHub release asset exactly and page count matches the record). Verdict: COMPLETE (combined book — Geography parts placed below; History/Civics parts named in the placements, not placed: Unidad 4 La historia como ciencia, printed p. 58; Unidad 5 Historia de América, p. 74; Unidad 6 América y el Caribe en el siglo XIX, p. 90; Unidad 7 Historia dominicana, p. 106; Unidad 8 Nacionalidad y ciudadanía (Civics), p. 124; Unidad 9 Organización de la sociedad (Civics), p. 142; Unidad 10 Convivencia humana (Civics), p. 158). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/dominican-republic-placements.md.
 
+**Book 4:** *Social Studies for Rwanda Schools — Primary 6, Pupil's Book, Revised Edition 2019* (student book, English) — Rwanda, Rwanda Education Board (REB); year ©2019, Revised Edition 2019; ISBN no ISBN printed. Title as printed: Social Studies for Rwanda Schools — Primary 6, Pupil's Book, Revised Edition 2019. Grade: Grade 6 (Primary 6) (student/teacher: STUDENT). PDF pages: 157 (condensed-layout copy; printed pagination runs to p. 277 — cover verified against the record title; byte size 143,704,475 matches the edufeeds source's Content-Length exactly, the assembled file's prefix matches an independently downloaded sequential partial, and the PDF EOF sits at the file end; read from the record's own source URL after grab.py failed with GitHub API RemoteDisconnected; the TSV release record is the same book). Verdict: COMPLETE. Non-Geography parts named, not placed: Unit 2 Civics and governance apart from regional co-operation — national unity and Ndi Umunyarwanda, international co-operation and the UN, government and non-governmental organisations, heroism, risky behaviour, citizenship, leadership and organs of government (Civics), printed pp. 8–95; Unit 3 Hygiene — puberty, menstrual hygiene, chronic diseases (diabetes, cancer) (Health), pp. 96–113; Unit 11 Post independent Rwanda (History), pp. 230–243; Unit 12 The 1994 Genocide Against the Tutsi, incl. the Holocaust and other genocides (History), pp. 244–262; Unit 13 Effects of foreigners on East Africa — explorers, missionaries, traders, colonialists (History), pp. 263–277. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/rwanda-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Weather today, climate over years | G12 student #25, printed pp. 35–37 |
 | Sub lesson 2 — What climate change means | G12 student #25, printed pp. 35–37 |
 | Costa Rica part — global climate change, its geographic dimension | Costa Rica, *Antología CONED 8*, Grade 8, Unit 2 Tema 1 A — printed p. 46 |
 | Dominican Republic part (Grade 5) — Climate change | Dominican Republic, *Ciencias Sociales, Quinto Grado, Primaria (Libro Abierto)*, Grade 5, Climate change — printed p. 34 |
+| Rwanda part — 6.3.2 Climate change (Unit 6) | Rwanda, *Rwanda Grade 6 Social Studies SB*, 6.3.2 Climate change (Unit 6) — printed p. 172 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Costa Rica, Dominican Republic).**
+**Acceptance count: taught in 4 countries (Ethiopia, Costa Rica, Dominican Republic, Rwanda).**
 
 No book error in the placements for this lesson is taught here. Figures and dates are taught exactly as the placements report them, as the book's own record.
 
@@ -24,3 +27,5 @@ Costa Rica's own way: an almost purely geographical anthology — earth dynamics
 Searchable tags: climate change, weather, climate, global warming, IPCC, Gondar, Gambella, social studies, Costa Rica, CONED Antología, Estudios Sociales
 
 Dominican Republic's own way (Grade 5): Three geography units climb from the planet to the country: general geography and the American continent's location, then how climate varies across the continents — with climographs the children draw and read themselves — then the Dominican Republic's own climate, activities and population, ending with a “discovering the geography of my country” field activity.
+
+Rwanda's own way (Rwanda Grade 6 Social Studies SB): the P6 pupil's book is the fullest Geography book of the set — a whole unit on direction and location works Rwanda onto the East African and African maps by latitude and longitude and time zones, then physical features and climate, and a climate-change sequence (types, change, effects, overcoming) sits inside it; regional co-operation is taught bloc by bloc (COMESA, CEPGL, ECCAS, AU, NEPAD).
