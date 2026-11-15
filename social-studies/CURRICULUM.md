@@ -769,3 +769,45 @@ Economy (pp. 90–109), Unit 6 Responsible Citizenship
 Lesson 28 (p. 174 — History), Unit 8 The Prophets
 (pp. 184–201) and Unit 9 The Prophet's Biography
 (pp. 202–227). Geography lessons: 579 → 583.
+## Geography expansion — Morocco — built 2026-11-14
+
+Morocco — 14 placements stocked from 1 book:
+*Dalil Moufid Ijtiamiat 5e / Teacher's Guide, Social Studies,
+Year 5 Primary* (teacher guide, Arabic, COMPLETE; 1 record /
+1 distinct book; Ministry of National Education, Morocco;
+read via the publisher's own PDF at the record's source_url —
+the GitHub tree path in the record returns 404, the book is
+release-secured only, so the identical publisher file was
+read, named in every sources file). All 14 placements are
+teacher-guide evidence, cited as the evidence they are,
+outside acceptance counts. 3 stocked into standing lessons —
+**People and Resources**: Crude density (Geography Lesson 8,
+printed p. 104 — meaning of population density part; lesson
+stays taught in 1 country, Ethiopia, Morocco named as
+teacher-guide evidence only) and Tourism — selling the
+landscape (Geography Lesson 9, printed p. 108 — Morocco's
+tourism assets and activities part; acceptance unchanged);
+**Global Issues**: What causes desertification (Geography
+Lesson 12, printed p. 115 — desertification part; acceptance
+unchanged) — and 11 new lessons built (all teacher-guide
+evidence only, acceptance count 0 countries, 8 questions
+each) — in **Population, Transport and Maps**: Morocco —
+map, borders and cities (Geography Lesson 1, printed p. 89),
+Drawing a relief map of Morocco (Lesson 3, printed p. 91),
+Morocco's population distribution (Lesson 8, printed p. 104)
+and Morocco's transport networks (Lesson 11, printed
+p. 113); in **The Land and Air**: Morocco's relief —
+mountains, plateaus and plains (Lesson 2, printed p. 88),
+Morocco's climate — temperature and rainfall (Lesson 4,
+printed p. 93) and Morocco's rivers and dams (Lesson 5,
+printed p. 96); in **People and Resources**: Moroccan
+agriculture and livestock (Lesson 6, printed p. 98),
+Morocco's two sea fronts and ports (Lesson 7, printed
+p. 102) and Morocco's minerals and the phosphate industry
+(Lesson 10, printed p. 110); in **Global Issues**:
+Environmental problems in Morocco (Lesson 12, printed
+p. 115 — pollution, water scarcity, positive behaviours and
+the Green Generation 2020-2030 strategy part). Non-Geography
+parts named, not placed: History component (12 lessons,
+printed pp. 43-87) and Civics component (11 lessons, printed
+pp. 119-179). Geography lessons: 583 → 594.

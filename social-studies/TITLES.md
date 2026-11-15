@@ -37,14 +37,18 @@ the one title at rising depth wherever a title spans both books
   (including colouring Suriname's map and flag, Argentina's
   population today, thematic maps of Mercosur integration, a
   day on the border, Iceland's administrative districts and
-  voyaging and settling the Pacific islands, and movement
-  — people, goods and ideas).
+  voyaging and settling the Pacific islands, movement
+  — people, goods and ideas, and Morocco's map, borders and
+  cities, drawing a relief map of Morocco, Morocco's
+  population distribution and Morocco's transport networks).
 - `people-and-resources/` — settlement, natural resources,
   economic activities, and looking after the land (including
   quality of life — Argentina and Latin America compared,
   Mercosur economic integration, kinds of integration, the
-  South American gas pipeline database and India's growing
-  economy).
+  South American gas pipeline database, India's growing
+  economy, Moroccan agriculture and livestock, Morocco's two
+  sea fronts and ports, and Morocco's minerals and the
+  phosphate industry).
 - `ethiopia-ancient-and-medieval/` — Ethiopia from the earliest
   times through the medieval kingdoms and sultanates.
 - `africa-to-1500/` — Africa's peoples, states and trade to
@@ -59,8 +63,10 @@ the one title at rising depth wherever a title spans both books
   boundary map of Iceland, India — landscape and monsoon
   climate, hot-spot islands, how coral atolls form and high
   islands and low islands of Micronesia, place — what
-  makes a place, and the Arabian Peninsula — location and
-  land).
+  makes a place, the Arabian Peninsula — location and
+  land, Morocco's relief — mountains, plateaus and plains,
+  Morocco's climate — temperature and rainfall, and
+  Morocco's rivers and dams).
 - `culture-and-work/` — culture, economic activities, trade,
   and tax (including agriculture in Zambia's agro-ecological
   regions, festivals of the world's religions, sacred texts,
@@ -79,12 +85,13 @@ the one title at rising depth wherever a title spans both books
 - `global-issues/` — today's shared problems: population
   pressure, HIV/AIDS, climate, water, forests — and protecting
   the environment where you live (including India's
-  environmental problems). (Grade 8 part: no teacher
+  environmental problems and environmental problems in
+  Morocco). (Grade 8 part: no teacher
   evidence yet.)
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **583**
+Geography lessons across the eight Geography titles: **594**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -119,4 +126,14 @@ settling the Pacific islands; +4 for Saudi Arabia,
 2026-11-14 — The Land and Air: Place — what makes a place
 and The Arabian Peninsula — location and land; Population,
 Transport and Maps: Movement — people, goods and ideas;
-Earth and Space: The Moon and its phases).
+Earth and Space: The Moon and its phases; +11 for Morocco,
+2026-11-14 — Population, Transport and Maps: Morocco —
+map, borders and cities, Drawing a relief map of Morocco,
+Morocco's population distribution and Morocco's transport
+networks; The Land and Air: Morocco's relief — mountains,
+plateaus and plains, Morocco's climate — temperature and
+rainfall and Morocco's rivers and dams; People and
+Resources: Moroccan agriculture and livestock, Morocco's
+two sea fronts and ports and Morocco's minerals and the
+phosphate industry; Global Issues: Environmental problems
+in Morocco).
