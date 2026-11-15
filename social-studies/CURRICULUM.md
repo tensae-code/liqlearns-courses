@@ -1916,3 +1916,117 @@ Ecuador's provinces (Grade 5, printed p. 148); in
 (Grade 5, printed p. 166) — the new lessons taught in
 1 country (Ecuador), 8 questions each.
 Geography lessons: 756 → 777.
+
+## Geography expansion — China — built 2026-11-14
+
+China — 52 placements stocked from 4 records / 4
+distinct books, all four read and filed, all PEP
+（人民教育出版社， People's Education Press), Beijing,
+all Chinese. Placed books: *地理 Geography, Grade 8,
+second volume* (student book, 2013, ISBN
+978-7-107-27420-6, 111 PDF pp., PARTIAL — the record
+is named "full-year" but the file holds only the
+second-semester volume 下册， Chapters 5–10; the
+first-semester volume 上册， Chapters 1–4, is NOT in
+the file — a library debt; 14 placements), *地理
+Geography, Grade 7, second volume* (student book,
+2012, ISBN 978-7-107-25251-8, 107 PDF pp., PARTIAL —
+only 下册， Chapters 6–10; 上册， Chapters 1–5, NOT in
+the file — a library debt; 13 placements), *地理
+必修第二册 (Geography, Compulsory Book 2)* (student
+book, Grade 10 as recorded, 2019, ISBN
+978-7-107-33874-8, 132 PDF pp., COMPLETE — Chapters
+3–5, missing from the teacher-guide file, are read
+and placed from the student book itself; 19
+placements) and *地理 必修第二册 教师教学用书
+(Teacher's Teaching Book)* (teacher guide, Grade 11
+as recorded — the guide to the Grade 10 student book;
+the record's kind field wrongly says "student", it
+IS the Teacher's Guide, carried exactly as filed;
+2019, 141 PDF pp., PARTIAL — the PDF ends at printed
+p. 123, Chapters 3–5 of the guide NOT in the file —
+a library debt; 6 placements, cited as teacher-guide
+evidence only, outside acceptance counts). China's
+junior records are cross-filed in the library —
+cover identity wins, exactly as the placements
+state. China's own way (Grade 8 Vol. 2): after the
+world and national survey of Grade 7 and Grade 8
+Volume 1, China is re-taught region by region — each
+of the four great regions gets the same treatment
+(natural features and agriculture first, then one
+emblematic sub-region or city in depth), closing
+with China's place in the world. China's own way
+(Grade 7 Vol. 2): world regional geography taught
+continent-by-continent and neighbour-by-neighbour —
+Asia first and in most detail, then the nearby
+countries, then the other eastern-hemisphere
+regions, the Americas, and the polar regions last.
+China's own way (Grade 10): senior-high human
+geography built entirely around China's own
+questions — population first, then villages and
+towns, then where each industry sits, then transport
+and regional development in both directions, closing
+with the environment and China's own national
+strategies; every chapter ends with a problem
+inquiry from Chinese everyday life, and two sections
+carry GIS applications. Stocked into standing
+lessons — **Population, Transport and Maps**:
+Population distribution (Grade 10 student, Ch. 1 §1,
+printed p. 2; Grade 11 teacher guide, Ch. 1 §1,
+printed p. 4, evidence only — now taught in 9
+countries) and Kinds of migration (Grade 10 student,
+Ch. 1 §2, printed p. 8; Grade 11 teacher guide,
+Ch. 1 §2, printed p. 13, evidence only — now taught
+in 9 countries); **Resources and Conflict**:
+Sustainable development — meeting needs without
+stealing the future (Grade 10 student, Ch. 5 §2,
+printed p. 101 — now taught in 2 countries). New
+lessons (student books, taught in 1 country (China),
+8 questions each; the four marked † also carry the
+Grade 11 teacher guide as evidence) — **The Land
+and Air**: China's geographical differences — the
+Qinling–Huai line (G8, printed p. 1), China's
+Northeast — white mountains, black soil (G8, p. 13),
+The Loess Plateau (G8, p. 23), Taiwan Province (G8,
+p. 65), The Tarim Basin — an arid treasure land (G8,
+p. 76), Asia — location and extent (G7, p. 2), Asia's
+natural environment (G7, p. 6), Japan (G7, p. 14),
+Southeast Asia (G7, p. 22), India (G7, p. 30), Russia
+(G7, p. 37), Western Europe (G7, p. 52), Sub-Saharan
+Africa (G7, p. 60), Australia (G7, p. 67), The United
+States (G7, p. 74) and Brazil (G7, p. 82); **People
+and Resources**: China's Northern Region — nature
+and agriculture (G8, p. 8), China's Southern Region
+— nature and agriculture (G8, p. 44), China's
+Northwest Region — nature and agriculture (G8,
+p. 72) and The Qinghai–Tibet Region — nature and
+agriculture (G8, p. 84); **Population, Transport
+and Maps**: Beijing — the capital of the motherland
+(G8, p. 32), The Yangtze River Delta — land of fish
+and rice (G8, p. 49), Population capacity † (G10,
+p. 16; guide p. 28), How to view the migrant-worker
+phenomenon (G10, p. 21), Spatial structure of
+villages and towns † (G10, p. 24; guide p. 55),
+Urbanisation † (G10, p. 31; guide p. 70), From the
+city centre to the suburbs — where would you choose
+to live? (G10, p. 51), Regional development and
+transport layout (G10, p. 80), Transport layout and
+regional development (G10, p. 87) and How to relieve
+urban traffic congestion (G10, p. 93); **Culture
+and Work**: Hong Kong and Macao — Pearl of the
+Orient (G8, p. 58), Regional culture and urban–rural
+landscapes † (G10, p. 42; guide p. 86), Agricultural
+location factors and their changes (G10, p. 54),
+Industrial location factors and their changes (G10,
+p. 63), Service-industry location factors and their
+changes (G10, p. 71) and What future for physical
+shops? (G10, p. 77); **Earth and Space**: The polar
+regions (G7, p. 91); **Resources and Conflict**: The
+Middle East (G7, p. 44); **Global Issues**:
+Sanjiangyuan — the Three Rivers Source plateau
+wetland (G8, p. 91), China in the world (G8, p. 97),
+The main environmental problems facing humanity
+(G10, p. 96), China's national development
+strategies — examples (G10, p. 109) and How much do
+you know about low-carbon food? (G10, p. 120).
+Geography lessons: 777 → 820.

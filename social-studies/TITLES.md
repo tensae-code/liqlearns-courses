@@ -103,7 +103,7 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **777**
+Geography lessons across the eight Geography titles: **820**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -317,3 +317,37 @@ Preventing and preparing for natural hazards and
 Natural phenomena and disasters; People and Resources:
 Products of Ecuador's provinces; Resources and
 Conflict: Protected areas of Ecuador.
++43 for China, 2026-11-14 — The Land and Air:
+China's geographical differences — the Qinling–Huai
+line, China's Northeast — white mountains, black
+soil, The Loess Plateau, Taiwan Province, The Tarim
+Basin — an arid treasure land, Asia — location and
+extent, Asia's natural environment, Japan, Southeast
+Asia, India, Russia, Western Europe, Sub-Saharan
+Africa, Australia, The United States and Brazil;
+People and Resources: China's Northern Region —
+nature and agriculture, China's Southern Region —
+nature and agriculture, China's Northwest Region —
+nature and agriculture and The Qinghai–Tibet Region
+— nature and agriculture; Population, Transport and
+Maps: Beijing — the capital of the motherland, The
+Yangtze River Delta — land of fish and rice,
+Population capacity, How to view the migrant-worker
+phenomenon, Spatial structure of villages and towns,
+Urbanisation, From the city centre to the suburbs —
+where would you choose to live?, Regional
+development and transport layout, Transport layout
+and regional development and How to relieve urban
+traffic congestion; Culture and Work: Hong Kong and
+Macao — Pearl of the Orient, Regional culture and
+urban–rural landscapes, Agricultural location
+factors and their changes, Industrial location
+factors and their changes, Service-industry
+location factors and their changes and What future
+for physical shops?; Earth and Space: The polar
+regions; Resources and Conflict: The Middle East;
+Global Issues: Sanjiangyuan — the Three Rivers
+Source plateau wetland, China in the world, The
+main environmental problems facing humanity, China's
+national development strategies — examples and How
+much do you know about low-carbon food?
