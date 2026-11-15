@@ -1,6 +1,6 @@
 # Sources — Weather today, climate in general
 
-countries: Ethiopia, Guyana
+countries: Ethiopia, Guyana, Bahamas
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -8,13 +8,18 @@ countries: Ethiopia, Guyana
 
 **Book 3:** *Social Studies For Our Children Book 1* (student book, English) — Guyana, Ministry of Education, Georgetown, Guyana (Easy Path Series; a GOG/EFA-FTI Project); revised 2004 (first edition earlier); no ISBN printed. Title as printed: Social Studies For Our Children — Book 1. 57 PDF pp. Verdict: COMPLETE. Held on disk at phase3-staging (books.json record, on_disk: true, 9,866,801 bytes matching the record). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/guyana-placements.md.
 
+**Book 4:** *Social Science — Grade 1 (Lower Primary Social Science Content Notes, Version 2, January 2024)* (student book, English) — Ministry of Education, Technical and Vocational Training, The Bahamas; year 2024 (Version 2, January 2024); ISBN no ISBN printed. Title as printed: Social Science — Grade 1 (Lower Primary Social Science Content Notes, Version 2, January 2024). Grade 1 (student/teacher: STUDENT). PDF pages: 49 (cover/title page verified against the record title; read from the recorded Wayback source after grab.py failed twice — RemoteDisconnected; image-only Canva PDF, read via 100-DPI 4-up contact sheets, all 49 pages). Verdict: COMPLETE (combined book — Geography parts placed below; non-Geography parts named in the placements, not placed: Religious Studies — A Caring God, printed p. 4; Made in God's Image, pp. 5–6; Celebrating Easter, pp. 19–22; Let's Give Thanks and Worship (Harvest), pp. 42–43; It's Christmas Time (religious content), pp. 44–45; Pentecost and the Holy Spirit, p. 46; The Bible, p. 47. Science/Health — I am Special, pp. 7–8; Watch Me Grow, pp. 9–10; My Outside Body Parts, p. 11; My Inside Body Parts, p. 12; Taking Care of Me / Germs, pp. 13–14; My Feelings and Emotions, p. 15; Matter, p. 31; Living Things, p. 32; Animals (body coverings, migratory animals), pp. 34–35. Civics/personal-social — I Have Rights and Responsibilities, p. 16; Families are Special (family types and needs), pp. 17–18; Leaders, p. 23; Being a Peaceful Citizen, pp. 26–27; I Can Help, Too! (helping at home/school), pp. 28–29.). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bahamas-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Weather | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 2, printed pp. 37–39 |
 | Sub lesson 2 — Climate | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 2, printed pp. 37–39 |
 | Sub lesson 1 — Weather (Guyana way: sun and rain, clouds and winds — sunny, rainy, cloudy, windy days; today's weather) | Guyana, *Social Studies For Our Children Book 1*, Grade 1, printed p. 39 |
 | Teaching pattern and answer keys (teacher guide — evidence) — Grade 9 Unit 2 | Ethiopia, *Geography, Teacher Guide, Grade 9*, Unit 2, guide printed pp. 35–60 |
+| Bahamas part (Grade 1) — Weather and Seasons: what weather is and how it changes; a thermometer measures temperature | Bahamas, *Social Science, Grade 1*, Grade 1, Weather and Seasons: what weather is and how it changes; a thermometer measures temperature — printed p. 40 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Guyana).**
+**Acceptance count: taught in 3 countries (Ethiopia, Guyana, Bahamas).**
 
 Searchable tags: weather, climate, distinction, social studies
+
+Bahamas' own way (Grade 1): One integrated "Social Science" book fusing Religious Studies, Science/Health and Social Studies in a single picture-led volume; Geography enters through the home island itself — The Bahamas as a group of islands, its national symbols, mailboat/jitney transport between islands, conch-and-crawfish fishing, national parks and bush-medicine plants.

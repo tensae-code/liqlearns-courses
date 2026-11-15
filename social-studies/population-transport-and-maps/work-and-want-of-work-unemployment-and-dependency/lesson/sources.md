@@ -1,10 +1,12 @@
 # Sources — Work and want of work — unemployment and dependency
 
-countries: Ethiopia
+countries: Ethiopia, Bahamas
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
 **Book 2:** *Geography, Teacher Guide, Grade 11* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, Hawassa University. Writers: Ermias Debie (PhD) and Mehretie Belay (PhD); Content Editor: Professor Aklilu Dalelo. ISBN 978-99990-0-054-3. Companion to the Grade 11 Student Textbook (ISBN 978-99990-0-050-5), same GEQIP-E programme. Printed page = PDF page − 4 for the guide body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-teacher-placements.md
+
+**Book 3:** *Bahamas Primary Social Studies — Digital Textbook, Grade 6 (First Edition 2023)* (student book, English) — Ministry of Education, Government of The Bahamas — produced by the Innovation Unit; content credited to the Bahamas Primary Social Studies Curriculum 2022–2027 (each spread cites its curriculum pages); designed by Kenisha Rolle-Thompson; year 2023; ISBN no ISBN printed. Title as printed: Bahamas Primary Social Studies — Digital Textbook, Grade 6 (First Edition 2023). Grade 6 (student/teacher: STUDENT). PDF pages: 35 (cover/title page verified against the record title; byte-exact 141,586,828 bytes from the recorded Wayback source after grab.py failed; born-digital with a full text layer — read page by page from the text; the spreads carry no printed folios, so citations below are PDF pages). Verdict: COMPLETE (combined book — Geography parts placed below; non-Geography parts named in the placements, not placed: History — Early Connections – Past and Present, PDF p. 4; Majority Rule – Independence Parts 1–2, pp. 6–7; Bahamian History Prior to Independence 1973 Parts 1–3, pp. 26–28. Civics — Types of Government, p. 12; The Electoral Process Parts 1–2, pp. 13–14; Forming a Government Parts 1–2, pp. 15–16; The Court System Parts 1–2, pp. 17–18; The Constitution/Citizenship, p. 19; Law Enforcement Agencies, p. 20; The Ministry of Finance, p. 21; The World Government – United Nations, p. 22; Human Resources (Job Market) (a second, photograph-led human-resources spread), p. 23; Nation Builders, p. 29. Image-only spread — Cultural Practices Part 2, p. 31.). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bahamas-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -12,9 +14,12 @@ countries: Ethiopia
 | Sub lesson 2 — Ethiopia's unemployment sum | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 7, printed pp. 195–197 |
 | Sub lesson 3 — The dependency ratio | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 7, printed pp. 195–197 |
 | Teaching sequence and answer keys (teacher guide — evidence) | Ethiopia, *Geography, Teacher Guide, Grade 11*, Unit 7, guide printed pp. 180–214 |
+| Bahamas part (Grade 6) — Conservation – Human Resources: unions give workers a collective voice for bargaining; people who cannot find jobs matching their skills are more likely to be unemployed and live in poverty | Bahamas, *Bahamas Primary Social Studies — Digital Textbook, Grade 6*, Grade 6, Conservation – Human Resources: unions give workers a collective voice for bargaining; people who cannot find jobs matching their skills are more likely to be unemployed and live in poverty — PDF p. 11 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Bahamas).**
 
 No book error is flagged for this lesson's pages in the placements. The student book's body numbering for Unit Two drifts from its own contents (regions printed as 2.4, factors as 2.5, local classification as 2.6, where the contents and the teacher guide's contents agree on 2.3, 2.4 and 2.5); this lesson follows the contents numbering and teaches no misprint.
 
 Searchable tags: unemployment, underemployment, dependency ratio, ethiopia, social studies, population transport and maps
+
+Bahamas' own way (Grade 6): The Grade 6 book is civics-led (government, elections, courts, constitution, finance ministry) but opens the primary course's widest geography: the world's continents and oceans, political and physical maps, global warming and natural disasters, human resources and the job market, worldwide transport and communication through Nassau's ports of entry, and a closing cultural comparison of The Bahamas with Africa, Australia, Brazil and Japan.

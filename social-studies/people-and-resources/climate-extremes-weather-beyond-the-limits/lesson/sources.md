@@ -1,10 +1,12 @@
 # Sources — Climate extremes — weather beyond the limits
 
-countries: Ethiopia
+countries: Ethiopia, Bahamas
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
 **Book 2:** *Geography, Teacher Guide, Grade 11* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, Hawassa University. Writers: Ermias Debie (PhD) and Mehretie Belay (PhD); Content Editor: Professor Aklilu Dalelo. ISBN 978-99990-0-054-3. Companion to the Grade 11 Student Textbook (ISBN 978-99990-0-050-5), same GEQIP-E programme. Printed page = PDF page − 4 for the guide body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-teacher-placements.md
+
+**Book 3:** *Social Science — Grade 3 (Lower Primary Social Science Content Notes, Version 1, January 2024)* (student book, English) — Ministry of Education, Technical and Vocational Training, The Bahamas; year 2024 (Version 1, January 2024); ISBN no ISBN printed. Title as printed: Social Science — Grade 3 (Lower Primary Social Science Content Notes, Version 1, January 2024). Grade 3 (student/teacher: STUDENT). PDF pages: 70 (cover/title page verified against the record title; read from the recorded Wayback source's compressed "_sm" capture of the same book — 34,977,515 bytes, byte-exact — after grab.py failed and the uncompressed capture proved to be 249 MB; image-only Canva PDF, read via 100-DPI 4-up contact sheets, all 70 pages). Verdict: COMPLETE (combined book — Geography parts placed below; non-Geography parts named in the placements, not placed: Religious Studies — The Godhead, printed pp. 2–4; Easter, pp. 23–24; How We Worship, pp. 58–60; The Bible, pp. 61–62; Miracles and Teachings of Jesus, pp. 63–64; Celebrating Christmas (religious content), pp. 65–66. History — Bahamian History (Lucayans, Columbus 1492, Eleuthera settlers, slavery and freedom days), pp. 27–29. Civics — I am a Law-Abiding Citizen, p. 16; I Have Rights, pp. 21–22; Leaders and Nation Builders, p. 30. Science/Health/personal — I am Unique (personal content), pp. 7–8; Taking Care of Me, pp. 9–10; Discovering and Expressing Yourself, pp. 11–12; Caring For Yourself (hygiene, abuse), pp. 13–15; Getting Along with Others (respect), pp. 19–20; Vertebrates, pp. 36–38; Plants (plant parts and photosynthesis), pp. 44–45; Matter, pp. 46–48; Beware of Vectors and Spreading Diseases, pp. 49–52.). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bahamas-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -12,9 +14,12 @@ countries: Ethiopia
 | Sub lesson 2 — A warming world | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 5, printed pp. 135–136 |
 | Sub lesson 3 — Seen in photographs | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 5, printed pp. 135–136 |
 | Teaching sequence and answer keys (teacher guide — evidence) | Ethiopia, *Geography, Teacher Guide, Grade 11*, Unit 5, guide printed pp. 136–157 |
+| Bahamas part (Grade 3) — Weather and Seasons: hurricane season runs 1 June to 30 November; Hurricane Dorian (1 September 2019) devastated Abaco and Grand Bahama and caused coastal erosion | Bahamas, *Social Science, Grade 3*, Grade 3, Weather and Seasons: hurricane season runs 1 June to 30 November; Hurricane Dorian (1 September 2019) devastated Abaco and Grand Bahama and caused coastal erosion — printed p. 55 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Bahamas).**
 
 No book error is flagged for this lesson's pages in the placements. The student book's body numbering for Unit Two drifts from its own contents (regions printed as 2.4, factors as 2.5, local classification as 2.6, where the contents and the teacher guide's contents agree on 2.3, 2.4 and 2.5); this lesson follows the contents numbering and teaches no misprint.
 
 Searchable tags: climate extremes, warming 1.5 degrees, floods droughts, ethiopia, social studies, people and resources
+
+Bahamas' own way (Grade 3): The integrated Social Science pattern continues, but Grade 3 adds a distinct Bahamas-geography block in the middle of the book: a full map study of the archipelago (700 islands and cays, Family Islands, three sections), inter-island travel by Bahamasair, fast ferry and mailboat, and an island-by-island inventory of natural resources (Andros crabs, Abaco farming, Grand Bahama citrus and sponge), closing with Hurricane Dorian (2019) as the national extreme-weather case.

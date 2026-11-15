@@ -1,10 +1,12 @@
 # Sources — Low-latitude climate regions — wet, savanna, desert
 
-countries: Ethiopia
+countries: Ethiopia, Bahamas
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
 **Book 2:** *Geography, Teacher Guide, Grade 11* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, Hawassa University. Writers: Ermias Debie (PhD) and Mehretie Belay (PhD); Content Editor: Professor Aklilu Dalelo. ISBN 978-99990-0-054-3. Companion to the Grade 11 Student Textbook (ISBN 978-99990-0-050-5), same GEQIP-E programme. Printed page = PDF page − 4 for the guide body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-teacher-placements.md
+
+**Book 3:** *Bahamas Primary Social Studies — Digital Textbook, Grade 4 (First Edition 2023)* (student book, English) — Ministry of Education, Government of The Bahamas — produced by the Innovation Unit; content credited to the Bahamas Primary Social Studies Curriculum 2022–2027 (each spread cites its curriculum pages); designed by Kenisha Rolle-Thompson and Joshlyn Wood; year 2023; ISBN no ISBN printed. Title as printed: Bahamas Primary Social Studies — Digital Textbook, Grade 4 (First Edition 2023). Grade 4 (student/teacher: STUDENT). PDF pages: 23 (cover/title page verified against the record title; byte-exact 97,317,284 bytes from the recorded Wayback source after grab.py failed; born-digital with a full text layer — read page by page from the text, with the image-only Transportation spread and the cover read as renders; the spreads carry no printed folios, so citations below are PDF pages). Verdict: COMPLETE (combined book — Geography parts placed below; non-Geography parts named in the placements, not placed: History — Lucayans and Eleutheran Adventurers, PDF p. 3; Loyalists, p. 4; Slavery and the Middle Passage, p. 5. Civics — Leaders Parts 1–2 (Governors General and Prime Ministers), pp. 12–13; Laws/Correctional Institutions (citizens' rights and correctional centres), p. 14; Nation Builders Parts 1–2, pp. 16–17. Culture list — Celebrations (the eleven public holidays), p. 19.). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bahamas-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -12,9 +14,12 @@ countries: Ethiopia
 | Sub lesson 2 — The savanna — ruled by a moving line | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 2, printed pp. 39–41 |
 | Sub lesson 3 — The tropical desert belt | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 2, printed pp. 39–41 |
 | Teaching sequence and answer keys (teacher guide — evidence) | Ethiopia, *Geography, Teacher Guide, Grade 11*, Unit 2, guide printed pp. 40–63 |
+| Bahamas part (Grade 4) — South Eastern Islands: the tropics, the region around the Equator between the Tropic of Cancer (23.5°N) and the Tropic of Capricorn; the Tropic of Cancer runs through Great Exuma and Long Island | Bahamas, *Bahamas Primary Social Studies — Digital Textbook, Grade 4*, Grade 4, South Eastern Islands: the tropics, the region around the Equator between the Tropic of Cancer (23.5°N) and the Tropic of Capricorn; the Tropic of Cancer runs through Great Exuma and Long Island — PDF p. 6 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Bahamas).**
 
 No book error is flagged for this lesson's pages in the placements. The student book's body numbering for Unit Two drifts from its own contents (regions printed as 2.4, factors as 2.5, local classification as 2.6, where the contents and the teacher guide's contents agree on 2.3, 2.4 and 2.5); this lesson follows the contents numbering and teaches no misprint.
 
 Searchable tags: low latitude climates, tropical wet, savanna, ITCZ, tropical desert, ethiopia, social studies, the land and air
+
+Bahamas' own way (Grade 4): From Grade 4 the format changes: instead of the integrated Social Science reader, the child gets a one-topic-per-page infographic textbook keyed spread-by-spread to the Primary Social Studies Curriculum 2022–2027 — Bahamian culture first, then the peoples who settled the islands, then the islands' own geography (southeastern islands, the Bahama Banks, island resources, tourism, transport), closing with leaders, laws, festivals and the bush plants of The Bahamas.

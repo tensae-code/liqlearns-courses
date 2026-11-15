@@ -103,7 +103,7 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **1026**
+Geography lessons across the eight Geography titles: **1031**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -582,3 +582,13 @@ Problems and Geopolitical Order and World Networks;
 Global Issues: Economic Geopolitics of the Continents.
 (All 21 stand on the Dominican Republic's student
 books, counted in acceptance.)
+
++5 for Bahamas, 2026-11-14 — The Land
+and Air: The Bahamas Archipelago — Family Islands
+and Three Sections, The Water Cycle and Cloud
+Types and Island Countries and Landlocked
+Countries; People and Resources: Bahamas Island
+Natural Resources; Population, Transport and
+Maps: Transshipment and Container Ports.
+(All 5 stand on the Bahamas' student books,
+counted in acceptance.)

@@ -1,6 +1,6 @@
 # Sources — Water Bodies — The Five Oceans
 
-countries: Ethiopia, Nauru, Tuvalu, Guatemala, Angola, Dominican Republic
+countries: Ethiopia, Nauru, Tuvalu, Guatemala, Angola, Dominican Republic, Bahamas
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -20,12 +20,15 @@ countries: Ethiopia, Nauru, Tuvalu, Guatemala, Angola, Dominican Republic
 
 **Book 9:** *Ciencias Sociales — Tercer Grado, Primer Ciclo, Educación Primaria (Libro Abierto, Serie 1)* (student book, Spanish) — Dominican Republic, Ministerio de Educación (MINERD), Unidad Editorial, República Dominicana; Libro Abierto Serie 1; ISBN 978-9945-646-00-9 (printed in the book). Title as printed: Ciencias Sociales — Tercer Grado, Primer Ciclo, Educación Primaria (Libro Abierto, Serie 1). Grade 3 (student). 128 PDF pp. (cover verified against the record title; byte size 73,378,327 matches the GitHub release asset exactly and page count matches the record). Verdict: COMPLETE (combined book — Geography parts placed below; History/Civics parts named in the placements, not placed: Unidad 5 Mi país, su identidad y cultura, printed p. 76; Unidad 6 Derechos y deberes para vivir en democracia (Civics), p. 90; Anexo: Constitución Dominicana Infantil, p. 110). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/dominican-republic-placements.md.
 
+**Book 10:** *Bahamas Primary Social Studies — Digital Textbook, Grade 6 (First Edition 2023)* (student book, English) — Ministry of Education, Government of The Bahamas — produced by the Innovation Unit; content credited to the Bahamas Primary Social Studies Curriculum 2022–2027 (each spread cites its curriculum pages); designed by Kenisha Rolle-Thompson; year 2023; ISBN no ISBN printed. Title as printed: Bahamas Primary Social Studies — Digital Textbook, Grade 6 (First Edition 2023). Grade 6 (student/teacher: STUDENT). PDF pages: 35 (cover/title page verified against the record title; byte-exact 141,586,828 bytes from the recorded Wayback source after grab.py failed; born-digital with a full text layer — read page by page from the text; the spreads carry no printed folios, so citations below are PDF pages). Verdict: COMPLETE (combined book — Geography parts placed below; non-Geography parts named in the placements, not placed: History — Early Connections – Past and Present, PDF p. 4; Majority Rule – Independence Parts 1–2, pp. 6–7; Bahamian History Prior to Independence 1973 Parts 1–3, pp. 26–28. Civics — Types of Government, p. 12; The Electoral Process Parts 1–2, pp. 13–14; Forming a Government Parts 1–2, pp. 15–16; The Court System Parts 1–2, pp. 17–18; The Constitution/Citizenship, p. 19; Law Enforcement Agencies, p. 20; The Ministry of Finance, p. 21; The World Government – United Nations, p. 22; Human Resources (Job Market) (a second, photograph-led human-resources spread), p. 23; Nation Builders, p. 29. Image-only spread — Cultural Practices Part 2, p. 31.). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bahamas-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The largest water bodies | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed p. 6 |
 | Sub lesson 2 — The five and their areas | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed p. 6 |
 | Sub lesson 3 — The seas inside the oceans | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed p. 6 |
 | Angola part — 3.3 Os oceanos e os mares (3.3.1 Os oceanos; 3.3.2 Os mares; 3.3.3 A importância do Oceano Mundial) | Angola, *Geografia 6ª Classe*, Grade 6, 3.3 Os oceanos e os mares (3.3.1 Os oceanos; 3.3.2 Os mares; 3.3.3 A importância do Oceano Mundial) — printed p. 44 |
+| Bahamas part (Grade 6) — Oceans and Continents of the World: the continents are surrounded by the Arctic, Pacific, Atlantic, Indian and Southern Oceans | Bahamas, *Bahamas Primary Social Studies — Digital Textbook, Grade 6*, Grade 6, Oceans and Continents of the World: the continents are surrounded by the Arctic, Pacific, Atlantic, Indian and Southern Oceans — PDF p. 8 |
 
 | Sub lesson 4 — Arctic and Atlantic — Grade 11 portraits (Grade 11 depth) | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 1, printed pp. 18–20 |
 | Sub lesson 5 — Indian and Pacific — Grade 11 portraits (Grade 11 depth) | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 1, printed pp. 18–20 |
@@ -36,7 +39,7 @@ countries: Ethiopia, Nauru, Tuvalu, Guatemala, Angola, Dominican Republic
 | Guatemala part — Mares y océanos: Atlántico/Mar Caribe and Pacífico around the isthmus | Guatemala, *Ciencias Sociales y Formación Ciudadana*, Grade 4, Mares y océanos: Atlántico/Mar Caribe and Pacífico around the isthmus (Unit 2) — printed p. 83 |
 | Dominican Republic part (Grade 3) — Seas and oceans, and the impact of human actions on them | Dominican Republic, *Ciencias Sociales, Tercer Grado, Primaria (Libro Abierto)*, Grade 3, Seas and oceans, and the impact of human actions on them — printed p. 16 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Nauru, Tuvalu, Guatemala, Angola, Dominican Republic).**
+**Acceptance count: taught in 7 countries (Ethiopia, Nauru, Tuvalu, Guatemala, Angola, Dominican Republic, Bahamas).**
 
 Nauru's own way: Nauru uses the shared Pacific ESD reader suite (local advisors Fay Itaia & Sharon Kam for Nauru) — Geography is taught as ocean stewardship: the Pacific as a connected "sea of islands", its animals, and the traditional fishing knowledge of Tonga, Tuvalu and Niue, ending in a plastic-waste action plan. That way is stocked here as the way Nauru teaches this thing.
 
@@ -53,3 +56,5 @@ Searchable tags: water bodies   the five oceans, ethiopia, social studies, the l
 Angola's own way (Grade 6): a resources-and-environment year — every world topic (air, water, soils, forests) is closed with the Angolan case: Angola's fresh-water use, Angola's farm land, Angola's forest areas. That way is stocked here as the way Angola teaches this thing.
 
 Dominican Republic's own way (Grade 3): For third graders geography is the home island first: the planet and its components, then the Antilles and the relief of their own country, then countryside versus city, and finally where their own families came from — migration and a family census the children run themselves.
+
+Bahamas' own way (Grade 6): The Grade 6 book is civics-led (government, elections, courts, constitution, finance ministry) but opens the primary course's widest geography: the world's continents and oceans, political and physical maps, global warming and natural disasters, human resources and the job market, worldwide transport and communication through Nassau's ports of entry, and a closing cultural comparison of The Bahamas with Africa, Australia, Brazil and Japan.

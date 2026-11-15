@@ -1,17 +1,22 @@
 # Sources — Locating by latitude and longitude
 
-countries: Ethiopia
+countries: Ethiopia, Bahamas
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
 **Book 2:** *Geography, Teacher Guide, Grade 9* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). Editors: Sintayehu Teka (MSc) (Content Editor), Kassie Molla (MA) (Language Editor), Hirut Woldemichael (MA) (Curriculum Editor). First published 2022 under GEQIP-E. (No ISBN printed in the pages read.) Printed page = PDF page − 22 for the body (front matter in roman numerals). Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-teacher-placements.md.
+
+**Book 3:** *Bahamas Primary Social Studies — Digital Textbook, Grade 4 (First Edition 2023)* (student book, English) — Ministry of Education, Government of The Bahamas — produced by the Innovation Unit; content credited to the Bahamas Primary Social Studies Curriculum 2022–2027 (each spread cites its curriculum pages); designed by Kenisha Rolle-Thompson and Joshlyn Wood; year 2023; ISBN no ISBN printed. Title as printed: Bahamas Primary Social Studies — Digital Textbook, Grade 4 (First Edition 2023). Grade 4 (student/teacher: STUDENT). PDF pages: 23 (cover/title page verified against the record title; byte-exact 97,317,284 bytes from the recorded Wayback source after grab.py failed; born-digital with a full text layer — read page by page from the text, with the image-only Transportation spread and the cover read as renders; the spreads carry no printed folios, so citations below are PDF pages). Verdict: COMPLETE (combined book — Geography parts placed below; non-Geography parts named in the placements, not placed: History — Lucayans and Eleutheran Adventurers, PDF p. 3; Loyalists, p. 4; Slavery and the Middle Passage, p. 5. Civics — Leaders Parts 1–2 (Governors General and Prime Ministers), pp. 12–13; Laws/Correctional Institutions (citizens' rights and correctional centres), p. 14; Nation Builders Parts 1–2, pp. 16–17. Culture list — Celebrations (the eleven public holidays), p. 19.). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bahamas-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Parallels and meridians | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 8, printed pp. 210–212 |
 | Sub lesson 2 — The worked example | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 8, printed pp. 210–212 |
 | Teaching pattern and answer keys (teacher guide — evidence) — Grade 9 Unit 8 | Ethiopia, *Geography, Teacher Guide, Grade 9*, Unit 8, guide printed pp. 231–260 |
+| Bahamas part (Grade 4) — South Eastern Islands: lines of latitude and longitude locate places; The Bahamas lies between latitude 20°N and 28°N and longitude 72°W and 80°W | Bahamas, *Bahamas Primary Social Studies — Digital Textbook, Grade 4*, Grade 4, South Eastern Islands: lines of latitude and longitude locate places; The Bahamas lies between latitude 20°N and 28°N and longitude 72°W and 80°W — PDF p. 6 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Bahamas).**
 
 Searchable tags: latitude, longitude, graticule, parallels, meridians, point C, social studies
+
+Bahamas' own way (Grade 4): From Grade 4 the format changes: instead of the integrated Social Science reader, the child gets a one-topic-per-page infographic textbook keyed spread-by-spread to the Primary Social Studies Curriculum 2022–2027 — Bahamian culture first, then the peoples who settled the islands, then the islands' own geography (southeastern islands, the Bahama Banks, island resources, tourism, transport), closing with leaders, laws, festivals and the bush plants of The Bahamas.

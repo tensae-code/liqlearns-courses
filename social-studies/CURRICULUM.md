@@ -2756,3 +2756,44 @@ p. 62); **Global Issues**: Economic Geopolitics of the
 Continents (G10, p. 64) — the new lessons taught in
 1 country (Dominican Republic), 8 questions each.
 Geography lessons: 1005 → 1026.
+
+
+## Bahamas — Geography expansion (merged 2026-11-14)
+
+89 placements stocked from the Bahamas' 5 placed student
+books (Social Science — Grade 1, Lower Primary Social
+Science Content Notes, Version 2, January 2024, COMPLETE;
+Social Science — Grade 3, Version 1, January 2024,
+COMPLETE; Bahamas Primary Social Studies — Digital
+Textbook, Grade 4, First Edition 2023, COMPLETE; Grade 5,
+First Edition 2023, COMPLETE — one spread, "Bodies of
+Water" PDF p. 16, is a blank page in the book itself;
+Grade 6, First Edition 2023, COMPLETE — all Ministry of
+Education, The Bahamas; no ISBN printed; the combined
+Social Studies / Social Science books' History, Civics,
+Religious Studies and Science/Health parts are named in
+each book's sources, not placed). The 3 curriculum
+documents in the Bahamas set (Primary Social Studies
+Benchmarks Grades 4–6; BJC Social Studies syllabus
+Grades 7–9; BGCSE Geography syllabus Grades 10–12) are
+RECORD-ONLY per the scope rule, filed not placed.
+Stocked into standing lessons (81 placements) across
+Earth and Space, The Land and Air, Population, Transport
+and Maps, People and Resources, Culture and Work,
+Resources and Conflict and Global Issues — including
+Global Warming, Ozone, Waste and Biodiversity, which
+the Bahamas Grade 6 student book now teaches as pupil
+content (its first pupil-taught country; Ethiopia stays
+teacher-guide evidence only). 5 NEW lessons built
+(8 placements) — **The Land and Air**: The Bahamas
+Archipelago — Family Islands and Three Sections
+(G3, printed p. 33), The Water Cycle and Cloud Types
+(G3, printed pp. 56–57) and Island Countries and
+Landlocked Countries (G6, PDF p. 8); **People and
+Resources**: Bahamas Island Natural Resources (G3,
+printed p. 41; G4, PDF p. 8; G5, PDF pp. 23–24);
+**Population, Transport and Maps**: Transshipment
+and Container Ports (G5, PDF p. 28; G6, PDF p. 25) —
+the new lessons taught in 1 country (Bahamas),
+8 questions each.
+Geography lessons: 1026 → 1031.

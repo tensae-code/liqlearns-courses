@@ -1,6 +1,6 @@
 # Sources — Reading map symbols
 
-countries: Ethiopia, Haiti
+countries: Ethiopia, Haiti, Bahamas
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -8,15 +8,20 @@ countries: Ethiopia, Haiti
 
 **Book 3:** *Du rond au plat, représenter le globe terrestre ?* (teacher sequence — corrigé, French) — Haiti, MENFP / Projet Nectar (Sciences humaines et sociales — Géographie, 7e année). Title as printed: Du rond au plat, représenter le globe terrestre ? (Projet Nectar, MENFP, Sciences humaines et sociales — Géographie, 7e année). Grade 7 (teacher). Publisher: MENFP / Projet Nectar; year not printed; no ISBN printed. 20 PDF pp. (cover verified against the record title). Verdict: COMPLETE. Read via grab.py (GitHub API, size/SHA verified) into scratch-ht/, text extracted page-by-page with pdftotext -layout; covers rendered and checked. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/haiti-placements.md.
 
+**Book 4:** *Social Science — Grade 3 (Lower Primary Social Science Content Notes, Version 1, January 2024)* (student book, English) — Ministry of Education, Technical and Vocational Training, The Bahamas; year 2024 (Version 1, January 2024); ISBN no ISBN printed. Title as printed: Social Science — Grade 3 (Lower Primary Social Science Content Notes, Version 1, January 2024). Grade 3 (student/teacher: STUDENT). PDF pages: 70 (cover/title page verified against the record title; read from the recorded Wayback source's compressed "_sm" capture of the same book — 34,977,515 bytes, byte-exact — after grab.py failed and the uncompressed capture proved to be 249 MB; image-only Canva PDF, read via 100-DPI 4-up contact sheets, all 70 pages). Verdict: COMPLETE (combined book — Geography parts placed below; non-Geography parts named in the placements, not placed: Religious Studies — The Godhead, printed pp. 2–4; Easter, pp. 23–24; How We Worship, pp. 58–60; The Bible, pp. 61–62; Miracles and Teachings of Jesus, pp. 63–64; Celebrating Christmas (religious content), pp. 65–66. History — Bahamian History (Lucayans, Columbus 1492, Eleuthera settlers, slavery and freedom days), pp. 27–29. Civics — I am a Law-Abiding Citizen, p. 16; I Have Rights, pp. 21–22; Leaders and Nation Builders, p. 30. Science/Health/personal — I am Unique (personal content), pp. 7–8; Taking Care of Me, pp. 9–10; Discovering and Expressing Yourself, pp. 11–12; Caring For Yourself (hygiene, abuse), pp. 13–15; Getting Along with Others (respect), pp. 19–20; Vertebrates, pp. 36–38; Plants (plant parts and photosynthesis), pp. 44–45; Matter, pp. 46–48; Beware of Vectors and Spreading Diseases, pp. 49–52.). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bahamas-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Conventional signs | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 8, printed pp. 220–222 |
 | Sub lesson 2 — Using symbols well | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 8, printed pp. 220–222 |
 | Teaching pattern and answer keys (teacher guide — evidence) — Grade 9 Unit 8 | Ethiopia, *Geography, Teacher Guide, Grade 9*, Unit 8, guide printed pp. 231–260 |
 | Haiti part — Séance 10 Lire des cartes (types de cartes, sémiologie graphique, légende et signes) (teacher sequence — evidence) | Haiti, *Du rond au plat, représenter le globe terrestre ?* (teacher sequence), Grade 7, Séance 10 Lire des cartes (types de cartes, sémiologie graphique, légende et signes) — printed p. 18 |
+| Bahamas part (Grade 3) — Exploring the Map of The Bahamas: map symbols for docks, roads and airports; blue for water, green for land, dots for settlements; Andros is the biggest island | Bahamas, *Social Science, Grade 3*, Grade 3, Exploring the Map of The Bahamas: map symbols for docks, roads and airports; blue for water, green for land, dots for settlements; Andros is the biggest island — printed p. 34 |
 
-**Acceptance count: taught in 1 country (Ethiopia). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 2 countries (Ethiopia, Bahamas). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
 
 Haiti's own way (teacher sequence — evidence): Geography opens with representing the Earth itself — globe-to-flat projection problems, orientation practised on the ground with compass/GPS/Google Maps, and time-zone puzzles worked on Haiti's own links (midday shared with Québec, 18h in Paris, Port-au-Prince–Paris flights); every séance ends in a croquis, a glossary and field observation. That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
 Searchable tags: map symbols, conventional signs, legend, key, social studies, Haiti, Du rond au plat, teacher sequence evidence
+
+Bahamas' own way (Grade 3): The integrated Social Science pattern continues, but Grade 3 adds a distinct Bahamas-geography block in the middle of the book: a full map study of the archipelago (700 islands and cays, Family Islands, three sections), inter-island travel by Bahamasair, fast ferry and mailboat, and an island-by-island inventory of natural resources (Andros crabs, Abaco farming, Grand Bahama citrus and sponge), closing with Hurricane Dorian (2019) as the national extreme-weather case.
