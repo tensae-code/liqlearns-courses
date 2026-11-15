@@ -1,6 +1,6 @@
 # Sources — From evidence to a written history
 
-countries: Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland
+countries: Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -590,3 +590,21 @@ Finland's own way (Continuation War sotarintama/krigsfronten (FI/SV), Grade 7 re
 **Acceptance count: taught in 17 countries (Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland).**
 
 The teacher-guide rows above are evidence only; Finland's count in this lesson stands on the student books stocked here.
+
+---
+
+## History expansion (2026-11-15) — Dominican Republic stocked
+
+**Book 25:** *Ciencias Sociales, Quinto Grado, Educación Primaria — Proyecto Libro Abierto* (student book, Spanish) — Dominican Republic. Title as printed: Ciencias Sociales, Quinto Grado, Educación Primaria — Proyecto Libro Abierto. Grade: Grade 5 (student/teacher: STUDENT). Publisher: MINERD, Unidad Editorial; year not printed on the pages read; ISBN no ISBN printed. PDF pages: 192 (cover verified against the record title). Verdict: COMPLETE. Tally: 13 placements — 5 to existing lessons, 8 NEW LESSON NEEDED. Combined-subject note: this is a combined Ciencias Sociales book; only its History units are placed — its Geography units (Geografía general (p. 10), Variación climática de los continentes (p. 26), Clima en República Dominicana (p. 42)) and Civics units (Nacionalidad y ciudadanía (p. 124), Organización de la sociedad (p. 142), Convivencia humana (p. 158)) are named here, not placed. Placements at liqlearns-courses-work/expansion-history-2026-11-15/dominican-republic-placements.md.
+
+**Book 26:** *Ciencias Sociales, Cuarto Grado de Secundaria (4° Secundaria) — Proyecto Libro Abierto* (student book, Spanish) — Dominican Republic. Title as printed: Ciencias Sociales, Cuarto Grado de Secundaria (4° Secundaria) — Proyecto Libro Abierto. Grade: Grade 10 (student/teacher: STUDENT). Publisher: MINERD, Unidad Editorial; year not printed on the pages read; ISBN no ISBN printed. PDF pages: 208 (cover verified against the record title). Verdict: COMPLETE. Tally: 34 placements — 28 to existing lessons, 6 NEW LESSON NEEDED. Combined-subject note: this is a combined Ciencias Sociales book; only its History units are placed — its Geography units (El universo y el Sistema Solar (p. 10), La deriva continental (p. 26), El agua en los continentes (p. 42), Geografía política y económica de los continentes (p. 58)) and Civics unit (Educación ciudadana (p. 176)) are named here, not placed. Placements at liqlearns-courses-work/expansion-history-2026-11-15/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dominican Republic part — Unidad 4 La historia como ciencia: Fuentes históricas — story beats: before telling the past, the class learns to interrogate the traces it left (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Dominican Republic, *Ciencias Sociales, Quinto Grado — Proyecto Libro Abierto*, Unidad 4 La historia como ciencia: Fuentes históricas — printed p. 58 |
+| Dominican Republic part — Unidad 5 Fuentes, crítica histórica y ciencias auxiliares — story beats: sources are criticised and helper sciences called in before a claim is believed (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Dominican Republic, *Ciencias Sociales, Cuarto Grado de Secundaria — Proyecto Libro Abierto*, Unidad 5 Fuentes, crítica histórica y ciencias auxiliares — printed p. 82 |
+
+Dominican Republic's own way (Ciencias Sociales, Quinto Grado — Proyecto Libro Abierto, Grade 5 (student/teacher: STUDENT)): History is introduced first as a science (sources, periods), then widens — America, the Caribbean, and finally Dominican history itself, told as annexation, restoration, caudillos and foreign intervention. That way is stocked here as the way the Dominican Republic teaches this thing. Combined-subject note: this is a combined Ciencias Sociales book — only its History units are placed; its Geography and Civics units are named in the book entry above, not placed. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+Dominican Republic's own way (Ciencias Sociales, Cuarto Grado de Secundaria — Proyecto Libro Abierto, Grade 10 (student/teacher: STUDENT)): secondary social studies is a straight world-history course — history as science, human origins, classical antiquity, feudalism, Europe's primacy, capitalism and the twentieth century's wars and revolutions — taught through primary/secondary source analysis. That way is stocked here as the way the Dominican Republic teaches this thing. Combined-subject note: this is a combined Ciencias Sociales book — only its History units are placed; its Geography and Civics units are named in the book entry above, not placed. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 18 countries (Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Finland, Dominican Republic).**

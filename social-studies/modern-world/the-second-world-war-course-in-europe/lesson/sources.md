@@ -1,6 +1,6 @@
 # Sources — The Second World War — course in Europe
 
-countries: Ethiopia, United States, Turkey, Australia, Kuwait, Montenegro, Finland
+countries: Ethiopia, United States, Turkey, Australia, Kuwait, Montenegro, Finland, Dominican Republic
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 137).
 
@@ -140,3 +140,17 @@ Montenegro's own way (ИСТОРИЈА — уџбеник за девети ра
 Finland's own way (Continuation War sodanjohto/krigsledningen (FI/SV), Grade 7 record (student/teacher: STUDENT)): One ceremonial visit is used to attack Finland's own comforting 'separate war' story — national self-criticism as a school task. That way is stocked here as the way Finland teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 7 countries (Ethiopia, United States, Turkey, Australia, Kuwait, Montenegro, Finland).**
+
+---
+
+## History expansion (2026-11-15) — Dominican Republic stocked
+
+**Book 15:** *Ciencias Sociales, Sexto Grado, Educación Primaria — Proyecto Libro Abierto* (student book, Spanish) — Dominican Republic. Title as printed: Ciencias Sociales, Sexto Grado, Educación Primaria — Proyecto Libro Abierto. Grade: Grade 6 (student/teacher: STUDENT). Publisher: MINERD, Unidad Editorial; year not printed on the pages read; ISBN no ISBN printed. PDF pages: 192 (cover verified against the record title). Verdict: COMPLETE. Tally: 29 placements — 12 to existing lessons, 17 NEW LESSON NEEDED. Combined-subject note: this is a combined Ciencias Sociales book; only its History units are placed — its Geography units (Geografía universal (p. 11), Los continentes de la Tierra (p. 29)) and Civics units (Organización institucional del pueblo dominicano (p. 144), Convivencia humana (p. 160)) are named here, not placed. Placements at liqlearns-courses-work/expansion-history-2026-11-15/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dominican Republic part — Unidad 6 América en las dos guerras mundiales (2): la Segunda Guerra Mundial — story beats: a second, greater war again reshapes the hemisphere (History expansion, 2026-11-15; original placement slug: modern-world/the-second-world-war-course-in-europe) | Dominican Republic, *Ciencias Sociales, Sexto Grado — Proyecto Libro Abierto*, Unidad 6 América en las dos guerras mundiales (2): la Segunda Guerra Mundial — printed p. 104 |
+
+Dominican Republic's own way (Ciencias Sociales, Sexto Grado — Proyecto Libro Abierto, Grade 6 (student/teacher: STUDENT)): a full world-history sweep (civilisations, modernity, revolutions) is bolted to a detailed national second half — occupation, Trujillo, Bosch, the April 1965 revolution and the democratic decades — so a primary leaver holds both stories at once. That way is stocked here as the way the Dominican Republic teaches this thing. Combined-subject note: this is a combined Ciencias Sociales book — only its History units are placed; its Geography and Civics units are named in the book entry above, not placed. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 8 countries (Ethiopia, United States, Turkey, Australia, Kuwait, Montenegro, Finland, Dominican Republic).**

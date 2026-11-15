@@ -1,6 +1,6 @@
 # Sources — The Industrial Revolution — textiles, steam and rail
 
-countries: Ethiopia, France, Australia, Kuwait
+countries: Ethiopia, France, Australia, Kuwait, Dominican Republic
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 131).
 
@@ -54,3 +54,17 @@ Non-History parts of this book, named in the placements, not placed here: none �
 Kuwait's own way (Grade 12 Term 1): Grade 12 world history is a Europe-outward arc in six chapters across the year — Renaissance, discoveries, colonialism, industry, revolutions, world wars — each chapter split into concept, causes, course and results, with the same introduction carried in both term books. That way is stocked here as the way Kuwait teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 4 countries (Ethiopia, France, Australia, Kuwait).**
+
+---
+
+## History expansion (2026-11-15) — Dominican Republic stocked
+
+**Book 14:** *Ciencias Sociales, Cuarto Grado de Secundaria (4° Secundaria) — Proyecto Libro Abierto* (student book, Spanish) — Dominican Republic. Title as printed: Ciencias Sociales, Cuarto Grado de Secundaria (4° Secundaria) — Proyecto Libro Abierto. Grade: Grade 10 (student/teacher: STUDENT). Publisher: MINERD, Unidad Editorial; year not printed on the pages read; ISBN no ISBN printed. PDF pages: 208 (cover verified against the record title). Verdict: COMPLETE. Tally: 34 placements — 28 to existing lessons, 6 NEW LESSON NEEDED. Combined-subject note: this is a combined Ciencias Sociales book; only its History units are placed — its Geography units (El universo y el Sistema Solar (p. 10), La deriva continental (p. 26), El agua en los continentes (p. 42), Geografía política y económica de los continentes (p. 58)) and Civics unit (Educación ciudadana (p. 176)) are named here, not placed. Placements at liqlearns-courses-work/expansion-history-2026-11-15/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dominican Republic part — Unidad 10 Primera Revolución Industrial (1760–1840) — story beats: steam, cotton mills and railways remake production and travel (History expansion, 2026-11-15; original placement slug: modern-world/the-industrial-revolution-textiles-steam-and-rail) | Dominican Republic, *Ciencias Sociales, Cuarto Grado de Secundaria — Proyecto Libro Abierto*, Unidad 10 Primera Revolución Industrial (1760–1840) — printed p. 152 |
+
+Dominican Republic's own way (Ciencias Sociales, Cuarto Grado de Secundaria — Proyecto Libro Abierto, Grade 10 (student/teacher: STUDENT)): secondary social studies is a straight world-history course — history as science, human origins, classical antiquity, feudalism, Europe's primacy, capitalism and the twentieth century's wars and revolutions — taught through primary/secondary source analysis. That way is stocked here as the way the Dominican Republic teaches this thing. Combined-subject note: this is a combined Ciencias Sociales book — only its History units are placed; its Geography and Civics units are named in the book entry above, not placed. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 5 countries (Ethiopia, France, Australia, Kuwait, Dominican Republic).**

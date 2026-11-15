@@ -1,6 +1,6 @@
 # Sources — From stone tools to farming — the Neolithic Revolution
 
-countries: Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus, Fiji
+countries: Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus, Fiji, Dominican Republic
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -310,3 +310,17 @@ Non-History parts of this book, named in the placements, not placed here: Chapte
 Fiji's own way (Social Science Year 9 — Rediscovering Society, Year 9 (student/teacher: STUDENT)): a full "History of Fiji" chapter inside Social Science, proceeding by periods and trades — pre-contact, discovery, sandalwood, beche-de-mer, missionaries, Ma'afu and Cakobau — with named local leaders' biographies in the civics chapter. That way is stocked here as the way Fiji teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 14 countries (Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus, Fiji).**
+
+---
+
+## History expansion (2026-11-15) — Dominican Republic stocked
+
+**Book 9:** *Ciencias Sociales, Sexto Grado, Educación Primaria — Proyecto Libro Abierto* (student book, Spanish) — Dominican Republic. Title as printed: Ciencias Sociales, Sexto Grado, Educación Primaria — Proyecto Libro Abierto. Grade: Grade 6 (student/teacher: STUDENT). Publisher: MINERD, Unidad Editorial; year not printed on the pages read; ISBN no ISBN printed. PDF pages: 192 (cover verified against the record title). Verdict: COMPLETE. Tally: 29 placements — 12 to existing lessons, 17 NEW LESSON NEEDED. Combined-subject note: this is a combined Ciencias Sociales book; only its History units are placed — its Geography units (Geografía universal (p. 11), Los continentes de la Tierra (p. 29)) and Civics units (Organización institucional del pueblo dominicano (p. 144), Convivencia humana (p. 160)) are named here, not placed. Placements at liqlearns-courses-work/expansion-history-2026-11-15/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dominican Republic part — Unidad 3 Historia general: los humanos antes del nacimiento de las civilizaciones — story beats: humans live by hunting and gathering for ages before the first civilisation is born (History expansion, 2026-11-15; original placement slug: africa-to-1500/from-stone-tools-to-farming) | Dominican Republic, *Ciencias Sociales, Sexto Grado — Proyecto Libro Abierto*, Unidad 3 Historia general: los humanos antes del nacimiento de las civilizaciones — printed p. 45 |
+
+Dominican Republic's own way (Ciencias Sociales, Sexto Grado — Proyecto Libro Abierto, Grade 6 (student/teacher: STUDENT)): a full world-history sweep (civilisations, modernity, revolutions) is bolted to a detailed national second half — occupation, Trujillo, Bosch, the April 1965 revolution and the democratic decades — so a primary leaver holds both stories at once. That way is stocked here as the way the Dominican Republic teaches this thing. Combined-subject note: this is a combined Ciencias Sociales book — only its History units are placed; its Geography and Civics units are named in the book entry above, not placed. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 15 countries (Ethiopia, Angola, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Belarus, Fiji, Dominican Republic).**

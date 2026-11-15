@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — Rome divides
 
-countries: Ethiopia, Brazil, France, Costa Rica, Australia, Montenegro
+countries: Ethiopia, Brazil, France, Costa Rica, Australia, Montenegro, Dominican Republic
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 6, placements 92–106).
 
@@ -83,3 +83,17 @@ Australia's own way (Australia Retroactive 1 (Stage 4)): The NSW Stage 4 course 
 Montenegro's own way (ИСТОРИЈА за шести разред основне школе (Istorija 6), Grade 6 (student/teacher: STUDENT)): A world-history year (history itself, prehistory, the Ancient East, Greece, Rome) that lands, in its final lesson, on home ground — the Illyrian tribes and Roman ruins of Montenegro itself, so a Montenegrin child ends antiquity standing in Doclea. That way is stocked here as the way Montenegro teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 6 countries (Ethiopia, Brazil, France, Costa Rica, Australia, Montenegro).**
+
+---
+
+## History expansion (2026-11-15) — Dominican Republic stocked
+
+**Book 2:** *Ciencias Sociales, Cuarto Grado de Secundaria (4° Secundaria) — Proyecto Libro Abierto* (student book, Spanish) — Dominican Republic. Title as printed: Ciencias Sociales, Cuarto Grado de Secundaria (4° Secundaria) — Proyecto Libro Abierto. Grade: Grade 10 (student/teacher: STUDENT). Publisher: MINERD, Unidad Editorial; year not printed on the pages read; ISBN no ISBN printed. PDF pages: 208 (cover verified against the record title). Verdict: COMPLETE. Tally: 34 placements — 28 to existing lessons, 6 NEW LESSON NEEDED. Combined-subject note: this is a combined Ciencias Sociales book; only its History units are placed — its Geography units (El universo y el Sistema Solar (p. 10), La deriva continental (p. 26), El agua en los continentes (p. 42), Geografía política y económica de los continentes (p. 58)) and Civics unit (Educación ciudadana (p. 176)) are named here, not placed. Placements at liqlearns-courses-work/expansion-history-2026-11-15/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dominican Republic part — Unidad 7 La fase imperial — story beats: the republic gives way to emperors, and the empire strains and divides (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-rome-divides) | Dominican Republic, *Ciencias Sociales, Cuarto Grado de Secundaria — Proyecto Libro Abierto*, Unidad 7 La fase imperial — printed p. 118 |
+
+Dominican Republic's own way (Ciencias Sociales, Cuarto Grado de Secundaria — Proyecto Libro Abierto, Grade 10 (student/teacher: STUDENT)): secondary social studies is a straight world-history course — history as science, human origins, classical antiquity, feudalism, Europe's primacy, capitalism and the twentieth century's wars and revolutions — taught through primary/secondary source analysis. That way is stocked here as the way the Dominican Republic teaches this thing. Combined-subject note: this is a combined Ciencias Sociales book — only its History units are placed; its Geography and Civics units are named in the book entry above, not placed. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 7 countries (Ethiopia, Brazil, France, Costa Rica, Australia, Montenegro, Dominican Republic).**

@@ -1,6 +1,6 @@
 # Sources — Americas' first peoples — Paleoindian and Archaic
 
-countries: Guatemala
+countries: Guatemala, Dominican Republic
 
 **Book (Guatemala gt-g4):** Title as printed: Ciencias Sociales y Formación Ciudadana — Cuarto grado Grade: Grade 4 (student/teacher: STUDENT) Publisher: Ministerio de Educación de Guatemala (elaborated under USAID/Reforma Educativa en el Aula, Juárez y Asociados, with FUCUDE); impresión 2017; ISBN 978-9929-596-13-9 PDF pages: 256 (cover/title page verified against the record title; byte size 25,726,392 matches the books.json record exactly — the TSV mid-size-books-7 copy and the books.json pushed copy are this same book; the full-quality-oversized TSV copy is checked separately as Book 2) Verdict: COMPLETE Combined book — non-History parts named, not placed: Geography — spatial location, cardinal points, latitude/longitude (printed pp. 34–35), Central America country data, climate and relief (pp. 36–41), Central America isthmus, seas, biodiversity, mountains, volcanoes, roads and transport (pp. 82–92), rivers, lakes, gulfs, tectonic plates, ports, Panama Canal (pp. 130–138), migrations, population density, protected areas, tourism sites, telecommunications (pp. 178–186). Civics/values — government institutions of Guatemala (pp. 30–31, 167–168), human rights, children's and women's rights, coexistence, tolerance, bullying, the interview (pp. 43–51), respect, responsibility, organising information (pp. 93–100), punctuality, honesty, citizen registration, the citizen, national symbols (pp. 139–150), peace culture, conflict resolution, the vote (pp. 187–192), research techniques and process (pp. 147, 195), free-trade treaties and OEA (p. 166). Tally: 32 placements — 8 to existing lessons, 24 NEW LESSON NEEDED Guatemala's own way: the national story is told as one continuous timeline the child studies unit by unit (a shaded timeline opens each unit), anchored in the child's own community — old photographs of Tikal, "how has my community changed in fifty years", interviewing elders who lived the 1944 Revolution and the armed conflict — and the four peoples (Maya, Garífuna, Xinka, Ladino) frame identity throughout. Placements at liqlearns-courses-work/expansion-history-2026-11-15/guatemala-placements.md.
 
@@ -15,3 +15,17 @@ Guatemala's own way (Ciencias Sociales y Formación Ciudadana, Cuarto grado): th
 **Acceptance count: taught in 1 country (Guatemala).**
 
 Searchable tags: Americas' first peoples — Paleoindian and Archaic, Guatemala, ancient-world, History expansion 2026-11-15
+
+---
+
+## History expansion (2026-11-15) — Dominican Republic stocked
+
+**Book 1:** *Ciencias Sociales, Quinto Grado, Educación Primaria — Proyecto Libro Abierto* (student book, Spanish) — Dominican Republic. Title as printed: Ciencias Sociales, Quinto Grado, Educación Primaria — Proyecto Libro Abierto. Grade: Grade 5 (student/teacher: STUDENT). Publisher: MINERD, Unidad Editorial; year not printed on the pages read; ISBN no ISBN printed. PDF pages: 192 (cover verified against the record title). Verdict: COMPLETE. Tally: 13 placements — 5 to existing lessons, 8 NEW LESSON NEEDED. Combined-subject note: this is a combined Ciencias Sociales book; only its History units are placed — its Geography units (Geografía general (p. 10), Variación climática de los continentes (p. 26), Clima en República Dominicana (p. 42)) and Civics units (Nacionalidad y ciudadanía (p. 124), Organización de la sociedad (p. 142), Convivencia humana (p. 158)) are named here, not placed. Placements at liqlearns-courses-work/expansion-history-2026-11-15/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dominican Republic part — Unidad 5 Historia de América: Poblamiento de América — story beats: the first peoples cross into an empty continent and spread from north to south (History expansion, 2026-11-15; original placement slug: ancient-world/the-peopling-of-the-americas) | Dominican Republic, *Ciencias Sociales, Quinto Grado — Proyecto Libro Abierto*, Unidad 5 Historia de América: Poblamiento de América — printed p. 74 |
+
+Dominican Republic's own way (Ciencias Sociales, Quinto Grado — Proyecto Libro Abierto, Grade 5 (student/teacher: STUDENT)): History is introduced first as a science (sources, periods), then widens — America, the Caribbean, and finally Dominican history itself, told as annexation, restoration, caudillos and foreign intervention. That way is stocked here as the way the Dominican Republic teaches this thing. Combined-subject note: this is a combined Ciencias Sociales book — only its History units are placed; its Geography and Civics units are named in the book entry above, not placed. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 2 countries (Guatemala, Dominican Republic).**

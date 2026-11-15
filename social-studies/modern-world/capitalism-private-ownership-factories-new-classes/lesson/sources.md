@@ -1,6 +1,6 @@
 # Sources — Capitalism — private ownership, factories, new classes
 
-countries: Ethiopia, Brazil, Australia, Ecuador
+countries: Ethiopia, Brazil, Australia, Ecuador, Dominican Republic
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -109,3 +109,21 @@ Ecuador's own way (Ecuador Grade 8 EC-G8): the Superior book abandons the nation
 Ecuador's own way (Ecuador Grade 11 EC-G11): the Bachillerato Historia course runs the whole human story — evolution, river civilisations, Greece/Rome/Byzantium, faiths, pre-Columbian America, colony, revolutions, economic systems — but keeps bending it home: Ecuadorian Indigenous women, the Inca legacy and dollarised 21st-century Ecuador close the arc. That way is stocked here as the way Ecuador teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 4 countries (Ethiopia, Brazil, Australia, Ecuador).**
+
+---
+
+## History expansion (2026-11-15) — Dominican Republic stocked
+
+**Book 3:** *Ciencias Sociales, Sexto Grado, Educación Primaria — Proyecto Libro Abierto* (student book, Spanish) — Dominican Republic. Title as printed: Ciencias Sociales, Sexto Grado, Educación Primaria — Proyecto Libro Abierto. Grade: Grade 6 (student/teacher: STUDENT). Publisher: MINERD, Unidad Editorial; year not printed on the pages read; ISBN no ISBN printed. PDF pages: 192 (cover verified against the record title). Verdict: COMPLETE. Tally: 29 placements — 12 to existing lessons, 17 NEW LESSON NEEDED. Combined-subject note: this is a combined Ciencias Sociales book; only its History units are placed — its Geography units (Geografía universal (p. 11), Los continentes de la Tierra (p. 29)) and Civics units (Organización institucional del pueblo dominicano (p. 144), Convivencia humana (p. 160)) are named here, not placed. Placements at liqlearns-courses-work/expansion-history-2026-11-15/dominican-republic-placements.md.
+
+**Book 4:** *Ciencias Sociales, Cuarto Grado de Secundaria (4° Secundaria) — Proyecto Libro Abierto* (student book, Spanish) — Dominican Republic. Title as printed: Ciencias Sociales, Cuarto Grado de Secundaria (4° Secundaria) — Proyecto Libro Abierto. Grade: Grade 10 (student/teacher: STUDENT). Publisher: MINERD, Unidad Editorial; year not printed on the pages read; ISBN no ISBN printed. PDF pages: 208 (cover verified against the record title). Verdict: COMPLETE. Tally: 34 placements — 28 to existing lessons, 6 NEW LESSON NEEDED. Combined-subject note: this is a combined Ciencias Sociales book; only its History units are placed — its Geography units (El universo y el Sistema Solar (p. 10), La deriva continental (p. 26), El agua en los continentes (p. 42), Geografía política y económica de los continentes (p. 58)) and Civics unit (Educación ciudadana (p. 176)) are named here, not placed. Placements at liqlearns-courses-work/expansion-history-2026-11-15/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dominican Republic part — Unidad 4 El capitalismo: ciencias y desarrollo capitalista desde el siglo XVI — story beats: money, markets and science combine into a new economic order (History expansion, 2026-11-15; original placement slug: modern-world/capitalism-private-ownership-factories-new-classes) | Dominican Republic, *Ciencias Sociales, Sexto Grado — Proyecto Libro Abierto*, Unidad 4 El capitalismo: ciencias y desarrollo capitalista desde el siglo XVI — printed p. 68 |
+| Dominican Republic part — Unidad 8 Decadencia de la servidumbre e inicios del capitalismo — story beats: towns, trade and money loosen feudal bonds and capitalism stirs (History expansion, 2026-11-15; original placement slug: modern-world/capitalism-private-ownership-factories-new-classes) | Dominican Republic, *Ciencias Sociales, Cuarto Grado de Secundaria — Proyecto Libro Abierto*, Unidad 8 Decadencia de la servidumbre e inicios del capitalismo — printed p. 130 |
+
+Dominican Republic's own way (Ciencias Sociales, Sexto Grado — Proyecto Libro Abierto, Grade 6 (student/teacher: STUDENT)): a full world-history sweep (civilisations, modernity, revolutions) is bolted to a detailed national second half — occupation, Trujillo, Bosch, the April 1965 revolution and the democratic decades — so a primary leaver holds both stories at once. That way is stocked here as the way the Dominican Republic teaches this thing. Combined-subject note: this is a combined Ciencias Sociales book — only its History units are placed; its Geography and Civics units are named in the book entry above, not placed. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+Dominican Republic's own way (Ciencias Sociales, Cuarto Grado de Secundaria — Proyecto Libro Abierto, Grade 10 (student/teacher: STUDENT)): secondary social studies is a straight world-history course — history as science, human origins, classical antiquity, feudalism, Europe's primacy, capitalism and the twentieth century's wars and revolutions — taught through primary/secondary source analysis. That way is stocked here as the way the Dominican Republic teaches this thing. Combined-subject note: this is a combined Ciencias Sociales book — only its History units are placed; its Geography and Civics units are named in the book entry above, not placed. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 5 countries (Ethiopia, Brazil, Australia, Ecuador, Dominican Republic).**

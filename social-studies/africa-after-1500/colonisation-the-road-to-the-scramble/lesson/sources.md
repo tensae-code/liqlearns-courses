@@ -1,6 +1,6 @@
 # Sources — Colonisation — the road to the Scramble
 
-countries: Ethiopia, Rwanda, Eritrea
+countries: Ethiopia, Rwanda, Eritrea, Dominican Republic
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 5, placements 110–122).
 
@@ -78,3 +78,17 @@ Eritrea's own way (Grade 8): the whole modern national story is told as one chai
 Zimbabwe's own way (Grade 5): the road to colonisation is taught from the receiving end — agreements signed under trickery and the land lost by signature before it was lost by war. That way is stocked here as the way Zimbabwe teaches this thing. This book is a teacher guide: its row stands as teacher-guide evidence only, counted nowhere in acceptance. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 3 countries (Ethiopia, Rwanda, Eritrea) — unchanged; the Zimbabwe placement above is teacher-guide evidence only, counted nowhere. Zimbabwe is not added to this lesson's countries line.**
+
+---
+
+## History expansion (2026-11-15) — Dominican Republic stocked
+
+**Book 6:** *Ciencias Sociales, Cuarto Grado de Secundaria (4° Secundaria) — Proyecto Libro Abierto* (student book, Spanish) — Dominican Republic. Title as printed: Ciencias Sociales, Cuarto Grado de Secundaria (4° Secundaria) — Proyecto Libro Abierto. Grade: Grade 10 (student/teacher: STUDENT). Publisher: MINERD, Unidad Editorial; year not printed on the pages read; ISBN no ISBN printed. PDF pages: 208 (cover verified against the record title). Verdict: COMPLETE. Tally: 34 placements — 28 to existing lessons, 6 NEW LESSON NEEDED. Combined-subject note: this is a combined Ciencias Sociales book; only its History units are placed — its Geography units (El universo y el Sistema Solar (p. 10), La deriva continental (p. 26), El agua en los continentes (p. 42), Geografía política y económica de los continentes (p. 58)) and Civics unit (Educación ciudadana (p. 176)) are named here, not placed. Placements at liqlearns-courses-work/expansion-history-2026-11-15/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dominican Republic part — Unidad 10 Imperialismo: sometimiento de Asia y África — story beats: industrial empires carve up Asia and Africa between them (History expansion, 2026-11-15; original placement slug: africa-after-1500/colonisation-the-road-to-the-scramble) | Dominican Republic, *Ciencias Sociales, Cuarto Grado de Secundaria — Proyecto Libro Abierto*, Unidad 10 Imperialismo: sometimiento de Asia y África — printed p. 158 |
+
+Dominican Republic's own way (Ciencias Sociales, Cuarto Grado de Secundaria — Proyecto Libro Abierto, Grade 10 (student/teacher: STUDENT)): secondary social studies is a straight world-history course — history as science, human origins, classical antiquity, feudalism, Europe's primacy, capitalism and the twentieth century's wars and revolutions — taught through primary/secondary source analysis. That way is stocked here as the way the Dominican Republic teaches this thing. Combined-subject note: this is a combined Ciencias Sociales book — only its History units are placed; its Geography and Civics units are named in the book entry above, not placed. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 4 countries (Ethiopia, Rwanda, Eritrea, Dominican Republic).**

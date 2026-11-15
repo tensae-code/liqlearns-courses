@@ -1,6 +1,6 @@
 # Sources — What history is
 
-countries: Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro
+countries: Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -425,3 +425,17 @@ The teacher-guide rows above are evidence only; Indonesia's count in this lesson
 Montenegro's own way (ИСТОРИЈА за шести разред основне школе (Istorija 6), Grade 6 (student/teacher: STUDENT)): A world-history year (history itself, prehistory, the Ancient East, Greece, Rome) that lands, in its final lesson, on home ground — the Illyrian tribes and Roman ruins of Montenegro itself, so a Montenegrin child ends antiquity standing in Doclea. That way is stocked here as the way Montenegro teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 20 countries (Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro).**
+
+---
+
+## History expansion (2026-11-15) — Dominican Republic stocked
+
+**Book 10:** *Ciencias Sociales, Cuarto Grado de Secundaria (4° Secundaria) — Proyecto Libro Abierto* (student book, Spanish) — Dominican Republic. Title as printed: Ciencias Sociales, Cuarto Grado de Secundaria (4° Secundaria) — Proyecto Libro Abierto. Grade: Grade 10 (student/teacher: STUDENT). Publisher: MINERD, Unidad Editorial; year not printed on the pages read; ISBN no ISBN printed. PDF pages: 208 (cover verified against the record title). Verdict: COMPLETE. Tally: 34 placements — 28 to existing lessons, 6 NEW LESSON NEEDED. Combined-subject note: this is a combined Ciencias Sociales book; only its History units are placed — its Geography units (El universo y el Sistema Solar (p. 10), La deriva continental (p. 26), El agua en los continentes (p. 42), Geografía política y económica de los continentes (p. 58)) and Civics unit (Educación ciudadana (p. 176)) are named here, not placed. Placements at liqlearns-courses-work/expansion-history-2026-11-15/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dominican Republic part — Unidad 5 La historia como ciencia: definición e inicios de la Historia — story beats: the course first asks what history itself is before telling any of it (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Dominican Republic, *Ciencias Sociales, Cuarto Grado de Secundaria — Proyecto Libro Abierto*, Unidad 5 La historia como ciencia: definición e inicios de la Historia — printed p. 74 |
+
+Dominican Republic's own way (Ciencias Sociales, Cuarto Grado de Secundaria — Proyecto Libro Abierto, Grade 10 (student/teacher: STUDENT)): secondary social studies is a straight world-history course — history as science, human origins, classical antiquity, feudalism, Europe's primacy, capitalism and the twentieth century's wars and revolutions — taught through primary/secondary source analysis. That way is stocked here as the way the Dominican Republic teaches this thing. Combined-subject note: this is a combined Ciencias Sociales book — only its History units are placed; its Geography and Civics units are named in the book entry above, not placed. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 21 countries (Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic).**

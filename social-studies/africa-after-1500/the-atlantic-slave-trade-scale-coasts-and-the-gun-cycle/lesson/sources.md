@@ -1,6 +1,6 @@
 # Sources — The Atlantic slave trade — scale, coasts and the gun cycle
 
-countries: Ethiopia, Angola, Gambia, Australia, Bahamas
+countries: Ethiopia, Angola, Gambia, Australia, Bahamas, Dominican Republic
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -134,3 +134,17 @@ Australia's own way (Australia Retroactive 2 (Stage 5)): Stage 5 turns the same 
 Bahamas's own way (Bahamas Grade 4): Grade 4 history is a settler-and-nation sequence told through named groups and named people — Lucayans, Eleutheran Adventurers, Loyalists, the enslaved, then Governors General, Prime Ministers and nation builders — and even surnames are taught as historical evidence of how each island was settled. Non-History parts named, not placed: Geography — South Eastern Islands: compass, scale, latitude and longitude (PDF p. 6), Bodies of Water: the Bahama Banks (PDF p. 7), Transportation (PDF p. 10); Economics/science — Food & Natural Resources: cascarilla, aragonite, salt (PDF p. 8), Economic Impact of Farming and Fishing (PDF p. 11), Bush: hedge and garden plants (PDF p. 22); Civics — Laws / Correctional Institution and citizens' rights (PDF p. 14) That way is stocked here as the way Bahamas teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 5 countries (Ethiopia, Angola, Gambia, Australia, Bahamas).**
+
+---
+
+## History expansion (2026-11-15) — Dominican Republic stocked
+
+**Book 4:** *Ciencias Sociales, Quinto Grado, Educación Primaria — Proyecto Libro Abierto* (student book, Spanish) — Dominican Republic. Title as printed: Ciencias Sociales, Quinto Grado, Educación Primaria — Proyecto Libro Abierto. Grade: Grade 5 (student/teacher: STUDENT). Publisher: MINERD, Unidad Editorial; year not printed on the pages read; ISBN no ISBN printed. PDF pages: 192 (cover verified against the record title). Verdict: COMPLETE. Tally: 13 placements — 5 to existing lessons, 8 NEW LESSON NEEDED. Combined-subject note: this is a combined Ciencias Sociales book; only its History units are placed — its Geography units (Geografía general (p. 10), Variación climática de los continentes (p. 26), Clima en República Dominicana (p. 42)) and Civics units (Nacionalidad y ciudadanía (p. 124), Organización de la sociedad (p. 142), Convivencia humana (p. 158)) are named here, not placed. Placements at liqlearns-courses-work/expansion-history-2026-11-15/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dominican Republic part — Unidad 5 Comercio triangular: la esclavitud en distintos contextos y rebeliones — story beats: the triangular trade ships enslaved Africans to America, and the enslaved rise in rebellion (History expansion, 2026-11-15; original placement slug: africa-after-1500/the-atlantic-slave-trade-scale-coasts-and-the-gun-cycle) | Dominican Republic, *Ciencias Sociales, Quinto Grado — Proyecto Libro Abierto*, Unidad 5 Comercio triangular: la esclavitud en distintos contextos y rebeliones — printed p. 82 |
+
+Dominican Republic's own way (Ciencias Sociales, Quinto Grado — Proyecto Libro Abierto, Grade 5 (student/teacher: STUDENT)): History is introduced first as a science (sources, periods), then widens — America, the Caribbean, and finally Dominican history itself, told as annexation, restoration, caudillos and foreign intervention. That way is stocked here as the way the Dominican Republic teaches this thing. Combined-subject note: this is a combined Ciencias Sociales book — only its History units are placed; its Geography and Civics units are named in the book entry above, not placed. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 6 countries (Ethiopia, Angola, Gambia, Australia, Bahamas, Dominican Republic).**

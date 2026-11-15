@@ -1,0 +1,16 @@
+# Sources — Dominican thinkers — liberalism and Hostos
+
+countries: Dominican Republic
+
+**Book 5:** *Ciencias Sociales, Sexto Grado de Secundaria (6° Secundaria) — Proyecto Libro Abierto* (student book, Spanish) — Dominican Republic. Title as printed: Ciencias Sociales, Sexto Grado de Secundaria (6° Secundaria) — Proyecto Libro Abierto. Grade: Grade 12 (student/teacher: STUDENT). Publisher: MINERD, Unidad Editorial; year not printed on the pages read; ISBN no ISBN printed. PDF pages: 240 (cover verified against the record title). Verdict: COMPLETE. Tally: 16 placements — 0 to existing lessons, 16 NEW LESSON NEEDED. Combined-subject note: this is a combined Ciencias Sociales book; only its History units are placed — its Geography/economics units (La población dominicana (p. 136), La economía dominicana en el presente (p. 154), Distribución espacial de la población (p. 172), Condiciones económicas y variaciones territoriales (p. 190)) and Civics unit (Democracia, deberes, derechos y participación (p. 208)) are named here, not placed. Placements at liqlearns-courses-work/expansion-history-2026-11-15/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dominican Republic part — Unidad 6 La discursiva sobre la condición dominicana: dualidad conservadora-liberal y apogeo del liberalismo — story beats: Dominican thinkers argue for a century over what their nation is — conservative order against liberal reform (History expansion, 2026-11-15; original placement slug: modern-world/dominican-thinkers-liberalism-and-hostos) | Dominican Republic, *Ciencias Sociales, Sexto Grado de Secundaria — Proyecto Libro Abierto*, Unidad 6 La discursiva sobre la condición dominicana: dualidad conservadora-liberal y apogeo del liberalismo — printed p. 100 |
+| Dominican Republic part — Unidad 6 Hostos y el positivismo — story beats: Eugenio María de Hostos brings positivism and a schoolmaster's faith in education to remake the republic (History expansion, 2026-11-15; original placement slug: modern-world/dominican-thinkers-liberalism-and-hostos) | Dominican Republic, *Ciencias Sociales, Sexto Grado de Secundaria — Proyecto Libro Abierto*, Unidad 6 Hostos y el positivismo — printed p. 110 |
+
+Dominican Republic's own way (Ciencias Sociales, Sexto Grado de Secundaria — Proyecto Libro Abierto, Grade 12 (student/teacher: STUDENT)): the final secondary year is almost pure national history — occupation, Trujillo, the democratic struggles, Balaguer, the transition, Dominican political thought (Hostos) and constitutional evolution — taught with debates, memory interviews and round tables, not just narrative. That way is stocked here as the way the Dominican Republic teaches this thing. Combined-subject note: this is a combined Ciencias Sociales book — only its History units are placed; its Geography and Civics units are named in the book entry above, not placed. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 1 country (Dominican Republic).**
+
+Searchable tags: Dominican Republic, Dominican thinkers — liberalism and Hostos, modern-world, History expansion 2026-11-15

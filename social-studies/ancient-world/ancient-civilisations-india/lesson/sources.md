@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — India
 
-countries: Ethiopia, Bangladesh, Australia, Malaysia, Ecuador, India, Indonesia
+countries: Ethiopia, Bangladesh, Australia, Malaysia, Ecuador, India, Indonesia, Dominican Republic
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -144,3 +144,17 @@ Duplicate record id-g10s2 is the same file byte-for-byte (identical byte size 3,
 Indonesia's own way (Sejarah untuk SMK Kelas X, Kelas X / Grade 10, SMK (student/teacher: STUDENT)): the Kurikulum Merdeka course opens with a whole book on how history works — humans, space and time — taught through Indonesian cases (a volcano, a tram system, a drum, a magazine) and hero biographies, before any chronological survey begins. That way is stocked here as the way Indonesia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 7 countries (Ethiopia, Bangladesh, Australia, Malaysia, Ecuador, India, Indonesia).**
+
+---
+
+## History expansion (2026-11-15) — Dominican Republic stocked
+
+**Book 13:** *Ciencias Sociales, Cuarto Grado de Secundaria (4° Secundaria) — Proyecto Libro Abierto* (student book, Spanish) — Dominican Republic. Title as printed: Ciencias Sociales, Cuarto Grado de Secundaria (4° Secundaria) — Proyecto Libro Abierto. Grade: Grade 10 (student/teacher: STUDENT). Publisher: MINERD, Unidad Editorial; year not printed on the pages read; ISBN no ISBN printed. PDF pages: 208 (cover verified against the record title). Verdict: COMPLETE. Tally: 34 placements — 28 to existing lessons, 6 NEW LESSON NEEDED. Combined-subject note: this is a combined Ciencias Sociales book; only its History units are placed — its Geography units (El universo y el Sistema Solar (p. 10), La deriva continental (p. 26), El agua en los continentes (p. 42), Geografía política y económica de los continentes (p. 58)) and Civics unit (Educación ciudadana (p. 176)) are named here, not placed. Placements at liqlearns-courses-work/expansion-history-2026-11-15/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dominican Republic part — Unidad 6 India antigua — story beats: on the Indus and the Ganges, cities and faiths grow into a civilisation (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-india) | Dominican Republic, *Ciencias Sociales, Cuarto Grado de Secundaria — Proyecto Libro Abierto*, Unidad 6 India antigua — printed p. 102 |
+
+Dominican Republic's own way (Ciencias Sociales, Cuarto Grado de Secundaria — Proyecto Libro Abierto, Grade 10 (student/teacher: STUDENT)): secondary social studies is a straight world-history course — history as science, human origins, classical antiquity, feudalism, Europe's primacy, capitalism and the twentieth century's wars and revolutions — taught through primary/secondary source analysis. That way is stocked here as the way the Dominican Republic teaches this thing. Combined-subject note: this is a combined Ciencias Sociales book — only its History units are placed; its Geography and Civics units are named in the book entry above, not placed. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 8 countries (Ethiopia, Bangladesh, Australia, Malaysia, Ecuador, India, Indonesia, Dominican Republic).**

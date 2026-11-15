@@ -2581,7 +2581,7 @@ Plants and Animals.
 
 ## History expansion totals
 
-History lessons across the History titles: **1041**
+History lessons across the History titles: **1056**
 (248 before the expansion; +1 for Guyana, 2026-11-15 —
 Modern World: Guyana — our nation: independence and
 symbols. All 3 Guyana placements stand on Guyana's
@@ -3972,3 +3972,25 @@ history in your own locality 14 → 15, Who studies
 prehistory 8 → 9, Fact or opinion 4 → 5, The
 Reformation — Luther and the spread of Protestantism
 5 → 6, The Second World War — course in Europe 6 → 7.
+
++15 for the Dominican Republic, 2026-11-15 — Ancient World:
+Hominisation — the first humans; Modern World: Dominican
+Republic — our history, heroes and symbols, Piracy and
+smuggling in colonial Santo Domingo, Dominican Republic —
+annexation and restoration, Dominican Republic — caudillos
+and dictators, Dominican Republic — the US occupation,
+1916–1924, The Americas in the twentieth century, Dominican
+Republic — between occupation and dictatorship: the Vásquez
+years, 1924–1930, The Trujillo dictatorship, 1930–1961,
+Dominican Republic after Trujillo, 1961–1965, Dominican
+Republic — the April 1965 revolution, Dominican Republic —
+Balaguer and the democratic transition, The Chinese
+Revolution, 1949, Dominican thinkers — liberalism and
+Hostos, Dominican Republic — constitutional history.
+All 97 Dominican Republic placements are stocked (59 into
+43 existing lessons, 38 into the 15 new lessons) on the
+five MINERD "Libro Abierto" Ciencias Sociales student
+books (Grades 3, 5, 6, 10 and 12).
+HONESTY: all five books are student books, so every placement counts. The books are combined Ciencias Sociales — only their History units are placed; their Geography and Civics units are named in each book entry, not placed. Seven placements whose named slugs do not exist are stocked into the closest existing lesson covering that thing, with the original slug recorded in each provenance row: the peopling of the Americas → Americas' first peoples — Paleoindian and Archaic; the first civilisations of Asia and Africa → The Urban Revolution — the first cities; modern empires → Imperialism and its crisis; the United States expands → Westward expansion and the Mexican-American War, 1800–1860; the English Revolution → The Dutch Revolt and the English Revolution; the end of the Cold War → The end of 'real socialism' and the Cold War; Latin American independence (5 placements) → Latin American independence — ideas and processes. Liberalism and socialism, named NEW in the placements, already existed — built on Iceland teacher-guide evidence alone (acceptance 0); the Dominican Republic's student books now stock it and it counts 1, with Iceland still named as teacher-guide evidence only.
+The existing lessons stocked rise with the Dominican
+Republic added: Heritage — what it is and why it matters 27 → 28, From evidence to a written history 17 → 18, Who studies prehistory 9 → 10, Dating the past 15 → 16, What history is 20 → 21, Historiography 5 → 6, Exploration — Columbus, Vespucci and Magellan 8 → 9, The Atlantic slave trade — scale, coasts and the gun cycle 5 → 6, Americas' first peoples — Paleoindian and Archaic 1 → 2, From stone tools to farming 14 → 15, The Urban Revolution — the first cities 1 → 2, Ancient civilisations — Greece: Crete 10 → 11, Ancient civilisations — Rome 11 → 12, Medieval world — the Dark Age and feudalism 8 → 9, Ancient civilisations — Mesopotamia 8 → 9, Ancient Egypt — the Nile Kingdom 10 → 11, Ancient civilisations — India 7 → 8, Ancient civilisations — China 5 → 6, Ancient civilisations — Athens and democracy 7 → 8, Ancient civilisations — Rome divides 6 → 7, The Renaissance — what it was 7 → 8, Imperialism and its crisis 1 → 2, Capitalism — private ownership, factories, new classes 4 → 5, The Industrial Revolution — what changed and why England first 8 → 9, Liberalism and socialism 0 → 1, Scientific Revolution and Enlightenment 6 → 7, The French Revolution breaks out 1789 6 → 7, Latin American independence — ideas and processes 1 → 2, Westward expansion and the Mexican-American War 1 → 2, Exploration — causes and results 8 → 9, The Reformation — Luther and the spread of Protestantism 6 → 7, The Dutch Revolt and the English Revolution 1 → 2, American independence 6 → 7, The Industrial Revolution — textiles, steam and rail 4 → 5, The Industrial Revolution — its two stages 3 → 4, Colonisation — the road to the Scramble 3 → 4, The First World War — causes 7 → 8, The First World War — course of the war 3 → 4, 1917 twice — February and October in Russia 3 → 4, Fascism and Nazism — two dictatorships compared 3 → 4, The Second World War — causes 8 → 9, The Second World War — course in Europe 7 → 8, The end of 'real socialism' and the Cold War 1 → 2.

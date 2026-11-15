@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — Mesopotamia
 
-countries: Ethiopia, Poland, Turkey, Bangladesh, Costa Rica, Malaysia, Ecuador, Montenegro
+countries: Ethiopia, Poland, Turkey, Bangladesh, Costa Rica, Malaysia, Ecuador, Montenegro, Dominican Republic
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -149,3 +149,17 @@ Ecuador's own way (Ecuador Grade 11 EC-G11): the Bachillerato Historia course ru
 Montenegro's own way (ИСТОРИЈА за шести разред основне школе (Istorija 6), Grade 6 (student/teacher: STUDENT)): A world-history year (history itself, prehistory, the Ancient East, Greece, Rome) that lands, in its final lesson, on home ground — the Illyrian tribes and Roman ruins of Montenegro itself, so a Montenegrin child ends antiquity standing in Doclea. That way is stocked here as the way Montenegro teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 8 countries (Ethiopia, Poland, Turkey, Bangladesh, Costa Rica, Malaysia, Ecuador, Montenegro).**
+
+---
+
+## History expansion (2026-11-15) — Dominican Republic stocked
+
+**Book 3:** *Ciencias Sociales, Cuarto Grado de Secundaria (4° Secundaria) — Proyecto Libro Abierto* (student book, Spanish) — Dominican Republic. Title as printed: Ciencias Sociales, Cuarto Grado de Secundaria (4° Secundaria) — Proyecto Libro Abierto. Grade: Grade 10 (student/teacher: STUDENT). Publisher: MINERD, Unidad Editorial; year not printed on the pages read; ISBN no ISBN printed. PDF pages: 208 (cover verified against the record title). Verdict: COMPLETE. Tally: 34 placements — 28 to existing lessons, 6 NEW LESSON NEEDED. Combined-subject note: this is a combined Ciencias Sociales book; only its History units are placed — its Geography units (El universo y el Sistema Solar (p. 10), La deriva continental (p. 26), El agua en los continentes (p. 42), Geografía política y económica de los continentes (p. 58)) and Civics unit (Educación ciudadana (p. 176)) are named here, not placed. Placements at liqlearns-courses-work/expansion-history-2026-11-15/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dominican Republic part — Unidad 6 El inicio de las civilizaciones orientales — story beats: between two rivers the first cities, kings and laws appear (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-mesopotamia) | Dominican Republic, *Ciencias Sociales, Cuarto Grado de Secundaria — Proyecto Libro Abierto*, Unidad 6 El inicio de las civilizaciones orientales — printed p. 98 |
+
+Dominican Republic's own way (Ciencias Sociales, Cuarto Grado de Secundaria — Proyecto Libro Abierto, Grade 10 (student/teacher: STUDENT)): secondary social studies is a straight world-history course — history as science, human origins, classical antiquity, feudalism, Europe's primacy, capitalism and the twentieth century's wars and revolutions — taught through primary/secondary source analysis. That way is stocked here as the way the Dominican Republic teaches this thing. Combined-subject note: this is a combined Ciencias Sociales book — only its History units are placed; its Geography and Civics units are named in the book entry above, not placed. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 9 countries (Ethiopia, Poland, Turkey, Bangladesh, Costa Rica, Malaysia, Ecuador, Montenegro, Dominican Republic).**

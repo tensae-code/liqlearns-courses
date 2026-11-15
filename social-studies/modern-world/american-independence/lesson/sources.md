@@ -1,6 +1,6 @@
 # Sources — American independence
 
-countries: Ethiopia, France, United States, Ecuador, Kuwait, Montenegro
+countries: Ethiopia, France, United States, Ecuador, Kuwait, Montenegro, Dominican Republic
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under GEQIP-E, ISBN 978-99990-0-066-6. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -118,3 +118,17 @@ Kuwait's own way (Grade 12 Term 2): Term 2 runs revolutions into world wars and 
 Montenegro's own way (ИСТОРИЈА за осми разред основне школе (Istorija 8), Grade 8 (student/teacher: STUDENT)): Two world chapters and two home chapters alternate: Europe of discoveries and revolutions, then Montenegro 1697–1851 building a theocratic state; the world to 1914, then Montenegro 1851–1914 racing to catch it — principality, wars, constitution. That way is stocked here as the way Montenegro teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 6 countries (Ethiopia, France, United States, Ecuador, Kuwait, Montenegro).**
+
+---
+
+## History expansion (2026-11-15) — Dominican Republic stocked
+
+**Book 15:** *Ciencias Sociales, Cuarto Grado de Secundaria (4° Secundaria) — Proyecto Libro Abierto* (student book, Spanish) — Dominican Republic. Title as printed: Ciencias Sociales, Cuarto Grado de Secundaria (4° Secundaria) — Proyecto Libro Abierto. Grade: Grade 10 (student/teacher: STUDENT). Publisher: MINERD, Unidad Editorial; year not printed on the pages read; ISBN no ISBN printed. PDF pages: 208 (cover verified against the record title). Verdict: COMPLETE. Tally: 34 placements — 28 to existing lessons, 6 NEW LESSON NEEDED. Combined-subject note: this is a combined Ciencias Sociales book; only its History units are placed — its Geography units (El universo y el Sistema Solar (p. 10), La deriva continental (p. 26), El agua en los continentes (p. 42), Geografía política y económica de los continentes (p. 58)) and Civics unit (Educación ciudadana (p. 176)) are named here, not placed. Placements at liqlearns-courses-work/expansion-history-2026-11-15/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dominican Republic part — Unidad 10 Modernidad y capitalismo: fundación de Estados Unidos — story beats: thirteen colonies rebel and found a republic across the Atlantic (History expansion, 2026-11-15; original placement slug: modern-world/american-independence) | Dominican Republic, *Ciencias Sociales, Cuarto Grado de Secundaria — Proyecto Libro Abierto*, Unidad 10 Modernidad y capitalismo: fundación de Estados Unidos — printed p. 144 |
+
+Dominican Republic's own way (Ciencias Sociales, Cuarto Grado de Secundaria — Proyecto Libro Abierto, Grade 10 (student/teacher: STUDENT)): secondary social studies is a straight world-history course — history as science, human origins, classical antiquity, feudalism, Europe's primacy, capitalism and the twentieth century's wars and revolutions — taught through primary/secondary source analysis. That way is stocked here as the way the Dominican Republic teaches this thing. Combined-subject note: this is a combined Ciencias Sociales book — only its History units are placed; its Geography and Civics units are named in the book entry above, not placed. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 7 countries (Ethiopia, France, United States, Ecuador, Kuwait, Montenegro, Dominican Republic).**

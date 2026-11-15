@@ -1,6 +1,6 @@
 # Sources — Scientific Revolution and Enlightenment
 
-countries: Ethiopia, France, Costa Rica, Ecuador, Belarus, Montenegro
+countries: Ethiopia, France, Costa Rica, Ecuador, Belarus, Montenegro, Dominican Republic
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -86,3 +86,18 @@ Belarus's own way (Atlas: History of Belarus, Grade 8, Grade 8): The same paired
 Montenegro's own way (ИСТОРИЈА за осми разред основне школе (Istorija 8), Grade 8 (student/teacher: STUDENT)): Two world chapters and two home chapters alternate: Europe of discoveries and revolutions, then Montenegro 1697–1851 building a theocratic state; the world to 1914, then Montenegro 1851–1914 racing to catch it — principality, wars, constitution. That way is stocked here as the way Montenegro teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 6 countries (Ethiopia, France, Costa Rica, Ecuador, Belarus, Montenegro).**
+
+---
+
+## History expansion (2026-11-15) — Dominican Republic stocked
+
+**Book 4:** *Ciencias Sociales, Sexto Grado, Educación Primaria — Proyecto Libro Abierto* (student book, Spanish) — Dominican Republic. Title as printed: Ciencias Sociales, Sexto Grado, Educación Primaria — Proyecto Libro Abierto. Grade: Grade 6 (student/teacher: STUDENT). Publisher: MINERD, Unidad Editorial; year not printed on the pages read; ISBN no ISBN printed. PDF pages: 192 (cover verified against the record title). Verdict: COMPLETE. Tally: 29 placements — 12 to existing lessons, 17 NEW LESSON NEEDED. Combined-subject note: this is a combined Ciencias Sociales book; only its History units are placed — its Geography units (Geografía universal (p. 11), Los continentes de la Tierra (p. 29)) and Civics units (Organización institucional del pueblo dominicano (p. 144), Convivencia humana (p. 160)) are named here, not placed. Placements at liqlearns-courses-work/expansion-history-2026-11-15/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dominican Republic part — Unidad 5 Historia de América: la Ilustración y los cambios del siglo XVIII — story beats: Enlightenment ideas cross the Atlantic and start to dissolve the old order (History expansion, 2026-11-15; original placement slug: modern-world/scientific-revolution-and-enlightenment) | Dominican Republic, *Ciencias Sociales, Sexto Grado — Proyecto Libro Abierto*, Unidad 5 Historia de América: la Ilustración y los cambios del siglo XVIII — printed p. 76 |
+| Dominican Republic part — Unidad 5 Reformas monárquicas en Europa — story beats: kings try to modernise their empires from above before change comes from below (History expansion, 2026-11-15; original placement slug: modern-world/scientific-revolution-and-enlightenment) | Dominican Republic, *Ciencias Sociales, Sexto Grado — Proyecto Libro Abierto*, Unidad 5 Reformas monárquicas en Europa — printed p. 79 |
+
+Dominican Republic's own way (Ciencias Sociales, Sexto Grado — Proyecto Libro Abierto, Grade 6 (student/teacher: STUDENT)): a full world-history sweep (civilisations, modernity, revolutions) is bolted to a detailed national second half — occupation, Trujillo, Bosch, the April 1965 revolution and the democratic decades — so a primary leaver holds both stories at once. That way is stocked here as the way the Dominican Republic teaches this thing. Combined-subject note: this is a combined Ciencias Sociales book — only its History units are placed; its Geography and Civics units are named in the book entry above, not placed. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 7 countries (Ethiopia, France, Costa Rica, Ecuador, Belarus, Montenegro, Dominican Republic).**
