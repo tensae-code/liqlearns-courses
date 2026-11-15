@@ -9183,3 +9183,83 @@ UNESCO General History of Africa pedagogical-guide
 prototype for ages 10–12, filed in the library under
 Djibouti; Djibouti's own primary history/social-studies
 book is still missing. History lessons: 370 → 380.
+
+
+## History expansion — United States — built 2026-11-15
+
+27 new lessons, 216 questions, in **The Modern World** — the
+United States' own national survey, from *U.S. History*
+(Grade 13, student book, OpenStax, Rice University;
+original publication year 2014, this PDF ©2026 Rice
+University, ISBN 978-1-947172-08-1, COMPLETE): The
+Americas before 1492 (modern-world/the-americas-before-1492),
+The Atlantic world — rival empires and faiths
+(modern-world/atlantic-world-rival-empires-and-faiths),
+Colonial societies in the Americas
+(modern-world/colonial-societies-in-the-americas), The
+English empire in America, 1660–1763
+(modern-world/the-english-empire-in-america-1660-1763),
+Imperial reforms and colonial protests, 1763–1774
+(modern-world/imperial-reforms-and-colonial-protests-1763-1774),
+The US Constitution and republican governments
+(modern-world/the-us-constitution-and-republican-governments),
+The early American republic, 1790–1820
+(modern-world/the-early-american-republic-1790-1820),
+Industrial transformation in the North
+(modern-world/industrial-transformation-in-the-north),
+Jacksonian democracy (modern-world/jacksonian-democracy),
+Westward expansion and the Mexican-American War
+(modern-world/westward-expansion-and-the-mexican-american-war),
+Cotton and slavery — the antebellum South
+(modern-world/cotton-and-slavery-the-antebellum-south),
+Antebellum reform and abolition
+(modern-world/antebellum-reform-and-abolition), The
+tumultuous 1850s — the road to civil war
+(modern-world/the-tumultuous-1850s-road-to-civil-war),
+Reconstruction, 1865–1877
+(modern-world/reconstruction-1865-1877), The American
+West, 1840–1900 (modern-world/the-american-west-1840-1900),
+Big business and industrial America
+(modern-world/big-business-and-industrial-america),
+Urbanisation and immigration, 1870–1900
+(modern-world/urbanisation-and-immigration-1870-1900),
+Gilded Age politics and populism
+(modern-world/gilded-age-politics-and-populism), The
+Progressive Movement (modern-world/the-progressive-movement),
+America's age of empire, 1890–1914
+(modern-world/americas-age-of-empire-1890-1914), The Jazz
+Age — 1920s America (modern-world/the-jazz-age-1920s-america),
+The New Deal (modern-world/the-new-deal), Postwar America
+and Cold War fears
+(modern-world/postwar-america-and-cold-war-fears), America
+in the 1960s — civil rights and the Great Society
+(modern-world/america-in-the-1960s-civil-rights-and-great-society),
+Political storms, 1968–1980 — Vietnam and Watergate
+(modern-world/political-storms-1968-1980-vietnam-and-watergate),
+From Cold War to culture wars, 1980–2000
+(modern-world/from-cold-war-to-culture-wars-1980-2000) and
+America in the twenty-first century
+(modern-world/america-in-the-twenty-first-century)
+— 35 placements stocked in all: the 27 new lessons above
+(Chapters 1, 2 §§2.2–2.3, 3–5, 7–14, 16–22, 24, 26 and
+28–32, printed pp. 7–883) and 8 stocked into existing
+lessons (Exploration — Portugal and the sea routes,
+Chapter 2 §2.1, printed p. 32, now taught in 4 countries;
+Exploration — causes and results, Chapter 2 §2.4,
+printed p. 47, now taught in 2 countries; American
+independence, Chapter 6, printed p. 139, now taught in
+3 countries; The American Civil War, Chapter 15,
+printed p. 387, now taught in 2 countries; The First
+World War — course of the war, Chapter 23, printed
+p. 613, now taught in 2 countries; The Great Depression
+— 1929, Chapter 25, printed p. 673, now taught in 2
+countries; The Second World War — course in Europe,
+Chapter 27 §§27.1 and 27.3, printed p. 731, now taught
+in 2 countries; and The Second World War — the Pacific
+and the results, Chapter 27 §27.4, printed p. 753, now
+taught in 2 countries). The United States' other three
+records are RECORD-ONLY, not History books, with 0
+placements: *American Government 3e* (Civics),
+*Psychology 2e* (Psychology) and *Principles of
+Microeconomics for AP® Courses 2e* (Economics).
+History lessons: 380 → 407.

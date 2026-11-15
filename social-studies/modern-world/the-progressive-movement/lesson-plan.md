@@ -1,0 +1,48 @@
+# Lesson plan — The Progressive Movement, 1890–1920
+
+**Course:** Social Studies · **Title:** Modern World · **Lesson:** The Progressive Movement, 1890–1920
+**Place in the curriculum:** Modern World — built in the History expansion (United States, 2026-11-15).
+**The one thing this lesson teaches:** Muckrakers dug up the filth, grassroots reformers organised, new voices rose for women and African Americans — and Progressivism walked into the White House.
+**This lesson's own level:** it stands on the story itself — people, places, what happened, what changed. It needs nothing else first.
+
+A lesson plan also says **what goes on top of the lesson**: at the exact places marked below, the lesson page carries an add-on — an image, a GIF, a video, an audio. Every slot is written as **"a picture of …" in words, plus one little line saying what the student does with it**. The words carry the picture while the course is built; on the website the real add-on is dropped into that slot and the little explanation stays as the student's guide. History is taught as story: people, places, what happened, what changed.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees from the start, locked ahead, each opening when the one before it is proved:
+
+1. **Muckrakers and grassroots reformers attack** — Muckrakers — journalists who raked up the muck — attacked corruption, monopoly and city squalor in print.
+2. **New voices rise for women and African Americans** — New voices rose for women and African Americans — demanding the vote, an end to lynching and exclusion, and a place in the reforming nation.
+3. **Progressivism reaches the White House** — Progressivism reached the White House with Theodore Roosevelt and Woodrow Wilson — trust-busting, regulation and reform from the presidency itself.
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
+
+## Before this lesson
+- Recommended first: the earlier lessons of the United States survey in Modern World, in chapter order. Recommended, never forced.
+
+## What the learner can do when it ends
+1. Tell the story of: Muckrakers and grassroots reformers attack.
+2. Tell the story of: New voices rise for women and African Americans.
+3. Tell the story of: Progressivism reaches the White House.
+
+## What you need
+Paper and a pencil. The lesson carries its own picture slots in words.
+
+## The run of the lesson (in order)
+1. **Do it first** — the story hook that opens lesson/lesson.md, before any explanation.
+2. **The explanation** — the story itself, part by part (lesson/lesson.md), with these add-on slots at their exact places:
+   - ADD IMAGE: a picture of the world of this lesson as the book shows it — the student points to the picture and says what changed in this part of the story. (Described slot only; no picture file is made in this build.)
+   - ADD VIDEO: the script in video-script.md, filmed — the story told straight (made later, when videos are made).
+3. **Say it to your companion** — retell the story in your own words (lesson/lesson.md).
+4. **Questions** — from questions/: multiple-choice, true-or-false and short-answer — served at the learner's level and teaching-mix (levels.md).
+5. **Hands-on** — hands-on.md.
+6. **Do It Yourself** — the closing doing block (lesson/lesson.md).
+
+## Add-ons for this lesson (the full list)
+- ADD IMAGE: a picture of the world of this lesson as the book shows it — the student points to the picture and says what changed in this part of the story. (Described slot only; no picture file is made in this build.)
+- ADD VIDEO: the script in video-script.md, filmed — the story told straight (made later, when videos are made).
+
+## If the learner is stuck
+If the learner loses the thread, return to the hook: Muckrakers dug up the filth, grassroots reformers organised, new voices rose for women and African Americans — and Progressivism walked into the White House.
+
+## Teacher note
+The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md. History here is summary in the course's own words — never the book's text. A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

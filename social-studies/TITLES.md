@@ -168,7 +168,7 @@ the one title at rising depth wherever a title spans both books
   Children of the Road, Cornelia Studer and the Gott
   hilft children's home, Florian Branger and
   administrative detention, and Ruedi Hofer, the
-  Verdingkinder and reparation).
+  Verdingkinder and reparation, and the United States — its own national survey in 27 lessons, from the Americas before 1492 to America in the twenty-first century).
   (No teacher evidence yet.)
 - `global-issues/` — today's shared problems: population
   pressure, HIV/AIDS, climate, water, forests — and protecting
@@ -2573,7 +2573,7 @@ Plants and Animals.
 
 ## History expansion totals
 
-History lessons across the History titles: **380**
+History lessons across the History titles: **407**
 (248 before the expansion; +1 for Guyana, 2026-11-15 —
 Modern World: Guyana — our nation: independence and
 symbols. All 3 Guyana placements stand on Guyana's
@@ -2924,3 +2924,44 @@ Library debt, carried as filed: the book is a
 continental UNESCO guide filed under Djibouti, not a
 Djibouti national curriculum book — Djibouti's own
 primary history/social-studies book is still missing.
+
++27 for the United States, 2026-11-15 — Modern World:
+The Americas before 1492 — three worlds on the eve of
+contact, The Atlantic world — rival empires and faiths,
+Colonial societies in the Americas, The English empire
+in America, 1660–1763, Imperial reforms and colonial
+protests, 1763–1774, The US Constitution and republican
+governments, The early American republic, 1790–1820,
+Industrial transformation in the North, Jacksonian
+democracy, Westward expansion and the
+Mexican-American War, Cotton and slavery — the
+antebellum South, Antebellum reform and abolition, The
+tumultuous 1850s — the road to civil war, Reconstruction,
+1865–1877, The American West, 1840–1900, Big business
+and industrial America, Urbanisation and immigration,
+1870–1900, Gilded Age politics and populism, The
+Progressive Movement, America's age of empire,
+1890–1914, The Jazz Age — 1920s America, The New Deal,
+Postwar America and Cold War fears, America in the
+1960s — civil rights and the Great Society, Political
+storms, 1968–1980 — Vietnam and Watergate, From Cold
+War to culture wars, 1980–2000, and America in the
+twenty-first century. All 35 United States placements
+stand on the United States' Grade 13 student book
+(*U.S. History*, OpenStax, Rice University; original
+publication year 2014, this PDF ©2026 Rice University,
+ISBN 978-1-947172-08-1), counted in acceptance (the 27
+new lessons; and the eight existing lessons stocked,
+whose counts rise with the United States added —
+Modern World Exploration — Portugal and the sea routes
+3 → 4, Exploration — causes and results 1 → 2,
+American independence 2 → 3, The American Civil War —
+union against slavery 1 → 2, The First World War —
+course of the war 1 → 2, The Great Depression — 1929
+1 → 2, The Second World War — course in Europe 1 → 2
+and The Second World War — the Pacific and the results
+1 → 2). The United States' three other records are
+RECORD ONLY — *American Government 3e* (Civics),
+*Psychology 2e* (Psychology) and *Principles of
+Microeconomics for AP® Courses 2e* (Economics), not
+placed.
