@@ -8373,3 +8373,64 @@ as evidence only — every new lesson's acceptance
 count is 0 countries, counted nowhere, and the
 existing lesson's acceptance count does not change.
 History lessons: 262 → 270.
+
+## History expansion — Tuvalu — built 2026-11-15
+
+1 new lesson, 8 questions, in **The Modern World**:
+European whaling in the Pacific
+(modern-world/european-whaling-in-the-pacific)
+— 10 placements stocked from Tuvalu's three regional
+USP/UNESCO ESD books: *People and the Sea in the
+Pacific — Book 1*, Years 5–6 student reader (Institute
+of Education, University of the South Pacific (Tonga
+Campus) with UNESCO, sponsored by the Japanese
+Funds-in-Trust, 2020, no ISBN printed): "The Ocean in
+our blood" and the old exchange community — Fiji,
+Samoa, Tonga, Niue, Rotuma, Tokelau, Tuvalu, Futuna
+and Uvea once one large exchange community, peoples
+voyaging between islands circulating wealth, skills
+and goods (printed pp. 1–2), stocked into the existing
+Ancient World lesson Pacific voyaging and island
+exchange — a NEW LESSON NEEDED placement in the
+Tuvalu file, stocked into the lesson built for the
+same topic in the Nauru merge instead of building a
+duplicate; sharks, turtles and whales in Pacific
+culture, with the sacred Tongan shark-noosing ritual
+and turtle taboos (printed pp. 6–10), and traditional
+uses of the reef and ocean with Tuvalu's own
+practices on Nukufetau (printed pp. 12–15), into the
+existing First Steps heritage lesson; and whales
+after the Europeans came — Pacific people used only
+stranded whales, teeth for chiefs' necklaces, until
+North American whaling fleets reached Tonga in the
+1890s and hunted mothers and calves, driving the
+whales near extinction in one century before legal
+protection let them slowly recover (printed p. 10),
+into the new lesson. *People and the Natural
+Environment in the Pacific — Book 3*, Years 5–6
+student reader (same publisher, 2020): knowledge
+passed down through generations (printed p. 6),
+Tuvalu's pulaka pits (printed pp. 7–9) and the
+amazing coconut tree, with Tuvalu's red toddy
+(printed pp. 11–13), all into the heritage lesson.
+*Teacher Guide for the ESD Readers — Years 5–8*,
+teacher guide (same publisher, 2020), cited as
+evidence only: pupils sent to talk to an elder, list
+traditional fishing practices and find a legend of
+the turtle, whale or shark (printed pp. 16–20), into
+the existing First Steps
+find-history-in-your-own-locality lesson — Tuvalu is
+not added to that lesson's count, as the guide is
+evidence only; the Book 3 inheritance notes (printed
+pp. 24–28) and the Tuvalu-specific notes — the closed
+Namo lagoon, storytelling and fatele song, and
+Culture and Heritage in the Tuvalu National
+Curriculum Framework (printed pp. 38–41) — into the
+heritage lesson as evidence. Tuvalu was not counted
+in the heritage lesson before, so its acceptance
+count rises 18 → 19 countries, and in the Pacific
+voyaging lesson 2 → 3 countries. Library debt, as
+filed: Tuvalu's shelf holds no Tuvalu national
+history book at all — only these regional readers,
+the same set also shelved under Nauru and Niue.
+History lessons: 270 → 271.
