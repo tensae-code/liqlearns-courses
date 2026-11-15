@@ -8108,3 +8108,27 @@ Mashramani for the Co-operative Republic of 23 February
 Studies book; its civics, health and weather parts are
 named in the lesson's sources, not placed. History
 lessons: 248 → 249.
+
+## History expansion — Canada — built 2026-11-15
+
+3 new lessons, 24 questions, in **The Modern World**:
+Inuit whaling — the traditional hunt
+(modern-world/canada-inuit-whaling-traditional),
+Whalers from across the sea
+(modern-world/canada-whalers-from-across-the-sea) and
+Whaling today — protecting the whales
+(modern-world/canada-whaling-today-and-protection)
+— 4 placements stocked from Canada's *ᓴᖅᐱᓕᒐᓱᖕᓂᐅᕙᓚᐅᖅᑐᖅ
+ᒥᒃᓵᓄᑦ (History of Whaling) — Uqalimaariuqsaniq Level 13*,
+grade-01 record / Level 13 leveled reader, student book
+in Inuktitut (Uqalimaariuqsaniq Inuktitut reading
+program, Nunavut): why the whale was hunted and what it
+gave — bones for tools and sleds, oil for lamps, maktaq
+for food (printed pp. 8–11); whaling the old way —
+Elders' knowledge, open boats, hand harpoons, the whole
+camp sharing (printed p. 12); foreign commercial whalers
+hunting in large numbers for oil and baleen, changing
+Inuit life through trade and depletion (printed p. 22);
+whales protected and counted today, with Inuit whaling
+continuing as a small, community-run hunt under shared
+rules (printed pp. 28–32). History lessons: 249 → 252.

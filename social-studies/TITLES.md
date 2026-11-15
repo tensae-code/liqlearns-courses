@@ -91,7 +91,10 @@ the one title at rising depth wherever a title spans both books
 - `africa-after-1500/` — Africa from 1500: trade, colonisation,
   resistance, independence. (No teacher evidence yet.)
 - `modern-world/` — the early-modern and modern world
-  (including Guyana — our nation: independence and symbols).
+  (including Guyana — our nation: independence and symbols,
+  and Canada's whaling story: Inuit whaling — the traditional
+  hunt, Whalers from across the sea, and Whaling today —
+  protecting the whales).
   (No teacher evidence yet.)
 - `global-issues/` — today's shared problems: population
   pressure, HIV/AIDS, climate, water, forests — and protecting
@@ -2496,8 +2499,13 @@ Plants and Animals.
 
 ## History expansion totals
 
-History lessons across the History titles: **249**
+History lessons across the History titles: **252**
 (248 before the expansion; +1 for Guyana, 2026-11-15 —
 Modern World: Guyana — our nation: independence and
 symbols. All 3 Guyana placements stand on Guyana's
-student book, counted in acceptance.)
+student book, counted in acceptance. +3 for Canada,
+2026-11-15 — Modern World: Inuit whaling — the
+traditional hunt, Whalers from across the sea, and
+Whaling today — protecting the whales. All 4 Canada
+placements stand on Canada's student book, counted in
+acceptance.)
