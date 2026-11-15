@@ -1,6 +1,6 @@
 # Sources — Napoleon — reformer, conqueror, fallen
 
-countries: Ethiopia, Belarus, Montenegro, Pakistan, Palestine, Colombia, Mongolia, Iraq, Jordan, Uzbekistan
+countries: Ethiopia, Belarus, Montenegro, Pakistan, Palestine, Colombia, Mongolia, Iraq, Jordan, Uzbekistan, North Macedonia
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under GEQIP-E, ISBN 978-99990-0-066-6. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -252,3 +252,41 @@ Uzbekistan's own way (Book 4 — Vsemirnaya istoriya / World History, Grade 8 (s
 **Acceptance count: taught in 10 countries (Ethiopia, Belarus, Montenegro, Pakistan, Palestine, Colombia, Mongolia, Iraq, Jordan, Uzbekistan).**
 
 Searchable tags: Uzbekistan, History expansion 2026-11-15, modern-world/napoleon-reformer-conqueror-fallen
+
+## History expansion (2026-11-15) — North Macedonia stocked
+
+**Book 2 — Istorija 8 (History 8), Grade 8 (student book, Macedonian)**
+- Title as printed: ИСТОРИЈА за VIII одделение во деветгодишно основно образование (History for Grade 8 of nine-year primary education)
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Evropa 92, Kočani; year 2026; ISBN 978-608-5035-58-8
+- Authors: Prof. Dr. Vančo Ǵorgiev, Prof. Dr. Dalibor Jovanovski, Prof. Dr. Nikola Minov
+- PDF pages: 184 (cover/title page verified against the record title; 6,463,536 bytes, matches the books.json record; text layer read in full)
+- Verdict: COMPLETE
+- Tally: 48 placements — 18 to existing lessons, 30 NEW LESSON NEEDED
+- North Macedonia's own way: World history and Balkan/Macedonian history alternate theme by theme, so pupils meet absolutism and revolution in Europe, then immediately their own Ottoman-era story; every lesson carries source extracts ("The past through sources"), a "Meet a historical figure" box and research challenges.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/north-macedonia-placements.md.
+
+**Book 3 — Istorija I (History I), Grade 10 (student book, Macedonian)**
+- Title as printed: ИСТОРИЈА I за прва година гимназиско образование — учебник (History I for the first year of gymnasium education — textbook)
+- Grade: Grade 10 (first year of gymnasium) (student/teacher: STUDENT)
+- Publisher: АЛБИ (ALBI) DOO, Skopje; 2nd edition 2026; ISBN 978-608-241-090-6; COBISS.MK-ID 69263621
+- Author: Prof. Dr. Nikola Minov; editor Elena Stefanovska; language editor Evgenija Stojanova; approved for use by the Ministry of Education and Science, decision no. 26-923/1 of 25.08.2025; printed by Branko Gapo, Skopje 2026
+- PDF pages: 200 (printed pp. 1–198; read IN PLACE at ~/workspace/phase3-staging/grade-10/gov/north-macedonia/history/student/full-year.pdf, image-only scan — read in full from page renders; cover, title page and CIP page verified against the record)
+- Verdict: COMPLETE
+- Tally: 121 placements — 59 to existing lessons, 62 NEW LESSON NEEDED (including reuses of NEW slugs created earlier in this wave — by this group in the Pakistan and North Macedonia Grade 7/8 sections, and by other reader groups)
+- North Macedonia's own way: a thematic, not chronological, world survey in five themes — foundations, ideas and power, a connecting world, wars and freedom struggles, and history in today's world — that keeps returning to method (fact against interpretation, media, pop culture, identity, digital memory) and places Macedonia inside the Balkan, Byzantine and Ottoman stories, and on its own First World War front, rather than in a separate national narrative.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/north-macedonia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| North Macedonia part — Theme 1: Napoleon's wars and the Congress of Vienna — his rise, conquests redrawing Europe's map, the Continental Blockade, and the 1814 settlement after his exile — story beats: one general's armies carry revolution across Europe, and the victors at Vienna try to put the old world back (History expansion, 2026-11-15; original placement slug: modern-world/napoleon-reformer-conqueror-fallen) | North Macedonia, *Istorija 8 (History 8), Grade 8*, printed p. 26 |
+| North Macedonia part — Theme 4: the Napoleonic Wars — story beats: the artillery officer who beat Austria in Italy and chased glory to Egypt (where his men find the Rosetta Stone) crowns himself emperor in 1804 — Austerlitz, Jena and Friedland humble three empires, Trafalgar bars him from Britain, his Continental Blockade leaks everywhere, and his Code carries property rights and equality before the law across Europe on French bayonets (History expansion, 2026-11-15; original placement slug: modern-world/napoleon-reformer-conqueror-fallen) | North Macedonia, *Istorija I (History I), Grade 10*, printed p. 118 |
+| North Macedonia part — Theme 4: Russia, Waterloo and Vienna — story beats: 600,000 men march into Russia and fewer than 100,000 come back through the snow; Leipzig and Waterloo finish him, St Helena keeps him, and the Congress of Vienna restores the old dynasties and redraws the map — planting, in its ignored nations, the nationalism that will dominate the century (History expansion, 2026-11-15; original placement slug: modern-world/napoleon-reformer-conqueror-fallen) | North Macedonia, *Istorija I (History I), Grade 10*, printed p. 121 |
+
+North Macedonia's own way (Book 2 — Istorija 8 (History 8), Grade 8 (student book, Macedonian)): World history and Balkan/Macedonian history alternate theme by theme, so pupils meet absolutism and revolution in Europe, then immediately their own Ottoman-era story; every lesson carries source extracts ("The past through sources"), a "Meet a historical figure" box and research challenges. That way is stocked here as the way North Macedonia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+North Macedonia's own way (Book 3 — Istorija I (History I), Grade 10 (student book, Macedonian)): a thematic, not chronological, world survey in five themes — foundations, ideas and power, a connecting world, wars and freedom struggles, and history in today's world — that keeps returning to method (fact against interpretation, media, pop culture, identity, digital memory) and places Macedonia inside the Balkan, Byzantine and Ottoman stories, and on its own First World War front, rather than in a separate national narrative. That way is stocked here as the way North Macedonia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 11 countries (Ethiopia, Belarus, Montenegro, Pakistan, Palestine, Colombia, Mongolia, Iraq, Jordan, Uzbekistan, North Macedonia).**
+
+Searchable tags: North Macedonia, History expansion 2026-11-15, modern-world/napoleon-reformer-conqueror-fallen

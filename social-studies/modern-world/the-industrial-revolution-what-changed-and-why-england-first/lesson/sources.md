@@ -1,6 +1,6 @@
 # Sources — The Industrial Revolution — what changed and why England first
 
-countries: Ethiopia, Brazil, Costa Rica, Australia, Ecuador, Kuwait, Fiji, Montenegro, Dominican Republic, Palestine, Colombia, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Sudan, Jordan, Uzbekistan
+countries: Ethiopia, Brazil, Costa Rica, Australia, Ecuador, Kuwait, Fiji, Montenegro, Dominican Republic, Palestine, Colombia, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Sudan, Jordan, Uzbekistan, North Macedonia
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 130).
 
@@ -513,3 +513,26 @@ Uzbekistan's own way (Book 4 — Vsemirnaya istoriya / World History, Grade 8 (s
 **Acceptance count: taught in 21 countries (Ethiopia, Brazil, Costa Rica, Australia, Ecuador, Kuwait, Fiji, Montenegro, Dominican Republic, Palestine, Colombia, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Sudan, Jordan, Uzbekistan).**
 
 Searchable tags: Uzbekistan, History expansion 2026-11-15, modern-world/the-industrial-revolution-what-changed-and-why-england-first
+
+## History expansion (2026-11-15) — North Macedonia stocked
+
+**Book 2 — Istorija 8 (History 8), Grade 8 (student book, Macedonian)**
+- Title as printed: ИСТОРИЈА за VIII одделение во деветгодишно основно образование (History for Grade 8 of nine-year primary education)
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Evropa 92, Kočani; year 2026; ISBN 978-608-5035-58-8
+- Authors: Prof. Dr. Vančo Ǵorgiev, Prof. Dr. Dalibor Jovanovski, Prof. Dr. Nikola Minov
+- PDF pages: 184 (cover/title page verified against the record title; 6,463,536 bytes, matches the books.json record; text layer read in full)
+- Verdict: COMPLETE
+- Tally: 48 placements — 18 to existing lessons, 30 NEW LESSON NEEDED
+- North Macedonia's own way: World history and Balkan/Macedonian history alternate theme by theme, so pupils meet absolutism and revolution in Europe, then immediately their own Ottoman-era story; every lesson carries source extracts ("The past through sources"), a "Meet a historical figure" box and research challenges.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/north-macedonia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| North Macedonia part — Theme 1: the First Industrial Revolution begins in Britain because the conditions are right there — story beats: steam and machines gather workers into factories first in Britain, then everywhere (History expansion, 2026-11-15; original placement slug: modern-world/the-industrial-revolution-what-changed-and-why-england-first) | North Macedonia, *Istorija 8 (History 8), Grade 8*, printed p. 30 |
+
+North Macedonia's own way (Book 2 — Istorija 8 (History 8), Grade 8 (student book, Macedonian)): World history and Balkan/Macedonian history alternate theme by theme, so pupils meet absolutism and revolution in Europe, then immediately their own Ottoman-era story; every lesson carries source extracts ("The past through sources"), a "Meet a historical figure" box and research challenges. That way is stocked here as the way North Macedonia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 22 countries (Ethiopia, Brazil, Costa Rica, Australia, Ecuador, Kuwait, Fiji, Montenegro, Dominican Republic, Palestine, Colombia, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Sudan, Jordan, Uzbekistan, North Macedonia).**
+
+Searchable tags: North Macedonia, History expansion 2026-11-15, modern-world/the-industrial-revolution-what-changed-and-why-england-first

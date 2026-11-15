@@ -1,6 +1,6 @@
 # Sources — From barter to banknotes — the story of money
 
-countries: Pakistan, Syria
+countries: Pakistan, Syria, North Macedonia
 
 **Book (Pakistan — Social Studies, Class 5 (PCTB, SNC 2020)):** *معاشرتی علوم — Social Studies, Class 5* (student book, Urdu) — Pakistan. Title as printed: معاشرتی علوم — Social Studies, Class 5 — based on the Single National Curriculum 2020 ("One Nation, One Curriculum"). Grade: Grade 5 / Class 5 (student/teacher: STUDENT). Publisher: Punjab Curriculum and Textbook Board (PCTB), Lahore; year: SNC 2020 edition (no year printed on cover); no ISBN printed. PDF pages: 114 (printed pp. 1–110 + national anthem page; read IN PLACE at phase3-staging; image-only scan read in full from page renders; cover and title page verified against the record; the TSV and books.json records are this same book, counted once). Verdict: COMPLETE. Tally: 13 placements — 5 to existing lessons, 8 NEW LESSON NEEDED (3 new slugs first created in this book; 5 placements reuse NEW slugs created in Books 1 and 5 of this file). Non-History parts (named, not placed): Chapter 1 Citizenship (printed pp. 1–9 — rights and responsibilities, the UN and the 1948 Declaration, freedom of speech; Civics); Chapter 3 State and Government (printed pp. 25–32 — federal, provincial and local government, the 1973 Constitution, political parties; Civics); Chapter 5 Geography (printed pp. 51–85 — globe and map skills, latitude and longitude, time zones, physical features of Pakistan, weather and climate, natural disasters, population); Chapter 6 Economics (printed pp. 86–108 — goods and services, inflation, taxes, trade, entrepreneurship) except its Evolution of Money unit, placed in this expansion. Placements at liqlearns-courses-work/expansion-history-2026-11-15/pakistan-placements.md.
 
@@ -26,3 +26,26 @@ Searchable tags: Pakistan, From barter to banknotes — the story of money, anci
 Syria's own way (الدراسات الاجتماعية — الصف الرابع (Social Studies, Grade 4), Grade 4 (student/teacher: STUDENT)): Grade 4 carries a whole unit named “Syria and History” (سورية والتاريخ) — cradle of civilisation, historic sites, and transport and communication developing through the ages — and the book closes its citizenship unit with the martyrs of the Syrian revolution, told as the nation's own recent history. That way is stocked here as the way Syria teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 2 countries (Pakistan, Syria).**
+
+## History expansion (2026-11-15) — North Macedonia stocked
+
+**Book 3 — Istorija I (History I), Grade 10 (student book, Macedonian)**
+- Title as printed: ИСТОРИЈА I за прва година гимназиско образование — учебник (History I for the first year of gymnasium education — textbook)
+- Grade: Grade 10 (first year of gymnasium) (student/teacher: STUDENT)
+- Publisher: АЛБИ (ALBI) DOO, Skopje; 2nd edition 2026; ISBN 978-608-241-090-6; COBISS.MK-ID 69263621
+- Author: Prof. Dr. Nikola Minov; editor Elena Stefanovska; language editor Evgenija Stojanova; approved for use by the Ministry of Education and Science, decision no. 26-923/1 of 25.08.2025; printed by Branko Gapo, Skopje 2026
+- PDF pages: 200 (printed pp. 1–198; read IN PLACE at ~/workspace/phase3-staging/grade-10/gov/north-macedonia/history/student/full-year.pdf, image-only scan — read in full from page renders; cover, title page and CIP page verified against the record)
+- Verdict: COMPLETE
+- Tally: 121 placements — 59 to existing lessons, 62 NEW LESSON NEEDED (including reuses of NEW slugs created earlier in this wave — by this group in the Pakistan and North Macedonia Grade 7/8 sections, and by other reader groups)
+- North Macedonia's own way: a thematic, not chronological, world survey in five themes — foundations, ideas and power, a connecting world, wars and freedom struggles, and history in today's world — that keeps returning to method (fact against interpretation, media, pop culture, identity, digital memory) and places Macedonia inside the Balkan, Byzantine and Ottoman stories, and on its own First World War front, rather than in a separate national narrative.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/north-macedonia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| North Macedonia part — Theme 3: bills of exchange and paper money — story beats: Florentine and Genoese merchants learn to travel with a paper promise instead of a chest of gold, while Marco Polo reports, amazed, that the Great Khan's paper notes pass as money everywhere on pain of death (History expansion, 2026-11-15; original placement slug: ancient-world/from-barter-to-banknotes-the-story-of-money) | North Macedonia, *Istorija I (History I), Grade 10*, printed p. 102 |
+
+North Macedonia's own way (Book 3 — Istorija I (History I), Grade 10 (student book, Macedonian)): a thematic, not chronological, world survey in five themes — foundations, ideas and power, a connecting world, wars and freedom struggles, and history in today's world — that keeps returning to method (fact against interpretation, media, pop culture, identity, digital memory) and places Macedonia inside the Balkan, Byzantine and Ottoman stories, and on its own First World War front, rather than in a separate national narrative. That way is stocked here as the way North Macedonia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 3 countries (Pakistan, Syria, North Macedonia).**
+
+Searchable tags: North Macedonia, History expansion 2026-11-15, ancient-world/from-barter-to-banknotes-the-story-of-money

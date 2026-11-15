@@ -1,6 +1,6 @@
 # Sources — 1789 — the French Revolution breaks out
 
-countries: Ethiopia, Poland, Costa Rica, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan
+countries: Ethiopia, Poland, Costa Rica, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under GEQIP-E, ISBN 978-99990-0-066-6. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -556,3 +556,40 @@ Uzbekistan's own way (Book 4 — Vsemirnaya istoriya / World History, Grade 8 (s
 **Acceptance count: taught in 22 countries (Ethiopia, Poland, Costa Rica, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan).**
 
 Searchable tags: Uzbekistan, History expansion 2026-11-15, modern-world/the-french-revolution-breaks-out-1789
+
+## History expansion (2026-11-15) — North Macedonia stocked
+
+**Book 2 — Istorija 8 (History 8), Grade 8 (student book, Macedonian)**
+- Title as printed: ИСТОРИЈА за VIII одделение во деветгодишно основно образование (History for Grade 8 of nine-year primary education)
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Evropa 92, Kočani; year 2026; ISBN 978-608-5035-58-8
+- Authors: Prof. Dr. Vančo Ǵorgiev, Prof. Dr. Dalibor Jovanovski, Prof. Dr. Nikola Minov
+- PDF pages: 184 (cover/title page verified against the record title; 6,463,536 bytes, matches the books.json record; text layer read in full)
+- Verdict: COMPLETE
+- Tally: 48 placements — 18 to existing lessons, 30 NEW LESSON NEEDED
+- North Macedonia's own way: World history and Balkan/Macedonian history alternate theme by theme, so pupils meet absolutism and revolution in Europe, then immediately their own Ottoman-era story; every lesson carries source extracts ("The past through sources"), a "Meet a historical figure" box and research challenges.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/north-macedonia-placements.md.
+
+**Book 3 — Istorija I (History I), Grade 10 (student book, Macedonian)**
+- Title as printed: ИСТОРИЈА I за прва година гимназиско образование — учебник (History I for the first year of gymnasium education — textbook)
+- Grade: Grade 10 (first year of gymnasium) (student/teacher: STUDENT)
+- Publisher: АЛБИ (ALBI) DOO, Skopje; 2nd edition 2026; ISBN 978-608-241-090-6; COBISS.MK-ID 69263621
+- Author: Prof. Dr. Nikola Minov; editor Elena Stefanovska; language editor Evgenija Stojanova; approved for use by the Ministry of Education and Science, decision no. 26-923/1 of 25.08.2025; printed by Branko Gapo, Skopje 2026
+- PDF pages: 200 (printed pp. 1–198; read IN PLACE at ~/workspace/phase3-staging/grade-10/gov/north-macedonia/history/student/full-year.pdf, image-only scan — read in full from page renders; cover, title page and CIP page verified against the record)
+- Verdict: COMPLETE
+- Tally: 121 placements — 59 to existing lessons, 62 NEW LESSON NEEDED (including reuses of NEW slugs created earlier in this wave — by this group in the Pakistan and North Macedonia Grade 7/8 sections, and by other reader groups)
+- North Macedonia's own way: a thematic, not chronological, world survey in five themes — foundations, ideas and power, a connecting world, wars and freedom struggles, and history in today's world — that keeps returning to method (fact against interpretation, media, pop culture, identity, digital memory) and places Macedonia inside the Balkan, Byzantine and Ottoman stories, and on its own First World War front, rather than in a separate national narrative.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/north-macedonia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| North Macedonia part — Theme 1: the French Revolution — causes and outbreak, the estates system and the storm that spreads across France — story beats: a bankrupt kingdom summons the estates and unleashes a revolution it cannot control (History expansion, 2026-11-15; original placement slug: modern-world/the-french-revolution-breaks-out-1789) | North Macedonia, *Istorija 8 (History 8), Grade 8*, printed p. 22 |
+| North Macedonia part — Theme 2: the French Revolution breaks out — story beats: a bankrupt crown, bread prices doubled after failed harvests (an Icelandic volcano's ash helped chill Europe), and a Third Estate of 98% paying all the taxes — the Estates-General meets, the Tennis Court swears its oath, Paris storms the Bastille, the Great Fear burns the châteaux, and the Assembly proclaims the Rights of Man while Parisian women march the king back from Versailles (History expansion, 2026-11-15; original placement slug: modern-world/the-french-revolution-breaks-out-1789) | North Macedonia, *Istorija I (History I), Grade 10*, printed p. 86 |
+
+North Macedonia's own way (Book 2 — Istorija 8 (History 8), Grade 8 (student book, Macedonian)): World history and Balkan/Macedonian history alternate theme by theme, so pupils meet absolutism and revolution in Europe, then immediately their own Ottoman-era story; every lesson carries source extracts ("The past through sources"), a "Meet a historical figure" box and research challenges. That way is stocked here as the way North Macedonia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+North Macedonia's own way (Book 3 — Istorija I (History I), Grade 10 (student book, Macedonian)): a thematic, not chronological, world survey in five themes — foundations, ideas and power, a connecting world, wars and freedom struggles, and history in today's world — that keeps returning to method (fact against interpretation, media, pop culture, identity, digital memory) and places Macedonia inside the Balkan, Byzantine and Ottoman stories, and on its own First World War front, rather than in a separate national narrative. That way is stocked here as the way North Macedonia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 23 countries (Ethiopia, Poland, Costa Rica, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia).**
+
+Searchable tags: North Macedonia, History expansion 2026-11-15, modern-world/the-french-revolution-breaks-out-1789

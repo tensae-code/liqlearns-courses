@@ -1,6 +1,6 @@
 # Sources — The Haitian Revolution, 1791–1804
 
-countries: Haiti
+countries: Haiti, North Macedonia
 
 **Book 6:** *La Révolution haïtienne (1791-1806), 8e année* (teacher guide, French) — Haiti. Title as printed: HISTOIRE — LA RÉVOLUTION HAÏTIENNE (1791-1806). Grade: grade-08 (student/teacher: TEACHER) — records: TSV release record + books.json record, same book read once via the release route (tree route 404s). Publisher: Projet Nectar, MENFP, via Canoprof; editorialisation Mélanie Albaret / Arnaud Dechelle; Creative Commons BY-NC-SA; no year printed; no ISBN printed. PDF pages: 91 (first page verified against the record title; séances pp. 4-36, document annexes pp. 37-91). Verdict: COMPLETE. Tally: 10 placements — 1 to existing lessons, 9 NEW LESSON NEEDED. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-history-2026-11-15/haiti-placements.md.
 
@@ -25,3 +25,28 @@ The book's stories are filed here as plot summaries in the course's own words on
 Haiti's own way (Grade 8, Révolution haïtienne): the Revolution is built as four acts — insurrections, republican emancipation, Louverturian power, independence war — with pupils keeping a running chronology, maps and biographical dictionary, and constantly comparing Haitian and French revolutionary timelines. That way is stocked here as the way Haiti teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 Searchable tags: Haiti, Haitian Revolution, Bois Caïman, Toussaint Louverture, Dessalines, Vertières, independence 1804, Haiti Grade 8, modern-world, teacher guide evidence
+
+## History expansion (2026-11-15) — North Macedonia stocked
+
+**Book 3 — Istorija I (History I), Grade 10 (student book, Macedonian)**
+- Title as printed: ИСТОРИЈА I за прва година гимназиско образование — учебник (History I for the first year of gymnasium education — textbook)
+- Grade: Grade 10 (first year of gymnasium) (student/teacher: STUDENT)
+- Publisher: АЛБИ (ALBI) DOO, Skopje; 2nd edition 2026; ISBN 978-608-241-090-6; COBISS.MK-ID 69263621
+- Author: Prof. Dr. Nikola Minov; editor Elena Stefanovska; language editor Evgenija Stojanova; approved for use by the Ministry of Education and Science, decision no. 26-923/1 of 25.08.2025; printed by Branko Gapo, Skopje 2026
+- PDF pages: 200 (printed pp. 1–198; read IN PLACE at ~/workspace/phase3-staging/grade-10/gov/north-macedonia/history/student/full-year.pdf, image-only scan — read in full from page renders; cover, title page and CIP page verified against the record)
+- Verdict: COMPLETE
+- Tally: 121 placements — 59 to existing lessons, 62 NEW LESSON NEEDED (including reuses of NEW slugs created earlier in this wave — by this group in the Pakistan and North Macedonia Grade 7/8 sections, and by other reader groups)
+- North Macedonia's own way: a thematic, not chronological, world survey in five themes — foundations, ideas and power, a connecting world, wars and freedom struggles, and history in today's world — that keeps returning to method (fact against interpretation, media, pop culture, identity, digital memory) and places Macedonia inside the Balkan, Byzantine and Ottoman stories, and on its own First World War front, rather than in a separate national narrative.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/north-macedonia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| North Macedonia part — Theme 4: Latin America's freedom begins in Haiti — story beats: in 1804 the enslaved of French Saint-Domingue do the unthinkable — they defeat their masters and found Haiti, the first state born of a successful slave revolution (History expansion, 2026-11-15; original placement slug: modern-world/the-haitian-revolution) | North Macedonia, *Istorija I (History I), Grade 10*, printed p. 123 |
+
+North Macedonia's own way (Book 3 — Istorija I (History I), Grade 10 (student book, Macedonian)): a thematic, not chronological, world survey in five themes — foundations, ideas and power, a connecting world, wars and freedom struggles, and history in today's world — that keeps returning to method (fact against interpretation, media, pop culture, identity, digital memory) and places Macedonia inside the Balkan, Byzantine and Ottoman stories, and on its own First World War front, rather than in a separate national narrative. That way is stocked here as the way North Macedonia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Note: this lesson previously stood on teacher-guide evidence only (Haiti), named in its countries line but counted nowhere; North Macedonia's student book is its first acceptance-counted source, and Haiti remains counted nowhere.
+
+**Acceptance count: taught in 1 country (North Macedonia).**
+
+Searchable tags: North Macedonia, History expansion 2026-11-15, modern-world/the-haitian-revolution-1791-1804
