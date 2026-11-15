@@ -1,6 +1,6 @@
 # Sources — Ancient Egypt — What Egypt Gave
 
-countries: Ethiopia, Australia, Egypt, Pakistan, Syria, Palestine, Colombia
+countries: Ethiopia, Australia, Egypt, Pakistan, Syria, Palestine, Colombia, Libya
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (placement 82).
 
@@ -141,3 +141,24 @@ Colombia's own way (Secundaria Activa G6 (student book, Spanish)): Secundaria Ac
 **Acceptance count: taught in 7 countries (Ethiopia, Australia, Egypt, Pakistan, Syria, Palestine, Colombia).**
 
 Searchable tags: Colombia, Ancient Egypt — What Egypt Gave, africa-to-1500, History expansion 2026-11-15
+
+
+## History expansion (2026-11-15) — Libya stocked
+
+**Book 1 — G10 Ancient Arab World (student book, Arabic)**
+- Title as printed: تاريخ الوطن العربي في العصر القديم — للسنة الأولى بمرحلة التعليم الثانوي (History of the Arab World in the Ancient Era, First Year of Secondary Education)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: مركز المناهج التعليمية والبحوث التربوية، ليبيا (Centre for Educational Curricula and Educational Research, Libya); year 2019–2020 / 1440–1441 AH; no ISBN printed
+- PDF pages: 188 (cover/title page verified against the record title; grabbed via grab.py tree — the only Libya tree path that resolved; full text layer read page by page)
+- Verdict: COMPLETE
+- Tally: 26 placements — 17 to existing lessons, 9 NEW LESSON NEEDED
+- Libya's own way: the ancient world is told as one Arab-world story — method first (what a historian does), then prehistory, then each region in turn (Mesopotamia, the Levant, the Nile, North Africa with Libya's own Garamantes and Cyrenaica, Arabia), ending with foreign attempts to seize the region and the region's gifts back to civilisation; every chapter closes with a structured discussion (المناقشة).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya part — Unit (Nile Valley): civilisational features in the Nile Valley — story beats: hieroglyphic writing, the 365-day calendar, medicine, engineering and art — the Nile's gifts that outlive its kings (History expansion, 2026-11-15; original placement slug: africa-to-1500/ancient-egypt-what-egypt-gave) | Libya, *G10 Ancient Arab World*, printed p. 92 |
+
+Libya's own way (Book 1 — G10 Ancient Arab World (student book, Arabic)): the ancient world is told as one Arab-world story — method first (what a historian does), then prehistory, then each region in turn (Mesopotamia, the Levant, the Nile, North Africa with Libya's own Garamantes and Cyrenaica, Arabia), ending with foreign attempts to seize the region and the region's gifts back to civilisation; every chapter closes with a structured discussion (المناقشة). That way is stocked here as the way Libya teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 8 countries (Ethiopia, Australia, Egypt, Pakistan, Syria, Palestine, Colombia, Libya).**

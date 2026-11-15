@@ -1,6 +1,6 @@
 # Sources — Decolonisation — Ghana, Kenya and the south
 
-countries: Ethiopia, Angola
+countries: Ethiopia, Angola, Libya
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 5, placements 110–122).
 
@@ -72,3 +72,24 @@ This book is a teacher guide, not a pupil text. The part(s) below stand on it as
 Gabon's own way (Grade 5): the final primary year widens out — ancient Egypt, Greece and Rome first, then Gabon and Africa again (autochthones, Bantu, colonisation, Berlin, the two world wars) ending with the march to independence, told through Léon Mba's speech of 16 August 1960. That way is stocked here as the way Gabon teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 2 countries (Ethiopia, Angola) — unchanged; the Gabon placement(s) above are teacher-guide evidence only, counted nowhere. Gabon is not added to this lesson's countries line.**
+
+
+## History expansion (2026-11-15) — Libya stocked
+
+**Book 3 — G12 Modern & Contemporary Arab World (student book, Humanities, Arabic)**
+- Title as printed: تاريخ الوطن العربي الحديث والمعاصر — للسنة الثالثة بمرحلة التعليم الثانوي (القسم الأدبي) (Modern and Contemporary History of the Arab World, Third Year of Secondary Education, Literary Section)
+- Grade: 12 Humanities (student/teacher: STUDENT)
+- Publisher: مركز المناهج التعليمية والبحوث التربوية، ليبيا (Centre for Educational Curricula and Educational Research, Libya); year 2019–2020 / 1440–1441 AH; no ISBN printed
+- PDF pages: 177 (cover/title page verified against the record title; grabbed via grab.py release URL — the tree path 404'd; full text layer read page by page)
+- Verdict: COMPLETE
+- Tally: 21 placements — 15 to existing lessons, 6 NEW LESSON NEEDED
+- Libya's own way: modern history is told as one Arab struggle — Ottoman decline, Europe's rise told fairly (Renaissance, revolutions, industry), colonial partition, then each Arab people's national struggle country by country, Libya's war against Italy among them, ending with Palestine as the open wound.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya part — Chapter 5: the national movements — Sudan and the Mashriq peoples — story beats: Syria resists the French mandate by arms and politics, Sudan's movement grows through the 1922–24 crisis years, and each Arab people finds its own road out of foreign rule (History expansion, 2026-11-15; original placement slug: africa-after-1500/decolonisation-ghana-kenya-and-the-south) | Libya, *G12 Modern Arab World*, printed p. 126 |
+
+Libya's own way (Book 3 — G12 Modern & Contemporary Arab World (student book, Humanities, Arabic)): modern history is told as one Arab struggle — Ottoman decline, Europe's rise told fairly (Renaissance, revolutions, industry), colonial partition, then each Arab people's national struggle country by country, Libya's war against Italy among them, ending with Palestine as the open wound. That way is stocked here as the way Libya teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 3 countries (Ethiopia, Angola, Libya).**

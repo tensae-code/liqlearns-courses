@@ -1,6 +1,6 @@
 # Sources — Islam in North Africa
 
-countries: Ethiopia, Syria, Mauritania
+countries: Ethiopia, Syria, Mauritania, Libya
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -85,3 +85,25 @@ Mauritania's own way (mr-g08 — History, 2nd preparatory year (student book, Ar
 Mauritania's own way (mr-g05 — History, 5th year of primary education (student book, Arabic)): The whole primary book is Mauritania's own story, taught as 17 "dossiers" (ملف), each run through the same six-step rhythm — starting situation, build my learning, discuss, summarise, test, enrich. From pre-Islamic Mauritania it walks Ghana, Aoudaghost, Takrur, Islam's arrival, the Almoravids, then the emirates, colonisation, resistance and independence. That way is stocked here as the way Mauritania teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 3 countries (Ethiopia, Syria, Mauritania).**
+
+
+## History expansion (2026-11-15) — Libya stocked
+
+**Book 2 — G11 Medieval Arab World (student book, Humanities, Arabic)**
+- Title as printed: تاريخ الوطن العربي في العصر الوسيط — للسنة الثانية بمرحلة التعليم الثانوي (القسم الأدبي) (History of the Arab World in the Medieval Era, Second Year of Secondary Education, Literary Section)
+- Grade: 11 Humanities (student/teacher: STUDENT)
+- Publisher: مركز المناهج التعليمية والبحوث التربوية، ليبيا (Centre for Educational Curricula and Educational Research, Libya); year 2019–2020 / 1440–1441 AH; no ISBN printed
+- PDF pages: 264 (cover/title page verified against the record title; grabbed via grab.py release URL — the tree path 404'd; full text layer read page by page)
+- Verdict: COMPLETE
+- Tally: 28 placements — 12 to existing lessons, 16 NEW LESSON NEEDED
+- Libya's own way: the medieval centuries are told as the Arab-Islamic nation's single story — the Prophet, the caliphates, then the Maghreb and al-Andalus with a named section on ruling families inside Libya itself, and a full closing chapter on civilisation (government, society, science, cities) and what it gave Europe.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya part — Chapter 2: the spread of Islam in North Africa and the conquest of Libya — story beats: under Umar the Muslim armies cross from Egypt into Libya and North Africa, and the region begins its turn to Islam (History expansion, 2026-11-15; original placement slug: africa-to-1500/islam-in-north-africa) | Libya, *G11 Medieval Arab World*, printed p. 51 |
+| Libya part — Chapter 5: the Maghreb — the independent emirates — story beats: Rustamids at Tahert, Idrisids in Morocco and Aghlabids in Ifriqiya break away from Baghdad and rule the Maghreb as their own states (History expansion, 2026-11-15; original placement slug: africa-to-1500/islam-in-north-africa) | Libya, *G11 Medieval Arab World*, printed p. 149 |
+
+Libya's own way (Book 2 — G11 Medieval Arab World (student book, Humanities, Arabic)): the medieval centuries are told as the Arab-Islamic nation's single story — the Prophet, the caliphates, then the Maghreb and al-Andalus with a named section on ruling families inside Libya itself, and a full closing chapter on civilisation (government, society, science, cities) and what it gave Europe. That way is stocked here as the way Libya teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 4 countries (Ethiopia, Syria, Mauritania, Libya).**

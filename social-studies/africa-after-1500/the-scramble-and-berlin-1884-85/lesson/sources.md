@@ -1,6 +1,6 @@
 # Sources — The Scramble and Berlin 1884–85 — a continent partitioned on paper
 
-countries: Ethiopia, Gambia, South Sudan
+countries: Ethiopia, Gambia, South Sudan, Libya
 
 **Book 1:** *History, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN 978-99990-0-065-9, printed by GRAVITY GROUP IND LLC, Sharjah, UAE. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g10-student-placements.md
 
@@ -89,3 +89,25 @@ Iceland's own way: a Norwegian textbook re-rooted in Iceland — every world cha
 South Sudan's own way (Book 17 — S1 History Student's Book (student book, English)): A national history built from long source extracts pupils must interrogate — Seligman on the Shilluk reth, Evans-Pritchard on Azande witchcraft, Holt on the Mahdiyya, Samuel Baker on Khartoum, and living testimony from former slaves Simon Deng and Ayak Piol Mabior (filed as plot summaries only). That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 3 countries (Ethiopia, Gambia, South Sudan).**
+
+
+## History expansion (2026-11-15) — Libya stocked
+
+**Book 8 — G6 Social Studies (History and Geography) (student book, Arabic) — COMBINED**
+- Title as printed: الاجتماعيات (التاريخ والجغرافيا) (Social Studies — History and Geography)
+- Grade: Grade 6 (student book)
+- Publisher: Centre for Educational Curricula and Educational Research, Libya; year 2019/2020 (1440/1441 AH); ISBN: no ISBN printed
+- PDF pages: 120 (printed folios match PDF page numbers; History topic read as 4-up page sheets — image-only scan; the Geography topic was identified from the contents and not placed)
+- Verdict: COMPLETE (History parts)
+- Tally: 13 placements — 2 to existing lessons, 11 NEW LESSON NEEDED
+- Libya's own way: the whole modern national story — Ottoman province, Karamanli state, Italian invasion, republic, Mukhtar, liberation, kingdom — is taught to eleven-year-olds as Libya's own continuous story.
+- Non-History parts (named, not placed): the whole second topic, Principles of Physical Geography (printed pp. 66–118) — how Earth's surface is shaped (rock, inner and outer forces); climate geography (weather, temperature, pressure, winds, rain); water (wadis, rivers, groundwater); pollution (air, water, soil, and pollution as a world problem).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya part — Modern European colonialism — story beats: Africa's forests, unnavigable rivers and diseases long delay the colonisers, but conferences carve the continent between them — by 1936 France, Britain, Belgium, Portugal and Italy hold it, driven by wealth, markets, surplus people and rivalry (History expansion, 2026-11-15; original placement slug: modern-world/scramble-for-africa-origins) | Libya, *G6 Social Studies (History and Geography)*, printed p. 36 |
+
+Libya's own way (Book 8 — G6 Social Studies (History and Geography) (student book, Arabic) — COMBINED): the whole modern national story — Ottoman province, Karamanli state, Italian invasion, republic, Mukhtar, liberation, kingdom — is taught to eleven-year-olds as Libya's own continuous story. That way is stocked here as the way Libya teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 4 countries (Ethiopia, Gambia, South Sudan, Libya).**

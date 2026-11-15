@@ -1,6 +1,6 @@
 # Sources — The Almohads unite the Islamic West
 
-countries: Morocco
+countries: Morocco, Libya
 
 **Book 1:** *المفيد في الاجتماعيات — دليل الأستاذة والأستاذ — السنة الخامسة من التعليم الابتدائي (Al-Moufid in Social Studies — Teacher's Guide — Fifth Year of Primary Education), new edition September 2020 (طبعة جديدة شتنبر 2020)* (teacher guide, Arabic) — Morocco. Title as printed: المفيد في الاجتماعيات — دليل الأستاذة والأستاذ — السنة الخامسة من التعليم الابتدائي (Al-Moufid in Social Studies — Teacher's Guide — Fifth Year of Primary Education), new edition September 2020 (طبعة جديدة شتنبر 2020). Grade: Grade 5 (student/teacher: TEACHER). Publisher: Al-Moufid series (file source: Dar Attakafa); approved by the Ministry of National Education, Vocational Training, Higher Education and Scientific Research (approval panel printed on cover); authors: Abdelaziz Hamdani (team coordinator), Abdelghani Maaroufi, Mohamed Soubla, Sidi Mohamed Abdessamad; year 2020; no ISBN printed. PDF pages: 180 (cover verified against the record title; matches the books.json record's 180 pages; Arabic text layer read in full). Verdict: COMPLETE — a combined Social Studies guide in three components; the History component's 12 lessons (guide pp. 37–84) are placed in this expansion. Records: 1 record / 1 distinct book / the books.json record says pushed-only; the repo tree path 404'd on grab, and the file was found as a release asset (mid-size-books-6, grade-05-gov-morocco-social-studies-teacher-full-year.pdf, 25,599,951 bytes — exactly the record's size_bytes) and grabbed with grab.py url into scratch-small-c/, verified by pdfinfo + cover, deleted after filing. Placements at liqlearns-courses-work/expansion-history-2026-11-15/morocco-placements.md.
 
@@ -18,3 +18,24 @@ Non-History parts named, not placed: the Geography component's 12 lessons on "th
 Morocco's own way: Moroccan History is one unbroken national line — the guide's own programme table runs Grade 4 "the recent past", Grade 5 "Morocco in the ancient age", Grade 6 "prehistory and the historical eras" — and Grade 5 walks a child from what a historian is, through prehistoric and Amazigh Morocco, to the dynasty sequence Idrisid → Almoravid → Almohad → Marinid → Saadian → Alaouite, each dynasty studied through one standing monument (Qarawiyyin, the Almoravid Dome, a madrasa, El Badi Palace, the kasbahs). That way is stocked here as the way Morocco teaches this thing. History in this lesson is summary in the course's own words — the book's stories are filed as plot summaries only, never transcribed.
 
 Searchable tags: Morocco, Almohads, Islamic West, Maghreb, Almohad architecture, Grade 5, teacher guide evidence, ancient-world
+
+
+## History expansion (2026-11-15) — Libya stocked
+
+**Book 6 — G8 Islamic History (student book, Arabic)**
+- Title as printed: التاريخ الإسلامي (Islamic History)
+- Grade: Grade 8 (student book)
+- Publisher: Centre for Educational Curricula and Educational Research, Libya; year 2019/2020 (1440/1441 AH); ISBN: no ISBN printed
+- PDF pages: 160 (printed folios match PDF page numbers; read as 4-up page sheets — image-only scan; all seven chapters read, exercise spreads skimmed)
+- Verdict: COMPLETE
+- Tally: 22 placements — 3 to existing lessons, 19 NEW LESSON NEEDED
+- Libya's own way: the Islamic centuries are told from Arabia outward, but Libya keeps appearing at the hinge points — the conquest road west, the Aghlabid and Fatimid Maghreb, Spain in Tripoli, and the Senussi zawiyas that school the Sahara.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya part — The Almohads — story beats: the Almohad movement unites the Maghreb and Muslim Spain into one empire, the last great western Islamic state (History expansion, 2026-11-15; original placement slug: africa-to-1500/almoravids-and-almohads-of-the-maghreb) | Libya, *G8 Islamic History*, printed p. 125 |
+
+Libya's own way (Book 6 — G8 Islamic History (student book, Arabic)): the Islamic centuries are told from Arabia outward, but Libya keeps appearing at the hinge points — the conquest road west, the Aghlabid and Fatimid Maghreb, Spain in Tripoli, and the Senussi zawiyas that school the Sahara. That way is stocked here as the way Libya teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 1 country (Libya) — raised from 0 by Libya's student book above. Morocco, already named in this lesson, stands on teacher-guide evidence only and is counted nowhere, as its own entry above states.**

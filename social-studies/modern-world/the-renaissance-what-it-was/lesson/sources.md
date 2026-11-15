@@ -1,6 +1,6 @@
 # Sources — The Renaissance — what it was
 
-countries: Ethiopia, Poland, Costa Rica, Australia, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Iran, Palestine, Colombia, Mauritania, South Sudan
+countries: Ethiopia, Poland, Costa Rica, Australia, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Iran, Palestine, Colombia, Mauritania, South Sudan, Libya
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -313,3 +313,40 @@ Mauritania's own way (mr-g08 — History, 2nd preparatory year (student book, Ar
 South Sudan's own way (Book 7 — P4 Social Studies Pupil's Book (student book, English)): World inventions (plough, steam engine, printing press) are taught only through what they changed at home — food, dress, messages, travel — and origin stories are treated as each people's own history, set beside Bible and Koran creation accounts. That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 14 countries (Ethiopia, Poland, Costa Rica, Australia, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Iran, Palestine, Colombia, Mauritania, South Sudan).**
+
+
+## History expansion (2026-11-15) — Libya stocked
+
+**Book 2 — G11 Medieval Arab World (student book, Humanities, Arabic)**
+- Title as printed: تاريخ الوطن العربي في العصر الوسيط — للسنة الثانية بمرحلة التعليم الثانوي (القسم الأدبي) (History of the Arab World in the Medieval Era, Second Year of Secondary Education, Literary Section)
+- Grade: 11 Humanities (student/teacher: STUDENT)
+- Publisher: مركز المناهج التعليمية والبحوث التربوية، ليبيا (Centre for Educational Curricula and Educational Research, Libya); year 2019–2020 / 1440–1441 AH; no ISBN printed
+- PDF pages: 264 (cover/title page verified against the record title; grabbed via grab.py release URL — the tree path 404'd; full text layer read page by page)
+- Verdict: COMPLETE
+- Tally: 28 placements — 12 to existing lessons, 16 NEW LESSON NEEDED
+- Libya's own way: the medieval centuries are told as the Arab-Islamic nation's single story — the Prophet, the caliphates, then the Maghreb and al-Andalus with a named section on ruling families inside Libya itself, and a full closing chapter on civilisation (government, society, science, cities) and what it gave Europe.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya part — Chapter 7: the effect of Arab-Islamic civilisation on the European Renaissance — story beats: through Spain, Sicily and translation, Arabic science and philosophy reach Europe and help wake its Renaissance (History expansion, 2026-11-15; original placement slug: modern-world/the-renaissance-what-it-was) | Libya, *G11 Medieval Arab World*, printed p. 251 |
+
+Libya's own way (Book 2 — G11 Medieval Arab World (student book, Humanities, Arabic)): the medieval centuries are told as the Arab-Islamic nation's single story — the Prophet, the caliphates, then the Maghreb and al-Andalus with a named section on ruling families inside Libya itself, and a full closing chapter on civilisation (government, society, science, cities) and what it gave Europe. That way is stocked here as the way Libya teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 3 — G12 Modern & Contemporary Arab World (student book, Humanities, Arabic)**
+- Title as printed: تاريخ الوطن العربي الحديث والمعاصر — للسنة الثالثة بمرحلة التعليم الثانوي (القسم الأدبي) (Modern and Contemporary History of the Arab World, Third Year of Secondary Education, Literary Section)
+- Grade: 12 Humanities (student/teacher: STUDENT)
+- Publisher: مركز المناهج التعليمية والبحوث التربوية، ليبيا (Centre for Educational Curricula and Educational Research, Libya); year 2019–2020 / 1440–1441 AH; no ISBN printed
+- PDF pages: 177 (cover/title page verified against the record title; grabbed via grab.py release URL — the tree path 404'd; full text layer read page by page)
+- Verdict: COMPLETE
+- Tally: 21 placements — 15 to existing lessons, 6 NEW LESSON NEEDED
+- Libya's own way: modern history is told as one Arab struggle — Ottoman decline, Europe's rise told fairly (Renaissance, revolutions, industry), colonial partition, then each Arab people's national struggle country by country, Libya's war against Italy among them, ending with Palestine as the open wound.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya part — Chapter 3: the Renaissance and the making of modern Europe — story beats: Europe wakes from its medieval sleep, revives learning and art, and becomes the power that will soon press on the Arab world (History expansion, 2026-11-15; original placement slug: modern-world/the-renaissance-what-it-was) | Libya, *G12 Modern Arab World*, printed p. 57 |
+
+Libya's own way (Book 3 — G12 Modern & Contemporary Arab World (student book, Humanities, Arabic)): modern history is told as one Arab struggle — Ottoman decline, Europe's rise told fairly (Renaissance, revolutions, industry), colonial partition, then each Arab people's national struggle country by country, Libya's war against Italy among them, ending with Palestine as the open wound. That way is stocked here as the way Libya teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 15 countries (Ethiopia, Poland, Costa Rica, Australia, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Iran, Palestine, Colombia, Mauritania, South Sudan, Libya).**

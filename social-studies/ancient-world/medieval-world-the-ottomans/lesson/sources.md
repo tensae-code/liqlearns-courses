@@ -1,6 +1,6 @@
 # Sources — Medieval world — the Ottomans
 
-countries: Ethiopia, Turkey, Australia, Eritrea, Montenegro, Pakistan, Bulgaria, Palestine, Mauritania
+countries: Ethiopia, Turkey, Australia, Eritrea, Montenegro, Pakistan, Bulgaria, Palestine, Mauritania, Libya
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -228,3 +228,59 @@ Mauritania's own way (mr-g07 — History, 1st preparatory year (student book, Ar
 Mauritania's own way (mr-g11 — History, 5th year of secondary education (student book, Arabic)): The secondary cycle re-runs the Islamic centuries at greater depth in four units — Islam's emergence and the state's stages; the Umayyads, Abbasids and al-Andalus; the Almoravids, the Sudanese kingdoms and the Sahara trade (Mauritania's own medieval world); and models of the Islamic–Western clash: the Crusades, the Ottomans and the slave trade. That way is stocked here as the way Mauritania teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 9 countries (Ethiopia, Turkey, Australia, Eritrea, Montenegro, Pakistan, Bulgaria, Palestine, Mauritania).**
+
+
+## History expansion (2026-11-15) — Libya stocked
+
+**Book 3 — G12 Modern & Contemporary Arab World (student book, Humanities, Arabic)**
+- Title as printed: تاريخ الوطن العربي الحديث والمعاصر — للسنة الثالثة بمرحلة التعليم الثانوي (القسم الأدبي) (Modern and Contemporary History of the Arab World, Third Year of Secondary Education, Literary Section)
+- Grade: 12 Humanities (student/teacher: STUDENT)
+- Publisher: مركز المناهج التعليمية والبحوث التربوية، ليبيا (Centre for Educational Curricula and Educational Research, Libya); year 2019–2020 / 1440–1441 AH; no ISBN printed
+- PDF pages: 177 (cover/title page verified against the record title; grabbed via grab.py release URL — the tree path 404'd; full text layer read page by page)
+- Verdict: COMPLETE
+- Tally: 21 placements — 15 to existing lessons, 6 NEW LESSON NEEDED
+- Libya's own way: modern history is told as one Arab struggle — Ottoman decline, Europe's rise told fairly (Renaissance, revolutions, industry), colonial partition, then each Arab people's national struggle country by country, Libya's war against Italy among them, ending with Palestine as the open wound.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya part — Chapter 1: the Arab world at the opening of the 16th century — story beats: the Arab lands matter for their place between three continents and their holy cities just as a new Turkish power, the Ottoman state, rises and turns toward them (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-ottomans) | Libya, *G12 Modern Arab World*, printed p. 11 |
+| Libya part — Chapter 1: the rise and development of the Ottoman state and its coming to the Arab region — story beats: the Ottomans grow from a frontier emirate into an empire, defeat the Mamluks, and take Syria, Egypt and the holy cities into their rule (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-ottomans) | Libya, *G12 Modern Arab World*, printed p. 14 |
+| Libya part — Chapter 2: the Arab region under Ottoman rule — story beats: sultans govern the Arab provinces through appointed governors, tax farmers and local notables, and four centuries of Ottoman rule reshape the region's cities and countryside (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-ottomans) | Libya, *G12 Modern Arab World*, printed p. 35 |
+
+Libya's own way (Book 3 — G12 Modern & Contemporary Arab World (student book, Humanities, Arabic)): modern history is told as one Arab struggle — Ottoman decline, Europe's rise told fairly (Renaissance, revolutions, industry), colonial partition, then each Arab people's national struggle country by country, Libya's war against Italy among them, ending with Palestine as the open wound. That way is stocked here as the way Libya teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 5 — G9 Modern and Contemporary History of Libya (student book, Arabic)**
+- Title as printed: تاريخ ليبيا الحديث والمعاصر (Modern and Contemporary History of Libya)
+- Grade: Grade 9 (student book)
+- Publisher: Centre for Educational Curricula and Educational Research, Libya; year 2019/2020 (1440/1441 AH); ISBN: no ISBN printed
+- PDF pages: 144 (printed folios match PDF page numbers; read as 4-up page sheets — image-only scan; all four chapters read, exercise spreads skimmed)
+- Verdict: COMPLETE
+- Tally: 16 placements — 3 to existing lessons, 13 NEW LESSON NEEDED
+- Libya's own way: four centuries are told as one Libyan story — Ottoman province, Karamanli state, Italian invasion, armed jihad, republic, liberation, UN independence — with Libyan actors named at every turn.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya part — The Arab world before the Ottomans — story beats: Baghdad's fall in 1258 ends the Abbasid age; Mamluk Egypt weakens as Portuguese ships round the Cape in 1498 and strangle its trade; Safavid Iran rises — and the Ottomans, fresh from Constantinople in 1453 and Chaldiran in 1514, turn toward the Arab lands (History expansion, 2026-11-15; original placement slug: modern-world/ottoman-empire-at-its-height) | Libya, *G9 Modern and Contemporary History of Libya*, printed p. 9 |
+
+Libya's own way (Book 5 — G9 Modern and Contemporary History of Libya (student book, Arabic)): four centuries are told as one Libyan story — Ottoman province, Karamanli state, Italian invasion, armed jihad, republic, liberation, UN independence — with Libyan actors named at every turn. That way is stocked here as the way Libya teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 8 — G6 Social Studies (History and Geography) (student book, Arabic) — COMBINED**
+- Title as printed: الاجتماعيات (التاريخ والجغرافيا) (Social Studies — History and Geography)
+- Grade: Grade 6 (student book)
+- Publisher: Centre for Educational Curricula and Educational Research, Libya; year 2019/2020 (1440/1441 AH); ISBN: no ISBN printed
+- PDF pages: 120 (printed folios match PDF page numbers; History topic read as 4-up page sheets — image-only scan; the Geography topic was identified from the contents and not placed)
+- Verdict: COMPLETE (History parts)
+- Tally: 13 placements — 2 to existing lessons, 11 NEW LESSON NEEDED
+- Libya's own way: the whole modern national story — Ottoman province, Karamanli state, Italian invasion, republic, Mukhtar, liberation, kingdom — is taught to eleven-year-olds as Libya's own continuous story.
+- Non-History parts (named, not placed): the whole second topic, Principles of Physical Geography (printed pp. 66–118) — how Earth's surface is shaped (rock, inner and outer forces); climate geography (weather, temperature, pressure, winds, rain); water (wadis, rivers, groundwater); pollution (air, water, soil, and pollution as a world problem).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya part — The rise and expansion of the Ottoman state — story beats: Turkish tribes flee the Mongol storm westward; Osman founds the state at Bursa; Mehmed II takes Constantinople in 1453, and the empire turns toward the Arab lands (History expansion, 2026-11-15; original placement slug: modern-world/ottoman-empire-at-its-height) | Libya, *G6 Social Studies (History and Geography)*, printed p. 12 |
+
+Libya's own way (Book 8 — G6 Social Studies (History and Geography) (student book, Arabic) — COMBINED): the whole modern national story — Ottoman province, Karamanli state, Italian invasion, republic, Mukhtar, liberation, kingdom — is taught to eleven-year-olds as Libya's own continuous story. That way is stocked here as the way Libya teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 10 countries (Ethiopia, Turkey, Australia, Eritrea, Montenegro, Pakistan, Bulgaria, Palestine, Mauritania, Libya).**

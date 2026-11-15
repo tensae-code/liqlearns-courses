@@ -1,6 +1,6 @@
 # Sources — The rise of Islam — the Prophet Muhammad and Medina
 
-countries: Egypt
+countries: Egypt, Libya
 
 **Book 8:** *الدراسات الاجتماعية — العالم العربي... وطن يجمعنا (Social Studies — The Arab World… a Homeland that Gathers Us)* (student book, Arabic) — Egypt. Grade: Grade 6 (Sixth Primary), Term 1 (student book). Publisher: Ministry of Education and Technical Education, Egypt (Educational Content Sector; Salah al-Tilmiz Foundation for Printing and Publishing), 2025/2026; ISBN: no ISBN printed in the front matter. PDF pages: 113 (grabbed from the library's GitHub release copy; read as single-page sheets; the History unit read in full, the Geography and economics units identified from the contents and curriculum map). Verdict: COMPLETE (History parts). Tally: 6 placements — 0 to existing lessons, 6 NEW LESSON NEEDED. Non-History parts (named, not placed): Unit 1 (our Arab homeland — location and importance, terrain, climate and natural vegetation, environmental challenges) and Unit 3 (our Arab homeland and economic development — agricultural activity, animal and fish wealth, minerals and energy sources, tourism activity) — Geography/Economics. Placements at liqlearns-courses-work/expansion-history-2026-11-15/egypt-placements.md.
 
@@ -20,3 +20,42 @@ Egypt's own way (Sec11 "Egypt and Islamic Civilisation", Grade 11 (Second Second
 **Acceptance count: taught in 1 country (Egypt).**
 
 Searchable tags: Egypt, The rise of Islam — the Prophet Muhammad and Medina, ancient-world, History expansion 2026-11-15
+
+
+## History expansion (2026-11-15) — Libya stocked
+
+**Book 6 — G8 Islamic History (student book, Arabic)**
+- Title as printed: التاريخ الإسلامي (Islamic History)
+- Grade: Grade 8 (student book)
+- Publisher: Centre for Educational Curricula and Educational Research, Libya; year 2019/2020 (1440/1441 AH); ISBN: no ISBN printed
+- PDF pages: 160 (printed folios match PDF page numbers; read as 4-up page sheets — image-only scan; all seven chapters read, exercise spreads skimmed)
+- Verdict: COMPLETE
+- Tally: 22 placements — 3 to existing lessons, 19 NEW LESSON NEEDED
+- Libya's own way: the Islamic centuries are told from Arabia outward, but Libya keeps appearing at the hinge points — the conquest road west, the Aghlabid and Fatimid Maghreb, Spain in Tripoli, and the Senussi zawiyas that school the Sahara.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya part — The Islamic call — story beats: Muhammad preaches one God in Mecca, is persecuted, and migrates to Medina, where the first Muslim community is born (History expansion, 2026-11-15; original placement slug: ancient-world/rise-of-islam-prophet-muhammad-and-medina) | Libya, *G8 Islamic History*, printed p. 15 |
+| Libya part — The formation of the Islamic state — story beats: Medina's charter binds Muhajirun and Ansar; Badr, Uhud and the Trench defend the young state; Hudaybiyya's truce opens the road to Mecca's peaceful conquest (History expansion, 2026-11-15; original placement slug: ancient-world/rise-of-islam-prophet-muhammad-and-medina) | Libya, *G8 Islamic History*, printed p. 25 |
+
+Libya's own way (Book 6 — G8 Islamic History (student book, Arabic)): the Islamic centuries are told from Arabia outward, but Libya keeps appearing at the hinge points — the conquest road west, the Aghlabid and Fatimid Maghreb, Spain in Tripoli, and the Senussi zawiyas that school the Sahara. That way is stocked here as the way Libya teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 7 — G5 Social Studies (History and Geography) (student book, Arabic) — COMBINED**
+- Title as printed: الاجتماعيات (التاريخ والجغرافيا) (Social Studies — History and Geography)
+- Grade: Grade 5 (student book)
+- Publisher: Centre for Educational Curricula and Educational Research, Libya; year 2019/2020 (1440/1441 AH); ISBN: no ISBN printed
+- PDF pages: 104 (printed folios match PDF page numbers; History topic read as 4-up page sheets — image-only scan; the Geography topic was identified from the contents and not placed)
+- Verdict: COMPLETE (History parts)
+- Tally: 10 placements — 0 to existing lessons, 10 NEW LESSON NEEDED
+- Libya's own way: Islamic history for ten-year-olds runs as one story from Mecca to the Mamluks — and Libya appears inside it where Tripoli becomes the Fatimids' naval base for the Sicily jihad.
+- Non-History parts (named, not placed): the whole Geography topic (printed pp. 54–100) — the solar system and Earth's sphericity, eclipses; Earth's axis and rotations and the seasons; the geographic grid of longitude and latitude; finding place and direction (compass, GPS); land and water on Earth's surface; maps and scale.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya part — The appearance of Islam — story beats: Muhammad is born in the Year of the Elephant (571), orphaned, and raised by his grandfather then Abu Talib; he settles the Black Stone quarrel with his cloak and receives the first revelation at Hira at forty; the call goes public, followers are tortured, some flee to the Negus in Abyssinia — then comes the Hijra to Medina (History expansion, 2026-11-15; original placement slug: ancient-world/rise-of-islam-prophet-muhammad-and-medina) | Libya, *G5 Social Studies (History and Geography)*, printed p. 13 |
+
+Libya's own way (Book 7 — G5 Social Studies (History and Geography) (student book, Arabic) — COMBINED): Islamic history for ten-year-olds runs as one story from Mecca to the Mamluks — and Libya appears inside it where Tripoli becomes the Fatimids' naval base for the Sicily jihad. That way is stocked here as the way Libya teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 2 countries (Egypt, Libya).**

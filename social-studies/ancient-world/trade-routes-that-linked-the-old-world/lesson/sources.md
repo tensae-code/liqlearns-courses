@@ -1,6 +1,6 @@
 # Sources — Trade routes that linked the old world
 
-countries: Ethiopia, Nigeria, France, Kuwait, India, Indonesia, Syria, Palestine, Colombia
+countries: Ethiopia, Nigeria, France, Kuwait, India, Indonesia, Syria, Palestine, Colombia, Libya
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -214,3 +214,24 @@ Colombia's own way (Secundaria Activa G7 (student book, Spanish)): Grade 7 Secun
 **Acceptance count: taught in 9 countries (Ethiopia, Nigeria, France, Kuwait, India, Indonesia, Syria, Palestine, Colombia).**
 
 Searchable tags: Colombia, Trade routes that linked the old world, ancient-world, History expansion 2026-11-15
+
+
+## History expansion (2026-11-15) — Libya stocked
+
+**Book 1 — G10 Ancient Arab World (student book, Arabic)**
+- Title as printed: تاريخ الوطن العربي في العصر القديم — للسنة الأولى بمرحلة التعليم الثانوي (History of the Arab World in the Ancient Era, First Year of Secondary Education)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: مركز المناهج التعليمية والبحوث التربوية، ليبيا (Centre for Educational Curricula and Educational Research, Libya); year 2019–2020 / 1440–1441 AH; no ISBN printed
+- PDF pages: 188 (cover/title page verified against the record title; grabbed via grab.py tree — the only Libya tree path that resolved; full text layer read page by page)
+- Verdict: COMPLETE
+- Tally: 26 placements — 17 to existing lessons, 9 NEW LESSON NEEDED
+- Libya's own way: the ancient world is told as one Arab-world story — method first (what a historian does), then prehistory, then each region in turn (Mesopotamia, the Levant, the Nile, North Africa with Libya's own Garamantes and Cyrenaica, Arabia), ending with foreign attempts to seize the region and the region's gifts back to civilisation; every chapter closes with a structured discussion (المناقشة).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya part — Unit (Arabian Peninsula): features of Arabian civilisation — story beats: incense and spice caravans cross Arabia from Yemen to the Levant, joining the Indian Ocean to the Mediterranean in one trade web (History expansion, 2026-11-15; original placement slug: ancient-world/trade-routes-that-linked-the-old-world) | Libya, *G10 Ancient Arab World*, printed p. 161 |
+
+Libya's own way (Book 1 — G10 Ancient Arab World (student book, Arabic)): the ancient world is told as one Arab-world story — method first (what a historian does), then prehistory, then each region in turn (Mesopotamia, the Levant, the Nile, North Africa with Libya's own Garamantes and Cyrenaica, Arabia), ending with foreign attempts to seize the region and the region's gifts back to civilisation; every chapter closes with a structured discussion (المناقشة). That way is stocked here as the way Libya teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 10 countries (Ethiopia, Nigeria, France, Kuwait, India, Indonesia, Syria, Palestine, Colombia, Libya).**

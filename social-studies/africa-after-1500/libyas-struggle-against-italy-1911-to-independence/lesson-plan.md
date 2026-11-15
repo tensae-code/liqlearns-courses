@@ -1,0 +1,58 @@
+# Lesson plan — Libya's struggle against Italy — 1911 to independence
+
+**Course:** Social Studies · **Title:** Africa after 1500 · **Lesson:** Libya's struggle against Italy — 1911 to independence
+**Place in the curriculum:** Africa after 1500 — built in the History expansion (Libya, 2026-11-15).
+**The one thing this lesson teaches:** From the first battles of 1911 at Abu Meliana and al-Shatt, Libyans resist Italy for twenty years through desert war and Italian detention camps until independence comes after the second war
+**This lesson's own level:** it stands on its own story, told in full inside the lesson. It needs nothing else.
+
+A lesson plan also says **what goes on top of the lesson**: at the exact places marked below, the lesson page carries an add-on — an image, a GIF, a video, an audio. Every slot is written as **"a picture of …" in words, plus one little line saying what the student does with it**. The words carry the picture while the course is built; on the website the real add-on is dropped into that slot and the little explanation stays as the student's guide. History is taught as story: people, places, what happened, what changed.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees from the start, locked ahead, each opening when the one before it is proved:
+
+1. **The national movements in the Arab world — Libya** — from the first battles of 1911 at Abu Meliana and al-Shatt, Libyans resist Italy for twenty years through desert war and Italian detention camps until independence comes after the second war
+2. **Why Italy invaded, and how it prepared** — cheated of Tunisia in 1881, Italy wins Europe's consent, then creeps in peacefully — Banco di Roma branches in Tripoli and Benghazi, schools, clinics, doctors — before an ultimatum over the Edirne ship affair gives Istanbul 24 hours; war is declared on 29 September 1911
+3. **The invasion and the Treaty of Ouchy** — the fleet shells Tripoli on 3 October 1911 against barely 7,000 Ottoman troops, and the garrison refuses Istanbul's surrender order; at Ouchy on 18 October 1912 the Sultan withdraws — but his firman grants Libyans self-rule, so Libyans reject the treaty and fight on: Derna's Friday battle in May 1913, Janduba, and Mahruqa in Fezzan
+4. **After the war: the Tripolitanian Republic** — at Misrata on 16 November 1918 the leaders — Baruni, al-Murayyid, al-Suwayhili, Bilkhayr — proclaim the Tripolitanian Republic; the 1919 Suani Ben Yadam peace wins a Fundamental Law of rights, and at Gharyan in 1920 the leaders resolve that only unity under one elected leader can save the country
+5. **The jihad resumes: Graziani and Omar Mukhtar** — Fascist Italy tears up the agreements in 1922 and Graziani grinds through the Western Mountain — Khalifa ibn Askar is hanged after a show trial — while in the Green Mountain Omar Mukhtar, Senussi sheikh since 1902 and veteran of the Chad fighting, takes command in 1923 and defeats the Italians at Bir Bilal and Marsa Brega
+6. **The liberation of Libya** — in Cairo in 1940 the exiles form a provisional government and a Libyan army that grows to 14,000 men; after El Alamein on 23 October 1942 Montgomery's advance frees Benghazi on 20 November and enters Tripoli on 23 January 1943 — Italian rule is over
+7. **Military administration and the partition plan** — Britain rules Cyrenaica and Tripolitania separately and France holds Fezzan; the Bevin–Sforza plan of 1948 to split Libya among the three powers leaks, the streets explode in protest, a four-power committee hears one demand everywhere — independence — and the Arab League carries Libya's case to the United Nations
+8. **Independence** — on 21 November 1949 the UN votes Libya independent by 1 January 1952; the Committee of Sixty writes a constitution of 213 articles and chooses a federal monarchy under King Idris; at ten in the morning on 24 December 1951 independence is proclaimed at al-Manar Palace in Benghazi
+9. **Independent Libya** — the United Kingdom of Libya builds its institutions — a parliament elected in February 1952, a Senate of twenty-four — and takes its seat in the Arab League and the United Nations
+10. **Italy prepares and invades Libya** — beaten to Tunisia in 1881, Italy prepares Libya quietly — Banco di Roma branches, Italian schools, study missions — wins Britain's and France's consent, then shells Tripoli and lands on 5 October 1911 against barely 7,000 Ottoman troops, meeting a coast-wide resistance of named battles from Abu Meliana and al-Shatt to al-Hawari
+11. **Ouchy rejected, and the victory of al-Qardabiya** — Libyans refuse the 1912 Treaty of Ouchy that abandons them to Italy; unity hardens, and at al-Qardabiya on 28 April 1915 Safi al-Din al-Senussi, Ramadan al-Suwayhili, Salih al-Atyush and Ahmad Sayf al-Nasr destroy Colonel Miani's column — Italy falls back on the defensive
+12. **The Ajdabiya government and the Tripolitanian Republic** — Idris al-Senussi governs Cyrenaica from Ajdabiya and wins the Akrama agreement of 1917 — prisoners exchanged, Senussi zawiyas reopened, seized property restored — while the western leaders proclaim the Tripolitanian Republic on 18 November 1918, the Arab homeland's first republic, with its governing council, shura council and scholars' assembly
+13. **The resistance resumes: Omar Mukhtar** — Italy breaks its word after the Gharyan conference pledges allegiance to Idris in 1922 and storms Misrata; in the east, after Idris's exile, Omar Mukhtar — born in 1862 at al-Butnan, a desert sheikh who had memorised the Quran — leads the renewed jihad from Bir Bilal and Brega, and the struggle runs to 1931
+14. **The Fascist era in Libya** — Fascist rule wars on the Libyan personality itself — gatherings and clubs banned, education strangled, Libya cut off from the Islamic world and its history distorted, fertile land seized by force for Italian settlers — and the resistance answers by moving abroad, to committees in Damascus, Egypt and the Levant
+15. **Liberation and independence** — at Alexandria in October 1939 the exiles rally to Idris, and the Cairo conference of 9 August 1940 raises the Libyan Arab Forces — 14,000 men who advance with the Allies from Egypt — and after the years of military administration and the United Nations road, the independent Libyan Kingdom is proclaimed
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
+
+## Before this lesson
+- Recommended first: the lessons before this one in its title. Recommended, never forced.
+
+## What the learner can do when it ends
+1. Answer, in their own words: retell — libya's struggle against Italy — 1911 to independence.
+
+## What you need
+Paper and a pencil. The lesson carries its own picture slots in words.
+
+## The run of the lesson (in order)
+1. **Do it first** — the story hook or doing task that opens lesson/lesson.md, before any explanation.
+2. **The explanation** — the story itself, part by part (lesson/lesson.md), with these add-on slots at their exact places:
+   - ADD IMAGE: a picture of the key place or moment of Libya's struggle against Italy — 1911 to independence as the book shows it — the student points to it and says what it shows. (Described slot only; no picture file is made in this build.)
+   - ADD VIDEO: the script in video-script.md, filmed — the story told aloud (made later, when videos are made).
+3. **Say it to your companion** — retell the story in your own words (lesson/lesson.md).
+4. **Questions** — from questions/: multiple-choice, true-or-false and short-answer — served at the learner's level and teaching-mix (levels.md).
+5. **Hands-on** — hands-on.md.
+6. **Do It Yourself** — the closing doing block (lesson/lesson.md).
+
+## Add-ons for this lesson (the full list)
+- ADD IMAGE: a picture of the key place or moment of Libya's struggle against Italy — 1911 to independence as the book shows it — the student points to it and says what it shows. (Described slot only; no picture file is made in this build.)
+- ADD VIDEO: the script in video-script.md, filmed — the story told aloud (made later, when videos are made).
+
+## If the learner is stuck
+If the learner loses the thread, return to the one thing: From the first battles of 1911 at Abu Meliana and al-Shatt, Libyans resist Italy for twenty years through desert war and Italian detention camps until independence comes after the second war
+
+## Teacher note
+The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md. History here is summary in the course's own words — never the book's text. A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

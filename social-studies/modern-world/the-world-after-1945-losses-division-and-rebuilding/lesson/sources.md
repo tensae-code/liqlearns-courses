@@ -1,6 +1,6 @@
 # Sources — The world after 1945 — losses, division and rebuilding
 
-countries: Ethiopia, Kuwait, Montenegro, Pakistan, Iran, Cambodia, Colombia, South Sudan
+countries: Ethiopia, Kuwait, Montenegro, Pakistan, Iran, Cambodia, Colombia, South Sudan, Libya
 
 **Book 1:** *History, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-067-3. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g12-student-placements.md
 
@@ -199,3 +199,24 @@ Searchable tags: Colombia, The world after 1945 — losses, division and rebuild
 South Sudan's own way (Book 23 — S4 History Student's Book (student book, English)): The final year is entirely world and African history beyond South Sudan — USA, Russia, Latin America, the Middle East, China and Japan — taught from primary sources (Lincoln's 1854 and 1858 speeches open the book) and ending where S1 ended, with the OAU and AU. That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 8 countries (Ethiopia, Kuwait, Montenegro, Pakistan, Iran, Cambodia, Colombia, South Sudan).**
+
+
+## History expansion (2026-11-15) — Libya stocked
+
+**Book 3 — G12 Modern & Contemporary Arab World (student book, Humanities, Arabic)**
+- Title as printed: تاريخ الوطن العربي الحديث والمعاصر — للسنة الثالثة بمرحلة التعليم الثانوي (القسم الأدبي) (Modern and Contemporary History of the Arab World, Third Year of Secondary Education, Literary Section)
+- Grade: 12 Humanities (student/teacher: STUDENT)
+- Publisher: مركز المناهج التعليمية والبحوث التربوية، ليبيا (Centre for Educational Curricula and Educational Research, Libya); year 2019–2020 / 1440–1441 AH; no ISBN printed
+- PDF pages: 177 (cover/title page verified against the record title; grabbed via grab.py release URL — the tree path 404'd; full text layer read page by page)
+- Verdict: COMPLETE
+- Tally: 21 placements — 15 to existing lessons, 6 NEW LESSON NEEDED
+- Libya's own way: modern history is told as one Arab struggle — Ottoman decline, Europe's rise told fairly (Renaissance, revolutions, industry), colonial partition, then each Arab people's national struggle country by country, Libya's war against Italy among them, ending with Palestine as the open wound.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya part — Chapter 5: Europe between the two world wars 1918–1939 — story beats: a broken Europe arms, dictators rise, and the settlement of the first war prepares the second (History expansion, 2026-11-15; original placement slug: modern-world/the-world-after-1945-losses-division-and-rebuilding) | Libya, *G12 Modern Arab World*, printed p. 119 |
+
+Libya's own way (Book 3 — G12 Modern & Contemporary Arab World (student book, Humanities, Arabic)): modern history is told as one Arab struggle — Ottoman decline, Europe's rise told fairly (Renaissance, revolutions, industry), colonial partition, then each Arab people's national struggle country by country, Libya's war against Italy among them, ending with Palestine as the open wound. That way is stocked here as the way Libya teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 9 countries (Ethiopia, Kuwait, Montenegro, Pakistan, Iran, Cambodia, Colombia, South Sudan, Libya).**

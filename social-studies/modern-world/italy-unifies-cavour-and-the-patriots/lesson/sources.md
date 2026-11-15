@@ -1,6 +1,6 @@
 # Sources — Italy unifies — Cavour and the patriots
 
-countries: Ethiopia, Cambodia, South Sudan
+countries: Ethiopia, Cambodia, South Sudan, Libya
 
 **Book 1:** *History, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN 978-99990-0-065-9, printed by GRAVITY GROUP IND LLC, Sharjah, UAE. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g10-student-placements.md
 
@@ -101,3 +101,24 @@ Searchable tags: Cambodia, Italy unifies — Cavour and the patriots, modern-wor
 South Sudan's own way (Book 19 — S2 History Student's Book (student book, English)): World history (French Revolution to Cold War) is the frame, but the centre of the book is a source-based Unit 4 on South Sudan's own 20th century — condominium separation policy, Juba 1947, Anya-Nya, Addis Ababa and the SPLM/A, told with named southern actors like Clement Mboro, Joseph Lagu, Akuot Atem and John Garang. That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 3 countries (Ethiopia, Cambodia, South Sudan).**
+
+
+## History expansion (2026-11-15) — Libya stocked
+
+**Book 3 — G12 Modern & Contemporary Arab World (student book, Humanities, Arabic)**
+- Title as printed: تاريخ الوطن العربي الحديث والمعاصر — للسنة الثالثة بمرحلة التعليم الثانوي (القسم الأدبي) (Modern and Contemporary History of the Arab World, Third Year of Secondary Education, Literary Section)
+- Grade: 12 Humanities (student/teacher: STUDENT)
+- Publisher: مركز المناهج التعليمية والبحوث التربوية، ليبيا (Centre for Educational Curricula and Educational Research, Libya); year 2019–2020 / 1440–1441 AH; no ISBN printed
+- PDF pages: 177 (cover/title page verified against the record title; grabbed via grab.py release URL — the tree path 404'd; full text layer read page by page)
+- Verdict: COMPLETE
+- Tally: 21 placements — 15 to existing lessons, 6 NEW LESSON NEEDED
+- Libya's own way: modern history is told as one Arab struggle — Ottoman decline, Europe's rise told fairly (Renaissance, revolutions, industry), colonial partition, then each Arab people's national struggle country by country, Libya's war against Italy among them, ending with Palestine as the open wound.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya part — Chapter 3: Italian unification (within the revolutions survey) — story beats: Cavour and the patriots stitch Italy's fragments into one kingdom, the same Italy that will later seize Libya (History expansion, 2026-11-15; original placement slug: modern-world/italy-unifies-cavour-and-the-patriots) | Libya, *G12 Modern Arab World*, printed p. 67 |
+
+Libya's own way (Book 3 — G12 Modern & Contemporary Arab World (student book, Humanities, Arabic)): modern history is told as one Arab struggle — Ottoman decline, Europe's rise told fairly (Renaissance, revolutions, industry), colonial partition, then each Arab people's national struggle country by country, Libya's war against Italy among them, ending with Palestine as the open wound. That way is stocked here as the way Libya teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 4 countries (Ethiopia, Cambodia, South Sudan, Libya).**

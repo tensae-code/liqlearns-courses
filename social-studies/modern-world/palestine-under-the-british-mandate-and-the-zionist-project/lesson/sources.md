@@ -1,6 +1,6 @@
 # Sources — Palestine under the British Mandate and the Zionist project
 
-countries: Egypt, Syria, Palestine
+countries: Egypt, Syria, Palestine, Libya
 
 **Book 6:** *الدراسات الاجتماعية — جغرافية العالم وتاريخ مصر الحديث والمعاصر (Social Studies — Geography of the World and Modern and Contemporary History of Egypt)* (student book, Arabic) — Egypt. Grade: Grade 9 (Third Preparatory), both terms in one volume (student book). Publisher: Ministry of Education and Technical Education, Egypt (Central Administration for Curriculum Development; General Administration for Textbooks); printed 2025/2026; ISBN: no ISBN printed in the front matter. PDF pages: 186 (read in place from phase3-staging; image-only scan read as 4-up page sheets; all History units of both terms read, Geography units identified from the contents). Note: this is the older-curriculum full-year book, a different book from Book 5 (the new-curriculum Term 1 volume), covering some of the same ground in its own treatment. Verdict: COMPLETE (History parts). Tally: 13 placements — 0 to existing lessons, 13 NEW LESSON NEEDED. Non-History parts (named, not placed): Term 1 Units 1–2 (physical geography of the world — continents, terrain, climate and natural vegetation; population geography — human races, population distribution and characteristics) and Term 2 Units 1–2 (resources and economic activities in the world; models of developing and advanced countries — India, Brazil, Nigeria, Germany, the USA), plus Term 2 Unit 4 Lesson 2 (Egypt and the regional and international organisations) — Geography/Civics. Placements at liqlearns-courses-work/expansion-history-2026-11-15/egypt-placements.md.
 
@@ -56,3 +56,27 @@ Palestine's own way (Book 11 — G10 Geography and Modern & Contemporary History
 **Acceptance count: taught in 3 countries (Egypt, Syria, Palestine).**
 
 Searchable tags: Palestine, Palestine under the British Mandate and the Zionist project, modern-world, History expansion 2026-11-15
+
+
+## History expansion (2026-11-15) — Libya stocked
+
+**Book 3 — G12 Modern & Contemporary Arab World (student book, Humanities, Arabic)**
+- Title as printed: تاريخ الوطن العربي الحديث والمعاصر — للسنة الثالثة بمرحلة التعليم الثانوي (القسم الأدبي) (Modern and Contemporary History of the Arab World, Third Year of Secondary Education, Literary Section)
+- Grade: 12 Humanities (student/teacher: STUDENT)
+- Publisher: مركز المناهج التعليمية والبحوث التربوية، ليبيا (Centre for Educational Curricula and Educational Research, Libya); year 2019–2020 / 1440–1441 AH; no ISBN printed
+- PDF pages: 177 (cover/title page verified against the record title; grabbed via grab.py release URL — the tree path 404'd; full text layer read page by page)
+- Verdict: COMPLETE
+- Tally: 21 placements — 15 to existing lessons, 6 NEW LESSON NEEDED
+- Libya's own way: modern history is told as one Arab struggle — Ottoman decline, Europe's rise told fairly (Renaissance, revolutions, industry), colonial partition, then each Arab people's national struggle country by country, Libya's war against Italy among them, ending with Palestine as the open wound.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya part — Chapter 6: the Arab–Zionist conflict — Britain occupies Palestine and the Palestinian national movement — story beats: Britain takes Palestine in the war, the Balfour promise opens it to Zionist settlement, and Palestinian Arabs organise a national movement against both (History expansion, 2026-11-15; original placement slug: modern-world/palestine-under-the-british-mandate-and-the-zionist-project) | Libya, *G12 Modern Arab World*, printed p. 159 |
+| Libya part — Chapter 6: Zionist ambitions in Palestine and the Zionist movement's tie to European colonialism — story beats: the Zionist movement seeks a national home in Palestine and survives by riding European colonial power, above all Britain's mandate (History expansion, 2026-11-15; original placement slug: modern-world/palestine-under-the-british-mandate-and-the-zionist-project) | Libya, *G12 Modern Arab World*, printed p. 161 |
+| Libya part — Chapter 6: Arab resistance to the Zionists and the British — the 1936 revolt — story beats: Palestinians rise in the great revolt of 1936, strike and fight for three years, and force Britain to rethink its Palestine policy (History expansion, 2026-11-15; original placement slug: modern-world/palestine-under-the-british-mandate-and-the-zionist-project) | Libya, *G12 Modern Arab World*, printed p. 165 |
+| Libya part — Chapter 6: Palestine during and after the Second World War, and Arab resistance after 1948 — story beats: the war ends, Britain hands Palestine to the UN, Israel is proclaimed in 1948, and Arab resistance continues after the catastrophe (History expansion, 2026-11-15; original placement slug: modern-world/palestine-under-the-british-mandate-and-the-zionist-project) | Libya, *G12 Modern Arab World*, printed p. 168 |
+
+Libya's own way (Book 3 — G12 Modern & Contemporary Arab World (student book, Humanities, Arabic)): modern history is told as one Arab struggle — Ottoman decline, Europe's rise told fairly (Renaissance, revolutions, industry), colonial partition, then each Arab people's national struggle country by country, Libya's war against Italy among them, ending with Palestine as the open wound. That way is stocked here as the way Libya teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 4 countries (Egypt, Syria, Palestine, Libya).**

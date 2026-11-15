@@ -1,6 +1,6 @@
 # Sources — The rise and expansion of Islam
 
-countries: Ethiopia, Saudi Arabia, Gambia, Turkey, Costa Rica, Malaysia, Ecuador, Kuwait, India, Montenegro, Egypt, Pakistan, Syria, Iran, Bulgaria, Palestine, Colombia, Mauritania
+countries: Ethiopia, Saudi Arabia, Gambia, Turkey, Costa Rica, Malaysia, Ecuador, Kuwait, India, Montenegro, Egypt, Pakistan, Syria, Iran, Bulgaria, Palestine, Colombia, Mauritania, Libya
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under GEQIP-E, ISBN 978-99990-0-066-6. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -504,3 +504,45 @@ Mauritania's own way (mr-g07t — History guide, 1st preparatory year (teacher g
 Mauritania's own way (mr-g11 — History, 5th year of secondary education (student book, Arabic)): The secondary cycle re-runs the Islamic centuries at greater depth in four units — Islam's emergence and the state's stages; the Umayyads, Abbasids and al-Andalus; the Almoravids, the Sudanese kingdoms and the Sahara trade (Mauritania's own medieval world); and models of the Islamic–Western clash: the Crusades, the Ottomans and the slave trade. That way is stocked here as the way Mauritania teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 18 countries (Ethiopia, Saudi Arabia, Gambia, Turkey, Costa Rica, Malaysia, Ecuador, Kuwait, India, Montenegro, Egypt, Pakistan, Syria, Iran, Bulgaria, Palestine, Colombia, Mauritania).**
+
+
+## History expansion (2026-11-15) — Libya stocked
+
+**Book 2 — G11 Medieval Arab World (student book, Humanities, Arabic)**
+- Title as printed: تاريخ الوطن العربي في العصر الوسيط — للسنة الثانية بمرحلة التعليم الثانوي (القسم الأدبي) (History of the Arab World in the Medieval Era, Second Year of Secondary Education, Literary Section)
+- Grade: 11 Humanities (student/teacher: STUDENT)
+- Publisher: مركز المناهج التعليمية والبحوث التربوية، ليبيا (Centre for Educational Curricula and Educational Research, Libya); year 2019–2020 / 1440–1441 AH; no ISBN printed
+- PDF pages: 264 (cover/title page verified against the record title; grabbed via grab.py release URL — the tree path 404'd; full text layer read page by page)
+- Verdict: COMPLETE
+- Tally: 28 placements — 12 to existing lessons, 16 NEW LESSON NEEDED
+- Libya's own way: the medieval centuries are told as the Arab-Islamic nation's single story — the Prophet, the caliphates, then the Maghreb and al-Andalus with a named section on ruling families inside Libya itself, and a full closing chapter on civilisation (government, society, science, cities) and what it gave Europe.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya part — Chapter 1: the emergence of Islam, Mecca — story beats: Muhammad preaches first in secret then openly in Mecca, Quraysh persecute the believers, and the weakest find refuge with the just king of Abyssinia before the migration to Yathrib turns a persecuted band into a community (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Libya, *G11 Medieval Arab World*, printed p. 1 |
+| Libya part — Chapter 1: the Prophet's state in Medina — story beats: in Medina the Prophet organises a state — administration, covenants, an army — fights Badr, Uhud and the Trench, makes the Hudaybiyya truce, then enters Mecca in conquest and dies leaving Arabia united (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Libya, *G11 Medieval Arab World*, printed p. 15 |
+| Libya part — Chapter 2: the Rashidun caliphs — story beats: Abu Bakr holds Arabia together, Umar organises the conquering state, Uthman standardises the Qur'an, and Ali's caliphate ends in the first great split (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Libya, *G11 Medieval Arab World*, printed p. 35 |
+| Libya part — Chapter 2: the spread of Islam in the Levant, Iraq and Persia — story beats: driven by faith and pressure at home, Muslim armies defeat both Persia and Byzantium, and the book asks why the two great empires fell so fast (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Libya, *G11 Medieval Arab World*, printed p. 63 |
+| Libya part — Chapter 3: Islamic conquests in the Umayyad era — story beats: Umayyad armies carry Islam to the Atlantic in the west and to Sindh and Transoxiana in the east, the widest reach of the early conquests (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Libya, *G11 Medieval Arab World*, printed p. 79 |
+
+Libya's own way (Book 2 — G11 Medieval Arab World (student book, Humanities, Arabic)): the medieval centuries are told as the Arab-Islamic nation's single story — the Prophet, the caliphates, then the Maghreb and al-Andalus with a named section on ruling families inside Libya itself, and a full closing chapter on civilisation (government, society, science, cities) and what it gave Europe. That way is stocked here as the way Libya teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 6 — G8 Islamic History (student book, Arabic)**
+- Title as printed: التاريخ الإسلامي (Islamic History)
+- Grade: Grade 8 (student book)
+- Publisher: Centre for Educational Curricula and Educational Research, Libya; year 2019/2020 (1440/1441 AH); ISBN: no ISBN printed
+- PDF pages: 160 (printed folios match PDF page numbers; read as 4-up page sheets — image-only scan; all seven chapters read, exercise spreads skimmed)
+- Verdict: COMPLETE
+- Tally: 22 placements — 3 to existing lessons, 19 NEW LESSON NEEDED
+- Libya's own way: the Islamic centuries are told from Arabia outward, but Libya keeps appearing at the hinge points — the conquest road west, the Aghlabid and Fatimid Maghreb, Spain in Tripoli, and the Senussi zawiyas that school the Sahara.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya part — Expansion under the Rashidun — story beats: at al-Qadisiyya in 636 Sa'd ibn Abi Waqqas breaks Persia's army and Rustum falls; Ajnadayn and Yarmouk open the Levant; Nahavand in 642 is the "conquest of conquests", and Persia's last king dies in 31 AH (History expansion, 2026-11-15; original placement slug: ancient-world/islam-expands) | Libya, *G8 Islamic History*, printed p. 53 |
+| Libya part — Freeing the peoples under Persia and Rome — story beats: the book tells the conquests as liberation — peoples crushed by Persian and Byzantine taxes and persecution welcome the new order (History expansion, 2026-11-15; original placement slug: africa-to-1500/africa-before-1500-trade-kingdoms-and-faith) | Libya, *G8 Islamic History*, printed p. 61 |
+
+Libya's own way (Book 6 — G8 Islamic History (student book, Arabic)): the Islamic centuries are told from Arabia outward, but Libya keeps appearing at the hinge points — the conquest road west, the Aghlabid and Fatimid Maghreb, Spain in Tripoli, and the Senussi zawiyas that school the Sahara. That way is stocked here as the way Libya teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 19 countries (Ethiopia, Saudi Arabia, Gambia, Turkey, Costa Rica, Malaysia, Ecuador, Kuwait, India, Montenegro, Egypt, Pakistan, Syria, Iran, Bulgaria, Palestine, Colombia, Mauritania, Libya).**

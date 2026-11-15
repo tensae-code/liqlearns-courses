@@ -1,6 +1,6 @@
 # Sources — Colonisation — the road to the Scramble
 
-countries: Ethiopia, Rwanda, Eritrea, Dominican Republic, Mauritania, South Sudan
+countries: Ethiopia, Rwanda, Eritrea, Dominican Republic, Mauritania, South Sudan, Libya
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 5, placements 110–122).
 
@@ -150,3 +150,24 @@ Mauritania's own way (mr-g12 — History, 6th year of secondary education (stude
 South Sudan's own way (Book 15 — P8 Social Studies Pupil's Book (student book, English)): Colonisation is taught through named African choices — Lewanika collaborates, Samori Touré resists for seven years — and through South Sudan's own split peoples (Anyuak, Ma'di, Acholi, Kakwa) when boundaries are drawn. That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 6 countries (Ethiopia, Rwanda, Eritrea, Dominican Republic, Mauritania, South Sudan).**
+
+
+## History expansion (2026-11-15) — Libya stocked
+
+**Book 3 — G12 Modern & Contemporary Arab World (student book, Humanities, Arabic)**
+- Title as printed: تاريخ الوطن العربي الحديث والمعاصر — للسنة الثالثة بمرحلة التعليم الثانوي (القسم الأدبي) (Modern and Contemporary History of the Arab World, Third Year of Secondary Education, Literary Section)
+- Grade: 12 Humanities (student/teacher: STUDENT)
+- Publisher: مركز المناهج التعليمية والبحوث التربوية، ليبيا (Centre for Educational Curricula and Educational Research, Libya); year 2019–2020 / 1440–1441 AH; no ISBN printed
+- PDF pages: 177 (cover/title page verified against the record title; grabbed via grab.py release URL — the tree path 404'd; full text layer read page by page)
+- Verdict: COMPLETE
+- Tally: 21 placements — 15 to existing lessons, 6 NEW LESSON NEEDED
+- Libya's own way: modern history is told as one Arab struggle — Ottoman decline, Europe's rise told fairly (Renaissance, revolutions, industry), colonial partition, then each Arab people's national struggle country by country, Libya's war against Italy among them, ending with Palestine as the open wound.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya part — Chapter 4: European colonial expansion and the Ottoman state — story beats: European powers pick at the Ottoman Empire's edges — Algeria, Egypt, Tunisia — while diplomacy in Europe decides the sick man's fate (History expansion, 2026-11-15; original placement slug: africa-after-1500/colonisation-the-road-to-the-scramble) | Libya, *G12 Modern Arab World*, printed p. 90 |
+
+Libya's own way (Book 3 — G12 Modern & Contemporary Arab World (student book, Humanities, Arabic)): modern history is told as one Arab struggle — Ottoman decline, Europe's rise told fairly (Renaissance, revolutions, industry), colonial partition, then each Arab people's national struggle country by country, Libya's war against Italy among them, ending with Palestine as the open wound. That way is stocked here as the way Libya teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 7 countries (Ethiopia, Rwanda, Eritrea, Dominican Republic, Mauritania, South Sudan, Libya).**

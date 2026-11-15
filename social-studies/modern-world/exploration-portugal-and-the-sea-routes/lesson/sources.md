@@ -1,6 +1,6 @@
 # Sources — Exploration — Portugal and the sea routes to India
 
-countries: Ethiopia, Palestine, Nigeria, United States, Ecuador, Kuwait, Indonesia, Montenegro, Pakistan, Suriname, Cambodia, Colombia, Mauritania
+countries: Ethiopia, Palestine, Nigeria, United States, Ecuador, Kuwait, Indonesia, Montenegro, Pakistan, Suriname, Cambodia, Colombia, Mauritania, Libya
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -265,3 +265,24 @@ Searchable tags: Colombia, Exploration — Portugal and the sea routes to India,
 Mauritania's own way (mr-g08 — History, 2nd preparatory year (student book, Arabic)): Three units — (1) Mauritania and Bilad al-Sudan in the middle centuries and their ties to North Africa, (2) Europe's great transformations 15th–19th centuries, (3) the world from modern colonialism to the end of WWII. Mauritania's own medieval story (Islam's peaceful entry, the Almoravids born on its soil, the Sudan empires, the Sahara trade) is taught first and at greatest length. That way is stocked here as the way Mauritania teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 13 countries (Ethiopia, Palestine, Nigeria, United States, Ecuador, Kuwait, Indonesia, Montenegro, Pakistan, Suriname, Cambodia, Colombia, Mauritania).**
+
+
+## History expansion (2026-11-15) — Libya stocked
+
+**Book 3 — G12 Modern & Contemporary Arab World (student book, Humanities, Arabic)**
+- Title as printed: تاريخ الوطن العربي الحديث والمعاصر — للسنة الثالثة بمرحلة التعليم الثانوي (القسم الأدبي) (Modern and Contemporary History of the Arab World, Third Year of Secondary Education, Literary Section)
+- Grade: 12 Humanities (student/teacher: STUDENT)
+- Publisher: مركز المناهج التعليمية والبحوث التربوية، ليبيا (Centre for Educational Curricula and Educational Research, Libya); year 2019–2020 / 1440–1441 AH; no ISBN printed
+- PDF pages: 177 (cover/title page verified against the record title; grabbed via grab.py release URL — the tree path 404'd; full text layer read page by page)
+- Verdict: COMPLETE
+- Tally: 21 placements — 15 to existing lessons, 6 NEW LESSON NEEDED
+- Libya's own way: modern history is told as one Arab struggle — Ottoman decline, Europe's rise told fairly (Renaissance, revolutions, industry), colonial partition, then each Arab people's national struggle country by country, Libya's war against Italy among them, ending with Palestine as the open wound.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya part — Chapter 3: the geographical discoveries and their effect on colonialism — story beats: Portuguese and Spanish sailors round Africa and cross the Atlantic, and the sea routes turn discovery straight into colonies and empire (History expansion, 2026-11-15; original placement slug: modern-world/exploration-portugal-and-the-sea-routes) | Libya, *G12 Modern Arab World*, printed p. 60 |
+
+Libya's own way (Book 3 — G12 Modern & Contemporary Arab World (student book, Humanities, Arabic)): modern history is told as one Arab struggle — Ottoman decline, Europe's rise told fairly (Renaissance, revolutions, industry), colonial partition, then each Arab people's national struggle country by country, Libya's war against Italy among them, ending with Palestine as the open wound. That way is stocked here as the way Libya teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 14 countries (Ethiopia, Palestine, Nigeria, United States, Ecuador, Kuwait, Indonesia, Montenegro, Pakistan, Suriname, Cambodia, Colombia, Mauritania, Libya).**

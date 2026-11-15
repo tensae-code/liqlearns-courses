@@ -1,6 +1,6 @@
 # Sources — The First World War — Versailles and the results
 
-countries: Ethiopia, Indonesia, Montenegro, United Kingdom, Pakistan, Cambodia, Mauritania, South Sudan
+countries: Ethiopia, Indonesia, Montenegro, United Kingdom, Pakistan, Cambodia, Mauritania, South Sudan, Libya
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 135).
 
@@ -193,3 +193,24 @@ Mauritania's own way (mr-g08 — History, 2nd preparatory year (student book, Ar
 South Sudan's own way (Book 19 — S2 History Student's Book (student book, English)): World history (French Revolution to Cold War) is the frame, but the centre of the book is a source-based Unit 4 on South Sudan's own 20th century — condominium separation policy, Juba 1947, Anya-Nya, Addis Ababa and the SPLM/A, told with named southern actors like Clement Mboro, Joseph Lagu, Akuot Atem and John Garang. That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 8 countries (Ethiopia, Indonesia, Montenegro, United Kingdom, Pakistan, Cambodia, Mauritania, South Sudan).**
+
+
+## History expansion (2026-11-15) — Libya stocked
+
+**Book 3 — G12 Modern & Contemporary Arab World (student book, Humanities, Arabic)**
+- Title as printed: تاريخ الوطن العربي الحديث والمعاصر — للسنة الثالثة بمرحلة التعليم الثانوي (القسم الأدبي) (Modern and Contemporary History of the Arab World, Third Year of Secondary Education, Literary Section)
+- Grade: 12 Humanities (student/teacher: STUDENT)
+- Publisher: مركز المناهج التعليمية والبحوث التربوية، ليبيا (Centre for Educational Curricula and Educational Research, Libya); year 2019–2020 / 1440–1441 AH; no ISBN printed
+- PDF pages: 177 (cover/title page verified against the record title; grabbed via grab.py release URL — the tree path 404'd; full text layer read page by page)
+- Verdict: COMPLETE
+- Tally: 21 placements — 15 to existing lessons, 6 NEW LESSON NEEDED
+- Libya's own way: modern history is told as one Arab struggle — Ottoman decline, Europe's rise told fairly (Renaissance, revolutions, industry), colonial partition, then each Arab people's national struggle country by country, Libya's war against Italy among them, ending with Palestine as the open wound.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya part — Chapter 4: Sharif Hussein, Britain, and the Sykes-Picot agreement of 1916 — story beats: Britain promises Hussein an Arab kingdom for revolting against the Turks while secretly signing Sykes-Picot to divide the same lands with France (History expansion, 2026-11-15; original placement slug: modern-world/the-first-world-war-versailles-and-the-results) | Libya, *G12 Modern Arab World*, printed p. 99 |
+
+Libya's own way (Book 3 — G12 Modern & Contemporary Arab World (student book, Humanities, Arabic)): modern history is told as one Arab struggle — Ottoman decline, Europe's rise told fairly (Renaissance, revolutions, industry), colonial partition, then each Arab people's national struggle country by country, Libya's war against Italy among them, ending with Palestine as the open wound. That way is stocked here as the way Libya teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 9 countries (Ethiopia, Indonesia, Montenegro, United Kingdom, Pakistan, Cambodia, Mauritania, South Sudan, Libya).**

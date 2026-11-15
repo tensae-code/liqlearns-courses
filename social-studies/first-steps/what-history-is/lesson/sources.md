@@ -1,6 +1,6 @@
 # Sources — What history is
 
-countries: Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Cambodia, Palestine, Colombia, Mauritania, South Sudan
+countries: Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -820,3 +820,24 @@ South Sudan's own way (Book 13 — P7 Social Studies Pupil's Book (student book,
 South Sudan's own way (Book 17 — S1 History Student's Book (student book, English)): A national history built from long source extracts pupils must interrogate — Seligman on the Shilluk reth, Evans-Pritchard on Azande witchcraft, Holt on the Mahdiyya, Samuel Baker on Khartoum, and living testimony from former slaves Simon Deng and Ayak Piol Mabior (filed as plot summaries only). That way is stocked here as the way South Sudan teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 33 countries (Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Cambodia, Palestine, Colombia, Mauritania, South Sudan).**
+
+
+## History expansion (2026-11-15) — Libya stocked
+
+**Book 1 — G10 Ancient Arab World (student book, Arabic)**
+- Title as printed: تاريخ الوطن العربي في العصر القديم — للسنة الأولى بمرحلة التعليم الثانوي (History of the Arab World in the Ancient Era, First Year of Secondary Education)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: مركز المناهج التعليمية والبحوث التربوية، ليبيا (Centre for Educational Curricula and Educational Research, Libya); year 2019–2020 / 1440–1441 AH; no ISBN printed
+- PDF pages: 188 (cover/title page verified against the record title; grabbed via grab.py tree — the only Libya tree path that resolved; full text layer read page by page)
+- Verdict: COMPLETE
+- Tally: 26 placements — 17 to existing lessons, 9 NEW LESSON NEEDED
+- Libya's own way: the ancient world is told as one Arab-world story — method first (what a historian does), then prehistory, then each region in turn (Mesopotamia, the Levant, the Nile, North Africa with Libya's own Garamantes and Cyrenaica, Arabia), ending with foreign attempts to seize the region and the region's gifts back to civilisation; every chapter closes with a structured discussion (المناقشة).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya part — Part 1: the historian and history — story beats: human memory is too short for the past, so people invent writing; the historian gathers remains and documents, puts events in time order and cleans out errors to reach the truth (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Libya, *G10 Ancient Arab World*, printed p. 11 |
+
+Libya's own way (Book 1 — G10 Ancient Arab World (student book, Arabic)): the ancient world is told as one Arab-world story — method first (what a historian does), then prehistory, then each region in turn (Mesopotamia, the Levant, the Nile, North Africa with Libya's own Garamantes and Cyrenaica, Arabia), ending with foreign attempts to seize the region and the region's gifts back to civilisation; every chapter closes with a structured discussion (المناقشة). That way is stocked here as the way Libya teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 34 countries (Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya).**

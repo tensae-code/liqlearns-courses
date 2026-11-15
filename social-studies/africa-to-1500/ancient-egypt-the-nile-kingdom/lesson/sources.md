@@ -1,6 +1,6 @@
 # Sources — Ancient Egypt — the Nile Kingdom
 
-countries: Ethiopia, Angola, Poland, Turkey, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Bolivia, Iran, Cambodia, Palestine, Mauritania
+countries: Ethiopia, Angola, Poland, Turkey, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Bolivia, Iran, Cambodia, Palestine, Mauritania, Libya
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -391,3 +391,44 @@ Searchable tags: Palestine, Ancient Egypt — the Nile Kingdom, africa-to-1500, 
 Mauritania's own way (mr-g07 — History, 1st preparatory year (student book, Arabic)): A brand-new IPN course (2025) built as 13 self-contained lessons, each with objectives, documents/activities, a "we conclude" and a summary. It opens with what history is — Mauritanian daily life is full of historical tales, the introduction says — gives ancient Mauritania its own full lesson, then runs the Islamic dynasties in order, each later lesson framed as "rise – expansion – causes of fall". That way is stocked here as the way Mauritania teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 19 countries (Ethiopia, Angola, Poland, Turkey, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Bolivia, Iran, Cambodia, Palestine, Mauritania).**
+
+
+## History expansion (2026-11-15) — Libya stocked
+
+**Book 1 — G10 Ancient Arab World (student book, Arabic)**
+- Title as printed: تاريخ الوطن العربي في العصر القديم — للسنة الأولى بمرحلة التعليم الثانوي (History of the Arab World in the Ancient Era, First Year of Secondary Education)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: مركز المناهج التعليمية والبحوث التربوية، ليبيا (Centre for Educational Curricula and Educational Research, Libya); year 2019–2020 / 1440–1441 AH; no ISBN printed
+- PDF pages: 188 (cover/title page verified against the record title; grabbed via grab.py tree — the only Libya tree path that resolved; full text layer read page by page)
+- Verdict: COMPLETE
+- Tally: 26 placements — 17 to existing lessons, 9 NEW LESSON NEEDED
+- Libya's own way: the ancient world is told as one Arab-world story — method first (what a historian does), then prehistory, then each region in turn (Mesopotamia, the Levant, the Nile, North Africa with Libya's own Garamantes and Cyrenaica, Arabia), ending with foreign attempts to seize the region and the region's gifts back to civilisation; every chapter closes with a structured discussion (المناقشة).
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya part — Unit (Nile Valley): the formation of the unified state — story beats: Narmer (Mena) joins Upper and Lower Egypt into one kingdom, and the Nile Valley becomes a single state (History expansion, 2026-11-15; original placement slug: africa-to-1500/ancient-egypt-the-nile-kingdom) | Libya, *G10 Ancient Arab World*, printed p. 81 |
+| Libya part — Unit (Nile Valley): the Old Kingdom age — story beats: Khufu, Khafre and Menkaure raise the Giza pyramids and the pyramid age shows what a united Egypt can organise (History expansion, 2026-11-15; original placement slug: africa-to-1500/ancient-egypt-the-nile-kingdom) | Libya, *G10 Ancient Arab World*, printed p. 82 |
+| Libya part — Unit (Nile Valley): the Middle Kingdom, the age of economic prosperity — story beats: after collapse, reunified kings drain the Faiyum, extend trade and bring a second golden age of prosperity (History expansion, 2026-11-15; original placement slug: africa-to-1500/ancient-egypt-the-nile-kingdom) | Libya, *G10 Ancient Arab World*, printed p. 84 |
+| Libya part — Unit (Nile Valley): the New Kingdom, the age of empire — story beats: warrior pharaohs drive out the Hyksos and carry Egypt's borders to the Euphrates and into Nubia, making Egypt an empire (History expansion, 2026-11-15; original placement slug: africa-to-1500/ancient-egypt-the-nile-kingdom) | Libya, *G10 Ancient Arab World*, printed p. 86 |
+| Libya part — Unit (Nile Valley): the late periods — story beats: Libyan, Kushite, Persian, Greek and Roman rulers take Egypt in turn, and the pharaonic story fades under foreign crowns (History expansion, 2026-11-15; original placement slug: africa-to-1500/ancient-egypt-the-nile-kingdom) | Libya, *G10 Ancient Arab World*, printed p. 88 |
+
+Libya's own way (Book 1 — G10 Ancient Arab World (student book, Arabic)): the ancient world is told as one Arab-world story — method first (what a historian does), then prehistory, then each region in turn (Mesopotamia, the Levant, the Nile, North Africa with Libya's own Garamantes and Cyrenaica, Arabia), ending with foreign attempts to seize the region and the region's gifts back to civilisation; every chapter closes with a structured discussion (المناقشة). That way is stocked here as the way Libya teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 4 — G7 History of Libya and the Ancient World (student book, Arabic)**
+- Title as printed: تاريخ ليبيا والعالم القديم (History of Libya and the Ancient World)
+- Grade: Grade 7 (student book)
+- Publisher: Centre for Educational Curricula and Educational Research, Libya; year 2019/2020 (1440/1441 AH); ISBN: no ISBN printed
+- PDF pages: 124 (printed folios match PDF page numbers; read as 4-up page sheets — the scanned book has no usable text layer and OCR was not viable under system load; all five chapters read, exercise spreads skimmed)
+- Verdict: COMPLETE
+- Tally: 25 placements — 9 to existing lessons, 16 NEW LESSON NEEDED
+- Libya's own way: Libya's ancient story is told inside the Arab world's: the ancient Libyans, their 30-letter script and the Garamantes get their own full lessons, and every visiting power — Phoenician, Greek, Roman, Vandal, Byzantine — is judged by what it did in Libya.
+- Placements at liqlearns-courses-work/expansion-history-2026-11-15/libya-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Libya part — Egypt and its civilisation — story beats: 42 districts gather into two kingdoms and Narmer unites them about 3245 BCE; 30 dynasties follow — Khufu's pyramid, Abu Simbel, Karnak, Akhenaten's one god, and the mummies prepared for the next life (History expansion, 2026-11-15; original placement slug: africa-to-1500/ancient-egypt-the-nile-kingdom) | Libya, *G7 History of Libya and the Ancient World*, printed p. 51 |
+
+Libya's own way (Book 4 — G7 History of Libya and the Ancient World (student book, Arabic)): Libya's ancient story is told inside the Arab world's: the ancient Libyans, their 30-letter script and the Garamantes get their own full lessons, and every visiting power — Phoenician, Greek, Roman, Vandal, Byzantine — is judged by what it did in Libya. That way is stocked here as the way Libya teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 20 countries (Ethiopia, Angola, Poland, Turkey, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Montenegro, Dominican Republic, Egypt, Pakistan, Syria, Bolivia, Iran, Cambodia, Palestine, Mauritania, Libya).**
