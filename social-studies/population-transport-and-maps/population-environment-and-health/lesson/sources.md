@@ -1,6 +1,6 @@
 # Sources — Population, environment and health
 
-countries: Ethiopia, Fiji
+countries: Ethiopia, Fiji, Nepal
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -8,14 +8,20 @@ countries: Ethiopia, Fiji
 
 **Book 3:** *An Introduction to Human Geography for Year 11 and Year 12 Students (record title: "Year 11 and Year 12 Geography")* (student book, English) — Fiji, Ministry of Education, Fiji; year 2015, First Edition (written and compiled by Maciu Rika and Elina Vosaicake); ISBN no ISBN printed. Title as printed: An Introduction to Human Geography for Year 11 and Year 12 Students (record title: "Year 11 and Year 12 Geography"). Grade: Years 11–12 (student/teacher: STUDENT). PDF pages: 92 (cover/title page verified against the record title). Verdict: COMPLETE. Acquisition note: read from the books.json record's own Wayback source_url (ministry original) after the grab.py GitHub API route failed as in Book 1. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
 
+**Book 4:** *Samajik Adhyayan Kaksha 10 (Social Studies Grade 10)* (student book, Nepali) — Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; year 2079 BS (imprint sequence); ISBN no ISBN legibly printed. Title as printed: Samajik Adhyayan Kaksha 10 (Social Studies Grade 10). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 316 (cover/title page verified against the record title — Devanagari title page matches; the record's English title "Social Studies Grade 10" is this Nepali-medium book). Verdict: COMPLETE. Non-Geography parts named (not placed): Unit 1 We and our society (printed pp. 1–20); Unit 2 Lessons 3–4 federalism in Nepal, national pride (pp. 30–37); Unit 3 Our social values and beliefs (pp. 38–70); Unit 4 Social problems and solutions (pp. 71–94); Unit 5 Civic consciousness (pp. 95–125, civics); Unit 7 Our Past (pp. 173–213, History); Unit 8 Lessons 3–9 employment services, financial education/instruments, cooperatives, savings, revenue, periodic plans (pp. 225–254, economics/civics); Unit 9 International relations and cooperation (pp. 255–280); Unit 10 Lesson 6 Community health (p. 305). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nepal-placements.md.
+
+**Book 5:** *Shikshak Nirdeshika Samajik Adhyayan Kaksha 10 (Teacher's Guide Social Studies Grade 10)* (teacher guide, Nepali) — Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; year prepared against the 2078 basic-education curriculum (imprint); ISBN no ISBN printed. Title as printed: Shikshak Nirdeshika Samajik Adhyayan Kaksha 10 (Teacher's Guide Social Studies Grade 10). Grade: Grade 10 (student/teacher: TEACHER). PDF pages: 301 (cover/title page verified against the record title — Devanagari title page matches; page references below are the guide's PDF pages). Verdict: COMPLETE. Non-Geography parts named (not placed): Units 1–5, 7, 9 as in the student book (society, development/federalism framing except HDI/sustainable development, values, social problems, civics, History, international relations), Unit 8 Lessons 3–9 (financial education/instruments, cooperatives, savings, revenue, periodic plans), population Unit Lesson 6 Community health. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nepal-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The burden, counted | G12 student #52, printed pp. 115–122 |
 | Sub lesson 2 — Two models of defence | G12 student #52, printed pp. 115–122 |
 | Fiji part — Unit 3 Discussion: the impact of population on the environment | Fiji, *Fiji Year 9 Social Science*, Unit 3 Discussion: the impact of population on the environment — printed p. 150 |
 | Fiji part — 1.1.5 Impacts of Population Change | Fiji, *Fiji Years 11–12 Geography*, 1.1.5 Impacts of Population Change — printed p. 18 |
+| Nepal part — Unit 10 Lesson 5: Interrelation of population and environment | Nepal, *Nepal Grade 10 np-g10*, Unit 10 Lesson 5: Interrelation of population and environment — printed p. 301 |
+| Nepal part — Population Unit Lesson 5: Interrelation of population and environment (teacher guide — evidence) | Nepal, *Nepal Grade 10 TG np-g10tg* (teacher guide), Population Unit Lesson 5: Interrelation of population and environment — TG p. 269 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Fiji).**
+**Acceptance count: taught in 3 countries (Ethiopia, Fiji, Nepal).**
 
 Figure honesty carried from the placements: the book's Figure 4.5 caption prints 'Diseas Transmission' — taught corrected as 'disease transmission' and named here only. The disease-burden figure is taught in the book's own hedged wording ('an estimated 174–234 million-scale share, as the book reports it') — the placements themselves report it in that hedged form, and this lesson does not sharpen it into a harder number.
 
@@ -24,3 +30,7 @@ Searchable tags: environmental health, clinical model, public health model, zoon
 Fiji's own way (Fiji Year 9 Social Science): Secondary geography opens with a full map-skills chapter — grid references, contours and cross-sections practised on Fiji maps — before environment use and conservation, including Pacific methods (shifting cultivation, rotational grazing, appropriate fishing methods).
 
 Fiji's own way (Fiji Years 11–12 Geography): Senior geography splits into Human and Physical volumes; the human volume is organised as four issue-chapters (population/settlement, tourism, agriculture, marine resources), each run the same way — nature, problems, ways of minimising, contemporary issues, future — with Pacific/Fiji theme-country cases.
+
+Nepal's own way (Nepal Grade 10 np-g10): Grade 10 climate is taught by world climate types and the three heat zones (tropical, temperate, cold), then continent studies of North America, South America and Africa, earthquakes, map work and modern map technology (GIS); population closes the book — Nepal's size/growth, structure, distribution, family planning and the population–environment interrelation.
+
+Nepal's own way (Nepal Grade 10 TG np-g10tg) (teacher guide — evidence): The guide teaches the Grade 10 course of np-g10 lesson for lesson, adding map- and chart-based activities (world climate maps, heat-zone maps, continent maps comparing life and economic activity with Nepal) and earthquake-preparedness practice; placements mirror the student book with guide page references. That evidence is stocked here as the way Nepal teaches this thing; it is cited as evidence only — Nepal is counted in this lesson through its student book(s).

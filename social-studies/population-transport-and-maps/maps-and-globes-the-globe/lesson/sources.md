@@ -1,6 +1,6 @@
 # Sources — Maps and globes — the globe
 
-countries: Ethiopia, Sweden, Dominican Republic, Eritrea, India, Cambodia, Pakistan, Moldova
+countries: Ethiopia, Sweden, Dominican Republic, Eritrea, India, Cambodia, Pakistan, Moldova, Nepal
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 2, placements 27–43).
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Sweden, Dominican Republic, Eritrea, India, Cambodia, Pakis
 
 **Book 9:** *Geografie — Manual pentru clasa a V-a* (student book, Romanian) — Editura Lumina, Chișinău; year 2015; ISBN printed (number not fully legible in the scan). Title as printed: Geografie — Manual pentru clasa a V-a. Grade: 5 (student/teacher: STUDENT). PDF pages: 128 (cover/title page verified against the record title; 16,733,891 bytes = record size exactly). Verdict: COMPLETE. 12 records / 6 distinct books (TSV + books.json duplicates of the same 6 manuals) — read from the recorded ministry source URLs (eduresurse.gov.md / ctice.md) after the GitHub API route disconnected twice; byte size and page count verified against each record before reading; full text-layer page-by-page reads, as the placements file header records. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/moldova-placements.md.
 
+**Book 10:** *My Social Studies and Creative Arts Grade 5 (English Version)* (student book, English) — Government of Nepal, Ministry of Education, Curriculum Development Centre; year First edition 2068 BS, revised edition 2074 BS; ISBN 978-99933-717-8-6 as printed — the same ISBN printed in the Grade 2 book, a publisher copy error. Title as printed: My Social Studies and Creative Arts Grade 5 (English Version). Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 156 (cover/title page verified against the record title). Verdict: COMPLETE. Non-Geography parts named (not placed): Unit 1 Lessons 2–5 dealings with neighbours, community help, equal treatment (printed pp. 4–11); Unit 2 Lessons 1, 3–5 traditions, festivals, pride, good people (pp. 12–21); Unit 3 Social Problems and their Solutions (pp. 22–33); Unit 4 Civics Sense (pp. 34–47, civics); Unit 6 Our Past (pp. 66–79, History); Unit 7 Lessons 2 and 4 School property, Use of national products (pp. 82, 86); Creative Arts (pp. 91–155). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nepal-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson | Ethiopia, *Social Studies Student Textbook, Grade 7* (Amhara Bureau), printed p. 45 |
@@ -31,8 +33,9 @@ countries: Ethiopia, Sweden, Dominican Republic, Eritrea, India, Cambodia, Pakis
 | Cambodia part — Ch.3 L5 §2 ភូគោល (the globe) | Cambodia, *Cambodia Grade 6 Social Studies*, Ch.3 L5 §2 ភូគោល (the globe) — printed p. 85 |
 | Pakistan part — Globe | Pakistan, *Pakistan Grade 4 SS4*, Globe — printed p. 62 |
 | Moldova part — §3 Representing Earth's surface: the geographic globe and map (scale, conventional signs) | Moldova, *Moldova Grade 5 G5 Geography*, §3 Representing Earth's surface: the geographic globe and map (scale, conventional signs) — printed p. 12 |
+| Nepal part — Unit 5 Lesson 7: Use of the Globe and Maps | Nepal, *Nepal Grade 5 np-g5*, Unit 5 Lesson 7: Use of the Globe and Maps — printed p. 60 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Sweden, Dominican Republic, Eritrea, India, Cambodia, Pakistan, Moldova). Sweden's teacher guide is named here as evidence only, counted nowhere — Sweden counts through its student training material.**
+**Acceptance count: taught in 9 countries (Ethiopia, Sweden, Dominican Republic, Eritrea, India, Cambodia, Pakistan, Moldova, Nepal). Sweden's teacher guide is named here as evidence only, counted nowhere — Sweden counts through its student training material.**
 
 Pairing warning (honesty): Book 2 is an Addis Ababa bureau guide in English; Book 1 is an Amhara bureau student book in Amharic. They are NOT edition-matched companions — the guide's unit order differs and whole student topics (maps, globes, GPS) have no guide counterpart, so no guide coverage is claimed for them. Guide material is used only as labelled teacher evidence.
 
@@ -49,3 +52,5 @@ Cambodia's own way (Cambodia Grade 6 Social Studies): the primary Social Studies
 Pakistan's own way (Pakistan Grade 4 SS4): one combined Social Studies book in Urdu where the Geography chapter (Ch.5, printed pp. 61–93) works entirely through Pakistan's own map, landforms, weather and census, with BOLTS as the map-elements mnemonic and "I have learnt!" / "Work for me to do" boxes closing every topic.
 
 Moldova's own way (Moldova Grade 5 G5 Geography): first Geography year built as a single Earth-systems arc — planet, envelopes (lithosphere/atmosphere/hydrosphere/biosphere), human society, then a closing "Protecting the Earth" chapter; every paragraph opens with "you will be able to" outcomes and chapters close with evaluation tests, plus two practical applications (map work; a week-long weather calendar).
+
+Nepal's own way (Nepal Grade 5 np-g5): Grade 5 "Our Earth" is a first full geography of Nepal — physical features, climate and lifestyle, natural vegetation, soils, map-drawing with symbols, globe and maps, and the wider South Asian neighbours; economic geography is district-based (Sankhuwasabha's occupations mapped place by place, from yak and sheep rearing and herb collecting in the high Himalaya to paddy in the low valleys).

@@ -5902,3 +5902,130 @@ in 1 country (Honduras), 8 questions each; each stands
 on Honduras student book(s), with the matching teacher
 guide(s) cited as evidence only.
 Geography lessons: 2493 → 2523.
+
+
+## Nepal — Geography expansion (merged 2026-11-15)
+255 placement lines stocked from Nepal's 17 records /
+17 distinct books — the combined Social Studies student
+books and teacher guides for Grades 1–12 (Government of
+Nepal, Ministry of Education / Ministry of Education,
+Science and Technology, Curriculum Development Centre,
+Sanothimi, Bhaktapur), each combining Geography with
+History, Civics, values/life-skills and (Grades 1–5)
+Creative Arts, with the Geography parts placed and the
+other parts named in each book entry only. Read via
+raw.githubusercontent.com with the repo token after
+grab.py (GitHub API) failed repeatedly on 2026-11-14;
+verified by pdfinfo page count and cover render/title
+page for every book (Nepal records carry no
+size_bytes). The placements file's per-book tallies sum
+to 255 and agree with the line-by-line count — no
+discrepancy. Book 15 (np-g11) is RECORD-ONLY — WRONG
+FILE, 0 placements: the file behind the record is the
+'Nagarik App (Sanchalan tatha Byawasthapan) Nirdeshika,
+2082' — the Citizen App (Operation and Management)
+Directive, 2082 BS, a Ministry of Communication and
+Information Technology administrative directive, not a
+textbook; it is carried as filed, and the real Grade 11
+Social Studies and Life Skills Education (English
+version) book is NOT in the library — a library debt.
+Book 17 (np-g8) is the old kingdom-era standalone
+Geography volume (2028/29 BS, His Majesty's Government,
+Janak Shiksha Samagri Kendra), a genuine Nepal Grade 8
+geography textbook placed as such, but NOT the
+current-curriculum Grade 8 social studies book (record
+mismatch carried in its book entries). Nepal's own way:
+Geography begins as 'Our Earth' at home scale (the land
+around home and school, sketch maps), grows through the
+district and a first full geography of Nepal (three
+ecological regions — Himalayan, Hilly, Terai — physical
+features, climate, vegetation, soils,
+rivers/glaciers/lakes), widens to neighbours and
+continents, and closes federally and applied (the seven
+provinces, inter-provincial relations, disasters, GIS,
+urbanisation and migration); the old Grade 8 volume
+teaches Nepal through its 14 zones (anchal). The
+student books count toward acceptance; the teacher
+guides (Books 7, 10, 11, 14) are cited as the evidence
+they are, outside acceptance counts. Stocked into
+standing lessons (147 placements across 63 lessons),
+all at the slug the placements file names — no
+remappings; 4 of those standing lessons take only Nepal
+teacher-guide placements, so Nepal is named there as
+teacher-guide evidence only, count unchanged. 44 NEW
+lessons built (108 placements, all flagged NEW) —
+**Earth and Space**: The Earths Heat Zones (printed p.
+18); **The Land and Air**: Africa Continent Geography
+(printed p. 159; TG p. 128), Asia Geography And Natural
+Environment (printed p. 141; printed p. 146; printed p.
+57; printed p. 59; printed p. 61; printed p. 64;
+printed p. 71; printed p. 79), Australia Geography And
+Natural Environment (printed p. 157; printed p. 160),
+Climate And Lifestyle Of Nepal (printed p. 50; printed
+p. 149; printed p. 135; printed p. 137; TG p. 133; TG
+p. 133; printed p. 126; printed p. 31; printed p. 33),
+Earth Our Common Home (printed p. 118), Europe
+Geography And Natural Environment (printed p. 150;
+printed p. 154), Inter Provincial Relations In Federal
+Nepal (printed p. 125), Natural Vegetation Of Nepal
+(printed p. 52; printed p. 156; printed p. 129; printed
+p. 35), Nepal Location Size And Boundaries (printed p.
+23), Nepal's Neighbours India And China (printed p. 62;
+printed p. 64; TG Unit 7), Nepal's Seven Provinces
+Federal Geography (printed p. 140; TG p. 133; printed
+p. 102), Nepal's Three Regions Mountain Hill And Terai
+(printed p. 36), Nepal's Wider Neighbours Of South Asia
+(printed p. 62; printed p. 64), Nepal's Zones Regional
+Geography Of The Anchals (printed p. 40; printed p. 46;
+printed p. 49; printed p. 51), North America Continent
+Geography (printed p. 151; TG p. 128), Our District
+Nepal's Local Geography (printed p. 54; printed p.
+124), Physical Features Of Nepal (printed p. 48; TG
+printed p. 137 (unit start); printed p. 146; printed p.
+122; printed p. 24), Rivers Glaciers And Lakes Of Nepal
+(printed p. 153; printed p. 27; printed p. 30), Soils
+Of Nepal (printed p. 54), South America Continent
+Geography (printed p. 155; TG p. 128), The Land Around
+My Home And School (printed p. 36; printed p. 38;
+printed p. 28; printed p. 38); **Population, Transport
+and Maps**: Effects Of Migration In Nepal (printed p.
+295), Great Cities And Ports Of Asia (printed p. 81),
+Houses Shaped By Place Climate And Materials (printed
+p. 105), Urbanisation In Nepal (printed p. 269),
+Village And Town Two Kinds Of Settlement (printed p.
+30; printed p. 274; printed p. 108); **People and
+Resources**: Development Infrastructures Roads Water
+And Schools (printed p. 17; printed p. 8; TG p. 4;
+printed p. 21), Economic Activities Of Our District
+(printed p. 80; TG printed p. 117 (unit start)),
+Economic Features Of Nepal's Provinces (printed p.
+118), Energy And Development In Nepal (printed p. 215;
+TG p. 210 (unit start approx.)), Environment And Man
+How The Land Shapes Life (printed p. 93; printed p.
+96), How Environment Drives Economic Development
+(printed p. 98; printed p. 100; printed p. 101),
+National Production Of Nepal (printed p. 84), Natural
+Resources Of Asia (printed p. 73), Nepal's Economy And
+Development (printed p. 298), Our Production And Income
+Generating Work (printed p. 98), Poverty In Nepal And
+Breaking The Cycle (printed p. 331); **Culture and
+Work**: Agriculture And Industry Nepal's Economic
+Backbone (printed p. 116; printed p. 107; printed p.
+113; TG p. 116; TG p. 116), Money And Banking Monetary
+Transactions (TG Unit 6 (20 periods); TG Unit 6),
+Things Made In The City Factory Goods (printed p. 48;
+printed p. 58), Trade Diversification And Marketing In
+Nepal (printed p. 211), Traditional And Modern Farming
+Systems Of Nepal (printed p. 199); **Global Issues**:
+Identifying Local Disasters And Staying Safe (TG
+printed p. 137 (unit start); printed p. 169; printed p.
+147; TG p. 133; TG Unit 7; printed p. 163; printed p.
+129; printed p. 136) — 43 of the new lessons are taught
+in 1 country (Nepal), 8 questions each, each standing
+on Nepal student book(s) with any matching teacher
+guide(s) cited as evidence only; 1 new lesson (Culture
+and Work: Money and Banking Monetary Transactions)
+stands on teacher-guide evidence only (Nepal Grade 8
+TG; acceptance count 0 countries, Nepal named, counted
+nowhere), 8 questions.
+Geography lessons: 2523 → 2567.

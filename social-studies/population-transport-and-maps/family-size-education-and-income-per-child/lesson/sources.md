@@ -1,10 +1,14 @@
 # Sources — Family size — education and income per child
 
-countries: Ethiopia
+countries: Ethiopia, Nepal
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
 **Book 2:** *Geography, Teacher Guide, Grade 11* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, Hawassa University. Writers: Ermias Debie (PhD) and Mehretie Belay (PhD); Content Editor: Professor Aklilu Dalelo. ISBN 978-99990-0-054-3. Companion to the Grade 11 Student Textbook (ISBN 978-99990-0-050-5), same GEQIP-E programme. Printed page = PDF page − 4 for the guide body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-teacher-placements.md
+
+**Book 3:** *Samajik Adhyayan Kaksha 10 (Social Studies Grade 10)* (student book, Nepali) — Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; year 2079 BS (imprint sequence); ISBN no ISBN legibly printed. Title as printed: Samajik Adhyayan Kaksha 10 (Social Studies Grade 10). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 316 (cover/title page verified against the record title — Devanagari title page matches; the record's English title "Social Studies Grade 10" is this Nepali-medium book). Verdict: COMPLETE. Non-Geography parts named (not placed): Unit 1 We and our society (printed pp. 1–20); Unit 2 Lessons 3–4 federalism in Nepal, national pride (pp. 30–37); Unit 3 Our social values and beliefs (pp. 38–70); Unit 4 Social problems and solutions (pp. 71–94); Unit 5 Civic consciousness (pp. 95–125, civics); Unit 7 Our Past (pp. 173–213, History); Unit 8 Lessons 3–9 employment services, financial education/instruments, cooperatives, savings, revenue, periodic plans (pp. 225–254, economics/civics); Unit 9 International relations and cooperation (pp. 255–280); Unit 10 Lesson 6 Community health (p. 305). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nepal-placements.md.
+
+**Book 4:** *Shikshak Nirdeshika Samajik Adhyayan Kaksha 10 (Teacher's Guide Social Studies Grade 10)* (teacher guide, Nepali) — Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; year prepared against the 2078 basic-education curriculum (imprint); ISBN no ISBN printed. Title as printed: Shikshak Nirdeshika Samajik Adhyayan Kaksha 10 (Teacher's Guide Social Studies Grade 10). Grade: Grade 10 (student/teacher: TEACHER). PDF pages: 301 (cover/title page verified against the record title — Devanagari title page matches; page references below are the guide's PDF pages). Verdict: COMPLETE. Non-Geography parts named (not placed): Units 1–5, 7, 9 as in the student book (society, development/federalism framing except HDI/sustainable development, values, social problems, civics, History, international relations), Unit 8 Lessons 3–9 (financial education/instruments, cooperatives, savings, revenue, periodic plans), population Unit Lesson 6 Community health. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nepal-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -12,9 +16,15 @@ countries: Ethiopia
 | Sub lesson 2 — Sizes around the world | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 7, printed pp. 188–191 |
 | Sub lesson 3 — What size does to a child | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 7, printed pp. 188–191 |
 | Teaching sequence and answer keys (teacher guide — evidence) | Ethiopia, *Geography, Teacher Guide, Grade 11*, Unit 7, guide printed pp. 180–214 |
+| Nepal part — Unit 10 Lesson 4: Family planning and quality of life | Nepal, *Nepal Grade 10 np-g10*, Unit 10 Lesson 4: Family planning and quality of life — printed p. 296 |
+| Nepal part — Population Unit Lesson 4: Family planning and quality of life (teacher guide — evidence) | Nepal, *Nepal Grade 10 TG np-g10tg* (teacher guide), Population Unit Lesson 4: Family planning and quality of life — TG p. 269 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Nepal).**
 
 No book error is flagged for this lesson's pages in the placements. The student book's body numbering for Unit Two drifts from its own contents (regions printed as 2.4, factors as 2.5, local classification as 2.6, where the contents and the teacher guide's contents agree on 2.3, 2.4 and 2.5); this lesson follows the contents numbering and teaches no misprint.
 
 Searchable tags: family household types, family size, education investment, ethiopia, social studies, population transport and maps
+
+Nepal's own way (Nepal Grade 10 np-g10): Grade 10 climate is taught by world climate types and the three heat zones (tropical, temperate, cold), then continent studies of North America, South America and Africa, earthquakes, map work and modern map technology (GIS); population closes the book — Nepal's size/growth, structure, distribution, family planning and the population–environment interrelation.
+
+Nepal's own way (Nepal Grade 10 TG np-g10tg) (teacher guide — evidence): The guide teaches the Grade 10 course of np-g10 lesson for lesson, adding map- and chart-based activities (world climate maps, heat-zone maps, continent maps comparing life and economic activity with Nepal) and earthquake-preparedness practice; placements mirror the student book with guide page references. That evidence is stocked here as the way Nepal teaches this thing; it is cited as evidence only — Nepal is counted in this lesson through its student book(s).

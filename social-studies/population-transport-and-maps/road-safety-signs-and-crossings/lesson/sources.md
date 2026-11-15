@@ -1,6 +1,6 @@
 # Sources — Road safety — signs and crossings
 
-countries: Ethiopia, Turkey, Ecuador, Palestine, Zimbabwe, Syria, Venezuela, Yemen
+countries: Ethiopia, Turkey, Ecuador, Palestine, Zimbabwe, Syria, Venezuela, Yemen, Nepal
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 2, placements 27–43).
 
@@ -24,6 +24,10 @@ countries: Ethiopia, Turkey, Ecuador, Palestine, Zimbabwe, Syria, Venezuela, Yem
 
 **Book 11:** *التربية الاجتماعية للصف الرابع من مرحلة التعليم الأساسي (Social Education for Grade 4 of Basic Education)* (student book, Arabic) — Republic of Yemen, Ministry of Education; year 1438 AH / 2017 CE; ISBN no ISBN printed. Title as printed: التربية الاجتماعية للصف الرابع من مرحلة التعليم الأساسي (Social Education for Grade 4 of Basic Education). Grade: 4 (student/teacher: STUDENT). PDF pages: 95 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the Wayback Machine capture of its own recorded Yemen MoE source URL (the source_url in its books.json record) after the GitHub routes (grab.py release + tree) failed from the reader's host — the same ministry file the repo copies were taken from; cover/title page verified visually against the record title. TSV + books.json records for the same grade are the same book, placed once. Non-Geography parts named, not placed: Unit 3 Institutions and Services — education, health, media and social welfare lessons (civics, printed pp. 51–68; its traffic and water lessons are placed below); Unit 4 Religious and National Occasions (history/civics, printed pp. 71–80); Unit 5 Immortal Personalities — Amr ibn Ma'dikarib al-Zubaydi, Dhu al-Kala' al-Himyari, Arwa bint Ahmad al-Sulayhi (history, printed pp. 82–89). Read note: this scan uses a legacy Arabic font encoding, so the structure was read from rendered contents pages and lesson pages, not the text layer. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/yemen-placements.md.
 
+**Book 12:** *My Social Studies and Creative Arts Grade 4 (English edition)* (student book, English) — Government of Nepal, Ministry of Education, Curriculum Development Centre, Sanothimi, Bhaktapur; year First edition (Nepali) 2062 BS, English edition 2066 BS; ISBN no ISBN printed. Title as printed: My Social Studies and Creative Arts Grade 4 (English edition). Grade: Grade 4 (student/teacher: STUDENT). PDF pages: 136 (cover/title page verified against the record title). Verdict: COMPLETE. Non-Geography parts named (not placed): Unit 1 Me, My Family and My Neighbourhood (printed pp. 2–9); Unit 2 Lessons 1, 3–6 seniors, rituals/festivals, birthplace, ideal people (pp. 10–21); Unit 3 Social Problems and Solutions (pp. 22–35); Unit 4 Civic Awareness Lessons 1–2, 7–9 rights, child participation, VDC, municipality, equal treatment (pp. 36–39, 48–53, civics); Unit 6 Our History (pp. 66–75, History); Creative Arts (pp. 76–135). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nepal-placements.md.
+
+**Book 13:** *Samajik Shiksha ra Manavmulya Shiksha Kaksha 6 (Social Studies and Human Value Education Grade 6)* (student book, Nepali) — Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; year 2078 BS; ISBN 978-9937-601-56-6. Title as printed: Samajik Shiksha ra Manavmulya Shiksha Kaksha 6 (Social Studies and Human Value Education Grade 6). Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 214 (cover/title page verified against the record title — Devanagari title page matches). Verdict: COMPLETE. Non-Geography parts named (not placed): Unit 1 We and our society except development infrastructures (printed pp. 2–16); Unit 2 Our human values and beliefs (pp. 20–49); Unit 3 Civic consciousness except traffic rules (pp. 50–69, civics); Unit 4 Social problems and solutions (pp. 73–87); Unit 5 Our Past (pp. 88–111, History); Unit 8 Lessons 3+ population management detail beyond demography/census (pp. 180–190); Unit 9 International relations, contemporary events and information technology (pp. 191–206). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nepal-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson | Ethiopia, *Social Studies Student Textbook, Grade 7* (Amhara Bureau), printed p. 43 |
@@ -37,8 +41,10 @@ countries: Ethiopia, Turkey, Ecuador, Palestine, Zimbabwe, Syria, Venezuela, Yem
 | Syria part — My safety on the road (Unit 3: My Safety) | Syria, *Syria Grade 3 Social Studies G3*, My safety on the road (Unit 3: My Safety) — printed p. 37 |
 | Venezuela part — En las ciudades hay peligros con ruedas | Venezuela, *Venezuela Grade 1 G1 CS Viva Venezuela*, En las ciudades hay peligros con ruedas — printed p. 68 |
 | Yemen part — Unit 3 Lesson 3 Traffic | Yemen, *Yemen Grade 4 G4 Social Studies*, Unit 3 Lesson 3 Traffic — printed p. 59 |
+| Nepal part — Unit 4 Lesson 6: Traffic Rules | Nepal, *Nepal Grade 4 np-g4*, Unit 4 Lesson 6: Traffic Rules — printed p. 46 |
+| Nepal part — Unit 3 Lesson 8: Let's follow the traffic rules | Nepal, *Nepal Grade 6 np-g6*, Unit 3 Lesson 8: Let's follow the traffic rules — printed p. 70 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Turkey, Ecuador, Palestine, Syria, Venezuela, Yemen). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 8 countries (Ethiopia, Turkey, Ecuador, Palestine, Syria, Venezuela, Yemen, Nepal). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
 
 Turkey's own way: Hayat Bilgisi (Life Studies) carries almost no Geography in this semester book — self/school, health/safety and family/society — except road signs and the two end-of-book maps; the Geography parts only are placed. That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
@@ -63,3 +69,7 @@ Syria's own way (Syria Grade 3 Social Studies G3): the Grade 3 book widens in ri
 Venezuela's own way (Venezuela Grade 1 G1 CS Viva Venezuela): critical, question-first pedagogy ("pedagogía crítica") — spatial notions (up/down, north/south/east/west, near/far, yesterday/today) are built from the child's own home, classroom and community before any map appears.
 
 Yemen's own way (Yemen Grade 4 G4 Social Studies): Grade 4 turns from the child's surroundings to the homeland itself — one unit on Yemen's land and people, one on its resources sector by sector (farm, animal, sea, industry, trade/tourism), before services, national occasions and historical figures.
+
+Nepal's own way (Nepal Grade 4 np-g4): Grade 4 "Our Earth" moves to the district (Kanchanpur read on a map), the origin and structure of the Earth, and Nepal's two neighbours India and China; resources and traffic rules sit inside the Civic Awareness unit.
+
+Nepal's own way (Nepal Grade 6 np-g6): Grade 6 has a full "Hamro Prithvi" (Our Earth) unit — Earth's introduction, latitude/longitude, outer-layer structure, then Nepal itself: geographical description, climate, rivers/glaciers/lakes, natural vegetation, natural resources and map study, closing with disaster management; a population unit follows (demography, the census). Economic activities are organised by region and resource: agriculture and industry, services and trade, tourism, and economic resources (land and water; forest, minerals and people).

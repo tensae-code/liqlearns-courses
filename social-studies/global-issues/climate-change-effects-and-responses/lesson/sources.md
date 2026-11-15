@@ -1,6 +1,6 @@
 # Sources — Climate Change — Effects and Responses
 
-countries: Ethiopia, Costa Rica, Ecuador, Bangladesh, Egypt, Samoa, Colombia, North Macedonia, Rwanda, Fiji, Papua New Guinea, Iran, Moldova
+countries: Ethiopia, Costa Rica, Ecuador, Bangladesh, Egypt, Samoa, Colombia, North Macedonia, Rwanda, Fiji, Papua New Guinea, Iran, Moldova, Nepal
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (placement 142).
 
@@ -34,6 +34,8 @@ countries: Ethiopia, Costa Rica, Ecuador, Bangladesh, Egypt, Samoa, Colombia, No
 
 **Book 16:** *Geografie — Manual pentru clasa a VI-a* (student book, Romanian) — Litera; year 2023 (ministerial approval order 446 of 12.05.2023); ISBN 978-9975-74-966-4. Title as printed: Geografie — Manual pentru clasa a VI-a. Grade: 6 (student/teacher: STUDENT). PDF pages: 130 (cover verified against the record title; 18,663,404 bytes = record size exactly). Verdict: COMPLETE. 12 records / 6 distinct books (TSV + books.json duplicates of the same 6 manuals) — read from the recorded ministry source URLs (eduresurse.gov.md / ctice.md) after the GitHub API route disconnected twice; byte size and page count verified against each record before reading; full text-layer page-by-page reads, as the placements file header records. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/moldova-placements.md.
 
+**Book 17:** *Shikshak Nirdeshika Samajik Adhyayan tatha Manav Mulya Shiksha Kaksha 8 (Teacher's Guide Social Studies and Human Value Education Grade 8)* (teacher guide, Nepali) — Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; year First edition 2081 BS; ISBN no ISBN printed. Title as printed: Shikshak Nirdeshika Samajik Adhyayan tatha Manav Mulya Shiksha Kaksha 8 (Teacher's Guide Social Studies and Human Value Education Grade 8). Grade: Grade 8 (student/teacher: TEACHER). PDF pages: 222 (cover/title page verified against the record title — Devanagari title page matches). Verdict: COMPLETE. Non-Geography parts named (not placed): Unit 1 We and our society (TG pp. 1–19 approx.); Unit 2 Our human values and beliefs; Unit 3 Civic consciousness, duties and rights (civics); Unit 4 Social problems and distortions; Unit 5 Our Past (History). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nepal-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Four harms that cross borders: (a) falling farm output — farming majority, fast population growth, environment pressed, productivity falls; (b) soil degradation — erosion-prone terrain, soil washing into neighbouring countries by running water and dry-season whirlwinds, worsened drought, spreading desert, unbalanced nature | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 7, printed pp. 183–186 |
@@ -53,8 +55,9 @@ countries: Ethiopia, Costa Rica, Ecuador, Bangladesh, Egypt, Samoa, Colombia, No
 | Papua New Guinea part — Unit 11.2: impact of climate change locally and worldwide — rising sea levels, extreme weather events (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 11 Geography TG OBE* (teacher guide), Unit 11.2: impact of climate change locally and worldwide — rising sea levels, extreme weather events — printed p. 33 |
 | Iran part — Iran's climate (climate change and its environmental problems: storms, heatwaves, drought) | Iran, *Iran Grade 10 Geography of Iran*, Iran's climate (climate change and its environmental problems: storms, heatwaves, drought) — printed p. 46 |
 | Moldova part — 31. Antarctica risk processes: global warming, glacier melting, disappearance of animal species | Moldova, *Moldova Grade 6 G6 Geography*, 31. Antarctica risk processes: global warming, glacier melting, disappearance of animal species — printed p. 122 |
+| Nepal part — Unit 7 Lesson 3: Climate change — causes, effects and mitigation measures (teacher guide — evidence) | Nepal, *Nepal Grade 8 TG np-g8tg* (teacher guide), Unit 7 Lesson 3: Climate change — causes, effects and mitigation measures — TG Unit 7 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Costa Rica, Ecuador, Bangladesh, Egypt, Samoa, Colombia, North Macedonia, Rwanda, Fiji, Iran, Moldova). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 12 countries (Ethiopia, Costa Rica, Ecuador, Bangladesh, Egypt, Samoa, Colombia, North Macedonia, Rwanda, Fiji, Iran, Moldova). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere. Nepal is named here as teacher-guide evidence only, counted nowhere.**
 
 There is NO Grade 8 teacher-guide coverage for Chapter 7: the Grade 8 guide in hand holds only Units 1–3, so no teacher evidence is claimed for any Grade 8 part of this lesson.
 
@@ -91,3 +94,5 @@ Papua New Guinea's own way (Papua New Guinea Grades 11–12 Geography TG OBE) (t
 Iran's own way (Iran Grade 10 Geography of Iran): the whole of Grade 10 geography is one national book — Iran's own natural and human geography for every branch; nearly every lesson closes with a "know your own living place" activity tied to the separate provincial-studies book, so national content is always re-applied to the learner's own province.
 
 Moldova's own way (Moldova Grade 6 G6 Geography): a "Geography of the Continents" year — the southern continents (Africa, South America, Australia, Antarctica) each worked through with the identical template (physical position, relief and minerals, climate factors and zones, surface waters, natural zones, population, peoples and political map), and every continent closes with a "geographic risk processes" lesson; an annex gives a standard plan for characterising any continent.
+
+Nepal's own way (Nepal Grade 8 TG np-g8tg) (teacher guide — evidence): Grade 8 economics is monetary — monetary transactions, Nepal's financial institutions, tourism, foreign trade and foreign employment; the Earth unit pairs Earth's motions with weather/climate elements, climate change, Nepal's bordering neighbours and SAARC, disaster management (with the 2072 earthquake as case material) and a map-making practical (draw Nepal, fill in geographical facts). That evidence is stocked here as the way Nepal teaches this thing; it does not change the acceptance count above.

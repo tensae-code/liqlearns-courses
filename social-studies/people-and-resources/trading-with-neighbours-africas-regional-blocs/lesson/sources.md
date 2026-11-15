@@ -1,6 +1,6 @@
 # Sources — Trading with neighbours — Africa's regional blocs
 
-countries: Ethiopia, Zimbabwe, Rwanda, Sudan, Mauritania
+countries: Ethiopia, Zimbabwe, Rwanda, Sudan, Mauritania, Nepal
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Zimbabwe, Rwanda, Sudan, Mauritania
 
 **Book 8:** *Al-Jughrafia lilsana al-Rabi'a I'dadiya (Geography, Fourth Year of Preparatory Education)* (student book, Arabic) — Institut Pédagogique National (IPN), Mauritania; year no year printed on title page; ISBN no ISBN printed. Title as printed: Al-Jughrafia lilsana al-Rabi'a I'dadiya (Geography, Fourth Year of Preparatory Education). Grade: Grade 10 (4e année secondaire) (student/teacher: STUDENT). PDF pages: 116 (cover/title page verified against the record title; fetched from the record's source URL docs.bsimr.com/pdfs/secondaire2s/GEO-4AS-M.pdf, 11,841,292 bytes). Verdict: COMPLETE. Filed as its own book, as the placements file labels it: this book re-teaches the Grade 9 programme lesson-for-lesson at greater depth and with fuller map work — a distinct, longer edition (116 pp vs 104 pp), not a duplicate file. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mauritania-placements.md.
 
+**Book 9:** *Shikshak Nirdeshika Samajik Adhyayan tatha Manav Mulya Shiksha Kaksha 8 (Teacher's Guide Social Studies and Human Value Education Grade 8)* (teacher guide, Nepali) — Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; year First edition 2081 BS; ISBN no ISBN printed. Title as printed: Shikshak Nirdeshika Samajik Adhyayan tatha Manav Mulya Shiksha Kaksha 8 (Teacher's Guide Social Studies and Human Value Education Grade 8). Grade: Grade 8 (student/teacher: TEACHER). PDF pages: 222 (cover/title page verified against the record title — Devanagari title page matches). Verdict: COMPLETE. Non-Geography parts named (not placed): Unit 1 We and our society (TG pp. 1–19 approx.); Unit 2 Our human values and beliefs; Unit 3 Civic consciousness, duties and rights (civics); Unit 4 Social problems and distortions; Unit 5 Our Past (History). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nepal-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Africa's trade shape | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 5, printed pp. 150–151 |
@@ -31,8 +33,9 @@ countries: Ethiopia, Zimbabwe, Rwanda, Sudan, Mauritania
 | Mauritania part — Unit 1 Lesson 2: Mauritania and the institutions of the Maghreb Union | Mauritania, *Mauritania Grade 6 geo-6af-m*, Unit 1 Lesson 2: Mauritania and the institutions of the Maghreb Union — printed p. 12 |
 | Mauritania part — Unit 3 Lesson 13: economic integration in the sub-region | Mauritania, *Mauritania Grade 9 geo-3as-m*, Unit 3 Lesson 13: economic integration in the sub-region — printed p. 96 |
 | Mauritania part — Unit 3 Lesson 13: economic integration in the sub-region | Mauritania, *Mauritania Grade 10 geo-4as-m*, Unit 3 Lesson 13: economic integration in the sub-region — printed p. 109 |
+| Nepal part — Unit 7 Lesson 5: SAARC and Nepal (teacher guide — evidence) | Nepal, *Nepal Grade 8 TG np-g8tg* (teacher guide), Unit 7 Lesson 5: SAARC and Nepal — TG Unit 7 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Rwanda, Sudan, Mauritania). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 4 countries (Ethiopia, Rwanda, Sudan, Mauritania). Zimbabwe is named here as teacher-guide evidence only, counted nowhere. Nepal is named here as teacher-guide evidence only, counted nowhere.**
 
 No book error is flagged for this lesson's pages in the placements. The student book's body numbering for Unit Two drifts from its own contents (regions printed as 2.4, factors as 2.5, local classification as 2.6, where the contents and the teacher guide's contents agree on 2.3, 2.4 and 2.5); this lesson follows the contents numbering and teaches no misprint.
 
@@ -49,3 +52,5 @@ Mauritania's own way (Mauritania Grade 6 geo-6af-m): The final primary book turn
 Mauritania's own way (Mauritania Grade 9 geo-3as-m): A home-and-region year in three units: the Mauritanian geographic space (the country set astronomically between 15°–27° N and 5°–17° W, area about 1,030,700 km²), Mauritania's economic activities, then the two spaces Mauritania belongs to — the Maghreb and West Africa — ending on sub-regional economic integration.
 
 Mauritania's own way (Mauritania Grade 10 geo-4as-m): This book re-teaches the Grade 9 programme lesson-for-lesson (its contents list is identical to Book 8's) at greater depth and with fuller map work — its Mauritania unit works through three location maps (in the Arab world, geographic and astronomical location) where the Grade 9 book works from text. Filed as its own book because it is a distinct, longer edition (116 pp vs 104 pp), not a duplicate file.
+
+Nepal's own way (Nepal Grade 8 TG np-g8tg) (teacher guide — evidence): Grade 8 economics is monetary — monetary transactions, Nepal's financial institutions, tourism, foreign trade and foreign employment; the Earth unit pairs Earth's motions with weather/climate elements, climate change, Nepal's bordering neighbours and SAARC, disaster management (with the 2072 earthquake as case material) and a map-making practical (draw Nepal, fill in geographical facts). That evidence is stocked here as the way Nepal teaches this thing; it does not change the acceptance count above.

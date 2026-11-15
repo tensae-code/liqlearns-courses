@@ -1,6 +1,6 @@
 # Sources — Reading a landscape from its map
 
-countries: Ethiopia, Bangladesh, Malaysia, Slovenia, Uganda
+countries: Ethiopia, Bangladesh, Malaysia, Slovenia, Uganda, Nepal
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -18,6 +18,10 @@ countries: Ethiopia, Bangladesh, Malaysia, Slovenia, Uganda
 
 **Book 8:** *Home-Study Learning — Senior 3 Geography (August 2020)* (student book, English) — Ministry of Education and Sports / National Curriculum Development Centre (NCDC); year 2020; ISBN no ISBN printed. Title as printed: Home-Study Learning — Senior 3 Geography (August 2020). Grade: Senior Three = Grade 10 (student/teacher: STUDENT). PDF pages: 108 (cover verified: "HOME-STUDY LEARNING SENIOR 3 GEOGRAPHY", NCDC, August 2020 — matches record page count 108 exactly; read via the record's books.json source_url, fresh-teacher.github.io mirror of the NCDC booklet, after grab.py routes failed with RemoteDisconnected from api.github.com). Verdict: COMPLETE (the booklet as published starts at Lesson 2; Lesson 1 is not in this home-study package). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/uganda-placements.md.
 
+**Book 9:** *My Social Studies and Creative Arts Grade 4 (English edition)* (student book, English) — Government of Nepal, Ministry of Education, Curriculum Development Centre, Sanothimi, Bhaktapur; year First edition (Nepali) 2062 BS, English edition 2066 BS; ISBN no ISBN printed. Title as printed: My Social Studies and Creative Arts Grade 4 (English edition). Grade: Grade 4 (student/teacher: STUDENT). PDF pages: 136 (cover/title page verified against the record title). Verdict: COMPLETE. Non-Geography parts named (not placed): Unit 1 Me, My Family and My Neighbourhood (printed pp. 2–9); Unit 2 Lessons 1, 3–6 seniors, rituals/festivals, birthplace, ideal people (pp. 10–21); Unit 3 Social Problems and Solutions (pp. 22–35); Unit 4 Civic Awareness Lessons 1–2, 7–9 rights, child participation, VDC, municipality, equal treatment (pp. 36–39, 48–53, civics); Unit 6 Our History (pp. 66–75, History); Creative Arts (pp. 76–135). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nepal-placements.md.
+
+**Book 10:** *Samajik Shiksha ra Manavmulya Shiksha Kaksha 6 (Social Studies and Human Value Education Grade 6)* (student book, Nepali) — Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; year 2078 BS; ISBN 978-9937-601-56-6. Title as printed: Samajik Shiksha ra Manavmulya Shiksha Kaksha 6 (Social Studies and Human Value Education Grade 6). Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 214 (cover/title page verified against the record title — Devanagari title page matches). Verdict: COMPLETE. Non-Geography parts named (not placed): Unit 1 We and our society except development infrastructures (printed pp. 2–16); Unit 2 Our human values and beliefs (pp. 20–49); Unit 3 Civic consciousness except traffic rules (pp. 50–69, civics); Unit 4 Social problems and solutions (pp. 73–87); Unit 5 Our Past (pp. 88–111, History); Unit 8 Lessons 3+ population management detail beyond demography/census (pp. 180–190); Unit 9 International relations, contemporary events and information technology (pp. 191–206). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nepal-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Contours into relief | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 8, printed pp. 220–223 |
@@ -29,8 +33,10 @@ countries: Ethiopia, Bangladesh, Malaysia, Slovenia, Uganda
 | Slovenia part — Zemljevid Afrike (map work on Africa) inside Lega, površje in vodovje Afrike | Slovenia, *Slovenia Grade 8 Geografija 8*, Zemljevid Afrike (map work on Africa) inside Lega, površje in vodovje Afrike — printed p. 1 |
 | Slovenia part — Geološki zemljevid (the geological map) inside Kamnine in geološki razvoj Zemlje | Slovenia, *Slovenia Grade 10 Geografija 1 (gimnazija)*, Geološki zemljevid (the geological map) inside Kamnine in geološki razvoj Zemlje — printed p. 27 |
 | Uganda part — Lesson 9: Describing Economic activities on a map | Uganda, *Uganda Grade 10 UG S3 Geography Home-Study*, Lesson 9: Describing Economic activities on a map — printed p. 43 |
+| Nepal part — Unit 5 Lesson 2: Kanchanpur District on a Map | Nepal, *Nepal Grade 4 np-g4*, Unit 5 Lesson 2: Kanchanpur District on a Map — printed p. 56 |
+| Nepal part — Unit 7 Lesson 10: Map study | Nepal, *Nepal Grade 6 np-g6*, Unit 7 Lesson 10: Map study — printed p. 167 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Bangladesh, Malaysia, Slovenia, Uganda).**
+**Acceptance count: taught in 6 countries (Ethiopia, Bangladesh, Malaysia, Slovenia, Uganda, Nepal).**
 
 Searchable tags: contour interpretation, landscape reading, relief, drainage, settlement, land use, social studies
 
@@ -45,3 +51,7 @@ Slovenia's own way (Slovenia Grade 8 Geografija 8): Grade 8 is pure world region
 Slovenia's own way (Slovenia Grade 10 Geografija 1 (gimnazija)): the gimnazija first year is systematic physical geography first (Earth's interior, rocks, landforms, weather and climate, soils, vegetation, waters), then human geography (population, settlements, farming, industry and energy, transport, tourism), closing on sustainable development and spatial planning — with Slovenian cases (earthquake risk in Slovenia, the Port of Koper) set inside the world topics.
 
 Uganda's own way (Uganda Grade 10 UG S3 Geography Home-Study): COVID-era self-study booklet: first half is East Africa's human geography (towns/ports, transport, trade) plus heavy practical map-work and photograph interpretation on Ugandan survey-map extracts (Tororo, Kakuto, Samia); second half is a "studies in development" comparison — the Rhinelands and landlocked Switzerland held up as models against East Africa.
+
+Nepal's own way (Nepal Grade 4 np-g4): Grade 4 "Our Earth" moves to the district (Kanchanpur read on a map), the origin and structure of the Earth, and Nepal's two neighbours India and China; resources and traffic rules sit inside the Civic Awareness unit.
+
+Nepal's own way (Nepal Grade 6 np-g6): Grade 6 has a full "Hamro Prithvi" (Our Earth) unit — Earth's introduction, latitude/longitude, outer-layer structure, then Nepal itself: geographical description, climate, rivers/glaciers/lakes, natural vegetation, natural resources and map study, closing with disaster management; a population unit follows (demography, the census). Economic activities are organised by region and resource: agriculture and industry, services and trade, tourism, and economic resources (land and water; forest, minerals and people).

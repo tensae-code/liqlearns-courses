@@ -103,7 +103,7 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **2523**
+Geography lessons across the eight Geography titles: **2567**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -1766,3 +1766,44 @@ Hazards.
 (All 30 of the new lessons are taught in 1 country
 (Honduras); each stands on student book(s), with the
 matching teacher guide(s) cited as evidence only.)
+
++44 for Nepal, 2026-11-15 — Earth and Space: The Earths
+Heat Zones; The Land and Air: Africa Continent
+Geography, Asia Geography And Natural Environment,
+Australia Geography And Natural Environment, Climate
+And Lifestyle Of Nepal, Earth Our Common Home, Europe
+Geography And Natural Environment, Inter Provincial
+Relations In Federal Nepal, Natural Vegetation Of
+Nepal, Nepal Location Size And Boundaries, Nepal's
+Neighbours India And China, Nepal's Seven Provinces
+Federal Geography, Nepal's Three Regions Mountain Hill
+And Terai, Nepal's Wider Neighbours Of South Asia,
+Nepal's Zones Regional Geography Of The Anchals, North
+America Continent Geography, Our District Nepal's Local
+Geography, Physical Features Of Nepal, Rivers Glaciers
+And Lakes Of Nepal, Soils Of Nepal, South America
+Continent Geography and The Land Around My Home And
+School; Population, Transport and Maps: Effects Of
+Migration In Nepal, Great Cities And Ports Of Asia,
+Houses Shaped By Place Climate And Materials,
+Urbanisation In Nepal and Village And Town Two Kinds Of
+Settlement; People and Resources: Development
+Infrastructures Roads Water And Schools, Economic
+Activities Of Our District, Economic Features Of
+Nepal's Provinces, Energy And Development In Nepal,
+Environment And Man How The Land Shapes Life, How
+Environment Drives Economic Development, National
+Production Of Nepal, Natural Resources Of Asia, Nepal's
+Economy And Development, Our Production And Income
+Generating Work and Poverty In Nepal And Breaking The
+Cycle; Culture and Work: Agriculture And Industry
+Nepal's Economic Backbone, Money And Banking Monetary
+Transactions, Things Made In The City Factory Goods,
+Trade Diversification And Marketing In Nepal and
+Traditional And Modern Farming Systems Of Nepal; Global
+Issues: Identifying Local Disasters And Staying Safe.
+(43 of the new lessons are taught in 1 country (Nepal),
+each standing on student book(s) with any matching
+teacher guide(s) cited as evidence only; Money and
+Banking Monetary Transactions stands on teacher-guide
+evidence only (acceptance count 0 countries).)
