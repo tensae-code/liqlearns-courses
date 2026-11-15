@@ -1,6 +1,6 @@
 # Sources — Primary activities — fishing grounds of the world
 
-countries: Ethiopia, Nauru, Tuvalu, Niue, Angola, Bangladesh, Turkmenistan, Bahamas, Eritrea
+countries: Ethiopia, Nauru, Tuvalu, Niue, Angola, Bangladesh, Turkmenistan, Bahamas, Eritrea, Fiji
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 2 — Population Studies and Socio-Economic Activities, printed pp. 44–76).
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Nauru, Tuvalu, Niue, Angola, Bangladesh, Turkmenistan, Baha
 
 **Book 10:** *Social Studies for Grade 8 — Textbook* (student book, English) — Eritrea, Ministry of Education, The State of Eritrea; year 2011; ISBN 99948-1-592-X. Title as printed: Social Studies for Grade 8 — Textbook. Grade 8 (student/teacher: STUDENT). PDF pages: 157 (cover/title page verified against the record title; 4,716,045 bytes and 157 pages, both match the record). Verdict: COMPLETE. Records note: 7 records / 5 distinct books; the TSV release records for Grades 4 and 5 duplicate the books.json tree records of the same repo path (one book each); read via grab (curl-based GitHub API route with byte-size + blob-SHA verification), covers verified by render, full text read via pdftotext -layout. Combined Social Studies books: Geography parts placed; History/Civics parts named in each book header only. Named, not placed — History parts (named, not placed): Unit 5 Expansionism and Resistance against Colonial Rule, printed p. 64; Unit 6 Colonial Administrations in Eritrea, printed p. 89; Unit 7 Highlights of the Eritrean Armed Struggle, printed p. 105; Unit 8 Post Independence Developments, printed p. 116 Placements at liqlearns-courses-work/expansion-geography-2026-11-14/eritrea-placements.md.
 
+**Book 11:** *An Introduction to Human Geography for Year 11 and Year 12 Students (record title: "Year 11 and Year 12 Geography")* (student book, English) — Fiji, Ministry of Education, Fiji; year 2015, First Edition (written and compiled by Maciu Rika and Elina Vosaicake); ISBN no ISBN printed. Title as printed: An Introduction to Human Geography for Year 11 and Year 12 Students (record title: "Year 11 and Year 12 Geography"). Grade: Years 11–12 (student/teacher: STUDENT). PDF pages: 92 (cover/title page verified against the record title). Verdict: COMPLETE. Acquisition note: read from the books.json record's own Wayback source_url (ministry original) after the grab.py GitHub API route failed as in Book 1. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The world's catch | Ethiopia, *Social Studies Student Textbook, Grade 8* (Amhara Bureau), printed pp. 58–60 |
@@ -42,8 +44,9 @@ countries: Ethiopia, Nauru, Tuvalu, Niue, Angola, Bangladesh, Turkmenistan, Baha
 | Bahamas part (Grade 1) — Animals: animals used for food and income — catching fish, diving for conch and spearing crawfish to sell | Bahamas, *Social Science, Grade 1*, Grade 1, Animals: animals used for food and income — catching fish, diving for conch and spearing crawfish to sell — printed p. 35 |
 | Bahamas part (Grade 4) — Economic Impact of Farming and Fishing: fishing is a lucrative industry on the vast rich fishing grounds; it generates foreign exchange and employs people on all islands | Bahamas, *Bahamas Primary Social Studies — Digital Textbook, Grade 4*, Grade 4, Economic Impact of Farming and Fishing: fishing is a lucrative industry on the vast rich fishing grounds; it generates foreign exchange and employs people on all islands — PDF p. 11 |
 | Eritrea part (ER G8 Social Studies) — Unit 9: 9.2 Fishing and Hunting Marine Animals | Eritrea, *ER G8 Social Studies*, Unit 9: 9.2 Fishing and Hunting Marine Animals — printed p. 140 |
+| Fiji part — Chapter 4 Marine Resources, 4.1.1 A fishery, and 4.1.2 the marine environment | Fiji, *Fiji Years 11–12 Geography*, Chapter 4 Marine Resources, 4.1.1 A fishery, and 4.1.2 the marine environment — printed p. 69 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Nauru, Tuvalu, Niue, Angola, Bangladesh, Turkmenistan, Bahamas, Eritrea).**
+**Acceptance count: taught in 10 countries (Ethiopia, Nauru, Tuvalu, Niue, Angola, Bangladesh, Turkmenistan, Bahamas, Eritrea, Fiji).**
 
 Niue's own way: Niue uses the shared Pacific ESD reader suite (Niue advisor Birtha Togahai) — Geography is taught as Pacific peoples' lived relationship with the ocean: voyaging, reef knowledge, tapu/fono closed seasons and village fishing practice in Tonga, Tuvalu and Niue itself, ending in a pupil action plan against plastic. That way is stocked here as the way Niue teaches this thing.
 
@@ -66,3 +69,5 @@ Bahamas' own way (Grade 1): One integrated "Social Science" book fusing Religiou
 Bahamas' own way (Grade 4): From Grade 4 the format changes: instead of the integrated Social Science reader, the child gets a one-topic-per-page infographic textbook keyed spread-by-spread to the Primary Social Studies Curriculum 2022–2027 — Bahamian culture first, then the peoples who settled the islands, then the islands' own geography (southeastern islands, the Bahama Banks, island resources, tourism, transport), closing with leaders, laws, festivals and the bush plants of The Bahamas.
 
 Eritrea's own way (ER G8 Social Studies): Grade 8 is the Eritrea-physical-geography year — relief, hydrology and water shortage, people-environment adaptation and Eritrea's strategic Red Sea location are taught as four full Geography units before the History units begin.
+
+Fiji's own way (Fiji Years 11–12 Geography): Senior geography splits into Human and Physical volumes; the human volume is organised as four issue-chapters (population/settlement, tourism, agriculture, marine resources), each run the same way — nature, problems, ways of minimising, contemporary issues, future — with Pacific/Fiji theme-country cases.

@@ -1,6 +1,6 @@
 # Sources — What makes populations change
 
-countries: Ethiopia, Colombia, India, Rwanda
+countries: Ethiopia, Colombia, India, Rwanda, Fiji
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). Editors: Sintayehu Teka (MSc) (Content Editor), Kassie Molla (MA) (Language Editor), Hirut Woldemichael (MA) (Curriculum Editor). Illustrator: Agenchw Nega (MSc). Designer: Geda Hoka (MA). Evaluators: Dereje Guteta (PhD), Tesfaye Shiferaw (PhD), Abebe Yibeltie (MA), Hussein Seid (MA). First published 2023 under GEQIP-E. ISBN 978-99990-0-049-9. Printed by Gravity Group IND LLC, 13th Industrial Area, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. Printed page = PDF page − 6 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md
 
@@ -14,6 +14,10 @@ countries: Ethiopia, Colombia, India, Rwanda
 
 **Book 6:** *Primary Learner's Social Studies for Rwanda Schools, P5, Revised Edition 2019* (student book, English) — Rwanda, Rwanda Education Board (REB); year ©2019, Revised Edition 2019; ISBN no ISBN printed. Title as printed: Primary Learner's Social Studies for Rwanda Schools, P5, Revised Edition 2019. Grade: Grade 5 (Primary 5) (student/teacher: STUDENT). PDF pages: 75 (condensed-layout copy; printed pagination runs to p. 129 — cover verified against the record title; byte size 28,584,194 matches the edufeeds source's Content-Length exactly; read from the record's own source URL after grab.py failed with GitHub API RemoteDisconnected; the TSV release record is the same book). Verdict: COMPLETE. Non-Geography parts named, not placed: Unit 2 Complementarity and social cohesion in society, incl. human rights, conflict management, peace, harmony and disharmony (Civics), printed pp. 13–24; Unit 3 Hygiene and sanitation, incl. diseases (Health), pp. 25–40; Unit 4 Civics and governance, incl. Rwanda as an independent nation and leadership in our province (Civics), pp. 41–52; Unit 10 Colonial Rwanda (History), pp. 112–129. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/rwanda-placements.md.
 
+**Book 7:** *Social Science Year 10 — Global Perspectives, Local Interaction (PRE CDU 2015 printing)* (student book, English) — Fiji, Curriculum Development Unit, Ministry of Education, Suva; year 2013; ISBN no ISBN printed. Title as printed: Social Science Year 10 — Global Perspectives, Local Interaction (PRE CDU 2015 printing). Grade: Year 10 (student/teacher: STUDENT). PDF pages: 101 (cover/title page verified against the record title). Verdict: COMPLETE. Acquisition note: read from the books.json record's own Wayback source_url (ministry original) after the grab.py GitHub API route failed as in Book 1. Non-Geography parts named, not placed: Chapter 1 Social Organization and Processes — government and democracy, parliamentary rule, the United Nations (printed pp. 6–25); Chapter 2 Time, Continuity and Change — History of Fiji, cession to independence 1874–1970 (pp. 26–53). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
+
+**Book 8:** *Year 13 Integrative Geography* (student book, English) — Fiji, Curriculum Development Unit, Ministry of Education, Fiji; year 2018; ISBN no ISBN printed. Title as printed: Year 13 Integrative Geography. Grade: Year 13 (student/teacher: STUDENT). PDF pages: 263 (cover/title page verified against the record title; bibliography at printed p. 258 confirms the file is complete). Verdict: COMPLETE. Acquisition note: read from the books.json record's own source_url (Google Drive file named in the record; download resumed after a first timed-out partial file) after the grab.py GitHub API route failed as in Book 1. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Births, deaths and migration | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 6, printed pp. 146–149 |
@@ -24,8 +28,10 @@ countries: Ethiopia, Colombia, India, Rwanda
 | India part (Grade 8 Resources and Development) — Ch.6: population change — births, deaths and migration; differing growth rates across the world | India, *India Grade 8 Resources and Development*, Ch.6: population change — births, deaths and migration; differing growth rates across the world — printed p. 65 |
 | India part (Grade 9 Contemporary India-I) — Ch.6: population growth and processes of change — births, deaths, migration | India, *India Grade 9 Contemporary India-I*, Ch.6: population growth and processes of change — births, deaths, migration — printed p. 56 |
 | Rwanda part — 8.5 Population growth (Unit 8) | Rwanda, *Rwanda Grade 5 Social Studies SB*, 8.5 Population growth (Unit 8) — printed p. 96 |
+| Fiji part — Population change (births, deaths and natural change as an open system; population growth's environmental impacts) | Fiji, *Fiji Year 10 Social Science*, Population change (births, deaths and natural change as an open system; population growth's environmental impacts) — printed p. 84 |
+| Fiji part — Chapter 6: how and why population changes and its consequences; population control methods and their effectiveness | Fiji, *Fiji Year 13 Geography*, Chapter 6: how and why population changes and its consequences; population control methods and their effectiveness — printed p. 162 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Colombia, India, Rwanda).**
+**Acceptance count: taught in 5 countries (Ethiopia, Colombia, India, Rwanda, Fiji).**
 
 No book error is flagged for this lesson's pages in the placements. The teacher guide was first published in 2022 against the student book's 2023; the student book is the learner text of record, and the guide is cited as evidence only.
 
@@ -38,3 +44,7 @@ India's own way (Grade 8 Resources and Development): Grade 8 is a resources year
 India's own way (Grade 9 Contemporary India-I): From Grade 9 the Geography book is India alone, in depth — Contemporary India-I is the physical book: size and location, physiography built from plate tectonics, drainage, the monsoon system, vegetation and wildlife, and population, each chapter working from India's own maps and census data.
 
 Rwanda's own way (Rwanda Grade 5 Social Studies SB): the pupil's book teaches the province through named Rwandan things — the five provinces with Kigali City as the case study, Rwanda's four seasons by their Kinyarwanda names (Umuhindo, Urugaryi, Itumba, Icyi), and the country's two international airports (Kigali and Kamembe) in the transport-places lesson.
+
+Fiji's own way (Fiji Year 10 Social Science): Year 10 is the foundation for senior Geography and History — Fiji's own physical geography (tectonics, relief, rivers, climate, soils) taught in full, then its industries, population and urbanisation, all with Fiji data.
+
+Fiji's own way (Fiji Year 13 Geography): The final year integrates everything at advanced level (plate tectonics to urban models, largely from world texts such as Waugh) and then lands it in Chapter 8, South Pacific Islands Geography — Oceania's geology, island types, development prospects and regionalism.

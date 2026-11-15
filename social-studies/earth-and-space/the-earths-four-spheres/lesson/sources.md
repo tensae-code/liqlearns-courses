@@ -1,6 +1,6 @@
 # Sources — The Earth's Four Spheres
 
-countries: Ethiopia, Myanmar, Nauru, Tuvalu, Niue, Palestine, Angola, Dominican Republic, Malaysia, India
+countries: Ethiopia, Myanmar, Nauru, Tuvalu, Niue, Palestine, Angola, Dominican Republic, Malaysia, India, Fiji
 
 **Book 3:** *Social Studies Teacher's Guide, Grade 7* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, first edition 2022 (© 2014 E.C.), 142 printed pp. Printed page = PDF page - 5. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-teacher-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Myanmar, Nauru, Tuvalu, Niue, Palestine, Angola, Dominican 
 
 **Book 12:** *The Earth : Our Habitat — Textbook in Geography for Class VI (Social Science)* (student book, English) — India, NCERT, New Delhi; first edition February 2006, this copy reprint 2020-21; ISBN 81-7450-491-5. Title as printed: The Earth : Our Habitat — Textbook in Geography for Class VI (Social Science). Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 72 (cover/title page verified against the record title — cover render checked: "The Earth : Our Habitat, Textbook in Geography for Class VI, NCERT 2020-21"; grabbed via grab.py release route, 23,496,254 bytes, SHA/size verified by grab.py; duplicate TSV + books.json records grade-06/gov/india/the-earth-our-habitat.pdf counted once). Verdict: COMPLETE — 8 chapters, printed pp. 1-64 + appendices. Records note: 34 records / 17 distinct books (17 TSV records in grades 6-10 + 17 books.json records that are the same books by grade/subject — duplicate records of the same NCERT titles); the 5 Geography books were read full page-by-page via pdftotext -layout after cover verification; the other 12 books are record-only (History, Civics, Economics) with no Geography content, filed for later waves. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/india-placements.md.
 
+**Book 13:** *Rediscovering Society — Social Science Year 9* (student book, English) — Fiji, Curriculum Development Unit, Ministry of Education, National Heritage, Culture & Arts, Suva; year 2013 (copyright 2011); ISBN no ISBN printed. Title as printed: Rediscovering Society — Social Science Year 9. Grade: Year 9 (student/teacher: STUDENT). PDF pages: 162 (cover/title page verified against the record title). Verdict: COMPLETE. Acquisition note: read from the books.json record's own Wayback source_url (ministry original; download resumed after a first timed-out partial file) after the grab.py GitHub API route failed as in Book 1. Non-Geography parts named, not placed: Chapter 1 Social Organisation and Processes — Unit 1 Society and culture (printed pp. 7–36), Unit 2 Community living (pp. 37–62), Unit 3 NGOs and regional organisations (pp. 64–74); Chapter 2 Time, Continuity and Change — Unit 1 History of Fiji, pre-contact to cession (pp. 77–97), Unit 2 Current affairs (pp. 99–100). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson (teacher guide — evidence) | Ethiopia, *Social Studies Teacher's Guide, Grade 7*, Unit 1 (§1.3), printed pp. 8–10 |
@@ -36,8 +38,9 @@ countries: Ethiopia, Myanmar, Nauru, Tuvalu, Niue, Palestine, Angola, Dominican 
 | Dominican Republic part (Grade 3) — Components of the Earth's surface | Dominican Republic, *Ciencias Sociales, Tercer Grado, Primaria (Libro Abierto)*, Grade 3, Components of the Earth's surface — printed p. 12 |
 | Malaysia part (MY T1 Geografi Tingkatan 1) — Bab 5.1 Bumi: the Earth's physical system (four systems) | Malaysia, *MY T1 Geografi*, Bab 5.1 Bumi: the Earth's physical system (four systems) — printed pp. 42-45 |
 | India part (Grade 6 The Earth Our Habitat) — Ch.5 Major Domains of the Earth: lithosphere, hydrosphere, atmosphere, biosphere and how they interact | India, *India Grade 6 The Earth Our Habitat*, Ch.5 Major Domains of the Earth: lithosphere, hydrosphere, atmosphere, biosphere and how they interact — printed p. 30 |
+| Fiji part — Unit 3 Environment and its Uses: types of environment (physical and cultural environment; the biosphere) | Fiji, *Fiji Year 9 Social Science*, Unit 3 Environment and its Uses: types of environment (physical and cultural environment; the biosphere) — printed p. 145 |
 
-**Acceptance count: taught in 8 countries (Nauru, Tuvalu, Niue, Palestine, Angola, Dominican Republic, Malaysia, India). Ethiopia and Myanmar are named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 9 countries (Nauru, Tuvalu, Niue, Palestine, Angola, Dominican Republic, Malaysia, India, Fiji). Ethiopia and Myanmar are named here as teacher-guide evidence only, counted nowhere.**
 
 Niue's own way: Niue uses the shared Pacific ESD reader suite (Niue advisor Birtha Togahai) — land Geography is taught through Pacific farming itself: taro, pulaka and the coconut "tree of life", with Niue's own crops, exports and name-story ("behold the coconut") as anchor examples, and shifting cultivation/fallowing taught as sound science. That way is stocked here as the way Niue teaches this thing.
 
@@ -60,3 +63,5 @@ Dominican Republic's own way (Grade 3): For third graders geography is the home 
 Malaysia's own way (MY T1 Geografi Tingkatan 1): a pure Geography textbook organised as skills first (direction, position, sketch maps), then physical geography, human geography, a regional study of Southeast Asia, environmental issues and a full fieldwork chapter — every chapter anchored to Malaysian places first, then the region.
 
 India's own way (Grade 6 The Earth Our Habitat): The first Geography year goes planet → globe → motions → maps → Earth's domains → landforms, and only then turns home: the last two chapters are India itself (location, neighbours, physical divisions, monsoon climate, vegetation and wildlife), so world basics are immediately applied to the home country.
+
+Fiji's own way (Fiji Year 9 Social Science): Secondary geography opens with a full map-skills chapter — grid references, contours and cross-sections practised on Fiji maps — before environment use and conservation, including Pacific methods (shifting cultivation, rotational grazing, appropriate fishing methods).

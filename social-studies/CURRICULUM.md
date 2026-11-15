@@ -3647,3 +3647,72 @@ Rwanda's Forests — Natural and Planted stands on
 teacher-guide evidence only (acceptance count 0
 countries), 8 questions.
 Geography lessons: 1398 → 1415.
+
+
+## Fiji — Geography expansion (merged 2026-11-14)
+140 placement lines stocked from Fiji's 12 placed books
+(21 records / 12 distinct books) — the Ministry of
+Education Social Studies / Social Science pupil's books
+for Years 3–10, the shared Pacific ESD Reader 1 *People
+and the Sea in the Pacific* (Years 5–6, filed under
+Fiji), the Years 11–12 Human and Physical Geography
+volumes and the Year 13 Integrative Geography. All 12
+are student books. Three books are PARTIAL exactly as
+the placements file labels them: Year 5 Social Studies
+and Year 6 Social Science — front cover page absent
+from the file, all teaching content present; Year 8
+*Exploring the World* — cover art page absent from the
+file, all teaching content present. The placements
+file's own tallies agree with the line count (140 = 98
+to existing lessons + 42 NEW LESSON NEEDED). Stocked
+into standing lessons (99 placements across 70
+lessons). One slug remapping:
+global-issues/the-pacific-a-sea-of-islands stocked into
+the-land-and-air/the-pacific-a-sea-of-islands, the
+existing lesson built from the same ESD reader for
+Nauru, its original slug recorded in the provenance
+row. 35 NEW lessons built (41 placements) — **First
+Steps**: Fiji in the South Pacific and Its Islands
+(printed p. 27), Fiji's Island Groups, Towns and Cities
+(printed p. 52), Fiji's Location — Advantages and
+Disadvantages (printed p. 48), My Home and Types of
+Homes (printed p. 36), My School as a Place (printed p.
+43), South Pacific Islands Geography — Oceania (printed
+p. 229), Special Places in Our Village and Community
+(printed p. 41), Types of Pacific Islands —
+Continental, Volcanic, Coral, Atoll (printed p. 46;
+printed p. 55; printed p. 230); **The Land and Air**:
+Coral Reef Ecosystems of the Pacific (printed p. 3),
+Drawing Cross-Sections from Contours (printed p. 135),
+Fiji's Physical and Cultural Features (printed p. 30),
+Fiji's Rivers and Roads (printed p. 54), Land Patterns
+of Fiji — Dry West, Wet East (printed p. 48), Relief of
+Fiji — Mountains, Lowlands and Plateaus (printed p. 55;
+printed p. 49), Relief of New Zealand (printed p. 32),
+The Climate of Fiji — Trade Winds and Two Seasons
+(printed p. 56; printed p. 57; printed p. 19), The
+Soils of Fiji — Andosols and Others (printed p. 74),
+The Vegetation of Fiji (printed p. 90); **Population,
+Transport and Maps**: Map Reading with Fiji Maps
+(printed p. 138), Models of Urban Structure (printed p.
+199); **People and Resources**: Factors Affecting
+Tourism Development (printed p. 40), Fiji's Resources
+and Export Industries (printed p. 65), Marine Resources
+and the Law of the Sea (printed p. 75), Personal
+Belongings and Caring for Resources (printed p. 50),
+Sea and Fresh-Water Resources of Fiji (printed p. 63);
+**Culture and Work**: Land Tenure Systems in Fiji and
+the Pacific (printed p. 52), Managing Money and Family
+Budgeting (printed p. 55), Traditional and Contemporary
+Farming Practices (printed p. 54), Traditional and
+Modern Fishing Methods (printed p. 80), Traditional
+Fishing Practices of the Pacific (printed p. 12);
+**Resources and Conflict**: Friendly and Unfriendly
+Land Use in Fiji (printed p. 43); **Global Issues**:
+Impacts of Tourism — Problems and Future (printed p.
+41), Natural Hazards and Disasters in the Pacific
+(printed p. 55; printed p. 106), Natural Hazards of
+Monsoon Asia (printed p. 95), The Monsoon of Asia —
+Summer and Winter (printed p. 95) — every new lesson is
+taught in 1 country (Fiji), 8 questions each.
+Geography lessons: 1415 → 1450.

@@ -1,6 +1,6 @@
 # Sources — Intensification — feeding more, costing the land
 
-countries: Ethiopia, Nauru, Tuvalu, Niue
+countries: Ethiopia, Nauru, Tuvalu, Niue, Fiji
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Nauru, Tuvalu, Niue
 
 **Book 5:** *People and the Natural Environment in the Pacific* (student book, English) — Niue, Institute of Education, University of the South Pacific (Tonga Campus), for UNESCO/Japanese Funds-in-Trust ESD project; year 2020; no ISBN printed. Title as printed: People and the Natural Environment in the Pacific — A Social Sciences related reader for Primary School, Book 3 (inner title page: Years 7–8 — see the grade note). Grade: Grade 5 record / Years 5–6 per the Teacher Guide, Years 7–8 per the inner title page (student). Niue advisor: Birtha Togahai. 24 PDF pp. (cover verified against the record title; read in full via pdftotext, page by page). Verdict: COMPLETE (content printed pp. 1–19). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/niue-placements.md.
 
+**Book 6:** *An Introduction to Human Geography for Year 11 and Year 12 Students (record title: "Year 11 and Year 12 Geography")* (student book, English) — Fiji, Ministry of Education, Fiji; year 2015, First Edition (written and compiled by Maciu Rika and Elina Vosaicake); ISBN no ISBN printed. Title as printed: An Introduction to Human Geography for Year 11 and Year 12 Students (record title: "Year 11 and Year 12 Geography"). Grade: Years 11–12 (student/teacher: STUDENT). PDF pages: 92 (cover/title page verified against the record title). Verdict: COMPLETE. Acquisition note: read from the books.json record's own Wayback source_url (ministry original) after the grab.py GitHub API route failed as in Book 1. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What intensification is | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 6, printed pp. 162–164 |
@@ -21,8 +23,9 @@ countries: Ethiopia, Nauru, Tuvalu, Niue
 | Nauru part — How people are hurting the natural environment today (short fallows, chemical fertilisers and insecticides, forest clearing, monocrops vs multicropping) | Nauru, *People and the Natural Environment in the Pacific*, Grade 5, How people are hurting the natural environment today — printed p. 17 |
 | Tuvalu part — How people are hurting the natural environment today (short fallows, chemical fertilisers and insecticides, forest clearing, monocrops vs multicropping) | Tuvalu, *People and the Natural Environment in the Pacific*, Grade 5, How people are hurting the natural environment today (short fallows, chemical fertilisers and insecticides, forest clearing, monocrops vs multicropping) — printed p. 17 |
 | Niue part — How people hurt the land today (shortened fallow, chemical fertilisers and insecticides, forest clearing and monocrops vs multicropping) | Niue, *People and the Natural Environment in the Pacific*, Grade 5, How people hurt the land today (shortened fallow, chemical fertilisers and insecticides, forest clearing and monocrops vs multicropping) — printed pp. 17–18 |
+| Fiji part — 3.1.6 Problems faced by agriculture; 3.1.7 problems caused by agriculture; 3.1.8 minimising the problems; 3.1.9 contemporary issues; 3.1.10 the future of the agriculture sector | Fiji, *Fiji Years 11–12 Geography*, 3.1.6 Problems faced by agriculture; 3.1.7 problems caused by agriculture; 3.1.8 minimising the problems; 3.1.9 contemporary issues; 3.1.10 the future of the agriculture sector — printed p. 61 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Nauru, Tuvalu, Niue).**
+**Acceptance count: taught in 5 countries (Ethiopia, Nauru, Tuvalu, Niue, Fiji).**
 
 Niue's own way: Niue uses the shared Pacific ESD reader suite (Niue advisor Birtha Togahai) — land Geography is taught through Pacific farming itself: taro, pulaka and the coconut "tree of life", with Niue's own crops, exports and name-story ("behold the coconut") as anchor examples, and shifting cultivation/fallowing taught as sound science. That way is stocked here as the way Niue teaches this thing.
 
@@ -33,3 +36,5 @@ Tuvalu's own way: the land-side companion to the sea reader — and Tuvalu's own
 No book error is flagged for this lesson's pages in the placements. The student book's body numbering for Unit Two drifts from its own contents (regions printed as 2.4, factors as 2.5, local classification as 2.6, where the contents and the teacher guide's contents agree on 2.3, 2.4 and 2.5); this lesson follows the contents numbering and teaches no misprint.
 
 Searchable tags: agricultural intensification, green revolution, sustainable intensification, monocropping, ethiopia, social studies, resources and conflict, Nauru, People and the Natural Environment in the Pacific, monocrops, Tuvalu, Niue
+
+Fiji's own way (Fiji Years 11–12 Geography): Senior geography splits into Human and Physical volumes; the human volume is organised as four issue-chapters (population/settlement, tourism, agriculture, marine resources), each run the same way — nature, problems, ways of minimising, contemporary issues, future — with Pacific/Fiji theme-country cases.

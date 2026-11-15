@@ -1,6 +1,6 @@
 # Sources — Human geography — the people side
 
-countries: Ethiopia, Myanmar, Ukraine, Bolivia
+countries: Ethiopia, Myanmar, Ukraine, Bolivia, Fiji
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Myanmar, Ukraine, Bolivia
 
 **Book 5:** *Texto de Aprendizaje — Área: Ciencias Sociales, Campo: Comunidad y Sociedad — Primer Año de Educación Secundaria Comunitaria Productiva* (student book, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; year not printed in the pages read; no ISBN printed. Title as printed: Texto de Aprendizaje — Área: Ciencias Sociales, Campo: Comunidad y Sociedad — Primer Año de Educación Secundaria Comunitaria Productiva. Grade 7 (student). 98 PDF pp. (cover verified against the record title; byte size 15,723,529 and page count match the staging books.json record exactly). Verdict: COMPLETE (combined book — Geography parts placed below; History/Civics parts named here, not placed: La ciencia de la historia, printed p. 24; Evolución de la especie humana, p. 28; Surgimiento de las sociedades humanas, p. 32; Formación y desarrollo de culturas en el mundo antiguo, p. 38; Civilizaciones de la Edad Antigua en Europa: Grecia y Roma, p. 44; Poblamiento del Abya Yala, p. 48; Civilizaciones originarias del Abya Yala, p. 52; Civilización Maya, p. 58; Las primeras culturas en el territorio que hoy es Bolivia, p. 70; Tiahuanaco, p. 76; Los Aymaras, p. 87; Arqueoastronomía, p. 93). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bolivia-placements.md.
 
+**Book 6:** *An Introduction to Human Geography for Year 11 and Year 12 Students (record title: "Year 11 and Year 12 Geography")* (student book, English) — Fiji, Ministry of Education, Fiji; year 2015, First Edition (written and compiled by Maciu Rika and Elina Vosaicake); ISBN no ISBN printed. Title as printed: An Introduction to Human Geography for Year 11 and Year 12 Students (record title: "Year 11 and Year 12 Geography"). Grade: Years 11–12 (student/teacher: STUDENT). PDF pages: 92 (cover/title page verified against the record title). Verdict: COMPLETE. Acquisition note: read from the books.json record's own Wayback source_url (ministry original) after the grab.py GitHub API route failed as in Book 1. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The people side | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 1, printed pp. 7–8 |
@@ -20,8 +22,9 @@ countries: Ethiopia, Myanmar, Ukraine, Bolivia
 | Social geography and the main ethnic groups — Myanmar way: 2.1 The definition of social geography and main ethnic groups (teacher guide — evidence) | Myanmar, *Teacher Guide — Geography — Grade 6* (teacher guide), §2.1, printed p. 23 |
 | Ukraine part — §1 What the geography of regions and countries studies (incl. political map formation) | Ukraine, *Geografiya*, Grade 10, §1 — printed p. 5 |
 | Bolivia part — The importance of human geography | Bolivia, *Texto de Aprendizaje — Ciencias Sociales, Secundaria 1*, Grade 7, The importance of human geography — printed p. 9 |
+| Fiji part — Chapter 1 Population and Settlement, 1.1.1 Nature of Population (with the book's human-geography overview) | Fiji, *Fiji Years 11–12 Geography*, Chapter 1 Population and Settlement, 1.1.1 Nature of Population (with the book's human-geography overview) — printed p. 7 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Ukraine, Bolivia). Myanmar is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 4 countries (Ethiopia, Ukraine, Bolivia, Fiji). Myanmar is named here as teacher-guide evidence only, counted nowhere.**
 
 Ukraine's own way: A "Geography: Regions and Countries" course — every region is done in the same order (position, nature/resources, population, primary/secondary/tertiary sectors) then typological country studies with rubrics (country visiting-card, capital, pride of the country, unique experience), ending with Ukraine's own place in the world; research tasks (Дослідження) embedded in chapters. That way is stocked here as the way Ukraine teaches this thing.
 
@@ -30,3 +33,5 @@ Myanmar's own way (teacher guide — evidence): the year is split into five para
 Bolivia's own way (Grade 7, Secundaria 1): The Bolivian Texto de Aprendizaje runs every unit through the same four moments — Práctica, Teoría, Valoración, Producción — and frames geography inside the plurinational, Madre Tierra worldview: continental drift and geological time sit beside the Laws of Mother Earth (071 and 300), the human right to water, and a closing general geography of Bolivia itself (regions, orography, political map, salt flats and lithium).
 
 Searchable tags: human geography, population, settlement, economic activity, culture, transport, social studies, Myanmar, Teacher Guide Geography Grade 6, teacher guide evidence, Ukraine, Geografiya Gilberg, Bolivia, Ciencias Sociales Bolivia
+
+Fiji's own way (Fiji Years 11–12 Geography): Senior geography splits into Human and Physical volumes; the human volume is organised as four issue-chapters (population/settlement, tourism, agriculture, marine resources), each run the same way — nature, problems, ways of minimising, contemporary issues, future — with Pacific/Fiji theme-country cases.

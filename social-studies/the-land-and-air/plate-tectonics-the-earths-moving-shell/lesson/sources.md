@@ -1,6 +1,6 @@
 # Sources — Plate tectonics — the Earth's moving shell
 
-countries: Ethiopia, Micronesia, Barbados, Guatemala, Costa Rica, Indonesia, Dominican Republic, Samoa, Malaysia, United Kingdom, Cambodia
+countries: Ethiopia, Micronesia, Barbados, Guatemala, Costa Rica, Indonesia, Dominican Republic, Samoa, Malaysia, United Kingdom, Cambodia, Fiji
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -26,6 +26,10 @@ countries: Ethiopia, Micronesia, Barbados, Guatemala, Costa Rica, Indonesia, Dom
 
 **Book 12:** *ផែនដីវិទ្យា ថ្នាក់ទី១១ (Earth Science, Grade 11)* (student book, Khmer) — Cambodia, MoEYS Publishing and Distribution House; year 2020 (11th printing); ISBN 978-995-001-049 (printed as 9-789-995-001-049). Title as printed: ផែនដីវិទ្យា ថ្នាក់ទី១១ (Earth Science, Grade 11) — Sala 00004283. Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 208. Verdict: COMPLETE. All books are Khmer-language MoEYS textbooks whose embedded text layer uses a legacy font encoding (pdftotext output is garbled), so every book was read visually page-by-page from rendered pages (cover, full contents, every chapter/lesson opening, and spreads through each Geography part); Tesseract khm OCR was attempted first and abandoned (>2 min/page on this host). Read in place from phase3-staging (on_disk) except the Grade 9 Geography excerpt and the Grades 10-12 Geography combined record, grabbed from the textbooks repo with grab.py. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cambodia-placements.md.
 
+**Book 13:** *Social Science Year 10 — Global Perspectives, Local Interaction (PRE CDU 2015 printing)* (student book, English) — Fiji, Curriculum Development Unit, Ministry of Education, Suva; year 2013; ISBN no ISBN printed. Title as printed: Social Science Year 10 — Global Perspectives, Local Interaction (PRE CDU 2015 printing). Grade: Year 10 (student/teacher: STUDENT). PDF pages: 101 (cover/title page verified against the record title). Verdict: COMPLETE. Acquisition note: read from the books.json record's own Wayback source_url (ministry original) after the grab.py GitHub API route failed as in Book 1. Non-Geography parts named, not placed: Chapter 1 Social Organization and Processes — government and democracy, parliamentary rule, the United Nations (printed pp. 6–25); Chapter 2 Time, Continuity and Change — History of Fiji, cession to independence 1874–1970 (pp. 26–53). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
+
+**Book 14:** *Physical Geography — Year 11 & 12* (student book, English) — Fiji, Curriculum Development Unit, Ministry of Education, Fiji; year 2014; ISBN no ISBN printed. Title as printed: Physical Geography — Year 11 & 12. Grade: Years 11–12 (student/teacher: STUDENT). PDF pages: 127 (cover/title page verified against the record title). Verdict: COMPLETE. Acquisition note: read from the books.json record's own Wayback source_url (ministry original; download resumed twice after timed-out partial files) after the grab.py GitHub API route failed as in Book 1. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Lithosphere on asthenosphere | G12 student #6, printed pp. 5–7 |
@@ -42,8 +46,10 @@ countries: Ethiopia, Micronesia, Barbados, Guatemala, Costa Rica, Indonesia, Dom
 | United Kingdom part — §2.1 Distribution of earthquakes and volcanoes | United Kingdom, *United Kingdom Grade 10 AQA Geography Student Book*, §2.1 Distribution of earthquakes and volcanoes — printed p. 10 |
 | United Kingdom part — §2.2 Physical processes at plate margins | United Kingdom, *United Kingdom Grade 10 AQA Geography Student Book*, §2.2 Physical processes at plate margins — printed p. 12 |
 | Cambodia part — Ch.1 L4 ផ្ទាកពីចលនីច (plate tectonics — Wegener and the Africa–South America fit) [placement slug: earth-and-space/continents-on-the-move-plate-tectonics] | Cambodia, *Cambodia Grade 11 Earth Science*, Ch.1 L4 ផ្ទាកពីចលនីច (plate tectonics — Wegener and the Africa–South America fit) — printed p. 24 |
+| Fiji part — Chapter 3 Place and Environment, Geography of Fiji: plate tectonics and Fiji | Fiji, *Fiji Year 10 Social Science*, Chapter 3 Place and Environment, Geography of Fiji: plate tectonics and Fiji — printed p. 55 |
+| Fiji part — Chapter 4 Relief – Fiji opening: plate tectonics (lithosphere plates moving over the upper mantle; volcanoes and earthquakes as evidence) | Fiji, *Fiji Years 11–12 Physical Geography*, Chapter 4 Relief – Fiji opening: plate tectonics (lithosphere plates moving over the upper mantle; volcanoes and earthquakes as evidence) — printed p. 49 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Micronesia, Barbados, Guatemala, Costa Rica, Indonesia, Dominican Republic, Samoa, Malaysia, United Kingdom, Cambodia).**
+**Acceptance count: taught in 12 countries (Ethiopia, Micronesia, Barbados, Guatemala, Costa Rica, Indonesia, Dominican Republic, Samoa, Malaysia, United Kingdom, Cambodia, Fiji).**
 
 Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -68,3 +74,7 @@ Malaysia's own way (MY T4 Geografi Tingkatan 4): upper-secondary Geography is a 
 United Kingdom's own way: A single exam-board (AQA) GCSE textbook organised as thematic units with numbered two-page spreads, every big topic anchored to a named case study (Typhoon Haiyan, Somerset Levels, Rio de Janeiro, Bristol, Nigeria, the Indus Basin, Lesotho Highlands) and a final unit on issue evaluation, fieldwork enquiries and cartographic/graphical/statistical skills.
 
 Cambodia's own way (Cambodia Grade 11 Earth Science): Earth Science is Cambodia's physical-geography strand — planet Earth and plate tectonics, water, a full atmosphere-and-climate course (ending with Cambodia's own weather and climate change), and the environment.
+
+Fiji's own way (Fiji Year 10 Social Science): Year 10 is the foundation for senior Geography and History — Fiji's own physical geography (tectonics, relief, rivers, climate, soils) taught in full, then its industries, population and urbanisation, all with Fiji data.
+
+Fiji's own way (Fiji Years 11–12 Physical Geography): The physical volume is comparative — every theme (climate, relief, soil, vegetation, hazards) is taught twice, New Zealand first, then Fiji (Monsoon Asia for hazards), so Fiji's land is always read against a temperate and a monsoon case.

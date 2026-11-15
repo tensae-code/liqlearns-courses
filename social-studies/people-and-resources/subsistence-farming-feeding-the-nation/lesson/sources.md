@@ -1,6 +1,6 @@
 # Sources — Subsistence farming — feeding the nation
 
-countries: Ethiopia, Nauru, Tuvalu, Niue, India, Cambodia
+countries: Ethiopia, Nauru, Tuvalu, Niue, India, Cambodia, Fiji
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Nauru, Tuvalu, Niue, India, Cambodia
 
 **Book 7:** *សិក្សាសង្គម ថ្នាក់ទី៧ (Social Studies, Grade 7)* (student book, Khmer) — Cambodia, MoEYS Publishing and Distribution House; year 2020 (14th printing); ISBN 978-995-000-820 (printed as 9-789-995-000-820). Title as printed: សិក្សាសង្គម ថ្នាក់ទី៧ (Social Studies, Grade 7) — Sala 00004321. Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 304. Verdict: COMPLETE. All books are Khmer-language MoEYS textbooks whose embedded text layer uses a legacy font encoding (pdftotext output is garbled), so every book was read visually page-by-page from rendered pages (cover, full contents, every chapter/lesson opening, and spreads through each Geography part); Tesseract khm OCR was attempted first and abandoned (>2 min/page on this host). Read in place from phase3-staging (on_disk) except the Grade 9 Geography excerpt and the Grades 10-12 Geography combined record, grabbed from the textbooks repo with grab.py. Non-Geography parts named, not placed: History section (ប្រវត្តិវិទ្យា, printed pp.76–150: ancient world — Egypt, Mesopotamia, Israel, India, China, Rome, ancient America; Cambodia — prehistory, Funan 50–550, Chenla 550–802; regional Asia); Civics section (សីលធម៌ ពលរដ្ឋវិទ្យា, printed pp.152–246: gender and human rights, friendship, family, living with the community, goal-setting for life, Buddhism and Hinduism); Economics section (សេដ្ឋវិទ្យា, printed pp.248–302: needs and money, work, government and the economy, economic security and hygiene). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cambodia-placements.md.
 
+**Book 8:** *An Introduction to Human Geography for Year 11 and Year 12 Students (record title: "Year 11 and Year 12 Geography")* (student book, English) — Fiji, Ministry of Education, Fiji; year 2015, First Edition (written and compiled by Maciu Rika and Elina Vosaicake); ISBN no ISBN printed. Title as printed: An Introduction to Human Geography for Year 11 and Year 12 Students (record title: "Year 11 and Year 12 Geography"). Grade: Years 11–12 (student/teacher: STUDENT). PDF pages: 92 (cover/title page verified against the record title). Verdict: COMPLETE. Acquisition note: read from the books.json record's own Wayback source_url (ministry original) after the grab.py GitHub API route failed as in Book 1. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Its character | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 5, printed pp. 132–134 |
@@ -26,8 +28,9 @@ countries: Ethiopia, Nauru, Tuvalu, Niue, India, Cambodia
 | Niue part — How people farmed sustainably in the past (subsistence, shifting cultivation and fallowing; 8–10 years for land to regenerate) (placement target culture-and-work/subsistence-farming-shifting-cultivation-and-fallowing — stocked here as the closest existing lesson) | Niue, *People and the Natural Environment in the Pacific*, Grade 5, How people farmed sustainably in the past (subsistence, shifting cultivation and fallowing; 8–10 years for land to regenerate) — printed p. 15 |
 | India part (Grade 8 Resources and Development) — Ch.4: intensive subsistence agriculture and where it is practised | India, *India Grade 8 Resources and Development*, Ch.4: intensive subsistence agriculture and where it is practised — printed p. 39 |
 | Cambodia part — Geography Ch.1 L5 កសិករនៅអាស៊ីមូសុង (farmers in monsoon Asia — wet rice) | Cambodia, *Cambodia Grade 7 Social Studies*, Geography Ch.1 L5 កសិករនៅអាស៊ីមូសុង (farmers in monsoon Asia — wet rice) — printed p. 18 |
+| Fiji part — 3.1.3 Subsistence and commercial agriculture (with 3.1.5 importance of agriculture) | Fiji, *Fiji Years 11–12 Geography*, 3.1.3 Subsistence and commercial agriculture (with 3.1.5 importance of agriculture) — printed p. 52 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Nauru, Tuvalu, Niue, India, Cambodia).**
+**Acceptance count: taught in 7 countries (Ethiopia, Nauru, Tuvalu, Niue, India, Cambodia, Fiji).**
 
 Niue's own way: Niue uses the shared Pacific ESD reader suite (Niue advisor Birtha Togahai) — land Geography is taught through Pacific farming itself: taro, pulaka and the coconut "tree of life", with Niue's own crops, exports and name-story ("behold the coconut") as anchor examples, and shifting cultivation/fallowing taught as sound science. That way is stocked here as the way Niue teaches this thing.
 
@@ -40,3 +43,5 @@ Searchable tags: subsistence farming, smallholder, rain-fed, mixed farming, soci
 India's own way (Grade 8 Resources and Development): Grade 8 is a resources year, world-first but India-anchored throughout: resources and their conservation, then land/soil/water/vegetation, minerals and power, agriculture, industries and human resources — every world pattern is paired with its Indian distribution map and an Indian case study (Jamshedpur steel, Ahmedabad textiles, Bangalore IT, a farm in India set against a farm in the USA).
 
 Cambodia's own way (Cambodia Grade 7 Social Studies): from Grade 7 the combined Social Studies book splits into four named subject sections; its Geography section teaches people-in-environments — hot zones, deserts and oases, polar peoples, climate zones — through world case studies (Kenya farmers, Amazon, Inuit, Sahara oil) before turning to world population.
+
+Fiji's own way (Fiji Years 11–12 Geography): Senior geography splits into Human and Physical volumes; the human volume is organised as four issue-chapters (population/settlement, tourism, agriculture, marine resources), each run the same way — nature, problems, ways of minimising, contemporary issues, future — with Pacific/Fiji theme-country cases.

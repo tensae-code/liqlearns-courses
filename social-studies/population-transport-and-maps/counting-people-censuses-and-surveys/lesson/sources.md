@@ -1,6 +1,6 @@
 # Sources — Counting people — censuses and surveys
 
-countries: Ethiopia, Bolivia, Dominican Republic, Samoa, India, Rwanda
+countries: Ethiopia, Bolivia, Dominican Republic, Samoa, India, Rwanda, Fiji
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -24,6 +24,8 @@ countries: Ethiopia, Bolivia, Dominican Republic, Samoa, India, Rwanda
 
 **Book 11:** *Primary Learner's Social Studies for Rwanda Schools, P5, Revised Edition 2019* (student book, English) — Rwanda, Rwanda Education Board (REB); year ©2019, Revised Edition 2019; ISBN no ISBN printed. Title as printed: Primary Learner's Social Studies for Rwanda Schools, P5, Revised Edition 2019. Grade: Grade 5 (Primary 5) (student/teacher: STUDENT). PDF pages: 75 (condensed-layout copy; printed pagination runs to p. 129 — cover verified against the record title; byte size 28,584,194 matches the edufeeds source's Content-Length exactly; read from the record's own source URL after grab.py failed with GitHub API RemoteDisconnected; the TSV release record is the same book). Verdict: COMPLETE. Non-Geography parts named, not placed: Unit 2 Complementarity and social cohesion in society, incl. human rights, conflict management, peace, harmony and disharmony (Civics), printed pp. 13–24; Unit 3 Hygiene and sanitation, incl. diseases (Health), pp. 25–40; Unit 4 Civics and governance, incl. Rwanda as an independent nation and leadership in our province (Civics), pp. 41–52; Unit 10 Colonial Rwanda (History), pp. 112–129. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/rwanda-placements.md.
 
+**Book 12:** *Year 13 Integrative Geography* (student book, English) — Fiji, Curriculum Development Unit, Ministry of Education, Fiji; year 2018; ISBN no ISBN printed. Title as printed: Year 13 Integrative Geography. Grade: Year 13 (student/teacher: STUDENT). PDF pages: 263 (cover/title page verified against the record title; bibliography at printed p. 258 confirms the file is complete). Verdict: COMPLETE. Acquisition note: read from the books.json record's own source_url (Google Drive file named in the record; download resumed after a first timed-out partial file) after the grab.py GitHub API route failed as in Book 1. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What population means | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 4, printed pp. 86–88 |
@@ -38,8 +40,9 @@ countries: Ethiopia, Bolivia, Dominican Republic, Samoa, India, Rwanda
 | India part (Grade 9 Contemporary India-I) — Ch.6 Population: India's population size and the Census | India, *India Grade 9 Contemporary India-I*, Ch.6 Population: India's population size and the Census — printed p. 53 |
 | Rwanda part — Abaturage: counting the people of the village where the school is — all residents, children, women, men, primary pupils — by a study visit to ask the village leader (Unit 7) | Rwanda, *Rwanda Grade 3 Amasomo Mbonezamubano SB*, Abaturage: counting the people of the village where the school is — all residents, children, women, men, primary pupils — by a study visit to ask the village leader (Unit 7) — printed p. 120 |
 | Rwanda part — 8.4 Population census (Unit 8) | Rwanda, *Rwanda Grade 5 Social Studies SB*, 8.4 Population census (Unit 8) — printed p. 95 |
+| Fiji part — Chapter 6 Population: demography and population study; the population census; why population data is needed for national development planning | Fiji, *Fiji Year 13 Geography*, Chapter 6 Population: demography and population study; the population census; why population data is needed for national development planning — printed p. 162 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Bolivia, Dominican Republic, Samoa, India, Rwanda).**
+**Acceptance count: taught in 7 countries (Ethiopia, Bolivia, Dominican Republic, Samoa, India, Rwanda, Fiji).**
 
 Bolivia's own way (Grade 8, Secundaria 2): Secundaria 2 is the colonial-history year, so geography enters through the land itself: the Tawantinsuyo's territorial division into suyos, the Amazonian hydraulic cultures who farmed a flooding landscape with raised beds and purified water, the ayllu-versus-hacienda struggle over communal land, and where Afro-Bolivian communities settled in the Yungas.
 
@@ -60,3 +63,5 @@ India's own way (Grade 9 Contemporary India-I): From Grade 9 the Geography book 
 Rwanda's own way (Rwanda Grade 3 Amasomo Mbonezamubano SB): P3 moves the home ground up one rung of Rwanda's administrative ladder, from the cell to the SECTOR (Umurenge) — and it is here, at age 8–9, that formal map work begins: the sector map of Gikomero, the district map of Gasabo, symbols, scale, and the sectors that share a border with ours.
 
 Rwanda's own way (Rwanda Grade 5 Social Studies SB): the pupil's book teaches the province through named Rwandan things — the five provinces with Kigali City as the case study, Rwanda's four seasons by their Kinyarwanda names (Umuhindo, Urugaryi, Itumba, Icyi), and the country's two international airports (Kigali and Kamembe) in the transport-places lesson.
+
+Fiji's own way (Fiji Year 13 Geography): The final year integrates everything at advanced level (plate tectonics to urban models, largely from world texts such as Waugh) and then lands it in Chapter 8, South Pacific Islands Geography — Oceania's geology, island types, development prospects and regionalism.

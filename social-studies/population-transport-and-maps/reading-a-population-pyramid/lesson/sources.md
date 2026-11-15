@@ -1,6 +1,6 @@
 # Sources — Reading a population pyramid
 
-countries: Ethiopia, Barbados, Haiti, Turkmenistan, Indonesia, Dominican Republic, Malaysia, India, United Kingdom, Cambodia
+countries: Ethiopia, Barbados, Haiti, Turkmenistan, Indonesia, Dominican Republic, Malaysia, India, United Kingdom, Cambodia, Fiji
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -24,6 +24,8 @@ countries: Ethiopia, Barbados, Haiti, Turkmenistan, Indonesia, Dominican Republi
 
 **Book 11:** *ភូមិវិទ្យា ថ្នាក់ទី១២ (Geography, Grade 12)* (student book, Khmer) — Cambodia, MoEYS Publishing and Distribution House; year 2020 printing (colophon page carries the same MoEYS imprint as the Grade 11 volumes); ISBN no ISBN captured on the pages rendered. Title as printed: ភូមិវិទ្យា ថ្នាក់ទី១២ (Geography, Grade 12) — Sala 00004276. Grade: Grade 12 (student/teacher: STUDENT). PDF pages: 209 (title page verified against the record title; the record itself carried no page count). Verdict: COMPLETE. All books are Khmer-language MoEYS textbooks whose embedded text layer uses a legacy font encoding (pdftotext output is garbled), so every book was read visually page-by-page from rendered pages (cover, full contents, every chapter/lesson opening, and spreads through each Geography part); Tesseract khm OCR was attempted first and abandoned (>2 min/page on this host). Read in place from phase3-staging (on_disk) except the Grade 9 Geography excerpt and the Grades 10-12 Geography combined record, grabbed from the textbooks repo with grab.py. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cambodia-placements.md.
 
+**Book 12:** *An Introduction to Human Geography for Year 11 and Year 12 Students (record title: "Year 11 and Year 12 Geography")* (student book, English) — Fiji, Ministry of Education, Fiji; year 2015, First Edition (written and compiled by Maciu Rika and Elina Vosaicake); ISBN no ISBN printed. Title as printed: An Introduction to Human Geography for Year 11 and Year 12 Students (record title: "Year 11 and Year 12 Geography"). Grade: Years 11–12 (student/teacher: STUDENT). PDF pages: 92 (cover/title page verified against the record title). Verdict: COMPLETE. Acquisition note: read from the books.json record's own Wayback source_url (ministry original) after the grab.py GitHub API route failed as in Book 1. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The pyramid’s shape | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 4, printed pp. 91–94 |
@@ -39,8 +41,9 @@ countries: Ethiopia, Barbados, Haiti, Turkmenistan, Indonesia, Dominican Republi
 | India part (Grade 8 Resources and Development) — Ch.6: population composition and the age-sex (population) pyramid | India, *India Grade 8 Resources and Development*, Ch.6: population composition and the age-sex (population) pyramid — printed p. 68 |
 | United Kingdom part — §16.4 Changing population structures | United Kingdom, *United Kingdom Grade 10 AQA Geography Student Book*, §16.4 Changing population structures — printed p. 200 |
 | Cambodia part — Ch.1 L1 ទម្រង់ប្រជាសាស្ត្រកម្ពុជា (Cambodia's population structure) [placement slug: population-transport-and-maps/population-structure-age-sex-and-pyramids] | Cambodia, *Cambodia Grade 12 Geography*, Ch.1 L1 ទម្រង់ប្រជាសាស្ត្រកម្ពុជា (Cambodia's population structure) — printed p. 2 |
+| Fiji part — 1.1.3 Population Graphs | Fiji, *Fiji Years 11–12 Geography*, 1.1.3 Population Graphs — printed p. 12 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Barbados, Turkmenistan, Indonesia, Dominican Republic, Malaysia, India, United Kingdom, Cambodia). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 10 countries (Ethiopia, Barbados, Turkmenistan, Indonesia, Dominican Republic, Malaysia, India, United Kingdom, Cambodia, Fiji). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
 
 Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -61,3 +64,5 @@ India's own way (Grade 8 Resources and Development): Grade 8 is a resources year
 United Kingdom's own way: A single exam-board (AQA) GCSE textbook organised as thematic units with numbered two-page spreads, every big topic anchored to a named case study (Typhoon Haiyan, Somerset Levels, Rio de Janeiro, Bristol, Nigeria, the Indus Basin, Lesotho Highlands) and a final unit on issue evaluation, fieldwork enquiries and cartographic/graphical/statistical skills.
 
 Cambodia's own way (Cambodia Grade 12 Geography): the final Geography year is economic geography — Cambodia's population, inequalities, farm/industry/energy/trade/tourism economy and urbanisation first, then the world's economic poles studied one by one: the USA, Japan and the European Union.
+
+Fiji's own way (Fiji Years 11–12 Geography): Senior geography splits into Human and Physical volumes; the human volume is organised as four issue-chapters (population/settlement, tourism, agriculture, marine resources), each run the same way — nature, problems, ways of minimising, contemporary issues, future — with Pacific/Fiji theme-country cases.

@@ -1,6 +1,6 @@
 # Sources — River landforms — from V-valley to delta
 
-countries: Ethiopia, Barbados, Malaysia, India, United Kingdom
+countries: Ethiopia, Barbados, Malaysia, India, United Kingdom, Fiji
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Barbados, Malaysia, India, United Kingdom
 
 **Book 6:** *GCSE Geography AQA (Student Book)* (student book, English) — United Kingdom, Oxford University Press; year 2016; ISBN 978-0-19-836661-4; authors Nicholas Rowles, David Holmes, Bob Digby; series editor Simon Ross. Title as printed: GCSE Geography AQA (Student Book). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 356 (record figure; printed book pagination used in the rows below). Verdict: COMPLETE. Records note: 2 records / 1 distinct book (TSV release record + books.json record for the same book) / read via the book's archive.org source (archive.org item gcse-aqa-geography-student-book: EPUB + full OCR text of the same 355.2 MiB PDF whose byte size matches the books.json record's 372,407,314 bytes; title page and ISBN page verified from that OCR text) — the 372 MB GitHub release copy itself was not re-downloaded; the identical archive.org scan was read instead (all 24 chapters, contents pp. 4-5, glossary p. 346, index p. 350) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/united-kingdom-placements.md.
 
+**Book 7:** *Year 13 Integrative Geography* (student book, English) — Fiji, Curriculum Development Unit, Ministry of Education, Fiji; year 2018; ISBN no ISBN printed. Title as printed: Year 13 Integrative Geography. Grade: Year 13 (student/teacher: STUDENT). PDF pages: 263 (cover/title page verified against the record title; bibliography at printed p. 258 confirms the file is complete). Verdict: COMPLETE. Acquisition note: read from the books.json record's own source_url (Google Drive file named in the record; download resumed after a first timed-out partial file) after the grab.py GitHub API route failed as in Book 1. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Upper and middle courses | G12 student #22, printed pp. 28–29 |
@@ -23,8 +25,9 @@ countries: Ethiopia, Barbados, Malaysia, India, United Kingdom
 | Malaysia part (MY T4 Geografi Tingkatan 4) — Bab 9 Pembentukan dan Kelestarian Sungai: river formation; erosion, transport and deposition; landforms of the upper, middle and lower courses | Malaysia, *MY T4 Geografi*, Bab 9 Pembentukan dan Kelestarian Sungai: river formation; erosion, transport and deposition; landforms of the upper, middle and lower courses — printed pp. 114-124 |
 | India part (Grade 7 Our Environment) — Ch.3: waterfalls, meanders, ox-bow lakes, flood plains, levees and deltas — work of a river | India, *India Grade 7 Our Environment*, Ch.3: waterfalls, meanders, ox-bow lakes, flood plains, levees and deltas — work of a river — printed p. 15 |
 | United Kingdom part — §11.3-11.4 River erosion and deposition landforms | United Kingdom, *United Kingdom Grade 10 AQA Geography Student Book*, §11.3-11.4 River erosion and deposition landforms — printed pp. 118-120 |
+| Fiji part — Chapter 1: how landforms are modified — weathering, erosion (hydraulic action, attrition, corrasion, corrosion), transport and deposition; river landscapes and landforms from source to mouth | Fiji, *Fiji Year 13 Geography*, Chapter 1: how landforms are modified — weathering, erosion (hydraulic action, attrition, corrasion, corrosion), transport and deposition; river landscapes and landforms from source to mouth — printed p. 36 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Barbados, Malaysia, India, United Kingdom).**
+**Acceptance count: taught in 6 countries (Ethiopia, Barbados, Malaysia, India, United Kingdom, Fiji).**
 
 Barbados's own way: this is the shared Caribbean CSEC examination textbook used in Barbados — every world process is re-taught through Caribbean case studies (the Caribbean plate, Montserrat's volcano, Jamaica's coasts and Kingston's urban problems, St Lucia's reefs, Bahamas/Jamaica/Puerto Rico karst, Guyana's rivers), map and field skills are folded into the chapters, and the course ends in a School-Based Assessment fieldwork project. That way is stocked here as the way Barbados teaches this thing; it does not change the acceptance count above.
 
@@ -39,3 +42,5 @@ Malaysia's own way (MY T4 Geografi Tingkatan 4): upper-secondary Geography is a 
 India's own way (Grade 7 Our Environment): Grade 7 is organised around "environment" in widening rings — the concept itself, then inside/changing Earth, air and water, world vegetation belts, human settlement and transport, and finally three lived-in region studies (Amazon basin, Ganga-Brahmaputra basin, Sahara and Ladakh deserts) where all the strands meet in real places.
 
 United Kingdom's own way: A single exam-board (AQA) GCSE textbook organised as thematic units with numbered two-page spreads, every big topic anchored to a named case study (Typhoon Haiyan, Somerset Levels, Rio de Janeiro, Bristol, Nigeria, the Indus Basin, Lesotho Highlands) and a final unit on issue evaluation, fieldwork enquiries and cartographic/graphical/statistical skills.
+
+Fiji's own way (Fiji Year 13 Geography): The final year integrates everything at advanced level (plate tectonics to urban models, largely from world texts such as Waugh) and then lands it in Chapter 8, South Pacific Islands Geography — Oceania's geology, island types, development prospects and regionalism.

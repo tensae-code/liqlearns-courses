@@ -1,6 +1,6 @@
 # Sources — Continental drift — Wegener and Pangaea
 
-countries: Ethiopia, Bolivia, Dominican Republic
+countries: Ethiopia, Bolivia, Dominican Republic, Fiji
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Bolivia, Dominican Republic
 
 **Book 4:** *Ciencias Sociales — Cuarto Grado, Segundo Ciclo, Educación Secundaria (Libro Abierto, Serie 1, segunda edición)* (student book, Spanish) — Dominican Republic, Ministerio de Educación (MINERD), República Dominicana; Libro Abierto Serie 1, second edition; ISBN 978-9945-646-76-4 (printed in the book). Title as printed: Ciencias Sociales — Cuarto Grado, Segundo Ciclo, Educación Secundaria (Libro Abierto, Serie 1, segunda edición). Grade 10 (student). 208 PDF pp. (cover verified against the record title; byte size 36,649,537 matches the GitHub release asset exactly and page count matches the record). Verdict: COMPLETE (combined book — Geography parts placed below; History parts named in the placements, not placed: Unidad 5 La historia como ciencia, printed p. 74; Unidad 6 Los prolongados inicios de la humanidad, p. 90; Unidad 7 La antigüedad clásica europea, p. 106; Unidad 8 Gestación del mundo moderno, p. 122; Unidad 9 Primacía de Europa sobre el mundo, p. 138; Unidad 10 Modernidad y capitalismo, p. 144). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/dominican-republic-placements.md.
 
+**Book 5:** *Year 13 Integrative Geography* (student book, English) — Fiji, Curriculum Development Unit, Ministry of Education, Fiji; year 2018; ISBN no ISBN printed. Title as printed: Year 13 Integrative Geography. Grade: Year 13 (student/teacher: STUDENT). PDF pages: 263 (cover/title page verified against the record title; bibliography at printed p. 258 confirms the file is complete). Verdict: COMPLETE. Acquisition note: read from the books.json record's own source_url (Google Drive file named in the record; download resumed after a first timed-out partial file) after the grab.py GitHub API route failed as in Book 1. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Pangaea — the one land | G12 student #3, printed pp. 2–3 |
@@ -17,8 +19,9 @@ countries: Ethiopia, Bolivia, Dominican Republic
 | Bolivia part — From Pangaea to the formation of the continents | Bolivia, *Texto de Aprendizaje — Ciencias Sociales, Secundaria 1*, Grade 7, From Pangaea to the formation of the continents — printed p. 16 |
 | Bolivia part — From Pangaea to the formation of the continents (teacher guidance, Secundaria 1) (teacher guide — evidence) | Bolivia, *Compendio para Maestras y Maestros, Área Ciencias Sociales* (teacher guide), Grade 7 (record grade; teacher guidance), From Pangaea to the formation of the continents (teacher guidance, Secundaria 1) — printed p. 16 |
 | Dominican Republic part (Grade 10) — Antecedents of the continental-drift theory (Unidad 2: La deriva continental) | Dominican Republic, *Ciencias Sociales, Cuarto Grado, Secundaria (Libro Abierto)*, Grade 10, Antecedents of the continental-drift theory (Unidad 2: La deriva continental) — printed p. 26 |
+| Fiji part — Chapter 1: theories of the moving Earth (Wegener's continental drift, 1915) | Fiji, *Fiji Year 13 Geography*, Chapter 1: theories of the moving Earth (Wegener's continental drift, 1915) — printed p. 6 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Bolivia, Dominican Republic).**
+**Acceptance count: taught in 4 countries (Ethiopia, Bolivia, Dominican Republic, Fiji).**
 
 No book error in the placements for this lesson is taught here. Figures and dates are taught exactly as the placements report them, as the book's own record.
 
@@ -29,3 +32,5 @@ Bolivia's own way (teacher guide — evidence): The teacher compendium teaches t
 Searchable tags: continental drift, Pangaea, Laurasia, Gondwanaland, Wegener, social studies, Bolivia, Ciencias Sociales Bolivia, teacher guide evidence
 
 Dominican Republic's own way (Grade 10): This is the physical-geography year: the universe and Earth's layers, continental drift with volcanoes and earthquakes — including earthquake-prevention measures as a group task — water and winds across the continents, and a closing unit on political and economic geography that treats borders, geopolitical order and international climate agreements as geography, with hurricane-season citizen responsibility as the water unit's group activity.
+
+Fiji's own way (Fiji Year 13 Geography): The final year integrates everything at advanced level (plate tectonics to urban models, largely from world texts such as Waugh) and then lands it in Chapter 8, South Pacific Islands Geography — Oceania's geology, island types, development prospects and regionalism.

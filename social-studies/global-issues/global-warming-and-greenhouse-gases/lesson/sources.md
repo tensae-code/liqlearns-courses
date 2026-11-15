@@ -1,6 +1,6 @@
 # Sources — Global warming and greenhouse gases
 
-countries: Ethiopia, Costa Rica, Bangladesh, Indonesia, Malaysia, Cambodia
+countries: Ethiopia, Costa Rica, Bangladesh, Indonesia, Malaysia, Cambodia, Fiji
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Costa Rica, Bangladesh, Indonesia, Malaysia, Cambodia
 
 **Book 6:** *ផែនដីវិទ្យា ថ្នាក់ទី១១ (Earth Science, Grade 11)* (student book, Khmer) — Cambodia, MoEYS Publishing and Distribution House; year 2020 (11th printing); ISBN 978-995-001-049 (printed as 9-789-995-001-049). Title as printed: ផែនដីវិទ្យា ថ្នាក់ទី១១ (Earth Science, Grade 11) — Sala 00004283. Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 208. Verdict: COMPLETE. All books are Khmer-language MoEYS textbooks whose embedded text layer uses a legacy font encoding (pdftotext output is garbled), so every book was read visually page-by-page from rendered pages (cover, full contents, every chapter/lesson opening, and spreads through each Geography part); Tesseract khm OCR was attempted first and abandoned (>2 min/page on this host). Read in place from phase3-staging (on_disk) except the Grade 9 Geography excerpt and the Grades 10-12 Geography combined record, grabbed from the textbooks repo with grab.py. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cambodia-placements.md.
 
+**Book 7:** *Exploring the World — Year 8 Pupil's Book* (student book, English) — Fiji, Ministry of Education, Fiji (Curriculum Development Unit); year 2015; ISBN no ISBN printed. Title as printed: Exploring the World — Year 8 Pupil's Book. Grade: Year 8 (student/teacher: STUDENT). PDF pages: 73 (title page verified against the record title — the title page itself notes the cover page is held separately; all teaching content present). Verdict: PARTIAL — cover art page absent from the file; all teaching content present. Acquisition note: read from the books.json record's own Wayback source_url (ministry original) after the grab.py GitHub API route failed as in Book 1. Non-Geography parts named, not placed: Unit 1 Social Organisation and Processes — world organisations, personal/social groups, cultural identity and cohesion (printed pp. 7–24); Unit 2 Time, Continuity and Change — understanding the past and continuity and change in world history (pp. 25–36). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The greenhouse effect | Ethiopia, *Economics, Student Textbook, Grade 12*, Unit 8 — Economy, Environment and Climate Change, printed pp. 189–191 |
@@ -24,8 +26,9 @@ countries: Ethiopia, Costa Rica, Bangladesh, Indonesia, Malaysia, Cambodia
 | Indonesia part (Grade 11) — Bab 3 I.E Masalah lingkungan: global warming | Indonesia, *Geografi untuk SMA Kelas XI*, Grade 11, Bab 3 I.E Masalah lingkungan: global warming — printed p. 125 |
 | Malaysia part (MY T2 Geografi Tingkatan 2) — Bab 9 Pemanasan Global: meaning and factors of global warming | Malaysia, *MY T2 Geografi*, Bab 9 Pemanasan Global: meaning and factors of global warming — printed pp. 136-141 |
 | Cambodia part — Ch.4 L3 ប្រព័ន្ធនៃការប្រែប្រួលបរិស្ថានលើភពផែនដី (systems of environmental change on Earth) [placement slug: global-issues/climate-change-a-warming-world] | Cambodia, *Cambodia Grade 11 Earth Science*, Ch.4 L3 ប្រព័ន្ធនៃការប្រែប្រួលបរិស្ថានលើភពផែនដី (systems of environmental change on Earth) — printed p. 186 |
+| Fiji part — 3.2 People and Care of Places: the climate is changing (global warming, human causes, IPCC and the UN climate convention) | Fiji, *Fiji Year 8 Social Science*, 3.2 People and Care of Places: the climate is changing (global warming, human causes, IPCC and the UN climate convention) — printed p. 44 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Costa Rica, Bangladesh, Indonesia, Malaysia, Cambodia).**
+**Acceptance count: taught in 7 countries (Ethiopia, Costa Rica, Bangladesh, Indonesia, Malaysia, Cambodia, Fiji).**
 
 Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -42,3 +45,5 @@ Bangladesh's own way (Grade 6): an inquiry-based combined History and Social Sci
 Malaysia's own way (MY T2 Geografi Tingkatan 2): the year pairs map skills (scale, topographic maps) with weather and climate, then transport and telecommunications as the human-geography core, an Asia regional study, and global warming with green technology as the environmental close.
 
 Cambodia's own way (Cambodia Grade 11 Earth Science): Earth Science is Cambodia's physical-geography strand — planet Earth and plate tectonics, water, a full atmosphere-and-climate course (ending with Cambodia's own weather and climate change), and the environment.
+
+Fiji's own way (Fiji Year 8 Social Science): Year 8 turns fully outward — "Exploring the World": world climate zones read from Fiji's tropical position, then global warming, resource management (including money and time) and globalisation from a Fiji/Pacific viewpoint.

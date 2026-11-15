@@ -1,6 +1,6 @@
 # Sources — Four-figure grid references
 
-countries: Ethiopia, Jamaica, Malaysia
+countries: Ethiopia, Jamaica, Malaysia, Fiji
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Jamaica, Malaysia
 
 **Book 4:** *Geografi Tingkatan 2, Buku Teks (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Kementerian Pendidikan Malaysia (Ministry of Education Malaysia); produced by IMS Books Trading Sdn. Bhd.; year 2017 (first printing 2017); ISBN 978-967-0463-47-6. Title as printed: Geografi Tingkatan 2, Buku Teks (Kurikulum Standard Sekolah Menengah, KSSM). Grade 8 / Tingkatan 2 (student/teacher: STUDENT). PDF pages: 176 (cover verified against the record title — "GEOGRAFI TINGKATAN 2"; printed pagination per the book's contents). Verdict: COMPLETE. Records note: covers both Tingkatan 2 records — the TSV release record (mid-size-books-2, read here, 77,312,329 bytes) and the books.json record, whose tree path does not exist in the repo tree (release asset only, as for Tingkatan 1). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/malaysia-placements.md.
 
+**Book 5:** *Rediscovering Society — Social Science Year 9* (student book, English) — Fiji, Curriculum Development Unit, Ministry of Education, National Heritage, Culture & Arts, Suva; year 2013 (copyright 2011); ISBN no ISBN printed. Title as printed: Rediscovering Society — Social Science Year 9. Grade: Year 9 (student/teacher: STUDENT). PDF pages: 162 (cover/title page verified against the record title). Verdict: COMPLETE. Acquisition note: read from the books.json record's own Wayback source_url (ministry original; download resumed after a first timed-out partial file) after the grab.py GitHub API route failed as in Book 1. Non-Geography parts named, not placed: Chapter 1 Social Organisation and Processes — Unit 1 Society and culture (printed pp. 7–36), Unit 2 Community living (pp. 37–62), Unit 3 NGOs and regional organisations (pp. 64–74); Chapter 2 Time, Continuity and Change — Unit 1 History of Fiji, pre-contact to cession (pp. 77–97), Unit 2 Current affairs (pp. 99–100). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Eastings then Northings | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 8, printed pp. 212–214 |
@@ -17,11 +19,14 @@ countries: Ethiopia, Jamaica, Malaysia
 | Teaching pattern and answer keys (teacher guide — evidence) — Grade 9 Unit 8 | Ethiopia, *Geography, Teacher Guide, Grade 9*, Unit 8, guide printed pp. 231–260 |
 | Jamaica part — Term 2 Unit 2: grid systems — creating and using a grid to locate places (curriculum guide — evidence) | Jamaica, *Jamaica Grade 5 JM G5 Exploratory Core*, Term 2 Unit 2: grid systems — creating and using a grid to locate places — printed p. 335 |
 | Malaysia part (MY T2 Geografi Tingkatan 2) — Bab 2.2-2.3: eastings and northings; grid references | Malaysia, *MY T2 Geografi*, Bab 2.2-2.3: eastings and northings; grid references — printed pp. 20-26 |
+| Fiji part — Unit 2 Basic Mapping Skills: the grid system (eastings and northings, four-figure references) | Fiji, *Fiji Year 9 Social Science*, Unit 2 Basic Mapping Skills: the grid system (eastings and northings, four-figure references) — printed p. 112 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Malaysia). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 3 countries (Ethiopia, Malaysia, Fiji). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grade 5 Exploratory Core, curriculum guide — evidence): Grade 5 Social Studies pairs a heritage year (Europeans and Africans, national heroes, Caribbean culture) with a physical-environment year — erosion, locating Jamaica and the Caribbean by compass and latitude/longitude, types of rainfall, the Solar System, plants and water pollution. That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
 Searchable tags: four-figure grid reference, eastings, northings, along the corridor, social studies, Jamaica, curriculum guide evidence
 
 Malaysia's own way (MY T2 Geografi Tingkatan 2): the year pairs map skills (scale, topographic maps) with weather and climate, then transport and telecommunications as the human-geography core, an Asia regional study, and global warming with green technology as the environmental close.
+
+Fiji's own way (Fiji Year 9 Social Science): Secondary geography opens with a full map-skills chapter — grid references, contours and cross-sections practised on Fiji maps — before environment use and conservation, including Pacific methods (shifting cultivation, rotational grazing, appropriate fishing methods).

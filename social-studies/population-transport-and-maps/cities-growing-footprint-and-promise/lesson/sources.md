@@ -1,6 +1,6 @@
 # Sources — Cities growing — footprint and promise
 
-countries: Ethiopia, Turkey, Bangladesh, Turkmenistan, North Macedonia, Cambodia
+countries: Ethiopia, Turkey, Bangladesh, Turkmenistan, North Macedonia, Cambodia, Fiji
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). Editors: Sintayehu Teka (MSc) (Content Editor), Kassie Molla (MA) (Language Editor), Hirut Woldemichael (MA) (Curriculum Editor). Illustrator: Agenchw Nega (MSc). Designer: Geda Hoka (MA). Evaluators: Dereje Guteta (PhD), Tesfaye Shiferaw (PhD), Abebe Yibeltie (MA), Hussein Seid (MA). First published 2023 under GEQIP-E. ISBN 978-99990-0-049-9. Printed by Gravity Group IND LLC, 13th Industrial Area, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. Printed page = PDF page − 6 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Turkey, Bangladesh, Turkmenistan, North Macedonia, Cambodia
 
 **Book 8:** *ភូមិវិទ្យា ថ្នាក់ទី១១ (Geography, Grade 11)* (student book, Khmer) — Cambodia, MoEYS Publishing and Distribution House; year 2020 (11th printing); ISBN 978-995-001-018 (printed as 9-789-995-001-018). Title as printed: ភូមិវិទ្យា ថ្នាក់ទី១១ (Geography, Grade 11) — Sala 00004288. Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 208. Verdict: COMPLETE. All books are Khmer-language MoEYS textbooks whose embedded text layer uses a legacy font encoding (pdftotext output is garbled), so every book was read visually page-by-page from rendered pages (cover, full contents, every chapter/lesson opening, and spreads through each Geography part); Tesseract khm OCR was attempted first and abandoned (>2 min/page on this host). Read in place from phase3-staging (on_disk) except the Grade 9 Geography excerpt and the Grades 10-12 Geography combined record, grabbed from the textbooks repo with grab.py. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cambodia-placements.md.
 
+**Book 9:** *Year 13 Integrative Geography* (student book, English) — Fiji, Curriculum Development Unit, Ministry of Education, Fiji; year 2018; ISBN no ISBN printed. Title as printed: Year 13 Integrative Geography. Grade: Year 13 (student/teacher: STUDENT). PDF pages: 263 (cover/title page verified against the record title; bibliography at printed p. 258 confirms the file is complete). Verdict: COMPLETE. Acquisition note: read from the books.json record's own source_url (Google Drive file named in the record; download resumed after a first timed-out partial file) after the grab.py GitHub API route failed as in Book 1. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What urbanisation is | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 7, printed pp. 161–163 |
@@ -30,8 +32,9 @@ countries: Ethiopia, Turkey, Bangladesh, Turkmenistan, North Macedonia, Cambodia
 | North Macedonia part (Grade 10 mk-g10) — 25. Разместеност на големите градови во светот | North Macedonia, *North Macedonia Grade 10 mk-g10*, 25. Разместеност на големите градови во светот — printed p. 75 |
 | Cambodia part — Geography Ch.1 L3 ទីក្រុងធំៗក្នុងតំបន់ចន្លោះត្រូពិច (big cities in the intertropical zone — Phnom Penh growth) | Cambodia, *Cambodia Grade 7 Social Studies*, Geography Ch.1 L3 ទីក្រុងធំៗក្នុងតំបន់ចន្លោះត្រូពិច (big cities in the intertropical zone — Phnom Penh growth) — printed p. 10 |
 | Cambodia part — Ch.6 L1 ទីក្រុងការរីកដុះដាល មុខងារ និងបញ្ហា (the city — growth, functions and problems; what makes a city) | Cambodia, *Cambodia Grade 11 Geography*, Ch.6 L1 ទីក្រុងការរីកដុះដាល មុខងារ និងបញ្ហា (the city — growth, functions and problems; what makes a city) — printed p. 166 |
+| Fiji part — Chapter 7 Urbanisation: concepts of urbanisation, factors contributing to urban expansion, functions of towns and cities | Fiji, *Fiji Year 13 Geography*, Chapter 7 Urbanisation: concepts of urbanisation, factors contributing to urban expansion, functions of towns and cities — printed p. 199 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Turkey, Bangladesh, Turkmenistan, North Macedonia, Cambodia).**
+**Acceptance count: taught in 7 countries (Ethiopia, Turkey, Bangladesh, Turkmenistan, North Macedonia, Cambodia, Fiji).**
 
 Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
@@ -48,3 +51,5 @@ North Macedonia's own way (Grade 10 mk-g10): the gymnasium course restarts Geogr
 Cambodia's own way (Cambodia Grade 7 Social Studies): from Grade 7 the combined Social Studies book splits into four named subject sections; its Geography section teaches people-in-environments — hot zones, deserts and oases, polar peoples, climate zones — through world case studies (Kenya farmers, Amazon, Inuit, Sahara oil) before turning to world population.
 
 Cambodia's own way (Cambodia Grade 11 Geography): the standalone upper-secondary Geography book is a human-impact course — people reshaping the earth, people destroying natural resources, the sea, pollution of air/water/noise/waste, economic globalisation, city and countryside, and a world of uneven development.
+
+Fiji's own way (Fiji Year 13 Geography): The final year integrates everything at advanced level (plate tectonics to urban models, largely from world texts such as Waugh) and then lands it in Chapter 8, South Pacific Islands Geography — Oceania's geology, island types, development prospects and regionalism.

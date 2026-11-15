@@ -1,0 +1,26 @@
+# Sources — Types of Pacific Islands — Continental, Volcanic, Coral, Atoll
+
+countries: Fiji
+
+**Book 1:** *Social Science Year 7 — Study of the Pacific, Pupil's Book* (student book, English) — Fiji, Ministry of Education, Heritage & Arts, Curriculum Development Unit; year not printed on the cover (ministry 2015-era textbook list); ISBN no ISBN printed. Title as printed: Social Science Year 7 — Study of the Pacific, Pupil's Book. Grade: Year 7 (student/teacher: STUDENT). PDF pages: 79 (cover/title page verified against the record title). Verdict: COMPLETE. Acquisition note: read from the books.json record's own source_url (Google Drive file named in the record) after the grab.py GitHub API route failed as in Book 1; the TSV record for this book is the GitHub blob of the same file. Non-Geography parts named, not placed: Strand 1 Social Organisation and Processes — personal/social groups and processes (printed pp. 4–14), cultural identity, diversity and cohesion (pp. 15–26); Strand 2 Time, Continuity and Change — understanding the past (pp. 27–42), continuity and change (pp. 43–45). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
+
+**Book 2:** *Social Science Year 10 — Global Perspectives, Local Interaction (PRE CDU 2015 printing)* (student book, English) — Fiji, Curriculum Development Unit, Ministry of Education, Suva; year 2013; ISBN no ISBN printed. Title as printed: Social Science Year 10 — Global Perspectives, Local Interaction (PRE CDU 2015 printing). Grade: Year 10 (student/teacher: STUDENT). PDF pages: 101 (cover/title page verified against the record title). Verdict: COMPLETE. Acquisition note: read from the books.json record's own Wayback source_url (ministry original) after the grab.py GitHub API route failed as in Book 1. Non-Geography parts named, not placed: Chapter 1 Social Organization and Processes — government and democracy, parliamentary rule, the United Nations (printed pp. 6–25); Chapter 2 Time, Continuity and Change — History of Fiji, cession to independence 1874–1970 (pp. 26–53). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
+
+**Book 3:** *Year 13 Integrative Geography* (student book, English) — Fiji, Curriculum Development Unit, Ministry of Education, Fiji; year 2018; ISBN no ISBN printed. Title as printed: Year 13 Integrative Geography. Grade: Year 13 (student/teacher: STUDENT). PDF pages: 263 (cover/title page verified against the record title; bibliography at printed p. 258 confirms the file is complete). Verdict: COMPLETE. Acquisition note: read from the books.json record's own source_url (Google Drive file named in the record; download resumed after a first timed-out partial file) after the grab.py GitHub API route failed as in Book 1. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — Strand 3 Place and Environment, 3.1 Features of Places: the South Pacific and its four island types (continental, volcanic, coral limestone, atoll) and their size, soils and life | Fiji, *Fiji Year 7 Social Science*, Strand 3 Place and Environment, 3.1 Features of Places: the South Pacific and its four island types (continental, volcanic, coral limestone, atoll) and their size, soils and life — printed p. 46 |
+| Sub lesson 1 — Geography of Fiji: types of islands and their characteristics (volcanic high islands, coral islands/islets such as Nukulau and Wailagilala, reefs) | Fiji, *Fiji Year 10 Social Science*, Geography of Fiji: types of islands and their characteristics (volcanic high islands, coral islands/islets such as Nukulau and Wailagilala, reefs) — printed p. 55 |
+| Sub lesson 1 — Chapter 8: Oceania's three island groups (continental islands, volcanic high islands, coral raised limestone and atoll islands) and how each is formed | Fiji, *Fiji Year 13 Geography*, Chapter 8: Oceania's three island groups (continental islands, volcanic high islands, coral raised limestone and atoll islands) and how each is formed — printed p. 230 |
+| Sub lesson 2 — Fiji's way — the book's own teaching way | Fiji — the book's own way of teaching (see below) |
+
+**Acceptance count: taught in 1 country (Fiji).**
+
+Fiji's own way (Fiji Year 7 Social Science): Year 7 widens the lens to the whole South Pacific — island types, "islandness" and vulnerability, Pacific hazards, and resources owned by tribes and clans; Fiji is taught as the hub of the South West Pacific.
+
+Fiji's own way (Fiji Year 10 Social Science): Year 10 is the foundation for senior Geography and History — Fiji's own physical geography (tectonics, relief, rivers, climate, soils) taught in full, then its industries, population and urbanisation, all with Fiji data.
+
+Fiji's own way (Fiji Year 13 Geography): The final year integrates everything at advanced level (plate tectonics to urban models, largely from world texts such as Waugh) and then lands it in Chapter 8, South Pacific Islands Geography — Oceania's geology, island types, development prospects and regionalism.
+
+Searchable tags: types of pacific islands continental volcanic coral atoll, Fiji, social studies, first-steps

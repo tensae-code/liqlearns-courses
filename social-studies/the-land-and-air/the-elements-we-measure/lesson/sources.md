@@ -1,6 +1,6 @@
 # Sources — The elements we measure
 
-countries: Ethiopia, Turkey, Eritrea
+countries: Ethiopia, Turkey, Eritrea, Fiji
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Turkey, Eritrea
 
 **Book 4:** *ማሕበራዊ ትምህርቲ ን5ይ ክፍሊ — መጽሓፍ ተማሃሮ (Social Studies for Grade 5 — Student's Book)* (student book, Tigrinya) — Eritrea, Ministry of Education, The State of Eritrea; year 2010; ISBN no ISBN printed on the pages checked. Title as printed: ማሕበራዊ ትምህርቲ ን5ይ ክፍሊ — መጽሓፍ ተማሃሮ (Social Studies for Grade 5 — Student's Book). Grade 5 (student/teacher: STUDENT). PDF pages: 190 (cover/title page verified against the record title; 35,645,487 bytes and 190 pages, both match the record; fetched via the Releases API asset route — mid-size-books-5 — because the file is not in the git tree). Verdict: COMPLETE (Tigrinya text read via pdftotext; unit and section titles translated from the printed contents, printed pp. vi–vii). Records note: 7 records / 5 distinct books; the TSV release records for Grades 4 and 5 duplicate the books.json tree records of the same repo path (one book each); read via grab (curl-based GitHub API route with byte-size + blob-SHA verification), covers verified by render, full text read via pdftotext -layout. Combined Social Studies books: Geography parts placed; History/Civics parts named in each book header only. Named, not placed — History parts (named, not placed): Chapter 5 section 5.2 Ancient Activities on the Red Sea, printed p. 45; Chapter 6 ምንጪ ሓበሬታ Sources of Information — archaeology, artefacts and museums (except the Eritrean heritage-sites section placed below), printed p. 61; Chapter 10 ታሪኽ ኤርትራ History of Eritrea, printed p. 124 Civics parts (named, not placed): Chapter 1 sections 1.2–1.3 Regional administrations, their bodies, divisions and duties, printed pp. 3–5 Placements at liqlearns-courses-work/expansion-geography-2026-11-14/eritrea-placements.md.
 
+**Book 5:** *Social Studies Year 4 (Re-edited Version 2017)* (student book, English) — Fiji, Ministry of Education, Heritage & Arts, Curriculum Development Unit; year 2017 (re-edited); ISBN no ISBN printed. Title as printed: Social Studies Year 4 (Re-edited Version 2017). Grade: Year 4 (student/teacher: STUDENT). PDF pages: 66 (cover/title page verified against the record title). Verdict: COMPLETE. Acquisition note: read from the books.json record's own Wayback source_url (ministry original) after the grab.py GitHub API route failed as in Book 1. Non-Geography parts named, not placed: Strand 1 Social Organisation and Processes — 1.1–1.10 Friends, neighbours and cultural/religious events in our communities (printed pp. 4–31); Strand 2 Time, Continuity and Change — 2.1–2.7 Continuity, change, progress, significant people, studying the past, my village/community history (printed pp. 32–40). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The seven elements | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 2, printed pp. 39–41 |
@@ -17,11 +19,14 @@ countries: Ethiopia, Turkey, Eritrea
 | Teaching pattern and answer keys (teacher guide — evidence) — Grade 9 Unit 2 | Ethiopia, *Geography, Teacher Guide, Grade 9*, Unit 2, guide printed pp. 35–60 |
 | Turkey part — 5C1 Sıcaklık (temperature, as a climate element) | Turkey, *Ortaöğretim Coğrafya 9. Sınıf Ders Kitabı*, Grade 9, 5C1 Sıcaklık (temperature, as a climate element) — printed p. 111 |
 | Eritrea part (ER G5 Social Studies) — Chapter 9: 9.2 Knowing the weather conditions — the elements we observe | Eritrea, *ER G5 Social Studies*, Chapter 9: 9.2 Knowing the weather conditions — the elements we observe — printed p. 112 |
+| Fiji part — Strand 3, 3.3 Some elements of weather (sunshine, temperature, clouds, winds, humidity, precipitation; listening to the weather report) | Fiji, *Fiji Year 4 Social Studies*, Strand 3, 3.3 Some elements of weather (sunshine, temperature, clouds, winds, humidity, precipitation; listening to the weather report) — printed p. 48 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Turkey, Eritrea).**
+**Acceptance count: taught in 4 countries (Ethiopia, Turkey, Eritrea, Fiji).**
 
 Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
 Searchable tags: elements of weather, temperature, precipitation, humidity, pressure, wind, sunshine, cloud, social studies
 
 Eritrea's own way (ER G5 Social Studies): Grade 5 widens from the village to the world — Eritrea's regions (zobas) and neighbours, the continents, islands, oceans, seas, lakes and rivers of the Earth, then back home to the Red Sea, trade and transport, maps and weather.
+
+Fiji's own way (Fiji Year 4 Social Studies): Same four-strand frame as Year 3, now centred on the village/community — place and resources are taught through the child's own village, river, beachfront and village green ('rara').

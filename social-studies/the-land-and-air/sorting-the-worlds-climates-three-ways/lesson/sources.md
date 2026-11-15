@@ -1,6 +1,6 @@
 # Sources — Sorting the world's climates — three ways
 
-countries: Ethiopia, Ecuador, Colombia, Malaysia, Cambodia
+countries: Ethiopia, Ecuador, Colombia, Malaysia, Cambodia, Fiji
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Ecuador, Colombia, Malaysia, Cambodia
 
 **Book 9:** *ផែនដីវិទ្យា ថ្នាក់ទី១១ (Earth Science, Grade 11)* (student book, Khmer) — Cambodia, MoEYS Publishing and Distribution House; year 2020 (11th printing); ISBN 978-995-001-049 (printed as 9-789-995-001-049). Title as printed: ផែនដីវិទ្យា ថ្នាក់ទី១១ (Earth Science, Grade 11) — Sala 00004283. Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 208. Verdict: COMPLETE. All books are Khmer-language MoEYS textbooks whose embedded text layer uses a legacy font encoding (pdftotext output is garbled), so every book was read visually page-by-page from rendered pages (cover, full contents, every chapter/lesson opening, and spreads through each Geography part); Tesseract khm OCR was attempted first and abandoned (>2 min/page on this host). Read in place from phase3-staging (on_disk) except the Grade 9 Geography excerpt and the Grades 10-12 Geography combined record, grabbed from the textbooks repo with grab.py. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cambodia-placements.md.
 
+**Book 10:** *Exploring the World — Year 8 Pupil's Book* (student book, English) — Fiji, Ministry of Education, Fiji (Curriculum Development Unit); year 2015; ISBN no ISBN printed. Title as printed: Exploring the World — Year 8 Pupil's Book. Grade: Year 8 (student/teacher: STUDENT). PDF pages: 73 (title page verified against the record title — the title page itself notes the cover page is held separately; all teaching content present). Verdict: PARTIAL — cover art page absent from the file; all teaching content present. Acquisition note: read from the books.json record's own Wayback source_url (ministry original) after the grab.py GitHub API route failed as in Book 1. Non-Geography parts named, not placed: Unit 1 Social Organisation and Processes — world organisations, personal/social groups, cultural identity and cohesion (printed pp. 7–24); Unit 2 Time, Continuity and Change — understanding the past and continuity and change in world history (pp. 25–36). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Why classify at all | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 2, printed pp. 28–29 |
@@ -33,8 +35,9 @@ countries: Ethiopia, Ecuador, Colombia, Malaysia, Cambodia
 | Malaysia part (MY T2 Geografi Tingkatan 2) — Bab 7: the diversity of climates in Asia and the climate zones | Malaysia, *MY T2 Geografi*, Bab 7: the diversity of climates in Asia and the climate zones — printed pp. 104-110 |
 | Cambodia part — Geography Ch.3 L1 មនុស្សនិងមណ្ឌលអាកាសធាតុ (people and the climate zones — the five zones) | Cambodia, *Cambodia Grade 7 Social Studies*, Geography Ch.3 L1 មនុស្សនិងមណ្ឌលអាកាសធាតុ (people and the climate zones — the five zones) — printed p. 52 |
 | Cambodia part — Ch.3 L7 តំបន់អាកាសធាតុ (climate regions) | Cambodia, *Cambodia Grade 11 Earth Science*, Ch.3 L7 តំបន់អាកាសធាតុ (climate regions) — printed p. 138 |
+| Fiji part — Unit 3 Place and Environment, 3.1A World Climate Zones (what climate is; temperature and precipitation; the tropics, Arctic and Antarctic circles, tropical rainforest; climate's effects on people's lives) | Fiji, *Fiji Year 8 Social Science*, Unit 3 Place and Environment, 3.1A World Climate Zones (what climate is; temperature and precipitation; the tropics, Arctic and Antarctic circles, tropical rainforest; climate's effects on people's lives) — printed p. 38 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Ecuador, Colombia, Malaysia, Cambodia).**
+**Acceptance count: taught in 6 countries (Ethiopia, Ecuador, Colombia, Malaysia, Cambodia, Fiji).**
 
 No book error is flagged for this lesson's pages in the placements. The student book's body numbering for Unit Two drifts from its own contents (regions printed as 2.4, factors as 2.5, local classification as 2.6, where the contents and the teacher guide's contents agree on 2.3, 2.4 and 2.5); this lesson follows the contents numbering and teaches no misprint.
 
@@ -53,3 +56,5 @@ Malaysia's own way (MY T2 Geografi Tingkatan 2): the year pairs map skills (scal
 Cambodia's own way (Cambodia Grade 7 Social Studies): from Grade 7 the combined Social Studies book splits into four named subject sections; its Geography section teaches people-in-environments — hot zones, deserts and oases, polar peoples, climate zones — through world case studies (Kenya farmers, Amazon, Inuit, Sahara oil) before turning to world population.
 
 Cambodia's own way (Cambodia Grade 11 Earth Science): Earth Science is Cambodia's physical-geography strand — planet Earth and plate tectonics, water, a full atmosphere-and-climate course (ending with Cambodia's own weather and climate change), and the environment.
+
+Fiji's own way (Fiji Year 8 Social Science): Year 8 turns fully outward — "Exploring the World": world climate zones read from Fiji's tropical position, then global warming, resource management (including money and time) and globalisation from a Fiji/Pacific viewpoint.

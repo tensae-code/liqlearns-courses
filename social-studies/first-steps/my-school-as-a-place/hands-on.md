@@ -1,0 +1,9 @@
+# Hands-on — My School as a Place
+
+The lesson with your hands and your feet, not only your eyes.
+
+## The book's topic
+Work through this lesson's topic with your hands: Strand 3, Lesson 2 My School (school as a place, researching my school, caring for the school grounds). Say each part out loud as you do it, from the lesson.
+
+## Fiji's way
+Say how Fiji's book teaches this thing, in your own words, from the lesson.

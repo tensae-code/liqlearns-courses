@@ -1,6 +1,6 @@
 # Sources — Why vegetation changes with the land
 
-countries: Ethiopia, Bahamas, Malaysia
+countries: Ethiopia, Bahamas, Malaysia, Fiji
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Bahamas, Malaysia
 
 **Book 5:** *Geografi Tingkatan 3 (Kurikulum Standard Sekolah Menengah, KSSM) — Buku Teks* (student book, Malay) — Malaysia, Kementerian Pendidikan Malaysia (Ministry of Education Malaysia); produced by IMS Books Trading Sdn. Bhd.; year 2018 (first printing 2018); ISBN 978-967-0463-50-6. Title as printed: Geografi Tingkatan 3 (Kurikulum Standard Sekolah Menengah, KSSM) — Buku Teks. Grade 9 / Tingkatan 3 (student/teacher: STUDENT). PDF pages: 208 (cover verified against the record title — "Geografi Tingkatan 3, BUKU TEKS"; printed pagination per the book's contents). Verdict: COMPLETE. Records note: covers both Tingkatan 3 records — the TSV release record (full-quality-oversized-books, read here, 329,555,841 bytes) and the books.json record, whose tree path does not exist in the repo tree (release asset only). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/malaysia-placements.md.
 
+**Book 6:** *Physical Geography — Year 11 & 12* (student book, English) — Fiji, Curriculum Development Unit, Ministry of Education, Fiji; year 2014; ISBN no ISBN printed. Title as printed: Physical Geography — Year 11 & 12. Grade: Years 11–12 (student/teacher: STUDENT). PDF pages: 127 (cover/title page verified against the record title). Verdict: COMPLETE. Acquisition note: read from the books.json record's own Wayback source_url (ministry original; download resumed twice after timed-out partial files) after the grab.py GitHub API route failed as in Book 1. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Three controls | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 3, printed pp. 75–76 |
@@ -21,8 +23,9 @@ countries: Ethiopia, Bahamas, Malaysia
 | Bahamas part (Grade 4) — Bodies of Water: the southern islands have less rainfall than other parts of The Bahamas, so vegetation is limited and population is smaller | Bahamas, *Bahamas Primary Social Studies — Digital Textbook, Grade 4*, Grade 4, Bodies of Water: the southern islands have less rainfall than other parts of The Bahamas, so vegetation is limited and population is smaller — PDF p. 7 |
 | Bahamas part (Grade 4) — Bush: plants grown in The Bahamas must withstand periods of low rainfall and high summer temperatures — hedge plants such as coco plum, sea grape, croton and hibiscus | Bahamas, *Bahamas Primary Social Studies — Digital Textbook, Grade 4*, Grade 4, Bush: plants grown in The Bahamas must withstand periods of low rainfall and high summer temperatures — hedge plants such as coco plum, sea grape, croton and hibiscus — PDF p. 22 |
 | Malaysia part (MY T3 Geografi Tingkatan 3) — Bab 3: how the physical environment shapes the diversity of natural vegetation and wildlife (placement slug: the-land-and-air/vegetation-and-climate) | Malaysia, *MY T3 Geografi*, Bab 3: how the physical environment shapes the diversity of natural vegetation and wildlife — printed pp. 30-51 |
+| Fiji part — Chapter 7 Vegetation – New Zealand, and the climate–soil–vegetation relationship | Fiji, *Fiji Years 11–12 Physical Geography*, Chapter 7 Vegetation – New Zealand, and the climate–soil–vegetation relationship — printed p. 80 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Bahamas, Malaysia).**
+**Acceptance count: taught in 4 countries (Ethiopia, Bahamas, Malaysia, Fiji).**
 
 Searchable tags: vegetation controls, altitude, rainfall, soil, vegetation belts, afro-alpine, social studies
 
@@ -31,3 +34,5 @@ Bahamas' own way (Grade 3): The integrated Social Science pattern continues, but
 Bahamas' own way (Grade 4): From Grade 4 the format changes: instead of the integrated Social Science reader, the child gets a one-topic-per-page infographic textbook keyed spread-by-spread to the Primary Social Studies Curriculum 2022–2027 — Bahamian culture first, then the peoples who settled the islands, then the islands' own geography (southeastern islands, the Bahama Banks, island resources, tourism, transport), closing with leaders, laws, festivals and the bush plants of The Bahamas.
 
 Malaysia's own way (MY T3 Geografi Tingkatan 3): Form 3 turns from skills (tables, graphs, pie charts) to living Malaysia — its natural vegetation and wildlife and the human pressure on both — then outward to the world's biomes, resources and economic cooperation, closing with forest management and recycling.
+
+Fiji's own way (Fiji Years 11–12 Physical Geography): The physical volume is comparative — every theme (climate, relief, soil, vegetation, hazards) is taught twice, New Zealand first, then Fiji (Monsoon Asia for hazards), so Fiji's land is always read against a temperate and a monsoon case.

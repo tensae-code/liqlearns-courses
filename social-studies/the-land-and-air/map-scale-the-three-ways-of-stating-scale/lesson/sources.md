@@ -1,6 +1,6 @@
 # Sources — Map Scale — The Three Ways of Stating Scale
 
-countries: Ethiopia, Bangladesh, Malaysia, Eritrea
+countries: Ethiopia, Bangladesh, Malaysia, Eritrea, Fiji
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Bangladesh, Malaysia, Eritrea
 
 **Book 7:** *ማሕበራዊ ትምህርቲ ን4ይ ክፍሊ — መጽሓፍ ተማሃሮ (Social Studies for Grade 4 — Student's Book)* (student book, Tigrinya) — Eritrea, Ministry of Education, The State of Eritrea; year 2009; ISBN no ISBN printed on the pages checked. Title as printed: ማሕበራዊ ትምህርቲ ን4ይ ክፍሊ — መጽሓፍ ተማሃሮ (Social Studies for Grade 4 — Student's Book). Grade 4 (student/teacher: STUDENT). PDF pages: 159 (cover/title page verified against the record title; 30,437,268 bytes and 159 pages, both match the record; fetched via the Releases API asset route — mid-size-books-5 — because the file is not in the git tree). Verdict: COMPLETE (Tigrinya text read page by page via pdftotext; unit and section titles translated from the printed contents, printed pp. v–vi). Records note: 7 records / 5 distinct books; the TSV release records for Grades 4 and 5 duplicate the books.json tree records of the same repo path (one book each); read via grab (curl-based GitHub API route with byte-size + blob-SHA verification), covers verified by render, full text read via pdftotext -layout. Combined Social Studies books: Geography parts placed; History/Civics parts named in each book header only. Named, not placed — History parts (named, not placed): Chapter 1 ዝሓለፈ ታሪኽና ንዳህስስ Exploring Our Past (oral history; places and buildings as sources), printed p. 1; Chapter 2 ግዜን ኣጥቓቕማኡን Time and Its Use (past, present, future; counting time), printed p. 11; Chapter 9 ታሪኽ ኤርትራ History of Eritrea, printed p. 131 Civics / Sociology parts (named, not placed): Chapter 7 ኮም Community — what a community is, how communities form, living together, work administration, supporting communities, change in communities, printed pp. 85–107 (its work and rural/urban sections are placed below) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/eritrea-placements.md.
 
+**Book 8:** *Rediscovering Society — Social Science Year 9* (student book, English) — Fiji, Curriculum Development Unit, Ministry of Education, National Heritage, Culture & Arts, Suva; year 2013 (copyright 2011); ISBN no ISBN printed. Title as printed: Rediscovering Society — Social Science Year 9. Grade: Year 9 (student/teacher: STUDENT). PDF pages: 162 (cover/title page verified against the record title). Verdict: COMPLETE. Acquisition note: read from the books.json record's own Wayback source_url (ministry original; download resumed after a first timed-out partial file) after the grab.py GitHub API route failed as in Book 1. Non-Geography parts named, not placed: Chapter 1 Social Organisation and Processes — Unit 1 Society and culture (printed pp. 7–36), Unit 2 Community living (pp. 37–62), Unit 3 NGOs and regional organisations (pp. 64–74); Chapter 2 Time, Continuity and Change — Unit 1 History of Fiji, pre-contact to cession (pp. 77–97), Unit 2 Current affairs (pp. 99–100). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What scale is | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 27–29 |
@@ -26,8 +28,9 @@ countries: Ethiopia, Bangladesh, Malaysia, Eritrea
 | Eritrea part (ER G6 Social Studies) — Unit 3 Distance and Scale: what a scale is; kinds of scales | Eritrea, *ER G6 Social Studies*, Unit 3 Distance and Scale: what a scale is; kinds of scales — printed p. 15 |
 | Eritrea part (ER G7 Social Studies) — Unit 1 Scale and Measuring Distance: 1.1 What is a Scale? | Eritrea, *ER G7 Social Studies*, Unit 1 Scale and Measuring Distance: 1.1 What is a Scale? — printed p. 2 |
 | Eritrea part (ER G4 Social Studies) — Chapter 6: 6.4 What is map scale? | Eritrea, *ER G4 Social Studies*, Chapter 6: 6.4 What is map scale? — printed p. 75 |
+| Fiji part — Unit 2 Scales and distances (statement, representative fraction, ratio; converting scale distances) | Fiji, *Fiji Year 9 Social Science*, Unit 2 Scales and distances (statement, representative fraction, ratio; converting scale distances) — printed p. 118 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Bangladesh, Malaysia, Eritrea).**
+**Acceptance count: taught in 5 countries (Ethiopia, Bangladesh, Malaysia, Eritrea, Fiji).**
 
 Pairing warning: the Grade 8 teacher guide is an Addis Ababa bureau book and the student book is an Amhara bureau book; they are NOT edition-matched, and the guide in hand is truncated (printed pp. 1–47 only, Units 1–3). Pupil content in this lesson comes from the Amhara student book; anything from the guide is labelled (teacher guide — evidence) and never presented as pupil-taught.
 
@@ -42,3 +45,5 @@ Eritrea's own way (ER G6 Social Studies): one integrated Social Studies book per
 Eritrea's own way (ER G7 Social Studies): Grade 7 turns fully to skills and Eritrea's land — map scale, area and population arithmetic first, then Eritrea's natural heritage (Red Sea coast, wildlife) and Eritrea's own disaster set (drought, locusts, earthquakes, volcanism) as the environmental core.
 
 Eritrea's own way (ER G4 Social Studies): the Tigrinya-medium primary book teaches Geography through the child's own surroundings first — our environment, protecting our soil, water, plants and animals, then maps and globes, community life, and the shapes of the land.
+
+Fiji's own way (Fiji Year 9 Social Science): Secondary geography opens with a full map-skills chapter — grid references, contours and cross-sections practised on Fiji maps — before environment use and conservation, including Pacific methods (shifting cultivation, rotational grazing, appropriate fishing methods).

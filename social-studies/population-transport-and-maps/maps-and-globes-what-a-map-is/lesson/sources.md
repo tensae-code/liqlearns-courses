@@ -1,6 +1,6 @@
 # Sources — Maps and globes — what a map is
 
-countries: Ethiopia, Palestine, Egypt, Dominican Republic, Colombia, Eritrea, India, Cambodia
+countries: Ethiopia, Palestine, Egypt, Dominican Republic, Colombia, Eritrea, India, Cambodia, Fiji
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 2, placements 27–43).
 
@@ -24,6 +24,8 @@ countries: Ethiopia, Palestine, Egypt, Dominican Republic, Colombia, Eritrea, In
 
 **Book 11:** *សិក្សាសង្គម ថ្នាក់ទី៦ (Social Studies, Grade 6)* (student book, Khmer) — Cambodia, MoEYS Publishing and Distribution House; ISBN no ISBN printed. Title as printed: សិក្សាសង្គម ថ្នាក់ទី៦ (Social Studies, Grade 6) — Sala 00004323. Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 129. Verdict: COMPLETE. All books are Khmer-language MoEYS textbooks whose embedded text layer uses a legacy font encoding (pdftotext output is garbled), so every book was read visually page-by-page from rendered pages (cover, full contents, every chapter/lesson opening, and spreads through each Geography part); Tesseract khm OCR was attempted first and abandoned (>2 min/page on this host). Read in place from phase3-staging (on_disk) except the Grade 9 Geography excerpt and the Grades 10-12 Geography combined record, grabbed from the textbooks repo with grab.py. Non-Geography parts named, not placed: Ch.1 ឥរិយាបថល្អ (good conduct — goal-setting, conduct and values, rights and responsibility, art and change, printed pp.1–32, Civics/Life Skills); Ch.2 ឥរិយាបថប្រកបដោយសុខភាព (healthy conduct — avoiding danger, the harm of traffic accidents, printed pp.33–50, Science/Health); Ch.3 L4 គុណភាព (quality — school levels and education quality in Cambodia, printed p.76, Civics/Education); Ch.4 L2 សម័យចតុមុខ (Chaktomuk era, printed p.102), L3 សម័យលង្វែក (Longvek era, printed p.110), L4 ទីតាំងរាជធានីនៅឧដុង្គ និងទំនាស់ផ្ទៃក្នុង (the capital at Oudong and internal conflict, printed p.118, History). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cambodia-placements.md.
 
+**Book 12:** *Rediscovering Society — Social Science Year 9* (student book, English) — Fiji, Curriculum Development Unit, Ministry of Education, National Heritage, Culture & Arts, Suva; year 2013 (copyright 2011); ISBN no ISBN printed. Title as printed: Rediscovering Society — Social Science Year 9. Grade: Year 9 (student/teacher: STUDENT). PDF pages: 162 (cover/title page verified against the record title). Verdict: COMPLETE. Acquisition note: read from the books.json record's own Wayback source_url (ministry original; download resumed after a first timed-out partial file) after the grab.py GitHub API route failed as in Book 1. Non-Geography parts named, not placed: Chapter 1 Social Organisation and Processes — Unit 1 Society and culture (printed pp. 7–36), Unit 2 Community living (pp. 37–62), Unit 3 NGOs and regional organisations (pp. 64–74); Chapter 2 Time, Continuity and Change — Unit 1 History of Fiji, pre-contact to cession (pp. 77–97), Unit 2 Current affairs (pp. 99–100). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What a map is | Ethiopia, *Social Studies Student Textbook, Grade 7* (Amhara Bureau), printed pp. 46–47 |
@@ -38,8 +40,9 @@ countries: Ethiopia, Palestine, Egypt, Dominican Republic, Colombia, Eritrea, In
 | Eritrea part (ER G5 Social Studies) — Chapter 8 ካርታ Maps: 8.1 The meaning and importance of maps | Eritrea, *ER G5 Social Studies*, Chapter 8 ካርታ Maps: 8.1 The meaning and importance of maps — printed p. 95 |
 | India part (Grade 6 The Earth Our Habitat) — Ch.4 Maps: what a map is, atlas, physical / political / thematic maps | India, *India Grade 6 The Earth Our Habitat*, Ch.4 Maps: what a map is, atlas, physical / political / thematic maps — printed p. 23 |
 | Cambodia part — Ch.3 L5 ទីតាំងរាជធានី និងប្រទេស §1 ផែនទី (maps) | Cambodia, *Cambodia Grade 6 Social Studies*, Ch.3 L5 ទីតាំងរាជធានី និងប្រទេស §1 ផែនទី (maps) — printed p. 84 |
+| Fiji part — Chapter 3 Place and Environment, Unit 1 Maps and Types of Map: what is a map and why study maps | Fiji, *Fiji Year 9 Social Science*, Chapter 3 Place and Environment, Unit 1 Maps and Types of Map: what is a map and why study maps — printed p. 103 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Palestine, Egypt, Dominican Republic, Colombia, Eritrea, India, Cambodia).**
+**Acceptance count: taught in 9 countries (Ethiopia, Palestine, Egypt, Dominican Republic, Colombia, Eritrea, India, Cambodia, Fiji).**
 
 Pairing warning (honesty): Book 2 is an Addis Ababa bureau guide in English; Book 1 is an Amhara bureau student book in Amharic. They are NOT edition-matched companions — the guide's unit order differs and whole student topics (maps, globes, GPS) have no guide counterpart, so no guide coverage is claimed for them. Guide material is used only as labelled teacher evidence.
 
@@ -64,3 +67,5 @@ Eritrea's own way (ER G5 Social Studies): Grade 5 widens from the village to the
 India's own way (Grade 6 The Earth Our Habitat): The first Geography year goes planet → globe → motions → maps → Earth's domains → landforms, and only then turns home: the last two chapters are India itself (location, neighbours, physical divisions, monsoon climate, vegetation and wildlife), so world basics are immediately applied to the home country.
 
 Cambodia's own way (Cambodia Grade 6 Social Studies): the primary Social Studies spiral ends with its first real map work — maps, the globe and the equator/parallels/meridians grid taught inside the “society today” chapter, anchored on a world map with Cambodia marked.
+
+Fiji's own way (Fiji Year 9 Social Science): Secondary geography opens with a full map-skills chapter — grid references, contours and cross-sections practised on Fiji maps — before environment use and conservation, including Pacific methods (shifting cultivation, rotational grazing, appropriate fishing methods).

@@ -1,6 +1,6 @@
 # Sources — Coasts, winds and pressure belts — the other climate controls
 
-countries: Ethiopia, Turkey, Dominican Republic, India, Cambodia
+countries: Ethiopia, Turkey, Dominican Republic, India, Cambodia, Fiji
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Turkey, Dominican Republic, India, Cambodia
 
 **Book 6:** *ផែនដីវិទ្យា ថ្នាក់ទី១១ (Earth Science, Grade 11)* (student book, Khmer) — Cambodia, MoEYS Publishing and Distribution House; year 2020 (11th printing); ISBN 978-995-001-049 (printed as 9-789-995-001-049). Title as printed: ផែនដីវិទ្យា ថ្នាក់ទី១១ (Earth Science, Grade 11) — Sala 00004283. Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 208. Verdict: COMPLETE. All books are Khmer-language MoEYS textbooks whose embedded text layer uses a legacy font encoding (pdftotext output is garbled), so every book was read visually page-by-page from rendered pages (cover, full contents, every chapter/lesson opening, and spreads through each Geography part); Tesseract khm OCR was attempted first and abandoned (>2 min/page on this host). Read in place from phase3-staging (on_disk) except the Grade 9 Geography excerpt and the Grades 10-12 Geography combined record, grabbed from the textbooks repo with grab.py. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cambodia-placements.md.
 
+**Book 7:** *Physical Geography — Year 11 & 12* (student book, English) — Fiji, Curriculum Development Unit, Ministry of Education, Fiji; year 2014; ISBN no ISBN printed. Title as printed: Physical Geography — Year 11 & 12. Grade: Years 11–12 (student/teacher: STUDENT). PDF pages: 127 (cover/title page verified against the record title). Verdict: COMPLETE. Acquisition note: read from the books.json record's own Wayback source_url (ministry original; download resumed twice after timed-out partial files) after the grab.py GitHub API route failed as in Book 1. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Land heats fast, water slowly | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 2, printed pp. 47–50 |
@@ -25,8 +27,9 @@ countries: Ethiopia, Turkey, Dominican Republic, India, Cambodia
 | India part (Grade 7 Our Environment) — Ch.4: pressure belts and permanent winds (trade winds, westerlies, easterlies), wind direction change | India, *India Grade 7 Our Environment*, Ch.4: pressure belts and permanent winds (trade winds, westerlies, easterlies), wind direction change — printed p. 24 |
 | Cambodia part — Ch.3 L4 សម្ពាធខ្យល់និងសម្ពាធចាបតាមរដូវ (pressure belts and the seasons) [placement slug: the-land-and-air/wind-global-patterns] | Cambodia, *Cambodia Grade 11 Earth Science*, Ch.3 L4 សម្ពាធខ្យល់និងសម្ពាធចាបតាមរដូវ (pressure belts and the seasons) — printed p. 116 |
 | Cambodia part — Ch.3 L5 ខ្យល់បក់ (blowing winds) [placement slug: the-land-and-air/wind-what-moves-the-air] | Cambodia, *Cambodia Grade 11 Earth Science*, Ch.3 L5 ខ្យល់បក់ (blowing winds) — printed p. 124 |
+| Fiji part — Chapter 1: solar radiation, wind, pressure systems (sub-tropical high belt, anticyclones and depressions crossing New Zealand) | Fiji, *Fiji Years 11–12 Physical Geography*, Chapter 1: solar radiation, wind, pressure systems (sub-tropical high belt, anticyclones and depressions crossing New Zealand) — printed p. 3 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Turkey, Dominican Republic, India, Cambodia).**
+**Acceptance count: taught in 6 countries (Ethiopia, Turkey, Dominican Republic, India, Cambodia, Fiji).**
 
 Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
@@ -39,3 +42,5 @@ Dominican Republic's own way (Grade 10): This is the physical-geography year: th
 India's own way (Grade 7 Our Environment): Grade 7 is organised around "environment" in widening rings — the concept itself, then inside/changing Earth, air and water, world vegetation belts, human settlement and transport, and finally three lived-in region studies (Amazon basin, Ganga-Brahmaputra basin, Sahara and Ladakh deserts) where all the strands meet in real places.
 
 Cambodia's own way (Cambodia Grade 11 Earth Science): Earth Science is Cambodia's physical-geography strand — planet Earth and plate tectonics, water, a full atmosphere-and-climate course (ending with Cambodia's own weather and climate change), and the environment.
+
+Fiji's own way (Fiji Years 11–12 Physical Geography): The physical volume is comparative — every theme (climate, relief, soil, vegetation, hazards) is taught twice, New Zealand first, then Fiji (Monsoon Asia for hazards), so Fiji's land is always read against a temperate and a monsoon case.

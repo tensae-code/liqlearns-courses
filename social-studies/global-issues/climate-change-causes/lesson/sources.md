@@ -1,6 +1,6 @@
 # Sources — Climate Change — Causes
 
-countries: Ethiopia, Jamaica, Samoa
+countries: Ethiopia, Jamaica, Samoa, Fiji
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (placement 141).
 
@@ -8,14 +8,17 @@ countries: Ethiopia, Jamaica, Samoa
 
 **Book 3:** *Geography — Year 13* (student book, English) — Ministry of Education, Sports and Culture, Samoa; year 2004; ISBN 982-517-079-4. Title as printed: Geography — Year 13. Year 13 (student/teacher: STUDENT). PDF pages: 244 (cover/title page verified against the record title). Verdict: COMPLETE (Geography parts placed below). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/samoa-placements.md.
 
+**Book 4:** *Year 13 Integrative Geography* (student book, English) — Fiji, Curriculum Development Unit, Ministry of Education, Fiji; year 2018; ISBN no ISBN printed. Title as printed: Year 13 Integrative Geography. Grade: Year 13 (student/teacher: STUDENT). PDF pages: 263 (cover/title page verified against the record title; bibliography at printed p. 258 confirms the file is complete). Verdict: COMPLETE. Acquisition note: read from the books.json record's own source_url (Google Drive file named in the record; download resumed after a first timed-out partial file) after the grab.py GitHub API route failed as in Book 1. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The chapter's three issues: climate change, shrinking water supply, shrinking forests | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 7, printed pp. 182–183 |
 | Sub lesson 2 — Greenhouse gases piled too high: heat-trapping gases accumulating excessively; wide use of coal, petroleum and natural gas releasing carbon dioxide and disturbing the air's former natural state; volcanoes and natural wildfires contributing; the human-made part stressed as the danger | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 7, printed pp. 182–183 |
 | Jamaica part — Grade 8 Term 3 Unit 1: Climate Change: The Impact of Human Activities — causes (curriculum guide — evidence) | Jamaica, *Jamaica Grades 7–9 JM G7-9 Social Studies*, Grade 8 Term 3 Unit 1: Climate Change: The Impact of Human Activities — causes — printed p. 102 |
 | Samoa part (Year 13 Geography) — Part 5 Unit 9 Climate Change and the Process of Climate Change | Samoa, *Geography, Year 13*, Part 5 Unit 9 Climate Change and the Process of Climate Change — printed p. 192 |
+| Fiji part — Chapter 3: causes of climate change (natural and human factors across atmosphere, geosphere, hydrosphere, biosphere) | Fiji, *Fiji Year 13 Geography*, Chapter 3: causes of climate change (natural and human factors across atmosphere, geosphere, hydrosphere, biosphere) — printed p. 87 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Samoa). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 3 countries (Ethiopia, Samoa, Fiji). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grades 7–9 Social Studies, curriculum guide — evidence): one guide carries all three secondary grades, each year mixing Civics, heritage and a strong resources-and-environment Geography spine — natural and human resources, movements of the Earth, Caribbean hazards, climate change, green technology and tourism — taught through Jamaican case material (bauxite communities, Caribbean disasters). That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
@@ -24,3 +27,5 @@ There is NO Grade 8 teacher-guide coverage for Chapter 7: the Grade 8 guide in h
 Searchable tags: climate change, greenhouse gases, carbon dioxide, fossil fuels, coal, petroleum, natural gas, volcanoes, wildfires, Ethiopia Grade 8 Social Studies Chapter 7, Jamaica, curriculum guide evidence
 
 Samoa's own way (Year 13 Geography): The final-year course is hazard- and water-centred for an island nation — volcanic eruptions and tropical cyclones (including Cyclone Heta on Niue), the hydrological cycle and water management, then atmosphere and climate change with Pacific consequences.
+
+Fiji's own way (Fiji Year 13 Geography): The final year integrates everything at advanced level (plate tectonics to urban models, largely from world texts such as Waugh) and then lands it in Chapter 8, South Pacific Islands Geography — Oceania's geology, island types, development prospects and regionalism.

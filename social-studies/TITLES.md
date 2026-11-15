@@ -103,7 +103,7 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **1415**
+Geography lessons across the eight Geography titles: **1450**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -907,3 +907,34 @@ Is and Where Transport Is Found — Airports, Ports and
 Stations; Culture and Work: Making a Family Budget, The
 National Budget and What the Economy Is; Global Issues:
 The Environment Around Our School.
+
++35 for Fiji, 2026-11-14 — First Steps: Fiji in the
+South Pacific and Its Islands, Fiji's Island Groups,
+Towns and Cities, Fiji's Location — Advantages and
+Disadvantages, My Home and Types of Homes, My School as
+a Place, South Pacific Islands Geography — Oceania,
+Special Places in Our Village and Community and Types
+of Pacific Islands — Continental, Volcanic, Coral,
+Atoll; The Land and Air: Coral Reef Ecosystems of the
+Pacific, Drawing Cross-Sections from Contours, Fiji's
+Physical and Cultural Features, Fiji's Rivers and
+Roads, Land Patterns of Fiji — Dry West, Wet East,
+Relief of Fiji — Mountains, Lowlands and Plateaus,
+Relief of New Zealand, The Climate of Fiji — Trade
+Winds and Two Seasons, The Soils of Fiji — Andosols and
+Others and The Vegetation of Fiji; Population,
+Transport and Maps: Map Reading with Fiji Maps and
+Models of Urban Structure; People and Resources:
+Factors Affecting Tourism Development, Fiji's Resources
+and Export Industries, Marine Resources and the Law of
+the Sea, Personal Belongings and Caring for Resources
+and Sea and Fresh-Water Resources of Fiji; Culture and
+Work: Land Tenure Systems in Fiji and the Pacific,
+Managing Money and Family Budgeting, Traditional and
+Contemporary Farming Practices, Traditional and Modern
+Fishing Methods and Traditional Fishing Practices of
+the Pacific; Resources and Conflict: Friendly and
+Unfriendly Land Use in Fiji; Global Issues: Impacts of
+Tourism — Problems and Future, Natural Hazards and
+Disasters in the Pacific, Natural Hazards of Monsoon
+Asia and The Monsoon of Asia — Summer and Winter.

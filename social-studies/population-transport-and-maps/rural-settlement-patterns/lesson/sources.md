@@ -1,6 +1,6 @@
 # Sources — Rural settlement patterns
 
-countries: Ethiopia, Turkey, Haiti, Palestine, Bangladesh, Indonesia, Malaysia, Eritrea, India, Cambodia
+countries: Ethiopia, Turkey, Haiti, Palestine, Bangladesh, Indonesia, Malaysia, Eritrea, India, Cambodia, Fiji
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -26,6 +26,8 @@ countries: Ethiopia, Turkey, Haiti, Palestine, Bangladesh, Indonesia, Malaysia, 
 
 **Book 12:** *ភូមិវិទ្យា ថ្នាក់ទី១១ (Geography, Grade 11)* (student book, Khmer) — Cambodia, MoEYS Publishing and Distribution House; year 2020 (11th printing); ISBN 978-995-001-018 (printed as 9-789-995-001-018). Title as printed: ភូមិវិទ្យា ថ្នាក់ទី១១ (Geography, Grade 11) — Sala 00004288. Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 208. Verdict: COMPLETE. All books are Khmer-language MoEYS textbooks whose embedded text layer uses a legacy font encoding (pdftotext output is garbled), so every book was read visually page-by-page from rendered pages (cover, full contents, every chapter/lesson opening, and spreads through each Geography part); Tesseract khm OCR was attempted first and abandoned (>2 min/page on this host). Read in place from phase3-staging (on_disk) except the Grade 9 Geography excerpt and the Grades 10-12 Geography combined record, grabbed from the textbooks repo with grab.py. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cambodia-placements.md.
 
+**Book 13:** *An Introduction to Human Geography for Year 11 and Year 12 Students (record title: "Year 11 and Year 12 Geography")* (student book, English) — Fiji, Ministry of Education, Fiji; year 2015, First Edition (written and compiled by Maciu Rika and Elina Vosaicake); ISBN no ISBN printed. Title as printed: An Introduction to Human Geography for Year 11 and Year 12 Students (record title: "Year 11 and Year 12 Geography"). Grade: Years 11–12 (student/teacher: STUDENT). PDF pages: 92 (cover/title page verified against the record title). Verdict: COMPLETE. Acquisition note: read from the books.json record's own Wayback source_url (ministry original) after the grab.py GitHub API route failed as in Book 1. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The three patterns | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 4, printed pp. 104–107 |
@@ -41,8 +43,9 @@ countries: Ethiopia, Turkey, Haiti, Palestine, Bangladesh, Indonesia, Malaysia, 
 | Eritrea part (ER G6 Social Studies) — Unit 6: shape of settlement | Eritrea, *ER G6 Social Studies*, Unit 6: shape of settlement — printed p. 39 |
 | India part (Grade 7 Our Environment) — Ch.7: compact and scattered settlements; rural and urban settlements | India, *India Grade 7 Our Environment*, Ch.7: compact and scattered settlements; rural and urban settlements — printed p. 48 |
 | Cambodia part — Ch.6 L2 ការរៀបចំស្រុកនិងជនបទ (organising district and countryside) | Cambodia, *Cambodia Grade 11 Geography*, Ch.6 L2 ការរៀបចំស្រុកនិងជនបទ (organising district and countryside) — printed p. 174 |
+| Fiji part — 1.1.9 Settlement — definition and types | Fiji, *Fiji Years 11–12 Geography*, 1.1.9 Settlement — definition and types — printed p. 24 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Turkey, Palestine, Bangladesh, Indonesia, Malaysia, Eritrea, India, Cambodia). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 10 countries (Ethiopia, Turkey, Palestine, Bangladesh, Indonesia, Malaysia, Eritrea, India, Cambodia, Fiji). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
 
 Indonesia's own way (Grade 12): Grade 12 is applied human geography built entirely on Indonesian cases — regional development and spatial planning (tata ruang) measured against a Happiness Index, Industry 4.0 / Society 5.0, and Indonesia's own geopolitics and ASEAN-era cooperation as pillars of national resilience. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -65,3 +68,5 @@ Eritrea's own way (ER G6 Social Studies): one integrated Social Studies book per
 India's own way (Grade 7 Our Environment): Grade 7 is organised around "environment" in widening rings — the concept itself, then inside/changing Earth, air and water, world vegetation belts, human settlement and transport, and finally three lived-in region studies (Amazon basin, Ganga-Brahmaputra basin, Sahara and Ladakh deserts) where all the strands meet in real places.
 
 Cambodia's own way (Cambodia Grade 11 Geography): the standalone upper-secondary Geography book is a human-impact course — people reshaping the earth, people destroying natural resources, the sea, pollution of air/water/noise/waste, economic globalisation, city and countryside, and a world of uneven development.
+
+Fiji's own way (Fiji Years 11–12 Geography): Senior geography splits into Human and Physical volumes; the human volume is organised as four issue-chapters (population/settlement, tourism, agriculture, marine resources), each run the same way — nature, problems, ways of minimising, contemporary issues, future — with Pacific/Fiji theme-country cases.

@@ -1,6 +1,6 @@
 # Sources — Biodiversity — the variety of life, under threat
 
-countries: Ethiopia, Nauru, Tuvalu, Niue, Guatemala, Ecuador, Angola, Bangladesh, Indonesia, Colombia, India, Cambodia
+countries: Ethiopia, Nauru, Tuvalu, Niue, Guatemala, Ecuador, Angola, Bangladesh, Indonesia, Colombia, India, Cambodia, Fiji
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -30,6 +30,8 @@ countries: Ethiopia, Nauru, Tuvalu, Niue, Guatemala, Ecuador, Angola, Bangladesh
 
 **Book 14:** *ភូមិវិទ្យា ថ្នាក់ទី១១ (Geography, Grade 11)* (student book, Khmer) — Cambodia, MoEYS Publishing and Distribution House; year 2020 (11th printing); ISBN 978-995-001-018 (printed as 9-789-995-001-018). Title as printed: ភូមិវិទ្យា ថ្នាក់ទី១១ (Geography, Grade 11) — Sala 00004288. Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 208. Verdict: COMPLETE. All books are Khmer-language MoEYS textbooks whose embedded text layer uses a legacy font encoding (pdftotext output is garbled), so every book was read visually page-by-page from rendered pages (cover, full contents, every chapter/lesson opening, and spreads through each Geography part); Tesseract khm OCR was attempted first and abandoned (>2 min/page on this host). Read in place from phase3-staging (on_disk) except the Grade 9 Geography excerpt and the Grades 10-12 Geography combined record, grabbed from the textbooks repo with grab.py. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cambodia-placements.md.
 
+**Book 15:** *People and the Sea in the Pacific — A Social Sciences related reader for Primary School, Book 1 (Education for Sustainable Development)* (student book, English) — Fiji, UNESCO & Japanese Funds-in-Trust with the Institute of Education, University of the South Pacific; year 2020; ISBN no ISBN printed. Title as printed: People and the Sea in the Pacific — A Social Sciences related reader for Primary School, Book 1 (Education for Sustainable Development). Grade: Years 5–6 (student/teacher: STUDENT). PDF pages: 24 (cover/title page verified against the record title). Verdict: COMPLETE. Acquisition note: read from the books.json record's own source_url (USP-hosted original) after the grab.py GitHub API route failed as in Book 1. A regional Pacific reader; the record files it under Fiji (Fiji is one of its target countries and supplied local advisors). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Variety at every scale | G12 student #63, printed pp. 157–159 |
@@ -53,8 +55,9 @@ countries: Ethiopia, Nauru, Tuvalu, Niue, Guatemala, Ecuador, Angola, Bangladesh
 | India part (Grade 8 Resources and Development) — Ch.2: conserving natural vegetation and wildlife — national parks, sanctuaries and biosphere reserves | India, *India Grade 8 Resources and Development*, Ch.2: conserving natural vegetation and wildlife — national parks, sanctuaries and biosphere reserves — printed p. 18 |
 | India part (Grade 10 Contemporary India-II) — Ch.2 Forest and Wildlife Resources: biodiversity; flora and fauna classed as normal, endangered, vulnerable, rare, endemic and extinct | India, *India Grade 10 Contemporary India-II*, Ch.2 Forest and Wildlife Resources: biodiversity; flora and fauna classed as normal, endangered, vulnerable, rare, endemic and extinct — printed p. 14 |
 | Cambodia part — Ch.2 L4 ការជូតពូជសត្វនិងរុក្ខជាតិ (the disappearance of animal and plant species) | Cambodia, *Cambodia Grade 11 Geography*, Ch.2 L4 ការជូតពូជសត្វនិងរុក្ខជាតិ (the disappearance of animal and plant species) — printed p. 52 |
+| Fiji part — Sea turtles and whales: endangered species, human threats (nets, pollution, coastal development, commercial whaling), protection and whale ecotourism | Fiji, *Fiji Years 5–6 ESD Reader 1*, Sea turtles and whales: endangered species, human threats (nets, pollution, coastal development, commercial whaling), protection and whale ecotourism — printed p. 8 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Nauru, Tuvalu, Niue, Guatemala, Ecuador, Angola, Bangladesh, Indonesia, Colombia, India, Cambodia).**
+**Acceptance count: taught in 13 countries (Ethiopia, Nauru, Tuvalu, Niue, Guatemala, Ecuador, Angola, Bangladesh, Indonesia, Colombia, India, Cambodia, Fiji).**
 
 Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -85,3 +88,5 @@ India's own way (Grade 8 Resources and Development): Grade 8 is a resources year
 India's own way (Grade 10 Contemporary India-II): Contemporary India-II is the human/economic book, matching Part I's physical book: India's resources, forests, water, agriculture, minerals and energy, manufacturing and the "lifelines" (transport, communication, trade) — taught throughout as development-versus-environment argument, with movements and case studies (Chipko, Narmada Bachao, rooftop rainwater harvesting in the Thar) carrying the criticism.
 
 Cambodia's own way (Cambodia Grade 11 Geography): the standalone upper-secondary Geography book is a human-impact course — people reshaping the earth, people destroying natural resources, the sea, pollution of air/water/noise/waste, economic globalisation, city and countryside, and a world of uneven development.
+
+Fiji's own way (Fiji Years 5–6 ESD Reader 1): Geography through the ocean itself — Pacific identity as a "sea of islands", reef ecology, and traditional Fijian/Pacific fishing and tabu (no-take) practice as the model of sustainable resource use.
