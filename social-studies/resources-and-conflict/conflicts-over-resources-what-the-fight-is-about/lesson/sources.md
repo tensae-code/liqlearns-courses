@@ -1,6 +1,6 @@
 # Sources — Conflicts over resources — what the fight is about
 
-countries: Ethiopia, Samoa, Colombia, Malaysia, Slovenia
+countries: Ethiopia, Samoa, Colombia, Malaysia, Slovenia, Syria
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Samoa, Colombia, Malaysia, Slovenia
 
 **Book 6:** *Geografija 8* (student book, Slovenian) — Slovenia, Zavod RS za šolstvo, Ljubljana; year 2015; ISBN 978-961-03-0282-7 (html5). Title as printed: Geografija 8 (i-učbenik / interactive textbook). Grade: Grade 8 (student/teacher: STUDENT). PDF pages: not a PDF — ZIP package (interactive e-textbook) of 444,693,805 bytes; book pagination runs to printed p. 177+ (Kazalo); all 202 content HTML pages read — every extracted file's decompressed size verified against the ZIP central directory (203/203 files OK). Verdict: COMPLETE (text content; the package's videos/images were not individually viewed — the teaching text, headings, summaries and tasks were read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/slovenia-placements.md.
 
+**Book 7:** *الجغرافية — الثالث الثانوي الأدبي (Geography, Third Secondary, Literary), كتاب الطالب (Student Book)* (student book, Arabic) — Ministry of Education, Syrian Arab Republic; year 2025–2026; no ISBN printed. Title as printed: الجغرافية — الثالث الثانوي الأدبي (Geography, Third Secondary, Literary), كتاب الطالب (Student Book). Grade: Grade 12 (student/teacher: STUDENT). PDF pages: 280 (cover/title page verified against the record title; grabbed via the repo release route, 254,021,461 bytes = record size exactly). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/syria-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Categories — what is at stake | G12 student #39, printed pp. 69–73 |
@@ -23,8 +25,9 @@ countries: Ethiopia, Samoa, Colombia, Malaysia, Slovenia
 | Colombia part (CS_Grado9 Postprimaria) — Módulo 4 Guías 11–12 El territorio; Comunidades campesinas en defensa de su territorio | Colombia, *Ciencias Sociales — Postprimaria Rural, Grado 9 (student guide)*, Módulo 4 Guías 11–12 El territorio; Comunidades campesinas en defensa de su territorio — printed pp. 134–149 |
 | Malaysia part (MY T3 Geografi Tingkatan 3) — Bab 9: distribution of the world's main natural resources and world resource crises (placement slug: resources-and-conflict/conflict-over-resources) | Malaysia, *MY T3 Geografi*, Bab 9: distribution of the world's main natural resources and world resource crises — printed pp. 148-156 |
 | Slovenia part — Krizna območja (crisis areas) inside Izbrani svetovni problemi II | Slovenia, *Slovenia Grade 8 Geografija 8*, Krizna območja (crisis areas) inside Izbrani svetovni problemi II — printed p. 168 |
+| Syria part — Water in the Arab homeland: a looming crisis and future conflict | Syria, *Syria Grade 12 Geography G12-Literary*, Water in the Arab homeland: a looming crisis and future conflict — printed p. 46 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Samoa, Colombia, Malaysia, Slovenia).**
+**Acceptance count: taught in 6 countries (Ethiopia, Samoa, Colombia, Malaysia, Slovenia, Syria).**
 
 No book error in the placements for this lesson is taught here. Categories and contests are taught exactly as the placements report them.
 
@@ -39,3 +42,5 @@ Colombia's own way (CS_Grado9 Postprimaria): the rural Postprimaria Grade 9 guid
 Malaysia's own way (MY T3 Geografi Tingkatan 3): Form 3 turns from skills (tables, graphs, pie charts) to living Malaysia — its natural vegetation and wildlife and the human pressure on both — then outward to the world's biomes, resources and economic cooperation, closing with forest management and recycling.
 
 Slovenia's own way (Slovenia Grade 8 Geografija 8): Grade 8 is pure world regional geography, continent by continent (Africa, Australia/Oceania, the Americas and polar regions), each region worked through the same grid — position/relief/waters, climate/vegetation, population, economy — and the book closes with two world-problems units (rainforest loss, desert spread, water conflicts, the Aral Sea).
+
+Syria's own way (Syria Grade 12 Geography G12-Literary): the final-year Literary-track book is a three-scale spiral — the Arab homeland as one integrated natural unit, then Syria itself at the same two levels (nature/resources, then human/economic life), then the world split into developing and developed with Japan, India and Senegal as the three case studies; every unit works from maps, statistical tables and graphs, and the water pair of lessons (scarcity, then "a looming crisis and future conflict") is the book's signature treatment.

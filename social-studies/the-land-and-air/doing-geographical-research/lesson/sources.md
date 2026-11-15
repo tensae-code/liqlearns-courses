@@ -1,6 +1,6 @@
 # Sources — Doing geographical research
 
-countries: Ethiopia, Bangladesh, Samoa, Malaysia, Papua New Guinea, Uganda
+countries: Ethiopia, Bangladesh, Samoa, Malaysia, Papua New Guinea, Uganda, Syria
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -30,6 +30,8 @@ countries: Ethiopia, Bangladesh, Samoa, Malaysia, Papua New Guinea, Uganda
 
 **Book 14:** *Home-Study Learning — Senior 1 Geography (August 2020)* (student book, English) — Ministry of Education and Sports / National Curriculum Development Centre (NCDC); year 2020; ISBN no ISBN printed. Title as printed: Home-Study Learning — Senior 1 Geography (August 2020). Grade: Senior One = Grade 8 (student/teacher: STUDENT). PDF pages: 38 (cover verified: "HOME-STUDY LEARNING SENIOR 1 GEOGRAPHY", NCDC, August 2020 — matches record page count 38 exactly; read via the record's books.json source_url at f.openpdfs.org, mirror of the NCDC booklet, after grab.py routes failed with RemoteDisconnected from api.github.com). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/uganda-placements.md.
 
+**Book 15:** *عالم الجغرافية (World of Geography), الصف السابع الأساسي (Seventh Grade Basic)* (student book, Arabic) — Ministry of Education / National Center for Curriculum Development (NCCD), Syrian Arab Republic; year 2021–2022 (1442 H), first printed 2017–2018; no ISBN printed. Title as printed: عالم الجغرافية (World of Geography), الصف السابع الأساسي (Seventh Grade Basic). Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 159 (cover/title page verified against the record title; read in place in phase3-staging, 932,059,473 bytes). Verdict: COMPLETE. (Non-content slots named, not placed: teacher-designed lesson slots (printed pp. 86, 150) and the student-designed geography-information slot (printed p. 148) carry no set content of their own.) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/syria-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Research — the deepest possible look | G12 student #81, printed pp. 217–222 |
@@ -47,8 +49,9 @@ countries: Ethiopia, Bangladesh, Samoa, Malaysia, Papua New Guinea, Uganda
 | Uganda part — Ch.4 Studying Geography through Fieldwork (observation, questionnaires, presenting statistics) | Uganda, *Uganda Grade 8 UG S1 Geography Student*, Ch.4 Studying Geography through Fieldwork (observation, questionnaires, presenting statistics) — printed p. 36 |
 | Uganda part — Ch.4 Ways of Studying Geography (fieldwork and photographs guidance) (teacher guide — evidence) | Uganda, *Uganda Grade 8 UG S1 Geography TG* (teacher guide), Ch.4 Ways of Studying Geography (fieldwork and photographs guidance) — printed p. 36 |
 | Uganda part — Lesson 1: Learning Geography through Fieldwork (home-area fieldwork and report) | Uganda, *Uganda Grade 8 UG S1 Geography Home-Study*, Lesson 1: Learning Geography through Fieldwork (home-area fieldwork and report) — printed p. 1 |
+| Syria part — Student-designed geography information, teacher-designed lesson and end-of-semester project (Semester 2 research/project strand) | Syria, *Syria Grade 7 Geography G7 عالم الجغرافية*, Student-designed geography information, teacher-designed lesson and end-of-semester project (Semester 2 research/project strand) — printed p. 148 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Bangladesh, Samoa, Malaysia, Uganda). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 6 countries (Ethiopia, Bangladesh, Samoa, Malaysia, Uganda, Syria). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Pairing honesty: the 2023 student book's own teacher guide is still unsecured; the secured Grade 12 teacher guide is the 2010–11 edition for a different student book (see the action-research lesson's sources). No teacher evidence is claimed for this lesson.
 
@@ -79,3 +82,5 @@ Uganda's own way (Uganda Grade 8 UG S1 Geography Student): Competency-based lowe
 Uganda's own way (Uganda Grade 8 UG S1 Geography TG) (teacher guide — evidence): The guide mirrors the learner book chapter for chapter, adding teacher instructions, possible responses and assessment for every activity — the same East-Africa-first, activity-led pedagogy, plus teacher-only content on plotting weather on maps and making simple weather instruments. That evidence is stocked here as the way Uganda teaches this thing; it is cited as evidence only — Uganda is counted in this lesson through its student book(s).
 
 Uganda's own way (Uganda Grade 8 UG S1 Geography Home-Study): A home-based compression of the Senior One course: fieldwork is done around the learner's own home, photographs and statistics (Kilembe Mines data) replace classroom map work, and the booklet ends on East Africa's location, size and relief.
+
+Syria's own way (Syria Grade 7 Geography G7 عالم الجغرافية): a pure Geography book built entirely around activity lessons with story-style titles ("Mother of sciences", "Stones from the sky", "The origami art" for folding, "A tourist in my homeland"); technology first — aerial photos, GPS, remote sensing and GIS open the book before any physical geography — and each semester closes with student/teacher-designed lessons and an end-of-semester project.

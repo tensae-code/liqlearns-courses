@@ -1,6 +1,6 @@
 # Sources — Famine and food security — availability is not enough
 
-countries: Ethiopia, Brazil, Haiti, Costa Rica, Palestine, Angola, United Kingdom, Slovenia, Papua New Guinea, Sudan
+countries: Ethiopia, Brazil, Haiti, Costa Rica, Palestine, Angola, United Kingdom, Slovenia, Papua New Guinea, Sudan, Syria
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Brazil, Haiti, Costa Rica, Palestine, Angola, United Kingdo
 
 **Book 10:** *الجغرافيا والدراسات البيئية — Geography and Environmental Studies, Third Year Secondary (الصف الثالث الثانوي)* (student book, Arabic) — Republic of Sudan, Ministry of General Education, National Centre for Curricula and Educational Research (Bakht al-Ruda); revised edition 2009; ISBN 978-99942-53-4-3 (file is the Rowad Al-Tamayoz reprint/distribution copy, verified cover + title page against the record). Title as printed: الجغرافيا والدراسات البيئية — Geography and Environmental Studies, Third Year Secondary (الصف الثالث الثانوي). Grade: Grade 12 (student/teacher: STUDENT). PDF pages: 230 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sudan-placements.md.
 
+**Book 11:** *الجغرافية — الصف الثامن (Geography, Eighth Grade)* (student book, Arabic) — Ministry of Education, Syrian Arab Republic; year 2025–2026 (1447 H); no ISBN printed. Title as printed: الجغرافية — الصف الثامن (Geography, Eighth Grade). Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 152 (cover/title page verified against the record title; grabbed via the repo release route, 423,607,662 bytes = record size exactly). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/syria-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Famine is a process, not an event | G12 student #78, printed pp. 209–211 |
@@ -35,8 +37,9 @@ countries: Ethiopia, Brazil, Haiti, Costa Rica, Palestine, Angola, United Kingdo
 | Slovenia part — Kmetijstvo in pridelava hrane (agriculture and food production) inside Izbrani svetovni problemi II | Slovenia, *Slovenia Grade 8 Geografija 8*, Kmetijstvo in pridelava hrane (agriculture and food production) inside Izbrani svetovni problemi II — printed p. 168 |
 | Papua New Guinea part — Unit 12.1: global food production and supply statistics; consequences of unequal food distribution (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 12 Geography TG OBE* (teacher guide), Unit 12.1: global food production and supply statistics; consequences of unequal food distribution — printed p. 36 |
 | Sudan part — Food security | Sudan, *Sudan Grade 12 SD Geography 12*, Food security — printed p. 170 |
+| Syria part — Securing food: an urgent necessity and its challenges | Syria, *Syria Grade 8 Geography G8*, Securing food: an urgent necessity and its challenges — printed p. 130 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Brazil, Costa Rica, Palestine, Angola, United Kingdom, Slovenia, Sudan). Haiti is named here as teacher-sequence evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 9 countries (Ethiopia, Brazil, Costa Rica, Palestine, Angola, United Kingdom, Slovenia, Sudan, Syria). Haiti is named here as teacher-sequence evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Haiti's own way (teacher sequence — evidence): World inequality is questioned through the words used for it (Nord/Sud, développé/sous-développé) and through Haiti's own case — a rich-country/poor-country comparison (Canada or USA vs Haiti), the independence debt, food insecurity and Covid vaccination in Haiti — with every claim built from authenticated statistics, graphs and maps crossed from local to world scale. That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
@@ -57,3 +60,5 @@ Slovenia's own way (Slovenia Grade 8 Geografija 8): Grade 8 is pure world region
 Papua New Guinea's own way (Papua New Guinea Grades 11–12 Geography TG OBE) (teacher guide — evidence): an outcomes-based guide — it prescribes no lesson scripts; for each syllabus unit it lists suggested learning activities and assessment tasks built around the local environment (soil profiles, local hazard sites, a PNG mine and logging case study, a transect along latitude 6°S), with fieldwork and geographical inquiry as the core skills. That evidence is stocked here as the way Papua New Guinea teaches this thing; it does not change the acceptance count above.
 
 Sudan's own way (Sudan Grade 12 SD Geography 12): The final-year book is organised as applied geography: it opens with a full revision exercise on a Port Sudan contour map (contours, scale, cross-sections, watershed lines), then remote sensing and photo interpretation, then world economic geography, and closes on human–environment global problems, repeatedly pulling Sudanese examples (Gezira scheme, gum arabic, Sudanese oil, farming systems of Sudan) into the world treatment.
+
+Syria's own way (Syria Grade 8 Geography G8): Grade 8 leaves the Arab world and tours the "new" continents in a fixed six-lesson pattern (location and surface, natural environments, settlement/migration, population and cities, resources and economy, one big country study — USA, Brazil, Australia), gives Antarctica a whole unit as a land of ice and science, and closes with a unit of contemporary global challenges (water, food, pollution, warming, population, desertification).

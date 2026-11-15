@@ -1,6 +1,6 @@
 # Sources — The Universe and Space
 
-countries: Ethiopia, Dominican Republic, Colombia, India, Sudan
+countries: Ethiopia, Dominican Republic, Colombia, India, Sudan, Syria
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page - 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Dominican Republic, Colombia, India, Sudan
 
 **Book 5:** *الجغرافيا والدراسات البيئية — Geography and Environmental Studies, First Year Secondary (الصف الأول الثانوي) [record title omits "and Environmental Studies"]* (student book, Arabic) — Republic of Sudan, Ministry of Education and National Education, National Centre for Curricula and Educational Research (Bakht al-Ruda); year not printed on cover/title pages seen; no ISBN printed. Title as printed: الجغرافيا والدراسات البيئية — Geography and Environmental Studies, First Year Secondary (الصف الأول الثانوي) [record title omits "and Environmental Studies"]. Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 195 (cover verified against the record title; byte size 31,004,701 and page count match the staging books.json record exactly). Verdict: COMPLETE. How read: PDF text layer is font-garbled, so read visually from rendered pages — cover, preface (4-unit structure), unit objectives and interior spreads across all four units. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sudan-placements.md.
 
+**Book 6:** *الدراسات الاجتماعية — الصف الأول الأساسي (Social Studies, First Grade Basic)* (student book, Arabic) — Ministry of Education, Syrian Arab Republic; year 2025–2026 (1446–1447 H), first printed 2018–2019; no ISBN printed. Title as printed: الدراسات الاجتماعية — الصف الأول الأساسي (Social Studies, First Grade Basic). Grade: Grade 1 (student/teacher: STUDENT). PDF pages: 74 (cover/title page verified against the record title; the repo tree path 404'd and the file was absent from staging, so the book was downloaded from its recorded link source — the Wayback capture of the Syrian MoE curriculum portal — at 84,728,729 bytes, exactly the recorded size, 74 pages; STAGED under the push-don't-delete rule at phase3-staging/grade-01/gov/syria/social-studies/student/full-year.pdf, where its books.json record already existed with matching size, pages and source). Verdict: COMPLETE. (Non-Geography parts named, not placed: Unit 1 Me — who am I, resembling and differing, my feelings, how I spend my day, I am able, achieving my goal (printed pp. 10–20, personal); Unit 2 Me and You — little ones and grown-ups, me and my family, loving to help, dialogue manners (printed pp. 24–30, Civics/family); Unit 3 Lessons 2–4 — playing safely, staying careful, vaccination is my right (printed pp. 36, 38, 40, Civics/health); Unit 4 My Society — in my school, my rights and duties, I have a role (printed pp. 44, 46, 48, Civics); Unit 6 Lessons 3–5 — let's work together, my garden, our beautiful exhibition (printed pp. 78, 80, 84, Civics/school life).) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/syria-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The universe: boundless space holding all matter | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 1, printed p. 4 |
@@ -22,8 +24,9 @@ countries: Ethiopia, Dominican Republic, Colombia, India, Sudan
 | Colombia part (CS_Grado06 Secundaria Activa) — Unidad 1 Cap. 1 Tema 1 El origen del universo | Colombia, *Ciencias Sociales — Secundaria Activa, Grado 6 (module)*, Unidad 1 Cap. 1 Tema 1 El origen del universo — printed p. 17 |
 | India part (Grade 6 The Earth Our Habitat) — Ch.1 The Earth in the Solar System: celestial bodies, stars, constellations, galaxies | India, *India Grade 6 The Earth Our Habitat*, Ch.1 The Earth in the Solar System: celestial bodies, stars, constellations, galaxies — printed p. 1 |
 | Sudan part — The universe and the galaxy (Unit 1 objectives and lessons) | Sudan, *Sudan Grade 10 SD Geography 10*, The universe and the galaxy (Unit 1 objectives and lessons) — printed p. 8 |
+| Syria part — A journey in space | Syria, *Syria Grade 1 Social Studies G1*, A journey in space — printed p. 68 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Dominican Republic, Colombia, India, Sudan).**
+**Acceptance count: taught in 6 countries (Ethiopia, Dominican Republic, Colombia, India, Sudan, Syria).**
 
 No book errors are flagged by the placements for these pages.
 
@@ -36,3 +39,5 @@ Colombia's own way (CS_Grado06 Secundaria Activa): Grade 6 Secundaria Activa sta
 India's own way (Grade 6 The Earth Our Habitat): The first Geography year goes planet → globe → motions → maps → Earth's domains → landforms, and only then turns home: the last two chapters are India itself (location, neighbours, physical divisions, monsoon climate, vegetation and wildlife), so world basics are immediately applied to the home country.
 
 Sudan's own way (Sudan Grade 10 SD Geography 10): A second-edition foundations book (the preface says necessity forced this 2nd edition): physical geography first (universe to rivers), then climate and vegetation, then a long practical cartography unit, closing with GIS — geography taught as a skills subject, with an activity (نشاط) box on most spreads.
+
+Syria's own way (Syria Grade 1 Social Studies G1): the Grade 1 book starts the same widening-rings series (Me → Me and You → My Safety → My Society → My Environment → My Homeland); Geography enters through street-crossing safety, then the environment unit — nature and the farm, the four friends (the seasons), beautiful nature, water "more precious than gold", a precious treasure, and a journey into space — and closes with the homeland's antiquities and pictures from across Syria.

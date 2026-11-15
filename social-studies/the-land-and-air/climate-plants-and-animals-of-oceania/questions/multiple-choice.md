@@ -1,0 +1,19 @@
+# Climate Plants And Animals Of Oceania — multiple choice
+
+Pick the one right answer.
+
+**1. (Sub lesson 1)** The first part of this lesson is —
+a) Climate Plants And Animals Of Oceania  b) learning the alphabet  c) counting to ten
+**Answer: a) Climate Plants And Animals Of Oceania**
+
+**2. (Sub lesson 1)** This lesson is mainly about —
+a) Varied climate, plants and rich animal life in Oceania  b) ancient kings only  c) the Moon's phases
+**Answer: a) Varied climate, plants and rich animal life in Oceania**
+
+**3. (Sub lesson 2)** The second part of this lesson is —
+a) Syria's way — the book's own teaching way  b) learning to swim  c) telling the time
+**Answer: a) Syria's way — the book's own teaching way**
+
+**4. (Sub lesson 2)** Which of these is true, from the lesson?
+a) This lesson teaches Varied climate, plants and rich animal life in Oceania.  b) Syria's book never studies this thing.  c) This lesson teaches nothing about its topic
+**Answer: a) This lesson teaches Varied climate, plants and rich animal life in Oceania.**

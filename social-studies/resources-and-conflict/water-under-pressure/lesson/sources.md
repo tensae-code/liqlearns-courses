@@ -1,6 +1,6 @@
 # Sources — Water under pressure
 
-countries: Ethiopia, Brazil, France, Haiti, Costa Rica, Palestine, Angola, Bangladesh, Egypt, Samoa, Malaysia, India, Cambodia, Slovenia, Sudan
+countries: Ethiopia, Brazil, France, Haiti, Costa Rica, Palestine, Angola, Bangladesh, Egypt, Samoa, Malaysia, India, Cambodia, Slovenia, Sudan, Syria
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -36,6 +36,12 @@ countries: Ethiopia, Brazil, France, Haiti, Costa Rica, Palestine, Angola, Bangl
 
 **Book 17:** *الجغرافيا والدراسات البيئية — Geography and Environmental Studies, Third Year Secondary (الصف الثالث الثانوي)* (student book, Arabic) — Republic of Sudan, Ministry of General Education, National Centre for Curricula and Educational Research (Bakht al-Ruda); revised edition 2009; ISBN 978-99942-53-4-3 (file is the Rowad Al-Tamayoz reprint/distribution copy, verified cover + title page against the record). Title as printed: الجغرافيا والدراسات البيئية — Geography and Environmental Studies, Third Year Secondary (الصف الثالث الثانوي). Grade: Grade 12 (student/teacher: STUDENT). PDF pages: 230 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sudan-placements.md.
 
+**Book 18:** *الجغرافية — الثالث الثانوي الأدبي (Geography, Third Secondary, Literary), كتاب الطالب (Student Book)* (student book, Arabic) — Ministry of Education, Syrian Arab Republic; year 2025–2026; no ISBN printed. Title as printed: الجغرافية — الثالث الثانوي الأدبي (Geography, Third Secondary, Literary), كتاب الطالب (Student Book). Grade: Grade 12 (student/teacher: STUDENT). PDF pages: 280 (cover/title page verified against the record title; grabbed via the repo release route, 254,021,461 bytes = record size exactly). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/syria-placements.md.
+
+**Book 19:** *الجغرافية — الصف التاسع (Geography, Ninth Grade)* (student book, Arabic) — Ministry of Education, Syrian Arab Republic; year 2025–2026 (1447 H); no ISBN printed. Title as printed: الجغرافية — الصف التاسع (Geography, Ninth Grade). Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 176 (cover/title page verified against the record title; grabbed via the repo release route, 363,527,395 bytes = record size exactly). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/syria-placements.md.
+
+**Book 20:** *الجغرافية — الصف الثامن (Geography, Eighth Grade)* (student book, Arabic) — Ministry of Education, Syrian Arab Republic; year 2025–2026 (1447 H); no ISBN printed. Title as printed: الجغرافية — الصف الثامن (Geography, Eighth Grade). Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 152 (cover/title page verified against the record title; grabbed via the repo release route, 423,607,662 bytes = record size exactly). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/syria-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The squeeze on freshwater | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 3, printed pp. 65–67 |
@@ -54,12 +60,15 @@ countries: Ethiopia, Brazil, France, Haiti, Costa Rica, Palestine, Angola, Bangl
 | Cambodia part — Ch.4 L2 កង្វល់ទឹក (troubles of water) | Cambodia, *Cambodia Grade 11 Geography*, Ch.4 L2 កង្វល់ទឹក (troubles of water) — printed p. 98 |
 | Slovenia part — Pomen vode za človeka (the importance of water for people) inside Okoljski problemi voda | Slovenia, *Slovenia Grade 10 Geografija 1 (gimnazija)*, Pomen vode za človeka (the importance of water for people) inside Okoljski problemi voda — printed p. 171 |
 | Sudan part — Water security | Sudan, *Sudan Grade 12 SD Geography 12*, Water security — printed p. 176 |
+| Syria part — Water in the Arab homeland: scarcity in traditional water resources | Syria, *Syria Grade 12 Geography G12-Literary*, Water in the Arab homeland: scarcity in traditional water resources — printed p. 37 |
+| Syria part — Water resources in the Arab homeland | Syria, *Syria Grade 9 Geography G9*, Water resources in the Arab homeland — printed p. 63 |
+| Syria part — The water crisis (Unit 5: contemporary global challenges) | Syria, *Syria Grade 8 Geography G8*, The water crisis (Unit 5: contemporary global challenges) — printed p. 126 |
 
 | France part — Thème 1: L'eau douce, une ressource essentielle (stress hydrique, usages, perspectives) | France, *Géographie 2de GT, Manuel Libre de Géographie, Seconde*, Grade 10, Sommaire Thème 1 |
 | Haiti part — Séance 2, Temps 3-4 Le problème de l'eau en Haïti (bassins versants, état du réseau hydrographique, accès à l'eau potable; Rivière Froide, Rivière Grise, Rivière du Haut du Cap) (teacher sequence — evidence) | Haiti, *Haïti verte. Préserver et valoriser les ressources et l'environnement, protéger les hommes.* (teacher sequence), Grade 7, Séance 2, Temps 3-4 Le problème de l'eau en Haïti (bassins versants, état du réseau hydrographique, accès à l'eau potable; Rivière Froide, Rivière Grise, Rivière du Haut du Cap) — printed p. 8 |
 | Costa Rica part — debates on the use of water as a resource today | Costa Rica, *Antología CONED 8*, Grade 8, Unit 1 Tema 2 B — printed p. 38 |
 
-**Acceptance count: taught in 14 countries (Ethiopia, Brazil, France, Costa Rica, Palestine, Angola, Bangladesh, Egypt, Samoa, Malaysia, India, Cambodia, Slovenia, Sudan). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 15 countries (Ethiopia, Brazil, France, Costa Rica, Palestine, Angola, Bangladesh, Egypt, Samoa, Malaysia, India, Cambodia, Slovenia, Sudan, Syria). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
 
 Haiti's own way (teacher sequence — evidence): The environment is studied from the schoolyard outward — a field diagnosis of the local environment (bare soils, dried springs, waste, noise), scaled up to a map and graph of the whole territory's problems (deforestation, erosion, water), then turned into a pupil-designed sustainable land-use project for a greener Haiti. That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
@@ -90,3 +99,9 @@ Cambodia's own way (Cambodia Grade 11 Geography): the standalone upper-secondary
 Slovenia's own way (Slovenia Grade 10 Geografija 1 (gimnazija)): the gimnazija first year is systematic physical geography first (Earth's interior, rocks, landforms, weather and climate, soils, vegetation, waters), then human geography (population, settlements, farming, industry and energy, transport, tourism), closing on sustainable development and spatial planning — with Slovenian cases (earthquake risk in Slovenia, the Port of Koper) set inside the world topics.
 
 Sudan's own way (Sudan Grade 12 SD Geography 12): The final-year book is organised as applied geography: it opens with a full revision exercise on a Port Sudan contour map (contours, scale, cross-sections, watershed lines), then remote sensing and photo interpretation, then world economic geography, and closes on human–environment global problems, repeatedly pulling Sudanese examples (Gezira scheme, gum arabic, Sudanese oil, farming systems of Sudan) into the world treatment.
+
+Syria's own way (Syria Grade 12 Geography G12-Literary): the final-year Literary-track book is a three-scale spiral — the Arab homeland as one integrated natural unit, then Syria itself at the same two levels (nature/resources, then human/economic life), then the world split into developing and developed with Japan, India and Senegal as the three case studies; every unit works from maps, statistical tables and graphs, and the water pair of lessons (scarcity, then "a looming crisis and future conflict") is the book's signature treatment.
+
+Syria's own way (Syria Grade 9 Geography G9): every unit is taught twice at two scales — the Arab homeland first, then Syria — with parallel lesson pairs (relief, climate, water, soil, agriculture, industry, transport, tourism); Unit 3's framing is pointed: "huge human resources… and weak investment", and the subsoil lessons are titled "hidden treasures".
+
+Syria's own way (Syria Grade 8 Geography G8): Grade 8 leaves the Arab world and tours the "new" continents in a fixed six-lesson pattern (location and surface, natural environments, settlement/migration, population and cities, resources and economy, one big country study — USA, Brazil, Australia), gives Antarctica a whole unit as a land of ice and science, and closes with a unit of contemporary global challenges (water, food, pollution, warming, population, desertification).

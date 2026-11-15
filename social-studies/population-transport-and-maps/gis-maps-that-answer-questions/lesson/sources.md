@@ -1,6 +1,6 @@
 # Sources — GIS — maps that answer questions
 
-countries: Ethiopia, Haiti, Bangladesh, Egypt, Sudan
+countries: Ethiopia, Haiti, Bangladesh, Egypt, Sudan, Syria
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Haiti, Bangladesh, Egypt, Sudan
 
 **Book 6:** *الجغرافيا والدراسات البيئية — Geography and Environmental Studies, First Year Secondary (الصف الأول الثانوي) [record title omits "and Environmental Studies"]* (student book, Arabic) — Republic of Sudan, Ministry of Education and National Education, National Centre for Curricula and Educational Research (Bakht al-Ruda); year not printed on cover/title pages seen; no ISBN printed. Title as printed: الجغرافيا والدراسات البيئية — Geography and Environmental Studies, First Year Secondary (الصف الأول الثانوي) [record title omits "and Environmental Studies"]. Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 195 (cover verified against the record title; byte size 31,004,701 and page count match the staging books.json record exactly). Verdict: COMPLETE. How read: PDF text layer is font-garbled, so read visually from rendered pages — cover, preface (4-unit structure), unit objectives and interior spreads across all four units. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sudan-placements.md.
 
+**Book 7:** *عالم الجغرافية (World of Geography), الصف السابع الأساسي (Seventh Grade Basic)* (student book, Arabic) — Ministry of Education / National Center for Curriculum Development (NCCD), Syrian Arab Republic; year 2021–2022 (1442 H), first printed 2017–2018; no ISBN printed. Title as printed: عالم الجغرافية (World of Geography), الصف السابع الأساسي (Seventh Grade Basic). Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 159 (cover/title page verified against the record title; read in place in phase3-staging, 932,059,473 bytes). Verdict: COMPLETE. (Non-content slots named, not placed: teacher-designed lesson slots (printed pp. 86, 150) and the student-designed geography-information slot (printed p. 148) carry no set content of their own.) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/syria-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What GIS is | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 8, printed pp. 230–231 |
@@ -24,8 +26,9 @@ countries: Ethiopia, Haiti, Bangladesh, Egypt, Sudan
 | Bangladesh part (Grades 9-10) — Remote sensing: satellite images for studying change without going to the place | Bangladesh, *History and Social Science, Class Nine* (the shared Class 9-10 SSC book), Grades 9-10, Remote sensing: satellite images for studying change without going to the place — printed pp. 132-134 |
 | Egypt part (Grade 11) — Unit 1 Lesson 2: Modern technologies and their role in development geography (GIS, remote sensing and spatial data) | Egypt, *Development Geography, Grade 11*, Grade 11, Unit 1 Lesson 2: Modern technologies and their role in development geography (GIS, remote sensing and spatial data) — printed p. 8 (the placements name the target as the-land-and-air/gis-maps-from-data; that slug does not exist, so this placement is stocked in this closest covering lesson, with the original slug recorded here) |
 | Sudan part — Geographic Information Systems: concept and importance (Unit 4 objectives) | Sudan, *Sudan Grade 10 SD Geography 10*, Geographic Information Systems: concept and importance (Unit 4 objectives) — printed p. 180 |
+| Syria part — Geographical Information Systems (GIS) | Syria, *Syria Grade 7 Geography G7 عالم الجغرافية*, Geographical Information Systems (GIS) — printed p. 36 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Bangladesh, Egypt, Sudan). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 5 countries (Ethiopia, Bangladesh, Egypt, Sudan, Syria). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
 
 Haiti's own way (teacher sequence — evidence): Geography opens with representing the Earth itself — globe-to-flat projection problems, orientation practised on the ground with compass/GPS/Google Maps, and time-zone puzzles worked on Haiti's own links (midday shared with Québec, 18h in Paris, Port-au-Prince–Paris flights); every séance ends in a croquis, a glossary and field observation. That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
@@ -38,3 +41,5 @@ Bangladesh's own way (Grades 9-10): the shared SSC book's big chapter "Living To
 Egypt's own way (Grade 11): a whole secondary book on development geography alone, built as concept → resources → economy → people: the idea of development traced as it widened (economic, then human, then sustainable development, with its principles of comprehensiveness, integration and sustainability), resources always paired with how to manage them, and the human-development unit closing with full worked country models (Malaysia profiled in depth — position, poverty fall, education, health, electronics and car industries — and Brazil) before the future of development in the Arab homeland.
 
 Sudan's own way (Sudan Grade 10 SD Geography 10): A second-edition foundations book (the preface says necessity forced this 2nd edition): physical geography first (universe to rivers), then climate and vegetation, then a long practical cartography unit, closing with GIS — geography taught as a skills subject, with an activity (نشاط) box on most spreads.
+
+Syria's own way (Syria Grade 7 Geography G7 عالم الجغرافية): a pure Geography book built entirely around activity lessons with story-style titles ("Mother of sciences", "Stones from the sky", "The origami art" for folding, "A tourist in my homeland"); technology first — aerial photos, GPS, remote sensing and GIS open the book before any physical geography — and each semester closes with student/teacher-designed lessons and an end-of-semester project.

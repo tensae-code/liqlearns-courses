@@ -1,6 +1,6 @@
 # Sources — Renewable, non-renewable — and using sustainably
 
-countries: Ethiopia, Nauru, Tuvalu, Bolivia, Bangladesh, Indonesia, Egypt, Malaysia, Papua New Guinea, Sudan
+countries: Ethiopia, Nauru, Tuvalu, Bolivia, Bangladesh, Indonesia, Egypt, Malaysia, Papua New Guinea, Sudan, Syria
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). Editors: Sintayehu Teka (MSc) (Content Editor), Kassie Molla (MA) (Language Editor), Hirut Woldemichael (MA) (Curriculum Editor). Illustrator: Agenchw Nega (MSc). Designer: Geda Hoka (MA). Evaluators: Dereje Guteta (PhD), Tesfaye Shiferaw (PhD), Abebe Yibeltie (MA), Hussein Seid (MA). First published 2023 under GEQIP-E. ISBN: 978-99990-0-049-9. Printed by Gravity Group IND LLC, 13th Industrial Area, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. 205 printed pp. Printed page = PDF page − 6 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Nauru, Tuvalu, Bolivia, Bangladesh, Indonesia, Egypt, Malay
 
 **Book 10:** *الجغرافيا والدراسات البيئية — Geography and Environmental Studies, Third Year Secondary (الصف الثالث الثانوي)* (student book, Arabic) — Republic of Sudan, Ministry of General Education, National Centre for Curricula and Educational Research (Bakht al-Ruda); revised edition 2009; ISBN 978-99942-53-4-3 (file is the Rowad Al-Tamayoz reprint/distribution copy, verified cover + title page against the record). Title as printed: الجغرافيا والدراسات البيئية — Geography and Environmental Studies, Third Year Secondary (الصف الثالث الثانوي). Grade: Grade 12 (student/teacher: STUDENT). PDF pages: 230 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sudan-placements.md.
 
+**Book 11:** *الدراسات الاجتماعية — الصف الرابع (Social Studies, Fourth Grade)* (student book, Arabic) — Ministry of Education, Syrian Arab Republic; year 2025–2026 (1447 H); no ISBN printed. Title as printed: الدراسات الاجتماعية — الصف الرابع (Social Studies, Fourth Grade). Grade: Grade 4 (student/teacher: STUDENT). PDF pages: 112 (cover/title page verified against the record title; grabbed via the repo release route, 271,613,622 bytes = record size exactly). Verdict: COMPLETE. (Non-Geography parts named, not placed: Unit 2 Lessons 1–2 Syria, cradle of civilisation; historical sites (printed pp. 36, 39, History/heritage); Unit 5 Citizenship — rights, duties, the martyrs (printed pp. 100, 104, 107, Civics).) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/syria-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What a resource is | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 3, printed pp. 52–57 |
@@ -37,8 +39,9 @@ countries: Ethiopia, Nauru, Tuvalu, Bolivia, Bangladesh, Indonesia, Egypt, Malay
 | Papua New Guinea part — Strand 4 Unit 2 Resources: Renewable resources — what a renewable resource is, examples in the district, Lessons 136–140 (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 4 Social Science TG* (teacher guide), Strand 4 Unit 2 Resources: Renewable resources — what a renewable resource is, examples in the district, Lessons 136–140 — printed p. 63 |
 | Papua New Guinea part — Strand 4 Unit 2 Resources: Non-renewable resources — listing and identifying non-renewable resources, Lessons 141–150 (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 4 Social Science TG* (teacher guide), Strand 4 Unit 2 Resources: Non-renewable resources — listing and identifying non-renewable resources, Lessons 141–150 — printed p. 65 |
 | Sudan part — Natural gas, electric power and nuclear energy as energy sources | Sudan, *Sudan Grade 12 SD Geography 12*, Natural gas, electric power and nuclear energy as energy sources — printed p. 91 |
+| Syria part — Renewable and non-renewable resources in my country Syria | Syria, *Syria Grade 4 Social Studies G4*, Renewable and non-renewable resources in my country Syria — printed p. 25 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Nauru, Tuvalu, Bolivia, Bangladesh, Indonesia, Egypt, Malaysia, Sudan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 10 countries (Ethiopia, Nauru, Tuvalu, Bolivia, Bangladesh, Indonesia, Egypt, Malaysia, Sudan, Syria). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -63,3 +66,5 @@ Malaysia's own way (MY T3 Geografi Tingkatan 3): Form 3 turns from skills (table
 Papua New Guinea's own way (Papua New Guinea Grade 4 Social Science TG) (teacher guide — evidence): the same five-strand structure as Grade 3, widening the child's world from the local area to the district — district features, renewable versus non-renewable resources, and map scale. That evidence is stocked here as the way Papua New Guinea teaches this thing; it does not change the acceptance count above.
 
 Sudan's own way (Sudan Grade 12 SD Geography 12): The final-year book is organised as applied geography: it opens with a full revision exercise on a Port Sudan contour map (contours, scale, cross-sections, watershed lines), then remote sensing and photo interpretation, then world economic geography, and closes on human–environment global problems, repeatedly pulling Sudanese examples (Gezira scheme, gum arabic, Sudanese oil, farming systems of Sudan) into the world treatment.
+
+Syria's own way (Syria Grade 4 Social Studies G4): the whole primary book is one-country geography of Syria — nature, then life (Badia, countryside, city), then work (agriculture, industry, trade, tourism) — with map tools (map symbols, four directions) and a tree-cutting/environment strand built into the opening unit's goals.

@@ -1,6 +1,6 @@
 # Sources — Road safety — signs and crossings
 
-countries: Ethiopia, Turkey, Ecuador, Palestine, Zimbabwe
+countries: Ethiopia, Turkey, Ecuador, Palestine, Zimbabwe, Syria
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 2, placements 27–43).
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Turkey, Ecuador, Palestine, Zimbabwe
 
 **Book 8:** *PlusOne Social Science Grade 6 Teacher's Guide (Heritage-Based Curriculum, MoPSE approved)* (teacher guide, English) — Secondary Book Press, Harare; year 2025; ISBN 978-1-77928-502-7. Title as printed: PlusOne Social Science Grade 6 Teacher's Guide (Heritage-Based Curriculum, MoPSE approved). Grade 6 (student/teacher: TEACHER). PDF pages: 147 (cover verified against the record title; byte size 6,094,087 = record size, 147 pp = record pages; fetched via grab.py release route). Verdict: COMPLETE (combined book — Geography parts placed below; non-Geography parts named in the placements, not placed: Topic 1 Identity Units 1–2 (printed pp. 1–4); Topic 2 National history Units 5–10 governance, colonisation, Chimurenga liberation history, symbols (pp. 10–23, History/Civics); Topic 3 Heritage Units 11–14 courtship, marriage, heirship (pp. 24–32); Topic 4 Unit 17 Responsibility at work (p. 37); Topic 8 Units 27–28 Peer influence (pp. 60–63); Topic 9 Unit 29 Norms and values (p. 64); Topic 10 Units 30–32 law-making, gender, workplace equity (pp. 68–74, civics); Topic 11 Health Units 34–39 (pp. 77–89); Topic 12 Units 40–41 Career/financial (pp. 90–94); Topic 13 Religion Units 42–53 (pp. 95–121); Topic 14 Unit 54 Social services in Zimbabwe (p. 122).). Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/zimbabwe-placements.md.
 
+**Book 9:** *الدراسات الاجتماعية — الصف الثالث الأساسي (Social Studies, Third Grade Basic)* (student book, Arabic) — Ministry of Education, Syrian Arab Republic; year 2025–2026 (1446–1447 H), first printed 2018–2019; no ISBN printed. Title as printed: الدراسات الاجتماعية — الصف الثالث الأساسي (Social Studies, Third Grade Basic). Grade: Grade 3 (student/teacher: STUDENT). PDF pages: 112 (cover/title page verified against the record title; grabbed via the repo release route, 123,495,616 bytes = record size exactly). Verdict: COMPLETE. (Non-Geography parts named, not placed: Unit 1 Me — similarity and difference, expressing feelings, my goals (printed pp. 5, 9, 13, personal/Civics); Unit 2 Me and You — my family tree, memory of a homeland, my new skills, keeping appointments (printed pp. 18, 20, 24, 28, Civics/family); Unit 3 Lessons 1 and 3 — how do I behave; protecting my friendships (printed pp. 33, 39, Civics); Unit 4 Lessons 1–2 — a right met by a duty; the society we want (printed pp. 42, 46, Civics); Unit 5 Lesson 7 The little researcher (printed p. 91, project slot); Unit 6 Lessons 2–4 — from our archaeological treasures, the house of antiquities, occasions and holidays (printed pp. 100, 104, 108, History/Civics).) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/syria-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson | Ethiopia, *Social Studies Student Textbook, Grade 7* (Amhara Bureau), printed p. 43 |
@@ -28,8 +30,9 @@ countries: Ethiopia, Turkey, Ecuador, Palestine, Zimbabwe
 | Zimbabwe part (Grade 1) — Unit 18: Road safety rules and signs (teacher guide — evidence) | Zimbabwe, *PlusOne Social Science Grade 1 Teacher's Guide* (teacher guide), Unit 18: Road safety rules and signs — printed p. 36 |
 | Zimbabwe part (Grade 2) — Unit 16: Traffic rules (teacher guide — evidence) | Zimbabwe, *PlusOne Social Science Grade 2 Teacher's Guide* (teacher guide), Unit 16: Traffic rules — printed p. 29 |
 | Zimbabwe part (Grade 6) — Unit 20: Road signs, signals and markings (teacher guide — evidence) | Zimbabwe, *PlusOne Social Science Grade 6 Teacher's Guide* (teacher guide), Unit 20: Road signs, signals and markings — printed p. 43 |
+| Syria part — My safety on the road (Unit 3: My Safety) | Syria, *Syria Grade 3 Social Studies G3*, My safety on the road (Unit 3: My Safety) — printed p. 37 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Turkey, Ecuador, Palestine). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 5 countries (Ethiopia, Turkey, Ecuador, Palestine, Syria). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
 
 Turkey's own way: Hayat Bilgisi (Life Studies) carries almost no Geography in this semester book — self/school, health/safety and family/society — except road signs and the two end-of-book maps; the Geography parts only are placed. That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
@@ -48,3 +51,5 @@ Zimbabwe's own way (Grade 1) (teacher guide — evidence): From Grade 1 the guid
 Zimbabwe's own way (Grade 2) (teacher guide — evidence): The spiral widens from family to community — ethnic groups and languages of Zimbabwe (Kalanga, Sotho and others), production in the community, shelter types in the neighbourhood (granary, silos, community hall, clinic), and global issues introduced as floods and deforestation. That evidence is stocked here as the way Zimbabwe teaches this thing; it does not change the acceptance count above.
 
 Zimbabwe's own way (Grade 6) (teacher guide — evidence): Grade 6 shelter becomes settlement geography — development of settlements in Zimbabwe, siting of shelter in rural and urban areas, and disaster and risk management; transport adds road signs/signals/markings and Zimbabwe's transport and communication links with other countries, plus ICT development. That evidence is stocked here as the way Zimbabwe teaches this thing; it does not change the acceptance count above.
+
+Syria's own way (Syria Grade 3 Social Studies G3): the Grade 3 book widens in rings — Me, Me and You, My Safety, My Society, My Environment, My Homeland — and the Geography lives in the last three rings: road safety, Syrian-made products, ways of living, then a whole environment unit (sky lanterns, locating my position, discovering Syria, the weather bulletin, a water journey).

@@ -1,6 +1,6 @@
 # Sources — Materials of the Crust — Elements, Minerals and Rocks
 
-countries: Ethiopia, Barbados, Malaysia, India, North Macedonia, Slovenia, Vietnam, Papua New Guinea, Uganda, Sudan
+countries: Ethiopia, Barbados, Malaysia, India, North Macedonia, Slovenia, Vietnam, Papua New Guinea, Uganda, Sudan, Syria
 
 **Book 3:** *Social Studies Teacher's Guide, Grade 7* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, first edition 2022 (© 2014 E.C.), 142 printed pp. Printed page = PDF page - 5. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-teacher-placements.md.
 
@@ -28,6 +28,8 @@ countries: Ethiopia, Barbados, Malaysia, India, North Macedonia, Slovenia, Vietn
 
 **Book 15:** *الجغرافيا والدراسات البيئية — Geography and Environmental Studies, First Year Secondary (الصف الأول الثانوي) [record title omits "and Environmental Studies"]* (student book, Arabic) — Republic of Sudan, Ministry of Education and National Education, National Centre for Curricula and Educational Research (Bakht al-Ruda); year not printed on cover/title pages seen; no ISBN printed. Title as printed: الجغرافيا والدراسات البيئية — Geography and Environmental Studies, First Year Secondary (الصف الأول الثانوي) [record title omits "and Environmental Studies"]. Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 195 (cover verified against the record title; byte size 31,004,701 and page count match the staging books.json record exactly). Verdict: COMPLETE. How read: PDF text layer is font-garbled, so read visually from rendered pages — cover, preface (4-unit structure), unit objectives and interior spreads across all four units. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sudan-placements.md.
 
+**Book 16:** *الجغرافية — الثالث الثانوي الأدبي (Geography, Third Secondary, Literary), كتاب الطالب (Student Book)* (student book, Arabic) — Ministry of Education, Syrian Arab Republic; year 2025–2026; no ISBN printed. Title as printed: الجغرافية — الثالث الثانوي الأدبي (Geography, Third Secondary, Literary), كتاب الطالب (Student Book). Grade: Grade 12 (student/teacher: STUDENT). PDF pages: 280 (cover/title page verified against the record title; grabbed via the repo release route, 254,021,461 bytes = record size exactly). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/syria-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Eight elements, and what a mineral is (teacher guide — evidence) | Ethiopia, *Social Studies Teacher's Guide, Grade 7*, Unit 1, printed pp. 11–14 |
@@ -44,8 +46,9 @@ countries: Ethiopia, Barbados, Malaysia, India, North Macedonia, Slovenia, Vietn
 | Papua New Guinea part — Unit 11.1: rock and soil properties studied in the surrounding environment, soil profiles (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 11 Geography TG OBE* (teacher guide), Unit 11.1: rock and soil properties studied in the surrounding environment, soil profiles — printed p. 32 |
 | Uganda part — Ch.8 Rocks and Landforms: three rock types, igneous intrusive/extrusive | Uganda, *Uganda Grade 8 UG S1 Geography Student*, Ch.8 Rocks and Landforms: three rock types, igneous intrusive/extrusive — printed p. 80 |
 | Sudan part — Crustal rocks and their kinds (Unit 1) | Sudan, *Sudan Grade 10 SD Geography 10*, Crustal rocks and their kinds (Unit 1) — printed p. 45 |
+| Syria part — Geological structure of the Arab homeland | Syria, *Syria Grade 12 Geography G12-Literary*, Geological structure of the Arab homeland — printed p. 16 |
 
-**Acceptance count: taught in 8 countries (Barbados, Malaysia, India, North Macedonia, Slovenia, Vietnam, Uganda, Sudan). Ethiopia is named here as teacher-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 9 countries (Barbados, Malaysia, India, North Macedonia, Slovenia, Vietnam, Uganda, Sudan, Syria). Ethiopia is named here as teacher-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Barbados's own way: this is the shared Caribbean CSEC examination textbook used in Barbados — every world process is re-taught through Caribbean case studies (the Caribbean plate, Montserrat's volcano, Jamaica's coasts and Kingston's urban problems, St Lucia's reefs, Bahamas/Jamaica/Puerto Rico karst, Guyana's rivers), map and field skills are folded into the chapters, and the course ends in a School-Based Assessment fieldwork project. That way is stocked here as the way Barbados teaches this thing; it does not change the acceptance count above.
 
@@ -74,3 +77,5 @@ Papua New Guinea's own way (Papua New Guinea Grades 11–12 Geography TG OBE) (t
 Uganda's own way (Uganda Grade 8 UG S1 Geography Student): Competency-based lower-secondary course taught entirely through East Africa: every skill (maps, fieldwork, photographs) is practised on Ugandan/East African places (Tororo topographic map, Uganda lat/long map), and the physical half is East Africa's relief, landform formation, climate and vegetation rather than world coverage.
 
 Sudan's own way (Sudan Grade 10 SD Geography 10): A second-edition foundations book (the preface says necessity forced this 2nd edition): physical geography first (universe to rivers), then climate and vegetation, then a long practical cartography unit, closing with GIS — geography taught as a skills subject, with an activity (نشاط) box on most spreads.
+
+Syria's own way (Syria Grade 12 Geography G12-Literary): the final-year Literary-track book is a three-scale spiral — the Arab homeland as one integrated natural unit, then Syria itself at the same two levels (nature/resources, then human/economic life), then the world split into developing and developed with Japan, India and Senegal as the three case studies; every unit works from maps, statistical tables and graphs, and the water pair of lessons (scarcity, then "a looming crisis and future conflict") is the book's signature treatment.

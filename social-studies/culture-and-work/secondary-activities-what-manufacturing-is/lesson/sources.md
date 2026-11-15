@@ -1,6 +1,6 @@
 # Sources — Secondary activities — what manufacturing is
 
-countries: Ethiopia, Ukraine, Bolivia, Bangladesh, Dominican Republic, Bahamas, India, Cambodia, Sudan
+countries: Ethiopia, Ukraine, Bolivia, Bangladesh, Dominican Republic, Bahamas, India, Cambodia, Sudan, Syria
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 2 — Population Studies and Socio-Economic Activities, printed pp. 44–76).
 
@@ -28,6 +28,8 @@ countries: Ethiopia, Ukraine, Bolivia, Bangladesh, Dominican Republic, Bahamas, 
 
 **Book 13:** *كتاب الجغرافيا — Geography Book, First Year Intermediate (الصف الأول المتوسط)* (student book, Arabic) — Republic of Sudan, Ministry of Education, National Centre for Curricula and Educational Research (Bakht al-Ruda); first edition 2021; no ISBN printed. Title as printed: كتاب الجغرافيا — Geography Book, First Year Intermediate (الصف الأول المتوسط). Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 104 (cover verified against the record title; byte size 18,445,877 and page count match the staging books.json record exactly; read via the recorded Drive source_url after grab.py failed/truncated — GitHub-secured book, download deleted after filing). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sudan-placements.md.
 
+**Book 14:** *عالم الجغرافية (World of Geography), الصف السابع الأساسي (Seventh Grade Basic)* (student book, Arabic) — Ministry of Education / National Center for Curriculum Development (NCCD), Syrian Arab Republic; year 2021–2022 (1442 H), first printed 2017–2018; no ISBN printed. Title as printed: عالم الجغرافية (World of Geography), الصف السابع الأساسي (Seventh Grade Basic). Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 159 (cover/title page verified against the record title; read in place in phase3-staging, 932,059,473 bytes). Verdict: COMPLETE. (Non-content slots named, not placed: teacher-designed lesson slots (printed pp. 86, 150) and the student-designed geography-information slot (printed p. 148) carry no set content of their own.) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/syria-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — From raw material to useful goods | Ethiopia, *Social Studies Student Textbook, Grade 8* (Amhara Bureau), printed p. 60 |
@@ -44,8 +46,9 @@ countries: Ethiopia, Ukraine, Bolivia, Bangladesh, Dominican Republic, Bahamas, 
 | Sudan part — Industry in Sudan: food industries and the leather tanning industry | Sudan, *Sudan Grade 9 SD Geography 9*, Industry in Sudan: food industries and the leather tanning industry — printed p. 90 |
 | Sudan part — Industry in Sudan: oil, sugar, meat, cement, leather, textiles and their problems (Lesson 5) | Sudan, *Sudan Grade 6 SD Geography 6*, Industry in Sudan: oil, sugar, meat, cement, leather, textiles and their problems (Lesson 5) — printed p. 27 |
 | Sudan part — Industrial production in Africa | Sudan, *Sudan Grade 7 SD Geography 7*, Industrial production in Africa — printed p. 36 |
+| Syria part — An industrial project (manufacturing) | Syria, *Syria Grade 7 Geography G7 عالم الجغرافية*, An industrial project (manufacturing) — printed p. 126 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Ukraine, Bolivia, Bangladesh, Dominican Republic, Bahamas, India, Cambodia, Sudan).**
+**Acceptance count: taught in 10 countries (Ethiopia, Ukraine, Bolivia, Bangladesh, Dominican Republic, Bahamas, India, Cambodia, Sudan, Syria).**
 
 Ukraine's own way: A "Geography: Regions and Countries" course — every region is done in the same order (position, nature/resources, population, primary/secondary/tertiary sectors) then typological country studies with rubrics (country visiting-card, capital, pride of the country, unique experience), ending with Ukraine's own place in the world; research tasks (Дослідження) embedded in chapters. That way is stocked here as the way Ukraine teaches this thing.
 
@@ -74,3 +77,5 @@ Sudan's own way (Sudan Grade 9 SD Geography 9): A single-country book: the whole
 Sudan's own way (Sudan Grade 6 SD Geography 6): A whole-Sudan book in three units — its natural environments (desert to rich savanna, plus the Red Sea coast), its productive resources taught environment by environment (farming, herding with the transhumance year of the Kabbabish and Kawahla, industry, mining), then its human geography: population, public services and its important cities one by one.
 
 Sudan's own way (Sudan Grade 7 SD Geography 7): A continents book: after a world opener (continents, oceans, relief, world environments), each continent — Africa, Asia, Europe — gets the same treatment in the same order (relief, drainage, climate, vegetation, population, economic activity, environmental problems), closing with a British Isles case study; Sudan and Africa anchor the examples throughout.
+
+Syria's own way (Syria Grade 7 Geography G7 عالم الجغرافية): a pure Geography book built entirely around activity lessons with story-style titles ("Mother of sciences", "Stones from the sky", "The origami art" for folding, "A tourist in my homeland"); technology first — aerial photos, GPS, remote sensing and GIS open the book before any physical geography — and each semester closes with student/teacher-designed lessons and an end-of-semester project.

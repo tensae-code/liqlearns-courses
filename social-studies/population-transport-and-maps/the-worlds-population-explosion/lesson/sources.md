@@ -1,6 +1,6 @@
 # Sources — The world's population explosion
 
-countries: Ethiopia, Palestine, Cambodia, Slovenia
+countries: Ethiopia, Palestine, Cambodia, Slovenia, Syria
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). Editors: Sintayehu Teka (MSc) (Content Editor), Kassie Molla (MA) (Language Editor), Hirut Woldemichael (MA) (Curriculum Editor). Illustrator: Agenchw Nega (MSc). Designer: Geda Hoka (MA). Evaluators: Dereje Guteta (PhD), Tesfaye Shiferaw (PhD), Abebe Yibeltie (MA), Hussein Seid (MA). First published 2023 under GEQIP-E. ISBN 978-99990-0-049-9. Printed by Gravity Group IND LLC, 13th Industrial Area, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. Printed page = PDF page − 6 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Palestine, Cambodia, Slovenia
 
 **Book 5:** *Geografija 8* (student book, Slovenian) — Slovenia, Zavod RS za šolstvo, Ljubljana; year 2015; ISBN 978-961-03-0282-7 (html5). Title as printed: Geografija 8 (i-učbenik / interactive textbook). Grade: Grade 8 (student/teacher: STUDENT). PDF pages: not a PDF — ZIP package (interactive e-textbook) of 444,693,805 bytes; book pagination runs to printed p. 177+ (Kazalo); all 202 content HTML pages read — every extracted file's decompressed size verified against the ZIP central directory (203/203 files OK). Verdict: COMPLETE (text content; the package's videos/images were not individually viewed — the teaching text, headings, summaries and tasks were read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/slovenia-placements.md.
 
+**Book 6:** *الجغرافية — الصف الثامن (Geography, Eighth Grade)* (student book, Arabic) — Ministry of Education, Syrian Arab Republic; year 2025–2026 (1447 H); no ISBN printed. Title as printed: الجغرافية — الصف الثامن (Geography, Eighth Grade). Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 152 (cover/title page verified against the record title; grabbed via the repo release route, 423,607,662 bytes = record size exactly). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/syria-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — 1.6 billion to 6.1 billion | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 4, printed pp. 88–95 |
@@ -21,8 +23,9 @@ countries: Ethiopia, Palestine, Cambodia, Slovenia
 | Palestine part — Unit 5, Lesson 2: the population explosion — its causes and why it shows in developing countries, not developed ones (stocked here as the closest existing lesson; the placements name population-transport-and-maps/too-many-people-population-growth-and-pressure, which has no lesson folder) | Palestine, *Social Studies, Grade 9, Part Two*, Grade 9, Unit 5, Lesson 2: the population explosion — its causes and why it shows in developing countries, not developed ones — printed p. 58 |
 | Cambodia part — Geography Ch.4 L1 កំណើនប្រជាជនពិភពលោក (world population growth 1850–2010) | Cambodia, *Cambodia Grade 7 Social Studies*, Geography Ch.4 L1 កំណើនប្រជាជនពិភពលោក (world population growth 1850–2010) — printed p. 66 |
 | Slovenia part — Svetovno prebivalstvo (world population) inside Izbrani svetovni problemi II | Slovenia, *Slovenia Grade 8 Geografija 8*, Svetovno prebivalstvo (world population) inside Izbrani svetovni problemi II — printed p. 168 |
+| Syria part — Large population growth and giant cities in South America | Syria, *Syria Grade 8 Geography G8*, Large population growth and giant cities in South America — printed p. 62 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Palestine, Cambodia, Slovenia).**
+**Acceptance count: taught in 5 countries (Ethiopia, Palestine, Cambodia, Slovenia, Syria).**
 
 No book error is flagged for this lesson's pages in the placements. The Grade 11 book's telling of the same explosion — why deaths fell first — stands as its own lesson; this is the Grade 10 acceleration account and does not repeat it.
 
@@ -33,3 +36,5 @@ Palestine's own way (Grade 9, PS G9P2): the course closes at world scale — the
 Cambodia's own way (Cambodia Grade 7 Social Studies): from Grade 7 the combined Social Studies book splits into four named subject sections; its Geography section teaches people-in-environments — hot zones, deserts and oases, polar peoples, climate zones — through world case studies (Kenya farmers, Amazon, Inuit, Sahara oil) before turning to world population.
 
 Slovenia's own way (Slovenia Grade 8 Geografija 8): Grade 8 is pure world regional geography, continent by continent (Africa, Australia/Oceania, the Americas and polar regions), each region worked through the same grid — position/relief/waters, climate/vegetation, population, economy — and the book closes with two world-problems units (rainforest loss, desert spread, water conflicts, the Aral Sea).
+
+Syria's own way (Syria Grade 8 Geography G8): Grade 8 leaves the Arab world and tours the "new" continents in a fixed six-lesson pattern (location and surface, natural environments, settlement/migration, population and cities, resources and economy, one big country study — USA, Brazil, Australia), gives Antarctica a whole unit as a land of ice and science, and closes with a unit of contemporary global challenges (water, food, pollution, warming, population, desertification).

@@ -1,6 +1,6 @@
 # Sources — Desertification — Causes and Defence
 
-countries: Ethiopia, Angola, Zimbabwe, United Kingdom, Slovenia
+countries: Ethiopia, Angola, Zimbabwe, United Kingdom, Slovenia, Syria
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (placement 108).
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Angola, Zimbabwe, United Kingdom, Slovenia
 
 **Book 5:** *Geografija 8* (student book, Slovenian) — Slovenia, Zavod RS za šolstvo, Ljubljana; year 2015; ISBN 978-961-03-0282-7 (html5). Title as printed: Geografija 8 (i-učbenik / interactive textbook). Grade: Grade 8 (student/teacher: STUDENT). PDF pages: not a PDF — ZIP package (interactive e-textbook) of 444,693,805 bytes; book pagination runs to printed p. 177+ (Kazalo); all 202 content HTML pages read — every extracted file's decompressed size verified against the ZIP central directory (203/203 files OK). Verdict: COMPLETE (text content; the package's videos/images were not individually viewed — the teaching text, headings, summaries and tasks were read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/slovenia-placements.md.
 
+**Book 6:** *الجغرافية — الصف الثامن (Geography, Eighth Grade)* (student book, Arabic) — Ministry of Education, Syrian Arab Republic; year 2025–2026 (1447 H); no ISBN printed. Title as printed: الجغرافية — الصف الثامن (Geography, Eighth Grade). Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 152 (cover/title page verified against the record title; grabbed via the repo release route, 423,607,662 bytes = record size exactly). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/syria-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Desert spreading: UN Environment Programme (1991) figures as printed — 35% of the world threatened, 4.5 billion hectares, 850,000,000 people affected; Africa worst hit, two-thirds of its land desert | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 7, printed pp. 148–149 |
@@ -21,8 +23,9 @@ countries: Ethiopia, Angola, Zimbabwe, United Kingdom, Slovenia
 | Zimbabwe part (Grade 7) — Unit 22: Desertification (teacher guide — evidence) | Zimbabwe, *PlusOne Social Science Grade 7 Teacher's Guide* (teacher guide), Unit 22: Desertification — printed p. 52 |
 | United Kingdom part — §7.5 Reducing desertification in hot deserts | United Kingdom, *United Kingdom Grade 10 AQA Geography Student Book*, §7.5 Reducing desertification in hot deserts — printed p. 76 |
 | Slovenia part — Širjenje puščav / Opuščavljanje (the spread of deserts: causes, consequences, solutions) inside Svetovni problemi | Slovenia, *Slovenia Grade 8 Geografija 8*, Širjenje puščav / Opuščavljanje (the spread of deserts: causes, consequences, solutions) inside Svetovni problemi — printed p. 157 |
+| Syria part — Man, the maker of desertification | Syria, *Syria Grade 8 Geography G8*, Man, the maker of desertification — printed p. 146 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Angola, United Kingdom, Slovenia). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 5 countries (Ethiopia, Angola, United Kingdom, Slovenia, Syria). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
 
 The UN figures are the book's printed 1991 figures, taught as the book's figures and dated as such in the lesson; they are not presented as today's measurements. No teacher-guide lesson is claimed for desertification: the pairing warning in the placements notes the guide has no desertification lesson beyond an overload effect. There is NO Grade 8 teacher-guide coverage for Chapter 7: the Grade 8 guide in hand holds only Units 1–3, so no teacher evidence is claimed for any Grade 8 part of this lesson.
 
@@ -35,3 +38,5 @@ Zimbabwe's own way (Grade 7) (teacher guide — evidence): Grade 7 turns analyti
 United Kingdom's own way: A single exam-board (AQA) GCSE textbook organised as thematic units with numbered two-page spreads, every big topic anchored to a named case study (Typhoon Haiyan, Somerset Levels, Rio de Janeiro, Bristol, Nigeria, the Indus Basin, Lesotho Highlands) and a final unit on issue evaluation, fieldwork enquiries and cartographic/graphical/statistical skills.
 
 Slovenia's own way (Slovenia Grade 8 Geografija 8): Grade 8 is pure world regional geography, continent by continent (Africa, Australia/Oceania, the Americas and polar regions), each region worked through the same grid — position/relief/waters, climate/vegetation, population, economy — and the book closes with two world-problems units (rainforest loss, desert spread, water conflicts, the Aral Sea).
+
+Syria's own way (Syria Grade 8 Geography G8): Grade 8 leaves the Arab world and tours the "new" continents in a fixed six-lesson pattern (location and surface, natural environments, settlement/migration, population and cities, resources and economy, one big country study — USA, Brazil, Australia), gives Antarctica a whole unit as a land of ice and science, and closes with a unit of contemporary global challenges (water, food, pollution, warming, population, desertification).

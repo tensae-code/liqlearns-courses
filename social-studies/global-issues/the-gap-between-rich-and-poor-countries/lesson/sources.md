@@ -1,6 +1,6 @@
 # Sources — The gap between rich and poor countries
 
-countries: Ethiopia, Haiti, Palestine, Cambodia
+countries: Ethiopia, Haiti, Palestine, Cambodia, Syria
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Haiti, Palestine, Cambodia
 
 **Book 6:** *ភូមិវិទ្យា ថ្នាក់ទី១២ (Geography, Grade 12)* (student book, Khmer) — Cambodia, MoEYS Publishing and Distribution House; year 2020 printing (colophon page carries the same MoEYS imprint as the Grade 11 volumes); ISBN no ISBN captured on the pages rendered. Title as printed: ភូមិវិទ្យា ថ្នាក់ទី១២ (Geography, Grade 12) — Sala 00004276. Grade: Grade 12 (student/teacher: STUDENT). PDF pages: 209 (title page verified against the record title; the record itself carried no page count). Verdict: COMPLETE. All books are Khmer-language MoEYS textbooks whose embedded text layer uses a legacy font encoding (pdftotext output is garbled), so every book was read visually page-by-page from rendered pages (cover, full contents, every chapter/lesson opening, and spreads through each Geography part); Tesseract khm OCR was attempted first and abandoned (>2 min/page on this host). Read in place from phase3-staging (on_disk) except the Grade 9 Geography excerpt and the Grades 10-12 Geography combined record, grabbed from the textbooks repo with grab.py. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cambodia-placements.md.
 
+**Book 7:** *الجغرافية — الثالث الثانوي الأدبي (Geography, Third Secondary, Literary), كتاب الطالب (Student Book)* (student book, Arabic) — Ministry of Education, Syrian Arab Republic; year 2025–2026; no ISBN printed. Title as printed: الجغرافية — الثالث الثانوي الأدبي (Geography, Third Secondary, Literary), كتاب الطالب (Student Book). Grade: Grade 12 (student/teacher: STUDENT). PDF pages: 280 (cover/title page verified against the record title; grabbed via the repo release route, 254,021,461 bytes = record size exactly). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/syria-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The gap and its causes | G12 student #57, printed pp. 134–138 |
@@ -25,8 +27,9 @@ countries: Ethiopia, Haiti, Palestine, Cambodia
 | Cambodia part — Ch.2 L1 វិសមភាពចំពោះសុខភាព (inequality in health) | Cambodia, *Cambodia Grade 12 Geography*, Ch.2 L1 វិសមភាពចំពោះសុខភាព (inequality in health) — printed p. 20 |
 | Cambodia part — Ch.2 L2 វិសមភាពចំពោះការអប់រំ (inequality in education) | Cambodia, *Cambodia Grade 12 Geography*, Ch.2 L2 វិសមភាពចំពោះការអប់រំ (inequality in education) — printed p. 28 |
 | Cambodia part — Ch.2 L3 វិសមភាពនៃការប្រើប្រាស់សេវាមូលដ្ឋាន (inequality in access to basic services) | Cambodia, *Cambodia Grade 12 Geography*, Ch.2 L3 វិសមភាពនៃការប្រើប្រាស់សេវាមូលដ្ឋាន (inequality in access to basic services) — printed p. 36 |
+| Syria part — Why are some countries developing and others developed? | Syria, *Syria Grade 12 Geography G12-Literary*, Why are some countries developing and others developed? — printed p. 230 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Palestine, Cambodia). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 4 countries (Ethiopia, Palestine, Cambodia, Syria). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
 
 Haiti's own way (teacher sequence — evidence): World inequality is questioned through the words used for it (Nord/Sud, développé/sous-développé) and through Haiti's own case — a rich-country/poor-country comparison (Canada or USA vs Haiti), the independence debt, food insecurity and Covid vaccination in Haiti — with every claim built from authenticated statistics, graphs and maps crossed from local to world scale. That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
@@ -41,3 +44,5 @@ Cambodia's own way (Cambodia Grade 8 Social Studies): Grade 8 Geography is a reg
 Cambodia's own way (Cambodia Grade 11 Geography): the standalone upper-secondary Geography book is a human-impact course — people reshaping the earth, people destroying natural resources, the sea, pollution of air/water/noise/waste, economic globalisation, city and countryside, and a world of uneven development.
 
 Cambodia's own way (Cambodia Grade 12 Geography): the final Geography year is economic geography — Cambodia's population, inequalities, farm/industry/energy/trade/tourism economy and urbanisation first, then the world's economic poles studied one by one: the USA, Japan and the European Union.
+
+Syria's own way (Syria Grade 12 Geography G12-Literary): the final-year Literary-track book is a three-scale spiral — the Arab homeland as one integrated natural unit, then Syria itself at the same two levels (nature/resources, then human/economic life), then the world split into developing and developed with Japan, India and Senegal as the three case studies; every unit works from maps, statistical tables and graphs, and the water pair of lessons (scarcity, then "a looming crisis and future conflict") is the book's signature treatment.

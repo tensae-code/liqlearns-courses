@@ -103,7 +103,7 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **1771**
+Geography lessons across the eight Geography titles: **1827**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -1174,3 +1174,42 @@ International Agreements To Protect The Environment,
 Sudans Environmental Problems and The Waste Problem
 Household To Electronic.
 (Every new lesson is taught in 1 country (Sudan).)
+
++56 for Syria, 2026-11-14 — First Steps: Discovery And
+Colonisation Of South America and Inhabitants Of The
+Earth; The Land and Air: Andes And The Amazon Basin,
+Antarctica The Ice Continent, Climate And Natural
+Environments Of Syria, Climate And Plant Regions Of The
+Arab Homeland, Climate Plants And Animals Of Oceania,
+Dividing The Arab Homeland Into Regions, Geographical
+Regions Of The Arab Homeland, Natural Environments Of
+North America, Natural Environments Of South America,
+Natural Environments Of Syria, Our Beautiful Land
+Syrias Nature, Relief And Environments Of The Nile
+Valley, Relief Of Libya, Relief Of Syria, Relief Of The
+Arab Maghreb, Relief Of The Horn Of Africa, Remote
+Sensing, Soils Of Syria, Surface Features Of The Arab
+Homeland, Syrias Geographical Location, The Earthen
+Wall, The Nile River And Egypts Settlement, Water And
+Soils Of Syria and Water The Seas And Oceans;
+Population, Transport and Maps: Aerial And Satellite
+Photographs, Communications In Syria, Population
+Distribution And Cities Of Syria, Population Of Syria,
+Trade And Transport Routes Of The Old World, Transport
+And Trade In Syria and Ways Of Life In Syria; People
+and Resources: Minerals Of The Arab Homeland, Resources
+And Growth Of South America, Resources Of Libya,
+Resources Of The Arab Maghreb, Resources Of The Horn Of
+Africa, Subsoil Wealth Of Syria and Tourism In Syria;
+Culture and Work: Agricultural Production Of Syria,
+Agriculture In Syria, Industry In Syria, Made In Syria
+Local Products, Syrian Fingerprints Products And Crafts
+and The Useful Difference; Resources and Conflict:
+Exploring Antarctica And Its Resources and Water
+Resources Of Syria; Global Issues: Antarcticas Single
+Environment, Australia Country Study, Brazil Country
+Study, India A Developing Country Case Study, Japan A
+Developed Country Case Study, Our New World, Senegal A
+Developing Country Case Study and The United States Of
+America Country Study.
+(Every new lesson is taught in 1 country (Syria).)

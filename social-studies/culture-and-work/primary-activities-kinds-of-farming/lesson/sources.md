@@ -1,6 +1,6 @@
 # Sources — Primary activities — kinds of farming
 
-countries: Ethiopia, Nauru, Tuvalu, Niue, Palestine, Bahamas, Samoa, Eritrea, India, Cambodia, Fiji, Papua New Guinea, Uganda, Sudan
+countries: Ethiopia, Nauru, Tuvalu, Niue, Palestine, Bahamas, Samoa, Eritrea, India, Cambodia, Fiji, Papua New Guinea, Uganda, Sudan, Syria
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 2 — Population Studies and Socio-Economic Activities, printed pp. 44–76).
 
@@ -40,6 +40,8 @@ countries: Ethiopia, Nauru, Tuvalu, Niue, Palestine, Bahamas, Samoa, Eritrea, In
 
 **Book 19:** *الجغرافيا — Geography, Sixth Grade Primary (الصف السادس الابتدائي / SIXTH GRADE)* (student book, Arabic) — Republic of Sudan, Ministry of Education, National Centre for Curricula and Educational Research (Bakht al-Ruda / NCCER); first edition 2020, Sudan Currency Printing Press; no ISBN printed. Title as printed: الجغرافيا — Geography, Sixth Grade Primary (الصف السادس الابتدائي / SIXTH GRADE). Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 68 (cover verified against the record title; byte size 10,774,792 and page count match the staging books.json record exactly; read via the recorded Drive source_url after grab.py failed/truncated — GitHub-secured book, download deleted after filing). Verdict: COMPLETE. How read: CamScanner image-only PDF (no usable text layer), read visually from rendered pages — cover, contents, preface and spreads across all three units. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sudan-placements.md.
 
+**Book 20:** *عالم الجغرافية (World of Geography), الصف السابع الأساسي (Seventh Grade Basic)* (student book, Arabic) — Ministry of Education / National Center for Curriculum Development (NCCD), Syrian Arab Republic; year 2021–2022 (1442 H), first printed 2017–2018; no ISBN printed. Title as printed: عالم الجغرافية (World of Geography), الصف السابع الأساسي (Seventh Grade Basic). Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 159 (cover/title page verified against the record title; read in place in phase3-staging, 932,059,473 bytes). Verdict: COMPLETE. (Non-content slots named, not placed: teacher-designed lesson slots (printed pp. 86, 150) and the student-designed geography-information slot (printed p. 148) carry no set content of their own.) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/syria-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — By product, and by purpose | Ethiopia, *Social Studies Student Textbook, Grade 8* (Amhara Bureau), printed pp. 55–56 |
@@ -65,8 +67,9 @@ countries: Ethiopia, Nauru, Tuvalu, Niue, Palestine, Bahamas, Samoa, Eritrea, In
 | Sudan part — Farming patterns / agricultural systems (الأنماط الزراعية) | Sudan, *Sudan Grade 12 SD Geography 12*, Farming patterns / agricultural systems (الأنماط الزراعية) — printed p. 52 |
 | Sudan part — Traditional rain-fed farming: features and Sudan's main crops (grains, oils, fibres, vegetables, fodder) | Sudan, *Sudan Grade 9 SD Geography 9*, Traditional rain-fed farming: features and Sudan's main crops (grains, oils, fibres, vegetables, fodder) — printed p. 50 |
 | Sudan part — Agriculture in Sudan: rain-fed, artificially irrigated and basin irrigation, taught by environment (Unit 2, Lesson 4) | Sudan, *Sudan Grade 6 SD Geography 6*, Agriculture in Sudan: rain-fed, artificially irrigated and basin irrigation, taught by environment (Unit 2, Lesson 4) — printed p. 15 |
+| Syria part — Agriculture in colours (kinds of farming) | Syria, *Syria Grade 7 Geography G7 عالم الجغرافية*, Agriculture in colours (kinds of farming) — printed p. 118 |
 
-**Acceptance count: taught in 13 countries (Ethiopia, Nauru, Tuvalu, Niue, Palestine, Bahamas, Samoa, Eritrea, India, Cambodia, Fiji, Uganda, Sudan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 14 countries (Ethiopia, Nauru, Tuvalu, Niue, Palestine, Bahamas, Samoa, Eritrea, India, Cambodia, Fiji, Uganda, Sudan, Syria). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Niue's own way: Niue uses the shared Pacific ESD reader suite (Niue advisor Birtha Togahai) — land Geography is taught through Pacific farming itself: taro, pulaka and the coconut "tree of life", with Niue's own crops, exports and name-story ("behold the coconut") as anchor examples, and shifting cultivation/fallowing taught as sound science. That way is stocked here as the way Niue teaches this thing.
 
@@ -107,3 +110,5 @@ Sudan's own way (Sudan Grade 12 SD Geography 12): The final-year book is organis
 Sudan's own way (Sudan Grade 9 SD Geography 9): A single-country book: the whole of Sudan taught in three units — its physical geography, its human geography, then its environmental problems — with map-work activities on Sudan's own maps (states, roads, the Nile) and an infographic "resources of Sudan" spread; the preface warns its statistics change and are only indicators.
 
 Sudan's own way (Sudan Grade 6 SD Geography 6): A whole-Sudan book in three units — its natural environments (desert to rich savanna, plus the Red Sea coast), its productive resources taught environment by environment (farming, herding with the transhumance year of the Kabbabish and Kawahla, industry, mining), then its human geography: population, public services and its important cities one by one.
+
+Syria's own way (Syria Grade 7 Geography G7 عالم الجغرافية): a pure Geography book built entirely around activity lessons with story-style titles ("Mother of sciences", "Stones from the sky", "The origami art" for folding, "A tourist in my homeland"); technology first — aerial photos, GPS, remote sensing and GIS open the book before any physical geography — and each semester closes with student/teacher-designed lessons and an end-of-semester project.

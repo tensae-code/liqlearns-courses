@@ -4265,3 +4265,107 @@ International Agreements To Protect The Environment
 Electronic (printed p. 140) — every new lesson is
 taught in 1 country (Sudan), 8 questions each.
 Geography lessons: 1719 → 1771.
+
+
+## Syria — Geography expansion (merged 2026-11-14)
+174 placement lines stocked from Syria's 9 placed books
+(20 records / 10 distinct books in the placements
+file's header count, all Arabic, Syrian Ministry of
+Education — Social Studies Grades 1, 2, 3, 4 and 6 and
+Geography Grades 7, 8, 9 and 12-Literary; Books are
+image-only scans read page-by-page from renders /
+contact sheets, most grabbed via the repo release route
+with byte sizes matching their records exactly, the
+Grade 1 book downloaded from its recorded Wayback
+capture of the Syrian MoE curriculum portal and staged
+under the push-don't-delete rule) — combined Social
+Studies books have their Geography parts placed only,
+with History / Civics parts named in each book header,
+not placed. RECORD-ONLY, NOT PLACED: the Grade 5 record
+(Book 2) — the file behind it is a second, watermarked
+scan (www.almanahij-sy.com) of the Grade 6 book (Book
+1), same 2025-2026 / 1447 H edition, same 116 PDF
+pages, so its Geography content is taught once, under
+Grade 6, and every distinct book is cited once; library
+debt carried exactly — the genuine Syrian Social
+Studies Grade 5 student book is NOT held, and the Grade
+5 link_record (Google Drive) could not be checked while
+network egress was down. The placements file's own
+per-book tallies (13 + 27 + 34 + 29 + 26 + 17 + 10 + 9
++ 9) sum to 174 and agree with the line-by-line count —
+no tally discrepancy; all 174 lines were stocked as
+written. All 9 placed books are student books, counted
+in acceptance counts; every placed book is COMPLETE.
+Stocked into standing lessons (95 placements across 64
+lessons, every one counting Syria — the 92
+existing-flagged placements across 62 lessons, plus 3
+NEW-flagged placements whose slugs already stood:
+Climate of the Arab Homeland (2 placements) and North
+America Location and Surface (1 placement), built by
+the Palestine merge, stocked there instead of building
+duplicates, with the original placement slug recorded
+in each provenance row). No placement was excluded. 56
+NEW lessons built (79 placements) — **First Steps**:
+Discovery And Colonisation Of South America (printed p.
+58), Inhabitants Of The Earth (printed p. 50); **The
+Land and Air**: Andes And The Amazon Basin (printed p.
+48), Antarctica The Ice Continent (printed p. 110),
+Climate And Natural Environments Of Syria (printed p.
+145; printed p. 57), Climate And Plant Regions Of The
+Arab Homeland (printed p. 53), Climate Plants And
+Animals Of Oceania (printed p. 85), Dividing The Arab
+Homeland Into Regions (printed p. 21), Geographical
+Regions Of The Arab Homeland (printed p. 59; printed p.
+24), Natural Environments Of North America (printed p.
+17), Natural Environments Of South America (printed p.
+53), Natural Environments Of Syria (printed p. 19;
+printed p. 72), Our Beautiful Land Syrias Nature
+(printed p. 62; printed p. 58), Relief And Environments
+Of The Nile Valley (printed p. 37), Relief Of Libya
+(printed p. 82), Relief Of Syria (printed p. 137;
+printed p. 40; printed p. 14), Relief Of The Arab
+Maghreb (printed p. 102), Relief Of The Horn Of Africa
+(printed p. 55), Remote Sensing (printed p. 28), Soils
+Of Syria (printed p. 80), Surface Features Of The Arab
+Homeland (printed p. 21; printed p. 35), Syrias
+Geographical Location (printed p. 134; printed p. 17;
+printed p. 10; printed p. 73; printed p. 76), The
+Earthen Wall (printed p. 84), The Nile River And Egypts
+Settlement (printed p. 15), Water And Soils Of Syria
+(printed p. 150), Water The Seas And Oceans (printed p.
+99); **Population, Transport and Maps**: Aerial And
+Satellite Photographs (printed p. 12), Communications
+In Syria (printed p. 48), Population Distribution And
+Cities Of Syria (printed p. 171; printed p. 71),
+Population Of Syria (printed p. 94), Trade And
+Transport Routes Of The Old World (printed p. 132),
+Transport And Trade In Syria (printed p. 208; printed
+p. 162), Ways Of Life In Syria (printed p. 104; printed
+p. 58; printed p. 56); **People and Resources**:
+Minerals Of The Arab Homeland (printed p. 136),
+Resources And Growth Of South America (printed p. 66),
+Resources Of Libya (printed p. 87), Resources Of The
+Arab Maghreb (printed p. 105), Resources Of The Horn Of
+Africa (printed p. 59), Subsoil Wealth Of Syria
+(printed p. 157; printed p. 140), Tourism In Syria
+(printed p. 202; printed p. 170; printed p. 93);
+**Culture and Work**: Agricultural Production Of Syria
+(printed p. 126), Agriculture In Syria (printed p. 178;
+printed p. 120; printed p. 78), Industry In Syria
+(printed p. 191; printed p. 152; printed p. 83), Made
+In Syria Local Products (printed p. 50), Syrian
+Fingerprints Products And Crafts (printed p. 96), The
+Useful Difference (printed p. 122); **Resources and
+Conflict**: Exploring Antarctica And Its Resources
+(printed p. 114), Water Resources Of Syria (printed p.
+69; printed p. 29); **Global Issues**: Antarcticas
+Single Environment (printed p. 118), Australia Country
+Study (printed p. 99), Brazil Country Study (printed p.
+71), India A Developing Country Case Study (printed p.
+249), Japan A Developed Country Case Study (printed p.
+241), Our New World (printed p. 140), Senegal A
+Developing Country Case Study (printed p. 258), The
+United States Of America Country Study (printed p. 37)
+— every new lesson is taught in 1 country (Syria), 8
+questions each.
+Geography lessons: 1771 → 1827.

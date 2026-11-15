@@ -1,6 +1,6 @@
 # Sources — Water — Pollution and Shrinking Clean Water
 
-countries: Ethiopia, Jamaica, Bolivia, Bangladesh, Indonesia, Cambodia, Papua New Guinea, Sudan
+countries: Ethiopia, Jamaica, Bolivia, Bangladesh, Indonesia, Cambodia, Papua New Guinea, Sudan, Syria
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (placement 110).
 
@@ -24,6 +24,8 @@ countries: Ethiopia, Jamaica, Bolivia, Bangladesh, Indonesia, Cambodia, Papua Ne
 
 **Book 11:** *الجغرافيا — Geography, Third Year Intermediate (الصف الثالث المتوسط)* (student book, Arabic) — Republic of Sudan, Ministry of Education, National Centre for Curricula and Educational Research (Bakht al-Ruda); year not printed on cover/title pages seen; no ISBN printed. Title as printed: الجغرافيا — Geography, Third Year Intermediate (الصف الثالث المتوسط). Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 160 (cover verified against the record title; byte size 13,733,766 and page count match the staging books.json record exactly). Verdict: COMPLETE. How read: PDF text layer is font-garbled, so read visually from rendered pages — cover, preface (3-unit structure), unit objectives and a full spread of interior pages across all three units. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sudan-placements.md.
 
+**Book 12:** *عالم الجغرافية (World of Geography), الصف السابع الأساسي (Seventh Grade Basic)* (student book, Arabic) — Ministry of Education / National Center for Curriculum Development (NCCD), Syrian Arab Republic; year 2021–2022 (1442 H), first printed 2017–2018; no ISBN printed. Title as printed: عالم الجغرافية (World of Geography), الصف السابع الأساسي (Seventh Grade Basic). Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 159 (cover/title page verified against the record title; read in place in phase3-staging, 932,059,473 bytes). Verdict: COMPLETE. (Non-content slots named, not placed: teacher-designed lesson slots (printed pp. 86, 150) and the student-designed geography-information slot (printed p. 148) carry no set content of their own.) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/syria-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Water pollution (Grade 7 depth): pollution of lakes, rivers, seas, oceans and groundwater; polluted water changes nature, cannot renew itself, loses physical quality, biological content and economic use; the kebele audit task | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 7, printed pp. 150–151 |
@@ -38,8 +40,9 @@ countries: Ethiopia, Jamaica, Bolivia, Bangladesh, Indonesia, Cambodia, Papua Ne
 | Papua New Guinea part — Strand 5 Unit 4 Environmental Change and Sustainability, Topics 1 and 3: Problems related to water quality (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 10 Social Science TG* (teacher guide), Strand 5 Unit 4 Environmental Change and Sustainability, Topics 1 and 3: Problems related to water quality — printed p. 281 |
 | Sudan part — Freshwater pollution | Sudan, *Sudan Grade 12 SD Geography 12*, Freshwater pollution — printed p. 156 |
 | Sudan part — Environmental problems in Sudan: pollution of fresh and salt water (Unit 3) | Sudan, *Sudan Grade 9 SD Geography 9*, Environmental problems in Sudan: pollution of fresh and salt water (Unit 3) — printed p. 130 |
+| Syria part — I do good and do not throw into the sea (Water unit: keeping water clean) | Syria, *Syria Grade 7 Geography G7 عالم الجغرافية*, I do good and do not throw into the sea (Water unit: keeping water clean) — printed p. 92 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Bolivia, Bangladesh, Indonesia, Cambodia, Sudan). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 7 countries (Ethiopia, Bolivia, Bangladesh, Indonesia, Cambodia, Sudan, Syria). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -62,3 +65,5 @@ Papua New Guinea's own way (Papua New Guinea Grade 10 Social Science TG) (teache
 Sudan's own way (Sudan Grade 12 SD Geography 12): The final-year book is organised as applied geography: it opens with a full revision exercise on a Port Sudan contour map (contours, scale, cross-sections, watershed lines), then remote sensing and photo interpretation, then world economic geography, and closes on human–environment global problems, repeatedly pulling Sudanese examples (Gezira scheme, gum arabic, Sudanese oil, farming systems of Sudan) into the world treatment.
 
 Sudan's own way (Sudan Grade 9 SD Geography 9): A single-country book: the whole of Sudan taught in three units — its physical geography, its human geography, then its environmental problems — with map-work activities on Sudan's own maps (states, roads, the Nile) and an infographic "resources of Sudan" spread; the preface warns its statistics change and are only indicators.
+
+Syria's own way (Syria Grade 7 Geography G7 عالم الجغرافية): a pure Geography book built entirely around activity lessons with story-style titles ("Mother of sciences", "Stones from the sky", "The origami art" for folding, "A tourist in my homeland"); technology first — aerial photos, GPS, remote sensing and GIS open the book before any physical geography — and each semester closes with student/teacher-designed lessons and an end-of-semester project.

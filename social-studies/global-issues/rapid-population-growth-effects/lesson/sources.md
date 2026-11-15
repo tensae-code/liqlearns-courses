@@ -1,6 +1,6 @@
 # Sources — Rapid Population Growth — Effects
 
-countries: Ethiopia, Eritrea, Cambodia
+countries: Ethiopia, Eritrea, Cambodia, Syria
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (placement 112).
 
@@ -10,6 +10,10 @@ countries: Ethiopia, Eritrea, Cambodia
 
 **Book 4:** *សិក្សាសង្គម ថ្នាក់ទី១០ (Social Studies, Grade 10)* (student book, Khmer) — Cambodia, MoEYS Publishing and Distribution House; year 2020 (11th printing); ISBN 978-995-000-981 (printed as 9-789-995-000-981). Title as printed: សិក្សាសង្គម ថ្នាក់ទី១០ (Social Studies, Grade 10) — Sala 00004304. Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 385. Verdict: COMPLETE. All books are Khmer-language MoEYS textbooks whose embedded text layer uses a legacy font encoding (pdftotext output is garbled), so every book was read visually page-by-page from rendered pages (cover, full contents, every chapter/lesson opening, and spreads through each Geography part); Tesseract khm OCR was attempted first and abandoned (>2 min/page on this host). Read in place from phase3-staging (on_disk) except the Grade 9 Geography excerpt and the Grades 10-12 Geography combined record, grabbed from the textbooks repo with grab.py. Non-Geography parts named, not placed: History section (ប្រវត្តិវិទ្យា, printed pp.97–194: the world before and into the 20th century, Cambodia's history, Asia and the world); Civics section (សីលធម៌-ពលរដ្ឋវិទ្យា, printed pp.195–288: human values, social order, joining community development); Economics section (សេដ្ឋវិទ្យា, printed pp.289–384: family economic security, occupations and personal qualities, family businesses). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cambodia-placements.md.
 
+**Book 5:** *عالم الجغرافية (World of Geography), الصف السابع الأساسي (Seventh Grade Basic)* (student book, Arabic) — Ministry of Education / National Center for Curriculum Development (NCCD), Syrian Arab Republic; year 2021–2022 (1442 H), first printed 2017–2018; no ISBN printed. Title as printed: عالم الجغرافية (World of Geography), الصف السابع الأساسي (Seventh Grade Basic). Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 159 (cover/title page verified against the record title; read in place in phase3-staging, 932,059,473 bytes). Verdict: COMPLETE. (Non-content slots named, not placed: teacher-designed lesson slots (printed pp. 86, 150) and the student-designed geography-information slot (printed p. 148) carry no set content of their own.) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/syria-placements.md.
+
+**Book 6:** *الجغرافية — الصف الثامن (Geography, Eighth Grade)* (student book, Arabic) — Ministry of Education, Syrian Arab Republic; year 2025–2026 (1447 H); no ISBN printed. Title as printed: الجغرافية — الصف الثامن (Geography, Eighth Grade). Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 152 (cover/title page verified against the record title; grabbed via the repo release route, 423,607,662 bytes = record size exactly). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/syria-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The family and social costs: food shortage, rising costs, parental strain, higher mother and child deaths; pressure on schools, health, housing, water, electricity | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 7, printed pp. 153–154 |
@@ -17,8 +21,10 @@ countries: Ethiopia, Eritrea, Cambodia
 | Sub lesson 3 — Demographic overload — the engine (teacher guide — evidence): rapid growth → wood cut in great quantity for fuel, house construction and tools/equipment → deforestation; keyed problem list — deforestation and desertification, decrease of farmland, water pollution, ozone depletion, greenhouse effect | Ethiopia, *Social Studies Teacher's Guide, Grade 7*, §7.2, printed pp. 108–110 (teacher guide — evidence) |
 | Eritrea part (ER G7 Social Studies) — Unit 2: 2.5 Problems of Population Growth | Eritrea, *ER G7 Social Studies*, Unit 2: 2.5 Problems of Population Growth — printed p. 25 |
 | Cambodia part — Geography Ch.4 កំណើនប្រជាជន និងផលវិបាក (population growth and its consequences — density map, growth to 2050) | Cambodia, *Cambodia Grade 10 Social Studies*, Geography Ch.4 កំណើនប្រជាជន និងផលវិបាក (population growth and its consequences — density map, growth to 2050) — printed p. 67 |
+| Syria part — The sad planet (Population unit: population pressure on the planet) | Syria, *Syria Grade 7 Geography G7 عالم الجغرافية*, The sad planet (Population unit: population pressure on the planet) — printed p. 112 |
+| Syria part — The population explosion, a real problem | Syria, *Syria Grade 8 Geography G8*, The population explosion, a real problem — printed p. 142 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Eritrea, Cambodia).**
+**Acceptance count: taught in 4 countries (Ethiopia, Eritrea, Cambodia, Syria).**
 
 Guide honesty carried exactly: the guide's §7.2 printed one-line definition of 'overload' is garbled — it defines rapid urbanisation, not the overload its own lesson then teaches (placements, verification block error 9). This lesson teaches the section's substance (the wood-demand mechanism and its keyed problem list), never that sentence, and says so here. The Addis Ababa Grade 7 teacher guide is NOT edition-matched to the Amhara student books (different bureau, different year, different language of instruction); guide material is used only as labelled teacher evidence, never as pupil content from the student book. There is NO Grade 8 teacher-guide coverage for Chapter 7: the Grade 8 guide in hand holds only Units 1–3, so no teacher evidence is claimed for any Grade 8 part of this lesson.
 
@@ -27,3 +33,7 @@ Searchable tags: rapid population growth effects, family costs, social costs, ec
 Eritrea's own way (ER G7 Social Studies): Grade 7 turns fully to skills and Eritrea's land — map scale, area and population arithmetic first, then Eritrea's natural heritage (Red Sea coast, wildlife) and Eritrea's own disaster set (drought, locusts, earthquakes, volcanism) as the environmental core.
 
 Cambodia's own way (Cambodia Grade 10 Social Studies): at upper-secondary the Geography section becomes thematic world geography — industrial location, world agriculture, the Asia-Pacific newly industrialised countries, population growth and urbanisation — each chapter a single long study with maps and photographs.
+
+Syria's own way (Syria Grade 7 Geography G7 عالم الجغرافية): a pure Geography book built entirely around activity lessons with story-style titles ("Mother of sciences", "Stones from the sky", "The origami art" for folding, "A tourist in my homeland"); technology first — aerial photos, GPS, remote sensing and GIS open the book before any physical geography — and each semester closes with student/teacher-designed lessons and an end-of-semester project.
+
+Syria's own way (Syria Grade 8 Geography G8): Grade 8 leaves the Arab world and tours the "new" continents in a fixed six-lesson pattern (location and surface, natural environments, settlement/migration, population and cities, resources and economy, one big country study — USA, Brazil, Australia), gives Antarctica a whole unit as a land of ice and science, and closes with a unit of contemporary global challenges (water, food, pollution, warming, population, desertification).

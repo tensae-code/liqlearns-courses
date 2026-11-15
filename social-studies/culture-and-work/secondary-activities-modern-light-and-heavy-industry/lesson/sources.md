@@ -1,6 +1,6 @@
 # Sources — Secondary activities — modern light and heavy industry
 
-countries: Ethiopia, Bangladesh, Turkmenistan, Indonesia, Egypt, Eritrea, India, North Macedonia, United Kingdom, Uzbekistan, Slovenia, Papua New Guinea, Sudan
+countries: Ethiopia, Bangladesh, Turkmenistan, Indonesia, Egypt, Eritrea, India, North Macedonia, United Kingdom, Uzbekistan, Slovenia, Papua New Guinea, Sudan, Syria
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 2 — Population Studies and Socio-Economic Activities, printed pp. 44–76).
 
@@ -36,6 +36,10 @@ countries: Ethiopia, Bangladesh, Turkmenistan, Indonesia, Egypt, Eritrea, India,
 
 **Book 17:** *الجغرافيا — Geography, Second Year Intermediate (الصف الثاني المتوسط)* (student book, Arabic) — Republic of Sudan, Ministry of Education, National Centre for Curricula and Educational Research (Bakht al-Ruda); first edition 2022; no ISBN printed (this copy carries the Afedne.com platform watermark). Title as printed: الجغرافيا — Geography, Second Year Intermediate (الصف الثاني المتوسط). Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 126 (title page verified against the record title; byte size 30,281,671 and page count match the staging books.json record exactly; read via the recorded Drive source_url after grab.py failed/truncated — GitHub-secured book, download deleted after filing). Verdict: COMPLETE. How read: Text layer garbled, so read visually from rendered pages — title page, contents, preface and spreads across all three units (Canada, Brazil and Australia sections spot-verified in the interior). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sudan-placements.md.
 
+**Book 18:** *الجغرافية — الثالث الثانوي الأدبي (Geography, Third Secondary, Literary), كتاب الطالب (Student Book)* (student book, Arabic) — Ministry of Education, Syrian Arab Republic; year 2025–2026; no ISBN printed. Title as printed: الجغرافية — الثالث الثانوي الأدبي (Geography, Third Secondary, Literary), كتاب الطالب (Student Book). Grade: Grade 12 (student/teacher: STUDENT). PDF pages: 280 (cover/title page verified against the record title; grabbed via the repo release route, 254,021,461 bytes = record size exactly). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/syria-placements.md.
+
+**Book 19:** *الجغرافية — الصف التاسع (Geography, Ninth Grade)* (student book, Arabic) — Ministry of Education, Syrian Arab Republic; year 2025–2026 (1447 H); no ISBN printed. Title as printed: الجغرافية — الصف التاسع (Geography, Ninth Grade). Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 176 (cover/title page verified against the record title; grabbed via the repo release route, 363,527,395 bytes = record size exactly). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/syria-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Modern manufacturing | Ethiopia, *Social Studies Student Textbook, Grade 8* (Amhara Bureau), printed pp. 63–64 |
@@ -56,8 +60,10 @@ countries: Ethiopia, Bangladesh, Turkmenistan, Indonesia, Egypt, Eritrea, India,
 | Sudan part — The world's industrial regions: North America, Europe, Russia, Japan | Sudan, *Sudan Grade 12 SD Geography 12*, The world's industrial regions: North America, Europe, Russia, Japan — printed p. 102 |
 | Sudan part — Europe's economic activity: farming, energy and its main industries | Sudan, *Sudan Grade 7 SD Geography 7*, Europe's economic activity: farming, energy and its main industries — printed p. 84 |
 | Sudan part — North America's economic geography and industry | Sudan, *Sudan Grade 8 SD Geography 8*, North America's economic geography and industry — printed p. 26 |
+| Syria part — Industry in the Arab homeland | Syria, *Syria Grade 12 Geography G12-Literary*, Industry in the Arab homeland — printed p. 94 |
+| Syria part — Industry in the Arab homeland, between reality and creativity (Unit 5) | Syria, *Syria Grade 9 Geography G9*, Industry in the Arab homeland, between reality and creativity (Unit 5) — printed p. 148 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Bangladesh, Turkmenistan, Indonesia, Egypt, Eritrea, India, North Macedonia, United Kingdom, Uzbekistan, Slovenia, Sudan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 13 countries (Ethiopia, Bangladesh, Turkmenistan, Indonesia, Egypt, Eritrea, India, North Macedonia, United Kingdom, Uzbekistan, Slovenia, Sudan, Syria). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Indonesia's own way (Grade 12): Grade 12 is applied human geography built entirely on Indonesian cases — regional development and spatial planning (tata ruang) measured against a Happiness Index, Industry 4.0 / Society 5.0, and Indonesia's own geopolitics and ASEAN-era cooperation as pillars of national resilience. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -94,3 +100,7 @@ Sudan's own way (Sudan Grade 12 SD Geography 12): The final-year book is organis
 Sudan's own way (Sudan Grade 7 SD Geography 7): A continents book: after a world opener (continents, oceans, relief, world environments), each continent — Africa, Asia, Europe — gets the same treatment in the same order (relief, drainage, climate, vegetation, population, economic activity, environmental problems), closing with a British Isles case study; Sudan and Africa anchor the examples throughout.
 
 Sudan's own way (Sudan Grade 8 SD Geography 8): The second half of the world tour begun in Grade 7: the Americas and Australia get the same fixed treatment (location, relief, drainage, climate, vegetation, population, economic activity), and each unit closes with one full country case study — Canada, Brazil, and Australia itself — so pupils learn a repeatable way to study any continent and any country.
+
+Syria's own way (Syria Grade 12 Geography G12-Literary): the final-year Literary-track book is a three-scale spiral — the Arab homeland as one integrated natural unit, then Syria itself at the same two levels (nature/resources, then human/economic life), then the world split into developing and developed with Japan, India and Senegal as the three case studies; every unit works from maps, statistical tables and graphs, and the water pair of lessons (scarcity, then "a looming crisis and future conflict") is the book's signature treatment.
+
+Syria's own way (Syria Grade 9 Geography G9): every unit is taught twice at two scales — the Arab homeland first, then Syria — with parallel lesson pairs (relief, climate, water, soil, agriculture, industry, transport, tourism); Unit 3's framing is pointed: "huge human resources… and weak investment", and the subsoil lessons are titled "hidden treasures".

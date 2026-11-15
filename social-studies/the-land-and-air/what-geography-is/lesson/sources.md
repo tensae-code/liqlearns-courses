@@ -1,6 +1,6 @@
 # Sources — What geography is
 
-countries: Ethiopia, Saudi Arabia, Turkey, Bolivia, Angola, Dominican Republic, Slovenia, Vietnam, Uganda, Sudan
+countries: Ethiopia, Saudi Arabia, Turkey, Bolivia, Angola, Dominican Republic, Slovenia, Vietnam, Uganda, Sudan, Syria
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -30,6 +30,8 @@ countries: Ethiopia, Saudi Arabia, Turkey, Bolivia, Angola, Dominican Republic, 
 
 **Book 14:** *الجغرافيا — Geography, Fifth Grade Primary (الصف الخامس الابتدائي)* (student book, Arabic) — Republic of Sudan, Ministry of Education, National Centre for Curricula and Educational Research (Bakht al-Ruda); first edition 2021; no ISBN printed. Title as printed: الجغرافيا — Geography, Fifth Grade Primary (الصف الخامس الابتدائي). Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 37 (cover verified against the record title; byte size 7,554,967 and page count match the staging books.json record exactly; read via the recorded Drive source_url after grab.py failed/truncated — GitHub-secured book, download deleted after filing). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sudan-placements.md.
 
+**Book 15:** *عالم الجغرافية (World of Geography), الصف السابع الأساسي (Seventh Grade Basic)* (student book, Arabic) — Ministry of Education / National Center for Curriculum Development (NCCD), Syrian Arab Republic; year 2021–2022 (1442 H), first printed 2017–2018; no ISBN printed. Title as printed: عالم الجغرافية (World of Geography), الصف السابع الأساسي (Seventh Grade Basic). Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 159 (cover/title page verified against the record title; read in place in phase3-staging, 932,059,473 bytes). Verdict: COMPLETE. (Non-content slots named, not placed: teacher-designed lesson slots (printed pp. 86, 150) and the student-designed geography-information slot (printed p. 148) carry no set content of their own.) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/syria-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The word | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 1, printed pp. 3–4 |
@@ -48,8 +50,9 @@ countries: Ethiopia, Saudi Arabia, Turkey, Bolivia, Angola, Dominican Republic, 
 | Uganda part — Ch.1 Introduction to Geography (teaching guidance) (teacher guide — evidence) | Uganda, *Uganda Grade 8 UG S1 Geography TG* (teacher guide), Ch.1 Introduction to Geography (teaching guidance) — printed p. 1 |
 | Sudan part — Definition of geography and its branches (physical, human, geographic techniques) | Sudan, *Sudan Grade 10 SD Geography 10*, Definition of geography and its branches (physical, human, geographic techniques) — printed p. 7 |
 | Sudan part — What is geography? (Unit 1: The environment around us) | Sudan, *Sudan Grade 5 SD Geography 5*, What is geography? (Unit 1: The environment around us) — printed p. 6 |
+| Syria part — Mother of sciences (what Geography is, its branches and importance; natural vs human phenomena sorting activity) | Syria, *Syria Grade 7 Geography G7 عالم الجغرافية*, Mother of sciences (what Geography is, its branches and importance; natural vs human phenomena sorting activity) — printed p. 8 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Saudi Arabia, Turkey, Bolivia, Angola, Dominican Republic, Slovenia, Vietnam, Uganda, Sudan).**
+**Acceptance count: taught in 11 countries (Ethiopia, Saudi Arabia, Turkey, Bolivia, Angola, Dominican Republic, Slovenia, Vietnam, Uganda, Sudan, Syria).**
 
 Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
@@ -74,3 +77,5 @@ Uganda's own way (Uganda Grade 8 UG S1 Geography TG) (teacher guide — evidence
 Sudan's own way (Sudan Grade 10 SD Geography 10): A second-edition foundations book (the preface says necessity forced this 2nd edition): physical geography first (universe to rivers), then climate and vegetation, then a long practical cartography unit, closing with GIS — geography taught as a skills subject, with an activity (نشاط) box on most spreads.
 
 Sudan's own way (Sudan Grade 5 SD Geography 5): The first-ever Geography book in the post-2019 curriculum starts from the child's own classroom and school: directions are learned by standing facing the sunrise, map elements through a pupil's-house map, and only then does the book step out to Sudan, Africa and the world — a local-to-global ladder.
+
+Syria's own way (Syria Grade 7 Geography G7 عالم الجغرافية): a pure Geography book built entirely around activity lessons with story-style titles ("Mother of sciences", "Stones from the sky", "The origami art" for folding, "A tourist in my homeland"); technology first — aerial photos, GPS, remote sensing and GIS open the book before any physical geography — and each semester closes with student/teacher-designed lessons and an end-of-semester project.

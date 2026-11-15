@@ -1,6 +1,6 @@
 # Sources — The Earth's Movements — Rotation and Revolution
 
-countries: Ethiopia, Saudi Arabia, Turkey, Haiti, Jamaica, Palestine, Dominican Republic, Bahamas, Malaysia, India, Vietnam, Papua New Guinea, Uganda
+countries: Ethiopia, Saudi Arabia, Turkey, Haiti, Jamaica, Palestine, Dominican Republic, Bahamas, Malaysia, India, Vietnam, Papua New Guinea, Uganda, Syria
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page - 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md.
 
@@ -40,6 +40,8 @@ countries: Ethiopia, Saudi Arabia, Turkey, Haiti, Jamaica, Palestine, Dominican 
 
 **Book 20:** *Home-Study Learning — Senior 1 Geography (August 2020)* (student book, English) — Ministry of Education and Sports / National Curriculum Development Centre (NCDC); year 2020; ISBN no ISBN printed. Title as printed: Home-Study Learning — Senior 1 Geography (August 2020). Grade: Senior One = Grade 8 (student/teacher: STUDENT). PDF pages: 38 (cover verified: "HOME-STUDY LEARNING SENIOR 1 GEOGRAPHY", NCDC, August 2020 — matches record page count 38 exactly; read via the record's books.json source_url at f.openpdfs.org, mirror of the NCDC booklet, after grab.py routes failed with RemoteDisconnected from api.github.com). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/uganda-placements.md.
 
+**Book 21:** *عالم الجغرافية (World of Geography), الصف السابع الأساسي (Seventh Grade Basic)* (student book, Arabic) — Ministry of Education / National Center for Curriculum Development (NCCD), Syrian Arab Republic; year 2021–2022 (1442 H), first printed 2017–2018; no ISBN printed. Title as printed: عالم الجغرافية (World of Geography), الصف السابع الأساسي (Seventh Grade Basic). Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 159 (cover/title page verified against the record title; read in place in phase3-staging, 932,059,473 bytes). Verdict: COMPLETE. (Non-content slots named, not placed: teacher-designed lesson slots (printed pp. 86, 150) and the student-designed geography-information slot (printed p. 148) carry no set content of their own.) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/syria-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Four movements, two that matter | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 1, printed p. 17 |
@@ -63,8 +65,9 @@ countries: Ethiopia, Saudi Arabia, Turkey, Haiti, Jamaica, Palestine, Dominican 
 | Uganda part — Ch.5 Movements of the Earth: rotation and revolution | Uganda, *Uganda Grade 8 UG S1 Geography Student*, Ch.5 Movements of the Earth: rotation and revolution — printed p. 49 |
 | Uganda part — Ch.5 The Earth and its Movements (teacher guide — evidence) | Uganda, *Uganda Grade 8 UG S1 Geography TG* (teacher guide), Ch.5 The Earth and its Movements — printed p. 51 |
 | Uganda part — Lesson 5: The shape and movements of the Earth (oblate shape, axis, rotation, revolution) | Uganda, *Uganda Grade 8 UG S1 Geography Home-Study*, Lesson 5: The shape and movements of the Earth (oblate shape, axis, rotation, revolution) — printed p. 15 |
+| Syria part — The sun rises anew (Astronomy unit: Earth's movements and the returning sun) | Syria, *Syria Grade 7 Geography G7 عالم الجغرافية*, The sun rises anew (Astronomy unit: Earth's movements and the returning sun) — printed p. 42 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Saudi Arabia, Turkey, Palestine, Dominican Republic, Bahamas, Malaysia, India, Vietnam, Uganda). Haiti is named here as teacher-sequence evidence only, counted nowhere. Jamaica is named here as curriculum-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 11 countries (Ethiopia, Saudi Arabia, Turkey, Palestine, Dominican Republic, Bahamas, Malaysia, India, Vietnam, Uganda, Syria). Haiti is named here as teacher-sequence evidence only, counted nowhere. Jamaica is named here as curriculum-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grade 6 Exploratory Core, curriculum guide — evidence): the Grade 6 Social Studies year is built as three paired terms — culture and independence first, then the physical world (mountains, landmasses and water bodies), then climate, Earth movements and the atmosphere, closing on Caribbean cooperation. That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 Jamaica's own way (Grades 7–9 Social Studies, curriculum guide — evidence): one guide carries all three secondary grades, each year mixing Civics, heritage and a strong resources-and-environment Geography spine — natural and human resources, movements of the Earth, Caribbean hazards, climate change, green technology and tourism — taught through Jamaican case material (bauxite communities, Caribbean disasters). That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
@@ -100,3 +103,5 @@ Uganda's own way (Uganda Grade 8 UG S1 Geography Student): Competency-based lowe
 Uganda's own way (Uganda Grade 8 UG S1 Geography TG) (teacher guide — evidence): The guide mirrors the learner book chapter for chapter, adding teacher instructions, possible responses and assessment for every activity — the same East-Africa-first, activity-led pedagogy, plus teacher-only content on plotting weather on maps and making simple weather instruments. That evidence is stocked here as the way Uganda teaches this thing; it is cited as evidence only — Uganda is counted in this lesson through its student book(s).
 
 Uganda's own way (Uganda Grade 8 UG S1 Geography Home-Study): A home-based compression of the Senior One course: fieldwork is done around the learner's own home, photographs and statistics (Kilembe Mines data) replace classroom map work, and the booklet ends on East Africa's location, size and relief.
+
+Syria's own way (Syria Grade 7 Geography G7 عالم الجغرافية): a pure Geography book built entirely around activity lessons with story-style titles ("Mother of sciences", "Stones from the sky", "The origami art" for folding, "A tourist in my homeland"); technology first — aerial photos, GPS, remote sensing and GIS open the book before any physical geography — and each semester closes with student/teacher-designed lessons and an end-of-semester project.

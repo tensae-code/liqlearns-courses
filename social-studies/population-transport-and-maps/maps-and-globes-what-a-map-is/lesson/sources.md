@@ -1,6 +1,6 @@
 # Sources — Maps and globes — what a map is
 
-countries: Ethiopia, Palestine, Egypt, Dominican Republic, Colombia, Eritrea, India, Cambodia, Fiji, Papua New Guinea
+countries: Ethiopia, Palestine, Egypt, Dominican Republic, Colombia, Eritrea, India, Cambodia, Fiji, Papua New Guinea, Syria
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 2, placements 27–43).
 
@@ -28,6 +28,8 @@ countries: Ethiopia, Palestine, Egypt, Dominican Republic, Colombia, Eritrea, In
 
 **Book 13:** *Social Science Teacher Guide — Primary Grade 3, Standards Based* (teacher guide, English) — Department of Education, Papua New Guinea; year 2017; ISBN 978-9980-86-563-2. Title as printed: Social Science Teacher Guide — Primary Grade 3, Standards Based. Grade: Grade 3 (student/teacher: TEACHER). PDF pages: 89 (cover/title page verified against the record title). Verdict: COMPLETE. Teacher guides read full page-by-page via pdftotext -layout after cover verification; books were fetched from their recorded ministry source_urls (education.gov.pg, as recorded in the books.json records) with resumable curl and each file was verified against the record's exact size_bytes and page count before reading — identical bytes to the pushed copies by size + pages + cover, as the placements file records. Records: 22 records / 11 distinct books (11 TSV records + 11 books.json records that are the same books by repo path — each pair read once). (combined book — Geography parts placed below; non-Geography parts named in the placements, not placed: Strand 1 Community and Organization — People and Groups, Relationships, Rules/Roles/Responsibilities (Civics), printed pp. 23–35; Strand 2 Trade — Needs and Wants, Production, Trade and Exchange (Economics), printed pp. 36–47; Strand 3 Culture and Society — Customs and Societies, Beliefs and Values (Culture), printed pp. 48–55; Strand 5 History and Origins — Events and Stories of the Past: Origins of Family (History), printed pp. 68–70.) Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/papua-new-guinea-placements.md.
 
+**Book 14:** *عالم الجغرافية (World of Geography), الصف السابع الأساسي (Seventh Grade Basic)* (student book, Arabic) — Ministry of Education / National Center for Curriculum Development (NCCD), Syrian Arab Republic; year 2021–2022 (1442 H), first printed 2017–2018; no ISBN printed. Title as printed: عالم الجغرافية (World of Geography), الصف السابع الأساسي (Seventh Grade Basic). Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 159 (cover/title page verified against the record title; read in place in phase3-staging, 932,059,473 bytes). Verdict: COMPLETE. (Non-content slots named, not placed: teacher-designed lesson slots (printed pp. 86, 150) and the student-designed geography-information slot (printed p. 148) carry no set content of their own.) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/syria-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What a map is | Ethiopia, *Social Studies Student Textbook, Grade 7* (Amhara Bureau), printed pp. 46–47 |
@@ -44,8 +46,9 @@ countries: Ethiopia, Palestine, Egypt, Dominican Republic, Colombia, Eritrea, In
 | Cambodia part — Ch.3 L5 ទីតាំងរាជធានី និងប្រទេស §1 ផែនទី (maps) | Cambodia, *Cambodia Grade 6 Social Studies*, Ch.3 L5 ទីតាំងរាជធានី និងប្រទេស §1 ផែនទី (maps) — printed p. 84 |
 | Fiji part — Chapter 3 Place and Environment, Unit 1 Maps and Types of Map: what is a map and why study maps | Fiji, *Fiji Year 9 Social Science*, Chapter 3 Place and Environment, Unit 1 Maps and Types of Map: what is a map and why study maps — printed p. 103 |
 | Papua New Guinea part — Strand 4 Unit 3 Working with Maps: What is a map? Lesson 151 (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 3 Social Science TG* (teacher guide), Strand 4 Unit 3 Working with Maps: What is a map? Lesson 151 — printed p. 65 |
+| Syria part — A window on the world (maps as a window on the world) | Syria, *Syria Grade 7 Geography G7 عالم الجغرافية*, A window on the world (maps as a window on the world) — printed p. 18 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Palestine, Egypt, Dominican Republic, Colombia, Eritrea, India, Cambodia, Fiji). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 10 countries (Ethiopia, Palestine, Egypt, Dominican Republic, Colombia, Eritrea, India, Cambodia, Fiji, Syria). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Pairing warning (honesty): Book 2 is an Addis Ababa bureau guide in English; Book 1 is an Amhara bureau student book in Amharic. They are NOT edition-matched companions — the guide's unit order differs and whole student topics (maps, globes, GPS) have no guide counterpart, so no guide coverage is claimed for them. Guide material is used only as labelled teacher evidence.
 
@@ -74,3 +77,5 @@ Cambodia's own way (Cambodia Grade 6 Social Studies): the primary Social Studies
 Fiji's own way (Fiji Year 9 Social Science): Secondary geography opens with a full map-skills chapter — grid references, contours and cross-sections practised on Fiji maps — before environment use and conservation, including Pacific methods (shifting cultivation, rotational grazing, appropriate fishing methods).
 
 Papua New Guinea's own way (Papua New Guinea Grade 3 Social Science TG) (teacher guide — evidence): Social Science is organised in five strands (Community and Organization; Trade; Culture and Society; Environment and Resources; History and Origins) taught through guided lessons that start outdoors in the school grounds — children observe, draw and label the features, resources and maps of their own local community first. That evidence is stocked here as the way Papua New Guinea teaches this thing; it does not change the acceptance count above.
+
+Syria's own way (Syria Grade 7 Geography G7 عالم الجغرافية): a pure Geography book built entirely around activity lessons with story-style titles ("Mother of sciences", "Stones from the sky", "The origami art" for folding, "A tourist in my homeland"); technology first — aerial photos, GPS, remote sensing and GIS open the book before any physical geography — and each semester closes with student/teacher-designed lessons and an end-of-semester project.
