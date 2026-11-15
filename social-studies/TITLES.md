@@ -59,7 +59,8 @@ the one title at rising depth wherever a title spans both books
 - `africa-to-1500/` — Africa's peoples, states and trade to
   about 1500.
 - `ancient-world/` — the ancient civilisations and the medieval
-  world beyond Africa.
+  world beyond Africa (including Ibn Battuta — traveller
+  of the Islamic world).
 - `the-land-and-air/` — continents and oceans, the forces that
   shape the land, the atmosphere, weather and climate, map work
   (including the UAE's location and emirates map and desert
@@ -92,9 +93,10 @@ the one title at rising depth wherever a title spans both books
   resistance, independence. (No teacher evidence yet.)
 - `modern-world/` — the early-modern and modern world
   (including Guyana — our nation: independence and symbols,
-  and Canada's whaling story: Inuit whaling — the traditional
+  Canada's whaling story: Inuit whaling — the traditional
   hunt, Whalers from across the sea, and Whaling today —
-  protecting the whales).
+  protecting the whales, and United Arab Emirates — the
+  union and Sheikh Zayed).
   (No teacher evidence yet.)
 - `global-issues/` — today's shared problems: population
   pressure, HIV/AIDS, climate, water, forests — and protecting
@@ -2499,7 +2501,7 @@ Plants and Animals.
 
 ## History expansion totals
 
-History lessons across the History titles: **252**
+History lessons across the History titles: **254**
 (248 before the expansion; +1 for Guyana, 2026-11-15 —
 Modern World: Guyana — our nation: independence and
 symbols. All 3 Guyana placements stand on Guyana's
@@ -2508,4 +2510,13 @@ student book, counted in acceptance. +3 for Canada,
 traditional hunt, Whalers from across the sea, and
 Whaling today — protecting the whales. All 4 Canada
 placements stand on Canada's student book, counted in
-acceptance.)
+acceptance. +2 for United Arab Emirates, 2026-11-15 —
+Modern World: United Arab Emirates — the union and
+Sheikh Zayed, and Ancient World: Ibn Battuta —
+traveller of the Islamic world; the fourth United
+Arab Emirates placement stocked into the existing
+First Steps heritage lesson, whose acceptance count
+does not change because the United Arab Emirates was
+already counted there. All 4 United Arab Emirates
+placements stand on the United Arab Emirates' student
+book, counted in acceptance.)

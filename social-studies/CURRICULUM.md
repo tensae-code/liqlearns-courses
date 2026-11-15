@@ -8132,3 +8132,36 @@ Inuit life through trade and depletion (printed p. 22);
 whales protected and counted today, with Inuit whaling
 continuing as a small, community-run hunt under shared
 rules (printed pp. 28–32). History lessons: 249 → 252.
+
+## History expansion — United Arab Emirates — built 2026-11-15
+
+2 new lessons, 16 questions, plus 1 existing lesson
+stocked: **The Modern World**: United Arab Emirates —
+the union and Sheikh Zayed
+(modern-world/united-arab-emirates-union-and-zayed);
+**The Ancient World**: Ibn Battuta — traveller of the
+Islamic world
+(ancient-world/ibn-battuta-traveller-of-the-islamic-world);
+and **First Steps**: Heritage — what it is and why it
+matters (first-steps/heritage-what-it-is-and-why-it-matters)
+stocked at History depth — 4 placements stocked from
+the United Arab Emirates' *Social Studies and National
+Education, Student Book, Grade 1, Volume 3*, student
+book in Arabic (Ministry of Education, United Arab
+Emirates, 1447هـ / 2025–2026): the family's visit to
+the Etihad Museum in Dubai, the map of the seven
+emirates, the landmarks old and new and the "Zayed
+taught me" sayings of Sheikh Zayed bin Sultan Al
+Nahyan (printed pp. 56–69); how schooling began — the
+Mutawa'a, Al Qasimiyah School in Sharjah, modern
+formal education from 1953 (printed pp. 17–19); the
+museum defined as the place where the old antiquities
+are preserved and Sheikh Zayed's heritage words, into
+the existing heritage lesson (printed pp. 57–63 and
+94–95 — the United Arab Emirates was already counted
+in that lesson, so its acceptance count does not
+change); and Ibn Battuta — born in Morocco, twenty-seven
+years of travel to more than forty countries, the book
+of his travels and the title Prince of the Muslim
+Travellers (printed pp. 70–81). History
+lessons: 252 → 254.
