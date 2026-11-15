@@ -1,0 +1,9 @@
+# Hands-on — Weimar recovery and golden years
+
+The lesson with your hands and your feet, not only your eyes.
+
+## Task 1
+List the parts of this story in order — Weimar recovery and golden years — and say what changed in each part.
+
+## Task 2
+Draw or write the key scene of the first part, 3.1 Reasons for economic recovery, from the story as the book tells it, and label the people and the place in it.

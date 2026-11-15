@@ -1,0 +1,20 @@
+# Sources — Hitler's rise to power, 1919 to 1933
+
+countries: United Kingdom
+
+**Book 4:** *GCSE History for Edexcel: Weimar and Nazi Germany, 1918–39* (student book, English) — United Kingdom. Title as printed: GCSE History for Edexcel: Weimar and Nazi Germany, 1918–39. Grade: Grade 10 (student/teacher: STUDENT). Publisher: Hodder Education; year 2016; ISBN 978-1-4718-6191-8. PDF pages: 269 (cover/title page verified against the record title; this scan carries no printed folios, so page numbers below are PDF pages). Verdict: COMPLETE. Tally: 42 placements — 4 to existing lessons, 38 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/united-kingdom-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| United Kingdom part — 5.1 Hitler's early career — story beats: a failed Austrian art student is radicalised in Vienna and Munich, finds his voice as an army informant after the war and is sent to spy on a tiny workers' party he ends up leading (History expansion, 2026-11-15; original placement slug: modern-world/hitlers-rise-to-power-1919-to-1933) | United Kingdom, *GCSE History for Edexcel: Weimar and Nazi Germany, 1918–39*, printed p. 66 |
+| United Kingdom part — 5.2 The early growth of the Nazi Party — story beats: Drexler's DAP becomes the NSDAP with a 25-point programme; Hitler's speeches, the SA and the party newspaper turn a Munich fringe group into a movement (History expansion, 2026-11-15; original placement slug: modern-world/hitlers-rise-to-power-1919-to-1933) | United Kingdom, *GCSE History for Edexcel: Weimar and Nazi Germany, 1918–39*, printed p. 68 |
+| United Kingdom part — 5.3 The Munich Putsch — story beats: in November 1923 Hitler bursts into a beer hall to seize Bavaria and march on Berlin; police fire stops it, but the trial gives him a national platform and prison time to write Mein Kampf (History expansion, 2026-11-15; original placement slug: modern-world/hitlers-rise-to-power-1919-to-1933) | United Kingdom, *GCSE History for Edexcel: Weimar and Nazi Germany, 1918–39*, printed p. 74 |
+| United Kingdom part — 5.4 The lean years, 1924–28 — story beats: banned then refounded, the party reorganises into a national machine with Goebbels' propaganda, yet recovery-era voters ignore it — 12 seats in 1928 (History expansion, 2026-11-15; original placement slug: modern-world/hitlers-rise-to-power-1919-to-1933) | United Kingdom, *GCSE History for Edexcel: Weimar and Nazi Germany, 1918–39*, printed p. 80 |
+| United Kingdom part — 6.2 Growth in support for the Nazis — story beats: fear of communism, Goebbels' posters and rallies, SA spectacle and Hitler's flights across Germany turn the Nazis into the party of the desperate and the frightened alike (History expansion, 2026-11-15; original placement slug: modern-world/hitlers-rise-to-power-1919-to-1933) | United Kingdom, *GCSE History for Edexcel: Weimar and Nazi Germany, 1918–39*, printed p. 93 |
+| United Kingdom part — 6.3 Political developments in 1932 — story beats: Brüning falls, von Papen and Schleicher intrigue, the Nazis become the largest party in July 1932, and Hindenburg — who detests Hitler — is talked into appointing him Chancellor on 30 January 1933 (History expansion, 2026-11-15; original placement slug: modern-world/hitlers-rise-to-power-1919-to-1933) | United Kingdom, *GCSE History for Edexcel: Weimar and Nazi Germany, 1918–39*, printed p. 110 |
+
+United Kingdom's own way (GCSE History for Edexcel: Weimar and Nazi Germany, 1918–39, Grade 10 (student/teacher: STUDENT)): a modern depth study of Germany's road from defeat to dictatorship, built chapter by chapter around sources and rival historians' interpretations, with a named exam-skill section (inference, utility, causation, interpretations) closing almost every chapter. That way is stocked here as the way the United Kingdom teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 1 country (United Kingdom).**
+
+Searchable tags: United Kingdom, Hitler's rise to power, 1919 to 1933, modern-world, History expansion 2026-11-15

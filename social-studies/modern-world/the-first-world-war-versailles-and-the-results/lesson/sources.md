@@ -1,6 +1,6 @@
 # Sources — The First World War — Versailles and the results
 
-countries: Ethiopia, Indonesia, Montenegro
+countries: Ethiopia, Indonesia, Montenegro, United Kingdom
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 135).
 
@@ -82,3 +82,18 @@ Indonesia's own way (Sejarah untuk SMA/MA/SMK/MAK Kelas XI, Edisi Revisi, Kelas 
 Montenegro's own way (ИСТОРИЈА — уџбеник за девети разред основне школе (Istorija 9), Grade 9 (student/teacher: STUDENT)): The twentieth century is taught as a double story throughout — every world chapter (the wars, the revolutions, the -isms) is immediately followed by its Montenegrin/Yugoslav chapter, and the book ends where Montenegro's own story ends: the breakup of Yugoslavia and the renewal of Montenegrin independence. That way is stocked here as the way Montenegro teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 3 countries (Ethiopia, Indonesia, Montenegro).**
+
+
+---
+
+## History expansion (2026-11-15) — United Kingdom stocked
+
+**Book 4:** *GCSE History for Edexcel: Weimar and Nazi Germany, 1918–39* (student book, English) — United Kingdom. Title as printed: GCSE History for Edexcel: Weimar and Nazi Germany, 1918–39. Grade: Grade 10 (student/teacher: STUDENT). Publisher: Hodder Education; year 2016; ISBN 978-1-4718-6191-8. PDF pages: 269 (cover/title page verified against the record title; this scan carries no printed folios, so page numbers below are PDF pages). Verdict: COMPLETE. Tally: 42 placements — 4 to existing lessons, 38 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/united-kingdom-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| United Kingdom part — 2.1 The early unpopularity of the Republic — story beats: Versailles strips land, colonies and army and fixes reparations; Germans brand the politicians who signed the 'November Criminals' and the republic is hated for a peace it did not choose (History expansion, 2026-11-15; original placement slug: modern-world/the-first-world-war-versailles-and-the-results) | United Kingdom, *GCSE History for Edexcel: Weimar and Nazi Germany, 1918–39*, printed p. 22 |
+
+United Kingdom's own way (GCSE History for Edexcel: Weimar and Nazi Germany, 1918–39, Grade 10 (student/teacher: STUDENT)): a modern depth study of Germany's road from defeat to dictatorship, built chapter by chapter around sources and rival historians' interpretations, with a named exam-skill section (inference, utility, causation, interpretations) closing almost every chapter. That way is stocked here as the way the United Kingdom teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 4 countries (Ethiopia, Indonesia, Montenegro, United Kingdom).**

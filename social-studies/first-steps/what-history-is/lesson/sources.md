@@ -1,6 +1,6 @@
 # Sources — What history is
 
-countries: Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic
+countries: Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -439,3 +439,23 @@ Montenegro's own way (ИСТОРИЈА за шести разред основн
 Dominican Republic's own way (Ciencias Sociales, Cuarto Grado de Secundaria — Proyecto Libro Abierto, Grade 10 (student/teacher: STUDENT)): secondary social studies is a straight world-history course — history as science, human origins, classical antiquity, feudalism, Europe's primacy, capitalism and the twentieth century's wars and revolutions — taught through primary/secondary source analysis. That way is stocked here as the way the Dominican Republic teaches this thing. Combined-subject note: this is a combined Ciencias Sociales book — only its History units are placed; its Geography and Civics units are named in the book entry above, not placed. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 21 countries (Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic).**
+
+
+---
+
+## History expansion (2026-11-15) — United Kingdom stocked
+
+**Book 1:** *Edexcel GCSE (9-1) History: Crime and punishment through time, c1000–present* (student book, English) — United Kingdom. Title as printed: Edexcel GCSE (9-1) History: Crime and punishment through time, c1000–present. Grade: Grade 10 (student/teacher: STUDENT). Publisher: Pearson Education Limited; year 2016; ISBN 978 1 292 12736 1. PDF pages: 204 (cover/title page verified against the record title). Verdict: COMPLETE. Tally: 26 placements — 3 to existing lessons, 23 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/united-kingdom-placements.md.
+
+**Book 2:** *Edexcel GCSE (9-1) History: Anglo-Saxon and Norman England, c1060–1088* (student book, English) — United Kingdom. Title as printed: Edexcel GCSE (9-1) History: Anglo-Saxon and Norman England, c1060–1088. Grade: Grade 10 (student/teacher: STUDENT). Publisher: Pearson Education Limited; year 2016; ISBN 978 1 292 12723 1. PDF pages: 116 (cover/title page verified against the record title). Verdict: COMPLETE. Tally: 15 placements — 3 to existing lessons, 12 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/united-kingdom-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| United Kingdom part — About change: change, continuity, turning points and the factors that drive change — story beats: the book opens by teaching that change is not always progress, using the first mobile phone call in Britain (1985) to show how technology and attitudes together turn a society (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | United Kingdom, *Edexcel GCSE (9-1) History: Crime and punishment through time, c1000–present*, printed p. 6 |
+| United Kingdom part — Thinking Historically: Cause & Consequence, with Writing Historically and Preparing for your exam — story beats: the depth study is organised around why events happen and what follows from them, and learners practise turning that thinking into structured exam writing (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | United Kingdom, *Edexcel GCSE (9-1) History: Anglo-Saxon and Norman England, c1060–1088*, printed pp. 5, 40, 72, 100, 103 |
+
+United Kingdom's own way (Edexcel GCSE (9-1) History: Crime and punishment through time, c1000–present, Grade 10 (student/teacher: STUDENT)): a thematic study that follows one thread — crime, law enforcement and punishment — across a thousand years, judging every period by change and continuity, with a linked historic-environment depth study of one place (Whitechapel) and source/interpretation work on every spread. That way is stocked here as the way the United Kingdom teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+United Kingdom's own way (Edexcel GCSE (9-1) History: Anglo-Saxon and Norman England, c1060–1088, Grade 10 (student/teacher: STUDENT)): a British depth study — one short period (1060–88) studied in fine detail, built around the Bayeux Tapestry and chronicle sources, with Cause & Consequence as the key historical concept and recap/Writing Historically spreads closing each chapter. That way is stocked here as the way the United Kingdom teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 22 countries (Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom).**

@@ -1,0 +1,19 @@
+# Sources — Whitechapel — policing and the Ripper murders
+
+countries: United Kingdom
+
+**Book 1:** *Edexcel GCSE (9-1) History: Crime and punishment through time, c1000–present* (student book, English) — United Kingdom. Title as printed: Edexcel GCSE (9-1) History: Crime and punishment through time, c1000–present. Grade: Grade 10 (student/teacher: STUDENT). Publisher: Pearson Education Limited; year 2016; ISBN 978 1 292 12736 1. PDF pages: 204 (cover/title page verified against the record title). Verdict: COMPLETE. Tally: 26 placements — 3 to existing lessons, 23 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/united-kingdom-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| United Kingdom part — 5.1 Context: policing the nation — story beats: by the 1870s Britain is policed by many separate county and borough forces run by watch committees, with the Home Secretary controlling only London (History expansion, 2026-11-15; original placement slug: modern-world/whitechapel-policing-and-the-ripper-murders) | United Kingdom, *Edexcel GCSE (9-1) History: Crime and punishment through time, c1000–present*, printed p. 150 |
+| United Kingdom part — 5.2 The local context of Whitechapel — story beats: Whitechapel's 30,000 people live with overcrowding, homelessness, workhouses and gang-ruled streets; poverty itself breeds the district's crime (History expansion, 2026-11-15; original placement slug: modern-world/whitechapel-policing-and-the-ripper-murders) | United Kingdom, *Edexcel GCSE (9-1) History: Crime and punishment through time, c1000–present*, printed p. 155 |
+| United Kingdom part — 5.3 Tensions in Whitechapel — story beats: Irish navvies and Jewish Eastern European immigrants crowd into the East End; friction, Jewish cultural change and fear of anarchism strain the district (History expansion, 2026-11-15; original placement slug: modern-world/whitechapel-policing-and-the-ripper-murders) | United Kingdom, *Edexcel GCSE (9-1) History: Crime and punishment through time, c1000–present*, printed p. 161 |
+| United Kingdom part — 5.4 Police organisation in Whitechapel — story beats: H Division's roughly 500 beat constables and 15 detectives patrol set beats under sergeants and inspectors, stretched thin over a hostile district (History expansion, 2026-11-15; original placement slug: modern-world/whitechapel-policing-and-the-ripper-murders) | United Kingdom, *Edexcel GCSE (9-1) History: Crime and punishment through time, c1000–present*, printed p. 168 |
+| United Kingdom part — 5.5 Investigative policing in Whitechapel — story beats: in 1888 five women are murdered by 'Jack the Ripper'; press pressure, rivalry with the City police and primitive detective methods fail to catch him, and the case changes investigation itself (History expansion, 2026-11-15; original placement slug: modern-world/whitechapel-policing-and-the-ripper-murders) | United Kingdom, *Edexcel GCSE (9-1) History: Crime and punishment through time, c1000–present*, printed p. 173 |
+
+United Kingdom's own way (Edexcel GCSE (9-1) History: Crime and punishment through time, c1000–present, Grade 10 (student/teacher: STUDENT)): a thematic study that follows one thread — crime, law enforcement and punishment — across a thousand years, judging every period by change and continuity, with a linked historic-environment depth study of one place (Whitechapel) and source/interpretation work on every spread. That way is stocked here as the way the United Kingdom teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 1 country (United Kingdom).**
+
+Searchable tags: United Kingdom, Whitechapel — policing and the Ripper murders, modern-world, History expansion 2026-11-15

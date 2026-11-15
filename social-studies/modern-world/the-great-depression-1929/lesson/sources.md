@@ -1,6 +1,6 @@
 # Sources — The Great Depression — 1929 and the world it broke
 
-countries: Ethiopia, United States, Costa Rica, Australia, Indonesia
+countries: Ethiopia, United States, Costa Rica, Australia, Indonesia, United Kingdom
 
 **Book 1:** *History, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN 978-99990-0-065-9. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g10-student-placements.md
 
@@ -72,3 +72,18 @@ Australia's own way (Australia Retroactive 2 (Stage 5)): Stage 5 turns the same 
 Indonesia's own way (Sejarah untuk SMA/MA/SMK/MAK Kelas XI, Edisi Revisi, Kelas XI / Grade 11 (student/teacher: STUDENT)): the national story is told as resistance and awakening — every colonial episode is paired with the Indonesians who fought, organised, wrote or negotiated against it, and world events (1453, Versailles, the Depression, Hiroshima) are admitted only where they change Indonesia's fate. That way is stocked here as the way Indonesia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 5 countries (Ethiopia, United States, Costa Rica, Australia, Indonesia).**
+
+
+---
+
+## History expansion (2026-11-15) — United Kingdom stocked
+
+**Book 4:** *GCSE History for Edexcel: Weimar and Nazi Germany, 1918–39* (student book, English) — United Kingdom. Title as printed: GCSE History for Edexcel: Weimar and Nazi Germany, 1918–39. Grade: Grade 10 (student/teacher: STUDENT). Publisher: Hodder Education; year 2016; ISBN 978-1-4718-6191-8. PDF pages: 269 (cover/title page verified against the record title; this scan carries no printed folios, so page numbers below are PDF pages). Verdict: COMPLETE. Tally: 42 placements — 4 to existing lessons, 38 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/united-kingdom-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| United Kingdom part — 6.1 Unemployment and its impact — story beats: the Wall Street Crash calls in American loans; German factories close, unemployment reaches about six million by 1932 and soup kitchens and despair do the extremists' recruiting for them (History expansion, 2026-11-15; original placement slug: modern-world/the-great-depression-1929) | United Kingdom, *GCSE History for Edexcel: Weimar and Nazi Germany, 1918–39*, printed p. 87 |
+
+United Kingdom's own way (GCSE History for Edexcel: Weimar and Nazi Germany, 1918–39, Grade 10 (student/teacher: STUDENT)): a modern depth study of Germany's road from defeat to dictatorship, built chapter by chapter around sources and rival historians' interpretations, with a named exam-skill section (inference, utility, causation, interpretations) closing almost every chapter. That way is stocked here as the way the United Kingdom teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 6 countries (Ethiopia, United States, Costa Rica, Australia, Indonesia, United Kingdom).**

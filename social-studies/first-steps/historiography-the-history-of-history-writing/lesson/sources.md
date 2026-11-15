@@ -1,6 +1,6 @@
 # Sources — Historiography — history of history-writing
 
-countries: Ethiopia, Gambia, Bangladesh, Ecuador, Indonesia, Dominican Republic
+countries: Ethiopia, Gambia, Bangladesh, Ecuador, Indonesia, Dominican Republic, United Kingdom
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -104,3 +104,23 @@ The teacher-guide rows above are evidence only; Indonesia's count in this lesson
 Dominican Republic's own way (Ciencias Sociales, Cuarto Grado de Secundaria — Proyecto Libro Abierto, Grade 10 (student/teacher: STUDENT)): secondary social studies is a straight world-history course — history as science, human origins, classical antiquity, feudalism, Europe's primacy, capitalism and the twentieth century's wars and revolutions — taught through primary/secondary source analysis. That way is stocked here as the way the Dominican Republic teaches this thing. Combined-subject note: this is a combined Ciencias Sociales book — only its History units are placed; its Geography and Civics units are named in the book entry above, not placed. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 6 countries (Ethiopia, Gambia, Bangladesh, Ecuador, Indonesia, Dominican Republic).**
+
+
+---
+
+## History expansion (2026-11-15) — United Kingdom stocked
+
+**Book 3:** *Edexcel GCSE (9-1) History: Russia and the Soviet Union, 1917–1941* (student book, English) — United Kingdom. Title as printed: Edexcel GCSE (9-1) History: Russia and the Soviet Union, 1917–1941. Grade: Grade 10 (student/teacher: STUDENT). Publisher: Pearson Education Limited; year 2016; ISBN 978 1 292 12733 0. PDF pages: 164 (cover/title page verified against the record title). Verdict: COMPLETE. Tally: 19 placements — 7 to existing lessons, 12 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/united-kingdom-placements.md.
+
+**Book 4:** *GCSE History for Edexcel: Weimar and Nazi Germany, 1918–39* (student book, English) — United Kingdom. Title as printed: GCSE History for Edexcel: Weimar and Nazi Germany, 1918–39. Grade: Grade 10 (student/teacher: STUDENT). Publisher: Hodder Education; year 2016; ISBN 978-1-4718-6191-8. PDF pages: 269 (cover/title page verified against the record title; this scan carries no printed folios, so page numbers below are PDF pages). Verdict: COMPLETE. Tally: 42 placements — 4 to existing lessons, 38 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/united-kingdom-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| United Kingdom part — Explaining why historians' interpretations differ — story beats: rival readings of Lenin and Stalin (for example Volkogonov's) are compared to show how evidence, timing and the historian's own position produce different histories of the same events (History expansion, 2026-11-15; original placement slug: first-steps/historiography-the-history-of-history-writing) | United Kingdom, *Edexcel GCSE (9-1) History: Russia and the Soviet Union, 1917–1941*, printed p. 142 |
+| United Kingdom part — 2.4 What are interpretations of history?, 3.3 How interpretations differ and 5.5 Why the interpretations differ — story beats: paired historians' readings of 1923, of the 'golden years' recovery and of the lean years are set side by side so learners see how selection and timing make the same years look safe or built on quicksand (History expansion, 2026-11-15; original placement slug: first-steps/historiography-the-history-of-history-writing) | United Kingdom, *GCSE History for Edexcel: Weimar and Nazi Germany, 1918–39*, printed pp. 37, 51, 83 |
+
+United Kingdom's own way (Edexcel GCSE (9-1) History: Russia and the Soviet Union, 1917–1941, Grade 10 (student/teacher: STUDENT)): a modern depth study of another country's revolution — Russia's 1917–41 story told in detail for British learners, with historians' rival interpretations (Volkogonov and others) set against contemporary posters and photographs throughout. That way is stocked here as the way the United Kingdom teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+United Kingdom's own way (GCSE History for Edexcel: Weimar and Nazi Germany, 1918–39, Grade 10 (student/teacher: STUDENT)): a modern depth study of Germany's road from defeat to dictatorship, built chapter by chapter around sources and rival historians' interpretations, with a named exam-skill section (inference, utility, causation, interpretations) closing almost every chapter. That way is stocked here as the way the United Kingdom teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 7 countries (Ethiopia, Gambia, Bangladesh, Ecuador, Indonesia, Dominican Republic, United Kingdom).**

@@ -2581,7 +2581,7 @@ Plants and Animals.
 
 ## History expansion totals
 
-History lessons across the History titles: **1056**
+History lessons across the History titles: **1073**
 (248 before the expansion; +1 for Guyana, 2026-11-15 —
 Modern World: Guyana — our nation: independence and
 symbols. All 3 Guyana placements stand on Guyana's
@@ -3994,3 +3994,37 @@ books (Grades 3, 5, 6, 10 and 12).
 HONESTY: all five books are student books, so every placement counts. The books are combined Ciencias Sociales — only their History units are placed; their Geography and Civics units are named in each book entry, not placed. Seven placements whose named slugs do not exist are stocked into the closest existing lesson covering that thing, with the original slug recorded in each provenance row: the peopling of the Americas → Americas' first peoples — Paleoindian and Archaic; the first civilisations of Asia and Africa → The Urban Revolution — the first cities; modern empires → Imperialism and its crisis; the United States expands → Westward expansion and the Mexican-American War, 1800–1860; the English Revolution → The Dutch Revolt and the English Revolution; the end of the Cold War → The end of 'real socialism' and the Cold War; Latin American independence (5 placements) → Latin American independence — ideas and processes. Liberalism and socialism, named NEW in the placements, already existed — built on Iceland teacher-guide evidence alone (acceptance 0); the Dominican Republic's student books now stock it and it counts 1, with Iceland still named as teacher-guide evidence only.
 The existing lessons stocked rise with the Dominican
 Republic added: Heritage — what it is and why it matters 27 → 28, From evidence to a written history 17 → 18, Who studies prehistory 9 → 10, Dating the past 15 → 16, What history is 20 → 21, Historiography 5 → 6, Exploration — Columbus, Vespucci and Magellan 8 → 9, The Atlantic slave trade — scale, coasts and the gun cycle 5 → 6, Americas' first peoples — Paleoindian and Archaic 1 → 2, From stone tools to farming 14 → 15, The Urban Revolution — the first cities 1 → 2, Ancient civilisations — Greece: Crete 10 → 11, Ancient civilisations — Rome 11 → 12, Medieval world — the Dark Age and feudalism 8 → 9, Ancient civilisations — Mesopotamia 8 → 9, Ancient Egypt — the Nile Kingdom 10 → 11, Ancient civilisations — India 7 → 8, Ancient civilisations — China 5 → 6, Ancient civilisations — Athens and democracy 7 → 8, Ancient civilisations — Rome divides 6 → 7, The Renaissance — what it was 7 → 8, Imperialism and its crisis 1 → 2, Capitalism — private ownership, factories, new classes 4 → 5, The Industrial Revolution — what changed and why England first 8 → 9, Liberalism and socialism 0 → 1, Scientific Revolution and Enlightenment 6 → 7, The French Revolution breaks out 1789 6 → 7, Latin American independence — ideas and processes 1 → 2, Westward expansion and the Mexican-American War 1 → 2, Exploration — causes and results 8 → 9, The Reformation — Luther and the spread of Protestantism 6 → 7, The Dutch Revolt and the English Revolution 1 → 2, American independence 6 → 7, The Industrial Revolution — textiles, steam and rail 4 → 5, The Industrial Revolution — its two stages 3 → 4, Colonisation — the road to the Scramble 3 → 4, The First World War — causes 7 → 8, The First World War — course of the war 3 → 4, 1917 twice — February and October in Russia 3 → 4, Fascism and Nazism — two dictatorships compared 3 → 4, The Second World War — causes 8 → 9, The Second World War — course in Europe 7 → 8, The end of 'real socialism' and the Cold War 1 → 2.
+
++17 for the United Kingdom, 2026-11-15 — Ancient World:
+Crime and punishment in medieval England, Anglo-Saxon
+and Norman England; Modern World: Crime and punishment
+in early modern England, Crime and punishment, 1700 to
+1900, Crime and punishment since 1900, Whitechapel —
+policing and the Ripper murders, The Bolsheviks in
+power, 1917 to 1924, Stalin seizes power and rules by
+terror, Collectivisation and the Five-Year Plans, Life
+in Stalin's Soviet Union, Weimar Germany — origins and
+early challenges, Weimar recovery and golden years,
+Hitler's rise to power, 1919 to 1933, Nazi
+dictatorship, 1933 to 1934, Nazi control, propaganda
+and opposition, Life in Nazi Germany, 1933 to 1939,
+Nazi persecution of minorities. All 102 United Kingdom
+placements are stocked (17 into 7 existing lessons, 85
+into the 17 new lessons) on the United Kingdom's four
+Grade 10 GCSE student books (Edexcel Crime and
+Punishment through Time, Anglo-Saxon and Norman
+England, and Russia and the Soviet Union, Pearson
+Education, 2016; Weimar and Nazi Germany, Hodder
+Education, 2016).
+HONESTY: all four books are student books, so every
+placement counts; no teacher guides in this set.
+Book 4 note, as filed: the scan carries no printed
+folios, so its page numbers are PDF pages.
+The existing lessons stocked rise with the United
+Kingdom added: What history is 21 → 22, Dating the
+past — calendars, timelines and periods 16 → 17, From
+evidence to a written history 18 → 19, Historiography
+— history of history-writing 6 → 7, 1917 twice —
+February and October in Russia 4 → 5, The First World
+War — Versailles and the results 3 → 4, The Great
+Depression — 1929 and the world it broke 5 → 6.

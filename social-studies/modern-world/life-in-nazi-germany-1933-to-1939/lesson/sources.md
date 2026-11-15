@@ -1,0 +1,20 @@
+# Sources — Life in Nazi Germany, 1933 to 1939
+
+countries: United Kingdom
+
+**Book 4:** *GCSE History for Edexcel: Weimar and Nazi Germany, 1918–39* (student book, English) — United Kingdom. Title as printed: GCSE History for Edexcel: Weimar and Nazi Germany, 1918–39. Grade: Grade 10 (student/teacher: STUDENT). Publisher: Hodder Education; year 2016; ISBN 978-1-4718-6191-8. PDF pages: 269 (cover/title page verified against the record title; this scan carries no printed folios, so page numbers below are PDF pages). Verdict: COMPLETE. Tally: 42 placements — 4 to existing lessons, 38 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/united-kingdom-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| United Kingdom part — 10.1 The Nazi view of the role of women — story beats: Kinder, Küche, Kirche — the regime's ideal woman marries early, bears many 'Aryan' children and leaves work and politics to men (History expansion, 2026-11-15; original placement slug: modern-world/life-in-nazi-germany-1933-to-1939) | United Kingdom, *GCSE History for Edexcel: Weimar and Nazi Germany, 1918–39*, printed p. 191 |
+| United Kingdom part — 10.2 The changing role of women — story beats: marriage loans and the Mother's Cross push the birth rate up, yet by the late 1930s labour shortage quietly draws women back into work the ideology said was not theirs (History expansion, 2026-11-15; original placement slug: modern-world/life-in-nazi-germany-1933-to-1939) | United Kingdom, *GCSE History for Edexcel: Weimar and Nazi Germany, 1918–39*, printed p. 194 |
+| United Kingdom part — 11.1 Control of the young through education — story beats: Rust's ministry Nazifies schools — race science and maths problems about 'aliens', Napola and Adolf Hitler Schools for the elite, teachers sworn to the regime (History expansion, 2026-11-15; original placement slug: modern-world/life-in-nazi-germany-1933-to-1939) | United Kingdom, *GCSE History for Edexcel: Weimar and Nazi Germany, 1918–39*, printed p. 204 |
+| United Kingdom part — 11.2 The Hitler Youth — story beats: all rival youth groups are banned and membership becomes compulsory; seven million boys drill for soldiering and girls of the League of German Maidens train for motherhood — though many quietly stop turning up (History expansion, 2026-11-15; original placement slug: modern-world/life-in-nazi-germany-1933-to-1939) | United Kingdom, *GCSE History for Edexcel: Weimar and Nazi Germany, 1918–39*, printed p. 207 |
+| United Kingdom part — 12.1 Policies to reduce unemployment — story beats: the Reich Labour Service, autobahn building and rearmament erase the six million unemployed — with Jews and women struck off the count and conscription absorbing the young (History expansion, 2026-11-15; original placement slug: modern-world/life-in-nazi-germany-1933-to-1939) | United Kingdom, *GCSE History for Edexcel: Weimar and Nazi Germany, 1918–39*, printed p. 217 |
+| United Kingdom part — 12.2 Changes in the standard of living — story beats: Strength through Joy holidays and the promised Volkswagen sweeten workers' lives while wages are frozen, unions gone and hours lengthen — better off is judged both ways (History expansion, 2026-11-15; original placement slug: modern-world/life-in-nazi-germany-1933-to-1939) | United Kingdom, *GCSE History for Edexcel: Weimar and Nazi Germany, 1918–39*, printed p. 221 |
+
+United Kingdom's own way (GCSE History for Edexcel: Weimar and Nazi Germany, 1918–39, Grade 10 (student/teacher: STUDENT)): a modern depth study of Germany's road from defeat to dictatorship, built chapter by chapter around sources and rival historians' interpretations, with a named exam-skill section (inference, utility, causation, interpretations) closing almost every chapter. That way is stocked here as the way the United Kingdom teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 1 country (United Kingdom).**
+
+Searchable tags: United Kingdom, Life in Nazi Germany, 1933 to 1939, modern-world, History expansion 2026-11-15

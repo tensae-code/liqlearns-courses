@@ -1,6 +1,6 @@
 # Sources — Dating the past — calendars, timelines and periods
 
-countries: Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic
+countries: Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -365,3 +365,28 @@ Dominican Republic's own way (Ciencias Sociales, Quinto Grado — Proyecto Libro
 Dominican Republic's own way (Ciencias Sociales, Cuarto Grado de Secundaria — Proyecto Libro Abierto, Grade 10 (student/teacher: STUDENT)): secondary social studies is a straight world-history course — history as science, human origins, classical antiquity, feudalism, Europe's primacy, capitalism and the twentieth century's wars and revolutions — taught through primary/secondary source analysis. That way is stocked here as the way the Dominican Republic teaches this thing. Combined-subject note: this is a combined Ciencias Sociales book — only its History units are placed; its Geography and Civics units are named in the book entry above, not placed. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 16 countries (Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic).**
+
+
+---
+
+## History expansion (2026-11-15) — United Kingdom stocked
+
+**Book 1:** *Edexcel GCSE (9-1) History: Crime and punishment through time, c1000–present* (student book, English) — United Kingdom. Title as printed: Edexcel GCSE (9-1) History: Crime and punishment through time, c1000–present. Grade: Grade 10 (student/teacher: STUDENT). Publisher: Pearson Education Limited; year 2016; ISBN 978 1 292 12736 1. PDF pages: 204 (cover/title page verified against the record title). Verdict: COMPLETE. Tally: 26 placements — 3 to existing lessons, 23 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/united-kingdom-placements.md.
+
+**Book 2:** *Edexcel GCSE (9-1) History: Anglo-Saxon and Norman England, c1060–1088* (student book, English) — United Kingdom. Title as printed: Edexcel GCSE (9-1) History: Anglo-Saxon and Norman England, c1060–1088. Grade: Grade 10 (student/teacher: STUDENT). Publisher: Pearson Education Limited; year 2016; ISBN 978 1 292 12723 1. PDF pages: 116 (cover/title page verified against the record title). Verdict: COMPLETE. Tally: 15 placements — 3 to existing lessons, 12 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/united-kingdom-placements.md.
+
+**Book 3:** *Edexcel GCSE (9-1) History: Russia and the Soviet Union, 1917–1941* (student book, English) — United Kingdom. Title as printed: Edexcel GCSE (9-1) History: Russia and the Soviet Union, 1917–1941. Grade: Grade 10 (student/teacher: STUDENT). Publisher: Pearson Education Limited; year 2016; ISBN 978 1 292 12733 0. PDF pages: 164 (cover/title page verified against the record title). Verdict: COMPLETE. Tally: 19 placements — 7 to existing lessons, 12 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/united-kingdom-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| United Kingdom part — Timeline c1000–present — story beats: a thousand years of crime landmarks laid on one line, from Norman law to vagabonds, the Bloody Code and modern reforms, so learners date turning points against each other (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | United Kingdom, *Edexcel GCSE (9-1) History: Crime and punishment through time, c1000–present*, printed p. 8 |
+| United Kingdom part — Timeline: Anglo-Saxons and Normans, 1050–1088 — story beats: Edward the Confessor's reign, the Godwin rise and fall, the three battles of 1066 and William's revolts and Domesday survey are laid on one line so learners sequence a reign by its turning points (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | United Kingdom, *Edexcel GCSE (9-1) History: Anglo-Saxon and Norman England, c1060–1088*, printed pp. 6–7 |
+| United Kingdom part — Timeline, 1917–1941 — story beats: two revolutions, a civil war, Lenin's death, Stalin's terror and the Five-Year Plans are sequenced on one line so learners can date the Soviet Union's turns against each other (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | United Kingdom, *Edexcel GCSE (9-1) History: Russia and the Soviet Union, 1917–1941*, printed p. 8 |
+
+United Kingdom's own way (Edexcel GCSE (9-1) History: Crime and punishment through time, c1000–present, Grade 10 (student/teacher: STUDENT)): a thematic study that follows one thread — crime, law enforcement and punishment — across a thousand years, judging every period by change and continuity, with a linked historic-environment depth study of one place (Whitechapel) and source/interpretation work on every spread. That way is stocked here as the way the United Kingdom teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+United Kingdom's own way (Edexcel GCSE (9-1) History: Anglo-Saxon and Norman England, c1060–1088, Grade 10 (student/teacher: STUDENT)): a British depth study — one short period (1060–88) studied in fine detail, built around the Bayeux Tapestry and chronicle sources, with Cause & Consequence as the key historical concept and recap/Writing Historically spreads closing each chapter. That way is stocked here as the way the United Kingdom teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+United Kingdom's own way (Edexcel GCSE (9-1) History: Russia and the Soviet Union, 1917–1941, Grade 10 (student/teacher: STUDENT)): a modern depth study of another country's revolution — Russia's 1917–41 story told in detail for British learners, with historians' rival interpretations (Volkogonov and others) set against contemporary posters and photographs throughout. That way is stocked here as the way the United Kingdom teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 17 countries (Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom).**

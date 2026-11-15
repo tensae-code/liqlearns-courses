@@ -1,0 +1,19 @@
+# Sources — Crime and punishment since 1900
+
+countries: United Kingdom
+
+**Book 1:** *Edexcel GCSE (9-1) History: Crime and punishment through time, c1000–present* (student book, English) — United Kingdom. Title as printed: Edexcel GCSE (9-1) History: Crime and punishment through time, c1000–present. Grade: Grade 10 (student/teacher: STUDENT). Publisher: Pearson Education Limited; year 2016; ISBN 978 1 292 12736 1. PDF pages: 204 (cover/title page verified against the record title). Verdict: COMPLETE. Tally: 26 placements — 3 to existing lessons, 23 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/united-kingdom-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| United Kingdom part — 4.1 Crime and definitions of crime, c1900–present — story beats: changing attitudes, above all in the 1960s, decriminalise acts such as homosexuality (1967) while new technology keeps creating new crimes (History expansion, 2026-11-15; original placement slug: modern-world/crime-and-punishment-since-1900) | United Kingdom, *Edexcel GCSE (9-1) History: Crime and punishment through time, c1000–present*, printed p. 107 |
+| United Kingdom part — 4.2 Law enforcement, c1900–present — story beats: 200 separate local forces with no shared records give way to fingerprint branches (1901), the 999 number, forensic science and community policing (History expansion, 2026-11-15; original placement slug: modern-world/crime-and-punishment-since-1900) | United Kingdom, *Edexcel GCSE (9-1) History: Crime and punishment through time, c1000–present*, printed p. 113 |
+| United Kingdom part — 4.3 Changes in punishment, c1900–present — story beats: execution shrinks to murder and treason, separate treatment for young offenders begins (Children's Act 1908), and punishment turns toward rehabilitation on the road to abolition (History expansion, 2026-11-15; original placement slug: modern-world/crime-and-punishment-since-1900) | United Kingdom, *Edexcel GCSE (9-1) History: Crime and punishment through time, c1000–present*, printed p. 120 |
+| United Kingdom part — 4.4 Case study: conscientious objectors in the First and Second World Wars — story beats: conscription (1916) makes refusing to fight a crime for the first time; objectors are sorted, imprisoned or given front-line non-combat work, and treated differently again in 1939–45 (History expansion, 2026-11-15; original placement slug: modern-world/crime-and-punishment-since-1900) | United Kingdom, *Edexcel GCSE (9-1) History: Crime and punishment through time, c1000–present*, printed p. 127 |
+| United Kingdom part — 4.5 Case study: the Derek Bentley case and the abolition of capital punishment — story beats: Derek Bentley is hanged despite doubts and a plea from 200 MPs; the scandal drives the 1957 Homicide Act's diminished-responsibility defence and the abolition campaign (History expansion, 2026-11-15; original placement slug: modern-world/crime-and-punishment-since-1900) | United Kingdom, *Edexcel GCSE (9-1) History: Crime and punishment through time, c1000–present*, printed p. 133 |
+
+United Kingdom's own way (Edexcel GCSE (9-1) History: Crime and punishment through time, c1000–present, Grade 10 (student/teacher: STUDENT)): a thematic study that follows one thread — crime, law enforcement and punishment — across a thousand years, judging every period by change and continuity, with a linked historic-environment depth study of one place (Whitechapel) and source/interpretation work on every spread. That way is stocked here as the way the United Kingdom teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 1 country (United Kingdom).**
+
+Searchable tags: United Kingdom, Crime and punishment since 1900, modern-world, History expansion 2026-11-15
