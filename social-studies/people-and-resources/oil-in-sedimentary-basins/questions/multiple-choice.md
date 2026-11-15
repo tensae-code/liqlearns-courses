@@ -1,0 +1,19 @@
+# Oil In Sedimentary Basins — multiple choice
+
+Pick the one right answer.
+
+**1. (Sub lesson 1)** The first part of this lesson is —
+a) Oil In Sedimentary Basins  b) learning the alphabet  c) counting to ten
+**Answer: a) Oil In Sedimentary Basins**
+
+**2. (Sub lesson 1)** This lesson is mainly about —
+a) El petróleo está escondido en cuencas sedimentarias; La industria petrolera: yacimientos, gas y PDVSA; Venezuela: cuna de nuestro oro negro  b) ancient kings only  c) the Moon's phases
+**Answer: a) El petróleo está escondido en cuencas sedimentarias; La industria petrolera: yacimientos, gas y PDVSA; Venezuela: cuna de nuestro oro negro**
+
+**3. (Sub lesson 2)** The second part of this lesson is —
+a) Venezuela's way — the book's own teaching way  b) learning to swim  c) telling the time
+**Answer: a) Venezuela's way — the book's own teaching way**
+
+**4. (Sub lesson 2)** Which of these is true, from the lesson?
+a) This lesson teaches El petróleo está escondido en cuencas sedimentarias; La industria petrolera: yacimientos, gas y PDVSA; Venezuela: cuna de nuestro oro negro.  b) Venezuela's book never studies this thing.  c) This lesson teaches nothing about its topic
+**Answer: a) This lesson teaches El petróleo está escondido en cuencas sedimentarias; La industria petrolera: yacimientos, gas y PDVSA; Venezuela: cuna de nuestro oro negro.**

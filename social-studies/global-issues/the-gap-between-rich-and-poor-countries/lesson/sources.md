@@ -1,6 +1,6 @@
 # Sources — The gap between rich and poor countries
 
-countries: Ethiopia, Haiti, Palestine, Cambodia, Syria
+countries: Ethiopia, Haiti, Palestine, Cambodia, Syria, Venezuela
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Haiti, Palestine, Cambodia, Syria
 
 **Book 7:** *الجغرافية — الثالث الثانوي الأدبي (Geography, Third Secondary, Literary), كتاب الطالب (Student Book)* (student book, Arabic) — Ministry of Education, Syrian Arab Republic; year 2025–2026; no ISBN printed. Title as printed: الجغرافية — الثالث الثانوي الأدبي (Geography, Third Secondary, Literary), كتاب الطالب (Student Book). Grade: Grade 12 (student/teacher: STUDENT). PDF pages: 280 (cover/title page verified against the record title; grabbed via the repo release route, 254,021,461 bytes = record size exactly). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/syria-placements.md.
 
+**Book 8:** *Venezuela y su gente — Ciencias Sociales 4to Grado* (student book, Spanish) — Ministerio del Poder Popular para la Educación / Colección Bicentenario; year 2014 (fourth edition, April 2014); ISBN 978-980-218-302-9. Title as printed: Venezuela y su gente — Ciencias Sociales 4to Grado. Grade: Grade 4 (student/teacher: STUDENT). PDF pages: 83 (printed pages run to 160; cover/title page verified against the record title; grab SHA/size verified by grab.py). Verdict: COMPLETE. (Combined book — Geography parts placed below; parts named, not placed — History parts named, not placed: the whole second block "Viaje por nuestro pasado indígena y colonial" (printed pp. 49–122): Los pueblos tienen historia (p. 50); Pueblos indígenas de hoy y de ayer (p. 56); Del mito a la verdad del poblamiento de América (p. 60); organización indígena del pasado (p. 64); Un encuentro inesperado cambió la imagen del mundo (p. 70); Conflicto de grandes proporciones (p. 80); Al apoderarse de América, España se convierte en un Imperio (p. 90); A tierras colectivas le aparecieron dueños extranjeros (p. 96); El poder en América, cuando mandaba un rey (p. 104); Somos cultura mestiza desde la Colonia (p. 110); La Guipuzcoana y otras novedades (p. 114); De fracasados intentos a la Revolución de 1810 (p. 116).; Civics parts named, not placed: Gotitas de convivencia / ¡Hola familia! / Cuando decimos familia… (pp. 123–131); Lo que nos hace sentir que somos de Venezuela (p. 132); Nuestro patrimonio histórico-cultural (p. 138); Derechos de la humanidad (p. 144); Necesidades básicas de la humanidad (p. 146); Constitución y leyes para vivir bien (p. 148); La Patria / La Patria grande (pp. 152–156, national symbols — its map-symbol pages are placed below).) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/venezuela-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The gap and its causes | G12 student #57, printed pp. 134–138 |
@@ -28,8 +30,9 @@ countries: Ethiopia, Haiti, Palestine, Cambodia, Syria
 | Cambodia part — Ch.2 L2 វិសមភាពចំពោះការអប់រំ (inequality in education) | Cambodia, *Cambodia Grade 12 Geography*, Ch.2 L2 វិសមភាពចំពោះការអប់រំ (inequality in education) — printed p. 28 |
 | Cambodia part — Ch.2 L3 វិសមភាពនៃការប្រើប្រាស់សេវាមូលដ្ឋាន (inequality in access to basic services) | Cambodia, *Cambodia Grade 12 Geography*, Ch.2 L3 វិសមភាពនៃការប្រើប្រាស់សេវាមូលដ្ឋាន (inequality in access to basic services) — printed p. 36 |
 | Syria part — Why are some countries developing and others developed? | Syria, *Syria Grade 12 Geography G12-Literary*, Why are some countries developing and others developed? — printed p. 230 |
+| Venezuela part — Somos latinoamericanos y del mundo: world space and its inequalities | Venezuela, *Venezuela Grade 4 G4 CS Venezuela y Su Gente*, Somos latinoamericanos y del mundo: world space and its inequalities — printed p. 46 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Palestine, Cambodia, Syria). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 5 countries (Ethiopia, Palestine, Cambodia, Syria, Venezuela). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
 
 Haiti's own way (teacher sequence — evidence): World inequality is questioned through the words used for it (Nord/Sud, développé/sous-développé) and through Haiti's own case — a rich-country/poor-country comparison (Canada or USA vs Haiti), the independence debt, food insecurity and Covid vaccination in Haiti — with every claim built from authenticated statistics, graphs and maps crossed from local to world scale. That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
@@ -46,3 +49,5 @@ Cambodia's own way (Cambodia Grade 11 Geography): the standalone upper-secondary
 Cambodia's own way (Cambodia Grade 12 Geography): the final Geography year is economic geography — Cambodia's population, inequalities, farm/industry/energy/trade/tourism economy and urbanisation first, then the world's economic poles studied one by one: the USA, Japan and the European Union.
 
 Syria's own way (Syria Grade 12 Geography G12-Literary): the final-year Literary-track book is a three-scale spiral — the Arab homeland as one integrated natural unit, then Syria itself at the same two levels (nature/resources, then human/economic life), then the world split into developing and developed with Japan, India and Senegal as the three case studies; every unit works from maps, statistical tables and graphs, and the water pair of lessons (scarcity, then "a looming crisis and future conflict") is the book's signature treatment.
+
+Venezuela's own way (Venezuela Grade 4 G4 CS Venezuela y Su Gente): geography is the first block ("Conóceme, soy Venezuela") and is built as widening circles — the child's house drawn to a stated scale (1 cm on the plan = 1 m), then Tomás's town, then Venezuela's territory and borders, then Latin America and the unequal world.

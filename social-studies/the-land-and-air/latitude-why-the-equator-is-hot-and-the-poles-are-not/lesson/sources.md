@@ -1,6 +1,6 @@
 # Sources — Latitude — why the equator is hot and the poles are not
 
-countries: Ethiopia, Turkey, Colombia
+countries: Ethiopia, Turkey, Colombia, Venezuela
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Turkey, Colombia
 
 **Book 4:** *Ciencias Sociales 4 — Segunda Cartilla, Escuela Nueva* (student guide, Spanish) — Colombia, Ministerio de Educación Nacional, Bogotá; year 2011; ISBN libro 978-958-97482-9-9 (ISBN serie 978-958-97482-3-7). Title as printed: Ciencias Sociales 4 — Segunda Cartilla, Escuela Nueva. Grade 4 (student/teacher: STUDENT). PDF pages: 128 (cover verified: "Ciencias Sociales 4, Segunda Cartilla, Escuela Nueva"). Verdict: COMPLETE. Non-Geography parts named in the placements, not placed: Unidad 7 Los conflictos y los dilemas en nuestra sociedad, Guías 12–13, printed pp. 90–106 (civics/ethics); Unidad 8 Los ciudadanos y las instituciones, Guías 14–15 (ser ciudadano; excluir o incluir), printed pp. 107–127 (civics).. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/colombia-placements.md.
 
+**Book 5:** *El espacio geográfico de Venezuela — Geografía, 3er Año* (student book, Spanish) — Ministerio del Poder Popular para la Educación / Colección Bicentenario; year 2014 (third edition, April 2014); ISBN 978-980-218-337-1. Title as printed: El espacio geográfico de Venezuela — Geografía, 3er Año. Grade: Grade 9 (3er Año de Educación Media) (student/teacher: STUDENT). PDF pages: 178 (printed pages run to 176, Bibliografía; cover/title page verified against the record title; release grab size-verified by grab.py). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/venezuela-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The angle of the Sun | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 2, printed pp. 45–46 |
@@ -18,8 +20,9 @@ countries: Ethiopia, Turkey, Colombia
 | Teaching sequence and answer keys (teacher guide — evidence) | Ethiopia, *Geography, Teacher Guide, Grade 11*, Unit 2, guide printed pp. 40–63 |
 | Turkey part — 4C İklim Kuşakları (climate zones) | Turkey, *Ortaöğretim Coğrafya 9. Sınıf Ders Kitabı*, Grade 9, 4C İklim Kuşakları (climate zones) — printed p. 95 |
 | Colombia part (CS_Grado4_02) — Guía 9 Colombia es un país tropical / Colombia y sus recursos: the tropical zone, climates and thermal floors from sea-level beaches to páramos, using the tropics' resources well | Colombia, *Ciencias Sociales 4 — Segunda Cartilla, Escuela Nueva*, Guía 9 Colombia es un país tropical / Colombia y sus recursos: the tropical zone, climates and thermal floors from sea-level beaches to páramos, using the tropics' resources well — printed p. 30 |
+| Venezuela part — Venezuela país intertropical: location in the geoastronomic zones | Venezuela, *Venezuela Grade 9 G9 Geography Venezuela*, Venezuela país intertropical: location in the geoastronomic zones — printed p. 140 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Turkey, Colombia).**
+**Acceptance count: taught in 4 countries (Ethiopia, Turkey, Colombia, Venezuela).**
 
 Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
@@ -28,3 +31,5 @@ No book error is flagged for this lesson's pages in the placements. The student 
 Searchable tags: latitude, insolation, sun angle, seasons, axial tilt, ethiopia, social studies, the land and air
 
 Colombia's own way (CS_Grado4_02): the second Grade 4 cartilla is almost pure physical geography of Colombia — relief first, then the tropical position and thermal floors, then a region-by-region tour of Colombia's six natural regions before the world's natural regions.
+
+Venezuela's own way (Venezuela Grade 9 G9 Geography Venezuela): a full national geography written as Geohistoria — every physical topic (position, climate, relief, hydrography) is paired with the historical stages that organised the same space (agrarian Venezuela, oil Venezuela, 21st-century Venezuela), and the Amazon rainforest closes the book as a defence-of-life argument.

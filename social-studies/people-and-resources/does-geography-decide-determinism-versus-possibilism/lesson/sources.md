@@ -1,6 +1,6 @@
 # Sources — Does geography decide? Determinism versus possibilism
 
-countries: Ethiopia, Turkey, Colombia
+countries: Ethiopia, Turkey, Colombia, Venezuela
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Turkey, Colombia
 
 **Book 6:** *Ciencias Sociales — Secundaria Activa, Grado 6 (module)* (student module, Spanish) — Colombia, Ministerio de Educación Nacional (Secundaria Activa); year not printed on extracted front pages; ISBN no ISBN printed in the extracted front matter. Title as printed: Ciencias Sociales — Secundaria Activa, Grado 6 (module). Grade 6 (student/teacher: STUDENT). PDF pages: 256 (table of contents verified against the record title/grade). Verdict: COMPLETE. Non-Geography parts named in the placements, not placed: Unidad 3 Cap. 6–7 (political structures, stratified societies, first empires, sacred/urban architecture), printed pp. 152–205 (History); Unidad 4 ¿Qué aprendemos de las sociedades de ayer y de hoy? (legacies, Greek democracy, ancient law codes), printed pp. 206–245 (History/Civics).. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/colombia-placements.md.
 
+**Book 7:** *El espacio geográfico de la Humanidad — Ciencias Sociales, 1er Año* (student book, Spanish) — Ministerio del Poder Popular para la Educación / Colección Bicentenario (co-edition with Ministerio de Cultura, Fundación Editorial El perro y la rana); year 2014 (third edition, April 2014); ISBN 978-980-218-334-0. Title as printed: El espacio geográfico de la Humanidad — Ciencias Sociales, 1er Año. Grade: Grade 7 (1er Año de Educación Media) (student/teacher: STUDENT). PDF pages: 162 (cover/title page verified against the record title; byte size 88,531,252 matches the books.json record; read in place in phase3-staging). Verdict: COMPLETE. (Combined book — Geography parts placed below; parts named, not placed — History/Civics parts named, not placed: none — this is a pure Geography book; historical material (Caracas 1936/1966, Bolívar's unity ideal) is used inside Geography chapters.) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/venezuela-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Determinism — geography as script | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 5, printed pp. 125–126 |
@@ -24,8 +26,9 @@ countries: Ethiopia, Turkey, Colombia
 | Teaching pattern and answer keys (teacher guide — evidence) — Grade 10 | Ethiopia, *Geography, Teacher Guide, Grade 10*, Unit 6, guide printed pp. 117–130 |
 | Turkey part — 1A Doğa ve İnsan Etkileşimi (nature–human interaction) | Turkey, *Ortaöğretim Coğrafya 9. Sınıf Ders Kitabı*, Grade 9, 1A Doğa ve İnsan Etkileşimi (nature–human interaction) — printed p. 15 |
 | Colombia part (CS_Grado06 Secundaria Activa) — Unidad 2 Cap. 4 Tema 11 Habilidades y técnicas de adaptación humana a los entornos | Colombia, *Ciencias Sociales — Secundaria Activa, Grado 6 (module)*, Unidad 2 Cap. 4 Tema 11 Habilidades y técnicas de adaptación humana a los entornos — printed p. 95 |
+| Venezuela part — Recordemos conceptos: the society–nature relationship and historical conditions | Venezuela, *Venezuela Grade 7 G7 Geography Humanidad*, Recordemos conceptos: the society–nature relationship and historical conditions — printed p. 6 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Turkey, Colombia).**
+**Acceptance count: taught in 4 countries (Ethiopia, Turkey, Colombia, Venezuela).**
 
 Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
@@ -36,3 +39,5 @@ Extension (Wave 4 Band D): the Grade 10 book's determinism–possibilism section
 Searchable tags: determinism, possibilism, febvre, vidal de la blache, huntington, ethiopia, social studies, people and resources
 
 Colombia's own way (CS_Grado06 Secundaria Activa): Grade 6 Secundaria Activa starts from the universe and the Earth as a "living machine" (rocks and wrinkles, water, air), then follows humans evolving, migrating from Africa to America and adapting to each continent's environment — geography as the stage for all the history that follows.
+
+Venezuela's own way (Venezuela Grade 7 G7 Geography Humanidad): a Geohistoria (Ramón Tovar) approach — geographic space is always explained through the historical conditions that built it; every chapter opens with a literary epigraph, works through "Entérate / Entretejiendo saberes / Indagando" boxes, and keeps returning to the learner's own community and to Caracas as the worked example.

@@ -1,6 +1,6 @@
 # Sources — Your own enquiry — a locality research project
 
-countries: Ethiopia, Bangladesh, Samoa, Syria
+countries: Ethiopia, Bangladesh, Samoa, Syria, Venezuela
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -10,6 +10,10 @@ countries: Ethiopia, Bangladesh, Samoa, Syria
 
 **Book 4:** *عالم الجغرافية (World of Geography), الصف السابع الأساسي (Seventh Grade Basic)* (student book, Arabic) — Ministry of Education / National Center for Curriculum Development (NCCD), Syrian Arab Republic; year 2021–2022 (1442 H), first printed 2017–2018; no ISBN printed. Title as printed: عالم الجغرافية (World of Geography), الصف السابع الأساسي (Seventh Grade Basic). Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 159 (cover/title page verified against the record title; read in place in phase3-staging, 932,059,473 bytes). Verdict: COMPLETE. (Non-content slots named, not placed: teacher-designed lesson slots (printed pp. 86, 150) and the student-designed geography-information slot (printed p. 148) carry no set content of their own.) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/syria-placements.md.
 
+**Book 5:** *Patria y Ciudadanía — Ciencias Sociales, 1er Año* (student book, Spanish) — Ministerio del Poder Popular para la Educación / Colección Bicentenario; year 2014 (third edition, April 2014); ISBN 978-980-218-325-8. Title as printed: Patria y Ciudadanía — Ciencias Sociales, 1er Año. Grade: Grade 7 (1er Año de Educación Media) (student/teacher: STUDENT). PDF pages: 93 (cover/title page verified against the record title; release grab size-verified by grab.py — the repo asset itself is short). Verdict: PARTIAL — the file ends at printed p. 92 (a complementary reading, the Ananse fable). Missing from the book's own index: De la calle a Miraflores (printed p. 94), Patria y Ciudadanía: una permanente construcción (p. 110), Mi casa grande, nuestro planeta (p. 126), Somos promotores y promotoras de la paz (p. 160) and the Bibliografía (p. 176). LIBRARY DEBT: the secured copy of this book is incomplete.. (Combined book — Geography parts placed below; parts named, not placed — History parts named, not placed: Somos constructores y constructoras del sueño de los Simones (printed p. 8); ¿De dónde vengo? ¿Hacia dónde voy? (p. 30); Diáspora africana y la trata transatlántica (pp. 84–88).; Civics parts named, not placed: Te presento a mi familia — convivencia familiar (p. 40); community organisation and Consejos Comunales inside Mi casa, nuestra cuadra, nuestra comunidad (pp. 58–75); responsible-consumption pages (consumidores responsables, nunca consumistas).) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/venezuela-placements.md.
+
+**Book 6:** *El espacio geográfico de Venezuela — Geografía, 3er Año* (student book, Spanish) — Ministerio del Poder Popular para la Educación / Colección Bicentenario; year 2014 (third edition, April 2014); ISBN 978-980-218-337-1. Title as printed: El espacio geográfico de Venezuela — Geografía, 3er Año. Grade: Grade 9 (3er Año de Educación Media) (student/teacher: STUDENT). PDF pages: 178 (printed pages run to 176, Bibliografía; cover/title page verified against the record title; release grab size-verified by grab.py). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/venezuela-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The course funnels into one project | G12 student #87, printed pp. 216–217, 246–248 |
@@ -17,8 +21,10 @@ countries: Ethiopia, Bangladesh, Samoa, Syria
 | Bangladesh part (Grade 8) — Analysing the locality survey: trees, animals and birds of our area over time | Bangladesh, *History and Social Science, Class Eight*, Grade 8, Analysing the locality survey: trees, animals and birds of our area over time — printed pp. 9-12 |
 | Samoa part (Year 12 Geography) — Part 5 Unit 2 Developing a Field Study on Environmental Issues | Samoa, *Geography, Year 12*, Part 5 Unit 2 Developing a Field Study on Environmental Issues — printed p. 180 |
 | Syria part — End-of-semester project (Semester 1) | Syria, *Syria Grade 7 Geography G7 عالم الجغرافية*, End-of-semester project (Semester 1) — printed p. 88 |
+| Venezuela part — La Carta del Barrio: the community documents the origin and character of its own geographic space | Venezuela, *Venezuela Grade 7 G7 CS Patria y Ciudadanía*, La Carta del Barrio: the community documents the origin and character of its own geographic space — printed p. 58 |
+| Venezuela part — Lo geohistórico en la narración oral y escrita de los pobladores: a barrio and its history (La Trilla) | Venezuela, *Venezuela Grade 9 G9 Geography Venezuela*, Lo geohistórico en la narración oral y escrita de los pobladores: a barrio and its history (La Trilla) — printed p. 38 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Bangladesh, Samoa, Syria).**
+**Acceptance count: taught in 5 countries (Ethiopia, Bangladesh, Samoa, Syria, Venezuela).**
 
 No book error in the placements for this lesson is taught here. Figures and dates are taught exactly as the placements report them, as the book's own record.
 
@@ -29,3 +35,7 @@ Bangladesh's own way (Grade 8): the year's Geography is one long chapter, "Prote
 Samoa's own way (Year 12 Geography): A full senior Geography course built on the Pacific itself — high and low island formation, island climates and ecosystems, then population of New Zealand, Asia and Samoa, and Samoan farming (bananas) beside Australian uranium mining.
 
 Syria's own way (Syria Grade 7 Geography G7 عالم الجغرافية): a pure Geography book built entirely around activity lessons with story-style titles ("Mother of sciences", "Stones from the sky", "The origami art" for folding, "A tourist in my homeland"); technology first — aerial photos, GPS, remote sensing and GIS open the book before any physical geography — and each semester closes with student/teacher-designed lessons and an end-of-semester project.
+
+Venezuela's own way (Venezuela Grade 7 G7 CS Patria y Ciudadanía): a Civics book built on widening belonging — house, block (cuadra), community, homeland, planet — where the Geography enters as lived space: the Carta del Barrio, in which a community writes down its own geographic space (its social, cultural, historical, economic and environmental character), and a full postal address that nests house → block → parish → municipality → state → Venezuela → South America → Earth → Solar System → Milky Way.
+
+Venezuela's own way (Venezuela Grade 9 G9 Geography Venezuela): a full national geography written as Geohistoria — every physical topic (position, climate, relief, hydrography) is paired with the historical stages that organised the same space (agrarian Venezuela, oil Venezuela, 21st-century Venezuela), and the Amazon rainforest closes the book as a defence-of-life argument.

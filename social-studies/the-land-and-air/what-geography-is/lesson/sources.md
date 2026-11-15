@@ -1,6 +1,6 @@
 # Sources — What geography is
 
-countries: Ethiopia, Saudi Arabia, Turkey, Bolivia, Angola, Dominican Republic, Slovenia, Vietnam, Uganda, Sudan, Syria
+countries: Ethiopia, Saudi Arabia, Turkey, Bolivia, Angola, Dominican Republic, Slovenia, Vietnam, Uganda, Sudan, Syria, Venezuela
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -32,6 +32,10 @@ countries: Ethiopia, Saudi Arabia, Turkey, Bolivia, Angola, Dominican Republic, 
 
 **Book 15:** *عالم الجغرافية (World of Geography), الصف السابع الأساسي (Seventh Grade Basic)* (student book, Arabic) — Ministry of Education / National Center for Curriculum Development (NCCD), Syrian Arab Republic; year 2021–2022 (1442 H), first printed 2017–2018; no ISBN printed. Title as printed: عالم الجغرافية (World of Geography), الصف السابع الأساسي (Seventh Grade Basic). Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 159 (cover/title page verified against the record title; read in place in phase3-staging, 932,059,473 bytes). Verdict: COMPLETE. (Non-content slots named, not placed: teacher-designed lesson slots (printed pp. 86, 150) and the student-designed geography-information slot (printed p. 148) carry no set content of their own.) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/syria-placements.md.
 
+**Book 16:** *El espacio geográfico de la Humanidad — Ciencias Sociales, 1er Año* (student book, Spanish) — Ministerio del Poder Popular para la Educación / Colección Bicentenario (co-edition with Ministerio de Cultura, Fundación Editorial El perro y la rana); year 2014 (third edition, April 2014); ISBN 978-980-218-334-0. Title as printed: El espacio geográfico de la Humanidad — Ciencias Sociales, 1er Año. Grade: Grade 7 (1er Año de Educación Media) (student/teacher: STUDENT). PDF pages: 162 (cover/title page verified against the record title; byte size 88,531,252 matches the books.json record; read in place in phase3-staging). Verdict: COMPLETE. (Combined book — Geography parts placed below; parts named, not placed — History/Civics parts named, not placed: none — this is a pure Geography book; historical material (Caracas 1936/1966, Bolívar's unity ideal) is used inside Geography chapters.) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/venezuela-placements.md.
+
+**Book 17:** *El espacio geográfico de Venezuela — Geografía, 3er Año* (student book, Spanish) — Ministerio del Poder Popular para la Educación / Colección Bicentenario; year 2014 (third edition, April 2014); ISBN 978-980-218-337-1. Title as printed: El espacio geográfico de Venezuela — Geografía, 3er Año. Grade: Grade 9 (3er Año de Educación Media) (student/teacher: STUDENT). PDF pages: 178 (printed pages run to 176, Bibliografía; cover/title page verified against the record title; release grab size-verified by grab.py). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/venezuela-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The word | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 1, printed pp. 3–4 |
@@ -51,8 +55,10 @@ countries: Ethiopia, Saudi Arabia, Turkey, Bolivia, Angola, Dominican Republic, 
 | Sudan part — Definition of geography and its branches (physical, human, geographic techniques) | Sudan, *Sudan Grade 10 SD Geography 10*, Definition of geography and its branches (physical, human, geographic techniques) — printed p. 7 |
 | Sudan part — What is geography? (Unit 1: The environment around us) | Sudan, *Sudan Grade 5 SD Geography 5*, What is geography? (Unit 1: The environment around us) — printed p. 6 |
 | Syria part — Mother of sciences (what Geography is, its branches and importance; natural vs human phenomena sorting activity) | Syria, *Syria Grade 7 Geography G7 عالم الجغرافية*, Mother of sciences (what Geography is, its branches and importance; natural vs human phenomena sorting activity) — printed p. 8 |
+| Venezuela part — Recordemos conceptos y nociones: geographic space built by peoples | Venezuela, *Venezuela Grade 7 G7 Geography Humanidad*, Recordemos conceptos y nociones: geographic space built by peoples — printed p. 6 |
+| Venezuela part — Reencuentro con la Geografía: geography and geographic space | Venezuela, *Venezuela Grade 9 G9 Geography Venezuela*, Reencuentro con la Geografía: geography and geographic space — printed p. 8 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Saudi Arabia, Turkey, Bolivia, Angola, Dominican Republic, Slovenia, Vietnam, Uganda, Sudan, Syria).**
+**Acceptance count: taught in 12 countries (Ethiopia, Saudi Arabia, Turkey, Bolivia, Angola, Dominican Republic, Slovenia, Vietnam, Uganda, Sudan, Syria, Venezuela).**
 
 Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
@@ -79,3 +85,7 @@ Sudan's own way (Sudan Grade 10 SD Geography 10): A second-edition foundations b
 Sudan's own way (Sudan Grade 5 SD Geography 5): The first-ever Geography book in the post-2019 curriculum starts from the child's own classroom and school: directions are learned by standing facing the sunrise, map elements through a pupil's-house map, and only then does the book step out to Sudan, Africa and the world — a local-to-global ladder.
 
 Syria's own way (Syria Grade 7 Geography G7 عالم الجغرافية): a pure Geography book built entirely around activity lessons with story-style titles ("Mother of sciences", "Stones from the sky", "The origami art" for folding, "A tourist in my homeland"); technology first — aerial photos, GPS, remote sensing and GIS open the book before any physical geography — and each semester closes with student/teacher-designed lessons and an end-of-semester project.
+
+Venezuela's own way (Venezuela Grade 7 G7 Geography Humanidad): a Geohistoria (Ramón Tovar) approach — geographic space is always explained through the historical conditions that built it; every chapter opens with a literary epigraph, works through "Entérate / Entretejiendo saberes / Indagando" boxes, and keeps returning to the learner's own community and to Caracas as the worked example.
+
+Venezuela's own way (Venezuela Grade 9 G9 Geography Venezuela): a full national geography written as Geohistoria — every physical topic (position, climate, relief, hydrography) is paired with the historical stages that organised the same space (agrarian Venezuela, oil Venezuela, 21st-century Venezuela), and the Amazon rainforest closes the book as a defence-of-life argument.

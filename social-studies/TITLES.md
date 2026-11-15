@@ -103,7 +103,7 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **1827**
+Geography lessons across the eight Geography titles: **1863**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -1213,3 +1213,32 @@ Developed Country Case Study, Our New World, Senegal A
 Developing Country Case Study and The United States Of
 America Country Study.
 (Every new lesson is taught in 1 country (Syria).)
+
++36 for Venezuela, 2026-11-15 — First Steps: A Space We
+Want To Know, A Walk Around Where I Live, Geography And
+Its Helper Sciences, Houses And Homes Where Families
+Live, My Block My Community Lived Space, Observing Our
+School Space and Spatial Notions Near And Far; Earth
+and Space: Day And Night Sun And Moon and Sundials
+Measuring Time With The Sun; The Land and Air: Borders
+Land And Sea Limits And Sovereignty, Caracas The
+Capital City, City And Countryside Landscapes,
+Diversity Of Geographic Spaces, From Local Space To The
+World, Geohistorical Periodization, Geohistory Space
+Changes With History, Guayana Region Of Venezuela,
+Natural Basis Of Farming Soil And Climate, Observing
+And Reading A Landscape, Time In Geography Daily Lived
+Historical, Tropical Storms And Hurricanes, Venezuela
+An Album Of Reliefs, Venezuela Our Country And Its
+Landscapes, Venezuelas Position Gateway To South
+America and Venezuelas Territorial Organization States;
+Population, Transport and Maps: Distributing Services
+Fairly Across Territory, Finding Your Way Routes And
+Directions and Networks That Connect People; People and
+Resources: Land Distribution And Food Sovereignty, Oil
+Economy Reshapes Space, Oil In Sedimentary Basins,
+Urban Industrial Landscapes and Venezuelas Minerals;
+Global Issues: Latin American Integration Blocs, Poles
+Of Power In World Space and The World Environment We
+Live In And Share.
+(Every new lesson is taught in 1 country (Venezuela).)

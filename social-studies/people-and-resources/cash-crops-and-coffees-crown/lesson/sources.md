@@ -1,6 +1,6 @@
 # Sources — Cash crops and coffee’s crown
 
-countries: Ethiopia, Bangladesh, Uganda
+countries: Ethiopia, Bangladesh, Uganda, Venezuela
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Bangladesh, Uganda
 
 **Book 5:** *Excel Standard Social Studies, Pupil's Book 6 (First Edition)* (student book, English) — Excel Publishers, Kampala; year not printed (First Edition); ISBN no ISBN printed. Title as printed: Excel Standard Social Studies, Pupil's Book 6 (First Edition). Grade: Primary Six = Grade 6 (student/teacher: STUDENT). PDF pages: 210 (title page verified: "EXCEL STANDARD SOCIAL STUDIES PUPIL'S BOOK 6 — EXCEL PUBLISHERS" — matches record page count 210 exactly; read via the record's books.json source_url at exoticnotes.com after grab.py routes failed with RemoteDisconnected from api.github.com). Commercial book built on the NCDC Primary Six SST syllabus, filed in the library under gov/uganda — see library debts in the group log.. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/uganda-placements.md.
 
+**Book 6:** *Venezuela y su gente — Ciencias Sociales 5to Grado* (student book, Spanish) — Ministerio del Poder Popular para la Educación / Colección Bicentenario; year 2014 (fourth edition, April 2014); ISBN 978-980-218-303-6. Title as printed: Venezuela y su gente — Ciencias Sociales 5to Grado. Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 83 (printed pages run to 160; cover/title page verified against the record title; release grab size-verified by grab.py). Verdict: COMPLETE. (Combined book — Geography parts placed below; parts named, not placed — History parts named, not placed: the 19th-century republican block (printed pp. 59–124): Cuando la historia anduvo a caballo sembrando repúblicas (p. 59); Las cosas cambian… y los pueblos cambian su historia; separation from Gran Colombia; the Federal War and the constitutions of the century.; Civics parts named, not placed: Somos parte de la ciudadanía (p. 125); En primer lugar nuestra escuela (p. 126); Satisfacer necesidades básicas es un derecho humano (p. 128); Los derechos humanos y nuestra constitución (p. 132); La ley fundamental es la constitución (p. 136); Por qué y para qué un poder municipal y uno estadal (p. 144); Nuestra cultura nos identifica como pueblo (p. 148); La bandera nacional tiene una historia (p. 156).) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/venezuela-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Coffee first | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 5, printed pp. 134–138 |
@@ -20,8 +22,9 @@ countries: Ethiopia, Bangladesh, Uganda
 | Bangladesh part (Grade 7) — Jute, the cash crop of the Bengal region | Bangladesh, *History and Social Science, Class Seven*, Grade 7, Jute, the cash crop of the Bengal region — printed p. 53 |
 | Uganda part — Location of crops grown in East Africa (traditional cash-crop areas sketch map) | Uganda, *Uganda Grade 6 UG P6 SST Home-Study*, Location of crops grown in East Africa (traditional cash-crop areas sketch map) — printed p. 37 |
 | Uganda part — Topic 2: Crop growing in East Africa | Uganda, *Uganda Grade 6 UG Excel P6 SST*, Topic 2: Crop growing in East Africa — printed p. 91 |
+| Venezuela part — Cacao, café, petróleo y población | Venezuela, *Venezuela Grade 5 G5 CS Venezuela y Su Gente*, Cacao, café, petróleo y población — printed p. 22 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Bangladesh, Uganda).**
+**Acceptance count: taught in 4 countries (Ethiopia, Bangladesh, Uganda, Venezuela).**
 
 Searchable tags: cash crops, coffee exports, oilseeds, pulses, khat, flowers, social studies
 
@@ -40,3 +43,5 @@ Bangladesh's own way (Grade 7): Geography thins into economic history and a long
 Uganda's own way (Uganda Grade 6 UG P6 SST Home-Study): East Africa is the unit of study throughout: population, resources, crops, mining, lakes and transport are all taught at East African Community scale with sketch maps learners draw themselves. Non-Geography parts named, not placed: The Cradle of the Human Race in East Africa and sources of history (History, printed pp. 1–6); ethnic groups and migrations — Bantu, Bachwezi (History, pp. 7–16); early kingdoms, chiefdoms and clan systems (History, pp. 11–23); culture and religions in East Africa (pp. 24–28); The Road to Independence and explorers/missionaries/colonialists (History, pp. 48–52); electoral process and democracy (Civics, pp. 53–54); modern communication gadgets (pp. 44–46, named here).
 
 Uganda's own way (Uganda Grade 6 UG Excel P6 SST): The P6 course widens from Uganda to the whole East African Community: location by latitude/longitude, resources, transport and communication are all taught at EAC scale. Non-Geography parts named, not placed: Topic 1 — historical background, formation, revival, organs and symbols of the EAC (Civics); The People of East Africa — origin of human beings, sources of history, archaeological sites, Stone Age, ethnic groups and their political/social/economic organisation (History, printed pp. 25–54); Early visitors — Arab traders, long-distance and slave trade, European traders, Christian missionaries (History, pp. 55–64); Topic 4 The Road to Independence in East Africa — explorers, scramble and partition, colonial rule and reactions, independence struggle, post-independence leaders and democratic rule (History/Civics, pp. 140–188).
+
+Venezuela's own way (Venezuela Grade 5 G5 CS Venezuela y Su Gente): the Geography block is a journey ("Viajemos por Venezuela") through work and wealth — farmland and its natural supports, climate, biodiversity, relief, oil basins and minerals — always tied to how the oil economy rearranged the country's population and space.

@@ -1,6 +1,6 @@
 # Sources — Getting around — roads first
 
-countries: Ethiopia, Guatemala, Colombia, Malaysia, India, Rwanda, Vietnam, Uganda, Sudan
+countries: Ethiopia, Guatemala, Colombia, Malaysia, India, Rwanda, Vietnam, Uganda, Sudan, Venezuela
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Guatemala, Colombia, Malaysia, India, Rwanda, Vietnam, Ugan
 
 **Book 10:** *الجغرافيا — Geography, Third Year Intermediate (الصف الثالث المتوسط)* (student book, Arabic) — Republic of Sudan, Ministry of Education, National Centre for Curricula and Educational Research (Bakht al-Ruda); year not printed on cover/title pages seen; no ISBN printed. Title as printed: الجغرافيا — Geography, Third Year Intermediate (الصف الثالث المتوسط). Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 160 (cover verified against the record title; byte size 13,733,766 and page count match the staging books.json record exactly). Verdict: COMPLETE. How read: PDF text layer is font-garbled, so read visually from rendered pages — cover, preface (3-unit structure), unit objectives and a full spread of interior pages across all three units. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sudan-placements.md.
 
+**Book 11:** *Venezuela y su gente — Ciencias Sociales 6to Grado* (student book, Spanish) — Ministerio del Poder Popular para la Educación / Colección Bicentenario; year 2014 (fourth edition, April 2014); ISBN 978-980-218-304-3. Title as printed: Venezuela y su gente — Ciencias Sociales 6to Grado. Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 91 (printed pages run to 176; cover/title page verified against the record title; release grab size-verified by grab.py). Verdict: COMPLETE. (Combined book — Geography parts placed below; parts named, not placed — History parts named, not placed: Hablemos de la industria petrolera a partir de 1950 / Se funda la OPEP / Una nacionalización con historia (printed pp. 54–60); the 20th-century political-history block (pp. 64–120: Gómez era, 1936–45, golpes, Pérez Jiménez dictatorship, Punto Fijo, Caldera, Chávez).; Civics parts named, not placed: Misión Ciudadanía block (pp. 122–156): Constitución y derechos, democracia participativa, Consejos Comunales, Trabajar es un derecho y un deber, Nuestro compromiso con la cultura, La paz un anhelo de la humanidad.) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/venezuela-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Roads dominate | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 5, printed pp. 138–141 |
@@ -35,8 +37,9 @@ countries: Ethiopia, Guatemala, Colombia, Malaysia, India, Rwanda, Vietnam, Ugan
 | Vietnam part — Bài 34 (part): Transport — its role, features and location factors; road transport and the world road network (2019 map) | Vietnam, *Vietnam Grade 10 Địa lí 10*, Bài 34 (part): Transport — its role, features and location factors; road transport and the world road network (2019 map) — printed pp. 93–94 |
 | Uganda part — Topic 3: Road transport in East Africa | Uganda, *Uganda Grade 6 UG Excel P6 SST*, Topic 3: Road transport in East Africa — printed p. 121 |
 | Sudan part — Transport in Sudan: the paved road network (map-work) | Sudan, *Sudan Grade 9 SD Geography 9*, Transport in Sudan: the paved road network (map-work) — printed p. 100 |
+| Venezuela part — La intercomunicación de las distintas áreas del país | Venezuela, *Venezuela Grade 6 G6 CS Venezuela y Su Gente*, La intercomunicación de las distintas áreas del país — printed p. 34 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Guatemala, Colombia, Malaysia, India, Rwanda, Vietnam, Uganda, Sudan).**
+**Acceptance count: taught in 10 countries (Ethiopia, Guatemala, Colombia, Malaysia, India, Rwanda, Vietnam, Uganda, Sudan, Venezuela).**
 
 Guatemala's own way: one combined Social Studies and Citizenship book per grade, organised in four units that alternate History of Guatemala/Central America with the physical geography of the isthmus — every map carries the note about the unresolved Belize territorial differendum, and Geography is always worked on maps of the seven Central American countries with Guatemala's own Sierra de las Minas, Motagua river and Maya Biosphere as the home examples. That way is stocked here as the way Guatemala teaches this thing.
 
@@ -55,3 +58,5 @@ Vietnam's own way (Vietnam Grade 10 Địa lí 10): a single Grade 10 course tha
 Uganda's own way (Uganda Grade 6 UG Excel P6 SST): The P6 course widens from Uganda to the whole East African Community: location by latitude/longitude, resources, transport and communication are all taught at EAC scale. Non-Geography parts named, not placed: Topic 1 — historical background, formation, revival, organs and symbols of the EAC (Civics); The People of East Africa — origin of human beings, sources of history, archaeological sites, Stone Age, ethnic groups and their political/social/economic organisation (History, printed pp. 25–54); Early visitors — Arab traders, long-distance and slave trade, European traders, Christian missionaries (History, pp. 55–64); Topic 4 The Road to Independence in East Africa — explorers, scramble and partition, colonial rule and reactions, independence struggle, post-independence leaders and democratic rule (History/Civics, pp. 140–188).
 
 Sudan's own way (Sudan Grade 9 SD Geography 9): A single-country book: the whole of Sudan taught in three units — its physical geography, its human geography, then its environmental problems — with map-work activities on Sudan's own maps (states, roads, the Nile) and an infographic "resources of Sudan" spread; the preface warns its statistics change and are only indicators.
+
+Venezuela's own way (Venezuela Grade 6 G6 CS Venezuela y Su Gente): the whole Geography block is one argument — "Nuestro espacio geográfico en tiempos del petróleo": how oil remade population (2011 census), cities (metropolisation), industry location, internal migration and landscapes; learners start by learning how to *look* at a piece of oil-era Venezuela.

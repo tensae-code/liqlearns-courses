@@ -4369,3 +4369,113 @@ United States Of America Country Study (printed p. 37)
 — every new lesson is taught in 1 country (Syria), 8
 questions each.
 Geography lessons: 1771 → 1827.
+
+
+## Venezuela — Geography expansion (merged 2026-11-15)
+175 placement lines stocked from Venezuela's 10 placed
+books (25 records / 13 distinct books in the placements
+file's header count, all Spanish, Ministerio del Poder
+Popular para la Educación, Colección Bicentenario —
+Ciencias Sociales Grades 1–6, Grade 7 Patria y
+Ciudadanía and El espacio geográfico de la Humanidad,
+Grade 9 Geografía and Grade 11 Geografía de Venezuela;
+TSV blob+release URLs and books.json duplicates of the
+same repo paths counted as one book each, and the Grade
+7 Geography book read in place in phase3-staging) —
+combined Ciencias Sociales books have their Geography
+parts placed only, with History / Civics parts named in
+each book header, not placed. RECORD-ONLY, NOT PLACED:
+Nuestra Historia Republicana (Grade 8) and Historia de
+la Humanidad (Grade 8) — pure History, owned by the
+History wave. UNREAD, NO PLACEMENTS: the Grade 11 Earth
+Sciences book (Ciencias de la Tierra 5to año — La
+Tierra: Nuestro Dinámico Hogar) is not in GitHub and
+has no placements — routes tried are recorded in the
+placements file (grab.py on the TSV blob URL returned
+HTTP 404 three times; the grade-11/gov/venezuela tree
+holds no earth-sciences folder; no Ciencias de la
+Tierra release asset exists; the books.json record
+itself says in_pushed: false, on_disk: false — LIBRARY
+DEBT: the book was recorded but its file was never
+secured, and the TSV blob URL is dead). PARTIAL,
+labelled exactly as the placements file labels it: the
+Grade 7 Patria y Ciudadanía copy ends at printed p. 92
+of 176 (a complementary reading, the Ananse fable) —
+missing from the book's own index: De la calle a
+Miraflores (printed p. 94), Patria y Ciudadanía: una
+permanente construcción (p. 110), Mi casa grande,
+nuestro planeta (p. 126), Somos promotores y promotoras
+de la paz (p. 160) and the Bibliografía (p. 176);
+LIBRARY DEBT: the secured copy of this book is
+incomplete, and only the 7 placements from the part
+present are stocked. Library debt carried exactly for
+the Grade 11 book: the TSV record's asset name
+(venezuela-grade-11-full-year.pdf) does not exist in
+the release — the book is held as
+grade-11-venezuela-social-sciences-full-year.pdf
+(129,913,014 bytes, size-verified). The placements
+file's own per-book tallies (16 + 17 + 22 + 10 + 13 +
+17 + 7 + 30 + 26 + 17) sum to 175 and agree with the
+line-by-line count — no tally discrepancy; all 175
+lines were stocked as written. All 10 placed books are
+student books, counted in acceptance counts; 9 are
+COMPLETE and the Grade 7 Patria y Ciudadanía book is
+PARTIAL as labelled above. Stocked into standing
+lessons (108 placements across 78 lessons, every one
+counting Venezuela — including 1 placement whose file
+slug names
+people-and-resources/work-and-want-of-work-unemployment-and-dependency
+while the lesson stands under
+population-transport-and-maps/, stocked there with the
+original placement slug recorded in its provenance
+row). No placement was excluded. 36 NEW lessons built
+(67 placements) — **First Steps**: A Space We Want To
+Know (printed p. 22), A Walk Around Where I Live
+(printed p. 26), Geography And Its Helper Sciences
+(printed p. 36), Houses And Homes Where Families Live
+(printed p. 28; printed p. 32; printed p. 30; printed
+p. 34; printed p. 40; printed p. 9), My Block My
+Community Lived Space (printed p. 58; printed p. 48),
+Observing Our School Space (printed p. 12; printed p.
+10), Spatial Notions Near And Far (printed p. 40);
+**Earth and Space**: Day And Night Sun And Moon
+(printed p. 12; printed p. 70; printed p. 74), Sundials
+Measuring Time With The Sun (printed p. 78); **The Land
+and Air**: Borders Land And Sea Limits And Sovereignty
+(printed p. 42; printed p. 36; printed p. 74), Caracas
+The Capital City (printed p. 134; printed p. 22), City
+And Countryside Landscapes (printed p. 60), Diversity
+Of Geographic Spaces (printed p. 52), From Local Space
+To The World (printed p. 16), Geohistorical
+Periodization (printed p. 28), Geohistory Space Changes
+With History (printed p. 62; printed p. 10; printed p.
+102; printed p. 8), Guayana Region Of Venezuela
+(printed p. 158), Natural Basis Of Farming Soil And
+Climate (printed p. 30), Observing And Reading A
+Landscape (printed p. 8; printed p. 58), Time In
+Geography Daily Lived Historical (printed p. 18),
+Tropical Storms And Hurricanes (printed p. 114),
+Venezuela An Album Of Reliefs (printed p. 152),
+Venezuela Our Country And Its Landscapes (printed p.
+84; printed p. 66; printed p. 68; printed p. 76),
+Venezuelas Position Gateway To South America (printed
+p. 82; printed p. 22), Venezuelas Territorial
+Organization States (printed p. 124; printed p. 126;
+printed p. 130; printed p. 140; printed p. 144; printed
+p. 148; printed p. 70); **Population, Transport and
+Maps**: Distributing Services Fairly Across Territory
+(printed p. 130), Finding Your Way Routes And
+Directions (printed p. 48), Networks That Connect
+People (printed p. 122); **People and Resources**: Land
+Distribution And Food Sovereignty (printed p. 94), Oil
+Economy Reshapes Space (printed p. 28; printed p. 152),
+Oil In Sedimentary Basins (printed p. 48; printed p.
+10; printed p. 132), Urban Industrial Landscapes
+(printed p. 38), Venezuelas Minerals (printed p. 76);
+**Global Issues**: Latin American Integration Blocs
+(printed p. 63; printed p. 110; printed p. 252), Poles
+Of Power In World Space (printed p. 98), The World
+Environment We Live In And Share (printed p. 22) —
+every new lesson is taught in 1 country (Venezuela), 8
+questions each.
+Geography lessons: 1827 → 1863.

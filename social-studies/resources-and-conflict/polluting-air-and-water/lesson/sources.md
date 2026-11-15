@@ -1,6 +1,6 @@
 # Sources — Polluting air and water
 
-countries: Ethiopia, United Arab Emirates, Jamaica, Palestine, Bangladesh, Turkmenistan, Dominican Republic, Bahamas, Zimbabwe, Fiji, Slovenia, Syria
+countries: Ethiopia, United Arab Emirates, Jamaica, Palestine, Bangladesh, Turkmenistan, Dominican Republic, Bahamas, Zimbabwe, Fiji, Slovenia, Syria, Venezuela
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -30,6 +30,8 @@ countries: Ethiopia, United Arab Emirates, Jamaica, Palestine, Bangladesh, Turkm
 
 **Book 14:** *الجغرافية — الصف الثامن (Geography, Eighth Grade)* (student book, Arabic) — Ministry of Education, Syrian Arab Republic; year 2025–2026 (1447 H); no ISBN printed. Title as printed: الجغرافية — الصف الثامن (Geography, Eighth Grade). Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 152 (cover/title page verified against the record title; grabbed via the repo release route, 423,607,662 bytes = record size exactly). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/syria-placements.md.
 
+**Book 15:** *El espacio geográfico de la Humanidad — Ciencias Sociales, 1er Año* (student book, Spanish) — Ministerio del Poder Popular para la Educación / Colección Bicentenario (co-edition with Ministerio de Cultura, Fundación Editorial El perro y la rana); year 2014 (third edition, April 2014); ISBN 978-980-218-334-0. Title as printed: El espacio geográfico de la Humanidad — Ciencias Sociales, 1er Año. Grade: Grade 7 (1er Año de Educación Media) (student/teacher: STUDENT). PDF pages: 162 (cover/title page verified against the record title; byte size 88,531,252 matches the books.json record; read in place in phase3-staging). Verdict: COMPLETE. (Combined book — Geography parts placed below; parts named, not placed — History/Civics parts named, not placed: none — this is a pure Geography book; historical material (Caracas 1936/1966, Bolívar's unity ideal) is used inside Geography chapters.) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/venezuela-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Air pollution | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 6, printed pp. 172–175 |
@@ -47,8 +49,9 @@ countries: Ethiopia, United Arab Emirates, Jamaica, Palestine, Bangladesh, Turkm
 | Fiji part — Industries and the environment (factory pollution, acid rain, water pollution, noise; industrial safety) | Fiji, *Fiji Year 10 Social Science*, Industries and the environment (factory pollution, acid rain, water pollution, noise; industrial safety) — printed p. 78 |
 | Slovenia part — Izbrani svetovni problemi II: Življenje na Zemlji in onesnaževanje okolja (life on Earth and environmental pollution) | Slovenia, *Slovenia Grade 8 Geografija 8*, Izbrani svetovni problemi II: Življenje na Zemlji in onesnaževanje okolja (life on Earth and environmental pollution) — printed p. 168 |
 | Syria part — Environmental pollution, the scourge of the age | Syria, *Syria Grade 8 Geography G8*, Environmental pollution, the scourge of the age — printed p. 133 |
+| Venezuela part — Recordemos conceptos: society–nature imbalance, contamination and biodegradable/non-biodegradable materials | Venezuela, *Venezuela Grade 7 G7 Geography Humanidad*, Recordemos conceptos: society–nature imbalance, contamination and biodegradable/non-biodegradable materials — printed p. 10 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, United Arab Emirates, Palestine, Bangladesh, Turkmenistan, Dominican Republic, Bahamas, Fiji, Slovenia, Syria). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 11 countries (Ethiopia, United Arab Emirates, Palestine, Bangladesh, Turkmenistan, Dominican Republic, Bahamas, Fiji, Slovenia, Syria, Venezuela). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grade 5 Exploratory Core, curriculum guide — evidence): Grade 5 Social Studies pairs a heritage year (Europeans and Africans, national heroes, Caribbean culture) with a physical-environment year — erosion, locating Jamaica and the Caribbean by compass and latitude/longitude, types of rainfall, the Solar System, plants and water pollution. That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
@@ -73,3 +76,5 @@ Fiji's own way (Fiji Year 10 Social Science): Year 10 is the foundation for seni
 Slovenia's own way (Slovenia Grade 8 Geografija 8): Grade 8 is pure world regional geography, continent by continent (Africa, Australia/Oceania, the Americas and polar regions), each region worked through the same grid — position/relief/waters, climate/vegetation, population, economy — and the book closes with two world-problems units (rainforest loss, desert spread, water conflicts, the Aral Sea).
 
 Syria's own way (Syria Grade 8 Geography G8): Grade 8 leaves the Arab world and tours the "new" continents in a fixed six-lesson pattern (location and surface, natural environments, settlement/migration, population and cities, resources and economy, one big country study — USA, Brazil, Australia), gives Antarctica a whole unit as a land of ice and science, and closes with a unit of contemporary global challenges (water, food, pollution, warming, population, desertification).
+
+Venezuela's own way (Venezuela Grade 7 G7 Geography Humanidad): a Geohistoria (Ramón Tovar) approach — geographic space is always explained through the historical conditions that built it; every chapter opens with a literary epigraph, works through "Entérate / Entretejiendo saberes / Indagando" boxes, and keeps returning to the learner's own community and to Caracas as the worked example.

@@ -1,6 +1,6 @@
 # Sources — Bar graphs and pie charts
 
-countries: Ethiopia, Samoa, Malaysia, Uganda, Sudan
+countries: Ethiopia, Samoa, Malaysia, Uganda, Sudan, Venezuela
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Samoa, Malaysia, Uganda, Sudan
 
 **Book 7:** *الجغرافيا والدراسات البيئية — Geography and Environmental Studies, Second Year Secondary (الصف الثاني الثانوي)* (student book, Arabic) — Republic of Sudan, National Centre for Curricula and Educational Research (Bakht al-Ruda); revised edition 2012; no ISBN printed (file is the Rowad Al-Tamayoz distribution copy, verified cover + title page against the record). Title as printed: الجغرافيا والدراسات البيئية — Geography and Environmental Studies, Second Year Secondary (الصف الثاني الثانوي). Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 238 (cover verified against the record title; byte size 66,750,855 and page count match the staging books.json record exactly; read via the recorded Drive source_url after grab.py failed/truncated — GitHub-secured book, download deleted after filing). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sudan-placements.md.
 
+**Book 8:** *El espacio geográfico de Venezuela — Geografía, 3er Año* (student book, Spanish) — Ministerio del Poder Popular para la Educación / Colección Bicentenario; year 2014 (third edition, April 2014); ISBN 978-980-218-337-1. Title as printed: El espacio geográfico de Venezuela — Geografía, 3er Año. Grade: Grade 9 (3er Año de Educación Media) (student/teacher: STUDENT). PDF pages: 178 (printed pages run to 176, Bibliografía; cover/title page verified against the record title; release grab size-verified by grab.py). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/venezuela-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Bar graphs | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 8, printed pp. 224–226 |
@@ -26,8 +28,9 @@ countries: Ethiopia, Samoa, Malaysia, Uganda, Sudan
 | Malaysia part (MY T5 Geografi Tingkatan 5) — Bab 1: multiple bar graphs, multiple line graphs and pie charts — their uses, how to produce them, and how to analyse them (placement slug: population-transport-and-maps/geography-data-tables-graphs-and-charts) | Malaysia, *MY T5 Geografi*, Bab 1: multiple bar graphs, multiple line graphs and pie charts — their uses, how to produce them, and how to analyse them — printed pp. 2-18 |
 | Uganda part — Lesson 4: Finding out information from statistics, charts and graphs (Kilembe Mines) | Uganda, *Uganda Grade 8 UG S1 Geography Home-Study*, Lesson 4: Finding out information from statistics, charts and graphs (Kilembe Mines) — printed p. 11 |
 | Sudan part — Graphical forms: bars, circles and lines for geographic data (Unit 2) | Sudan, *Sudan Grade 11 SD Geography 11*, Graphical forms: bars, circles and lines for geographic data (Unit 2) — printed p. 33 |
+| Venezuela part — Venezuela Petrolera: organisation and analysis of statistical data | Venezuela, *Venezuela Grade 9 G9 Geography Venezuela*, Venezuela Petrolera: organisation and analysis of statistical data — printed p. 115 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Samoa, Malaysia, Uganda, Sudan).**
+**Acceptance count: taught in 6 countries (Ethiopia, Samoa, Malaysia, Uganda, Sudan, Venezuela).**
 
 Searchable tags: bar graphs, pie charts, kokosa rainfall, export destinations, percentages, social studies
 
@@ -40,3 +43,5 @@ Malaysia's own way (MY T5 Geografi Tingkatan 5): the final form is the world's s
 Uganda's own way (Uganda Grade 8 UG S1 Geography Home-Study): A home-based compression of the Senior One course: fieldwork is done around the learner's own home, photographs and statistics (Kilembe Mines data) replace classroom map work, and the booklet ends on East Africa's location, size and relief.
 
 Sudan's own way (Sudan Grade 11 SD Geography 11): The human-geography year: population first (races, religions, census, density, dynamics, structure), then a full practical unit on distribution maps and graphs, then regional geography — the world studied continent by continent as regions — and a closing full unit on Sudan itself, natural basis to environmental problems.
+
+Venezuela's own way (Venezuela Grade 9 G9 Geography Venezuela): a full national geography written as Geohistoria — every physical topic (position, climate, relief, hydrography) is paired with the historical stages that organised the same space (agrarian Venezuela, oil Venezuela, 21st-century Venezuela), and the Amazon rainforest closes the book as a defence-of-life argument.

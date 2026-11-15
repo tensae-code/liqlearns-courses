@@ -1,6 +1,6 @@
 # Sources — Road safety — signs and crossings
 
-countries: Ethiopia, Turkey, Ecuador, Palestine, Zimbabwe, Syria
+countries: Ethiopia, Turkey, Ecuador, Palestine, Zimbabwe, Syria, Venezuela
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 2, placements 27–43).
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Turkey, Ecuador, Palestine, Zimbabwe, Syria
 
 **Book 9:** *الدراسات الاجتماعية — الصف الثالث الأساسي (Social Studies, Third Grade Basic)* (student book, Arabic) — Ministry of Education, Syrian Arab Republic; year 2025–2026 (1446–1447 H), first printed 2018–2019; no ISBN printed. Title as printed: الدراسات الاجتماعية — الصف الثالث الأساسي (Social Studies, Third Grade Basic). Grade: Grade 3 (student/teacher: STUDENT). PDF pages: 112 (cover/title page verified against the record title; grabbed via the repo release route, 123,495,616 bytes = record size exactly). Verdict: COMPLETE. (Non-Geography parts named, not placed: Unit 1 Me — similarity and difference, expressing feelings, my goals (printed pp. 5, 9, 13, personal/Civics); Unit 2 Me and You — my family tree, memory of a homeland, my new skills, keeping appointments (printed pp. 18, 20, 24, 28, Civics/family); Unit 3 Lessons 1 and 3 — how do I behave; protecting my friendships (printed pp. 33, 39, Civics); Unit 4 Lessons 1–2 — a right met by a duty; the society we want (printed pp. 42, 46, Civics); Unit 5 Lesson 7 The little researcher (printed p. 91, project slot); Unit 6 Lessons 2–4 — from our archaeological treasures, the house of antiquities, occasions and holidays (printed pp. 100, 104, 108, History/Civics).) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/syria-placements.md.
 
+**Book 10:** *¡Viva Venezuela! Ciencias Sociales 1er Grado* (student book, Spanish) — Ministerio del Poder Popular para la Educación / Colección Bicentenario; year 2014 (fourth edition, April 2014); ISBN 978-980-218-297-8. Title as printed: ¡Viva Venezuela! Ciencias Sociales 1er Grado. Grade: Grade 1 (student/teacher: STUDENT). PDF pages: 67 (printed pages run to 128 in two-page spreads; cover/title page verified against the record title; grab SHA/size verified by grab.py). Verdict: COMPLETE. (Combined book — Geography parts placed below; parts named, not placed — History parts named, not placed: El niño Simón Bolívar (printed p. 103); Días para recordar (p. 80); Antes, es el pasado (p. 117, time/history notion).; Civics parts named, not placed: La bandera de las 8 estrellas (p. 82); La plaza Bolívar de Caracas (p. 90); Igualdad entre diferentes (p. 92); Ustedes tienen derechos y deberes (p. 105); school/family community lessons (pp. 8–24, 54).; Science parts named, not placed: ¿Para qué sirven los pies? (p. 22, the body).) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/venezuela-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson | Ethiopia, *Social Studies Student Textbook, Grade 7* (Amhara Bureau), printed p. 43 |
@@ -31,8 +33,9 @@ countries: Ethiopia, Turkey, Ecuador, Palestine, Zimbabwe, Syria
 | Zimbabwe part (Grade 2) — Unit 16: Traffic rules (teacher guide — evidence) | Zimbabwe, *PlusOne Social Science Grade 2 Teacher's Guide* (teacher guide), Unit 16: Traffic rules — printed p. 29 |
 | Zimbabwe part (Grade 6) — Unit 20: Road signs, signals and markings (teacher guide — evidence) | Zimbabwe, *PlusOne Social Science Grade 6 Teacher's Guide* (teacher guide), Unit 20: Road signs, signals and markings — printed p. 43 |
 | Syria part — My safety on the road (Unit 3: My Safety) | Syria, *Syria Grade 3 Social Studies G3*, My safety on the road (Unit 3: My Safety) — printed p. 37 |
+| Venezuela part — En las ciudades hay peligros con ruedas | Venezuela, *Venezuela Grade 1 G1 CS Viva Venezuela*, En las ciudades hay peligros con ruedas — printed p. 68 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Turkey, Ecuador, Palestine, Syria). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 6 countries (Ethiopia, Turkey, Ecuador, Palestine, Syria, Venezuela). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
 
 Turkey's own way: Hayat Bilgisi (Life Studies) carries almost no Geography in this semester book — self/school, health/safety and family/society — except road signs and the two end-of-book maps; the Geography parts only are placed. That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
@@ -53,3 +56,5 @@ Zimbabwe's own way (Grade 2) (teacher guide — evidence): The spiral widens fro
 Zimbabwe's own way (Grade 6) (teacher guide — evidence): Grade 6 shelter becomes settlement geography — development of settlements in Zimbabwe, siting of shelter in rural and urban areas, and disaster and risk management; transport adds road signs/signals/markings and Zimbabwe's transport and communication links with other countries, plus ICT development. That evidence is stocked here as the way Zimbabwe teaches this thing; it does not change the acceptance count above.
 
 Syria's own way (Syria Grade 3 Social Studies G3): the Grade 3 book widens in rings — Me, Me and You, My Safety, My Society, My Environment, My Homeland — and the Geography lives in the last three rings: road safety, Syrian-made products, ways of living, then a whole environment unit (sky lanterns, locating my position, discovering Syria, the weather bulletin, a water journey).
+
+Venezuela's own way (Venezuela Grade 1 G1 CS Viva Venezuela): critical, question-first pedagogy ("pedagogía crítica") — spatial notions (up/down, north/south/east/west, near/far, yesterday/today) are built from the child's own home, classroom and community before any map appears.

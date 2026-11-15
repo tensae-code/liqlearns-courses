@@ -1,6 +1,6 @@
 # Sources — Globalization — gains and costs
 
-countries: Ethiopia, Haiti, Costa Rica, Bolivia, Samoa, Colombia, Malaysia, North Macedonia, Cambodia, Fiji, Sudan, Syria
+countries: Ethiopia, Haiti, Costa Rica, Bolivia, Samoa, Colombia, Malaysia, North Macedonia, Cambodia, Fiji, Sudan, Syria, Venezuela
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -32,6 +32,8 @@ countries: Ethiopia, Haiti, Costa Rica, Bolivia, Samoa, Colombia, Malaysia, Nort
 
 **Book 15:** *الجغرافية — الثالث الثانوي الأدبي (Geography, Third Secondary, Literary), كتاب الطالب (Student Book)* (student book, Arabic) — Ministry of Education, Syrian Arab Republic; year 2025–2026; no ISBN printed. Title as printed: الجغرافية — الثالث الثانوي الأدبي (Geography, Third Secondary, Literary), كتاب الطالب (Student Book). Grade: Grade 12 (student/teacher: STUDENT). PDF pages: 280 (cover/title page verified against the record title; grabbed via the repo release route, 254,021,461 bytes = record size exactly). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/syria-placements.md.
 
+**Book 16:** *Venezuela y su gente — Ciencias Sociales 6to Grado* (student book, Spanish) — Ministerio del Poder Popular para la Educación / Colección Bicentenario; year 2014 (fourth edition, April 2014); ISBN 978-980-218-304-3. Title as printed: Venezuela y su gente — Ciencias Sociales 6to Grado. Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 91 (printed pages run to 176; cover/title page verified against the record title; release grab size-verified by grab.py). Verdict: COMPLETE. (Combined book — Geography parts placed below; parts named, not placed — History parts named, not placed: Hablemos de la industria petrolera a partir de 1950 / Se funda la OPEP / Una nacionalización con historia (printed pp. 54–60); the 20th-century political-history block (pp. 64–120: Gómez era, 1936–45, golpes, Pérez Jiménez dictatorship, Punto Fijo, Caldera, Chávez).; Civics parts named, not placed: Misión Ciudadanía block (pp. 122–156): Constitución y derechos, democracia participativa, Consejos Comunales, Trabajar es un derecho y un deber, Nuestro compromiso con la cultura, La paz un anhelo de la humanidad.) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/venezuela-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The connected world | G12 student #56, printed pp. 129–134 |
@@ -50,8 +52,9 @@ countries: Ethiopia, Haiti, Costa Rica, Bolivia, Samoa, Colombia, Malaysia, Nort
 | Fiji part — 4.2 People and Work, 4.2A Globalisation (international integration through trade, capital, migration and knowledge; transport and communications shrinking the world; globalisation and the environment) | Fiji, *Fiji Year 8 Social Science*, 4.2 People and Work, 4.2A Globalisation (international integration through trade, capital, migration and knowledge; transport and communications shrinking the world; globalisation and the environment) — printed p. 65 |
 | Sudan part — Globalisation and its economic faces | Sudan, *Sudan Grade 12 SD Geography 12*, Globalisation and its economic faces — printed p. 140 |
 | Syria part — A world of constant change (Unit 5) | Syria, *Syria Grade 12 Geography G12-Literary*, A world of constant change (Unit 5) — printed p. 222 |
+| Venezuela part — Latinoamérica y la globalización | Venezuela, *Venezuela Grade 6 G6 CS Venezuela y Su Gente*, Latinoamérica y la globalización — printed p. 62 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Costa Rica, Bolivia, Samoa, Colombia, Malaysia, North Macedonia, Cambodia, Fiji, Sudan, Syria). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 12 countries (Ethiopia, Costa Rica, Bolivia, Samoa, Colombia, Malaysia, North Macedonia, Cambodia, Fiji, Sudan, Syria, Venezuela). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
 
 Haiti's own way (teacher sequence — evidence): Geography begins as a daily practice, not a chapter: pupils draw the landscape around their school, the plan of their quarter and Haiti with their school placed on it, read landscape forms and functions from their own croquis, then trace one everyday object (a coffee cup, a phone) from raw material to shop shelf to see the world from the local. That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
@@ -82,3 +85,5 @@ Fiji's own way (Fiji Year 8 Social Science): Year 8 turns fully outward — "Exp
 Sudan's own way (Sudan Grade 12 SD Geography 12): The final-year book is organised as applied geography: it opens with a full revision exercise on a Port Sudan contour map (contours, scale, cross-sections, watershed lines), then remote sensing and photo interpretation, then world economic geography, and closes on human–environment global problems, repeatedly pulling Sudanese examples (Gezira scheme, gum arabic, Sudanese oil, farming systems of Sudan) into the world treatment.
 
 Syria's own way (Syria Grade 12 Geography G12-Literary): the final-year Literary-track book is a three-scale spiral — the Arab homeland as one integrated natural unit, then Syria itself at the same two levels (nature/resources, then human/economic life), then the world split into developing and developed with Japan, India and Senegal as the three case studies; every unit works from maps, statistical tables and graphs, and the water pair of lessons (scarcity, then "a looming crisis and future conflict") is the book's signature treatment.
+
+Venezuela's own way (Venezuela Grade 6 G6 CS Venezuela y Su Gente): the whole Geography block is one argument — "Nuestro espacio geográfico en tiempos del petróleo": how oil remade population (2011 census), cities (metropolisation), industry location, internal migration and landscapes; learners start by learning how to *look* at a piece of oil-era Venezuela.

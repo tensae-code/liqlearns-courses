@@ -1,6 +1,6 @@
 # Sources — Water under pressure
 
-countries: Ethiopia, Brazil, France, Haiti, Costa Rica, Palestine, Angola, Bangladesh, Egypt, Samoa, Malaysia, India, Cambodia, Slovenia, Sudan, Syria
+countries: Ethiopia, Brazil, France, Haiti, Costa Rica, Palestine, Angola, Bangladesh, Egypt, Samoa, Malaysia, India, Cambodia, Slovenia, Sudan, Syria, Venezuela
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -42,6 +42,8 @@ countries: Ethiopia, Brazil, France, Haiti, Costa Rica, Palestine, Angola, Bangl
 
 **Book 20:** *الجغرافية — الصف الثامن (Geography, Eighth Grade)* (student book, Arabic) — Ministry of Education, Syrian Arab Republic; year 2025–2026 (1447 H); no ISBN printed. Title as printed: الجغرافية — الصف الثامن (Geography, Eighth Grade). Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 152 (cover/title page verified against the record title; grabbed via the repo release route, 423,607,662 bytes = record size exactly). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/syria-placements.md.
 
+**Book 21:** *Geografía de Venezuela — Ciencias Sociales, 5to Año* (student book, Spanish) — Ministerio del Poder Popular para la Educación / Colección Bicentenario; year 2014 (third edition, April 2014); ISBN 978-980-218-342-5. Title as printed: Geografía de Venezuela — Ciencias Sociales, 5to Año. Grade: Grade 11 (5to Año de Educación Media) (student/teacher: STUDENT). PDF pages: 274 (printed pages run to 268, Referencias; cover/title page verified against the record title; grabbed from the release asset grade-11-venezuela-social-sciences-full-year.pdf, 129,913,014 bytes, size-verified by grab.py — NOTE: the TSV record's asset name, venezuela-grade-11-full-year.pdf, does not exist in the release; the book is held under the asset name used here. LIBRARY DEBT: TSV asset name is wrong.). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/venezuela-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The squeeze on freshwater | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 3, printed pp. 65–67 |
@@ -63,12 +65,13 @@ countries: Ethiopia, Brazil, France, Haiti, Costa Rica, Palestine, Angola, Bangl
 | Syria part — Water in the Arab homeland: scarcity in traditional water resources | Syria, *Syria Grade 12 Geography G12-Literary*, Water in the Arab homeland: scarcity in traditional water resources — printed p. 37 |
 | Syria part — Water resources in the Arab homeland | Syria, *Syria Grade 9 Geography G9*, Water resources in the Arab homeland — printed p. 63 |
 | Syria part — The water crisis (Unit 5: contemporary global challenges) | Syria, *Syria Grade 8 Geography G8*, The water crisis (Unit 5: contemporary global challenges) — printed p. 126 |
+| Venezuela part — El agua: fuente de vida y energía eléctrica | Venezuela, *Venezuela Grade 11 G11 CS Geografía de Venezuela*, El agua: fuente de vida y energía eléctrica — printed p. 216 |
 
 | France part — Thème 1: L'eau douce, une ressource essentielle (stress hydrique, usages, perspectives) | France, *Géographie 2de GT, Manuel Libre de Géographie, Seconde*, Grade 10, Sommaire Thème 1 |
 | Haiti part — Séance 2, Temps 3-4 Le problème de l'eau en Haïti (bassins versants, état du réseau hydrographique, accès à l'eau potable; Rivière Froide, Rivière Grise, Rivière du Haut du Cap) (teacher sequence — evidence) | Haiti, *Haïti verte. Préserver et valoriser les ressources et l'environnement, protéger les hommes.* (teacher sequence), Grade 7, Séance 2, Temps 3-4 Le problème de l'eau en Haïti (bassins versants, état du réseau hydrographique, accès à l'eau potable; Rivière Froide, Rivière Grise, Rivière du Haut du Cap) — printed p. 8 |
 | Costa Rica part — debates on the use of water as a resource today | Costa Rica, *Antología CONED 8*, Grade 8, Unit 1 Tema 2 B — printed p. 38 |
 
-**Acceptance count: taught in 15 countries (Ethiopia, Brazil, France, Costa Rica, Palestine, Angola, Bangladesh, Egypt, Samoa, Malaysia, India, Cambodia, Slovenia, Sudan, Syria). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 16 countries (Ethiopia, Brazil, France, Costa Rica, Palestine, Angola, Bangladesh, Egypt, Samoa, Malaysia, India, Cambodia, Slovenia, Sudan, Syria, Venezuela). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
 
 Haiti's own way (teacher sequence — evidence): The environment is studied from the schoolyard outward — a field diagnosis of the local environment (bare soils, dried springs, waste, noise), scaled up to a map and graph of the whole territory's problems (deforestation, erosion, water), then turned into a pupil-designed sustainable land-use project for a greener Haiti. That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
@@ -105,3 +108,5 @@ Syria's own way (Syria Grade 12 Geography G12-Literary): the final-year Literary
 Syria's own way (Syria Grade 9 Geography G9): every unit is taught twice at two scales — the Arab homeland first, then Syria — with parallel lesson pairs (relief, climate, water, soil, agriculture, industry, transport, tourism); Unit 3's framing is pointed: "huge human resources… and weak investment", and the subsoil lessons are titled "hidden treasures".
 
 Syria's own way (Syria Grade 8 Geography G8): Grade 8 leaves the Arab world and tours the "new" continents in a fixed six-lesson pattern (location and surface, natural environments, settlement/migration, population and cities, resources and economy, one big country study — USA, Brazil, Australia), gives Antarctica a whole unit as a land of ice and science, and closes with a unit of contemporary global challenges (water, food, pollution, warming, population, desertification).
+
+Venezuela's own way (Venezuela Grade 11 G11 CS Geografía de Venezuela): a final-year economic geography of Venezuela alone — population past/present/future, human development in numbers, then resource by resource (minerals, land, fisheries, forests, oil, water/hydroelectricity) each read through sovereignty, collective participation and environmental conscience, closing on Latin American union.

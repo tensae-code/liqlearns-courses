@@ -1,6 +1,6 @@
 # Sources — Two ways to say where a place is
 
-countries: Ethiopia, Guyana, Saudi Arabia, Turkey, Ecuador, Malaysia, Fiji, Syria
+countries: Ethiopia, Guyana, Saudi Arabia, Turkey, Ecuador, Malaysia, Fiji, Syria, Venezuela
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -24,6 +24,8 @@ countries: Ethiopia, Guyana, Saudi Arabia, Turkey, Ecuador, Malaysia, Fiji, Syri
 
 **Book 11:** *الجغرافية — الصف التاسع (Geography, Ninth Grade)* (student book, Arabic) — Ministry of Education, Syrian Arab Republic; year 2025–2026 (1447 H); no ISBN printed. Title as printed: الجغرافية — الصف التاسع (Geography, Ninth Grade). Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 176 (cover/title page verified against the record title; grabbed via the repo release route, 363,527,395 bytes = record size exactly). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/syria-placements.md.
 
+**Book 12:** *Patria y Ciudadanía — Ciencias Sociales, 1er Año* (student book, Spanish) — Ministerio del Poder Popular para la Educación / Colección Bicentenario; year 2014 (third edition, April 2014); ISBN 978-980-218-325-8. Title as printed: Patria y Ciudadanía — Ciencias Sociales, 1er Año. Grade: Grade 7 (1er Año de Educación Media) (student/teacher: STUDENT). PDF pages: 93 (cover/title page verified against the record title; release grab size-verified by grab.py — the repo asset itself is short). Verdict: PARTIAL — the file ends at printed p. 92 (a complementary reading, the Ananse fable). Missing from the book's own index: De la calle a Miraflores (printed p. 94), Patria y Ciudadanía: una permanente construcción (p. 110), Mi casa grande, nuestro planeta (p. 126), Somos promotores y promotoras de la paz (p. 160) and the Bibliografía (p. 176). LIBRARY DEBT: the secured copy of this book is incomplete.. (Combined book — Geography parts placed below; parts named, not placed — History parts named, not placed: Somos constructores y constructoras del sueño de los Simones (printed p. 8); ¿De dónde vengo? ¿Hacia dónde voy? (p. 30); Diáspora africana y la trata transatlántica (pp. 84–88).; Civics parts named, not placed: Te presento a mi familia — convivencia familiar (p. 40); community organisation and Consejos Comunales inside Mi casa, nuestra cuadra, nuestra comunidad (pp. 58–75); responsible-consumption pages (consumidores responsables, nunca consumistas).) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/venezuela-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Absolute location | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 1, printed pp. 9–10 |
@@ -38,8 +40,9 @@ countries: Ethiopia, Guyana, Saudi Arabia, Turkey, Ecuador, Malaysia, Fiji, Syri
 | Syria part — Strategic importance of the Arab homeland's location in Africa (link between Asia, Europe and Africa; Suez and the sea straits) | Syria, *Syria Grade 6 Social Studies G6*, Strategic importance of the Arab homeland's location in Africa (link between Asia, Europe and Africa; Suez and the sea straits) — printed p. 8 |
 | Syria part — The Arab homeland: a distinctive geographical location (Unit 1) | Syria, *Syria Grade 12 Geography G12-Literary*, The Arab homeland: a distinctive geographical location (Unit 1) — printed p. 10 |
 | Syria part — The Arab homeland: a distinctive location and great potential (Unit 1) | Syria, *Syria Grade 9 Geography G9*, The Arab homeland: a distinctive location and great potential (Unit 1) — printed p. 10 |
+| Venezuela part — La dirección completa de la cuadra: house, street, sector, barrio, parish, municipality, state, country, continent, planet, Solar System, galaxy | Venezuela, *Venezuela Grade 7 G7 CS Patria y Ciudadanía*, La dirección completa de la cuadra: house, street, sector, barrio, parish, municipality, state, country, continent, planet, Solar System, galaxy — printed p. 60 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Guyana, Saudi Arabia, Turkey, Ecuador, Malaysia, Fiji, Syria).**
+**Acceptance count: taught in 9 countries (Ethiopia, Guyana, Saudi Arabia, Turkey, Ecuador, Malaysia, Fiji, Syria, Venezuela).**
 
 Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
@@ -56,3 +59,5 @@ Syria's own way (Syria Grade 6 Social Studies G6): Grade 6 Social Studies is org
 Syria's own way (Syria Grade 12 Geography G12-Literary): the final-year Literary-track book is a three-scale spiral — the Arab homeland as one integrated natural unit, then Syria itself at the same two levels (nature/resources, then human/economic life), then the world split into developing and developed with Japan, India and Senegal as the three case studies; every unit works from maps, statistical tables and graphs, and the water pair of lessons (scarcity, then "a looming crisis and future conflict") is the book's signature treatment.
 
 Syria's own way (Syria Grade 9 Geography G9): every unit is taught twice at two scales — the Arab homeland first, then Syria — with parallel lesson pairs (relief, climate, water, soil, agriculture, industry, transport, tourism); Unit 3's framing is pointed: "huge human resources… and weak investment", and the subsoil lessons are titled "hidden treasures".
+
+Venezuela's own way (Venezuela Grade 7 G7 CS Patria y Ciudadanía): a Civics book built on widening belonging — house, block (cuadra), community, homeland, planet — where the Geography enters as lived space: the Carta del Barrio, in which a community writes down its own geographic space (its social, cultural, historical, economic and environmental character), and a full postal address that nests house → block → parish → municipality → state → Venezuela → South America → Earth → Solar System → Milky Way.
