@@ -1,6 +1,6 @@
 # Sources — Why People Settle Where They Do
 
-countries: Ethiopia, Bangladesh, Zimbabwe, Malaysia, Eritrea
+countries: Ethiopia, Bangladesh, Zimbabwe, Malaysia, Eritrea, Slovenia
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (placement 47).
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Bangladesh, Zimbabwe, Malaysia, Eritrea
 
 **Book 7:** *Social Studies for Grade 6 — Pupils' Book* (student book, English) — Eritrea, Ministry of Education, The State of Eritrea; year 2015 (reprinted 2015, Sabur Printing Services, Asmara); ISBN 99948-1-453-2. Title as printed: Social Studies for Grade 6 — Pupils' Book. Grade 6 (student/teacher: STUDENT). PDF pages: 127 (cover/title page verified against the record title; 2,730,732 bytes, matches record size_bytes). Verdict: COMPLETE. Records note: 7 records / 5 distinct books; the TSV release records for Grades 4 and 5 duplicate the books.json tree records of the same repo path (one book each); read via grab (curl-based GitHub API route with byte-size + blob-SHA verification), covers verified by render, full text read via pdftotext -layout. Combined Social Studies books: Geography parts placed; History/Civics parts named in each book header only. Named, not placed — History parts (named, not placed): Unit 1 Sources, printed p. 1; Unit 2 Measuring Time, printed p. 8; Unit 8 Eritrea 900 B.C.E–1300 C.E, printed p. 60; Unit 9 The Period of the Bahri Negestat, printed p. 68 Civics / life-skills parts (named, not placed): Unit 13 Caring for Younger Children, printed p. 111 Placements at liqlearns-courses-work/expansion-geography-2026-11-14/eritrea-placements.md.
 
+**Book 8:** *Geografija 9* (student book, Slovenian) — Slovenia, Zavod RS za šolstvo, Ljubljana; year 2015; ISBN 978-961-03-0283-4. Title as printed: Geografija 9 (i-učbenik / interactive textbook). Grade: Grade 9 (student/teacher: STUDENT). PDF pages: not a PDF — ZIP package (interactive e-textbook) of 785,080,227 bytes; book pagination runs to printed p. 241 (Kazalo); all 296 content HTML pages extracted by range request and size-verified against the ZIP central directory, and read. Verdict: COMPLETE (text content; the package's videos/images were not individually viewed — the teaching text, headings, summaries and tasks were read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/slovenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Whole lesson frame — population distribution is uneven because settlement is tied directly to resources; the controllers named are water, soil, vegetation and climate | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 3, printed pp. 63–65 |
@@ -27,8 +29,9 @@ countries: Ethiopia, Bangladesh, Zimbabwe, Malaysia, Eritrea
 | Zimbabwe part (Grade 6) — Unit 23: Siting of shelter in rural and urban areas (teacher guide — evidence) | Zimbabwe, *PlusOne Social Science Grade 6 Teacher's Guide* (teacher guide), Unit 23: Siting of shelter in rural and urban areas — printed p. 50 |
 | Malaysia part (MY T1 Geografi Tingkatan 1) — Bab 8.2: factors that influence Malaysia's population distribution | Malaysia, *MY T1 Geografi*, Bab 8.2: factors that influence Malaysia's population distribution — printed pp. 91-95 |
 | Eritrea part (ER G6 Social Studies) — Unit 6 Settlement: factors that determine the location of settlement | Eritrea, *ER G6 Social Studies*, Unit 6 Settlement: factors that determine the location of settlement — printed p. 34 |
+| Slovenia part — Poselitev Slovenije (settlement of Slovenia: natural-geographic and social-geographic factors) | Slovenia, *Slovenia Grade 9 Geografija 9*, Poselitev Slovenije (settlement of Slovenia: natural-geographic and social-geographic factors) — printed p. 42 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Bangladesh, Malaysia, Eritrea). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 5 countries (Ethiopia, Bangladesh, Malaysia, Eritrea, Slovenia). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
 
 Guide-evidence note (not taught above as pupil content): the Addis Ababa teacher guide's §2.2.1 (printed pp. 28–31) keys Ethiopia's own population concentration in the highlands to altitude, climate and soil (moderate temperatures, rich soil, adequate rainfall) — the same controller frame, recorded here as teacher evidence that the frame is the syllabus's own; the lesson itself rests wholly on the student book. The equator puzzle is the book's own set question ("to be explained"); the lesson poses it and coaches an answer from the four controllers rather than printing a keyed answer the placements do not give. No book error flagged by the placements touches this lesson.
 
@@ -45,3 +48,5 @@ Zimbabwe's own way (Grade 6) (teacher guide — evidence): Grade 6 shelter becom
 Malaysia's own way (MY T1 Geografi Tingkatan 1): a pure Geography textbook organised as skills first (direction, position, sketch maps), then physical geography, human geography, a regional study of Southeast Asia, environmental issues and a full fieldwork chapter — every chapter anchored to Malaysian places first, then the region.
 
 Eritrea's own way (ER G6 Social Studies): one integrated Social Studies book per grade weaving History, Geography, Civics and Culture strands; Geography is taught through Eritrea itself first (Eritrea's location and size, Eritrean settlement, migration and disasters) with very practical, activity-led lessons.
+
+Slovenia's own way (Slovenia Grade 9 Geografija 9): Grade 9 turns home — the whole book is Slovenia itself: first the country as a system (position and borders, relief and rocks, climate/vegetation/waters, settlement, population, settlements, economy, transport, environment), then its five natural regions one by one (Alpine, Pre-Alpine with the Ljubljana basin, Dinaric-Karst, Mediterranean, Pannonian). Named, not placed: the EU unit's history of the European Union and Slovenia-in-EU pros/cons (printed p. 7, Civics/History) and the state symbols inside the opening unit (p. 1, Civics).

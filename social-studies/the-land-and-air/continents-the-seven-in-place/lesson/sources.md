@@ -1,6 +1,6 @@
 # Sources — Continents — The Seven in Place
 
-countries: Ethiopia, Ecuador, Dominican Republic, Eritrea, India, North Macedonia
+countries: Ethiopia, Ecuador, Dominican Republic, Eritrea, India, North Macedonia, Slovenia
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -24,6 +24,8 @@ countries: Ethiopia, Ecuador, Dominican Republic, Eritrea, India, North Macedoni
 
 **Book 11:** *Географија за IX одделение (Geography for Grade 9)* (student book, Macedonian) — North Macedonia, ministry e-textbook (publisher not legible in this copy); approved by the National Textbook Commission, decision 26-1203/1 of 27.09.2022; authors Dr. Kole Pavlov and Prof. Dr. Gjorgi Pavlovski; ISBN no ISBN printed. Title as printed: Географија за IX одделение (Geography for Grade 9). Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 140 (cover verified against the record; matches the record's 140 pages). Verdict: COMPLETE (contents read from the printed contents pages; the PDF's text layer interleaves columns in places, so page images were used for the contents). Records note: 11 records / 6 distinct books (2 TSV blob records for Grades 7 and 9 + 6 books.json records for Grades 7–12, of which Grades 7 and 9 duplicate the TSV records; plus 3 link_records from Telegram for Grades 8, 11 and 12, which are the same 3 books as the books.json Grade 8/11/12 records) / Grades 7, 9, 10 read full page-by-page via pdftotext -layout after cover verification (fetched by git sparse-checkout from the repo tree — the API routes truncated every transfer over ~21 MB, git transport verified the blobs itself). Grades 8, 11, 12 filed UNREAD: their files are NOT in the repo tree (verified by git ls-tree on main), NOT in any GitHub release (all 12 release tags searched), their phase3-staging geography/student folders are empty, the ministry source URLs now return 404, and Wayback holds no snapshot of the Macedonian Grade 8/11/12 editions — the only remaining copy is the Telegram channel named in the link records, which needs a Telegram browser task. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/north-macedonia-placements.md.
 
+**Book 12:** *Geografija 8* (student book, Slovenian) — Slovenia, Zavod RS za šolstvo, Ljubljana; year 2015; ISBN 978-961-03-0282-7 (html5). Title as printed: Geografija 8 (i-učbenik / interactive textbook). Grade: Grade 8 (student/teacher: STUDENT). PDF pages: not a PDF — ZIP package (interactive e-textbook) of 444,693,805 bytes; book pagination runs to printed p. 177+ (Kazalo); all 202 content HTML pages read — every extracted file's decompressed size verified against the ZIP central directory (203/203 files OK). Verdict: COMPLETE (text content; the package's videos/images were not individually viewed — the teaching text, headings, summaries and tasks were read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/slovenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Asia — the largest | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 3–4 |
@@ -36,6 +38,7 @@ countries: Ethiopia, Ecuador, Dominican Republic, Eritrea, India, North Macedoni
 | North Macedonia part (Grade 9 mk-g9) — Тема I Азија: Географска положба, граници и големина | North Macedonia, *North Macedonia Grade 9 mk-g9*, Тема I Азија: Географска положба, граници и големина — printed p. 10 |
 | North Macedonia part (Grade 9 mk-g9) — Тема II Африка: Географска положба, граници и откривање | North Macedonia, *North Macedonia Grade 9 mk-g9*, Тема II Африка: Географска положба, граници и откривање — printed p. 48 |
 | North Macedonia part (Grade 9 mk-g9) — Тема III Америка: Географска положба, големина и откривање | North Macedonia, *North Macedonia Grade 9 mk-g9*, Тема III Америка: Географска положба, големина и откривање — printed p. 82 |
+| Slovenia part — Amerika in njena delitev: Lega Amerike / Delitev Amerike (the Americas' position and division) | Slovenia, *Slovenia Grade 8 Geografija 8*, Amerika in njena delitev: Lega Amerike / Delitev Amerike (the Americas' position and division) — printed p. 84 |
 
 | Sub lesson 4 — Africa and Antarctica — Grade 11 portraits (Grade 11 depth) | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 1, printed pp. 17–18 |
 | Sub lesson 5 — Asia, Europe and Australia — Grade 11 portraits (Grade 11 depth) | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 1, printed pp. 17–18 |
@@ -45,7 +48,7 @@ countries: Ethiopia, Ecuador, Dominican Republic, Eritrea, India, North Macedoni
 | Dominican Republic part (Grade 6) — The continents of the Earth: how they formed (Unidad 2) | Dominican Republic, *Ciencias Sociales, Sexto Grado, Primaria (Libro Abierto)*, Grade 6, The continents of the Earth: how they formed (Unidad 2) — printed p. 29 |
 | Dominican Republic part (Grade 3) — I know the continents: I live on a continent | Dominican Republic, *Ciencias Sociales, Tercer Grado, Primaria (Libro Abierto)*, Grade 3, I know the continents: I live on a continent — printed p. 18 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Ecuador, Dominican Republic, Eritrea, India, North Macedonia).**
+**Acceptance count: taught in 7 countries (Ethiopia, Ecuador, Dominican Republic, Eritrea, India, North Macedonia, Slovenia).**
 
 Pairing warning: the Grade 8 teacher guide is an Addis Ababa bureau book and the student book is an Amhara bureau book; they are NOT edition-matched, and the guide in hand is truncated (printed pp. 1–47 only, Units 1–3). Pupil content in this lesson comes from the Amhara student book; anything from the guide is labelled (teacher guide — evidence) and never presented as pupil-taught.
 
@@ -66,3 +69,5 @@ India's own way (Grade 6 The Earth Our Habitat): The first Geography year goes p
 North Macedonia's own way (Grade 7 mk-g7): regional geography taught continent by continent — Europe then Asia — each continent opened with its physical characteristics (position, coastline, relief, climate, hydrography), then its socio-geography (population, peoples and religions, science and culture, settlements), then region-by-region reviews with individual country lessons and a tourism-centres lesson per region; the home country is taught inside the Balkan/Southern Europe region alongside Albania.
 
 North Macedonia's own way (Grade 9 mk-g9): Grade 9 finishes the regional-geography cycle with the non-European continents — Asia again in greater depth (climate factors and phenomena, monsoons and typhoons, air pollution), then Africa, the Americas, and Australia with Oceania and the polar regions — each continent in the same pattern: position and coastline, relief, climate, hydrography, natural wealth and economy, population, a regional review, one or two spotlight countries (China, India; South Africa; USA, Brazil) and one problem lesson (food and water shortage in Africa; air pollution in Asia; global warming in the polar regions).
+
+Slovenia's own way (Slovenia Grade 8 Geografija 8): Grade 8 is pure world regional geography, continent by continent (Africa, Australia/Oceania, the Americas and polar regions), each region worked through the same grid — position/relief/waters, climate/vegetation, population, economy — and the book closes with two world-problems units (rainforest loss, desert spread, water conflicts, the Aral Sea).

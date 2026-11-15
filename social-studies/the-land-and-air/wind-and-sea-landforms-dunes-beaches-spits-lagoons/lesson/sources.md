@@ -1,6 +1,6 @@
 # Sources — Wind and sea landforms — dunes, beaches, spits, lagoons
 
-countries: Ethiopia, Malaysia, United Kingdom
+countries: Ethiopia, Malaysia, United Kingdom, Slovenia
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -8,14 +8,17 @@ countries: Ethiopia, Malaysia, United Kingdom
 
 **Book 3:** *GCSE Geography AQA (Student Book)* (student book, English) — United Kingdom, Oxford University Press; year 2016; ISBN 978-0-19-836661-4; authors Nicholas Rowles, David Holmes, Bob Digby; series editor Simon Ross. Title as printed: GCSE Geography AQA (Student Book). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 356 (record figure; printed book pagination used in the rows below). Verdict: COMPLETE. Records note: 2 records / 1 distinct book (TSV release record + books.json record for the same book) / read via the book's archive.org source (archive.org item gcse-aqa-geography-student-book: EPUB + full OCR text of the same 355.2 MiB PDF whose byte size matches the books.json record's 372,407,314 bytes; title page and ISBN page verified from that OCR text) — the 372 MB GitHub release copy itself was not re-downloaded; the identical archive.org scan was read instead (all 24 chapters, contents pp. 4-5, glossary p. 346, index p. 350) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/united-kingdom-placements.md.
 
+**Book 4:** *Geografija 1, gimnazija* (student book, Slovenian) — Slovenia, Zavod RS za šolstvo, Ljubljana; year 2015; ISBN 978-961-03-0284-1. Title as printed: Geografija 1 (gimnazija) (i-učbenik / interactive textbook). Grade: Grade 10 (first year of gimnazija) (student/teacher: STUDENT). PDF pages: not a PDF — ZIP package (interactive e-textbook) of 423,855,798 bytes; book pagination runs to printed p. 320 (Kazalo); all 359 content HTML pages extracted by range request and size-verified against the ZIP central directory, and read. Verdict: COMPLETE (text content; the package's videos/images were not individually viewed — the teaching text, headings, summaries and tasks were read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/slovenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Wind at work | G12 student #23, printed pp. 29–30 |
 | Sub lesson 2 — The sea at work — eroding and depositing | G12 student #23, printed pp. 29–30 |
 | Malaysia part (MY T4 Geografi Tingkatan 4) — Bab 10 Tindakan Ombak di Pinggir Pantai: wave types; erosion, transport and deposition by waves; coastal landforms | Malaysia, *MY T4 Geografi*, Bab 10 Tindakan Ombak di Pinggir Pantai: wave types; erosion, transport and deposition by waves; coastal landforms — printed pp. 132-141 |
 | United Kingdom part — §10.5 Coastal deposition landforms | United Kingdom, *United Kingdom Grade 10 AQA Geography Student Book*, §10.5 Coastal deposition landforms — printed p. 100 |
+| Slovenia part — Vetrno in obalno površje (wind and coastal relief — formation and forms) | Slovenia, *Slovenia Grade 10 Geografija 1 (gimnazija)*, Vetrno in obalno površje (wind and coastal relief — formation and forms) — printed p. 59 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Malaysia, United Kingdom).**
+**Acceptance count: taught in 4 countries (Ethiopia, Malaysia, United Kingdom, Slovenia).**
 
 Figure-reference correction carried from the placements: the spit and lagoon text in the book points to 'Figure 1.31', but the sea-work figure is captioned Figure 1.32 (1.31 is the wind-action figure) — taught with the corrected figure numbers and named here only.
 
@@ -24,3 +27,5 @@ Searchable tags: dunes, barchan, loess, beach, spit, lagoon, social studies
 Malaysia's own way (MY T4 Geografi Tingkatan 4): upper-secondary Geography is a full topographic-map apprenticeship (bearings, area, cross-sections, landscape reading) followed by process geography — plates, rocks, weathering, mass movement, rivers and coasts — and a world-scale human geography of population, migration, settlements and urbanisation.
 
 United Kingdom's own way: A single exam-board (AQA) GCSE textbook organised as thematic units with numbered two-page spreads, every big topic anchored to a named case study (Typhoon Haiyan, Somerset Levels, Rio de Janeiro, Bristol, Nigeria, the Indus Basin, Lesotho Highlands) and a final unit on issue evaluation, fieldwork enquiries and cartographic/graphical/statistical skills.
+
+Slovenia's own way (Slovenia Grade 10 Geografija 1 (gimnazija)): the gimnazija first year is systematic physical geography first (Earth's interior, rocks, landforms, weather and climate, soils, vegetation, waters), then human geography (population, settlements, farming, industry and energy, transport, tourism), closing on sustainable development and spatial planning — with Slovenian cases (earthquake risk in Slovenia, the Port of Koper) set inside the world topics.

@@ -1,6 +1,6 @@
 # Sources — Culture — culture and identity
 
-countries: Ethiopia, Niue, Mongolia, Ecuador, Jamaica, Bangladesh, Dominican Republic, Bahamas, Samoa, Zimbabwe, Colombia
+countries: Ethiopia, Niue, Mongolia, Ecuador, Jamaica, Bangladesh, Dominican Republic, Bahamas, Samoa, Zimbabwe, Colombia, Slovenia
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 2 — Population Studies and Socio-Economic Activities, printed pp. 44–76).
 
@@ -58,6 +58,8 @@ countries: Ethiopia, Niue, Mongolia, Ecuador, Jamaica, Bangladesh, Dominican Rep
 
 **Book 28:** *Ciencias Sociales 4 — Primera Cartilla, Escuela Nueva* (student guide, Spanish) — Colombia, Ministerio de Educación Nacional, Bogotá; year 2011; ISBN libro 978-958-97482-8-2 (ISBN serie 978-958-97482-3-7). Title as printed: Ciencias Sociales 4 — Primera Cartilla, Escuela Nueva. Grade 4 (student/teacher: STUDENT). PDF pages: 96 (contents page verified: Units 1–4, Guías 1–7). Verdict: COMPLETE — the cartilla is History-led; its Geography parts (human origins/peopling, conquest routes, ethnic diversity of Colombia) are placed below. Non-Geography parts named in the placements, not placed: Unidad 2 El encuentro entre dos mundos, Guías 3–4, printed pp. 27–48 (History); Unidad 3 Los españoles conquistaron nuestro país, Guía 5, printed pp. 49–66 (History); Unidad 4 Guía 6 Todos los grupos étnicos tienen los mismos derechos, printed p. 70 (Civics/rights — the ethnic-geography companion Guía 7 is placed below).. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/colombia-placements.md.
 
+**Book 29:** *Geografija 8* (student book, Slovenian) — Slovenia, Zavod RS za šolstvo, Ljubljana; year 2015; ISBN 978-961-03-0282-7 (html5). Title as printed: Geografija 8 (i-učbenik / interactive textbook). Grade: Grade 8 (student/teacher: STUDENT). PDF pages: not a PDF — ZIP package (interactive e-textbook) of 444,693,805 bytes; book pagination runs to printed p. 177+ (Kazalo); all 202 content HTML pages read — every extracted file's decompressed size verified against the ZIP central directory (203/203 files OK). Verdict: COMPLETE (text content; the package's videos/images were not individually viewed — the teaching text, headings, summaries and tasks were read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/slovenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Culture tells people how to live | Ethiopia, *Social Studies Student Textbook, Grade 8* (Amhara Bureau), printed pp. 50–51 |
@@ -92,8 +94,9 @@ countries: Ethiopia, Niue, Mongolia, Ecuador, Jamaica, Bangladesh, Dominican Rep
 | Colombia part (CS_Grado3_02) — Unidad 4 Guía 7 Mitos, costumbres y tradiciones | Colombia, *Ciencias Sociales 3 — Segunda Cartilla, Escuela Nueva*, Unidad 4 Guía 7 Mitos, costumbres y tradiciones — printed p. 19 |
 | Colombia part (CS_Grado2_02) — Unidad 5 Guía 11 Colombia posee gran riqueza étnica y cultural | Colombia, *Ciencias Sociales 2 — Segunda Cartilla, Escuela Nueva*, Unidad 5 Guía 11 Colombia posee gran riqueza étnica y cultural — printed p. 74 |
 | Colombia part (CS_Grado4_01) — Unidad 4 Guía 7 El legado africano en América y en Colombia | Colombia, *Ciencias Sociales 4 — Primera Cartilla, Escuela Nueva*, Unidad 4 Guía 7 El legado africano en América y en Colombia — printed p. 75 |
+| Slovenia part — Prvotni prebivalci Avstralije (Australia's first inhabitants) inside Prebivalstvo in gospodarstvo Avstralije | Slovenia, *Slovenia Grade 8 Geografija 8*, Prvotni prebivalci Avstralije (Australia's first inhabitants) inside Prebivalstvo in gospodarstvo Avstralije — printed p. 61 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Niue, Mongolia, Ecuador, Bangladesh, Dominican Republic, Bahamas, Samoa, Colombia). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 10 countries (Ethiopia, Niue, Mongolia, Ecuador, Bangladesh, Dominican Republic, Bahamas, Samoa, Colombia, Slovenia). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grade 4 Exploratory Core, curriculum guide — evidence): Social Studies is one of four subjects fused into a single Exploratory Core guide, organised by four attainment themes; Geography enters through Jamaica itself — Taino settlement maps, cardinal points, Jamaica's physical features, parishes, weather and the Earth in the Solar System — always with hands-on map and model work. That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 Jamaica's own way (Grade 6 Exploratory Core, curriculum guide — evidence): the Grade 6 Social Studies year is built as three paired terms — culture and independence first, then the physical world (mountains, landmasses and water bodies), then climate, Earth movements and the atmosphere, closing on Caribbean cooperation. That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
@@ -145,3 +148,5 @@ Colombia's own way (CS_Grado3_02): Grade 3's second cartilla is the culture-and-
 Colombia's own way (CS_Grado2_02): Grade 2's second cartilla is the landscape cartilla — the geographic landscape and its relief, how to represent it, then climate shaping the landscape and the community's economic life.
 
 Colombia's own way (CS_Grado4_01): Grade 4's first cartilla walks humanity's long road into Colombia — ancestors, Amerindian peoples, the three conquest routes into the interior — so the geography is historical geography: peopling, routes and where peoples settled.
+
+Slovenia's own way (Slovenia Grade 8 Geografija 8): Grade 8 is pure world regional geography, continent by continent (Africa, Australia/Oceania, the Americas and polar regions), each region worked through the same grid — position/relief/waters, climate/vegetation, population, economy — and the book closes with two world-problems units (rainforest loss, desert spread, water conflicts, the Aral Sea).

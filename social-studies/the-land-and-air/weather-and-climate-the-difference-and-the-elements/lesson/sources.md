@@ -1,6 +1,6 @@
 # Sources — Weather and Climate — The Difference and the Elements
 
-countries: Ethiopia, Barbados, Turkey, Guatemala, Jamaica, Colombia, Malaysia, Eritrea, India, Cambodia, Rwanda, Fiji
+countries: Ethiopia, Barbados, Turkey, Guatemala, Jamaica, Colombia, Malaysia, Eritrea, India, Cambodia, Rwanda, Fiji, Slovenia
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -34,6 +34,8 @@ countries: Ethiopia, Barbados, Turkey, Guatemala, Jamaica, Colombia, Malaysia, E
 
 **Book 16:** *Physical Geography — Year 11 & 12* (student book, English) — Fiji, Curriculum Development Unit, Ministry of Education, Fiji; year 2014; ISBN no ISBN printed. Title as printed: Physical Geography — Year 11 & 12. Grade: Years 11–12 (student/teacher: STUDENT). PDF pages: 127 (cover/title page verified against the record title). Verdict: COMPLETE. Acquisition note: read from the books.json record's own Wayback source_url (ministry original; download resumed twice after timed-out partial files) after the grab.py GitHub API route failed as in Book 1. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
 
+**Book 17:** *Geografija 1, gimnazija* (student book, Slovenian) — Slovenia, Zavod RS za šolstvo, Ljubljana; year 2015; ISBN 978-961-03-0284-1. Title as printed: Geografija 1 (gimnazija) (i-učbenik / interactive textbook). Grade: Grade 10 (first year of gimnazija) (student/teacher: STUDENT). PDF pages: not a PDF — ZIP package (interactive e-textbook) of 423,855,798 bytes; book pagination runs to printed p. 320 (Kazalo); all 359 content HTML pages extracted by range request and size-verified against the ZIP central directory, and read. Verdict: COMPLETE (text content; the package's videos/images were not individually viewed — the teaching text, headings, summaries and tasks were read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/slovenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Short and small against long and wide | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 24–25 |
@@ -53,8 +55,9 @@ countries: Ethiopia, Barbados, Turkey, Guatemala, Jamaica, Colombia, Malaysia, E
 | Rwanda part — 7.6 The climate in our province (Unit 7) | Rwanda, *Rwanda Grade 5 Social Studies SB*, 7.6 The climate in our province (Unit 7) — printed p. 81 |
 | Fiji part — Strand 3, 3.2 The Weather (weather as day-to-day conditions; the meteorologist) | Fiji, *Fiji Year 4 Social Studies*, Strand 3, 3.2 The Weather (weather as day-to-day conditions; the meteorologist) — printed p. 48 |
 | Fiji part — Introduction and Chapter 1 Climate – New Zealand: what geography is; climate vs weather; the elements of climate | Fiji, *Fiji Years 11–12 Physical Geography*, Introduction and Chapter 1 Climate – New Zealand: what geography is; climate vs weather; the elements of climate — printed p. 3 |
+| Slovenia part — Dejavniki vremena in podnebja: Vreme / Podnebni elementi (weather; the climate elements) | Slovenia, *Slovenia Grade 10 Geografija 1 (gimnazija)*, Dejavniki vremena in podnebja: Vreme / Podnebni elementi (weather; the climate elements) — printed p. 76 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Barbados, Turkey, Guatemala, Colombia, Malaysia, Eritrea, India, Cambodia, Rwanda, Fiji). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 12 countries (Ethiopia, Barbados, Turkey, Guatemala, Colombia, Malaysia, Eritrea, India, Cambodia, Rwanda, Fiji, Slovenia). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grade 4 Exploratory Core, curriculum guide — evidence): Social Studies is one of four subjects fused into a single Exploratory Core guide, organised by four attainment themes; Geography enters through Jamaica itself — Taino settlement maps, cardinal points, Jamaica's physical features, parishes, weather and the Earth in the Solar System — always with hands-on map and model work. That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
@@ -87,3 +90,5 @@ Rwanda's own way (Rwanda Grade 5 Social Studies SB): the pupil's book teaches th
 Fiji's own way (Fiji Year 4 Social Studies): Same four-strand frame as Year 3, now centred on the village/community — place and resources are taught through the child's own village, river, beachfront and village green ('rara').
 
 Fiji's own way (Fiji Years 11–12 Physical Geography): The physical volume is comparative — every theme (climate, relief, soil, vegetation, hazards) is taught twice, New Zealand first, then Fiji (Monsoon Asia for hazards), so Fiji's land is always read against a temperate and a monsoon case.
+
+Slovenia's own way (Slovenia Grade 10 Geografija 1 (gimnazija)): the gimnazija first year is systematic physical geography first (Earth's interior, rocks, landforms, weather and climate, soils, vegetation, waters), then human geography (population, settlements, farming, industry and energy, transport, tourism), closing on sustainable development and spatial planning — with Slovenian cases (earthquake risk in Slovenia, the Port of Koper) set inside the world topics.

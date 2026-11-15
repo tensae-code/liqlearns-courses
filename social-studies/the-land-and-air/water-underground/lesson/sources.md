@@ -1,6 +1,6 @@
 # Sources — Water underground
 
-countries: Ethiopia, Angola, Bangladesh, Eritrea, Fiji
+countries: Ethiopia, Angola, Bangladesh, Eritrea, Fiji, Slovenia
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -14,6 +14,10 @@ countries: Ethiopia, Angola, Bangladesh, Eritrea, Fiji
 
 **Book 6:** *Year 13 Integrative Geography* (student book, English) — Fiji, Curriculum Development Unit, Ministry of Education, Fiji; year 2018; ISBN no ISBN printed. Title as printed: Year 13 Integrative Geography. Grade: Year 13 (student/teacher: STUDENT). PDF pages: 263 (cover/title page verified against the record title; bibliography at printed p. 258 confirms the file is complete). Verdict: COMPLETE. Acquisition note: read from the books.json record's own source_url (Google Drive file named in the record; download resumed after a first timed-out partial file) after the grab.py GitHub API route failed as in Book 1. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
 
+**Book 7:** *Geografija 8* (student book, Slovenian) — Slovenia, Zavod RS za šolstvo, Ljubljana; year 2015; ISBN 978-961-03-0282-7 (html5). Title as printed: Geografija 8 (i-učbenik / interactive textbook). Grade: Grade 8 (student/teacher: STUDENT). PDF pages: not a PDF — ZIP package (interactive e-textbook) of 444,693,805 bytes; book pagination runs to printed p. 177+ (Kazalo); all 202 content HTML pages read — every extracted file's decompressed size verified against the ZIP central directory (203/203 files OK). Verdict: COMPLETE (text content; the package's videos/images were not individually viewed — the teaching text, headings, summaries and tasks were read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/slovenia-placements.md.
+
+**Book 8:** *Geografija 1, gimnazija* (student book, Slovenian) — Slovenia, Zavod RS za šolstvo, Ljubljana; year 2015; ISBN 978-961-03-0284-1. Title as printed: Geografija 1 (gimnazija) (i-učbenik / interactive textbook). Grade: Grade 10 (first year of gimnazija) (student/teacher: STUDENT). PDF pages: not a PDF — ZIP package (interactive e-textbook) of 423,855,798 bytes; book pagination runs to printed p. 320 (Kazalo); all 359 content HTML pages extracted by range request and size-verified against the ZIP central directory, and read. Verdict: COMPLETE (text content; the package's videos/images were not individually viewed — the teaching text, headings, summaries and tasks were read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/slovenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Aquifers, springs, wells | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 3, printed pp. 67–69 |
@@ -23,8 +27,10 @@ countries: Ethiopia, Angola, Bangladesh, Eritrea, Fiji
 | Bangladesh part (Grade 7) — Use of groundwater for drinking and farming | Bangladesh, *History and Social Science, Class Seven*, Grade 7, Use of groundwater for drinking and farming — printed pp. 146-147 |
 | Eritrea part (ER G8 Social Studies) — Unit 2: 2.3 Groundwater | Eritrea, *ER G8 Social Studies*, Unit 2: 2.3 Groundwater — printed p. 22 |
 | Fiji part — Chapter 2: surface water vs groundwater (hydrogeology) | Fiji, *Fiji Year 13 Geography*, Chapter 2: surface water vs groundwater (hydrogeology) — printed p. 59 |
+| Slovenia part — Arteška voda (artesian water) inside Prebivalstvo in gospodarstvo Avstralije | Slovenia, *Slovenia Grade 8 Geografija 8*, Arteška voda (artesian water) inside Prebivalstvo in gospodarstvo Avstralije — printed p. 61 |
+| Slovenia part — Podzemne vode (groundwater) inside Površinske in podzemne vode | Slovenia, *Slovenia Grade 10 Geografija 1 (gimnazija)*, Podzemne vode (groundwater) inside Površinske in podzemne vode — printed p. 158 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Angola, Bangladesh, Eritrea, Fiji).**
+**Acceptance count: taught in 6 countries (Ethiopia, Angola, Bangladesh, Eritrea, Fiji, Slovenia).**
 
 Searchable tags: groundwater, aquifer, springs, wells, water endowment, social studies
 
@@ -35,3 +41,7 @@ Bangladesh's own way (Grade 7): Geography thins into economic history and a long
 Eritrea's own way (ER G8 Social Studies): Grade 8 is the Eritrea-physical-geography year — relief, hydrology and water shortage, people-environment adaptation and Eritrea's strategic Red Sea location are taught as four full Geography units before the History units begin.
 
 Fiji's own way (Fiji Year 13 Geography): The final year integrates everything at advanced level (plate tectonics to urban models, largely from world texts such as Waugh) and then lands it in Chapter 8, South Pacific Islands Geography — Oceania's geology, island types, development prospects and regionalism.
+
+Slovenia's own way (Slovenia Grade 8 Geografija 8): Grade 8 is pure world regional geography, continent by continent (Africa, Australia/Oceania, the Americas and polar regions), each region worked through the same grid — position/relief/waters, climate/vegetation, population, economy — and the book closes with two world-problems units (rainforest loss, desert spread, water conflicts, the Aral Sea).
+
+Slovenia's own way (Slovenia Grade 10 Geografija 1 (gimnazija)): the gimnazija first year is systematic physical geography first (Earth's interior, rocks, landforms, weather and climate, soils, vegetation, waters), then human geography (population, settlements, farming, industry and energy, transport, tourism), closing on sustainable development and spatial planning — with Slovenian cases (earthquake risk in Slovenia, the Port of Koper) set inside the world topics.

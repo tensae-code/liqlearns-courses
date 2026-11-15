@@ -1,6 +1,6 @@
 # Sources — Forests — Shrinking and Care
 
-countries: Ethiopia, Costa Rica, Angola, Bangladesh, Samoa, Zimbabwe, Malaysia, India, Cambodia
+countries: Ethiopia, Costa Rica, Angola, Bangladesh, Samoa, Zimbabwe, Malaysia, India, Cambodia, Slovenia
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (placements 146–147, with the chapter assessment stock of placement 148).
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Costa Rica, Angola, Bangladesh, Samoa, Zimbabwe, Malaysia, 
 
 **Book 10:** *ភូមិវិទ្យា ថ្នាក់ទី១១ (Geography, Grade 11)* (student book, Khmer) — Cambodia, MoEYS Publishing and Distribution House; year 2020 (11th printing); ISBN 978-995-001-018 (printed as 9-789-995-001-018). Title as printed: ភូមិវិទ្យា ថ្នាក់ទី១១ (Geography, Grade 11) — Sala 00004288. Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 208. Verdict: COMPLETE. All books are Khmer-language MoEYS textbooks whose embedded text layer uses a legacy font encoding (pdftotext output is garbled), so every book was read visually page-by-page from rendered pages (cover, full contents, every chapter/lesson opening, and spreads through each Geography part); Tesseract khm OCR was attempted first and abandoned (>2 min/page on this host). Read in place from phase3-staging (on_disk) except the Grade 9 Geography excerpt and the Grades 10-12 Geography combined record, grabbed from the textbooks repo with grab.py. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cambodia-placements.md.
 
+**Book 11:** *Geografija 8* (student book, Slovenian) — Slovenia, Zavod RS za šolstvo, Ljubljana; year 2015; ISBN 978-961-03-0282-7 (html5). Title as printed: Geografija 8 (i-učbenik / interactive textbook). Grade: Grade 8 (student/teacher: STUDENT). PDF pages: not a PDF — ZIP package (interactive e-textbook) of 444,693,805 bytes; book pagination runs to printed p. 177+ (Kazalo); all 202 content HTML pages read — every extracted file's decompressed size verified against the ZIP central directory (203/203 files OK). Verdict: COMPLETE (text content; the package's videos/images were not individually viewed — the teaching text, headings, summaries and tasks were read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/slovenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Why forests fall, and what follows: forests as gatherings of vegetation where trees abound; former wide cover, present remnant; farm and grazing expansion, city growth, cutting for services; the listed results — climate disturbance, accelerated soil degradation, faster silt accumulation, heavy flooding, fuel-wood shortage, loss of individual plant species, forests failing as breeding places | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 7, printed pp. 190–191 |
@@ -35,8 +37,9 @@ countries: Ethiopia, Costa Rica, Angola, Bangladesh, Samoa, Zimbabwe, Malaysia, 
 | Malaysia part (MY T3 Geografi Tingkatan 3) — Bab 10 Sumber Hutan: forest resources; the importance of forest management in Malaysia; preservation and conservation efforts; the role of agencies (placement slug: resources-and-conflict/keeping-forests-uses-threats-and-care) | Malaysia, *MY T3 Geografi*, Bab 10 Sumber Hutan: forest resources; the importance of forest management in Malaysia; preservation and conservation efforts; the role of agencies — printed pp. 164-177 |
 | India part (Grade 7 Our Environment) — Ch.6: natural vegetation disappearing under cultivation and settlement | India, *India Grade 7 Our Environment*, Ch.6: natural vegetation disappearing under cultivation and settlement — printed p. 45 |
 | Cambodia part — Ch.2 L1 ការខូចខាតនិងកិច្ចការពារព្រៃឈើ (forest damage and forest protection — the forest's role in the air) | Cambodia, *Cambodia Grade 11 Geography*, Ch.2 L1 ការខូចខាតនិងកិច្ចការពារព្រៃឈើ (forest damage and forest protection — the forest's role in the air) — printed p. 28 |
+| Slovenia part — Krčenje tropskega gozda / Pomen gozda (rainforest clearing and the forest's importance) inside Svetovni problemi | Slovenia, *Slovenia Grade 8 Geografija 8*, Krčenje tropskega gozda / Pomen gozda (rainforest clearing and the forest's importance) inside Svetovni problemi — printed p. 157 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Costa Rica, Angola, Bangladesh, Samoa, Malaysia, India, Cambodia). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 9 countries (Ethiopia, Costa Rica, Angola, Bangladesh, Samoa, Malaysia, India, Cambodia, Slovenia). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
 
 Chapter assessment stock carried as the book keys it (placement 148): 'which factor drives deforestation in developing countries' keyed to all of city growth, grazing expansion and farm-land hunger; 'farming the land bare' keyed as the soil-care method that does not belong; groundwater increasing keyed as NOT a result of forest shrinking. The pest name 'qinqin' is carried as printed in the placement. There is NO Grade 8 teacher-guide coverage for Chapter 7: the Grade 8 guide in hand holds only Units 1–3, so no teacher evidence is claimed for any Grade 8 part of this lesson.
 
@@ -59,3 +62,5 @@ Malaysia's own way (MY T3 Geografi Tingkatan 3): Form 3 turns from skills (table
 India's own way (Grade 7 Our Environment): Grade 7 is organised around "environment" in widening rings — the concept itself, then inside/changing Earth, air and water, world vegetation belts, human settlement and transport, and finally three lived-in region studies (Amazon basin, Ganga-Brahmaputra basin, Sahara and Ladakh deserts) where all the strands meet in real places.
 
 Cambodia's own way (Cambodia Grade 11 Geography): the standalone upper-secondary Geography book is a human-impact course — people reshaping the earth, people destroying natural resources, the sea, pollution of air/water/noise/waste, economic globalisation, city and countryside, and a world of uneven development.
+
+Slovenia's own way (Slovenia Grade 8 Geografija 8): Grade 8 is pure world regional geography, continent by continent (Africa, Australia/Oceania, the Americas and polar regions), each region worked through the same grid — position/relief/waters, climate/vegetation, population, economy — and the book closes with two world-problems units (rainforest loss, desert spread, water conflicts, the Aral Sea).

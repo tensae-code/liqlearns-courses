@@ -1,6 +1,6 @@
 # Sources — Kinds of migration
 
-countries: Ethiopia, Micronesia, Brazil, Belarus, France, Haiti, Guatemala, Costa Rica, Ecuador, China, Jamaica, Angola, Bangladesh, Indonesia, Dominican Republic, Colombia, Malaysia, Eritrea, Fiji
+countries: Ethiopia, Micronesia, Brazil, Belarus, France, Haiti, Guatemala, Costa Rica, Ecuador, China, Jamaica, Angola, Bangladesh, Indonesia, Dominican Republic, Colombia, Malaysia, Eritrea, Fiji, Slovenia
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). Editors: Sintayehu Teka (MSc) (Content Editor), Kassie Molla (MA) (Language Editor), Hirut Woldemichael (MA) (Curriculum Editor). Illustrator: Agenchw Nega (MSc). Designer: Geda Hoka (MA). Evaluators: Dereje Guteta (PhD), Tesfaye Shiferaw (PhD), Abebe Yibeltie (MA), Hussein Seid (MA). First published 2023 under GEQIP-E. ISBN 978-99990-0-049-9. Printed by Gravity Group IND LLC, 13th Industrial Area, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. Printed page = PDF page − 6 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md
 
@@ -56,6 +56,8 @@ countries: Ethiopia, Micronesia, Brazil, Belarus, France, Haiti, Guatemala, Cost
 
 **Book 27:** *Year 13 Integrative Geography* (student book, English) — Fiji, Curriculum Development Unit, Ministry of Education, Fiji; year 2018; ISBN no ISBN printed. Title as printed: Year 13 Integrative Geography. Grade: Year 13 (student/teacher: STUDENT). PDF pages: 263 (cover/title page verified against the record title; bibliography at printed p. 258 confirms the file is complete). Verdict: COMPLETE. Acquisition note: read from the books.json record's own source_url (Google Drive file named in the record; download resumed after a first timed-out partial file) after the grab.py GitHub API route failed as in Book 1. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
 
+**Book 28:** *Geografija 1, gimnazija* (student book, Slovenian) — Slovenia, Zavod RS za šolstvo, Ljubljana; year 2015; ISBN 978-961-03-0284-1. Title as printed: Geografija 1 (gimnazija) (i-učbenik / interactive textbook). Grade: Grade 10 (first year of gimnazija) (student/teacher: STUDENT). PDF pages: not a PDF — ZIP package (interactive e-textbook) of 423,855,798 bytes; book pagination runs to printed p. 320 (Kazalo); all 359 content HTML pages extracted by range request and size-verified against the ZIP central directory, and read. Verdict: COMPLETE (text content; the package's videos/images were not individually viewed — the teaching text, headings, summaries and tasks were read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/slovenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Internal and international | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 7, printed pp. 167–168 |
@@ -75,6 +77,7 @@ countries: Ethiopia, Micronesia, Brazil, Belarus, France, Haiti, Guatemala, Cost
 | Eritrea part (ER G6 Social Studies) — Unit 5 Migration: introduction to migration | Eritrea, *ER G6 Social Studies*, Unit 5 Migration: introduction to migration — printed p. 28 |
 | Fiji part — 1.1.4 Migration | Fiji, *Fiji Years 11–12 Geography*, 1.1.4 Migration — printed p. 15 |
 | Fiji part — Chapter 6: population mobility and its consequences for losing and receiving countries, migrants and nationals | Fiji, *Fiji Year 13 Geography*, Chapter 6: population mobility and its consequences for losing and receiving countries, migrants and nationals — printed p. 162 |
+| Slovenia part — Selitve (migrations) | Slovenia, *Slovenia Grade 10 Geografija 1 (gimnazija)*, Selitve (migrations) — printed p. 203 |
 
 | France part — Thème 3: Les migrations internationales (étude de cas: la mer Méditerranée, un espace migratoire) | France, *Géographie 2de GT, Manuel Libre de Géographie, Seconde*, Grade 10, Sommaire Thème 3 |
 | Haiti part — Séance 2, Temps 5 L'exode vers les villes et ses conséquences (teacher sequence — evidence) | Haiti, *Sciences humaines et sociales — Géographie — Population urbaine et population rurale en Haïti* (teacher sequence), Grade 8, Séance 2, Temps 5 L'exode vers les villes et ses conséquences — printed p. 12 |
@@ -88,7 +91,7 @@ countries: Ethiopia, Micronesia, Brazil, Belarus, France, Haiti, Guatemala, Cost
 | Dominican Republic part (Grade 3) — Family origin: migration — I left behind what I knew (Unidad 4: La movilidad migratoria y mi procedencia familiar) | Dominican Republic, *Ciencias Sociales, Tercer Grado, Primaria (Libro Abierto)*, Grade 3, Family origin: migration — I left behind what I knew (Unidad 4: La movilidad migratoria y mi procedencia familiar) — printed p. 60 |
 | Dominican Republic part (Grade 5) — Migrations and their types | Dominican Republic, *Ciencias Sociales, Quinto Grado, Primaria (Libro Abierto)*, Grade 5, Migrations and their types — printed p. 14 |
 
-**Acceptance count: taught in 17 countries (Ethiopia, Micronesia, Brazil, Belarus, France, Guatemala, Costa Rica, Ecuador, China, Angola, Bangladesh, Indonesia, Dominican Republic, Colombia, Malaysia, Eritrea, Fiji). Haiti is named here as teacher-sequence evidence only, counted nowhere. China's Grade 11 teacher guide (Book 12) is named here as teacher-guide evidence only, counted nowhere. Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 18 countries (Ethiopia, Micronesia, Brazil, Belarus, France, Guatemala, Costa Rica, Ecuador, China, Angola, Bangladesh, Indonesia, Dominican Republic, Colombia, Malaysia, Eritrea, Fiji, Slovenia). Haiti is named here as teacher-sequence evidence only, counted nowhere. China's Grade 11 teacher guide (Book 12) is named here as teacher-guide evidence only, counted nowhere. Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
 
 Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -137,3 +140,5 @@ Eritrea's own way (ER G6 Social Studies): one integrated Social Studies book per
 Fiji's own way (Fiji Years 11–12 Geography): Senior geography splits into Human and Physical volumes; the human volume is organised as four issue-chapters (population/settlement, tourism, agriculture, marine resources), each run the same way — nature, problems, ways of minimising, contemporary issues, future — with Pacific/Fiji theme-country cases.
 
 Fiji's own way (Fiji Year 13 Geography): The final year integrates everything at advanced level (plate tectonics to urban models, largely from world texts such as Waugh) and then lands it in Chapter 8, South Pacific Islands Geography — Oceania's geology, island types, development prospects and regionalism.
+
+Slovenia's own way (Slovenia Grade 10 Geografija 1 (gimnazija)): the gimnazija first year is systematic physical geography first (Earth's interior, rocks, landforms, weather and climate, soils, vegetation, waters), then human geography (population, settlements, farming, industry and energy, transport, tourism), closing on sustainable development and spatial planning — with Slovenian cases (earthquake risk in Slovenia, the Port of Koper) set inside the world topics.

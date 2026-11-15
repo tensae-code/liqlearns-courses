@@ -1,6 +1,6 @@
 # Sources — Polluting air and water
 
-countries: Ethiopia, United Arab Emirates, Jamaica, Palestine, Bangladesh, Turkmenistan, Dominican Republic, Bahamas, Zimbabwe, Fiji
+countries: Ethiopia, United Arab Emirates, Jamaica, Palestine, Bangladesh, Turkmenistan, Dominican Republic, Bahamas, Zimbabwe, Fiji, Slovenia
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -26,6 +26,8 @@ countries: Ethiopia, United Arab Emirates, Jamaica, Palestine, Bangladesh, Turkm
 
 **Book 12:** *Social Science Year 10 — Global Perspectives, Local Interaction (PRE CDU 2015 printing)* (student book, English) — Fiji, Curriculum Development Unit, Ministry of Education, Suva; year 2013; ISBN no ISBN printed. Title as printed: Social Science Year 10 — Global Perspectives, Local Interaction (PRE CDU 2015 printing). Grade: Year 10 (student/teacher: STUDENT). PDF pages: 101 (cover/title page verified against the record title). Verdict: COMPLETE. Acquisition note: read from the books.json record's own Wayback source_url (ministry original) after the grab.py GitHub API route failed as in Book 1. Non-Geography parts named, not placed: Chapter 1 Social Organization and Processes — government and democracy, parliamentary rule, the United Nations (printed pp. 6–25); Chapter 2 Time, Continuity and Change — History of Fiji, cession to independence 1874–1970 (pp. 26–53). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
 
+**Book 13:** *Geografija 8* (student book, Slovenian) — Slovenia, Zavod RS za šolstvo, Ljubljana; year 2015; ISBN 978-961-03-0282-7 (html5). Title as printed: Geografija 8 (i-učbenik / interactive textbook). Grade: Grade 8 (student/teacher: STUDENT). PDF pages: not a PDF — ZIP package (interactive e-textbook) of 444,693,805 bytes; book pagination runs to printed p. 177+ (Kazalo); all 202 content HTML pages read — every extracted file's decompressed size verified against the ZIP central directory (203/203 files OK). Verdict: COMPLETE (text content; the package's videos/images were not individually viewed — the teaching text, headings, summaries and tasks were read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/slovenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Air pollution | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 6, printed pp. 172–175 |
@@ -41,8 +43,9 @@ countries: Ethiopia, United Arab Emirates, Jamaica, Palestine, Bangladesh, Turkm
 | Zimbabwe part (Grade 5) — Unit 28: Pollution (teacher guide — evidence) | Zimbabwe, *PlusOne Social Science Grade 5 Teacher's Guide* (teacher guide), Unit 28: Pollution — printed p. 77 |
 | Fiji part — 3.2 People and Care of Places: pollution — water, air, land and noise pollution, their causes and effects | Fiji, *Fiji Year 7 Social Science*, 3.2 People and Care of Places: pollution — water, air, land and noise pollution, their causes and effects — printed p. 53 |
 | Fiji part — Industries and the environment (factory pollution, acid rain, water pollution, noise; industrial safety) | Fiji, *Fiji Year 10 Social Science*, Industries and the environment (factory pollution, acid rain, water pollution, noise; industrial safety) — printed p. 78 |
+| Slovenia part — Izbrani svetovni problemi II: Življenje na Zemlji in onesnaževanje okolja (life on Earth and environmental pollution) | Slovenia, *Slovenia Grade 8 Geografija 8*, Izbrani svetovni problemi II: Življenje na Zemlji in onesnaževanje okolja (life on Earth and environmental pollution) — printed p. 168 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, United Arab Emirates, Palestine, Bangladesh, Turkmenistan, Dominican Republic, Bahamas, Fiji). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 9 countries (Ethiopia, United Arab Emirates, Palestine, Bangladesh, Turkmenistan, Dominican Republic, Bahamas, Fiji, Slovenia). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grade 5 Exploratory Core, curriculum guide — evidence): Grade 5 Social Studies pairs a heritage year (Europeans and Africans, national heroes, Caribbean culture) with a physical-environment year — erosion, locating Jamaica and the Caribbean by compass and latitude/longitude, types of rainfall, the Solar System, plants and water pollution. That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
@@ -63,3 +66,5 @@ Zimbabwe's own way (Grade 5) (teacher guide — evidence): Grade 5 transport is 
 Fiji's own way (Fiji Year 7 Social Science): Year 7 widens the lens to the whole South Pacific — island types, "islandness" and vulnerability, Pacific hazards, and resources owned by tribes and clans; Fiji is taught as the hub of the South West Pacific.
 
 Fiji's own way (Fiji Year 10 Social Science): Year 10 is the foundation for senior Geography and History — Fiji's own physical geography (tectonics, relief, rivers, climate, soils) taught in full, then its industries, population and urbanisation, all with Fiji data.
+
+Slovenia's own way (Slovenia Grade 8 Geografija 8): Grade 8 is pure world regional geography, continent by continent (Africa, Australia/Oceania, the Americas and polar regions), each region worked through the same grid — position/relief/waters, climate/vegetation, population, economy — and the book closes with two world-problems units (rainforest loss, desert spread, water conflicts, the Aral Sea).

@@ -1,6 +1,6 @@
 # Sources — Careless Use — Water Pollution and Shortage
 
-countries: Ethiopia, Angola, Malaysia, Eritrea, India
+countries: Ethiopia, Angola, Malaysia, Eritrea, India, Slovenia
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (placement 67).
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Angola, Malaysia, Eritrea, India
 
 **Book 5:** *Contemporary India-I — Textbook in Geography for Class IX (Social Science)* (student book, English) — India, NCERT, New Delhi; first edition March 2006, this copy reprint 2020-21; ISBN 81-7450-520-2. Title as printed: Contemporary India-I — Textbook in Geography for Class IX (Social Science). Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 76 (cover render verified: "Contemporary India-I, Textbook in Geography for Class IX, NCERT 2020-21"; grabbed via grab.py release route, 21,811,274 bytes; duplicate TSV + books.json records grade-09/gov/india/class9-social-science-geography.pdf counted once). Verdict: COMPLETE — 6 chapters, printed pp. 1-62 + glossary. Records note: 34 records / 17 distinct books (17 TSV records in grades 6-10 + 17 books.json records that are the same books by grade/subject — duplicate records of the same NCERT titles); the 5 Geography books were read full page-by-page via pdftotext -layout after cover verification; the other 12 books are record-only (History, Civics, Economics) with no Geography content, filed for later waves. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/india-placements.md.
 
+**Book 6:** *Geografija 1, gimnazija* (student book, Slovenian) — Slovenia, Zavod RS za šolstvo, Ljubljana; year 2015; ISBN 978-961-03-0284-1. Title as printed: Geografija 1 (gimnazija) (i-učbenik / interactive textbook). Grade: Grade 10 (first year of gimnazija) (student/teacher: STUDENT). PDF pages: not a PDF — ZIP package (interactive e-textbook) of 423,855,798 bytes; book pagination runs to printed p. 320 (Kazalo); all 359 content HTML pages extracted by range request and size-verified against the ZIP central directory, and read. Verdict: COMPLETE (text content; the package's videos/images were not individually viewed — the teaching text, headings, summaries and tasks were read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/slovenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Whole lesson opening — pupils name a local pollution and a local shortage example | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 3, printed pp. 87–88 |
@@ -21,8 +23,9 @@ countries: Ethiopia, Angola, Malaysia, Eritrea, India
 | Malaysia part (MY T4 Geografi Tingkatan 4) — Bab 9.4-9.5: causes of declining river water quality and efforts to sustain rivers | Malaysia, *MY T4 Geografi*, Bab 9.4-9.5: causes of declining river water quality and efforts to sustain rivers — printed pp. 125-131 |
 | Eritrea part (ER G4 Social Studies) — Chapter 4: 4.3 Protecting our water | Eritrea, *ER G4 Social Studies*, Chapter 4: 4.3 Protecting our water — printed p. 46 |
 | India part (Grade 9 Contemporary India-I) — Ch.3: river pollution and the response — Ganga Action Plan and the National River Conservation Plan | India, *India Grade 9 Contemporary India-I*, Ch.3: river pollution and the response — Ganga Action Plan and the National River Conservation Plan — printed p. 24 |
+| Slovenia part — Okoljski problemi voda in pomen voda za človeka: Okoljski problemi stoječih in tekočih voda (environmental problems of standing and running waters) | Slovenia, *Slovenia Grade 10 Geografija 1 (gimnazija)*, Okoljski problemi voda in pomen voda za človeka: Okoljski problemi stoječih in tekočih voda (environmental problems of standing and running waters) — printed p. 171 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Angola, Malaysia, Eritrea, India).**
+**Acceptance count: taught in 6 countries (Ethiopia, Angola, Malaysia, Eritrea, India, Slovenia).**
 
 No book error flagged by the placements touches this lesson.
 
@@ -35,3 +38,5 @@ Malaysia's own way (MY T4 Geografi Tingkatan 4): upper-secondary Geography is a 
 Eritrea's own way (ER G4 Social Studies): the Tigrinya-medium primary book teaches Geography through the child's own surroundings first — our environment, protecting our soil, water, plants and animals, then maps and globes, community life, and the shapes of the land.
 
 India's own way (Grade 9 Contemporary India-I): From Grade 9 the Geography book is India alone, in depth — Contemporary India-I is the physical book: size and location, physiography built from plate tectonics, drainage, the monsoon system, vegetation and wildlife, and population, each chapter working from India's own maps and census data.
+
+Slovenia's own way (Slovenia Grade 10 Geografija 1 (gimnazija)): the gimnazija first year is systematic physical geography first (Earth's interior, rocks, landforms, weather and climate, soils, vegetation, waters), then human geography (population, settlements, farming, industry and energy, transport, tourism), closing on sustainable development and spatial planning — with Slovenian cases (earthquake risk in Slovenia, the Port of Koper) set inside the world topics.

@@ -1,6 +1,6 @@
 # Sources — Measuring temperature and rainfall
 
-countries: Ethiopia, Turkey, Dominican Republic, Colombia, Eritrea, India, Cambodia, Rwanda
+countries: Ethiopia, Turkey, Dominican Republic, Colombia, Eritrea, India, Cambodia, Rwanda, Slovenia
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Turkey, Dominican Republic, Colombia, Eritrea, India, Cambo
 
 **Book 10:** *Primary Learner's Social Studies for Rwanda Schools, P5, Revised Edition 2019* (student book, English) — Rwanda, Rwanda Education Board (REB); year ©2019, Revised Edition 2019; ISBN no ISBN printed. Title as printed: Primary Learner's Social Studies for Rwanda Schools, P5, Revised Edition 2019. Grade: Grade 5 (Primary 5) (student/teacher: STUDENT). PDF pages: 75 (condensed-layout copy; printed pagination runs to p. 129 — cover verified against the record title; byte size 28,584,194 matches the edufeeds source's Content-Length exactly; read from the record's own source URL after grab.py failed with GitHub API RemoteDisconnected; the TSV release record is the same book). Verdict: COMPLETE. Non-Geography parts named, not placed: Unit 2 Complementarity and social cohesion in society, incl. human rights, conflict management, peace, harmony and disharmony (Civics), printed pp. 13–24; Unit 3 Hygiene and sanitation, incl. diseases (Health), pp. 25–40; Unit 4 Civics and governance, incl. Rwanda as an independent nation and leadership in our province (Civics), pp. 41–52; Unit 10 Colonial Rwanda (History), pp. 112–129. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/rwanda-placements.md.
 
+**Book 11:** *Geografija 1, gimnazija* (student book, Slovenian) — Slovenia, Zavod RS za šolstvo, Ljubljana; year 2015; ISBN 978-961-03-0284-1. Title as printed: Geografija 1 (gimnazija) (i-učbenik / interactive textbook). Grade: Grade 10 (first year of gimnazija) (student/teacher: STUDENT). PDF pages: not a PDF — ZIP package (interactive e-textbook) of 423,855,798 bytes; book pagination runs to printed p. 320 (Kazalo); all 359 content HTML pages extracted by range request and size-verified against the ZIP central directory, and read. Verdict: COMPLETE (text content; the package's videos/images were not individually viewed — the teaching text, headings, summaries and tasks were read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/slovenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Thermometers | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 2, printed pp. 53–55 |
@@ -35,8 +37,9 @@ countries: Ethiopia, Turkey, Dominican Republic, Colombia, Eritrea, India, Cambo
 | Cambodia part — Ch.3 L10 ធាតុអាកាសធាតុអាកាស (describing weather and climate elements) [placement slug: the-land-and-air/describing-the-weather] | Cambodia, *Cambodia Grade 11 Earth Science*, Ch.3 L10 ធាតុអាកាសធាតុអាកាស (describing weather and climate elements) — printed p. 160 |
 | Rwanda part — Make simple weather instruments (rain gauge, thermometer) and explain their use (Unit 7) (teacher guide — evidence) | Rwanda, *Rwanda Grade 5 Social Studies TG*, Make simple weather instruments (rain gauge, thermometer) and explain their use (Unit 7) — printed p. xxii (content map) |
 | Rwanda part — 7.7 Weather instruments, incl. the sunshine recorder (Unit 7) | Rwanda, *Rwanda Grade 5 Social Studies SB*, 7.7 Weather instruments, incl. the sunshine recorder (Unit 7) — printed p. 83 |
+| Slovenia part — Branje in razumevanje klimograma (reading and understanding a climate graph) inside Planetarno kroženje | Slovenia, *Slovenia Grade 10 Geografija 1 (gimnazija)*, Branje in razumevanje klimograma (reading and understanding a climate graph) inside Planetarno kroženje — printed p. 85 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Turkey, Dominican Republic, Colombia, Eritrea, India, Cambodia, Rwanda).**
+**Acceptance count: taught in 9 countries (Ethiopia, Turkey, Dominican Republic, Colombia, Eritrea, India, Cambodia, Rwanda, Slovenia).**
 
 Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
@@ -55,3 +58,5 @@ Cambodia's own way (Cambodia Grade 11 Earth Science): Earth Science is Cambodia'
 Rwanda's own way (Rwanda Grade 5 Social Studies TG) (teacher guide — evidence): from P5 the medium is English and the organising frame is the child's own PROVINCE — its location, services, environment, climate, population and infrastructure — before the frame widens to the whole country at P6. That book is a teacher guide, cited as evidence only; Rwanda is counted in this lesson for its student book(s) named here, not for this guide.
 
 Rwanda's own way (Rwanda Grade 5 Social Studies SB): the pupil's book teaches the province through named Rwandan things — the five provinces with Kigali City as the case study, Rwanda's four seasons by their Kinyarwanda names (Umuhindo, Urugaryi, Itumba, Icyi), and the country's two international airports (Kigali and Kamembe) in the transport-places lesson.
+
+Slovenia's own way (Slovenia Grade 10 Geografija 1 (gimnazija)): the gimnazija first year is systematic physical geography first (Earth's interior, rocks, landforms, weather and climate, soils, vegetation, waters), then human geography (population, settlements, farming, industry and energy, transport, tourism), closing on sustainable development and spatial planning — with Slovenian cases (earthquake risk in Slovenia, the Port of Koper) set inside the world topics.

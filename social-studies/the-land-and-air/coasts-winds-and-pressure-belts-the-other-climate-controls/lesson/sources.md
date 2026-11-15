@@ -1,6 +1,6 @@
 # Sources — Coasts, winds and pressure belts — the other climate controls
 
-countries: Ethiopia, Turkey, Dominican Republic, India, Cambodia, Fiji
+countries: Ethiopia, Turkey, Dominican Republic, India, Cambodia, Fiji, Slovenia
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Turkey, Dominican Republic, India, Cambodia, Fiji
 
 **Book 7:** *Physical Geography — Year 11 & 12* (student book, English) — Fiji, Curriculum Development Unit, Ministry of Education, Fiji; year 2014; ISBN no ISBN printed. Title as printed: Physical Geography — Year 11 & 12. Grade: Years 11–12 (student/teacher: STUDENT). PDF pages: 127 (cover/title page verified against the record title). Verdict: COMPLETE. Acquisition note: read from the books.json record's own Wayback source_url (ministry original; download resumed twice after timed-out partial files) after the grab.py GitHub API route failed as in Book 1. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
 
+**Book 8:** *Geografija 1, gimnazija* (student book, Slovenian) — Slovenia, Zavod RS za šolstvo, Ljubljana; year 2015; ISBN 978-961-03-0284-1. Title as printed: Geografija 1 (gimnazija) (i-učbenik / interactive textbook). Grade: Grade 10 (first year of gimnazija) (student/teacher: STUDENT). PDF pages: not a PDF — ZIP package (interactive e-textbook) of 423,855,798 bytes; book pagination runs to printed p. 320 (Kazalo); all 359 content HTML pages extracted by range request and size-verified against the ZIP central directory, and read. Verdict: COMPLETE (text content; the package's videos/images were not individually viewed — the teaching text, headings, summaries and tasks were read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/slovenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Land heats fast, water slowly | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 2, printed pp. 47–50 |
@@ -28,8 +30,9 @@ countries: Ethiopia, Turkey, Dominican Republic, India, Cambodia, Fiji
 | Cambodia part — Ch.3 L4 សម្ពាធខ្យល់និងសម្ពាធចាបតាមរដូវ (pressure belts and the seasons) [placement slug: the-land-and-air/wind-global-patterns] | Cambodia, *Cambodia Grade 11 Earth Science*, Ch.3 L4 សម្ពាធខ្យល់និងសម្ពាធចាបតាមរដូវ (pressure belts and the seasons) — printed p. 116 |
 | Cambodia part — Ch.3 L5 ខ្យល់បក់ (blowing winds) [placement slug: the-land-and-air/wind-what-moves-the-air] | Cambodia, *Cambodia Grade 11 Earth Science*, Ch.3 L5 ខ្យល់បក់ (blowing winds) — printed p. 124 |
 | Fiji part — Chapter 1: solar radiation, wind, pressure systems (sub-tropical high belt, anticyclones and depressions crossing New Zealand) | Fiji, *Fiji Years 11–12 Physical Geography*, Chapter 1: solar radiation, wind, pressure systems (sub-tropical high belt, anticyclones and depressions crossing New Zealand) — printed p. 3 |
+| Slovenia part — Planetarno kroženje: Planetarno kroženje zraka (planetary circulation of air) | Slovenia, *Slovenia Grade 10 Geografija 1 (gimnazija)*, Planetarno kroženje: Planetarno kroženje zraka (planetary circulation of air) — printed p. 85 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Turkey, Dominican Republic, India, Cambodia, Fiji).**
+**Acceptance count: taught in 7 countries (Ethiopia, Turkey, Dominican Republic, India, Cambodia, Fiji, Slovenia).**
 
 Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
@@ -44,3 +47,5 @@ India's own way (Grade 7 Our Environment): Grade 7 is organised around "environm
 Cambodia's own way (Cambodia Grade 11 Earth Science): Earth Science is Cambodia's physical-geography strand — planet Earth and plate tectonics, water, a full atmosphere-and-climate course (ending with Cambodia's own weather and climate change), and the environment.
 
 Fiji's own way (Fiji Years 11–12 Physical Geography): The physical volume is comparative — every theme (climate, relief, soil, vegetation, hazards) is taught twice, New Zealand first, then Fiji (Monsoon Asia for hazards), so Fiji's land is always read against a temperate and a monsoon case.
+
+Slovenia's own way (Slovenia Grade 10 Geografija 1 (gimnazija)): the gimnazija first year is systematic physical geography first (Earth's interior, rocks, landforms, weather and climate, soils, vegetation, waters), then human geography (population, settlements, farming, industry and energy, transport, tourism), closing on sustainable development and spatial planning — with Slovenian cases (earthquake risk in Slovenia, the Port of Koper) set inside the world topics.

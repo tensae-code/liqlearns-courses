@@ -1,6 +1,6 @@
 # Sources — How soil is made
 
-countries: Ethiopia, Angola, India, Fiji
+countries: Ethiopia, Angola, India, Fiji, Slovenia
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Angola, India, Fiji
 
 **Book 8:** *Physical Geography — Year 11 & 12* (student book, English) — Fiji, Curriculum Development Unit, Ministry of Education, Fiji; year 2014; ISBN no ISBN printed. Title as printed: Physical Geography — Year 11 & 12. Grade: Years 11–12 (student/teacher: STUDENT). PDF pages: 127 (cover/title page verified against the record title). Verdict: COMPLETE. Acquisition note: read from the books.json record's own Wayback source_url (ministry original; download resumed twice after timed-out partial files) after the grab.py GitHub API route failed as in Book 1. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
 
+**Book 9:** *Geografija 1, gimnazija* (student book, Slovenian) — Slovenia, Zavod RS za šolstvo, Ljubljana; year 2015; ISBN 978-961-03-0284-1. Title as printed: Geografija 1 (gimnazija) (i-učbenik / interactive textbook). Grade: Grade 10 (first year of gimnazija) (student/teacher: STUDENT). PDF pages: not a PDF — ZIP package (interactive e-textbook) of 423,855,798 bytes; book pagination runs to printed p. 320 (Kazalo); all 359 content HTML pages extracted by range request and size-verified against the ZIP central directory, and read. Verdict: COMPLETE (text content; the package's videos/images were not individually viewed — the teaching text, headings, summaries and tasks were read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/slovenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The five factors | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 3, printed pp. 69–70 |
@@ -29,8 +31,9 @@ countries: Ethiopia, Angola, India, Fiji
 | India part (Grade 8 Resources and Development) — Ch.2: soil formation and the soil profile | India, *India Grade 8 Resources and Development*, Ch.2: soil formation and the soil profile — printed p. 10 |
 | Fiji part — Geography of Fiji: soil (formation from rocks, soil and plant growth, Fiji's young volcanic soils) | Fiji, *Fiji Year 10 Social Science*, Geography of Fiji: soil (formation from rocks, soil and plant growth, Fiji's young volcanic soils) — printed p. 61 |
 | Fiji part — Chapter 5 Soil – New Zealand: soil formation | Fiji, *Fiji Years 11–12 Physical Geography*, Chapter 5 Soil – New Zealand: soil formation — printed p. 64 |
+| Slovenia part — Nastanek in lastnosti prsti (soil formation: pedogenetic factors, the soil profile, soil properties) | Slovenia, *Slovenia Grade 10 Geografija 1 (gimnazija)*, Nastanek in lastnosti prsti (soil formation: pedogenetic factors, the soil profile, soil properties) — printed p. 110 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Angola, India, Fiji).**
+**Acceptance count: taught in 5 countries (Ethiopia, Angola, India, Fiji, Slovenia).**
 
 Extension (Wave 4 Band D): the Grade 10 book's soil definition and functions (printed pp. 66–67) were stacked under this lesson per the build brief; the Grade 10 types survey stands as its own lesson, "Five African soils".
 
@@ -43,3 +46,5 @@ India's own way (Grade 8 Resources and Development): Grade 8 is a resources year
 Fiji's own way (Fiji Year 10 Social Science): Year 10 is the foundation for senior Geography and History — Fiji's own physical geography (tectonics, relief, rivers, climate, soils) taught in full, then its industries, population and urbanisation, all with Fiji data.
 
 Fiji's own way (Fiji Years 11–12 Physical Geography): The physical volume is comparative — every theme (climate, relief, soil, vegetation, hazards) is taught twice, New Zealand first, then Fiji (Monsoon Asia for hazards), so Fiji's land is always read against a temperate and a monsoon case.
+
+Slovenia's own way (Slovenia Grade 10 Geografija 1 (gimnazija)): the gimnazija first year is systematic physical geography first (Earth's interior, rocks, landforms, weather and climate, soils, vegetation, waters), then human geography (population, settlements, farming, industry and energy, transport, tourism), closing on sustainable development and spatial planning — with Slovenian cases (earthquake risk in Slovenia, the Port of Koper) set inside the world topics.

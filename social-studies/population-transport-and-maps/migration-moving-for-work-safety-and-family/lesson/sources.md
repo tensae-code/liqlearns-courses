@@ -1,6 +1,6 @@
 # Sources — Migration — moving for work, safety and family
 
-countries: Ethiopia, Haiti, Costa Rica, Turkmenistan, Dominican Republic, Bahamas, Malaysia, Eritrea, United Kingdom, Rwanda, Fiji
+countries: Ethiopia, Haiti, Costa Rica, Turkmenistan, Dominican Republic, Bahamas, Malaysia, Eritrea, United Kingdom, Rwanda, Fiji, Slovenia
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -32,6 +32,8 @@ countries: Ethiopia, Haiti, Costa Rica, Turkmenistan, Dominican Republic, Bahama
 
 **Book 15:** *Social Science Year 10 — Global Perspectives, Local Interaction (PRE CDU 2015 printing)* (student book, English) — Fiji, Curriculum Development Unit, Ministry of Education, Suva; year 2013; ISBN no ISBN printed. Title as printed: Social Science Year 10 — Global Perspectives, Local Interaction (PRE CDU 2015 printing). Grade: Year 10 (student/teacher: STUDENT). PDF pages: 101 (cover/title page verified against the record title). Verdict: COMPLETE. Acquisition note: read from the books.json record's own Wayback source_url (ministry original) after the grab.py GitHub API route failed as in Book 1. Non-Geography parts named, not placed: Chapter 1 Social Organization and Processes — government and democracy, parliamentary rule, the United Nations (printed pp. 6–25); Chapter 2 Time, Continuity and Change — History of Fiji, cession to independence 1874–1970 (pp. 26–53). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
 
+**Book 16:** *Geografija 9* (student book, Slovenian) — Slovenia, Zavod RS za šolstvo, Ljubljana; year 2015; ISBN 978-961-03-0283-4. Title as printed: Geografija 9 (i-učbenik / interactive textbook). Grade: Grade 9 (student/teacher: STUDENT). PDF pages: not a PDF — ZIP package (interactive e-textbook) of 785,080,227 bytes; book pagination runs to printed p. 241 (Kazalo); all 296 content HTML pages extracted by range request and size-verified against the ZIP central directory, and read. Verdict: COMPLETE (text content; the package's videos/images were not individually viewed — the teaching text, headings, summaries and tasks were read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/slovenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Redistribution, not growth | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 4, printed pp. 112–114 |
@@ -51,8 +53,9 @@ countries: Ethiopia, Haiti, Costa Rica, Turkmenistan, Dominican Republic, Bahama
 | Rwanda part — 9.2 Immigration and emigration; causes and effects of migration in East Africa (Unit 9) | Rwanda, *Rwanda Grade 6 Social Studies SB*, 9.2 Immigration and emigration; causes and effects of migration in East Africa (Unit 9) — printed pp. 208–209 |
 | Fiji part — 4.2 People and Work: Pacific Islanders moving overseas, remittances to Fiji, advantages and disadvantages of migration | Fiji, *Fiji Year 7 Social Science*, 4.2 People and Work: Pacific Islanders moving overseas, remittances to Fiji, advantages and disadvantages of migration — printed p. 73 |
 | Fiji part — Migration (internal and external; voluntary and forced; push and pull; effects of rural–urban migration) | Fiji, *Fiji Year 10 Social Science*, Migration (internal and external; voluntary and forced; push and pull; effects of rural–urban migration) — printed p. 95 |
+| Slovenia part — Slovenci v zamejstvu in po svetu (Slovenes across the border and around the world) inside Slovenija in Evropska unija | Slovenia, *Slovenia Grade 9 Geografija 9*, Slovenci v zamejstvu in po svetu (Slovenes across the border and around the world) inside Slovenija in Evropska unija — printed p. 7 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Costa Rica, Turkmenistan, Dominican Republic, Bahamas, Malaysia, Eritrea, United Kingdom, Rwanda, Fiji). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 11 countries (Ethiopia, Costa Rica, Turkmenistan, Dominican Republic, Bahamas, Malaysia, Eritrea, United Kingdom, Rwanda, Fiji, Slovenia). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
 
 Haiti's own way (teacher sequence — evidence): Population geography is built entirely on Haiti's own data, handled critically: pupils confront the national statistics institute (IHSI) with international sources, note that the last census is 2003, build density maps and age pyramids themselves, then read the whole country through Port-au-Prince's primacy and the diaspora («les Haïtiens de l'extérieur»). That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
@@ -83,3 +86,5 @@ Rwanda's own way (Rwanda Grade 6 Social Studies SB): the P6 pupil's book is the 
 Fiji's own way (Fiji Year 7 Social Science): Year 7 widens the lens to the whole South Pacific — island types, "islandness" and vulnerability, Pacific hazards, and resources owned by tribes and clans; Fiji is taught as the hub of the South West Pacific.
 
 Fiji's own way (Fiji Year 10 Social Science): Year 10 is the foundation for senior Geography and History — Fiji's own physical geography (tectonics, relief, rivers, climate, soils) taught in full, then its industries, population and urbanisation, all with Fiji data.
+
+Slovenia's own way (Slovenia Grade 9 Geografija 9): Grade 9 turns home — the whole book is Slovenia itself: first the country as a system (position and borders, relief and rocks, climate/vegetation/waters, settlement, population, settlements, economy, transport, environment), then its five natural regions one by one (Alpine, Pre-Alpine with the Ljubljana basin, Dinaric-Karst, Mediterranean, Pannonian). Named, not placed: the EU unit's history of the European Union and Slovenia-in-EU pros/cons (printed p. 7, Civics/History) and the state symbols inside the opening unit (p. 1, Civics).

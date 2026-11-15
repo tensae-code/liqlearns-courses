@@ -1,6 +1,6 @@
 # Sources — Conflicts over resources — what the fight is about
 
-countries: Ethiopia, Samoa, Colombia, Malaysia
+countries: Ethiopia, Samoa, Colombia, Malaysia, Slovenia
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Samoa, Colombia, Malaysia
 
 **Book 5:** *Geografi Tingkatan 3 (Kurikulum Standard Sekolah Menengah, KSSM) — Buku Teks* (student book, Malay) — Malaysia, Kementerian Pendidikan Malaysia (Ministry of Education Malaysia); produced by IMS Books Trading Sdn. Bhd.; year 2018 (first printing 2018); ISBN 978-967-0463-50-6. Title as printed: Geografi Tingkatan 3 (Kurikulum Standard Sekolah Menengah, KSSM) — Buku Teks. Grade 9 / Tingkatan 3 (student/teacher: STUDENT). PDF pages: 208 (cover verified against the record title — "Geografi Tingkatan 3, BUKU TEKS"; printed pagination per the book's contents). Verdict: COMPLETE. Records note: covers both Tingkatan 3 records — the TSV release record (full-quality-oversized-books, read here, 329,555,841 bytes) and the books.json record, whose tree path does not exist in the repo tree (release asset only). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/malaysia-placements.md.
 
+**Book 6:** *Geografija 8* (student book, Slovenian) — Slovenia, Zavod RS za šolstvo, Ljubljana; year 2015; ISBN 978-961-03-0282-7 (html5). Title as printed: Geografija 8 (i-učbenik / interactive textbook). Grade: Grade 8 (student/teacher: STUDENT). PDF pages: not a PDF — ZIP package (interactive e-textbook) of 444,693,805 bytes; book pagination runs to printed p. 177+ (Kazalo); all 202 content HTML pages read — every extracted file's decompressed size verified against the ZIP central directory (203/203 files OK). Verdict: COMPLETE (text content; the package's videos/images were not individually viewed — the teaching text, headings, summaries and tasks were read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/slovenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Categories — what is at stake | G12 student #39, printed pp. 69–73 |
@@ -20,8 +22,9 @@ countries: Ethiopia, Samoa, Colombia, Malaysia
 | Colombia part (CS_Grado6 Postprimaria) — Módulo 3 Guía 10 Luchas ancestrales por los territorios | Colombia, *Ciencias Sociales — Postprimaria Rural, Grado 6 (student guide; front matter also carries the Ética y Valores grados 6–7 line)*, Módulo 3 Guía 10 Luchas ancestrales por los territorios — printed p. 110 |
 | Colombia part (CS_Grado9 Postprimaria) — Módulo 4 Guías 11–12 El territorio; Comunidades campesinas en defensa de su territorio | Colombia, *Ciencias Sociales — Postprimaria Rural, Grado 9 (student guide)*, Módulo 4 Guías 11–12 El territorio; Comunidades campesinas en defensa de su territorio — printed pp. 134–149 |
 | Malaysia part (MY T3 Geografi Tingkatan 3) — Bab 9: distribution of the world's main natural resources and world resource crises (placement slug: resources-and-conflict/conflict-over-resources) | Malaysia, *MY T3 Geografi*, Bab 9: distribution of the world's main natural resources and world resource crises — printed pp. 148-156 |
+| Slovenia part — Krizna območja (crisis areas) inside Izbrani svetovni problemi II | Slovenia, *Slovenia Grade 8 Geografija 8*, Krizna območja (crisis areas) inside Izbrani svetovni problemi II — printed p. 168 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Samoa, Colombia, Malaysia).**
+**Acceptance count: taught in 5 countries (Ethiopia, Samoa, Colombia, Malaysia, Slovenia).**
 
 No book error in the placements for this lesson is taught here. Categories and contests are taught exactly as the placements report them.
 
@@ -34,3 +37,5 @@ Colombia's own way (CS_Grado6 Postprimaria): the rural Postprimaria Grade 6 guid
 Colombia's own way (CS_Grado9 Postprimaria): the rural Postprimaria Grade 9 guide is organised as questions about campesino life — globalisation, why a resource-rich country has poverty, how Afro-descendant, indigenous and campesino communities face environmental change, and how rural communities administer and defend their territory.
 
 Malaysia's own way (MY T3 Geografi Tingkatan 3): Form 3 turns from skills (tables, graphs, pie charts) to living Malaysia — its natural vegetation and wildlife and the human pressure on both — then outward to the world's biomes, resources and economic cooperation, closing with forest management and recycling.
+
+Slovenia's own way (Slovenia Grade 8 Geografija 8): Grade 8 is pure world regional geography, continent by continent (Africa, Australia/Oceania, the Americas and polar regions), each region worked through the same grid — position/relief/waters, climate/vegetation, population, economy — and the book closes with two world-problems units (rainforest loss, desert spread, water conflicts, the Aral Sea).

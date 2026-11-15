@@ -1,6 +1,6 @@
 # Sources — Famine and food security — availability is not enough
 
-countries: Ethiopia, Brazil, Haiti, Costa Rica, Palestine, Angola, United Kingdom
+countries: Ethiopia, Brazil, Haiti, Costa Rica, Palestine, Angola, United Kingdom, Slovenia
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Brazil, Haiti, Costa Rica, Palestine, Angola, United Kingdo
 
 **Book 7:** *GCSE Geography AQA (Student Book)* (student book, English) — United Kingdom, Oxford University Press; year 2016; ISBN 978-0-19-836661-4; authors Nicholas Rowles, David Holmes, Bob Digby; series editor Simon Ross. Title as printed: GCSE Geography AQA (Student Book). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 356 (record figure; printed book pagination used in the rows below). Verdict: COMPLETE. Records note: 2 records / 1 distinct book (TSV release record + books.json record for the same book) / read via the book's archive.org source (archive.org item gcse-aqa-geography-student-book: EPUB + full OCR text of the same 355.2 MiB PDF whose byte size matches the books.json record's 372,407,314 bytes; title page and ISBN page verified from that OCR text) — the 372 MB GitHub release copy itself was not re-downloaded; the identical archive.org scan was read instead (all 24 chapters, contents pp. 4-5, glossary p. 346, index p. 350) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/united-kingdom-placements.md.
 
+**Book 8:** *Geografija 8* (student book, Slovenian) — Slovenia, Zavod RS za šolstvo, Ljubljana; year 2015; ISBN 978-961-03-0282-7 (html5). Title as printed: Geografija 8 (i-učbenik / interactive textbook). Grade: Grade 8 (student/teacher: STUDENT). PDF pages: not a PDF — ZIP package (interactive e-textbook) of 444,693,805 bytes; book pagination runs to printed p. 177+ (Kazalo); all 202 content HTML pages read — every extracted file's decompressed size verified against the ZIP central directory (203/203 files OK). Verdict: COMPLETE (text content; the package's videos/images were not individually viewed — the teaching text, headings, summaries and tasks were read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/slovenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Famine is a process, not an event | G12 student #78, printed pp. 209–211 |
@@ -26,8 +28,9 @@ countries: Ethiopia, Brazil, Haiti, Costa Rica, Palestine, Angola, United Kingdo
 | Palestine part — Unit 5, Lesson 3: famines — their causes, natural (cold waves, frost) and agricultural (pests and crop diseases) (stocked here as the closest existing lesson; the placements name resources-and-conflict/food-security-keeping-everyone-fed, which has no lesson folder) | Palestine, *Social Studies, Grade 9, Part Two*, Grade 9, Unit 5, Lesson 3: famines — their causes, natural (cold waves, frost) and agricultural (pests and crop diseases) — printed p. 68 |
 | Angola part — 5.2 A situação alimentar no planeta | Angola, *Geografia 5ª Classe*, Grade 5, 5.2 A situação alimentar no planeta — printed p. 65 |
 | United Kingdom part — §20.2 Impact of food insecurity | United Kingdom, *United Kingdom Grade 10 AQA Geography Student Book*, §20.2 Impact of food insecurity — printed p. 266 |
+| Slovenia part — Kmetijstvo in pridelava hrane (agriculture and food production) inside Izbrani svetovni problemi II | Slovenia, *Slovenia Grade 8 Geografija 8*, Kmetijstvo in pridelava hrane (agriculture and food production) inside Izbrani svetovni problemi II — printed p. 168 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Brazil, Costa Rica, Palestine, Angola, United Kingdom). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 7 countries (Ethiopia, Brazil, Costa Rica, Palestine, Angola, United Kingdom, Slovenia). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
 
 Haiti's own way (teacher sequence — evidence): World inequality is questioned through the words used for it (Nord/Sud, développé/sous-développé) and through Haiti's own case — a rich-country/poor-country comparison (Canada or USA vs Haiti), the independence debt, food insecurity and Covid vaccination in Haiti — with every claim built from authenticated statistics, graphs and maps crossed from local to world scale. That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
@@ -42,3 +45,5 @@ Palestine's own way (Grade 9, PS G9P2): the course closes at world scale — the
 Angola's own way (Grade 5): Geography opens as "geographic space" — the natural space and the human-built space (Luanda port, Benguela railway, Cambambe dam, Huambo housing) — before any physical topic; Angola's own position, borders, population figures (INE) and farm/fishery tables carry the world topics. That way is stocked here as the way Angola teaches this thing.
 
 United Kingdom's own way: A single exam-board (AQA) GCSE textbook organised as thematic units with numbered two-page spreads, every big topic anchored to a named case study (Typhoon Haiyan, Somerset Levels, Rio de Janeiro, Bristol, Nigeria, the Indus Basin, Lesotho Highlands) and a final unit on issue evaluation, fieldwork enquiries and cartographic/graphical/statistical skills.
+
+Slovenia's own way (Slovenia Grade 8 Geografija 8): Grade 8 is pure world regional geography, continent by continent (Africa, Australia/Oceania, the Americas and polar regions), each region worked through the same grid — position/relief/waters, climate/vegetation, population, economy — and the book closes with two world-problems units (rainforest loss, desert spread, water conflicts, the Aral Sea).

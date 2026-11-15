@@ -1,6 +1,6 @@
 # Sources — What geography is
 
-countries: Ethiopia, Saudi Arabia, Turkey, Bolivia, Angola, Dominican Republic
+countries: Ethiopia, Saudi Arabia, Turkey, Bolivia, Angola, Dominican Republic, Slovenia
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Saudi Arabia, Turkey, Bolivia, Angola, Dominican Republic
 
 **Book 8:** *Ciencias Sociales — Sexto Grado, Segundo Ciclo, Educación Primaria (Libro Abierto)* (student book, Spanish) — Dominican Republic, Ministerio de Educación (MINERD), Dirección de Currículo, República Dominicana; Libro Abierto Serie 1; ISBN 978-9945-646-03-0 (printed in the book). Title as printed: Ciencias Sociales — Sexto Grado, Segundo Ciclo, Educación Primaria (Libro Abierto). Grade 6 (student). 192 PDF pp. (cover verified against the record title; byte size 44,569,535 matches the GitHub release asset exactly and page count matches the record). Verdict: COMPLETE (combined book — Geography parts placed below; History/Civics parts named in the placements, not placed: Unidad 3 Historia general — nacimiento de la civilización, civilizaciones antiguas, Grecia y Roma, Edad Media, printed p. 45; Unidad 4 Civilizaciones modernas del siglo XVI a la actualidad, p. 60; Unidad 5 Historia de América, p. 76; Unidad 6 Historia de América y la época contemporánea, p. 92; Unidad 7 Historia dominicana 1916–1963, p. 108; Unidad 8 Historia dominicana desde 1965, p. 126; Unidad 9 Organización institucional del pueblo dominicano (Civics), p. 144; Unidad 10 Convivencia humana (Civics), p. 160). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/dominican-republic-placements.md.
 
+**Book 9:** *Geografija 1, gimnazija* (student book, Slovenian) — Slovenia, Zavod RS za šolstvo, Ljubljana; year 2015; ISBN 978-961-03-0284-1. Title as printed: Geografija 1 (gimnazija) (i-učbenik / interactive textbook). Grade: Grade 10 (first year of gimnazija) (student/teacher: STUDENT). PDF pages: not a PDF — ZIP package (interactive e-textbook) of 423,855,798 bytes; book pagination runs to printed p. 320 (Kazalo); all 359 content HTML pages extracted by range request and size-verified against the ZIP central directory, and read. Verdict: COMPLETE (text content; the package's videos/images were not individually viewed — the teaching text, headings, summaries and tasks were read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/slovenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The word | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 1, printed pp. 3–4 |
@@ -30,8 +32,9 @@ countries: Ethiopia, Saudi Arabia, Turkey, Bolivia, Angola, Dominican Republic
 | Angola part — 1.1.1 Introdução à Geografia (word origin; physical vs human geography; GPS/theodolite/census fieldwork) | Angola, *Geografia 5ª Classe*, Grade 5, 1.1.1 Introdução à Geografia (word origin; physical vs human geography; GPS/theodolite/census fieldwork) — printed p. 10 |
 | Dominican Republic part (Grade 6) — Geography as a science: concept and origin (Unidad 1, Geografía universal) | Dominican Republic, *Ciencias Sociales, Sexto Grado, Primaria (Libro Abierto)*, Grade 6, Geography as a science: concept and origin (Unidad 1, Geografía universal) — printed p. 11 |
 | Dominican Republic part (Grade 6) — Geographic space and its characteristics; the importance of the geographic landscape | Dominican Republic, *Ciencias Sociales, Sexto Grado, Primaria (Libro Abierto)*, Grade 6, Geographic space and its characteristics; the importance of the geographic landscape — printed p. 20 |
+| Slovenia part — Geografija kot znanost (geography as a science) | Slovenia, *Slovenia Grade 10 Geografija 1 (gimnazija)*, Geografija kot znanost (geography as a science) — printed p. 1 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Saudi Arabia, Turkey, Bolivia, Angola, Dominican Republic).**
+**Acceptance count: taught in 7 countries (Ethiopia, Saudi Arabia, Turkey, Bolivia, Angola, Dominican Republic, Slovenia).**
 
 Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
@@ -44,3 +47,5 @@ Searchable tags: what is geography, eratosthenes, geo graphos, definition, socia
 Angola's own way (Grade 5): Geography opens as "geographic space" — the natural space and the human-built space (Luanda port, Benguela railway, Cambambe dam, Huambo housing) — before any physical topic; Angola's own position, borders, population figures (INE) and farm/fishery tables carry the world topics. That way is stocked here as the way Angola teaches this thing.
 
 Dominican Republic's own way (Grade 6): The Libro Abierto primary books open with two full geography units before any history: geography as a science first (its concepts, principles and helper sciences), then a continent-by-continent tour that always pairs physical aspects with population and culture — and the year's history closes with the country's own lived geography, Hurricane Georges over the Dominican Republic.
+
+Slovenia's own way (Slovenia Grade 10 Geografija 1 (gimnazija)): the gimnazija first year is systematic physical geography first (Earth's interior, rocks, landforms, weather and climate, soils, vegetation, waters), then human geography (population, settlements, farming, industry and energy, transport, tourism), closing on sustainable development and spatial planning — with Slovenian cases (earthquake risk in Slovenia, the Port of Koper) set inside the world topics.

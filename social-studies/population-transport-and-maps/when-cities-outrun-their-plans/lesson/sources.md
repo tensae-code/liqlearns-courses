@@ -1,6 +1,6 @@
 # Sources — When cities outrun their plans
 
-countries: Ethiopia, Dominican Republic, Malaysia, Cambodia, Fiji
+countries: Ethiopia, Dominican Republic, Malaysia, Cambodia, Fiji, Slovenia
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). Editors: Sintayehu Teka (MSc) (Content Editor), Kassie Molla (MA) (Language Editor), Hirut Woldemichael (MA) (Curriculum Editor). Illustrator: Agenchw Nega (MSc). Designer: Geda Hoka (MA). Evaluators: Dereje Guteta (PhD), Tesfaye Shiferaw (PhD), Abebe Yibeltie (MA), Hussein Seid (MA). First published 2023 under GEQIP-E. ISBN 978-99990-0-049-9. Printed by Gravity Group IND LLC, 13th Industrial Area, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. Printed page = PDF page − 6 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md
 
@@ -20,6 +20,10 @@ countries: Ethiopia, Dominican Republic, Malaysia, Cambodia, Fiji
 
 **Book 9:** *Year 13 Integrative Geography* (student book, English) — Fiji, Curriculum Development Unit, Ministry of Education, Fiji; year 2018; ISBN no ISBN printed. Title as printed: Year 13 Integrative Geography. Grade: Year 13 (student/teacher: STUDENT). PDF pages: 263 (cover/title page verified against the record title; bibliography at printed p. 258 confirms the file is complete). Verdict: COMPLETE. Acquisition note: read from the books.json record's own source_url (Google Drive file named in the record; download resumed after a first timed-out partial file) after the grab.py GitHub API route failed as in Book 1. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
 
+**Book 10:** *Geografija 8* (student book, Slovenian) — Slovenia, Zavod RS za šolstvo, Ljubljana; year 2015; ISBN 978-961-03-0282-7 (html5). Title as printed: Geografija 8 (i-učbenik / interactive textbook). Grade: Grade 8 (student/teacher: STUDENT). PDF pages: not a PDF — ZIP package (interactive e-textbook) of 444,693,805 bytes; book pagination runs to printed p. 177+ (Kazalo); all 202 content HTML pages read — every extracted file's decompressed size verified against the ZIP central directory (203/203 files OK). Verdict: COMPLETE (text content; the package's videos/images were not individually viewed — the teaching text, headings, summaries and tasks were read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/slovenia-placements.md.
+
+**Book 11:** *Geografija 1, gimnazija* (student book, Slovenian) — Slovenia, Zavod RS za šolstvo, Ljubljana; year 2015; ISBN 978-961-03-0284-1. Title as printed: Geografija 1 (gimnazija) (i-učbenik / interactive textbook). Grade: Grade 10 (first year of gimnazija) (student/teacher: STUDENT). PDF pages: not a PDF — ZIP package (interactive e-textbook) of 423,855,798 bytes; book pagination runs to printed p. 320 (Kazalo); all 359 content HTML pages extracted by range request and size-verified against the ZIP central directory, and read. Verdict: COMPLETE (text content; the package's videos/images were not individually viewed — the teaching text, headings, summaries and tasks were read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/slovenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The colonial legacy and urban primacy | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 7, printed pp. 161–167 |
@@ -33,8 +37,10 @@ countries: Ethiopia, Dominican Republic, Malaysia, Cambodia, Fiji
 | Fiji part — Urbanization (urban land use; pull factors to Suva; disaster risks in urban centres and Fiji's response under the Disaster Management Act) | Fiji, *Fiji Year 10 Social Science*, Urbanization (urban land use; pull factors to Suva; disaster risks in urban centres and Fiji's response under the Disaster Management Act) — printed p. 88 |
 | Fiji part — 1.1.10 Problems associated with settlements, and 1.1.11 ways to minimize settlement problems | Fiji, *Fiji Years 11–12 Geography*, 1.1.10 Problems associated with settlements, and 1.1.11 ways to minimize settlement problems — printed p. 31 |
 | Fiji part — Chapter 7: problems associated with urbanisation and their solutions in First World and Third World countries; positive and negative impacts | Fiji, *Fiji Year 13 Geography*, Chapter 7: problems associated with urbanisation and their solutions in First World and Third World countries; positive and negative impacts — printed p. 199 |
+| Slovenia part — Favele (favelas) inside Prebivalstvo in gospodarstvo Južne Amerike | Slovenia, *Slovenia Grade 8 Geografija 8*, Favele (favelas) inside Prebivalstvo in gospodarstvo Južne Amerike — printed p. 135 |
+| Slovenia part — Urbanizacija podeželja (urbanisation of the countryside) | Slovenia, *Slovenia Grade 10 Geografija 1 (gimnazija)*, Urbanizacija podeželja (urbanisation of the countryside) — printed p. 217 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Dominican Republic, Malaysia, Cambodia, Fiji).**
+**Acceptance count: taught in 6 countries (Ethiopia, Dominican Republic, Malaysia, Cambodia, Fiji, Slovenia).**
 
 No book error is flagged for this lesson's pages in the placements. The student book's §7.3 outcome prints "dentify" for "identify"; the misprint is in a neighbouring section's outcome line, is taught nowhere, and is recorded here because the placements flag it for this unit.
 
@@ -53,3 +59,7 @@ Fiji's own way (Fiji Year 10 Social Science): Year 10 is the foundation for seni
 Fiji's own way (Fiji Years 11–12 Geography): Senior geography splits into Human and Physical volumes; the human volume is organised as four issue-chapters (population/settlement, tourism, agriculture, marine resources), each run the same way — nature, problems, ways of minimising, contemporary issues, future — with Pacific/Fiji theme-country cases.
 
 Fiji's own way (Fiji Year 13 Geography): The final year integrates everything at advanced level (plate tectonics to urban models, largely from world texts such as Waugh) and then lands it in Chapter 8, South Pacific Islands Geography — Oceania's geology, island types, development prospects and regionalism.
+
+Slovenia's own way (Slovenia Grade 8 Geografija 8): Grade 8 is pure world regional geography, continent by continent (Africa, Australia/Oceania, the Americas and polar regions), each region worked through the same grid — position/relief/waters, climate/vegetation, population, economy — and the book closes with two world-problems units (rainforest loss, desert spread, water conflicts, the Aral Sea).
+
+Slovenia's own way (Slovenia Grade 10 Geografija 1 (gimnazija)): the gimnazija first year is systematic physical geography first (Earth's interior, rocks, landforms, weather and climate, soils, vegetation, waters), then human geography (population, settlements, farming, industry and energy, transport, tourism), closing on sustainable development and spatial planning — with Slovenian cases (earthquake risk in Slovenia, the Port of Koper) set inside the world topics.

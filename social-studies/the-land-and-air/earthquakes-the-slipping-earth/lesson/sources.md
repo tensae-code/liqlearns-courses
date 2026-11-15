@@ -1,6 +1,6 @@
 # Sources — Earthquakes — the slipping Earth
 
-countries: Ethiopia, Barbados, Costa Rica, Indonesia, Dominican Republic, Eritrea, North Macedonia, Cambodia
+countries: Ethiopia, Barbados, Costa Rica, Indonesia, Dominican Republic, Eritrea, North Macedonia, Cambodia, Slovenia
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Barbados, Costa Rica, Indonesia, Dominican Republic, Eritre
 
 **Book 8:** *ផែនដីវិទ្យា ថ្នាក់ទី១១ (Earth Science, Grade 11)* (student book, Khmer) — Cambodia, MoEYS Publishing and Distribution House; year 2020 (11th printing); ISBN 978-995-001-049 (printed as 9-789-995-001-049). Title as printed: ផែនដីវិទ្យា ថ្នាក់ទី១១ (Earth Science, Grade 11) — Sala 00004283. Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 208. Verdict: COMPLETE. All books are Khmer-language MoEYS textbooks whose embedded text layer uses a legacy font encoding (pdftotext output is garbled), so every book was read visually page-by-page from rendered pages (cover, full contents, every chapter/lesson opening, and spreads through each Geography part); Tesseract khm OCR was attempted first and abandoned (>2 min/page on this host). Read in place from phase3-staging (on_disk) except the Grade 9 Geography excerpt and the Grades 10-12 Geography combined record, grabbed from the textbooks repo with grab.py. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cambodia-placements.md.
 
+**Book 9:** *Geografija 1, gimnazija* (student book, Slovenian) — Slovenia, Zavod RS za šolstvo, Ljubljana; year 2015; ISBN 978-961-03-0284-1. Title as printed: Geografija 1 (gimnazija) (i-učbenik / interactive textbook). Grade: Grade 10 (first year of gimnazija) (student/teacher: STUDENT). PDF pages: not a PDF — ZIP package (interactive e-textbook) of 423,855,798 bytes; book pagination runs to printed p. 320 (Kazalo); all 359 content HTML pages extracted by range request and size-verified against the ZIP central directory, and read. Verdict: COMPLETE (text content; the package's videos/images were not individually viewed — the teaching text, headings, summaries and tasks were read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/slovenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Strain and sudden slip | G12 student #12, printed pp. 15–16 |
@@ -29,8 +31,9 @@ countries: Ethiopia, Barbados, Costa Rica, Indonesia, Dominican Republic, Eritre
 | Eritrea part (ER G7 Social Studies) — Unit 8: 8.5 Earthquakes | Eritrea, *ER G7 Social Studies*, Unit 8: 8.5 Earthquakes — printed p. 118 |
 | North Macedonia part (Grade 10 mk-g10) — 6. Земјотреси | North Macedonia, *North Macedonia Grade 10 mk-g10*, 6. Земјотреси — printed p. 18 |
 | Cambodia part — Ch.1 L5 ការរញ្ជួយដី (earthquakes) [placement slug: earth-and-space/earthquakes-shaking-ground] | Cambodia, *Cambodia Grade 11 Earth Science*, Ch.1 L5 ការរញ្ជួយដី (earthquakes) — printed p. 38 |
+| Slovenia part — Potresi (earthquakes) inside Vulkanizem in potresi | Slovenia, *Slovenia Grade 10 Geografija 1 (gimnazija)*, Potresi (earthquakes) inside Vulkanizem in potresi — printed p. 18 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Barbados, Costa Rica, Indonesia, Dominican Republic, Eritrea, North Macedonia, Cambodia).**
+**Acceptance count: taught in 9 countries (Ethiopia, Barbados, Costa Rica, Indonesia, Dominican Republic, Eritrea, North Macedonia, Cambodia, Slovenia).**
 
 Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -49,3 +52,5 @@ Eritrea's own way (ER G7 Social Studies): Grade 7 turns fully to skills and Erit
 North Macedonia's own way (Grade 10 mk-g10): the gymnasium course restarts Geography as a systems science — Theme 1 works through the four spheres (lithosphere, atmosphere, hydrosphere, biosphere) lesson by lesson, then natural disasters by sphere; Theme 2 turns to people in geographical space (world urbanisation, energy, farming, industry, transport and trade, tourism, environmental impact); Theme 3 treats the world as one global system (globalisation, transport corridors and sea straits/canals, global networks and navigation systems, international organisations, global challenges and climate-change solutions). 43 numbered lessons.
 
 Cambodia's own way (Cambodia Grade 11 Earth Science): Earth Science is Cambodia's physical-geography strand — planet Earth and plate tectonics, water, a full atmosphere-and-climate course (ending with Cambodia's own weather and climate change), and the environment.
+
+Slovenia's own way (Slovenia Grade 10 Geografija 1 (gimnazija)): the gimnazija first year is systematic physical geography first (Earth's interior, rocks, landforms, weather and climate, soils, vegetation, waters), then human geography (population, settlements, farming, industry and energy, transport, tourism), closing on sustainable development and spatial planning — with Slovenian cases (earthquake risk in Slovenia, the Port of Koper) set inside the world topics.

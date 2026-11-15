@@ -1,6 +1,6 @@
 # Sources — Anatomy of a drainage basin
 
-countries: Ethiopia, Barbados, Dominican Republic, North Macedonia, Fiji
+countries: Ethiopia, Barbados, Dominican Republic, North Macedonia, Fiji, Slovenia
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). Editors: Sintayehu Teka (MSc) (Content Editor), Kassie Molla (MA) (Language Editor), Hirut Woldemichael (MA) (Curriculum Editor). Illustrator: Agenchw Nega (MSc). Designer: Geda Hoka (MA). Evaluators: Dereje Guteta (PhD), Tesfaye Shiferaw (PhD), Abebe Yibeltie (MA), Hussein Seid (MA). First published 2023 under GEQIP-E. ISBN 978-99990-0-049-9. Printed by Gravity Group IND LLC, 13th Industrial Area, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. Printed page = PDF page − 6 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Barbados, Dominican Republic, North Macedonia, Fiji
 
 **Book 6:** *Year 13 Integrative Geography* (student book, English) — Fiji, Curriculum Development Unit, Ministry of Education, Fiji; year 2018; ISBN no ISBN printed. Title as printed: Year 13 Integrative Geography. Grade: Year 13 (student/teacher: STUDENT). PDF pages: 263 (cover/title page verified against the record title; bibliography at printed p. 258 confirms the file is complete). Verdict: COMPLETE. Acquisition note: read from the books.json record's own source_url (Google Drive file named in the record; download resumed after a first timed-out partial file) after the grab.py GitHub API route failed as in Book 1. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
 
+**Book 7:** *Geografija 1, gimnazija* (student book, Slovenian) — Slovenia, Zavod RS za šolstvo, Ljubljana; year 2015; ISBN 978-961-03-0284-1. Title as printed: Geografija 1 (gimnazija) (i-učbenik / interactive textbook). Grade: Grade 10 (first year of gimnazija) (student/teacher: STUDENT). PDF pages: not a PDF — ZIP package (interactive e-textbook) of 423,855,798 bytes; book pagination runs to printed p. 320 (Kazalo); all 359 content HTML pages extracted by range request and size-verified against the ZIP central directory, and read. Verdict: COMPLETE (text content; the package's videos/images were not individually viewed — the teaching text, headings, summaries and tasks were read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/slovenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — One basin, one outlet | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 3, printed pp. 58–59 |
@@ -24,8 +26,9 @@ countries: Ethiopia, Barbados, Dominican Republic, North Macedonia, Fiji
 | Dominican Republic part (Grade 10) — The hydrological cycle (Unidad 3: El agua en los continentes) | Dominican Republic, *Ciencias Sociales, Cuarto Grado, Secundaria (Libro Abierto)*, Grade 10, The hydrological cycle (Unidad 3: El agua en los continentes) — printed p. 42 (the placements name the target as earth-and-space/the-hydrological-cycle; that slug does not exist, so this placement is stocked in this closest covering lesson, with the original slug recorded here) |
 | North Macedonia part (Grade 10 mk-g10) — 16. Реки и речни сливови | North Macedonia, *North Macedonia Grade 10 mk-g10*, 16. Реки и речни сливови — printed p. 47 |
 | Fiji part — Chapter 2: development of a river system — processes and landforms created | Fiji, *Fiji Year 13 Geography*, Chapter 2: development of a river system — processes and landforms created — printed p. 59 |
+| Slovenia part — Površinske in podzemne vode: Porečje in njegove prvine (the drainage basin and its elements) | Slovenia, *Slovenia Grade 10 Geografija 1 (gimnazija)*, Površinske in podzemne vode: Porečje in njegove prvine (the drainage basin and its elements) — printed p. 158 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Barbados, Dominican Republic, North Macedonia, Fiji).**
+**Acceptance count: taught in 6 countries (Ethiopia, Barbados, Dominican Republic, North Macedonia, Fiji, Slovenia).**
 
 Barbados's own way: this is the shared Caribbean CSEC examination textbook used in Barbados — every world process is re-taught through Caribbean case studies (the Caribbean plate, Montserrat's volcano, Jamaica's coasts and Kingston's urban problems, St Lucia's reefs, Bahamas/Jamaica/Puerto Rico karst, Guyana's rivers), map and field skills are folded into the chapters, and the course ends in a School-Based Assessment fieldwork project. That way is stocked here as the way Barbados teaches this thing; it does not change the acceptance count above.
 
@@ -38,3 +41,5 @@ Dominican Republic's own way (Grade 10): This is the physical-geography year: th
 North Macedonia's own way (Grade 10 mk-g10): the gymnasium course restarts Geography as a systems science — Theme 1 works through the four spheres (lithosphere, atmosphere, hydrosphere, biosphere) lesson by lesson, then natural disasters by sphere; Theme 2 turns to people in geographical space (world urbanisation, energy, farming, industry, transport and trade, tourism, environmental impact); Theme 3 treats the world as one global system (globalisation, transport corridors and sea straits/canals, global networks and navigation systems, international organisations, global challenges and climate-change solutions). 43 numbered lessons.
 
 Fiji's own way (Fiji Year 13 Geography): The final year integrates everything at advanced level (plate tectonics to urban models, largely from world texts such as Waugh) and then lands it in Chapter 8, South Pacific Islands Geography — Oceania's geology, island types, development prospects and regionalism.
+
+Slovenia's own way (Slovenia Grade 10 Geografija 1 (gimnazija)): the gimnazija first year is systematic physical geography first (Earth's interior, rocks, landforms, weather and climate, soils, vegetation, waters), then human geography (population, settlements, farming, industry and energy, transport, tourism), closing on sustainable development and spatial planning — with Slovenian cases (earthquake risk in Slovenia, the Port of Koper) set inside the world topics.

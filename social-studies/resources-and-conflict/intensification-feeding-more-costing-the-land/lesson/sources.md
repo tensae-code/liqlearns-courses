@@ -1,6 +1,6 @@
 # Sources — Intensification — feeding more, costing the land
 
-countries: Ethiopia, Nauru, Tuvalu, Niue, Fiji
+countries: Ethiopia, Nauru, Tuvalu, Niue, Fiji, Slovenia
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Nauru, Tuvalu, Niue, Fiji
 
 **Book 6:** *An Introduction to Human Geography for Year 11 and Year 12 Students (record title: "Year 11 and Year 12 Geography")* (student book, English) — Fiji, Ministry of Education, Fiji; year 2015, First Edition (written and compiled by Maciu Rika and Elina Vosaicake); ISBN no ISBN printed. Title as printed: An Introduction to Human Geography for Year 11 and Year 12 Students (record title: "Year 11 and Year 12 Geography"). Grade: Years 11–12 (student/teacher: STUDENT). PDF pages: 92 (cover/title page verified against the record title). Verdict: COMPLETE. Acquisition note: read from the books.json record's own Wayback source_url (ministry original) after the grab.py GitHub API route failed as in Book 1. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
 
+**Book 7:** *Geografija 1, gimnazija* (student book, Slovenian) — Slovenia, Zavod RS za šolstvo, Ljubljana; year 2015; ISBN 978-961-03-0284-1. Title as printed: Geografija 1 (gimnazija) (i-učbenik / interactive textbook). Grade: Grade 10 (first year of gimnazija) (student/teacher: STUDENT). PDF pages: not a PDF — ZIP package (interactive e-textbook) of 423,855,798 bytes; book pagination runs to printed p. 320 (Kazalo); all 359 content HTML pages extracted by range request and size-verified against the ZIP central directory, and read. Verdict: COMPLETE (text content; the package's videos/images were not individually viewed — the teaching text, headings, summaries and tasks were read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/slovenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What intensification is | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 6, printed pp. 162–164 |
@@ -24,8 +26,9 @@ countries: Ethiopia, Nauru, Tuvalu, Niue, Fiji
 | Tuvalu part — How people are hurting the natural environment today (short fallows, chemical fertilisers and insecticides, forest clearing, monocrops vs multicropping) | Tuvalu, *People and the Natural Environment in the Pacific*, Grade 5, How people are hurting the natural environment today (short fallows, chemical fertilisers and insecticides, forest clearing, monocrops vs multicropping) — printed p. 17 |
 | Niue part — How people hurt the land today (shortened fallow, chemical fertilisers and insecticides, forest clearing and monocrops vs multicropping) | Niue, *People and the Natural Environment in the Pacific*, Grade 5, How people hurt the land today (shortened fallow, chemical fertilisers and insecticides, forest clearing and monocrops vs multicropping) — printed pp. 17–18 |
 | Fiji part — 3.1.6 Problems faced by agriculture; 3.1.7 problems caused by agriculture; 3.1.8 minimising the problems; 3.1.9 contemporary issues; 3.1.10 the future of the agriculture sector | Fiji, *Fiji Years 11–12 Geography*, 3.1.6 Problems faced by agriculture; 3.1.7 problems caused by agriculture; 3.1.8 minimising the problems; 3.1.9 contemporary issues; 3.1.10 the future of the agriculture sector — printed p. 61 |
+| Slovenia part — Okoljski problemi kmetijstva in integrirana, biološka pridelava hrane (farming's environmental problems; integrated and organic food production) | Slovenia, *Slovenia Grade 10 Geografija 1 (gimnazija)*, Okoljski problemi kmetijstva in integrirana, biološka pridelava hrane (farming's environmental problems; integrated and organic food production) — printed p. 246 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Nauru, Tuvalu, Niue, Fiji).**
+**Acceptance count: taught in 6 countries (Ethiopia, Nauru, Tuvalu, Niue, Fiji, Slovenia).**
 
 Niue's own way: Niue uses the shared Pacific ESD reader suite (Niue advisor Birtha Togahai) — land Geography is taught through Pacific farming itself: taro, pulaka and the coconut "tree of life", with Niue's own crops, exports and name-story ("behold the coconut") as anchor examples, and shifting cultivation/fallowing taught as sound science. That way is stocked here as the way Niue teaches this thing.
 
@@ -38,3 +41,5 @@ No book error is flagged for this lesson's pages in the placements. The student 
 Searchable tags: agricultural intensification, green revolution, sustainable intensification, monocropping, ethiopia, social studies, resources and conflict, Nauru, People and the Natural Environment in the Pacific, monocrops, Tuvalu, Niue
 
 Fiji's own way (Fiji Years 11–12 Geography): Senior geography splits into Human and Physical volumes; the human volume is organised as four issue-chapters (population/settlement, tourism, agriculture, marine resources), each run the same way — nature, problems, ways of minimising, contemporary issues, future — with Pacific/Fiji theme-country cases.
+
+Slovenia's own way (Slovenia Grade 10 Geografija 1 (gimnazija)): the gimnazija first year is systematic physical geography first (Earth's interior, rocks, landforms, weather and climate, soils, vegetation, waters), then human geography (population, settlements, farming, industry and energy, transport, tourism), closing on sustainable development and spatial planning — with Slovenian cases (earthquake risk in Slovenia, the Port of Koper) set inside the world topics.

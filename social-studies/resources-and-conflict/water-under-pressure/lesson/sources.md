@@ -1,6 +1,6 @@
 # Sources — Water under pressure
 
-countries: Ethiopia, Brazil, France, Haiti, Costa Rica, Palestine, Angola, Bangladesh, Egypt, Samoa, Malaysia, India, Cambodia
+countries: Ethiopia, Brazil, France, Haiti, Costa Rica, Palestine, Angola, Bangladesh, Egypt, Samoa, Malaysia, India, Cambodia, Slovenia
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -32,6 +32,8 @@ countries: Ethiopia, Brazil, France, Haiti, Costa Rica, Palestine, Angola, Bangl
 
 **Book 15:** *ភូមិវិទ្យា ថ្នាក់ទី១១ (Geography, Grade 11)* (student book, Khmer) — Cambodia, MoEYS Publishing and Distribution House; year 2020 (11th printing); ISBN 978-995-001-018 (printed as 9-789-995-001-018). Title as printed: ភូមិវិទ្យា ថ្នាក់ទី១១ (Geography, Grade 11) — Sala 00004288. Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 208. Verdict: COMPLETE. All books are Khmer-language MoEYS textbooks whose embedded text layer uses a legacy font encoding (pdftotext output is garbled), so every book was read visually page-by-page from rendered pages (cover, full contents, every chapter/lesson opening, and spreads through each Geography part); Tesseract khm OCR was attempted first and abandoned (>2 min/page on this host). Read in place from phase3-staging (on_disk) except the Grade 9 Geography excerpt and the Grades 10-12 Geography combined record, grabbed from the textbooks repo with grab.py. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cambodia-placements.md.
 
+**Book 16:** *Geografija 1, gimnazija* (student book, Slovenian) — Slovenia, Zavod RS za šolstvo, Ljubljana; year 2015; ISBN 978-961-03-0284-1. Title as printed: Geografija 1 (gimnazija) (i-učbenik / interactive textbook). Grade: Grade 10 (first year of gimnazija) (student/teacher: STUDENT). PDF pages: not a PDF — ZIP package (interactive e-textbook) of 423,855,798 bytes; book pagination runs to printed p. 320 (Kazalo); all 359 content HTML pages extracted by range request and size-verified against the ZIP central directory, and read. Verdict: COMPLETE (text content; the package's videos/images were not individually viewed — the teaching text, headings, summaries and tasks were read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/slovenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The squeeze on freshwater | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 3, printed pp. 65–67 |
@@ -48,12 +50,13 @@ countries: Ethiopia, Brazil, France, Haiti, Costa Rica, Palestine, Angola, Bangl
 | India part (Grade 8 Resources and Development) — Ch.2: fresh water availability, water scarcity and conservation | India, *India Grade 8 Resources and Development*, Ch.2: fresh water availability, water scarcity and conservation — printed p. 15 |
 | India part (Grade 10 Contemporary India-II) — Ch.3 Water Resources: water scarcity and its causes (over-exploitation, unequal access, industrialisation) | India, *India Grade 10 Contemporary India-II*, Ch.3 Water Resources: water scarcity and its causes (over-exploitation, unequal access, industrialisation) — printed p. 23 |
 | Cambodia part — Ch.4 L2 កង្វល់ទឹក (troubles of water) | Cambodia, *Cambodia Grade 11 Geography*, Ch.4 L2 កង្វល់ទឹក (troubles of water) — printed p. 98 |
+| Slovenia part — Pomen vode za človeka (the importance of water for people) inside Okoljski problemi voda | Slovenia, *Slovenia Grade 10 Geografija 1 (gimnazija)*, Pomen vode za človeka (the importance of water for people) inside Okoljski problemi voda — printed p. 171 |
 
 | France part — Thème 1: L'eau douce, une ressource essentielle (stress hydrique, usages, perspectives) | France, *Géographie 2de GT, Manuel Libre de Géographie, Seconde*, Grade 10, Sommaire Thème 1 |
 | Haiti part — Séance 2, Temps 3-4 Le problème de l'eau en Haïti (bassins versants, état du réseau hydrographique, accès à l'eau potable; Rivière Froide, Rivière Grise, Rivière du Haut du Cap) (teacher sequence — evidence) | Haiti, *Haïti verte. Préserver et valoriser les ressources et l'environnement, protéger les hommes.* (teacher sequence), Grade 7, Séance 2, Temps 3-4 Le problème de l'eau en Haïti (bassins versants, état du réseau hydrographique, accès à l'eau potable; Rivière Froide, Rivière Grise, Rivière du Haut du Cap) — printed p. 8 |
 | Costa Rica part — debates on the use of water as a resource today | Costa Rica, *Antología CONED 8*, Grade 8, Unit 1 Tema 2 B — printed p. 38 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Brazil, France, Costa Rica, Palestine, Angola, Bangladesh, Egypt, Samoa, Malaysia, India, Cambodia). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 13 countries (Ethiopia, Brazil, France, Costa Rica, Palestine, Angola, Bangladesh, Egypt, Samoa, Malaysia, India, Cambodia, Slovenia). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
 
 Haiti's own way (teacher sequence — evidence): The environment is studied from the schoolyard outward — a field diagnosis of the local environment (bare soils, dried springs, waste, noise), scaled up to a map and graph of the whole territory's problems (deforestation, erosion, water), then turned into a pupil-designed sustainable land-use project for a greener Haiti. That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
@@ -80,3 +83,5 @@ India's own way (Grade 8 Resources and Development): Grade 8 is a resources year
 India's own way (Grade 10 Contemporary India-II): Contemporary India-II is the human/economic book, matching Part I's physical book: India's resources, forests, water, agriculture, minerals and energy, manufacturing and the "lifelines" (transport, communication, trade) — taught throughout as development-versus-environment argument, with movements and case studies (Chipko, Narmada Bachao, rooftop rainwater harvesting in the Thar) carrying the criticism.
 
 Cambodia's own way (Cambodia Grade 11 Geography): the standalone upper-secondary Geography book is a human-impact course — people reshaping the earth, people destroying natural resources, the sea, pollution of air/water/noise/waste, economic globalisation, city and countryside, and a world of uneven development.
+
+Slovenia's own way (Slovenia Grade 10 Geografija 1 (gimnazija)): the gimnazija first year is systematic physical geography first (Earth's interior, rocks, landforms, weather and climate, soils, vegetation, waters), then human geography (population, settlements, farming, industry and energy, transport, tourism), closing on sustainable development and spatial planning — with Slovenian cases (earthquake risk in Slovenia, the Port of Koper) set inside the world topics.

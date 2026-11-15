@@ -103,7 +103,7 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **1558**
+Geography lessons across the eight Geography titles: **1588**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -1013,3 +1013,23 @@ Problems, Global Problems Of Humanity, Global
 Scientific Forecasting, Human Impact On Nature, Human
 Interaction With Nature and Industry And The
 Environment.
+
++30 for Slovenia, 2026-11-14 — The Land and Air:
+Antarctica, Australias Climates, Australias Landforms,
+Central America And The Caribbean, Earthquake Risk In
+Slovenia, East Africa The Highlands, Glacial
+Landscapes, Karst Landscapes Of Slovenia, Latin America
+As A Whole, Mexico Land And People, New Zealand Land
+And People, North Americas Climates And Vegetation,
+North Americas Landforms, North Americas Rivers And
+Lakes, Oceania Atolls And Islands, Slovenias Alpine
+Landscapes, Slovenias Climate Vegetation And Waters,
+Slovenias Location And Borders, Slovenias Mediterranean
+Landscapes, Slovenias Pannonian Landscapes, Slovenias
+Prealpine Landscapes, South Americas Landforms And The
+Andes, The Arctic, The Ljubljana Basin and West Africa
+Region; Population, Transport and Maps: The Port Of
+Koper And Modern Infrastructure and The Suez Canal;
+People and Resources: Apartheid South Africas Racial
+System; Global Issues: Nuclear Testing In Oceania and
+The Shrinking Aral Sea.

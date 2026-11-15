@@ -1,6 +1,6 @@
 # Sources — The digital divide — connected and left out
 
-countries: Ethiopia, Guatemala, Costa Rica, Zimbabwe, Malaysia
+countries: Ethiopia, Guatemala, Costa Rica, Zimbabwe, Malaysia, Slovenia
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Guatemala, Costa Rica, Zimbabwe, Malaysia
 
 **Book 7:** *Geografi Tingkatan 2, Buku Teks (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Kementerian Pendidikan Malaysia (Ministry of Education Malaysia); produced by IMS Books Trading Sdn. Bhd.; year 2017 (first printing 2017); ISBN 978-967-0463-47-6. Title as printed: Geografi Tingkatan 2, Buku Teks (Kurikulum Standard Sekolah Menengah, KSSM). Grade 8 / Tingkatan 2 (student/teacher: STUDENT). PDF pages: 176 (cover verified against the record title — "GEOGRAFI TINGKATAN 2"; printed pagination per the book's contents). Verdict: COMPLETE. Records note: covers both Tingkatan 2 records — the TSV release record (mid-size-books-2, read here, 77,312,329 bytes) and the books.json record, whose tree path does not exist in the repo tree (release asset only, as for Tingkatan 1). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/malaysia-placements.md.
 
+**Book 8:** *Geografija 1, gimnazija* (student book, Slovenian) — Slovenia, Zavod RS za šolstvo, Ljubljana; year 2015; ISBN 978-961-03-0284-1. Title as printed: Geografija 1 (gimnazija) (i-učbenik / interactive textbook). Grade: Grade 10 (first year of gimnazija) (student/teacher: STUDENT). PDF pages: not a PDF — ZIP package (interactive e-textbook) of 423,855,798 bytes; book pagination runs to printed p. 320 (Kazalo); all 359 content HTML pages extracted by range request and size-verified against the ZIP central directory, and read. Verdict: COMPLETE (text content; the package's videos/images were not individually viewed — the teaching text, headings, summaries and tasks were read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/slovenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What the divide is | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 7, printed pp. 208–210 |
@@ -27,8 +29,9 @@ countries: Ethiopia, Guatemala, Costa Rica, Zimbabwe, Malaysia
 | Costa Rica part — reduction of space-time barriers — technological advances, telecommunications and their present effects, social networks | Costa Rica, *Estudios Sociales 11 (Porras y Gamboa)*, Grade 11, Unit 1 C — printed p. 28 |
 | Zimbabwe part (Grade 6) — Unit 26: Information and Communication Technology development (teacher guide — evidence) | Zimbabwe, *PlusOne Social Science Grade 6 Teacher's Guide* (teacher guide), Unit 26: Information and Communication Technology development — printed p. 57 |
 | Malaysia part (MY T2 Geografi Tingkatan 2) — Bab 6 Telekomunikasi di Malaysia: telecommunication tools and their advance, importance, effects on national development and ethical use | Malaysia, *MY T2 Geografi*, Bab 6 Telekomunikasi di Malaysia: telecommunication tools and their advance, importance, effects on national development and ethical use — printed pp. 90-102 |
+| Slovenia part — Telekomunikacijska omrežja (telecommunications networks) inside Vrste prometa in telekomunikacijskih omrežij | Slovenia, *Slovenia Grade 10 Geografija 1 (gimnazija)*, Telekomunikacijska omrežja (telecommunications networks) inside Vrste prometa in telekomunikacijskih omrežij — printed p. 276 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Guatemala, Costa Rica, Malaysia). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 5 countries (Ethiopia, Guatemala, Costa Rica, Malaysia, Slovenia). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
 
 No book error is flagged for this lesson's pages in the placements. The student book's body numbering for Unit Two drifts from its own contents (regions printed as 2.4, factors as 2.5, local classification as 2.6, where the contents and the teacher guide's contents agree on 2.3, 2.4 and 2.5); this lesson follows the contents numbering and teaches no misprint.
 
@@ -41,3 +44,5 @@ Searchable tags: digital divide, ICT access, telemedicine, e-learning, ethiopia,
 Zimbabwe's own way (Grade 6) (teacher guide — evidence): Grade 6 shelter becomes settlement geography — development of settlements in Zimbabwe, siting of shelter in rural and urban areas, and disaster and risk management; transport adds road signs/signals/markings and Zimbabwe's transport and communication links with other countries, plus ICT development. That evidence is stocked here as the way Zimbabwe teaches this thing; it does not change the acceptance count above.
 
 Malaysia's own way (MY T2 Geografi Tingkatan 2): the year pairs map skills (scale, topographic maps) with weather and climate, then transport and telecommunications as the human-geography core, an Asia regional study, and global warming with green technology as the environmental close.
+
+Slovenia's own way (Slovenia Grade 10 Geografija 1 (gimnazija)): the gimnazija first year is systematic physical geography first (Earth's interior, rocks, landforms, weather and climate, soils, vegetation, waters), then human geography (population, settlements, farming, industry and energy, transport, tourism), closing on sustainable development and spatial planning — with Slovenian cases (earthquake risk in Slovenia, the Port of Koper) set inside the world topics.

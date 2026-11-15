@@ -3845,3 +3845,65 @@ Industry And The Environment (printed p. 79) — every
 new lesson is taught in 1 country (Uzbekistan), 8
 questions each.
 Geography lessons: 1450 → 1558.
+
+
+## Slovenia — Geography expansion (merged 2026-11-14)
+151 placement lines stocked from Slovenia's 3 placed
+books (3 records / 3 distinct books) — the Grade 8
+*Geografija 8*, the Grade 9 *Geografija 9* and the
+Grade 10 (first year of gimnazija) *Geografija 1* (all
+Slovenian student books, Zavod RS za šolstvo,
+Ljubljana, 2015; interactive e-textbooks read by Range
+extraction of every content HTML file from each ZIP
+package, sizes verified against the ZIP central
+directory). All three are COMPLETE for text content.
+TALLY DISCREPANCY: the placements file's own per-book
+tallies (57 + 38 + 56) sum to 151, but a line-by-line
+count gives Book 1 = 58 (37 to existing lessons + 21
+NEW LESSON NEEDED, not 57 = 37 + 20) and Book 2 = 37
+(19 to existing + 18 NEW, not 38 = 20 + 18); Book 3 =
+56 (49 + 7) agrees — all 151 lines were stocked as
+written. Stocked into standing lessons (111 placements
+across 86 lessons), including 6 placements flagged NEW
+LESSON NEEDED whose slug already exists as a lesson —
+people-and-resources/energy-resources (2 placements),
+global-issues/reduce-reuse-recycle-the-3rs,
+the-land-and-air/regions-what-they-are-and-their-kinds,
+global-issues/floods-causes-damage-and-protection and
+population-transport-and-maps/rural-and-urban-spaces —
+stocked into those existing lessons, no duplicate
+built. No slug remappings. 30 NEW lessons built (40
+placements) — **The Land and Air**: Antarctica (printed
+p. 150), Australias Climates (printed p. 54),
+Australias Landforms (printed p. 49), Central America
+And The Caribbean (printed p. 111), Earthquake Risk In
+Slovenia (printed p. 18), East Africa The Highlands
+(printed p. 28), Glacial Landscapes (printed p. 46),
+Karst Landscapes Of Slovenia (printed p. 181; printed
+p. 194; printed p. 46), Latin America As A Whole
+(printed p. 143), Mexico Land And People (printed p.
+111), New Zealand Land And People (printed p. 70),
+North Americas Climates And Vegetation (printed p. 90),
+North Americas Landforms (printed p. 90), North
+Americas Rivers And Lakes (printed p. 90), Oceania
+Atolls And Islands (printed p. 70; printed p. 79),
+Slovenias Alpine Landscapes (printed p. 129; printed p.
+137; printed p. 145), Slovenias Climate Vegetation And
+Waters (printed p. 27; printed p. 27), Slovenias
+Location And Borders (printed p. 1), Slovenias
+Mediterranean Landscapes (printed p. 204; printed p.
+214), Slovenias Pannonian Landscapes (printed p. 222;
+printed p. 233), Slovenias Prealpine Landscapes
+(printed p. 153; printed p. 163), South Americas
+Landforms And The Andes (printed p. 126), The Arctic
+(printed p. 150; printed p. 150), The Ljubljana Basin
+(printed p. 171), West Africa Region (printed p. 28);
+**Population, Transport and Maps**: The Port Of Koper
+And Modern Infrastructure (printed p. 287), The Suez
+Canal (printed p. 22); **People and Resources**:
+Apartheid South Africas Racial System (printed p. 36);
+**Global Issues**: Nuclear Testing In Oceania (printed
+p. 70), The Shrinking Aral Sea (printed p. 157) — every
+new lesson is taught in 1 country (Slovenia), 8
+questions each.
+Geography lessons: 1558 → 1588.

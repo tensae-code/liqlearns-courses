@@ -1,6 +1,6 @@
 # Sources — The world's population explosion
 
-countries: Ethiopia, Palestine, Cambodia
+countries: Ethiopia, Palestine, Cambodia, Slovenia
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). Editors: Sintayehu Teka (MSc) (Content Editor), Kassie Molla (MA) (Language Editor), Hirut Woldemichael (MA) (Curriculum Editor). Illustrator: Agenchw Nega (MSc). Designer: Geda Hoka (MA). Evaluators: Dereje Guteta (PhD), Tesfaye Shiferaw (PhD), Abebe Yibeltie (MA), Hussein Seid (MA). First published 2023 under GEQIP-E. ISBN 978-99990-0-049-9. Printed by Gravity Group IND LLC, 13th Industrial Area, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. Printed page = PDF page − 6 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Palestine, Cambodia
 
 **Book 4:** *សិក្សាសង្គម ថ្នាក់ទី៧ (Social Studies, Grade 7)* (student book, Khmer) — Cambodia, MoEYS Publishing and Distribution House; year 2020 (14th printing); ISBN 978-995-000-820 (printed as 9-789-995-000-820). Title as printed: សិក្សាសង្គម ថ្នាក់ទី៧ (Social Studies, Grade 7) — Sala 00004321. Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 304. Verdict: COMPLETE. All books are Khmer-language MoEYS textbooks whose embedded text layer uses a legacy font encoding (pdftotext output is garbled), so every book was read visually page-by-page from rendered pages (cover, full contents, every chapter/lesson opening, and spreads through each Geography part); Tesseract khm OCR was attempted first and abandoned (>2 min/page on this host). Read in place from phase3-staging (on_disk) except the Grade 9 Geography excerpt and the Grades 10-12 Geography combined record, grabbed from the textbooks repo with grab.py. Non-Geography parts named, not placed: History section (ប្រវត្តិវិទ្យា, printed pp.76–150: ancient world — Egypt, Mesopotamia, Israel, India, China, Rome, ancient America; Cambodia — prehistory, Funan 50–550, Chenla 550–802; regional Asia); Civics section (សីលធម៌ ពលរដ្ឋវិទ្យា, printed pp.152–246: gender and human rights, friendship, family, living with the community, goal-setting for life, Buddhism and Hinduism); Economics section (សេដ្ឋវិទ្យា, printed pp.248–302: needs and money, work, government and the economy, economic security and hygiene). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cambodia-placements.md.
 
+**Book 5:** *Geografija 8* (student book, Slovenian) — Slovenia, Zavod RS za šolstvo, Ljubljana; year 2015; ISBN 978-961-03-0282-7 (html5). Title as printed: Geografija 8 (i-učbenik / interactive textbook). Grade: Grade 8 (student/teacher: STUDENT). PDF pages: not a PDF — ZIP package (interactive e-textbook) of 444,693,805 bytes; book pagination runs to printed p. 177+ (Kazalo); all 202 content HTML pages read — every extracted file's decompressed size verified against the ZIP central directory (203/203 files OK). Verdict: COMPLETE (text content; the package's videos/images were not individually viewed — the teaching text, headings, summaries and tasks were read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/slovenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — 1.6 billion to 6.1 billion | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 4, printed pp. 88–95 |
@@ -18,8 +20,9 @@ countries: Ethiopia, Palestine, Cambodia
 | Teaching pattern and answer keys (teacher guide — evidence) | Ethiopia, *Geography, Teacher Guide, Grade 10*, Unit 4, guide printed pp. 65–84 |
 | Palestine part — Unit 5, Lesson 2: the population explosion — its causes and why it shows in developing countries, not developed ones (stocked here as the closest existing lesson; the placements name population-transport-and-maps/too-many-people-population-growth-and-pressure, which has no lesson folder) | Palestine, *Social Studies, Grade 9, Part Two*, Grade 9, Unit 5, Lesson 2: the population explosion — its causes and why it shows in developing countries, not developed ones — printed p. 58 |
 | Cambodia part — Geography Ch.4 L1 កំណើនប្រជាជនពិភពលោក (world population growth 1850–2010) | Cambodia, *Cambodia Grade 7 Social Studies*, Geography Ch.4 L1 កំណើនប្រជាជនពិភពលោក (world population growth 1850–2010) — printed p. 66 |
+| Slovenia part — Svetovno prebivalstvo (world population) inside Izbrani svetovni problemi II | Slovenia, *Slovenia Grade 8 Geografija 8*, Svetovno prebivalstvo (world population) inside Izbrani svetovni problemi II — printed p. 168 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Palestine, Cambodia).**
+**Acceptance count: taught in 4 countries (Ethiopia, Palestine, Cambodia, Slovenia).**
 
 No book error is flagged for this lesson's pages in the placements. The Grade 11 book's telling of the same explosion — why deaths fell first — stands as its own lesson; this is the Grade 10 acceleration account and does not repeat it.
 
@@ -28,3 +31,5 @@ Searchable tags: population explosion, 1.6 billion, 6.1 billion, doubling time, 
 Palestine's own way (Grade 9, PS G9P2): the course closes at world scale — the diversity of natural environments, peoples and economies, then the age's challenges (population explosion, famines, poverty) framed as matters for international cooperation.
 
 Cambodia's own way (Cambodia Grade 7 Social Studies): from Grade 7 the combined Social Studies book splits into four named subject sections; its Geography section teaches people-in-environments — hot zones, deserts and oases, polar peoples, climate zones — through world case studies (Kenya farmers, Amazon, Inuit, Sahara oil) before turning to world population.
+
+Slovenia's own way (Slovenia Grade 8 Geografija 8): Grade 8 is pure world regional geography, continent by continent (Africa, Australia/Oceania, the Americas and polar regions), each region worked through the same grid — position/relief/waters, climate/vegetation, population, economy — and the book closes with two world-problems units (rainforest loss, desert spread, water conflicts, the Aral Sea).

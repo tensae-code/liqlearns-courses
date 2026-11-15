@@ -1,6 +1,6 @@
 # Sources — Reading a landscape from its map
 
-countries: Ethiopia, Bangladesh, Malaysia
+countries: Ethiopia, Bangladesh, Malaysia, Slovenia
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -12,6 +12,10 @@ countries: Ethiopia, Bangladesh, Malaysia
 
 **Book 5:** *Geografi Tingkatan 4 (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Kementerian Pendidikan Malaysia (Ministry of Education Malaysia); produced by Kubu Publications; year 2019 (first printing 2019); ISBN 978-967-17523-0-2. Title as printed: Geografi Tingkatan 4 (Kurikulum Standard Sekolah Menengah, KSSM). Grade 10 / Tingkatan 4 (student/teacher: STUDENT). PDF pages: 234 (cover verified against the record title — "GEOGRAFI TINGKATAN 4"; printed pagination per the book's contents). Verdict: COMPLETE. Records note: covers both Tingkatan 4 records — the TSV release record (mid-size-books-2, read here, 96,802,047 bytes) and the books.json record, whose tree path does not exist in the repo tree (release asset only). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/malaysia-placements.md.
 
+**Book 6:** *Geografija 8* (student book, Slovenian) — Slovenia, Zavod RS za šolstvo, Ljubljana; year 2015; ISBN 978-961-03-0282-7 (html5). Title as printed: Geografija 8 (i-učbenik / interactive textbook). Grade: Grade 8 (student/teacher: STUDENT). PDF pages: not a PDF — ZIP package (interactive e-textbook) of 444,693,805 bytes; book pagination runs to printed p. 177+ (Kazalo); all 202 content HTML pages read — every extracted file's decompressed size verified against the ZIP central directory (203/203 files OK). Verdict: COMPLETE (text content; the package's videos/images were not individually viewed — the teaching text, headings, summaries and tasks were read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/slovenia-placements.md.
+
+**Book 7:** *Geografija 1, gimnazija* (student book, Slovenian) — Slovenia, Zavod RS za šolstvo, Ljubljana; year 2015; ISBN 978-961-03-0284-1. Title as printed: Geografija 1 (gimnazija) (i-učbenik / interactive textbook). Grade: Grade 10 (first year of gimnazija) (student/teacher: STUDENT). PDF pages: not a PDF — ZIP package (interactive e-textbook) of 423,855,798 bytes; book pagination runs to printed p. 320 (Kazalo); all 359 content HTML pages extracted by range request and size-verified against the ZIP central directory, and read. Verdict: COMPLETE (text content; the package's videos/images were not individually viewed — the teaching text, headings, summaries and tasks were read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/slovenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Contours into relief | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 8, printed pp. 220–223 |
@@ -20,8 +24,10 @@ countries: Ethiopia, Bangladesh, Malaysia
 | Bangladesh part (Grade 6) — Map of Chattogram Division (landform) | Bangladesh, *History and Social Science, Class Six*, Grade 6, Map of Chattogram Division (landform) — printed p. 21 |
 | Malaysia part (MY T2 Geografi Tingkatan 2) — Bab 2.5: interpreting a topographic map | Malaysia, *MY T2 Geografi*, Bab 2.5: interpreting a topographic map — printed pp. 27-30 |
 | Malaysia part (MY T4 Geografi Tingkatan 4) — Bab 4: physical and cultural landscape features in topographic maps, from their symbols, and how the two interrelate | Malaysia, *MY T4 Geografi*, Bab 4: physical and cultural landscape features in topographic maps, from their symbols, and how the two interrelate — printed pp. 44-58 |
+| Slovenia part — Zemljevid Afrike (map work on Africa) inside Lega, površje in vodovje Afrike | Slovenia, *Slovenia Grade 8 Geografija 8*, Zemljevid Afrike (map work on Africa) inside Lega, površje in vodovje Afrike — printed p. 1 |
+| Slovenia part — Geološki zemljevid (the geological map) inside Kamnine in geološki razvoj Zemlje | Slovenia, *Slovenia Grade 10 Geografija 1 (gimnazija)*, Geološki zemljevid (the geological map) inside Kamnine in geološki razvoj Zemlje — printed p. 27 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Bangladesh, Malaysia).**
+**Acceptance count: taught in 4 countries (Ethiopia, Bangladesh, Malaysia, Slovenia).**
 
 Searchable tags: contour interpretation, landscape reading, relief, drainage, settlement, land use, social studies
 
@@ -30,3 +36,7 @@ Bangladesh's own way (Grade 6): an inquiry-based combined History and Social Sci
 Malaysia's own way (MY T2 Geografi Tingkatan 2): the year pairs map skills (scale, topographic maps) with weather and climate, then transport and telecommunications as the human-geography core, an Asia regional study, and global warming with green technology as the environmental close.
 
 Malaysia's own way (MY T4 Geografi Tingkatan 4): upper-secondary Geography is a full topographic-map apprenticeship (bearings, area, cross-sections, landscape reading) followed by process geography — plates, rocks, weathering, mass movement, rivers and coasts — and a world-scale human geography of population, migration, settlements and urbanisation.
+
+Slovenia's own way (Slovenia Grade 8 Geografija 8): Grade 8 is pure world regional geography, continent by continent (Africa, Australia/Oceania, the Americas and polar regions), each region worked through the same grid — position/relief/waters, climate/vegetation, population, economy — and the book closes with two world-problems units (rainforest loss, desert spread, water conflicts, the Aral Sea).
+
+Slovenia's own way (Slovenia Grade 10 Geografija 1 (gimnazija)): the gimnazija first year is systematic physical geography first (Earth's interior, rocks, landforms, weather and climate, soils, vegetation, waters), then human geography (population, settlements, farming, industry and energy, transport, tourism), closing on sustainable development and spatial planning — with Slovenian cases (earthquake risk in Slovenia, the Port of Koper) set inside the world topics.

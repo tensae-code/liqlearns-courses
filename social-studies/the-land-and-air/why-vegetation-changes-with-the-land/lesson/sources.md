@@ -1,6 +1,6 @@
 # Sources — Why vegetation changes with the land
 
-countries: Ethiopia, Bahamas, Malaysia, Fiji
+countries: Ethiopia, Bahamas, Malaysia, Fiji, Slovenia
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -14,6 +14,10 @@ countries: Ethiopia, Bahamas, Malaysia, Fiji
 
 **Book 6:** *Physical Geography — Year 11 & 12* (student book, English) — Fiji, Curriculum Development Unit, Ministry of Education, Fiji; year 2014; ISBN no ISBN printed. Title as printed: Physical Geography — Year 11 & 12. Grade: Years 11–12 (student/teacher: STUDENT). PDF pages: 127 (cover/title page verified against the record title). Verdict: COMPLETE. Acquisition note: read from the books.json record's own Wayback source_url (ministry original; download resumed twice after timed-out partial files) after the grab.py GitHub API route failed as in Book 1. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
 
+**Book 7:** *Geografija 8* (student book, Slovenian) — Slovenia, Zavod RS za šolstvo, Ljubljana; year 2015; ISBN 978-961-03-0282-7 (html5). Title as printed: Geografija 8 (i-učbenik / interactive textbook). Grade: Grade 8 (student/teacher: STUDENT). PDF pages: not a PDF — ZIP package (interactive e-textbook) of 444,693,805 bytes; book pagination runs to printed p. 177+ (Kazalo); all 202 content HTML pages read — every extracted file's decompressed size verified against the ZIP central directory (203/203 files OK). Verdict: COMPLETE (text content; the package's videos/images were not individually viewed — the teaching text, headings, summaries and tasks were read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/slovenia-placements.md.
+
+**Book 8:** *Geografija 1, gimnazija* (student book, Slovenian) — Slovenia, Zavod RS za šolstvo, Ljubljana; year 2015; ISBN 978-961-03-0284-1. Title as printed: Geografija 1 (gimnazija) (i-učbenik / interactive textbook). Grade: Grade 10 (first year of gimnazija) (student/teacher: STUDENT). PDF pages: not a PDF — ZIP package (interactive e-textbook) of 423,855,798 bytes; book pagination runs to printed p. 320 (Kazalo); all 359 content HTML pages extracted by range request and size-verified against the ZIP central directory, and read. Verdict: COMPLETE (text content; the package's videos/images were not individually viewed — the teaching text, headings, summaries and tasks were read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/slovenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Three controls | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 3, printed pp. 75–76 |
@@ -24,8 +28,10 @@ countries: Ethiopia, Bahamas, Malaysia, Fiji
 | Bahamas part (Grade 4) — Bush: plants grown in The Bahamas must withstand periods of low rainfall and high summer temperatures — hedge plants such as coco plum, sea grape, croton and hibiscus | Bahamas, *Bahamas Primary Social Studies — Digital Textbook, Grade 4*, Grade 4, Bush: plants grown in The Bahamas must withstand periods of low rainfall and high summer temperatures — hedge plants such as coco plum, sea grape, croton and hibiscus — PDF p. 22 |
 | Malaysia part (MY T3 Geografi Tingkatan 3) — Bab 3: how the physical environment shapes the diversity of natural vegetation and wildlife (placement slug: the-land-and-air/vegetation-and-climate) | Malaysia, *MY T3 Geografi*, Bab 3: how the physical environment shapes the diversity of natural vegetation and wildlife — printed pp. 30-51 |
 | Fiji part — Chapter 7 Vegetation – New Zealand, and the climate–soil–vegetation relationship | Fiji, *Fiji Years 11–12 Physical Geography*, Chapter 7 Vegetation – New Zealand, and the climate–soil–vegetation relationship — printed p. 80 |
+| Slovenia part — Rastlinski pasovi Južne Amerike (South America's vegetation belts) inside Površje in podnebje Južne Amerike | Slovenia, *Slovenia Grade 8 Geografija 8*, Rastlinski pasovi Južne Amerike (South America's vegetation belts) inside Površje in podnebje Južne Amerike — printed p. 126 |
+| Slovenia part — Rastlinske in drevesne vrste ter njihovo varovanje: rastlinstvo po pasovih (vegetation of the tropical, subtropical, temperate and polar belts) | Slovenia, *Slovenia Grade 10 Geografija 1 (gimnazija)*, Rastlinske in drevesne vrste ter njihovo varovanje: rastlinstvo po pasovih (vegetation of the tropical, subtropical, temperate and polar belts) — printed p. 137 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Bahamas, Malaysia, Fiji).**
+**Acceptance count: taught in 5 countries (Ethiopia, Bahamas, Malaysia, Fiji, Slovenia).**
 
 Searchable tags: vegetation controls, altitude, rainfall, soil, vegetation belts, afro-alpine, social studies
 
@@ -36,3 +42,7 @@ Bahamas' own way (Grade 4): From Grade 4 the format changes: instead of the inte
 Malaysia's own way (MY T3 Geografi Tingkatan 3): Form 3 turns from skills (tables, graphs, pie charts) to living Malaysia — its natural vegetation and wildlife and the human pressure on both — then outward to the world's biomes, resources and economic cooperation, closing with forest management and recycling.
 
 Fiji's own way (Fiji Years 11–12 Physical Geography): The physical volume is comparative — every theme (climate, relief, soil, vegetation, hazards) is taught twice, New Zealand first, then Fiji (Monsoon Asia for hazards), so Fiji's land is always read against a temperate and a monsoon case.
+
+Slovenia's own way (Slovenia Grade 8 Geografija 8): Grade 8 is pure world regional geography, continent by continent (Africa, Australia/Oceania, the Americas and polar regions), each region worked through the same grid — position/relief/waters, climate/vegetation, population, economy — and the book closes with two world-problems units (rainforest loss, desert spread, water conflicts, the Aral Sea).
+
+Slovenia's own way (Slovenia Grade 10 Geografija 1 (gimnazija)): the gimnazija first year is systematic physical geography first (Earth's interior, rocks, landforms, weather and climate, soils, vegetation, waters), then human geography (population, settlements, farming, industry and energy, transport, tourism), closing on sustainable development and spatial planning — with Slovenian cases (earthquake risk in Slovenia, the Port of Koper) set inside the world topics.

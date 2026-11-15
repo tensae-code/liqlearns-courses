@@ -1,6 +1,6 @@
 # Sources — Secondary activities — modern light and heavy industry
 
-countries: Ethiopia, Bangladesh, Turkmenistan, Indonesia, Egypt, Eritrea, India, North Macedonia, United Kingdom, Uzbekistan
+countries: Ethiopia, Bangladesh, Turkmenistan, Indonesia, Egypt, Eritrea, India, North Macedonia, United Kingdom, Uzbekistan, Slovenia
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 2 — Population Studies and Socio-Economic Activities, printed pp. 44–76).
 
@@ -22,6 +22,10 @@ countries: Ethiopia, Bangladesh, Turkmenistan, Indonesia, Egypt, Eritrea, India,
 
 **Book 10:** *Economic and Social Geography of the World, Grade 9* (student book, Russian) — Uzbekistan, IPTD «O'zbekiston», Tashkent; year 2006; ISBN 5-640-03154-9 (authors: Abduhakim Qayumov, Iranqul Safarov, Mahabbat Tillaboyeva). Title as printed: ЭКОНОМИЧЕСКАЯ И СОЦИАЛЬНАЯ ГЕОГРАФИЯ МИРА / Jahon iqtisodiy-ijtimoiy geografiyasi (Economic and Social Geography of the World), textbook for Grade 9 of general schools, recommended by the Ministry of Public Education of the Republic of Uzbekistan, 3rd edition, corrected and supplemented, translated from Uzbek by I. Khudaybergenov. Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 242 (byte size 94,283,664 exact match to the record, blob SHA verified SHA-OK; cover, title page and imprint rendered and verified — image-only PDF, read in full via its printed contents, p. 241, §1-§68). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/uzbekistan-placements.md.
 
+**Book 11:** *Geografija 8* (student book, Slovenian) — Slovenia, Zavod RS za šolstvo, Ljubljana; year 2015; ISBN 978-961-03-0282-7 (html5). Title as printed: Geografija 8 (i-učbenik / interactive textbook). Grade: Grade 8 (student/teacher: STUDENT). PDF pages: not a PDF — ZIP package (interactive e-textbook) of 444,693,805 bytes; book pagination runs to printed p. 177+ (Kazalo); all 202 content HTML pages read — every extracted file's decompressed size verified against the ZIP central directory (203/203 files OK). Verdict: COMPLETE (text content; the package's videos/images were not individually viewed — the teaching text, headings, summaries and tasks were read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/slovenia-placements.md.
+
+**Book 12:** *Geografija 9* (student book, Slovenian) — Slovenia, Zavod RS za šolstvo, Ljubljana; year 2015; ISBN 978-961-03-0283-4. Title as printed: Geografija 9 (i-učbenik / interactive textbook). Grade: Grade 9 (student/teacher: STUDENT). PDF pages: not a PDF — ZIP package (interactive e-textbook) of 785,080,227 bytes; book pagination runs to printed p. 241 (Kazalo); all 296 content HTML pages extracted by range request and size-verified against the ZIP central directory, and read. Verdict: COMPLETE (text content; the package's videos/images were not individually viewed — the teaching text, headings, summaries and tasks were read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/slovenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Modern manufacturing | Ethiopia, *Social Studies Student Textbook, Grade 8* (Amhara Bureau), printed pp. 63–64 |
@@ -35,8 +39,10 @@ countries: Ethiopia, Bangladesh, Turkmenistan, Indonesia, Egypt, Eritrea, India,
 | North Macedonia part (Grade 10 mk-g10) — 30. Индустрија | North Macedonia, *North Macedonia Grade 10 mk-g10*, 30. Индустрија — printed p. 91 |
 | United Kingdom part — §17.4 Balancing a changing industrial structure (Nigeria) | United Kingdom, *United Kingdom Grade 10 AQA Geography Student Book*, §17.4 Balancing a changing industrial structure (Nigeria) — printed p. 224 |
 | Uzbekistan part — §17 Geography of industry | Uzbekistan, *Uzbekistan Grade 9 Economic and Social Geography of the World (Qayumov, Safarov & Tillaboyeva)*, §17 Geography of industry — printed p. 74 |
+| Slovenia part — Industrija ZDA (US industry) inside Gospodarstvo ZDA in Kanade | Slovenia, *Slovenia Grade 8 Geografija 8*, Industrija ZDA (US industry) inside Gospodarstvo ZDA in Kanade — printed p. 103 |
+| Slovenia part — Industrija (industry) inside Rudarstvo, energetika in industrija | Slovenia, *Slovenia Grade 9 Geografija 9*, Industrija (industry) inside Rudarstvo, energetika in industrija — printed p. 79 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Bangladesh, Turkmenistan, Indonesia, Egypt, Eritrea, India, North Macedonia, United Kingdom, Uzbekistan).**
+**Acceptance count: taught in 11 countries (Ethiopia, Bangladesh, Turkmenistan, Indonesia, Egypt, Eritrea, India, North Macedonia, United Kingdom, Uzbekistan, Slovenia).**
 
 Indonesia's own way (Grade 12): Grade 12 is applied human geography built entirely on Indonesian cases — regional development and spatial planning (tata ruang) measured against a Happiness Index, Industry 4.0 / Society 5.0, and Indonesia's own geopolitics and ASEAN-era cooperation as pillars of national resilience. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -59,3 +65,7 @@ North Macedonia's own way (Grade 10 mk-g10): the gymnasium course restarts Geogr
 United Kingdom's own way: A single exam-board (AQA) GCSE textbook organised as thematic units with numbered two-page spreads, every big topic anchored to a named case study (Typhoon Haiyan, Somerset Levels, Rio de Janeiro, Bristol, Nigeria, the Indus Basin, Lesotho Highlands) and a final unit on issue evaluation, fieldwork enquiries and cartographic/graphical/statistical skills.
 
 Uzbekistan's own way (Uzbekistan Grade 9 Economic and Social Geography of the World): Grade 9 turns from physical to economic and social geography of the whole world: Part I works through the political map, world natural resources, world population, the scientific-technical revolution and the branches of the world economy; Part II then reviews every region in a fixed country-profile pattern (territory and position, natural resources, population, economy, transport, foreign ties), with Central Asia and Uzbekistan's neighbours given the fullest treatment, and closes with the global problems of humanity.
+
+Slovenia's own way (Slovenia Grade 8 Geografija 8): Grade 8 is pure world regional geography, continent by continent (Africa, Australia/Oceania, the Americas and polar regions), each region worked through the same grid — position/relief/waters, climate/vegetation, population, economy — and the book closes with two world-problems units (rainforest loss, desert spread, water conflicts, the Aral Sea).
+
+Slovenia's own way (Slovenia Grade 9 Geografija 9): Grade 9 turns home — the whole book is Slovenia itself: first the country as a system (position and borders, relief and rocks, climate/vegetation/waters, settlement, population, settlements, economy, transport, environment), then its five natural regions one by one (Alpine, Pre-Alpine with the Ljubljana basin, Dinaric-Karst, Mediterranean, Pannonian). Named, not placed: the EU unit's history of the European Union and Slovenia-in-EU pros/cons (printed p. 7, Civics/History) and the state symbols inside the opening unit (p. 1, Civics).

@@ -1,6 +1,6 @@
 # Sources — Soil under pressure
 
-countries: Ethiopia, Angola, Cambodia, Fiji
+countries: Ethiopia, Angola, Cambodia, Fiji, Slovenia
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Angola, Cambodia, Fiji
 
 **Book 5:** *Year 13 Integrative Geography* (student book, English) — Fiji, Curriculum Development Unit, Ministry of Education, Fiji; year 2018; ISBN no ISBN printed. Title as printed: Year 13 Integrative Geography. Grade: Year 13 (student/teacher: STUDENT). PDF pages: 263 (cover/title page verified against the record title; bibliography at printed p. 258 confirms the file is complete). Verdict: COMPLETE. Acquisition note: read from the books.json record's own source_url (Google Drive file named in the record; download resumed after a first timed-out partial file) after the grab.py GitHub API route failed as in Book 1. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
 
+**Book 6:** *Geografija 1, gimnazija* (student book, Slovenian) — Slovenia, Zavod RS za šolstvo, Ljubljana; year 2015; ISBN 978-961-03-0284-1. Title as printed: Geografija 1 (gimnazija) (i-učbenik / interactive textbook). Grade: Grade 10 (first year of gimnazija) (student/teacher: STUDENT). PDF pages: not a PDF — ZIP package (interactive e-textbook) of 423,855,798 bytes; book pagination runs to printed p. 320 (Kazalo); all 359 content HTML pages extracted by range request and size-verified against the ZIP central directory, and read. Verdict: COMPLETE (text content; the package's videos/images were not individually viewed — the teaching text, headings, summaries and tasks were read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/slovenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — A resource open to all | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 3, printed pp. 63–64 |
@@ -21,8 +23,9 @@ countries: Ethiopia, Angola, Cambodia, Fiji
 | Angola part — 4.3 O esgotamento dos solos | Angola, *Geografia 6ª Classe*, Grade 6, 4.3 O esgotamento dos solos — printed p. 60 |
 | Cambodia part — Ch.2 L2 តំហាយគុណភាពដី (the decline of soil quality) | Cambodia, *Cambodia Grade 11 Geography*, Ch.2 L2 តំហាយគុណភាពដី (the decline of soil quality) — printed p. 36 |
 | Fiji part — Chapter 4 Soils: importance of soil, soil ecology and nutrient cycling, how soil is degraded, soil conservation measures, climate change's impact on soil | Fiji, *Fiji Year 13 Geography*, Chapter 4 Soils: importance of soil, soil ecology and nutrient cycling, how soil is degraded, soil conservation measures, climate change's impact on soil — printed p. 112 |
+| Slovenia part — Tipi prsti in njihova razširjenost (soil types and their spread on Earth; soil degradation and protection) | Slovenia, *Slovenia Grade 10 Geografija 1 (gimnazija)*, Tipi prsti in njihova razširjenost (soil types and their spread on Earth; soil degradation and protection) — printed p. 120 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Angola, Cambodia, Fiji).**
+**Acceptance count: taught in 5 countries (Ethiopia, Angola, Cambodia, Fiji, Slovenia).**
 
 No book error is flagged for this lesson's pages in the placements. The student book's body numbering for Unit Two drifts from its own contents (regions printed as 2.4, factors as 2.5, local classification as 2.6, where the contents and the teacher guide's contents agree on 2.3, 2.4 and 2.5); this lesson follows the contents numbering and teaches no misprint.
 
@@ -33,3 +36,5 @@ Angola's own way (Grade 6): a resources-and-environment year — every world top
 Cambodia's own way (Cambodia Grade 11 Geography): the standalone upper-secondary Geography book is a human-impact course — people reshaping the earth, people destroying natural resources, the sea, pollution of air/water/noise/waste, economic globalisation, city and countryside, and a world of uneven development.
 
 Fiji's own way (Fiji Year 13 Geography): The final year integrates everything at advanced level (plate tectonics to urban models, largely from world texts such as Waugh) and then lands it in Chapter 8, South Pacific Islands Geography — Oceania's geology, island types, development prospects and regionalism.
+
+Slovenia's own way (Slovenia Grade 10 Geografija 1 (gimnazija)): the gimnazija first year is systematic physical geography first (Earth's interior, rocks, landforms, weather and climate, soils, vegetation, waters), then human geography (population, settlements, farming, industry and energy, transport, tourism), closing on sustainable development and spatial planning — with Slovenian cases (earthquake risk in Slovenia, the Port of Koper) set inside the world topics.
