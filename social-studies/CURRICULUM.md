@@ -10555,3 +10555,109 @@ Civics, Economics and language/literature readings named
 in the placements file) stay named in the stocked
 sources, not placed.
 History lessons: 656 → 676.
+
+## History expansion — Bahamas — built 2026-11-15
+
+13 new lessons, 192 questions: **The Ancient World**:
+The Lucayans — first people of The Bahamas
+(ancient-world/the-lucayans-first-people-of-the-bahamas);
+**The Modern World**: Bahamas independence, 1973
+(modern-world/bahamas-independence-1973), Bahamas —
+English settlers and enslaved Africans
+(modern-world/bahamas-english-settlers-and-enslaved-africans),
+Bahamas — Hurricane Dorian, 2019
+(modern-world/bahamas-hurricane-dorian-2019), Bahamas —
+Loyalists and the plantation islands
+(modern-world/bahamas-loyalists-and-the-plantation-islands),
+Bahamas — tourism and Sir Stafford Sands
+(modern-world/bahamas-tourism-and-sir-stafford-sands),
+Bahamas — emancipation and life after slavery
+(modern-world/bahamas-emancipation-and-life-after-slavery),
+Bahamas — pirates, wreckers and Woodes Rogers
+(modern-world/bahamas-pirates-wreckers-and-woodes-rogers),
+Bahamas — Lord Proprietors, 1629 to 1718
+(modern-world/bahamas-lord-proprietors-1629-to-1718),
+Bahamas — churches founded by the freed
+(modern-world/bahamas-churches-founded-by-the-freed),
+Bahamas — blockade-running and bootlegging booms
+(modern-world/bahamas-blockade-running-and-bootlegging-booms),
+Bahamas — the Contract: wartime workers in America
+(modern-world/bahamas-the-contract-wartime-workers-in-america),
+and Bahamas — Majority Rule and the road to
+independence
+(modern-world/bahamas-majority-rule-and-the-road-to-independence)
+— 70 placements stocked in all from Bahamas's five
+placed student books: *Social Science — Grade 1*
+(Ministry of Education, Technical and Vocational
+Training, The Bahamas, 2024 (Version 2, January 2024),
+no ISBN printed, 49 PDF pp.; 4 placements), *Social
+Science — Grade 3* (2024 (Version 1, January 2024),
+no ISBN printed, 70 PDF pp.; 9 placements), *Bahamas
+Primary Social Studies Digital Textbook — Grade 4*
+(First Edition 2023, no ISBN printed, 23 PDF pp.; 15
+placements), *Bahamas Primary Social Studies Digital
+Textbook — Grade 5* (First Edition 2023, no ISBN
+printed, 36 PDF pp.; 23 placements), and *Bahamas
+Primary Social Studies Digital Textbook — Grade 6*
+(First Edition 2023, no ISBN printed, 35 PDF pp.; 19
+placements). 22 placements were stocked into 7
+existing lessons (Heritage — what it is and why it
+matters — fourteen placements; Find history in your
+own locality — two; Exploration — Columbus, Vespucci
+and Magellan — two; Dating the past; The Atlantic
+slave trade — scale, coasts and the gun cycle; The
+American Civil War — Union against slavery; and
+Central African states — Kongo). All five placed
+books are student books, so Bahamas counts normally
+everywhere it is stocked: every stocked lesson's
+countries line names Bahamas and its acceptance
+count rises by one (Heritage — what it is and why
+it matters 24 → 25, Find history in your own locality
+8 → 9, Dating the past 6 → 7, Exploration — Columbus,
+Vespucci and Magellan 5 → 6, The Atlantic slave trade
+— scale, coasts and the gun cycle 4 → 5, The American
+Civil War — Union against slavery 2 → 3, Central
+African states — Kongo 2 → 3). No placement slug
+needed remapping: every non-new slug exists, and the
+thirteen NEW LESSON NEEDED slugs were checked against
+the current tree — the closest general lessons
+(Caribbean first peoples — fishers and farmers, and
+The Taíno of Quisqueya, in the Ancient World) teach
+neighbouring peoples and the wider Caribbean, not the
+Lucayans themselves, and no existing lesson teaches
+The Bahamas' own settler, pirate, emancipation,
+tourism, Majority Rule or independence story, so the
+new lessons were built as the placements direct.
+Three records are RECORD-ONLY and not placed: the
+Grades 4–6 Social Studies Benchmarks document, the
+BJC Social Studies Curriculum Grades 7–9 (syllabus,
+Revised 1997, printed 2003) and the BGCSE History
+Syllabus Grades 10–12 (1997, reprinted 2003) —
+curriculum/syllabus documents with no teaching parts
+to place, 0 placements; they are named in the
+placements file, not placed. The Grade 5 textbook's
+verdict is PARTIAL as filed: one stray Grade 4
+"Bodies of Water" page (PDF p. 16) carrying only a
+references line; all Grade 5 topics are otherwise
+complete. Bahamas's own way is stocked inside the
+lessons: History at Grade 1 is national identity told
+through people and celebrations; Grade 3 tells the
+national story as one continuous people's story —
+Lucayans, Columbus, settlers and enslaved Africans,
+the freedom holidays and the nation builders — with
+African-carried traditions (Junkanoo, asue, Anansi
+and Brer tales) as the living thread; Grade 4 tells
+a settler-and-nation sequence through named groups
+and named people, with surnames taught as historical
+evidence; Grade 5 turns to episodes — pirates,
+wreckers, blockade runners and bootleggers as the
+booms that built the islands, and emancipation
+through the freed villages; Grade 6 tells the whole
+story as one dated timeline whose spine is the road
+to Majority Rule and independence in 1973. The
+books' non-History parts (Religious Studies, Health,
+Civics, Geography, Science and Economics parts named
+in the placements file) stay named in the stocked
+sources, not placed.
+History lessons: 676 → 689.
+

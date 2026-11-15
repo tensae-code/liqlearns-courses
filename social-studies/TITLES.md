@@ -2581,7 +2581,7 @@ Plants and Animals.
 
 ## History expansion totals
 
-History lessons across the History titles: **676**
+History lessons across the History titles: **689**
 (248 before the expansion; +1 for Guyana, 2026-11-15 —
 Modern World: Guyana — our nation: independence and
 symbols. All 3 Guyana placements stand on Guyana's
@@ -3512,3 +3512,52 @@ named, not placed. Stories and readings —
 La Dama Tapada, La Princesa Súa, the Cochasquí
 legend and Nanny de los Cimarrones — are stocked
 as plot summaries only, never transcribed.
+
++13 for Bahamas, 2026-11-15 — Ancient World:
+The Lucayans — first people of The Bahamas;
+Modern World: Bahamas independence, 1973,
+Bahamas — English settlers and enslaved
+Africans, Bahamas — Hurricane Dorian, 2019,
+Bahamas — Loyalists and the plantation islands,
+Bahamas — tourism and Sir Stafford Sands,
+Bahamas — emancipation and life after slavery,
+Bahamas — pirates, wreckers and Woodes Rogers,
+Bahamas — Lord Proprietors, 1629 to 1718,
+Bahamas — churches founded by the freed,
+Bahamas — blockade-running and bootlegging
+booms, Bahamas — the Contract: wartime workers
+in America, and Bahamas — Majority Rule and
+the road to independence. All 70 Bahamas
+placements stand on Bahamas's five placed
+student books (*Social Science — Grade 1*,
+Ministry of Education, Technical and Vocational
+Training, The Bahamas, 2024, no ISBN printed, 4
+placements; *Social Science — Grade 3*, 2024,
+no ISBN printed, 9 placements; *Bahamas Primary
+Social Studies Digital Textbook — Grade 4*,
+2023, no ISBN printed, 15 placements; *Grade 5*,
+2023, no ISBN printed, 23 placements; and
+*Grade 6*, 2023, no ISBN printed, 19
+placements), counted in acceptance — all are
+student books. The 22 placements stocked into
+7 existing lessons rise with Bahamas added:
+Heritage — what it is and why it matters
+24 → 25, Find history in your own locality
+8 → 9, Dating the past 6 → 7, Exploration —
+Columbus, Vespucci and Magellan 5 → 6, The
+Atlantic slave trade — scale, coasts and the
+gun cycle 4 → 5, The American Civil War —
+Union against slavery 2 → 3, and Central
+African states — Kongo 2 → 3. Three records
+are RECORD-ONLY and not placed: the Grades 4–6
+Social Studies Benchmarks document, the BJC
+Social Studies Curriculum Grades 7–9 (1997,
+printed 2003) and the BGCSE History Syllabus
+Grades 10–12 (1997, reprinted 2003) —
+curriculum/syllabus documents, 0 placements.
+The Grade 5 book's verdict is PARTIAL as filed
+(one stray Grade 4 page, PDF p. 16). The books'
+non-History parts (Religious Studies, Health,
+Civics, Geography, Science and Economics parts
+named in the placements file and in the stocked
+sources) stay named, not placed.

@@ -1,6 +1,6 @@
 # Sources — The Atlantic slave trade — scale, coasts and the gun cycle
 
-countries: Ethiopia, Angola, Gambia, Australia
+countries: Ethiopia, Angola, Gambia, Australia, Bahamas
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -122,3 +122,15 @@ Gabon's own way (Grade 5): the final primary year widens out — ancient Egypt, 
 Australia's own way (Australia Retroactive 2 (Stage 5)): Stage 5 turns the same depth-study method onto the modern world, but Australia is now the protagonist: convicts and settlers, nation-making, Gallipoli and the Anzac legend, conscription's division, the Darwin bombing the government hushed up, the Freedom Ride, Mabo, the Apology, Maralinga — world events are always landed on Australian soil. That way is stocked here as the way Australia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 4 countries (Ethiopia, Angola, Gambia, Australia).**
+
+## History expansion (2026-11-15) — Bahamas stocked
+
+**Book (Bahamas G4):** Title as printed: Bahamas Primary Social Studies Digital Textbook — Grade 4 (First Edition 2023) Grade: 4 (student/teacher: STUDENT) Publisher: Ministry of Education, Technical and Vocational Training, The Bahamas (Innovation Unit; content from the Bahamas Primary Social Studies Curriculum 2022–2027); year 2023; ISBN no ISBN printed PDF pages: 23 (cover verified against the record title; a one-topic-per-page infographic deck, read in full via its text layer plus page renders where the text layer was image-only) Verdict: COMPLETE — cover, 21 topic pages and credits page all present Tally: 15 placements — 5 to existing lessons, 10 NEW LESSON NEEDED Bahamas's own way: Grade 4 history is a settler-and-nation sequence told through named groups and named people — Lucayans, Eleutheran Adventurers, Loyalists, the enslaved, then Governors General, Prime Ministers and nation builders — and even surnames are taught as historical evidence of how each island was settled. Non-History parts named, not placed: Geography — South Eastern Islands: compass, scale, latitude and longitude (PDF p. 6), Bodies of Water: the Bahama Banks (PDF p. 7), Transportation (PDF p. 10); Economics/science — Food & Natural Resources: cascarilla, aragonite, salt (PDF p. 8), Economic Impact of Farming and Fishing (PDF p. 11), Bush: hedge and garden plants (PDF p. 22); Civics — Laws / Correctional Institution and citizens' rights (PDF p. 14) Placements at liqlearns-courses-work/expansion-history-2026-11-15/bahamas-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bahamas part — Slavery: the Atlantic slave trade and the Middle Passage — story beats: from the 16th to 19th centuries ships sail the triangle — European goods to Africa, kidnapped and purchased Africans across the perilous Middle Passage, then raw materials back to Europe (History expansion, 2026-11-15; original placement slug: africa-after-1500/the-atlantic-slave-trade-scale-coasts-and-the-gun-cycle) | Bahamas, *Bahamas Primary Social Studies Digital Textbook — Grade 4*, PDF p. 5 |
+
+Bahamas's own way (Bahamas Grade 4): Grade 4 history is a settler-and-nation sequence told through named groups and named people — Lucayans, Eleutheran Adventurers, Loyalists, the enslaved, then Governors General, Prime Ministers and nation builders — and even surnames are taught as historical evidence of how each island was settled. Non-History parts named, not placed: Geography — South Eastern Islands: compass, scale, latitude and longitude (PDF p. 6), Bodies of Water: the Bahama Banks (PDF p. 7), Transportation (PDF p. 10); Economics/science — Food & Natural Resources: cascarilla, aragonite, salt (PDF p. 8), Economic Impact of Farming and Fishing (PDF p. 11), Bush: hedge and garden plants (PDF p. 22); Civics — Laws / Correctional Institution and citizens' rights (PDF p. 14) That way is stocked here as the way Bahamas teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 5 countries (Ethiopia, Angola, Gambia, Australia, Bahamas).**
