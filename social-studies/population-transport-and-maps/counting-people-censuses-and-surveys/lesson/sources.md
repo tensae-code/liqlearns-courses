@@ -1,6 +1,6 @@
 # Sources — Counting people — censuses and surveys
 
-countries: Ethiopia, Bolivia
+countries: Ethiopia, Bolivia, Dominican Republic
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Bolivia
 
 **Book 6:** *Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024 — Secundaria Comunitaria Productiva, Área Ciencias Sociales* (teacher guide, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; 2023–2024; no ISBN printed. Title as printed: Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024 — Secundaria Comunitaria Productiva, Área Ciencias Sociales. Grade 7 (record grade; the compendium in fact carries teacher guidance for Secundaria years 1–6) (teacher). 332 PDF pp. (cover verified against the record title; byte size 22,986,155 and page count match the staging books.json record exactly; read from the recorded direct source_url). Verdict: COMPLETE (combined teacher compendium — Geography guidance placed below; its own index pagination does not match the PDF's internal order, noted as a library debt; the compendium's remaining units mirror the student books' History and Civics units for Secundaria 1–6, named in the placements in bulk, not placed). Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bolivia-placements.md.
 
+**Book 7:** *Ciencias Sociales — Tercer Grado, Primer Ciclo, Educación Primaria (Libro Abierto, Serie 1)* (student book, Spanish) — Dominican Republic, Ministerio de Educación (MINERD), Unidad Editorial, República Dominicana; Libro Abierto Serie 1; ISBN 978-9945-646-00-9 (printed in the book). Title as printed: Ciencias Sociales — Tercer Grado, Primer Ciclo, Educación Primaria (Libro Abierto, Serie 1). Grade 3 (student). 128 PDF pp. (cover verified against the record title; byte size 73,378,327 matches the GitHub release asset exactly and page count matches the record). Verdict: COMPLETE (combined book — Geography parts placed below; History/Civics parts named in the placements, not placed: Unidad 5 Mi país, su identidad y cultura, printed p. 76; Unidad 6 Derechos y deberes para vivir en democracia (Civics), p. 90; Anexo: Constitución Dominicana Infantil, p. 110). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/dominican-republic-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What population means | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 4, printed pp. 86–88 |
@@ -23,8 +25,9 @@ countries: Ethiopia, Bolivia
 | Bolivia part — The census as a service to the country: the censista's work and building the census questionnaire (opening unit) | Bolivia, *Texto de Aprendizaje — Ciencias Sociales, Secundaria 4*, Grade 10, The census as a service to the country: the censista's work and building the census questionnaire (opening unit) — printed p. 2 |
 | Bolivia part — The Census: its strategic objectives and the work of the censista | Bolivia, *Ciencias Sociales, Sexto Año de Secundaria*, Grade 12, The Census: its strategic objectives and the work of the censista — printed p. 3 |
 | Bolivia part — The work of the censista: the census questionnaire and how a census is run (teacher guidance, Secundaria 5) (teacher guide — evidence) | Bolivia, *Compendio para Maestras y Maestros, Área Ciencias Sociales* (teacher guide), Grade 7 (record grade; teacher guidance), The work of the censista: the census questionnaire and how a census is run (teacher guidance, Secundaria 5) — printed p. 224 |
+| Dominican Republic part (Grade 3) — Population data: how many are we? A census of my family (group activity) | Dominican Republic, *Ciencias Sociales, Tercer Grado, Primaria (Libro Abierto)*, Grade 3, Population data: how many are we? A census of my family (group activity) — printed p. 68 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Bolivia).**
+**Acceptance count: taught in 3 countries (Ethiopia, Bolivia, Dominican Republic).**
 
 Bolivia's own way (Grade 8, Secundaria 2): Secundaria 2 is the colonial-history year, so geography enters through the land itself: the Tawantinsuyo's territorial division into suyos, the Amazonian hydraulic cultures who farmed a flooding landscape with raised beds and purified water, the ayllu-versus-hacienda struggle over communal land, and where Afro-Bolivian communities settled in the Yungas.
 
@@ -35,3 +38,5 @@ Bolivia's own way (Grade 12, Sexto Año): The final year opens with the census i
 Bolivia's own way (teacher guide — evidence): The teacher compendium teaches the same four-moment lesson shape (Práctica, Teoría, Valoración, Producción) with QR-linked videos and local openings — a La Paz landslide video opens the geography unit — and it adds two geography units the sampled student books do not carry at those grades: the scientific development of geographic science with cartography and coordinates (year 3), and water as a human right with Andean water management (year 4). That evidence is stocked here as the way Bolivia teaches this thing; it does not change the acceptance count above.
 
 Searchable tags: population, census, vital registration, surveys, estimates, social studies, Bolivia, Ciencias Sociales Bolivia, teacher guide evidence
+
+Dominican Republic's own way (Grade 3): For third graders geography is the home island first: the planet and its components, then the Antilles and the relief of their own country, then countryside versus city, and finally where their own families came from — migration and a family census the children run themselves.

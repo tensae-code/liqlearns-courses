@@ -1,6 +1,6 @@
 # Sources — Continents — The Seven in Place
 
-countries: Ethiopia, Ecuador
+countries: Ethiopia, Ecuador, Dominican Republic
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -11,6 +11,10 @@ countries: Ethiopia, Ecuador
 **Book 4:** *Geography, Teacher Guide, Grade 11* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, Hawassa University. Writers: Ermias Debie (PhD) and Mehretie Belay (PhD); Content Editor: Professor Aklilu Dalelo. ISBN 978-99990-0-054-3. Companion to the Grade 11 Student Textbook (ISBN 978-99990-0-050-5), same GEQIP-E programme. Printed page = PDF page − 4 for the guide body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-teacher-placements.md
 
 **Book 5:** *Estudios Sociales 2do EGB* (student book, Spanish) — Ecuador, Ministerio de Educación del Ecuador; year 2024 (Primera Edición); ISBN 978-9942-662-16-3. Title as printed: Estudios Sociales — Educación General Básica, Subnivel Elemental, Segundo de Básica; Texto del estudiante para la transición curricular. Grade: Grade 2 (student). 114 PDF pp. (cover/title page verified against the record title; read in place in phase3-staging, 9,005,158 bytes; the book's two records — a TSV release/blob record and a books.json record for the same repo path — are one book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/ecuador-placements.md.
+
+**Book 6:** *Ciencias Sociales — Sexto Grado, Segundo Ciclo, Educación Primaria (Libro Abierto)* (student book, Spanish) — Dominican Republic, Ministerio de Educación (MINERD), Dirección de Currículo, República Dominicana; Libro Abierto Serie 1; ISBN 978-9945-646-03-0 (printed in the book). Title as printed: Ciencias Sociales — Sexto Grado, Segundo Ciclo, Educación Primaria (Libro Abierto). Grade 6 (student). 192 PDF pp. (cover verified against the record title; byte size 44,569,535 matches the GitHub release asset exactly and page count matches the record). Verdict: COMPLETE (combined book — Geography parts placed below; History/Civics parts named in the placements, not placed: Unidad 3 Historia general — nacimiento de la civilización, civilizaciones antiguas, Grecia y Roma, Edad Media, printed p. 45; Unidad 4 Civilizaciones modernas del siglo XVI a la actualidad, p. 60; Unidad 5 Historia de América, p. 76; Unidad 6 Historia de América y la época contemporánea, p. 92; Unidad 7 Historia dominicana 1916–1963, p. 108; Unidad 8 Historia dominicana desde 1965, p. 126; Unidad 9 Organización institucional del pueblo dominicano (Civics), p. 144; Unidad 10 Convivencia humana (Civics), p. 160). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/dominican-republic-placements.md.
+
+**Book 7:** *Ciencias Sociales — Tercer Grado, Primer Ciclo, Educación Primaria (Libro Abierto, Serie 1)* (student book, Spanish) — Dominican Republic, Ministerio de Educación (MINERD), Unidad Editorial, República Dominicana; Libro Abierto Serie 1; ISBN 978-9945-646-00-9 (printed in the book). Title as printed: Ciencias Sociales — Tercer Grado, Primer Ciclo, Educación Primaria (Libro Abierto, Serie 1). Grade 3 (student). 128 PDF pp. (cover verified against the record title; byte size 73,378,327 matches the GitHub release asset exactly and page count matches the record). Verdict: COMPLETE (combined book — Geography parts placed below; History/Civics parts named in the placements, not placed: Unidad 5 Mi país, su identidad y cultura, printed p. 76; Unidad 6 Derechos y deberes para vivir en democracia (Civics), p. 90; Anexo: Constitución Dominicana Infantil, p. 110). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/dominican-republic-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -23,8 +27,10 @@ countries: Ethiopia, Ecuador
 | Sub lesson 6 — The two Americas — Grade 11 portraits (Grade 11 depth) | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 1, printed pp. 17–18 |
 | Teaching sequence and answer keys for the Grade 11 depth (teacher guide — evidence) | Ethiopia, *Geography, Teacher Guide, Grade 11*, guide printed pp. 12–39 |
 | Ecuador part — Países de Sudamérica y sus características | Ecuador, *Estudios Sociales 2do EGB*, Grade 2, Países de Sudamérica y sus características — printed p. 87 |
+| Dominican Republic part (Grade 6) — The continents of the Earth: how they formed (Unidad 2) | Dominican Republic, *Ciencias Sociales, Sexto Grado, Primaria (Libro Abierto)*, Grade 6, The continents of the Earth: how they formed (Unidad 2) — printed p. 29 |
+| Dominican Republic part (Grade 3) — I know the continents: I live on a continent | Dominican Republic, *Ciencias Sociales, Tercer Grado, Primaria (Libro Abierto)*, Grade 3, I know the continents: I live on a continent — printed p. 18 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Ecuador).**
+**Acceptance count: taught in 3 countries (Ethiopia, Ecuador, Dominican Republic).**
 
 Pairing warning: the Grade 8 teacher guide is an Addis Ababa bureau book and the student book is an Amhara bureau book; they are NOT edition-matched, and the guide in hand is truncated (printed pp. 1–47 only, Units 1–3). Pupil content in this lesson comes from the Amhara student book; anything from the guide is labelled (teacher guide — evidence) and never presented as pupil-taught.
 
@@ -33,3 +39,7 @@ Grade 11 depth honesty: the Grade 11 student book's portraits (printed pp. 17–
 Ecuador's own way (Grade 2 book): Geography is taught inside three thematic sections that always start from the child's family, school and province and widen to Ecuador and South America; heavy use of hazard maps (floods, landslides, volcanoes) and emergency plans from Grade 2, reflecting Ecuador's volcanic / El Niño risk profile. That way is stocked here as the way Ecuador teaches this thing.
 
 Searchable tags: continents   the seven in place, ethiopia, social studies, the land and air, Ecuador
+
+Dominican Republic's own way (Grade 6): The Libro Abierto primary books open with two full geography units before any history: geography as a science first (its concepts, principles and helper sciences), then a continent-by-continent tour that always pairs physical aspects with population and culture — and the year's history closes with the country's own lived geography, Hurricane Georges over the Dominican Republic.
+
+Dominican Republic's own way (Grade 3): For third graders geography is the home island first: the planet and its components, then the Antilles and the relief of their own country, then countryside versus city, and finally where their own families came from — migration and a family census the children run themselves.

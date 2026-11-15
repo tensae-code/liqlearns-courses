@@ -1,6 +1,6 @@
 # Sources — Migration — moving for work, safety and family
 
-countries: Ethiopia, Haiti, Costa Rica, Turkmenistan
+countries: Ethiopia, Haiti, Costa Rica, Turkmenistan, Dominican Republic
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Haiti, Costa Rica, Turkmenistan
 
 **Book 5:** *Dünýäniň ykdysady we durmuş geografiýasy (World Economic and Social Geography)* (student book, Turkmen) — Turkmenistan, Türkmen döwlet neşirýat gullugy (Turkmen State Publishing Service), Aşgabat; year 2022; no ISBN printed (UDC 373:911.3; order no. 2149). Title as printed: Dünýäniň ykdysady we durmuş geografiýasy (Umumy orta bilim berýän mekdepleriň X synpy üçin okuw kitaby). Grade 10 (X synp) (student). 264 PDF pp. (cover/title page verified against the record title; 264 pages exact match to the books.json record; read via grab.py url (GitHub release; byte size 7,680,130 exact match to the books.json record), verified by pdfinfo + title page; contents read from the printed Mazmuny (pp. 260-262)). Verdict: COMPLETE. Records: 2 records / 1 distinct book (TSV release URL + books.json record are the same book). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/turkmenistan-placements.md.
 
+**Book 6:** *Ciencias Sociales — Tercer Grado, Primer Ciclo, Educación Primaria (Libro Abierto, Serie 1)* (student book, Spanish) — Dominican Republic, Ministerio de Educación (MINERD), Unidad Editorial, República Dominicana; Libro Abierto Serie 1; ISBN 978-9945-646-00-9 (printed in the book). Title as printed: Ciencias Sociales — Tercer Grado, Primer Ciclo, Educación Primaria (Libro Abierto, Serie 1). Grade 3 (student). 128 PDF pp. (cover verified against the record title; byte size 73,378,327 matches the GitHub release asset exactly and page count matches the record). Verdict: COMPLETE (combined book — Geography parts placed below; History/Civics parts named in the placements, not placed: Unidad 5 Mi país, su identidad y cultura, printed p. 76; Unidad 6 Derechos y deberes para vivir en democracia (Civics), p. 90; Anexo: Constitución Dominicana Infantil, p. 110). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/dominican-republic-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Redistribution, not growth | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 4, printed pp. 112–114 |
@@ -21,8 +23,9 @@ countries: Ethiopia, Haiti, Costa Rica, Turkmenistan
 | Haiti part — Séance 4 Les Haïtiens de l'extérieur (diaspora haïtienne, territoires migratoires et réseaux, carte des diasporas, apport de la diaspora à l'économie) (teacher sequence — evidence) | Haiti, *Sciences humaines et sociales — Géographie — Population urbaine et population rurale en Haïti* (teacher sequence), Grade 8, Séance 4 Les Haïtiens de l'extérieur (diaspora haïtienne, territoires migratoires et réseaux, carte des diasporas, apport de la diaspora à l'économie) — printed p. 16 |
 | Costa Rica part — international spatial mobility for economic and security reasons | Costa Rica, *Antología CONED 10*, Grade 10, Unit 3 Tema II B — printed p. 243 |
 | Turkmenistan part — §14 Settlement and migration of population | Turkmenistan, *Dünýäniň ykdysady we durmuş geografiýasy (World Economic and Social Geography)*, Grade 10, §14 Settlement and migration of population — printed p. 57 |
+| Dominican Republic part (Grade 3) — Migratory mobility: we come and go from one place to another | Dominican Republic, *Ciencias Sociales, Tercer Grado, Primaria (Libro Abierto)*, Grade 3, Migratory mobility: we come and go from one place to another — printed p. 62 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Costa Rica, Turkmenistan). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 4 countries (Ethiopia, Costa Rica, Turkmenistan, Dominican Republic). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
 
 Haiti's own way (teacher sequence — evidence): Population geography is built entirely on Haiti's own data, handled critically: pupils confront the national statistics institute (IHSI) with international sources, note that the last census is 2003, build density maps and age pyramids themselves, then read the whole country through Port-au-Prince's primacy and the diaspora («les Haïtiens de l'extérieur»). That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
@@ -33,3 +36,5 @@ Costa Rica's own way: two-thirds contemporary History/geopolitics, then a closin
 Searchable tags: migration, push pull factors, labour migration, forced migration, ethiopia, social studies, population transport and maps, Haiti, Population urbaine et rurale, teacher sequence evidence, Costa Rica, CONED Antología, Estudios Sociales
 
 Turkmenistan's own way (Grade 10): A classic post-Soviet economic-and-social geography of the whole world in one book: Part I general world (political map, resources, population, world economy by sector), Part II the same template region by region and country by country, Part III global problems — with Turkmenistan's own memberships and ecological policy woven into the questions.
+
+Dominican Republic's own way (Grade 3): For third graders geography is the home island first: the planet and its components, then the Antilles and the relief of their own country, then countryside versus city, and finally where their own families came from — migration and a family census the children run themselves.

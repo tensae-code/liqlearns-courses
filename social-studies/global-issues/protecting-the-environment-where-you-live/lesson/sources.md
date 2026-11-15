@@ -1,6 +1,6 @@
 # Sources — Protecting the Environment Where You Live
 
-countries: Ethiopia, Nauru, Tuvalu, Niue, Mongolia, Jamaica, Angola
+countries: Ethiopia, Nauru, Tuvalu, Niue, Mongolia, Jamaica, Angola, Dominican Republic
 
 **Book 1:** *Social Studies Teacher's Guide, Grade 7* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, first edition 2022 (cover dated 2014 E.C.), 142 printed pp. Printed page = PDF page − 5. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-teacher-placements.md (placement 27).
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Nauru, Tuvalu, Niue, Mongolia, Jamaica, Angola
 
 **Book 10:** *Geografia 5ª Classe* (student book, Portuguese) — Angola, Ministério da Educação / Mensagem Editora, Luanda; year 2021 (3.ª Edição); ISBN 978-989-54802-4-1. Title as printed: Geografia | Manual da 5.ª Classe. Grade 5 (student). 88 PDF pp. (cover/title page verified against the record title; read from the record's own recorded source_url (Portal do Professor de Língua Portuguesa) after the GitHub API grab route repeatedly failed with RemoteDisconnected on 2026-11-14 — so the repo copy was not byte-verified against this read). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/angola-placements.md.
 
+**Book 11:** *Ciencias Sociales — Quinto Grado, Segundo Ciclo, Educación Primaria (Libro Abierto, Serie 1, segunda edición)* (student book, Spanish) — Dominican Republic, Ministerio de Educación (MINERD), República Dominicana; Libro Abierto Serie 1, second edition; ISBN 978-9945-646-02-3 (printed in the book). Title as printed: Ciencias Sociales — Quinto Grado, Segundo Ciclo, Educación Primaria (Libro Abierto, Serie 1, segunda edición). Grade 5 (student). 192 PDF pp. (cover verified against the record title; byte size 95,210,417 matches the GitHub release asset exactly and page count matches the record). Verdict: COMPLETE (combined book — Geography parts placed below; History/Civics parts named in the placements, not placed: Unidad 4 La historia como ciencia, printed p. 58; Unidad 5 Historia de América, p. 74; Unidad 6 América y el Caribe en el siglo XIX, p. 90; Unidad 7 Historia dominicana, p. 106; Unidad 8 Nacionalidad y ciudadanía (Civics), p. 124; Unidad 9 Organización de la sociedad (Civics), p. 142; Unidad 10 Convivencia humana (Civics), p. 158). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/dominican-republic-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What protection is, and who does it (teacher guide — evidence): protection as the practice of conserving the natural environment, valued for conserving what exists, repairing damage and reversing trends; individuals, organisations and governments engaged | Ethiopia, *Social Studies Teacher's Guide, Grade 7*, §7.1.2, printed pp. 106–107 (teacher guide — evidence) |
@@ -35,8 +37,9 @@ countries: Ethiopia, Nauru, Tuvalu, Niue, Mongolia, Jamaica, Angola
 | Jamaica part — Term 3 Unit 4: how I can help to keep my community clean (curriculum guide — evidence) | Jamaica, *Jamaica Grade 4 JM G4 Exploratory Core*, Term 3 Unit 4: how I can help to keep my community clean — printed p. 220 |
 | Jamaica part — Grade 8 Term 3 Unit 3: Environmental Problems and Solutions (curriculum guide — evidence) | Jamaica, *Jamaica Grades 7–9 JM G7-9 Social Studies*, Grade 8 Term 3 Unit 3: Environmental Problems and Solutions — printed p. 114 |
 | Angola part — 6.3 A preservação do ambiente | Angola, *Geografia 5ª Classe*, Grade 5, 6.3 A preservação do ambiente — printed p. 76 |
+| Dominican Republic part (Grade 5) — Defenders of the environment (group activity) | Dominican Republic, *Ciencias Sociales, Quinto Grado, Primaria (Libro Abierto)*, Grade 5, Defenders of the environment (group activity) — printed p. 160 |
 
-**Acceptance count: taught in 5 countries (Nauru, Tuvalu, Niue, Mongolia, Angola). Ethiopia is named here as teacher-guide evidence only, counted nowhere. Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 6 countries (Nauru, Tuvalu, Niue, Mongolia, Angola, Dominican Republic). Ethiopia is named here as teacher-guide evidence only, counted nowhere. Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grade 4 Exploratory Core, curriculum guide — evidence): Social Studies is one of four subjects fused into a single Exploratory Core guide, organised by four attainment themes; Geography enters through Jamaica itself — Taino settlement maps, cardinal points, Jamaica's physical features, parishes, weather and the Earth in the Solar System — always with hands-on map and model work. That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 Jamaica's own way (Grades 7–9 Social Studies, curriculum guide — evidence): one guide carries all three secondary grades, each year mixing Civics, heritage and a strong resources-and-environment Geography spine — natural and human resources, movements of the Earth, Caribbean hazards, climate change, green technology and tourism — taught through Jamaican case material (bauxite communities, Caribbean disasters). That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
@@ -54,3 +57,5 @@ This whole lesson is the Addis Ababa guide's §7.1.2, a standalone protection le
 Searchable tags: environmental protection, afforestation, reforestation, reduce reuse recycle, community participation, teacher guide evidence, Ethiopia Grade 7 Social Studies teacher guide Unit 7, Nauru, People and the Sea in the Pacific, People and the Natural Environment in the Pacific, beach clean-ups, plastic, Tuvalu, Niue, Mongolia, Нийгэм судлал, Jamaica, curriculum guide evidence
 
 Angola's own way (Grade 5): Geography opens as "geographic space" — the natural space and the human-built space (Luanda port, Benguela railway, Cambambe dam, Huambo housing) — before any physical topic; Angola's own position, borders, population figures (INE) and farm/fishery tables carry the world topics. That way is stocked here as the way Angola teaches this thing.
+
+Dominican Republic's own way (Grade 5): Three geography units climb from the planet to the country: general geography and the American continent's location, then how climate varies across the continents — with climographs the children draw and read themselves — then the Dominican Republic's own climate, activities and population, ending with a “discovering the geography of my country” field activity.

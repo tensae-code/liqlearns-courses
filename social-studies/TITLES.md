@@ -103,7 +103,7 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **1005**
+Geography lessons across the eight Geography titles: **1026**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -560,4 +560,25 @@ Systems of the State, Economic Problems with a
 Political Dimension, Social Problems with a
 Political Dimension and International Relations —
 What They Are. (All 41 stand on Egypt's student
+books, counted in acceptance.)
+
++21 for Dominican Republic, 2026-11-14 — The Land
+and Air: Basic Concepts of Geography, Principles of
+Geography, The Earth Sciences and Geography's Helper
+Sciences, The Climates of the Continents, America —
+Location and Geographic Aspects, Europe — A Regional
+Study, Asia — A Regional Study, Africa — A Regional
+Study, Oceania and Antarctica, The Regions of the
+Dominican Republic, The Antilles — Greater and
+Lesser, Relief of the Dominican Republic, The American
+Continent's Physical-Natural Features, The Caribbean
+— Physical Geography, Culture and Population,
+Climographs — Reading a Place's Climate,
+Physical-Natural Features of the Dominican Republic
+and Climate of the Dominican Republic; Population,
+Transport and Maps: Santo Domingo — A Fragmented
+Metropolis, Political Geography and Territorial
+Problems and Geopolitical Order and World Networks;
+Global Issues: Economic Geopolitics of the Continents.
+(All 21 stand on the Dominican Republic's student
 books, counted in acceptance.)

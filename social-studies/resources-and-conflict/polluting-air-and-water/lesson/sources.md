@@ -1,6 +1,6 @@
 # Sources — Polluting air and water
 
-countries: Ethiopia, United Arab Emirates, Jamaica, Palestine, Bangladesh, Turkmenistan
+countries: Ethiopia, United Arab Emirates, Jamaica, Palestine, Bangladesh, Turkmenistan, Dominican Republic
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, United Arab Emirates, Jamaica, Palestine, Bangladesh, Turkm
 
 **Book 7:** *Dünýäniň ykdysady we durmuş geografiýasy (World Economic and Social Geography)* (student book, Turkmen) — Turkmenistan, Türkmen döwlet neşirýat gullugy (Turkmen State Publishing Service), Aşgabat; year 2022; no ISBN printed (UDC 373:911.3; order no. 2149). Title as printed: Dünýäniň ykdysady we durmuş geografiýasy (Umumy orta bilim berýän mekdepleriň X synpy üçin okuw kitaby). Grade 10 (X synp) (student). 264 PDF pp. (cover/title page verified against the record title; 264 pages exact match to the books.json record; read via grab.py url (GitHub release; byte size 7,680,130 exact match to the books.json record), verified by pdfinfo + title page; contents read from the printed Mazmuny (pp. 260-262)). Verdict: COMPLETE. Records: 2 records / 1 distinct book (TSV release URL + books.json record are the same book). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/turkmenistan-placements.md.
 
+**Book 8:** *Ciencias Sociales — Quinto Grado, Segundo Ciclo, Educación Primaria (Libro Abierto, Serie 1, segunda edición)* (student book, Spanish) — Dominican Republic, Ministerio de Educación (MINERD), República Dominicana; Libro Abierto Serie 1, second edition; ISBN 978-9945-646-02-3 (printed in the book). Title as printed: Ciencias Sociales — Quinto Grado, Segundo Ciclo, Educación Primaria (Libro Abierto, Serie 1, segunda edición). Grade 5 (student). 192 PDF pp. (cover verified against the record title; byte size 95,210,417 matches the GitHub release asset exactly and page count matches the record). Verdict: COMPLETE (combined book — Geography parts placed below; History/Civics parts named in the placements, not placed: Unidad 4 La historia como ciencia, printed p. 58; Unidad 5 Historia de América, p. 74; Unidad 6 América y el Caribe en el siglo XIX, p. 90; Unidad 7 Historia dominicana, p. 106; Unidad 8 Nacionalidad y ciudadanía (Civics), p. 124; Unidad 9 Organización de la sociedad (Civics), p. 142; Unidad 10 Convivencia humana (Civics), p. 158). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/dominican-republic-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Air pollution | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 6, printed pp. 172–175 |
@@ -26,8 +28,9 @@ countries: Ethiopia, United Arab Emirates, Jamaica, Palestine, Bangladesh, Turkm
 | Palestine part — Lesson 5: human-made disasters — forms of environmental pollution, its causes and effects | Palestine, *Social Studies, Grade 5, Part One*, Grade 5, Lesson 5: human-made disasters — forms of environmental pollution, its causes and effects — printed pp. 31–35 |
 | Bangladesh part (Grade 6) — River conditions inquiry: causes of river damage and effects on social life | Bangladesh, *History and Social Science, Class Six*, Grade 6, River conditions inquiry: causes of river damage and effects on social life — printed pp. 151-154 |
 | Turkmenistan part — §10 Pollution of the environment and protecting it | Turkmenistan, *Dünýäniň ykdysady we durmuş geografiýasy (World Economic and Social Geography)*, Grade 10, §10 Pollution of the environment and protecting it — printed p. 43 |
+| Dominican Republic part (Grade 5) — The impact of pollution (in Unidad 10, Convivencia humana) | Dominican Republic, *Ciencias Sociales, Quinto Grado, Primaria (Libro Abierto)*, Grade 5, The impact of pollution (in Unidad 10, Convivencia humana) — printed p. 158 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, United Arab Emirates, Palestine, Bangladesh, Turkmenistan). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 6 countries (Ethiopia, United Arab Emirates, Palestine, Bangladesh, Turkmenistan, Dominican Republic). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grade 5 Exploratory Core, curriculum guide — evidence): Grade 5 Social Studies pairs a heritage year (Europeans and Africans, national heroes, Caribbean culture) with a physical-environment year — erosion, locating Jamaica and the Caribbean by compass and latitude/longitude, types of rainfall, the Solar System, plants and water pollution. That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
@@ -38,3 +41,5 @@ Palestine's own way (Grade 5, PS G5P1): Social Studies opens with a full Earth-s
 Bangladesh's own way (Grade 6): an inquiry-based combined History and Social Science course built around a class teacher character and group investigations; Geography is taught through the landform of Bengal itself — rivers, silt and hills explaining settlement, ancient states, ports and even the 1971 war — plus hands-on map-making (home-to-school route maps, a world-tour board game) and a pupil-run nature conservation club.
 
 Turkmenistan's own way (Grade 10): A classic post-Soviet economic-and-social geography of the whole world in one book: Part I general world (political map, resources, population, world economy by sector), Part II the same template region by region and country by country, Part III global problems — with Turkmenistan's own memberships and ecological policy woven into the questions.
+
+Dominican Republic's own way (Grade 5): Three geography units climb from the planet to the country: general geography and the American continent's location, then how climate varies across the continents — with climographs the children draw and read themselves — then the Dominican Republic's own climate, activities and population, ending with a “discovering the geography of my country” field activity.

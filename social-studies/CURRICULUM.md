@@ -2690,3 +2690,69 @@ Dimension (G12, p. 74) and International Relations —
 What They Are (G12, p. 104) — the new lessons taught in
 1 country (Egypt), 8 questions each.
 Geography lessons: 964 → 1005.
+
+
+## Dominican Republic — Geography expansion (merged 2026-11-14)
+
+87 placements stocked from the Dominican Republic's 5 placed
+student books (Ciencias Sociales, Libro Abierto, MINERD —
+Grade 3 Primaria, ISBN 978-9945-646-00-9; Grade 5 Primaria,
+ISBN 978-9945-646-02-3; Grade 6 Primaria, ISBN
+978-9945-646-03-0; Grade 10 / 4° Secundaria, ISBN
+978-9945-646-76-4; Grade 12 / 6° Secundaria, ISBN
+978-9945-646-78-8 — all COMPLETE combined books, Spanish;
+History/Civics parts named in each book's sources, not
+placed). Stocked into standing lessons (63 placements)
+across Earth and Space, The Land and Air, Population,
+Transport and Maps, People and Resources, Culture and
+Work, Resources and Conflict and Global Issues. 21 of
+those placements name slugs that do not exist; each is
+stocked in the closest covering lesson with its original
+slug recorded in the provenance row (the universe → The
+Universe and Space; layers of the Earth → Inside the
+Earth; Earth's axis → Movements — Rotation and
+Revolution; plate boundaries → Plate Tectonics;
+forms of relief → Major and Minor Landforms; volcanoes
+→ Volcanism — Vents, Fissures and the Ring of Fire;
+earthquakes → Earthquakes — The Slipping Earth; the
+hydrological cycle → Anatomy of a Drainage Basin;
+ocean currents → Sea's Moderation and Ocean Currents;
+rivers and lakes → Water Bodies — The Family; winds
+of the world → Coasts, Winds and Pressure Belts;
+natural regions → The World's Biomes; political
+divisions → Types of Political Borders; international
+conventions → International Cooperation — Forms,
+Fields and Actors; climate change as a global problem
+→ Kyoto, Paris and Carbon Neutrality; disasters,
+natural and human-made (Hurricane Georges) → Caribbean
+Hazards — Hurricanes, Volcanoes and Earthquakes;
+time zones and how they work → Time Zones; earthquake
+safety measures → Disaster Mitigation for Each Kind of
+Disaster; staying safe from hurricanes → Preventing and
+Preparing for Natural Hazards; rural and urban zones
+→ Rural and Urban Spaces). 21 NEW lessons built (24
+placements) — **The Land and Air**: Basic Concepts of
+Geography (G6, p. 14; G3, p. 14), Principles of Geography
+(G6, p. 15), The Earth Sciences and Geography's Helper
+Sciences (G6, p. 16), The Climates of the Continents
+(G6, p. 22), America — Location and Geographic Aspects
+(G6, p. 31; G5, p. 12), Europe — A Regional Study (G6,
+p. 32), Asia — A Regional Study (G6, p. 34), Africa —
+A Regional Study (G6, p. 36), Oceania and Antarctica
+(G6, p. 38), The Regions of the Dominican Republic
+(G12, p. 172; G3, p. 34), The Antilles — Greater and
+Lesser (G3, p. 26), Relief of the Dominican Republic
+(G3, p. 30), The American Continent's Physical-Natural
+Features (G5, p. 30), The Caribbean — Physical
+Geography, Culture and Population (G5, p. 32),
+Climographs — Reading a Place's Climate (G5, p. 36),
+Physical-Natural Features of the Dominican Republic
+(G5, p. 42) and Climate of the Dominican Republic (G5,
+p. 44); **Population, Transport and Maps**: Santo
+Domingo — A Fragmented Metropolis (G12, p. 190),
+Political Geography and Territorial Problems (G10,
+p. 58) and Geopolitical Order and World Networks (G10,
+p. 62); **Global Issues**: Economic Geopolitics of the
+Continents (G10, p. 64) — the new lessons taught in
+1 country (Dominican Republic), 8 questions each.
+Geography lessons: 1005 → 1026.

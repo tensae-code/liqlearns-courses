@@ -1,6 +1,6 @@
 # Sources — Maps through history
 
-countries: Ethiopia, Belarus, Turkey, Haiti, Bolivia, Egypt
+countries: Ethiopia, Belarus, Turkey, Haiti, Bolivia, Egypt, Dominican Republic
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Belarus, Turkey, Haiti, Bolivia, Egypt
 
 **Book 7:** *الدراسات الاجتماعية — مصر في قلب العالم (Social Studies — Egypt at the Heart of the World)* (student book, Arabic) — Egypt, Ministry of Education and Technical Education, Egypt; year 2026/2027; no ISBN printed. Title as printed: الدراسات الاجتماعية — مصر في قلب العالم (Social Studies — Egypt at the Heart of the World). Grade 4, Primary 4, Term 1 (student). 114 PDF pp. (cover verified against the record title; 64,334,888 bytes = record size exactly, from the recorded Azure source; staged in phase3-staging/grade-04/gov/egypt/Social_studies_prim4_t1.pdf under the push-don't-delete rule — its books.json record already existed there). Verdict: COMPLETE. Combined Social Studies book: Geography parts placed below; Civics/History parts named in the placements, not placed. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/egypt-placements.md.
 
+**Book 8:** *Ciencias Sociales — Cuarto Grado, Segundo Ciclo, Educación Secundaria (Libro Abierto, Serie 1, segunda edición)* (student book, Spanish) — Dominican Republic, Ministerio de Educación (MINERD), República Dominicana; Libro Abierto Serie 1, second edition; ISBN 978-9945-646-76-4 (printed in the book). Title as printed: Ciencias Sociales — Cuarto Grado, Segundo Ciclo, Educación Secundaria (Libro Abierto, Serie 1, segunda edición). Grade 10 (student). 208 PDF pp. (cover verified against the record title; byte size 36,649,537 matches the GitHub release asset exactly and page count matches the record). Verdict: COMPLETE (combined book — Geography parts placed below; History parts named in the placements, not placed: Unidad 5 La historia como ciencia, printed p. 74; Unidad 6 Los prolongados inicios de la humanidad, p. 90; Unidad 7 La antigüedad clásica europea, p. 106; Unidad 8 Gestación del mundo moderno, p. 122; Unidad 9 Primacía de Europa sobre el mundo, p. 138; Unidad 10 Modernidad y capitalismo, p. 144). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/dominican-republic-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Primitive maps | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 8, printed pp. 197–198 |
@@ -26,8 +28,9 @@ countries: Ethiopia, Belarus, Turkey, Haiti, Bolivia, Egypt
 | Haiti part — Séance 9 De l'importance de la cartographie et de la carte (histoire des cartes, cartes océaniennes, arabes, chinoises, japonaises) (teacher sequence — evidence) | Haiti, *Du rond au plat, représenter le globe terrestre ?* (teacher sequence), Grade 7, Séance 9 De l'importance de la cartographie et de la carte (histoire des cartes, cartes océaniennes, arabes, chinoises, japonaises) — printed p. 18 |
 | Bolivia part — Development and importance of cartography; the value of cartographic materials for representing our territory (teacher guide — evidence) | Bolivia, *Compendio para Maestras y Maestros, Área Ciencias Sociales* (teacher guide), Grade 7 (record grade; teacher guidance), Development and importance of cartography; the value of cartographic materials for representing our territory — printed p. 91 |
 | Egypt part (Grade 4) — Unit 1 Lesson 3: How the map developed | Egypt, *Social Studies, Grade 4, Term 1*, Grade 4, Unit 1 Lesson 3: How the map developed — printed p. 25 |
+| Dominican Republic part (Grade 10) — Representations of the Earth: cartography and maps | Dominican Republic, *Ciencias Sociales, Cuarto Grado, Secundaria (Libro Abierto)*, Grade 10, Representations of the Earth: cartography and maps — printed p. 18 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Belarus, Turkey, Egypt). Haiti is named here as teacher-sequence evidence only, counted nowhere. Bolivia is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 5 countries (Ethiopia, Belarus, Turkey, Egypt, Dominican Republic). Haiti is named here as teacher-sequence evidence only, counted nowhere. Bolivia is named here as teacher-guide evidence only, counted nowhere.**
 
 Haiti's own way (teacher sequence — evidence): Geography opens with representing the Earth itself — globe-to-flat projection problems, orientation practised on the ground with compass/GPS/Google Maps, and time-zone puzzles worked on Haiti's own links (midday shared with Québec, 18h in Paris, Port-au-Prince–Paris flights); every séance ends in a croquis, a glossary and field observation. That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
@@ -38,3 +41,5 @@ Bolivia's own way (teacher guide — evidence): The teacher compendium teaches t
 Searchable tags: history of maps, primitive maps, cartography, survey, social studies, Haiti, Du rond au plat, teacher sequence evidence, Bolivia, Ciencias Sociales Bolivia, teacher guide evidence
 
 Egypt's own way (Grade 4 Term 1): the very first Social Studies book starts from the child's own space — drawing a plan of the home and school, comparing walking routes by length and landmarks — before maps in general, then the child's own city and governorate, and only then Egypt as homeland; a robot mascot teaches alongside named child guides from different governorates.
+
+Dominican Republic's own way (Grade 10): This is the physical-geography year: the universe and Earth's layers, continental drift with volcanoes and earthquakes — including earthquake-prevention measures as a group task — water and winds across the continents, and a closing unit on political and economic geography that treats borders, geopolitical order and international climate agreements as geography, with hurricane-season citizen responsibility as the water unit's group activity.

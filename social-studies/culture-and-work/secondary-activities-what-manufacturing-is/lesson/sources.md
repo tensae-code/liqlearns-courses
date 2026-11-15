@@ -1,6 +1,6 @@
 # Sources — Secondary activities — what manufacturing is
 
-countries: Ethiopia, Ukraine, Bolivia, Bangladesh
+countries: Ethiopia, Ukraine, Bolivia, Bangladesh, Dominican Republic
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 2 — Population Studies and Socio-Economic Activities, printed pp. 44–76).
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Ukraine, Bolivia, Bangladesh
 
 **Book 4:** *History and Social Science, Class Six* (student book, English + Bangla parallel editions) — Bangladesh, National Curriculum and Textbook Board (NCTB), Dhaka, Bangladesh; year 2022 (published December 2022, reprint 2023; National Curriculum 2022); no ISBN printed. Title as printed: History and Social Science, Class Six (Experimental version). Grade 6 (student). 184 PDF pp. (cover/title page verified against the record title; printed pagination runs 1-175 plus front matter, printed p. = PDF p. - 7). Verdict: COMPLETE. Editions: English read fully; Bangla parallel edition spot-checked (cover, contents with identical chapter page spans 1-175, spreads at the Bengal landform maps and Landforms of Bangladesh) — same content, placed once for both editions. Read via grab.py from the GitHub textbooks repo. (Combined History and Social Science book — Geography parts placed below; non-Geography parts named in the placements, not placed: My Different Identity — identity/biography parts, printed pp. 1-25 (map parts placed); Active Citizens Club — civics/rules, pp. 26-31; Ways of Knowing History — history method, pp. 32-35; Looking Around through the Lens of Science — inquiry/science method, pp. 36-49; Muktijuddha in Our Locality — history, pp. 82-104; The Emergence of Independent Bangladesh — history, pp. 105-113; Book Reading Programme — literacy, pp. 114-116; social-structure parts of Natural and Social Structures (family, values, status, state) — civics/sociology, pp. 125-133.) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bangladesh-placements.md.
 
+**Book 5:** *Ciencias Sociales — Quinto Grado, Segundo Ciclo, Educación Primaria (Libro Abierto, Serie 1, segunda edición)* (student book, Spanish) — Dominican Republic, Ministerio de Educación (MINERD), República Dominicana; Libro Abierto Serie 1, second edition; ISBN 978-9945-646-02-3 (printed in the book). Title as printed: Ciencias Sociales — Quinto Grado, Segundo Ciclo, Educación Primaria (Libro Abierto, Serie 1, segunda edición). Grade 5 (student). 192 PDF pp. (cover verified against the record title; byte size 95,210,417 matches the GitHub release asset exactly and page count matches the record). Verdict: COMPLETE (combined book — Geography parts placed below; History/Civics parts named in the placements, not placed: Unidad 4 La historia como ciencia, printed p. 58; Unidad 5 Historia de América, p. 74; Unidad 6 América y el Caribe en el siglo XIX, p. 90; Unidad 7 Historia dominicana, p. 106; Unidad 8 Nacionalidad y ciudadanía (Civics), p. 124; Unidad 9 Organización de la sociedad (Civics), p. 142; Unidad 10 Convivencia humana (Civics), p. 158). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/dominican-republic-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — From raw material to useful goods | Ethiopia, *Social Studies Student Textbook, Grade 8* (Amhara Bureau), printed p. 60 |
@@ -17,8 +19,9 @@ countries: Ethiopia, Ukraine, Bolivia, Bangladesh
 | Ukraine part — §7 The secondary sector of the economy (Europe) | Ukraine, *Geografiya*, Grade 10, §7 — printed p. 37 |
 | Bolivia part — The ammonia and urea plant: industrialising natural gas | Bolivia, *Ciencias Sociales, Sexto Año de Secundaria*, Grade 12, The ammonia and urea plant: industrialising natural gas — printed p. 89 |
 | Bangladesh part (Grade 6) — The urban revolution: cities, craft and trade growing from farming | Bangladesh, *History and Social Science, Class Six*, Grade 6, The urban revolution: cities, craft and trade growing from farming — printed p. 66 |
+| Dominican Republic part (Grade 5) — Secondary economic activities | Dominican Republic, *Ciencias Sociales, Quinto Grado, Primaria (Libro Abierto)*, Grade 5, Secondary economic activities — printed p. 48 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Ukraine, Bolivia, Bangladesh).**
+**Acceptance count: taught in 5 countries (Ethiopia, Ukraine, Bolivia, Bangladesh, Dominican Republic).**
 
 Ukraine's own way: A "Geography: Regions and Countries" course — every region is done in the same order (position, nature/resources, population, primary/secondary/tertiary sectors) then typological country studies with rubrics (country visiting-card, capital, pride of the country, unique experience), ending with Ukraine's own place in the world; research tasks (Дослідження) embedded in chapters. That way is stocked here as the way Ukraine teaches this thing.
 
@@ -29,3 +32,5 @@ Bolivia's own way (Grade 12, Sexto Año): The final year opens with the census i
 Searchable tags: secondary activities: what manufacturing is, culture and work, social studies, ethiopia, Ukraine, Geografiya Gilberg, Bolivia, Ciencias Sociales Bolivia
 
 Bangladesh's own way (Grade 6): an inquiry-based combined History and Social Science course built around a class teacher character and group investigations; Geography is taught through the landform of Bengal itself — rivers, silt and hills explaining settlement, ancient states, ports and even the 1971 war — plus hands-on map-making (home-to-school route maps, a world-tour board game) and a pupil-run nature conservation club.
+
+Dominican Republic's own way (Grade 5): Three geography units climb from the planet to the country: general geography and the American continent's location, then how climate varies across the continents — with climographs the children draw and read themselves — then the Dominican Republic's own climate, activities and population, ending with a “discovering the geography of my country” field activity.
