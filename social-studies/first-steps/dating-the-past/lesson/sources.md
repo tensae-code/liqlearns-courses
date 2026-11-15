@@ -59,3 +59,21 @@ Morocco's own way: Moroccan History is one unbroken national line — the guide'
 Iceland's own way: the Viking Age is taught from Iceland's own ground — children become archaeologists on a field trip, meet a real pagan grave (the "Fjallkona"), read Eiríks saga rauða in the original tradition, and end by building a timeline from 800 to today; the Althing at Þingvellir is the national centrepiece. That way is stocked here as the way Iceland teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 3 countries (Ethiopia, Rwanda, Saudi Arabia) — unchanged; the Iceland placement above is teacher-guide evidence only, counted nowhere. Iceland is not added to this lesson's countries line.**
+
+
+---
+
+## History expansion (2026-11-15) — Rwanda stocked
+
+**Book (Rwanda B3):** *Amasomo Mbonezamubano — Igitabo cy'Umunyeshuri, Umwaka wa gatatu* (student book, Kinyarwanda) — Rwanda. Title as printed: Amasomo Mbonezamubano — Igitabo cy'Umunyeshuri, Umwaka wa gatatu. Grade: Primary 3 (student/teacher: STUDENT). Publisher: Rwanda Education Board (REB); year 2019; ISBN no ISBN printed. PDF pages: 160 (cover/title page verified against the record title). Verdict: COMPLETE. Tally: 4 placements — 3 to existing lessons, 1 NEW LESSON NEEDED. Non-History parts named: Unit 1 Extended family (printed pp. 1–21); Unit 2 Our Sector — geography/civics (pp. 22–54); Unit 3 Hygiene (pp. 55–70); Unit 4 Social relations and good behaviour — civics (pp. 71–83); Unit 5 Economy (pp. 84–93); Unit 6 Cell and Sector leadership — civics (pp. 94–104); Unit 7 Environment in the Sector — geography (pp. 105–133); Unit 8 Transport and communication in the Sector (pp. 134–148). Placements at liqlearns-courses-work/expansion-history-2026-11-15/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda part — Unit 9.2: The timeline (umurongo ndangagihe) — story beats: a boy who cannot order events is taught the line's three parts — past, today, and time to come — so a story lands in its right time (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Rwanda, *Amasomo Mbonezamubano — Igitabo cy'Umunyeshuri, Umwaka wa gatatu*, Grade 3 — Unit 9.2: The timeline (umurongo ndangagihe) — printed p. 150 |
+| Rwanda part — Unit 9.3: Using the timeline — story beats: pupils place their own and their parents' birth years on a line and read off what each marked year means (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Rwanda, *Amasomo Mbonezamubano — Igitabo cy'Umunyeshuri, Umwaka wa gatatu*, Grade 3 — Unit 9.3: Using the timeline — printed p. 151 |
+
+Rwanda's own way (B3): History widens from village to Sector (Umurenge), then becomes a drawn timeline — past/present/future — anchored on Rwanda's own dates: 1962, 1994, 2016. That way is stocked here as the way Rwanda teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Rwanda's Book 4 (rw-p3-tg) is RECORD ONLY — MISMATCH, not placed: the file behind the record is *Inyoborabarezi y'isomo Ry'ubumenyi mbonezamubano — Igice cy'iyobokamana rya gikirisitu, Umwaka wa 3* (Teacher guide for the Christian Religious Education part of Social Studies & Religious Education), Primary 3, Rwanda Education Board (REB), Kigali, 2019, no ISBN printed, 166 PDF pages — it does NOT match the record's Social Studies teacher-guide title, contains no Social Studies Unit 9 (Amateka / timeline) guidance, and its prophet-story lessons are Religious Education, not History. Library debt, as filed: the true P3 Social Studies teacher guide is still missing from the library; this slot holds the RE guide instead.
+
+**Acceptance count: taught in 3 countries (Ethiopia, Rwanda, Saudi Arabia) — unchanged in number; Rwanda was already counted in this lesson through its P3 student book (Geography expansion), and the History placements above add its timeline story beats in full.**

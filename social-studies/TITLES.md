@@ -2965,3 +2965,34 @@ RECORD ONLY — *American Government 3e* (Civics),
 *Psychology 2e* (Psychology) and *Principles of
 Microeconomics for AP® Courses 2e* (Economics), not
 placed.
+
++11 for Rwanda, 2026-11-15 — Africa after 1500: Rwanda —
+key dates: independence, genocide and liberation,
+Rwanda — resistance: King Yuhi V Musinga, Why some
+Africans collaborated, Rwanda — the road to
+independence, Rwanda — national heroes and Heroes Day,
+Rwanda — the First Republic, 1962–1973, Rwanda — the
+Second Republic, 1973–1994, Rwanda — the Liberation
+War, 1990–1994, and Rwanda — the 1994 Genocide against
+the Tutsi; Africa to 1500: Peoples of East Africa —
+Bantu, Nilotic and Hamite migrations; Modern World:
+The Holocaust and other genocides. All 39 Rwanda
+placements stand on Rwanda's REB books (P2, P3, P5 and
+P6 student books, 2019, counted in acceptance; the P2,
+P5 and P6 teacher guides are cited as evidence only,
+outside acceptance counts). The eighteen existing
+lessons stocked rise with Rwanda added except Find
+history in your own locality and Dating the past
+(Rwanda already counted there — counts unchanged at 4
+and 3) and Colonisation — direct and indirect rule
+(P5 teacher guide only — count unchanged at 3): What
+history is 5 → 6, Heritage — what it is and why it
+matters 20 → 21, East African coast — the Swahili
+cities 2 → 3, Colonisation — the road to the Scramble
+1 → 2, Why Europe colonised 1 → 2, Explorers and
+missionaries map the interior 3 → 4, Europeans on the
+coast — trade on African terms 3 → 4, and
+Colonisation — its effects on Africa 1 → 2. Rwanda's
+P3 teacher-guide record (rw-p3-tg) is RECORD ONLY —
+MISMATCH: the file is the Christian Religious
+Education teacher guide, not placed.

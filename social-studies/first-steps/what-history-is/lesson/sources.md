@@ -1,6 +1,6 @@
 # Sources — What history is
 
-countries: Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia
+countries: Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -90,3 +90,25 @@ Switzerland's own way (whole set): History is taught as five true life-stories f
 Djibouti's own way: History is taught entirely as Africa's own story, organised in 9 learning units (UA) that all feed one base competence — arguing for continental integration from Africa's past; every unit is planned twice (elementary and middle band) and then re-taught through sample lesson fiches (PDF pp. 31–69). That way is stocked here as the way Djibouti teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed. Library debt, carried as filed: the Djibouti shelf holds this continental guide, not a Djibouti national curriculum book — Djibouti's own primary history/social-studies book is still missing.
 
 **Acceptance count: taught in 5 countries (Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia) — unchanged; the Djibouti placement(s) above are teacher-guide evidence only, counted nowhere. Djibouti is not added to this lesson's countries line.**
+
+
+---
+
+## History expansion (2026-11-15) — Rwanda stocked
+
+**Book (Rwanda B1):** *Amasomo Mbonezamubano — Igitabo cy'Umunyeshuri, Umwaka wa 2* (student book, Kinyarwanda) — Rwanda. Title as printed: Amasomo Mbonezamubano — Igitabo cy'Umunyeshuri, Umwaka wa 2. Grade: Primary 2 (student/teacher: STUDENT). Publisher: Rwanda Education Board (REB); year 2019; ISBN no ISBN printed. PDF pages: 96 (cover/title page verified against the record title). Verdict: COMPLETE. Tally: 3 placements — 3 to existing lessons, 0 NEW LESSON NEEDED. Non-History parts named: Unit 1 Family (printed pp. 1–8); Unit 2 School, Village and Cell — civics/geography (pp. 9–30); Unit 3 Hygiene (pp. 31–39); Unit 4 Diseases (pp. 40–45); Unit 5 Social relations and good behaviour — civics (pp. 46–61); Unit 6 Economy (pp. 62–73); Unit 7 Environment — geography (pp. 74–83); Unit 8 Transport and communication (pp. 84–88). Placements at liqlearns-courses-work/expansion-history-2026-11-15/rwanda-placements.md.
+
+**Book (Rwanda B2):** *Amasomo Mbonezamubano — Igitabo cy'Umwarimu, Umwaka wa 2* (teacher guide, Kinyarwanda) — Rwanda. Title as printed: Amasomo Mbonezamubano — Igitabo cy'Umwarimu, Umwaka wa 2. Grade: Primary 2 (student/teacher: TEACHER). Publisher: Rwanda Education Board (REB); year 2019; ISBN no ISBN printed. PDF pages: 104 (cover/title page verified against the record title). Verdict: COMPLETE. Tally: 2 placements — 2 to existing lessons, 0 NEW LESSON NEEDED. Cited as teacher-guide evidence only, outside acceptance counts. Non-History parts named: Units 1–8 mirror the P2 pupil's book (Family; School/Village/Cell; Hygiene; Diseases; Social relations; Economy; Environment; Transport/communication), guide pp. 16–95. Placements at liqlearns-courses-work/expansion-history-2026-11-15/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda part — Unit 9: What history means — story beats: a class learns history is what happened in time past, then sorts past events into good and bad — heroes, wars, famine, festivals (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Rwanda, *Amasomo Mbonezamubano — Igitabo cy'Umunyeshuri, Umwaka wa 2*, Grade 2 — Unit 9: What history means — printed p. 89 |
+| Rwanda part — Unit 9 guidance: Defining history and why it matters — story beats: teacher leads pupils to say history is what happened in past time and that knowing it shows where you come from and where you are going (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Rwanda, *Amasomo Mbonezamubano — Igitabo cy'Umwarimu, Umwaka wa 2*, Grade 2 — Unit 9 guidance: Defining history and why it matters — printed p. 97 (teacher guide — evidence) |
+
+Rwanda's own way (B1): History enters at P2 only as the child's own place and school — ask parents and the head teacher, then judge what in a place's past was good or bad. That way is stocked here as the way Rwanda teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Rwanda's own way (B2): Teacher must know Rwanda's history, especially of the school's locality; pupils retell family/local history to classmates and learn to avoid bad history and aim to be heroes. (teacher guide — evidence) That way is stocked here as the way Rwanda teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Rwanda's Book 4 (rw-p3-tg) is RECORD ONLY — MISMATCH, not placed: the file behind the record is *Inyoborabarezi y'isomo Ry'ubumenyi mbonezamubano — Igice cy'iyobokamana rya gikirisitu, Umwaka wa 3* (Teacher guide for the Christian Religious Education part of Social Studies & Religious Education), Primary 3, Rwanda Education Board (REB), Kigali, 2019, no ISBN printed, 166 PDF pages — it does NOT match the record's Social Studies teacher-guide title, contains no Social Studies Unit 9 (Amateka / timeline) guidance, and its prophet-story lessons are Religious Education, not History. Library debt, as filed: the true P3 Social Studies teacher guide is still missing from the library; this slot holds the RE guide instead.
+
+**Acceptance count: taught in 6 countries (Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda).**

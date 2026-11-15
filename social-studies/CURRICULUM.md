@@ -9263,3 +9263,67 @@ placements: *American Government 3e* (Civics),
 *Psychology 2e* (Psychology) and *Principles of
 Microeconomics for AP® Courses 2e* (Economics).
 History lessons: 380 → 407.
+
+
+## History expansion — Rwanda — built 2026-11-15
+
+11 new lessons, 88 questions: 9 in **Africa after 1500** —
+Rwanda — key dates: independence, genocide and liberation
+(africa-after-1500/rwanda-key-dates-independence-genocide-and-liberation),
+Rwanda — resistance: King Yuhi V Musinga
+(africa-after-1500/rwanda-resistance-king-yuhi-v-musinga),
+Why some Africans collaborated
+(africa-after-1500/why-some-africans-collaborated),
+Rwanda — the road to independence
+(africa-after-1500/rwanda-road-to-independence),
+Rwanda — national heroes and Heroes Day
+(africa-after-1500/rwanda-national-heroes-and-heroes-day),
+Rwanda — the First Republic, 1962–1973
+(africa-after-1500/rwanda-first-republic-1962-1973),
+Rwanda — the Second Republic, 1973–1994
+(africa-after-1500/rwanda-second-republic-1973-1994),
+Rwanda — the Liberation War, 1990–1994
+(africa-after-1500/rwanda-liberation-war-1990-1994) and
+Rwanda — the 1994 Genocide against the Tutsi
+(africa-after-1500/rwanda-1994-genocide-against-the-tutsi);
+1 in **Africa to 1500**: Peoples of East Africa — Bantu,
+Nilotic and Hamite migrations
+(africa-to-1500/peoples-of-east-africa-bantu-nilotic-and-hamite-migrations);
+and 1 in **The Modern World**: The Holocaust and other
+genocides (modern-world/the-holocaust-and-other-genocides)
+— 39 placements stocked in all: the 21 placements in the
+11 new lessons above (P3 student book Unit 9.3, printed
+p. 151; P5 student book Units 10.3–10.7, printed
+pp. 114–123, with P5 teacher-guide evidence at guide
+pp. 152 and 160; P6 student book Units 2.5.4, 9.1–9.2,
+11.1–11.3 and 12.1–12.8, printed pp. 61, 204, 208, 231,
+234, 239, 245, 249 and 257, with P6 teacher-guide
+evidence at guide pp. 58, 163, 191 and 204) and 18
+stocked into existing lessons (First Steps What history
+is, P2 student p. 89 with P2 teacher-guide evidence
+p. 97, now taught in 6 countries; Find history in your
+own locality, P2 student pp. 89–90, P2 guide evidence
+p. 97 and P3 student p. 149 — Rwanda already counted
+there, count unchanged at 4; Dating the past, P3 student
+pp. 150–151 — Rwanda already counted there, count
+unchanged at 3; Heritage — what it is and why it
+matters, P6 student p. 54, now taught in 21 countries;
+Africa to 1500 East African coast — the Swahili cities,
+P6 student p. 269, now taught in 3 countries; Africa
+after 1500 Colonisation — the road to the Scramble, P5
+student p. 112, now taught in 2 countries; Why Europe
+colonised, P5 student p. 113, now taught in 2 countries;
+Explorers and missionaries map the interior, P5 student
+p. 116 and P6 student pp. 265 and 267, now taught in 4
+countries; Europeans on the coast — trade on African
+terms, P5 student p. 120, now taught in 4 countries;
+Colonisation — its effects on Africa, P6 student
+p. 273, now taught in 2 countries; and Colonisation —
+direct and indirect rule, P5 teacher guide p. 150 only —
+teacher-guide evidence only, counted nowhere, count
+unchanged at 3). Rwanda's Book 4 (rw-p3-tg) is RECORD
+ONLY — MISMATCH: the file is the Christian Religious
+Education teacher guide, not the Social Studies guide;
+not placed, and the true P3 Social Studies teacher guide
+is still missing from the library. History lessons:
+407 → 418.

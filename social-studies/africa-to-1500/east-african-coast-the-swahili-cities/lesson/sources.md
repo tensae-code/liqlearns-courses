@@ -1,6 +1,6 @@
 # Sources — East African Coast — the Swahili Cities
 
-countries: Ethiopia, Nigeria
+countries: Ethiopia, Nigeria, Rwanda
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -33,3 +33,19 @@ Nigeria's own way: Nigeria's SSS history course deliberately teaches other regio
 
 **Acceptance count: taught in 2 countries (Ethiopia, Nigeria).**
 
+
+---
+
+## History expansion (2026-11-15) — Rwanda stocked
+
+**Book (Rwanda B7):** *Social Studies for Rwanda Schools — Primary 6 Pupil's Book* (student book, English) — Rwanda. Title as printed: Social Studies for Rwanda Schools — Primary 6 Pupil's Book. Grade: Primary 6 (student/teacher: STUDENT). Publisher: Rwanda Education Board (REB); year 2019 (Revised Edition); ISBN no ISBN printed. PDF pages: 157 (printed pp. 1–282+; cover/title page verified against the record title). Verdict: COMPLETE. Tally: 15 placements — 5 to existing lessons, 10 NEW LESSON NEEDED. Non-History parts named: Unit 1 Our country — geography (printed pp. 1–7); Unit 2 Civics and governance except 2.5 Heroism (pp. 8–95); Unit 3 Hygiene (pp. 96–113); Unit 4 Public places and assets (pp. 114–124); Unit 5 Budget — economy (pp. 125–139); Unit 6 Direction, location, physical features and climate — geography (pp. 140–179); Unit 7 Economic activities (pp. 180–189); Unit 8 Natural resources — geography (pp. 190–202); Unit 10 Transport and communication (pp. 213–229). Placements at liqlearns-courses-work/expansion-history-2026-11-15/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda part — Unit 13.3: Traders in East Africa — story beats: Arab traders settle the coast, found Mombasa and Lamu, bring Islam, cowrie shells, cloves and rice; Indians bring the rupee and Portuguese build Fort Jesus and bring maize and cassava (History expansion, 2026-11-15; original placement slug: africa-to-1500/east-african-coast-the-swahili-cities) | Rwanda, *Social Studies for Rwanda Schools — Primary 6 Pupil's Book*, Grade 6 — Unit 13.3: Traders in East Africa — printed p. 269 |
+
+Rwanda's own way (B7): The final primary year is Rwanda's own modern story told whole — the two Republics, the Liberation War, and a full unit on the 1994 Genocide against the Tutsi, compared with the Holocaust, Cambodia and Bosnia. That way is stocked here as the way Rwanda teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Rwanda's Book 4 (rw-p3-tg) is RECORD ONLY — MISMATCH, not placed: the file behind the record is *Inyoborabarezi y'isomo Ry'ubumenyi mbonezamubano — Igice cy'iyobokamana rya gikirisitu, Umwaka wa 3* (Teacher guide for the Christian Religious Education part of Social Studies & Religious Education), Primary 3, Rwanda Education Board (REB), Kigali, 2019, no ISBN printed, 166 PDF pages — it does NOT match the record's Social Studies teacher-guide title, contains no Social Studies Unit 9 (Amateka / timeline) guidance, and its prophet-story lessons are Religious Education, not History. Library debt, as filed: the true P3 Social Studies teacher guide is still missing from the library; this slot holds the RE guide instead.
+
+**Acceptance count: taught in 3 countries (Ethiopia, Nigeria, Rwanda).**

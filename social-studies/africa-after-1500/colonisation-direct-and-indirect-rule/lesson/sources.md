@@ -52,3 +52,20 @@ Gambia's own way (History expansion, 2026-11-15): A free, scholar-written region
 Djibouti's own way: History is taught entirely as Africa's own story, organised in 9 learning units (UA) that all feed one base competence — arguing for continental integration from Africa's past; every unit is planned twice (elementary and middle band) and then re-taught through sample lesson fiches (PDF pp. 31–69). That way is stocked here as the way Djibouti teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed. Library debt, carried as filed: the Djibouti shelf holds this continental guide, not a Djibouti national curriculum book — Djibouti's own primary history/social-studies book is still missing.
 
 **Acceptance count: taught in 3 countries (Ethiopia, Angola, Gambia) — unchanged; the Djibouti placement(s) above are teacher-guide evidence only, counted nowhere. Djibouti is not added to this lesson's countries line.**
+
+
+---
+
+## History expansion (2026-11-15) — Rwanda stocked
+
+**Book (Rwanda B6):** *Social Studies — Teacher's Guide for Rwanda Primary Schools P5 (Revised Edition 2019)* (teacher guide, English) — Rwanda. Title as printed: Social Studies — Teacher's Guide for Rwanda Primary Schools P5 (Revised Edition 2019). Grade: Primary 5 (student/teacher: TEACHER). Publisher: Rwanda Education Board (REB); year 2019; ISBN no ISBN printed. PDF pages: 106 (guide printed pp. 1–172 approx., two printed pages per PDF page; cover/title page verified against the record title). Verdict: COMPLETE. Tally: 3 placements — 1 to existing lessons, 2 NEW LESSON NEEDED. Cited as teacher-guide evidence only, outside acceptance counts. Non-History parts named: Units 1–9 mirror the P5 pupil's book (Province/geography; Cohesion/civics; Hygiene; Civics and governance; Economy; Social services; Environment; Population; Infrastructure), guide lessons before Unit 10 (guide pp. 1–146); Unit 10 Lessons 11–13 Government organs — civics (guide pp. 163–167). Placements at liqlearns-courses-work/expansion-history-2026-11-15/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda part — Unit 10 Lesson 3: Forms of colonisation — story beats: teacher contrasts colony and protectorate and Germany's indirect rule through the king with Belgium's direct rule that stripped the king's power (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: africa-after-1500/colonisation-direct-and-indirect-rule) | Rwanda, *Social Studies — Teacher's Guide for Rwanda Primary Schools P5 (Revised Edition 2019)*, Grade 5 — Unit 10 Lesson 3: Forms of colonisation — printed p. 150 (teacher guide — evidence) |
+
+Rwanda's own way (B6): Unit 10 is labelled TOPIC AREA: HISTORY in the guide and taught in 13 lessons with flowcharts and guided discussion, aiming to develop nationalism and patriotism. (teacher guide — evidence) That way is stocked here as the way Rwanda teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Rwanda's Book 4 (rw-p3-tg) is RECORD ONLY — MISMATCH, not placed: the file behind the record is *Inyoborabarezi y'isomo Ry'ubumenyi mbonezamubano — Igice cy'iyobokamana rya gikirisitu, Umwaka wa 3* (Teacher guide for the Christian Religious Education part of Social Studies & Religious Education), Primary 3, Rwanda Education Board (REB), Kigali, 2019, no ISBN printed, 166 PDF pages — it does NOT match the record's Social Studies teacher-guide title, contains no Social Studies Unit 9 (Amateka / timeline) guidance, and its prophet-story lessons are Religious Education, not History. Library debt, as filed: the true P3 Social Studies teacher guide is still missing from the library; this slot holds the RE guide instead.
+
+**Acceptance count: taught in 3 countries (Ethiopia, Angola, Gambia) — unchanged; the Rwanda placement above is teacher-guide evidence only, counted nowhere. Rwanda is not added to this lesson's countries line.**

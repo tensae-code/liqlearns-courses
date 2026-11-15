@@ -1,6 +1,6 @@
 # Sources — Heritage — what it is and why it matters
 
-countries: Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivia, Zimbabwe, Eritrea, Cambodia, Fiji, Slovenia, Syria, Mauritania, Jordan, Bhutan, Cuba, Greece, Nauru, Niue, Tuvalu, Saudi Arabia
+countries: Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivia, Zimbabwe, Eritrea, Cambodia, Fiji, Slovenia, Syria, Mauritania, Jordan, Bhutan, Cuba, Greece, Nauru, Niue, Tuvalu, Saudi Arabia, Rwanda
 
 **Book 1:** *History, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, Addis Ababa, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-064-2, 210 printed pp. Printed page = PDF page − 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g09-student-placements.md
 
@@ -228,3 +228,20 @@ This book is a teacher guide. The Switzerland row below stands on it as teacher-
 Switzerland's own way (whole set): History is taught as five true life-stories from one canton (Graubünden/Grischun/Grigioni). A slim pupil reader tells each fate as a story with facsimile original sources, and a teacher companion at each level (Sekundarstufe I ≈ Grade 7, Sekundarstufe II ≈ Grade 10) supplies the background, the worksheets and — at Sek II — extra documents and a deepening question per case. The question over the whole set is in its title: care, or coercion? Switzerland's own way (Sek II companion): At the upper level the same five fates are re-entered at research depth — pupils weigh a lawyer's appeal against a government's rejection word for word, debate whether a welfare scheme was cultural genocide, and judge a reparation law against the popular initiative that forced it. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 20 countries (Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivia, Eritrea, Cambodia, Fiji, Slovenia, Syria, Mauritania, Jordan, Bhutan, Cuba, Greece, Nauru, Niue, Tuvalu, Saudi Arabia) — unchanged; the Switzerland placement above is teacher-guide evidence only, counted nowhere. Zimbabwe remains named as teacher-guide evidence only, counted nowhere.**
+
+
+---
+
+## History expansion (2026-11-15) — Rwanda stocked
+
+**Book (Rwanda B7):** *Social Studies for Rwanda Schools — Primary 6 Pupil's Book* (student book, English) — Rwanda. Title as printed: Social Studies for Rwanda Schools — Primary 6 Pupil's Book. Grade: Primary 6 (student/teacher: STUDENT). Publisher: Rwanda Education Board (REB); year 2019 (Revised Edition); ISBN no ISBN printed. PDF pages: 157 (printed pp. 1–282+; cover/title page verified against the record title). Verdict: COMPLETE. Tally: 15 placements — 5 to existing lessons, 10 NEW LESSON NEEDED. Non-History parts named: Unit 1 Our country — geography (printed pp. 1–7); Unit 2 Civics and governance except 2.5 Heroism (pp. 8–95); Unit 3 Hygiene (pp. 96–113); Unit 4 Public places and assets (pp. 114–124); Unit 5 Budget — economy (pp. 125–139); Unit 6 Direction, location, physical features and climate — geography (pp. 140–179); Unit 7 Economic activities (pp. 180–189); Unit 8 Natural resources — geography (pp. 190–202); Unit 10 Transport and communication (pp. 213–229). Placements at liqlearns-courses-work/expansion-history-2026-11-15/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda part — Unit 2.5: Heroism and the categories of heroes — story beats: Rwanda sorts its heroes into Imanzi, Imena and Ingenzi, remembered every 1 February, from Rwigema and the Unknown Soldier to the Nyange school students who in 1997 refused to split by ethnic group and were killed (History expansion, 2026-11-15; original placement slug: first-steps/heritage-what-it-is-and-why-it-matters) | Rwanda, *Social Studies for Rwanda Schools — Primary 6 Pupil's Book*, Grade 6 — Unit 2.5: Heroism and the categories of heroes — printed p. 54 |
+
+Rwanda's own way (B7): The final primary year is Rwanda's own modern story told whole — the two Republics, the Liberation War, and a full unit on the 1994 Genocide against the Tutsi, compared with the Holocaust, Cambodia and Bosnia. That way is stocked here as the way Rwanda teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+Rwanda's Book 4 (rw-p3-tg) is RECORD ONLY — MISMATCH, not placed: the file behind the record is *Inyoborabarezi y'isomo Ry'ubumenyi mbonezamubano — Igice cy'iyobokamana rya gikirisitu, Umwaka wa 3* (Teacher guide for the Christian Religious Education part of Social Studies & Religious Education), Primary 3, Rwanda Education Board (REB), Kigali, 2019, no ISBN printed, 166 PDF pages — it does NOT match the record's Social Studies teacher-guide title, contains no Social Studies Unit 9 (Amateka / timeline) guidance, and its prophet-story lessons are Religious Education, not History. Library debt, as filed: the true P3 Social Studies teacher guide is still missing from the library; this slot holds the RE guide instead.
+
+**Acceptance count: taught in 21 countries (Ethiopia, United Arab Emirates, Micronesia, Mongolia, Ecuador, Bolivia, Eritrea, Cambodia, Fiji, Slovenia, Syria, Mauritania, Jordan, Bhutan, Cuba, Greece, Nauru, Niue, Tuvalu, Saudi Arabia, Rwanda). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
