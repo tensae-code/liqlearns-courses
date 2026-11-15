@@ -645,3 +645,50 @@ placed: Grade 4 module Topic 4.8 Entrepreneurship (printed
 pp. 7–14 — Business), Topic 4.9 Learning About Money (printed
 pp. 15–21 — money/Business) and its Sample Lesson Plan
 (printed p. 22). Geography lessons: 563 → 567.
+## Geography expansion — Iceland — built 2026-11-14
+
+Iceland — 11 placements stocked from 5 books (all Icelandic
+Námsgagnastofnun publications, no ISBN printed): *Trúarbrögðin
+okkar, Kennsluleiðbeiningar* (Grade 1 teacher guide, COMPLETE
+for its Geography/Culture scope; 3 placements), *Trúarbrögðin
+okkar, Sögurammi* (Grade 1 teacher guide, COMPLETE for its
+Geography/Culture scope; 1 placement), *Vinnukort í landafræði:
+ÍSLAND Umdæmisskipting* (Grade 5 student work card, COMPLETE;
+2 placements), *Vinnukort í landafræði: ÍSLAND Helstu ár og
+vötn* (Grade 5 student work card, COMPLETE; 1 placement) and
+*Indland, risinn í austri, Kennsluleiðbeiningar* (Grade 5
+record-grade teacher guide for a 14-minute film, COMPLETE; 4
+placements). 3 stocked into standing lessons — **Culture and
+Work**: Culture — religion and freedom of belief (Trúarbrögðin
+okkar KLB, guide to student book pp. 7–43, printed p. 8;
+Sögurammi five-week story frame, printed p. 1; the lesson stays
+taught in 1 country, Ethiopia, with Iceland named as
+teacher-guide evidence only) — and **The Land and Air**: Water
+bodies — rivers (Helstu ár og vötn outline map, printed p. 1;
+now taught in 2 countries, Ethiopia and Iceland) — and 8 new
+lessons built (8 questions each) — in **Culture and Work**:
+Festivals of the world's religions (teacher-guide evidence
+only, KLB printed p. 17 on student book p. 37, acceptance
+0 countries), Sacred texts, food and clothing of religions
+(teacher-guide evidence only, KLB printed p. 17 on student
+book pp. 38–43, acceptance 0 countries) and Religion and
+caste in India (teacher-guide evidence only, Indland KLB
+Ch. 2, printed p. 2, acceptance 0 countries); in
+**Population, Transport and Maps**: Iceland's administrative
+districts (student book, Umdæmisskipting, printed p. 1,
+taught in 1 country, Iceland); in **The Land and Air**:
+Reading a district boundary map of Iceland (student book,
+printed p. 3, taught in 1 country, Iceland) and India —
+landscape and monsoon climate (teacher-guide evidence only,
+Indland KLB Ch. 1, printed p. 2, acceptance 0 countries);
+in **People and Resources**: India's growing economy
+(teacher-guide evidence only, Indland KLB Ch. 3, printed
+p. 2, acceptance 0 countries); in **Global Issues**: India's
+environmental problems (teacher-guide evidence only, Indland
+KLB Ch. 4, printed p. 3, acceptance 0 countries).
+Record-only, not placed: *Spor 1, Kennsluleiðbeiningar*
+(Life Skills, Grade 1 teacher guide), *Lýðræði og tækni,
+Kennsluleiðbeiningar* (History, Grade 8 teacher guide) and
+*Víkingaöld, Kennsluleiðbeiningar* (History, Grade 5 teacher
+guide) — other subjects entirely, owned by later waves.
+Geography lessons: 567 → 575.

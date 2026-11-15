@@ -34,13 +34,14 @@ the one title at rising depth wherever a title spans both books
 - `population-transport-and-maps/` — people on the Earth:
   distribution, movement, transport, and reading maps
   (including colouring Suriname's map and flag, Argentina's
-  population today, thematic maps of Mercosur integration and
-  a day on the border).
+  population today, thematic maps of Mercosur integration, a
+  day on the border and Iceland's administrative districts).
 - `people-and-resources/` — settlement, natural resources,
   economic activities, and looking after the land (including
   quality of life — Argentina and Latin America compared,
-  Mercosur economic integration, kinds of integration and the
-  South American gas pipeline database).
+  Mercosur economic integration, kinds of integration, the
+  South American gas pipeline database and India's growing
+  economy).
 - `ethiopia-ancient-and-medieval/` — Ethiopia from the earliest
   times through the medieval kingdoms and sultanates.
 - `africa-to-1500/` — Africa's peoples, states and trade to
@@ -51,10 +52,14 @@ the one title at rising depth wherever a title spans both books
   shape the land, the atmosphere, weather and climate, map work
   (including the UAE's location and emirates map and desert
   wildlife of the UAE, Zambia's agro-ecological regions and
-  climate and agro-ecological regions).
+  climate and agro-ecological regions, reading a district
+  boundary map of Iceland and India — landscape and monsoon
+  climate).
 - `culture-and-work/` — culture, economic activities, trade,
   and tax (including agriculture in Zambia's agro-ecological
-  regions).
+  regions, festivals of the world's religions, sacred texts,
+  food and clothing of religions, and religion and caste in
+  India).
 - `resources-and-conflict/` — natural resources, their care,
   and conflict over resources (including environmental hazards
   and disasters).
@@ -67,12 +72,13 @@ the one title at rising depth wherever a title spans both books
   teacher evidence yet.)
 - `global-issues/` — today's shared problems: population
   pressure, HIV/AIDS, climate, water, forests — and protecting
-  the environment where you live. (Grade 8 part: no teacher
+  the environment where you live (including India's
+  environmental problems). (Grade 8 part: no teacher
   evidence yet.)
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **567**
+Geography lessons across the eight Geography titles: **575**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -91,4 +97,11 @@ Zambia, 2026-11-14 — Resources and Conflict: Environmental
 hazards and disasters; The Land and Air: Zambia's
 agro-ecological regions and Climate and agro-ecological
 regions; Culture and Work: Agriculture in Zambia's
-agro-ecological regions).
+agro-ecological regions; +8 for Iceland, 2026-11-14 —
+Population, Transport and Maps: Iceland's administrative
+districts; The Land and Air: Reading a district boundary map
+of Iceland and India — landscape and monsoon climate;
+Culture and Work: Festivals of the world's religions, Sacred
+texts, food and clothing of religions and Religion and caste
+in India; People and Resources: India's growing economy;
+Global Issues: India's environmental problems).
