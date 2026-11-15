@@ -1,6 +1,6 @@
 # Sources — Revolution and the Seasons
 
-countries: Ethiopia, Myanmar, Turkey
+countries: Ethiopia, Myanmar, Turkey, Jamaica
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page - 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md.
 
@@ -8,13 +8,18 @@ countries: Ethiopia, Myanmar, Turkey
 
 **Book 3:** *Ortaöğretim Coğrafya 9. Sınıf Ders Kitabı* (student book, Turkish) — Turkey, Millî Eğitim Bakanlığı (MEB), Devlet Kitapları; year 2017 (Birinci Baskı); ISBN 978-975-11-4324-2. Title as printed: Ortaöğretim Coğrafya 9 — Ders Kitabı (authors İsmail Özdoğan, Kenan Türkez, Mutlu Karakoç). Grade 9 (student). 240 PDF pp. (cover/title page verified against the record title; read from the record's archive.org source_url copy — the repo copy later landed by git sparse checkout at exactly the same byte size, 25,904,697 bytes, confirming the same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/turkey-placements.md.
 
+**Book 4:** *National Standards Curriculum — Exploratory Core, Grade 6 (Language Arts / Mathematics / Science / Social Studies), FINAL Jan 08 2020* (curriculum guide, English) — Jamaica, Ministry of Education, Youth & Information, Jamaica; year 2020; ISBN no ISBN printed. Title as printed: National Standards Curriculum — Exploratory Core, Grade 6 (Language Arts / Mathematics / Science / Social Studies), FINAL Jan 08 2020. Grade: Grade 6 (student/teacher: TEACHER — curriculum guide). 373 PDF pp. (cover verified against the record title; 5,913,507 bytes, matches record size_bytes). Social Studies section printed pp. 162–226. Verdict: COMPLETE for the Social Studies section (Geography scope). Guides read IN PLACE in phase3-staging where on disk, covers verified by render, full text read via pdftotext -layout. History parts (named, not placed): Term 1 Unit 2 How Jamaica achieved independence, printed p. 173. Civics parts (named, not placed): Term 1 Unit 3 How we show respect and loyalty for our country (national symbols), printed p. 178; Term 2 Unit 3 How decisions are made at the national level, printed p. 193. Cited as curriculum-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jamaica-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — what revolution causes: the Sun's apparent journey, day length, seasons | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 1, printed pp. 21–23 |
 | The seasons — Myanmar way: 1.2 Formation of seasons (teacher guide — evidence) | Myanmar, *Teacher Guide — Geography — Grade 6* (teacher guide), §1.2, printed p. 15 |
 | Turkey part — 4B2 Dünya'nın Yıllık (Yörünge) Hareketi (annual/orbital movement) | Turkey, *Ortaöğretim Coğrafya 9. Sınıf Ders Kitabı*, Grade 9, 4B2 Dünya'nın Yıllık (Yörünge) Hareketi (annual/orbital movement) — printed p. 88 |
+| Jamaica part — Term 3 Unit 2: how Earth's revolution impacts us — seasons (curriculum guide — evidence) | Jamaica, *Jamaica Grade 6 JM G6 Exploratory Core*, Term 3 Unit 2: how Earth's revolution impacts us — seasons — printed p. 207 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Turkey). Myanmar is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 2 countries (Ethiopia, Turkey). Myanmar is named here as teacher-guide evidence only, counted nowhere. Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
+
+Jamaica's own way (Grade 6 Exploratory Core, curriculum guide — evidence): the Grade 6 Social Studies year is built as three paired terms — culture and independence first, then the physical world (mountains, landmasses and water bodies), then climate, Earth movements and the atmosphere, closing on Caribbean cooperation. That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
 Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
@@ -22,4 +27,4 @@ Myanmar's own way (teacher guide — evidence): the year is split into five para
 
 No book errors are flagged by the placements for these pages.
 
-Searchable tags: seasons, revolution, tropics, Cancer, Capricorn, day length, hemispheres, Myanmar, Teacher Guide Geography Grade 6, teacher guide evidence
+Searchable tags: seasons, revolution, tropics, Cancer, Capricorn, day length, hemispheres, Myanmar, Teacher Guide Geography Grade 6, teacher guide evidence, Jamaica, curriculum guide evidence

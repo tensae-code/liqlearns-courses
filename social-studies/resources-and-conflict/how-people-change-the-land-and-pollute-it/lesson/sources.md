@@ -1,6 +1,6 @@
 # Sources — How people change the land — and pollute it
 
-countries: Ethiopia, Turkey, Nauru, Tuvalu, Niue
+countries: Ethiopia, Turkey, Nauru, Tuvalu, Niue, Jamaica
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Turkey, Nauru, Tuvalu, Niue
 
 **Book 6:** *People and the Natural Environment in the Pacific* (student book, English) — Niue, Institute of Education, University of the South Pacific (Tonga Campus), for UNESCO/Japanese Funds-in-Trust ESD project; year 2020; no ISBN printed. Title as printed: People and the Natural Environment in the Pacific — A Social Sciences related reader for Primary School, Book 3 (inner title page: Years 7–8 — see the grade note). Grade: Grade 5 record / Years 5–6 per the Teacher Guide, Years 7–8 per the inner title page (student). Niue advisor: Birtha Togahai. 24 PDF pp. (cover verified against the record title; read in full via pdftotext, page by page). Verdict: COMPLETE (content printed pp. 1–19). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/niue-placements.md.
 
+**Book 7:** *National Standards Curriculum — Social Studies, Grades 7–9 (APSE1)* (curriculum guide, English) — Jamaica, Ministry of Education, Youth & Information, Jamaica; year 2020 (Jan 2020 edition); ISBN no ISBN printed. Title as printed: National Standards Curriculum — Social Studies, Grades 7–9 (APSE1). Grade: Grades 7–9 (student/teacher: TEACHER — curriculum guide). 219 PDF pp. (cover verified against the record title; 11,411,709 bytes, matches record size_bytes). Verdict: COMPLETE (Geography scope). Guides read IN PLACE in phase3-staging where on disk, covers verified by render, full text read via pdftotext -layout. History parts (named, not placed): Grade 7 Term 1 Unit 2 National Heroes and Their Contributions to Jamaica's Development, printed p. 10; Grade 8 Term 1 Unit 1 Nationalism and Development, printed p. 70. Civics / Sociology parts (named, not placed): Grade 7 Term 1 Unit 1 The Rights and Responsibilities of the Citizen, printed p. 4; Grade 7 Term 2 Unit 3 Social Groups and Institutions, printed p. 36; Grade 7 Term 2 Unit 4 Social Groups — The Family, printed p. 42; Grade 8 Term 1 Unit 2 Communication and Media Literacy, printed p. 74; Grade 8 Term 2 Unit 2 Institutions: Economic Institutions, printed p. 89; Grade 9 Term 1 Unit 2 The Caribbean Individual and Regional Integration, printed p. 129; Grade 9 Term 1 Unit 3 Social Issues in Jamaica, printed p. 135; Grade 9 Term 2 Unit 2 Political Institution: The Structure of the Jamaican Government, printed p. 147; Grade 9 Term 2 Unit 3 The Electoral Process, printed p. 152. Cited as curriculum-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jamaica-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Modification | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 6, printed pp. 157–162 |
@@ -23,8 +25,11 @@ countries: Ethiopia, Turkey, Nauru, Tuvalu, Niue
 | Nauru part — Waste disposal (imported packaged food, plastic, dumping rubbish in the bush) | Nauru, *People and the Natural Environment in the Pacific*, Grade 5, Waste disposal — printed p. 18 |
 | Tuvalu part — Waste disposal (imported packaged food, plastic, dumping rubbish in the bush) | Tuvalu, *People and the Natural Environment in the Pacific*, Grade 5, Waste disposal (imported packaged food, plastic, dumping rubbish in the bush) — printed p. 18 |
 | Niue part — Waste disposal (imported packaged food, plastic and rubbish dumped in the bush) (placement target global-issues/waste-disposal-and-plastic-litter-in-the-pacific — stocked here as the closest existing lesson) | Niue, *People and the Natural Environment in the Pacific*, Grade 5, Waste disposal (imported packaged food, plastic and rubbish dumped in the bush) — printed p. 18 |
+| Jamaica part — Grade 8 Term 2 Unit 1: The Impact of Human Activities on Caribbean Landscape (curriculum guide — evidence) | Jamaica, *Jamaica Grades 7–9 JM G7-9 Social Studies*, Grade 8 Term 2 Unit 1: The Impact of Human Activities on Caribbean Landscape — printed p. 84 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Turkey, Nauru, Tuvalu, Niue).**
+**Acceptance count: taught in 5 countries (Ethiopia, Turkey, Nauru, Tuvalu, Niue). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
+
+Jamaica's own way (Grades 7–9 Social Studies, curriculum guide — evidence): one guide carries all three secondary grades, each year mixing Civics, heritage and a strong resources-and-environment Geography spine — natural and human resources, movements of the Earth, Caribbean hazards, climate change, green technology and tourism — taught through Jamaican case material (bauxite communities, Caribbean disasters). That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
 Niue's own way: Niue uses the shared Pacific ESD reader suite (Niue advisor Birtha Togahai) — land Geography is taught through Pacific farming itself: taro, pulaka and the coconut "tree of life", with Niue's own crops, exports and name-story ("behold the coconut") as anchor examples, and shifting cultivation/fallowing taught as sound science. That way is stocked here as the way Niue teaches this thing.
 
@@ -34,4 +39,4 @@ Tuvalu's own way: the land-side companion to the sea reader — and Tuvalu's own
 
 Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
-Searchable tags: environmental modification, farming, settlement, industry, extraction, pollution, sanitation, social studies, Nauru, People and the Natural Environment in the Pacific, waste disposal, Tuvalu, Niue
+Searchable tags: environmental modification, farming, settlement, industry, extraction, pollution, sanitation, social studies, Nauru, People and the Natural Environment in the Pacific, waste disposal, Tuvalu, Niue, Jamaica, curriculum guide evidence

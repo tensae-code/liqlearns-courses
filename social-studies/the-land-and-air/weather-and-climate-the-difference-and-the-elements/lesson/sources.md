@@ -1,6 +1,6 @@
 # Sources — Weather and Climate — The Difference and the Elements
 
-countries: Ethiopia, Barbados, Turkey, Guatemala
+countries: Ethiopia, Barbados, Turkey, Guatemala, Jamaica
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Barbados, Turkey, Guatemala
 
 **Book 5:** *Ciencias Sociales y Formación Ciudadana, Cuarto grado* (student book, Spanish) — Guatemala, Ministerio de Educación de Guatemala, elaborated with USAID/Reforma Educativa en el Aula (Juárez y Asociados); author Gloria Amaria Hernández; year impresión 2017; ISBN 978-9929-596-13-9. Title as printed: Ciencias Sociales y Formación Ciudadana — Cuarto grado. Grade: Grade 4 (student). 256 PDF pp. (cover verified against the record title; byte size 25,726,392 and page count 256 match the books.json record exactly — read from the record's own Wayback source URL after grab.py failed with GitHub API RemoteDisconnected; the two TSV release records are the same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/guatemala-placements.md.
 
+**Book 6:** *National Standards Curriculum — Exploratory Core, Grade 4 (Language Arts | Science | Social Studies | Mathematics)* (curriculum guide, English) — Jamaica, Ministry of Education, Youth & Information, Jamaica; year 2020 (Jan 2020 edition); ISBN no ISBN printed. Title as printed: National Standards Curriculum — Exploratory Core, Grade 4 (Language Arts | Science | Social Studies | Mathematics). Grade: Grade 4 (student/teacher: TEACHER — curriculum guide). 370 PDF pp. (cover verified against the record title; 4,204,734 bytes, matches record size_bytes). Social Studies section printed pp. 182–226 of the guide; the Language Arts, Science and Mathematics sections are other subjects' waves. Verdict: COMPLETE for the Social Studies section (Geography scope). Guides read IN PLACE in phase3-staging where on disk, covers verified by render, full text read via pdftotext -layout. History parts (named, not placed): Term 1 Unit 3 National and community heroes, printed p. 195. Civics parts (named, not placed): Term 2 Unit 3 How we are governed in the community and my responsibilities, printed p. 207. Cited as curriculum-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jamaica-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Short and small against long and wide | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 24–25 |
@@ -20,8 +22,11 @@ countries: Ethiopia, Barbados, Turkey, Guatemala
 | Barbados part — weather and climate | Barbados, *Geography for CSEC — 2nd Edition*, Grade 10, Ch. 7: weather and climate — printed p. 124 |
 | Turkey part — 5B Hava Durumu ve İklim (weather and climate) | Turkey, *Ortaöğretim Coğrafya 9. Sınıf Ders Kitabı*, Grade 9, 5B Hava Durumu ve İklim (weather and climate) — printed p. 109 |
 | Guatemala part — Clima de Centroamérica: estado del tiempo vs clima; tropical, ecuatorial and high-mountain climates | Guatemala, *Ciencias Sociales y Formación Ciudadana*, Grade 4, Clima de Centroamérica: estado del tiempo vs clima; tropical, ecuatorial and high-mountain climates (Unit 1) — printed p. 39 |
+| Jamaica part — Term 3 Unit 1: the elements of weather — temperature, wind and sunshine (curriculum guide — evidence) | Jamaica, *Jamaica Grade 4 JM G4 Exploratory Core*, Term 3 Unit 1: the elements of weather — temperature, wind and sunshine — printed p. 210 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Barbados, Turkey, Guatemala).**
+**Acceptance count: taught in 4 countries (Ethiopia, Barbados, Turkey, Guatemala). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
+
+Jamaica's own way (Grade 4 Exploratory Core, curriculum guide — evidence): Social Studies is one of four subjects fused into a single Exploratory Core guide, organised by four attainment themes; Geography enters through Jamaica itself — Taino settlement maps, cardinal points, Jamaica's physical features, parishes, weather and the Earth in the Solar System — always with hands-on map and model work. That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
 Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
@@ -31,4 +36,4 @@ Pairing warning: the Grade 8 teacher guide is an Addis Ababa bureau book and the
 
 Guatemala's own way: one combined Social Studies and Citizenship book per grade, organised in four units that alternate History of Guatemala/Central America with the physical geography of the isthmus — every map carries the note about the unresolved Belize territorial differendum, and Geography is always worked on maps of the seven Central American countries with Guatemala's own Sierra de las Minas, Motagua river and Maya Biosphere as the home examples. That way is stocked here as the way Guatemala teaches this thing.
 
-Searchable tags: weather and climate   the difference and the elements, ethiopia, social studies, the land and air, Guatemala
+Searchable tags: weather and climate   the difference and the elements, ethiopia, social studies, the land and air, Guatemala, Jamaica, curriculum guide evidence

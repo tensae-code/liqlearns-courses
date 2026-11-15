@@ -1,6 +1,6 @@
 # Sources — Maps and globes — latitude and longitude
 
-countries: Ethiopia, Myanmar, Barbados, Turkey, Guatemala
+countries: Ethiopia, Myanmar, Barbados, Turkey, Guatemala, Jamaica
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 2, placements 27–43).
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Myanmar, Barbados, Turkey, Guatemala
 
 **Book 5:** *Ciencias Sociales y Formación Ciudadana, Cuarto grado* (student book, Spanish) — Guatemala, Ministerio de Educación de Guatemala, elaborated with USAID/Reforma Educativa en el Aula (Juárez y Asociados); author Gloria Amaria Hernández; year impresión 2017; ISBN 978-9929-596-13-9. Title as printed: Ciencias Sociales y Formación Ciudadana — Cuarto grado. Grade: Grade 4 (student). 256 PDF pp. (cover verified against the record title; byte size 25,726,392 and page count 256 match the books.json record exactly — read from the record's own Wayback source URL after grab.py failed with GitHub API RemoteDisconnected; the two TSV release records are the same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/guatemala-placements.md.
 
+**Book 6:** *National Standards Curriculum — Exploratory Core, Grade 5 (Language Arts / Mathematics / Science / Social Studies)* (curriculum guide, English) — Jamaica, Ministry of Education, Youth & Information, Jamaica; year 2020; ISBN no ISBN printed. Title as printed: National Standards Curriculum — Exploratory Core, Grade 5 (Language Arts / Mathematics / Science / Social Studies). Grade: Grade 5 (student/teacher: TEACHER — curriculum guide). 397 PDF pp. (cover verified against the record title; 59,815,617 bytes, matches record size_bytes; fetched via the Releases API asset route — mid-size-books-8 — because the file is not in the git tree). Social Studies section printed pp. 305–363; the guide's text layer is scrambled, so the section was read from page renders (overview, printed p. 309, and every unit's opening page). Verdict: COMPLETE for the Social Studies section (Geography scope). History parts (named, not placed): Term 1 Unit 1 Europeans and Africans in Jamaica (except its map/migration objective placed in the placements), printed p. 310; Term 1 Unit 2 National Heroes — Nanny of the Maroons, Sam Sharpe, Paul Bogle and George William Gordon, printed p. 315. Civics parts (named, not placed): Term 2 Unit 3 Municipal Corporations (Parish Councils), printed p. 337. Cited as curriculum-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jamaica-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Parallels and meridians | Ethiopia, *Social Studies Student Textbook, Grade 7* (Amhara Bureau), printed pp. 47–48 |
@@ -20,8 +22,11 @@ countries: Ethiopia, Myanmar, Barbados, Turkey, Guatemala
 | Barbados part — locating a place using latitude and longitude; line scale | Barbados, *Geography for CSEC — 2nd Edition*, Grade 10, Ch. 1 skills: locating a place using latitude and longitude; line scale — printed p. 5 |
 | Turkey part — 2A Coğrafi Koordinat Sistemi | Turkey, *Ortaöğretim Coğrafya 9. Sınıf Ders Kitabı*, Grade 9, 2A Coğrafi Koordinat Sistemi — printed p. 37 |
 | Guatemala part — Latitud y longitud | Guatemala, *Ciencias Sociales y Formación Ciudadana*, Grade 4, Latitud y longitud (Unit 1) — printed p. 35 |
+| Jamaica part — Term 2 Unit 2: locating Jamaica and other Caribbean territories with parallels of latitude and meridians of longitude (curriculum guide — evidence) | Jamaica, *Jamaica Grade 5 JM G5 Exploratory Core*, Term 2 Unit 2: locating Jamaica and other Caribbean territories with parallels of latitude and meridians of longitude — printed p. 333 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Barbados, Turkey, Guatemala). Myanmar is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 4 countries (Ethiopia, Barbados, Turkey, Guatemala). Myanmar is named here as teacher-guide evidence only, counted nowhere. Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
+
+Jamaica's own way (Grade 5 Exploratory Core, curriculum guide — evidence): Grade 5 Social Studies pairs a heritage year (Europeans and Africans, national heroes, Caribbean culture) with a physical-environment year — erosion, locating Jamaica and the Caribbean by compass and latitude/longitude, types of rainfall, the Solar System, plants and water pollution. That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
 Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
@@ -33,4 +38,4 @@ Pairing warning (honesty): Book 2 is an Addis Ababa bureau guide in English; Boo
 
 Guatemala's own way: one combined Social Studies and Citizenship book per grade, organised in four units that alternate History of Guatemala/Central America with the physical geography of the isthmus — every map carries the note about the unresolved Belize territorial differendum, and Geography is always worked on maps of the seven Central American countries with Guatemala's own Sierra de las Minas, Motagua river and Maya Biosphere as the home examples. That way is stocked here as the way Guatemala teaches this thing.
 
-Searchable tags: parallels, meridians, latitude, longitude, equator, prime meridian, Greenwich, tropic of Cancer, tropic of Capricorn, absolute location, Myanmar, Teacher Guide Geography Grade 6, teacher guide evidence, Guatemala
+Searchable tags: parallels, meridians, latitude, longitude, equator, prime meridian, Greenwich, tropic of Cancer, tropic of Capricorn, absolute location, Myanmar, Teacher Guide Geography Grade 6, teacher guide evidence, Guatemala, Jamaica, curriculum guide evidence

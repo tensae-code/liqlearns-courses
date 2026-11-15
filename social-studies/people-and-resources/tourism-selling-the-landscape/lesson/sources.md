@@ -1,6 +1,6 @@
 # Sources — Tourism — selling the landscape
 
-countries: Ethiopia, Morocco, France, Nauru, Tuvalu, Guatemala, Ecuador
+countries: Ethiopia, Morocco, France, Nauru, Tuvalu, Guatemala, Ecuador, Jamaica
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -16,11 +16,14 @@ countries: Ethiopia, Morocco, France, Nauru, Tuvalu, Guatemala, Ecuador
 
 **Book 7:** *Estudios Sociales 3ro EGB* (student book, Spanish) — Ecuador, SM Ediciones Ecuador for the Ministerio de Educación del Ecuador (Proyecto Licitación Ministerio de Educación, Ecuador 2016; reviewed 3 June 2016); year 2016; no ISBN printed. Title as printed: Estudios Sociales 3 — Texto del estudiante. Grade: Grade 3 (student). 176 PDF pp. (cover/title page verified against the record title; grabbed via the repo release route, 47,818,010 bytes = record size exactly; the record notes the 2024 edition exists but its only reachable copy is truncated, so this complete older edition is the held book; the book's two records — a TSV release/blob record and a books.json record for the same repo path — are one book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/ecuador-placements.md.
 
+**Book 8:** *National Standards Curriculum — Social Studies, Grades 7–9 (APSE1)* (curriculum guide, English) — Jamaica, Ministry of Education, Youth & Information, Jamaica; year 2020 (Jan 2020 edition); ISBN no ISBN printed. Title as printed: National Standards Curriculum — Social Studies, Grades 7–9 (APSE1). Grade: Grades 7–9 (student/teacher: TEACHER — curriculum guide). 219 PDF pp. (cover verified against the record title; 11,411,709 bytes, matches record size_bytes). Verdict: COMPLETE (Geography scope). Guides read IN PLACE in phase3-staging where on disk, covers verified by render, full text read via pdftotext -layout. History parts (named, not placed): Grade 7 Term 1 Unit 2 National Heroes and Their Contributions to Jamaica's Development, printed p. 10; Grade 8 Term 1 Unit 1 Nationalism and Development, printed p. 70. Civics / Sociology parts (named, not placed): Grade 7 Term 1 Unit 1 The Rights and Responsibilities of the Citizen, printed p. 4; Grade 7 Term 2 Unit 3 Social Groups and Institutions, printed p. 36; Grade 7 Term 2 Unit 4 Social Groups — The Family, printed p. 42; Grade 8 Term 1 Unit 2 Communication and Media Literacy, printed p. 74; Grade 8 Term 2 Unit 2 Institutions: Economic Institutions, printed p. 89; Grade 9 Term 1 Unit 2 The Caribbean Individual and Regional Integration, printed p. 129; Grade 9 Term 1 Unit 3 Social Issues in Jamaica, printed p. 135; Grade 9 Term 2 Unit 2 Political Institution: The Structure of the Jamaican Government, printed p. 147; Grade 9 Term 2 Unit 3 The Electoral Process, printed p. 152. Cited as curriculum-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jamaica-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The attractions | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 5, printed pp. 147–149 |
 | Sub lesson 2 — Contribution and constraints | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 5, printed pp. 147–149 |
 | Teaching pattern and answer keys (teacher guide — evidence) — Grade 9 Unit 5 | Ethiopia, *Geography, Teacher Guide, Grade 9*, Unit 5, guide printed pp. 143–176 |
+| Jamaica part — Grade 9 Term 3 Unit 3: Tourism (curriculum guide — evidence) | Jamaica, *Jamaica Grades 7–9 JM G7-9 Social Studies*, Grade 9 Term 3 Unit 3: Tourism — printed p. 171 |
 
 | France part — Thème 3: Les mobilités touristiques internationales (étude de cas: la Méditerranée, un bassin touristique; surtourisme) | France, *Géographie 2de GT, Manuel Libre de Géographie, Seconde*, Grade 10, Sommaire Thème 3 |
 | Nauru part — Whale watching and swimming with whales as ecotourism (inside the Whales section) | Nauru, *People and the Sea in the Pacific*, Years 5–6, Whale watching and swimming with whales as ecotourism — printed p. 10 |
@@ -29,7 +32,9 @@ countries: Ethiopia, Morocco, France, Nauru, Tuvalu, Guatemala, Ecuador
 | Guatemala part — Proyecto: Turismo | Guatemala, *Ciencias Sociales y Formación Ciudadana*, Grade 4, Proyecto: Turismo (Unit 4 closing project) — printed pp. 198–201 |
 | Ecuador part — Atractivos turísticos | Ecuador, *Estudios Sociales 3ro EGB (SM 2016)*, Grade 3, Atractivos turísticos — printed p. 130 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, France, Nauru, Tuvalu, Guatemala, Ecuador). Morocco is named in this file as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 6 countries (Ethiopia, France, Nauru, Tuvalu, Guatemala, Ecuador). Morocco is named in this file as teacher-guide evidence only, counted nowhere. Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
+
+Jamaica's own way (Grades 7–9 Social Studies, curriculum guide — evidence): one guide carries all three secondary grades, each year mixing Civics, heritage and a strong resources-and-environment Geography spine — natural and human resources, movements of the Earth, Caribbean hazards, climate change, green technology and tourism — taught through Jamaican case material (bauxite communities, Caribbean disasters). That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
 Nauru's own way: Nauru uses the shared Pacific ESD reader suite (local advisors Fay Itaia & Sharon Kam for Nauru) — Geography is taught as ocean stewardship: the Pacific as a connected "sea of islands", its animals, and the traditional fishing knowledge of Tonga, Tuvalu and Niue, ending in a plastic-waste action plan. That way is stocked here as the way Nauru teaches this thing.
 
@@ -39,7 +44,7 @@ Guatemala's own way: one combined Social Studies and Citizenship book per grade,
 
 Ecuador's own way (Grade 3 book): the older SM edition is a classic skills-first book — a whole opening unit on orientation, cardinal points, the compass rose and plans before any content; every unit runs the same skeleton (content lessons, “Ser Estudiante” test, Cultura del Buen Vivir, scientific work, digital skills, unit evaluation), and the country is learned parish → canton → province → nation. That way is stocked here as the way Ecuador teaches this thing.
 
-Searchable tags: tourism, attractions, lalibela, simien, constraints, social studies, Nauru, People and the Sea in the Pacific, whale watching, ecotourism, Tuvalu, Guatemala, Ecuador
+Searchable tags: tourism, attractions, lalibela, simien, constraints, social studies, Nauru, People and the Sea in the Pacific, whale watching, ecotourism, Tuvalu, Guatemala, Ecuador, Jamaica, curriculum guide evidence
 
 ## Teacher-guide evidence added (Wave 4, Band F)
 

@@ -2030,3 +2030,114 @@ The main environmental problems facing humanity
 strategies — examples (G10, p. 109) and How much do
 you know about low-carbon food? (G10, p. 120).
 Geography lessons: 777 → 820.
+
+## Geography expansion — Jamaica — built 2026-11-14
+
+Jamaica — 56 placements stocked from 8 records / 4
+distinct books (the TSV blob/release records duplicate
+the books.json records of the same file, and the Grade
+5 Telegram link record duplicates the Grade 5 guide
+already secured, so no push-don't-delete staging
+arose). All four books are National Standards
+Curriculum GUIDES (teacher curriculum guides, not
+pupil textbooks), Ministry of Education, Youth &
+Information, Jamaica, 2020, English, no ISBN printed —
+cited as curriculum-guide evidence only, outside
+acceptance counts, exactly as filed. Placed books:
+*National Standards Curriculum — Exploratory Core,
+Grade 4* (curriculum guide, Jan 2020 edition, 370 PDF
+pp., 4,204,734 bytes, Social Studies section printed
+pp. 182–226, COMPLETE for the Social Studies section;
+11 placements), *National Standards Curriculum —
+Exploratory Core, Grade 6* (curriculum guide, FINAL
+Jan 08 2020, 373 PDF pp., 5,913,507 bytes, Social
+Studies section printed pp. 162–226, COMPLETE for the
+Social Studies section; 11 placements), *National
+Standards Curriculum — Social Studies, Grades 7–9
+(APSE1)* (curriculum guide, Jan 2020 edition, 219 PDF
+pp., 11,411,709 bytes, COMPLETE for Geography scope;
+20 placements) and *National Standards Curriculum —
+Exploratory Core, Grade 5* (curriculum guide, 397 PDF
+pp., 59,815,617 bytes, fetched via the Releases API
+asset route — mid-size-books-8 — because the file is
+not in the git tree; Social Studies section printed
+pp. 305–363, read from page renders because the text
+layer is scrambled, COMPLETE for the Social Studies
+section; 14 placements). Jamaica's settled set is its
+ministry books; the commercial remainder is mostly
+unsecured — carried exactly as the placements state.
+Jamaica's own way (Grade 4): Social Studies is one of
+four subjects fused into a single Exploratory Core
+guide, organised by four attainment themes; Geography
+enters through Jamaica itself — Taino settlement
+maps, cardinal points, Jamaica's physical features,
+parishes, weather and the Earth in the Solar System —
+always with hands-on map and model work. Jamaica's
+own way (Grade 6): three paired terms — culture and
+independence first, then the physical world, then
+climate, Earth movements and the atmosphere, closing
+on Caribbean cooperation. Jamaica's own way (Grades
+7–9): one guide carries all three secondary grades,
+each year mixing Civics, heritage and a strong
+resources-and-environment Geography spine, taught
+through Jamaican case material (bauxite communities,
+Caribbean disasters). Jamaica's own way (Grade 5):
+a heritage year paired with a physical-environment
+year — erosion, locating Jamaica and the Caribbean,
+types of rainfall, the Solar System, plants and water
+pollution. The guides' History and Civics parts are
+named in each lesson's sources, not placed. Stocked
+into standing lessons (43 placements, curriculum-guide
+evidence only — acceptance counts unchanged, Jamaica
+named as evidence in each): Culture and Identity
+(G4 p. 191; G6 p. 167; G7–9 p. 16; G5 p. 321),
+Compass points (G4 p. 198; G5 p. 332), Weather and
+climate — the difference and the elements (G4
+p. 210), How climate helps people live (G4 p. 211),
+The solar system (G4 p. 214; G5 p. 349), Protecting
+the environment where you live (G4 p. 220; G7–9
+p. 114), People and environment — a two-way street
+(G4 p. 187), Continents, oceans, islands, peninsulas
+(G6 p. 188), A water world (G6 p. 189), Weather and
+climate — the controllers (G6 p. 198), Latitude and
+altitude (G6 p. 200), Movements — rotation and
+revolution (G6 p. 205; G7–9 p. 48), Revolution and
+the seasons (G6 p. 207), Air pollution (G6 p. 213),
+Human causes of climate change (G6 p. 215), Natural
+resources — what they are (G7–9 p. 24), Sustainable
+development (G7–9 p. 59), Culture symbols (G7–9
+p. 79), How people change the land and pollute it
+(G7–9 p. 84), Trade, supply, demand and consumer
+rights (G7–9 p. 95), Climate change — causes (G7–9
+p. 102), Impacts of climate change (G7–9 p. 104),
+Culture, globalisation and cultural change (G7–9
+p. 124), What counts as a natural resource (G7–9
+p. 142), Using resources well (G7–9 p. 144), Green
+economy and green growth (G7–9 p. 158), Four kinds
+of work (G7–9 p. 164), Tourism (G7–9 p. 171), Kinds
+of migration (G5 p. 310), Culture — how cultures
+borrow, merge and invent (G5 p. 320), Erosion (G5
+p. 326), Soil erosion (G5 p. 328), Maps and globes —
+latitude and longitude (G5 p. 333), Four-figure grid
+references (G5 p. 335), Water pollution and shrinking
+clean water (G5 p. 359) and Polluting air and water
+(G5 p. 360). New lessons (curriculum-guide evidence
+only, taught in 0 countries, 8 questions each) —
+**Population, Transport and Maps**: Tracing the
+Tainos' journey to Jamaica (G4, printed p. 188) and
+How Jamaica is divided — counties and parishes (G4,
+p. 202); **The Land and Air**: Jamaica's physical
+features — mountains, plains and coast (G4, p. 199),
+Why plants matter to people (G4, p. 217; G5, p. 354),
+Mountains and people's lives (G6, p. 183) and Types
+of rainfall — relief, convectional and frontal (G5,
+p. 343); **People and Resources**: Jamaica's mineral
+wealth — bauxite and limestone (G7–9, p. 26) and
+Human resources — people as a resource (G7–9, p. 31);
+**Global Issues**: Caribbean neighbours working
+together (G6, p. 218), How communities and countries
+depend on each other (G7–9, p. 54), Caribbean hazards
+— hurricanes, volcanoes and earthquakes (G7–9,
+p. 108) and Floods — causes, damage and protection
+(G5, p. 345).
+Geography lessons: 820 → 832.

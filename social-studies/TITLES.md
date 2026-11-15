@@ -103,7 +103,7 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **820**
+Geography lessons across the eight Geography titles: **832**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -351,3 +351,20 @@ Source plateau wetland, China in the world, The
 main environmental problems facing humanity, China's
 national development strategies — examples and How
 much do you know about low-carbon food?
+
++12 for Jamaica, 2026-11-14 — Population, Transport and
+Maps: Tracing the Tainos' journey to Jamaica and How
+Jamaica is divided — counties and parishes; The Land
+and Air: Jamaica's physical features — mountains,
+plains and coast, Why plants matter to people,
+Mountains and people's lives and Types of rainfall —
+relief, convectional and frontal; People and
+Resources: Jamaica's mineral wealth — bauxite and
+limestone and Human resources — people as a resource;
+Global Issues: Caribbean neighbours working together,
+How communities and countries depend on each other,
+Caribbean hazards — hurricanes, volcanoes and
+earthquakes and Floods — causes, damage and
+protection. (All 12 stand on Jamaica's National
+Standards Curriculum guides as curriculum-guide
+evidence only, counted nowhere.)
