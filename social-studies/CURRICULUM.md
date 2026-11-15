@@ -612,3 +612,36 @@ Mercosur case (1 placement, Eje 3, printed p. 108, 8 questions)
 and The South American gas pipeline — a Mercosur database (1
 placement, Eje 3, printed p. 118, 8 questions). Geography
 lessons: 556 → 563.
+
+## Geography expansion — Zambia — built 2026-11-14
+
+Zambia — 9 placements stocked from 2 teaching modules (both
+teacher guides, COMPLETE as Term 3 modules only, as recorded):
+*Social Studies Teaching Module, Grade 4, Term 3* (3 placements)
+and *Geography Teaching Module, Form 2, Term 3* (Form 2 = Grade
+8; 6 placements), both Curriculum Development Centre, Ministry
+of Education, Zambia, 2026. All 9 placements are teacher-guide
+evidence, cited as the evidence they are, outside acceptance
+counts. 5 stocked into standing lessons — in **Resources and
+Conflict**: Natural resources — what they are (Grade 4 module,
+Topic 4.7, Sub-topic 4.7.1, printed p. 1), Degradation in all
+its forms (Grade 4 module, Sub-topic 4.7.1 activity 2, printed
+p. 3; Grade 8 module, Topic 2.3, Sub-topic 2.3.1, printed
+p. 2) and Conservation — what conservation means (Grade 4
+module, Sub-topic 4.7.1 activity 3, printed p. 4; Grade 8
+module, Sub-topic 2.3.2, printed p. 9); all three lessons stay
+taught in 1 country, Ethiopia, with Zambia named as
+teacher-guide evidence only — and 4 new lessons built (all
+teacher-guide evidence only, acceptance count 0 countries, 8
+questions each) — in **Resources and Conflict**: Environmental
+hazards and disasters (1 placement, Sub-topic 2.3.3, printed
+p. 16); in **The Land and Air**: Zambia's agro-ecological
+regions (1 placement, Topic 2.4, Sub-topic 2.4.1, printed
+p. 31) and Climate and agro-ecological regions (1 placement,
+Sub-topic 2.4.2, printed p. 40); in **Culture and Work**:
+Agriculture in Zambia's agro-ecological regions (1 placement,
+Sub-topic 2.4.3, printed p. 44). Non-Geography parts named, not
+placed: Grade 4 module Topic 4.8 Entrepreneurship (printed
+pp. 7–14 — Business), Topic 4.9 Learning About Money (printed
+pp. 15–21 — money/Business) and its Sample Lesson Plan
+(printed p. 22). Geography lessons: 563 → 567.

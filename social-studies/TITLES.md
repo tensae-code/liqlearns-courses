@@ -50,11 +50,14 @@ the one title at rising depth wherever a title spans both books
 - `the-land-and-air/` — continents and oceans, the forces that
   shape the land, the atmosphere, weather and climate, map work
   (including the UAE's location and emirates map and desert
-  wildlife of the UAE).
+  wildlife of the UAE, Zambia's agro-ecological regions and
+  climate and agro-ecological regions).
 - `culture-and-work/` — culture, economic activities, trade,
-  and tax.
+  and tax (including agriculture in Zambia's agro-ecological
+  regions).
 - `resources-and-conflict/` — natural resources, their care,
-  and conflict over resources.
+  and conflict over resources (including environmental hazards
+  and disasters).
 - `modern-ethiopia/` — Ethiopia from 1855 to today. (Student
   book alone — no teacher evidence yet; the Grade 8 teacher
   guide's Units 4–7 are still owed.)
@@ -69,7 +72,7 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **563**
+Geography lessons across the eight Geography titles: **567**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -83,4 +86,9 @@ Thematic maps of Mercosur integration and A day on the border;
 People and Resources: Quality of life — Argentina and Latin
 America compared, Mercosur — economic integration in Latin
 America, Kinds of integration — the Mercosur case and The
-South American gas pipeline — a Mercosur database).
+South American gas pipeline — a Mercosur database; +4 for
+Zambia, 2026-11-14 — Resources and Conflict: Environmental
+hazards and disasters; The Land and Air: Zambia's
+agro-ecological regions and Climate and agro-ecological
+regions; Culture and Work: Agriculture in Zambia's
+agro-ecological regions).
