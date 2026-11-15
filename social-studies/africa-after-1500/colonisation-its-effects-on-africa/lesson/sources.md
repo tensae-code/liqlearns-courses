@@ -1,6 +1,6 @@
 # Sources — Colonisation — its effects on Africa
 
-countries: Ethiopia, Rwanda, Eritrea, South Sudan, Uganda, Mozambique, Sudan
+countries: Ethiopia, Rwanda, Eritrea, South Sudan, Uganda, Mozambique, Sudan, Moldova
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 5, placements 110–122).
 
@@ -177,3 +177,24 @@ Sudan's own way (Book 2 — SD-G9 (student book, Arabic)): a pure History book i
 **Acceptance count: taught in 7 countries (Ethiopia, Rwanda, Eritrea, South Sudan, Uganda, Mozambique, Sudan).**
 
 Searchable tags: Sudan, History expansion 2026-11-15, africa-after-1500/colonisation-its-effects-on-africa
+
+## History expansion (2026-11-15) — Moldova stocked
+
+**Book 7 — moldova-g11-history (student book, Romanian)**
+- Title as printed: Istoria românilor şi universală: Epoca modernă. Manual pentru clasa a XI-a
+- Grade: Grade 11 (student/teacher: STUDENT)
+- Publisher: Editura Cartdidact; year 2020; ISBN 978-9975-3412-5-7
+- PDF pages: 241 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 54 placements — 13 to existing lessons, 41 NEW LESSON NEEDED
+- Moldova's own way: the lycée modern-age course (§1–§53, each with Curs / Dosar source files / Studiu de caz) runs the world story and the Romanian story in parallel chapters — and gives Bessarabia under tsarism a whole chapter of its own, "from autonomy to gubernia".
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova part — §46: Evoluţia sistemului colonial (sec. XIX – începutul sec. XX) — story beats: colonisation wars shatter populations across Africa, Asia and Latin America; in 1768 Amerindian chiefs petition the English, and the book prints an appeal "to the nations of the world" against the colonial partition — Sudan, Uganda, Niger, Orange and Transvaal named among the conquered (History expansion, 2026-11-15; original placement slug: africa-after-1500/colonisation-its-effects-on-africa) | Moldova, *Istoria românilor şi universală: Epoca modernă. Manual pentru clasa a XI-a*, printed p. 190 |
+
+Moldova's own way (Book 7 — moldova-g11-history (student book, Romanian)): the lycée modern-age course (§1–§53, each with Curs / Dosar source files / Studiu de caz) runs the world story and the Romanian story in parallel chapters — and gives Bessarabia under tsarism a whole chapter of its own, "from autonomy to gubernia". That way is stocked here as the way Moldova teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 8 countries (Ethiopia, Rwanda, Eritrea, South Sudan, Uganda, Mozambique, Sudan, Moldova).**
+
+Searchable tags: Moldova, History expansion 2026-11-15, africa-after-1500/colonisation-its-effects-on-africa

@@ -1,6 +1,6 @@
 # Sources — Germany unifies — Bismarck, Blood and Iron, Versailles 1871
 
-countries: Ethiopia, Cambodia, South Sudan, Iraq, Yemen, Sudan, Uzbekistan, North Macedonia, Cuba, China
+countries: Ethiopia, Cambodia, South Sudan, Iraq, Yemen, Sudan, Uzbekistan, North Macedonia, Cuba, China, Moldova
 
 **Book 1:** *History, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN 978-99990-0-065-9, printed by GRAVITY GROUP IND LLC, Sharjah, UAE. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g10-student-placements.md
 
@@ -276,3 +276,24 @@ China's own way (Book 3 — cn-g8-b (student book, Chinese) — combined History
 **Acceptance count: taught in 10 countries (Ethiopia, Cambodia, South Sudan, Iraq, Yemen, Sudan, Uzbekistan, North Macedonia, Cuba, China).**
 
 Searchable tags: China, History expansion 2026-11-15, modern-world/germany-unifies-bismarck-blood-and-iron
+
+## History expansion (2026-11-15) — Moldova stocked
+
+**Book 7 — moldova-g11-history (student book, Romanian)**
+- Title as printed: Istoria românilor şi universală: Epoca modernă. Manual pentru clasa a XI-a
+- Grade: Grade 11 (student/teacher: STUDENT)
+- Publisher: Editura Cartdidact; year 2020; ISBN 978-9975-3412-5-7
+- PDF pages: 241 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 54 placements — 13 to existing lessons, 41 NEW LESSON NEEDED
+- Moldova's own way: the lycée modern-age course (§1–§53, each with Curs / Dosar source files / Studiu de caz) runs the world story and the Romanian story in parallel chapters — and gives Bessarabia under tsarism a whole chapter of its own, "from autonomy to gubernia".
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova part — §36: Unificarea Germaniei — story beats: three wars — Denmark, Austria, France — unify the Germans; Bismarck tells the budget commission in 1862 that the great questions are settled by iron, and the Second French Empire's fall clears the last road (History expansion, 2026-11-15; original placement slug: modern-world/germany-unifies-bismarck-blood-and-iron) | Moldova, *Istoria românilor şi universală: Epoca modernă. Manual pentru clasa a XI-a*, printed p. 150 |
+
+Moldova's own way (Book 7 — moldova-g11-history (student book, Romanian)): the lycée modern-age course (§1–§53, each with Curs / Dosar source files / Studiu de caz) runs the world story and the Romanian story in parallel chapters — and gives Bessarabia under tsarism a whole chapter of its own, "from autonomy to gubernia". That way is stocked here as the way Moldova teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 11 countries (Ethiopia, Cambodia, South Sudan, Iraq, Yemen, Sudan, Uzbekistan, North Macedonia, Cuba, China, Moldova).**
+
+Searchable tags: Moldova, History expansion 2026-11-15, modern-world/germany-unifies-bismarck-blood-and-iron

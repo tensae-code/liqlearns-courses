@@ -1,6 +1,6 @@
 # Sources — Hot Wars Of The Cold War And After Korea Vietnam Afghanistan
 
-countries: North Macedonia
+countries: North Macedonia, Moldova
 
 **Book 3 — Istorija I (History I), Grade 10 (student book, Macedonian)**
 - Title as printed: ИСТОРИЈА I за прва година гимназиско образование — учебник (History I for the first year of gymnasium education — textbook)
@@ -22,3 +22,24 @@ North Macedonia's own way (Book 3 — Istorija I (History I), Grade 10 (student 
 **Acceptance count: taught in 1 country (North Macedonia).**
 
 Searchable tags: North Macedonia, Hot Wars Of The Cold War And After Korea Vietnam Afghanistan, modern-world, History expansion 2026-11-15
+
+## History expansion (2026-11-15) — Moldova stocked
+
+**Book 8 — moldova-g12-history (student book, Romanian)**
+- Title as printed: Istoria românilor și universală: Manual pentru clasa a XII-a
+- Grade: Grade 12 (student/teacher: STUDENT)
+- Publisher: Î.E.P. Știința, Chișinău; year 2024; ISBN 978-9975-85-476-4
+- PDF pages: 306 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 64 placements — 9 to existing lessons, 55 NEW LESSON NEEDED
+- Moldova's own way: the final lycée year re-runs the whole contemporary age at examination depth — every theme built as Jurnal istoric / Timp istoric / Dicționar istoric with primary sources — and closes not with wars but with global problems, migration, values and four local-history projects.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova part — Tema 41: Focare de război în a doua jumătate a secolului XX–începutul secolului XXI — story beats: Geneva 1954 ends France's Indochina war and splits Vietnam at the 17th parallel; Korea, the Arab-Israeli wars to the 1979 peace treaty, Afghanistan and Ukraine follow in the journal's line to the present (History expansion, 2026-11-15; original placement slug: modern-world/hot-wars-of-the-cold-war-and-after-korea-vietnam-afghanistan) | Moldova, *Istoria românilor și universală: Manual pentru clasa a XII-a*, printed p. 206 |
+
+Moldova's own way (Book 8 — moldova-g12-history (student book, Romanian)): the final lycée year re-runs the whole contemporary age at examination depth — every theme built as Jurnal istoric / Timp istoric / Dicționar istoric with primary sources — and closes not with wars but with global problems, migration, values and four local-history projects. That way is stocked here as the way Moldova teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 2 countries (North Macedonia, Moldova).**
+
+Searchable tags: Moldova, History expansion 2026-11-15, modern-world/hot-wars-of-the-cold-war-and-after-korea-vietnam-afghanistan

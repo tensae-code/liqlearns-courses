@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — Greece: Crete
 
-countries: Ethiopia, France, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro, Dominican Republic, Egypt, Bolivia, Iran, Cambodia, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Yemen, Sudan, Jordan, Uzbekistan, Laos, Afghanistan, Cuba, China, Venezuela
+countries: Ethiopia, France, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro, Dominican Republic, Egypt, Bolivia, Iran, Cambodia, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Yemen, Sudan, Jordan, Uzbekistan, Laos, Afghanistan, Cuba, China, Venezuela, Moldova
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 6, placements 92–106).
 
@@ -737,3 +737,24 @@ Venezuela's own way (Book 10 — g8 Historia de la Humanidad (student book, Span
 **Acceptance count: taught in 30 countries (Ethiopia, France, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro, Dominican Republic, Egypt, Bolivia, Iran, Cambodia, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Yemen, Sudan, Jordan, Uzbekistan, Laos, Afghanistan, Cuba, China, Venezuela).**
 
 Searchable tags: Venezuela, History expansion 2026-11-15, ancient-world/ancient-civilisations-greece-crete
+
+## History expansion (2026-11-15) — Moldova stocked
+
+**Book 2 — moldova-g05-history (student book, Romanian)**
+- Title as printed: Istoria românilor și universală. Manual pentru clasa a V-a
+- Grade: Grade 5 (student/teacher: STUDENT)
+- Publisher: Editura Blitz Poligraf, Chișinău; year 2023; ISBN 978-9975-3638-8-4
+- PDF pages: 176 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 48 placements — 15 to existing lessons, 33 NEW LESSON NEEDED
+- Moldova's own way: a full ancient-history course (Prehistory → Ancient Orient → Greece → Thraco-Geto-Dacians → Rome → Dacians and Romans → Decline) where every universal topic is paired with the ancestors' own space — Cucuteni-Tripolie, Sarmizegetusa, Roman Dacia — and every lesson ends in a "Laborator istoric" of source analysis.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova part — Unitatea III, Lecția 2: Civilizația creto-miceniană. Grecia homerică — story beats: Minos's Crete taxes Athens in legend until Theseus kills the Minotaur; Homer's Greeks besiege Troy ten years and take it by Odysseus's wooden horse (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-greece-crete) | Moldova, *Istoria românilor și universală. Manual pentru clasa a V-a*, printed p. 59 |
+
+Moldova's own way (Book 2 — moldova-g05-history (student book, Romanian)): a full ancient-history course (Prehistory → Ancient Orient → Greece → Thraco-Geto-Dacians → Rome → Dacians and Romans → Decline) where every universal topic is paired with the ancestors' own space — Cucuteni-Tripolie, Sarmizegetusa, Roman Dacia — and every lesson ends in a "Laborator istoric" of source analysis. That way is stocked here as the way Moldova teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 31 countries (Ethiopia, France, Poland, Bangladesh, Costa Rica, Australia, Malaysia, Ecuador, Cyprus, Montenegro, Dominican Republic, Egypt, Bolivia, Iran, Cambodia, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Yemen, Sudan, Jordan, Uzbekistan, Laos, Afghanistan, Cuba, China, Venezuela, Moldova).**
+
+Searchable tags: Moldova, History expansion 2026-11-15, ancient-world/ancient-civilisations-greece-crete

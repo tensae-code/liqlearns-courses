@@ -1,6 +1,6 @@
 # Sources — Medieval world — the Ottomans
 
-countries: Ethiopia, Turkey, Australia, Eritrea, Montenegro, Pakistan, Bulgaria, Palestine, Mauritania, Libya, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Afghanistan
+countries: Ethiopia, Turkey, Australia, Eritrea, Montenegro, Pakistan, Bulgaria, Palestine, Mauritania, Libya, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Afghanistan, Moldova
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -488,3 +488,24 @@ Afghanistan's own way (Book 8 — History G11 (student book, Dari)): Grade 11 re
 **Acceptance count: taught in 16 countries (Ethiopia, Turkey, Australia, Eritrea, Montenegro, Pakistan, Bulgaria, Palestine, Mauritania, Libya, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Afghanistan).**
 
 Searchable tags: Afghanistan, History expansion 2026-11-15, ancient-world/medieval-world-the-ottomans
+
+## History expansion (2026-11-15) — Moldova stocked
+
+**Book 3 — moldova-g06-history (student book, Romanian)**
+- Title as printed: Istoria românilor şi universală: Manual pentru clasa a VI-a
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Editura Blitz Poligraf, Chișinău; year 2023; ISBN 978-9975-3632-1-1
+- PDF pages: 161 (cover/title page verified against the record title; 160 printed pages)
+- Verdict: COMPLETE
+- Tally: 39 placements — 12 to existing lessons, 27 NEW LESSON NEEDED
+- Moldova's own way: the medieval year is taught in three acts (early / middle / late Middle Ages) plus the birth of the modern world, with the Romanian lands woven through every act — feudalism, Byzantium, the Crusades and the Ottomans are all read from Moldavia's and Wallachia's side of the story.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova part — Unitatea II, Lecția 6: Formarea şi expansiunea Imperiului Otoman (sec. XI–XV) — story beats: Osman proclaims himself sultan in 1299; his Turkic nomad state takes Asia Minor and builds the Divan, the vizier and the padishah's absolute court (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-the-ottomans) | Moldova, *Istoria românilor şi universală: Manual pentru clasa a VI-a*, printed p. 72 |
+
+Moldova's own way (Book 3 — moldova-g06-history (student book, Romanian)): the medieval year is taught in three acts (early / middle / late Middle Ages) plus the birth of the modern world, with the Romanian lands woven through every act — feudalism, Byzantium, the Crusades and the Ottomans are all read from Moldavia's and Wallachia's side of the story. That way is stocked here as the way Moldova teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 17 countries (Ethiopia, Turkey, Australia, Eritrea, Montenegro, Pakistan, Bulgaria, Palestine, Mauritania, Libya, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Afghanistan, Moldova).**
+
+Searchable tags: Moldova, History expansion 2026-11-15, ancient-world/medieval-world-the-ottomans

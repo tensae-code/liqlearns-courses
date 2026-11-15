@@ -1,6 +1,6 @@
 # Sources — Republic and Reign of Terror
 
-countries: Ethiopia, Mauritania, South Sudan, Iraq, Mozambique, Uzbekistan, North Macedonia, Cuba, Venezuela
+countries: Ethiopia, Mauritania, South Sudan, Iraq, Mozambique, Uzbekistan, North Macedonia, Cuba, Venezuela, Moldova
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under GEQIP-E, ISBN 978-99990-0-066-6. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -259,3 +259,35 @@ Venezuela's own way (Book 10 — g8 Historia de la Humanidad (student book, Span
 **Acceptance count: taught in 9 countries (Ethiopia, Mauritania, South Sudan, Iraq, Mozambique, Uzbekistan, North Macedonia, Cuba, Venezuela).**
 
 Searchable tags: Venezuela, History expansion 2026-11-15, modern-world/republic-and-reign-of-terror
+
+## History expansion (2026-11-15) — Moldova stocked
+
+**Book 4 — moldova-g07-history (student book, Romanian)**
+- Title as printed: Istoria românilor și universală: Manual pentru clasa a VII-a
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Î.E.P. Știința, Chișinău; year 2024; ISBN 978-9975-85-460-3
+- PDF pages: 138 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 29 placements — 8 to existing lessons, 21 NEW LESSON NEEDED
+- Moldova's own way: the first modern period (mid-1600s–mid-1800s) is taught as a double story — Western revolutions and enlightenment on one track, the Romanian Principalities squeezed between Ottoman, Habsburg and Russian empires on the other — ending with a whole unit on Bessarabia under Russian rule after 1812.
+
+**Book 7 — moldova-g11-history (student book, Romanian)**
+- Title as printed: Istoria românilor şi universală: Epoca modernă. Manual pentru clasa a XI-a
+- Grade: Grade 11 (student/teacher: STUDENT)
+- Publisher: Editura Cartdidact; year 2020; ISBN 978-9975-3412-5-7
+- PDF pages: 241 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 54 placements — 13 to existing lessons, 41 NEW LESSON NEEDED
+- Moldova's own way: the lycée modern-age course (§1–§53, each with Curs / Dosar source files / Studiu de caz) runs the world story and the Romanian story in parallel chapters — and gives Bessarabia under tsarism a whole chapter of its own, "from autonomy to gubernia".
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova part — Lecția 7: Faza radicală și finală a Revoluției Franceze — story beats: the republic hardens into Jacobin dictatorship; the Law of Suspects can make any Frenchman a suspect, terror devours its makers, and Napoleon exploits the exhaustion — Egypt's campaign even births Egyptology (History expansion, 2026-11-15; original placement slug: modern-world/republic-and-reign-of-terror) | Moldova, *Istoria românilor și universală: Manual pentru clasa a VII-a*, printed p. 30 |
+| Moldova part — §12: Prima Republică și dictatura iacobină — story beats: allied armies advance in summer 1792, the Jacobins seize power outside the law, and within a day of the Convention's turn, Robespierre and 22 leaders of the Terror are arrested (History expansion, 2026-11-15; original placement slug: modern-world/republic-and-reign-of-terror) | Moldova, *Istoria românilor şi universală: Epoca modernă. Manual pentru clasa a XI-a*, printed p. 48 |
+
+Moldova's own way (Book 4 — moldova-g07-history (student book, Romanian)): the first modern period (mid-1600s–mid-1800s) is taught as a double story — Western revolutions and enlightenment on one track, the Romanian Principalities squeezed between Ottoman, Habsburg and Russian empires on the other — ending with a whole unit on Bessarabia under Russian rule after 1812. That way is stocked here as the way Moldova teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+Moldova's own way (Book 7 — moldova-g11-history (student book, Romanian)): the lycée modern-age course (§1–§53, each with Curs / Dosar source files / Studiu de caz) runs the world story and the Romanian story in parallel chapters — and gives Bessarabia under tsarism a whole chapter of its own, "from autonomy to gubernia". That way is stocked here as the way Moldova teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 10 countries (Ethiopia, Mauritania, South Sudan, Iraq, Mozambique, Uzbekistan, North Macedonia, Cuba, Venezuela, Moldova).**
+
+Searchable tags: Moldova, History expansion 2026-11-15, modern-world/republic-and-reign-of-terror

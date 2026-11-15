@@ -1,6 +1,6 @@
 # Sources — Africa, cradle of humankind — Chad, Afar and Lucy
 
-countries: Ethiopia, Angola, Costa Rica, Australia, Ecuador, Bolivia, Colombia, Mozambique, Cuba, Venezuela
+countries: Ethiopia, Angola, Costa Rica, Australia, Ecuador, Bolivia, Colombia, Mozambique, Cuba, Venezuela, Moldova
 
 **Book 1:** *History, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, Addis Ababa, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-064-2, 210 printed pp. Printed page = PDF page − 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g09-student-placements.md
 
@@ -224,3 +224,24 @@ Venezuela's own way (Book 10 — g8 Historia de la Humanidad (student book, Span
 **Acceptance count: taught in 10 countries (Ethiopia, Angola, Costa Rica, Australia, Ecuador, Bolivia, Colombia, Mozambique, Cuba, Venezuela).**
 
 Searchable tags: Venezuela, History expansion 2026-11-15, africa-to-1500/africa-cradle-of-humankind
+
+## History expansion (2026-11-15) — Moldova stocked
+
+**Book 2 — moldova-g05-history (student book, Romanian)**
+- Title as printed: Istoria românilor și universală. Manual pentru clasa a V-a
+- Grade: Grade 5 (student/teacher: STUDENT)
+- Publisher: Editura Blitz Poligraf, Chișinău; year 2023; ISBN 978-9975-3638-8-4
+- PDF pages: 176 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 48 placements — 15 to existing lessons, 33 NEW LESSON NEEDED
+- Moldova's own way: a full ancient-history course (Prehistory → Ancient Orient → Greece → Thraco-Geto-Dacians → Rome → Dacians and Romans → Decline) where every universal topic is paired with the ancestors' own space — Cucuteni-Tripolie, Sarmizegetusa, Roman Dacia — and every lesson ends in a "Laborator istoric" of source analysis.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova part — Unitatea I, Lecția 1: Apariția omului — story beats: the first humans appear in Africa and spread to Asia and Europe; Mary Leakey's footprints in volcanic ash prove bipedal walkers long before writing (History expansion, 2026-11-15; original placement slug: africa-to-1500/africa-cradle-of-humankind) | Moldova, *Istoria românilor și universală. Manual pentru clasa a V-a*, printed p. 10 |
+
+Moldova's own way (Book 2 — moldova-g05-history (student book, Romanian)): a full ancient-history course (Prehistory → Ancient Orient → Greece → Thraco-Geto-Dacians → Rome → Dacians and Romans → Decline) where every universal topic is paired with the ancestors' own space — Cucuteni-Tripolie, Sarmizegetusa, Roman Dacia — and every lesson ends in a "Laborator istoric" of source analysis. That way is stocked here as the way Moldova teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 11 countries (Ethiopia, Angola, Costa Rica, Australia, Ecuador, Bolivia, Colombia, Mozambique, Cuba, Venezuela, Moldova).**
+
+Searchable tags: Moldova, History expansion 2026-11-15, africa-to-1500/africa-cradle-of-humankind

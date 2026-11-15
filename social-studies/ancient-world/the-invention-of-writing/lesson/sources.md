@@ -1,6 +1,6 @@
 # Sources — The invention of writing
 
-countries: Turkey
+countries: Turkey, Moldova
 
 **Book 2:** *Ortaöğretim Tarih 9 Ders Kitabı (Secondary Education History 9 Textbook)* (student book, Turkish) — Turkey. Title as printed: Ortaöğretim Tarih 9 Ders Kitabı (Secondary Education History 9 Textbook). Grade: Grade 9 (student/teacher: STUDENT). Publisher: T.C. Millî Eğitim Bakanlığı (MEB), Türkiye, 2021 (per record); ISBN 978-975-11-5258-9. PDF pages: 225 (cover verified: TARİH 9, Ortaöğretim Ders Kitabı, MEB). Verdict: COMPLETE. Tally: 25 placements — 8 to existing lessons, 17 NEW LESSON NEEDED. Records: TSV blob record + books.json twin of the same repo path = one book. Read in full from its text layer; cover verified visually. Non-History parts named: none — the whole book is History. Placements at liqlearns-courses-work/expansion-history-2026-11-15/turkey-placements.md.
 
@@ -13,3 +13,24 @@ countries: Turkey
 Turkey's own way: world history is told with the Turks walked through it — prehistory and the first civilisations, then the medieval world, then a whole unit on the Turks of the first and middle ages (steppe, kut, the Orhun stones), before Islam's birth and the Turks' own entry into Islam close the book with the Seljuks. That way is stocked here as the way Turkey teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 Searchable tags: invention of writing, cuneiform, hieroglyphs, alphabet, Sumerians, tokens, Turkey Grade 9 Tarih, ancient-world
+
+## History expansion (2026-11-15) — Moldova stocked
+
+**Book 2 — moldova-g05-history (student book, Romanian)**
+- Title as printed: Istoria românilor și universală. Manual pentru clasa a V-a
+- Grade: Grade 5 (student/teacher: STUDENT)
+- Publisher: Editura Blitz Poligraf, Chișinău; year 2023; ISBN 978-9975-3638-8-4
+- PDF pages: 176 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 48 placements — 15 to existing lessons, 33 NEW LESSON NEEDED
+- Moldova's own way: a full ancient-history course (Prehistory → Ancient Orient → Greece → Thraco-Geto-Dacians → Rome → Dacians and Romans → Decline) where every universal topic is paired with the ancestors' own space — Cucuteni-Tripolie, Sarmizegetusa, Roman Dacia — and every lesson ends in a "Laborator istoric" of source analysis.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova part — Unitatea II, Lecția 6: Apariția scrisului — story beats: writing crosses the line from prehistory to history — pictograms grow toward alphabets in the Orient, in Aśoka's India and in pictographic China (History expansion, 2026-11-15; original placement slug: ancient-world/the-invention-of-writing) | Moldova, *Istoria românilor și universală. Manual pentru clasa a V-a*, printed p. 51 |
+
+Moldova's own way (Book 2 — moldova-g05-history (student book, Romanian)): a full ancient-history course (Prehistory → Ancient Orient → Greece → Thraco-Geto-Dacians → Rome → Dacians and Romans → Decline) where every universal topic is paired with the ancestors' own space — Cucuteni-Tripolie, Sarmizegetusa, Roman Dacia — and every lesson ends in a "Laborator istoric" of source analysis. That way is stocked here as the way Moldova teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 2 countries (Turkey, Moldova).**
+
+Searchable tags: Moldova, History expansion 2026-11-15, ancient-world/the-invention-of-writing

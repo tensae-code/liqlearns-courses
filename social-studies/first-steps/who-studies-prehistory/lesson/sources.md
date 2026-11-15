@@ -1,6 +1,6 @@
 # Sources — Archaeology, palaeontology, anthropology — who studies prehistory
 
-countries: Ethiopia, Gambia, Turkey, Bangladesh, Australia, Bhutan, Eritrea, India, Finland, Dominican Republic, Iran, Suriname, Cambodia, Colombia, Afghanistan, China, Venezuela
+countries: Ethiopia, Gambia, Turkey, Bangladesh, Australia, Bhutan, Eritrea, India, Finland, Dominican Republic, Iran, Suriname, Cambodia, Colombia, Afghanistan, China, Venezuela, Moldova
 
 **Book 1:** *History, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, Addis Ababa, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-064-2, 210 printed pp. Printed page = PDF page − 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g09-student-placements.md
 
@@ -431,3 +431,24 @@ Venezuela's own way (Book 10 — g8 Historia de la Humanidad (student book, Span
 **Acceptance count: taught in 17 countries (Ethiopia, Gambia, Turkey, Bangladesh, Australia, Bhutan, Eritrea, India, Finland, Dominican Republic, Iran, Suriname, Cambodia, Colombia, Afghanistan, China, Venezuela).**
 
 Searchable tags: Venezuela, History expansion 2026-11-15, first-steps/who-studies-prehistory
+
+## History expansion (2026-11-15) — Moldova stocked
+
+**Book 1 — moldova-g04-history (student book, Romanian)**
+- Title as printed: Istoria românilor și universală: Manual pentru clasa a 4-a
+- Grade: Grade 4 (student/teacher: STUDENT)
+- Publisher: Î.E.P. Știința, Chișinău; year 2020; ISBN 978-9975-85-230-2
+- PDF pages: 76 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 28 placements — 9 to existing lessons, 19 NEW LESSON NEEDED
+- Moldova's own way: a child's first history book taught as dialogues with Clio, muse of history — every theme opens with a schoolchild asking Clio questions, and the national story (Geto-Dacians → Moldavia → unions → independence) is interleaved with family, village and heritage work.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova part — Bucuria lecturii: Despre munca arheologilor — story beats: archaeologists digging Greek ruins are not treasure hunters — their higher aim is to bring long-dead people back to life from what they left (History expansion, 2026-11-15; original placement slug: first-steps/who-studies-prehistory) | Moldova, *Istoria românilor și universală: Manual pentru clasa a 4-a*, printed p. 22 |
+
+Moldova's own way (Book 1 — moldova-g04-history (student book, Romanian)): a child's first history book taught as dialogues with Clio, muse of history — every theme opens with a schoolchild asking Clio questions, and the national story (Geto-Dacians → Moldavia → unions → independence) is interleaved with family, village and heritage work. That way is stocked here as the way Moldova teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 18 countries (Ethiopia, Gambia, Turkey, Bangladesh, Australia, Bhutan, Eritrea, India, Finland, Dominican Republic, Iran, Suriname, Cambodia, Colombia, Afghanistan, China, Venezuela, Moldova).**
+
+Searchable tags: Moldova, History expansion 2026-11-15, first-steps/who-studies-prehistory

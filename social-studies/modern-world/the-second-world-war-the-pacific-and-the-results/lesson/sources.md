@@ -1,6 +1,6 @@
 # Sources — The Second World War — the Pacific and the results
 
-countries: Ethiopia, United States, Turkey, Micronesia, Australia, Malaysia, Indonesia, South Sudan, Iraq, Sudan, Jordan, North Macedonia, Cuba, China
+countries: Ethiopia, United States, Turkey, Micronesia, Australia, Malaysia, Indonesia, South Sudan, Iraq, Sudan, Jordan, North Macedonia, Cuba, China, Moldova
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 138).
 
@@ -263,3 +263,24 @@ China's own way (Book 4 — cn-g8-a (student book, Chinese)): World history is t
 **Acceptance count: taught in 14 countries (Ethiopia, United States, Turkey, Micronesia, Australia, Malaysia, Indonesia, South Sudan, Iraq, Sudan, Jordan, North Macedonia, Cuba, China).**
 
 Searchable tags: China, History expansion 2026-11-15, modern-world/the-second-world-war-the-pacific-and-the-results
+
+## History expansion (2026-11-15) — Moldova stocked
+
+**Book 6 — moldova-g09-history (student book, Romanian)**
+- Title as printed: Istoria românilor și universală: Manual pentru clasa a IX-a
+- Grade: Grade 9 (student/teacher: STUDENT)
+- Publisher: Univers Educațional; year 2023; ISBN 978-9975-3640-0-3
+- PDF pages: 212 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 49 placements — 12 to existing lessons, 37 NEW LESSON NEEDED
+- Moldova's own way: the whole contemporary age (1914–today) is told with Bessarabia/Moldova at its centre — the 1918 union, the Moldavian ASSR, the 1940 annexation, famine and deportations, anti-communist resistance, independence and the Transnistria war each get their own theme beside the world story.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova part — Tema 22: Sfârșitul războiului — story beats: America holds a new weapon, the atomic bomb; Stalin, told the news, answers calmly that he hopes the Americans "will use it properly against the Japanese" (History expansion, 2026-11-15; original placement slug: modern-world/the-second-world-war-the-pacific-and-the-results) | Moldova, *Istoria românilor și universală: Manual pentru clasa a IX-a*, printed p. 104 |
+
+Moldova's own way (Book 6 — moldova-g09-history (student book, Romanian)): the whole contemporary age (1914–today) is told with Bessarabia/Moldova at its centre — the 1918 union, the Moldavian ASSR, the 1940 annexation, famine and deportations, anti-communist resistance, independence and the Transnistria war each get their own theme beside the world story. That way is stocked here as the way Moldova teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 15 countries (Ethiopia, United States, Turkey, Micronesia, Australia, Malaysia, Indonesia, South Sudan, Iraq, Sudan, Jordan, North Macedonia, Cuba, China, Moldova).**
+
+Searchable tags: Moldova, History expansion 2026-11-15, modern-world/the-second-world-war-the-pacific-and-the-results

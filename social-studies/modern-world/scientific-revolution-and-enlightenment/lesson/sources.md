@@ -1,6 +1,6 @@
 # Sources — Scientific Revolution and Enlightenment
 
-countries: Ethiopia, France, Costa Rica, Ecuador, Belarus, Montenegro, Dominican Republic, Pakistan, Colombia, Mauritania, Mongolia, Samoa, Iraq, Uzbekistan, North Macedonia, Afghanistan, Cuba, China, Venezuela
+countries: Ethiopia, France, Costa Rica, Ecuador, Belarus, Montenegro, Dominican Republic, Pakistan, Colombia, Mauritania, Mongolia, Samoa, Iraq, Uzbekistan, North Macedonia, Afghanistan, Cuba, China, Venezuela, Moldova
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -448,3 +448,35 @@ Venezuela's own way (Book 8 — g7 Historia de Venezuela y de Nuestra América (
 **Acceptance count: taught in 19 countries (Ethiopia, France, Costa Rica, Ecuador, Belarus, Montenegro, Dominican Republic, Pakistan, Colombia, Mauritania, Mongolia, Samoa, Iraq, Uzbekistan, North Macedonia, Afghanistan, Cuba, China, Venezuela).**
 
 Searchable tags: Venezuela, History expansion 2026-11-15, modern-world/scientific-revolution-and-enlightenment
+
+## History expansion (2026-11-15) — Moldova stocked
+
+**Book 4 — moldova-g07-history (student book, Romanian)**
+- Title as printed: Istoria românilor și universală: Manual pentru clasa a VII-a
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Î.E.P. Știința, Chișinău; year 2024; ISBN 978-9975-85-460-3
+- PDF pages: 138 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 29 placements — 8 to existing lessons, 21 NEW LESSON NEEDED
+- Moldova's own way: the first modern period (mid-1600s–mid-1800s) is taught as a double story — Western revolutions and enlightenment on one track, the Romanian Principalities squeezed between Ottoman, Habsburg and Russian empires on the other — ending with a whole unit on Bessarabia under Russian rule after 1812.
+
+**Book 7 — moldova-g11-history (student book, Romanian)**
+- Title as printed: Istoria românilor şi universală: Epoca modernă. Manual pentru clasa a XI-a
+- Grade: Grade 11 (student/teacher: STUDENT)
+- Publisher: Editura Cartdidact; year 2020; ISBN 978-9975-3412-5-7
+- PDF pages: 241 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 54 placements — 13 to existing lessons, 41 NEW LESSON NEEDED
+- Moldova's own way: the lycée modern-age course (§1–§53, each with Curs / Dosar source files / Studiu de caz) runs the world story and the Romanian story in parallel chapters — and gives Bessarabia under tsarism a whole chapter of its own, "from autonomy to gubernia".
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova part — Lecția 4: Iluminismul – raţiune şi viziuni modernizatoare — story beats: telescopes and microscopes remake knowledge; Galileo is condemned for putting the Sun at the centre, while Locke grounds the state in a social contract defending the property a man's labour creates (History expansion, 2026-11-15; original placement slug: modern-world/scientific-revolution-and-enlightenment) | Moldova, *Istoria românilor și universală: Manual pentru clasa a VII-a*, printed p. 18 |
+| Moldova part — §10: Iluminismul – revoluţia ideilor — story beats: Locke's natural freedom, Montesquieu's twenty years on The Spirit of Laws and three kinds of government, and Kant's Germany carry the revolution of ideas (History expansion, 2026-11-15; original placement slug: modern-world/scientific-revolution-and-enlightenment) | Moldova, *Istoria românilor şi universală: Epoca modernă. Manual pentru clasa a XI-a*, printed p. 40 |
+
+Moldova's own way (Book 4 — moldova-g07-history (student book, Romanian)): the first modern period (mid-1600s–mid-1800s) is taught as a double story — Western revolutions and enlightenment on one track, the Romanian Principalities squeezed between Ottoman, Habsburg and Russian empires on the other — ending with a whole unit on Bessarabia under Russian rule after 1812. That way is stocked here as the way Moldova teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+Moldova's own way (Book 7 — moldova-g11-history (student book, Romanian)): the lycée modern-age course (§1–§53, each with Curs / Dosar source files / Studiu de caz) runs the world story and the Romanian story in parallel chapters — and gives Bessarabia under tsarism a whole chapter of its own, "from autonomy to gubernia". That way is stocked here as the way Moldova teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 20 countries (Ethiopia, France, Costa Rica, Ecuador, Belarus, Montenegro, Dominican Republic, Pakistan, Colombia, Mauritania, Mongolia, Samoa, Iraq, Uzbekistan, North Macedonia, Afghanistan, Cuba, China, Venezuela, Moldova).**
+
+Searchable tags: Moldova, History expansion 2026-11-15, modern-world/scientific-revolution-and-enlightenment

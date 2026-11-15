@@ -1,6 +1,6 @@
 # Sources — Historiography — history of history-writing
 
-countries: Ethiopia, Gambia, Bangladesh, Ecuador, Indonesia, Dominican Republic, United Kingdom, Bolivia, Iran, Palestine, Colombia, Samoa, Mozambique, Yemen, Uzbekistan, Venezuela
+countries: Ethiopia, Gambia, Bangladesh, Ecuador, Indonesia, Dominican Republic, United Kingdom, Bolivia, Iran, Palestine, Colombia, Samoa, Mozambique, Yemen, Uzbekistan, Venezuela, Moldova
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -469,3 +469,24 @@ Venezuela's own way (Book 4 — g4 Venezuela y Su Gente (student book, Spanish))
 **Acceptance count: taught in 16 countries (Ethiopia, Gambia, Bangladesh, Ecuador, Indonesia, Dominican Republic, United Kingdom, Bolivia, Iran, Palestine, Colombia, Samoa, Mozambique, Yemen, Uzbekistan, Venezuela).**
 
 Searchable tags: Venezuela, History expansion 2026-11-15, first-steps/historiography-the-history-of-history-writing
+
+## History expansion (2026-11-15) — Moldova stocked
+
+**Book 1 — moldova-g04-history (student book, Romanian)**
+- Title as printed: Istoria românilor și universală: Manual pentru clasa a 4-a
+- Grade: Grade 4 (student/teacher: STUDENT)
+- Publisher: Î.E.P. Știința, Chișinău; year 2020; ISBN 978-9975-85-230-2
+- PDF pages: 76 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 28 placements — 9 to existing lessons, 19 NEW LESSON NEEDED
+- Moldova's own way: a child's first history book taught as dialogues with Clio, muse of history — every theme opens with a schoolchild asking Clio questions, and the national story (Geto-Dacians → Moldavia → unions → independence) is interleaved with family, village and heritage work.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova part — Extindere II: Marii cronicari ai Țării Moldovei — story beats: Grigore Ureche first writes the chronicle in the ancestors' own language — "from Rome we descend" — and Miron Costin carries the story on (History expansion, 2026-11-15; original placement slug: first-steps/historiography-the-history-of-history-writing) | Moldova, *Istoria românilor și universală: Manual pentru clasa a 4-a*, printed p. 67 |
+
+Moldova's own way (Book 1 — moldova-g04-history (student book, Romanian)): a child's first history book taught as dialogues with Clio, muse of history — every theme opens with a schoolchild asking Clio questions, and the national story (Geto-Dacians → Moldavia → unions → independence) is interleaved with family, village and heritage work. That way is stocked here as the way Moldova teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 17 countries (Ethiopia, Gambia, Bangladesh, Ecuador, Indonesia, Dominican Republic, United Kingdom, Bolivia, Iran, Palestine, Colombia, Samoa, Mozambique, Yemen, Uzbekistan, Venezuela, Moldova).**
+
+Searchable tags: Moldova, History expansion 2026-11-15, first-steps/historiography-the-history-of-history-writing

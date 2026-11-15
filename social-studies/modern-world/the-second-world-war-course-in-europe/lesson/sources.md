@@ -1,6 +1,6 @@
 # Sources — The Second World War — course in Europe
 
-countries: Ethiopia, United States, Turkey, Australia, Kuwait, Montenegro, Finland, Dominican Republic, Pakistan, Bolivia, Iran, Cambodia, Mauritania, South Sudan, Iraq, Mozambique, Yemen, Sudan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba, China, Venezuela
+countries: Ethiopia, United States, Turkey, Australia, Kuwait, Montenegro, Finland, Dominican Republic, Pakistan, Bolivia, Iran, Cambodia, Mauritania, South Sudan, Iraq, Mozambique, Yemen, Sudan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba, China, Venezuela, Moldova
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 137).
 
@@ -603,3 +603,35 @@ Venezuela's own way (Book 10 — g8 Historia de la Humanidad (student book, Span
 **Acceptance count: taught in 25 countries (Ethiopia, United States, Turkey, Australia, Kuwait, Montenegro, Finland, Dominican Republic, Pakistan, Bolivia, Iran, Cambodia, Mauritania, South Sudan, Iraq, Mozambique, Yemen, Sudan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba, China, Venezuela).**
 
 Searchable tags: Venezuela, History expansion 2026-11-15, modern-world/the-second-world-war-course-in-europe
+
+## History expansion (2026-11-15) — Moldova stocked
+
+**Book 6 — moldova-g09-history (student book, Romanian)**
+- Title as printed: Istoria românilor și universală: Manual pentru clasa a IX-a
+- Grade: Grade 9 (student/teacher: STUDENT)
+- Publisher: Univers Educațional; year 2023; ISBN 978-9975-3640-0-3
+- PDF pages: 212 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 49 placements — 12 to existing lessons, 37 NEW LESSON NEEDED
+- Moldova's own way: the whole contemporary age (1914–today) is told with Bessarabia/Moldova at its centre — the 1918 union, the Moldavian ASSR, the 1940 annexation, famine and deportations, anti-communist resistance, independence and the Transnistria war each get their own theme beside the world story.
+
+**Book 8 — moldova-g12-history (student book, Romanian)**
+- Title as printed: Istoria românilor și universală: Manual pentru clasa a XII-a
+- Grade: Grade 12 (student/teacher: STUDENT)
+- Publisher: Î.E.P. Știința, Chișinău; year 2024; ISBN 978-9975-85-476-4
+- PDF pages: 306 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 64 placements — 9 to existing lessons, 55 NEW LESSON NEEDED
+- Moldova's own way: the final lycée year re-runs the whole contemporary age at examination depth — every theme built as Jurnal istoric / Timp istoric / Dicționar istoric with primary sources — and closes not with wars but with global problems, migration, values and four local-history projects.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova part — Tema 22: Desfășurarea războiului — story beats: Paulus capitulates at Stalingrad with 90,000 men and 24 generals and Germany loses the land initiative; Bulgaria's government falls on 9 September and joins the anti-Hitler coalition (History expansion, 2026-11-15; original placement slug: modern-world/the-second-world-war-course-in-europe) | Moldova, *Istoria românilor și universală: Manual pentru clasa a IX-a*, printed p. 104 |
+| Moldova part — Tema 23: Al Doilea Război Mondial. Strategii și acțiuni militare (1939–1945) — story beats: Germany demands Danzig after the pact of 23 August 1939; pupils must explain the western blitzkrieg, Athens falls on 30 April 1941 with swastikas over the Acropolis, and in April 1945 the Ruhr pocket closes (History expansion, 2026-11-15; original placement slug: modern-world/the-second-world-war-course-in-europe) | Moldova, *Istoria românilor și universală: Manual pentru clasa a XII-a*, printed p. 111 |
+
+Moldova's own way (Book 6 — moldova-g09-history (student book, Romanian)): the whole contemporary age (1914–today) is told with Bessarabia/Moldova at its centre — the 1918 union, the Moldavian ASSR, the 1940 annexation, famine and deportations, anti-communist resistance, independence and the Transnistria war each get their own theme beside the world story. That way is stocked here as the way Moldova teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+Moldova's own way (Book 8 — moldova-g12-history (student book, Romanian)): the final lycée year re-runs the whole contemporary age at examination depth — every theme built as Jurnal istoric / Timp istoric / Dicționar istoric with primary sources — and closes not with wars but with global problems, migration, values and four local-history projects. That way is stocked here as the way Moldova teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 26 countries (Ethiopia, United States, Turkey, Australia, Kuwait, Montenegro, Finland, Dominican Republic, Pakistan, Bolivia, Iran, Cambodia, Mauritania, South Sudan, Iraq, Mozambique, Yemen, Sudan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba, China, Venezuela, Moldova).**
+
+Searchable tags: Moldova, History expansion 2026-11-15, modern-world/the-second-world-war-course-in-europe

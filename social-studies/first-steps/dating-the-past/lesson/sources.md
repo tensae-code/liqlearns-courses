@@ -1,6 +1,6 @@
 # Sources — Dating the past — calendars, timelines and periods
 
-countries: Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, Laos, Afghanistan, Cuba, China, Venezuela
+countries: Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, Laos, Afghanistan, Cuba, China, Venezuela, Moldova
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -1768,3 +1768,47 @@ Venezuela's own way (Book 8 — g7 Historia de Venezuela y de Nuestra América (
 **Acceptance count: taught in 42 countries (Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, Laos, Afghanistan, Cuba, China, Venezuela).**
 
 Searchable tags: Venezuela, History expansion 2026-11-15, first-steps/dating-the-past
+
+## History expansion (2026-11-15) — Moldova stocked
+
+**Book 1 — moldova-g04-history (student book, Romanian)**
+- Title as printed: Istoria românilor și universală: Manual pentru clasa a 4-a
+- Grade: Grade 4 (student/teacher: STUDENT)
+- Publisher: Î.E.P. Știința, Chișinău; year 2020; ISBN 978-9975-85-230-2
+- PDF pages: 76 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 28 placements — 9 to existing lessons, 19 NEW LESSON NEEDED
+- Moldova's own way: a child's first history book taught as dialogues with Clio, muse of history — every theme opens with a schoolchild asking Clio questions, and the national story (Geto-Dacians → Moldavia → unions → independence) is interleaved with family, village and heritage work.
+
+**Book 2 — moldova-g05-history (student book, Romanian)**
+- Title as printed: Istoria românilor și universală. Manual pentru clasa a V-a
+- Grade: Grade 5 (student/teacher: STUDENT)
+- Publisher: Editura Blitz Poligraf, Chișinău; year 2023; ISBN 978-9975-3638-8-4
+- PDF pages: 176 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 48 placements — 15 to existing lessons, 33 NEW LESSON NEEDED
+- Moldova's own way: a full ancient-history course (Prehistory → Ancient Orient → Greece → Thraco-Geto-Dacians → Rome → Dacians and Romans → Decline) where every universal topic is paired with the ancestors' own space — Cucuteni-Tripolie, Sarmizegetusa, Roman Dacia — and every lesson ends in a "Laborator istoric" of source analysis.
+
+**Book 3 — moldova-g06-history (student book, Romanian)**
+- Title as printed: Istoria românilor şi universală: Manual pentru clasa a VI-a
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Editura Blitz Poligraf, Chișinău; year 2023; ISBN 978-9975-3632-1-1
+- PDF pages: 161 (cover/title page verified against the record title; 160 printed pages)
+- Verdict: COMPLETE
+- Tally: 39 placements — 12 to existing lessons, 27 NEW LESSON NEEDED
+- Moldova's own way: the medieval year is taught in three acts (early / middle / late Middle Ages) plus the birth of the modern world, with the Romanian lands woven through every act — feudalism, Byzantium, the Crusades and the Ottomans are all read from Moldavia's and Wallachia's side of the story.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova part — Tema 3: Timpul și spațiul în istorie — story beats: Marin's grandfather's old coins open the lesson on chronology — years, decades, centuries, millennia, the timeline and the historical map (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Moldova, *Istoria românilor și universală: Manual pentru clasa a 4-a*, printed p. 12 |
+| Moldova part — Introducere: cronologia și spațiul istoric — story beats: pupils learn to count years BC and AD and to read law codes — Hammurabi, Manu, the Twelve Tables, Dacia's Belagines — as dated evidence in a place (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Moldova, *Istoria românilor și universală. Manual pentru clasa a V-a*, printed p. 7 |
+| Moldova part — Unitatea V, Lecție de sinteză: Istoria calendarului — story beats: the calendar itself has a history — its name from the Latin calendae — as peoples learn to cut time into years, months and days by the sky (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Moldova, *Istoria românilor și universală. Manual pentru clasa a V-a*, printed p. 133 |
+| Moldova part — Introducere: Măsurarea timpului în Evul Mediu — story beats: medieval people order prayer, markets and war by bells, calendars and feast days — measuring time is itself a historical skill (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Moldova, *Istoria românilor şi universală: Manual pentru clasa a VI-a*, printed p. 9 |
+
+Moldova's own way (Book 1 — moldova-g04-history (student book, Romanian)): a child's first history book taught as dialogues with Clio, muse of history — every theme opens with a schoolchild asking Clio questions, and the national story (Geto-Dacians → Moldavia → unions → independence) is interleaved with family, village and heritage work. That way is stocked here as the way Moldova teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+Moldova's own way (Book 2 — moldova-g05-history (student book, Romanian)): a full ancient-history course (Prehistory → Ancient Orient → Greece → Thraco-Geto-Dacians → Rome → Dacians and Romans → Decline) where every universal topic is paired with the ancestors' own space — Cucuteni-Tripolie, Sarmizegetusa, Roman Dacia — and every lesson ends in a "Laborator istoric" of source analysis. That way is stocked here as the way Moldova teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+Moldova's own way (Book 3 — moldova-g06-history (student book, Romanian)): the medieval year is taught in three acts (early / middle / late Middle Ages) plus the birth of the modern world, with the Romanian lands woven through every act — feudalism, Byzantium, the Crusades and the Ottomans are all read from Moldavia's and Wallachia's side of the story. That way is stocked here as the way Moldova teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 43 countries (Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Pakistan, Syria, Bolivia, Iran, Bulgaria, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, Laos, Afghanistan, Cuba, China, Venezuela, Moldova).**
+
+Searchable tags: Moldova, History expansion 2026-11-15, first-steps/dating-the-past

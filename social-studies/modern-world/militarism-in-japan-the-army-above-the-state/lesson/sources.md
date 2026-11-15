@@ -1,6 +1,6 @@
 # Sources — Militarism in Japan — the army above the state
 
-countries: Ethiopia, South Sudan, Samoa, China
+countries: Ethiopia, South Sudan, Samoa, China, Moldova
 
 **Book 1:** *History, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN 978-99990-0-065-9. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g10-student-placements.md
 
@@ -118,3 +118,24 @@ China's own way (Book 4 — cn-g8-a (student book, Chinese)): World history is t
 **Acceptance count: taught in 4 countries (Ethiopia, South Sudan, Samoa, China).**
 
 Searchable tags: China, History expansion 2026-11-15, modern-world/militarism-in-japan-the-army-above-the-state
+
+## History expansion (2026-11-15) — Moldova stocked
+
+**Book 6 — moldova-g09-history (student book, Romanian)**
+- Title as printed: Istoria românilor și universală: Manual pentru clasa a IX-a
+- Grade: Grade 9 (student/teacher: STUDENT)
+- Publisher: Univers Educațional; year 2023; ISBN 978-9975-3640-0-3
+- PDF pages: 212 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 49 placements — 12 to existing lessons, 37 NEW LESSON NEEDED
+- Moldova's own way: the whole contemporary age (1914–today) is told with Bessarabia/Moldova at its centre — the 1918 union, the Moldavian ASSR, the 1940 annexation, famine and deportations, anti-communist resistance, independence and the Transnistria war each get their own theme beside the world story.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova part — Tema 11: Extremul Orient — story beats: Japan democratises in the 1920s — universal suffrage in 1925, 14 million voters — then turns militarist; in China the communists, beaten at Shanghai and Canton in 1927, take to guerrilla war in Hunan (History expansion, 2026-11-15; original placement slug: modern-world/militarism-in-japan-the-army-above-the-state) | Moldova, *Istoria românilor și universală: Manual pentru clasa a IX-a*, printed p. 58 |
+
+Moldova's own way (Book 6 — moldova-g09-history (student book, Romanian)): the whole contemporary age (1914–today) is told with Bessarabia/Moldova at its centre — the 1918 union, the Moldavian ASSR, the 1940 annexation, famine and deportations, anti-communist resistance, independence and the Transnistria war each get their own theme beside the world story. That way is stocked here as the way Moldova teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 5 countries (Ethiopia, South Sudan, Samoa, China, Moldova).**
+
+Searchable tags: Moldova, History expansion 2026-11-15, modern-world/militarism-in-japan-the-army-above-the-state

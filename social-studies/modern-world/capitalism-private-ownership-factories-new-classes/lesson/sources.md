@@ -1,6 +1,6 @@
 # Sources — Capitalism — private ownership, factories, new classes
 
-countries: Ethiopia, Brazil, Australia, Ecuador, Dominican Republic, Colombia, Mongolia, Samoa, Iraq, Uzbekistan, Laos, Cuba, China
+countries: Ethiopia, Brazil, Australia, Ecuador, Dominican Republic, Colombia, Mongolia, Samoa, Iraq, Uzbekistan, Laos, Cuba, China, Moldova
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -380,3 +380,24 @@ China's own way (Book 11 — cn-g12d (student book, Chinese)): History from the 
 **Acceptance count: taught in 13 countries (Ethiopia, Brazil, Australia, Ecuador, Dominican Republic, Colombia, Mongolia, Samoa, Iraq, Uzbekistan, Laos, Cuba, China).**
 
 Searchable tags: China, History expansion 2026-11-15, modern-world/capitalism-private-ownership-factories-new-classes
+
+## History expansion (2026-11-15) — Moldova stocked
+
+**Book 7 — moldova-g11-history (student book, Romanian)**
+- Title as printed: Istoria românilor şi universală: Epoca modernă. Manual pentru clasa a XI-a
+- Grade: Grade 11 (student/teacher: STUDENT)
+- Publisher: Editura Cartdidact; year 2020; ISBN 978-9975-3412-5-7
+- PDF pages: 241 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 54 placements — 13 to existing lessons, 41 NEW LESSON NEEDED
+- Moldova's own way: the lycée modern-age course (§1–§53, each with Curs / Dosar source files / Studiu de caz) runs the world story and the Romanian story in parallel chapters — and gives Bessarabia under tsarism a whole chapter of its own, "from autonomy to gubernia".
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova part — §5: Structuri şi relaţii sociale în Europa Occidentală — story beats: money now decides a man's place; England legalises the first trade unions in 1825 while France's 25 million still live in three estates (History expansion, 2026-11-15; original placement slug: modern-world/capitalism-private-ownership-factories-new-classes) | Moldova, *Istoria românilor şi universală: Epoca modernă. Manual pentru clasa a XI-a*, printed p. 20 |
+
+Moldova's own way (Book 7 — moldova-g11-history (student book, Romanian)): the lycée modern-age course (§1–§53, each with Curs / Dosar source files / Studiu de caz) runs the world story and the Romanian story in parallel chapters — and gives Bessarabia under tsarism a whole chapter of its own, "from autonomy to gubernia". That way is stocked here as the way Moldova teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 14 countries (Ethiopia, Brazil, Australia, Ecuador, Dominican Republic, Colombia, Mongolia, Samoa, Iraq, Uzbekistan, Laos, Cuba, China, Moldova).**
+
+Searchable tags: Moldova, History expansion 2026-11-15, modern-world/capitalism-private-ownership-factories-new-classes

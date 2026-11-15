@@ -1,6 +1,6 @@
 # Sources — The Great Depression — 1929 and the world it broke
 
-countries: Ethiopia, United States, Costa Rica, Australia, Indonesia, United Kingdom, Suriname, Cambodia, Colombia, Mauritania, Samoa, Iraq, Mozambique, North Macedonia, Laos, Cuba, China, Venezuela
+countries: Ethiopia, United States, Costa Rica, Australia, Indonesia, United Kingdom, Suriname, Cambodia, Colombia, Mauritania, Samoa, Iraq, Mozambique, North Macedonia, Laos, Cuba, China, Venezuela, Moldova
 
 **Book 1:** *History, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN 978-99990-0-065-9. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g10-student-placements.md
 
@@ -477,3 +477,24 @@ Venezuela's own way (Book 10 — g8 Historia de la Humanidad (student book, Span
 **Acceptance count: taught in 18 countries (Ethiopia, United States, Costa Rica, Australia, Indonesia, United Kingdom, Suriname, Cambodia, Colombia, Mauritania, Samoa, Iraq, Mozambique, North Macedonia, Laos, Cuba, China, Venezuela).**
 
 Searchable tags: Venezuela, History expansion 2026-11-15, modern-world/the-great-depression-1929
+
+## History expansion (2026-11-15) — Moldova stocked
+
+**Book 8 — moldova-g12-history (student book, Romanian)**
+- Title as printed: Istoria românilor și universală: Manual pentru clasa a XII-a
+- Grade: Grade 12 (student/teacher: STUDENT)
+- Publisher: Î.E.P. Știința, Chișinău; year 2024; ISBN 978-9975-85-476-4
+- PDF pages: 306 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 64 placements — 9 to existing lessons, 55 NEW LESSON NEEDED
+- Moldova's own way: the final lycée year re-runs the whole contemporary age at examination depth — every theme built as Jurnal istoric / Timp istoric / Dicționar istoric with primary sources — and closes not with wars but with global problems, migration, values and four local-history projects.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova part — Tema 20: Marea Depresiune. „New Deal" — story beats: US industrial production falls 46% by 1932; the New Deal answers with work-week, price and union rules — "no discrimination between union members" — as a model for escaping crisis (History expansion, 2026-11-15; original placement slug: modern-world/the-great-depression-1929) | Moldova, *Istoria românilor și universală: Manual pentru clasa a XII-a*, printed p. 93 |
+
+Moldova's own way (Book 8 — moldova-g12-history (student book, Romanian)): the final lycée year re-runs the whole contemporary age at examination depth — every theme built as Jurnal istoric / Timp istoric / Dicționar istoric with primary sources — and closes not with wars but with global problems, migration, values and four local-history projects. That way is stocked here as the way Moldova teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 19 countries (Ethiopia, United States, Costa Rica, Australia, Indonesia, United Kingdom, Suriname, Cambodia, Colombia, Mauritania, Samoa, Iraq, Mozambique, North Macedonia, Laos, Cuba, China, Venezuela, Moldova).**
+
+Searchable tags: Moldova, History expansion 2026-11-15, modern-world/the-great-depression-1929

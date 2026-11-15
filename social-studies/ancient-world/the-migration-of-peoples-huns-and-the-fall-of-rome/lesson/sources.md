@@ -1,6 +1,6 @@
 # Sources — The Migration of Peoples — the Huns and the fall of Rome
 
-countries: Turkey, Montenegro, Bulgaria, Mongolia, North Macedonia
+countries: Turkey, Montenegro, Bulgaria, Mongolia, North Macedonia, Moldova
 
 **Book 2:** *Ortaöğretim Tarih 9 Ders Kitabı (Secondary Education History 9 Textbook)* (student book, Turkish) — Turkey. Title as printed: Ortaöğretim Tarih 9 Ders Kitabı (Secondary Education History 9 Textbook). Grade: Grade 9 (student/teacher: STUDENT). Publisher: T.C. Millî Eğitim Bakanlığı (MEB), Türkiye, 2021 (per record); ISBN 978-975-11-5258-9. PDF pages: 225 (cover verified: TARİH 9, Ortaöğretim Ders Kitabı, MEB). Verdict: COMPLETE. Tally: 25 placements — 8 to existing lessons, 17 NEW LESSON NEEDED. Records: TSV blob record + books.json twin of the same repo path = one book. Read in full from its text layer; cover verified visually. Non-History parts named: none — the whole book is History. Placements at liqlearns-courses-work/expansion-history-2026-11-15/turkey-placements.md.
 
@@ -125,3 +125,24 @@ North Macedonia's own way (Book 3 — Istorija I (History I), Grade 10 (student 
 **Acceptance count: taught in 5 countries (Turkey, Montenegro, Bulgaria, Mongolia, North Macedonia).**
 
 Searchable tags: North Macedonia, History expansion 2026-11-15, ancient-world/the-migration-of-peoples-huns-and-the-fall-of-rome
+
+## History expansion (2026-11-15) — Moldova stocked
+
+**Book 2 — moldova-g05-history (student book, Romanian)**
+- Title as printed: Istoria românilor și universală. Manual pentru clasa a V-a
+- Grade: Grade 5 (student/teacher: STUDENT)
+- Publisher: Editura Blitz Poligraf, Chișinău; year 2023; ISBN 978-9975-3638-8-4
+- PDF pages: 176 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 48 placements — 15 to existing lessons, 33 NEW LESSON NEEDED
+- Moldova's own way: a full ancient-history course (Prehistory → Ancient Orient → Greece → Thraco-Geto-Dacians → Rome → Dacians and Romans → Decline) where every universal topic is paired with the ancestors' own space — Cucuteni-Tripolie, Sarmizegetusa, Roman Dacia — and every lesson ends in a "Laborator istoric" of source analysis.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova part — Unitatea VII, Lecția 2: Popoarele barbare și căderea lumii antice — story beats: Attila, "the scourge of God", terrifies two empires; in the West nine puppet emperors pass in twenty years until 476 ends the ancient world (History expansion, 2026-11-15; original placement slug: ancient-world/barbarian-peoples-and-the-fall-of-rome) | Moldova, *Istoria românilor și universală. Manual pentru clasa a V-a*, printed p. 164 |
+
+Moldova's own way (Book 2 — moldova-g05-history (student book, Romanian)): a full ancient-history course (Prehistory → Ancient Orient → Greece → Thraco-Geto-Dacians → Rome → Dacians and Romans → Decline) where every universal topic is paired with the ancestors' own space — Cucuteni-Tripolie, Sarmizegetusa, Roman Dacia — and every lesson ends in a "Laborator istoric" of source analysis. That way is stocked here as the way Moldova teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 6 countries (Turkey, Montenegro, Bulgaria, Mongolia, North Macedonia, Moldova).**
+
+Searchable tags: Moldova, History expansion 2026-11-15, ancient-world/the-migration-of-peoples-huns-and-the-fall-of-rome

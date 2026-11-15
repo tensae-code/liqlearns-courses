@@ -1,6 +1,6 @@
 # Sources — American independence
 
-countries: Ethiopia, France, United States, Ecuador, Kuwait, Montenegro, Dominican Republic, Cambodia, Palestine, Colombia, Mauritania, Mongolia, Samoa, Iraq, Yemen, Jordan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba, China, Venezuela
+countries: Ethiopia, France, United States, Ecuador, Kuwait, Montenegro, Dominican Republic, Cambodia, Palestine, Colombia, Mauritania, Mongolia, Samoa, Iraq, Yemen, Jordan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba, China, Venezuela, Moldova
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under GEQIP-E, ISBN 978-99990-0-066-6. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -658,3 +658,35 @@ Venezuela's own way (Book 10 — g8 Historia de la Humanidad (student book, Span
 **Acceptance count: taught in 23 countries (Ethiopia, France, United States, Ecuador, Kuwait, Montenegro, Dominican Republic, Cambodia, Palestine, Colombia, Mauritania, Mongolia, Samoa, Iraq, Yemen, Jordan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba, China, Venezuela).**
 
 Searchable tags: Venezuela, History expansion 2026-11-15, modern-world/american-independence
+
+## History expansion (2026-11-15) — Moldova stocked
+
+**Book 4 — moldova-g07-history (student book, Romanian)**
+- Title as printed: Istoria românilor și universală: Manual pentru clasa a VII-a
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Î.E.P. Știința, Chișinău; year 2024; ISBN 978-9975-85-460-3
+- PDF pages: 138 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 29 placements — 8 to existing lessons, 21 NEW LESSON NEEDED
+- Moldova's own way: the first modern period (mid-1600s–mid-1800s) is taught as a double story — Western revolutions and enlightenment on one track, the Romanian Principalities squeezed between Ottoman, Habsburg and Russian empires on the other — ending with a whole unit on Bessarabia under Russian rule after 1812.
+
+**Book 7 — moldova-g11-history (student book, Romanian)**
+- Title as printed: Istoria românilor şi universală: Epoca modernă. Manual pentru clasa a XI-a
+- Grade: Grade 11 (student/teacher: STUDENT)
+- Publisher: Editura Cartdidact; year 2020; ISBN 978-9975-3412-5-7
+- PDF pages: 241 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 54 placements — 13 to existing lessons, 41 NEW LESSON NEEDED
+- Moldova's own way: the lycée modern-age course (§1–§53, each with Curs / Dosar source files / Studiu de caz) runs the world story and the Romanian story in parallel chapters — and gives Bessarabia under tsarism a whole chapter of its own, "from autonomy to gubernia".
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova part — Lecția 5: Războiul de Independenţă a coloniilor din America de Nord. Constituirea SUA — story beats: the metropolis treats the colonies as cheap raw material and a captive market; on 4 July 1776 Jefferson's Declaration proclaims life, liberty and the pursuit of happiness, and planter Washington leads the new republic (History expansion, 2026-11-15; original placement slug: modern-world/american-independence) | Moldova, *Istoria românilor și universală: Manual pentru clasa a VII-a*, printed p. 22 |
+| Moldova part — §11: Războiul de Independenţă al coloniilor engleze. Constituirea SUA — story beats: the thirteen colonies win at Yorktown in 1781, Britain recognises independence at Versailles in 1783, and the 1791 Bill of Rights opens with freedom of religion and speech (History expansion, 2026-11-15; original placement slug: modern-world/american-independence) | Moldova, *Istoria românilor şi universală: Epoca modernă. Manual pentru clasa a XI-a*, printed p. 44 |
+
+Moldova's own way (Book 4 — moldova-g07-history (student book, Romanian)): the first modern period (mid-1600s–mid-1800s) is taught as a double story — Western revolutions and enlightenment on one track, the Romanian Principalities squeezed between Ottoman, Habsburg and Russian empires on the other — ending with a whole unit on Bessarabia under Russian rule after 1812. That way is stocked here as the way Moldova teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+Moldova's own way (Book 7 — moldova-g11-history (student book, Romanian)): the lycée modern-age course (§1–§53, each with Curs / Dosar source files / Studiu de caz) runs the world story and the Romanian story in parallel chapters — and gives Bessarabia under tsarism a whole chapter of its own, "from autonomy to gubernia". That way is stocked here as the way Moldova teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 24 countries (Ethiopia, France, United States, Ecuador, Kuwait, Montenegro, Dominican Republic, Cambodia, Palestine, Colombia, Mauritania, Mongolia, Samoa, Iraq, Yemen, Jordan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba, China, Venezuela, Moldova).**
+
+Searchable tags: Moldova, History expansion 2026-11-15, modern-world/american-independence

@@ -1,6 +1,6 @@
 # Sources — The American Civil War — union against slavery's states
 
-countries: Ethiopia, United States, Bahamas, Cambodia, Colombia, South Sudan, Samoa, Iraq, Uzbekistan, North Macedonia, Cuba, China, Venezuela
+countries: Ethiopia, United States, Bahamas, Cambodia, Colombia, South Sudan, Samoa, Iraq, Uzbekistan, North Macedonia, Cuba, China, Venezuela, Moldova
 
 **Book 1:** *History, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN 978-99990-0-065-9, printed by GRAVITY GROUP IND LLC, Sharjah, UAE. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g10-student-placements.md
 
@@ -350,3 +350,24 @@ Venezuela's own way (Book 10 — g8 Historia de la Humanidad (student book, Span
 **Acceptance count: taught in 13 countries (Ethiopia, United States, Bahamas, Cambodia, Colombia, South Sudan, Samoa, Iraq, Uzbekistan, North Macedonia, Cuba, China, Venezuela).**
 
 Searchable tags: Venezuela, History expansion 2026-11-15, modern-world/the-american-civil-war-union-against-slavery
+
+## History expansion (2026-11-15) — Moldova stocked
+
+**Book 7 — moldova-g11-history (student book, Romanian)**
+- Title as printed: Istoria românilor şi universală: Epoca modernă. Manual pentru clasa a XI-a
+- Grade: Grade 11 (student/teacher: STUDENT)
+- Publisher: Editura Cartdidact; year 2020; ISBN 978-9975-3412-5-7
+- PDF pages: 241 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 54 placements — 13 to existing lessons, 41 NEW LESSON NEEDED
+- Moldova's own way: the lycée modern-age course (§1–§53, each with Curs / Dosar source files / Studiu de caz) runs the world story and the Romanian story in parallel chapters — and gives Bessarabia under tsarism a whole chapter of its own, "from autonomy to gubernia".
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova part — §38: Războiul civil în S.U.A. Reconstrucţia — story beats: slavery gives the North–South crisis its moral charge; John Brown raids with 31 men, Lincoln holds the Union, and emancipation's road through the South meets the Ku-Klux-Klan (History expansion, 2026-11-15; original placement slug: modern-world/the-american-civil-war-union-against-slavery) | Moldova, *Istoria românilor şi universală: Epoca modernă. Manual pentru clasa a XI-a*, printed p. 158 |
+
+Moldova's own way (Book 7 — moldova-g11-history (student book, Romanian)): the lycée modern-age course (§1–§53, each with Curs / Dosar source files / Studiu de caz) runs the world story and the Romanian story in parallel chapters — and gives Bessarabia under tsarism a whole chapter of its own, "from autonomy to gubernia". That way is stocked here as the way Moldova teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 14 countries (Ethiopia, United States, Bahamas, Cambodia, Colombia, South Sudan, Samoa, Iraq, Uzbekistan, North Macedonia, Cuba, China, Venezuela, Moldova).**
+
+Searchable tags: Moldova, History expansion 2026-11-15, modern-world/the-american-civil-war-union-against-slavery

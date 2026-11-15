@@ -1,6 +1,6 @@
 # Sources — What history is
 
-countries: Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba, Venezuela
+countries: Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba, Venezuela, Moldova
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -1424,3 +1424,24 @@ Venezuela's own way (Book 8 — g7 Historia de Venezuela y de Nuestra América (
 **Acceptance count: taught in 46 countries (Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba, Venezuela).**
 
 Searchable tags: Venezuela, History expansion 2026-11-15, first-steps/what-history-is
+
+## History expansion (2026-11-15) — Moldova stocked
+
+**Book 1 — moldova-g04-history (student book, Romanian)**
+- Title as printed: Istoria românilor și universală: Manual pentru clasa a 4-a
+- Grade: Grade 4 (student/teacher: STUDENT)
+- Publisher: Î.E.P. Știința, Chișinău; year 2020; ISBN 978-9975-85-230-2
+- PDF pages: 76 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 28 placements — 9 to existing lessons, 19 NEW LESSON NEEDED
+- Moldova's own way: a child's first history book taught as dialogues with Clio, muse of history — every theme opens with a schoolchild asking Clio questions, and the national story (Geto-Dacians → Moldavia → unions → independence) is interleaved with family, village and heritage work.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova part — Tema 1: Istoria – învățătoarea vieții — story beats: pupil Dragoș asks Clio what history is; she answers it is the true story of humankind's road, and Herodotus is named its father (History expansion, 2026-11-15; original placement slug: first-steps/what-history-is) | Moldova, *Istoria românilor și universală: Manual pentru clasa a 4-a*, printed p. 8 |
+
+Moldova's own way (Book 1 — moldova-g04-history (student book, Romanian)): a child's first history book taught as dialogues with Clio, muse of history — every theme opens with a schoolchild asking Clio questions, and the national story (Geto-Dacians → Moldavia → unions → independence) is interleaved with family, village and heritage work. That way is stocked here as the way Moldova teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 47 countries (Ethiopia, Saudi Arabia, Cabo Verde, Angola, Gambia, Rwanda, Turkey, Bangladesh, Australia, Bhutan, Malaysia, Ecuador, Eritrea, Cyprus, Kuwait, India, Nepal, Fiji, Indonesia, Montenegro, Dominican Republic, United Kingdom, Egypt, Pakistan, Syria, Bolivia, Iran, Suriname, Cambodia, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia, Iraq, Mozambique, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Laos, Afghanistan, Cuba, Venezuela, Moldova).**
+
+Searchable tags: Moldova, History expansion 2026-11-15, first-steps/what-history-is

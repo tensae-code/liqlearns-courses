@@ -1,6 +1,6 @@
 # Sources — The rise and expansion of Islam
 
-countries: Ethiopia, Saudi Arabia, Gambia, Turkey, Costa Rica, Malaysia, Ecuador, Kuwait, India, Montenegro, Egypt, Pakistan, Syria, Iran, Bulgaria, Palestine, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Afghanistan, Cuba, China, Venezuela
+countries: Ethiopia, Saudi Arabia, Gambia, Turkey, Costa Rica, Malaysia, Ecuador, Kuwait, India, Montenegro, Egypt, Pakistan, Syria, Iran, Bulgaria, Palestine, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Afghanistan, Cuba, China, Venezuela, Moldova
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under GEQIP-E, ISBN 978-99990-0-066-6. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -1141,3 +1141,24 @@ Venezuela's own way (Book 10 — g8 Historia de la Humanidad (student book, Span
 **Acceptance count: taught in 31 countries (Ethiopia, Saudi Arabia, Gambia, Turkey, Costa Rica, Malaysia, Ecuador, Kuwait, India, Montenegro, Egypt, Pakistan, Syria, Iran, Bulgaria, Palestine, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Afghanistan, Cuba, China, Venezuela).**
 
 Searchable tags: Venezuela, History expansion 2026-11-15, ancient-world/the-rise-and-expansion-of-islam
+
+## History expansion (2026-11-15) — Moldova stocked
+
+**Book 3 — moldova-g06-history (student book, Romanian)**
+- Title as printed: Istoria românilor şi universală: Manual pentru clasa a VI-a
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Editura Blitz Poligraf, Chișinău; year 2023; ISBN 978-9975-3632-1-1
+- PDF pages: 161 (cover/title page verified against the record title; 160 printed pages)
+- Verdict: COMPLETE
+- Tally: 39 placements — 12 to existing lessons, 27 NEW LESSON NEEDED
+- Moldova's own way: the medieval year is taught in three acts (early / middle / late Middle Ages) plus the birth of the modern world, with the Romanian lands woven through every act — feudalism, Byzantium, the Crusades and the Ottomans are all read from Moldavia's and Wallachia's side of the story.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova part — Unitatea I, Lecția 2: Arabii în secolele V–XI — story beats: Muhammad's Hegira opens the Islamic era; the caliphate rises on trade and learning, then fades until Seljuk Turks take Baghdad in 1055 (History expansion, 2026-11-15; original placement slug: ancient-world/the-rise-and-expansion-of-islam) | Moldova, *Istoria românilor şi universală: Manual pentru clasa a VI-a*, printed p. 16 |
+
+Moldova's own way (Book 3 — moldova-g06-history (student book, Romanian)): the medieval year is taught in three acts (early / middle / late Middle Ages) plus the birth of the modern world, with the Romanian lands woven through every act — feudalism, Byzantium, the Crusades and the Ottomans are all read from Moldavia's and Wallachia's side of the story. That way is stocked here as the way Moldova teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 32 countries (Ethiopia, Saudi Arabia, Gambia, Turkey, Costa Rica, Malaysia, Ecuador, Kuwait, India, Montenegro, Egypt, Pakistan, Syria, Iran, Bulgaria, Palestine, Colombia, Mauritania, Libya, Sri Lanka, Mongolia, Iraq, Yemen, Sudan, Jordan, Uzbekistan, North Macedonia, Afghanistan, Cuba, China, Venezuela, Moldova).**
+
+Searchable tags: Moldova, History expansion 2026-11-15, ancient-world/the-rise-and-expansion-of-islam

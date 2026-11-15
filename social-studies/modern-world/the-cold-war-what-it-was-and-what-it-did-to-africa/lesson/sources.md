@@ -1,6 +1,6 @@
 # Sources — The Cold War — what it was and what it did to Africa
 
-countries: Ethiopia, Turkey, Costa Rica, Australia, Ecuador, Indonesia, Bolivia, Cambodia, Colombia, South Sudan, Mongolia, Mozambique, Yemen, Sudan, Jordan, Laos, China, Venezuela
+countries: Ethiopia, Turkey, Costa Rica, Australia, Ecuador, Indonesia, Bolivia, Cambodia, Colombia, South Sudan, Mongolia, Mozambique, Yemen, Sudan, Jordan, Laos, China, Venezuela, Moldova
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 139).
 
@@ -464,3 +464,35 @@ Venezuela's own way (Book 10 — g8 Historia de la Humanidad (student book, Span
 **Acceptance count: taught in 18 countries (Ethiopia, Turkey, Costa Rica, Australia, Ecuador, Indonesia, Bolivia, Cambodia, Colombia, South Sudan, Mongolia, Mozambique, Yemen, Sudan, Jordan, Laos, China, Venezuela).**
 
 Searchable tags: Venezuela, History expansion 2026-11-15, modern-world/the-cold-war-what-it-was-and-what-it-did-to-africa
+
+## History expansion (2026-11-15) — Moldova stocked
+
+**Book 6 — moldova-g09-history (student book, Romanian)**
+- Title as printed: Istoria românilor și universală: Manual pentru clasa a IX-a
+- Grade: Grade 9 (student/teacher: STUDENT)
+- Publisher: Univers Educațional; year 2023; ISBN 978-9975-3640-0-3
+- PDF pages: 212 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 49 placements — 12 to existing lessons, 37 NEW LESSON NEEDED
+- Moldova's own way: the whole contemporary age (1914–today) is told with Bessarabia/Moldova at its centre — the 1918 union, the Moldavian ASSR, the 1940 annexation, famine and deportations, anti-communist resistance, independence and the Transnistria war each get their own theme beside the world story.
+
+**Book 8 — moldova-g12-history (student book, Romanian)**
+- Title as printed: Istoria românilor și universală: Manual pentru clasa a XII-a
+- Grade: Grade 12 (student/teacher: STUDENT)
+- Publisher: Î.E.P. Știința, Chișinău; year 2024; ISBN 978-9975-85-476-4
+- PDF pages: 306 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 64 placements — 9 to existing lessons, 55 NEW LESSON NEEDED
+- Moldova's own way: the final lycée year re-runs the whole contemporary age at examination depth — every theme built as Jurnal istoric / Timp istoric / Dicționar istoric with primary sources — and closes not with wars but with global problems, migration, values and four local-history projects.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova part — Tema 26: Relațiile internaționale în perioada 1945–1991. ONU — story beats: two superpower blocs face off; the 1946 Paris conference settles the satellites' treaties, Germany splits into two states in 1949, and the UN is built with its Assembly, Security Council and Court (History expansion, 2026-11-15; original placement slug: modern-world/the-cold-war-what-it-was-and-what-it-did-to-africa) | Moldova, *Istoria românilor și universală: Manual pentru clasa a IX-a*, printed p. 124 |
+| Moldova part — Tema 38: Formarea lumii bipolare. Războiul Rece — story beats: Churchill's Iron Curtain speech of 5 March 1946 opens open confrontation; the Warsaw Treaty Organisation stations Soviet troops to keep its regimes, the Berlin Wall embodies the split, and by the mid-1980s the world again nears nuclear war (History expansion, 2026-11-15; original placement slug: modern-world/the-cold-war-what-it-was-and-what-it-did-to-africa) | Moldova, *Istoria românilor și universală: Manual pentru clasa a XII-a*, printed p. 192 |
+
+Moldova's own way (Book 6 — moldova-g09-history (student book, Romanian)): the whole contemporary age (1914–today) is told with Bessarabia/Moldova at its centre — the 1918 union, the Moldavian ASSR, the 1940 annexation, famine and deportations, anti-communist resistance, independence and the Transnistria war each get their own theme beside the world story. That way is stocked here as the way Moldova teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+Moldova's own way (Book 8 — moldova-g12-history (student book, Romanian)): the final lycée year re-runs the whole contemporary age at examination depth — every theme built as Jurnal istoric / Timp istoric / Dicționar istoric with primary sources — and closes not with wars but with global problems, migration, values and four local-history projects. That way is stocked here as the way Moldova teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 19 countries (Ethiopia, Turkey, Costa Rica, Australia, Ecuador, Indonesia, Bolivia, Cambodia, Colombia, South Sudan, Mongolia, Mozambique, Yemen, Sudan, Jordan, Laos, China, Venezuela, Moldova).**
+
+Searchable tags: Moldova, History expansion 2026-11-15, modern-world/the-cold-war-what-it-was-and-what-it-did-to-africa

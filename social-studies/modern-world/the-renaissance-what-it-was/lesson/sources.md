@@ -1,6 +1,6 @@
 # Sources — The Renaissance — what it was
 
-countries: Ethiopia, Poland, Costa Rica, Australia, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Iran, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia, Mozambique, Sudan, Uzbekistan, North Macedonia, Afghanistan, Cuba, China, Venezuela
+countries: Ethiopia, Poland, Costa Rica, Australia, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Iran, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia, Mozambique, Sudan, Uzbekistan, North Macedonia, Afghanistan, Cuba, China, Venezuela, Moldova
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -618,3 +618,24 @@ Venezuela's own way (Book 10 — g8 Historia de la Humanidad (student book, Span
 **Acceptance count: taught in 24 countries (Ethiopia, Poland, Costa Rica, Australia, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Iran, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia, Mozambique, Sudan, Uzbekistan, North Macedonia, Afghanistan, Cuba, China, Venezuela).**
 
 Searchable tags: Venezuela, History expansion 2026-11-15, modern-world/the-renaissance-what-it-was
+
+## History expansion (2026-11-15) — Moldova stocked
+
+**Book 3 — moldova-g06-history (student book, Romanian)**
+- Title as printed: Istoria românilor şi universală: Manual pentru clasa a VI-a
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Editura Blitz Poligraf, Chișinău; year 2023; ISBN 978-9975-3632-1-1
+- PDF pages: 161 (cover/title page verified against the record title; 160 printed pages)
+- Verdict: COMPLETE
+- Tally: 39 placements — 12 to existing lessons, 27 NEW LESSON NEEDED
+- Moldova's own way: the medieval year is taught in three acts (early / middle / late Middle Ages) plus the birth of the modern world, with the Romanian lands woven through every act — feudalism, Byzantium, the Crusades and the Ottomans are all read from Moldavia's and Wallachia's side of the story.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova part — Unitatea IV, Lecția 3: Cultura Europei: Renașterea și Umanismul — story beats: a towns-born culture turns from God to man and nature; art goes secular and Renaissance building fuses antique, Romanesque and Gothic (History expansion, 2026-11-15; original placement slug: modern-world/the-renaissance-what-it-was) | Moldova, *Istoria românilor şi universală: Manual pentru clasa a VI-a*, printed p. 139 |
+
+Moldova's own way (Book 3 — moldova-g06-history (student book, Romanian)): the medieval year is taught in three acts (early / middle / late Middle Ages) plus the birth of the modern world, with the Romanian lands woven through every act — feudalism, Byzantium, the Crusades and the Ottomans are all read from Moldavia's and Wallachia's side of the story. That way is stocked here as the way Moldova teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 25 countries (Ethiopia, Poland, Costa Rica, Australia, Ecuador, Kuwait, Montenegro, Dominican Republic, Pakistan, Iran, Palestine, Colombia, Mauritania, South Sudan, Libya, Mongolia, Mozambique, Sudan, Uzbekistan, North Macedonia, Afghanistan, Cuba, China, Venezuela, Moldova).**
+
+Searchable tags: Moldova, History expansion 2026-11-15, modern-world/the-renaissance-what-it-was

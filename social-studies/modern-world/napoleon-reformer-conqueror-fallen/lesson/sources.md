@@ -1,6 +1,6 @@
 # Sources — Napoleon — reformer, conqueror, fallen
 
-countries: Ethiopia, Belarus, Montenegro, Pakistan, Palestine, Colombia, Mongolia, Iraq, Jordan, Uzbekistan, North Macedonia, Laos, Cuba, China, Venezuela
+countries: Ethiopia, Belarus, Montenegro, Pakistan, Palestine, Colombia, Mongolia, Iraq, Jordan, Uzbekistan, North Macedonia, Laos, Cuba, China, Venezuela, Moldova
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under GEQIP-E, ISBN 978-99990-0-066-6. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -377,3 +377,35 @@ Venezuela's own way (Book 10 — g8 Historia de la Humanidad (student book, Span
 **Acceptance count: taught in 15 countries (Ethiopia, Belarus, Montenegro, Pakistan, Palestine, Colombia, Mongolia, Iraq, Jordan, Uzbekistan, North Macedonia, Laos, Cuba, China, Venezuela).**
 
 Searchable tags: Venezuela, History expansion 2026-11-15, modern-world/napoleon-reformer-conqueror-fallen
+
+## History expansion (2026-11-15) — Moldova stocked
+
+**Book 4 — moldova-g07-history (student book, Romanian)**
+- Title as printed: Istoria românilor și universală: Manual pentru clasa a VII-a
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Î.E.P. Știința, Chișinău; year 2024; ISBN 978-9975-85-460-3
+- PDF pages: 138 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 29 placements — 8 to existing lessons, 21 NEW LESSON NEEDED
+- Moldova's own way: the first modern period (mid-1600s–mid-1800s) is taught as a double story — Western revolutions and enlightenment on one track, the Romanian Principalities squeezed between Ottoman, Habsburg and Russian empires on the other — ending with a whole unit on Bessarabia under Russian rule after 1812.
+
+**Book 7 — moldova-g11-history (student book, Romanian)**
+- Title as printed: Istoria românilor şi universală: Epoca modernă. Manual pentru clasa a XI-a
+- Grade: Grade 11 (student/teacher: STUDENT)
+- Publisher: Editura Cartdidact; year 2020; ISBN 978-9975-3412-5-7
+- PDF pages: 241 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 54 placements — 13 to existing lessons, 41 NEW LESSON NEEDED
+- Moldova's own way: the lycée modern-age course (§1–§53, each with Curs / Dosar source files / Studiu de caz) runs the world story and the Romanian story in parallel chapters — and gives Bessarabia under tsarism a whole chapter of its own, "from autonomy to gubernia".
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova part — Lecția 8: Consulatul. Primul Imperiu Francez — story beats: Napoleon's armies carry the revolution across Europe and his Civil Code still governs France; master of the continent except England, he invades Russia in 1812 and meets half a million soldiers at Leipzig in 1813 (History expansion, 2026-11-15; original placement slug: modern-world/napoleon-reformer-conqueror-fallen) | Moldova, *Istoria românilor și universală: Manual pentru clasa a VII-a*, printed p. 34 |
+| Moldova part — §13: Epoca napoleoniană şi impactul ei asupra societăţii europene — story beats: Bonaparte's dictatorship defends the bourgeoisie, amnesties the émigré nobles, blockades Britain — and of the Grande Armée only 20–30,000 men come out of Russia before the 1813 coalition forms (History expansion, 2026-11-15; original placement slug: modern-world/napoleon-reformer-conqueror-fallen) | Moldova, *Istoria românilor şi universală: Epoca modernă. Manual pentru clasa a XI-a*, printed p. 54 |
+
+Moldova's own way (Book 4 — moldova-g07-history (student book, Romanian)): the first modern period (mid-1600s–mid-1800s) is taught as a double story — Western revolutions and enlightenment on one track, the Romanian Principalities squeezed between Ottoman, Habsburg and Russian empires on the other — ending with a whole unit on Bessarabia under Russian rule after 1812. That way is stocked here as the way Moldova teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+Moldova's own way (Book 7 — moldova-g11-history (student book, Romanian)): the lycée modern-age course (§1–§53, each with Curs / Dosar source files / Studiu de caz) runs the world story and the Romanian story in parallel chapters — and gives Bessarabia under tsarism a whole chapter of its own, "from autonomy to gubernia". That way is stocked here as the way Moldova teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 16 countries (Ethiopia, Belarus, Montenegro, Pakistan, Palestine, Colombia, Mongolia, Iraq, Jordan, Uzbekistan, North Macedonia, Laos, Cuba, China, Venezuela, Moldova).**
+
+Searchable tags: Moldova, History expansion 2026-11-15, modern-world/napoleon-reformer-conqueror-fallen

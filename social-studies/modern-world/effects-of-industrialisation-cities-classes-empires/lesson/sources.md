@@ -1,6 +1,6 @@
 # Sources — Effects of industrialisation — cities, classes, empires
 
-countries: Ethiopia, Brazil, Australia, Kuwait, Palestine, Mauritania, South Sudan, Samoa, Mozambique, Jordan, Uzbekistan, North Macedonia, Cuba, China, Venezuela
+countries: Ethiopia, Brazil, Australia, Kuwait, Palestine, Mauritania, South Sudan, Samoa, Mozambique, Jordan, Uzbekistan, North Macedonia, Cuba, China, Venezuela, Moldova
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under GEQIP-E, ISBN 978-99990-0-066-6. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -378,3 +378,24 @@ Venezuela's own way (Book 2 — g2 Viva Venezuela (student book, Spanish)): Grad
 **Acceptance count: taught in 15 countries (Ethiopia, Brazil, Australia, Kuwait, Palestine, Mauritania, South Sudan, Samoa, Mozambique, Jordan, Uzbekistan, North Macedonia, Cuba, China, Venezuela).**
 
 Searchable tags: Venezuela, History expansion 2026-11-15, modern-world/effects-of-industrialisation-cities-classes-empires
+
+## History expansion (2026-11-15) — Moldova stocked
+
+**Book 4 — moldova-g07-history (student book, Romanian)**
+- Title as printed: Istoria românilor și universală: Manual pentru clasa a VII-a
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Î.E.P. Știința, Chișinău; year 2024; ISBN 978-9975-85-460-3
+- PDF pages: 138 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 29 placements — 8 to existing lessons, 21 NEW LESSON NEEDED
+- Moldova's own way: the first modern period (mid-1600s–mid-1800s) is taught as a double story — Western revolutions and enlightenment on one track, the Romanian Principalities squeezed between Ottoman, Habsburg and Russian empires on the other — ending with a whole unit on Bessarabia under Russian rule after 1812.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova part — Lecția 18: Civilizația industrială în prima jumătate a secolului al XIX-lea — story beats: factory replaces manufactory unevenly across states; piped water and hygiene push back plague and cholera, and photography (1822) takes visual memory from the painters (History expansion, 2026-11-15; original placement slug: modern-world/effects-of-industrialisation-cities-classes-empires) | Moldova, *Istoria românilor și universală: Manual pentru clasa a VII-a*, printed p. 74 |
+
+Moldova's own way (Book 4 — moldova-g07-history (student book, Romanian)): the first modern period (mid-1600s–mid-1800s) is taught as a double story — Western revolutions and enlightenment on one track, the Romanian Principalities squeezed between Ottoman, Habsburg and Russian empires on the other — ending with a whole unit on Bessarabia under Russian rule after 1812. That way is stocked here as the way Moldova teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 16 countries (Ethiopia, Brazil, Australia, Kuwait, Palestine, Mauritania, South Sudan, Samoa, Mozambique, Jordan, Uzbekistan, North Macedonia, Cuba, China, Venezuela, Moldova).**
+
+Searchable tags: Moldova, History expansion 2026-11-15, modern-world/effects-of-industrialisation-cities-classes-empires

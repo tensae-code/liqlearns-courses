@@ -1,6 +1,6 @@
 # Sources — The Industrial Revolution — textiles, steam and rail
 
-countries: Ethiopia, France, Australia, Kuwait, Dominican Republic, Pakistan, Cambodia, Colombia, South Sudan, Samoa, North Macedonia, Laos, Cuba, China, Venezuela
+countries: Ethiopia, France, Australia, Kuwait, Dominican Republic, Pakistan, Cambodia, Colombia, South Sudan, Samoa, North Macedonia, Laos, Cuba, China, Venezuela, Moldova
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 131).
 
@@ -327,3 +327,24 @@ Venezuela's own way (Book 10 — g8 Historia de la Humanidad (student book, Span
 **Acceptance count: taught in 15 countries (Ethiopia, France, Australia, Kuwait, Dominican Republic, Pakistan, Cambodia, Colombia, South Sudan, Samoa, North Macedonia, Laos, Cuba, China, Venezuela).**
 
 Searchable tags: Venezuela, History expansion 2026-11-15, modern-world/the-industrial-revolution-textiles-steam-and-rail
+
+## History expansion (2026-11-15) — Moldova stocked
+
+**Book 4 — moldova-g07-history (student book, Romanian)**
+- Title as printed: Istoria românilor și universală: Manual pentru clasa a VII-a
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Î.E.P. Știința, Chișinău; year 2024; ISBN 978-9975-85-460-3
+- PDF pages: 138 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 29 placements — 8 to existing lessons, 21 NEW LESSON NEEDED
+- Moldova's own way: the first modern period (mid-1600s–mid-1800s) is taught as a double story — Western revolutions and enlightenment on one track, the Romanian Principalities squeezed between Ottoman, Habsburg and Russian empires on the other — ending with a whole unit on Bessarabia under Russian rule after 1812.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova part — Lecția 17: Revoluția industrială în Anglia. Invenții și descoperiri — story beats: Watt's 1784 steam engine triggers a technical revolution; Britain takes Canada and Indian footholds in the Seven Years' War, machine-breakers rage, and rights-less workers organise — the Chartist case study (History expansion, 2026-11-15; original placement slug: modern-world/the-industrial-revolution-textiles-steam-and-rail) | Moldova, *Istoria românilor și universală: Manual pentru clasa a VII-a*, printed p. 70 |
+
+Moldova's own way (Book 4 — moldova-g07-history (student book, Romanian)): the first modern period (mid-1600s–mid-1800s) is taught as a double story — Western revolutions and enlightenment on one track, the Romanian Principalities squeezed between Ottoman, Habsburg and Russian empires on the other — ending with a whole unit on Bessarabia under Russian rule after 1812. That way is stocked here as the way Moldova teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 16 countries (Ethiopia, France, Australia, Kuwait, Dominican Republic, Pakistan, Cambodia, Colombia, South Sudan, Samoa, North Macedonia, Laos, Cuba, China, Venezuela, Moldova).**
+
+Searchable tags: Moldova, History expansion 2026-11-15, modern-world/the-industrial-revolution-textiles-steam-and-rail

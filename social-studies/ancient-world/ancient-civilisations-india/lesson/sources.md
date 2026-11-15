@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — India
 
-countries: Ethiopia, Bangladesh, Australia, Malaysia, Ecuador, India, Indonesia, Dominican Republic, Egypt, Pakistan, Iran, Cambodia, Sri Lanka, Mongolia, Yemen, Jordan, Uzbekistan, Laos, Afghanistan, Cuba, China, Venezuela
+countries: Ethiopia, Bangladesh, Australia, Malaysia, Ecuador, India, Indonesia, Dominican Republic, Egypt, Pakistan, Iran, Cambodia, Sri Lanka, Mongolia, Yemen, Jordan, Uzbekistan, Laos, Afghanistan, Cuba, China, Venezuela, Moldova
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -578,3 +578,24 @@ Venezuela's own way (Book 10 — g8 Historia de la Humanidad (student book, Span
 **Acceptance count: taught in 22 countries (Ethiopia, Bangladesh, Australia, Malaysia, Ecuador, India, Indonesia, Dominican Republic, Egypt, Pakistan, Iran, Cambodia, Sri Lanka, Mongolia, Yemen, Jordan, Uzbekistan, Laos, Afghanistan, Cuba, China, Venezuela).**
 
 Searchable tags: Venezuela, History expansion 2026-11-15, ancient-world/ancient-civilisations-india
+
+## History expansion (2026-11-15) — Moldova stocked
+
+**Book 2 — moldova-g05-history (student book, Romanian)**
+- Title as printed: Istoria românilor și universală. Manual pentru clasa a V-a
+- Grade: Grade 5 (student/teacher: STUDENT)
+- Publisher: Editura Blitz Poligraf, Chișinău; year 2023; ISBN 978-9975-3638-8-4
+- PDF pages: 176 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 48 placements — 15 to existing lessons, 33 NEW LESSON NEEDED
+- Moldova's own way: a full ancient-history course (Prehistory → Ancient Orient → Greece → Thraco-Geto-Dacians → Rome → Dacians and Romans → Decline) where every universal topic is paired with the ancestors' own space — Cucuteni-Tripolie, Sarmizegetusa, Roman Dacia — and every lesson ends in a "Laborator istoric" of source analysis.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova part — Unitatea II, Lecția 4: Orașe-state, regate și imperii (India) — story beats: Aśoka binds India by its roads, reorganises Buddhism and leaves his inscriptions — India's first written documents — and the Laws of Manu (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-india) | Moldova, *Istoria românilor și universală. Manual pentru clasa a V-a*, printed p. 42 |
+
+Moldova's own way (Book 2 — moldova-g05-history (student book, Romanian)): a full ancient-history course (Prehistory → Ancient Orient → Greece → Thraco-Geto-Dacians → Rome → Dacians and Romans → Decline) where every universal topic is paired with the ancestors' own space — Cucuteni-Tripolie, Sarmizegetusa, Roman Dacia — and every lesson ends in a "Laborator istoric" of source analysis. That way is stocked here as the way Moldova teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 23 countries (Ethiopia, Bangladesh, Australia, Malaysia, Ecuador, India, Indonesia, Dominican Republic, Egypt, Pakistan, Iran, Cambodia, Sri Lanka, Mongolia, Yemen, Jordan, Uzbekistan, Laos, Afghanistan, Cuba, China, Venezuela, Moldova).**
+
+Searchable tags: Moldova, History expansion 2026-11-15, ancient-world/ancient-civilisations-india

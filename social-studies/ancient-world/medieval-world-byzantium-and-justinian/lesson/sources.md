@@ -1,6 +1,6 @@
 # Sources — Medieval world — Byzantium and Justinian
 
-countries: Ethiopia, France, Poland, Ecuador, Montenegro, Bulgaria, Colombia, Mongolia, Jordan, North Macedonia, China
+countries: Ethiopia, France, Poland, Ecuador, Montenegro, Bulgaria, Colombia, Mongolia, Jordan, North Macedonia, China, Moldova
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -264,3 +264,24 @@ China's own way (Book 7 — cn-g11tg (teacher guide, Chinese) — PARTIAL): The 
 **Acceptance count: taught in 11 countries (Ethiopia, France, Poland, Ecuador, Montenegro, Bulgaria, Colombia, Mongolia, Jordan, North Macedonia, China).**
 
 Searchable tags: China, History expansion 2026-11-15, ancient-world/medieval-world-byzantium-and-justinian
+
+## History expansion (2026-11-15) — Moldova stocked
+
+**Book 3 — moldova-g06-history (student book, Romanian)**
+- Title as printed: Istoria românilor şi universală: Manual pentru clasa a VI-a
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Editura Blitz Poligraf, Chișinău; year 2023; ISBN 978-9975-3632-1-1
+- PDF pages: 161 (cover/title page verified against the record title; 160 printed pages)
+- Verdict: COMPLETE
+- Tally: 39 placements — 12 to existing lessons, 27 NEW LESSON NEEDED
+- Moldova's own way: the medieval year is taught in three acts (early / middle / late Middle Ages) plus the birth of the modern world, with the Romanian lands woven through every act — feudalism, Byzantium, the Crusades and the Ottomans are all read from Moldavia's and Wallachia's side of the story.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova part — Unitatea I, Lecția 6: Imperiul Roman de Răsărit (Bizanțul) în secolele V–XI — story beats: the East Roman empire of 395 keeps the imperial claim, grows rich on trade and minerals, defends its borders with soldier-farmers, then loses the West after Justinian to Persians, Avars and Slavs (History expansion, 2026-11-15; original placement slug: ancient-world/medieval-world-byzantium-and-justinian) | Moldova, *Istoria românilor şi universală: Manual pentru clasa a VI-a*, printed p. 35 |
+
+Moldova's own way (Book 3 — moldova-g06-history (student book, Romanian)): the medieval year is taught in three acts (early / middle / late Middle Ages) plus the birth of the modern world, with the Romanian lands woven through every act — feudalism, Byzantium, the Crusades and the Ottomans are all read from Moldavia's and Wallachia's side of the story. That way is stocked here as the way Moldova teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 12 countries (Ethiopia, France, Poland, Ecuador, Montenegro, Bulgaria, Colombia, Mongolia, Jordan, North Macedonia, China, Moldova).**
+
+Searchable tags: Moldova, History expansion 2026-11-15, ancient-world/medieval-world-byzantium-and-justinian

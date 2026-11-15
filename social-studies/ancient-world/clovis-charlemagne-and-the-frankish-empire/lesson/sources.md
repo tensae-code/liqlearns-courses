@@ -1,6 +1,6 @@
 # Sources — Clovis Charlemagne And The Frankish Empire
 
-countries: North Macedonia
+countries: North Macedonia, Moldova
 
 **Book 1 — Istorija 7 (History 7), Grade 7 (student book, Macedonian)**
 - Title as printed: ИСТОРИЈА 7 за седмо одделение во основно образование — учебник (History 7 for the seventh grade of primary education — textbook)
@@ -36,3 +36,24 @@ North Macedonia's own way (Book 3 — Istorija I (History I), Grade 10 (student 
 **Acceptance count: taught in 1 country (North Macedonia).**
 
 Searchable tags: North Macedonia, Clovis Charlemagne And The Frankish Empire, ancient-world, History expansion 2026-11-15
+
+## History expansion (2026-11-15) — Moldova stocked
+
+**Book 3 — moldova-g06-history (student book, Romanian)**
+- Title as printed: Istoria românilor şi universală: Manual pentru clasa a VI-a
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Editura Blitz Poligraf, Chișinău; year 2023; ISBN 978-9975-3632-1-1
+- PDF pages: 161 (cover/title page verified against the record title; 160 printed pages)
+- Verdict: COMPLETE
+- Tally: 39 placements — 12 to existing lessons, 27 NEW LESSON NEEDED
+- Moldova's own way: the medieval year is taught in three acts (early / middle / late Middle Ages) plus the birth of the modern world, with the Romanian lands woven through every act — feudalism, Byzantium, the Crusades and the Ottomans are all read from Moldavia's and Wallachia's side of the story.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova part — Unitatea I, Lecția 5: Regatul Franc și Imperiul lui Carol cel Mare — story beats: Clovis's Franks build a kingdom; Charlemagne conquers the Spanish March, divides his empire into 200 counties under counts and margraves, and is watched by royal inspectors (History expansion, 2026-11-15; original placement slug: ancient-world/the-franks-and-charlemagnes-empire) | Moldova, *Istoria românilor şi universală: Manual pentru clasa a VI-a*, printed p. 30 |
+
+Moldova's own way (Book 3 — moldova-g06-history (student book, Romanian)): the medieval year is taught in three acts (early / middle / late Middle Ages) plus the birth of the modern world, with the Romanian lands woven through every act — feudalism, Byzantium, the Crusades and the Ottomans are all read from Moldavia's and Wallachia's side of the story. That way is stocked here as the way Moldova teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 2 countries (North Macedonia, Moldova).**
+
+Searchable tags: Moldova, History expansion 2026-11-15, ancient-world/clovis-charlemagne-and-the-frankish-empire

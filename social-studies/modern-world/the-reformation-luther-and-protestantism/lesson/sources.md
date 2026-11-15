@@ -1,6 +1,6 @@
 # Sources — The Reformation — Luther and the spread of Protestantism
 
-countries: Ethiopia, France, Costa Rica, Belarus, Montenegro, Finland, Dominican Republic, Pakistan, Mongolia, Mozambique, Uzbekistan, North Macedonia, Cuba, China, Venezuela
+countries: Ethiopia, France, Costa Rica, Belarus, Montenegro, Finland, Dominican Republic, Pakistan, Mongolia, Mozambique, Uzbekistan, North Macedonia, Cuba, China, Venezuela, Moldova
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -306,3 +306,24 @@ Venezuela's own way (Book 10 — g8 Historia de la Humanidad (student book, Span
 **Acceptance count: taught in 15 countries (Ethiopia, France, Costa Rica, Belarus, Montenegro, Finland, Dominican Republic, Pakistan, Mongolia, Mozambique, Uzbekistan, North Macedonia, Cuba, China, Venezuela).**
 
 Searchable tags: Venezuela, History expansion 2026-11-15, modern-world/the-reformation-luther-and-protestantism
+
+## History expansion (2026-11-15) — Moldova stocked
+
+**Book 3 — moldova-g06-history (student book, Romanian)**
+- Title as printed: Istoria românilor şi universală: Manual pentru clasa a VI-a
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Editura Blitz Poligraf, Chișinău; year 2023; ISBN 978-9975-3632-1-1
+- PDF pages: 161 (cover/title page verified against the record title; 160 printed pages)
+- Verdict: COMPLETE
+- Tally: 39 placements — 12 to existing lessons, 27 NEW LESSON NEEDED
+- Moldova's own way: the medieval year is taught in three acts (early / middle / late Middle Ages) plus the birth of the modern world, with the Romanian lands woven through every act — feudalism, Byzantium, the Crusades and the Ottomans are all read from Moldavia's and Wallachia's side of the story.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova part — Unitatea IV, Lecția 5: Reforma și Contrareforma — story beats: indulgence preachers provoke revolt; the German peasants rise in 1524, and Calvin's Geneva teaches that wealth and poverty are God's decree (History expansion, 2026-11-15; original placement slug: modern-world/the-reformation-luther-and-protestantism) | Moldova, *Istoria românilor şi universală: Manual pentru clasa a VI-a*, printed p. 147 |
+
+Moldova's own way (Book 3 — moldova-g06-history (student book, Romanian)): the medieval year is taught in three acts (early / middle / late Middle Ages) plus the birth of the modern world, with the Romanian lands woven through every act — feudalism, Byzantium, the Crusades and the Ottomans are all read from Moldavia's and Wallachia's side of the story. That way is stocked here as the way Moldova teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 16 countries (Ethiopia, France, Costa Rica, Belarus, Montenegro, Finland, Dominican Republic, Pakistan, Mongolia, Mozambique, Uzbekistan, North Macedonia, Cuba, China, Venezuela, Moldova).**
+
+Searchable tags: Moldova, History expansion 2026-11-15, modern-world/the-reformation-luther-and-protestantism

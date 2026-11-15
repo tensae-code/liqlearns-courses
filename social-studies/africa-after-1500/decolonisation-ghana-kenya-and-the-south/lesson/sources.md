@@ -1,6 +1,6 @@
 # Sources — Decolonisation — Ghana, Kenya and the south
 
-countries: Ethiopia, Angola, Libya, Uganda, Mozambique, Sudan, North Macedonia, Cuba
+countries: Ethiopia, Angola, Libya, Uganda, Mozambique, Sudan, North Macedonia, Cuba, Moldova
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 5, placements 110–122).
 
@@ -220,3 +220,24 @@ Cuba's own way (Book 8 — g8-student (student book, Spanish)): Modern/contempor
 **Acceptance count: taught in 8 countries (Ethiopia, Angola, Libya, Uganda, Mozambique, Sudan, North Macedonia, Cuba).**
 
 Searchable tags: Cuba, History expansion 2026-11-15, africa-after-1500/decolonisation-ghana-kenya-and-the-south
+
+## History expansion (2026-11-15) — Moldova stocked
+
+**Book 8 — moldova-g12-history (student book, Romanian)**
+- Title as printed: Istoria românilor și universală: Manual pentru clasa a XII-a
+- Grade: Grade 12 (student/teacher: STUDENT)
+- Publisher: Î.E.P. Știința, Chișinău; year 2024; ISBN 978-9975-85-476-4
+- PDF pages: 306 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 64 placements — 9 to existing lessons, 55 NEW LESSON NEEDED
+- Moldova's own way: the final lycée year re-runs the whole contemporary age at examination depth — every theme built as Jurnal istoric / Timp istoric / Dicționar istoric with primary sources — and closes not with wars but with global problems, migration, values and four local-history projects.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova part — Tema 44: Acţiuni de emancipare în Asia şi Africa — story beats: decolonisation runs in three stages from 1945; Angola and Mozambique are freed in the 1970s, Zimbabwe in 1980, and the era ends with apartheid's fall in South Africa (History expansion, 2026-11-15; original placement slug: africa-after-1500/decolonisation-ghana-kenya-and-the-south) | Moldova, *Istoria românilor și universală: Manual pentru clasa a XII-a*, printed p. 222 |
+
+Moldova's own way (Book 8 — moldova-g12-history (student book, Romanian)): the final lycée year re-runs the whole contemporary age at examination depth — every theme built as Jurnal istoric / Timp istoric / Dicționar istoric with primary sources — and closes not with wars but with global problems, migration, values and four local-history projects. That way is stocked here as the way Moldova teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 9 countries (Ethiopia, Angola, Libya, Uganda, Mozambique, Sudan, North Macedonia, Cuba, Moldova).**
+
+Searchable tags: Moldova, History expansion 2026-11-15, africa-after-1500/decolonisation-ghana-kenya-and-the-south

@@ -1,6 +1,6 @@
 # Sources — 1917 twice — February and October in Russia
 
-countries: Ethiopia, Costa Rica, Montenegro, Dominican Republic, United Kingdom, Cambodia, Colombia, Mauritania, South Sudan, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Jordan, Uzbekistan, North Macedonia, Laos, Cuba, China
+countries: Ethiopia, Costa Rica, Montenegro, Dominican Republic, United Kingdom, Cambodia, Colombia, Mauritania, South Sudan, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Jordan, Uzbekistan, North Macedonia, Laos, Cuba, China, Moldova
 
 **Book 1:** *History, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN 978-99990-0-065-9. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g10-student-placements.md
 
@@ -534,3 +534,35 @@ China's own way (Book 6 — cn-g10 (student book, Chinese)): At senior high the 
 **Acceptance count: taught in 20 countries (Ethiopia, Costa Rica, Montenegro, Dominican Republic, United Kingdom, Cambodia, Colombia, Mauritania, South Sudan, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Jordan, Uzbekistan, North Macedonia, Laos, Cuba, China).**
 
 Searchable tags: China, History expansion 2026-11-15, modern-world/1917-twice-february-and-october-in-russia
+
+## History expansion (2026-11-15) — Moldova stocked
+
+**Book 6 — moldova-g09-history (student book, Romanian)**
+- Title as printed: Istoria românilor și universală: Manual pentru clasa a IX-a
+- Grade: Grade 9 (student/teacher: STUDENT)
+- Publisher: Univers Educațional; year 2023; ISBN 978-9975-3640-0-3
+- PDF pages: 212 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 49 placements — 12 to existing lessons, 37 NEW LESSON NEEDED
+- Moldova's own way: the whole contemporary age (1914–today) is told with Bessarabia/Moldova at its centre — the 1918 union, the Moldavian ASSR, the 1940 annexation, famine and deportations, anti-communist resistance, independence and the Transnistria war each get their own theme beside the world story.
+
+**Book 8 — moldova-g12-history (student book, Romanian)**
+- Title as printed: Istoria românilor și universală: Manual pentru clasa a XII-a
+- Grade: Grade 12 (student/teacher: STUDENT)
+- Publisher: Î.E.P. Știința, Chișinău; year 2024; ISBN 978-9975-85-476-4
+- PDF pages: 306 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 64 placements — 9 to existing lessons, 55 NEW LESSON NEEDED
+- Moldova's own way: the final lycée year re-runs the whole contemporary age at examination depth — every theme built as Jurnal istoric / Timp istoric / Dicționar istoric with primary sources — and closes not with wars but with global problems, migration, values and four local-history projects.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moldova part — Tema 10: Rusia/Uniunea Sovietică — story beats: Lenin's Bolsheviks take power from Kerenski's failing Provisional Government, civil war follows, NEP's "Soviet bourgeoisie" appears, then Stalin from 1928 forces industrialisation and collectivisation — by 1939 over 25 million have been repressed (History expansion, 2026-11-15; original placement slug: modern-world/1917-twice-february-and-october-in-russia) | Moldova, *Istoria românilor și universală: Manual pentru clasa a IX-a*, printed p. 53 |
+| Moldova part — Extensie curriculară: Revoluţia din februarie 1917. Lovitura de stat bolşevică — story beats: February's revolution and the Bolshevik coup are studied as theory and practice of Bolshevism (History expansion, 2026-11-15; original placement slug: modern-world/1917-twice-february-and-october-in-russia) | Moldova, *Istoria românilor și universală: Manual pentru clasa a XII-a*, printed p. 40 |
+
+Moldova's own way (Book 6 — moldova-g09-history (student book, Romanian)): the whole contemporary age (1914–today) is told with Bessarabia/Moldova at its centre — the 1918 union, the Moldavian ASSR, the 1940 annexation, famine and deportations, anti-communist resistance, independence and the Transnistria war each get their own theme beside the world story. That way is stocked here as the way Moldova teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+Moldova's own way (Book 8 — moldova-g12-history (student book, Romanian)): the final lycée year re-runs the whole contemporary age at examination depth — every theme built as Jurnal istoric / Timp istoric / Dicționar istoric with primary sources — and closes not with wars but with global problems, migration, values and four local-history projects. That way is stocked here as the way Moldova teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 21 countries (Ethiopia, Costa Rica, Montenegro, Dominican Republic, United Kingdom, Cambodia, Colombia, Mauritania, South Sudan, Sri Lanka, Mongolia, Samoa, Iraq, Mozambique, Jordan, Uzbekistan, North Macedonia, Laos, Cuba, China, Moldova).**
+
+Searchable tags: Moldova, History expansion 2026-11-15, modern-world/1917-twice-february-and-october-in-russia
