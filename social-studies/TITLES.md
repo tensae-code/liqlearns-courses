@@ -62,7 +62,10 @@ the one title at rising depth wherever a title spans both books
   world beyond Africa (including Ibn Battuta — traveller
   of the Islamic world, and the Arabian Peninsula —
   cradle of civilisations, and the Arabian Peninsula
-  before Islam).
+  before Islam, and Morocco — prehistoric Morocco,
+  Amazigh civilisation, Roman Morocco and Aedemon,
+  the Idrisids and the Qarawiyyin, the Almoravids,
+  the Almohads, and the Marinids and their madrasas).
 - `the-land-and-air/` — continents and oceans, the forces that
   shape the land, the atmosphere, weather and climate, map work
   (including the UAE's location and emirates map and desert
@@ -117,7 +120,9 @@ the one title at rising depth wherever a title spans both books
   the referendum of 1999 and the restoration of 2002,
   and heroes and memory of the resistance, and Saudi
   Arabia — Founding Day and National Day, and
-  unification under Abdulaziz: the brave courier).
+  unification under Abdulaziz: the brave courier, and
+  Morocco — the Saadians and El Badi Palace, and the
+  Alaouites and the kasbahs).
   (No teacher evidence yet.)
 - `global-issues/` — today's shared problems: population
   pressure, HIV/AIDS, climate, water, forests — and protecting
@@ -2522,7 +2527,7 @@ Plants and Animals.
 
 ## History expansion totals
 
-History lessons across the History titles: **284**
+History lessons across the History titles: **293**
 (248 before the expansion; +1 for Guyana, 2026-11-15 —
 Modern World: Guyana — our nation: independence and
 symbols. All 3 Guyana placements stand on Guyana's
@@ -2628,3 +2633,20 @@ Grade 5 student book and Grade 6 student workbook,
 counted in acceptance (the eight new lessons; and
 the existing First Steps lesson What history is,
 whose count rises 2 → 3 with Cabo Verde added).
++9 for Morocco, 2026-11-15 — Ancient World:
+Prehistoric Morocco — the first Moroccans, Amazigh
+civilisation of ancient Morocco, Roman Morocco and
+Amazigh resistance, The Idrisid state and the coming
+of Islam to Morocco, The Almoravids unite Morocco,
+The Almohads unite the Islamic West, and The
+Marinids and Morocco's civilisational creativity;
+Modern World: The Saadians — Morocco's economic
+golden age, and The Alaouites unify and build the
+Moroccan state. All 13 Morocco placements stand on
+Morocco's Grade 5 teacher guide only, as evidence
+only, acceptance count 0 countries; the four
+placements stocked into existing lessons (First
+Steps What history is, From evidence to a written
+history and Dating the past, and Africa to 1500
+Carthage and the Punic Wars) likewise leave those
+lessons' acceptance counts unchanged.

@@ -8555,3 +8555,56 @@ on student books, counted in acceptance. Cabo
 Verde was not counted in What history is before,
 so its acceptance count rises 2 → 3. History
 lessons: 276 → 284.
+
+## History expansion — Morocco — built 2026-11-15
+
+9 new lessons, 72 questions: in **The Ancient World**:
+Prehistoric Morocco — the first Moroccans
+(ancient-world/prehistoric-morocco-the-first-moroccans),
+Amazigh civilisation of ancient Morocco
+(ancient-world/amazigh-civilisation-of-ancient-morocco),
+Roman Morocco and Amazigh resistance
+(ancient-world/roman-morocco-and-amazigh-resistance),
+The Idrisid state and the coming of Islam to Morocco
+(ancient-world/the-idrisid-state-and-the-coming-of-islam-to-morocco),
+The Almoravids unite Morocco
+(ancient-world/the-almoravids-unite-morocco),
+The Almohads unite the Islamic West
+(ancient-world/the-almohads-unite-the-islamic-west) and
+The Marinids and Morocco's civilisational creativity
+(ancient-world/the-marinids-and-moroccos-civilisational-creativity);
+in **The Modern World**: The Saadians — Morocco's
+economic golden age
+(modern-world/the-saadians-moroccos-economic-golden-age)
+and The Alaouites unify and build the Moroccan state
+(modern-world/the-alaouites-unify-and-build-the-moroccan-state)
+— 13 placements stocked from Morocco's one distinct
+book: *المفيد في الاجتماعيات — دليل الأستاذة والأستاذ
+— السنة الخامسة من التعليم الابتدائي (Al-Moufid in
+Social Studies — Teacher's Guide — Fifth Year of
+Primary Education)*, Grade 5 teacher guide
+(Al-Moufid series / Dar Attakafa, 2020, no ISBN
+printed): what history is and the historian's tools
+(printed p. 39), into the existing First Steps What
+history is lesson; the evidence/witnesses of the past
+(printed p. 39), into From evidence to a written
+history; prehistoric and historical eras on a timeline
+(printed p. 41), into Dating the past; prehistoric
+Morocco (printed p. 45), Amazigh civilisation
+(printed p. 48), the Phoenician/Carthaginian meeting
+with Amazigh Morocco and Lixus (printed p. 53), into
+the existing Africa to 1500 Carthage and the Punic
+Wars lesson; Roman Morocco and Aedemon's revolt
+(printed p. 56), the Idrisids and the Qarawiyyin
+(printed p. 60), the Almoravids and the Almoravid
+Dome (printed p. 64), the Almohads (printed p. 69),
+the Marinids, their madrasas and the Mawlid
+(printed p. 74), the Saadians, Chichaoua sugar and
+El Badi Palace (printed p. 78), and the Alaouites,
+Moulay Rashid and Moulay Ismail's kasbahs (printed
+p. 80), into the nine new lessons. All 13 Morocco
+placements stand on Morocco's teacher guide only, as
+evidence only, acceptance count 0 countries; the four
+placements stocked into existing lessons likewise
+leave those lessons' acceptance counts unchanged.
+History lessons: 284 → 293.
