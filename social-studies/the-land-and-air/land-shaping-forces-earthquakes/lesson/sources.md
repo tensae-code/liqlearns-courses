@@ -1,6 +1,6 @@
 # Sources — Land-Shaping Forces — Earthquakes
 
-countries: Ethiopia, India
+countries: Ethiopia, India, Libya
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -8,17 +8,23 @@ countries: Ethiopia, India
 
 **Book 3:** *Our Environment — Textbook in Geography for Class VII (Social Science)* (student book, English) — India, NCERT, New Delhi; first edition March 2007, this copy reprint 2020-21; ISBN 81-7450-714-0. Title as printed: Our Environment — Textbook in Geography for Class VII (Social Science). Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 84 (cover render verified: "Our Environment, Textbook in Geography for Class VII, NCERT 2020-21"; grabbed via grab.py release route, 23,494,641 bytes; duplicate TSV + books.json records grade-07/gov/india/our-environment.pdf counted once). Verdict: COMPLETE — 9 chapters, printed pp. 1-71 + appendix p. 72. Records note: 34 records / 17 distinct books (17 TSV records in grades 6-10 + 17 books.json records that are the same books by grade/subject — duplicate records of the same NCERT titles); the 5 Geography books were read full page-by-page via pdftotext -layout after cover verification; the other 12 books are record-only (History, Civics, Economics) with no Geography content, filed for later waves. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/india-placements.md.
 
+**Book 4:** *مبادئ الجغرافيا العامة — Principles of General Geography, First Year of Secondary Education* (student book, Arabic) — State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2019–2020 (1440–1441 AH); ISBN no ISBN printed. Title as printed: مبادئ الجغرافيا العامة — Principles of General Geography, First Year of Secondary Education. Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 141 (title page verified in text layer: "مبادئ الجغرافيا العامة للسنة الأولى بمرحلة التعليم الثانوي" — matches record; full readable text layer, read via pdftotext; grabbed via grab.py release route, size verified by grab.py). Verdict: COMPLETE. TSV release records and books.json records are the same 8 books (each title appears once in each source) — read once via grab.py (GitHub API, size verified), as the placements file header records. Combined Social Studies books (Grades 5–6): Geography parts placed; History/Civics parts named in headers only. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/libya-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Strain, slip, shaking | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 15–16 |
 | Sub lesson 2 — Focus, epicentre, Richter | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 15–16 |
 | Sub lesson 3 — Where most earthquakes sit (teacher guide — evidence) | Ethiopia, *Social Studies Teacher's Guide, Grade 8*, §1.1, printed pp. 2, 5 |
 | India part (Grade 7 Our Environment) — Ch.3: earthquakes, focus and epicentre, measuring quakes | India, *India Grade 7 Our Environment*, Ch.3: earthquakes, focus and epicentre, measuring quakes — printed p. 13 |
+| Libya part — Book 2 Ch.1: الزلازل — Earthquakes: causes and effects (with tsunami and seismograph) [placement slug: the-land-and-air/earthquakes-where-they-strike] | Libya, *Libya Grade 10 LY G10 Principles*, Book 2 Ch.1: الزلازل — Earthquakes: causes and effects (with tsunami and seismograph) — printed p. 37 |
+| Libya part — Book 2 Ch.1: التوزيع الجغرافي للبراكين والزلازل في العالم — The world distribution of volcanoes and earthquakes [placement slug: the-land-and-air/earthquakes-where-they-strike] | Libya, *Libya Grade 10 LY G10 Principles*, Book 2 Ch.1: التوزيع الجغرافي للبراكين والزلازل في العالم — The world distribution of volcanoes and earthquakes — printed p. 40 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, India).**
+**Acceptance count: taught in 3 countries (Ethiopia, India, Libya).**
 
 Pairing warning: the Grade 8 teacher guide is an Addis Ababa bureau book and the student book is an Amhara bureau book; they are NOT edition-matched, and the guide in hand is truncated (printed pp. 1–47 only, Units 1–3). Pupil content in this lesson comes from the Amhara student book; anything from the guide is labelled (teacher guide — evidence) and never presented as pupil-taught.
 
 Searchable tags: land-shaping forces   earthquakes, ethiopia, social studies, the land and air
 
 India's own way (Grade 7 Our Environment): Grade 7 is organised around "environment" in widening rings — the concept itself, then inside/changing Earth, air and water, world vegetation belts, human settlement and transport, and finally three lived-in region studies (Amazon basin, Ganga-Brahmaputra basin, Sahara and Ladakh deserts) where all the strands meet in real places.
+
+Libya's own way (Libya Grade 10 LY G10 Principles): Secondary geography opens as a two-part systematic course — physical geography first (astronomy, surface-shaping factors, climate, vegetation and wild animals), then human geography (population and settlement, economic resources) — and closes with a whole book on spatial-data technology: remote sensing, GPS and GIS, then the history of maps from Babylon and Ibn Hawqal.

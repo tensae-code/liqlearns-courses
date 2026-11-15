@@ -1,6 +1,6 @@
 # Sources — Water underground
 
-countries: Ethiopia, Angola, Bangladesh, Eritrea, Fiji, Slovenia, Mauritania
+countries: Ethiopia, Angola, Bangladesh, Eritrea, Fiji, Slovenia, Mauritania, Libya
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Angola, Bangladesh, Eritrea, Fiji, Slovenia, Mauritania
 
 **Book 9:** *Kitab al-Jughrafia lilsana al-Ula min al-Ta'lim al-I'dadi (Geography Book, First Year of Preparatory Education)* (student book, Arabic) — Institut Pédagogique National (IPN), Mauritania; year no year printed on title page; ISBN no ISBN printed. Title as printed: Kitab al-Jughrafia lilsana al-Ula min al-Ta'lim al-I'dadi (Geography Book, First Year of Preparatory Education). Grade: Grade 7 (1e année secondaire) (student/teacher: STUDENT). PDF pages: 96 (cover/title page verified against the record title; fetched from the record's source URL docs.bsimr.com/pdfs/secondaire1s/GEO-1AS-M.pdf, 11,100,011 bytes). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mauritania-placements.md.
 
+**Book 10:** *الاجتماعيات (التاريخ والجغرافيا) — Social Studies (History and Geography), Grade 6 of Basic Education* (student book, Arabic) — State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2019–2020 (1440–1441 AH); ISBN no ISBN printed. Title as printed: الاجتماعيات (التاريخ والجغرافيا) — Social Studies (History and Geography), Grade 6 of Basic Education. Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 120 (cover verified visually: "الاجتماعيات (التاريخ والجغرافيا) للصف السادس" — matches record; image-only scan, read via 100-DPI 4-up contact sheets; grabbed via grab.py release route, size verified by grab.py). Verdict: COMPLETE. TSV release records and books.json records are the same 8 books (each title appears once in each source) — read once via grab.py (GitHub API, size verified), as the placements file header records. Combined Social Studies books (Grades 5–6): Geography parts placed; History/Civics parts named in headers only. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/libya-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Aquifers, springs, wells | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 3, printed pp. 67–69 |
@@ -32,8 +34,9 @@ countries: Ethiopia, Angola, Bangladesh, Eritrea, Fiji, Slovenia, Mauritania
 | Slovenia part — Arteška voda (artesian water) inside Prebivalstvo in gospodarstvo Avstralije | Slovenia, *Slovenia Grade 8 Geografija 8*, Arteška voda (artesian water) inside Prebivalstvo in gospodarstvo Avstralije — printed p. 61 |
 | Slovenia part — Podzemne vode (groundwater) inside Površinske in podzemne vode | Slovenia, *Slovenia Grade 10 Geografija 1 (gimnazija)*, Podzemne vode (groundwater) inside Površinske in podzemne vode — printed p. 158 |
 | Mauritania part — Unit 2 Lesson 8: surface water and groundwater | Mauritania, *Mauritania Grade 7 geo-1as-m*, Unit 2 Lesson 8: surface water and groundwater — printed p. 53 |
+| Libya part — Unit 3: المياه الجوفية — Groundwater: ordinary wells, artesian wells and natural springs (Libyan examples) | Libya, *Libya Grade 6 LY G6 Social Studies*, Unit 3: المياه الجوفية — Groundwater: ordinary wells, artesian wells and natural springs (Libyan examples) — printed p. 104 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Angola, Bangladesh, Eritrea, Fiji, Slovenia, Mauritania).**
+**Acceptance count: taught in 8 countries (Ethiopia, Angola, Bangladesh, Eritrea, Fiji, Slovenia, Mauritania, Libya).**
 
 Searchable tags: groundwater, aquifer, springs, wells, water endowment, social studies
 
@@ -50,3 +53,5 @@ Slovenia's own way (Slovenia Grade 8 Geografija 8): Grade 8 is pure world region
 Slovenia's own way (Slovenia Grade 10 Geografija 1 (gimnazija)): the gimnazija first year is systematic physical geography first (Earth's interior, rocks, landforms, weather and climate, soils, vegetation, waters), then human geography (population, settlements, farming, industry and energy, transport, tourism), closing on sustainable development and spatial planning — with Slovenian cases (earthquake risk in Slovenia, the Port of Koper) set inside the world topics.
 
 Mauritania's own way (Mauritania Grade 7 geo-1as-m): The student book of the course specified in Book 1 (the teacher guide): the same three units and 13 lessons, each lesson opening with expected outcomes and key concepts and closing with a concepts list per unit. General topics are worked with Mauritanian examples throughout, as the guide prescribes.
+
+Libya's own way (Libya Grade 6 LY G6 Social Studies): The geography half is "Principles of Physical Geography" in four units — surface shaping, climate, water, pollution — with Libyan examples inside world content (the Haruj volcanic mountains, Libyan springs such as Ain al-Sharshara). Non-Geography part named, not placed: Topic One, History of Libya — the Ottoman State and Libya as an Ottoman province (printed pp. 12–18), Libya in the Ottoman era 1551–1912 including the Karamanli period (pp. 19–35), modern European colonialism and the Italian occupation of 1911 (pp. 36–43), Libyan resistance to the Italian occupation (pp. 44–54), Libya after the Italian era — liberation, the British/French military administrations, independence and the Libyan Kingdom (pp. 55–64).

@@ -1,6 +1,6 @@
 # Sources — Africa's four landform regions
 
-countries: Ethiopia, Palestine, Egypt, Slovenia, Sudan, Yemen
+countries: Ethiopia, Palestine, Egypt, Slovenia, Sudan, Yemen, Libya
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). First published 2023 under GEQIP-E. ISBN: 978-99990-0-049-9. 205 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Palestine, Egypt, Slovenia, Sudan, Yemen
 
 **Book 6:** *جغرافية القارات للصف الثامن من مرحلة التعليم الأساسي (Geography of the Continents for Grade 8) — the record's short title is الجغرافيا (Geography)* (student book, Arabic) — Republic of Yemen, Ministry of Education; year 1438 AH / 2017 CE; ISBN no ISBN printed. Title as printed: جغرافية القارات للصف الثامن من مرحلة التعليم الأساسي (Geography of the Continents for Grade 8) — the record's short title is الجغرافيا (Geography). Grade: 8 (student/teacher: STUDENT). PDF pages: 107 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the Wayback Machine capture of its own recorded Yemen MoE source URL (the source_url in its books.json record) after the GitHub routes (grab.py release + tree) failed from the reader's host — the same ministry file the repo copies were taken from; cover/title page verified visually against the record title. TSV + books.json records for the same grade are the same book, placed once. Read note: image-only scan (no text layer); structure read from rendered contents and lesson pages. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/yemen-placements.md.
 
+**Book 7:** *جغرافية العالم — World Geography, Grade 9 of Basic Education* (student book, Arabic) — State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2019–2020 (1440–1441 AH); ISBN no ISBN printed. Title as printed: جغرافية العالم — World Geography, Grade 9 of Basic Education. Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 168 (cover verified visually: "جغرافية العالم للصف التاسع" — matches record; text layer is font-garbled, read via 100-DPI 4-up contact sheets; grabbed via grab.py release route, size verified by grab.py). Verdict: COMPLETE. TSV release records and books.json records are the same 8 books (each title appears once in each source) — read once via grab.py (GitHub API, size verified), as the placements file header records. Combined Social Studies books (Grades 5–6): Geography parts placed; History/Civics parts named in headers only. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/libya-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The four regions named | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 1, printed pp. 8–9 |
@@ -23,8 +25,9 @@ countries: Ethiopia, Palestine, Egypt, Slovenia, Sudan, Yemen
 | Slovenia part — Lega, površje in vodovje Afrike: Površje (Africa's position and relief) | Slovenia, *Slovenia Grade 8 Geografija 8*, Lega, površje in vodovje Afrike: Površje (Africa's position and relief) — printed p. 1 |
 | Sudan part — Africa's surface and relief: plateaus, Atlas Mountains, lakes and volcanic peaks | Sudan, *Sudan Grade 7 SD Geography 7*, Africa's surface and relief: plateaus, Atlas Mountains, lakes and volcanic peaks — printed p. 14 |
 | Yemen part — Unit 3 Lesson 1 Natural Features of Africa | Yemen, *Yemen Grade 8 G8 Geography of the Continents*, Unit 3 Lesson 1 Natural Features of Africa — printed p. 37 |
+| Libya part — Ch.1 Africa: مظاهر السطح — Africa's surface features | Libya, *Libya Grade 9 LY G9 World Geography*, Ch.1 Africa: مظاهر السطح — Africa's surface features — printed p. 17 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Palestine, Egypt, Slovenia, Sudan, Yemen).**
+**Acceptance count: taught in 7 countries (Ethiopia, Palestine, Egypt, Slovenia, Sudan, Yemen, Libya).**
 
 Pairing: the teacher guide was first published in 2022 and the student textbook in 2023, with the same writers and the same eight units in the same order; the student book is the learner text of record, and teacher-guide rows above are evidence only.
 
@@ -39,3 +42,5 @@ Slovenia's own way (Slovenia Grade 8 Geografija 8): Grade 8 is pure world region
 Sudan's own way (Sudan Grade 7 SD Geography 7): A continents book: after a world opener (continents, oceans, relief, world environments), each continent — Africa, Asia, Europe — gets the same treatment in the same order (relief, drainage, climate, vegetation, population, economic activity, environmental problems), closing with a British Isles case study; Sudan and Africa anchor the examples throughout.
 
 Yemen's own way (Yemen Grade 8 G8 Geography of the Continents): Grade 8 tours the continents one by one — natural features, population, economic activities — with one country studied in depth per continent (Indonesia, Eritrea, Germany, the USA, Brazil), and closes on contemporary world issues.
+
+Libya's own way (Libya Grade 9 LY G9 World Geography): A continent-by-continent world survey built on one repeated pattern — every continent gets location, surface features, climate (with summer/winter maps), climate-and-vegetation regions, population (with density map) and economic resources (agriculture, livestock, minerals and energy tables) — starting with Africa because, as the preface says, Libya's own continent links three continents and controls world trade routes.

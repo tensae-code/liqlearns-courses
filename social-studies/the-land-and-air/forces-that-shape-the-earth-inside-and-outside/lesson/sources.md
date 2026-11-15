@@ -1,6 +1,6 @@
 # Sources — Forces that shape the Earth — inside and outside
 
-countries: Ethiopia, Cambodia, Rwanda, Vietnam, Papua New Guinea, Syria, Iran, Yemen, Pakistan
+countries: Ethiopia, Cambodia, Rwanda, Vietnam, Papua New Guinea, Syria, Iran, Yemen, Pakistan, Libya
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Cambodia, Rwanda, Vietnam, Papua New Guinea, Syria, Iran, Y
 
 **Book 10:** *GEOGRAPHY 6 — Based on Single National Curriculum 2022 (ONE NATION, ONE CURRICULUM)* (student book, English) — Punjab Curriculum and Textbook Board (PCTB), Lahore; SNC 2022, Experimental Edition, 1st edition March 2022; author Mr. Salman Munir; prepared by Javed Publishers, Lahore; ISBN no ISBN printed. Title as printed: GEOGRAPHY 6 — Based on Single National Curriculum 2022 (ONE NATION, ONE CURRICULUM). Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 89 (21,533,299 bytes — exactly the record size; the GitHub release/tree copies could not be found, so the book was re-downloaded from the record's own source, the freebooks.pk Google Drive file, and verified byte-for-byte against the record; image-only scan, read page by page from contact sheets). Verdict: COMPLETE. The GitHub release/tree copies could not be found, so the book was re-downloaded from the record's own source, the freebooks.pk Google Drive file, and verified byte-for-byte against the record (21,533,299 bytes — exactly the record size); image-only scan, read page by page from contact sheets. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/pakistan-placements.md.
 
+**Book 11:** *الاجتماعيات (التاريخ والجغرافيا) — Social Studies (History and Geography), Grade 6 of Basic Education* (student book, Arabic) — State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2019–2020 (1440–1441 AH); ISBN no ISBN printed. Title as printed: الاجتماعيات (التاريخ والجغرافيا) — Social Studies (History and Geography), Grade 6 of Basic Education. Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 120 (cover verified visually: "الاجتماعيات (التاريخ والجغرافيا) للصف السادس" — matches record; image-only scan, read via 100-DPI 4-up contact sheets; grabbed via grab.py release route, size verified by grab.py). Verdict: COMPLETE. TSV release records and books.json records are the same 8 books (each title appears once in each source) — read once via grab.py (GitHub API, size verified), as the placements file header records. Combined Social Studies books (Grades 5–6): Geography parts placed; History/Civics parts named in headers only. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/libya-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Two families of forces | G12 student #9, printed pp. 11–12, 24 |
@@ -35,8 +37,9 @@ countries: Ethiopia, Cambodia, Rwanda, Vietnam, Papua New Guinea, Syria, Iran, Y
 | Iran part — Iran's relief (present-day changers of the Zagros and of the plains: natural and human factors) | Iran, *Iran Grade 10 Geography of Iran*, Iran's relief (present-day changers of the Zagros and of the plains: natural and human factors) — printed p. 28 |
 | Yemen part — Unit 4 Lesson 3 Factors Shaping the Earth's Surface | Yemen, *Yemen Grade 7 G7 Principles of Physical Geography*, Unit 4 Lesson 3 Factors Shaping the Earth's Surface — printed p. 91 |
 | Pakistan part — Major landforms and the two forces that make them: internal forces (uplift, volcanoes, plateaus) and external forces (wind, rivers, glaciers, sea waves) | Pakistan, *Pakistan Grade 6 Geography 6*, Major landforms and the two forces that make them: internal forces (uplift, volcanoes, plateaus) and external forces (wind, rivers, glaciers, sea waves) — printed pp. 20–21 |
+| Libya part — Unit 1: العوامل التي تؤثر في تشكيل سطح الأرض — The factors that shape Earth's surface, internal and external | Libya, *Libya Grade 6 LY G6 Social Studies*, Unit 1: العوامل التي تؤثر في تشكيل سطح الأرض — The factors that shape Earth's surface, internal and external — printed p. 67 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Cambodia, Rwanda, Vietnam, Syria, Iran, Yemen, Pakistan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 9 countries (Ethiopia, Cambodia, Rwanda, Vietnam, Syria, Iran, Yemen, Pakistan, Libya). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Placement honesty carried: the placements place the eruption-style / Krakatoa passage before the 1.4.2 heading, inside the flow of 1.4.1's closing pages (printed p. 24) — a layout slip in the book, named here; the content itself is taught as the placements give it.
 
@@ -59,3 +62,5 @@ Iran's own way (Iran Grade 10 Geography of Iran): the whole of Grade 10 geograph
 Yemen's own way (Yemen Grade 7 G7 Principles of Physical Geography): from Grade 7 the subject splits — this book is pure physical geography organised by the Earth's spheres (atmosphere, lithosphere, hydrosphere, biosphere), opened by map skills and Earth-and-space.
 
 Pakistan's own way (Pakistan Grade 6 Geography 6): world physical Geography taught through Pakistan's own land — its fault lines and 1935/2005 earthquakes, Khewra salt and Thar coal among the rocks, K2 and the Karakoram among the mountains, Pakistan's four climatic regions, its six forest types from mangrove to alpine, and the Indus flood as the country's defining disaster.
+
+Libya's own way (Libya Grade 6 LY G6 Social Studies): The geography half is "Principles of Physical Geography" in four units — surface shaping, climate, water, pollution — with Libyan examples inside world content (the Haruj volcanic mountains, Libyan springs such as Ain al-Sharshara). Non-Geography part named, not placed: Topic One, History of Libya — the Ottoman State and Libya as an Ottoman province (printed pp. 12–18), Libya in the Ottoman era 1551–1912 including the Karamanli period (pp. 19–35), modern European colonialism and the Italian occupation of 1911 (pp. 36–43), Libyan resistance to the Italian occupation (pp. 44–54), Libya after the Italian era — liberation, the British/French military administrations, independence and the Libyan Kingdom (pp. 55–64).

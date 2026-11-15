@@ -103,7 +103,7 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **2348**
+Geography lessons across the eight Geography titles: **2393**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -1623,3 +1623,38 @@ Back, When Warming Feeds Disaster and Why Pakistan Is
 Underdeveloped.
 (All 86 of the new lessons are taught in 1 country
 (Pakistan); all stand on student books.)
+
++45 for Libya, 2026-11-15 — Earth and Space: The
+Universe And Astronomy Arab And Western Scholars; The
+Land and Air: Africa Location And Characteristics, Arab
+World Climate, Arab World Natural Vegetation, Arab
+World Relief Plateaus Mountains Plains, Arab World
+Soils, Asia Climate And Vegetation Regions, Asia
+Location And Surface, Australia Climate And Vegetation
+Regions, Australia Location And Surface, Libya Climate
+Elements And Regions, Libya Location Area And
+Importance, Libya Natural Vegetation, Libya Relief
+Plains Mountains And Desert, Libya Soils, Libya Water
+Resources, North America Climate And Vegetation
+Regions, Reading Distribution Maps Of Libya, South
+America Climate And Vegetation Regions, Wild Animals
+And Their Habitats and World Environment Biomes;
+Population, Transport and Maps: Arab World Population
+Problems And Structure, Libya Urban Centres and
+Problems Of Cities And Villages; People and Resources:
+Africa Economic Resources, Arab World Agricultural
+Production, Arab World Aquatic Wealth Fish Sponge Pearl
+Coral, Arab World Cash Crops Cotton Tobacco Sugar, Arab
+World Food Grains Wheat Barley Maize, Arab World Fruit
+Trees Olives And Dates, Arab World Mineral Production
+Oil And Gas, Arab World Water Wealth, Asia Economic
+Resources, Australia Economic Resources, Europe
+Economic Resources, Libya Mineral Wealth And Oil, North
+America Economic Resources and South America Economic
+Resources; Global Issues: Aquatic Environments, Food
+Chains And Cycles Carbon Nitrogen, Food Pollution,
+Protecting The Environment Forests Animals And Cities,
+Soil Pollution, The Environment And Ecosystems and The
+Social Environment And Balance With Nature.
+(All 45 of the new lessons are taught in 1 country
+(Libya); all stand on student books.)

@@ -1,6 +1,6 @@
 # Sources — Time Zones and the Date Line
 
-countries: Ethiopia, Barbados, Haiti, Indonesia, Dominican Republic, India, Rwanda, Vietnam, Uganda, Sri Lanka, Kuwait, Afghanistan, Yemen, Pakistan
+countries: Ethiopia, Barbados, Haiti, Indonesia, Dominican Republic, India, Rwanda, Vietnam, Uganda, Sri Lanka, Kuwait, Afghanistan, Yemen, Pakistan, Libya
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page - 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md.
 
@@ -32,6 +32,8 @@ countries: Ethiopia, Barbados, Haiti, Indonesia, Dominican Republic, India, Rwan
 
 **Book 15:** *معاشرتی علوم جماعت پنجم (Social Studies, Class 5), Single National Curriculum 2020* (student book, Urdu with English topic glosses) — Punjab Curriculum and Textbook Board (PCTB), Lahore; year 2022; ISBN no ISBN printed. Title as printed: معاشرتی علوم جماعت پنجم (Social Studies, Class 5), Single National Curriculum 2020. Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 114 (cover/title page verified against the record title; this book is also the TSV blob-URL record — same repo path, one book). Verdict: COMPLETE. All Pakistan PCTB books are image-only scans (no text layer); read page-by-page from 90–100 DPI 4-up contact sheets, covers verified visually (placements file header: 3 books read in place from phase3-staging, 2 grabbed via grab.py tree route; the 4 Telegram link records are the same PCTB books already held in staging/GitHub, so no new download or staging arose from them). This book is also the TSV blob-URL record — same repo path, one book. Non-Geography parts named, not placed: Ch.1 Citizenship, printed pp. 1–9; Ch.2 Culture, pp. 10–24; Ch.3 State and Government, pp. 25–32; Ch.4 History, pp. 33–50; Ch.6 Economics, pp. 86–108; Glossary, p. 109 Placements at liqlearns-courses-work/expansion-geography-2026-11-14/pakistan-placements.md.
 
+**Book 16:** *مبادئ الجغرافيا العامة — Principles of General Geography, First Year of Secondary Education* (student book, Arabic) — State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2019–2020 (1440–1441 AH); ISBN no ISBN printed. Title as printed: مبادئ الجغرافيا العامة — Principles of General Geography, First Year of Secondary Education. Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 141 (title page verified in text layer: "مبادئ الجغرافيا العامة للسنة الأولى بمرحلة التعليم الثانوي" — matches record; full readable text layer, read via pdftotext; grabbed via grab.py release route, size verified by grab.py). Verdict: COMPLETE. TSV release records and books.json records are the same 8 books (each title appears once in each source) — read once via grab.py (GitHub API, size verified), as the placements file header records. Combined Social Studies books (Grades 5–6): Geography parts placed; History/Civics parts named in headers only. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/libya-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Why the world needed zones | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 1, printed pp. 23–24 |
@@ -51,8 +53,9 @@ countries: Ethiopia, Barbados, Haiti, Indonesia, Dominican Republic, India, Rwan
 | Afghanistan part — Ch. 1 Lesson 7: why knowing longitude matters | Afghanistan, *Afghanistan Grade 7 Geography (Dari)*, Ch. 1 Lesson 7: why knowing longitude matters — printed p. 17 |
 | Yemen part — Unit 1 Lesson 4 Coordinates and Times | Yemen, *Yemen Grade 10 G10 Geography of Man and the Environment*, Unit 1 Lesson 4 Coordinates and Times — printed p. 22 |
 | Pakistan part — Time zones: GMT, 15° = 1 hour, Pakistan 5 hours ahead of Greenwich (75° worked example), am/pm | Pakistan, *Pakistan Grade 5 SS5*, Time zones: GMT, 15° = 1 hour, Pakistan 5 hours ahead of Greenwich (75° worked example), am/pm — printed pp. 58–59 |
+| Libya part — Book 1 Ch.2: طريقة تحديد زمن المكان على سطح الأرض — Working out the local time of a place [placement slug: earth-and-space/local-time-and-time-zones] | Libya, *Libya Grade 10 LY G10 Principles*, Book 1 Ch.2: طريقة تحديد زمن المكان على سطح الأرض — Working out the local time of a place — printed p. 25 |
 
-**Acceptance count: taught in 13 countries (Ethiopia, Barbados, Indonesia, Dominican Republic, India, Rwanda, Vietnam, Uganda, Sri Lanka, Kuwait, Afghanistan, Yemen, Pakistan). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 14 countries (Ethiopia, Barbados, Indonesia, Dominican Republic, India, Rwanda, Vietnam, Uganda, Sri Lanka, Kuwait, Afghanistan, Yemen, Pakistan, Libya). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
 
 Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -85,3 +88,5 @@ Afghanistan's own way (Afghanistan Grade 7 Geography (Dari)): the Dari MoE patte
 Yemen's own way (Yemen Grade 10 G10 Geography of Man and the Environment): secondary geography is thematic, not regional — man and space, man representing his geographic field (remote sensing, projections, maps), man organising it (rural/urban), climate and water, the dynamic Earth, and the great environmental systems.
 
 Pakistan's own way (Pakistan Grade 5 SS5): the Class 5 Geography chapter (Ch.5, printed pp. 51–85) deepens the Class 4 spiral — same BOLTS, landforms, weather and population topics, but now with scale types, latitude/longitude and time-zone arithmetic, worked population-density calculations, and graph-drawing exercises from real Pakistani city data.
+
+Libya's own way (Libya Grade 10 LY G10 Principles): Secondary geography opens as a two-part systematic course — physical geography first (astronomy, surface-shaping factors, climate, vegetation and wild animals), then human geography (population and settlement, economic resources) — and closes with a whole book on spatial-data technology: remote sensing, GPS and GIS, then the history of maps from Babylon and Ibn Hawqal.

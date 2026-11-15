@@ -1,6 +1,6 @@
 # Sources — Water Bodies — Rivers
 
-countries: Ethiopia, Iceland, Belarus, Guatemala, Eritrea, Slovenia, Papua New Guinea, Uganda, Venezuela, Mauritania, Afghanistan
+countries: Ethiopia, Iceland, Belarus, Guatemala, Eritrea, Slovenia, Papua New Guinea, Uganda, Venezuela, Mauritania, Afghanistan, Libya
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -36,6 +36,8 @@ countries: Ethiopia, Iceland, Belarus, Guatemala, Eritrea, Slovenia, Papua New G
 
 **Book 17:** *دروس اجتماعی برای صنف چهارم (Social Studies for Grade 4)* (student book, Dari) — Ministry of Education, Afghanistan; year 1399 HS (2020/21) as printed; ISBN no ISBN printed. Title as printed: دروس اجتماعی برای صنف چهارم (Social Studies for Grade 4). Grade: 4 (student/teacher: STUDENT). PDF pages: 106 (cover verified against the record title; 21,005,872 bytes = release asset size). Verdict: COMPLETE — combined Social Studies book: Geography parts placed below; the family/school/civics parts are named here and NOT placed.. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/afghanistan-placements.md.
 
+**Book 18:** *الاجتماعيات (التاريخ والجغرافيا) — Social Studies (History and Geography), Grade 6 of Basic Education* (student book, Arabic) — State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2019–2020 (1440–1441 AH); ISBN no ISBN printed. Title as printed: الاجتماعيات (التاريخ والجغرافيا) — Social Studies (History and Geography), Grade 6 of Basic Education. Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 120 (cover verified visually: "الاجتماعيات (التاريخ والجغرافيا) للصف السادس" — matches record; image-only scan, read via 100-DPI 4-up contact sheets; grabbed via grab.py release route, size verified by grab.py). Verdict: COMPLETE. TSV release records and books.json records are the same 8 books (each title appears once in each source) — read once via grab.py (GitHub API, size verified), as the placements file header records. Combined Social Studies books (Grades 5–6): Geography parts placed; History/Civics parts named in headers only. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/libya-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Flowing water in a channel | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 8–9 |
@@ -60,8 +62,9 @@ countries: Ethiopia, Iceland, Belarus, Guatemala, Eritrea, Slovenia, Papua New G
 | Afghanistan part — Ch. 1 Lessons 3–4: the rivers of Africa; the Congo basin | Afghanistan, *Afghanistan Grade 9 Geography (Dari)*, Ch. 1 Lessons 3–4: the rivers of Africa; the Congo basin — printed p. 7 |
 | Afghanistan part — Ch. 2 Lesson 19: the rivers of Australia | Afghanistan, *Afghanistan Grade 9 Geography (Dari)*, Ch. 2 Lesson 19: the rivers of Australia — printed p. 59 |
 | Afghanistan part — Lessons 33–34: the rivers of our country; the famous rivers of Afghanistan | Afghanistan, *Afghanistan Grade 4 Social Studies (Dari)*, Lessons 33–34: the rivers of our country; the famous rivers of Afghanistan — printed p. 65 |
+| Libya part — Unit 3: المياه — The importance of water in our lives; wadis and rivers | Libya, *Libya Grade 6 LY G6 Social Studies*, Unit 3: المياه — The importance of water in our lives; wadis and rivers — printed p. 102 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Iceland, Belarus, Guatemala, Eritrea, Slovenia, Uganda, Venezuela, Mauritania, Afghanistan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 11 countries (Ethiopia, Iceland, Belarus, Guatemala, Eritrea, Slovenia, Uganda, Venezuela, Mauritania, Afghanistan, Libya). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Iceland's own way: a one-page map-labelling work card (vinnukort): pupils work directly on the outline map of their own country, its main rivers and lakes already drawn in for identification, with a 0–50 km scale bar.
 
@@ -96,3 +99,5 @@ Afghanistan's own way (Afghanistan Grade 8 Geography (Dari)): the continent-by-c
 Afghanistan's own way (Afghanistan Grade 9 Geography (Dari)): the continent march finishes with Africa, then Australia/Oceania and Antarctica — same fixed order per continent as Grade 8, with a data table of the independent countries of Africa appended to the Africa chapter.
 
 Afghanistan's own way (Afghanistan Grade 4 Social Studies (Dari)): primary social studies starts from the child's own world — family, village, city — and only then opens the map: directions, Afghanistan's boundaries and mountains and rivers, the continents and oceans, and finally the Earth's shape, equator, latitude/longitude and movements.
+
+Libya's own way (Libya Grade 6 LY G6 Social Studies): The geography half is "Principles of Physical Geography" in four units — surface shaping, climate, water, pollution — with Libyan examples inside world content (the Haruj volcanic mountains, Libyan springs such as Ain al-Sharshara). Non-Geography part named, not placed: Topic One, History of Libya — the Ottoman State and Libya as an Ottoman province (printed pp. 12–18), Libya in the Ottoman era 1551–1912 including the Karamanli period (pp. 19–35), modern European colonialism and the Italian occupation of 1911 (pp. 36–43), Libyan resistance to the Italian occupation (pp. 44–54), Libya after the Italian era — liberation, the British/French military administrations, independence and the Libyan Kingdom (pp. 55–64).

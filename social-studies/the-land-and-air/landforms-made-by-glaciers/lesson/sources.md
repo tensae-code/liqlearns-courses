@@ -1,16 +1,21 @@
 # Sources — Landforms Made By Glaciers
 
-countries: Pakistan
+countries: Pakistan, Libya
 
 **Book 1:** *جغرافیہ 8 (Geography 8), Punjab Curriculum and Textbook Board, Lahore (record title: "Geography Class 8 SNC — Punjab Board (PCTB)")* (student book, Urdu) — Punjab Curriculum and Textbook Board (PCTB), Lahore; Urdu-medium edition with English topic glosses throughout; ISBN no ISBN printed in the scanned copy. Title as printed: جغرافیہ 8 (Geography 8), Punjab Curriculum and Textbook Board, Lahore (record title: "Geography Class 8 SNC — Punjab Board (PCTB)"). Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 88 (39,114,330 bytes — exactly the record size; the GitHub release/tree copies could not be found, so the book was re-downloaded from the record's own source, the freebooks.pk Google Drive file, and verified byte-for-byte against the record; image-only scan, read page by page from contact sheets). Verdict: COMPLETE. The GitHub release/tree copies could not be found, so the book was re-downloaded from the record's own source, the freebooks.pk Google Drive file, and verified byte-for-byte against the record (39,114,330 bytes — exactly the record size); image-only scan, read page by page from contact sheets. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/pakistan-placements.md.
+
+**Book 2:** *مبادئ الجغرافيا العامة — Principles of General Geography, First Year of Secondary Education* (student book, Arabic) — State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2019–2020 (1440–1441 AH); ISBN no ISBN printed. Title as printed: مبادئ الجغرافيا العامة — Principles of General Geography, First Year of Secondary Education. Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 141 (title page verified in text layer: "مبادئ الجغرافيا العامة للسنة الأولى بمرحلة التعليم الثانوي" — matches record; full readable text layer, read via pdftotext; grabbed via grab.py release route, size verified by grab.py). Verdict: COMPLETE. TSV release records and books.json records are the same 8 books (each title appears once in each source) — read once via grab.py (GitHub API, size verified), as the placements file header records. Combined Social Studies books (Grades 5–6): Geography parts placed; History/Civics parts named in headers only. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/libya-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Landforms made by glaciers: valley and continental glaciers; erosional forms (cirque, tarn/cirque lake, U-shaped valley, hanging valley, fjord) and depositional forms (lateral, medial and terminal moraines, drumlins, marginal lakes and kames, eskers, outwash plain) | Pakistan, *Pakistan Grade 8 Geography 8*, Landforms made by glaciers: valley and continental glaciers; erosional forms (cirque, tarn/cirque lake, U-shaped valley, hanging valley, fjord) and depositional forms (lateral, medial and terminal moraines, drumlins, marginal lakes and kames, eskers, outwash plain) — printed pp. 12–16 |
 | Sub lesson 2 — Pakistan's way — the book's own teaching way | Pakistan — the book's own way of teaching (see below) |
+| Libya part — Book 2 Ch.2: التعرية الجليدية — Glacial erosion: ice sheets, glaciers and their landforms; water river vs ice river compared [placement slug: the-land-and-air/glaciers-rivers-of-ice] | Libya, *Libya Grade 10 LY G10 Principles*, Book 2 Ch.2: التعرية الجليدية — Glacial erosion: ice sheets, glaciers and their landforms; water river vs ice river compared — printed p. 51 |
 
-**Acceptance count: taught in 1 country (Pakistan).**
+**Acceptance count: taught in 2 countries (Pakistan, Libya).**
 
 Pakistan's own way (Pakistan Grade 8 Geography 8): the Urdu-medium twin of the English Geography course — deep map-and-graph craft first (dot and choropleth maps of Pakistan itself), then landform agents, oceans, a full Pakistan-anchored disaster chapter, the world's natural regions, Pakistan's own climate, its four neighbouring regions and strategic place, underdevelopment with Pakistan's own causes, and modern techniques down to Pak Sat-1.
 
 Searchable tags: landforms made by glaciers, Pakistan, social studies, the-land-and-air
+
+Libya's own way (Libya Grade 10 LY G10 Principles): Secondary geography opens as a two-part systematic course — physical geography first (astronomy, surface-shaping factors, climate, vegetation and wild animals), then human geography (population and settlement, economic resources) — and closes with a whole book on spatial-data technology: remote sensing, GPS and GIS, then the history of maps from Babylon and Ibn Hawqal.

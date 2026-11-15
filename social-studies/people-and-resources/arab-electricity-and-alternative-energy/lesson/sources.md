@@ -1,16 +1,21 @@
 # Sources — Arab Electricity And Alternative Energy
 
-countries: Yemen
+countries: Yemen, Libya
 
 **Book 1:** *جغرافية اليمن والوطن العربي للصف الثاني الثانوي (Geography of Yemen and the Arab Homeland for the Second Secondary Grade = Grade 11)* (student book, Arabic) — Republic of Yemen, Ministry of Education; year 1438 AH / 2017 CE; ISBN no ISBN printed. Title as printed: جغرافية اليمن والوطن العربي للصف الثاني الثانوي (Geography of Yemen and the Arab Homeland for the Second Secondary Grade = Grade 11). Grade: 11 (student/teacher: STUDENT). PDF pages: 195 (cover/title page verified against the record title). Verdict: COMPLETE. Read from the Wayback Machine capture of its own recorded Yemen MoE source URL (the source_url in its books.json record) after the GitHub routes (grab.py release + tree) failed from the reader's host — the same ministry file the repo copies were taken from; cover/title page verified visually against the record title. TSV + books.json records for the same grade are the same book, placed once. Non-Geography part named, not placed: Unit 2 Lesson 4 Population and Elections (civics, printed p. 53). Read note: legacy Arabic font encoding in the text layer; structure read from rendered contents and lesson pages. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/yemen-placements.md.
+
+**Book 2:** *جغرافية الوطن العربي — Geography of the Arab World, Second Year of Secondary Education, Literary Section* (student book, Arabic) — State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2019–2020 (1440–1441 AH); ISBN no ISBN printed. Title as printed: جغرافية الوطن العربي — Geography of the Arab World, Second Year of Secondary Education, Literary Section. Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 200 (title page verified in text layer: "جغرافية الوطن العربي للسنة الثانية بمرحلة التعليم الثانوي، القسم الأدبي" — matches record; full readable text layer, read via pdftotext; grabbed via grab.py release route, size verified by grab.py). Verdict: COMPLETE. TSV release records and books.json records are the same 8 books (each title appears once in each source) — read once via grab.py (GitHub API, size verified), as the placements file header records. Combined Social Studies books (Grades 5–6): Geography parts placed; History/Civics parts named in headers only. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/libya-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Unit 5 Lesson 4 Electricity and Alternative Energy in the Arab Homeland | Yemen, *Yemen Grade 11 G11 Geography of Yemen and the Arab World*, Unit 5 Lesson 4 Electricity and Alternative Energy in the Arab Homeland — printed p. 145 |
 | Sub lesson 2 — Yemen's way — the book's own teaching way | Yemen — the book's own way of teaching (see below) |
+| Libya part — Ch.10: مصادر الطاقة البديلة — Alternative energy sources in the Arab World: solar energy and its uses, wind, and plant biomass [placement slug: resources-and-conflict/alternative-energy-solar-wind-hydro-geothermal] | Libya, *Libya Grade 11 LY G11 Arab World*, Ch.10: مصادر الطاقة البديلة — Alternative energy sources in the Arab World: solar energy and its uses, wind, and plant biomass — printed p. 166 |
 
-**Acceptance count: taught in 1 country (Yemen).**
+**Acceptance count: taught in 2 countries (Yemen, Libya).**
 
 Yemen's own way (Yemen Grade 11 G11 Geography of Yemen and the Arab World): Grade 11 does Yemen in depth first (physical base, population and social development, economic resources), then the Arab world's physical geography, its people and resources, and finally its contemporary problems — water, food, poverty, illiteracy, integration.
 
 Searchable tags: arab electricity and alternative energy, Yemen, social studies, people-and-resources
+
+Libya's own way (Libya Grade 11 LY G11 Arab World): The Grade 8 Arab World survey returns at secondary depth in two parts — physical (relief treated separately for the African and Asian sides, climate factors and regions, soils, vegetation, water with its problems) and human (population structure and problems, agriculture and its difficulties, crop-by-crop chapters, livestock and sea wealth, minerals metal by metal, oil and gas, alternative energy, industry, transport).

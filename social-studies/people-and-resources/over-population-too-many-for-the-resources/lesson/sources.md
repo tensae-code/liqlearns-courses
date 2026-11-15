@@ -1,6 +1,6 @@
 # Sources — Over-population — too many for the resources
 
-countries: Ethiopia, Rwanda, Pakistan
+countries: Ethiopia, Rwanda, Pakistan, Libya
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Rwanda, Pakistan
 
 **Book 6:** *معاشرتی علوم جماعت پنجم (Social Studies, Class 5), Single National Curriculum 2020* (student book, Urdu with English topic glosses) — Punjab Curriculum and Textbook Board (PCTB), Lahore; year 2022; ISBN no ISBN printed. Title as printed: معاشرتی علوم جماعت پنجم (Social Studies, Class 5), Single National Curriculum 2020. Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 114 (cover/title page verified against the record title; this book is also the TSV blob-URL record — same repo path, one book). Verdict: COMPLETE. All Pakistan PCTB books are image-only scans (no text layer); read page-by-page from 90–100 DPI 4-up contact sheets, covers verified visually (placements file header: 3 books read in place from phase3-staging, 2 grabbed via grab.py tree route; the 4 Telegram link records are the same PCTB books already held in staging/GitHub, so no new download or staging arose from them). This book is also the TSV blob-URL record — same repo path, one book. Non-Geography parts named, not placed: Ch.1 Citizenship, printed pp. 1–9; Ch.2 Culture, pp. 10–24; Ch.3 State and Government, pp. 25–32; Ch.4 History, pp. 33–50; Ch.6 Economics, pp. 86–108; Glossary, p. 109 Placements at liqlearns-courses-work/expansion-geography-2026-11-14/pakistan-placements.md.
 
+**Book 7:** *مبادئ الجغرافيا العامة — Principles of General Geography, First Year of Secondary Education* (student book, Arabic) — State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2019–2020 (1440–1441 AH); ISBN no ISBN printed. Title as printed: مبادئ الجغرافيا العامة — Principles of General Geography, First Year of Secondary Education. Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 141 (title page verified in text layer: "مبادئ الجغرافيا العامة للسنة الأولى بمرحلة التعليم الثانوي" — matches record; full readable text layer, read via pdftotext; grabbed via grab.py release route, size verified by grab.py). Verdict: COMPLETE. TSV release records and books.json records are the same 8 books (each title appears once in each source) — read once via grab.py (GitHub API, size verified), as the placements file header records. Combined Social Studies books (Grades 5–6): Geography parts placed; History/Civics parts named in headers only. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/libya-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Beyond the optimum | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 6, printed pp. 164–166 |
@@ -24,8 +26,9 @@ countries: Ethiopia, Rwanda, Pakistan
 | Rwanda part — 8.3 Problems caused by high population growth (Unit 8) | Rwanda, *Rwanda Grade 5 Social Studies SB*, 8.3 Problems caused by high population growth (Unit 8) — printed p. 94 |
 | Pakistan part — Problems caused by overpopulation, incl. water, health and sanitation (WASH) | Pakistan, *Pakistan Grade 4 SS4*, Problems caused by overpopulation, incl. water, health and sanitation (WASH) — printed p. 90 |
 | Pakistan part — Overpopulation's pressure on food, housing, jobs, education and health (a Ustad 60–70 pupils passage) | Pakistan, *Pakistan Grade 5 SS5*, Overpopulation's pressure on food, housing, jobs, education and health (a Ustad 60–70 pupils passage) — printed p. 83 |
+| Libya part — Book 5 Ch.1: التضخم السكاني — Population inflation (overpopulation) [placement slug: population-transport-and-maps/population-density-and-overpopulation] | Libya, *Libya Grade 10 LY G10 Principles*, Book 5 Ch.1: التضخم السكاني — Population inflation (overpopulation) — printed p. 98 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Rwanda, Pakistan).**
+**Acceptance count: taught in 4 countries (Ethiopia, Rwanda, Pakistan, Libya).**
 
 Searchable tags: over-population, symptoms, famine, unemployment, landlessness, social studies
 
@@ -36,3 +39,5 @@ Rwanda's own way (Rwanda Grade 5 Social Studies SB): the pupil's book teaches th
 Pakistan's own way (Pakistan Grade 4 SS4): one combined Social Studies book in Urdu where the Geography chapter (Ch.5, printed pp. 61–93) works entirely through Pakistan's own map, landforms, weather and census, with BOLTS as the map-elements mnemonic and "I have learnt!" / "Work for me to do" boxes closing every topic.
 
 Pakistan's own way (Pakistan Grade 5 SS5): the Class 5 Geography chapter (Ch.5, printed pp. 51–85) deepens the Class 4 spiral — same BOLTS, landforms, weather and population topics, but now with scale types, latitude/longitude and time-zone arithmetic, worked population-density calculations, and graph-drawing exercises from real Pakistani city data.
+
+Libya's own way (Libya Grade 10 LY G10 Principles): Secondary geography opens as a two-part systematic course — physical geography first (astronomy, surface-shaping factors, climate, vegetation and wild animals), then human geography (population and settlement, economic resources) — and closes with a whole book on spatial-data technology: remote sensing, GPS and GIS, then the history of maps from Babylon and Ibn Hawqal.

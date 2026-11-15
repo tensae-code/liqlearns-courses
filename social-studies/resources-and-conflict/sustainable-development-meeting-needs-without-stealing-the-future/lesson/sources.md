@@ -1,6 +1,6 @@
 # Sources — Sustainable development — meeting needs without stealing the future
 
-countries: Ethiopia, Haiti, Niue, China, Bangladesh, Vietnam
+countries: Ethiopia, Haiti, Niue, China, Bangladesh, Vietnam, Libya
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Haiti, Niue, China, Bangladesh, Vietnam
 
 **Book 6:** *Địa lí 10* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam (NXBGD); year 2022 (4th reprint); editor-in-chief Lê Huỳnh; ISBN 978-604-0-31083-5. Title as printed: ĐỊA LÍ 10 — Kết nối tri thức với cuộc sống (Tái bản lần thứ tư). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 118 per the record (read as the publisher's 118 page images, printed pp. 1–115 plus covers; cover and contents verified against the record). Verdict: COMPLETE. Read from the record's own source — the NXBGD training site (taphuan.nxbgd.vn) reader, page by page as images — after the GitHub routes failed for all six books, as the placements file records; the page images are the publisher's own scans of the same books the records describe (titles, series and page counts match the records). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/vietnam-placements.md.
 
+**Book 7:** *جغرافية البيئة — Environmental Geography, Third Year of Secondary Education (Literary Section)* (student book, Arabic) — State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2019–2020 (1440–1441 AH); ISBN no ISBN printed. Title as printed: جغرافية البيئة — Environmental Geography, Third Year of Secondary Education (Literary Section). Grade: Grade 12 (student/teacher: STUDENT). PDF pages: 126 (title page verified in text layer: "جغرافية البيئة للسنة الثالثة بمرحلة التعليم الثانوي (القسم الأدبي)" — matches record; full readable text layer, read via pdftotext; grabbed via grab.py release route, size verified by grab.py). Verdict: COMPLETE. TSV release records and books.json records are the same 8 books (each title appears once in each source) — read once via grab.py (GitHub API, size verified), as the placements file header records. Combined Social Studies books (Grades 5–6): Geography parts placed; History/Civics parts named in headers only. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/libya-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The idea and its definition | G12 student #37, printed pp. 63–66 |
@@ -23,8 +25,9 @@ countries: Ethiopia, Haiti, Niue, China, Bangladesh, Vietnam
 | China part — Chapter 5 §2 Towards human–land coordination: sustainable development （走向人地协调——可持续发展） | China, *China Grade 10 PEP Geography Compulsory Book 2*, Grade 10, Chapter 5 §2 Towards human–land coordination: sustainable development （走向人地协调——可持续发展） — printed p. 101 |
 | Bangladesh part (Grade 8) — Natural disasters and our duties; playing an effective role for sustainable development | Bangladesh, *History and Social Science, Class Eight*, Grade 8, Natural disasters and our duties; playing an effective role for sustainable development — printed pp. 136-138 |
 | Vietnam part — Bài 40 (part): Sustainable development — meeting today's needs without stealing the future's (the three overlapping circles), and why it has become necessary | Vietnam, *Vietnam Grade 10 Địa lí 10*, Bài 40 (part): Sustainable development — meeting today's needs without stealing the future's (the three overlapping circles), and why it has become necessary — printed pp. 111–112 |
+| Libya part — Ch.5: التنمية المستدامة — Sustainable development and its goals [placement slug: global-issues/sustainable-development-using-without-wasting] | Libya, *Libya Grade 12 LY G12 Environmental Geography*, Ch.5: التنمية المستدامة — Sustainable development and its goals — printed p. 121 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, China, Bangladesh, Vietnam). Haiti is named here as teacher-sequence evidence only, and Niue as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 5 countries (Ethiopia, China, Bangladesh, Vietnam, Libya). Haiti is named here as teacher-sequence evidence only, and Niue as teacher-guide evidence only, counted nowhere.**
 
 Niue's own way (teacher guide — evidence): the guide localises the shared Pacific set country by country — its "Links to formal learning" section carries a dedicated Niue chapter (what sustainability means for Niueans; Niue curriculum links to SDG 4.7), the model other Pacific countries' sets follow. That evidence is stocked here as the way Niue teaches this thing; it does not change the acceptance count above.
 
@@ -39,3 +42,5 @@ Searchable tags: sustainable development, Brundtland, Our Common Future, Agenda 
 Bangladesh's own way (Grade 8): the year's Geography is one long chapter, "Protect the Bond between Nature and People": pupils model the world's biomes, compare world forest cover in 2000 and 2020, map Bangladesh's own forests and disaster-prone areas, and read a long inquiry-reader on biomes, sea resources and the Sundarbans mangrove.
 
 Vietnam's own way (Vietnam Grade 10 Địa lí 10): a single Grade 10 course that runs the whole discipline — map craft, the Earth's spheres, then economic geography sector by sector — with Vietnam itself as the standing worked example (its power-plant and rice maps, the Red River's regime at Hanoi, Hanoi's climate chart, Vietnam's GDP structure, its internet and tourism figures) inside world-scale treatment.
+
+Libya's own way (Libya Grade 12 LY G12 Environmental Geography): The geography course closes with a full environmental-geography book: the environment as a system of living and non-living parts, the world's great environments (water, then land biome by biome), the social environment and its balance with nature, the problems of settlements, the five pollutions (air, water, soil, food, noise) — and protection ending in sustainable development.

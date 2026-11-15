@@ -1,6 +1,6 @@
 # Sources — Africa's climate types
 
-countries: Ethiopia, Colombia, Rwanda, Sudan, Afghanistan
+countries: Ethiopia, Colombia, Rwanda, Sudan, Afghanistan, Libya
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). First published 2023 under GEQIP-E. ISBN: 978-99990-0-049-9. 205 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Colombia, Rwanda, Sudan, Afghanistan
 
 **Book 6:** *جغرافيه صنف ٩ (Geography, Grade 9)* (student book, Dari) — Ministry of Education, Afghanistan; year 1399 HS (2020/21) as printed; ISBN no ISBN printed. Title as printed: جغرافيه صنف ٩ (Geography, Grade 9). Grade: 9 (student/teacher: STUDENT). PDF pages: 98 (cover verified against the record title; 14,184,052 bytes = release asset size). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/afghanistan-placements.md.
 
+**Book 7:** *جغرافية العالم — World Geography, Grade 9 of Basic Education* (student book, Arabic) — State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2019–2020 (1440–1441 AH); ISBN no ISBN printed. Title as printed: جغرافية العالم — World Geography, Grade 9 of Basic Education. Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 168 (cover verified visually: "جغرافية العالم للصف التاسع" — matches record; text layer is font-garbled, read via 100-DPI 4-up contact sheets; grabbed via grab.py release route, size verified by grab.py). Verdict: COMPLETE. TSV release records and books.json records are the same 8 books (each title appears once in each source) — read once via grab.py (GitHub API, size verified), as the placements file header records. Combined Social Studies books (Grades 5–6): Geography parts placed; History/Civics parts named in headers only. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/libya-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The list — six African climate types | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 2, printed pp. 32–36 |
@@ -23,8 +25,9 @@ countries: Ethiopia, Colombia, Rwanda, Sudan, Afghanistan
 | Rwanda part — 6.3.1 Types of climate, with the characteristics of Rwanda's climate (Unit 6) | Rwanda, *Rwanda Grade 6 Social Studies SB*, 6.3.1 Types of climate, with the characteristics of Rwanda's climate (Unit 6) — printed p. 166 |
 | Sudan part — Africa's climatic regions | Sudan, *Sudan Grade 7 SD Geography 7*, Africa's climatic regions — printed p. 26 |
 | Afghanistan part — Ch. 1 Lessons 8–9: Africa's climate; its different climatic areas | Afghanistan, *Afghanistan Grade 9 Geography (Dari)*, Ch. 1 Lessons 8–9: Africa's climate; its different climatic areas — printed p. 23 |
+| Libya part — Ch.1 Africa: المناخ — Africa's climate (July and January maps) | Libya, *Libya Grade 9 LY G9 World Geography*, Ch.1 Africa: المناخ — Africa's climate (July and January maps) — printed p. 31 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Colombia, Rwanda, Sudan, Afghanistan).**
+**Acceptance count: taught in 6 countries (Ethiopia, Colombia, Rwanda, Sudan, Afghanistan, Libya).**
 
 Pairing: the teacher guide was first published in 2022 and the student textbook in 2023, with the same writers and the same eight units in the same order; the student book is the learner text of record, and teacher-guide rows above are evidence only.
 
@@ -39,3 +42,5 @@ Rwanda's own way (Rwanda Grade 6 Social Studies SB): the P6 pupil's book is the 
 Sudan's own way (Sudan Grade 7 SD Geography 7): A continents book: after a world opener (continents, oceans, relief, world environments), each continent — Africa, Asia, Europe — gets the same treatment in the same order (relief, drainage, climate, vegetation, population, economic activity, environmental problems), closing with a British Isles case study; Sudan and Africa anchor the examples throughout.
 
 Afghanistan's own way (Afghanistan Grade 9 Geography (Dari)): the continent march finishes with Africa, then Australia/Oceania and Antarctica — same fixed order per continent as Grade 8, with a data table of the independent countries of Africa appended to the Africa chapter.
+
+Libya's own way (Libya Grade 9 LY G9 World Geography): A continent-by-continent world survey built on one repeated pattern — every continent gets location, surface features, climate (with summer/winter maps), climate-and-vegetation regions, population (with density map) and economic resources (agriculture, livestock, minerals and energy tables) — starting with Africa because, as the preface says, Libya's own continent links three continents and controls world trade routes.

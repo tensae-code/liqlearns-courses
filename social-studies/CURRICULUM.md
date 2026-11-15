@@ -5445,3 +5445,189 @@ in 1 country (Pakistan), 8 questions each; all stand on
 student books (Pakistan has no teacher guides in this
 wave).
 Geography lessons: 2262 → 2348.
+
+
+## Libya — Geography expansion (merged 2026-11-15)
+206 placement lines stocked from Libya's 16 records / 8
+distinct books, all State of Libya, Ministry of
+Education — Center for Educational Curricula and
+Educational Research student books, Arabic, 2019–2020
+(1440–1441 AH), no ISBN printed — Social Studies Grades
+5 and 6 (combined History/Geography books; Geography
+parts placed, History parts named in the placements
+headers, not placed), Geography of Libya Grade 7,
+Geography of the Arab World Grades 8 and 11, World
+Geography Grade 9, Principles of General Geography
+Grade 10 and Environmental Geography Grade 12 — all
+COMPLETE, so every placed book counts toward
+acceptance; there are no teacher guides. TSV release
+records and books.json records are the same 8 books
+(each title once in each source), read once via grab.py
+(GitHub API, size verified). The placements file's book
+tallies (15 + 20 + 22 + 26 + 36 + 41 + 29 + 17) sum to
+206 and agree with the line-by-line count, and the
+existing/NEW split agrees too (110 existing-flagged /
+96 NEW-flagged). Stocked into standing lessons (127
+placements across 79 lessons): the existing-flagged
+placements at the slug the placements file names where
+it stands, 10 NEW-flagged placements whose slugs
+already stand —
+earth-and-space/solar-and-lunar-eclipses,
+global-issues/noise-pollution,
+the-land-and-air/europe-location-and-surface,
+the-land-and-air/europe-climate-and-vegetation-regions,
+the-land-and-air/north-america-location-and-surface and
+the-land-and-air/south-america-location-and-surface —
+and 44 placements remapped to the closest standing
+lesson covering the thing (original slug recorded in
+each provenance row): earth-and-space/earth-is-round →
+earth-and-space/earth-place-shape-and-size,
+earth-and-space/latitude-and-longitude →
+population-transport-and-maps/maps-and-globes-latitude-and-longitude,
+earth-and-space/latitude-and-longitude-how-gps-uses-it
+→ population-transport-and-maps/maps-and-globes-gps,
+earth-and-space/local-time-and-time-zones →
+earth-and-space/time-zones,
+earth-and-space/rotation-and-revolution →
+earth-and-space/movements-rotation-and-revolution,
+earth-and-space/space-and-satellites-looking-down →
+earth-and-space/artificial-satellites-and-their-uses,
+earth-and-space/the-solar-system →
+earth-and-space/the-solar-system-the-sun-and-planets,
+global-issues/air-pollution-smoke-and-health →
+global-issues/air-pollution,
+global-issues/arab-world-food-problem-and-food-security
+→ global-issues/arab-food-problem (2 placements),
+global-issues/sustainable-development-using-without-wasting
+→
+resources-and-conflict/sustainable-development-meeting-needs-without-stealing-the-future,
+global-issues/water-pollution-dirty-water-harms →
+global-issues/water-pollution-and-shrinking-clean-water,
+people-and-resources/factors-that-decide-where-farming-works
+→ people-and-resources/factors-in-agriculture,
+people-and-resources/fishing-where-fish-are-caught →
+culture-and-work/primary-activities-fishing-grounds,
+people-and-resources/mining-and-quarrying →
+culture-and-work/primary-activities-mining,
+people-and-resources/resources-renewable-and-non-renewable
+→ culture-and-work/primary-activities-forest-products,
+population-transport-and-maps/gis-geographic-information-systems
+→
+population-transport-and-maps/gis-maps-that-answer-questions,
+population-transport-and-maps/history-of-maps-from-babylon-to-google
+→ the-land-and-air/maps-through-history,
+population-transport-and-maps/population-density-and-overpopulation
+→
+people-and-resources/over-population-too-many-for-the-resources,
+population-transport-and-maps/population-growth-births-deaths-migration
+→
+population-transport-and-maps/what-makes-populations-change,
+population-transport-and-maps/remote-sensing →
+the-land-and-air/remote-sensing,
+population-transport-and-maps/rural-and-urban-settlements
+→
+population-transport-and-maps/rural-settlement-patterns,
+population-transport-and-maps/urbanisation-the-growth-of-cities
+→
+population-transport-and-maps/what-settlements-do-functions-of-places,
+resources-and-conflict/alternative-energy-solar-wind-hydro-geothermal
+→
+people-and-resources/arab-electricity-and-alternative-energy,
+the-land-and-air/air-pressure-and-wind →
+the-land-and-air/the-rest-of-the-weather-station,
+the-land-and-air/arab-world-location-extent-and-borders
+→
+the-land-and-air/the-arab-world-location-and-importance
+(3 placements),
+the-land-and-air/earthquakes-where-they-strike →
+the-land-and-air/land-shaping-forces-earthquakes (2
+placements), the-land-and-air/glaciers-rivers-of-ice →
+the-land-and-air/landforms-made-by-glaciers,
+the-land-and-air/inside-the-earth-crust-mantle-core →
+earth-and-space/inside-the-earth,
+the-land-and-air/rain-how-it-falls-relief-convectional-cyclonic
+→
+the-land-and-air/types-of-rainfall-relief-convectional-and-frontal,
+the-land-and-air/rivers-shape-the-land-erosion-and-deposition
+→
+the-land-and-air/river-landforms-from-v-valley-to-delta,
+the-land-and-air/temperature-how-hot-how-cold →
+the-land-and-air/the-elements-we-measure,
+the-land-and-air/volcanoes-mountains-that-erupt →
+the-land-and-air/land-shaping-forces-volcanism-magma-and-lava,
+the-land-and-air/waves-shape-the-coast →
+the-land-and-air/coastal-landforms-caves-arches-stacks-and-beaches,
+the-land-and-air/weathering-rocks-break-down →
+the-land-and-air/weathering-and-erosion-in-mountains-and-deserts,
+the-land-and-air/what-is-climate →
+the-land-and-air/weather-and-climate-the-difference-and-the-elements,
+the-land-and-air/wind-shapes-the-land-dunes-and-yardangs
+→ the-land-and-air/wind-erosion-and-desert-landforms,
+the-land-and-air/winds-patterns-of-moving-air →
+the-land-and-air/coasts-winds-and-pressure-belts-the-other-climate-controls,
+the-land-and-air/world-vegetation-belts →
+the-land-and-air/world-natural-vegetation-zones,
+the-land-and-air/folded-and-faulted-mountains →
+the-land-and-air/land-shaping-forces-folding (folds
+part) and the-land-and-air/land-shaping-forces-faulting
+(faults part). 45 NEW lessons built (79 placements, all
+flagged NEW) — **Earth and Space**: The Universe And
+Astronomy Arab And Western Scholars (printed p. 17);
+**The Land and Air**: Africa Location And
+Characteristics (printed p. 13), Arab World Climate
+(printed p. 33; printed p. 36; printed p. 39; printed
+p. 40; printed p. 46; printed p. 54), Arab World
+Natural Vegetation (printed p. 46; printed p. 48;
+printed p. 49; printed p. 51; printed p. 66), Arab
+World Relief Plateaus Mountains Plains (printed p. 21;
+printed p. 25; printed p. 28; printed p. 24; printed p.
+28; printed p. 31; printed p. 34), Arab World Soils
+(printed p. 62), Asia Climate And Vegetation Regions
+(printed p. 67; printed p. 69), Asia Location And
+Surface (printed p. 61; printed p. 62), Australia
+Climate And Vegetation Regions (printed p. 155; printed
+p. 157), Australia Location And Surface (printed p.
+151; printed p. 152), Libya Climate Elements And
+Regions (printed p. 14; printed p. 19), Libya Location
+Area And Importance (printed p. 8; printed p. 9), Libya
+Natural Vegetation (printed p. 22), Libya Relief Plains
+Mountains And Desert (printed p. 9), Libya Soils
+(printed p. 20), Libya Water Resources (printed p. 21),
+North America Climate And Vegetation Regions (printed
+p. 112; printed p. 115), Reading Distribution Maps Of
+Libya (printed p. 98), South America Climate And
+Vegetation Regions (printed p. 136; printed p. 138),
+Wild Animals And Their Habitats (printed p. 90), World
+Environment Biomes (printed p. 29); **Population,
+Transport and Maps**: Arab World Population Problems
+And Structure (printed p. 96), Libya Urban Centres
+(printed p. 28), Problems Of Cities And Villages
+(printed p. 69; printed p. 76); **People and
+Resources**: Africa Economic Resources (printed p. 47),
+Arab World Agricultural Production (printed p. 62;
+printed p. 104; printed p. 108), Arab World Aquatic
+Wealth Fish Sponge Pearl Coral (printed p. 141), Arab
+World Cash Crops Cotton Tobacco Sugar (printed p. 122),
+Arab World Food Grains Wheat Barley Maize (printed p.
+118), Arab World Fruit Trees Olives And Dates (printed
+p. 127), Arab World Mineral Production Oil And Gas
+(printed p. 79; printed p. 150; printed p. 160; printed
+p. 164), Arab World Water Wealth (printed p. 76;
+printed p. 78; printed p. 82), Asia Economic Resources
+(printed p. 76), Australia Economic Resources (printed
+p. 162), Europe Economic Resources (printed p. 99),
+Libya Mineral Wealth And Oil (printed p. 39), North
+America Economic Resources (printed p. 120), South
+America Economic Resources (printed p. 143); **Global
+Issues**: Aquatic Environments (printed p. 27), Food
+Chains And Cycles Carbon Nitrogen (printed p. 18), Food
+Pollution (printed p. 106), Protecting The Environment
+Forests Animals And Cities (printed p. 117; printed p.
+118; printed p. 119), Soil Pollution (printed p. 101),
+The Environment And Ecosystems (printed p. 12), The
+Social Environment And Balance With Nature (printed p.
+46; printed p. 54) — all 45 of the new lessons are
+taught in 1 country (Libya), 8 questions each; all
+stand on student books (Libya has no teacher guides in
+this wave).
+Geography lessons: 2348 → 2393.
