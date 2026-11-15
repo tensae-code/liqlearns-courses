@@ -103,7 +103,7 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **1150**
+Geography lessons across the eight Geography titles: **1197**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -711,3 +711,39 @@ Issues: Lightning and How to Stay Safe, What a Disaster
 Is — Natural and Man-Made, Epidemics — When Disease
 Spreads and Locusts and Armyworms — Pests That Eat the
 Crops.
+
++47 for India, 2026-11-14 — Earth and Space: The Moon —
+Earth's Only Satellite; The Land and Air: Landforms and
+Human Life, India — Location, Size and Neighbours,
+India — Physical Divisions, India — Climate and the
+Monsoon, India — Natural Vegetation and Forests, The
+Water Cycle, Waves, Tides and Ocean Currents, World
+Vegetation Belts and Their Wildlife, Life in the Amazon
+Basin, Life in the Ganga-Brahmaputra Basin, Life in the
+Sahara, Life in Ladakh — Cold Desert, Soil Types of
+India and Soil Conservation, India — Size and Location,
+How India's Landforms Were Made, India — Physiographic
+Divisions in Depth, India — Drainage Basins and
+Patterns, Himalayan Rivers — Indus, Ganga, Brahmaputra,
+Peninsular Rivers of India, India — Monsoon, How It
+Works, India — Seasons and Rainfall, India — Natural
+Vegetation Types and Soils of India — Classification;
+Population, Transport and Maps: India — States and
+Union Territories, Communication and Mass Media, India
+— Population Policy and Adolescents and Communication
+in India; People and Resources: Minerals — Where They
+Are Found, India and the World, People as a Resource
+and India — Mineral Belts and Mining; Culture and Work:
+Major Crops — Food, Fibre and Beverage, A Farm in India
+and a Farm in the USA, Major Industrial Regions of the
+World and India, Iron and Steel Industry — Jamshedpur,
+Cotton Textiles and Information Technology, India —
+Major Crops in Depth, India — Agriculture Reforms and
+Globalisation, India — Agro-Based Industries and India
+— Mineral-Based Industries; Resources and Conflict:
+Power Resources — Conventional and Non-Conventional,
+India — Multipurpose Projects and Dams, Rainwater
+Harvesting in India and India — Energy Resources;
+Global Issues: India — Wildlife and Its Conservation,
+Ecosystems — How Living and Non-Living Fit Together and
+India — Forest and Wildlife Conservation.

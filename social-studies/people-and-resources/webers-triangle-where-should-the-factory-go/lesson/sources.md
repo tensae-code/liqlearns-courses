@@ -1,6 +1,6 @@
 # Sources — Weber's triangle — where should the factory go?
 
-countries: Ethiopia, Barbados, Indonesia
+countries: Ethiopia, Barbados, Indonesia, India
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Barbados, Indonesia
 
 **Book 4:** *Geografi untuk SMA/MA Kelas XII* (student book, Indonesian) — Indonesia, Pusat Perbukuan, Kemendikbudristek; year 2022 (Cetakan Pertama); ISBN 978-602-427-914-1 (jil. 2); author Budi Handoyo. Title as printed: Geografi untuk SMA/MA Kelas XII. Grade 12 / SMA/MA Kelas XII (student). 288 PDF pp. (cover verified: "GEOGRAFI — SMA/MA Kelas XII", Kemendikbudristek 2022; xii + 276 printed pages). Verdict: COMPLETE. Records: 8 records / 4 distinct books in total for Indonesia (4 TSV release records + 4 books.json records that are the same 4 books by grade/kind — duplicate records, taught once). Library debts carried exactly as the placements state: the books.json records for all 4 Indonesia Geografi titles carry tree paths (grade-XX/gov/indonesia/geografi/…) that return 404 in the repo tree — the files actually live in GitHub releases mid-size-books-2 and mid-size-books-7, so the in_pushed tree records are misleading; the books.json source_url for both student books is truncated with "…" and cannot be used as recorded. Read full page-by-page via pdftotext -layout after cover verification; grabbed via grab.py (GitHub Releases API route for the TSV records). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/indonesia-placements.md.
 
+**Book 5:** *Resources and Development — Textbook in Geography for Class VIII (Social Science)* (student book, English) — India, NCERT, New Delhi; first edition February 2008, this copy reprint 2020-21; ISBN 978-81-7450-816-4. Title as printed: Resources and Development — Textbook in Geography for Class VIII (Social Science). Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 80 (cover render verified: "Resources and Development, Textbook in Geography for Class VIII, NCERT 2020-21"; grabbed via grab.py release route, 16,558,814 bytes; duplicate TSV + books.json records grade-08/gov/india/resources-and-development.pdf counted once). Verdict: COMPLETE — 6 chapters, printed pp. 1-71. Records note: 34 records / 17 distinct books (17 TSV records in grades 6-10 + 17 books.json records that are the same books by grade/subject — duplicate records of the same NCERT titles); the 5 Geography books were read full page-by-page via pdftotext -layout after cover verification; the other 12 books are record-only (History, Civics, Economics) with no Geography content, filed for later waves. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/india-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The least-cost idea | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 5, printed pp. 129–131 |
@@ -18,8 +20,9 @@ countries: Ethiopia, Barbados, Indonesia
 | Teaching sequence and answer keys (teacher guide — evidence) | Ethiopia, *Geography, Teacher Guide, Grade 11*, Unit 5, guide printed pp. 136–157 |
 | Barbados part — factors influencing industrial location | Barbados, *Geography for CSEC — 2nd Edition*, Grade 10, Ch. 11: factors influencing industrial location — printed p. 254 |
 | Indonesia part (Grade 12) — Bab 1 A Teori lokasi optimum | Indonesia, *Geografi untuk SMA/MA Kelas XII*, Grade 12, Bab 1 A Teori lokasi optimum — printed p. 19 |
+| India part (Grade 8 Resources and Development) — Ch.5: factors affecting the location of industries | India, *India Grade 8 Resources and Development*, Ch.5: factors affecting the location of industries — printed p. 52 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Barbados, Indonesia).**
+**Acceptance count: taught in 4 countries (Ethiopia, Barbados, Indonesia, India).**
 
 Indonesia's own way (Grade 12): Grade 12 is applied human geography built entirely on Indonesian cases — regional development and spatial planning (tata ruang) measured against a Happiness Index, Industry 4.0 / Society 5.0, and Indonesia's own geopolitics and ASEAN-era cooperation as pillars of national resilience. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -28,3 +31,5 @@ Barbados's own way: this is the shared Caribbean CSEC examination textbook used 
 No book error is flagged for this lesson's pages in the placements. The student book's body numbering for Unit Two drifts from its own contents (regions printed as 2.4, factors as 2.5, local classification as 2.6, where the contents and the teacher guide's contents agree on 2.3, 2.4 and 2.5); this lesson follows the contents numbering and teaches no misprint.
 
 Searchable tags: weber, least cost theory, material index, industrial location, ethiopia, social studies, people and resources
+
+India's own way (Grade 8 Resources and Development): Grade 8 is a resources year, world-first but India-anchored throughout: resources and their conservation, then land/soil/water/vegetation, minerals and power, agriculture, industries and human resources — every world pattern is paired with its Indian distribution map and an Indian case study (Jamshedpur steel, Ahmedabad textiles, Bangalore IT, a farm in India set against a farm in the USA).

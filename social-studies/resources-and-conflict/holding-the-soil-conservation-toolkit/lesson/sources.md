@@ -1,6 +1,6 @@
 # Sources — Holding the soil — conservation toolkit
 
-countries: Ethiopia, Angola, Eritrea
+countries: Ethiopia, Angola, Eritrea, India
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Angola, Eritrea
 
 **Book 4:** *ማሕበራዊ ትምህርቲ ን4ይ ክፍሊ — መጽሓፍ ተማሃሮ (Social Studies for Grade 4 — Student's Book)* (student book, Tigrinya) — Eritrea, Ministry of Education, The State of Eritrea; year 2009; ISBN no ISBN printed on the pages checked. Title as printed: ማሕበራዊ ትምህርቲ ን4ይ ክፍሊ — መጽሓፍ ተማሃሮ (Social Studies for Grade 4 — Student's Book). Grade 4 (student/teacher: STUDENT). PDF pages: 159 (cover/title page verified against the record title; 30,437,268 bytes and 159 pages, both match the record; fetched via the Releases API asset route — mid-size-books-5 — because the file is not in the git tree). Verdict: COMPLETE (Tigrinya text read page by page via pdftotext; unit and section titles translated from the printed contents, printed pp. v–vi). Records note: 7 records / 5 distinct books; the TSV release records for Grades 4 and 5 duplicate the books.json tree records of the same repo path (one book each); read via grab (curl-based GitHub API route with byte-size + blob-SHA verification), covers verified by render, full text read via pdftotext -layout. Combined Social Studies books: Geography parts placed; History/Civics parts named in each book header only. Named, not placed — History parts (named, not placed): Chapter 1 ዝሓለፈ ታሪኽና ንዳህስስ Exploring Our Past (oral history; places and buildings as sources), printed p. 1; Chapter 2 ግዜን ኣጥቓቕማኡን Time and Its Use (past, present, future; counting time), printed p. 11; Chapter 9 ታሪኽ ኤርትራ History of Eritrea, printed p. 131 Civics / Sociology parts (named, not placed): Chapter 7 ኮም Community — what a community is, how communities form, living together, work administration, supporting communities, change in communities, printed pp. 85–107 (its work and rural/urban sections are placed below) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/eritrea-placements.md.
 
+**Book 5:** *Contemporary India-II — Textbook in Geography for Class X (Social Science)* (student book, English) — India, NCERT, New Delhi; first edition January 2006, this copy reprint 2020-21; ISBN 81-7450-644-6. Title as printed: Contemporary India-II — Textbook in Geography for Class X (Social Science). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 101 (cover render verified: "Contemporary India II, Textbook in Geography for Class X, NCERT 2020-21"; grabbed via grab.py release route, 15,769,167 bytes; duplicate TSV + books.json records grade-10/gov/india/class10-social-science-geography.pdf counted once). Verdict: COMPLETE — 7 chapters, printed pp. 1-91 + appendices and glossary to p. 96. Records note: 34 records / 17 distinct books (17 TSV records in grades 6-10 + 17 books.json records that are the same books by grade/subject — duplicate records of the same NCERT titles); the 5 Geography books were read full page-by-page via pdftotext -layout after cover verification; the other 12 books are record-only (History, Civics, Economics) with no Geography content, filed for later waves. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/india-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Biological measures | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 7, printed pp. 182–185 |
@@ -17,11 +19,14 @@ countries: Ethiopia, Angola, Eritrea
 | Teaching pattern and answer keys (teacher guide — evidence) — Grade 9 Unit 7 | Ethiopia, *Geography, Teacher Guide, Grade 9*, Unit 7, guide printed pp. 207–230 |
 | Angola part — 4.5 Medidas para a protecção dos solos | Angola, *Geografia 6ª Classe*, Grade 6, 4.5 Medidas para a protecção dos solos — printed p. 64 |
 | Eritrea part (ER G4 Social Studies) — Chapter 4: 4.2 Protecting our soil | Eritrea, *ER G4 Social Studies*, Chapter 4: 4.2 Protecting our soil — printed p. 37 |
+| India part (Grade 10 Contemporary India-II) — Ch.1: soil erosion (gully erosion, sheet erosion) and soil conservation in hills, plains and desert | India, *India Grade 10 Contemporary India-II*, Ch.1: soil erosion (gully erosion, sheet erosion) and soil conservation in hills, plains and desert — printed p. 11 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Angola, Eritrea).**
+**Acceptance count: taught in 4 countries (Ethiopia, Angola, Eritrea, India).**
 
 Searchable tags: soil conservation, afforestation, reforestation, terracing, contour ploughing, area closure, social studies
 
 Angola's own way (Grade 6): a resources-and-environment year — every world topic (air, water, soils, forests) is closed with the Angolan case: Angola's fresh-water use, Angola's farm land, Angola's forest areas. That way is stocked here as the way Angola teaches this thing.
 
 Eritrea's own way (ER G4 Social Studies): the Tigrinya-medium primary book teaches Geography through the child's own surroundings first — our environment, protecting our soil, water, plants and animals, then maps and globes, community life, and the shapes of the land.
+
+India's own way (Grade 10 Contemporary India-II): Contemporary India-II is the human/economic book, matching Part I's physical book: India's resources, forests, water, agriculture, minerals and energy, manufacturing and the "lifelines" (transport, communication, trade) — taught throughout as development-versus-environment argument, with movements and case studies (Chipko, Narmada Bachao, rooftop rainwater harvesting in the Thar) carrying the criticism.

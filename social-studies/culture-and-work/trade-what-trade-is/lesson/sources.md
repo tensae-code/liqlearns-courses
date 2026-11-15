@@ -1,6 +1,6 @@
 # Sources — Trade — what trade is
 
-countries: Ethiopia, Suriname, Mongolia, Palestine, Colombia, Eritrea
+countries: Ethiopia, Suriname, Mongolia, Palestine, Colombia, Eritrea, India
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 2 — Population Studies and Socio-Economic Activities, printed pp. 44–76).
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Suriname, Mongolia, Palestine, Colombia, Eritrea
 
 **Book 8:** *ማሕበራዊ ትምህርቲ ን5ይ ክፍሊ — መጽሓፍ ተማሃሮ (Social Studies for Grade 5 — Student's Book)* (student book, Tigrinya) — Eritrea, Ministry of Education, The State of Eritrea; year 2010; ISBN no ISBN printed on the pages checked. Title as printed: ማሕበራዊ ትምህርቲ ን5ይ ክፍሊ — መጽሓፍ ተማሃሮ (Social Studies for Grade 5 — Student's Book). Grade 5 (student/teacher: STUDENT). PDF pages: 190 (cover/title page verified against the record title; 35,645,487 bytes and 190 pages, both match the record; fetched via the Releases API asset route — mid-size-books-5 — because the file is not in the git tree). Verdict: COMPLETE (Tigrinya text read via pdftotext; unit and section titles translated from the printed contents, printed pp. vi–vii). Records note: 7 records / 5 distinct books; the TSV release records for Grades 4 and 5 duplicate the books.json tree records of the same repo path (one book each); read via grab (curl-based GitHub API route with byte-size + blob-SHA verification), covers verified by render, full text read via pdftotext -layout. Combined Social Studies books: Geography parts placed; History/Civics parts named in each book header only. Named, not placed — History parts (named, not placed): Chapter 5 section 5.2 Ancient Activities on the Red Sea, printed p. 45; Chapter 6 ምንጪ ሓበሬታ Sources of Information — archaeology, artefacts and museums (except the Eritrean heritage-sites section placed below), printed p. 61; Chapter 10 ታሪኽ ኤርትራ History of Eritrea, printed p. 124 Civics parts (named, not placed): Chapter 1 sections 1.2–1.3 Regional administrations, their bodies, divisions and duties, printed pp. 3–5 Placements at liqlearns-courses-work/expansion-geography-2026-11-14/eritrea-placements.md.
 
+**Book 9:** *Our Environment — Textbook in Geography for Class VII (Social Science)* (student book, English) — India, NCERT, New Delhi; first edition March 2007, this copy reprint 2020-21; ISBN 81-7450-714-0. Title as printed: Our Environment — Textbook in Geography for Class VII (Social Science). Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 84 (cover render verified: "Our Environment, Textbook in Geography for Class VII, NCERT 2020-21"; grabbed via grab.py release route, 23,494,641 bytes; duplicate TSV + books.json records grade-07/gov/india/our-environment.pdf counted once). Verdict: COMPLETE — 9 chapters, printed pp. 1-71 + appendix p. 72. Records note: 34 records / 17 distinct books (17 TSV records in grades 6-10 + 17 books.json records that are the same books by grade/subject — duplicate records of the same NCERT titles); the 5 Geography books were read full page-by-page via pdftotext -layout after cover verification; the other 12 books are record-only (History, Civics, Economics) with no Geography content, filed for later waves. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/india-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — No one finds everything where they are | Ethiopia, *Social Studies Student Textbook, Grade 8* (Amhara Bureau), printed p. 66 |
@@ -29,8 +31,9 @@ countries: Ethiopia, Suriname, Mongolia, Palestine, Colombia, Eritrea
 | Colombia part (CS_Grado05_02) — Unidad 7 Guía 14 El dinero y el intercambio económico | Colombia, *Ciencias Sociales 5 — Segunda Cartilla, Escuela Nueva*, Unidad 7 Guía 14 El dinero y el intercambio económico — printed pp. 80–89 |
 | Eritrea part (ER G8 Social Studies) — Unit 9: 9.3 Trade | Eritrea, *ER G8 Social Studies*, Unit 9: 9.3 Trade — printed p. 142 |
 | Eritrea part (ER G5 Social Studies) — Chapter 7 ንግድን መጓዓዝያን Trade and Transport: 7.1 Trade | Eritrea, *ER G5 Social Studies*, Chapter 7 ንግድን መጓዓዝያን Trade and Transport: 7.1 Trade — printed p. 79 |
+| India part (Grade 7 Our Environment) — Ch.1: needs, surplus and the barter system — how trade began | India, *India Grade 7 Our Environment*, Ch.1: needs, surplus and the barter system — how trade began — printed p. 5 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Suriname, Mongolia, Palestine, Colombia, Eritrea).**
+**Acceptance count: taught in 7 countries (Ethiopia, Suriname, Mongolia, Palestine, Colombia, Eritrea, India).**
 
 Mongolia's own way (Grade 8): the Grade 8 year is the LOCAL year — every chapter is re-anchored to the child's own орон нутаг (local area/homeland): its environment and problems, its heritage, its economy and market, its governance. The book's Law/Civics parts (Chapters IV–V, printed pp. 63–94) are named in the placements, not placed. That way is stocked here as the way Mongolia teaches this thing.
 
@@ -47,3 +50,5 @@ Colombia's own way (CS_Grado05_02): Grade 5's second cartilla turns from history
 Eritrea's own way (ER G8 Social Studies): Grade 8 is the Eritrea-physical-geography year — relief, hydrology and water shortage, people-environment adaptation and Eritrea's strategic Red Sea location are taught as four full Geography units before the History units begin.
 
 Eritrea's own way (ER G5 Social Studies): Grade 5 widens from the village to the world — Eritrea's regions (zobas) and neighbours, the continents, islands, oceans, seas, lakes and rivers of the Earth, then back home to the Red Sea, trade and transport, maps and weather.
+
+India's own way (Grade 7 Our Environment): Grade 7 is organised around "environment" in widening rings — the concept itself, then inside/changing Earth, air and water, world vegetation belts, human settlement and transport, and finally three lived-in region studies (Amazon basin, Ganga-Brahmaputra basin, Sahara and Ladakh deserts) where all the strands meet in real places.

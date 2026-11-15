@@ -1,6 +1,6 @@
 # Sources — What size and shape do to a country
 
-countries: Ethiopia, Turkmenistan, Eritrea
+countries: Ethiopia, Turkmenistan, Eritrea, India
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Turkmenistan, Eritrea
 
 **Book 4:** *Social Studies for Grade 8 — Textbook* (student book, English) — Eritrea, Ministry of Education, The State of Eritrea; year 2011; ISBN 99948-1-592-X. Title as printed: Social Studies for Grade 8 — Textbook. Grade 8 (student/teacher: STUDENT). PDF pages: 157 (cover/title page verified against the record title; 4,716,045 bytes and 157 pages, both match the record). Verdict: COMPLETE. Records note: 7 records / 5 distinct books; the TSV release records for Grades 4 and 5 duplicate the books.json tree records of the same repo path (one book each); read via grab (curl-based GitHub API route with byte-size + blob-SHA verification), covers verified by render, full text read via pdftotext -layout. Combined Social Studies books: Geography parts placed; History/Civics parts named in each book header only. Named, not placed — History parts (named, not placed): Unit 5 Expansionism and Resistance against Colonial Rule, printed p. 64; Unit 6 Colonial Administrations in Eritrea, printed p. 89; Unit 7 Highlights of the Eritrean Armed Struggle, printed p. 105; Unit 8 Post Independence Developments, printed p. 116 Placements at liqlearns-courses-work/expansion-geography-2026-11-14/eritrea-placements.md.
 
+**Book 5:** *Contemporary India-I — Textbook in Geography for Class IX (Social Science)* (student book, English) — India, NCERT, New Delhi; first edition March 2006, this copy reprint 2020-21; ISBN 81-7450-520-2. Title as printed: Contemporary India-I — Textbook in Geography for Class IX (Social Science). Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 76 (cover render verified: "Contemporary India-I, Textbook in Geography for Class IX, NCERT 2020-21"; grabbed via grab.py release route, 21,811,274 bytes; duplicate TSV + books.json records grade-09/gov/india/class9-social-science-geography.pdf counted once). Verdict: COMPLETE — 6 chapters, printed pp. 1-62 + glossary. Records note: 34 records / 17 distinct books (17 TSV records in grades 6-10 + 17 books.json records that are the same books by grade/subject — duplicate records of the same NCERT titles); the 5 Geography books were read full page-by-page via pdftotext -layout after cover verification; the other 12 books are record-only (History, Civics, Economics) with no Geography content, filed for later waves. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/india-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Effects of size | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 1, printed pp. 15–17 |
@@ -17,11 +19,14 @@ countries: Ethiopia, Turkmenistan, Eritrea
 | Teaching pattern and answer keys (teacher guide — evidence) — Grade 9 Unit 1 | Ethiopia, *Geography, Teacher Guide, Grade 9*, Unit 1, guide printed pp. 1–34 |
 | Turkmenistan part — §3 Territory and structure of the state | Turkmenistan, *Dünýäniň ykdysady we durmuş geografiýasy (World Economic and Social Geography)*, Grade 10, §3 Territory and structure of the state — printed p. 17 |
 | Eritrea part (ER G8 Social Studies) — Unit 4: 4.2 Size and Shape | Eritrea, *ER G8 Social Studies*, Unit 4: 4.2 Size and Shape — printed p. 55 |
+| India part (Grade 9 Contemporary India-I) — Ch.1: why India's size and central position matter | India, *India Grade 9 Contemporary India-I*, Ch.1: why India's size and central position matter — printed p. 3 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Turkmenistan, Eritrea).**
+**Acceptance count: taught in 4 countries (Ethiopia, Turkmenistan, Eritrea, India).**
 
 Searchable tags: size and shape effects, administration, defence, national integration, compact state, social studies
 
 Turkmenistan's own way (Grade 10): A classic post-Soviet economic-and-social geography of the whole world in one book: Part I general world (political map, resources, population, world economy by sector), Part II the same template region by region and country by country, Part III global problems — with Turkmenistan's own memberships and ecological policy woven into the questions.
 
 Eritrea's own way (ER G8 Social Studies): Grade 8 is the Eritrea-physical-geography year — relief, hydrology and water shortage, people-environment adaptation and Eritrea's strategic Red Sea location are taught as four full Geography units before the History units begin.
+
+India's own way (Grade 9 Contemporary India-I): From Grade 9 the Geography book is India alone, in depth — Contemporary India-I is the physical book: size and location, physiography built from plate tectonics, drainage, the monsoon system, vegetation and wildlife, and population, each chapter working from India's own maps and census data.

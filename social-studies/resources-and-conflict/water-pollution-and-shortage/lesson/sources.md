@@ -1,6 +1,6 @@
 # Sources — Careless Use — Water Pollution and Shortage
 
-countries: Ethiopia, Angola, Malaysia, Eritrea
+countries: Ethiopia, Angola, Malaysia, Eritrea, India
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (placement 67).
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Angola, Malaysia, Eritrea
 
 **Book 4:** *ማሕበራዊ ትምህርቲ ን4ይ ክፍሊ — መጽሓፍ ተማሃሮ (Social Studies for Grade 4 — Student's Book)* (student book, Tigrinya) — Eritrea, Ministry of Education, The State of Eritrea; year 2009; ISBN no ISBN printed on the pages checked. Title as printed: ማሕበራዊ ትምህርቲ ን4ይ ክፍሊ — መጽሓፍ ተማሃሮ (Social Studies for Grade 4 — Student's Book). Grade 4 (student/teacher: STUDENT). PDF pages: 159 (cover/title page verified against the record title; 30,437,268 bytes and 159 pages, both match the record; fetched via the Releases API asset route — mid-size-books-5 — because the file is not in the git tree). Verdict: COMPLETE (Tigrinya text read page by page via pdftotext; unit and section titles translated from the printed contents, printed pp. v–vi). Records note: 7 records / 5 distinct books; the TSV release records for Grades 4 and 5 duplicate the books.json tree records of the same repo path (one book each); read via grab (curl-based GitHub API route with byte-size + blob-SHA verification), covers verified by render, full text read via pdftotext -layout. Combined Social Studies books: Geography parts placed; History/Civics parts named in each book header only. Named, not placed — History parts (named, not placed): Chapter 1 ዝሓለፈ ታሪኽና ንዳህስስ Exploring Our Past (oral history; places and buildings as sources), printed p. 1; Chapter 2 ግዜን ኣጥቓቕማኡን Time and Its Use (past, present, future; counting time), printed p. 11; Chapter 9 ታሪኽ ኤርትራ History of Eritrea, printed p. 131 Civics / Sociology parts (named, not placed): Chapter 7 ኮም Community — what a community is, how communities form, living together, work administration, supporting communities, change in communities, printed pp. 85–107 (its work and rural/urban sections are placed below) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/eritrea-placements.md.
 
+**Book 5:** *Contemporary India-I — Textbook in Geography for Class IX (Social Science)* (student book, English) — India, NCERT, New Delhi; first edition March 2006, this copy reprint 2020-21; ISBN 81-7450-520-2. Title as printed: Contemporary India-I — Textbook in Geography for Class IX (Social Science). Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 76 (cover render verified: "Contemporary India-I, Textbook in Geography for Class IX, NCERT 2020-21"; grabbed via grab.py release route, 21,811,274 bytes; duplicate TSV + books.json records grade-09/gov/india/class9-social-science-geography.pdf counted once). Verdict: COMPLETE — 6 chapters, printed pp. 1-62 + glossary. Records note: 34 records / 17 distinct books (17 TSV records in grades 6-10 + 17 books.json records that are the same books by grade/subject — duplicate records of the same NCERT titles); the 5 Geography books were read full page-by-page via pdftotext -layout after cover verification; the other 12 books are record-only (History, Civics, Economics) with no Geography content, filed for later waves. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/india-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Whole lesson opening — pupils name a local pollution and a local shortage example | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 3, printed pp. 87–88 |
@@ -18,8 +20,9 @@ countries: Ethiopia, Angola, Malaysia, Eritrea
 | Angola part — 3.4 A gestão e a protecção das águas do planeta | Angola, *Geografia 6ª Classe*, Grade 6, 3.4 A gestão e a protecção das águas do planeta — printed p. 50 |
 | Malaysia part (MY T4 Geografi Tingkatan 4) — Bab 9.4-9.5: causes of declining river water quality and efforts to sustain rivers | Malaysia, *MY T4 Geografi*, Bab 9.4-9.5: causes of declining river water quality and efforts to sustain rivers — printed pp. 125-131 |
 | Eritrea part (ER G4 Social Studies) — Chapter 4: 4.3 Protecting our water | Eritrea, *ER G4 Social Studies*, Chapter 4: 4.3 Protecting our water — printed p. 46 |
+| India part (Grade 9 Contemporary India-I) — Ch.3: river pollution and the response — Ganga Action Plan and the National River Conservation Plan | India, *India Grade 9 Contemporary India-I*, Ch.3: river pollution and the response — Ganga Action Plan and the National River Conservation Plan — printed p. 24 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Angola, Malaysia, Eritrea).**
+**Acceptance count: taught in 5 countries (Ethiopia, Angola, Malaysia, Eritrea, India).**
 
 No book error flagged by the placements touches this lesson.
 
@@ -30,3 +33,5 @@ Angola's own way (Grade 6): a resources-and-environment year — every world top
 Malaysia's own way (MY T4 Geografi Tingkatan 4): upper-secondary Geography is a full topographic-map apprenticeship (bearings, area, cross-sections, landscape reading) followed by process geography — plates, rocks, weathering, mass movement, rivers and coasts — and a world-scale human geography of population, migration, settlements and urbanisation.
 
 Eritrea's own way (ER G4 Social Studies): the Tigrinya-medium primary book teaches Geography through the child's own surroundings first — our environment, protecting our soil, water, plants and animals, then maps and globes, community life, and the shapes of the land.
+
+India's own way (Grade 9 Contemporary India-I): From Grade 9 the Geography book is India alone, in depth — Contemporary India-I is the physical book: size and location, physiography built from plate tectonics, drainage, the monsoon system, vegetation and wildlife, and population, each chapter working from India's own maps and census data.

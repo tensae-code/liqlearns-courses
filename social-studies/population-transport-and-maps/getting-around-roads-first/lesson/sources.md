@@ -1,6 +1,6 @@
 # Sources — Getting around — roads first
 
-countries: Ethiopia, Guatemala, Colombia, Malaysia
+countries: Ethiopia, Guatemala, Colombia, Malaysia, India
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Guatemala, Colombia, Malaysia
 
 **Book 5:** *Geografi Tingkatan 2, Buku Teks (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Kementerian Pendidikan Malaysia (Ministry of Education Malaysia); produced by IMS Books Trading Sdn. Bhd.; year 2017 (first printing 2017); ISBN 978-967-0463-47-6. Title as printed: Geografi Tingkatan 2, Buku Teks (Kurikulum Standard Sekolah Menengah, KSSM). Grade 8 / Tingkatan 2 (student/teacher: STUDENT). PDF pages: 176 (cover verified against the record title — "GEOGRAFI TINGKATAN 2"; printed pagination per the book's contents). Verdict: COMPLETE. Records note: covers both Tingkatan 2 records — the TSV release record (mid-size-books-2, read here, 77,312,329 bytes) and the books.json record, whose tree path does not exist in the repo tree (release asset only, as for Tingkatan 1). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/malaysia-placements.md.
 
+**Book 6:** *Contemporary India-II — Textbook in Geography for Class X (Social Science)* (student book, English) — India, NCERT, New Delhi; first edition January 2006, this copy reprint 2020-21; ISBN 81-7450-644-6. Title as printed: Contemporary India-II — Textbook in Geography for Class X (Social Science). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 101 (cover render verified: "Contemporary India II, Textbook in Geography for Class X, NCERT 2020-21"; grabbed via grab.py release route, 15,769,167 bytes; duplicate TSV + books.json records grade-10/gov/india/class10-social-science-geography.pdf counted once). Verdict: COMPLETE — 7 chapters, printed pp. 1-91 + appendices and glossary to p. 96. Records note: 34 records / 17 distinct books (17 TSV records in grades 6-10 + 17 books.json records that are the same books by grade/subject — duplicate records of the same NCERT titles); the 5 Geography books were read full page-by-page via pdftotext -layout after cover verification; the other 12 books are record-only (History, Civics, Economics) with no Geography content, filed for later waves. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/india-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Roads dominate | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 5, printed pp. 138–141 |
@@ -20,8 +22,9 @@ countries: Ethiopia, Guatemala, Colombia, Malaysia
 | Guatemala part — Vías de comunicación | Guatemala, *Ciencias Sociales y Formación Ciudadana*, Grade 4, Vías de comunicación (Unit 2) — printed p. 89 |
 | Colombia part (CS_Grado2_01) — Guía 5 story of vereda La Portada: building the road brings transport, school access and health services | Colombia, *Ciencias Sociales 2 — Primera Cartilla, Escuela Nueva*, Guía 5 story of vereda La Portada: building the road brings transport, school access and health services — printed pp. 85–88 |
 | Malaysia part (MY T2 Geografi Tingkatan 2) — Bab 5.1 Pengangkutan di Malaysia: land transport | Malaysia, *MY T2 Geografi*, Bab 5.1 Pengangkutan di Malaysia: land transport — printed pp. 70-76 |
+| India part (Grade 10 Contemporary India-II) — Ch.7 Lifelines of National Economy: India's road network — Golden Quadrilateral, National Highways, state and district roads, road density | India, *India Grade 10 Contemporary India-II*, Ch.7 Lifelines of National Economy: India's road network — Golden Quadrilateral, National Highways, state and district roads, road density — printed p. 79 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Guatemala, Colombia, Malaysia).**
+**Acceptance count: taught in 5 countries (Ethiopia, Guatemala, Colombia, Malaysia, India).**
 
 Guatemala's own way: one combined Social Studies and Citizenship book per grade, organised in four units that alternate History of Guatemala/Central America with the physical geography of the isthmus — every map carries the note about the unresolved Belize territorial differendum, and Geography is always worked on maps of the seven Central American countries with Guatemala's own Sierra de las Minas, Motagua river and Maya Biosphere as the home examples. That way is stocked here as the way Guatemala teaches this thing.
 
@@ -30,3 +33,5 @@ Searchable tags: road transport, radial network, addis ababa, pack animals, port
 Colombia's own way (CS_Grado2_01): Escuela Nueva self-paced guides (parts A–D: explore, deepen, practise, apply) set in rural Colombia — veredas, resguardos, coffee regions; geography starts from the walk home-to-school, the classroom plan and the home municipality (Aracataca/Ciénaga worked example).
 
 Malaysia's own way (MY T2 Geografi Tingkatan 2): the year pairs map skills (scale, topographic maps) with weather and climate, then transport and telecommunications as the human-geography core, an Asia regional study, and global warming with green technology as the environmental close.
+
+India's own way (Grade 10 Contemporary India-II): Contemporary India-II is the human/economic book, matching Part I's physical book: India's resources, forests, water, agriculture, minerals and energy, manufacturing and the "lifelines" (transport, communication, trade) — taught throughout as development-versus-environment argument, with movements and case studies (Chipko, Narmada Bachao, rooftop rainwater harvesting in the Thar) carrying the criticism.

@@ -1,6 +1,6 @@
 # Sources — Maps and globes — what a map is
 
-countries: Ethiopia, Palestine, Egypt, Dominican Republic, Colombia, Eritrea
+countries: Ethiopia, Palestine, Egypt, Dominican Republic, Colombia, Eritrea, India
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 2, placements 27–43).
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Palestine, Egypt, Dominican Republic, Colombia, Eritrea
 
 **Book 9:** *ማሕበራዊ ትምህርቲ ን5ይ ክፍሊ — መጽሓፍ ተማሃሮ (Social Studies for Grade 5 — Student's Book)* (student book, Tigrinya) — Eritrea, Ministry of Education, The State of Eritrea; year 2010; ISBN no ISBN printed on the pages checked. Title as printed: ማሕበራዊ ትምህርቲ ን5ይ ክፍሊ — መጽሓፍ ተማሃሮ (Social Studies for Grade 5 — Student's Book). Grade 5 (student/teacher: STUDENT). PDF pages: 190 (cover/title page verified against the record title; 35,645,487 bytes and 190 pages, both match the record; fetched via the Releases API asset route — mid-size-books-5 — because the file is not in the git tree). Verdict: COMPLETE (Tigrinya text read via pdftotext; unit and section titles translated from the printed contents, printed pp. vi–vii). Records note: 7 records / 5 distinct books; the TSV release records for Grades 4 and 5 duplicate the books.json tree records of the same repo path (one book each); read via grab (curl-based GitHub API route with byte-size + blob-SHA verification), covers verified by render, full text read via pdftotext -layout. Combined Social Studies books: Geography parts placed; History/Civics parts named in each book header only. Named, not placed — History parts (named, not placed): Chapter 5 section 5.2 Ancient Activities on the Red Sea, printed p. 45; Chapter 6 ምንጪ ሓበሬታ Sources of Information — archaeology, artefacts and museums (except the Eritrean heritage-sites section placed below), printed p. 61; Chapter 10 ታሪኽ ኤርትራ History of Eritrea, printed p. 124 Civics parts (named, not placed): Chapter 1 sections 1.2–1.3 Regional administrations, their bodies, divisions and duties, printed pp. 3–5 Placements at liqlearns-courses-work/expansion-geography-2026-11-14/eritrea-placements.md.
 
+**Book 10:** *The Earth : Our Habitat — Textbook in Geography for Class VI (Social Science)* (student book, English) — India, NCERT, New Delhi; first edition February 2006, this copy reprint 2020-21; ISBN 81-7450-491-5. Title as printed: The Earth : Our Habitat — Textbook in Geography for Class VI (Social Science). Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 72 (cover/title page verified against the record title — cover render checked: "The Earth : Our Habitat, Textbook in Geography for Class VI, NCERT 2020-21"; grabbed via grab.py release route, 23,496,254 bytes, SHA/size verified by grab.py; duplicate TSV + books.json records grade-06/gov/india/the-earth-our-habitat.pdf counted once). Verdict: COMPLETE — 8 chapters, printed pp. 1-64 + appendices. Records note: 34 records / 17 distinct books (17 TSV records in grades 6-10 + 17 books.json records that are the same books by grade/subject — duplicate records of the same NCERT titles); the 5 Geography books were read full page-by-page via pdftotext -layout after cover verification; the other 12 books are record-only (History, Civics, Economics) with no Geography content, filed for later waves. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/india-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What a map is | Ethiopia, *Social Studies Student Textbook, Grade 7* (Amhara Bureau), printed pp. 46–47 |
@@ -32,8 +34,9 @@ countries: Ethiopia, Palestine, Egypt, Dominican Republic, Colombia, Eritrea
 | Colombia part (CS_Grado7 Postprimaria) — Módulo 3 Guía 8 Formas de representar el territorio | Colombia, *Ciencias Sociales — Postprimaria Rural, Grado 7 (student guide)*, Módulo 3 Guía 8 Formas de representar el territorio — printed p. 103 |
 | Eritrea part (ER G4 Social Studies) — Chapter 6 ካርታን ግሎብን Maps and Globes: 6.1 Maps | Eritrea, *ER G4 Social Studies*, Chapter 6 ካርታን ግሎብን Maps and Globes: 6.1 Maps — printed p. 67 |
 | Eritrea part (ER G5 Social Studies) — Chapter 8 ካርታ Maps: 8.1 The meaning and importance of maps | Eritrea, *ER G5 Social Studies*, Chapter 8 ካርታ Maps: 8.1 The meaning and importance of maps — printed p. 95 |
+| India part (Grade 6 The Earth Our Habitat) — Ch.4 Maps: what a map is, atlas, physical / political / thematic maps | India, *India Grade 6 The Earth Our Habitat*, Ch.4 Maps: what a map is, atlas, physical / political / thematic maps — printed p. 23 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Palestine, Egypt, Dominican Republic, Colombia, Eritrea).**
+**Acceptance count: taught in 7 countries (Ethiopia, Palestine, Egypt, Dominican Republic, Colombia, Eritrea, India).**
 
 Pairing warning (honesty): Book 2 is an Addis Ababa bureau guide in English; Book 1 is an Amhara bureau student book in Amharic. They are NOT edition-matched companions — the guide's unit order differs and whole student topics (maps, globes, GPS) have no guide counterpart, so no guide coverage is claimed for them. Guide material is used only as labelled teacher evidence.
 
@@ -54,3 +57,5 @@ Colombia's own way (CS_Grado7 Postprimaria): the rural Postprimaria Grade 7 guid
 Eritrea's own way (ER G4 Social Studies): the Tigrinya-medium primary book teaches Geography through the child's own surroundings first — our environment, protecting our soil, water, plants and animals, then maps and globes, community life, and the shapes of the land.
 
 Eritrea's own way (ER G5 Social Studies): Grade 5 widens from the village to the world — Eritrea's regions (zobas) and neighbours, the continents, islands, oceans, seas, lakes and rivers of the Earth, then back home to the Red Sea, trade and transport, maps and weather.
+
+India's own way (Grade 6 The Earth Our Habitat): The first Geography year goes planet → globe → motions → maps → Earth's domains → landforms, and only then turns home: the last two chapters are India itself (location, neighbours, physical divisions, monsoon climate, vegetation and wildlife), so world basics are immediately applied to the home country.

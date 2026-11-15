@@ -1,6 +1,6 @@
 # Sources — Rainforest, woodland and savanna
 
-countries: Ethiopia, Costa Rica, Bangladesh, Colombia
+countries: Ethiopia, Costa Rica, Bangladesh, Colombia, India
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Costa Rica, Bangladesh, Colombia
 
 **Book 5:** *Ciencias Sociales 4 — Segunda Cartilla, Escuela Nueva* (student guide, Spanish) — Colombia, Ministerio de Educación Nacional, Bogotá; year 2011; ISBN libro 978-958-97482-9-9 (ISBN serie 978-958-97482-3-7). Title as printed: Ciencias Sociales 4 — Segunda Cartilla, Escuela Nueva. Grade 4 (student/teacher: STUDENT). PDF pages: 128 (cover verified: "Ciencias Sociales 4, Segunda Cartilla, Escuela Nueva"). Verdict: COMPLETE. Non-Geography parts named in the placements, not placed: Unidad 7 Los conflictos y los dilemas en nuestra sociedad, Guías 12–13, printed pp. 90–106 (civics/ethics); Unidad 8 Los ciudadanos y las instituciones, Guías 14–15 (ser ciudadano; excluir o incluir), printed pp. 107–127 (civics).. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/colombia-placements.md.
 
+**Book 6:** *Our Environment — Textbook in Geography for Class VII (Social Science)* (student book, English) — India, NCERT, New Delhi; first edition March 2007, this copy reprint 2020-21; ISBN 81-7450-714-0. Title as printed: Our Environment — Textbook in Geography for Class VII (Social Science). Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 84 (cover render verified: "Our Environment, Textbook in Geography for Class VII, NCERT 2020-21"; grabbed via grab.py release route, 23,494,641 bytes; duplicate TSV + books.json records grade-07/gov/india/our-environment.pdf counted once). Verdict: COMPLETE — 9 chapters, printed pp. 1-71 + appendix p. 72. Records note: 34 records / 17 distinct books (17 TSV records in grades 6-10 + 17 books.json records that are the same books by grade/subject — duplicate records of the same NCERT titles); the 5 Geography books were read full page-by-page via pdftotext -layout after cover verification; the other 12 books are record-only (History, Civics, Economics) with no Geography content, filed for later waves. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/india-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Moist montane forest | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 3, printed pp. 77–79 |
@@ -20,8 +22,9 @@ countries: Ethiopia, Costa Rica, Bangladesh, Colombia
 | Costa Rica part — the geographic dimension of terrestrial ecosystems at world scale and in Costa Rica | Costa Rica, *Antología CONED 7*, Grade 7, Unit III Tema I A — printed p. 107 |
 | Bangladesh part (Grade 8) — Inquiry reader on biomes: tundra, tropical rainforest and the Amazon, desert, grasslands | Bangladesh, *History and Social Science, Class Eight*, Grade 8, Inquiry reader on biomes: tundra, tropical rainforest and the Amazon, desert, grasslands — printed pp. 139-144 |
 | Colombia part (CS_Grado4_02) — Guía 11 Las regiones naturales del mundo: deserts, poles, tropical rainforest, savannas and oceans as the world's natural regions | Colombia, *Ciencias Sociales 4 — Segunda Cartilla, Escuela Nueva*, Guía 11 Las regiones naturales del mundo: deserts, poles, tropical rainforest, savannas and oceans as the world's natural regions — printed p. 69 |
+| India part (Grade 7 Our Environment) — Ch.6 Natural Vegetation and Wildlife: forests (tropical evergreen, tropical deciduous, temperate, Mediterranean, coniferous) and tropical/temperate grasslands | India, *India Grade 7 Our Environment*, Ch.6 Natural Vegetation and Wildlife: forests (tropical evergreen, tropical deciduous, temperate, Mediterranean, coniferous) and tropical/temperate grasslands — printed p. 39 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Costa Rica, Bangladesh, Colombia).**
+**Acceptance count: taught in 5 countries (Ethiopia, Costa Rica, Bangladesh, Colombia, India).**
 
 Costa Rica's own way: a distance-education anthology organised around "the human footprint on geographic space" — every unit opens with a generating question and objectives, and Costa Rica is used as the home case inside world topics (tropical forest conservation, food production problems). That way is stocked here as the way Costa Rica teaches this thing.
 
@@ -30,3 +33,5 @@ Searchable tags: moist montane forest, coffee origin, acacia woodland, savanna, 
 Bangladesh's own way (Grade 8): the year's Geography is one long chapter, "Protect the Bond between Nature and People": pupils model the world's biomes, compare world forest cover in 2000 and 2020, map Bangladesh's own forests and disaster-prone areas, and read a long inquiry-reader on biomes, sea resources and the Sundarbans mangrove.
 
 Colombia's own way (CS_Grado4_02): the second Grade 4 cartilla is almost pure physical geography of Colombia — relief first, then the tropical position and thermal floors, then a region-by-region tour of Colombia's six natural regions before the world's natural regions.
+
+India's own way (Grade 7 Our Environment): Grade 7 is organised around "environment" in widening rings — the concept itself, then inside/changing Earth, air and water, world vegetation belts, human settlement and transport, and finally three lived-in region studies (Amazon basin, Ganga-Brahmaputra basin, Sahara and Ladakh deserts) where all the strands meet in real places.

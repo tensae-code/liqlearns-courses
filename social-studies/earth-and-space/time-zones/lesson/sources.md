@@ -1,6 +1,6 @@
 # Sources — Time Zones and the Date Line
 
-countries: Ethiopia, Barbados, Haiti, Indonesia, Dominican Republic
+countries: Ethiopia, Barbados, Haiti, Indonesia, Dominican Republic, India
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page - 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Barbados, Haiti, Indonesia, Dominican Republic
 
 **Book 5:** *Ciencias Sociales — Cuarto Grado, Segundo Ciclo, Educación Secundaria (Libro Abierto, Serie 1, segunda edición)* (student book, Spanish) — Dominican Republic, Ministerio de Educación (MINERD), República Dominicana; Libro Abierto Serie 1, second edition; ISBN 978-9945-646-76-4 (printed in the book). Title as printed: Ciencias Sociales — Cuarto Grado, Segundo Ciclo, Educación Secundaria (Libro Abierto, Serie 1, segunda edición). Grade 10 (student). 208 PDF pp. (cover verified against the record title; byte size 36,649,537 matches the GitHub release asset exactly and page count matches the record). Verdict: COMPLETE (combined book — Geography parts placed below; History parts named in the placements, not placed: Unidad 5 La historia como ciencia, printed p. 74; Unidad 6 Los prolongados inicios de la humanidad, p. 90; Unidad 7 La antigüedad clásica europea, p. 106; Unidad 8 Gestación del mundo moderno, p. 122; Unidad 9 Primacía de Europa sobre el mundo, p. 138; Unidad 10 Modernidad y capitalismo, p. 144). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/dominican-republic-placements.md.
 
+**Book 6:** *The Earth : Our Habitat — Textbook in Geography for Class VI (Social Science)* (student book, English) — India, NCERT, New Delhi; first edition February 2006, this copy reprint 2020-21; ISBN 81-7450-491-5. Title as printed: The Earth : Our Habitat — Textbook in Geography for Class VI (Social Science). Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 72 (cover/title page verified against the record title — cover render checked: "The Earth : Our Habitat, Textbook in Geography for Class VI, NCERT 2020-21"; grabbed via grab.py release route, 23,496,254 bytes, SHA/size verified by grab.py; duplicate TSV + books.json records grade-06/gov/india/the-earth-our-habitat.pdf counted once). Verdict: COMPLETE — 8 chapters, printed pp. 1-64 + appendices. Records note: 34 records / 17 distinct books (17 TSV records in grades 6-10 + 17 books.json records that are the same books by grade/subject — duplicate records of the same NCERT titles); the 5 Geography books were read full page-by-page via pdftotext -layout after cover verification; the other 12 books are record-only (History, Civics, Economics) with no Geography content, filed for later waves. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/india-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Why the world needed zones | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 1, printed pp. 23–24 |
@@ -21,8 +23,9 @@ countries: Ethiopia, Barbados, Haiti, Indonesia, Dominican Republic
 | Haiti part — Séance 8 L'heure (fuseaux horaires, décalage horaire Port-au-Prince / Québec / Paris, heure d'été et d'hiver) (teacher sequence — evidence) | Haiti, *Du rond au plat, représenter le globe terrestre ?* (teacher sequence), Grade 7, Séance 8 L'heure (fuseaux horaires, décalage horaire Port-au-Prince / Québec / Paris, heure d'été et d'hiver) — printed p. 16 |
 | Indonesia part (Grade 11) — Bab 1 I.A Pembagian zona waktu di Indonesia (three time zones) | Indonesia, *Geografi untuk SMA Kelas XI*, Grade 11, Bab 1 I.A Pembagian zona waktu di Indonesia (three time zones) — printed p. 5 |
 | Dominican Republic part (Grade 10) — Geographic coordinates and time zones (husos horarios) | Dominican Republic, *Ciencias Sociales, Cuarto Grado, Secundaria (Libro Abierto)*, Grade 10, Geographic coordinates and time zones (husos horarios) — printed p. 16 (the placements name the target as population-transport-and-maps/time-zones-and-how-they-work; that slug does not exist, so this placement is stocked in this closest covering lesson, with the original slug recorded here) |
+| India part (Grade 6 The Earth Our Habitat) — Ch.2: longitude and time, local time and standard time (Indian Standard Time, 82°30'E) | India, *India Grade 6 The Earth Our Habitat*, Ch.2: longitude and time, local time and standard time (Indian Standard Time, 82°30'E) — printed p. 15 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Barbados, Indonesia, Dominican Republic). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 5 countries (Ethiopia, Barbados, Indonesia, Dominican Republic, India). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
 
 Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -35,3 +38,5 @@ No book errors are flagged by the placements for these pages.
 Searchable tags: time zones, local time, standard time, 15 degrees per hour, Greenwich, GMT+3, International Date Line, longitude time problems, Haiti, Du rond au plat, teacher sequence evidence
 
 Dominican Republic's own way (Grade 10): This is the physical-geography year: the universe and Earth's layers, continental drift with volcanoes and earthquakes — including earthquake-prevention measures as a group task — water and winds across the continents, and a closing unit on political and economic geography that treats borders, geopolitical order and international climate agreements as geography, with hurricane-season citizen responsibility as the water unit's group activity.
+
+India's own way (Grade 6 The Earth Our Habitat): The first Geography year goes planet → globe → motions → maps → Earth's domains → landforms, and only then turns home: the last two chapters are India itself (location, neighbours, physical divisions, monsoon climate, vegetation and wildlife), so world basics are immediately applied to the home country.

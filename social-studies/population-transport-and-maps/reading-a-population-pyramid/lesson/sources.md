@@ -1,6 +1,6 @@
 # Sources — Reading a population pyramid
 
-countries: Ethiopia, Barbados, Haiti, Turkmenistan, Indonesia, Dominican Republic, Malaysia
+countries: Ethiopia, Barbados, Haiti, Turkmenistan, Indonesia, Dominican Republic, Malaysia, India
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Barbados, Haiti, Turkmenistan, Indonesia, Dominican Republi
 
 **Book 8:** *Geografi Tingkatan 4 (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Kementerian Pendidikan Malaysia (Ministry of Education Malaysia); produced by Kubu Publications; year 2019 (first printing 2019); ISBN 978-967-17523-0-2. Title as printed: Geografi Tingkatan 4 (Kurikulum Standard Sekolah Menengah, KSSM). Grade 10 / Tingkatan 4 (student/teacher: STUDENT). PDF pages: 234 (cover verified against the record title — "GEOGRAFI TINGKATAN 4"; printed pagination per the book's contents). Verdict: COMPLETE. Records note: covers both Tingkatan 4 records — the TSV release record (mid-size-books-2, read here, 96,802,047 bytes) and the books.json record, whose tree path does not exist in the repo tree (release asset only). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/malaysia-placements.md.
 
+**Book 9:** *Resources and Development — Textbook in Geography for Class VIII (Social Science)* (student book, English) — India, NCERT, New Delhi; first edition February 2008, this copy reprint 2020-21; ISBN 978-81-7450-816-4. Title as printed: Resources and Development — Textbook in Geography for Class VIII (Social Science). Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 80 (cover render verified: "Resources and Development, Textbook in Geography for Class VIII, NCERT 2020-21"; grabbed via grab.py release route, 16,558,814 bytes; duplicate TSV + books.json records grade-08/gov/india/resources-and-development.pdf counted once). Verdict: COMPLETE — 6 chapters, printed pp. 1-71. Records note: 34 records / 17 distinct books (17 TSV records in grades 6-10 + 17 books.json records that are the same books by grade/subject — duplicate records of the same NCERT titles); the 5 Geography books were read full page-by-page via pdftotext -layout after cover verification; the other 12 books are record-only (History, Civics, Economics) with no Geography content, filed for later waves. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/india-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The pyramid’s shape | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 4, printed pp. 91–94 |
@@ -30,8 +32,9 @@ countries: Ethiopia, Barbados, Haiti, Turkmenistan, Indonesia, Dominican Republi
 | Indonesia part (Grade 11) — Bab 3 II.C Komposisi penduduk (age/sex composition) | Indonesia, *Geografi untuk SMA Kelas XI*, Grade 11, Bab 3 II.C Komposisi penduduk (age/sex composition) — printed p. 148 |
 | Dominican Republic part (Grade 12) — Variation of the population structure by ages; evolution of educational levels | Dominican Republic, *Ciencias Sociales, Sexto Grado, Secundaria (Libro Abierto)*, Grade 12, Variation of the population structure by ages; evolution of educational levels — printed p. 136 |
 | Malaysia part (MY T4 Geografi Tingkatan 4) — Bab 12.4-12.5: interpreting population structure and composition from population pyramids; effects on national development | Malaysia, *MY T4 Geografi*, Bab 12.4-12.5: interpreting population structure and composition from population pyramids; effects on national development — printed pp. 167-171 |
+| India part (Grade 8 Resources and Development) — Ch.6: population composition and the age-sex (population) pyramid | India, *India Grade 8 Resources and Development*, Ch.6: population composition and the age-sex (population) pyramid — printed p. 68 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Barbados, Turkmenistan, Indonesia, Dominican Republic, Malaysia). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 7 countries (Ethiopia, Barbados, Turkmenistan, Indonesia, Dominican Republic, Malaysia, India). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
 
 Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -46,3 +49,5 @@ Turkmenistan's own way (Grade 10): A classic post-Soviet economic-and-social geo
 Dominican Republic's own way (Grade 12): The final secondary year turns from national history to the country's present-day human geography, studied region by region: 150 years of population growth, accelerated urbanisation, the economy's branches and foreign trade, and the spatial distribution of the population across Cibao, Este and Suroeste, closing on migration and Santo Domingo as a fragmented metropolis.
 
 Malaysia's own way (MY T4 Geografi Tingkatan 4): upper-secondary Geography is a full topographic-map apprenticeship (bearings, area, cross-sections, landscape reading) followed by process geography — plates, rocks, weathering, mass movement, rivers and coasts — and a world-scale human geography of population, migration, settlements and urbanisation.
+
+India's own way (Grade 8 Resources and Development): Grade 8 is a resources year, world-first but India-anchored throughout: resources and their conservation, then land/soil/water/vegetation, minerals and power, agriculture, industries and human resources — every world pattern is paired with its Indian distribution map and an Indian case study (Jamshedpur steel, Ahmedabad textiles, Bangalore IT, a farm in India set against a farm in the USA).

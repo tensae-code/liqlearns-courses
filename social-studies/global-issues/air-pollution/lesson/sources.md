@@ -1,6 +1,6 @@
 # Sources — Air Pollution
 
-countries: Ethiopia, Jamaica, Palestine, Angola, Indonesia
+countries: Ethiopia, Jamaica, Palestine, Angola, Indonesia, India
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (placement 109).
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Jamaica, Palestine, Angola, Indonesia
 
 **Book 5:** *Geografi untuk SMA Kelas XI* (student book, Indonesian) — Indonesia, Pusat Perbukuan, Badan Standar, Kurikulum, dan Asesmen Pendidikan, Kemendikbudristek; year 2021 (Cetakan Pertama); ISBN 978-602-244-846-4 (jil. 1); author Budi Handoyo. Title as printed: Geografi untuk SMA Kelas XI. Grade 11 / SMA Kelas XI (student). 248 PDF pp. (cover verified: "Geografi — SMA Kelas XI", Budi Handoyo, Kemendikbudristek). Verdict: COMPLETE. Records: 8 records / 4 distinct books in total for Indonesia (4 TSV release records + 4 books.json records that are the same 4 books by grade/kind — duplicate records, taught once). Library debts carried exactly as the placements state: the books.json records for all 4 Indonesia Geografi titles carry tree paths (grade-XX/gov/indonesia/geografi/…) that return 404 in the repo tree — the files actually live in GitHub releases mid-size-books-2 and mid-size-books-7, so the in_pushed tree records are misleading; the books.json source_url for both student books is truncated with "…" (penerbitcmedia.com/download1/BSE/.../g11_geografi.pdf) and cannot be used as recorded. Read full page-by-page via pdftotext -layout after cover verification; grabbed via grab.py (GitHub Releases API route for the TSV records; the books.json tree paths return 404 because the files live in releases, not the tree). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/indonesia-placements.md.
 
+**Book 6:** *Contemporary India-II — Textbook in Geography for Class X (Social Science)* (student book, English) — India, NCERT, New Delhi; first edition January 2006, this copy reprint 2020-21; ISBN 81-7450-644-6. Title as printed: Contemporary India-II — Textbook in Geography for Class X (Social Science). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 101 (cover render verified: "Contemporary India II, Textbook in Geography for Class X, NCERT 2020-21"; grabbed via grab.py release route, 15,769,167 bytes; duplicate TSV + books.json records grade-10/gov/india/class10-social-science-geography.pdf counted once). Verdict: COMPLETE — 7 chapters, printed pp. 1-91 + appendices and glossary to p. 96. Records note: 34 records / 17 distinct books (17 TSV records in grades 6-10 + 17 books.json records that are the same books by grade/subject — duplicate records of the same NCERT titles); the 5 Geography books were read full page-by-page via pdftotext -layout after cover verification; the other 12 books are record-only (History, Civics, Economics) with no Geography content, filed for later waves. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/india-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What clean air is, and what spoils it: air without smell, taste or colour; pollution as natural or human-made toxic substances mixing into the air against living things; the bad smell of wastes as its everyday sign | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 7, printed p. 149 |
@@ -22,11 +24,12 @@ countries: Ethiopia, Jamaica, Palestine, Angola, Indonesia
 | Palestine part — Lesson 5: air pollution as a human-made disaster | Palestine, *Social Studies, Grade 5, Part One*, Grade 5, Lesson 5: air pollution as a human-made disaster — printed pp. 31–35 |
 | Angola part — 2.2 A poluição do ar (with 2.2.1 Fontes de poluição do ar) | Angola, *Geografia 6ª Classe*, Grade 6, 2.2 A poluição do ar (with 2.2.1 Fontes de poluição do ar) — printed p. 26 |
 | Angola part — 2.3 O combate à poluição do ar (consequences of polluted air; measures against it) | Angola, *Geografia 6ª Classe*, Grade 6, 2.3 O combate à poluição do ar (consequences of polluted air; measures against it) — printed p. 28 |
+| India part (Grade 10 Contemporary India-II) — Ch.6: industrial pollution of air and water, thermal and noise pollution, and control measures (the NTPC Ramagundam case) | India, *India Grade 10 Contemporary India-II*, Ch.6: industrial pollution of air and water, thermal and noise pollution, and control measures (the NTPC Ramagundam case) — printed p. 76 |
 
 | Sub lesson 3 — Smog and ground-level ozone — the Grade 12 chemistry | Ethiopia, *Geography, Student Textbook, Grade 12*, Unit 6, printed pp. 159–161 (G12 student placement #64) |
 | Indonesia part (Grade 11) — Bab 3 I.E Pencemaran udara | Indonesia, *Geografi untuk SMA Kelas XI*, Grade 11, Bab 3 I.E Pencemaran udara — printed p. 126 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Palestine, Angola, Indonesia). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 5 countries (Ethiopia, Palestine, Angola, Indonesia, India). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
 
 Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -41,3 +44,5 @@ Searchable tags: air pollution, clean air, WHO one in ten, toxic substances, smo
 Palestine's own way (Grade 5, PS G5P1): Social Studies opens with a full Earth-science unit (shape, movements, surface, life components, disasters) taught through Palestinian examples — seasons read off Palestinian crops, surface forms read off Palestine's own map, which pupils draw with its borders.
 
 Angola's own way (Grade 6): a resources-and-environment year — every world topic (air, water, soils, forests) is closed with the Angolan case: Angola's fresh-water use, Angola's farm land, Angola's forest areas. That way is stocked here as the way Angola teaches this thing.
+
+India's own way (Grade 10 Contemporary India-II): Contemporary India-II is the human/economic book, matching Part I's physical book: India's resources, forests, water, agriculture, minerals and energy, manufacturing and the "lifelines" (transport, communication, trade) — taught throughout as development-versus-environment argument, with movements and case studies (Chipko, Narmada Bachao, rooftop rainwater harvesting in the Thar) carrying the criticism.

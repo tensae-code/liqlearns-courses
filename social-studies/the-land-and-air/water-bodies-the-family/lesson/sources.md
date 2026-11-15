@@ -1,6 +1,6 @@
 # Sources — Water Bodies — Oceans, Seas, Lakes, Rivers
 
-countries: Ethiopia, Palestine, Dominican Republic, Bahamas, Colombia, Eritrea
+countries: Ethiopia, Palestine, Dominican Republic, Bahamas, Colombia, Eritrea, India
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Palestine, Dominican Republic, Bahamas, Colombia, Eritrea
 
 **Book 8:** *Social Studies for Grade 8 — Textbook* (student book, English) — Eritrea, Ministry of Education, The State of Eritrea; year 2011; ISBN 99948-1-592-X. Title as printed: Social Studies for Grade 8 — Textbook. Grade 8 (student/teacher: STUDENT). PDF pages: 157 (cover/title page verified against the record title; 4,716,045 bytes and 157 pages, both match the record). Verdict: COMPLETE. Records note: 7 records / 5 distinct books; the TSV release records for Grades 4 and 5 duplicate the books.json tree records of the same repo path (one book each); read via grab (curl-based GitHub API route with byte-size + blob-SHA verification), covers verified by render, full text read via pdftotext -layout. Combined Social Studies books: Geography parts placed; History/Civics parts named in each book header only. Named, not placed — History parts (named, not placed): Unit 5 Expansionism and Resistance against Colonial Rule, printed p. 64; Unit 6 Colonial Administrations in Eritrea, printed p. 89; Unit 7 Highlights of the Eritrean Armed Struggle, printed p. 105; Unit 8 Post Independence Developments, printed p. 116 Placements at liqlearns-courses-work/expansion-geography-2026-11-14/eritrea-placements.md.
 
+**Book 9:** *Our Environment — Textbook in Geography for Class VII (Social Science)* (student book, English) — India, NCERT, New Delhi; first edition March 2007, this copy reprint 2020-21; ISBN 81-7450-714-0. Title as printed: Our Environment — Textbook in Geography for Class VII (Social Science). Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 84 (cover render verified: "Our Environment, Textbook in Geography for Class VII, NCERT 2020-21"; grabbed via grab.py release route, 23,494,641 bytes; duplicate TSV + books.json records grade-07/gov/india/our-environment.pdf counted once). Verdict: COMPLETE — 9 chapters, printed pp. 1-71 + appendix p. 72. Records note: 34 records / 17 distinct books (17 TSV records in grades 6-10 + 17 books.json records that are the same books by grade/subject — duplicate records of the same NCERT titles); the 5 Geography books were read full page-by-page via pdftotext -layout after cover verification; the other 12 books are record-only (History, Civics, Economics) with no Geography content, filed for later waves. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/india-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Where does your water come from? | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed p. 5 |
@@ -29,8 +31,9 @@ countries: Ethiopia, Palestine, Dominican Republic, Bahamas, Colombia, Eritrea
 | Bahamas part (Grade 4) — Bodies of Water: the Great Bahama Bank east of Andros and the Little Bahama Bank off Grand Bahama; the Great Bahama Bank holds one of the world's largest barrier reefs, some 140 miles long | Bahamas, *Bahamas Primary Social Studies — Digital Textbook, Grade 4*, Grade 4, Bodies of Water: the Great Bahama Bank east of Andros and the Little Bahama Bank off Grand Bahama; the Great Bahama Bank holds one of the world's largest barrier reefs, some 140 miles long — PDF p. 7 |
 | Colombia part (CS_Grado06 Secundaria Activa) — Unidad 1 Cap. 2 Tema 5 El agua de la Tierra | Colombia, *Ciencias Sociales — Secundaria Activa, Grado 6 (module)*, Unidad 1 Cap. 2 Tema 5 El agua de la Tierra — printed p. 41 |
 | Eritrea part (ER G8 Social Studies) — Unit 2 Hydrology and Water Systems in Eritrea: 2.1 What is Hydrology | Eritrea, *ER G8 Social Studies*, Unit 2 Hydrology and Water Systems in Eritrea: 2.1 What is Hydrology — printed p. 12 |
+| India part (Grade 7 Our Environment) — Ch.5 Water: distribution of water on Earth (oceans, ice-caps, groundwater, lakes, atmosphere) | India, *India Grade 7 Our Environment*, Ch.5 Water: distribution of water on Earth (oceans, ice-caps, groundwater, lakes, atmosphere) — printed p. 30 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Palestine, Dominican Republic, Bahamas, Colombia, Eritrea).**
+**Acceptance count: taught in 7 countries (Ethiopia, Palestine, Dominican Republic, Bahamas, Colombia, Eritrea, India).**
 
 Pairing warning: the Grade 8 teacher guide is an Addis Ababa bureau book and the student book is an Amhara bureau book; they are NOT edition-matched, and the guide in hand is truncated (printed pp. 1–47 only, Units 1–3). Pupil content in this lesson comes from the Amhara student book; anything from the guide is labelled (teacher guide — evidence) and never presented as pupil-taught.
 
@@ -47,3 +50,5 @@ Bahamas' own way (Grade 4): From Grade 4 the format changes: instead of the inte
 Colombia's own way (CS_Grado06 Secundaria Activa): Grade 6 Secundaria Activa starts from the universe and the Earth as a "living machine" (rocks and wrinkles, water, air), then follows humans evolving, migrating from Africa to America and adapting to each continent's environment — geography as the stage for all the history that follows.
 
 Eritrea's own way (ER G8 Social Studies): Grade 8 is the Eritrea-physical-geography year — relief, hydrology and water shortage, people-environment adaptation and Eritrea's strategic Red Sea location are taught as four full Geography units before the History units begin.
+
+India's own way (Grade 7 Our Environment): Grade 7 is organised around "environment" in widening rings — the concept itself, then inside/changing Earth, air and water, world vegetation belts, human settlement and transport, and finally three lived-in region studies (Amazon basin, Ganga-Brahmaputra basin, Sahara and Ladakh deserts) where all the strands meet in real places.

@@ -1,6 +1,6 @@
 # Sources — What counts as a natural resource
 
-countries: Ethiopia, Jamaica, Bolivia, Bangladesh, Bahamas, Samoa
+countries: Ethiopia, Jamaica, Bolivia, Bangladesh, Bahamas, Samoa, India
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Jamaica, Bolivia, Bangladesh, Bahamas, Samoa
 
 **Book 10:** *Social Studies — Year 10, Book 3* (student book, English) — Government of Samoa, Department of Education; year 2002; ISBN 982-517-030-1. Title as printed: Social Studies — Year 10, Book 3. Year 10 (student/teacher: STUDENT). PDF pages: 99 (cover/title page verified against the record title). Verdict: COMPLETE (Geography parts placed below). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/samoa-placements.md.
 
+**Book 11:** *Resources and Development — Textbook in Geography for Class VIII (Social Science)* (student book, English) — India, NCERT, New Delhi; first edition February 2008, this copy reprint 2020-21; ISBN 978-81-7450-816-4. Title as printed: Resources and Development — Textbook in Geography for Class VIII (Social Science). Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 80 (cover render verified: "Resources and Development, Textbook in Geography for Class VIII, NCERT 2020-21"; grabbed via grab.py release route, 16,558,814 bytes; duplicate TSV + books.json records grade-08/gov/india/resources-and-development.pdf counted once). Verdict: COMPLETE — 6 chapters, printed pp. 1-71. Records note: 34 records / 17 distinct books (17 TSV records in grades 6-10 + 17 books.json records that are the same books by grade/subject — duplicate records of the same NCERT titles); the 5 Geography books were read full page-by-page via pdftotext -layout after cover verification; the other 12 books are record-only (History, Civics, Economics) with no Geography content, filed for later waves. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/india-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Meaning and first classification | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 3, printed pp. 59–61 |
@@ -36,8 +38,9 @@ countries: Ethiopia, Jamaica, Bolivia, Bangladesh, Bahamas, Samoa
 | Bahamas part (Grade 3) — Natural Resources: a natural resource is something found in nature that people can use to meet their needs — air, water, soil, plants, animals, minerals and fuels | Bahamas, *Social Science, Grade 3*, Grade 3, Natural Resources: a natural resource is something found in nature that people can use to meet their needs — air, water, soil, plants, animals, minerals and fuels — printed p. 39 |
 | Bahamas part (Grade 5) — Bush Medicine for Common Ailments: the bushes of The Bahamas are used as medicine — aloe for burns, cerasee, lemon grass, gumbo limbo, shepherd needle and others brewed as tea or applied to the skin | Bahamas, *Bahamas Primary Social Studies — Digital Textbook, Grade 5*, Grade 5, Bush Medicine for Common Ailments: the bushes of The Bahamas are used as medicine — aloe for burns, cerasee, lemon grass, gumbo limbo, shepherd needle and others brewed as tea or applied to the skin — PDF p. 35 |
 | Samoa part (Year 10, Book 3) — Unit 1 Access to Resources, Goods and Services (introduction) | Samoa, *Social Studies, Year 10, Book 3*, Unit 1 Access to Resources, Goods and Services (introduction) — printed p. 5 |
+| India part (Grade 8 Resources and Development) — Ch.1 Resources: what makes something a resource (utility, value), natural, human-made and human resources | India, *India Grade 8 Resources and Development*, Ch.1 Resources: what makes something a resource (utility, value), natural, human-made and human resources — printed p. 1 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Bolivia, Bangladesh, Bahamas, Samoa). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 6 countries (Ethiopia, Bolivia, Bangladesh, Bahamas, Samoa, India). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grades 7–9 Social Studies, curriculum guide — evidence): one guide carries all three secondary grades, each year mixing Civics, heritage and a strong resources-and-environment Geography spine — natural and human resources, movements of the Earth, Caribbean hazards, climate change, green technology and tourism — taught through Jamaican case material (bauxite communities, Caribbean disasters). That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
@@ -56,3 +59,5 @@ Bahamas' own way (Grade 3): The integrated Social Science pattern continues, but
 Bahamas' own way (Grade 5): The Grade 5 infographic textbook is history-led — settlers, pirates, wrecking, blockade-running and bootlegging — and its geography is the geography of a small island state among bigger neighbours: where The Bahamas sits and where its people live, the sea's resources (including aragonite mined off Bimini), straw and sisal manufacturing, offshore banking, the Freeport transshipment container port, migration into The Bahamas, and Junkanoo as cultural tourism.
 
 Samoa's own way (Year 10, Book 3): Access to resources is split into economic and social factors with Pacific examples, and development is taught as change that can bring conflict in places — ending in consensus-building and appropriate technology for small island states.
+
+India's own way (Grade 8 Resources and Development): Grade 8 is a resources year, world-first but India-anchored throughout: resources and their conservation, then land/soil/water/vegetation, minerals and power, agriculture, industries and human resources — every world pattern is paired with its Indian distribution map and an Indian case study (Jamshedpur steel, Ahmedabad textiles, Bangalore IT, a farm in India set against a farm in the USA).

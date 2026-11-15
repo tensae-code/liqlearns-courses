@@ -1,6 +1,6 @@
 # Sources — Drawing a sketch map
 
-countries: Ethiopia, Myanmar, Haiti, Palestine, Bangladesh, Samoa, Colombia, Malaysia
+countries: Ethiopia, Myanmar, Haiti, Palestine, Bangladesh, Samoa, Colombia, Malaysia, India
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Myanmar, Haiti, Palestine, Bangladesh, Samoa, Colombia, Mal
 
 **Book 9:** *Geografi Tingkatan 1 (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Kementerian Pendidikan Malaysia (Ministry of Education Malaysia); produced by Era Visi Sdn. Bhd.; year 2016; ISBN 978-967-0483-48-1. Title as printed: Geografi Tingkatan 1 (Kurikulum Standard Sekolah Menengah, KSSM). Grade 7 / Tingkatan 1 (student/teacher: STUDENT). PDF pages: 179 (cover verified against the record title — "GEOGRAFI TINGKATAN 1", KSSM; printed pagination per the book's contents, Bab 1 on printed p. 1). Verdict: COMPLETE. Records note: this one book covers BOTH Malaysia Tingkatan 1 records — the TSV release record (mid-size-books-2, read here, 84,774,788 bytes) and the books.json record, whose tree path (grade-07/gov/malaysia/geografi/student/full-year.pdf) does not exist in the repo tree (the grade-07/gov/malaysia folder holds only CURRICULUM.md and books.json); the book lives only as a release asset. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/malaysia-placements.md.
 
+**Book 10:** *The Earth : Our Habitat — Textbook in Geography for Class VI (Social Science)* (student book, English) — India, NCERT, New Delhi; first edition February 2006, this copy reprint 2020-21; ISBN 81-7450-491-5. Title as printed: The Earth : Our Habitat — Textbook in Geography for Class VI (Social Science). Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 72 (cover/title page verified against the record title — cover render checked: "The Earth : Our Habitat, Textbook in Geography for Class VI, NCERT 2020-21"; grabbed via grab.py release route, 23,496,254 bytes, SHA/size verified by grab.py; duplicate TSV + books.json records grade-06/gov/india/the-earth-our-habitat.pdf counted once). Verdict: COMPLETE — 8 chapters, printed pp. 1-64 + appendices. Records note: 34 records / 17 distinct books (17 TSV records in grades 6-10 + 17 books.json records that are the same books by grade/subject — duplicate records of the same NCERT titles); the 5 Geography books were read full page-by-page via pdftotext -layout after cover verification; the other 12 books are record-only (History, Civics, Economics) with no Geography content, filed for later waves. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/india-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What a sketch map is | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 8, printed pp. 218–220 |
@@ -32,8 +34,9 @@ countries: Ethiopia, Myanmar, Haiti, Palestine, Bangladesh, Samoa, Colombia, Mal
 | Samoa part (Year 9, Book 2) — Unit 3 Topic 3 Map Drawing: Part 2 (sketch maps from photos and topographic maps) | Samoa, *Social Studies, Year 9, Book 2*, Unit 3 Topic 3 Map Drawing: Part 2 (sketch maps from photos and topographic maps) — printed p. 78 |
 | Colombia part (CS_Grado2_01) — Guía 6 Me oriento en un plano: finding your way on a city-sector map/plan, city blocks (cuadras) | Colombia, *Ciencias Sociales 2 — Primera Cartilla, Escuela Nueva*, Guía 6 Me oriento en un plano: finding your way on a city-sector map/plan, city blocks (cuadras) — printed pp. 115–117 |
 | Malaysia part (MY T1 Geografi Tingkatan 1) — Bab 3.4: steps for drawing a sketch map | Malaysia, *MY T1 Geografi*, Bab 3.4: steps for drawing a sketch map — printed pp. 31-33 |
+| India part (Grade 6 The Earth Our Habitat) — Ch.4: sketch maps (not to scale) and plans (small area, large scale) | India, *India Grade 6 The Earth Our Habitat*, Ch.4: sketch maps (not to scale) and plans (small area, large scale) — printed p. 27 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Palestine, Bangladesh, Samoa, Colombia, Malaysia). Myanmar is named here as teacher-guide evidence only, counted nowhere. Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 7 countries (Ethiopia, Palestine, Bangladesh, Samoa, Colombia, Malaysia, India). Myanmar is named here as teacher-guide evidence only, counted nowhere. Haiti is named here as teacher-sequence evidence only, counted nowhere.**
 
 Haiti's own way (teacher sequence — evidence): Geography begins as a daily practice, not a chapter: pupils draw the landscape around their school, the plan of their quarter and Haiti with their school placed on it, read landscape forms and functions from their own croquis, then trace one everyday object (a coffee cup, a phone) from raw material to shop shelf to see the world from the local. That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
@@ -50,3 +53,5 @@ Samoa's own way (Year 9, Book 2): Place is taught through Samoan lived places �
 Colombia's own way (CS_Grado2_01): Escuela Nueva self-paced guides (parts A–D: explore, deepen, practise, apply) set in rural Colombia — veredas, resguardos, coffee regions; geography starts from the walk home-to-school, the classroom plan and the home municipality (Aracataca/Ciénaga worked example).
 
 Malaysia's own way (MY T1 Geografi Tingkatan 1): a pure Geography textbook organised as skills first (direction, position, sketch maps), then physical geography, human geography, a regional study of Southeast Asia, environmental issues and a full fieldwork chapter — every chapter anchored to Malaysian places first, then the region.
+
+India's own way (Grade 6 The Earth Our Habitat): The first Geography year goes planet → globe → motions → maps → Earth's domains → landforms, and only then turns home: the last two chapters are India itself (location, neighbours, physical divisions, monsoon climate, vegetation and wildlife), so world basics are immediately applied to the home country.

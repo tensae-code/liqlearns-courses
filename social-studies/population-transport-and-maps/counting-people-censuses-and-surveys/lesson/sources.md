@@ -1,6 +1,6 @@
 # Sources — Counting people — censuses and surveys
 
-countries: Ethiopia, Bolivia, Dominican Republic, Samoa
+countries: Ethiopia, Bolivia, Dominican Republic, Samoa, India
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Bolivia, Dominican Republic, Samoa
 
 **Book 8:** *Social Studies — Year 10, Book 1* (student book, English) — Government of Samoa, Department of Education; year 2001; ISBN 982-517-009-3. Title as printed: Social Studies — Year 10, Book 1. Year 10 (student/teacher: STUDENT). PDF pages: 100 (cover/title page verified against the record title). Verdict: COMPLETE (combined book — Geography parts placed below; non-Geography parts named in the placements, not placed: Unit 1 Government, printed pp. 5–22 (Civics); Unit 2 Human Rights, printed pp. 23–58 (Civics)). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/samoa-placements.md.
 
+**Book 9:** *Contemporary India-I — Textbook in Geography for Class IX (Social Science)* (student book, English) — India, NCERT, New Delhi; first edition March 2006, this copy reprint 2020-21; ISBN 81-7450-520-2. Title as printed: Contemporary India-I — Textbook in Geography for Class IX (Social Science). Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 76 (cover render verified: "Contemporary India-I, Textbook in Geography for Class IX, NCERT 2020-21"; grabbed via grab.py release route, 21,811,274 bytes; duplicate TSV + books.json records grade-09/gov/india/class9-social-science-geography.pdf counted once). Verdict: COMPLETE — 6 chapters, printed pp. 1-62 + glossary. Records note: 34 records / 17 distinct books (17 TSV records in grades 6-10 + 17 books.json records that are the same books by grade/subject — duplicate records of the same NCERT titles); the 5 Geography books were read full page-by-page via pdftotext -layout after cover verification; the other 12 books are record-only (History, Civics, Economics) with no Geography content, filed for later waves. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/india-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What population means | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 4, printed pp. 86–88 |
@@ -29,8 +31,9 @@ countries: Ethiopia, Bolivia, Dominican Republic, Samoa
 | Bolivia part — The work of the censista: the census questionnaire and how a census is run (teacher guidance, Secundaria 5) (teacher guide — evidence) | Bolivia, *Compendio para Maestras y Maestros, Área Ciencias Sociales* (teacher guide), Grade 7 (record grade; teacher guidance), The work of the censista: the census questionnaire and how a census is run (teacher guidance, Secundaria 5) — printed p. 224 |
 | Dominican Republic part (Grade 3) — Population data: how many are we? A census of my family (group activity) | Dominican Republic, *Ciencias Sociales, Tercer Grado, Primaria (Libro Abierto)*, Grade 3, Population data: how many are we? A census of my family (group activity) — printed p. 68 |
 | Samoa part (Year 10, Book 1) — Unit 4 Skills in Action (the Samoa census: who uses census information and why) | Samoa, *Social Studies, Year 10, Book 1*, Unit 4 Skills in Action (the Samoa census: who uses census information and why) — printed p. 83 |
+| India part (Grade 9 Contemporary India-I) — Ch.6 Population: India's population size and the Census | India, *India Grade 9 Contemporary India-I*, Ch.6 Population: India's population size and the Census — printed p. 53 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Bolivia, Dominican Republic, Samoa).**
+**Acceptance count: taught in 5 countries (Ethiopia, Bolivia, Dominican Republic, Samoa, India).**
 
 Bolivia's own way (Grade 8, Secundaria 2): Secundaria 2 is the colonial-history year, so geography enters through the land itself: the Tawantinsuyo's territorial division into suyos, the Amazonian hydraulic cultures who farmed a flooding landscape with raised beds and purified water, the ayllu-versus-hacienda struggle over communal land, and where Afro-Bolivian communities settled in the Yungas.
 
@@ -45,3 +48,5 @@ Searchable tags: population, census, vital registration, surveys, estimates, soc
 Dominican Republic's own way (Grade 3): For third graders geography is the home island first: the planet and its components, then the Antilles and the relief of their own country, then countryside versus city, and finally where their own families came from — migration and a family census the children run themselves.
 
 Samoa's own way (Year 10, Book 1): The Geography value of this civics book is its skills spine — graph work and a Samoa census inquiry that teach learners to count and read their own population.
+
+India's own way (Grade 9 Contemporary India-I): From Grade 9 the Geography book is India alone, in depth — Contemporary India-I is the physical book: size and location, physiography built from plate tectonics, drainage, the monsoon system, vegetation and wildlife, and population, each chapter working from India's own maps and census data.

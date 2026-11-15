@@ -3133,3 +3133,113 @@ the Crops (ER G7 Social Studies, printed p. 117) — the
 new lessons are taught in 1 country (Eritrea), 8
 questions each.
 Geography lessons: 1121 → 1150.
+
+
+## India — Geography expansion (merged 2026-11-14)
+121 placement lines stocked from India's 5 distinct
+Geography books (34 records / 17 distinct books — 17
+TSV records plus 17 books.json records that are the
+same NCERT titles by grade/subject, counted once) —
+NCERT Social Science Geography student books for Grades
+6–10, all COMPLETE, in English: The Earth Our Habitat
+(Grade 6), Our Environment (Grade 7), Resources and
+Development (Grade 8), Contemporary India-I (Grade 9)
+and Contemporary India-II (Grade 10). The placements
+file's own tallies agree with its line count
+(27+29+24+18+23 = 121). The other 12 books in the file
+are record-only — History (Our Pasts I–III, India and
+the Contemporary World I–II), Civics (Social and
+Political Life I–III, Democratic Politics I–II) and
+Economics (Class 9 Economics, Understanding Economic
+Development) — with 0 placements, owned by later waves.
+India's own way: NCERT splits Social Science into
+separate strand books each year (three strands in
+Grades 6–8, four from Grade 9). Stocked into standing
+lessons (73 placements across 68 lessons) across the
+Geography titles. One NEW-flagged slug is built once
+for two placements: India — Wildlife and Its
+Conservation holds both the Grade 6 placement (printed
+p. 60) and the deeper Grade 9 treatment (printed p.
+48). No placement slug needed remapping to a different
+lesson — every existing-flagged slug stands in the
+course under its own name. 47 NEW lessons built (48
+placements) — **Earth and Space**: The Moon — Earth's
+Only Satellite (Grade 6 The Earth Our Habitat, printed
+p. 5); **The Land and Air**: Landforms and Human Life
+(Grade 6 The Earth Our Habitat, printed p. 44), India —
+Location, Size and Neighbours (Grade 6 The Earth Our
+Habitat, printed p. 47), India — Physical Divisions
+(Grade 6 The Earth Our Habitat, printed p. 50), India —
+Climate and the Monsoon (Grade 6 The Earth Our Habitat,
+printed p. 56), India — Natural Vegetation and Forests
+(Grade 6 The Earth Our Habitat, printed p. 58), The
+Water Cycle (Grade 7 Our Environment, printed p. 30),
+Waves, Tides and Ocean Currents (Grade 7 Our
+Environment, printed p. 34), World Vegetation Belts and
+Their Wildlife (Grade 7 Our Environment, printed p.
+43), Life in the Amazon Basin (Grade 7 Our Environment,
+printed p. 55), Life in the Ganga-Brahmaputra Basin
+(Grade 7 Our Environment, printed p. 60), Life in the
+Sahara (Grade 7 Our Environment, printed p. 65), Life
+in Ladakh — Cold Desert (Grade 7 Our Environment,
+printed p. 69), Soil Types of India and Soil
+Conservation (Grade 8 Resources and Development,
+printed p. 12), India — Size and Location (Grade 9
+Contemporary India-I, printed p. 1), How India's
+Landforms Were Made (Grade 9 Contemporary India-I,
+printed p. 7), India — Physiographic Divisions in Depth
+(Grade 9 Contemporary India-I, printed p. 9), India —
+Drainage Basins and Patterns (Grade 9 Contemporary
+India-I, printed p. 17), Himalayan Rivers — Indus,
+Ganga, Brahmaputra (Grade 9 Contemporary India-I,
+printed p. 19), Peninsular Rivers of India (Grade 9
+Contemporary India-I, printed p. 21), India — Monsoon,
+How It Works (Grade 9 Contemporary India-I, printed p.
+26), India — Seasons and Rainfall (Grade 9 Contemporary
+India-I, printed p. 32), India — Natural Vegetation
+Types (Grade 9 Contemporary India-I, printed p. 42),
+Soils of India — Classification (Grade 10 Contemporary
+India-II, printed p. 8); **Population, Transport and
+Maps**: India — States and Union Territories (Grade 6
+The Earth Our Habitat, printed p. 49), Communication
+and Mass Media (Grade 7 Our Environment, printed p.
+53), India — Population Policy and Adolescents (Grade 9
+Contemporary India-I, printed p. 60), Communication in
+India (Grade 10 Contemporary India-II, printed p. 87);
+**People and Resources**: Minerals — Where They Are
+Found, India and the World (Grade 8 Resources and
+Development, printed p. 26), People as a Resource
+(Grade 8 Resources and Development, printed p. 62),
+India — Mineral Belts and Mining (Grade 10 Contemporary
+India-II, printed p. 48); **Culture and Work**: Major
+Crops — Food, Fibre and Beverage (Grade 8 Resources and
+Development, printed p. 42), A Farm in India and a Farm
+in the USA (Grade 8 Resources and Development, printed
+p. 45), Major Industrial Regions of the World and India
+(Grade 8 Resources and Development, printed p. 53),
+Iron and Steel Industry — Jamshedpur (Grade 8 Resources
+and Development, printed p. 55), Cotton Textiles and
+Information Technology (Grade 8 Resources and
+Development, printed p. 58), India — Major Crops in
+Depth (Grade 10 Contemporary India-II, printed p. 38),
+India — Agriculture Reforms and Globalisation (Grade 10
+Contemporary India-II, printed p. 45), India —
+Agro-Based Industries (Grade 10 Contemporary India-II,
+printed p. 66), India — Mineral-Based Industries (Grade
+10 Contemporary India-II, printed p. 71); **Resources
+and Conflict**: Power Resources — Conventional and
+Non-Conventional (Grade 8 Resources and Development,
+printed p. 30), India — Multipurpose Projects and Dams
+(Grade 10 Contemporary India-II, printed p. 26),
+Rainwater Harvesting in India (Grade 10 Contemporary
+India-II, printed p. 30), India — Energy Resources
+(Grade 10 Contemporary India-II, printed p. 55);
+**Global Issues**: India — Wildlife and Its
+Conservation (Grade 6 The Earth Our Habitat, printed p.
+60; Grade 9 Contemporary India-I, printed p. 48),
+Ecosystems — How Living and Non-Living Fit Together
+(Grade 7 Our Environment, printed p. 4), India — Forest
+and Wildlife Conservation (Grade 10 Contemporary
+India-II, printed p. 17) — the new lessons are taught
+in 1 country (India), 8 questions each.
+Geography lessons: 1150 → 1197.

@@ -1,6 +1,6 @@
 # Sources — Primary activities — mining
 
-countries: Ethiopia, Bolivia, Angola, Turkmenistan, Indonesia, Samoa
+countries: Ethiopia, Bolivia, Angola, Turkmenistan, Indonesia, Samoa, India
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 2 — Population Studies and Socio-Economic Activities, printed pp. 44–76).
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Bolivia, Angola, Turkmenistan, Indonesia, Samoa
 
 **Book 7:** *Geography — Year 12* (student book, English) — Ministry of Education, Sports and Culture, Samoa; year 2004; ISBN 982-517-061-1. Title as printed: Geography — Year 12. Year 12 (student/teacher: STUDENT). PDF pages: 193 (cover/title page verified against the record title). Verdict: COMPLETE (Geography parts placed below). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/samoa-placements.md.
 
+**Book 8:** *Resources and Development — Textbook in Geography for Class VIII (Social Science)* (student book, English) — India, NCERT, New Delhi; first edition February 2008, this copy reprint 2020-21; ISBN 978-81-7450-816-4. Title as printed: Resources and Development — Textbook in Geography for Class VIII (Social Science). Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 80 (cover render verified: "Resources and Development, Textbook in Geography for Class VIII, NCERT 2020-21"; grabbed via grab.py release route, 16,558,814 bytes; duplicate TSV + books.json records grade-08/gov/india/resources-and-development.pdf counted once). Verdict: COMPLETE — 6 chapters, printed pp. 1-71. Records note: 34 records / 17 distinct books (17 TSV records in grades 6-10 + 17 books.json records that are the same books by grade/subject — duplicate records of the same NCERT titles); the 5 Geography books were read full page-by-page via pdftotext -layout after cover verification; the other 12 books are record-only (History, Civics, Economics) with no Geography content, filed for later waves. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/india-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What minerals are | Ethiopia, *Social Studies Student Textbook, Grade 8* (Amhara Bureau), printed pp. 57–58 |
@@ -26,8 +28,9 @@ countries: Ethiopia, Bolivia, Angola, Turkmenistan, Indonesia, Samoa
 | Turkmenistan part — §21 Mining industry; metallurgy | Turkmenistan, *Dünýäniň ykdysady we durmuş geografiýasy (World Economic and Social Geography)*, Grade 10, §21 Mining industry; metallurgy — printed p. 85 |
 | Indonesia part (Grade 11) — Bab 1 II.B Sebaran mineral dan tambang Indonesia (mineral distribution maps) | Indonesia, *Geografi untuk SMA Kelas XI*, Grade 11, Bab 1 II.B Sebaran mineral dan tambang Indonesia (mineral distribution maps) — printed p. 40 |
 | Samoa part (Year 12 Geography) — Part 4 Unit 3 Mining Systems | Samoa, *Geography, Year 12*, Part 4 Unit 3 Mining Systems — printed p. 147 |
+| India part (Grade 8 Resources and Development) — Ch.3 Mineral and Power Resources: minerals, metallic and non-metallic; extraction by mining, quarrying and drilling | India, *India Grade 8 Resources and Development*, Ch.3 Mineral and Power Resources: minerals, metallic and non-metallic; extraction by mining, quarrying and drilling — printed p. 22 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Bolivia, Angola, Turkmenistan, Indonesia, Samoa).**
+**Acceptance count: taught in 7 countries (Ethiopia, Bolivia, Angola, Turkmenistan, Indonesia, Samoa, India).**
 
 Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -44,3 +47,5 @@ Angola's own way (Grade 6): a resources-and-environment year — every world top
 Turkmenistan's own way (Grade 10): A classic post-Soviet economic-and-social geography of the whole world in one book: Part I general world (political map, resources, population, world economy by sector), Part II the same template region by region and country by country, Part III global problems — with Turkmenistan's own memberships and ecological policy woven into the questions.
 
 Samoa's own way (Year 12 Geography): A full senior Geography course built on the Pacific itself — high and low island formation, island climates and ecosystems, then population of New Zealand, Asia and Samoa, and Samoan farming (bananas) beside Australian uranium mining.
+
+India's own way (Grade 8 Resources and Development): Grade 8 is a resources year, world-first but India-anchored throughout: resources and their conservation, then land/soil/water/vegetation, minerals and power, agriculture, industries and human resources — every world pattern is paired with its Indian distribution map and an Indian case study (Jamshedpur steel, Ahmedabad textiles, Bangalore IT, a farm in India set against a farm in the USA).

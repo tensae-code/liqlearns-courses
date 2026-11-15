@@ -1,6 +1,6 @@
 # Sources — Materials of the Crust — Elements, Minerals and Rocks
 
-countries: Ethiopia, Barbados, Malaysia
+countries: Ethiopia, Barbados, Malaysia, India
 
 **Book 3:** *Social Studies Teacher's Guide, Grade 7* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, first edition 2022 (© 2014 E.C.), 142 printed pp. Printed page = PDF page - 5. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-teacher-placements.md.
 
@@ -8,14 +8,17 @@ countries: Ethiopia, Barbados, Malaysia
 
 **Book 5:** *Geografi Tingkatan 4 (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Kementerian Pendidikan Malaysia (Ministry of Education Malaysia); produced by Kubu Publications; year 2019 (first printing 2019); ISBN 978-967-17523-0-2. Title as printed: Geografi Tingkatan 4 (Kurikulum Standard Sekolah Menengah, KSSM). Grade 10 / Tingkatan 4 (student/teacher: STUDENT). PDF pages: 234 (cover verified against the record title — "GEOGRAFI TINGKATAN 4"; printed pagination per the book's contents). Verdict: COMPLETE. Records note: covers both Tingkatan 4 records — the TSV release record (mid-size-books-2, read here, 96,802,047 bytes) and the books.json record, whose tree path does not exist in the repo tree (release asset only). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/malaysia-placements.md.
 
+**Book 6:** *Our Environment — Textbook in Geography for Class VII (Social Science)* (student book, English) — India, NCERT, New Delhi; first edition March 2007, this copy reprint 2020-21; ISBN 81-7450-714-0. Title as printed: Our Environment — Textbook in Geography for Class VII (Social Science). Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 84 (cover render verified: "Our Environment, Textbook in Geography for Class VII, NCERT 2020-21"; grabbed via grab.py release route, 23,494,641 bytes; duplicate TSV + books.json records grade-07/gov/india/our-environment.pdf counted once). Verdict: COMPLETE — 9 chapters, printed pp. 1-71 + appendix p. 72. Records note: 34 records / 17 distinct books (17 TSV records in grades 6-10 + 17 books.json records that are the same books by grade/subject — duplicate records of the same NCERT titles); the 5 Geography books were read full page-by-page via pdftotext -layout after cover verification; the other 12 books are record-only (History, Civics, Economics) with no Geography content, filed for later waves. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/india-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Eight elements, and what a mineral is (teacher guide — evidence) | Ethiopia, *Social Studies Teacher's Guide, Grade 7*, Unit 1, printed pp. 11–14 |
 | Sub lesson 2 — Three rock families (teacher guide — evidence) | Ethiopia, *Social Studies Teacher's Guide, Grade 7*, Unit 1, printed pp. 11–14 |
 | Barbados part — rock formation and the rock cycle | Barbados, *Geography for CSEC — 2nd Edition*, Grade 10, Ch. 1: rock formation and the rock cycle — printed p. 5 |
 | Malaysia part (MY T4 Geografi Tingkatan 4) — Bab 6 Pembentukan dan Kepentingan Batuan: types of rocks and how they form | Malaysia, *MY T4 Geografi*, Bab 6 Pembentukan dan Kepentingan Batuan: types of rocks and how they form — printed pp. 74-80 |
+| India part (Grade 7 Our Environment) — Ch.2: rocks and minerals; igneous, sedimentary and metamorphic rocks and the rock cycle | India, *India Grade 7 Our Environment*, Ch.2: rocks and minerals; igneous, sedimentary and metamorphic rocks and the rock cycle — printed p. 9 |
 
-**Acceptance count: taught in 2 countries (Barbados, Malaysia). Ethiopia is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 3 countries (Barbados, Malaysia, India). Ethiopia is named here as teacher-guide evidence only, counted nowhere.**
 
 Barbados's own way: this is the shared Caribbean CSEC examination textbook used in Barbados — every world process is re-taught through Caribbean case studies (the Caribbean plate, Montserrat's volcano, Jamaica's coasts and Kingston's urban problems, St Lucia's reefs, Bahamas/Jamaica/Puerto Rico karst, Guyana's rivers), map and field skills are folded into the chapters, and the course ends in a School-Based Assessment fieldwork project. That way is stocked here as the way Barbados teaches this thing; it does not change the acceptance count above.
 
@@ -24,3 +27,5 @@ For Ethiopia, this lesson stands on teacher-guide evidence only: the Amhara stud
 Searchable tags: crust materials, eight elements, minerals, silicates, igneous, sedimentary, metamorphic, rocks, teacher guide evidence
 
 Malaysia's own way (MY T4 Geografi Tingkatan 4): upper-secondary Geography is a full topographic-map apprenticeship (bearings, area, cross-sections, landscape reading) followed by process geography — plates, rocks, weathering, mass movement, rivers and coasts — and a world-scale human geography of population, migration, settlements and urbanisation.
+
+India's own way (Grade 7 Our Environment): Grade 7 is organised around "environment" in widening rings — the concept itself, then inside/changing Earth, air and water, world vegetation belts, human settlement and transport, and finally three lived-in region studies (Amazon basin, Ganga-Brahmaputra basin, Sahara and Ladakh deserts) where all the strands meet in real places.

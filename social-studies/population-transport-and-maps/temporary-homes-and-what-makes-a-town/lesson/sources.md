@@ -1,6 +1,6 @@
 # Sources — Temporary homes, and what makes a town
 
-countries: Ethiopia, Turkey, Palestine, Bangladesh, Egypt, Bahamas, Malaysia, Eritrea
+countries: Ethiopia, Turkey, Palestine, Bangladesh, Egypt, Bahamas, Malaysia, Eritrea, India
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Turkey, Palestine, Bangladesh, Egypt, Bahamas, Malaysia, Er
 
 **Book 10:** *Social Studies for Grade 6 — Pupils' Book* (student book, English) — Eritrea, Ministry of Education, The State of Eritrea; year 2015 (reprinted 2015, Sabur Printing Services, Asmara); ISBN 99948-1-453-2. Title as printed: Social Studies for Grade 6 — Pupils' Book. Grade 6 (student/teacher: STUDENT). PDF pages: 127 (cover/title page verified against the record title; 2,730,732 bytes, matches record size_bytes). Verdict: COMPLETE. Records note: 7 records / 5 distinct books; the TSV release records for Grades 4 and 5 duplicate the books.json tree records of the same repo path (one book each); read via grab (curl-based GitHub API route with byte-size + blob-SHA verification), covers verified by render, full text read via pdftotext -layout. Combined Social Studies books: Geography parts placed; History/Civics parts named in each book header only. Named, not placed — History parts (named, not placed): Unit 1 Sources, printed p. 1; Unit 2 Measuring Time, printed p. 8; Unit 8 Eritrea 900 B.C.E–1300 C.E, printed p. 60; Unit 9 The Period of the Bahri Negestat, printed p. 68 Civics / life-skills parts (named, not placed): Unit 13 Caring for Younger Children, printed p. 111 Placements at liqlearns-courses-work/expansion-geography-2026-11-14/eritrea-placements.md.
 
+**Book 11:** *Our Environment — Textbook in Geography for Class VII (Social Science)* (student book, English) — India, NCERT, New Delhi; first edition March 2007, this copy reprint 2020-21; ISBN 81-7450-714-0. Title as printed: Our Environment — Textbook in Geography for Class VII (Social Science). Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 84 (cover render verified: "Our Environment, Textbook in Geography for Class VII, NCERT 2020-21"; grabbed via grab.py release route, 23,494,641 bytes; duplicate TSV + books.json records grade-07/gov/india/our-environment.pdf counted once). Verdict: COMPLETE — 9 chapters, printed pp. 1-71 + appendix p. 72. Records note: 34 records / 17 distinct books (17 TSV records in grades 6-10 + 17 books.json records that are the same books by grade/subject — duplicate records of the same NCERT titles); the 5 Geography books were read full page-by-page via pdftotext -layout after cover verification; the other 12 books are record-only (History, Civics, Economics) with no Geography content, filed for later waves. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/india-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Temporary settlements | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 4, printed pp. 106–109 |
@@ -35,8 +37,9 @@ countries: Ethiopia, Turkey, Palestine, Bangladesh, Egypt, Bahamas, Malaysia, Er
 | Bahamas part (Grade 3) — My Community: a community is a place where people live, work, play and attend school and church; its buildings, roads and parks | Bahamas, *Social Science, Grade 3*, Grade 3, My Community: a community is a place where people live, work, play and attend school and church; its buildings, roads and parks — printed p. 17 |
 | Malaysia part (MY T1 Geografi Tingkatan 1) — Bab 9.3: functions of urban and rural settlements | Malaysia, *MY T1 Geografi*, Bab 9.3: functions of urban and rural settlements — printed pp. 104-107 |
 | Eritrea part (ER G6 Social Studies) — Unit 6: types of settlement | Eritrea, *ER G6 Social Studies*, Unit 6: types of settlement — printed p. 37 |
+| India part (Grade 7 Our Environment) — Ch.7 Human Environment — Settlement, Transport and Communication: why settlements grow where water, land and safety allow; temporary and permanent settlements | India, *India Grade 7 Our Environment*, Ch.7 Human Environment — Settlement, Transport and Communication: why settlements grow where water, land and safety allow; temporary and permanent settlements — printed p. 47 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Turkey, Palestine, Bangladesh, Egypt, Bahamas, Malaysia, Eritrea).**
+**Acceptance count: taught in 9 countries (Ethiopia, Turkey, Palestine, Bangladesh, Egypt, Bahamas, Malaysia, Eritrea, India).**
 
 Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
@@ -55,3 +58,5 @@ Bahamas' own way (Grade 3): The integrated Social Science pattern continues, but
 Malaysia's own way (MY T1 Geografi Tingkatan 1): a pure Geography textbook organised as skills first (direction, position, sketch maps), then physical geography, human geography, a regional study of Southeast Asia, environmental issues and a full fieldwork chapter — every chapter anchored to Malaysian places first, then the region.
 
 Eritrea's own way (ER G6 Social Studies): one integrated Social Studies book per grade weaving History, Geography, Civics and Culture strands; Geography is taught through Eritrea itself first (Eritrea's location and size, Eritrean settlement, migration and disasters) with very practical, activity-led lessons.
+
+India's own way (Grade 7 Our Environment): Grade 7 is organised around "environment" in widening rings — the concept itself, then inside/changing Earth, air and water, world vegetation belts, human settlement and transport, and finally three lived-in region studies (Amazon basin, Ganga-Brahmaputra basin, Sahara and Ladakh deserts) where all the strands meet in real places.

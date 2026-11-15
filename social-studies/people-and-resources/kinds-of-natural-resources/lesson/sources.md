@@ -1,6 +1,6 @@
 # Sources — Kinds of Natural Resources
 
-countries: Ethiopia, Sweden, Nauru, Tuvalu, Niue, Palestine, Angola, Bangladesh, Turkmenistan, Indonesia, Bahamas, Samoa, Zimbabwe, Colombia
+countries: Ethiopia, Sweden, Nauru, Tuvalu, Niue, Palestine, Angola, Bangladesh, Turkmenistan, Indonesia, Bahamas, Samoa, Zimbabwe, Colombia, India
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (placement 45).
 
@@ -40,6 +40,8 @@ countries: Ethiopia, Sweden, Nauru, Tuvalu, Niue, Palestine, Angola, Bangladesh,
 
 **Book 19:** *Ciencias Sociales — Secundaria Activa, Grado 6 (module)* (student module, Spanish) — Colombia, Ministerio de Educación Nacional (Secundaria Activa); year not printed on extracted front pages; ISBN no ISBN printed in the extracted front matter. Title as printed: Ciencias Sociales — Secundaria Activa, Grado 6 (module). Grade 6 (student/teacher: STUDENT). PDF pages: 256 (table of contents verified against the record title/grade). Verdict: COMPLETE. Non-Geography parts named in the placements, not placed: Unidad 3 Cap. 6–7 (political structures, stratified societies, first empires, sacred/urban architecture), printed pp. 152–205 (History); Unidad 4 ¿Qué aprendemos de las sociedades de ayer y de hoy? (legacies, Greek democracy, ancient law codes), printed pp. 206–245 (History/Civics).. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/colombia-placements.md.
 
+**Book 20:** *Resources and Development — Textbook in Geography for Class VIII (Social Science)* (student book, English) — India, NCERT, New Delhi; first edition February 2008, this copy reprint 2020-21; ISBN 978-81-7450-816-4. Title as printed: Resources and Development — Textbook in Geography for Class VIII (Social Science). Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 80 (cover render verified: "Resources and Development, Textbook in Geography for Class VIII, NCERT 2020-21"; grabbed via grab.py release route, 16,558,814 bytes; duplicate TSV + books.json records grade-08/gov/india/resources-and-development.pdf counted once). Verdict: COMPLETE — 6 chapters, printed pp. 1-71. Records note: 34 records / 17 distinct books (17 TSV records in grades 6-10 + 17 books.json records that are the same books by grade/subject — duplicate records of the same NCERT titles); the 5 Geography books were read full page-by-page via pdftotext -layout after cover verification; the other 12 books are record-only (History, Civics, Economics) with no Geography content, filed for later waves. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/india-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Whole lesson opening — pupils list and classify their locality's resources before the book classifies | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 3, printed p. 61 |
@@ -64,8 +66,9 @@ countries: Ethiopia, Sweden, Nauru, Tuvalu, Niue, Palestine, Angola, Bangladesh,
 | Colombia part (CS_Grado2_01) — Guía 6 ¿Qué son los recursos naturales? air, water, vegetation, animals in the landscape | Colombia, *Ciencias Sociales 2 — Primera Cartilla, Escuela Nueva*, Guía 6 ¿Qué son los recursos naturales? air, water, vegetation, animals in the landscape — printed p. 105 |
 | Colombia part (CS_Grado7 Postprimaria) — Módulo 3 Guía 9 Uso y explotación de recursos naturales | Colombia, *Ciencias Sociales — Postprimaria Rural, Grado 7 (student guide)*, Módulo 3 Guía 9 Uso y explotación de recursos naturales — printed p. 112 |
 | Colombia part (CS_Grado06 Secundaria Activa) — Unidad 2 Cap. 4 Tema 10 La despensa natural del ser humano (nature as humanity's pantry) | Colombia, *Ciencias Sociales — Secundaria Activa, Grado 6 (module)*, Unidad 2 Cap. 4 Tema 10 La despensa natural del ser humano (nature as humanity's pantry) — printed p. 89 |
+| India part (Grade 8 Resources and Development) — Ch.1: classifying resources — biotic/abiotic, renewable/non-renewable, ubiquitous/localised, actual/potential | India, *India Grade 8 Resources and Development*, Ch.1: classifying resources — biotic/abiotic, renewable/non-renewable, ubiquitous/localised, actual/potential — printed p. 2 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Nauru, Tuvalu, Niue, Palestine, Angola, Bangladesh, Turkmenistan, Indonesia, Bahamas, Samoa, Colombia). Sweden is named here as teacher-guide evidence only, counted nowhere. Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 13 countries (Ethiopia, Nauru, Tuvalu, Niue, Palestine, Angola, Bangladesh, Turkmenistan, Indonesia, Bahamas, Samoa, Colombia, India). Sweden is named here as teacher-guide evidence only, counted nowhere. Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
 
 Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -104,3 +107,5 @@ Colombia's own way (CS_Grado2_01): Escuela Nueva self-paced guides (parts A–D:
 Colombia's own way (CS_Grado7 Postprimaria): the rural Postprimaria Grade 7 guide teaches the medieval/colonial world through territory — how societies transformed their natural environment, represented their territory, and used and exploited its natural resources.
 
 Colombia's own way (CS_Grado06 Secundaria Activa): Grade 6 Secundaria Activa starts from the universe and the Earth as a "living machine" (rocks and wrinkles, water, air), then follows humans evolving, migrating from Africa to America and adapting to each continent's environment — geography as the stage for all the history that follows.
+
+India's own way (Grade 8 Resources and Development): Grade 8 is a resources year, world-first but India-anchored throughout: resources and their conservation, then land/soil/water/vegetation, minerals and power, agriculture, industries and human resources — every world pattern is paired with its Indian distribution map and an Indian case study (Jamshedpur steel, Ahmedabad textiles, Bangalore IT, a farm in India set against a farm in the USA).

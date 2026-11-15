@@ -1,6 +1,6 @@
 # Sources — Primary activities — kinds of farming
 
-countries: Ethiopia, Nauru, Tuvalu, Niue, Palestine, Bahamas, Samoa, Eritrea
+countries: Ethiopia, Nauru, Tuvalu, Niue, Palestine, Bahamas, Samoa, Eritrea, India
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 2 — Population Studies and Socio-Economic Activities, printed pp. 44–76).
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Nauru, Tuvalu, Niue, Palestine, Bahamas, Samoa, Eritrea
 
 **Book 8:** *Social Studies for Grade 8 — Textbook* (student book, English) — Eritrea, Ministry of Education, The State of Eritrea; year 2011; ISBN 99948-1-592-X. Title as printed: Social Studies for Grade 8 — Textbook. Grade 8 (student/teacher: STUDENT). PDF pages: 157 (cover/title page verified against the record title; 4,716,045 bytes and 157 pages, both match the record). Verdict: COMPLETE. Records note: 7 records / 5 distinct books; the TSV release records for Grades 4 and 5 duplicate the books.json tree records of the same repo path (one book each); read via grab (curl-based GitHub API route with byte-size + blob-SHA verification), covers verified by render, full text read via pdftotext -layout. Combined Social Studies books: Geography parts placed; History/Civics parts named in each book header only. Named, not placed — History parts (named, not placed): Unit 5 Expansionism and Resistance against Colonial Rule, printed p. 64; Unit 6 Colonial Administrations in Eritrea, printed p. 89; Unit 7 Highlights of the Eritrean Armed Struggle, printed p. 105; Unit 8 Post Independence Developments, printed p. 116 Placements at liqlearns-courses-work/expansion-geography-2026-11-14/eritrea-placements.md.
 
+**Book 9:** *Resources and Development — Textbook in Geography for Class VIII (Social Science)* (student book, English) — India, NCERT, New Delhi; first edition February 2008, this copy reprint 2020-21; ISBN 978-81-7450-816-4. Title as printed: Resources and Development — Textbook in Geography for Class VIII (Social Science). Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 80 (cover render verified: "Resources and Development, Textbook in Geography for Class VIII, NCERT 2020-21"; grabbed via grab.py release route, 16,558,814 bytes; duplicate TSV + books.json records grade-08/gov/india/resources-and-development.pdf counted once). Verdict: COMPLETE — 6 chapters, printed pp. 1-71. Records note: 34 records / 17 distinct books (17 TSV records in grades 6-10 + 17 books.json records that are the same books by grade/subject — duplicate records of the same NCERT titles); the 5 Geography books were read full page-by-page via pdftotext -layout after cover verification; the other 12 books are record-only (History, Civics, Economics) with no Geography content, filed for later waves. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/india-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — By product, and by purpose | Ethiopia, *Social Studies Student Textbook, Grade 8* (Amhara Bureau), printed pp. 55–56 |
@@ -31,8 +33,9 @@ countries: Ethiopia, Nauru, Tuvalu, Niue, Palestine, Bahamas, Samoa, Eritrea
 | Bahamas part (Grade 3) — Plants: backyard farming — The Bahamas imports almost 80% of its food, so families are encouraged to grow their own on their plots of land | Bahamas, *Social Science, Grade 3*, Grade 3, Plants: backyard farming — The Bahamas imports almost 80% of its food, so families are encouraged to grow their own on their plots of land — printed p. 45 |
 | Samoa part (Year 12 Geography) — Part 4 Unit 1 Farming Systems | Samoa, *Geography, Year 12*, Part 4 Unit 1 Farming Systems — printed p. 129 |
 | Eritrea part (ER G8 Social Studies) — Unit 9 Economic Activities: 9.1 Farming | Eritrea, *ER G8 Social Studies*, Unit 9 Economic Activities: 9.1 Farming — printed p. 129 |
+| India part (Grade 8 Resources and Development) — Ch.4 Agriculture: farming types — subsistence (intensive and primitive/shifting) and commercial (grain, mixed, plantation); organic farming | India, *India Grade 8 Resources and Development*, Ch.4 Agriculture: farming types — subsistence (intensive and primitive/shifting) and commercial (grain, mixed, plantation); organic farming — printed p. 38 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Nauru, Tuvalu, Niue, Palestine, Bahamas, Samoa, Eritrea).**
+**Acceptance count: taught in 9 countries (Ethiopia, Nauru, Tuvalu, Niue, Palestine, Bahamas, Samoa, Eritrea, India).**
 
 Niue's own way: Niue uses the shared Pacific ESD reader suite (Niue advisor Birtha Togahai) — land Geography is taught through Pacific farming itself: taro, pulaka and the coconut "tree of life", with Niue's own crops, exports and name-story ("behold the coconut") as anchor examples, and shifting cultivation/fallowing taught as sound science. That way is stocked here as the way Niue teaches this thing.
 
@@ -51,3 +54,5 @@ Bahamas' own way (Grade 3): The integrated Social Science pattern continues, but
 Samoa's own way (Year 12 Geography): A full senior Geography course built on the Pacific itself — high and low island formation, island climates and ecosystems, then population of New Zealand, Asia and Samoa, and Samoan farming (bananas) beside Australian uranium mining.
 
 Eritrea's own way (ER G8 Social Studies): Grade 8 is the Eritrea-physical-geography year — relief, hydrology and water shortage, people-environment adaptation and Eritrea's strategic Red Sea location are taught as four full Geography units before the History units begin.
+
+India's own way (Grade 8 Resources and Development): Grade 8 is a resources year, world-first but India-anchored throughout: resources and their conservation, then land/soil/water/vegetation, minerals and power, agriculture, industries and human resources — every world pattern is paired with its Indian distribution map and an Indian case study (Jamshedpur steel, Ahmedabad textiles, Bangalore IT, a farm in India set against a farm in the USA).

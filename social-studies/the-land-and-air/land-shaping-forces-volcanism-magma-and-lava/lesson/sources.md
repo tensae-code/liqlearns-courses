@@ -1,6 +1,6 @@
 # Sources — Land-Shaping Forces — Volcanism, Magma and Lava
 
-countries: Ethiopia, Barbados, Guatemala, Costa Rica, Indonesia, Eritrea
+countries: Ethiopia, Barbados, Guatemala, Costa Rica, Indonesia, Eritrea, India
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Barbados, Guatemala, Costa Rica, Indonesia, Eritrea
 
 **Book 7:** *Social Studies for Grade 7 — Textbook* (student book, English) — Eritrea, Ministry of Education, The State of Eritrea; year 2011 (reprinted 2011); ISBN 99948-1-584-9. Title as printed: Social Studies for Grade 7 — Textbook. Grade 7 (student/teacher: STUDENT). PDF pages: 154 (cover/title page verified against the record title; 3,970,347 bytes and 154 pages, both match the record). Verdict: COMPLETE. Records note: 7 records / 5 distinct books; the TSV release records for Grades 4 and 5 duplicate the books.json tree records of the same repo path (one book each); read via grab (curl-based GitHub API route with byte-size + blob-SHA verification), covers verified by render, full text read via pdftotext -layout. Combined Social Studies books: Geography parts placed; History/Civics parts named in each book header only. Named, not placed — History parts (named, not placed): Unit 5 Social Development: Primitive Communal to Feudalism, printed p. 63 Civics parts (named, not placed): Unit 6 Government (development of government; government systems; system of government administration in Eritrea), printed p. 78 Placements at liqlearns-courses-work/expansion-geography-2026-11-14/eritrea-placements.md.
 
+**Book 8:** *Our Environment — Textbook in Geography for Class VII (Social Science)* (student book, English) — India, NCERT, New Delhi; first edition March 2007, this copy reprint 2020-21; ISBN 81-7450-714-0. Title as printed: Our Environment — Textbook in Geography for Class VII (Social Science). Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 84 (cover render verified: "Our Environment, Textbook in Geography for Class VII, NCERT 2020-21"; grabbed via grab.py release route, 23,494,641 bytes; duplicate TSV + books.json records grade-07/gov/india/our-environment.pdf counted once). Verdict: COMPLETE — 9 chapters, printed pp. 1-71 + appendix p. 72. Records note: 34 records / 17 distinct books (17 TSV records in grades 6-10 + 17 books.json records that are the same books by grade/subject — duplicate records of the same NCERT titles); the 5 Geography books were read full page-by-page via pdftotext -layout after cover verification; the other 12 books are record-only (History, Civics, Economics) with no Geography content, filed for later waves. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/india-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The whole process | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 13–14 |
@@ -26,8 +28,9 @@ countries: Ethiopia, Barbados, Guatemala, Costa Rica, Indonesia, Eritrea
 | Costa Rica part — earth dynamics and volcanic activity | Costa Rica, *Antología CONED 8*, Grade 8, Unit 1 Tema 1 C — printed p. 24 |
 | Indonesia part (Grade 11) — Bab 1 I.C Pengaruh letak geologis: Pacific Ring of Fire, volcanic arcs | Indonesia, *Geografi untuk SMA Kelas XI*, Grade 11, Bab 1 I.C Pengaruh letak geologis: Pacific Ring of Fire, volcanic arcs — printed p. 15 |
 | Eritrea part (ER G7 Social Studies) — Unit 8: 8.6 Volcanism in Eritrea | Eritrea, *ER G7 Social Studies*, Unit 8: 8.6 Volcanism in Eritrea — printed p. 120 |
+| India part (Grade 7 Our Environment) — Ch.3 Our Changing Earth: volcanoes | India, *India Grade 7 Our Environment*, Ch.3 Our Changing Earth: volcanoes — printed p. 12 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Barbados, Guatemala, Costa Rica, Indonesia, Eritrea).**
+**Acceptance count: taught in 7 countries (Ethiopia, Barbados, Guatemala, Costa Rica, Indonesia, Eritrea, India).**
 
 Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -42,3 +45,5 @@ Costa Rica's own way: an almost purely geographical anthology — earth dynamics
 Searchable tags: land-shaping forces   volcanism  magma and lava, ethiopia, social studies, the land and air, Guatemala, Costa Rica, CONED Antología, Estudios Sociales
 
 Eritrea's own way (ER G7 Social Studies): Grade 7 turns fully to skills and Eritrea's land — map scale, area and population arithmetic first, then Eritrea's natural heritage (Red Sea coast, wildlife) and Eritrea's own disaster set (drought, locusts, earthquakes, volcanism) as the environmental core.
+
+India's own way (Grade 7 Our Environment): Grade 7 is organised around "environment" in widening rings — the concept itself, then inside/changing Earth, air and water, world vegetation belts, human settlement and transport, and finally three lived-in region studies (Amazon basin, Ganga-Brahmaputra basin, Sahara and Ladakh deserts) where all the strands meet in real places.
