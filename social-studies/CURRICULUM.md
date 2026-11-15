@@ -1360,3 +1360,75 @@ inequality — access to care and vaccines worldwide
 all teacher-sequence evidence only, acceptance count
 0 countries, 8 questions each. Geography lessons:
 678 → 684.
+
+## Geography expansion — Nauru — built 2026-11-14
+
+Nauru — 34 placements stocked from 3 distinct books
+(3 records / 3 distinct books in the Nauru file).
+Nauru teaches from the shared Pacific ESD reader
+suite (local advisors Fay Itaia & Sharon Kam for
+Nauru): *People and the Sea in the Pacific* (Years
+5–6, student reader, Book 1, COMPLETE, 24 PDF pp.),
+*People and the Natural Environment in the Pacific*
+(Grade 5 per record, student reader, Book 3,
+COMPLETE, 24 PDF pp.; its inner title page says
+Years 7–8 — a record/printing mismatch, noted as a
+library debt) and the *Teacher Guide for the
+Science-Related & Social Studies-Related Primary
+School ESD Readers* (Years 5–8, teacher guide, 48
+PDF pp., PARTIAL for Geography — its two
+Science-related readers are named in the guide's
+sources entries but not placed). The two student
+readers count in acceptance counts; the teacher
+guide is cited as the evidence it is, outside
+acceptance counts. Stocked into standing lessons
+— **The Land and Air**: Water bodies — the five
+oceans (Sea reader, printed p. 1); **Earth and
+Space**: The Earth's four spheres (Natural
+Environment reader, printed p. 1 — this lesson's
+first pupil-taught country; it stood on
+teacher-guide evidence only before); **People and
+Resources**: Kinds of natural resources (printed
+p. 3), Renewable, non-renewable — and using
+sustainably (printed p. 3), Tourism — selling the
+landscape (Sea reader, printed p. 10) and
+Subsistence farming — feeding the nation (printed
+p. 15); **Culture and Work**: Primary activities —
+fishing grounds (Sea reader, printed pp. 12, 14
+and 15), Primary activities — kinds of farming
+(printed pp. 7 and 10) and Primary activities —
+agriculture (printed p. 8); **Resources and
+Conflict**: Overexploitation — taking faster than
+nature replaces (Sea reader, printed pp. 7 and
+17), Indigenous knowledge conserves (printed
+p. 5), Intensification — feeding more, costing the
+land (printed p. 17) and How people change the
+land — and pollute it (printed p. 18); **Global
+Issues**: Biodiversity — the variety of life,
+under threat (Sea reader, printed pp. 3, 5 and 9),
+Protecting the environment where you live (Sea
+reader, printed p. 19, and Natural Environment
+reader, printed p. 19 — this lesson's first
+pupil-taught country; it stood on teacher-guide
+evidence only before), Indigenous knowledge that
+protects the environment (printed p. 6) and
+Environmental education — learning for the planet
+(ESD Teacher Guide, printed pp. 12 and 32 —
+teacher-guide evidence only, acceptance count
+unchanged) — and 6 new lessons built — in **The
+Land and Air**: The Pacific — a sea of islands
+(Sea reader, printed p. 2; ESD Teacher Guide,
+printed p. 16, as evidence); in **Culture and
+Work**: Sacred fishing traditions of the Pacific
+(Sea reader, printed p. 6) and Pulaka — Tuvalu's
+giant swamp taro (Natural Environment reader,
+printed p. 9); in **People and Resources**: The
+coconut — tree of life (Natural Environment
+reader, printed pp. 11 and 14) and Energy
+resources (Natural Environment reader, printed
+p. 13); in **Global Issues**: Living things depend
+on each other (Natural Environment reader, printed
+p. 2; ESD Teacher Guide, printed p. 24, as
+evidence) — the new lessons taught in 1 country
+(Nauru), 8 questions each. Geography lessons:
+684 → 690.

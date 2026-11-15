@@ -103,7 +103,7 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **684**
+Geography lessons across the eight Geography titles: **690**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -236,3 +236,9 @@ us — mapping local hazards, A geohistory of risk
 — Haiti's vulnerable territory, Building a culture
 of risk — prevention and protection and Health
 inequality — access to care and vaccines worldwide.
++6 for Nauru, 2026-11-14 — The Land and Air: The
+Pacific — a sea of islands; Culture and Work: Sacred
+fishing traditions of the Pacific and Pulaka —
+Tuvalu's giant swamp taro; People and Resources: The
+coconut — tree of life and Energy resources; Global
+Issues: Living things depend on each other.
