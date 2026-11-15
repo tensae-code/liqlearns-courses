@@ -1,6 +1,6 @@
 # Sources — Trade routes that linked the old world
 
-countries: Ethiopia, Nigeria, France, Kuwait, India
+countries: Ethiopia, Nigeria, France, Kuwait, India, Indonesia
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -71,3 +71,18 @@ Kuwait's own way (Grade 6 Term 1): History is taught inside a Kuwait-and-Gulf fr
 India's own way (Our Pasts-I, Grade 6): NCERT teaches history as a story journey — every chapter opens with a present-day child (Rasheeda, Tushar, Jaspal…) whose question starts the chapter, primary sources are quoted in boxes (the Rigveda dialogue, Ashoka's own inscription, Fa Xian, Banabhatta), an "Elsewhere" box sets India beside the wider world each chapter, and kings are taught alongside ordinary people — farmers, fishers, weavers, slaves — with the book's title itself plural: Our Pasts, because different groups lived different pasts. That way is stocked here as the way India teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 5 countries (Ethiopia, Nigeria, France, Kuwait, India).**
+
+
+---
+
+## History expansion (2026-11-15) — Indonesia stocked
+
+**Book 3:** *SEJARAH — Edisi Revisi* (student book, Bahasa Indonesia) — Indonesia. Title as printed: SEJARAH — Edisi Revisi (cover: "SEJARAH Edisi Revisi / Martina Safitry, Indah Wahyu Puji Utami, Wahyu Djoko Sulistyo / SMA/MA/SMK/MAK KELAS XI"). Grade: Kelas XI / Grade 11 (student: STUDENT). Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan, Kemendikbudristek), Jakarta; Edisi Revisi 2024; ISBN 978-623-388-489-1 (jil. 1 PDF); 978-623-388-488-4 (complete set). PDF pages: 224 (xiv + 210 printed pages; cover/title page verified against the record title). Route note: the books.json tree path returned HTTP 404 via grab.py tree; the same book was read via its TSV twin record, the mid-size-books-7 release asset — a library debt. Verdict: COMPLETE. Tally: 24 placements — 5 to existing lessons, 19 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia part — Bab I.A Keterkaitan Sejarah Regional dan Global — story beats: long before Europeans, Nusantara sailors trade Barus camphor across Asia — Ptolemy's 2nd-century map names the Barussae islands and Borobudur's stone ships show the archipelago's own maritime world (History expansion, 2026-11-15; original placement slug: ancient-world/trade-routes-that-linked-the-old-world) | Indonesia, *Sejarah untuk SMA/MA/SMK/MAK Kelas XI, Edisi Revisi*, printed p. 5 |
+
+Indonesia's own way (Sejarah untuk SMA/MA/SMK/MAK Kelas XI, Edisi Revisi, Kelas XI / Grade 11 (student/teacher: STUDENT)): the national story is told as resistance and awakening — every colonial episode is paired with the Indonesians who fought, organised, wrote or negotiated against it, and world events (1453, Versailles, the Depression, Hiroshima) are admitted only where they change Indonesia's fate. That way is stocked here as the way Indonesia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 6 countries (Ethiopia, Nigeria, France, Kuwait, India, Indonesia).**

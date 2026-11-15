@@ -1,6 +1,6 @@
 # Sources — Exploration — Portugal and the sea routes to India
 
-countries: Ethiopia, Palestine, Nigeria, United States, Ecuador, Kuwait
+countries: Ethiopia, Palestine, Nigeria, United States, Ecuador, Kuwait, Indonesia
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -111,3 +111,18 @@ Non-History parts of this book, named in the placements, not placed here: none �
 Kuwait's own way (Grade 12 Term 1): Grade 12 world history is a Europe-outward arc in six chapters across the year — Renaissance, discoveries, colonialism, industry, revolutions, world wars — each chapter split into concept, causes, course and results, with the same introduction carried in both term books. That way is stocked here as the way Kuwait teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 6 countries (Ethiopia, Palestine, Nigeria, United States, Ecuador, Kuwait).**
+
+
+---
+
+## History expansion (2026-11-15) — Indonesia stocked
+
+**Book 3:** *SEJARAH — Edisi Revisi* (student book, Bahasa Indonesia) — Indonesia. Title as printed: SEJARAH — Edisi Revisi (cover: "SEJARAH Edisi Revisi / Martina Safitry, Indah Wahyu Puji Utami, Wahyu Djoko Sulistyo / SMA/MA/SMK/MAK KELAS XI"). Grade: Kelas XI / Grade 11 (student: STUDENT). Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan, Kemendikbudristek), Jakarta; Edisi Revisi 2024; ISBN 978-623-388-489-1 (jil. 1 PDF); 978-623-388-488-4 (complete set). PDF pages: 224 (xiv + 210 printed pages; cover/title page verified against the record title). Route note: the books.json tree path returned HTTP 404 via grab.py tree; the same book was read via its TSV twin record, the mid-size-books-7 release asset — a library debt. Verdict: COMPLETE. Tally: 24 placements — 5 to existing lessons, 19 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia part — Bab I.A — story beats: Constantinople falls to Sultan Mehmed al-Fatih, the spice roads close, and Portugal answers at sea — Vasco da Gama, then Albuquerque's seizure of Malacca, brings the European age to Nusantara's door (History expansion, 2026-11-15; original placement slug: modern-world/exploration-portugal-and-the-sea-routes) | Indonesia, *Sejarah untuk SMA/MA/SMK/MAK Kelas XI, Edisi Revisi*, printed p. 9 |
+
+Indonesia's own way (Sejarah untuk SMA/MA/SMK/MAK Kelas XI, Edisi Revisi, Kelas XI / Grade 11 (student/teacher: STUDENT)): the national story is told as resistance and awakening — every colonial episode is paired with the Indonesians who fought, organised, wrote or negotiated against it, and world events (1453, Versailles, the Depression, Hiroshima) are admitted only where they change Indonesia's fate. That way is stocked here as the way Indonesia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 7 countries (Ethiopia, Palestine, Nigeria, United States, Ecuador, Kuwait, Indonesia).**

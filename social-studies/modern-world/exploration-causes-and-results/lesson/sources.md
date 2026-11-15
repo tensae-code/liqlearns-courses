@@ -1,6 +1,6 @@
 # Sources — Exploration — causes and results
 
-countries: Ethiopia, United States, Guatemala, Costa Rica, Kuwait, Fiji
+countries: Ethiopia, United States, Guatemala, Costa Rica, Kuwait, Fiji, Indonesia
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page - 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 6, placement 125).
 
@@ -120,3 +120,18 @@ Non-History parts of this book, named in the placements, not placed here: Chapte
 Fiji's own way (Social Science Year 9 — Rediscovering Society, Year 9 (student/teacher: STUDENT)): a full "History of Fiji" chapter inside Social Science, proceeding by periods and trades — pre-contact, discovery, sandalwood, beche-de-mer, missionaries, Ma'afu and Cakobau — with named local leaders' biographies in the civics chapter. That way is stocked here as the way Fiji teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 6 countries (Ethiopia, United States, Guatemala, Costa Rica, Kuwait, Fiji).**
+
+
+---
+
+## History expansion (2026-11-15) — Indonesia stocked
+
+**Book 5:** *Sejarah Indonesia* (student book, Bahasa Indonesia) — Indonesia. Title as printed: Sejarah Indonesia (cover: "Sejarah Indonesia / SMA/MA SMK/MAK Kelas XI Semester 1", Kurikulum 2013). Grade: Kelas XI / Grade 11, Semester 1 (student: STUDENT). Publisher: Kementerian Pendidikan dan Kebudayaan (Pusat Kurikulum dan Perbukuan, Balitbang), Jakarta; Cetakan ke-1, 2014; ISBN 978-602-282-109-0 (jilid 2a); 978-602-282-107-6 (complete set). PDF pages: 221 (viii + 212 printed pages; cover/title page verified against the record title; read via the TSV blob record route). Verdict: COMPLETE. Tally: 24 placements — 1 to existing lessons, 23 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia part — Bab I.A Melacak Perburuan "Mutiara dari Timur" — story beats: the West's motives — wealth, glory and gospel — launch the voyages that 'find' a Nusantara already trading with Chinese ships, and the pearl of the East becomes a prize to seize (History expansion, 2026-11-15; original placement slug: modern-world/exploration-causes-and-results) | Indonesia, *Sejarah Indonesia Kelas XI Semester 1 (Kurikulum 2013)*, printed p. 6 |
+
+Indonesia's own way (Sejarah Indonesia Kelas XI Semester 1 (Kurikulum 2013), Kelas XI / Grade 11, Semester 1 (student/teacher: STUDENT)): the older Kurikulum 2013 book is a war-by-war resistance atlas — each region's fight gets its own section in geographic order — framed by Sukarno's courtroom words on imperialism and by the question of why political independence has not yet meant economic independence. That way is stocked here as the way Indonesia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 7 countries (Ethiopia, United States, Guatemala, Costa Rica, Kuwait, Fiji, Indonesia).**

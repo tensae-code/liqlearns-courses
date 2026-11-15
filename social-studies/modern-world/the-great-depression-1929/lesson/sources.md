@@ -1,6 +1,6 @@
 # Sources — The Great Depression — 1929 and the world it broke
 
-countries: Ethiopia, United States, Costa Rica, Australia
+countries: Ethiopia, United States, Costa Rica, Australia, Indonesia
 
 **Book 1:** *History, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN 978-99990-0-065-9. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g10-student-placements.md
 
@@ -57,3 +57,18 @@ Costa Rica's own way (Costa Rica Grade 10 CONED Antología): The Décimo antholo
 Australia's own way (Australia Retroactive 2 (Stage 5)): Stage 5 turns the same depth-study method onto the modern world, but Australia is now the protagonist: convicts and settlers, nation-making, Gallipoli and the Anzac legend, conscription's division, the Darwin bombing the government hushed up, the Freedom Ride, Mabo, the Apology, Maralinga — world events are always landed on Australian soil. That way is stocked here as the way Australia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 4 countries (Ethiopia, United States, Costa Rica, Australia).**
+
+
+---
+
+## History expansion (2026-11-15) — Indonesia stocked
+
+**Book 3:** *SEJARAH — Edisi Revisi* (student book, Bahasa Indonesia) — Indonesia. Title as printed: SEJARAH — Edisi Revisi (cover: "SEJARAH Edisi Revisi / Martina Safitry, Indah Wahyu Puji Utami, Wahyu Djoko Sulistyo / SMA/MA/SMK/MAK KELAS XI"). Grade: Kelas XI / Grade 11 (student: STUDENT). Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan, Kemendikbudristek), Jakarta; Edisi Revisi 2024; ISBN 978-623-388-489-1 (jil. 1 PDF); 978-623-388-488-4 (complete set). PDF pages: 224 (xiv + 210 printed pages; cover/title page verified against the record title). Route note: the books.json tree path returned HTTP 404 via grab.py tree; the same book was read via its TSV twin record, the mid-size-books-7 release asset — a library debt. Verdict: COMPLETE. Tally: 24 placements — 5 to existing lessons, 19 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia part — Bab II.C — story beats: Chicago's unemployed queue at a free soup kitchen in 1931 while the Depression guts Indies export prices, and Hitler's rise in Europe signals the war that will end Dutch rule (History expansion, 2026-11-15; original placement slug: modern-world/the-great-depression-1929) | Indonesia, *Sejarah untuk SMA/MA/SMK/MAK Kelas XI, Edisi Revisi*, printed p. 96 |
+
+Indonesia's own way (Sejarah untuk SMA/MA/SMK/MAK Kelas XI, Edisi Revisi, Kelas XI / Grade 11 (student/teacher: STUDENT)): the national story is told as resistance and awakening — every colonial episode is paired with the Indonesians who fought, organised, wrote or negotiated against it, and world events (1453, Versailles, the Depression, Hiroshima) are admitted only where they change Indonesia's fate. That way is stocked here as the way Indonesia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 5 countries (Ethiopia, United States, Costa Rica, Australia, Indonesia).**

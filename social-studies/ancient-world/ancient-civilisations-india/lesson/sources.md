@@ -1,6 +1,6 @@
 # Sources — Ancient civilisations — India
 
-countries: Ethiopia, Bangladesh, Australia, Malaysia, Ecuador, India
+countries: Ethiopia, Bangladesh, Australia, Malaysia, Ecuador, India, Indonesia
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -127,3 +127,20 @@ Non-History parts of this book, named in the placements, not placed here: Unit 1
 Nepal's own way (Shikshak Nirdeshika, Class 8, Social Studies and Human Value Education 2081 (teacher's guide), Grade 8 (teacher guide)): Grade 8 "Our Past" opens with a definition — history is the account of past human activity, civilisation and state systems, studied from historical sources and analysed against the present — then runs Nepal's ancient story (name, dynasties, valley civilisation), the martyrs and the republic, and finishes with three world civilisations taught comparatively: Greece and Rome, the Indus Valley, and the Renaissance and its effects. That way is stocked here as the way Nepal teaches this thing. This book is a teacher guide: its rows stand as teacher-guide evidence only, counted nowhere in acceptance. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 6 countries (Ethiopia, Bangladesh, Australia, Malaysia, Ecuador, India).** — unchanged; the Nepal placements above are teacher-guide evidence only, counted nowhere. Nepal is not added to this lesson's countries line.
+
+
+---
+
+## History expansion (2026-11-15) — Indonesia stocked
+
+**Book 1:** *SEJARAH — Sejarah untuk SMK Kelas X* (student book, Bahasa Indonesia) — Indonesia. Title as printed: SEJARAH — Sejarah untuk SMK Kelas X (cover: "SEJARAH / Sari Oktafiana / SMK KELAS X"). Grade: Kelas X / Grade 10, SMK (student: STUDENT). Publisher: Pusat Kurikulum dan Perbukuan, Badan Penelitian dan Pengembangan dan Perbukuan, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Kemendikbudristek), Jakarta; Cetakan pertama (first printing) 2021; ISBN 978-602-244-556-2 (jil. 1); 978-602-244-555-5 (complete set). PDF pages: 104 (xii + 92 printed pages; cover/title page verified against the record title). Verdict: COMPLETE. Tally: 13 placements — 7 to existing lessons, 6 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/indonesia-placements.md.
+
+Duplicate record id-g10s2 is the same file byte-for-byte (identical byte size 3,545,945 and extracted-text MD5); read once as this book, no separate placements.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia part — B, Kisah Inspiratif: Angka Nol — story beats: the number zero, known and used in India long before Europe, travels west and makes modern calculation possible (History expansion, 2026-11-15; original placement slug: ancient-world/ancient-civilisations-india) | Indonesia, *Sejarah untuk SMK Kelas X*, printed p. 57 |
+
+Indonesia's own way (Sejarah untuk SMK Kelas X, Kelas X / Grade 10, SMK (student/teacher: STUDENT)): the Kurikulum Merdeka course opens with a whole book on how history works — humans, space and time — taught through Indonesian cases (a volcano, a tram system, a drum, a magazine) and hero biographies, before any chronological survey begins. That way is stocked here as the way Indonesia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 7 countries (Ethiopia, Bangladesh, Australia, Malaysia, Ecuador, India, Indonesia).**

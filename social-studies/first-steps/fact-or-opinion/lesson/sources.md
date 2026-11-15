@@ -62,3 +62,18 @@ Non-History parts of this book, named in the placements, not placed here: Unit 3
 Kuwait's own way (Grade 10 Term 1): Secondary History opens with method — what history is, its sources, forgery versus truth — then spends the term on Kuwait alone: roots, rulers one by one (Jaber Al Ahmad "Amir of Hearts", Saad Al Abdullah "Hero of Liberation"), and the march from emirate to modern state, diplomacy and humanitarian work. That way is stocked here as the way Kuwait teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 4 countries (Ethiopia, Jordan, Switzerland, Kuwait).**
+
+
+---
+
+## History expansion (2026-11-15) — Indonesia stocked
+
+**Book 4:** *Buku Panduan Guru SEJARAH — Buku Panduan Guru Sejarah untuk SMA/SMK Kelas XI* (teacher guide — evidence, Bahasa Indonesia) — Indonesia. Title as printed: Buku Panduan Guru SEJARAH — Buku Panduan Guru Sejarah untuk SMA/SMK Kelas XI. Grade: Kelas XI / Grade 11 (student/teacher: TEACHER). Publisher: Pusat Perbukuan, Badan Standar, Kurikulum, dan Asesmen Pendidikan, Kemendikbudristek, Jakarta; Cetakan pertama 2021; ISBN 978-602-244-856-3 (Jilid 1); 978-602-244-855-6 (complete set). PDF pages: 184 (xii + 172 printed pages; cover/title page verified against the record title). Verdict: COMPLETE (guide for the same four-chapter course as Book 3 — Kolonialisme dan Perlawanan, Pergerakan Kebangsaan, Di Bawah Tirani Jepang, Proklamasi Kemerdekaan; written for the original 2021 student edition, chapters unchanged in the 2024 revision). Tally: 3 placements — 3 to existing lessons, 0 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia part — Panduan Umum, Meluruskan konsep yang salah kaprah — story beats: teachers are instructed to hunt down the wrong versions of events circulating among pupils and correct them against credible references and new findings, treating every textbook claim as checkable (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/fact-or-opinion) | Indonesia, *Buku Panduan Guru Sejarah untuk SMA Kelas XI* (teacher guide — evidence), printed p. ix |
+
+Indonesia's own way (Buku Panduan Guru Sejarah untuk SMA Kelas XI, Kelas XI / Grade 11 (student/teacher: TEACHER)): the guide's distinctive work is epistemic discipline for teachers — a standing section on straightening out misconceived concepts (meluruskan konsep yang salah kaprah), inquiry as the default strategy, and at least two research projects a year. That way is stocked here as the way Indonesia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 4 countries (Ethiopia, Jordan, Switzerland, Kuwait) — unchanged; the Indonesia placement(s) above are teacher-guide evidence only, counted nowhere. Indonesia is not added to this lesson's countries line.**

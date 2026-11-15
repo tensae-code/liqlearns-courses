@@ -11593,3 +11593,168 @@ becomes themed courses — Cultural Interaction and
 Integration, Government and Governance, and
 Diplomacy — worked largely from primary sources.
 History lessons: 891 → 926.
+
+## History expansion — Indonesia — built 2026-11-15
+
+56 new lessons, 414 questions. **The Modern World** +56:
+Indonesia — the Krakatau eruption of 1883
+(modern-world/indonesia-krakatau-eruption-1883),
+Indonesia — Ki Hadjar Dewantara and Taman Siswa
+(modern-world/indonesia-ki-hadjar-dewantara),
+Indonesia — Mohammad Hatta
+(modern-world/indonesia-mohammad-hatta),
+Indonesia — Surabaya's trams and a changing city
+(modern-world/indonesia-surabaya-trams-and-city-change),
+Indonesia — Diponegoro and the Java War
+(modern-world/indonesia-diponegoro-and-the-java-war),
+Indonesia — Banda and the VOC spice monopoly
+(modern-world/indonesia-banda-and-the-voc-spice-monopoly),
+Indonesia — the VOC and the founding of Batavia
+(modern-world/indonesia-voc-and-the-founding-of-batavia),
+Indonesia — Sultan Agung attacks Batavia
+(modern-world/indonesia-sultan-agung-attacks-batavia),
+Indonesia — the Banten war and the 1684 treaty
+(modern-world/indonesia-banten-war-and-the-1684-treaty),
+Indonesia — the Makassar War and the Treaty of Bongaya
+(modern-world/indonesia-makassar-war-and-bongaya),
+Indonesia — the Pattimura revolt of 1817
+(modern-world/indonesia-pattimura-revolt-1817),
+Indonesia — the Padri War
+(modern-world/indonesia-padri-war),
+Indonesia — the Cultivation System (Tanam Paksa)
+(modern-world/indonesia-cultivation-system-tanam-paksa),
+Indonesia — colonial schools and the new educated elite
+(modern-world/indonesia-colonial-education-and-new-elites),
+Indonesia — Asian networks awaken nationalism
+(modern-world/indonesia-asian-networks-awaken-nationalism),
+Indonesia — Budi Utomo and the early national movement
+(modern-world/indonesia-budi-utomo-and-the-early-movement),
+Indonesia — the Youth Pledge of 1928
+(modern-world/indonesia-youth-pledge-1928),
+Indonesia — the Women's Congress and the nationalist press
+(modern-world/indonesia-womens-congress-and-the-nationalist-press),
+Indonesia — the Spanish flu of 1918 in the Indies
+(modern-world/indonesia-spanish-flu-1918),
+Indonesia — under Japanese occupation
+(modern-world/indonesia-under-japanese-occupation),
+Indonesia — BPUPKI, PPKI and the birth of Pancasila
+(modern-world/indonesia-bpupki-ppki-and-the-birth-of-pancasila),
+Indonesia — the road to the Proclamation, August 1945
+(modern-world/indonesia-road-to-proclamation-august-1945),
+Indonesia — the Proclamation, 17 August 1945
+(modern-world/indonesia-proclamation-17-august-1945),
+Indonesia — the Proclamation spreads and is defended
+(modern-world/indonesia-proclamation-spreads-and-is-defended),
+Indonesia — Daendels and the Great Post Road
+(modern-world/indonesia-daendels-and-the-great-post-road),
+Indonesia — the British interregnum, 1811–1816
+(modern-world/indonesia-british-interregnum-1811-1816),
+Indonesia — Aceh and Maluku resist Portugal and the VOC
+(modern-world/indonesia-aceh-and-maluku-resist-portugal-and-voc),
+Indonesia — Riau rises and the Chinese revolt of 1740
+(modern-world/indonesia-riau-and-chinese-revolts),
+Indonesia — Mangkubumi and Mas Said resist the VOC
+(modern-world/indonesia-mangkubumi-mas-said-resistance),
+Indonesia — the Tondano wars
+(modern-world/indonesia-tondano-wars),
+Indonesia — Bali resists: the puputan
+(modern-world/indonesia-bali-resistance-and-puputan),
+Indonesia — the Banjar War
+(modern-world/indonesia-banjar-war),
+Indonesia — the Aceh War
+(modern-world/indonesia-aceh-war),
+Indonesia — the Batak war of Sisingamangaraja XII
+(modern-world/indonesia-batak-war-sisingamangaraja),
+Indonesia — the Ethical Policy (Politik Etis)
+(modern-world/indonesia-ethical-policy-politik-etis),
+Indonesia — the native press and Islamic modernism
+(modern-world/indonesia-press-and-islamic-modernism),
+Indonesia — Perhimpunan Indonesia and the 1925 Manifesto
+(modern-world/indonesia-perhimpunan-indonesia-manifesto-1925),
+Indonesia — defending independence, 1945–1950
+(modern-world/indonesia-revolution-1945-1950-defending-independence),
+Indonesia — from Liberal to Guided Democracy, 1950–1966
+(modern-world/indonesia-liberal-to-guided-democracy-1950-1966),
+Indonesia — the New Order (Orde Baru), 1966–1998
+(modern-world/indonesia-new-order-orde-baru-1966-1998),
+Indonesia — Reformasi, 1998 and after
+(modern-world/indonesia-reformasi-1998-and-after),
+Indonesia — forming the Republic, 1945
+(modern-world/indonesia-forming-the-republic-1945),
+Indonesia — revolution battles across the archipelago
+(modern-world/indonesia-revolution-battles-across-the-archipelago),
+Indonesia — the Battle of Surabaya, 1945
+(modern-world/indonesia-battle-of-surabaya-1945),
+Indonesia — diplomacy and guerrilla war, 1946–1949
+(modern-world/indonesia-diplomacy-and-guerrilla-1946-1949),
+Indonesia — from RIS to the unitary Republic, 1950
+(modern-world/indonesia-from-ris-to-nkri-1950),
+Indonesia — the people of the Revolution
+(modern-world/indonesia-people-of-the-revolution),
+Indonesia — the first election, 1955, and Nasakom
+(modern-world/indonesia-first-election-1955-and-nasakom),
+Indonesia — DI/TII, PRRI and Permesta: the Republic fights for its map
+(modern-world/indonesia-ditii-prri-permesta-rebellions),
+Indonesia — Sukarno's games and lighthouse projects
+(modern-world/indonesia-sukarno-era-games-and-mercusuar-projects),
+Indonesia — the 30 September Movement and the fall of Sukarno
+(modern-world/indonesia-g30s-and-the-fall-of-sukarno),
+Indonesia — Tritura and the Supersemar, 1966
+(modern-world/indonesia-tritura-and-supersemar-1966),
+Indonesia — resistance to the New Order
+(modern-world/indonesia-resistance-to-the-new-order),
+Indonesia — the fall of Suharto, May 1998
+(modern-world/indonesia-fall-of-suharto-may-1998),
+Indonesia — Reformasi opens politics
+(modern-world/indonesia-reformasi-opens-politics),
+Indonesia — Reformasi: development and disasters
+(modern-world/indonesia-reformasi-development-and-disasters).
+All 90 Indonesia placements are stocked (21 into 15
+existing lessons — What history is 2, Dating the past
+2, From evidence to a written history 3, Ancient
+civilisations — India 1, Historiography — the
+history of history writing 2, Is history a science
+1, Find history in your own locality 2, Fact or
+opinion 1, Trade routes that linked the old world
+1, Exploration — Portugal and the sea routes 1, The
+First World War — Versailles and the results 1, The
+Great Depression — 1929 1, The Second World War —
+the Pacific and the results 1, Exploration — causes
+and results 1, The Cold War — what it was and what
+it did to Africa 1 — and 69 into the 56 new lessons)
+on 7 placed books: the Grade 10 SMK Sejarah student
+book (Kurikulum Merdeka, 2021) and its teacher guide,
+the Grade 11 Sejarah Edisi Revisi student book
+(2024) and its teacher guide (2021), the Grade 11
+Semester 1 Sejarah Indonesia student book
+(Kurikulum 2013, 2014), and the Grade 12 Sejarah
+student book (Kurikulum Merdeka, 2022) and its
+teacher guide — all Kemendikbudristek, Jakarta.
+HONESTY: the three teacher guides are cited as the
+evidence they are, outside acceptance counts. Fact
+or opinion takes its Grade 11 guide placement as
+evidence only — Indonesia is not added to its
+countries line and its count stays 4. Two new
+lessons stand on the Grade 12 teacher guide alone
+and carry acceptance 0, Indonesia named, counted
+nowhere: Indonesia — defending independence,
+1945–1950, and Indonesia — from Liberal to Guided
+Democracy, 1950–1966. The New Order and Reformasi
+lessons count on the Grade 12 student book, their
+guide rows marked evidence. Every other stocked
+lesson adds Indonesia to its countries line and its
+acceptance count together. Duplicate record id-g10s2
+is byte-for-byte the Grade 10 SMK student book
+(identical byte size and extracted-text MD5); it was
+read once as that book and carries no separate
+placements. Indonesia's own way is stocked inside
+the lessons: Grade 10 opens with a whole book on how
+history works — humans, space and time — through
+Indonesian cases and hero biographies; Grade 11
+tells the national story as resistance and
+awakening, the Kurikulum 2013 book as a war-by-war
+resistance atlas; Grade 12 ends the school story in
+the pupils' own lifetime, with contested events
+(Supersemar, 30 September 1965, May 1998) presented
+as evidence problems, not settled slogans.
+History lessons: 926 → 982.

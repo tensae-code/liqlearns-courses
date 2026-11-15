@@ -1,6 +1,6 @@
 # Sources — Dating the past — calendars, timelines and periods
 
-countries: Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji
+countries: Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -304,3 +304,30 @@ Non-History parts of this book, named in the placements, not placed here: Strand
 Fiji's own way (Year 6 Social Science Textbook (revised) (title from contents/front matter; PDF opens at the copyright page), Year 6 (student/teacher: STUDENT)): Fiji's whole history is given as dated timelines (pre-contact to 1874, 1874-1970, 1970-present) that the child reads as one national story, with archive photographs as evidence. That way is stocked here as the way Fiji teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 13 countries (Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji).**
+
+
+---
+
+## History expansion (2026-11-15) — Indonesia stocked
+
+**Book 1:** *SEJARAH — Sejarah untuk SMK Kelas X* (student book, Bahasa Indonesia) — Indonesia. Title as printed: SEJARAH — Sejarah untuk SMK Kelas X (cover: "SEJARAH / Sari Oktafiana / SMK KELAS X"). Grade: Kelas X / Grade 10, SMK (student: STUDENT). Publisher: Pusat Kurikulum dan Perbukuan, Badan Penelitian dan Pengembangan dan Perbukuan, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Kemendikbudristek), Jakarta; Cetakan pertama (first printing) 2021; ISBN 978-602-244-556-2 (jil. 1); 978-602-244-555-5 (complete set). PDF pages: 104 (xii + 92 printed pages; cover/title page verified against the record title). Verdict: COMPLETE. Tally: 13 placements — 7 to existing lessons, 6 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/indonesia-placements.md.
+
+Duplicate record id-g10s2 is the same file byte-for-byte (identical byte size 3,545,945 and extracted-text MD5); read once as this book, no separate placements.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia part — A.2 Manusia, Ruang, dan Waktu dalam Sejarah — story beats: events are pinned by chronology and cut into periods — prehistory, the Hindu-Buddhist kingdoms, and on to the waves of the Industrial Revolution — so change and continuity can be measured across time (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Indonesia, *Sejarah untuk SMK Kelas X*, printed p. 18 |
+
+Indonesia's own way (Sejarah untuk SMK Kelas X, Kelas X / Grade 10, SMK (student/teacher: STUDENT)): the Kurikulum Merdeka course opens with a whole book on how history works — humans, space and time — taught through Indonesian cases (a volcano, a tram system, a drum, a magazine) and hero biographies, before any chronological survey begins. That way is stocked here as the way Indonesia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 2:** *BUKU PANDUAN GURU SEJARAH — Buku Panduan Guru Sejarah untuk SMK Kelas X* (teacher guide — evidence, Bahasa Indonesia) — Indonesia. Title as printed: BUKU PANDUAN GURU SEJARAH — Buku Panduan Guru Sejarah untuk SMK Kelas X. Grade: Kelas X / Grade 10, SMK (student/teacher: TEACHER). Publisher: Pusat Kurikulum dan Perbukuan, Badan Penelitian dan Pengembangan dan Perbukuan, Kemendikbudristek, Jakarta; Cetakan pertama 2021; ISBN 978-602-244-554-8 (jil. 1); 978-602-244-553-1 (complete set). PDF pages: 112 (viii + 104 printed pages; cover/title page verified against the record title). Verdict: COMPLETE. Tally: 3 placements — 3 to existing lessons, 0 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia part — Bagian 1, concept explanations (Kronologi) — story beats: chronology, from Greek chronos, is taught as the historian's ordering tool, practised by having pupils build the timeline of Bank Indonesia from sovereignty recognition to the nationalisation of De Javasche Bank (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/dating-the-past) | Indonesia, *Buku Panduan Guru Sejarah untuk SMK Kelas X* (teacher guide — evidence), printed p. 36 |
+
+Indonesia's own way (Buku Panduan Guru Sejarah untuk SMK Kelas X, Kelas X / Grade 10, SMK (student/teacher: TEACHER)): the teacher guide for the method-first course trains teachers to teach thinking, not facts — diachronic (kronologis) versus synchronic analysis, mono- and multi-causal explanation, and learning outside the classroom at museums and heritage sites. That way is stocked here as the way Indonesia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 14 countries (Ethiopia, Rwanda, Saudi Arabia, Turkey, Bangladesh, Malaysia, Bahamas, Eritrea, Cyprus, India, Nepal, Belarus, Fiji, Indonesia).**
+
+The teacher-guide rows above are evidence only; Indonesia's count in this lesson stands on the student book(s) stocked here.

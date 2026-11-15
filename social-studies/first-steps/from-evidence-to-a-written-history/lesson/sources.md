@@ -1,6 +1,6 @@
 # Sources — From evidence to a written history
 
-countries: Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji
+countries: Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -443,3 +443,38 @@ Fiji's own way (History Year 11 — Cultural Interaction, Unit 3: Ethnic and Cul
 Fiji's own way (Diplomacy and Fiji — Fiji Year Twelve Certificate, Year 12 History, Pupil's Book, Year 12 (student/teacher: STUDENT)): Year 12 History is one theme — diplomacy — worked country by country (New Zealand, China, Australia, India, the EU) almost entirely from primary sources: cartoons, news reports, home pages and treaties, each unit closing "friend, big brother, or neighbour?" That way is stocked here as the way Fiji teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 14 countries (Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji).**
+
+
+---
+
+## History expansion (2026-11-15) — Indonesia stocked
+
+**Book 1:** *SEJARAH — Sejarah untuk SMK Kelas X* (student book, Bahasa Indonesia) — Indonesia. Title as printed: SEJARAH — Sejarah untuk SMK Kelas X (cover: "SEJARAH / Sari Oktafiana / SMK KELAS X"). Grade: Kelas X / Grade 10, SMK (student: STUDENT). Publisher: Pusat Kurikulum dan Perbukuan, Badan Penelitian dan Pengembangan dan Perbukuan, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Kemendikbudristek), Jakarta; Cetakan pertama (first printing) 2021; ISBN 978-602-244-556-2 (jil. 1); 978-602-244-555-5 (complete set). PDF pages: 104 (xii + 92 printed pages; cover/title page verified against the record title). Verdict: COMPLETE. Tally: 13 placements — 7 to existing lessons, 6 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/indonesia-placements.md.
+
+Duplicate record id-g10s2 is the same file byte-for-byte (identical byte size 3,545,945 and extracted-text MD5); read once as this book, no separate placements.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia part — B. Penelitian Sejarah — story beats: research starts from primary sources taken straight from the event and secondary sources written after it, moves through heuristics and criticism, and ends as a written history — with worked Indonesian examples from a Cirebon typhus epidemic to Pontianak's beduk drum (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Indonesia, *Sejarah untuk SMK Kelas X*, printed p. 55 |
+
+Indonesia's own way (Sejarah untuk SMK Kelas X, Kelas X / Grade 10, SMK (student/teacher: STUDENT)): the Kurikulum Merdeka course opens with a whole book on how history works — humans, space and time — taught through Indonesian cases (a volcano, a tram system, a drum, a magazine) and hero biographies, before any chronological survey begins. That way is stocked here as the way Indonesia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 4:** *Buku Panduan Guru SEJARAH — Buku Panduan Guru Sejarah untuk SMA/SMK Kelas XI* (teacher guide — evidence, Bahasa Indonesia) — Indonesia. Title as printed: Buku Panduan Guru SEJARAH — Buku Panduan Guru Sejarah untuk SMA/SMK Kelas XI. Grade: Kelas XI / Grade 11 (student/teacher: TEACHER). Publisher: Pusat Perbukuan, Badan Standar, Kurikulum, dan Asesmen Pendidikan, Kemendikbudristek, Jakarta; Cetakan pertama 2021; ISBN 978-602-244-856-3 (Jilid 1); 978-602-244-855-6 (complete set). PDF pages: 184 (xii + 172 printed pages; cover/title page verified against the record title). Verdict: COMPLETE (guide for the same four-chapter course as Book 3 — Kolonialisme dan Perlawanan, Pergerakan Kebangsaan, Di Bawah Tirani Jepang, Proklamasi Kemerdekaan; written for the original 2021 student edition, chapters unchanged in the 2024 revision). Tally: 3 placements — 3 to existing lessons, 0 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia part — Panduan Umum, Strategi Umum Pembelajaran — story beats: inquiry and open questions are the recommended daily strategy, and project-based historical research is compulsory at least twice in the Class XI year, inside the 72-JP allocation (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Indonesia, *Buku Panduan Guru Sejarah untuk SMA Kelas XI* (teacher guide — evidence), printed p. x |
+
+Indonesia's own way (Buku Panduan Guru Sejarah untuk SMA Kelas XI, Kelas XI / Grade 11 (student/teacher: TEACHER)): the guide's distinctive work is epistemic discipline for teachers — a standing section on straightening out misconceived concepts (meluruskan konsep yang salah kaprah), inquiry as the default strategy, and at least two research projects a year. That way is stocked here as the way Indonesia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 6:** *Buku Panduan Guru SEJARAH* (teacher guide — evidence, Bahasa Indonesia) — Indonesia. Title as printed: Buku Panduan Guru SEJARAH (cover: "Buku Panduan Guru SEJARAH / Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi 2022 / SMA/MA KELAS XII"). Grade: Kelas XII / Grade 12 (student/teacher: TEACHER). Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan, Kemendikbudristek), Jakarta; Cetakan pertama 2022; ISBN 978-602-427-967-7 (jil. 3); 978-602-427-966-0 (complete set). PDF pages: 304 (xvi + 288 printed pages; cover/title page verified against the record title). Route note: the books.json tree path returned HTTP 404 via grab.py tree; the same book was read via its TSV twin record, the mid-size-books-7 release asset — a library debt. Verdict: COMPLETE. Tally: 5 placements — 1 to existing lessons, 4 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia part — Panduan Umum D.1, Inkuiri Sejarah — story beats: historical inquiry is the master strategy for Class XII — pupils annotate primary sources such as revolution-era propaganda posters, build timelines and concept maps, and report findings in writing (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/from-evidence-to-a-written-history) | Indonesia, *Buku Panduan Guru Sejarah untuk SMA/MA Kelas XII* (teacher guide — evidence), printed p. 34 |
+
+Indonesia's own way (Buku Panduan Guru Sejarah untuk SMA/MA Kelas XII, Kelas XII / Grade 12 (student/teacher: TEACHER)): the final-year guide insists the recent past not be taught black-and-white — pupils must evaluate the Revolution, the Old Order's collapse, Suharto's New Order and Reformasi from multiple perspectives, with oral history from their own families for the Reformasi chapter. That way is stocked here as the way Indonesia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 15 countries (Ethiopia, Saudi Arabia, Gambia, Switzerland, Bangladesh, Guatemala, Micronesia, Australia, Malaysia, Eritrea, Kuwait, India, Nepal, Fiji, Indonesia).**
+
+The teacher-guide rows above are evidence only; Indonesia's count in this lesson stands on the student book(s) stocked here.

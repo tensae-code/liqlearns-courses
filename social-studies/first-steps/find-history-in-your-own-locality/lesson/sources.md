@@ -1,6 +1,6 @@
 # Sources — Find history in your own locality
 
-countries: Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala, Malaysia, Ecuador, Bahamas, Eritrea, Nepal, Belarus, Fiji
+countries: Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala, Malaysia, Ecuador, Bahamas, Eritrea, Nepal, Belarus, Fiji, Indonesia
 
 **Book 1:** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University), first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-066-6, 270 PDF pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -409,3 +409,30 @@ Non-History parts of this book, named in the placements, not placed here: Strand
 Fiji's own way (Social Studies Year 4, Year 4 (student/teacher: STUDENT)): the Time strand widens from family to community — continuity vs change in the child's own village, then Fiji's national leaders researched by the child. That way is stocked here as the way Fiji teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 13 countries (Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala, Malaysia, Ecuador, Bahamas, Eritrea, Nepal, Belarus, Fiji).**
+
+
+---
+
+## History expansion (2026-11-15) — Indonesia stocked
+
+**Book 1:** *SEJARAH — Sejarah untuk SMK Kelas X* (student book, Bahasa Indonesia) — Indonesia. Title as printed: SEJARAH — Sejarah untuk SMK Kelas X (cover: "SEJARAH / Sari Oktafiana / SMK KELAS X"). Grade: Kelas X / Grade 10, SMK (student: STUDENT). Publisher: Pusat Kurikulum dan Perbukuan, Badan Penelitian dan Pengembangan dan Perbukuan, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Kemendikbudristek), Jakarta; Cetakan pertama (first printing) 2021; ISBN 978-602-244-556-2 (jil. 1); 978-602-244-555-5 (complete set). PDF pages: 104 (xii + 92 printed pages; cover/title page verified against the record title). Verdict: COMPLETE. Tally: 13 placements — 7 to existing lessons, 6 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/indonesia-placements.md.
+
+Duplicate record id-g10s2 is the same file byte-for-byte (identical byte size 3,545,945 and extracted-text MD5); read once as this book, no separate placements.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia part — A / Rekomendasi Penelitian Sejarah — story beats: pupils write their own family history, then research a local practice such as sasi, the Maluku custom since the 16th century that closes the lompa fish harvest until the community opens it (History expansion, 2026-11-15; original placement slug: first-steps/find-history-in-your-own-locality) | Indonesia, *Sejarah untuk SMK Kelas X*, printed p. 70 |
+
+Indonesia's own way (Sejarah untuk SMK Kelas X, Kelas X / Grade 10, SMK (student/teacher: STUDENT)): the Kurikulum Merdeka course opens with a whole book on how history works — humans, space and time — taught through Indonesian cases (a volcano, a tram system, a drum, a magazine) and hero biographies, before any chronological survey begins. That way is stocked here as the way Indonesia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 2:** *BUKU PANDUAN GURU SEJARAH — Buku Panduan Guru Sejarah untuk SMK Kelas X* (teacher guide — evidence, Bahasa Indonesia) — Indonesia. Title as printed: BUKU PANDUAN GURU SEJARAH — Buku Panduan Guru Sejarah untuk SMK Kelas X. Grade: Kelas X / Grade 10, SMK (student/teacher: TEACHER). Publisher: Pusat Kurikulum dan Perbukuan, Badan Penelitian dan Pengembangan dan Perbukuan, Kemendikbudristek, Jakarta; Cetakan pertama 2021; ISBN 978-602-244-554-8 (jil. 1); 978-602-244-553-1 (complete set). PDF pages: 112 (viii + 104 printed pages; cover/title page verified against the record title). Verdict: COMPLETE. Tally: 3 placements — 3 to existing lessons, 0 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia part — Bagian 2.J, Tips Pembelajaran Sejarah melalui Kunjungan ke Museum, Situs, maupun Balai Pelestarian Cagar Budaya — story beats: history leaves the classroom — teachers are given a full protocol for learning at museums, archaeological sites and heritage-preservation offices, treating local sites as primary classrooms (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/find-history-in-your-own-locality) | Indonesia, *Buku Panduan Guru Sejarah untuk SMK Kelas X* (teacher guide — evidence), printed p. 95 |
+
+Indonesia's own way (Buku Panduan Guru Sejarah untuk SMK Kelas X, Kelas X / Grade 10, SMK (student/teacher: TEACHER)): the teacher guide for the method-first course trains teachers to teach thinking, not facts — diachronic (kronologis) versus synchronic analysis, mono- and multi-causal explanation, and learning outside the classroom at museums and heritage sites. That way is stocked here as the way Indonesia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 14 countries (Ethiopia, Rwanda, Venezuela, Nicaragua, Bangladesh, Guatemala, Malaysia, Ecuador, Bahamas, Eritrea, Nepal, Belarus, Fiji, Indonesia).**
+
+The teacher-guide rows above are evidence only; Indonesia's count in this lesson stands on the student book(s) stocked here.

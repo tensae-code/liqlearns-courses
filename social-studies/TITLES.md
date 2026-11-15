@@ -2581,7 +2581,7 @@ Plants and Animals.
 
 ## History expansion totals
 
-History lessons across the History titles: **926**
+History lessons across the History titles: **982**
 (248 before the expansion; +1 for Guyana, 2026-11-15 —
 Modern World: Guyana — our nation: independence and
 symbols. All 3 Guyana placements stand on Guyana's
@@ -3800,3 +3800,40 @@ causes 6 → 7, The Industrial Revolution — what
 changed and why England first 6 → 7, From stone
 tools to farming 13 → 14, and Pacific voyaging and
 island exchange 3 → 4.
+
++56 for Indonesia, 2026-11-15 — The Modern World:
+Indonesia — the Krakatau eruption of 1883, Indonesia — Ki Hadjar Dewantara and Taman Siswa, Indonesia — Mohammad Hatta, Indonesia — Surabaya's trams and a changing city, Indonesia — Diponegoro and the Java War, Indonesia — Banda and the VOC spice monopoly, Indonesia — the VOC and the founding of Batavia, Indonesia — Sultan Agung attacks Batavia, Indonesia — the Banten war and the 1684 treaty, Indonesia — the Makassar War and the Treaty of Bongaya, Indonesia — the Pattimura revolt of 1817, Indonesia — the Padri War, Indonesia — the Cultivation System (Tanam Paksa), Indonesia — colonial schools and the new educated elite, Indonesia — Asian networks awaken nationalism, Indonesia — Budi Utomo and the early national movement, Indonesia — the Youth Pledge of 1928, Indonesia — the Women's Congress and the nationalist press, Indonesia — the Spanish flu of 1918 in the Indies, Indonesia — under Japanese occupation, Indonesia — BPUPKI, PPKI and the birth of Pancasila, Indonesia — the road to the Proclamation, August 1945, Indonesia — the Proclamation, 17 August 1945, Indonesia — the Proclamation spreads and is defended, Indonesia — Daendels and the Great Post Road, Indonesia — the British interregnum, 1811–1816, Indonesia — Aceh and Maluku resist Portugal and the VOC, Indonesia — Riau rises and the Chinese revolt of 1740, Indonesia — Mangkubumi and Mas Said resist the VOC, Indonesia — the Tondano wars, Indonesia — Bali resists: the puputan, Indonesia — the Banjar War, Indonesia — the Aceh War, Indonesia — the Batak war of Sisingamangaraja XII, Indonesia — the Ethical Policy (Politik Etis), Indonesia — the native press and Islamic modernism, Indonesia — Perhimpunan Indonesia and the 1925 Manifesto, Indonesia — defending independence, 1945–1950, Indonesia — from Liberal to Guided Democracy, 1950–1966, Indonesia — the New Order (Orde Baru), 1966–1998, Indonesia — Reformasi, 1998 and after, Indonesia — forming the Republic, 1945, Indonesia — revolution battles across the archipelago, Indonesia — the Battle of Surabaya, 1945, Indonesia — diplomacy and guerrilla war, 1946–1949, Indonesia — from RIS to the unitary Republic, 1950, Indonesia — the people of the Revolution, Indonesia — the first election, 1955, and Nasakom, Indonesia — DI/TII, PRRI and Permesta: the Republic fights for its map, Indonesia — Sukarno's games and lighthouse projects, Indonesia — the 30 September Movement and the fall of Sukarno, Indonesia — Tritura and the Supersemar, 1966, Indonesia — resistance to the New Order, Indonesia — the fall of Suharto, May 1998, Indonesia — Reformasi opens politics, Indonesia — Reformasi: development and disasters. All 90 Indonesia placements are stocked (21 into
+15 existing lessons, 69 into the 56 new lessons) on
+7 placed books — the Grade 10 SMK student book and
+its teacher guide, the Grade 11 Edisi Revisi student
+book and its teacher guide, the Grade 11 Semester 1
+Kurikulum 2013 student book, and the Grade 12
+Kurikulum Merdeka student book and its teacher guide
+(Kemendikbudristek, Jakarta). HONESTY: the three
+teacher guides (Books 2, 4 and 6) are evidence only,
+outside every acceptance count — the existing First
+Steps lesson Fact or opinion, stocked from the
+Grade 11 guide alone, does not add Indonesia to its
+countries or count, and two new lessons stand on
+teacher-guide evidence only, named for Indonesia,
+counted nowhere (acceptance 0): Indonesia —
+defending independence, 1945–1950, and Indonesia —
+from Liberal to Guided Democracy, 1950–1966. The
+new lessons on the New Order and on Reformasi carry
+Grade 12 guide rows as evidence and count on the
+Grade 12 student book. Duplicate record id-g10s2 is
+byte-for-byte the Grade 10 SMK student book; read
+once, no separate placements. The existing lessons
+stocked rise with Indonesia added: What history is
+18 → 19, Dating the past 13 → 14, From evidence to
+a written history 14 → 15, Ancient civilisations —
+India 6 → 7, Historiography — the history of
+history writing 4 → 5, Is history a science 1 → 2,
+Find history in your own locality 13 → 14, Trade
+routes that linked the old world 5 → 6, Exploration
+— Portugal and the sea routes 6 → 7, The First
+World War — Versailles and the results 1 → 2, The
+Great Depression — 1929 4 → 5, The Second World
+War — the Pacific and the results 6 → 7, Exploration
+— causes and results 6 → 7, and The Cold War — what
+it was and what it did to Africa 5 → 6.

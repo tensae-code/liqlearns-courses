@@ -1,6 +1,6 @@
 # Sources — Historiography — history of history-writing
 
-countries: Ethiopia, Gambia, Bangladesh, Ecuador
+countries: Ethiopia, Gambia, Bangladesh, Ecuador, Indonesia
 
 **Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
 
@@ -63,3 +63,30 @@ Bangladesh's own way (Grade 9): Class Nine is the political-history year — Ben
 Ecuador's own way (Ecuador Grade 5 EC-G5): Grade 5 is one continuous national story told in period blocks — aboriginal roots, Conquest, Gran Colombia, then República I, II and III — each block closing with a reading (Lectura), a challenge (Reto) and an evaluation; world history enters only as Ecuador's frame. That way is stocked here as the way Ecuador teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
 
 **Acceptance count: taught in 4 countries (Ethiopia, Gambia, Bangladesh, Ecuador).**
+
+
+---
+
+## History expansion (2026-11-15) — Indonesia stocked
+
+**Book 1:** *SEJARAH — Sejarah untuk SMK Kelas X* (student book, Bahasa Indonesia) — Indonesia. Title as printed: SEJARAH — Sejarah untuk SMK Kelas X (cover: "SEJARAH / Sari Oktafiana / SMK KELAS X"). Grade: Kelas X / Grade 10, SMK (student: STUDENT). Publisher: Pusat Kurikulum dan Perbukuan, Badan Penelitian dan Pengembangan dan Perbukuan, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Kemendikbudristek), Jakarta; Cetakan pertama (first printing) 2021; ISBN 978-602-244-556-2 (jil. 1); 978-602-244-555-5 (complete set). PDF pages: 104 (xii + 92 printed pages; cover/title page verified against the record title). Verdict: COMPLETE. Tally: 13 placements — 7 to existing lessons, 6 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/indonesia-placements.md.
+
+Duplicate record id-g10s2 is the same file byte-for-byte (identical byte size 3,545,945 and extracted-text MD5); read once as this book, no separate placements.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia part — C. Penulisan Sejarah (Historiografi) — story beats: Indonesian history-writing is sorted into traditional (palace-centred), colonial and modern (nation-building) historiography, with bias named as the trap each writer must avoid (History expansion, 2026-11-15; original placement slug: first-steps/historiography-the-history-of-history-writing) | Indonesia, *Sejarah untuk SMK Kelas X*, printed p. 59 |
+
+Indonesia's own way (Sejarah untuk SMK Kelas X, Kelas X / Grade 10, SMK (student/teacher: STUDENT)): the Kurikulum Merdeka course opens with a whole book on how history works — humans, space and time — taught through Indonesian cases (a volcano, a tram system, a drum, a magazine) and hero biographies, before any chronological survey begins. That way is stocked here as the way Indonesia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Book 4:** *Buku Panduan Guru SEJARAH — Buku Panduan Guru Sejarah untuk SMA/SMK Kelas XI* (teacher guide — evidence, Bahasa Indonesia) — Indonesia. Title as printed: Buku Panduan Guru SEJARAH — Buku Panduan Guru Sejarah untuk SMA/SMK Kelas XI. Grade: Kelas XI / Grade 11 (student/teacher: TEACHER). Publisher: Pusat Perbukuan, Badan Standar, Kurikulum, dan Asesmen Pendidikan, Kemendikbudristek, Jakarta; Cetakan pertama 2021; ISBN 978-602-244-856-3 (Jilid 1); 978-602-244-855-6 (complete set). PDF pages: 184 (xii + 172 printed pages; cover/title page verified against the record title). Verdict: COMPLETE (guide for the same four-chapter course as Book 3 — Kolonialisme dan Perlawanan, Pergerakan Kebangsaan, Di Bawah Tirani Jepang, Proklamasi Kemerdekaan; written for the original 2021 student edition, chapters unchanged in the 2024 revision). Tally: 3 placements — 3 to existing lessons, 0 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-history-2026-11-15/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia part — Panduan Umum / Materi Sejarah Indonesia Kelas XI — story beats: the guide summarises all four chapters for the teacher as one argument — colonialism and resistance, national movement, Japanese tyranny, proclamation — and frames the teacher as a fellow researcher who must keep revising it (teacher guide — evidence) (History expansion, 2026-11-15; original placement slug: first-steps/historiography-the-history-of-history-writing) | Indonesia, *Buku Panduan Guru Sejarah untuk SMA Kelas XI* (teacher guide — evidence), printed p. 39 |
+
+Indonesia's own way (Buku Panduan Guru Sejarah untuk SMA Kelas XI, Kelas XI / Grade 11 (student/teacher: TEACHER)): the guide's distinctive work is epistemic discipline for teachers — a standing section on straightening out misconceived concepts (meluruskan konsep yang salah kaprah), inquiry as the default strategy, and at least two research projects a year. That way is stocked here as the way Indonesia teaches this thing. The book's stories are filed here as plot summaries in the course's own words only — never transcribed.
+
+**Acceptance count: taught in 5 countries (Ethiopia, Gambia, Bangladesh, Ecuador, Indonesia).**
+
+The teacher-guide rows above are evidence only; Indonesia's count in this lesson stands on the student book(s) stocked here.
