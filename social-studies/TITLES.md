@@ -67,7 +67,27 @@ the one title at rising depth wherever a title spans both books
   the Idrisids and the Qarawiyyin, the Almoravids,
   the Almohads, and the Marinids and their madrasas, and
   Myanmar — Myanmar prehistory, the Pyu city-states,
-  the Bagan Empire, and hunters and first farmers).
+  the Bagan Empire, and hunters and first farmers, and
+  Ukraine — Ukraine enters the Middle Ages, the Slavs
+  settle and found Kyiv, Rus-Ukraine — a state is born,
+  Rus-Ukraine under Oleh and Ihor, Rus-Ukraine under
+  Olha and Sviatoslav, Volodymyr baptises Rus-Ukraine,
+  Yaroslav the Wise and the Ruska Pravda, Rus-Ukraine —
+  how the land was ruled and lived, culture of
+  Rus-Ukraine — the golden age, Rus-Ukraine breaks
+  apart — the Yaroslavychi, Volodymyr Monomakh holds
+  Rus together, Rus-Ukraine fragmented — Kyiv,
+  Chernihiv and Pereiaslav, Halych and Volyn rise,
+  culture of Rus-Ukraine — the age of fragmentation,
+  Roman Mstyslavych founds the Halych-Volyn state, the
+  Mongols invade Rus-Ukraine, Danylo, king of Rus, the
+  Halych-Volyn state after Danylo, culture of the
+  Halych-Volyn land, Ukrainian lands in the Lithuanian
+  state, Ukrainian lands under Hungary, Moldova and
+  Muscovy, Crimea and the northern Black Sea in the
+  late Middle Ages, Ukrainian towns, crafts and
+  Magdeburg law, Ukrainian culture in the 14th and
+  15th centuries, and Ukraine in medieval Europe).
 - `the-land-and-air/` — continents and oceans, the forces that
   shape the land, the atmosphere, weather and climate, map work
   (including the UAE's location and emirates map and desert
@@ -2542,7 +2562,7 @@ Plants and Animals.
 
 ## History expansion totals
 
-History lessons across the History titles: **314**
+History lessons across the History titles: **339**
 (248 before the expansion; +1 for Guyana, 2026-11-15 —
 Modern World: Guyana — our nation: independence and
 symbols. All 3 Guyana placements stand on Guyana's
@@ -2751,3 +2771,15 @@ history) adds no count beyond the student reader The set's
 6 parallel Italian/Romansh editions are placed under
 their 3 German originals with 0 placements of their
 own.
+
++25 for Ukraine, 2026-11-15 — Ancient World:
+Ukraine enters the Middle Ages, The Slavs settle and found Kyiv, Rus-Ukraine — a state is born, Rus-Ukraine under Oleh and Ihor, Rus-Ukraine under Olha and Sviatoslav, Volodymyr baptises Rus-Ukraine, Yaroslav the Wise and the Ruska Pravda, Rus-Ukraine — how the land was ruled and lived, Culture of Rus-Ukraine — the golden age, Rus-Ukraine breaks apart — the Yaroslavychi, Volodymyr Monomakh holds Rus together, Rus-Ukraine fragmented — Kyiv, Chernihiv and Pereiaslav, Halych and Volyn rise, Culture of Rus-Ukraine — the age of fragmentation, Roman Mstyslavych founds the Halych-Volyn state, The Mongols invade Rus-Ukraine, Danylo, king of Rus, The Halych-Volyn state after Danylo, Culture of the Halych-Volyn land, Ukrainian lands in the Lithuanian state, Ukrainian lands under Hungary, Moldova and Muscovy, Crimea and the northern Black Sea in the late Middle Ages, Ukrainian towns, crafts and Magdeburg law, Ukrainian culture in the 14th and 15th centuries, Ukraine in medieval Europe. All 25
+Ukraine placements stand on the Grade 7 student book
+(Історія України, Orion, Kyiv, 2024,
+ISBN 978-966-991-295-4) — one placement into each of
+the 25 new lessons — counted in acceptance (the 25
+new lessons). The book's generalisation paragraphs
+(§§6, 12, 18, 24 and 30) are filed with the sections
+they close and the course generalisation (§31) as
+the new Ukraine in medieval Europe lesson, as the
+placements file them.

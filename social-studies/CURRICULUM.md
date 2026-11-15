@@ -8821,3 +8821,69 @@ student reader; the two existing lessons stocked from
 the student reader rise with Switzerland added (From
 evidence to a written history 3 → 4; Fact or opinion
 2 → 3). History lessons: 308 → 314.
+
+## History expansion — Ukraine — built 2026-11-15
+
+25 new lessons, 200 questions, in **The Ancient World**:
+Ukraine enters the Middle Ages
+(ancient-world/ukraine-enters-the-middle-ages),
+The Slavs settle and found Kyiv
+(ancient-world/the-slavs-settle-and-found-kyiv),
+Rus-Ukraine — a state is born
+(ancient-world/rus-ukraine-a-state-is-born),
+Rus-Ukraine under Oleh and Ihor
+(ancient-world/rus-ukraine-oleg-and-ihor),
+Rus-Ukraine under Olha and Sviatoslav
+(ancient-world/rus-ukraine-olha-and-sviatoslav),
+Volodymyr baptises Rus-Ukraine
+(ancient-world/volodymyr-baptises-rus-ukraine),
+Yaroslav the Wise and the Ruska Pravda
+(ancient-world/yaroslav-the-wise-and-ruska-pravda),
+Rus-Ukraine — how the land was ruled and lived
+(ancient-world/rus-ukraine-how-the-land-was-ruled-and-lived),
+Culture of Rus-Ukraine — the golden age
+(ancient-world/culture-of-rus-ukraine-golden-age),
+Rus-Ukraine breaks apart — the Yaroslavychi
+(ancient-world/rus-ukraine-breaks-apart-the-yaroslavychi),
+Volodymyr Monomakh holds Rus together
+(ancient-world/volodymyr-monomakh-holds-rus-together),
+Rus-Ukraine fragmented — Kyiv, Chernihiv and Pereiaslav
+(ancient-world/rus-ukraine-fragmented-kyiv-chernihiv-pereiaslav),
+Halych and Volyn rise
+(ancient-world/halych-and-volyn-rise),
+Culture of Rus-Ukraine — the age of fragmentation
+(ancient-world/culture-of-rus-ukraine-age-of-fragmentation),
+Roman Mstyslavych founds the Halych-Volyn state
+(ancient-world/roman-mstyslavych-founds-the-halych-volyn-state),
+The Mongols invade Rus-Ukraine
+(ancient-world/the-mongols-invade-rus-ukraine),
+Danylo, king of Rus
+(ancient-world/danylo-king-of-rus),
+The Halych-Volyn state after Danylo
+(ancient-world/the-halych-volyn-state-after-danylo),
+Culture of the Halych-Volyn land
+(ancient-world/culture-of-the-halych-volyn-land),
+Ukrainian lands in the Lithuanian state
+(ancient-world/ukrainian-lands-in-the-lithuanian-state),
+Ukrainian lands under Hungary, Moldova and Muscovy
+(ancient-world/ukrainian-lands-under-hungary-moldova-and-muscovy),
+Crimea and the northern Black Sea in the late Middle Ages
+(ancient-world/crimea-and-the-northern-black-sea-in-the-late-middle-ages),
+Ukrainian towns, crafts and Magdeburg law
+(ancient-world/ukrainian-towns-crafts-and-magdeburg-law),
+Ukrainian culture in the 14th and 15th centuries
+(ancient-world/ukrainian-culture-in-the-14th-and-15th-centuries),
+Ukraine in medieval Europe
+(ancient-world/ukraine-in-medieval-europe)
+— 25 placements stocked from Ukraine's 1 distinct book
+read here: the Grade 7 student book *Історія України*
+(History of Ukraine, textbook for Grade 7; Український
+освічий центр «Оріон», Kyiv, 2024,
+ISBN 978-966-991-295-4): §1 (printed p. 7), into the new Ukraine enters the Middle Ages lesson; §2 (printed p. 13), into the new The Slavs settle and found Kyiv lesson; §3 (printed p. 22), into the new Rus-Ukraine — a state is born lesson; §4 (printed p. 28), into the new Rus-Ukraine under Oleh and Ihor lesson; §5 (printed p. 35), into the new Rus-Ukraine under Olha and Sviatoslav lesson; §7 (printed p. 44), into the new Volodymyr baptises Rus-Ukraine lesson; §8 (printed p. 54), into the new Yaroslav the Wise and the Ruska Pravda lesson; §9 (printed p. 63), into the new Rus-Ukraine — how the land was ruled and lived lesson; §§10–11 (printed p. 70), into the new Culture of Rus-Ukraine — the golden age lesson; §13 (printed p. 82), into the new Rus-Ukraine breaks apart — the Yaroslavychi lesson; §14 (printed p. 87), into the new Volodymyr Monomakh holds Rus together lesson; §15 (printed p. 92), into the new Rus-Ukraine fragmented — Kyiv, Chernihiv and Pereiaslav lesson; §16 (printed p. 98), into the new Halych and Volyn rise lesson; §17 (printed p. 105), into the new Culture of Rus-Ukraine — the age of fragmentation lesson; §19 (printed p. 116), into the new Roman Mstyslavych founds the Halych-Volyn state lesson; §20 (printed p. 121), into the new The Mongols invade Rus-Ukraine lesson; §21 (printed p. 127), into the new Danylo, king of Rus lesson; §22 (printed p. 133), into the new The Halych-Volyn state after Danylo lesson; §23 (printed p. 139), into the new Culture of the Halych-Volyn land lesson; §25 (printed p. 147), into the new Ukrainian lands in the Lithuanian state lesson; §26 (printed p. 155), into the new Ukrainian lands under Hungary, Moldova and Muscovy lesson; §27 (printed p. 160), into the new Crimea and the northern Black Sea in the late Middle Ages lesson; §28 (printed p. 166), into the new Ukrainian towns, crafts and Magdeburg law lesson; §29 (printed p. 175), into the new Ukrainian culture in the 14th and 15th centuries lesson; §31 (printed p. 184), into the new Ukraine in medieval Europe lesson. The book's
+generalisation paragraphs (§§6, 12, 18, 24 and 30) are
+review lessons filed with the sections they close, and
+the course generalisation (§31) is filed separately as
+the new Ukraine in medieval Europe lesson, exactly as
+the placements file them. All 25 placements stand on
+the student book, counted in acceptance (the 25 new
+lessons). History lessons: 314 → 339.
