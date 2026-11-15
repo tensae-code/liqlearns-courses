@@ -1,16 +1,21 @@
 # Sources — Russia
 
-countries: China
+countries: China, North Macedonia
 
 **Book 1:** *地理 Geography, Grade 7, second volume (PEP 人教版)* (student book, Chinese) — China, 人民教育出版社 (People's Education Press), Beijing; year 2012 (1st edition, Oct 2012); ISBN 978-7-107-25251-8. Title as printed: 义务教育教科书 地理 七年级 下册 (Geography, Grade 7, Volume 2), 人民教育出版社 课程教材研究所 地理课程教材研究开发中心 编著. Grade 7 (student). 107 PDF pp. (byte size 19,762,695 and blob SHA 881c9b1c7cdc3ea707c12f4d8c97bbf77d91e685 verified against repo metadata; cover verified: 七年级 下册 matches the Grade 7 record; image-only scan, read via its full contents pages and rendered spreads). Verdict: PARTIAL — as with the Grade 8 book, the "full-year" file holds only the second-semester volume (下册), Chapters 6–10 (printed pp. 1–102 plus appendices). The first-semester volume (上册, Chapters 1–5: the Earth and maps, land and sea, weather and climate, residents and settlements, development and cooperation) is NOT in the file — a library debt, named in the group log. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/china-placements.md.
+
+**Book 2:** *Географија за VII одделение во основно образование (Geography for Grade 7 in primary education)* (student book, Macedonian) — North Macedonia, Тримакс (Trimaks), Skopje; year 2025; ISBN 978-608-204-511-5; author Prof. Dr. Blagoja Markoski; approved by the National Textbook Commission, decision 26-860/1 of 5.08.2025. Title as printed: Географија за VII одделение во основно образование (Geography for Grade 7 in primary education). Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 113 (cover verified against the record; matches the record's 113 pages). Verdict: COMPLETE. Records note: 11 records / 6 distinct books (2 TSV blob records for Grades 7 and 9 + 6 books.json records for Grades 7–12, of which Grades 7 and 9 duplicate the TSV records; plus 3 link_records from Telegram for Grades 8, 11 and 12, which are the same 3 books as the books.json Grade 8/11/12 records) / Grades 7, 9, 10 read full page-by-page via pdftotext -layout after cover verification (fetched by git sparse-checkout from the repo tree — the API routes truncated every transfer over ~21 MB, git transport verified the blobs itself). Grades 8, 11, 12 filed UNREAD: their files are NOT in the repo tree (verified by git ls-tree on main), NOT in any GitHub release (all 12 release tags searched), their phase3-staging geography/student folders are empty, the ministry source URLs now return 404, and Wayback holds no snapshot of the Macedonian Grade 8/11/12 editions — the only remaining copy is the Telegram channel named in the link records, which needs a Telegram browser task. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/north-macedonia-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Russia | China, *China Grade 7 PEP Geography Vol. 2*, Chapter 7 §4 Russia — printed p. 37 |
 | Sub lesson 2 — China's way — the book's own teaching way | China, *China Grade 7 PEP Geography Vol. 2* — the book's own way of teaching (see below) |
+| North Macedonia part (Grade 7 mk-g7) — Тема 1: Географски преглед на Источна Европа; Русија | North Macedonia, *North Macedonia Grade 7 mk-g7*, Тема 1: Географски преглед на Источна Европа; Русија — printed p. 73 |
 
-**Acceptance count: taught in 1 country (China).**
+**Acceptance count: taught in 2 countries (China, North Macedonia).**
 
 China's own way: world regional geography taught continent-by-continent and neighbour-by-neighbour — Asia first and in most detail (China's own continent), then the nearby countries (Japan, Southeast Asia, India, Russia), then the other eastern-hemisphere regions, the Americas, and the polar regions last. That way is stocked here as the way China teaches this thing.
 
 Searchable tags: russia, China, PEP, People's Education Press, the land and air
+
+North Macedonia's own way (Grade 7 mk-g7): regional geography taught continent by continent — Europe then Asia — each continent opened with its physical characteristics (position, coastline, relief, climate, hydrography), then its socio-geography (population, peoples and religions, science and culture, settlements), then region-by-region reviews with individual country lessons and a tourism-centres lesson per region; the home country is taught inside the Balkan/Southern Europe region alongside Albania.

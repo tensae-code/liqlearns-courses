@@ -3243,3 +3243,141 @@ and Wildlife Conservation (Grade 10 Contemporary
 India-II, printed p. 17) — the new lessons are taught
 in 1 country (India), 8 questions each.
 Geography lessons: 1150 → 1197.
+
+
+## North Macedonia — Geography expansion (merged 2026-11-14)
+123 placement lines stocked from North Macedonia's 3
+read Geography books (11 records / 6 distinct books — 2
+TSV blob records for Grades 7 and 9 + 6 books.json
+records for Grades 7–12, of which Grades 7 and 9
+duplicate the TSV records, plus 3 link_records from
+Telegram for Grades 8, 11 and 12, which are the same 3
+books as the books.json Grade 8/11/12 records) —
+Macedonian student books, all COMPLETE: Географија за
+VII одделение (Grade 7, Trimaks, 2025), Географија за
+IX одделение (Grade 9, ministry e-textbook) and
+Географија за I година гимназиско образование (Grade 10
+/ gymnasium Year 1, Trimaks, 2025), read full
+page-by-page via pdftotext -layout after cover
+verification. The placements file's own tallies agree
+with its line count (41+39+43 = 123 = 44 to existing
+lessons + 79 NEW LESSON NEEDED). Grades 8, 11 and 12
+are UNREAD with 0 placements: their files are NOT in
+the repo tree, NOT in any GitHub release, their
+phase3-staging geography/student folders are empty, the
+ministry source URLs now return 404, and Wayback holds
+no snapshot of the Macedonian editions — the only
+remaining copy is the Telegram channel named in the
+link records, which needs a Telegram browser task.
+North Macedonia's own way: regional geography taught
+continent by continent (Grades 7 and 9), then the
+gymnasium course restarts Geography as a systems
+science through the four spheres, people in
+geographical space, and the world as one global system
+(Grade 10). Stocked into standing lessons (48
+placements across 26 lessons) across the Geography
+titles — including 4 NEW-flagged placements stocked
+into lessons already built by the China merge (India —
+Geography, two placements, Grade 7 printed p. 105 and
+Grade 9 printed p. 41; Japan — Geography, Grade 7
+printed p. 108; Russia — Geography, Grade 7 printed p.
+73), so no duplicate lessons were built for them. No
+placement slug needed remapping to a different lesson —
+every other slug stands in the course under its own
+name. 72 NEW lessons built (75 placements) — **The Land
+and Air**: Africa's Climate and Living World (Grade 9
+mk-g9, printed p. 54), Africa's Hydrography (Grade 9
+mk-g9, printed p. 57), Africa's Relief and Coastline
+(Grade 9 mk-g9, printed p. 51), The Americas' Climate
+and Vegetation Types (Grade 9 mk-g9, printed p. 94),
+The Americas' Climate Conditions and Extreme Weather
+(Grade 9 mk-g9, printed p. 91), The Americas'
+Hydrography (Grade 9 mk-g9, printed p. 97), The
+Americas' Relief Characteristics (Grade 9 mk-g9,
+printed p. 88), Asia's Climate and Climatic
+Characteristics (Grade 7 mk-g7, printed p. 85), Asia's
+Climate and Vegetation Types (Grade 9 mk-g9, printed p.
+22), Asia's Hydrography — Rivers and Lakes (Grade 7
+mk-g7, printed p. 87; Grade 9 mk-g9, printed p. 25),
+Asia's Relief Characteristics (Grade 7 mk-g7, printed
+p. 83; Grade 9 mk-g9, printed p. 16), Australia and
+Oceania's Physical Geography (Grade 9 mk-g9, printed p.
+122), Bosnia and Herzegovina and Montenegro — Geography
+(Grade 7 mk-g7, printed p. 38), Brazil — Agricultural
+Giant of South America (Grade 9 mk-g9, printed p. 116),
+Bulgaria and Greece — Geography (Grade 7 mk-g7, printed
+p. 47), China — Geography (Grade 7 mk-g7, printed p.
+102; Grade 9 mk-g9, printed p. 38), Europe's Climate
+and Climatic Characteristics (Grade 7 mk-g7, printed p.
+15), Europe's Hydrography — Rivers and Lakes (Grade 7
+mk-g7, printed p. 17), Europe's Relief Characteristics
+(Grade 7 mk-g7, printed p. 12), France — Geography
+(Grade 7 mk-g7, printed p. 56), Germany — Geography
+(Grade 7 mk-g7, printed p. 67), Great Britain —
+Geography (Grade 7 mk-g7, printed p. 54), Groundwater
+and Springs (Grade 10 mk-g10, printed p. 44), How the
+Earth's Relief Is Formed (Grade 10 mk-g10, printed p.
+13), Lakes, Wetlands and Glaciers (Grade 10 mk-g10,
+printed p. 50), Meteorological Elements (Grade 10
+mk-g10, printed p. 30), Meteorological Phenomena (Grade
+10 mk-g10, printed p. 32), North Macedonia and Albania
+— Geography (Grade 7 mk-g7, printed p. 44), Regional
+Review of Africa's States (Grade 9 mk-g9, printed p.
+68), Regional Review of the Americas' States (Grade 9
+mk-g9, printed p. 109), Regional Review of Asia's
+States (Grade 9 mk-g9, printed p. 35), Regional Review
+of Australia and Oceania's States (Grade 9 mk-g9,
+printed p. 128), Serbia and Kosovo — Geography (Grade 7
+mk-g7, printed p. 41), Slovenia and Croatia — Geography
+(Grade 7 mk-g7, printed p. 35), South Africa — A Land
+of Contrasts (Grade 9 mk-g9, printed p. 72), Sweden —
+Geography (Grade 7 mk-g7, printed p. 62), The Animal
+World (Grade 10 mk-g10, printed p. 59), The Arctic and
+Antarctic (Grade 9 mk-g9, printed p. 131), The
+Atmosphere's Composition and Layers (Grade 10 mk-g10,
+printed p. 25), The Balkan Peninsula (Grade 7 mk-g7,
+printed p. 32), The Plant World (Grade 10 mk-g10,
+printed p. 55), The Regional Division of Asia (Grade 7
+mk-g7, printed p. 98), The Regional Division of Europe
+(Grade 7 mk-g7, printed p. 28), The USA — A World
+Economic Superpower (Grade 9 mk-g9, printed p. 112),
+Turkey — Geography (Grade 7 mk-g7, printed p. 110),
+Types of Relief (Grade 10 mk-g10, printed p. 23),
+Weather and Climate (Grade 10 mk-g10, printed p. 28),
+Weather Forecasting (Grade 10 mk-g10, printed p. 36);
+**Population, Transport and Maps**: Life in Urban
+Agglomerations — Megacities (Grade 9 mk-g9, printed p.
+106), Problems and Sustainable Development of Big
+Cities (Grade 10 mk-g10, printed p. 78), Sea Straits
+and Canals (Grade 10 mk-g10, printed p. 114),
+Settlements in Europe — Villages, Cities and
+Conurbations (Grade 7 mk-g7, printed p. 26), Transport
+Corridors (Grade 10 mk-g10, printed p. 110), World
+Urbanisation Processes (Grade 10 mk-g10, printed p.
+72); **People and Resources**: Africa's Ethnographic
+Population Features (Grade 9 mk-g9, printed p. 65),
+Asia's Peoples and Religions (Grade 7 mk-g7, printed p.
+94), Australia and Oceania's Socioeconomic Geography
+(Grade 9 mk-g9, printed p. 125), Energy Efficiency
+(Grade 10 mk-g10, printed p. 85), Energy Sources and
+Their Characteristics (Grade 10 mk-g10, printed p. 81),
+Europe's Peoples and Religions (Grade 7 mk-g7, printed
+p. 23); **Culture and Work**: Science and Culture in
+Asia (Grade 7 mk-g7, printed p. 96), Science and
+Culture in Europe (Grade 7 mk-g7, printed p. 24);
+**Global Issues**: Asia's Climate Factors, Elements and
+Phenomena (Grade 9 mk-g9, printed p. 19), Climate and
+Weather Disasters (Grade 10 mk-g10, printed p. 67),
+Drinking Water on Earth (Grade 10 mk-g10, printed p.
+53), Food and Water Shortage — Africa's Most Serious
+Problem (Grade 9 mk-g9, printed p. 75), Geological
+Disasters (Grade 10 mk-g10, printed p. 61), Global
+Challenges in the World (Grade 10 mk-g10, printed p.
+124), Global Networks and Connectivity (Grade 10
+mk-g10, printed p. 118), Hydrological Disasters (Grade
+10 mk-g10, printed p. 64), International Organisations
+(Grade 10 mk-g10, printed p. 122), Waste Management
+(Grade 10 mk-g10, printed p. 102) — the new lessons are
+taught in 1 country (North Macedonia), 8 questions
+each.
+Geography lessons: 1197 → 1269.

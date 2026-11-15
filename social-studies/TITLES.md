@@ -103,7 +103,7 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **1197**
+Geography lessons across the eight Geography titles: **1269**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -747,3 +747,54 @@ Harvesting in India and India — Energy Resources;
 Global Issues: India — Wildlife and Its Conservation,
 Ecosystems — How Living and Non-Living Fit Together and
 India — Forest and Wildlife Conservation.
+
++72 for North Macedonia, 2026-11-14 — The Land and Air:
+Africa's Climate and Living World, Africa's
+Hydrography, Africa's Relief and Coastline, The
+Americas' Climate and Vegetation Types, The Americas'
+Climate Conditions and Extreme Weather, The Americas'
+Hydrography, The Americas' Relief Characteristics,
+Asia's Climate and Climatic Characteristics, Asia's
+Climate and Vegetation Types, Asia's Hydrography —
+Rivers and Lakes, Asia's Relief Characteristics,
+Australia and Oceania's Physical Geography, Bosnia and
+Herzegovina and Montenegro — Geography, Brazil —
+Agricultural Giant of South America, Bulgaria and
+Greece — Geography, China — Geography, Europe's Climate
+and Climatic Characteristics, Europe's Hydrography —
+Rivers and Lakes, Europe's Relief Characteristics,
+France — Geography, Germany — Geography, Great Britain
+— Geography, Groundwater and Springs, How the Earth's
+Relief Is Formed, Lakes, Wetlands and Glaciers,
+Meteorological Elements, Meteorological Phenomena,
+North Macedonia and Albania — Geography, Regional
+Review of Africa's States, Regional Review of the
+Americas' States, Regional Review of Asia's States,
+Regional Review of Australia and Oceania's States,
+Serbia and Kosovo — Geography, Slovenia and Croatia —
+Geography, South Africa — A Land of Contrasts, Sweden —
+Geography, The Animal World, The Arctic and Antarctic,
+The Atmosphere's Composition and Layers, The Balkan
+Peninsula, The Plant World, The Regional Division of
+Asia, The Regional Division of Europe, The USA — A
+World Economic Superpower, Turkey — Geography, Types of
+Relief, Weather and Climate and Weather Forecasting;
+Population, Transport and Maps: Life in Urban
+Agglomerations — Megacities, Problems and Sustainable
+Development of Big Cities, Sea Straits and Canals,
+Settlements in Europe — Villages, Cities and
+Conurbations, Transport Corridors and World
+Urbanisation Processes; People and Resources: Africa's
+Ethnographic Population Features, Asia's Peoples and
+Religions, Australia and Oceania's Socioeconomic
+Geography, Energy Efficiency, Energy Sources and Their
+Characteristics and Europe's Peoples and Religions;
+Culture and Work: Science and Culture in Asia and
+Science and Culture in Europe; Global Issues: Asia's
+Climate Factors, Elements and Phenomena, Climate and
+Weather Disasters, Drinking Water on Earth, Food and
+Water Shortage — Africa's Most Serious Problem,
+Geological Disasters, Global Challenges in the World,
+Global Networks and Connectivity, Hydrological
+Disasters, International Organisations and Waste
+Management.

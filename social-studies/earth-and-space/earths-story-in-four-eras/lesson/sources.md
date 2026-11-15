@@ -1,6 +1,6 @@
 # Sources — The Earth's Story in Four Eras
 
-countries: Ethiopia, Bolivia
+countries: Ethiopia, Bolivia, North Macedonia
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page - 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md.
 
@@ -8,13 +8,16 @@ countries: Ethiopia, Bolivia
 
 **Book 3:** *Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024 — Secundaria Comunitaria Productiva, Área Ciencias Sociales* (teacher guide, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; 2023–2024; no ISBN printed. Title as printed: Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024 — Secundaria Comunitaria Productiva, Área Ciencias Sociales. Grade 7 (record grade; the compendium in fact carries teacher guidance for Secundaria years 1–6) (teacher). 332 PDF pp. (cover verified against the record title; byte size 22,986,155 and page count match the staging books.json record exactly; read from the recorded direct source_url). Verdict: COMPLETE (combined teacher compendium — Geography guidance placed below; its own index pagination does not match the PDF's internal order, noted as a library debt; the compendium's remaining units mirror the student books' History and Civics units for Secundaria 1–6, named in the placements in bulk, not placed). Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bolivia-placements.md.
 
+**Book 4:** *Географија за I година гимназиско образование (Geography for Year 1 of gymnasium education)* (student book, Macedonian) — North Macedonia, Тримакс (Trimaks), Skopje; year 2025; ISBN 978-608-204-519-1; author Prof. Dr. Blagoja Markoski; approved by the National Textbook Commission, decision 26-936/1 of 26.08.2025. Title as printed: Географија за I година гимназиско образование (Geography for Year 1 of gymnasium education). Grade: Grade 10 / gymnasium Year 1 (student/teacher: STUDENT). PDF pages: 128 (cover/title verified against the record; matches the record's 128 pages). Verdict: COMPLETE. Records note: 11 records / 6 distinct books (2 TSV blob records for Grades 7 and 9 + 6 books.json records for Grades 7–12, of which Grades 7 and 9 duplicate the TSV records; plus 3 link_records from Telegram for Grades 8, 11 and 12, which are the same 3 books as the books.json Grade 8/11/12 records) / Grades 7, 9, 10 read full page-by-page via pdftotext -layout after cover verification (fetched by git sparse-checkout from the repo tree — the API routes truncated every transfer over ~21 MB, git transport verified the blobs itself). Grades 8, 11, 12 filed UNREAD: their files are NOT in the repo tree (verified by git ls-tree on main), NOT in any GitHub release (all 12 release tags searched), their phase3-staging geography/student folders are empty, the ministry source URLs now return 404, and Wayback holds no snapshot of the Macedonian Grade 8/11/12 editions — the only remaining copy is the Telegram channel named in the link records, which needs a Telegram browser task. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/north-macedonia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — the four eras | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 1, printed pp. 13–14 |
 | Bolivia part — Geological time: geology and the Earth's story | Bolivia, *Texto de Aprendizaje — Ciencias Sociales, Secundaria 1*, Grade 7, Geological time: geology and the Earth's story — printed p. 10 |
 | Bolivia part — Geological time (teacher guidance, Secundaria 1) (teacher guide — evidence) | Bolivia, *Compendio para Maestras y Maestros, Área Ciencias Sociales* (teacher guide), Grade 7 (record grade; teacher guidance), Geological time (teacher guidance, Secundaria 1) — printed p. 14 |
+| North Macedonia part (Grade 10 mk-g10) — Тема 1 Литосфера, 1. Геолошка еволуција на Земјата | North Macedonia, *North Macedonia Grade 10 mk-g10*, Тема 1 Литосфера, 1. Геолошка еволуција на Земјата — printed p. 6 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Bolivia).**
+**Acceptance count: taught in 3 countries (Ethiopia, Bolivia, North Macedonia).**
 
 No book errors are flagged by the placements for these pages.
 
@@ -23,3 +26,5 @@ Bolivia's own way (Grade 7, Secundaria 1): The Bolivian Texto de Aprendizaje run
 Bolivia's own way (teacher guide — evidence): The teacher compendium teaches the same four-moment lesson shape (Práctica, Teoría, Valoración, Producción) with QR-linked videos and local openings — a La Paz landslide video opens the geography unit — and it adds two geography units the sampled student books do not carry at those grades: the scientific development of geographic science with cartography and coordinates (year 3), and water as a human right with Andean water management (year 4). That evidence is stocked here as the way Bolivia teaches this thing; it does not change the acceptance count above.
 
 Searchable tags: geological eras, Pre-Cambrian, Palaeozoic, Mesozoic, Cenozoic, Pangaea, Gondwanaland, fossils, continental drift, Bolivia, Ciencias Sociales Bolivia, teacher guide evidence
+
+North Macedonia's own way (Grade 10 mk-g10): the gymnasium course restarts Geography as a systems science — Theme 1 works through the four spheres (lithosphere, atmosphere, hydrosphere, biosphere) lesson by lesson, then natural disasters by sphere; Theme 2 turns to people in geographical space (world urbanisation, energy, farming, industry, transport and trade, tourism, environmental impact); Theme 3 treats the world as one global system (globalisation, transport corridors and sea straits/canals, global networks and navigation systems, international organisations, global challenges and climate-change solutions). 43 numbered lessons.

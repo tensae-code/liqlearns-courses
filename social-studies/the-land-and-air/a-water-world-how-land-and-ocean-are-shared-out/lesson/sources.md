@@ -1,6 +1,6 @@
 # Sources — A water world — how land and ocean are shared out
 
-countries: Ethiopia, Costa Rica, Jamaica, Palestine, Angola
+countries: Ethiopia, Costa Rica, Jamaica, Palestine, Angola, North Macedonia
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Costa Rica, Jamaica, Palestine, Angola
 
 **Book 6:** *Geografia 6ª Classe* (student book, Portuguese) — Angola, Ministério da Educação / Mensagem Editora, Luanda; year 2021 (3.ª Edição); ISBN 978-989-54802-5-8. Title as printed: Geografia | Manual da 6.ª Classe. Grade 6 (student). 96 PDF pp. (cover/title page verified against the record title; read from the record's own recorded source_url (Portal do Professor de Língua Portuguesa) after the GitHub API grab route repeatedly failed with RemoteDisconnected on 2026-11-14 — so the repo copy was not byte-verified against this read). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/angola-placements.md.
 
+**Book 7:** *Географија за I година гимназиско образование (Geography for Year 1 of gymnasium education)* (student book, Macedonian) — North Macedonia, Тримакс (Trimaks), Skopje; year 2025; ISBN 978-608-204-519-1; author Prof. Dr. Blagoja Markoski; approved by the National Textbook Commission, decision 26-936/1 of 26.08.2025. Title as printed: Географија за I година гимназиско образование (Geography for Year 1 of gymnasium education). Grade: Grade 10 / gymnasium Year 1 (student/teacher: STUDENT). PDF pages: 128 (cover/title verified against the record; matches the record's 128 pages). Verdict: COMPLETE. Records note: 11 records / 6 distinct books (2 TSV blob records for Grades 7 and 9 + 6 books.json records for Grades 7–12, of which Grades 7 and 9 duplicate the TSV records; plus 3 link_records from Telegram for Grades 8, 11 and 12, which are the same 3 books as the books.json Grade 8/11/12 records) / Grades 7, 9, 10 read full page-by-page via pdftotext -layout after cover verification (fetched by git sparse-checkout from the repo tree — the API routes truncated every transfer over ~21 MB, git transport verified the blobs itself). Grades 8, 11, 12 filed UNREAD: their files are NOT in the repo tree (verified by git ls-tree on main), NOT in any GitHub release (all 12 release tags searched), their phase3-staging geography/student folders are empty, the ministry source URLs now return 404, and Wayback holds no snapshot of the Macedonian Grade 8/11/12 editions — the only remaining copy is the Telegram channel named in the link records, which needs a Telegram browser task. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/north-macedonia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The big numbers | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 1, printed pp. 16 |
@@ -24,8 +26,9 @@ countries: Ethiopia, Costa Rica, Jamaica, Palestine, Angola
 | Jamaica part — Term 2 Unit 2: the world's oceans and water bodies (curriculum guide — evidence) | Jamaica, *Jamaica Grade 6 JM G6 Exploratory Core*, Term 2 Unit 2: the world's oceans and water bodies — printed p. 189 |
 | Palestine part — Lesson 2: the Earth's surface — divisions of land and water | Palestine, *Social Studies, Grade 5, Part One*, Grade 5, Lesson 2: the Earth's surface — divisions of land and water — printed p. 13 |
 | Angola part — 3.1 A água no planeta | Angola, *Geografia 6ª Classe*, Grade 6, 3.1 A água no planeta — printed p. 34 |
+| North Macedonia part (Grade 10 mk-g10) — Хидросфера, 14. Океани и мориња | North Macedonia, *North Macedonia Grade 10 mk-g10*, Хидросфера, 14. Океани и мориња — printed p. 40 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Costa Rica, Palestine, Angola). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 5 countries (Ethiopia, Costa Rica, Palestine, Angola, North Macedonia). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grade 6 Exploratory Core, curriculum guide — evidence): the Grade 6 Social Studies year is built as three paired terms — culture and independence first, then the physical world (mountains, landmasses and water bodies), then climate, Earth movements and the atmosphere, closing on Caribbean cooperation. That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
@@ -38,3 +41,5 @@ Searchable tags: land and ocean distribution, water world, hemispheres, ethiopia
 Palestine's own way (Grade 5, PS G5P1): Social Studies opens with a full Earth-science unit (shape, movements, surface, life components, disasters) taught through Palestinian examples — seasons read off Palestinian crops, surface forms read off Palestine's own map, which pupils draw with its borders.
 
 Angola's own way (Grade 6): a resources-and-environment year — every world topic (air, water, soils, forests) is closed with the Angolan case: Angola's fresh-water use, Angola's farm land, Angola's forest areas. That way is stocked here as the way Angola teaches this thing.
+
+North Macedonia's own way (Grade 10 mk-g10): the gymnasium course restarts Geography as a systems science — Theme 1 works through the four spheres (lithosphere, atmosphere, hydrosphere, biosphere) lesson by lesson, then natural disasters by sphere; Theme 2 turns to people in geographical space (world urbanisation, energy, farming, industry, transport and trade, tourism, environmental impact); Theme 3 treats the world as one global system (globalisation, transport corridors and sea straits/canals, global networks and navigation systems, international organisations, global challenges and climate-change solutions). 43 numbered lessons.
