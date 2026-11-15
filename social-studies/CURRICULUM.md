@@ -7568,3 +7568,313 @@ population-transport-and-maps/reducing-unwanted-migration,
 the-land-and-air/significance-of-plate-movements,
 the-land-and-air/the-central-african-region.
 Geography lessons: 3180 → 3311.
+
+
+## Greece — Geography expansion (merged 2026-11-15)
+599 placement lines stocked from Greece's 34 records /
+17 distinct books (all Greek, Ministry of Education /
+ITYE Diophantos). The placements file's per-book
+tallies sum to exactly 599, matching the placement-line
+count book by book, and its existing/NEW split
+(134/465) agrees with the line flags (134
+existing-flagged / 465 NEW-flagged, 179 distinct NEW
+slugs) — no discrepancy. By lesson dir, 138 placements
+land in 41 standing lessons and 461 in the 177 new
+lessons. Two NEW-flagged slugs already stand as lessons
+(global-issues/the-shrinking-aral-sea, 2 placements;
+the-land-and-air/antarctica-the-frozen-continent, 2
+placements — 4 placements in all) and their placements
+are stocked there, not rebuilt. Two placements are
+remapped from 2 existing-flagged slugs that do not
+stand to the closest standing lesson covering the thing
+(original slug recorded in each provenance row):
+people-and-resources/economic-activities-the-three-levels
+->
+culture-and-work/economic-activities-the-three-levels
+(1); the-land-and-air/materials-of-the-crust ->
+earth-and-space/materials-of-the-crust (1). Books 1, 4,
+10 and 14 are teacher guides (194 placements), cited as
+teacher-guide evidence only, outside acceptance counts;
+the workbooks (Books 3, 5, 9 and 12) carry STUDENT on
+their Grade lines and count as student books. Every
+standing destination takes at least one student-book
+placement, so Greece counts in all 41 standing lessons;
+5 new lessons stand on a teacher guide only (acceptance
+count 0 countries). Books 6 and 16 are parallel revised
+editions with 0 placements counted — their placements
+are filed once under Books 2 and 11, both editions
+named in those book entries. Books 7 and 8 (Social &
+Political Education, Grades 5 and 6) are RECORD ONLY —
+pure Civics, no Geography parts to place; a later
+Civics wave owns them. Greece's own way: the primary
+course studies one country whole — Grade 5 is 'Learning
+Greece' (maps first, then Greece's natural environment,
+then its human environment, closing outward to the EU,
+Cyprus and the Greek diaspora) and Grade 6 turns
+outward to the whole Earth ('Learning about the Earth':
+Earth in space, the natural environment, how humans
+live in deserts, polar lands, rainforests and temperate
+zones, then a continent-by-continent tour, Europe first
+and in depth); the Gymnasium course (Grades 7–8) is
+organised by Earth's spheres in Grade 7 and gives the
+whole of Grade 8 to one continent — Europe — with
+Greece re-entered inside every theme; the EPAL Grade 12
+book reads the world as tourism destinations, Greece
+first and region by region. Stocked into standing
+lessons (138 placements across 41 lessons). 177 NEW
+lessons built (461 placements) — **The Land and Air**:
+Africa Identity Profile (printed p. 125), Africa
+Position and Natural Environment (printed p. 87;
+printed p. 55; printed p. 48; printed p. 126; printed
+p. 120; printed p. 79), Asia Identity Profile (printed
+p. 115), Asia Position and Natural Environment (printed
+p. 82; printed p. 49; printed p. 22; printed p. 50;
+printed p. 116; printed p. 124; printed p. 88), Cyprus
+Its Natural Environment (printed p. 110; printed p.
+144; printed p. 63), Europe Identity Profile (printed
+p. 84), Europe Position and Location (printed p. 67;
+printed p. 36; printed p. 25; printed p. 85; printed p.
+10; printed p. 17), Europe Snapshot Natural Environment
+and People (printed p. 142; printed p. 68), Europes
+Coastline Horizontal Division (printed p. 68; printed
+p. 37; printed p. 87), Europes Flora Fauna and
+Vegetation (printed p. 72; printed p. 40; printed p.
+66; printed p. 96; printed p. 32; printed p. 80),
+Europes Geological History and Orogenesis (printed p.
+30; printed p. 14; printed p. 26), Europes
+Physiographic Regions (printed p. 38; printed p. 19;
+printed p. 42), Europes Relief Vertical Division
+(printed p. 69; printed p. 38; printed p. 90), Europes
+Rivers and Lakes (printed p. 55; printed p. 29; printed
+p. 72), Flora and Fauna of Greece (printed p. 59;
+printed p. 75; printed p. 34), Greeces Coastline
+(printed p. 29; printed p. 32; printed p. 14), Greeces
+Form and Shape (printed p. 26; printed p. 26; printed
+p. 11), Greeces Geological History (printed p. 33;
+printed p. 16; printed p. 32), Greeces Island Groups
+and Islands (printed p. 33; printed p. 38; printed p.
+16), Greeces Position in the World (printed p. 27;
+printed p. 29; printed p. 12), How Europes Relief Was
+Shaped (printed p. 32; printed p. 15; printed p. 29),
+Making Hypotheses About a Continents Conditions
+(printed p. 110), North America Identity Profile
+(printed p. 132), North America Position and Natural
+Environment (printed p. 90; printed p. 59; printed p.
+52; printed p. 133; printed p. 128; printed p. 91),
+Oceania Identity Profile (printed p. 149), Oceania
+Position and Natural Environment (printed p. 97;
+printed p. 68; printed p. 56; printed p. 150; printed
+p. 136; printed p. 103), Presenting Ecosystems As
+Comics (printed p. 32; printed p. 116), Rainfall and
+Climate (printed p. 43; printed p. 26), Reading Greeces
+Geomorphological Map (printed p. 13), Seismic and
+Volcanic Activity in Europe and Greece (printed p. 35;
+printed p. 17; printed p. 35), South America Identity
+Profile (printed p. 142), South America Position and
+Natural Environment (printed p. 95; printed p. 63;
+printed p. 54; printed p. 143; printed p. 132; printed
+p. 95), The Baltic and North Seas (printed p. 41;
+printed p. 21; printed p. 48), The Climate of Europe
+(printed p. 71; printed p. 39; printed p. 50; printed
+p. 93; printed p. 27; printed p. 66), The Climate of
+Greece (printed p. 47; printed p. 59; printed p. 26;
+printed p. 53; printed p. 28; printed p. 69), The
+Climate Zones of the Earth (printed p. 37; printed p.
+15; printed p. 39), The Lakes of Greece (printed p. 54;
+printed p. 69; printed p. 31; printed p. 60; printed p.
+31; printed p. 77), The Mediterranean Sea (printed p.
+42; printed p. 22; printed p. 50), The Mountains of
+Greece (printed p. 37; printed p. 47; printed p. 20;
+printed p. 49; printed p. 26; printed p. 63), The
+Plains of Greece (printed p. 41; printed p. 50; printed
+p. 21; printed p. 49; printed p. 26; printed p. 63),
+The Rivers of Africa (printed p. 66; printed p. 38),
+The Rivers of Asia (printed p. 60; printed p. 36), The
+Rivers of Greece (printed p. 51; printed p. 66; printed
+p. 30; printed p. 60; printed p. 31; printed p. 77),
+The Rivers of the Americas (printed p. 63; printed p.
+37), The Seas of Europe (printed p. 40; printed p. 20;
+printed p. 45), The Seas of Greece (printed p. 31;
+printed p. 35; printed p. 15), The Vegetation of Greece
+(printed p. 61; printed p. 78; printed p. 35), The
+Vegetation Zones of the Earth (printed p. 39; printed
+p. 16; printed p. 43), The Worlds Great Mountain Ranges
+and Plains (printed p. 42; printed p. 20; printed p.
+45; printed p. 49; printed p. 24; printed p. 55), The
+Worlds Largest Rivers and Lakes (printed p. 43; printed
+p. 21; printed p. 52), Travelling to the Moluccas
+Indonesia (printed p. 112), Watching the Earths Film
+Plate Tectonics (printed p. 114), Water in Nature the
+Hydrosphere (printed p. 18; printed p. 48; printed p.
+30; printed p. 111), Where Organisms Live Distribution
+of Life (printed p. 82; printed p. 45), Why Relative
+Position Matters (printed p. 23; printed p. 9; printed
+p. 14), Why River Networks Matter to Human Life
+(printed p. 46; printed p. 22; printed p. 55);
+**Population, Transport and Maps**: Africas People and
+States (printed p. 88; printed p. 57; printed p. 58;
+printed p. 129), An Outdoor Walk Reading a Topographic
+Map (printed p. 107), Building an Imaginary City
+(printed p. 40; printed p. 117), Building Tour
+Itineraries and Excursion Programmes (printed p. 260),
+Characteristics of Europes Population (printed p. 78;
+printed p. 39; printed p. 103), Creating Maps in Simple
+Steps (printed p. 36; printed p. 107), Drawing a World
+Population Density Map (printed p. 117), Europes Large
+Cities (printed p. 85; printed p. 42; printed p. 114),
+Europes People and States (printed p. 75; printed p.
+41; printed p. 48; printed p. 99), Europes Political
+Division (printed p. 69; printed p. 34; printed p. 86),
+Europes Population (printed p. 77; printed p. 38;
+printed p. 101), Games with Geographical Coordinates
+(printed p. 13; printed p. 14), Greece Geographic
+Departments and Regions (printed p. 90; printed p. 112;
+printed p. 49), Greeces Administrative Division
+(printed p. 86; printed p. 109; printed p. 48; printed
+p. 76; printed p. 37; printed p. 97), Greeces Balkan
+Neighbours (printed p. 92; printed p. 45; printed p.
+123), Greeces Coastal Settlements (printed p. 37;
+printed p. 44; printed p. 18), Greeces Large Urban
+Centres (printed p. 81; printed p. 103; printed p. 45;
+printed p. 88; printed p. 43; printed p. 117), Greeces
+Population (printed p. 77; printed p. 97; printed p.
+43; printed p. 82; printed p. 40; printed p. 107),
+Greeces Population Distribution (printed p. 80; printed
+p. 101; printed p. 44), Maps in Daily Life (printed p.
+17; printed p. 17), Oceanias States and People (printed
+p. 99; printed p. 70; printed p. 72; printed p. 153),
+Questioning Maps (printed p. 24; printed p. 19),
+Reading Greeces Political Map (printed p. 51), South
+Americas People and States (printed p. 96; printed p.
+65; printed p. 67; printed p. 146), Studying Europes
+Natural Environment with Maps (printed p. 27; printed
+p. 11; printed p. 20), Studying Europes People with
+Maps (printed p. 28; printed p. 12; printed p. 22), The
+Balkan Countries (printed p. 90; printed p. 44; printed
+p. 120), The Cities of Greece (printed p. 84; printed
+p. 106; printed p. 46), The Earths Population (printed
+p. 90; printed p. 55), The People of Asia (printed p.
+85; printed p. 52; printed p. 54; printed p. 122), The
+People of North America (printed p. 92; printed p. 60;
+printed p. 62; printed p. 136), The Planets Large
+Cities (printed p. 98; printed p. 58), The Prefectures
+Nomoi of Greece (printed p. 91; printed p. 115; printed
+p. 50), The States of Asia (printed p. 84; printed p.
+50; printed p. 119), The States of North America
+(printed p. 94; printed p. 61; printed p. 139),
+Transport and Communications in Europe (printed p. 120;
+printed p. 58), Transport in Greece (printed p. 106;
+printed p. 133; printed p. 59), Where the Worlds Large
+Cities Are Built (printed p. 102; printed p. 59);
+**People and Resources**: Agricultural Production in
+Greece (printed p. 92; printed p. 118; printed p. 52),
+Agriculture and Forestry in Europe (printed p. 96;
+printed p. 49; printed p. 131), Cyprus Its Human
+Environment (printed p. 111; printed p. 147; printed p.
+64), Energy Production and Consumption in Europe
+(printed p. 107; printed p. 53; printed p. 146), Greece
+in the World Tourism Environment (printed p. 21),
+Greeces Forests and Mineral Wealth (printed p. 98;
+printed p. 124; printed p. 54), Greeces Primary Sector
+(printed p. 101; printed p. 51; printed p. 138),
+Greeces Secondary Sector (printed p. 153), Greeces
+Tertiary Sector (printed p. 168), Human Resources
+(printed p. 114; printed p. 65), Livestock and Fishing
+in Greece (printed p. 96; printed p. 121; printed p.
+53), Livestock Fishing and Aquaculture in Europe
+(printed p. 99; printed p. 50; printed p. 135), Mining
+and Construction in Europe (printed p. 110; printed p.
+54; printed p. 150), Models of Tourism Development
+(printed p. 16), People and the Sea Island States
+(printed p. 54; printed p. 32), Reading Tourism Data
+Tables (printed p. 266), The Greeks a People with a
+Long History (printed p. 76; printed p. 94; printed p.
+42), The History of World Tourism Development (printed
+p. 12), The Ruhr Industrial Region Case Study (printed
+p. 42; printed p. 118), Tourism Geography What It
+Studies (printed p. 9), Tourism in Africa South of the
+Sahara (printed p. 242), Tourism in Anglo America USA
+and Canada (printed p. 177), Tourism in Attica (printed
+p. 25), Tourism in Australia and New Zealand (printed
+p. 251), Tourism in Central Europe (printed p. 154),
+Tourism in Central Greece and Euboea (printed p. 34),
+Tourism in Central Macedonia (printed p. 69), Tourism
+in Crete (printed p. 84), Tourism in East Asia China
+and Japan (printed p. 205), Tourism in Eastern Europe
+(printed p. 160), Tourism in Eastern Macedonia and
+Thrace (printed p. 76), Tourism in Epirus (printed p.
+63), Tourism in France (printed p. 139), Tourism in
+Italy Malta and Cyprus (printed p. 121), Tourism in
+Mexico and Central America (printed p. 189), Tourism in
+North Africa (printed p. 233), Tourism in Northern
+Europe (printed p. 166), Tourism in South America
+(printed p. 196), Tourism in South and Southeast Asia
+(printed p. 211), Tourism in Southern Europe (printed
+p. 110), Tourism in Spain and Portugal (printed p.
+113), Tourism in the Alpine and Benelux Countries
+(printed p. 143), Tourism in the Balkan Countries
+(printed p. 131), Tourism in the Caribbean Islands
+(printed p. 192), Tourism in the Ionian Islands
+(printed p. 51), Tourism in the Middle East (printed p.
+220), Tourism in the North Aegean Islands (printed p.
+106), Tourism in the Pacific Islands (printed p. 255),
+Tourism in the Peloponnese (printed p. 43), Tourism in
+the South Aegean Islands (printed p. 92), Tourism in
+Thessaly (printed p. 57), Tourism in Western Europe
+(printed p. 133), Tourism in Western Greece (printed p.
+40), Tourism in Western Macedonia (printed p. 67),
+Tourism Resources Natural and Cultural (printed p. 13),
+Tourism Supply and Demand (printed p. 13), Transport
+and Communications in Europe (printed p. 164);
+**Culture and Work**: Cultural Characteristics of
+Europes Peoples (printed p. 76; printed p. 42; printed
+p. 84; printed p. 103; printed p. 41; printed p. 111),
+Greek Communities in Ancient Greek Hearths (printed p.
+115; printed p. 153; printed p. 66), Industrial
+Production in Greece (printed p. 101; printed p. 127;
+printed p. 55; printed p. 112; printed p. 55), Industry
+and Craft in Europe (printed p. 104; printed p. 52;
+printed p. 142), Life by Greeces Rivers and Lakes
+(printed p. 58; printed p. 72; printed p. 32), Life in
+Greeces Mountains and Plains (printed p. 42; printed p.
+53; printed p. 22), Life in the Desert (printed p. 60;
+printed p. 31; printed p. 71), Life in the Polar
+Regions (printed p. 62; printed p. 32; printed p. 74),
+Life in the Temperate Regions (printed p. 65; printed
+p. 34; printed p. 80), Life in the Tropical Forests
+(printed p. 63; printed p. 33; printed p. 77), Life on
+Greeces Islands (printed p. 35; printed p. 41; printed
+p. 17), Living with Europes Mountains and Plains
+(printed p. 47; printed p. 25; printed p. 60), Living
+with Europes Rivers and Lakes (printed p. 59; printed
+p. 30; printed p. 75), People of the Mediterranean
+(printed p. 43; printed p. 23; printed p. 52), The
+Greek Diaspora (printed p. 112; printed p. 150; printed
+p. 65), The Worlds Languages and Religions (printed p.
+58; printed p. 30; printed p. 68), Trade in Europe
+(printed p. 115; printed p. 56; printed p. 157);
+**Resources and Conflict**: Characteristic Ecosystems
+of Greece (printed p. 63; printed p. 81; printed p.
+36), Greeces National Parks (printed p. 37), Problems
+That Seek Answers (printed p. 116; printed p. 65);
+**Global Issues**: European States Relations and the Eu
+(printed p. 82; printed p. 46; printed p. 112), Natural
+Disasters and Their Consequences for People (printed p.
+48; printed p. 23; printed p. 58), Natural Disasters in
+Greece (printed p. 73; printed p. 90; printed p. 40),
+The Countries of the European Union (printed p. 107;
+printed p. 137; printed p. 60; printed p. 70; printed
+p. 35; printed p. 90), The Impacts of Tourism (printed
+p. 112), Why the European Union Matters (printed p.
+109; printed p. 140; printed p. 61; printed p. 73;
+printed p. 36; printed p. 94) — 172 of the 177 new
+lessons are taught in 1 country (Greece), 8 questions
+each, standing on Greece student book(s); 5 stand on a
+teacher guide only (teacher-guide evidence only,
+acceptance count 0 countries):
+population-transport-and-maps/an-outdoor-walk-reading-a-topographic-map,
+population-transport-and-maps/drawing-a-world-population-density-map,
+the-land-and-air/making-hypotheses-about-a-continents-conditions,
+the-land-and-air/travelling-to-the-moluccas-indonesia,
+the-land-and-air/watching-the-earths-film-plate-tectonics.
+Geography lessons: 3311 → 3488.

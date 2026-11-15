@@ -1,10 +1,14 @@
 # Sources — Reading deep time — eras and periods
 
-countries: Ethiopia
+countries: Ethiopia, Greece
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
 **Book 2:** *Geography, Teacher Guide, Grade 9* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published 2022 under GEQIP-E. No ISBN printed in the pages read. 287 printed pp. Printed page = PDF page − 22 for the body (front matter in roman numerals). Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-teacher-placements.md.
+
+**Book 3:** *Γεωλογία – Γεωγραφία Α΄ Γυμνασίου (Geology–Geography, Grade 7 Gymnasium)* (student book, Greek) — Υπουργείο Παιδείας / ΙΤΥΕ «Διόφαντος»; ISBN 978-960-06-2659-9 (book code 0-21-0013). Title as printed: Γεωλογία – Γεωγραφία Α΄ Γυμνασίου (Geology–Geography, Grade 7 Gymnasium). Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 154 (cover verified against the record title; byte size 28,437,695 exact match to the books.json record — downloaded from the record's ebooks.edu.gr source_url with a resumable loop). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/greece-placements.md.
+
+**Book 4:** *Γεωλογία – Γεωγραφία Α΄ Γυμνασίου, Βιβλίο Εκπαιδευτικού (Geology–Geography, Grade 7 Gymnasium, Teacher's Book)* (teacher guide, Greek) — Υπουργείο Παιδείας / ΙΤΥΕ «Διόφαντος»; ISBN 978-960-06-2661-2 (book code 0-21-0015). Title as printed: Γεωλογία – Γεωγραφία Α΄ Γυμνασίου, Βιβλίο Εκπαιδευτικού (Geology–Geography, Grade 7 Gymnasium, Teacher's Book). Grade: Grade 7 (student/teacher: TEACHER). PDF pages: 144 (cover verified against the record title; byte size 27,153,584 exact match to the books.json record — downloaded from the record's ebooks.edu.gr source_url with a resumable loop). The PDF is image-only (no text layer), so it was read page-by-page from rendered pages.. Verdict: COMPLETE. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/greece-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -12,7 +16,13 @@ countries: Ethiopia
 | Sub lesson 2 — Ethiopia in the timescale | Ethiopia, *Geography, Teacher Guide, Grade 9*, Unit 1, printed p. 27 |
 | Major geological events activity key (teacher guide — evidence) | Ethiopia, *Geography, Teacher Guide, Grade 9*, Unit 1, printed p. 27 |
 | Teaching pattern and answer keys (teacher guide — evidence) — Grade 9 Unit 1 | Ethiopia, *Geography, Teacher Guide, Grade 9*, Unit 1, guide printed pp. 1–34 |
+| Greece part — B4.1 Μιλώντας για την ηλικία της Γης (talking about the age of the Earth) | Greece, *Greece Grade 7 Geology-Geography Student Book*, B4.1 Μιλώντας για την ηλικία της Γης (talking about the age of the Earth) — printed p. 70 |
+| Greece part — B4.1 Μιλώντας για την ηλικία της Γης (talking about the age of the Earth) (teacher guidance) (teacher guide — evidence) | Greece, *Greece Grade 7 Geology-Geography Teacher Guide* (teacher guide), B4.1 Μιλώντας για την ηλικία της Γης (talking about the age of the Earth) (teacher guidance) — printed p. 40 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Greece).**
 
 Searchable tags: geological time, eras, periods, precambrian, palaeozoic, mesozoic, cenozoic, tertiary, quaternary, social studies
+
+Greece's own way (Greece Grade 7 Geology-Geography Student Book): Gymnasium Geography is organised by Earth's spheres — maps first, then the natural environment sphere by sphere (atmosphere, hydrosphere, lithosphere, biosphere), then the human environment (population, cities, resources), closing with one "snapshot" chapter per continent, Antarctica included. Lessons open with art and literature (a Little Prince extract introduces coordinates) and state their learning goals up front ("In this chapter you will learn…").
+
+Greece's own way (Greece Grade 7 Geology-Geography Teacher Guide) (teacher guide — evidence): the guide opens with the philosophy of the whole package — against memorising lists of countries and numbers: geography as systems, change over time and cross-curricular links (the ΔΕΠΠΣ framework), with "mental maps" as the goal. Per lesson it gives objectives, visual material, teaching approach and worked answers (e.g. the coordinate games solved for Quito, Athens, Manila, Lusaka; Greece's own 1821–1999 birth/death-rate table under population). Its second half guides the workbook's project activities, and it closes with cross-curricular question sets and 32 suggested assessment topics. Europe gets no separate unit here — it is the whole of the Grade 8 course. That evidence is stocked here as the way Greece teaches this thing; it is cited as evidence only — Greece is counted in this lesson through its student book(s).

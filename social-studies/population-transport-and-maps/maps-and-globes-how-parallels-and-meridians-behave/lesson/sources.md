@@ -1,6 +1,6 @@
 # Sources — Maps and globes — how parallels and meridians behave
 
-countries: Ethiopia, Haiti, India, Libya, Moldova, Mozambique, Bhutan
+countries: Ethiopia, Haiti, India, Libya, Moldova, Mozambique, Bhutan, Greece
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 2, placements 27–43).
 
@@ -18,6 +18,12 @@ countries: Ethiopia, Haiti, India, Libya, Moldova, Mozambique, Bhutan
 
 **Book 8:** *INTERMEDIATE GEOGRAPHY CLASS IX* (student book, English) — Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu (title page; developed with the Royal Education Council, Paro); year Reprint 2024 (page footers); ISBN no ISBN printed (no imprint page in the PDF). Title as printed: INTERMEDIATE GEOGRAPHY CLASS IX. Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 123 (cover/title page verified against the record title; byte size 10,807,956 and page count match the books.json record exactly — read via the record's ministry source URL). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
 
+**Book 9:** *Γεωγραφία Στ΄ Δημοτικού — Μαθαίνω για τη Γη, Βιβλίο Δασκάλου (Geography, Grade 6 Primary — "I Learn about the Earth", Teacher's Book)* (teacher guide, Greek) — Υπουργείο Παιδείας / ΙΤΥΕ «Διόφαντος»; year 2012; ISBN 978-960-06-2618-6 (book code 0-10-0155). Title as printed: Γεωγραφία Στ΄ Δημοτικού — Μαθαίνω για τη Γη, Βιβλίο Δασκάλου (Geography, Grade 6 Primary — "I Learn about the Earth", Teacher's Book). Grade: Grade 6 (student/teacher: TEACHER). PDF pages: 106 (cover verified against the record title; byte size 1,465,915 exact match to the books.json record, grabbed via grab.py). Verdict: COMPLETE. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/greece-placements.md.
+
+**Book 10:** *Γεωγραφία Στ΄ Δημοτικού — Μαθαίνω για τη Γη, Τετράδιο Εργασιών (Geography Grade 6 — "I Learn about the Earth", Workbook)* (workbook, Greek) — Υπουργείο Παιδείας / ΙΤΥΕ «Διόφαντος»; ISBN 978-960-06-2617-9 (book code 0-10-0154). Title as printed: Γεωγραφία Στ΄ Δημοτικού — Μαθαίνω για τη Γη, Τετράδιο Εργασιών (Geography Grade 6 — "I Learn about the Earth", Workbook). Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 78 (cover verified against the record title; byte size 16,877,317 exact match to the books.json record, grabbed via grab.py). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/greece-placements.md.
+
+**Book 11:** *Γεωγραφία Στ΄ Δημοτικού — Μαθαίνω για τη Γη (Geography, Grade 6 Primary — "I Learn about the Earth")* (student book, Greek) — Υπουργείο Παιδείας / ΙΤΥΕ «Διόφαντος»; ISBN 978-960-06-2616-2 (book code 0-10-0153). Title as printed: Γεωγραφία Στ΄ Δημοτικού — Μαθαίνω για τη Γη (Geography, Grade 6 Primary — "I Learn about the Earth"). Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 162 (cover verified against the record title; byte size 48,655,538 exact match to the books.json record — downloaded from the record's ebooks.edu.gr source_url with a resumable loop after the GitHub Blob-API route failed). Verdict: COMPLETE. Parallel edition named, not double-counted: Book 16, the NEW (revised) edition of this Grade 6 student book (book code 0-10-0236, same ISBN), shares this book's chapter set, order and printed pagination exactly; its 51 placements are filed once here, under this old edition (code 0-10-0153). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/greece-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson | Ethiopia, *Social Studies Student Textbook, Grade 7* (Amhara Bureau), printed p. 49 |
@@ -28,8 +34,11 @@ countries: Ethiopia, Haiti, India, Libya, Moldova, Mozambique, Bhutan
 | Mozambique part — Lição 2: cardinal points and reading coordinates | Mozambique, *Mozambique Grade 7 PESD I Mod 1*, Lição 2: cardinal points and reading coordinates — printed p. 17 |
 | Bhutan part — Ch.2 2.1 Latitude | Bhutan, *Bhutan Grade 8 Geography*, Ch.2 2.1 Latitude — printed p. 5 |
 | Bhutan part — Ch.3 3.2 Parallels of Latitude | Bhutan, *Bhutan Grade 9 Geography*, Ch.3 3.2 Parallels of Latitude — printed p. 19 |
+| Greece part — Ch.2 Οι πόλοι, ο Ισημερινός, οι παράλληλοι κύκλοι και οι μεσημβρινοί (poles, Equator, parallels and meridians) (teacher guide — evidence) | Greece, *Greece Grade 6 Geography Teacher Guide (old ed.)* (teacher guide), Ch.2 Οι πόλοι, ο Ισημερινός, οι παράλληλοι κύκλοι και οι μεσημβρινοί (poles, Equator, parallels and meridians) — printed p. 20 |
+| Greece part — Ch.2 Οι πόλοι, ο Ισημερινός, οι παράλληλοι κύκλοι και οι μεσημβρινοί (poles, Equator, parallels and meridians) — worksheet | Greece, *Greece Grade 6 Geography Workbook (old ed.)*, Ch.2 Οι πόλοι, ο Ισημερινός, οι παράλληλοι κύκλοι και οι μεσημβρινοί (poles, Equator, parallels and meridians) — worksheet — printed p. 6 |
+| Greece part — Ch.2 Οι πόλοι, ο Ισημερινός, οι παράλληλοι κύκλοι και οι μεσημβρινοί (poles, Equator, parallels and meridians) | Greece, *Greece Grade 6 Geography Student Book (old ed.)*, Ch.2 Οι πόλοι, ο Ισημερινός, οι παράλληλοι κύκλοι και οι μεσημβρινοί (poles, Equator, parallels and meridians) — printed p. 15 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, India, Libya, Moldova, Mozambique, Bhutan). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 7 countries (Ethiopia, India, Libya, Moldova, Mozambique, Bhutan, Greece). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
 
 Haiti's own way (teacher sequence — evidence): Geography opens with representing the Earth itself — globe-to-flat projection problems, orientation practised on the ground with compass/GPS/Google Maps, and time-zone puzzles worked on Haiti's own links (midday shared with Québec, 18h in Paris, Port-au-Prince–Paris flights); every séance ends in a croquis, a glossary and field observation. That evidence is stocked here as the way Haiti teaches this thing; it does not change the acceptance count above.
 
@@ -48,3 +57,9 @@ Mozambique's own way (Mozambique Grade 7 PESD I Mod 1): distance-learning self-s
 Bhutan's own way (Bhutan Grade 8 Geography): Class VIII deepens the same three strands with real map-work (scale conversion, grid references, contours and profiles) and Bhutan-specific hazard and resource content, including the Rubesa wind turbine and hydroelectric dams as national resource examples.
 
 Bhutan's own way (Bhutan Grade 9 Geography): The Intermediate level (IX–X) treats each world topic at full textbook depth and keeps the Bhutan case inside it — Soils of Bhutan, agro-ecological zones and farming practices of Bhutan, and common disasters in Bhutan (including GLOF) alongside the world disaster survey.
+
+Greece's own way (Greece Grade 6 Geography Teacher Guide (old ed.)) (teacher guide — evidence): Grade 6 turns outward from Greece to the whole Earth — Earth in space, the natural environment, Earth as people's living space (how humans live in deserts, polar lands, rainforests, temperate zones), then a continent-by-continent tour (Europe in depth first, then Asia, Africa, North and South America, Oceania). The guide works from children's own prior mental models (e.g. flat-Earth models, taught with oranges and globes) and gives per-chapter objectives, alternative pupil ideas, method, activities and workbook/assessment answers (printed pp. 100–103). That evidence is stocked here as the way Greece teaches this thing; it is cited as evidence only — Greece is counted in this lesson through its student book(s).
+
+Greece's own way (Greece Grade 6 Geography Workbook (old ed.)): a worksheet for every one of the 45 student chapters plus 10 assessment sheets — one per unit and then one per continent — so the world tour is practised continent by continent.
+
+Greece's own way (Greece Grade 6 Geography Student Book (old ed.)): the student twin of Book 4's 45 chapters, with one addition the guide only implies — every continent section opens with a one-page "identity" profile of the continent (area, extremes, population at a glance) before its position, environment, states and peoples chapters.

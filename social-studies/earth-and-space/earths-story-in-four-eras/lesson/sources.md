@@ -1,6 +1,6 @@
 # Sources — The Earth's Story in Four Eras
 
-countries: Ethiopia, Bolivia, North Macedonia, Mozambique, Armenia, Cuba
+countries: Ethiopia, Bolivia, North Macedonia, Mozambique, Armenia, Cuba, Greece
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page - 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Bolivia, North Macedonia, Mozambique, Armenia, Cuba
 
 **Book 8:** *Geografía de Cuba, sexto grado* (student book, Spanish) — Editorial Pueblo y Educación, Cuba; segunda edición corregida y aumentada 2002, oncena reimpresión 2019; ISBN 978-959-13-0835-1. Title as printed: Geografía de Cuba, sexto grado. Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 127 (image-only scan — no text layer; fetched via a resumable Contents-API raw download after grab.py's blob route cut twice, 21,973,328 bytes, git blob SHA-1 verified; read in full from 100-DPI 4-up contact sheets, all 127 pages; cover/title page verified against the record title; printed pagination runs to p. 119 + Vocabulario). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/cuba-placements.md.
 
+**Book 9:** *Γεωλογία – Γεωγραφία Α΄ Γυμνασίου, Τετράδιο Εργασιών (Geology–Geography, Grade 7 Gymnasium, Workbook)* (workbook, Greek) — Υπουργείο Παιδείας / ΙΤΥΕ «Διόφαντος»; ISBN 978-960-06-2660-5 (book code 0-21-0014). Title as printed: Γεωλογία – Γεωγραφία Α΄ Γυμνασίου, Τετράδιο Εργασιών (Geology–Geography, Grade 7 Gymnasium, Workbook). Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 66 (cover verified against the record title; byte size 11,973,041 exact match to the books.json record — fetched from the mid-size-books release asset because the books.json tree path returns 404 in the repo tree). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/greece-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — the four eras | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 1, printed pp. 13–14 |
@@ -28,8 +30,9 @@ countries: Ethiopia, Bolivia, North Macedonia, Mozambique, Armenia, Cuba
 | Armenia part — Lesson 2.2 Geological eras | Armenia, *Armenia Grade 7 Geography student*, Lesson 2.2 Geological eras — printed p. 31 |
 | Cuba part — Capítulo 4 Evolución geológica de la Tierra | Cuba, *Cuba Grade 7 Geografía Física G7*, Capítulo 4 Evolución geológica de la Tierra — printed p. 56 |
 | Cuba part — Capítulo 2 Configuración de Cuba: la evolución geológica del archipiélago por eras y períodos | Cuba, *Cuba Grade 6 Geografía de Cuba G6*, Capítulo 2 Configuración de Cuba: la evolución geológica del archipiélago por eras y períodos — printed p. 19 |
+| Greece part — B4.1 Από την ταινιοθήκη της Γης (from Earth's film library — Earth history) | Greece, *Greece Grade 7 Geology-Geography Workbook*, B4.1 Από την ταινιοθήκη της Γης (from Earth's film library — Earth history) — printed p. 26 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Bolivia, North Macedonia, Mozambique, Armenia, Cuba).**
+**Acceptance count: taught in 7 countries (Ethiopia, Bolivia, North Macedonia, Mozambique, Armenia, Cuba, Greece).**
 
 No book errors are flagged by the placements for these pages.
 
@@ -48,3 +51,5 @@ Armenia's own way (Armenia Grade 7 Geography student): opens school geography wi
 Cuba's own way (Cuba Grade 7 Geografía Física G7): Physical geography is taught sphere by sphere (lithosphere → atmosphere → hydrosphere → biosphere) but every sphere chapter closes on rational use and sustainability — wind energy, rational water use, soil protection — and Cuban evidence runs through it (Cuba's forest cover fell from ~95 % at the Spanish arrival to 16 % by 1959 and was recovered by policy).
 
 Cuba's own way (Cuba Grade 6 Geografía de Cuba G6): The child's first geography book is the home country itself — one chapter of tools (coordinates, orientation, scale), then Cuba whole (situation, relief, coasts, climate, population, economy), then its two great regions landscape by landscape; the political-administrative division taught is the pre-2011 one (Ciudad de La Habana appears as a province), and History episodes woven into the regional chapters (the Santa Clara battle, the Granma landing) are named here but not placed — they belong to the History course.
+
+Greece's own way (Greece Grade 7 Geology-Geography Workbook): the Gymnasium workbook is a project book, not drills — pupils build a solar-system model, draw a relief profile from the Vouraikos topographic map, argue the Aral Sea case, retell ecosystems as comics, build an imaginary city, study the Ruhr, and "fly over" each continent from satellite images; it ends with blank outline maps to photocopy and enlarge.

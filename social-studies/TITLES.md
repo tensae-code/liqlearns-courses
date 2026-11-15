@@ -103,7 +103,7 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **3311**
+Geography lessons across the eight Geography titles: **3488**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -2324,3 +2324,118 @@ Hazards and Why the Development Gap Is Growing.
 (South Sudan), each standing on student book(s); 7
 stand on a teacher guide only, as evidence only,
 acceptance count 0 countries.)
+
++177 for Greece, 2026-11-15 — The Land and Air: Africa
+Identity Profile, Africa Position and Natural
+Environment, Asia Identity Profile, Asia Position and
+Natural Environment, Cyprus Its Natural Environment,
+Europe Identity Profile, Europe Position and Location,
+Europe Snapshot Natural Environment and People, Europes
+Coastline Horizontal Division, Europes Flora Fauna and
+Vegetation, Europes Geological History and Orogenesis,
+Europes Physiographic Regions, Europes Relief Vertical
+Division, Europes Rivers and Lakes, Flora and Fauna of
+Greece, Greeces Coastline, Greeces Form and Shape,
+Greeces Geological History, Greeces Island Groups and
+Islands, Greeces Position in the World, How Europes
+Relief Was Shaped, Making Hypotheses About a Continents
+Conditions, North America Identity Profile, North
+America Position and Natural Environment, Oceania
+Identity Profile, Oceania Position and Natural
+Environment, Presenting Ecosystems As Comics, Rainfall
+and Climate, Reading Greeces Geomorphological Map,
+Seismic and Volcanic Activity in Europe and Greece,
+South America Identity Profile, South America Position
+and Natural Environment, The Baltic and North Seas, The
+Climate of Europe, The Climate of Greece, The Climate
+Zones of the Earth, The Lakes of Greece, The
+Mediterranean Sea, The Mountains of Greece, The Plains
+of Greece, The Rivers of Africa, The Rivers of Asia,
+The Rivers of Greece, The Rivers of the Americas, The
+Seas of Europe, The Seas of Greece, The Vegetation of
+Greece, The Vegetation Zones of the Earth, The Worlds
+Great Mountain Ranges and Plains, The Worlds Largest
+Rivers and Lakes, Travelling to the Moluccas Indonesia,
+Watching the Earths Film Plate Tectonics, Water in
+Nature the Hydrosphere, Where Organisms Live
+Distribution of Life, Why Relative Position Matters and
+Why River Networks Matter to Human Life; Population,
+Transport and Maps: Africas People and States, An
+Outdoor Walk Reading a Topographic Map, Building an
+Imaginary City, Building Tour Itineraries and Excursion
+Programmes, Characteristics of Europes Population,
+Creating Maps in Simple Steps, Drawing a World
+Population Density Map, Europes Large Cities, Europes
+People and States, Europes Political Division, Europes
+Population, Games with Geographical Coordinates, Greece
+Geographic Departments and Regions, Greeces
+Administrative Division, Greeces Balkan Neighbours,
+Greeces Coastal Settlements, Greeces Large Urban
+Centres, Greeces Population, Greeces Population
+Distribution, Maps in Daily Life, Oceanias States and
+People, Questioning Maps, Reading Greeces Political
+Map, South Americas People and States, Studying Europes
+Natural Environment with Maps, Studying Europes People
+with Maps, The Balkan Countries, The Cities of Greece,
+The Earths Population, The People of Asia, The People
+of North America, The Planets Large Cities, The
+Prefectures Nomoi of Greece, The States of Asia, The
+States of North America, Transport and Communications
+in Europe, Transport in Greece and Where the Worlds
+Large Cities Are Built; People and Resources:
+Agricultural Production in Greece, Agriculture and
+Forestry in Europe, Cyprus Its Human Environment,
+Energy Production and Consumption in Europe, Greece in
+the World Tourism Environment, Greeces Forests and
+Mineral Wealth, Greeces Primary Sector, Greeces
+Secondary Sector, Greeces Tertiary Sector, Human
+Resources, Livestock and Fishing in Greece, Livestock
+Fishing and Aquaculture in Europe, Mining and
+Construction in Europe, Models of Tourism Development,
+People and the Sea Island States, Reading Tourism Data
+Tables, The Greeks a People with a Long History, The
+History of World Tourism Development, The Ruhr
+Industrial Region Case Study, Tourism Geography What It
+Studies, Tourism in Africa South of the Sahara, Tourism
+in Anglo America USA and Canada, Tourism in Attica,
+Tourism in Australia and New Zealand, Tourism in
+Central Europe, Tourism in Central Greece and Euboea,
+Tourism in Central Macedonia, Tourism in Crete, Tourism
+in East Asia China and Japan, Tourism in Eastern
+Europe, Tourism in Eastern Macedonia and Thrace,
+Tourism in Epirus, Tourism in France, Tourism in Italy
+Malta and Cyprus, Tourism in Mexico and Central
+America, Tourism in North Africa, Tourism in Northern
+Europe, Tourism in South America, Tourism in South and
+Southeast Asia, Tourism in Southern Europe, Tourism in
+Spain and Portugal, Tourism in the Alpine and Benelux
+Countries, Tourism in the Balkan Countries, Tourism in
+the Caribbean Islands, Tourism in the Ionian Islands,
+Tourism in the Middle East, Tourism in the North Aegean
+Islands, Tourism in the Pacific Islands, Tourism in the
+Peloponnese, Tourism in the South Aegean Islands,
+Tourism in Thessaly, Tourism in Western Europe, Tourism
+in Western Greece, Tourism in Western Macedonia,
+Tourism Resources Natural and Cultural, Tourism Supply
+and Demand and Transport and Communications in Europe;
+Culture and Work: Cultural Characteristics of Europes
+Peoples, Greek Communities in Ancient Greek Hearths,
+Industrial Production in Greece, Industry and Craft in
+Europe, Life by Greeces Rivers and Lakes, Life in
+Greeces Mountains and Plains, Life in the Desert, Life
+in the Polar Regions, Life in the Temperate Regions,
+Life in the Tropical Forests, Life on Greeces Islands,
+Living with Europes Mountains and Plains, Living with
+Europes Rivers and Lakes, People of the Mediterranean,
+The Greek Diaspora, The Worlds Languages and Religions
+and Trade in Europe; Resources and Conflict:
+Characteristic Ecosystems of Greece, Greeces National
+Parks and Problems That Seek Answers; Global Issues:
+European States Relations and the Eu, Natural Disasters
+and Their Consequences for People, Natural Disasters in
+Greece, The Countries of the European Union, The
+Impacts of Tourism and Why the European Union Matters.
+(172 of the 177 new lessons are taught in 1 country
+(Greece), each standing on student book(s); 5 stand on
+a teacher guide only, as evidence only, acceptance
+count 0 countries.)

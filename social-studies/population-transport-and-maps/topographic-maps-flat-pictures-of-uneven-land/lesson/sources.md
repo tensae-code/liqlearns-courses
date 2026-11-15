@@ -1,6 +1,6 @@
 # Sources — Topographic maps — flat pictures of uneven land
 
-countries: Ethiopia, Samoa, Malaysia, Sri Lanka, Jordan, Bhutan, Armenia, South Sudan
+countries: Ethiopia, Samoa, Malaysia, Sri Lanka, Jordan, Bhutan, Armenia, South Sudan, Greece
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -32,6 +32,8 @@ countries: Ethiopia, Samoa, Malaysia, Sri Lanka, Jordan, Bhutan, Armenia, South 
 
 **Book 15:** *Secondary Geography 2 Student's Book* (student book, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 2 Student's Book. Grade: Secondary 2 / Grade 10 (student/teacher: STUDENT). PDF pages: 217 (cover/title page verified against the record title). Image-only PDF: read via 100-DPI 4-up contact sheets; the full printed table of contents (printed pp. 1–208) was read and every unit spot-checked on the sheets, cross-checked against the teacher's guide text.. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
 
+**Book 16:** *Γεωλογία – Γεωγραφία Α΄ Γυμνασίου, Τετράδιο Εργασιών (Geology–Geography, Grade 7 Gymnasium, Workbook)* (workbook, Greek) — Υπουργείο Παιδείας / ΙΤΥΕ «Διόφαντος»; ISBN 978-960-06-2660-5 (book code 0-21-0014). Title as printed: Γεωλογία – Γεωγραφία Α΄ Γυμνασίου, Τετράδιο Εργασιών (Geology–Geography, Grade 7 Gymnasium, Workbook). Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 66 (cover verified against the record title; byte size 11,973,041 exact match to the books.json record — fetched from the mid-size-books release asset because the books.json tree path returns 404 in the repo tree). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/greece-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Relief and landforms | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 8, printed pp. 217–218 |
@@ -51,8 +53,9 @@ countries: Ethiopia, Samoa, Malaysia, Sri Lanka, Jordan, Bhutan, Armenia, South 
 | Bhutan part — Ch.4 4.2 Layout and Numbering of Topographic Map | Bhutan, *Bhutan Grade 10 Geography*, Ch.4 4.2 Layout and Numbering of Topographic Map — printed p. 22 |
 | Armenia part — 1.11 Topographic maps: azimuths and direction angles | Armenia, *Armenia Grade 10 Geography student*, 1.11 Topographic maps: azimuths and direction angles — printed p. 38 |
 | South Sudan part — Types of maps: topographic maps and their features | South Sudan, *South Sudan Grade 10 S2 Geography SB*, Types of maps: topographic maps and their features — printed p. 163 |
+| Greece part — A1.2 Περίπατος στο ύπαιθρο — topographic map of the Vouraikos gorge and relief profile (cross-section) | Greece, *Greece Grade 7 Geology-Geography Workbook*, A1.2 Περίπατος στο ύπαιθρο — topographic map of the Vouraikos gorge and relief profile (cross-section) — printed p. 8 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Samoa, Malaysia, Sri Lanka, Jordan, Bhutan, Armenia, South Sudan).**
+**Acceptance count: taught in 9 countries (Ethiopia, Samoa, Malaysia, Sri Lanka, Jordan, Bhutan, Armenia, South Sudan, Greece).**
 
 No book error is flagged for this lesson's pages in the placements. The student book's body numbering for Unit Two drifts from its own contents (regions printed as 2.4, factors as 2.5, local classification as 2.6, where the contents and the teacher guide's contents agree on 2.3, 2.4 and 2.5); this lesson follows the contents numbering and teaches no misprint.
 
@@ -83,3 +86,5 @@ Bhutan's own way (Bhutan Grade 10 Geography): Class X pairs deep physical theory
 Armenia's own way (Armenia Grade 10 Geography student): grade-10 Geography is a methods-first course — it opens with the science's history, branches and GIS/GPS/aerospace methods, works through the lithosphere with a full natural-disasters lesson, and closes with resources measured by endowment; Armenia's own rivers fill the hydrology tables and Armenia's place in modern geopolitics closes the political-map theme.
 
 South Sudan's own way (South Sudan Grade 10 S2 Geography SB): Each general topic is immediately re-taught through South Sudan — its named rivers (Sobat, Adar, Yabus, Daga), the Sudd swamplands, its oil, fishing and transport problems, and case-study research tasks set by a mock ministry brief.
+
+Greece's own way (Greece Grade 7 Geology-Geography Workbook): the Gymnasium workbook is a project book, not drills — pupils build a solar-system model, draw a relief profile from the Vouraikos topographic map, argue the Aral Sea case, retell ecosystems as comics, build an imaginary city, study the Ruhr, and "fly over" each continent from satellite images; it ends with blank outline maps to photocopy and enlarge.

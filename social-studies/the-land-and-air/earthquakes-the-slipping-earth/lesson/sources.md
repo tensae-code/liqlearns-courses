@@ -1,6 +1,6 @@
 # Sources — Earthquakes — the slipping Earth
 
-countries: Ethiopia, Barbados, Costa Rica, Indonesia, Dominican Republic, Eritrea, North Macedonia, Cambodia, Slovenia, Kuwait, Afghanistan, Yemen, Pakistan, Nepal, Mozambique, Jordan, Iraq, Nicaragua, Bhutan, Cuba, South Sudan
+countries: Ethiopia, Barbados, Costa Rica, Indonesia, Dominican Republic, Eritrea, North Macedonia, Cambodia, Slovenia, Kuwait, Afghanistan, Yemen, Pakistan, Nepal, Mozambique, Jordan, Iraq, Nicaragua, Bhutan, Cuba, South Sudan, Greece
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -68,6 +68,8 @@ countries: Ethiopia, Barbados, Costa Rica, Indonesia, Dominican Republic, Eritre
 
 **Book 33:** *Secondary Geography 1 Teacher's Guide* (teacher guide, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 1 Teacher's Guide. Grade: Secondary 1 / Grade 9 (student/teacher: TEACHER). PDF pages: 98 (cover/title page verified against the record title). Verdict: COMPLETE. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
 
+**Book 34:** *Γεωλογία – Γεωγραφία Α΄ Γυμνασίου, Τετράδιο Εργασιών (Geology–Geography, Grade 7 Gymnasium, Workbook)* (workbook, Greek) — Υπουργείο Παιδείας / ΙΤΥΕ «Διόφαντος»; ISBN 978-960-06-2660-5 (book code 0-21-0014). Title as printed: Γεωλογία – Γεωγραφία Α΄ Γυμνασίου, Τετράδιο Εργασιών (Geology–Geography, Grade 7 Gymnasium, Workbook). Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 66 (cover verified against the record title; byte size 11,973,041 exact match to the books.json record — fetched from the mid-size-books release asset because the books.json tree path returns 404 in the repo tree). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/greece-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Strain and sudden slip | G12 student #12, printed pp. 15–16 |
@@ -104,8 +106,9 @@ countries: Ethiopia, Barbados, Costa Rica, Indonesia, Dominican Republic, Eritre
 | Cuba part — Capítulo 6 ep. 6.3 Evolución geológica del archipiélago cubano: los sismos y las medidas de protección | Cuba, *Cuba Grade 11 Geografía Regional G11*, Capítulo 6 ep. 6.3 Evolución geológica del archipiélago cubano: los sismos y las medidas de protección — printed p. 336 |
 | South Sudan part — Earthquakes: causes (tectonic, volcanic, crustal dislocation) | South Sudan, *South Sudan Grade 9 S1 Geography SB*, Earthquakes: causes (tectonic, volcanic, crustal dislocation) — printed p. 54 |
 | South Sudan part — Guide: causes of earthquakes; practical on earthquake impact; liquefaction (teacher guide — evidence) | South Sudan, *South Sudan Grade 9 S1 Geography TG* (teacher guide), Guide: causes of earthquakes; practical on earthquake impact; liquefaction — printed p. 43 |
+| Greece part — B4.2 Μύθοι και αλήθειες για τους σεισμούς (myths and truths about earthquakes) | Greece, *Greece Grade 7 Geology-Geography Workbook*, B4.2 Μύθοι και αλήθειες για τους σεισμούς (myths and truths about earthquakes) — printed p. 28 |
 
-**Acceptance count: taught in 21 countries (Ethiopia, Barbados, Costa Rica, Indonesia, Dominican Republic, Eritrea, North Macedonia, Cambodia, Slovenia, Kuwait, Afghanistan, Yemen, Pakistan, Nepal, Mozambique, Jordan, Iraq, Nicaragua, Bhutan, Cuba, South Sudan).**
+**Acceptance count: taught in 22 countries (Ethiopia, Barbados, Costa Rica, Indonesia, Dominican Republic, Eritrea, North Macedonia, Cambodia, Slovenia, Kuwait, Afghanistan, Yemen, Pakistan, Nepal, Mozambique, Jordan, Iraq, Nicaragua, Bhutan, Cuba, South Sudan, Greece).**
 
 Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -174,3 +177,5 @@ Cuba's own way (Cuba Grade 11 Geografía Regional G11): The capstone of Cuban sc
 South Sudan's own way (South Sudan Grade 9 S1 Geography SB): Geography is built around South Sudan itself — its own physical features, resources, floods/drought experience and the Nile — with paper-folding and paper-tearing practical experiments for folding, faulting and sea-floor spreading, and group discussion of local examples in nearly every topic.
 
 South Sudan's own way (South Sudan Grade 9 S1 Geography TG) (teacher guide — evidence): The guide mirrors the student's book unit by unit (its printed contents list the same 8 units) and adds content maps, key inquiry questions, expected answers and practical activities — including the sea-floor-spreading paper practical — for every topic. That evidence is stocked here as the way South Sudan teaches this thing; it is cited as evidence only — South Sudan is counted in this lesson through its student book(s).
+
+Greece's own way (Greece Grade 7 Geology-Geography Workbook): the Gymnasium workbook is a project book, not drills — pupils build a solar-system model, draw a relief profile from the Vouraikos topographic map, argue the Aral Sea case, retell ecosystems as comics, build an imaginary city, study the Ruhr, and "fly over" each continent from satellite images; it ends with blank outline maps to photocopy and enlarge.

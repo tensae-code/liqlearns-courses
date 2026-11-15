@@ -1,16 +1,26 @@
 # Sources — The Shrinking Aral Sea
 
-countries: Slovenia
+countries: Slovenia, Greece
 
 **Book 1:** *Geografija 8* (student book, Slovenian) — Slovenia, Zavod RS za šolstvo, Ljubljana; year 2015; ISBN 978-961-03-0282-7 (html5). Title as printed: Geografija 8 (i-učbenik / interactive textbook). Grade: Grade 8 (student/teacher: STUDENT). PDF pages: not a PDF — ZIP package (interactive e-textbook) of 444,693,805 bytes; book pagination runs to printed p. 177+ (Kazalo); all 202 content HTML pages read — every extracted file's decompressed size verified against the ZIP central directory (203/203 files OK). Verdict: COMPLETE (text content; the package's videos/images were not individually viewed — the teaching text, headings, summaries and tasks were read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/slovenia-placements.md.
+
+**Book 2:** *Γεωλογία – Γεωγραφία Α΄ Γυμνασίου, Τετράδιο Εργασιών (Geology–Geography, Grade 7 Gymnasium, Workbook)* (workbook, Greek) — Υπουργείο Παιδείας / ΙΤΥΕ «Διόφαντος»; ISBN 978-960-06-2660-5 (book code 0-21-0014). Title as printed: Γεωλογία – Γεωγραφία Α΄ Γυμνασίου, Τετράδιο Εργασιών (Geology–Geography, Grade 7 Gymnasium, Workbook). Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 66 (cover verified against the record title; byte size 11,973,041 exact match to the books.json record — fetched from the mid-size-books release asset because the books.json tree path returns 404 in the repo tree). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/greece-placements.md.
+
+**Book 3:** *Γεωλογία – Γεωγραφία Α΄ Γυμνασίου, Βιβλίο Εκπαιδευτικού (Geology–Geography, Grade 7 Gymnasium, Teacher's Book)* (teacher guide, Greek) — Υπουργείο Παιδείας / ΙΤΥΕ «Διόφαντος»; ISBN 978-960-06-2661-2 (book code 0-21-0015). Title as printed: Γεωλογία – Γεωγραφία Α΄ Γυμνασίου, Βιβλίο Εκπαιδευτικού (Geology–Geography, Grade 7 Gymnasium, Teacher's Book). Grade: Grade 7 (student/teacher: TEACHER). PDF pages: 144 (cover verified against the record title; byte size 27,153,584 exact match to the books.json record — downloaded from the record's ebooks.edu.gr source_url with a resumable loop). The PDF is image-only (no text layer), so it was read page-by-page from rendered pages.. Verdict: COMPLETE. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/greece-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Krčenje Aralskega jezera (the shrinking of the Aral Sea) inside Svetovni problemi | Slovenia, *Slovenia Grade 8 Geografija 8*, Krčenje Aralskega jezera (the shrinking of the Aral Sea) inside Svetovni problemi — printed p. 157 |
 | Sub lesson 2 — Slovenia's way — the book's own teaching way | Slovenia — the book's own way of teaching (see below) |
+| Greece part — B3.4 Η περίπτωση της λίμνης Αράλης (the case of Lake Aral) (placement slug: global-issues/the-shrinking-aral-sea — already standing, stocked here) | Greece, *Greece Grade 7 Geology-Geography Workbook*, B3.4 Η περίπτωση της λίμνης Αράλης (the case of Lake Aral) — printed p. 23 |
+| Greece part — Workbook activity B3.4 Η περίπτωση της λίμνης Αράλης (the case of the Aral Sea) — teacher guidance (teacher guide — evidence) (placement slug: global-issues/the-shrinking-aral-sea — already standing, stocked here) | Greece, *Greece Grade 7 Geology-Geography Teacher Guide* (teacher guide), Workbook activity B3.4 Η περίπτωση της λίμνης Αράλης (the case of the Aral Sea) — teacher guidance — printed p. 113 |
 
-**Acceptance count: taught in 1 country (Slovenia).**
+**Acceptance count: taught in 2 countries (Slovenia, Greece).**
 
 Slovenia's own way (Slovenia Grade 8 Geografija 8): Grade 8 is pure world regional geography, continent by continent (Africa, Australia/Oceania, the Americas and polar regions), each region worked through the same grid — position/relief/waters, climate/vegetation, population, economy — and the book closes with two world-problems units (rainforest loss, desert spread, water conflicts, the Aral Sea).
 
 Searchable tags: the shrinking aral sea, Slovenia, social studies, global-issues
+
+Greece's own way (Greece Grade 7 Geology-Geography Workbook): the Gymnasium workbook is a project book, not drills — pupils build a solar-system model, draw a relief profile from the Vouraikos topographic map, argue the Aral Sea case, retell ecosystems as comics, build an imaginary city, study the Ruhr, and "fly over" each continent from satellite images; it ends with blank outline maps to photocopy and enlarge.
+
+Greece's own way (Greece Grade 7 Geology-Geography Teacher Guide) (teacher guide — evidence): the guide opens with the philosophy of the whole package — against memorising lists of countries and numbers: geography as systems, change over time and cross-curricular links (the ΔΕΠΠΣ framework), with "mental maps" as the goal. Per lesson it gives objectives, visual material, teaching approach and worked answers (e.g. the coordinate games solved for Quito, Athens, Manila, Lusaka; Greece's own 1821–1999 birth/death-rate table under population). Its second half guides the workbook's project activities, and it closes with cross-curricular question sets and 32 suggested assessment topics. Europe gets no separate unit here — it is the whole of the Grade 8 course. That evidence is stocked here as the way Greece teaches this thing; it is cited as evidence only — Greece is counted in this lesson through its student book(s).

@@ -1,0 +1,26 @@
+# Sources — Greeces Coastal Settlements
+
+countries: Greece
+
+**Book 1:** *Γεωγραφία Ε΄ Δημοτικού — Μαθαίνω την Ελλάδα, Βιβλίο Δασκάλου (Geography, Grade 5 Primary — "I Learn Greece", Teacher's Book)* (teacher guide, Greek) — Υπουργείο Παιδείας / Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» (Ministry of Education / ITYE Diophantos); year 2012; ISBN 978-960-06-2573-8 (book code 0-10-0109). Title as printed: Γεωγραφία Ε΄ Δημοτικού — Μαθαίνω την Ελλάδα, Βιβλίο Δασκάλου (Geography, Grade 5 Primary — "I Learn Greece", Teacher's Book). Grade: Grade 5 (student/teacher: TEACHER). PDF pages: 122 (cover/title page verified against the record title; byte size 2,397,460 exact match to the books.json record). Verdict: COMPLETE. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/greece-placements.md.
+
+**Book 2:** *Γεωγραφία Ε΄ Δημοτικού — Μαθαίνω την Ελλάδα (Geography, Grade 5 Primary — "I Learn Greece")* (student book, Greek) — Υπουργείο Παιδείας / ΙΤΥΕ «Διόφαντος»; year 2013 printing; ISBN 978-960-06-2571-4 (book code 0-10-0194). Title as printed: Γεωγραφία Ε΄ Δημοτικού — Μαθαίνω την Ελλάδα (Geography, Grade 5 Primary — "I Learn Greece"). Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 162 (cover verified against the record title; byte size 44,866,716 exact match to the books.json record — grabbed via the record's ebooks.edu.gr source_url after two GitHub Blob-API grabs failed with RemoteDisconnected). Verdict: COMPLETE. Parallel edition named, not double-counted: Book 6, the NEW (revised) edition of this Grade 5 student book (2020, book code 0-10-0239, same ISBN), shares this book's chapter set, order and printed pagination exactly; its 47 placements are filed once here, under this old edition. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/greece-placements.md.
+
+**Book 3:** *Γεωγραφία Ε΄ Δημοτικού — Μαθαίνω την Ελλάδα, Τετράδιο εργασιών (Geography Grade 5 — "I Learn Greece", Workbook)* (workbook, Greek) — Υπουργείο Παιδείας / ΙΤΥΕ «Διόφαντος»; ISBN 978-960-06-2572-1 (book code 0-10-0108). Title as printed: Γεωγραφία Ε΄ Δημοτικού — Μαθαίνω την Ελλάδα, Τετράδιο εργασιών (Geography Grade 5 — "I Learn Greece", Workbook). Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 70 (cover verified against the record title; byte size 3,663,055 exact match to the books.json record, grabbed via grab.py). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/greece-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — Ch.12 Οι παραθαλάσσιοι οικισμοί της Ελλάδας (the coastal settlements of Greece) (teacher guide — evidence) | Greece, *Greece Grade 5 Geography Teacher Guide (old ed.)* (teacher guide), Ch.12 Οι παραθαλάσσιοι οικισμοί της Ελλάδας (the coastal settlements of Greece) — printed p. 37 |
+| Sub lesson 1 — Ch.12 Οι παραθαλάσσιοι οικισμοί της Ελλάδας (coastal settlements) | Greece, *Greece Grade 5 Geography Student Book (old ed.)*, Ch.12 Οι παραθαλάσσιοι οικισμοί της Ελλάδας (coastal settlements) — printed p. 44 |
+| Sub lesson 1 — Ch.12 Οι παραθαλάσσιοι οικισμοί της Ελλάδας (coastal settlements) — worksheet | Greece, *Greece Grade 5 Geography Workbook (old ed.)*, Ch.12 Οι παραθαλάσσιοι οικισμοί της Ελλάδας (coastal settlements) — worksheet — printed p. 18 |
+| Sub lesson 2 — Greece's way — the book's own teaching way | Greece — the book's own way of teaching (see below) |
+
+**Acceptance count: taught in 1 country (Greece).**
+
+Greece's own way (Greece Grade 5 Geography Teacher Guide (old ed.)) (teacher guide — evidence): the whole primary Geography course is one country studied whole — "Learning Greece": maps first as a tool, then Greece's natural environment (coasts, seas, islands, mountains, plains, climate, rivers, lakes, living things), then its human environment (population, cities, administration, farming, industry, services, transport), closing outward to the EU, Cyprus and the Greek diaspora. Each chapter is taught through a friendship/camp story frame, group activities and cross-curricular concepts; the guide gives per-chapter objectives, method, text structure, group activity, materials, extra scientific background, and worksheet answers (printed p. 116). That book is a teacher guide, cited as evidence only; Greece is counted in this lesson for its student book(s) named here, not for this guide.
+
+Greece's own way (Greece Grade 5 Geography Student Book (old ed.)): same 47-chapter "Learning Greece" course as the teacher guide, in 4 units (Maps; The natural environment of Greece; The human-made environment of Greece; Hellenism beyond the borders), each chapter built from story/dialogue, photos and maps, with activity symbols (individual work, discussion, geographical glossary, "add to your knowledge") and a per-chapter glossary.
+
+Greece's own way (Greece Grade 5 Geography Workbook (old ed.)): one activity worksheet per student-book chapter (draw your own park map, true/false, acrostics, map-reading tasks) plus 11 interspersed assessment sheets working whole maps of Greece — thematic, geomorphological (repeated at rising difficulty), national parks and political.
+
+Searchable tags: greeces coastal settlements, Greece, social studies, population-transport-and-maps

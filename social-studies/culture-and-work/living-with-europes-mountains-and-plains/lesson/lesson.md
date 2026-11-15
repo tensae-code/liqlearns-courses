@@ -1,0 +1,26 @@
+# Living with Europes Mountains and Plains
+
+## Do it first
+
+Before you read on, say in your mind what you already think this is about: Lesson 17 Τα βουνά και οι πεδιάδες στη ζωή των Ευρωπαίων (mountains and plains in Europeans' lives); Worksheet 17 Τα βουνά και οι πεδιάδες στη ζωή των Ευρωπαίων (mountains and plains in Europeans' lives); Lesson 17 Τα βουνά και οι πεδιάδες στη ζωή των Ευρωπαίων (mountains and plains in Europeans' life) — as Greece's book teaches it. Hold your idea; the lesson will test it.
+
+## Sub lesson 1 — Living with Europes Mountains and Plains
+
+Greece's book, the *Greece Grade 8 Geology-Geography Teacher Guide* (printed p. 47), teaches: Lesson 17 Τα βουνά και οι πεδιάδες στη ζωή των Ευρωπαίων (mountains and plains in Europeans' lives). (teacher guide — evidence) Greece's book, the *Greece Grade 8 Geology-Geography Workbook* (printed p. 25), teaches: Worksheet 17 Τα βουνά και οι πεδιάδες στη ζωή των Ευρωπαίων (mountains and plains in Europeans' lives). Greece's book, the *Greece Grade 8 Geology-Geography Student Book* (printed p. 60), teaches: Lesson 17 Τα βουνά και οι πεδιάδες στη ζωή των Ευρωπαίων (mountains and plains in Europeans' life). This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
+
+## Sub lesson 2 — Greece's way — the book's own teaching way
+
+Greece's own way (Greece Grade 8 Geology-Geography Teacher Guide) (teacher guide — evidence): the whole Grade 8 course is one continent — Europe — studied map-first (position, then natural environment, then inhabitants, then economic activities), with Greece re-entered inside every theme (Greece's geological history, mountains, climate, rivers, population, cities, sectors) and the Balkans treated as Greece's neighbourhood at the end of the people unit. The guide's general part sets out the cross-curricular framework (ΔΕΠΠΣ), aims, method and assessment before the 48 lesson plans. That book is a teacher guide, cited as evidence only; Greece is counted in this lesson for its student book(s) named here, not for this guide.
+
+Greece's own way (Greece Grade 8 Geology-Geography Workbook): one worksheet per lesson of the Europe course — tasks, mini-research, map and table work, newspaper commentary and supervised internet searches, often done as group work outside school.
+
+Greece's own way (Greece Grade 8 Geology-Geography Student Book): the student book of the Europe course — 48 lessons in four units (Maps; Europe's natural environment; Europe's inhabitants; Europeans' economic activities), Greece re-entered in every theme, closing with a glossary and the flags and capitals of Europe's states. Its prologue quotes the UNESCO source book: no inhabitant of this planet is truly educated who has not learned geography. This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
+
+## Say it to your companion
+
+Explain this lesson to your companion in your own words. Your companion asks you one hard question about it — answer from the lesson.
+
+## Do It Yourself
+
+1. The book's topic: do the activity in hands-on.md under this name.
+2. Greece's way: do the activity in hands-on.md under this name.
