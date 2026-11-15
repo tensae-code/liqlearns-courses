@@ -1,6 +1,6 @@
 # Sources — Weather and Climate — The Difference and the Elements
 
-countries: Ethiopia, Barbados, Turkey, Guatemala, Jamaica, Colombia, Malaysia, Eritrea, India, Cambodia, Rwanda, Fiji, Slovenia, Papua New Guinea, Uganda, Syria, Venezuela
+countries: Ethiopia, Barbados, Turkey, Guatemala, Jamaica, Colombia, Malaysia, Eritrea, India, Cambodia, Rwanda, Fiji, Slovenia, Papua New Guinea, Uganda, Syria, Venezuela, Sri Lanka
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -54,6 +54,8 @@ countries: Ethiopia, Barbados, Turkey, Guatemala, Jamaica, Colombia, Malaysia, E
 
 **Book 26:** *El espacio geográfico de la Humanidad — Ciencias Sociales, 1er Año* (student book, Spanish) — Ministerio del Poder Popular para la Educación / Colección Bicentenario (co-edition with Ministerio de Cultura, Fundación Editorial El perro y la rana); year 2014 (third edition, April 2014); ISBN 978-980-218-334-0. Title as printed: El espacio geográfico de la Humanidad — Ciencias Sociales, 1er Año. Grade: Grade 7 (1er Año de Educación Media) (student/teacher: STUDENT). PDF pages: 162 (cover/title page verified against the record title; byte size 88,531,252 matches the books.json record; read in place in phase3-staging). Verdict: COMPLETE. (Combined book — Geography parts placed below; parts named, not placed — History/Civics parts named, not placed: none — this is a pure Geography book; historical material (Caracas 1936/1966, Bolívar's unity ideal) is used inside Geography chapters.) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/venezuela-placements.md.
 
+**Book 27:** *Geography, Grade 6* (student book, English) — Educational Publications Department; first print 2014, sixth print 2019; ISBN 978-955-25-0082-4. Title as printed: Geography, Grade 6. Grade: 6 (student/teacher: STUDENT). PDF pages: 75 (cover/title verified against the record title; grabbed via grab.py from the GitHub blob URL, 3,700,387 bytes, SHA-verified by grab.py; full text read page by page). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sri-lanka-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Short and small against long and wide | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 24–25 |
@@ -83,8 +85,9 @@ countries: Ethiopia, Barbados, Turkey, Guatemala, Jamaica, Colombia, Malaysia, E
 | Syria part — Weather and climate in my country Syria | Syria, *Syria Grade 4 Social Studies G4*, Weather and climate in my country Syria — printed p. 22 |
 | Venezuela part — "Aquí hace calor": Venezuela's climates | Venezuela, *Venezuela Grade 5 G5 CS Venezuela y Su Gente*, "Aquí hace calor": Venezuela's climates — printed p. 34 |
 | Venezuela part — El calor, el frío y la lluvia en nuestra Madre Tierra: weather vs climate and their elements | Venezuela, *Venezuela Grade 7 G7 Geography Humanidad*, El calor, el frío y la lluvia en nuestra Madre Tierra: weather vs climate and their elements — printed p. 130 |
+| Sri Lanka part — Ch. 1 Weather conditions of the school's surroundings: what weather is, elements of weather, reading a daily weather report | Sri Lanka, *Sri Lanka Grade 6 G6 English*, Ch. 1 Weather conditions of the school's surroundings: what weather is, elements of weather, reading a daily weather report — printed p. 10 |
 
-**Acceptance count: taught in 15 countries (Ethiopia, Barbados, Turkey, Guatemala, Colombia, Malaysia, Eritrea, India, Cambodia, Rwanda, Fiji, Slovenia, Uganda, Syria, Venezuela). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 16 countries (Ethiopia, Barbados, Turkey, Guatemala, Colombia, Malaysia, Eritrea, India, Cambodia, Rwanda, Fiji, Slovenia, Uganda, Syria, Venezuela, Sri Lanka). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Jamaica's own way (Grade 4 Exploratory Core, curriculum guide — evidence): Social Studies is one of four subjects fused into a single Exploratory Core guide, organised by four attainment themes; Geography enters through Jamaica itself — Taino settlement maps, cardinal points, Jamaica's physical features, parishes, weather and the Earth in the Solar System — always with hands-on map and model work. That evidence is stocked here as the way Jamaica teaches this thing; it does not change the acceptance count above.
 
@@ -137,3 +140,5 @@ Syria's own way (Syria Grade 4 Social Studies G4): the whole primary book is one
 Venezuela's own way (Venezuela Grade 5 G5 CS Venezuela y Su Gente): the Geography block is a journey ("Viajemos por Venezuela") through work and wealth — farmland and its natural supports, climate, biodiversity, relief, oil basins and minerals — always tied to how the oil economy rearranged the country's population and space.
 
 Venezuela's own way (Venezuela Grade 7 G7 Geography Humanidad): a Geohistoria (Ramón Tovar) approach — geographic space is always explained through the historical conditions that built it; every chapter opens with a literary epigraph, works through "Entérate / Entretejiendo saberes / Indagando" boxes, and keeps returning to the learner's own community and to Caracas as the worked example.
+
+Sri Lanka's own way (Sri Lanka Grade 6 G6 English): geography starts from the child's own school and home — location in the Grama Niladhari → Divisional Secretariat → District → Province hierarchy, a plan of the school garden, home-made weather instruments, and care of the home surroundings — before widening to Sri Lanka's location in the world in the final chapter.

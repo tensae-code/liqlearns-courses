@@ -1,6 +1,6 @@
 # Sources — The rest of the weather station
 
-countries: Ethiopia, Cambodia, Uganda, Sudan
+countries: Ethiopia, Cambodia, Uganda, Sudan, Sri Lanka
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Cambodia, Uganda, Sudan
 
 **Book 5:** *الجغرافيا والدراسات البيئية — Geography and Environmental Studies, First Year Secondary (الصف الأول الثانوي) [record title omits "and Environmental Studies"]* (student book, Arabic) — Republic of Sudan, Ministry of Education and National Education, National Centre for Curricula and Educational Research (Bakht al-Ruda); year not printed on cover/title pages seen; no ISBN printed. Title as printed: الجغرافيا والدراسات البيئية — Geography and Environmental Studies, First Year Secondary (الصف الأول الثانوي) [record title omits "and Environmental Studies"]. Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 195 (cover verified against the record title; byte size 31,004,701 and page count match the staging books.json record exactly). Verdict: COMPLETE. How read: PDF text layer is font-garbled, so read visually from rendered pages — cover, preface (4-unit structure), unit objectives and interior spreads across all four units. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sudan-placements.md.
 
+**Book 6:** *Geography, Grade 6* (student book, English) — Educational Publications Department; first print 2014, sixth print 2019; ISBN 978-955-25-0082-4. Title as printed: Geography, Grade 6. Grade: 6 (student/teacher: STUDENT). PDF pages: 75 (cover/title verified against the record title; grabbed via grab.py from the GitHub blob URL, 3,700,387 bytes, SHA-verified by grab.py; full text read page by page). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sri-lanka-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Pressure, humidity, sunshine, cloud | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 2, printed pp. 54–56 |
@@ -20,8 +22,9 @@ countries: Ethiopia, Cambodia, Uganda, Sudan
 | Cambodia part — Ch.3 L2 សម្ពាធបរិយាកាស (atmospheric pressure) [placement slug: the-land-and-air/weighing-the-air-atmospheric-pressure] | Cambodia, *Cambodia Grade 11 Earth Science*, Ch.3 L2 សម្ពាធបរិយាកាស (atmospheric pressure) — printed p. 100 |
 | Uganda part — Ch.6 Atmospheric Pressure; Humidity; Sunshine; Clouds | Uganda, *Uganda Grade 8 UG S1 Geography Student*, Ch.6 Atmospheric Pressure; Humidity; Sunshine; Clouds — printed p. 64 |
 | Sudan part — Measuring pressure: metal barometer and barograph (Unit 2, climate) | Sudan, *Sudan Grade 10 SD Geography 10*, Measuring pressure: metal barometer and barograph (Unit 2, climate) — printed p. 80 |
+| Sri Lanka part — Ch. 1 Measuring wind: anemometer and wind-direction indicator; the Department of Meteorology and its regional centres | Sri Lanka, *Sri Lanka Grade 6 G6 English*, Ch. 1 Measuring wind: anemometer and wind-direction indicator; the Department of Meteorology and its regional centres — printed p. 14 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Cambodia, Uganda, Sudan).**
+**Acceptance count: taught in 5 countries (Ethiopia, Cambodia, Uganda, Sudan, Sri Lanka).**
 
 Searchable tags: barometer, hygrometer, sunshine recorder, oktas, anemometer, wind vane, weather station, social studies
 
@@ -30,3 +33,5 @@ Cambodia's own way (Cambodia Grade 11 Earth Science): Earth Science is Cambodia'
 Uganda's own way (Uganda Grade 8 UG S1 Geography Student): Competency-based lower-secondary course taught entirely through East Africa: every skill (maps, fieldwork, photographs) is practised on Ugandan/East African places (Tororo topographic map, Uganda lat/long map), and the physical half is East Africa's relief, landform formation, climate and vegetation rather than world coverage.
 
 Sudan's own way (Sudan Grade 10 SD Geography 10): A second-edition foundations book (the preface says necessity forced this 2nd edition): physical geography first (universe to rivers), then climate and vegetation, then a long practical cartography unit, closing with GIS — geography taught as a skills subject, with an activity (نشاط) box on most spreads.
+
+Sri Lanka's own way (Sri Lanka Grade 6 G6 English): geography starts from the child's own school and home — location in the Grama Niladhari → Divisional Secretariat → District → Province hierarchy, a plan of the school garden, home-made weather instruments, and care of the home surroundings — before widening to Sri Lanka's location in the world in the final chapter.

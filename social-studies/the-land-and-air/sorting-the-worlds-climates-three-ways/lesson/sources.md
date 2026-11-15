@@ -1,6 +1,6 @@
 # Sources — Sorting the world's climates — three ways
 
-countries: Ethiopia, Ecuador, Colombia, Malaysia, Cambodia, Fiji, Slovenia, Papua New Guinea, Uganda, Syria
+countries: Ethiopia, Ecuador, Colombia, Malaysia, Cambodia, Fiji, Slovenia, Papua New Guinea, Uganda, Syria, Sri Lanka
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -34,6 +34,8 @@ countries: Ethiopia, Ecuador, Colombia, Malaysia, Cambodia, Fiji, Slovenia, Papu
 
 **Book 16:** *عالم الجغرافية (World of Geography), الصف السابع الأساسي (Seventh Grade Basic)* (student book, Arabic) — Ministry of Education / National Center for Curriculum Development (NCCD), Syrian Arab Republic; year 2021–2022 (1442 H), first printed 2017–2018; no ISBN printed. Title as printed: عالم الجغرافية (World of Geography), الصف السابع الأساسي (Seventh Grade Basic). Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 159 (cover/title page verified against the record title; read in place in phase3-staging, 932,059,473 bytes). Verdict: COMPLETE. (Non-content slots named, not placed: teacher-designed lesson slots (printed pp. 86, 150) and the student-designed geography-information slot (printed p. 148) carry no set content of their own.) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/syria-placements.md.
 
+**Book 17:** *Geography, Grade 9* (student book, English) — Educational Publications Department; first print 2017, third print 2019; ISBN 978-955-25-0166-1. Title as printed: Geography, Grade 9. Grade: 9 (student/teacher: STUDENT). PDF pages: printed pp. 1–95 approx. plus front matter (cover/title and index verified against the record; GitHub grab failed with RemoteDisconnected, so the book was read via the record's archive.org source PDF — the same Educational Publications Department edition; chapters read in full, with the parallel Grade 9 Teacher's Guide (Book 1) confirming unit structure). Verdict: COMPLETE. Parallel edition named in the placements file: the Tamil student book (Book 4a, 2019), contents matching chapter for chapter, with a Tamil–English–Sinhala glossary — placed once under this English edition, that edition named here. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sri-lanka-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Why classify at all | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 2, printed pp. 28–29 |
@@ -54,8 +56,9 @@ countries: Ethiopia, Ecuador, Colombia, Malaysia, Cambodia, Fiji, Slovenia, Papu
 | Papua New Guinea part — Unit 2 People and Places, Topic 1: Climate regions (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 11 Geography TG SBC* (teacher guide), Unit 2 People and Places, Topic 1: Climate regions — printed p. 68 |
 | Uganda part — Lesson 6: Major Climatic Regions of the World (tropical, temperate, polar zones; seasons) | Uganda, *Uganda Grade 8 UG S1 Geography Home-Study*, Lesson 6: Major Climatic Regions of the World (tropical, temperate, polar zones; seasons) — printed p. 19 |
 | Syria part — Climate regions | Syria, *Syria Grade 7 Geography G7 عالم الجغرافية*, Climate regions — printed p. 76 |
+| Sri Lanka part — Ch. 1 Climate of Asia across tropical, temperate and frigid zones (rainy, monsoon, savanna, warm desert, Mediterranean-type, wet temperate, polar/tundra, mountain) and climate extremes (Verkhoyansk −50 °C, Jacobabad 55 °C) | Sri Lanka, *Sri Lanka Grade 9 G9 English*, Ch. 1 Climate of Asia across tropical, temperate and frigid zones (rainy, monsoon, savanna, warm desert, Mediterranean-type, wet temperate, polar/tundra, mountain) and climate extremes (Verkhoyansk −50 °C, Jacobabad 55 °C) — printed p. 10 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Ecuador, Colombia, Malaysia, Cambodia, Fiji, Slovenia, Uganda, Syria). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 10 countries (Ethiopia, Ecuador, Colombia, Malaysia, Cambodia, Fiji, Slovenia, Uganda, Syria, Sri Lanka). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 No book error is flagged for this lesson's pages in the placements. The student book's body numbering for Unit Two drifts from its own contents (regions printed as 2.4, factors as 2.5, local classification as 2.6, where the contents and the teacher guide's contents agree on 2.3, 2.4 and 2.5); this lesson follows the contents numbering and teaches no misprint.
 
@@ -88,3 +91,5 @@ Papua New Guinea's own way (Papua New Guinea Grade 11 Geography TG SBC) (teacher
 Uganda's own way (Uganda Grade 8 UG S1 Geography Home-Study): A home-based compression of the Senior One course: fieldwork is done around the learner's own home, photographs and statistics (Kilembe Mines data) replace classroom map work, and the booklet ends on East Africa's location, size and relief.
 
 Syria's own way (Syria Grade 7 Geography G7 عالم الجغرافية): a pure Geography book built entirely around activity lessons with story-style titles ("Mother of sciences", "Stones from the sky", "The origami art" for folding, "A tourist in my homeland"); technology first — aerial photos, GPS, remote sensing and GIS open the book before any physical geography — and each semester closes with student/teacher-designed lessons and an end-of-semester project.
+
+Sri Lanka's own way (Sri Lanka Grade 9 G9 English): the student companion to Book 1 — five chapters moving from the whole Asian region down to Sri Lanka's own landscape, its district-by-district development contrasts, environmental balance, and a closing practical chapter reading the 1:50,000 topographic maps.

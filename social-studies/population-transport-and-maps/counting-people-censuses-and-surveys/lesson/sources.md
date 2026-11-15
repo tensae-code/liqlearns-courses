@@ -1,6 +1,6 @@
 # Sources — Counting people — censuses and surveys
 
-countries: Ethiopia, Bolivia, Dominican Republic, Samoa, India, Rwanda, Fiji, Papua New Guinea, Uganda, Sudan
+countries: Ethiopia, Bolivia, Dominican Republic, Samoa, India, Rwanda, Fiji, Papua New Guinea, Uganda, Sudan, Sri Lanka
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -36,6 +36,8 @@ countries: Ethiopia, Bolivia, Dominican Republic, Samoa, India, Rwanda, Fiji, Pa
 
 **Book 17:** *الجغرافيا والدراسات البيئية — Geography and Environmental Studies, Second Year Secondary (الصف الثاني الثانوي)* (student book, Arabic) — Republic of Sudan, National Centre for Curricula and Educational Research (Bakht al-Ruda); revised edition 2012; no ISBN printed (file is the Rowad Al-Tamayoz distribution copy, verified cover + title page against the record). Title as printed: الجغرافيا والدراسات البيئية — Geography and Environmental Studies, Second Year Secondary (الصف الثاني الثانوي). Grade: Grade 11 (student/teacher: STUDENT). PDF pages: 238 (cover verified against the record title; byte size 66,750,855 and page count match the staging books.json record exactly; read via the recorded Drive source_url after grab.py failed/truncated — GitHub-secured book, download deleted after filing). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sudan-placements.md.
 
+**Book 18:** *Geography, Grade 9* (student book, English) — Educational Publications Department; first print 2017, third print 2019; ISBN 978-955-25-0166-1. Title as printed: Geography, Grade 9. Grade: 9 (student/teacher: STUDENT). PDF pages: printed pp. 1–95 approx. plus front matter (cover/title and index verified against the record; GitHub grab failed with RemoteDisconnected, so the book was read via the record's archive.org source PDF — the same Educational Publications Department edition; chapters read in full, with the parallel Grade 9 Teacher's Guide (Book 1) confirming unit structure). Verdict: COMPLETE. Parallel edition named in the placements file: the Tamil student book (Book 4a, 2019), contents matching chapter for chapter, with a Tamil–English–Sinhala glossary — placed once under this English edition, that edition named here. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sri-lanka-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What population means | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 4, printed pp. 86–88 |
@@ -56,8 +58,9 @@ countries: Ethiopia, Bolivia, Dominican Republic, Samoa, India, Rwanda, Fiji, Pa
 | Uganda part — Topic 12: Population census | Uganda, *Uganda Grade 5 UG Excel P5 SST*, Topic 12: Population census — printed p. 195 |
 | Uganda part — Population census | Uganda, *Uganda Grade 6 UG Excel P6 SST*, Population census — printed p. 66 |
 | Sudan part — Population dynamics: census, distribution and density (Unit 1, part 2) | Sudan, *Sudan Grade 11 SD Geography 11*, Population dynamics: census, distribution and density (Unit 1, part 2) — printed p. 12 |
+| Sri Lanka part — Ch. 2 Population of Sri Lanka: 20.2 million (2012 census), decennial census, uneven distribution (Wet Zone/Western Province concentration), district density (Colombo 3,305/km² vs Moneragala 72/km²) | Sri Lanka, *Sri Lanka Grade 9 G9 English*, Ch. 2 Population of Sri Lanka: 20.2 million (2012 census), decennial census, uneven distribution (Wet Zone/Western Province concentration), district density (Colombo 3,305/km² vs Moneragala 72/km²) — printed p. 50 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Bolivia, Dominican Republic, Samoa, India, Rwanda, Fiji, Uganda, Sudan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 10 countries (Ethiopia, Bolivia, Dominican Republic, Samoa, India, Rwanda, Fiji, Uganda, Sudan, Sri Lanka). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Bolivia's own way (Grade 8, Secundaria 2): Secundaria 2 is the colonial-history year, so geography enters through the land itself: the Tawantinsuyo's territorial division into suyos, the Amazonian hydraulic cultures who farmed a flooding landscape with raised beds and purified water, the ayllu-versus-hacienda struggle over communal land, and where Afro-Bolivian communities settled in the Yungas.
 
@@ -90,3 +93,5 @@ Uganda's own way (Uganda Grade 5 UG Excel P5 SST): A full-year commercial compan
 Uganda's own way (Uganda Grade 6 UG Excel P6 SST): The P6 course widens from Uganda to the whole East African Community: location by latitude/longitude, resources, transport and communication are all taught at EAC scale. Non-Geography parts named, not placed: Topic 1 — historical background, formation, revival, organs and symbols of the EAC (Civics); The People of East Africa — origin of human beings, sources of history, archaeological sites, Stone Age, ethnic groups and their political/social/economic organisation (History, printed pp. 25–54); Early visitors — Arab traders, long-distance and slave trade, European traders, Christian missionaries (History, pp. 55–64); Topic 4 The Road to Independence in East Africa — explorers, scramble and partition, colonial rule and reactions, independence struggle, post-independence leaders and democratic rule (History/Civics, pp. 140–188).
 
 Sudan's own way (Sudan Grade 11 SD Geography 11): The human-geography year: population first (races, religions, census, density, dynamics, structure), then a full practical unit on distribution maps and graphs, then regional geography — the world studied continent by continent as regions — and a closing full unit on Sudan itself, natural basis to environmental problems.
+
+Sri Lanka's own way (Sri Lanka Grade 9 G9 English): the student companion to Book 1 — five chapters moving from the whole Asian region down to Sri Lanka's own landscape, its district-by-district development contrasts, environmental balance, and a closing practical chapter reading the 1:50,000 topographic maps.

@@ -1,6 +1,6 @@
 # Sources — River landforms — from V-valley to delta
 
-countries: Ethiopia, Barbados, Malaysia, India, United Kingdom, Fiji, Slovenia, Sudan
+countries: Ethiopia, Barbados, Malaysia, India, United Kingdom, Fiji, Slovenia, Sudan, Sri Lanka
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Barbados, Malaysia, India, United Kingdom, Fiji, Slovenia, 
 
 **Book 9:** *الجغرافيا والدراسات البيئية — Geography and Environmental Studies, First Year Secondary (الصف الأول الثانوي) [record title omits "and Environmental Studies"]* (student book, Arabic) — Republic of Sudan, Ministry of Education and National Education, National Centre for Curricula and Educational Research (Bakht al-Ruda); year not printed on cover/title pages seen; no ISBN printed. Title as printed: الجغرافيا والدراسات البيئية — Geography and Environmental Studies, First Year Secondary (الصف الأول الثانوي) [record title omits "and Environmental Studies"]. Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 195 (cover verified against the record title; byte size 31,004,701 and page count match the staging books.json record exactly). Verdict: COMPLETE. How read: PDF text layer is font-garbled, so read visually from rendered pages — cover, preface (4-unit structure), unit objectives and interior spreads across all four units. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sudan-placements.md.
 
+**Book 10:** *புவியியல், தரம் 10 (Geography, Grade 10)* (student book, Tamil) — Educational Publications Department; prints listed 2006, 2007, 2010, 2011, 2012 (this copy's print code 2013/T/10/294/31,000); no ISBN printed. Title as printed: புவியியல், தரம் 10 (Geography, Grade 10). Grade: 10 (student/teacher: STUDENT). PDF pages: 108 (Noolaham scan; cover verified against the record; grabbed via grab.py from the GitHub release URL, 73,586,944 bytes, size-verified; read in full page-by-page on contact sheets — image-only scan). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sri-lanka-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Upper and middle courses | G12 student #22, printed pp. 28–29 |
@@ -32,8 +34,9 @@ countries: Ethiopia, Barbados, Malaysia, India, United Kingdom, Fiji, Slovenia, 
 | Fiji part — Chapter 1: how landforms are modified — weathering, erosion (hydraulic action, attrition, corrasion, corrosion), transport and deposition; river landscapes and landforms from source to mouth | Fiji, *Fiji Year 13 Geography*, Chapter 1: how landforms are modified — weathering, erosion (hydraulic action, attrition, corrasion, corrosion), transport and deposition; river landscapes and landforms from source to mouth — printed p. 36 |
 | Slovenia part — Rečno površje (river relief — development factors and processes) inside Ledeniško, rečno in kraško površje | Slovenia, *Slovenia Grade 10 Geografija 1 (gimnazija)*, Rečno površje (river relief — development factors and processes) inside Ledeniško, rečno in kraško površje — printed p. 46 |
 | Sudan part — River work: waterfalls, oxbow lakes, floodplains and deltas | Sudan, *Sudan Grade 10 SD Geography 10*, River work: waterfalls, oxbow lakes, floodplains and deltas — printed p. 60 |
+| Sri Lanka part — Chapter 3: the world's great rivers (placement slug: the-land-and-air/rivers-and-river-landforms — the lesson stands under this title, stocked here) | Sri Lanka, *Sri Lanka G10 Tamil SB*, Chapter 3: the world's great rivers — printed p. 19 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Barbados, Malaysia, India, United Kingdom, Fiji, Slovenia, Sudan).**
+**Acceptance count: taught in 9 countries (Ethiopia, Barbados, Malaysia, India, United Kingdom, Fiji, Slovenia, Sudan, Sri Lanka).**
 
 Barbados's own way: this is the shared Caribbean CSEC examination textbook used in Barbados — every world process is re-taught through Caribbean case studies (the Caribbean plate, Montserrat's volcano, Jamaica's coasts and Kingston's urban problems, St Lucia's reefs, Bahamas/Jamaica/Puerto Rico karst, Guyana's rivers), map and field skills are folded into the chapters, and the course ends in a School-Based Assessment fieldwork project. That way is stocked here as the way Barbados teaches this thing; it does not change the acceptance count above.
 
@@ -54,3 +57,5 @@ Fiji's own way (Fiji Year 13 Geography): The final year integrates everything at
 Slovenia's own way (Slovenia Grade 10 Geografija 1 (gimnazija)): the gimnazija first year is systematic physical geography first (Earth's interior, rocks, landforms, weather and climate, soils, vegetation, waters), then human geography (population, settlements, farming, industry and energy, transport, tourism), closing on sustainable development and spatial planning — with Slovenian cases (earthquake risk in Slovenia, the Port of Koper) set inside the world topics.
 
 Sudan's own way (Sudan Grade 10 SD Geography 10): A second-edition foundations book (the preface says necessity forced this 2nd edition): physical geography first (universe to rivers), then climate and vegetation, then a long practical cartography unit, closing with GIS — geography taught as a skills subject, with an activity (نشاط) box on most spreads.
+
+Sri Lanka's own way (Sri Lanka G10 Tamil SB): the O/L year pairs every world topic with its Sri Lankan twin — world agriculture then Sri Lanka's land use, world industries then Sri Lanka's industries — and closes with map skills and an outline-map chapter; the syllabus (units 10.1–10.13) is printed at the back.

@@ -1,6 +1,6 @@
 # Sources — Counting males and females — sex ratio
 
-countries: Ethiopia, India
+countries: Ethiopia, India, Sri Lanka
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). Editors: Sintayehu Teka (MSc) (Content Editor), Kassie Molla (MA) (Language Editor), Hirut Woldemichael (MA) (Curriculum Editor). Illustrator: Agenchw Nega (MSc). Designer: Geda Hoka (MA). Evaluators: Dereje Guteta (PhD), Tesfaye Shiferaw (PhD), Abebe Yibeltie (MA), Hussein Seid (MA). First published 2023 under GEQIP-E. ISBN 978-99990-0-049-9. Printed by Gravity Group IND LLC, 13th Industrial Area, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. Printed page = PDF page − 6 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md
 
@@ -8,17 +8,22 @@ countries: Ethiopia, India
 
 **Book 3:** *Contemporary India-I — Textbook in Geography for Class IX (Social Science)* (student book, English) — India, NCERT, New Delhi; first edition March 2006, this copy reprint 2020-21; ISBN 81-7450-520-2. Title as printed: Contemporary India-I — Textbook in Geography for Class IX (Social Science). Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 76 (cover render verified: "Contemporary India-I, Textbook in Geography for Class IX, NCERT 2020-21"; grabbed via grab.py release route, 21,811,274 bytes; duplicate TSV + books.json records grade-09/gov/india/class9-social-science-geography.pdf counted once). Verdict: COMPLETE — 6 chapters, printed pp. 1-62 + glossary. Records note: 34 records / 17 distinct books (17 TSV records in grades 6-10 + 17 books.json records that are the same books by grade/subject — duplicate records of the same NCERT titles); the 5 Geography books were read full page-by-page via pdftotext -layout after cover verification; the other 12 books are record-only (History, Civics, Economics) with no Geography content, filed for later waves. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/india-placements.md.
 
+**Book 4:** *Geography, Grade 9* (student book, English) — Educational Publications Department; first print 2017, third print 2019; ISBN 978-955-25-0166-1. Title as printed: Geography, Grade 9. Grade: 9 (student/teacher: STUDENT). PDF pages: printed pp. 1–95 approx. plus front matter (cover/title and index verified against the record; GitHub grab failed with RemoteDisconnected, so the book was read via the record's archive.org source PDF — the same Educational Publications Department edition; chapters read in full, with the parallel Grade 9 Teacher's Guide (Book 1) confirming unit structure). Verdict: COMPLETE. Parallel edition named in the placements file: the Tamil student book (Book 4a, 2019), contents matching chapter for chapter, with a Tamil–English–Sinhala glossary — placed once under this English edition, that edition named here. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sri-lanka-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The ratio itself | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 4, printed pp. 108–109 |
 | Sub lesson 2 — Africa's sub-regions compared | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 4, printed pp. 108–109 |
 | Teaching pattern and answer keys (teacher guide — evidence) | Ethiopia, *Geography, Teacher Guide, Grade 10*, Unit 4, guide printed pp. 65–84 |
 | India part (Grade 9 Contemporary India-I) — Ch.6: population composition — sex ratio, literacy rates, occupational structure | India, *India Grade 9 Contemporary India-I*, Ch.6: population composition — sex ratio, literacy rates, occupational structure — printed p. 58 |
+| Sri Lanka part — Ch. 2 Composition of Sri Lanka's population: sex ratio 1981–2012, ageing age structure, ethnic and religious composition | Sri Lanka, *Sri Lanka Grade 9 G9 English*, Ch. 2 Composition of Sri Lanka's population: sex ratio 1981–2012, ageing age structure, ethnic and religious composition — printed p. 52 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, India).**
+**Acceptance count: taught in 3 countries (Ethiopia, India, Sri Lanka).**
 
 Carried exactly as the placements flag it: the book's formula frames the sex ratio as females per males, which reverses the males-per-females wording many other books use; the lesson teaches the book's own framing and names it, so learners are not tripped when they meet the other form. The placements give the measure and the regional comparison but no regional figures, so this lesson claims no sub-region numbers.
 
 Searchable tags: sex ratio, sex structure, females per males, africa regions, ethiopia, social studies, population transport and maps
 
 India's own way (Grade 9 Contemporary India-I): From Grade 9 the Geography book is India alone, in depth — Contemporary India-I is the physical book: size and location, physiography built from plate tectonics, drainage, the monsoon system, vegetation and wildlife, and population, each chapter working from India's own maps and census data.
+
+Sri Lanka's own way (Sri Lanka Grade 9 G9 English): the student companion to Book 1 — five chapters moving from the whole Asian region down to Sri Lanka's own landscape, its district-by-district development contrasts, environmental balance, and a closing practical chapter reading the 1:50,000 topographic maps.

@@ -1,6 +1,6 @@
 # Sources — What earthquakes do — shaking, fire and tsunami
 
-countries: Ethiopia, Malaysia, United Kingdom
+countries: Ethiopia, Malaysia, United Kingdom, Sri Lanka
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -8,14 +8,20 @@ countries: Ethiopia, Malaysia, United Kingdom
 
 **Book 3:** *GCSE Geography AQA (Student Book)* (student book, English) — United Kingdom, Oxford University Press; year 2016; ISBN 978-0-19-836661-4; authors Nicholas Rowles, David Holmes, Bob Digby; series editor Simon Ross. Title as printed: GCSE Geography AQA (Student Book). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 356 (record figure; printed book pagination used in the rows below). Verdict: COMPLETE. Records note: 2 records / 1 distinct book (TSV release record + books.json record for the same book) / read via the book's archive.org source (archive.org item gcse-aqa-geography-student-book: EPUB + full OCR text of the same 355.2 MiB PDF whose byte size matches the books.json record's 372,407,314 bytes; title page and ISBN page verified from that OCR text) — the 372 MB GitHub release copy itself was not re-downloaded; the identical archive.org scan was read instead (all 24 chapters, contents pp. 4-5, glossary p. 346, index p. 350) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/united-kingdom-placements.md.
 
+**Book 4:** *புவியியல், தரம் 10 (Geography, Grade 10)* (student book, Tamil) — Educational Publications Department; prints listed 2006, 2007, 2010, 2011, 2012 (this copy's print code 2013/T/10/294/31,000); no ISBN printed. Title as printed: புவியியல், தரம் 10 (Geography, Grade 10). Grade: 10 (student/teacher: STUDENT). PDF pages: 108 (Noolaham scan; cover verified against the record; grabbed via grab.py from the GitHub release URL, 73,586,944 bytes, size-verified; read in full page-by-page on contact sheets — image-only scan). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sri-lanka-placements.md.
+
+**Book 5:** *புவியியல், தரம் 10 — ஆசிரியர் அறிவுறைப்பு வழிகாட்டி (Geography, Grade 10 — Teacher Instructional Guide; for implementation from 2007)* (teacher guide, Tamil) — National Institute of Education, Maharagama; first printing 2006, reprint 2009 (this copy's print code 2010/T/10/TIM/5,000); no ISBN printed. Title as printed: புவியியல், தரம் 10 — ஆசிரியர் அறிவுறைப்பு வழிகாட்டி (Geography, Grade 10 — Teacher Instructional Guide; for implementation from 2007). Grade: 10 (student/teacher: TEACHER). PDF pages: 348 (Noolaham scan; cover verified against the record; grabbed via grab.py from the GitHub release URL, 43,418,008 bytes, size-verified; read in full page-by-page on contact sheets). Verdict: COMPLETE. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sri-lanka-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Ground, works and fire | G12 student #14, printed p. 17 |
 | Sub lesson 2 — Tsunami — the sea carries it | G12 student #14, printed p. 17 |
 | Malaysia part (MY T4 Geografi Tingkatan 4) — Bab 5.4: effects of tsunami, earthquakes and volcanic eruptions on people and the environment | Malaysia, *MY T4 Geografi*, Bab 5.4: effects of tsunami, earthquakes and volcanic eruptions on people and the environment — printed pp. 69-71 |
 | United Kingdom part — §2.3 The effects of earthquakes | United Kingdom, *United Kingdom Grade 10 AQA Geography Student Book*, §2.3 The effects of earthquakes — printed p. 14 |
+| Sri Lanka part — Chapter 2: earthquakes, with a table of great world earthquakes (placement slug: the-land-and-air/earthquakes-and-tsunamis — the lesson stands under this title, stocked here) | Sri Lanka, *Sri Lanka G10 Tamil SB*, Chapter 2: earthquakes, with a table of great world earthquakes — printed p. 11 |
+| Sri Lanka part — Unit 10.2: earthquakes, with a 2004 tsunami annex reading (teacher guide — evidence) (placement slug: the-land-and-air/earthquakes-and-tsunamis — the lesson stands under this title, stocked here) | Sri Lanka, *Sri Lanka G10 Tamil TG* (teacher guide), Unit 10.2: earthquakes, with a 2004 tsunami annex reading — printed p. 65 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Malaysia, United Kingdom).**
+**Acceptance count: taught in 4 countries (Ethiopia, Malaysia, United Kingdom, Sri Lanka).**
 
 No book error in the placements for this lesson is taught here. Figures and cases are taught exactly as the placements report them.
 
@@ -24,3 +30,7 @@ Searchable tags: earthquake effects, tsunami, San Francisco 1906, Tokyo 1923, la
 Malaysia's own way (MY T4 Geografi Tingkatan 4): upper-secondary Geography is a full topographic-map apprenticeship (bearings, area, cross-sections, landscape reading) followed by process geography — plates, rocks, weathering, mass movement, rivers and coasts — and a world-scale human geography of population, migration, settlements and urbanisation.
 
 United Kingdom's own way: A single exam-board (AQA) GCSE textbook organised as thematic units with numbered two-page spreads, every big topic anchored to a named case study (Typhoon Haiyan, Somerset Levels, Rio de Janeiro, Bristol, Nigeria, the Indus Basin, Lesotho Highlands) and a final unit on issue evaluation, fieldwork enquiries and cartographic/graphical/statistical skills.
+
+Sri Lanka's own way (Sri Lanka G10 Tamil SB): the O/L year pairs every world topic with its Sri Lankan twin — world agriculture then Sri Lanka's land use, world industries then Sri Lanka's industries — and closes with map skills and an outline-map chapter; the syllabus (units 10.1–10.13) is printed at the back.
+
+Sri Lanka's own way (Sri Lanka G10 Tamil TG) (teacher guide — evidence): a 90-period competency syllabus (units 10.1–10.13, printed in full) with an expanded-content section and a timed activity set (செயற்பாடு) for every unit — quality inputs, process steps and assessment criteria — plus annexed readings (a poem on Earth and life, a 2004-tsunami reading) and term-test blueprints; the non-content parts (teaching-learning methods, pp. 18–23, and assessment, pp. 325–337) are pedagogy, named here but not placed. That evidence is stocked here as the way Sri Lanka teaches this thing; it is cited as evidence only — Sri Lanka is counted in this lesson through its student book(s).

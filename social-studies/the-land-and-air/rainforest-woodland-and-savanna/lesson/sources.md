@@ -1,6 +1,6 @@
 # Sources — Rainforest, woodland and savanna
 
-countries: Ethiopia, Costa Rica, Bangladesh, Colombia, India, Fiji, Uzbekistan, Slovenia, Papua New Guinea, Uganda, Sudan
+countries: Ethiopia, Costa Rica, Bangladesh, Colombia, India, Fiji, Uzbekistan, Slovenia, Papua New Guinea, Uganda, Sudan, Sri Lanka
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -32,6 +32,8 @@ countries: Ethiopia, Costa Rica, Bangladesh, Colombia, India, Fiji, Uzbekistan, 
 
 **Book 15:** *كتاب الجغرافيا — Geography Book, First Year Intermediate (الصف الأول المتوسط)* (student book, Arabic) — Republic of Sudan, Ministry of Education, National Centre for Curricula and Educational Research (Bakht al-Ruda); first edition 2021; no ISBN printed. Title as printed: كتاب الجغرافيا — Geography Book, First Year Intermediate (الصف الأول المتوسط). Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 104 (cover verified against the record title; byte size 18,445,877 and page count match the staging books.json record exactly; read via the recorded Drive source_url after grab.py failed/truncated — GitHub-secured book, download deleted after filing). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sudan-placements.md.
 
+**Book 16:** *Geography, Grade 9* (student book, English) — Educational Publications Department; first print 2017, third print 2019; ISBN 978-955-25-0166-1. Title as printed: Geography, Grade 9. Grade: 9 (student/teacher: STUDENT). PDF pages: printed pp. 1–95 approx. plus front matter (cover/title and index verified against the record; GitHub grab failed with RemoteDisconnected, so the book was read via the record's archive.org source PDF — the same Educational Publications Department edition; chapters read in full, with the parallel Grade 9 Teacher's Guide (Book 1) confirming unit structure). Verdict: COMPLETE. Parallel edition named in the placements file: the Tamil student book (Book 4a, 2019), contents matching chapter for chapter, with a Tamil–English–Sinhala glossary — placed once under this English edition, that edition named here. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sri-lanka-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Moist montane forest | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 3, printed pp. 77–79 |
@@ -50,8 +52,9 @@ countries: Ethiopia, Costa Rica, Bangladesh, Colombia, India, Fiji, Uzbekistan, 
 | Uganda part — Lesson 1: Equatorial/Tropical Rain Forest and Savannah Vegetation in Africa | Uganda, *Uganda Grade 11 UG S4 Geography Home-Study*, Lesson 1: Equatorial/Tropical Rain Forest and Savannah Vegetation in Africa — printed p. 1 |
 | Sudan part — World types of natural vegetation (maps) and the factors affecting them: heat and light | Sudan, *Sudan Grade 10 SD Geography 10*, World types of natural vegetation (maps) and the factors affecting them: heat and light — printed p. 100 |
 | Sudan part — The world's environments: equatorial, tropical savanna and the rest | Sudan, *Sudan Grade 7 SD Geography 7*, The world's environments: equatorial, tropical savanna and the rest — printed p. 12 |
+| Sri Lanka part — Ch. 1 Natural vegetation and wildlife by zone: tropical rainforest, temperate deciduous forest, coniferous taiga/tundra | Sri Lanka, *Sri Lanka Grade 9 G9 English*, Ch. 1 Natural vegetation and wildlife by zone: tropical rainforest, temperate deciduous forest, coniferous taiga/tundra — printed p. 12 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Costa Rica, Bangladesh, Colombia, India, Fiji, Uzbekistan, Slovenia, Uganda, Sudan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 11 countries (Ethiopia, Costa Rica, Bangladesh, Colombia, India, Fiji, Uzbekistan, Slovenia, Uganda, Sudan, Sri Lanka). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Costa Rica's own way: a distance-education anthology organised around "the human footprint on geographic space" — every unit opens with a generating question and objectives, and Costa Rica is used as the home case inside world topics (tropical forest conservation, food production problems). That way is stocked here as the way Costa Rica teaches this thing.
 
@@ -80,3 +83,5 @@ Uganda's own way (Uganda Grade 11 UG S4 Geography Home-Study): Africa-wide resou
 Sudan's own way (Sudan Grade 10 SD Geography 10): A second-edition foundations book (the preface says necessity forced this 2nd edition): physical geography first (universe to rivers), then climate and vegetation, then a long practical cartography unit, closing with GIS — geography taught as a skills subject, with an activity (نشاط) box on most spreads.
 
 Sudan's own way (Sudan Grade 7 SD Geography 7): A continents book: after a world opener (continents, oceans, relief, world environments), each continent — Africa, Asia, Europe — gets the same treatment in the same order (relief, drainage, climate, vegetation, population, economic activity, environmental problems), closing with a British Isles case study; Sudan and Africa anchor the examples throughout.
+
+Sri Lanka's own way (Sri Lanka Grade 9 G9 English): the student companion to Book 1 — five chapters moving from the whole Asian region down to Sri Lanka's own landscape, its district-by-district development contrasts, environmental balance, and a closing practical chapter reading the 1:50,000 topographic maps.

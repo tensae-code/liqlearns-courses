@@ -4479,3 +4479,124 @@ Environment We Live In And Share (printed p. 22) —
 every new lesson is taught in 1 country (Venezuela), 8
 questions each.
 Geography lessons: 1827 → 1863.
+
+
+## Sri Lanka — Geography expansion (merged 2026-11-15)
+183 placement lines stocked from Sri Lanka's 8 placed
+books (21 records / 12 distinct books in the placements
+file's header count; TSV blob+release URLs and
+books.json tree paths deduplicated by repo path —
+parallel language editions and duplicate records
+counted once, editions named in the book entries) — the
+Grade 9 Teacher's Guide (English, NIE, 2018), the Grade
+6, Grade 8 and Grade 9 student books (English,
+Educational Publications Department), the Grade 6 Tamil
+student book (2007), the Grade 10 Tamil student book
+(2012), the Grade 10 Tamil Teacher Instructional Guide
+(2009) and the Grade 12 Tamil Geography Part I student
+book (1976). PARALLEL EDITIONS, 0 SEPARATE PLACEMENTS,
+placed once under the edition they parallel and named
+in its book entry: the Grade 9 teacher guides in
+Sinhala and Tamil, the Grade 8 Tamil student book and
+the Grade 9 Tamil student book. Carried exactly as the
+placements file labels them: the 2007 Tamil Grade 6
+book is NOT a translation of the 2014 English Grade 6
+book — it is the older syllabus with a different
+chapter order, placed separately; the Grade 12 book is
+Part I complete in itself, with a separate Part II
+outside this record. The two teacher guides are cited
+as the evidence they are, outside acceptance counts; a
+lesson counts Sri Lanka only where a student book is
+stocked into it (4 standing lessons and 5 new lessons
+stand on teacher-guide evidence only for Sri Lanka).
+The placements file's own per-book tallies (20 + 17 +
+23 + 19 + 16 + 30 + 29 + 29) sum to 183 and agree with
+the line-by-line count — no tally discrepancy; all 183
+lines were stocked, none excluded. Stocked into
+standing lessons (110 placements across 61 lessons): 58
+placements at slugs standing as written, and 52
+placements whose file slugs (32 distinct) do not stand
+under the name the file gives — each stocked into the
+closest standing lesson covering that thing, with the
+original placement slug recorded in its provenance row
+(the full remapping list is in the merge log). 51 NEW
+lessons built (73 placements) — **Earth and Space**:
+Artificial Satellites And Their Uses (printed p. 86),
+Asia Location And Uniqueness (printed p. 2; printed p.
+1), Beliefs And New Knowledge About The Solar System
+(printed p. 12), Laws And Arrangement Of The Solar
+System (printed p. 42), Location Of Sri Lanka And Its
+Influences (printed p. 56; printed p. 1), South Asia
+Location Countries And Capitals (printed p. 30), Space
+Exploration Satellites Probes And Manned Flights
+(printed p. 78), Telescopes And Space Observation
+Instruments (printed p. 69), The Moon Earths Satellite
+(printed p. 99), The Universe Galaxies And Nebulae
+(printed p. 1), Theories Of The Origin Of The Solar
+System (printed p. 53), Why Earth Alone Supports Life
+(printed p. 18); **The Land and Air**: Asia Physical
+Landscape Relief Drainage Climate Vegetation (printed
+p. 5; printed p. 5), Comparing Islands By Area Sri
+Lanka Among World Islands (printed p. 11), Continental
+Drift (printed p. 128), Ganges Valley Landscape
+(printed p. 36), Himalayan Mountain Landscape (printed
+p. 34), Landscape Of The Immediate Surroundings
+(printed p. 17; printed p. 19), Locating Your School
+Sri Lanka Administrative Divisions (printed p. 1),
+Physical Environments Of Four World Regions (printed p.
+158), South Asia Coastal Landscape (printed p. 38), Sri
+Lanka Climate And Climatic Zones (printed p. 15;
+printed p. 36; printed p. 31 (slug as proposed in Book
+1); printed p. 137 (slug as proposed in Book 1)), Sri
+Lanka Coastal Region Case Study (printed p. 170), Sri
+Lanka Maritime Zones And Main Features (printed p. 27;
+printed p. 131 (slug as proposed in Book 5)), Sri Lanka
+Relief Zones And Features (printed p. 13; printed p.
+24; printed p. 28 (slug as proposed in Book 1); printed
+p. 133 (slug as proposed in Book 1)), Sri Lanka
+Vegetation Zones (printed p. 17; printed p. 42), The
+Physical Environment And Its Elements (printed p. 145),
+World Natural Vegetation Zones (printed p. 89);
+**Population, Transport and Maps**: Mapping Development
+Disparities By District Sri Lanka (printed p. 27),
+Marking Features On Outline Maps (printed p. 92;
+printed p. 323 (slug as proposed in Book 5)),
+Representing Relief And Features On Maps (printed p.
+204), Sri Lanka Dry Zone Rural Landscape (printed p.
+42), Sri Lanka Human Landscape Population Settlements
+Economy (printed p. 19); **People and Resources**:
+Agricultural Regions Of The World (printed p. 183),
+Comparing Agricultural And Industrial Economies Sri
+Lanka And Japan (printed p. 73; printed p. 242 (slug as
+proposed in Book 5)), Development Indices And Spatial
+Disparities Sri Lanka (printed p. 24; printed p. 67),
+Mediterranean Farming (printed p. 155), Sri Lanka
+Physical Landscape Shapes Human Activity (printed p.
+21; printed p. 60), The Region And Regional
+Classification (printed p. 191), World Produce Regions
+Rice And Others (printed p. 177); **Culture and Work**:
+Asia River Valley Civilisations And Human Mosaic
+(printed p. 8; printed p. 13), Export Processing Zones
+And Industrial Estates Sri Lanka (printed p. 69;
+printed p. 237 (slug as proposed in Book 5)), Homes
+Suited To Their Environment (printed p. 14), Human
+Response To Environment And Its Regional Variation
+(printed p. 135), Shipbuilding And Electronics
+Industries (printed p. 59; printed p. 206 (slug as
+proposed in Book 5)), The Vedda People Of Sri Lanka
+(printed p. 280); **Global Issues**: Energy At Home
+Sources Biogas Solar Efficient Hearth (printed p. 48),
+Environmental Balance What It Is And What Breaks It
+(printed p. 32; printed p. 75), Environmental Change
+And Protection In Sri Lanka (printed p. 82),
+Interactions Within The Physical Environment (printed
+p. 149; printed p. 155), Waste Disposal And Pollution
+At Home (printed p. 53; printed p. 42) — 46 of the new
+lessons are taught in 1 country (Sri Lanka), 8
+questions each; The Vedda People Of Sri Lanka,
+Mediterranean Farming, Mapping Development Disparities
+By District Sri Lanka, Sri Lanka Human Landscape
+Population Settlements Economy and World Natural
+Vegetation Zones stand on teacher-guide evidence only
+(acceptance count 0 countries), 8 questions each.
+Geography lessons: 1863 → 1914.

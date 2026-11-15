@@ -1,6 +1,6 @@
 # Sources — Land-Shaping Forces — Volcanism, Magma and Lava
 
-countries: Ethiopia, Barbados, Guatemala, Costa Rica, Indonesia, Eritrea, India, North Macedonia, Uganda
+countries: Ethiopia, Barbados, Guatemala, Costa Rica, Indonesia, Eritrea, India, North Macedonia, Uganda, Sri Lanka
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md.
 
@@ -22,6 +22,10 @@ countries: Ethiopia, Barbados, Guatemala, Costa Rica, Indonesia, Eritrea, India,
 
 **Book 10:** *Geography Textbook — Senior One (Lower Secondary Curriculum, Prototype)* (student book, English) — National Curriculum Development Centre (NCDC), Kampala; year 2020 (prototype); ISBN no ISBN printed. Title as printed: Geography Textbook — Senior One (Lower Secondary Curriculum, Prototype). Grade: Senior One = Grade 8 (student/teacher: STUDENT). PDF pages: 126 (cover verified: "GEOGRAPHY TEXTBOOK SENIOR ONE", NCDC Prototype — matches record; read via the record's books.json source_url at ncdc.go.ug after grab.py release and tree routes both failed with RemoteDisconnected from api.github.com, 3 attempts). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/uganda-placements.md.
 
+**Book 11:** *புவியியல், தரம் 10 (Geography, Grade 10)* (student book, Tamil) — Educational Publications Department; prints listed 2006, 2007, 2010, 2011, 2012 (this copy's print code 2013/T/10/294/31,000); no ISBN printed. Title as printed: புவியியல், தரம் 10 (Geography, Grade 10). Grade: 10 (student/teacher: STUDENT). PDF pages: 108 (Noolaham scan; cover verified against the record; grabbed via grab.py from the GitHub release URL, 73,586,944 bytes, size-verified; read in full page-by-page on contact sheets — image-only scan). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sri-lanka-placements.md.
+
+**Book 12:** *புவியியல், தரம் 10 — ஆசிரியர் அறிவுறைப்பு வழிகாட்டி (Geography, Grade 10 — Teacher Instructional Guide; for implementation from 2007)* (teacher guide, Tamil) — National Institute of Education, Maharagama; first printing 2006, reprint 2009 (this copy's print code 2010/T/10/TIM/5,000); no ISBN printed. Title as printed: புவியியல், தரம் 10 — ஆசிரியர் அறிவுறைப்பு வழிகாட்டி (Geography, Grade 10 — Teacher Instructional Guide; for implementation from 2007). Grade: 10 (student/teacher: TEACHER). PDF pages: 348 (Noolaham scan; cover verified against the record; grabbed via grab.py from the GitHub release URL, 43,418,008 bytes, size-verified; read in full page-by-page on contact sheets). Verdict: COMPLETE. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sri-lanka-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The whole process | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 13–14 |
@@ -35,8 +39,10 @@ countries: Ethiopia, Barbados, Guatemala, Costa Rica, Indonesia, Eritrea, India,
 | India part (Grade 7 Our Environment) — Ch.3 Our Changing Earth: volcanoes | India, *India Grade 7 Our Environment*, Ch.3 Our Changing Earth: volcanoes — printed p. 12 |
 | North Macedonia part (Grade 10 mk-g10) — 5. Вулкани | North Macedonia, *North Macedonia Grade 10 mk-g10*, 5. Вулкани — printed p. 15 |
 | Uganda part — Ch.8 Vulcanicity in East Africa | Uganda, *Uganda Grade 8 UG S1 Geography Student*, Ch.8 Vulcanicity in East Africa — printed p. 90 |
+| Sri Lanka part — Chapter 2: volcanic activity (placement slug: the-land-and-air/volcanoes — the lesson stands under this title, stocked here) | Sri Lanka, *Sri Lanka G10 Tamil SB*, Chapter 2: volcanic activity — printed p. 12 |
+| Sri Lanka part — Unit 10.2: volcanoes and their world distribution (teacher guide — evidence) (placement slug: the-land-and-air/volcanoes — the lesson stands under this title, stocked here) | Sri Lanka, *Sri Lanka G10 Tamil TG* (teacher guide), Unit 10.2: volcanoes and their world distribution — printed p. 54 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Barbados, Guatemala, Costa Rica, Indonesia, Eritrea, India, North Macedonia, Uganda).**
+**Acceptance count: taught in 10 countries (Ethiopia, Barbados, Guatemala, Costa Rica, Indonesia, Eritrea, India, North Macedonia, Uganda, Sri Lanka).**
 
 Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -57,3 +63,7 @@ India's own way (Grade 7 Our Environment): Grade 7 is organised around "environm
 North Macedonia's own way (Grade 10 mk-g10): the gymnasium course restarts Geography as a systems science — Theme 1 works through the four spheres (lithosphere, atmosphere, hydrosphere, biosphere) lesson by lesson, then natural disasters by sphere; Theme 2 turns to people in geographical space (world urbanisation, energy, farming, industry, transport and trade, tourism, environmental impact); Theme 3 treats the world as one global system (globalisation, transport corridors and sea straits/canals, global networks and navigation systems, international organisations, global challenges and climate-change solutions). 43 numbered lessons.
 
 Uganda's own way (Uganda Grade 8 UG S1 Geography Student): Competency-based lower-secondary course taught entirely through East Africa: every skill (maps, fieldwork, photographs) is practised on Ugandan/East African places (Tororo topographic map, Uganda lat/long map), and the physical half is East Africa's relief, landform formation, climate and vegetation rather than world coverage.
+
+Sri Lanka's own way (Sri Lanka G10 Tamil SB): the O/L year pairs every world topic with its Sri Lankan twin — world agriculture then Sri Lanka's land use, world industries then Sri Lanka's industries — and closes with map skills and an outline-map chapter; the syllabus (units 10.1–10.13) is printed at the back.
+
+Sri Lanka's own way (Sri Lanka G10 Tamil TG) (teacher guide — evidence): a 90-period competency syllabus (units 10.1–10.13, printed in full) with an expanded-content section and a timed activity set (செயற்பாடு) for every unit — quality inputs, process steps and assessment criteria — plus annexed readings (a poem on Earth and life, a 2004-tsunami reading) and term-test blueprints; the non-content parts (teaching-learning methods, pp. 18–23, and assessment, pp. 325–337) are pedagogy, named here but not placed. That evidence is stocked here as the way Sri Lanka teaches this thing; it is cited as evidence only — Sri Lanka is counted in this lesson through its student book(s).

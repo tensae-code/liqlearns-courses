@@ -1,16 +1,27 @@
 # Sources — World Crops Food Grains And Raw Material Crops
 
-countries: Sudan
+countries: Sudan, Sri Lanka
 
 **Book 1:** *الجغرافيا والدراسات البيئية — Geography and Environmental Studies, Third Year Secondary (الصف الثالث الثانوي)* (student book, Arabic) — Republic of Sudan, Ministry of General Education, National Centre for Curricula and Educational Research (Bakht al-Ruda); revised edition 2009; ISBN 978-99942-53-4-3 (file is the Rowad Al-Tamayoz reprint/distribution copy, verified cover + title page against the record). Title as printed: الجغرافيا والدراسات البيئية — Geography and Environmental Studies, Third Year Secondary (الصف الثالث الثانوي). Grade: Grade 12 (student/teacher: STUDENT). PDF pages: 230 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sudan-placements.md.
+
+**Book 2:** *புவியியல், தரம் 10 (Geography, Grade 10)* (student book, Tamil) — Educational Publications Department; prints listed 2006, 2007, 2010, 2011, 2012 (this copy's print code 2013/T/10/294/31,000); no ISBN printed. Title as printed: புவியியல், தரம் 10 (Geography, Grade 10). Grade: 10 (student/teacher: STUDENT). PDF pages: 108 (Noolaham scan; cover verified against the record; grabbed via grab.py from the GitHub release URL, 73,586,944 bytes, size-verified; read in full page-by-page on contact sheets — image-only scan). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sri-lanka-placements.md.
+
+**Book 3:** *புவியியல், தரம் 10 — ஆசிரியர் அறிவுறைப்பு வழிகாட்டி (Geography, Grade 10 — Teacher Instructional Guide; for implementation from 2007)* (teacher guide, Tamil) — National Institute of Education, Maharagama; first printing 2006, reprint 2009 (this copy's print code 2010/T/10/TIM/5,000); no ISBN printed. Title as printed: புவியியல், தரம் 10 — ஆசிரியர் அறிவுறைப்பு வழிகாட்டி (Geography, Grade 10 — Teacher Instructional Guide; for implementation from 2007). Grade: 10 (student/teacher: TEACHER). PDF pages: 348 (Noolaham scan; cover verified against the record; grabbed via grab.py from the GitHub release URL, 43,418,008 bytes, size-verified; read in full page-by-page on contact sheets). Verdict: COMPLETE. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sri-lanka-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Classification of world crops: food grain crops and raw-material crops | Sudan, *Sudan Grade 12 SD Geography 12*, Classification of world crops: food grain crops and raw-material crops — printed p. 58 |
 | Sub lesson 2 — Sudan's way — the book's own teaching way | Sudan — the book's own way of teaching (see below) |
+| Sri Lanka part — Chapter 5: wheat farming and plantation crops of the world (placement slug: people-and-resources/commercial-grain-and-plantation-farming — the lesson stands under this title, stocked here) | Sri Lanka, *Sri Lanka G10 Tamil SB*, Chapter 5: wheat farming and plantation crops of the world — printed p. 37 |
+| Sri Lanka part — Chapter 6 Main land-use types of Sri Lanka: paddy cultivation (placement slug: people-and-resources/paddy-cultivation-in-sri-lanka — the lesson stands under this title, stocked here) | Sri Lanka, *Sri Lanka G10 Tamil SB*, Chapter 6 Main land-use types of Sri Lanka: paddy cultivation — printed p. 43 |
+| Sri Lanka part — Unit 10.6 Main land-use types of Sri Lanka: paddy lands and their distribution map (teacher guide — evidence) (placement slug: people-and-resources/paddy-cultivation-in-sri-lanka — the lesson stands under this title, stocked here) | Sri Lanka, *Sri Lanka G10 Tamil TG* (teacher guide), Unit 10.6 Main land-use types of Sri Lanka: paddy lands and their distribution map — printed p. 173 |
 
-**Acceptance count: taught in 1 country (Sudan).**
+**Acceptance count: taught in 2 countries (Sudan, Sri Lanka).**
 
 Sudan's own way (Sudan Grade 12 SD Geography 12): The final-year book is organised as applied geography: it opens with a full revision exercise on a Port Sudan contour map (contours, scale, cross-sections, watershed lines), then remote sensing and photo interpretation, then world economic geography, and closes on human–environment global problems, repeatedly pulling Sudanese examples (Gezira scheme, gum arabic, Sudanese oil, farming systems of Sudan) into the world treatment.
 
 Searchable tags: world crops food grains and raw material crops, Sudan, social studies, people-and-resources
+
+Sri Lanka's own way (Sri Lanka G10 Tamil SB): the O/L year pairs every world topic with its Sri Lankan twin — world agriculture then Sri Lanka's land use, world industries then Sri Lanka's industries — and closes with map skills and an outline-map chapter; the syllabus (units 10.1–10.13) is printed at the back.
+
+Sri Lanka's own way (Sri Lanka G10 Tamil TG) (teacher guide — evidence): a 90-period competency syllabus (units 10.1–10.13, printed in full) with an expanded-content section and a timed activity set (செயற்பாடு) for every unit — quality inputs, process steps and assessment criteria — plus annexed readings (a poem on Earth and life, a 2004-tsunami reading) and term-test blueprints; the non-content parts (teaching-learning methods, pp. 18–23, and assessment, pp. 325–337) are pedagogy, named here but not placed. That evidence is stocked here as the way Sri Lanka teaches this thing; it is cited as evidence only — Sri Lanka is counted in this lesson through its student book(s).

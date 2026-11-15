@@ -1,6 +1,6 @@
 # Sources — Small Bodies and the Morning Star
 
-countries: Ethiopia, India, Syria
+countries: Ethiopia, India, Syria, Sri Lanka
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page - 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md.
 
@@ -8,14 +8,20 @@ countries: Ethiopia, India, Syria
 
 **Book 3:** *عالم الجغرافية (World of Geography), الصف السابع الأساسي (Seventh Grade Basic)* (student book, Arabic) — Ministry of Education / National Center for Curriculum Development (NCCD), Syrian Arab Republic; year 2021–2022 (1442 H), first printed 2017–2018; no ISBN printed. Title as printed: عالم الجغرافية (World of Geography), الصف السابع الأساسي (Seventh Grade Basic). Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 159 (cover/title page verified against the record title; read in place in phase3-staging, 932,059,473 bytes). Verdict: COMPLETE. (Non-content slots named, not placed: teacher-designed lesson slots (printed pp. 86, 150) and the student-designed geography-information slot (printed p. 148) carry no set content of their own.) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/syria-placements.md.
 
+**Book 4:** *Geography, Grade 8* (student book, English) — Educational Publications Department; first print 2016, fourth print 2019; ISBN 978-955-25-0136-4. Title as printed: Geography, Grade 8. Grade: 8 (student/teacher: STUDENT). PDF pages: printed pp. 1–62 plus front matter (cover/title and contents verified against the record; GitHub grab failed with RemoteDisconnected, so the book was read in full via the record's archive.org source PDF — the same Educational Publications Department edition). Verdict: COMPLETE. Parallel edition named in the placements file: the Tamil student book (Book 3a, 2016), same four units, with a Tamil–English–Sinhala glossary — placed once under this English edition, that edition named here. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sri-lanka-placements.md.
+
+**Book 5:** *புவியியல் — முதலாம் பாகம் (Geography — Part One), for the G.C.E. (Advanced Level)* (student book, Tamil) — Educational Publications Department; first edition 1976; no ISBN printed (pre-ISBN Sri Lankan imprint; library copy stamped Jaffna Public Library). Title as printed: புவியியல் — முதலாம் பாகம் (Geography — Part One), for the G.C.E. (Advanced Level). Grade: 12 (student/teacher: STUDENT). PDF pages: 230 (Noolaham scan; cover verified against the record; grabbed via grab.py from the GitHub release URL, 110,744,638 bytes, size-verified; read in full page-by-page on contact sheets — image-only scan; printed pp. 1–210 plus a chapter-grouped bibliography). Verdict: COMPLETE (Part I complete in itself; a separate Part II exists outside this record). Part I complete in itself; a separate Part II exists outside this record, as the placements file labels it. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sri-lanka-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Comets, meteors and asteroids | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 1, printed p. 10 |
 | Sub lesson 2 — Case study: the morning star is not a star | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 1, printed pp. 12–13 |
 | India part (Grade 6 The Earth Our Habitat) — Ch.1: asteroids and meteoroids | India, *India Grade 6 The Earth Our Habitat*, Ch.1: asteroids and meteoroids — printed p. 7 |
 | Syria part — Stones from the sky (meteorites and small bodies) | Syria, *Syria Grade 7 Geography G7 عالم الجغرافية*, Stones from the sky (meteorites and small bodies) — printed p. 50 |
+| Sri Lanka part — Unit 1 Dwarf planets (Pluto, Eris, Makemake, Haumea, Ceres), natural satellites and the asteroid belt | Sri Lanka, *Sri Lanka Grade 8 G8 English*, Unit 1 Dwarf planets (Pluto, Eris, Makemake, Haumea, Ceres), natural satellites and the asteroid belt — printed p. 10 |
+| Sri Lanka part — Chapter 4 Other heavenly bodies: asteroids, comets, meteors and meteorites (placement slug: earth-and-space/dwarf-planets-satellites-asteroids-and-comets — the lesson stands under this title, stocked here) | Sri Lanka, *Sri Lanka G12 Tamil SB Part I*, Chapter 4 Other heavenly bodies: asteroids, comets, meteors and meteorites — printed p. 34 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, India, Syria).**
+**Acceptance count: taught in 4 countries (Ethiopia, India, Syria, Sri Lanka).**
 
 The Kirubel story is taught as a plot summary only; no text of the book is transcribed.
 
@@ -24,3 +30,7 @@ Searchable tags: comet, Halley, meteor, shooting star, meteorite, asteroids, pla
 India's own way (Grade 6 The Earth Our Habitat): The first Geography year goes planet → globe → motions → maps → Earth's domains → landforms, and only then turns home: the last two chapters are India itself (location, neighbours, physical divisions, monsoon climate, vegetation and wildlife), so world basics are immediately applied to the home country.
 
 Syria's own way (Syria Grade 7 Geography G7 عالم الجغرافية): a pure Geography book built entirely around activity lessons with story-style titles ("Mother of sciences", "Stones from the sky", "The origami art" for folding, "A tourist in my homeland"); technology first — aerial photos, GPS, remote sensing and GIS open the book before any physical geography — and each semester closes with student/teacher-designed lessons and an end-of-semester project.
+
+Sri Lanka's own way (Sri Lanka Grade 8 G8 English): a four-unit arc — Solar System, Earth's uniqueness, then regional geography taught as six South Asian "landscapes" (mountain, valley, coastal, rural, industrial-urban, desert), closing with Sri Lanka's own 1:50,000 topographic-sheet system (92 sheets) that Grade 9 continues.
+
+Sri Lanka's own way (Sri Lanka G12 Tamil SB Part I): the old A/L course opens with a full astronomy block (universe, solar system, origin theories, telescopes, the space age) before turning to the Earth, then teaches geography as man-and-environment study in the Brunhes / Vidal de la Blache tradition (the bibliography names them), and closes with map interpretation on a Sri Lanka topographic sheet.

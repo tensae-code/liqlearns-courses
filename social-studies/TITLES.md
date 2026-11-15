@@ -103,7 +103,7 @@ the one title at rising depth wherever a title spans both books
 
 ## Geography expansion totals
 
-Geography lessons across the eight Geography titles: **1863**
+Geography lessons across the eight Geography titles: **1914**
 (549 before the expansion; +1 for Guyana, 2026-11-14 — First
 Steps: Our neighbourhood; +3 for Suriname, 2026-11-14 — First
 Steps: My house, my home and My town, my district and my
@@ -1242,3 +1242,57 @@ Global Issues: Latin American Integration Blocs, Poles
 Of Power In World Space and The World Environment We
 Live In And Share.
 (Every new lesson is taught in 1 country (Venezuela).)
+
++51 for Sri Lanka, 2026-11-15 — Earth and Space:
+Artificial Satellites And Their Uses, Asia Location And
+Uniqueness, Beliefs And New Knowledge About The Solar
+System, Laws And Arrangement Of The Solar System,
+Location Of Sri Lanka And Its Influences, South Asia
+Location Countries And Capitals, Space Exploration
+Satellites Probes And Manned Flights, Telescopes And
+Space Observation Instruments, The Moon Earths
+Satellite, The Universe Galaxies And Nebulae, Theories
+Of The Origin Of The Solar System and Why Earth Alone
+Supports Life; The Land and Air: Asia Physical
+Landscape Relief Drainage Climate Vegetation, Comparing
+Islands By Area Sri Lanka Among World Islands,
+Continental Drift, Ganges Valley Landscape, Himalayan
+Mountain Landscape, Landscape Of The Immediate
+Surroundings, Locating Your School Sri Lanka
+Administrative Divisions, Physical Environments Of Four
+World Regions, South Asia Coastal Landscape, Sri Lanka
+Climate And Climatic Zones, Sri Lanka Coastal Region
+Case Study, Sri Lanka Maritime Zones And Main Features,
+Sri Lanka Relief Zones And Features, Sri Lanka
+Vegetation Zones, The Physical Environment And Its
+Elements and World Natural Vegetation Zones;
+Population, Transport and Maps: Mapping Development
+Disparities By District Sri Lanka, Marking Features On
+Outline Maps, Representing Relief And Features On Maps,
+Sri Lanka Dry Zone Rural Landscape and Sri Lanka Human
+Landscape Population Settlements Economy; People and
+Resources: Agricultural Regions Of The World, Comparing
+Agricultural And Industrial Economies Sri Lanka And
+Japan, Development Indices And Spatial Disparities Sri
+Lanka, Mediterranean Farming, Sri Lanka Physical
+Landscape Shapes Human Activity, The Region And
+Regional Classification and World Produce Regions Rice
+And Others; Culture and Work: Asia River Valley
+Civilisations And Human Mosaic, Export Processing Zones
+And Industrial Estates Sri Lanka, Homes Suited To Their
+Environment, Human Response To Environment And Its
+Regional Variation, Shipbuilding And Electronics
+Industries and The Vedda People Of Sri Lanka; Global
+Issues: Energy At Home Sources Biogas Solar Efficient
+Hearth, Environmental Balance What It Is And What
+Breaks It, Environmental Change And Protection In Sri
+Lanka, Interactions Within The Physical Environment and
+Waste Disposal And Pollution At Home.
+(46 of the new lessons are taught in 1 country (Sri
+Lanka); The Vedda People Of Sri Lanka, Mediterranean
+Farming, Mapping Development Disparities By District
+Sri Lanka, Sri Lanka Human Landscape Population
+Settlements Economy and World Natural Vegetation Zones
+stand on Sri Lanka's teacher guides, cited as
+teacher-guide evidence only, counted nowhere in
+acceptance.)

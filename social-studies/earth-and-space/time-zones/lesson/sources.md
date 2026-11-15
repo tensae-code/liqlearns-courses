@@ -1,6 +1,6 @@
 # Sources — Time Zones and the Date Line
 
-countries: Ethiopia, Barbados, Haiti, Indonesia, Dominican Republic, India, Rwanda, Vietnam, Uganda
+countries: Ethiopia, Barbados, Haiti, Indonesia, Dominican Republic, India, Rwanda, Vietnam, Uganda, Sri Lanka
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page - 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Barbados, Haiti, Indonesia, Dominican Republic, India, Rwan
 
 **Book 10:** *Excel Standard Social Studies, Pupil's Book 6 (First Edition)* (student book, English) — Excel Publishers, Kampala; year not printed (First Edition); ISBN no ISBN printed. Title as printed: Excel Standard Social Studies, Pupil's Book 6 (First Edition). Grade: Primary Six = Grade 6 (student/teacher: STUDENT). PDF pages: 210 (title page verified: "EXCEL STANDARD SOCIAL STUDIES PUPIL'S BOOK 6 — EXCEL PUBLISHERS" — matches record page count 210 exactly; read via the record's books.json source_url at exoticnotes.com after grab.py routes failed with RemoteDisconnected from api.github.com). Commercial book built on the NCDC Primary Six SST syllabus, filed in the library under gov/uganda — see library debts in the group log.. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/uganda-placements.md.
 
+**Book 11:** *Geography, Grade 8* (student book, English) — Educational Publications Department; first print 2016, fourth print 2019; ISBN 978-955-25-0136-4. Title as printed: Geography, Grade 8. Grade: 8 (student/teacher: STUDENT). PDF pages: printed pp. 1–62 plus front matter (cover/title and contents verified against the record; GitHub grab failed with RemoteDisconnected, so the book was read in full via the record's archive.org source PDF — the same Educational Publications Department edition). Verdict: COMPLETE. Parallel edition named in the placements file: the Tamil student book (Book 3a, 2016), same four units, with a Tamil–English–Sinhala glossary — placed once under this English edition, that edition named here. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sri-lanka-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Why the world needed zones | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 1, printed pp. 23–24 |
@@ -36,8 +38,9 @@ countries: Ethiopia, Barbados, Haiti, Indonesia, Dominican Republic, India, Rwan
 | Vietnam part — Bài 5 (part): Time zones and the international date line (world time-zone map; Hanoi's longitude time vs Hai Phong's) | Vietnam, *Vietnam Grade 10 Địa lí 10*, Bài 5 (part): Time zones and the international date line (world time-zone map; Hanoi's longitude time vs Hai Phong's) — printed p. 18 |
 | Uganda part — Lesson 5: Time differences (East African Standard Time and other zones) | Uganda, *Uganda Grade 8 UG S1 Geography Home-Study*, Lesson 5: Time differences (East African Standard Time and other zones) — printed p. 15 |
 | Uganda part — Topic 1: Using the Prime Meridian to tell international time | Uganda, *Uganda Grade 6 UG Excel P6 SST*, Topic 1: Using the Prime Meridian to tell international time — printed p. 9 |
+| Sri Lanka part — Unit 2 Standard time: 24 time zones, GMT, the International Date Line, Sri Lanka at GMT+5.30 | Sri Lanka, *Sri Lanka Grade 8 G8 English*, Unit 2 Standard time: 24 time zones, GMT, the International Date Line, Sri Lanka at GMT+5.30 — printed p. 21 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Barbados, Indonesia, Dominican Republic, India, Rwanda, Vietnam, Uganda). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
+**Acceptance count: taught in 9 countries (Ethiopia, Barbados, Indonesia, Dominican Republic, India, Rwanda, Vietnam, Uganda, Sri Lanka). Haiti is named here as teacher-sequence evidence only, counted nowhere.**
 
 Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -60,3 +63,5 @@ Vietnam's own way (Vietnam Grade 10 Địa lí 10): a single Grade 10 course tha
 Uganda's own way (Uganda Grade 8 UG S1 Geography Home-Study): A home-based compression of the Senior One course: fieldwork is done around the learner's own home, photographs and statistics (Kilembe Mines data) replace classroom map work, and the booklet ends on East Africa's location, size and relief.
 
 Uganda's own way (Uganda Grade 6 UG Excel P6 SST): The P6 course widens from Uganda to the whole East African Community: location by latitude/longitude, resources, transport and communication are all taught at EAC scale. Non-Geography parts named, not placed: Topic 1 — historical background, formation, revival, organs and symbols of the EAC (Civics); The People of East Africa — origin of human beings, sources of history, archaeological sites, Stone Age, ethnic groups and their political/social/economic organisation (History, printed pp. 25–54); Early visitors — Arab traders, long-distance and slave trade, European traders, Christian missionaries (History, pp. 55–64); Topic 4 The Road to Independence in East Africa — explorers, scramble and partition, colonial rule and reactions, independence struggle, post-independence leaders and democratic rule (History/Civics, pp. 140–188).
+
+Sri Lanka's own way (Sri Lanka Grade 8 G8 English): a four-unit arc — Solar System, Earth's uniqueness, then regional geography taught as six South Asian "landscapes" (mountain, valley, coastal, rural, industrial-urban, desert), closing with Sri Lanka's own 1:50,000 topographic-sheet system (92 sheets) that Grade 9 continues.

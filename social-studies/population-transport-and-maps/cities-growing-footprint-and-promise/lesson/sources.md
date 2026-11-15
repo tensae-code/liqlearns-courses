@@ -1,6 +1,6 @@
 # Sources — Cities growing — footprint and promise
 
-countries: Ethiopia, Turkey, Bangladesh, Turkmenistan, North Macedonia, Cambodia, Fiji, Slovenia, Papua New Guinea, Uganda, Syria, Venezuela
+countries: Ethiopia, Turkey, Bangladesh, Turkmenistan, North Macedonia, Cambodia, Fiji, Slovenia, Papua New Guinea, Uganda, Syria, Venezuela, Sri Lanka
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). Editors: Sintayehu Teka (MSc) (Content Editor), Kassie Molla (MA) (Language Editor), Hirut Woldemichael (MA) (Curriculum Editor). Illustrator: Agenchw Nega (MSc). Designer: Geda Hoka (MA). Evaluators: Dereje Guteta (PhD), Tesfaye Shiferaw (PhD), Abebe Yibeltie (MA), Hussein Seid (MA). First published 2023 under GEQIP-E. ISBN 978-99990-0-049-9. Printed by Gravity Group IND LLC, 13th Industrial Area, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. Printed page = PDF page − 6 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md
 
@@ -40,6 +40,8 @@ countries: Ethiopia, Turkey, Bangladesh, Turkmenistan, North Macedonia, Cambodia
 
 **Book 19:** *El espacio geográfico de Venezuela — Geografía, 3er Año* (student book, Spanish) — Ministerio del Poder Popular para la Educación / Colección Bicentenario; year 2014 (third edition, April 2014); ISBN 978-980-218-337-1. Title as printed: El espacio geográfico de Venezuela — Geografía, 3er Año. Grade: Grade 9 (3er Año de Educación Media) (student/teacher: STUDENT). PDF pages: 178 (printed pages run to 176, Bibliografía; cover/title page verified against the record title; release grab size-verified by grab.py). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/venezuela-placements.md.
 
+**Book 20:** *Geography, Grade 8* (student book, English) — Educational Publications Department; first print 2016, fourth print 2019; ISBN 978-955-25-0136-4. Title as printed: Geography, Grade 8. Grade: 8 (student/teacher: STUDENT). PDF pages: printed pp. 1–62 plus front matter (cover/title and contents verified against the record; GitHub grab failed with RemoteDisconnected, so the book was read in full via the record's archive.org source PDF — the same Educational Publications Department edition). Verdict: COMPLETE. Parallel edition named in the placements file: the Tamil student book (Book 3a, 2016), same four units, with a Tamil–English–Sinhala glossary — placed once under this English edition, that edition named here. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sri-lanka-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What urbanisation is | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 7, printed pp. 161–163 |
@@ -63,8 +65,9 @@ countries: Ethiopia, Turkey, Bangladesh, Turkmenistan, North Macedonia, Cambodia
 | Venezuela part — …Y llegamos a tener metrópolis / Hacia la metropolización | Venezuela, *Venezuela Grade 6 G6 CS Venezuela y Su Gente*, …Y llegamos a tener metrópolis / Hacia la metropolización — printed p. 30 |
 | Venezuela part — Urbes y campos de Latinoamérica y el Caribe: cities of Latin America and the Caribbean | Venezuela, *Venezuela Grade 7 G7 Geography Humanidad*, Urbes y campos de Latinoamérica y el Caribe: cities of Latin America and the Caribbean — printed p. 76 |
 | Venezuela part — Venezuela Petrolera: main cities, manufacturing industry, roads and ports | Venezuela, *Venezuela Grade 9 G9 Geography Venezuela*, Venezuela Petrolera: main cities, manufacturing industry, roads and ports — printed p. 119 |
+| Sri Lanka part — Unit 3 Landscape V — Industrial and urban: Mumbai as the case city (harbour, cotton, Bollywood, high-rise and low-income settlements, urban problems) | Sri Lanka, *Sri Lanka Grade 8 G8 English*, Unit 3 Landscape V — Industrial and urban: Mumbai as the case city (harbour, cotton, Bollywood, high-rise and low-income settlements, urban problems) — printed p. 43 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Turkey, Bangladesh, Turkmenistan, North Macedonia, Cambodia, Fiji, Slovenia, Uganda, Syria, Venezuela). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 12 countries (Ethiopia, Turkey, Bangladesh, Turkmenistan, North Macedonia, Cambodia, Fiji, Slovenia, Uganda, Syria, Venezuela, Sri Lanka). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
@@ -103,3 +106,5 @@ Venezuela's own way (Venezuela Grade 6 G6 CS Venezuela y Su Gente): the whole Ge
 Venezuela's own way (Venezuela Grade 7 G7 Geography Humanidad): a Geohistoria (Ramón Tovar) approach — geographic space is always explained through the historical conditions that built it; every chapter opens with a literary epigraph, works through "Entérate / Entretejiendo saberes / Indagando" boxes, and keeps returning to the learner's own community and to Caracas as the worked example.
 
 Venezuela's own way (Venezuela Grade 9 G9 Geography Venezuela): a full national geography written as Geohistoria — every physical topic (position, climate, relief, hydrography) is paired with the historical stages that organised the same space (agrarian Venezuela, oil Venezuela, 21st-century Venezuela), and the Amazon rainforest closes the book as a defence-of-life argument.
+
+Sri Lanka's own way (Sri Lanka Grade 8 G8 English): a four-unit arc — Solar System, Earth's uniqueness, then regional geography taught as six South Asian "landscapes" (mountain, valley, coastal, rural, industrial-urban, desert), closing with Sri Lanka's own 1:50,000 topographic-sheet system (92 sheets) that Grade 9 continues.

@@ -1,6 +1,6 @@
 # Sources — Air Pollution
 
-countries: Ethiopia, Jamaica, Palestine, Angola, Indonesia, India, North Macedonia, Cambodia, Papua New Guinea, Sudan
+countries: Ethiopia, Jamaica, Palestine, Angola, Indonesia, India, North Macedonia, Cambodia, Papua New Guinea, Sudan, Sri Lanka
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (placement 109).
 
@@ -26,6 +26,10 @@ countries: Ethiopia, Jamaica, Palestine, Angola, Indonesia, India, North Macedon
 
 **Book 11:** *الجغرافيا والدراسات البيئية — Geography and Environmental Studies, Third Year Secondary (الصف الثالث الثانوي)* (student book, Arabic) — Republic of Sudan, Ministry of General Education, National Centre for Curricula and Educational Research (Bakht al-Ruda); revised edition 2009; ISBN 978-99942-53-4-3 (file is the Rowad Al-Tamayoz reprint/distribution copy, verified cover + title page against the record). Title as printed: الجغرافيا والدراسات البيئية — Geography and Environmental Studies, Third Year Secondary (الصف الثالث الثانوي). Grade: Grade 12 (student/teacher: STUDENT). PDF pages: 230 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sudan-placements.md.
 
+**Book 12:** *Geography, Grade 6* (student book, English) — Educational Publications Department; first print 2014, sixth print 2019; ISBN 978-955-25-0082-4. Title as printed: Geography, Grade 6. Grade: 6 (student/teacher: STUDENT). PDF pages: 75 (cover/title verified against the record title; grabbed via grab.py from the GitHub blob URL, 3,700,387 bytes, SHA-verified by grab.py; full text read page by page). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sri-lanka-placements.md.
+
+**Book 13:** *புவியியல், தரம் 6 (Geography, Grade 6)* (student book, Tamil) — Educational Publications Department (கல்வி வெளியீட்டுத் திணைக்களம்); first print 2006, second edition 2007 (imprint page; print code 2008/T/696/1,38,000); no ISBN printed. Title as printed: புவியியல், தரம் 6 (Geography, Grade 6). Grade: 6 (student/teacher: STUDENT). PDF pages: 60 (Noolaham scan; cover verified — Tamil title and Grade 6 match the record; grabbed via grab.py from the GitHub release URL, 33,875,044 bytes, size-verified; image-only scan read page by page on contact sheets). Verdict: COMPLETE — NOTE: this 2007-edition Tamil book is NOT a translation of the 2014 English Grade 6 book (Book 2); it is the older syllabus with a different chapter order, so it is placed separately.. Carried exactly as the placements file labels it: this 2007-edition Tamil book is NOT a translation of the 2014 English Grade 6 book (key 2); it is the older syllabus with a different chapter order, so it is placed separately. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sri-lanka-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What clean air is, and what spoils it: air without smell, taste or colour; pollution as natural or human-made toxic substances mixing into the air against living things; the bad smell of wastes as its everyday sign | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 7, printed p. 149 |
@@ -40,11 +44,13 @@ countries: Ethiopia, Jamaica, Palestine, Angola, Indonesia, India, North Macedon
 | Cambodia part — Ch.3 L12 កង្វល់ ឬការបំពុលខ្យល់ (air troubles — air pollution) | Cambodia, *Cambodia Grade 11 Earth Science*, Ch.3 L12 កង្វល់ ឬការបំពុលខ្យល់ (air troubles — air pollution) — printed p. 168 |
 | Papua New Guinea part — Strand 5 Unit 4 Environmental Change and Sustainability, Topic 1: Air pollution (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 9 Social Science TG* (teacher guide), Strand 5 Unit 4 Environmental Change and Sustainability, Topic 1: Air pollution — printed p. 257 |
 | Sudan part — Environmental pollution: air pollution | Sudan, *Sudan Grade 12 SD Geography 12*, Environmental pollution: air pollution — printed p. 148 |
+| Sri Lanka part — Ch. 3 Air: composition, how air is polluted around the home and keeping it clean | Sri Lanka, *Sri Lanka Grade 6 G6 English*, Ch. 3 Air: composition, how air is polluted around the home and keeping it clean — printed p. 45 |
+| Sri Lanka part — Ch. 4.1.3 வளி (Air) and Ch. 4.1.4 சக்தி வளங்கள் (Energy resources) around the home | Sri Lanka, *Sri Lanka Grade 6 G6 Tamil 2007*, Ch. 4.1.3 வளி (Air) and Ch. 4.1.4 சக்தி வளங்கள் (Energy resources) around the home — printed p. 41 |
 
 | Sub lesson 3 — Smog and ground-level ozone — the Grade 12 chemistry | Ethiopia, *Geography, Student Textbook, Grade 12*, Unit 6, printed pp. 159–161 (G12 student placement #64) |
 | Indonesia part (Grade 11) — Bab 3 I.E Pencemaran udara | Indonesia, *Geografi untuk SMA Kelas XI*, Grade 11, Bab 3 I.E Pencemaran udara — printed p. 126 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Palestine, Angola, Indonesia, India, North Macedonia, Cambodia, Sudan). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 9 countries (Ethiopia, Palestine, Angola, Indonesia, India, North Macedonia, Cambodia, Sudan, Sri Lanka). Jamaica is named here as curriculum-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Indonesia's own way (Grade 11): the whole book is organised around Indonesia itself — its strategic position first, then its own biodiversity (Wallace/Wallacea), its own environment-and-population problems, and its own disaster map; every concept is taught through Indonesian examples, maps and infographics, with a chapter-end knowledge assessment (Asesmen) per chapter. That way is stocked here as the way Indonesia teaches this thing.
 
@@ -71,3 +77,7 @@ Cambodia's own way (Cambodia Grade 11 Earth Science): Earth Science is Cambodia'
 Papua New Guinea's own way (Papua New Guinea Grade 9 Social Science TG) (teacher guide — evidence): at secondary level Social Science splits into five strands — Geography, History, Political Science, Economics, Environment. The Geography strand is a weather-and-climate skills course (instruments, data, graphs — with Port Moresby and Kokopo data) moving to world climate/vegetation, migration, and land use; the Environment strand carries Earth systems, resources and sustainability. That evidence is stocked here as the way Papua New Guinea teaches this thing; it does not change the acceptance count above.
 
 Sudan's own way (Sudan Grade 12 SD Geography 12): The final-year book is organised as applied geography: it opens with a full revision exercise on a Port Sudan contour map (contours, scale, cross-sections, watershed lines), then remote sensing and photo interpretation, then world economic geography, and closes on human–environment global problems, repeatedly pulling Sudanese examples (Gezira scheme, gum arabic, Sudanese oil, farming systems of Sudan) into the world treatment.
+
+Sri Lanka's own way (Sri Lanka Grade 6 G6 English): geography starts from the child's own school and home — location in the Grama Niladhari → Divisional Secretariat → District → Province hierarchy, a plan of the school garden, home-made weather instruments, and care of the home surroundings — before widening to Sri Lanka's location in the world in the final chapter.
+
+Sri Lanka's own way (Sri Lanka Grade 6 G6 Tamil 2007): dialogue-driven lessons (teacher–pupil conversations) that open with Sri Lanka's location and a comparison with the world's other islands, then work through the home and its surroundings, caring for that environment, and finish with map-making and scale.

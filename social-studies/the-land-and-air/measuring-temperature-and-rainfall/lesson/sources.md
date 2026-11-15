@@ -1,6 +1,6 @@
 # Sources — Measuring temperature and rainfall
 
-countries: Ethiopia, Turkey, Dominican Republic, Colombia, Eritrea, India, Cambodia, Rwanda, Slovenia, Vietnam, Papua New Guinea, Uganda
+countries: Ethiopia, Turkey, Dominican Republic, Colombia, Eritrea, India, Cambodia, Rwanda, Slovenia, Vietnam, Papua New Guinea, Uganda, Sri Lanka
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -34,6 +34,10 @@ countries: Ethiopia, Turkey, Dominican Republic, Colombia, Eritrea, India, Cambo
 
 **Book 16:** *Home-Study Learning — Senior 1 Geography (August 2020)* (student book, English) — Ministry of Education and Sports / National Curriculum Development Centre (NCDC); year 2020; ISBN no ISBN printed. Title as printed: Home-Study Learning — Senior 1 Geography (August 2020). Grade: Senior One = Grade 8 (student/teacher: STUDENT). PDF pages: 38 (cover verified: "HOME-STUDY LEARNING SENIOR 1 GEOGRAPHY", NCDC, August 2020 — matches record page count 38 exactly; read via the record's books.json source_url at f.openpdfs.org, mirror of the NCDC booklet, after grab.py routes failed with RemoteDisconnected from api.github.com). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/uganda-placements.md.
 
+**Book 17:** *Geography, Grade 6* (student book, English) — Educational Publications Department; first print 2014, sixth print 2019; ISBN 978-955-25-0082-4. Title as printed: Geography, Grade 6. Grade: 6 (student/teacher: STUDENT). PDF pages: 75 (cover/title verified against the record title; grabbed via grab.py from the GitHub blob URL, 3,700,387 bytes, SHA-verified by grab.py; full text read page by page). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sri-lanka-placements.md.
+
+**Book 18:** *புவியியல், தரம் 6 (Geography, Grade 6)* (student book, Tamil) — Educational Publications Department (கல்வி வெளியீட்டுத் திணைக்களம்); first print 2006, second edition 2007 (imprint page; print code 2008/T/696/1,38,000); no ISBN printed. Title as printed: புவியியல், தரம் 6 (Geography, Grade 6). Grade: 6 (student/teacher: STUDENT). PDF pages: 60 (Noolaham scan; cover verified — Tamil title and Grade 6 match the record; grabbed via grab.py from the GitHub release URL, 33,875,044 bytes, size-verified; image-only scan read page by page on contact sheets). Verdict: COMPLETE — NOTE: this 2007-edition Tamil book is NOT a translation of the 2014 English Grade 6 book (Book 2); it is the older syllabus with a different chapter order, so it is placed separately.. Carried exactly as the placements file labels it: this 2007-edition Tamil book is NOT a translation of the 2014 English Grade 6 book (key 2); it is the older syllabus with a different chapter order, so it is placed separately. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sri-lanka-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Thermometers | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 2, printed pp. 53–55 |
@@ -54,8 +58,10 @@ countries: Ethiopia, Turkey, Dominican Republic, Colombia, Eritrea, India, Cambo
 | Uganda part — Ch.6 Measuring and Recording Elements of Weather (weather station) | Uganda, *Uganda Grade 8 UG S1 Geography Student*, Ch.6 Measuring and Recording Elements of Weather (weather station) — printed p. 60 |
 | Uganda part — Ch.6 Making simple instruments for measuring and recording weather; plotting weather on maps (teacher-only content) (teacher guide — evidence) | Uganda, *Uganda Grade 8 UG S1 Geography TG* (teacher guide), Ch.6 Making simple instruments for measuring and recording weather; plotting weather on maps (teacher-only content) — printed p. 59 |
 | Uganda part — Lesson 8: Measuring and Recording Rainfall (rain gauge, weather station) | Uganda, *Uganda Grade 8 UG S1 Geography Home-Study*, Lesson 8: Measuring and Recording Rainfall (rain gauge, weather station) — printed p. 25 |
+| Sri Lanka part — Ch. 1 Measuring temperature (thermometer, °C/°F) and rainfall (rain gauge, mm), recording a week/month of observations | Sri Lanka, *Sri Lanka Grade 6 G6 English*, Ch. 1 Measuring temperature (thermometer, °C/°F) and rainfall (rain gauge, mm), recording a week/month of observations — printed p. 12 |
+| Sri Lanka part — Ch. 3.2.2 வானிலை (Weather): elements of weather, thermometer, rain gauge and wind observations around the home | Sri Lanka, *Sri Lanka Grade 6 G6 Tamil 2007*, Ch. 3.2.2 வானிலை (Weather): elements of weather, thermometer, rain gauge and wind observations around the home — printed p. 23 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Turkey, Dominican Republic, Colombia, Eritrea, India, Cambodia, Rwanda, Slovenia, Vietnam, Uganda). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 12 countries (Ethiopia, Turkey, Dominican Republic, Colombia, Eritrea, India, Cambodia, Rwanda, Slovenia, Vietnam, Uganda, Sri Lanka). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
@@ -86,3 +92,7 @@ Uganda's own way (Uganda Grade 8 UG S1 Geography Student): Competency-based lowe
 Uganda's own way (Uganda Grade 8 UG S1 Geography TG) (teacher guide — evidence): The guide mirrors the learner book chapter for chapter, adding teacher instructions, possible responses and assessment for every activity — the same East-Africa-first, activity-led pedagogy, plus teacher-only content on plotting weather on maps and making simple weather instruments. That evidence is stocked here as the way Uganda teaches this thing; it is cited as evidence only — Uganda is counted in this lesson through its student book(s).
 
 Uganda's own way (Uganda Grade 8 UG S1 Geography Home-Study): A home-based compression of the Senior One course: fieldwork is done around the learner's own home, photographs and statistics (Kilembe Mines data) replace classroom map work, and the booklet ends on East Africa's location, size and relief.
+
+Sri Lanka's own way (Sri Lanka Grade 6 G6 English): geography starts from the child's own school and home — location in the Grama Niladhari → Divisional Secretariat → District → Province hierarchy, a plan of the school garden, home-made weather instruments, and care of the home surroundings — before widening to Sri Lanka's location in the world in the final chapter.
+
+Sri Lanka's own way (Sri Lanka Grade 6 G6 Tamil 2007): dialogue-driven lessons (teacher–pupil conversations) that open with Sri Lanka's location and a comparison with the world's other islands, then work through the home and its surroundings, caring for that environment, and finish with map-making and scale.

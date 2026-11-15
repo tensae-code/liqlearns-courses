@@ -1,0 +1,21 @@
+# Sources — Sri Lanka Vegetation Zones
+
+countries: Sri Lanka
+
+**Book 1:** *Geography — Teachers' Guide, Grade 9 (To be implemented from 2018)* (teacher guide, English) — National Institute of Education (NIE), Maharagama; first printing 2017; no ISBN printed (blank on imprint page). Title as printed: Geography — Teachers' Guide, Grade 9 (To be implemented from 2018). Grade: 9 (student/teacher: TEACHER). PDF pages: front matter to p. xxiv + body pp. 1–44 (cover verified: title/grade/NIE match the record; read in full via the record's NIE source PDF — GitHub grab failed twice with RemoteDisconnected, source edition is the same NIE file the record was sourced from). Verdict: COMPLETE. Cited as teacher-guide evidence only, outside acceptance counts. Parallel editions named in the placements file: the Sinhala teacher guide (Book 2a) and the Tamil teacher guide (Book 2b), contents matching this guide unit for unit — placed once under this English edition, those editions named here. The Tamil parallel edition of the Grade 9 student book (Book 4a) likewise parallels Book 4 (key 4 in the merge record). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sri-lanka-placements.md.
+
+**Book 2:** *Geography, Grade 9* (student book, English) — Educational Publications Department; first print 2017, third print 2019; ISBN 978-955-25-0166-1. Title as printed: Geography, Grade 9. Grade: 9 (student/teacher: STUDENT). PDF pages: printed pp. 1–95 approx. plus front matter (cover/title and index verified against the record; GitHub grab failed with RemoteDisconnected, so the book was read via the record's archive.org source PDF — the same Educational Publications Department edition; chapters read in full, with the parallel Grade 9 Teacher's Guide (Book 1) confirming unit structure). Verdict: COMPLETE. Parallel edition named in the placements file: the Tamil student book (Book 4a, 2019), contents matching chapter for chapter, with a Tamil–English–Sinhala glossary — placed once under this English edition, that edition named here. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sri-lanka-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — 9.2.1 Natural vegetation of Sri Lanka: seven zones from low-country wet rainforest and dry mixed evergreen to montane forest, patanas, thorn scrub and mangroves (teacher guide — evidence) | Sri Lanka, *Sri Lanka Grade 9 G9 TG English 2018* (teacher guide), 9.2.1 Natural vegetation of Sri Lanka: seven zones from low-country wet rainforest and dry mixed evergreen to montane forest, patanas, thorn scrub and mangroves — printed p. 17 |
+| Sub lesson 1 — Ch. 2 Natural vegetation of Sri Lanka and the island's physical diversity in a small land (Hambantota-to-Nuwara Eliya transect) | Sri Lanka, *Sri Lanka Grade 9 G9 English*, Ch. 2 Natural vegetation of Sri Lanka and the island's physical diversity in a small land (Hambantota-to-Nuwara Eliya transect) — printed p. 42 |
+| Sub lesson 2 — Sri Lanka's way — the book's own teaching way | Sri Lanka — the book's own way of teaching (see below) |
+
+**Acceptance count: taught in 1 country (Sri Lanka).**
+
+Sri Lanka's own way (Sri Lanka Grade 9 G9 TG English 2018) (teacher guide — evidence): competency-based guide — every unit pairs a syllabus table (competency level, content, learning outcomes, periods) with lesson-planning notes and a specimen group activity; geography is taught region-first (Asia, then Sri Lanka itself in depth), closing with hands-on 1:50,000 topographic-sheet work (Matara sheet No. 91). That book is a teacher guide, cited as evidence only; Sri Lanka is counted in this lesson for its student book(s) named here, not for this guide.
+
+Sri Lanka's own way (Sri Lanka Grade 9 G9 English): the student companion to Book 1 — five chapters moving from the whole Asian region down to Sri Lanka's own landscape, its district-by-district development contrasts, environmental balance, and a closing practical chapter reading the 1:50,000 topographic maps.
+
+Searchable tags: sri lanka vegetation zones, Sri Lanka, social studies, the-land-and-air

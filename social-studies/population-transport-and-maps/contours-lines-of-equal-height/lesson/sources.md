@@ -1,6 +1,6 @@
 # Sources — Contours — lines of equal height
 
-countries: Ethiopia, Turkey, Malaysia, Fiji, Papua New Guinea, Uganda, Sudan
+countries: Ethiopia, Turkey, Malaysia, Fiji, Papua New Guinea, Uganda, Sudan, Sri Lanka
 
 **Book 1:** *Geography, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Ermias Debie (PhD), Mehretie Belay (PhD), Professor Aklilu Dalelo, Fekede Menuta (PhD), Abera Husen (PhD), Mesfin Anteneh (PhD), Andargachew Abeje (MSc), Teferi Makonnen (PhD), Abebe Yibeltie (MA), Hussien Seid (MA). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), with Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN 978-99990-0-050-5. Printed page = PDF page − 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g11-student-placements.md
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Turkey, Malaysia, Fiji, Papua New Guinea, Uganda, Sudan
 
 **Book 8:** *الجغرافيا والدراسات البيئية — Geography and Environmental Studies, Third Year Secondary (الصف الثالث الثانوي)* (student book, Arabic) — Republic of Sudan, Ministry of General Education, National Centre for Curricula and Educational Research (Bakht al-Ruda); revised edition 2009; ISBN 978-99942-53-4-3 (file is the Rowad Al-Tamayoz reprint/distribution copy, verified cover + title page against the record). Title as printed: الجغرافيا والدراسات البيئية — Geography and Environmental Studies, Third Year Secondary (الصف الثالث الثانوي). Grade: Grade 12 (student/teacher: STUDENT). PDF pages: 230 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sudan-placements.md.
 
+**Book 9:** *Geography, Grade 8* (student book, English) — Educational Publications Department; first print 2016, fourth print 2019; ISBN 978-955-25-0136-4. Title as printed: Geography, Grade 8. Grade: 8 (student/teacher: STUDENT). PDF pages: printed pp. 1–62 plus front matter (cover/title and contents verified against the record; GitHub grab failed with RemoteDisconnected, so the book was read in full via the record's archive.org source PDF — the same Educational Publications Department edition). Verdict: COMPLETE. Parallel edition named in the placements file: the Tamil student book (Book 3a, 2016), same four units, with a Tamil–English–Sinhala glossary — placed once under this English edition, that edition named here. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sri-lanka-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What a contour is | Ethiopia, *Geography, Student Textbook, Grade 11*, Unit 8, printed pp. 219–220 |
@@ -30,8 +32,9 @@ countries: Ethiopia, Turkey, Malaysia, Fiji, Papua New Guinea, Uganda, Sudan
 | Papua New Guinea part — Unit 1, Topic 4: Cross-sections (drawing cross-sections from contoured maps) (teacher guide — evidence) | Papua New Guinea, *Papua New Guinea Grade 11 Geography TG SBC* (teacher guide), Unit 1, Topic 4: Cross-sections (drawing cross-sections from contoured maps) — printed p. 41 |
 | Uganda part — Ch.7 Cross-sections from simple contour maps (chapter objective/activities) | Uganda, *Uganda Grade 8 UG S1 Geography Student*, Ch.7 Cross-sections from simple contour maps (chapter objective/activities) — printed p. 74 |
 | Sudan part — Revision exercise: Port Sudan contour map — contours, heights, cross-section, watershed | Sudan, *Sudan Grade 12 SD Geography 12*, Revision exercise: Port Sudan contour map — contours, heights, cross-section, watershed — printed p. 2 |
+| Sri Lanka part — Unit 4 Contour lines (20 m interval) and reading relief from them: mountain range, conical hill, spur, valley, gap; building a 3-D contour model | Sri Lanka, *Sri Lanka Grade 8 G8 English*, Unit 4 Contour lines (20 m interval) and reading relief from them: mountain range, conical hill, spur, valley, gap; building a 3-D contour model — printed p. 55 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Turkey, Malaysia, Fiji, Uganda, Sudan). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 7 countries (Ethiopia, Turkey, Malaysia, Fiji, Uganda, Sudan, Sri Lanka). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Turkey's own way: a systems course — Natural Systems first (nature–human interaction, coordinates, maps, Earth's motions, climate), then Human Systems (settlements), then Regions and Countries, then Environment and Society — with a Turkey case closing most chapters (Turkey's location, Turkey's climate, settlements in Turkey). That way is stocked here as the way Turkey teaches this thing; it does not change the acceptance count above.
 
@@ -48,3 +51,5 @@ Papua New Guinea's own way (Papua New Guinea Grade 11 Geography TG SBC) (teacher
 Uganda's own way (Uganda Grade 8 UG S1 Geography Student): Competency-based lower-secondary course taught entirely through East Africa: every skill (maps, fieldwork, photographs) is practised on Ugandan/East African places (Tororo topographic map, Uganda lat/long map), and the physical half is East Africa's relief, landform formation, climate and vegetation rather than world coverage.
 
 Sudan's own way (Sudan Grade 12 SD Geography 12): The final-year book is organised as applied geography: it opens with a full revision exercise on a Port Sudan contour map (contours, scale, cross-sections, watershed lines), then remote sensing and photo interpretation, then world economic geography, and closes on human–environment global problems, repeatedly pulling Sudanese examples (Gezira scheme, gum arabic, Sudanese oil, farming systems of Sudan) into the world treatment.
+
+Sri Lanka's own way (Sri Lanka Grade 8 G8 English): a four-unit arc — Solar System, Earth's uniqueness, then regional geography taught as six South Asian "landscapes" (mountain, valley, coastal, rural, industrial-urban, desert), closing with Sri Lanka's own 1:50,000 topographic-sheet system (92 sheets) that Grade 9 continues.

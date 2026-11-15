@@ -1,6 +1,6 @@
 # Sources — Holding the soil — conservation toolkit
 
-countries: Ethiopia, Angola, Eritrea, India
+countries: Ethiopia, Angola, Eritrea, India, Sri Lanka
 
 **Book 1:** *Geography, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-048-2. Printed by Gravity Group IND LLC, Sharjah, UAE. 229 printed pp. plus an unnumbered glossary. Printed page = PDF page − 5 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-student-placements.md.
 
@@ -12,6 +12,10 @@ countries: Ethiopia, Angola, Eritrea, India
 
 **Book 5:** *Contemporary India-II — Textbook in Geography for Class X (Social Science)* (student book, English) — India, NCERT, New Delhi; first edition January 2006, this copy reprint 2020-21; ISBN 81-7450-644-6. Title as printed: Contemporary India-II — Textbook in Geography for Class X (Social Science). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 101 (cover render verified: "Contemporary India II, Textbook in Geography for Class X, NCERT 2020-21"; grabbed via grab.py release route, 15,769,167 bytes; duplicate TSV + books.json records grade-10/gov/india/class10-social-science-geography.pdf counted once). Verdict: COMPLETE — 7 chapters, printed pp. 1-91 + appendices and glossary to p. 96. Records note: 34 records / 17 distinct books (17 TSV records in grades 6-10 + 17 books.json records that are the same books by grade/subject — duplicate records of the same NCERT titles); the 5 Geography books were read full page-by-page via pdftotext -layout after cover verification; the other 12 books are record-only (History, Civics, Economics) with no Geography content, filed for later waves. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/india-placements.md.
 
+**Book 6:** *Geography, Grade 6* (student book, English) — Educational Publications Department; first print 2014, sixth print 2019; ISBN 978-955-25-0082-4. Title as printed: Geography, Grade 6. Grade: 6 (student/teacher: STUDENT). PDF pages: 75 (cover/title verified against the record title; grabbed via grab.py from the GitHub blob URL, 3,700,387 bytes, SHA-verified by grab.py; full text read page by page). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sri-lanka-placements.md.
+
+**Book 7:** *புவியியல், தரம் 6 (Geography, Grade 6)* (student book, Tamil) — Educational Publications Department (கல்வி வெளியீட்டுத் திணைக்களம்); first print 2006, second edition 2007 (imprint page; print code 2008/T/696/1,38,000); no ISBN printed. Title as printed: புவியியல், தரம் 6 (Geography, Grade 6). Grade: 6 (student/teacher: STUDENT). PDF pages: 60 (Noolaham scan; cover verified — Tamil title and Grade 6 match the record; grabbed via grab.py from the GitHub release URL, 33,875,044 bytes, size-verified; image-only scan read page by page on contact sheets). Verdict: COMPLETE — NOTE: this 2007-edition Tamil book is NOT a translation of the 2014 English Grade 6 book (Book 2); it is the older syllabus with a different chapter order, so it is placed separately.. Carried exactly as the placements file labels it: this 2007-edition Tamil book is NOT a translation of the 2014 English Grade 6 book (key 2); it is the older syllabus with a different chapter order, so it is placed separately. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sri-lanka-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Biological measures | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 7, printed pp. 182–185 |
@@ -20,8 +24,10 @@ countries: Ethiopia, Angola, Eritrea, India
 | Angola part — 4.5 Medidas para a protecção dos solos | Angola, *Geografia 6ª Classe*, Grade 6, 4.5 Medidas para a protecção dos solos — printed p. 64 |
 | Eritrea part (ER G4 Social Studies) — Chapter 4: 4.2 Protecting our soil | Eritrea, *ER G4 Social Studies*, Chapter 4: 4.2 Protecting our soil — printed p. 37 |
 | India part (Grade 10 Contemporary India-II) — Ch.1: soil erosion (gully erosion, sheet erosion) and soil conservation in hills, plains and desert | India, *India Grade 10 Contemporary India-II*, Ch.1: soil erosion (gully erosion, sheet erosion) and soil conservation in hills, plains and desert — printed p. 11 |
+| Sri Lanka part — Ch. 3 Good maintenance of the home surroundings: proper land use — cover crops, stone ledges, drains, compost pit; improper land use and its effects (erosion, floods, landslides, drought) | Sri Lanka, *Sri Lanka Grade 6 G6 English*, Ch. 3 Good maintenance of the home surroundings: proper land use — cover crops, stone ledges, drains, compost pit; improper land use and its effects (erosion, floods, landslides, drought) — printed p. 38 |
+| Sri Lanka part — Ch. 4.1.1 நிலம் (Land): caring for the land near home; Ch. 4 வீட்டுக்கு அருகில் உள்ள சூழலின் பேணுகை (Care of the environment near the home) | Sri Lanka, *Sri Lanka Grade 6 G6 Tamil 2007*, Ch. 4.1.1 நிலம் (Land): caring for the land near home; Ch. 4 வீட்டுக்கு அருகில் உள்ள சூழலின் பேணுகை (Care of the environment near the home) — printed p. 36 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Angola, Eritrea, India).**
+**Acceptance count: taught in 5 countries (Ethiopia, Angola, Eritrea, India, Sri Lanka).**
 
 Searchable tags: soil conservation, afforestation, reforestation, terracing, contour ploughing, area closure, social studies
 
@@ -30,3 +36,7 @@ Angola's own way (Grade 6): a resources-and-environment year — every world top
 Eritrea's own way (ER G4 Social Studies): the Tigrinya-medium primary book teaches Geography through the child's own surroundings first — our environment, protecting our soil, water, plants and animals, then maps and globes, community life, and the shapes of the land.
 
 India's own way (Grade 10 Contemporary India-II): Contemporary India-II is the human/economic book, matching Part I's physical book: India's resources, forests, water, agriculture, minerals and energy, manufacturing and the "lifelines" (transport, communication, trade) — taught throughout as development-versus-environment argument, with movements and case studies (Chipko, Narmada Bachao, rooftop rainwater harvesting in the Thar) carrying the criticism.
+
+Sri Lanka's own way (Sri Lanka Grade 6 G6 English): geography starts from the child's own school and home — location in the Grama Niladhari → Divisional Secretariat → District → Province hierarchy, a plan of the school garden, home-made weather instruments, and care of the home surroundings — before widening to Sri Lanka's location in the world in the final chapter.
+
+Sri Lanka's own way (Sri Lanka Grade 6 G6 Tamil 2007): dialogue-driven lessons (teacher–pupil conversations) that open with Sri Lanka's location and a comparison with the world's other islands, then work through the home and its surroundings, caring for that environment, and finish with map-making and scale.

@@ -1,6 +1,6 @@
 # Sources — What a Desert Is
 
-countries: Ethiopia, Colombia, India, United Kingdom, Cambodia, Uzbekistan
+countries: Ethiopia, Colombia, India, United Kingdom, Cambodia, Uzbekistan, Sri Lanka
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (placement 107).
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Colombia, India, United Kingdom, Cambodia, Uzbekistan
 
 **Book 7:** *Geografiya 6 / Physical Geography of Continents and Oceans* (student book, Russian) — Uzbekistan, IPTD «O'qituvchi», Tashkent; year 2009; ISBN 978-9943-02-245-4 (authors: Abdurasul Soatov, Ali Abdulqosimov). Title as printed: ГЕОГРАФИЯ 6 — Geografiya (Materiklar va okeanlar tabiiy geografiyasi) / Физическая география материков и океанов (Physical Geography of Continents and Oceans), textbook for Grade 6 of Russian-medium schools, 3rd supplemented edition, translated from Uzbek by I. A. Khudayberganov. Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 161 (printed book 160 pp.; byte size 62,861,979 exact match to the record, blob SHA verified SHA-OK; cover and imprint rendered and verified — image-only PDF, read in full via its printed contents, pp. 157-158, §1-§68). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/uzbekistan-placements.md.
 
+**Book 8:** *Geography, Grade 8* (student book, English) — Educational Publications Department; first print 2016, fourth print 2019; ISBN 978-955-25-0136-4. Title as printed: Geography, Grade 8. Grade: 8 (student/teacher: STUDENT). PDF pages: printed pp. 1–62 plus front matter (cover/title and contents verified against the record; GitHub grab failed with RemoteDisconnected, so the book was read in full via the record's archive.org source PDF — the same Educational Publications Department edition). Verdict: COMPLETE. Parallel edition named in the placements file: the Tamil student book (Book 3a, 2016), same four units, with a Tamil–English–Sinhala glossary — placed once under this English edition, that edition named here. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/sri-lanka-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Rain, not heat: a desert as under 250 mm of rain a year; about a third of the Earth's land is desert | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 7, printed pp. 145–147 |
@@ -27,8 +29,9 @@ countries: Ethiopia, Colombia, India, United Kingdom, Cambodia, Uzbekistan
 | United Kingdom part — §7.1 Environmental characteristics of hot deserts | United Kingdom, *United Kingdom Grade 10 AQA Geography Student Book*, §7.1 Environmental characteristics of hot deserts — printed p. 68 |
 | Cambodia part — Geography Ch.2 L1 ប្រជាជនក្នុងតំបន់វាលលំហក្តៅ (people in the hot deserts — world desert map) | Cambodia, *Cambodia Grade 7 Social Studies*, Geography Ch.2 L1 ប្រជាជនក្នុងតំបន់វាលលំហក្តៅ (people in the hot deserts — world desert map) — printed p. 28 |
 | Uzbekistan part — §25 Africa: tropical deserts and subtropics | Uzbekistan, *Uzbekistan Grade 6 Geografiya (Soatov & Abdulqosimov)*, §25 Africa: tropical deserts and subtropics — printed p. 67 |
+| Sri Lanka part — Unit 3 Landscape VI — Desert: the Thar desert — sand sheets, <250 mm rain, oases and deep wells, camel transport, desert expansion | Sri Lanka, *Sri Lanka Grade 8 G8 English*, Unit 3 Landscape VI — Desert: the Thar desert — sand sheets, <250 mm rain, oases and deep wells, camel transport, desert expansion — printed p. 45 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Colombia, India, United Kingdom, Cambodia, Uzbekistan).**
+**Acceptance count: taught in 7 countries (Ethiopia, Colombia, India, United Kingdom, Cambodia, Uzbekistan, Sri Lanka).**
 
 Book error taught corrected: the book's list of the four desert types is numbered 1, 2, 2, 3 as printed; the lesson teaches the four types as a clean list of four and names the misprint here. The rainfall, area and table figures are the book's own figures as printed, including its UN-era table. There is NO Grade 8 teacher-guide coverage for Chapter 7: the Grade 8 guide in hand holds only Units 1–3, so no teacher evidence is claimed for any Grade 8 part of this lesson.
 
@@ -45,3 +48,5 @@ United Kingdom's own way: A single exam-board (AQA) GCSE textbook organised as t
 Cambodia's own way (Cambodia Grade 7 Social Studies): from Grade 7 the combined Social Studies book splits into four named subject sections; its Geography section teaches people-in-environments — hot zones, deserts and oases, polar peoples, climate zones — through world case studies (Kenya farmers, Amazon, Inuit, Sahara oil) before turning to world population.
 
 Uzbekistan's own way (Uzbekistan Grade 6 Geografiya): Geography in Grade 6 is the physical geography of continents and oceans in the Russian/Soviet textbook tradition — first the Earth's geographic envelope and the World Ocean, then every continent in a fixed order (position, geological structure and relief, climate, inland waters, natural zones, population), closing with the population of the Earth and the political map of the world; nearly every chapter ends in a practical work.
+
+Sri Lanka's own way (Sri Lanka Grade 8 G8 English): a four-unit arc — Solar System, Earth's uniqueness, then regional geography taught as six South Asian "landscapes" (mountain, valley, coastal, rural, industrial-urban, desert), closing with Sri Lanka's own 1:50,000 topographic-sheet system (92 sheets) that Grade 9 continues.
